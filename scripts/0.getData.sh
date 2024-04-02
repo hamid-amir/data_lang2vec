@@ -1,4 +1,4 @@
-# MILTALE: note that this takes a long time to download (5-7 days)
+# note that this takes a long time to download (5-7 days)
 cd data
 echo "get LTI-LangID-rel5.txz from https://sourceforge.net/projects/la-strings/files/Language-Data/LTI-LangID-rel5.txz/download"
 tar Jxvf LTI-LangID-rel5.txz
