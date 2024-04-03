@@ -2,10 +2,10 @@ import lang2vec.lang2vec as l2v
 import myutils
 import os
 
-langs = {}
+langs = set()
 for lang_file in os.listdir('data/MILTALE-CLEAN/'):
     lang_code = lang_file.split('.')[0]
-    langs[lang_code] = lang_file
+    langs.add(lang_code)
 
 
 found = 0
@@ -25,7 +25,8 @@ for lang in l2v.LANGUAGES:
     data_langs.append(lang)
     data.append(langvec)
     data_knn.append(langvec_knn)
-print(len(data))
+print(len(data), len(langs))
+
 import pickle
 with open('data.pickle', 'wb') as f:
     pickle.dump([data_langs, data, data_knn], f)

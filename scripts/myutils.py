@@ -1,3 +1,4 @@
+
 iso639 = {}
 macros = set()
 for line in open('scripts/iso-639-3.tab').readlines()[1:]:
@@ -15,18 +16,20 @@ for line in open('scripts/iso-639-3_Retirements.tab').readlines()[1:]:
     if new != '':
         iso639_conv[prev] = new
 
-def iso2lang(code):
+def code2iso(code):
     if code in iso639_conv:
         code = iso639_conv[code]
 
     if code in iso639: 
-        return iso639[code]
-    elif code in macros:
-        return "MACRO"
-    elif '-' in code:
-        return "DIALECT"
+        return code
     else:
         return None
+    #elif code in macros:
+    #    return "MACRO"
+    #elif '-' in code:
+    #    return "DIALECT"
+    #else:
+    #    return None
 
 
 
