@@ -28,7 +28,7 @@ for lang in l2v.LANGUAGES:
 print(len(data), len(langs))
 
 import pickle
-with open('data.pickle', 'wb') as f:
+with open('lang2vec.pickle', 'wb') as f:
     pickle.dump([data_langs, data, data_knn], f)
 
 

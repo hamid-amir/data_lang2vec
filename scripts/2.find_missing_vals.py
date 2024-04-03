@@ -10,7 +10,7 @@ import pickle
 import lang2vec.lang2vec as l2v
 
 
-langs, vectors, vectors_knn = pickle.load(open('data.pickle', 'rb'))
+langs, vectors, vectors_knn = pickle.load(open('lang2vec.pickle', 'rb'))
 
 
 # Create gold labels for missing values, note that it is of length 
