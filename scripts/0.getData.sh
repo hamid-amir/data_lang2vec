@@ -1,3 +1,16 @@
+
+
+# This is the faster alternative
+cd data
+wget https://itu.dk/~robv/data/MILTALE.zip
+unzip -P NLPnorth MILTALE.zip
+cd ../
+python3 scripts/0.merge_miltale.py
+
+exit
+
+
+# This is the full code
 # note that this takes a long time to download (5-7 days)
 mkdir -p data
 cd data
@@ -17,13 +30,5 @@ tar Jxvf LTI-LangID-rel5-errata.tx
 # Generate reduced-size training sets? (y/N) n
 # Generate devtest-only training set(s)? (y/N) n
 cd ../../
-python3 scripts/0.merge_miltale.py
-
-
-# This is the faster alternative
-cd data
-wget https://itu.dk/~robv/data/MILTALE.zip
-unzip -P NLPnorth MILTALE.zip
-cd ../
 python3 scripts/0.merge_miltale.py
 
