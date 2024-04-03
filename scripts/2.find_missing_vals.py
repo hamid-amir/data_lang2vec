@@ -1,3 +1,11 @@
+
+# the main structure is that we get for each cell in the lang2vec matrix
+# (language +feature) a gold value (in y), and a list of features describing
+# this cell (in x). The features can be based on the language, on the feature,
+# or on the text. We will then shuffle them, and do a k-fold prediction (to get
+# an idea of performance). In the end we can use confidence thresholds or false
+# negatives to get our "likely to be missing, but we have a gold label" cells.
+
 import pickle
 import lang2vec.lang2vec as l2v
 
@@ -5,7 +13,9 @@ import lang2vec.lang2vec as l2v
 langs, vectors, vectors_knn = pickle.load(open('data.pickle', 'rb'))
 
 
-# Create gold labels for missing values
+# Create gold labels for missing values, note that it is of length 
+# #langs * #features
+# 0 indicates that the feature is missing, 1 indicates that it is present
 y = []
 x_langs = []
 for vector, lang in zip(vectors, langs):
@@ -38,7 +48,7 @@ for line in open('scripts/List_of_Wikipedias'):
     if 'rg/wiki/Special:Statistics" class="extiw" title=' in line:
         size = line.strip().split('>')[2].split('<')[0]
         wiki_sizes[-1][1] = size
-
+# convert to dict
 wiki_sizes = {lang:size for lang, size in wiki_sizes}
 
 # Feature names can be split by '_' and used as features
@@ -52,4 +62,6 @@ for lang in x_langs:
 
 # shuffle + k-fold
 
-# train models
+# train model (we could also save the features, and train/eval models in a
+# separate script, might be cleaner)
+
