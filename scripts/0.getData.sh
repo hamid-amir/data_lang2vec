@@ -19,7 +19,8 @@ tar Jxvf LTI-LangID-rel5.txz
 cd MIL-TALE/5
 cp ../../scripts/LTI-LangID-rel5-errata.txz .
 tar Jxvf LTI-LangID-rel5-errata.tx
-./code/install.sh
+./code/install.sh -dl -all -sample -j 8 all
+#./code/install.sh
 # ../../MILTALE
 # Include downloadable languages? (y/N) y
 #    Retrieve downloadable languages? (takes 2-3 days) (y/N) y

@@ -8,20 +8,25 @@
 
 import pickle
 import lang2vec.lang2vec as l2v
-
+import time
 
 langs, vectors, vectors_knn = pickle.load(open('lang2vec.pickle', 'rb'))
+
+# Feature names can be split by '_' and used as features
+feature_names = l2v.get_features('eng', 'syntax_wals+phonology_wals', header=True)['CODE']
+print(len(feature_names), len(langs))
 
 
 # Create gold labels for missing values, note that it is of length 
 # #langs * #features
 # 0 indicates that the feature is missing, 1 indicates that it is present
 y = []
-x_langs = []
+names = []
 for vector, lang in zip(vectors, langs):
     gold_labels = [0 if val == -100 else 1 for val in vector]
     y.extend(gold_labels)
-    x_langs.extend([lang]*len(gold_labels))
+    for feature in feature_names:
+        names.append(lang + '|' + feature)
 
 # Read wikipedia sizes
 two2three = {}
@@ -47,21 +52,86 @@ for line in open('scripts/List_of_Wikipedias'):
             wiki_sizes.append([lang2code[lang], 0])
     if 'rg/wiki/Special:Statistics" class="extiw" title=' in line:
         size = line.strip().split('>')[2].split('<')[0]
-        wiki_sizes[-1][1] = size
+        wiki_sizes[-1][1] = int(size.replace(',',''))
 # convert to dict
 wiki_sizes = {lang:size for lang, size in wiki_sizes}
 
-# Feature names can be split by '_' and used as features
-feature_names = l2v.get_features('eng', 'syntax_wals+phonology_wals', header=True)['CODE']
 
 # Create features
 x = []
-for lang in x_langs:
+
+# start with wikipedia size
+for lang in langs:
     wiki_size = 0 if lang not in wiki_sizes else wiki_sizes[lang] 
-    x.append([wiki_size])
+    x.extend([[wiki_size] for _ in range(len(feature_names))])
 
+# add feature location (as binary) feature
+for langIdx, _ in enumerate(langs):
+    for featureIdx, _ in enumerate(feature_names):
+        instanceIdx = langIdx * len(feature_names) + featureIdx
+        # convert to binary
+        features_to_add = [0] * len(feature_names)
+        features_to_add[featureIdx] = 1
+        x[instanceIdx].extend(features_to_add)
+        
 # shuffle + k-fold
+z = [[feats, gold, name] for feats, gold, name in zip(x, y, names)]
+import random
+random.seed(8446)
+random.shuffle(z)
 
+x = [item[0] for item in z]
+y = [item[1] for item in z]
+names = [item[2] for item in z]
+
+for i in range(100):
+    print(names[i], y[i], x[i][:10])
+
+split1 = int(len(z) * .6)
+split2 = int(len(z) * .8)
+train_x = x[:split1]
+dev_x = x[split1:split2]
+train_y = y[:split1]
+dev_y = y[split1:split2]
+train_names = names[:split1]
+dev_names = names[split1:split2]
+print('base')
+print(len(dev_y), sum([0 == gold for gold in dev_y]))
+
+start_time = time.time()
+from sklearn import svm
 # train model (we could also save the features, and train/eval models in a
 # separate script, might be cleaner)
+clf = svm.SVC(random_state=8446, probability=True)
+clf.fit(train_x, train_y)
+#pred_probs = clf.predict_proba(dev_x) # = len(instances) * 2
+pred_y = clf.predict(dev_x)
+print('svc')
+print(len(dev_y), sum([pred == gold for pred, gold in zip(pred_y, dev_y)]))
+print("--- %s seconds ---" % (time.time() - start_time))
+
+
+start_time = time.time()
+from sklearn.linear_model import LogisticRegression
+clf = LogisticRegression(random_state=8446)
+clf.fit(train_x, train_y)
+pred_y = clf.predict(dev_x)
+print('logres')
+print(len(dev_y), sum([pred == gold for pred, gold in zip(pred_y, dev_y)]))
+print("--- %s seconds ---" % (time.time() - start_time))
+
+start_time = time.time()
+from sklearn.ensemble import RandomForestClassifier
+clf = RandomForestClassifier(max_depth=None, num_estimators=100, random_state=0)
+clf.fit(train_x, train_y)
+pred_y = clf.predict(dev_x)
+print('randomforest')
+print(len(dev_y), sum([pred == gold for pred, gold in zip(pred_y, dev_y)]))
+print("--- %s seconds ---" % (time.time() - start_time))
+
+# Here is the k-fold implementation, but its kind of slow:
+#from sklearn.model_selection import cross_val_score
+#clf = svm.SVC(random_state=0)
+#print(cross_val_score(clf, x, y, cv=5, scoring='accuracy'))
+
 
