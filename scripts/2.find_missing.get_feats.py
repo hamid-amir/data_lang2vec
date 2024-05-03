@@ -95,43 +95,8 @@ train_y = y[:split1]
 dev_y = y[split1:split2]
 train_names = names[:split1]
 dev_names = names[split1:split2]
-print('base')
-print(len(dev_y), sum([0 == gold for gold in dev_y]))
 
-start_time = time.time()
-from sklearn import svm
-# train model (we could also save the features, and train/eval models in a
-# separate script, might be cleaner)
-clf = svm.SVC(random_state=8446, probability=True)
-clf.fit(train_x, train_y)
-#pred_probs = clf.predict_proba(dev_x) # = len(instances) * 2
-pred_y = clf.predict(dev_x)
-print('svc')
-print(len(dev_y), sum([pred == gold for pred, gold in zip(pred_y, dev_y)]))
-print("--- %s seconds ---" % (time.time() - start_time))
-
-
-start_time = time.time()
-from sklearn.linear_model import LogisticRegression
-clf = LogisticRegression(random_state=8446)
-clf.fit(train_x, train_y)
-pred_y = clf.predict(dev_x)
-print('logres')
-print(len(dev_y), sum([pred == gold for pred, gold in zip(pred_y, dev_y)]))
-print("--- %s seconds ---" % (time.time() - start_time))
-
-start_time = time.time()
-from sklearn.ensemble import RandomForestClassifier
-clf = RandomForestClassifier(max_depth=None, num_estimators=100, random_state=0)
-clf.fit(train_x, train_y)
-pred_y = clf.predict(dev_x)
-print('randomforest')
-print(len(dev_y), sum([pred == gold for pred, gold in zip(pred_y, dev_y)]))
-print("--- %s seconds ---" % (time.time() - start_time))
-
-# Here is the k-fold implementation, but its kind of slow:
-#from sklearn.model_selection import cross_val_score
-#clf = svm.SVC(random_state=0)
-#print(cross_val_score(clf, x, y, cv=5, scoring='accuracy'))
+with open('feats.pickle', 'wb') as f:
+    pickle.dump([train_x, dev_x, train_y, dev_y], f)
 
 
