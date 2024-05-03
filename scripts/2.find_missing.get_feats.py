@@ -97,6 +97,6 @@ train_names = names[:split1]
 dev_names = names[split1:split2]
 
 with open('feats.pickle', 'wb') as f:
-    pickle.dump([train_x, dev_x, train_y, dev_y], f)
+    pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names], f)
 
 
