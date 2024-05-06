@@ -9,6 +9,13 @@
 import pickle
 import lang2vec.lang2vec as l2v
 import time
+import myutils
+import random 
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import OneHotEncoder
+
+random.seed(myutils.seed)
 
 langs, vectors, vectors_knn = pickle.load(open('lang2vec.pickle', 'rb'))
 
@@ -28,56 +35,67 @@ for vector, lang in zip(vectors, langs):
     for feature in feature_names:
         names.append(lang + '|' + feature)
 
-# Read wikipedia sizes
-two2three = {}
-threes = set()
-lang2code = {}
-for line in open('scripts/iso-639-3.tab').readlines()[1:]:
-    tok = line.strip().split('\t')
-    if tok[3] != '':
-        two2three[tok[3]] = tok[0]
-    threes.add(tok[0])
-    lang2code[tok[6]] = tok[0]
-wiki_sizes = []
-for line in open('scripts/List_of_Wikipedias'):
-    if line.startswith('<td><a href="https://en.wikipedia.org/wiki/') and '_language' in line:
-        lang = line.strip().split('<')[-3].split('>')[-1]
-    if line.startswith('<td><bdi lang='):
-        lang_code = line.strip().split('"')[1].split('-')[0]
-        if lang_code in two2three:
-            wiki_sizes.append([two2three[lang_code], 0])
-        elif lang_code in threes:
-            wiki_sizes.append([lang_code, 0])
-        elif lang in lang2code:
-            wiki_sizes.append([lang2code[lang], 0])
-    if 'rg/wiki/Special:Statistics" class="extiw" title=' in line:
-        size = line.strip().split('>')[2].split('<')[0]
-        wiki_sizes[-1][1] = int(size.replace(',',''))
-# convert to dict
-wiki_sizes = {lang:size for lang, size in wiki_sizes}
-
 
 # Create features
-x = []
+x = {'lang_id': [], 'feat_id': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
 
-# start with wikipedia size
-for lang in langs:
-    wiki_size = 0 if lang not in wiki_sizes else wiki_sizes[lang] 
-    x.extend([[wiki_size] for _ in range(len(feature_names))])
-
-# add feature location (as binary) feature
 for langIdx, _ in enumerate(langs):
-    for featureIdx, _ in enumerate(feature_names):
+    for featureIdx, feat_name in enumerate(feature_names):
         instanceIdx = langIdx * len(feature_names) + featureIdx
-        # convert to binary
-        features_to_add = [0] * len(feature_names)
-        features_to_add[featureIdx] = 1
-        x[instanceIdx].extend(features_to_add)
+        # language identifier
+        x['lang_id'].append(langIdx)
+
+        # Add feature location
+        x['feat_id'].append(featureIdx)
         
-# shuffle + k-fold
+        # Group from paper
+        x['lang_group'].append(int(myutils.getGroup(lang)[0]))
+
+        # Group from glottolog
+        x['aes_status'].append(int(myutils.getAES(lang)[0]))
+        
+        # Wikipedia size
+        x['wiki_size'].append(myutils.getWikiSize(lang))
+
+        # Number of speakers
+        x['num_speakers'].append(myutils.get_aspj_speakers(lang))
+
+        # Language family
+        x['lang_fam'].append(myutils.get_fam(lang))
+
+        # Scripts
+        x['scripts'].append('_'.join(myutils.getScripts(lang)))
+
+        # feature name
+        x['feat_name'].append(feat_name)
+
+print('generating done')
+
+def underline_tok(line):
+    return line.split('_')
+
+# https://scikit-learn.org/stable/modules/compose.html#columntransformer-for-heterogeneous-data
+fam_vectorizer = CountVectorizer(binary=True, tokenizer=underline_tok, ngram_range=(1, 1), analyzer='word')
+script_vectorizer = CountVectorizer(binary=True, tokenizer=underline_tok, ngram_range=(1, 1), analyzer='word')
+featname_vectorizer = CountVectorizer(binary=True, tokenizer=underline_tok, ngram_range=(1, 1), analyzer='word')
+
+column_trans = ColumnTransformer(
+     [('lang_id', OneHotEncoder(dtype='int'), ['lang_id']),
+      ('feat_id', OneHotEncoder(dtype='int'), ['feat_id']),
+      ('lang_fam', fam_vectorizer, 'lang_fam'),
+      ('scripts', script_vectorizer, 'scripts'),
+      ('feat_name', featname_vectorizer, 'feat_name')],
+     remainder='passthrough', verbose_feature_names_out=False)
+
+column_trans.fit(x)
+print(column_trans.get_feature_names_out())
+column_trans.transform(x).toarray()
+exit(1)
+
+
+
+# shuffle
 z = [[feats, gold, name] for feats, gold, name in zip(x, y, names)]
-import random
-random.seed(8446)
 random.shuffle(z)
 
 x = [item[0] for item in z]
