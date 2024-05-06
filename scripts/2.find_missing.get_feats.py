@@ -39,17 +39,17 @@ for vector, lang in zip(vectors, langs):
 # Create features
 x = {'lang_id': [], 'feat_id': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
 
-for langIdx, _ in enumerate(langs):
+for langIdx, lang in enumerate(langs):
     for featureIdx, feat_name in enumerate(feature_names):
         instanceIdx = langIdx * len(feature_names) + featureIdx
         # language identifier
-        x['lang_id'].append(langIdx)
+        x['lang_id'].append(str(langIdx))
 
         # Add feature location
-        x['feat_id'].append(featureIdx)
+        x['feat_id'].append(str(featureIdx))
         
         # Group from paper
-        x['lang_group'].append(int(myutils.getGroup(lang)[0]))
+        x['lang_group'].append(myutils.getGroup(lang))
 
         # Group from glottolog
         x['aes_status'].append(int(myutils.getAES(lang)[0]))
@@ -87,22 +87,21 @@ column_trans = ColumnTransformer(
       ('feat_name', featname_vectorizer, 'feat_name')],
      remainder='passthrough', verbose_feature_names_out=False)
 
-column_trans.fit(x)
-print(column_trans.get_feature_names_out())
-column_trans.transform(x).toarray()
-exit(1)
-
-
+# why do we need pandas?
+import pandas as pd
+x = column_trans.fit_transform(pd.DataFrame(x))
+all_feat_names = column_trans.get_feature_names_out()
+x_numpy = x.toarray()
 
 # shuffle
-z = [[feats, gold, name] for feats, gold, name in zip(x, y, names)]
+z = [[feats, gold, name] for feats, gold, name in zip(list(x_numpy), y, names)]
 random.shuffle(z)
 
 x = [item[0] for item in z]
 y = [item[1] for item in z]
 names = [item[2] for item in z]
 
-for i in range(100):
+for i in range(10):
     print(names[i], y[i], x[i][:10])
 
 split1 = int(len(z) * .6)
@@ -115,6 +114,6 @@ train_names = names[:split1]
 dev_names = names[split1:split2]
 
 with open('feats.pickle', 'wb') as f:
-    pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names], f)
+    pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
 
 

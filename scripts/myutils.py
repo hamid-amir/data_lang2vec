@@ -147,8 +147,8 @@ for line in open('data/lang2tax.txt.codes'):
 
 def getGroup(lang):
     if lang in iso2group:
-        return group2name[iso2group[lang]]
-    return None
+        return int(group2name[iso2group[lang]][0])
+    return -1
 
 # String distances from the AsjpDist-full program
 # @author: rarakar

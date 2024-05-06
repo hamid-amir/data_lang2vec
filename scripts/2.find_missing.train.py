@@ -4,7 +4,7 @@ import sys
 import myutils
 from sklearn.metrics import f1_score, precision_score, recall_score
 
-train_x, train_y, train_names, dev_x, dev_y, dev_names = pickle.load(open('feats.pickle', 'rb'))
+train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names = pickle.load(open('feats.pickle', 'rb'))
 
 
 start_time = time.time()
