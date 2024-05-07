@@ -1,5 +1,6 @@
 __pycache__
 *pyc
-data
+.env
+data_miltale
 v1_hamidreza.ipynb
 questions.txt
