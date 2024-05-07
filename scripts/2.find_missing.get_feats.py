@@ -52,7 +52,7 @@ for langIdx, lang in enumerate(langs):
         x['lang_group'].append(myutils.getGroup(lang))
 
         # Group from glottolog
-        x['aes_status'].append(int(myutils.getAES(lang)[0]))
+        x['aes_status'].append(int(myutils.getAES(lang)))
         
         # Wikipedia size
         x['wiki_size'].append(myutils.getWikiSize(lang))

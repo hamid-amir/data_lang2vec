@@ -253,6 +253,6 @@ for line in open('data/aes.csv'):
 
 def getAES(lang):
     if lang in aes:
-        return aes[lang]
-    return none
+        return aes[lang][0]
+    return -1
 
