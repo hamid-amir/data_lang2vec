@@ -74,24 +74,7 @@ def get_fam(lang):
     return curNode.name.split('[')[1].split(']')[0]
 
 
-def treeDist(path1, path2):
-    # The percentage of trees of distance. This means that if you are in two
-    # different trees, it will also be 2.0 If both languages are in the same
-    # tree it is #overlapping edges/the total edges of the deepest language of
-    # the two.
-    if path1 == None or path2 == None:
-        return None
 
-    overlap_counter = 0
-    found = False
-    for item in path1:
-        if item in path2:
-            overlap_counter += 1
-    if overlap_counter == 0:
-        return 2.0
-    overlap_tree1 = 1- overlap_counter/len(path1)
-    overlap_tree2 = 1- overlap_counter/len(path2)
-    return overlap_tree1 + overlap_tree2
 
 # Reading wikipedia sizes. They use two character language codes, 
 # so we also need the conversion
@@ -201,50 +184,13 @@ for lineIdx, line in enumerate(aspj_lines):
             if speakers >= 0:
                 aspj_speakers[lang_code] = speakers
 
-def expand_list(data):
-    new_data = [None] * 100
-    for item in data:
-        new_data[int(item[0])-1] = item[-1]
-    return new_data
 
 def get_aspj_speakers(lang):
     if lang in aspj_speakers:
         return aspj_speakers[lang]
     return 0
 
-def get_aspj_dist(lang1, lang2):
-    # https://aclanthology.org/W12-0212.pdf
-    # "Adding typology to lexicostatistics"
-    if lang1 not in aspj_data or lang2 not in aspj_data:
-        return None
-    data1 = expand_list(aspj_data[lang1])
-    data2 = expand_list(aspj_data[lang2])
-    dists = [[None]*100 for _ in range(100)]
-    for idx1, item1 in enumerate(data1):
-        for idx2, item2 in enumerate(data2):
-            if None not in [item1, item2]:
-                # TODO handle multiple items (,)
-                all_dists = []
-                for item1_alternative in item1.split(', '):
-                    for item2_alternative in item2.split(', '):
-                        all_dists.append(levenshtein(item1_alternative, item2_alternative))
-                dists[idx1][idx2] = sum(all_dists)/len(all_dists)
-    items_ldnd = []
-    # get average over all non-matching pairs to normalize for chance
-    all_dists = []
-    for x in range(100):
-        for y in range(100):
-            if x != y and dists[x][y] != None:
-                all_dists.append(dists[x][y])
-    avg_dist = sum(all_dists)/len(all_dists)
 
-    all_ldnd = []
-    for item in range(100):
-        if dists[item][item] != None:
-            ldn = dists[item][item]
-            ldnd = ldn/avg_dist 
-            all_ldnd.append(ldnd)
-    return sum(all_ldnd)/len(all_ldnd)
 
 aes = {}
 for line in open('data/aes.csv'):

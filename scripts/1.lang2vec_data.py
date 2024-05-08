@@ -3,7 +3,7 @@ import myutils
 import os
 
 langs = set()
-for lang_file in os.listdir('data/MILTALE-CLEAN/'):
+for lang_file in os.listdir('data_miltale/MILTALE-CLEAN/'):
     lang_code = lang_file.split('.')[0]
     langs.add(lang_code)
 

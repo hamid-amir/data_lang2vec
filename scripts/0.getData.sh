@@ -1,7 +1,7 @@
 
 
 # This is the faster alternative
-cd data
+cd data_miltale
 wget https://itu.dk/~robv/data/MILTALE.zip
 unzip -P NLPnorth MILTALE.zip
 cd ../

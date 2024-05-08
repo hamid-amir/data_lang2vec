@@ -6,7 +6,7 @@ train_files = os.listdir(mil_dir + 'train')
 dev_files = os.listdir(mil_dir + 'devtest')
 test_files = os.listdir(mil_dir + 'test')
 
-cleaned_dir = 'data/MILTALE-CLEAN/'
+cleaned_dir = 'data_miltale/MILTALE-CLEAN/'
 if not os.path.isdir(cleaned_dir):
     os.mkdir(cleaned_dir)
 
