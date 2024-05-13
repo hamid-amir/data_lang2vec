@@ -1,4 +1,6 @@
 lang2vec
 newick
 scipy
-sklearn
+scikit-learn
+tqdm
+pandas
