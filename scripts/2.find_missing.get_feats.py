@@ -9,6 +9,7 @@
 import pickle
 import lang2vec.lang2vec as l2v
 import time
+from tqdm import tqdm
 import myutils
 import random 
 from sklearn.feature_extraction.text import CountVectorizer
@@ -29,7 +30,8 @@ print(len(feature_names), len(langs))
 # 0 indicates that the feature is missing, 1 indicates that it is present
 y = []
 names = []
-for vector, lang in zip(vectors, langs):
+print('create y and names:')
+for vector, lang in tqdm(zip(vectors, langs), total=len(vectors)):
     gold_labels = [0 if val == -100 else 1 for val in vector]
     y.extend(gold_labels)
     for feature in feature_names:
@@ -38,8 +40,8 @@ for vector, lang in zip(vectors, langs):
 
 # Create features
 x = {'lang_id': [], 'feat_id': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
-
-for langIdx, lang in enumerate(langs):
+print('create x(features):')
+for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
     for featureIdx, feat_name in enumerate(feature_names):
         instanceIdx = langIdx * len(feature_names) + featureIdx
         # language identifier

@@ -3,7 +3,7 @@ seed = 8446
 # Handling of iso639 codes
 iso639 = {}
 macros = set()
-for line in open('data/iso-639-3.tab').readlines()[1:]:
+for line in open('data/iso-639-3.tab', encoding="utf8").readlines()[1:]:
     tok = line.strip().split('\t')
     if tok[4] == 'I':
         iso639[tok[0]] = tok[6]
@@ -11,7 +11,7 @@ for line in open('data/iso-639-3.tab').readlines()[1:]:
         macros.add(tok[0])
 
 iso639_conv = {}
-for line in open('data/iso-639-3_Retirements.tab').readlines()[1:]:
+for line in open('data/iso-639-3_Retirements.tab', encoding="utf8").readlines()[1:]:
     tok = line.strip().split('\t')
     prev = tok[0]
     new = tok[3]
@@ -37,7 +37,7 @@ def code2iso(code):
 # Handling of language families of glottolog
 trees = []
 from newick import loads
-for line in open('data/tree_glottolog_newick.txt'):
+for line in open('data/tree_glottolog_newick.txt', encoding="utf8"):
     tree = loads(line.strip())
     trees.append(tree[0])
 
@@ -81,14 +81,14 @@ def get_fam(lang):
 two2three = {}
 threes = set()
 lang2code = {}
-for line in open('data/iso-639-3.tab').readlines()[1:]:
+for line in open('data/iso-639-3.tab', encoding="utf8").readlines()[1:]:
     tok = line.strip().split('\t')
     if tok[3] != '':
         two2three[tok[3]] = tok[0]
     threes.add(tok[0])
     lang2code[tok[6]] = tok[0]
 wiki_sizes = []
-for line in open('data/List_of_Wikipedias'):
+for line in open('data/List_of_Wikipedias', encoding="utf8"):
     if line.startswith('<td><a href="https://en.wikipedia.org/wiki/') and '_language' in line:
         lang = line.strip().split('<')[-3].split('>')[-1]
     if line.startswith('<td><bdi lang='):
@@ -112,7 +112,7 @@ def getWikiSize(lang):
 # Read glotscript data. Note that Brai (braille) is removed, because
 # annotation is incomplete
 glotscript_data = {}
-for line in open('data/GlotScript.tsv').readlines()[1:]:
+for line in open('data/GlotScript.tsv', encoding="utf8").readlines()[1:]:
     tok = line.strip().lower().split('\t')
     if len(tok) > 1:
         glotscript_data[tok[0]] = set([x.strip() for x in tok[1].split(',') if x != ' brai'])
@@ -124,7 +124,7 @@ def getScripts(lang):
 
 group2name = {'0': '0. The Left-Behinds', '1': '1. The Scraping-Bys', '2': '2. The Hopefuls', '3': '3. The Rising Stars', '4': '4. The Underdogs', '5': '5. The Winners'}
 iso2group = {}
-for line in open('data/lang2tax.txt.codes'):
+for line in open('data/lang2tax.txt.codes', encoding="utf8"):
     iso, group, name = line.strip().split(',') 
     iso2group[iso] = group
 
