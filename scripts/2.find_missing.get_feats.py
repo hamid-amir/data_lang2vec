@@ -62,6 +62,7 @@ for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
         # Number of speakers
         x['num_speakers'].append(myutils.get_aspj_speakers(lang))
 
+        # Language family is just one string, could have been all hight levels
         # Language family
         x['lang_fam'].append(myutils.get_fam(lang))
 
@@ -87,7 +88,7 @@ column_trans = ColumnTransformer(
       ('lang_fam', fam_vectorizer, 'lang_fam'),
       ('scripts', script_vectorizer, 'scripts'),
       ('feat_name', featname_vectorizer, 'feat_name')],
-     remainder='passthrough', verbose_feature_names_out=False)
+     remainder='passthrough', verbose_feature_names_out=True)
 
 # why do we need pandas?
 import pandas as pd

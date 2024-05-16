@@ -69,7 +69,7 @@ def get_fam(lang):
             if '[' + lang + ']' in item.name:
                 found = item
     if found == None:
-        return None
+        return ''
     curNode = found
     return curNode.name.split('[')[1].split(']')[0]
 
