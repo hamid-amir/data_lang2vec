@@ -42,6 +42,13 @@ for vector, lang in tqdm(zip(vectors, langs), total=len(vectors)):
 x = {'lang_id': [], 'feat_id': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
 print('create x(features):')
 for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
+    geo = myutils.getGeo(lang)
+    group = myutils.getGroup(lang)
+    aes = myutils.getAES(lang)
+    wiki_size = myutils.getWikiSize(lang)
+    aspj_speakers = myutils.get_aspj_speakers(lang)
+    fam = myutils.get_fam(lang)
+    scripts = myutils.getScripts(lang)
     for featureIdx, feat_name in enumerate(feature_names):
         instanceIdx = langIdx * len(feature_names) + featureIdx
         # language identifier
@@ -51,23 +58,23 @@ for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
         x['feat_id'].append(str(featureIdx))
         
         # Group from paper
-        x['lang_group'].append(myutils.getGroup(lang))
+        x['lang_group'].append(group)
 
         # Group from glottolog
-        x['aes_status'].append(int(myutils.getAES(lang)))
+        x['aes_status'].append(int(aes))
         
         # Wikipedia size
-        x['wiki_size'].append(myutils.getWikiSize(lang))
+        x['wiki_size'].append(wiki_size)
 
         # Number of speakers
-        x['num_speakers'].append(myutils.get_aspj_speakers(lang))
+        x['num_speakers'].append(aspj_speakers)
 
         # Language family is just one string, could have been all hight levels
         # Language family
-        x['lang_fam'].append(myutils.get_fam(lang))
+        x['lang_fam'].append(fam)
 
         # Scripts
-        x['scripts'].append('_'.join(myutils.getScripts(lang)))
+        x['scripts'].append('_'.join(scripts))
 
         # feature name
         x['feat_name'].append(feat_name)
