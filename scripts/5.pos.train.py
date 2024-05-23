@@ -17,6 +17,7 @@ for dataset in os.listdir(ud_dir):
             data_config['dev_data_path'] = '../' + dev
         else:
             data_config['dev_data_path'] = '../' + test
+        data_config['max_words'] = 200000
         data_config['tasks']['upos'] = {'task_type': 'seq', 'column_idx': 3}
         data_config['tasks']['tok'] = {'task_type': 'tok', 'column_idx': -1, 'pre_split': False}
         datasets[dataset] = data_config
