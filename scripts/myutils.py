@@ -1,3 +1,10 @@
+import os
+import json
+import _jsonnet
+
+lms = ['bert-base-multilingual-cased', 'cardiffnlp/twitter-xlm-roberta-base', 'microsoft/infoxlm-large', 'microsoft/mdeberta-v3-base', 'studio-ousia/mluke-large', 'xlm-roberta-large', 'facebook/xlm-roberta-xl', 'Twitter/twhin-bert-large' ]  
+
+
 seed = 8446
 
 # Handling of iso639 codes
@@ -201,4 +208,51 @@ def getAES(lang):
     if lang in aes:
         return aes[lang][0]
     return -1
+
+def getTrainDevTest(path):
+    train = ''
+    dev = ''
+    test = ''
+    for conlFile in os.listdir(path):
+        if conlFile.endswith('conllu'):
+            if 'train' in conlFile:
+                train = path + '/' + conlFile
+            if 'dev' in conlFile:
+                dev = path + '/' + conlFile
+            if 'test' in conlFile:
+                test = path + '/' + conlFile
+    return train, dev, test
+
+def hasColumn(path, idx, threshold=.1):
+    total = 0
+    noWord = 0
+    for line in open(path).readlines()[:5000]:
+        if line[0] == '#' or len(line) < 2:
+            continue
+        tok = line.strip().split('\t')
+        if tok[idx] == '_':
+            noWord += 1
+        total += 1
+    return noWord/total < threshold
+
+def load_json(path: str):
+    """
+    Loads a jsonnet file through the json package and returns a dict.
+    
+    Parameters
+    ----------
+    path: str
+        the path to the json(net) file to load
+    """
+    return json.loads(_jsonnet.evaluate_snippet("", '\n'.join(open(path).readlines())))
+
+def getModel(name):
+    modelDir = 'machamp/logs/'
+    nameDir = modelDir + name + '/'
+    if os.path.isdir(nameDir):
+        for modelDir in reversed(os.listdir(nameDir)):
+            modelPath = nameDir + modelDir + '/model.pt'
+            if os.path.isfile(modelPath):
+                return modelPath
+    return ''
 

@@ -42,7 +42,7 @@ for vector, lang in tqdm(zip(vectors, langs), total=len(vectors)):
 x = {'lang_id': [], 'feat_id': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
 print('create x(features):')
 for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
-    geo = myutils.getGeo(lang)
+    #geo = myutils.getGeo(lang)
     group = myutils.getGroup(lang)
     aes = myutils.getAES(lang)
     wiki_size = myutils.getWikiSize(lang)
@@ -114,6 +114,20 @@ names = [item[2] for item in z]
 for i in range(10):
     print(names[i], y[i], x[i][:10])
 
+## k-fold with k=5
+#for i in range(5):
+#    split = int(len(z) * .8)
+#    train_x = x[:split]
+#    train_y = y[:split]
+#    dev_x = x[split:]
+#    dev_y = y[split:]
+#    train_names = names[:split]
+#    dev_names = names[split:]
+
+#    with open('feats-fold' + str(i) + '.pickle', 'wb') as f:
+#        pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
+
+# The old 60-20-20 split, is mainly here for legacy reasons
 split1 = int(len(z) * .6)
 split2 = int(len(z) * .8)
 train_x = x[:split1]
@@ -126,4 +140,6 @@ dev_names = names[split1:split2]
 with open('feats.pickle', 'wb') as f:
     pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
 
+with open('feats-full.pickle', 'wb') as f:
+    pickle.dump([x, y, names, all_feat_names], f)
 
