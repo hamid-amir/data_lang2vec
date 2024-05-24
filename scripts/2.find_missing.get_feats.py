@@ -14,7 +14,8 @@ import myutils
 import random 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
+from sklearn.decomposition import PCA, TruncatedSVD
 
 random.seed(myutils.seed)
 
@@ -40,17 +41,30 @@ for vector, lang in tqdm(zip(vectors, langs), total=len(vectors)):
         names.append(lang + '|' + feature)
 
 
+# load pylogency matrix 
+phyl_matrix_sparse = pickle.load(open('phyl-matrix-sparse.pickle', 'rb'))
+phyl_matrix = phyl_matrix_sparse.toarray()
+
+# reduce dimension of phylogency by PCA. There are other options like SVD, t-SNE, ... that may worth to try
+# I propose to try 10, 30, 50, 70, 90 n_components
+# Another idea for dimension reduction: look at this  plt.plot(np.sum(phyl_matrix, axis=0))
+pca = PCA(n_components=10)  # Reduce to 100 dimensions
+phyl_matrix_pca = pca.fit_transform(phyl_matrix)
+
+
 # Create features
-x = {'lang_id': [], 'feat_id': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
+x = {'lang_id': [], 'feat_id': [], 'geo_lat': [], 'geo_long': [], 'phylogency': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
 print('create x(features):')
 for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
-    #geo = myutils.getGeo(lang)
+    geo = myutils.getGeo(lang)
+    phyl = phyl_matrix_pca[langIdx]
     group = myutils.getGroup(lang)
     aes = myutils.getAES(lang)
     wiki_size = myutils.getWikiSize(lang)
     aspj_speakers = myutils.get_aspj_speakers(lang)
     fam = myutils.get_fam(lang)
     scripts = myutils.getScripts(lang)
+
     for featureIdx, feat_name in enumerate(feature_names):
         instanceIdx = langIdx * len(feature_names) + featureIdx
         # language identifier
@@ -59,6 +73,13 @@ for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
         # Add feature location
         x['feat_id'].append(str(featureIdx))
         
+        # latitude and longitude from glottolog
+        x['geo_lat'].append(geo[0])
+        x['geo_long'].append(geo[1])
+
+        # Pylogency feature from lang2vec
+        x['phylogency'].append(phyl)
+
         # Group from paper
         x['lang_group'].append(group)
 
@@ -94,6 +115,8 @@ featname_vectorizer = CountVectorizer(binary=True, tokenizer=underline_tok, ngra
 column_trans = ColumnTransformer(
      [('lang_id', OneHotEncoder(dtype='int'), ['lang_id']),
       ('feat_id', OneHotEncoder(dtype='int'), ['feat_id']),
+      ('geo_lat', MinMaxScaler(), ['geo_lat']),
+      ('geo_long', MinMaxScaler(), ['geo_long']),
       ('lang_fam', fam_vectorizer, 'lang_fam'),
       ('scripts', script_vectorizer, 'scripts'),
       ('feat_name', featname_vectorizer, 'feat_name')],

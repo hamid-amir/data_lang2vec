@@ -209,6 +209,22 @@ def getAES(lang):
         return aes[lang][0]
     return -1
 
+
+
+
+geo = {}
+for line in open('data/geo.csv'):
+    iso, lat, long = line.strip().split(',')
+    geo[iso] = [float(lat), float(long)]
+
+mean_lat, mean_long = sum([g[0] for g in list(geo.values())])/len(geo), sum([g[1] for g in list(geo.values())])/len(geo)
+def getGeo(lang):
+    if lang in geo:
+        return geo[lang]
+    return mean_lat, mean_long
+
+
+
 def getTrainDevTest(path):
     train = ''
     dev = ''

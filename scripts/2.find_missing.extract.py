@@ -1,6 +1,5 @@
 import pickle
 import lang2vec.lang2vec as l2v
-
 import time
 import sys
 import myutils
