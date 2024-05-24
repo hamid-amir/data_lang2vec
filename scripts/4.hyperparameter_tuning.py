@@ -17,7 +17,7 @@ train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names = pickle.
 
 sh = HalvingGridSearchCV(base_estimator, param_grid, cv=5,
                          factor=2, resource='n_estimators',
-                         max_resources=30).fit(X, y)
+                         max_resources=30).fit(train_x, train_y)
 
 print(sh.best_estimator_)
 print(sh.best_score_)

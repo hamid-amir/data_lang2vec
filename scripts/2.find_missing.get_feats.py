@@ -20,6 +20,8 @@ random.seed(myutils.seed)
 
 langs, vectors, vectors_knn = pickle.load(open('lang2vec.pickle', 'rb'))
 
+n = 100
+langs, vectors, vectors_knn = langs[:n], vectors[:n], vectors_knn[:n]
 # Feature names can be split by '_' and used as features
 feature_names = l2v.get_features('eng', 'syntax_wals+phonology_wals', header=True)['CODE']
 print(len(feature_names), len(langs))
