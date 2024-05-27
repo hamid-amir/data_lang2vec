@@ -1,6 +1,6 @@
 import os
 import json
-import _jsonnet
+
 
 lms = ['bert-base-multilingual-cased', 'cardiffnlp/twitter-xlm-roberta-base', 'microsoft/infoxlm-large', 'microsoft/mdeberta-v3-base', 'studio-ousia/mluke-large', 'xlm-roberta-large', 'facebook/xlm-roberta-xl', 'Twitter/twhin-bert-large' ]  
 
@@ -252,6 +252,7 @@ def hasColumn(path, idx, threshold=.1):
     return noWord/total < threshold
 
 def load_json(path: str):
+    import _jsonnet
     """
     Loads a jsonnet file through the json package and returns a dict.
     

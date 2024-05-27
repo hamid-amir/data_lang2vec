@@ -9,20 +9,44 @@ from sklearn.model_selection import cross_val_predict
 import time
 import sys
 
+import myutils
+
 seed = 8446
 
 
-param_grid = {
-    # 'max_depth': [None, 3, 5, 10, 50, 100],
-    # 'min_samples_split': [2, 5, 10, 50, 100],
-    'criterion' : ["gini", "entropy", "log_loss"],
-    'class_weight' : [None, "balanced", "balanced_subsample"],
-    'n_estimators': [50, 100, 200, 500]
-}
-
-# base_estimator = RandomForestClassifier(random_state=seed, n_jobs=28)
 start_time = time.time()
-base_estimator = RandomForestClassifier(max_depth=None, n_estimators=100, random_state=seed, n_jobs=28)
+if sys.argv[1] == 'svm':
+    from sklearn import svm
+    base_estimator = svm.SVC(random_state=myutils.seed, probability=True)
+    param_grid = {
+        'C': [0.001, 0.01, 0.1, 1, 10, 100, 1000],
+        'kernel': ['linear', 'poly', 'rbf', 'sigmoid'],
+        'degree': [1, 2, 3, 5, 10],
+        'gamma': ['scale', 'auto'],
+    }
+    print('Training svm')
+
+elif sys.argv[1] == 'rf':
+    from sklearn.ensemble import RandomForestClassifier
+    base_estimator = RandomForestClassifier(max_depth=None, n_estimators=100, random_state=myutils.seed, n_jobs=28)
+    param_grid = {
+        'max_depth': [None, 3, 5, 10, 50, 100],
+        'min_samples_split': [2, 5, 10, 50, 100],
+        'criterion' : ["gini", "entropy", "log_loss"],
+        'class_weight' : [None, "balanced", "balanced_subsample"],
+        'n_estimators': [50, 100, 200, 500]
+    }
+    print('Training random forest')
+
+elif sys.argv[1] == 'logres':
+    from sklearn.linear_model import LogisticRegression
+    base_estimator = LogisticRegression(random_state=myutils.seed, n_jobs=28, max_iter=500)
+    print('Training logistic regression')
+
+else:
+    print(sys.argv[1] + ' not implemented')
+    exit(1)
+
 
 x, y, names, all_feat_names = pickle.load(open('feats-full.pickle', 'rb'))
 

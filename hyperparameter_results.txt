@@ -1,0 +1,11 @@
+Training random forest
+RandomForestClassifier(class_weight='balanced_subsample', criterion='entropy',
+                       max_depth=100, n_jobs=28, random_state=8446)
+0.9406106870229008
+Base acc.: 79.24
+Model acc.: 94.01
+f1 score 0's: 96.17
+recall 0's: 94.96
+precision 0's: 97.41
+seconds: 1890.48
+------------------------------
