@@ -40,7 +40,13 @@ elif sys.argv[1] == 'rf':
 
 elif sys.argv[1] == 'logres':
     from sklearn.linear_model import LogisticRegression
-    base_estimator = LogisticRegression(random_state=myutils.seed, n_jobs=28, max_iter=500)
+    base_estimator = LogisticRegression(random_state=myutils.seed, n_jobs=28, max_iter=2000)
+    param_grid = {
+        'penalty' : ['l1', 'l2', 'elasticnet'],
+        'tol': [1e-5, 1e-4, 1e-3, 1e-2, 1e-1],
+        'C': [0.001, 0.01, 0.1, 1, 10, 100, 1000],
+        'solver' : ['lbfgs', 'liblinear', 'newton-cg', 'newton-cholesky', 'sag', 'saga'],
+    }
     print('Training logistic regression')
 
 else:
