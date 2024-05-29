@@ -44,7 +44,7 @@ elif sys.argv[1] == 'logres':
     param_grid = {
         'penalty' : ['l1', 'l2', 'elasticnet'],
         'tol': [1e-5, 1e-4, 1e-3, 1e-2, 1e-1],
-        'C': [0.001, 0.01, 0.1, 1, 10, 100, 1000],
+        'C': [0.001, 0.01, 0.1, 1, 10, 20],
         'solver' : ['lbfgs', 'liblinear', 'newton-cg', 'newton-cholesky', 'sag', 'saga'],
     }
     print('Training logistic regression')
