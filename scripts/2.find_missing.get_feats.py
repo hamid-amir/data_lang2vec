@@ -1,4 +1,4 @@
-from scripts.myutils import extract_features
+from myutils import extract_features
 
 
-extract_features(n_components=10)
+extract_features(n_components=10, n=100)

@@ -284,7 +284,7 @@ def getModel(name):
     return ''
 
 
-def extract_features(n_components:int = 10, dimension_reduction_method: str = 'pca', n: int = 100):
+def extract_features(n_components:int = 10, dimension_reduction_method: str = 'pca', n: int = None):
     '''
     the main structure is that we get for each cell in the lang2vec matrix
     (language +feature) a gold value (in y), and a list of features describing
@@ -295,7 +295,8 @@ def extract_features(n_components:int = 10, dimension_reduction_method: str = 'p
     '''
 
     langs, vectors, vectors_knn = pickle.load(open('lang2vec.pickle', 'rb'))
-    langs, vectors, vectors_knn = langs[:n], vectors[:n], vectors_knn[:n]
+    if n:
+        langs, vectors, vectors_knn = langs[:n], vectors[:n], vectors_knn[:n]
     # Feature names can be split by '_' and used as features
     feature_names = l2v.get_features('eng', 'syntax_wals+phonology_wals', header=True)['CODE']
     print(len(feature_names), len(langs))
