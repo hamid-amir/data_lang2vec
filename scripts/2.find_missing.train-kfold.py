@@ -15,11 +15,24 @@ if sys.argv[1] == 'svm':
     print('Training svm')
 elif sys.argv[1] == 'rf':
     from sklearn.ensemble import RandomForestClassifier
-    clf = RandomForestClassifier(max_depth=None, n_estimators=100, random_state=myutils.seed, n_jobs=28)
+    clf = RandomForestClassifier(
+        class_weight='balanced_subsample',
+        criterion='entropy',
+        max_depth=100,
+        n_jobs=-1,
+        random_state=myutils.seed
+    )
     print('Training random forest')
 elif sys.argv[1] == 'logres':
     from sklearn.linear_model import LogisticRegression
-    clf = LogisticRegression(random_state=myutils.seed, n_jobs=28, max_iter=500)
+    clf = LogisticRegression(
+        C=10,
+        max_iter=500,
+        solver='newton-cg',
+        tol=0.001,
+        n_jobs=-1,
+        random_state=myutils.seed
+    )
     print('Training logistic regression')
 else:
     print(sys.argv[1] + ' not implemented')
