@@ -1,6 +1,9 @@
-import myutils
+import sys
 import os
+sys.path.append(os.getcwd())
+import scripts.myutils as myutils
 import json
+
 
 ud_dir = 'data/ud-treebanks-v2.14/'
 

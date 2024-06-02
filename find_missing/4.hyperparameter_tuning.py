@@ -1,15 +1,15 @@
 import pickle
-
+import time
+import sys
+import os
+sys.path.append(os.getcwd())
+import scripts.myutils as myutils
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.experimental import enable_halving_search_cv 
 from sklearn.model_selection import HalvingGridSearchCV
 from sklearn.metrics import f1_score, precision_score, recall_score
 from sklearn.model_selection import cross_val_predict
 
-import time
-import sys
-
-import myutils
 
 
 def hypperparameter_tunning():
@@ -53,7 +53,7 @@ def hypperparameter_tunning():
         exit(1)
 
 
-    x, y, names, all_feat_names = pickle.load(open('feats-full.pickle', 'rb'))
+    x, y, names, all_feat_names = pickle.load(open('feats-full_find_missing.pickle', 'rb'))
 
     sh = HalvingGridSearchCV(base_estimator, param_grid, cv=5,
                             factor=50).fit(x, y)
@@ -89,9 +89,9 @@ def hypperparameter_tunning():
 
 
 if __name__ == '__main__':
-    from myutils import extract_features
+    # from myutils import extract_features
     for n_components in [10, 30, 50, 70, 90]:
         print(f'n_components: {n_components}')
-        extract_features(n_components=n_components)
+        myutils.extract_features('find_missing', n_components=n_components)
         hypperparameter_tunning()
         print('-'*40)

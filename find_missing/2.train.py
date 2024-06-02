@@ -1,10 +1,13 @@
 import pickle
 import time
 import sys
-import myutils
+import os
+sys.path.append(os.getcwd())
+import scripts.myutils as myutils
 from sklearn.metrics import f1_score, precision_score, recall_score
 
-train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names = pickle.load(open('feats.pickle', 'rb'))
+
+train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names = pickle.load(open('feats_find_missing.pickle', 'rb'))
 
 
 start_time = time.time()

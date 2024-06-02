@@ -1,7 +1,7 @@
 import myutils
 import os
 
-mil_dir = 'data/MILTALE/'
+mil_dir = 'data_miltale/MILTALE/'
 train_files = os.listdir(mil_dir + 'train')
 dev_files = os.listdir(mil_dir + 'devtest')
 test_files = os.listdir(mil_dir + 'test')

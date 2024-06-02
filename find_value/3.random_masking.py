@@ -11,7 +11,10 @@
 import random
 import pickle
 import lang2vec.lang2vec as l2v
-import myutils
+import sys
+import os
+sys.path.append(os.getcwd())
+import scripts.myutils as myutils
 from sklearn.model_selection import KFold
 
 

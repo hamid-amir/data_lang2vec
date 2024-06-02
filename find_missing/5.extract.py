@@ -2,16 +2,17 @@ import pickle
 import lang2vec.lang2vec as l2v
 import time
 import sys
-import myutils
+import os
+sys.path.append(os.getcwd())
+import scripts.myutils as myutils
 from sklearn.metrics import f1_score, precision_score, recall_score
 from sklearn.model_selection import cross_val_predict
 
-x, y, names, all_feat_names = pickle.load(open('feats-full.pickle', 'rb'))
 
+x, y, names, all_feat_names = pickle.load(open('feats-full_find_missing.pickle', 'rb'))
 all_feat_names = all_feat_names.tolist()
 
 start_time = time.time()
-
 if sys.argv[1] == 'svm':
     from sklearn import svm
     clf = svm.SVC(random_state=myutils.seed, probability=True)
