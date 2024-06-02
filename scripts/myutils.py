@@ -4,6 +4,7 @@ import pickle
 import lang2vec.lang2vec as l2v
 import time
 from tqdm import tqdm
+from typing import Literal
 import random 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.compose import ColumnTransformer
@@ -284,7 +285,7 @@ def getModel(name):
     return ''
 
 
-def extract_features(classifier: str, n_components:int = 10, dimension_reduction_method: str = 'pca', n: int = None):
+def extract_features(classifier: Literal['find_missing', 'find_value'], n_components:int = 10, dimension_reduction_method: str = 'pca', n: int = None):
     '''
     the main structure is that we get for each cell in the lang2vec matrix
     (language +feature) a gold value (in y), and a list of features describing
@@ -337,25 +338,27 @@ def extract_features(classifier: str, n_components:int = 10, dimension_reduction
             exit(1)       
 
 
-    # load pylogency matrix 
-    phyl_matrix_sparse = pickle.load(open('phyl-matrix-sparse.pickle', 'rb'))
-    phyl_matrix = phyl_matrix_sparse.toarray()
+    if n_components != 0:
+        # load pylogency matrix 
+        phyl_matrix_sparse = pickle.load(open('phyl-matrix-sparse.pickle', 'rb'))
+        phyl_matrix = phyl_matrix_sparse.toarray()
 
-    # reduce dimension of phylogency by PCA. There are other options like SVD, t-SNE, ... that may worth to try
-    # Another idea for dimension reduction: look at this  plt.plot(np.sum(phyl_matrix, axis=0))
-    match dimension_reduction_method:
-        case 'pca':
-            pca = PCA(n_components=n_components)  # Reduce to 100 dimensions
-            phyl_matrix_pca = pca.fit_transform(phyl_matrix)
-        case 'svd':
-            raise
-        case 't-sne':
-            raise
+        # reduce dimension of phylogency by PCA. There are other options like SVD, t-SNE, ... that may worth to try
+        # Another idea for dimension reduction: look at this  plt.plot(np.sum(phyl_matrix, axis=0))
+        match dimension_reduction_method:
+            case 'pca':
+                pca = PCA(n_components=n_components)  # Reduce to 100 dimensions
+                phyl_matrix_pca = pca.fit_transform(phyl_matrix)
+            case 'svd':
+                raise
+            case 't-sne':
+                raise
 
 
     # Create features
     x = {'lang_id': [], 'feat_id': [], 'geo_lat': [], 'geo_long': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
-    x.update({f'phylogency{i}':[] for i in range(n_components)})
+    if n_components != 0:
+        x.update({f'phylogency{i}':[] for i in range(n_components)})
 
     match classifier:
         case 'find_missing':
@@ -364,8 +367,9 @@ def extract_features(classifier: str, n_components:int = 10, dimension_reduction
             print('create x(features) for the find_value classifier:')
 
     for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
+        if n_components != 0:
+            phyl = phyl_matrix_pca[langIdx]
         geo = getGeo(lang)
-        phyl = phyl_matrix_pca[langIdx]
         group = getGroup(lang)
         aes = getAES(lang)
         wiki_size = getWikiSize(lang)
@@ -389,9 +393,10 @@ def extract_features(classifier: str, n_components:int = 10, dimension_reduction
             x['geo_lat'].append(geo[0])
             x['geo_long'].append(geo[1])
 
-            # Pylogency feature from lang2vec
-            for i in range(n_components):
-                x[f'phylogency{i}'].append(phyl[i])
+            if n_components != 0:
+                # Pylogency feature from lang2vec
+                for i in range(n_components):
+                    x[f'phylogency{i}'].append(phyl[i])
 
             # Group from paper
             x['lang_group'].append(group)
