@@ -9,15 +9,15 @@ python3 scripts/1.lang2vec_data.py
 # Extract features
 python3 find_missing/0.get_feats.py
 # Train
-python3 find_missing/2.train.py rf
-python3 find_missing/2.train.py logres
-python3 find_missing/2.train.py svm
+python3 find_missing/2.train-kfold.py rf
+python3 find_missing/2.train-kfold.py logres
+python3 find_missing/2.train-kfold.py svm
 
 
 # Predict the features values of present ones -> find_value classifier
 # Extract features
 python3 find_value/0.get_feats.py
 # Train
-python3 find_value/1.train.py rf
-python3 find_value/1.train.py logres
-python3 find_value/1.train.py svm
+python3 find_value/1.train-kfold.py rf
+python3 find_value/1.train-kfold.py logres
+python3 find_value/1.train-kfold.py svm

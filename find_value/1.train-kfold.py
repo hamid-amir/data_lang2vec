@@ -1,5 +1,4 @@
 import pickle
-import lang2vec.lang2vec as l2v
 import time
 import sys
 import os
@@ -25,6 +24,30 @@ elif sys.argv[1] == 'logres':
     from sklearn.linear_model import LogisticRegression
     clf = LogisticRegression(random_state=myutils.seed, n_jobs=28, max_iter=500)
     print('Training logistic regression')
+elif sys.argv[1] == 'gbc':
+    from sklearn.ensemble import GradientBoostingClassifier
+    clf = GradientBoostingClassifier(random_state=myutils.seed)
+    print('Training gradient boosting')
+elif sys.argv[1] == 'xgb':
+    from xgboost import XGBClassifier
+    clf = XGBClassifier(random_state=myutils.seed, n_jobs=28)
+    print('Training XGBoost')
+elif sys.argv[1] == 'dt':
+    from sklearn.tree import DecisionTreeClassifier
+    clf = DecisionTreeClassifier(random_state=myutils.seed)
+    print('Training decision tree')
+elif sys.argv[1] == 'knn':
+    from sklearn.neighbors import KNeighborsClassifier
+    clf = KNeighborsClassifier(n_neighbors=5)
+    print('Training KNN')
+elif sys.argv[1] == 'nb':
+    from sklearn.naive_bayes import GaussianNB
+    clf = GaussianNB()
+    print('Training naive bayes')
+elif sys.argv[1] == 'mlp':
+    from sklearn.neural_network import MLPClassifier
+    clf = MLPClassifier(random_state=myutils.seed)
+    print('Training multi layer perceptron')
 else:
     print(sys.argv[1] + ' not implemented')
     exit(1)
