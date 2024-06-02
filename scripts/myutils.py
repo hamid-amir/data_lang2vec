@@ -284,7 +284,7 @@ def getModel(name):
     return ''
 
 
-def extract_features(n_components:int = 10, dimension_reduction_method: str = 'pca', n: int = None):
+def extract_features(classifier: str, n_components:int = 10, dimension_reduction_method: str = 'pca', n: int = None):
     '''
     the main structure is that we get for each cell in the lang2vec matrix
     (language +feature) a gold value (in y), and a list of features describing
@@ -299,20 +299,42 @@ def extract_features(n_components:int = 10, dimension_reduction_method: str = 'p
         langs, vectors, vectors_knn = langs[:n], vectors[:n], vectors_knn[:n]
     # Feature names can be split by '_' and used as features
     feature_names = l2v.get_features('eng', 'syntax_wals+phonology_wals', header=True)['CODE']
-    print(len(feature_names), len(langs))
+    # print(len(feature_names), len(langs))
 
+    match classifier:
+        case 'find_missing':
+            # Create gold labels for missing values, note that it is of length 
+            # #langs * #features
+            # 0 indicates that the feature is missing, 1 indicates that it is present
+            y = []
+            names = []
+            print('create y and names for find_missing classifier:')
+            for vector, lang in tqdm(zip(vectors, langs), total=len(vectors)):
+                gold_labels = [0 if val == -100 else 1 for val in vector]
+                y.extend(gold_labels)
+                for feature in feature_names:
+                    names.append(lang + '|' + feature)
+            print(f'-> {len(y)} datapoints extracted for the find_missing classifier')
 
-    # Create gold labels for missing values, note that it is of length 
-    # #langs * #features
-    # 0 indicates that the feature is missing, 1 indicates that it is present
-    y = []
-    names = []
-    print('create y and names:')
-    for vector, lang in tqdm(zip(vectors, langs), total=len(vectors)):
-        gold_labels = [0 if val == -100 else 1 for val in vector]
-        y.extend(gold_labels)
-        for feature in feature_names:
-            names.append(lang + '|' + feature)
+        case 'find_value':
+            # Create gold labels for present values, note that it is of length 
+            # is less than #langs * #features
+            # gold values includes 0, 1
+            presIdxes = []
+            y = []
+            names = []
+            print('create y and names for find_value classifier:')
+            for langIdx, (vector, lang) in tqdm(enumerate(zip(vectors, langs)), total=len(vectors)):
+                for featureIdx, (val, feature) in enumerate(zip(vector, feature_names)):
+                    if val != -100:
+                        y.append(val)
+                        names.append(lang + '|' + feature)
+                        presIdxes.append((langIdx, featureIdx))
+            print(f'-> {len(y)} datapoints extracted for the find_value classifier')
+        
+        case _:
+            print(f'classifier must be either "find_missing" or "find_value" NOT {classifier}')
+            exit(1)       
 
 
     # load pylogency matrix 
@@ -334,7 +356,13 @@ def extract_features(n_components:int = 10, dimension_reduction_method: str = 'p
     # Create features
     x = {'lang_id': [], 'feat_id': [], 'geo_lat': [], 'geo_long': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
     x.update({f'phylogency{i}':[] for i in range(n_components)})
-    print('create x(features):')
+
+    match classifier:
+        case 'find_missing':
+            print('create x(features) for the find_missing classifier:')
+        case 'find_value':
+            print('create x(features) for the find_value classifier:')
+
     for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
         geo = getGeo(lang)
         phyl = phyl_matrix_pca[langIdx]
@@ -346,7 +374,11 @@ def extract_features(n_components:int = 10, dimension_reduction_method: str = 'p
         scripts = getScripts(lang)
 
         for featureIdx, feat_name in enumerate(feature_names):
-            instanceIdx = langIdx * len(feature_names) + featureIdx
+            match classifier:
+                case 'find_value':
+                    if (langIdx, featureIdx) not in presIdxes:
+                        continue
+            # instanceIdx = langIdx * len(feature_names) + featureIdx
             # language identifier
             x['lang_id'].append(str(langIdx))
 
@@ -383,7 +415,7 @@ def extract_features(n_components:int = 10, dimension_reduction_method: str = 'p
             # feature name
             x['feat_name'].append(feat_name)
 
-    print('generating done')
+    print('generating features done!')
 
     def underline_tok(line):
         return line.split('_')
@@ -419,8 +451,8 @@ def extract_features(n_components:int = 10, dimension_reduction_method: str = 'p
     y = [item[1] for item in z]
     names = [item[2] for item in z]
 
-    for i in range(10):
-        print(names[i], y[i], x[i][:10])
+    # for i in range(10):
+    #     print(names[i], y[i], x[i][:10])
 
     ## k-fold with k=5
     #for i in range(5):
@@ -445,8 +477,8 @@ def extract_features(n_components:int = 10, dimension_reduction_method: str = 'p
     train_names = names[:split1]
     dev_names = names[split1:split2]
 
-    with open('feats.pickle', 'wb') as f:
-        pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
+    # with open(f'feats_{classifier}.pickle', 'wb') as f:
+    #     pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
 
-    with open('feats-full.pickle', 'wb') as f:
+    with open(f'feats-full_{classifier}.pickle', 'wb') as f:
         pickle.dump([x, y, names, all_feat_names], f)
