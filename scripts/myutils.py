@@ -473,14 +473,14 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     #        pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
 
     # The old 60-20-20 split, is mainly here for legacy reasons
-    split1 = int(len(z) * .6)
-    split2 = int(len(z) * .8)
-    train_x = x[:split1]
-    dev_x = x[split1:split2]
-    train_y = y[:split1]
-    dev_y = y[split1:split2]
-    train_names = names[:split1]
-    dev_names = names[split1:split2]
+    # split1 = int(len(z) * .6)
+    # split2 = int(len(z) * .8)
+    # train_x = x[:split1]
+    # dev_x = x[split1:split2]
+    # train_y = y[:split1]
+    # dev_y = y[split1:split2]
+    # train_names = names[:split1]
+    # dev_names = names[split1:split2]
 
     # with open(f'feats_{classifier}.pickle', 'wb') as f:
     #     pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
