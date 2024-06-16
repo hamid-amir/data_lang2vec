@@ -45,12 +45,11 @@ def objective(trial, method: str):
     return result['f1']
 
 
-def hyperparameter_tuning():
-    method = sys.argv[1]
+def hyperparameter_tuning(method: str):
     start_time = time.time()
 
     study = optuna.create_study(direction='maximize')
-    study.optimize(lambda trial: objective(trial, method), n_trials=10)
+    study.optimize(lambda trial: objective(trial, method), n_trials=100)
 
     best_trial = study.best_trial
     print(f'Best trial: {best_trial}')
@@ -60,4 +59,5 @@ def hyperparameter_tuning():
 
 
 if __name__ == '__main__':
-    hyperparameter_tuning()
+    method = sys.argv[1]
+    hyperparameter_tuning(method)
