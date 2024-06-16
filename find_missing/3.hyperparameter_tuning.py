@@ -3,6 +3,7 @@ import time
 import sys
 import os
 
+from sklearn.experimental import enable_halving_search_cv
 from sklearn.model_selection import HalvingGridSearchCV
 
 sys.path.append(os.getcwd())
@@ -60,8 +61,8 @@ def hypperparameter_tunning():
 
 if __name__ == '__main__':
     # from myutils import extract_features
-    for n_components in [10, 30, 50, 70, 90]:
+    for n_components in [0, 10, 30, 50, 70, 90]:
         print(f'n_components: {n_components}')
-        myutils.extract_features('find_missing', n_components=n_components)
+        myutils.extract_features('find_missing', n_components=n_components, n=100)
         hypperparameter_tunning()
         print('-'*40)
