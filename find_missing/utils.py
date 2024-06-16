@@ -41,7 +41,7 @@ def get_clf(method: str):
     return clf
 
 
-def cross_validation(clf: ClassifierMixin, x: list, y: list, cv: int = 5):
+def cross_validation(clf: ClassifierMixin, x: list, y: list, cv: int = 5, print_result: bool = True):
     start_time = time.time()
     pred_y = cross_val_predict(clf, x, y, method='predict', cv=cv).tolist()
     cors = sum([pred == gold for pred, gold in zip(pred_y, y)])
@@ -53,12 +53,13 @@ def cross_validation(clf: ClassifierMixin, x: list, y: list, cv: int = 5):
     precision = 100*precision_score(y, pred_y, pos_label = 0)
     seconds = time.time() - start_time
 
-    print('Base acc.: {:.2f}'.format(base_acc))
-    print('Model acc.: {:.2f}'.format(model_acc))
-    print('f1 score 0\'s: {:.2f}'.format(f1))
-    print('recall 0\'s: {:.2f}'.format(recall))
-    print('precision 0\'s: {:.2f}'.format(precision))
-    print('seconds: {:.2f}'.format(seconds))
+    if print_result:
+        print('Base acc.: {:.2f}'.format(base_acc))
+        print('Model acc.: {:.2f}'.format(model_acc))
+        print('f1 score 0\'s: {:.2f}'.format(f1))
+        print('recall 0\'s: {:.2f}'.format(recall))
+        print('precision 0\'s: {:.2f}'.format(precision))
+        print('seconds: {:.2f}'.format(seconds))
 
     return {
         'base_acc': base_acc,

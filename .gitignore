@@ -6,3 +6,5 @@ v1_hamidreza.ipynb
 questions.txt
 *swp
 feats*.pickle
+.vscode
+.venv
