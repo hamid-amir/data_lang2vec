@@ -26,7 +26,7 @@ def objective(trial, method: str):
         gamma = trial.suggest_categorical('gamma', ['scale', 'auto'])
         clf = SVC(C=C, kernel=kernel, degree=degree, gamma=gamma)
     elif method == 'rf':
-        max_depth = trial.suggest_categorical('max_depth', [None] + list(range(3, 101)))
+        max_depth = trial.suggest_int('max_depth', 3, 1000)
         min_samples_split = trial.suggest_int('min_samples_split', 2, 100)
         criterion = trial.suggest_categorical('criterion', ["gini", "entropy", "log_loss"])
         class_weight = trial.suggest_categorical('class_weight', [None, "balanced", "balanced_subsample"])
@@ -53,7 +53,7 @@ def hyperparameter_tuning():
     study.optimize(lambda trial: objective(trial, method), n_trials=10)
 
     best_trial = study.best_trial
-    print(f'Best trial: {best_trial.values}')
+    print(f'Best trial: {best_trial}')
     seconds = time.time() - start_time
     print('seconds: {:.2f}'.format(seconds))
     return best_trial.values

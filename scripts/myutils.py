@@ -297,7 +297,11 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
 
     langs, vectors, vectors_knn = pickle.load(open('lang2vec.pickle', 'rb'))
     if n:
-        langs, vectors, vectors_knn = langs[:n], vectors[:n], vectors_knn[:n]
+        indices = random.sample(range(len(langs)), n)
+        langs = [langs[i] for i in indices]
+        vectors = [vectors[i] for i in indices]
+        vectors_knn = [vectors_knn[i] for i in indices]
+
     # Feature names can be split by '_' and used as features
     feature_names = l2v.get_features('eng', 'syntax_wals+phonology_wals', header=True)['CODE']
     # print(len(feature_names), len(langs))
