@@ -4,6 +4,7 @@ import sys
 import os
 
 import optuna
+import matplotlib.pyplot as plt
 from sklearn.model_selection import cross_val_score
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
@@ -52,11 +53,16 @@ def objective(trial, method: str):
     return result['f1']
 
 
-def hyperparameter_tuning(method: str):
+def hyperparameter_tuning(method: str, save_dir: str = 'result'):
     start_time = time.time()
 
     study = optuna.create_study(direction='maximize')
     study.optimize(lambda trial: objective(trial, method), n_trials=100)
+
+    optuna.visualization.matplotlib.plot_optimization_history(study)
+    plt.savefig(f'{save_dir}/optimization_history.png')
+    optuna.visualization.matplotlib.plot_slice(study)
+    plt.savefig(f'{save_dir}/slice.png')
 
     best_trial = study.best_trial
     print(f'Best trial: {best_trial}')
