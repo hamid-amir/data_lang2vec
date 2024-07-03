@@ -15,8 +15,15 @@ from find_missing.utils import cross_validation, get_clf
 
 
 def objective(trial, method: str):
+    features = ['lang_id', 'feat_id', 'geo_lat', 'geo_long', 'lang_group', 'aes_status', 'wiki_size', 'num_speakers', 'lang_fam', 'scripts', 'feat_name', 'phylogency']
+    remove_features = [trial.suggest_categorical(feature, [True, False]) for feature in features]
+    remove_features = [feature for feature, selected in zip(features, remove_features) if selected]
+    if len(remove_features) == len(features):
+        remove_features = []
+
+    print(remove_features)
     n_components = trial.suggest_int('n_components', 10, 100)
-    myutils.extract_features('find_missing', n_components=n_components, n=100)
+    myutils.extract_features('find_missing', n_components=n_components, n=300, remove_features=remove_features)
     x, y, names, all_feat_names = pickle.load(open('feats-full_find_missing.pickle', 'rb'))
 
     if method == 'svm':

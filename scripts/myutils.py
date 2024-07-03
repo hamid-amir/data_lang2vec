@@ -4,6 +4,7 @@ import pickle
 import lang2vec.lang2vec as l2v
 import time
 from tqdm import tqdm
+import numpy as np
 from typing import Literal
 import random 
 from sklearn.feature_extraction.text import CountVectorizer
@@ -285,7 +286,7 @@ def getModel(name):
     return ''
 
 
-def extract_features(classifier: Literal['find_missing', 'find_value'], n_components:int = 10, dimension_reduction_method: str = 'pca', n: int = None):
+def extract_features(classifier: Literal['find_missing', 'find_value'], n_components:int = 10, dimension_reduction_method: str = 'pca', n: int = None, remove_features: list = []):
     '''
     the main structure is that we get for each cell in the lang2vec matrix
     (language +feature) a gold value (in y), and a list of features describing
@@ -342,7 +343,7 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
             exit(1)       
 
 
-    if n_components != 0:
+    if n_components != 0 and 'phylogency' not in remove_features:
         # load pylogency matrix 
         phyl_matrix_sparse = pickle.load(open('phyl-matrix-sparse.pickle', 'rb'))
         phyl_matrix = phyl_matrix_sparse.toarray()
@@ -361,7 +362,8 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
 
     # Create features
     x = {'lang_id': [], 'feat_id': [], 'geo_lat': [], 'geo_long': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
-    if n_components != 0:
+    x = {key: [] for key in x.keys() if key not in remove_features}
+    if n_components != 0 and 'phylogency' not in remove_features:
         x.update({f'phylogency{i}':[] for i in range(n_components)})
 
     match classifier:
@@ -371,7 +373,7 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
             print('create x(features) for the find_value classifier:')
 
     for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
-        if n_components != 0:
+        if n_components != 0 and 'phylogency' not in remove_features:
             phyl = phyl_matrix_pca[langIdx]
         geo = getGeo(lang)
         group = getGroup(lang)
@@ -388,41 +390,52 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
                         continue
             # instanceIdx = langIdx * len(feature_names) + featureIdx
             # language identifier
-            x['lang_id'].append(str(langIdx))
+            if 'lang_id' not in remove_features:
+                x['lang_id'].append(str(langIdx))
 
             # Add feature location
-            x['feat_id'].append(str(featureIdx))
+            if 'feat_id' not in remove_features:
+                x['feat_id'].append(str(featureIdx))
             
             # latitude and longitude from glottolog
-            x['geo_lat'].append(geo[0])
-            x['geo_long'].append(geo[1])
+            if 'geo_lat' not in remove_features:
+                x['geo_lat'].append(geo[0])
+            if 'geo_long' not in remove_features:
+                x['geo_long'].append(geo[1])
 
-            if n_components != 0:
+            if n_components != 0 and 'phylogency' not in remove_features:
                 # Pylogency feature from lang2vec
                 for i in range(n_components):
                     x[f'phylogency{i}'].append(phyl[i])
 
             # Group from paper
-            x['lang_group'].append(group)
+            if 'lang_group' not in remove_features:
+                x['lang_group'].append(group)
 
             # Group from glottolog
-            x['aes_status'].append(int(aes))
+            if 'aes_status' not in remove_features:
+                x['aes_status'].append(int(aes))
             
             # Wikipedia size
-            x['wiki_size'].append(wiki_size)
+            if 'wiki_size' not in remove_features:
+                x['wiki_size'].append(wiki_size)
 
             # Number of speakers
-            x['num_speakers'].append(aspj_speakers)
+            if 'num_speakers' not in remove_features:
+                x['num_speakers'].append(aspj_speakers)
 
             # Language family is just one string, could have been all hight levels
             # Language family
-            x['lang_fam'].append(fam)
+            if 'lang_fam' not in remove_features:
+                x['lang_fam'].append(fam)
 
             # Scripts
-            x['scripts'].append('_'.join(scripts))
+            if 'scripts' not in remove_features:
+                x['scripts'].append('_'.join(scripts))
 
             # feature name
-            x['feat_name'].append(feat_name)
+            if 'feat_name' not in remove_features:
+                x['feat_name'].append(feat_name)
 
     print('generating features done!')
 
@@ -434,23 +447,38 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     script_vectorizer = CountVectorizer(binary=True, tokenizer=underline_tok, ngram_range=(1, 1), analyzer='word')
     featname_vectorizer = CountVectorizer(binary=True, tokenizer=underline_tok, ngram_range=(1, 1), analyzer='word')
 
-    phylogency_trans = [(f'phylogency{i}', MinMaxScaler(), [f'phylogency{i}']) for i in range(n_components)]
+    column_trans_list = list()
+    if 'lang_id' not in remove_features:
+        column_trans_list.append(('lang_id', OneHotEncoder(dtype='int'), ['lang_id']))
+    if 'feat_id' not in remove_features:
+        column_trans_list.append(('feat_id', OneHotEncoder(dtype='int'), ['feat_id']))
+    if 'geo_lat' not in remove_features:
+        column_trans_list.append(('geo_lat', MinMaxScaler(), ['geo_lat']))
+    if 'geo_long' not in remove_features:
+        column_trans_list.append(('geo_long', MinMaxScaler(), ['geo_long']))
+    if 'lang_fam' not in remove_features:
+        column_trans_list.append(('lang_fam', fam_vectorizer, 'lang_fam'))
+    if 'scripts' not in remove_features:
+        column_trans_list.append(('scripts', script_vectorizer, 'scripts'))
+    if 'feat_name' not in remove_features:
+        column_trans_list.append(('feat_name', featname_vectorizer, 'feat_name'))
+
+    if 'phylogency' not in remove_features:
+        phylogency_trans = [(f'phylogency{i}', MinMaxScaler(), [f'phylogency{i}']) for i in range(n_components)]
+        column_trans_list += phylogency_trans
 
     column_trans = ColumnTransformer(
-        [('lang_id', OneHotEncoder(dtype='int'), ['lang_id']),
-        ('feat_id', OneHotEncoder(dtype='int'), ['feat_id']),
-        ('geo_lat', MinMaxScaler(), ['geo_lat']),
-        ('geo_long', MinMaxScaler(), ['geo_long']),
-        ('lang_fam', fam_vectorizer, 'lang_fam'),
-        ('scripts', script_vectorizer, 'scripts'),
-        ('feat_name', featname_vectorizer, 'feat_name')],
+        column_trans_list,
         remainder='passthrough', verbose_feature_names_out=True)
 
     # why do we need pandas?
     import pandas as pd
     x = column_trans.fit_transform(pd.DataFrame(x))
     all_feat_names = column_trans.get_feature_names_out()
-    x_numpy = x.toarray()
+    if isinstance(x, np.ndarray):
+        x_numpy = x
+    else:
+        x_numpy = x.toarray()
 
     # shuffle
     z = [[feats, gold, name] for feats, gold, name in zip(list(x_numpy), y, names)]
