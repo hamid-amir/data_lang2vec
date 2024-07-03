@@ -11,18 +11,22 @@ if not os.path.isdir('data/configs'):
 datasets = {}
 for dataset in os.listdir(ud_dir):
     train, dev, test = myutils.getTrainDevTest(os.path.join(ud_dir, dataset))
-    all_data = []
-    if train != '':
-        all_data.extend(open(train).readlines())
-    if dev != '':
-        all_data.extend(open(dev).readlines())
-    if test != '':
-        all_data.extend(open(test).readlines())
-    if all_data == []:
+    if not myutils.hasColumn(test, 1):
         continue
     all_path = test.replace('test.conllu', 'all.conllu')
-    with open(all_path, 'w') as all_out:
-        [all_out.write(line) for line in all_data]
+    if not os.path.isfile(all_path):
+        all_data = []
+        if train != '':
+            all_data.extend(open(train).readlines())
+        if dev != '':
+            all_data.extend(open(dev).readlines())
+        if test != '':
+            all_data.extend(open(test).readlines())
+        if all_data == []:
+            continue
+        with open(all_path, 'w') as all_out:
+            [all_out.write(line) for line in all_data]
+
     data_config = {'train_data_path': '../' + all_path, 'word_idx': 1, 'tasks': {}}
     data_config['max_words'] = 100000
     data_config['tasks']['upos'] = {'task_type': 'seq', 'column_idx': 3}
