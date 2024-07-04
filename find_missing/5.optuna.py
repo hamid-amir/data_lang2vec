@@ -2,6 +2,7 @@ import pickle
 import time
 import sys
 import os
+import json
 
 import optuna
 import matplotlib.pyplot as plt
@@ -48,21 +49,42 @@ def objective(trial, method: str):
         solver = trial.suggest_categorical('solver', ['lbfgs', 'liblinear', 'newton-cg', 'newton-cholesky', 'sag', 'saga'])
         clf = LogisticRegression(penalty=penalty, tol=tol, C=C, solver=solver)
 
-    result = cross_validation(clf, x, y)
+    try:
+        result = cross_validation(clf, x, y)
+        return result['f1']
+    except ValueError:
+        return 0
 
-    return result['f1']
+    
 
 
-def hyperparameter_tuning(method: str, save_dir: str = 'result'):
+def hyperparameter_tuning(method: str, n_trails: int, save_dir: str = 'result'):
     start_time = time.time()
 
     study = optuna.create_study(direction='maximize')
-    study.optimize(lambda trial: objective(trial, method), n_trials=100)
+    study.optimize(lambda trial: objective(trial, method), n_trials=n_trails)
 
     optuna.visualization.matplotlib.plot_optimization_history(study)
-    plt.savefig(f'{save_dir}/optimization_history.png')
+    plt.savefig(f'{save_dir}/optimization_history_{method}.png')
     optuna.visualization.matplotlib.plot_slice(study)
-    plt.savefig(f'{save_dir}/slice.png')
+    plt.savefig(f'{save_dir}/slice_{method}.png')
+
+    results = []
+    for trial in study.trials:
+        trial_result = {
+            'number': trial.number,
+            'value': trial.value,
+            'params': trial.params,
+            'state': str(trial.state)
+        }
+        results.append(trial_result)
+
+    # Convert results to JSON format
+    results_json = json.dumps(results, indent=4)
+
+    # Save JSON data to a file
+    with open(f'{save_dir}/optuna_study_results.json', 'w') as f:
+        f.write(results_json)
 
     best_trial = study.best_trial
     print(f'Best trial: {best_trial}')
@@ -73,4 +95,5 @@ def hyperparameter_tuning(method: str, save_dir: str = 'result'):
 
 if __name__ == '__main__':
     method = sys.argv[1]
-    hyperparameter_tuning(method)
+    n_trials = int(sys.argv[2])
+    hyperparameter_tuning(method, n_trials)
