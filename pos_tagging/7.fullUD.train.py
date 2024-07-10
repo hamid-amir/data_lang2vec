@@ -48,6 +48,6 @@ smoothing = .5
 param_config_path = 'data/configs/microsoft_infoxlm-large.True.0.5.json'
 name = 'UD2.14-pos' + lm.replace('/', '_') + '.' + str(diverse) + '.' + str(smoothing) + '.all-tasks'
 cmd = 'python3 train.py --dataset_config ../' + data_config_path +' --parameters_config ../' + param_config_path + ' --name ' + name
-if myutils.getModel(name) == '':
-    print(cmd)
+#if myutils.getModel(name) == '':
+print(cmd)
 

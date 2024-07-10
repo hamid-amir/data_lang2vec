@@ -12,10 +12,10 @@ model_path = myutils.getModel(name).replace('machamp/', '')
 
 files = []
 for lang_file in os.listdir(miltale_dir):
-    if len(files) > 0:
+    if len(files) > 100:
         cmd = 'python3 predict.py ' + model_path + ' '
         cmd += ' '.join(files)
-        cmd += ' --dataset UD_English-EWT --raw_text'
+        cmd += ' --dataset UD_English-EWT --raw_text --topn 17'
         print(cmd)
         files = []
         
@@ -25,10 +25,10 @@ for lang_file in os.listdir(miltale_dir):
         #    continue
             lang_file = '"' + lang_file + '"'
         pos_file = lang_file + '.pos'
-        if not os.path.isfile(pos_file[3:]):
-            files.extend([lang_file, pos_file])
+        #if not os.path.isfile(pos_file[3:]):
+        files.extend([lang_file, pos_file])
 cmd = 'python3 predict.py ' + model_path + ' '
 cmd += ' '.join(files)
-cmd += ' --dataset UD_English-EWT --raw_text'
+cmd += ' --dataset UD_English-EWT --raw_text --topn 17'
 print(cmd)
 

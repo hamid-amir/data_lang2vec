@@ -20,9 +20,9 @@ for lm in myutils.lms:
         paths = []
         for test_path in test_paths:
             out_path = model_path.replace('model.pt', test_path.split('/')[2]) + '.out' 
-            if not os.path.isfile(out_path):
+            if not os.path.isfile(out_path + '1'):
                 paths.extend(['../' + test_path, '../' + out_path])
         if paths != []:
-            cmd += ' '.join(paths) + ' --dataset UD_English-EWT'
+            cmd += ' '.join(paths) + ' --dataset UD_English-EWT --topn 17'
             print(cmd)
 
