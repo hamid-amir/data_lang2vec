@@ -106,8 +106,7 @@ def read_pos(path):
     return pos_counts, sum(confidences)/len(confidences), unks/totals, sum(num_subwords)/len(num_subwords), sum(word_lens)/len(word_lens)
 
 
-def swadesh(path):
-    lang = path.split('\t')[-1][:3]
+def swadesh(path, lang):
     swadesh_info = lang_data(lang)
     swadesh_overlap = 0
     swadesh_correct = 0
@@ -117,17 +116,30 @@ def swadesh(path):
             if len(tok) == 10:
                 word = tok[1]
                 pos = tok[3].split('=')[0]
-            if word in swadesh_info:
-                swadesh_overlap+= 1
-                if pos == swadesh_info[word]:
-                    swadesh_correct += 1
+                if word in swadesh_info:
+                    swadesh_overlap+= 1
+                    if pos == swadesh_info[word]:
+                        swadesh_correct += 1
+    else:
+        print('NoSwadesh', lang, path)
     return swadesh_overlap, swadesh_correct
 
+conv = {}
+for line in open('data/iso-639-3.tab'):
+    tok = line.strip().split('\t')
+    if tok[3] != '':
+        conv[tok[3]] = tok[0]
+
+outFile = open('8.out', 'w')
 for test_path in test_paths_new:
     test_pred = model_path.replace('model.pt', test_path.split('/')[-2]) + '.out'
     score = getScores(test_path, test_pred)['UPOS'].recall * 100 # Tokens is the other one)
-    print(test_path, test_pred, score)
     pos_counts, avg_conf, per_unks, len_subwords, len_words = read_pos(test_pred)
-    swadesh_overlap, swadesh_correct = swadesh(test_pred)
-    print(test_path, pos_counts, avg_conf, per_unks, len_subwords, len_words, swadesh_overlap, swadesh_correct)
-
+    
+    lang = test_path.split('/')[-1].split('_')[0]
+    if lang in conv:
+        lang = conv[lang]
+    swadesh_overlap, swadesh_correct = swadesh(test_pred, lang)
+    outFile.write('\t'.join([str(x) for x in [test_path, score, pos_counts, avg_conf, per_unks, len_subwords, len_words, swadesh_overlap, swadesh_correct]]) + '\n')
+    print(lang, swadesh_overlap, swadesh_correct)
+outFile.close()
