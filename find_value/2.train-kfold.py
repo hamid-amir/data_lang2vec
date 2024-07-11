@@ -8,7 +8,7 @@ from sklearn.metrics import f1_score, precision_score, recall_score
 from sklearn.model_selection import cross_val_predict
 
 
-x, y, names, all_feat_names = pickle.load(open('feats-full_find_value.pickle', 'rb'))
+x, y, names, all_feat_names = pickle.load(open('feats-full_find_value_mil.pickle', 'rb'))
 
 
 start_time = time.time()

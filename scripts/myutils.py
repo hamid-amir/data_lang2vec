@@ -4,7 +4,8 @@ import pickle
 import lang2vec.lang2vec as l2v
 import time
 from tqdm import tqdm
-from typing import Literal
+import numpy as np
+from typing import Literal, List, Dict
 import random 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.compose import ColumnTransformer
@@ -285,7 +286,7 @@ def getModel(name):
     return ''
 
 
-def extract_features(classifier: Literal['find_missing', 'find_value'], n_components:int = 10, dimension_reduction_method: str = 'pca', n: int = None):
+def extract_features(classifier: Literal['find_missing', 'find_value'], n_components:int = 10, dimension_reduction_method: str = 'pca', n: int = None, remove_features: list = [], miltale_data: bool = False):
     '''
     the main structure is that we get for each cell in the lang2vec matrix
     (language +feature) a gold value (in y), and a list of features describing
@@ -306,73 +307,82 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     feature_names = l2v.get_features('eng', 'syntax_wals+phonology_wals', header=True)['CODE']
     # print(len(feature_names), len(langs))
 
-    match classifier:
-        case 'find_missing':
-            # Create gold labels for missing values, note that it is of length 
-            # #langs * #features
-            # 0 indicates that the feature is missing, 1 indicates that it is present
-            y = []
-            names = []
-            print('create y and names for find_missing classifier:')
-            for vector, lang in tqdm(zip(vectors, langs), total=len(vectors)):
-                gold_labels = [0 if val == -100 else 1 for val in vector]
-                y.extend(gold_labels)
-                for feature in feature_names:
+    if classifier == 'find_missing':
+        # Create gold labels for missing values, note that it is of length 
+        # #langs * #features
+        # 0 indicates that the feature is missing, 1 indicates that it is present
+        y = []
+        names = []
+        print('create y and names for find_missing classifier:')
+        for vector, lang in tqdm(zip(vectors, langs), total=len(vectors)):
+            gold_labels = [0 if val == -100 else 1 for val in vector]
+            y.extend(gold_labels)
+            for feature in feature_names:
+                names.append(lang + '|' + feature)
+        print(f'-> {len(y)} datapoints extracted for the find_missing classifier')
+
+    elif classifier == 'find_value':
+        # Create gold labels for present values, note that it is of length 
+        # is less than #langs * #features
+        # gold values includes 0, 1
+        presIdxes = []
+        y = []
+        names = []
+        print('create y and names for find_value classifier:')
+        for langIdx, (vector, lang) in tqdm(enumerate(zip(vectors, langs)), total=len(vectors)):
+            for featureIdx, (val, feature) in enumerate(zip(vector, feature_names)):
+                if val != -100:
+                    y.append(val)
                     names.append(lang + '|' + feature)
-            print(f'-> {len(y)} datapoints extracted for the find_missing classifier')
-
-        case 'find_value':
-            # Create gold labels for present values, note that it is of length 
-            # is less than #langs * #features
-            # gold values includes 0, 1
-            presIdxes = []
-            y = []
-            names = []
-            print('create y and names for find_value classifier:')
-            for langIdx, (vector, lang) in tqdm(enumerate(zip(vectors, langs)), total=len(vectors)):
-                for featureIdx, (val, feature) in enumerate(zip(vector, feature_names)):
-                    if val != -100:
-                        y.append(val)
-                        names.append(lang + '|' + feature)
-                        presIdxes.append((langIdx, featureIdx))
-            print(f'-> {len(y)} datapoints extracted for the find_value classifier')
+                    presIdxes.append((langIdx, featureIdx))
+        print(f'-> {len(y)} datapoints extracted for the find_value classifier')
         
-        case _:
-            print(f'classifier must be either "find_missing" or "find_value" NOT {classifier}')
-            exit(1)       
+    else:
+        print(f'classifier must be either "find_missing" or "find_value" NOT {classifier}')
+        exit(1)       
 
 
-    if n_components != 0:
+    if n_components != 0 and 'phylogency' not in remove_features:
         # load pylogency matrix 
         phyl_matrix_sparse = pickle.load(open('phyl-matrix-sparse.pickle', 'rb'))
         phyl_matrix = phyl_matrix_sparse.toarray()
 
         # reduce dimension of phylogency by PCA. There are other options like SVD, t-SNE, ... that may worth to try
         # Another idea for dimension reduction: look at this  plt.plot(np.sum(phyl_matrix, axis=0))
-        match dimension_reduction_method:
-            case 'pca':
-                pca = PCA(n_components=n_components)  # Reduce to 100 dimensions
-                phyl_matrix_pca = pca.fit_transform(phyl_matrix)
-            case 'svd':
-                raise
-            case 't-sne':
-                raise
-
+        if dimension_reduction_method == 'pca':
+            pca = PCA(n_components=n_components)  # Reduce to 100 dimensions
+            phyl_matrix_pca = pca.fit_transform(phyl_matrix)
+        elif dimension_reduction_method == 'svd':
+            raise
+        elif dimension_reduction_method == 't-sne':
+            raise
+    
+    if miltale_data:
+        miltale_langs, miltale_X_sparse = pickle.load(open('miltale_extracted_feats.pickle', 'rb'))
+        miltale_X = miltale_X_sparse.toarray()
+        # miltale_X dimension : (#langs , #cv_features)
 
     # Create features
     x = {'lang_id': [], 'feat_id': [], 'geo_lat': [], 'geo_long': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
-    if n_components != 0:
+    x = {key: [] for key in x.keys() if key not in remove_features}
+    if n_components != 0 and 'phylogency' not in remove_features:
         x.update({f'phylogency{i}':[] for i in range(n_components)})
+    if miltale_data:
+        x.update({f'miltale{i}':[] for i in range(len(miltale_X[0]))})
 
-    match classifier:
-        case 'find_missing':
-            print('create x(features) for the find_missing classifier:')
-        case 'find_value':
-            print('create x(features) for the find_value classifier:')
+    if classifier == 'find_missing':
+        print('create x(features) for the find_missing classifier:')
+    elif classifier == 'find_value':
+        print('create x(features) for the find_value classifier:')
 
     for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
-        if n_components != 0:
+        if n_components != 0 and 'phylogency' not in remove_features:
             phyl = phyl_matrix_pca[langIdx]
+        if miltale_data:
+            if lang not in miltale_langs:
+                continue
+            idx = miltale_langs.index(lang)
+            miltale = miltale_X[idx]
         geo = getGeo(lang)
         group = getGroup(lang)
         aes = getAES(lang)
@@ -382,47 +392,62 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
         scripts = getScripts(lang)
 
         for featureIdx, feat_name in enumerate(feature_names):
-            match classifier:
-                case 'find_value':
-                    if (langIdx, featureIdx) not in presIdxes:
-                        continue
+            if classifier == 'find_value':
+                if (langIdx, featureIdx) not in presIdxes:
+                    continue
             # instanceIdx = langIdx * len(feature_names) + featureIdx
             # language identifier
-            x['lang_id'].append(str(langIdx))
+            if 'lang_id' not in remove_features:
+                x['lang_id'].append(str(langIdx))
 
             # Add feature location
-            x['feat_id'].append(str(featureIdx))
+            if 'feat_id' not in remove_features:
+                x['feat_id'].append(str(featureIdx))
             
             # latitude and longitude from glottolog
-            x['geo_lat'].append(geo[0])
-            x['geo_long'].append(geo[1])
+            if 'geo_lat' not in remove_features:
+                x['geo_lat'].append(geo[0])
+            if 'geo_long' not in remove_features:
+                x['geo_long'].append(geo[1])
 
-            if n_components != 0:
+            if n_components != 0 and 'phylogency' not in remove_features:
                 # Pylogency feature from lang2vec
                 for i in range(n_components):
                     x[f'phylogency{i}'].append(phyl[i])
 
+            if miltale_data:
+                # miltale extracted feature
+                for i in range(len(miltale_X[0])):
+                    x[f'miltale{i}'].append(miltale[i])
+
             # Group from paper
-            x['lang_group'].append(group)
+            if 'lang_group' not in remove_features:
+                x['lang_group'].append(group)
 
             # Group from glottolog
-            x['aes_status'].append(int(aes))
+            if 'aes_status' not in remove_features:
+                x['aes_status'].append(int(aes))
             
             # Wikipedia size
-            x['wiki_size'].append(wiki_size)
+            if 'wiki_size' not in remove_features:
+                x['wiki_size'].append(wiki_size)
 
             # Number of speakers
-            x['num_speakers'].append(aspj_speakers)
+            if 'num_speakers' not in remove_features:
+                x['num_speakers'].append(aspj_speakers)
 
             # Language family is just one string, could have been all hight levels
             # Language family
-            x['lang_fam'].append(fam)
+            if 'lang_fam' not in remove_features:
+                x['lang_fam'].append(fam)
 
             # Scripts
-            x['scripts'].append('_'.join(scripts))
+            if 'scripts' not in remove_features:
+                x['scripts'].append('_'.join(scripts))
 
             # feature name
-            x['feat_name'].append(feat_name)
+            if 'feat_name' not in remove_features:
+                x['feat_name'].append(feat_name)
 
     print('generating features done!')
 
@@ -434,23 +459,40 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     script_vectorizer = CountVectorizer(binary=True, tokenizer=underline_tok, ngram_range=(1, 1), analyzer='word')
     featname_vectorizer = CountVectorizer(binary=True, tokenizer=underline_tok, ngram_range=(1, 1), analyzer='word')
 
-    phylogency_trans = [(f'phylogency{i}', MinMaxScaler(), [f'phylogency{i}']) for i in range(n_components)]
+    column_trans_list = list()
+    if 'lang_id' not in remove_features:
+        column_trans_list.append(('lang_id', OneHotEncoder(dtype='int'), ['lang_id']))
+    if 'feat_id' not in remove_features:
+        column_trans_list.append(('feat_id', OneHotEncoder(dtype='int'), ['feat_id']))
+    if 'geo_lat' not in remove_features:
+        column_trans_list.append(('geo_lat', MinMaxScaler(), ['geo_lat']))
+    if 'geo_long' not in remove_features:
+        column_trans_list.append(('geo_long', MinMaxScaler(), ['geo_long']))
+    if 'lang_fam' not in remove_features:
+        column_trans_list.append(('lang_fam', fam_vectorizer, 'lang_fam'))
+    if 'scripts' not in remove_features:
+        column_trans_list.append(('scripts', script_vectorizer, 'scripts'))
+    if 'feat_name' not in remove_features:
+        column_trans_list.append(('feat_name', featname_vectorizer, 'feat_name'))
+    if 'phylogency' not in remove_features:
+        phylogency_trans = [(f'phylogency{i}', MinMaxScaler(), [f'phylogency{i}']) for i in range(n_components)]
+        column_trans_list += phylogency_trans
+    if 'miltale' not in remove_features:
+        miltale_trans = [(f'miltale{i}', MinMaxScaler(), [f'miltale{i}']) for i in range(len(miltale_X[0]))]
+        column_trans_list += miltale_trans
 
     column_trans = ColumnTransformer(
-        [('lang_id', OneHotEncoder(dtype='int'), ['lang_id']),
-        ('feat_id', OneHotEncoder(dtype='int'), ['feat_id']),
-        ('geo_lat', MinMaxScaler(), ['geo_lat']),
-        ('geo_long', MinMaxScaler(), ['geo_long']),
-        ('lang_fam', fam_vectorizer, 'lang_fam'),
-        ('scripts', script_vectorizer, 'scripts'),
-        ('feat_name', featname_vectorizer, 'feat_name')],
+        column_trans_list,
         remainder='passthrough', verbose_feature_names_out=True)
 
     # why do we need pandas?
     import pandas as pd
     x = column_trans.fit_transform(pd.DataFrame(x))
     all_feat_names = column_trans.get_feature_names_out()
-    x_numpy = x.toarray()
+    if isinstance(x, np.ndarray):
+        x_numpy = x
+    else:
+        x_numpy = x.toarray()
 
     # shuffle
     z = [[feats, gold, name] for feats, gold, name in zip(list(x_numpy), y, names)]
@@ -489,5 +531,5 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     # with open(f'feats_{classifier}.pickle', 'wb') as f:
     #     pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
 
-    with open(f'feats-full_{classifier}.pickle', 'wb') as f:
+    with open(f'feats-full_{classifier}_mil.pickle', 'wb') as f:
         pickle.dump([x, y, names, all_feat_names], f)
