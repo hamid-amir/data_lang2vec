@@ -33,8 +33,12 @@ for trainFile in train_files:
     lang_code = trainFile.split('/')[-1].split('.')[0].split('_')[0]
     iso_code = myutils.code2iso(lang_code)
     if iso_code:
-        cmd = 'cat ' + trainPath + ' ' + devPath + ' ' + testPath + ' > ' + cleaned_dir + lang_code + '.' + trainFile.replace('-train','')
-        cmd = cmd.replace('(', '\\(').replace(')', '\\)').replace('\'', '\\\'')
+        if os.name == 'nt': # if operating system is windows.
+            cmd = 'type ' + trainPath + ' ' + devPath + ' ' + testPath + ' > ' + cleaned_dir + lang_code + '.' + trainFile.replace('-train','')
+            cmd = cmd.replace('/', '\\')
+        else:
+            cmd = 'cat ' + trainPath + ' ' + devPath + ' ' + testPath + ' > ' + cleaned_dir + lang_code + '.' + trainFile.replace('-train','')
+            cmd = cmd.replace('(', '\\(').replace(')', '\\)').replace('\'', '\\\'')
         print(cmd)
         os.system(cmd)
 
