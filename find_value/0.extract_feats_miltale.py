@@ -13,11 +13,18 @@ from typing import Dict, List, Literal
 def extract_from_pos(pos_tags_path: str, 
                      vectorizer: Literal['countVectorizer', 'TfidfVectorizer'] = 'countVectorizer') -> pickle:
     def extract(input_file, output_file):
-        with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
-            for line in infile:
-                parts = line.strip().split('\t')
-                if len(parts) > 1:
-                    outfile.write(parts[1] + '\n')
+        if os.name == 'nt':
+            with open(input_file, 'r', encoding='latin1') as infile, open(output_file, 'w', encoding='latin1') as outfile:
+                for line in infile:
+                    parts = line.strip().split('\t')
+                    if len(parts) > 1:
+                        outfile.write(parts[1] + '\n')
+        else:
+            with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
+                for line in infile:
+                    parts = line.strip().split('\t')
+                    if len(parts) > 1:
+                        outfile.write(parts[1] + '\n')
     
     output_path = os.path.join(os.path.dirname(pos_tags_path), "extracted_pos")
     if not os.path.exists(output_path):
@@ -38,10 +45,16 @@ def extract_from_pos(pos_tags_path: str,
     #         return parts[1]
 
     if vectorizer == 'countVectorizer':
-        vec = CountVectorizer(input='filename', analyzer='word', ngram_range=(3,3), max_features=5000)
+        if os.name == 'nt':
+            vec = CountVectorizer(input='filename', analyzer='word', ngram_range=(3,3), max_features=5000, encoding='latin1')
+        else:
+            vec = CountVectorizer(input='filename', analyzer='word', ngram_range=(3,3), max_features=5000)
         # vec = CountVectorizer(input='filename', tokenizer=tok, analyzer='word', ngram_range=(2,4))
     elif vectorizer == 'TfidfVectorizer':
-        vec = TfidfVectorizer(input='filename', analyzer='word', ngram_range=(3,3))
+        if os.name == 'nt':
+            vec = TfidfVectorizer(input='filename', analyzer='word', ngram_range=(3,3), encoding='latin1')
+        else:
+            vec = TfidfVectorizer(input='filename', analyzer='word', ngram_range=(3,3))
 
     X = vec.fit_transform(paths)
 
