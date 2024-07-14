@@ -477,7 +477,7 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     if 'phylogency' not in remove_features:
         phylogency_trans = [(f'phylogency{i}', MinMaxScaler(), [f'phylogency{i}']) for i in range(n_components)]
         column_trans_list += phylogency_trans
-    if 'miltale' not in remove_features:
+    if miltale_data:
         miltale_trans = [(f'miltale{i}', MinMaxScaler(), [f'miltale{i}']) for i in range(len(miltale_X[0]))]
         column_trans_list += miltale_trans
 
