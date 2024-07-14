@@ -46,15 +46,15 @@ def extract_from_pos(pos_tags_path: str,
 
     if vectorizer == 'countVectorizer':
         if os.name == 'nt':
-            vec = CountVectorizer(input='filename', analyzer='word', ngram_range=(3,3), max_features=5000, encoding='latin1')
+            vec = CountVectorizer(input='filename', analyzer='word', ngram_range=(3,5), max_features=2000, encoding='latin1')
         else:
-            vec = CountVectorizer(input='filename', analyzer='word', ngram_range=(3,3), max_features=5000)
+            vec = CountVectorizer(input='filename', analyzer='word', ngram_range=(3,5), max_features=2000)
         # vec = CountVectorizer(input='filename', tokenizer=tok, analyzer='word', ngram_range=(2,4))
     elif vectorizer == 'TfidfVectorizer':
         if os.name == 'nt':
-            vec = TfidfVectorizer(input='filename', analyzer='word', ngram_range=(3,3), encoding='latin1')
+            vec = TfidfVectorizer(input='filename', analyzer='word', ngram_range=(3,5), max_features=2000, encoding='latin1')
         else:
-            vec = TfidfVectorizer(input='filename', analyzer='word', ngram_range=(3,3))
+            vec = TfidfVectorizer(input='filename', analyzer='word', ngram_range=(3,5), max_features=2000)
 
     X = vec.fit_transform(paths)
 
