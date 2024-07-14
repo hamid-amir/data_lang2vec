@@ -26,9 +26,11 @@ def objective(trial, method: str):
 
     print(remove_features)
     n_components = trial.suggest_int('n_components', 10, 100)
+    miltate_n_components = trial.suggest_int('miltate_n_components', 10, 1000)
     myutils.extract_features(
         'find_value',
         n_components=n_components,
+        miltate_n_components=miltate_n_components,
         n=300,
         remove_features=remove_features,
         miltale_data=miltale_data
