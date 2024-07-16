@@ -1,0 +1,336 @@
+all: πας	πᾶς	ἅπας 
+every: πας	πᾶς	ἅπας 
+ash: τέφρα 
+ashes: τέφρα 
+bark: φλοιός 
+abdomen: γαστήρ	κοιλία 
+belly: γαστήρ	κοιλία 
+big: μέγας 
+bigness: μέγας 
+large: μέγας 
+bird: πετεινόν	ὄρνις 
+bite: δάκνω 
+black: μέλας	μέλᾱς 
+blood: haima	αἷμα 
+bone: oston	ὀστέον	ὀστοῦν 
+breast: stEth~os	sternon	μαστός	στήθος	στῆθος 
+breasts: stEth~os	sternon	μαστός	στήθος	στῆθος 
+burn: κάω 
+burn tr.: κάω 
+claw: ὄνυξ 
+nail: ὄνυξ 
+talon: ὄνυξ 
+cloud: νέφος 
+cold: ψυχρός 
+come: erkh~esth~ai	ἐλθ-	ἔρχομαι	ἥκω 
+come from: erkh~esth~ai	ἐλθ-	ἔρχομαι	ἥκω 
+be dead: apoth~nEiskein	teleutan	τελευτάω	ἀπο=θνῄσκω	ἀποθνῄσκω 
+dead: apoth~nEiskein	teleutan	τελευτάω	ἀπο=θνῄσκω	ἀποθνῄσκω 
+die: apoth~nEiskein	teleutan	τελευτάω	ἀπο=θνῄσκω	ἀποθνῄσκω 
+dog: kion	κύων 
+drink: pinein	πίνω 
+dry: ξηρός 
+ear: os	οὖς 
+earth: γῆ 
+ground: γῆ 
+land: γῆ 
+soil: γῆ 
+eat: φάγω	φαγ-	ἐσθίω 
+egg: ᾠόν 
+eye: oma	oph~th~almos	ὀφθαλμός	ὄμμα 
+feather: πτερόν 
+fire: pir	πῦρ 
+fish: ikh~th~is	ἰχθύς 
+fly: πέτομαι 
+fly v.: πέτομαι 
+foot: πούς	ποῦς 
+full: pestos	pleos	μεστός	πλήρης 
+give: δίδομι	δίδωμι	παρέχω 
+good: ἀγαθός 
+green: γλαυκός	χλωρός 
+hair: θρίξ	κόμη 
+hand: kh~eir	χείρ 
+left hand: kh~eir	χείρ 
+right: kh~eir	χείρ 
+head: κεφαλή 
+hear: akoein	ἀκούω 
+heart: καρδία 
+horn: keras	κέρας 
+1 sg.: ego	ἐγώ	ἐμ- 
+I: ego	ἐγώ	ἐμ- 
+kill: ἀποκτείνω 
+knee: goni	γόνυ 
+be knowledgeable: εἴδω	οἶδα 
+know: εἴδω	οἶδα 
+leaf: ph~ilon	φύλλον 
+lie: κατά=κειμαι 
+lie down: κατά=κειμαι 
+liver: hEpar	ἧπαρ 
+long: μακρός 
+head louse: ph~th~eir	φθείρ 
+louse: ph~th~eir	φθείρ 
+male: ἀνήρ 
+man: anEr	anth~ropos	ἄνθρωπος 
+many: πολύς 
+much: πολύς 
+multiple: πολύς 
+several: πολύς 
+flesh: κρέας 
+meat: κρέας 
+moon: σελήνη 
+hill: oros	βουνόν	ἄκρα	ὄρος 
+mountain: oros	βουνόν	ἄκρα	ὄρος 
+mouth: στόμα 
+name: doksa	onoma	ὄνομα 
+title: doksa	onoma	ὄνομα 
+neck: αὐχήν	τραχηλός 
+new: kainos	neos	νέος 
+night: niks	νύξ 
+nighttime: niks	νύξ 
+nose: rh~is	ῥίς 
+not: μή	οὐ	οὐκ	οὐχ 
+adulterous: heis	mia	εἷς	μία	ἕν 
+one: heis	mia	εἷς	μία	ἕν 
+single: heis	mia	εἷς	μία	ἕν 
+that: ἐκεῖνος 
+the: heis	mia	εἷς	μία	ἕν 
+unprincipled: heis	mia	εἷς	μία	ἕν 
+human: anEr	anth~ropos	ἄνθρωπος 
+human being: anEr	anth~ropos	ἄνθρωπος 
+person: anEr	anth~ropos	ἄνθρωπος 
+rain: βροχή	ὄμβρος	ὑετός 
+rainy weather: βροχή	ὄμβρος	ὑετός 
+red: πυρρός	ἐρυθρός 
+path: atrapos	odos	ὁδός 
+road: atrapos	odos	ὁδός 
+route: atrapos	odos	ὁδός 
+root: ῥίζα 
+round: κυκλοτερής	περιφερής	στρογγύλος 
+sand: ἄμμος	ἄμμός 
+say: εἶπα	λέγω	φημί 
+see: blepein	horan	βλέπω	εἶδον	ὁράω	ὁρῶ 
+seed: σπέρμα 
+sit: κάθημαι	καθίζω 
+hide: derma	kh~ros	δέρμα 
+skin: derma	kh~ros	δέρμα 
+sleep: καθεύδω 
+little: μικρός	σμικρός 
+small: μικρός	σμικρός 
+smallness: μικρός	σμικρός 
+smoke: καπνός 
+stand: ἵστημι 
+star: astEr	astron	ἀστήρ 
+rock: lith~os	petra	λίθος 
+stone: lith~os	petra	λίθος 
+sun: hElios	ἥλιος 
+swim: κολυμβῶ	νέω	νῶ 
+tail: κέρκος	ουρά 
+this: οὗτος	τόδε	ἥδε	ὅδε 
+2 sg: si	σύ 
+thou: si	σύ 
+you: si	σύ 
+tongue: glosa	glota	γλῶσσα	γλῶττα 
+tooth: odos	ὀδούς	ὀδών 
+tree: dendron	δένδρον 
+grind: dio	δύο 
+two: dio	δύο 
+go: εἶμι	περιπατῶ 
+walk: εἶμι	περιπατῶ 
+hot: θερμός 
+warm: θερμός 
+water: hidor	ὕδωρ 
+1 pl. inc.: Emeis	ἡμεῖς 
+we: Emeis	ἡμεῖς 
+we₁: Emeis	ἡμεῖς 
+what: τί 
+white: λευκός 
+whiteness: λευκός 
+who: τίς 
+who?: τίς 
+female: γυνή 
+woman: γυνή 
+yellow: ξανθός 
+distant: μακράν	πόρρω 
+far: μακράν	πόρρω 
+dull: βαρύς 
+heavy: βαρύς 
+serious: βαρύς 
+close: ἐγγύς 
+near: ἐγγύς 
+ner: ἐγγύς 
+salt: ἅλς 
+short: βραχύς 
+snake: ὄφις 
+thin: λεπτός	μανός 
+wind: ἄνεμος 
+earthworm: σκώληξ	ἑρπετόν	ἕλμις 
+worm: σκώληξ	ἑρπετόν	ἕλμις 
+year: ἐνιαυτός	ἔτος 
+3 sg.: αὐτός 
+he: αὐτός 
+she: αὐτός 
+2 pl.: ὑμεῖς 
+ye: ὑμεῖς 
+you all: ὑμεῖς 
+3 pl.: αὐτά	αὐταί	αὐτοί 
+they: αὐτά	αὐταί	αὐτοί 
+here: ἐνθάδε	ἐνταῦθα	ἔνθα 
+there: ἐκεῖ 
+where: ποῦ 
+where?: ποῦ 
+when: πότε 
+when?: πότε 
+how: πῶς 
+how?: πῶς 
+some: τις 
+few: ὀλίγος 
+other: ἄλλος	ἕτερος 
+three: τρεῖς 
+four: τέσσαρες	τέτταρες 
+five: πέντε 
+broad: εὐρύς 
+wide: εὐρύς 
+wideness: εὐρύς 
+fat: δημός 
+thick: πυκνός 
+narrow: στενός 
+child: παιδίον	παῖς	τέκνον 
+principal wife: γυνή 
+wife: γυνή 
+husband: ἀνήρ 
+his mother: μήτηρ 
+mother: μήτηρ 
+my mother: μήτηρ 
+father: πατήρ 
+his father: πατήρ 
+my father: πατήρ 
+animal: ζῷον 
+forest: ὕλη 
+woods: ὕλη 
+branch: βακτηρία	ῥαβδός 
+stick: βακτηρία	ῥαβδός 
+fruit: καρπός 
+flower: ἄνθος 
+grass: χλόη 
+cord: δεσμός	σχοινίον 
+rope: δεσμός	σχοινίον 
+grease: δημός 
+fingernail: ὄνυξ 
+leg: κῶλον	σκέλος 
+arm: χείρ 
+wing: πτέρυξ 
+gut: σπλάγχνα	ἔντερα 
+guts: σπλάγχνα	ἔντερα 
+insides: σπλάγχνα	ἔντερα 
+intestine: σπλάγχνα	ἔντερα 
+intestines: σπλάγχνα	ἔντερα 
+back: νῶτον 
+suck: σπῶ 
+spit: πτύω 
+vomit: ἐμῶ 
+blow: φυσῶ 
+breath: πνῶ 
+breathe: πνῶ 
+laugh: γελῶ 
+laughter: γελῶ 
+cogitate: νομίζω 
+reflect: νομίζω 
+think: νομίζω 
+smell: ὀσφραίνομαι 
+sniff: ὀσφραίνομαι 
+afraid: φοβοῦμαι 
+be afraid: φοβοῦμαι 
+fear: φοβοῦμαι 
+fright: φοβοῦμαι 
+alive: ζῶ 
+be alive: ζῶ 
+life: ζῶ 
+live: ζῶ 
+living: ζῶ 
+fight: μάχομαι 
+hunt: θηρεύω 
+beat: τύπτω 
+hit: τύπτω 
+strike: τύπτω 
+cut: τέμνω 
+hack: τέμνω 
+cut open: σχίζω 
+split: σχίζω 
+pierce: κεντῶ 
+stab: κεντῶ 
+scratch: κνῶ 
+dig: ὀρύσσω 
+tell lies: κεῖμαι 
+turn: τρέπω 
+turn around: τρέπω 
+turn round: τρέπω 
+drop: πίπτω 
+fall: πίπτω 
+grasp: ἔχω 
+hold: ἔχω 
+hold in arm: ἔχω 
+squeeze: πιέζω 
+wring: πιέζω 
+rub: τρίβω 
+wipe: ἀπομασσω 
+wash: λούω	νίπτω	πλύνω 
+wash clothes: λούω	νίπτω	πλύνω 
+pull: ἕλκω 
+push: ὠθῶ 
+shove: ὠθῶ 
+throw: ῥίπτω 
+bind: δῶ 
+fasten: δῶ 
+tie: δῶ 
+tie up: δῶ 
+sew: ῥάπτω 
+count: ἀριθμῶ 
+enumerate: ἀριθμῶ 
+number: ἀριθμῶ 
+tally: ἀριθμῶ 
+sing: ᾄδω 
+have fun: παίζω 
+play: παίζω 
+float: νῶ 
+flow: ῥῶ 
+freeze: πήγνομαι 
+swell: αὐξάνω	πιμπράομαι 
+brook: ποταμός 
+river: ποταμός 
+stream: ποταμός 
+lake: λίμνη 
+ocean: θάλασσα	θάλαττα	πέλαγος 
+sea: θάλασσα	θάλαττα	πέλαγος 
+dust: κόνις 
+fog: ὀμίχλη 
+sky: οὐρανός 
+snow: χιών 
+ice: κρύσταλλος 
+blaze: καίω 
+day: ἡμέρα 
+daylight: ἡμέρα 
+daytime: ἡμέρα 
+old: παλαιός	παπαλιός 
+bad: κακός 
+evil: κακός 
+rot: σαπρός 
+rotten: σαπρός 
+dirty: θολερός 
+filthy: θολερός 
+soiled: θολερός 
+straight: εὐθύς 
+sharp: τομός	ὀξύς 
+blunt: βαρύς	ἀμβλύς 
+smooth: λεῖος 
+damp: ὑγρός 
+wet: ὑγρός 
+correct: δικαιός 
+right side: δεξιός 
+left: ευωνυμος	ἀριστερός 
+at: ἐν 
+in: ἐν 
+inside: ἐν 
+with: μετά 
+and: καί 
+if: εἰ 
+because: ὅτι 

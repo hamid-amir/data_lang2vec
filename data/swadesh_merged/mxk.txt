@@ -1,0 +1,486 @@
+all: tsawora pai 
+animal: nditsi ŋge 
+arm: ngang 
+arm: ŋaŋ 
+arm: ŋaoŋ 
+arm: ŋatsamonop 
+arrow: taniwar ika 
+ashes: apón | apon on	apón 
+ashes: apon on | apon on	apón 
+back: morap iŋge 
+bad: lapa | lapa	lepetse	lápa 
+bad: lápa | lapa	lepetse	lápa 
+bad: lepetse | lapa	lepetse	lápa 
+bark: tsil aŋ 
+belly: mbuk | mbuk	mbuk iŋge 
+belly: mbuk iŋge | mbuk	mbuk iŋge 
+belly: ndeŋgoat oŋ | mbuk	mbuk iŋge 
+big: ngaimbára | ŋaimbára 
+bird: nakúr | nakur ɛ	nakúr 
+bird: nakur ɛ | nakur ɛ	nakúr 
+bite: kamotaliŋak tsɛt | kɛkɛtea tsɛt 
+bite: kamotal tsɛt | kɛkɛtea tsɛt 
+bite: kɛkɛtea tsɛt 
+bitter: kumbutaka ine 
+black: mbot ika | mbot ika	ŋgoat ine	ŋóat 
+black: ŋgoat ine | mbot ika	ŋgoat ine	ŋóat 
+black: ngóat | mbot ika	ŋgoat ine	ŋóat 
+blood: mat | mat	mat ika 
+blood: mat ika | mat	mat ika 
+blow: ururu tsɛt 
+bone: irun mbe 
+boy: korun 
+boy: me:rkurun 
+boy: mɛːr-kurun mbe 
+branch: tsapaːla iŋ 
+breast: nim | nim	nim aN	nim an 
+breast: nim an | nim	nim aN	nim an 
+breathe: ɛmeka 
+breathe: kapem ika 
+brother: akunameː oŋga 
+brother: akuwɛ akuwoŋga 
+burn: kar 
+burn: op-iran | kar 
+burn: pak tsɛt | kar 
+butterfly: mamatambur aŋ 
+calf: tsambuken oaŋ 
+cheek: mbomboŋ gere 
+chest: kair iŋge 
+chin: kapitaur iŋge 
+cloud: oal iwe 
+cold: tumurua tsɛt (get) 
+come: kare | kare	kiari	kirikare 
+correct: taraŋ tarataraŋ 
+count: kupup 
+crocodile: tsamór 
+crocodile: tsamor ika 
+cut: kinat 
+dark: indukalopok ine 
+day: ɛm boŋ | mboŋ	ɛm boŋ 
+day: mboŋ | mboŋ	ɛm boŋ 
+day: tamaːr iŋge | mboŋ	ɛm boŋ 
+die: ken 
+dig: kamulak tsɛt 
+dig: kuŋgum mbat 
+dirty: lumulumat ine 
+dog: á:ur | aur e	dur ɛ	áːur 
+dog: dur ɛ | aur e	dur ɛ	áːur 
+dry: karapok ine 
+dust: iŋge | iŋge	oap o 
+dust: oap o | iŋge	oap o 
+ear: mak | mak	mak a 
+ear: mak a | mak	mak a 
+earth: keték | kɛtɛk iŋge 
+earth: kɛtɛk iŋge 
+eat: kat 
+egg: tserem mbo | ül	ül uŋge 
+egg: ül | ül	ül uŋge 
+egg: ül uŋge | ül	ül uŋge 
+elbow: ŋaumbir iŋge 
+eye: ta:r | ta*r e	taːr	taːr ɛ 
+eye: taːr ɛ | ta*r e	taːr	taːr ɛ 
+eye: tar ŋararap o | ta*r e	taːr	taːr ɛ 
+eye: tartsuap | ta*r e	taːr	taːr ɛ 
+face: okom iŋge 
+fall: ndupainde | ndupainde	ndupáinde 
+fall: -sari | ndupainde	ndupáinde 
+far: otak 
+father: ata uŋga | ata uŋga	ŋata ika	ŋatá 
+father: ngatá | ata uŋga	ŋata ika	ŋatá 
+father: ŋata ika | ata uŋga	ŋata ika	ŋatá 
+fat (n.): oeak oŋ 
+fear: kaŋgaːr 
+feather: mbunembune aŋ | nakur ɛ	ŋait 
+feather: nakur ɛ | nakur ɛ	ŋait 
+feather: okul | nakur ɛ	ŋait 
+few: mbutukun | mbutukun	mbutuːn 
+few: mbutuːn | mbutukun	mbutuːn 
+finger: kambol ɛ 
+finger: kambol kawatsak a 
+fingernail: ndoap o | ndoap o	tsimaŋgɛːr an 
+fingernail: tsimaŋgɛːr an | ndoap o	tsimaŋgɛːr an 
+finger: tamumur iŋge 
+fire: ndumbuŋ gere | Nait i	ŋaːit 
+fire: ngait | Nait i	ŋaːit 
+fire: ŋaːit | Nait i	ŋaːit 
+fish: tsir | cir ika	tsir	tsir ika 
+fish: tsir ika | cir ika	tsir	tsir ika 
+five: ŋaŋ take | nʲátakua	ŋaŋ take 
+flow: nal tsɛt 
+fly (n.): nggaur 
+fly (n.): ŋgaur 
+fog: oa ka 
+foot: mɛlek a | mɛlek a	tamtakil	tamtakil an	tsámbo 
+foot: tambule iŋge | mɛlek a	tamtakil	tamtakil an	tsámbo 
+foot: tamtakil | mɛlek a	tamtakil	tamtakil an	tsámbo 
+foot: tamtakil an | mɛlek a	tamtakil	tamtakil an	tsámbo 
+foot: tsámbo | mɛlek a	tamtakil	tamtakil an	tsámbo 
+forehead: ŋgulan ika 
+forest: manimbir ika 
+four: tsaipe-tsaipe | tsaipe-tsaipe	tsaipe-tsáipe 
+freeze: ŋdupunaŋga ine 
+fruit: ilu ŋge 
+full: ɛr mbo-ndurumbat | ndup 
+full: ndup 
+girl: kɛat-kurum mbe 
+give: mbiep 
+good: taráng | taraŋ tarataraŋ	taráŋ 
+good: taraŋ tarataraŋ | taraŋ tarataraŋ	taráŋ 
+grass: koaːr iwe 
+green: malakoa tse 
+guts: ora iŋ 
+hair: irap o | irap o	kumen iŋge	kumén 
+hair: kumén | irap o	kumen iŋge	kumén 
+hair: kumen iŋge | irap o	kumen iŋge	kumén 
+hair: yuːŋ gere | irap o	kumen iŋge	kumén 
+hand: ŋaŋ | NaNdambi aN	ŋaŋ	ŋaŋdambi aŋ 
+hand: ngang(-dambi) | NaNdambi aN	ŋaŋ	ŋaŋdambi aŋ 
+hand: ŋaŋdambi aŋ | NaNdambi aN	ŋaŋ	ŋaŋdambi aŋ 
+hand: puputul iŋge | NaNdambi aN	ŋaŋ	ŋaŋdambi aŋ 
+head: nggándu | ŋgandu ore	ŋgándu 
+head: ŋgandu ore | ŋgandu ore	ŋgándu 
+heart: kair iŋge | kair iŋge	mik a 
+heart: mik a | kair iŋge	mik a 
+hear: -tsu: | -tsuː	cu	tsuː 
+hear: tsuː | -tsuː	cu	tsuː 
+heavy: ipaka ine 
+here: moːn(la) | moːn	moːnla 
+he/she: ik 
+he/she: mik/ik/ngik 
+he/she: ning 
+he/she: niŋ 
+he/she: uk 
+hit: mbat 
+hit: ŋgur mbat 
+hold: tsop-iŋoia 
+hole: ɛːn iŋge 
+house: nggoko 
+house: tsíngger 
+house: tsiŋger iwe 
+I: e:k | ek	eːk	ɛːk 
+I: ɛːk | ek	eːk	ɛːk 
+kill: mbat 
+knee: kut iŋge | iNe	kut iŋge	kut up 
+knee: kut up | iNe	kut iŋge	kut up 
+know: tokaŋak tsɛt 
+lake: tsairum mbe 
+laugh: kiram 
+leaf: mbaŋa o | mbaNa	mbaŋa o 
+left: ŋatsi 
+leg: tamtakil | tamtakil	tsambo	tsámbo 
+leg: tsambo | tamtakil	tsambo	tsámbo 
+leg: tsámbo | tamtakil	tsambo	tsámbo 
+lie: kuor-tsa | kaua ŋge 
+lightning: tirun ga 
+lip: kakutsil aŋ 
+liver: kupun mbe 
+long: anggám | aŋgam ine	aŋgám 
+long: aŋgam ine | aŋgam ine	aŋgám 
+louse: aŋgumbir a 
+man: inámbo | inambo	oca	orca	ortsa 
+man: mer | inambo	oca	orca	ortsa 
+man: mɛːr oŋga | inambo	oca	orca	ortsa 
+many: tsawora 
+meat: ili ka 
+moon: yu: | yuː	yuː ka 
+moon: yuː ka | yuː	yuː ka 
+morning: akunua ŋge 
+mosquito: malaŋet ika 
+mosquito: ngget 
+mosquito: ŋget oŋ 
+mother: me:m | meːm	mɛːm on 
+mother: mɛːm on | meːm	mɛːm on 
+mountain: ipun iwe | naNam iNge	naŋam iŋge	ŋaŋám 
+mountain: naŋam iŋge | naNam iNge	naŋam iŋge	ŋaŋám 
+mountain: ngangám | naNam iNge	naŋam iŋge	ŋaŋám 
+mouth: olakam | olakam	olákam 
+mouth: olákam | olakam	olákam 
+name: inu | inu	inu ore 
+name: inu ore | inu	inu ore 
+nape: murikitsar ika 
+narrow: ndit ine 
+navel: mbutsutsurum ika 
+near: ŋalea 
+neck: aŋgirip ika 
+new: ndup iŋge | cimer e	tsimɛr ɛ 
+new: tsimɛr ɛ | cimer e	tsimɛr ɛ 
+night: indu ŋge | indu Ne	indu ŋge 
+night: tamaːr iŋge | indu Ne	indu ŋge 
+nose: tsimbér | cimber ika	tsimbér	tsimbɛr ika 
+old: iŋgom ine 
+old: mbarat ine 
+one: takuːa | takua	takuːa	takù´ a 
+other: taka | taka	tekere	tɛne 
+other: tekere | taka	tekere	tɛne 
+other: tɛne | taka	tekere	tɛne 
+person: inambo | inambo	oca	orca	ortsa 
+person: ortsa | inambo	oca	orca	ortsa 
+play: araia tsikene 
+pull: kumat 
+push: paroroŋak tsikene 
+rain: mbu | mbu	mbuː ore 
+rain: mbuː ore | mbu	mbuː ore 
+rat: tsadzak a 
+red: purapura | pura-púra	purapura 
+red: pura-púra | pura-púra	purapura 
+right: ona onaora | NaNdambi aN	ŋaŋ	ŋaŋdambi aŋ 
+ripe: kumbambaŋ ine 
+river: tsu kaŋan | tsuː ŋga 
+river: tsuː ŋga 
+road: kurí | kuri ain 
+road: kuriː aiŋ | kuri ain 
+root: ndundur aŋ 
+rope: lapɛka ŋge | lapɛka ŋge	ndauna 
+rotten: kɛlɛk ine 
+salt: tsair i 
+sand: kindan oŋ 
+say: mbaké | mbeː-tsɛt | kindan oŋ 
+say: mben | mbeː-tsɛt | kindan oŋ 
+say: mbeː-tsɛt | kindan oŋ 
+scratch: ratsik tsɛt | tsapatsapak tsɛt 
+scratch: tsapatsapak tsɛt 
+sea: tsair i 
+sea: tsáirum 
+sea: tsairum mbe 
+seed: ilu ŋge 
+see: mbat | caik	mbat	tsaik 
+see: tsaik | caik	mbat	tsaik 
+sew: ɛmɛt tsɛt | kalaun mbup 
+sew: kalaun mbup 
+sharp: amokamoka ine 
+short: put | put	put ine 
+short: put ine | put	put ine 
+shoulder: tsombi 
+shoulder: tsombi aŋ 
+sing: tsína-tsína tset | tsinatsina tsɛt	tsína-tsína test 
+sing: tsinatsina tsɛt | tsinatsina tsɛt	tsína-tsína test 
+sister: akunameː ki 
+sister: akuwa mbo 
+sit: tsa mo tsa | tsa mo tsa	tsa-mótsa 
+sit: tsa-mótsa | tsa mo tsa	tsa-mótsa 
+skin: mouk | cil aN	tsil aŋ 
+skin: mouk mbat | cil aN	tsil aŋ 
+skin: tsil aŋ | cil aN	tsil aŋ 
+sky: ŋaitukun mbe 
+sleep: kuaːr 
+small: muta | muta	mutar ɛ 
+small: mutar ɛ | muta	mutar ɛ 
+smell: oar iwe | kumumam 
+smoke: ngait iap | ŋait iap	ŋaitiap iŋge 
+smoke: ŋaitiap iŋge | ŋait iap	ŋaitiap iŋge 
+smooth: maumao ine 
+snake: kain | kain	kain mbe 
+snake: kain mbe | kain	kain mbe 
+son: akuaro umbe 
+sour: maŋiŋ ine 
+spit: nduŋ ga 
+spit: nduŋgul 
+split: ndaŋgar | ndaŋgarep 
+split: ndaŋgarep 
+stand: kup tsa- | kup tsa-	kup-tsa 
+stand: kup-tsa | kup tsa-	kup-tsa 
+star: akunuaŋgu | Ngoituku ka	ŋgoituku ka	ŋgoitúku 
+star: nggoitúku | Ngoituku ka	ŋgoituku ka	ŋgoitúku 
+star: ŋgoituku ka | Ngoituku ka	ŋgoituku ka	ŋgoitúku 
+star: Xyoidzamo | Ngoituku ka	ŋgoituku ka	ŋgoitúku 
+stone: ikúpul | ikupul e	ikupul ɛ	ikúpul 
+stone: ikupul ɛ | ikupul e	ikupul ɛ	ikúpul 
+straight: konakonak ine 
+sun: tsaut | caut ika	tsaut	tsaut ika 
+sun: tsaut ika | caut ika	tsaut	tsaut ika 
+swell: kakai tsɛt 
+swim: ŋalaŋala tsɛt 
+tail: ndik 
+tail: tsimbaiŋge | ndik 
+take: naŋguria tsɛt 
+take: -nggurati 
+take: urot 
+there: moːn(la) | moːn	moːnla 
+they: mbok | mbok	miŋ 
+they: miŋ | mbok	miŋ 
+they: ming/mbok | mbok	miŋ 
+they two: mak ~ wak 
+they two: mak/wak 
+thick: paraŋ | patsana 
+thick: paraparaŋ | patsana 
+thick: patsana 
+thigh: kuŋilik a 
+think: mamaŋ tsɛt 
+thin: tsidzirit ine 
+thorn: pupuk a 
+thou: tse:k | cek	tseːk	tsɛːk 
+thou: tsɛːk | cek	tseːk	tsɛːk 
+thou: up ~ up | cek	tseːk	tsɛːk 
+three: tsaipe-takua | tsaipe-takua	tsáipe-takúa 
+throat: nanemokar iŋge 
+throw: ndipit | ndipit	ŋgir tsɛt 
+throw: ŋgir tsɛt | ndipit	ŋgir tsɛt 
+thunder: kɛm ika 
+tie: oaŋgit 
+tie: otsat | oaŋgit 
+today: taumbotuku 
+today: taumbotúku 
+tomorrow: imbúnum 
+tongue: menep | menep	menep ika	menɛp ika 
+tongue: menɛp ika | menep	menep ika	menɛp ika 
+tooth: arɛː | are	arɛː	er	ere	ɛːr	ɛːrɛː 
+tooth: er | are	arɛː	er	ere	ɛːr	ɛːrɛː 
+tooth: ɛːr | are	arɛː	er	ere	ɛːr	ɛːrɛː 
+tooth: ɛːrɛː | are	arɛː	er	ere	ɛːr	ɛːrɛː 
+tree: iriput ŋge | ka* ip 
+tree: ka | ka* ip 
+tree: up iŋge | ka* ip 
+tree: u:t | ka* ip 
+tree: uːt | ka* ip 
+turn: tataliak tset 
+two: tsaipe | caipe	tsaipe 
+unripe: malakoa 
+vagina: iir 
+vagina: iːr aŋ 
+vagina: mamatala ka 
+walk: kɛka 
+walk: keka/angé 
+walk: mai tsɛt 
+warm: mbulambulaŋ ine 
+warm: ŋgaraŋgara ine | mbulambulaŋ ine 
+wash: ndarep 
+wash: ndarikene | ndarep 
+water: tsu: | cu	tsuː 
+water: tsuː | cu	tsuː 
+weep: ndang 
+weep: tsamin a 
+we (excl.): ip 
+we: i-m | im 
+we (incl.): im 
+wet: mutsumutsuk ine 
+we two (incl.): ip 
+we two: i-p 
+white: kea-kéak | kea-kéak	kɛakɛak ine 
+white: kɛakɛak ine | kea-kéak	kɛakɛak ine 
+who: kana 
+wife: akunambo noŋ 
+wind: ndup-ndup | ndup-ndup	ndupundup iŋge 
+wind: ndupundup iŋge | ndup-ndup	ndupundup iŋge 
+wing: ŋgɛten an 
+woman: káwatsak | kawatsaka	káwatsak	kɛatsak a 
+woman: kawatsaka | kawatsaka	káwatsak	kɛatsak a 
+woman: kɛatsak a | kawatsaka	káwatsak	kɛatsak a 
+wood: mbim iŋge 
+wood: ŋaruːm mbe 
+year: puruk iŋge 
+yellow: naŋinaŋ ine 
+yesterday: imánde 
+you two: up 
+you two: u-p 
+you: u-m | cek	tseːk	tsɛːk | u-m	up 
+you: u-m- | cek	tseːk	tsɛːk | u-m	up 
+you: u-p- | cek	tseːk	tsɛːk | u-m	up 
+every: tsawora pai 
+ash: apon on	apón 
+abdomen: mbuk	mbuk iŋge 
+bigness: ŋaimbára 
+large: ŋaimbára 
+breasts: nim	nim aN	nim an 
+cold: tumurua tsɛt 
+come from: kare	kiari	kirikare 
+be dead: ken 
+dead: ken 
+ground: kɛtɛk iŋge 
+land: kɛtɛk iŋge 
+soil: kɛtɛk iŋge 
+left hand: NaNdambi aN	ŋaŋ	ŋaŋdambi aŋ 
+1 sg.: ek	eːk	ɛːk 
+male: inámbo	mer	mɛːr oŋga 
+much: tsawora 
+multiple: tsawora 
+several: tsawora 
+hill: naNam iNge	naŋam iŋge	ŋaŋám 
+title: inu	inu ore 
+nighttime: indu Ne	indu ŋge 
+adulterous: takua	takuːa	takù´ a 
+single: takua	takuːa	takù´ a 
+that: takua	takuːa	takù´ a 
+the: takua	takuːa	takù´ a 
+unprincipled: takua	takuːa	takù´ a 
+human: inambo	oca	orca	ortsa 
+human being: inambo	oca	orca	ortsa 
+rainy weather: mbu	mbuː ore 
+path: kuri ain 
+route: kuri ain 
+hide: cil aN	tsil aŋ 
+little: muta	mutar ɛ 
+smallness: muta	mutar ɛ 
+rock: ikupul e	ikupul ɛ	ikúpul 
+2 sg: cek	tseːk	tsɛːk 
+grind: caipe	tsaipe 
+hot: mbulambulaŋ ine 
+1 pl. inc.: im 
+we₁: im 
+whiteness: kea-kéak	kɛakɛak ine 
+who?: kana 
+female: kawatsaka	káwatsak	kɛatsak a 
+distant: otak 
+dull: ipaka ine 
+serious: ipaka ine 
+close: ŋalea 
+ner: ŋalea 
+3 sg.: niŋ 
+he: niŋ 
+she: niŋ 
+2 pl.: u-m	up 
+ye: u-m	up 
+you all: u-m	up 
+3 pl.: mbok	miŋ 
+fat: patsana 
+principal wife: akunambo noŋ 
+his mother: meːm	mɛːm on 
+my mother: meːm	mɛːm on 
+his father: ata uŋga	ŋata ika	ŋatá 
+my father: ata uŋga	ŋata ika	ŋatá 
+woods: manimbir ika 
+stick: tsapaːla iŋ 
+cord: lapɛka ŋge	ndauna 
+flesh: ili ka 
+claw: ndoap o	tsimaŋgɛːr an 
+nail: ndoap o	tsimaŋgɛːr an 
+gut: ora iŋ 
+insides: ora iŋ 
+intestine: ora iŋ 
+intestines: ora iŋ 
+laughter: kiram 
+cogitate: mamaŋ tsɛt 
+reflect: mamaŋ tsɛt 
+sniff: kumumam 
+afraid: kaŋgaːr 
+be afraid: kaŋgaːr 
+fright: kaŋgaːr 
+beat: mbat 
+strike: mbat 
+hack: kinat 
+cut open: ndaŋgarep 
+lie down: kaua ŋge 
+tell lies: kaua ŋge 
+drop: ndupainde	ndupáinde 
+grasp: tsop-iŋoia 
+hold in arm: tsop-iŋoia 
+wash clothes: ndarep 
+shove: paroroŋak tsikene 
+bind: oaŋgit 
+fasten: oaŋgit 
+tie up: oaŋgit 
+enumerate: kupup 
+number: kupup 
+tally: kupup 
+have fun: araia tsikene 
+brook: tsuː ŋga 
+stream: tsuː ŋga 
+blaze: kar 
+daylight: mboŋ	ɛm boŋ 
+daytime: mboŋ	ɛm boŋ 
+evil: lapa	lepetse	lápa 
+rot: kɛlɛk ine 
+filthy: lumulumat ine 
+soiled: lumulumat ine 
+blunt: aia ne	kapupu ine 
+damp: mutsumutsuk ine 
+right side: ona onaora 

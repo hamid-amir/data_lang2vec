@@ -1,0 +1,151 @@
+all: helaqa 
+arm: hwalyï 
+ashes: kwataala | kwatɑla 
+bark: waasa | wɑča 
+belly: aakwiyï | ɑkwiyə 
+big: imasa | imača 
+bird: qaikwïsa | qaikwəča 
+bite: hisa | hiča 
+black: pïsa | pəča 
+blood: msaasa | msasa	mčɑča 
+bone: yekïna | yek3na	yekəna 
+breast: aamna | amna	ɑmna 
+burn: tiso itaatenyï 
+claw: saapïna | čɑpəna 
+cloud: qaaula | qɑula 
+cold: tapaakumnyï | tapɑkumnyə 
+come: qapaatana | p	qa-p-ɑtana 
+die: napakwa\nateqa | napakwa7nateqa	napakwaʔnateqa 
+dog: wakyï | waky3	wakyə 
+drink: aalyï natana | n	ɑlyi n-atana 
+dry: yaalsa | yɑlča 
+ear: qatisa | qatisa	qatiča 
+earth: kwaasa | kwɑča 
+eat: hisa naatana | hisa n-ɑtana 
+egg: mna 
+eye: hina 
+fat (n.): qaaqwa 
+feather: hyekwiyï | hyekwiyə 
+fire: tïsa | t3sa	təča 
+fish: waalapyï | walapy3	wɑlapyə 
+fly (v.): kwoatana 
+fly (v.): qaula kwotana 
+full: maanyï | many3	mɑnyə 
+give: qansapaatana | qan-čap-ɑtana 
+good: ilai\na | iliaʔna 
+green: hyaukwïnyï | hyaukwinyə 
+hair: msaasa | mčɑča 
+head: mnakïna | mnaqəna 
+hear: qatisa u-y-aatana | qatiča u-y-ɑyana	y 
+heart: hyaalmauyï | hyɑlmauyə 
+horn: hikwaana | hikwana	hikwɑna 
+I: nka 
+kill: piyï pakla qaatana | piyəpakla qɑtana 
+knee: kwauna 
+know: naaqa\neynï isaqa | nɑqaʔnenyəičaqa 
+leaf: kwiyï | kwiy3	kwiyə 
+leg: kwapïtwalyï 
+lie: heka o-lana 
+liver: qalyï | qaly3	qalyə 
+long: haiwalyaana | haiwalyana 
+louse: ila 
+man: kwala | a7mny3	ɑʔmnyə 
+many: pa\naayï | paʔnɑyə 
+meat: nenyï 
+moon: lamnyï | lamnyə 
+mountain: kwaana | kwana	kwɑna 
+mouth: maana | mɑna 
+name: yavwï | yawy3	yawyə 
+neck: hilna 
+new: hyana 
+night: hikwïna | hikw3na	hikwəna 
+nose: himsa | himsa	himča 
+not: maya | ʔmaya 
+one: hïnkwa\na | h3nkwa7na	hənkwaʔna	’kwənenoi 
+person: aa\mnyï | a7mny3	ɑʔmnyə 
+rain: naqaiyï | naqaiyə 
+red: aalasa | ɑlača 
+road: malna 
+root: hula 
+round: ilkwa\mna | ilkwaʔmna 
+sand: wesa | weča 
+say: taatana | weča 
+seed: hyaulyï | hyaulyə 
+see: hina u-kwan-aatana | hina u-kwan-ɑtana	kwan 
+sit: qakwaalana | qa-kmɑl-ana 
+skin: aa\mosa | a7mosa	ɑʔmoča 
+sleep: heka olana | heka o-lana 
+small: maatïkwa | mɑtəkwa 
+smoke: hina tïsa | hina təča 
+stand: pola taqona 
+star: hilaqamla 
+stone: hekyï | heky3	hekyə 
+sun: mapya 
+swim: aalïmla kwaata\nyï yaatana | ɑləmlakwɑtaʔnyəyɑtana 
+tail: hyauyï | hyauyə 
+that: he 
+this: te 
+thou: nkïnï | sika	čika 
+tongue: hyaalsa | hyalsa	hyɑlča 
+tooth: maana | mana	mɑna 
+tree: isa 
+two: hulwaaqwï | hulwaqw3	hulwɑqwə	u’laako 
+walk: qaana emalyaatana | qɑna emaly-ɑtana 
+warm: tïkumnyï 
+water: aalyï | aly3	ɑlyə 
+we (incl.): nenkwa 
+what: paaqaka | pɑqaka 
+white: kapaai\laalyï | kapɑiʔlɑlyə 
+who: sïkwaka | čəwaka 
+woman: aapala | ɑpala 
+yellow: waakwulyï | wɑkwulyə 
+every: helaqa 
+ash: kwatɑla 
+abdomen: ɑkwiyə 
+bigness: imača 
+large: imača 
+breasts: amna	ɑmna 
+nail: čɑpəna 
+talon: čɑpəna 
+come from: p	qa-p-ɑtana 
+be dead: napakwa7nateqa	napakwaʔnateqa 
+dead: napakwa7nateqa	napakwaʔnateqa 
+ground: kwɑča 
+land: kwɑča 
+soil: kwɑča 
+fly: kwɑtana	qula kwotana 
+fly v.: kwɑtana	qula kwotana 
+1 sg.: nka 
+be knowledgeable: nɑqaʔnenyəičaqa 
+lie down: heka o-lana 
+head louse: ila 
+male: kwala 
+much: paʔnɑyə 
+multiple: paʔnɑyə 
+several: paʔnɑyə 
+hill: kwana	kwɑna 
+title: yawy3	yawyə 
+nighttime: hikw3na	hikwəna 
+adulterous: h3nkwa7na	hənkwaʔna	’kwənenoi 
+single: h3nkwa7na	hənkwaʔna	’kwənenoi 
+the: h3nkwa7na	hənkwaʔna	’kwənenoi 
+unprincipled: h3nkwa7na	hənkwaʔna	’kwənenoi 
+human: a7mny3	ɑʔmnyə 
+human being: a7mny3	ɑʔmnyə 
+rainy weather: naqaiyə 
+path: malna 
+route: malna 
+hide: a7mosa	ɑʔmoča 
+little: mɑtəkwa 
+smallness: mɑtəkwa 
+rock: heky3	hekyə 
+2 sg: sika	čika 
+you: sika	čika 
+grind: hulwaqw3	hulwɑqwə	u’laako 
+go: qɑna emaly-ɑtana 
+1 pl. inc.: nenkwa 
+we: nenkwa 
+we₁: nenkwa 
+whiteness: kapɑiʔlɑlyə 
+who?: čəwaka 
+female: ɑpala 

@@ -1,0 +1,135 @@
+all: hok	huk 
+every: hok	huk 
+ash: alapok 
+ashes: alapok 
+bark: qapi	yohinʼ 
+abdomen: sementa 
+belly: sementa 
+big: tan 
+bigness: tan 
+large: tan 
+bird: *man	mayink 
+bite: latkusha	olashke 
+black: asepʼ	rahoni 
+blood: wayi 
+bone: waho	wahu 
+breast: *masa 
+breasts: *masa 
+cloud: maqosi 
+cold: sani 
+come: hala	hi	ho	hu	ile	kiju	la	qala	talano*ho	yahu 
+come from: hala	hi	ho	hu	ile	kiju	la	qala	talano*ho	yahu 
+be dead: Co*ka	oCo*ka	ochonka	te	teolah	tey 
+dead: Co*ka	oCo*ka	ochonka	te	teolah	tey 
+die: Co*ka	oCo*ka	ochonka	te	teolah	tey 
+dog: Ch~o*ki	Ch~o*ti	chongo	chonk	chunk	nonts	tsunk 
+drink: lakpe	lapeta	olakpe 
+ear: nahoh	nahoq	naqoq	naxux 
+earth: aman 
+ground: aman 
+land: aman 
+soil: aman 
+eat: luta	luti	ruti	walut 
+egg: pos 
+eye: tasu 
+fire: miha*stik	ph~eti	pʼech 
+fish: bisoka	wihoq 
+foot: ishi 
+give: go	ogo 
+good: api	bi	biken	ipi	pi 
+green: otoʼlakon 
+hair: *hin	nantonʼ	natonʼ 
+hand: haki 
+left hand: haki 
+right: haki 
+head: *pa	pasuye 
+heart: yant 
+horn: *he	he	tabike 
+1 sg.: henigu	ma-	mi	mim	wa-	wi-	wima 
+I: henigu	ma-	mi	mim	wa-	wi-	wima 
+kill: kite	latskiha 
+be knowledgeable: onshpe 
+know: onshpe 
+leaf: otoʼ 
+liver: tapi 
+long: *stetka	henem 
+male: wahtakaʼ 
+man: nona	wayuwaʼ 
+many: ohon	ohoteka 
+much: ohon	ohoteka 
+multiple: ohon	ohoteka 
+several: ohon	ohoteka 
+moon: mimahe	minosaʼ 
+hill: hekawiyeni*	heki	oheka	oheki	shuq	suxi 
+mountain: hekawiyeni*	heki	oheka	oheki	shuq	suxi 
+mouth: ih 
+neck: tase 
+night: ohsi	osi 
+nighttime: ohsi	osi 
+nose: paqte	ph~axti 
+not: ki-…-na	yahan 
+adulterous: no*sa	nons	nǫ́:sa: 
+one: no*sa	nons	nǫ́:sa: 
+single: no*sa	nons	nǫ́:sa: 
+that: ena	heke	hekin	yukan 
+the: no*sa	nons	nǫ́:sa: 
+unprincipled: no*sa	nons	nǫ́:sa: 
+human: nona	wayuwaʼ 
+human being: nona	wayuwaʼ 
+person: nona	wayuwaʼ 
+rain: qawoʼ 
+rainy weather: qawoʼ 
+red: achuti	achutʼ 
+path: ha*tkox	hentkoq 
+road: ha*tkox	hentkoq 
+route: ha*tkox	hentkoq 
+root: wayugen 
+round: bush	walikaskunq 
+say: hahe 
+see: ine	oqata	waqeta 
+seed: *su	do 
+sit: ananka	nancheka 
+sleep: hiyan 
+little: kutska	niskaʼ 
+small: kutska	niskaʼ 
+smallness: kutska	niskaʼ 
+star: tabuninchka	tapuni*teka 
+rock: histek	histeki	nistek 
+stone: histek	histeki	nistek 
+sun: mi*	min 
+swim: ina 
+tail: *sont 
+this: lewa	neke	nekin 
+2 sg: ya-	yi	yima	yukan 
+thou: ya-	yi	yima	yukan 
+you: ya-	yi	yima	yukan 
+tongue: leCi	lechi	nechi 
+tooth: ih	ihi 
+tree: mah~ika	miyenʼ	oni	taskahui	wasti	wiya*	wiyen 
+grind: ikh~ano*pa	no*pa	nomp	nǫ́:pa: 
+two: ikh~ano*pa	no*pa	nomp	nǫ́:pa: 
+go: opa	yala 
+walk: opa	yala 
+hot: akateka	akatiya 
+warm: akateka	akatiya 
+water: mani	meni 
+1 pl. inc.: man	maʼe-	mimahuk	waʼe-	wima 
+we: man	maʼe-	mimahuk	waʼe-	wima 
+we₁: man	maʼe-	mimahuk	waʼe-	wima 
+what: aken 
+white: asan	aseni 
+whiteness: asan	aseni 
+who: etowa	ketowa 
+who?: etowa	ketowa 
+female: mahe	mihan	mihen	warewaʼ 
+woman: mahe	mihan	mihen	warewaʼ 
+yellow: si 
+distant: henem 
+far: henem 
+close: aska	inkte 
+near: aska	inkte 
+ner: aska	inkte 
+salt: machigonyon 
+snake: handon	wagen 
+thin: hableha 
+wind: maminkle	maminkre	mangre 

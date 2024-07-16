@@ -1,0 +1,130 @@
+all: kuli 
+every: kuli 
+ash: fantam-piemma 
+ashes: fantam-piemma 
+bark: ti-pwagidi 
+abdomen: puo-go	tu-gu 
+belly: puo-go	tu-gu 
+big: yabi 
+bigness: yabi 
+large: yabi 
+bird: nuan-o 
+bite: nyi 
+black: bwani 
+blood: soː-ma	swa 
+bone: kp~ab 
+breast: ben	bin-li 
+breasts: ben	bin-li 
+cloud: tawali-gu 
+cold: swangi 
+come: Tw~a	čwa 
+come from: Tw~a	čwa 
+be dead: kpe	kp~e	ku 
+dead: kpe	kp~e	ku 
+die: kpe	kp~e	ku 
+dog: bua-ga 
+drink: nyu 
+dry: kuo- 
+ear: naya	tub-li 
+eat: di 
+egg: ǯen-li 
+eye: nun	nunbu 
+feather: kob-di 
+fire: fantama	fant~a 
+fish: ǯam-o 
+fly: yug-i 
+fly v.: yug-i 
+foot: taː-li 
+full: gbieni	gby$e 
+give: pu 
+good: ŋan 
+hair: yu-gu 
+hand: nu 
+left hand: nu 
+right: nu 
+head: yu-li 
+hear: gba 
+heart: pali 
+horn: -li	yin	yin-gu 
+1 sg.: m. n 
+I: m. n 
+kill: kpa 
+knee: dun	dun-li 
+be knowledgeable: ban 
+know: ban 
+leaf: fa	faː-gu 
+lie: duani 
+lie down: duani 
+liver: pwa	pwa-li 
+long: fwagi 
+male: ǯaba	ǯwa 
+man: nilo	nulukuli 
+many: bontyianla 
+much: bontyianla 
+multiple: bontyianla 
+several: bontyianla 
+flesh: -gu	nan-di 
+meat: -gu	nan-di 
+moon: kilo	ŋmalo 
+hill: dyoa-li	lywa-li 
+mountain: dyoa-li	lywa-li 
+mouth: nyoa-bu 
+name: yeli 
+title: yeli 
+neck: til-u 
+new: paːni 
+night: 5a	nyagu 
+nighttime: 5a	nyagu 
+nose: mia-li	my~a 
+adulterous: n lè	yendo 
+one: n lè	yendo 
+single: n lè	yendo 
+that: -ni 
+the: n lè	yendo 
+unprincipled: n lè	yendo 
+human: nilo	nulukuli 
+human being: nilo	nulukuli 
+person: nilo	nulukuli 
+rain: taːga 
+rainy weather: taːga 
+red: mwani 
+path: sanbili 
+road: sanbili 
+route: sanbili 
+root: ǯiːn-u 
+round: jiβjib- 
+sand: tambima 
+say: ye 
+see: diː	la	nua 
+seed: bi-bu-tibili 
+sit: kali 
+hide: gbaŋ-gu	gb~an 
+skin: gbaŋ-gu	gb~an 
+sleep: guan 
+little: wa 
+small: wa 
+smallness: wa 
+smoke: munyi 
+star: magb~i	ŋmabi-ga 
+rock: tan	tan-li 
+stone: tan	tan-li 
+sun: yen	yen-u 
+swim: dug-i 
+tail: ǯuo-li 
+this: ne 
+tongue: lam-bu 
+tooth: 5en	nyin-li 
+tree: ti 
+grind: -lie	ly~e	nlé 
+two: -lie	ly~e	nlé 
+go: čuoni 
+walk: čuoni 
+water: 5i	nyi-ma 
+what: be 
+white: pieni 
+whiteness: pieni 
+who: mwe	ŋme 
+who?: mwe	ŋme 
+female: pwa 
+woman: pwa 
+yellow: duːdi 

@@ -1,0 +1,424 @@
+all: ɗúllɛ | ɗúllɛ	ɗúllɛ̀ 
+animal: ɲáːma | ɲáːma 
+arm: niːsʊ 
+arm: nisínɛ 
+ashes: ndɔːlɔ | n=dɔ̀ːlɔ̀	ndɔːlɔ 
+back: ɗɔ́ːrɛ́ | doːreriː	ni-ɗɔ́ːrɛ́	ɗɔ́ːrɛ́ 
+back: doːreriː | doːreriː	ni-ɗɔ́ːrɛ́	ɗɔ́ːrɛ́ 
+back: ni˗ɗɔ́ːrɛ́ | doːreriː	ni-ɗɔ́ːrɛ́	ɗɔ́ːrɛ́ 
+bad: aŋorɔ́ːŋɔ́ | -oruba	aŋorɔ́ːŋɔ́ 
+bad: ˗oruba | -oruba	aŋorɔ́ːŋɔ́ 
+bark: níd̪ɪ́ːfɛ | níd̪ɪ́ːfɛ	t̪ɩ̀ːfɛ́	t̪ɪːfɛ́ 
+bark: t̪ɪːfɛ́ | níd̪ɪ́ːfɛ	t̪ɩ̀ːfɛ́	t̪ɪːfɛ́ 
+belly: aːdi | aði	aːdi	aːd̪i	naŋád̪i	àːd̪ì 
+belly: aːd̪i | aði	aːdi	aːd̪i	naŋád̪i	àːd̪ì 
+belly: aði | aði	aːdi	aːd̪i	naŋád̪i	àːd̪ì 
+belly: naŋád̪i | aði	aːdi	aːd̪i	naŋád̪i	àːd̪ì 
+big: ˗igi | -igi	kíːfi	m=íːgì	íːgi	íːgì 
+big: íːgi | -igi	kíːfi	m=íːgì	íːgi	íːgì 
+big: kíːfi | -igi	kíːfi	m=íːgì	íːgi	íːgì 
+bird: kolo | kolo	nd̪ʊɣáːí	ʊwáːí	ʋ̀wáːí 
+bird: nd̪ʊɣáːí | kolo	nd̪ʊɣáːí	ʊwáːí	ʋ̀wáːí 
+bird: ʊwáːí | kolo	nd̪ʊɣáːí	ʊwáːí	ʋ̀wáːí 
+bite: ʊmáŋ | ʊmáŋ	ʋ̀máŋ 
+black: aɲʊ́ːlá | a=ɲʋ́ːlá	aɲʊ́ːlá 
+blood: ard̪a | ard̪a	oba	àrd̪à 
+blood: oba | ard̪a	oba	àrd̪à 
+blow: (p)fúlʷaːgɛ́ | fúlʷaːgɛ́	pfúlʷaːgɛ́ 
+bone: kʊ́ɓʊ́ːní | kuboni	kʊ́ɓʊ́ːní	kʋɓʋ́ː-ní	nʊ́gʊ́ɓʊ́ːni̪ 
+bone: nʊ́gʊ́ɓʊ́ːni̪ | kuboni	kʊ́ɓʊ́ːní	kʋɓʋ́ː-ní	nʊ́gʊ́ɓʊ́ːni̪ 
+branch: ni˗sílɪ́mɪ́ | ni-sílɪ́mɪ́	sílɪ́mɪ́ 
+branch: sílɪ́mɪ́ | ni-sílɪ́mɪ́	sílɪ́mɪ́ 
+breast: t̪˗ɑnɔgʊ | 8onugw~u	t̪-ɑnɔgʊ	t̪onugwu 
+breast: t̪onugwu | 8onugw~u	t̪-ɑnɔgʊ	t̪onugwu 
+breathe: íːlá t̪iɲá aɗɔ | íːlá t̪iɲá aɗɔ 
+brother: ɓáláníːma 
+brother: kaláːnígíma 
+burn: maɗʊrɛ | m=àɗʋ̀rɛ̀ 
+chest: ro 
+child: baladadi | baladadi	kɪlyá	ɓíld̪a 
+child: ɓíld̪a | baladadi	kɪlyá	ɓíld̪a 
+child: kɪlyá | baladadi	kɪlyá	ɓíld̪a 
+claw: másálɔ́ɔgá ̊ka˗nd̪ʊgáːí͂ | mà=sálɔ́ːgá	másálɔ́ɔgá ̊ka-nd̪ʊgáːí̃ | ka-sálɔ́ɔgá	ma-sálɔ́ɔga 
+cloud: ndiːgʊ | ndiːgʊ	ǹ=dìːgʋ̀ 
+cold: ŋádɛ́ṛi | ŋádɛ́ːɽì	ŋádɛ́ṛi 
+come: áɗia | dia	áɗia	ɗí-á	ɗíá 
+come: ɗíá | dia	áɗia	ɗí-á	ɗíá 
+count: íːnáːnɛ́ | íːnáːnɛ́ 
+cut: at̪t̪ɛ 
+cut: (p)fáŋi | at̪t̪ɛ 
+day: orugi | orugi	ʊrʊ́ːni 
+day: ʊrʊ́ːni | orugi	ʊrʊ́ːni 
+day: ɪːyá | orugi	ʊrʊ́ːni 
+die: aːɛ́ | ay	àːɛ́ 
+dig: íɗíáːna | íɗíáːna 
+dirty: aŋɔrɔ́ːɓɔ́ | aŋɔrɔ́ːɓɔ́ 
+dog: denera | denera	ira	irʌ	nigít̪íːni	ɛːrá	ɛ̀ːrá 
+dog: ɛːrá | denera	ira	irʌ	nigít̪íːni	ɛːrá	ɛ̀ːrá 
+dog: irʌ | denera	ira	irʌ	nigít̪íːni	ɛːrá	ɛ̀ːrá 
+dog: nigít̪íːni | denera	ira	irʌ	nigít̪íːni	ɛːrá	ɛ̀ːrá 
+drink: ʊːwɛ | awE	ʊːwɛ	ʋ̀ːwɛ̀ 
+dry: (n˗)árʊ́mɛ̂ | n-árʊ́mɛ̂	á=rʋ́mɛ̂	árʊ́mɛ̂ 
+dust: t̪úŋgu | t̪úŋgu 
+ear: nɛ́sínɛ | n=ɛ̀ːsɔ̀	neso	neːso	nɛːsɔ	nɛ́sínɛ 
+ear: neːso | n=ɛ̀ːsɔ̀	neso	neːso	nɛːsɔ	nɛ́sínɛ 
+ear: nɛːsɔ | n=ɛ̀ːsɔ̀	neso	neːso	nɛːsɔ	nɛ́sínɛ 
+earth: fuda | fùɗʷá 
+earth: fuɗʷá | fùɗʷá 
+eat: aguri | aguri	à=gù-rì 
+egg: sulʌ | sulʌ	súlɛ́	t̪u-súlɛ́ 
+egg: t̪u˗súlɛ́ | sulʌ	súlɛ́	t̪u-súlɛ́ 
+eye: aiyi | aiyi	ayyɛ	eye	kilyá-m-íyyɛ	àyyɛ̀ 
+eye: ayyɛ | aiyi	ayyɛ	eye	kilyá-m-íyyɛ	àyyɛ̀ 
+eye: kilyá˗m˗íyyɛ | aiyi	ayyɛ	eye	kilyá-m-íyyɛ	àyyɛ̀ 
+fall: aɗíŋga | aɗíŋga 
+far: íːrʊ | íːrʊ	íːrʋ̀ 
+father: ɪ́ma | ɪ́ma	ʊmpá 
+father: ʊmpá | ɪ́ma	ʊmpá 
+fear: áráɓá 
+feather: t̪i˗náɓá | náɓá	t̪i-náɓá 
+few: k˗it̪ɔ́llí | k-it̪t̪yɔ́	k-it̪ɔ́llí 
+few: k˗it̪t̪yɔ́ | k-it̪t̪yɔ́	k-it̪ɔ́llí 
+fight: arɛ́ːnɛ́ | arɛ́ːnɛ́ 
+finger: ɓílda má nd̪iniːsʊ 
+fingernail: ka˗sálɔ́ɔgá | ka-sálɔ́ɔgá	ma-sálɔ́ɔga 
+fingernail: ma˗sálɔ́ɔga | ka-sálɔ́ɔgá	ma-sálɔ́ɔga 
+fire: iːsiː | isi	issi	iːsiː	ìssì 
+fire: issi | isi	issi	iːsiː	ìssì 
+fish: kalɔ́ːga | kalɔ́ːga	kologa	kà=lɔ́ːgà	mid̪i-gɔlɔ́ːga 
+fish: mid̪i˗gɔlɔ́ːga | kalɔ́ːga	kologa	kà=lɔ́ːgà	mid̪i-gɔlɔ́ːga 
+five: kamini | kamini	niːsʊ 
+five: niːsʊ | kamini	niːsʊ 
+flower: t̪ʊ́lɪ | t̪ʊ́lɪ 
+flow: ʊ́ːfʊ | ʊ́ːfʊ 
+fly (n.): aːsa 
+fly (v.): afɪ́ 
+fog: gʊr(ʷ)aːna | gʊraːna	gʊrʷaːna 
+foot: awwa | awwa	àwwà	ʊːnɛ 
+foot: ʊːnɛ | awwa	àwwà	ʊːnɛ 
+forest: ndíːlɛːɓʊ́ | ndíːlɛːɓʊ́ 
+four: ɛ́ːgissa | kigiso	ɛ́ːgissa 
+four: kigiso | kigiso	ɛ́ːgissa 
+full: ad̪iginɛ́ | ad̪iginɛ́	à=d̪ìgìnɛ́ 
+give: ná | ná 
+good: ˗adiːla | -adiːla	aɗɪ́ːlá	n-aɗɪ́ːlá	à=ɗɩ́ːlá 
+good: (n˗)aɗɪ́ːlá | -adiːla	aɗɪ́ːlá	n-aɗɪ́ːlá	à=ɗɩ́ːlá 
+grass: tú | tú 
+green: agɪ́ːrí | agɪ́ːrí	à=gɩ́ːrí 
+guts: au | au	mid̪áː-ɗísi 
+guts: mid̪áː˗ɗísi | au	mid̪áː-ɗísi 
+hair: auwʌ | auwʌ	nd̪ɪn-áwwá	áwwá 
+hair: nd̪ɪn˗áwwá | auwʌ	nd̪ɪn-áwwá	áwwá 
+hand: niːsʊ | n=ìːsʋ̀	nisa	nisínɛ	niːsʊ 
+hand: nisínɛ | n=ìːsʋ̀	nisa	nisínɛ	niːsʊ 
+head: aŋɒ́d̪u | aŋ=ɒ́d̪ù	aŋɒ́d̪u	ni-aŋɒ́d̪u 
+head: ni˗aŋɒ́d̪u | aŋ=ɒ́d̪ù	aŋɒ́d̪u	ni-aŋɒ́d̪u 
+hear: iːfiɲá | aNg~afi5a	iːfiɲá	ìː=fı̏ɲá 
+heart: t̪ʊ˗nɔgʊ | t̪ʊ-nɔgʊ	t̪ʋ̀=nɔ̀gʋ̀ 
+heavy: at̪t̪áɓɛ́ | at̪t̪áɓɛ́	à=t̪t̪áɓɛ́ 
+here: neŋnagade 
+he/she: ˗aduga 
+hit: rɔ́ːna | rɔ́ːna 
+hole: ayyɛ 
+hole: nigínnɛ 
+horn: t̪in˗iːda | t̪in-iːda	íːdà 
+house: diː 
+hunt: (ŋgwá) d̪aːsa | d̪aːsa	ŋgwá d̪aːsa 
+husband: ɲʊrí | ɲʊrí 
+I: aːa | a7a	aʔa	aːa	àʔà 
+I: aʔa | a7a	aʔa	aːa	àʔà 
+I: ˗adi | a7a	aʔa	aːa	àʔà 
+kill: ɪːɗáːna | ɩ̀ː=ɗáː-nà	ɪːɗáːna 
+knee: kaːrusu | kaːrusu	m=mí	mi	mmí	náː-mí 
+knee: mmí | kaːrusu	m=mí	mi	mmí	náː-mí 
+knee: náː˗mí | kaːrusu	m=mí	mi	mmí	náː-mí 
+know: ɔ́ːnɛ | ɔ́ː=nɛ̀	ɔ́ːnɛ 
+lake: t̪ɔ́ | t̪ɔ́ 
+laugh: iːɟáːnɛ́ | iːɟáːnɛ́ 
+leaf: ndandɛ́ maːfa | nd=àndɛ́-màːfà	ndandɛ́ maːfa	nírándɛ	tend~e 
+leaf: nírándɛ | nd=àndɛ́-màːfà	ndandɛ́ maːfa	nírándɛ	tend~e 
+left: gúːli | gúːli 
+leg: awwa | awwa	ʊːnɛ 
+leg: ʊːnɛ | awwa	ʊːnɛ 
+lie: yyʊ́ | yyʊ́	yyʋ́ 
+live: ádá | ádá	ád̪íná 
+live: ád̪íná | ádá	ád̪íná 
+liver: ní˗d̪íɲi | ní-d̪íɲi	t̪iɲí	t̪ì=ɲí 
+liver: t̪iɲí | ní-d̪íɲi	t̪iɲí	t̪ì=ɲí 
+long: kúsúrɛ | asurɛ́ːgɛ́	kúsúrɛ	n-asurɛ́ːgɛ́	àsùrɛ́ː-gɛ́	ŋussúrɛ́ 
+long: (n˗)asurɛ́ːgɛ́ | asurɛ́ːgɛ́	kúsúrɛ	n-asurɛ́ːgɛ́	àsùrɛ́ː-gɛ́	ŋussúrɛ́ 
+long: ŋussúrɛ́ | asurɛ́ːgɛ́	kúsúrɛ	n-asurɛ́ːgɛ́	àsùrɛ́ː-gɛ́	ŋussúrɛ́ 
+man: kʊ˗naːdegoː | Tadego	kád̪ú	kɔ́ 
+man: taː˗ɗɛ́ːgɔ | Tadego	kád̪ú	kɔ́ 
+many: k˗íːgi | k-íːgi	k=íːgì 
+meat: ʊ́ːɗa | ʋ́ːɗà | oːda	ðoda	ʊ́ːɗa 
+meat: ðoda | ʋ́ːɗà | oːda	ðoda	ʊ́ːɗa 
+meat: oːda | ʋ́ːɗà | oːda	ðoda	ʊ́ːɗa 
+moon: t̪arɛ | teːre	t̪arɛ	t̪àrɛ̀ 
+moon: teːre | teːre	t̪arɛ	t̪àrɛ̀ 
+mother: níːmá | noːfa	níːmá 
+mother: noːfa | noːfa	níːmá 
+mountain: b˗aːroro | b-aːroro	m=ìɲà	mi5agw~ana	miɲa	nid̪ímiɲa	nígíkiɲa 
+mountain: miɲa | b-aːroro	m=ìɲà	mi5agw~ana	miɲa	nid̪ímiɲa	nígíkiɲa 
+mountain: nid̪ímiɲa | b-aːroro	m=ìɲà	mi5agw~ana	miɲa	nid̪ímiɲa	nígíkiɲa 
+mountain: nígíkiɲa | b-aːroro	m=ìɲà	mi5agw~ana	miɲa	nid̪ímiɲa	nígíkiɲa 
+mouth: ŋiːna | nim̀naːd̪i	niːna	nìːnà	ŋiːna 
+mouth: nim̀naːd̪i | nim̀naːd̪i	niːna	nìːnà	ŋiːna 
+mouth: niːna | nim̀naːd̪i	niːna	nìːnà	ŋiːna 
+name: ɛːrɛ | ɛːrɛ	ɛ̀ːrɛ̀ 
+narrow: it̪t̪ɔ́llí | it̪t̪ɔ́llí 
+navel: kulu 
+near: afɛ́ː˗gat̪t̪ɛ | afɛ́ː-gat̪t̪ɛ	amoŋi	àfɛ́ː=gàt̪t̪ɛ̀ 
+near: amoŋi | afɛ́ː-gat̪t̪ɛ	amoŋi	àfɛ́ː=gàt̪t̪ɛ̀ 
+neck: (í)yyɛ́ | náːyɛ́	yyɛ́	íyyɛ́ 
+neck: náːyɛ́ | náːyɛ́	yyɛ́	íyyɛ́ 
+new: aːdígí | amumitini	aːdígí	àː=dígí 
+night: ɔːsʊ́nni | oːsoː	usuni	ɔːsʊ́nni	ɔ̀ːsʋ́-nnì 
+night: oːsoː | oːsoː	usuni	ɔːsʊ́nni	ɔ̀ːsʋ́-nnì 
+old: allí 
+old: kːfí 
+old: t̪i˗gɛ́ːfí 
+one: íŋínɔ́ːnɔ | iginono	niːŋoni	nīŋoŋi	íŋínɔ́ːnɔ	íŋínɔ́ːnɔ̀ 
+one: niːŋoni | iginono	niːŋoni	nīŋoŋi	íŋínɔ́ːnɔ	íŋínɔ́ːnɔ̀ 
+person: kád̪ú | Tadego	kád̪ú	kɔ́ 
+person: kɔ́ | Tadego	kád̪ú	kɔ́ 
+play: aɓála | aɓála 
+pull: ʌ́ːzi 
+push: kʊ́rʷɒːnɒ 
+rain: niː | niː	nni	nnì 
+rain: nni | niː	nni	nnì 
+rat: nifa 
+red: asíːri | asíːri	à=síːrì 
+right: gúri | n=ìːsʋ̀	nisa	nisínɛ	niːsʊ | gúri 
+river: náː˗rí | náː-rí	rí 
+river: rí | náː-rí	rí 
+road: nu˗fúːni | pfúːnì 
+road: pfúːni | pfúːnì 
+root: ɓárrɛ | ni-ɓárrɛ	ɓ=árrɛ̀	ɓárrɛ 
+root: ni˗ɓárrɛ | ni-ɓárrɛ	ɓ=árrɛ̀	ɓárrɛ 
+rope: nd̪˗ɔːrɛ | nd̪-ɔːrɛ 
+rotten: (á)káṛu | káṛu	ákáṛu 
+rub: árɔ́ʔi | árɔ́ʔi 
+salt: t̪imɛlá | t̪imɛlá	t̪ìmɛ̀lá 
+sand: t̪isiŋɛ́ːnɛ́ | t̪isiŋɛ́ːnɛ́	t̪ìsìŋɛ́ːŋɛ́ 
+say: ad̪ɛ́ːma | akinɪːnɪ	à=kì-nɩ̀ːnɩ̀ | t̪isiŋɛ́ːnɛ́	t̪ìsìŋɛ́ːŋɛ́ 
+say: akinɪːnɪ | akinɪːnɪ	à=kì-nɩ̀ːnɩ̀ | t̪isiŋɛ́ːnɛ́	t̪ìsìŋɛ́ːŋɛ́ 
+scratch: agurá | agurá 
+seed: íːgi | migilɛ	t̪in-iːgí	íːgi	íːgì 
+seed: migilɛ | migilɛ	t̪in-iːgí	íːgi	íːgì 
+seed: t̪in˗iːgí | migilɛ	t̪in-iːgí	íːgi	íːgì 
+see: siɲɟá | i8ina	siɲɟá	sìɲʓá 
+sew: aɗalaːna 
+sharp: nanákúri | nanákúri 
+short: (n)ad̪iɗíːrí | ad̪iɗíːrí	nad̪iɗíːrí	à=d̪ìɗíːrí	ŋ-it̪t̪íɗí 
+short: ŋ˗it̪t̪íɗí | ad̪iɗíːrí	nad̪iɗíːrí	à=d̪ìɗíːrí	ŋ-it̪t̪íɗí 
+sing: úːwɛ́ | úːwɛ́ 
+sister: ɓáláːníːma 
+sister: kaláːnígíma 
+sit: ámî | á=mî	ámî	ɛ́ɗáːnɛ 
+sit: ɛ́ɗáːnɛ | á=mî	ámî	ɛ́ɗáːnɛ 
+skin: náː˗d̪ʊ | náː-d̪ʊ	oda	t̪ʋ̀ 
+sky: (ɗɔː) másála | másála	ɗɔː másála 
+sleep: ɪ | rigíd̪ɛ	ɩ̀ːrì-gíd̪è	ɪ 
+sleep: rigíd̪ɛ | rigíd̪ɛ	ɩ̀ːrì-gíd̪è	ɪ 
+small: atioma | atioma	kí-ɗísɛ	m-ɛttyɔ́	ma-ɗisɛ́ːlɛ	ɛttyɔ́	ɛ̀=ttyɔ́ 
+small: kí˗ɗísɛ | atioma	kí-ɗísɛ	m-ɛttyɔ́	ma-ɗisɛ́ːlɛ	ɛttyɔ́	ɛ̀=ttyɔ́ 
+small: ma˗ɗisɛ́ːlɛ | atioma	kí-ɗísɛ	m-ɛttyɔ́	ma-ɗisɛ́ːlɛ	ɛttyɔ́	ɛ̀=ttyɔ́ 
+small: (m˗)ɛttyɔ́ | atioma	kí-ɗísɛ	m-ɛttyɔ́	ma-ɗisɛ́ːlɛ	ɛttyɔ́	ɛ̀=ttyɔ́ 
+smoke: ndiːgʊ | n=dìːgʋ̀	ndiːgʊ 
+smooth: ʊ́ːɲʊ́gʊ́lí | ʊ́ːɲʊ́gʊ́lí 
+snake: náː˗ni | nni	nnì	náː-ni 
+snake: nni | nni	nnì	náː-ni 
+split: araɓáːni kaɓʊ́ | araɓáːni kaɓʊ́	sʊ́ŋáːʼní-gábʊ́ 
+split: sʊ́ŋáː\ní˗gábʊ́ | araɓáːni kaɓʊ́	sʊ́ŋáːʼní-gábʊ́ 
+squeeze: ɛːna 
+stand: áɓʊ́ŋɛ́ɛ | á=ɓʋ́ŋɛ́ː | áɓʊ́ŋɛ́ɛ 
+star: madigi | ma8igi	madigi	mìd̪ìgì	t̪i-mid̪igi 
+star: t̪i˗mid̪igi | ma8igi	madigi	mìd̪ìgì	t̪i-mid̪igi 
+stone: ka˗zigi | ka-zigi	kisigi	m-isi	mi-zigi	mì=zìgì	tafa 
+stone: m˗isi | ka-zigi	kisigi	m-isi	mi-zigi	mì=zìgì	tafa 
+stone: mi˗zigi | ka-zigi	kisigi	m-isi	mi-zigi	mì=zìgì	tafa 
+straight: tɔŋ˗gɔ́ːná | tɔŋ-gɔ́ːná 
+suck: ɔːnɛ́ | ɔːnɛ́ 
+sun: aya | aya	ɩ̀ːyá	ɪːyá 
+sun: ɪːyá | aya	ɩ̀ːyá	ɪːyá 
+sweet: kuðua 
+swell: awu 
+tail: iːd̪í | iːd̪í	nigit̪áːni	ìːd̪í 
+tail: nigit̪áːni | iːd̪í	nigit̪áːni	ìːd̪í 
+take: ɗá 
+take: láː 
+thick: n˗aṭṭíṛá | n-aṭṭíṛá 
+thin: n˗ʊ́rʊ́ːrí | n-ʊ́rʊ́ːrí	n=ʋ́rʋ́ːrí 
+thou: ʊʔʊ | aga	oːo	u7u	ʊʔʊ	ʋ̀ʔʋ̀ 
+thou: ˗odu | aga	oːo	u7u	ʊʔʊ	ʋ̀ʔʋ̀ 
+thou: oːo | aga	oːo	u7u	ʊʔʊ	ʋ̀ʔʋ̀ 
+three: koːdona | jōdǒna	koːdona	ɔ́ːɗɔːna 
+three: ɔ́ːɗɔːna | jōdǒna	koːdona	ɔ́ːɗɔːna 
+throw: (p)faːna | faːna	pfaːna 
+tie: máɗɛ́˗kaɓʊ́ | máɗɛ́-kaɓʊ́ 
+tongue: čadu | 8aNado	nid̪ɔ́ŋɔɗɔ́	t̪ɔŋɔɗɔ́	t̪ɔ̀=ŋɔ̀ɗɔ́	t̪ʌŋʌdo	čadu	ǯaːro 
+tongue: nid̪ɔ́ŋɔɗɔ́ | 8aNado	nid̪ɔ́ŋɔɗɔ́	t̪ɔŋɔɗɔ́	t̪ɔ̀=ŋɔ̀ɗɔ́	t̪ʌŋʌdo	čadu	ǯaːro 
+tongue: t̪ʌŋʌdo | 8aNado	nid̪ɔ́ŋɔɗɔ́	t̪ɔŋɔɗɔ́	t̪ɔ̀=ŋɔ̀ɗɔ́	t̪ʌŋʌdo	čadu	ǯaːro 
+tongue: t̪ɔŋɔɗɔ́ | 8aNado	nid̪ɔ́ŋɔɗɔ́	t̪ɔŋɔɗɔ́	t̪ɔ̀=ŋɔ̀ɗɔ́	t̪ʌŋʌdo	čadu	ǯaːro 
+tongue: ǯaːro | 8aNado	nid̪ɔ́ŋɔɗɔ́	t̪ɔŋɔɗɔ́	t̪ɔ̀=ŋɔ̀ɗɔ́	t̪ʌŋʌdo	čadu	ǯaːro 
+tooth: iːginiː | iːginiː	níd̪í-giní	tigini	t̪i-giní	t̪ì=gìní 
+tooth: níd̪í˗giní | iːginiː	níd̪í-giní	tigini	t̪i-giní	t̪ì=gìní 
+tooth: t̪i˗giní | iːginiː	níd̪í-giní	tigini	t̪i-giní	t̪ì=gìní 
+tree: faː | ffà	nifa8una 
+tree: ffa | ffà	nifa8una 
+tree: náːfa | ffà	nifa8una 
+turn: asála karrɛ́ 
+two: ɛ́ːrya | Era	kera	ɛ́ːrya	ɛ́ːryà 
+two: kera | Era	kera	ɛ́ːrya	ɛ́ːryà 
+vomit: ɔ́ːfɔ | ɔ́ːfɔ 
+walk: ŋ́gʷá | ŋgʷá	ŋ́gʷá 
+walk: ŋgʷá | ŋgʷá	ŋ́gʷá 
+warm: ŋ˗áláːla | ŋ-áláːla	ŋ=áláːlà 
+wash: ʊwáːna | ʊwáːna 
+water: biði | bi8i	biði	biːgi	ɓìːgì 
+water: biːgi | bi8i	biði	biːgi	ɓìːgì 
+we (excl.): aːyʊ́ 
+wet: (n˗)ɪ́ːfɪ́ | n-ɪ́ːfɪ́	ɪ́ːfɪ́ 
+what: minna | minna	mìnnà 
+when: áːd̪a | áːd̪a 
+where: kádíːyá | kádíːyá	noŋgwa 
+where: noŋgwa | kádíːyá	noŋgwa 
+white: afíːrá | afíːrá	à=fíːrá 
+who: nd̪á | nd̪á 
+wide: íːgi | íːgi 
+wife: ko˗maniminia | ko-maniminia	yaːgɪː	ɪːya 
+wife: ɪːya | ko-maniminia	yaːgɪː	ɪːya 
+wife: yaːgɪː | ko-maniminia	yaːgɪː	ɪːya 
+wind: t̪iɲá | tiɲa	t̪iɲá	t̪ìɲá 
+wind: tiɲa | tiɲa	t̪iɲá	t̪ìɲá 
+wing: nírândɛ | nírândɛ	tandɛ 
+wing: tandɛ | nírândɛ	tandɛ 
+wipe: agiyána | agiyána 
+woman: nímíɲa | nímíɲa	nímíɲà	ɪːya 
+woman: ɪːya | nímíɲa	nímíɲà	ɪːya 
+wood: kʊːfi 
+wood: kovi 
+wood: nʊ́gʊ́ːfi 
+worm: aɗɪ́ːnɔ́ | aɗɪ́ːnɔ́	mɪdáːɗɪːnɔ	à=ɗɩ́ːnɔ́ 
+worm: mɪdáːɗɪːnɔ | aɗɪ́ːnɔ́	mɪdáːɗɪːnɔ	à=ɗɩ́ːnɔ́ 
+year: fálɛ | fálɛ	fálɛ̀	ni-fálɛ 
+year: ni˗fálɛ | fálɛ	fálɛ̀	ni-fálɛ 
+every: ɗúllɛ	ɗúllɛ̀ 
+ash: n=dɔ̀ːlɔ̀	ndɔːlɔ 
+abdomen: aði	aːdi	aːd̪i	naŋád̪i	àːd̪ì 
+bigness: -igi	kíːfi	m=íːgì	íːgi	íːgì 
+large: -igi	kíːfi	m=íːgì	íːgi	íːgì 
+breasts: 8onugw~u	t̪-ɑnɔgʊ	t̪onugwu 
+burn tr.: m=àɗʋ̀rɛ̀ 
+nail: mà=sálɔ́ːgá	másálɔ́ɔgá ̊ka-nd̪ʊgáːí̃ 
+talon: mà=sálɔ́ːgá	másálɔ́ɔgá ̊ka-nd̪ʊgáːí̃ 
+come from: dia	áɗia	ɗí-á	ɗíá 
+be dead: ay	àːɛ́ 
+dead: ay	àːɛ́ 
+ground: fùɗʷá 
+land: fùɗʷá 
+soil: fùɗʷá 
+fat: ɔ̀ːɓá 
+fat n.: ɔ̀ːɓá 
+grease: ɔ̀ːɓá 
+lubricant: ɔ̀ːɓá 
+oil: ɔ̀ːɓá 
+fly: afɪ́	à=fɩ́ 
+fly v.: afɪ́	à=fɩ́ 
+left hand: n=ìːsʋ̀	nisa	nisínɛ	niːsʊ 
+1 sg.: a7a	aʔa	aːa	àʔà 
+be knowledgeable: ɔ́ː=nɛ̀	ɔ́ːnɛ 
+lie down: yyʊ́	yyʋ́ 
+male: kʊ-naːdegoː	taː-ɗɛ́ːgɔ	ɗɛ́ːgɔ̀ 
+much: k-íːgi	k=íːgì 
+multiple: k-íːgi	k=íːgì 
+several: k-íːgi	k=íːgì 
+flesh: ʋ́ːɗà 
+hill: b-aːroro	m=ìɲà	mi5agw~ana	miɲa	nid̪ímiɲa	nígíkiɲa 
+title: ɛːrɛ	ɛ̀ːrɛ̀ 
+nighttime: oːsoː	usuni	ɔːsʊ́nni	ɔ̀ːsʋ́-nnì 
+nose: a-mʊ́ːnɛ	mona	nɛgá-mʊ́ːnɛ	à=mʋ́ːnɛ̀ 
+adulterous: iginono	niːŋoni	nīŋoŋi	íŋínɔ́ːnɔ	íŋínɔ́ːnɔ̀ 
+single: iginono	niːŋoni	nīŋoŋi	íŋínɔ́ːnɔ	íŋínɔ́ːnɔ̀ 
+that: iginono	niːŋoni	nīŋoŋi	íŋínɔ́ːnɔ	íŋínɔ́ːnɔ̀ 
+the: iginono	niːŋoni	nīŋoŋi	íŋínɔ́ːnɔ	íŋínɔ́ːnɔ̀ 
+unprincipled: iginono	niːŋoni	nīŋoŋi	íŋínɔ́ːnɔ	íŋínɔ́ːnɔ̀ 
+human: Tadego	kád̪ú	kɔ́ 
+human being: Tadego	kád̪ú	kɔ́ 
+rainy weather: niː	nni	nnì 
+path: pfúːnì 
+route: pfúːnì 
+hide: náː-d̪ʊ	oda	t̪ʋ̀ 
+little: atioma	kí-ɗísɛ	m-ɛttyɔ́	ma-ɗisɛ́ːlɛ	ɛttyɔ́	ɛ̀=ttyɔ́ 
+smallness: atioma	kí-ɗísɛ	m-ɛttyɔ́	ma-ɗisɛ́ːlɛ	ɛttyɔ́	ɛ̀=ttyɔ́ 
+rock: ka-zigi	kisigi	m-isi	mi-zigi	mì=zìgì	tafa 
+2 sg: aga	oːo	u7u	ʊʔʊ	ʋ̀ʔʋ̀ 
+you: aga	oːo	u7u	ʊʔʊ	ʋ̀ʔʋ̀ 
+grind: Era	kera	ɛ́ːrya	ɛ́ːryà 
+go: ŋgʷá	ŋ́gʷá 
+hot: ŋ-áláːla	ŋ=áláːlà 
+1 pl. inc.: o7o	àːyʋ́ 
+we: o7o	àːyʋ́ 
+we₁: o7o	àːyʋ́ 
+whiteness: afíːrá	à=fíːrá 
+who?: nd̪á 
+female: nímíɲa	nímíɲà	ɪːya 
+distant: íːrʊ	íːrʋ̀ 
+dull: at̪t̪áɓɛ́	à=t̪t̪áɓɛ́ 
+serious: at̪t̪áɓɛ́	à=t̪t̪áɓɛ́ 
+close: afɛ́ː-gat̪t̪ɛ	amoŋi	àfɛ́ː=gàt̪t̪ɛ̀ 
+ner: afɛ́ː-gat̪t̪ɛ	amoŋi	àfɛ́ː=gàt̪t̪ɛ̀ 
+earthworm: aɗɪ́ːnɔ́	mɪdáːɗɪːnɔ	à=ɗɩ́ːnɔ́ 
+where?: kádíːyá	noŋgwa 
+when?: áːd̪a 
+broad: íːgi 
+wideness: íːgi 
+principal wife: ko-maniminia	yaːgɪː	ɪːya 
+his mother: noːfa	níːmá 
+my mother: noːfa	níːmá 
+his father: ɪ́ma	ʊmpá 
+my father: ɪ́ma	ʊmpá 
+woods: ndíːlɛːɓʊ́ 
+stick: ni-sílɪ́mɪ́	sílɪ́mɪ́ 
+cord: nd̪-ɔːrɛ 
+gut: au	mid̪áː-ɗísi 
+insides: au	mid̪áː-ɗísi 
+intestine: au	mid̪áː-ɗísi 
+intestines: au	mid̪áː-ɗísi 
+spit: ɓɛ́ːna 
+breath: íːlá t̪iɲá aɗɔ 
+laughter: iːɟáːnɛ́ 
+smell: ɒ́ːɗu 
+sniff: ɒ́ːɗu 
+alive: ádá	ád̪íná 
+be alive: ádá	ád̪íná 
+life: ádá	ád̪íná 
+living: ádá	ád̪íná 
+beat: rɔ́ːna 
+strike: rɔ́ːna 
+hack: at̪t̪ɛ 
+cut open: araɓáːni kaɓʊ́	sʊ́ŋáːʼní-gábʊ́ 
+pierce: fáŋi	pfáŋi 
+stab: fáŋi	pfáŋi 
+drop: aɗíŋga 
+wring: ɛːna 
+wash clothes: ʊwáːna 
+bind: máɗɛ́-kaɓʊ́ 
+fasten: máɗɛ́-kaɓʊ́ 
+tie up: máɗɛ́-kaɓʊ́ 
+enumerate: íːnáːnɛ́ 
+number: íːnáːnɛ́ 
+tally: íːnáːnɛ́ 
+have fun: aɓála 
+brook: náː-rí	rí 
+stream: náː-rí	rí 
+daylight: orugi	ʊrʊ́ːni 
+daytime: orugi	ʊrʊ́ːni 
+evil: -oruba	aŋorɔ́ːŋɔ́ 
+rot: káṛu	ákáṛu 
+filthy: aŋɔrɔ́ːɓɔ́ 
+soiled: aŋɔrɔ́ːɓɔ́ 
+blunt: n-aːɛ́ 
+damp: n-ɪ́ːfɪ́	ɪ́ːfɪ́ 
+right side: gúri 

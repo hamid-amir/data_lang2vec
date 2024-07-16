@@ -1,0 +1,262 @@
+all: ɟan 
+all: ɟana 
+back: mambu 
+belly: bamba 
+big: ɟagiɲ 
+big: bulgan 
+big: [gagiɹ̣] 
+big: ɟugi 
+bird: dundu 
+bird: maraba 
+bite: baɟal 
+bite: [guyɟul] 
+blood: waguli 
+blow: [buɟubuyal] 
+blow: buyal 
+blow: [wuɲɟurmbuyal] 
+bone: wurmbur 
+breast: ŋamun 
+breast: [ŋunŋun] 
+breathe: walŋga 
+brother: muyŋgul 
+burn: ɲaɟul 
+burn: [durmal] 
+burn: ganday 
+cheek: ɟagal 
+chest: ɟindi 
+child: ɟaɟa 
+child: [ɲalmaru] 
+child: ɲalŋa 
+child: daman 
+child: galbin 
+cloud: ɟura 
+cold: [ŋilu] 
+come: baniy 
+come: [yalibin] 
+crocodile: guɟagay 
+crocodile: maybaɟa 
+cut: [ɟalŋgal] 
+cut: [ɲanbal] 
+cut: babil 
+cut: bagal 
+cut: gunbal 
+cut: nudil 
+die: guyi 
+dig: [ɲanbal] 
+dig: bagal 
+dog: guda 
+dog: [ɲimbaɹ̣] 
+drink: guɲɟal 
+ear: maŋa 
+earth: [ɟinbay] 
+eat: ɟaŋgay 
+eat: buɹ̣ɲɟal 
+eat: ɹ̣ubiy 
+eat: [yulmiy] 
+eye: [diŋal] 
+eye: gayga 
+fall: baɟiy 
+father: ŋuma(ndi) 
+fight: bundalay 
+fingernail: biguɲ 
+fire: ɲaɹ̣a 
+fire: buni 
+fire: [ŋargana] 
+fire: [yibay] 
+fish: ɟabu 
+fish: guya 
+float: walŋga-l 
+fly (v.): wariy 
+fly (v.): yambil 
+fog: [garmban] 
+fog: gumburu 
+foot: ɟina 
+foot: ŋuɹ̣u 
+full: maɲɟay 
+girl: [gabay] 
+girl: gaɟin 
+give: wugal 
+good: ɟigil 
+grass: yidiɹ̣ 
+hair: [gumuray] 
+hair: [ɟilmuray] 
+hair: muray 
+hand: mala 
+hand: [manbuɹ̣u] 
+head: diŋgal 
+head: wumbu 
+hear: ŋambal 
+hear: [ŋarmil] 
+heart: ɹ̣ulgu 
+hit: balgal 
+hold: ɲimal 
+hole: yiŋari 
+house: miɟa 
+husband: wiru 
+ice: birgil 
+I: ŋaɲa 
+I: ŋaɟa 
+I: ŋayba 
+I: ŋaygu 
+I: ŋayguna 
+kangaroo: yuɹ̣i 
+kangaroo: [yuŋga] 
+kill: balgal 
+knee: buŋgu 
+laugh: miyanday 
+laugh: [yirguɲɟiy] 
+leaf: gubu 
+leg: ŋaga 
+lie: bungil 
+lie: bungi-l 
+liver: giba ~ ɟiba 
+man: [bayabay] 
+man: yaɹ̣a 
+meat: ɟalguɹ̣ 
+moon: gagalum 
+morning: baraymbaray 
+mother: yabu(ndi) 
+mountain: gambil 
+mouth: ŋangu 
+name: dira 
+name: [ŋuɲaŋi] 
+name: [ŋuɲaŋuy] 
+nape: ɹ̣udu 
+navel: ɟuɟuɹ̣ 
+navel: ɟuɟur 
+new: guɲu 
+one: yuŋgul 
+person: muraynbila 
+play: ɟiŋgaliy 
+pull: buɲɟal 
+pull: bubil 
+push: bilmbal 
+rain: biɟil 
+rain: gambal 
+rat: maga 
+red: guŋgu 
+road: yalgay 
+round: mugulnba 
+rub: ɟural 
+rub: [ɟurmbaybal] 
+sand: gabal 
+sand: waguy 
+sand: [waruɲ] 
+say: wurbay 
+scratch: gibal ~ gibay 
+scratch: [wirŋgal] 
+see: buɹ̣al 
+seed: [ŋuɲaŋi] 
+seed: [ŋuɲaŋuy] 
+see: [ɲuɹ̣imal] 
+short: [ɲingal] 
+sing: bayal 
+sing: [baynguray] 
+sister: muyŋgul 
+sit: ɲinay 
+sit: maɟirabil 
+skin: guga 
+skin: guɲɟil 
+sky: ɟura 
+sleep: ɟagun 
+small: midi 
+smoke: garan 
+smoke: [garmban] 
+snake: wadam 
+split: ɹ̣ulbal 
+squeeze: ɲimal 
+squeeze: ɟulmal 
+stand: ɟanay 
+stand: [dindal] 
+stone: diban 
+sun: gari 
+sweet: giɹ̣ɲɟal 
+swim: yuŋaray 
+tail: [gumbu ] 
+thin: margi 
+thin: wirmban 
+thou: ŋina 
+thou: ŋinba 
+thou: ŋinda 
+thou: ŋinu 
+thou: ŋinuna 
+thou: ɲura 
+thou: ɲuraɲa 
+thou: ɲuraɟi 
+thou: ɲuraɟina 
+thou: ɲuraɟinu 
+thou: ɲurana 
+thou: ɲuraŋu 
+thou: ɲuray 
+thou: ɲurayŋu 
+three: gaɹ̣bu 
+three: waraɲuŋgul 
+three: yuŋgularu 
+throw: madal 
+throw: [nayŋul] 
+tomorrow: ŋulga 
+tongue: ɟalŋgulay 
+tooth: dira 
+tooth: [ŋuɲaŋi] 
+tooth: [ŋuɲaŋuy] 
+tree: [dandu] 
+tree: yugu 
+turn: bayil 
+two: bulayi 
+two: bulay(i) 
+two: yuŋgugan 
+vagina: guɹ̣a 
+vomit: munay 
+walk: [bawalbil] 
+walk: ɟiŋgaliy 
+walk: yanu(l) ~ yana 
+wallaby: bargan 
+wallaby: [yuŋga] 
+wash: buɟay 
+wash: [darubay] 
+wash: ŋabay 
+water: bana 
+water: gamu 
+weep: duŋgara- 
+weep: duŋgaray 
+we (incl.): ŋana 
+we (incl.): ŋanaɲa 
+we (incl.): ŋanaɟi 
+we (incl.): ŋanaɟina 
+we (incl.): ŋanaɟinu 
+we (incl.): ŋanana 
+we (incl.): ŋanaŋu 
+we two (incl.): ŋali 
+we two (incl.): ŋaliɲa 
+we two (incl.): ŋaliɟi 
+we two (incl.): ŋaliɟina 
+we two (incl.): ŋaliɟinu 
+we two (incl.): ŋalina 
+we two (incl.): ŋaliŋu 
+what: miɲa 
+when: miɲay 
+when: miɲi 
+who: waɲa 
+who: waɲɟu 
+who: waɲuɲa 
+wife: bulgu 
+wind: gulubu 
+wipe: ɟural 
+woman: gumbul 
+woman: [muɲɟu] 
+woman: ɟugumbil 
+woman: yibi 
+wood: [dandu] 
+wood: yugu 
+yellow: magira 
+yesterday: ŋumbuŋga 
+yesterday: ɹ̣ugulmba 
+you two: ɲubala 
+you two: ɲubalaɟi 
+you two: ɲubalaɟina 
+you two: ɲubalaɟinu 
+you two: ɲubalana 
+you two: ɲubalanu 
+you two: ɲubilaɟi 
+you two: ɲubilaɟina 
+you two: ɲubilaɟinu 

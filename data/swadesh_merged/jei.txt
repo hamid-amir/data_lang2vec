@@ -1,0 +1,404 @@
+all: balindai | balindai	nambrao	nambərɔ 
+all: nambrao | balindai	nambrao	nambərɔ 
+arm: cemek 
+ashes: tebe-tebi | tebe-tebi	wirc	wurc	wərc 
+ashes: wirc | tebe-tebi	wirc	wurc	wərc 
+ashes: wurtj | tebe-tebi	wirc	wurc	wərc 
+back: ngor 
+bad: yopara 
+bad: yoparo 
+bark: par | par	pər par 
+belly: buri 
+big: belindewe | belindewe	bəlindəw	yememoye 
+big: gebero | belindewe	bəlindəw	yememoye 
+big: kartakoro | belindewe	bəlindəw	yememoye 
+big: pai | belindewe	bəlindəw	yememoye 
+big: yememoye | belindewe	bəlindəw	yememoye 
+bird: makar | makar	mutate	yarmaker	yarmakər	yarmeker 
+bird: mutate | makar	mutate	yarmaker	yarmakər	yarmeker 
+bird: yarmaker | makar	mutate	yarmaker	yarmakər	yarmeker 
+bird: yarmeker | makar	mutate	yarmaker	yarmakər	yarmeker 
+bite: tar | tar	terata 
+bite: terata | tar	terata 
+bitter: tjapaoo 
+black: barowai | barowai	gubew	gubɔw 
+black: gubew | barowai	gubew	gubɔw 
+blood: gul 
+bone: gor | Nor	gor	gɔr	ŋor 
+bone: ngor | Nor	gor	gɔr	ŋor 
+boy: ti el-lu 
+branch: pontjesoe 
+branch: tjakar 
+breast: tatto | tatto	yəmbɔ 
+brother: nemba 
+brother: noal 
+burn: bennoterote 
+burn: olanggè 
+calf: mok 
+calf: mububùr 
+cheek: sokarpi 
+cheek: tjokel 
+chest: kemargoar 
+child: deppor 
+child: por 
+chin: koram 
+chin: pepeni 
+cloud: aguta | aguta	miramakər 
+cold: malendar | malendar	malɛndər	mena-mena 
+cold: mena-mena | malendar	malɛndər	mena-mena 
+come: di | di	dikenap 
+come: dikenap | di	dikenap 
+cut: ache-keche 
+dance: yaw-kweneb 
+dark: aodege 
+daughter: menetjer-por 
+day: abete 
+day: weru 
+die: aludalwa | aludalwa	anengge	aneŋge 
+die: anengge | aludalwa	anengge	aneŋge 
+dig: arapo 
+dig: waltë-saltei 
+dirty: yow 
+dog: djeu | Teu	dyeu	dǯeu	juw	ɟeu 
+dog: ɟeu | Teu	dyeu	dǯeu	juw	ɟeu 
+drink: wundë | wund3	wundə 
+dry: abela-dabela | abela-dabela	abelè	abəl 
+dry: abelè | abela-dabela	abelè	abəl 
+ear: darko | darko	darkɔ 
+earth: chelechel | kar 
+earth: kar 
+eat: cenye | cenye	sanai	senai	čenai 
+eat: chenai | cenye	sanai	senai	čenai 
+eat: sanai | cenye	sanai	senai	čenai 
+eat: senai | cenye	sanai	senai	čenai 
+egg: mekur | mekur	məkru 
+elbow: tjemek-pol 
+elbow: tsamuk 
+excrement: iu 
+eye: cur | cur	surpar	tsuri 
+eye: surpar | cur	surpar	tsuri 
+eye: tjur | cur	surpar	tsuri 
+eye: tjur-peab | cur	surpar	tsuri 
+eye: tsuri | cur	surpar	tsuri 
+face: yargoar 
+face: yergor 
+fall: anengke-tanengo 
+far: ganam | ganam	ganem	ganəm 
+far: ganem | ganam	ganem	ganəm 
+father: nèo 
+fat (n.): kabel 
+fear: dzubbar 
+fear: keskes 
+fear: miméi 
+feather: makar-piar | makar-piar	yarmakər pyab 
+fingernail: tilpel 
+finger: sopi-sopi 
+finger: tir 
+fire: ben | ben	benT	benǯ	benɟ	beɲ 
+fire: benɟ | ben	benT	benǯ	benɟ	beɲ 
+fire: benj | ben	benT	benǯ	benɟ	beɲ 
+fish: déèr | der	déèr	dɛr 
+five: nentientir 
+flower: koko 
+fly (n.): beraan (?bernan) 
+fly (n.): bernany 
+fly (v.): edúgé 
+fly (v.): sotodip 
+foot: kahuke | kahuke	sara 
+foot: sara | kahuke	sara 
+forehead: mer 
+forehead: mir 
+forest: mor 
+fruit: wur 
+girl: émalpal 
+give: chuchen | enyaːpere	eɲakere	čučen 
+give: enyakere | enyaːpere	eɲakere	čučen 
+give: enyaːpere | enyaːpere	eɲakere	čučen 
+good: betiy | betiy	yekoabo	yɛkwawɔ 
+good: yekoabo | betiy	yekoabo	yɛkwawɔ 
+guts: messelak 
+guts: métjélak 
+hair: bulati | bulati	peab	piam	piav	péàb 
+hair: peab | bulati	peab	piam	piav	péàb 
+hair: péàb | bulati	peab	piam	piav	péàb 
+hair: piav | bulati	peab	piam	piav	péàb 
+hand: sopr-sopr | cemek	sopr-sopr	soprsopr	tyemek 
+hand: tir | cemek	sopr-sopr	soprsopr	tyemek 
+hand: tjemek | cemek	sopr-sopr	soprsopr	tyemek 
+head: dambi | kilpal	kilpel	kilpəl	korper 
+head: kilpal | kilpal	kilpel	kilpəl	korper 
+head: kilpel | kilpal	kilpel	kilpəl	korper 
+head: korper | kilpal	kilpel	kilpəl	korper 
+hear: dadamrai | dadamrai	der 
+hear: der | dadamrai	der 
+heart: ber-kup | ber-kup	bür-kupa	bərkup 
+heart: bür-kupa | ber-kup	bür-kupa	bərkup 
+heavy: kenderoï | kenderoï	kendǯir 
+heavy: kendjir | kenderoï	kendǯir 
+heel: tjere-pol 
+here: nepi 
+he/she: èd 
+he/she: édèya 
+he/she: gwe- 
+he/she: ye- 
+hit: penatar 
+hit: tar 
+hit: tartoyo 
+hole: talgan 
+house: ak 
+house: ma 
+husband: alloel 
+husband: ber 
+I: niwon | niwon	nyi	wo-	ɲi 
+I: nyi | niwon	nyi	wo-	ɲi 
+I: wo- | niwon	nyi	wo-	ɲi 
+kill: penetar | penetar	tačo 
+kill: tacho | penetar	tačo 
+knee: summer | cemer	summer	tyemer 
+knee: tjemer | cemer	summer	tyemer 
+know: meabanen | meabanen	méai 
+know: méai | meabanen	méai 
+lake: tum-tum 
+laugh: barbar 
+laugh: berber 
+leaf: makarpiap (?) | cako	makarpiap ɳ ʕʏelmek	pər cakɔ	tyako 
+leaf: tjako | cako	makarpiap ɳ ʕʏelmek	pər cakɔ	tyako 
+leg: cere 
+leg: kahuke 
+lie: yurra-kiyè 
+lightning: pane 
+lightning: wolege 
+lip: badjar-gopa 
+live: mitjer 
+liver: ned 
+long: genem | genem	yuay	yuwayò 
+long: yuwayò | genem	yuay	yuwayò 
+louse: nénerg | nim 
+louse: nim 
+man: anappor | aneppor	anyepor	aɲe-por	aɲipɔr 
+man: el-lu | aneppor	anyepor	aɲe-por	aɲipɔr 
+man: manassar/manaw | aneppor	anyepor	aɲe-por	aɲipɔr 
+many: bedindé | bedindé	bəlindəm 
+meat: pi | makər 
+moon: kagi | kagi	takol	takɔl 
+moon: takol | kagi	takol	takɔl 
+morning: demib 
+mountain: kelmel 
+mouth: bedjer | bedǯer	bodǯar	bəjar 
+mouth: bodjar | bedǯer	bodǯar	bəjar 
+name: ore | ore	utsae	ɔr 
+name: utsae | ore	utsae	ɔr 
+nape: pupur 
+nape: tapo 
+navel: ipr 
+navel: yipel 
+near: gempaotè | gempaotè	kɔndərɔ	ŋambé 
+near: ngambé | gempaotè	kɔndərɔ	ŋambé 
+neck: gur-gur | gur-gur	gurgur	gwor-gwor 
+neck: gwor-gwor | gur-gur	gurgur	gwor-gwor 
+new: nuppindei | nuppindei	tibendenao	tiwɛndənɔ 
+new: tibendenao | nuppindei	tibendenao	tiwɛndənɔ 
+new: tipor | nuppindei	tibendenao	tiwɛndənɔ 
+night: kwai-kwayabe | neNgu	neŋgu	nəŋgu	odege 
+night: nenggu | neNgu	neŋgu	nəŋgu	odege 
+night: neŋgu | neNgu	neŋgu	nəŋgu	odege 
+night: odege | neNgu	neŋgu	nəŋgu	odege 
+nose: tange | tange	taŋe	təŋgɛ 
+old: tambanao 
+old: tjambane 
+one: nampei | nampe	nampei	nampey	nampwui	nāmpèi 
+one: nampe(i) | nampe	nampei	nampey	nampwui	nāmpèi 
+one: nampwui | nampe	nampei	nampey	nampwui	nāmpèi 
+person: aneppor | aneppor	anyepor	aɲe-por	aɲipɔr 
+person: anye-por | aneppor	anyepor	aɲe-por	aɲipɔr 
+push: mateoragerora 
+rain: amar | amar	yar 
+rain: yar | amar	yar 
+rat: dole 
+rat: pelaw 
+rat: tuban 
+red: gulu | gulu	magowai 
+red: magowai | gulu	magowai 
+ripe: eperewe 
+ripe: kwiye 
+river: arrow 
+river: bukrao 
+river: burro 
+road: barpi 
+root: denu | denu	duggel	dənu 
+root: duggel | denu	duggel	dənu 
+rope: hir 
+sand: djiro-djiro | dǯiro-dǯiro	jərɔ 
+say: ayer | ayer	kerko-karko	ki 
+say: kerko-karko | ayer	kerko-karko	ki 
+say: ki | ayer	kerko-karko	ki 
+sea: étob 
+see: cur | cur	tyur 
+see: tjur | cur	tyur 
+short: ngarsan | cemu	cumu	ŋarsan 
+short: tjemu | cemu	cumu	ŋarsan 
+shoulder: mbingg 
+shoulder: pei 
+sing: yebur 
+sister: nagàr 
+sister: nènggoar 
+sit: unke-itin | unke-itin	wenɟ	weɲ 
+sit: wenɟ | unke-itin	wenɟ	weɲ 
+sit: weny | unke-itin	wenɟ	weɲ 
+skin: ngupar | ngupar	par	paːr	ŋupar 
+skin: par | ngupar	par	paːr	ŋupar 
+skin: paːr | ngupar	par	paːr	ŋupar 
+sky: kawai 
+sky: mur-kague 
+sleep: yara | yara	yere	yurre 
+sleep: yere | yara	yere	yurre 
+sleep: yurre | yara	yere	yurre 
+small: déwarwai | déwarwai	yagayɔ	yageio 
+small: yageio | déwarwai	yagayɔ	yageio 
+smell: emengge 
+smoke: kipete 
+snake: uwadje (?) | uwadǯe	wadǯei	wajey 
+snake: wadjei | uwadǯe	wadǯei	wajey 
+son: ellu-por 
+spit: burka 
+spit: tarkao 
+stand: akola 
+stand: aretjene 
+star: pungil | pungil	puŋil	wayal	weyel	weǯel 
+star: wejel | pungil	puŋil	wayal	weyel	weǯel 
+stick: sar 
+stone: kumu | kumu	medyer	medǯer	meɟer	mɔjɔr 
+stone: medjer | kumu	medyer	medǯer	meɟer	mɔjɔr 
+stone: meɟer | kumu	medyer	medǯer	meɟer	mɔjɔr 
+sun: mir | mir	mire 
+sun: mire | mir	mire 
+sweet: meterei 
+sweet: meteru 
+swim: ujegende | uǯegende	wade 
+swim: wade | uǯegende	wade 
+tail: jip | wa	wak	ǯip 
+tail: wa | wa	wak	ǯip 
+tail: wak | wa	wak	ǯip 
+take: chichiregun 
+take: petar 
+take: wandékun 
+they: èd 
+they: erboelen-démayen 
+they: ye- 
+thick: kartekoro 
+thigh: tjaber 
+think: potere 
+thin: olgao | olgao	teraro 
+thin: teraro | olgao	teraro 
+thorn: geri 
+thou: bonen | bonen	bu	ne- 
+thou: bu | bonen	bu	ne- 
+thou: ne- | bonen	bu	ne- 
+throw: kaka-raka 
+throw: oragè 
+thunder: gur-gur 
+thunder: kur-gur 
+tie: konentakorko 
+tie: olge 
+tomorrow: kélémbe 
+tongue: amar | amar	amər 
+tooth: badzi | baci	badzi	tar	ter	tər 
+tooth: tar | baci	badzi	tar	ter	tər 
+tooth: ter | baci	badzi	tar	ter	tər 
+tree: per | per	pur 
+tree: pur | per	pur 
+two: itapai | itapai	jètapaé	yetapae	yetepaé	yitampwey 
+two: yetapae | itapai	jètapaé	yetapae	yetepaé	yitampwey 
+two: yetepaé | itapai	jètapaé	yetapae	yetepaé	yitampwey 
+vagina: kader 
+walk: dikakape 
+warm: degäm | degäm	enne 
+warm: enne | degäm	enne 
+wash: elebelndi 
+wash: jheruddërë (?) 
+wash: karkarkwui 
+water: kao | kao	kar	kɔw 
+water: kar | kao	kar	kɔw 
+we: bi | bi	binen 
+we: binen | bi	binen 
+weep: tjur-kào 
+weep: yake 
+we: ne- | bi	binen 
+wet: ked 
+wet: kòw 
+what: do | do	duyən 
+white: komai | komai	palɔ	pela 
+white: pela | komai	palɔ	pela 
+who: par 
+wife: benei 
+wife: binyei 
+wind: urd | urd	wopup	wurd 
+wind: wopup | urd	wopup	wurd 
+wing: pu 
+woman: menaw | menaw	menecér 
+woman: menetjér | menaw	menecér 
+wood: benj 
+wood: per 
+yesterday: kwai-kwai 
+yesterday: mede 
+you: boyen | bonen	bu	ne- 
+you: bu | bonen	bu	ne- 
+you: ye- | bonen	bu	ne- 
+every: balindai	nambrao	nambərɔ 
+ash: tebe-tebi	wirc	wurc	wərc 
+abdomen: buri 
+bigness: belindewe	bəlindəw	yememoye 
+large: belindewe	bəlindəw	yememoye 
+breasts: tatto	yəmbɔ 
+come from: di	dikenap 
+be dead: aludalwa	anengge	aneŋge 
+dead: aludalwa	anengge	aneŋge 
+ground: kar 
+land: kar 
+soil: kar 
+fly: edúgé	sotodip 
+fly v.: edúgé	sotodip 
+full: ərədu 
+left hand: cemek	sopr-sopr	soprsopr	tyemek 
+right: cemek	sopr-sopr	soprsopr	tyemek 
+1 sg.: niwon	nyi	wo-	ɲi 
+be knowledgeable: meabanen	méai 
+head louse: nim 
+male: anappor	el-lu	manassarʔmanaw 
+much: bedindé	bəlindəm 
+multiple: bedindé	bəlindəm 
+several: bedindé	bəlindəm 
+flesh: makər 
+hill: kelmel 
+title: ore	utsae	ɔr 
+nighttime: neNgu	neŋgu	nəŋgu	odege 
+adulterous: nampe	nampei	nampey	nampwui	nāmpèi 
+single: nampe	nampei	nampey	nampwui	nāmpèi 
+that: dinəm 
+the: nampe	nampei	nampey	nampwui	nāmpèi 
+unprincipled: nampe	nampei	nampey	nampwui	nāmpèi 
+human: aneppor	anyepor	aɲe-por	aɲipɔr 
+human being: aneppor	anyepor	aɲe-por	aɲipɔr 
+rainy weather: amar	yar 
+path: barpi 
+route: barpi 
+seed: wər 
+hide: ngupar	par	paːr	ŋupar 
+little: déwarwai	yagayɔ	yageio 
+smallness: déwarwai	yagayɔ	yageio 
+rock: kumu	medyer	medǯer	meɟer	mɔjɔr 
+this: din 
+2 sg: bonen	bu	ne- 
+grind: itapai	jètapaé	yetapae	yetepaé	yitampwey 
+hot: degäm	enne 
+1 pl. inc.: bi	binen 
+we₁: bi	binen 
+whiteness: komai	palɔ	pela 
+who?: par 
+female: menaw	menecér 
+yellow: ɛkɔlɔ 
+distant: ganam	ganem	ganəm 
+dull: kenderoï	kendǯir 
+serious: kenderoï	kendǯir 
+close: gempaotè	kɔndərɔ	ŋambé 
+ner: gempaotè	kɔndərɔ	ŋambé 

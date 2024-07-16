@@ -1,0 +1,393 @@
+all: uile | ooilley 
+and: agus | as 
+animal: ainmhidh | baagh	baaghtagh	bioagh	cretoor 
+animal: beathach | baagh	baaghtagh	bioagh	cretoor 
+ashes: luath | leoie 
+at: aig | ec 
+back: cùl | dreeym 
+back: druim | dreeym 
+bad: dona | drogh	olk 
+bad: droch | drogh	olk 
+bad: olc | drogh	olk 
+bark: comhartaich | roost 
+bark: rùsg | roost 
+because: a chionn\s | er-yn-oyr 
+belly: brù | bolg 
+big: mòr | mooar 
+bird: eun | ushag 
+bite: bìd | greimmey 
+black: dubh | doo 
+blood: fuil | fuL	fuill 
+blow: buille | sheid 
+blow: sèid | sheid 
+bone: cnàmh | craue	kh~nx~av 
+breast: broilleach | Th~ix	keeagh	khy$ix 
+breast: uchd | Th~ix	keeagh	khy$ix 
+breathe: thoir anail | tayrn ennal 
+burn: loisg | lostey 
+child: pàiste | lhiannoo	paitçhey 
+cloud: neul | bodjal	niaul 
+cloud: sgòth | bodjal	niaul 
+cold: fuar | feayr 
+come: thig | hy~iT	hy~iky~	tar	çheet 
+correct: ceart | kiart 
+count: cunnt | coontey 
+cut: geàrr | giarrey 
+cut: geàrradh | giarrey 
+day: latha | laa 
+die: bàsaich | geddyn baase	pasEx 
+die: caochail | geddyn baase	pasEx 
+die: eug | geddyn baase	pasEx 
+die: faigh bàs | geddyn baase	pasEx 
+dig: cladhaich | cleigh	reurey 
+dirty: salach | breinnagh	broghe	sollagh 
+dog: cù | kh~u	moddey 
+drink: òl | iu	ol 
+dry: tioram | çhirrym 
+dull: doilleir | trome | moal 
+dust: duslach | joan 
+ear: cluas | cleaysh	kh~lu3s 
+earth: talamh | thalloo 
+eat: ith | ee 
+egg: ugh | ooh 
+eye: sùil | sooill	suL 
+fall: tuit | tuitt 
+far: fada | foddey 
+father: athair | ayr 
+fat (n.): crèis 
+fat (n.): sult 
+fat: reamhar | blennick	sahll 
+fear: eagal | goaill aggle roish 
+feather: ite | clooie	fedjag 
+feather: iteag | clooie	fedjag 
+few: beagan | beggan 
+fight: sabaid | caggey 
+fingernail: ìne | ingin 
+fire: teine | Ch~e5E	aile	çhenney 
+fish: iasg | eeast	i3sk 
+five: còig | cóig	queig 
+float: bi air bhog | snaue 
+float: bi air fleòd | snaue 
+flower: blàth | blaa 
+flower: dìthean | blaa 
+flower: flùr | blaa 
+flow: sruth | sheeley	shiaulley	stroo	thooilley 
+fly (v.): cuileag 
+fly (v.): itealaich 
+fog: ceò | kay 
+foot: cas | cass 
+four: ceithir | ceithir	kiare 
+freeze: reòth | riojey 
+fruit: meas | mess	troar 
+full: làn | lane	lanx~ 
+give: thoir | toyr 
+good: math | mie 
+grass: feur | faiyr 
+green: uaine | eayney	glass 
+guts: greallach | collane 
+guts: mionach | collane 
+hair: falt | folt	gruag 
+hair: gruag | folt	gruag 
+hand: làmh | lav | laue 
+head: ceann | kione 
+hear: cluinn | clasht	cluin	kh~lu5 
+heart: cridhe | cree 
+heavy: trom | trome 
+he: e | eh 
+here: an seo | ayns shoh	aynshoh 
+hit: buail | bwoalley 
+hold: cùm | cum 
+horn: adharc | axarx~xk~	corn	eairk 
+how?: ciamar | cre’n aght	kanys	kys 
+hunt: sealg | shelg 
+husband: uine | dooinney	dooinney poost	sheshey	sheshey poost 
+ice: deigh | rio 
+ice: eigh | rio 
+if: ma | ga	my 
+I: mi | mee	mi 
+in: ann | ayns 
+kill: marbh | marr 
+knee: glùn | glioon	klunx~ 
+know: aithnich | ta fys ec … 
+know: bi fios aig [+ subject] air [+ object] | ta fys ec … 
+lake: loch | logh 
+laugh: ceòl gàire | gearey 
+laugh: dèan gàire | gearey 
+laugh: gàire | gearey 
+leaf: duilleag | duillag	tuLak 
+left: taobh clì | clee	toshtal 
+leg: cas | cass	lurgey 
+lie: breug | lhie 
+lie: laigh | lhie 
+live: beò | bee bio	bee er mayrn 
+live: bi beò | bee bio	bee er mayrn 
+liver: àdha | aane	axa 
+long: fada | foddey	liauyr	sheer 
+louse: deargann | meeyl	my~i3l 
+man: fear | dooinney	tu5E 
+many: iomadach | mooarane	ram 
+many: iomadh | mooarane	ram 
+many: mòran | mooarane	ram 
+meat: feòil | feill 
+moon: gealach | eayst 
+mother: màthair | moir 
+mountain: beinn | py~enx~	slieau 
+mouth: beul | beeal 
+name: ainm | a53m	ennym 
+name: ainmich | a53m	ennym 
+narrow: caol | coon 
+near: faisg | er gerrey	er çheu	faggys 
+neck: muineal | mwannal 
+new: nuadh | noa	nx~u3y	oor	urx~ 
+new: ùr | noa	nx~u3y	oor	urx~ 
+night: oidhche | oie	oxE 
+nose: sròn | srx~onx~	stroin 
+not: cha 
+old: aosta | shenn 
+old: sean | shenn 
+one: aon | aon	nane	un	unnane	unx~ 
+other: eile | elley 
+person: duine | dooinney	tu5E 
+play: cluich | cloie 
+pull: tarraing | tayrn 
+push: brùth | broo 
+push: put | broo 
+rain: uisge | fliaghey 
+red: dearg | jiarg	ruy 
+red: ruadh | jiarg	ruy 
+right: taobh deas | lav | jesh 
+river: abhainn | awin 
+road: rathad | bayr	raad	rx~ahaj 
+root: freumh | fraue 
+rope: ròpa | tead 
+rope: siaman | tead 
+rotten: grod | breinn	loau 
+rotten: loibhte | breinn	loau 
+round: cruinn 
+rub: suath | rubbal 
+salt: salann | sollan 
+sand: gaineamh | geinnagh 
+say: abair | abbyr | geinnagh 
+say: can | abbyr | geinnagh 
+scratch: sgrìob | screebey 
+scratch: sgròb | screebey 
+sea: muir | faarkey	keayn	mooir 
+seed: sìol | rass	sheel 
+see: faic | faik	fakhy$ 
+sew: fuaigh | fuailley	whaaley 
+sharp: biorach | geyre 
+sharp: geur | geyre 
+short: geàrr | giare 
+short: goirid | giare 
+sing: seinn | goaill arrane	kiaulley 
+sit: suidh | soie 
+skin: craiceann | crackan	kh~rx~aTh~enx~	kh~rx~akhy$enx~ 
+sky: adhar | aer	niau	speyr 
+sky: iarmailt | aer	niau	speyr 
+sky: speur | aer	niau	speyr 
+sleep: cadal | cadley 
+sleep: caidil | cadley 
+small: beag | beg 
+smell: fàileadh | soaral 
+smoke: ceò | jaagh 
+smoke: toit | jaagh 
+smooth: mìn | meein	rea 
+snake: nathair | aarnieu	ardnieu 
+snow: sneachd | sniaghtey 
+some: cuid | kuse	shiartanse 
+some: feadhainn | kuse	shiartanse 
+spit: smugaid | ceau shelley	tilgey shelley 
+spit: tilg smugaid | ceau shelley	tilgey shelley 
+split: sgoilt | scoltey	skeiltey 
+squeeze:  fàisg | craishtey	faastey	çhionney 
+stab:  sàth | seiy 
+stand: seas | shass 
+star: reul | rollage	rx~iu*nx~aT	rx~iu*nx~aky~ 
+star: rionnag | rollage	rx~iu*nx~aT	rx~iu*nx~aky~ 
+stick: bata | maidjey 
+stick: maide | maidjey 
+stone: clach | clagh	kh~lax 
+straight: dìreach | jeeragh 
+suck: deoghail | jiole	soo 
+sun: grian | grian	krx~i3nx~ 
+swell: at | att 
+swim: snàmh | snaue 
+tail: earball | arbyl	famman 
+take: gabh 
+that: sin | yn … shen	yn … shid | aon	nane	un	unnane	unx~ 
+that: siud | yn … shen	yn … shid | aon	nane	un	unnane	unx~ 
+there: an sin | ayns shen	ayns shid 
+they: iad 
+thick: tiugh | çhiu 
+thin: caol | thanney 
+think: saoil | smooinee 
+think: smaoinich | smooinee 
+thin: tana | thanney 
+this: seo | yn … shoh 
+thou: thu | hu	oo 
+three: trì | tree	trì 
+throw: tilg | ceau	tilg 
+tie: ceangail | kiangley 
+to: dà 
+tongue: teanga | Ch~aNga	çhengey 
+tooth: fiacail | feeackle	fy~3kh~EL 
+tree: craobh | billey	kh~rx~uv 
+turn: tionndaidh | cassey 
+vomit: cuir a-mach | skeay	skeeah 
+vomit: dìobhair | skeay	skeeah 
+walk: coisich | shooyl 
+warm: blàth | çheh 
+wash: nigh | niee 
+water: bùrn | doour	uSTE	uSky~E	ushtey 
+water: uisge | doour	uSTE	uSky~E	ushtey 
+we: sinn | Si5	shin 
+wet: fliuch | fliugh 
+what: dè | cre	c’red 
+when?: cuin | cre’n traa	cuin 
+where?: càite | c’raad 
+white: geal | bane	fynn 
+who: cò | quoi 
+wide: leathann | lhean 
+wife: bean | ben	ben heshey	ben phoost 
+wind: gaoth | geay 
+wing: sgiath | skian 
+wipe: siab | glenney	rubbal 
+with: còmhla ri | lesh	marish 
+with: le | lesh	marish 
+woman: bean | ben 
+woman: boireannach | ben 
+woods: coille | keyll 
+worm: boiteag | beisht	beishteig	dhiane 
+year: bliadhna | blein 
+yellow: buidhe | buigh 
+ye: sibh | shiu 
+every: ooilley 
+ash: leoie 
+abdomen: bolg 
+bigness: mooar 
+large: mooar 
+breasts: Th~ix	keeagh	khy$ix 
+come from: hy~iT	hy~iky~	tar	çheet 
+be dead: geddyn baase	pasEx 
+dead: geddyn baase	pasEx 
+ground: thalloo 
+land: thalloo 
+soil: thalloo 
+fly: etlagh	ettyl 
+fly v.: etlagh	ettyl 
+left hand: lav 
+1 sg.: mee	mi 
+be knowledgeable: ta fys ec … 
+head louse: meeyl	my~i3l 
+male: dooinney	fer 
+much: mooarane	ram 
+multiple: mooarane	ram 
+several: mooarane	ram 
+hill: py~enx~	slieau 
+title: a53m	ennym 
+nighttime: oie	oxE 
+adulterous: aon	nane	un	unnane	unx~ 
+single: aon	nane	un	unnane	unx~ 
+the: aon	nane	un	unnane	unx~ 
+unprincipled: aon	nane	un	unnane	unx~ 
+human: dooinney	tu5E 
+human being: dooinney	tu5E 
+rainy weather: fliaghey 
+path: bayr	raad	rx~ahaj 
+route: bayr	raad	rx~ahaj 
+hide: crackan	kh~rx~aTh~enx~	kh~rx~akhy$enx~ 
+little: beg 
+smallness: beg 
+rock: clagh	kh~lax 
+2 sg: hu	oo 
+you: hu	oo 
+grind: daa	dà	ta 
+two: daa	dà	ta 
+go: shooyl 
+hot: çheh 
+1 pl. inc.: Si5	shin 
+we₁: Si5	shin 
+whiteness: bane	fynn 
+who?: quoi 
+female: ben 
+distant: foddey 
+serious: trome 
+close: er gerrey	er çheu	faggys 
+ner: er gerrey	er çheu	faggys 
+earthworm: beisht	beishteig	dhiane 
+3 sg.: eh 
+she: eh 
+2 pl.: shiu 
+you all: shiu 
+3 pl.: ad 
+they: ad 
+where: c’raad 
+when: cre’n traa	cuin 
+how: cre’n aght	kanys	kys 
+broad: lhean 
+wideness: lhean 
+principal wife: ben	ben heshey	ben phoost 
+his mother: moir 
+my mother: moir 
+his father: ayr 
+my father: ayr 
+forest: keyll 
+branch: maidjey 
+cord: tead 
+flesh: feill 
+grease: blennick	sahll 
+claw: ingin 
+nail: ingin 
+arm: laue 
+gut: collane 
+insides: collane 
+intestine: collane 
+intestines: collane 
+breath: tayrn ennal 
+laughter: gearey 
+cogitate: smooinee 
+reflect: smooinee 
+sniff: soaral 
+afraid: goaill aggle roish 
+be afraid: goaill aggle roish 
+fright: goaill aggle roish 
+alive: bee bio	bee er mayrn 
+be alive: bee bio	bee er mayrn 
+life: bee bio	bee er mayrn 
+living: bee bio	bee er mayrn 
+beat: bwoalley 
+strike: bwoalley 
+hack: giarrey 
+cut open: scoltey	skeiltey 
+pierce: seiy 
+lie down: lhie 
+tell lies: lhie 
+turn around: cassey 
+turn round: cassey 
+drop: tuitt 
+grasp: cum 
+hold in arm: cum 
+wring: craishtey	faastey	çhionney 
+wash clothes: niee 
+shove: broo 
+bind: kiangley 
+fasten: kiangley 
+tie up: kiangley 
+enumerate: coontey 
+number: coontey 
+tally: coontey 
+have fun: cloie 
+brook: awin 
+stream: awin 
+ocean: faarkey	keayn	mooir 
+blaze: lostey 
+daylight: laa 
+daytime: laa 
+evil: drogh	olk 
+rot: breinn	loau 
+filthy: breinnagh	broghe	sollagh 
+soiled: breinnagh	broghe	sollagh 
+blunt: moal 
+damp: fliugh 
+right side: jesh 
+inside: ayns 

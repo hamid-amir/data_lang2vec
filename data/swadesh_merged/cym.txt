@@ -1,0 +1,332 @@
+all: holl	pob	uile 
+every: holl	pob	uile 
+ash: lludw	lúaith 
+ashes: lludw	lúaith 
+bark: coirt	croiccenn	crottball	rhisgl	rúsc 
+abdomen: bolg	brú 
+belly: bolg	brú 
+big: mawr	mór	oll 
+bigness: mawr	mór	oll 
+large: mawr	mór	oll 
+bird: aderyn	edn	én 
+bite: benaid	brathu	cnoi	greimm 
+black: du	dub 
+blood: crau	crú	fuil	gwaed	gw~a3d 
+bone: asgurn	asgwrn	cnáimh 
+breast: bron	cích	du3vron 
+breasts: bron	cích	du3vron 
+claw: crafanc 
+nail: crafanc 
+talon: crafanc 
+cloud: cwmwl	nél 
+cold: oer	úar 
+come: d3vo	daeth	daw	del	do	do•icc	do•tét	dyfod 
+come from: d3vo	daeth	daw	del	do	do•icc	do•tét	dyfod 
+be dead: angau	at•baill	baïd	fo•gaib bás	maru	marw	marwolaeth	téit bás	wedi marw 
+dead: angau	at•baill	baïd	fo•gaib bás	maru	marw	marwolaeth	téit bás	wedi marw 
+die: angau	at•baill	baïd	fo•gaib bás	maru	marw	marwolaeth	téit bás	wedi marw 
+dog: ci	cú	ki	matad 
+drink: 3vE	ibid	yfed 
+dry: sych	tírim 
+ear: clust	clúas	kl3st 
+earth: daear	talam	tir	úir 
+ground: daear	talam	tir	úir 
+land: daear	talam	tir	úir 
+soil: daear	talam	tir	úir 
+eat: bwyta	ithid 
+egg: og	wy 
+eye: L3gad	llygad	rosc	súil 
+feather: cleitte	pluen 
+fire: daig	teine	ton	tân	áed 
+fish: p3sgod	p3sgod3n	pysg	pysgodyn	íasc 
+fly: ehedeg	fflio	fo•luathar	hedfan 
+fly v.: ehedeg	fflio	fo•luathar	hedfan 
+foot: cos	traig	troed 
+full: Laun	llawn	lán 
+give: do•beir	rhoddi	rhoi 
+good: da	dag	mad	maith	so- 
+green: glas	gwyrdd	úaine 
+hair: blew	finna	folt	grúac	gwallt 
+hand: Lau	llaw 
+left hand: Lau	llaw 
+right: Lau	llaw 
+head: cenn	pen 
+hear: clywed	kl3uE	ro•cluinethar 
+heart: calon	cride 
+horn: adarc	benn	corn	korn 
+1 sg.: fi	mi	mé 
+I: fi	mi	mé 
+kill: gonaid	lladd	marbaid	oirgid 
+knee: glin	glún	pen glin 
+be knowledgeable: adnabod	at•tá a ḟis oc	gwybod	ro•fitir 
+know: adnabod	at•tá a ḟis oc	gwybod	ro•fitir 
+leaf: d3ilEn	dalEn	deilen	duille 
+lie: gorwedd 
+lie down: gorwedd 
+liver: afu	av3	ia3	iau	óa 
+long: fota	hir	maith	sír 
+head louse: L33En	lleuen	míl	míl étgudo 
+louse: L33En	lleuen	míl	míl étgudo 
+male: dyn	fer	gŵr 
+man: bod dynol	d3n	duine	dyn	gur	person 
+many: il	imdae	llawer	mór 
+much: il	imdae	llawer	mór 
+multiple: il	imdae	llawer	mór 
+several: il	imdae	llawer	mór 
+flesh: cig	cnawd 
+meat: cig	cnawd 
+moon: lleuad	lloer	ré	ésca 
+hill: benn	bre	bryn	m3n38	mynydd	slíab 
+mountain: benn	bre	bryn	m3n38	mynydd	slíab 
+mouth: bél	ceg	genau	gin 
+name: Enu	ainmm	enw 
+title: Enu	ainmm	enw 
+neck: brága	gwddf	muin	muinél	mwnwgl 
+new: nEu38	newydd	núa 
+night: adaig	nos 
+nighttime: adaig	nos 
+nose: srón	tru3n	trwyn 
+not: ní	nícon 
+adulterous: 3n	un	óen 
+one: 3n	un	óen 
+single: 3n	un	óen 
+that: in … sin	in … tall 
+the: 3n	un	óen 
+unprincipled: 3n	un	óen 
+human: bod dynol	d3n	duine	dyn	gur	person 
+human being: bod dynol	d3n	duine	dyn	gur	person 
+person: bod dynol	d3n	duine	dyn	gur	person 
+rain: bráen	flechud	glaw 
+rainy weather: bráen	flechud	glaw 
+red: coch	derg	flann	rhudd	rúad 
+path: Lu3br	bóthar	conar	rót	slige 
+road: Lu3br	bóthar	conar	rót	slige 
+route: Lu3br	bóthar	conar	rót	slige 
+root: frém	gwreiddyn	mecon 
+round: cruinn	crwn 
+sand: gainem	tywod 
+say: as•beir	dweud	dywedyd	ráidid 
+see: ad•cí	gweld	gweled	gw~El	kanvo 
+seed: had	hadau	hedyn	síl 
+sit: eistedd	saidid 
+hide: cen	cnes	croen	croiccenn	kro3n 
+skin: cen	cnes	croen	croiccenn	kro3n 
+sleep: con•tuili	cwsg	cysgu	hun	huno 
+little: bach	bec	bychan 
+small: bach	bec	bychan 
+smallness: bach	bec	bychan 
+smoke: dé	mwg 
+star: rind	rétglu	sErEn	seren 
+rock: carreg	cloch	craig	karEg	lía	ma3n	maen 
+stone: carreg	cloch	craig	karEg	lía	ma3n	maen 
+sun: grían	ha3l	haul	huan 
+swim: nofio	snáïd 
+tail: cynffon	erball	err 
+this: in … so 
+2 sg: ti	tú 
+thou: ti	tú 
+you: ti	tú 
+tongue: tafod	tavod	tengae 
+tooth: dant	dét	fíacail 
+tree: crann	fid	ko3dEn	prEn 
+grind: da3	dau	du3	dwy	dá 
+two: da3	dau	du3	dwy	dá 
+go: cerdded	rhodio	siblaid	teít 
+walk: cerdded	rhodio	siblaid	teít 
+hot: cynnes	te	twym 
+warm: cynnes	te	twym 
+water: dobur	dur	duvr	dwfr	dŵr	uisce 
+1 pl. inc.: ni	sní 
+we: ni	sní 
+we₁: ni	sní 
+what: cid 
+white: bán	can	finn	gwyn 
+whiteness: bán	can	finn	gwyn 
+who: cía 
+who?: cía 
+female: ben	benyw	dynes	gwraig 
+woman: ben	benyw	dynes	gwraig 
+yellow: buide	melyn 
+distant: cían	i fat	ymhell	yn bell 
+far: cían	i fat	ymhell	yn bell 
+dull: trom	trwm 
+heavy: trom	trwm 
+serious: trom	trwm 
+close: gerllaw	nid nepell	ocus	yn agos 
+near: gerllaw	nid nepell	ocus	yn agos 
+ner: gerllaw	nid nepell	ocus	yn agos 
+salt: halen	salann 
+short: berr	byr	cummair	gerr 
+snake: nathair	neidr	sarff 
+thin: séim	tana	tenau 
+wind: awel	gwynt	gáeth 
+earthworm: cruim	pryf genwair 
+worm: cruim	pryf genwair 
+year: bliadain	blwyddyn 
+2 pl.: chi	chwi	sib	síi 
+ye: chi	chwi	sib	síi 
+you all: chi	chwi	sib	síi 
+3 pl.: hwy	hwynt	é 
+they: hwy	hwynt	é 
+here: sund 
+there: tall 
+where: cairm	cía airm	cía dú 
+where?: cairm	cía airm	cía dú 
+when: cuin 
+when?: cuin 
+how: cindas	co	cía chruth	cía indas 
+how?: cindas	co	cía chruth	cía indas 
+some: nach	peth	rhai	ychydig 
+few: bec	terc	ychydig	úathad 
+other: aile 
+three: tair	tri	trí 
+four: cethair	pedair	pedwar 
+five: cóic	pump 
+broad: eang	fairsing	lethan	llydan 
+wide: eang	fairsing	lethan	llydan 
+wideness: eang	fairsing	lethan	llydan 
+fat: blonac	braster	béoil	geir	saim	íth 
+thick: remor	tew	tiug	trwchus 
+narrow: cul	cumung	cyfyng	cáel 
+child: lenab	noídiu	plentyn 
+principal wife: ben	gwraig	priod	séitig 
+wife: ben	gwraig	priod	séitig 
+husband: céile	fer	gŵr	priod 
+his mother: mam	máthair 
+mother: mam	máthair 
+my mother: mam	máthair 
+father: athair	tad 
+his father: athair	tad 
+my father: athair	tad 
+animal: anifail	anmandae	mil	míl	robb 
+forest: caill	coed	coedwig	fid	fidbad	gwŷdd	ros	ruud 
+woods: caill	coed	coedwig	fid	fidbad	gwŷdd	ros	ruud 
+branch: cainc	cangen	flesc	maide 
+stick: cainc	cangen	flesc	maide 
+fruit: ffrwyth	mess	torad 
+flower: blodeuyn	blodyn	bláth	scoth 
+grass: fér	glaswellt	gwair	gwellt 
+cord: cortyn	loman	rhaff	súainem	tét 
+rope: cortyn	loman	rhaff	súainem	tét 
+grease: blonac	braster	béoil	geir	saim	íth 
+fingernail: ewin	ingen 
+leg: coes	cos 
+arm: lám 
+wing: adain	asgell	ette	scíath 
+gut: coluddion	cáelán	inathar	perfeddion 
+guts: coluddion	cáelán	inathar	perfeddion 
+insides: coluddion	cáelán	inathar	perfeddion 
+intestine: coluddion	cáelán	inathar	perfeddion 
+intestines: coluddion	cáelán	inathar	perfeddion 
+back: cefn	cúl	druimm 
+suck: dinid	dyfnu	sugno	súigid 
+spit: do•beir saile	poeri 
+vomit: chwydu	cyfogi	sceïd 
+blow: chwythu	do•infet	séitid 
+breath: anadl	anadlu	do•beir anál 
+breathe: anadl	anadlu	do•beir anál 
+laugh: chwerthin	gáirid	tibid 
+laughter: chwerthin	gáirid	tibid 
+cogitate: imm•rádi	meddwl	smúainid 
+reflect: imm•rádi	meddwl	smúainid 
+think: imm•rádi	meddwl	smúainid 
+smell: arogleuo	boltaigidir	clywed	synhwyro 
+sniff: arogleuo	boltaigidir	clywed	synhwyro 
+afraid: ad•ágathar	dychryn	eclaigid	gaibid ecla	is ómun la	ofn 
+be afraid: ad•ágathar	dychryn	eclaigid	gaibid ecla	is ómun la	ofn 
+fear: ad•ágathar	dychryn	eclaigid	gaibid ecla	is ómun la	ofn 
+fright: ad•ágathar	dychryn	eclaigid	gaibid ecla	is ómun la	ofn 
+alive: ar•beir biuth	at•tá beó	byw	bywyd	maraid 
+be alive: ar•beir biuth	at•tá beó	byw	bywyd	maraid 
+life: ar•beir biuth	at•tá beó	byw	bywyd	maraid 
+live: ar•beir biuth	at•tá beó	byw	bywyd	maraid 
+living: ar•beir biuth	at•tá beó	byw	bywyd	maraid 
+fight: cathaigid	fichid	ymladd 
+hunt: ad•claid	do•seinn	hela 
+beat: benaid	boingid	búailid	curo	slaidid	sligid	taro 
+hit: benaid	boingid	búailid	curo	slaidid	sligid	taro 
+strike: benaid	boingid	búailid	curo	slaidid	sligid	taro 
+cut: do•esc	gerraid	naddu	snaidid	torri	trychu 
+hack: do•esc	gerraid	naddu	snaidid	torri	trychu 
+cut open: dlongid	hollti 
+split: dlongid	hollti 
+pierce: cailgid	gwanu	tollaid	trywanu 
+stab: cailgid	gwanu	tollaid	trywanu 
+scratch: scrípaid	tochasaid 
+dig: claidid	cloddio	palu 
+tell lies: dweud celwydd	laigid 
+stand: do•airissedar	sefyll 
+turn: imm•sói	sóïd	troi o gwmpas 
+turn around: imm•sói	sóïd	troi o gwmpas 
+turn round: imm•sói	sóïd	troi o gwmpas 
+drop: cwympo	do•tuit	syrthio 
+fall: cwympo	do•tuit	syrthio 
+grasp: dal	gaibid 
+hold: dal	gaibid 
+hold in arm: dal	gaibid 
+squeeze: fáiscid	gwasgu	tendaid	timsaigid 
+wring: fáiscid	gwasgu	tendaid	timsaigid 
+rub: con•meil	rhwbio 
+wipe: con•meil	rhwbio 
+wash: folcaid	fothraicid	golchi	ind•aim	nigid 
+wash clothes: folcaid	fothraicid	golchi	ind•aim	nigid 
+pull: do•srenga	srengaid 
+push: ad•aig	gwthio	hyrddiaf	hyrddu 
+shove: ad•aig	gwthio	hyrddiaf	hyrddu 
+throw: caithid	do•léci	fo•ceird	lluchio	sneidid	sréïd	taflu	taflyd 
+bind: cenglaid	clymu	con•rig	rhwymo	sníïd 
+fasten: cenglaid	clymu	con•rig	rhwymo	sníïd 
+tie: cenglaid	clymu	con•rig	rhwymo	sníïd 
+tie up: cenglaid	clymu	con•rig	rhwymo	sníïd 
+sew: gwnïo	úaigid 
+count: cyfrif	rímid 
+enumerate: cyfrif	rímid 
+number: cyfrif	rímid 
+tally: cyfrif	rímid 
+sing: canaid	canu 
+have fun: chwarae	cluichigidir	imm•beir 
+play: chwarae	cluichigidir	imm•beir 
+float: arnofio	nofio	snáïd 
+flow: bruinnid	do•lin	llifo	rhedeg	silid	snigid 
+freeze: reódaid	téchtaid 
+swell: attaid	bolgaid 
+brook: ab	afon	afonig	ffrwd	nant 
+river: ab	afon	afonig	ffrwd	nant 
+stream: ab	afon	afonig	ffrwd	nant 
+lake: linn	llyn	loch 
+ocean: fairrge	ler	muir	môr	trethan 
+sea: fairrge	ler	muir	môr	trethan 
+dust: llwch	lúaith	lúaithred	pylor 
+fog: ceó	niwl	nudd 
+sky: aer	nef	nem	wybr	wybren 
+snow: eira	nyf	snechta 
+ice: aig	iâ	rhew 
+blaze: bruthnaigidir	llosgi	teinnid 
+burn: bruthnaigidir	llosgi	teinnid 
+day: diwrnod	dydd	día	lá 
+daylight: diwrnod	dydd	día	lá 
+daytime: diwrnod	dydd	día	lá 
+old: sen 
+bad: droch-	drwg	olc 
+evil: droch-	drwg	olc 
+rot: brén	pwdr	pydredig 
+rotten: brén	pwdr	pydredig 
+dirty: brwnt	budr	salach 
+filthy: brwnt	budr	salach 
+soiled: brwnt	budr	salach 
+straight: díriuch	syth	union 
+sharp: gér	llym	siarp	áith 
+blunt: mael	pwl 
+smooth: llyfn	mín	réid 
+damp: fliuch	gwlyb	llaith	tamp 
+wet: fliuch	gwlyb	llaith	tamp 
+correct: cert	cyfiawn	cywir	cóir	iawn 
+right side: de	dehau	dess 
+left: aswy	chwith	clé	túath- 
+at: oc 
+in: i	mewn	y tu mewn	yn 
+inside: i	mewn	y tu mewn	yn 
+with: co	i n-arrad	la 
+and: a	ocus 
+if: a	día	má	os 
+because: achos	oblegid	oherwydd	óre 

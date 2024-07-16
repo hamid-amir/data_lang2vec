@@ -1,0 +1,369 @@
+arm: tana-afu 
+arm: tana\afu 
+at: gau | isidei 
+at: isi | isidei 
+bad: noko-rau | redeke 
+belly: atu-bére 
+belly: atubɛrɛ 
+big: bɛrɛkama | bɛrɛkama	koini 
+big: berekáma | bɛrɛkama	koini 
+bird: asa 
+bite: tio | tia 
+black: meta | metana	mɛta 
+black: mɛta | metana	mɛta 
+boy: mata(koi) 
+branch: ate sika 
+breast: atu | atu	dudu	rɔsɔ 
+breast: roso | atu	dudu	rɔsɔ 
+breast: rɔsɔ | atu	dudu	rɔsɔ 
+brother: kaka 
+brother: noko 
+chest: atu 
+chest: roso 
+chest: rɔsɔ 
+child: mata(koi) 
+child: mata (kɔi) 
+cloud: nunudéu | nunudɛu	nunuteu 
+cloud: nunudɛu | nunudɛu	nunuteu 
+come: ma\u | mau	maʔu 
+come: maʔu | mau	maʔu 
+dance: waur 
+day: watu 
+die: umu 
+dig: tarun | dei	guru	toi 
+dig: toi | dei	guru	toi 
+dog: defa | depa	dɛfa 
+dog: dɛfa | depa	dɛfa 
+drink: gehe | gehe	gɛhɛ 
+drink: gɛhɛ | gehe	gɛhɛ 
+dry: hatate | hatate	reple	saara	tata 
+dry: reple | hatate	reple	saara	tata 
+dry: tata | hatate	reple	saara	tata 
+earth: mo\a 
+earth: wider 
+eat: nawa 
+eye: nana 
+fall: ate \u lasi | hodesara 
+fall: hodésa | hodesara 
+fall: uta | hodesara 
+father: boba | baba	bɔba 
+father: bɔba | baba	bɔba 
+finger: tana raga 
+fire: ata | ata	ataleene	atalene 
+fish: afi | afi	seumeti 
+five: lima 
+flower: fuhu | atepu 
+foot: iti 
+forehead: bitikai 
+forehead: biti-kai 
+four: lolo\e | loloha	lolowa 
+four: lolohá | loloha	lolowa 
+fruit: ate isu | ateisu	atɛ isu 
+fruit: atɛ isu | ateisu	atɛ isu 
+girl: tufurái mata 
+give: dani 
+give: gini | dani 
+give: nake | dani 
+good: rau 
+grass: múnu | munu 
+green: lumu | lumulai	lumuru 
+hair: da\e asa | daenasa	daʔɛ asa 
+hair: daʔɛ asa | daenasa	daʔɛ asa 
+hand: tana lebe | tana	tanalɛbɛ 
+hand: tanalɛbɛ | tana	tanalɛbɛ 
+head: da\e | dae	daʔɛ 
+head: daʔɛ | dae	daʔɛ 
+hear: wali | wali	walii 
+here: nana\u 
+here: noto 
+he/she: gi 
+hit: basi | base	gene 
+hit: (mini)tutu | base	gene 
+hit: tabáse | base	gene 
+hit: tulere | base	gene 
+hold: nai | gasipaa 
+hole: mana 
+house: oma 
+husband: asukai | kabene 
+I: ani 
+in: mutu 
+in: oi 
+kill: guta 
+knee: itibui 
+knee: iti-bui | itibui 
+know: wa\en | maene 
+laugh: ia | hia 
+leaf: ate asa | ateasa	atɛ asa 
+leaf: atɛ asa | ateasa	atɛ asa 
+lie: iti | hotae 
+lie: ta\e | hotae 
+lip: turukai 
+lip: turu-kai 
+live: lafu | diara 
+liver: are | ari 
+long: asan | asan	asana 
+man: ana | anu 
+man: ani | anu 
+man: anu 
+man: asukai | anu 
+moon: uru 
+mother: ina 
+mountain: umurafa 
+mountain: umuráfa | umurafa 
+mouth: nubukai | nubukai	turukai 
+mouth: nubu-kai | nubukai	turukai 
+name: nai 
+neck: mani-kai | manekai 
+new: gisu | supa 
+new: sufa | supa 
+night: gamu | maagamu	magamu 
+nose: muni-kain | munikain	murikai 
+not: noho 
+not: noto (nai) 
+old: la\idá 
+old: laite 
+old: matu 
+one: eu | u	ʔu 
+one: u | u	ʔu 
+one: ʔu | u	ʔu 
+other: haulitak | daedei	leere 
+pull: rei 
+rain: ai | ae	ai 
+river: wair 
+road: i\a | iabere 
+road: iʔa | iabere 
+root: ate amu | ari	atɛ amu 
+root: atɛ amu | ari	atɛ amu 
+sand: danakini | danakini	imika	sarakini 
+sand: danakíni | danakini	imika	sarakini 
+sand: méti wáli | danakini	imika	sarakini 
+sand: sarakini | danakini	imika	sarakini 
+say: lolin | lolo | danakini	imika	sarakini 
+say: lolo | danakini	imika	sarakini 
+see: ena | ena	ɛna 
+see: ɛna | ena	ɛna 
+short: digar | digara 
+shoulder: fahilai 
+sing: leu 
+sister: kaka tufurái 
+sister: noko tufurái 
+sit: mi:t | homi	miːt 
+sit: miːt | homi	miːt 
+sky: lo: 
+sleep: ta\e | tae	taɛ 
+sleep: taɛ | tae	taɛ 
+small: kaʔulai | aharai	kaʔulai 
+small: ka\úlai | aharai	kaʔulai 
+smoke: ata teuru | ata teuru	atateu 
+star: fi bere | fi bɛrɛ	lekiluru 
+star: fi bɛrɛ | fi bɛrɛ	lekiluru 
+stone: afa | afa	apa 
+sun: watu 
+tail: ula 
+take: lia 
+take: seman 
+there: weredete 
+they: era 
+thigh: ate 
+think: gamu | geere 
+think: ger | geere 
+this: uwere | lehere 
+thou: ai 
+three: lolitu 
+three: lol-itu | lolitu 
+throw: lian | liana 
+thunder: mó\a dúgu 
+tomorrow: usanana 
+tongue: anamata | anamata	ipi 
+tongue: ánamáta | anamata	ipi 
+tooth: wasi 
+tree: ate 
+tree: atɛ 
+two: lol-a\e | lolae	lola’e 
+two: loloi | lolae	lola’e 
+walk: la\a | kaa 
+walk: laʔa | kaa 
+warm: ar | kuulu 
+warm: ra | kuulu 
+warm: tim(i)n(i) | kuulu 
+wash: bani 
+water: ira 
+weep: iar 
+weep: reko 
+we: fi | ini	pi 
+we (incl.): fi 
+we: ini | ini	pi 
+what: na\i | nai 
+white: butik | butik	butiri 
+wife: tufurái | tupurae 
+wind: gawa | dane	gawa 
+with: mahi 
+woman: tufurai | tufurai	tupurae 
+woman: tufurái | tufurai	tupurae 
+wood: ata 
+wood: atɛ 
+yellow: lumu | gabara 
+yesterday: esere 
+you: i 
+all: gobasai	haugoba 
+every: gobasai	haugoba 
+ash: ataloe	loelimu 
+ashes: ataloe	loelimu 
+abdomen: atu 
+belly: atu 
+bigness: bɛrɛkama	koini 
+large: bɛrɛkama	koini 
+blood: wai 
+bone: sapa 
+breasts: atu	dudu	rɔsɔ 
+burn: gatadua 
+burn tr.: gatadua 
+cold: gaara 
+come from: mau	maʔu 
+be dead: umu 
+dead: umu 
+ear: walaku 
+egg: waa 
+feather: asanamu 
+fly: namalooko	riri 
+fly v.: namalooko	riri 
+left hand: tana	tanalɛbɛ 
+right: tana	tanalɛbɛ 
+be knowledgeable: maene 
+lie down: hotae 
+head louse: imi	tumi 
+louse: imi	tumi 
+male: ana	anu	asukai 
+hill: umurafa 
+title: nai 
+nighttime: maagamu	magamu 
+adulterous: u	ʔu 
+single: u	ʔu 
+that: lewere 
+the: u	ʔu 
+unprincipled: u	ʔu 
+human: anu 
+human being: anu 
+person: anu 
+rainy weather: ae	ai 
+red: imiri 
+path: iabere 
+route: iabere 
+hide: kuli 
+skin: kuli 
+little: aharai	kaʔulai 
+smallness: aharai	kaʔulai 
+rock: afa	apa 
+swim: looro	nani 
+grind: lolae	lola’e 
+go: kaa 
+hot: kuulu 
+1 pl. inc.: ini	pi 
+we₁: ini	pi 
+whiteness: butik	butiri 
+who: nairee 
+who?: nairee 
+female: tufurai	tupurae 
+distant: gaagaa 
+far: gaagaa 
+dull: tiiri 
+heavy: tiiri 
+serious: tiiri 
+close: malene 
+near: malene 
+ner: malene 
+salt: asi 
+snake: opo 
+thin: nipii 
+year: ani 
+3 pl.: era 
+where: naigaluisi 
+where?: naigaluisi 
+when: nainehe 
+when?: nainehe 
+how: netani 
+how?: netani 
+broad: malara 
+wide: malara 
+wideness: malara 
+fat: semi 
+thick: habaa 
+narrow: mooro 
+child: mata 
+principal wife: tupurae 
+his mother: ina 
+my mother: ina 
+his father: baba	bɔba 
+my father: baba	bɔba 
+forest: ate 
+woods: ate 
+cord: tali 
+rope: tali 
+flesh: seu 
+meat: seu 
+grease: semi 
+wing: liakai 
+back: naruta	ulakoru 
+suck: susu	toi 
+spit: ilusupa 
+vomit: hali 
+blow: guuru 
+breath: eherei 
+breathe: eherei 
+laughter: hia 
+cogitate: geere 
+reflect: geere 
+smell: orono 
+sniff: orono 
+afraid: hagaa 
+be afraid: hagaa 
+fear: hagaa 
+fright: hagaa 
+alive: diara 
+be alive: diara 
+life: diara 
+living: diara 
+hunt: soro 
+beat: base	gene 
+strike: base	gene 
+cut open: getabati	getalari 
+split: getabati	getalari 
+pierce: saunu 
+stab: saunu 
+scratch: sua 
+stand: etena 
+drop: hodesara 
+grasp: gasipaa 
+hold in arm: gasipaa 
+squeeze: ramaa 
+wring: ramaa 
+bind: gasapa	gasiili 
+fasten: gasapa	gasiili 
+tie: gasapa	gasiili 
+tie up: gasapa	gasiili 
+sew: pahaa 
+count: sura 
+enumerate: sura 
+number: sura 
+tally: sura 
+flow: teere 
+lake: liubere 
+ocean: meti 
+sea: meti 
+dust: loe 
+fog: nunuteu 
+sky: lo 
+evil: redeke 
+rot: nuruku 
+rotten: nuruku 
+dirty: rai 
+filthy: rai 
+soiled: rai 
+sharp: meraa 
+blunt: puuru 
+damp: ipala 
+wet: ipala 
+right side: tanelai 
+left: elilai 
+and: mai 
+if: eredawa	eredete 

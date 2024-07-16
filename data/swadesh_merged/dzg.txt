@@ -1,0 +1,425 @@
+all: gənna 
+and: bursɔ 
+animal: aruzɔ | aruzɔ	ɔra	ɔrɔzi 
+animal: ɔra | aruzɔ	ɔra	ɔrɔzi 
+animal: ɔrɔzi | aruzɔ	ɔra	ɔrɔzi 
+ankle: kɔlɔkɔlɔm 
+arm: ǯɛzɔ 
+arrow: hɛrɛ 
+ashes: winiši | winiši 
+back: kuḍur | kuḍur 
+back: saga | kuḍur 
+bad: zɔntɔ 
+bark: ɛφɛnɔ | ɛɸɛnɔ 
+because: ǯɛka | ǯɛka 
+belly: gumarɔ | kəši 
+belly: kəši | kəši 
+big: bwɔ | bwɔ	ḍrɔssɔ 
+big: ḍrɔssɔ | bwɔ	ḍrɔssɔ 
+bird: čɔhuri | čɔhuri 
+bite: tɛi͂ḍɔ tar | tɛĩḍɔ tar 
+bite: ǯaɣamər | tɛĩḍɔ tar 
+bitter: wɔḍɔ 
+black: yɛskɔ 
+blood: gɛrɛ | gerE	gəṛí	gɛrɛ 
+blood: gəṛí | gerE	gəṛí	gɛrɛ 
+blow: φunər | ɸunər 
+bone: soro | soro	surki	suru 
+boy: ayi͂ 
+branch: tərgazɛ 
+breast: tɔgəm | tugum	tugumo	tɔgəm 
+breathe: inšiḍər | inšiḍər 
+brother: ḍumur 
+brother: iḍi 
+burn: wanər 
+burn: wini tɔnər 
+butterfly: malubrɔmmi 
+calf: ɛbi 
+calf: kɔrbɔl 
+cheek: ŋɔla 
+chest: kunǯu 
+child: iŋa | iŋa	yal 
+child: yal | iŋa	yal 
+chin: ku͂kan 
+claw: turkɔ͂ | turkɔ̃ 
+cloud: kiri 
+cold: kiri | kiri	wɔu 
+cold: wɔu | kiri	wɔu 
+come: tɛrrɛ | Er	ir	r	tɛrrɛ 
+count: hɛdingɛnər 
+crocodile: adɛ 
+cut: kɔr ~ gɔr | gɔr	kɔr 
+cut: luli tər | gɔr	kɔr 
+daughter: ḍɔw 
+day: ḍəski | ḍəski 
+day: yom | ḍəski 
+die: čuluŋər | nas	nos	nus	ḍanasɔ 
+die: ḍanasɔ | nas	nos	nus	ḍanasɔ 
+dig: lɛdər | lɔnər	lɛdər 
+dig: lɔnər | lɔnər	lɛdər 
+dirty: ǯɛnɛ | ǯɛnɛ 
+dog: kiḍi | kedi	kiḍi	turuḍu 
+dog: turuḍu | kedi	kiḍi	turuḍu 
+dog: zəgər | kedi	kiḍi	turuḍu 
+drink: yar | ya	yar 
+dry: nǯɔrḍɛ | nǯɔrḍɛ 
+dry: nǯɔrdər | nǯɔrḍɛ 
+dust: biḍbiḍi | biḍbiḍi 
+ear: ši | Si	Si* si	Simo	si*	sumo	ši 
+earth: bəsaɔ 
+eat: bɔr 
+egg: šili | šili 
+elbow: tɔyɔ 
+emu: sɔwun 
+eye: sa | sa	sao	somo 
+eye: samsaḍa | sa	sao	somo 
+face: birɛ 
+fall: ḍwanɔ | ḍwanɔ 
+far: ḍɔgɔ | ḍɔgɔ 
+father: aba 
+fat (n.): krannɛ 
+fear: aɔšɛ | aɔšɛ 
+fear: aɔzər | aɔšɛ 
+feather: kayɛ 
+few: aḍḍi | aḍḍi 
+finger: awɛ 
+finger: ɛbɛ 
+fingernail: turkɔ 
+fire: wini | wini	wueni	wuni	wíní 
+fire: wíní | wini	wueni	wuni	wíní 
+fire: winigari | wini	wueni	wuni	wíní 
+fish: bɔssɔ | bosu	bɔssɔ	fosu 
+five: nbɔ | ɸɔ 
+five: φɔ | ɸɔ 
+flower: φɔhɔri | ɸɔhɔri 
+flow: yar 
+fly (n.): sosun 
+fly (v.): hərḍər 
+foot: gɔḍɔgɔḍɔ | tulu 
+foot: tulu 
+forehead: φɔhɔni 
+four: ntɔzɔ 
+four: tɔzɔ 
+full: čumər | Cumpode	tigumbide	tigumfede	čumpoḍɛ 
+full: čumpoḍɛ | Cumpode	tigumbide	tigumfede	čumpoḍɛ 
+give: yɛnər 
+good: čɔnnɔ | čɔnnɔ 
+grass: ɛllɛ 
+green: zɛḍɔ | zɛḍɔ 
+guts: kɛšigi | kɛšigi 
+hair: ḍihini | tonɔsɔ 
+hair: tonɔsɔ 
+hand: kɛ | kE	kobei	kɛ 
+hand: tu͂ŋurši | kE	kobei	kɛ 
+head: ḍahɔ | ḍahɔ 
+hear: kiːr | bas	twazɔ 
+heart: awɔr 
+hear: twazɔ | bas	twazɔ 
+heavy: tikiḍɛ | tikiḍɛ 
+here: kwaḍi | kwaḍi 
+he/she: hən 
+he/she: mɛrɛ 
+he/she: ˗umma 
+hit: bar 
+hit: tugwi | bar 
+hold: tar 
+hole: kubu 
+horn: yaɛ | yai	yayi	yaɛ 
+house: yɛ 
+how: inninigi 
+hunt: φunər | ɸunər 
+husband: ayi͂ | ayĩ 
+if: kɔgɔ 
+in: ḍrɔ | ḍrɔ 
+I: ˗nər | tani	tarE 
+I: ta͂ŋɔ | tani	tarE 
+I: tani | tani	tarE 
+jaw: nila 
+kill: yiḍər | yiḍər 
+knee: tɛi | tei	ti	toya	tɛi 
+know: monər 
+laugh: gazər 
+leaf: kɔllu | kolu	kɔllu	ogur	si* 
+left: anɛgɛḍɔ | anɛgɛḍɔ 
+leg: ši | ši 
+lie: tišo | tišo | mo ɸadər 
+lip: kɔhudo 
+live: niri 
+liver: mahan | mahan	maheno 
+long: anɔɔ͂ | ḍrɔssɔ 
+long: ḍrɔssɔ | ḍrɔssɔ 
+louse: maskɔ | masko 
+louse: murasa | masko 
+louse: nɛu | masko 
+man: agər | aɔ 
+man: aɔ 
+many: mɔntɔ 
+meat: yini 
+moon: auri | auri	òwúṛ 
+moon: òwúṛ | auri	òwúṛ 
+morning: bɛrkɛ 
+morning: təskiḍu 
+mosquito: nḍɛgi 
+mother: aya | aya	ḍɛ 
+mother: ḍɛ | aya	ḍɛ 
+mountain: yi | Ei*	Ei* druso	emi	yi 
+mouth: či(ka) | či	čika 
+name: soro | Cu	ky~u	soro	suro	suru 
+nape: agar 
+narrow: sɔnnɔ 
+navel: sɔur 
+neck: tay 
+new: aḍḍi | Eski 
+night: aḍər | dugusu	ḍɔgɔsɔ 
+night: ḍɔgɔsɔ | dugusu	ḍɔgɔsɔ 
+nose: čalula | Ca	ky~a	ča 
+old: buguḍi 
+old: čɔzzi 
+one: gači | tra	tron	trɔnɔ	trɔ̀ń	turon 
+one: tra | tra	tron	trɔnɔ	trɔ̀ń	turon 
+one: trɔ̀ń | tra	tron	trɔnɔ	trɔ̀ń	turon 
+one: trɔnɔ | tra	tron	trɔnɔ	trɔ̀ń	turon 
+other: koḍɛ | koḍɛ 
+pull: ho͂ŋər 
+pull: kazər 
+push: gɔzər | tərḍər 
+push: tərḍər | tərḍər 
+rain: ḍɔo | ŋəlɛ 
+rain: ŋəlɛ 
+rat: kɔrɔ 
+rat: kurii͂ 
+red: maḍɔ | maḍɔ 
+right: bɛrɛḍɔ | kE	kobei	kɛ | bɛrɛḍɔ 
+ripe: baφɔ 
+river: ɛnəri 
+river: suri | ɛnəri 
+road: ḍoro | doro	torgo	zulon	zurul 
+road: tɔrgo | doro	torgo	zulon	zurul 
+root: ḍyulu | ḍyulu 
+rope: ɛzɛ 
+round: kɛlɛkɛlɛstən 
+rub: kɔgɔnər 
+rub: salanər | kɔgɔnər 
+salt: ɛrɛ 
+sand: anɛšɛ | anɛšɛ 
+say: φaḍər | ɸaḍər | anɛšɛ 
+scratch: kɔgɔnər 
+sea: φɔḍi 
+seed: mihinɛ 
+see: ḍoḍər | dit	dot	dut	ḍoḍər 
+see: lanər | dit	dot	dut	ḍoḍər 
+sew: sur 
+short: kɔrɛy 
+shoulder: φɔrlɔmči 
+sing: ḍɔːnɔ gɔnər | ḍɔːnɔ gɔnər 
+sister: ḍurɔ 
+sister: idi 
+sit: twɔzɔ 
+skin: ašyɛ | aSi	aSy~e	ašyɛ 
+skin: nǯasi | aSi	aSy~e	ašyɛ 
+skin: ɔrwɔ | aSi	aSy~e	ašyɛ 
+sky: san 
+sleep: nya͂ŋər | nyãŋər 
+small: aḍḍi | aḍḍi 
+smell: suru 
+smoke: ɛzzɛ 
+snake: gɔlɛ 
+snow: kiḍa 
+son: mi 
+sour: čačaɔ 
+spit: kazɔ 
+spit: su͂ŋər 
+split: φarḍər | ɸarḍər 
+stand: yɛrḍər | yɛrḍər 
+star: təski | tEski	təski 
+stone: yi | Ei*	Eyi	fadai	tigi	toto	tuge	yi 
+suck: yabər 
+sun: ɛzzɛ | eze	ize	zE	ɛzzɛ	ɛ̀zzɛ́ 
+sun: ɛ̀zzɛ́ | eze	ize	zE	ɛzzɛ	ɛ̀zzɛ́ 
+sweet: ɛzinḍi 
+tail: φoḍi | ɸoḍi 
+take: gɔnər 
+take: mu͂r 
+take: winər 
+that: ɔra | ɔri | tra	tron	trɔnɔ	trɔ̀ń	turon 
+that: ɔri | tra	tron	trɔnɔ	trɔ̀ń	turon 
+there: ɔttɔ 
+they: həntɔ | mara 
+they: ˗həntɔ | mara 
+they: mara 
+thigh: mɔḍurḍɛ 
+thin: gɛlɛbɛ 
+this: ara | ay 
+this: ay 
+thorn: ɛlɛ 
+thou: ənḍa | 3nd~a	3nt~a	narE	nore	ənḍa 
+thou: nəm | 3nd~a	3nt~a	narE	nore	ənḍa 
+thou: ˗nəmma | 3nd~a	3nt~a	narE	nore	ənḍa 
+thou: nənḍa | 3nd~a	3nt~a	narE	nore	ənḍa 
+thou: ntəm | 3nd~a	3nt~a	narE	nore	ənḍa 
+thou: ˗ntəmma | 3nd~a	3nt~a	narE	nore	ənḍa 
+three: agɔzɔ | agɔzɔ	àkùzzuː 
+three: àkùzzuː | agɔzɔ	àkùzzuː 
+three: nagɔzɔ | agɔzɔ	àkùzzuː 
+throat: kɔllɔgɔ 
+throw: ɔlɛnər 
+thunder: kənǯɛlɛy 
+tie: tonər 
+today: mɛni 
+tomorrow: hiči 
+tomorrow: φɛkkɛ 
+tongue: tèlèsú | t3rSe	t3rhi	tirmesu	triSi	tèlèsú	tərhi 
+tongue: tərhi | t3rSe	t3rhi	tirmesu	triSi	tèlèsú	tərhi 
+tooth: tɛ | te*	tei*	tomai	tíː	tɛ 
+tooth: tɛ kuluŋa | te*	tei*	tomai	tíː	tɛ 
+tooth: tíː | te*	tei*	tomai	tíː	tɛ 
+tooth: φulanto | te*	tei*	tomai	tíː	tɛ 
+tree: ɛkɛ(aka) | EkE	akE	idi 
+turn: kurkurunər 
+two: ču | Cu	ky~u	ču	čuː 
+two: čuː | Cu	ky~u	ču	čuː 
+two: nunču | Cu	ky~u	ču	čuː 
+vagina: kɔgi 
+vagina: wɔ 
+vomit: yiŋər 
+walk: ḍaganɔ | tanər	ḍaganɔ 
+walk: tanər | tanər	ḍaganɔ 
+walk: tɛrɔ | tanər	ḍaganɔ 
+walk: yar | tanər	ḍaganɔ 
+warm: winigi 
+warm: ǯigi 
+wash: ḍrɔssɔ | tulər	ǯamər 
+wash: tulər | tulər	ǯamər 
+wash: ǯamər | tulər	ǯamər 
+water: galɛ | i	iyi	iː	yi	íː 
+water: iː | i	iyi	iː	yi	íː 
+water: íː | i	iyi	iː	yi	íː 
+water: yɛgɛ | i	iyi	iː	yi	íː 
+weep: ɔa͂ŋər 
+weep: su͂li 
+weep: yoḍər 
+we: ˗ntər | t3nd~a	t3nt~a	tant~a	tant~ai	tara 
+we: tənḍa | t3nd~a	t3nt~a	tant~a	tant~ai	tara 
+we: tənḍɔ | t3nd~a	t3nt~a	tant~a	tant~ai	tara 
+wet: innɛi 
+wet: lili 
+what: inni 
+when: nɔkɔ 
+where: yɛ 
+white: čuo | čuo 
+who: nya 
+wide: čuru | čuru 
+wife: aḍɛ | aḍɛ 
+wind: awɔnɔ 
+wing: ɛhirɛ 
+wipe: sarḍər | sarḍər 
+with: yɔttɔ 
+woman: aḍɛ | aḍɛ 
+woman: ɛḍi | aḍɛ 
+wood: ɛkɛ 
+wood: kɔlay 
+worm: kuli 
+year: ŋəlɛ 
+yellow: mini 
+yesterday: mɔski 
+yesterday: ŋɔḍay 
+every: gənna 
+ash: winiši 
+abdomen: kəši 
+bigness: bwɔ	ḍrɔssɔ 
+large: bwɔ	ḍrɔssɔ 
+breasts: tugum	tugumo	tɔgəm 
+nail: turkɔ̃ 
+talon: turkɔ̃ 
+come from: Er	ir	r	tɛrrɛ 
+be dead: nas	nos	nus	ḍanasɔ 
+dead: nas	nos	nus	ḍanasɔ 
+fly: hərḍər 
+fly v.: hərḍər 
+left hand: kE	kobei	kɛ 
+1 sg.: tani	tarE 
+be knowledgeable: monər 
+lie down: tišo 
+head louse: masko 
+male: aɔ 
+much: mɔntɔ 
+multiple: mɔntɔ 
+several: mɔntɔ 
+hill: Ei*	Ei* druso	emi	yi 
+title: Cu	ky~u	soro	suro	suru 
+nighttime: dugusu	ḍɔgɔsɔ 
+adulterous: tra	tron	trɔnɔ	trɔ̀ń	turon 
+single: tra	tron	trɔnɔ	trɔ̀ń	turon 
+the: tra	tron	trɔnɔ	trɔ̀ń	turon 
+unprincipled: tra	tron	trɔnɔ	trɔ̀ń	turon 
+rainy weather: ŋəlɛ 
+path: doro	torgo	zulon	zurul 
+route: doro	torgo	zulon	zurul 
+hide: aSi	aSy~e	ašyɛ 
+little: aḍḍi 
+smallness: aḍḍi 
+rock: Ei*	Eyi	fadai	tigi	toto	tuge	yi 
+2 sg: 3nd~a	3nt~a	narE	nore	ənḍa 
+you: 3nd~a	3nt~a	narE	nore	ənḍa 
+grind: Cu	ky~u	ču	čuː 
+go: tanər	ḍaganɔ 
+1 pl. inc.: t3nd~a	t3nt~a	tant~a	tant~ai	tara 
+we₁: t3nd~a	t3nt~a	tant~a	tant~ai	tara 
+whiteness: čuo 
+who?: nya 
+female: aḍɛ 
+distant: ḍɔgɔ 
+dull: tikiḍɛ 
+serious: tikiḍɛ 
+earthworm: kuli 
+2 pl.: nənḍa 
+ye: nənḍa 
+you all: nənḍa 
+3 pl.: mara 
+where?: yɛ 
+when?: nɔkɔ 
+how?: inninigi 
+broad: čuru 
+wideness: čuru 
+principal wife: aḍɛ 
+his mother: aya	ḍɛ 
+my mother: aya	ḍɛ 
+his father: aba 
+my father: aba 
+stick: tərgazɛ 
+cord: ɛzɛ 
+flesh: yini 
+gut: kɛšigi 
+insides: kɛšigi 
+intestine: kɛšigi 
+intestines: kɛšigi 
+breath: inšiḍər 
+laughter: gazər 
+afraid: aɔšɛ 
+be afraid: aɔšɛ 
+fright: aɔšɛ 
+beat: bar 
+strike: bar 
+hack: gɔr	kɔr 
+cut open: ɸarḍər 
+tell lies: mo ɸadər 
+drop: ḍwanɔ 
+grasp: tar 
+hold in arm: tar 
+wash clothes: tulər	ǯamər 
+shove: tərḍər 
+bind: tonər 
+fasten: tonər 
+tie up: tonər 
+enumerate: hɛdingɛnər 
+number: hɛdingɛnər 
+tally: hɛdingɛnər 
+brook: ɛnəri 
+stream: ɛnəri 
+daylight: ḍəski 
+daytime: ḍəski 
+evil: zɔntɔ 
+filthy: ǯɛnɛ 
+soiled: ǯɛnɛ 
+right side: bɛrɛḍɔ 
+inside: ḍrɔ 

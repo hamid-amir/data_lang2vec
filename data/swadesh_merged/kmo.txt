@@ -1,0 +1,604 @@
+all: ama | ama	ambo	etamba	kiki	ɛyɛy 
+all: ambo | ama	ambo	etamba	kiki	ɛyɛy 
+all: etamba | ama	ambo	etamba	kiki	ɛyɛy 
+all: ɛyɛy | ama	ambo	etamba	kiki	ɛyɛy 
+all: kiki | ama	ambo	etamba	kiki	ɛyɛy 
+animal: mbomboy 
+ankle: yatə miyi ŋgur 
+arm: haφa 
+arm: ta:pa 
+arm: taːpa 
+arm: taφa 
+arm: taφa haφa 
+arm: taφa mbondə 
+arrow: kwona 
+arrow: mbɛ minǯa 
+ashes: hikišɛmbo | hikišɛmbo	šɛ 
+ashes: šɛ | hikišɛmbo	šɛ 
+back: komakiɲ 
+back: maŋgər 
+back: mu yɛφa 
+back: yayi omu 
+back: yen 
+bad: kafësek | kafəsek	kaɸasɛk 
+bad: kafəsek | kafəsek	kaɸasɛk 
+bad: kaφasɛk | kafəsek	kaɸasɛk 
+bark: mbi | mbi	saɸi 
+bark: saφi | mbi	saɸi 
+belly: kumbu | mpə	suŋgu 
+belly: mbə | mpə	suŋgu 
+belly: mpë | mpə	suŋgu 
+belly: mpə | mpə	suŋgu 
+belly: suŋgu | mpə	suŋgu 
+big: haraφa | haraɸa	hisaw	rekə 
+big: hisaw | haraɸa	hisaw	rekə 
+big: rekə | haraɸa	hisaw	rekə 
+bird: apu | apu	aɸo 
+bird: ap(w)u | apu	aɸo 
+bird: aφo | apu	aɸo 
+bite: čɛ | puk a	čɛ 
+bite: puk a | puk a	čɛ 
+bitter: kwo a 
+bitter: ow 
+bitter: φu hatawa 
+black: këhapa | kəhapa	kɛyiha	kɛyihaɸa 
+black: kəhapa | kəhapa	kɛyiha	kɛyihaɸa 
+black: kɛyiha(φa) | kəhapa	kɛyiha	kɛyihaɸa 
+blood: kɛφi φi | kamu	kɛɸi ɸi	pi 
+blood: pi | kamu	kɛɸi ɸi	pi 
+blow: gwoφi | gwoɸi	ɸəna 
+blow: φəna | gwoɸi	ɸəna 
+bone: aφo haφa | aɸo haɸa	hapa 
+bone: hapa | aɸo haɸa	hapa 
+branch: taφa | taɸa 
+breast: muk | muk	muku 
+breast: muku | muk	muku 
+breathe: hɛŋgaha 
+breathe: φoφoy | hɛŋgaha 
+brother: kumwoy 
+brother: mendala 
+brother: mɛndaya 
+brother: yaka 
+burn: hayi 
+burn: suwu 
+burn: tuku 
+butterfly: aφosəmbəruka 
+calf: haφa omu 
+calf: yatə maŋgər 
+cheek: wanɛŋgɛy 
+cheek: wangəsər 
+chest: bərəφə 
+chest: ßɛruk 
+child: yi | yigapa 
+child: yigapa 
+child: yikafa | yigapa 
+chin: tekimbi 
+claw: mbe minǯa | mbe minǯa | taɸa biš 
+cloud: aφonduwan keyi | aɸonduwan keyi	hɛnǯaŋgwayaɸ	wayi kɛyi 
+cloud: hɛnǯaŋgwayaφ | aɸonduwan keyi	hɛnǯaŋgwayaɸ	wayi kɛyi 
+cloud: wayi kɛyi | aɸonduwan keyi	hɛnǯaŋgwayaɸ	wayi kɛyi 
+cold: hiŋgahaw | hiŋgahaw	nekərəya 
+cold: nekərəya | hiŋgahaw	nekərəya 
+come: heči ya | heCi ya	heči ya	nawiya	nawiya meyi	ya 
+come: nawiya | heCi ya	heči ya	nawiya	nawiya meyi	ya 
+come: ya | heCi ya	heči ya	nawiya	nawiya meyi	ya 
+count: kandə | kandə	kɛɲi 
+count: kɛɲi | kandə	kɛɲi 
+crocodile: mo 
+cut: sakiya | təmə	yə 
+cut: tay | təmə	yə 
+cut: təmə | təmə	yə 
+cut: yə | təmə	yə 
+cut: φo | təmə	yə 
+dark: kɛyiha(φa) 
+dark: niyiki yi 
+daughter: mima yikaφwa 
+day: a yandə nɛdə | yadə 
+day: hoŋgo | yadə 
+day: yadə 
+die: ha | ha	kiridi	sobo ha 
+die: ha ma | ha	kiridi	sobo ha 
+die: uku a ha | ha	kiridi	sobo ha 
+dig: či | yɛyi	əβə 
+dig: əßə | yɛyi	əβə 
+dig: yɛyi | yɛyi	əβə 
+dirty: kɛyiha 
+dog: asʌ | asa	asʌ 
+dog: asa | asa	asʌ 
+dog: asë | asa	asʌ 
+drink: uka a | uka a	uku a 
+dry: reki | reki	samba 
+dry: samba | reki	samba 
+dust: haφasɛn | haɸasɛn	rɛŋgə 
+dust: rɛŋgə | haɸasɛn	rɛŋgə 
+ear: fu: | fuː	mabiya	mambiya 
+ear: fuː | fuː	mabiya	mambiya 
+ear: mambiya | fuː	mabiya	mambiya 
+earth: mu | nosap	nowosaɸ 
+earth: nosap | nosap	nowosaɸ 
+earth: nowosaφ | nosap	nowosaɸ 
+eat: a | a	otə a 
+eat: a(g) | a	otə a 
+eat: otə a | a	otə a 
+egg: mbɛy | mbɛy	mpei 
+egg: mpei | mbɛy	mpei 
+elbow: tombo 
+emu: aφošɛmbu 
+emu: warəwanuku 
+eye: mi: | miyi	miː 
+eye: miː | miyi	miː 
+eye: miyi | miyi	miː 
+eye: miyi monǯə nɛmbə | miyi	miː 
+eye: miyi noku φifi | miyi	miː 
+eye: miyi saφi | miyi	miː 
+eye: ŋgwandəmay | miyi	miː 
+face: misoma 
+fall: saka 
+far: yaφa | yaɸa 
+father: afëje | afəǯe	aɸoko	aɸočɛy 
+father: afəǯe | afəǯe	aɸoko	aɸočɛy 
+father: aφočɛy | afəǯe	aɸoko	aɸočɛy 
+father: aφoko | afəǯe	aɸoko	aɸočɛy 
+father: efi | afəǯe	aɸoko	aɸočɛy 
+fat (n.): φəφəta 
+fear: akə 
+feather: (aφo) nɛmbə | aɸo nɛmbə	nɛmbə 
+few: amɛnda | amɛnda	karakanda	kaw 
+few: karakanda | amɛnda	karakanda	kaw 
+few: kaw | amɛnda	karakanda	kaw 
+fight: ow anaφi | ow anaɸi 
+finger: haraφa taφama 
+fingernail: (taφa) bi(š) | taɸa biš 
+finger: (taφa-)ma 
+finger: yatəma 
+fire: hi | hi	hiː 
+fire: hi: | hi	hiː 
+fire: hiː | hi	hiː 
+fire: himənǯumu | hi	hiː 
+fish: ɛmiyɛφ | emiyep	ɛmiyɛɸ 
+float: ŋgay 
+flower: (mɛ) šɛ | mɛ šɛ	šɛ 
+flow: kiya sor 
+fly (n.): amaruka 
+fly (n.): karuka 
+fly (n.): nənəßar 
+fly (v.): haŋga 
+fly (v.): mboko 
+fog: hɛnǯaŋgwayaφ | hɛnǯaŋgwayaɸ 
+foot: yatə 
+foot: (yatə) woφu 
+forehead: makambɛ 
+forest: kwaši | kwaši 
+fruit: sək 
+full: takəkəsə | takikisi	takəkəsə 
+full: φuɲi | takikisi	takəkəsə 
+give: ha 
+good: kep | kep	kwoya	kɛɸi 
+good: kɛφi | kep	kwoya	kɛɸi 
+good: kwoya | kep	kwoya	kɛɸi 
+grass: wohɛnǯa | wohɛnǯa 
+green: nekərə | nekərə	sombo 
+green: sombo | nekərə	sombo 
+guts: kumbu | kumbu	suŋgu 
+guts: suŋgu | kumbu	suŋgu 
+hair: asa nɛmbə 
+hair: mamba nɛmbə 
+hair: nɛmbə 
+hair: šembi | nɛmbə 
+hand: taφa | tapa	taɸa	taɸa nǯumu 
+hand: taφa nǯumu | tapa	taɸa	taɸa nǯumu 
+hand: taφa woφu | tapa	taɸa	taɸa nǯumu 
+head: masëk | masək	masɛk 
+head: masək | masək	masɛk 
+head: masɛk | masək	masɛk 
+hear: menǯi | meji	menǯi 
+heart: mɛsɛk 
+hear: waŋgətɛy | meji	menǯi 
+heavy: nomoya 
+he/she: rë 
+he/she: rə 
+hit: fiyu 
+hold: neki 
+hole: wakɛmbi 
+house: aka(ma) 
+how: mboyɛŋga 
+husband: holi | ma 
+husband: ma 
+I: an | ada	an	anda 
+I: a-n | ada	an	anda 
+I: anda | ada	an	anda 
+I: andana | ada	an	anda 
+I: enǯi | ada	an	anda 
+jaw: tekəmbi 
+kangaroo: yombo 
+kill: arowa φi | arowa ɸi 
+knee: hembiya | hebiya	hembiya	yatə mboŋgo 
+knee: ŋgəŋgən | hebiya	hembiya	yatə mboŋgo 
+knee: yatə kwiɲiφ | hebiya	hembiya	yatə mboŋgo 
+knee: yatə mboŋgo | hebiya	hembiya	yatə mboŋgo 
+know: hɛ 
+lake: namba 
+lake: wasanamba 
+laugh: hɛŋga 
+leaf: kəφəka | bika	kipika	kwiny	kwiɲ	kəɸəka	mbəka	suku 
+leaf: kwiɲ | bika	kipika	kwiny	kwiɲ	kəɸəka	mbəka	suku 
+leaf: mbəka | bika	kipika	kwiny	kwiɲ	kəɸəka	mbəka	suku 
+leaf: suku | bika	kipika	kwiny	kwiɲ	kəɸəka	mbəka	suku 
+left: mu | mu	yenǯi 
+left: yenǯi | mu	yenǯi 
+leg: ya:te | yatə	yaːte 
+leg: yaːte | yatə	yaːte 
+leg: yatə | yatə	yaːte 
+lie: wa | wa	yi | wošɛɸi manǯi mba 
+lie: yi | wa	yi | wošɛɸi manǯi mba 
+lightning: sarɛmbɛya 
+lightning: yeriφiya 
+lip: kunǯa saφi 
+live: moro | ta	yi 
+liver: woφu | wopu	woɸu 
+live: sombo | ta	yi 
+live: ßɛr | ta	yi 
+live: ta | ta	yi 
+live: yi | ta	yi 
+long: howuk sə | ŋgworo 
+long: ŋgworo 
+louse: nəka | nika 
+louse: nëkë | nika 
+louse: nəkə | nika 
+man: hole 
+man: ma 
+many: haraφa | haraɸa	hi	kandəyi 
+many: kandəyi | haraɸa	hi	kandəyi 
+meat: omu 
+moon: akar sokwa nəwəka | nowəka	nəkwəya 
+moon: nəkwəya | nowəka	nəkwəya 
+moon: nowëka | nowəka	nəkwəya 
+moon: nowəka | nowəka	nəkwəya 
+moon: tay nəwəka | nowəka	nəkwəya 
+morning: niyɛŋga 
+morning: uhandə 
+mosquito: yekes 
+mosquito: yogisa 
+mother: auwi | auwi	nokwaɸa 
+mother: awe | auwi	nokwaɸa 
+mother: nokwaφa | auwi	nokwaɸa 
+mountain: kwo | kwow 
+mountain: kwow 
+mountain: nɛndə kwow 
+mountain: təmo | kwow 
+mouth: kunǯa | kunǯa 
+name: hi 
+name: hi ha 
+nape: nenɛndə 
+narrow: ŋgowiyowu sakər 
+navel: ayas 
+navel: nawamba 
+near: mbana 
+new: akar | akar	sobo	sombo 
+new: handəyɛy | akar	sobo	sombo 
+new: mbakambaka | akar	sobo	sombo 
+new: mbirimbiri | akar	sobo	sombo 
+new: sombo | akar	sobo	sombo 
+night: niy 
+nose: sumonǯə suφu | sumoji	sumonǯə	sʊmwɔnǯ 
+nose: sumwondj | sumoji	sumonǯə	sʊmwɔnǯ 
+not: ɛyɛ | mbəš	saka 
+not: mbəš | mbəš	saka 
+not: saka | mbəš	saka 
+not: yaho | mbəš	saka 
+old: maši 
+old: mboɲi 
+old: səmbɛya 
+one: φondar | poCi	podar	podat	pojat	por	ɸondar 
+other: akar | akar	kanda 
+other: kanda | akar	kanda 
+person: ma 
+pull: neki 
+pull: ŋgwoɲa 
+push: ndarɛma 
+push: ndəma 
+rain: wayi | wayi	wayip 
+rain: wayip | wayi	wayip 
+rain: wayi ßa | wayi	wayip 
+rat: akaŋgora 
+red: nai | nai	nǯuwi	səkənow 
+red: nǯuwi | nai	nǯuwi	səkənow 
+red: səkənow | nai	nǯuwi	səkənow 
+right: mama (yɛφa) | tapa	taɸa	taɸa nǯumu 
+ripe: neφi 
+river: karakanda φa | ɸa 
+river: kwala | ɸa 
+river: φa | ɸa 
+road: nombo 
+root: nenži | nenži	suŋguyu 
+root: suŋguyu | nenži	suŋguyu 
+rope: manǯə | ɸoko 
+rope: φoko | ɸoko 
+rub: rekəkə | rekəkə	ɸuɸoy 
+rub: φuφoy | rekəkə	ɸuɸoy 
+salt: woši | woši 
+sand: kɛsin 
+say: mba | mba	wo | kɛsin 
+say: mbo | mba	wo | kɛsin 
+say: wa | mba	wo | kɛsin 
+say: wo | mba	wo | kɛsin 
+scratch: kərə | kərə	wiyar 
+scratch: wiyar | kərə	wiyar 
+sea: somakwotə tawa φa 
+sea: ukumboro 
+seed: sək 
+see: he | he	he ho	hɛ	miyi he 
+see: hɛ | he	he ho	hɛ	miyi he 
+sew: kaφa | kaɸa 
+sew: ßa | kaɸa 
+sharp: suŋguyu | suŋguyu	tɛ 
+sharp: tɛ | suŋguyu	tɛ 
+short: amɛnda | yenǯi 
+short: tombo | yenǯi 
+short: yenǯi | yenǯi 
+shoulder: mbiyinǯə 
+shoulder: təməna 
+sister: kumwoy 
+sister: mowe 
+sister: mowoy 
+sister: yaka 
+sit: yi 
+skin: mampë | maba	maba sapi	mampə	sapi	saraga	ɸi 
+skin: mampə | maba	maba sapi	mampə	sapi	saraga	ɸi 
+skin: saφi yə | maba	maba sapi	mampə	sapi	saraga	ɸi 
+skin: φi | maba	maba sapi	mampə	sapi	saraga	ɸi 
+sky: nər (keyi) 
+sleep: wa 
+small: amɛya | amɛya	waya 
+small: waya | amɛya	waya 
+smell: kwowa ya | mɛnǯi hɛ 
+smell: kwoφa ya | mɛnǯi hɛ 
+smoke: hirika | hirika	rəka 
+smoke: rëka | hirika	rəka 
+smoke: rəka | hirika	rəka 
+snake: hoφo | hoɸo 
+son: yikaφwa 
+sour: kwo a 
+sour: φu hatawa 
+spit: nǯərən 
+spit: soŋgwiya 
+spit: ukwašɛ i 
+split: kaya | kaya	ndəmbaya	ɸəka 
+split: ndəmbaya | kaya	ndəmbaya	ɸəka 
+split: φəka | kaya	ndəmbaya	ɸəka 
+squeeze: hɛkə 
+stand: sətə | sokwa	sətə 
+stand: sokwa | sokwa	sətə 
+star: maway | winyumay	wiɲumay	wuɲəmai 
+star: wiɲumay | winyumay	wiɲumay	wuɲəmai 
+star: wuɲəmai | winyumay	wiɲumay	wuɲəmai 
+star: wunyëmai | winyumay	wiɲumay	wuɲəmai 
+stone: hərəŋgwoy ndom | hirigwoy dom	hərəŋgwoy ndom	pap	papa	ɸaɸa 
+stone: pap | hirigwoy dom	hərəŋgwoy ndom	pap	papa	ɸaɸa 
+stone: papa | hirigwoy dom	hərəŋgwoy ndom	pap	papa	ɸaɸa 
+stone: φaφa | hirigwoy dom	hərəŋgwoy ndom	pap	papa	ɸaɸa 
+straight: kɛφi | kɛɸi	naŋgwa 
+straight: naŋgwa | kɛɸi	naŋgwa 
+sun: ya 
+sweet: hemi kwar 
+swell: wuwu 
+swell: φəφəta 
+swim: ukure 
+tail: kiɲi 
+take: hiyiya 
+take: rambo 
+take: ya 
+take: ye 
+that: kana | kana	kata | poCi	podar	podat	pojat	por	ɸondar 
+that: kata | kana	kata | poCi	podar	podat	pojat	por	ɸondar 
+they: ye 
+thick: mbanda 
+thigh: kwočombo 
+thigh: ŋgwoyi 
+thin: kaφa sə | kaɸa sə 
+think: hiki 
+this: ndəna | ndəna	ndəta	nǯɛča 
+this: ndəta | ndəna	ndəta	nǯɛča 
+this: nǯɛča | ndəna	ndəta	nǯɛča 
+this: test again | ndəna	ndəta	nǯɛča 
+thorn: yami 
+thou: kuta | minawa	mita	mitana	miti	mə	nija	niji	ninya	ninyawa 
+thou: kwona | minawa	mita	mitana	miti	mə	nija	niji	ninya	ninyawa 
+thou: më | minawa	mita	mitana	miti	mə	nija	niji	ninya	ninyawa 
+thou: mə | minawa	mita	mitana	miti	mə	nija	niji	ninya	ninyawa 
+thou: mənawa | minawa	mita	mitana	miti	mə	nija	niji	ninya	ninyawa 
+thou: məta | minawa	mita	mitana	miti	mə	nija	niji	ninya	ninyawa 
+thou: niɲa(wa) | minawa	mita	mitana	miti	mə	nija	niji	ninya	ninyawa 
+thou: ninǯa | minawa	mita	mitana	miti	mə	nija	niji	ninya	ninyawa 
+throat: mborowaŋgə 
+throw: rambo 
+thunder: sarɛmbɛya 
+tie: hema | kətə 
+tie: hoŋgo | kətə 
+tie: kətə 
+today: aφa 
+tomorrow: iyi 
+tomorrow: sik 
+tongue: kwunja | kwunǯa	tarekwoy	tarɛkwoy 
+tongue: kwunǯa | kwunǯa	tarekwoy	tarɛkwoy 
+tongue: tarɛkwoy | kwunǯa	tarekwoy	tarɛkwoy 
+tooth: maφo φu | pu	tarəkwi	ɸu 
+tooth: ŋgaŋga tombo φu | pu	tarəkwi	ɸu 
+tooth: tarëkwi | pu	tarəkwi	ɸu 
+tooth: tarəkwi | pu	tarəkwi	ɸu 
+tooth: φu | pu	tarəkwi	ɸu 
+tree: me 
+tree: mɛ | me 
+tree: mɛ tombo | me 
+tree: nawamba | me 
+tree: noku tombo | me 
+turn: ndarɛmboy 
+two: uprus | uprus	upurus	upurus piriCar	upurus por	uɸurus 
+two: uφurus | uprus	upurus	upurus piriCar	upurus por	uɸurus 
+unripe: sombo 
+unripe: waya 
+vagina: ča 
+vagina: səkəmbor 
+vomit: woyi 
+walk: amamba | čiši 
+walk: čiši | čiši 
+walk: i | čiši 
+warm: hi uwu 
+warm: hi yami 
+wash: uku yeči 
+water: ʊkwu | uku	ukwi	ʊkwu 
+water: uku | uku	ukwi	ʊkwu 
+water: uku səßə wakɛmbi | uku	ukwi	ʊkwu 
+weep: kɛya 
+weep: kɛyamuk 
+we: no | nona	nota	noti 
+we: nona | nona	nota	noti 
+we: nota | nona	nota	noti 
+we: noti | nona	nota	noti 
+we: test | nona	nota	noti 
+wet: ukuka 
+we two (incl.): siɲa 
+we two (incl.): siča 
+what: mboy 
+where: səta | səta	šiya 
+where: šiya | səta	šiya 
+white: afama | afama	nokunow 
+white: nokunow | afama	nokunow 
+who: nama 
+wide: mbanda 
+wife: mima 
+wind: sowa 
+wing: čɛφi | čɛɸi 
+wipe: mbači | mbači 
+woman: mima | mima	miːma 
+woman: mi:ma | mima	miːma 
+woman: miːma | mima	miːma 
+wood: hičaφwa 
+wood: hi tombo 
+wood: kumbu 
+wood: mɛ 
+wood: ŋgəsa 
+wood: yamba 
+woomera: wondoφ 
+worm: ŋgwoyimbi 
+year: sukwiya 
+yellow: mbondiwa now | mbondiwa now	nǯuwi 
+yellow: nǯuwi | mbondiwa now	nǯuwi 
+yes: ayo 
+yes: owič 
+yesterday: yer 
+you: ku-ta | minawa	mita	mitana	miti	mə	nija	niji	ninya	ninyawa | kuta	kwona 
+you two: kiɲa 
+you two: kiča 
+you two: kinawa 
+every: ama	ambo	etamba	kiki	ɛyɛy 
+ash: hikišɛmbo	šɛ 
+abdomen: mpə	suŋgu 
+bigness: haraɸa	hisaw	rekə 
+large: haraɸa	hisaw	rekə 
+breasts: muk	muku 
+nail: mbe minǯa 
+talon: mbe minǯa 
+come from: heCi ya	heči ya	nawiya	nawiya meyi	ya 
+be dead: ha	kiridi	sobo ha 
+dead: ha	kiridi	sobo ha 
+ground: nosap	nowosaɸ 
+land: nosap	nowosaɸ 
+soil: nosap	nowosaɸ 
+fly: haŋga	mboko 
+fly v.: haŋga	mboko 
+left hand: tapa	taɸa	taɸa nǯumu 
+1 sg.: ada	an	anda 
+be knowledgeable: hɛ 
+lie down: wa	yi 
+head louse: nika 
+male: ma 
+much: haraɸa	hi	kandəyi 
+multiple: haraɸa	hi	kandəyi 
+several: haraɸa	hi	kandəyi 
+flesh: omu 
+hill: kwow 
+title: hi 
+nighttime: niy 
+adulterous: poCi	podar	podat	pojat	por	ɸondar 
+single: poCi	podar	podat	pojat	por	ɸondar 
+the: poCi	podar	podat	pojat	por	ɸondar 
+unprincipled: poCi	podar	podat	pojat	por	ɸondar 
+human: ma 
+human being: ma 
+rainy weather: wayi	wayip 
+hide: maba	maba sapi	mampə	sapi	saraga	ɸi 
+little: amɛya	waya 
+smallness: amɛya	waya 
+rock: hirigwoy dom	hərəŋgwoy ndom	pap	papa	ɸaɸa 
+2 sg: minawa	mita	mitana	miti	mə	nija	niji	ninya	ninyawa 
+grind: uprus	upurus	upurus piriCar	upurus por	uɸurus 
+go: čiši 
+1 pl. inc.: nona	nota	noti 
+we₁: nona	nota	noti 
+whiteness: afama	nokunow 
+who?: nama 
+female: mima	miːma 
+distant: yaɸa 
+dull: nomoya 
+serious: nomoya 
+close: mbana 
+ner: mbana 
+earthworm: ŋgwoyimbi 
+3 sg.: rə 
+he: rə 
+she: rə 
+2 pl.: kuta	kwona 
+ye: kuta	kwona 
+you all: kuta	kwona 
+3 pl.: ye 
+where?: səta	šiya 
+how?: mboyɛŋga 
+broad: mbanda 
+wideness: mbanda 
+fat: mbanda 
+principal wife: mima 
+his mother: auwi	nokwaɸa 
+my mother: auwi	nokwaɸa 
+his father: afəǯe	aɸoko	aɸočɛy 
+my father: afəǯe	aɸoko	aɸočɛy 
+woods: kwaši 
+stick: taɸa 
+cord: ɸoko 
+gut: kumbu	suŋgu 
+insides: kumbu	suŋgu 
+intestine: kumbu	suŋgu 
+intestines: kumbu	suŋgu 
+breath: hɛŋgaha 
+laughter: hɛŋga 
+cogitate: hiki 
+reflect: hiki 
+sniff: mɛnǯi hɛ 
+alive: ta	yi 
+be alive: ta	yi 
+life: ta	yi 
+living: ta	yi 
+hack: təmə	yə 
+cut open: kaya	ndəmbaya	ɸəka 
+tell lies: wošɛɸi manǯi mba 
+drop: saka 
+grasp: neki 
+hold in arm: neki 
+wring: hɛkə 
+bind: kətə 
+fasten: kətə 
+tie up: kətə 
+enumerate: kandə	kɛɲi 
+number: kandə	kɛɲi 
+tally: kandə	kɛɲi 
+brook: ɸa 
+stream: ɸa 
+sky: nər 
+daylight: yadə 
+daytime: yadə 
+evil: kafəsek	kaɸasɛk 
+filthy: kɛyiha 
+soiled: kɛyiha 
+blunt: tombo 
+damp: ukuka 
+right side: mama 

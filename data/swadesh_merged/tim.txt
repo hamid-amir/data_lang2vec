@@ -1,0 +1,287 @@
+all: hârowâk | horowok 
+and: akdo 
+animal: yo 
+arm: bɔt 
+ashes: kau 
+back: hame- 
+bark: hɔk 
+belly: tep- | tep	tep- 
+big: humo 
+bird: laut 
+bite: ihi- | ihi	ihi- 
+black: heleng | heleN	heleŋ 
+black: heleŋ | heleN	heleŋ 
+blood: gilâm- | gilom	gilɑm- 
+blood: gilɑm- | gilom	gilɑm- 
+blow: wai 
+blow: wai- 
+bone: hahit- | hahit	hait	kandziŋ- 
+bone: hait | hahit	hait	kandziŋ- 
+bone: kandziŋ- | hahit	hait	kandziŋ- 
+breast: nam- | nam	nam- 
+breathe: heak 
+brother: teu 
+brother: teu- 
+burn: de 
+burn: o- 
+claw: pekat- | pekat	pekat- 
+cloud: hamadat 
+cold: bâlâpnge | bolopNe	bɑlɑpŋe 
+cold: bɑlɑpŋe | bolopNe	bɑlɑpŋe 
+come: gu- | gu	gu- 
+count: oyang- 
+count: oyaŋ- 
+cut: hâri- 
+cut: hɑri- 
+die: mo- | mo	mo- 
+dig: kendɑ- 
+dig: kendâ- 
+dog: doa | doa	dua 
+dog: dua | doa	dua 
+dry: kamili- | kamili	kamili- 
+dust: gahap 
+ear: âdâp- | odop	ɑdɑp-	ɔndɔp 
+ear: ɑdɑp- | odop	ɑdɑp-	ɔndɔp 
+ear: ɔndɔp | odop	ɑdɑp-	ɔndɔp 
+earth: hân | hon 
+earth: hɑn | hon 
+eat: ne | ne	ni	ni- 
+eat: ni- | ne	ni	ni- 
+eye: dewun- | dewun	dewun- 
+fall: gi- 
+father: ewe- 
+fat (n.): kelu- 
+fingernail: pik 
+fire: kɔlɔp 
+flower: huri- 
+foot: kei- | kei	kei- 
+fruit: bun- 
+full: pik- | pik	pik- 
+give: ning- | niN	niŋ- 
+give: niŋ- | niN	niŋ- 
+good: âlipnge | olipNe	ɑlipŋe 
+good: ɑlipŋe | olipNe	ɑlipŋe 
+green: golɑ | golo	golɑ 
+green: golâ | golo	golɑ 
+hair: dumut- | dumut	dumut- 
+hand: bât- | bot	bɑt- 
+hand: bɑt- | bot	bɑt- 
+head: kaut- | kaut	kaut- 
+heart: okot- | okot	okot- 
+he/she: yâk 
+he/she: yɑk 
+he/she: yɔk 
+hit: ko- 
+hold: me- 
+hole: lɔm 
+how: gain hinare 
+I: nɑ | no	nɑ	nɔ 
+I: nâ | no	nɑ	nɔ 
+I: nɔ | no	nɑ	nɔ 
+knee: pâwut- | powut	pɑwut-	pɔwut 
+knee: pɔwut | powut	pɑwut-	pɔwut 
+knee: pɑwut- | powut	pɑwut-	pɔwut 
+know: nâgâ- | nogo	nɑgɑ 
+know: nɑgɑ | nogo	nɑgɑ 
+lake: bâtgum 
+lake: bɑtgum 
+laugh: giring- 
+laugh: giriŋ- 
+leaf: esen- | esen	esen- 
+left: kane 
+leg: kei 
+long: kâlip | kolip	kɔlip 
+long: kɔlip | kolip	kɔlip 
+louse: imen 
+man: luâk | luok	luɑk 
+man: luɑk | luok	luɑk 
+many: biwirɑ | biwiro	biwirɑ 
+many: biwirâ | biwiro	biwirɑ 
+meat: sunum- 
+moon: dewutâ hâdâhân gâtnge | dewuto hodohon gotNe	dewutɑ hɑdɑhɑn gɑtŋe	dewutɔ 
+moon: dewutɑ hɑdɑhɑn gɑtŋe | dewuto hodohon gotNe	dewutɑ hɑdɑhɑn gɑtŋe	dewutɔ 
+moon: dewutɔ | dewuto hodohon gotNe	dewutɑ hɑdɑhɑn gɑtŋe	dewutɔ 
+mother: meme- 
+mountain: gibânge | giboNe	gibɑŋe 
+mountain: gibɑŋe | giboNe	gibɑŋe 
+mouth: lau 
+name: kot- | kot	kot-	kɔt 
+name: kɔt | kot	kot-	kɔt 
+neck: han- | han	han-	imbe 
+neck: imbe | han	han-	imbe 
+new: irak | irak	irakNe	irakŋe 
+new: iraknge | irak	irakNe	irakŋe 
+new: irakŋe | irak	irakNe	irakŋe 
+night: hadâk | hadok	hadɑk 
+night: hadɑk | hadok	hadɑk 
+nose: hâme- | home	hɑme-	hɔme 
+not: bo 
+old: sâbâ 
+old: sɑbɑ 
+one: kânok | konok	kɑnok 
+one: kɑnok | konok	kɑnok 
+play: hâlimak- 
+play: hɑlimak- 
+pull: olongak- 
+pull: oloŋak- 
+push: hokok- 
+rain: tânâk | tonok	tɑnɑk	tɔnɔk 
+rain: tɑnɑk | tonok	tɑnɑk	tɔnɔk 
+rain: tɔnɔk | tonok	tɑnɑk	tɔnɔk 
+red: gilâm-nge | gilomNe	gilɑmŋe 
+red: gilɑmŋe | gilomNe	gilɑmŋe 
+right: bun | bot	bɑt- 
+road: dâp | dop 
+road: dɔp | dop 
+road: dɑp | dop 
+root: kâdârâ- | kodoro	kɑdɑrɑ- 
+root: kɑdɑrɑ- | kodoro	kɑdɑrɑ- 
+rope: tâk 
+rope: tɑk 
+round: gawâng gawâng | gawoN gawoN	gɑwɑŋ gɑwɑŋ 
+round: gɑwɑŋ gɑwɑŋ | gawoN gawoN	gɑwɑŋ gɑwɑŋ 
+sand: nupi | nupi	sak 
+sand: sak | nupi	sak 
+say: dɔ | dɔ	ma	ma- 
+say: ma- | dɔ	ma	ma- 
+seed: kâdet- | kodet	kɑdet- 
+seed: kɑdet- | kodet	kɑdet- 
+see: nek- | nek	nek- 
+sew: parut- 
+short: tâlâwâk | tɑlɑwɑk 
+short: tɑlɑwɑk 
+sister: tâu- 
+sister: tou 
+sister: tɑu- 
+sit: ta- | ta	ta- 
+skin: hâk- | hok	hɑk-	hɔk 
+skin: hɑk- | hok	hɑk-	hɔk 
+skin: hɔk | hok	hɑk-	hɔk 
+sky: hibim 
+sleep: ye- | ye	ye- 
+small: bâlenge | boleNe	bɑleŋe 
+small: bɑleŋe | boleNe	bɑleŋe 
+smoke: dâwok | dowok	dɑwok	mɔβok 
+smoke: dɑwok | dowok	dɑwok	mɔβok 
+smoke: mɔßok | dowok	dɑwok	mɔβok 
+snake: niabi 
+some: bik- 
+spit: tâwut- 
+spit: towut 
+stand: kin- 
+star: pitung | pituN	pituŋ 
+star: pituŋ | pituN	pituŋ 
+stick: buhâ 
+stone: kât | kot	kɑt 
+stone: kɑt | kot	kɑt 
+straight: tɔŋ 
+suck: musuku- 
+sun: dewutɔ | dewutɔ	poiap 
+sun: poiap | dewutɔ	poiap 
+swell: kaule- 
+tail: dape- | dape	dape- 
+that: idɑ | ido	idɑ 
+that: idâ | ido	idɑ 
+there: idɑ 
+there: idâ 
+they: yâk 
+they: yɑk 
+this: i 
+thou: gɑ | go	gɑ	gɔ 
+thou: gâ | go	gɑ	gɔ 
+thou: gɔ | go	gɑ	gɔ 
+thou: ye | go	gɑ	gɔ 
+throw: hepu- 
+tie: dɔɣɔ 
+tongue: elewet | elewet	elewot	elewot- 
+tongue: elewot- | elewet	elewot	elewot- 
+tooth: dât- | dot	dɑt- 
+tooth: dot | dot	dɑt- 
+tooth: dɑt- | dot	dɑt- 
+tree: lâwin | lowin 
+tree: lɑwin | lowin 
+turn: purik- 
+two: lâuwâ | lauwo	louwo	lɑuwɑ 
+two: lɑuwɑ | lauwo	louwo	lɑuwɑ 
+vomit: muhat- 
+warm: kâlâp | utunŋe utudɑk 
+warm: kalɑp | utunŋe utudɑk 
+warm: utun.nge utudâk | utunŋe utudɑk 
+warm: utunŋe utudɑk 
+wash: puli- 
+water: tu 
+weep: ide- 
+we: ne | nen 
+we: nen 
+we: nene 
+what: wan 
+where: wanân 
+where: wanɑn 
+white: kau 
+who: kiɑ | kio	kiɑ 
+who: kiâ | kio	kiɑ 
+wind: bɔlɔp | bɔlɔp	seru 
+wind: seru | bɔlɔp	seru 
+wing: bâbâlâm- 
+wing: bɑbɑlɑm- 
+wing: piŋgim 
+woman: âbâi | oboi	ɑbɑi 
+woman: ɑbɑi | oboi	ɑbɑi 
+wood: buhɑ 
+worm: gipmaŋ 
+yellow: gibang | gibaN	gibaŋ 
+yellow: gibaŋ | gibaN	gibaŋ 
+you: ye | go	gɑ	gɔ 
+every: horowok 
+ash: kau 
+abdomen: tep	tep- 
+bigness: humo 
+large: humo 
+breasts: nam	nam- 
+nail: pekat	pekat- 
+talon: pekat	pekat- 
+come from: gu	gu- 
+be dead: mo	mo- 
+dead: mo	mo- 
+ground: hon 
+land: hon 
+soil: hon 
+fat: kelu 
+fat n.: kelu 
+grease: kelu 
+lubricant: kelu 
+oil: kelu 
+left hand: bot	bɑt- 
+1 sg.: no	nɑ	nɔ 
+be knowledgeable: nogo	nɑgɑ 
+head louse: imen 
+male: luok	luɑk 
+much: biwiro	biwirɑ 
+multiple: biwiro	biwirɑ 
+several: biwiro	biwirɑ 
+flesh: sunum 
+meat: sunum 
+hill: giboNe	gibɑŋe 
+title: kot	kot-	kɔt 
+nighttime: hadok	hadɑk 
+adulterous: konok	kɑnok 
+single: konok	kɑnok 
+the: konok	kɑnok 
+unprincipled: konok	kɑnok 
+rainy weather: tonok	tɑnɑk	tɔnɔk 
+path: dop 
+route: dop 
+hide: hok	hɑk-	hɔk 
+little: boleNe	bɑleŋe 
+smallness: boleNe	bɑleŋe 
+stand: kin 
+rock: kot	kɑt 
+2 sg: go	gɑ	gɔ 
+grind: lauwo	louwo	lɑuwɑ 
+hot: utunŋe utudɑk 
+1 pl. inc.: nen 
+we₁: nen 
+whiteness: kau 
+who?: kio	kiɑ 
+female: oboi	ɑbɑi 
+earthworm: gipmaŋ 

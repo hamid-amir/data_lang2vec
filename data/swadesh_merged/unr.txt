@@ -1,0 +1,149 @@
+all: soben 
+every: soben 
+ash: toroe7 
+ashes: toroe7 
+bark: harta 
+abdomen: laZ 
+belly: laZ 
+big: maraN 
+bigness: maraN 
+large: maraN 
+bird: Cene 
+bite: hua 
+black: hend~e 
+blood: mayam 
+bone: ZaN 
+breast: nunu 
+breasts: nunu 
+claw: rama 
+nail: rama 
+talon: rama 
+cloud: rimil 
+cold: tutukan 
+come: hiZu7 
+come from: hiZu7 
+dog: seta 
+drink: nu 
+dry: roro 
+ear: lutur 
+earth: ote 
+ground: ote 
+land: ote 
+soil: ote 
+eat: Zom 
+egg: Zarom 
+eye: med 
+fat: itil 
+fat n.: itil 
+grease: itil 
+lubricant: itil 
+oil: itil 
+feather: il 
+fire: seNgel 
+fish: hai 
+fly: apir 
+fly v.: apir 
+foot: kata 
+full: pura 
+give: om 
+good: bugi 
+green: gaded 
+hair: up 
+hand: ti 
+left hand: ti 
+right: ti 
+head: bo7 
+hear: ayum 
+heart: Zi kuram 
+horn: diriN 
+1 sg.: ain 
+I: ain 
+kill: gie7 
+knee: mukuri 
+be knowledgeable: itu 
+know: itu 
+leaf: sakam 
+lie: giti7 
+lie down: giti7 
+liver: im 
+long: ZiliN 
+head louse: si ku 
+louse: si ku 
+male: kora 
+man: horo 
+many: bese 
+much: bese 
+multiple: bese 
+several: bese 
+flesh: Zilu 
+meat: Zilu 
+moon: Cand~u7 
+hill: buru 
+mountain: buru 
+mouth: moCa 
+name: num	nutum 
+title: num	nutum 
+neck: hoto7 
+new: %nawa	nawa 
+night: nida 
+nighttime: nida 
+nose: mu* 
+not: ka 
+adulterous: miyod	miḍ 
+one: miyod	miḍ 
+single: miyod	miḍ 
+that: han i7 
+the: miyod	miḍ 
+unprincipled: miyod	miḍ 
+human: horo 
+human being: horo 
+person: horo 
+rain: gama 
+rainy weather: gama 
+red: ara7 
+path: hora 
+road: hora 
+route: hora 
+root: red 
+round: gol 
+say: men 
+see: lel 
+seed: hita 
+sit: dub 
+hide: ur 
+skin: ur 
+sleep: durum 
+little: kuniN 
+small: kuniN 
+smallness: kuniN 
+smoke: sukul 
+stand: tiNgu 
+star: ipil 
+rock: diri 
+stone: diri 
+sun: siNgi 
+swim: oyar 
+tail: Cadlom 
+this: ni i7 
+2 sg: am 
+thou: am 
+you: am 
+tongue: le7 
+tooth: data 
+tree: daru 
+grind: bar	baria 
+two: bar	baria 
+go: sen 
+walk: sen 
+water: da7 
+1 pl. inc.: ale 
+we: ale 
+we₁: ale 
+what: Ca na 
+white: pund~i 
+whiteness: pund~i 
+who: okoy 
+who?: okoy 
+female: kuri 
+woman: kuri 
+yellow: sa saN 

@@ -1,0 +1,283 @@
+all: aʔyaːʔma 
+arrow: ire 
+ashes: kagu 
+back: (a)ka 
+bad: aːta 
+bark: ari 
+belly: (a)ntaː | antaː	ntaː 
+big: anosaː | anosaː	tabe 
+big: tabe | anosaː	tabe 
+bird: kabaraʔ 
+bite: (a)ba na(ye) | aba naye 
+black: tunuʔ 
+blood: koraːʔ | korane	koraːʔ 
+bone: (a)yaːmpu | ayaːmpu	naemp~uwe	nayampuwe	yaːmpu 
+boy: anente 
+boy: masi 
+breast: nonoʔ | nonone	nonoʔ 
+brother: (a)gaː(nto) 
+burn: kae(ye) 
+burn: ta(ye) 
+calf: gaine 
+child: inaːmuʔ 
+chin: (a)maːgiʔ 
+claw: (ayaː)beso | ayaːbeso	beso 
+cloud: ibinaʔ | ibinaʔ	iraːgi 
+cloud: iraːgi | ibinaʔ	iraːgi 
+cold: esibaː (piye) 
+cold: tani(tani ʔpiye) | esibaː 
+come: kana(ye) | kana	kanauwe	kanaye 
+day: ataːmaiʔ 
+day: yaga 
+die: puri(ye) | puri	puriye	puruwe	puwauwe 
+dog: karaː | karawe	karaː	kwaraː	kw~araye 
+dog: kwaraː | karawe	karaː	kwaraː	kw~araye 
+drink: na(ye) | na	nauwe	naye 
+dry: aːsa (waye) 
+ear: (a)geh | ageh	geh	genaː	nagewe 
+ear: (a)genaː | ageh	geh	genaː	nagewe 
+earth: ma 
+eat: na(ye) | na	naye 
+egg: amuʔ 
+elbow: (ai nk)aoʔ 
+emu: amamaːniʔ 
+eye: (a)o | ao	naowe	o 
+fall: (a)egu(ye) 
+fall: aʔwareʔna(ye) 
+father: (a)baː 
+fat (n.): (a)paː 
+fat (n.): masawe 
+feather: (a)yaːʔ | ayaːʔ	yaːʔ 
+finger: moso 
+fire: yakuʔ | yakune	yakuʔ 
+fish: inoyaːnta | inoyant~awe	inoyaːnta	tarine	tariʔ 
+fish: tariʔ | inoyant~awe	inoyaːnta	tarine	tariʔ 
+fly (v.): para(ye) 
+foot: (a)gisaː | agisaː	gisaː 
+forehead: (a)iʔne 
+full: awaita(ye) | awa itaye	awaita	awaitaye	pumau	pumauwaye 
+full: pumau(waye) | awa itaye	awaita	awaitaye	pumau	pumauwaye 
+girl: araga 
+give: (a)mi(ye) | amiye 
+good: aogi | aogi	kanaːraʔ 
+good: kanaːraʔ | aogi	kanaːraʔ 
+green: yaːntaː 
+guts: ntaːwe 
+hair: (a)biyaːʔ | ayaːʔ	biyaːʔ	yaːʔ 
+hair: (a)raː | ayaːʔ	biyaːʔ	yaːʔ 
+hair: (a)yaːʔ | ayaːʔ	biyaːʔ	yaːʔ 
+hand: (a)yaːʔ | ayaːʔ	narane	nayane	yaːʔ 
+head: (a)ʔno | aʔno	ʔno 
+hear: (a)bi(ye) | abibuwe	abiye	abuwe 
+heart: (a)mako | amako	mako 
+heavy: kuntaː (piye) 
+he/she: ae 
+he/she: a(ge) 
+he/she: -iy 
+hit: (a)egu(ye) 
+hit: aruti(ye) 
+horn: (a)gasunaː | awa	gasunaː	wa 
+horn: (a)wa | awa	gasunaː	wa 
+house: naːʔ 
+house: naːmaʔ 
+how: ayaː 
+I: nae | na	nae	naewe	nage	nagewe 
+I: na(ge) | na	nae	naewe	nage	nagewe 
+I: -uw | na	nae	naewe	nage	nagewe 
+kill: (a)egu(yegina puriye) | aeguyegina puriye 
+knee: (a)raː | araː	naraone	narawe	raː	raːwoʔ 
+knee: (a)raːwoʔ | araː	naraone	narawe	raː	raːwoʔ 
+know: (a)bi(ye) | abiye 
+laugh: kagi (piye) 
+laugh: kwagi (iye) 
+leaf: anaː | a7yene	anaye	anaː	aʔyeʔ 
+leaf: aʔyeʔ | a7yene	anaye	anaː	aʔyeʔ 
+leg: (a)gisaː 
+lie: wai(ye) 
+liver: (a)uʔ | auʔ	naune	uʔ 
+long: eʔeroʔ | eʔeroʔ	yaːʔeroʔ 
+long: yaːʔeroʔ | eʔeroʔ	yaːʔeroʔ 
+louse: numaː | numaye	umawe 
+louse: umaː | numaye	umawe 
+man: wa | kinaʔ	wana	wananaye	wasana	wasanawe 
+many: aːtaru | aːtaru	uwa	uwaena	uwomaʔ 
+many: uwa(ena) | aːtaru	uwa	uwaena	uwomaʔ 
+many: uwomaʔ | aːtaru	uwa	uwaena	uwomaʔ 
+meat: (a)wase 
+moon: oʔ 
+morning: aːbayaː 
+mother: (a)no 
+mountain: amuʔ | amukagene	amune	amuʔ 
+mouth: (a)waːmuʔ | awaːmuʔ	waːmuʔ 
+name: (a)ge | age	ge	nage 
+neck: (a)nampi | anaʔmu	nampi	naʔmu 
+neck: (a)naʔmu | anaʔmu	nampi	naʔmu 
+new: aosoʔ | aogagune	aosone	aosoʔ	ibaː	ibaːsa	kaːsaːʔ 
+new: ibaː(sa) | aogagune	aosone	aosoʔ	ibaː	ibaːsa	kaːsaːʔ 
+new: kaːsaːʔ | aogagune	aosone	aosoʔ	ibaː	ibaːsa	kaːsaːʔ 
+night: ase(kaːʔ) | ase	asekane	asekaːʔ	asekw~ane	tare 
+night: tare | ase	asekane	asekaːʔ	asekw~ane	tare 
+not: aːʔ | aːʔ	kampa 
+not: aʔa | aːʔ	kampa 
+not: kampa | aːʔ	kampa 
+old: aentaː 
+old: anaːsa 
+old: karenaː 
+old: oyaːpaː 
+old: pai(sa) 
+old: pari(sa) 
+one: kaːʔ | kane	kanone	kaːnoʔ	kaːʔ	kánoné 
+one: kaːnoʔ | kane	kanone	kaːnoʔ	kaːʔ	kánoné 
+person: kinaʔ | kinaʔ	wana	wananaye	wasana	wasanawe 
+person: wana | kinaʔ	wana	wananaye	wasana	wasanawe 
+person: wasana | kinaʔ	wana	wananaye	wasana	wasanawe 
+rain: aguwa | aguwa	ka 
+rain: ka | aguwa	ka 
+rat: umu 
+red: tete 
+road: keʔ | kene 
+root: aiʔana | aiʔana	aubu 
+root: aubu | aiʔana	aubu 
+round: abaru(so) | abaru	abaruso	aroguʔ 
+round: aroguʔ | abaru	abaruso	aroguʔ 
+sand: kepaː 
+say: i(ye) | i	iye	kai	kaiye	si	siye 
+say: kai(ye) | i	iye	kai	kaiye	si	siye 
+say: si(ye) | i	iye	kai	kaiye	si	siye 
+see: (a)ga(ye) | agauwe	agaye 
+seed: aːʔ 
+short: aroʔ 
+shoulder: (a)bo 
+sister: (a)nona(nto) 
+sit: (maraʔ) mi(ye) | maraʔ miye 
+skin: (a)bare | ariwe	auʔ	bare	uʔ 
+skin: (a)uʔ | ariwe	auʔ	bare	uʔ 
+sleep: (a)uwai(ye) | auwaiye 
+small: amanaʔ 
+smoke: arabuntaʔ | arabuntaʔ	kunkaː	kuntaː 
+smoke: kunkaː | arabuntaʔ	kunkaː	kuntaː 
+smoke: kuntaː | arabuntaʔ	kunkaː	kuntaː 
+smoke: nampo | arabuntaʔ	kunkaː	kuntaː 
+snake: kuraː | kuraː	kuyaː 
+snake: kuyaː | kuraː	kuyaː 
+spit: kagai (naeguye) 
+spit: kuʔmo (iye) 
+stand: asi(ye) 
+stand: asori(ye) 
+star: imaːreya | imareyane	imaːreya	nori	noriwe	obu 
+star: nori | imareyane	imaːreya	nori	noriwe	obu 
+star: obu | imareyane	imaːreya	nori	noriwe	obu 
+stone: ebaːʔ | ebane	ebaːʔ	yabane	yabaːʔ 
+stone: yabaːʔ | ebane	ebaːʔ	yabane	yabaːʔ 
+sun: paʔ | pane	paʔ	yagewe 
+swim: (wanipi) nasi(ye) | wanipi nasiye 
+tail: aːʔwa | ayaːwa	aːʔwa	yaːwa 
+tail: (a)yaːwa | ayaːwa	aːʔwa	yaːwa 
+that: piʔ 
+they: -a:w 
+they: i(ge) 
+they two: -a:s 
+they two: isi(ge) 
+this: maːʔ 
+thou: -a:n | ka	kae	kaewe	kage	kagewe 
+thou: kae | ka	kae	kaewe	kage	kagewe 
+thou: ka(ge) | ka	kae	kaewe	kage	kagewe 
+thou: ti(ge) | ka	kae	kaewe	kage	kagewe 
+three: kakaga 
+three: tarawa kaːnakiʔ 
+today: ibaːba 
+tomorrow: ai 
+tongue: (a)ntebu | antebu	nant~ebiye	nant~ebuwe	ntebu 
+tooth: (a)wa | awa	nawa	nawiye	wa 
+tree: yaː | yawe 
+two: tara | tara	tarawe 
+walk: karusi(ye) | nasi	nasiye 
+walk: nasi(ye) | nasi	nasiye 
+walk: pigosu(ye) | nasi	nasiye 
+wallaby: esaː 
+wallaby: puwesaː 
+warm: muʔmu (piye) 
+water: aina | aina	aineye	wanine	waniʔ 
+water: waniʔ | aina	aineye	wanine	waniʔ 
+we: tae | tasigewe	tasikeye 
+we: ta(ge) | tasigewe	tasikeye 
+wet: ipabaː (piye) 
+wet: tani(tani piye) 
+we two (incl.): tasi(ge) 
+we two: -us 
+we: -un | tasigewe	tasikeye 
+what: ae | ae	aː	aːna	naː	naːna 
+what: aː(na) | ae	aː	aːna	naː	naːna 
+what: naː(na) | ae	aː	aːna	naː	naːna 
+when: ayaːntaga 
+where: ae(taʔ) 
+white: tabe(rabe) | tabe	taberabe	waeʔ 
+white: waeʔ | tabe	taberabe	waeʔ 
+who: ke 
+wide: tabe 
+wind: esibaː 
+wing: (a)gagaʔ 
+woman: wayaːʔ 
+wood: asaː 
+wood: esaːʔ 
+yellow: mopaiʔ | mopaiʔ	yaːgigu	yaːgigumpaʔ 
+yellow: yaːgigu(mpaʔ) | mopaiʔ	yaːgigu	yaːgigumpaʔ 
+yes: e 
+yes: o(we) 
+yesterday: ai 
+yesterday: aʔi 
+yes: ye 
+you: -a:w | ka	kae	kaewe	kage	kagewe 
+you two: -a:s 
+you two: tisi(ge) 
+every: aʔyaːʔma 
+ash: kagu 
+abdomen: antaː	ntaː 
+bigness: anosaː	tabe 
+large: anosaː	tabe 
+breasts: nonone	nonoʔ 
+nail: ayaːbeso	beso 
+talon: ayaːbeso	beso 
+come from: kana	kanauwe	kanaye 
+be dead: puri	puriye	puruwe	puwauwe 
+dead: puri	puriye	puruwe	puwauwe 
+dry: aːsa 
+fly: para	paraye 
+fly v.: para	paraye 
+left hand: ayaːʔ	narane	nayane	yaːʔ 
+right: ayaːʔ	narane	nayane	yaːʔ 
+1 sg.: na	nae	naewe	nage	nagewe 
+be knowledgeable: abiye 
+head louse: numaye	umawe 
+male: wa 
+much: aːtaru	uwa	uwaena	uwomaʔ 
+multiple: aːtaru	uwa	uwaena	uwomaʔ 
+several: aːtaru	uwa	uwaena	uwomaʔ 
+hill: amukagene	amune	amuʔ 
+title: age	ge	nage 
+nighttime: ase	asekane	asekaːʔ	asekw~ane	tare 
+nose: amoʔ	moʔ	nampawe 
+adulterous: kane	kanone	kaːnoʔ	kaːʔ	kánoné 
+single: kane	kanone	kaːnoʔ	kaːʔ	kánoné 
+the: kane	kanone	kaːnoʔ	kaːʔ	kánoné 
+unprincipled: kane	kanone	kaːnoʔ	kaːʔ	kánoné 
+human: kinaʔ	wana	wananaye	wasana	wasanawe 
+human being: kinaʔ	wana	wananaye	wasana	wasanawe 
+rainy weather: aguwa	ka 
+path: kene 
+route: kene 
+hide: ariwe	auʔ	bare	uʔ 
+little: amanaʔ 
+smallness: amanaʔ 
+rock: ebane	ebaːʔ	yabane	yabaːʔ 
+2 sg: ka	kae	kaewe	kage	kagewe 
+grind: tara	tarawe 
+go: nasi	nasiye 
+1 pl. inc.: tasigewe	tasikeye 
+we₁: tasigewe	tasikeye 
+whiteness: tabe	taberabe	waeʔ 
+who?: ke 
+female: wayaːʔ 
+dull: kuntaː 
+heavy: kuntaː 
+serious: kuntaː 

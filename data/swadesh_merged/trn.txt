@@ -1,0 +1,287 @@
+all: -mutu -mtu	ʔmuʼirihi 
+every: -mutu -mtu	ʔmuʼirihi 
+ash: c̷mapa 
+ashes: c̷mapa 
+bark: ʼtočohi 
+big: ʔčope-riʔi 
+bigness: ʔčope-riʔi 
+large: ʔčope-riʔi 
+bird: koyre 
+bite: -niko	-nikririko 
+black: -siso 
+blood: -itne	iti	itne 
+bone: opexe	ʼʔʸopeɣe 
+breast: -čene	Cene 
+breasts: -čene	Cene 
+claw: -hipnʸo 
+nail: -hipnʸo 
+talon: -hipnʸo 
+cloud: ʼukohi 
+cold: -kosarečo	-tummaʔoko 
+come: -uteko	uteko 
+come from: -uteko	uteko 
+be dead: -ʼepeno	epeno 
+dead: -ʼepeno	epeno 
+die: -ʼepeno	epeno 
+dog: paku 
+drink: -ero	eeriko	ero 
+dry: -oohi 
+ear: -čoka	Coka 
+earth: ʔpoɣʔe 
+ground: ʔpoɣʔe 
+land: ʔpoɣʔe 
+soil: ʔpoɣʔe 
+eat: -niko 
+egg: wrayʔa 
+eye: -uɣʔa	ux7a 
+feather: -ʼhiyoʔi 
+fire: -yukne	yukne	yuku 
+fish: himo 
+fly: -oro 
+fly v.: -oro 
+foot: -iype 
+full: -inko	inkočo	ink~o	ink~oCo 
+give: ihroko 
+good: -uri	tʸuri 
+green: anoʔo	heʔču 
+hair: -čutmoko	čtimkore 
+hand: -wupe	wupe 
+left hand: -wupe	wupe 
+right: -wupe	wupe 
+head: -čuti	-čutmoko 
+hear: -at-samo	-ɣinʸo	atsamo	xi5o 
+heart: -samre 
+horn: -hiʔu	hi7u 
+1 sg.: n- 
+I: n- 
+kill: -ʼkopako 
+knee: -ʼpuyusi	puyusi 
+be knowledgeable: imoti 
+know: imoti 
+leaf: -ʼpokohi	pokohi 
+lie: -pahi	ʼepahi 
+lie down: -pahi	ʼepahi 
+liver: -ʼtopono	topono 
+long: -siku 
+head louse: i5e	inʸe 
+louse: i5e	inʸe 
+male: oʔʸono 
+man: Cane	ʔčane 
+many: -komuri	mowera 
+much: -komuri	mowera 
+multiple: -komuri	mowera 
+several: -komuri	mowera 
+flesh: eče 
+meat: eče 
+moon: kohe 
+hill: nux7e mari	ʔnuɣʔe mari 
+mountain: nux7e mari	ʔnuɣʔe mari 
+mouth: -haka 
+name: -ʼihare	ihare 
+title: -ʼihare	ihare 
+neck: -ʼpiɣenu 
+new: raru	ʔrahru 
+night: yoti 
+nighttime: yoti 
+nose: -siri	siri 
+adulterous: etona 
+one: etona 
+single: etona 
+that: etona 
+the: etona 
+unprincipled: etona 
+human: Cane	ʔčane 
+human being: Cane	ʔčane 
+person: Cane	ʔčane 
+rain: tɣiwo 
+rainy weather: tɣiwo 
+red: -ic̷ʸoro	tic̷i 
+root: -pore 
+round: -čyoro ʔčoyoro 
+sand: taʼwoparu 
+say: -hičo	-koʔe 
+see: im7o	imʔo 
+seed: taɣira 
+sit: -ehako 
+hide: -ummo	ummo 
+skin: -ummo	ummo 
+sleep: imko 
+little: ʔčiʔčoʔo	ʔčiʔču 
+small: ʔčiʔčoʔo	ʔčiʔču 
+smallness: ʔčiʔčoʔo	ʔčiʔču 
+smoke: ʼɣhore	ʼɣhorepa 
+star: hreeɣi	hrexi 
+rock: mari	mari-haʔi	mariha7i 
+stone: mari	mari-haʔi	mariha7i 
+sun: saCe	sače 
+swim: -owreko 
+tail: -ihɣi 
+2 sg: p-	piti	pʸ- 
+thou: p-	piti	pʸ- 
+you: p-	piti	pʸ- 
+tongue: -nene	nene 
+tooth: o7e	oʔe 
+tree: wk~uxi	yk~uxi 
+grind: apina 
+two: apina 
+go: -puiiriko	-puiko 
+walk: -puiiriko	-puiko 
+hot: ihruromo	ihruɣɣomo 
+warm: ihruromo	ihruɣɣomo 
+water: -ʼune-ra	une	unera 
+1 pl. inc.: witi 
+we: witi 
+we₁: witi 
+what: taa 
+white: -hopu 
+whiteness: -hopu 
+who: naha 
+who?: naha 
+female: ʔseno 
+woman: ʔseno 
+yellow: -yokko 
+distant: -ʔeʼwirečo	ewire 
+far: -ʔeʼwirečo	ewire 
+dull: -hitakore 
+heavy: -hitakore 
+serious: -hitakore 
+close: -čokyo 
+near: -čokyo 
+ner: -čokyo 
+salt: ʔčewe 
+snake: činʸompi	ɣɣore 
+thin: ehʼworoʔi 
+wind: tektikwo 
+earthworm: -kane	ɣʼɣorepi 
+worm: -kane	ɣʼɣorepi 
+year: anʸu 
+2 pl.: zero	ʔʸ- 
+ye: zero	ʔʸ- 
+you all: zero	ʔʸ- 
+3 pl.: na-	nae- 
+they: na-	nae- 
+where: ooyo 
+where?: ooyo 
+when: kaeera	taha-muʔi 
+when?: kaeera	taha-muʔi 
+how: ooyo 
+how?: ooyo 
+some: ʔpomriono	ʔponnahi 
+few: ommuri 
+three: mopona 
+broad: -ʼaharu 
+wide: -ʼaharu 
+wideness: -ʼaharu 
+fat: -sina 
+thick: ʔčope 
+narrow: ʔc̷enkure	ʼʔc̷epa-ku 
+child: ʔmoyo	ʼʔmoperu 
+principal wife: -yeno 
+wife: -yeno 
+husband: -ima 
+his mother: -eno	meme 
+mother: -eno	meme 
+my mother: -eno	meme 
+father: tata 
+his father: tata 
+my father: tata 
+animal: ʼsorare 
+forest: smeno 
+woods: smeno 
+branch: -ʼtawohi	tatawo 
+stick: -ʼtawohi	tatawo 
+flower: -ohʔu 
+grass: muihi 
+cord: ikoropi 
+rope: ikoropi 
+grease: -sina 
+fingernail: -hipnʸo 
+leg: -pueɣe 
+wing: -powo 
+gut: -yeeruwhuʔe 
+guts: -yeeruwhuʔe 
+insides: -yeeruwhuʔe 
+intestine: -yeeruwhuʔe 
+intestines: -yeeruwhuʔe 
+back: -muiɣʔe	-ɣeku 
+suck: -čučko 
+spit: -attiko 
+vomit: -oʔko 
+blow: ewʔʸučo 
+breath: -omčo 
+breathe: -omčo 
+laugh: ekowo -wriʔi 
+laughter: ekowo -wriʔi 
+smell: -huko 
+sniff: -huko 
+afraid: -piko 
+be afraid: -piko 
+fear: -piko 
+fright: -piko 
+alive: itoriko 
+be alive: itoriko 
+life: itoriko 
+live: itoriko 
+living: itoriko 
+fight: eʔroriko 
+hunt: -kaseko 
+beat: estako	eʔo 
+hit: estako	eʔo 
+strike: estako	eʔo 
+cut: ečtiko 
+hack: ečtiko 
+cut open: eheko 
+split: eheko 
+dig: -seko 
+tell lies: -onʸučwo	emc̷ʸoko 
+stand: -kotpiʔeko 
+drop: -pakareko	-ʼwenopo 
+fall: -pakareko	-ʼwenopo 
+squeeze: -kopčako 
+wring: -kopčako 
+rub: -kotruʔoko 
+wipe: -kotruʔoko 
+wash: -kac̷kuʔo 
+wash clothes: -kac̷kuʔo 
+throw: -waririomčo 
+bind: ʼitičo	ʼtičo 
+fasten: ʼitičo	ʼtičo 
+tie: ʼitičo	ʼtičo 
+tie up: ʼitičo	ʼtičo 
+sew: -poohiko 
+count: -ʼtupačo 
+enumerate: -ʼtupačo 
+number: -ʼtupačo 
+tally: -ʼtupačo 
+sing: -hiro 
+have fun: -ʼuc̷aru 
+play: -ʼuc̷aru 
+brook: khokre 
+river: khokre 
+stream: khokre 
+lake: koɣure 
+dust: ʼmotehi 
+fog: ʔyoru 
+sky: anumo 
+blaze: -riiko 
+burn: -riiko 
+day: sače 
+daylight: sače 
+daytime: sače 
+bad: mueperahi	winarahi 
+evil: mueperahi	winarahi 
+rot: -heče 
+rotten: -heče 
+dirty: -koʔča 
+filthy: -koʔča 
+soiled: -koʔča 
+straight: -ʼutpiʔo 
+sharp: -kosri	eksiičo 
+damp: -nono	-ʼpatahi 
+wet: -nono	-ʼpatahi 
+right side: -nopowowre	wowre 
+left: -nopo te sopa	sopa 
+in: ʔwiʔku 
+inside: ʔwiʔku 
+and: ene 
+because: tahičo 

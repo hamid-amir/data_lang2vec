@@ -1,0 +1,138 @@
+all: ataɛtu	ataʔatu	etaʔetu	utaʔitu 
+every: ataɛtu	ataʔatu	etaʔetu	utaʔitu 
+ash: wɔtata	βotata	βotatə 
+ashes: wɔtata	βotata	βotatə 
+abdomen: koheʔa	kɔhiʔaʔ 
+belly: koheʔa	kɔhiʔaʔ 
+big: maheʔa	maheʔə	mahɛin 
+bigness: maheʔa	maheʔə	mahɛin 
+large: maheʔa	maheʔə	mahɛin 
+bird: konini	kɔnini 
+bite: gagerati	kagedə	kageʔa	kagiza 
+black: kozuri	kuduri	kuzuri 
+blood: amaha	ʌmʌhʌ 
+bone: toʔa	toʔah	tɔʔaʔ 
+breast: dizo	sizo	zizo	ǯizo 
+breasts: dizo	sizo	zizo	ǯizo 
+cloud: baroma	bʌɾɔma	urage 
+cold: tigaigai	tigaʔigai	tigaʔigaⁱ 
+come: mawe	muɾaidu 
+come from: mawe	muɾaidu 
+be dead: diɛdiega	siɛza 
+dead: diɛdiega	siɛza 
+die: diɛdiega	siɛza 
+dog: roga	rogə	ɛroga	ɾɔgʌʔ 
+drink: gareʔe	kuɾɪʔɪʔ 
+dry: goʔaⁱti	hahaul	pɔpʌgeɾʌ	woaitəre 
+ear: kerawa	kɪɾawa 
+eat: nige	nigɪ 
+egg: uko	uʔku	ʔukɔ 
+eye: amiagu	imaga	imyʌga	miaga	namiaga 
+fire: gaʔewa	kaewaə	kaʔewa 
+fish: hamaroga	hamarogə	hamaru	hʌmʌɾɔga 
+fly: wiyeza	wiɛraǯi	yɛzini	βiyɛrazi 
+fly v.: wiyeza	wiɛraǯi	yɛzini	βiyɛrazi 
+foot: hara	haɾa	mohiβa	ohiβu 
+full: wihirazi	wihiza	wihizaⁱ 
+give: gowe	mɛⁱgɛ 
+good: boinini	bɔinini 
+green: azazinawai	haʔati kaⁱʔawa	kuzuɾi 
+hair: wahidu	wahinu 
+hand: goʔiri	gɔiɾi	mekɛpa	nagɔiɾi	niborə 
+left hand: goʔiri	gɔiɾi	mekɛpa	nagɔiɾi	niborə 
+right: goʔiri	gɔiɾi	mekɛpa	nagɔiɾi	niborə 
+head: waʔaβa	woaba 
+hear: toβoraɸa	tɔhwɔɾazi 
+heart: hiraizin	viɾaʔizi	βiraidi 
+1 sg.: nɛʔi	nɪʔiʔ 
+I: nɛʔi	nɪʔiʔ 
+kill: koʔe	kɔʔɪʔ 
+be knowledgeable: hohoraina	hɔhɔɾa 
+know: hohoraina	hɔhɔɾa 
+leaf: rona	ronə	ɛrona	ɾɔnʌ 
+liver: auβo	kukuruʔ	kukuɾu	βiraiǯi 
+long: huɛtɔ	huʔeto	muɛti 
+male: rapini	ɾabini 
+man: danetu	danɪti 
+many: maɾɔ	tarago	taragu	tɛragu 
+much: maɾɔ	tarago	taragu	tɛragu 
+multiple: maɾɔ	tarago	taragu	tɛragu 
+several: maɾɔ	tarago	taragu	tɛragu 
+flesh: hama	hamə	hamʌ 
+meat: hama	hamə	hamʌ 
+moon: ehaino	ehaⁱno	hʌinɔ	ɛhaⁱno 
+hill: utoro	uturoʔ	utuɾɔ 
+mountain: utoro	uturoʔ	utuɾɔ 
+mouth: aβa	ehanu	zehanu 
+name: anaizi	nɛʔi 
+title: anaizi	nɛʔi 
+neck: atata	otata	otatə	zɔtata 
+new: bohi	bɔhi 
+night: rini	ɛrini	ɾini 
+nighttime: rini	ɛrini	ɾini 
+nose: mitobi	mitoβi	mitɔbi	namitɔbi	witoɸa 
+adulterous: maʔaza	maʔazo	maʔaǯa 
+one: maʔaza	maʔazo	maʔaǯa 
+single: maʔaza	maʔazo	maʔaǯa 
+that: dedebʷe	dɛβe	dɪdɪwɪ 
+the: maʔaza	maʔazo	maʔaǯa 
+unprincipled: maʔaza	maʔazo	maʔaǯa 
+human: danetu	danɪti 
+human being: danetu	danɪti 
+person: danetu	danɪti 
+rain: hamanahaʔ	hamanao	hamanaʔo	hamanaʔɔʔ 
+rainy weather: hamanahaʔ	hamanao	hamanaʔo	hamanaʔɔʔ 
+red: kababa	kababə 
+sand: muta	mutaʔ	wiutah	ʔɛgei 
+say: muta	mutaʔ	wiutah	ʔɛgei 
+see: wetiaɸo	witiʔiʔ 
+seed: huʔuni	huʼuni	toɣa 
+sit: amuge	amugɪ 
+hide: akaʔi	akaⁱ	ɛkaʔi	ʌkʌʔi 
+skin: akaʔi	akaⁱ	ɛkaʔi	ʌkʌʔi 
+sleep: iraiapaʔe	ʔinazini 
+little: tokuʔi	tukuʔi	tuʔkuʔazi	təkuazi 
+small: tokuʔi	tukuʔi	tuʔkuʔazi	təkuazi 
+smallness: tokuʔi	tukuʔi	tuʔkuʔazi	təkuazi 
+smoke: hukubi	kakubi	kukubi 
+star: turuβi	tuɾuɸi 
+rock: uraʔah	uraʔo	ʔuɾaʔɔʔ 
+stone: uraʔah	uraʔo	ʔuɾaʔɔʔ 
+sun: gozai	gozaⁱ	gozɛi 
+tail: weruai	wiruʔai	wɛruʔai	βeruʔaⁱ 
+this: derade	dɛrani	ɔmɛɾa 
+2 sg: ?saya	ʔiʔiʔ 
+thou: ?saya	ʔiʔiʔ 
+you: ?saya	ʔiʔiʔ 
+tongue: nuni	zanuni 
+tooth: aman	amanu	manu	namanu	nəmanu 
+grind: uge	ʔugɛi 
+two: uge	ʔugɛi 
+go: owaiziǯi	ɾetata nizi 
+walk: owaiziǯi	ɾetata nizi 
+water: haʔati	haʔʌti 
+1 pl. inc.: -aɾabɛnɪ	zɛʔaⁱ	zɪʔɪni 
+we: -aɾabɛnɪ	zɛʔaⁱ	zɪʔɪni 
+we₁: -aɾabɛnɪ	zɛʔaⁱ	zɪʔɪni 
+what: iganamu	igʌna 
+white: kopikaini	kopikaʔini	kupikarini 
+whiteness: kopikaini	kopikaʔini	kupikarini 
+who: imah	imʌiɾa 
+who?: imah	imʌiɾa 
+female: raβu	ɾawo 
+woman: raβu	ɾawo 
+yellow: kuning	tabuʔakon 
+distant: kanaha	kɪnaha 
+far: kanaha	kɪnaha 
+dull: aramaini	aramano	aramenu	ʌɾʌmʌidu 
+heavy: aramaini	aramano	aramenu	ʌɾʌmʌidu 
+serious: aramaini	aramano	aramenu	ʌɾʌmʌidu 
+close: kohipe	kɔhipɛ 
+near: kohipe	kɔhipɛ 
+ner: kohipe	kɔhipɛ 
+salt: dirau	nɛnɛgʌm	tira 
+snake: goizo	goⁱzo	gɔizɔ	koizo 
+thin: awahaʔi	awahiʔi	awaihiʔi	ʌwʌhiʔiʔ 
+wind: ebara	ebarə	oroβoroβe	ɛbʌɾa 
+earthworm: tinɪhɪhɪʔʌʔ	wowa 
+worm: tinɪhɪhɪʔʌʔ	wowa 

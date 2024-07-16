@@ -1,0 +1,747 @@
+all: apikumalak | apikumalak	tigitongon	ɛwɛro 
+all: ɛwɛro | apikumalak	tigitongon	ɛwɛro 
+all: tapot-tokon | apikumalak	tigitongon	ɛwɛro 
+all: tigitongon | apikumalak	tigitongon	ɛwɛro 
+arm: (in)obak 
+arrow: maie 
+arrow: malɛ 
+ashes: kaniŋgɛn | kaniŋgɛn	wun	wun awi 
+ashes: wun | kaniŋgɛn	wun	wun awi 
+ashes: wun awi | kaniŋgɛn	wun	wun awi 
+back: anggunuwak 
+back: aŋgunuwak 
+bad: anini ambik | anini ambik	maluk 
+bad: maluk | anini ambik	maluk 
+bark: akalëo | akalɗo	akapotlo 
+bark: akapotlo | akalɗo	akapotlo 
+bark: o akapolo | akalɗo	akapotlo 
+belly: aanagum | anaralɛ	anokʊm	aːn-okʊm	hanaralɛ 
+belly: anaralɛ | anaralɛ	anokʊm	aːn-okʊm	hanaralɛ 
+belly: aːn-okʊm | anaralɛ	anokʊm	aːn-okʊm	hanaralɛ 
+belly: anokʊm | anaralɛ	anokʊm	aːn-okʊm	hanaralɛ 
+belly: aːnugum | anaralɛ	anokʊm	aːn-okʊm	hanaralɛ 
+belly: hanaralɛ | anaralɛ	anokʊm	aːn-okʊm	hanaralɛ 
+belly: n-anokum | anaralɛ	anokʊm	aːn-okʊm	hanaralɛ 
+big: ɛŋgɔkalɔ | gwok	ŋgok	ŋgwok	ŋgʌk	ɛŋgɔkalɔ 
+big: gwok | gwok	ŋgok	ŋgwok	ŋgʌk	ɛŋgɔkalɔ 
+big: ŋgʌk | gwok	ŋgok	ŋgwok	ŋgʌk	ɛŋgɔkalɔ 
+big: (ng)gok | gwok	ŋgok	ŋgwok	ŋgʌk	ɛŋgɔkalɔ 
+big: ŋgok | gwok	ŋgok	ŋgwok	ŋgʌk	ɛŋgɔkalɔ 
+big: nggwok | gwok	ŋgok	ŋgwok	ŋgʌk	ɛŋgɔkalɔ 
+big: ŋgwok | gwok	ŋgok	ŋgwok	ŋgʌk	ɛŋgɔkalɔ 
+bird: teve | teve	tewe	towe	tsʌwɛ 
+bird: tewe | teve	tewe	towe	tsʌwɛ 
+bird: towe | teve	tewe	towe	tsʌwɛ 
+bird: tsʌwɛ | teve	tewe	towe	tsʌwɛ 
+bite: eyak mbangge | eyak mbaŋge	laraŋgwe 
+bite: eyak mbaŋge | eyak mbaŋge	laraŋgwe 
+bite: laraŋgwe | eyak mbaŋge	laraŋgwe 
+black: mili | mili	muli 
+black: muli | mili	muli 
+blood: amiya | amiya	inamuya	mep	muya	ɛnamiya 
+blood: ɛnamiya | amiya	inamuya	mep	muya	ɛnamiya 
+blood: inamuya | amiya	inamuya	mep	muya	ɛnamiya 
+blood: mep | amiya	inamuya	mep	muya	ɛnamiya 
+blood: muya | amiya	inamuya	mep	muya	ɛnamiya 
+blow: kani puge 
+bone: awe | awe	owak	owakano	owaq 
+bone: n-owakano | awe	owak	owakano	owaq 
+bone: owak | awe	owak	owakano	owaq 
+bone: owakano | awe	owak	owakano	owaq 
+boy: wolɔrɛ 
+branch: mi\ndik | miʔndik 
+branch: miʔndik 
+breast: elak | elak	elaq	namaruwak 
+breast: namaruwak | elak	elaq	namaruwak 
+breast: n-elak | elak	elaq	namaruwak 
+breathe: ambe agabuk wungge | ambe agabuk wuŋge	amuŋgut 
+breathe: ambe agabuk wuŋge | ambe agabuk wuŋge	amuŋgut 
+breathe: amuŋgut | ambe agabuk wuŋge	amuŋgut 
+burn: (negi)kany 
+calf: kabudu 
+cassowary: ndiimbu 
+cheek: hondaralɛm 
+child: bulɔrɛ | bulɔrɛ	enege	wawa 
+child: enege | bulɔrɛ	enege	wawa 
+child: wawa | bulɔrɛ	enege	wawa 
+claw: egapit | enegen	ɛnɛgabiːt 
+cloud: ametakkot | ametakkot	ametaːkkot	ndugwi 
+cloud: ametaːkkot | ametakkot	ametaːkkot	ndugwi 
+cloud: ndugwi | ametakkot	ametaːkkot	ndugwi 
+cold: čʌɣʌɪ | togwi	tokwi	čʌɣʌɪ 
+cold: togwi | togwi	tokwi	čʌɣʌɪ 
+cold: tokwi | togwi	tokwi	čʌɣʌɪ 
+come: amok | amok	omok	omoq	wa-	wɔrɛ 
+come: amok! | amok	omok	omoq	wa-	wɔrɛ 
+come: omok | amok	omok	omoq	wa-	wɔrɛ 
+come: omok! | amok	omok	omoq	wa-	wɔrɛ 
+come: wa- | amok	omok	omoq	wa-	wɔrɛ 
+come: wɔrɛ | amok	omok	omoq	wa-	wɔrɛ 
+correct: gɛmɛ | gimɛyo	gɛmɛ 
+correct: gimɛyo | gimɛyo	gɛmɛ 
+count: eengi lunggungge | eːŋgi luŋguŋge	liːŋgiːŋwe 
+count: eːŋgi luŋguŋge | eːŋgi luŋguŋge	liːŋgiːŋwe 
+count: liːŋgiːŋwe | eːŋgi luŋguŋge	liːŋgiːŋwe 
+cut: warogo mambege 
+dark: honkia 
+daughter: apʰʊt 
+daughter: napuluk 
+day: liingge 
+day: liːŋge 
+die: kagi | kaŋgerak	kaŋgwe	qanq~e 
+die: kanggerak | kaŋgerak	kaŋgwe	qanq~e 
+die: kaŋgerak | kaŋgerak	kaŋgwe	qanq~e 
+die: kaŋgwe | kaŋgerak	kaŋgwe	qanq~e 
+dig: kabungge | kabuŋge 
+dig: kabuŋge 
+dirty: mili 
+dog: gevo | gevo	gewo	nqewo	ŋgewo	ŋgewɔ 
+dog: gewo | gevo	gewo	nqewo	ŋgewo	ŋgewɔ 
+dog: nggewo | gevo	gewo	nqewo	ŋgewo	ŋgewɔ 
+dog: ŋgewo | gevo	gewo	nqewo	ŋgewo	ŋgewɔ 
+dog: ŋgewɔ | gevo	gewo	nqewo	ŋgewo	ŋgewɔ 
+drink: yi nengge | nen	yi neŋge 
+drink: yi neŋge | nen	yi neŋge 
+dry: bʊk | buk	bʊk	wolonak 
+dry: buk | buk	bʊk	wolonak 
+dry: (m)buk | buk	bʊk	wolonak 
+dry: wolonak | buk	bʊk	wolonak 
+dust: liirubu | liːrubu 
+dust: liːrubu 
+ear: aru | aru	aruk	atuk	hinaruk 
+ear: aruk | aru	aruk	atuk	hinaruk 
+ear: atuk | aru	aruk	atuk	hinaruk 
+ear: hinaruk | aru	aruk	atuk	hinaruk 
+ear: n-atuk | aru	aruk	atuk	hinaruk 
+earth: gwen 
+earth: nggween | gwen 
+earth: ŋgweːn | gwen 
+earth: potom | gwen 
+eat: na- | na-	namen	ne-	nen-	neŋge	norak	noŋgowe	nɛŋgɛyɛ 
+eat: namen | na-	namen	ne-	nen-	neŋge	norak	noŋgowe	nɛŋgɛyɛ 
+eat: namen! | na-	namen	ne-	nen-	neŋge	norak	noŋgowe	nɛŋgɛyɛ 
+eat: ne- | na-	namen	ne-	nen-	neŋge	norak	noŋgowe	nɛŋgɛyɛ 
+eat: nen- | na-	namen	ne-	nen-	neŋge	norak	noŋgowe	nɛŋgɛyɛ 
+eat: nengge | na-	namen	ne-	nen-	neŋge	norak	noŋgowe	nɛŋgɛyɛ 
+eat: neŋge | na-	namen	ne-	nen-	neŋge	norak	noŋgowe	nɛŋgɛyɛ 
+eat: nɛŋgɛyɛ | na-	namen	ne-	nen-	neŋge	norak	noŋgowe	nɛŋgɛyɛ 
+eat: noŋgowe | na-	namen	ne-	nen-	neŋge	norak	noŋgowe	nɛŋgɛyɛ 
+eat: norak | na-	namen	ne-	nen-	neŋge	norak	noŋgowe	nɛŋgɛyɛ 
+egg: ako | ako	eko	gen	tewe-gen	towe ako 
+egg: eko | ako	eko	gen	tewe-gen	towe ako 
+egg: (tewe-)gen | ako	eko	gen	tewe-gen	towe ako 
+egg: tewe-gen | ako	eko	gen	tewe-gen	towe ako 
+elbow: yungguk 
+elbow: yuŋguk 
+emu: diːmbu 
+emu: igue 
+emu: ndiːmbu 
+eye: enegen | enegen	eneken	eneqen	hɛnegɛn	negen 
+eye: eneken | enegen	eneken	eneqen	hɛnegɛn	negen 
+eye: hɛnegɛn | enegen	eneken	eneqen	hɛnegɛn	negen 
+eye: negen | enegen	eneken	eneqen	hɛnegɛn	negen 
+eye: nɛnegɛn əmbɛli | enegen	eneken	eneqen	hɛnegɛn	negen 
+eye: n-en-eken | enegen	eneken	eneqen	hɛnegɛn	negen 
+face: inorɔbak 
+fall: yigeːbu waŋge 
+fall: yigeebu wangge | yigeːbu waŋge 
+far: nda-nda | nda-nda	ondaːnda 
+far: ondaːnda | nda-nda	ondaːnda 
+father: ogoba | ogoba	oroba 
+father: oroba | ogoba	oroba 
+fat (n.): amok 
+fear: agabiti 
+fear: nakawarate 
+feather: tewe-ti | tewe-ti	towe eti 
+feather: towe eti | tewe-ti	towe eti 
+few: mbereluk 
+finger: enggabit 
+finger: eŋgabit 
+finger: inɛŋgi 
+finger: iyɔgɔbiːt 
+finger: kirin 
+fingernail: ɛnɛgabiːt | enegen	ɛnɛgabiːt 
+fingernail: enegen | enegen	ɛnɛgabiːt 
+finger: titiyi 
+fire: ɪdu | endo	kani	kanɪ	qani	ɪdu 
+fire: endo | endo	kani	kanɪ	qani	ɪdu 
+fire: i(n)du | endo	kani	kanɪ	qani	ɪdu 
+fire: kanɪ | endo	kani	kanɪ	qani	ɪdu 
+fire: kane | endo	kani	kanɪ	qani	ɪdu 
+fire: kani | endo	kani	kanɪ	qani	ɪdu 
+fish: ikan | ikan	yikw~e 
+fish: maalebonok | ikan	yikw~e 
+five: linggitogon | isalinggikho	liŋgtogon 
+five: liŋgtogon | isalinggikho	liŋgtogon 
+flow: yi wuke 
+fly (n.): ti\nebon 
+fly (n.): tiʔnebon 
+fly (n.): tinɛbon 
+fly (v.): pʊtnʊk 
+fly (v.): putnuk 
+fly (v.): wiganinuk naga 
+fly (v.): wikaːnɪnuk naka 
+fog: o apit 
+foot: ayok | ayok	iyok	iyok okʊt 
+foot: iyok | ayok	iyok	iyok okʊt 
+foot: iyok okʊt | ayok	iyok	iyok okʊt 
+foot: n-iyok okut | ayok	iyok	iyok okʊt 
+foot: niyok ungut | ayok	iyok	iyok okʊt 
+forehead: niːŋgawak 
+forest: eyo ngga me | eyo ŋga me	iŋgamɛ 
+forest: eyo ŋga me | eyo ŋga me	iŋgamɛ 
+forest: iŋgamɛ | eyo ŋga me	iŋgamɛ 
+four: imbere mbere | imbere mbere	taperejapere 
+fruit: anggen | aŋgen 
+fruit: aŋgen 
+full: abe ketoko | iyagabit	yaqapit 
+full: iyagabit | iyagabit	yaqapit 
+girl: kaliga 
+girl: kulara 
+give: wogoru | woguru	wokotiak	wot-nɪtʊ	wɔ-nɪtʊ	wɔkiriyɔ 
+give: woguru | woguru	wokotiak	wot-nɪtʊ	wɔ-nɪtʊ	wɔkiriyɔ 
+give: wɔkiriyɔ | woguru	wokotiak	wot-nɪtʊ	wɔ-nɪtʊ	wɔkiriyɔ 
+give: wokotiak | woguru	wokotiak	wot-nɪtʊ	wɔ-nɪtʊ	wɔkiriyɔ 
+give: wɔ-nɪtʊ | woguru	wokotiak	wot-nɪtʊ	wɔ-nɪtʊ	wɔkiriyɔ 
+give: wot-nitu! | woguru	wokotiak	wot-nɪtʊ	wɔ-nɪtʊ	wɔkiriyɔ 
+give: wot-nɪtʊ | woguru	wokotiak	wot-nɪtʊ	wɔ-nɪtʊ	wɔkiriyɔ 
+good: op 
+grass: mboori | mboːri 
+grass: mboːri 
+green: kɪ | kɪ	ŋgereʔŋga 
+green: muli | kɪ	ŋgereʔŋga 
+green: nggere\ngga | kɪ	ŋgereʔŋga 
+green: ŋgereʔŋga | kɪ	ŋgereʔŋga 
+hair: amoori | eri	eːruwak	hɛnɛruwak	neti	ɛri 
+hair: amoːri | eri	eːruwak	hɛnɛruwak	neti	ɛri 
+hair: eeruwak | eri	eːruwak	hɛnɛruwak	neti	ɛri 
+hair: eri | eri	eːruwak	hɛnɛruwak	neti	ɛri 
+hair: ɛri | eri	eːruwak	hɛnɛruwak	neti	ɛri 
+hair: eːruwak | eri	eːruwak	hɛnɛruwak	neti	ɛri 
+hair: hɛnɛruwak | eri	eːruwak	hɛnɛruwak	neti	ɛri 
+hair: n-eeti | eri	eːruwak	hɛnɛruwak	neti	ɛri 
+hair: neti | eri	eːruwak	hɛnɛruwak	neti	ɛri 
+hand: anibir | anibir	enq~i	eːgi	eːŋgi 
+hand: eenggi | anibir	enq~i	eːgi	eːŋgi 
+hand: eːgi | anibir	enq~i	eːgi	eːŋgi 
+hand: eːŋgi | anibir	enq~i	eːgi	eːŋgi 
+hand: hɛŋgerut | anibir	enq~i	eːgi	eːŋgi 
+hand: n-eegi | anibir	enq~i	eːgi	eːŋgi 
+head: aneb | aneb	anobak	anopak	anupak	hɛnɛnɛbak 
+head: anobak | aneb	anobak	anopak	anupak	hɛnɛnɛbak 
+head: anopak | aneb	anobak	anopak	anupak	hɛnɛnɛbak 
+head: anupak | aneb	anobak	anopak	anupak	hɛnɛnɛbak 
+head: hɛnɛnɛbak | aneb	anobak	anopak	anupak	hɛnɛnɛbak 
+head: n-anupak | aneb	anobak	anopak	anupak	hɛnɛnɛbak 
+hear: aruk konengge | aruk koneŋge	natuk konegi	natuk konugi	qonen 
+hear: aruk koneŋge | aruk koneŋge	natuk konegi	natuk konugi	qonen 
+hear: natuk konegi | aruk koneŋge	natuk konegi	natuk konugi	qonen 
+hear: natuk konugi | aruk koneŋge	natuk konegi	natuk konugi	qonen 
+hear: n-atuk konygi | aruk koneŋge	natuk konegi	natuk konugi	qonen 
+heart: iniki | iniki	inikki	niniki	ɪnɪtti 
+heart: inikki | iniki	inikki	niniki	ɪnɪtti 
+heart: niniki | iniki	inikki	niniki	ɪnɪtti 
+heart: n-initti | iniki	inikki	niniki	ɪnɪtti 
+heart: ɪnɪtti | iniki	inikki	niniki	ɪnɪtti 
+heavy: aninggin | aniŋgin 
+heavy: aniŋgin 
+here: ya | ya	yimɛ 
+here: yimɛ | ya	yimɛ 
+he/she: aryi 
+he/she: at 
+hit: buke | wake 
+hit: wake 
+hold: pigagaŋge 
+house: ɔ 
+house: ome 
+husband: enayo | enayo	ogoŋgelo	op 
+husband: ogonggelo | enayo	ogoŋgelo	op 
+husband: ogoŋgelo | enayo	ogoŋgelo	op 
+husband: op | enayo	ogoŋgelo	op 
+I: a | an 
+I: an 
+in: iniki me 
+kangaroo: woya 
+kill: waru | waru	wato	watʊ 
+kill: watʊ | waru	wato	watʊ 
+kill: wato | waru	wato	watʊ 
+kill: watu! | waru	wato	watʊ 
+knee: n-edopakun | ent~opanq~un 
+know: eenu | eːnu	eːnʊ	nɛnu 
+know: eːnʊ | eːnu	eːnʊ	nɛnu 
+know: eːnu | eːnu	eːnʊ	nɛnu 
+know: n-eenu | eːnu	eːnʊ	nɛnu 
+know: nɛnu | eːnu	eːnʊ	nɛnu 
+lake: yi yenggenak | yi yeŋgenak 
+lake: yi yeŋgenak 
+laugh: hɛndɛ | hɛndɛ	kaŋgwe 
+laugh: kaŋgwe | hɛndɛ	kaŋgwe 
+leaf: enga | enga	enq~a	eŋga	ŋga 
+leaf: e(ng)ga | enga	enq~a	eŋga	ŋga 
+leaf: eŋga | enga	enq~a	eŋga	ŋga 
+leaf: ngga | enga	enq~a	eŋga	ŋga 
+leaf: ŋga | enga	enq~a	eŋga	ŋga 
+left: kwaarenggam | kwaːre ŋgam 
+left: kwaːre ŋgam 
+leg: iyok | iyok	koaro	oabelan	owak 
+leg: koaro | iyok	koaro	oabelan	owak 
+leg: oabelan | iyok	koaro	oabelan	owak 
+leg: owak | iyok	koaro	oabelan	owak 
+lie: wenʌɣɛ | wenʌɣɛ	windik wonage | puliːt 
+lie: win-atu! | wenʌɣɛ	windik wonage | puliːt 
+lie: windik wonage | wenʌɣɛ	windik wonage | puliːt 
+lightning: o yabok 
+lip: abe 
+lip: ambɛ 
+live: eenik | eːnik 
+live: eːnik 
+liver: n-atemokun | iniqi	ogogun 
+liver: ogogun | iniqi	ogogun 
+long: elualu | mor	ŋgorek 
+long: mor | mor	ŋgorek 
+long: nggorek | mor	ŋgorek 
+long: ŋgorek | mor	ŋgorek 
+louse: abeː | api 
+louse: abee | api 
+louse: bigiːt | api 
+louse: n-api 
+louse: n-aßɪ | api 
+louse: pɪ | api 
+louse: pe | api 
+man: aap | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+man: ap | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+man: aːp | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+man: enayo | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+man: op | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+many: apit 
+many: yuk | apit 
+meat: agaːgum | agaːgum	ʊno 
+meat: ʊno | agaːgum	ʊno 
+meat: uno | agaːgum	ʊno 
+moon: tor | tor	tut	yambu 
+moon: tut | tor	tut	yambu 
+moon: yambu | tor	tut	yambu 
+morning: kuop 
+mosquito: lamengga\nggan 
+mosquito: lameŋgaʔŋgan 
+mother: agalo | agalo	kuya 
+mother: kuya | agalo	kuya 
+mountain: potom | potom	purom	put	putom	puːrom	pʊːtom	wie 
+mountain: pʊːtom | potom	purom	put	putom	puːrom	pʊːtom	wie 
+mountain: purom | potom	purom	put	putom	puːrom	pʊːtom	wie 
+mountain: puːrom | potom	purom	put	putom	puːrom	pʊːtom	wie 
+mountain: puurom | potom	purom	put	putom	puːrom	pʊːtom	wie 
+mountain: wie | potom	purom	put	putom	puːrom	pʊːtom	wie 
+mouth: abe | abe	ambe	ambɛ 
+mouth: ambe | abe	ambe	ambɛ 
+mouth: ambɛ | abe	ambe	ambɛ 
+mouth: n-abe | abe	ambe	ambɛ 
+name: edeka | edeka	endage	endara	ent~aqe	etaxe	kumiːnɛndarɛ	ɛndaɣɛ 
+name: ɛndaɣɛ | edeka	endage	endara	ent~aqe	etaxe	kumiːnɛndarɛ	ɛndaɣɛ 
+name: endage | edeka	endage	endara	ent~aqe	etaxe	kumiːnɛndarɛ	ɛndaɣɛ 
+name: e(n)daka | edeka	endage	endara	ent~aqe	etaxe	kumiːnɛndarɛ	ɛndaɣɛ 
+name: endara | edeka	endage	endara	ent~aqe	etaxe	kumiːnɛndarɛ	ɛndaɣɛ 
+name: etaxe | edeka	endage	endara	ent~aqe	etaxe	kumiːnɛndarɛ	ɛndaɣɛ 
+name: kumiːnɛndarɛ | edeka	endage	endara	ent~aqe	etaxe	kumiːnɛndarɛ	ɛndaɣɛ 
+nape: iniːŋganok 
+narrow: yagapit 
+navel: ambok 
+navel: namuŋ 
+near: inar | inar	korok 
+near: korok | inar	korok 
+neck: eganok | eganok	egaːnok	eŋgaːnok 
+neck: egaːnok | eganok	egaːnok	eŋgaːnok 
+neck: enggaanok | eganok	egaːnok	eŋgaːnok 
+neck: eŋgaːnok | eganok	egaːnok	eŋgaːnok 
+neck: n-eganok | eganok	egaːnok	eŋgaːnok 
+new: enawoluk | nq~etment~eq	ŋget mendek 
+new: (ng)get | nq~etment~eq	ŋget mendek 
+new: ngget mendek | nq~etment~eq	ŋget mendek 
+new: ŋget mendek | nq~etment~eq	ŋget mendek 
+night: hɔkiabara | hɔkiabara	kipme	o yumak	qime 
+night: hɔkibara | hɔkiabara	kipme	o yumak	qime 
+night: honkia | hɔkiabara	kipme	o yumak	qime 
+night: kiipma | hɔkiabara	kipme	o yumak	qime 
+night: kipme | hɔkiabara	kipme	o yumak	qime 
+night: o yumak | hɔkiabara	kipme	o yumak	qime 
+nose: n-akapak | ogobak	okopak	oqopaq	orobək	ɔrɔbak 
+nose: ogobak | ogobak	okopak	oqopaq	orobək	ɔrɔbak 
+not: lɛgɔ | lek	lɛgɔ 
+not: lek | lek	lɛgɔ 
+not: lɛk | lek	lɛgɔ 
+old: maan medek 
+old: maŋgu 
+old: maːn medek 
+one: abʊ | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+one: abi | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+one: abit | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+one: abɪt-et | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+one: ambe | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+one: ambit | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+one: ambuet | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+one: ambuilit | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+person: aakkuni | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+person: aap | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+person: aːkkʊmɪ | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+person: aːkkʊnɪ | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+person: ap | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+person: aːp | ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+play: wulogwe nggilik kunggwe | wulogwe ŋgilik kuŋgwe 
+play: wulogwe ŋgilik kuŋgwe 
+pull: iniki ale\ nggen mbake 
+pull: iniki aleʔ ŋgen mbake 
+push: panggonggwi 
+push: paŋgoŋgwi 
+rain: mayʊ | mayo	mayu	mayʊ 
+rain: mayo | mayo	mayu	mayʊ 
+rain: mayu | mayo	mayu	mayʊ 
+rat: ambeya 
+red: daːmbu | daːmbu	laːmbu	muya 
+red: laambu | daːmbu	laːmbu	muya 
+red: laːmbu | daːmbu	laːmbu	muya 
+red: muya | daːmbu	laːmbu	muya 
+right: abenggam | anibir	enq~i	eːgi	eːŋgi | abe ŋgam 
+right: abe ŋgam | anibir	enq~i	eːgi	eːŋgi 
+river: yi naga 
+road: to | tu 
+road: tu 
+road: tuŋgok 
+road: tuwan 
+root: omagen 
+rope: ligi 
+rotten: pili 
+round: pʊlegen 
+round: pulu-gen | pʊlegen 
+rub: uli nggungge | uli ŋguŋge 
+rub: uli ŋguŋge 
+salt: mayu | mayu	moyu 
+salt: moyu | mayu	moyu 
+sand: bini | bini	mbini	ǯiː 
+sand: mbini | bini	mbini	ǯiː 
+sand: ǯiː | bini	mbini	ǯiː 
+say: ɛnɔnɛ | bini	mbini	ǯiː 
+say: kone yʊ | bini	mbini	ǯiː 
+say: kone yu! | bini	mbini	ǯiː 
+say: wonɛ | bini	mbini	ǯiː 
+say: wone mbangge | bini	mbini	ǯiː 
+say: wone mbaŋge | bini	mbini	ǯiː 
+say: y- | bini	mbini	ǯiː 
+say: yʊ- | bini	mbini	ǯiː 
+scratch: gibinuo 
+scratch: nggibiinge | gibinuo 
+scratch: ŋgibiːŋge | gibinuo 
+sea: yenggenak 
+sea: yi nggwok 
+sea: yi ŋgwok yeŋgenak 
+seed: anggen | awɪ	aŋgen	aŋgɛn 
+seed: aŋgen | awɪ	aŋgen	aŋgɛn 
+seed: aŋgɛn | awɪ	aŋgen	aŋgɛn 
+seed: awɪ | awɪ	aŋgen	aŋgɛn 
+seed: awi | awɪ	aŋgen	aŋgɛn 
+see: kekekun ket | kekekun ket	keneken na-ket	nikɛr	pek ka-	pekkage	pɛkɛro	qe 
+see: kenaken na-ket! | kekekun ket	keneken na-ket	nikɛr	pek ka-	pekkage	pɛkɛro	qe 
+see: keneken na-ket | kekekun ket	keneken na-ket	nikɛr	pek ka-	pekkage	pɛkɛro	qe 
+see: nikɛr | kekekun ket	keneken na-ket	nikɛr	pek ka-	pekkage	pɛkɛro	qe 
+see: pɛkɛro | kekekun ket	keneken na-ket	nikɛr	pek ka-	pekkage	pɛkɛro	qe 
+see: pek ka- | kekekun ket	keneken na-ket	nikɛr	pek ka-	pekkage	pɛkɛro	qe 
+see: pekkage | kekekun ket	keneken na-ket	nikɛr	pek ka-	pekkage	pɛkɛro	qe 
+sharp: eerakambik | eːrakambik 
+sharp: eːrakambik 
+short: kuwagaluk 
+sing: dawowariak | dawowariak	ndawi wake 
+sing: ndawi wake | dawowariak	ndawi wake 
+sit: kwenado | kwenado	kwitnɛro	kwiʔnage 
+sit: kwi\nage | kwenado	kwitnɛro	kwiʔnage 
+sit: kwiʔnage | kwenado	kwitnɛro	kwiʔnage 
+sit: kwit-natu! | kwenado	kwitnɛro	kwiʔnage 
+sit: kwitnɛro | kwenado	kwitnɛro	kwiʔnage 
+skin: agabelo | agabelo	akalɗo	akapotlo	aqapelo	arabolok	inarabolok 
+skin: akalëo | agabelo	akalɗo	akapotlo	aqapelo	arabolok	inarabolok 
+skin: akapotlo | agabelo	akalɗo	akapotlo	aqapelo	arabolok	inarabolok 
+skin: (in)arabolok | agabelo	akalɗo	akapotlo	aqapelo	arabolok	inarabolok 
+skin: n-akatlo | agabelo	akalɗo	akapotlo	aqapelo	arabolok	inarabolok 
+sky: bɔrut | bɔrut	mbogut 
+sky: mbogut | bɔrut	mbogut 
+sleep: nogo yege | nogo yege	noko y-	nɔrɔ	nɔrɔyudak 
+sleep: noko y- | nogo yege	noko y-	nɔrɔ	nɔrɔyudak 
+sleep: noko yu! | nogo yege	noko y-	nɔrɔ	nɔrɔyudak 
+sleep: nɔrɔ(yudak) | nogo yege	noko y-	nɔrɔ	nɔrɔyudak 
+small: buːlʊk | buluk	buːlʊk	mbuːluk 
+small: buluk | buluk	buːlʊk	mbuːluk 
+small: mbuːluk | buluk	buːlʊk	mbuːluk 
+small: mbuuluk | buluk	buːlʊk	mbuːluk 
+smell: owari 
+smoke: kaluk | ka-luk	kaluk	totle 
+smoke: ka-luk | ka-luk	kaluk	totle 
+smoke: totle | ka-luk	kaluk	totle 
+snake: waalo | waːlo 
+snake: waːlo 
+son: apʰʊt 
+son: wulore 
+spit: awoori pege | awoːri pege 
+spit: kondok | awoːri pege 
+spit: toŋgok | awoːri pege 
+spit: wɔdi | awoːri pege 
+split: nggaganak | ŋgaganak 
+split: ŋgaganak 
+stand: men-atʊ | men-atʊ	mɪʔ-natʊ 
+stand: men-atu! | men-atʊ	mɪʔ-natʊ 
+stand: mi\nage | men-atʊ	mɪʔ-natʊ 
+stand: mɪʔ-natʊ | men-atʊ	mɪʔ-natʊ 
+star: lalikutakan | laluguragan	laluqutaqan 
+star: laluguragan | laluguragan	laluqutaqan 
+stick: kuwa | miʔndik 
+stone: yʊkʊm | yogum	yugum	yugʊm	yukum	yuqum	yʊkʊm 
+stone: yogum | yogum	yugum	yugʊm	yukum	yuqum	yʊkʊm 
+stone: yugʊm | yogum	yugum	yugʊm	yukum	yuqum	yʊkʊm 
+stone: yugum | yogum	yugum	yugʊm	yukum	yuqum	yʊkʊm 
+stone: yukum | yogum	yugum	yugʊm	yukum	yuqum	yʊkʊm 
+straight: mot-mot 
+suck: nik nengge | nik neŋge 
+suck: nik neŋge 
+sun: mo | mo	mɔ	o-neken	oneqen	oːnegen	yawo 
+sun: mɔ | mo	mɔ	o-neken	oneqen	oːnegen	yawo 
+sun: oːnegen | mo	mɔ	o-neken	oneqen	oːnegen	yawo 
+sun: o-neken | mo	mɔ	o-neken	oneqen	oːnegen	yawo 
+sun: oonegen | mo	mɔ	o-neken	oneqen	oːnegen	yawo 
+sun: yawo | mo	mɔ	o-neken	oneqen	oːnegen	yawo 
+swell: piirik 
+swim: gʊme wato | gʊme wato	gʊːʔmo wato	ŋgume wake 
+swim: gʊːʔmo wato | gʊme wato	gʊːʔmo wato	ŋgume wake 
+swim: gume watu! | gʊme wato	gʊːʔmo wato	ŋgume wake 
+swim: ŋgume wake | gʊme wato	gʊːʔmo wato	ŋgume wake 
+tail: aɣɛ | aga	ake	aɣɛ	barak 
+tail: aga | aga	ake	aɣɛ	barak 
+tail: ake | aga	ake	aɣɛ	barak 
+tail: barak | aga	ake	aɣɛ	barak 
+take: pigagangge 
+take: yɔkor kumakwe 
+that: etti | etti	ti	tɪ	ɪtʊ | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+that: iti | etti	ti	tɪ	ɪtʊ | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+that: ɪtʊ | etti	ti	tɪ	ɪtʊ | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+that: tɪ | etti	ti	tɪ	ɪtʊ | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+that: ti | etti	ti	tɪ	ɪtʊ | abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+there: ariːte | rute 
+there: rute 
+they: it 
+they: kaduk | it 
+thick: ŋgwok 
+thigh: nambulok 
+thin: pe\ler | peʔler 
+thin: peʔler 
+this: yi | yi	ži 
+this: ži | yi	ži 
+thorn: alok 
+thou: kaːn | kar	kat	kaːn	kʰat 
+thou: kar | kar	kat	kaːn	kʰat 
+thou: kat | kar	kat	kaːn	kʰat 
+thou: kʰat | kar	kat	kaːn	kʰat 
+thou: kereŋga | kar	kat	kaːn	kʰat 
+thou: kit | kar	kat	kaːn	kʰat 
+three: kenagan | henahen	kenagan	kɛnaran 
+three: kɛnaran | henahen	kenagan	kɛnaran 
+throw: yugum nambuke 
+thunder: onggurubu 
+thunder: oŋgurubu 
+tie: keelemake | kelemakwe	keːlemaːke 
+tie: keːlemaːke | kelemakwe	keːlemaːke 
+tie: kelemakwe | kelemakwe	keːlemaːke 
+today: yorondak 
+tomorrow: kɔlu 
+tongue: amela | amela	amele	enamili	ɑmili 
+tongue: enamili | amela	amele	enamili	ɑmili 
+tongue: ɑmili | amela	amele	enamili	ɑmili 
+tongue: n-amili | amela	amele	enamili	ɑmili 
+tooth: eik | eik	eyak	eyaq	ik	neak	neik	ɛniyak	ɪk 
+tooth: ɛniyak | eik	eyak	eyaq	ik	neak	neik	ɛniyak	ɪk 
+tooth: eyak | eik	eyak	eyaq	ik	neak	neik	ɛniyak	ɪk 
+tooth: eyak ~ ik | eik	eyak	eyaq	ik	neak	neik	ɛniyak	ɪk 
+tooth: ik | eik	eyak	eyaq	ik	neak	neik	ɛniyak	ɪk 
+tooth: ɪk | eik	eyak	eyaq	ik	neak	neik	ɛniyak	ɪk 
+tooth: n-aik | eik	eyak	eyaq	ik	neak	neik	ɛniyak	ɪk 
+tooth: neak | eik	eyak	eyaq	ik	neak	neik	ɛniyak	ɪk 
+tooth: neik | eik	eyak	eyaq	ik	neak	neik	ɛniyak	ɪk 
+tooth: n-ik | eik	eyak	eyaq	ik	neak	neik	ɛniyak	ɪk 
+tree: eyo 
+turn: yendok-wandok 
+turn: yendok-yendok 
+two: bere | bere	bilɛ	mbere	mbɛrɛ	npete 
+two: bilɛ | bere	bilɛ	mbere	mbɛrɛ	npete 
+two: mbere | bere	bilɛ	mbere	mbɛrɛ	npete 
+two: mbɛrɛ | bere	bilɛ	mbere	mbɛrɛ	npete 
+two: (m)bete | bere	bilɛ	mbere	mbɛrɛ	npete 
+vagina: eget 
+vomit: peyak wuke 
+walk: enak | enak	nage	nak 
+walk: enak! | enak	nage	nak 
+walk: nage | enak	nage	nak 
+walk: nak | enak	nage	nak 
+walk: norɛ | enak	nage	nak 
+walk: nuo | enak	nage	nak 
+warm: aganggen | akagen 
+warm: agaŋgen | akagen 
+warm: akagen 
+wash: ko¾ke lambunogo keːle maːke | koʼke lambunogo keːle maːke 
+wash: kooke | koʼke lambunogo keːle maːke 
+wash: kooke lambunogo keele maake | koʼke lambunogo keːle maːke 
+wash: nggume wake | koʼke lambunogo keːle maːke 
+water: i | i	mio	nio	niyo	niɔ	yi	ži 
+water: mio | i	mio	nio	niyo	niɔ	yi	ži 
+water: nio | i	mio	nio	niyo	niɔ	yi	ži 
+water: niɔ | i	mio	nio	niyo	niɔ	yi	ži 
+water: niyo | i	mio	nio	niyo	niɔ	yi	ži 
+water: yi | i	mio	nio	niyo	niɔ	yi	ži 
+water: ži | i	mio	nio	niyo	niɔ	yi	ži 
+weep: lɛyorɛ 
+weep: li yege 
+we (excl.): nit 
+we (excl.): niːt 
+we (incl.): nit 
+we (incl.): niːt 
+we: nit | nit	niːt 
+wet: miin | miːn 
+wet: miːn 
+what: nanɛ | nano	nano-mede	nano-o	nanɔ	nanɛ 
+what: nano | nano	nano-mede	nano-o	nanɔ	nanɛ 
+what: nanɔ | nano	nano-mede	nano-o	nanɔ	nanɛ 
+what: nano-mede | nano	nano-mede	nano-o	nanɔ	nanɛ 
+what: nano-o | nano	nano-mede	nano-o	nanɔ	nanɛ 
+when: mɑdenom 
+where: gemɛ | gemɛ	gimɛyo 
+where: gimɛyo | gemɛ	gimɛyo 
+white: laambu | laːbu	laːmbu	mola 
+white: laːbu | laːbu	laːmbu	mola 
+white: laːmbu | laːbu	laːmbu	mola 
+white: mola | laːbu	laːmbu	mola 
+who: kɛtao | kɛtao	ta 
+who: ta | kɛtao	ta 
+wide: ŋgwok 
+wife: akwe 
+wind: wiya 
+wing: eeruwak | eːruwak 
+wing: eːruwak 
+wipe: koːke 
+woman: aned | aned	kome	korome	kwe	kʰwɛ 
+woman: kome | aned	kome	korome	kwe	kʰwɛ 
+woman: korome | aned	kome	korome	kwe	kʰwɛ 
+woman: kwe | aned	kome	korome	kwe	kʰwɛ 
+woman: kʰwɛ | aned	kome	korome	kwe	kʰwɛ 
+wood: dɔlu 
+wood: eyo 
+wood: kua 
+wood: kuwa 
+wood: o 
+wood: teno(yi) 
+wood: yawi 
+worm: puːron 
+yellow: laambu | laːmbu 
+yellow: laːmbu 
+yellow: mola | laːmbu 
+yes: harit 
+yesterday: kɔbiːt 
+you: kit | kar	kat	kaːn	kʰat | kereŋga	kit 
+every: apikumalak	tigitongon	ɛwɛro 
+ash: kaniŋgɛn	wun	wun awi 
+abdomen: anaralɛ	anokʊm	aːn-okʊm	hanaralɛ 
+bigness: gwok	ŋgok	ŋgwok	ŋgʌk	ɛŋgɔkalɔ 
+large: gwok	ŋgok	ŋgwok	ŋgʌk	ɛŋgɔkalɔ 
+breasts: elak	elaq	namaruwak 
+come from: amok	omok	omoq	wa-	wɔrɛ 
+be dead: kaŋgerak	kaŋgwe	qanq~e 
+dead: kaŋgerak	kaŋgwe	qanq~e 
+ground: gwen 
+land: gwen 
+soil: gwen 
+fly: pʊtnʊk	wiganinuk naga	wikaːnɪnuk naka 
+fly v.: pʊtnʊk	wiganinuk naga	wikaːnɪnuk naka 
+left hand: anibir	enq~i	eːgi	eːŋgi 
+1 sg.: an 
+be knowledgeable: eːnu	eːnʊ	nɛnu 
+lie down: wenʌɣɛ	windik wonage 
+head louse: api 
+male: ap	aːp	enayo	op 
+much: apit 
+multiple: apit 
+several: apit 
+hill: potom	purom	put	putom	puːrom	pʊːtom	wie 
+title: edeka	endage	endara	ent~aqe	etaxe	kumiːnɛndarɛ	ɛndaɣɛ 
+nighttime: hɔkiabara	kipme	o yumak	qime 
+adulterous: abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+single: abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+the: abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+unprincipled: abit	abɪt-et	abʊ	ambe	ambit	ambuet	ambuilit	anpit	opakiat 
+human: ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+human being: ap	apqumi	aːkkʊmɪ	aːkkʊnɪ	aːp 
+rainy weather: mayo	mayu	mayʊ 
+path: tu 
+route: tu 
+hide: agabelo	akalɗo	akapotlo	aqapelo	arabolok	inarabolok 
+little: buluk	buːlʊk	mbuːluk 
+smallness: buluk	buːlʊk	mbuːluk 
+rock: yogum	yugum	yugʊm	yukum	yuqum	yʊkʊm 
+2 sg: kar	kat	kaːn	kʰat 
+grind: bere	bilɛ	mbere	mbɛrɛ	npete 
+go: enak	nage	nak 
+hot: akagen 
+1 pl. inc.: nit	niːt 
+we₁: nit	niːt 
+whiteness: laːbu	laːmbu	mola 
+who?: kɛtao	ta 
+female: aned	kome	korome	kwe	kʰwɛ 
+distant: nda-nda	ondaːnda 
+dull: aniŋgin 
+serious: aniŋgin 
+close: inar	korok 
+ner: inar	korok 
+earthworm: puːron 
+3 sg.: aryi 
+he: aryi 
+she: aryi 
+2 pl.: kereŋga	kit 
+ye: kereŋga	kit 
+you all: kereŋga	kit 
+3 pl.: it 
+where?: gemɛ	gimɛyo 
+when?: mɑdenom 
+broad: ŋgwok 
+wideness: ŋgwok 
+fat: ŋgwok 
+principal wife: akwe 
+his mother: agalo	kuya 
+my mother: agalo	kuya 
+his father: ogoba	oroba 
+my father: ogoba	oroba 
+woods: eyo ŋga me	iŋgamɛ 
+cord: ligi 
+flesh: agaːgum	ʊno 
+nail: enegen	ɛnɛgabiːt 
+breath: ambe agabuk wuŋge	amuŋgut 
+laughter: hɛndɛ	kaŋgwe 
+alive: eːnik 
+be alive: eːnik 
+life: eːnik 
+living: eːnik 
+beat: wake 
+strike: wake 
+cut open: ŋgaganak 
+pierce: warogo mambege 
+stab: warogo mambege 
+tell lies: puliːt 
+drop: yigeːbu waŋge 
+wash clothes: koʼke lambunogo keːle maːke 
+bind: kelemakwe	keːlemaːke 
+fasten: kelemakwe	keːlemaːke 
+tie up: kelemakwe	keːlemaːke 
+enumerate: eːŋgi luŋguŋge	liːŋgiːŋwe 
+number: eːŋgi luŋguŋge	liːŋgiːŋwe 
+tally: eːŋgi luŋguŋge	liːŋgiːŋwe 
+have fun: wulogwe ŋgilik kuŋgwe 
+brook: yi naga 
+stream: yi naga 
+evil: anini ambik	maluk 
+rot: pili 
+filthy: mili 
+soiled: mili 
+blunt: errak lek 
+damp: miːn 
+right side: abe ŋgam 

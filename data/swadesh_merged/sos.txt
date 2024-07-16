@@ -1,0 +1,249 @@
+all: mãḿlɛ 
+every: mãḿlɛ 
+ash: búkã 
+ashes: búkã 
+bark: gɔ́ɔ kɛ́	kɛ́ 
+big: blé 
+bigness: blé 
+large: blé 
+bird: kàn	kã 
+bite: kɔ 
+black: cíé 
+blood: nəma	nə́maə 
+bone: ko	kɔ́ zɔ 
+breast: ky~E	kyɛ́ 
+breasts: ky~E	kyɛ́ 
+cold: mini 
+come: na	nɛ 
+come from: na	nɛ 
+be dead: ky~i	kyí	tyì 
+dead: ky~i	kyí	tyì 
+die: ky~i	kyí	tyì 
+dog: dy~ige	ɟige	ɟìgè 
+drink: mi	mĩ 
+dry: gɔɔ́ 
+ear: to	toò	tòo 
+earth: gɔ̀ː 
+ground: gɔ̀ː 
+land: gɔ̀ː 
+soil: gɔ̀ː 
+eat: nũmɛ sã́nó 
+egg: yɛ̀ː 
+eye: dy~uni	ɟíní 
+feather: ta 
+fire: ta	tá 
+fish: kw~E	kwɛ́ɛ 
+fly: sɛ́ 
+fly v.: sɛ́ 
+foot: cɛ̃́	kyèn 
+full: f3ga	faː 
+give: baːkà	kyɛ 
+good: sògo 
+green: nireè 
+hair: kúɔ́ sugiː	sugiː 
+hand: cɛ	ky~E 
+left hand: cɛ	ky~E 
+right: cɛ	ky~E 
+head: kúɔ́ 
+hear: mE	mɛɛ̀ 
+heart: brò 
+horn: bi	bin	bĩ́ 
+kill: bwò	bó 
+knee: címiː kɔ̃	ty~imi 
+be knowledgeable: náa to	tyò	tó 
+know: náa to	tyò	tó 
+leaf: tiri	titi	tri 
+lie: síŋá 
+lie down: síŋá 
+liver: boron	bro 
+long: ɟũ 
+male: korɛ 
+man: mo	múɔ 
+many: mõmã́ 
+much: mõmã́ 
+multiple: mõmã́ 
+several: mõmã́ 
+flesh: kɛ̀ka 
+meat: kɛ̀ka 
+moon: kɛ 
+hill: dy~un	ɟũ 
+mountain: dy~un	ɟũ 
+mouth: do	dzo 
+name: togo	tɔ́tɔ 
+title: togo	tɔ́tɔ 
+neck: gúː 
+new: sigE	sigɛ	sigɛɛ̀ 
+night: guɔ	guɔ-fɛ́nɛ́	gw~o 
+nighttime: guɔ	guɔ-fɛ́nɛ́	gw~o 
+nose: bunu	búrṹ 
+not: nɛ	ŋɛː 
+adulterous: soen	sóɛ̃́ː	sōēn 
+one: soen	sóɛ̃́ː	sōēn 
+single: soen	sóɛ̃́ː	sōēn 
+that: soen	sóɛ̃́ː	sōēn 
+the: soen	sóɛ̃́ː	sōēn 
+unprincipled: soen	sóɛ̃́ː	sōēn 
+human: mo	múɔ 
+human being: mo	múɔ 
+person: mo	múɔ 
+rain: sɔ́ní 
+rainy weather: sɔ́ní 
+red: siɛ̃́ 
+root: gɔ́ɔ ŋwini	ŋwini 
+round: kurukuru 
+sand: cíŋɛɛ̀ 
+say: ɟú 
+see: dy~o	gwíː 
+seed: dè	gɔ́ɔ dè 
+sit: togò 
+hide: tsun	tsùn	tsṹ 
+skin: tsun	tsùn	tsṹ 
+sleep: ciré	kirɛ 
+little: mwɛ̃̂ː 
+small: mwɛ̃̂ː 
+smallness: mwɛ̃̂ː 
+smoke: táturu 
+star: kalE	kallɛ	sɛ́ŋánɛ́ 
+rock: kunun	kunṹ 
+stone: kunun	kunṹ 
+sun: sont~a	sɔ́ńtá 
+swim: nṍnãʏ̈ 
+tail: kura 
+this: alɛ̀	lɛ̀ 
+tongue: nen	niì	nèːn 
+tooth: cen	dzɛ̃ 
+tree: go 
+grind: fi	fí	fĩ́ 
+two: fi	fí	fĩ́ 
+go: kɔ́ː 
+walk: kɔ́ː 
+water: dyo	jo	ɟo 
+1 pl. inc.: wi 
+we: wi 
+we₁: wi 
+what: fɛnɛ́ 
+white: kã́ 
+whiteness: kã́ 
+who: tɛ́ 
+who?: tɛ́ 
+female: mini	mi̪ní 
+woman: mini	mi̪ní 
+yellow: nɛ́ːfa 
+distant: ɟṹ 
+far: ɟṹ 
+dull: gìrɛ 
+heavy: gìrɛ 
+serious: gìrɛ 
+close: kùrɛ̀ 
+near: kùrɛ̀ 
+ner: kùrɛ̀ 
+salt: nyígɛ́	nyɛ́gɛ́ 
+snake: mĩ́ɛ̃ 
+thin: nogɔ́ 
+wind: fóo 
+earthworm: mìreè 
+worm: mìreè 
+year: ɟù 
+here: lɔ́ 
+there: lɔ́ŋɛ́ 
+where: mĩ́ 
+where?: mĩ́ 
+when: sɔ́nɛnɛ 
+when?: sɔ́nɛnɛ 
+how: tsə́ 
+how?: tsə́ 
+few: mwɛ̃́mwɛ̃ 
+other: sṍŋwà 
+three: suɛ̀	suὲ 
+four: nàa	nàː 
+five: nõ	nō 
+child: doⁿ	dṹnũ 
+his mother: nyà 
+mother: nyà 
+my mother: nyà 
+father: ńní 
+his father: ńní 
+my father: ńní 
+animal: kaká 
+forest: tú 
+woods: tú 
+branch: cɛ̃	gɔ́ɔ cɛ̃ 
+stick: cɛ̃	gɔ́ɔ cɛ̃ 
+fruit: dè	gɔ́ɔ dè 
+flower: gɔ́ɔ ká	ká 
+grass: bṹ 
+cord: ba 
+rope: ba 
+fat: nwónó 
+grease: nwónó 
+claw: ka	kpenĩ ká 
+fingernail: ka	kpenĩ ká 
+nail: ka	kpenĩ ká 
+leg: cɛ̃́ 
+wing: ta 
+gut: nígéː 
+guts: nígéː 
+insides: nígéː 
+intestine: nígéː 
+intestines: nígéː 
+back: bò	bó 
+suck: sugɛ 
+vomit: cúɛ 
+laugh: ɟí 
+laughter: ɟí 
+cogitate: ŋã́ː símí 
+reflect: ŋã́ː símí 
+think: ŋã́ː símí 
+smell: kunu mɛɛ̀ 
+sniff: kunu mɛɛ̀ 
+beat: bã́ 
+hit: bã́ 
+strike: bã́ 
+cut: tsĩ́ 
+hack: tsĩ́ 
+pierce: fóró 
+stab: fóró 
+dig: sɛ̃ɛ̃ʏ̈ 
+tell lies: dáa 
+drop: blá	bəla 
+fall: blá	bəla 
+grasp: cɛ̀	kṹ 
+hold: cɛ̀	kṹ 
+hold in arm: cɛ̀	kṹ 
+squeeze: ŋwõː 
+wring: ŋwõː 
+rub: titá 
+wipe: titá 
+wash: wɛ́ fugɔ́ 
+wash clothes: wɛ́ fugɔ́ 
+throw: fié 
+bind: fíɛɛ̀	fɛː 
+fasten: fíɛɛ̀	fɛː 
+tie: fíɛɛ̀	fɛː 
+tie up: fíɛɛ̀	fɛː 
+sew: kpɔɔ́ 
+sing: kueː	kúéː 
+flow: ɟuɛ 
+brook: saǹku 
+river: saǹku 
+stream: saǹku 
+dust: tunúnú 
+fog: núŋúnuŋù 
+sky: sɔ́ː 
+day: kirɛ 
+daylight: kirɛ 
+daytime: kirɛ 
+bad: nyũɛ̃ː 
+evil: nyũɛ̃ː 
+rot: fógɛ́ 
+rotten: fógɛ́ 
+dirty: nógɔ́ 
+filthy: nógɔ́ 
+soiled: nógɔ́ 
+straight: tígí sĩ́ː 
+sharp: do díɛ́ 
+damp: sírɛ̃́ 
+wet: sírɛ̃́ 
+correct: siɛbɛ 
+right side: mɛ̃ːte 
+left: note 

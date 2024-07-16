@@ -1,0 +1,314 @@
+all: pilu	piluyĩ 
+every: pilu	piluyĩ 
+ash: tanɛmu 
+ashes: tanɛmu 
+bark: wɨla-pilɛ 
+big: taʔɨ-luwã 
+bigness: taʔɨ-luwã 
+large: taʔɨ-luwã 
+bird: wɨla 
+bite: -suʔu 
+black: -ũ	piyũ 
+blood: -l-uwɨ	t3E7E	tuw3 
+bone: ka*NE	ka*Nw~e	kãŋɛ 
+breast: ka*	susu 
+breasts: ka*	susu 
+claw: pãpɛ̃ 
+nail: pãpɛ̃ 
+talon: pãpɛ̃ 
+cloud: ɨwakũ 
+cold: -l-ɔʔɨ	luwã 
+come: -yɔ	Eyo 
+come from: -yɔ	Eyo 
+be dead: -manɔ̃	amɨ	omano*	oyaka7a 
+dead: -manɔ̃	amɨ	omano*	oyaka7a 
+die: -manɔ̃	amɨ	omano*	oyaka7a 
+dog: yawa	yawara 
+drink: -ʔu	37u	o7u 
+dry: -sikã	-tala	sini 
+ear: apɨa-kwa	namb~i 
+earth: pɨlũŋa	ɨwɨ 
+ground: pɨlũŋa	ɨwɨ 
+land: pɨlũŋa	ɨwɨ 
+soil: pɨlũŋa	ɨwɨ 
+eat: -u	-y-miʔu 
+egg: -l-upiʔa 
+eye: -l-ɛa	lEa 
+feather: pɛpɔ 
+fire: tata 
+fish: pila	pira 
+fly: -wɛwɛ 
+fly v.: -wɛwɛ 
+foot: pɨ 
+full: opolo*	t3nE*	tɨnɛ̃	ɛtãlũ 
+give: -mɛ̃ʔɛ̃ 
+good: i-wɔtɛ	katu 
+hand: po	pɔ 
+left hand: po	pɔ 
+right: po	pɔ 
+head: ãkã 
+hear: -apɨa	enu	oap3a 
+heart: tuluãkã 
+horn: a*mila*si*	namirasi*	ãmilãsĩ 
+1 sg.: a-	iyɛ 
+I: a-	iyɛ 
+kill: -yka 
+knee: -l-ɛnɨpɨʔã 
+be knowledgeable: -kuwa 
+know: -kuwa 
+leaf: ka7alo	kaʔa-lɔ	lo 
+lie: -tɔlɛ 
+lie down: -tɔlɛ 
+liver: p3a	p3akw~e	pɨa 
+long: puku 
+head louse: k3	kɨɨ 
+louse: k3	kɨɨ 
+male: kwimaʔɛ 
+man: awaluwa*	mil	mira	tɛkɔ 
+many: yatɨ 
+much: yatɨ 
+multiple: yatɨ 
+several: yatɨ 
+flesh: -l-ɔʔɔ 
+meat: -l-ɔʔɔ 
+moon: yaɨ 
+hill: 3w3t3	3w3ti	ɨwɨ-tɨ 
+mountain: 3w3t3	3w3ti	ɨwɨ-tɨ 
+mouth: yulu 
+name: er	ɛɛ 
+title: er	ɛɛ 
+neck: alɨpɨ 
+new: p3au	pɨau 
+night: 3p3a	p3tu*	ɨpɨa 
+nighttime: 3p3a	p3tu*	ɨpɨa 
+nose: si*	sĩ 
+adulterous: pE*7i*	pEsu	peʼĩ 
+one: pE*7i*	pEsu	peʼĩ 
+single: pE*7i*	pEsu	peʼĩ 
+that: pE*7i*	pEsu	peʼĩ 
+the: pE*7i*	pEsu	peʼĩ 
+unprincipled: pE*7i*	pEsu	peʼĩ 
+human: awaluwa*	mil	mira	tɛkɔ 
+human being: awaluwa*	mil	mira	tɛkɔ 
+person: awaluwa*	mil	mira	tɛkɔ 
+rain: amã 
+rainy weather: amã 
+red: pilã	pɨtã 
+path: ape	pEla* 
+road: ape	pEla* 
+route: ape	pEla* 
+root: -l-apɔ 
+round: talãwã 
+sand: ɨsĩ 
+say: -ʔɛ 
+see: -ɛsa	omaya*	wEsa 
+seed: -l-ãʔɨ̃y 
+sit: -apɨ 
+hide: pilE	pilɛ	pire 
+skin: pilE	pilɛ	pire 
+sleep: -kɛ 
+little: -miti	-sisi	kiãwĩ	taʔɨ 
+small: -miti	-sisi	kiãwĩ	taʔɨ 
+smallness: -miti	-sisi	kiãwĩ	taʔɨ 
+smoke: atãsĩ 
+star: ya3tata	yaɨ-tata 
+rock: takulu	takuru 
+stone: takulu	takuru 
+sun: kwalaɨ	kw~ala3	kw~ara3 
+swim: -ɨa 
+tail: -lu-way 
+2 sg: ElE	ka	ɛlɛ-	ɛnɛ 
+thou: ElE	ka	ɛlɛ-	ɛnɛ 
+you: ElE	ka	ɛlɛ-	ɛnɛ 
+tongue: apEku*	apeku*	apɛkũ 
+tooth: -l-ãʔɨ̃	a*73*y	a*y 
+tree: 3w3ra	w3la 
+grind: moko*y	molEyo*	monijũ	mɔkɔ̃y 
+two: moko*y	molEyo*	monijũ	mɔkɔ̃y 
+go: -ata 
+walk: -ata 
+hot: aku 
+warm: aku 
+water: ɨɨ 
+1 pl. inc.: olo	ya-	yane	yanɛ 
+we: olo	ya-	yane	yanɛ 
+we₁: olo	ya-	yane	yanɛ 
+what: mɔmaʔɛ 
+white: sĩ	yu 
+whiteness: sĩ	yu 
+who: awa 
+who?: awa 
+female: waĩwĩ 
+woman: waĩwĩ 
+yellow: tawa 
+distant: kɔipɛ 
+far: kɔipɛ 
+dull: pɔwɨ 
+heavy: pɔwɨ 
+serious: pɔwɨ 
+close: pɨi 
+near: pɨi 
+ner: pɨi 
+salt: sautu	yukɨ 
+short: atu 
+snake: mɔy 
+thin: salala	sili 
+wind: ɨwɨtu 
+earthworm: ɛwɔi 
+worm: ɛwɔi 
+year: kwalaɨ 
+2 pl.: pɛ-	pɛyɛ 
+ye: pɛ-	pɛyɛ 
+you all: pɛ-	pɛyɛ 
+3 pl.: ãwĩ-kũ	ɔ-...-kupa 
+they: ãwĩ-kũ	ɔ-...-kupa 
+where: mapɛ 
+where?: mapɛ 
+when: manɨwɔ-lɛmɛ̃ 
+when?: manɨwɔ-lɛmɛ̃ 
+how: manɨwɔ 
+how?: manɨwɔ 
+some: yatɨ-saʔu 
+few: au	miti 
+three: maapɨ	moapy 
+four: i-lũ-tɛ	irõte 
+five: jaty	yanɛ-pɔ-pa-katu 
+broad: pɛwu 
+wide: pɛwu 
+wideness: pɛwu 
+fat: ka 
+thick: anã 
+narrow: kwaʔi	pɔʔi 
+child: yaʔɨ 
+principal wife: -lɛ-lɛkwa 
+wife: -lɛ-lɛkwa 
+husband: mẽ 
+his mother: mãmã	ɨ 
+mother: mãmã	ɨ 
+my mother: mãmã	ɨ 
+father: -l-u	papa 
+his father: -l-u	papa 
+my father: -l-u	papa 
+animal: mɔmaʔɛ 
+forest: kaʔa 
+woods: kaʔa 
+branch: -l-ãkã 
+stick: -l-ãkã 
+fruit: ʔa 
+flower: pɔtɨ 
+grass: kaʔa	kaʔapiʔi	kwãkwã 
+cord: kulawa 
+rope: kulawa 
+grease: ka 
+fingernail: pãpɛ̃ 
+leg: -l-ɛtɨmã 
+wing: pɛpɔ-kã 
+gut: ɨkɛ 
+guts: ɨkɛ 
+insides: ɨkɛ 
+intestine: ɨkɛ 
+intestines: ɨkɛ 
+back: apɛ 
+suck: -mɔ-susu 
+spit: -l-ɛnɨ	-yɛnɨmũ 
+vomit: -wɛ̃ʔɛ̃ 
+blow: -pɛyu 
+breath: -y-pɨtuɛkɨi 
+breathe: -y-pɨtuɛkɨi 
+laugh: nupi 
+laughter: nupi 
+cogitate: -yaʔa 
+reflect: -yaʔa 
+think: -yaʔa 
+smell: -tũ	-ɛ̃tɔ̃ 
+sniff: -tũ	-ɛ̃tɔ̃ 
+afraid: -kɨyɛ 
+be afraid: -kɨyɛ 
+fear: -kɨyɛ 
+fright: -kɨyɛ 
+alive: -wɛtɛyĩ 
+be alive: -wɛtɛyĩ 
+life: -wɛtɛyĩ 
+live: -wɛtɛyĩ 
+living: -wɛtɛyĩ 
+fight: -pilili	-yapisi 
+hunt: -wɛla 
+beat: -nupã 
+hit: -nupã 
+strike: -nupã 
+cut: -kɨsi 
+hack: -kɨsi 
+cut open: -mɔʔi	-ɔka 
+split: -mɔʔi	-ɔka 
+pierce: -mɔ-mu	-pupu 
+stab: -mɔ-mu	-pupu 
+dig: -pɨkɔ̃y 
+tell lies: wali 
+stand: -puʔã 
+turn: -yɛwɨ 
+turn around: -yɛwɨ 
+turn round: -yɛwɨ 
+drop: -ʔa 
+fall: -ʔa 
+grasp: -pɔlu 
+hold: -pɔlu 
+hold in arm: -pɔlu 
+squeeze: -amĩ 
+wring: -amĩ 
+rub: -kutu 
+wipe: -kutu 
+wash: -kusu 
+wash clothes: -kusu 
+push: -mɔ-ayã 
+shove: -mɔ-ayã 
+throw: -mɔ-mɔ	-yapiãpi 
+bind: -pãsĩ 
+fasten: -pãsĩ 
+tie: -pãsĩ 
+tie up: -pãsĩ 
+sew: -asa-asa 
+count: -papa 
+enumerate: -papa 
+number: -papa 
+tally: -papa 
+sing: -yɛ̃ŋa 
+have fun: -malay 
+play: -malay 
+float: -mu	-wɛwɨy 
+flow: -pɛy	-sululu 
+brook: tɨãkã	ɨɨ 
+river: tɨãkã	ɨɨ 
+stream: tɨãkã	ɨɨ 
+lake: ɨpa 
+ocean: palana 
+sea: palana 
+dust: kuʔi 
+fog: atãsĩ 
+sky: ɨwa 
+ice: iluwã mãʔɛ̃ 
+blaze: -ɛnɨ 
+burn: -ɛnɨ 
+day: aa	alɨwɔ 
+daylight: aa	alɨwɔ 
+daytime: aa	alɨwɔ 
+bad: ni-katu-i 
+evil: ni-katu-i 
+rot: nɛ̃ 
+rotten: nɛ̃ 
+dirty: kɨʔa 
+filthy: kɨʔa 
+soiled: kɨʔa 
+straight: tɛlɛ̃ 
+sharp: aimɛ 
+blunt: n-aimɛ-y 
+smooth: sɨlɨ 
+damp: -mɔ-ɨ	suʔũ 
+wet: -mɔ-ɨ	suʔũ 
+correct: wɔtɛ 
+right side: ɛʔɛ-katu 
+left: ɛyau 
+in: pupɛ	pɛ 
+inside: pupɛ	pɛ 
+and: lɛwɛ 
+if: lɛmɛkaipɔ 
+because: lɛwamũ 

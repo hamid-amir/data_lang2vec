@@ -1,0 +1,310 @@
+all: -tɨʼpe 
+every: -tɨʼpe 
+ash: wehepe 
+ashes: wehepe 
+bark: ata-mai	ažata 
+big: au	ki-kĩyãkã	weke 
+bigness: au	ki-kĩyãkã	weke 
+large: au	ki-kĩyãkã	weke 
+bird: kuhupɨža-tɨ 
+bite: taluka 
+black: itʸula	yalaʼki 
+blood: -ɨža	iZai 
+bone: -napɨ	nap3 
+breast: -hɨ̃	h3* 
+breasts: -hɨ̃	h3* 
+claw: -hupa 
+nail: -hupa 
+talon: -hupa 
+cloud: iye-pe 
+cold: amɨna	ka-tɨka 
+come: pei	t-uwa	tua 
+come from: pei	t-uwa	tua 
+be dead: a-kama	akama 
+dead: a-kama	akama 
+die: a-kama	akama 
+dog: awaulu-kuʼma	awaulukuma* 
+drink: tuka	tuuka 
+dry: uluhɨ 
+ear: -tuʼlũ	tulu* 
+earth: kehɨ-tɨ 
+ground: kehɨ-tɨ 
+land: kehɨ-tɨ 
+soil: kehɨ-tɨ 
+eat: ãitʸa 
+egg: iic̷ai 
+eye: -užutai	uyutai 
+feather: -mapɨ 
+fire: -ĩyã	icei	ic̷ei 
+fish: kupat3	kupatɨ 
+fly: ala 
+fly v.: ala 
+foot: -ki-c̷apa 
+full: puritʸa 
+give: itʸeke	seke 
+good: awɨžɨ 
+green: ata-pana	itʸulã-iyã 
+hair: -tɨwɨ 
+hand: -kapɨ-	-wɨžɨku	waZ3kui 
+left hand: -kapɨ-	-wɨžɨku	waZ3kui 
+right: -kapɨ-	-wɨžɨku	waZ3kui 
+head: -tɨwɨ 
+hear: eteme 
+heart: -ĩwĩ-c̷i 
+horn: -uta	uta 
+1 sg.: na-tu	natu 
+I: na-tu	natu 
+kill: a-k-unute-žɨ-ta 
+knee: -tʸetu	Cetui 
+be knowledgeable: kiyeže	uuta 
+know: kiyeže	uuta 
+leaf: -pana	ata-pana	atapana 
+lie: halalak-uwa 
+lie down: halalak-uwa 
+liver: -nupana	nupana* 
+long: au-pi	awapa 
+head louse: -neec̷e	nece 
+louse: -neec̷e	nece 
+male: enɨža 
+man: ĩyãu 
+many: pahawɨ	ɨkuma	ẽhẽmepu 
+much: pahawɨ	ɨkuma	ẽhẽmepu 
+multiple: pahawɨ	ɨkuma	ẽhẽmepu 
+several: pahawɨ	ɨkuma	ẽhẽmepu 
+flesh: -hɨtai 
+meat: -hɨtai 
+moon: kežɨ 
+hill: kehɨ-tɨ-kuma 
+mountain: kehɨ-tɨ-kuma 
+mouth: -kana-tɨ 
+name: -kupɨʼna	kupina 
+title: -kupɨʼna	kupina 
+neck: -pĩyũ 
+new: auc̷a- 
+night: yiyawa 
+nighttime: yiyawa 
+nose: -kic̷i	kici 
+adulterous: pa*wa*	pauá 
+one: pa*wa*	pauá 
+single: pa*wa*	pauá 
+that: pa*wa*	pauá 
+the: pa*wa*	pauá 
+unprincipled: pa*wa*	pauá 
+human: ĩyãu 
+human being: ĩyãu 
+person: ĩyãu 
+rain: iya-ɣa	unɨ 
+rainy weather: iya-ɣa	unɨ 
+red: k-ɨža	mɨhɨža 
+path: ah3napu 
+road: ah3napu 
+route: ah3napu 
+root: -taʼpa 
+round: -tari 
+sand: kehɨ-penu 
+say: aakata	um- 
+see: -nupa	epete	k-užutai 
+seed: -pana-tɨ	-tɨ 
+sit: pataka 
+hide: -mai	ma*i* 
+skin: -mai	ma*i* 
+sleep: hɨmaka 
+little: -tãi	muyepe	ãhã-tãi 
+small: -tãi	muyepe	ãhã-tãi 
+smallness: -tãi	muyepe	ãhã-tãi 
+smoke: sĩyãla-ʼki 
+star: kalu*t3	kalũtɨ 
+rock: t3pa	tɨpa 
+stone: t3pa	tɨpa 
+sun: kam3	kamɨ 
+swim: ec̷una 
+tail: ĩtʸu 
+2 sg: pi-c̷u	pitsu 
+thou: pi-c̷u	pitsu 
+you: pi-c̷u	pitsu 
+tongue: -nei	ne*i* 
+tooth: -c̷ewe	cewe 
+tree: ata 
+grind: mepi*ya*wa*	mepiáua	mepĩyãwã 
+two: mepi*ya*wa*	mepiáua	mepĩyãwã 
+go: ec̷una 
+walk: ec̷una 
+hot: ma-tɨka 
+warm: ma-tɨka 
+water: un3	unɨ 
+1 pl. inc.: ai-c̷u	aitsu 
+we: ai-c̷u	aitsu 
+we₁: ai-c̷u	aitsu 
+what: ka	ka-iʼc̷a 
+white: kisuwa 
+whiteness: kisuwa 
+who: ka	ka-iʼc̷a 
+who?: ka	ka-iʼc̷a 
+female: tɨ-nežu 
+woman: tɨ-nežu 
+yellow: weruya 
+distant: kawaka 
+far: kawaka 
+dull: ɨmɨna 
+heavy: ɨmɨna 
+serious: ɨmɨna 
+close: -kanu	-pažutɨ 
+near: -kanu	-pažutɨ 
+ner: -kanu	-pažutɨ 
+salt: ɨhɨwɨ 
+short: peric̷i	ãhã-tãi 
+snake: uwi 
+thin: mapisa 
+wind: isĩyã 
+earthworm: ĩyẽi 
+worm: ĩyẽi 
+year: -kamɨ-ka- 
+2 pl.: yi-c̷u 
+ye: yi-c̷u 
+you all: yi-c̷u 
+3 pl.: napapa 
+they: napapa 
+where: ka-na-i	kayenai 
+where?: ka-na-i	kayenai 
+when: ka-ic̷a-wa-ki-ya 
+when?: ka-ic̷a-wa-ki-ya 
+how: ka-ic̷e-pei 
+how?: ka-ic̷e-pei 
+some: hapaʼri 
+few: aic̷a ɨkuma	ãhã-tãi 
+three: kamaukula 
+four: mepĩyãwã-wa-ka 
+five: pawã-žɨkũ 
+broad: -sapa	au-naku 
+wide: -sapa	au-naku 
+wideness: -sapa	au-naku 
+fat: -maku 
+thick: ic̷aku 
+narrow: ka-kulu	ãhã-pĩ-yãpɨ 
+child: yamuku-tai 
+principal wife: -nu 
+wife: -nu 
+husband: -mežɨ 
+his mother: -ɨnu	maʼma 
+mother: -ɨnu	maʼma 
+my mother: -ɨnu	maʼma 
+father: -žɨ	paʼpa 
+his father: -žɨ	paʼpa 
+my father: -žɨ	paʼpa 
+animal: apapatai-mɨna 
+forest: ukuʼwĩ 
+woods: ukuʼwĩ 
+branch: -tawana 
+stick: -tawana 
+fruit: -tai 
+flower: -pulu 
+grass: ata-kahɨ 
+cord: -nutai 
+rope: -nutai 
+grease: -maku 
+fingernail: -hupa-žata 
+leg: -katɨ 
+wing: -tana 
+gut: isitʸa-pi 
+guts: isitʸa-pi 
+insides: isitʸa-pi 
+intestine: isitʸa-pi 
+intestines: isitʸa-pi 
+back: -tanaka 
+suck: utaka 
+spit: esĩyũ 
+vomit: sitʸeke 
+blow: amusa	ežeke 
+breath: -ĩʼwĩ 
+breathe: -ĩʼwĩ 
+laugh: ažatuwa 
+laughter: ažatuwa 
+cogitate: amakanaat-uwa	ka-kãi-c̷itʸu 
+reflect: amakanaat-uwa	ka-kãi-c̷itʸu 
+think: amakanaat-uwa	ka-kãi-c̷itʸu 
+smell: eteme ĩyãla	ãɨta 
+sniff: eteme ĩyãla	ãɨta 
+afraid: mɨža	mɨža-ʼki 
+be afraid: mɨža	mɨža-ʼki 
+fear: mɨža	mɨža-ʼki 
+fright: mɨža	mɨža-ʼki 
+alive: kutɨ 
+be alive: kutɨ 
+life: kutɨ 
+live: kutɨ 
+living: kutɨ 
+fight: ɨ-nuka-waka 
+beat: maitʸa	tau-ta 
+hit: maitʸa	tau-ta 
+strike: maitʸa	tau-ta 
+cut: tuka	ɨtuka 
+hack: tuka	ɨtuka 
+cut open: halaka 
+split: halaka 
+pierce: c̷akɨ-ka 
+stab: c̷akɨ-ka 
+dig: atɨka 
+tell lies: miyũli 
+stand: hɨžɨžɨkata 
+turn: ɣak-uwa 
+turn around: ɣak-uwa 
+turn round: ɣak-uwa 
+drop: taka 
+fall: taka 
+grasp: ɨtuka 
+hold: ɨtuka 
+hold in arm: ɨtuka 
+squeeze: a-huriritʸa 
+wring: a-huriritʸa 
+rub: apiya-ta	awayakata 
+wipe: apiya-ta	awayakata 
+wash: huku-ta	i-misa 
+wash clothes: huku-ta	i-misa 
+push: tunuka 
+shove: tunuka 
+throw: wasitʸa 
+bind: i-c̷itʸa 
+fasten: i-c̷itʸa 
+tie: i-c̷itʸa 
+tie up: i-c̷itʸa 
+sew: sepe 
+sing: apa-ka 
+have fun: a-masitʸu-ta	yuleleʼpe 
+play: a-masitʸu-ta	yuleleʼpe 
+float: alakiya	peyu-ka 
+flow: miyãɣa 
+brook: wene 
+river: wene 
+stream: wene 
+lake: aʼwa 
+ocean: awa-kuʼma 
+sea: awa-kuʼma 
+dust: tɨmuukai 
+fog: amiyã-miʼyã 
+sky: enu-taku 
+ice: enu-žutɨ 
+blaze: usitʸa 
+burn: usitʸa 
+day: kamɨmawa 
+daylight: kamɨmawa 
+daytime: kamɨmawa 
+bad: -itʸaki	pɨnaya 
+evil: -itʸaki	pɨnaya 
+rot: ukuwa	ɨhɨ 
+rotten: ukuwa	ɨhɨ 
+dirty: kamalatɨ	kulepe 
+filthy: kamalatɨ	kulepe 
+soiled: kamalatɨ	kulepe 
+straight: tɨžɨžɨka 
+sharp: ke-kic̷i 
+blunt: me-kic̷i 
+smooth: kamimitʸa 
+damp: k-ula-ɣa	kahaka 
+wet: k-ula-ɣa	kahaka 
+correct: awɨžɨ 
+right side: k-iyežẽ-pe-lu 
+left: wahulu-pa-lu 
+in: -na-ku 
+inside: -na-ku 
+if: -ec̷e	-miyã 
+because: -penu	-pic̷i-tʸei	-žɨ 

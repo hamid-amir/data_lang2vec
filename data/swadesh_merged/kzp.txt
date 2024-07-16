@@ -1,0 +1,266 @@
+all: soohuoru 
+every: soohuoru 
+ash: avu 
+ashes: avu 
+abdomen: tia 
+belly: tia 
+big: modokarʔo 
+bigness: modokarʔo 
+large: modokarʔo 
+bird: buruŋo 
+bite: moŋikilo 
+black: moitomo 
+blood: dugu 
+bone: tur7~a	turʔa 
+breast: susu 
+breasts: susu 
+burn: monunjurʔo	motunu 
+burn tr.: monunjurʔo	motunu 
+cloud: hohopo 
+cold: motimbiŋo 
+come: mai 
+come from: mai 
+be dead: maaté	mate 
+dead: maaté	mate 
+die: maaté	mate 
+dog: uNg~u	uŋgu 
+drink: inumo	moŋinumo 
+dry: moiŋgagu 
+ear: bur7~oNa	burʔoŋa 
+eat: moŋaa 
+egg: natu 
+eye: mata 
+feather: vuvurʔo 
+fire: sur7~u	surʔu 
+fish: si	séa 
+fly: moŋayu 
+fly v.: moŋayu 
+good: mopia 
+green: morʔumo 
+hair: vuoko 
+hand: r7~ima	rʔima 
+left hand: r7~ima	rʔima 
+right: r7~ima	rʔima 
+head: urʔu 
+hear: kiduNogu	mokiduŋogu 
+1 sg.: aka 
+I: aka 
+kill: momaté 
+be knowledgeable: motau 
+know: motau 
+leaf: duNo	duuŋo 
+lie: rʔumukuto 
+lie down: rʔumukuto 
+liver: kobile	kobilé 
+long: mohambé 
+head louse: kutu 
+louse: kutu 
+male: rʔorʔaki 
+man: ota 
+moon: vurʔa 
+mouth: ŋaŋa 
+name: dito	déito 
+title: dito	déito 
+neck: tigugu 
+new: bogu	mobogu 
+night: gubi	gubii 
+nighttime: gubi	gubii 
+nose: uyuNo	uyuŋo 
+adulterous: sobotu	soobotu 
+one: sobotu	soobotu 
+single: sobotu	soobotu 
+that: ito 
+the: sobotu	soobotu 
+unprincipled: sobotu	soobotu 
+human: ota 
+human being: ota 
+person: ota 
+rain: uha 
+rainy weather: uha 
+red: mopuha 
+path: dor7~a	dorʔa 
+road: dor7~a	dorʔa 
+route: dor7~a	dorʔa 
+root: wakato 
+sand: vuŋayo 
+say: mogoparu 
+see: moŋontoŋo	ont~oNo 
+sit: rʔumitu 
+hide: kur7~ito	kurʔito 
+skin: kur7~ito	kurʔito 
+sleep: motiugu 
+little: moisiko 
+small: moisiko 
+smallness: moisiko 
+smoke: pohoko 
+star: matiti 
+rock: botu 
+stone: botu 
+swim: monaŋi 
+tail: ipuso 
+this: ini 
+2 sg: kiotor7~u	kiotorʔu 
+thou: kiotor7~u	kiotorʔu 
+you: kiotor7~u	kiotorʔu 
+tongue: dila 
+tooth: duNito	duŋito 
+grind: dia	diiya	diya 
+two: dia	diiya	diya 
+go: morʔako 
+walk: morʔako 
+hot: mopasu 
+warm: mopasu 
+water: sar7~ugu	sarʔugu 
+1 pl. inc.: kinamintaa	kitantaa	kitant~a 
+we: kinamintaa	kitantaa	kitant~a 
+we₁: kinamintaa	kitantaa	kitant~a 
+what: anuko 
+white: moputiho 
+whiteness: moputiho 
+who: kiiko 
+who?: kiiko 
+female: bibo 
+woman: bibo 
+yellow: modohagu 
+distant: mohaaŋo 
+far: mohaaŋo 
+dull: mobugoto 
+heavy: mobugoto 
+serious: mobugoto 
+close: mokikiho 
+near: mokikiho 
+ner: mokikiho 
+salt: simuto 
+short: moporʔoko 
+snake: doso 
+thin: monipiso 
+wind: dupoto 
+earthworm: rʔuati 
+worm: rʔuati 
+year: tauŋo 
+2 pl.: kiotorʔu soohuoru 
+ye: kiotorʔu soohuoru 
+you all: kiotorʔu soohuoru 
+3 pl.: kidontorʔu 
+they: kidontorʔu 
+where: ka|anu|ko 
+where?: ka|anu|ko 
+when: rʔoonu 
+when?: rʔoonu 
+how: kodooni 
+how?: kodooni 
+other: ibonia 
+three: torʔu	toɭu 
+four: opato 
+five: ɭima 
+broad: motaŋgaho 
+wide: motaŋgaho 
+wideness: motaŋgaho 
+fat: tabo 
+thick: modomarʔo 
+narrow: mohipito 
+principal wife: nika 
+wife: nika 
+husband: nika 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+forest: tarʔu 
+woods: tarʔu 
+branch: saŋa 
+stick: saŋa 
+fruit: bua-buahaŋo 
+flower: buŋaŋo 
+grass: hikuto 
+cord: tali 
+rope: tali 
+flesh: sapu 
+meat: sapu 
+grease: tabo 
+wing: porʔipiko 
+gut: tinai 
+guts: tinai 
+insides: tinai 
+intestine: tinai 
+intestines: tinai 
+back: buŋgiuŋo 
+suck: monosopo 
+spit: momúe 
+vomit: mododurʔu 
+blow: mogiupo 
+breath: mogi|naa 
+breathe: mogi|naa 
+laugh: kumosiŋo 
+laughter: kumosiŋo 
+cogitate: momikiru 
+reflect: momikiru 
+think: momikiru 
+smell: momuu 
+sniff: momuu 
+afraid: moonuko 
+be afraid: moonuko 
+fear: moonuko 
+fright: moonuko 
+alive: sumumurʔo 
+be alive: sumumurʔo 
+life: sumumurʔo 
+live: sumumurʔo 
+living: sumumurʔo 
+hunt: moguŋgu	morʔutamo 
+beat: monintiŋo	mopokoŋoŋoto 
+hit: monintiŋo	mopokoŋoŋoto 
+strike: monintiŋo	mopokoŋoŋoto 
+cut: momusu 
+hack: momusu 
+cut open: momutako 
+split: momutako 
+pierce: momusuko 
+stab: momusuko 
+scratch: moŋékuru 
+dig: moŋarʔi	moŋukuto 
+stand: tumiguho 
+drop: modovu 
+fall: modovu 
+grasp: motoŋorʔo 
+hold: motoŋorʔo 
+hold in arm: motoŋorʔo 
+squeeze: momuguso 
+wring: momuguso 
+throw: mopomahuŋo 
+bind: momihuto 
+fasten: momihuto 
+tie: momihuto 
+tie up: momihuto 
+sew: motéi 
+count: morékéŋo 
+enumerate: morékéŋo 
+number: morékéŋo 
+tally: morékéŋo 
+flow: moiligu 
+lake: dono 
+ocean: borʔaŋo 
+sea: borʔaŋo 
+dust: rʔikavuko 
+fog: supuoto 
+sky: rʔaŋito 
+bad: moñaato 
+evil: moñaato 
+rot: movuhuko 
+rotten: movuhuko 
+dirty: mohimito 
+filthy: mohimito 
+soiled: mohimito 
+sharp: morʔanito 
+blunt: motumburʔo 
+damp: mobosa 
+wet: mobosa 
+right side: kitau 
+left: kiborʔaagi 
+at: ko 
+in: [ko] duarʔomo 
+inside: [ko] duarʔomo 
+and: agu 
+if: agu 

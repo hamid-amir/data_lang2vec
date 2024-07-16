@@ -1,0 +1,283 @@
+all: flee 
+every: flee 
+bark: kutse sɔkpã 
+abdomen: sɛmɛ 
+belly: sɛmɛ 
+big: pɔ 
+bigness: pɔ 
+large: pɔ 
+bird: kavɔlabi 
+bite: dɔ̃ 
+black: dã ɔɔwa 
+blood: baboanE	babɔanɛ 
+bone: loCo*	lɔtsɔ̃ 
+breast: lEmE	lɛmɛ 
+breasts: lEmE	lɛmɛ 
+claw: saviɔ̃ 
+nail: saviɔ̃ 
+talon: saviɔ̃ 
+cloud: luflututu 
+cold: dɔ 
+come: ya 
+come from: ya 
+be dead: ku 
+dead: ku 
+die: ku 
+dog: okpete	okp~ete 
+drink: moa	mɔa 
+dry: wɔlɛ 
+ear: soto	sɔtɔ 
+earth: tite 
+ground: tite 
+land: tite 
+soil: tite 
+eat: nya 
+egg: lige 
+eye: linebi 
+fat: bɔ̃ 
+fat n.: bɔ̃ 
+grease: bɔ̃ 
+lubricant: bɔ̃ 
+oil: bɔ̃ 
+feather: sɛtsã 
+fire: fi 
+fish: kafoabi	kafɔabi 
+fly: yidza 
+fly v.: yidza 
+foot: lutulo 
+full: yi 
+give: kpa 
+good: nɛnɛ 
+green: dã gɔ̃ 
+hair: sɔlɔ 
+hand: awE	awɛ 
+left hand: awE	awɛ 
+right: awE	awɛ 
+head: lɔlɔ 
+hear: nu 
+heart: du 
+horn: olE	ɔlɛ 
+1 sg.: yi*	yĩ 
+I: yi*	yĩ 
+kill: tsua ɔyaɛ sɔmɔ 
+knee: luduli 
+be knowledgeable: nyina 
+know: nyina 
+leaf: sota	sɔɔta	tota 
+lie: wa 
+lie down: wa 
+liver: fute 
+long: na lugo 
+head louse: basi*	lolo kame	lɔlɔ kamɛ ɔsĩ 
+louse: basi*	lolo kame	lɔlɔ kamɛ ɔsĩ 
+male: onyole 
+man: oti	oticiwa	otidziwa 
+many: pii 
+much: pii 
+multiple: pii 
+several: pii 
+flesh: sɛkɛna 
+meat: sɛkɛna 
+moon: odetɔ 
+hill: oto	ɔtɔ 
+mountain: oto	ɔtɔ 
+mouth: onukpɛ̃ 
+name: bui*	di*	dĩ 
+title: bui*	di*	dĩ 
+neck: sɔmɔ 
+new: da* fovoE*	dã fɔvɔɛ̃ 
+night: lEny~E	lɛnyɛ 
+nighttime: lEny~E	lɛnyɛ 
+nose: owi*	ɔwĩ 
+adulterous: fomoa	fɔmɔa	kedi 
+one: fomoa	fɔmɔa	kedi 
+single: fomoa	fɔmɔa	kedi 
+that: kĩ a 
+the: fomoa	fɔmɔa	kedi 
+unprincipled: fomoa	fɔmɔa	kedi 
+human: oti	oticiwa	otidziwa 
+human being: oti	oticiwa	otidziwa 
+person: oti	oticiwa	otidziwa 
+rain: oni 
+rainy weather: oni 
+red: dã ngbã 
+path: osi 
+road: osi 
+route: osi 
+root: kutse onu 
+round: dã sinyasinya 
+say: lɛ 
+see: mo	mɔ 
+seed: libi 
+sit: dzĩ 
+hide: oti ovoli	ovoli	tuvoli 
+skin: oti ovoli	ovoli	tuvoli 
+sleep: wa tida 
+little: dã kabii 
+small: dã kabii 
+smallness: dã kabii 
+smoke: ɔnyɔ 
+stand: dza 
+star: lisibi	lisibii 
+rock: boe	de 
+stone: boe	de 
+sun: suwa 
+swim: to mui 
+tail: ɔkã 
+this: fukĩĩ 
+2 sg: no	nɔ 
+thou: no	nɔ 
+you: no	nɔ 
+tongue: sEmE	sɛmɛ 
+tooth: lodo*	lɔdɔ̃ 
+tree: kuCe	kutse 
+grind: foe nvia*	foe nviã	kEya	kɛya 
+two: foe nvia*	foe nviã	kEya	kɛya 
+go: tsã 
+walk: tsã 
+water: mui 
+1 pl. inc.: mi 
+we: mi 
+we₁: mi 
+what: litsa 
+white: dã fitaa 
+whiteness: dã fitaa 
+who: owei 
+who?: owei 
+female: otsole 
+woman: otsole 
+distant: deĩ lugo	fɔvɛlɛ 
+far: deĩ lugo	fɔvɛlɛ 
+dull: na ɔlɔmɛ 
+heavy: na ɔlɔmɛ 
+serious: na ɔlɔmɛ 
+close: fuã 
+near: fuã 
+ner: fuã 
+salt: lɛdɛmɛ 
+short: dã lukũ	kɛna foe lukũ 
+snake: kɔɛ 
+thin: dã fɛngɛlɛɛ	tiãtiã 
+wind: ɔwɛ 
+earthworm: kɔvɔ̃na 
+worm: kɔvɔ̃na 
+year: kateli 
+3 sg.: ye boe 
+he: ye boe 
+she: ye boe 
+2 pl.: be 
+ye: be 
+you all: be 
+here: awĩ 
+there: akĩĩ 
+where: nɛ ndia 
+where?: nɛ ndia 
+how: nde 
+how?: nde 
+few: sukuloo 
+other: bɛbã 
+three: foe ɛlalɛ	kaalɛ 
+four: foe ɛna	kɛɛna 
+five: foe elo	kuulo 
+broad: dzɛlɛ 
+wide: dzɛlɛ 
+wideness: dzɛlɛ 
+thick: pipi 
+narrow: hiam	manɛ	tása 
+child: obisɛ̃ 
+principal wife: ɔtsɔ̃ 
+wife: ɔtsɔ̃ 
+husband: ɔnyɔ 
+his mother: mma	ɔma 
+mother: mma	ɔma 
+my mother: mma	ɔma 
+father: nda	ɔlɛga 
+his father: nda	ɔlɛga 
+my father: nda	ɔlɛga 
+fruit: kutse libi 
+flower: fɔgbangbã 
+grass: suwĩ 
+cord: ɔwɛ̃ 
+rope: ɔwɛ̃ 
+leg: kɔbɔa 
+wing: supoki 
+gut: owũna 
+guts: owũna 
+insides: owũna 
+intestine: owũna 
+intestines: owũna 
+back: kanɛ 
+suck: fifi 
+vomit: dã 
+blow: vuma 
+cogitate: bũ lɔlɔ kamɛ 
+reflect: bũ lɔlɔ kamɛ 
+think: bũ lɔlɔ kamɛ 
+smell: kũ 
+sniff: kũ 
+afraid: libe 
+be afraid: libe 
+fear: libe 
+fright: libe 
+alive: dzi nkpã 
+be alive: dzi nkpã 
+life: dzi nkpã 
+live: dzi nkpã 
+living: dzi nkpã 
+beat: bɔa 
+hit: bɔa 
+strike: bɔa 
+cut: tsua 
+hack: tsua 
+dig: tu 
+drop: tɔ 
+fall: tɔ 
+grasp: pi 
+hold: pi 
+hold in arm: pi 
+squeeze: kã 
+wring: kã 
+rub: nuna 
+wipe: nuna 
+wash: vɔlɛ 
+wash clothes: vɔlɛ 
+pull: vɛlɛ 
+push: du 
+shove: du 
+throw: ta kamuni 
+bind: sui 
+fasten: sui 
+tie: sui 
+tie up: sui 
+sew: lɛkpatsu 
+sing: sã 
+flow: tɛ̃ 
+swell: wũmi 
+lake: mui lutubu baũ 
+ocean: mpo 
+sea: mpo 
+dust: kudu 
+sky: ode 
+blaze: tɛ̃ bubuubu 
+burn: tɛ̃ bubuubu 
+day: luwi 
+daylight: luwi 
+daytime: luwi 
+old: dɛ 
+bad: bu kade 
+evil: bu kade 
+rot: vɔ̃ 
+rotten: vɔ̃ 
+dirty: dã pukutuu	dã pɔtɔɔ	wo tuduli 
+filthy: dã pukutuu	dã pɔtɔɔ	wo tuduli 
+soiled: dã pukutuu	dã pɔtɔɔ	wo tuduli 
+straight: yo kpĩĩ 
+sharp: na ɔbɔ̃ 
+blunt: foe onukpɛ̃ ku 
+smooth: dã tsɔlitsɔli	vɔ̃na 
+damp: tɛ̃ mui 
+wet: tɛ̃ mui 
+right side: sɔmɔna 
+left: sɛbã 
+with: mɔ 
+if: ntɛ 

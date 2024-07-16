@@ -1,0 +1,335 @@
+all: tut 
+every: tut 
+ash: tschendra 
+ashes: tschendra 
+bark: scorsa 
+abdomen: venter 
+belly: venter 
+big: grond 
+bigness: grond 
+large: grond 
+bird: utschè 
+bite: morder 
+black: nair 
+blood: sang	sauN 
+bone: ies	os	oss 
+breast: pEc	pèz	sain	sein 
+breasts: pEc	pèz	sain	sein 
+burn: arder 
+burn tr.: arder 
+cloud: nivel 
+cold: fraid 
+come: ve5ir	vegnir 
+come from: ve5ir	vegnir 
+be dead: murir 
+dead: murir 
+die: murir 
+dog: Caun	chaun 
+drink: baiver	beibEr 
+dry: sitg 
+ear: ureL3	ureglia 
+earth: terra 
+ground: terra 
+land: terra 
+soil: terra 
+eat: mangiar 
+egg: ov 
+eye: eL	egl 
+fat: grass 
+fat n.: grass 
+grease: grass 
+lubricant: grass 
+oil: grass 
+feather: penna	plima 
+fire: fieu	fy~ug 
+fish: pES	pesch 
+fly: sgular 
+fly v.: sgular 
+foot: pe 
+full: plain	plein 
+give: dar 
+good: bun 
+green: verd 
+hair: chavel	chavels	pail 
+hand: maun 
+left hand: maun 
+right: maun 
+head: chau	testa 
+hear: udir 
+heart: cor 
+horn: Ciern	corn	corna 
+1 sg.: jau	yEu 
+I: jau	yEu 
+kill: mazzar 
+knee: SanuL	schanugl 
+be knowledgeable: savair 
+know: savair 
+leaf: fEL	fegl 
+lie: giaschair 
+lie down: giaschair 
+liver: dir	gnirom 
+long: lung 
+head louse: pluL	plugl 
+louse: pluL	plugl 
+male: um 
+man: carstgaun	pErsun3	uman 
+many: bler 
+much: bler 
+multiple: bler 
+several: bler 
+flesh: charn 
+meat: charn 
+moon: glina 
+hill: culm	kuolm	muntagna	munto53	muntogna 
+mountain: culm	kuolm	muntagna	munto53	muntogna 
+mouth: bucca 
+name: num 
+title: num 
+neck: culiez 
+new: nief	nov 
+night: noC	notg 
+nighttime: noC	notg 
+nose: nas 
+not: betg	na … betg 
+adulterous: en	in	ina 
+one: en	in	ina 
+single: en	in	ina 
+that: quel	quella	tschel 
+the: en	in	ina 
+unprincipled: en	in	ina 
+human: carstgaun	pErsun3	uman 
+human being: carstgaun	pErsun3	uman 
+person: carstgaun	pErsun3	uman 
+rain: plievgia 
+rainy weather: plievgia 
+red: cotschen 
+path: sEnd3	strada	via 
+road: sEnd3	strada	via 
+route: sEnd3	strada	via 
+root: ragisch 
+round: radund 
+sand: sablun 
+say: dir 
+see: v3zEr	vesair 
+seed: sem 
+sit: seser 
+hide: pel	py~al 
+skin: pel	py~al 
+sleep: durmir 
+little: pitschen 
+small: pitschen 
+smallness: pitschen 
+smoke: fim 
+stand: star 
+star: Steil3	staila 
+rock: crap	krap 
+stone: crap	krap 
+sun: sulEL	sulegl 
+swim: nudar 
+tail: cua 
+this: quell	quest	questa 
+2 sg: ti 
+thou: ti 
+you: ti 
+tongue: lieunga	ly~EuNga 
+tooth: dEnt	dent 
+tree: planta	plont3 
+grind: duas	dus 
+two: duas	dus 
+go: chaminar	ir 
+walk: chaminar	ir 
+hot: chaud 
+warm: chaud 
+water: aua 
+1 pl. inc.: nus 
+we: nus 
+we₁: nus 
+what: tge 
+white: alv 
+whiteness: alv 
+who: tgi 
+who?: tgi 
+female: dunna	femna 
+woman: dunna	femna 
+yellow: mellen 
+distant: dalunsch	lontan 
+far: dalunsch	lontan 
+dull: grev	pesant 
+heavy: grev	pesant 
+serious: grev	pesant 
+close: damanaivel 
+near: damanaivel 
+ner: damanaivel 
+salt: sal 
+short: curt 
+snake: serp 
+thin: fin	satigl 
+wind: vent 
+earthworm: verm 
+worm: verm 
+year: onn 
+3 sg.: el 
+he: el 
+she: el 
+2 pl.: vus 
+ye: vus 
+you all: vus 
+3 pl.: ellas	els 
+they: ellas	els 
+here: qua 
+there: là 
+where: nua 
+where?: nua 
+when: cur 
+when?: cur 
+how: co 
+how?: co 
+some: insatge 
+few: pauc 
+other: auter 
+three: trais 
+four: quatter 
+five: tschintg 
+broad: lad	lartg 
+wide: lad	lartg 
+wideness: lad	lartg 
+thick: gross 
+narrow: stretg 
+child: uffant 
+principal wife: consorta	dunna 
+wife: consorta	dunna 
+husband: consort	um 
+his mother: mamma 
+mother: mamma 
+my mother: mamma 
+father: bab 
+his father: bab 
+my father: bab 
+animal: animal 
+forest: guaud 
+woods: guaud 
+branch: bastun 
+stick: bastun 
+fruit: fritg 
+flower: flur 
+grass: erva 
+cord: corda 
+rope: corda 
+claw: ungla 
+fingernail: ungla 
+nail: ungla 
+leg: chomma 
+arm: maun 
+wing: ala 
+gut: begl 
+guts: begl 
+insides: begl 
+intestine: begl 
+intestines: begl 
+back: dies 
+spit: spidar 
+blow: buffar	sufflar 
+breath: fladar	respirar 
+breathe: fladar	respirar 
+laugh: rir 
+laughter: rir 
+cogitate: pensar 
+reflect: pensar 
+think: pensar 
+smell: odurar	savurar 
+sniff: odurar	savurar 
+afraid: temair 
+be afraid: temair 
+fear: temair 
+fright: temair 
+alive: viver 
+be alive: viver 
+life: viver 
+live: viver 
+living: viver 
+fight: lutgar 
+hunt: chatschar 
+beat: batter 
+hit: batter 
+strike: batter 
+cut: tagliar 
+hack: tagliar 
+cut open: fender 
+split: fender 
+pierce: furar	punscher 
+stab: furar	punscher 
+scratch: sgratar 
+dig: chavar	stgavar 
+tell lies: giaschair 
+turn: volver 
+turn around: volver 
+turn round: volver 
+drop: crudar 
+fall: crudar 
+grasp: tegnair 
+hold: tegnair 
+hold in arm: tegnair 
+squeeze: smatgar	squitschar 
+wring: smatgar	squitschar 
+rub: sfruschar 
+wipe: sfruschar 
+wash: lavar 
+wash clothes: lavar 
+pull: trair 
+push: stuschar 
+shove: stuschar 
+throw: bittar 
+bind: liar 
+fasten: liar 
+tie: liar 
+tie up: liar 
+sew: cuser 
+count: quintar 
+enumerate: quintar 
+number: quintar 
+tally: quintar 
+sing: chantar 
+have fun: giugar 
+play: giugar 
+float: flottar 
+flow: fluir 
+freeze: schelar 
+swell: unflar 
+brook: flum 
+river: flum 
+stream: flum 
+lake: lai 
+ocean: mar 
+sea: mar 
+dust: pulvra 
+fog: tschajera 
+sky: tschiel 
+snow: naiv 
+ice: glatsch 
+blaze: arder 
+day: di 
+daylight: di 
+daytime: di 
+old: vegl 
+bad: mal	nausch 
+evil: mal	nausch 
+rot: marsch 
+rotten: marsch 
+dirty: tschuf 
+filthy: tschuf 
+soiled: tschuf 
+straight: dretg 
+sharp: giz 
+blunt: mut 
+smooth: glisch 
+damp: bletsch 
+wet: bletsch 
+correct: correct 
+right side: dretg 
+left: sanester 
+in: en 
+inside: en 
+with: cun 
+and: e	ed 
+if: sche 
+because: perquai che 

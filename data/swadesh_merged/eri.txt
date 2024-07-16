@@ -1,0 +1,429 @@
+all: orua 
+arm: owo- 
+arrow: aligi 
+ashes: amujhi | amuǯi 
+ashes: amuǯi | amuǯi 
+back: aula- 
+bad: iɲaːba 
+bad: inya:ba 
+belly: ogo- 
+belly: ogu- hu | ogo- 
+big: bita:ro | bitaːrro 
+big: bitaːrro 
+bird: ne:i | neːi 
+bird: neːi 
+bite: masi- 
+black: usuma 
+blood: gani- | gani	gani- 
+blow: fu- 
+bone: ngedo- | NEdo	ŋɛdo- 
+bone: ŋɛdo- | NEdo	ŋɛdo- 
+boy: fay gila 
+boy: φay gila 
+breast: eme | EmE	ɛmɛ 
+breast: ɛmɛ | EmE	ɛmɛ 
+brother: babo bitëro 
+brother: babo bitʌro 
+brother: babo melkene 
+brother: babo mɛlkɛne 
+burn: piti- 
+butterfly: kapureri 
+butterfly: kapurɛri 
+calf: muɟa 
+calf: muja 
+cassowary: keira 
+chest: bura 
+chest: burra 
+chest: eme yo:ge 
+chest: ɛmɛ yoːgɛ 
+child: magëna 
+child: magʌna 
+chin: me- 
+chin: mɛ- 
+cloud: agau 
+cloud: pola | agau 
+cold: oto 
+come: mai- | mai	mai- 
+crocodile: wagëy 
+crocodile: wagʌy 
+cut: karu- 
+dance: mone uyi- 
+day: ɛsuʌ 
+day: esuë 
+die: ume- | um3	umɛ- 
+die: umɛ- | um3	umɛ- 
+dig: hunggul- 
+dig: huŋgul- 
+dig: tau- 
+dirty: didiga 
+dog: gauna 
+dry: kara | karra 
+dry: karra 
+ear: age- kuli | age kuli	age- kuli 
+earth: ouia | oula 
+earth: oula 
+eat: ni- 
+eat: nyikulu- | ni- 
+egg: fëtu | ɸʌtu 
+egg: φʌtu | ɸʌtu 
+elbow: teburu- 
+elbow: tɛburu- 
+emu: keira 
+excrement: hewe- 
+eye: age- magana | age magana	age- magana 
+face: manda- 
+fall: lau- 
+fall: taume- 
+fall: taumɛ- 
+far: bëi | bʌi 
+far: bʌi 
+father: mëmu 
+father: mʌmu 
+fat (n.): lalua 
+fear: umege- 
+fear: umɛgɛ- 
+few: ila 
+fight: wʌra- 
+fingernail: duma 
+finger: tu 
+fire: eya 
+fire: gumu | eya 
+fish: howe 
+fly (n.): gëu 
+fly (n.): gʌu 
+fly (v.): owela frie- 
+fog: budu 
+forehead: manda- 
+forest: done 
+fruit: genea 
+fruit: pëtu 
+full: bolo- | bolo	bolo- 
+full: uɲi- | bolo	bolo- 
+full: unyi- | bolo	bolo- 
+girl: aita gila 
+give: ø- 
+good: hilou | hliou 
+good: hliou 
+grass: jhili 
+guts: ogu- hu 
+hair: tawa- 
+head: besolaso | mora- 
+head: mora- 
+hear: mbele isi- | mbelɛ isi-	mb~Ele isi 
+hear: mbelɛ isi- | mbelɛ isi-	mb~Ele isi 
+heart: bidigu | biigu 
+heart: biigu 
+heavy: oubagu 
+here: bɛla 
+here: elebe 
+he/she: -me 
+he/she: -mɛ 
+he/she: no 
+he/she: no- 
+he/she: -ø 
+he/she: ø- 
+he/she: -tu 
+he/she: -tu- 
+hit: wëra- 
+hold: yasu- 
+house: mëta 
+house: mʌta 
+how: agoni 
+ice: genea 
+ice: pʌtu 
+I: -fe | Ci	i	zi	ǯi 
+I: -fɛ | Ci	i	zi	ǯi 
+I: -hi- | Ci	i	zi	ǯi 
+I: i | Ci	i	zi	ǯi 
+I: jhi | Ci	i	zi	ǯi 
+in: huanya-la 
+I: ya- | Ci	i	zi	ǯi 
+I: ye- | Ci	i	zi	ǯi 
+I: zi | Ci	i	zi	ǯi 
+I: ǯi | Ci	i	zi	ǯi 
+kill: wari- 
+knee: tuburu- | tuburu	tuburu- 
+laugh: nanai- 
+left: kena 
+left: kɛna 
+leg: ape 
+leg: apɛ 
+lightning: amili lala- 
+liver: oßoßi- | obobi	oβoβi- 
+liver: ovovi- | obobi	oβoβi- 
+long: ufa:ro | ufaːro 
+long: ufaːro 
+louse: minyou | mi5ou 
+louse: miɲou | mi5ou 
+man: fay | ɸay 
+man: madua | ɸay 
+many: painga:ro | paiŋaːrro 
+many: paiŋaːrro 
+man: φay | ɸay 
+meat: ma½a 
+meat: maja 
+moon: ole | olɛ 
+moon: olɛ 
+morning: eringe 
+morning: ɛriŋɛ 
+morning: hʌbana 
+morning: hëbana 
+mosquito: ë:ze 
+mosquito: ʌːze 
+mother: ngai 
+mother: ŋai 
+mountain: mujhu | muCu	muǯu 
+mountain: muǯu | muCu	muǯu 
+mouth: më- haula | mʌ- haula 
+mouth: mʌ- haula 
+name: uɲi- | u5i	uɲi- 
+name: unyi- | u5i	uɲi- 
+nape: dugu- 
+navel: huyu- 
+near: ǯuguŋa-la | ǯuguŋa-la 
+neck: be- nduru | be- nduru	bodri- 
+neck: bodri | be- nduru	bodri- 
+neck: bodri- | be- nduru	bodri- 
+new: ege | EgE	ɛgɛ 
+new: ɛgɛ | EgE	ɛgɛ 
+night: oru 
+nose: mutu- | mutu	mutu- 
+not: ua 
+old: asari 
+old: omura 
+one: etenga | EtENa	ɛtɛŋa 
+one: ɛtɛŋa | EtENa	ɛtɛŋa 
+pull: di- 
+push: lu- 
+push: nu- 
+rain: yëge | yʌge 
+rain: yʌge 
+rat: koreya 
+red: giri | girri 
+red: girri 
+right: hilow 
+ripe: mumu 
+road: jhëla | C3la 
+road: ǯʌla | C3la 
+root: bou 
+rope: olʌm 
+salt: heri | hɛri 
+salt: hɛri 
+sand: lënga | ulisi 
+sand: ulisi 
+say: bela hai- | lɛ- 
+say: le- | lɛ- 
+say: lɛ- 
+scratch: girʌ- 
+scratch: girë- 
+sea: heri 
+sea: hɛri 
+see: fɛlɛ- | fErE	fɛrɛ-	ur 
+see: fere- | fErE	fɛrɛ-	ur 
+see: fɛrɛ- | fErE	fɛrɛ-	ur 
+see: ri- ur- | fErE	fɛrɛ-	ur 
+sharp: mambagu 
+sharp: salu- 
+short: tutu 
+shoulder: boila- 
+sing: mone te- 
+sister: ogo- 
+sister: ogo melkëne 
+sister: ogo- mɛlkʌne 
+sit: iafa | iafa- 
+sit: iafa- 
+skin: kokola- | Skola	kokola	kokola-	ʂkola- 
+skin: §kola- | Skola	kokola	kokola-	ʂkola- 
+skin: s.kola- | Skola	kokola	kokola-	ʂkola- 
+sky: barësiki 
+sky: barʌsiki 
+sleep: agor- 
+small: menekale | mɛnɛkale 
+small: mɛnɛkale 
+smell: agia- 
+smoke: butu 
+snake: më:ni | mʌːni 
+snake: mʌːni 
+spit: kosɔ- 
+spit: mulu- 
+split: foure- 
+split: fourɛ- 
+stand: jai- 
+stand: oto- 
+star: barësigi | bar3sigi	barʌsigi 
+star: barʌsigi | bar3sigi	barʌsigi 
+stick: dumuka 
+stone: megemu | mEgEmu	mɛgɛmu 
+stone: mɛgɛmu | mEgEmu	mɛgɛmu 
+straight: tigini 
+sun: ho:nga | hoNa	hɔːŋa 
+sun: hɔːŋa | hoNa	hɔːŋa 
+swell: ŋasagɛ- 
+tail: mëla | mʌla 
+tail: mʌla 
+take: te- 
+take: tɛ- 
+that: wo 
+there: wola 
+they: ge- 
+they: ne- 
+they: nɛ- 
+they: -nege 
+they: -nɛgɛ 
+they: nere 
+they: nɛrɛ 
+they: -nige- 
+they two: ne-ire 
+they two: -nere 
+they two: nere-nga 
+they two: -nire- 
+they two: (pl)- -re- 
+thigh: gai- gu 
+think: ninau- 
+this: be | bɛ 
+this: bɛ 
+thou: -hini- | nE	nɛ 
+thou: na- | nE	nɛ 
+thou: ne | nE	nɛ 
+thou: -ne | nE	nɛ 
+thou: ne- | nE	nɛ 
+thou: nɛ | nE	nɛ 
+thou: -te | nE	nɛ 
+thou: -tɛ | nE	nɛ 
+thou: tɛ- | nE	nɛ 
+thou: -tɛgɛ | nE	nɛ 
+thou: tɛrɛ | nE	nɛ 
+thou: -tige- | nE	nɛ 
+throat: boro 
+throat: borro 
+throw: kaita- 
+thunder: amili bulu- 
+tie: di- 
+tomorrow: arafia 
+tomorrow: ira 
+tongue: muɲʌgɛ- | mu53gE	muɲʌgɛ- 
+tongue: munyëge- | mu53gE	muɲʌgɛ- 
+tooth: ma- | NEdo	ma	ma-	ŋɛdo 
+tooth: ngedo- | NEdo	ma	ma-	ŋɛdo 
+tooth: ŋɛdo | NEdo	ma	ma-	ŋɛdo 
+tree: hugu | nau 
+tree: nau 
+tree: numu | nau 
+turn: ubulu- 
+two: nganononga | NanonoNa	ŋanonoŋa 
+two: ŋanonoŋa | NanonoNa	ŋanonoŋa 
+vagina: bitʌ 
+vagina: bitë 
+walk: goi- | gonɔ- 
+walk: gono- | gonɔ- 
+walk: gonɔ- 
+walk: gurrie- | gonɔ- 
+wallaby: pasinëni 
+wallaby: pasinʌni 
+warm: na:zu 
+warm: naːzu 
+wash: bisemi- 
+wash: bisɛmi- 
+wash: (yage) bisi- 
+wash: (yagɛ) bisi- 
+water: yëge | y3ge	yʌge 
+water: yʌge | y3ge	yʌge 
+we: e- | ErE	hErE 
+we: ɛ- | ErE	hErE 
+weep: mere- 
+weep: mɛre- 
+we: ge | ErE	hErE 
+we: -ge | ErE	hErE 
+we: -gɛ | ErE	hErE 
+we: he- | ErE	hErE 
+we: (h)ere | ErE	hErE 
+we: (h)ɛrɛ | ErE	hErE 
+we: -hige- | ErE	hErE 
+wet: mumuduta 
+we two: 
+we two: e-ire 
+we two: ere-nga 
+we two: -hire 
+we two: -re 
+what: të:te | tʌːtɛ 
+what: tʌːtɛ 
+where: alʌ 
+where: alë 
+white: ka:mba | kaːmba 
+white: kaːmba 
+who: faiwei | faiwei	wei 
+who: (fai)wei | faiwei	wei 
+who: wei | faiwei	wei 
+wind: jhagui | oborrɛ	ǯagui 
+wind: obore | oborrɛ	ǯagui 
+wind: oborrɛ | oborrɛ	ǯagui 
+wind: ǯagui | oborrɛ	ǯagui 
+wing: fadimu 
+woman: aita 
+wood: dumuka 
+wood: mataw 
+wood: misikë:gu 
+wood: misikʌːgu 
+yellow: bailu 
+yes: oe 
+yes: oɛ 
+yesterday: feyo 
+yesterday: fɛyo 
+yesterday: nigomu 
+you: ge | nE	nɛ 
+you: te- | nE	nɛ 
+you: -tege | nE	nɛ 
+you: tere | nE	nɛ 
+you: -tige- | nE	nɛ 
+you two: (pl)- -re- 
+you two: te-ire 
+you two: -tere 
+you two: tere-nga 
+you two: -tire- 
+every: orua 
+ash: amuǯi 
+abdomen: ogo- 
+bigness: bitaːrro 
+large: bitaːrro 
+breasts: EmE	ɛmɛ 
+come from: mai	mai- 
+be dead: um3	umɛ- 
+dead: um3	umɛ- 
+ground: oula 
+land: oula 
+soil: oula 
+fly: owela frie- 
+fly v.: owela frie- 
+1 sg.: Ci	i	zi	ǯi 
+head louse: mi5ou 
+male: ɸay 
+much: paiŋaːrro 
+multiple: paiŋaːrro 
+several: paiŋaːrro 
+hill: muCu	muǯu 
+title: u5i	uɲi- 
+nighttime: oru 
+adulterous: EtENa	ɛtɛŋa 
+single: EtENa	ɛtɛŋa 
+the: EtENa	ɛtɛŋa 
+unprincipled: EtENa	ɛtɛŋa 
+rainy weather: yʌge 
+path: C3la 
+route: C3la 
+hide: Skola	kokola	kokola-	ʂkola- 
+little: mɛnɛkale 
+smallness: mɛnɛkale 
+rock: mEgEmu	mɛgɛmu 
+2 sg: nE	nɛ 
+grind: NanonoNa	ŋanonoŋa 
+go: gonɔ- 
+1 pl. inc.: ErE	hErE 
+we₁: ErE	hErE 
+whiteness: kaːmba 
+who?: faiwei	wei 
+female: aita 
+distant: bʌi 
+dull: oubagu 
+serious: oubagu 
+close: ǯuguŋa-la 
+ner: ǯuguŋa-la 

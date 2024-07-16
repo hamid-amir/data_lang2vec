@@ -1,0 +1,338 @@
+all: kiekvíenas	visa	visas	visi	viskas	visì	vìskas 
+every: kiekvíenas	visa	visas	visi	viskas	visì	vìskas 
+ash: pelenai	pelenaĩ	pelnai 
+ashes: pelenai	pelenaĩ	pelnai 
+bark: Zieve	žievė	žievẽ̇ 
+abdomen: pilvas	skramdis 
+belly: pilvas	skramdis 
+big: didelis	dìdelis	platus 
+bigness: didelis	dìdelis	platus 
+large: didelis	dìdelis	platus 
+bird: paukStis	paukštis	paũkštis 
+bite: gel	kas	kąsti	ką́sti 
+black: juodas	júodas	tamsus	yuodas 
+blood: giminy~ste	kraujas	krauyas	kraũjas 
+bone: kaulas	káulas 
+breast: krutine	krūtis	krūtìs 
+breasts: krutine	krūtis	krūtìs 
+claw: nagas	nãgas 
+nail: nagas	nãgas 
+talon: nagas	nãgas 
+cloud: debesis	debesy~s	debesìs 
+cold: Saltas	abeyingas	šaltas	šáltas 
+come: atei	ateit	ateĩti	atvy~k 
+come from: atei	ateit	ateĩti	atvy~k 
+be dead: mir	mirti	mirtìs	mir̃ti	numìręs 
+dead: mir	mirti	mirtìs	mir̃ti	numìręs 
+die: mir	mirti	mirtìs	mir̃ti	numìręs 
+dog: Suo	šuo	šuva	šuõ 
+drink: ger	gerti	girtau	gérti 
+dry: sausas	saũsas 
+ear: ausis	ausìs 
+earth: Zeme	žemė	žẽmė 
+ground: Zeme	žemė	žẽmė 
+land: Zeme	žemė	žẽmė 
+soil: Zeme	žemė	žẽmė 
+eat: iSes	valgyti	valgy~	válgyti	é̇sti 
+egg: kiauSinis	kiaušinis	kiaušìnis 
+eye: akis	akìs 
+fat: riebalai	taukai 
+fat n.: riebalai	taukai 
+grease: riebalai	taukai 
+lubricant: riebalai	taukai 
+oil: riebalai	taukai 
+feather: plunksna	plùnksna 
+fire: liepsna	ugnis	ugnìs 
+fish: Zuvis	žuvis	žuvìs 
+fly: lẽ̇kti	pralek	skris	skristi	skrìsti 
+fly v.: lẽ̇kti	pralek	skris	skristi	skrìsti 
+foot: koya	kója	peda	pėda 
+full: pilnas	pìlnas	visas 
+give: dovano	duo	duoti	dúoti 
+good: gerai	geras	gẽras	malonus 
+green: Zalias	nesubrendes	žalias	žãlias 
+hair: gaũras	palukas	plaukai	pláukas 
+hand: ranka	rankà 
+left hand: ranka	rankà 
+right: ranka	rankà 
+head: galva	galvà 
+hear: girde	girdé̇ti	girdėti	iSklausy~ti 
+heart: Sirdis	širdis	širdìs 
+horn: ragas	rãgas 
+1 sg.: aS	aš	àš 
+I: aS	aš	àš 
+kill: nuZudy~	uZmuS	užmùšti	žudyt	žudýti 
+knee: kelis	kẽlis 
+be knowledgeable: Zino	paZin	pažìnti	žinoti	žinóti 
+know: Zino	paZin	pažìnti	žinoti	žinóti 
+leaf: lapas	lãpas 
+lie: bu	gule	gulé̇ti 
+lie down: bu	gule	gulé̇ti 
+liver: kepenys	kepeny~s	kẽpenys 
+long: ilgas	letas	ìlgas 
+head louse: utele	utėlė	utėlẽ̇ 
+louse: utele	utėlė	utėlẽ̇ 
+male: Zmogus	vyras	výras 
+man: Zmogus	asmuo	žmogus	žmogùs	žmónės 
+many: daug	daugelis	daũg	daũgelis 
+much: daug	daugelis	daũg	daũgelis 
+multiple: daug	daugelis	daũg	daũgelis 
+several: daug	daugelis	daũg	daũgelis 
+flesh: kunas	mesa	mėsà 
+meat: kunas	mesa	mėsà 
+moon: menulis	mé̇nuo	mėnulis	mėnùlis 
+hill: kalnas	kalnẽlis	kálnas 
+mountain: kalnas	kalnẽlis	kálnas 
+mouth: burna	burnà 
+name: vardas	var̃das 
+title: vardas	var̃das 
+neck: kaklas	kãklas 
+new: SvieZias	jaunas	naujas	nauyas	naũjas 
+night: naktis	naktìs 
+nighttime: naktis	naktìs 
+nose: nosis	nuyautimas	nósis 
+not: ne 
+adulterous: vienas	víenas 
+one: vienas	víenas 
+single: vienas	víenas 
+that: anas	tas 
+the: vienas	víenas 
+unprincipled: vienas	víenas 
+human: Zmogus	asmuo	žmogus	žmogùs	žmónės 
+human being: Zmogus	asmuo	žmogus	žmogùs	žmónės 
+person: Zmogus	asmuo	žmogus	žmogùs	žmónės 
+rain: lietus	lietùs 
+rainy weather: lietus	lietùs 
+red: paraudes	raudonas	raudónas 
+path: kelelis	kelias	takas 
+road: kelelis	kelias	takas 
+route: kelelis	kelias	takas 
+root: Saknis	šaknis	šaknìs 
+round: apskritas	apvalus	apvalùs	ãpskritas 
+sand: smiltìs	smėlis	smẽ̇lis 
+say: Zodis	kalbé̇ti	nuomone	sakyti	sakýti	tar̃ti 
+see: Ziure	matyti	maty~	matýti	regé̇ti 
+seed: grudas	sekla	sé̇kla	sėkla 
+sit: posedZiau	sede	sėdé̇ti	sėdėti	sėsti 
+hide: kailis	káilis	oda	óda 
+skin: kailis	káilis	oda	óda 
+sleep: gulėti	miegas	miegoti	miegóti 
+little: maZas	maZutis	mažas	mãžas 
+small: maZas	maZutis	mažas	mãžas 
+smallness: maZas	maZutis	mažas	mãžas 
+smoke: dumai	dú̄mai	dūmai 
+stand: atsisto	stove 
+star: Sviesuly~s	ZvaigZde	žvaigždė	žvaigždẽ̇ 
+rock: akmuo	akmuõ	uolà 
+stone: akmuo	akmuõ	uolà 
+sun: saule	saulė	sáulė 
+swim: plaukio	plaukti	plaũkti	pláukioti 
+tail: eile	uodega	uodegà 
+this: Sitas	šis 
+2 sg: tu	tù	yus 
+thou: tu	tù	yus 
+you: tu	tù	yus 
+tongue: lieZuvis	liežuvis	liežùvis 
+tooth: dantis	dantìs 
+tree: medis 
+grind: div	du	dvi	dù 
+two: div	du	dvi	dù 
+go: ei	eiti	eĩti	vaikSCio	váikščioti 
+walk: ei	eiti	eĩti	vaikSCio	váikščioti 
+hot: šiltas	šil̃tas 
+warm: šiltas	šil̃tas 
+water: vanduo	vanduõ 
+1 pl. inc.: mes	mẽs 
+we: mes	mẽs 
+we₁: mes	mẽs 
+what: kas 
+white: baltas	báltas 
+whiteness: baltas	báltas 
+who: kas	kuris 
+who?: kas	kuris 
+female: moteris	moterìškė	móteris 
+woman: moteris	moterìškė	móteris 
+yellow: geltonas	geltónas 
+distant: tolimas	tolus	tolì 
+far: tolimas	tolus	tolì 
+dull: sunkums	sunkùs 
+heavy: sunkums	sunkùs 
+serious: sunkums	sunkùs 
+close: artimas	artì	šalià 
+near: artimas	artì	šalià 
+ner: artimas	artì	šalià 
+salt: druska	druskà 
+short: trumpas	trum̃pas 
+snake: gyvatė	gyvãtė	žaltỹs) 
+thin: plonas	plónas 
+wind: vé̇jas	vėjas 
+earthworm: kirminas	kirmėlė	kirmėlẽ̇	kir̃minas	slíekas 
+worm: kirminas	kirmėlė	kirmėlẽ̇	kir̃minas	slíekas 
+year: metai	mẽtai 
+3 sg.: jis 
+he: jis 
+she: jis 
+2 pl.: jũ̄s	jūs 
+ye: jũ̄s	jūs 
+you all: jũ̄s	jūs 
+3 pl.: jie	jiẽ	jõs 
+they: jie	jiẽ	jõs 
+here: čia 
+there: ten 
+where: kur 
+where?: kur 
+when: kada 
+when?: kada 
+how: kaip 
+how?: kaip 
+some: kažkiek	kẽletas	nedaũg	šíek tíek 
+few: keletas	mažaĩ	nedaũg 
+other: kitas 
+three: trys	trỹs 
+four: keturi	keturì 
+five: penki	penkì 
+broad: platùs	plotus 
+wide: platùs	plotus 
+wideness: platùs	plotus 
+thick: storas	stóras	tankus	tirštas 
+narrow: aɲkštas	siauras	siaũras 
+child: jauniklis	vaikas	vaĩkas 
+principal wife: patì	žmona	žmonà 
+wife: patì	žmona	žmonà 
+husband: pàts	vyras	výras 
+his mother: motina	mótina 
+mother: motina	mótina 
+my mother: motina	mótina 
+father: té̇vas	tėvas 
+his father: té̇vas	tėvas 
+my father: té̇vas	tėvas 
+animal: gyvulys	gyvulỹs	gyvũ̄nas	žvėris 
+forest: girià	miškas	mìškas 
+woods: girià	miškas	mìškas 
+branch: lazda	šakà 
+stick: lazda	šakà 
+fruit: vaisius	vaĩsiai 
+flower: gėlė	gėlẽ̇ 
+grass: žolė	žolẽ̇ 
+cord: virvė	vir̃vė 
+rope: virvė	vir̃vė 
+fingernail: nagas	nãgas 
+leg: koja	kója 
+arm: ranka 
+wing: sparnas	spar̃nas 
+gut: viduriai	žarnýnas	žárnos 
+guts: viduriai	žarnýnas	žárnos 
+insides: viduriai	žarnýnas	žárnos 
+intestine: viduriai	žarnýnas	žárnos 
+intestines: viduriai	žarnýnas	žárnos 
+back: nugara	nùgara 
+suck: čiulpti	žį́sti 
+spit: spjauti	spjáuti 
+vomit: vempti	vémti 
+blow: pũ̄sti	pūsti 
+breath: kvãpas	kvėpuoti	kvėpúoti 
+breathe: kvãpas	kvėpuoti	kvėpúoti 
+laugh: juoktis	juõktis 
+laughter: juoktis	juõktis 
+cogitate: galvoti	galvóti	mąstýti 
+reflect: galvoti	galvóti	mąstýti 
+think: galvoti	galvóti	mąstýti 
+smell: uosti	uostyti	úostyti 
+sniff: uosti	uostyti	úostyti 
+afraid: bijoti	báimė	ìšgąstis 
+be afraid: bijoti	báimė	ìšgąstis 
+fear: bijoti	báimė	ìšgąstis 
+fright: bijoti	báimė	ìšgąstis 
+alive: gyventi	gyvénti	gyvẽnimas	gývas	gývas bú̄ti	gývastis 
+be alive: gyventi	gyvénti	gyvẽnimas	gývas	gývas bú̄ti	gývastis 
+life: gyventi	gyvénti	gyvẽnimas	gývas	gývas bú̄ti	gývastis 
+live: gyventi	gyvénti	gyvẽnimas	gývas	gývas bú̄ti	gývastis 
+living: gyventi	gyvénti	gyvẽnimas	gývas	gývas bú̄ti	gývastis 
+fight: kovoti	kovóti	káutis	mùštis 
+hunt: medžioti	medžióti 
+beat: daũžti	mušti	mùšti	smogti	suduoti	sudúoti 
+hit: daũžti	mušti	mùšti	smogti	suduoti	sudúoti 
+strike: daũžti	mušti	mùšti	smogti	suduoti	sudúoti 
+cut: griežti	kirpti	kir̃pti	pjauti	pjáuti 
+hack: griežti	kirpti	kir̃pti	pjauti	pjáuti 
+cut open: skelti	skáldyti	skélti 
+split: skelti	skáldyti	skélti 
+pierce: besti	durti	dùrti	smeigti	smeĩgti	smõgti 
+stab: besti	durti	dùrti	smeigti	smeĩgti	smõgti 
+scratch: brėžti	drėksti 
+dig: kasti	kàsti	rausti 
+tell lies: gulti	gulėti	melúoti 
+turn: apsisukti	atsigrę̃žti	atsisùkti 
+turn around: apsisukti	atsigrę̃žti	atsisùkti 
+turn round: apsisukti	atsigrę̃žti	atsisùkti 
+drop: kristi	krìsti	pulti	pùlti	virsti 
+fall: kristi	krìsti	pulti	pùlti	virsti 
+grasp: laikyti	laikýti 
+hold: laikyti	laikýti 
+hold in arm: laikyti	laikýti 
+squeeze: gręžti	išgrę̃žti	spausti	spáusti 
+wring: gręžti	išgrę̃žti	spausti	spáusti 
+rub: trinti	trìnti 
+wipe: šluoti 
+wash: plauti	pláuti	praũsti	skalbti	skal̃bti 
+wash clothes: plauti	pláuti	praũsti	skalbti	skal̃bti 
+pull: traukti 
+push: stumti	stùmti 
+shove: stumti	stùmti 
+throw: mesti	mèsti 
+bind: rišti	rìšti 
+fasten: rišti	rìšti 
+tie: rišti	rìšti 
+tie up: rišti	rìšti 
+sew: siú̄ti	siūti 
+count: skaičiuoti	skaičiúoti 
+enumerate: skaičiuoti	skaičiúoti 
+number: skaičiuoti	skaičiúoti 
+tally: skaičiuoti	skaičiúoti 
+sing: dainuoti	dainúoti	giedóti 
+have fun: lõšti	žaisti	žaĩsti 
+play: lõšti	žaisti	žaĩsti 
+float: plaũkti	plũ̄duriuoti	plūduriuoti 
+flow: líetis	teké̇ti	tekėti 
+freeze: šalti 
+swell: tinti 
+brook: srovẽ̇	upė	upẽlis	ùpė 
+river: srovẽ̇	upė	upẽlis	ùpė 
+stream: srovẽ̇	upė	upẽlis	ùpė 
+lake: ežeras	ẽžeras 
+ocean: jú̄ra	jūra	marios	mãrios 
+sea: jú̄ra	jūra	marios	mãrios 
+dust: dulkės	dùlkės 
+fog: migla	miglà	rũ̄kas	rūkas	ũ̄kas	ūkas 
+sky: dangus	dangùs 
+snow: sniegas	sniẽgas 
+ice: ledas	lẽdas 
+blaze: deg	degti	dègti	dẽginti 
+burn: deg	degti	dègti	dẽginti 
+day: diena	dienà 
+daylight: diena	dienà 
+daytime: diena	dienà 
+old: senas	senovinis 
+bad: blogas	blõgas	negẽras	netikęs	prastas 
+evil: blogas	blõgas	negẽras	netikęs	prastas 
+rot: supuvęs	supùvęs 
+rotten: supuvęs	supùvęs 
+dirty: nešvarus	nešvarùs	purvinas	pur̃vinas 
+filthy: nešvarus	nešvarùs	purvinas	pur̃vinas 
+soiled: nešvarus	nešvarùs	purvinas	pur̃vinas 
+straight: tiesiai	tiesùs 
+sharp: aštrus	aštrùs 
+blunt: atšìpęs	bukas	bùkas 
+smooth: glotnus	glotnùs	lýgus	plýnas 
+damp: dré̇gnas	drėgnas	šlãpias 
+wet: dré̇gnas	drėgnas	šlãpias 
+correct: teisingas	teisìngas	teisùs 
+right side: dešinė	dešinẽ̇ 
+left: kairė	kairẽ̇ 
+at: pas	prie	ties	į 
+in: vidujè	vidìnis	į	į̃ vìdų 
+inside: vidujè	vidìnis	į	į̃ vìdų 
+with: per	su 
+and: ir	ir̃ 
+if: jei	jéi	jéigu 
+because: kadangi	kadángi	nes	nès	todẽ̇l kàd 

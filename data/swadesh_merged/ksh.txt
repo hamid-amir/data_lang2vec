@@ -1,0 +1,333 @@
+all: all	alle 
+every: all	alle 
+ash: Äsh 
+ashes: Äsh 
+bark: Borrək	Rinnde 
+abdomen: Buch 
+belly: Buch 
+big: jruuß 
+bigness: jruuß 
+large: jruuß 
+bird: Furrel 
+bite: biiße 
+black: shwazz 
+blood: Bloohdt 
+bone: Knoche 
+breast: Brußß	Dekolltee	Mämme 
+breasts: Brußß	Dekolltee	Mämme 
+cloud: Wollək 
+cold: kaal	kalldt 
+come: kumme 
+come from: kumme 
+be dead: shterrəve 
+dead: shterrəve 
+die: shterrəve 
+dog: Hongk 
+drink: drenke 
+dry: drüsh 
+ear: Uhr	Uur 
+earth: Boddem	Ääd 
+ground: Boddem	Ääd 
+land: Boddem	Ääd 
+soil: Boddem	Ääd 
+eat: äßße 
+egg: Ëĳ 
+eye: Ouch 
+feather: Fädder 
+fire: Füüer 
+fish: Fesh 
+fly: fleeje 
+fly v.: fleeje 
+foot: Fohß 
+full: foll 
+give: jääve	jëvve 
+good: joodt 
+green: jrööhn 
+hair: Hooh 
+head: Däz	Kopp 
+hear: hüüere 
+heart: Häzz 
+horn: Hoon 
+1 sg.: ish 
+I: ish 
+kill: duud maache 
+knee: Kneh 
+be knowledgeable: weßße 
+know: weßße 
+leaf: Bladt 
+liver: Livver 
+long: lang 
+head louse: Luhß 
+louse: Luhß 
+male: Jung	Kääl	Mann 
+man: Minsch 
+many: fill	fille 
+much: fill	fille 
+multiple: fill	fille 
+several: fill	fille 
+moon: Moohnd 
+hill: Bärrəsch 
+mountain: Bärrəsch 
+mouth: Munngk	Muul	Schnüßß 
+name: Naame 
+title: Naame 
+neck: Hallß 
+new: neu	nöü 
+night: Naach 
+nighttime: Naach 
+nose: Nahß 
+not: nit 
+adulterous: e	ëĳ	ëĳn	ëĳne 
+one: e	ëĳ	ëĳn	ëĳne 
+single: e	ëĳ	ëĳn	ëĳne 
+that: dat 
+the: e	ëĳ	ëĳn	ëĳne 
+unprincipled: e	ëĳ	ëĳn	ëĳne 
+human: Minsch 
+human being: Minsch 
+person: Minsch 
+rain: Rähn 
+rainy weather: Rähn 
+red: ruudt 
+path: Shtroohß 
+road: Shtroohß 
+route: Shtroohß 
+root: Woozell 
+round: runndt 
+sand: Sanndt 
+say: saare 
+see: sinn 
+seed: Saame 
+sit: sezze 
+hide: Hugk 
+skin: Hugk 
+sleep: schloofe 
+little: klee	klëĳ	klëĳn 
+small: klee	klëĳ	klëĳn 
+smallness: klee	klëĳ	klëĳn 
+smoke: Qwalləm 
+star: Shtään 
+rock: Shtëĳn 
+stone: Shtëĳn 
+sun: Sunn 
+swim: shwemme 
+tail: Shtez	Shtäzz 
+this: dat 
+2 sg: De	Do	Ühr 
+thou: De	Do	Ühr 
+you: De	Do	Ühr 
+tongue: Zung 
+tooth: Zaan 
+tree: Boum 
+grind: zwaĳ 
+two: zwaĳ 
+go: jonn 
+walk: jonn 
+hot: wärrəm 
+warm: wärrəm 
+water: Waßßor 
+1 pl. inc.: mier 
+we: mier 
+we₁: mier 
+what: watt 
+white: wiiß 
+whiteness: wiiß 
+who: wä	wänn	wää 
+who?: wä	wänn	wää 
+female: Frou	Weesh	Wiihf 
+woman: Frou	Weesh	Wiihf 
+yellow: jääl 
+distant: fään	wigk 
+far: fään	wigk 
+dull: shweer 
+heavy: shweer 
+serious: shweer 
+close: noh 
+near: noh 
+ner: noh 
+salt: Sallz 
+short: koot 
+snake: Schlang 
+thin: dönn 
+wind: Winndt 
+earthworm: Worrəm 
+worm: Worrəm 
+year: Joohr 
+3 sg.: hä 
+he: hä 
+she: hä 
+2 pl.: er	Ühr	ühr 
+ye: er	Ühr	ühr 
+you all: er	Ühr	ühr 
+3 pl.: sëĳ 
+they: sëĳ 
+here: hee	heh 
+there: doo 
+where: woh 
+where?: woh 
+when: wann	wänn 
+when?: wann	wänn 
+how: wi	wih 
+how?: wi	wih 
+some: e paa	paa	ättlijje 
+few: e paa	paa	winnije	winnish 
+other: annder	anndere 
+three: drëĳ 
+four: fiier 
+five: fönnef 
+broad: brëĳd	wigk 
+wide: brëĳd	wigk 
+wideness: brëĳd	wigk 
+fat: Fätt 
+thick: dek 
+narrow: schmaal 
+child: Panz 
+principal wife: Ejewiif	Frou	Wiihf 
+wife: Ejewiif	Frou	Wiihf 
+husband: Mann 
+his mother: Mamm	Motter 
+mother: Mamm	Motter 
+my mother: Mamm	Motter 
+father: Fatter 
+his father: Fatter 
+my father: Fatter 
+animal: Dier 
+forest: Walldt 
+woods: Walldt 
+branch: Shteck	Shtok	Shtëkke 
+stick: Shteck	Shtok	Shtëkke 
+fruit: Frůch 
+flower: Bloom 
+grass: Jrahß 
+cord: Siel	Tao 
+rope: Siel	Tao 
+flesh: Flëĳsh 
+meat: Flëĳsh 
+grease: Fätt 
+claw: Fengernääl 
+fingernail: Fengernääl 
+nail: Fengernääl 
+leg: Bëĳn 
+arm: Hanndt 
+hand: Hanndt 
+wing: Flöjel 
+gut: Därrəm 
+guts: Därrəm 
+insides: Därrəm 
+intestine: Därrəm 
+intestines: Därrəm 
+back: Rögge 
+suck: nüggelle 
+spit: shpeuje 
+vomit: kozze 
+blow: bloohse 
+breath: ödemme 
+breathe: ödemme 
+laugh: laache 
+laughter: laache 
+cogitate: dängke	nohdëngke 
+reflect: dängke	nohdëngke 
+think: dängke	nohdëngke 
+smell: rüche 
+sniff: rüche 
+afraid: bang sinn 
+be afraid: bang sinn 
+fear: bang sinn 
+fright: bang sinn 
+alive: lääve 
+be alive: lääve 
+life: lääve 
+live: lääve 
+living: lääve 
+fight: kämmfe 
+hunt: jaare 
+beat: houe	schlonn	träffe 
+hit: houe	schlonn	träffe 
+strike: houe	schlonn	träffe 
+cut: schnigge 
+hack: schnigge 
+cut open: dëĳle 
+split: dëĳle 
+pierce: shtäshe 
+stab: shtäshe 
+scratch: jökke	krazze 
+dig: buddelle 
+lie: lijje 
+lie down: lijje 
+tell lies: lijje 
+stand: shtonn 
+turn: driije	ömmdriije 
+turn around: driije	ömmdriije 
+turn round: driije	ömmdriije 
+drop: falle 
+fall: falle 
+grasp: hallde 
+hold: hallde 
+hold in arm: hallde 
+squeeze: drökke	präßße	qwëdsje 
+wring: drökke	präßße	qwëdsje 
+rub: riive 
+wipe: weshe 
+wash: wäsche 
+wash clothes: wäsche 
+pull: trëkke 
+push: deuje 
+shove: deuje 
+throw: wärrəve 
+bind: binge 
+fasten: binge 
+tie: binge 
+tie up: binge 
+sew: niije 
+count: zälle 
+enumerate: zälle 
+number: zälle 
+tally: zälle 
+sing: senge 
+have fun: shpille 
+play: shpille 
+float: schwemme	schwääve 
+flow: fleeße 
+freeze: friiere 
+swell: shwälle 
+brook: Floßß 
+river: Floßß 
+stream: Floßß 
+lake: Pütz	dä Seh 
+ocean: Meer	di Seh 
+sea: Meer	di Seh 
+dust: Shtöbp 
+fog: Nebel	Nääbel 
+sky: Hemmel 
+snow: Shniih 
+ice: Iiß 
+blaze: brënne 
+burn: brënne 
+day: Daach 
+daylight: Daach 
+daytime: Daach 
+old: ahl 
+bad: schlääsh 
+evil: schlääsh 
+rot: fuul	kappott	schlääsh 
+rotten: fuul	kappott	schlääsh 
+dirty: dräkkkelish	drëckish 
+filthy: dräkkkelish	drëckish 
+soiled: dräkkkelish	drëckish 
+straight: jraadt 
+sharp: scharrəf 
+blunt: shtummf 
+smooth: jlatt 
+damp: naaß 
+wet: naaß 
+correct: akkerat	rishtish	rääsh 
+right: räähß 
+right side: räähß 
+left: lingkß 
+at: aan	bëĳ	draan	op 
+in: en 
+inside: en 
+with: medt 
+and: unn 
+if: fallß	wänn 
+because: drömm	fö	wijel	wääre 

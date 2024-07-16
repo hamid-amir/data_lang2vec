@@ -1,0 +1,304 @@
+all: babaowe 
+every: babaowe 
+ash: timo 
+ashes: timo 
+bark: akʷi-biki bewe	ehi 
+big: haliǰa 
+bigness: haliǰa 
+large: haliǰa 
+bird: boni 
+bite: c̷oi	lao 
+black: sewa 
+blood: ami 
+bone: coa	e-c̷oa 
+breast: aco	ac̷o 
+breasts: aco	ac̷o 
+cloud: boso	mozizi-bade 
+cold: aboa 
+come: pobe-a	pobea 
+come from: pobe-a	pobea 
+be dead: mano 
+dead: mano 
+die: mano 
+dog: nio 
+drink: izi	laka 
+dry: azaha	kʷibi 
+ear: e-iza-ha	izaha 
+earth: eowa	ewa 
+ground: eowa	ewa 
+land: eowa	ewa 
+soil: eowa	ewa 
+eat: di	didia 
+egg: eha	walipa-ha 
+eye: e-toa	toa 
+feather: e-iɲa 
+fire: kw~ati	kʷa-ti 
+fish: hae 
+fly: kʷabec̷a 
+fly v.: kʷabec̷a 
+foot: wac̷i 
+full: hehe-a	hehea	mata 
+give: sihi	ti 
+good: ahai	da	hai-ǰa 
+green: a-sawa-lili	sawa-lili 
+hair: šoa-iɲa 
+hand: e-me	me 
+left hand: e-me	me 
+right: e-me	me 
+head: e-šoa 
+hear: cabaha	c̷abaha 
+heart: mosoho 
+horn: dana 
+1 sg.: ema	yama 
+I: ema	yama 
+kill: iše 
+knee: eadai	madaha 
+be knowledgeable: ba	ba-mewe 
+know: ba	ba-mewe 
+leaf: akw~ii5a	akʷi-iɲa 
+lie: ha-sisa	ha-wana 
+lie down: ha-sisa	ha-wana 
+liver: takw~a	takʷa 
+long: abao	aokʷe 
+head louse: i5akw~a	iɲakʷa 
+louse: i5akw~a	iɲakʷa 
+male: dea 
+man: cedapo	c̷edapo	e-kʷiča	kw~iCa 
+many: apamo	kʷeme 
+much: apamo	kʷeme 
+multiple: apamo	kʷeme 
+several: apamo	kʷeme 
+flesh: emi 
+meat: emi 
+moon: badi 
+hill: emaSokw~e	ewatihitihi	ewašokʷe 
+mountain: emaSokw~e	ewatihitihi	ewašokʷe 
+mouth: kʷac̷a 
+name: bani 
+title: bani 
+neck: nala 
+new: -nana	Sakw~a	nana	šakʷa 
+night: sisa 
+nighttime: sisa 
+nose: ewi	wi 
+adulterous: peada 
+one: peada 
+single: peada 
+that: peada 
+the: peada 
+unprincipled: peada 
+human: cedapo	c̷edapo	e-kʷiča	kw~iCa 
+human being: cedapo	c̷edapo	e-kʷiča	kw~iCa 
+person: cedapo	c̷edapo	e-kʷiča	kw~iCa 
+rain: nai 
+rainy weather: nai 
+red: asele 
+path: dizi 
+road: dizi 
+route: dizi 
+root: akʷi-c̷aha	c̷aha 
+round: haha-haha	kʷalolo 
+sand: mezizo 
+say: mezizo 
+see: ba 
+seed: haha 
+sit: ani 
+hide: biki 
+skin: biki 
+sleep: tawi 
+little: lopo 
+small: lopo 
+smallness: lopo 
+smoke: hodo 
+rock: mahana	melilo 
+stone: mahana	melilo 
+sun: zeti 
+swim: waoti 
+tail: siča 
+2 sg: mi	mi-ǰa	mi-ǰa-ha	mija 
+thou: mi	mi-ǰa	mi-ǰa-ha	mija 
+you: mi	mi-ǰa	mi-ǰa-ha	mija 
+tongue: ana	e-ana 
+tooth: ce	e-c̷e 
+tree: akw~i 
+grind: beta	beta-kata 
+two: beta	beta-kata 
+go: ahe 
+walk: ahe 
+hot: iyoti 
+warm: iyoti 
+water: e-na	eowi	na 
+1 pl. inc.: kw~ada	kʷada	kʷada-ha 
+we: kw~ada	kʷada	kʷada-ha 
+we₁: kw~ada	kʷada	kʷada-ha 
+what: ai	kʷipa 
+white: amae	apaha 
+whiteness: amae	apaha 
+who: aise	aiyaha 
+who?: aise	aiyaha 
+female: mama	pona 
+woman: mama	pona 
+yellow: a-hawa 
+distant: aokʷe	okʷeda 
+far: aokʷe	okʷeda 
+dull: a-bikʷe 
+heavy: a-bikʷe 
+serious: a-bikʷe 
+close: c̷awa	hakʷepati 
+near: c̷awa	hakʷepati 
+ner: c̷awa	hakʷepati 
+short: a-poko-poko 
+snake: baʼkʷa 
+thin: lasa-lasa 
+wind: beni 
+earthworm: c̷ena	hoto 
+worm: c̷ena	hoto 
+year: mala 
+2 pl.: mikana	mikana-ha 
+ye: mikana	mikana-ha 
+you all: mikana	mikana-ha 
+3 pl.: kana	naeda 
+they: kana	naeda 
+where: ko	koc̷o 
+where?: ko	koc̷o 
+when: c̷io	kec̷io	kʷipac̷io 
+when?: c̷io	kec̷io	kʷipac̷io 
+how: hada	kʷipa	kʷipac̷io 
+how?: hada	kʷipa	kʷipac̷io 
+some: ai	zeiyo 
+few: beta	zeiye 
+three: beta peada	kimiša 
+four: beta beta	wac̷eda wac̷eda 
+five: emerucuata 
+broad: wisoi-ono-kata 
+wide: wisoi-ono-kata 
+wideness: wisoi-ono-kata 
+fat: e-c̷ei 
+thick: apamotihi 
+narrow: kʷiwio 
+child: ʼbakʷa 
+principal wife: mama	wane 
+wife: mama	wane 
+husband: e-awe 
+his mother: kʷala	wadi 
+mother: kʷala	wadi 
+my mother: kʷala	wadi 
+father: kʷiča-po	tadi 
+his father: kʷiča-po	tadi 
+my father: kʷiča-po	tadi 
+forest: eiye 
+woods: eiye 
+branch: akʷi-ša	eša 
+stick: akʷi-ša	eša 
+fruit: haha 
+flower: ec̷a 
+grass: noc̷a 
+cord: bado	misa 
+rope: bado	misa 
+grease: e-c̷ei 
+claw: me-tezi 
+fingernail: me-tezi 
+nail: me-tezi 
+leg: eta	tiǰada 
+wing: naba-i 
+gut: c̷ama 
+guts: c̷ama 
+insides: c̷ama 
+intestine: c̷ama 
+intestines: c̷ama 
+back: be-bakʷa	be-sese 
+suck: bibi 
+spit: kʷedi 
+vomit: bataiyo 
+blow: lepe	wo 
+breath: hana-miki 
+breathe: hana-miki 
+laugh: izibati 
+laughter: izibati 
+cogitate: nime-a 
+reflect: nime-a 
+think: nime-a 
+afraid: aheni	akeoli 
+be afraid: aheni	akeoli 
+fear: aheni	akeoli 
+fright: aheni	akeoli 
+alive: c̷eiɲeba	ize	neti 
+be alive: c̷eiɲeba	ize	neti 
+life: c̷eiɲeba	ize	neti 
+live: c̷eiɲeba	ize	neti 
+living: c̷eiɲeba	ize	neti 
+hunt: c̷a	kʷade	pisa 
+beat: iše	lawia 
+hit: iše	lawia 
+strike: iše	lawia 
+cut: hala	hikʷi	laha	sasa 
+hack: hala	hikʷi	laha	sasa 
+cut open: noi	sala	tozo 
+split: noi	sala	tozo 
+pierce: šoto 
+stab: šoto 
+dig: loe 
+tell lies: dipanoši 
+stand: neti 
+turn: balele-a 
+turn around: balele-a 
+turn round: balele-a 
+drop: bisa	pai 
+fall: bisa	pai 
+grasp: isea	toaba 
+hold: isea	toaba 
+hold in arm: isea	toaba 
+squeeze: solo	tedi 
+wring: solo	tedi 
+rub: kʷihi 
+wipe: kʷihi 
+wash: lokʷa 
+wash clothes: lokʷa 
+push: he-anawiki 
+shove: he-anawiki 
+throw: ha	iša	iša-botea	wanabotea 
+bind: ihi 
+fasten: ihi 
+tie: ihi 
+tie up: ihi 
+sew: likʷi 
+count: topo 
+enumerate: topo 
+number: topo 
+tally: topo 
+sing: hehe 
+have fun: ha-topa-ti	topa 
+play: ha-topa-ti	topa 
+float: beza	zata 
+brook: mano	šašo-kʷe 
+river: mano	šašo-kʷe 
+stream: mano	šašo-kʷe 
+lake: bai 
+ocean: c̷eiɲena 
+sea: c̷eiɲena 
+dust: poc̷ac̷a-i 
+fog: baepa mozizi 
+sky: baepa 
+day: c̷eiɲe 
+daylight: c̷eiɲe 
+daytime: c̷eiɲe 
+bad: -isi	masawe	šili 
+evil: -isi	masawe	šili 
+rot: c̷oto	iwi	oli 
+rotten: c̷oto	iwi	oli 
+dirty: azalo	boso 
+filthy: azalo	boso 
+soiled: azalo	boso 
+straight: apia	ateli	piǰa 
+sharp: akʷeo 
+blunt: tobotana 
+smooth: pena-pena	semihi 
+damp: anaha 
+wet: anaha 
+correct: haa	hememe 
+right side: me-anai bene 
+left: zania bene 
+in: emeo	meo 
+inside: emeo	meo 
+if: -c̷omo	-haomo 
+because: bac̷o	biyo	poho 

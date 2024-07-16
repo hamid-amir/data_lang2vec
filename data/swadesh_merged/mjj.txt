@@ -1,0 +1,439 @@
+all: uruëtikë | uruʌtikʌ 
+all: uruʌtikʌ 
+arm: ape 
+arm: apɛ 
+arrow: pub 
+ashes: fëmu | fʌmu 
+ashes: fʌmu 
+back: omote 
+back: omotɛ 
+bad: fi:wi 
+bad: fiːwi 
+belly: urʌ | usʌku 
+belly: urë | usʌku 
+belly: usëku | usʌku 
+belly: usʌku 
+big: sepa | sɛpa 
+big: sɛpa 
+bird: muŋgʌ 
+bird: munggë | muŋgʌ 
+bite: nauna- | nauna-	naw- 
+bite: naw- | nauna-	naw- 
+black: useb | usɛb 
+black: usɛb 
+blood: mëwor | m3wor	mʌwɔr 
+blood: mʌwɔr | m3wor	mʌwɔr 
+blow: fit- 
+bone: kɛnʌb | kEn3b	kɛnʌb 
+bone: kenëb | kEn3b	kɛnʌb 
+boy: haireb 
+boy: hairɛb 
+breast: me | mE	mɛ 
+breast: mɛ | mE	mɛ 
+brother: ëpe 
+brother: imbët 
+brother: imbʌt 
+brother: iperëp 
+brother: iperʌp 
+brother: ʌpʌ 
+brother: yimaha 
+burn: kum- 
+butterfly: minggë-kur 
+butterfly: mɪŋgʌkur 
+calf: ambesvunu 
+calf: mbɛsaßunu 
+cassowary: kë:ki 
+chest: oporhë sëpir 
+chest: oporhʌ sʌpir 
+child: sesa 
+child: sɛsa 
+chin: pëtetë 
+chin: pʌtɛtʌ 
+cloud: atoporëk | atoporʌk 
+cloud: atoporʌk 
+cold: pepur | pepurr 
+cold: pepurr 
+come: f- | f-	fopa	fopa- 
+come: fopa- | f-	fopa	fopa- 
+crocodile: duër 
+crocodile: duʌrr 
+cut: pah- 
+cut: pawi- 
+cut: war- 
+day: mëik 
+day: urënë 
+day: urʌnʌ 
+die: um- | um	um-	umumba-	umumb~a 
+die: umumba- | um	um-	umumba-	umumb~a 
+dig: orefer- 
+dig: orufɛr- 
+dig: uno- 
+dirty: siwirpok 
+dirty: tupik 
+dog: emën | Em3n	ɛmʌn 
+dog: ɛmʌn | Em3n	ɛmʌn 
+dry: ererekewa | ɛrɛrɛkɛwa 
+dry: ɛrɛrɛkɛwa 
+ear: iwament | iwamEnt	iwamɛnt 
+ear: iwamɛnt | iwamEnt	iwamɛnt 
+earth: ëk mëmun | ʌk mʌmun 
+earth: ʌk mʌmun 
+eat: enem- | ɛnɛm- 
+eat: ɛnɛm- 
+eat: mukuwi- | ɛnɛm- 
+egg: munangk | munaŋk 
+egg: munaŋk 
+elbow: tumʌb 
+elbow: tumëb 
+emu: kʌːki 
+excrement: ipu 
+eye: ërïhë | 3rah3	ʌrahʌ 
+eye: ʌrahʌ | 3rah3	ʌrahʌ 
+face: munggasik 
+face: muŋgasik 
+fall: opiri- 
+fall: opirip- 
+far: asia 
+father: kendek 
+father: kɛndɛk 
+father: tamënd 
+father: tamʌnd 
+fat (n.): awir 
+fat (n.): awirr 
+fear: pipi- 
+few: epik 
+few: ɛpik 
+fight: kaparam- 
+fight: purum- 
+fingernail: singgen 
+fingernail: siŋgɛn 
+finger: unent 
+finger: unɛnt 
+fire: mundu | mundu	mund~u 
+fish: kënë | k3n3	kʌnʌ 
+fish: kʌnʌ | k3n3	kʌnʌ 
+fly (n.): tiruk 
+fly (v.): pukup irip- 
+fog: somba 
+forest: nembakena 
+forest: nɛmbakɛna 
+fruit: urʰʌ 
+fruit: urhë 
+full: tan.bahëk | tanbah3k	tanbahʌk 
+full: tanbahʌk | tanbah3k	tanbahʌk 
+full: un- | tanbah3k	tanbahʌk 
+girl: duang 
+girl: duaŋ 
+give: -ɛy- 
+give: -ey-/-w-/-tupëh- | -ɛy- 
+good: iëv | iʌβ 
+good: iʌß | iʌβ 
+grass: sewab 
+green: nomunomu 
+guts: urʌ 
+guts: urë 
+hair: imi 
+head: aninggen | aniŋgɛn 
+head: aniŋgɛn 
+head: mundu kumu | aniŋgɛn 
+hear: -furu-kew- | -furu-kɛw-	furukEw 
+hear: -furu-kɛw- | -furu-kɛw-	furukEw 
+heart: ëporhë | ʌporʰʌ 
+heart: ʌporʰʌ 
+heavy: pinënt | pinʌnt 
+heavy: pinʌnt 
+here: uwe 
+here: uwɛ 
+he/she: o- 
+he/she: ø- 
+he/she: wo 
+hit: kaparam- 
+hit: purum- 
+house: tuër 
+house: tuʌr 
+how: kemendete 
+I: ina- | yE	yɛ 
+in: ambëk 
+I: ye | yE	yɛ 
+I: ye- | yE	yɛ 
+I: yɛ | yE	yɛ 
+I: yɛ- | yE	yɛ 
+kill: wakirim- 
+knee: andekubanum | and~Ekubanum	andɛkubanum 
+knee: andɛkubanum | and~Ekubanum	andɛkubanum 
+laugh: irami- 
+left: faya 
+left: feya 
+leg: ëne 
+leg: ʌnɛ 
+liver: kema | kEma	kɛma 
+liver: kɛma | kEma	kɛma 
+long: sekët | sɛkʰʌt 
+long: sɛkʰʌt 
+louse: nëndi | n3nd~i 
+louse: nʌndi | n3nd~i 
+man: mënde amun | mʌndɛ amun 
+man: mʌndɛ amun 
+man: morhën | mʌndɛ amun 
+man: mɔrʰʌn | mʌndɛ amun 
+many: awɛkhʌb 
+many: awekhëb | awɛkhʌb 
+meat: saŋgiʌ 
+meat: sanggië 
+moon: ëhi | ʌhi 
+moon: ʌhi 
+morning: enekab 
+morning: ɛnekab 
+morning: peki 
+mosquito: masen 
+mosquito: masɛn 
+mother: kamengg 
+mother: kamɛŋg 
+mountain: ërëhë | 3r3h3	ʌrʌhʌ 
+mountain: ʌrʌhʌ | 3r3h3	ʌrʌhʌ 
+mouth: ëpërëmun | ʌpʌrʌmun 
+mouth: ʌpʌrʌmun 
+name: unim 
+nape: umë kenëb 
+nape: umʌ kɛnʌb 
+navel: usok 
+near: arikʌ 
+near: arikë | arikʌ 
+neck: tangger | taŋgɛr 
+neck: taŋgɛr 
+new: nomung | nomuN	nomuŋ 
+new: nomuŋ | nomuN	nomuŋ 
+night: hatru | hatru	turErEk	turɛrɛk 
+night: turerek | hatru	turErEk	turɛrɛk 
+night: turɛrɛk | hatru	turErEk	turɛrɛk 
+nose: munggësik | muNg3sik	muŋgʌsik 
+not: waik 
+old: mande fiwi 
+old: mandɛ fiwi 
+old: ohi 
+one: kate | katE	katiga	katɛ 
+one: katɛ | katE	katiga	katɛ 
+one: katiga | katE	katiga	katɛ 
+pull: mub- 
+push: sub- 
+rain: sepik | sɛpik 
+rain: sɛpik 
+rat: nanggomu 
+rat: naŋgomu 
+red: etët | ɛtʌt 
+red: ɛtʌt 
+right: ëte | aniNgen 
+right: ʌtɛ | aniNgen 
+ripe: ipët 
+ripe: ipʌt 
+road: erehe | ErEhE 
+road: ɛrɛhɛ | ErEhE 
+root: wahir | wahirr 
+root: wahirr 
+rope: kuwindʌr 
+salt: iwir 
+sand: iwir | sɛrɛb 
+sand: sereb | sɛrɛb 
+sand: sɛrɛb 
+say: pok (ar-) | -sɛk- 
+say: pok (ar)- | -sɛk- 
+say: -sek- | -sɛk- 
+say: -sɛk- 
+scratch: oruk- 
+sea: ieir opɛt 
+sea: iwir opet 
+see: ɛk- | -wɛk-	wEk 
+see: -wek- | -wɛk-	wEk 
+see: -wɛk- | -wɛk-	wEk 
+sharp: awerë 
+sharp: muskot- 
+short: tuhub 
+shoulder: kukupʌ 
+shoulder: kukupë 
+sing: uwi- 
+sister: ëp heip 
+sister: ima heip 
+sister: nimunët 
+sister: nimunʌt 
+sister: ʌp heip 
+sister: sëi karen 
+sister: sʌi karen 
+sit: pok- 
+skin: fuku 
+sky: haura 
+sleep: in- 
+small: fiwatiat | fiwatiat	sɛsa 
+small: sesa | fiwatiat	sɛsa 
+small: sɛsa | fiwatiat	sɛsa 
+smell: itum- 
+smoke: këwuk | kʌwuk 
+smoke: kʌwuk 
+snake: iwʌ 
+snake: iwë | iwʌ 
+spit: ɛnɛr um- 
+spit: (ë)pëmendir 
+spit: (ʌ)pʌmɛndir 
+stand: et- 
+stand: hie- 
+stand: -kup- 
+stand: pait- 
+star: mɛngam | mENgam	mɛngam 
+star: menggam | mENgam	mɛngam 
+stick: atukum 
+stone: nome | nomE	nomɛ 
+stone: nomɛ | nomE	nomɛ 
+straight: kin.gen 
+straight: kingɛn 
+sun: ëmëri | 3m3ri	ʌmʌri 
+sun: ʌmʌri | 3m3ri	ʌmʌri 
+swell: tafuk- 
+swell: tafuk(obi)- 
+swell: tafukobi- 
+tail: bitikur | ɛrɛp 
+tail: erep | ɛrɛp 
+tail: ɛrɛp 
+take: w- 
+that: asia 
+there: amënë 
+there: amʌnʌ 
+they: mande 
+they: ø- 
+they: w- 
+thigh: nggubu 
+thigh: ŋgubu 
+this: uwe | uwɛ 
+this: uwɛ 
+thou: na- | nE	nɛ 
+thou: ne | nE	nɛ 
+thou: ne- | nE	nɛ 
+thou: nɛ | nE	nɛ 
+thou: nɛ- | nE	nɛ 
+thou: niŋgɛ | nE	nɛ 
+thou: niŋgɛ- | nE	nɛ 
+throat: opër 
+throat: ɔpʌr 
+throat: tanger 
+throat: taŋɛr 
+throw: mametiw- 
+throw: namɛtiw- 
+throw: wi- 
+thunder: atopokëk orop- 
+thunder: atopokʌk orop- 
+tie: muw- 
+tomorrow: im 
+tomorrow: suoʌ 
+tomorrow: suoë 
+tongue: nëwiëk | n3wi3k	nʌwiʌk 
+tongue: nʌwiʌk | n3wi3k	nʌwiʌk 
+tooth: nënggëpë | n3Ng3ph~3	nʌŋgʌpʰʌ 
+tooth: nʌŋgʌpʰʌ | n3Ng3ph~3	nʌŋgʌpʰʌ 
+tree: ɛna | n3 
+tree: nʌ | n3 
+tree: në | n3 
+tree: pesib | n3 
+turn: kiri fer- 
+turn: kiri fɛr- 
+two: ireb | irEb	irɛb 
+two: irɛb | irEb	irɛb 
+vomit: mirir- 
+vomit: miriwi- 
+walk: abi- | hat-	haw- 
+walk: ah- | hat-	haw- 
+walk: hat- | hat-	haw- 
+walk: haw- | hat-	haw- 
+walk: hiha- | hat-	haw- 
+walk: papahɛib haw- | hat-	haw- 
+wallaby: mɛmbʌ 
+wallaby: membë 
+warm: wawirwuʌ 
+warm: wawirwuë 
+wash: -heiw- 
+wash: opet is- 
+water: opet | opEt	opɛt 
+water: opɛt | opEt	opɛt 
+weep: mi- 
+we: ike | ikE 
+we: ike- | ikE 
+we: ikɛ | ikE 
+we: ikɛ- | ikE 
+wet: pepur 
+wet: pɛpurr 
+we: ya- | ikE 
+what: mamea | mamɛa 
+what: mamɛa 
+where: kemetena 
+where: kɛmɛtɛna 
+white: fuʌ 
+white: fuë | fuʌ 
+who: mea | mɛa 
+who: mɛa 
+wind: upinam 
+wing: menggër 
+wing: mɛŋgʌr 
+woman: mënde upiab | mʌndɛ upiab 
+woman: mʌndɛ upiab 
+woman: unend | mʌndɛ upiab 
+woman: unɛnd | mʌndɛ upiab 
+wood: atukum 
+wood: mura 
+wood: narek 
+wood: narɛk 
+yellow: ënib | ʌnib 
+yellow: ʌnib 
+yes: ëy 
+yesterday: eninangg 
+yesterday: ɛninaŋg 
+yesterday: omër 
+yes: ʌy 
+you: na- | nE	nɛ 
+you: ningge | nE	nɛ 
+you: ningge- | nE	nɛ 
+every: uruʌtikʌ 
+ash: fʌmu 
+abdomen: usʌku 
+bigness: sɛpa 
+large: sɛpa 
+breasts: mE	mɛ 
+come from: f-	fopa	fopa- 
+be dead: um	um-	umumba-	umumb~a 
+dead: um	um-	umumba-	umumb~a 
+ground: ʌk mʌmun 
+land: ʌk mʌmun 
+soil: ʌk mʌmun 
+fly: pukup irip- 
+fly v.: pukup irip- 
+hand: aniNgen 
+left hand: aniNgen 
+1 sg.: yE	yɛ 
+head louse: n3nd~i 
+male: mʌndɛ amun 
+much: awɛkhʌb 
+multiple: awɛkhʌb 
+several: awɛkhʌb 
+hill: 3r3h3	ʌrʌhʌ 
+title: unim 
+nighttime: hatru	turErEk	turɛrɛk 
+adulterous: katE	katiga	katɛ 
+single: katE	katiga	katɛ 
+the: katE	katiga	katɛ 
+unprincipled: katE	katiga	katɛ 
+rainy weather: sɛpik 
+path: ErEhE 
+route: ErEhE 
+hide: fuku 
+little: fiwatiat	sɛsa 
+smallness: fiwatiat	sɛsa 
+rock: nomE	nomɛ 
+2 sg: nE	nɛ 
+grind: irEb	irɛb 
+go: hat-	haw- 
+1 pl. inc.: ikE 
+we₁: ikE 
+whiteness: fuʌ 
+who?: mɛa 
+female: mʌndɛ upiab 
+distant: asia 
+dull: pinʌnt 
+serious: pinʌnt 
+close: arikʌ 
+ner: arikʌ 

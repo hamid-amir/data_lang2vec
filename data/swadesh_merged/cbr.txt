@@ -1,0 +1,270 @@
+all: kamaβi 
+every: kamaβi 
+ash: či-mapo 
+ashes: či-mapo 
+bark: ṣ̌aʼka 
+big: čaa	ʔɨo 
+bigness: čaa	ʔɨo 
+large: čaa	ʔɨo 
+bird: ʔisa 
+bite: naʼtɨṣ̌-	βɨʼtan-ti 
+black: toʼnã 
+blood: imi 
+bone: So	ṣ̌oo 
+breast: Suma	ṣ̌oma 
+breasts: Suma	ṣ̌oma 
+claw: ʔõʼc̷is 
+nail: ʔõʼc̷is 
+talon: ʔõʼc̷is 
+cloud: nɨtɨ ʼkʷĩ 
+cold: mac̷i	maṣ̌ɨṣ̌ 
+come: o-ti	uti 
+come from: o-ti	uti 
+be dead: 5uti	bamati	βama-ti 
+dead: 5uti	bamati	βama-ti 
+die: 5uti	bamati	βama-ti 
+dog: kaʼmõ 
+drink: kuaSkati	šɨa- 
+dry: ɨʼɨska-ti 
+ear: pabi	paʼβi 
+earth: mee 
+ground: mee 
+land: mee 
+soil: mee 
+eat: ko-	pi-ti 
+egg: βac̷i 
+eye: buru	βɨro 
+feather: pɨči 
+fire: ci	c̷ii	taba* 
+fly: noʼã-ti 
+fly v.: noʼã-ti 
+foot: taɨ 
+give: ʔiʼnan-ti 
+good: oʼpi 
+hair: βuu 
+hand: muku*	mɨʼkɨ̃ 
+left hand: muku*	mɨʼkɨ̃ 
+right: muku*	mɨʼkɨ̃ 
+head: mapuṣ̌oo	maṣ̌ʼka 
+hear: kuati	kʷa-ti 
+heart: nuitu 
+horn: matuSka	maʼtuṣ̌ka 
+1 sg.: ʔɨ- 
+I: ʔɨ- 
+kill: rɨ-ti 
+knee: rabuSu	rãβoṣ̌o 
+be knowledgeable: ʔoʼnã-ti 
+know: ʔoʼnã-ti 
+leaf: pui	pɨi	pɨči 
+lie: raʼka-ti 
+lie down: raʼka-ti 
+liver: takau	takʷa 
+long: čaṣ̌ʼkɨ 
+head louse: Si*Si*	suku	ʔia 
+louse: Si*Si*	suku	ʔia 
+male: nukɨ βɨnɨ 
+man: oni	uni	βɨβo 
+many: ɨṣ̌ku	ʔic̷a 
+much: ɨṣ̌ku	ʔic̷a 
+multiple: ɨṣ̌ku	ʔic̷a 
+several: ɨṣ̌ku	ʔic̷a 
+flesh: nami 
+meat: nami 
+moon: ʔoṣ̌ɨ 
+hill: baSi	mata*	maʼnã	βaši 
+mountain: baSi	mata*	maʼnã	βaši 
+mouth: kʷɨʼβi 
+name: anu	anɨ 
+title: anu	anɨ 
+new: iʼo 
+night: imu	iʼmɨ 
+nighttime: imu	iʼmɨ 
+nose: ruki*	rɨʼkĩ 
+adulterous: aCuSi	ádzue 
+one: aCuSi	ádzue 
+single: aCuSi	ádzue 
+that: aCuSi	ádzue 
+the: aCuSi	ádzue 
+unprincipled: aCuSi	ádzue 
+human: oni	uni	βɨβo 
+human being: oni	uni	βɨβo 
+person: oni	uni	βɨβo 
+rain: uɲe	ɨβe	ʔuβe 
+rainy weather: uɲe	ɨβe	ʔuβe 
+path: bai* 
+road: bai* 
+route: bai* 
+root: taʼpõ 
+round: maʼmua 
+sand: masi 
+say: ka-ti 
+see: is-ti	isti 
+seed: βɨru 
+sit: c̷oʼo-ti 
+hide: Saka	buSb~i	βɨṣ̌ʼβi	ṣ̌aʼka 
+skin: Saka	buSb~i	βɨṣ̌ʼβi	ṣ̌aʼka 
+sleep: ʔoṣ̌-ti 
+little: čuʼkuma 
+small: čuʼkuma 
+smallness: čuʼkuma 
+smoke: c̷ii ʼkʷĩ	koʼĩ 
+star: ispa	uspa	ʔispa 
+rock: maSaS	mapara	maʼṣ̌aṣ̌ 
+stone: maSaS	mapara	maʼṣ̌aṣ̌ 
+sun: bari	βari 
+swim: mɨɲo-ti 
+tail: ina 
+2 sg: mii 
+thou: mii 
+you: mii 
+tongue: ana 
+tooth: Suta	ṣ̌ɨta 
+grind: rabu	rawué	raʼβɨ 
+two: rabu	rawué	raʼβɨ 
+go: niti 
+walk: niti 
+water: umpaS	ʔõʼpaṣ̌ 
+white: oṣ̌o 
+whiteness: oṣ̌o 
+who: ui 
+who?: ui 
+female: ṣ̌ano 
+woman: ṣ̌ano 
+yellow: pãʼšĩã 
+distant: ʔura 
+far: ʔura 
+dull: ʔiɨ 
+heavy: ʔiɨ 
+serious: ʔiɨ 
+salt: taši	taʼšĩ-ti 
+short: mɨʼtu 
+snake: pisʼka	rono 
+thin: βɨ̃ʼc̷ĩ 
+wind: punapuna	soɲo 
+earthworm: noʼĩ	ṣ̌ɨβɨβɨi 
+worm: noʼĩ	ṣ̌ɨβɨβɨi 
+year: βaritia 
+2 pl.: mic̷o 
+ye: mic̷o 
+you all: mic̷o 
+3 pl.: ato 
+they: ato 
+few: tɨṣ̌ɨ 
+three: kimiša	ítsa 
+broad: paʼruša 
+wide: paʼruša 
+wideness: paʼruša 
+fat: ṣ̌ɨni 
+thick: kɨṣ̌ʼto 
+narrow: antupɨ 
+child: βakɨ 
+principal wife: ṣ̌aʼβiõkɨ 
+wife: ṣ̌aʼβiõkɨ 
+husband: βɨnɨ 
+his mother: tita 
+mother: tita 
+my mother: tita 
+father: papa 
+his father: papa 
+my father: papa 
+animal: ɲuina 
+forest: nii 
+woods: nii 
+branch: paṣ̌ko 
+stick: paṣ̌ko 
+fruit: βimi 
+flower: oa 
+grass: čuku	βasi	ṣ̌uβi 
+cord: nisi 
+rope: nisi 
+grease: ṣ̌ɨni 
+fingernail: ʔõʼc̷is 
+leg: iʼtaṣ̌ 
+gut: poko-ɲaru 
+guts: poko-ɲaru 
+insides: poko-ɲaru 
+intestine: poko-ɲaru 
+intestines: poko-ɲaru 
+back: kaṣ̌o 
+suck: ʔoɲoka-ti 
+spit: tušuka-ti 
+vomit: aʼna-ti 
+blow: rɨɨka-ti 
+breath: oʼĩ-ti 
+breathe: oʼĩ-ti 
+laugh: ʔoʼsã 
+laughter: ʔoʼsã 
+cogitate: siʼnã-ti 
+reflect: siʼnã-ti 
+think: siʼnã-ti 
+smell: ṣ̌ɨ-ti 
+sniff: ṣ̌ɨ-ti 
+afraid: rato-	raʼkʷɨ-ti 
+be afraid: rato-	raʼkʷɨ-ti 
+fear: rato-	raʼkʷɨ-ti 
+fright: rato-	raʼkʷɨ-ti 
+fight: ṣ̌uka-ti 
+hunt: ɲua-ti 
+beat: pɨʼɨ̃ka-ti 
+hit: pɨʼɨ̃ka-ti 
+strike: pɨʼɨ̃ka-ti 
+cut: tuka-ti 
+hack: tuka-ti 
+cut open: tuka-ti 
+split: tuka-ti 
+pierce: čači- 
+stab: čači- 
+dig: naɨ-ti 
+tell lies: kɨmɨ-ti 
+stand: ni-	niru-ti 
+turn: maia-ti 
+turn around: maia-ti 
+turn round: maia-ti 
+drop: nipakɨ-ti 
+fall: nipakɨ-ti 
+grasp: tuĩ-ti 
+hold: tuĩ-ti 
+hold in arm: tuĩ-ti 
+squeeze: čɨʼɨka-ti	βiʼtaṣ̌-ti 
+wring: čɨʼɨka-ti	βiʼtaṣ̌-ti 
+rub: pɨča-ti 
+wipe: pɨča-ti 
+wash: čoka-ti 
+wash clothes: čoka-ti 
+push: c̷irakaʼna-ti 
+shove: c̷irakaʼna-ti 
+throw: po- 
+bind: nɨa-ti 
+fasten: nɨa-ti 
+tie: nɨa-ti 
+tie up: nɨa-ti 
+sew: kɨṣ̌ɨ-	ʔunu-ti 
+sing: tupu-ti 
+have fun: kʷai-ti 
+play: kʷai-ti 
+flow: šiʼoβu-ti 
+brook: βaka 
+river: βaka 
+stream: βaka 
+lake: ʔiʼã 
+ocean: paʼrõpapa 
+sea: paʼrõpapa 
+dust: mee poto 
+fog: kʷeʼẽkoro	nɨtɨ koro 
+sky: naʼi 
+day: nɨtɨ 
+daylight: nɨtɨ 
+daytime: nɨtɨ 
+bad: ʔaisama 
+evil: ʔaisama 
+rot: pisi 
+rotten: pisi 
+dirty: mɨʼpaski-ti 
+filthy: mɨʼpaski-ti 
+soiled: mɨʼpaski-ti 
+straight: pũkuɲumarua 
+sharp: kʷɨno- 
+damp: čaʼβa- 
+wet: čaʼβa- 
+right side: mɨkʷe	mɨʼkɨ̃kʷe 
+because: raβanã 

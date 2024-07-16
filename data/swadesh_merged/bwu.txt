@@ -1,0 +1,141 @@
+all: miena 
+every: miena 
+ash: təntuam 
+ashes: təntuam 
+bark: pak 
+abdomen: po-e	pɔe 
+belly: po-e	pɔe 
+big: kpioŋ	zua- 
+bigness: kpioŋ	zua- 
+large: kpioŋ	zua- 
+bird: nuem	nuəm 
+bite: dom	dɔm 
+black: sobl-	sɔbluk 
+blood: zi-m	zim 
+bone: kobi	kwɔbe 
+breast: bih-li	biːsiri	sunum 
+breasts: bih-li	biːsiri	sunum 
+claw: ninyeŋ	niɲɛŋ 
+nail: ninyeŋ	niɲɛŋ 
+talon: ninyeŋ	niɲɛŋ 
+cloud: čə-ŋmari 
+cold: ŋoːta 
+come: jam	ǯam 
+come from: jam	ǯam 
+be dead: 5e kp~yeri	Caxi	kpi	kp~i 
+dead: 5e kp~yeri	Caxi	kpi	kp~i 
+die: 5e kp~yeri	Caxi	kpi	kp~i 
+dog: ba-	biak 
+drink: 5u	nyu	ɲu 
+dry: kwɔ 
+ear: turi 
+eat: de 
+egg: kpa-ǯeŋ	kpaǯeŋ 
+eye: nimbiri	num 
+feather: kwok	kwɔk 
+fire: bolim	boləm	bɔləm 
+fish: jum	ǯum 
+fly: yiti 
+fly v.: yiti 
+foot: nantuak 
+full: NobiN	suere 
+give: te 
+good: nalem	naləm 
+green: sobl-	sɔbluk 
+hair: zuik	zulk 
+hand: nisa	nisiri 
+left hand: nisa	nisiri 
+right: nisa	nisiri 
+head: zuk	zul 
+hear: wom	wɔm 
+heart: zuk-yok	zukyok 
+horn: 5ili	nyiːle	ɲiːle 
+1 sg.: mi 
+I: mi 
+knee: dunu	dunuN 
+be knowledgeable: miŋ 
+know: miŋ 
+leaf: va-	viok	viokw	viɛku 
+lie: duak 
+lie down: duak 
+liver: pa*N	pai	paŋi 
+long: woŋ	wɔŋ 
+head louse: Cikp~ebi 
+louse: Cikp~ebi 
+male: nido-a	nidɔa 
+man: jab	nur	nur-o 
+many: yegyega	zua 
+much: yegyega	zua 
+multiple: yegyega	zua 
+several: yegyega	zua 
+flesh: lam 
+meat: lam 
+moon: čiːk 
+hill: kuŋkutuŋ	puN 
+mountain: kuŋkutuŋ	puN 
+mouth: no-e	nwɔɛ 
+name: yuei	ywe	ɥe 
+title: yuei	ywe	ɥe 
+neck: itiok	titɔk 
+new: palik	paːl-	paːlək 
+night: yok	ywok	ywɔk 
+nighttime: yok	ywok	ywɔk 
+nose: 5ueri	nyure	ɲure 
+adulterous: -nyi	bu5i	di5i	wa5i	wanyi	ɲi 
+one: -nyi	bu5i	di5i	wa5i	wanyi	ɲi 
+single: -nyi	bu5i	di5i	wa5i	wanyi	ɲi 
+that: la 
+the: -nyi	bu5i	di5i	wa5i	wanyi	ɲi 
+unprincipled: -nyi	bu5i	di5i	wa5i	wanyi	ɲi 
+human: jab	nur	nur-o 
+human being: jab	nur	nur-o 
+person: jab	nur	nur-o 
+rain: wɛnzuk 
+rainy weather: wɛnzuk 
+red: mon-u	mɔhu 
+path: liuk	s3uk	vuk 
+road: liuk	s3uk	vuk 
+route: liuk	s3uk	vuk 
+root: naŋ	ti-naŋ 
+round: gigil-	gigiluk 
+sand: tambusuŋ 
+say: wene 
+see: 5a	nya	ɲa 
+seed: biri 
+sit: kali 
+hide: 5iNgb~a*N	gbaŋ	gb~a*N	gb~ai*n	nyiŋ 
+skin: 5iNgb~a*N	gbaŋ	gb~a*N	gb~ai*n	nyiŋ 
+sleep: gwa 
+little: fiːk 
+small: fiːk 
+smallness: fiːk 
+smoke: nyuːksua	ɲuːsa 
+star: CiNmarik	čə-ŋmar-k	čəŋmarək 
+rock: buntai*n	tai*n	tintai*n	tintay 
+stone: buntai*n	tai*n	tintai*n	tintay 
+sun: kantueN	kantueŋ	we*n	we*nbiri	we*ntueN 
+swim: puŋ 
+tail: dyuː-kw	dyuːk 
+this: nyawa	ɲawa 
+2 sg: fa	fi 
+thou: fa	fi 
+you: fa	fi 
+tongue: giNeluN	gingduŋ	giŋgeluŋ 
+tooth: 5in	nyin	ɲin 
+tree: tib 
+grind: -ye	Naye	baye	buye 
+two: -ye	Naye	baye	buye 
+go: čaŋ 
+walk: čaŋ 
+water: 5iam	nyia-m	ɲiam 
+1 pl. inc.: katama	tama 
+we: katama	tama 
+we₁: katama	tama 
+what: bwa	kabwa 
+white: pieːl-	pieːluk 
+whiteness: pieːl-	pieːluk 
+who: kawana	wana 
+who?: kawana	wana 
+female: nipok	nipɔk 
+woman: nipok	nipɔk 
+yellow: du-zom 

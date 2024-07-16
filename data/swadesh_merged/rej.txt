@@ -1,0 +1,266 @@
+all: kətə 
+every: kətə 
+ash: abəw 
+ashes: abəw 
+abdomen: tənĩyɛ̃ 
+belly: tənĩyɛ̃ 
+big: loy 
+bigness: loy 
+large: loy 
+bird: buruŋ 
+bite: bətəŋə̃t 
+black: məluəw 
+blood: dal3a7	dalɨaʔ 
+bone: t3lan	təlan 
+breast: sus3w	susəw 
+breasts: sus3w	susəw 
+burn: məŋəmbəm	saʔəp 
+burn tr.: məŋəmbəm	saʔəp 
+cloud: awan 
+cold: səŋãʔ 
+come: t3ko	təko 
+come from: t3ko	təko 
+be dead: matiE	matiɛ 
+dead: matiE	matiɛ 
+die: matiE	matiɛ 
+dog: kuyu7	kuyuʔ 
+drink: mEnEm	makanan kecil	minum	muʔ biyoa	mɛnɛm 
+dry: kəʔiŋ 
+ear: ti7u7	tiʔuʔ 
+eat: makan nasi	mũ mĩẽ	ŋəmũʔ 
+egg: tənõã 
+eye: mat3y	maṱəy 
+feather: buləw 
+fire: opoy 
+fish: kan 
+fly: tər̃baŋ 
+fly v.: tər̃baŋ 
+good: baiʔ ɑsəynə [rasanya] 
+green: ijo 
+hair: buʔ 
+hand: taN3n	taŋən 
+left hand: taN3n	taŋən 
+right: taN3n	taŋən 
+head: uləw 
+hear: t3m3Noa	t3mNoa	təmŋoa	təməŋoa 
+1 sg.: uku 
+I: uku 
+kill: monoaʔ 
+be knowledgeable: nam 
+know: nam 
+leaf: dan	daw3n	dawən 
+lie: məŋguleʔ-gulɛʔ 
+lie down: məŋguleʔ-gulɛʔ 
+liver: atiE	atiɛ 
+long: pañjaŋ 
+head louse: gut3w	gutəw 
+louse: gut3w	gutəw 
+male: səboŋ	səmanĩɛ̃ 
+man: tun 
+moon: bulən 
+mouth: bebea[ʔ] 
+name: gEn	gɛn 
+title: gEn	gɛn 
+neck: kagən 
+new: b3l3w	bələw 
+night: k3l3m3n	k3lm3n	kəlmən	kələmən 
+nighttime: k3l3m3n	k3lm3n	kəlmən	kələmən 
+nose: 5uN	ñuŋ 
+adulterous: do 
+one: do 
+single: do 
+that: doʔo 
+the: do 
+unprincipled: do 
+human: tun 
+human being: tun 
+person: tun 
+rain: ujən 
+rainy weather: ujən 
+red: milɨaʔ 
+path: dal3n	dalən 
+road: dal3n	dalən 
+route: dal3n	dalən 
+root: balət 
+sand: bəniɛ	pasir 
+say: məŋɛ̃cɛʔ 
+see: k3m3lea7	k3mlea7	kəməleaʔ [kəmleaʔ] 
+sit: təmõt 
+hide: ka7	kaku	kaʔ	kaʔku 
+skin: ka7	kaku	kaʔ	kaʔku 
+sleep: tidoa 
+little: titiʔ 
+small: titiʔ 
+smallness: titiʔ 
+smoke: asəp 
+star: bitaN	bitaŋ 
+rock: but3w	butəw 
+stone: but3w	butəw 
+swim: bər̃naŋ 
+tail: ikoa 
+this: dio 
+2 sg: ko 
+thou: ko 
+you: ko 
+tongue: dil3a7	dilɨaʔ 
+tooth: epen 
+grind: du3y	duəy 
+two: du3y	duəy 
+go: bəpanəw 
+walk: bəpanəw 
+hot: panəs 
+warm: panəs 
+water: biyoa 
+1 pl. inc.: it3	itə	kɛmɛ 
+we: it3	itə	kɛmɛ 
+we₁: it3	itə	kɛmɛ 
+what: jano 
+white: puteaʔ 
+whiteness: puteaʔ 
+who: api 
+who?: api 
+female: biɛ	səlawiɛ 
+woman: biɛ	səlawiɛ 
+yellow: kuniŋ 
+distant: oaʔ 
+far: oaʔ 
+dull: bəʔət 
+heavy: bəʔət 
+serious: bəʔət 
+close: paʔaʔ 
+near: paʔaʔ 
+ner: paʔaʔ 
+salt: siləy 
+short: pɛndɛʔ 
+snake: duŋ 
+thin: mipis	tipis 
+wind: aŋin 
+earthworm: gəloŋ 
+worm: gəloŋ 
+year: taun 
+2 pl.: kumu kətə	udi kətə 
+ye: kumu kətə	udi kətə 
+you all: kumu kətə	udi kətə 
+3 pl.: toboʔo 
+they: toboʔo 
+where: naʔ ipə 
+where?: naʔ ipə 
+when: təŋɛ̃n 
+when?: təŋɛ̃n 
+how: awe ipə 
+how?: awe ipə 
+other: leyen 
+three: tələw 
+four: pat 
+five: lemo	ləmo 
+broad: libɨa 
+wide: libɨa 
+wideness: libɨa 
+fat: gəmũʔ 
+thick: kəboa 
+narrow: səpit 
+principal wife: prəpuan 
+wife: prəpuan 
+husband: aduʔ 
+his mother: inoʔ	maʔ 
+mother: inoʔ	maʔ 
+my mother: inoʔ	maʔ 
+father: baʔ 
+his father: baʔ 
+my father: baʔ 
+forest: imo 
+woods: imo 
+branch: pələpɨaʔ 
+stick: pələpɨaʔ 
+fruit: boaʔ 
+flower: buŋə̃y 
+grass: dukut 
+cord: tiləy 
+rope: tiləy 
+flesh: dagiŋ 
+meat: dagiŋ 
+grease: gəmũʔ 
+wing: sayəp 
+gut: usus 
+guts: usus 
+insides: usus 
+intestine: usus 
+intestines: usus 
+back: kədoŋ 
+suck: məŋɛsɛp 
+spit: bətəkɛʔ 
+vomit: mũtɨaʔ 
+blow: bətiup [bertiup]	təmĩũp [meniup] 
+breath: dia bernapas	si bənapas	si bəñabəy 
+breathe: dia bernapas	si bənapas	si bəñabəy 
+laugh: kətawəy 
+laughter: kətawəy 
+cogitate: mɛkɛr 
+reflect: mɛkɛr 
+think: mɛkɛr 
+smell: səmiyum 
+sniff: səmiyum 
+afraid: sabən 
+be afraid: sabən 
+fear: sabən 
+fright: sabən 
+alive: idup 
+be alive: idup 
+life: idup 
+live: idup 
+living: idup 
+hunt: bər̃burəw 
+beat: məlopoaʔ	məŋomə̃t 
+hit: məlopoaʔ	məŋomə̃t 
+strike: məlopoaʔ	məŋomə̃t 
+cut: təm[ə]toʔ 
+hack: təm[ə]toʔ 
+cut open: mlay 
+split: mlay 
+pierce: təmikəm 
+stab: təmikəm 
+scratch: gəmãũt	gəmʔew	kəməkut 
+dig: məmikoa 
+stand: təgaʔ 
+drop: us 
+fall: us 
+grasp: məməgoŋ 
+hold: məməgoŋ 
+hold in arm: məməgoŋ 
+squeeze: mĩyõaʔ 
+wring: mĩyõaʔ 
+throw: məlũʔ 
+bind: məŋɛ̃kɛt 
+fasten: məŋɛ̃kɛt 
+tie: məŋɛ̃kɛt 
+tie up: məŋɛ̃kɛt 
+sew: mə̃nɛ̃t 
+count: mərɛkɛn 
+enumerate: mərɛkɛn 
+number: mərɛkɛn 
+tally: mərɛkɛn 
+flow: məŋaloa 
+lake: danuəw 
+ocean: lautʔ 
+sea: lautʔ 
+dust: dəbʡw 
+fog: kabut 
+sky: lɛŋɛt 
+bad: kidɛʔ 
+evil: kidɛʔ 
+rot: buʔuʔ	usuʔ 
+rotten: buʔuʔ	usuʔ 
+dirty: kotor 
+filthy: kotor 
+soiled: kotor 
+sharp: tajəm 
+blunt: topoa 
+damp: lacɨaʔ 
+wet: lacɨaʔ 
+right side: kanən 
+left: kiduəw 
+at: di tempat	naʔ pənan 
+in: naʔ ləm 
+inside: naʔ ləm 
+and: ŋen [dan]	ŋen [dengan] 
+if: kaləw 

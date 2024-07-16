@@ -1,0 +1,128 @@
+all: erun naobot 
+every: erun naobot 
+ash: kumahoan 
+ashes: kumahoan 
+abdomen: mo tot tuh 
+belly: mo tot tuh 
+big: (gu) pea	nakapea 
+bigness: (gu) pea	nakapea 
+large: (gu) pea	nakapea 
+bird: namune 
+bite: hekoton 
+black: koung 
+blood: mo natiuh	natiuh 
+bone: mu tinouh	tinouh 
+breast: mo nunuma uh	mu sus suh	nunuma uh	sus suh 
+breasts: mo nunuma uh	mu sus suh	nunuma uh	sus suh 
+burn: (tong) ngoton 
+burn tr.: (tong) ngoton 
+cloud: wanean 
+cold: e koroan non 
+come: naomeh 
+come from: naomeh 
+be dead: mato	maton 
+dead: mato	maton 
+die: mato	maton 
+dog: kus 
+drink: kau	kaunon 
+dry: parak 
+ear: (mo) tengin nuh	teNin nu 
+eat: henon 
+egg: nat 
+eye: (mo) touh	touh 
+feather: keam 
+fire: toN	tong 
+fish: nayean 
+fly: noh 
+fly v.: noh 
+good: (numa) in daeh 
+green: buin 
+hair: (mu) un nuh (to baku) 
+hand: (mo) minouh	mina uh	minouh	mo mina uh 
+left hand: (mo) minouh	mina uh	minouh	mo mina uh 
+right: (mo) minouh	mina uh	minouh	mo mina uh 
+head: (mo) bakuh 
+hear: noNon	nongon non 
+1 sg.: ena 
+I: ena 
+kill: natungor 
+be knowledgeable: natenon 
+know: natenon 
+leaf: un	un (o roi) 
+lie: kanaton 
+lie down: kanaton 
+long: roron 
+head louse: pehut 
+louse: pehut 
+male: natinon 
+man: nakatun 
+moon: natihao 
+mouth: (mo) buruh 
+name: mu son nuh	son nuh 
+title: mu son nuh	son nuh 
+neck: (mo) nio te youh 
+new: (numa) in binit	in binit 
+night: boN	bong 
+nighttime: boN	bong 
+nose: (mo) osuh	osuh 
+adulterous: e nit nenapis	meg	mes 
+one: e nit nenapis	meg	mes 
+single: e nit nenapis	meg	mes 
+that: numai i toh	numai nehin 
+the: e nit nenapis	meg	mes 
+unprincipled: e nit nenapis	meg	mes 
+human: nakatun 
+human being: nakatun 
+person: nakatun 
+rain: na ruat 
+rainy weather: na ruat 
+red: kunuk 
+path: barobaron 
+road: barobaron 
+route: barobaron 
+root: ponog (o roi) 
+sand: kotonan 
+say: ketanon 
+see: tara	taranon 
+sit: gungon 
+hide: mo toauh	toauh 
+skin: mo toauh	toauh 
+sleep: sohon 
+little: (gu) i gakei 
+small: (gu) i gakei 
+smallness: (gu) i gakei 
+smoke: ruh 
+star: bipit 
+rock: dako	rako 
+stone: dako	rako 
+swim: nanahon 
+tail: his 
+this: numai re 
+tongue: (mo) mieuh	mieuh 
+tooth: (mu) nihouh	mo niho gukut tuh	niho gukut tuh	nihouh 
+grind: huanu	huenu 
+two: huanu	huenu 
+go: nanon	tatan non 
+walk: nanon	tatan non 
+hot: e hetunon 
+warm: e hetunon 
+water: kua 
+1 pl. inc.: e men nenapis	e nit nenapis	emen	emen bah	emen nenanu	enit 
+we: e men nenapis	e nit nenapis	emen	emen bah	emen nenanu	enit 
+we₁: e men nenapis	e nit nenapis	emen	emen bah	emen nenanu	enit 
+what: nasah 
+white: gekeani 
+whiteness: gekeani 
+who: esi 
+who?: esi 
+female: natahon 
+woman: natahon 
+yellow: ngoa ngoan pehao 
+close: sikut 
+near: sikut 
+ner: sikut 
+short: runduŋ 
+wind: seoung 
+earthworm: tirikopu 
+worm: tirikopu 
+year: yia 

@@ -1,0 +1,333 @@
+all: чыла 
+every: чыла 
+ash: ломыж 
+ashes: ломыж 
+bark: нымыште	шӱм 
+abdomen: мӱшкыр 
+belly: мӱшкыр 
+big: кугу 
+bigness: кугу 
+large: кугу 
+bird: кайык 
+bite: пурлаш 
+black: шеме 
+blood: bir	вӱр 
+bone: lu	лу 
+breast: oN	чызе 
+breasts: oN	чызе 
+cloud: пыл 
+cold: йÿштö 
+come: tol	толаш 
+come from: tol	толаш 
+be dead: kol	колаш 
+dead: kol	колаш 
+die: kol	колаш 
+dog: piy	пий 
+drink: yi	йÿаш 
+dry: кукшо 
+ear: p3l3S	пылыш 
+earth: мланде	рок 
+ground: мланде	рок 
+land: мланде	рок 
+soil: мланде	рок 
+eat: кочкаш 
+egg: муно 
+eye: SinCy~a	шинча 
+feather: пыстыл 
+fire: tul	тул 
+fish: kol	кол 
+fly: чоҥешташ 
+fly v.: чоҥешташ 
+foot: йол 
+full: tiCy~	тич 
+give: лÿгалташ	пуаш 
+good: поро	сай 
+green: ужарге 
+hair: ӱп 
+hand: ki8 
+left hand: ki8 
+right: ki8 
+head: вуй 
+hear: kol	колаш 
+heart: шӱм 
+horn: tike	тӱкӧ 
+1 sg.: m3y	Мый 
+I: m3y	Мый 
+kill: пушташ 
+knee: %pulbuy 
+be knowledgeable: палаш	шинчаш 
+know: палаш	шинчаш 
+leaf: %l3StaS	лаштык	лышташ 
+liver: mokS	мокш 
+long: кужу 
+head louse: tiy	тий 
+louse: tiy	тий 
+male: марий	пӧръеҥ 
+man: a8eme	yeN	айдеме	еҥ	марий 
+many: шуко	ятыр 
+much: шуко	ятыр 
+multiple: шуко	ятыр 
+several: шуко	ятыр 
+moon: тылзе 
+hill: kur3k	арка	курык 
+mountain: kur3k	арка	курык 
+mouth: умша 
+name: %lim	лÿм 
+title: %lim	лÿм 
+neck: шӱй 
+night: yi8	йӱд 
+nighttime: yi8	йӱд 
+nose: ner	нер 
+not: ит…	огыт	ода	ок	ом	она	от 
+adulterous: ik	ikte	Икте 
+one: ik	ikte	Икте 
+single: ik	ikte	Икте 
+that: саде 
+the: ik	ikte	Икте 
+unprincipled: ik	ikte	Икте 
+human: a8eme	yeN	айдеме	еҥ	марий 
+human being: a8eme	yeN	айдеме	еҥ	марий 
+person: a8eme	yeN	айдеме	еҥ	марий 
+rain: йÿр 
+rainy weather: йÿр 
+red: йошкарге 
+path: korno	yolx~orno	корно 
+road: korno	yolx~orno	корно 
+route: korno	yolx~orno	корно 
+root: вож 
+round: йыргешке 
+sand: ошма 
+say: манаш	ойлаш 
+see: %uZ	ончаш	ужаш 
+seed: нӧшмӧ 
+sit: шинчаш 
+hide: kobaSte	коваште 
+skin: kobaSte	коваште 
+sleep: малаш 
+little: изи 
+small: изи 
+smallness: изи 
+smoke: шикш 
+star: Si83r	шӱдыр 
+rock: ki	кÿ 
+stone: ki	кÿ 
+sun: keCy~e	кече 
+swim: ияш	йӱштылаш 
+tail: поч 
+this: тиде 
+2 sg: t3y	Тый 
+thou: t3y	Тый 
+you: t3y	Тый 
+tongue: y3lme	йылме 
+tooth: piy	пӱй 
+tree: puSeNx~e	пу 
+grind: kok	kok3t	koktɪt	кокыт 
+two: kok	kok3t	koktɪt	кокыт 
+go: кошташ 
+walk: кошташ 
+hot: леве 
+warm: леве 
+water: bi8	вÿд 
+1 pl. inc.: me	Ме 
+we: me	Ме 
+we₁: me	Ме 
+what: мо 
+white: ошо 
+whiteness: ошо 
+who: кö 
+who?: кö 
+female: ӱдырамаш 
+woman: ӱдырамаш 
+yellow: нарынче	саре 
+distant: тора	тораште 
+far: тора	тораште 
+dull: неле 
+heavy: неле 
+serious: неле 
+close: воктене 
+near: воктене 
+ner: воктене 
+salt: шинчал 
+short: кӱчык 
+snake: кишке 
+thin: вичкыж 
+wind: мардеж 
+earthworm: шукш 
+worm: шукш 
+year: идалык	ий	талук 
+3 sg.: Тудо 
+he: Тудо 
+she: Тудо 
+2 pl.: Те 
+ye: Те 
+you all: Те 
+3 pl.: Нуно 
+they: Нуно 
+here: тыште 
+there: тушто 
+where: кушто 
+where?: кушто 
+when: кунам 
+when?: кунам 
+how: кузе 
+how?: кузе 
+some: икмыняр 
+few: шагал 
+other: моло 
+three: kumɪt	кумыт 
+four: nɪlɪt	нылыт 
+five: vizɪt	визыт 
+broad: кумда 
+wide: кумда 
+wideness: кумда 
+fat: коя 
+thick: кӱжгӧ 
+narrow: аҥысыр 
+child: йоча	ньога 
+principal wife: вате 
+wife: вате 
+husband: марий 
+his mother: ава 
+mother: ава 
+my mother: ава 
+father: ача 
+his father: ача 
+my father: ача 
+animal: янлык 
+forest: чодыра	шӱргӧ 
+woods: чодыра	шӱргӧ 
+branch: тоя 
+stick: тоя 
+fruit: саска 
+flower: пеледыш 
+grass: шудо 
+cord: кандыра 
+rope: кандыра 
+flesh: шыл 
+meat: шыл 
+grease: коя 
+claw: кӱч 
+fingernail: кӱч 
+nail: кӱч 
+leg: йол 
+arm: кид 
+wing: шулдыр 
+gut: шоло 
+guts: шоло 
+insides: шоло 
+intestine: шоло 
+intestines: шоло 
+back: туп 
+suck: шупшаш 
+spit: шӱраш 
+vomit: укшинчаш 
+blow: пуаш 
+breath: шӱлаш 
+breathe: шӱлаш 
+laugh: шыргыжаш 
+laughter: шыргыжаш 
+cogitate: шонаш 
+reflect: шонаш 
+think: шонаш 
+smell: ӱпшынчаш 
+sniff: ӱпшынчаш 
+afraid: лӱдаш 
+be afraid: лӱдаш 
+fear: лӱдаш 
+fright: лӱдаш 
+alive: илаш 
+be alive: илаш 
+life: илаш 
+live: илаш 
+living: илаш 
+fight: кредалаш 
+hunt: сонарлаш 
+beat: пераш 
+hit: пераш 
+strike: пераш 
+cut: пӱчкаш	шулаш 
+hack: пӱчкаш	шулаш 
+cut open: шеледаш 
+split: шеледаш 
+pierce: шуралташ 
+stab: шуралташ 
+scratch: удыркалаш 
+dig: кӱнчаш 
+lie: кияш 
+lie down: кияш 
+tell lies: кияш 
+stand: шогаш 
+turn: пӧрдаш 
+turn around: пӧрдаш 
+turn round: пӧрдаш 
+drop: камвозаш 
+fall: камвозаш 
+grasp: кучаш 
+hold: кучаш 
+hold in arm: кучаш 
+squeeze: пызыралаш 
+wring: пызыралаш 
+rub: туржаш 
+wipe: ӱшташ 
+wash: мушкаш 
+wash clothes: мушкаш 
+pull: шупшаш 
+push: шӱкаш 
+shove: шӱкаш 
+throw: кудалташ 
+bind: пидаш 
+fasten: пидаш 
+tie: пидаш 
+tie up: пидаш 
+sew: ургаш 
+count: шотлаш 
+enumerate: шотлаш 
+number: шотлаш 
+tally: шотлаш 
+sing: мураш 
+have fun: модаш 
+play: модаш 
+float: ияш 
+flow: йогаш 
+freeze: кылмыкташ 
+swell: оваргаш 
+brook: йогын	шор	эҥер 
+river: йогын	шор	эҥер 
+stream: йогын	шор	эҥер 
+lake: ер 
+ocean: теҥыз 
+sea: теҥыз 
+dust: пурак 
+fog: тӱтыра 
+sky: кава	пылгом 
+snow: лум 
+ice: ий 
+blaze: йӱлаш 
+burn: йӱлаш 
+day: кече 
+daylight: кече 
+daytime: кече 
+old: шоҥго	шукертсе 
+bad: томам	уда	шӱкшӧ 
+evil: томам	уда	шӱкшӧ 
+rot: шӱйшӧ 
+rotten: шӱйшӧ 
+dirty: лавыран	шоран 
+filthy: лавыран	шоран 
+soiled: лавыран	шоран 
+straight: тура 
+sharp: пӱсӧ 
+blunt: аҥыра	окмак 
+smooth: тӧр	яклака 
+damp: ночко 
+wet: ночко 
+correct: тӱрыс	чын 
+right side: пурла	пурмалай 
+left: шола	шолагай 
+at: ӱмбалне 
+in: -ште	-што 
+inside: -ште	-што 
+with: дене 
+and: да	ден 
+if: гын 
+because: садлан	сандене 

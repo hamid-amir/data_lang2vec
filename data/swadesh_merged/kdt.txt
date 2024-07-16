@@ -1,0 +1,327 @@
+all: ai th~e	tingcĩm 
+every: ai th~e	tingcĩm 
+ash: phAq	ph~a7 
+ashes: phAq	ph~a7 
+bark: mbua	mph~ua7 
+abdomen: ph~uN	pũng 
+belly: ph~uN	pũng 
+big: ph~3t	pữữt 
+bigness: ph~3t	pữữt 
+large: ph~3t	pữữt 
+bird: CEml	ceem 
+bite: kap 
+black: kaweeng	tw~E5 
+blood: 3ham	Nh~am	nghaam 
+bone: Nh~aN	nghaang 
+breast: toh 
+breasts: toh 
+claw: nth$rEh 
+nail: nth$rEh 
+talon: nth$rEh 
+cloud: hl3t	kamỡl 
+cold: CNEt	takAAq 
+come: Cau	Taw	caw 
+come from: Cau	Taw	caw 
+be dead: lah	leh	lẽh 
+dead: lah	leh	lẽh 
+die: lah	leh	lẽh 
+dog: Ca	aTo	qacAA 
+drink: NuaC	NuaT	ngũãc 
+dry: kaqơơt	s7at 
+ear: k3tor	takol	takool 
+earth: k3tE7	kateeq 
+ground: k3tE7	kateeq 
+land: k3tE7	kateeq 
+soil: k3tE7	kateeq 
+eat: Ca	caa 
+egg: nth$rEl	ntrẽẽl 
+eye: mat	mããt 
+fat: 5Ch~EN 
+fat n.: 5Ch~EN 
+grease: 5Ch~EN 
+lubricant: 5Ch~EN 
+oil: 5Ch~EN 
+feather: so7	soq ceem 
+fire: quuh	uh 
+fish: aka	ka	qakaa 
+fly: par	qarũãy 
+fly v.: par	qarũãy 
+foot: Z3N	jưưng 
+give: an	qAAn 
+good: pAA 
+green: seet 
+hair: so7	soq 
+hand: te	têê 
+left hand: te	têê 
+right: te	têê 
+head: plAA	pla 
+hear: sAng	saN	soN 
+heart: kahAAm	ph~am 
+horn: t3kai 
+1 sg.: hay 
+I: hay 
+kill: k3CEt	kaceet 
+knee: plat3kol 
+be knowledgeable: di5	ding	takal 
+know: di5	ding	takal 
+leaf: hla	hlaa	sla 
+lie: tiC 
+lie down: tiC 
+liver: luam	lũãm 
+long: nth$r3N	ntrữững 
+head louse: 5CE7	5Te	ñcee 
+louse: 5CE7	5Te	ñcee 
+male: kui th~ol	ntrũh 
+man: kui	kuuy	kuy 
+many: daal	dal 
+much: daal	dal 
+multiple: daal	dal 
+several: daal	dal 
+flesh: saC 
+meat: saC 
+moon: mph$riaNsai 
+hill: bru	bruu 
+mountain: bru	bruu 
+mouth: kanoh	noh 
+name: kamuh	kamữh	m3h 
+title: kamuh	kamữh	m3h 
+neck: kaN	kal kAAng 
+new: kamay	tmai 
+night: kadaaw	kadaw	kh~riau 
+nighttime: kadaaw	kadaw	kh~riau 
+nose: muh	mũh 
+not: puq 
+adulterous: moi	mui	muy	mũũy 
+one: moi	mui	muy	mũũy 
+single: moi	mui	muy	mũũy 
+that: k3i	kãy 
+the: moi	mui	muy	mũũy 
+unprincipled: moi	mui	muy	mũũy 
+human: kui	kuuy	kuy 
+human being: kui	kuuy	kuy 
+person: kui	kuuy	kuy 
+rain: m3mia	mĩã 
+rainy weather: m3mia	mĩã 
+red: kasaw	ksaw 
+path: k3na	kana	kanaa 
+road: k3na	kana	kanaa 
+route: k3na	kana	kanaa 
+root: rEh	rẽh 
+round: dul 
+sand: sakaac 
+say: wããw 
+see: po7	pỡỡq	sir 
+seed: klAAng	klaN 
+sit: takaw 
+hide: %s3bE7	kabe7	kabeeq 
+skin: %s3bE7	kabe7	kabeeq 
+sleep: NEt	tangeet 
+little: kEt	keet 
+small: kEt	keet 
+smallness: kEt	keet 
+smoke: mpiiq	mp~i7 
+stand: tey3N 
+star: ntar	ntol	ntool 
+rock: kamaw	t3mau 
+stone: kamaw	t3mau 
+sun: m3niaN	nniaN	nnĩãng 
+swim: loi	looy diaq 
+tail: sAAy	sal 
+this: nẽẽ 
+2 sg: muaN	mũãng 
+thou: muaN	mũãng 
+you: muaN	mũãng 
+tongue: nta7	ntaaq 
+tooth: k3nE5	kaneN	kaneeng 
+tree: %kal	kal	kãl 
+grind: abia	bar	bia	qabia 
+two: abia	bar	bia	qabia 
+go: huC	huc 
+walk: huC	huc 
+hot: qam 
+warm: qam 
+water: dia7	diaq 
+1 pl. inc.: hay	mh~ai 
+we: hay	mh~ai 
+we₁: hay	mh~ai 
+what: nAA	na 
+white: bua7	buaq 
+whiteness: bua7	buaq 
+who: daay	kadaay	naw 
+who?: daay	kadaay	naw 
+female: kuik3pai	kuuy kapay 
+woman: kuik3pai	kuuy kapay 
+yellow: lữững 
+distant: nghaay 
+far: nghaay 
+dull: ngAng 
+heavy: ngAng 
+serious: ngAng 
+close: ñcãl 
+near: ñcãl 
+ner: ñcãl 
+salt: pÃÃh 
+short: ngkeh	tĩãp 
+snake: kasañ 
+thin: kadia	takũãm 
+wind: kayaal 
+year: kamAA 
+3 sg.: nããw 
+he: nããw 
+she: nããw 
+2 pl.: mũãng 
+ye: mũãng 
+you all: mũãng 
+3 pl.: nããw 
+they: nããw 
+here: cũãng nẽẽ 
+there: cũãng kãy 
+where: cũãng nia 
+where?: cũãng nia 
+when: hnaq nia	tAAq nia 
+when?: hnaq nia	tAAq nia 
+how: naq nia 
+how?: naq nia 
+some: nưưc 
+few: biq 
+other: kanAh 
+three: pāy	qapay 
+four: pon	qapoon 
+five: pasơơng	so’n 
+broad: kawah 
+wide: kawah 
+wideness: kawah 
+thick: kabơn 
+narrow: ngqiit 
+child: kAAn 
+principal wife: ndeel 
+wife: ndeel 
+husband: kayaaq 
+his mother: qameeq 
+mother: qameeq 
+my mother: qameeq 
+father: qanuq 
+his father: qanuq 
+my father: qanuq 
+forest: kõq 
+woods: kõq 
+branch: tũãn 
+stick: tũãn 
+fruit: play 
+flower: piil 
+grass: qaat 
+cord: kasay 
+rope: kasay 
+leg: lũũ	ngkÃng 
+wing: hlaap 
+gut: rũãc 
+guts: rũãc 
+insides: rũãc 
+intestine: rũãc 
+intestines: rũãc 
+back: koh 
+suck: bom 
+spit: kacoh 
+vomit: kaquut 
+blow: plong 
+breath: tangơh 
+breathe: tangơh 
+laugh: kacang 
+laughter: kacang 
+cogitate: kữt 
+reflect: kữt 
+think: kữt 
+smell: nhguuñ 
+sniff: nhguuñ 
+afraid: qatuung 
+be afraid: qatuung 
+fear: qatuung 
+fright: qatuung 
+alive: kuu 
+be alive: kuu 
+life: kuu 
+live: kuu 
+living: kuu 
+fight: suu 
+hunt: ntrooy 
+beat: tam 
+hit: tam 
+strike: tam 
+cut: rãc 
+hack: rãc 
+cut open: pah 
+split: pah 
+pierce: cat 
+stab: cat 
+scratch: kawaat 
+dig: pek 
+tell lies: bưc 
+turn: wĩãh 
+turn around: wĩãh 
+turn round: wĩãh 
+drop: ntrũh 
+fall: ntrũh 
+grasp: kan 
+hold: kan 
+hold in arm: kan 
+squeeze: pat 
+wring: pat 
+rub: ndih 
+wipe: ñcũũt 
+wash: riaw 
+wash clothes: riaw 
+pull: nghAAl 
+push: ntrool 
+shove: ntrool 
+throw: lĩãh 
+bind: sat 
+fasten: sat 
+tie: sat 
+tie up: sat 
+sew: jih 
+count: nãp 
+enumerate: nãp 
+number: nãp 
+tally: nãp 
+have fun: keel 
+play: keel 
+float: hlooy 
+flow: hAAy 
+swell: plôôh 
+brook: toom 
+river: toom 
+stream: toom 
+ocean: kalẽẽ 
+sea: kalẽẽ 
+dust: kaqAAng 
+fog: plang 
+sky: prããh 
+blaze: CaN	buh 
+burn: CaN	buh 
+day: tangay 
+daylight: tangay 
+daytime: tangay 
+old: thaw	tii 
+bad: cũũ 
+evil: cũũ 
+rot: kalũũy 
+rotten: kalũũy 
+dirty: mprỡq 
+filthy: mprỡq 
+soiled: mprỡq 
+straight: trong 
+sharp: plaa 
+blunt: tữữl 
+smooth: kaqeet 
+damp: juul 
+wet: juul 
+correct: klay 
+right side: tam 
+left: peeq 
+at: buan 
+in: lững 
+inside: lững 
+with: lưng	naq 
+and: naq 
+if: kãn 
+because: phroq 

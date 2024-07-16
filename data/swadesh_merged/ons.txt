@@ -1,0 +1,366 @@
+all: korop 
+and: mi 
+animal: osom 
+arm: met 
+arrow: xaun 
+ashes: dzefe | kau 
+ashes: dzepe | kau 
+ashes: kau 
+ashes: zepe | kau 
+back: romo- 
+back: romon 
+bark: sola 
+belly: kai- | kai	kai- 
+belly: uop- | kai	kai- 
+big: suaine 
+big: swayne | suaine 
+bird: nangi | naNi	naŋi 
+bird: naŋi | naNi	naŋi 
+bite: ki- | ki	ki- 
+black: dika 
+blood: ueŋem | weNemi	weŋemi- 
+blood: wengemi- | weNemi	weŋemi- 
+blood: weŋemi- | weNemi	weŋemi- 
+blow: puani- 
+bone: set | set	set- 
+bone: set- | set	set- 
+breast: ngamu- | Namu	ŋamu	ŋamu- 
+breast: ŋamu | Namu	ŋamu	ŋamu- 
+breast: ŋamu- | Namu	ŋamu	ŋamu- 
+breathe: asu- 
+breathe: asumora 
+brother: rar- 
+brother: tat 
+brother: tat- 
+burn: dzi 
+burn: dzi- 
+child: medep 
+chin: mep- 
+claw: zolip- | zolip	zolip- 
+cloud: kezong | kezoN	kezoŋ 
+cloud: kezoŋ | kezoN	kezoŋ 
+cold: momoine 
+come: sa- | sa	sa- 
+count: dapori- 
+cut: kito- 
+cut: kitot- 
+day: rarapko 
+die: beuk | seuki	seuki- 
+die: seuki- | seuki	seuki- 
+die: seuseu | seuki	seuki- 
+dig: kepikito- 
+dog: kasi 
+dry: dzipki- | cipki	dzipki- 
+dry: zipzip | cipki	dzipki- 
+dust: kinekine 
+ear: ket | ket	ket- 
+ear: ket- | ket	ket- 
+earth: kepe 
+eat: ni | ni	ni- 
+eat: ni- | ni	ni- 
+emu: gbelue 
+eye: de | de	dei	dei- 
+eye: dei | de	dei	dei- 
+eye: dei- | de	dei	dei- 
+face: kait 
+fall: dun 
+fall: keti- 
+father: maga- 
+father: magal 
+fat (n.): kelok- 
+fear: kaet 
+finger: nagap- 
+fingernail: dzoip 
+fingernail: dzolip 
+fingernail: zoliu 
+fire: gerep | gɛrɛp 
+fire: gɛrɛp 
+flower: dzurai- 
+foot: ki | ki	ki- 
+foot: ki- | ki	ki- 
+foot: kie | ki	ki- 
+fruit: wele- 
+full: watgi | watgi	watki	weTgi 
+full: watgi- | watgi	watki	weTgi 
+full: watki | watgi	watki	weTgi 
+give: nan- | nin	nin- 
+give: nin- | nin	nin- 
+good: maine 
+grass: touk 
+green: wisika 
+hair: dzou | cou	dzou	dzou- 
+hair: dzou- | cou	dzou	dzou- 
+hair: zop- | cou	dzou	dzou- 
+hand: me- | me	me- 
+hand: mete | me	me- 
+head: lewit- | lewit	lewit-	lewut 
+head: lewut | lewit	lewit-	lewut 
+hear: det- 
+heart: kombangi- | kombaNi	kombaŋi- 
+heart: kombaŋi- | kombaNi	kombaŋi- 
+here: ika 
+he/she: e 
+he/she: eŋ- 
+he/she: eŋ-ane 
+he/she: eŋe 
+he/she: -ke 
+hit: gbe- 
+hit: kpe- 
+hold: ma- 
+hole: lom 
+house: mat 
+how: daleo 
+husband: ŋau 
+I: -le | na 
+I: na 
+I: na- 
+I: naŋ-ane 
+knee: wawet- | wawet	wawet-	wawɛt 
+knee: wawɛt | wawet	wawet-	wawɛt 
+know: deri- | deri	deri- 
+lake: namung 
+lake: namuŋ 
+laugh: teni- 
+leaf: met | met	meti	meti- 
+leaf: meti- | met	meti	meti- 
+left: kana 
+left: wesi 
+leg: ki 
+lip: pi 
+long: kiro | kiro	kiroine 
+long: kiroine | kiro	kiroine 
+louse: emen 
+louse: ɛmɛn | emen 
+louse: maloam | emen 
+man: ngei | Nei	ŋei 
+man: ŋei | Nei	ŋei 
+many: lotlotne | louloutNe	louloutŋe 
+many: louloutnge | louloutNe	louloutŋe 
+many: louloutŋe | louloutNe	louloutŋe 
+meat: biku- 
+meat: soep | biku 
+meat: wele | biku 
+moon: boito | boito	kowon	meso	mɛso 
+moon: kowon | boito	kowon	meso	mɛso 
+moon: meso | boito	kowon	meso	mɛso 
+moon: mɛso | boito	kowon	meso	mɛso 
+mother: naga 
+mother: naga- 
+mother: naok 
+mountain: bonaga 
+mountain: talop | bonaga 
+mouth: aŋa 
+name: dei- | dei	dei-	ɛŋɛt 
+name: eŋet | dei	dei-	ɛŋɛt 
+name: ɛŋɛt | dei	dei-	ɛŋɛt 
+neck: ebi | ebi	ebi- 
+neck: ebi- | ebi	ebi- 
+new: musele | musele	wele 
+new: usikap | musele	wele 
+new: wele | musele	wele 
+new: wisikap | musele	wele 
+night: ruo | ruwo 
+night: ruwo 
+nose: sot- | sot	sot- 
+not: mi 
+not: yeine | mi 
+old: lewitne 
+one: weku | veku	weku 
+person: ŋei 
+play: bat 
+play: gbat 
+pull: worang- 
+pull: woraŋ- 
+push: bira- 
+rain: koia | koia	koya 
+rain: koya | koia	koya 
+red: wengemka | weNemka	weŋemka 
+red: weŋemka | weNemka	weŋemka 
+right: warage | me	me- 
+road: duma | numa 
+road: luma | numa 
+road: muma | numa 
+road: numa 
+root: ngodi- | Nodi	ŋodi- 
+root: ŋodi- | Nodi	ŋodi- 
+rope: ranom 
+round: lolik lolik 
+round: lolik-lolok | lolik lolik 
+sand: gbalak | gbalak	kpalak 
+sand: kpalak | gbalak	kpalak 
+say: ra- | ra	ra-	re 
+say: re | ra	ra-	re 
+scratch: pɛreŋ- 
+seed: uoune | wau	wau- 
+seed: wau- | wau	wau- 
+see: ka- | nan	nan- 
+see: nan- | nan	nan- 
+sew: gbetut- 
+sew: peu- 
+short: bomgoi- 
+sing: ore- 
+sister: kiari 
+sister: kiari- 
+sister: tat- 
+sit: meri- | meri	meri- 
+sit: met- | meri	meri- 
+skin: sola | sola	solai	solai- 
+skin: solai- | sola	solai	solai- 
+sky: kpeli 
+sleep: fe | fe	pa	pa- 
+sleep: pa- | fe	pa	pa- 
+small: nigatne 
+smell: gbuop- 
+smoke: kopu | Naup	ŋauk	ŋaup 
+smoke: ŋauk | Naup	ŋauk	ŋaup 
+smoke: ngaup | Naup	ŋauk	ŋaup 
+smoke: ŋaup | Naup	ŋauk	ŋaup 
+snake: koma 
+snake: suabit | koma 
+some: nat- 
+spit: mekat 
+spit: mngekat- 
+stand: okore- 
+star: bole | serekiN	serekiŋ	sɛrɛkin 
+star: sɛrɛkin | serekiN	serekiŋ	sɛrɛkin 
+star: sereking | serekiN	serekiŋ	sɛrɛkin 
+star: serekiŋ | serekiN	serekiŋ	sɛrɛkin 
+stick: pokup 
+stone: wesi 
+straight: kobodo 
+suck: muzuluki- 
+sun: kaiwe | kaiwe	kalwe 
+sun: kalwe | kaiwe	kalwe 
+sun: kaywe | kaiwe	kalwe 
+swell: sue- 
+tail: dai- | dai	dai- 
+that: eri 
+there: eri 
+there: yewa 
+they: en- 
+they: eŋ-ane 
+they: enge 
+they: eŋe 
+they: -i 
+they two: er- 
+they two: er-ane 
+they two: -mit 
+thigh: taui 
+this: i 
+thou: ge 
+thou: geŋ- 
+thou: geŋ-ane 
+thou: -i | ge 
+thou: -ne | ge 
+thou: ŋi | ge 
+thou: ŋin- | ge 
+thou: ŋin-ane | ge 
+thou: ŋine | ge 
+throw: gbeligi- 
+tie: pise 
+tie: pisi 
+today: ukude 
+tongue: belakam | belakam	belakami	belakami- 
+tongue: belakami- | belakam	belakami	belakami- 
+tongue: belakamze | belakam	belakami	belakami- 
+tooth: nget- | Net	ŋet-	ŋɛt 
+tooth: ŋet- | Net	ŋet-	ŋɛt 
+tooth: ŋɛt | Net	ŋet-	ŋɛt 
+tooth: ŋilip | Net	ŋet-	ŋɛt 
+tooth: teine | Net	ŋet-	ŋɛt 
+tree: eki 
+tree: kaːsae | eki 
+turn: mainggi- 
+turn: maiŋgi- 
+two: etke 
+vomit: madogi- 
+walk: ari 
+warm: geleune 
+warm: gerep | geleune 
+wash: sauk- 
+water: doku 
+weep: arop- 
+we (incl.): -ne 
+we (incl.): ŋen- 
+we (incl.): ŋen-ane 
+we: ŋe | Nedo 
+we: ngedo | Nedo 
+we: ŋedo | Nedo 
+we two (incl.): ŋer- 
+we two (incl.): ŋer-ane 
+we two (incl.): -te 
+what: oe | onoka 
+what: onoka 
+where: deo 
+where: dia 
+white: libeka 
+who: mane 
+who: maŋo | mane 
+wind: momo 
+wing: gbimgiliu- 
+wing: kpimgim 
+woman: ngerep | Nerep	ŋerep 
+woman: ŋerep | Nerep	ŋerep 
+wood: gerep 
+wood: pokup 
+worm: boso 
+yellow: yangaike | yaNaike	yaŋaike 
+yellow: yaŋaike | yaNaike	yaŋaike 
+yes: oŋ 
+yesterday: yatne 
+you: ngine | ge 
+you two: -mit 
+you two: ŋir- 
+you two: ŋir-ane 
+every: korop 
+ash: kau 
+abdomen: kai	kai- 
+bigness: suaine 
+large: suaine 
+breasts: Namu	ŋamu	ŋamu- 
+nail: zolip	zolip- 
+talon: zolip	zolip- 
+come from: sa	sa- 
+be dead: seuki	seuki- 
+dead: seuki	seuki- 
+ground: kepe 
+land: kepe 
+soil: kepe 
+fat: kelok 
+fat n.: kelok 
+grease: kelok 
+lubricant: kelok 
+oil: kelok 
+left hand: me	me- 
+1 sg.: na 
+be knowledgeable: deri	deri- 
+head louse: emen 
+male: Nei	ŋei 
+much: louloutNe	louloutŋe 
+multiple: louloutNe	louloutŋe 
+several: louloutNe	louloutŋe 
+flesh: biku 
+hill: bonaga 
+title: dei	dei-	ɛŋɛt 
+nighttime: ruwo 
+adulterous: veku	weku 
+single: veku	weku 
+the: veku	weku 
+unprincipled: veku	weku 
+rainy weather: koia	koya 
+path: numa 
+route: numa 
+hide: sola	solai	solai- 
+little: nigatne 
+smallness: nigatne 
+stand: okore 
+rock: wesi 
+2 sg: ge 
+grind: etke 
+hot: geleune 
+1 pl. inc.: Nedo 
+we₁: Nedo 
+whiteness: libeka 
+who?: mane 
+female: Nerep	ŋerep 
+earthworm: boso 

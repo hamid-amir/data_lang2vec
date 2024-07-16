@@ -1,0 +1,348 @@
+all:  chijunil | Cixunil	anchal	chi junil	rekʼ 
+ashes:  cha | Ca	cha 
+bark:  rix | riS	rix che 
+big:  nim 
+bird:  tz\ic | c"ik	tzʼik 
+bite:  ti\ | hach'lenk	hach'ok	jach'ok	k'apok chi e	k'atzok	qachok	qatzok	ti'ok	ti7	tiwok 
+black:  k\ek | q"eq	q'eq	qʼeq 
+blood:  quiq\uel | kik"el	kikʼ 
+blow:  rapunquil | apuunk 
+bone:  b\ak | baq	bʼaq 
+breast:  wach  a k\ox | tu7	tuʼ 
+burn:  humuc | choqlenk	humuk	kʼat 
+child:  al 
+cloud:  chok | Coq	choq 
+cold:  k\ojyi·n | ke	q"oxyin 
+come:  cha·lk | Calq	chalk	k'ulunk	kʼulunk 
+cut:  yoc\oc | kuruk 
+day:  cutan | kutank 
+die:  cam | kam	kamk 
+dig:  b\e·coc | aq'ink	aqʼink	b'ekok	bʼekok	pikok 
+dog:  tx\i\ | c"i7	tzʼiʼ 
+drink: uc\a | uk"	uk'ak	ukʼak 
+dry:  tzaj | Caqi	chaqi	xujxuj 
+dust: - | poqs 
+earth:  ch\och\ | C"oC"	chʼochʼ 
+ear:  xic | Sik	xik 
+eat:  wa\ac | k'uxuk	tiwok	tzakank	wa'ok	wa7ak	waʼok 
+egg:  mol 
+eye:  nak\ a·wu | naq" awu	saʼ u	u	xnaqʼ u 
+fall:  - | soq'e'k	soqʼeʼk	t'ane'k	tob'b'ak	tobʼbʼak 
+far:  najt | nachʼ	najt 
+fat (n.):  mante·c 
+fear:  naxuwac | xiw 
+feather:  xic\ | Sik"	rismal xul	xikʼ 
+fingernail:  xi\ij | ixiʼij 
+fire:  xam | Sam	xam 
+fish:  car | kar 
+five:  o·b\ | hoob'	hoobʼ	oob'	oobʼ	ōb 
+fly (v.):  rupupic 
+fog:  xchu\que | sujew	tuntunkil choq 
+foot:  kok | oq	qoq 
+four:  ca·hib\ | kaahib'	kaahibʼ	kāib 
+fruit:  ru qui\il k\e·n 
+full:  nujenak | b'ut'	b'uuy	nujenaq	nuxenaq	tz'ajtz'otk 
+give:  tinq\ue | k'ehok	kʼehok	tink"e 
+good:  cha·b\ileb\ | Cabileb	chaab'il	q'axal us	us 
+green:  raxi | raSi	rax 
+hair:  cuismal | ismal	kuismal 
+hand:  wuk\ | uqʼm	wuq" 
+head:  jolom | jolom	xolom 
+heart:  ch\o·l | C"ol	ch'ool	chʼool 
+hear:  wab\ | ab'ink	abʼink	wab 
+heavy:  a·l | aal 
+here:  arin | arin	ayi'	ayiʼ	sa'in	saʼin 
+hit:  toch\oc | b'ujuk	bʼujuk	ketok	potz'ok	tenok	wojok 
+horn:  xucub\ | Sukub	xukub'	xukubʼ 
+how?:  ani | chan ru 
+husband:  b\e·lom | bʼeelom 
+I: in | in	laaʼin 
+kill:  camsi | kamsi	kamsink 
+knee:  b\e·n wak | aq	ben waq 
+know:  canau | kanau	nawink 
+lake:  palau | palaw	pumpuukil haʼ 
+laugh:  se\ec | se'ek	seʼek 
+leaf:  xak | Saq	qʼeen	xaq 
+left:  tz\e | sa' tz'e	tz'e	tzʼe 
+lie:  yocyo | sotlaak	yoklaak	yokyo | b'alaq'ik	pak'ok aatin	sotlaak	tik'ti'ink	yik'ti'ink	yoklaak 
+liver:  ch\och\ | C"oC"	ch'och'	chʼochʼ 
+long:  najt rok | jukuch	lujuch	najt roq	nat roq	nim xkelam 
+louse:  uc\ | uk"	ukʼ 
+man:  wi·nk | %kristian	poyanam	winq 
+meat:  tib\el | tibel	tibʼ 
+moon:  po 
+mountain:  tzu·l | cul	tzuul 
+mouth:  re | e	re 
+name:  c\ab\a\ | k"aba7	k'ab'a'ej	kʼabʼaʼej 
+near:  nach\ | nach'	nachʼ	rik'in	rikʼin 
+neck:  cux | jaʼaj	kuS	kux 
+new:  ac\ | ak"	akʼ 
+night:  chi k\ek | Ci q"eq	q'ojyin	qʼojyin 
+nose:  wu\uj | uʼuj	wu7ux 
+one:  jun | jun	xun 
+other:  jun chic | jalan	jun chik 
+person:  cristia·n | %kristian	poyanam	winq 
+pull:  quelo·nc | jukunk	kelonk 
+rain:  hab\ | hab	habʼ 
+red:  cakeb\ | kaq	kaqeb 
+right:  nim | uqʼm	wuq" | sa' nim	saʼ nim 
+river:  nimha\ | nimaʼ 
+road:  ch\ina b\e | C"ina be	bʼe 
+root:  xe\ | Se7	xeʼ 
+rope:  c\am | kʼaam 
+rotten:  k\aynak | q'aaneq	qʼaaneq 
+round:  sursu | kotko	sursu	t'ort'o 
+sand:  samahib\ | samahiʼ 
+say:  yehoc | yehok | samahiʼ 
+seed:  iyaj | iyaj	iyax 
+see:  il | il	ilok 
+sing:  b\icha·nc | b'ichank	bʼichank 
+sit:  c\ojc\o | chunlaak	k"oxk"o	woq'laak	woqʼlaak 
+skin:  tz\umal | c"umal	rix xul	tzʼuumal 
+sleep:  war | war	wark 
+smell:  coc\o | utz'uk	utzʼuk 
+smoke:  sib\ | sib	sibʼ 
+stab:  hopoc | xeq'ok	xeqʼok 
+stand:  xakxo | SaqSo | samahib	xaqliik 
+star:  chahim | Cahim	chahim 
+stone:  ca\ | pek 
+stone:  pec | pek 
+suck:  tz\ub\uc | tz'ub'uk	tzʼubʼuk 
+sun:  sak\e | saq"e	saqʼe 
+swell:  sipoc | siip	tebʼelal 
+swim:  numxic | numSik	numxik 
+tail:  ye 
+that:  a\an | a7an	wan le'	wan leʼ | jun	xun 
+there:  aran | le'	leʼ 
+thick:  pim | b'omb'o	b'urux b'urux	leb'lo	nim xsa'	nim xsaʼ	pim	t'ikt'o	teb'es 
+thin:  pi\ pam | b'aq	b'arich'	bʼaq	jay 
+this:  a\in | a7in	aʼin	ha'in	haʼin 
+thou:  at | at	laaʼat	laeS 
+tongue:  ru\uj wak\ | ru'uj aq'	ru7ux waq"	ruʼuj aqʼ 
+tooth:  ca\ | e	ruC qe	ruuch e 
+tooth:  ruch ke | e	ruC qe	ruuch e 
+tree:  che\ | Ce7	cheʼ 
+two:  ca\ib\ | ka'ib'	ka7ib	kaʼibʼ	ka’ib	kiib'	kiibʼ	kwib'	kwibʼ 
+walk:  b\e·c | bek	bʼeek 
+warm:  tikwal | tiq 
+wash:  ch\aj | ch'ajok	chʼajok	puch'uk	puchʼuk 
+wash:  puch\ | ch'ajok	chʼajok	puch'uk	puchʼuk 
+water:  ha\ | ha7	haʼ 
+we:  o | aaʼo	haaʼo	haʼo	la7o	laaʼo 
+wet:  ťakťak | b'aqx	luub'	raap	t'aqt'aq	t'oqx	tz'uuq	tzʼuuq	tʼaqtʼaq 
+what:  c\a\ru | k"aru	kʼaru	kʼaʼ 
+when?:  jo\k\e | joq'e	joqʼe 
+where?:  b\ar | b'ar	bʼar 
+white:  sak | saq 
+who:  ani | ani	anu 
+wife:  ixakil | ixaqil 
+woman:  ixk | iSq	ixq 
+woman:  mo·s | iSq	ixq 
+year:  chihab\ | habʼ 
+ye:  la.ex | laaʼex 
+yellow:  k\an | q"an	q'an	qʼan 
+every: Cixunil	anchal	chi junil	rekʼ 
+ash: Ca	cha 
+abdomen: sa7	saʼ 
+belly: sa7	saʼ 
+big: nim 
+bigness: nim 
+large: nim 
+breasts: tu7	tuʼ 
+claw: Si7ix	ixiʼij	yax 
+nail: Si7ix	ixiʼij	yax 
+talon: Si7ix	ixiʼij	yax 
+come from: Calq	chalk	k'ulunk	kʼulunk 
+be dead: kam	kamk 
+dead: kam	kamk 
+ground: C"oC"	chʼochʼ 
+land: C"oC"	chʼochʼ 
+soil: C"oC"	chʼochʼ 
+egg: mol 
+fat: %mantek 
+fat n.: %mantek 
+grease: %mantek 
+lubricant: %mantek 
+oil: %mantek 
+fly: purik	rupik	rupupik 
+fly v.: purik	rupik	rupupik 
+left hand: uqʼm	wuq" 
+1 sg.: in	laaʼin 
+be knowledgeable: kanau	nawink 
+lie down: sotlaak	yoklaak	yokyo 
+head louse: uk"	ukʼ 
+male: teelom	winq 
+many: baleb	kʼi	kʼihal	mayalok 
+much: baleb	kʼi	kʼihal	mayalok 
+multiple: baleb	kʼi	kʼihal	mayalok 
+several: baleb	kʼi	kʼihal	mayalok 
+flesh: tibel	tibʼ 
+moon: po 
+hill: cul	tzuul 
+title: k"aba7	k'ab'a'ej	kʼabʼaʼej 
+nighttime: Ci q"eq	q'ojyin	qʼojyin 
+not: ink"a7	ink'a'	inkʼaʼ	moko … ta	moko... ta 
+adulterous: jun	xun 
+single: jun	xun 
+the: jun	xun 
+unprincipled: jun	xun 
+human: %kristian	poyanam	winq 
+human being: %kristian	poyanam	winq 
+rainy weather: hab	habʼ 
+path: C"ina be	bʼe 
+route: C"ina be	bʼe 
+hide: c"umal	rix xul	tzʼuumal 
+little: b'ab'ay	ch'in	chʼin	chʼina	chʼinaj	kach'in	kok"o	kokʼ	mitz 
+small: b'ab'ay	ch'in	chʼin	chʼina	chʼinaj	kach'in	kok"o	kokʼ	mitz 
+smallness: b'ab'ay	ch'in	chʼin	chʼina	chʼinaj	kach'in	kok"o	kokʼ	mitz 
+rock: pek 
+tail: ye 
+2 sg: at	laaʼat	laeS 
+you: at	laaʼat	laeS 
+grind: ka'ib'	ka7ib	kaʼibʼ	ka’ib	kiib'	kiibʼ	kwib'	kwibʼ 
+go: bek	bʼeek 
+hot: tiq 
+1 pl. inc.: aaʼo	haaʼo	haʼo	la7o	laaʼo 
+we₁: aaʼo	haaʼo	haʼo	la7o	laaʼo 
+whiteness: saq 
+who?: ani	anu 
+female: iSq	ixq 
+distant: nachʼ	najt 
+dull: aal 
+serious: aal 
+close: nach'	nachʼ	rik'in	rikʼin 
+ner: nach'	nachʼ	rik'in	rikʼin 
+salt: atz'am	atzʼam 
+short: ch'ot	kach'in roq	kach'in xteram	tupus roq 
+snake: kʼantiʼ 
+wind: iqʼ 
+earthworm: bʼitzkiriʼ	chajal	chupil	hay	koton is	kuluk	kʼixix	kʼutubʼ	motzoʼ	pirikʼ	tin	tzonokʼ 
+worm: bʼitzkiriʼ	chajal	chupil	hay	koton is	kuluk	kʼixix	kʼutubʼ	motzoʼ	pirikʼ	tin	tzonokʼ 
+3 sg.: aʼan	ha'an	haʼan 
+he: aʼan	ha'an	haʼan 
+she: aʼan	ha'an	haʼan 
+2 pl.: laaʼex 
+you all: laaʼex 
+3 pl.: ebʼ	tebʼ 
+they: ebʼ	tebʼ 
+where: b'ar	bʼar 
+when: joq'e	joqʼe 
+how: chan ru 
+some: algo	junaq	kaʼbʼayaq	kʼaʼna 
+few: bʼabʼay	inkʼaʼ kʼi	kachʼin 
+three: oxib'	oxibʼ	ošib 
+broad: nim ru 
+wide: nim ru 
+wideness: nim ru 
+narrow: kach'in ru	kok' ru	kokʼ ru	laatz' 
+child: al 
+principal wife: ixaqil 
+his mother: naʼ 
+mother: naʼ 
+my mother: naʼ 
+father: taat	yuwaʼ 
+his father: taat	yuwaʼ 
+my father: taat	yuwaʼ 
+animal: xul 
+forest: kʼicheʼ 
+woods: kʼicheʼ 
+branch: ruq' che'	ruqʼ cheʼ 
+stick: ruq' che'	ruqʼ cheʼ 
+flower: atz'um	atzʼum	uutz'u'uj	uutzʼuʼuj 
+grass: ichaj	pach'aya'	pachʼayaʼ 
+cord: kʼaam 
+leg: aʼ 
+arm: uqʼm 
+wing: xikʼ 
+gut: k'amk'ot	kʼamkʼot	sooyom 
+guts: k'amk'ot	kʼamkʼot	sooyom 
+insides: k'amk'ot	kʼamkʼot	sooyom 
+intestine: k'amk'ot	kʼamkʼot	sooyom 
+intestines: k'amk'ot	kʼamkʼot	sooyom 
+back: ix	xaal it 
+spit: chuub'ak	chuub'ank	chuubʼak	chuubʼank 
+vomit: xa'wak	xaʼwak 
+breath: musiq'ak	musiqʼak 
+breathe: musiq'ak	musiqʼak 
+laughter: se'ek	seʼek 
+cogitate: k'a'uxlak	kʼaʼuxlak 
+reflect: k'a'uxlak	kʼaʼuxlak 
+think: k'a'uxlak	kʼaʼuxlak 
+sniff: utz'uk	utzʼuk 
+afraid: xiw 
+be afraid: xiw 
+fright: xiw 
+alive: naʼajink	yo'yook 
+be alive: naʼajink	yo'yook 
+life: naʼajink	yo'yook 
+live: naʼajink	yo'yook 
+living: naʼajink	yo'yook 
+fight: ch'e'ok	chʼeʼok 
+hunt: yohob'k	yohobʼk 
+beat: b'ujuk	bʼujuk	ketok	potz'ok	tenok	wojok 
+strike: b'ujuk	bʼujuk	ketok	potz'ok	tenok	wojok 
+hack: kuruk 
+cut open: jachok	kiib'ank	kiibʼank	kuruk	toqok	xerok 
+split: jachok	kiib'ank	kiibʼank	kuruk	toqok	xerok 
+pierce: xeq'ok	xeqʼok 
+scratch: parok	q'oyok	qʼoyok 
+tell lies: b'alaq'ik	pak'ok aatin	sotlaak	tik'ti'ink	yik'ti'ink	yoklaak 
+turn: bʼalqʼusink	qʼotok	qʼotonk 
+turn around: bʼalqʼusink	qʼotok	qʼotonk 
+turn round: bʼalqʼusink	qʼotok	qʼotonk 
+drop: soq'e'k	soqʼeʼk	t'ane'k	tob'b'ak	tobʼbʼak 
+grasp: qʼunuk 
+hold: qʼunuk 
+hold in arm: qʼunuk 
+squeeze: pitzʼok	yatz'ok	yatzʼok 
+wring: pitzʼok	yatz'ok	yatzʼok 
+rub: b'iqok	bʼiqok	jilok 
+wipe: mesok 
+wash clothes: ch'ajok	chʼajok	puch'uk	puchʼuk 
+push: miikisink	minok	tiikink 
+shove: miikisink	minok	tiikink 
+throw: pumuk	puulesink	rumuk 
+bind: b'akʼok	bʼakʼok	jit'ok	jitʼok 
+fasten: b'akʼok	bʼakʼok	jit'ok	jitʼok 
+tie: b'akʼok	bʼakʼok	jit'ok	jitʼok 
+tie up: b'akʼok	bʼakʼok	jit'ok	jitʼok 
+sew: b'ojok	bʼojok	kuuxink 
+count: ajlank 
+enumerate: ajlank 
+number: ajlank 
+tally: ajlank 
+have fun: bʼatzʼunk 
+play: bʼatzʼunk 
+float: pamamnak 
+flow: yo i roq 
+freeze: keho'k	kehoʼk 
+brook: nimaʼ 
+stream: nimaʼ 
+ocean: palaw 
+sea: palaw 
+sky: choxa	choxaal 
+snow: xchuʼi keh 
+ice: ke 
+blaze: choqlenk	humuk	kʼat 
+daylight: kutank 
+daytime: kutank 
+old: qʼeel 
+bad: lab'	labʼ 
+evil: lab'	labʼ 
+rot: q'aaneq	qʼaaneq 
+dirty: b'alak'	b'ulux	bʼalakʼ	bʼalux	pes	tz'aj	tz'ajn	yib'ob'aal ru 
+filthy: b'alak'	b'ulux	bʼalakʼ	bʼalux	pes	tz'aj	tz'ajn	yib'ob'aal ru 
+soiled: b'alak'	b'ulux	bʼalakʼ	bʼalux	pes	tz'aj	tz'ajn	yib'ob'aal ru 
+straight: tiik 
+sharp: q'es	qʼes 
+blunt: room 
+smooth: ji'ji'	jiʼjiʼ	q'un	qʼun	tiik	yolyol 
+damp: b'aqx	luub'	raap	t'aqt'aq	t'oqx	tz'uuq	tzʼuuq	tʼaqtʼaq 
+correct: q'axal chaab'il	qʼaxal chaabʼil 
+right side: sa' nim	saʼ nim 
+in: sa'	saʼ 
+inside: sa'	saʼ 
+with: chi rix	rexbʼeen	rikʼin	rukʼin 
+and: ut 
+if: si'	siʼ 
+because: xbʼaan naq 

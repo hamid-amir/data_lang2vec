@@ -1,0 +1,330 @@
+all: сваки	све 
+every: сваки	све 
+ash: пепео 
+ashes: пепео 
+bark: кора 
+abdomen: стомак	трбух 
+belly: стомак	трбух 
+big: велик 
+bigness: велик 
+large: велик 
+bird: птица 
+bite: гристи 
+black: црн 
+blood: крв 
+bone: кост 
+breast: груди	прса 
+breasts: груди	прса 
+cloud: облак 
+cold: студен	хладноћа 
+come: доћи 
+come from: доћи 
+be dead: умрети	умријети 
+dead: умрети	умријети 
+die: умрети	умријети 
+dog: куче	пас 
+drink: пити 
+dry: сув	сух 
+ear: уво	ухо 
+earth: земљa 
+ground: земљa 
+land: земљa 
+soil: земљa 
+eat: јести 
+egg: јаје 
+eye: око 
+feather: перо 
+fire: ватра	огањ 
+fish: риба 
+fly: летети	летјети 
+fly v.: летети	летјети 
+foot: стопа	стопало 
+full: пун 
+give: дати 
+good: добар 
+green: зелен 
+hair: влас	коса 
+head: глава 
+hear: слушати	чути 
+heart: срце 
+horn: рог 
+1 sg.: ја 
+I: ја 
+kill: убити 
+knee: колено	кољено 
+be knowledgeable: знати 
+know: знати 
+leaf: лист 
+liver: јетра 
+long: дуг 
+head louse: ваш	вашка 
+louse: ваш	вашка 
+male: мушкарац 
+man: човек 
+many: много 
+much: много 
+multiple: много 
+several: много 
+moon: месец	мјесец 
+hill: гора	планина 
+mountain: гора	планина 
+mouth: уста 
+name: име	наслов 
+title: име	наслов 
+neck: врат	шија 
+new: нов 
+night: ноћ 
+nighttime: ноћ 
+nose: нос 
+not: не 
+adulterous: један 
+one: један 
+single: један 
+that: та	тај	то 
+the: један 
+unprincipled: један 
+human: човек 
+human being: човек 
+person: човек 
+rain: дажд	киша 
+rainy weather: дажд	киша 
+red: црвен 
+path: пут	цеста 
+road: пут	цеста 
+route: пут	цеста 
+root: корен	коријен 
+round: округао 
+sand: песак	пијесак 
+say: казати	рећи 
+see: видети	видјети 
+seed: семе	сјеме 
+sit: сести	сјести 
+hide: кожа 
+skin: кожа 
+sleep: спавати 
+little: мали 
+small: мали 
+smallness: мали 
+smoke: дим 
+star: звезда	звијезда 
+rock: камен 
+stone: камен 
+sun: сунце 
+swim: пливати 
+tail: реп 
+this: ова	овај	ово 
+2 sg: ти 
+thou: ти 
+you: ти 
+tongue: језик 
+tooth: зуб 
+tree: дрво 
+grind: два 
+two: два 
+go: ходати 
+walk: ходати 
+hot: топао 
+warm: топао 
+water: вода 
+1 pl. inc.: ми 
+we: ми 
+we₁: ми 
+what: шта	што 
+white: бео	бијел 
+whiteness: бео	бијел 
+who: ко	тко 
+who?: ко	тко 
+female: жена 
+woman: жена 
+yellow: жут 
+distant: далек 
+far: далек 
+dull: тежак 
+heavy: тежак 
+serious: тежак 
+close: близак 
+near: близак 
+ner: близак 
+salt: со 
+short: кратак 
+snake: змија 
+thin: танак 
+wind: ветар	вијетар 
+earthworm: црв 
+worm: црв 
+year: година 
+3 sg.: он 
+he: он 
+she: он 
+2 pl.: ви 
+ye: ви 
+you all: ви 
+3 pl.: она	оне	они 
+they: она	оне	они 
+here: овде	овдје 
+there: тамо 
+where: где	гдје 
+where?: где	гдје 
+when: кад 
+when?: кад 
+how: како 
+how?: како 
+some: неколико 
+few: мало 
+other: други	ини 
+three: три 
+four: четири 
+five: пет 
+broad: широк 
+wide: широк 
+wideness: широк 
+fat: дебљина	сало 
+thick: дебео 
+narrow: узак 
+child: дете 
+principal wife: жена	супруга 
+wife: жена	супруга 
+husband: муж	супруг 
+his mother: мајка 
+mother: мајка 
+my mother: мајка 
+father: отац 
+his father: отац 
+my father: отац 
+animal: животиња	звер	звијер 
+forest: гора	шума 
+woods: гора	шума 
+branch: палица	прут 
+stick: палица	прут 
+fruit: воће	плод 
+flower: цвет	цвијет 
+grass: трава 
+cord: канап	конопац	уже 
+rope: канап	конопац	уже 
+flesh: месо 
+meat: месо 
+grease: дебљина	сало 
+claw: нокат 
+fingernail: нокат 
+nail: нокат 
+leg: нога 
+arm: рука 
+hand: рука 
+wing: крило 
+gut: утроба	црева	цријева 
+guts: утроба	црева	цријева 
+insides: утроба	црева	цријева 
+intestine: утроба	црева	цријева 
+intestines: утроба	црева	цријева 
+back: леђа 
+suck: сисати 
+spit: пљувати 
+vomit: бљувати	повраћати 
+blow: дувати	пухати 
+breath: дисати 
+breathe: дисати 
+laugh: смејати се	смијати се 
+laughter: смејати се	смијати се 
+cogitate: мислити 
+reflect: мислити 
+think: мислити 
+smell: мирисати	њушити 
+sniff: мирисати	њушити 
+afraid: бојати	страховати 
+be afraid: бојати	страховати 
+fear: бојати	страховати 
+fright: бојати	страховати 
+alive: живети	живјети 
+be alive: живети	живјети 
+life: живети	живјети 
+live: живети	живјети 
+living: живети	живјети 
+fight: борити	бојевати 
+hunt: ловити 
+beat: ударити 
+hit: ударити 
+strike: ударити 
+cut: резати	сећи	сјећи 
+hack: резати	сећи	сјећи 
+cut open: поделити	разделити 
+split: поделити	разделити 
+pierce: убости 
+stab: убости 
+scratch: чешати 
+dig: копати 
+lie: лежати 
+lie down: лежати 
+tell lies: лежати 
+stand: стати 
+turn: скренути 
+turn around: скренути 
+turn round: скренути 
+drop: пасти 
+fall: пасти 
+grasp: држати 
+hold: држати 
+hold in arm: држати 
+squeeze: стиснути 
+wring: стиснути 
+rub: терти	трљати 
+wipe: брисати 
+wash: прати 
+wash clothes: прати 
+pull: вући 
+push: гурати 
+shove: гурати 
+throw: бацити 
+bind: везати 
+fasten: везати 
+tie: везати 
+tie up: везати 
+sew: шити 
+count: бројати	бројање 
+enumerate: бројати	бројање 
+number: бројати	бројање 
+tally: бројати	бројање 
+sing: певати	пјевати 
+have fun: играти 
+play: играти 
+float: плутати 
+flow: тећи 
+freeze: заледити	смрзнути 
+swell: отећи 
+brook: река	ријека 
+river: река	ријека 
+stream: река	ријека 
+lake: језеро 
+ocean: море 
+sea: море 
+dust: прашина 
+fog: магла 
+sky: небо 
+snow: снег	снијег 
+ice: лед 
+blaze: горети	горијети 
+burn: горети	горијети 
+day: дан 
+daylight: дан 
+daytime: дан 
+old: стар 
+bad: зао	лош 
+evil: зао	лош 
+rot: гњио	труо 
+rotten: гњио	труо 
+dirty: прљав 
+filthy: прљав 
+soiled: прљав 
+straight: прав	раван 
+sharp: оштар 
+blunt: туп 
+smooth: гладак 
+damp: мокар 
+wet: мокар 
+correct: исправан	тачан 
+right: десни 
+right side: десни 
+left: леви	лијеви 
+at: код	при	у 
+with: с	са 
+if: ако 
+because: зато што	због	јер 

@@ -1,0 +1,419 @@
+all: okongu | okuŋu 
+all: okuŋu 
+arm: epïnamo- 
+arm: epɨnamo- 
+arrow: gʌ(gay) 
+arrow: gitʌ- 
+ashes: yapo- 
+back: okang 
+back: okaŋ 
+bad: ipa- 
+belly: amu- 
+belly: so- | amu- 
+belly: sɔ- | amu- 
+big: aro- 
+bird: okara- 
+bite: -käku- | -kɜku- 
+bite: -kïku- | -kɜku- 
+black: aɟiɣi- 
+black: ajighi- | aɟiɣi- 
+blood: ɲaku | 5aku	ɲaku 
+blood: ñaku | 5aku	ɲaku 
+blow: rugowar- 
+bone: ghëwa | x3wa	ɣʌwa- 
+bone: ɣʌwa- | x3wa	ɣʌwa- 
+boy: gɨɲamini- 
+boy: gïñamini- 
+breast: ama- | ama	ama- 
+brother: mansika 
+brother: -mansika 
+brother: -raka 
+brother: -rakaa 
+brother: -say 
+brother: -si 
+burn: ghrü- 
+burn: ɣrʉ- 
+calf: utsumak- 
+cassowary: gamay- 
+chest: kapinɟapa- 
+chest: kapinjapï- 
+child: momo- 
+child: undugo 
+chin: kumunu- 
+cloud: igo | igo	iŋambu- 
+cloud: ingambu- | igo	iŋambu- 
+cloud: iŋambu- | igo	iŋambu- 
+cold: muneːtʉ 
+cold: mune:tü | muneːtʉ 
+come: we- | we	we- 
+crocodile: matak- 
+cut: mʉŋʉ- 
+cut: müngü- 
+cut: rʌbugu- 
+cut: rëbugu- 
+cut: rëgrü- 
+cut: rʌgrʉ- 
+dance: nümbo ro- 
+day: mira- 
+day: tʉndaŋa 
+day: tündanga 
+die: prɨ- | pr3	prɨ- 
+die: prï- | pr3	prɨ- 
+dig: niprʉ- 
+dig: niprü- 
+dig: tam- 
+dirty: yinitang- 
+dirty: yinitaŋ- 
+dog: giya- | giya	giya- 
+dry: isimu- 
+ear: kowu- | kowu	kowu- 
+earth: kut 
+eat: ñamunggü- | ni- 
+eat: ni- 
+egg: makə- 
+egg: makï- | makə- 
+elbow: gikongga- 
+elbow: gikoŋga- 
+emu: gamay- 
+excrement: su- 
+eye: gë:munggë- | g3muNga	gʌːmuŋgʌ- 
+eye: gʌːmuŋgʌ- | g3muNga	gʌːmuŋgʌ- 
+fall: rëgrü- 
+fall: urugu- 
+far: atambesia | atambɛsia 
+far: atambɛsia 
+father: -awʉŋ 
+father: -awüng 
+father: -wak 
+fat (n.): gë:si- 
+fat (n.): gʌːsi- 
+fear: wungetum- 
+fear: wuŋetum- 
+few: owang 
+few: owaŋ 
+fight: mogɛrʉ- 
+fight: tuvu- 
+finger: ma:pupmuka- 
+finger: maːpupmuka- 
+fingernail: nipa- 
+fire: woghutï- | woxut3	woɣutɨ- 
+fire: woɣutɨ- | woxut3	woɣutɨ- 
+fish: ku- | ku	ku- 
+fly (n.): wundëk- 
+fly (n.): wundək- 
+fly (v.): rʉmʉ- 
+fly (v.): rümrü- 
+fog: ɲikut 
+fog: ñikut 
+forest: wora- 
+fruit: më:kï- 
+fruit: wʌːkə- 
+full: rku- | rku	rku- 
+full: wosigʉ- | rku	rku- 
+full: wosigü- | rku	rku- 
+girl: ɲaŋguri 
+girl: ñangguri- 
+give: -ku- 
+good: awi- 
+grass: una- 
+guts: so- 
+guts: sɔ- 
+hair: mïnï- | mɨnɨ- 
+hair: mɨnɨ- 
+head: më:gapu | mʌːgapu 
+head: mʌːgapu 
+head: nipeko- | mʌːgapu 
+hear: -tagrara- | -tagrara-	tagrara 
+heart: akumëka | akumʌka 
+heart: akumʌka 
+heavy: mutopuka 
+here: ogo 
+here: ɔgɔ 
+here: rïgi 
+he/she: eka 
+he/she: nʉ- 
+he/she: nʉ-gə 
+he/she: nʉ-go 
+he/she: nu- 
+he/she: nü 
+he/she: nü- 
+he/she: nü-ghï 
+hit: mogerü- 
+hit: tughu- 
+hold: ɣaprawutu- 
+hold: ghaprawutu- 
+house: raß- 
+house: rav- 
+how: paghïtïr 
+in: kumba(ngga) 
+I: yi- | yi-gə	yig3 
+I: yi-gə | yi-gə	yig3 
+I: yi-gï | yi-gə	yig3 
+I: yi-go | yi-gə	yig3 
+kill: simu- 
+knee: gëmorïmbï- | g3mor3mb~3	gʌmorɨmbɨ- 
+knee: gʌmorɨmbɨ- | g3mor3mb~3	gʌmorɨmbɨ- 
+laugh: irmu- 
+left: wakebri 
+leg: yikr- 
+lightning: igomʉnt womrʉ- 
+lightning: igomünt womrü- 
+liver: niruamu- | niruamu	niruamu- 
+long: iwr- 
+louse: akiɲɪ- 
+louse: akiñi- 
+louse: wute- 
+louse: wutɛ- 
+man: miti- | oro- 
+man: oro- 
+man: uro- | oro- 
+many: yigam 
+meat: muru- 
+moon: mukra 
+morning: goßugia 
+morning: govugia 
+morning: tïndë:wi 
+morning: tɨndʌːwi 
+mosquito: yakur- 
+mother: -mak 
+mother: -mʉŋ 
+mother: -müng 
+mountain: rʉkə- | r3ka	rʉkə- 
+mountain: rüke- | r3ka	rʉkə- 
+mouth: ya:gongba- | yaːgoŋba- 
+mouth: yaːgoŋba- 
+name: pi- | pi	pi- 
+nape: niutumu- 
+navel: nipirp- 
+near: komo(sia) | komo	komosia 
+neck: mukutuët- | mukutuʌt- 
+neck: mukutuʌt- 
+new: rege- | rege	rege- 
+night: temende | t3nEmay	tEmEnd~E	tɛmendɛ	tɨnɛmay 
+night: tɛmendɛ | t3nEmay	tEmEnd~E	tɛmendɛ	tɨnɛmay 
+night: tïnemay | t3nEmay	tEmEnd~E	tɛmendɛ	tɨnɛmay 
+night: tɨnɛmay | t3nEmay	tEmEnd~E	tɛmendɛ	tɨnɛmay 
+nose: mutugu- | mutugu	mutugu- 
+not: mbësimba 
+not: mbʌsimba 
+old: gowo- 
+old: gɔwɔ- 
+old: ñëtï- 
+old: ɲʌtɨ- 
+one: mïsaka | m3saka	mitsaka	mɨsaka 
+one: mɨsaka | m3saka	mitsaka	mɨsaka 
+pull: nʉpʉkrʉ- 
+pull: nüpükrü- 
+pull: wukrʉ- 
+pull: wukrü- 
+push: utoyumbu- 
+rain: r:a- | rra- 
+rain: rra- 
+rat: sikow- 
+red: ɲaku- 
+red: ñaku- | ɲaku- 
+right: atəbri 
+right: atïbri 
+ripe: mungu- 
+ripe: muŋu- 
+road: ghupu-t | xuput 
+road: ɣupu-t | xuput 
+root: gïndi- | gɨndi- 
+root: gɨndi- 
+rope: gotʌ- 
+salt: mʉtʌ- 
+salt: mütë- | mʉtʌ- 
+sand: aninggro | gasi- 
+sand: gasi- 
+say: -gisugoru- 
+say: uyomoru- | -gisugoru- 
+say: uyomur- | -gisugoru- 
+scratch: aru- 
+sea: unu- 
+see: -kʉ- | -kʉ-	k3 
+see: -kü- | -kʉ-	k3 
+see: yegrʉ- | -kʉ-	k3 
+sharp: mogi- 
+sharp: wat- 
+short: ɲipu- | rupma-	ɲipu- 
+short: ñipu- | rupma-	ɲipu- 
+short: rupma- | rupma-	ɲipu- 
+shoulder: apunggawa 
+shoulder: rubunggu- 
+shoulder: rubuŋgu apuŋgawa 
+sing: siginsitugu- 
+sister: -garma 
+sister: -garrma 
+sister: -mumu 
+sit: mʉsirʉ 
+sit: müsirü | mʉsirʉ 
+skin: wʉsa- | w3sa	wʉsa- 
+skin: wüsa- | w3sa	wʉsa- 
+sleep: ghuñi- | ɣuɲi 
+sleep: ɣuɲi 
+small: ñomo- | ɲomo 
+small: ɲomo 
+smell: katuwatam- 
+smoke: migsɨkwa 
+smoke: mugsïkwa | migsɨkwa 
+snake: ra:wu:- | raːwu- 
+snake: raːwu- 
+spit: munrugu- 
+spit: nipo- 
+split: ziŋgrʉ- 
+split: zingrü- 
+stand: mütërghü- 
+stand: rakora- 
+star: rghindïk | rx~ind~3k	rɣindək 
+star: rɣindək | rx~ind~3k	rɣindək 
+stick: rme- 
+stone: uyukuyu 
+stone: uyukuyu- 
+straight: rte- 
+straight: rtɛ- 
+sun: ɲiŋar- | 5iNar	ɲiŋar- 
+sun: ñingar- | 5iNar	ɲiŋar- 
+swell: nʉkogrʉ- 
+tail: ninga- | niŋa- 
+tail: niŋa- 
+tail: sukuri- | niŋa- 
+take: utu- 
+that: aka 
+there: ak(moko) 
+they: nʉ- 
+they: nʉ-ŋ 
+they: nʉ-ŋ-go 
+they: nʉ-ŋi 
+they: nu- 
+they: nü- 
+they: nu-ng 
+they: nü-ng- 
+thigh: ɣatambat- 
+thigh: ghatambat- 
+think: katugaw ku- 
+this: ika 
+thou: a- | na-gə	nag3 
+thou: na- | na-gə	nag3 
+thou: na-gə | na-gə	nag3 
+thou: na-gï | na-gə	nag3 
+thou: na-go | na-gə	nag3 
+thou: na-ŋ | na-gə	nag3 
+thou: na-ŋ-go | na-gə	nag3 
+thou: na-ŋi- | na-gə	nag3 
+thou: ø- | na-gə	nag3 
+throw: ɣawari- 
+throw: ghawari- 
+thunder: ingambumunt rugu- 
+thunder: iŋambumunt rugu- 
+tie: rpu- 
+tomorrow: amu 
+tomorrow: añigu 
+tongue: migʌ- | migʌ-	mirg3 
+tongue: mirgë- | migʌ-	mirg3 
+tooth: gëpo- | g3po	gʌpɔ- 
+tooth: gʌpɔ- | g3po	gʌpɔ- 
+tree: rë:ghït- | r3x3t 
+tree: rʌːgət- | r3x3t 
+tree: yapa- | r3x3t 
+tree: yawri- | r3x3t 
+turn: gïmuru- 
+turn: gɨmuru- 
+two: aniɣay | anigay	anixay	aniɣay 
+two: anighay | anigay	anixay	aniɣay 
+vagina: më:wi- 
+vagina: mʌːwi- 
+vomit: miŋrʉ- 
+walk: o- | praŋgu- 
+walk: pranggu- | praŋgu- 
+walk: praŋgu- 
+walk: rm- | praŋgu- 
+wallaby: gaigora- 
+warm: gʉpʉnd- 
+warm: güpünd- 
+wash: -piram- 
+wash: wi- 
+water: anɨ- | an3	anɨ- 
+water: anï- | an3	anɨ- 
+we: a- | aN 
+we: a-ng | aN 
+we: a-ŋ | aN 
+we: a-ŋ-go | aN 
+we: a-ngi- | aN 
+we: a-ŋi- | aN 
+weep: irgʉ- 
+weep: irgü- 
+wet: matəti 
+wet: matïti 
+we: yi- | aN 
+what: namində 
+what: namindï | namində 
+where: pëka 
+where: pʌka 
+white: mokr- 
+who: ghoye | ɣoye 
+who: ɣoye 
+wind: uñugasa- | uɲugasa- 
+wind: uɲugasa- 
+wing: apʉŋ- 
+wing: apüng- 
+woman: amini- | aminika 
+woman: aminika 
+wood: rme- 
+wood: togho- 
+wood: toɣo- 
+yes: manggwa 
+yes: maŋgwa 
+yesterday: añïgu 
+yesterday: mʉtu 
+yesterday: mütü 
+you: a- | na-gə	nag3 
+you: na-ng | na-gə	nag3 
+you: na-ng- | na-gə	nag3 
+you: na-ngi- | na-gə	nag3 
+you: ø- | na-gə	nag3 
+every: okuŋu 
+ash: yapo- 
+abdomen: amu- 
+bigness: aro- 
+large: aro- 
+breasts: ama	ama- 
+come from: we	we- 
+be dead: pr3	prɨ- 
+dead: pr3	prɨ- 
+ground: kut 
+land: kut 
+soil: kut 
+fly: rʉmʉ- 
+fly v.: rʉmʉ- 
+1 sg.: yi-gə	yig3 
+male: oro- 
+much: yigam 
+multiple: yigam 
+several: yigam 
+hill: r3ka	rʉkə- 
+title: pi	pi- 
+nighttime: t3nEmay	tEmEnd~E	tɛmendɛ	tɨnɛmay 
+adulterous: m3saka	mitsaka	mɨsaka 
+single: m3saka	mitsaka	mɨsaka 
+the: m3saka	mitsaka	mɨsaka 
+unprincipled: m3saka	mitsaka	mɨsaka 
+rainy weather: rra- 
+path: xuput 
+route: xuput 
+hide: w3sa	wʉsa- 
+little: ɲomo 
+smallness: ɲomo 
+rock: uyukuyu 
+2 sg: na-gə	nag3 
+grind: anigay	anixay	aniɣay 
+go: praŋgu- 
+1 pl. inc.: aN 
+we₁: aN 
+whiteness: mokr- 
+who?: ɣoye 
+female: aminika 
+distant: atambɛsia 
+dull: mutopuka 
+serious: mutopuka 
+close: komo	komosia 
+ner: komo	komosia 

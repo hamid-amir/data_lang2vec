@@ -1,0 +1,270 @@
+all: qɨmin 
+every: qɨmin 
+ash: dɨ:pug	dɨ:puǥ 
+ashes: dɨ:pug	dɨ:puǥ 
+abdomen: tabu 
+belly: tabu 
+big: qusikɨn 
+bigness: qusikɨn 
+large: qusikɨn 
+bird: manuk 
+bite: kaǥat 
+black: bɨ:lɨng	bɨ:lɨŋ 
+blood: matg3 m	matǥɨm 
+bone: tu7laN	tuqlang	tuqlaŋ 
+breast: tukad	tutu 
+breasts: tukad	tutu 
+burn: ǥunguy	ǥuŋuy 
+burn tr.: ǥunguy	ǥuŋuy 
+cloud: qaup 
+cold: gɨmna	ǥɨmna 
+come: ai	ari 
+come from: ai	ari 
+be dead: napasi 
+dead: napasi 
+die: napasi 
+dog: atu	qatu 
+drink: inum	qinum 
+dry: magi	magɨ	qagitqit 
+ear: taliNa	talinga	taliŋa 
+eat: kan 
+egg: lubun 
+eye: mata 
+feather: lawi 
+fire: gapuy 
+fish: guduN	gudung	ǥuduŋ 
+fly: payadung	payaduŋ 
+fly v.: payadung	payaduŋ 
+full: p3nu 
+good: qupiya 
+green: guput	ǥuput 
+hair: quu 
+hand: gima	ǥima 
+left hand: gima	ǥima 
+right: gima	ǥima 
+head: kidɨp 
+hear: d3N3g	dɨngɨg	dɨŋɨg 
+1 sg.: si7ak	siqak 
+I: si7ak	siqak 
+kill: pasi 
+be knowledgeable: bi:ya	bɨ:ya 
+know: bi:ya	bɨ:ya 
+leaf: buN	bung	buŋ 
+lie: pilag 
+lie down: pilag 
+liver: agsi	qaǥsi 
+long: quduki 
+head louse: kutu 
+louse: kutu 
+male: ǥaki 
+man: tu7u	tuqu 
+moon: buan 
+hill: b3silid 
+mountain: b3silid 
+mouth: tayap 
+name: Nad3n	ngadɨ:n	ŋadɨ:n 
+title: Nad3n	ngadɨ:n	ŋadɨ:n 
+neck: bukǥu 
+new: b3gu	bɨ:ǥu 
+night: masi 
+nighttime: masi 
+nose: 3g3N	qɨǥɨng	qɨǥɨŋ 
+adulterous: sit	šit 
+one: sit	šit 
+single: sit	šit 
+that: qita 
+the: sit	šit 
+unprincipled: sit	šit 
+human: tu7u	tuqu 
+human being: tu7u	tuqu 
+person: tu7u	tuqu 
+rain: qudɨn 
+rainy weather: qudɨn 
+red: tɨǥat 
+path: b3nuwa	bɨ:nua 
+road: b3nuwa	bɨ:nua 
+route: b3nuwa	bɨ:nua 
+root: ǥamut 
+sand: buwɨd 
+say: qupu 
+see: buya 
+sit: tungɨd	tuŋɨd 
+hide: kalib	kalɨb 
+skin: kalib	kalɨb 
+sleep: nuqngu	nuqŋu 
+little: quliki 
+small: quliki 
+smallness: quliki 
+smoke: qabuk 
+star: pand3k	pandɨk 
+rock: d3pgat	dɨpǥat 
+stone: d3pgat	dɨpǥat 
+swim: nanguy	naŋuy 
+tail: qikul 
+this: qitu 
+2 sg: sika 
+thou: sika 
+you: sika 
+tongue: limut 
+tooth: b37b3	bɨqbɨ 
+tree: kiyu 
+grind: deva	duwa 
+two: deva	duwa 
+go: kuwa 
+walk: kuwa 
+hot: quqinit 
+warm: quqinit 
+water: d3num	dɨ:num 
+1 pl. inc.: sikami	sikisi 
+we: sikami	sikisi 
+we₁: sikami	sikisi 
+what: ngadɨ:n nima	ŋadɨ:n nima 
+white: budɨ:k 
+whiteness: budɨ:k 
+who: katuqu 
+who?: katuqu 
+female: bɨ:kug	bɨ:kuǥ 
+woman: bɨ:kug	bɨ:kuǥ 
+yellow: duyaw 
+distant: bɨaqɨng	bɨaqɨŋ 
+far: bɨaqɨng	bɨaqɨŋ 
+dull: quǥɨni 
+heavy: quǥɨni 
+serious: quǥɨni 
+close: diǥag	dɨag 
+near: diǥag	dɨag 
+ner: diǥag	dɨag 
+salt: sigɨm 
+short: bulingkid	qagubi	qagubɨ 
+snake: qulɨg 
+thin: yapit 
+wind: qɨgnay 
+earthworm: qulaǥ 
+worm: qulaǥ 
+year: taqun 
+2 pl.: siki 
+ye: siki 
+you all: siki 
+3 pl.: siyay dɨ 
+they: siyay dɨ 
+where: tunguy	tuŋuy 
+where?: tunguy	tuŋuy 
+when: pigi 
+when?: pigi 
+how: pigi	ŋadɨ 
+how?: pigi	ŋadɨ 
+other: ǥiwa 
+three: tiǥu	tâgo 
+four: qɨpat	əpát 
+five: tambiang	tambiáng 
+broad: biag 
+wide: biag 
+wideness: biag 
+fat: tabi	tabɨ 
+thick: qukɨnɨg 
+narrow: ququpug 
+principal wife: bɨ:qyɨk 
+wife: bɨ:qyɨk 
+husband: bɨqyɨk 
+his mother: qina 
+mother: qina 
+my mother: qina 
+father: qama 
+his father: qama 
+my father: qama 
+forest: ǥungut	ǥuŋut 
+woods: ǥungut	ǥuŋut 
+branch: paqŋa 
+stick: paqŋa 
+fruit: bunga	buŋa 
+flower: bɨ:dɨk 
+grass: raqɨk 
+cord: ǥinubid 
+rope: ǥinubid 
+flesh: raman 
+meat: raman 
+grease: tabi	tabɨ 
+wing: payak 
+gut: silɨt 
+guts: silɨt 
+insides: silɨt 
+intestine: silɨt 
+intestines: silɨt 
+back: gɨtud 
+suck: tuptup 
+spit: qutap 
+vomit: qugkak 
+blow: sibuk 
+breath: niɨk 
+breathe: niɨk 
+laugh: qɨngit	qɨŋit 
+laughter: qɨngit	qɨŋit 
+cogitate: nɨmnɨm 
+reflect: nɨmnɨm 
+think: nɨmnɨm 
+smell: qamuy 
+sniff: qamuy 
+afraid: kayub 
+be afraid: kayub 
+fear: kayub 
+fright: kayub 
+alive: biay	biray 
+be alive: biay	biray 
+life: biay	biray 
+live: biay	biray 
+living: biay	biray 
+hunt: laqub 
+beat: bɨkbɨk 
+hit: bɨkbɨk 
+strike: bɨkbɨk 
+cut: bukbuk 
+hack: bukbuk 
+cut open: biɨk 
+split: biɨk 
+pierce: qutab 
+stab: qutab 
+scratch: giqti	guqgu 
+dig: kuqku 
+stand: sikin 
+drop: qɨlag 
+fall: qɨlag 
+grasp: qɨdɨn 
+hold: qɨdɨn 
+hold in arm: qɨdɨn 
+squeeze: pɨgsit 
+wring: pɨgsit 
+throw: kɨgat	kɨǥat 
+bind: pɨdɨng	pɨdɨŋ 
+fasten: pɨdɨng	pɨdɨŋ 
+tie: pɨdɨng	pɨdɨŋ 
+tie up: pɨdɨng	pɨdɨŋ 
+sew: ti:quk	tɨ:quk 
+count: bilaŋ	ngɨtu	ŋɨtu 
+enumerate: bilaŋ	ngɨtu	ŋɨtu 
+number: bilaŋ	ngɨtu	ŋɨtu 
+tally: bilaŋ	ngɨtu	ŋɨtu 
+flow: kurut 
+lake: gɨbɨng	ǥɨbɨŋ 
+ocean: dagat 
+sea: dagat 
+dust: bunubun	qalikabuk 
+fog: nabunab 
+sky: tawɨn 
+bad: naqugi 
+evil: naqugi 
+rot: buyuk 
+rotten: buyuk 
+dirty: napadiǥan 
+filthy: napadiǥan 
+soiled: napadiǥan 
+sharp: qutadɨm 
+blunt: ngilud	ŋilud 
+damp: bɨ:ta 
+wet: bɨ:ta 
+right side: wanan 
+left: wili 
+at: sa 
+in: runɨk 
+inside: runɨk 
+and: saydɨn 
+if: nu 

@@ -1,0 +1,286 @@
+all: payao 
+arm: kiki 
+ashes: lankä | lankä	pere 
+ashes: pere | lankä	pere 
+back: hoki 
+bad: hoire 
+bad: hoke 
+bark: yogeleke 
+belly: palo | palo	waleke 
+belly: palo/waleke | palo	waleke 
+belly: waleke | palo	waleke 
+big: hiege | tieke 
+big: tieke 
+bird: ba 
+bite: lu naleme | lu nalɛme 
+bite: lu nalɛme 
+black: punu ribaleme | punu ribalɛme 
+black: punu ribalɛme 
+blood: fore | we 
+blood: we 
+bone: holiki 
+boy: weke 
+breast: adu | adu	andu 
+breast: andu | adu	andu 
+brother: hameme 
+burn: ti taleme 
+burn: ti talɛme 
+chin: yankake 
+claw: age kebo 
+cloud: hapueke | hapueke	koa 
+cloud: koa | hapueke	koa 
+cloud: koa/hapueke | hapueke	koa 
+cold: kose peleme | kosɛ pɛlɛme 
+cold: kosɛ pɛlɛme 
+come: ipu | ipu	pulame	pulɛme 
+come: púleme | ipu	pulame	pulɛme 
+come: pulɛme | ipu	pulame	pulɛme 
+cut: hãmpere- 
+dark: punu pä 
+die: homä | homä	ota homalame	otɛ homɛlɛme 
+die: ote homeleme | homä	ota homalame	otɛ homɛlɛme 
+die: otɛ homɛlɛme | homä	ota homalame	otɛ homɛlɛme 
+dog: ena | kika	na 
+dog: kika | kika	na 
+dog: na | kika	na 
+drink: ikalinalɛme | ikalinalame	ikalinalɛme 
+drink: ikali nalome | ikalinalame	ikalinalɛme 
+dry: hapu lae | hapu lae	hapulɛme 
+dry: hapuleme | hapu lae	hapulɛme 
+dry: hapulɛme | hapu lae	hapulɛme 
+ear: haleke | haleke	kerake 
+ear: kerake | haleke	kerake 
+earth: su | yu 
+earth: yu 
+eat: na | na	nalɛme 
+eat: naleme | na	nalɛme 
+eat: nalɛme | na	nalɛme 
+egg: hapeke 
+eye: le:gi | leke 
+eye: leke 
+eye: leki | leke 
+father: apa 
+fat (n.): imeke 
+feather: itiki 
+fire: ti 
+fish: tepeli | tapeli	tɛpeli 
+fish: tɛpeli | tapeli	tɛpeli 
+fly (v.): tiao puleme 
+fly (v.): tiao pulɛme 
+foot: ã:ki | anke 
+foot: anke 
+forehead: wenoko 
+full: tuba uleme | tuba ulame	tuba ulɛme 
+full: tuba ulɛme | tuba ulame	tuba ulɛme 
+give: kitä | kitä	kitɛlɛme 
+give: kiteleme | kitä	kitɛlɛme 
+give: kitɛlɛme | kitä	kitɛlɛme 
+good: epeke | epeke	epele 
+good: epele | epeke	epele 
+good: heregi | epeke	epele 
+green: haka rɛlɛme 
+green: hako releme | haka rɛlɛme 
+hair: irigi | iti	itiki 
+hair: itiki | iti	itiki 
+hair: iti(ki) | iti	itiki 
+hand: kigi | kiki 
+hand: kiki 
+head: aboke | aboke	you 
+head: you | aboke	you 
+head: yuridara | aboke	you 
+hear: opuä | opualame	opuä	opuɛlɛme 
+hear: opueleme | opualame	opuä	opuɛlɛme 
+hear: opuɛlɛme | opualame	opuä	opuɛlɛme 
+heart: honoka 
+heavy: kändä | kändä 
+he/she: ipiki 
+he/she: neki 
+hit: litä 
+hit: muru- 
+hold: minä 
+horn: ekeke 
+house: nda 
+I: i | i*	ĩ 
+I: i͂ | i*	ĩ 
+I: ia | i*	ĩ 
+kill: liteleme | litɛlɛme 
+kill: litɛlɛme 
+knee: tumiki 
+know: hadeleme | hadɛlɛme 
+know: hadɛlɛme 
+laugh: ki talä 
+leaf: katake 
+leg: age 
+leg: anke 
+lie: peliä | peliä	pɛliɛlɛme 
+lie: pelieleme | peliä	pɛliɛlɛme 
+lie: pɛliɛlɛme | peliä	pɛliɛlɛme 
+liver: puki 
+long: hokulu 
+long: hua | hokulu 
+louse: lämä | lama 
+louse: leme | lama 
+louse: lɛmɛ | lama 
+man: hali 
+man: hari | hali 
+many: wopu wotu | wopu	wotu 
+many: wopu ~ wotu | wopu	wotu 
+meat: mänä 
+meat: mene 
+meat: mɛnɛ 
+moon: ege | eke	subɛ 
+moon: eke | eke	subɛ 
+moon: subɛ | eke	subɛ 
+mother: ama 
+mountain: pote 
+mouth: kake 
+name: bigi | biki 
+name: biki 
+neck: make 
+new: panakeki 
+night: tiba 
+nose: meneke 
+not: diä | diä	na- 
+not: na- | diä	na- 
+one: homeke 
+person: hali 
+rain: lako | lako	yei 
+rain: lako/yei | lako	yei 
+rain: yei | lako	yei 
+red: we peleme | we pɛlɛme 
+red: we pɛlɛme 
+road: pota 
+root: piki 
+round: bolu bolu peleme | bolu bolu pɛlɛme 
+round: bolu bolu pɛlɛme 
+salt: epi 
+sand: hou 
+say: alä | hou 
+say: aleme | hou 
+say: alɛme | hou 
+seed: wae 
+see: hadeleme | hadalame	hadɛlɛme	handä 
+see: hadɛlɛme | hadalame	hadɛlɛme	handä 
+see: hãdu | hadalame	hadɛlɛme	handä 
+see: handä | hadalame	hadɛlɛme	handä 
+shoulder: pyoko 
+sister: beliki 
+sit: pilä | pilä	pilɛme 
+sit: pileme | pilä	pilɛme 
+sit: pilɛme | pilä	pilɛme 
+skin: yogeleke 
+skin: yonkele-ke | yogeleke 
+sleep: u pelieleme | ũ peliɛlɛme 
+sleep: u͂ peliɛlɛme | ũ peliɛlɛme 
+small: harisigi | hosiki 
+small: hosiki 
+smell: punku mi 
+smoke: lumu 
+spit: hoto alä 
+stand: tiaseme 
+stand: tiasɛme 
+star: hõbu(lage) | hobulag3	hobulagə 
+star: hobulagə | hobulag3	hobulagə 
+stone: sepo | sepo	topi 
+stone: sepo/topi | sepo	topi 
+stone: topi | sepo	topi 
+sun: nari | nate 
+sun: nate 
+swim: mokela puleme | mokɛla pulɛme 
+swim: mokɛla pulɛme 
+tail: medeke | mɛdeke 
+tail: mɛdeke 
+that: mo 
+they: iki 
+they: ípona 
+they two: ibirigi 
+they two: ipiliki 
+this: do 
+thou: iki | iki	neke 
+thou: neke | iki	neke 
+thou: neki | iki	neke 
+three: tepo 
+tongue: kekeke 
+tooth: kake 
+tree: ti 
+two: yapo | yapo	yäpo 
+two: yäpo | yapo	yäpo 
+walk: pu | pulɛme 
+walk: puleme | pulɛme 
+walk: pulɛme 
+warm: tiripu 
+water: igari | ikali	ipi 
+water: ikali | ikali	ipi 
+water: ipi | ikali	ipi 
+we (incl.): niki 
+we: nigi | niki 
+we: niki 
+we two: digi 
+we two (incl.): diki 
+what: aleke 
+when: handimä 
+white: hake pä | hake pä	hake pɛlɛme 
+white: hake peleme | hake pä	hake pɛlɛme 
+white: hake pɛlɛme | hake pä	hake pɛlɛme 
+who: epi 
+woman: wade 
+woman: wãde | wade 
+yellow: hami pae | hami pae	hami pɛlɛme 
+yellow: hami peleme | hami pae	hami pɛlɛme 
+yellow: hami pɛlɛme | hami pae	hami pɛlɛme 
+yesterday: amvaneke 
+you: i:gi | iki	neke 
+you two: ibirigi 
+you two: ipiliki 
+every: payao 
+ash: lankä	pere 
+abdomen: palo	waleke 
+bigness: tieke 
+large: tieke 
+breasts: adu	andu 
+nail: age kebo 
+talon: age kebo 
+come from: ipu	pulame	pulɛme 
+be dead: homä	ota homalame	otɛ homɛlɛme 
+dead: homä	ota homalame	otɛ homɛlɛme 
+ground: yu 
+land: yu 
+soil: yu 
+fly: tiao pulɛme 
+fly v.: tiao pulɛme 
+left hand: kiki 
+right: kiki 
+1 sg.: i*	ĩ 
+be knowledgeable: hadɛlɛme 
+lie down: peliä	pɛliɛlɛme 
+head louse: lama 
+male: hali 
+much: wopu	wotu 
+multiple: wopu	wotu 
+several: wopu	wotu 
+hill: pote 
+title: biki 
+nighttime: tiba 
+adulterous: homeke 
+single: homeke 
+the: homeke 
+unprincipled: homeke 
+human: hali 
+human being: hali 
+rainy weather: lako	yei 
+path: pota 
+route: pota 
+hide: yogeleke 
+little: hosiki 
+smallness: hosiki 
+rock: sepo	topi 
+2 sg: iki	neke 
+grind: yapo	yäpo 
+go: pulɛme 
+1 pl. inc.: niki 
+we₁: niki 
+whiteness: hake pä	hake pɛlɛme 
+who?: epi 
+female: wade 
+dull: kändä 
+serious: kändä 

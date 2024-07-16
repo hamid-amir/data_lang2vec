@@ -1,0 +1,328 @@
+all: tot 
+every: tot 
+ash: scrum	tšănuşă	tšănúșă 
+ashes: scrum	tšănuşă	tšănúșă 
+abdomen: buric	foali	foáli 
+belly: buric	foali	foáli 
+big: mari	mári 
+bigness: mari	mári 
+large: mari	mári 
+bird: puľ 
+bite: mútšcu 
+black: negru	négru 
+blood: sǫnzi 
+bone: u̯os 
+breast: chi̯ept	chi̯épt	sin 
+breasts: chi̯ept	chi̯épt	sin 
+burn: ard 
+burn tr.: ard 
+claw: úngľă 
+nail: úngľă 
+talon: úngľă 
+cloud: nor 
+cold: frig	ratsi	rátsi 
+come: vin 
+come from: vin 
+be dead: mor 
+dead: mor 
+die: mor 
+dog: cǫini	cǫi̯ni 
+drink: beai	beáu̯ 
+dry: uscat	uscát 
+ear: ureacľă	ureácľă 
+earth: pimint	tsáră 
+ground: pimint	tsáră 
+land: pimint	tsáră 
+soil: pimint	tsáră 
+eat: mănanc	mănánc 
+egg: u̯ou	u̯óu̯ 
+eye: u̯ocľu	u̯ócľu 
+fat: grăsími 
+fat n.: grăsími 
+grease: grăsími 
+lubricant: grăsími 
+oil: grăsími 
+feather: peană	peánă 
+fire: foc 
+fish: peaşti	peáști 
+fly: părăies	părăi̯és 
+fly v.: părăies	părăi̯és 
+foot: pitšor	pitšór 
+full: ạmplin	ạmplín 
+give: dau	dáu̯ 
+good: bun 
+green: veardi	veárdi 
+hair: per 
+hand: mǫnă 
+left hand: mǫnă 
+right: mǫnă 
+head: cap 
+hear: ud 
+heart: buríc	ińamă 
+horn: corn 
+1 sg.: iu̯ă	i̯eu̯	i̯o	mini 
+I: iu̯ă	i̯eu̯	i̯o	mini 
+kill: nec	vatăm 
+knee: zinucľu	zinúcľu 
+be knowledgeable: ştiu	știu̯ 
+know: ştiu	știu̯ 
+leaf: frunză	frúnză 
+lie: zac 
+lie down: zac 
+liver: drob 
+long: lung 
+head louse: piducľu	pidúcľu 
+louse: piducľu	pidúcľu 
+male: bărbat	bărbát	mascur 
+man: u̯om 
+many: mult	muľts 
+much: mult	muľts 
+multiple: mult	muľts 
+several: mult	muľts 
+flesh: cárni 
+meat: cárni 
+moon: lună	lúnă 
+hill: munti 
+mountain: munti 
+mouth: gură	rost 
+name: numi	númi 
+title: numi	númi 
+neck: guşă	gúșă 
+new: nou	nóu̯ 
+night: noapti	noápti 
+nighttime: noapti	noápti 
+nose: nas 
+not: nu 
+adulterous: un	unu 
+one: un	unu 
+single: un	unu 
+that: tsel	tséla 
+the: un	unu 
+unprincipled: un	unu 
+human: u̯om 
+human being: u̯om 
+person: u̯om 
+rain: ploaiă	ploái̯ă 
+rainy weather: ploaiă	ploái̯ă 
+red: roş	roș 
+path: cåle	drum 
+road: cåle	drum 
+route: cåle	drum 
+root: corin	córin 
+round: gurguľat	gurguľát 
+sand: pisoc	pisóc 
+say: spun	zic 
+see: ved 
+seed: siminţă	simíntsă 
+sit: şǫd	šɔd 
+hide: coajă	coájă 
+skin: coajă	coájă 
+sleep: dorm 
+little: mic	minut 
+small: mic	minut 
+smallness: mic	minut 
+smoke: fum 
+stand: stau̯ 
+star: steau̯ă	stéu̯ă 
+rock: rǫpă 
+stone: rǫpă 
+sun: soari	soári 
+swim: plivăies	plivăi̯és 
+tail: coadă	coádă 
+this: tsist	tsísta 
+2 sg: tu 
+thou: tu 
+you: tu 
+tongue: limbă	límbă 
+tooth: dinti	dínti	măseau̯ă 
+tree: arbur	pom	árbur 
+grind: doi	doi̯ 
+two: doi	doi̯ 
+go: amnu	ámnu 
+walk: amnu	ámnu 
+hot: cald 
+warm: cald 
+water: apu	ápu 
+1 pl. inc.: noi	noi̯ 
+we: noi	noi̯ 
+we₁: noi	noi̯ 
+what: tse	tsi 
+white: alb	beal 
+whiteness: alb	beal 
+who: cari	cola	ạncolo 
+who?: cari	cola	ạncolo 
+female: muľari	muľári 
+woman: muľari	muľári 
+yellow: galbin	gálbin 
+distant: diparti	dipárti 
+far: diparti	dipárti 
+dull: greu	gréu̯ 
+heavy: greu	gréu̯ 
+serious: greu	gréu̯ 
+close: proapi	prochiat	proápi 
+near: proapi	prochiat	proápi 
+ner: proapi	prochiat	proápi 
+salt: sari	sári 
+short: cus 
+snake: şarpi	șárpi 
+thin: slab	subtzǫri 
+wind: vint 
+earthworm: ghermi	ghi̯ármi 
+worm: ghermi	ghi̯ármi 
+year: an 
+3 sg.: i̯el 
+he: i̯el 
+she: i̯el 
+2 pl.: voi 
+ye: voi 
+you all: voi 
+3 pl.: i̯eľ 
+they: i̯eľ 
+here: u̯a 
+there: colo	ạncǫ 
+where: i̯undi 
+where?: i̯undi 
+when: cǫn 
+when?: cǫn 
+how: cum 
+how?: cum 
+some: nişti 
+few: uneac 
+other: altu 
+three: trei 
+four: patru 
+five: tsints	ţinţi 
+broad: larg 
+wide: larg 
+wideness: larg 
+thick: gros 
+narrow: strimt 
+child: cupilaş	fitšor 
+principal wife: niveastă 
+wife: niveastă 
+husband: bărbat 
+his mother: mamă 
+mother: mamă 
+my mother: mamă 
+father: tată 
+his father: tată 
+my father: tată 
+forest: păduri 
+woods: păduri 
+branch: virdzeau̯ă 
+stick: virdzeau̯ă 
+fruit: plod 
+flower: floari 
+grass: i̯arbă 
+cord: fortumă	funi 
+rope: fortumă	funi 
+fingernail: ungľă 
+leg: pitšor 
+arm: mǫnă 
+wing: aripă	i̯aripă 
+gut: matsi 
+guts: matsi 
+insides: matsi 
+intestine: matsi 
+intestines: matsi 
+back: gorb 
+suck: sug 
+spit: scup 
+vomit: vom 
+blow: suflu 
+laugh: rǫd 
+laughter: rǫd 
+cogitate: misles 
+reflect: misles 
+think: misles 
+smell: miruses 
+sniff: miruses 
+afraid: mi ạnfric 
+be afraid: mi ạnfric 
+fear: mi ạnfric 
+fright: mi ạnfric 
+alive: ghii̯es	trăies 
+be alive: ghii̯es	trăies 
+life: ghii̯es	trăies 
+live: ghii̯es	trăies 
+living: ghii̯es	trăies 
+fight: mi bat	mi buros 
+hunt: luves 
+beat: ugudes 
+hit: ugudes 
+strike: ugudes 
+cut: taľ 
+hack: taľ 
+cut open: dispic 
+split: dispic 
+pierce: pung 
+stab: pung 
+scratch: scarpin	zgair 
+dig: sap 
+tell lies: mi culc	stau̯ culcat 
+turn: mi ạnvărtes 
+turn around: mi ạnvărtes 
+turn round: mi ạnvărtes 
+drop: cad 
+fall: cad 
+grasp: tsǫn 
+hold: tsǫn 
+hold in arm: tsǫn 
+squeeze: string 
+wring: string 
+rub: frec 
+wipe: şterg 
+wash: spel 
+wash clothes: spel 
+pull: trag	trăgăies 
+throw: runc 
+bind: leg 
+fasten: leg 
+tie: leg 
+tie up: leg 
+sew: cos 
+count: numir 
+enumerate: numir 
+number: numir 
+tally: numir 
+sing: cǫnt 
+have fun: joc 
+play: joc 
+float: plivăies 
+flow: cur 
+freeze: ạngľets 
+swell: mi anflu 
+brook: vali 
+river: vali 
+stream: vali 
+lake: lac 
+ocean: mari 
+sea: mari 
+dust: prau 
+sky: tser 
+snow: neau̯ă 
+ice: gľets 
+blaze: årdu 
+day: zuu̯ă 
+daylight: zuu̯ă 
+daytime: zuu̯ă 
+old: vecľu 
+bad: rǫu 
+evil: rǫu 
+rot: putrid 
+rotten: putrid 
+dirty: murdar 
+filthy: murdar 
+soiled: murdar 
+sharp: tăľătos 
+damp: vlajnic 
+wet: vlajnic 
+right side: dirept	dreapta 
+left: leava	stǫng 
+at: la	lă 
+in: ăn 
+inside: ăn 
+with: cu 
+and: şi 
+if: acu 
+because: că	dintru că	pri tse 

@@ -1,0 +1,333 @@
+all: iri\ | iriʔ 
+all: iriʔ 
+arrow: boŋgu 
+ashes: dasmo\ | dasmoʔ 
+ashes: dasmoʔ 
+back: gurëufwë 
+back: gurʌuφwʌ 
+bad: mauwʌ 
+bad: mauwö 
+bark: di-wërauwë | diwʌrauwʌ 
+bark: diwʌrauwʌ 
+belly: fiyëo | ɸiyʌo 
+belly: φiyʌo | ɸiyʌo 
+big: anëyuwë\ | anʌyuwʌʔ 
+big: anʌyuwʌʔ 
+bird: warogu | warogu	waroku 
+bird: waroku | warogu	waroku 
+bird: waroku ~ warogu | warogu	waroku 
+bite: ndugwawʌ 
+bite: ndugwawë | ndugwawʌ 
+black: yubuwa 
+blood: mèra | mɛra 
+blood: mɛra 
+bone: kußuwʌ | kuβuwʌ 
+bone: kuvuwë | kuβuwʌ 
+boy: imè tukwëuwë 
+boy: imɛ tukwʌuwʌ 
+breast: fiki\ | f3ki	ɸɪkiʔ 
+breast: φɪkiʔ | f3ki	ɸɪkiʔ 
+brother: ape 
+burn: rapipigawʌ 
+burn: rapipigawë 
+cassowary: gwayi\ 
+child: tu kwëuwë 
+child: tu kwʌuwʌ 
+chin: bisärëmo-wë 
+chin: bisärʌmowʌ 
+claw: sukwaimbʌ 
+claw: sukwaimbë | sukwaimbʌ 
+cloud: wësi | wʌsi 
+cloud: wʌsi 
+cold: mërëkësuë | mʌrʌkʌsuʌ 
+cold: mʌrʌkʌsuʌ 
+come: funukwawë | ɸunukwawʌ 
+come: φunukwawʌ | ɸunukwawʌ 
+dance: manifië 
+day: piniyʌmbʌ 
+day: piniyömbö 
+die: basëguwë | basʌguwʌ	sEk 
+die: basʌguwʌ | basʌguwʌ	sEk 
+dog: wunɪʔ | wunE	wunɪʔ 
+dog: wuni\ | wunE	wunɪʔ 
+drink: pidugwawʌ 
+drink: pidugwawë | pidugwawʌ 
+dry: purukuwʌ 
+dry: purukuwë | purukuwʌ 
+ear: gumo | XXgomoX	gumo 
+earth: igwadʌ 
+earth: igwadë 
+eat: dubuyʌʔ 
+eat: dubuyë\ | dubuyʌʔ 
+egg: aro\ | aroʔ 
+egg: aroʔ 
+elbow: gumëmgië 
+elbow: gumʌmgiʌ 
+emu: gwayiʔ 
+eye: kurʌ | kor3	kurʌ 
+eye: kurë | kor3	kurʌ 
+fall: watuguwʌ 
+fall: watuguwë 
+father: ai 
+fat (n.): simbu 
+fat (n.): sɪmbu 
+feather: wurauwʌ 
+feather: wurauwë | wurauwʌ 
+finger: reki kuriato 
+fire: nda\ | la	ndaʔ 
+fire: ndaʔ | la	ndaʔ 
+fish: niasi | niasi	ny~as 
+five: anayuwʌʔ 
+five: anayuwë\ 
+fly (v.): mapuguwʌ 
+fly (v.): mapuguwë 
+foot: sukwëimpä | sukwʌimpä 
+foot: sukwʌimpä | sukwʌimpä 
+forehead: nënëwë\ 
+forehead: nʌnʌwʌʔ 
+four: nëmbëkëròs 
+four: nʌmbʌkʌrɔs 
+full: anayuwʌʔ 
+full: anayuwë\ | anayuwʌʔ 
+girl: katë\ mukwë 
+girl: katʌʔ mukwʌ 
+give: nëmabwa | nʌmabwa 
+give: nʌmabwa 
+good: yäsawʌ | yäsawʌ 
+good: yäsawë | yäsawʌ 
+green: arugawʌ 
+green: arugawë | arugawʌ 
+hair: buburiʌ 
+hair: bubu-rië | buburiʌ 
+hand: degi | degi	rEgi 
+head: bußuʔ | buβuʔ 
+head: buvu\ | buβuʔ 
+hear: nimbiubwa 
+heart: numbërgië | numbʌrgiʌ 
+heart: numbʌrgiʌ 
+heavy: yëkuriwë | yʌkuriwʌ 
+heavy: yʌkuriwʌ 
+he/she: aŋgiʌ 
+he/she: anggië 
+hit: pëtiaguwë 
+hit: pʌtiaguwʌ 
+house: fëre 
+house: φʌre 
+I: ätiʌ | Ety~E	ätiʌ 
+I: ätië | Ety~E	ätiʌ 
+kill: takëyagabu | takʌyagabu 
+kill: takʌyagabu 
+knee: gumërëgië | gumʌrʌgiʌ 
+knee: gumʌrʌgiʌ 
+know: ramowʌ 
+know: ramowë | ramowʌ 
+laugh: yëuë\ 
+laugh: yʌuʌʔ 
+leaf: këpëuwë | kubow	kʌpʌuwʌʔ 
+leaf: kʌpʌuwʌʔ | kubow	kʌpʌuwʌʔ 
+leg: pa-muyʌ 
+leg: pa-muyë 
+lie: dukviawʌʔ 
+lie: dukviawë\ 
+liver: tutuwʌ 
+liver: tutuwë | tutuwʌ 
+long: kiyapowʌ 
+long: kiyapowë | kiyapowʌ 
+louse: munubuwë | muni 
+louse: munubuyë | muni 
+louse: munubuyʌʔ ~ munubuwʌʔ | muni 
+man: imäni | imäniyʌ 
+man: imäni | imäniyʌ 
+many: anayuwë\ | raumbwʌ 
+many: raumbwʌ 
+many: raumbwë | raumbwʌ 
+meat: burʌ 
+meat: burë 
+moon: wësi | wʌsi 
+moon: wʌsi 
+morning: sunkurumbʌ 
+morning: sunkurumbë 
+mother: mëye\ 
+mother: mʌyeʔ 
+mountain: pukwatʌ | fukwarE	pukwatʌ 
+mountain: pukwatë | fukwarE	pukwatʌ 
+mouth: bisärëmo | bɪsärʌmo 
+mouth: bɪsärʌmo | bɪsärʌmo 
+neck: wëiginu | wʌiginu 
+neck: wʌiginu 
+new: nauwʌ | nao	nauwʌ 
+new: nauwë | nao	nauwʌ 
+night: kwakutayʌ 
+night: kwakutayë | kwakutayʌ 
+nose: sëmonë | s3moni	sʌmonʌ 
+not: mamuwʌ 
+not: mamuwë 
+old: kußuimungʌʔ 
+old: kußuiyʌ 
+old: kuvui-mun.gë\ 
+old: kuvuiyë 
+old: wëkënayu 
+old: wʌkʌnayu 
+one: giɛsʌ | giɛsʌ	satu 
+one: gièsë | giɛsʌ	satu 
+person: imäniyʌ | imäniyʌ 
+person: imäniyë | imäniyʌ 
+rain: fi | ɸi 
+rain: φi | ɸi 
+rat: pëkëi 
+rat: pʌkʌi 
+red: meniyangkëwë | meniyaŋkʌwʌ 
+red: meniyaŋkʌwʌ 
+road: wusiʌ 
+road: wusië 
+root: nuŋguwʌʔ 
+root: nungguwë\ | nuŋguwʌʔ 
+round: wariaguwa 
+sand: pësgi | pʌsgi 
+sand: pʌsgi 
+say: maniyʌ 
+say: maniyë | maniyʌ 
+seed: rikië | rɪkiʌ 
+seed: rɪkiʌ 
+see: kwahnufwa | kwahnuɸwa 
+see: kwahnuφwa | kwahnuɸwa 
+short: guruwʌ 
+short: guruwë 
+shoulder: marufwë 
+shoulder: maruφwʌ 
+sister: mamugu 
+sit: tapurpuriʌ 
+sit: tapurpuriö | tapurpuriʌ 
+skin: wërëo | orow	worow	wʌrʌo 
+skin: wʌrʌo | orow	worow	wʌrʌo 
+sleep: rugmawʌ 
+sleep: rugmawë | rugmawʌ 
+small: tukwëiyowë | tukwʌiyowʌ 
+small: tukwʌiyowʌ 
+smoke: kurarifi | kuraripi	kurariɸi 
+smoke: kuraripi | kuraripi	kurariɸi 
+smoke: kuraripi ~ kurariφi | kuraripi	kurariɸi 
+snake: kakëri | kakʌri 
+snake: kakʌri 
+spit: neriʌʔ 
+stand: puribwʌʔ 
+stand: puribwë\ 
+star: bäbigʌʔ ~ bäbikʌʔ | bäbigʌʔ	bäbikʌʔ	mEmb3kE 
+star: bäbigë | bäbigʌʔ	bäbikʌʔ	mEmb3kE 
+star: bäbikë | bäbigʌʔ	bäbikʌʔ	mEmb3kE 
+stick: nuwë 
+stone: wunëgërë | wonEngrE	wunʌgʌrʌ 
+stone: wunʌgʌrʌ | wonEngrE	wunʌgʌrʌ 
+sun: wësi | wosi	wʌsi 
+sun: wʌsi | wosi	wʌsi 
+swim: rediputagwawa 
+tail: sukwëuwë | sukwʌuwʌ 
+tail: sukwʌuwʌ 
+take: sëbukë 
+they: rambò 
+they: rambɔ 
+they two: nëmbë-rië 
+they two: nʌmbʌriʌ 
+this: ëkwakwawë | ʌkwakwawʌ 
+this: ʌkwakwawʌ 
+thou: biè | angi	biɛ 
+thou: biɛ | angi	biɛ 
+thou: rambɔ | angi	biɛ 
+three: nëmbë-kièsë\ 
+three: nʌmbʌkiɛsʌ 
+tomorrow: sunkurumbu 
+tongue: fënagiyu | f3nEkyo	ɸʌnagiyu 
+tongue: φʌnagiyu | f3nEkyo	ɸʌnagiyu 
+tooth: mënggasië | mʌŋgasiʌ 
+tooth: mʌŋgasiʌ 
+tree: diyʌ 
+tree: diyë 
+two: näbäiʌ | n3robEri	näbäiʌ 
+two: näbäië | n3robEri	näbäiʌ 
+walk: pëkabwë | pʌkabwʌʔ 
+walk: pʌkabwʌʔ 
+walk: pʌtʌtugwawʌ | pʌkabwʌʔ 
+wallaby: yupëi\ 
+wallaby: yupʌiʔ 
+warm: dumba 
+water: fi | fi	ɸi 
+water: φi | fi	ɸi 
+wet: apanänuwa 
+wet: apanänuwa 
+we two: angguwë 
+we two (excl.): aŋguwʌ 
+what: biyʌ 
+what: biyë | biyʌ 
+when: bëiyëmamoë 
+when: bʌiyʌmamoʌ 
+where: ädibide 
+where: ädibide 
+white: auwuyʌ 
+white: auwuyë | auwuyʌ 
+who: ëitiyë | ʌitiyʌ 
+who: ʌitiyʌ 
+wind: pipiësi | pipiʌsi 
+wind: pipiʌsi 
+wing: dawe 
+woman: mën.gu | mʌngu 
+woman: mʌngu 
+wood: nuwʌ 
+yellow: yaukenuwʌ 
+yellow: yaukenuwë | yaukenuwʌ 
+yesterday: piyakwa\ 
+yesterday: piyakwaʔ 
+yes: wʌʔ 
+yes: wë\ 
+you: rambò | angi	biɛ 
+you two: ëtikië 
+you two: ʌtikiʌ 
+every: iriʔ 
+ash: dasmoʔ 
+abdomen: ɸiyʌo 
+bigness: anʌyuwʌʔ 
+large: anʌyuwʌʔ 
+breasts: f3ki	ɸɪkiʔ 
+nail: sukwaimbʌ 
+talon: sukwaimbʌ 
+come from: ɸunukwawʌ 
+be dead: basʌguwʌ	sEk 
+dead: basʌguwʌ	sEk 
+fly: mapuguwʌ 
+fly v.: mapuguwʌ 
+left hand: degi	rEgi 
+right: degi	rEgi 
+1 sg.: Ety~E	ätiʌ 
+be knowledgeable: ramowʌ 
+head louse: muni 
+male: imäni 
+much: raumbwʌ 
+multiple: raumbwʌ 
+several: raumbwʌ 
+hill: fukwarE	pukwatʌ 
+name: ambu 
+title: ambu 
+nighttime: kwakutayʌ 
+adulterous: giɛsʌ	satu 
+single: giɛsʌ	satu 
+that: giɛsʌ	satu 
+the: giɛsʌ	satu 
+unprincipled: giɛsʌ	satu 
+human: imäniyʌ 
+human being: imäniyʌ 
+rainy weather: ɸi 
+hide: orow	worow	wʌrʌo 
+little: tukwʌiyowʌ 
+smallness: tukwʌiyowʌ 
+rock: wonEngrE	wunʌgʌrʌ 
+2 sg: angi	biɛ 
+tree: re 
+grind: n3robEri	näbäiʌ 
+go: pʌkabwʌʔ 
+1 pl. inc.: Et3mbE rambo 
+we: Et3mbE rambo 
+we₁: Et3mbE rambo 
+whiteness: auwuyʌ 
+who?: ʌitiyʌ 
+female: mʌngu 
+dull: yʌkuriwʌ 
+serious: yʌkuriwʌ 

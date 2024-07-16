@@ -1,0 +1,296 @@
+arm: kahit 
+arm: katak 
+arm: kesil 
+ashes: kut | kut	miup	mulup	munuk	murup 
+ashes: miup | kut	miup	mulup	munuk	murup 
+ashes: munuk | kut	miup	mulup	munuk	murup 
+ashes: φɔliŋ | kut	miup	mulup	munuk	murup 
+bark: ŋgup | kʌtʌp tut	pawap	tul	tut	ŋgup 
+bark: pawap | kʌtʌp tut	pawap	tul	tut	ŋgup 
+bark: tul | kʌtʌp tut	pawap	tul	tut	ŋgup 
+bone: hwatʌe | hwatʌe	kwalan	kwatʌe	kw~atai	kwʌtʌna 
+bone: kɔtɔl | hwatʌe	kwalan	kwatʌe	kw~atai	kwʌtʌna 
+bone: kundzal | hwatʌe	kwalan	kwatʌe	kw~atai	kwʌtʌna 
+bone: kwalan | hwatʌe	kwalan	kwatʌe	kw~atai	kwʌtʌna 
+bone: kwatʌe | hwatʌe	kwalan	kwatʌe	kw~atai	kwʌtʌna 
+breast: moma | Nw~Em	nonoŋ	ŋwam	ŋwʌmin 
+breast: ŋwam | Nw~Em	nonoŋ	ŋwam	ŋwʌmin 
+breast: nonoŋ | Nw~Em	nonoŋ	ŋwam	ŋwʌmin 
+brother: pa\a 
+brother: paiyi 
+brother: samin 
+brother: tu\u 
+burn: isi 
+burn: membeli 
+burn: se 
+dog: an | kamun	kamʌn	kiam	kʌmun 
+dog: aŋ | kamun	kamʌn	kiam	kʌmun 
+dog: kamʌn | kamun	kamʌn	kiam	kʌmun 
+dog: kamun | kamun	kamʌn	kiam	kʌmun 
+ear: mäʌk | mala	marʌkŋa	mäʌk	mʌlʌk	mʌlʌkŋin 
+ear: mala | mala	marʌkŋa	mäʌk	mʌlʌk	mʌlʌkŋin 
+ear: mʌlʌk | mala	marʌkŋa	mäʌk	mʌlʌk	mʌlʌkŋin 
+ear: mɔrɔk | mala	marʌkŋa	mäʌk	mʌlʌk	mʌlʌkŋin 
+ear: sukuna | mala	marʌkŋa	mäʌk	mʌlʌk	mʌlʌkŋin 
+eat: nʌ | na	nʌ	nʌŋgak 
+eat: na | na	nʌ	nʌŋgak 
+eat: ne | na	nʌ	nʌŋgak 
+eat: nɔ | na	nʌ	nʌŋgak 
+eye: enzʌke | dapu	dapunin	kai	ndaik	ndapu 
+eye: kai | dapu	dapunin	kai	ndaik	ndapu 
+eye: ndaik | dapu	dapunin	kai	ndaik	ndapu 
+eye: ndapu | dapu	dapunin	kai	ndaik	ndapu 
+fingernail: kʌndrew 
+fingernail: kwinai 
+fingernail: ŋgup 
+fingernail: seŋʌ 
+fingernail: tut 
+fire: isiwʌ | isiwʌ	katEp	katʌp	kʌtʌp 
+fire: katʌp | isiwʌ	katEp	katʌp	kʌtʌp 
+fire: kʌndʌp | isiwʌ	katEp	katʌp	kʌtʌp 
+fire: ndɔki | isiwʌ	katEp	katʌp	kʌtʌp 
+foot: kaipu | baroŋa	kepi	kewin	yʌlkŋʌ mbulʌ 
+foot: kepi | baroŋa	kepi	kewin	yʌlkŋʌ mbulʌ 
+foot: kewin | baroŋa	kepi	kewin	yʌlkŋʌ mbulʌ 
+foot: kʌndeli seŋi | baroŋa	kepi	kewin	yʌlkŋʌ mbulʌ 
+foot: yʌlkŋʌ mbulʌ | baroŋa	kepi	kewin	yʌlkŋʌ mbulʌ 
+full: ndok | buNE	dokŋgʌk	gwandok	ndok	tok 
+full: tok | buNE	dokŋgʌk	gwandok	ndok	tok 
+hair: nayi | dʌŋgʌmʌ	kuhut dʌŋgʌmʌ	nayi	ndəŋgem	ndəŋgəm 
+hair: ndaŋgam | dʌŋgʌmʌ	kuhut dʌŋgʌmʌ	nayi	ndəŋgem	ndəŋgəm 
+hair: ndəŋgem | dʌŋgʌmʌ	kuhut dʌŋgʌmʌ	nayi	ndəŋgem	ndəŋgəm 
+hair: ndəŋgəm | dʌŋgʌmʌ	kuhut dʌŋgʌmʌ	nayi	ndəŋgem	ndəŋgəm 
+hair: nʌmet | dʌŋgʌmʌ	kuhut dʌŋgʌmʌ	nayi	ndəŋgem	ndəŋgəm 
+head: kayʌ | ?ŋgwapʌk	kuhutnin	kusit 
+head: kuhit | ?ŋgwapʌk	kuhutnin	kusit 
+head: kusit | ?ŋgwapʌk	kuhutnin	kusit 
+head: ŋgwapʌk | ?ŋgwapʌk	kuhutnin	kusit 
+he/she: u 
+I: nʌ | nE	nEtE	nʌ	nʌk 
+I: nʌk | nE	nEtE	nʌ	nʌk 
+knee: mun | ketapun	mun	munin	topʌk-	zopi 
+knee: ŋkuale | ketapun	mun	munin	topʌk-	zopi 
+knee: sopi | ketapun	mun	munin	topʌk-	zopi 
+knee: topʌk- | ketapun	mun	munin	topʌk-	zopi 
+leaf: kwatʌn | bEbEm	kwatʌn	kʌtʌp tatʌk	puɬuk	tatEkNi	tatɔk	tatʌk 
+leaf: puñuk | bEbEm	kwatʌn	kʌtʌp tatʌk	puɬuk	tatEkNi	tatɔk	tatʌk 
+leaf: tatɔk | bEbEm	kwatʌn	kʌtʌp tatʌk	puɬuk	tatEkNi	tatɔk	tatʌk 
+leaf: tsen | bEbEm	kwatʌn	kʌtʌp tatʌk	puɬuk	tatEkNi	tatɔk	tatʌk 
+leg: kaipu 
+leg: kepi 
+leg: kewin 
+leg: kʌndeli seŋi 
+leg: yʌlkŋʌ mbulʌ 
+long: biakŋe | belakŋʌ	biakŋe	mʌmʌrʌ	ŋgasamyʌ 
+long: kʌloŋiwʌ | belakŋʌ	biakŋe	mʌmʌrʌ	ŋgasamyʌ 
+long: ŋgasamyʌ | belakŋʌ	biakŋe	mʌmʌrʌ	ŋgasamyʌ 
+louse: amun | tEmun 
+louse: imʌn | tEmun 
+louse: tʌmun | tEmun 
+louse: tɔmun | tEmun 
+moon: yasʌp | yekʌp 
+moon: yekɔp | yekʌp 
+moon: yekʌp 
+mother: meŋ 
+mother: miŋ 
+mother: tenyʌ 
+mouth: maiy | mapmin	nzolik	ŋgena	ŋgene 
+mouth: mɛnyi | mapmin	nzolik	ŋgena	ŋgene 
+mouth: ŋgena | mapmin	nzolik	ŋgena	ŋgene 
+mouth: ŋgene | mapmin	nzolik	ŋgena	ŋgene 
+mouth: nzolik | mapmin	nzolik	ŋgena	ŋgene 
+name: manʌ | ?ŋgen	manʌ	uman 
+name: ŋgen | ?ŋgen	manʌ	uman 
+name: uman | ?ŋgen	manʌ	uman 
+name: wop | ?ŋgen	manʌ	uman 
+neck: katʌk | gurʌkŋa	tawʌk	tek	tʌβʌkŋin	ŋguyʌk 
+neck: ŋgulɔk | gurʌkŋa	tawʌk	tek	tʌβʌkŋin	ŋguyʌk 
+neck: ŋguyʌk | gurʌkŋa	tawʌk	tek	tʌβʌkŋin	ŋguyʌk 
+neck: tawʌk | gurʌkŋa	tawʌk	tek	tʌβʌkŋin	ŋguyʌk 
+neck: tek | gurʌkŋa	tawʌk	tek	tʌβʌkŋin	ŋguyʌk 
+new: kaluk | daNem	kaluk	karakŋʌ	kayuk	kwʌlak 
+new: kondake | daNem	kaluk	karakŋʌ	kayuk	kwʌlak 
+new: kwʌlak | daNem	kaluk	karakŋʌ	kayuk	kwʌlak 
+rain: hopɔ | mbukʌ	pimasʌ	pʌwʌn	sopʌ 
+rain: iwʌn | mbukʌ	pimasʌ	pʌwʌn	sopʌ 
+rain: mbukʌ | mbukʌ	pimasʌ	pʌwʌn	sopʌ 
+rain: pimasʌ | mbukʌ	pimasʌ	pʌwʌn	sopʌ 
+rain: sopʌ | mbukʌ	pimasʌ	pʌwʌn	sopʌ 
+road: kahit | kepi 
+road: kasit | kepi 
+road: kepi 
+road: kewa | kepi 
+road: kʌndet | kepi 
+sand: atɔtɔk | atʌtʌk	haru	hupsain	mumba paɬak	saisal 
+sand: atʌtʌk | atʌtʌk	haru	hupsain	mumba paɬak	saisal 
+sand: mumba pañak | atʌtʌk	haru	hupsain	mumba paɬak	saisal 
+sand: saisal | atʌtʌk	haru	hupsain	mumba paɬak	saisal 
+sand: salu | atʌtʌk	haru	hupsain	mumba paɬak	saisal 
+say: yʌ | wam yʌŋgʌk	ya	yʌ 
+say: ya | wam yʌŋgʌk	ya	yʌ 
+say: yi | wam yʌŋgʌk	ya	yʌ 
+sister: hɔmi 
+sister: sʌmi 
+sister: wanat 
+sister: wanɔr 
+sister: yʌpe 
+skin: ŋgup | gupma	pawap	tul	tutnin	ŋgup 
+skin: pawap | gupma	pawap	tul	tutnin	ŋgup 
+skin: tul | gupma	pawap	tul	tutnin	ŋgup 
+sleep: dopik | dopik	dʌpune βekŋgʌk	pak	pe 
+sleep: pa | dopik	dʌpune βekŋgʌk	pak	pe 
+sleep: pak | dopik	dʌpune βekŋgʌk	pak	pe 
+sleep: pe | dopik	dʌpune βekŋgʌk	pak	pe 
+sleep: pek | dopik	dʌpune βekŋgʌk	pak	pe 
+smoke: kupʌn | gupʌ	gupʌrkŋʌ	kupʌn	kwanakat	ngupʌ	nʌmʌt 
+smoke: kwanakat | gupʌ	gupʌrkŋʌ	kupʌn	kwanakat	ngupʌ	nʌmʌt 
+smoke: mupe | gupʌ	gupʌrkŋʌ	kupʌn	kwanakat	ngupʌ	nʌmʌt 
+smoke: ŋguha | gupʌ	gupʌrkŋʌ	kupʌn	kwanakat	ngupʌ	nʌmʌt 
+smoke: ngupʌ | gupʌ	gupʌrkŋʌ	kupʌn	kwanakat	ngupʌ	nʌmʌt 
+star: kuminam | kunun	takwa	tawʌm	tʌwʌm	yɛkʌp ndak 
+star: takwa | kunun	takwa	tawʌm	tʌwʌm	yɛkʌp ndak 
+star: tawʌm | kunun	takwa	tawʌm	tʌwʌm	yɛkʌp ndak 
+star: yɛkʌp ndak | kunun	takwa	tawʌm	tʌwʌm	yɛkʌp ndak 
+straight: dudumnə 
+sun: kɔmi | bamin	gunsit	ŋgunzit 
+sun: ŋgunzit | bamin	gunsit	ŋgunzit 
+sun: ŋgusit | bamin	gunsit	ŋgunzit 
+thou: dzi | gEtE	gʌk	ŋgʌ 
+thou: gi | gEtE	gʌk	ŋgʌ 
+thou: ŋgʌ | gEtE	gʌk	ŋgʌ 
+thou: ŋgʌkgʌk | gEtE	gʌk	ŋgʌ 
+thou: si | gEtE	gʌk	ŋgʌ 
+tie: tokma 
+tie: wama 
+tongue: mebet- | memsae	mʌmbilʌ	nʌmbina	yɛmbina 
+tongue: memsae | memsae	mʌmbilʌ	nʌmbina	yɛmbina 
+tongue: mʌmbilʌ | memsae	mʌmbilʌ	nʌmbina	yɛmbina 
+tongue: yɛmbi | memsae	mʌmbilʌ	nʌmbina	yɛmbina 
+tongue: yɛmbina | memsae	mʌmbilʌ	nʌmbina	yɛmbina 
+tooth: bzolik | ?duʼun	?mipm	bzolik	gen	mapma	mapn~E 
+tooth: du\un | ?duʼun	?mipm	bzolik	gen	mapma	mapn~E 
+tooth: maha | ?duʼun	?mipm	bzolik	gen	mapma	mapn~E 
+tooth: mendaun | ?duʼun	?mipm	bzolik	gen	mapma	mapn~E 
+tooth: mipm | ?duʼun	?mipm	bzolik	gen	mapma	mapn~E 
+tree: katʌp | katEp	katEpdEkE 
+tree: kolawa | katEp	katEpdEkE 
+warm: kadapgʌmʌŋ | komitak	opak 
+warm: komitak | komitak	opak 
+warm: opak | komitak	opak 
+water: iyʌpet | yaNg~E	yaŋgʌ 
+water: yaŋga | yaNg~E	yaŋgʌ 
+we: ni | ninu 
+wind: got | amup	got	palak	ŋgot 
+wind: mʌnip | amup	got	palak	ŋgot 
+wind: ŋgot | amup	got	palak	ŋgot 
+wind: palak | amup	got	palak	ŋgot 
+wing: piʌ 
+wing: pil 
+all: ŋwembam 
+every: ŋwembam 
+ash: kut	miup	mulup	munuk	murup 
+abdomen: muhumpin 
+belly: muhumpin 
+big: burʌmbamgwen 
+bigness: burʌmbamgwen 
+large: burʌmbamgwen 
+bird: kwʌwit 
+bite: ihik	ihiŋgak 
+black: sikʌrʌ 
+blood: dak	yʌŋʌn 
+breasts: Nw~Em	nonoŋ	ŋwam	ŋwʌmin 
+claw: kwinarʌ	kwinatnʌ 
+nail: kwinarʌ	kwinatnʌ 
+talon: kwinarʌ	kwinatnʌ 
+cloud: gʌwu	puwan 
+cold: amup	got 
+come: apu	apuŋgak 
+come from: apu	apuŋgak 
+be dead: gwauŋwʌk	kuNw~E	yapta 
+dead: gwauŋwʌk	kuNw~E	yapta 
+die: gwauŋwʌk	kuNw~E	yapta 
+drink: tENo	tʌŋokŋgak 
+dry: ikʌlʌ 
+egg: muhuβʌ 
+feather: dʌŋgʌm	kwʌwit dʌŋgʌm 
+fish: bʌkgʌkʌ 
+fly: babmʌke uŋgwak 
+fly v.: babmʌke uŋgwak 
+give: namiŋgak 
+good: gwʌlam	take 
+green: gweŋgweŋʌ 
+hand: bidoNE	katakŋa 
+left hand: bidoNE	katakŋa 
+right: bidoNE	katakŋa 
+hear: gwanatʌɣak	nata 
+heart: mupmutnin	nʌŋoŋa 
+horn: hakutnʌ	kuhuyam 
+1 sg.: nE	nEtE	nʌ	nʌk 
+kill: taŋuwʌ kuŋwʌk 
+be knowledgeable: gwanatʌk 
+know: gwanatʌk 
+liver: bʌnipa 
+head louse: tEmun 
+male: wʌmbi 
+man: amin 
+many: ŋʌksʌŋ 
+much: ŋʌksʌŋ 
+multiple: ŋʌksʌŋ 
+several: ŋʌksʌŋ 
+flesh: top 
+meat: top 
+hill: tʌwan 
+mountain: tʌwan 
+title: ?ŋgen	manʌ	uman 
+night: sikʌrʌne	taɣorʌne 
+nighttime: sikʌrʌne	taɣorʌne 
+nose: inam	nomin 
+not: -du	du- 
+adulterous: du	gu	gwendukan	tapatu	tʌpʌtukʌn 
+one: du	gu	gwendukan	tapatu	tʌpʌtukʌn 
+single: du	gu	gwendukan	tapatu	tʌpʌtukʌn 
+that: akʌn	unin 
+the: du	gu	gwendukan	tapatu	tʌpʌtukʌn 
+unprincipled: du	gu	gwendukan	tapatu	tʌpʌtukʌn 
+human: amin 
+human being: amin 
+person: amin 
+rainy weather: mbukʌ	pimasʌ	pʌwʌn	sopʌ 
+red: gʌmʌnʌ	mʌreŋʌ 
+path: kepi 
+route: kepi 
+root: kʌtʌp murʌk	murʌk 
+round: dumbʌkŋʌ	kendoŋ pʌhʌk 
+see: ka	kʌk	kʌɣʌk 
+seed: kʌtʌp tapun	tapun 
+sit: piyʌβik yʌɣak 
+hide: gupma	pawap	tul	tutnin	ŋgup 
+little: matekŋʌ 
+small: matekŋʌ 
+smallness: matekŋʌ 
+rock: hup 
+stone: hup 
+swim: amʌlaŋ kuŋgwak	yaŋgʌne weheŋgak 
+tail: pʌmbanʌ	wʌŋʌ 
+this: akʌn	arʌpʌn 
+2 sg: gEtE	gʌk	ŋgʌ 
+you: gEtE	gʌk	ŋgʌ 
+grind: EyE	gweyarʌ	tapaya	tʌpʌyalʌ 
+two: EyE	gweyarʌ	tapaya	tʌpʌyalʌ 
+go: gwaŋgwak	kuŋgwak 
+walk: gwaŋgwak	kuŋgwak 
+hot: komitak	opak 
+1 pl. inc.: ninu 
+we₁: ninu 
+what: ina 
+white: kwak 
+whiteness: kwak 
+who: nimin 
+who?: nimin 
+female: ambɛm	mʌŋʌrʌ 
+woman: ambɛm	mʌŋʌrʌ 
+yellow: saŋwamʌ 
+dull: mebʌ hikŋʌ	mewʌ 
+heavy: mebʌ hikŋʌ	mewʌ 
+serious: mebʌ hikŋʌ	mewʌ 
+snake: gomok 

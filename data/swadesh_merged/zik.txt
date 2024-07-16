@@ -1,0 +1,438 @@
+all: utumatu bawgu 
+arm: bimbi 
+arm: gu 
+arm: nggu 
+arm: ŋgu 
+arrow: ŋgasu 
+arrow: sɑŋgava 
+arrow: tsɑŋgava 
+ashes: fu 
+ashes: pu 
+at: (fa) mumeta 
+back: kobe 
+back: qɔbɛ 
+back: zita 
+bad: babaka 
+bad: baba-ka 
+bad: babaka/babake/babaku 
+bark: ŋgusumɪ 
+bark: nggusumi 
+bark: tae nggusumi 
+bark: tɑe ŋgusumi 
+belly: gusʉ 
+belly: gusu 
+belly: gusü 
+big: kapaka 
+big: ndewi 
+big: ndɛwi 
+bird: kowagiemu 
+bird: kɔwagiɛmu 
+bird: yovoyovo 
+bird: yɔvɔyɔvɔ 
+black: poynu 
+black: pɔynu 
+blood: kowku 
+blood: qowku 
+blood: qɔwku 
+bone: be:ki 
+bone: bɛːki 
+boy: ŋgɔi-ɛme 
+boy: nggoi-eme/nggoi 
+boy: ŋgɔy-ɛme 
+boy: nggoy-eme/nggoy 
+branch: tete:nggi 
+branch: tɛːtɛːŋgi 
+branch: waɣe 
+branch: waghe 
+breast: savi 
+breast: tete 
+brother: ezae- 
+brother: ezae/ezaeza 
+brother: ezay/ezay-pikya 
+brother: ezɑy- 
+brother: ombe.eki 
+brother: ɔmbeɛki 
+brother: ombieki 
+brother: ɔmbiɛki 
+calf: bam 
+calf: kambagi 
+calf: kɑmbagi 
+calf: kʰɑmbagi 
+calf: labuki 
+calf: labukyeme 
+calf: labuky-eme 
+cassowary: kau 
+chest: savɪ 
+chest: savi 
+cloud: kaya saka 
+cloud: qɑya saka 
+cold: bumbu tanda 
+cold: bumbu tɑnda 
+cold: pumbu tanda 
+cold: pumbu tɑnda 
+crocodile: lawazu 
+dog: gaåɔ 
+dog: gagho 
+dog: n\gaho 
+dog: n\gaxo 
+dog: ŋgaåɔ 
+dog: nggagho 
+dry: pazʉ 
+dry: pazi 
+dry: pazü 
+dry: pɑzi 
+ear: gia 
+ear: hia 
+ear: kumbit 
+earth: ge 
+earth: ghogho 
+earth: mange 
+earth: manggey 
+earth: maŋgey 
+earth: mangi 
+earth: mɑŋgey 
+ear: zia 
+eat: zia 
+egg: bamoko 
+egg: bamɔqɔ 
+elbow: kafoi-kafoi 
+elbow: kafoy-kafoy 
+elbow: kɑfɔykɑfɔy 
+elbow: qɑfɔiqɑfɔi 
+emu: kɑu 
+emu: qɑu 
+excrement: nagi 
+eye: boe 
+eye: bɔe 
+eye: boi 
+eye: boy moko 
+eye: bɔy moqɔ 
+face: danga 
+face: kisi (dango) 
+fall: lava 
+fall: rava 
+far: avunava 
+father: nggayla 
+father: ŋgayla 
+father: nggayra 
+father: ŋgayra 
+fat (n.): enaɣa 
+fat (n.): enagha 
+fear: moy 
+fear: mɔy 
+few: koakoape 
+few: kɔakɔape 
+finger: gevea 
+fingernail: singgi 
+fingernail: siŋgi 
+fingernail: sɪŋgɪ 
+fire: tae 
+fish: dzɔŋga-ɛmɛ 
+fish: dzongga-eme/dzongga 
+fish: zɔŋga-ɛmɛ 
+fish: zongga-eme/zongga 
+fly (n.): ŋgambo-ɛme 
+fly (n.): nggambo-eme/nggambo 
+fog: giefi 
+fog: giɛfi 
+fog: kxeyfa kxeyfa 
+foot: zenda 
+foot: zɛnda 
+foot: zinda 
+forehead: langga 
+forehead: lɑŋga 
+forest: losoko 
+fruit: tae moko 
+fruit: tae mɔqɔ 
+fruit: tay moko 
+fruit: tɑy mɔqɔ 
+girl: atəy-ɛmɔ kase 
+girl: atïy-emo kase/ato kayse 
+girl: atɔ-ɛmo kase 
+girl: ato-emo kase/ato kayse 
+give: tawa 
+good: mbamba-yme 
+good: mbɑmbɑyme 
+good: mboma 
+good: mbɔma 
+grass: seseka 
+green: mboko 
+green: mbɔqɔ 
+hair: anu 
+hair: gi 
+hair: gigifi 
+hair: kigifi 
+hand: dzenda moko 
+hand: dzɛnda mɔqɔ 
+hand: jenda 
+hand: zenda 
+hand: zɛnda 
+head: gi 
+heart: bune 
+heart: bunɛ 
+heavy: zinimu 
+he/she: ɛgiä 
+he/she: egiä 
+he/she: ɛɣiɛmba 
+he/she: ezie 
+he/she: ɛziɛ 
+he/she: waåa 
+he/she: wagha 
+house: fa 
+house: gia fa 
+husband: anggane-eme/anggana 
+husband: anggan-eme/anggana 
+husband: ɑŋgan-ɛːme 
+husband: ɑŋgan-ɛmɛ 
+in: mokote 
+I: noko 
+I: nomba 
+I: nɔmba 
+I: nɔqɔ 
+jaw: tamiki 
+jaw: tɑmiki 
+knee: gamigi 
+knee: gɑmigi 
+knee: kakusi 
+knee: lava 
+knee: lavava 
+lake: kibana 
+leaf: esoko 
+leaf: esɔqɔ 
+leg: kambag 
+leg: kambagi 
+lip: ta:gu 
+lip: taːgu 
+long: ovayne/ovaynu 
+long: ovɑy-nu 
+long: sakinu kapaka 
+louse: numunggi 
+louse: numuŋgi 
+man: anggane-eme/anggana 
+man: anggan-eme/anggana 
+man: law-ɛme 
+man: law-eme/law 
+man: ɑŋgan-ɛːme 
+man: ɑŋgan-ɛmɛ 
+many: sanggazu 
+many: sɑŋgazu 
+meat: savaka 
+moon: kaya pave 
+moon: kɑya pave 
+moon: kɑya pavɛ 
+morning: åasuåasunu 
+morning: pɔytapɔytanu 
+mosquito: nanggayti-eme/nanggayti 
+mosquito: nɑŋgɑyti-ɛme 
+mother: evupuka 
+mother: mo 
+mother: mɔ 
+mother: nea 
+mother: nea/evupuka 
+mountain: manggey mokota 
+mountain: mɑŋgey mɔkɔta 
+mountain: mɑŋgey mɔqɔta 
+mouth: tagu 
+mouth: tagu mokote 
+mouth: tagu mɔqɔte 
+name: iza 
+nape: koneki 
+nape: monggo 
+nape: qɔnɛki 
+navel: dukumi 
+navel: iukumi 
+navel: lukumi 
+navel: vosa 
+navel: vɔsa 
+near: avuka 
+neck: koneki 
+neck: monggo 
+neck: mɔŋgɔ 
+neck: qɔnɛki 
+new: nggayme.eki 
+new: ŋgɑymeɛki 
+night: kagi 
+night: poyta 
+night: pɔyta 
+nose: kisi 
+nose: kopakawvae 
+nose: qɔpɑqɑwvɑe 
+not: nava 
+not: nayta 
+not: nɑyta 
+old: abe.eki 
+old: abeɛki 
+old: law-eme kapaka 
+old: law-eme kapaka/law mbaiki 
+old: law-ɛme qapaqa 
+old: law mbayki 
+old: ŋgama puka 
+old: nggama puka/nggai mbayki 
+old: ŋgay puka 
+old: nggay puka/nggai pakay 
+one: koapoma 
+one: kɔɑpɔma 
+one: zenta 
+person: ŋgae 
+rain: afuafu 
+red: kakeinu 
+red: kakëynu 
+red: kɑkeinu 
+red: kɑkʌynu 
+ripe: katena 
+ripe: kʰatɛna 
+ripe: kateno 
+ripe: katɛnɔ 
+river: åae 
+river: ghae 
+road: ɔvɑya 
+root: kikimi 
+root: limi tunda 
+root: sinepi 
+root: sinɛpi 
+rope: nggavama 
+rope: ŋgavama 
+rope: nggavami 
+rope: ŋgavami 
+rope: zave 
+rotten: gaguvu 
+sand: apundeighi 
+sand: apundɛiɣi 
+sand: apundeizi 
+sand: apundɛizi 
+say: kay gi- 
+say: qɑy gi- 
+see: teva 
+see: tɛva 
+short: tɔkɔnu 
+short: tɔkɔnu kasɪ 
+short: tokonu/tukunu 
+shoulder: kambafo 
+shoulder: kambafu 
+shoulder: kɑmbafo 
+shoulder: qɑmbafu 
+sister: ezae 
+sister: ezɑy 
+sister: ɔmbeɛku 
+sister: ɔmbiɛku 
+sit: bevi 
+sit: bɛvi 
+skin: gowonda 
+skin: nggusumi 
+skin: ŋgusumi 
+skin: sisik 
+small: kakabieme 
+small: kakabiɛme 
+small: kase 
+smoke: kayfa 
+smoke: keyfa 
+smoke: qeyfa 
+smoke: qɑyfa 
+snake: sazia 
+spit: kefengge 
+spit: kefɛŋge 
+stand: tene 
+stand: tɛne 
+stand: teni 
+stand: tɛni 
+star: diki 
+star: dikï 
+star: duku 
+stone: e\e 
+stone: gabaso 
+stone: keɪ 
+stone: kee 
+stone: kei 
+straight: tiovo 
+straight: tiovɔ 
+sun: kaia 
+sun: kawakum 
+sun: kaya 
+sun: kɑya 
+sun: kɑye 
+tail: sivuse 
+tail: zivusi 
+take: yuba 
+that: maitagu 
+that: matagu 
+that: ndagu 
+there: maitagu 
+there: matagu 
+they: taåa 
+they: yagha 
+they: yagha-zamba 
+they: yɑɣɑzɑmba 
+thigh: bofo 
+thigh: bɔfɔ 
+thigh: bufu 
+thigh: kamba 
+thigh: wufu 
+this: magu 
+this: mɛgu 
+this: megu/moa:gu/magu 
+this: mɔaːgu 
+thou: åɔmba 
+thou: åɔqɔ 
+thou: ghoko 
+thou: ghomba 
+thou: omba 
+thou: ɔmba 
+thou: ɔqɔ 
+thou: zɔmba 
+thou: zɔqɔ 
+throat: li: 
+throat: liː 
+throw: waɣi 
+thunder: nda:nd 
+thunder: ndaːnd 
+tomorrow: kawsa 
+tomorrow: qɑwsa 
+tongue: naseme 
+tongue: nasɛme 
+tongue: neseme 
+tongue: nɛsɛme 
+tooth: kama 
+tooth: kʰama 
+tooth: se 
+tree: tae 
+two: nimapa 
+two: singi 
+walk: layu 
+warm: tetepe 
+warm: tɛtɛpe 
+warm: totosi 
+warm: ṭɔṭɔsi 
+water: adke 
+water: neya 
+water: nia 
+water: niu 
+we: niki 
+wet: langgosi 
+wet: lɑŋgɔsi 
+we: waghamba 
+we: waɣɑmba 
+we: wɑɣɑmba 
+what: eta 
+what: yaka 
+white: paåanu 
+white: paghanu 
+white: papagha 
+who: etanggayna 
+who: etaŋgayna 
+who: yaxa zoqam 
+wife: neas 
+wind: buamba 
+wind: buɑmba 
+wind: kamui 
+wing: kavu 
+wing: qavu 
+wing: taf 
+woman: atɔ-ɛmɔ 
+woman: atɔ-yɛmɔ 
+woman: ato-(y)emo/ato 
+woman: sevam/sakais 
+yellow: kagius 
+yellow: mboko 
+yellow: mbɔqɔ 
+you: zoko 
+you: zomba 

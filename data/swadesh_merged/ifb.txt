@@ -1,0 +1,135 @@
+all: qamin 
+every: qamin 
+ash: dapul 
+ashes: dapul 
+abdomen: putu 
+belly: putu 
+big: qongol 
+bigness: qongol 
+large: qongol 
+bird: hamu:ti 
+bite: qalat 
+black: mangmangi:tit 
+blood: da:la	dala 
+bone: toNal	tongal 
+breast: hu:hu	huhu	palagpag 
+breasts: hu:hu	huhu	palagpag 
+burn: gohob 
+burn tr.: gohob 
+cloud: bu:unut 
+cold: qayhugi 
+be dead: natoy 
+dead: natoy 
+die: natoy 
+dog: ka:hu	kahu 
+drink: inum	qinum 
+dry: hapuy	mimigi (migi) 
+ear: iNa	qi:nga 
+eat: qan 
+egg: qitlug 
+eye: mata 
+feather: dula:dul 
+fire: apuy	qapuy 
+fly: ta:yap 
+fly v.: ta:yap 
+full: napnu	punu 
+good: maphod (pohod) 
+hair: bu:uq 
+hand: Namay	ngamay 
+left hand: Namay	ngamay 
+right: Namay	ngamay 
+head: qu:lu 
+hear: doNol	dongol 
+1 sg.: ha77in 
+I: ha77in 
+kill: patoy 
+knee: lulug 
+be knowledgeable: qi:la 
+know: qi:la 
+leaf: paya7	payaq 
+liver: oltay	qoltay 
+long: qaduqqoy 
+head louse: qu:tu	utu 
+louse: qu:tu	utu 
+male: lala:qi 
+man: ta:gu	tagu 
+moon: bu:lan 
+hill: duntug 
+mountain: duntug 
+mouth: ti:mid 
+name: Nadan	nga:dan 
+title: Nadan	nga:dan 
+neck: bagang 
+new: pa77amma	paqqamma 
+night: mahdom 
+nighttime: mahdom 
+nose: oloN	qolong 
+adulterous: goha	oha	qoha 
+one: goha	oha	qoha 
+single: goha	oha	qoha 
+that: goha	oha	qoha 
+the: goha	oha	qoha 
+unprincipled: goha	oha	qoha 
+human: ta:gu	tagu 
+human being: ta:gu	tagu 
+person: ta:gu	tagu 
+rain: qudan 
+rainy weather: qudan 
+red: mumbobo:lah 
+path: wanti 
+road: wanti 
+route: wanti 
+root: lamut 
+sand: panag 
+say: qalyon 
+see: tigon 
+sit: qumbun (qubun) 
+hide: qupqup	up7up 
+skin: qupqup	up7up 
+sleep: moloq 
+little: qi:tang 
+small: qi:tang 
+smallness: qi:tang 
+smoke: qahuq 
+star: bittu:an	bittuan 
+rock: batu 
+stone: batu 
+swim: huma:lug 
+tail: qiwit 
+2 sg: he77a 
+thou: he77a 
+you: he77a 
+tongue: di:la	dila 
+tooth: baba 
+tree: ayiw 
+grind: duwa 
+two: duwa 
+go: duma:lan 
+walk: duma:lan 
+hot: luma:hu 
+warm: luma:hu 
+water: danum 
+1 pl. inc.: ditu7u 
+we: ditu7u 
+we₁: ditu7u 
+white: mumpa:haq 
+whiteness: mumpa:haq 
+female: baba:i 
+woman: baba:i 
+yellow: muntiti:bɨ 
+distant: qadagwi (dagwi) 
+far: qadagwi (dagwi) 
+dull: madamot 
+heavy: madamot 
+serious: madamot 
+close: neheggon 
+near: neheggon 
+ner: neheggon 
+salt: qahin 
+short: hoqdod 
+snake: qu:log 
+thin: maya:pit 
+wind: tuyup 
+earthworm: qolang 
+worm: qolang 
+year: tawon 

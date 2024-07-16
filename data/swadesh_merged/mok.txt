@@ -1,0 +1,285 @@
+all: mawr | mawr	usin 
+arm: korau 
+arm: korox 
+ashes: timbwe | timbo	timbwe	timbwo 
+ashes: timbwo | timbo	timbwe	timbwo 
+back: reen 
+bad: kotof 
+bad: saf 
+bark: kwipar | kwipar	par 
+belly: gerer | gerer	kerer 
+belly: kerer | gerer	kerer 
+big: anep | anep	kofe	yumto 
+big: anep/kofe | anep	kofe	yumto 
+big: yumto | anep	kofe	yumto 
+big: zumbenzumb | anep	kofe	yumto 
+bird: udjif | udǯif	ujiɸ	uɟif 
+bird: uɟif | udǯif	ujiɸ	uɟif 
+bite: imbr 
+bitter: saf 
+black: singgu | siŋgu	siŋguen 
+black: siŋgu | siŋgu	siŋguen 
+blood: ŋgorom | Ngorom	ŋgorom	ŋgoròm 
+blood: nggoròm | Ngorom	ŋgorom	ŋgoròm 
+bone: nggwar | Ngwar	ŋgwar 
+bone: ŋgwar | Ngwar	ŋgwar 
+boy: noanám 
+branch: kwaragh 
+breast: yembò | mam	yembo	yembò 
+burn: pu 
+calf: bearo 
+calf: mpol-mpol 
+cheek: samà 
+chest: kule 
+chest: kura 
+child: meipur 
+chin: soar 
+cold: pwatak | pwatak	pwatar 
+come: umon 
+crocodile: ndelhube 
+dark: urindzji 
+daughter: yayu 
+day: ad 
+day: raogh 
+die: yaba-nggu | yaba-ŋgu	yabanggu 
+dig: tembu 
+dog: koro | koro	korro 
+dog: kor(r)o | koro	korro 
+drink: kafra 
+dry: saka | kapalet	saka 
+ear: meregh | meregh	merew	mereɣ	murow3	murowə 
+ear: murowë | meregh	merew	mereɣ	murow3	murowə 
+earth: keer | keer	ruwe 
+earth: ruwe | keer	ruwe 
+eat: kef 
+egg: vi | eɸi	vi 
+elbow: mewer 
+eye: ayigh | ayiw	ayix	ayiɣ	kindiput 
+eye: ayix | ayiw	ayix	ayiɣ	kindiput 
+eye: kind-iput | ayiw	ayix	ayiɣ	kindiput 
+face: kon 
+fall: sron 
+far: timo 
+father: pari 
+fat (n.): kober 
+fingernail: titn 
+finger: paran 
+finger: titin 
+fire: sir 
+fish: awe 
+flower: moronggrab 
+fly (n.): urimbar 
+fly (v.): mer 
+foot: nggwar | tegù	ŋgwar 
+foot: tegù | tegù	ŋgwar 
+foot: togu | tegù	ŋgwar 
+forehead: tur 
+forest: merer 
+four: ndenadu 
+fruit: yewì 
+give: ndzjim | ndzǯim	nɟim 
+give: nɟim | ndzǯim	nɟim 
+good: mein | mein	wongoɸ 
+guts: erà 
+guts: pwerè 
+hair: pu | pu	puu 
+hand: korogh | korogh	koroɣ 
+head: merao | merao	morow 
+head: mu | merao	morow 
+hear: nur 
+heart: won 
+heavy: rem 
+heel: tepod 
+here: tanamba 
+he/she: nggafi 
+hit: kui 
+hit: term ≈ k.s.m. (?) 
+house: soùr 
+husband: rimen 
+I: na | na	nega	noa	nèga 
+I: nèga | na	nega	noa	nèga 
+kill: kwei-term 
+knee: réèrwo | rerwo	réèrwo 
+know: anep | anep	raron-ŋgu 
+know: raron-nggu | anep	raron-ŋgu 
+leaf: yarwo | yarwo	yorwo 
+leg: tegu 
+leg: tombumeyi 
+lightning: peenòng 
+live: kayri-nggu 
+liver: mbur 
+long: kiriwèn | kiriwèn	kriwen 
+louse: nemengk | nemeNk 
+louse: nemeŋk | nemeNk 
+man: yeghri | puruam	puruàm	purɸam 
+man: yexri | puruam	puruàm	purɸam 
+many: ociftere | očiftere	usin 
+many: usin | očiftere	usin 
+meat: mei 
+moon: mbare 
+morning: yerpaengk 
+mother: mam 
+mountain: kolutprè | kolutpre	kolutprè 
+mouth: tening | taraw	teniŋ	teroɣ 
+mouth: terogh | taraw	teniŋ	teroɣ 
+name: negh | naw	nex	neɣ 
+name: nex | naw	nex	neɣ 
+nape: timuk 
+navel: dekum 
+near: efreu | aɸraw	efreu 
+neck: wondor 
+new: nomon 
+night: mi | mi	peNk	peeŋk	piaŋ 
+night: peeŋk | mi	peNk	peeŋk	piaŋ 
+night: ruoko | mi	peNk	peeŋk	piaŋ 
+nose: kon 
+old: tamon 
+old: yurapur 
+one: sekodu | sekodu	sokodu	sukodu	sèkudu 
+one: sukodu | sekodu	sokodu	sukodu	sèkudu 
+person: puruàm | puruam	puruàm	purɸam 
+rain: yavà (?yarà) | yavà	yaɸa 
+rat: tuben 
+rat: woro 
+red: pra | pra	prahwon 
+ripe: tambayan 
+river: (e)rur 
+root: nggon | itit	ŋgon 
+rope: yer 
+sand: sa | sa	sia 
+say: fi 
+see: if 
+short: soòro | soron	soː̀ro 
+shoulder: rudj 
+sing: mbojo-jojo 
+sister: muen 
+sister: nin 
+sit: mi | mi	öme 
+sit: öme | mi	öme 
+skin: par 
+sky: kum 
+sleep: kufu 
+small: mendzjun | mendzǯun	moncun 
+smell: megh-uri 
+smoke: titar 
+snake: kaf | kaf	kaɸ	ursin 
+son: awòn 
+spit: kosè 
+stand: inonngo 
+stand: nem 
+star: kerdji | kerdyi	kerdǯi	kerji 
+stone: mere | marah	mere	nere 
+stone: nere | marah	mere	nere 
+sun: kum 
+sweet: ndzjom 
+swim: kwem 
+tail: bomok | bomok	fieru	ŋgui	ŋguì	βeru 
+tail: fieru | bomok	fieru	ŋgui	ŋguì	βeru 
+tail: ŋgui | bomok	fieru	ŋgui	ŋguì	βeru 
+tail: ngguì | bomok	fieru	ŋgui	ŋguì	βeru 
+take: abon nggu (?) 
+take: werm 
+they: nggamde 
+thick: zumbe-nzumb 
+thigh: bagà 
+thigh: beghè 
+think: roan-mi 
+thin: ndaghar | ndaɣar	pal-pal 
+thin: pal-pal | ndaɣar	pal-pal 
+thorn: ban (?) 
+thou: ka | ka	kie 
+thou: kie | ka	kie 
+three: penare 
+three: pener 
+throat: aimbangh 
+throw: ndengg 
+thunder: ruru 
+tie: purer 
+tomorrow: pamnggu 
+tongue: mberengke | mberengke	mbereŋke	mpreŋ	mrengh	mreŋɣ 
+tongue: mrengh | mberengke	mbereŋke	mpreŋ	mrengh	mreŋɣ 
+tooth: soraw | soraw	taraw	terox	teroɣ 
+tooth: terogh | soraw	taraw	terox	teroɣ 
+tooth: terox | soraw	taraw	terox	teroɣ 
+tree: kwi | kw~i 
+two: yenadu | jènadu	yenadu 
+vagina: tor 
+warm: mbi-mbi 
+wash: yerwu 
+water: dekà | daka	deka	deke	dekà 
+water: deke | daka	deka	deke	dekà 
+weep: namanggén 
+weep: namasiro 
+we: nie 
+we: niè | nie 
+wet: debedub 
+what: aimbèni | aimbèni	imbeni 
+white: kwodje | gweje	kwodǯe 
+who: aina | aina	ina 
+wife: nuron 
+wife: ramon 
+wind: ofdok | ofdok	oɸdok 
+wing: tomof 
+woman: ramon 
+wood: kerew 
+wood: kwi 
+yesterday: vis 
+you: kiè | ka	kie 
+every: mawr	usin 
+ash: timbo	timbwe	timbwo 
+abdomen: gerer	kerer 
+bigness: anep	kofe	yumto 
+large: anep	kofe	yumto 
+breasts: mam	yembo	yembò 
+cloud: omom 
+come from: umon 
+be dead: yaba-ŋgu	yabanggu 
+dead: yaba-ŋgu	yabanggu 
+ground: keer	ruwe 
+land: keer	ruwe 
+soil: keer	ruwe 
+feather: ujiɸ puu 
+fly: mer 
+fly v.: mer 
+full: taraw 
+left hand: korogh	koroɣ 
+right: korogh	koroɣ 
+1 sg.: na	nega	noa	nèga 
+be knowledgeable: anep	raron-ŋgu 
+head louse: nemeNk 
+male: yexri	yeɣri 
+much: očiftere	usin 
+multiple: očiftere	usin 
+several: očiftere	usin 
+flesh: mei 
+hill: kolutpre	kolutprè 
+title: naw	nex	neɣ 
+nighttime: mi	peNk	peeŋk	piaŋ 
+adulterous: sekodu	sokodu	sukodu	sèkudu 
+single: sekodu	sokodu	sukodu	sèkudu 
+that: paβi 
+the: sekodu	sokodu	sukodu	sèkudu 
+unprincipled: sekodu	sokodu	sukodu	sèkudu 
+human: puruam	puruàm	purɸam 
+human being: puruam	puruàm	purɸam 
+rainy weather: yavà	yaɸa 
+seed: yewi 
+hide: par 
+little: mendzǯun	moncun 
+smallness: mendzǯun	moncun 
+rock: marah	mere	nere 
+this: keβi 
+2 sg: ka	kie 
+grind: jènadu	yenadu 
+hot: mbi-mbi 
+1 pl. inc.: nie 
+we₁: nie 
+whiteness: gweje	kwodǯe 
+who?: aina	ina 
+female: ramon 
+yellow: mpreow je 
+distant: timo 
+dull: rem 
+serious: rem 
+close: aɸraw	efreu 
+ner: aɸraw	efreu 

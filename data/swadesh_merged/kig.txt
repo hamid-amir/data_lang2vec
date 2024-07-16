@@ -1,0 +1,598 @@
+all: ndom | ba	ndom	tⁱɑɣɑ	yendena	ɑβɛr 
+all: yendena | ba	ndom	tⁱɑɣɑ	yendena	ɑβɛr 
+ankle: kura 
+arm: duro 
+arm: kičɛ 
+arm: ndero 
+arrow: kida 
+ashes: tiː | ti	tinda-mada	tindara	tiː	tĩ 
+ashes: tii | ti	tinda-mada	tindara	tiː	tĩ 
+ashes: tinda-mada | ti	tinda-mada	tindara	tiː	tĩ 
+back: pa | pa	pae	yendǯa 
+back: pae | pa	pae	yendǯa 
+back: yanduro do börö | pa	pae	yendǯa 
+bad: yaka | awide	yaka	čɑbwrukʷɑnǯi	ʔiyɑkɑ 
+bark: krara | dɔkərɑgərɑ	krara	kərɑgərɑ	kərɑkərɑ	ⁿdakərɑkərɑ 
+belly: podikwo | podikwo	puri	purikwo 
+belly: purikwo | podikwo	puri	purikwo 
+big: mamu | ?turoturo	mamra	mamu	mamun	mowi	mɑːnu	pataŋ 
+big: mamun | ?turoturo	mamra	mamu	mamun	mowi	mɑːnu	pataŋ 
+big: patang | ?turoturo	mamra	mamu	mamun	mowi	mɑːnu	pataŋ 
+bird: aghanemö | ahanem	axanemö	aɣanemö	yewme	ɑɣuβɛβu	ɑɣɑnɛmɨ 
+bird: ahanem | ahanem	axanemö	aɣanemö	yewme	ɑɣuβɛβu	ɑɣɑnɛmɨ 
+bird: axanemö | ahanem	axanemö	aɣanemö	yewme	ɑɣuβɛβu	ɑɣɑnɛmɨ 
+bite: tranawa | tranawa	tranawɛ	turra-nami	turre-nowa	tərɑnɑwɑ	tərɑrɨ 
+bite: tranawɛ | tranawa	tranawɛ	turra-nami	turre-nowa	tərɑnɑwɑ	tərɑrɨ 
+bite: turra-nami | tranawa	tranawɛ	turra-nami	turre-nowa	tərɑnɑwɑ	tərɑrɨ 
+bitter: čɛ-inɛ 
+bitter: tje-ine 
+black: chupata | cu-padere	ču	ču-paderɛ	čupata	čučina	čučinɑ 
+black: ču-paderɛ | cu-padere	ču	ču-paderɛ	čupata	čučina	čučinɑ 
+black: tju-padere | cu-padere	ču	ču-paderɛ	čupata	čučina	čučinɑ 
+blood: dörö | dere	duddu	dörö	dʉru	ndzurre	ⁿduru 
+blood: dörö | dere	duddu	dörö	dʉru	ndzurre	ⁿduru 
+blood: duddu | dere	duddu	dörö	dʉru	ndzurre	ⁿduru 
+bone: duno | ?duro	duno	duro	durrowa	durwɑ	kadrowa	kɑduro 
+bone: duro | ?duro	duno	duro	durrowa	durwɑ	kadrowa	kɑduro 
+bone: duro (?) | ?duro	duno	duro	durrowa	durwɑ	kadrowa	kɑduro 
+bone: durrowa | ?duro	duno	duro	durrowa	durwɑ	kadrowa	kɑduro 
+boy: mavurɛrɛ 
+branch: dakra | dakra	tie	tiɛ	ǯone-turre 
+branch: tie | dakra	tie	tiɛ	ǯone-turre 
+branch: tiɛ | dakra	tie	tiɛ	ǯone-turre 
+breast: ma | ma	manda	mu	mɑ	mɑː 
+breast: ma nču vɛ~e | ma	manda	mu	mɑ	mɑː 
+breast: manda | ma	manda	mu	mɑ	mɑː 
+breast: mu | ma	manda	mu	mɑ	mɑː 
+breathe: irumbu kadu 
+brother: nanu 
+burn: buyɛ | drawar	i-kurradde	čočɑ	čuɑčuɑ 
+burn: i-kurradde | drawar	i-kurradde	čočɑ	čuɑčuɑ 
+butterfly: ave-ave 
+calf: čambuku 
+calf: töröɛ ye kaka 
+cheek: čama 
+cheek: tjama 
+chest: kodambörö 
+chest: kodam-böro 
+child: axavö | aka	axavö	nonerabu	ɑɣɑbʊ	ɑɣɑβu 
+child: nonerabu | aka	axavö	nonerabu	ɑɣɑbʊ	ɑɣɑβu 
+child: tadu | aka	axavö	nonerabu	ɑɣɑbʊ	ɑɣɑβu 
+chin: amata 
+cloud: wanjhi | meidowa	mɛðuβɑ	mʷɪyɛwiyi	wanži 
+cold: uwi | uwi	ye	yedreye	yɛdrɛyɛ	yɛrdɑ	čumu 
+cold: yedreye | uwi	ye	yedreye	yɛdrɛyɛ	yɛrdɑ	čumu 
+cold: yɛdrɛyɛ | uwi	ye	yedreye	yɛdrɛyɛ	yɛrdɑ	čumu 
+come: bu | bu	mbu	mowiya	muinane	yɛračinɑ 
+come: muinane | bu	mbu	mowiya	muinane	yɛračinɑ 
+correct: avunatɛ 
+crocodile: kuramu 
+cut: burriye | burriye	tudza	wodiyɛ 
+cut: wodiyɛ | burriye	tudza	wodiyɛ 
+dance: gadzi 
+dark: webr 
+dark: wibörö 
+dark: wibörö 
+daughter: ivočɛrɛ 
+daughter: ivotjere 
+day: čuo-padae | čuo-padae 
+day: ketaragha | čuo-padae 
+die: borawino | borawino	burao	burɑu	burɑwu	mburow 
+die: burao | borawino	burao	burɑu	burɑwu	mburow 
+die: čiː mburao inɛ | borawino	burao	burɑu	burɑwu	mburow 
+dig: ide | ide	idɛ	tarowačine	tɑruβɑ	wettərə	čuämɛʔ 
+dig: idɛ | ide	idɛ	tarowačine	tɑruβɑ	wettərə	čuämɛʔ 
+dig: pataré-wèginpo | ide	idɛ	tarowačine	tɑruβɑ	wettərə	čuämɛʔ 
+dig: ténémudé | ide	idɛ	tarowačine	tɑruβɑ	wettərə	čuämɛʔ 
+dig: wettërë | ide	idɛ	tarowačine	tɑruβɑ	wettərə	čuämɛʔ 
+dirty: cho-cho | čo-čo 
+dog: nöe | nee	nöe	nʉä	nʷɛ 
+dog: nöe | nee	nöe	nʉä	nʷɛ 
+drink: chu-moye | muya	muya-rana	muye	muyɛ	ču-moye	čumuiyɛ	čumuyɑ 
+drink: muye | muya	muya-rana	muye	muyɛ	ču-moye	čumuiyɛ	čumuyɑ 
+drink: muyɛ | muya	muya-rana	muye	muyɛ	ču-moye	čumuiyɛ	čumuyɑ 
+dry: tupa | točinɑ	tupa	ye-puppurra	ṭupɑinɛ 
+ear: čakra | Cakra	cekra	čakr	čakra	čakuru	čɑkurɑ 
+ear: chakr | Cakra	cekra	čakr	čakra	čakuru	čɑkurɑ 
+earth: chupida | deː 
+earth: deː 
+earth: dee | deː 
+earth: muwwë-da | deː 
+earth: padad | deː 
+earth: padae | deː 
+ear: tjekra | Cakra	cekra	čakr	čakra	čakuru	čɑkurɑ 
+eat: mudje | demuya-rana	mudǯe	muye	muyɑ	muyɛ	mʊɪyɛ 
+eat: muye | demuya-rana	mudǯe	muye	muyɑ	muyɛ	mʊɪyɛ 
+eat: muyɛ | demuya-rana	mudǯe	muye	muyɑ	muyɛ	mʊɪyɛ 
+egg: uo | uo	uwɑ 
+elbow: tuː činɛ 
+elbow: tunke 
+elbow: tu-tjine 
+emu: awi 
+excrement: ka 
+excrement: kagha 
+eye: abuwa | abuwa	avua	avuo	avuvo	awonduba	ɑβundubu	ɑβuɑ 
+eye: avua | abuwa	avua	avuo	avuvo	awonduba	ɑβundubu	ɑβuɑ 
+eye: avuo | abuwa	avua	avuo	avuvo	awonduba	ɑβundubu	ɑβuɑ 
+eye: avuo krara da | abuwa	avua	avuo	avuvo	awonduba	ɑβundubu	ɑβuɑ 
+eye: avuvo | abuwa	avua	avuo	avuvo	awonduba	ɑβundubu	ɑβuɑ 
+face: abuyo 
+face: avupö 
+face: avuyö 
+fall: paa | paː	pʷä	pʷɛ 
+far: yodda | yoda	yodda	yodo	yoðɑ	yuwɑd̪ɑ 
+far: yodo | yoda	yodda	yodo	yoðɑ	yuwɑd̪ɑ 
+father: dji | dǯi	nɑnǯikɑ	čičɑ	ǯi 
+father: ǯi | dǯi	nɑnǯikɑ	čičɑ	ǯi 
+fat (n.): di 
+fat (n.): patanga-kumu 
+fear: auk 
+feather: pönö | pönö	weku	wiyeppinde 
+feather: pönö | pönö	weku	wiyeppinde 
+feather: wiyeppinde | pönö	weku	wiyeppinde 
+finger: fa natu 
+finger: kecha-nomba 
+finger: kičɛ numbu 
+fingernail: vembö | vembö	wämbu	wämbʉ 
+finger: numbo 
+finger: tuva bɛndönɛ 
+fire: i | i	iʔ	iː 
+fish: da | da	de	denda	dɛ	dɛn 
+fish: de | da	de	denda	dɛ	dɛn 
+five: mado | mado	mɑdʷɑ	mɑðo 
+flower: aghanta | axanta	aɣanta 
+flower: axanta | axanta	aɣanta 
+fly (n.): uraora 
+fly (n.): urowr 
+fly (v.): numba 
+fly (v.): numbo 
+foot: kera | kera	kura 
+foot: kura | kera	kura 
+foot: kura ve | kera	kura 
+foot: kura vudu | kera	kura 
+foot: vudu | kera	kura 
+forehead: tö 
+forehead: tö 
+forehead: tükwo 
+forest: garu | garu	gɑru	tɑmpuðu 
+four: yando | jando	yando	yɑndo	yɑndʷɑ 
+fruit: aghavo | aɣavo	kuo 
+fruit: kuo | aɣavo	kuo 
+full: čɛmbɛ | Camba	čɛmbɛ 
+girl: ivočɛrɛ 
+girl: meimembr 
+give: iye | iye	iyɛ	kiye	yeran	yɛčinɑ 
+give: iyɛ | iye	iyɛ	kiye	yeran	yɛčinɑ 
+give: kiye | iye	iyɛ	kiye	yeran	yɛčinɑ 
+good: kuching | kuci	kuči	kučinera	kučiŋ	kwarina	ɑɣɑnɛ	ɑɣənɑ 
+good: kuči | kuci	kuči	kučinera	kučiŋ	kwarina	ɑɣɑnɛ	ɑɣənɑ 
+good: kutji | kuci	kuči	kučinera	kučiŋ	kwarina	ɑɣɑnɛ	ɑɣənɑ 
+guts: čo börö raxa | co-böri-raɣa	kaɣa	ku-puri	čo börö raxa 
+guts: kagha | co-böri-raɣa	kaɣa	ku-puri	čo börö raxa 
+guts: tjo-böri-ragha | co-böri-raɣa	kaɣa	ku-puri	čo börö raxa 
+hair: muna | muna	munara	munera	munɑ	tuwakwa 
+hair: munara | muna	munara	munera	munɑ	tuwakwa 
+hand: duro | duro	kačanebra	kečanam	kiCa	kice	kičɛ 
+hand: kechanam | duro	kačanebra	kečanam	kiCa	kice	kičɛ 
+hand: kičɛ | duro	kačanebra	kečanam	kiCa	kice	kičɛ 
+hand: kitje | duro	kačanebra	kečanam	kiCa	kice	kičɛ 
+head: tebaku | tebaku	towada	tuakwo	tuwakwa	tuwɑkwo 
+head: tuakwo | tebaku	towada	tuakwo	tuwakwa	tuwɑkwo 
+hear: čɛrɛ | Cara	cere	čereran	čidè	čɛrɑ	čɛrɛ	čⁱɛrɛ 
+hear: chidè | Cara	cere	čereran	čidè	čɛrɑ	čɛrɛ	čⁱɛrɛ 
+heart: čɛ~nǯe | cendǯé	idumbu	urumbu	čɛ̀nǯe 
+heart: idumbu | cendǯé	idumbu	urumbu	čɛ̀nǯe 
+hear: tjere | Cara	cere	čereran	čidè	čɛrɑ	čɛrɛ	čⁱɛrɛ 
+heart: tjendjé | cendǯé	idumbu	urumbu	čɛ̀nǯe 
+heavy: pi | pi	pi-wino	pina	čipuwora 
+heavy: pi-wino | pi	pi-wino	pina	čipuwora 
+heel: kura-ve 
+here: amunda | munɑrɑmu	mʷinɛ 
+he/she: da 
+he/she: ngatea 
+he/she: nö 
+he/she: nö/anda 
+hit: aula | aula	aurɑ	awra	mbarawra	ɑwurɑ 
+hit: awra | aula	aurɑ	awra	mbarawra	ɑwurɑ 
+hold: banǯa | bɑnǯɑ	mandə 
+hole: daa 
+house: paya 
+house: waghara 
+house: waxara 
+husband: gai | deintaɣo	dɑyintɑ	gai	i	nɑy 
+husband: i | deintaɣo	dɑyintɑ	gai	i	nɑy 
+I: na | na	naron	no	nɑ	nɔʔ 
+I: no | na	naron	no	nɑ	nɔʔ 
+I: no/niè | na	naron	no	nɑ	nɔʔ 
+kill: adra | adra	baɣa-uwra	pata-atara	ɑdərɑ 
+kill: pata-atara | adra	baɣa-uwra	pata-atara	ɑdərɑ 
+knee: bugu | bugu	idowakwa	iduve	iduvö	udwβɑkʷɑ	ʉdʉwɑ 
+knee: iduvö | bugu	idowakwa	iduve	iduvö	udwβɑkʷɑ	ʉdʉwɑ 
+knee: iduvö | bugu	idowakwa	iduve	iduvö	udwβɑkʷɑ	ʉdʉwɑ 
+know: nuano | nanowano	nuano	nuwo	nuwɑ	nuɣʷɑnə 
+know: nuwo | nanowano	nuano	nuwo	nuwɑ	nuɣʷɑnə 
+lake: nomanda | irɑmu	mʷɛ	nomanda	tsǯu-woeroe 
+laugh: chienche | teɛ̀ nteɛ̀	teː	teː-ntae	tiyɛntiyɛ̃	tɛː	čienče 
+laugh: tee-ntae | teɛ̀ nteɛ̀	teː	teː-ntae	tiyɛntiyɛ̃	tɛː	čienče 
+laugh: teɛ~ nteɛ~ | teɛ̀ nteɛ̀	teː	teː-ntae	tiyɛntiyɛ̃	tɛː	čienče 
+leaf: chukun | Cuku	cuku	dačuku	yone-ku	čuku	čukun 
+leaf: čuku | Cuku	cuku	dačuku	yone-ku	čuku	čukun 
+leaf: tjuku | Cuku	cuku	dačuku	yone-ku	čuku	čukun 
+leg: duro | duro	kura	turue	turɛ	tʉrʷä 
+leg: kura | duro	kura	turue	turɛ	tʉrʷä 
+lie: mijhi | puda | ucaɣar	učaxa 
+lie: poeta | puda | ucaɣar	učaxa 
+lie: puda | ucaɣar	učaxa 
+lightning: oandji 
+lightning: oanǯi 
+lightning: wanjhi 
+lip: čɛčirɛ~ 
+lip: chechire 
+lip: tjetjire 
+live: neye | neye	nɛye 
+live: nɛye | neye	nɛye 
+long: tudu | memtudzo	takapow	tudu	tutura	tuðugɑrimɑ 
+long: tutura | memtudzo	takapow	tudu	tutura	tuðugɑrimɑ 
+louse: nöme | nema 
+louse: nömɛ | nema 
+louse: numme | nema 
+louse: nuwendé-menda | nema 
+man: chind | Ci	cinh	tsǯin	tsǯindo	či	čiː 
+man: čiː | Ci	cinh	tsǯin	tsǯindo	či	čiː 
+man: tyĩ | Ci	cinh	tsǯin	tsǯindo	či	čiː 
+man: ya | Ci	cinh	tsǯin	tsǯindo	či	čiː 
+many: kača-raxa | kaca-raɣa	kača-raxa	nɑuru 
+many: katja-ragha | kaca-raɣa	kača-raxa	nɑuru 
+meat: membu | mɛmbu	mʷɛmbu | membu	pi	pui 
+meat: mɛmbu | mɛmbu	mʷɛmbu | membu	pi	pui 
+meat: pi | mɛmbu	mʷɛmbu | membu	pi	pui 
+moon: kumban | kumban	kumbanu	kumbɑn	kumbɑnu 
+moon: kumbanu | kumban	kumbanu	kumbɑn	kumbɑnu 
+morning: čɛmödɛ 
+mosquito: tra 
+mother: mamu | mamu	mɑŋkɑ	naŋkɑ 
+mountain: bamu | bamu	waŋkɑčɑ	wɑŋkɛčɛ 
+mouth: dado | dado	dadu	dolo	dɑdu	ⁿdɑːru 
+mouth: dadu | dado	dadu	dolo	dɑdu	ⁿdɑːru 
+mouth: ni | dado	dadu	dolo	dɑdu	ⁿdɑːru 
+name: ne | ne	neːne	nä	nɑnɑ	yuraderr	činam 
+name: neene | ne	neːne	nä	nɑnɑ	yuraderr	činam 
+nape: bambr 
+nape: bombörö 
+navel: čɛdö 
+navel: chedde 
+navel: tjedö 
+near: kareduru | kareduru	karoda	karoddu	karoduru	kɑpʷɛ	kɑwukɑwutɑ 
+near: karoda | kareduru	karoda	karoddu	karoduru	kɑpʷɛ	kɑwukɑwutɑ 
+near: karoduru | kareduru	karoda	karoddu	karoduru	kɑpʷɛ	kɑwukɑwutɑ 
+neck: bu | bu	karanžire	maruko 
+neck: maruko | bu	karanžire	maruko 
+new: chichira | CiCiraxa	anowada	ciciraɣa	čičira	čičiraxa	čičirɑgə	čičirɑɣɑ 
+new: čičiraxa | CiCiraxa	anowada	ciciraɣa	čičira	čičiraxa	čičirɑgə	čičirɑɣɑ 
+new: čuvu | CiCiraxa	anowada	ciciraɣa	čičira	čičiraxa	čičirɑgə	čičirɑɣɑ 
+new: noana | CiCiraxa	anowada	ciciraɣa	čičira	čičiraxa	čičirɑgə	čičirɑɣɑ 
+new: tjitjiragha | CiCiraxa	anowada	ciciraɣa	čičira	čičiraxa	čičirɑgə	čičirɑɣɑ 
+night: koː | ko	koː	ubwrɛ	webr	wibɨrɨ	čoi 
+night: koo | ko	koː	ubwrɛ	webr	wibɨrɨ	čoi 
+night: udduwwaro | ko	koː	ubwrɛ	webr	wibɨrɨ	čoi 
+night: webr | ko	koː	ubwrɛ	webr	wibɨrɨ	čoi 
+nose: chumbache | gonda	gʷɑndɑ	wanda	čumbače 
+nose: gonda | gonda	gʷɑndɑ	wanda	čumbače 
+nose: gonda vɛ~enčö | gonda	gʷɑndɑ	wanda	čumbače 
+old: čiː tödaxa 
+old: tawara 
+old: tödagha 
+old: tödaxa 
+old: yo tödaxa 
+one: dubbadne | dubbadne	nevara	nuβɛdɑ	nweda	növere	növèrè	növɛrɛ	nʉβɛrɛ 
+one: növere | dubbadne	nevara	nuβɛdɑ	nweda	növere	növèrè	növɛrɛ	nʉβɛrɛ 
+one: növɛrɛ | dubbadne	nevara	nuβɛdɑ	nweda	növere	növèrè	növɛrɛ	nʉβɛrɛ 
+person: čiː | Ci	cinh	tsǯin	tsǯindo	či	čiː 
+person: tjĩ | Ci	cinh	tsǯin	tsǯindo	či	čiː 
+person: tsjindo | Ci	cinh	tsǯin	tsǯindo	či	čiː 
+pull: tɛmbɛye 
+push: kadiyé 
+rain: moa | moa	mowa	muwo	muwɑʔ	wɑ 
+rain: muwo | moa	mowa	muwo	muwɑʔ	wɑ 
+rat: paï 
+rat: poy 
+red: čɛro-baderɛ | cero-badere	keːčina	yoi-watara	čɛro-baderɛ	čⁱɛru	ⁿduru 
+red: tjero-badere | cero-badere	keːčina	yoi-watara	čɛro-baderɛ	čⁱɛru	ⁿduru 
+red: yoi-watara | cero-badere	keːčina	yoi-watara	čɛro-baderɛ	čⁱɛru	ⁿduru 
+ripe: peranë 
+ripe: puranu 
+river: iramu | iramu	irɑmu	wete 
+river: wete | iramu	irɑmu	wete 
+road: daan | kura da 
+road: kura da 
+root: kiye | dɑkiyɑ	kiye	kiyé	kiyɑ	kiyɛ	kiyɛʔ	yoné-ɣia 
+root: kiyé | dɑkiyɑ	kiye	kiyé	kiyɑ	kiyɛ	kiyɛʔ	yoné-ɣia 
+root: kiyɛ | dɑkiyɑ	kiye	kiyé	kiyɑ	kiyɛ	kiyɛʔ	yoné-ɣia 
+rope: nie | mɛmʉ	nie	niyɛʔ	niɛ 
+rope: niɛ | mɛmʉ	nie	niyɛʔ	niɛ 
+sand: čiči | ciyi	tubbe-tubbi	či	čir	čiyi	čiči 
+sand: tjiyi | ciyi	tubbe-tubbi	či	čir	čiyi	čiči 
+sand: tubbe-tubbi | ciyi	tubbe-tubbi	či	čir	čiyi	čiči 
+say: mave | mbaŋu-mbaŋu	meme	yaoadru | ciyi	tubbe-tubbi	či	čir	čiyi	čiči 
+say: mave (?mare) | mbaŋu-mbaŋu	meme	yaoadru | ciyi	tubbe-tubbi	či	čir	čiyi	čiči 
+say: meme | mbaŋu-mbaŋu	meme	yaoadru | ciyi	tubbe-tubbi	či	čir	čiyi	čiči 
+say: yaoadru | mbaŋu-mbaŋu	meme	yaoadru | ciyi	tubbe-tubbi	či	čir	čiyi	čiči 
+sea: binënë 
+see: avu | avo	avu	ɑβu 
+sew: nönö 
+sharp: nawe | nawe	trɑyɛdɑ	tərɑwɑččinɛ 
+short: kapa-beru | kapa-beru	kapay-börö	kapwa-bbere	kapɛbwru	kɑpɑⁱčiu 
+short: kapay-börö | kapa-beru	kapay-börö	kapwa-bbere	kapɛbwru	kɑpɑⁱčiu 
+short: kapay-börö | kapa-beru	kapay-börö	kapwa-bbere	kapɛbwru	kɑpɑⁱčiu 
+shoulder: wachu 
+shoulder: wačo 
+shoulder: watja 
+sing: aghodu-kadu | axada kadu	aɣodu-kadu	kedia	tobara 
+sing: axada kadu | axada kadu	aɣodu-kadu	kedia	tobara 
+sing: tobara | axada kadu	aɣodu-kadu	kedia	tobara 
+sister: mundje 
+sister: munǯɛ 
+sit: kui | kui	kwi	kwiy	kʷi 
+sit: kwiy | kui	kwi	kwiy	kʷi 
+skin: krara | krara	kurrada	kərɑgərɑ	kərɑkərɑ	nakeradera 
+skin: kurrada | krara	kurrada	kərɑgərɑ	kərɑkərɑ	nakeradera 
+sky: mueyö | mueyö	mʷɪyɛyʷä	nʷɪnǯɑ 
+sky: mueyö | mueyö	mʷɪyɛyʷä	nʷɪnǯɑ 
+sleep: igoa | igoa	igʷɑyɑ	iwaya	iwä	puta 
+sleep: puta | igoa	igʷɑyɑ	iwaya	iwä	puta 
+small: čaxanu | caɣamu	čanero	čaxanu	čehanu	čubu	čuβuβɛβʊ	čɑɣɑnu 
+small: chehanu | caɣamu	čanero	čaxanu	čehanu	čubu	čuβuβɛβʊ	čɑɣɑnu 
+small: tjaghamu | caɣamu	čanero	čaxanu	čehanu	čubu	čuβuβɛβʊ	čɑɣɑnu 
+smell: čövö inɛ~ | yorö	yövö 
+smell: yorö | yorö	yövö 
+smoke: yuhu | iɣu	yuhu	yuɣu 
+smooth: mid-örö | mid-örö 
+snake: daron | daron	marawi	čera	čɛrɑ	ɑɣɑd̪ud̪u 
+snake: marawi | daron	marawi	čera	čɛrɑ	ɑɣɑd̪ud̪u 
+son: munaduwarere 
+son: munaduwarɛrɛ 
+sour: trae 
+sour: trae (?Kunini) 
+spit: čirɛ-irɛ | yɛö 
+spit: yɛö | yɛö 
+spit: yeö | yɛö 
+spit: yuwwila | yɛö 
+stand: arake-karet | arake-karet	die	diɛ	diːyɛ	ibran	tɛmbwru 
+stand: die | arake-karet	die	diɛ	diːyɛ	ibran	tɛmbwru 
+stand: diɛ | arake-karet	die	diɛ	diːyɛ	ibran	tɛmbwru 
+stand: tjemo | arake-karet	die	diɛ	diːyɛ	ibran	tɛmbwru 
+star: böree | berae	böreː	börɛe	bʉrɛ	mburrewa	čoyɑmuru	čumero 
+star: börɛe | berae	böreː	börɛe	bʉrɛ	mburrewa	čoyɑmuru	čumero 
+star: mburrewa | berae	böreː	börɛe	bʉrɛ	mburrewa	čoyɑmuru	čumero 
+stick: mako | dakra	tie	tiɛ	ǯone-turre 
+stone: mete | mata	mate	mete	mɛbw	mɛtɛ	mɛṭɛ 
+stone: mɛtɛ | mata	mate	mete	mɛbw	mɛtɛ	mɛṭɛ 
+straight: tɛmbörö | tɛmbörö 
+suck: ču nödɛ | ču nödɛ 
+sun: nde | era	hurra	nde	urɛ	urɛndubu	wirendemu	öre	örɛ 
+sun: öre | era	hurra	nde	urɛ	urɛndubu	wirendemu	öre	örɛ 
+sun: örɛ | era	hurra	nde	urɛ	urɛndubu	wirendemu	öre	örɛ 
+sweet: tjentje 
+swim: imu-imu | banža-banža	imu-imu	pämpänɛ	čⁱɛčⁱɛ 
+tail: benta | kumbu 
+tail: bɛnta | kumbu 
+tail: kumbu 
+take: bandja 
+take: imbo 
+take: kadiyè 
+take: kaevu 
+they: dii | iː	ni	todai	yɑindɑɣɑ	ʔi 
+they: iː | iː	ni	todai	yɑindɑɣɑ	ʔi 
+they: ii/ande | iː	ni	todai	yɑindɑɣɑ	ʔi 
+thick: pi-mbentene | pi-mbentene	pi-mbɛntɛnɛ 
+thick: pi-mbɛntɛnɛ | pi-mbentene	pi-mbɛntɛnɛ 
+thigh: verimu 
+thigh: vɛrimu 
+think: čokadu | cokadu	čokadu 
+think: tjokadu | cokadu	čokadu 
+thin: mwi-mwine | mwi-mwine	mwimwinɛ	pi-vuna 
+thin: mwimwinɛ | mwi-mwine	mwimwinɛ	pi-vuna 
+thin: pi-vuna | mwi-mwine	mwimwinɛ	pi-vuna 
+thorn: gui 
+thou: enggu | eŋgu	gu	iNgi	uNgu	uŋgu	uŋguʔ	činam 
+thou: ga | eŋgu	gu	iNgi	uNgu	uŋgu	uŋguʔ	činam 
+thou: iŋgi | eŋgu	gu	iNgi	uNgu	uŋgu	uŋguʔ	činam 
+thou: uŋgu | eŋgu	gu	iNgi	uNgu	uŋgu	uŋguʔ	činam 
+thou: unggu/angga | eŋgu	gu	iNgi	uNgu	uŋgu	uŋguʔ	činam 
+three: pendji | pendǯi	penǯi	péndji	pⁱɛnǯi	pⁱɛnʒi 
+three: penǯi | pendǯi	penǯi	péndji	pⁱɛnǯi	pⁱɛnʒi 
+throw: nayɛ | nayɛ	nembe	wubu 
+throw: wubu | nayɛ	nembe	wubu 
+thunder: čönduvu 
+thunder: tjönduvu 
+tie: kuru | kuru	mie	miyä	miɛ	mä	towakuru	tukuru 
+tie: mie | kuru	mie	miyä	miɛ	mä	towakuru	tukuru 
+tie: miɛ | kuru	mie	miyä	miɛ	mä	towakuru	tukuru 
+tie: tukuru | kuru	mie	miyä	miɛ	mä	towakuru	tukuru 
+tomorrow: čoy 
+tomorrow: pendö 
+tongue: maku | maku	mäku 
+tooth: travae | trava*e	travae	travàe	turra	tərɑ 
+tooth: trava~e | trava*e	travae	travàe	turra	tərɑ 
+tooth: turra | trava*e	travae	travàe	turra	tərɑ 
+tooth: wamanda | trava*e	travae	travàe	turra	tərɑ 
+tree: do 
+tree: maku | do 
+two: kabi | kabi	kave	kavé	kawe	kɑβɛ	kɑβⁱyɛ 
+two: kave | kabi	kave	kavé	kawe	kɑβɛ	kɑβⁱyɛ 
+unripe: čɛrɛ 
+vagina: ba 
+vomit: mayvay | mayray	mayvay 
+walk: kurawra | kurawra	pɑdʊrʊä	pɑðaərəndɑ 
+walk: ngude | kurawra	pɑdʊrʊä	pɑðaərəndɑ 
+warm: yolo | mi	yolo	yoru 
+warm: yoru | mi	yolo	yoru 
+wash: chinjhi | pu	tawaračine	činži	čiyi	čiyɛyɑ	čiː 
+wash: čiečɛ | pu	tawaračine	činži	čiyi	čiyɛyɑ	čiː 
+wash: pu | pu	tawaračine	činži	čiyi	čiyɛyɑ	čiː 
+wash: tjietjie | pu	tawaračine	činži	čiyi	čiyɛyɑ	čiː 
+water: ču | Cu	niwa	či	ču 
+water: niwa | Cu	niwa	či	ču 
+weep: newada 
+weep: niɛ 
+weep: nöe ragna 
+weep: noe-ragna 
+we: ni 
+we: ni/nire 
+wet: chu-wino | cu-ine	yè	ču-inɛ	ču-wino	čuinɛ	čuwinǯinɑ 
+wet: ču-inɛ | cu-ine	yè	ču-inɛ	ču-wino	čuinɛ	čuwinǯinɑ 
+wet: tju-ine | cu-ine	yè	ču-inɛ	ču-wino	čuinɛ	čuwinǯinɑ 
+white: magha-vedere | keːčina	kɛyɑčinɑ	maro	maxa-vaderɛ	maɣa-vedere	mɑɣɑ 
+white: maro | keːčina	kɛyɑčinɑ	maro	maxa-vaderɛ	maɣa-vedere	mɑɣɑ 
+white: maxa-vaderɛ | keːčina	kɛyɑčinɑ	maro	maxa-vaderɛ	maɣa-vedere	mɑɣɑ 
+who: na | na	näːne	činiyɛ 
+wide: tɛrin-inɛ 
+wife: gandja | dɑyinǯɑwɑ	gandǯa	nandǯowa	ndǯa	nɑnǯɛ	ǯa 
+wife: ndja | dɑyinǯɑwɑ	gandǯa	nandǯowa	ndǯa	nɑnǯɛ	ǯa 
+wife: ǯa | dɑyinǯɑwɑ	gandǯa	nandǯowa	ndǯa	nɑnǯɛ	ǯa 
+wind: nuo | nontɑ	nuo	nuwa	nuɑ	čirowera 
+wind: nuwa | nontɑ	nuo	nuwa	nuɑ	čirowera 
+wing: abanda | abanda	mbaro	uva	uβɑ	uβɑ̃ 
+wing: uva | abanda	mbaro	uva	uβɑ	uβɑ̃ 
+woman: ya | iwowara	iyɑ	ya	yo	yɔʔ 
+woman: yo | iwowara	iyɑ	ya	yo	yɔʔ 
+wood: čeɛ 
+wood: do 
+yesterday: neɛnö 
+yesterday: neenö 
+yesterday: nëne 
+you: go | eŋgu	gu	iNgi	uNgu	uŋgu	uŋguʔ	činam | giriyɛ	iŋgi	woko	ŋikibe 
+you: inggi/angge | eŋgu	gu	iNgi	uNgu	uŋgu	uŋguʔ	činam | giriyɛ	iŋgi	woko	ŋikibe 
+you: ngikibe | eŋgu	gu	iNgi	uNgu	uŋgu	uŋguʔ	činam | giriyɛ	iŋgi	woko	ŋikibe 
+every: ba	ndom	tⁱɑɣɑ	yendena	ɑβɛr 
+ash: ti	tinda-mada	tindara	tiː	tĩ 
+abdomen: podikwo	puri	purikwo 
+bigness: ?turoturo	mamra	mamu	mamun	mowi	mɑːnu	pataŋ 
+large: ?turoturo	mamra	mamu	mamun	mowi	mɑːnu	pataŋ 
+breasts: ma	manda	mu	mɑ	mɑː 
+come from: bu	mbu	mowiya	muinane	yɛračinɑ 
+be dead: borawino	burao	burɑu	burɑwu	mburow 
+dead: borawino	burao	burɑu	burɑwu	mburow 
+ground: deː 
+land: deː 
+soil: deː 
+fly: numba	numbo	numbɑ	wera 
+fly v.: numba	numbo	numbɑ	wera 
+green: čɛrundɑčinɑ 
+left hand: duro	kačanebra	kečanam	kiCa	kice	kičɛ 
+right: duro	kačanebra	kečanam	kiCa	kice	kičɛ 
+1 sg.: na	naron	no	nɑ	nɔʔ 
+be knowledgeable: nanowano	nuano	nuwo	nuwɑ	nuɣʷɑnə 
+lie down: puda 
+liver: pä	pʷɛtɛ 
+head louse: nema 
+male: bɑymɑ	munɑwɑ	nam	tyinh	ya	čin	čind	čiː 
+much: kaca-raɣa	kača-raxa	nɑuru 
+multiple: kaca-raɣa	kača-raxa	nɑuru 
+several: kaca-raɣa	kača-raxa	nɑuru 
+flesh: mɛmbu	mʷɛmbu 
+hill: bamu	waŋkɑčɑ	wɑŋkɛčɛ 
+title: ne	neːne	nä	nɑnɑ	yuraderr	činam 
+nighttime: ko	koː	ubwrɛ	webr	wibɨrɨ	čoi 
+not: mɑu	ɑɣβɑ 
+adulterous: dubbadne	nevara	nuβɛdɑ	nweda	növere	növèrè	növɛrɛ	nʉβɛrɛ 
+single: dubbadne	nevara	nuβɛdɑ	nweda	növere	növèrè	növɛrɛ	nʉβɛrɛ 
+that: imundɑ	ičɛ 
+the: dubbadne	nevara	nuβɛdɑ	nweda	növere	növèrè	növɛrɛ	nʉβɛrɛ 
+unprincipled: dubbadne	nevara	nuβɛdɑ	nweda	növere	növèrè	növɛrɛ	nʉβɛrɛ 
+human: Ci	cinh	tsǯin	tsǯindo	či	čiː 
+human being: Ci	cinh	tsǯin	tsǯindo	či	čiː 
+rainy weather: moa	mowa	muwo	muwɑʔ	wɑ 
+path: kura da 
+route: kura da 
+seed: dɑkʷɑ	kuwɑʔ 
+hide: krara	kurrada	kərɑgərɑ	kərɑkərɑ	nakeradera 
+little: caɣamu	čanero	čaxanu	čehanu	čubu	čuβuβɛβʊ	čɑɣɑnu 
+smallness: caɣamu	čanero	čaxanu	čehanu	čubu	čuβuβɛβʊ	čɑɣɑnu 
+rock: mata	mate	mete	mɛbw	mɛtɛ	mɛṭɛ 
+this: ɑmu	ɑrɑnɑ 
+2 sg: eŋgu	gu	iNgi	uNgu	uŋgu	uŋguʔ	činam 
+grind: kabi	kave	kavé	kawe	kɑβɛ	kɑβⁱyɛ 
+go: kurawra	pɑdʊrʊä	pɑðaərəndɑ 
+hot: mi	yolo	yoru 
+1 pl. inc.: ni 
+we₁: ni 
+what: närɨnɛ	nɛrnɑɣə 
+whiteness: keːčina	kɛyɑčinɑ	maro	maxa-vaderɛ	maɣa-vedere	mɑɣɑ 
+who?: na	näːne	činiyɛ 
+female: iwowara	iyɑ	ya	yo	yɔʔ 
+yellow: yʷɛwɑdⁱɛrɛ 
+distant: yoda	yodda	yodo	yoðɑ	yuwɑd̪ɑ 
+dull: pi	pi-wino	pina	čipuwora 
+serious: pi	pi-wino	pina	čipuwora 
+close: kareduru	karoda	karoddu	karoduru	kɑpʷɛ	kɑwukɑwutɑ 
+ner: kareduru	karoda	karoddu	karoduru	kɑpʷɛ	kɑwukɑwutɑ 
+salt: wädʉču 
+earthworm: kiriwɑ	muyuwɑ 
+worm: kiriwɑ	muyuwɑ 
+3 sg.: aram	nö	ŋatea 
+he: aram	nö	ŋatea 
+she: aram	nö	ŋatea 
+2 pl.: giriyɛ	iŋgi	woko	ŋikibe 
+ye: giriyɛ	iŋgi	woko	ŋikibe 
+you all: giriyɛ	iŋgi	woko	ŋikibe 
+3 pl.: iː	ni	todai	yɑindɑɣɑ	ʔi 
+there: inǯɑyomu	inǯⁱɛ	yɛmundɑ 
+where: tonɑrɑmu	činǯⁱɛnɛ 
+where?: tonɑrɑmu	činǯⁱɛnɛ 
+when: dɨnəntɑ	dʷɑyɑɣɑ 
+when?: dɨnəntɑ	dʷɑyɑɣɑ 
+broad: tɛrin-inɛ 
+wideness: tɛrin-inɛ 
+fat: pi-mbentene	pi-mbɛntɛnɛ 
+principal wife: dɑyinǯɑwɑ	gandǯa	nandǯowa	ndǯa	nɑnǯɛ	ǯa 
+his mother: mamu	mɑŋkɑ	naŋkɑ 
+my mother: mamu	mɑŋkɑ	naŋkɑ 
+his father: dǯi	nɑnǯikɑ	čičɑ	ǯi 
+my father: dǯi	nɑnǯikɑ	čičɑ	ǯi 
+woods: garu	gɑru	tɑmpuðu 
+cord: mɛmʉ	nie	niyɛʔ	niɛ 
+claw: vembö	wämbu	wämbʉ 
+nail: vembö	wämbu	wämbʉ 
+gut: co-böri-raɣa	kaɣa	ku-puri	čo börö raxa 
+insides: co-böri-raɣa	kaɣa	ku-puri	čo börö raxa 
+intestine: co-böri-raɣa	kaɣa	ku-puri	čo börö raxa 
+intestines: co-böri-raɣa	kaɣa	ku-puri	čo börö raxa 
+blow: uwä	βɛ 
+breath: irumbu kadu 
+laughter: teɛ̀ nteɛ̀	teː	teː-ntae	tiyɛntiyɛ̃	tɛː	čienče 
+cogitate: cokadu	čokadu 
+reflect: cokadu	čokadu 
+sniff: yorö	yövö 
+alive: neye	nɛye 
+be alive: neye	nɛye 
+life: neye	nɛye 
+living: neye	nɛye 
+beat: aula	aurɑ	awra	mbarawra	ɑwurɑ 
+strike: aula	aurɑ	awra	mbarawra	ɑwurɑ 
+hack: burriye	tudza	wodiyɛ 
+cut open: dɛmʷɛ	dⁱɑmʷä 
+split: dɛmʷɛ	dⁱɑmʷä 
+pierce: mɛndərɑ	mɛndərɛ 
+stab: mɛndərɑ	mɛndərɛ 
+scratch: čɛyɛyi	čⁱɛi 
+tell lies: ucaɣar	učaxa 
+drop: paː	pʷä	pʷɛ 
+grasp: bɑnǯɑ	mandə 
+hold in arm: bɑnǯɑ	mandə 
+wash clothes: pu	tawaračine	činži	čiyi	čiyɛyɑ	čiː 
+bind: kuru	mie	miyä	miɛ	mä	towakuru	tukuru 
+fasten: kuru	mie	miyä	miɛ	mä	towakuru	tukuru 
+tie up: kuru	mie	miyä	miɛ	mä	towakuru	tukuru 
+brook: iramu	irɑmu	wete 
+stream: iramu	irɑmu	wete 
+blaze: drawar	i-kurradde	čočɑ	čuɑčuɑ 
+daylight: čuo-padae 
+daytime: čuo-padae 
+evil: awide	yaka	čɑbwrukʷɑnǯi	ʔiyɑkɑ 
+filthy: čo-čo 
+soiled: čo-čo 
+blunt: tra-vuna	trɑβenɑ	tərɑwunɑ 
+damp: cu-ine	yè	ču-inɛ	ču-wino	čuinɛ	čuwinǯinɑ 
+right side: tiyɛmɑru	ɑɣənɑtərɛ 
+left: burɑwuru	burɑβu 

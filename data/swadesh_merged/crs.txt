@@ -1,0 +1,327 @@
+all: tou 
+every: tou 
+ash: lasann 
+ashes: lasann 
+bark: lekors 
+abdomen: toumero	vant 
+belly: toumero	vant 
+big: gran	gro 
+bigness: gran	gro 
+large: gran	gro 
+bird: zwazo 
+bite: morde 
+black: nwar 
+blood: disa*	disan 
+bone: lezo 
+breast: lasen	tete	totot 
+breasts: lasen	tete	totot 
+claw: grif 
+nail: grif 
+talon: grif 
+cloud: nyaz 
+cold: fre 
+come: vin	vini 
+come from: vin	vini 
+be dead: kas lapay	la*mor	lanmor	mor 
+dead: kas lapay	la*mor	lanmor	mor 
+die: kas lapay	la*mor	lanmor	mor 
+dog: lisye*	lisyen 
+drink: bwar	bw~ar	tape 
+dry: pa fon 
+ear: zorey 
+earth: later 
+ground: later 
+land: later 
+soil: later 
+eat: kapkap	manze	nyanmnyanm	snake	tyaptyap 
+egg: dizef 
+eye: lizye 
+feather: laplim	plim 
+fire: dife 
+fish: lapes	pwaso*	pwason 
+fly: plannen 
+fly v.: plannen 
+foot: lapat	lipye 
+full: ple*	plen	ra*pli	ranpli 
+give: donnen 
+good: bon 
+green: ver 
+hair: seve	sive 
+hand: la*me*	lame*	lanmen 
+left hand: la*me*	lame*	lanmen 
+right: la*me*	lame*	lanmen 
+head: kongo	latet 
+hear: a*tan	antann	ta*de	ta*n	tan	tann 
+heart: leker 
+horn: korn 
+1 sg.: mo*	mon	mwa*	mwan 
+I: mo*	mon	mwa*	mwan 
+kill: touye 
+knee: zenou	zenu 
+be knowledgeable: konnen 
+know: konnen 
+leaf: fey 
+lie: kouse 
+lie down: kouse 
+liver: lafwa	lefwa 
+long: long 
+head louse: %kinday	kinday	lipou	lipu 
+louse: %kinday	kinday	lipou	lipu 
+male: boug	zonm 
+man: dimun	ime*	imen	za*s 
+many: bokou	en ta	plen	takon	trale 
+much: bokou	en ta	plen	takon	trale 
+multiple: bokou	en ta	plen	takon	trale 
+several: bokou	en ta	plen	takon	trale 
+flesh: laser	lavyann 
+meat: laser	lavyann 
+moon: lalin 
+hill: mo*ta5	mo*tay	montanny	oter 
+mountain: mo*ta5	mo*tay	montanny	oter 
+mouth: labous 
+name: no*	non 
+title: no*	non 
+neck: likou 
+new: modern	nouvo	nuvo 
+night: aswar	fernwar	la*nwit	lannwit	lanwit 
+nighttime: aswar	fernwar	la*nwit	lannwit	lanwit 
+nose: ne*ne*	nennen 
+not: pa 
+adulterous: en	enn 
+one: en	enn 
+single: en	enn 
+that: sa 
+the: en	enn 
+unprincipled: en	enn 
+human: dimun	ime*	imen	za*s 
+human being: dimun	ime*	imen	za*s 
+person: dimun	ime*	imen	za*s 
+rain: lapli 
+rainy weather: lapli 
+red: rouz 
+path: sa*tye	seme*	sime* 
+road: sa*tye	seme*	sime* 
+route: sa*tye	seme*	sime* 
+root: rasin 
+round: ron 
+sand: disab 
+say: dir 
+see: truv	war 
+seed: perl	semans 
+sit: asize 
+hide: lapo	pe 
+skin: lapo	pe 
+sleep: dodo	dormi 
+little: pti 
+small: pti 
+smallness: pti 
+smoke: lafimen 
+star: zetwal 
+rock: pyer	ros	rose 
+stone: pyer	ros	rose 
+sun: soley 
+swim: naze 
+tail: lake 
+this: sennla 
+2 sg: ou	u 
+thou: ou	u 
+you: ou	u 
+tongue: la*gaz	lala*g	lalang 
+tooth: %meno	leda*	ledan	meno 
+tree: bwa	dibw~a	pye 
+grind: de 
+two: de 
+go: marse 
+walk: marse 
+hot: tyed 
+warm: tyed 
+water: delo	dilo 
+1 pl. inc.: nou	nu 
+we: nou	nu 
+we₁: nou	nu 
+what: kisisa	kwa 
+white: blan 
+whiteness: blan 
+who: ki sennla ki	lekel ki 
+who?: ki sennla ki	lekel ki 
+female: danre	fanm	madanm 
+woman: danre	fanm	madanm 
+yellow: zonn 
+distant: lwen 
+far: lwen 
+dull: lour 
+heavy: lour 
+serious: lour 
+close: koste	pre 
+near: koste	pre 
+ner: koste	pre 
+salt: disel 
+short: kourt 
+snake: koulev	serpan 
+thin: mens 
+wind: divan 
+earthworm: lever	leverdter 
+worm: lever	leverdter 
+year: lannen 
+2 pl.: zot 
+ye: zot 
+you all: zot 
+3 pl.: zot 
+they: zot 
+here: isi	lanmenm 
+there: la 
+where: kote	oli 
+where?: kote	oli 
+when: kan 
+when?: kan 
+how: konman 
+how?: konman 
+some: en pe	pti gin 
+few: pe	pti gin 
+other: lot 
+three: trwa 
+four: kat 
+five: senk	sẽk 
+broad: larz 
+wide: larz 
+wideness: larz 
+fat: lagres 
+thick: epe 
+narrow: etrwat 
+child: marmay	piti	toto	zanfan 
+principal wife: bonnfanm	madanm 
+wife: bonnfanm	madanm 
+husband: bonnonm	mari 
+his mother: mami	manman 
+mother: mami	manman 
+my mother: mami	manman 
+father: papa	papi 
+his father: papa	papi 
+my father: papa	papi 
+animal: bebet	zannimo 
+forest: dan bwa	fore 
+woods: dan bwa	fore 
+branch: brans	labrans 
+stick: brans	labrans 
+fruit: fri 
+flower: fler 
+grass: lerb	zerb 
+cord: basten	labaka	lakord 
+rope: basten	labaka	lakord 
+grease: lagres 
+fingernail: zong 
+leg: lazanm 
+wing: lezel 
+gut: trip	zentesten 
+guts: trip	zentesten 
+insides: trip	zentesten 
+intestine: trip	zentesten 
+intestines: trip	zentesten 
+back: ledo 
+suck: sise 
+spit: krase 
+vomit: degobiye	vomi 
+blow: soufle 
+breath: respire	ris lalenn 
+breathe: respire	ris lalenn 
+laugh: riy riye	riye 
+laughter: riy riye	riye 
+cogitate: gete	mazinen	panse 
+reflect: gete	mazinen	panse 
+think: gete	mazinen	panse 
+smell: santi 
+sniff: santi 
+afraid: krent	lafreyer	per	venet 
+be afraid: krent	lafreyer	per	venet 
+fear: krent	lafreyer	per	venet 
+fright: krent	lafreyer	per	venet 
+alive: viv	vivan 
+be alive: viv	vivan 
+life: viv	vivan 
+live: viv	vivan 
+living: viv	vivan 
+fight: bataye	lager 
+hunt: sase	serse 
+beat: bate	beze	bise	flanke	frape	marke	tape 
+hit: bate	beze	bise	flanke	frape	marke	tape 
+strike: bate	beze	bise	flanke	frape	marke	tape 
+cut: koupe 
+hack: koupe 
+cut open: fann 
+split: fann 
+pierce: pike 
+stab: pike 
+scratch: grate 
+dig: fouye	pyose 
+tell lies: koz mansonz	mandeng	manti 
+stand: debout 
+turn: devire 
+turn around: devire 
+turn round: devire 
+drop: tonm 
+fall: tonm 
+grasp: tenir	tyonbo 
+hold: tenir	tyonbo 
+hold in arm: tenir	tyonbo 
+squeeze: prese 
+wring: prese 
+rub: frote	souye	swiye 
+wipe: frote	souye	swiye 
+wash: bennyen	lave 
+wash clothes: bennyen	lave 
+push: pouse 
+shove: pouse 
+throw: zete 
+bind: anmare	garote	sele 
+fasten: anmare	garote	sele 
+tie: anmare	garote	sele 
+tie up: anmare	garote	sele 
+sew: koud	pike 
+count: konte 
+enumerate: konte 
+number: konte 
+tally: konte 
+sing: sante 
+have fun: zwe 
+play: zwe 
+float: flote 
+flow: koule 
+brook: larivyer 
+river: larivyer 
+stream: larivyer 
+lake: lak 
+ocean: lanmer 
+sea: lanmer 
+dust: lapousyer 
+fog: brouyar	lafoumbal 
+sky: lesyel 
+snow: lanez	lannez 
+ice: ays	glason 
+blaze: brile 
+burn: brile 
+day: lizour	zour 
+daylight: lizour	zour 
+daytime: lizour	zour 
+bad: move	pir 
+evil: move	pir 
+rot: pouri 
+rotten: pouri 
+dirty: kosonnyen	malang	sal	torsonnen 
+filthy: kosonnyen	malang	sal	torsonnen 
+soiled: kosonnyen	malang	sal	torsonnen 
+straight: tou drwat 
+sharp: fite 
+blunt: grat 
+smooth: marbre 
+damp: imid 
+wet: imid 
+correct: korek	zis 
+right side: drwat 
+left: gos 
+at: avek	ek	kot	lo 
+in: anndan	dan 
+inside: anndan	dan 
+with: avek	ek 
+and: avek	e	ek 
+if: si 
+because: akoz	parske 

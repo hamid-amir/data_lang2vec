@@ -1,0 +1,342 @@
+all: tot 
+ashes: zenisa 
+bark: crosta 
+belly: bientre | bientre	pancha	panza	tripa 
+big: gran 
+bird: paxaro | muxón	paxaro 
+bite: mosaquiar 
+black: negro 
+blood: sangre | saNgre	sangre 
+bone: güeso | gw~eso	güeso 
+breast: peito 
+burn: cremar 
+cloud: boira 
+cloud: nuble | boira 
+cold: fredo 
+come: benir 
+die: morir 
+dog: can | can	cocho	kan	koCo 
+dog: cocho | can	cocho	kan	koCo 
+drink: beber 
+dry: xuto | ixeco	ixuto 
+ear: orella | oreLa	orella 
+earth: tierra 
+eat: minchar 
+egg: güego 
+eye: güello | gw~eLo	güello 
+fat (n.): grasa 
+feather: pluma 
+fingernail: zarpa | ungla	uña 
+fire: fuego 
+fish: pex | peS	peSe	pex 
+fly (v.): bolar 
+foot: piet 
+full: pleno | plen	pleno 
+give: dar 
+good: bueno | buen	bueno 
+green: berde 
+hair: pelo | pel	pelo 
+hand: man 
+head: capeza | capeza	tozuelo 
+head: tozuelo | capeza	tozuelo 
+hear: sentir 
+heart: corazón 
+horn: cuerno | cuerno	kw~erno 
+I: yo 
+kill: matar 
+knee: chinollo | CenuLo	CinoLo	chenullo	chinollo 
+know: saber | saper 
+leaf: fuella | fueLa	fuella 
+lie: chitar-se | chazer	estar chitato 
+liver: figado 
+long: largo | largo	luengo 
+louse: pegollo | peduLo	pedullo	pegoLo	pegollo 
+man: ombre 
+many: muitos 
+meat: carne | carne	pizca 
+moon: luna | lluna	luna 
+mountain: mon 
+mouth: boca 
+name: nombre | nombre	nome 
+neck: cuello 
+new: nuebo 
+night: nuei | nueit 
+nose: nariz | nari8	nariz	naso 
+nose: naso | nari8	nariz	naso 
+not: no 
+one: uno | un	uno 
+person: presona | ombre 
+rain: plebia 
+red: royo 
+road: camín | camín	kamin 
+root: radiz 
+round: redoncho | redondo	roncho	rondo 
+round: redondo | redondo	roncho	rondo 
+sand: arena 
+say: dezir | dizir | arena 
+see: beyer 
+seed: simién 
+sit: posar-se | estar posato	posar-se 
+skin: pelello | peleLo	pelello	piel 
+sleep: dormir 
+small: chiquet | chicot	chiquet 
+smoke: fumo 
+stand: estar de piet | estar de piet	plantar 
+stand: plantar | estar de piet	plantar 
+star: estrela 
+stone: peña | cantal	kantal	pe5a	peña 
+sun: sol 
+swim: nadar 
+tail: coda 
+that: ixe | un	uno 
+this: iste 
+thou: tu 
+tonge: luenga 
+tooth: dien 
+tree: árbol | arbol	árbol 
+two: dos 
+walk: caminar 
+warm: calién 
+water: augua | augua	augw~a 
+we: nusatros | nusaltros	nusatros 
+what: qué 
+white: blanco | blanco	blango 
+who: quí 
+woman: muller 
+yellow: amariello 
+every: tot 
+ash: zenisa 
+abdomen: bientre	pancha	panza	tripa 
+bigness: gran 
+large: gran 
+breasts: peito 
+come from: benir 
+be dead: morir 
+dead: morir 
+ground: tierra 
+land: tierra 
+soil: tierra 
+fly: bolar 
+fly v.: bolar 
+left hand: man 
+right: man 
+1 sg.: yo 
+be knowledgeable: saper 
+head louse: peduLo	pedullo	pegoLo	pegollo 
+male: ombre	ome 
+much: muitos 
+multiple: muitos 
+several: muitos 
+hill: mon 
+title: nombre	nome 
+nighttime: nueit 
+adulterous: un	uno 
+single: un	uno 
+the: un	uno 
+unprincipled: un	uno 
+human: ombre 
+human being: ombre 
+rainy weather: plebia 
+path: camín	kamin 
+route: camín	kamin 
+hide: peleLo	pelello	piel 
+little: chicot	chiquet 
+smallness: chicot	chiquet 
+rock: cantal	kantal	pe5a	peña 
+2 sg: tu 
+you: tu 
+tongue: LueNga	lluenga	lueNga	luenga 
+grind: dos 
+go: caminar 
+hot: calién 
+1 pl. inc.: nusaltros	nusatros 
+we₁: nusaltros	nusatros 
+whiteness: blanco	blango 
+who?: quí 
+female: muller 
+distant: lexos	luen	lueñes 
+far: lexos	luen	lueñes 
+dull: pesato 
+heavy: pesato 
+serious: pesato 
+close: amán	zerca 
+near: amán	zerca 
+ner: amán	zerca 
+salt: sal 
+short: curto 
+snake: serpién 
+thin: fin	fino 
+wind: aire	biento 
+earthworm: cuco 
+worm: cuco 
+year: añada	año 
+3 sg.: er	él 
+he: er	él 
+she: er	él 
+2 pl.: busaltros	busatros 
+ye: busaltros	busatros 
+you all: busaltros	busatros 
+3 pl.: ellos	ers 
+they: ellos	ers 
+here: aquí	astí 
+there: allá 
+where: dó	á on	án 
+where?: dó	á on	án 
+when: cuán 
+when?: cuán 
+how: cómo 
+how?: cómo 
+some: bels	cualques 
+few: pocos 
+other: atro 
+three: tres 
+four: cuatre	cuatro 
+five: zinco	zingo 
+broad: amplo 
+wide: amplo 
+wideness: amplo 
+fat: graxa 
+thick: grueso 
+narrow: estreito 
+child: nino	zagal 
+principal wife: muller 
+wife: muller 
+husband: marito 
+his mother: mai 
+mother: mai 
+my mother: mai 
+father: pai 
+his father: pai 
+my father: pai 
+animal: animal 
+forest: selba 
+woods: selba 
+branch: tocho 
+stick: tocho 
+fruit: fruito 
+flower: flor 
+grass: yerba 
+cord: beta	cuerda 
+rope: beta	cuerda 
+flesh: carne	pizca 
+grease: graxa 
+claw: ungla	uña 
+nail: ungla	uña 
+leg: garra 
+arm: man 
+wing: ala 
+gut: budiellos	tripas 
+guts: budiellos	tripas 
+insides: budiellos	tripas 
+intestine: budiellos	tripas 
+intestines: budiellos	tripas 
+back: espalda	esquena 
+suck: chupar	laminar	sucar 
+spit: escupir 
+vomit: gomecar 
+blow: bufar	soflar 
+breath: alentar 
+breathe: alentar 
+laugh: arreguir	redir 
+laughter: arreguir	redir 
+cogitate: pensar 
+reflect: pensar 
+think: pensar 
+smell: fer ulor	ulorar 
+sniff: fer ulor	ulorar 
+afraid: temer	tener miedo 
+be afraid: temer	tener miedo 
+fear: temer	tener miedo 
+fright: temer	tener miedo 
+alive: bibir 
+be alive: bibir 
+life: bibir 
+live: bibir 
+living: bibir 
+fight: luitar 
+hunt: cazar 
+beat: golpiar	trucar 
+hit: golpiar	trucar 
+strike: golpiar	trucar 
+cut: tallar 
+hack: tallar 
+cut open: estallar	partir	troxar 
+split: estallar	partir	troxar 
+pierce: apuñalar 
+stab: apuñalar 
+scratch: arrascar	escarrar	gratar 
+dig: afoyar	cabar 
+lie down: chazer	estar chitato 
+tell lies: chazer	estar chitato 
+turn: chirar 
+turn around: chirar 
+turn round: chirar 
+drop: cayer 
+fall: cayer 
+grasp: amparar	sustener 
+hold: amparar	sustener 
+hold in arm: amparar	sustener 
+squeeze: pretar 
+wring: pretar 
+rub: esfrecar	esfregar 
+wipe: axugar	ixucar 
+wash: labar	llabar 
+wash clothes: labar	llabar 
+pull: estirar 
+push: empentar	empuxar 
+shove: empentar	empuxar 
+throw: chitar	itar 
+bind: ligar	piar 
+fasten: ligar	piar 
+tie: ligar	piar 
+tie up: ligar	piar 
+sew: cusir 
+count: contar 
+enumerate: contar 
+number: contar 
+tally: contar 
+sing: cantar 
+have fun: chugar 
+play: chugar 
+float: flotar 
+flow: fluyir 
+freeze: chelar	conchelar 
+swell: inflar 
+brook: río 
+river: río 
+stream: río 
+lake: ibón	laco 
+ocean: mar 
+sea: mar 
+dust: polbo 
+fog: boira 
+sky: zielo 
+snow: nieu 
+ice: chel	chelo 
+blaze: cremar 
+day: día 
+daylight: día 
+daytime: día 
+old: biello 
+bad: dolento	dolén	malo 
+evil: dolento	dolén	malo 
+rot: putrito 
+rotten: putrito 
+dirty: fozín	puerco 
+filthy: fozín	puerco 
+soiled: fozín	puerco 
+straight: reuto 
+sharp: acuto	esmolato	punchuto 
+smooth: fin	fino	liso	lliso	plan	plano 
+damp: mullato	umedo 
+wet: mullato	umedo 
+correct: correuto 
+right side: dreita 
+left: cucha	zurda 
+at: en	á 
+in: en	á 
+inside: en	á 
+with: con 
+and: e	y 
+if: se	si 
+because: perque	porque 

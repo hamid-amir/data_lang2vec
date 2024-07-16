@@ -1,0 +1,265 @@
+all: labbasakayi	lansung	lunlun	mimon	sikamimon	suku 
+every: labbasakayi	lansung	lunlun	mimon	sikamimon	suku 
+ash: abu 
+ashes: abu 
+abdomen: babat	battong 
+belly: babat	battong 
+big: luha	mehe 
+bigness: luha	mehe 
+large: luha	mehe 
+bird: manuk-manuk 
+bite: keket 
+black: itom 
+blood: laha7	lahaʼ 
+bone: towaN	towang 
+breast: dakan	duru7	duruʼ 
+breasts: dakan	duru7	duruʼ 
+burn: tunu 
+burn tr.: tunu 
+cloud: tayiʼ baliyu 
+cold: tanne 
+come: pitu 
+come from: pitu 
+be dead: imuwa	matay	patay	uwapat	wapat 
+dead: imuwa	matay	patay	uwapat	wapat 
+die: imuwa	matay	patay	uwapat	wapat 
+dog: ido7	idoʼ	iro7	iroʼ 
+drink: inum 
+dry: kaling	kattaʼ	lagguʼ	langkoy 
+ear: tiNa	tinga 
+eat: kakan	mangan 
+egg: intallo 
+eye: mata 
+feather: bū 
+fire: api 
+fish: dayiN	daying 
+fly: lomeng 
+fly v.: lomeng 
+good: mahāp 
+green: garung 
+hair: dawun	dun 
+hand: taNan	tangan 
+left hand: taNan	tangan 
+right: taNan	tangan 
+head: kōk	takōk 
+hear: kale	ke	kē 
+1 sg.: aku	ku 
+I: aku	ku 
+kill: bonoʼ	patay	patoy 
+be knowledgeable: tau	toon 
+know: tau	toon 
+leaf: dawun	dun 
+lie: bāk 
+lie down: bāk 
+liver: atay	atoy 
+long: tahaʼ 
+head louse: kutu 
+louse: kutu 
+male: lalla 
+man: jama	manusiya7	manusiyaʼ 
+moon: buwan 
+mouth: behe 
+name: awon 
+title: awon 
+neck: kallong 
+new: bahau 
+night: bahaNi	bahangi	saNom	sangom 
+nighttime: bahaNi	bahangi	saNom	sangom 
+nose: sammo	samo 
+adulterous: dambuwaʼ	damb~uwa7	disu	issa	mbaʼ	mbuwaʼ 
+one: dambuwaʼ	damb~uwa7	disu	issa	mbaʼ	mbuwaʼ 
+single: dambuwaʼ	damb~uwa7	disu	issa	mbaʼ	mbuwaʼ 
+that: ilooy	inaa	inē	looy	naa	nee 
+the: dambuwaʼ	damb~uwa7	disu	issa	mbaʼ	mbuwaʼ 
+unprincipled: dambuwaʼ	damb~uwa7	disu	issa	mbaʼ	mbuwaʼ 
+human: jama	manusiya7	manusiyaʼ 
+human being: jama	manusiya7	manusiyaʼ 
+person: jama	manusiya7	manusiyaʼ 
+rain: uwan 
+rainy weather: uwan 
+red: akket	ngallab 
+path: lan	lān 
+road: lan	lān 
+route: lan	lān 
+root: gamut 
+sand: ungus 
+say: bāʼ	halling	kawul	lapa	suwara	yuk 
+see: kita	ndaʼ	nd~a7 
+sit: tingkō 
+hide: kuwit 
+skin: kuwit 
+sleep: tuli 
+little: dikiʼ 
+small: dikiʼ 
+smallness: dikiʼ 
+smoke: humbu 
+star: potean 
+rock: batu 
+stone: batu 
+swim: langi 
+tail: ingko 
+this: itee	ituu	tee	tuu	tē 
+2 sg: kau	ko 
+thou: kau	ko 
+you: kau	ko 
+tongue: dala7	dallaʼ 
+tooth: impon	imp~on 
+grind: dua	duwa 
+two: dua	duwa 
+go: lumān 
+walk: lumān 
+hot: pasuʼ 
+warm: pasuʼ 
+water: bohe7	boheʼ 
+1 pl. inc.: kami	kitabi	ta	tabi 
+we: kami	kitabi	ta	tabi 
+we₁: kami	kitabi	ta	tabi 
+what: soy 
+white: poteʼ 
+whiteness: poteʼ 
+who: soy 
+who?: soy 
+female: danda 
+woman: danda 
+yellow: kunit 
+distant: lawak	tā 
+far: lawak	tā 
+dull: bohat 
+heavy: bohat 
+serious: bohat 
+close: pook	tapit	tappi 
+near: pook	tapit	tappi 
+ner: pook	tapit	tappi 
+salt: timus 
+short: pinggod	pook 
+snake: sō 
+thin: lannik	nipis	usuk 
+wind: baliyu 
+earthworm: uwot 
+worm: uwot 
+year: taun 
+2 pl.: bi	kaam	kam	kau	ko	nu 
+ye: bi	kaam	kam	kau	ko	nu 
+you all: bi	kaam	kam	kau	ko	nu 
+3 pl.: da	sila 
+they: da	sila 
+where: ningga	ninggai	noy 
+where?: ningga	ninggai	noy 
+when: apabila	bila	bong	hmilan	pag	sumilan 
+when?: apabila	bila	bong	hmilan	pag	sumilan 
+how: pooy 
+how?: pooy 
+other: sarī 
+three: tallu	təllu 
+four: mpat 
+five: lima 
+broad: lambu	sabbo 
+wide: lambu	sabbo 
+wideness: lambu	sabbo 
+fat: hambug	lammok 
+thick: baga	kapa	sabbo 
+narrow: kiput	pipit 
+principal wife: nda 
+wife: nda 
+husband: lla 
+his mother: induʼ	nneʼ 
+mother: induʼ	nneʼ 
+my mother: induʼ	nneʼ 
+father: mmaʼ 
+his father: mmaʼ 
+my father: mmaʼ 
+forest: guwangan 
+woods: guwangan 
+branch: engas 
+stick: engas 
+fruit: buwaʼ 
+flower: sumping-sumping 
+grass: kuhun	parang	tahid 
+cord: ingkot 
+rope: ingkot 
+flesh: isi	sumbalian 
+meat: isi	sumbalian 
+grease: hambug	lammok 
+wing: pikpik 
+gut: babat	tabbuk 
+guts: babat	tabbuk 
+insides: babat	tabbuk 
+intestine: babat	tabbuk 
+intestines: babat	tabbuk 
+back: bukut 
+suck: sassop 
+spit: luraʼ	luwa 
+vomit: utaʼ 
+blow: tiyup 
+breath: inansong	napas 
+breathe: inansong	napas 
+laugh: tatto 
+laughter: tatto 
+cogitate: hiyang-hiyang	kanna	kumpas	niyat	piki 
+reflect: hiyang-hiyang	kanna	kumpas	niyat	piki 
+think: hiyang-hiyang	kanna	kumpas	niyat	piki 
+smell: sangngok-sangngok	ūk 
+sniff: sangngok-sangngok	ūk 
+afraid: tawu 
+be afraid: tawu 
+fear: tawu 
+fright: tawu 
+alive: lahat 
+be alive: lahat 
+life: lahat 
+live: lahat 
+living: lahat 
+beat: badji	suntuk 
+hit: badji	suntuk 
+strike: badji	suntuk 
+cut: kantamaʼ	tigad 
+hack: kantamaʼ	tigad 
+cut open: bakkaʼ	leak	selak 
+split: bakkaʼ	leak	selak 
+pierce: dugsuʼ	punyal	suruk	tugsuk 
+stab: dugsuʼ	punyal	suruk	tugsuk 
+scratch: gahit	kakayaw 
+dig: kali 
+stand: tangge 
+drop: hantak	labuʼ	latak 
+fall: hantak	labuʼ	latak 
+grasp: kammo	komkom	ntan	tayak 
+hold: kammo	komkom	ntan	tayak 
+hold in arm: kammo	komkom	ntan	tayak 
+squeeze: gipit	paggaʼ	passi 
+wring: gipit	paggaʼ	passi 
+throw: hiyak 
+bind: bintus	ingkot	lagot 
+fasten: bintus	ingkot	lagot 
+tie: bintus	ingkot	lagot 
+tie up: bintus	ingkot	lagot 
+sew: tahiʼ 
+count: itung 
+enumerate: itung 
+number: itung 
+tally: itung 
+flow: liyud 
+lake: danaw 
+ocean: dilawut 
+sea: dilawut 
+dust: momok 
+fog: ambun 
+sky: awan	langit 
+bad: dahulakaʼ	dusa	jahallis	kalaatan	maat	tillakaʼ 
+evil: dahulakaʼ	dusa	jahallis	kalaatan	maat	tillakaʼ 
+rot: haluʼ 
+rotten: haluʼ 
+dirty: lamaʼ	lamaʼ-lamaʼ 
+filthy: lamaʼ	lamaʼ-lamaʼ 
+soiled: lamaʼ	lamaʼ-lamaʼ 
+sharp: tawom 
+blunt: pappod	popo	tompo 
+damp: baseʼ	ngambang 
+wet: baseʼ	ngambang 
+right side: kawnan	konan 
+left: kayli	kili 
+at: hambit	hiyun	huwin	ni 
+in: jawom	ni 
+inside: jawom	ni 
+and: ka	maka 
+if: apabila	bila	bong 

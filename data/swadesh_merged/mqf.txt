@@ -1,0 +1,216 @@
+all: ini 
+arm: te ~ teri 
+arm: te ≈ teri 
+arm: tò 
+ashes: kukwa sekeri | kukwa sekeri	sɛkɛdi	sɛkɛdu 
+at: a 
+at: tee 
+at: tere 
+at: ya 
+back: kaki 
+bird: má | maː	mɐ 
+black: boroga | boroga	tumi 
+blood: ɟanɨ | yunɪ	ɟanɨ 
+blood: djanï | yunɪ	ɟanɨ 
+bone: toko | kurɔ	kuɾɔ	toko 
+brother: ké 
+brother: kenee 
+cassowary: witi 
+child: meé 
+come: kati- | katiɛ	katiɛma	kɐtiɛ mɐ	meiyo 
+come: meiyo | katiɛ	katiɛma	kɐtiɛ mɐ	meiyo 
+cut: bi- 
+cut: to- 
+die: kweea- | kweːa	kweːaboː	kweːɐ boː 
+dog: kwoka | kwoka	kɔ 
+earth: boóroo | burukwe 
+earth: burukwe 
+eat: nowa- | nowa-	reː reː mɐ	reː-reːma	reːma 
+eat: re(e)- | nowa-	reː reː mɐ	reː-reːma	reːma 
+eat: ru- | nowa-	reː reː mɐ	reː-reːma	reːma 
+egg: magisaga | dɔku	magisaga 
+eye: otu | otu	ɔtu 
+fall: reka sire- 
+fingernail: tewin 
+fire: kukwa | kukwa	kukʷa	kukʷe 
+give: kana- | kana-	sera	seraboː	sərɐ boː 
+give: sera- | kana-	sera	seraboː	sərɐ boː 
+good: kwone | kurɔ	kuɾɔ	kwone 
+hair: toko-ate | atɛ	toko-ate	tɔku atɛ	tɔku ɐtɛ	ɐtɛ 
+head: memenee | toko	tɔku 
+head: toko | toko	tɔku 
+head: toko(o) | toko	tɔku 
+he/she: mo 
+he/she: V-oo 
+hit: bo- 
+house: boó 
+I: -a | na	nagu	nɐ 
+I: na | na	nagu	nɐ 
+I: nagu | na	nagu	nɐ 
+in: bokoo 
+in: tee 
+kill: meranee- | o	o boː	oboː 
+kill: o- | o	o boː	oboː 
+leg: idjo-ku 
+leg: iɟo-ku 
+louse: amega 
+man: mogo-mearu | nya	nyɐ 
+many: titi 
+meat: taeé | taeː	tɐeː 
+morning: keera- 
+mother: noó 
+near: booro | bɔrɔ	bɔɾɔ 
+night: kwiree-kwiree- | kurɛmɐ	kuɾɛma 
+not: mera 
+not: nà 
+not: sei 
+one: outoo | duku sunu	dukusunu 
+one: rookoò | duku sunu	dukusunu 
+person: meé aroo | nya	nyɐ 
+person: nyá | nya	nyɐ 
+river: ín 
+road: oto 
+say: ya- | baŋkɪ	bɐŋki 
+see: baree- | bareː	bareːyoː	bari-	bɐreː yoː 
+see: bari- | bareː	bareːyoː	bari-	bɐreː yoː 
+see: beresini- | bareː	bareːyoː	bari-	bɐreː yoː 
+sit: bu- | bu	bu mɐ	bu-	buma 
+skin: ke | ke	kɛ 
+skin: kè | ke	kɛ 
+sleep: mee- | mi mɐ	mɪ	mɪma	nono-nono mei- 
+sleep: nono-nono mei- | mi mɐ	mɪ	mɪma	nono-nono mei- 
+small: sooe | mi sue	sue 
+snake: ké | kɛ 
+stab: to- 
+stand: takee- 
+stone: kɨ | ki	kɨ	kɪ 
+stone: kï | ki	kɨ	kɪ 
+sun: eekee | iki	ɨkɨ	ɪkɪ 
+sun: ïkï | iki	ɨkɨ	ɪkɪ 
+sun: ɨkɨ | iki	ɨkɨ	ɪkɪ 
+swim: koo- 
+tail: eebee | ibi	tongua bamɔ	ɪbɪ 
+tail: ton.gua bamò | ibi	tongua bamɔ	ɪbɪ 
+tail: tongua bamɔ | ibi	tongua bamɔ	ɪbɪ 
+take: kyesini- 
+take: te(e)- 
+take: wera- 
+that: anee | aneʼe	ɐneʼe 
+there: kera 
+there: kooto 
+they: -era 
+they: tun 
+this: me 
+thou: ko | kun 
+thou: -o | kun 
+today: abee 
+tooth: iɟa | iɟa	yu 
+tooth: idja | iɟa	yu 
+tooth: yoó | iɟa	yu 
+tree: boò 
+tree: kò 
+tree: kwo 
+turn: tetera- 
+two: keiyo | kəiyɔ	kɪiyɔ 
+walk: be- 
+walk: bo- 
+walk: boo- 
+walk: o- 
+walk: retoo- 
+walk: to- 
+water: ín | iŋga	mɛnɛi	mɛnɛɪ 
+water: ingga | iŋga	mɛnɛi	mɛnɛɪ 
+water: iŋga | iŋga	mɛnɛi	mɛnɛɪ 
+weep: teetee 
+weep: teetee te- 
+we: -era | in 
+we: in 
+we: inanuga 
+wife: manta 
+with: keiyoko 
+woman: nooain | nuain	nuɐin 
+you: -era | kun 
+you: kun 
+every: ini 
+ash: kukwa sekeri	sɛkɛdi	sɛkɛdu 
+abdomen: mɪ 
+belly: mɪ 
+big: kabimi	kɐbimi 
+bigness: kabimi	kɐbimi 
+large: kabimi	kɐbimi 
+bite: nɛ	yu nɛ 
+breast: moʊ̃	mɔu 
+breasts: moʊ̃	mɔu 
+cloud: biari	biaɾɪ 
+cold: kɯɐti	kʷatɪ 
+come from: katiɛ	katiɛma	kɐtiɛ mɐ	meiyo 
+be dead: kweːa	kweːaboː	kweːɐ boː 
+dead: kweːa	kweːaboː	kweːɐ boː 
+drink: di mɐ	mɛnɛi di mɐ	mɛnɛi dima 
+dry: kikiru	kikiɾu 
+ear: aːtɛ	ɐtɛ 
+ground: burukwe 
+land: burukwe 
+soil: burukwe 
+fish: ki	kɪ 
+fly: osabɔ	osabɔma	osɐbɔ mɐ 
+fly v.: osabɔ	osabɔma	osɐbɔ mɐ 
+foot: yɔku 
+full: bɔsuɾu 
+green: bɔtumi 
+hand: tɛ 
+left hand: tɛ 
+right: tɛ 
+hear: atɛ baɾə	atɛ baɾəma	ɐtɛ bɐri mɐ 
+heart: duru dɔku	duɾu dɔku 
+1 sg.: na	nagu	nɐ 
+leaf: kɛtɛ 
+long: wumi	wumɪ 
+male: mogo-mearu	mukɔ miaɾɔ	mukɔ miɐrɔ 
+flesh: taeː	tɐeː 
+moon: da	dɐ 
+hill: tɔu 
+mountain: tɔu 
+mouth: bɔkɛ 
+name: si 
+title: si 
+nighttime: kurɛmɐ	kuɾɛma 
+nose: kʷɛkɔrɔ	kʷɛkɔɾɔ 
+adulterous: duku sunu	dukusunu 
+single: duku sunu	dukusunu 
+the: duku sunu	dukusunu 
+unprincipled: duku sunu	dukusunu 
+human: nya	nyɐ 
+human being: nya	nyɐ 
+rain: mu 
+rainy weather: mu 
+red: ikɛmi 
+sand: baŋkɪ	bɐŋki 
+seed: dɔku 
+hide: ke	kɛ 
+little: mi sue	sue 
+smallness: mi sue	sue 
+smoke: itɔ 
+star: unu 
+rock: ki	kɨ	kɪ 
+2 sg: kun 
+tongue: ɔrɔ	ɔɾɔ 
+grind: kəiyɔ	kɪiyɔ 
+1 pl. inc.: in 
+we₁: in 
+what: məta	mɪtɐ 
+white: kʷɛmi 
+whiteness: kʷɛmi 
+female: nuain	nuɐin 
+yellow: sɔimi 
+distant: bɔtəmay	bɔtɪmɐy 
+far: bɔtəmay	bɔtɪmɐy 
+dull: ɔnu 
+heavy: ɔnu 
+serious: ɔnu 
+close: bɔrɔ	bɔɾɔ 
+ner: bɔrɔ	bɔɾɔ 
+salt: mayu	mɐyu 
+short: bunumi 
+thin: wɛmi 
+wind: abyanɪ	ɐbyɐni 

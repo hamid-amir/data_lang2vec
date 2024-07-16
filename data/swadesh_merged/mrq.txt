@@ -1,0 +1,302 @@
+all: tiatohu 
+every: tiatohu 
+ash: kaàhu	ke/ʻehu/	kehu ahi	kehu/ahi	ànahu	éhuahi	ʻehu/ahi 
+ashes: kaàhu	ke/ʻehu/	kehu ahi	kehu/ahi	ànahu	éhuahi	ʻehu/ahi 
+bark: kií 
+abdomen: kopu	ʻopu 
+belly: kopu	ʻopu 
+big: haáípaípa	maaka	nui	tiétié 
+bigness: haáípaípa	maaka	nui	tiétié 
+large: haáípaípa	maaka	nui	tiétié 
+bird: manu	úpe 
+bite: kakahu	nahu	nennahhu 
+black: hivahiva	kèe/kèe 
+blood: toto 
+bone: ivi 
+breast: kiʻi nene	koekoe	kopu	u	uma	umauma 
+breasts: kiʻi nene	koekoe	kopu	u	uma	umauma 
+burn: hakauʻa	tutu 
+burn tr.: hakauʻa	tutu 
+claw: maikuku	maiúú	matiúú 
+nail: maikuku	maiúú	matiúú 
+talon: maikuku	maiúú	matiúú 
+cloud: ao	ao (i) 
+cold: anu	kamariri	kamaìì	kamaíí	makai	makaìì	makkarede 
+come: heʻe mai	tihe 
+come from: heʻe mai	tihe 
+be dead: kèo	mate 
+dead: kèo	mate 
+die: kèo	mate 
+dog: nuhe	peto 
+drink: inu 
+dry: moʻo	pa/paka/	paka	pakaka 
+ear: pua/ìka/	pua/ìna/	puaika 
+earth: one	épo 
+ground: one	épo 
+land: one	épo 
+soil: one	épo 
+eat: kai	mea e kai	oá	ʻai 
+egg: mamai	mamaʻi 
+eye: kikomata	konohi	korohi	mata 
+feather: huú	huú manu 
+fire: ahi 
+fish: ika	ià	iá 
+fly: kamo	ona	toó pu 
+fly v.: kamo	ona	toó pu 
+foot: vae	vaevae 
+give: tuú 
+good: kanahau	meitaì	meitaí	ʻeka 
+green: (ʻ?)outiteʻe	ki óu ti teé 
+hair: huʻu	ouoho	ʻouoho 
+hand: ima	ìma	íma 
+left hand: ima	ìma	íma 
+right: ima	ìma	íma 
+head: upoko	upoó	uʻu 
+hear: ʻoko	ʻono 
+heart: e houpo 
+horn: keo	niho 
+1 sg.: =ʻu	au	ú 
+I: =ʻu	au	ú 
+kill: haámate	kukumi	pehi	tinai 
+knee: muo	muó 
+be knowledgeable: hani 
+know: hani 
+leaf: àu	áu	óu 
+lie: haá moe	moe 
+lie down: haá moe	moe 
+liver: ate 
+long: ʻoa 
+head louse: kutu	kutu papa	ʻutu 
+louse: kutu	kutu papa	ʻutu 
+male: heko	kenana	tama ʻoa	tane	toa	énata 
+man: enana	enata	kenana	énana	énata	ʻenana	ʻenata 
+many: manomano	mea nui	nui	peéti peéti	tinitini 
+much: manomano	mea nui	nui	peéti peéti	tinitini 
+multiple: manomano	mea nui	nui	peéti peéti	tinitini 
+several: manomano	mea nui	nui	peéti peéti	tinitini 
+flesh: kiko 
+meat: kiko 
+moon: mahina	meʻama 
+hill: ivi	tuaivi	uta 
+mountain: ivi	tuaivi	uta 
+mouth: fafa	haha	nutu 
+name: ikoa	inoa 
+title: ikoa	inoa 
+neck: kaakii	kaki	tumu kaki	áí 
+new: hou 
+night: poo 
+nighttime: poo 
+nose: ihu 
+adulterous: e tahi	etahi	tahi 
+one: e tahi	etahi	tahi 
+single: e tahi	etahi	tahi 
+that: iaʻa	na	tena	teʻaa 
+the: e tahi	etahi	tahi 
+unprincipled: e tahi	etahi	tahi 
+human: enana	enata	kenana	énana	énata	ʻenana	ʻenata 
+human being: enana	enata	kenana	énana	énata	ʻenana	ʻenata 
+person: enana	enata	kenana	énana	énata	ʻenana	ʻenata 
+rain: ua	uá 
+rainy weather: ua	uá 
+red: kuwa	kuà	kuá	pukiki 
+path: anui	puta	vaà/nui 
+road: anui	puta	vaà/nui 
+route: anui	puta	vaà/nui 
+root: aka	áka 
+round: kapoípoí	ápoípoí 
+sand: one 
+say: peáu	tekao	teáo	í 
+see: íte 
+seed: kakano 
+sit: haá noho	noho 
+hide: ki	kiì	kií 
+skin: ki	kiì	kií 
+sleep: hiamoe 
+little: hunahuna	iti	kaiu	momo	poto	ìki 
+small: hunahuna	iti	kaiu	momo	poto	ìki 
+smallness: hunahuna	iti	kaiu	momo	poto	ìki 
+smoke: au/ahi	auahi 
+star: e mata fetu	fettoe	fetu	fetuu	hetu	hetuu 
+rock: hatu-keàa	kea	keá	keʻa	kiíkií	tuki	tukií 
+stone: hatu-keàa	kea	keá	keʻa	kiíkií	tuki	tukií 
+sun: oumati 
+swim: kau	kaukau 
+tail: hiku	iku	veó	veó poto	veó óa	vèo 
+this: tenei 
+2 sg: koe	koe~ʻoe	óe 
+thou: koe	koe~ʻoe	óe 
+you: koe	koe~ʻoe	óe 
+tongue: aéó	aʻèo	éó 
+tooth: niho 
+tree: tumu akau 
+grind: e úa	e7ua	ʻua 
+two: e úa	e7ua	ʻua 
+go: heke	heé	hiti	hèe	taha	éé 
+walk: heke	heé	hiti	hèe	taha	éé 
+hot: haʻamaahanahana	mahana 
+warm: haʻamaahanahana	mahana 
+water: vai 
+1 pl. inc.: matou	maua	tatou	taua	taúa 
+we: matou	maua	tatou	taua	taúa 
+we₁: matou	maua	tatou	taua	taúa 
+what: aha 
+white: maita	maita hateóteó	tavaiʻe	tavatava	tavaíé	tea	teko	tèo 
+whiteness: maita	maita hateóteó	tavaiʻe	tavatava	tavaíé	tea	teko	tèo 
+who: ai	ó ai 
+who?: ai	ó ai 
+female: -hine	vehine	vehíne 
+woman: -hine	vehine	vehíne 
+yellow: putokatoha	tokatoka 
+distant: mamao	memaʻo	óa 
+far: mamao	memaʻo	óa 
+dull: toko	tono 
+heavy: toko	tono 
+serious: toko	tono 
+close: tata	tata me	taá	í pataá	í pií 
+near: tata	tata me	taá	í pataá	í pií 
+ner: tata	tata me	taá	í pataá	í pií 
+salt: kanatai	paʻatai	puhinaú 
+short: nohinohi	poto 
+snake: puhi henua 
+thin: kahikahi	piáhiáhi	áhiáhi	ákiaki 
+wind: metaki	metaki oko	metani 
+earthworm: noke	toke	toʻe 
+worm: noke	toke	toʻe 
+year: e mei nui	e puni	huaʻa	tau 
+2 pl.: koe~ʻoe	kootou	kotou	koʻua	ótou	ʻotou 
+ye: koe~ʻoe	kootou	kotou	koʻua	ótou	ʻotou 
+you all: koe~ʻoe	kootou	kotou	koʻua	ótou	ʻotou 
+3 pl.: ʻatou 
+they: ʻatou 
+where: hea 
+where?: hea 
+when: aahea 
+when?: aahea 
+how: e aha	peehea	peheá 
+how?: e aha	peehea	peheá 
+other: ke 
+three: e toú	toʻu 
+four: e fa	faa 
+five: e íma	ʻima 
+broad: fatea 
+wide: fatea 
+wideness: fatea 
+fat: hinu àma	kao	kerehi 
+thick: moto`u 
+narrow: faiti	iti 
+child: tama	tama óa	toiti 
+principal wife: vehine 
+wife: vehine 
+husband: hahana	vahana	áhana 
+his mother: kui 
+mother: kui 
+my mother: kui 
+father: motua 
+his father: motua 
+my father: motua 
+animal: e puaka	e puaá 
+forest: taha teita nui	vao 
+woods: taha teita nui	vao 
+branch: e mana	e manamana	àà 
+stick: e mana	e manamana	àà 
+fruit: hua 
+flower: pua	tiaé 
+grass: mutie	teita	éita) 
+cord: touà	touá 
+rope: touà	touá 
+grease: hinu àma	kao	kerehi 
+fingernail: maikuku 
+leg: vae	vaevae 
+wing: e keheu	e peheu	e pekeheu	peheu	pekeu 
+gut: koekoe 
+guts: koekoe 
+insides: koekoe 
+intestine: koekoe 
+intestines: koekoe 
+back: tua 
+suck: omo	ʻomo 
+spit: tufa 
+vomit: úá	ʻua 
+blow: puhi 
+breath: ao	ea te menava	ha	menava	puhi te ao 
+breathe: ao	ea te menava	ha	menava	puhi te ao 
+laugh: kata	àta 
+laughter: kata	àta 
+cogitate: maákau 
+reflect: maákau 
+think: maákau 
+smell: hoki	hone 
+sniff: hoki	hone 
+afraid: haʻametaʻu	metaʻu 
+be afraid: haʻametaʻu	metaʻu 
+fear: haʻametaʻu	metaʻu 
+fright: haʻametaʻu	metaʻu 
+alive: pohué 
+be alive: pohué 
+life: pohué 
+live: pohué 
+living: pohué 
+fight: e pehi	e ta	e tata 
+hunt: tatai	tute 
+beat: kere	paki/paki	patu	paì/paì	pehi	ta	tuki	tuì 
+hit: kere	paki/paki	patu	paì/paì	pehi	ta	tuki	tuì 
+strike: kere	paki/paki	patu	paì/paì	pehi	ta	tuki	tuì 
+cut: kokoti	taài	ʻihi	ʻoʻoti 
+hack: kokoti	taài	ʻihi	ʻoʻoti 
+cut open: koava 
+split: koava 
+pierce: huki 
+stab: huki 
+scratch: tuveé 
+dig: keì (i) 
+stand: tuu 
+drop: hika (mʻn)	hina	huu te henua	makuʻu	mekèe	mokuʻu	topa	viʻi 
+fall: hika (mʻn)	hina	huu te henua	makuʻu	mekèe	mokuʻu	topa	viʻi 
+grasp: mau	ííma 
+hold: mau	ííma 
+hold in arm: mau	ííma 
+squeeze: hota	koko	ʻomi 
+wring: hota	koko	ʻomi 
+rub: hoói 
+wipe: hoói 
+wash: hoói 
+wash clothes: hoói 
+throw: tioʻa	titii	tiì 
+bind: e haá mau	e humu	fitiì	hitiki	nani	nati 
+fasten: e haá mau	e humu	fitiì	hitiki	nani	nati 
+tie: e haá mau	e humu	fitiì	hitiki	nani	nati 
+tie up: e haá mau	e humu	fitiì	hitiki	nani	nati 
+sew: tui 
+count: ta/tau/ 
+enumerate: ta/tau/ 
+number: ta/tau/ 
+tally: ta/tau/ 
+sing: e uta	komumu	panau	patike	pope	vanana	viti 
+float: ána 
+flow: tahe 
+brook: kaávai	vai tahe 
+river: kaávai	vai tahe 
+stream: kaávai	vai tahe 
+lake: vai koto	vai óto 
+ocean: moana	tai	tai pi 
+sea: moana	tai	tai pi 
+dust: kau	épo	épo éhu	ʻepo 
+fog: kohu	kohu topa 
+sky: de ahgy	àki	àni	áki	áni 
+bad: hauhau	kino	ìno 
+evil: hauhau	kino	ìno 
+rot: paà	pee	piáu 
+rotten: paà	pee	piáu 
+dirty: hava	paàpaà 
+filthy: hava	paàpaà 
+soiled: hava	paàpaà 
+sharp: keokeo	koi	nihinihi 
+blunt: mué	puriki	tumué 
+damp: kutai	kutaú	toku	áutau	útau 
+wet: kutai	kutaú	toku	áutau	útau 
+right side: atamai	kaokao atamai	ʻima oko 
+left: akeake	kaokao akeake	ʻima aʻeaʻe 
+in: `oto	i	ioo	í oto 
+inside: `oto	i	ioo	í oto 
+and: maa 
+if: me 

@@ -1,0 +1,333 @@
+all: бүгд	бүтэн	бүх 
+every: бүгд	бүтэн	бүх 
+ash: үнс 
+ashes: үнс 
+bark: хальс	холтос	хуцалт 
+abdomen: гэдэс 
+belly: гэдэс 
+big: их	том	үлэг 
+bigness: их	том	үлэг 
+large: их	том	үлэг 
+bird: шувуу 
+bite: урах	хазах 
+black: хар 
+blood: угсаа	цус 
+bone: яс 
+breast: мээм	хөх	цээж 
+breasts: мээм	хөх	цээж 
+cloud: үүл 
+cold: сэрүүн	хүйтэн 
+come: ирэх 
+come from: ирэх 
+be dead: үхэх 
+dead: үхэх 
+die: үхэх 
+dog: нохой 
+drink: уух 
+dry: ангасан	хатсан	хуурай	цангасан 
+ear: чих 
+earth: дэлхий	товрог	шороо	этүгэн 
+ground: дэлхий	товрог	шороо	этүгэн 
+land: дэлхий	товрог	шороо	этүгэн 
+soil: дэлхий	товрог	шороо	этүгэн 
+eat: идэх 
+egg: өндөг 
+eye: нүд 
+feather: үзэг	өд 
+fire: гал 
+fish: загас 
+fly: нисэх 
+fly v.: нисэх 
+foot: тавхай	ул	хөл 
+full: дүүрэн 
+give: өгөх 
+good: сайн 
+green: ногоон 
+hair: хялгас	үс 
+head: толгой 
+hear: дуулах	сонсох 
+heart: зүрх 
+horn: бүрээ	эвэр 
+1 sg.: би 
+I: би 
+kill: алах	хядах 
+knee: өвдөг 
+be knowledgeable: мэдэх 
+know: мэдэх 
+leaf: навч 
+liver: элэг 
+long: урт 
+head louse: бөөс	хуурс 
+louse: бөөс	хуурс 
+male: эр 
+man: хүмүүн	хүн 
+many: ихэд	олон 
+much: ихэд	олон 
+multiple: ихэд	олон 
+several: ихэд	олон 
+moon: сар 
+hill: таг	уул	хад 
+mountain: таг	уул	хад 
+mouth: ам 
+name: нэр 
+title: нэр 
+neck: хүзүү 
+new: шинэ 
+night: шөнө 
+nighttime: шөнө 
+nose: хамар 
+not: битгий	бус	бү 
+adulterous: нэг	нэгэн 
+one: нэг	нэгэн 
+single: нэг	нэгэн 
+that: тэр 
+the: нэг	нэгэн 
+unprincipled: нэг	нэгэн 
+human: хүмүүн	хүн 
+human being: хүмүүн	хүн 
+person: хүмүүн	хүн 
+rain: бороо	хур 
+rainy weather: бороо	хур 
+red: улаан 
+path: зам 
+road: зам 
+route: зам 
+root: уг	үндэс 
+round: бөөрөнхий	дугуй	дүгэриг 
+sand: элс 
+say: гэх	хэлэх	өгүүлэх 
+see: харах	үзэх 
+seed: үр 
+sit: суух 
+hide: арьс	ширь 
+skin: арьс	ширь 
+sleep: нойрсох	унтах 
+little: бага	бяцхан	жижиг	өчүүхэн 
+small: бага	бяцхан	жижиг	өчүүхэн 
+smallness: бага	бяцхан	жижиг	өчүүхэн 
+smoke: утаа 
+star: од 
+rock: чулуу 
+stone: чулуу 
+sun: нар 
+swim: сэлэх	хөвөх 
+tail: гэзэг	сүүл 
+this: энэ 
+2 sg: чи 
+thou: чи 
+you: чи 
+tongue: хэл 
+tooth: шүд 
+tree: мод 
+grind: хоёр 
+two: хоёр 
+go: алхах	явах 
+walk: алхах	явах 
+hot: бүлээн	дулаан	халуун 
+warm: бүлээн	дулаан	халуун 
+water: ус	усан 
+1 pl. inc.: бид 
+we: бид 
+we₁: бид 
+what: юу 
+white: цагаан 
+whiteness: цагаан 
+who: хэн 
+who?: хэн 
+female: авгай	эм 
+woman: авгай	эм 
+yellow: шар 
+distant: алс	хол 
+far: алс	хол 
+dull: хүнд 
+heavy: хүнд 
+serious: хүнд 
+close: ойр 
+near: ойр 
+ner: ойр 
+salt: давс 
+short: ахар	богино	оготор 
+snake: могой 
+thin: нарийн	нимгэн	шингэн 
+wind: салхи	салхин 
+earthworm: өт 
+worm: өт 
+year: жил	он 
+3 sg.: тэр 
+he: тэр 
+she: тэр 
+2 pl.: та 
+ye: та 
+you all: та 
+3 pl.: тэд	тэд нар 
+they: тэд	тэд нар 
+here: энд 
+there: тэнд 
+where: хаана 
+where?: хаана 
+when: хэзээ 
+when?: хэзээ 
+how: хэр	яаж 
+how?: хэр	яаж 
+some: зарим	хэд	хэдэн	хэдүүл 
+few: бага	хэдхэн	цөөхөн 
+other: биш	бус	бусад 
+three: гурав	гурван 
+four: дөрвөн	дөрөв 
+five: тав	таван 
+broad: далбагар	дэлгэр	өргөн 
+wide: далбагар	дэлгэр	өргөн 
+wideness: далбагар	дэлгэр	өргөн 
+fat: тос	өөх 
+thick: бүдүүн	өтгөн 
+narrow: нарийхан	хавчиг 
+child: маамуу	хүүхэд	үр 
+principal wife: авгай	хань	эм	эхнэр 
+wife: авгай	хань	эм	эхнэр 
+husband: нөхөр 
+his mother: эх	ээж 
+mother: эх	ээж 
+my mother: эх	ээж 
+father: аав	эцэг 
+his father: аав	эцэг 
+my father: аав	эцэг 
+animal: амьтан 
+forest: ой 
+woods: ой 
+branch: мод	саваа 
+stick: мод	саваа 
+fruit: жимс 
+flower: цэцэг 
+grass: ногоо	өвс 
+cord: олс	оосор 
+rope: олс	оосор 
+flesh: мах	хоол 
+meat: мах	хоол 
+grease: тос	өөх 
+claw: хумс 
+fingernail: хумс 
+nail: хумс 
+leg: хөл 
+arm: гар 
+hand: гар 
+wing: далавч	жигүүр 
+gut: гэдэс 
+guts: гэдэс 
+insides: гэдэс 
+intestine: гэдэс 
+intestines: гэдэс 
+back: ар	нуруу 
+suck: хөхөх 
+spit: нулимах 
+vomit: бөөлжих 
+blow: үлээх 
+breath: амьсгалах 
+breathe: амьсгалах 
+laugh: инээх	хөхрөх 
+laughter: инээх	хөхрөх 
+cogitate: бодох	санах	сэтгэх 
+reflect: бодох	санах	сэтгэх 
+think: бодох	санах	сэтгэх 
+smell: үнэрлэх 
+sniff: үнэрлэх 
+afraid: айх 
+be afraid: айх 
+fear: айх 
+fright: айх 
+alive: амьдрах	суух 
+be alive: амьдрах	суух 
+life: амьдрах	суух 
+live: амьдрах	суух 
+living: амьдрах	суух 
+fight: байлдах	зодолдох 
+hunt: авлах	агнах	гөрөөлөх 
+beat: балбах	ниргэх	цохих 
+hit: балбах	ниргэх	цохих 
+strike: балбах	ниргэх	цохих 
+cut: огтлох	хэсэглэх 
+hack: огтлох	хэсэглэх 
+cut open: хагалах	хуваах	ярах 
+split: хагалах	хуваах	ярах 
+pierce: хатгах	хутгалах	шаах 
+stab: хатгах	хутгалах	шаах 
+scratch: маажих 
+dig: малтах	ухах 
+lie: хэвтэх 
+lie down: хэвтэх 
+tell lies: хэвтэх 
+stand: зогсох 
+turn: эргэх	эргүүлэх 
+turn around: эргэх	эргүүлэх 
+turn round: эргэх	эргүүлэх 
+drop: унах 
+fall: унах 
+grasp: барих 
+hold: барих 
+hold in arm: барих 
+squeeze: шахах 
+wring: шахах 
+rub: үрэх 
+wipe: арчих 
+wash: угаах 
+wash clothes: угаах 
+pull: татах 
+push: түлхэх	чихэх 
+shove: түлхэх	чихэх 
+throw: хаях	чулуудах	шидэх 
+bind: баглах	зангидах	уях 
+fasten: баглах	зангидах	уях 
+tie: баглах	зангидах	уях 
+tie up: баглах	зангидах	уях 
+sew: оёх	хадах 
+count: тоолох 
+enumerate: тоолох 
+number: тоолох 
+tally: тоолох 
+sing: дуулах 
+have fun: наадах	тоглох 
+play: наадах	тоглох 
+float: сэлэх	хөвөх 
+flow: гоожих	урсах 
+freeze: даарах	хөлдөх 
+swell: хавдах	хөөх 
+brook: гол	мөрөн 
+river: гол	мөрөн 
+stream: гол	мөрөн 
+lake: нуур 
+ocean: далай	тэнгис 
+sea: далай	тэнгис 
+dust: тоос 
+fog: будан	манан 
+sky: огторгуй	тэнгэр	хөх тэнгэр 
+snow: цас 
+ice: мөс 
+blaze: ноцох	шатах 
+burn: ноцох	шатах 
+day: өдөр 
+daylight: өдөр 
+daytime: өдөр 
+old: хөгшин 
+bad: муу 
+evil: муу 
+rot: ялзарсан	өөдгүй 
+rotten: ялзарсан	өөдгүй 
+dirty: бохир	муухай	хиртэй 
+filthy: бохир	муухай	хиртэй 
+soiled: бохир	муухай	хиртэй 
+straight: цэх	шулуун 
+sharp: хурц	шовх	шөвгөр 
+blunt: мохоо 
+smooth: гөлгөр 
+damp: нойтон 
+wet: нойтон 
+correct: зөв 
+right: баруун 
+right side: баруун 
+left: зүүн 
+at: -д	-т	дээр 
+in: -д	-т 
+inside: -д	-т 
+with: -тай	-той	-тэй	хамт 
+and: ба	бөгөөд 
+if: бол	хэрвээ	хэрэв 
+because: дээрээс	учраас 

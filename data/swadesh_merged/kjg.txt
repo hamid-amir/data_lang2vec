@@ -1,0 +1,227 @@
+all: kuu 
+ashes: pɔh.2 | poh 
+bark: hǝmpɔ:k | h3mpok 
+bark: mpɔk | h3mpok 
+belly: lui | poN 
+belly: po:ŋ | poN 
+big: nam 
+big: nham | nam 
+bird: sim 
+bird: si:m | sim 
+bite: pok 
+black: hɨaŋ | h3aN 
+black: hiaŋ | h3aN 
+blood: mam 
+bone: ča ʔaŋ | C37aN 
+bone: cǝʔa:ŋ | C37aN 
+breast: -buʔ | pu 
+breast: pu 
+burn: pӧ:k 
+claw: moŋ suǝŋ | t3mmoN 
+claw: tǝmmɔ:ŋ | t3mmoN 
+claw: ṭɨm mhɔŋ | t3mmoN 
+cloud: mhut | put 
+cloud: pu:t | put 
+cold: kat | Nar 
+cold: ŋar | Nar 
+come: ka:j | kay 
+come: rɔt | kay 
+die: ha:n | han 
+dog: sɔ: | so 
+dog: sɔʔ | so 
+drink: ʔɨm | uak 
+drink: uak 
+dry: ra:s | ras 
+ear: hermǝ:j | hermey 
+ear: rɨm mǝi | hermey 
+earth: pa teʔ | p3te 
+earth: pǝte | p3te 
+eat: mah | p3 
+eat: pǝ | p3 
+egg: ka doŋ | k3toN 
+egg: kǝtoŋ | k3toN 
+eye: mat 
+feather: khu:l | kh~ul 
+fire: pǝrlǝa | p3rl3a 
+fire: phrɨa | p3rl3a 
+fish: ka: 
+fish: kaʔ 
+fly (v.): ti:r 
+fly (v.): tɨr 
+foot: cǝaŋ | C3aN 
+foot: ӡɨaŋ | C3aN 
+full: kiŋ | kin 
+full: kiй | kin 
+give: ʔan | un 
+give: u:n | un 
+good: lǝ | l3 
+good: lǝʔ | l3 
+green: cǝŋa:r | C3Nar 
+green: kheu | C3Nar 
+hair: khu:l 
+hair: klǝ 
+hand: kǝta:k ti | k3takti 
+hand: tɨʔ | k3takti 
+head: kǝmpoŋ | k3mpoN 
+head: kɨm poŋ | k3mpoN 
+hear: ʔmaik | meC 
+hear: mec | meC 
+heart: hǝrйǝam | h3rn3am 
+heart: йhɨam | h3rn3am 
+horn: centrɨ:ŋ | Centr~3N 
+horn: drɨŋ | Centr~3N 
+I: o 
+I: ʔoʔ 
+kill: pha:n | ph~an 
+kill: plek | ph~an 
+knee: ka nu:n | k3nun 
+knee: kǝnu:n | k3nun 
+know: nǝ:ŋ | n3N 
+leaf: la 
+leaf: lhaʔ | la 
+lie: ŋi:m | Nim 
+liver: tǝl lɔ:m | t3lom 
+liver: tǝlɔ:m | t3lom 
+long: va:ŋ | waN 
+long: wa:ŋ | waN 
+louse: se 
+louse: šeʔ 
+man: čɨ brɔ:ʔ | %gon	k3mmu 
+man: cǝmprɔ | %gon	k3mmu 
+many: kɨ | k3 
+many: mak | k3 
+meat: ah 
+meat: ʔah 
+moon: moŋ | moN 
+mountain: mok 
+mountain: rǝŋ kɔŋ | mok 
+mouth: ta nɔh | t3noh 
+mouth: tǝnoh | t3noh 
+name: cɨ: | C3 
+neck: kǝntuar | k3ntuar 
+neck: kɨn tuar | k3ntuar 
+new: hǝnme | h3nme 
+new: m-meʔ | h3nme 
+night: pa sɨam | p3s3am 
+night: pǝsaǝm | p3s3am 
+nose: muh 
+not: pǝ 
+one: mo:i | moy	mò:j 
+one: mo:j | moy	mò:j 
+person: ka mhuʔ | %gon	k3mmu 
+person: kǝmmu | %gon	k3mmu 
+rain: ka maʔ | k3ma 
+rain: kǝma | k3ma 
+red: jim | yim 
+road: ŋɔ:r | Nor 
+root: rias 
+round: mon 
+sand: cres 
+sand: sreh 
+say: lɔ: | lo 
+seed: klɔŋ | p3liar 
+seed: pǝliar | p3liar 
+see: guiŋ | kun 
+see: ku:й | kun 
+sit: den | tan	ten 
+sit: ten | tan	ten 
+skin: hǝmpu:r | h3mpur 
+skin: mh pu:r | h3mpur 
+sleep: ših | sis 
+sleep: sis 
+small: nɛ | nE 
+small: ti:k | nE 
+small: йɛʔ | nE 
+smoke: pǝtǝ | p3t3 
+smoke: pu tǝʔ | p3t3 
+stand: dɨn | t3n 
+stand: tɨn | t3n 
+star: sǝrmiй | s3rmin 
+star: sɨr meŋ | s3rmin 
+stone: glaŋ | klaN 
+stone: kla:ŋ | klaN 
+sun: mat bri | matpri 
+sun: mat pri | matpri 
+swim: jɔŋ ʔom | way 
+swim: wa:j | way 
+tail: hǝnta | h3nta 
+tail: nhtaʔ | h3nta 
+that: kǝ=ni | k3 ni 
+that: nhiʔ | k3 ni 
+this: gi | k3 ki 
+this: kǝ=ki: | k3 ki 
+thou: me: 
+thou: mi | me 
+tongue: hǝnta:k | h3ntak 
+tongue: ntak | h3ntak 
+tooth: ra:ŋ | raN 
+tooth: rhaŋ | raN 
+tree: si ʔɔ:ŋ | s37oN 
+tree: sɔʔɔ:ŋ | s37oN 
+two: pa:r | par	pà:r 
+two: sɔ:ŋ | par	pà:r 
+walk: jɔh | yoh 
+walk: jɔ:h | yoh 
+warm: ŋǝkɨm 
+water: ʔom | %om	om 
+we: i 
+we: ʔiʔ 
+what: mǝh | m3h 
+what: mhǝh | m3h 
+white: klɔ:k | klok 
+who: mǝ | m3 
+who: mǝʔ | m3 
+woman: cǝmkǝn | C3mk3n 
+woman: kɨn | C3mk3n 
+yellow: si:-lǝaŋ | si l3N 
+all: ku 
+every: ku 
+ash: poh 
+abdomen: poN 
+bigness: nam 
+large: nam 
+breasts: pu 
+nail: t3mmoN 
+talon: t3mmoN 
+come from: kay 
+be dead: han 
+dead: han 
+ground: p3te 
+land: p3te 
+soil: p3te 
+fish: ka 
+fly: tir 
+fly v.: tir 
+left hand: k3takti 
+right: k3takti 
+be knowledgeable: n3N 
+lie down: Nim 
+head louse: se 
+male: C3mpro 
+much: k3 
+multiple: k3 
+several: k3 
+flesh: ah 
+hill: mok 
+title: C3 
+nighttime: p3s3am 
+adulterous: moy	mò:j 
+single: moy	mò:j 
+the: moy	mò:j 
+unprincipled: moy	mò:j 
+human: %gon	k3mmu 
+human being: %gon	k3mmu 
+rainy weather: k3ma 
+path: Nor 
+route: Nor 
+hide: h3mpur 
+little: nE 
+smallness: nE 
+rock: klaN 
+2 sg: me 
+you: me 
+grind: par	pà:r 
+go: yoh 
+whiteness: klok 
+who?: m3 
+female: C3mk3n 

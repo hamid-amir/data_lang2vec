@@ -1,0 +1,432 @@
+all: okoba 
+arm: obu- 
+arm: ubu- 
+arrow: siʌ 
+ashes: tebeu | tʰɛbɛu 
+ashes: tʰɛbɛu 
+back: mubu 
+back: nigi- gem 
+back: nigi gɛm 
+bad: po\i 
+bad: poʔi 
+belly: koko mau | o- kɛm	ugʌ- kɛm 
+belly: o- kem | o- kɛm	ugʌ- kɛm 
+belly: o- kɛm | o- kɛm	ugʌ- kɛm 
+belly: ugë- kem | o- kɛm	ugʌ- kɛm 
+belly: ugʌ- kɛm | o- kɛm	ugʌ- kɛm 
+big: kokay(ban) | kokay	kokayban 
+bird: ni 
+bite: kere- | kɛrɛ- 
+bite: kɛrɛ- 
+black: upi 
+blood: ëria | 3ria	ya7oi	yaʔoi	ʌria 
+blood: ʌria | 3ria	ya7oi	yaʔoi	ʌria 
+blood: ya\oi | 3ria	ya7oi	yaʔoi	ʌria 
+blood: yaʔoi | 3ria	ya7oi	yaʔoi	ʌria 
+blow: uririwo- 
+blow: urririwo- 
+bone: ei 
+boy: ʌb tɛnɛmʌi 
+boy: ëb tenemëi 
+breast: ʌburri | 3buri	ʌburri 
+breast: ëburi | 3buri	ʌburri 
+brother: amia- siki 
+brother: awa- 
+burn: es e- 
+burn: ɛs ɛ- 
+butterfly: abuskaikai 
+calf: sie- tebu 
+calf: siɛ- tɛbu 
+cassowary: eiwa 
+chest: toto- 
+chest: totɔ- 
+child: nono 
+chin: ʌʰ- 
+chin: ëh- 
+chin: tumaw 
+cloud: kobiu | menʌ 
+cloud: menʌ 
+cold: uruke- | urukɛ- 
+cold: urukɛ- 
+come: ko- | ko	ko- 
+crocodile: kes 
+crocodile: kɛs 
+cut: purome- 
+cut: puromɛ- 
+cut: tuga(wa)- 
+cut: tugowe- 
+cut: tugowɛ- 
+day: oruët 
+day: oruʌt 
+die: umu- | umu	umu- 
+dig: ubwër- 
+dig: ubwʌr- 
+dig: uru- 
+dirty: unu 
+dog: mam 
+dry: boboge- | bobogɛ- 
+dry: bobogɛ- 
+ear: ëkw(u)- | 3kw~	3kw~u	ʌkw-	ʌkwu- 
+ear: ʌkw(u)- | 3kw~	3kw~u	ʌkw-	ʌkwu- 
+earth: o:w | oːw 
+earth: oːw 
+eat: ne- | nɛ- 
+eat: nɛ- 
+eat: nie- | nɛ- 
+egg: wëy | wʌy 
+egg: wʌy 
+elbow: dokau 
+emu: eiwa 
+excrement: sine 
+eye: eki- | Eki	ɛki- 
+eye: ɛki- | Eki	ɛki- 
+face: moa 
+face: moa- 
+fall: pawo- 
+fall: tëi- 
+far: ɛtauro 
+father: awa 
+father: emi- 
+father: ɛmi- 
+fat (n.): kaum 
+fear: imike- 
+fear: imikɛ- 
+few: kireteu 
+few: kirɛtɛu 
+fight: omaʔɛ- 
+finger: autëpa 
+finger: autʌpa 
+fingernail: siri 
+fire: epi | Epi	epi 
+fire: u:na | Epi	epi 
+fish: wese | wEsE	wɛsɛ 
+fish: wɛsɛ | wEsE	wɛsɛ 
+fly (n.): kamker 
+fly (n.): kamkɛr 
+fly (v.): purpurie- 
+fly (v.): purrpurriɛ- 
+fog: iow 
+forehead: moa- 
+forest: saum 
+fruit: wai 
+full: ko\e- | ko7E	koʔe- 
+full: koʔe- | ko7E	koʔe- 
+full: une- | ko7E	koʔe- 
+full: unɛ- | ko7E	koʔe- 
+girl: momuko nëre 
+girl: momuko nʌrɛ 
+give: si- 
+give: ti/si- 
+good: asinëku | asinʌku 
+good: asinʌku 
+grass: unne 
+guts: koko mau 
+hair: u:ri | uːri 
+hair: uːri 
+head: oro-miam | tʌbu- 
+head: tʌbu- 
+head: tëbu- | tʌbu- 
+hear: es- | Es	ɛs- 
+hear: ɛs- | Es	ɛs- 
+heart: au aitubu | au aitubu	okɛm 
+heart: okem | au aitubu	okɛm 
+heart: okɛm | au aitubu	okɛm 
+heavy: ʔui- 
+heavy: ui- | ʔui- 
+here: imine 
+here: muro 
+he/she: nu 
+he/she: nu- 
+he/she: -ø 
+he/she: -ø- 
+he/she: -u- 
+hit: oma\e- 
+hold: te- 
+hold: tɛ- 
+house: ëta 
+house: ʌta 
+how: hankau(na) 
+ice: wai 
+I: -i- | sE	sɛ	yE	yɛ 
+I: -ika | sE	sɛ	yE	yɛ 
+in: miniga 
+I: se | sE	sɛ	yE	yɛ 
+I: sɛ | sE	sɛ	yE	yɛ 
+I: -y | sE	sɛ	yE	yɛ 
+I: ye | sE	sɛ	yE	yɛ 
+I: ye- | sE	sɛ	yE	yɛ 
+I: yɛ | sE	sɛ	yE	yɛ 
+I: yɛ- | sE	sɛ	yE	yɛ 
+kill: owe- | owɛ- 
+kill: owɛ- 
+knee: oitaba | oitaba	ɔitaba 
+knee: ɔitaba | oitaba	ɔitaba 
+laugh: ite woro- 
+laugh: itɛ woro- 
+left: sëkiba 
+left: sënëpa 
+left: sʌkiba 
+left: sʌnʌpa 
+leg: sie- 
+leg: siɛ- 
+lightning: mena ue- 
+lightning: mɛna uɛ- 
+liver: këma | k3ma	kʌma 
+liver: kʌma | k3ma	kʌma 
+long: wau 
+louse: mi 
+man: ʌb | ʌb	ʌbu 
+man: ʌbu | ʌb	ʌbu 
+man: ëb(u) | ʌb	ʌbu 
+man: sono | ʌb	ʌbu 
+many: oguba 
+meat: noto 
+meat: notʰo 
+meat: teb 
+meat: tɛb 
+moon: poita 
+morning: oilbesau 
+morning: olibɛsau 
+morning: umi\ina 
+morning: umiʔina 
+mosquito: ës 
+mosquito: ʌs 
+mother: ani- 
+mother: anika 
+mountain: sanawa 
+mouth: supu 
+name: wen- | wEn	wɛn- 
+name: wɛn- | wEn	wɛn- 
+nape: tu- 
+navel: sui 
+near: moʌ 
+neck: po- kana 
+new: oma | oma	ɔma 
+new: ɔma | oma	ɔma 
+night: ukum 
+nose: nuti- | nuti	nuti- 
+not: we 
+not: wɛ 
+old: ibik 
+old: sakëu 
+old: sakʌu 
+one: kiren | kirEn	kirɛn 
+one: kirɛn | kirEn	kirɛn 
+pull: puru- 
+push: su- 
+rain: ene | ʔɛnɛ 
+rain: ʔɛnɛ 
+rat: sipi 
+red: ewo | ɛwo 
+red: ɛwo 
+right: meru 
+right: mɛru 
+ripe: ewo 
+ripe: ɛwo 
+ripe: ewowo- 
+ripe: ɛwowo- 
+road: i:me | imE 
+road: iːmɛ | imE 
+root: kinim | kinim	pʰoru 
+root: poru | kinim	pʰoru 
+root: pʰoru | kinim	pʰoru 
+rope: ɔrrɛna 
+salt: i:wa | iːwa 
+salt: iːwa 
+sand: ene\uru | usiɛ 
+sand: usie | usiɛ 
+sand: usiɛ 
+say: ka- 
+say: kuna- | ka- 
+scratch: egir- 
+scratch: ɛgir- 
+sea: iwa 
+see: ɛgɛgɛ- | EkE	ɛkɛ- 
+see: eke- | EkE	ɛkɛ- 
+see: ɛkɛ- | EkE	ɛkɛ- 
+sharp: kese- 
+sharp: notuku 
+sharp: nɔtuku 
+short: kubʷomu | kubᵘtomu 
+short: kubutomu | kubᵘtomu 
+shoulder: ëpëra- 
+shoulder: ëura- 
+shoulder: ʌpʌra- 
+shoulder: ʌura 
+sing: sir woro- 
+sister: uku- 
+sister: uku- ayaga 
+sit: misi- 
+skin: imusa mubu- | imusa mubu	imusa mubu- 
+sky: semaru 
+sleep: ine- | inɛ- 
+sleep: inɛ- 
+small: ayakëra | ayakʌra	misiara 
+small: ayakʌra | ayakʌra	misiara 
+small: misiara | ayakʌra	misiara 
+smell: urie- 
+smoke: buru | buru	uki 
+smoke: uki | buru	uki 
+snake: më:tu | mʌːtu 
+snake: mʌːtu 
+spit: si 
+spit: tɛukoto- 
+split: porporo- 
+stand: sëru- 
+stand: tumu- 
+star: enepi | EnEpi	ph~ai	pʰai	ɛnepi 
+star: ɛnepi | EnEpi	ph~ai	pʰai	ɛnepi 
+star: pai | EnEpi	ph~ai	pʰai	ɛnepi 
+star: pʰai | EnEpi	ph~ai	pʰai	ɛnepi 
+stick: nëpëkë 
+stick: nëwa 
+stone: e | ʔɛ 
+stone: ʔɛ 
+straight: tuku 
+sun: iːsʌ | is3	iːsʌ 
+sun: i:së | is3	iːsʌ 
+swell: oreyɛ- 
+tail: kom | kɔm 
+tail: kɔm 
+tail: sumbiru | kɔm 
+take: ti- 
+that: pia 
+there: ɛsprro 
+they: -nig 
+they: -nigi- 
+they: nini 
+they: nini- 
+thigh: pa- oki 
+think: nanëne- 
+think: nanʌnɛ- 
+this: mu 
+thou: -(ə)n | nE	nɛ 
+thou: -ini | nE	nɛ 
+thou: -ini- | nE	nɛ 
+thou: ne | nE	nɛ 
+thou: ne- | nE	nɛ 
+thou: nɛ | nE	nɛ 
+thou: nɛ- | nE	nɛ 
+thou: -ni- | nE	nɛ 
+thou: -tig | nE	nɛ 
+thou: -tigi- | nE	nɛ 
+thou: tini | nE	nɛ 
+thou: tini- | nE	nɛ 
+thou: -(V)n | nE	nɛ 
+throat: përu- kana 
+throat: pʌru- kana 
+throw: otu- 
+thunder: mena niriai- 
+thunder: mɛna niriai- 
+tie: kewo- 
+tie: kɛwo- 
+tomorrow: aye ira 
+tomorrow: iët 
+tomorrow: iʌt 
+tongue: mino 
+tongue: mino- 
+tooth: mëi- | m3i	mʌi 
+tooth: mʌi | m3i	mʌi 
+tree: nʌ | n3 
+tree: në | n3 
+tree: nu | n3 
+tree: tʌpʌ | n3 
+turn: piri\e- 
+turn: pitiʔɛ- 
+two: a\eri | a7Eri	aʔɛri 
+two: aʔɛri | a7Eri	aʔɛri 
+vagina: simi- 
+walk: keikei- | tɛʔɛ- 
+walk: ou- | tɛʔɛ- 
+walk: te-e\ | tɛʔɛ- 
+walk: tɛʔɛ- 
+wallaby: ura 
+warm: wuo- 
+wash: isiɛr 
+wash: isier-/iser- 
+water: ene | EnE	yaki	ʔɛnɛ 
+water: ʔɛnɛ | EnE	yaki	ʔɛnɛ 
+water: yaki | EnE	yaki	ʔɛnɛ 
+we: -aigi- | sini 
+weep: more- 
+weep: morɛ- 
+we: -sig | sini 
+we: -sigi- | sini 
+we: sini 
+we: sini- 
+wet: enetu 
+wet: ɛnɛtu 
+what: amu(na) | amu	amuna 
+where: hana(na) 
+where: hana(ra) 
+white: yës | yʌs 
+white: yʌs 
+who: yu(na) | yu	yuna 
+wind: upeu | upɛu 
+wind: upɛu 
+wing: sëu 
+wing: sʌu 
+woman: ana | ʔui 
+woman: ui | ʔui 
+woman: ʔui 
+wood: në mësë 
+wood: nʌ mʌsʌ 
+wood: nʌpʌkʌ 
+wood: nʌwa 
+yellow: yanou 
+yes: io 
+yes: o 
+yesterday: kire orise 
+yesterday: orise 
+yesterday: orisɛ 
+you: -tig | nE	nɛ 
+you: -tigi- | nE	nɛ 
+you: tini | nE	nɛ 
+you: tini- | nE	nɛ 
+every: okoba 
+ash: tʰɛbɛu 
+abdomen: o- kɛm	ugʌ- kɛm 
+bigness: kokay	kokayban 
+large: kokay	kokayban 
+breasts: 3buri	ʌburri 
+come from: ko	ko- 
+be dead: umu	umu- 
+dead: umu	umu- 
+ground: oːw 
+land: oːw 
+soil: oːw 
+fly: purrpurriɛ- 
+fly v.: purrpurriɛ- 
+1 sg.: sE	sɛ	yE	yɛ 
+head louse: mi 
+male: ʌb	ʌbu 
+much: oguba 
+multiple: oguba 
+several: oguba 
+hill: sanawa 
+title: wEn	wɛn- 
+nighttime: ukum 
+adulterous: kirEn	kirɛn 
+single: kirEn	kirɛn 
+the: kirEn	kirɛn 
+unprincipled: kirEn	kirɛn 
+rainy weather: ʔɛnɛ 
+path: imE 
+route: imE 
+hide: imusa mubu	imusa mubu- 
+little: ayakʌra	misiara 
+smallness: ayakʌra	misiara 
+rock: ʔɛ 
+2 sg: nE	nɛ 
+grind: a7Eri	aʔɛri 
+go: tɛʔɛ- 
+1 pl. inc.: sini 
+we₁: sini 
+whiteness: yʌs 
+who?: yu	yuna 
+female: ʔui 
+distant: ɛtauro 
+dull: ʔui- 
+serious: ʔui- 
+close: moʌ 
+ner: moʌ 

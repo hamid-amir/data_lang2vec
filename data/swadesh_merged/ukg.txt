@@ -1,0 +1,388 @@
+all: adeaka | adɛaka 
+all: adɛaka 
+arm: ubon 
+arm: ubɔn 
+arrow: makila 
+ashes: wam 
+back: meikubila 
+back: mɛikubila 
+bad: youba 
+belly: kuda 
+belly: udilam | kuda 
+big: wë:mo | wʌːmo 
+big: wʌːmo 
+bird: ibara 
+bite: -go- 
+bite: -go-/gw- 
+black: uma 
+blood: kod | kod	kɔd 
+blood: kɔd | kod	kɔd 
+blow: aguma- 
+bone: koton 
+boy: wa kaur 
+breast: na 
+brother: emakina 
+brother: ɛmakina 
+brother: enaman 
+brother: ɛnaman 
+brother: pʌːbɛ 
+brother: pë:be 
+brother: pëina 
+brother: pʌina 
+brother: uma:m 
+brother: umaːm 
+brother: umiok 
+burn: biat- 
+butterfly: abaur 
+calf: kapa kuda 
+cassowary: kakubay 
+chest: taboron 
+child: wa 
+chin: badagur 
+cloud: iagër | lagʌr 
+cloud: lagʌr 
+cold: gugum 
+come: dikër- | dik3r	dikʌr- 
+come: dikʌr- | dik3r	dikʌr- 
+crocodile: yamëy 
+crocodile: yamʌy 
+cut: apur-am- 
+cut: apuram- 
+cut: kikwa- 
+dance: uw- 
+day: ituruma 
+day: kiwen 
+die: um- | um	um- 
+dig: guë:nta bi- 
+dig: guʌːnta bi- 
+dig: tumum gwane- 
+dig: tumun gwane- 
+dig: waipiem- 
+dig: waipiɛm- 
+dirty: unun 
+dog: ika 
+dry: gororëgia | gororʌgia 
+dry: gororʌgia 
+ear: kauni 
+earth: yakit 
+eat: elim- | nɛ- 
+eat: ne- | nɛ- 
+eat: nɛ- 
+egg: na 
+elbow: më:g 
+elbow: mʌːg 
+elbow: tumun 
+emu: kakubay 
+excrement: ibi 
+eye: më:g | m3g	mʌːg 
+eye: mʌːg | m3g	mʌːg 
+face: mëmana 
+face: mʌmana 
+fall: akwat- 
+fall: kikwa- 
+far: woteta | wɔtɛta 
+far: wɔtɛta 
+father: tʌ 
+father: taino 
+father: tue 
+father: ude 
+father: udɛ 
+fat (n.): idʌ 
+fat (n.): idë 
+fear: apatay- 
+fight: aripʌt- 
+fingernail: kar 
+finger: unën 
+finger: unʌn 
+fire: muta 
+fish: maraden | maradEn	maradɛn 
+fish: maradɛn | maradEn	maradɛn 
+fly (n.): kuduruk 
+fly (v.): bunggia id- 
+fly (v.): buŋgia id- 
+fog: abor 
+forest: usi 
+fruit: ugarak 
+full: dikauguërami | dikaugu3rami	dikauguʌrami 
+full: dikauguʌrami | dikaugu3rami	dikauguʌrami 
+full: un- | dikaugu3rami	dikauguʌrami 
+girl: ilup wailukan 
+give: ba- 
+good: bor | bɔr 
+good: bɔr 
+grass: duba 
+green: igom 
+guts: udilam 
+hair: i:m | iːm 
+hair: iːm 
+head: tarikar 
+head: tarikum | tarikar 
+hear: ig- | ig	ig- 
+heart: aunan 
+heavy: bi:nët | biːnʌt 
+heavy: biːnʌt 
+here: sen 
+here: sɛn 
+he/she: ø- 
+he/she: wo- 
+he/she: wo-no 
+hit: aripët- 
+hold: bukwa- 
+house: mon 
+how: topean(ean) 
+I: e- | Ena	ɛ-na 
+I: ɛ- | Ena	ɛ-na 
+I: e-na | Ena	ɛ-na 
+I: ɛ-na | Ena	ɛ-na 
+I: e-/-r- | Ena	ɛ-na 
+I: -is- | Ena	ɛ-na 
+in: manik 
+kill: aripët- | aripʌt- 
+kill: aripʌt- 
+knee: gatarik 
+laugh: egel- 
+laugh: ɛgɛl- 
+left: koanan 
+leg: kwoton 
+leg: kwɔton 
+lightning: bilika- 
+liver: aunan 
+long: dogon 
+louse: gu:n | gun 
+louse: guːn | gun 
+man: madon | mun 
+man: mun 
+many: kozogze | kozogzɛ 
+many: kozogzɛ 
+meat: kit 
+moon: takwi 
+morning: itumaka 
+morning: itum-aka 
+morning: wanemik 
+morning: wanɛmik 
+mosquito: marenesi 
+mosquito: marɛnɛsi 
+mother: në:n 
+mother: nënine 
+mother: nʌːn 
+mother: nʌninɛ 
+mother: unër 
+mother: unʌr 
+mountain: tatpan 
+mouth: kabogoto 
+name: unim 
+nape: ikwoik 
+navel: esi 
+navel: ɛsi 
+near: makitaka 
+neck: kumanggoto guën | kumaŋgoto guʌn 
+neck: kumaŋgoto guʌn 
+new: tomon | tomon	tomɔn 
+new: tomɔn | tomon	tomɔn 
+night: itum 
+nose: madagure | madagur	morog3gur	morogʌːgur 
+nose: morogë:gur | madagur	morog3gur	morogʌːgur 
+not: woyak 
+old: kokaran 
+old: koron 
+one: kapaika 
+pull: buknatabud- 
+push: ikusiabud- 
+rain: yët | yʌt 
+rain: yʌt 
+rat: garan 
+rat: weta 
+red: urët | urʌt 
+red: urʌt 
+right: sigum | tarikar 
+ripe: urët 
+ripe: urʌt 
+road: yake | yakE 
+road: yakɛ | yakE 
+root: udun 
+rope: imɔp 
+salt: iwɔi 
+salt: iwol | iwɔi 
+sand: kurum | olɛ 
+sand: ole | olɛ 
+sand: olɛ 
+say: komugʷal- 
+say: komugwal- | komugʷal- 
+say: nata-/-ibot- | komugʷal- 
+scratch: kokot- 
+sea: yol-ië:g 
+sea: yoliʌːg 
+see: atakal- | -go-	go	iba 
+see: -go- | -go-	go	iba 
+see: -go-/-iba- | -go-	go	iba 
+sharp: katët 
+sharp: wasem- 
+short: tai 
+shoulder: kogotarik 
+sing: ud war- 
+sister: eminaka 
+sister: ɛminaka 
+sister: nemanika 
+sister: nɛmanika 
+sister: umanaka 
+sister: utaum 
+sister: " " utaum 
+sit: babur- | baburr- 
+sit: baburr- 
+skin: guë:n | gu3n	guʌːn 
+skin: guʌːn | gu3n	guʌːn 
+sky: kumukumu 
+sleep: in- 
+small: utom 
+smell: kagam id- 
+smell: kagamokwa- 
+smoke: ikap 
+snake: dua 
+spit: dukunat- 
+spit: mu:k 
+spit: muːk 
+split: sakil-om- 
+split: sakilom- 
+stand: daram- 
+stand: nagabur- 
+star: bobor 
+stick: sisugum 
+stone: namon | namon	namɔn 
+stone: namɔn | namon	namɔn 
+straight: tasigum 
+sun: ode:mo | odEmo	odɛːmo 
+sun: odɛːmo | odEmo	odɛːmo 
+swell: dalam- 
+tail: bura 
+tail: ibituk | bura 
+take: pukwon- 
+that: zamukwa 
+there: zitukwa 
+they: ode- 
+they: ode-/-(t)ar- 
+they: wodo 
+they: wodo- 
+thigh: apada 
+this: zok | zɔk 
+this: zɔk 
+thou: ani | nEna	nɛ-na 
+thou: ani- | nEna	nɛ-na 
+thou: ano- | nEna	nɛ-na 
+thou: ne-na | nEna	nɛ-na 
+thou: nɛ-na | nEna	nɛ-na 
+thou: no | nEna	nɛ-na 
+thou: no- | nEna	nɛ-na 
+thou: no-/-n- | nEna	nɛ-na 
+throat: koimakur 
+throat: koinggota 
+throat: koiŋgota 
+throw: beam- 
+throw: bɛam- 
+thunder: maliralu ulukid- 
+thunder: -- sapuko- 
+thunder: ....sapuko- 
+tie: tidimɛßi- 
+tie: tidimevi- 
+tomorrow: barima 
+tomorrow: dë:ro 
+tongue: ebisa | Ebisa	ɛbisa 
+tongue: ɛbisa | Ebisa	ɛbisa 
+tooth: naë:g | na3g	naʌːg 
+tooth: naʌːg | na3g	naʌːg 
+tree: kamuk | mur 
+tree: mur 
+tree: tadik | mur 
+turn: bukumbilikem- 
+turn: bukumbilikɛm- 
+two: brabraka 
+vagina: kutuk 
+vomit: malil- 
+walk: id- 
+walk: tundune id- 
+wallaby: kabin 
+warm: nana 
+wash: eta ba- 
+wash: eta + "give 
+wash: yag eta- 
+wash: yag ɛta- 
+water: yë:g | y3g	yʌːg 
+water: yʌːg | y3g	yʌːg 
+weep: yama- 
+we: ine- | ino 
+we: ine-/-(t)ar- | ino 
+we: ino 
+we: ino- 
+wet: ya:kot 
+wet: yaːkɔt 
+what: mʌː 
+what: më: | mʌː 
+where: edon 
+where: ɛdɔn 
+white: yaga 
+who: unia 
+wind: wian 
+wing: bu 
+woman: ilup 
+woman: unʌdin | ilup 
+woman: unëdin | ilup 
+wood: didugum 
+wood: kamik 
+yellow: gune | gunɛ	okwɛ inʌniam 
+yellow: gunɛ | gunɛ	okwɛ inʌniam 
+yellow: okwe inëniam | gunɛ	okwɛ inʌniam 
+yellow: okwɛ inʌniam | gunɛ	okwɛ inʌniam 
+yesterday: inukwan 
+yesterday: maden 
+yes: yu 
+you: ani | nEna	nɛ-na 
+you: ani-/-(t)ar- | nEna	nɛ-na 
+you: ano- | nEna	nɛ-na 
+every: adɛaka 
+ash: wam 
+abdomen: kuda 
+bigness: wʌːmo 
+large: wʌːmo 
+breasts: na 
+come from: dik3r	dikʌr- 
+be dead: um	um- 
+dead: um	um- 
+ground: yakit 
+land: yakit 
+soil: yakit 
+fly: buŋgia id- 
+fly v.: buŋgia id- 
+hand: tarikar 
+left hand: tarikar 
+1 sg.: Ena	ɛ-na 
+head louse: gun 
+male: mun 
+much: kozogzɛ 
+multiple: kozogzɛ 
+several: kozogzɛ 
+hill: tatpan 
+title: unim 
+nighttime: itum 
+adulterous: kapaika 
+single: kapaika 
+the: kapaika 
+unprincipled: kapaika 
+rainy weather: yʌt 
+path: yakE 
+route: yakE 
+hide: gu3n	guʌːn 
+little: utom 
+smallness: utom 
+rock: namon	namɔn 
+2 sg: nEna	nɛ-na 
+grind: brabraka 
+go: id- 
+1 pl. inc.: ino 
+we₁: ino 
+whiteness: yaga 
+who?: unia 
+female: ilup 
+distant: wɔtɛta 
+dull: biːnʌt 
+serious: biːnʌt 
+close: makitaka 
+ner: makitaka 

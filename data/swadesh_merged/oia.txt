@@ -1,0 +1,277 @@
+all: suʼkani 
+every: suʼkani 
+ash: aɟaka	ilʼhua 
+ashes: aɟaka	ilʼhua 
+abdomen: ʼatu 
+belly: ʼatu 
+big: boʔal	lapai 
+bigness: boʔal	lapai 
+large: boʔal	lapai 
+bird: asa	otoasa	ʼasa 
+bite: ʼaria 
+black: lauara	lauare	ʼlawar 
+blood: we	ʼwe 
+bone: opo 
+breast: atu	susu	ʼsusu 
+breasts: atu	susu	ʼsusu 
+burn: ulaye	uturana 
+burn tr.: ulaye	uturana 
+claw: keles 
+nail: keles 
+talon: keles 
+cloud: umajaʼmuin 
+cold: elewe	ʼɛlɛwɛ 
+come: ma7u	maʔu	ʼmaʔu 
+come from: ma7u	maʔu	ʼmaʔu 
+be dead: umu	ʼumu 
+dead: umu	ʼumu 
+die: umu	ʼumu 
+dog: ihar	ihara	ʼihar 
+drink: tutu	ʼtutu 
+dry: ʼreple	ʼwate 
+ear: wali	ʼwali 
+earth: uma 
+ground: uma 
+land: uma 
+soil: uma 
+eat: nauwa	nawa	una	ʼmete 
+egg: asaʼutu 
+eye: ina	inamoto	inaʼmoto 
+feather: lia 
+fire: ada	ata	ʼata 
+fish: ahi	ʼahi 
+fly: uhur	ʼihilɛ 
+fly v.: uhur	ʼihilɛ 
+give: ina 
+good: jaʼʔanin	roː	ɟaːni 
+green: uʔuʼlana 
+hair: wata	ʼwata 
+hand: tana	ʼtana 
+left hand: tana	ʼtana 
+right: tana	ʼtana 
+head: dau	jaiʼtapul 
+hear: wari	ʼwari 
+1 sg.: andr$i	ʼandri 
+I: andr$i	ʼandri 
+kill: utaʼumu 
+knee: moil 
+be knowledgeable: naʼwarɛ 
+know: naʼwarɛ 
+leaf: EtE7asa	asah	ɛtɛʼʔasa 
+lie: i muna more 
+lie down: i muna more 
+liver: lar	ʼlar 
+long: loʼwai 
+head louse: amin	ʼamin 
+louse: amin	ʼamin 
+male: nami	ʼnami 
+man: tou	ʼtou 
+moon: uru	ʼuru 
+hill: uma 
+mountain: uma 
+mouth: ʼoʔo 
+name: ʼnene 
+title: ʼnene 
+neck: ʼmani 
+new: miri	mirmire 
+night: dedem	tetemanahe	teteʼmanahe	wanat 
+nighttime: dedem	tetemanahe	teteʼmanahe	wanat 
+nose: munikain	murwana	murʼwana 
+adulterous: uani	uwane	uʼwane	u’wane 
+one: uani	uwane	uʼwane	u’wane 
+single: uani	uwane	uʼwane	u’wane 
+that: uʼʔiri 
+the: uani	uwane	uʼwane	u’wane 
+unprincipled: uani	uwane	uʼwane	u’wane 
+human: tou	ʼtou 
+human being: tou	ʼtou 
+person: tou	ʼtou 
+rain: aya	ʼaja 
+rainy weather: aya	ʼaja 
+red: merʼbraka	mimiri 
+path: ijar	iʼjar 
+road: ijar	iʼjar 
+route: ijar	iʼjar 
+root: ara	ʼlarin 
+sand: ʼini 
+say: ene 
+see: asi	wata7e	watae	ʼwataʔe 
+sit: imirɛ	mirɛ	unaʼmira 
+hide: wele	ʼwele 
+skin: wele	ʼwele 
+sleep: yeːte	ʼtaija 
+little: kinkini	kiːkilai 
+small: kinkini	kiːkilai 
+smallness: kinkini	kiːkilai 
+smoke: ataʼtau	boto 
+star: hihinaxa	hihiʼnaxa	ihi 
+rock: here	uwaraha	uwaʼraha 
+stone: here	uwaraha	uwaʼraha 
+sun: wadu 
+swim: ʼnaʔajɛ 
+tail: ulaʼbua 
+this: iʼʔiri 
+tongue: uhul	uʼhul 
+tooth: wain	ʼwain 
+grind: ei	ʼei	’ei 
+two: ei	ʼei	’ei 
+go: ʼlalarɛ 
+walk: ʼlalarɛ 
+hot: ʼtimne 
+warm: ʼtimne 
+water: ira	ʼira 
+1 pl. inc.: abupupur	abuʼpupur 
+we: abupupur	abuʼpupur 
+we₁: abupupur	abuʼpupur 
+what: inʼhai 
+white: ʼhitini 
+whiteness: ʼhitini 
+who: uʼmani 
+who?: uʼmani 
+female: panar	tukur	tukurai	ʼtuhur 
+woman: panar	tukur	tukurai	ʼtuhur 
+yellow: aʼraun 
+distant: joʼʔoni 
+far: joʼʔoni 
+dull: tu ure 
+heavy: tu ure 
+serious: tu ure 
+close: wauʼwauni 
+near: wauʼwauni 
+ner: wauʼwauni 
+salt: ʼasir 
+short: purpuru 
+snake: nana	ʼnana 
+thin: mamʼpia 
+wind: hari	ʼhari 
+earthworm: kikla i 
+worm: kikla i 
+year: tawan 
+2 pl.: ʼeri 
+ye: ʼeri 
+you: ʼeri 
+you all: ʼeri 
+3 pl.: wai 
+they: wai 
+where: inaʼnani 
+where?: inaʼnani 
+when: tartei 
+when?: tartei 
+how: inoʼʔone 
+how?: inoʼʔone 
+other: maro telira	telira 
+three: ʼutu	’utu 
+four: ʼpat	’pat 
+five: lim	’lim 
+broad: maluara 
+wide: maluara 
+wideness: maluara 
+fat: ʼmina 
+thick: utʼwata 
+narrow: malete 
+child: modo 
+principal wife: ʼha 
+wife: ʼha 
+husband: uhuʼrai 
+his mother: ʼna 
+mother: ʼna 
+my mother: ʼna 
+father: namʼrai 
+his father: namʼrai 
+my father: namʼrai 
+forest: inm 
+woods: inm 
+branch: taran 
+stick: taran 
+fruit: mana 
+flower: eteihi	ihi 
+grass: usa 
+cord: ʼtaru 
+rope: ʼtaru 
+flesh: leura	ʼleura 
+meat: leura	ʼleura 
+grease: ʼmina 
+fingernail: keles 
+wing: amir 
+gut: atapmodo	atutapmodo 
+guts: atapmodo	atutapmodo 
+insides: atapmodo	atutapmodo 
+intestine: atapmodo	atutapmodo 
+intestines: atapmodo	atutapmodo 
+back: uhulalu 
+suck: timese 
+spit: kausaʼʔupa 
+vomit: ʼote 
+blow: huhume	tutepe 
+breath: na e 
+breathe: na e 
+laugh: ʼkele 
+laughter: ʼkele 
+cogitate: ederemu	kirakira 
+reflect: ederemu	kirakira 
+think: ederemu	kirakira 
+smell: amsoru	amu e 
+sniff: amsoru	amu e 
+afraid: kikre 
+be afraid: kikre 
+fear: kikre 
+fright: kikre 
+alive: laulause	lause 
+be alive: laulause	lause 
+life: laulause	lause 
+live: laulause	lause 
+living: laulause	lause 
+hunt: noure 
+beat: hihele	tapale	uda 
+hit: hihele	tapale	uda 
+strike: hihele	tapale	uda 
+cut: pote 
+hack: pote 
+cut open: atare	hati 
+split: atare	hati 
+pierce: solorrapa 
+stab: solorrapa 
+scratch: uʼhute 
+dig: kaure 
+stand: nate	ʼnatarɛ 
+drop: ʼipa 
+fall: ʼipa 
+grasp: pa le 
+hold: pa le 
+hold in arm: pa le 
+squeeze: timin kelese 
+wring: timin kelese 
+throw: ilaike 
+bind: ile	rakite 
+fasten: ile	rakite 
+tie: ile	rakite 
+tie up: ile	rakite 
+sew: uute 
+count: taa 
+enumerate: taa 
+number: taa 
+tally: taa 
+flow: elere 
+lake: ira lapai 
+ocean: ʼdomi 
+sea: ʼdomi 
+dust: umanakun	umatau 
+fog: mon	war 
+sky: ʼlɛʔɛnɛ 
+bad: harawele	mahuseke 
+evil: harawele	mahuseke 
+rot: ʼhoho 
+rotten: ʼhoho 
+dirty: amseke 
+filthy: amseke 
+soiled: amseke 
+sharp: ʼaʔate 
+blunt: polo 
+damp: kurne 
+wet: kurne 
+right side: tenen 
+left: wel 
+in: mutwaʔiʼnani 
+inside: mutwaʔiʼnani 
+and: oʼo 
+if: ethain 

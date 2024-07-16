@@ -1,0 +1,362 @@
+all: mindim 
+arm: ukußu 
+arm: ukuvu 
+arrow: ai 
+arrow: iwi 
+ashes: nu 
+back: -miŋgase 
+back: -minggasi 
+bad: imba 
+belly: -okomonde | -su -nuasu 
+belly: -su -nuasu 
+big: oëm | oʌm 
+big: oʌm 
+bird: dei 
+bite: kou- | -ku-	kou- 
+bite: -ku- | -ku-	kou- 
+bite: -ku-/kou- | -ku-	kou- 
+black: tuku 
+blood: ki 
+blow: fu- 
+bone: inasi | inasi	isi 
+bone: isi | inasi	isi 
+bone: -isi | inasi	isi 
+boy: nono mbakurio 
+breast: ami 
+brother: -ame 
+brother: -amɛ 
+brother: -ano 
+brother: -awa 
+brother: -awa- 
+brother: mombëm 
+brother: mombʌm 
+burn: wi- 
+butterfly: kumekame 
+calf: -nono 
+calf: -tëvum 
+calf: -tʰʌßum 
+cassowary: fumi 
+cassowary: moyam 
+child: nonɔʌ 
+child: nonoä 
+chin: -enggoto wateke 
+chin: -ɛŋgoto watɛkɛ 
+cloud: kußɔm | kuβɔm 
+cloud: kuvom | kuβɔm 
+cold: fitangga | fitaŋga 
+cold: fitaŋga 
+come: wa- | wa	wa- 
+crocodile: akena 
+crocodile: akɛna 
+cut: uvi- 
+cut: wanduku- 
+dance: soso evi- 
+day: kokia 
+day: mina 
+die: kum | kum	kum- 
+die: kum- | kum	kum- 
+dig: amu- 
+dig: ku- 
+dirty: bititim 
+dog: mëm | m3m	mʌm 
+dog: mʌm | m3m	mʌm 
+dry: fitërë | fitʌrʌ 
+dry: fitʌrʌ 
+earth: sënoko | sʌnoko 
+earth: sʌnoko 
+ear: -ukwai | -ukwai	ukw~ai 
+eat: enisi- | na- 
+eat: na- 
+egg: nisi 
+emu: fumi 
+emu: moyam 
+excrement: siwi 
+eye: -ëti | -ʌti	3ti 
+eye: -ʌti | -ʌti	3ti 
+face: -utuati 
+fall: nembi- 
+fall: nɛmbi- 
+fall: wanduku- 
+far: kwësi | kwʌsi 
+far: kwʌsi 
+father: iwu 
+fat (n.): kirarum 
+fear: kunggu u- 
+fear: kuŋgu u- 
+few: gamanggama 
+few: gamaŋgama 
+fight: wɛsit- 
+finger: aɲʌm 
+finger: añëm 
+fingernail: iso 
+fire: onggëti | oNg3ti	oŋgʌti 
+fire: oŋgʌti | oNg3ti	oŋgʌti 
+fish: mburembëri | mburembʌri	mb~uremb~3ri 
+fish: mburembʌri | mburembʌri	mb~uremb~3ri 
+fly (n.): ŋgaßu 
+fly (n.): nggavu 
+fly (v.): nuavut- 
+fog: kußɔm 
+fog: kuvom 
+forehead: -utuati 
+forest: bautëkisi 
+forest: bautʌkisi 
+fruit: tui 
+full: isowa 
+full: kwiɲa- | isowa 
+full: kwiña- | isowa 
+girl: wai mbakurio 
+give: -tu- 
+good: momnuam 
+grass: mbesuwu 
+green: tamuem | tʰamuɛm 
+green: tʰamuɛm 
+guts: -okomonde 
+hair: bi 
+head: -ununggare | -unuŋgare 
+head: -unuŋgare 
+hear: -esi- | -esi-	esi 
+heart: okomende tui | okomɛndɛ tui 
+heart: okomɛndɛ tui 
+heavy: kuma 
+here: ikimanggi 
+here: kendi 
+he/she: nə- 
+he/she: ni 
+he/she: ni- 
+he/she: ni-mbi 
+he/she: nV- 
+he/she: ø- 
+hit: wesit- 
+hold: temin- 
+house: wata 
+how: garim 
+in: kisi 
+I: ya 
+I: ya- 
+I: ya-wi 
+kill: akutukum- 
+knee: -hosianai | -hosianai	hosianai 
+laugh: kir- 
+left: fesa 
+left: fɛsa 
+leg: -uwëka 
+leg: -uwʌka 
+lightning: awowat- 
+long: kwëm | kwʌm 
+long: kwʌm 
+louse: mi 
+man: konda | kɔnda 
+man: kɔnda 
+many: boëra | boʌra 
+many: boʌra 
+meat: tavum 
+meat: tʰavum 
+moon: asuka 
+morning: abua 
+morning: avua 
+morning: kousama 
+mosquito: nangguru 
+mother: -ainam 
+mother: -ama 
+mountain: nomunggu | nomuNgu	nomuŋgu 
+mountain: nomuŋgu | nomuNgu	nomuŋgu 
+mouth: -enggesowu | -ɛŋgɛsowu 
+mouth: -ɛŋgɛsowu 
+name: -wa:ni | -waːni	wani 
+name: -waːni | -waːni	wani 
+navel: tui 
+near: tondoma 
+neck: -mbare | -mbarɛ 
+neck: -mbarɛ 
+new: kiki 
+night: tukua 
+nose: -utukare | -utukare	utukare 
+not: kwea 
+not: kwɛa 
+old: aroka 
+old: nikisem 
+old: nikisɛm 
+old: waikwa 
+old: waikwa/aroka 
+one: gamua 
+pull: oëgër- 
+pull: oʌgʌr- 
+push: otu- 
+push: ɔtu- 
+rain: noi 
+rat: kasi 
+red: fuluru 
+right: momobu 
+ripe: nunum 
+road: kotu 
+root: nikini 
+rope: musu 
+salt: sei 
+sand: osu 
+sand: sei ninggësi | osu 
+say: asi | kasuwa -tu- 
+say: asi- | kasuwa -tu- 
+say: kasuwa + "give | kasuwa -tu- 
+say: kasuwa -tu- 
+scratch: fas- 
+sea: sei noi 
+see: u- 
+sharp: isaru 
+sharp: komaɲ- 
+sharp: komañ- 
+short: ndom 
+shoulder: -ombokia 
+sing: marem ta- 
+sister: -nau 
+sister: uëm 
+sister: uʌm 
+sit: teki- 
+skin: -unggwiya | -uŋgwiya	uNgw~iya 
+skin: -uŋgwiya | -uŋgwiya	uNgw~iya 
+sky: sanoko moru 
+sleep: akin- 
+small: imbangginggi | imbaŋgiŋgi 
+small: imbaŋgiŋgi 
+smell: kwim esi- 
+smoke: butu 
+snake: së:ri | sʌːri 
+snake: sʌːri 
+spit: daw ta- 
+spit: kovi 
+split: akwerere- 
+split: uti- 
+stand: fititi- 
+star: sëratui | s3ratui	sʌratui 
+star: sʌratui | s3ratui	sʌratui 
+stick: angge 
+stone: komboro | komb~oro	kombɔrɔ 
+stone: kombɔrɔ | komb~oro	kombɔrɔ 
+straight: ndunguna 
+straight: nduŋuna 
+sun: sinda | sinda	sind~a 
+swell: tɛßu- 
+tail: kißa | kiβa 
+tail: kiva | kiβa 
+take: t- 
+that: maine 
+there: më:ri 
+there: mʌːri 
+they: nə-(n)- 
+they: ni 
+they: ni- 
+they: ni-mbi 
+they: nV-(n)- 
+thigh: -unduwa 
+think: ese min- 
+this: kine 
+thou: na 
+thou: na- 
+thou: na-mbi 
+thou: si | na 
+thou: si-mbi | na 
+thou: ti- | na 
+throw: utu- 
+thunder: tendugu- 
+thunder: tɛndugu 
+tie: bonggun- 
+tie: boŋgun- 
+tomorrow: kosem 
+tomorrow: mbëti 
+tomorrow: mbʌti 
+tongue: -iminasum | -iminasum	iminasum 
+tooth: -enggototui | -ɛŋgotutui	ENgototui 
+tooth: -ɛŋgotutui | -ɛŋgotutui	ENgototui 
+tree: kokisi | tamo 
+tree: su | tamo 
+tree: tamo 
+turn: tovïti- 
+turn: tovʌti- 
+two: awi 
+vagina: sun dege 
+vomit: kau- 
+walk: favi- | ka- 
+walk: ka- 
+warm: onggoa 
+warm: oŋgoa 
+wash: akiɲ- 
+wash: akiɲi -tu- 
+wash: akiñ- 
+wash: akiñi + "give 
+water: noi 
+weep: mey- 
+we: sə-(n)- | sina 
+we: si- | sina 
+we: si-mbi | sina 
+we: sina 
+we: sV-(n)- | sina 
+what: wamiam 
+where: amëre 
+where: amʌre 
+white: sowu 
+who: weni | wɛni 
+who: wɛni 
+wind: ëkua | ʌkua 
+wind: ʌkua 
+wing: nuawu 
+woman: are 
+woman: wateke | are 
+wood: aŋge 
+wood: nutuwu 
+yellow: komulianggo | komuliaŋgo 
+yellow: komuliaŋgo 
+yes: o: 
+yes: ɔː 
+yesterday: kosa 
+yesterday: kɔsa 
+yesterday: kosem 
+you: si | na 
+you: si- | na 
+you: ti- | na 
+every: mindim 
+ash: nu 
+abdomen: -su -nuasu 
+bigness: oʌm 
+large: oʌm 
+breasts: ami 
+come from: wa	wa- 
+be dead: kum	kum- 
+dead: kum	kum- 
+ground: sʌnoko 
+land: sʌnoko 
+soil: sʌnoko 
+fly: nuavut- 
+fly v.: nuavut- 
+1 sg.: ya 
+head louse: mi 
+male: kɔnda 
+much: boʌra 
+multiple: boʌra 
+several: boʌra 
+hill: nomuNgu	nomuŋgu 
+title: -waːni	wani 
+nighttime: tukua 
+adulterous: gamua 
+single: gamua 
+the: gamua 
+unprincipled: gamua 
+rainy weather: noi 
+path: kotu 
+route: kotu 
+hide: -uŋgwiya	uNgw~iya 
+little: imbaŋgiŋgi 
+smallness: imbaŋgiŋgi 
+rock: komb~oro	kombɔrɔ 
+2 sg: na 
+grind: awi 
+go: ka- 
+1 pl. inc.: sina 
+we₁: sina 
+whiteness: sowu 
+who?: wɛni 
+female: are 
+distant: kwʌsi 
+dull: kuma 
+serious: kuma 
+close: tondoma 
+ner: tondoma 

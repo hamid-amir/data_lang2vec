@@ -1,0 +1,137 @@
+all: kuturu 
+every: kuturu 
+ash: cune 
+ashes: cune 
+big: dolo 
+bigness: dolo 
+large: dolo 
+bird: bìɛ̀nɛ 
+bite: sɔ̃lɔ 
+black: cì 
+blood: muyãʏ̈ 
+bone: wɔ̂ 
+breast: nyɔ 
+breasts: nyɔ 
+claw: gwɔ̃kɔrɔ̀	ɟãkã 
+nail: gwɔ̃kɔrɔ̀	ɟãkã 
+talon: gwɔ̃kɔrɔ̀	ɟãkã 
+cloud: barɛ̀ 
+cold: nyɛ̃tɔrɔ 
+come: dà 
+come from: dà 
+be dead: gẽ 
+dead: gẽ 
+die: gẽ 
+dog: kolokolo 
+drink: mĩ́ 
+dry: laga 
+ear: tɔrɔ 
+earth: túrú 
+ground: túrú 
+land: túrú 
+soil: túrú 
+eat: wu barɛ́ 
+egg: ɟirè 
+eye: yiː 
+feather: bìɛ̀nɛ̀ kãʏ̈	kãʏ̈ 
+fire: pesãʏ̈ 
+fish: zɛ̀lɛ	zɛ̀rɛ 
+fly: sɛ ké n ɟã 
+fly v.: sɛ ké n ɟã 
+foot: gwɔnɛ 
+full: tɛ̀ma 
+give: kaːlà	kɔ 
+good: zaːne 
+green: lɔgo 
+hair: kã́	nyeŋ kã́ 
+hand: wɔ̀nɛ 
+left hand: wɔ̀nɛ 
+right: wɔ̀nɛ 
+head: nyenè 
+hear: ma	tɔ́ kɔ́ 
+heart: fɔrɔ 
+horn: blɛ 
+knee: misi 
+be knowledgeable: dõ 
+know: dõ 
+leaf: dalu	lu 
+lie: watúrú 
+lie down: watúrú 
+long: sà 
+male: gule 
+man: mo 
+many: cinè 
+much: cinè 
+multiple: cinè 
+several: cinè 
+flesh: mɛːrɛ̀ 
+meat: mɛːrɛ̀ 
+moon: mule 
+hill: tõtõnɛ 
+mountain: tõtõnɛ 
+mouth: lɛ 
+name: tɔ 
+title: tɔ 
+neck: zɔ̀ 
+night: ɟĩsi 
+nighttime: ɟĩsi 
+nose: nyé	nyíné 
+not: wà 
+adulterous: gɔ̀rɔ 
+one: gɔ̀rɔ 
+single: gɔ̀rɔ 
+that: gɔ̀rɔ 
+the: gɔ̀rɔ 
+unprincipled: gɔ̀rɔ 
+human: mo 
+human being: mo 
+person: mo 
+rain: lá m 
+rainy weather: lá m 
+red: taːne 
+root: da-gwɛnɛ	gwɛnɛ 
+say: pĩɛ̃	pɛ̃ 
+see: gaːmà 
+sit: ɟènaturu 
+hide: mɛː kṹ 
+skin: mɛː kṹ 
+sleep: nyɛrɛ 
+little: nyaːlɔ 
+small: nyaːlɔ 
+smallness: nyaːlɔ 
+smoke: cĩsì 
+star: yɔne 
+rock: ɟɛ̀rɛ 
+stone: ɟɛ̀rɛ 
+sun: mɔsɔ 
+tail: mule 
+this: bacè 
+tongue: nɛnɛ 
+tooth: sɔnɛ 
+grind: praː 
+two: praː 
+go: tɔ 
+walk: tɔ 
+what: kénà gɔrɔ 
+white: fiːre 
+whiteness: fiːre 
+who: ɟɛ 
+who?: ɟɛ 
+female: lɔ 
+woman: lɔ 
+yellow: kũcilɛ 
+distant: ɟãʏ̈kàsa 
+far: ɟãʏ̈kàsa 
+dull: guro 
+heavy: guro 
+serious: guro 
+close: mmɔrɔ 
+near: mmɔrɔ 
+ner: mmɔrɔ 
+salt: nɛ̀rɛ 
+snake: mɛ̀da 
+thin: kɔsɔ 
+wind: plɛ 
+earthworm: dõʏ̈ndo 
+worm: dõʏ̈ndo 
+year: cirɛ̀ 

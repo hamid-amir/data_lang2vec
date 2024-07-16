@@ -1,0 +1,295 @@
+arm: ben 
+arm: dingi 
+arm: mben 
+arm: tiŋgi 
+arm: tiŋki 
+arm: tiniŋgung 
+arm: tiniŋguŋ 
+ashes: aipo | amotitkop	ikbot	itpot	kotep	yikbot	yikpot	yiːkpot 
+ashes: akbot | amotitkop	ikbot	itpot	kotep	yikbot	yikpot	yiːkpot 
+ashes: itpot | amotitkop	ikbot	itpot	kotep	yikbot	yikpot	yiːkpot 
+bark: kat | atkat	kat 
+belly: burot | kabayop	kambayop	kambaːyop	kapayop	kapeop	kapiap 
+bird: akumbi-on | atari on	on	õn 
+bird: on | atari on	on	õn 
+bird: o͂n | atari on	on	õn 
+black: mitikni-kono | bin	binmo	mitikbol	pinmo	piːmo 
+black: nitipoːp | bin	binmo	mitikbol	pinmo	piːmo 
+blood: momkon | momkon	umkan	umukan	yam	yaːm 
+blood: uam | momkon	umkan	umukan	yam	yaːm 
+blood: wumgan | momkon	umkan	umukan	yam	yaːm 
+blood: yam | momkon	umkan	umukan	yam	yaːm 
+bone: ka kono | kondo	kono	kono-kono	koʼo 
+bone: kondo | kondo	kono	kono-kono	koʼo 
+bone: kono | kondo	kono	kono-kono	koʼo 
+bone: konor | kondo	kono	kono-kono	koʼo 
+bone: ko\o | kondo	kono	kono-kono	koʼo 
+bone: kornor | kondo	kono	kono-kono	koʼo 
+branch: at-nondong 
+breast: muk 
+breast: muk-iop 
+brother: amba 
+brother: ambaŋ 
+burn: neŋga 
+burn: neŋge 
+butterfly: kauwat 
+cassowary: diap 
+child: tana 
+come: mene- | mene	meneːn	minimamen 
+crocodile: benep 
+dog: anom | anon 
+dog: anon 
+ear: genot | kendewak	keneŋkot	kenoʼot	kenoːt	keretem	kereŋkot	kɛnɛtem 
+ear: kende | kendewak	keneŋkot	kenoʼot	kenoːt	keretem	kereŋkot	kɛnɛtem 
+ear: kenekot | kendewak	keneŋkot	kenoʼot	kenoːt	keretem	kereŋkot	kɛnɛtem 
+ear: keno\ot | kendewak	keneŋkot	kenoʼot	kenoːt	keretem	kereŋkot	kɛnɛtem 
+earth: dowot | parap 
+earth: okat | parap 
+earth: parap 
+earth: patap | parap 
+eat: ane- | anel	aneːn	animamen	mekwaneːn 
+eat: anel | anel	aneːn	animamen	mekwaneːn 
+eat: anye- | anel	aneːn	animamen	mekwaneːn 
+egg: windi | iɹi	windi	wini 
+egg: wini | iɹi	windi	wini 
+elbow: bungumat 
+eye: indop | in-dop	indop	insoptem	intop	kilop	tinotem 
+eye: in-dop | in-dop	indop	insoptem	intop	kilop	tinotem 
+eye: kon-yop | in-dop	indop	insoptem	intop	kilop	tinotem 
+eye: tin-op | in-dop	indop	insoptem	intop	kilop	tinotem 
+face: binat 
+father: amba 
+feather: gimi | kimi 
+fingernail: biri dop 
+fingernail: duk 
+fingernail: mbatit 
+fire: amo | amot	awop 
+fire: amot | amot	awop 
+flower: ai-iop 
+fly (n.): watmung 
+fly (v.): won wene 
+foot: iondat | kono	yon 
+foot: kondo | kono	yon 
+foot: kono | kono	yon 
+foot: yon | kono	yon 
+fruit: yop 
+full: ketere | demoːn	dempoʔon	dempoːn	depen	doronen	kononen	tepok 
+full: yo\otere | demoːn	dempoʔon	dempoːn	depen	doronen	kononen	tepok 
+give: ka- ~ ko- | kawimamen	kawon	kawonen	kawoːn	koŋke	paŋkaweːn 
+good: amun | amun	laːpman 
+hair: ambo kimi | ambo-tubuŋ	ambot	amboːs	ambudgu	awuŋ	kimi 
+hair: ambo topuŋ | ambo-tubuŋ	ambot	amboːs	ambudgu	awuŋ	kimi 
+hair: ambudgu | ambo-tubuŋ	ambot	amboːs	ambudgu	awuŋ	kimi 
+hair: awong | ambo-tubuŋ	ambot	amboːs	ambudgu	awuŋ	kimi 
+hair: awung | ambo-tubuŋ	ambot	amboːs	ambudgu	awuŋ	kimi 
+hair: gimi | ambo-tubuŋ	ambot	amboːs	ambudgu	awuŋ	kimi 
+hand: dindigat | birit	diŋki	tini	tiŋgi	tiŋki 
+head: kororok | katroki	keːtrok	kolok	korok	kororok	kotorok 
+head: kotorok | katroki	keːtrok	kolok	korok	kororok	kotorok 
+he/she: ye 
+he/she: yu 
+hole: tem 
+I: ne 
+knee: kaŋ-tom | taŋpo 
+knee: kondo-tom | taŋpo 
+leaf: awatork | awatkok	awol	awotkok	awutok	bit	ot	oːt	piːt 
+leaf: awutok | awatkok	awol	awotkok	awutok	bit	ot	oːt	piːt 
+leaf: o\o | awatkok	awol	awotkok	awutok	bit	ot	oːt	piːt 
+leaf: ot | awatkok	awol	awotkok	awutok	bit	ot	oːt	piːt 
+leg: ion 
+leg: kondo 
+leg: kono 
+leg: yon 
+lip: mandangat 
+lip: mandangkat 
+liver: onyi 
+live: tien/tiun 
+long: baŋkau | doboːp	dompoʔoːp	dompoːp	dopoːp	kedaːtkono	kosaːt	topop 
+long: kata\at | doboːp	dompoʔoːp	dompoːp	dopoːp	kedaːtkono	kosaːt	topop 
+louse: im 
+louse: tim 
+louse: um 
+man: kambatim | kaup 
+man: karuk | kaup 
+man: karup | kaup 
+man: katuk | kaup 
+many: iemon (?imon) | baip	kwiːtep	yemon	yemoːn	yewut	yeːwut 
+moon: wo\ot | kayop	wot	woʔot	woːt 
+moon: wort | kayop	wot	woʔot	woːt 
+moon: wot | kayop	wot	woʔot	woːt 
+mosquito: ieren (?iren) 
+mother: ena 
+mother: enaŋ 
+mother: naŋ 
+mountain: kortbon | anoŋ	araːbon	aŋko	aːŋko	koːtpon 
+mouth: moŋgot | moŋgotem	moŋkotem	moŋkotkomo	moŋkotkono 
+mouth: moŋkotkomo | moŋgotem	moŋkotem	moŋkotkomo	moŋkotkono 
+mouth: mongo-tem | moŋgotem	moŋkotem	moŋkotkomo	moŋkotkono 
+name: aniŋgo | aniŋko	yaniŋko 
+name: aniŋko | aniŋko	yaniŋko 
+navel: gimbingo 
+neck: geti-kornor | kete-kono	koŋ-kono 
+neck: ketek | kete-kono	koŋ-kono 
+new: kiri | kuli	kuri	yep	yewen	yewep 
+new: kuri | kuli	kuri	yep	yewen	yewep 
+night: amgi | amdom	amki	amkiti	amnom	amnoːm	amom 
+night: amki | amdom	amki	amkiti	amnom	amnoːm	amom 
+night: am kiti | amdom	amki	amkiti	amnom	amnoːm	amom 
+night: mitik | amdom	amki	amkiti	amnom	amnoːm	amom 
+nose: giring-gonor | keniŋ-kono	kidiŋ-kono	kiniŋ-kono	kiriŋ-kono	mudundo	mutu 
+nose: giring-konor | keniŋ-kono	kidiŋ-kono	kiniŋ-kono	kiriŋ-kono	mudundo	mutu 
+one: mim | mim	mima	mimo	mimoː 
+one: mima | mim	mima	mimo	mimoː 
+one: mimmo | mim	mima	mimo	mimoː 
+person: katuk | kaup 
+rain: am 
+rain: um | am 
+rat: wong 
+river: ok 
+road: kiwan 
+road: yontom 
+root: gipikap | kimpiap	noŋ	yumburum	yupunum 
+sand: yerep | kupuk	ok-dit	ok-yiŋ 
+sand: yi\iŋ | kupuk	ok-dit	ok-yiŋ 
+say: ora are- | yemon 
+say: tekme | yemon 
+see: teme- | akmeːn	keneptan	wetmene	wetmeːn	wetmimamen 
+see: wetme- | akmeːn	keneptan	wetmene	wetmeːn	wetmimamen 
+shoulder: kandom 
+sister: ambaŋ 
+sister: oni 
+sit: tire- | dipeːn	diwen	diweːn	sieːn	tiwe	tiwen 
+sit: tiw- | dipeːn	diwen	diweːn	sieːn	tiwe	tiwen 
+skin: kat 
+sleep: konyop pineŋge- | aŋgoːn	aŋgoːnen	aŋimamen	aŋkeːm	aŋkeːn	aŋkoʔoːn	aŋkoːn 
+sleep: tunuk aŋgeː- | aŋgoːn	aŋgoːnen	aŋimamen	aŋkeːm	aŋkeːn	aŋkoʔoːn	aŋkoːn 
+sleep: tunuk eŋge\e | aŋgoːn	aŋgoːnen	aŋimamen	aŋkeːm	aŋkeːn	aŋkoʔoːn	aŋkoːn 
+smoke: amaring | amaːlen	amaːren	amaːreŋ	amoip	amoreŋ	ateŋ	doːamot 
+smoke: amo-i\ip | amaːlen	amaːren	amaːreŋ	amoip	amoreŋ	ateŋ	doːamot 
+smoke: amot-ten | amaːlen	amaːren	amaːreŋ	amoip	amoreŋ	ateŋ	doːamot 
+snake: nin | nin	niːn 
+spit: gamok 
+spit: kamok 
+spit: pʌmok 
+star: mindong | mindoŋ	minot	mintoŋ	miŋgon	toŋ 
+star: mindoŋ | mindoŋ	minot	mintoŋ	miŋgon	toŋ 
+star: mino\o | mindoŋ	minot	mintoŋ	miŋgon	toŋ 
+star: wot | mindoŋ	minot	mintoŋ	miŋgon	toŋ 
+stone: boot | bol	bot	ok not	pot 
+stone: bot | bol	bot	ok not	pot 
+stone: mbot | bol	bot	ok not	pot 
+stone: pot | bol	bot	ok not	pot 
+straight: kimka-mo 
+straight: topoŋ-mo 
+sun: adon | adon	alon	aron	aton 
+sun: aron | adon	alon	aron	aton 
+sun: aton | adon	alon	aron	aton 
+tail: yimbi-kondo | urumkono	yibikono	yimbikondo	yipikono 
+tail: yipi kono | urumkono	yibikono	yimbikondo	yipikono 
+they: ji (?yi) 
+thou: ep | ep	kep	tep 
+thou: kip | ep	kep	tep 
+thou: kup | ep	kep	tep 
+thou: tep | ep	kep	tep 
+thou: tip | ep	kep	tep 
+thou: tup | ep	kep	tep 
+thou: yip | ep	kep	tep 
+tie: yendeware 
+tie: yene 
+tongue: ong | oŋ	oːŋ 
+tongue: oŋ | oŋ	oːŋ 
+tooth: niŋabo | kiŋkaːbo	niampo	niŋabo	niŋgi	niŋkambo	niŋkaːmbo	niːŋkaːmbo 
+tooth: ningambo | kiŋkaːbo	niampo	niŋabo	niŋgi	niŋkambo	niŋkaːmbo	niːŋkaːmbo 
+tooth: ninggambo | kiŋkaːbo	niampo	niŋabo	niŋgi	niŋkambo	niŋkaːmbo	niːŋkaːmbo 
+tooth: niyi kondo | kiŋkaːbo	niampo	niŋabo	niŋgi	niŋkambo	niŋkaːmbo	niːŋkaːmbo 
+tree: at 
+two: arop | ayop	ayoːp 
+two: ayop | ayop	ayoːp 
+two: ayoːp | ayop	ayoːp 
+wallaby: bati 
+warm: nimin 
+warm: wiŋ 
+water: ok 
+we: nub 
+we: nup 
+wife: amban 
+wind: uwarim | nup	nuːp	uːp 
+wing: mburu 
+wing: purukap 
+woman: wunung | danawonoŋ	tanakon	tanawonoŋ	wonoŋ 
+you: yip | ep	kep	tep 
+all: korem 
+every: korem 
+ash: amotitkop	ikbot	itpot	kotep	yikbot	yikpot	yiːkpot 
+abdomen: kabayop	kambayop	kambaːyop	kapayop	kapeop	kapiap 
+big: darewop	daːrep	kampari	karet	koʔowat	koːwat	tarewop 
+bigness: darewop	daːrep	kampari	karet	koʔowat	koːwat	tarewop 
+large: darewop	daːrep	kampari	karet	koʔowat	koːwat	tarewop 
+bite: ananeːn	domonoːn	kaduaynen	tomoktoːmpi	tomonon 
+breasts: muk 
+claw: birit 
+nail: birit 
+talon: birit 
+cloud: wip	wiːp 
+cold: yuruk 
+come from: mene	meneːn	minimamen 
+be dead: bopnonen	bopnoːn	popnimamen	sanoːn 
+dead: bopnonen	bopnoːn	popnimamen	sanoːn 
+die: bopnonen	bopnoːn	popnimamen	sanoːn 
+drink: anem	aneːn	animamen 
+dry: kok	koknoden	koknonen	koknoːn 
+ground: parap 
+land: parap 
+soil: parap 
+fish: on	oːn	son	ton	ʔon 
+fly: wan winimamen 
+fly v.: wan winimamen 
+green: awoyep 
+left hand: birit	diŋki	tini	tiŋgi	tiŋki 
+right: birit	diŋki	tini	tiŋgi	tiŋki 
+hear: ambrem	waŋgaːmboro	weŋam	weŋampirimamen	weŋaːn 
+heart: mimyop 
+horn: turup 
+1 sg.: ne 
+kill: yimamen 
+be knowledgeable: yegat 
+know: yegat 
+male: kaduk	kalup	karup	katup 
+much: baip	kwiːtep	yemon	yemoːn	yewut	yeːwut 
+multiple: baip	kwiːtep	yemon	yemoːn	yewut	yeːwut 
+several: baip	kwiːtep	yemon	yemoːn	yewut	yeːwut 
+hill: anoŋ	araːbon	aŋko	aːŋko	koːtpon 
+title: aniŋko	yaniŋko 
+nighttime: amdom	amki	amkiti	amnom	amnoːm	amom 
+not: towon 
+adulterous: mim	mima	mimo	mimoː 
+single: mim	mima	mimo	mimoː 
+that: yakui 
+the: mim	mima	mimo	mimoː 
+unprincipled: mim	mima	mimo	mimoː 
+human: kaup 
+human being: kaup 
+rainy weather: am 
+red: dot	dotmo	tot	yamdeː	yumu 
+seed: ayop	ayop-kap 
+hide: kat 
+little: boroktep	bouŋdi	daniap	daruwoːpan	embeːŋ	empeŋ 
+small: boroktep	bouŋdi	daniap	daruwoːpan	embeːŋ	empeŋ 
+smallness: boroktep	bouŋdi	daniap	daruwoːpan	embeːŋ	empeŋ 
+rock: bol	bot	ok not	pot 
+swim: ampimamen 
+this: kei 
+2 sg: ep	kep	tep 
+grind: ayop	ayoːp 
+go: wenen 
+walk: wenen 
+what: kokomo	komo	komoː 
+white: kawa	kawalpot	kawanmo	kukmo	kukni 
+whiteness: kawa	kawalpot	kawanmo	kukmo	kukni 
+who: kande	kane	kaneː	kekaneː	kokaneː 
+who?: kande	kane	kaneː	kekaneː	kokaneː 
+female: danawonoŋ	tanakon	tanawonoŋ	wonoŋ 
+yellow: wup 
+dull: dampawip	dapap	dapapteːn	kaun	kunip	tapap 
+heavy: dampawip	dapap	dapapteːn	kaun	kunip	tapap 
+serious: dampawip	dapap	dapapteːn	kaun	kunip	tapap 

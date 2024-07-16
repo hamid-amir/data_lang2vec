@@ -1,0 +1,368 @@
+all: ngakmba | ŋakmba 
+all: ŋakmba 
+arm: wai 
+arrow: sailuŋ 
+ashes: kuke tugu 
+back: sanggil- 
+back: saŋgil- 
+bad: ngayo(nu) 
+bad: ŋayo(nu) 
+belly: funggul | fuŋgul 
+belly: fuŋgul 
+belly: sina | fuŋgul 
+big: sunggo | suŋgo 
+big: suŋgo 
+bird: omong | omoŋ 
+bird: omoŋ 
+bite: make- 
+black: dabukdabuk 
+blood: dari 
+blow: fidt(ka)- 
+bone: isu- | isu	isu- 
+boy: kingo feo 
+boy: kiŋo φɛo 
+breast: amo 
+brother: apʌ 
+brother: ëpë 
+brother: fideng 
+brother: φidɛŋ 
+burn: pi- 
+butterfly: malpon 
+calf: marang dem 
+calf: maraŋ dem 
+cassowary: daso 
+chest: ta\wo 
+chest: taʔwo 
+child: kingo 
+child: kiŋo 
+chin: kanggang 
+chin: kaŋgaŋ 
+chin: mingge 
+chin: miŋge 
+cloud: gau 
+cold: tʰido-nu 
+cold: tido-nu | tʰido-nu 
+come: ili- | ili	ili- 
+crocodile: kurouf 
+crocodile: kurouφ 
+cut: kʷɛr(ka)- 
+cut: kwer- 
+cut: kwɛr- 
+cut: kwer(ka)- 
+dance: kupes- 
+day: firiram 
+day: furiram 
+die: kumi- | kumi	kumi- 
+dig: nggu(ka)- 
+dig: ŋgu(ka)- 
+dig: sar(ka)- 
+dirty: kutur(ngak) 
+dirty: kutur(ŋak) 
+dog: age 
+dry: karengg- | karɛŋg-	parak	paraknu 
+dry: karɛŋg- | karɛŋg-	parak	paraknu 
+dry: parak(nu) | karɛŋg-	parak	paraknu 
+ear: kilba 
+earth: kike 
+eat: ɲa- 
+eat: ngin(ka)- | ɲa- 
+eat: nya- | ɲa- 
+egg: ting-no | tiŋ-no 
+egg: tiŋ-no 
+elbow: da\ol 
+elbow: daʔol 
+emu: daso 
+excrement: sumbi 
+eye: am 
+face: tumail 
+fall: baringga- 
+fall: bariŋga- 
+fall: ngguru- 
+fall: ŋguru- 
+fall: piki- 
+far: maskɛn 
+father: mam 
+fat (n.): kuya- 
+fear: kurukur(ka)- 
+fight: ŋge kat- 
+finger: nyigiring- 
+fire: bulu | pa 
+fire: pa 
+fish: kʷaleʔaŋ | kw~ale7aN	kʷaleʔaŋ 
+fish: kwale\ang | kw~ale7aN	kʷaleʔaŋ 
+fly (n.): ngguelmbo 
+fly (n.): ŋguɛlmbo 
+fly (v.): bungga- 
+fly (v.): buŋga- 
+fog: bidu 
+forehead: tumail 
+forest: dunge 
+forest: duŋe 
+fruit: ting 
+full: kuɲ- | le7	leʔ- 
+full: kuny- | le7	leʔ- 
+full: le\ | le7	leʔ- 
+full: leʔ- | le7	leʔ- 
+girl: pinom feo 
+girl: pinom φɛo 
+give: ø/sa-/ta-/taw- 
+give: sa- 
+good: maye(nu) | maye	mayenu 
+grass: ire 
+green: kambol 
+guts: sina 
+hair: wang | waŋ 
+hair: waŋ 
+head: gabat 
+head: itilu | gabat 
+hear: is- | is	is-	isit	isit- 
+hear: isit- | is	is-	isit	isit- 
+heart: tawonu | ?tawonu 
+heart: tawonu (?) | ?tawonu 
+heavy: piti(nu) | piti	pitinu 
+here: kite 
+here: tetangge (?) 
+here: tetaŋge 
+he/she: -no 
+he/she: nu 
+he/she: nu- 
+he/she: -ø- 
+he/she: -w- 
+hit: ngge kat- 
+hold: biyi- 
+house: wënde 
+house: wʌnde 
+how: gianba 
+ice: tiŋ 
+in: sinam 
+I: -y- | yE	yɛ 
+I: ye | yE	yɛ 
+I: ye- | yE	yɛ 
+I: yɛ | yE	yɛ 
+I: yɛ- | yE	yɛ 
+kill: bale- 
+knee: dagol(pasi) | dagol	dagol pasi	dagolpasi 
+laugh: jumil(ka)- 
+laugh: ɟumil(ka)- 
+left: ngaingam 
+left: ŋaiŋam 
+leg: kupe- 
+lightning: eling(w)- 
+lightning: eliŋ(w)- 
+liver: gamu | NgamuNgalnu	gamu	ŋgamuŋgal	ŋgamuŋgalnu 
+liver: nggamunggal(nu) | NgamuNgalnu	gamu	ŋgamuŋgal	ŋgamuŋgalnu 
+liver: ŋgamuŋgal(nu) | NgamuNgalnu	gamu	ŋgamuŋgal	ŋgamuŋgalnu 
+long: kʷen 
+long: kwen | kʷen 
+louse: meu 
+man: pailno | taŋgo 
+man: tanggo | taŋgo 
+man: taŋgo 
+many: gudomba 
+meat: ndem- 
+moon: tambun 
+morning: mafen 
+morning: mafɛn 
+morning: mara tukuk 
+mosquito: gisnain 
+mother: ina 
+mountain: bing | biN	biŋ	tabe 
+mountain: biŋ | biN	biŋ	tabe 
+mountain: tabe | biN	biŋ	tabe 
+mouth: mingge | miŋge 
+mouth: miŋge 
+name: nyunu | 5unu	nyunu 
+nape: duku 
+navel: dabob 
+near: patuk 
+neck: ŋigol 
+neck: nginfok | ŋigol 
+new: kitek 
+night: furir- | furir	furir- 
+nose: fumbe 
+not: kwa 
+old: eibow 
+old: urfunu 
+one: ndindo | ndi-ndo	ndindo	nd~ind~o 
+pull: didi(ka)- 
+push: mbiti(w)- 
+rain: sawe 
+rat: sip 
+red: gurgur 
+right: dinam 
+ripe: mander(nu) 
+ripe: mandɛrr(nu) 
+road: ndin | nd~in 
+root: aitugu | altugu	sumbail 
+root: altugu | altugu	sumbail 
+root: sumbail | altugu	sumbail 
+rope: ŋgwɛl 
+salt: yu 
+sand: beal | fulbul 
+sand: fulbul 
+say: pasata- | sa- 
+say: sa- 
+scratch: nggirisingg- 
+scratch: ŋgirisŋg- 
+sea: yu 
+see: kangger- | kaNgEr	kaŋgɛr- 
+see: kaŋgɛr- | kaNgEr	kaŋgɛr- 
+see: mambil- | kaNgEr	kaŋgɛr- 
+sharp: a\ok(nu) 
+sharp: aʔok(nu) 
+sharp: sama- 
+short: fat(nu) | fat	fatnu 
+shoulder: em 
+shoulder: kailman 
+sing: muneul- 
+sister: kulim 
+sit: minyo(ka)- | miɲo-	miɲoka- 
+sit: miɲo(ka)- | miɲo-	miɲoka- 
+skin: garo 
+sky: samba 
+sleep: kini- 
+small: fuding(do) | fudiŋ	fudiŋdo 
+small: fudiŋ(do) | fudiŋ	fudiŋdo 
+smell: mundur- 
+smoke: gua 
+snake: mbeng | mbeŋ 
+snake: mbeŋ 
+spit: gusbe 
+spit: ŋgiskolta- 
+split: fit(ka)- 
+stand: tingga- 
+stand: tiŋga- 
+star: mbai | mbai	mb~ai 
+stick: papani 
+stone: ndame | ndame	nd~ame 
+straight: ting(no) 
+straight: tiŋ(no) 
+sun: ki 
+swell: fulil(ka)- 
+tail: dadu 
+take: ta- 
+that: si(ta) | si	sita 
+that: si(taa) | si	sita 
+there: sitangge 
+there: sitaŋge 
+they: na-ne 
+they: nane- 
+they: na-nɛ 
+they: nanɛ- 
+they: -nangg- 
+they: -niŋg- 
+thigh: fel 
+thigh: fɛl 
+think: wam dus- 
+this: de(ta) | de	deta 
+thou: -n- | nE	nɛ 
+thou: ne | nE	nɛ 
+thou: ne- | nE	nɛ 
+thou: nɛ | nE	nɛ 
+thou: tane- | nE	nɛ 
+thou: ta-nɛ | nE	nɛ 
+thou: -tiŋg- | nE	nɛ 
+throat: kulenginka 
+throat: kulɛŋinka 
+throw: pan(ka)- 
+thunder: kʷaila uli- 
+thunder: kwaila uli- 
+tie: didi(ka)- 
+tomorrow: aspile 
+tomorrow: endole 
+tongue: mane 
+tooth: maketing | maketiN	maketiŋ 
+tooth: maketiŋ | maketiN	maketiŋ 
+tree: ail 
+tree: aŋgɛ-nu | ail 
+tree: tuʔu | ail 
+turn: mbil(ka)- 
+two: armba | ar-mba	armba	armb~a 
+vagina: sume 
+vagina: sumɛ 
+walk: k(ini)- | lik- 
+walk: lik- 
+walk: pindɛrr(ka)- | lik- 
+wallaby: wanggil 
+wallaby: waŋgil 
+warm: pak(nu) 
+wash: pisa- 
+wash: pisne- 
+water: kule 
+weep: malmbi(ka)- 
+we: si-ne | sinE 
+we: sine- | sinE 
+we: sinɛ- | sinE 
+we: -singg- | sinE 
+we: -siŋg- | sinE 
+wet: bisuk 
+what: ame\ang | ameʔaŋ 
+what: ameʔaŋ 
+where: ani(ngge) 
+where: ani(ŋgɛ) 
+white: kaukauk 
+who: ima 
+wind: bubre 
+wing: salmban 
+woman: panggarno | pinom 
+woman: paŋgarno | pinom 
+woman: pinom 
+wood: ba\ar 
+wood: baʔar 
+wood: papani 
+yellow: kulong | kuloŋ 
+yellow: kuloŋ 
+yes: as 
+yesterday: ailfu 
+yesterday: kubele 
+yesterday: kubɛlɛ 
+you: ta-ne | nE	nɛ 
+you: tane- | nE	nɛ 
+you: -tingg- | nE	nɛ 
+every: ŋakmba 
+ash: kuke tugu 
+abdomen: fuŋgul 
+bigness: suŋgo 
+large: suŋgo 
+breasts: amo 
+come from: ili	ili- 
+be dead: kumi	kumi- 
+dead: kumi	kumi- 
+ground: kike 
+land: kike 
+soil: kike 
+fly: buŋga- 
+fly v.: buŋga- 
+1 sg.: yE	yɛ 
+head louse: meu 
+male: taŋgo 
+much: gudomba 
+multiple: gudomba 
+several: gudomba 
+hill: biN	biŋ	tabe 
+title: 5unu	nyunu 
+nighttime: furir	furir- 
+adulterous: ndi-ndo	ndindo	nd~ind~o 
+single: ndi-ndo	ndindo	nd~ind~o 
+the: ndi-ndo	ndindo	nd~ind~o 
+unprincipled: ndi-ndo	ndindo	nd~ind~o 
+rainy weather: sawe 
+path: nd~in 
+route: nd~in 
+hide: garo 
+little: fudiŋ	fudiŋdo 
+smallness: fudiŋ	fudiŋdo 
+rock: ndame	nd~ame 
+2 sg: nE	nɛ 
+grind: ar-mba	armba	armb~a 
+go: lik- 
+1 pl. inc.: sinE 
+we₁: sinE 
+whiteness: kaukauk 
+who?: ima 
+female: pinom 
+distant: maskɛn 
+dull: piti	pitinu 
+serious: piti	pitinu 
+close: patuk 
+ner: patuk 

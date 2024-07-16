@@ -1,0 +1,141 @@
+all: gounigia	orauganu 
+every: gounigia	orauganu 
+ash: wape	wapɛː	waːpe 
+ashes: wape	wapɛː	waːpe 
+bark: apiːna	kʰapesa 
+abdomen: laina	rain 
+belly: laina	rain 
+big: zawega	zaweːga 
+bigness: zawega	zaweːga 
+large: zawega	zaweːga 
+bird: isupa	isupe	isuːp̚ 
+bite: barado	emebabarado 
+black: daumga	doumu	dʌᵘmga 
+blood: adada	adaːd 
+bone: nala	naraia	naraː 
+breast: ama	aːm 
+breasts: ama	aːm 
+claw: bakora	wiribo 
+nail: bakora	wiribo 
+talon: bakora	wiribo 
+cloud: -gaga	doumta	dʌᵘmtʰa	gaga 
+cold: epoːpga	epʰopga 
+come: nau	nawo	nobmenam 
+come from: nau	nawo	nobmenam 
+be dead: warewa 
+dead: warewa 
+die: warewa 
+dog: sea	seae 
+drink: aiamea	ayam 
+dry: kakaku-gaga	kakakuga	kakakugaga 
+ear: abamata	bamata	bamaːt 
+eat: aiamea	aiyam	ne aiam 
+egg: sara	saːr 
+eye: barida	baridi	bariːːd 
+feather: bubusa	bubusaː	usanupa 
+fire: sura	sure	suːr 
+fish: kaboma	kaboᵘma	kʰaboːm 
+fly: obarɛtɛ	teobaia 
+fly v.: obarɛtɛ	teobaia 
+foot: adara	edara	pʰat̪a	pʰaːtʰ 
+full: kusukusga	maduapopote 
+give: egabiː	wereb ʔegabi 
+good: aregaga	areːga	arɛga 
+green: dʌᵘmga aitaga 
+hair: titia	tʰitʰiː	t̪it̪i 
+hand: saga	sagaː	suga-pata	tigiri 
+left hand: saga	sagaː	suga-pata	tigiri 
+right: saga	sagaː	suga-pata	tigiri 
+head: kapuru	kʰapur	kʰapura 
+hear: wewere 
+heart: dinamom	dinamoːm	dinamumi 
+horn: kʰarit̪a 
+1 sg.: noga	nogao 
+I: noga	nogao 
+kill: wainea	weinɛːn 
+knee: baeuta	boutaː	boutere 
+be knowledgeable: barisaganana	bariseganana	barisiːd 
+know: barisaganana	bariseganana	barisiːd 
+leaf: kesopusa	kʰiaba	pʰupʰuːs 
+lie: tene 
+lie down: tene 
+liver: arama	marada	maraːd 
+long: doraːpga 
+male: amiama	amiaːm	ane	anɛː	tanim 
+man: oregyanuna 
+many: dubaduba	dubadubə 
+much: dubaduba	dubadubə 
+multiple: dubaduba	dubadubə 
+several: dubaduba	dubadubə 
+moon: goream	goreame	goreaːm 
+hill: gumutaː	ina 
+mountain: gumutaː	ina 
+mouth: tawaei	taware	tʰawar	t̪ʰamala 
+name: oroma	oroːm 
+title: oroma	oroːm 
+neck: obae	obai	obaiː 
+new: gai-gaga	gaigaga	gɛga 
+night: dina	dinadina	dinai 
+nighttime: dina	dinadina	dinai 
+nose: naros	narosa	narose 
+not: unaip̚ 
+adulterous: braugʌ	oraoga	oraugə 
+one: braugʌ	oraoga	oraugə 
+single: braugʌ	oraoga	oraugə 
+that: takorɛ 
+the: braugʌ	oraoga	oraugə 
+unprincipled: braugʌ	oraoga	oraugə 
+human: oregyanuna 
+human being: oregyanuna 
+person: oregyanuna 
+rain: iougu	iʌeuega	yauːg 
+rainy weather: iougu	iʌeuega	yauːg 
+red: idimga	idɪmga 
+root: erodo	miːt 
+round: waremtaga 
+sand: nine	ninei	niːnai	nɪna 
+say: rɛː	warerea 
+see: weaːm	weⁱama 
+seed: gəⁱsanen	moːm	nene 
+sit: agaso	egasowa	naʔaoasan 
+hide: kapesa	kapese	kʰapɛːs 
+skin: kapesa	kapese	kʰapɛːs 
+sleep: nua	tɛnɛː 
+little: kaisiki	kaisik̚	kaːsikʰ 
+small: kaisiki	kaisik̚	kaːsikʰ 
+smallness: kaisiki	kaisik̚	kaːsikʰ 
+smoke: temim	tɛːmim	t̪ɛmim 
+star: opapa	ruruːp	ʔazawe 
+rock: guma	gumaː 
+stone: guma	gumaː 
+sun: alumt̪a	aruːnta	kareme 
+swim: faradonare	paradomtar 
+tail: nupa	sumi	suːm 
+this: akorɛː 
+2 sg: oga	ogao 
+thou: oga	ogao 
+you: oga	ogao 
+tongue: ima	ʔiːm 
+tooth: su	suː 
+grind: misaga	misagʌ	misəge 
+two: misaga	misagʌ	misəge 
+go: aworom	aworomea 
+walk: aworom	aworomea 
+water: oba	oːb 
+what: kenasoro	kɛnamoː 
+white: kamega	kameːga	kʰamega 
+whiteness: kamega	kameːga	kʰamega 
+who: kendonana	kɛnando 
+who?: kendonana	kɛnando 
+female: kiwazu	kiwaːʔ	tʰiwadzu 
+woman: kiwazu	kiwaːʔ	tʰiwadzu 
+yellow: denadaga	dɛmadʌga 
+distant: taike 
+far: taike 
+dull: deuga	dewagaga 
+heavy: deuga	dewagaga 
+serious: deuga	dewagaga 
+short: tepo-gaga	tepogaga 
+snake: maniga	manige	maniːg 
+thin: tamaʼawe	tamaːwe 
+wind: burubu	burubuː 

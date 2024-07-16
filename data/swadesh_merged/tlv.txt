@@ -1,0 +1,152 @@
+all: sou 
+every: sou 
+ash: afu 
+ashes: afu 
+abdomen: ntuka 
+belly: ntuka 
+big: haya 
+bigness: haya 
+large: haya 
+bird: manu7	manuʔ 
+bite: koki	tolo5	toloñ 
+black: barede 
+blood: poloc 
+bone: talaN	talañ 
+breast: tete 
+breasts: tete 
+burn: sinaŋa	tunu 
+burn tr.: sinaŋa	tunu 
+cloud: wana eta5	wana etañ 
+cold: Ngomo5	ŋgomoñ 
+come: haec 
+come from: haec 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: asu 
+drink: inuN	inuŋ 
+dry: moyoN	moyoŋ	pidi 
+ear: taliNa	taliŋa 
+earth: peta7 
+ground: peta7 
+land: peta7 
+soil: peta7 
+eat: ka5	kañ 
+egg: tolu 
+eye: beleN	beleŋ 
+fat: mina7 
+fat n.: mina7 
+grease: mina7 
+lubricant: mina7 
+oil: mina7 
+feather: fulu5	fuluñ 
+fire: uto5	utoñ 
+fish: kena 
+foot: loc	mfalaho5 
+good: bia 
+green: mamaula 
+hair: ulu 
+hand: faha	lima 
+left hand: faha	lima 
+right: faha	lima 
+head: ntalaN	ntalañ	ulu 
+hear: mine 
+1 sg.: aku 
+I: aku 
+kill: kamate 
+be knowledgeable: kanano7u	kananoʔu 
+know: kanano7u	kananoʔu 
+leaf: ndo5	ndoñ 
+lie: lukuc 
+lie down: lukuc 
+liver: ate	n|ate 
+long: nahuN	nahuŋ 
+head louse: tuma 
+louse: tuma 
+male: mene 
+man: matatu	matatuu 
+flesh: isiN 
+meat: isiN 
+moon: mapa 
+mouth: suN	suŋ 
+name: Na5	ŋaañ 
+title: Na5	ŋaañ 
+neck: toloiNkedo5	toloiŋkedoñ 
+new: fohu 
+night: modoN	modoŋ 
+nighttime: modoN	modoŋ 
+nose: No	ŋoo 
+not: daN 
+adulterous: sia	siya 
+one: sia	siya 
+single: sia	siya 
+that: moko 
+the: sia	siya 
+unprincipled: sia	siya 
+human: matatu	matatuu 
+human being: matatu	matatuu 
+person: matatu	matatuu 
+rain: uya5	uyañ 
+rainy weather: uya5	uyañ 
+red: bagasa7	bagasaʔ	kabarara 
+path: leliN	leliŋ	nonu 
+road: leliN	leliŋ	nonu 
+route: leliN	leliŋ	nonu 
+root: nuhac 
+sand: unac 
+say: faya 
+see: to	too 
+sit: touc 
+hide: kuli 
+skin: kuli 
+sleep: lukuc 
+little: mei 
+small: mei 
+smallness: mei 
+smoke: tafoluN	tafoluŋ 
+stand: dadi	koho5 
+star: fuho 
+rock: ndolu 
+stone: ndolu 
+swim: naNu	naŋu 
+tail: iku 
+this: mai 
+2 sg: kemo	kou 
+thou: kemo	kou 
+you: kemo	kou 
+tongue: ama5	d|amañ 
+tooth: Nio5	ŋioñ 
+grind: howo 
+two: howo 
+go: lau 
+walk: lau 
+hot: mutuŋ 
+warm: mutuŋ 
+water: wayo 
+1 pl. inc.: kami	kito 
+we: kami	kito 
+we₁: kami	kito 
+what: ca	caa	man5	mañ 
+white: kabafufu 
+whiteness: kabafufu 
+who: woi 
+who?: woi 
+female: fine 
+woman: fine 
+yellow: kuni 
+distant: jawo 
+far: jawo 
+dull: mfahac 
+heavy: mfahac 
+serious: mfahac 
+close: dosuñ 
+near: dosuñ 
+ner: dosuñ 
+salt: gasiŋ 
+short: nitoʔ 
+snake: habai 
+thin: manipi 
+wind: wohe 
+earthworm: ule 
+worm: ule 
+year: musuŋ 

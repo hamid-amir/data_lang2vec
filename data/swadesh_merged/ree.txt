@@ -1,0 +1,265 @@
+all: lim 
+every: lim 
+ash: avuʔ 
+ashes: avuʔ 
+abdomen: butit 
+belly: butit 
+big: ayaʔ 
+bigness: ayaʔ 
+large: ayaʔ 
+bird: manuk 
+bite: maʔet 
+black: pitem 
+blood: daha 
+bone: tulaN	tulaŋ 
+breast: mu7	muʔ 
+breasts: mu7	muʔ 
+burn: nutuŋ 
+burn tr.: nutuŋ 
+cloud: laŋet 
+cold: heŋem 
+come: ne	né 
+come from: ne	né 
+be dead: mate	maté 
+dead: mate	maté 
+die: mate	maté 
+dog: asu7	asuʔ 
+drink: dui 
+dry: megaŋ 
+ear: apEN	apeŋ 
+eat: kuman 
+egg: teluh 
+eye: mata7	mataʔ 
+feather: buluʔ 
+fire: apuy 
+fish: masik 
+fly: madaŋ 
+fly v.: madaŋ 
+good: sayu 
+green: ñemit 
+hair: buk 
+hand: usu 
+left hand: usu 
+right: usu 
+head: kuhuŋ 
+hear: NEriN	ŋeriŋ 
+1 sg.: akuy 
+I: akuy 
+kill: l-em-até 
+be knowledgeable: jam 
+know: jam 
+leaf: da7un	daʔun 
+lie: miri 
+lie down: miri 
+liver: ate	até 
+long: aru 
+head louse: kutu7	kutuʔ 
+louse: kutu7	kutuʔ 
+male: lakiʔ 
+man: kelunan 
+moon: bulan 
+mouth: ba 
+name: aran 
+title: aran 
+neck: keraʔ 
+new: mariN	mariŋ 
+night: malEm	malem 
+nighttime: malEm	malem 
+nose: uruN	uruŋ 
+adulterous: ji 
+one: ji 
+single: ji 
+that: anan 
+the: ji 
+unprincipled: ji 
+human: kelunan 
+human being: kelunan 
+person: kelunan 
+rain: usan 
+rainy weather: usan 
+red: bela 
+path: alan 
+road: alan 
+route: alan 
+root: pakat 
+sand: hait 
+say: megi 
+see: 5inEN	ñineŋ 
+sit: meluʔ 
+hide: anit 
+skin: anit 
+sleep: tudu 
+little: duʔuk	uʔuk 
+small: duʔuk	uʔuk 
+smallness: duʔuk	uʔuk 
+smoke: lisun 
+star: kErawiN	kerawiŋ 
+rock: batu7	batuʔ 
+stone: batu7	batuʔ 
+swim: ñatuŋ 
+tail: ikuh 
+this: anih 
+2 sg: ika7	ikaʔ 
+thou: ika7	ikaʔ 
+you: ika7	ikaʔ 
+tongue: jEla	jela 
+tooth: ipa7	ipaʔ 
+grind: dua7	duaʔ 
+two: dua7	duaʔ 
+go: pano 
+walk: pano 
+hot: lasu 
+warm: lasu 
+water: ata7	ataʔ 
+1 pl. inc.: itam	kamiʔ 
+we: itam	kamiʔ 
+we₁: itam	kamiʔ 
+what: nun 
+white: puti 
+whiteness: puti 
+who: hi 
+who?: hi 
+female: duh 
+woman: duh 
+yellow: kunuŋ 
+distant: su 
+far: su 
+dull: bahat 
+heavy: bahat 
+serious: bahat 
+close: jeleŋ 
+near: jeleŋ 
+ner: jeleŋ 
+salt: heñaʔ 
+short: biʔik 
+snake: ñipah 
+thin: ñipi 
+wind: bahuy 
+earthworm: haleŋ 
+worm: haleŋ 
+year: duman 
+2 pl.: ikam 
+ye: ikam 
+you all: ikam 
+3 pl.: dahaʔ 
+they: dahaʔ 
+where: hinuʔ 
+where?: hinuʔ 
+when: hiran 
+when?: hiran 
+how: nunuʔ 
+how?: nunuʔ 
+other: atih 
+three: teluʔ	təluʔ 
+four: pat 
+five: limaʔ 
+broad: ayaʔ 
+wide: ayaʔ 
+wideness: ayaʔ 
+fat: aduŋ 
+thick: kapal 
+narrow: duʔuk 
+principal wife: hawan 
+wife: hawan 
+husband: hawan 
+his mother: hiné 
+mother: hiné 
+my mother: hiné 
+father: amé 
+his father: amé 
+my father: amé 
+forest: tuan 
+woods: tuan 
+branch: daʔan 
+stick: daʔan 
+fruit: bua 
+flower: buŋa 
+grass: uruʔ 
+cord: taliʔ 
+rope: taliʔ 
+flesh: sin 
+meat: sin 
+grease: aduŋ 
+wing: kapit 
+gut: tenaʔiʔ 
+guts: tenaʔiʔ 
+insides: tenaʔiʔ 
+intestine: tenaʔiʔ 
+intestines: tenaʔiʔ 
+back: laʔuŋ 
+suck: ñerut 
+spit: l-em-ura 
+vomit: n-uta 
+blow: mahar 
+breath: mejat heŋaʔ 
+breathe: mejat heŋaʔ 
+laugh: kesiŋ 
+laughter: kesiŋ 
+cogitate: pikir 
+reflect: pikir 
+think: pikir 
+smell: ŋe-bu 
+sniff: ŋe-bu 
+afraid: takut 
+be afraid: takut 
+fear: takut 
+fright: takut 
+alive: murip 
+be alive: murip 
+life: murip 
+live: murip 
+living: murip 
+hunt: kaka 
+beat: ñagaʔ 
+hit: ñagaʔ 
+strike: ñagaʔ 
+cut: miteŋ 
+hack: miteŋ 
+cut open: miaŋ 
+split: miaŋ 
+pierce: mulu 
+stab: mulu 
+scratch: ŋatel 
+dig: ŋaliʔ 
+stand: biti 
+drop: legak 
+fall: legak 
+grasp: higem 
+hold: higem 
+hold in arm: higem 
+squeeze: meset 
+wring: meset 
+throw: tevaleŋ 
+bind: ŋatuŋ 
+fasten: ŋatuŋ 
+tie: ŋatuŋ 
+tie up: ŋatuŋ 
+sew: j-em-ahut 
+count: mujap 
+enumerate: mujap 
+number: mujap 
+tally: mujap 
+lake: bawaŋ 
+ocean: baŋet 
+sea: baŋet 
+dust: pup 
+fog: ap 
+sky: laŋit 
+bad: jaʔek 
+evil: jaʔek 
+rot: maram 
+rotten: maram 
+dirty: m-asep 
+filthy: m-asep 
+soiled: m-asep 
+sharp: ñaʔet 
+blunt: kasel 
+damp: basa 
+wet: basa 
+right side: taʔaw 
+left: hulé 
+at: haʔ 
+in: halem 
+inside: halem 
+and: dahin 
+if: hiaʔ 

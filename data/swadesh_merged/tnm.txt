@@ -1,0 +1,662 @@
+ankle: oto = "leg 
+ankle: otu-butu = "knee 
+ankle: yengkeng 
+arm: me(ka) 
+arm: metre su 
+arrow: pəra 
+ashes: kipa 
+ashes: kum 
+ashes: tifa 
+ashes: tipa 
+at: na 
+back: motosu 
+bad: kepawe 
+bad: peko 
+bad: srai 
+bark: se 
+bark: sie 
+bark: sye 
+belly: esere 
+belly: yase 
+belly: yesëre 
+belly: yesësë 
+big: dele 
+big: dere 
+big: detre 
+big: (eu)dele 
+big: moti 
+bird: ae 
+bird: ao 
+bird: awe 
+bird: awë 
+bird: awə 
+bird: awër 
+bird: awo 
+bite: ekë- 
+bite: ekə- 
+bite: ekipo(ime) 
+bite: nanë- 
+bite: nanə- 
+bitter: pete 
+bitter: petë 
+bitter: petə 
+black: neko-neko 
+black: nëko-nëko 
+black: nəko-nəko 
+black: nëxo-nëxo 
+black: noko 
+black: noko-noko 
+blood: duo 
+blood: sa 
+blood: saː 
+blood: saa 
+blow: mapë- 
+blow: mapə- 
+bone: duo 
+bone: mengkei 
+bone: meŋkei 
+bone: oro 
+branch: mise 
+branch: misie 
+branch: misye 
+breast: kong 
+breast: kong dou 
+breathe: enulu-te yepewe 
+brother: aka 
+brother: motona (older 
+brother: udeke 
+brother: yalise 
+brother: younger) 
+burn: elepiku 
+burn: elzepuku 
+burn: herefuxo 
+burn: sakupuku 
+butterfly: ae-kingking 
+butterfly: au-kingking 
+butterfly: awe (ki)king 
+butterfly: eikukura 
+butterfly: hau-gengking 
+butterfly: safifa 
+calf: kewaa 
+calf: kowaa 
+calf: kowa duo 
+cassowary: su(a)le 
+cassowary: suare 
+cheek: katu 
+cheek: qatu 
+chest: kena 
+child: yei 
+child: yenining 
+chin: sei 
+chin: sei katu 
+cloud: ma 
+cloud: sero 
+come: datə 
+come: datëma 
+come: datë mëwë 
+come: me 
+come: miai 
+come: mime 
+count: (mətə)bewə 
+crocodile: ka(ng)kurun 
+crocodile: kangkurung 
+cut: nə- 
+cut: pero 
+daughter: womi 
+day: daise 
+day: dai(syə) 
+die: diya tetepukoi 
+die: no 
+die: petepeku 
+die: tëtë 
+die: tətə 
+die: teto-bugho 
+dig: weipomie 
+dig: wewë- 
+dig: wewə- 
+dirty: niki 
+dog: yoku 
+drink: anë-masin 
+drink: anisime 
+drink: buta-nimi 
+drink: bute anisi 
+drink: bute antesine 
+drink: dusime 
+dry: jrapuku 
+dry: kelapoko 
+dry: këra- 
+dry: kəra- 
+dry: kla-kla 
+dry: krabuxo 
+ear: benteki 
+ear: betengkei 
+ear: buntëkai 
+ear: buntekei 
+ear: buntëkei 
+ear: buntəkei 
+ear: bwëntëxei 
+ear: pentakey 
+earth: kani 
+earth: kënda 
+eat: ane 
+eat: anë 
+eat: anë- 
+eat: anə- 
+eat: ani 
+eat: anine 
+eat: anu 
+eat: tum(peko) 
+eat: tunepoi 
+egg: ae-dong 
+egg: au-dong 
+egg: (awe-)don(g) 
+egg: dong 
+egg: doŋ 
+elbow: me-butu 
+excrement: ete 
+excrement: etë 
+eye: do 
+eye: dou 
+eye: ëndow 
+eye: ndou 
+fall: ketei poime 
+fall: ku- 
+far: baina 
+far: denebu 
+father: delei (mu)mai 
+father: mëmai 
+father: məmai 
+fat (n.): mërai-bu 
+fat (n.): yu 
+feather: (ae-)pie 
+feather: (awe) pie 
+feather: fie 
+fight: saŋkut 
+finger: me-keu 
+finger: me-keu dele 
+finger: mə kwəu 
+finger: me nyau 
+fingernail: (meka-)keu 
+fingernail: (mëka-)keu 
+fingernail: mëka-keu 
+fingernail: məka-keu 
+fingernail: më mëngkëi 
+fingernail: mə məŋkəi 
+fingernail: mengkei 
+fingernail: (moka-)keu 
+finger: oto-keu 
+fire: sin 
+fire: sing 
+fire: sin(g) 
+fire: siŋ 
+fish: ka 
+five: mekasubëi 
+five: mesi 
+five: məsi 
+float: ya 
+fly (n.): kapo 
+fly (n.): xafo 
+fly (v.): nekë- 
+fly (v.): nekə- 
+forehead: paita 
+forehead: patia 
+forest: mela (buru) 
+forest: mëra buru 
+four: kri-mbei 
+four: kri(mbei) 
+four: sari 
+fruit: eu 
+fruit: masu 
+fruit: na 
+fruit: (o-)na 
+full: kë-mewë 
+full: (kə)mewə 
+full: netewade 
+full: wanda anapuka 
+full: yase-wande 
+full: yët-oande 
+give: i 
+give: ineme 
+give: inëme 
+give: inəme 
+give: -iteme 
+give: itëme 
+give: mitime 
+good: foi 
+good: foy 
+good: fu-foi 
+good: (pë-)poi 
+good: poi 
+grass: ay 
+grass: aya 
+grass: ge 
+grass: osi 
+green: belu 
+green: nisi(-nisi) 
+green: yango-yango 
+guts: eser kia 
+guts: yeti 
+hair: eu-pie 
+hair: fie 
+hair: nua 
+hair: nuna 
+hair: nwa 
+hair: uNa 
+hand: me 
+hand: më 
+hand: mə 
+hand: meka 
+hand: moka 
+head: bëlengka 
+head: bërangka 
+head: blengka 
+head: brangka 
+head: brengka 
+head: breŋka 
+head: tenai 
+head: tenay 
+head: ton-yang 
+head: tonyei 
+head: ton-yeng 
+hear: bet- 
+hear: bətoe 
+hear: bëtoë 
+hear: boto- 
+heavy: se 
+heavy: së 
+heavy: sə 
+heel: oto temutu 
+heel: oto tenutu 
+here: menaye 
+he/she: die 
+he/she: dyëi 
+he/she: maopopa 
+he/she: ne 
+he/she: -ne 
+he/she: në 
+he/she: nə 
+hit: toipoime 
+hole: bulu 
+hole: buru 
+house: mie 
+house: mye 
+house: ongko 
+house: pale 
+house: parë 
+house: parə 
+husband: do 
+I: de 
+I: dë 
+I: də 
+I: de ~ də 
+in: a 
+in: esuna 
+I: -te 
+I: wepebesik 
+kill: topomie (?) 
+knee: (oto-)butu 
+knee: oto-butu 
+knee: yengkeng 
+laugh: dëtë dëwë 
+laugh: dətə dəwə 
+leaf: fëkei 
+leaf: këpai 
+leaf: (ke-)pe 
+leaf: kë-pei 
+leaf: (kə)pei 
+leaf: (o-)kepai 
+leaf: (o-)pe 
+left: miri su 
+left: miru su 
+leg: oto 
+lie: tëno- 
+lie: təno- 
+lightning: eli 
+lightning: eri 
+lip: auwa 
+lip: eva 
+live: wali 
+live: wari 
+long: tigi 
+long: tiki 
+louse: ming 
+louse: miŋ 
+louse: opi 
+man: do 
+man: do(yei) 
+many: dopele 
+many: eren-dofre 
+many: tereng 
+many: tërëng 
+many: tərəŋ 
+many: tërn-dofre 
+meat: dotrulu 
+meat: eu 
+moon: oko 
+morning: dene(-bu) 
+morning: dene-mbu 
+morning: yakau 
+mosquito: se 
+mosquito: sunggurung 
+mosquito: sungkunung 
+mosquito: sungkunu(ng) 
+mother: deleinamen 
+mountain: meko 
+mountain: moko 
+mountain: sëro 
+mountain: soro 
+mouth: em-beu 
+mouth: em-blu 
+mouth: em-bu(l)ru 
+mouth: em-bulu 
+mouth: em-buru 
+name: do 
+name: eduo 
+name: seso 
+name: wado 
+nape: sanende 
+narrow: kəkə 
+navel: buntung 
+near: eitouna 
+near: wambe 
+neck: naggu 
+neck: nangko 
+neck: seso 
+new: manifana 
+new: manipana 
+new: neme 
+new: neme-dopelre 
+new: neplei 
+new: nufrenia 
+new: sekolo 
+new: sëkro 
+new: səkro 
+new: suambai 
+night: dën 
+night: dən 
+night: dene 
+night: dënë 
+night: dənə 
+night: deneng 
+night: denie 
+night: tereng 
+nose: timbko 
+nose: timëxo 
+nose: timëxo-buru 
+nose: timiko 
+nose: timoko bulu 
+nose: timuko 
+not: ambai 
+not: pai 
+old: lotëro petua 
+old: sonyang 
+old: wali-sna 
+one: bei 
+one: besika 
+one: mbei 
+one: mbei: 
+person: de-tro 
+person: do-tro 
+person: yo-tëro 
+pull: dawə- 
+pull: yepo- 
+pull: yëpoe- 
+pull: yəpowə- 
+push: susa- 
+rain: bi 
+rat: nangko 
+rat: wafo 
+red: ming-ming 
+red: nimi 
+red: nimi-nimi 
+red: nimi(-nimi) 
+ripe: kla-kla 
+ripe: nimi 
+ripe: poitre 
+river: merewai 
+river: (mere)wai 
+river: moroai 
+road: newaesime 
+road: nifi 
+road: nipi 
+root: inso 
+root: o-niso 
+root: (o-)yanso 
+root: yenso 
+rope: sa 
+round: këfo-bugo 
+round: këmbou-këmbou 
+round: kəmbou-kəmbou 
+round: kepeo-kepea 
+round: yembuboku 
+round: yembubuku 
+sand: kisi 
+sand: tisi 
+say: elime 
+say: ere 
+say: erë- 
+say: erə- 
+say: erewe 
+say: erime 
+scratch: kenëwë- 
+scratch: kenəwə- 
+sea: nau 
+seed: iu 
+seed: na 
+seed: na-nggeng 
+seed: na(ngke) 
+see: te 
+see: të- 
+see: tə- 
+see: tekene 
+see: tenime 
+see: tinbomie 
+see: tumbëkare 
+sew: seyəwə 
+sharp: yëmo 
+sharp: yəmo 
+short: po 
+shoulder: nate 
+sing: dimi- 
+sister: motona (older 
+sister: n-eka 
+sister: -udeke 
+sister: yalise 
+sister: younger) 
+sit: ane kema 
+sit: keime 
+skin: ele 
+skin: elo 
+skin: ere 
+skin: erë 
+skin: erə 
+sky: ma 
+sky: mang 
+sleep: ku 
+sleep: ku tatanar 
+sleep: yuku 
+sleep: yuku tëtenoime 
+sleep: yuku(te tenow) 
+small: kia 
+small: melre newai 
+small: moti 
+small: nanggeng 
+smell: kərə 
+smoke: (si)n-ifi 
+smoke: sin-upu 
+smoke: sunufu 
+smoke: yupu 
+snake: wale 
+snake: wali 
+snake: ware 
+snake: warë 
+snake: wari 
+some: posi(te) 
+sour: tinimi 
+spit: eki 
+spit: eki toipoime 
+stab: në- 
+stand: esu- 
+stand: ësüë 
+stand: yemime 
+star: mea 
+star: meya 
+star: mëya 
+stone: olu 
+stone: oru 
+suck: mape 
+sun: soning 
+sun: sonin(g) 
+sun: soniŋ 
+sun: su 
+sweet: yu 
+swim: deimimi 
+swim: domimi 
+swim: suku-suku 
+swim: tsiki-tsiki 
+tail: deme 
+tail: demë 
+tail: dëmë 
+tail: dəmə 
+tail: dëngmë 
+tail: yoe 
+take: dowime 
+that: debeasa 
+that: di 
+that: dili 
+that: nebeyasa 
+that: nesa 
+they: die 
+they: ditëto 
+they: domoseri 
+they: -me 
+they: në 
+they: ne ai 
+they: nedli 
+they: neye 
+they: simomai 
+they two: ne-be 
+they two: nedo-be 
+they two: -ne ei 
+they two: -pe 
+thigh: kembong 
+thigh: kombong 
+thin: sərə-sərə 
+this: beasa 
+this: da 
+this: dabea 
+this: dëla 
+this: na 
+thorn: sye 
+thou: -mbe 
+thou: -me 
+thou: we 
+thou: -we 
+thou: wë 
+thou: wə 
+thou: we(-besika) 
+thou: wo 
+three: nami(bei) 
+three: namin 
+three: naming 
+three: nami(ng) 
+three: namiŋ 
+throw: kenye-nyemi 
+thunder: warepa 
+thunder: warfa 
+today: dayaye 
+today: menayaye 
+tomorrow: dene 
+tomorrow: wambete 
+tongue: feu 
+tongue: peu 
+tongue: peü 
+tongue: teu 
+tooth: eti 
+tooth: iti 
+tree: no 
+tree: o 
+tree: ono 
+two: be 
+two: bë 
+two: bi 
+two: bo 
+vagina: k(e)ma 
+vomit: mike 
+walk: ende 
+walk: eseme! 
+walk: ewë! 
+walk: (oto-)tëmare 
+walk: serai betewarema 
+walk: sraibeitei 
+wallaby: ayoqu-yoqu 
+wallaby: (pauna) sakia 
+warm: namu 
+wash: suku 
+water: bu 
+we: dëtëtoro 
+we: deye 
+we: e: 
+weep: demite dimime 
+weep: dimi 
+weep: dimi-pekodimai 
+weep: dimite-dimiu 
+weep: dimite-dimiw 
+weep: ëndow-bu 
+weep: (n)do bu 
+we: -ma 
+we: -me 
+we: metreye 
+we: motërana 
+wet: kani-kani 
+we two: e-be(ye) 
+we two (incl.): -a 
+we two (incl.): de-be 
+we two (incl.): -pe 
+we: we: 
+what: alropei 
+what: beasa 
+what: biasa 
+white: kere 
+white: kërëu 
+white: kereu-kereu 
+white: kleu-kleu 
+white: kulu-kulu 
+white: kuru-kuru 
+who: sing 
+who: using 
+who: wësin 
+wide: kura 
+wife: mile 
+wind: alu 
+wind: aru 
+wind: haru 
+wing: den 
+wing: neto 
+wing: nëto 
+wing: nəto 
+with: -përë 
+woman: mile 
+woman: milze 
+woman: mire 
+woman: mirë 
+woman: mirə 
+woman: mirie 
+wood: dyë 
+wood: dyə 
+wood: iye 
+yellow: yanggo-yanggo 
+yellow: yangko 
+yellow: yangko-yangko 
+yellow: yangko(-yangko) 
+yellow: yaŋko-yaŋko 
+yesterday: dace 
+yesterday: ene 
+yesterday: we ya 
+you: detro-dofre 
+you two: -pe 
+you two: we-be 
+you: we 
+you: we(-mosere) tëtoro 
+you: we(-nekawe) 
+you: wo 

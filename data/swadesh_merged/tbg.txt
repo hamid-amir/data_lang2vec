@@ -1,0 +1,737 @@
+all: ekaː | eka	ekaː 
+all: ekaa | eka	ekaː 
+and: -bata 
+and: -ka 
+ankle: auroka 
+arm: atabare 
+arm: kaːbaʔu 
+arm: ká:ba\u 
+arm: kauma 
+arrow: beba 
+arrow: beiba 
+ashes: hantama 
+at: -\a 
+at: \-ata 
+back: taubaʔabuhaːri 
+bad: oraha | oraha	oraʔiru 
+bad: ora\iru | oraha	oraʔiru 
+bad: oraʔiru | oraha	oraʔiru 
+bark: aabahi | abahi	aːbahi 
+bark: aːbahi | abahi	aːbahi 
+bark: abuna | abahi	aːbahi 
+bark: pahara | abahi	aːbahi 
+belly: arara | arara	auha 
+belly: árara | arara	auha 
+belly: auha | arara	auha 
+belly: áuhe | arara	auha 
+big: nora | nora	noːra 
+big: noːra | nora	noːra 
+bird: antau 
+bite: ka\aka | kaqaka	kaʔaka 
+bite: kaʔaka | kaqaka	kaʔaka 
+bite: uniro | kaqaka	kaʔaka 
+black: bankora | bankora	koːnkira 
+black: ko:nkira | bankora	koːnkira 
+black: koːnkira | bankora	koːnkira 
+blood: naare | nare	naːre 
+blood: nare | nare	naːre 
+blood: ´nare | nare	naːre 
+blood: naːre | nare	naːre 
+blow: bua\a | buaʔa 
+blow: buaʔa 
+bone: buhaarima | buharima	buhaːrima	uhari 
+bone: buhaːrima | buharima	buhaːrima	uhari 
+bone: uhari | buharima	buhaːrima	uhari 
+boy: bainti 
+boy: baintima 
+boy: bainti(ma) 
+boy: bainti nankua 
+boy: bainti nankuai 
+branch: kaara | kaːra 
+branch: kaːra 
+breast: naama | nama	naːma 
+breast: naːma | nama	naːma 
+breast: námë | nama	naːma 
+breathe: aanaimati | aːnaimati 
+breathe: aːnaimati 
+brother: -bagava 
+brother: -ba\gava 
+brother: bëkarë 
+brother: diaura 
+brother: -diaura 
+brother: ´ëtë 
+brother: (ti-)bakaara 
+brother: (ti)bakaːra 
+brother: (ti-)gata- 
+brother: (ti)gata 
+burn: iha ʔuraːna | itero 
+burn: itero 
+burn: untaːna | itero 
+butterfly: pepenaaro 
+butterfly: pepenaːro 
+calf: aiba\o 
+calf: aibaʔo 
+calf: -beha 
+cassowary: bukera 
+cassowary: buke:re 
+cassowary: titira 
+cheek: aurubu 
+chest: mimira 
+child: bainti 
+child: naati | bainti 
+child: naːti | bainti 
+chin: maatiri 
+chin: maːtiri 
+claw: kakahi 
+cloud: tonabu 
+cloud: to´nëbu | tonabu 
+cloud: uro´murë | tonabu 
+cold: antero 
+come: aniena | aniena	vaitana 
+come: ´aniro | aniena	vaitana 
+come: vaitana | aniena	vaitana 
+count: kaarantiro | kaːrantiro 
+count: kaːrantiro 
+crocodile: ebaari 
+crocodile: ebaːri 
+cut: tantiʔakue | teʔero 
+cut: te\ero | teʔero 
+cut: teʔero 
+cut: to\aana | teʔero 
+cut: toʔaːna | teʔero 
+cut: tuquwa | teʔero 
+cut: tu\uwa | teʔero 
+dance: ihintero 
+dark: konkirai\ieo 
+dark: konkiraiʔiro 
+daughter: airaabura 
+daughter: airaːbura 
+daughter: -ra:bura 
+daughter: -raːbura 
+daughter: ra´burë 
+day: enta | kuariabu 
+day: erairika | kuariabu 
+day: ikara\a | kuariabu 
+day: ikaraʔa | kuariabu 
+day: kuariabu 
+die: utubiro | qutubiro	ʔutubiro 
+die: ʔutubiro | qutubiro	ʔutubiro 
+die: utu(viro) | qutubiro	ʔutubiro 
+dig: baiti matipa | uiena 
+dig: ora | uiena 
+dig: ubiena | uiena 
+dig: uiena 
+dig: untaana | uiena 
+dirty: kaimaamama | kaimaːmama 
+dirty: kaimaːmama 
+dog: bairi 
+dog: ´bairi 
+drink: naːna | nana	naːna 
+dry: ahaara | ahara	ahaːra 
+dry: ahaːra | ahara	ahaːra 
+ear: (a)ato | ato	aːto 
+ear: ato | ato	aːto 
+ear: a´to | ato	aːto 
+ear: aːto | ato	aːto 
+earth: bata | bata	vata 
+earth: ´batë | bata	vata 
+earth: hora | bata	vata 
+earth: vata | bata	vata 
+eat: mimira | na-	nana	naːna 
+eat: na- | na-	nana	naːna 
+eat: naana | na-	nana	naːna 
+eat: nampi\akaana | na-	nana	naːna 
+eat: naːna | na-	nana	naːna 
+egg: auru 
+elbow: aata 
+elbow: kaantaa 
+elbow: kaːntaː 
+emu: bukera 
+emu: bukeːre 
+excrement: raha 
+eye: abu | abu	aːbu 
+eye: a:bu | abu	aːbu 
+eye: aːbu | abu	aːbu 
+eye: abu naabu | abu	aːbu 
+eye: abu naːbu | abu	aːbu 
+eye: impankero | abu	aːbu 
+face: biri 
+fall: ru\utubiro | ruʔutubiro 
+fall: ruʔutubiro 
+fall: tutakero | ruʔutubiro 
+far: niaraini 
+father: \o | -ora	tiʔora	ʔora 
+father: -ora | -ora	tiʔora	ʔora 
+father: (ti)-\ora | -ora	tiʔora	ʔora 
+father: (ti)ʔora | -ora	tiʔora	ʔora 
+fat (n.): bahabera 
+fat (n.): ´bëhëberë 
+fat (n.): kaːntabu 
+fat (n.): ká:ntabu 
+fear: eta 
+fear: ʔeta 
+feather: kauhi | kauhi	tiqora 
+few: tarai\a | taraiʔa 
+few: taraiʔa 
+few: tarai\ia | taraiʔa 
+finger: enara 
+fingernail: kakahi 
+fire: iha 
+fire: iha \uraana 
+fire: i´hë | iha 
+fish: haabuka | habuka	haːbuka 
+fish: haːbuka | habuka	haːbuka 
+five: kau\uru | kauquru	kauʔuru 
+five: kauʔuru | kauquru	kauʔuru 
+float: namai tubikanta bairo 
+fly (n.): baubaari 
+fly (n.): baubaːri 
+fly (v.): atabarero 
+foot: ai\u | aiqutubu	aiʔu 
+foot: aiʔu | aiqutubu	aiʔu 
+foot: ai\utubu | aiqutubu	aiʔu 
+foot: aiʔutubu | aiqutubu	aiʔu 
+forehead: tiri 
+forest: nanta 
+four: tara\anta | taraqanta	taraʔanta 
+four: taraʔanta | taraqanta	taraʔanta 
+fruit: gataːri taba | gataːri taba	taba 
+fruit: gatá:ri taba | gataːri taba	taba 
+fruit: taba | gataːri taba	taba 
+fruit: tëbë | gataːri taba	taba 
+full: ibi\ana | mpiqero	mpiʔero 
+full: ibiʔana | mpiqero	mpiʔero 
+full: mpi\ero | mpiqero	mpiʔero 
+full: mpiʔero | mpiqero	mpiʔero 
+girl: baraata 
+girl: baraːta 
+girl: naʔhenti bainti 
+girl: nahénti bainti 
+give: amina | amina	arimami 
+give: arimami | amina	arimami 
+good: ko\eba | koqeba	koʔeba	koʔemiru 
+good: koʔeba | koqeba	koʔeba	koʔemiru 
+good: ko\emiru | koqeba	koʔeba	koʔemiru 
+good: koʔemiru | koqeba	koʔeba	koʔemiru 
+grass: naabuhi | naːbuhi 
+grass: naːbuhi 
+grass: \ukau | naːbuhi 
+green: bukana 
+guts: arara 
+hair: kahe | kahe	kauhi 
+hair: kauhi | kahe	kauhi 
+hand: kaataini | kauqu	kauʔa	wuʔa 
+hand: kauʔa | kauqu	kauʔa	wuʔa 
+hand: ka\utubu | kauqu	kauʔa	wuʔa 
+hand: kaʔutubu | kauqu	kauʔa	wuʔa 
+hand: ´kau\u | kauqu	kauʔa	wuʔa 
+hand: kau\uta | kauqu	kauʔa	wuʔa 
+hand: wu\a | kauqu	kauʔa	wuʔa 
+hand: wuʔa | kauqu	kauʔa	wuʔa 
+head: buakaara | qieta	yeta	ʔeita 
+head: ʔeita | qieta	yeta	ʔeita 
+head: ieta | qieta	yeta	ʔeita 
+head: i´etë | qieta	yeta	ʔeita 
+head: i\iparama | qieta	yeta	ʔeita 
+head: yeta | qieta	yeta	ʔeita 
+hear: iri 
+heart: muntuka 
+heavy: maramentero 
+he/she: a- 
+he/she: biba 
+he/she: ´bibë 
+he/she: bidan 
+hit: are | are	utu 
+hit: ra\iro | are	utu 
+hit: raputakero | are	utu 
+hit: rutuatuamire | are	utu 
+hit: taana | are	utu 
+hit: tiroriena | are	utu 
+hit: utu | are	utu 
+hold: raba\abute | tote 
+hold: rabaʔabute | tote 
+hold: tote 
+hole: maiga 
+house: baira 
+house: naabu 
+house: nabu 
+house: ´nabu 
+house: naːbu 
+how: natinanti 
+husband: baati | baːti 
+husband: ´bati | baːti 
+husband: ba:ti | baːti 
+husband: baːti 
+I: h- | te	tere 
+in: -\i 
+I: tere | te	tere 
+I: te(-re) | te	tere 
+I: te(re) | te	tere 
+I: ti- | te	tere 
+kangaroo: tabenara 
+kill: ʔuʔubiro | ququbiro	ʔuʔubiro 
+kill: u\ubiro | ququbiro	ʔuʔubiro 
+knee: tori | -tori	tori 
+knee: ´tori | -tori	tori 
+knee: -tori | -tori	tori 
+know: iri 
+lake: baruba 
+laugh: naraihiana 
+leaf: gataːri mare | gataːri mare	itu	mare 
+leaf: gatá:ri mare | gataːri mare	itu	mare 
+leaf: itu | gataːri mare	itu	mare 
+leaf: mare | gataːri mare	itu	mare 
+left: kaːtaini | ?kaːtaini 
+leg: ai\u | aiʔu 
+leg: aiʔu 
+lie: baitaːna 
+lie: muntubi 
+lie: unama 
+lightning: ʔaʔuaka 
+lightning: a\uaka 
+lip: mauru 
+lip: ma\uru 
+lip: maʔuru 
+live: a\ibairo 
+live: aʔibairo 
+liver: tubu 
+liver: ´tubu 
+long: bugai | bukai 
+long: bukai 
+louse: numa 
+louse: nu´më | numa 
+louse: taru | numa 
+man: bainti | boru 
+man: bainti (nora) | boru 
+man: ehaara | boru 
+many: airi 
+many: homa | airi 
+meat: mati | mati	sarare 
+meat: mëti | mati | mati	sarare 
+meat: sarare | mati | mati	sarare 
+meat: sárare | mati | mati	sarare 
+moon: tora | tora	toːra 
+moon: to:ra | tora	toːra 
+moon: toːra | tora	toːra 
+morning: kuari buruhunkubiro 
+morning: toa\i 
+morning: toaʔi 
+mosquito: aa\u\a 
+mosquito: aːʔuʔa 
+mother: ´no | -nora	nora	tinora 
+mother: -nora | -nora	nora	tinora 
+mother: (ti)nora | -nora	nora	tinora 
+mother: (ti)-nora | -nora	nora	tinora 
+mountain: batamuatu | batamuatu	noːra 
+mountain: bata-muatu | batamuatu	noːra 
+mountain: no:ra | batamuatu	noːra 
+mountain: noːra | batamuatu	noːra 
+mouth: no | no	noː 
+mouth: no: | no	noː 
+mouth: noː | no	noː 
+name: autu | autu	hutu 
+name: ´autu | autu	hutu 
+name: hutu | autu	hutu 
+nape: ba:ntari 
+nape: baːntari 
+narrow: ampara 
+navel: mauntaba 
+near: bainto 
+neck: aru 
+new: araaka | araka	araːka 
+new: araːka | araka	araːka 
+night: enta\ira | entaqira	entaʔira	ɛːntiro 
+night: entaʔira | entaqira	entaʔira	ɛːntiro 
+night: é:ntiro | entaqira	entaʔira	ɛːntiro 
+night: ɛːntiro | entaqira	entaʔira	ɛːntiro 
+nose: ´ai\i | aiqi	aiʔi 
+nose: ai\iena | aiqi	aiʔi 
+nose: aiʔiena | aiqi	aiʔi 
+not: a\au | kia 
+not: aʔau | kia 
+not: kia 
+not: umina | kia 
+old: bainti tarura 
+old: naaru 
+old: naaruara 
+old: naenti konta 
+old: naːruaru 
+one: abuni | bohaiqa	bohaiʔa 
+one: bo´hai\a | bohaiqa	bohaiʔa 
+one: bohaiʔa | bohaiqa	bohaiʔa 
+other: boma 
+person: boru 
+play: ruhe 
+pull: a\iatukero 
+pull: ra\ikikaana 
+pull: rarauruana 
+push: ahu\ira 
+push: ahuʔira 
+push: tataurua 
+rain: aa\u | aqu	aʔu	aːʔu 
+rain: a\u | aqu	aʔu	aːʔu 
+rain: aʔu | aqu	aʔu	aːʔu 
+rain: aːʔu | aqu	aʔu	aːʔu 
+rain: á\u | aqu	aʔu	aːʔu 
+rat: tubura 
+red: naare | nare	naːre 
+red: nare | nare	naːre 
+red: naːre | nare	naːre 
+red: náre | nare	naːre 
+right: kauʔuta | kauqu	kauʔa	wuʔa | ?kauʔuta 
+ripe: abuabu 
+ripe: abu-abu 
+river: namai tubiro | namari tuviviro 
+river: namari tuviviro 
+road: aa\u | ara 
+road: a:ra | ara 
+road: aːra | ara 
+road: ´arë | ara 
+root: nuʔama | nuʔama	tuqa	tuʔa 
+root: tuʔa | nuʔama	tuqa	tuʔa 
+root: tu\a ´tu\ë | nuʔama	tuqa	tuʔa 
+rope: ) 
+rope: hinta 
+rope: na\unta 
+rope: naʔunta 
+rope: "string (beads)(v.) 
+rope: ta\ima kaana (ø 
+rotten: ampontu\abiro | ampontuʔabiro 
+rotten: ampontuʔabiro 
+round: potariboara 
+round: utututu | potariboara 
+rub: ra\utuana | raʔutuana 
+rub: raʔutuana 
+salt: oro\u | oroʔu 
+salt: oroʔu 
+sand: butuhini | nuʔama 
+sand: nuʔama 
+sand: nu\uma | nuʔama 
+say: tiena | nuʔama 
+say: ´tiro | tiena | nuʔama 
+say: turavo | tiena | nuʔama 
+see: aituʔibariena | tabana	tabaːna	tabe 
+seed: auru 
+seed: ´kubu | auru 
+see: kuke\akaro | tabana	tabaːna	tabe 
+see: tabaana | tabana	tabaːna	tabe 
+see: tabaːna | tabana	tabaːna	tabe 
+see: tabe | tabana	tabaːna	tabe 
+sew: haʔiriena 
+sharp: baihero 
+sharp: biara | baihero 
+sharp: biti | baihero 
+sharp: u\a | baihero 
+sharp: upiaraana | baihero 
+short: e\o | eʔo	iʔu 
+short: eʔo | eʔo	iʔu 
+short: i\u | eʔo	iʔu 
+short: iʔu | eʔo	iʔu 
+shoulder: kururu 
+shoulder: úbu 
+sing: hitirere 
+sing: ihintaana | hitirere 
+sister: aura 
+sister: nahenti 
+sister: nahénti 
+sister: nakauba 
+sit: o\ubuana | oqubuana	oʔubuana	oʔubwa 
+sit: oʔubuana | oqubuana	oʔubuana	oʔubwa 
+sit: o\ubwa | oqubuana	oʔubuana	oʔubwa 
+sit: oʔubwa | oqubuana	oʔubuana	oʔubwa 
+skin: paha 
+sky: naarubu | naːrubu	naːruva 
+sky: naːrubu | naːrubu	naːruva 
+sky: naːruva | naːrubu	naːruva 
+sky: ná:ruva | naːrubu	naːruva 
+sleep: abu-tauntero | baitana	baitaːna 
+sleep: baitaana | baitana	baitaːna 
+sleep: baitaːna | baitana	baitaːna 
+sleep: popohero | baitana	baitaːna 
+sleep: tauntero | baitana	baitaːna 
+small: inara 
+smell: uhiraana | uhiraːna 
+smell: umtamabiro | uhiraːna 
+smell: umtama-biro | uhiraːna 
+smell: untama- | uhiraːna 
+smoke: mura 
+smoke: ´murë | mura 
+smooth: kakembeni ahabairo | muʔuhiututaire 
+smooth: mu\uhiututaire | muʔuhiututaire 
+smooth: muʔuhiututaire 
+snake: memaru 
+some: tarai\ia 
+son: -bainti 
+son: maa\u 
+son: maːʔu 
+spit: taara | taːra 
+spit: ʔuntutiro | taːra 
+split: rubarikaana | rubarikaːna 
+split: rubarikaːna 
+stab: tanti\akue | tantiʔakue 
+stand: himpuaana | himpuana | himpuaːna	impwa	nuqama 
+stand: himpuaːna | himpuana | himpuaːna	impwa	nuqama 
+stand: impwa | himpuana | himpuaːna	impwa	nuqama 
+star: baho\ura | bahoqura	bahoʔura	makau	opu 
+star: bahoʔura | bahoqura	bahoʔura	makau	opu 
+star: makau | bahoqura	bahoʔura	makau	opu 
+star: opu | bahoqura	bahoʔura	makau	opu 
+stick: auru | kaːra 
+stick: ga\uru | kaːra 
+stick: kairi\a | kaːra 
+stone: ori | ori	oːri 
+stone: o:ri | ori	oːri 
+stone: oːri | ori	oːri 
+straight: abu\abu | abuʔabu 
+straight: abuʔabu 
+straight: abu\abu-ma | abuʔabu 
+suck: mbarikaana | mbarikaːna 
+suck: mbarikaːna 
+sun: gua:ri | guaːri	kauri	kuari 
+sun: guaːri | guaːri	kauri	kuari 
+sun: kauri | guaːri	kauri	kuari 
+sun: kuari | guaːri	kauri	kuari 
+swell: no\akero 
+swell: noʔakero 
+swim: namai tubikanta bairo 
+tail: beka 
+tail: ´bekë | beka 
+tail: rë´tirë | beka 
+take: baraa-na 
+take: baraːna 
+take: muaravara 
+take: muara-vara 
+take: mura barero 
+take: varebue 
+take: vare-bue 
+that: biha | bohaiqa	bohaiʔa 
+that: bihë | biha | bohaiqa	bohaiʔa 
+there: mini 
+they: bi-ga | bige 
+they: bige 
+they two: bitanta 
+they two: bi-tanta 
+thick: nora 
+thigh: ábundërë 
+thigh: abuntara 
+thigh: aru 
+thin: ampara 
+think: irikaana | irikaːna 
+think: irikaːna 
+this: maana | mana	maːna 
+this: ´mana | mana	maːna 
+this: maːna | mana	maːna 
+thorn: aubi 
+thorn: au\u 
+thorn: auʔu 
+thou: a- | are	aːre 
+thou: aa-re | are	aːre 
+thou: are | are	aːre 
+thou: a-re | are	aːre 
+thou: aːre | are	aːre 
+thou: ari | are	aːre 
+thou: ne | are	aːre 
+three: tara\antabohai\a | taraqanta-bohaiqa	taraʔantabohaiʔa 
+three: taraʔantabohaiʔa | taraqanta-bohaiqa	taraʔantabohaiʔa 
+throat: aunta 
+throat: -mta 
+throw: a\uana | aʔuana 
+throw: aʔuana 
+thunder: narura- 
+tie: antukaana | rumpaːna 
+tie: antukaːna | rumpaːna 
+tie: rumpaana | rumpaːna 
+tie: rumpaːna 
+tomorrow: hura 
+tongue: maa\iri | maqiri	maʔiri	maːʔiri 
+tongue: ma\´iri | maqiri	maʔiri	maːʔiri 
+tongue: maʔiri | maqiri	maʔiri	maːʔiri 
+tongue: maːʔiri | maqiri	maʔiri	maːʔiri 
+tooth: aabai | abai	aːbai	aːrai 
+tooth: aːbai | abai	aːbai	aːrai 
+tooth: a:rai | abai	aːbai	aːrai 
+tooth: aːrai | abai	aːbai	aːrai 
+tooth: bantubora | abai	aːbai	aːrai 
+tooth: baːntubora | abai	aːbai	aːrai 
+tree: aimaratero | katari 
+tree: gaʔtaːri | katari 
+tree: gatá:ri | katari 
+tree: katari 
+tree: kë´tëri | katari 
+tree: kubu | katari 
+tree: no\a | katari 
+tree: okara | katari 
+tree: to\ukera | katari 
+turn: tu\antara 
+turn: tuʔantara 
+turn: u\uramiro 
+two: taara\anta | taaraqanta	taraqanta	taːraʔanta 
+two: taːraʔanta | taaraqanta	taraqanta	taːraʔanta 
+two: tara\anta | taaraqanta	taraqanta	taːraʔanta 
+vagina: kohu 
+vomit: burubihikaːna 
+walk: buana 
+walk: kantaːna | buana 
+walk: kantatere | buana 
+walk: viro | buana 
+wallaby: tabenara 
+warm: toto\a 
+warm: totoʔa 
+wash: bi\aana | biʔaːna 
+wash: biʔaːna 
+wash: \unkakaana | biʔaːna 
+water: namari 
+water: namári | namari 
+water: në´mëi | namari 
+water: në´mëri | namari 
+weep: au\uru 
+weep: auʔuru 
+weep: i\iratarere 
+weep: iʔiratarere 
+weep: i\iratero 
+weep: iʔiratero 
+we: h- | tenabu 
+we: tenabu 
+we: te-nabu | tenabu 
+we: terenabu | tenabu 
+we: te-re-nabu | tenabu 
+we: ti- | tenabu 
+we: tinabu | tenabu 
+we: ti-nabu | tenabu 
+wet: puta 
+we two (incl.): teretanta 
+we two: tere-tanta 
+what: nana 
+white: e\ara | eqara	eʔara 
+white: eʔara | eqara	eʔara 
+who: tababe | tababe	tatabe 
+who: tatabe | tababe	tatabe 
+wife: naata | nata	naːta 
+wife: nata | nata	naːta 
+wife: naːta | nata	naːta 
+wife: ´natë | nata	naːta 
+wind: ubai 
+wind: u´bai | ubai 
+wing: aroka 
+wing: bebekau | aroka 
+wipe: ʔunkakaːna 
+with: vari 
+woman: naenti | naenti	nahenti 
+woman: nahenti | naenti	nahenti 
+woman: nahénti | naenti	nahenti 
+wood: bgai 
+wood: kairiʔa 
+worm: aheʔu 
+yellow: tatabau\a | tatabauqa	tatabauʔa 
+yellow: tatabauʔa | tatabauqa	tatabauʔa 
+yes: eo 
+yesterday: hura 
+you: ne | are	aːre 
+you two: netanta 
+you two: ne-tanta 
+every: eka	ekaː 
+ash: hantama 
+abdomen: arara	auha 
+bigness: nora	noːra 
+large: nora	noːra 
+breasts: nama	naːma 
+nail: kakahi 
+talon: kakahi 
+come from: aniena	vaitana 
+be dead: qutubiro	ʔutubiro 
+dead: qutubiro	ʔutubiro 
+ground: bata	vata 
+land: bata	vata 
+soil: bata	vata 
+fat: bahabera 
+fat n.: bahabera 
+grease: bahabera 
+lubricant: bahabera 
+oil: bahabera 
+fly: atabarero	baubari 
+fly v.: atabarero	baubari 
+left hand: kauqu	kauʔa	wuʔa 
+1 sg.: te	tere 
+be knowledgeable: iri 
+head louse: numa 
+male: bainti 
+much: airi 
+multiple: airi 
+several: airi 
+flesh: mati 
+hill: batamuatu	noːra 
+title: autu	hutu 
+nighttime: entaqira	entaʔira	ɛːntiro 
+adulterous: bohaiqa	bohaiʔa 
+single: bohaiqa	bohaiʔa 
+the: bohaiqa	bohaiʔa 
+unprincipled: bohaiqa	bohaiʔa 
+human: boru 
+human being: boru 
+rainy weather: aqu	aʔu	aːʔu 
+path: ara 
+route: ara 
+hide: paha 
+little: inara 
+smallness: inara 
+rock: ori	oːri 
+2 sg: are	aːre 
+grind: taaraqanta	taraqanta	taːraʔanta 
+go: buana 
+1 pl. inc.: tenabu 
+we₁: tenabu 
+whiteness: eqara	eʔara 
+who?: tababe	tatabe 
+female: naenti	nahenti 
+distant: niaraini 
+dull: maramentero 
+serious: maramentero 
+close: bainto 
+ner: bainto 
+earthworm: aheʔu 
+2 pl.: ne 
+ye: ne 
+you all: ne 
+3 pl.: bige 
+principal wife: nata	naːta 
+his mother: -nora	nora	tinora 
+my mother: -nora	nora	tinora 
+his father: -ora	tiʔora	ʔora 
+my father: -ora	tiʔora	ʔora 
+woods: nanta 
+gut: arara 
+insides: arara 
+intestine: arara 
+intestines: arara 
+breath: aːnaimati 
+laughter: naraihiana 
+cogitate: irikaːna 
+reflect: irikaːna 
+sniff: uhiraːna 
+beat: are	utu 
+strike: are	utu 
+hack: teʔero 
+cut open: rubarikaːna 
+pierce: tantiʔakue 
+drop: ruʔutubiro 
+grasp: tote 
+hold in arm: tote 
+wash clothes: biʔaːna 
+bind: rumpaːna 
+fasten: rumpaːna 
+tie up: rumpaːna 
+enumerate: kaːrantiro 
+number: kaːrantiro 
+tally: kaːrantiro 
+have fun: ruhe 
+brook: namari tuviviro 
+stream: namari tuviviro 
+blaze: itero 
+daylight: kuariabu 
+daytime: kuariabu 
+evil: oraha	oraʔiru 
+rot: ampontuʔabiro 
+filthy: kaimaːmama 
+soiled: kaimaːmama 
+damp: puta 
+right side: ?kauʔuta 

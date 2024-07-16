@@ -1,0 +1,289 @@
+all: rayo | abuna	luabu	rayo 
+arm: ki 
+arrow: kenege 
+ashes: taga | pealua	pere	taga 
+back: masa 
+bark: yogane 
+belly: robaː | lo	roba	robaː 
+belly: robaa | lo	roba	robaː 
+belly: tomba | lo	roba	robaː 
+big: adaː | ada	adaː 
+big: adaa | ada	adaː 
+bird: yaa | ya	yáà 
+bird: yáa~ | ya	yáà 
+bird: yáà | ya	yáà 
+bite: na 
+black: kobere 
+blood: kupa | kupa	yapi 
+blood: yaapi | kupa	yapi 
+bone: uni 
+boy: naːki 
+breast: adu 
+breast: a(n)du | adu 
+brother: ame 
+burn: raː 
+burn: raa 
+cheek: pae 
+chin: yaga 
+chin: yagaː 
+claw: kidipa | kidipa	kikebo 
+cloud: moae | moae	ya 
+cold: upa pia | kogopia	upa pia	upapia 
+come: ipu 
+dark: pobore 
+day: aebe 
+day: paa 
+die: koma | iniadupia	inipata	oma 
+die: oma | iniadupia	inipata	oma 
+dog: irikai | irikai	yana 
+dog: yana | irikai	yana 
+drink: ipa na | ipa na	na	sila 
+dry: kaapu ya | kapuya	kaːpu ta	kaːpu ya	mumurusa 
+dry: kaːpu ta | kapuya	kaːpu ta	kaːpu ya	mumurusa 
+dry: kaːpu ya | kapuya	kaːpu ta	kaːpu ya	mumurusa 
+ear: aane | ane	aːne 
+ear: aːne | ane	aːne 
+ear: kale | ane	aːne 
+earth: su 
+eat: na 
+egg: apaː | apaː	yapa 
+egg: apaa | apaː	yapa 
+eye: ini 
+father: apa 
+father: aːpa 
+father: araa 
+father: kakua 
+fat (n.): apaː 
+fat (n.): apaa 
+feather: iri 
+fingernail: kindipa 
+finger: rikini 
+fire: repema | repena 
+fire: repena 
+fire: tagaː | repena 
+fish: ena 
+fly (v.): biya 
+foot: a~ː | àː 
+forehead: eno 
+forehead: weno 
+full: rubini | roba pia	rubini 
+give: gi | gi	kala 
+give: gi- | gi	kala 
+good: epe | epe	epe ta 
+good: epe ta | epe	epe ta 
+green: kagaa rekene | kaga	kagaː rekene 
+green: kagaː rekene | kaga	kagaː rekene 
+hair: iri 
+hand: ki 
+head: aalu | alu	asuba	aːlu 
+head: aːlu | alu	asuba	aːlu 
+hear: paga 
+heart: imu 
+heavy: kedaa paa | kedaː paː 
+heavy: kedaː paː 
+here: go 
+he/she: go 
+he/she: (n)ipu 
+he/she: nipu/nipumi 
+hit: tu 
+hold: sapira 
+horn: eperaː | eperaː	ima 
+horn: eperaa | eperaː	ima 
+house: anda 
+husband: ima 
+I: ni 
+I: ni/neme 
+kill: tu maoma | tu maoa	tu maoma 
+knee: rumu 
+know: nimanaa | nimina	niminaː 
+know: niminaː | nimina	niminaː 
+laugh: giri ta 
+leaf: yo 
+leg: a~ː 
+leg: àà 
+lie: pala | pala	yadasa 
+liver: pu | pu	pu imu 
+long: adaalu | adalu	adaːlu 
+long: adaːlu | adalu	adaːlu 
+louse: ada 
+louse: ema 
+louse: ete 
+man: áː | ona	onaː 
+man: áá | ona	onaː 
+many: adaapu | adapu	adaːpu 
+many: adaːpu | adapu	adaːpu 
+meat: midi 
+moon: akua | akua	eke 
+moon: eke | akua	eke 
+mother: ama 
+mountain: pore | ari	masa	pore 
+mouth: agaː | aga	agaː	agixa 
+mouth: agaa | aga	agaː	agixa 
+mouth: agixa | aga	agaː	agixa 
+name: bi 
+neck: máː | kalabe	loke	máː 
+neck: maa | kalabe	loke	máː 
+neck: máá | kalabe	loke	máː 
+new: kagaː | kaga	kagaː 
+new: kagaa | kaga	kagaː 
+new: oge | kaga	kagaː 
+night: ribaː | gae	leda	ribaː 
+night: ribaa | gae	leda	ribaː 
+nose: ini ka(n)du | ini kadu	inikadu	yadira 
+not: dia | dia	na-	pare 
+not: na- | dia	na-	pare 
+one: padane | egata	komea	padane 
+person: onaː | ona	onaː 
+person: onaa | ona	onaː 
+rain: yai | agi rali	yai	yal 
+rat: pakira 
+red: kane 
+ripe: ru 
+road: pora 
+root: pitaː | pita	pitaː	pitya 
+root: pitaa | pita	pitaː	pitya 
+root: pitya | pita	pitaː	pitya 
+round: magomawae 
+salt: aipa 
+sand: ipa mu 
+say: la 
+see: ada 
+see: a(n)da | ada 
+seed: ini | ini	wai 
+shoulder: pasa͂ː 
+shoulder: pasãã 
+sister: anya 
+sit: pira 
+skin: yogane 
+sleep: u pala | adu pia	pata	u pala 
+small: oge | ege	oge 
+smell: pugu pia 
+smoke: miru 
+smoke: popo | miru 
+spit: rope 
+spit: sope 
+spit: supi 
+spit: tupi 
+stand: reka | awa	reka 
+star: uba kedo | uba	uba kedo 
+stone: aana | ana	aːna	kana 
+stone: aːna | ana	aːna	kana 
+sun: nare | nare	paku 
+swim: ki mogea | ki mogea	mogea 
+tail: apu 
+take: mea 
+take: paake mea 
+take: paːke mea 
+that: mo | mo	mogo 
+they: (n)imu 
+they: nimu/nimu-mi 
+they two: nipi/nipi-mi 
+they two: (n)ipu 
+thigh: palaː 
+thigh: palaa 
+this: go | apo	go 
+this: one | apo	go 
+thorn: keto 
+thou: ne | ne	nimi 
+thou: ne/neme | ne	nimi 
+thou: (n)imi | ne	nimi 
+three: repo 
+tongue: eke 
+tongue: keke 
+tooth: aga 
+tooth: imaa | aga 
+tree: repena | are repona	repena 
+tree: repona | are repona	repena 
+two: laapo | lapo	laːpo 
+two: laːpo | lapo	laːpo 
+vomit: maːku ra 
+walk: kimisu | pamua 
+walk: pamua 
+walk: pu | pamua 
+warm: kekapu pia 
+water: ipa | ipa	somo 
+water: ipi | ipa	somo 
+we (incl.): saː 
+we (incl.): saa 
+we: niaa/niaa-me | nia	sa	saː 
+we: niaː ~ nyaː | nia	sa	saː 
+we two (incl.): saː laːpo 
+we two: saa/saa-me 
+what: ake 
+when: a rabo 
+white: kaːke pia | kaːke pia	yaːko pi 
+white: yaako pi | kaːke pia	yaːko pi 
+white: yaːko pi | kaːke pia	yaːko pi 
+who: aapi | api	aːpi 
+who: aːpi | api	aːpi 
+wind: poripu | poropu 
+wind: poropu 
+wing: popaː 
+wing: popaa 
+woman: ona 
+yellow: abu pi | abu pi	ambu 
+yellow: abu pi(a) | abu pi	ambu 
+yellow: ambu | abu pi	ambu 
+yes: e 
+yesterday: abala 
+you: nimi/nimi-mi | ne	nimi 
+you two: ne 
+you two: (n)ipi 
+you two: nipi/nipi-mi 
+every: abuna	luabu	rayo 
+ash: pealua	pere	taga 
+abdomen: lo	roba	robaː 
+bigness: ada	adaː 
+large: ada	adaː 
+breasts: adu 
+nail: kidipa	kikebo 
+talon: kidipa	kikebo 
+come from: ipu 
+be dead: iniadupia	inipata	oma 
+dead: iniadupia	inipata	oma 
+ground: su 
+land: su 
+soil: su 
+fat: apa	girisi 
+fat n.: apa	girisi 
+grease: apa	girisi 
+lubricant: apa	girisi 
+oil: apa	girisi 
+fly: biya	riya 
+fly v.: biya	riya 
+left hand: ki 
+right: ki 
+1 sg.: ni 
+be knowledgeable: nimina	niminaː 
+lie down: pala	yadasa 
+male: áː 
+much: adapu	adaːpu 
+multiple: adapu	adaːpu 
+several: adapu	adaːpu 
+flesh: midi 
+hill: ari	masa	pore 
+title: bi 
+nighttime: gae	leda	ribaː 
+adulterous: egata	komea	padane 
+single: egata	komea	padane 
+the: egata	komea	padane 
+unprincipled: egata	komea	padane 
+human: ona	onaː 
+human being: ona	onaː 
+rainy weather: agi rali	yai	yal 
+path: pora 
+route: pora 
+hide: yogane 
+little: ege	oge 
+smallness: ege	oge 
+rock: ana	aːna	kana 
+2 sg: ne	nimi 
+grind: lapo	laːpo 
+go: pamua 
+1 pl. inc.: nia	sa	saː 
+we₁: nia	sa	saː 
+whiteness: kaːke pia	yaːko pi 
+who?: api	aːpi 
+female: ona 
+dull: kedaː paː 
+serious: kedaː paː 

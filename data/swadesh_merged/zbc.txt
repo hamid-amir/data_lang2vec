@@ -1,0 +1,266 @@
+all: moŋ 
+every: moŋ 
+ash: akkuh 
+ashes: akkuh 
+abdomen: tijan 
+belly: tijan 
+big: kijɪh 
+bigness: kijɪh 
+large: kijɪh 
+bird: manoʔ 
+bite: katan 
+black: mittəm 
+blood: səma 
+bone: tulaŋ 
+breast: iteʔ 
+breasts: iteʔ 
+burn: mikkɪh 
+burn tr.: mikkɪh 
+cloud: gium 
+cold: məle 
+come: lɪʔ 
+come from: lɪʔ 
+be dead: ləttəh 
+dead: ləttəh 
+die: ləttəh 
+dog: acoh 
+drink: cəʔ 
+dry: malaŋ 
+ear: adiŋ 
+eat: kuman 
+egg: tiu 
+eye: mattəh 
+feather: buluh 
+fire: apoy 
+fish: puta 
+fly: təmalon 
+fly v.: təmalon 
+good: jin 
+green: gaduŋ 
+hair: puʔ 
+hand: tisu 
+left hand: tisu 
+right: tisu 
+head: uloh 
+hear: məneŋ 
+1 sg.: akkoh 
+I: akkoh 
+kill: pə-ləttəh 
+be knowledgeable: niñon 
+know: niñon 
+leaf: dion 
+lie: səliʔay 
+lie down: səliʔay 
+liver: atay 
+long: kəbəiʔ 
+head louse: kuttoh 
+louse: kuttoh 
+male: lakeh 
+man: ləmulon 
+moon: bulin 
+mouth: munoŋ 
+name: [ŋ]aran 
+title: [ŋ]aran 
+neck: bitoʔ 
+new: kireŋ 
+night: dicum 
+nighttime: dicum 
+nose: cuŋ 
+adulterous: acih	acɪh 
+one: acih	acɪh 
+single: acih	acɪh 
+that: tuh 
+the: acih	acɪh 
+unprincipled: acih	acɪh 
+human: ləmulon 
+human being: ləmulon 
+person: ləmulon 
+rain: usin 
+rainy weather: usin 
+red: juraŋ 
+path: ilan 
+road: ilan 
+route: ilan 
+root: gimauʔ 
+sand: raiʔ 
+say: pateh 
+see: niru 
+sit: turaw 
+hide: kulaiʔ 
+skin: kulaiʔ 
+sleep: turo 
+little: dik 
+small: dik 
+smallness: dik 
+smoke: cam 
+star: təkəbin 
+rock: bittoh 
+stone: bittoh 
+swim: pə|loŋoy 
+tail: iko 
+this: nih 
+2 sg: noh 
+thou: noh 
+you: noh 
+tongue: jali 
+tooth: jipən 
+grind: lebih	lěbih 
+two: lebih	lěbih 
+go: lakaw 
+walk: lakaw 
+hot: laso 
+warm: laso 
+water: pi 
+1 pl. inc.: kameh	kitah 
+we: kameh	kitah 
+we₁: kameh	kitah 
+what: ñon 
+white: pute 
+whiteness: pute 
+who: kaʔeh 
+who?: kaʔeh 
+female: dicu 
+woman: dicu 
+yellow: kuniŋ 
+distant: dio 
+far: dio 
+dull: bəkkəiʔ 
+heavy: bəkkəiʔ 
+serious: bəkkəiʔ 
+close: kəpaiʔ 
+near: kəpaiʔ 
+ner: kəpaiʔ 
+salt: usən 
+short: diciʔ 
+snake: lipəh 
+thin: lippəh 
+wind: biu 
+earthworm: lateh 
+worm: lateh 
+year: taun 
+2 pl.: kam 
+ye: kam 
+you all: kam 
+3 pl.: siloh 
+they: siloh 
+where: ataʔ buʔ 
+where?: ataʔ buʔ 
+when: iran 
+when?: iran 
+how: coʔ kədin 
+how?: coʔ kədin 
+other: jəh nɪh 
+three: tělö	təloh 
+four: pat	paʔ 
+five: dima	dimmah 
+broad: kijɪh 
+wide: kijɪh 
+wideness: kijɪh 
+fat: ləməʔ 
+thick: kapan 
+narrow: dik 
+principal wife: biʔeh 
+wife: biʔeh 
+husband: binəh 
+his mother: tinəh 
+mother: tinəh 
+my mother: tinəh 
+father: tanəh 
+his father: tanəh 
+my father: tanəh 
+forest: late 
+woods: late 
+branch: diʔən 
+stick: diʔən 
+fruit: luʔoŋ 
+flower: busaʔ 
+grass: uroh 
+cord: taleh 
+rope: taleh 
+flesh: ceh 
+meat: ceh 
+grease: ləməʔ 
+wing: pawaiʔ 
+gut: tənaiʔ 
+guts: tənaiʔ 
+insides: tənaiʔ 
+intestine: tənaiʔ 
+intestines: tənaiʔ 
+back: likon 
+suck: ñinauʔ 
+spit: suli 
+vomit: ñuta 
+blow: məppi 
+breath: ŋə-təcin 
+breathe: ŋə-təcin 
+laugh: tabəh 
+laughter: tabəh 
+cogitate: pikɪn 
+reflect: pikɪn 
+think: pikɪn 
+smell: m|arəʔ 
+sniff: m|arəʔ 
+afraid: bikaʔ 
+be afraid: bikaʔ 
+fear: bikaʔ 
+fright: bikaʔ 
+alive: mulon 
+be alive: mulon 
+life: mulon 
+live: mulon 
+living: mulon 
+hunt: bə-karaŋ 
+beat: mupoʔ 
+hit: mupoʔ 
+strike: mupoʔ 
+cut: məpaʔ 
+hack: məpaʔ 
+cut open: mitɪn 
+split: mitɪn 
+pierce: nəpɪʔ 
+stab: nəpɪʔ 
+scratch: kikiw 
+dig: ŋaleh 
+stand: mittɪn 
+drop: sito 
+fall: sito 
+grasp: kipəɪʔ 
+hold: kipəɪʔ 
+hold in arm: kipəɪʔ 
+squeeze: məñaiʔ 
+wring: məñaiʔ 
+throw: kateʔ	niŋeʔ 
+bind: mikeʔ 
+fasten: mikeʔ 
+tie: mikeʔ 
+tie up: mikeʔ 
+sew: napeʔ 
+count: muroŋ 
+enumerate: muroŋ 
+number: muroŋ 
+tally: muroŋ 
+flow: julu 
+lake: biwaŋ 
+ocean: diliʔ 
+sea: diliʔ 
+dust: apoʔ 
+fog: gium 
+sky: milaiʔ 
+bad: jeʔ 
+evil: jeʔ 
+rot: kiŋəh	kuroʔ 
+rotten: kiŋəh	kuroʔ 
+dirty: labih 
+filthy: labih 
+soiled: labih 
+sharp: ñəɪʔ 
+blunt: kapan 
+damp: səmeʔ 
+wet: səmeʔ 
+right side: pəŋka|tuʔoh 
+left: pəmaiŋ 
+at: atəʔ 
+in: lum 
+inside: lum 
+and: ŋan 
+if: mun 

@@ -1,0 +1,145 @@
+all: sasawa 
+every: sasawa 
+ash: cafe	dzafe 
+ashes: cafe	dzafe 
+bark: sahaʔ 
+abdomen: bu	bu- 
+belly: bu	bu- 
+big: ko7gbene	kɔʔgbene 
+bigness: ko7gbene	kɔʔgbene 
+large: ko7gbene	kɔʔgbene 
+bird: wipe 
+bite: ki	ki-	kiyeʔ 
+black: gogopo7	gɔgɔpɔʔ 
+blood: so7	soʔ-	soʔtiʔne 
+bone: sie7	sieʔ	sieʔ-	sieʔne 
+breast: moN	moŋ	moŋ-	mɔŋtiʔne 
+breasts: moN	moŋ	moŋ-	mɔŋtiʔne 
+claw: misiN	misiŋ-	misiŋne 
+nail: misiN	misiŋ-	misiŋne 
+talon: misiN	misiŋ-	misiŋne 
+cloud: karora	karora7	karoraʔ 
+cold: moteNne	mɔteŋne 
+come: wareyeʔ	wefu	wefu- 
+come from: wareyeʔ	wefu	wefu- 
+be dead: homo	hɔmo-	hɔmoyeʔ 
+dead: homo	hɔmo-	hɔmoyeʔ 
+die: homo	hɔmo-	hɔmoyeʔ 
+dog: kp~oto	kpɔto	kpɔtɔ 
+dry: kereNke	kerekŋke-	kereŋkeyeʔ 
+ear: hace7	hatseʔ	hatseʔ-	hatseʔtiʔne 
+earth: moreN 
+ground: moreN 
+land: moreN 
+soil: moreN 
+eat: no	nɔ	nɔ-	nɔyeʔ 
+eye: coNe	dzɔŋe	dzɔŋe-	dzɔŋene 
+fat: wokemaN 
+fat n.: wokemaN 
+grease: wokemaN 
+lubricant: wokemaN 
+oil: wokemaN 
+fire: dzoʔ 
+fish: bɔwɔne 
+foot: kike	kike-	kikene 
+full: fuse	fuse-	fuseyeʔ 
+give: nare	nare-	nareyeʔ 
+good: biaNne	biaŋne 
+green: oroNbori7	ɔrɔŋbɔriʔ 
+hair: cowo	dzɔwɔ	dzɔwɔ-	dzɔwɔne 
+hand: me	me-	metiʔne 
+left hand: me	me-	metiʔne 
+right: me	me-	metiʔne 
+head: kpitseʔ	kpitseʔ-	kpitseʔne	kp~ice7 
+heart: bo hɔndɔŋne	bu hondoN	hɔndɔŋ- 
+1 sg.: no 
+I: no 
+knee: dieN	dieŋ	dieŋ-	dieŋtiʔne 
+be knowledgeable: mana	mana-	manayeʔ 
+know: mana	mana-	manayeʔ 
+leaf: lehaʔ	reha7	rehaʔ-	rehaʔne 
+liver: bugbagbaʔ 
+long: cori7ne	dzori	dzɔriʔne 
+head louse: imeN 
+louse: imeN 
+male: Ni7	ŋiʔ 
+man: Ni7	ŋiʔ 
+many: bo7yaha	boʔyaha 
+much: bo7yaha	boʔyaha 
+multiple: bo7yaha	boʔyaha 
+several: bo7yaha	boʔyaha 
+flesh: bihu7	bihuʔne 
+meat: bihu7	bihuʔne 
+moon: mosa 
+hill: tiki 
+mountain: tiki 
+mouth: miʔne 
+name: coNe	dzoŋe	dzɔŋe-	dzɔŋene 
+title: coNe	dzoŋe	dzɔŋe-	dzɔŋene 
+neck: upe	upe-	upetiʔne 
+new: gboriʔ	gb~orine	gbɔriʔne 
+night: Nafe	nafe	ŋafe 
+nighttime: Nafe	nafe	ŋafe 
+nose: soke	sɔke-	sɔkeʔ	sɔkeʔtiʔne 
+not: mi 
+adulterous: mocjahoŋ	moyaha	moʔ taha	moʔyaha 
+one: mocjahoŋ	moyaha	moʔ taha	moʔyaha 
+single: mocjahoŋ	moyaha	moʔ taha	moʔyaha 
+that: mocjahoŋ	moyaha	moʔ taha	moʔyaha 
+the: mocjahoŋ	moyaha	moʔ taha	moʔyaha 
+unprincipled: mocjahoŋ	moyaha	moʔ taha	moʔyaha 
+rain: hoe 
+rainy weather: hoe 
+red: boboroN	bɔbɔroŋ 
+path: hata 
+road: hata 
+route: hata 
+root: goto	gɔtɔ-	gɔtɔne 
+round: oroN oroN	orɔŋ orɔŋ 
+sand: moŋgeŋ	mɔngeŋ 
+say: mi	mu	mu-	muyeʔ 
+see: honenu	honenuyeʔ	honeʔnu- 
+seed: hondoN	hɔndɔŋ-	hɔndɔŋtiʔne 
+sit: Ne	ŋe- 
+hide: saha7	sahaʔ	sahaʔ-	sahaʔne 
+skin: saha7	sahaʔ	sahaʔ-	sahaʔne 
+sleep: fo	fo-	foyeʔ 
+little: piti7ne	pitiʔne 
+small: piti7ne	pitiʔne 
+smallness: piti7ne	pitiʔne 
+smoke: hoso7	hosɔʔ	kosɔʔ 
+stand: doma 
+star: bopiN	bɔpin	bɔpiŋ 
+rock: kp~ono	kpɔnɔ 
+stone: kp~ono	kpɔnɔ 
+sun: coaN	dzoaŋ 
+swim: fifia bayeʔ 
+tail: ge7	geʔ-	geʔne 
+this: ci	dzi 
+2 sg: go 
+thou: go 
+you: go 
+tongue: nameN	nameŋ	nameŋ-	nameŋtiʔne 
+tooth: mi7	miʔ	miʔ-	miʔne 
+tree: yo7 
+grind: jojohac	yayahe7	yayaheʔ 
+two: jojohac	yayahe7	yayaheʔ 
+hot: hɔroŋne	hɔrɔŋne 
+warm: hɔroŋne	hɔrɔŋne 
+water: opo	opɔ 
+1 pl. inc.: noNo7	nɔŋɔʔ 
+we: noNo7	nɔŋɔʔ 
+we₁: noNo7	nɔŋɔʔ 
+what: wemo 
+white: kpaŋ kpaŋ	kp~aN kp~aN 
+whiteness: kpaŋ kpaŋ	kp~aN kp~aN 
+who: mo7	moʔ 
+who?: mo7	moʔ 
+female: Noka7	ŋokaʔ 
+woman: Noka7	ŋokaʔ 
+yellow: boNeNne	bɔŋeŋne 
+short: bembeŋ	muru 
+snake: homa 
+wind: mɔnɔŋ	mɔŋɔŋ 
+earthworm: gbasu 
+worm: gbasu 

@@ -1,0 +1,140 @@
+all: tiboq 
+every: tiboq 
+ash: qatigbun 
+ashes: qatigbun 
+abdomen: gotok 
+belly: gotok 
+big: dakol 
+bigness: dakol 
+large: dakol 
+bird: manokmanok 
+bite: kagat 
+black: moqitom 
+blood: laNosa	langosa 
+bone: bokog 
+breast: sosolobon	susu 
+breasts: sosolobon	susu 
+burn: silab 
+burn tr.: silab 
+cloud: gapun 
+cold: mahagsil 
+be dead: namatoy 
+dead: namatoy 
+die: namatoy 
+dog: asu	qasu 
+drink: inum	qinum 
+dry: dampil	mamada 
+ear: taliNa	talinga 
+eat: koqon 
+egg: qatolug	qatoug 
+eye: mata 
+feather: bulbul 
+fire: hapuy 
+fish: Nalap	ngaap	ngalap 
+fly: layang 
+fly v.: layang 
+full: kaponu7 
+good: madoyow 
+green: malugolugow 
+hair: bulbul 
+hand: boad	bolad 
+left hand: boad	bolad 
+right: boad	bolad 
+head: qulu	quu 
+hear: dinog 
+1 sg.: sikanak 
+I: sikanak 
+kill: himatoy 
+knee: bu7ol 
+be knowledgeable: kataga 
+know: kataga 
+leaf: doun 
+liver: atoy	qatoy 
+long: maayat	malayat 
+head louse: kutu 
+louse: kutu 
+male: lukos 
+man: otow	qotow 
+moon: buan	bulan 
+hill: bubuNan 
+mountain: bubuNan 
+mouth: boqboq 
+name: Nadan	ngadan 
+title: Nadan	ngadan 
+neck: liog 
+new: iam	qiam 
+night: ma7usilom	maqusilom 
+nighttime: ma7usilom	maqusilom 
+nose: iduN	qidung 
+adulterous: isa	qisa 
+one: isa	qisa 
+single: isa	qisa 
+that: isa	qisa 
+the: isa	qisa 
+unprincipled: isa	qisa 
+human: otow	qotow 
+human being: otow	qotow 
+person: otow	qotow 
+rain: qudan 
+rainy weather: qudan 
+red: bagon 
+path: dalan 
+road: dalan 
+route: dalan 
+root: dalid 
+sand: bayokbok 
+say: kagi 
+see: pitow 
+sit: pinnuqu 
+hide: laplap 
+skin: laplap 
+sleep: hidogoq 
+little: maintok (lintok)	malintok (lintok) 
+small: maintok (lintok)	malintok (lintok) 
+smallness: maintok (lintok)	malintok (lintok) 
+smoke: qobol 
+star: bitu7on	bituqon 
+rock: batu 
+stone: batu 
+swim: lumbuk 
+tail: qikug 
+2 sg: sikoykow 
+thou: sikoykow 
+you: sikoykow 
+tongue: dilo7	diloq	dioq 
+tooth: Nipon	ngipon 
+tree: kayu 
+grind: dadawa 
+two: dadawa 
+go: hipanow 
+walk: hipanow 
+hot: moqinit 
+warm: moqinit 
+water: woig 
+1 pl. inc.: sikanta 
+we: sikanta 
+we₁: sikanta 
+what: nokoy 
+white: mapotit 
+whiteness: mapotit 
+who: hontow 
+who?: hontow 
+female: boi 
+woman: boi 
+yellow: malalab 
+distant: madiuq 
+far: madiuq 
+dull: mabogat 
+heavy: mabogat 
+serious: mabogat 
+close: madani 
+near: madani 
+ner: madani 
+salt: qasing 
+short: malibutut	malopot (lopot) 
+snake: qulod	quod 
+thin: manipis 
+wind: kaamag	kalamag 
+earthworm: liwati 
+worm: liwati 
+year: tuqid 

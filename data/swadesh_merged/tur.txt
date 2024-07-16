@@ -1,0 +1,413 @@
+all: hepsi | bütün	hep	hepsi	her	tüm	tümü 
+all: tüm | bütün	hep	hepsi	her	tüm	tümü 
+and: ve 
+animal: hayvan kaba kişi 
+ashes: yakılmış cesedin külleri | kil	kül 
+at: -de, -da | -da	-de	-ta	-te 
+back: sırt arka | arka	sırt 
+bad: kötü bozuk çürük | fena	kötü 
+bark: agac kabugu | kabuk 
+bark: ağaç kabuğu | kabuk 
+bark: kabuk 
+because: çünkü -dığı için 
+belly: göbek | karın 
+belly: karın 
+big: buyuk | büyük 
+big: büyük 
+bird: kus | kuş 
+bird: kuş 
+bird: kus kuş 
+bite: ısırım | dişlemek	lokma	ısırmak 
+bite: ısırmak | dişlemek	lokma	ısırmak 
+black: kara | kara	siyah 
+blood: kan 
+blow: esmek üflemek uçurmak | esmek	üflemek 
+bone: kemik 
+breast: göğüs | göğüs	meme 
+breast: meme | göğüs	meme 
+breathe: solumak fısıldamak | nefes almak	soluk almak	solumak 
+burn: yanmak yakmak yanık | yak	yan	yanmak 
+child: çocuk 
+cloud: bulut karaltı gölge küme 
+cold: soğuk | sakin	soğuk 
+come: gelmek ulaşmak | gel	gelmek 
+correct: doğru yanlışsız 
+count: saymak içermek | saymak	sayı 
+cut: kesmek dilimlemek kesilmek 
+day: gün | gün	gündüz 
+die: ölmek | zar	ölmek 
+dig: kazmak anlamak | kazmak	kazımak 
+dirty: savruk pis kirli çirkin 
+dog: kopek | it	köpek 
+dog: köpek | it	köpek 
+dog: köpek, it | it	köpek 
+drink: içmek 
+dry: kuru | kurak	kuru 
+dull: sönük donuk boğuk | ağır | kör	küt 
+dust: toz 
+ear: kulak 
+earth: yer dünya toprak doğa | kara	toprak 
+eat: yemek | ye	yemek 
+egg: yumurta 
+eye: göz | delik	göz	ilik 
+fall: düşmek azalmak inmek 
+far: uzakta uzağa çok 
+father: baba | ata	baba 
+fat (n.): yag 
+fat (n.): yağ 
+fear: korkmak ürkmek çekinmek telaşlanmak 
+feather: tüy 
+few: az birkaç 
+fight: savaşmak çarpışmak dövüşmek | savaşmak	vuruşmak 
+fingernail: tırnak 
+fire: ates | ateş	od 
+fire: ateş | ateş	od 
+fish: balık 
+five: bes | beş 
+five: beş 
+float: yüzmek yüzdürmek 
+flow: akma akış akmak dolaşmak 
+flower: çiçek 
+fly (v.): uçmak tüymek 
+fog: sis | duman	sis 
+foot: ayak 
+forest: orman 
+four: dört 
+freeze: donmak dondurmak | donmak	üşümek 
+fruit: meyve sonuç ürün | meyve	yemiş 
+give: vermek tanımak eğilmek 
+good: iyi, güzel 
+grass: çimen ot çayır | ot	çimen 
+green: yeşil ham | ham	yeşil 
+guts: bağırsaklar bağırsaklar azim iäşerik öz 
+hair: saç | kıl	saç 
+hair: saç kıl | kıl	saç 
+hand: el | akrep	el | el	kol 
+hand: el işçi yardım | akrep	el | el	kol 
+head: baş | baş	kafa 
+head: baş kafa | baş	kafa 
+head: kafa | baş	kafa 
+hear: bilmek | duy	duymak	işitmek 
+hear: duymak | duy	duymak	işitmek 
+heart: kalp | kalb	kalp	yürek 
+heart: kalp yürek gönül kararlılık | kalb	kalp	yürek 
+heart: yürek | kalb	kalp	yürek 
+heavy: ağır yoğun şiddetli 
+he: on 
+here: burada 
+hit: vurmak çarpmak | vurmak	çapmak 
+hold: tutmak almak yapmak 
+horn: boynuz | boru	boynuz 
+how: ne | nasıl 
+hunt: avlamak araştırmak 
+husband: koca eş 
+I: ben 
+ice: buz kek dondurma 
+if: eğer ise | -sa	-se	eğer	şayet 
+in: -de, -da | -da	-de	-ta	-te 
+in: -de,-da | -da	-de	-ta	-te 
+kill: öldürmek av 
+knee: diz 
+know: bilmek 
+lake: göl 
+laugh: gülmek gülüş 
+leaf: yaprak 
+left: sol 
+leg: but bacak bölüm 
+lie: yatmak uzanmak durmak | uzanmaq	yatmak 
+liver: ciğer | ciğer	karaciğer 
+liver: karaciğer | ciğer	karaciğer 
+live: yaşamak oturmak diri canlı 
+long: uzun 
+louse: bit 
+man: adam | adam	insan	kimse	kişi 
+man: erkek | adam	insan	kimse	kişi 
+many: bir çok 
+many: cogu | çok 
+many: çoğu | çok 
+meat: et | ten 
+mother: anne | ana	anne 
+mountain: dağ | da	dağ 
+mouth: ağız | ağız	mansap 
+name: isim | ad	başlık	isim 
+narrow: dar sınırlı az 
+near: yakın 
+neck: boyun | boyun	gerdan 
+neck: boyun yaka dil kıstak | boyun	gerdan 
+neck: ense | boyun	gerdan 
+new: yeni 
+night: aksam | gece	tün 
+night: akşam | gece	tün 
+nose: burun 
+not: deghil | değil 
+not: degil | değil 
+not: değil 
+old: eski | eski	yaşlı 
+one: bir | bir	tek 
+other: diğer öteki öbür | başka	diğer 
+person: kisi | adam	insan	kimse	kişi 
+person: kişi | adam	insan	kimse	kişi 
+play: oyna- | oynamak 
+pull: çek- | çekmek 
+push: it- | itmek 
+rain: yağmur 
+red: al kırmızı | al	kırmızı	kızıl 
+right: sağ | akrep	el 
+river: ırmak | nehir	çay	ırmak 
+road: yol | patika	yol 
+root: kök 
+rope: ip | halat	ip	urgan 
+rotten: çürük | bozuk	çürük 
+rub: ovmak ovalamak sürtmek | ovmak	sürtmek 
+salt: tuz çeşni 
+sand: kum 
+say: demek söylemek okumak | de	demek	söylemek 
+scratch: tırmalamak çizmek kaşımak eşelemek | tırnamak	çizmek 
+sea: deniz 
+seed: tohum | tane	tohum 
+see: görmek | anla	görmek 
+sew: dikmek 
+sharp: keskin sivri 
+short: kısa parasız az kıt 
+sing: söylemek ötmek şakımak vızıldamak çınlamak uğuldamak | şarkı söylemek 
+sit: oturmak oturtmak 
+skin: deri | cilt	deri	kösele	post	ten 
+sky: gök 
+sleep: uyumak 
+small: kucuk | küçük	ufak 
+small: küçük | küçük	ufak 
+small: ufak küçük | küçük	ufak 
+smell: koklamak sezmek iz eser | koklamak	kokmak 
+smoke: duman | duman	tütün 
+smooth: düz | düz	pürüzsüz 
+snake: yılan 
+snow: kar kokain 
+some: biraz birkaç kimi | bazı	birkaç	kimi 
+spit: şiş dil | tükürmek 
+split: yarmak yarılmak sökülmek 
+squeeze: sıkmak ezmek sığdırmak | ezmek	kısmak	sıkmak 
+stab: bıçaklama deneme | batırmak	bıçaklamak	saplamak	sokmak 
+stand: dikelmek | durmak	kum 
+star: yıldız 
+stick: sopa değnek baston saplamak | değnek	çubuk 
+stone: taş 
+straight: düz dürüst | doğru	düz 
+suck: emmek 
+sun: güneş 
+swell: şişmek kabarmak 
+swim: yüzmek dölmek 
+tail: kuyruk | arka	kuyruk 
+that: su | Su	o	şu	о | bir	tek 
+that: şu | Su	o	şu	о | bir	tek 
+there: orada 
+they: onlar 
+thick: kalın katı yoğun 
+thin: ince zayıf cılız sulu cıvık 
+think: düşünmek sanmak | düşünmek	sanmak 
+this: bu 
+thou: sen | sen	siz 
+three: üç 
+throw: atmak fırlatmak 
+tie: bağlamak bağlanmak 
+tongue: dil | dil	lisan 
+tooth: diş 
+tree: agac | ağaç 
+tree: ağaç 
+turn: çevirmek döndürmek çevrilmek | dönmek 
+two: iki 
+vomit: kusmak 
+walk: yürümek gezdirmek gezinmek | gez	gezmek	gitmek	yürümek 
+warm: ılık | sıcak	ılık 
+wash: yıkamak 
+water: su 
+we: biz 
+wet: ıslak yaş | yaş	ıslak 
+what: ne | hangi	ne 
+when: ne zaman 
+where: nere | nerde	nerede 
+white: beyaz | ak	beyaz 
+who: kim 
+wide: geniş iyice tamamen 
+wife: kari eş hanim | eş	karı 
+wind: rüzgar yel nefes soluk | rüzgar	yel 
+wing: ek bina | kanat 
+wipe: silmek 
+with: ile nedeniyle sayesinde | -la	-le	ile 
+woman: kadin | kadın 
+woman: kadın 
+worm: kurt solucan korkak ödlek | kurt	solucan 
+year: yıl sene | sene	yıl 
+yellow: sarı ödlek 
+you: siz | sen	siz 
+every: bütün	hep	hepsi	her	tüm	tümü 
+ash: kil	kül 
+abdomen: karın 
+bigness: büyük 
+large: büyük 
+breasts: göğüs	meme 
+cloud: bulut 
+come from: gel	gelmek 
+be dead: zar	ölmek 
+dead: zar	ölmek 
+ground: kara	toprak 
+land: kara	toprak 
+soil: kara	toprak 
+fat: ya 
+fat n.: ya 
+grease: ya 
+lubricant: ya 
+oil: ya 
+fly: uçmak 
+fly v.: uçmak 
+full: dolu	tam 
+give: vermek 
+good: iyi 
+left hand: akrep	el 
+1 sg.: ben 
+kill: öldürmek 
+be knowledgeable: bilmek 
+lie down: yat 
+head louse: bit 
+male: adam	er	erkek 
+much: çok 
+multiple: çok 
+several: çok 
+flesh: ten 
+moon: ay	kamer 
+hill: da	dağ 
+title: ad	başlık	isim 
+nighttime: gece	tün 
+adulterous: bir	tek 
+single: bir	tek 
+the: bir	tek 
+unprincipled: bir	tek 
+human: adam	insan	kimse	kişi 
+human being: adam	insan	kimse	kişi 
+rainy weather: yağmur 
+path: patika	yol 
+route: patika	yol 
+round: değirmi	toparlak	yuvarlak 
+sit: oturmak 
+hide: cilt	deri	kösele	post	ten 
+little: küçük	ufak 
+smallness: küçük	ufak 
+rock: taş 
+swim: yüzmek 
+2 sg: sen	siz 
+grind: iki 
+go: gez	gezmek	gitmek	yürümek 
+hot: sıcak	ılık 
+1 pl. inc.: biz 
+we₁: biz 
+whiteness: ak	beyaz 
+who?: kim 
+female: kadın 
+yellow: sarı 
+distant: uzak 
+far: uzak 
+heavy: ağır 
+serious: ağır 
+close: yakın 
+ner: yakın 
+salt: tuz 
+short: kısa 
+thin: ince 
+earthworm: kurt	solucan 
+2 pl.: siz 
+ye: siz 
+you all: siz 
+3 pl.: onlar 
+where?: nerde	nerede 
+when?: ne zaman 
+how?: nasıl 
+few: az 
+broad: geniş 
+wide: geniş 
+wideness: geniş 
+thick: kalın 
+narrow: dar 
+principal wife: eş	karı 
+husband: koca 
+his mother: ana	anne 
+my mother: ana	anne 
+his father: ata	baba 
+my father: ata	baba 
+animal: hayvan 
+woods: orman 
+branch: değnek	çubuk 
+cord: halat	ip	urgan 
+claw: tırnak 
+nail: tırnak 
+leg: bacak 
+arm: el	kol 
+gut: bağırsak 
+guts: bağırsak 
+insides: bağırsak 
+intestine: bağırsak 
+intestines: bağırsak 
+breath: nefes almak	soluk almak	solumak 
+laugh: gülmek 
+laughter: gülmek 
+cogitate: düşünmek	sanmak 
+reflect: düşünmek	sanmak 
+sniff: koklamak	kokmak 
+afraid: korkmak 
+be afraid: korkmak 
+fear: korkmak 
+fright: korkmak 
+alive: yaşamak 
+be alive: yaşamak 
+life: yaşamak 
+live: yaşamak 
+living: yaşamak 
+hunt: avlamak 
+beat: vurmak	çapmak 
+strike: vurmak	çapmak 
+cut: kesmek 
+hack: kesmek 
+cut open: yarmak 
+split: yarmak 
+pierce: batırmak	bıçaklamak	saplamak	sokmak 
+tell lies: uzanmaq	yatmak 
+turn around: dönmek 
+turn round: dönmek 
+drop: düşmek 
+fall: düşmek 
+grasp: tutmak 
+hold: tutmak 
+hold in arm: tutmak 
+wring: ezmek	kısmak	sıkmak 
+wash clothes: yıkamak 
+shove: itmek 
+throw: atmak 
+bind: bağlamak 
+fasten: bağlamak 
+tie: bağlamak 
+tie up: bağlamak 
+enumerate: saymak	sayı 
+number: saymak	sayı 
+tally: saymak	sayı 
+have fun: oynamak 
+float: yüzmek 
+flow: akmak 
+swell: şişmek 
+brook: nehir	çay	ırmak 
+stream: nehir	çay	ırmak 
+ocean: deniz 
+snow: kar 
+ice: buz 
+blaze: yak	yan	yanmak 
+daylight: gün	gündüz 
+daytime: gün	gündüz 
+evil: fena	kötü 
+rot: bozuk	çürük 
+dirty: kirli 
+filthy: kirli 
+soiled: kirli 
+sharp: keskin 
+blunt: kör	küt 
+damp: yaş	ıslak 
+correct: doğru 
+right side: sağ 
+inside: -da	-de	-ta	-te 
+because: çünkü 

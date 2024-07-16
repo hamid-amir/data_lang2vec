@@ -1,0 +1,305 @@
+all: kerek 
+and: otmu 
+animal: sogo 
+arm: bɔt 
+ashes: kâu | kou	kɑu	kɔu 
+ashes: kɔu | kou	kɑu	kɔu 
+ashes: kɑu | kou	kɑu	kɔu 
+back: kâdât- 
+back: kɑdɑt- 
+bark: hɔk 
+belly: tep- | tep	tep- 
+big: pato 
+bird: nâi | noi	nɑi 
+bird: nɑi | noi	nɑi 
+bite: ihi- | ihi	ihi- 
+black: heleng | heleN	heleŋ 
+black: heleŋ | heleN	heleŋ 
+blood: hep- | hep	hep- 
+blow: hângu- 
+blow: hɑŋgu- 
+bone: hahit- | hahit	hahit-	haɣit	tɔn 
+bone: haɣit | hahit	hahit-	haɣit	tɔn 
+bone: tɔn | hahit	hahit-	haɣit	tɔn 
+breast: nam- | nam	nam- 
+breathe: heak 
+brother: ata 
+brother: ata- 
+burn: si- 
+claw: pekat- | pekat	pekat- 
+cloud: elem 
+cold: bâlâpnge | bolopNe	bɑlɑpŋe 
+cold: bɑlɑpŋe | bolopNe	bɑlɑpŋe 
+come: ga- | ga	ga- 
+count: sâliku- 
+count: sɑliku- 
+cut: hâre- 
+cut: hɑre- 
+die: mu- | mu	mu- 
+dig: ai- 
+dog: soso 
+dry: hârâng- | horoN	hɑrɑŋ- 
+dry: hɑrɑŋ- | horoN	hɑrɑŋ- 
+dust: wahap 
+ear: âdâp- | odop	ɑdɑp-	ɔndɔp 
+ear: ɑdɑp- | odop	ɑdɑp-	ɔndɔp 
+ear: ɔndɔp | odop	ɑdɑp-	ɔndɔp 
+earth: hân | hon	hɔn 
+earth: hɑn | hon	hɔn 
+earth: hɔn | hon	hɔn 
+eat: ne | ne	ni	ni- 
+eat: ni- | ne	ni	ni- 
+emu: gasam 
+eye: sen- | sen	sen- 
+fall: kiong- 
+fall: kioŋ- 
+father: awɑ- 
+father: awâ- 
+fat (n.): kelu- 
+fingernail: pekat 
+fire: kɔlɔp 
+flower: suri- 
+foot: kâi- | koi	kɑi-	kɔi 
+foot: kɑi- | koi	kɑi-	kɔi 
+foot: kɔi | koi	kɑi-	kɔi 
+fruit: bon- 
+full: pik- | pik	pik- 
+give: nihi- | nihi	nihi- 
+good: âlipnge | olipNe	ɑlipŋe 
+good: ɑlipŋe | olipNe	ɑlipŋe 
+green: golɑ | golo	golɑ	golɔ 
+green: golâ | golo	golɑ	golɔ 
+green: golɔ | golo	golɑ	golɔ 
+hair: somot- | somot	somot- 
+hand: bât- | bot	bɑt- 
+hand: bɑt- | bot	bɑt- 
+head: kun- | kun	kun- 
+heart: kabiam- | kabiam	kabiam- 
+he/she: yâk 
+he/she: yɑk 
+he/she: yɔk 
+he/she: yɔkɔt 
+hit: ku- 
+hold: mi- 
+hole: lɔm 
+house: emet 
+how: gira 
+I: nɑ | no	nɑ	nɔ 
+I: nâ | no	nɑ	nɔ 
+I: nɔ | no	nɑ	nɔ 
+I: nɔhɔt | no	nɑ	nɔ 
+kill: kpa- 
+knee: pawut- | pawut	pawut- 
+know: naga- | naga	naga- 
+lake: degân 
+lake: degɑn 
+laugh: giring- 
+laugh: giriŋ- 
+leaf: esen- | esen	esen- 
+left: kane 
+leg: kɔi 
+long: kâlip | kolip	kɔlip 
+long: kɔlip | kolip	kɔlip 
+louse: imen 
+man: lok 
+many: biwirɑ | biwiro	biwirɑ	sesegɔt 
+many: biwirâ | biwiro	biwirɑ	sesegɔt 
+many: sesegɔt | biwiro	biwirɑ	sesegɔt 
+meat: sunum- 
+moon: emesen.nge | emesenNe	emesenŋe 
+moon: emesenŋe | emesenNe	emesenŋe 
+mother: mâmâ- 
+mother: mɑmɑ- 
+mother: momo 
+mountain: gibânge | giboNe	gibɑŋe 
+mountain: gibɑŋe | giboNe	gibɑŋe 
+mouth: lau 
+name: kut- | kut	kut- 
+neck: obe- | obe	obe-	ombr 
+neck: ombr | obe	obe-	ombr 
+new: âinge | irak	oiNe	ɑiŋe 
+new: ɑiŋe | irak	oiNe	ɑiŋe 
+new: irak | irak	oiNe	ɑiŋe 
+night: omong | omoN	omoŋ 
+night: omoŋ | omoN	omoŋ 
+nose: hâme- | home	hɑme-	hɔme 
+not: ki 
+old: sobo 
+one: konok 
+play: heng 
+play: heŋ 
+pull: dâi- 
+pull: dɑi- 
+push: hâpun- 
+push: hɑpun- 
+rain: gelâk | gelok	gelɑk 
+rain: gelɑk | gelok	gelɑk 
+rain: gelok | gelok	gelɑk 
+red: kuring | kuriN	kuriŋ 
+red: kuriŋ | kuriN	kuriŋ 
+right: bon | bot	bɑt- 
+road: giop 
+root: gihit- | gihit	gihit- 
+rope: ip 
+rotten: yap 
+round: gawâng gawâng | gawoN gawoN	gɑwɑŋ gɑwɑŋ 
+round: gɑwɑŋ gɑwɑŋ | gawoN gawoN	gɑwɑŋ gɑwɑŋ 
+sand: sak 
+say: sɔ | sɔ	y	y-	yo 
+say: y- | sɔ	y	y-	yo 
+say: yo | sɔ	y	y-	yo 
+seed: kehet- | kehet	kehet- 
+see: nek- | nek	nek- 
+sew: gɑre- 
+short: tâlâwâk | tɑlɑwɑk 
+short: tɑlɑwɑk 
+sister: tou 
+sister: tou- 
+sit: ta- | ta	ta- 
+skin: hâk- | hok	hɑk-	hɔk 
+skin: hɑk- | hok	hɑk-	hɔk 
+skin: hɔk | hok	hɑk-	hɔk 
+sky: hibim 
+sleep: i- | i	i- 
+small: tipinge | tipiNe	tipiŋe 
+small: tipiŋe | tipiNe	tipiŋe 
+smoke: utun 
+snake: habe 
+some: nobot- 
+spit: tâp- 
+spit: top 
+stand: kin- 
+star: petu | petu	pitu 
+star: pitu | petu	pitu 
+stick: kapam 
+stone: kât | kot	kɑt 
+stone: kɑt | kot	kɑt 
+straight: tɔŋtɔŋ 
+suck: musuku- 
+sun: dewutɑ | dewuto	dewutɑ	dewutɔ 
+sun: dewutâ | dewuto	dewutɑ	dewutɔ 
+sun: dewutɔ | dewuto	dewutɑ	dewutɔ 
+swell: suk- 
+tail: hape- | hape	hape- 
+that: eda | ya 
+that: edu | ya 
+that: ya 
+there: eda 
+there: ya-ɔn 
+they two: yɔkyet 
+they two: (yɔk)yetkɔt 
+they: yâk 
+they: yɑk 
+they: (yɔk)yegɔt 
+they: yɔkyen 
+this: yu 
+thou: gɑ | go	gɑ	gɔ 
+thou: gâ | go	gɑ	gɔ 
+thou: gɔ | go	gɑ	gɔ 
+thou: gɔhɔt | go	gɑ	gɔ 
+thou: ye | go	gɑ	gɔ 
+thou: yegɔt | go	gɑ	gɔ 
+thou: yen | go	gɑ	gɔ 
+throw: pila- 
+tie: heku 
+tie: sɔɣɔ 
+tie: teku 
+tomorrow: hɔdɔhen 
+tongue: nibilam- | nibilam	nibilam-	nimbilam 
+tongue: nimbilam | nibilam	nibilam-	nimbilam 
+tooth: sât- | sot	sɑt- 
+tooth: sot | sot	sɑt- 
+tooth: sɑt- | sot	sɑt- 
+tree: nak 
+turn: purik- 
+two: yâhâp | yohop	yâhâp	yɑhɑp 
+two: yɑhɑp | yohop	yâhâp	yɑhɑp 
+vomit: mohat- 
+walk: ari 
+warm: kâlâp | kɔlɔpkɔlɔp	uruk uruk 
+warm: kɔlɔpkɔlɔp | kɔlɔpkɔlɔp	uruk uruk 
+warm: kɑrɑp | kɔlɔpkɔlɔp	uruk uruk 
+warm: uruk uruk | kɔlɔpkɔlɔp	uruk uruk 
+wash: puri- 
+water: to 
+weep: isi- 
+we: ne | nen 
+we: nen 
+we: neŋɔt | nen 
+we: non | nen 
+we two (incl.): net 
+we two (incl.): netkɔt 
+what: wuân | wuon	wuɑn 
+what: wuɑn | wuon	wuɑn 
+where: wonân 
+where: wonɑn 
+where: won-ɔn 
+white: kaok 
+who: âlâ | olo	ɑlɑ 
+who: ɑlɑ | olo	ɑlɑ 
+wind: berom | berom	bɔlɔp 
+wind: bɔlɔp | berom	bɔlɔp 
+wing: pegam- 
+wing: peŋgam 
+woman: ibi 
+wood: kapam 
+worm: wik 
+yellow: gibang | gibaN	gibaŋ 
+yellow: gibaŋ | gibaN	gibaŋ 
+yesterday: mukan 
+you two: yet 
+you two: yetkɔt 
+you: yen | go	gɑ	gɔ 
+every: kerek 
+ash: kou	kɑu	kɔu 
+abdomen: tep	tep- 
+bigness: pato 
+large: pato 
+breasts: nam	nam- 
+nail: pekat	pekat- 
+talon: pekat	pekat- 
+come from: ga	ga- 
+be dead: mu	mu- 
+dead: mu	mu- 
+ground: hon	hɔn 
+land: hon	hɔn 
+soil: hon	hɔn 
+fat: kelu 
+fat n.: kelu 
+grease: kelu 
+lubricant: kelu 
+oil: kelu 
+left hand: bot	bɑt- 
+1 sg.: no	nɑ	nɔ 
+be knowledgeable: naga	naga- 
+head louse: imen 
+male: lok 
+much: biwiro	biwirɑ	sesegɔt 
+multiple: biwiro	biwirɑ	sesegɔt 
+several: biwiro	biwirɑ	sesegɔt 
+flesh: sunum 
+meat: sunum 
+hill: giboNe	gibɑŋe 
+title: kut	kut- 
+nighttime: omoN	omoŋ 
+adulterous: konok 
+single: konok 
+the: konok 
+unprincipled: konok 
+rainy weather: gelok	gelɑk 
+path: giop 
+route: giop 
+hide: hok	hɑk-	hɔk 
+little: tipiNe	tipiŋe 
+smallness: tipiNe	tipiŋe 
+stand: kin 
+rock: kot	kɑt 
+2 sg: go	gɑ	gɔ 
+grind: yohop	yâhâp	yɑhɑp 
+hot: kɔlɔpkɔlɔp	uruk uruk 
+1 pl. inc.: nen 
+we₁: nen 
+whiteness: kaok 
+who?: olo	ɑlɑ 
+female: ibi 
+earthworm: wik 

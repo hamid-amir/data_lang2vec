@@ -1,0 +1,333 @@
+all: ga̲tho	kadu̲	ta̲tʼi 
+every: ga̲tho	kadu̲	ta̲tʼi 
+ash: 'bospi	ʼbospi 
+ashes: 'bospi	ʼbospi 
+bark: 'ma̲ts'i	'ma̲ts'u̲zaa	'ma̲xu̲zaa	ʼma̲tsʼi 
+abdomen: mu̲i	xefo 
+belly: mu̲i	xefo 
+big: dätä 
+bigness: dätä 
+large: dätä 
+bird: ts'ints'u̲	tsʼintsʼu̲ 
+bite: tsa 
+black: 'bo	pothe	xi mpothe	ʼbo 
+blood: ji	xi 
+bone: ndo'yo	ndoʼyo	nd~oyo 
+breast: 'ba	Siba	ba	tiñä	ʼba 
+breasts: 'ba	Siba	ba	tiñä	ʼba 
+claw: nts'ähmi	xa̲ 
+nail: nts'ähmi	xa̲ 
+talon: nts'ähmi	xa̲ 
+cloud: gui 
+cold: ntse̲	xi ntse̲ 
+come: ehe 
+come from: ehe 
+be dead: tu 
+dead: tu 
+die: tu 
+dog: 'yo	cat"y~o	ndo̲'yo	tsat'yo	tsatʼyo	tsu'yo	txu̲ku̲	yo 
+drink: 'bet'i	ci	tsi	tsithe	ʼbetʼi 
+dry: xi 'ñoni	xi ‘yot'i	ʼyotʼi	ʼñoni 
+ear: Sigu	gu	zagu 
+earth: hai 
+ground: hai 
+land: hai 
+soil: hai 
+eat: tsa	tsi	ñuni 
+egg: mädo	tʼaxi 
+eye: da	da̲ 
+feather: xi'ni	xiʼni 
+fire: tsibi 
+fish: hu3	hwä	w3 
+fly: nsa̲ni 
+fly v.: nsa̲ni 
+foot: wa 
+full: 5udi	d3	xi ñuts'i	ñutsʼi 
+give: uni 
+good: hogi	xi hño	za 
+green: kʼantsʼi	kʼaʼmi	xi nkʼantsʼi	xi nkʼaʼmi 
+hair: xtä 
+hand: 'ye̲	yE 
+left hand: 'ye̲	yE 
+right: 'ye̲	yE 
+head: ñä	ñäxu̲mu 
+hear: 3de	o̲de 
+heart: mu̲i 
+horn: nd~a*ni	ndäni 
+1 sg.: geka̲	geke	geki	geku̲ga̲	nuga	nuga̲	nugu̲ga̲	nugu̲gi 
+I: geka̲	geke	geki	geku̲ga̲	nuga	nuga̲	nugu̲ga̲	nugu̲gi 
+kill: ho 
+knee: 53mu	ñähmu 
+be knowledgeable: ätʼi 
+know: ätʼi 
+leaf: Si	thot'i	thotʼi	xi 
+lie: 'be̲ni jar fidi	'me̲mfo	mpits'i	‘be̲ni 
+lie down: 'be̲ni jar fidi	'me̲mfo	mpits'i	‘be̲ni 
+liver: ya 
+long: maki	xi ma	xi maki 
+head louse: mu̲xt'o	t"o	t'o	t'o'ni	tʼo 
+louse: mu̲xt'o	t"o	t'o	t'o'ni	tʼo 
+male: 'ño̲ho̲	ʼño̲ho̲ 
+man: jä'i	jäʼi	xa*7i 
+many: ndunthe	nts'e̲di	ntsʼe̲di	xi	xingu 
+much: ndunthe	nts'e̲di	ntsʼe̲di	xi	xingu 
+multiple: ndunthe	nts'e̲di	ntsʼe̲di	xi	xingu 
+several: ndunthe	nts'e̲di	ntsʼe̲di	xi	xingu 
+flesh: ngo̲ 
+meat: ngo̲ 
+moon: zänä 
+hill: mbots'i	mbotsʼi	t"3h3	t'o̲ho̲	tʼo̲ho̲ 
+mountain: mbots'i	mbotsʼi	t"3h3	t'o̲ho̲	tʼo̲ho̲ 
+mouth: ne 
+name: 8uhu	hu	thuhu 
+title: 8uhu	hu	thuhu 
+neck: 'yu̲ga̲	ʼyu̲ga̲ 
+new: 'ra'yo	rayo	ʼraʼyo 
+night: Sui	nxui 
+nighttime: Sui	nxui 
+nose: Si5u	xiñu 
+not: hin- 
+adulterous: n'aha	nʼaha 
+one: n'aha	nʼaha 
+single: n'aha	nʼaha 
+that: ge'ä	nu'ä	nuʼä 
+the: n'aha	nʼaha 
+unprincipled: n'aha	nʼaha 
+human: jä'i	jäʼi	xa*7i 
+human being: jä'i	jäʼi	xa*7i 
+person: jä'i	jäʼi	xa*7i 
+rain: 'ye	ʼye 
+rainy weather: 'ye	ʼye 
+red: the̲ni	xi nthe̲ni 
+path: 5u	tsʼixtʼu‘ñu	ʼñu 
+road: 5u	tsʼixtʼu‘ñu	ʼñu 
+route: 5u	tsʼixtʼu‘ñu	ʼñu 
+root: 'yu̲	ʼyu̲ 
+round: tsantʼi 
+sand: 'bomu	ʼbomu 
+say: mä	xi'i	xifi	xiki 
+see: kʼätsʼi	nu 
+seed: nda̲	simiya 
+sit: hudi 
+hide: Sifri	koto	xifni 
+skin: Sifri	koto	xifni 
+sleep: ähä 
+little: t'olo	t'u̲lo	tx'u̲lo	txu̲tx'u̲lo	txʼu̲lo 
+small: t'olo	t'u̲lo	tx'u̲lo	txu̲tx'u̲lo	txʼu̲lo 
+smallness: t'olo	t'u̲lo	tx'u̲lo	txu̲tx'u̲lo	txʼu̲lo 
+smoke: 'bifi	tsiyu̲i 
+star: c3	tso̲ho̲ 
+rock: do	maʼye	ndo̲do 
+stone: do	maʼye	ndo̲do 
+sun: hyadi	hy~adi 
+swim: 'me̲the	'ña̲the	ʼña̲the 
+tail: ts'u̲	tsʼu̲ 
+this: gehna	nuna 
+2 sg: ge'e	ge'i	ge'ñe	ge7e	nu'i	nu'ä'i	nu7i	nuʼi 
+thou: ge'e	ge'i	ge'ñe	ge7e	nu'i	nu'ä'i	nu7i	nuʼi 
+you: ge'e	ge'i	ge'ñe	ge7e	nu'i	nu'ä'i	nu7i	nuʼi 
+tongue: iSx~ua	jähne 
+tooth: c"i	ts'i	tsʼi 
+tree: za	zaa 
+grind: yoho 
+two: yoho 
+go: 'yo	neʼñu	‘yowa 
+walk: 'yo	neʼñu	‘yowa 
+hot: mpani	xi mpani 
+warm: mpani	xi mpani 
+water: dehe 
+1 pl. inc.: geka̲wi	geku̲wi	gekwi	gekx~3	nugah3	nugawi	nuga̲hu̲	nughu̲	nugu̲hu̲	nugwi 
+we: geka̲wi	geku̲wi	gekwi	gekx~3	nugah3	nugawi	nuga̲hu̲	nughu̲	nugu̲hu̲	nugwi 
+we₁: geka̲wi	geku̲wi	gekwi	gekx~3	nugah3	nugawi	nuga̲hu̲	nughu̲	nugu̲hu̲	nugwi 
+what: te?	tem?	temu	temu? 
+white: t'axi	tʼaxi	xi nt'axki 
+whiteness: t'axi	tʼaxi	xi nt'axki 
+who: togo	togo'ä?	togo? 
+who?: togo	togo'ä?	togo? 
+female: 'be̲hñä	ʼbe̲hñä 
+woman: 'be̲hñä	ʼbe̲hñä 
+yellow: k'axt'i	kʼaxtʼi	xi nk'axt'i 
+distant: ya'bu̲	yaʼbu̲ 
+far: ya'bu̲	yaʼbu̲ 
+dull: hñu̲	xi hñu̲ 
+heavy: hñu̲	xi hñu̲ 
+serious: hñu̲	xi hñu̲ 
+close: getu̲'bu̲	getu̲ʼbu̲ 
+near: getu̲'bu̲	getu̲ʼbu̲ 
+ner: getu̲'bu̲	getu̲ʼbu̲ 
+short: ar dozu	hingi ma	nkohi	ta txu̲tx'u̲lo	txʼu̲ki	xi tx'u̲ki 
+snake: k'eñä	pa̲ 
+thin: ntsʼu̲tʼi	xi nts'u̲	xi nts'u̲t'i	xi nxini 
+wind: ndähi 
+earthworm: hmänthe	matse̲	nthäxuni	zu'we	zu'we 'wada	zu'we ngo̲	zu'we t'ähi	zuʼwe 
+worm: hmänthe	matse̲	nthäxuni	zu'we	zu'we 'wada	zu'we ngo̲	zu'we t'ähi	zuʼwe 
+year: je̲ya 
+3 sg.: nu'ä	nuʼä	nä'ä	näʼä 
+he: nu'ä	nuʼä	nä'ä	näʼä 
+she: nu'ä	nuʼä	nä'ä	näʼä 
+2 pl.: ge'ahu̲	ge'awi	ge'ehu̲	ge'ewi	nu'ahu̲	nu'iwi	nu'u̲hu̲	nu'u̲wi	nuʼiwi 
+ye: ge'ahu̲	ge'awi	ge'ehu̲	ge'ewi	nu'ahu̲	nu'iwi	nu'u̲hu̲	nu'u̲wi	nuʼiwi 
+you all: ge'ahu̲	ge'awi	ge'ehu̲	ge'ewi	nu'ahu̲	nu'iwi	nu'u̲hu̲	nu'u̲wi	nuʼiwi 
+3 pl.: ge'u̲	gehya	gehyu̲	nu'u̲	nuyu̲	nuʼu 
+they: ge'u̲	gehya	gehyu̲	nu'u̲	nuyu̲	nuʼu 
+here: gekwa	nuwa 
+there: ge'bu̲	gehnu̲	nu'bu̲	nunu̲	nuʼbu̲ 
+where: ho'bu̲?	hogem'bu̲?	hoʼbu̲ 
+where?: ho'bu̲?	hogem'bu̲?	hoʼbu̲ 
+when: hä'mu̲?	häm'bu̲?	häʼmu̲ 
+when?: hä'mu̲?	häm'bu̲?	häʼmu̲ 
+how: hanja	hanja'ä?	hanja?	honja'ä?	honja?	temu?	yogo'ä?	yogo? 
+how?: hanja	hanja'ä?	hanja?	honja'ä?	honja?	temu?	yogo'ä?	yogo? 
+some: 'na	'naxtui	ʼnaxtui 
+few: tx'u̲tho	txʼu̲tho 
+other: ma ‘na 
+three: hñu 
+four: goho 
+five: ku̲tʼa 
+broad: nxidi	xi maxt'i	xi nxidi	xi xogi	xogi 
+wide: nxidi	xi maxt'i	xi nxidi	xi xogi	xogi 
+wideness: nxidi	xi maxt'i	xi nxidi	xi xogi	xogi 
+fat: hnoho	nziki 
+thick: mpidi	ndä	xi mpidi	xi ndä 
+narrow: ntsʼitʼi	ntsʼiʼmi	xi nts'i'mi	xi nts'it'i	xi nts'ixt'i	xi nts'u̲	xi nts'u̲t'i 
+child: bätsi 
+principal wife: 'be̲hñä	ʼbe̲hñä 
+wife: 'be̲hñä	ʼbe̲hñä 
+husband: ndo̲ 
+his mother: me	nänä 
+mother: me	nänä 
+my mother: me	nänä 
+father: ta	tada 
+his father: ta	tada 
+my father: ta	tada 
+animal: zu'we	zuʼwe 
+forest: mbozaa 
+woods: mbozaa 
+branch: ʼma̲i	‘ye̲zaa 
+stick: ʼma̲i	‘ye̲zaa 
+fruit: fruta	ixi 
+flower: do̲ni 
+grass: pasto 
+cord: nthähi 
+rope: nthähi 
+grease: hnoho	nziki 
+fingernail: xa̲ 
+leg: xinthe 
+arm: ʼye̲ 
+wing: jwa 
+gut: xafo	xefo 
+guts: xafo	xefo 
+insides: xafo	xefo 
+intestine: xafo	xefo 
+intestines: xafo	xefo 
+back: xu̲tha 
+suck: jutsʼi	tsu̲hni	tsu̲t'i 
+spit: tsogi 
+vomit: 'yaha	'ñe̲i	e̲i	tsogi	ʼyaha 
+blow: bu̲	jwiki	jwixt'i	jwixtʼi 
+breath: nju̲xu̲hñä 
+breathe: nju̲xu̲hñä 
+laugh: thede	theni 
+laughter: thede	theni 
+cogitate: 'yomfeni	mbeni	ʼyomfeni 
+reflect: 'yomfeni	mbeni	ʼyomfeni 
+think: 'yomfeni	mbeni	ʼyomfeni 
+smell: hu̲nts'i	pähä	yu̲ni 
+sniff: hu̲nts'i	pähä	yu̲ni 
+afraid: ntsu	xikwa 
+be afraid: ntsu	xikwa 
+fear: ntsu	xikwa 
+fright: ntsu	xikwa 
+alive: te	‘bui 
+be alive: te	‘bui 
+life: te	‘bui 
+live: te	‘bui 
+living: te	‘bui 
+fight: ntsa̲	ntuhni 
+hunt: ju	k'ahni	kʼahni	pe̲	ätʼi 
+beat: fa'mi	fantʼi	fati	fu̲t'i	hu̲hni	hu̲t'i	umbi 
+hit: fa'mi	fantʼi	fati	fu̲t'i	hu̲hni	hu̲t'i	umbi 
+strike: fa'mi	fantʼi	fati	fu̲t'i	hu̲hni	hu̲t'i	umbi 
+cut: heni	het'i	hets'i	he̲ki	thoki	thot'i	toki	tseki	tseni	tsenzaa	tse̲ki	tse̲ni	tse̲nzaa	tuki	äxi 
+hack: heni	het'i	hets'i	he̲ki	thoki	thot'i	toki	tseki	tseni	tsenzaa	tse̲ki	tse̲ni	tse̲nzaa	tuki	äxi 
+cut open: heke	he̲ki	he̲ni 
+split: heke	he̲ki	he̲ni 
+pierce: foti	fots'i	heni	heni ko ar jwai	ho ko ar jwai	su'mi	suki	suni	sut'i	sutʼi	tsʼantʼi 
+stab: foti	fots'i	heni	heni ko ar jwai	ho ko ar jwai	su'mi	suki	suni	sut'i	sutʼi	tsʼantʼi 
+scratch: xaki	xe̲t'i	xe̲tʼi 
+dig: he̲ki	he̲t'i	he̲tʼi	o̲t'u̲'ñuthe 
+tell lies: k'wam'bi	kate	nehñä	‘be̲ni 
+stand: 'ba̲i	ʼba̲i 
+turn: 'ba̲hni	mpu̲nts'i	nxint'i	uni 'nar nxint'i	uni 'nar xint'i	xint'i	‘ba̲t'i	‘ba̲tʼi 
+turn around: 'ba̲hni	mpu̲nts'i	nxint'i	uni 'nar nxint'i	uni 'nar xint'i	xint'i	‘ba̲t'i	‘ba̲tʼi 
+turn round: 'ba̲hni	mpu̲nts'i	nxint'i	uni 'nar nxint'i	uni 'nar xint'i	xint'i	‘ba̲t'i	‘ba̲tʼi 
+drop: ho̲e	jwangi	ta̲gi 
+fall: ho̲e	jwangi	ta̲gi 
+grasp: hä	mihi 
+hold: hä	mihi 
+hold in arm: hä	mihi 
+squeeze: te̲'mi	te̲ʼmi 
+wring: te̲'mi	te̲ʼmi 
+rub: koxt'i	koxtʼi 
+wipe: ini nt'ini	ja 'ñoni	peke	thu'mi	thuki	xu̲'mi	xu̲ki 
+wash: hiñä	nxaha	peni	pet'e	petʼe	xu̲'ye̲	xu̲hmi	xu̲ki	xu̲t'i 
+wash clothes: hiñä	nxaha	peni	pet'e	petʼe	xu̲'ye̲	xu̲hmi	xu̲ki	xu̲t'i 
+pull: ju̲tʼi 
+push: tuki 
+shove: tuki 
+throw: e̲i	e̲nt'i	e̲nts'i	ho̲t'e	näni	nät'i	poni	u̲ts'i	u̲tsʼi 
+bind: thät'i	tut'i	tuts'i	tutʼi	xo̲t'e 
+fasten: thät'i	tut'i	tuts'i	tutʼi	xo̲t'e 
+tie: thät'i	tut'i	tuts'i	tutʼi	xo̲t'e 
+tie up: thät'i	tut'i	tuts'i	tutʼi	xo̲t'e 
+sew: 'we̲ti	ʼwe̲ti 
+count: pede 
+enumerate: pede 
+number: pede 
+tally: pede 
+sing: tuhu 
+have fun: 'ñeni	ʼñeni 
+play: 'ñeni	ʼñeni 
+float: hñe̲nts'i	hñe̲ntsʼi 
+flow: 'yo	nextri	nixtri	tihi 
+freeze: ho̲tse	ntse̲	ta̲gi ar tse̲ 
+swell: hneni 
+brook: däthe	hñe 
+river: däthe	hñe 
+stream: däthe	hñe 
+lake: zabi 
+ocean: däzabi 
+sea: däzabi 
+dust: fonthai 
+fog: 'bo̲ngui	ʼbipa	ʼbo̲ngui	‘bipa 
+sky: mahets'i	mahetsʼi 
+snow: xija 
+ice: tse̲ 
+blaze: tsätʼi	zo̲ 
+burn: tsätʼi	zo̲ 
+day: pa 
+daylight: pa 
+daytime: pa 
+old: txu	xita 
+bad: hingar za̲	hingi ho	hingi za̲	ntsʼo	xi nts'o 
+evil: hingar za̲	hingi ho	hingi za̲	ntsʼo	xi nts'o 
+rot: 'ya	ʼya 
+rotten: 'ya	ʼya 
+dirty: ntsʼo	xi nts'o 
+filthy: ntsʼo	xi nts'o 
+soiled: ntsʼo	xi nts'o 
+straight: njwäntho 
+sharp: hye̲ku̲te	hye̲nte	hño	xi hño	xi nts'ät'i 
+blunt: doñä 
+smooth: ntsʼu̲k	xi nts'u̲ki 
+damp: mobo	nkʼa	xi mobo	xi nk'a 
+wet: mobo	nkʼa	xi mobo	xi nk'a 
+correct: hogi	makwäni	xi hño 
+right side: 'ñe̲i	ʼñe̲i 
+left: ngähä 
+in: ja	ntsʼogi	nu 
+inside: ja	ntsʼogi	nu 
+with: -'be	-he	-hu	-wi	ko 
+and: ne 
+if: ha	nu'bu̲	nu'mu̲	nuʼbu̲ 
+because: nge'ä	ngetho	ngeʼä 

@@ -1,0 +1,264 @@
+all: undolu 
+every: undolu 
+ash: ravu 
+ashes: ravu 
+abdomen: mboro ni kutu 
+belly: mboro ni kutu 
+big: vule 
+bigness: vule 
+large: vule 
+bird: manu 
+bite: galat-i 
+black: mbili 
+blood: gambu	gamb~u 
+bone: huli 
+breast: susu 
+breasts: susu 
+burn: revo 
+burn tr.: revo 
+cloud: parako 
+cold: mbihi 
+come: mai 
+come from: mai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: kau 
+drink: inu 
+dry: mamaha	papara 
+ear: kuli 
+eat: gani 
+egg: tolu 
+eye: mata 
+feather: vuvulu 
+fire: lake 
+fish: iga 
+fly: lovo 
+fly v.: lovo 
+good: uto 
+green: mauri	mbora 
+hair: vuŋa 
+hand: lima 
+left hand: lima 
+right: lima 
+head: ulu 
+hear: roNo	roŋo 
+1 sg.: i-nau	nau 
+I: i-nau	nau 
+kill: mate-a 
+be knowledgeable: gila	manaha 
+know: gila	manaha 
+leaf: rau 
+lie: eno 
+lie down: eno 
+liver: ate 
+long: ndaro	rou[lua] 
+head louse: gutu 
+louse: gutu 
+male: mane 
+man: tinoni 
+moon: vula 
+mouth: maŋa 
+name: aha 
+title: aha 
+neck: lua 
+new: taNg~iha	taŋgiha	vaolu 
+night: mboŋi	mb~oNi 
+nighttime: mboŋi	mb~oNi 
+nose: ihu 
+adulterous: keha	sakai 
+one: keha	sakai 
+single: keha	sakai 
+that: keri 
+the: keha	sakai 
+unprincipled: keha	sakai 
+human: tinoni 
+human being: tinoni 
+person: tinoni 
+rain: uha 
+rainy weather: uha 
+red: sisi 
+path: hala	hala[utu]	halautu 
+road: hala	hala[utu]	halautu 
+route: hala	hala[utu]	halautu 
+root: lala	lali	oga 
+sand: sagalea 
+say: mbosa 
+see: vaevane 
+sit: sopou 
+hide: guiguli 
+skin: guiguli 
+sleep: maturu 
+little: pile 
+small: pile 
+smallness: pile 
+smoke: ahu 
+star: veitugu 
+rock: vatu 
+stone: vatu 
+swim: olo 
+tail: igu 
+this: eni 
+2 sg: goe	i-goe 
+thou: goe	i-goe 
+you: goe	i-goe 
+tongue: lapi 
+tooth: livo 
+grind: rua 
+two: rua 
+go: sakusaku	vano 
+walk: sakusaku	vano 
+hot: raraŋa	uviuvi 
+warm: raraŋa	uviuvi 
+water: mbeti	mb~eti 
+1 pl. inc.: gami	gita 
+we: gami	gita 
+we₁: gami	gita 
+what: hava 
+white: pura 
+whiteness: pura 
+who: hei 
+who?: hei 
+female: vaivine 
+woman: vaivine 
+yellow: aŋoaŋo 
+distant: hau 
+far: hau 
+dull: mava	mbohe 
+heavy: mava	mbohe 
+serious: mava	mbohe 
+close: garaŋi 
+near: garaŋi 
+ner: garaŋi 
+salt: tahi 
+short: mborimbori 
+snake: umata 
+thin: mandeve 
+wind: guri 
+earthworm: kendu 
+worm: kendu 
+year: niulu 
+2 pl.: gamu 
+ye: gamu 
+you all: gamu 
+3 pl.: aga	ira 
+they: aga	ira 
+where: vei 
+where?: vei 
+when: ŋiha 
+when?: ŋiha 
+how: gagua 
+how?: gagua 
+other: sakai 
+three: tolu 
+four: vati 
+five: lima 
+broad: taha 
+wide: taha 
+wideness: taha 
+fat: mbiroso 
+thick: humbe	mandolu	paku 
+narrow: kapi 
+principal wife: tau 
+wife: tau 
+husband: tau 
+his mother: tina 
+mother: tina 
+my mother: tina 
+father: tama 
+his father: tama 
+my father: tama 
+forest: ao 
+woods: ao 
+branch: oto 
+stick: oto 
+fruit: vua 
+flower: haŋga	vua 
+grass: gaogamboŋa 
+cord: tali 
+rope: tali 
+flesh: vinahi 
+meat: vinahi 
+grease: mbiroso 
+wing: gata 
+gut: logulogu ni kutu 
+guts: logulogu ni kutu 
+insides: logulogu ni kutu 
+intestine: logulogu ni kutu 
+intestines: logulogu ni kutu 
+back: muri 
+suck: sopi 
+spit: aŋusu 
+vomit: muta 
+blow: lovu	rua 
+breath: aheahe 
+breathe: aheahe 
+laugh: kia 
+laughter: kia 
+cogitate: ahe	ganagana 
+reflect: ahe	ganagana 
+think: ahe	ganagana 
+smell: urum-i 
+sniff: urum-i 
+afraid: matagu 
+be afraid: matagu 
+fear: matagu 
+fright: matagu 
+alive: mauri 
+be alive: mauri 
+life: mauri 
+live: mauri 
+living: mauri 
+hunt: hili	volovolo 
+beat: kago	panda	pomi 
+hit: kago	panda	pomi 
+strike: kago	panda	pomi 
+cut: kikini 
+hack: kikini 
+cut open: mindi	piha	tahari 
+split: mindi	piha	tahari 
+pierce: tandaka	tuku 
+stab: tandaka	tuku 
+scratch: garus-i 
+dig: geli 
+stand: tuguru 
+drop: kutu 
+fall: kutu 
+grasp: [tae] tambe 
+hold: [tae] tambe 
+hold in arm: [tae] tambe 
+squeeze: luhi	posi 
+wring: luhi	posi 
+throw: peta	vuna 
+bind: ori	osi	piti	toŋ̰o	viviri 
+fasten: ori	osi	piti	toŋ̰o	viviri 
+tie: ori	osi	piti	toŋ̰o	viviri 
+tie up: ori	osi	piti	toŋ̰o	viviri 
+sew: suki 
+count: indu 
+enumerate: indu 
+number: indu 
+tally: indu 
+flow: lua	tave 
+lake: kolo 
+ocean: tahi 
+sea: tahi 
+dust: pugu ni pari 
+fog: ulapa 
+sky: parako 
+bad: ndika 
+evil: ndika 
+rot: luku	mboto 
+rotten: luku	mboto 
+dirty: meto-[na] 
+filthy: meto-[na] 
+soiled: meto-[na] 
+sharp: maŋgau	vaŋaga 
+blunt: kupikupi	tupu 
+damp: pondi 
+wet: pondi 
+right side: mandolo 
+left: mauli 
+in: i-loka 
+inside: i-loka 
+and: ma 

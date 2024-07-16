@@ -1,0 +1,419 @@
+all: awabi | awabi	gugum 
+all: gugum | awabi	gugum 
+arm: ubatu 
+arrow: ʔulu 
+ashes: ipu 
+back: magutan 
+bad: bëlu 
+bad: bʌlu 
+belly: ilëmu | ʔudʌbunu 
+belly: ilʌmu | ʔudʌbunu 
+belly: ʔudʌbunu 
+belly: udëbunu | ʔudʌbunu 
+big: aiba 
+bird: malëgwanu | malʌgwanu 
+bird: malʌgwanu 
+bite: -gwa- 
+black: ulunu | ʔulunu 
+black: ʔulunu 
+blood: ʔʌdu | 3du	ʔʌdu 
+blood: ëdu | 3du	ʔʌdu 
+blow: gusat- 
+bone: ëla | 3la	ʔʌla 
+bone: ʔʌla | 3la	ʔʌla 
+boy: waw moya 
+breast: ñëw | 5aw	ɲʌw 
+breast: ɲʌw | 5aw	ɲʌw 
+brother: baiɲa 
+brother: baiña 
+brother: ima\a 
+brother: imaʔa 
+brother: pʌbu 
+brother: pëbu 
+brother: umëm 
+brother: umʌm 
+brother: umo\oda 
+brother: umoʔoda 
+burn: agumët- 
+burn: agumʌt- 
+butterfly: abuzële 
+butterfly: buzʌle 
+calf: ɟiːbulu 
+calf: ji:bulu 
+cassowary: maiban 
+cassowary: ya\ubi 
+chest: sëgwëtën 
+chest: sʌgwʌtʌn 
+child: waw 
+chin: matëla 
+chin: matʌla 
+cold: guwum 
+come: yad- | yad	yad- 
+crocodile: niɲilu 
+crocodile: niñilu 
+cut: zo\ow- 
+cut: zoʔow- 
+dance: uya- 
+day: ito wabuna 
+day: wëlubu 
+die: um- | um	um- 
+dig: gwën- 
+dig: gwʌn- 
+dig: tumin 
+dirty: ununu 
+dog: ʔiʔo | i7o	ʔiʔo 
+dog: i\o | i7o	ʔiʔo 
+dry: kanya\ëri | kanyaʔʌri 
+dry: kanyaʔʌri 
+ear: irësilu | ir3silu	irʌsilu 
+ear: irʌsilu | ir3silu	irʌsilu 
+earth: ë:tu | ʌːtu 
+earth: ʌːtu 
+eat: mug-iam- | nu- 
+eat: nu- 
+egg: ɲaw 
+egg: ñaw | ɲaw 
+elbow: umësin 
+elbow: umʌsin 
+emu: maiban 
+emu: yaʔubi 
+excrement: i:bi 
+eye: magiño | magi5o	magiɲo 
+eye: magiɲo | magi5o	magiɲo 
+face: ma\umën 
+face: maʔumʌn 
+fall: du- 
+fall: zo\ow- 
+far: muga 
+father: tʌ 
+father: të 
+father: tiɲa 
+father: tiña 
+father: uda 
+fat (n.): idəːnu 
+fat (n.): id :nu 
+fear: yaliëm- 
+fear: yaliʌm- 
+few: ëya 
+few: ʌya 
+fight: yaʔw- 
+fingernail: ëgawazin 
+fingernail: ʌgawazin 
+finger: unën 
+finger: unʌn 
+fire: mu:ta | muta	muːta 
+fire: muːta | muta	muːta 
+fish: mangkuman | maNkuman	maŋkuman 
+fish: maŋkuman | maNkuman	maŋkuman 
+fly (n.): udulu 
+fly (n.): ʔudulu 
+fly (v.): bala\- 
+fly (v.): balaʔ- 
+fog: youmu 
+forest: matën 
+forest: matʌn 
+forest: ʔulʌban 
+forest: ulëban 
+fruit: uda 
+fruit: ʔuda 
+full: un- | ze	ze- 
+full: ze- | ze	ze- 
+girl: wilubiɛ ialaʔua 
+girl: wilubie lala\ua 
+give: bugw- | -ut-	bugw- 
+give: -ut- | -ut-	bugw- 
+give: -ut-/-bugw- | -ut-	bugw- 
+good: ubʌda 
+good: ubëda | ubʌda 
+grass: ipëzi 
+green: gune 
+guts: ilëmu 
+guts: ilʌmu 
+hair: imu 
+head: akakum | tʌːzi 
+head: të:zi | tʌːzi 
+head: tʌːzi 
+hear: -igw- | -igw-	igw 
+heart: waʌbi 
+heart: waëbi | waʌbi 
+heavy: pinatu 
+here: jëta 
+here: ɟʌta 
+he/she: ø- 
+he/she: wa- 
+he/she: wua 
+hit: ya\w- 
+hold: ba\a- 
+hold: baʔa- 
+house: muɲi 
+house: muñi 
+how: maymay 
+in: moada 
+I: ya- | yE	yɛ 
+I: ye | yE	yɛ 
+I: yɛ | yE	yɛ 
+I: yə- | yE	yɛ 
+I: yV-/-l- | yE	yɛ 
+kill: abul- 
+knee: galama\ulu | galama7ulu	galamaʔulu 
+knee: galamaʔulu | galama7ulu	galamaʔulu 
+laugh: igaligu- 
+left: dagan 
+leg: goatë:nu 
+leg: goatʌːnu 
+lightning: meli:\- 
+lightning: meliːʔ- 
+liver: kuluno 
+long: dagʌnu 
+long: degënu | dagʌnu 
+louse: gunu 
+man: munënu | munʌnu 
+man: munʌnu 
+man: umagëtu | munʌnu 
+man: ʔumagʌtu | munʌnu 
+many: abʌba 
+many: abëba | abʌba 
+meat: me:nu 
+meat: meːnu 
+moon: nëunu | nʌunu 
+moon: nʌunu 
+morning: itumata 
+morning: itum-ata 
+morning: uligialëmot 
+morning: ulugialʌmot 
+mosquito: ësitsilu 
+mosquito: ʔʌsitsilu 
+mother: niɲa 
+mother: niña 
+mother: unʌd 
+mother: unëd 
+mountain: tabë:nu | tab3nu	tabʌːnu 
+mountain: tabʌːnu | tab3nu	tabʌːnu 
+mouth: abël | ʔabol 
+mouth: ʔabol 
+name: uɲimu | u5imu	uɲimu 
+name: uñimu | u5imu	uɲimu 
+navel: yëji 
+navel: yʌɟi 
+near: manɟi 
+near: manji | manɟi 
+neck: kumë:nu | kumʌːnu 
+neck: kumʌːnu 
+new: tëmanu | t3manu	tʌmanu 
+new: tʌmanu | t3manu	tʌmanu 
+night: itumu 
+nose: madu\ëlu | madu73lu	maduʔʌlu 
+not: uwa 
+old: tunduba 
+old: wa\ënu 
+old: waʔʌnu 
+one: gawʌːd | gaw3d	gawʌːd 
+one: gawë:d | gaw3d	gawʌːd 
+pull: pa\amad- 
+pull: paʔamad- 
+push: ulugabigu- 
+rain: ë:tu | ʌːtu 
+rain: ʌːtu 
+rat: wʌdu 
+rat: wëdu 
+red: ʔʌdu 
+red: ëdu | ʔʌdu 
+right: ë:giat | t3zi 
+right: ʔʌːgiat | t3zi 
+ripe: mimianu 
+road: alë\i | al37i 
+road: alʌʔi | al37i 
+root: durunu 
+rope: imʌpu 
+salt: iwëlu tsë:li | iwʌlu tsʌːli 
+salt: iwʌlu tsʌːli 
+sand: ëluë | ʔʌluʌ 
+sand: ʔʌluʌ 
+sand: ulum | ʔʌluʌ 
+say: -am- 
+say: am- | -am- 
+scratch: i\ilu wa- 
+scratch: iʔilu wa- 
+sea: yër 
+sea: yʌr 
+see: azɛʔ- | -g-	ibag 
+see: -g- | -g-	ibag 
+see: -g-/-ibag- | -g-	ibag 
+sharp: aulu 
+sharp: ba\at- 
+short: tei 
+shoulder: wë:gu 
+shoulder: ʔwʌːgu 
+sing: udu wal- 
+sister: baiɲami 
+sister: baiñami 
+sister: ima\aim 
+sister: imaʔaim 
+sister: umayem 
+sister: umayɛm 
+sit: bigwal- 
+skin: guë:nu | gu3nu	guʌːnu 
+skin: guʌːnu | gu3nu	guʌːnu 
+sky: ënë:m(u) 
+sky: ʔʌnʌːm(u) 
+sleep: in- 
+small: gituwa 
+smell: agamu igu- 
+smoke: ʔʌbu 
+smoke: ëbu | ʔʌbu 
+snake: dua 
+spit: duʔunwal- 
+spit: muku 
+split: së\il- 
+split: sʌʔil- 
+stand: day- 
+stand: nag- 
+star: walijëma | walij3ma	waliɟʌma 
+star: waliɟʌma | walij3ma	waliɟʌma 
+stick: gëtu 
+stone: namënu | nam3nu	namʌnu 
+stone: namʌnu | nam3nu	namʌnu 
+straight: tutuɲe 
+straight: tutuñe 
+sun: wayamu 
+swell: ailm- 
+swell: alibai- 
+swell: alim- 
+tail: bula 
+tail: ebitëim | bula 
+tail: ebitʌim | bula 
+take: pa\aw- 
+take: paʔaw- 
+that: muga\ | mugaʔ 
+that: mugaʔ 
+there: jënta 
+there: ɟʌnta 
+they: ø-/-ad- 
+they: waɟ- 
+they: waj- 
+they: wʷd 
+they: wuad 
+thigh: manë:mu 
+thigh: manʌːmu 
+thigh: mëna\ëla 
+thigh: mʌmʌnaʔʌla 
+this: zagu 
+thou: an | nE	nɛ 
+thou: an- | nE	nɛ 
+thou: na- | nE	nɛ 
+thou: ne | nE	nɛ 
+thou: nɛ | nE	nɛ 
+thou: nə- | nE	nɛ 
+thou: nV-/-n- | nE	nɛ 
+throat: mënjinëm \ëla 
+throat: mʌnɟinʌm ʔʌla 
+throw: azilam- 
+thunder: anëm ye- 
+thunder: anʌm ye- 
+tie: pandanimat- 
+tomorrow: balima 
+tomorrow: balima anu\ulugialum 
+tongue: awisa | awisa	ʔawisa 
+tongue: ʔawisa | awisa	ʔawisa 
+tooth: nëna | n3na	nʌna 
+tooth: nʌna | n3na	nʌna 
+tree: në:mu | n3mu 
+tree: nʌːmu | n3mu 
+tree: ʔʌːnu | n3mu 
+tree: tʌːzi | n3mu 
+turn: igazalam- 
+turn: igizalam- 
+two: bulaɟa | bulaja	bulaɟa 
+two: bulaja | bulaja	bulaɟa 
+vagina: gutu 
+vomit: manil- 
+walk: isuw- 
+walk: iuw- | isuw- 
+walk: kwʌ izuw- | isuw- 
+wallaby: wai dagë:nu 
+wallaby: wai dagʌːnu 
+warm: nënu 
+warm: nʌnu 
+wash: -tuß- 
+wash: -tuv- 
+wash: ubët- 
+wash: ubʌt- 
+water: yë:gu | y3gu	yʌːgu 
+water: yʌːgu | y3gu	yʌːgu 
+weep: yew- 
+weep: yɛw- 
+we: in 
+we: in- 
+we: in-/-ad- 
+wet: yagiamidi 
+what: ma 
+where: arata 
+white: awanu | ʔawanu 
+white: ʔawanu 
+who: ya 
+wind: uma\wën | umaʔwʌn 
+wind: umaʔwʌn 
+wing: bu 
+woman: unët | wilubu 
+woman: unʌt | wilubu 
+woman: wilubu 
+wood: gʌtu 
+wood: tëw 
+wood: tʌw 
+yellow: igëmnab | igʌmnab 
+yellow: igʌmnab 
+yes: oe 
+yesterday: balima 
+yesterday: balima anu\ulugialim 
+you: an | nE	nɛ 
+you: an- | nE	nɛ 
+you: an-/-ad- | nE	nɛ 
+every: awabi	gugum 
+ash: ipu 
+abdomen: ʔudʌbunu 
+bigness: aiba 
+large: aiba 
+breasts: 5aw	ɲʌw 
+come from: yad	yad- 
+be dead: um	um- 
+dead: um	um- 
+ground: ʌːtu 
+land: ʌːtu 
+soil: ʌːtu 
+fly: balaʔ- 
+fly v.: balaʔ- 
+hand: t3zi 
+left hand: t3zi 
+1 sg.: yE	yɛ 
+head louse: gunu 
+male: munʌnu 
+much: abʌba 
+multiple: abʌba 
+several: abʌba 
+hill: tab3nu	tabʌːnu 
+title: u5imu	uɲimu 
+nighttime: itumu 
+adulterous: gaw3d	gawʌːd 
+single: gaw3d	gawʌːd 
+the: gaw3d	gawʌːd 
+unprincipled: gaw3d	gawʌːd 
+rainy weather: ʌːtu 
+path: al37i 
+route: al37i 
+hide: gu3nu	guʌːnu 
+little: gituwa 
+smallness: gituwa 
+rock: nam3nu	namʌnu 
+2 sg: nE	nɛ 
+grind: bulaja	bulaɟa 
+go: isuw- 
+1 pl. inc.: in 
+we₁: in 
+whiteness: ʔawanu 
+who?: ya 
+female: wilubu 
+distant: muga 
+dull: pinatu 
+serious: pinatu 
+close: manɟi 
+ner: manɟi 

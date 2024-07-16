@@ -1,0 +1,330 @@
+all: nufwu 
+every: nufwu 
+ash: itoj mukw 
+ashes: itoj mukw 
+bark: tolhistek 
+abdomen: totsʼe 
+belly: totsʼe 
+big: wefw 
+bigness: wefw 
+large: wefw 
+bird: afwenche 
+bite: yukwaj 
+black: chalaj 
+blood: wuyis	wʼuyis 
+bone: Lile	lhile 
+breast: t"ate	totʼate 
+breasts: t"ate	totʼate 
+claw: tofwefw 
+nail: tofwefw 
+talon: tofwefw 
+cloud: pele 
+cold: nitechojche	nitechojhi	nitechojlhi 
+come: nom 
+come from: nom 
+be dead: ileyej hunhat	yiL	yʼilh 
+dead: ileyej hunhat	yiL	yʼilh 
+die: ileyej hunhat	yiL	yʼilh 
+dog: asinoh	asinoj 
+drink: iyo7	iyoyeh	iyoyej 
+dry: tamchoy 
+ear: C"ute	tochʼuteʼ 
+earth: hunhat 
+ground: hunhat 
+land: hunhat 
+soil: hunhat 
+eat: tefw 
+egg: lhechʼe 
+eye: te7	tottelhu 
+feather: afwenche wʼule 
+fire: itoh	itoj 
+fish: wahat	wʼahat 
+fly: wiyʼo 
+fly v.: wiyʼo 
+foot: topachʼu 
+full: tapuyeh	tapuyej 
+give: hiwʼenhu 
+good: is 
+green: wʼatshan 
+hair: towʼuley 
+hand: kweC"u	totkwe 
+left hand: kweC"u	totkwe 
+right: kweC"u	totkwe 
+head: tolhetek 
+hear: ilota	ilotey 
+heart: totʼutle 
+horn: CeL	tochʼe 
+1 sg.: nʼlham	oLam 
+I: nʼlham	oLam 
+kill: ilon 
+knee: pw~oLak	topʼulhak 
+be knowledgeable: yihanej 
+know: yihanej 
+leaf: lawule 
+lie: imokatsi	lhipiyen 
+lie down: imokatsi	lhipiyen 
+liver: tonek	totonek 
+long: pitaj 
+head louse: La7	lhaʼ 
+louse: La7	lhaʼ 
+male: hinʼu 
+man: wiCi 
+many: nitokw 
+much: nitokw 
+multiple: nitokw 
+several: nitokw 
+flesh: tʼisan 
+meat: tʼisan 
+moon: welʼa 
+hill: taCenah	tachenaj 
+mountain: taCenah	tachenaj 
+mouth: tokʼaj 
+name: lhey	toLey 
+title: lhey	toLey 
+neck: towʼu 
+new: neC"ayik	nechʼayik 
+night: honaci	hunatsi 
+nighttime: honaci	hunatsi 
+nose: hnes	tonhes 
+adulterous: c"ilak	hotehw~ahi	unu 
+one: c"ilak	hotehw~ahi	unu 
+single: c"ilak	hotehw~ahi	unu 
+that: c"ilak	hotehw~ahi	unu 
+the: c"ilak	hotehw~ahi	unu 
+unprincipled: c"ilak	hotehw~ahi	unu 
+human: wiCi 
+human being: wiCi 
+person: wiCi 
+rain: inot litak	iwumchoʼ 
+rainy weather: inot litak	iwumchoʼ 
+red: ichot 
+path: noyih	nʼoyij	totuynek 
+road: noyih	nʼoyij	totuynek 
+route: noyih	nʼoyij	totuynek 
+root: lafwettsi 
+round: lhipʼunlhi 
+sand: alena 
+say: fwelh	yuk 
+see: hiwʼen	wen 
+seed: tokoslhuʼ 
+sit: tataypho 
+hide: t"oh	totʼoj 
+skin: t"oh	totʼoj 
+sleep: imo 
+little: lhomsaj	niwefwa 
+small: lhomsaj	niwefwa 
+smallness: lhomsaj	niwefwa 
+smoke: tetsey 
+star: kates 
+rock: tente	tente7 
+stone: tente	tente7 
+sun: fwala	hw~ala7 
+swim: tʼilin 
+tail: tochos 
+this: tojha 
+2 sg: am 
+thou: am 
+you: am 
+tongue: k"ahLeC"e	tokʼajlhechʼe 
+tooth: cute7	totsute 
+tree: halo7	halʼo 
+grind: %lus	lus 
+two: %lus	lus 
+go: yik 
+walk: yik 
+hot: nichayʼuhi	nichayʼukwe 
+warm: nichayʼuhi	nichayʼukwe 
+water: inot 
+1 pl. inc.: namilh	nʼlhamilh	oLamiL	tolhamilh 
+we: namilh	nʼlhamilh	oLamiL	tolhamilh 
+we₁: namilh	nʼlhamilh	oLamiL	tolhamilh 
+what: atʼep 
+white: ipelaj 
+whiteness: ipelaj 
+who: atʼe 
+who?: atʼe 
+female: atsinha 
+woman: atsinha 
+yellow: kaʼte 
+distant: atufwey 
+far: atufwey 
+dull: nichuyhat 
+heavy: nichuyhat 
+serious: nichuyhat 
+close: nitufwayey 
+near: nitufwayey 
+ner: nitufwayey 
+salt: nisuy 
+short: niptaja 
+snake: afwotsaj 
+thin: ilupen 
+wind: ihwok 
+earthworm: fwinayhay	iwus 
+worm: fwinayhay	iwus 
+year: nekchom 
+3 sg.: lham 
+he: lham 
+she: lham 
+2 pl.: amilh 
+ye: amilh 
+you all: amilh 
+3 pl.: lhamilh 
+they: lhamilh 
+here: ikana 
+there: iknhi 
+where: eʼihi 
+where?: eʼihi 
+when: eʼhotehlak	eʼihinaji 
+when?: eʼhotehlak	eʼihinaji 
+how: eʼwuye 
+how?: eʼwuye 
+some: mayek 
+few: lhimphaj	niwefwa 
+other: elh 
+three: tales 
+four: kwatlu 
+five: sinku 
+broad: chitsajhu	chitsajpho 
+wide: chitsajhu	chitsajpho 
+wideness: chitsajhu	chitsajpho 
+fat: tulupeʼ 
+thick: tachʼupway 
+narrow: ilupenche	niktsajahu 
+child: haʼnoʼfwaj 
+principal wife: tochʼefwa atsinha 
+wife: tochʼefwa atsinha 
+husband: tochʼefwa hinʼu 
+his mother: toku 
+mother: toku 
+my mother: toku 
+father: tofwcha 
+his father: tofwcha 
+my father: tofwcha 
+animal: tshowet 
+forest: tayhi 
+woods: tayhi 
+branch: lhacha 
+stick: lhacha 
+fruit: lha 
+flower: lhawu 
+grass: hep 
+cord: niyokw 
+rope: niyokw 
+grease: tulupeʼ 
+fingernail: tofwefwtʼoj 
+leg: totkolo 
+arm: totkwe 
+wing: tolhefw 
+gut: totkosley 
+guts: totkosley 
+insides: totkosley 
+intestine: totkosley 
+intestines: totkosley 
+back: towhu 
+suck: hitsʼe 
+spit: ifwatsʼenchoʼ 
+vomit: tachʼeylhi 
+blow: yafwit 
+breath: tʼiyalh 
+breathe: tʼiyalh 
+laugh: tʼischey 
+laughter: tʼischey 
+cogitate: tichunlhi 
+reflect: tichunlhi 
+think: tichunlhi 
+smell: tanʼisinej 
+sniff: tanʼisinej 
+afraid: nuway 
+be afraid: nuway 
+fear: nuway 
+fright: nuway 
+alive: ihi	iloy 
+be alive: ihi	iloy 
+life: ihi	iloy 
+live: ihi	iloy 
+living: ihi	iloy 
+fight: tolʼey 
+hunt: chel 
+beat: yikojlhi 
+hit: yikojlhi 
+strike: yikojlhi 
+cut: yiset 
+hack: yiset 
+cut open: hichʼesaj 
+split: hichʼesaj 
+pierce: itsonhu 
+stab: itsonhu 
+scratch: chasmajlhi 
+dig: tishi 
+tell lies: ifweyenlhi	imokatsi	lhipiyen 
+stand: takasit 
+turn: ilen	ilenejlhi 
+turn around: ilen	ilenejlhi 
+turn round: ilen	ilenejlhi 
+drop: tolhpho 
+fall: tolhpho 
+grasp: ichojlhi 
+hold: ichojlhi 
+hold in arm: ichojlhi 
+squeeze: hitsʼifwin 
+wring: hitsʼifwin 
+rub: ifwetlhi 
+wipe: isek 
+wash: ilej 
+wash clothes: ilej 
+pull: itunhi 
+push: yihetche 
+shove: yihetche 
+throw: tafwumej 
+bind: inayhit 
+fasten: inayhit 
+tie: inayhit 
+tie up: inayhit 
+sew: itsek 
+count: kunta 
+enumerate: kunta 
+number: kunta 
+tally: kunta 
+sing: tʼichʼuylhi 
+have fun: yikuy 
+play: yikuy 
+float: ipeʼnot 
+flow: yik 
+swell: tʼikwa 
+brook: tewuk 
+river: tewuk 
+stream: tewuk 
+lake: lawumek	lhemchitaj 
+ocean: inot litak 
+sea: inot litak 
+dust: hulu	lamukw 
+fog: tetsetaj 
+sky: pele 
+ice: fwiyʼet 
+blaze: hipʼu	lakʼe 
+burn: hipʼu	lakʼe 
+day: fwala 
+daylight: fwala 
+daytime: fwala 
+old: lawemek	thalokw 
+bad: fwitsaj 
+evil: fwitsaj 
+rot: najhet 
+rotten: najhet 
+dirty: kukʼapho 
+filthy: kukʼapho 
+soiled: kukʼapho 
+straight: tatshepiche 
+sharp: yʼey 
+smooth: talichʼi 
+damp: tasey 
+wet: tasey 
+correct: isʼalhuhu	matche 
+right side: tofwumkat 
+left: totsʼamkat 
+in: ikfwi 
+inside: ikfwi 
+with: lhoyʼa 
+and: wet 
+if: che 
+because: latesej 

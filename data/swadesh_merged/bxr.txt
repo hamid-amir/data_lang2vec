@@ -1,0 +1,333 @@
+all: бүгэдэ	бүхы 
+every: бүгэдэ	бүхы 
+ash: үнэһэн 
+ashes: үнэһэн 
+bark: холтоһон 
+abdomen: гэдэhэн 
+belly: гэдэhэн 
+big: томо 
+bigness: томо 
+large: томо 
+bird: шубуун 
+bite: зууха 
+black: хара 
+blood: Suha*	шуhан 
+bone: yaha*	яһан 
+breast: сээжэ 
+breasts: сээжэ 
+cloud: үүлэн 
+cold: хүйтэн 
+come: yer3	ерэхэ 
+come from: yer3	ерэхэ 
+be dead: iX3	үхэхэ 
+dead: iX3	үхэхэ 
+die: iX3	үхэхэ 
+dog: noXoi	нохой 
+drink: uXa	ууха 
+dry: хуурай 
+ear: шэхэн 
+earth: газар 
+ground: газар 
+land: газар 
+soil: газар 
+eat: эдеэлхэ 
+egg: үндэгэн 
+eye: nid3*	нюдэн 
+feather: үдэн 
+fire: GaL	гал 
+fish: zagaha*	загаhан 
+fly: ниидэхэ 
+fly v.: ниидэхэ 
+foot: табгай	ула 
+full: dur3*	дүүрэн 
+give: үгэхэ 
+good: һайн 
+green: ногоон 
+hair: үhэн 
+hand: Gar 
+left hand: Gar 
+right: Gar 
+head: толгой 
+hear: дуулаха 
+heart: зүрхэн 
+horn: эбэр 
+1 sg.: bi	би 
+I: bi	би 
+kill: алаха 
+knee: ibdeg	үбдэг 
+be knowledgeable: мэдэхэ 
+know: мэдэхэ 
+leaf: набша 
+liver: эльгэн 
+long: ута 
+head louse: бөөһэн 
+louse: бөөһэн 
+male: эрэ	эрэгтэй 
+man: Xin	хүн 
+many: олон 
+much: олон 
+multiple: олон 
+several: олон 
+moon: һара 
+hill: ula	уула	хада 
+mountain: ula	уула	хада 
+mouth: аман 
+name: нэрэ 
+title: нэрэ 
+neck: хүзүүн 
+new: шэнэ 
+night: hүни 
+nighttime: hүни 
+nose: хамар 
+not: бү 
+adulterous: neg3*	нэгэн 
+one: neg3*	нэгэн 
+single: neg3*	нэгэн 
+that: тэрэ 
+the: neg3*	нэгэн 
+unprincipled: neg3*	нэгэн 
+human: Xin	хүн 
+human being: Xin	хүн 
+person: Xin	хүн 
+rain: бороо	хура 
+rainy weather: бороо	хура 
+red: улаан 
+path: зам	харгы 
+road: зам	харгы 
+route: зам	харгы 
+root: үндэһэн 
+round: түхэреэн 
+sand: элһэн 
+say: гэхэ 
+see: хараха 
+seed: хүрэнгэ 
+sit: һууха 
+hide: арhан 
+skin: арhан 
+sleep: унтаха 
+little: бишыхан	божо	жэжэ 
+small: бишыхан	божо	жэжэ 
+smallness: бишыхан	божо	жэжэ 
+smoke: утаан 
+star: oda*	одон 
+rock: Sulu*	шулуун 
+stone: Sulu*	шулуун 
+sun: nara*	наран 
+swim: тамарха 
+tail: һүүл 
+this: энэ 
+2 sg: Si	ши 
+thou: Si	ши 
+you: Si	ши 
+tongue: хэлэн 
+tooth: шүдэн 
+tree: moda*	модон 
+grind: Xoyor	хоёр 
+two: Xoyor	хоёр 
+go: ябаха 
+walk: ябаха 
+hot: дулаан 
+warm: дулаан 
+water: uha*	уhан 
+1 pl. inc.: bid3*	bid3n3r	бидэ 
+we: bid3*	bid3n3r	бидэ 
+we₁: bid3*	bid3n3r	бидэ 
+what: юу	юун 
+white: сагаан 
+whiteness: сагаан 
+who: хэн 
+who?: хэн 
+female: эхэнэр	һамган 
+woman: эхэнэр	һамган 
+yellow: шара 
+distant: холо	холын 
+far: холо	холын 
+dull: хүндэ 
+heavy: хүндэ 
+serious: хүндэ 
+close: ойро 
+near: ойро 
+ner: ойро 
+salt: дабһан 
+short: оодон 
+snake: могой 
+thin: нарин	нимгэн 
+wind: hалхин 
+earthworm: хорхой	үтэн 
+worm: хорхой	үтэн 
+year: жэл 
+3 sg.: тэрэ 
+he: тэрэ 
+she: тэрэ 
+2 pl.: та 
+ye: та 
+you all: та 
+3 pl.: тэдэ 
+they: тэдэ 
+here: эндэ 
+there: тэндэ 
+where: хаана 
+where?: хаана 
+when: хэзээ 
+when?: хэзээ 
+how: хэр 
+how?: хэр 
+some: хэдэн 
+few: бага 
+other: буса	бэшэ	ондоо 
+three: гурбан 
+four: дүрбэн 
+five: табан 
+broad: далбагар	дэлгэр	үргэн 
+wide: далбагар	дэлгэр	үргэн 
+wideness: далбагар	дэлгэр	үргэн 
+fat: тоhон	өөхэн 
+thick: бүдүүн 
+narrow: уйтан 
+child: үхибүүн 
+principal wife: һамган 
+wife: һамган 
+husband: нүхэр	үбгэн 
+his mother: эжы	эхэ 
+mother: эжы	эхэ 
+my mother: эжы	эхэ 
+father: аба	эсэгэ 
+his father: аба	эсэгэ 
+my father: аба	эсэгэ 
+animal: амитан 
+forest: ой 
+woods: ой 
+branch: модон 
+stick: модон 
+fruit: жэмэс 
+flower: сэсэг 
+grass: ногоон 
+cord: аргамжа 
+rope: аргамжа 
+flesh: мяхан 
+meat: мяхан 
+grease: тоhон	өөхэн 
+claw: хюмһан 
+fingernail: хюмһан 
+nail: хюмһан 
+leg: хүл 
+arm: гар 
+wing: дали	жэгүүр 
+gut: гэдэhэн 
+guts: гэдэhэн 
+insides: гэдэhэн 
+intestine: гэдэhэн 
+intestines: гэдэhэн 
+back: нюрган 
+suck: хүхэхэ 
+spit: нёлбохо 
+vomit: бөөлжэхэ 
+blow: үлеэхэ 
+breath: амилха	амисхалха 
+breathe: амилха	амисхалха 
+laugh: энеэхэ 
+laughter: энеэхэ 
+cogitate: бодохо	шэбшэхэ 
+reflect: бодохо	шэбшэхэ 
+think: бодохо	шэбшэхэ 
+smell: үнэрдэхэ 
+sniff: үнэрдэхэ 
+afraid: айха 
+be afraid: айха 
+fear: айха 
+fright: айха 
+alive: амидарха 
+be alive: амидарха 
+life: амидарха 
+live: амидарха 
+living: амидарха 
+fight: наншалдаха 
+hunt: агнаха 
+beat: сохихо 
+hit: сохихо 
+strike: сохихо 
+cut: отолхо 
+hack: отолхо 
+cut open: хубааха 
+split: хубааха 
+pierce: хадхаха 
+stab: хадхаха 
+scratch: маажаха 
+dig: малтаха 
+lie: хэбтэхэ 
+lie down: хэбтэхэ 
+tell lies: хэбтэхэ 
+stand: байха 
+turn: эрьелдүүлхэ 
+turn around: эрьелдүүлхэ 
+turn round: эрьелдүүлхэ 
+drop: унаха 
+fall: унаха 
+grasp: бариха 
+hold: бариха 
+hold in arm: бариха 
+squeeze: хабшаха 
+wring: хабшаха 
+rub: үрэхэ 
+wipe: аршаха 
+wash: угааха 
+wash clothes: угааха 
+pull: зүдхэхэ	татаха 
+push: түлхихэ 
+shove: түлхихэ 
+throw: шэдэхэ 
+bind: боохо	уяха 
+fasten: боохо	уяха 
+tie: боохо	уяха 
+tie up: боохо	уяха 
+sew: оёхо 
+count: тоолохо 
+enumerate: тоолохо 
+number: тоолохо 
+tally: тоолохо 
+sing: дуулаха 
+have fun: наадаха 
+play: наадаха 
+float: тамарха 
+freeze: даараха	зуураха	хүрэхэ 
+swell: хабдаха 
+brook: гол	мүрэн 
+river: гол	мүрэн 
+stream: гол	мүрэн 
+lake: нуур 
+ocean: далай 
+sea: далай 
+dust: тооhон 
+fog: будан	манан 
+sky: тэнгэри 
+snow: саhан 
+ice: мүльhэн 
+blaze: дүрэхэ 
+burn: дүрэхэ 
+day: үдэр 
+daylight: үдэр 
+daytime: үдэр 
+old: хуушан 
+bad: муу 
+evil: муу 
+rot: үмхи 
+rotten: үмхи 
+dirty: муухай 
+filthy: муухай 
+soiled: муухай 
+straight: сэхэ 
+sharp: хурса 
+blunt: мохоо 
+smooth: елэгэр 
+damp: нойтон 
+wet: нойтон 
+correct: зүб 
+right side: баруун 
+left: зүүн 
+at: дээрэ 
+in: -да	-до	-дэ	-та	-то	-тэ	соо 
+inside: -да	-до	-дэ	-та	-то	-тэ	соо 
+with: -тай	-той	-тэй 
+and: ба	болон 
+if: бол	хэрбээ… hаа 
+because: дээрээhээ	тиимэ ушарhаа 

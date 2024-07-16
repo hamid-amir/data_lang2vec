@@ -1,0 +1,299 @@
+all: dag 
+and: waːrg 
+ankle: wiḷḍa 
+arm: aṛṇḍäṛ 
+arm: irimíra 
+ashes: rärgad | rärgad 
+back: wurulg 
+bad: ŋandir 
+bark: bulɔwɔr 
+belly: ɣiwud 
+big: biḍawu | biḍawu 
+bird: baiɟaiɟ 
+bite: -da 
+bitter: muraɣaːrgu 
+black: buluŋɔyi 
+blood: diɟaːriɟ | diTariT	diɟaːriɟ 
+blow: -gubumi 
+blow: laraŋaryad 
+bone: aruwa 
+boy: ɣaralg 
+boy: laban̪ 
+branch: aṛṇḍäṛ 
+breathe: dalamurd̪amurd̪a 
+breathe: yaṇalg 
+brother: mamug 
+brother: nɔiɟa 
+burn: biɲanabaraŋi 
+burn: -gaɲi 
+butterfly: aragarag 
+cheek: ɟaːla 
+chest: ŋabaḍ 
+child: muŋargɟiːgu 
+chin: ɟaːla 
+cloud: ɣaiɟäli | ɣaiɟäli 
+cold: maːin 
+come: ŋaɟaɣay- | NaTaxay	ŋaɟaɣay- 
+correct: ɟaɟi 
+crocodile: ɣarmbur 
+cut: -ŋabuḍagami 
+dark: nugur 
+daughter: vaŋin 
+day: laɣaɟaɟ 
+day: yuryag 
+die: duan | -luan	luan 
+die: duan̪ | -luan	luan 
+die: -luan | -luan	luan 
+die: yirinbu marŋalg | -luan	luan 
+dig: ŋalŋarwun 
+dirty: buluŋɔyi 
+dog: ɣaliɟ | xaliT	ɣaliɟ 
+drink: -yinbun | -yinbun	yinbun 
+dry: man̪ɟiɟai 
+ear: ɾomad | romad	ɾomad 
+earth: wuṛad 
+eat: -yinbun 
+egg: lawul 
+egg: yuṇgu | lawul 
+elbow: mirmun 
+emu: mangunuba 
+emu: mangunube 
+eye: daːḷa | dala	dara	daːḷa	daːṛa 
+eye: damurbiɟ | dala	dara	daːḷa	daːṛa 
+eye: daːṛa | dala	dara	daːḷa	daːṛa 
+face: yuɾi 
+fall: mangaɟaɟuyaiɟ 
+father: buɲi 
+fat (n.): murgaiɟ 
+fear: ŋanaṛad 
+feather: maɟag 
+few: yirgaːyi 
+fight: ɣaːnu 
+finger: manawiyi 
+finger: wilud 
+fire: ɟuːṇa | Tuna	ɟuːṇa 
+fish: miːɟu | miTu	miːɟu 
+fly (n.): mɔlg 
+fly (v.): yid̪iri yiːɾid 
+fog: maiaid 
+foot: wilud 
+forehead: biṛud 
+forest: ŋaraḍ 
+full: ma burguyi mambal 
+full: mambal 
+girl: margalɟara 
+girl: yaɣawuḍi 
+give: -miṛu- | -miṛu- 
+good: lururɔ | ʼ lururɔ 
+grass: wara 
+hair: birud\ | viya 
+hair: viya 
+hand: manawiyi 
+head: waɹ̣i | waɹ̣i	waṛi 
+head: waṛi | waɹ̣i	waṛi 
+hear: -alalgu | -alalgu	alalgu 
+hear: ŋaḷagu | -alalgu	alalgu 
+heart: mugamuga 
+heavy: mad̪aṛúwu | mad̪aṛúwu 
+he/she: niyad 
+hit: -wun 
+hold: -ŋaŋi 
+hole: banaguyu 
+house: rambạ̈lg 
+hunt: gud̪iri wiɟuɟ 
+husband: yarrarbi 
+I: ŋaḍa | Nada	Nede	ŋaḍa	ŋaḍe 
+I: ŋaḍe | Nada	Nede	ŋaḍa	ŋaḍe 
+kangaroo: wiːɟuɟ 
+kangaroo: wiːɟud 
+kill: -wun 
+knee: aibiḷg | aibilg	aibiḷg 
+know: -galagwa 
+lake: malad 
+laugh: -wiridi 
+leaf: ŋɔlmumu | Nolmumu	ŋɔlmumu 
+left: ɣilaɣan 
+leg: gungaːbam 
+lie: ŋuguyan 
+lightning: ŋangaṇi 
+lip: lamariala 
+lip: laːwar 
+live: ŋabunman 
+liver: ŋalgiɟ | NalgiT	ŋalgiɟ 
+long: laban̪ 
+long: wulaːrud | laban̪ 
+louse: minaŋ | minaN 
+man: geiag 
+many: mele 
+meat: yala 
+moon: rana 
+morning: ŋarwarugu 
+mosquito: ŋaːḷi 
+mother: gamu 
+mountain: muḍu | mudu	muḍu 
+mouth: ŋaṛyad | ŋaɹ̣yad	ŋaṛyad 
+mouth: ŋaɹ̣yad | ŋaɹ̣yad	ŋaṛyad 
+name: gaŋaiɟ | gaNaiT	gaŋaiɟ 
+nape: yulɣarva 
+navel: waṇurɣi 
+near: mundaiɟ 
+neck: yulɣarva 
+new: ɣiniyud | xiniyud	ɣiniyud 
+not: yagu 
+old: ŋalgarayi 
+old: ŋolgor 
+one: ṛuga | roka	ruga	ɹ̣uga	ṛuga 
+one: ɹ̣uga | roka	ruga	ɹ̣uga	ṛuga 
+other: yiniru 
+person: geiag 
+play: -aŋariɟidaŋa 
+rain: raːwan 
+rat: babirgaṛ 
+red: ṛoduːɾud | ṛóduːɾud 
+right: dalgulad | manawiyi 
+ripe: rarɣi 
+river: marɛi 
+river: mariːyi 
+road: aḷan | alan 
+root: mudulundub 
+rope: baːlar 
+rotten: lawuya 
+round: magidbulan̪ 
+rub: yanbalbuŋ 
+sand: wuɣai 
+say: -lawuɟi | wuɣai 
+scratch: -dgaiyan 
+sea: garar 
+sea: gawudbaḷu maṛimu 
+seed: duḷmaḷ | duḷmaḷ 
+see: -lumi | -lumi	lumi 
+sharp: liṛagu 
+short: gɔɟawu 
+shoulder: munbaram 
+sing: -maŋariɟi 
+sister: ɟaran 
+sit: -laiyi 
+skin: laːɾar | larar	laːɾar 
+skin: yuguṛan | larar	laːɾar 
+sky: wiːrid 
+sleep: iyuɣaid̪ 
+small: ɟiːgu 
+smell: -wuɟba 
+smoke: ŋoːḷan | ŋoːḷan	ŋoḷan 
+smoke: ŋoḷan | ŋoːḷan	ŋoḷan 
+smooth: maguɾan̪ 
+snake: maruɣaiɟ 
+son: vaŋin 
+stand: -riɟi 
+star: wulariɟ | wulariT	wulariɟ 
+star: yambarbar | wulariT	wulariɟ 
+stone: ɣaiyaiɟ | xaiyaiT	ɣaiyaiɟ 
+stone: ɣaɪyaiɟ | xaiyaiT	ɣaiyaiɟ 
+straight: ɟaɟi 
+suck: ŋawanadaɟu 
+sun: muɹ̣i | muri	muɹ̣i	muṛi 
+sun: muṛi | muri	muɹ̣i	muṛi 
+sweet: wungu 
+swim: -waraŋniɟan 
+tail: marandu 
+take: -oɣodiri 
+take: yaŋaba 
+there: yimargu 
+they: naɣagiɲa 
+thigh: yidaŋaṛiala 
+thin: imalgbagban 
+think: gaːṛma 
+thou: niḍi | nidi	niḍi	vanani 
+thou: vanani | nidi	niḍi	vanani 
+three: two gina one 
+throat: baŋaṛag 
+throw: -waraŋan 
+thunder: ŋangaṇi 
+today: gani 
+tomorrow: mäɟi 
+tongue: ŋaṛyad | Naryad	ŋaɹ̣yad	ŋaṛyad 
+tongue: ŋaɹ̣yad | Naryad	ŋaɹ̣yad	ŋaṛyad 
+tooth: ɣiːyin | xiyin	ɣiːyin 
+tree: ɟuːṇa | Tuna 
+turn: -gidburan 
+turn: -igidbura 
+two: wuryarg | orialk	wuryarg	wuryurg 
+two: wuryurg | orialk	wuryarg	wuryurg 
+vomit: yiwuɟa 
+walk: -diri | -ɟiri 
+walk: -diri ma (?)wɛla | -ɟiri 
+walk: -ɟiri 
+wallaby: wiɟuɟ 
+warm: gaḷaḷiṛagu 
+wash: -uguraiyan 
+wash: yiruguran 
+wash: yiru gurun 
+water: ṛamigi | wobaiT	wobaiɟ 
+water: wobaiɟ | wobaiT	wobaiɟ 
+weep: -miyariyi- 
+we (excl.): ŋaḍab 
+we (incl.): ŋaraŋan 
+what: ŋundani 
+when: girini? 
+where: garaguni 
+white: galgararyi 
+who: ŋandani 
+wife: riɟi 
+wife: verbi 
+wind: mayaŋaya 
+wing: maɟag 
+woman: ɲunɔn 
+wood: ɟuṇe 
+wood: ɟuːṇe duan 
+woomera: ŋarawandug 
+yellow: waiḍbaḍ | waiḍbaḍ 
+yes: ɛ 
+every: dag 
+ash: rärgad 
+bigness: biḍawu 
+large: biḍawu 
+come from: NaTaxay	ŋaɟaɣay- 
+be dead: -luan	luan 
+dead: -luan	luan 
+fly: yid̪iri yiːɾid 
+fly v.: yid̪iri yiːɾid 
+left hand: manawiyi 
+1 sg.: Nada	Nede	ŋaḍa	ŋaḍe 
+lie down: ŋuguyan 
+head louse: minaN 
+male: geiag 
+much: mele 
+multiple: mele 
+several: mele 
+flesh: yala 
+hill: mudu	muḍu 
+title: gaNaiT	gaŋaiɟ 
+nose: ɣīːni	ɣəːni 
+adulterous: roka	ruga	ɹ̣uga	ṛuga 
+single: roka	ruga	ɹ̣uga	ṛuga 
+that: roka	ruga	ɹ̣uga	ṛuga 
+the: roka	ruga	ɹ̣uga	ṛuga 
+unprincipled: roka	ruga	ɹ̣uga	ṛuga 
+human: geiag 
+human being: geiag 
+rainy weather: raːwan 
+path: alan 
+route: alan 
+hide: larar	laːɾar 
+little: ɟiːgu 
+smallness: ɟiːgu 
+rock: xaiyaiT	ɣaiyaiɟ 
+2 sg: nidi	niḍi	vanani 
+you: nidi	niḍi	vanani 
+grind: orialk	wuryarg	wuryurg 
+go: -ɟiri 
+1 pl. inc.: NaraNan	ŋaraŋan 
+we: NaraNan	ŋaraŋan 
+we₁: NaraNan	ŋaraŋan 
+whiteness: galgararyi 
+who?: ŋandani 
+female: ɲunɔn 
+dull: mad̪aṛúwu 
+serious: mad̪aṛúwu 
+close: mundaiɟ 
+ner: mundaiɟ 

@@ -1,0 +1,409 @@
+all: bɛː 
+and: ani | ani	ka	ni	né 
+and: fana | ani	ka	ni	né 
+and: ni | ani	ka	ni	né 
+animal: daːba 
+arm: bolo 
+arrow: bìɲɛ 
+back: kɒ | kɒ	kɔ	kɔ́	kɔ̃	žagi 
+back: solo | kɒ	kɔ	kɔ́	kɔ̃	žagi 
+back: žagi | kɒ	kɔ	kɔ́	kɔ̃	žagi 
+bad: go | go	gyagha	sitanɛ	ǯugu 
+bad: sitanɛ | go	gyagha	sitanɛ	ǯugu 
+bad: ǯugu | go	gyagha	sitanɛ	ǯugu 
+bark: fara 
+because: bari | bari	katugu	sabu 
+because: katugu | bari	katugu	sabu 
+because: sabu | bari	katugu	sabu 
+belly: furu | kɒnɒ	kɒnɒbara	nugu 
+belly: kɒnɒ | kɒnɒ	kɒnɒbara	nugu 
+belly: kɒnɒbara | kɒnɒ	kɒnɒbara	nugu 
+big: belebele | belebele	ku-mba	kumba 
+big: kumba | belebele	ku-mba	kumba 
+bird: kɒnɒ | kono	kɒnɒ	kɔnɔ	kɔ̀nɔ 
+bite: čin | ki	tyin	čin 
+bite: ɲimi | ki	tyin	čin 
+bitter: kunan 
+black: fin | fin	fĩ	sĩ 
+blood: basi | basi	dyeli	dyɔli	joli	ǯoli	ɟòli 
+blood: ǯoli | basi	dyeli	dyɔli	joli	ǯoli	ɟòli 
+blow: fyɛ | fyè	fyɛ 
+bone: kolo | kolo	kulu	kóló	kɔlɔ 
+boy: bilakoro 
+breast: sin | dísí	sin	sĩ 
+breathe: ɲɒn | fogo	ninakili	ɲɒn 
+breathe: ninakili | fogo	ninakili	ɲɒn 
+burn: ǯemi | jeni	ǯemi 
+calf: dɛsɛ 
+calf: dulondulonmugu 
+cheek: dafuruku 
+chest: disi 
+chest: kɒgɒ 
+child: den | den	dén	dẽ 
+chin: bonbon 
+claw: sɒnin | soni	sɒnin | sonin	sɔ-ni	sɔ̀ni 
+cloud: kabanɒgɒ | kabanɒgɒ	sanfin 
+cold: nɛnɛ | nene	néné	nɛnɛ	suma	suman 
+cold: suma | nene	néné	nɛnɛ	suma	suman 
+come: na 
+correct: laːdiri | laːdiri	tilen 
+correct: tilen | laːdiri	tilen 
+count: dan 
+cut: tigɛ | tege	tigɛ 
+daughter: suŋgurun 
+day: don | don	dɔ̃	lun	tere 
+die: sa | fatu	sa	sà 
+die: su | fatu	sa	sà 
+dig: segin | segin	sen 
+dig: sen | segin	sen 
+dirty: nɒgɒ | nɒgɒ	nɔ́gɔ 
+dog: wulu | wulu	wùlu 
+drink: min | mi	min	minfen	mìn	mĩ 
+dry: ǯalan | ja	koskos	ǯalan 
+dust: gaŋgan | gaŋgan	gɒŋgɒn 
+dust: gɒŋgɒn | gaŋgan	gɒŋgɒn 
+earth: bɒgɒ | dùgú 
+ear: tulo | tula	tulo	tólo	tɔlɔ 
+eat: dun | du	dumo	dun	dũ 
+egg: fan | fan	kili	kíli 
+elbow: noŋkon 
+eye: ɲɛ | 5e	nyé	nyɛ	ɲɛ 
+face: ɲɛda 
+fall: bin | bin	wolowolo 
+fall: wolowolo | bin	wolowolo 
+father: fa 
+fat (n.): kɛn 
+fear: siran 
+fear: tamaki | siran 
+few: dæːnin 
+finger: boloŋkoni 
+fingernail: sonin | sonin	sɔ-ni	sɔ̀ni 
+finger: sennkɒni 
+fire: goni | goni	ta	tasuma	tá 
+fire: ta | goni	ta	tasuma	tá 
+fire: tasuma | goni	ta	tasuma	tá 
+fish: ǯɛgɛ | jege	yeghe	ǯɛgɛ	ɟɛ́gɛ 
+five: duːru | dulu	duuru	duːru	dúuru	lulu 
+float: fogon 
+flow: čóono | suːra	čóono 
+flower: feːre | feːre	fyè 
+flow: suːra | suːra	čóono 
+fly (n.): dimɒgɒ 
+fly (v.): pan 
+foot: kontoli | sen	sen-kɔrɔ	sèn	sẽ 
+foot: sen | sen	sen-kɔrɔ	sèn	sẽ 
+forehead: tɛn 
+four: naːni | naani	nani	naːni	náani 
+fruit: nbure 
+full: fa 
+girl: npogotigi 
+give: ni | di	ka ki ma	ka ni ma	ni	sɔ́n 
+good: koɲuman | 5i	di	koɲuman 
+grass: bin | bin	bĩ 
+green: ɲuguǯi | geren	ɲuguǯi 
+hair: si | kun-si	si 
+hand: ˗ | bolo	bɔlɔ	gwɛ̀lɛn	tege	̏- 
+hand: bolo | bolo	bɔlɔ	gwɛ̀lɛn	tege	̏- 
+head: kun | kun	kunkolo	kũ 
+head: kunkolo | kun	kunkolo	kũ 
+hear: mɛn | mɛn	mẽ	nyama 
+heart: dusu(kun) | dusu	dusukun	son	sɒn	sɔ̃ 
+heart: sɒn | dusu	dusukun	son	sɒn	sɔ̃ 
+heavy: girin 
+here: yan | nĩ	yan	yã 
+he/she: ˗ 
+he/she: a 
+he/she: bu 
+hit: či | gosi	saban	ti	tyi	či 
+hit: saban | gosi	saban	ti	tyi	či 
+hole: dingɛ 
+hole: soǯigi 
+hole: wo 
+horn: biɲɛ | binyé	biyẽ	biɲɛ	bíɲɛ	gere	gére 
+horn: gere | binyé	biyẽ	biɲɛ	bíɲɛ	gere	gére 
+house: so 
+how: di 
+hunt: gɛn 
+husband: oɛ 
+ice: galasi 
+if: ni 
+I: ne | n	ne	ni	né 
+in: la | la	rɒ 
+in: rɒ | la	rɒ 
+jaw: dagɛlɛkɛ 
+kill: faga | faga	fàfa 
+knee: kunbere | kunbere	kúmbe re 
+lake: dala 
+laugh: yɛlɛ | yélé-kè	yɛlɛ	yɛ́lɛ 
+leaf: fura | fura	fúrá 
+left: numan | numan	numã 
+leg: sen | gbele	sen	sẽ 
+lie: da 
+lightning: pɛrɛŋ 
+liver: bìɲɛ | bi5e	biyẽ	byã	bìɲɛ 
+long: san | jamanjan	jan	ǯamanǯan	ǯan 
+long: ǯamanǯan | jamanjan	jan	ǯamanǯan	ǯan 
+long: ǯan | jamanjan	jan	ǯamanǯan	ǯan 
+louse: ɲimi 
+louse: nkaranka 
+man: čɛ | mogo	mɒgɒ	mɔghɔ	mɔgɔ	mɔ̀gɔ 
+man: mɒgɒ | mogo	mɒgɒ	mɔghɔ	mɔgɔ	mɔ̀gɔ 
+many: kosɛbɛ | ca	caman	kosɛbɛ 
+man: ǯigi | mogo	mɒgɒ	mɔghɔ	mɔgɔ	mɔ̀gɔ 
+meat: sogo | bu	sogo | sogo	sògo	sɔgɔ 
+moon: kalo | kalo	kalɔ	kálo 
+mother: ba | ba	ma 
+mountain: kulu | kaba	kulu	nt~ugun 
+mouth: da | da	dá 
+name: ǯamu | jamu	togo	tɔgɔ	tɔ́gɔ́	ǯamu 
+nape: tun 
+navel: bara 
+near: surun 
+neck: kan | kan	kã 
+new: kura | kura	kúra 
+night: su | su	sú 
+nose: nun | nun	nyu	nún 
+not: ayi | ayi	unhun	ɒnhɒn 
+not: ɒnhɒn | ayi	unhun	ɒnhɒn 
+not: unhun | ayi	unhun	ɒnhɒn 
+one: kelen | kelen	kelẽ	kélé 
+other: wɛrɛ̀ | wɛrɛ̀	wɛ́rɛ 
+person: mɒgɒ | mogo	mɒgɒ	mɔghɔ	mɔgɔ	mɔ̀gɔ 
+play: tulon | tlɔ̃ kè	tulon 
+pull: sama 
+push: ɲɒni 
+rat: ɲinɛ 
+rat: kɒŋginɛ 
+red: bilen | bilen	ble	bèlè	figé	fugé	ulé 
+right: kinin | bolo	bɔlɔ	gwɛ̀lɛn	tege	̏- | kini	kinin 
+river: ba 
+road: sira 
+root: dili | dili	dílí 
+rope: ǯuru | dyuru	ǯuru 
+rotten: toli 
+round: koːri 
+rub: tereke 
+salt: kɒgɒ | kɒgɒ	kɔghɔ 
+sand: čɛnčɛn | kenye	kyẽ	čɛnčɛn 
+say: fɒ | fo	fɒ	fɔ	ko | kenye	kyẽ	čɛnčɛn 
+say: ko | fo	fɒ	fɔ	ko | kenye	kyẽ	čɛnčɛn 
+say: kuma | fo	fɒ	fɔ	ko | kenye	kyẽ	čɛnčɛn 
+seed: kisɛ | dã	kise	kisɛ	si 
+see: ye | ye	yé 
+sew: kala | kala	kara	sara 
+sharp: čaron | čaron 
+short: surun | kuru	suru	surun	sùrũ 
+shoulder: kaman 
+sing: donkili | donkili	dɔn kili da 
+sit: čoːko | sigi	čoːko 
+sit: sigi | sigi	čoːko 
+skin: wolo | fɔlɔ	golo	wolo 
+sky: kaba | kaba	sa	sã 
+sleep: sunɒgo | si	sunogo	sunɒgo 
+small: dɒgɒ | dogon	dɒgɒ	fìtìnin	ncínĩ	ni 
+small: fìtìnin | dogon	dɒgɒ	fìtìnin	ncínĩ	ni 
+smoke: sisi 
+smooth: nugu 
+snake: sa | sa	sà̀ 
+sour: kumu 
+spit: sɒgɒsɒgɒ | pu	tu 
+squeeze: čɒrɒndɒ | ferun	gɛrɛntɛ	mɒsɒn	čɒrɒndɒ 
+squeeze: ferun | ferun	gɛrɛntɛ	mɒsɒn	čɒrɒndɒ 
+squeeze: gɛrɛntɛ | ferun	gɛrɛntɛ	mɒsɒn	čɒrɒndɒ 
+squeeze: mɒsɒn | ferun	gɛrɛntɛ	mɒsɒn	čɒrɒndɒ 
+stand: wuli | jo 
+star: dolo | dolo	dòlo	lolo 
+stone: ŋɒŋgɒrɒ | kaba	kula	ŋɒŋgɒrɒ 
+suck: mugen 
+sun: tile | telé	tile 
+sweet: di 
+swell: funun 
+swim: nɒn 
+tail: ku 
+take: minɛ 
+take: ta 
+that: nin | kelen	kelẽ	kélé 
+there: yen 
+they: olu | alu	ilu	u 
+they: u | alu	ilu	u 
+thick: fire 
+thigh: woro 
+think: miːri 
+thin: kolomamisɛn 
+this: nin 
+thou: i | i	é	ì 
+three: saba | saba	sàbá 
+throat: ngɒnɒ 
+throw: bon | bon	kerun	seri	su	tu 
+throw: kerun | bon	kerun	seri	su	tu 
+throw: seri | bon	kerun	seri	su	tu 
+thunder: pɛrɛn 
+tie: siri | siri	sìri 
+today: bi 
+tomorrow: sini 
+tongue: nɛn | nen	né	nén	nɛn	nɛ̀n 
+tooth: ɲin | 5in	nyin	nyĩ	sélé	sɔ	sɔli	ɲin	ɲín 
+tree: ǯiri | jiri	yiri 
+turn: minimini 
+turn: munun 
+two: fila | fila	fla	fìla 
+vagina: kɛnɛn 
+vomit: fɒːnɒ | fɒːnɒ	wɒgɒ 
+vomit: wɒgɒ | fɒːnɒ	wɒgɒ 
+walk: boli | ta	taːma	yala 
+walk: t́áa | ta	taːma	yala 
+walk: taːma | ta	taːma	yala 
+walk: wá | ta	taːma	yala 
+warm: gan 
+warm: goni | gan 
+warm: kalan | gan 
+wash: ko | ko	kò 
+water: ǯi | dyi	ji	ǯi	ɟí 
+we: an | anelu	anw 
+weep: kasi 
+what: mun 
+where: min | ma	min	mini 
+where: mini | ma	min	mini 
+white: ǯɛ | dyɛ	fu	je	jeman	pu	pua	ǯɛ	ɟɛ́ 
+who: ǯɒn | dyɔ̃	gyɔ̃	jon	ǯɒn	ǯɒni 
+who: ǯɒni | dyɔ̃	gyɔ̃	jon	ǯɒn	ǯɒni 
+wide: ǯosurun | ǯosurun 
+wind: fiɲɛ | finyẽ	fiɲɛ	fyẽ 
+wing: kaman | kama	kaman 
+wipe: susa | susa	ǯɒsi 
+wipe: ǯɒsi | susa	ǯɒsi 
+with: fɛ 
+with: ye 
+woman: muso | muso	musɔ	mùso 
+wood: bere 
+wood: dɒgɒ 
+worm: ntumu 
+year: san | san	sàn	sã 
+yellow: nɛrɛ mugu | nɛrɛ mugu	wɒlɒ 
+yellow: wɒlɒ | nɛrɛ mugu	wɒlɒ 
+yesterday: kunun 
+you: aw | i	é	ì | alu	alʔa	aw 
+every: bɛː 
+ash: bugurinj~e 
+ashes: bugurinj~e 
+abdomen: kɒnɒ	kɒnɒbara	nugu 
+bigness: belebele	ku-mba	kumba 
+large: belebele	ku-mba	kumba 
+breasts: dísí	sin	sĩ 
+nail: soni	sɒnin 
+talon: soni	sɒnin 
+come from: na 
+be dead: fatu	sa	sà 
+dead: fatu	sa	sà 
+ground: dùgú 
+land: dùgú 
+soil: dùgú 
+fat: tolo 
+fat n.: tolo 
+grease: tolo 
+lubricant: tolo 
+oil: tolo 
+feather: si 
+fly: pan	pã 
+fly v.: pan	pã 
+left hand: bolo	bɔlɔ	gwɛ̀lɛn	tege	̏- 
+1 sg.: n	ne	ni	né 
+be knowledgeable: don	dɔ́n	dɔ̃ 
+know: don	dɔ́n	dɔ̃ 
+lie down: da 
+male: ce	ke	kè	mána	mɒgɒ	tyɛ	čɛ 
+much: ca	caman	kosɛbɛ 
+multiple: ca	caman	kosɛbɛ 
+several: ca	caman	kosɛbɛ 
+flesh: bu	sogo 
+hill: kaba	kulu	nt~ugun 
+title: jamu	togo	tɔgɔ	tɔ́gɔ́	ǯamu 
+nighttime: su	sú 
+adulterous: kelen	kelẽ	kélé 
+single: kelen	kelẽ	kélé 
+the: kelen	kelẽ	kélé 
+unprincipled: kelen	kelẽ	kélé 
+human: mogo	mɒgɒ	mɔghɔ	mɔgɔ	mɔ̀gɔ 
+human being: mogo	mɒgɒ	mɔghɔ	mɔgɔ	mɔ̀gɔ 
+rain: dyi	sanji	sã 
+rainy weather: dyi	sanji	sã 
+path: sira 
+route: sira 
+hide: fɔlɔ	golo	wolo 
+little: dogon	dɒgɒ	fìtìnin	ncínĩ	ni 
+smallness: dogon	dɒgɒ	fìtìnin	ncínĩ	ni 
+rock: kaba	kula	ŋɒŋgɒrɒ 
+2 sg: i	é	ì 
+grind: fila	fla	fìla 
+go: ta	taːma	yala 
+hot: gan 
+1 pl. inc.: anelu	anw 
+we₁: anelu	anw 
+whiteness: dyɛ	fu	je	jeman	pu	pua	ǯɛ	ɟɛ́ 
+who?: dyɔ̃	gyɔ̃	jon	ǯɒn	ǯɒni 
+female: muso	musɔ	mùso 
+dull: girin 
+serious: girin 
+close: surun 
+ner: surun 
+earthworm: ntumu 
+2 pl.: alu	alʔa	aw 
+ye: alu	alʔa	aw 
+you all: alu	alʔa	aw 
+3 pl.: alu	ilu	u 
+where?: ma	min	mini 
+how?: di 
+broad: ǯosurun 
+wideness: ǯosurun 
+principal wife: musɔ 
+wife: musɔ 
+his mother: ba	ma 
+my mother: ba	ma 
+his father: fa 
+my father: fa 
+forest: tu 
+woods: tu 
+cord: dyuru	ǯuru 
+breath: fogo	ninakili	ɲɒn 
+laughter: yélé-kè	yɛlɛ	yɛ́lɛ 
+cogitate: miːri 
+reflect: miːri 
+smell: sumssumu 
+sniff: sumssumu 
+afraid: siran 
+be afraid: siran 
+fright: siran 
+alive: bálo 
+be alive: bálo 
+life: bálo 
+live: bálo 
+living: bálo 
+beat: gosi	saban	ti	tyi	či 
+strike: gosi	saban	ti	tyi	či 
+hack: tege	tigɛ 
+pierce: sɔ̀gɔ 
+stab: sɔ̀gɔ 
+drop: bin	wolowolo 
+grasp: bólo 
+hold: bólo 
+hold in arm: bólo 
+wring: ferun	gɛrɛntɛ	mɒsɒn	čɒrɒndɒ 
+wash clothes: ko	kò 
+bind: siri	sìri 
+fasten: siri	sìri 
+tie up: siri	sìri 
+enumerate: dan 
+number: dan 
+tally: dan 
+have fun: tlɔ̃ kè	tulon 
+brook: ba 
+stream: ba 
+blaze: jeni	ǯemi 
+daylight: don	dɔ̃	lun	tere 
+daytime: don	dɔ̃	lun	tere 
+evil: go	gyagha	sitanɛ	ǯugu 
+rot: toli 
+filthy: nɒgɒ	nɔ́gɔ 
+soiled: nɒgɒ	nɔ́gɔ 
+right side: kini	kinin 
+inside: la	rɒ 

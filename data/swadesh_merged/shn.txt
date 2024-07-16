@@ -1,0 +1,332 @@
+all: တင်း 
+every: တင်း 
+ash: တဝ်ႈ 
+ashes: တဝ်ႈ 
+bark: ပိူၵ်ႇ 
+abdomen: တွင်ႉ 
+belly: တွင်ႉ 
+big: ယႂ်ႇ 
+bigness: ယႂ်ႇ 
+large: ယႂ်ႇ 
+bird: ၼူၵ်ႉ 
+bite: ၶူပ်း 
+black: လမ 
+blood: လိူတ်ႈ 
+bone: လုပ်ႇ 
+breast: ၼူမ်း 
+breasts: ၼူမ်း 
+cloud: မွၵ်ႇ 
+cold: ၵတ်း 
+come: မႃး 
+come from: မႃး 
+be dead: တၢႆ 
+dead: တၢႆ 
+die: တၢႆ 
+dog: မႃ 
+drink: သူတ်ႉ 
+dry: ႁႅင်ႈ 
+ear: ႁူ 
+earth: လိၼ် 
+ground: လိၼ် 
+land: လိၼ် 
+soil: လိၼ် 
+eat: ၵိၼ 
+egg: ၶႆႇ 
+eye: တႃ 
+feather: ၶူၼ 
+fire: ၽႆး 
+fish: ပႃ 
+fly: မိၼ် 
+fly v.: မိၼ် 
+foot: တိၼ် 
+full: တဵမ် 
+give: ပၼ 
+good: လီ 
+green: ၶဵဝ် 
+hair: ၽူမ် 
+head: ႁူဝ် 
+hear: ငိၼ်း 
+heart: ႁတရႃႉ 
+horn: ၶဝ် 
+1 sg.: တူ	ၵဝ် 
+I: တူ	ၵဝ် 
+kill: ၶႃႈ 
+knee: ၶဝ်ႇ 
+be knowledgeable: ႁူႉ 
+know: ႁူႉ 
+leaf: တွင် 
+liver: တပ်း 
+long: ယၢဝ်း 
+head louse: မဵၼ်း	ႁဝ် 
+louse: မဵၼ်း	ႁဝ် 
+male: ၸၢႆး 
+man: ၵူၼ်း 
+many: ၼမ်ၼမ 
+much: ၼမ်ၼမ 
+multiple: ၼမ်ၼမ 
+several: ၼမ်ၼမ 
+moon: လိူၼ် 
+hill: လွႆ 
+mountain: လွႆ 
+mouth: သူပ်း 
+name: ၸိုဝ်ႈ 
+title: ၸိုဝ်ႈ 
+neck: ၶေႃး 
+new: မႂ်ႇ 
+night: ၶိုၼ်း 
+nighttime: ၶိုၼ်း 
+nose: ၶူႈလင် 
+not: မဝ်ႇ 
+adulterous: ၼိုင်ႈ 
+one: ၼိုင်ႈ 
+single: ၼိုင်ႈ 
+that: ၼၼ်ႉ 
+the: ၼိုင်ႈ 
+unprincipled: ၼိုင်ႈ 
+human: ၵူၼ်း 
+human being: ၵူၼ်း 
+person: ၵူၼ်း 
+rain: ၽူၼ 
+rainy weather: ၽူၼ 
+red: လႅင် 
+path: တၢင်း 
+road: တၢင်း 
+route: တၢင်း 
+root: ႁူဝ်	ႁၢၵ်ႈ 
+round: မူၼ်း 
+sand: သၢႆး 
+say: လၢတ်ႈ	ဝႃႈ 
+see: ႁၼ် 
+seed: မဵတ်ႉ 
+sit: ၼင်ႈ 
+hide: ၼင 
+skin: ၼင 
+sleep: ၼွၼ်း 
+little: လဵၵ်ႉ	ဢိတ်း 
+small: လဵၵ်ႉ	ဢိတ်း 
+smallness: လဵၵ်ႉ	ဢိတ်း 
+smoke: ဢၢႆ	ၵႂၢၼ်း 
+star: လၢဝ် 
+rock: ႁိၼ် 
+stone: ႁိၼ် 
+sun: ဝၼ်း 
+swim: လုၺ်း	ဝၢႆႈ 
+tail: ႁၢင 
+this: ၼႆႉ 
+2 sg: မႂ်း	သ 
+thou: မႂ်း	သ 
+you: မႂ်း	သ 
+tongue: လိၼ်ႉ 
+tooth: ၶဵဝ်ႈ 
+tree: မႆႉ 
+grind: သွင် 
+two: သွင် 
+go: ႄႇ 
+walk: ႄႇ 
+hot: ဢုၼ်ႇ 
+warm: ဢုၼ်ႇ 
+water: ၼမ်ႉ 
+1 pl. inc.: ႁဝ်း 
+we: ႁဝ်း 
+we₁: ႁဝ်း 
+what: ဢီႈသင် 
+white: ၶၢဝ် 
+whiteness: ၶၢဝ် 
+who: ၼလႂ် 
+who?: ၼလႂ် 
+female: ႄႈယိင်း 
+woman: ႄႈယိင်း 
+yellow: လိူင် 
+distant: ၵႆ 
+far: ၵႆ 
+dull: ၼၵ်း 
+heavy: ၼၵ်း 
+serious: ၼၵ်း 
+close: ၸမ် 
+near: ၸမ် 
+ner: ၸမ် 
+salt: ၵိူဝ် 
+short: ပွတ်း 
+snake: ငူး 
+thin: ယွမ် 
+wind: လူမ်း 
+earthworm: မူင်ႈ 
+worm: မူင်ႈ 
+year: ပီ 
+3 sg.: မၼ်း 
+he: မၼ်း 
+she: မၼ်း 
+2 pl.: ၶိူဝ် 
+ye: ၶိူဝ် 
+you all: ၶိူဝ် 
+3 pl.: ပိူၼ်ႈ	ၶဝ် 
+they: ပိူၼ်ႈ	ၶဝ် 
+here: ၼႆႈ 
+there: ပုၼ်ႉ 
+where: တီႈ 
+where?: တီႈ 
+when: မိူဝ်ႈ 
+when?: မိူဝ်ႈ 
+how: ႁဵတ်းႁိုဝ် 
+how?: ႁဵတ်းႁိုဝ် 
+some: မၢင်	ၵမ်ႈၽွင်ႈ 
+few: ဢေႇဢေႇ 
+other: တၢင်ႇ	ဢိုၼ်ႇ 
+three: သၢမ 
+four: သီႇ 
+five: ႁႃႈ 
+broad: ၵႂၢင်ႈ 
+wide: ၵႂၢင်ႈ 
+wideness: ၵႂၢင်ႈ 
+fat: မၼ်းၶ 
+thick: ၼႃ 
+narrow: ၵႅပ်ႈ 
+child: လုၵ်ႈ 
+principal wife: မေး 
+wife: မေး 
+husband: ၽူဝ် 
+his mother: ႄႈ 
+mother: ႄႈ 
+my mother: ႄႈ 
+father: ပေႃႈ 
+his father: ပေႃႈ 
+my father: ပေႃႈ 
+animal: သတ်း 
+forest: ထိူၼ်ႇ 
+woods: ထိူၼ်ႇ 
+branch: ၶွၼ်ႉ 
+stick: ၶွၼ်ႉ 
+fruit: မၢၵ်ႇ 
+flower: မွၵ်ႇ 
+grass: ယိူဝ်ႈ 
+cord: ၸိူၵ်ႈ 
+rope: ၸိူၵ်ႈ 
+flesh: ၼိူဝ်ႉ 
+meat: ၼိူဝ်ႉ 
+grease: မၼ်းၶ 
+claw: ၼဵပ်ႉ 
+fingernail: ၼဵပ်ႉ 
+nail: ၼဵပ်ႉ 
+leg: ၵၢဝ်ႈ 
+arm: မိုဝ်း 
+hand: မိုဝ်း 
+wing: ပိၵ်ႇ 
+gut: သႆႈ 
+guts: သႆႈ 
+insides: သႆႈ 
+intestine: သႆႈ 
+intestines: သႆႈ 
+back: ဢႅဝ 
+suck: လုတ်ႇ 
+spit: ထူမ်ႇ 
+vomit: ႁၢၵ်ႈ 
+blow: ပဝ်ႇ 
+breath: ထူၺ်ႈၸႂ် 
+breathe: ထူၺ်ႈၸႂ် 
+laugh: ၶူဝ 
+laughter: ၶူဝ 
+cogitate: ထိူမ်	ဝူၼ်ႉ 
+reflect: ထိူမ်	ဝူၼ်ႉ 
+think: ထိူမ်	ဝူၼ်ႉ 
+smell: ၼူမ် 
+sniff: ၼူမ် 
+afraid: ၵူဝ် 
+be afraid: ၵူဝ် 
+fear: ၵူဝ် 
+fright: ၵူဝ် 
+alive: ယူႇ 
+be alive: ယူႇ 
+life: ယူႇ 
+live: ယူႇ 
+living: ယူႇ 
+fight: တိုၵ်း 
+hunt: ၸွမ်းတူဝ်ထိူၼ်ႇ 
+beat: မႅၼ်ႈ 
+hit: မႅၼ်ႈ 
+strike: မႅၼ်ႈ 
+cut: တႅပ်း	ၽၼ်း 
+hack: တႅပ်း	ၽၼ်း 
+cut open: တႅၵ်ႇ	ၸၵ်း 
+split: တႅၵ်ႇ	ၸၵ်း 
+pierce: တႅင်း 
+stab: တႅင်း 
+scratch: ယၢႆး	ၶၢၼ်ႇ 
+dig: ၶုတ်း 
+lie: လႅင်ႉ 
+lie down: လႅင်ႉ 
+tell lies: လႅင်ႉ 
+stand: ၸုၵ်း 
+turn: ဝိၼ်ႇ 
+turn around: ဝိၼ်ႇ 
+turn round: ဝိၼ်ႇ 
+drop: တူၵ်း 
+fall: တူၵ်း 
+grasp: ယိပ်း 
+hold: ယိပ်း 
+hold in arm: ယိပ်း 
+squeeze: ပၼ်ႈ 
+wring: ပၼ်ႈ 
+rub: ထူ 
+wipe: ၸဵတ်ႉ 
+wash: သုၵ်ႈ 
+wash clothes: သုၵ်ႈ 
+pull: တိုတ်ႉ 
+push: တမ် 
+shove: တမ် 
+throw: ထိမ်ႈ	ပႅတ်ႈ 
+bind: မတ်ႉ 
+fasten: မတ်ႉ 
+tie: မတ်ႉ 
+tie up: မတ်ႉ 
+sew: ယဵပ်ႉ 
+count: ဢၢၼ်ႇ 
+enumerate: ဢၢၼ်ႇ 
+number: ဢၢၼ်ႇ 
+tally: ဢၢၼ်ႇ 
+sing: ႁဵတ 
+have fun: လဵၼ်ႈ 
+play: လဵၼ်ႈ 
+float: ၽူး 
+flow: လႆ 
+swell: တိုင်ႇ	ၵႂ်ႈ	ၽူတ်ႉ 
+brook: ႄး 
+river: ႄး 
+stream: ႄး 
+lake: ၼွင် 
+ocean: ပၢင်ႇလၢႆႇ 
+sea: ပၢင်ႇလၢႆႇ 
+dust: ၽွင် 
+fog: ၼမ်ႉၼၢႆးၵုမ်ႈ 
+sky: ၽႃႉ 
+snow: မူၺ် 
+ice: ၼမ်ႉၶႅင 
+blaze: မႆႈ 
+burn: မႆႈ 
+day: ဝၼ်း 
+daylight: ဝၼ်း 
+daytime: ဝၼ်း 
+old: ထဝ်ႈ	ၵဝ်ႇ 
+bad: ၸႃႉ	ႁၢႆႉ 
+evil: ၸႃႉ	ႁၢႆႉ 
+rot: တူႇ	ၼဝ်ႈ 
+rotten: တူႇ	ၼဝ်ႈ 
+dirty: ဝိၼ်း	ၵူဝ်ႈ 
+filthy: ဝိၼ်း	ၵူဝ်ႈ 
+soiled: ဝိၼ်း	ၵူဝ်ႈ 
+straight: သိုဝ်ႈ 
+sharp: လႅမ် 
+blunt: ပုၵ်း 
+smooth: လိူမ်ႈ 
+damp: ပဵၵ်ႇ	ယမ်း 
+wet: ပဵၵ်ႇ	ယမ်း 
+correct: မႅၼ်ႈ 
+right: ၶႂႃ 
+right side: ၶႂႃ 
+left: သၢႆႉ 
+at: တီႈ 
+in: ဝၢင်ႈ 
+inside: ဝၢင်ႈ 
+with: တင်း	ဢိၵ်ႇ 
+and: ႄႈ 
+if: ထႃႈ	သင် 
+because: ပိူဝ်ႈ 

@@ -1,0 +1,254 @@
+all: mokdzong | mokcoN 
+and: wangu 
+and: waŋu 
+animal: yaŋ 
+arm: mʌri 
+ashes: homa 
+back: gemagi- 
+back: gemagl- 
+bark: sʌbʌl 
+belly: tomeng- | tomeN	tomeŋ- 
+belly: tomeŋ- | tomeN	tomeŋ- 
+big: kuneng | kuneN	kuneŋ 
+big: kuneŋ | kuneN	kuneŋ 
+bird: nei 
+bite: ki- | ki	ki- 
+black: dzapera | capera	dzapera 
+blood: sawa 
+blow: fi- 
+bone: sigl- | sigl-	sigl~	sir 
+bone: sir | sigl-	sigl~	sir 
+breast: namu- | namu	namu- 
+breathe: weses- 
+breathe: wesese 
+brother: dar 
+brother: dar- 
+burn: dze- 
+claw: bongsewe- | boNsewe	boŋsewe- 
+claw: boŋsewe- | boNsewe	boŋsewe- 
+cloud: hosesu 
+cold: sagenga | sageNa	sageŋa 
+cold: sageŋa | sageNa	sageŋa 
+come: ere- | ere	ere- 
+count: oron- 
+cut: heri- 
+die: humu- | humu	humu- 
+dig: oro- 
+dog: kadzu | kacu	kadzu	katsu 
+dog: katsu | kacu	kadzu	katsu 
+dry: irege- | irege	irege- 
+dust: iwai 
+ear: gedza- | geca	gedza-	getsaw 
+ear: getsaw | geca	gedza-	getsaw 
+earth: baek 
+eat: ne- | ne	ne- 
+eye: kiw | kiw	kiwa	kiwa- 
+eye: kiwa- | kiw	kiwa	kiwa- 
+fall: ma- 
+father: manggi- 
+father: maŋgi- 
+fat (n.): harek 
+fat (n.): harek- 
+fingernail: bopoʔ 
+fire: geriʔ 
+flower: dzuri- 
+foot: heni- | heni	heni-	kifu 
+foot: kifu | heni	heni-	kifu 
+fruit: fer- 
+full: koia kpe- | koia kpe-	koia kp~e 
+give: nen- | nen	nen- 
+good: fia | fia	gia 
+good: gia | fia	gia 
+green: gerik meria 
+hair: dzu- | cu	dzu- 
+hand: meri- | meri	merip 
+hand: merip | meri	merip 
+head: ogu- | ogu	ogu-	oruh 
+head: oruh | ogu	ogu-	oruh 
+heart: webogokme- | webogokme	webogokme- 
+he/she: i 
+hit: kpe- 
+hold: me- 
+how: deik 
+I: ni 
+knee: siming- | simiN	simiŋ- 
+knee: simiŋ- | simiN	simiŋ- 
+know: nin- | nin	nin- 
+lake: dzekeng 
+lake: dzekeŋ 
+laugh: desi- 
+leaf: hareng- | hareN	hareŋ- 
+leaf: hareŋ- | hareN	hareŋ- 
+left: kana 
+leg: kifu 
+long: horua 
+louse: imin 
+man: ik 
+many: sasara 
+meat: busi- 
+moon: komong | komoN	komoŋ 
+moon: komoŋ | komoN	komoŋ 
+mother: nengge- 
+mother: neŋge- 
+mother: neŋgia 
+mountain: bonga | boNa	boŋa 
+mountain: boŋa | boNa	boŋa 
+mouth: koa 
+name: kiwa | kiwa	kpar 
+name: kpar | kiwa	kpar 
+neck: ebasigla | ebasigla-	ebasigl~a	ebi 
+neck: ebasigla- | ebasigla-	ebasigl~a	ebi 
+neck: ebi | ebasigla-	ebasigl~a	ebi 
+new: gbeli | gbeli	gberia	gb~eria 
+new: gberia | gbeli	gberia	gb~eria 
+night: singi | siNi	siŋi 
+night: siŋi | siNi	siŋi 
+nose: sere- | sere	sere-	siraya 
+not: munda 
+old: wahara 
+one: momakgu | momacku	momakgu 
+play: agliak 
+play: agliak- 
+pull: fegle- 
+push: igokge- 
+push: igokpe- 
+rain: kia 
+red: pesia 
+right: foi | meri	merip 
+road: hena 
+road: hɨna | hena 
+root: gete- | gete	gete- 
+rope: hisa 
+round: rerek rerek 
+sand: sakesa | sakesa	sakesaʔ 
+sand: sakesaʔ | sakesa	sakesaʔ 
+say: dze- | ce	dze-	dzɛ 
+say: dzɛ | ce	dze-	dzɛ 
+seed: gokme- | gokme	gokme- 
+see: ni- | ni	ni- 
+sew: kpewi- 
+short: hotong | hotoŋ 
+short: hotoŋ 
+sister: naong- 
+sister: naoŋ- 
+sister: naɔŋ 
+sit: tak- | tak	tak- 
+skin: sʌbʌl | sewira	sewira-	sʌbʌl 
+skin: sewira- | sewira	sewira-	sʌbʌl 
+sky: kuglumeng 
+sky: kuglumeŋ 
+sleep: fe- | fe	fe- 
+small: komoga 
+smoke: hofaʔ | hofak	hofaʔ 
+smoke: hofak | hofak	hofaʔ 
+snake: mokoreng | mokoreŋ 
+snake: mokoreŋ 
+some: tose- 
+spit: sɨfɛʔ 
+spit: sofok- 
+stand: nan- 
+star: sikilu | sikilu	sikiru 
+star: sikiru | sikilu	sikiru 
+stick: gbaru 
+stone: gokmea 
+straight: dindiŋa 
+suck: bitsi- 
+sun: kaiwe 
+swell: bongge- 
+swell: boŋge- 
+tail: dzi- | ci	dzi- 
+that: yo 
+there: eri 
+they: ingang 
+they: iŋeŋ 
+this: i 
+thou: gi 
+thou: i | gi 
+thou: ini | gi 
+throw: wai- 
+tie: dziki 
+tongue: edzerang- | eceraN	edzeraŋ-	etselaŋ 
+tongue: edzeraŋ- | eceraN	edzeraŋ-	etselaŋ 
+tongue: etselaŋ | eceraN	edzeraŋ-	etselaŋ 
+tooth: dzegl- | cegl~	dzegl-	dzɪr 
+tooth: dzɪr | cegl~	dzegl-	dzɪr 
+tree: ik 
+turn: meren- 
+two: rehek | rehek	ɯļɯhɯc 
+vomit: ron- 
+warm: fokngea | fokŋea	foʔnia 
+warm: fokŋea | fokŋea	foʔnia 
+warm: foʔnia | fokŋea	foʔnia 
+warm: gerik | fokŋea	foʔnia 
+wash: dzuak- 
+water: doku 
+weep: siak- 
+we: ni | nini 
+we: nini 
+what: nemak 
+where: dimia 
+white: rarak 
+who: mong | moN	moŋ 
+who: moŋ | moN	moŋ 
+wind: lufuʔ | lufuʔ	rufuk 
+wind: rufuk | lufuʔ	rufuk 
+wing: kpegan- 
+wing: kpeŋgaŋ 
+woman: embak 
+wood: gbaru 
+worm: gbosu 
+yellow: gbaok gbaok | gbaok gbaok	gb~aok gb~aok 
+you: ini | gi 
+every: mokcoN 
+ash: homa 
+abdomen: tomeN	tomeŋ- 
+bigness: kuneN	kuneŋ 
+large: kuneN	kuneŋ 
+breasts: namu	namu- 
+nail: boNsewe	boŋsewe- 
+talon: boNsewe	boŋsewe- 
+come from: ere	ere- 
+be dead: humu	humu- 
+dead: humu	humu- 
+ground: baek 
+land: baek 
+soil: baek 
+fat: harek 
+fat n.: harek 
+grease: harek 
+lubricant: harek 
+oil: harek 
+left hand: meri	merip 
+1 sg.: ni 
+be knowledgeable: nin	nin- 
+head louse: imin 
+male: ik 
+much: sasara 
+multiple: sasara 
+several: sasara 
+flesh: busi 
+meat: busi 
+hill: boNa	boŋa 
+title: kiwa	kpar 
+nighttime: siNi	siŋi 
+adulterous: momacku	momakgu 
+single: momacku	momakgu 
+the: momacku	momakgu 
+unprincipled: momacku	momakgu 
+rainy weather: kia 
+path: hena 
+route: hena 
+hide: sewira	sewira-	sʌbʌl 
+little: komoga 
+smallness: komoga 
+stand: nan 
+rock: gokmea 
+2 sg: gi 
+grind: rehek	ɯļɯhɯc 
+hot: fokŋea	foʔnia 
+1 pl. inc.: nini 
+we₁: nini 
+whiteness: rarak 
+who?: moN	moŋ 
+female: embak 
+earthworm: gbosu 

@@ -1,0 +1,315 @@
+all: tanán 
+and: kag 
+animal: sapat 
+ashes: abó 
+at: sa 
+back: likód | likod	likód 
+bad: mala-in | panuláy 
+bark: taghol 
+because: kay 
+belly: tiyán | ti-yan	tiyán 
+big: dakô | lutáw 
+bird: pispis 
+bite: kagát | kadton	kagat 
+black: itóm | itúm 
+blood: dugô | dugo7	dugô 
+blow: huyóp 
+bone: tul-an | tul-an	tulan 
+breast: dughan | dughan	suso 
+breathe: ginhawa 
+burn: sunog | sunugon 
+child: batà 
+cloud: panganod 
+cold: tugnaw | mabugnaw 
+come: kari | kadto	makadto 
+correct: tamà 
+count: isip 
+cut: kihad | hiwaon 
+day: adlaw 
+die: mapatáy | patay 
+dig: kutkut | kumutkot 
+dirty: mahigkò | higko	mahigkò 
+dog: idô, ayam | idu	idú 
+drink: inóm | ilimnon	inom 
+dry: malá | hubóg 
+dull: mahabul | mabug-at | malubóg 
+dust: yab-ok | yab-ok	yak-ok 
+ear: dulunggan | duluNg~an	dulunggan 
+earth: dutà 
+eat: ka-on | ka-on	kumaon 
+egg: itlog 
+eye: matá | mata	matá 
+fall: hulog | dagdag	hulog	mahulog 
+far: malayô | malayò 
+father: amáy | tatay 
+fat (n.): tambok 
+fear: hadluk, kulba | hadlok	kalahadlokán 
+feather: bulbul | pakpák 
+few: diutay 
+fight: away 
+fingernail: kukó 
+fire: kalayo | Clayo	clayo 
+fish: isdà | isda 
+five: limá | lima	limá 
+float: lutáw 
+flower: bulak 
+flow: ilig | tumubód 
+fly (v.): lupád 
+fog: ambon | gamhon 
+foot: ti-íl 
+forest: talon | kagulangan 
+four: apat | apat	ápata 
+freeze: mayelo 
+fruit: bunga | bungángkahoy 
+full: punô 
+give: hatag 
+good: ma-ayo | maayo 
+grass: hilamón 
+green: hiláw | lunhaw 
+guts: tina-i | tina-e	tinae 
+hair: buhok | buhok	buhók 
+hand: kamót | kamot	kamut	kamút 
+head: ulo 
+hear: pamatì | batian	mamati	mati 
+heart: tagipuso-on 
+heavy: mabug-at 
+here: dirí 
+he: siyá 
+hit: igò | hinaplit 
+hold: uyat | punggan 
+horn: sungay 
+how: paano | anó 
+hunt: pangayám | mangluthang 
+husband: bana 
+I: akó 
+ice: yelo 
+if: kon 
+in: sa 
+kill: pagpatáy | patyon 
+knee: tuhod 
+know: hibaló | hibal-an	kabalo 
+lake: danáw | linaw 
+laugh: kadlaw | kadlaw	kumadlaw 
+leaf: dahon 
+left: walá | wa-lá	walá 
+leg: bati-is 
+lie: butíg | higdâ	ibutáng 
+live: buhì | mangabuhì 
+live: buhî | mangabuhì 
+liver: atáy | atay 
+long: malabà | kadugayón 
+louse: kuto 
+man: tawo | tao	tawo	táo 
+many: madamò 
+meat: unód | karne 
+moon: bulan 
+mother: ilóy | nay 
+mountain: bukid 
+mouth: bâ-bâ | bâbà	bâbâ 
+name: ngalan | Nalan	ngalan 
+narrow: makitíd 
+near: malapít | malapit sa 
+neck: li-og | li-og	liug 
+new: bag-o | bag-o	bago 
+night: gab-i | gab-i	gabi 
+nose: ilóng | iloN	ilong	ilóng 
+not: indì 
+old: tigulang 
+one: isa | isa	isá 
+other: ibán, la-ín | ibán pa 
+person: tawo | tao	tawo	táo 
+play: hampang 
+pull: butong 
+push: dusô 
+rain: ulán 
+red: pulá | pula 
+right: tu-ó | kamot	kamut	kamút | tu-o	tuó 
+river: subâ 
+road: dalan 
+root: gamót | gingikanan 
+rope: lubid, pisì | pisi 
+rotten: dunót | pagkadunot 
+round: timbolog 
+rub: haplas 
+salt: asín 
+sand: balás 
+say: hambal | itlangón | balás 
+scratch: kalot | kaluton 
+sea: lawód | dagat 
+seed: liso, binhì 
+see: tan-aw, kità | kita	kitâ	makità 
+sew: tahî | tahión 
+sharp: matalóm | mataliwis 
+short: malip-ot 
+sing: amba 
+sit: pungkò | lumingkod	pungko 
+skin: panit 
+sky: langit 
+sleep: tulog | magtulog	tulog 
+small: magamáy | diótay 
+smell: bahò | hakluón	simhot 
+smoke: asó 
+smooth: mahining 
+snake: man-og | bitín 
+some: tagpilá 
+spit: duplà | dumuplà	duplâ 
+split: bis-ak | himulagón 
+squeeze: pisgà | i-puga	puga 
+stab: bunô | bumuhó 
+stand: tindog | magtindog	tindog 
+star: bito-on | bituon 
+stick: lipák | sanga 
+stone: bato | bato	bató 
+stone: bató | bato	bató 
+straight: matadlung 
+suck: supsup | supsup	supsupón 
+sun: adlaw 
+swell: habok 
+swim: langóy | langoy	lumangóy 
+tail: ikog | ikug 
+that: inâ | agúd | isa	isá 
+there: dirâ 
+they: silá 
+thick: madamol | malapuyot 
+think: panumdum | isipon	panumdum 
+thin: manipís | maniwang 
+this: iní 
+thou: ikaw | ikaw	ikáw 
+thou: ikáw | ikaw	ikáw 
+three: tatlo | tatlo	tátlu 
+throw: habóy | ipilák 
+tie: higót | baluón 
+tongue: dilà | dila7	dilà	dilâ 
+tooth: ngipon | Nipon	ngipon 
+tree: kahoy 
+turn: lisò, tiyog, likô 
+two: duwá | duhá 
+vomit: suka | suka	sumuka 
+walk: lakát | lakat	lumakát 
+warm: mainit | maalabaab 
+wash: hugas 
+water: tubig 
+we: kitá | kita	kitá 
+wet: basâ 
+what: anó 
+when: san-o | kasan-o 
+where: di-ín | diín 
+white: putî | maputî 
+who: sin-o 
+wide: malapad | masangkad 
+wife: asawa 
+wind: hangin 
+wing: pakpak | pakpák 
+wipe: pahid 
+with: upód kay 
+woman: babaye | babáe 
+worm: ulod 
+year: tu-ig | tuig 
+yellow: bulagáw | kanaryo 
+you: ikáw | ikaw	ikáw | kamó 
+you: kamó | ikaw	ikáw 
+every: tanán 
+ash: abó 
+abdomen: ti-yan	tiyán 
+bigness: lutáw 
+large: lutáw 
+breasts: dughan	suso 
+burn tr.: sunugon 
+come from: kadto	makadto 
+be dead: patay 
+dead: patay 
+fly: lupad 
+fly v.: lupad 
+left hand: kamot	kamut	kamút 
+be knowledgeable: hibal-an	kabalo 
+lie down: higdâ	ibutáng 
+male: lalaki 
+title: Nalan	ngalan 
+nighttime: gab-i	gabi 
+adulterous: isa	isá 
+single: isa	isá 
+the: isa	isá 
+unprincipled: isa	isá 
+human: tao	tawo	táo 
+human being: tao	tawo	táo 
+rainy weather: ulán 
+path: dalan 
+route: dalan 
+hide: panit 
+little: diótay 
+smallness: diótay 
+rock: bato	bató 
+2 sg: ikaw	ikáw 
+grind: duhá 
+go: lakat	lumakát 
+hot: maalabaab 
+1 pl. inc.: kita	kitá 
+we₁: kita	kitá 
+whiteness: maputî 
+who?: sin-o 
+female: babáe 
+distant: malayò 
+serious: mabug-at 
+close: malapit sa 
+ner: malapit sa 
+earthworm: ulod 
+2 pl.: kamó 
+ye: kamó 
+you all: kamó 
+3 pl.: silá 
+where?: diín 
+when?: kasan-o 
+how?: anó 
+broad: masangkad 
+wideness: masangkad 
+fat: sebo 
+principal wife: asawa 
+his mother: nay 
+my mother: nay 
+his father: tatay 
+my father: tatay 
+woods: kagulangan 
+branch: sanga 
+cord: pisi 
+flesh: karne 
+grease: sebo 
+gut: tina-e	tinae 
+insides: tina-e	tinae 
+intestine: tina-e	tinae 
+intestines: tina-e	tinae 
+breath: ginhawa 
+laughter: kadlaw	kumadlaw 
+cogitate: isipon	panumdum 
+reflect: isipon	panumdum 
+sniff: hakluón	simhot 
+afraid: hadlok	kalahadlokán 
+be afraid: hadlok	kalahadlokán 
+fright: hadlok	kalahadlokán 
+alive: mangabuhì 
+be alive: mangabuhì 
+life: mangabuhì 
+living: mangabuhì 
+beat: hinaplit 
+strike: hinaplit 
+hack: hiwaon 
+cut open: himulagón 
+pierce: bumuhó 
+drop: dagdag	hulog	mahulog 
+grasp: punggan 
+hold in arm: punggan 
+wring: i-puga	puga 
+bind: baluón 
+fasten: baluón 
+tie up: baluón 
+enumerate: isip 
+number: isip 
+tally: isip 
+ocean: dagat 
+evil: panuláy 
+rot: pagkadunot 
+filthy: higko	mahigkò 
+soiled: higko	mahigkò 
+blunt: malubóg 
+damp: basâ 
+right side: tu-o	tuó 
+inside: sa 

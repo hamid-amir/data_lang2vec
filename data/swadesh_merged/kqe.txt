@@ -1,0 +1,129 @@
+all: kadet 
+every: kadet 
+ash: qabu 
+ashes: qabu 
+abdomen: buntit 
+belly: buntit 
+big: dakulaq 
+bigness: dakulaq 
+large: dakulaq 
+bird: mannanap na lumupad 
+bite: ma:ngaq 
+black: maitɨm 
+blood: dugu7	duguq 
+bone: pisaq	pusa7 
+breast: qaba	susu 
+breasts: qaba	susu 
+burn: sunug 
+burn tr.: sunug 
+cloud: la:bun 
+cold: manikiq 
+be dead: nyatay 
+dead: nyatay 
+die: nyatay 
+dog: idu7	qiduq 
+drink: inim	qinɨm 
+dry: bilad	magdang 
+ear: taliNa	talinga 
+eat: ka:n 
+egg: qisɨq na manuk 
+eye: mata 
+feather: lakay 
+fire: atuun	qatulun 
+fish: qisdaq 
+fly: lupad 
+fly v.: lupad 
+full: biyag	matmu7 
+good: madyaw 
+green: malunaw 
+hair: lugay 
+hand: b3kt3n	bɨktɨn 
+left hand: b3kt3n	bɨktɨn 
+right: b3kt3n	bɨktɨn 
+head: qulu 
+hear: d3N3g	dɨngɨg 
+kill: patay 
+knee: tuud 
+be knowledgeable: kaqadiqan 
+know: kaqadiqan 
+leaf: dawun 
+liver: atay	qatay 
+long: mala:wig 
+head louse: babing na manuk	kutu 
+louse: babing na manuk	kutu 
+male: qɨsɨg 
+man: qutaw	utaw 
+moon: bulan 
+hill: butay 
+mountain: butay 
+mouth: bakaq 
+name: gaan	nga:lan 
+title: gaan	nga:lan 
+neck: liyɨg 
+new: bagu 
+night: gabi 
+nighttime: gabi 
+nose: iluN	qilung 
+adulterous: isa	sambuk 
+one: isa	sambuk 
+single: isa	sambuk 
+that: isa	sambuk 
+the: isa	sambuk 
+unprincipled: isa	sambuk 
+human: qutaw	utaw 
+human being: qutaw	utaw 
+person: qutaw	utaw 
+rain: qulan 
+rainy weather: qulan 
+red: mapulaq 
+root: dalid 
+sand: pantad 
+say: law 
+see: kitaq	matanaw 
+sit: qingkud 
+hide: kindal	palis 
+skin: kindal	palis 
+sleep: katulug 
+little: tagbiq 
+small: tagbiq 
+smallness: tagbiq 
+smoke: qɨbɨl 
+star: bitun	bituun 
+rock: batu	baʼtu 
+stone: batu	baʼtu 
+swim: kapay 
+tail: qikug 
+tongue: dila7	dilaq 
+tooth: quntu	untu 
+tree: kauy 
+grind: duwa	duwá	duʼwa 
+two: duwa	duwá	duʼwa 
+go: pa:naw 
+walk: pa:naw 
+hot: mapasuq 
+warm: mapasuq 
+water: tubig 
+what: wan 
+white: maputi 
+whiteness: maputi 
+who: singan 
+who?: singan 
+female: bubay 
+woman: bubay 
+yellow: malalag 
+distant: ma:wat 
+far: ma:wat 
+dull: mabɨgat 
+heavy: mabɨgat 
+serious: mabɨgat 
+close: malapit 
+near: malapit 
+ner: malapit 
+salt: qasin 
+short: makagpaq	pa:ndaq 
+snake: qulud 
+thin: manipis 
+wind: samɨt 
+earthworm: watiq 
+worm: watiq 
+year: qumay 

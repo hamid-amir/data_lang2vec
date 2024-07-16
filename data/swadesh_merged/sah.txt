@@ -1,0 +1,334 @@
+all: бары	бүтүн 
+every: бары	бүтүн 
+ash: күл 
+ashes: күл 
+bark: хатырык 
+abdomen: ис 
+belly: ис 
+big: улахан 
+bigness: улахан 
+large: улахан 
+bird: көтөр	чыычаах 
+bite: ытыр 
+black: хара 
+blood: xan	хаан 
+bone: uNuox	унуох	уҥуох 
+breast: ties	түөс	эмиий 
+breasts: ties	түөс	эмиий 
+cloud: былыт 
+cold: мүлүүн	тымныы 
+come: kel	кэл 
+come from: kel	кэл 
+be dead: el	өл 
+dead: el	өл 
+die: el	өл 
+dog: ut	ыт 
+drink: is	ис 
+dry: кураанах 
+ear: kulgax	кулгаах 
+earth: cир	буор 
+ground: cир	буор 
+land: cир	буор 
+soil: cир	буор 
+eat: аһаа	сиэ 
+egg: сымыыт 
+eye: xarax	харах 
+feather: куорсун	түү 
+fire: uot	уот 
+fish: baluk	балык 
+fly: көт 
+fly v.: көт 
+foot: атах 
+full: toloru	толору 
+give: биэр 
+good: үтүө	үчүгэй 
+green: күөх	от күөх 
+hair: ас	баттах	кыл	түү 
+hand: ili 
+left hand: ili 
+right: ili 
+head: бас	төбө 
+hear: ihit	иһит 
+heart: сүрэх 
+horn: muos	муос 
+1 sg.: min	мин 
+I: min	мин 
+kill: өлөр 
+knee: 5ilbek	тобук 
+be knowledgeable: бил 
+know: бил 
+leaf: sebirdex	сэбирдэх 
+liver: buar	быар 
+long: уһун 
+head louse: but	быт 
+louse: but	быт 
+male: эр киһи 
+man: kihi	киһи 
+many: элбэх	үгүс 
+much: элбэх	үгүс 
+multiple: элбэх	үгүс 
+several: элбэх	үгүс 
+moon: ый 
+hill: xaya	хайа 
+mountain: xaya	хайа 
+mouth: айах 
+name: at	аат 
+title: at	аат 
+neck: моой 
+new: saNa	саҥа 
+night: kiehe	түүн 
+nighttime: kiehe	түүн 
+nose: murun	мурун 
+not: суох 
+adulterous: bir	биир 
+one: bir	биир 
+single: bir	биир 
+that: ити	ол	сол 
+the: bir	биир 
+unprincipled: bir	биир 
+human: kihi	киһи 
+human being: kihi	киһи 
+person: kihi	киһи 
+rain: ардах	самыыр 
+rainy weather: ардах	самыыр 
+red: кыһыл 
+path: ayan	suol	суол 
+road: ayan	suol	суол 
+route: ayan	suol	суол 
+root: силис	төрдө 
+round: төгүрүк 
+sand: кумах 
+say: диэ	эт 
+see: ker	көр 
+seed: бурдук	туораах 
+sit: олор 
+hide: tiri	xax	тирии	тэрии 
+skin: tiri	xax	тирии	тэрии 
+sleep: утуй 
+little: куччугуй	кыра 
+small: куччугуй	кыра 
+smallness: куччугуй	кыра 
+smoke: буруо 
+star: sulus	сулус 
+rock: tas	таас 
+stone: tas	таас 
+sun: kin	күн 
+swim: уһун	харбаа 
+tail: кутурук 
+this: бу 
+2 sg: en	эн 
+thou: en	эн 
+you: en	эн 
+tongue: tul	тыл 
+tooth: tis	тиис 
+tree: %mas	мас 
+grind: iki	икки 
+two: iki	икки 
+go: бар	дьаарбай	хаамп 
+walk: бар	дьаарбай	хаамп 
+hot: сылаас 
+warm: сылаас 
+water: уу 
+1 pl. inc.: bihigi	биһиги 
+we: bihigi	биһиги 
+we₁: bihigi	биһиги 
+what: туох 
+white: маҕан	үрүҥ 
+whiteness: маҕан	үрүҥ 
+who: ким 
+who?: ким 
+female: дьахтар 
+woman: дьахтар 
+yellow: араҕас	саһархай 
+distant: ыраах 
+far: ыраах 
+dull: ыар	ыарахан 
+heavy: ыар	ыарахан 
+serious: ыар	ыарахан 
+close: чугас 
+near: чугас 
+ner: чугас 
+salt: туус 
+short: кылгас 
+snake: моҕой	эриэн үөн 
+thin: синньигэс	чараас 
+wind: тыал 
+earthworm: үөн 
+worm: үөн 
+year: дьыл	сыл 
+3 sg.: кини	ол 
+he: кини	ол 
+she: кини	ол 
+2 pl.: эһиги 
+ye: эһиги 
+you all: эһиги 
+3 pl.: кинилэр	олор 
+they: кинилэр	олор 
+here: манна 
+there: онно 
+where: ханна 
+where?: ханна 
+when: хаһан 
+when?: хаһан 
+how: хайдах 
+how?: хайдах 
+some: аҕыйах	ханнык эрэ	хас да 
+few: аҕыйах 
+other: атын 
+three: үс 
+four: түөрт 
+five: биэс 
+broad: киэҥ	кэтит 
+wide: киэҥ	кэтит 
+wideness: киэҥ	кэтит 
+fat: сыа 
+thick: халыҥ 
+narrow: кыараҕас	синньигэс 
+child: оҕо 
+principal wife: кэргэн	ойох 
+wife: кэргэн	ойох 
+husband: эр 
+his mother: ийэ 
+mother: ийэ 
+my mother: ийэ 
+father: аҕа 
+his father: аҕа 
+my father: аҕа 
+animal: кыыл	харамай 
+forest: ойуур	тыа 
+woods: ойуур	тыа 
+branch: баалкы	мас	тайах 
+stick: баалкы	мас	тайах 
+fruit: фрукт 
+flower: сибэкки	чэчик 
+grass: от 
+cord: быа 
+rope: быа 
+flesh: эт 
+meat: эт 
+grease: сыа 
+claw: тыҥырах 
+fingernail: тыҥырах 
+nail: тыҥырах 
+leg: буут 
+arm: илии 
+wing: кынат 
+gut: очоҕос	оһоҕос 
+guts: очоҕос	оһоҕос 
+insides: очоҕос	оһоҕос 
+intestine: очоҕос	оһоҕос 
+intestines: очоҕос	оһоҕос 
+back: арҕа	кэлин 
+suck: эм 
+spit: силлээ	тыбыыр 
+vomit: хайыт	хотуолат 
+blow: үр 
+breath: тыын 
+breathe: тыын 
+laugh: күл 
+laughter: күл 
+cogitate: санаа	өйдөө 
+reflect: санаа	өйдөө 
+think: санаа	өйдөө 
+smell: сыттаа 
+sniff: сыттаа 
+afraid: куттан 
+be afraid: куттан 
+fear: куттан 
+fright: куттан 
+alive: олор	сырыт 
+be alive: олор	сырыт 
+life: олор	сырыт 
+live: олор	сырыт 
+living: олор	сырыт 
+fight: кыргыс	охсус	сэриилэс	туһун 
+hunt: бултаа 
+beat: оҕус	сырбат	сыс 
+hit: оҕус	сырбат	сыс 
+strike: оҕус	сырбат	сыс 
+cut: быс	кыс 
+hack: быс	кыс 
+cut open: хайыт 
+split: хайыт 
+pierce: батары саай	оҕус	тэс	тэһэ 
+stab: батары саай	оҕус	тэс	тэһэ 
+scratch: тыҥырахтаа	хайы тарт 
+dig: хас 
+lie: сыт 
+lie down: сыт 
+tell lies: сыт 
+stand: тур 
+turn: эргий	эргит	эрий 
+turn around: эргий	эргит	эрий 
+turn round: эргий	эргит	эрий 
+drop: түс 
+fall: түс 
+grasp: тут 
+hold: тут 
+hold in arm: тут 
+squeeze: ык 
+wring: ык 
+rub: аал	сот 
+wipe: сот 
+wash: сууй 
+wash clothes: сууй 
+pull: тарт 
+push: ас	үт 
+shove: ас	үт 
+throw: бырах	кэбис	тамнаа 
+bind: баай 
+fasten: баай 
+tie: баай 
+tie up: баай 
+sew: тик 
+count: аах	ахсаанна аах 
+enumerate: аах	ахсаанна аах 
+number: аах	ахсаанна аах 
+tally: аах	ахсаанна аах 
+sing: ыллаа 
+have fun: оонньоо 
+play: оонньоо 
+float: уһун 
+flow: сүүр	хамнаа 
+freeze: тоҥ 
+swell: ис	иһэн таҕыс	көбеө	улаат	үлүн	өндөй 
+brook: өрүс 
+river: өрүс 
+stream: өрүс 
+lake: күөл 
+ocean: байҕал	муора 
+sea: байҕал	муора 
+dust: быыл	күдэн 
+fog: туман 
+sky: халлаан 
+snow: хаар 
+ice: муус 
+blaze: умай	умат	уотта 
+burn: умай	умат	уотта 
+day: күнүс 
+daylight: күнүс 
+daytime: күнүс 
+old: кырдьаҕас	эргэ 
+bad: дьаабы	куһаҕан 
+evil: дьаабы	куһаҕан 
+rot: ириҥэ	сытыйбыт 
+rotten: ириҥэ	сытыйбыт 
+dirty: бадараан	кирдээх 
+filthy: бадараан	кирдээх 
+soiled: бадараан	кирдээх 
+straight: көнө 
+sharp: сытыы 
+blunt: сыппах 
+smooth: дэхси	килэркэй	кылааккай 
+damp: инчэҕэй	сииктээх	уулаах 
+wet: инчэҕэй	сииктээх	уулаах 
+correct: сөп	сөпкө	сөптөөх	таба 
+right side: уҥа 
+left: хаҥас 
+at: -га	-ҕа 
+in: иһигэр 
+inside: иһигэр 
+with: кытары 
+and: уонна 
+if: буоллаҕына	өскө 
+because: ол иһин 

@@ -1,0 +1,265 @@
+all: katoa(toa)	pau	tākatoa	wui	wī 
+every: katoa(toa)	pau	tākatoa	wui	wī 
+ash: lewulewu	malamala 
+ashes: lewulewu	malamala 
+abdomen: manava 
+belly: manava 
+big: tongi	wolo	wowolo 
+bigness: tongi	wolo	wowolo 
+large: tongi	wolo	wowolo 
+bird: manu 
+bite: kati 
+black: uli	uyi 
+blood: toto 
+bone: ivi 
+breast: aloalo	uma	wū 
+breasts: aloalo	uma	wū 
+burn: tutu 
+burn tr.: tutu 
+cloud: kāpuao 
+cold: ano	anu	makalili 
+come: lolo mai	lomamai	lōmamai	wōmamai	yau	ōmamai 
+come from: lolo mai	lomamai	lōmamai	wōmamai	yau	ōmamai 
+be dead: mate	palewa	palewe	payako	pānakia 
+dead: mate	palewa	palewe	payako	pānakia 
+die: mate	palewa	palewe	payako	pānakia 
+dog: akaoa	kuli	kulī	puakaoa 
+drink: inu 
+dry: omoi	pakapaka	wakapakapaka 
+ear: taliNa	talinga 
+eat: kai	kaikai	lamulamu	tamitami	taumamaya 
+egg: wua	wuamoa 
+eye: mata 
+feather: wulu 
+fire: awi 
+fish: ika 
+fly: lele	pepeke	welele 
+fly v.: lele	pepeke	welele 
+good: kalule	leka	lelei	tauyala 
+green: uyingele	yengayenga 
+hair: laūlu 
+hand: lima 
+left hand: lima 
+right: lima 
+head: ulu 
+hear: laNona	langona	loNo	longo 
+1 sg.: aku	au	eku	ēku 
+I: aku	au	eku	ēku 
+kill: patu 
+be knowledgeable: iloa	mau	māwutu	wanewane	īloloa 
+know: iloa	mau	māwutu	wanewane	īloloa 
+leaf: lau 
+lie: moe ki lalo	takoto 
+lie down: moe ki lalo	takoto 
+liver: ate 
+long: loa 
+head louse: lia	watu	wutu 
+louse: lia	watu	wutu 
+male: tāne 
+man: kovi	taNata	tama	tangata 
+moon: maina 
+mouth: ngutu 
+name: iNoa	ingoa 
+title: iNoa	ingoa 
+neck: kakī	u(w)a 
+new: wou 
+night: po	pō 
+nighttime: po	pō 
+nose: iyu 
+adulterous: tayi 
+one: tayi 
+single: tayi 
+that: ia	lā	nā	te(e)ia	tēlā	tēnā 
+the: tayi 
+unprincipled: tayi 
+human: kovi	taNata	tama	tangata 
+human being: kovi	taNata	tama	tangata 
+person: kovi	taNata	tama	tangata 
+rain: u(w)a 
+rainy weather: u(w)a 
+red: kula	melo 
+path: ala	ngutuala 
+road: ala	ngutuala 
+route: ala	ngutuala 
+root: aka 
+sand: kelekele	one	tini 
+say: mea 
+see: kite	kitea 
+sit: nō	nōnō 
+hide: kili	pākili 
+skin: kili	pākili 
+sleep: lowi	moe	momoe 
+little: lewu	liliki 
+small: lewu	liliki 
+smallness: lewu	liliki 
+smoke: au 
+star: mata	wetu	wetū 
+rock: watu 
+stone: watu 
+swim: kakau	tākele 
+tail: yiku 
+this: nei	tēnei	ēnei 
+2 sg: -ou	au	koe 
+thou: -ou	au	koe 
+you: -ou	au	koe 
+tongue: alelo 
+tooth: nio 
+tree: lakau 
+grind: lua 
+two: lua 
+go: yaele	yāeleele 
+walk: yaele	yāeleele 
+hot: māyana	vela 
+warm: māyana	vela 
+water: yua 
+1 pl. inc.: a māua	a tāua	matou	mātou	māua	taua	tātou	tāua 
+we: a māua	a tāua	matou	mātou	māua	taua	tātou	tāua 
+we₁: a māua	a tāua	matou	mātou	māua	taua	tātou	tāua 
+what: wea 
+white: kena	mumuka 
+whiteness: kena	mumuka 
+who: ai 
+who?: ai 
+female: wawine	wāwine 
+woman: wawine	wāwine 
+yellow: yengayenga 
+distant: mamao 
+far: mamao 
+dull: taenawa	taewana 
+heavy: taenawa	taewana 
+serious: taenawa	taewana 
+close: pili	vātata 
+near: pili	vātata 
+ner: pili	vātata 
+salt: miti 
+short: poto	pūnekeneke	pūpoto 
+snake: ōvī 
+thin: lalawi	tutule 
+wind: matangi 
+earthworm: veli 
+worm: veli 
+year: matawiti	tākalonga 
+2 pl.: kōlua	kōtou 
+ye: kōlua	kōtou 
+you all: kōlua	kōtou 
+3 pl.: lātou	lāua 
+they: lātou	lāua 
+where: i wea 
+where?: i wea 
+when: wea 
+when?: wea 
+how: pēwea 
+how?: pēwea 
+other: kē	toe 
+three: tolu 
+four: wa	wā 
+five: lima 
+broad: lapalapa 
+wide: lapalapa 
+wideness: lapalapa 
+fat: matū	ngako	tutuyi	tōngāua 
+thick: mātolu 
+narrow: kakō	kauliliki	koyīti 
+principal wife: wawine 
+wife: wawine 
+husband: tāne 
+his mother: matua wawine 
+mother: matua wawine 
+my mother: matua wawine 
+father: matua tāne 
+his father: matua tāne 
+my father: matua tāne 
+forest: vao 
+woods: vao 
+branch: lā 
+stick: lā 
+fruit: wua 
+flower: pua	tiale 
+grass: vayavaya 
+cord: kawa	taula 
+rope: kawa	taula 
+flesh: kiko 
+meat: kiko 
+grease: matū	ngako	tutuyi	tōngāua 
+wing: kapakapa	pakayau 
+gut: ngākau	taepili 
+guts: ngākau	taepili 
+insides: ngākau	taepili 
+intestine: ngākau	taepili 
+intestines: ngākau	taepili 
+back: tua 
+suck: miti	ngote 
+spit: puaki	yūvale 
+vomit: lua	luaki 
+blow: puyi	āngi 
+breath: akaea 
+breathe: akaea 
+laugh: kata	kākata 
+laughter: kata	kākata 
+cogitate: manako	manatu	mayala 
+reflect: manako	manatu	mayala 
+think: manako	manatu	mayala 
+smell: yongi 
+sniff: yongi 
+afraid: mataku	mātataku 
+be afraid: mataku	mātataku 
+fear: mataku	mātataku 
+fright: mataku	mātataku 
+alive: ola	ōla 
+be alive: ola	ōla 
+life: ola	ōla 
+live: ola	ōla 
+living: ola	ōla 
+hunt: ulu	wuli	yākili 
+beat: patu	vayi 
+hit: patu	vayi 
+strike: patu	vayi 
+cut: koti	yemu 
+hack: koti	yemu 
+cut open: vavayi	vayi 
+split: vavayi	vayi 
+pierce: kō	yuki 
+stab: kō	yuki 
+scratch: laku 
+dig: keli	tolo 
+stand: tū	wetū 
+drop: makulu	pangulu	tō	yinga	yīyinga 
+fall: makulu	pangulu	tō	yinga	yīyinga 
+grasp: liko	tango 
+hold: liko	tango 
+hold in arm: liko	tango 
+squeeze: kuku	kume 
+wring: kuku	kume 
+throw: kamo	newu	tili	uti 
+bind: yele 
+fasten: yele 
+tie: yele 
+tie up: yele 
+sew: tui 
+count: kauwi	tatau	wakalau 
+enumerate: kauwi	tatau	wakalau 
+number: kauwi	tatau	wakalau 
+tally: kauwi	tatau	wakalau 
+flow: yeke 
+lake: loto 
+ocean: moana	tai 
+sea: moana	tai 
+dust: lewu 
+sky: langi 
+bad: kino 
+evil: kino 
+rot: eku	papala	vī 
+rotten: eku	papala	vī 
+dirty: lepo	pakuongea	palanui 
+filthy: lepo	pakuongea	palanui 
+soiled: lepo	pakuongea	palanui 
+sharp: kokoi	niniva 
+blunt: penu	tuma 
+damp: yuyū 
+wet: yuyū 
+right side: mātau 
+left: māyui 
+in: loto 
+inside: loto 
+and: ma 
+if: mē	pē	pī 

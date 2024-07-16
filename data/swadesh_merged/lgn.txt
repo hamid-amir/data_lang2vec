@@ -1,0 +1,288 @@
+all: mbiri 
+ashes: piti 
+back: sitin 
+bad: ˗kɔ 
+bark: čɪa | gwaːŋgé	čɪa 
+bark: gwaːŋgé | gwaːŋgé	čɪa 
+belly: puma | puma	pumaː 
+belly: pumaː | puma	pumaː 
+big: antuan | -tɔn	antuan 
+big: ˗tɔn | -tɔn	antuan 
+bird: d\iu | dʼiu	ɗiu 
+bird: ɗiu | dʼiu	ɗiu 
+bite: hʷɔc\ɔ | hɔcʼɔ	hʷɔcʼɔ 
+bite: hɔc\ɔ | hɔcʼɔ	hʷɔcʼɔ 
+black: anč\i | ančʼi 
+blood: č\amaʔ | C"ama7	cʼəma	čʼamaʔ 
+blood: c\əma | C"ama7	cʼəma	čʼamaʔ 
+blow: pʰwan 
+bone: šwe | šwe	šwi 
+bone: šwi | šwe	šwi 
+breast: kue | kue	kwei 
+breast: kwei | kue	kwei 
+breathe: sikʰ 
+brother: hamma 
+burn: sa 
+burn: syaotiː 
+claw: č\ik\ir | cʼikʼir	čʼikʼir 
+claw: c\ik\ir | cʼikʼir	čʼikʼir 
+cloud: šali | šali	ǯibal 
+cloud: ǯibal | šali	ǯibal 
+cold: c\em | cʼem	čʼɪm 
+cold: č\ɪm | cʼem	čʼɪm 
+come: ɟo | jo	ǯoː	ɟo 
+come: ǯoː | jo	ǯoː	ɟo 
+cut: mətya 
+cut: yepf 
+die: aruwei | aruwei	weː	wɛi 
+die: weː | aruwei	weː	wɛi 
+die: wɛi | aruwei	weː	wɛi 
+dig: can 
+dog: teine | teine	teni 
+dog: teni | teine	teni 
+drink: apii | api	apii	pi-	yip 
+drink: pi˗ | api	apii	pi-	yip 
+drink: yip | api	apii	pi-	yip 
+dry: aŋk\ao | -kɔcʼɔ	aŋkʼao 
+dry: ˗kɔc\ɔ | -kɔcʼɔ	aŋkʼao 
+ear: č\ɪː | C"i	cʼe	čʼɪː 
+ear: c\e | C"i	cʼe	čʼɪː 
+earth: k\ɔc\ɔ 
+eat: sa | sa	syaːn 
+eat: syaːn | sa	syaːn 
+egg: komo | komo	kumu 
+egg: kumu | komo	kumu 
+eye: ɟe | ji	šʷi	ǯii	ɟe 
+eye: šʷi | ji	šʷi	ǯii	ɟe 
+eye: ǯii | ji	šʷi	ǯii	ɟe 
+fall: ampalo 
+far: set | set	sit 
+far: sit | set	sit 
+father: šommoʔ 
+fat (n.): ɟɛni 
+fat (n.): ǯiniʔ 
+fear: kowges 
+fire: wɔt\i | wut"i	wɔtʼi	wʊtʼi 
+fire: wʊt\i | wut"i	wɔtʼi	wʊtʼi 
+fish: wacʰa | wacʰa	watya	waty~a 
+fish: watya | wacʰa	watya	waty~a 
+five: muta˗kwei 
+fly (n.): kincʰa 
+fly (n.): tincʰa 
+foot: cok | cok	wʊni 
+foot: wʊni | cok	wʊni 
+full: tuta 
+give: kɛl˗ | kɛl- 
+good: aŋk\ai | -kai	aŋkʼai 
+good: ˗kai | -kai	aŋkʼai 
+grass: šo 
+grass: sokuʔ 
+green: cirr˗ | cirr- 
+hair: šiyɛn | šiyɛn	šuyɛn 
+hair: šuyɛn | šiyɛn	šuyɛn 
+hand: bit˗ | -kwei	-mitʼ	bit-	k"w~i	kʼiwi	kʼwi 
+hand: k\iwi | -kwei	-mitʼ	bit-	k"w~i	kʼiwi	kʼwi 
+hand: ˗kwei | -kwei	-mitʼ	bit-	k"w~i	kʼiwi	kʼwi 
+hand: k\wi | -kwei	-mitʼ	bit-	k"w~i	kʼiwi	kʼwi 
+hand: ˗mit\ | -kwei	-mitʼ	bit-	k"w~i	kʼiwi	kʼwi 
+head: buk\ɔ͂p | bukʼɔ̃p	kopʰ	kʼup 
+head: kopʰ | bukʼɔ̃p	kopʰ	kʼup 
+head: k\up | bukʼɔ̃p	kopʰ	kʼup 
+hear: aɣkaraʔ | akara7	aɣkaraʔ	kar- 
+hear: kar˗ | akara7	aɣkaraʔ	kar- 
+heart: asik\ | asikʼ 
+heavy: t\ekaw | tʼekaw 
+here: apieno 
+hit: torarr 
+horn: keo | keo	kiu	kiú 
+horn: kiu | keo	kiu	kiú 
+horn: kiú | keo	kiu	kiú 
+I: aga 
+kill: k\ɔso | kosuan	kʼɔso 
+kill: kosuan | kosuan	kʼɔso 
+knee: k\uǯin | k"ujin	kwɔɟɛn	kʼuǯin 
+knee: kwɔɟɛn | k"ujin	kwɔɟɛn	kʼuǯin 
+know: agil˗ | agil-	aragɛlat 
+know: aragɛlat | agil-	aragɛlat 
+leaf: ča | Ca	ča 
+left: dok\əm 
+liver: č\ok\om | C"ok"om	duwen	čʼokʼom 
+liver: duwen | C"ok"om	duwen	čʼokʼom 
+long: nanisʲiɛk | nanisʲiɛk	sek 
+long: sek | nanisʲiɛk	sek 
+louse: šuk\ɛn 
+man: okaty | opuo7	sita 
+man: opuoʔ | opuo7	sita 
+many: ˗sai | -sai	ũšai 
+many: u͂šai | -sai	ũšai 
+meat: šuma 
+meat: šumaʔ 
+moon: addwe | addwe	dwəi 
+moon: dwəi | addwe	dwəi 
+mountain: ǯao | jao	ǯao 
+mouth: t\a | tʼa 
+name: ɟuga | yintiyn	yint~in	ɟuga 
+name: yintiyn | yintiyn	yint~in	ɟuga 
+near: ˗isu | -isu 
+neck: bia | bia	biaʔ	ɓia 
+neck: biaʔ | bia	biaʔ	ɓia 
+neck: ɓia | bia	biaʔ	ɓia 
+new: apiu | apiu	ɟɛkis 
+new: ɟɛkis | apiu	ɟɛkis 
+night: ˗siːt | -siːt	jiEtao	ǯiɛtao 
+night: ǯiɛtao | -siːt	jiEtao	ǯiɛtao 
+old: koba 
+one: ɗeɗe | 3*suk"a	didi	ɔ̃sukʼaː	ɗeɗe 
+one: didi | 3*suk"a	didi	ɔ̃sukʼaː	ɗeɗe 
+one: ɔ͂suk\aː | 3*suk"a	didi	ɔ̃sukʼaː	ɗeɗe 
+person: sita | opuo7	sita 
+pull: hadi˗ 
+push: lawr˗ 
+rain: hɔ 
+rat: c\igi 
+red: ə͂k\apaː | kapa	ə̃kʼapaː 
+red: kapa | kapa	ə̃kʼapaː 
+right: ket | -kwei	-mitʼ	bit-	k"w~i	kʼiwi	kʼwi 
+road: ˗purr | jiopur 
+road: ǯiopur | jiopur 
+root: kil | kil	usʲitšʼa 
+root: usʲitš\a | kil	usʲitšʼa 
+rope: šul 
+salt: taš | taš 
+sand: poisa | poisa	poyaʔ	pɔya 
+sand: poyaʔ | poisa	poyaʔ	pɔya 
+sand: pɔya | poisa	poyaʔ	pɔya 
+say: tan | tan	tʼɛtʼan 
+say: t\ɛt\an | tan	tʼɛtʼan 
+scratch: c\ɔc\o 
+seed: ɟese | kʼakʼa	ɟese 
+seed: k\ak\a | kʼakʼa	ɟese 
+see: gel˗ | gel-	gileZai7	gɪležaiʔ 
+see: gɪležaiʔ | gel-	gileZai7	gɪležaiʔ 
+sew: k\ɔs 
+sharp: ˗kaka 
+short: ˗tul | -tul 
+sit: watini 
+skin: dinč\a | dinC"a	dincʼa	dinčʼa 
+skin: dinc\a | dinC"a	dincʼa	dinčʼa 
+sky: wɔs 
+sleep: bat˗ | bat-	nadisʲuʔ 
+sleep: nadisʲuʔ | bat-	nadisʲuʔ 
+small: aŋkala 
+smoke: kura | kura	kuraotʼi 
+smoke: kuraot\i | kura	kuraotʼi 
+snake: ɟoːʔ | ǯooʔ	ɟoːʔ	ɟɔ 
+snake: ɟɔ | ǯooʔ	ɟoːʔ	ɟɔ 
+snake: ǯooʔ | ǯooʔ	ɟoːʔ	ɟɔ 
+stand: p\ewɔš 
+stand: wurɟe 
+star: pisakɔ | pisako7	pisakɔ	pɪsakoʔ 
+star: pɪsakoʔ | pisako7	pisakɔ	pɪsakoʔ 
+stone: ɟao 
+sun: taː | ta	tai	taː 
+sun: tai | ta	tai	taː 
+sweet: ɟɛne˗ 
+sweet: ku 
+swim: tɛɟil | tɛɟil	wunitaiǯiɛn 
+swim: wunitaiǯiɛn | tɛɟil	wunitaiǯiɛn 
+tail: uːl | uːl	wʊl 
+tail: wʊl | uːl	wʊl 
+take: pac˗ 
+that: ˗re | -re 
+there: ateru 
+think: car˗ 
+thin: tetes 
+this: ˗ge | -ge	hotaː 
+this: hotaː | -ge	hotaː 
+thou: ay 
+thou: bwa | ay 
+thou: uma | ay 
+three: ə͂tusʲa 
+three: tušu 
+throw: siŋ˗ 
+tie: ti˗ 
+tongue: lit\a | lit"a7	litʼa	litʼaʔ 
+tongue: lit\aʔ | lit"a7	litʼa	litʼaʔ 
+tooth: se | se	syiː	sy~i 
+tooth: syiː | se	syiː	sy~i 
+tree: ca | C"e 
+tree: če | C"e 
+tree: tya | C"e 
+turn: wut˗ 
+two: adidyan | adidyan	adidy~an	cuka	suka 
+two: suka | adidyan	adidy~an	cuka	suka 
+vagina: pit 
+walk: ɟa 
+walk: iǯaʔ 
+walk: wiya 
+walk: ya 
+warm: aŋkagaʔ | aŋkagaʔ	kaga 
+warm: kaga | aŋkagaʔ	kaga 
+water: ɟi | ji	yiʔi	ǯiː	ɟi 
+water: yiʔi | ji	yiʔi	ǯiː	ɟi 
+water: ǯiː | ji	yiʔi	ǯiː	ɟi 
+weep: ˗kwe 
+we (excl.): mina 
+we (incl.): mana 
+wet: ˗cirr 
+we: umaʔ | mana	uma7 
+what: taiwaʔ | taiwaʔ	təna 
+what: təna | taiwaʔ	təna 
+when: gawe 
+where: ta ai 
+white: ampaɔt\a | ampaɔtʼa	pata 
+white: pata | ampaɔtʼa	pata 
+who: moi | moi	tawa 
+who: tawa | moi	tawa 
+woman: bapa 
+year: kwawɟi 
+yes: piɛno 
+every: mbiri 
+ash: piti 
+abdomen: puma	pumaː 
+bigness: -tɔn	antuan 
+large: -tɔn	antuan 
+breasts: kue	kwei 
+nail: cʼikʼir	čʼikʼir 
+talon: cʼikʼir	čʼikʼir 
+come from: jo	ǯoː	ɟo 
+be dead: aruwei	weː	wɛi 
+dead: aruwei	weː	wɛi 
+left hand: -kwei	-mitʼ	bit-	k"w~i	kʼiwi	kʼwi 
+1 sg.: aga 
+be knowledgeable: agil-	aragɛlat 
+male: okaty	opuoʔ 
+much: -sai	ũšai 
+multiple: -sai	ũšai 
+several: -sai	ũšai 
+hill: jao	ǯao 
+title: yintiyn	yint~in	ɟuga 
+nighttime: -siːt	jiEtao	ǯiɛtao 
+nose: cuc	sy~usy~u	sɔsɔ	sʲusʲu 
+adulterous: 3*suk"a	didi	ɔ̃sukʼaː	ɗeɗe 
+single: 3*suk"a	didi	ɔ̃sukʼaː	ɗeɗe 
+the: 3*suk"a	didi	ɔ̃sukʼaː	ɗeɗe 
+unprincipled: 3*suk"a	didi	ɔ̃sukʼaː	ɗeɗe 
+human: opuo7	sita 
+human being: opuo7	sita 
+rainy weather: hɔ 
+path: jiopur 
+route: jiopur 
+hide: dinC"a	dincʼa	dinčʼa 
+little: aŋkala 
+smallness: aŋkala 
+rock: ɟao 
+2 sg: ay 
+you: ay 
+grind: adidyan	adidy~an	cuka	suka 
+hot: aŋkagaʔ	kaga 
+1 pl. inc.: mana	uma7 
+we₁: mana	uma7 
+whiteness: ampaɔtʼa	pata 
+who?: moi	tawa 
+female: bapa 
+distant: set	sit 
+dull: tʼekaw 
+serious: tʼekaw 
+close: -isu 
+ner: -isu 

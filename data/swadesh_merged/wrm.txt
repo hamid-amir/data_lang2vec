@@ -1,0 +1,272 @@
+all: muku	mukuɲa 
+every: muku	mukuɲa 
+ash: waɹ̣ar	wupa 
+ashes: waɹ̣ar	wupa 
+bark: gurma 
+abdomen: munku 
+belly: munku 
+big: gumpu	maḷuga	pulka 
+bigness: gumpu	maḷuga	pulka 
+large: gumpu	maḷuga	pulka 
+bird: ɟulaga 
+bite: bu- 
+black: waḷbaḷaŋi	wumbur	wumburaṇi 
+blood: garin	gariṇ 
+bone: ?lirmi	gaḍa-gaḍa	gaḍagaḍa 
+breast: ŋamuna 
+breasts: ŋamuna 
+claw: lipi	lirpi 
+nail: lipi	lirpi 
+talon: lipi	lirpi 
+cloud: liriga	madayi	mambun	mampun	maḍayi 
+cold: waṇa 
+come: apa- 
+come from: apa- 
+be dead: bala-	duʎu-barama- 
+dead: bala-	duʎu-barama- 
+die: bala-	duʎu-barama- 
+dog: gunaba 
+drink: ɟalubu- 
+dry: maṇḍamaṇḍa 
+ear: guwaḍa 
+earth: nara 
+ground: nara 
+land: nara 
+soil: nara 
+eat: ɟaca- 
+egg: mula	muɲcu 
+eye: miyil 
+feather: limpi 
+fire: waḷugun 
+fish: liwaɲɟa 
+fly: aba- 
+fly v.: aba- 
+foot: ɟina 
+give: ɲu- 
+good: biliyi 
+green: guraʎ-	guɹ̣aʎ-	waɟirgi 
+hair: murka 
+hand: daka	muṇari	taka 
+left hand: daka	muṇari	taka 
+right: daka	muṇari	taka 
+head: buluɟu	buḷuɟu	puḷuɟu 
+hear: bina-	bina-ɟa- 
+heart: maṇḍulga	maṇḍuḷga 
+1 sg.: aṇi 
+I: aṇi 
+kill: piʎ-walbu- 
+knee: miḍinbi 
+be knowledgeable: garimu-	gayirmu- 
+know: garimu-	gayirmu- 
+leaf: maḷa 
+lie: labir ŋu-	ŋu- 
+lie down: labir ŋu-	ŋu- 
+liver: malimbari 
+long: ɟunmaṇ 
+male: gaṭi 
+man: gariɲ	gaṭi 
+many: maḷuga	wakabi	ɟulali 
+much: maḷuga	wakabi	ɟulali 
+multiple: maḷuga	wakabi	ɟulali 
+several: maḷuga	wakabi	ɟulali 
+flesh: maku 
+meat: maku 
+moon: gaṇka 
+hill: waŋari 
+mountain: waŋari 
+mouth: ɟala 
+name: wini 
+title: wini 
+neck: waɲkuru 
+new: bayindi-alki 
+night: dabiŋaɹ̣a	dabiɲŋaɹ̣a 
+nighttime: dabiŋaɹ̣a	dabiɲŋaɹ̣a 
+nose: ŋuru 
+not: wara 
+adulterous: jändi	yaṇḍi 
+one: jändi	yaṇḍi 
+single: jändi	yaṇḍi 
+that: ala 
+the: jändi	yaṇḍi 
+unprincipled: jändi	yaṇḍi 
+human: gariɲ	gaṭi 
+human being: gariɲ	gaṭi 
+person: gariɲ	gaṭi 
+rain: ŋapa 
+rainy weather: ŋapa 
+red: buʎur-	buʎuruʎuru 
+root: baṭa	dakamaḷa	wiḷi 
+round: umbuɹ̣u 
+sand: waʎbaɹ̣i	ɟuʎpu 
+say: waʎbaɹ̣i	ɟuʎpu 
+see: ɲa- 
+seed: giːli	ŋaḷi	ɟilpi 
+sit: bara-ma-	barama-	ɲi- 
+hide: ɲuru 
+skin: ɲuru 
+sleep: duḍu	maṇŋi ŋu- 
+little: maːɲɟun 
+small: maːɲɟun 
+smallness: maːɲɟun 
+smoke: wiɲal	wiɲaḷ 
+star: gukunu	wuḷbaɹ̣ari	wuḷukunu 
+rock: ?waŋari	lari-lari	layi-layi 
+stone: ?waŋari	lari-lari	layi-layi 
+sun: giʎir 
+swim: ?gaʎar-walbu-	gaŋgur-anpa-	gaŋgur-wanpa- 
+tail: baḷa	biɟiwuna	ŋinti 
+this: ŋala 
+2 sg: aŋi 
+thou: aŋi 
+you: aŋi 
+tongue: ɟaɹ̣aɲ 
+tooth: lirpi	ɟala 
+grind: gudjara	kucara 
+two: gudjara	kucara 
+go: aba- 
+walk: aba- 
+hot: buṇṭur 
+warm: buṇṭur 
+water: ŋapa	ɟiriri 
+1 pl. inc.: aɲul 
+we: aɲul 
+we₁: aɲul 
+what: ɲayi 
+white: bunuɹ̣u	buṇuɹ̣u 
+whiteness: bunuɹ̣u	buṇuɹ̣u 
+who: ɲayi 
+who?: ɲayi 
+female: dabali	dapaʎi	giriɟi 
+woman: dabali	dapaʎi	giriɟi 
+yellow: wiɹ̣iŋgir	wiɹ̣iŋgir wiɹ̣iŋgir 
+distant: wati 
+far: wati 
+dull: aḍiwiɲɟi	aḍwiɲɟi	gumpu 
+heavy: aḍiwiɲɟi	aḍwiɲɟi	gumpu 
+serious: aḍiwiɲɟi	aḍwiɲɟi	gumpu 
+close: gara-gara	garagara 
+near: gara-gara	garagara 
+ner: gara-gara	garagara 
+short: baḷkar	muːḍ-waɹ̣i- 
+snake: yurkulu	yurkuḷu 
+thin: maŋguḷu	winbilwinbil 
+wind: wutu	wuṭu 
+earthworm: magamaga 
+worm: magamaga 
+2 pl.: akul	arkul 
+ye: akul	arkul 
+you all: akul	arkul 
+3 pl.: acul 
+they: acul 
+where: waɲɟa	ɲaŋi-ncin-ci 
+where?: waɲɟa	ɲaŋi-ncin-ci 
+when: ɲayi-l 
+when?: ɲayi-l 
+how: ɲaŋir 
+how?: ɲaŋir 
+few: yurgadi 
+other: ɟaṭi	ɟaṭu 
+three: kucara-yaṇḍi	wurgadi 
+broad: gaḷpa	ŋaṇa gaḷba 
+wide: gaḷpa	ŋaṇa gaḷba 
+wideness: gaḷpa	ŋaṇa gaḷba 
+narrow: daɟa baḍa-	wupaṇ 
+child: bigabika	giwaɹ̣i	gurma	maɲiŋkidayi 
+principal wife: gaḍuŋuɲu 
+wife: gaḍuŋuɲu 
+husband: gaʎagaʎa 
+his mother: gaṇandi 
+mother: gaṇandi 
+my mother: gaṇandi 
+father: gambaɟu 
+his father: gambaɟu 
+my father: gambaɟu 
+animal: guyu 
+forest: muɹ̣u 
+woods: muɹ̣u 
+branch: wulu 
+stick: wulu 
+fruit: gunamabi 
+flower: guʎa	ɟaḷpar 
+grass: gaḷkur 
+fingernail: lipi	lirpi 
+leg: waḷi 
+wing: limpi 
+gut: guna 
+guts: guna 
+insides: guna 
+intestine: guna 
+intestines: guna 
+back: gaṭuŋga 
+suck: biɲ-baɹ̣a-	buʎ-buʎ-ɟaca- 
+spit: baraʎ-ŋaɹ̣abu- 
+vomit: mampu-ɲi- 
+blow: duɹ̣u-ɟa 
+breath: ŋaki-ŋaki-ɟa-	ŋarka-ŋarki-ɟa- 
+breathe: ŋaki-ŋaki-ɟa-	ŋarka-ŋarki-ɟa- 
+laugh: wiʎa-ɟa	wiʎa-ɟa-	wiʎar-ɟa- 
+laughter: wiʎa-ɟa	wiʎa-ɟa-	wiʎar-ɟa- 
+cogitate: ɟamur-ɟa- 
+reflect: ɟamur-ɟa- 
+think: ɟamur-ɟa- 
+smell: ?biṇḍi-mu-	bindimu- 
+sniff: ?biṇḍi-mu-	bindimu- 
+alive: ɲi- 
+be alive: ɲi- 
+life: ɲi- 
+live: ɲi- 
+living: ɲi- 
+fight: gili 
+beat: walbu-	wuɹ̣u 
+hit: walbu-	wuɹ̣u 
+strike: walbu-	wuɹ̣u 
+cut: waŋa-	ɟir baga- 
+hack: waŋa-	ɟir baga- 
+scratch: waraḍa-	ŋamuɹ̣u- 
+dig: ŋamuɹ̣u 
+stand: ɟa- 
+drop: wanpa- 
+fall: wanpa- 
+grasp: bargamara	barkama- 
+hold: bargamara	barkama- 
+hold in arm: bargamara	barkama- 
+squeeze: muɲur-gu-	wiɹ̣iʎir gunuḷa	ɟuʎ-gu- 
+wring: muɲur-gu-	wiɹ̣iʎir gunuḷa	ɟuʎ-gu- 
+rub: apa- 
+wipe: apa- 
+throw: ŋaɹ̣abu- 
+bind: diṇgir-bu	garpa- 
+fasten: diṇgir-bu	garpa- 
+tie: diṇgir-bu	garpa- 
+tie up: diṇgir-bu	garpa- 
+sew: baka- 
+sing: wina- 
+have fun: wiʎa-ɟa-	wiʎara-ɟa- 
+play: wiʎa-ɟa-	wiʎara-ɟa- 
+flow: maṇi-ɟi- 
+brook: gaḷambi 
+river: gaḷambi 
+stream: gaḷambi 
+dust: nara	ɟiʎiwaɹ̣a 
+fog: ɟacula 
+sky: balambar 
+blaze: yuŋgu-	ɟara-	ɟarala- 
+burn: yuŋgu-	ɟara-	ɟarala- 
+day: giʎiri 
+daylight: giʎiri 
+daytime: giʎiri 
+bad: waŋu 
+evil: waŋu 
+rot: buka 
+rotten: buka 
+dirty: ɟududu-ṇḍi-	ɲumpun 
+filthy: ɟududu-ṇḍi-	ɲumpun 
+soiled: ɟududu-ṇḍi-	ɲumpun 
+straight: ɟurkul 
+sharp: dalgara	ɟalgaɹ̣a 
+smooth: gaɹ̣aʎ-gaɹ̣aʎ	waʎali 
+damp: baḷpu 
+wet: baḷpu 
+correct: biliyi 
+right side: ɟurka 
+left: ɟaku	ɟakur 

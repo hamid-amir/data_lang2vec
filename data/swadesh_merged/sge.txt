@@ -1,0 +1,264 @@
+all: bèbèʼ 
+every: bèbèʼ 
+ash: awow 
+ashes: awow 
+abdomen: soh 
+belly: soh 
+big: pohong 
+bigness: pohong 
+large: pohong 
+bird: mnuk 
+bite: kap 
+black: maèdang 
+blood: le7a	leʼa 
+bone: talaN	talang 
+breast: gi7	giʼ 
+breasts: gi7	giʼ 
+burn: tong 
+burn tr.: tong 
+cloud: awun 
+cold: menugè	sengam 
+come: tawo7	tawoʼ 
+come from: tawo7	tawoʼ 
+be dead: lewas 
+dead: lewas 
+die: lewas 
+dog: asaw 
+drink: yo7	yoʼ 
+dry: kuhung 
+ear: bal 
+eat: mun 
+egg: klo 
+eye: mtan 
+feather: blun 
+fire: epo3	epoè 
+fish: atuk 
+fly: myang 
+fly v.: myang 
+good: kas 
+green: melhom 
+hair: wok 
+hand: eguy 
+left hand: eguy 
+right: eguy 
+head: tekhung 
+hear: NahajiN	ngahajing 
+1 sg.: kuy 
+I: kuy 
+kill: ngejap 
+be knowledgeable: ptèng 
+know: ptèng 
+leaf: CoN	cong 
+lie: neklèʼ 
+lie down: neklèʼ 
+liver: hata3	hataè 
+long: kejaʼ 
+head louse: taw 
+louse: taw 
+male: menkaè 
+man: lun 
+moon: wulun 
+mouth: msung 
+name: Nelan	ngelan 
+title: Nelan	ngelan 
+neck: ngeléang 
+new: melkiaN	melkiang 
+night: dam 
+nighttime: dam 
+nose: yuN	yung 
+adulterous: Ci7	ciʼ 
+one: Ci7	ciʼ 
+single: Ci7	ciʼ 
+that: tuy 
+the: Ci7	ciʼ 
+unprincipled: Ci7	ciʼ 
+human: lun 
+human being: lun 
+person: lun 
+rain: ci:n 
+rainy weather: ci:n 
+red: masa:k 
+path: gulan 
+road: gulan 
+route: gulan 
+root: ukah 
+sand: belngin 
+say: pesiu 
+see: NaN	ngang 
+sit: ngo 
+hide: laes	laés 
+skin: laes	laés 
+sleep: duʼ 
+little: soʼ 
+small: soʼ 
+smallness: soʼ 
+smoke: son 
+star: tel7~an	telʼan 
+rock: wutaw 
+stone: wutaw 
+swim: joʼ 
+tail: cik 
+this: nèk 
+2 sg: ki7	kiʼ 
+thou: ki7	kiʼ 
+you: ki7	kiʼ 
+tongue: kelah 
+tooth: kiu 
+grind: ago7	agoʼ 
+two: ago7	agoʼ 
+go: naw 
+walk: naw 
+hot: elsuk 
+warm: elsuk 
+water: Nuy	nguy 
+1 pl. inc.: ma:è	tam 
+we: ma:è	tam 
+we₁: ma:è	tam 
+what: non 
+white: meslet 
+whiteness: meslet 
+who: hèʼcuʼ 
+who?: hèʼcuʼ 
+female: madoh 
+woman: madoh 
+yellow: masè:u 
+distant: jaʼ 
+far: jaʼ 
+dull: bahat 
+heavy: bahat 
+serious: bahat 
+close: dalaʼ 
+near: dalaʼ 
+ner: dalaʼ 
+salt: siʼjaʼ 
+short: guwiʼ 
+snake: pèʼ 
+thin: pis 
+wind: kelʼaw 
+earthworm: beslang 
+worm: beslang 
+year: teʼon 
+2 pl.: uma:è bobè 
+ye: uma:è bobè 
+you all: uma:è bobè 
+3 pl.: cun 
+they: cun 
+where: emaw 
+where?: emaw 
+when: nemow 
+when?: nemow 
+how: dasiʼenmaw 
+how?: dasiʼenmaw 
+other: alap 
+three: atlaw 
+four: pat 
+broad: blia:ng 
+wide: blia:ng 
+wideness: blia:ng 
+fat: mak 
+thick: mang 
+narrow: dat 
+principal wife: segun 
+wife: segun 
+husband: segun 
+his mother: nè 
+mother: nè 
+my mother: nè 
+father: mam 
+his father: mam 
+my father: mam 
+forest: mitʼnaʼ 
+woods: mitʼnaʼ 
+branch: leʼan 
+stick: leʼan 
+fruit: guʼ 
+flower: pong 
+grass: law 
+cord: tlaè 
+rope: tlaè 
+flesh: sè:n 
+meat: sè:n 
+grease: mak 
+wing: pit 
+gut: tèʼèn buʼ 
+guts: tèʼèn buʼ 
+insides: tèʼèn buʼ 
+intestine: tèʼèn buʼ 
+intestines: tèʼèn buʼ 
+back: maè ʼèng 
+suck: jieuk 
+spit: menyuʼ 
+vomit: tuʼ 
+blow: sijup 
+breath: nelèsngèn 
+breathe: nelèsngèn 
+laugh: loʼ 
+laughter: loʼ 
+cogitate: ngeusang 
+reflect: ngeusang 
+think: ngeusang 
+smell: nebuʼ 
+sniff: nebuʼ 
+afraid: kut 
+be afraid: kut 
+fear: kut 
+fright: kut 
+alive: blom 
+be alive: blom 
+life: blom 
+live: blom 
+living: blom 
+hunt: lèng saw 
+beat: bup 
+hit: bup 
+strike: bup 
+cut: tole 
+hack: tole 
+cut open: èntah 
+split: èntah 
+pierce: nenglow 
+stab: nenglow 
+scratch: enjiu 
+dig: kat 
+stand: nekjiang 
+drop: peʼak 
+fall: peʼak 
+grasp: kam 
+hold: kam 
+hold in arm: kam 
+squeeze: msit 
+wring: msit 
+throw: encil 
+bind: wal 
+fasten: wal 
+tie: wal 
+tie up: wal 
+sew: mehot 
+count: melèkin 
+enumerate: melèkin 
+number: melèkin 
+tally: melèkin 
+flow: mnyul 
+lake: tuaw 
+ocean: kemʼoh 
+sea: kemʼoh 
+dust: awow 
+fog: taʼtiʼ 
+sky: langèt 
+bad: ak 
+evil: ak 
+rot: nyam 
+rotten: nyam 
+dirty: mesap 
+filthy: mesap 
+soiled: mesap 
+sharp: meli:n 
+blunt: kohot 
+damp: wusah 
+wet: wusah 
+right side: menʼaw 
+left: menlik 
+in: maè 
+inside: maè 
+and: un 
+if: dasiʼ[encuk] 

@@ -1,0 +1,263 @@
+all: luwu[no] 
+every: luwu[no] 
+ash: awu 
+ashes: awu 
+abdomen: kompo 
+belly: kompo 
+big: laŋkai 
+bigness: laŋkai 
+large: laŋkai 
+bird: manu-manu 
+bite: mekiki	moŋkiki 
+black: moʼito 
+blood: rea 
+bone: wuku 
+breast: susu 
+breasts: susu 
+burn: montunu 
+burn tr.: montunu 
+cloud: seru 
+cold: morini 
+come: hawe 
+come from: hawe 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: ahu	d|ahu 
+drink: moinu 
+dry: motui	mowaŋe 
+ear: biri 
+eat: moŋkaa 
+egg: suʼului 
+eye: mata 
+feather: wulu 
+fire: api 
+fish: bou 
+fly: membiri 
+fly v.: membiri 
+good: moiko 
+green: molowula 
+hair: wuu 
+hand: kae 
+left hand: kae 
+right: kae 
+head: ulu [bagian tubuh] 
+hear: moroNe	moroŋe 
+1 sg.: aku	aku [fut]	oNk~ue	oŋkue[nonfut] 
+I: aku	aku [fut]	oNk~ue	oŋkue[nonfut] 
+kill: mompepate 
+be knowledgeable: t[um]oʼorio	toʔori 
+know: t[um]oʼorio	toʔori 
+leaf: lewe 
+lie: melendoako 
+lie down: melendoako 
+liver: ate 
+head louse: kutu 
+louse: kutu 
+male: tama 
+man: mia 
+moon: wula 
+mouth: ŋaŋa 
+name: ne	nee 
+title: ne	nee 
+neck: weʔu 
+new: wo7ohu	woʔohu 
+night: owiNi	owiŋi 
+nighttime: owiNi	owiŋi 
+nose: eNe	eŋe 
+adulterous: asa 
+one: asa 
+single: asa 
+that: lou	rau	tahu	tuu 
+the: asa 
+unprincipled: asa 
+human: mia 
+human being: mia 
+person: mia 
+rain: usa 
+rainy weather: usa 
+red: motaha 
+path: sala 
+road: sala 
+route: sala 
+root: haka 
+sand: one 
+say: mepau 
+see: moNk~ita	moŋkita 
+sit: mentoro 
+hide: kuli 
+skin: kuli 
+sleep: moturi 
+little: kodei 
+small: kodei 
+smallness: kodei 
+smoke: ahu 
+star: binta	bint~a 
+rock: watu 
+stone: watu 
+swim: s[um]owe 
+tail: iki 
+this: [a]ndio 
+2 sg: ko-	omue 
+thou: ko-	omue 
+you: ko-	omue 
+tongue: elo 
+tooth: Nisi	ŋisi 
+grind: orua 
+two: orua 
+go: melenipa 
+walk: melenipa 
+hot: mokula 
+warm: mokula 
+water: uwoi 
+1 pl. inc.: kami	kita	omami	ontae	ont~ae 
+we: kami	kita	omami	ontae	ont~ae 
+we₁: kami	kita	omami	ontae	ont~ae 
+what: hapa 
+white: mopute 
+whiteness: mopute 
+who: isema 
+who?: isema 
+female: beine 
+woman: beine 
+yellow: moŋkuni 
+distant: olai 
+far: olai 
+dull: montondu 
+heavy: montondu 
+serious: montondu 
+close: umpeda 
+near: umpeda 
+ner: umpeda 
+salt: ohia 
+short: owaa 
+snake: ule 
+thin: monipi 
+wind: pue 
+earthworm: ulekonda 
+worm: ulekonda 
+year: taʔu 
+2 pl.: komiu	omiu 
+ye: komiu	omiu 
+you all: komiu	omiu 
+3 pl.: ira	ondae 
+they: ira	ondae 
+where: i sua 
+where?: i sua 
+when: teʔipia 
+when?: teʔipia 
+how: kana umpe 
+how?: kana umpe 
+other: susua 
+three: otolu 
+four: opaa 
+broad: malua 
+wide: malua 
+wideness: malua 
+fat: taba 
+thick: mokapa 
+narrow: moʔiso 
+principal wife: beine 
+wife: beine 
+husband: tama 
+his mother: ine 
+mother: ine 
+my mother: ine 
+father: ama 
+his father: ama 
+my father: ama 
+forest: wana 
+woods: wana 
+branch: sampa 
+stick: sampa 
+fruit: wua[ŋkeu] 
+flower: wuŋa 
+grass: seko 
+cord: ula 
+rope: ula 
+flesh: bau 
+meat: bau 
+grease: taba 
+wing: paani 
+gut: ulekompo 
+guts: ulekompo 
+insides: ulekompo 
+intestine: ulekompo 
+intestines: ulekompo 
+back: torulu 
+suck: moʔoso 
+spit: meʔeli 
+vomit: kolua-lua 
+blow: mepuuri 
+breath: menaa 
+breathe: menaa 
+laugh: metotaa 
+laughter: metotaa 
+cogitate: mewowoloo	mompewowolo 
+reflect: mewowoloo	mompewowolo 
+think: mewowoloo	mompewowolo 
+smell: mowowoo 
+sniff: mowowoo 
+afraid: doito 
+be afraid: doito 
+fear: doito 
+fright: doito 
+alive: tuwu 
+be alive: tuwu 
+life: tuwu 
+live: tuwu 
+living: tuwu 
+hunt: mowemba 
+beat: montunduhi 
+hit: montunduhi 
+strike: montunduhi 
+cut: mompole 
+hack: mompole 
+cut open: mobansi 
+split: mobansi 
+pierce: montobo 
+stab: montobo 
+scratch: mekaru 
+dig: moŋkelee 
+stand: mentade 
+drop: teʼonta 
+fall: teʼonta 
+grasp: moʔini 
+hold: moʔini 
+hold in arm: moʔini 
+squeeze: mompaiki 
+wring: mompaiki 
+throw: metadiakono	tumadio 
+bind: mowutu 
+fasten: mowutu 
+tie: mowutu 
+tie up: mowutu 
+sew: monseu 
+count: modoa 
+enumerate: modoa 
+number: modoa 
+tally: modoa 
+flow: umule 
+lake: rano 
+ocean: tahi 
+sea: tahi 
+dust: awu 
+fog: menseru 
+sky: laŋi 
+bad: mosaʼo 
+evil: mosaʼo 
+rot: moboo 
+rotten: moboo 
+dirty: merege 
+filthy: merege 
+soiled: merege 
+sharp: montaso 
+blunt: bonda 
+damp: mobaho 
+wet: mobaho 
+right side: koana 
+left: maŋgali 
+in: [i]laro[no] 
+inside: [i]laro[no] 
+and: ka 
+if: tewala 

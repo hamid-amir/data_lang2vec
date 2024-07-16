@@ -1,0 +1,332 @@
+all: cach	uile	uili 
+every: cach	uile	uili 
+ash: luaith 
+ashes: luaith 
+bark: coirt 
+abdomen: bolg 
+belly: bolg 
+big: bras	mór	mār	oll 
+bigness: bras	mór	mār	oll 
+large: bras	mór	mār	oll 
+bird: éan	ēn 
+bite: bain greim	greim 
+black: dub	dubh 
+blood: crū	fuil 
+bone: cnámh	cnāim	knaim 
+breast: brollach	cíoch	cīch	kix 
+breasts: brollach	cíoch	cīch	kix 
+cloud: néal	nēl	scamall 
+cold: fuar	ūar 
+come: doiccim	dotet	tar	ticim 
+come from: doiccim	dotet	tar	ticim 
+be dead: at-balim	atbail	bā-	faigh bás 
+dead: at-balim	atbail	bā-	faigh bás 
+die: at-balim	atbail	bā-	faigh bás 
+dog: cú	cū	ku	madadh	madra	matad 
+drink: ibid	ibim	ól 
+dry: tirim	tīrim 
+ear: au	cluas	clūas	kluas 
+earth: talamh	talan	tīr 
+ground: talamh	talan	tīr 
+land: talamh	talan	tīr 
+soil: talamh	talan	tīr 
+eat: ith	ithim 
+egg: og	ubh 
+eye: rosc	suil	súil	sūil 
+feather: cleite	clūm 
+fire: daig	tene	tine	āed 
+fish: iasc	iask	yask	īasc 
+fly: eitil	etelaigim	foluur 
+fly v.: eitil	etelaigim	foluur 
+foot: cos	coss	traig 
+full: lan	lán	lān 
+give: do-biur	tabhair 
+good: dag-	dea-	maith	so- 
+green: glas	glass	uaine 
+hair: find	folt	gruaig 
+hand: lam	lām 
+left hand: lam	lām 
+right: lam	lām 
+head: ceann	cend	cenn 
+hear: clois	cluin	cluinim	rokluine8ar 
+heart: cride	croí 
+horn: adarc	adark	adharc	benn	corn 
+1 sg.: me	mé 
+I: me	mé 
+kill: gonim	marbaim	marbhaigh	orgim	slad 
+knee: glun	glúin	glūn 
+be knowledgeable: adgēn	asagninaim	rofetar	tá a fhios ag … 
+know: adgēn	asagninaim	rofetar	tá a fhios ag … 
+leaf: duile	duille 
+lie: laigim 
+lie down: laigim 
+liver: ae	trommchride	ōa 
+long: cīan	fada	fota	long	síor 
+head louse: mil	míol cnis 
+louse: mil	míol cnis 
+male: fear	fer 
+man: duine 
+many: a lán	il	ili	imde	mórán	mōr 
+much: a lán	il	ili	imde	mórán	mōr 
+multiple: a lán	il	ili	imde	mórán	mōr 
+several: a lán	il	ili	imde	mórán	mōr 
+flesh: cūa	fēoil 
+meat: cūa	fēoil 
+moon: gealach	luan	ēsce 
+hill: brī	cnoc	sliab	sliabh	telach 
+mountain: brī	cnoc	sliab	sliabh	telach 
+mouth: béal	bēoil	gin 
+name: ainm 
+title: ainm 
+neck: brāge	muin	muineál	muinēl 
+new: nua	nue	nūe	nūide	úr 
+night: adaig	nocht	oíche 
+nighttime: adaig	nocht	oíche 
+nose: sron	srón	srōn 
+not: cha	ní 
+adulterous: aon	oen	óen 
+one: aon	oen	óen 
+single: aon	oen	óen 
+that: an … sin	an … siúd 
+the: aon	oen	óen 
+unprincipled: aon	oen	óen 
+human: duine 
+human being: duine 
+person: duine 
+rain: brōen	báisteach	fearthainn	flechud 
+rainy weather: brōen	báisteach	fearthainn	flechud 
+red: dearg	derg	rua	rūad 
+path: bo8ar	bóthar	slige 
+road: bo8ar	bóthar	slige 
+route: bo8ar	bóthar	slige 
+root: fréamh	frēm 
+round: cruind	cruinn 
+sand: gaineamh	ganem 
+say: abair	asbiur 
+see: ad-cīu	adki	feic 
+seed: síol 
+sit: saidim	suigh 
+hide: cness	craiceann	croccenn	knes	seche 
+skin: cness	craiceann	croccenn	knes	seche 
+sleep: codail	con-tulim	cotlud	sūan 
+little: beag	becc 
+small: beag	becc 
+smallness: beag	becc 
+smoke: deatach	dethach	dē 
+star: retglu	rind	réalt	rētglu 
+rock: all	carric	cloch	craic	klox	lie	līa 
+stone: all	carric	cloch	craic	klox	lie	līa 
+sun: grian	grīan 
+swim: snámh	snāim 
+tail: eireaball	erball	err 
+this: an … seo	an … so 
+2 sg: tu	tú 
+thou: tu	tú 
+you: tu	tú 
+tongue: teNgae	teanga	tenge 
+tooth: det	déad	dēt	fiacail 
+tree: bile	crann	kran 
+grind: da	dó 
+two: da	dó 
+go: cingim	siúil	tiagu 
+walk: cingim	siúil	tiagu 
+hot: te 
+warm: te 
+water: dobhar	uisce	uiske	usce	wiske 
+1 pl. inc.: muid	sinn	sni 
+we: muid	sinn	sni 
+we₁: muid	sinn	sni 
+what: cad é	céard 
+white: bán	bān	find	fionn	gel 
+whiteness: bán	bān	find	fionn	gel 
+who: cé 
+who?: cé 
+female: bean	ben	fracc 
+woman: bean	ben	fracc 
+yellow: buide	buí 
+distant: fada	in chēin 
+far: fada	in chēin 
+dull: trom	tromm 
+heavy: trom	tromm 
+serious: trom	tromm 
+close: cóngarach	i n-ocus	in aice 
+near: cóngarach	i n-ocus	in aice 
+ner: cóngarach	i n-ocus	in aice 
+salt: salann 
+short: berr	cumbair	gearr	gerr 
+snake: nathair	nathir 
+thin: sēim	tana	tanaí 
+wind: gaoth	gāith 
+earthworm: cnuimh	cruim	cruimh	péist 
+worm: cnuimh	cruim	cruimh	péist 
+year: bliadain	bliain 
+3 sg.: sé 
+he: sé 
+she: sé 
+2 pl.: sibh 
+ye: sibh 
+you all: sibh 
+3 pl.: siad 
+they: siad 
+here: anseo 
+there: ansin	ansiúd 
+where: cá 
+where?: cá 
+when: cathain	cá huair	cén uair 
+when?: cathain	cá huair	cén uair 
+how: cad é mar	conas	cén chaoi 
+how?: cad é mar	conas	cén chaoi 
+some: roinnt 
+few: beagán	becc	terc	uath	uathad 
+other: eile 
+three: tri	trí 
+four: ceathair	cethair	cethir 
+five: cóic	cúig 
+broad: fairsiung	leathan	lethan 
+wide: fairsiung	leathan	lethan 
+wideness: fairsiung	leathan	lethan 
+fat: blonag	saill 
+thick: remor	tiubh	tiug 
+narrow: cumung	cúng	cōil 
+child: leanbh	lelap	lenab	páiste 
+principal wife: bean chéile	ben	sētig 
+wife: bean chéile	ben	sētig 
+husband: cēle	fear céile	fer 
+his mother: máthair	māthir 
+mother: máthair	māthir 
+my mother: máthair	māthir 
+father: athair	athir 
+his father: athair	athir 
+my father: athair	athir 
+animal: ainmhí	anmanda	mīl	rop 
+forest: caill	coill	fid	fid-bad	ross 
+woods: caill	coill	fid	fid-bad	ross 
+branch: bata	crāib	gēsca	maide 
+stick: bata	crāib	gēsca	maide 
+fruit: torad	toradh 
+flower: bláth	blāth	scoth 
+grass: féar	fēr 
+cord: loman	sūanem	téad	tēt 
+rope: loman	sūanem	téad	tēt 
+grease: blonag	saill 
+claw: ingen	ionga 
+fingernail: ingen	ionga 
+nail: ingen	ionga 
+leg: cos	coss 
+arm: lámh 
+wing: ascaill	ette	sciathán	scīath 
+gut: inní 
+guts: inní 
+insides: inní 
+intestine: inní 
+intestines: inní 
+back: cūl	droim	druimm 
+suck: denim	dúil	súigh	sūgim 
+spit: caith seile	saile 
+vomit: aisig	scēim 
+blow: séid	sētim 
+breath: anāl	doberim anāl	tarraing anáil 
+breathe: anāl	doberim anāl	tarraing anáil 
+laugh: bí ag gáire	gen	tibiu 
+laughter: bí ag gáire	gen	tibiu 
+cogitate: imrādim	smaoinigh	smuainim 
+reflect: imrādim	smaoinigh	smuainim 
+think: imrādim	smaoinigh	smuainim 
+smell: bolad	bolaigh	boltunud 
+sniff: bolad	bolaigh	boltunud 
+afraid: eagla a bheith ort	ecla	ōmun 
+be afraid: eagla a bheith ort	ecla	ōmun 
+fear: eagla a bheith ort	ecla	ōmun 
+fright: eagla a bheith ort	ecla	ōmun 
+alive: am bēo	bí beo	mair	maraim 
+be alive: am bēo	bí beo	mair	maraim 
+life: am bēo	bí beo	mair	maraim 
+live: am bēo	bí beo	mair	maraim 
+living: am bēo	bí beo	mair	maraim 
+fight: cathaigur	fichim	troid 
+hunt: adclaidim	seilg 
+beat: benim	buail	būalim	slaidim	sligim 
+hit: benim	buail	būalim	slaidim	sligim 
+strike: benim	buail	būalim	slaidim	sligim 
+cut: gearr	scothaim	snaidim	tescaim 
+hack: gearr	scothaim	snaidim	tescaim 
+cut open: dlongim	scoilt 
+split: dlongim	scoilt 
+pierce: rop 
+stab: rop 
+scratch: tochais 
+dig: claidim	tochail 
+tell lies: brēc	gāu	luigh 
+stand: duairsiur	seas 
+turn: cas	impōim 
+turn around: cas	impōim 
+turn round: cas	impōim 
+drop: do-tuit	tit 
+fall: do-tuit	tit 
+grasp: coinnigh	congaibim 
+hold: coinnigh	congaibim 
+hold in arm: coinnigh	congaibim 
+squeeze: fáisc 
+wring: fáisc 
+rub: commelim	cuimil 
+wipe: cuimil 
+wash: folcaim	indaim	nigh	nigim 
+wash clothes: folcaim	indaim	nigh	nigim 
+pull: tarraing 
+push: brúigh 
+shove: brúigh 
+throw: caith	dolēicim	focerdaim	srēdim 
+bind: ceangail	cenglaim	con-rigim	nascim 
+fasten: ceangail	cenglaim	con-rigim	nascim 
+tie: ceangail	cenglaim	con-rigim	nascim 
+tie up: ceangail	cenglaim	con-rigim	nascim 
+sew: fuaigh	uagim 
+count: cuntais 
+enumerate: cuntais 
+number: cuntais 
+tally: cuntais 
+sing: can	canim	gaibim 
+have fun: cluchigur	imberim	imir 
+play: cluchigur	imberim	imir 
+float: snámh	snāim 
+flow: rethim	snigh 
+freeze: reoigh 
+swell: at 
+brook: ab-a	abhainn	glais	sruth 
+river: ab-a	abhainn	glais	sruth 
+stream: ab-a	abhainn	glais	sruth 
+lake: lind	linn	loch 
+ocean: fairrge	farraige	ler	muir 
+sea: fairrge	farraige	ler	muir 
+dust: deannach	luaith-red 
+fog: ceo	cēo 
+sky: aer	nem	spéir 
+snow: sneachta	snechte 
+ice: aig	aig-red	oighear 
+blaze: dóigh 
+burn: dóigh 
+day: dia	laithe	lá	lāa 
+daylight: dia	laithe	lá	lāa 
+daytime: dia	laithe	lá	lāa 
+old: sean 
+bad: do-	dona	droch-	olc 
+evil: do-	dona	droch-	olc 
+rot: bréan	lofa 
+rotten: bréan	lofa 
+dirty: salach 
+filthy: salach 
+soiled: salach 
+straight: díreach	dīriuch 
+sharp: géar	gēr	āith 
+blunt: mael	maol 
+smooth: mín	mīn	rēid 
+damp: fliuch 
+wet: fliuch 
+correct: ceart	cert	cōir 
+right side: deas	dess 
+left: clé	clē	tūath 
+at: ag 
+with: le 
+and: agus 
+if: dá	má 
+because: óir 

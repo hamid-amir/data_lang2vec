@@ -1,0 +1,340 @@
+all: ála | ala 
+ashes: asísi | asisi 
+back: báka | baka 
+bad: ógri | ogri 
+bad: tákru | ogri 
+bark: búba | basi	buba 
+belly: bére | bere 
+big: bígi | bigi 
+bird: fówru | fowru 
+bite: béti | beti 
+black: bláka | blaka 
+blood: brúdu | brudu 
+blow: bro | bro	wai 
+bone: bonjó | bonyo	bony~o 
+breast: bóbi | bobi	borsu 
+burn: bron 
+child: ptjin ∼ pikin | pikin	pikinnengre 
+cloud: wórku | wolku 
+cold: kówru | kowru 
+come: kon 
+correct: léti | yoisti 
+cut: kóti | koti 
+day: déj | dei 
+die: déde | dede	gw~e 
+dig: díki | diki 
+dirty: dóti | doti 
+dirty: mórsu | doti 
+dog: dágu | dagu 
+drink: dríngi | driNi	dringi 
+dry: drej | drei 
+ear: jési | yesa	yesi 
+earth: dóti | gron 
+eat: njam | nyan 
+egg: éksi | eksi 
+eye: aj | ai 
+fall: fadón | fadon 
+far: fára | fara 
+father: tatá, papá | papa 
+fat (n.): fátu 
+fear: fréde | frede 
+feather: wiríri | fowruwiwiri 
+fire: fája | faya 
+fish: físi | fisi 
+five: féjfi | feifi	feyfi 
+flower: brómki | bromki 
+flow: lon 
+fly (v.): frej 
+foot: fútu | futu 
+four: fo 
+fruit: fróktu | froktu 
+give: gi 
+good: bun 
+grass: grási | grasi 
+green: grun 
+guts: trípa | bere 
+hair: wiríri | wiwiri 
+hand: ánu | anu 
+he: a | a	en 
+head: éde | ede 
+hear: jére | yere 
+heart: áti | ati 
+heavy: ébi | hebi 
+here: dja | dya 
+hit: fom | iti 
+hit: náki | iti 
+hold: fási | ori 
+hold: óri | ori 
+horn: tutú | %tutu	tutu 
+how?: o-fá(si) | fa	o 
+husband: másra | masra 
+if: éfi | efu 
+I: mi 
+in: íni | ini 
+in: na | ini 
+kill: kíri | kiri 
+knee: kindí | %kind~i	kindi 
+know: sábi | sabi 
+leaf: wiríri | wiwiri 
+lie: didón, lidón | didon 
+liver: léfre | lefre 
+long: lánga | langa 
+louse: lóso | loso 
+man: man | %libisma	%sma	libisma	sma 
+many: fúru | furu 
+meat: méti | meti 
+moon: mun 
+mother: mamá | mama 
+mountain: bérgi | bergi 
+mouth: mófo | mofo 
+name: nen 
+narrow: smára | smara 
+near: krósbej | na 
+neck: néki | neki 
+new: njun | nyun	ny~un 
+night: néti | neti 
+nose: nóso | noso 
+not: no 
+old: ówru | owru 
+one: wan 
+other: tra 
+person: man | %libisma	%sma	libisma	sma 
+rain: alén | alen 
+red: rédi | redi 
+river: líba | liba 
+road: pási | alatapasi	pasi 
+root: lútu | rutu 
+rotten: póri | pori 
+round: lóntu | lontu 
+rub: frífri | lobi	wrifi 
+salt: sówtu | sowtu 
+sand: sánti | santi 
+say: táki | taki | santi 
+seed: síri | koko	siri 
+see: si ∼ sji 
+sew: naj | nai 
+sharp: srápu | srapu 
+short: sjátu | syatu 
+sing: síngi | singi 
+sit: sidón | sidon 
+skin: stjin | %buba	buba	skin 
+sky: tápu | loktu 
+sleep: sríbi | sribi 
+small: ptjin ∼ pikin 
+smell: sméri | smeri 
+smoke: smóko | smoko 
+smooth: gráti | grati 
+snake: snéki | sneki 
+split: príti | priti 
+squeeze: kwinsi 
+stab: djúku | dyuku 
+stab: ólo | dyuku 
+stand: tanápu | knapu	snapu	tnapu 
+star: stári | stari 
+stone: ston 
+straight: léti | leti 
+suck: sójgi | soigi 
+sun: son 
+swell: swéri | sweri 
+swim: swen 
+tail: tére | tere 
+that: dáti | dati | wan 
+there: drápe | drape 
+they: den 
+thick: déki | deki 
+thin: fíni | fini	mangri 
+think: dénki | denki	prakseri 
+this: dísi | disi 
+thou: ju ∼ i | i	unu	yu 
+three: dri 
+throw: fríngi | bonk	iti 
+tie: taj | tai 
+tongue: tóngo | toNo	tongo 
+tooth: tífi | tifi 
+tree: bon | %bon	%kofimama	bon 
+two: tu 
+vomit: pió | fomeri 
+walk: wáka | waka 
+warm: áti | waran 
+warm: fája | waran 
+wash: wási | spuru	wasi 
+water: wátra | watra 
+wet: náti | nati 
+we: únu ∼ un ∼ u ∼ w | un	unu	wi 
+what: san | fa	san 
+when?: ojúru | oten 
+when?: oten 
+where?: o-pé | pe 
+white: wéti | weti 
+who: súma ∼ sma | suma 
+wind: wínti | winti 
+wing: frej | frei 
+with: nánga | nanga 
+woman: úma | uma 
+worm: wóron | woron 
+year: jári | yari 
+ye: ju ∼ i | un	unu 
+yellow: géri | geri 
+every: ala 
+ash: asisi 
+abdomen: bere 
+bigness: bigi 
+large: bigi 
+breasts: bobi	borsu 
+come from: kon 
+be dead: dede	gw~e 
+dead: dede	gw~e 
+ground: gron 
+land: gron 
+soil: gron 
+fly: frei 
+fly v.: frei 
+full: furu	span 
+left hand: anu 
+right: anu 
+1 sg.: mi 
+be knowledgeable: sabi 
+head louse: loso 
+male: man 
+much: furu 
+multiple: furu 
+several: furu 
+hill: bergi 
+title: nen 
+nighttime: neti 
+adulterous: wan 
+single: wan 
+the: wan 
+unprincipled: wan 
+human: %libisma	%sma	libisma	sma 
+human being: %libisma	%sma	libisma	sma 
+rainy weather: alen 
+path: alatapasi	pasi 
+route: alatapasi	pasi 
+see: si 
+hide: %buba	buba	skin 
+little: pikin 
+small: pikin 
+smallness: pikin 
+rock: ston 
+2 sg: i	unu	yu 
+you: i	unu	yu 
+grind: tu 
+go: waka 
+hot: waran 
+1 pl. inc.: un	unu	wi 
+we₁: un	unu	wi 
+whiteness: weti 
+who?: suma 
+female: uma 
+distant: fara 
+dull: hebi 
+serious: hebi 
+close: na 
+ner: na 
+earthworm: woron 
+3 sg.: a	en 
+she: a	en 
+2 pl.: un	unu 
+you all: un	unu 
+3 pl.: den 
+where: pe 
+when: oten 
+how: fa	o 
+some: son	wantu 
+few: wanwan 
+broad: bradi 
+wide: bradi 
+wideness: bradi 
+fat: fatu 
+principal wife: frow 
+wife: frow 
+his mother: mama 
+my mother: mama 
+his father: papa 
+my father: papa 
+animal: meti 
+forest: busi 
+woods: busi 
+branch: tiki 
+stick: tiki 
+cord: titei 
+rope: titei 
+flesh: meti 
+grease: fatu 
+claw: nangra 
+fingernail: nangra 
+nail: nangra 
+leg: futu 
+arm: anu 
+gut: bere 
+insides: bere 
+intestine: bere 
+intestines: bere 
+spit: spiti 
+breath: bro 
+breathe: bro 
+laugh: lafu 
+laughter: lafu 
+cogitate: denki	prakseri 
+reflect: denki	prakseri 
+sniff: smeri 
+afraid: frede 
+be afraid: frede 
+fright: frede 
+alive: libi 
+be alive: libi 
+life: libi 
+live: libi 
+living: libi 
+fight: feti	strei 
+hunt: onti 
+beat: iti 
+strike: iti 
+hack: koti 
+cut open: priti 
+pierce: dyuku 
+scratch: krabu	krasi 
+lie down: didon 
+tell lies: didon 
+turn: drai 
+turn around: drai 
+turn round: drai 
+drop: fadon 
+grasp: ori 
+hold in arm: ori 
+wring: kwinsi 
+wipe: wrifi 
+wash clothes: spuru	wasi 
+pull: hari 
+push: pusu 
+shove: pusu 
+bind: tai 
+fasten: tai 
+tie up: tai 
+count: teri 
+enumerate: teri 
+number: teri 
+tally: teri 
+have fun: prei 
+play: prei 
+float: dribi 
+brook: liba 
+stream: liba 
+ocean: se 
+sea: se 
+blaze: bron 
+daylight: dei 
+daytime: dei 
+evil: ogri 
+rot: pori 
+filthy: doti 
+soiled: doti 
+blunt: dede 
+damp: nati 
+right side: leti-anu 
+left: kruktu-anu 
+at: na 
+inside: ini 
+and: nanga	èn 
+because: bika 

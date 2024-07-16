@@ -1,0 +1,340 @@
+all: gjithë | gjithë	i gjithë	tërë	čdo 
+and: e | dhe	e	ðe’ eðe 
+animal: kafshë | bišə	kafshë	kafšə 
+at: te | në 
+back: shpinë | kur̃iz	shpinë	špinə 
+bad: keq | i kekʸ	i lʸig	keq 
+bark: leh | korë	lehje	žarg	’blore	’c̷ire	’kore 
+big: madh | i mað	madh 
+bird: zog 
+bite: kafshoj | kafshoj	kaf’šon 
+black: zi | i zi	zi	’ster̃ə 
+blood: gjak | TEk	gjak	gʸak 
+blow: fryj | frün	goditje 
+breast: kraharor | Toks	gji	gjoks	gʸi	sisë 
+burn: djeg | c̷uks	të djegur 
+child: fëmijë | fëmijë	fə’miyə 
+cold: ftohtë | ftohtë	i ’ftohtə 
+come: vij | vij	vijnë	viy	vyen 
+correct: korrekt | dreyt	i djathtë 
+day: ditë | ditë	’ditə 
+die: vdes | esin	i ’vdekur	vdEs	vdes	’vdekye 
+dirty: papastër | i fə’likʸət	i pistë	i ’ndürə 
+dog: qen | TEn	kʸen	qen 
+drink: pi 
+dry: thatë | i thatë	i ’θatə	thatë 
+dust: pluhur | pluhur	’pluhur 
+earth: tokë | dhe	dhé	tokë	ðe	’tokə 
+ear: vesh | dëgjim	vES	vesh	veš 
+eat: ha | ha	ngrënë 
+egg: ve | ve	vezë	’vezə 
+eye: sy | si	sy	sü 
+fall: bie | bie	bien	ra	r̃ə’zohet 
+far: larg | e largët	larg	lʸarg 
+father: atë | at	atë	baba	ba’ba	krijues	themelues 
+feather: pupël | pendë	pupël	’pendə 
+few: disa | i pakët	pak 
+fight: luftoj | luftuar	lʸuf’ton	’r̃ihet	’zihet 
+fire: zjarr | zjarr	zyar̃	zy~ar 
+fish: peshk | pESk	peshk	pešk 
+five: pesë | pesë	pésë	’pesə 
+flower: lule | lule	’lʸulʸe 
+flow: rrjedh | rrjedhin	r̃yeð	zbraz 
+fly (v.): fluturoj 
+foot: këmbë | këmbë	’kəmbə 
+forest: mal | pyll	pül 
+four: katër | katër	kátrë	’katər 
+freeze: ngrij | ngrirë 
+fruit: pemë | frutë	früt	’pemə 
+full: plotë | i mbushur	i plotë	plot3	plotë	’plʸotə 
+give: jap | dhënë	jap	yep 
+good: mirë | i ’mirə	mirë 
+grass: bar 
+green: gjelbër | gjelbër	i ’blertə	i ’gʸelʸbər 
+hair: flok | flok	flokë	lesh	lʸeš	qime	’flʸokə 
+hand: dorë | dor3	dorë	’dorə 
+head: kokë | kokë	’kokə	’krüe 
+he: ai 
+hear: dëgjoj | d3Toy	dëgjoj	dëgjuar	də’gʸon	’ndien 
+heart: zemër | zemër	’zemər 
+heavy: rëndë | i ’rəndə	rëndë 
+here: këtu 
+hold: mbaj | mbajë	mban 
+horn: bri | bori	bri 
+how: si | në ç’mënyrë	si 
+hunt: lëndoj | gjej	gʸuan 
+husband: burrë | bashkëshort	burrë	’bur̃ə 
+ice: akull | akull	’akul 
+in: në | në	’brenda 
+I: unë | mua	un3	unë	’unə 
+knee: gju | Tu	gju	gʸu 
+know: di 
+lake: liqen | liqen	lʸi’kʸen 
+laugh: qesh | kʸeš	qeshur 
+leaf: fletë | flEt3	fletë	gjethe	gʸeθ	’flʸetə 
+leg: këmbë | këmbë	’kəmbə 
+long: gjatë | gjatë	i ’gʸatə 
+many: shumë | shumë	’šumə 
+meat: mish | mish	miš 
+moon: hënë | hënë	’hənə 
+mountain: mal | mal	malʸ 
+mouth: gojë | gojë	’goyə 
+name: emër | Em3r	emër	’emər 
+neck: qafë | qafë	’kʸafə 
+night: natë | nat3	natë	’natə 
+not: nuk | nuk	sʼ 
+old: vjetër | i moshuar	plak 
+one: një | 53	ni	një 
+other: tjetër 
+pull: tërheq | tërheqë 
+push: shtyj | shtyjë	štün 
+rain: shi | shi	ši 
+red: kuq | i kukʸ	i kuq	kuq 
+right: djathtë | dor3	dorë	’dorə | e djathtë	në të djathtë	’ana e ’dreytə 
+river: lumë | lumë	lʸumə 
+road: rrugë | StEg	rrugë	u83	udhë 
+rotten: rreth | i ’kalʸbur	kalbur 
+sand: rërë | rërë	’rərə 
+say: them | flʸet	them	thënë	θot | rërë	’rərə 
+scratch: kruaj | heq 
+sea: det 
+seed: farë | farë	’farə 
+see: shoh | Soh	për të parë	shoh	šeh	ši’kon 
+sharp: thepisur | i mprehtë	i ’mprehtə	’prerəs 
+sit: ulem | rri	ulur	’ulʸet 
+skin: lekurë | l3kur3	lëkurë	lʸə’kurə 
+sky: qiell | ha’va	kʸel	qiell 
+sleep: fle | fle	flʸe	gʸu’mon 
+small: vogël | i ’vogəlʸ	vogël 
+smell: kundërmoj | erë	nu’hat 
+smoke: tym | tym	tüm 
+snake: gjarpër | gjarpër	su’valʸ	ši’gʸetul	’bolə	’gyarpər 
+snow: borë | borë	dëborë	’borə 
+spit: pështyj | nxjerr	pə’štümə	’yargə 
+star: yll | süz	uL	yll	ül 
+stick: shkop | bastun	karthje	shkarpë	shkop	’degə 
+straight: drejt | drejt	i ’dreytə 
+suck: thëthij | thith	θiθ 
+sun: diell | diEL	diel	diell 
+swell: ënjt | rritet 
+swim: notoj | notosh	notoy	no’ton 
+there: aty | atje	në atë çështje 
+they: ata | ata	ato	a’ta	a’to 
+thin: hollë | e dobët	hollë	i dobët	i hollë	i ’holə	i ’θatə 
+think: mendoj | men’dohet	të menduar 
+this: ky 
+thou: ti | ju	ti 
+three: tre | tre	tri 
+tongue: gjuhë | Tuh3	gjuhë	’gʸuhə 
+tooth: dhëmb | 83mb	dhëmb	ðəmb 
+tree: dru | dru	pEm3	pemë 
+turn: kthej | kthyer	r̃otu’lon	’kθehet 
+two: dy | du	dy	dü	ǵu 
+walk: eci | ecur	mə’kəmbet	shkoj	’ec̷ən 
+warm: ngroh | i ngrohtë	i ’ngrohtə	i ’vakət	nxehtë 
+wash: laj | lahesh	lʸan 
+water: ujë | ujë	uy3	’uyə 
+we: ne | nE	ne 
+what: çka | çfarë	çë	çʼ	č’	’čfarə 
+when: kur | kur	në kohën kur 
+where: ku | ku	në ç’vend 
+white: bardhë | bardhë	i ’barðə 
+who: kush | cili	i cili	kush	kuš	’c̷ilʸi 
+wide: gjerë | i gjerë	i ’gʸerə 
+wind: erë | erë	’erə 
+wipe: fshij | fshirë 
+with: me 
+woman: grua | grua	’grua 
+year: vit | mot	vit	vjet 
+yellow: verdhë 
+you: ju | ju	ti | ju	yu 
+every: gjithë	i gjithë	tërë	čdo 
+ash: hi 
+ashes: hi 
+abdomen: bark	stomak 
+belly: bark	stomak 
+bigness: i mað	madh 
+large: i mað	madh 
+bone: aSt	halë peshku	kock3	kockë	koskë	’koc̷kə 
+breasts: Toks	gji	gjoks	gʸi	sisë 
+burn tr.: djeg 
+claw: thua	’kθetər 
+nail: thua	’kθetər 
+talon: thua	’kθetər 
+cloud: re	shtëllungë 
+come from: vij	vijnë	viy	vyen 
+be dead: esin	i ’vdekur	vdEs	vdes	’vdekye 
+dead: esin	i ’vdekur	vdEs	vdes	’vdekye 
+ground: dhe	dhé	tokë	ðe	’tokə 
+land: dhe	dhé	tokë	ðe	’tokə 
+soil: dhe	dhé	tokë	ðe	’tokə 
+fat: dhjamë 
+fat n.: dhjamë 
+grease: dhjamë 
+lubricant: dhjamë 
+oil: dhjamë 
+fly: fluturoj	fluturojë	flʸutu’ron 
+fly v.: fluturoj	fluturojë	flʸutu’ron 
+left hand: dor3	dorë	’dorə 
+1 sg.: mua	un3	unë	’unə 
+kill: vrarë	vras	vret 
+be knowledgeable: di 
+lie: shtrirë	’štrohet 
+lie down: shtrirë	’štrohet 
+liver: jigEr	m3lCi	mëlçi	məlʸ’či 
+head louse: mor	morr	mor̃ 
+louse: mor	morr	mor̃ 
+male: burrë	’bur̃ə 
+man: njeri	vEt3	ɲe’ri 
+much: shumë	’šumə 
+multiple: shumë	’šumə 
+several: shumë	’šumə 
+flesh: mish	miš 
+hill: mal	malʸ 
+title: Em3r	emër	’emər 
+new: i ri	ri 
+nighttime: nat3	natë	’natə 
+nose: hund3	hundë	nuhatje	’hundə 
+adulterous: 53	ni	një 
+single: 53	ni	një 
+that: ai	ay	i cili	që 
+the: 53	ni	një 
+unprincipled: 53	ni	një 
+human: njeri	vEt3	ɲe’ri 
+human being: njeri	vEt3	ɲe’ri 
+person: njeri	vEt3	ɲe’ri 
+rainy weather: shi	ši 
+path: StEg	rrugë	u83	udhë 
+route: StEg	rrugë	u83	udhë 
+root: rrënjë	’r̃əɲə 
+round: i ’r̃otultə	rrumbullak	rrumbullakët	r̃otu’lak	r̃umbu’lak 
+hide: l3kur3	lëkurë	lʸə’kurə 
+little: i ’vogəlʸ	vogël 
+smallness: i ’vogəlʸ	vogël 
+stand: rri 
+rock: gur	škəmb 
+stone: gur	škəmb 
+tail: bisht	bišt	gjurmues	ndjekës 
+2 sg: ju	ti 
+grind: du	dy	dü	ǵu 
+go: ecur	mə’kəmbet	shkoj	’ec̷ən 
+hot: i ngrohtë	i ’ngrohtə	i ’vakət	nxehtë 
+1 pl. inc.: nE	ne 
+we₁: nE	ne 
+whiteness: bardhë	i ’barðə 
+who?: cili	i cili	kush	kuš	’c̷ilʸi 
+female: grua	’grua 
+distant: e largët	larg	lʸarg 
+dull: i ’rəndə	rëndë 
+serious: i ’rəndə	rëndë 
+close: afër	e afërt	’afər 
+near: afër	e afërt	’afər 
+ner: afër	e afërt	’afər 
+salt: kripë	’kripə 
+short: i shkurtër	i ’škurtər	shkurtër 
+earthworm: glistër	krimb 
+worm: glistër	krimb 
+3 sg.: ai 
+she: ai 
+2 pl.: ju	yu 
+ye: ju	yu 
+you all: ju	yu 
+3 pl.: ata	ato	a’ta	a’to 
+where?: ku	në ç’vend 
+when?: kur	në kohën kur 
+how?: në ç’mënyrë	si 
+some: ca	c̷a	disa	di’sa 
+broad: i gjerë	i ’gʸerə 
+wideness: i gjerë	i ’gʸerə 
+thick: i trashë	i ’trašə 
+narrow: i ngushtë	i ’nguštə 
+principal wife: nuse	’grua 
+wife: nuse	’grua 
+his mother: nënë	’nənə 
+mother: nënë	’nənə 
+my mother: nënë	’nənə 
+his father: at	atë	baba	ba’ba	krijues	themelues 
+my father: at	atë	baba	ba’ba	krijues	themelues 
+woods: pyll	pül 
+branch: bastun	karthje	shkarpë	shkop	’degə 
+cord: ko’nop	litar	lʸi’tar	tërkuzë	varg 
+rope: ko’nop	litar	lʸi’tar	tërkuzë	varg 
+fingernail: thua	’θua 
+arm: dorë 
+wing: krah 
+gut: guxim	thelb	’zor̃ə 
+guts: guxim	thelb	’zor̃ə 
+insides: guxim	thelb	’zor̃ə 
+intestine: guxim	thelb	’zor̃ə 
+intestines: guxim	thelb	’zor̃ə 
+vomit: guk’son	vjella	vyel 
+breath: frü’mos	marr frymë 
+breathe: frü’mos	marr frymë 
+laughter: kʸeš	qeshur 
+cogitate: men’dohet	të menduar 
+reflect: men’dohet	të menduar 
+sniff: erë	nu’hat 
+afraid: frikë	tmer̃	’frikə	’tutə 
+be afraid: frikë	tmer̃	’frikə	’tutə 
+fear: frikë	tmer̃	’frikə	’tutə 
+fright: frikë	tmer̃	’frikə	’tutə 
+alive: i ’gʸalə	jetuar	ye’ton	’yetə 
+be alive: i ’gʸalə	jetuar	ye’ton	’yetə 
+life: i ’gʸalə	jetuar	ye’ton	’yetə 
+live: i ’gʸalə	jetuar	ye’ton	’yetə 
+living: i ’gʸalə	jetuar	ye’ton	’yetə 
+beat: goditur	go’det	r̃eh 
+hit: goditur	go’det	r̃eh 
+strike: goditur	go’det	r̃eh 
+cut: pret	shkurtuar 
+hack: pret	shkurtuar 
+cut open: nxjerr	’čahet 
+split: nxjerr	’čahet 
+pierce: thikë	θer 
+stab: thikë	θer 
+dig: gërmoj	gər’mih	gər’mon 
+tell lies: gënjejë	gə’ɲen	sendər’gʸon	špif 
+turn around: kthyer	r̃otu’lon	’kθehet 
+turn round: kthyer	r̃otu’lon	’kθehet 
+drop: bie	bien	ra	r̃ə’zohet 
+grasp: mbajë	mban 
+hold in arm: mbajë	mban 
+squeeze: ndrüp	ngʸeš	shtrydh	štrüð	štrə’ngon 
+wring: ndrüp	ngʸeš	shtrydh	štrüð	štrə’ngon 
+rub: fshij	fər’kon 
+wash clothes: lahesh	lʸan 
+shove: shtyjë	štün 
+throw: flʸak	hedhur	heð 
+bind: lidhëse	lʸið 
+fasten: lidhëse	lʸið 
+tie: lidhëse	lʸið 
+tie up: lidhëse	lʸið 
+sew: kʸep	qep 
+count: mbështetet	numə’ron 
+enumerate: mbështetet	numə’ron 
+number: mbështetet	numə’ron 
+tally: mbështetet	numə’ron 
+sing: kënduar	kən’don 
+have fun: luajtur	lʸo’dron	’lʸuan 
+play: luajtur	lʸo’dron	’lʸuan 
+float: flus’kon	plus’kon	shket 
+brook: lumë	lʸumə 
+stream: lumë	lʸumə 
+ocean: det 
+fog: mjegull	’myegul 
+blaze: c̷uks	të djegur 
+daylight: ditë	’ditə 
+daytime: ditë	’ditə 
+evil: i kekʸ	i lʸig	keq 
+rot: i ’kalʸbur	kalbur 
+filthy: i fə’likʸət	i pistë	i ’ndürə 
+soiled: i fə’likʸət	i pistë	i ’ndürə 
+blunt: i turbullt 
+smooth: i lëmuar 
+damp: i lagur	i ’amət	i ’lʸagət	i ’ɲomə 
+wet: i lagur	i ’amət	i ’lʸagət	i ’ɲomə 
+right side: e djathtë	në të djathtë	’ana e ’dreytə 
+left: e majtë	i majtë	’ana e ’maytə 
+inside: në	’brenda 
+if: në qoftë se	nëse	nə	po	vallë 
+because: për arsye se	sepse 

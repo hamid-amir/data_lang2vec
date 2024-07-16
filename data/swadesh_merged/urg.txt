@@ -1,0 +1,430 @@
+all: tuyanggëi | tuyaŋgʌi 
+all: tuyaŋgʌi 
+arm: ko:mbe- 
+arm: koːmbɛ- 
+arrow: si 
+ashes: goimp | goimp	kumbisum 
+ashes: kumbisum | goimp	kumbisum 
+ashes: kumbi-sum | goimp	kumbisum 
+back: sendi- 
+back: sɛndi- 
+bad: ondupu 
+belly: aßo- | aβo-	uŋgu- 
+belly: avo- | aβo-	uŋgu- 
+belly: unggu- | aβo-	uŋgu- 
+belly: uŋgu- | aβo-	uŋgu- 
+big: anggay | aŋgay 
+big: aŋgay 
+bird: nei 
+bite: kat(i)- | kat-	kati- 
+black: kurumangga | kurumaŋga 
+black: kurumaŋga 
+blood: butanggi | butaNgi	butaŋgi 
+blood: butaŋgi | butaNgi	butaŋgi 
+blow: u- 
+bone: eːsebʷ nindigeːbu | esebu	eːsebᵘ	nindigeːbu	nind~igebu 
+bone: e:sebu | esebu	eːsebᵘ	nindigeːbu	nind~igebu 
+bone: nindige:bu | esebu	eːsebᵘ	nindigeːbu	nind~igebu 
+boy: oro iambera 
+boy: oro iambɛra 
+breast: auri 
+brother: awomu ai 
+brother: awomu ai- 
+brother: noni- 
+brother: nonumu 
+burn: i- 
+butterfly: ganggabor 
+butterfly: gaŋgabɔr 
+calf: manunggu- 
+calf: manuŋgu- 
+calf: të:mbumo 
+calf: tʰʌːmbumo 
+cassowary: to:ku 
+chest: kurume- 
+chest: kurumɛ- 
+child: oro 
+chin: nggauto- 
+chin: ŋgauto- 
+cloud: kobiu 
+cold: wakura- 
+come: ma- | ma	ma- 
+crocodile: yamëy 
+crocodile: yamʌy 
+cut: geti- 
+cut: kati- 
+cut: kisigendo 
+cut: kisigɛndo 
+day: abgiu 
+day: obgiu 
+die: koma- | koma	koma- 
+dig: ere- 
+dig: ɛrɛ- 
+dig: kure- 
+dig: kurɛ- 
+dirty: tinggi 
+dirty: tiŋgi 
+dog: mëm | m3m	mʌm 
+dog: mʌm | m3m	mʌm 
+dry: karawa- 
+ear: ënggu- | 3Ngu	ʌŋgu- 
+ear: ʌŋgu- | 3Ngu	ʌŋgu- 
+earth: hɔß | hɔβ 
+earth: hov | hɔβ 
+eat: na- 
+eat: nungguro- | na- 
+egg: gibu | gibu	maŋgimu 
+egg: manggimu | gibu	maŋgimu 
+egg: maŋgimu | gibu	maŋgimu 
+elbow: tuaum 
+emu: tʌːku 
+excrement: si:mbi 
+eye: ëngki- | 3Nki	ʌŋki- 
+eye: ʌŋki- | 3Nki	ʌŋki- 
+face: mau- 
+fall: nggo- 
+fall: tom- 
+far: saŋgai 
+father: auga 
+father: eme- 
+father: ɛmɛ- 
+fat (n.): kindam 
+fear: gimingg- 
+fear: gimiŋg- 
+few: karawësik 
+few: karawʌsik 
+fight: aruga- 
+fingernail: dekere 
+fingernail: dɛkɛrɛ 
+fingernail: tiroːbu 
+fingernail: tiro:vu 
+finger: simbiobu 
+fire: anggib | Emb~i	ɛːmbi 
+fire: e:mbi | Emb~i	ɛːmbi 
+fire: ɛːmbi | Emb~i	ɛːmbi 
+fish: kori:be | koribE	kɔriːbɛ 
+fish: kɔriːbɛ | koribE	kɔriːbɛ 
+fly (n.): nggambu 
+fly (n.): ŋgambu 
+fly (n.): sipol 
+fly (v.): yabro- 
+fly (v.): yabrro- 
+fog: kobiouw 
+fog: kobiow 
+forehead: mau- 
+forest: më:m(nën) 
+forest: mʌːm(nʌn) 
+forest: saumu 
+fruit: igi-bu 
+fruit: manggemu 
+full: kapua- | kapua	kapua- 
+full: kuno- | kapua	kapua- 
+girl: ene nëre 
+girl: ɛnɛ nʌrɛ 
+give: si- 
+give: si-/tu- 
+good: nemgrëk | nɛmgrʌk 
+good: nɛmgrʌk 
+grass: eire 
+green: darumangga | darumaŋga 
+green: darumaŋga 
+hair: weimu 
+head: oro- 
+head: teni | oro- 
+hear: ese- | EsE	ɛsɛ- 
+hear: ɛsɛ- | EsE	ɛsɛ- 
+heart: urʌbo 
+heart: urëbo | urʌbo 
+heavy: gundugamboi 
+here: kamen 
+here: muro 
+he/she: -bu 
+he/she: -mu 
+he/she: no 
+he/she: no- 
+he/she: -ø- 
+hit: aruga- 
+hold: esigo- 
+hold: ɛsigo- 
+house: wende 
+house: wɛndɛ 
+how: aninggite 
+ice: igi-bu 
+ice: maŋgemu 
+I: -i- | iyE	iyɛ 
+I: -ika | iyE	iyɛ 
+I: iye | iyE	iyɛ 
+I: iyɛ | iyE	iyɛ 
+in: gandi 
+I: y- | iyE	iyɛ 
+I: -ye | iyE	iyɛ 
+I: -yɛ | iyE	iyɛ 
+kill: o- 
+knee: oko- | oko	oko- 
+lake: kaputh-kaputh 
+lake: ngurdaka 
+laugh: tiriga- 
+left: taime 
+left: taimɛ 
+leg: iri- 
+lightning: samiri piaga- 
+liver: gamam 
+long: urußa-(ŋgay) | uruβa-	uruβa-ŋgay 
+long: uruva-(nggai) | uruβa-	uruβa-ŋgay 
+louse: mei 
+man: dawei | wʌmp 
+man: wëmp | wʌmp 
+man: wʌmp 
+many: toy(nggay) | toy	toyŋgay 
+many: toy(ŋgay) | toy	toyŋgay 
+meat: tëmbum 
+meat: tʌmbum 
+moon: paite | paitɛ 
+moon: paitɛ 
+morning: ogunenggen 
+morning: ogunɛŋgɛn 
+morning: sapembai 
+morning: sapɛmbai 
+mosquito: mumuki 
+mother: abi- 
+mother: ana- 
+mountain: pelubu | pelubu	s3toNgob	sʌ	toŋgob 
+mountain: sʌ | pelubu	s3toNgob	sʌ	toŋgob 
+mountain: së:tonggob | pelubu	s3toNgob	sʌ	toŋgob 
+mountain: toŋgob | pelubu	s3toNgob	sʌ	toŋgob 
+mouth: sembe- | sɛmbɛ- 
+mouth: sɛmbɛ- 
+name: eni- | Eni	ɛni- 
+name: ɛni- | Eni	ɛni- 
+nape: mindi- 
+navel: soi 
+near: suŋgun 
+neck: manu 
+new: am-(unggo) | am-	am-uŋgo	amuNgo 
+new: am-(uŋgo) | am-	am-uŋgo	amuNgo 
+night: ogus 
+nose: nuru- | nuru	nuru- 
+not: ke 
+not: kɛ 
+old: asaumbo 
+old: goyom 
+one: kegrë:k | kEgr3k	kɛgrʌːk 
+one: kɛgrʌːk | kEgr3k	kɛgrʌːk 
+pull: ku- 
+push: su- 
+rain: kouyawa 
+rat: sepi 
+rat: sɛpi 
+red: afamu | aɸamu 
+red: aφamu | aɸamu 
+right: neme 
+right: nɛmɛ 
+ripe: abom-unggai 
+ripe: abom-uŋgai 
+road: imanggay | imaNgay 
+road: imaŋgay | imaNgay 
+root: burdem 
+rope: wɛːm 
+salt: sigei 
+sand: u:ndim | uːsi 
+sand: u:si | uːsi 
+sand: uːsi 
+say: kando- | usari- 
+say: usari- 
+scratch: kra- 
+sea: wono 
+see: uri- | uri	uri- 
+see: wuito- | uri	uri- 
+sharp: mëkip 
+sharp: mʌkip 
+sharp: oro- 
+short: kubum-ro:p | kubum-rʌɔːp 
+short: kubum-rʌɔːp 
+shoulder: eki- 
+shoulder: sira- 
+sing: egev ta- 
+sister: mamonggo 
+sister: mamɔŋgo 
+sister: mamonggo oraub 
+sister: mamɔŋgo oraub 
+sit: embro- | ɛmbro- 
+sit: ɛmbro- 
+skin: membe- | mEmb~E	mɛmbɛ- 
+skin: mɛmbɛ- | mEmb~E	mɛmbɛ- 
+sleep: kina- 
+small: urërabu | urʌrabu 
+small: urʌrabu 
+smell: kwi mungg- 
+smoke: pʰʊːr 
+smoke: pu:r | pʰʊːr 
+snake: më:ni | mʌːni 
+snake: mʌːni 
+spit: se:b 
+spit: seːb 
+spit: tago(ta)- 
+split: mbuguru- 
+stand: embi- 
+stand: ɛmbi- 
+stand: saga(ta)- 
+star: konombe | konomb~E	konombɛ 
+star: konombɛ | konomb~E	konombɛ 
+stone: goimbo | goimbo	goimb~o 
+straight: sururub 
+sun: ganggai | gaNgai	gaŋgal 
+sun: gaŋgal | gaNgai	gaŋgal 
+swell: saga- 
+tail: mungga-mu | muŋga-mu 
+tail: muŋga-mu 
+take: ta- 
+that: abe | abɛ 
+that: abɛ 
+there: asbuni 
+they: nen- 
+they: nɛn- 
+they: nene 
+they: nɛnɛ 
+they: -nengge 
+they: -nɛŋgɛ 
+they: -ningga- 
+they: -niŋga- 
+thigh: pëki 
+thigh: pʌki- 
+think: utu nungg- 
+think: utu nuŋg- 
+this: mu 
+thou: n- | nE	nɛ 
+thou: -na- | nE	nɛ 
+thou: ne | nE	nɛ 
+thou: -ne | nE	nɛ 
+thou: nɛ | nE	nɛ 
+thou: -nɛ | nE	nɛ 
+thou: -tɛŋgɛ | nE	nɛ 
+thou: -tiŋga- | nE	nɛ 
+thou: ton- | nE	nɛ 
+thou: tono | nE	nɛ 
+throat: guloloß 
+throat: gulolov 
+throw: ndu- 
+thunder: kando- 
+thunder: samëru ngguwo- 
+thunder: samʌru ŋguwo- 
+tie: ku- 
+tomorrow: agrin 
+tomorrow: weagër 
+tomorrow: wɛagʌr 
+tongue: meknomo | mEknomo	mɛknomo 
+tongue: mɛknomo | mEknomo	mɛknomo 
+tooth: maki 
+tooth: maki- 
+tree: gubu | nau	nusu 
+tree: kata-mu | nau	nusu 
+tree: nau | nau	nusu 
+tree: nusu | nau	nusu 
+tree: oŋgo-bu | nau	nusu 
+turn: firi- 
+turn: φiri- 
+two: aker | akEr	akɛr 
+two: akɛr | akEr	akɛr 
+vagina: si:mi 
+vagina: siːmi 
+walk: eya- | tɛgo- 
+walk: ɛya- | tɛgo- 
+walk: ŋguŋg- | tɛgo- 
+walk: tego- | tɛgo- 
+walk: tɛgo- 
+wallaby: se:nde 
+wallaby: sɛːndɛ 
+warm: i:gnggambai 
+warm: iːnŋgambai 
+warm: osopu 
+wash: uso- 
+wash: usuri- 
+water: kouyawa 
+we: -aiŋga- | sEno 
+weep: mera- 
+weep: mɛra- 
+we: sen- | sEno 
+we: sɛn- | sEno 
+we: seno | sEno 
+we: sɛno | sEno 
+we: -singga- | sEno 
+we: siŋgɛ | sEno 
+wet: mërimëriva 
+wet: mʌrimʌrißa 
+what: amde | amdɛ 
+what: amdɛ 
+where: aine 
+where: ainɛ 
+white: kuyandi 
+who: yaue | yauɛ 
+who: yauɛ 
+wind: sidau 
+wing: sambdabu 
+wing: samdabu 
+woman: ene | ɛnɛ 
+woman: ɛnɛ 
+woman: ënëmu | ɛnɛ 
+woman: ʌnʌmu | ɛnɛ 
+wood: më:ndi 
+wood: mʌːndi 
+yellow: kabariangk | kabariaŋk 
+yellow: kabariaŋk 
+yes: e: 
+yes: ɛː 
+yes: eze 
+yes: ɛzɛ 
+yes: o: 
+yes: oː 
+yesterday: eizi 
+yesterday: weyengke 
+yesterday: weyɛŋke 
+you: -tengge | nE	nɛ 
+you: -tingga- | nE	nɛ 
+you: ton- | nE	nɛ 
+you: tono | nE	nɛ 
+every: tuyaŋgʌi 
+ash: goimp	kumbisum 
+abdomen: aβo-	uŋgu- 
+bigness: aŋgay 
+large: aŋgay 
+breasts: auri 
+come from: ma	ma- 
+be dead: koma	koma- 
+dead: koma	koma- 
+ground: hɔβ 
+land: hɔβ 
+soil: hɔβ 
+fly: yabrro- 
+fly v.: yabrro- 
+1 sg.: iyE	iyɛ 
+head louse: mei 
+male: wʌmp 
+much: toy	toyŋgay 
+multiple: toy	toyŋgay 
+several: toy	toyŋgay 
+hill: pelubu	s3toNgob	sʌ	toŋgob 
+title: Eni	ɛni- 
+nighttime: ogus 
+adulterous: kEgr3k	kɛgrʌːk 
+single: kEgr3k	kɛgrʌːk 
+the: kEgr3k	kɛgrʌːk 
+unprincipled: kEgr3k	kɛgrʌːk 
+rainy weather: kouyawa 
+path: imaNgay 
+route: imaNgay 
+hide: mEmb~E	mɛmbɛ- 
+little: urʌrabu 
+smallness: urʌrabu 
+rock: goimbo	goimb~o 
+2 sg: nE	nɛ 
+grind: akEr	akɛr 
+go: tɛgo- 
+1 pl. inc.: sEno 
+we₁: sEno 
+whiteness: kuyandi 
+who?: yauɛ 
+female: ɛnɛ 
+distant: saŋgai 
+dull: gundugamboi 
+serious: gundugamboi 
+close: suŋgun 
+ner: suŋgun 

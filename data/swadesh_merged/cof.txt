@@ -1,0 +1,316 @@
+all: heralela	hiraʼle	kuʼra	piyãʼle 
+every: heralela	hiraʼle	kuʼra	piyãʼle 
+ash: nin fu	ʼnĩ-Φu 
+ashes: nin fu	ʼnĩ-Φu 
+bark: kido	ʼkiˀdo 
+abdomen: pekolo 
+belly: pekolo 
+big: ayankan	wa	wã	ʔuwã 
+bigness: ayankan	wa	wã	ʔuwã 
+large: ayankan	wa	wã	ʔuwã 
+bird: picu	ʼpiʰc̷u 
+bite: hali	haʼli-no 
+black: pa	pa-	pa-ˀba-ʼkã 
+blood: asan	ʔaʰʼsã 
+bone: cide	c̷iʼˀde 
+breast: ku 
+breasts: ku 
+claw: Newewe	newewe	tewewe 
+nail: Newewe	newewe	tewewe 
+talon: Newewe	newewe	tewewe 
+cloud: poyo	poʼyo 
+cold: hida	hiʼˀda	isen	ʔiʰʼsã 
+come: ha	ha-ʼno 
+come from: ha	ha-ʼno 
+be dead: piya	piya-no 
+dead: piya	piya-no 
+die: piya	piya-no 
+dog: susu	suʼsu 
+drink: kuci	kuʰʼc̷i-no 
+dry: fun	Φũ 
+ear: punki	ʼpũki 
+earth: to 
+ground: to 
+land: to 
+soil: to 
+eat: fi	ʼΦi- 
+egg: pipoka	piʰʼpoka 
+eye: kaka	kaʰʼka 
+fat: mulu 
+fat n.: mulu 
+grease: mulu 
+lubricant: mulu 
+oil: mulu 
+feather: fu	Φu 
+fire: nin	nĩ 
+fish: waca	waʰc̷a 
+fly: hahi	ʼha-hi-no 
+fly v.: hahi	ʼha-hi-no 
+foot: nede	ʼneˀde 
+full: tuwale	tuwã-ʼle	tuʼwã 
+give: kuwa	kuwa-no 
+good: c̷arã	sen	sẽ	ʼʔora 
+green: losin	loʰsĩ-ˀbã 
+hair: a Φu	haʰpiʼsu	ʔa 
+hand: tede	teˀde 
+left hand: tede	teˀde 
+right: tede	teˀde 
+head: misu	miʼsu 
+hear: mera	meʼra-no 
+heart: tenka	tẽ-ka ni	ʼtẽ-ka 
+horn: kaci	kaʰʼc̷i 
+1 sg.: cike	c̷iʰʼke	la 
+I: cike	c̷iʰʼke	la 
+kill: tote	toʰʼte-no 
+knee: ne-ˀbolõ	nede bolonka 
+be knowledgeable: mira	ʼmi-ra-no 
+know: mira	ʼmi-ra-no 
+leaf: hapisu	haʰpiʼsu 
+lie: co	c̷o-no	c̷o-ʼˀdi-no 
+lie down: co	c̷o-no	c̷o-ʼˀdi-no 
+liver: hake	haʰʼke 
+long: baren	ˀbaʼrẽ- 
+head louse: mu	seki	seʰʼka 
+louse: mu	seki	seʰʼka 
+male: caci	ʔuʼnila 
+man: cacila	ʼc̷aʰc̷i 
+many: duke	ʼˀduke 
+much: duke	ʼˀduke 
+multiple: duke	ʼˀduke 
+several: duke	ʼˀduke 
+flesh: cacika	ʼc̷aʰc̷i-ka 
+meat: cacika	ʼc̷aʰc̷i-ka 
+moon: pe 
+hill: du	ˀdu 
+mountain: du	ˀdu 
+mouth: fiki foro	Φiʰʼki Φoʼro 
+name: mumun	muʼmũ 
+title: mumun	muʼmũ 
+neck: kudan	kuʼˀdã 
+new: kasan	kaʰʼsã 
+night: kepen	keʰʼpẽ 
+nighttime: kepen	keʰʼpẽ 
+nose: kinfu	ʼkĩΦu 
+not: te	tu 
+adulterous: man 
+one: man 
+single: man 
+that: hun	ya 
+the: man 
+unprincipled: man 
+human: cacila	ʼc̷aʰc̷i 
+human being: cacila	ʼc̷aʰc̷i 
+person: cacila	ʼc̷aʰc̷i 
+rain: suwa	suʼwa 
+rainy weather: suwa	suʼwa 
+red: lu	ʼlu-ˀbã	ʼluˀba-kã 
+path: minu 
+road: minu 
+route: minu 
+root: kuʰʼpe	telenle	teʼlenle 
+round: torinkan	torĩ-ʼkã 
+sand: ʼc̷alã 
+say: ti	ti-no	ʼti 
+see: kira	kiʼra-no 
+seed: ni	puʰʼka 
+sit: cu	c̷uˀdi-no	ʼc̷u-no 
+hide: kido	ʼkiˀdo 
+skin: kido	ʼkiˀdo 
+sleep: kaco	kaʰʼc̷o-no 
+little: nakan	naʰʼka	ʼna-naʰka	ʼnakã 
+small: nakan	naʰʼka	ʼna-naʰka	ʼnakã 
+smallness: nakan	naʰʼka	ʼna-naʰka	ʼnakã 
+smoke: nin poyo	poʼyo 
+stand: wiru ra 
+star: cabo	c̷aʼˀbo 
+rock: su 
+stone: su 
+sun: yo 
+swim: mare	maʼre-no	pi-sula-no 
+tail: me 
+this: in 
+2 sg: nu	nula 
+thou: nu	nula 
+you: nu	nula 
+tongue: nikaka	niʰʼka-ka 
+tooth: tefun	teʰʼΦũ 
+tree: cide 
+grind: palu	palu-ʼka	palú	paʼlu 
+two: palu	palu-ʼka	palú	paʼlu 
+go: nena	neʼˀde-c̷i hi-no	ʼnena-no 
+walk: nena	neʼˀde-c̷i hi-no	ʼnena-no 
+hot: lo-ʼˀbã 
+warm: lo-ʼˀbã 
+water: pi 
+1 pl. inc.: cikela 
+we: cikela 
+we₁: cikela 
+what: ti 
+white: fi	Φi-ʰʼˀbã 
+whiteness: fi	Φi-ʰʼˀbã 
+who: mo 
+who?: mo 
+female: sona	ʼso-na 
+woman: sona	ʼso-na 
+yellow: lake	laʰʼke-ˀbã 
+distant: nuʼwiri	ʼhaˀbi	ˀbaʼre 
+far: nuʼwiri	ʼhaˀbi	ˀbaʼre 
+dull: haʼˀdõ 
+heavy: haʼˀdõ 
+serious: haʼˀdõ 
+close: keʼlo	keʼlo-le 
+near: keʼlo	keʼlo-le 
+ner: keʼlo	keʼlo-le 
+salt: ʼpĩˀba 
+short: nakã	ʼnapuʰkã 
+snake: piʼni 
+thin: na-pẽ	ʼnaˀdẽ-kã 
+wind: wu 
+earthworm: ʔohʼtõ-koro 
+worm: ʔohʼtõ-koro 
+year: waʰʼta 
+2 pl.: nu-ʼla 
+ye: nu-ʼla 
+you all: nu-ʼla 
+3 pl.: ya-ʼla 
+they: ya-ʼla 
+where: nuʼwi	nũc̷i	tile 
+where?: nuʼwi	nũc̷i	tile 
+when: numaʼsi 
+when?: numaʼsi 
+how: ni-yã	niʼyã 
+how?: ni-yã	niʼyã 
+some: ʼnasi	ʼti-tiya 
+few: na-ri	na-si 
+three: pemancá	peʼmã	peʼmã-ʼka 
+four: hũ-palu	hũ-palu-ʼka	junpalu 
+five: mante	ʼmã-te	ʼmã-te-ka 
+broad: heleʼlẽ	ʔaʼyãn-kã 
+wide: heleʼlẽ	ʔaʼyãn-kã 
+wideness: heleʼlẽ	ʔaʼyãn-kã 
+thick: ʼˀbẽˀbe 
+narrow: na-kã	na-ˀdẽ 
+child: na 
+principal wife: ʼso-na 
+wife: ʼso-na 
+husband: ʔuʼnila 
+his mother: ʔaʼyã 
+mother: ʔaʼyã 
+my mother: ʔaʼyã 
+father: ʔaʰʼpa 
+his father: ʔaʰʼpa 
+my father: ʔaʰʼpa 
+animal: animal 
+forest: heʼlẽ 
+woods: heʼlẽ 
+branch: ʔaʼli 
+stick: ʔaʼli 
+fruit: ka	ni	puʰʼka 
+flower: luʼli 
+grass: laʰʼpa	taʰʼpe 
+cord: siʼli 
+rope: siʼli 
+fingernail: tewewe 
+leg: ʼneˀde 
+wing: ʼpã-pe 
+gut: ʼpe-sili 
+guts: ʼpe-sili 
+insides: ʼpe-sili 
+intestine: ʼpe-sili 
+intestines: ʼpe-sili 
+back: ˀbeʰʼtẽˀde 
+suck: c̷u-no 
+spit: tuʰʼpa-ke-no	tuʰʼΦa-ke-no 
+vomit: kaʰʼc̷a-ke-no 
+blow: Φuʼri-po-no 
+breath: haʰʼsa ka-no	haʰʼsa ke-no 
+breathe: haʰʼsa ka-no	haʰʼsa ke-no 
+laugh: kaʼkari-no 
+laughter: kaʼkari-no 
+cogitate: tẽka ka-no	ʼtẽ-ha-no 
+reflect: tẽka ka-no	ʼtẽ-ha-no 
+think: tẽka ka-no	ʼtẽ-ha-no 
+smell: ʼpuˀba-ʔi-no 
+sniff: ʼpuˀba-ʔi-no 
+afraid: heʼle- 
+be afraid: heʼle- 
+fear: heʼle- 
+fright: heʼle- 
+alive: ʼsõna-no 
+be alive: ʼsõna-no 
+life: ʼsõna-no 
+live: ʼsõna-no 
+living: ʼsõna-no 
+fight: kiʼkaʔa-no 
+hunt: heʼlẽ-c̷i hi-no 
+beat: ke-no	ki-no 
+hit: ke-no	ki-no 
+strike: ke-no	ki-no 
+cut: pore-no	wane-no	waʼne-po-no 
+hack: pore-no	wane-no	waʼne-po-no 
+pierce: tiʼli-no 
+stab: tiʼli-no 
+dig: to towa-no 
+tell lies: neʼne	neʼne pa-no 
+turn: tĩpoʼlari-no	tĩpoʼle-no 
+turn around: tĩpoʼlari-no	tĩpoʼle-no 
+turn round: tĩpoʼlari-no	tĩpoʼle-no 
+drop: ʼkepo-ʔi-no	ʼkeʔere-ʔi-no 
+fall: ʼkepo-ʔi-no	ʼkeʔere-ʔi-no 
+grasp: ta-no 
+hold: ta-no 
+hold in arm: ta-no 
+squeeze: ˀdiʼla-	ˀdiʼli-no 
+wring: ˀdiʼla-	ˀdiʼli-no 
+rub: ʔiʼli-po-no 
+wipe: ʔiʼli-po-no 
+wash: c̷ale-no 
+wash clothes: c̷ale-no 
+push: tuʼli-po-no 
+shove: tuʼli-po-no 
+throw: waʼla-	ʼkepo-	ʼkeʔere- 
+bind: teʼle-no 
+fasten: teʼle-no 
+tie: teʼle-no 
+tie up: teʼle-no 
+sew: ʔoro-ʼno 
+count: ʼmi-no 
+enumerate: ʼmi-no 
+number: ʼmi-no 
+tally: ʼmi-no 
+sing: ke-no 
+have fun: ʼtẽsaʔa-no 
+play: ʼtẽsaʔa-no 
+float: ʔũ-ra-	ʔũ-ʔi- 
+flow: hi-	luʼwe- 
+brook: pi 
+river: pi 
+stream: pi 
+lake: wa pi-pi-ʼlu 
+dust: luʰʼku	to poʼyo 
+fog: poʼyo 
+sky: yo kiˀdo 
+blaze: lu	niʼya-no 
+burn: lu	niʼya-no 
+day: ma 
+daylight: ma 
+daytime: ma 
+bad: ʼse-ʔiʰto 
+evil: ʼse-ʔiʰto 
+rot: peʰtẽ-no	peʰʼtẽ-ka 
+rotten: peʰtẽ-no	peʰʼtẽ-ka 
+dirty: to miˀdiʼka	to pũ 
+filthy: to miˀdiʼka	to pũ 
+soiled: to miˀdiʼka	to pũ 
+straight: tu	tuka 
+sharp: teya-ʼka	teʼyũ 
+blunt: teʼya ʔiʰtõ 
+smooth: laʼyũ 
+damp: ʔaʰʼtã 
+wet: ʔaʰʼtã 
+correct: c̷a	sẽ 
+right side: c̷a nã-c̷i 
+left: haʼla nãc̷i 
+in: tẽpe 
+inside: tẽpe 
+and: ʼhunsi 

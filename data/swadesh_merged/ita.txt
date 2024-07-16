@@ -1,0 +1,412 @@
+all: tutti | ogni	tutto 
+all: tutto, tutti | ogni	tutto 
+and: e | e	ed 
+animal: animale 
+ashes: cenere | cenere	ceneri 
+at: a, nell- | a	in 
+back: indietro | dorso	schiena 
+back: ritorno | dorso	schiena 
+bad: male | cattivo	malo 
+bad: malo | cattivo	malo 
+bark: abbaiare | corteccia	scorza 
+bark: corteccia | corteccia	scorza 
+because: perche | perché 
+because: perchè | perché 
+belly: ventre | pancia	ventre 
+big: grande | grande	grosso 
+big: grande, grosso | grande	grosso 
+bird: uccello 
+bite: mordere 
+black: nero 
+blood: sangue | saNgwe	sangue 
+blow: soffiare 
+bone: osso 
+breast: petto | pEtto	petto	seno 
+breast: seni | pEtto	petto	seno 
+breast: seno | pEtto	petto	seno 
+breathe: respirare | respirare	respiro 
+breathe: soffiare | respirare	respiro 
+burn: ardere | ardere	bruciare 
+burn: brucciare | ardere	bruciare 
+burn: bruciare | ardere	bruciare 
+child: bambino 
+child: bambino, bambina 
+cloud: nuvola | nube	nuvola 
+cold: freddo 
+come: venire | vEn	venire 
+correct: correggere (verb) | corretto	esatto	giusto 
+correct: giusto | corretto	esatto	giusto 
+count: contare | contare	conteggio 
+cut: tagliare 
+day: giorno 
+die: dormire | mor	morire	morto 
+die: morire | mor	morire	morto 
+dig: scavare | scavare	vangare	zappare 
+dirty: sporco | sporco	sudicio 
+dirty: sudicio | sporco	sudicio 
+dog: cane | cane	kane 
+drink: bere 
+dry: secco | asciutto	secco 
+dull: smussato | pesante | noioso	spuntato 
+dust: polvere 
+ear: orecchio | orecchio	orekkyo 
+earth: terra 
+eat: mangiare 
+egg: uovo 
+egg: wɔvo | uovo 
+eye: occhio | occhio	okkyo 
+fall: cadere 
+far: distante | distante	lontano 
+far: lontano | distante	lontano 
+father: padre 
+fat (n.): grasso 
+fear: avere paura | paura	temere 
+feather: penna / piuma 
+feather: piuma 
+few: pochi | pochi	poco 
+fight: combattere | combattere	lottare 
+fight: lottare | combattere	lottare 
+fingernail: unghia 
+fire: fuoco | fuoco	fwoko 
+fish: pɛʃe | peSe	pesce 
+fish: pesce | peSe	pesce 
+five: cinque 
+float: galleggiare 
+flower: fiore 
+flow: fluire | fluire	scorrer	scorrere 
+flow: scorrere | fluire	scorrer	scorrere 
+fly (v.): volare 
+fog: nebbia 
+foot: piede 
+forest: bosco | bosco	foresta	selva 
+forest: foresta | bosco	foresta	selva 
+forest: forɛsto | bosco	foresta	selva 
+four: quatro | quattro 
+four: quattro 
+freeze: congelare | gelare	ghiacciare 
+fruit: frutto | frutta	frutto 
+full: colmo | pieno	pyEno 
+full: pieno | pieno	pyEno 
+give: dare 
+good: bene | buono 
+good: buono 
+grass: erba 
+green: verde 
+guts: intestino, budella | budella	intestini	intestino	intestinos 
+hair: capelli | capelli	capello	pelo 
+hair: capello /capelli   (in italian is used singular or plural) | capelli	capello	pelo 
+hand: mano 
+head: testa | capo	testa 
+head: tɛsta | capo	testa 
+hear: sentire | sentire	ud	udire 
+heart: cuore 
+heavy: pesante 
+he: egli | egli	lui 
+he: il | egli	lui 
+he: lui | egli	lui 
+here: qui | qua	qui 
+hit: colpire | battere	colpire 
+hold: tenere 
+horn: corno | corno	korno 
+horn: corno / clacson | corno	korno 
+how: come 
+hunt: cacciare 
+husband: marito 
+husband: padre | marito 
+husband: sposo | marito 
+ice: ghiaccio 
+if: se 
+I: io 
+in: in, nell- | dentro	in 
+kill: ammazzare | cacciare	uccidere 
+kill: uccidere | cacciare	uccidere 
+knee: ginocchio | ginocchio	jinokkyo 
+know: sapere 
+lake: lago 
+laugh: ridere 
+leaf: foglia | foLa	foglia 
+left: sinistra | sinistra	sinistro 
+leg: gamba 
+lie: giacere | sdraiarsi | dire bugie	distendersi	giacere	mentire 
+lie: sdraiare | sdraiarsi | dire bugie	distendersi	giacere	mentire 
+liver: fegato 
+live: vivere | vita	vivere	vivo 
+long: lɔngo | lungo 
+long: lungo 
+louse: pidocchio | pidocchio	pidokky~o 
+man: uomo | essere umano	persona	umano	uomo 
+man: wɔmo | essere umano	persona	umano	uomo 
+many: molti | molti	molto 
+many: molto/molti | molti	molto 
+meat: carne 
+moon: luna 
+mother: madre 
+mother: mamma | madre 
+mountain: montagna | collina	monta5a	montagna	monte 
+mountain: monte | collina	monta5a	montagna	monte 
+mouth: bocca 
+name: nome | nome	titolo 
+narrow: stretto 
+near: vicino 
+neck: collo | collo	nuca 
+new: nuovo | nuovo	nwovo 
+night: notte 
+nose: naso 
+not: no | non 
+not: non 
+old: vecchio 
+one: uno | un	una	uno 
+other: altro | altra	altro 
+person: persona | essere umano	persona	umano	uomo 
+play: giocare 
+play: gioccare | giocare 
+pull: tirare 
+push: spingere 
+rain: pioggia 
+red: rosso 
+right: destra | mano | destra	destro 
+river: fiume | fiume	ruscello	torrente 
+road: strada | sentyaro	strada	strata	via 
+road: via | sentyaro	strada	strata	via 
+root: radice 
+rope: corda 
+rope: fune | corda 
+rotten: marcio | marcio	marcito	putrido 
+round: giro (substantive) | rotondo	tondo 
+round: rotondo | rotondo	tondo 
+rub: strofinare | fregare	sfregare	strofinare 
+salt: sal | sale 
+salt: sale 
+sand: sabbia | rena	sabbia 
+say: dire | rena	sabbia 
+scratch: graffiare | graffiare	grattare 
+sea: mare 
+seed: seme | seme	semente	semi 
+seed: sɛme | seme	semente	semi 
+see: vedere | ved	vedere 
+sew: cucire 
+sharp: aguzzo | acuto	affilato	aguzzo 
+short: corto | corte	corto 
+sing: cantare 
+sit: sedere | sedere	sedersi 
+sit: star seduti /essere seduti | sedere	sedersi 
+skin: pelle | cute	pElle	pelle 
+sky: ciello | cielo 
+sky: cielo 
+sleep: dormire 
+small: piccolo 
+smell: annusare | annusare	odorare	sentire 
+smell: odorare, sentire l\odore | annusare	odorare	sentire 
+smoke: fumare | fumo 
+smoke: fumo 
+smoke: fumo (substantive) 
+smooth: dolce | liscio 
+snake: serpe, serpente | serpe	serpente 
+snow: neve 
+some: alcuni, qualche | alcuni	qualche 
+spit: sputare 
+split: spaccare, separare | dividere	fendere	separare	spaccare 
+squeeze: spremere | spremere	storcere	stringere 
+stab: ferire | accoltellare	pugnalare 
+stand: essere / stare in piedi | stare	stare in piedi 
+stand: stare in piedi | stare	stare in piedi 
+star: stella 
+stick: bacchetta | bastone	rametto	ramo 
+stick: bastone | bastone	rametto	ramo 
+stone: pietra | pietra	pyEtra	sasso 
+stone: sasso | pietra	pyEtra	sasso 
+straight: diretto | diritto	dritto 
+straight: dritto | diritto	dritto 
+suck: succhiare 
+sun: sole 
+swell: gonfiare, gonfiarsi 
+swim: nuotare 
+tail: coda 
+that: quello | quella	quello | un	una	uno 
+that: quello...lì | quella	quello | un	una	uno 
+that: questo...qua | quella	quello | un	una	uno 
+there: là | ivi	là 
+there: la, qua | ivi	là 
+there: lì | ivi	là 
+they: essi | esse	essi	loro 
+they: loro | esse	essi	loro 
+thick: spesso | grosso	spesso 
+think: pensare 
+thin: sottile, fine | magro	sottile 
+this: questo | questa	questo 
+this: questo... qui | questa	questo 
+thou: sebbena | Lei	tu 
+thou: tu | Lei	tu 
+three: tre 
+throw: buttare | buttare	gettare	lanciare	tirare 
+throw: gettare | buttare	gettare	lanciare	tirare 
+tie: cravatta (substantive) | legare 
+tie: legare 
+tongue: lingua | liNgwa	lingua 
+tooth: dente | dante	dente 
+tree: albero 
+turn: girare | girare	girarsi 
+two: due 
+vomit: vomitare 
+walk: camminare | andare	camminare 
+walk: passeggiare | andare	camminare 
+warm: caldo | caldo	tiepido 
+wash: lavare 
+water: acqua | acqua	akwa 
+water: ACQUA | acqua	akwa 
+we: noi 
+wet: umido, bagnato | bagnato	molle	umido 
+what: che 
+what: che? 
+what: che cosa 
+when: quando 
+where: dove | dove	ove 
+white: bianco 
+who: chi 
+who: chi? 
+wide: largo 
+wife: moglie | moglie	sposa 
+wind: vento 
+wing: ala 
+wipe: asciugare 
+with: con 
+woman: dɔna | donna	femmina 
+woman: donna | donna	femmina 
+worm: verme | lombrico	verme 
+year: anno 
+yellow: giallo 
+you: lei | Lei	tu | Loro	voi 
+you: tu | Lei	tu | Loro	voi 
+you: voi | Lei	tu | Loro	voi 
+you: voi (you all) | Lei	tu | Loro	voi 
+every: ogni	tutto 
+ash: cenere	ceneri 
+abdomen: pancia	ventre 
+bigness: grande	grosso 
+large: grande	grosso 
+breasts: pEtto	petto	seno 
+claw: artiglio	grinfia 
+nail: artiglio	grinfia 
+talon: artiglio	grinfia 
+come from: vEn	venire 
+be dead: mor	morire	morto 
+dead: mor	morire	morto 
+ground: terra 
+land: terra 
+soil: terra 
+fly: volare 
+fly v.: volare 
+left hand: mano 
+1 sg.: io 
+be knowledgeable: sapere 
+lie down: sdraiarsi 
+head louse: pidocchio	pidokky~o 
+male: uomo 
+much: molti	molto 
+multiple: molti	molto 
+several: molti	molto 
+flesh: carne 
+hill: collina	monta5a	montagna	monte 
+title: nome	titolo 
+nighttime: notte 
+adulterous: un	una	uno 
+single: un	una	uno 
+the: un	una	uno 
+unprincipled: un	una	uno 
+human: essere umano	persona	umano	uomo 
+human being: essere umano	persona	umano	uomo 
+rainy weather: pioggia 
+path: sentyaro	strada	strata	via 
+route: sentyaro	strada	strata	via 
+hide: cute	pElle	pelle 
+little: piccolo 
+smallness: piccolo 
+rock: pietra	pyEtra	sasso 
+2 sg: Lei	tu 
+grind: due 
+go: andare	camminare 
+hot: caldo	tiepido 
+1 pl. inc.: noi 
+we₁: noi 
+whiteness: bianco 
+who?: chi 
+female: donna	femmina 
+distant: distante	lontano 
+serious: pesante 
+close: vicino 
+ner: vicino 
+earthworm: lombrico	verme 
+3 sg.: egli	lui 
+she: egli	lui 
+2 pl.: Loro	voi 
+ye: Loro	voi 
+you all: Loro	voi 
+3 pl.: esse	essi	loro 
+where?: dove	ove 
+when?: quando 
+how?: come 
+broad: largo 
+wideness: largo 
+fat: grasso 
+principal wife: moglie	sposa 
+his mother: madre 
+my mother: madre 
+his father: padre 
+my father: padre 
+woods: bosco	foresta	selva 
+branch: bastone	rametto	ramo 
+cord: corda 
+grease: grasso 
+arm: mano 
+gut: budella	intestini	intestino	intestinos 
+insides: budella	intestini	intestino	intestinos 
+intestine: budella	intestini	intestino	intestinos 
+intestines: budella	intestini	intestino	intestinos 
+breath: respirare	respiro 
+laughter: ridere 
+cogitate: pensare 
+reflect: pensare 
+sniff: annusare	odorare	sentire 
+afraid: paura	temere 
+be afraid: paura	temere 
+fright: paura	temere 
+alive: vita	vivere	vivo 
+be alive: vita	vivere	vivo 
+life: vita	vivere	vivo 
+living: vita	vivere	vivo 
+beat: battere	colpire 
+strike: battere	colpire 
+hack: tagliare 
+cut open: dividere	fendere	separare	spaccare 
+pierce: accoltellare	pugnalare 
+tell lies: dire bugie	distendersi	giacere	mentire 
+turn around: girare	girarsi 
+turn round: girare	girarsi 
+drop: cadere 
+grasp: tenere 
+hold in arm: tenere 
+wring: spremere	storcere	stringere 
+wash clothes: lavare 
+shove: spingere 
+bind: legare 
+fasten: legare 
+tie up: legare 
+enumerate: contare	conteggio 
+number: contare	conteggio 
+tally: contare	conteggio 
+have fun: giocare 
+swell: gonfiare 
+brook: fiume	ruscello	torrente 
+stream: fiume	ruscello	torrente 
+ocean: mare 
+blaze: ardere	bruciare 
+daylight: giorno 
+daytime: giorno 
+evil: cattivo	malo 
+rot: marcio	marcito	putrido 
+filthy: sporco	sudicio 
+soiled: sporco	sudicio 
+blunt: noioso	spuntato 
+damp: bagnato	molle	umido 
+right side: destra	destro 
+inside: dentro	in 

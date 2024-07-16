@@ -1,0 +1,147 @@
+all: ige 
+ashes: ukat 
+bark: peθ 
+belly: u 
+big: waʔ 
+bird: gwek 
+bite: gɛm 
+black: iman 
+blood: θeʔ | sE	θeʔ 
+bone: ɔk | ok	ɔk 
+breast: nag 
+claw: sak | sak	saǯi 
+claw: saǯi | sak	saǯi 
+cloud: tumuθ 
+cold: čikwa | čikwa 
+come: ač | aT	ač 
+dog: kudɔ | k3do	kudɔ 
+drink: wɛt | wEt	wɛt 
+dry: iðege 
+ear: peθ | bes	pes	peθ 
+eat: gab 
+egg: abeyɛ 
+eye: ɛk | Ek	ɛk 
+fat (n.): gimaʔ 
+fat (n.): muŋnat 
+feather: kotop 
+fingernail: sak 
+fingernail: saǯi 
+fire: dak | dak	tak 
+fish: kolɛʔ | kolE	kolɛʔ 
+fly (v.): irib 
+foot: tɛg 
+give: miaʔ 
+good: kolok 
+grass: oːʔ 
+hair: siǯ | siǯ 
+hand: an 
+head: ik 
+hear: ibug 
+heart: buku 
+horn: ɛb | Eb	ɛb 
+I: aya 
+kill: kɛn 
+knee: kutuŋ 
+know: yeč | yes	yeč 
+know: yes | yes	yeč 
+leaf: rom 
+liver: kewoː | keo	kewoː 
+long: igib 
+louse: gɛn 
+man: ŋɛtat | nEb	nEp	nɛb	yok 
+many: wɛr 
+meat: yei 
+moon: awan 
+mountain: ariː | ari	ariː	sog 
+mouth: ak 
+name: yed 
+neck: moːk 
+night: imɛn | imEn	imɛn	m3	mi 
+one: ɛdɛθ | ɛdɛs	ɛdɛθ 
+other: ɛdɛn 
+person: nɛb | nEb	nEp	nɛb	yok 
+person: yok | nEb	nEp	nɛb	yok 
+rain: war 
+red: du 
+road: od | od	ot 
+root: tɛgad 
+round: mukul 
+sand: gim 
+say: baː˗ | baː- 
+seed: kinjomat 
+see: iŋɛn | NEn	iŋɛn 
+sit: gemač | gemač 
+skin: kus | k3s	k3t	kus	kut 
+sleep: enuč | enuč 
+small: gwat | gwat	manaŋ 
+small: manaŋ | gwat	manaŋ 
+smoke: ar 
+snake: gogoi 
+stand: iraɳ 
+star: kɔkɛl | kokEi	kɔkɛl 
+straight: ratan 
+sun: gi | g3	gi 
+tail: akoθemat | akoθemat	lado 
+tail: lado | akoθemat	lado 
+this: nin 
+thou: bitia | biya 
+thou: biya 
+three: iyɔn 
+tongue: ɛdɛɓ | EdEb	ɛdɛɓ 
+tooth: ilog 
+tree: ad 
+two: nɛɓɛč | nebeT	nɛbɛc	nɛɓɛč 
+walk: gau 
+warm: aɓ 
+water: kweʔ | kwE	kweʔ	kwi 
+we (excl.): isia 
+we (incl.): iɳa 
+wet: ɓaɓal 
+what: ɛʔ 
+white: ʙeǯ | ʙeǯ 
+who: ič | ič 
+woman: gwaθat 
+every: ige 
+ash: ukat 
+bigness: waʔ 
+large: waʔ 
+breasts: nag 
+nail: sak	saǯi 
+talon: sak	saǯi 
+come from: aT	ač 
+fly: irib 
+fly v.: irib 
+left hand: an 
+right: an 
+1 sg.: aya 
+be knowledgeable: yes	yeč 
+male: ŋɛtat 
+much: wɛr 
+multiple: wɛr 
+several: wɛr 
+hill: ari	ariː	sog 
+title: yed 
+nighttime: imEn	imɛn	m3	mi 
+nose: 5ab 
+adulterous: ɛdɛs	ɛdɛθ 
+single: ɛdɛs	ɛdɛθ 
+that: ɛdɛs	ɛdɛθ 
+the: ɛdɛs	ɛdɛθ 
+unprincipled: ɛdɛs	ɛdɛθ 
+human: nEb	nEp	nɛb	yok 
+human being: nEb	nEp	nɛb	yok 
+rainy weather: war 
+path: od	ot 
+route: od	ot 
+hide: k3s	k3t	kus	kut 
+little: gwat	manaŋ 
+smallness: gwat	manaŋ 
+2 sg: biya 
+you: biya 
+grind: nebeT	nɛbɛc	nɛɓɛč 
+1 pl. inc.: 3n3a	iɳa 
+we: 3n3a	iɳa 
+we₁: 3n3a	iɳa 
+whiteness: ʙeǯ 
+who?: ič 
+female: gwaθat 

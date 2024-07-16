@@ -1,0 +1,311 @@
+all: pont-	poñc 
+every: pont-	poñc 
+ash: taur	tweye 
+ashes: taur	tweye 
+bark: enmetre 
+abdomen: kātso 
+belly: kātso 
+big: orotstse 
+bigness: orotstse 
+large: orotstse 
+bird: salamo luwo	ṣalamo luwo 
+bite: tsāk- 
+black: erkent- 
+blood: y3s3r	yasar 
+bone: ay	āsta	āy 
+breast: p3ST3ne	piśpik	päścane 
+breasts: p3ST3ne	piśpik	päścane 
+cloud: tarkär 
+cold: krośce 
+come: k3nmaS3m	käm-	känmaṣṣäṃ 
+come from: k3nmaS3m	käm-	känmaṣṣäṃ 
+be dead: sruk-	srukau	sruket3r	sruketär 
+dead: sruk-	srukau	sruket3r	sruketär 
+die: sruk-	srukau	sruket3r	sruketär 
+dog: ku 
+drink: yok-	yok3m	yokäṃ 
+dry: asāre 
+ear: klauco	klautso 
+earth: keṃ 
+ground: keṃ 
+land: keṃ 
+soil: keṃ 
+eat: śu-	śuwaṃ	śuwā- 
+eye: ek 
+feather: paruwa	parwa 
+fire: puw4r	puwar 
+fish: laks	läkṣi 
+fly: plus-	pluṣäṃ	säl- 
+fly v.: plus-	pluṣäṃ	säl- 
+foot: paiyye 
+full: ite	īte 
+give: ai-	aiṣṣäṃ 
+good: kartse 
+green: motartstse 
+hair: matsi 
+hand: Sar	ṣar 
+left hand: Sar	ṣar 
+right: Sar	ṣar 
+head: āśce 
+hear: kLauS3m	klyaus-	klyauṣäṃ 
+heart: arañce	araɲce 
+horn: kroriy3i	krorīya	krorīyai 
+1 sg.: 53S	ñäś	ɲiś	ɲäś 
+I: 53S	ñäś	ɲiś	ɲäś 
+kill: kau-	kauṣäṃ 
+knee: keni 
+be knowledgeable: aiśtär	kärs-	kärsanaṃ 
+know: aiśtär	kärs-	kärsanaṃ 
+leaf: pilta 
+lie: lyäk- 
+lie down: lyäk- 
+liver: w3st3ry~e	wästarye 
+long: pärkare	walkeɲɲe 
+head louse: p3rSeri5	pärśeri	pärśeriñ 
+louse: p3rSeri5	pärśeri	pärśeriñ 
+male: enkwe	eṅkwe 
+man: Saumo	śaumo 
+many: māka	mākā 
+much: māka	mākā 
+multiple: māka	mākā 
+several: māka	mākā 
+flesh: misa 
+meat: misa 
+moon: meñe	meɲe 
+hill: S3le	ṣale 
+mountain: S3le	ṣale 
+mouth: koyn	koyṃ 
+name: 5em	ñem	ɲem 
+title: 5em	ñem	ɲem 
+new: 5uwe	ñuwe	ɲuwe	ɲwetstse 
+night: kästwer	ySiye	yṣiye	yṣīye 
+nighttime: kästwer	ySiye	yṣiye	yṣīye 
+nose: meli 
+not: mā 
+adulterous: Se	ṣe 
+one: Se	ṣe 
+single: Se	ṣe 
+that: samp	su 
+the: Se	ṣe 
+unprincipled: Se	ṣe 
+human: Saumo	śaumo 
+human being: Saumo	śaumo 
+person: Saumo	śaumo 
+rain: swese 
+rainy weather: swese 
+red: ratre	rtarya 
+path: ytary~e	ytārye 
+road: ytary~e	ytārye 
+route: ytary~e	ytārye 
+root: witsako 
+sand: warañc	waraɲce 
+say: wesk-	weṣṣäṃ 
+see: lkaS3m	lkāṣṣäṃ	läk- 
+seed: sārm	tāno	śäktālye 
+sit: laṃ-	āṣṣäṃ	ṣamäṃ	ṣäm- 
+hide: ewe	yece	yetse 
+skin: ewe	yece	yetse 
+sleep: klänts-	kläntsaṃ	ṣpane 
+little: lykaśke	totka 
+small: lykaśke	totka 
+smallness: lykaśke	totka 
+star: STiry~e	ścirye 
+rock: k3rw~e5e	kärweñe	kärweɲe 
+stone: k3rw~e5e	kärweñe	kärweɲe 
+sun: kaum	kauṃ 
+swim: nāsk-	nāṣṣäṃ 
+tail: päkā- 
+this: se 
+2 sg: tuwe 
+thou: tuwe 
+you: tuwe 
+tongue: k3ntw~o	kantwo 
+tooth: keme 
+tree: stam	stām 
+grind: wi 
+two: wi 
+go: i-	yaṃ 
+walk: i-	yaṃ 
+hot: emalle	emalye 
+warm: emalle	emalye 
+water: w3r	war	wranta 
+1 pl. inc.: wes 
+we: wes 
+we₁: wes 
+what: kuse	kùse 
+white: ārkwi 
+whiteness: ārkwi 
+who: kuse	kùse 
+who?: kuse	kùse 
+female: klyiye	klīye	śana 
+woman: klyiye	klīye	śana 
+yellow: tute 
+distant: lau	lauke 
+far: lau	lauke 
+dull: kramartse	kramartstse 
+heavy: kramartse	kramartstse 
+serious: kramartse	kramartstse 
+close: akartte	etsuwai	ysape 
+near: akartte	etsuwai	ysape 
+ner: akartte	etsuwai	ysape 
+salt: salyiye 
+short: totka 
+snake: arṣāklo	auk 
+wind: yente 
+earthworm: yel 
+worm: yel 
+year: pikul 
+3 sg.: su 
+he: su 
+she: su 
+2 pl.: yes 
+ye: yes 
+you all: yes 
+3 pl.: cey 
+they: cey 
+here: tane 
+there: omp	tane 
+where: ente	kùtameṃ 
+where?: ente	kùtameṃ 
+when: ente 
+when?: ente 
+how: mäkte 
+how?: mäkte 
+some: ṣemi 
+few: totka 
+other: alyek 
+three: tarya	trai	trey 
+four: śtwer	śtwāra 
+five: piś 
+broad: aurtstse 
+wide: aurtstse 
+wideness: aurtstse 
+fat: ṣalype	ṣmare 
+thick: ātstse 
+child: śamaśke 
+principal wife: śana 
+wife: śana 
+husband: petso 
+his mother: mācer 
+mother: mācer 
+my mother: mācer 
+father: pācer 
+his father: pācer 
+my father: pācer 
+animal: luwo 
+forest: karāś	wartto 
+woods: karāś	wartto 
+branch: karāk	śakātai 
+stick: karāk	śakātai 
+fruit: oko 
+flower: pyāpyo 
+grass: atiyai	atiyo 
+cord: śerkw 
+rope: śerkw 
+grease: ṣalype	ṣmare 
+claw: mekwa 
+fingernail: mekwa 
+nail: mekwa 
+leg: ckāckai	ckācko 
+arm: ṣar 
+back: sark 
+spit: pitke 
+vomit: ankaiṃ yām-	aṅkaiṃ 
+blow: pin-	pinaṣṣnäṃ 
+breath: anāsk-	anāṣṣäṃ	satāṣṣäṃ 
+breathe: anāsk-	anāṣṣäṃ	satāṣṣäṃ 
+laugh: ker-	kery- 
+laughter: ker-	kery- 
+cogitate: pälsk-	pälskanaṃ 
+reflect: pälsk-	pälskanaṃ 
+think: pälsk-	pälskanaṃ 
+smell: warṣṣäṃ	wärsk- 
+sniff: warṣṣäṃ	wärsk- 
+afraid: proskiye	prosko	prāskaṃ 
+be afraid: proskiye	prosko	prāskaṃ 
+fear: proskiye	prosko	prāskaṃ 
+fright: proskiye	prosko	prāskaṃ 
+alive: śai-	śaiṃ	śaul 
+be alive: śai-	śaiṃ	śaul 
+life: śai-	śaiṃ	śaul 
+live: śai-	śaiṃ	śaul 
+living: śai-	śaiṃ	śaul 
+fight: witāre	wät- 
+hunt: śer-	śerītsi 
+beat: aun-	karnäṣṣäṃ	kau-	pyāk-	tsop- 
+hit: aun-	karnäṣṣäṃ	kau-	pyāk-	tsop- 
+strike: aun-	karnäṣṣäṃ	kau-	pyāk-	tsop- 
+cut: karsnaṃ	kärst-	latkanaṃ 
+hack: karsnaṃ	kärst-	latkanaṃ 
+cut open: kaut-	kautanaṃ	wāk- 
+split: kaut-	kautanaṃ	wāk- 
+pierce: tsop-	tsopäṃ 
+stab: tsop-	tsopäṃ 
+dig: rapanaṃ	rāp- 
+tell lies: lyaśäṃ	waike 
+stand: kaltär	käly-	stäm- 
+turn: kluttaṅktär	sporttotär	spārtt- 
+turn around: kluttaṅktär	sporttotär	spārtt- 
+turn round: kluttaṅktär	sporttotär	spārtt- 
+drop: kloyotär	klāy- 
+fall: kloyotär	klāy- 
+squeeze: klupnātär	mely-	nusk-	nuskaṣṣäṃ 
+wring: klupnātär	mely-	nusk-	nuskaṣṣäṃ 
+rub: kantanatär	kānt-	lyu-	lyuwetär 
+wipe: lyyāstär 
+wash: laikanatär	lik- 
+wash clothes: laikanatär	lik- 
+pull: slaṅktär 
+push: nätk-	nätkanaṃ 
+shove: nätk-	nätkanaṃ 
+throw: karṣṣäṃ	kärsk-	saläṣṣäṃ	säl- 
+bind: kärkaṣṣäṃ	śanmästär	ścäm- 
+fasten: kärkaṣṣäṃ	śanmästär	ścäm- 
+tie: kärkaṣṣäṃ	śanmästär	ścäm- 
+tie up: kärkaṣṣäṃ	śanmästär	ścäm- 
+count: keś tā-	ṣäṃs-	ṣäṃṣtär 
+enumerate: keś tā-	ṣäṃs-	ṣäṃṣtär 
+number: keś tā-	ṣäṃs-	ṣäṃṣtär 
+tally: keś tā-	ṣäṃs-	ṣäṃṣtär 
+sing: pi-	piyaṃ 
+have fun: kāñmäṃ	kāɲm- 
+play: kāñmäṃ	kāɲm- 
+float: plus-	pluṣäṃ 
+flow: resk-	reṣṣäṃ 
+swell: staukkanatär 
+brook: cake 
+river: cake 
+stream: cake 
+lake: lyam 
+ocean: lyam	samudtär 
+sea: lyam	samudtär 
+dust: taur	tweye 
+sky: eprer	iprer 
+snow: śiñcatstse	śiɲcatstse 
+blaze: pälketär	tsakṣtär	tsäk- 
+burn: pälketär	tsakṣtär	tsäk- 
+day: kauṃ 
+daylight: kauṃ 
+daytime: kauṃ 
+old: ktsaitstse 
+bad: pakwāre	yolo 
+evil: pakwāre	yolo 
+rot: āmpau 
+rotten: āmpau 
+dirty: kraketstse	sal 
+filthy: kraketstse	sal 
+soiled: kraketstse	sal 
+sharp: akwatse	mātre 
+blunt: mālle 
+smooth: ṣmare 
+damp: karītstse	waiw- 
+wet: karītstse	waiw- 
+right side: saiwai	śwālyai 
+left: saiwai	śwālyai 
+at: -ne 
+in: -ne	enenka	eneṃ 
+inside: -ne	enenka	eneṃ 
+with: śle 
+and: wai	ṣap	ṣp 
+if: ente	krui	kwri 
+because: kuce	kùce	mäkte 

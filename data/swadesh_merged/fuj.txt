@@ -1,0 +1,417 @@
+all: (lɪ˗)˗čáp | -čáp 
+animal: lə˗ | lə-	muyɛ 
+animal: muyɛ | lə-	muyɛ 
+arm: č˗əla 
+arm: k˗əla 
+ashes: ɛwún | ɛwún 
+back: ɗ˗ə́ŋán | t̪-áŋán	ɗ-ə́ŋán 
+back: t̪˗áŋán | t̪-áŋán	ɗ-ə́ŋán 
+bad: ˗ekki | -ekki	t̪-ekki 
+bad: t̪˗ekki | -ekki	t̪-ekki 
+bark: c˗ijɛ | c-ijɛ	k-iyɛ 
+bark: k˗iyɛ | c-ijɛ	k-iyɛ 
+belly: ču˗ | ču-	ɛ-wɪ́ɲ 
+belly: ɛ˗wɪ́ɲ | ču-	ɛ-wɪ́ɲ 
+big: ˗ɓât | -ɓât	kə- 
+big: kə˗ | -ɓât	kə- 
+bird: ŋə́˗ | ŋə́-	ṛúwɛ̂ 
+bird: ṛúwɛ̂ | ŋə́-	ṛúwɛ̂ 
+bite: u˗gát̪˗ɔ t̪ə́n cə́ŋɔ́ | u-gát̪-ɔ t̪ə́n cə́ŋɔ́ 
+black: ˗ʊŋunt̪úʔú | -ʊŋunt̪úʔú 
+blood: ŋ˗un | Nun	ŋ-un 
+blow: kɔ́wr˗úǃ | kɔ́wr-ú! 
+bone: č˗wɔ́ɲ | k-wɔ́ɲ	kw~o5	č-wɔ́ɲ 
+bone: k˗wɔ́ɲ | k-wɔ́ɲ	kw~o5	č-wɔ́ɲ 
+branch: ɗ˗án | t̪-án	ɗ-án 
+branch: t̪˗án | t̪-án	ɗ-án 
+breast: čə˗ú | k3u	kə-ú	čə-ú 
+breast: kə˗ú | k3u	kə-ú	čə-ú 
+breathe: wʊ́ndʒáŋá t̪aliŋa | wʊ́ndʒáŋá t̪aliŋa 
+brother: l˗aŋ 
+brother: w˗aŋ 
+burn: t̪˗ɔgɔnɔ́ːṛan | t̪-ɔgɔnɔ́ːṛan 
+chest: kirim 
+child: kə́ló | kə́ló	tɪ́ó 
+child: tɪ́ó | kə́ló	tɪ́ó 
+claw: č˗ɛman | k-ɛman	č-ɛman 
+claw: k˗ɛman | k-ɛman	č-ɛman 
+cloud: kulɪ́ːlɪ́ | kulɪ́ːlɪ́ 
+cold: ŋ˗ɔ́t̪t̪ó | -ɔ́t̪t̪o	ŋ-ɔ́t̪t̪ó 
+cold: ˗ɔ́t̪t̪o | -ɔ́t̪t̪o	ŋ-ɔ́t̪t̪ó 
+come: aṛaǃ | ara	aṛa!	u-pɪ́nu	upinu 
+come: u˗pɪ́nu | ara	aṛa!	u-pɪ́nu	upinu 
+correct: ˗ɛ́ːṛá | -ɛ́ːṛá	k- 
+correct: k˗ | -ɛ́ːṛá	k- 
+count: kát̪t̪ɔ́ŋɔṛiǃ | kát̪t̪ɔ́ŋɔṛi! 
+cut: kɔ́aǃ | mərt̪ɔ́!	mɛrrɔ́! 
+cut: mɛrrɔ́ǃ | mərt̪ɔ́!	mɛrrɔ́! 
+cut: mərt̪ɔ́ǃ | mərt̪ɔ́!	mɛrrɔ́! 
+day: l˗úr | ǹt̪ɛ́ŋə́ná 
+day: ŋ˗úr | ǹt̪ɛ́ŋə́ná 
+day: ǹt̪ɛ́ŋə́ná | ǹt̪ɛ́ŋə́ná 
+die: w˗ačč˗ʊ́ | w-ačč-ʊ́	waTT 
+dig: kul˗ɔ́ǃ | kul-ɔ́! 
+dirty: ˗aŋart̪ɛ́ | -aŋart̪ɛ́	k-aŋart̪ɛ́ 
+dirty: k˗aŋart̪ɛ́ | -aŋart̪ɛ́	k-aŋart̪ɛ́ 
+dog: ɲ˗ɪ́n | t3n	t̪-ə́n	ɲ-ɪ́n 
+dog: t̪˗ə́n | t3n	t̪-ə́n	ɲ-ɪ́n 
+drink: íy˗ɔ́ǃ | iyo	íy-ɔ́! 
+dry: k˗ | -ɔ́ɲ	k- 
+dry: ˗ɔ́ɲ | -ɔ́ɲ	k- 
+dust: kulɪ́ːlɪ́ | kulɪ́ːlɪ́ 
+ear: č˗ərṛi | k-əṛi	k3ri	č-ərṛi 
+ear: k˗əṛi | k-əṛi	k3ri	č-ərṛi 
+earth: k˗əɓá 
+eat: ɛ́ǃ | ɛ́! 
+egg: l˗ɔ́ɲ | l-ɔ́ɲ	ŋ-ɔ́ɲ 
+egg: ŋ˗ɔ́ɲ | l-ɔ́ɲ	ŋ-ɔ́ɲ 
+eye: k˗í/č˗ | k-í	ki 
+fall: u˗bə́rg˗á | u-bə́rg-á 
+far: k˗ | k-	ɔ́ṛát̪ɔč 
+far: ɔ́ṛát̪ɔč | k-	ɔ́ṛát̪ɔč 
+father: tágíɲa | tágíɲa 
+fat (n.): ŋ˗ɛːṛá 
+fear: u˗luwɛ́ 
+feather: ɗ˗ | t̪-ulɛ́ŋá	ɗ- 
+feather: t̪˗ulɛ́ŋá | t̪-ulɛ́ŋá	ɗ- 
+few: l˗ | -ɔŋáɗmán	l- 
+few: ˗ɔŋáɗmán | -ɔŋáɗmán	l- 
+fight: uɣ˗íǃ | uɣ-í! 
+finger: l˗ɔman 
+fingernail: č˗ | k-ɛman	č- 
+fingernail: k˗ɛman | k-ɛman	č- 
+finger: ŋ˗ 
+fire: iɣɛ | igE	igɛ	ikɛ	iɣɛ 
+fire: igɛ | igE	igɛ	ikɛ	iɣɛ 
+fire: ikɛ | igE	igɛ	ikɛ	iɣɛ 
+fish: lammʷi | lammʷi	wum	ʊːmi 
+fish: ʊːmi | lammʷi	wum	ʊːmi 
+five: t̪ɔ́t̪t̪úí ~ át̪t̪úí | t̪ɔ́t̪t̪úí	t̯ɔ́t̯t̯úí	át̪t̪úí 
+flower: kʊbiraŋ 
+flow: ŋ˗ɔ́but̪t̪an | ŋ-ɔ́but̪t̪an 
+fly (v.): m̀˗bŕl˗ʊ́ 
+fog: kʊlɪ́lɪ́ | kʊlɪ́lɪ́ 
+foot: ɗ˗ | t̪-əmáṛí	ɗ- 
+foot: t̪˗əmáṛí | t̪-əmáṛí	ɗ- 
+forest: wat̪íɲ | wat̪íɲ 
+four: t̪ɔ́wáṛŋɔ ~ awaṛŋɔ | awaṛŋɔ	t̪ɔ́wáṛŋɔ	t̯ɔ́wáɽŋɔ 
+fruit: kə́lɔ́w | kə́lɔ́w	tíɔ́w 
+fruit: tíɔ́w | kə́lɔ́w	tíɔ́w 
+full: ˗ɔt̪t̪áb | -ɔt̪t̪áb	ottab 
+give: nd̪˗íǃ | nd̪-í! 
+good: t̪˗ | -úmt̪i	t̪- 
+good: ˗úmt̪i | -úmt̪i	t̪- 
+grass: k˗aṛú | k-aṛú	t̪-uṛú 
+grass: t̪˗uṛú | k-aṛú	t̪-uṛú 
+green: ɔ́ččíʔit̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̩̩̩̰̰̰̰̰̰̰̰̰̩̩ | ɔ́ččíʔit̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̰̩̩̩̰̰̰̰̰̰̰̰̰̩̩ 
+guts: č˗ | k-ú	č- 
+guts: k˗ú | k-ú	č- 
+hair: ṛú | t̪ə-	ṛú 
+hair: t̪ə˗ | t̪ə-	ṛú 
+hand: ɗ˗ | tui	t̪-ʊ́í	ɗ- 
+hand: t̪˗ʊ́í | tui	t̪-ʊ́í	ɗ- 
+head: l̀˗ | l̀-	u-ṛɛ́ 
+head: u˗ṛɛ́ | l̀-	u-ṛɛ́ 
+hear: nɛ́ǃ | nE	nɛ́! 
+heart: ɗ˗ | t̪-əgár	ɗ- 
+heart: t̪˗əgár | t̪-əgár	ɗ- 
+heavy: ninníč | ninníč 
+he/she: wá 
+hit: pʊ́˗aǃ | pʊ́-a! 
+hole: č˗ 
+hole: k˗əlɔ 
+hunt: (ndɔ́) ŋgərɛ́ǃ | ndɔ́ ŋgərɛ́!	ŋgərɛ́! 
+husband: l˗ | l-	u-ṛaɲa 
+husband: u˗ṛaɲa | l-	u-ṛaɲa 
+I: ˗ia | i5i	iɲi 
+I: iɲi | i5i	iɲi 
+kill: ɔ́aǃ | ɔ́a! 
+knee: č˗ | k-r̀gɛ́	krgE	č- 
+knee: k˗r̀gɛ́ | k-r̀gɛ́	krgE	č- 
+know: w˗áŋə́l˗ɛ́ | w-áŋə́l-ɛ́ 
+lake: či˗ | kə-ɗɔ́rɔ́	či- 
+lake: kə˗ɗɔ́rɔ́ | kə-ɗɔ́rɔ́	či- 
+laugh: áčú ŋ̀gəṛəmɛ́ǃ | áčú ŋ̀gəṛəmɛ́! 
+leaf: č˗ | k-əṛi	k3ri	č- 
+leaf: k˗əṛi | k-əṛi	k3ri	č- 
+left: t̪a˗d̪ɛwur | t̪a-d̪ɛwur 
+leg: ɗ˗ | t̪-əmáṛí	ɗ- 
+leg: t̪˗əmáṛí | t̪-əmáṛí	ɗ- 
+lie: ndr˗ɔ́wǃ | ndr-ɔ́w! 
+liver: ɗ˗ | tui5	t̪-uíɲ	ɗ- 
+liver: t̪˗uíɲ | tui5	t̪-uíɲ	ɗ- 
+live: w˗árn˗á | w-árn-á	w-úmá-rʊ́ 
+live: w˗úmá˗rʊ́ | w-árn-á	w-úmá-rʊ́ 
+long: ɗ˗ | -ɔ́ṛátoč	t̪-	ɗ- 
+long: ˗ɔ́ṛátoč | -ɔ́ṛátoč	t̪-	ɗ- 
+long: t̪˗ | -ɔ́ṛátoč	t̪-	ɗ- 
+louse: ɲí˗ | t3gi5 
+louse: t̪ə́˗giɲ | t3gi5 
+man: k˗ádágíɲá | k-íó	kio	lə-mí 
+man: l˗ | k-íó	kio	lə-mí 
+many: lɛ́˗ppal | lɛ́-ppal	ŋ-pəl 
+many: ŋ˗pəl | lɛ́-ppal	ŋ-pəl 
+meat: č˗ʊɣɛ | č-ʊɣɛ 
+moon: l˗ | l-	ui 
+moon: ui | l-	ui 
+mother: kálɪ́ɲa | kálɪ́ɲa 
+mountain: č˗ | k-əɗa	k3da	č- 
+mountain: k˗əɗa | k-əɗa	k3da	č- 
+mouth: ɗ˗ | t̪-əmʊ	ɗ- 
+mouth: t̪˗əmʊ | t̪-əmʊ	ɗ- 
+name: č˗iŕɲ | Tiri5	č-iŕɲ 
+narrow: k˗ | -ʊ́mmɛ́	k- 
+narrow: ˗ʊ́mmɛ́ | -ʊ́mmɛ́	k- 
+navel: t̪ugugu 
+near: ˗ɔppan | -ɔppan	w- 
+near: w˗ | -ɔppan	w- 
+neck: l̀˗d̪ám | l̀-d̪ám	wʊ-d̪úm	ʊ-d̪úm 
+neck: (w)ʊ˗d̪úm | l̀-d̪ám	wʊ-d̪úm	ʊ-d̪úm 
+new: ˗iya | -iya	iya	k- 
+new: k˗ | -iya	iya	k- 
+night: gʊlɔːgí | gulogi	gʊlɔːgí 
+old: k˗ 
+old: ˗ɔːɹan 
+one: t̪ákkan | takkan	t̪ákkan	t̯ákkan 
+person: k˗íó | k-íó	kio	lə-mí 
+person: lə˗mí | k-íó	kio	lə-mí 
+play: ŋət̪ɔw˗aǃ | ŋət̪ɔw-a! 
+pull: kət̪˗ɛːd̪ənúǃ 
+push: kɔɣɔ́˗nʊ́íǃ 
+rain: k˗iaw | k-iaw 
+rat: gwuri 
+red: k˗ | -ɔ́ːrí pɸiɗɗir	k- 
+red: ˗ɔ́ːrí pφiɗɗir | -ɔ́ːrí pɸiɗɗir	k- 
+right: tʊ́í t̪˗ʊmt̪i | tui	t̪-ʊ́í	ɗ- | tʊ́í t̪-ʊmt̪i 
+river: k˗wɛ́ | k-wɛ́	tʃ- 
+river: tʃ˗ | k-wɛ́	tʃ- 
+road: ɗ˗ | tu	tul 
+road: t̪ʊ́(l) | tu	tul 
+root: ɗ˗ | t̪-áu	ɗ- 
+root: t̪˗áu | t̪-áu	ɗ- 
+rope: ɗ˗ | t̪-ár	ɗ- 
+rope: t̪˗ár | t̪-ár	ɗ- 
+rotten: ˗it̪t̪ɔ | -it̪t̪ɔ	k- 
+rotten: k˗ | -it̪t̪ɔ	k- 
+rub: məṛid̪˗núǃ | məṛid̪-nú! 
+salt: límút̪ɛ | límút̪ɛ 
+sand: k˗ɔyum | k-ɔyum 
+say: bə́ṛ˗ɔǃ | bə́ṛ-ɔ! | k-ɔyum 
+say: w˗áŋíṛ˗ɛ́ | bə́ṛ-ɔ! | k-ɔyum 
+scratch: ŋaŋ˗inúǃ | ŋaŋ-inú! 
+seed: l˗ʊːṛá | l-ʊːṛá	ŋ-	ŋwɔn 
+seed: ŋ˗ | l-ʊːṛá	ŋ-	ŋwɔn 
+seed: ŋwɔn | l-ʊːṛá	ŋ-	ŋwɔn 
+see: íyúǃ | iyu	íyú! 
+sew: wát̪ɔǃ | wát̪ɔ! 
+sharp: ˗áčíŋáw | -áčíŋáw	t̪- 
+sharp: t̪˗ | -áčíŋáw	t̪- 
+short: ˗ɔ́ppan | -ɔ́ppan	t̪- 
+short: t̪˗ | -ɔ́ppan	t̪- 
+sing: kɔ́ ɲirt̪ánɛ́ǃ | kɔ́ ɲirt̪ánɛ́! 
+sister: ɗ˗ 
+sister: t̪˗ú 
+sit: ut̪árgaǃ | ut̪árga!	w-ʊŋ 
+sit: w˗ʊŋ | ut̪árga!	w-ʊŋ 
+skin: li˗čɔ́w | li-čɔ́w	liTow	ŋə- 
+skin: ŋə˗ | li-čɔ́w	liTow	ŋə- 
+sky: kíɔná | kíɔná 
+sleep: wú˗ndr˗ú | wú-ndr-ú 
+small: ˗ɛ́llíŋ | -kɔ́ṛa	-ɛ́llíŋ	l-	ŋ̀- 
+small: ˗kɔ́ṛa | -kɔ́ṛa	-ɛ́llíŋ	l-	ŋ̀- 
+small: l˗ | -kɔ́ṛa	-ɛ́llíŋ	l-	ŋ̀- 
+small: ŋ̀˗ | -kɔ́ṛa	-ɛ́llíŋ	l-	ŋ̀- 
+smoke: kəlu 
+smooth: ɔ́mṛíʔil | ɔ́mṛíʔil 
+snake: č˗ | č-	ɗ-íŋɛ 
+snake: ɗ˗íŋɛ | č-	ɗ-íŋɛ 
+split: d̪rt̪˗ɔ́ǃ | d̪rt̪-ɔ́! 
+squeeze: ɗiɲa˗tɔ́aǃ | ɗiɲa-tɔ́a! 
+stand: kúdʒurɛǃ | kúdʒurɛ! 
+star: l˗út̪áŋ | l-út̪áŋ	lutaN	ŋ- 
+star: ŋ˗ | l-út̪áŋ	lutaN	ŋ- 
+stone: l˗ʊ́ṛí | l-ʊ́ṛí	luri	ŋ- 
+stone: ŋ˗ | l-ʊ́ṛí	luri	ŋ- 
+straight: ˗awarʔur | -awarʔur	t̪- 
+straight: t̪˗ | -awarʔur	t̪- 
+suck: kəṛɔ́wǃ | kəṛɔ́w! 
+sun: t̪˗ɛ́ŋə́n | tEN3n	t̪-ɛ́ŋə́n 
+sweet: lai 
+swell: u˗ɣímb˗ʊ́ 
+swim: ʊ˗báldán | ʊ-báldán 
+tail: ɗ˗ | t̪-ɪɑ	ɗ- 
+tail: t̪˗ɪɑ | t̪-ɪɑ	ɗ- 
+take: ɗəngəl˗ɔ́ǃ 
+they: lá | lá 
+thick: ˗ninníč | -ninníč	t̪ə- 
+thick: t̪ə˗ | -ninníč	t̪ə- 
+thin: ɲ˗ | -úrrɛ́	t̪-	ɲ- 
+think: u˗kárín φáːmá | u-kárín ɸáːmá 
+thin: t̪˗ | -úrrɛ́	t̪-	ɲ- 
+thin: ˗úrrɛ́ | -úrrɛ́	t̪-	ɲ- 
+thou: ɲɛ́ | Nw~a	ŋwá 
+thou: ŋwá | Nw~a	ŋwá 
+thou: ˗ɔwa | Nw~a	ŋwá 
+three: (t̪)ád̪áǃagáːgán | t̪ád̪á!agáːgán	ád̪á!agáːgán	ád̯á gáágán 
+throw: wɛ˗ðɔ́ǃ | wɛ-ðɔ́! 
+tie: kaj˗t̪ɔ́ǃ | kaj-t̪ɔ́! 
+tongue: ɗ˗ | taN3ra	t̪-aŋəṛá	ɗ- 
+tongue: t̪˗aŋəṛá | taN3ra	t̪-aŋəṛá	ɗ- 
+tooth: č˗ | k-əŋáw	k3Naw	č- 
+tooth: k˗əŋáw | k-əŋáw	k3Naw	č- 
+tree: č˗ | kati5 
+tree: k˗at̪iɲ | kati5 
+turn: t̪ɛɣənɔ́ǃ 
+two: (t̪)áččɛ́rɔ | aTTEro	taTTEro	t̪áččɛ́rɔ	ácćέrɔ	áččɛ́rɔ 
+vomit: ɣə́kágʊ́ǃ | ɣə́kágʊ́! 
+walk: ńd̪˗ɔ́ǃ | ú-nuwɔl-ɔ́ 
+walk: ú˗nuwɔl˗ɔ́ | ú-nuwɔl-ɔ́ 
+walk: w˗ʊ́ŋg˗ɔ́ | ú-nuwɔl-ɔ́ 
+warm: ŋ˗ | -úččú	ŋ- 
+warm: ˗úččú | -úččú	ŋ- 
+wash: wɛyč˗ɔ́ǃ | wɛyč-ɔ́! 
+water: ŋ˗a | Na	ŋ-a 
+we (excl.): íná 
+we (incl.): írí 
+wet: k˗ | -ɔ́t̪t̪áw	k- 
+wet: ˗ɔ́t̪t̪áw | -ɔ́t̪t̪áw	k- 
+what: áɲá | áɲá 
+when: t̪ánd̪ɔ́ŋ | t̪ánd̪ɔ́ŋ 
+where: wáɲ | wáɲ 
+white: ˗ɛːra pφɔ́ʔɔk | -ɛːra pɸɔ́ʔɔk	k- 
+white: k˗ | -ɛːra pɸɔ́ʔɔk	k- 
+who: ɲáká | ɲáká 
+wide: k˗ | -ʊ́rrá	k- 
+wide: ˗ʊ́rrá | -ʊ́rrá	k- 
+wife: l˗r̀ǯá | l-r̀ǯá	u-rdʒá	wu-rdʒá 
+wife: (w)u˗rdʒá | l-r̀ǯá	u-rdʒá	wu-rdʒá 
+wind: uru 
+wing: č˗ | k-əbɔ́w	č- 
+wing: k˗əbɔ́w | k-əbɔ́w	č- 
+wipe: pr̀t̪˗ɔ́ǃ | pr̀t̪-ɔ́! 
+woman: ŋg˗ɛ́ːl˗a | ŋg-ɛ́ːl-a 
+wood: ɲ˗ 
+wood: t̪ə˗ǯɔ́ 
+worm: ɗ˗ | t̪-ɔ́	ɗ- 
+worm: t̪˗ɔ́ | t̪-ɔ́	ɗ- 
+year: či˗ | kə-t̪aṛɛ́	či- 
+year: kə˗t̪aṛɛ́ | kə-t̪aṛɛ́	či- 
+every: -čáp 
+ash: ɛwún 
+abdomen: ču-	ɛ-wɪ́ɲ 
+bigness: -ɓât	kə- 
+large: -ɓât	kə- 
+breasts: k3u	kə-ú	čə-ú 
+nail: k-ɛman	č-ɛman 
+talon: k-ɛman	č-ɛman 
+come from: ara	aṛa!	u-pɪ́nu	upinu 
+be dead: w-ačč-ʊ́	waTT 
+dead: w-ačč-ʊ́	waTT 
+fly: m̀-bŕl-ʊ́ 
+fly v.: m̀-bŕl-ʊ́ 
+left hand: tui	t̪-ʊ́í	ɗ- 
+1 sg.: i5i	iɲi 
+be knowledgeable: w-áŋə́l-ɛ́ 
+lie down: ndr-ɔ́w! 
+head louse: t3gi5 
+male: k-ádágíɲá	l- 
+much: lɛ́-ppal	ŋ-pəl 
+multiple: lɛ́-ppal	ŋ-pəl 
+several: lɛ́-ppal	ŋ-pəl 
+hill: k-əɗa	k3da	č- 
+title: Tiri5	č-iŕɲ 
+nighttime: gulogi	gʊlɔːgí 
+nose: k-ɛ́yʊn	kEyun	č- 
+adulterous: takkan	t̪ákkan	t̯ákkan 
+single: takkan	t̪ákkan	t̯ákkan 
+that: takkan	t̪ákkan	t̯ákkan 
+the: takkan	t̪ákkan	t̯ákkan 
+unprincipled: takkan	t̪ákkan	t̯ákkan 
+human: k-íó	kio	lə-mí 
+human being: k-íó	kio	lə-mí 
+rainy weather: k-iaw 
+path: tu	tul 
+route: tu	tul 
+hide: li-čɔ́w	liTow	ŋə- 
+little: -kɔ́ṛa	-ɛ́llíŋ	l-	ŋ̀- 
+smallness: -kɔ́ṛa	-ɛ́llíŋ	l-	ŋ̀- 
+rock: l-ʊ́ṛí	luri	ŋ- 
+2 sg: Nw~a	ŋwá 
+you: Nw~a	ŋwá 
+grind: aTTEro	taTTEro	t̪áččɛ́rɔ	ácćέrɔ	áččɛ́rɔ 
+go: ú-nuwɔl-ɔ́ 
+hot: -úččú	ŋ- 
+1 pl. inc.: iri	írí 
+we: iri	írí 
+we₁: iri	írí 
+whiteness: -ɛːra pɸɔ́ʔɔk	k- 
+who?: ɲáká 
+female: ŋg-ɛ́ːl-a 
+distant: k-	ɔ́ṛát̪ɔč 
+dull: ninníč 
+serious: ninníč 
+close: -ɔppan	w- 
+ner: -ɔppan	w- 
+earthworm: t̪-ɔ́	ɗ- 
+2 pl.: ɲɛ́ 
+ye: ɲɛ́ 
+you all: ɲɛ́ 
+3 pl.: lá 
+where?: wáɲ 
+when?: t̪ánd̪ɔ́ŋ 
+broad: -ʊ́rrá	k- 
+wideness: -ʊ́rrá	k- 
+fat: ŋ-ɛːṛá 
+principal wife: l-r̀ǯá	u-rdʒá	wu-rdʒá 
+his mother: kálɪ́ɲa 
+my mother: kálɪ́ɲa 
+his father: tágíɲa 
+my father: tágíɲa 
+woods: wat̪íɲ 
+stick: t̪-án	ɗ-án 
+cord: t̪-ár	ɗ- 
+flesh: č-ʊɣɛ 
+grease: ŋ-ɛːṛá 
+gut: k-ú	č- 
+insides: k-ú	č- 
+intestine: k-ú	č- 
+intestines: k-ú	č- 
+spit: ŋ-ɲa-t̪ɔ́ ŋ́-ɲá 
+breath: wʊ́ndʒáŋá t̪aliŋa 
+laughter: áčú ŋ̀gəṛəmɛ́! 
+cogitate: u-kárín ɸáːmá 
+reflect: u-kárín ɸáːmá 
+smell: pə́čɔ́ kʊɔ! 
+sniff: pə́čɔ́ kʊɔ! 
+alive: w-árn-á	w-úmá-rʊ́ 
+be alive: w-árn-á	w-úmá-rʊ́ 
+life: w-árn-á	w-úmá-rʊ́ 
+living: w-árn-á	w-úmá-rʊ́ 
+beat: pʊ́-a! 
+strike: pʊ́-a! 
+hack: mərt̪ɔ́!	mɛrrɔ́! 
+cut open: d̪rt̪-ɔ́! 
+pierce: kɔ́a! 
+stab: kɔ́a! 
+drop: u-bə́rg-á 
+wring: ɗiɲa-tɔ́a! 
+wash clothes: wɛyč-ɔ́! 
+bind: kaj-t̪ɔ́! 
+fasten: kaj-t̪ɔ́! 
+tie up: kaj-t̪ɔ́! 
+enumerate: kát̪t̪ɔ́ŋɔṛi! 
+number: kát̪t̪ɔ́ŋɔṛi! 
+tally: kát̪t̪ɔ́ŋɔṛi! 
+have fun: ŋət̪ɔw-a! 
+brook: k-wɛ́	tʃ- 
+stream: k-wɛ́	tʃ- 
+blaze: t̪-ɔgɔnɔ́ːṛan 
+daylight: ǹt̪ɛ́ŋə́ná 
+daytime: ǹt̪ɛ́ŋə́ná 
+evil: -ekki	t̪-ekki 
+rot: -it̪t̪ɔ	k- 
+filthy: -aŋart̪ɛ́	k-aŋart̪ɛ́ 
+soiled: -aŋart̪ɛ́	k-aŋart̪ɛ́ 
+blunt: t̪-áɓɓú	áɓɓú 
+damp: -ɔ́t̪t̪áw	k- 
+right side: tʊ́í t̪-ʊmt̪i 

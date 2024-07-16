@@ -1,0 +1,520 @@
+and: ago 
+and: baru 
+and: -(e)re 
+and: ére 
+and: ewáiwa 
+arm: evo 
+arm: ewo 
+ashes: iboro | iboro	tɛpa 
+at: -\ai(de) 
+at: -go 
+at: -ra 
+at: -wai 
+at: -wo 
+back: sugaoro 
+bad: bada 
+belly: iwiro | iwiro	mir-iʔo	miro 
+belly: mir-i/o | iwiro	mir-iʔo	miro 
+belly: miro | iwiro	mir-iʔo	miro 
+big: adja | adǯa	maperewe	maperewo	áida 
+big: áida | adǯa	maperewe	maperewo	áida 
+big: maperewe | adǯa	maperewe	maperewo	áida 
+big: maperewo | adǯa	maperewe	maperewo	áida 
+bird: baro | baro	durewo	durweo	manino 
+bird: durewo | baro	durewo	durweo	manino 
+bird: durweo | baro	durewo	durweo	manino 
+bird: manino | baro	durewo	durweo	manino 
+black: udagibo | uda-gibo	udagibo	udo	udu-dabiro	uduː-mebe	uta-iwere 
+black: uda-gibo | uda-gibo	udagibo	udo	udu-dabiro	uduː-mebe	uta-iwere 
+black: udo | uda-gibo	udagibo	udo	udu-dabiro	uduː-mebe	uta-iwere 
+black: udu-dabiro | uda-gibo	udagibo	udo	udu-dabiro	uduː-mebe	uta-iwere 
+black: uduu-mebe | uda-gibo	udagibo	udo	udu-dabiro	uduː-mebe	uta-iwere 
+black: uta-iwere | uda-gibo	udagibo	udo	udu-dabiro	uduː-mebe	uta-iwere 
+blood: áru\-i/-o | aru-o	aru7o	aruo	arur	aruʔo	áruʔ-iʔ-o 
+blood: aruo | aru-o	aru7o	aruo	arur	aruʔo	áruʔ-iʔ-o 
+blood: aru-o | aru-o	aru7o	aruo	arur	aruʔo	áruʔ-iʔ-o 
+blood: arur | aru-o	aru7o	aruo	arur	aruʔo	áruʔ-iʔ-o 
+bone: too | to7o	totoː	toʔo	toː 
+bone: to\o | to7o	totoː	toʔo	toː 
+bone: toʔo | to7o	totoː	toʔo	toː 
+bone: totoo | to7o	totoː	toʔo	toː 
+breast: dedo | dedo	dido	migidǯo 
+breast: dido | dedo	dido	migidǯo 
+breast: migidjo | dedo	dido	migidǯo 
+burn: maapo-metararita 
+burn: metararita 
+butterfly: kupuwo 
+butterfly: siwowao 
+cheek: mofo 
+child: arure 
+chin: gawo 
+cloud: saridabuo | saridabuo	sarido	sarito	seridobua 
+cloud: sarido | saridabuo	sarido	sarito	seridobua 
+cloud: sarito | saridabuo	sarido	sarito	seridobua 
+cloud: seridobua | saridabuo	sarido	sarito	seridobua 
+cold: orobeo | orobeo	orobeʔo 
+cold: orobe\o | orobeo	orobeʔo 
+come: mora | mo	mo-ra	mora	morao	mowobi 
+come: mo-ra | mo	mo-ra	mora	morao	mowobi 
+come: morao | mo	mo-ra	mora	morao	mowobi 
+come: mowobi | mo	mo-ra	mora	morao	mowobi 
+come: nóe-we-id-i | mo	mo-ra	mora	morao	mowobi 
+come: sampai | mo	mo-ra	mora	morao	mowobi 
+cut: sée- 
+dark: níroro 
+dark: uwe- 
+daughter: oto\owar-o 
+day: níra 
+day: tego 
+day: -weidi- 
+dog: merawoto | merawoto	mewawot-o	mewo7o	mewáʔot-iʔo	mɛ βa oto	ǯa 
+dog: mewá\ot-i/o | merawoto	mewawot-o	mewo7o	mewáʔot-iʔo	mɛ βa oto	ǯa 
+dog: mewawot-o | merawoto	mewawot-o	mewo7o	mewáʔot-iʔo	mɛ βa oto	ǯa 
+drink: nira | nira	sanira	sunerisa 
+drink: (sa)nira | nira	sanira	sunerisa 
+drink: sunerisa | nira	sanira	sunerisa 
+dry: fesemegebe | fesemegebe	iaero	iǯaero	meʔerabe	saero 
+dry: iaero | fesemegebe	iaero	iǯaero	meʔerabe	saero 
+dry: ijaero | fesemegebe	iaero	iǯaero	meʔerabe	saero 
+dry: me\erabe | fesemegebe	iaero	iǯaero	meʔerabe	saero 
+dry: saero | fesemegebe	iaero	iǯaero	meʔerabe	saero 
+ear: aero | aero	ero	iero	na-ʔer	naɛro	ʔer-o 
+ear: ero | aero	ero	iero	na-ʔer	naɛro	ʔer-o 
+ear: iero | aero	ero	iero	na-ʔer	naɛro	ʔer-o 
+ear: na-\er | aero	ero	iero	na-ʔer	naɛro	ʔer-o 
+earth: bodo 
+earth: dodo | bodo 
+earth: úrago | bodo 
+eat: ne- | -ri-	ne-	nira 
+eat: nira | -ri-	ne-	nira 
+eat: -ri- | -ri-	ne-	nira 
+egg: guo | guo	guʔo	u 
+egg: gu\o | guo	guʔo	u 
+egg: guʔo | guo	guʔo	u 
+elbow: m-ebu-to 
+excrement: a 
+eye: ira-bui | ira-bui	ira-buo	irabu7o	irabuo	n-ira-bo	n-ira-buo	ni rabua	ǯi 
+eye: irabuo | ira-bui	ira-buo	irabu7o	irabuo	n-ira-bo	n-ira-buo	ni rabua	ǯi 
+eye: ira-buo | ira-bui	ira-buo	irabu7o	irabuo	n-ira-bo	n-ira-buo	ni rabua	ǯi 
+eye: n-ira-bo | ira-bui	ira-buo	irabu7o	irabuo	n-ira-bo	n-ira-buo	ni rabua	ǯi 
+eye: n-ira-buo | ira-bui	ira-buo	irabu7o	irabuo	n-ira-bo	n-ira-buo	ni rabua	ǯi 
+fall: óu 
+far: erewo 
+father: \égi 
+father: ide 
+fat (n.): érasoe 
+fat (n.): erasoi 
+fat (n.): erasu 
+fat (n.): gemuwo 
+feather: duurawa-iraro | duːrawa-iraro	iraro	irero 
+feather: iraro | duːrawa-iraro	iraro	irero 
+feather: irero | duːrawa-iraro	iraro	irero 
+finger: epagaaro 
+finger: megiaro 
+fingernail: egearasio 
+fingernail: egear-asi-o 
+fire: maapo | ma7apo	maʔapo	maːpo	čua 
+fire: ma\apo | ma7apo	maʔapo	maːpo	čua 
+fire: maʔapo | ma7apo	maʔapo	maːpo	čua 
+fish: bano | bano	konamin	kuto	uto	uʔtʰo 
+fish: konamin | bano	konamin	kuto	uto	uʔtʰo 
+fish: (k)uto | bano	konamin	kuto	uto	uʔtʰo 
+fish: uto | bano	konamin	kuto	uto	uʔtʰo 
+five: néwo-gáago 
+fly (n.): boboi 
+fly (n.): bobu 
+fly (v.): ideraera 
+fly (v.): maideraebi 
+fly (v.): merorita 
+fly (v.): me-ro-rita 
+fly (v.): ro- 
+foot: aepo | aepo	epo	naepe	naʔɛpʰo	nɛbe	épe 
+foot: épe | aepo	epo	naepe	naʔɛpʰo	nɛbe	épe 
+foot: epo | aepo	epo	naepe	naʔɛpʰo	nɛbe	épe 
+foot: (\)epo | aepo	epo	naepe	naʔɛpʰo	nɛbe	épe 
+foot: naepe | aepo	epo	naepe	naʔɛpʰo	nɛbe	épe 
+forehead: ibaoro 
+four: éri-eri-dáre 
+four: eri-eridjare 
+fruit: buo 
+give: me | me	me-ra	mera	nawira	newebe 
+give: mera | me	me-ra	mera	nawira	newebe 
+give: me-ra | me	me-ra	mera	nawira	newebe 
+give: nawira | me	me-ra	mera	nawira	newebe 
+give: newebe | me	me-ra	mera	nawira	newebe 
+good: bái- | bái-	soato	sowato	sówat-eʔo 
+good: soato | bái-	soato	sowato	sówat-eʔo 
+good: sówat-e/o | bái-	soato	sowato	sówat-eʔo 
+good: sowato | bái-	soato	sowato	sówat-eʔo 
+grass: síiwo 
+green: geraso | geraso	sururubo	warna 
+green: sururubo | geraso	sururubo	warna 
+green: warna | geraso	sururubo	warna 
+hair: arero | arero	asa-reo	auro	d-asa-rero	iraro	nasa-rero	nasarero 
+hair: asa-reo | arero	asa-reo	auro	d-asa-rero	iraro	nasa-rero	nasarero 
+hair: auro | arero	asa-reo	auro	d-asa-rero	iraro	nasa-rero	nasarero 
+hair: d-asa-rero | arero	asa-reo	auro	d-asa-rero	iraro	nasa-rero	nasarero 
+hair: iraro | arero	asa-reo	auro	d-asa-rero	iraro	nasa-rero	nasarero 
+hair: nasarero | arero	asa-reo	auro	d-asa-rero	iraro	nasa-rero	nasarero 
+hair: nasa-rero | arero	asa-reo	auro	d-asa-rero	iraro	nasa-rero	nasarero 
+hand: mevo | mevo	méwo	n-eve	nevo	nɛre	ɲewoᵘ 
+hand: méwo | mevo	méwo	n-eve	nevo	nɛre	ɲewoᵘ 
+hand: n-eve | mevo	méwo	n-eve	nevo	nɛre	ɲewoᵘ 
+hand: nevo | mevo	méwo	n-eve	nevo	nɛre	ɲewoᵘ 
+head: aé | aso	aé	na so	ɛβehe 
+head: aso | aso	aé	na so	ɛβehe 
+hear: itabora | itabora	ne-tobosi	tobora	toboro 
+hear: ne-tobosi | itabora	ne-tobosi	tobora	toboro 
+hear: tobora | itabora	ne-tobosi	tobora	toboro 
+hear: toboro | itabora	ne-tobosi	tobora	toboro 
+here: ewáiwa 
+here: ma- 
+he/she: eire 
+he/she: e-ra(dara) 
+he/she: é-ra(dara) 
+he/she: iti-gi 
+he/she: íti-gi 
+he/she: íti-go 
+he/she: mé-...-bi 
+he/she: mé-...-ø 
+he/she: mé-wa 
+he/she: naiti 
+he/she: -sai 
+he/she: tigidáe-so/tigae-so/tigidá-wo/(tigtu)a-wo 
+he/she: -wai 
+hit: adó 
+hit: obo- 
+hole: bagaw 
+house: mé\aro 
+I: na- | na-	na-ga	na-gadara	na-ite	nai-ti	naiti	ne-	ná-iti-	ná-ri	ná-we	né-wa 
+in: -\ai(de) 
+I: na-ite | na-	na-ga	na-gadara	na-ite	nai-ti	naiti	ne-	ná-iti-	ná-ri	ná-we	né-wa 
+I: naiti | na-	na-ga	na-gadara	na-ite	nai-ti	naiti	ne-	ná-iti-	ná-ri	ná-we	né-wa 
+I: nai-ti | na-	na-ga	na-gadara	na-ite	nai-ti	naiti	ne-	ná-iti-	ná-ri	ná-we	né-wa 
+I: ná-iti- | na-	na-ga	na-gadara	na-ite	nai-ti	naiti	ne-	ná-iti-	ná-ri	ná-we	né-wa 
+I: náre-so/naridó-wo | na-	na-ga	na-gadara	na-ite	nai-ti	naiti	ne-	ná-iti-	ná-ri	ná-we	né-wa 
+in: -wo 
+kill: mutau 
+knee: dobiiro | dobiːro	nobiːri	obiːro 
+knee: nobiiri | dobiːro	nobiːri	obiːro 
+knee: obiiro | dobiːro	nobiːri	obiːro 
+leaf: dado | dado	nero 
+leaf: nero | dado	nero 
+left: edúdur-i/o 
+leg: épe 
+leg: (\)epo 
+leg: ʔepo 
+lip: mijooro 
+long: girewo | girewo	gíre-wo	kire-wo	soʔúwai 
+long: gíre-wo | girewo	gíre-wo	kire-wo	soʔúwai 
+long: kire-wo | girewo	gíre-wo	kire-wo	soʔúwai 
+long: so\úwai | girewo	gíre-wo	kire-wo	soʔúwai 
+louse: oro | oto 
+man: mésidai | -ewiʔewoʔewe	irowo	misižes	mésida-eʔoʔo 
+man: misidae-owewi | -ewiʔewoʔewe	irowo	misižes	mésida-eʔoʔo 
+man: owewe | -ewiʔewoʔewe	irowo	misižes	mésida-eʔoʔo 
+man: ow-ewe | -ewiʔewoʔewe	irowo	misižes	mésida-eʔoʔo 
+man: ów-ewi | -ewiʔewoʔewe	irowo	misižes	mésida-eʔoʔo 
+many: dádore | dádore	ure-ewo	useʔewo	useːwo	éite 
+many: éite | dádore	ure-ewo	useʔewo	useːwo	éite 
+many: ure-ewo | dádore	ure-ewo	useʔewo	useːwo	éite 
+many: useewo | dádore	ure-ewo	useʔewo	useːwo	éite 
+many: use\ewo | dádore	ure-ewo	useʔewo	useːwo	éite 
+meat: borehadagi 
+meat: utaboo 
+meat: utabu\ 
+moon: moo | moʔo	moː 
+moon: mo\o | moʔo	moː 
+morning: abá-sido 
+morning: ábo 
+morning: ábo-gáawo 
+mosquito: sesege 
+mosquito: sesese 
+mosquito: seset 
+mountain: tirido | tirido	tiridoː	tiridu	tirodǯo 
+mountain: tiridoo | tirido	tiridoː	tiridu	tirodǯo 
+mountain: tiridu | tirido	tiridoː	tiridu	tirodǯo 
+mountain: tirodjo | tirido	tiridoː	tiridu	tirodǯo 
+mouth: aebo | aebo	aibo	d-aebo	ewioːro	n-aebo	paroʔ 
+mouth: aibo | aebo	aibo	d-aebo	ewioːro	n-aebo	paroʔ 
+mouth: d-aebo | aebo	aibo	d-aebo	ewioːro	n-aebo	paroʔ 
+mouth: ewiooro | aebo	aibo	d-aebo	ewioːro	n-aebo	paroʔ 
+mouth: n-aebo | aebo	aibo	d-aebo	ewioːro	n-aebo	paroʔ 
+name: da-rero | da-rero	nEro	na-reri	na-rero	nareri	nero	nér-iʔo 
+name: nareri | da-rero	nEro	na-reri	na-rero	nareri	nero	nér-iʔo 
+name: na-reri | da-rero	nEro	na-reri	na-rero	nareri	nero	nér-iʔo 
+name: na-rero | da-rero	nEro	na-reri	na-rero	nareri	nero	nér-iʔo 
+name: nér-i/o | da-rero	nEro	na-reri	na-rero	nareri	nero	nér-iʔo 
+name: nero | da-rero	nEro	na-reri	na-rero	nareri	nero	nér-iʔo 
+near: ebaro 
+neck: aburataoro | aburataoro	aura	burato	naburrto	raʔoraguro 
+neck: aura | aburataoro	aura	burato	naburrto	raʔoraguro 
+neck: burato | aburataoro	aura	burato	naburrto	raʔoraguro 
+neck: ra\oraguro | aburataoro	aura	burato	naburrto	raʔoraguro 
+new: i\-e/o/i\o | i7o	io	ʔiʔ-eʔoʔiʔo 
+new: io | i7o	io	ʔiʔ-eʔoʔiʔo 
+night: niro 
+nose: de-witobo | de-witobo	e-witobi	mitobi	mitobo	ne witoboᵘ	ne-witobo 
+nose: e-witobi | de-witobo	e-witobi	mitobi	mitobo	ne witoboᵘ	ne-witobo 
+nose: mito-bagau | de-witobo	e-witobi	mitobi	mitobo	ne witoboᵘ	ne-witobo 
+nose: mitobo | de-witobo	e-witobi	mitobi	mitobo	ne witoboᵘ	ne-witobo 
+nose: ne-witobo | de-witobo	e-witobi	mitobi	mitobo	ne witoboᵘ	ne-witobo 
+not: egábara...-sa | egábara … -sa	eri-áigo	náwo	ʔe-ʔídu	ʔidó 
+not: \e-\ídu | egábara … -sa	eri-áigo	náwo	ʔe-ʔídu	ʔidó 
+not: eri-áigo | egábara … -sa	eri-áigo	náwo	ʔe-ʔídu	ʔidó 
+not: \idó | egábara … -sa	eri-áigo	náwo	ʔe-ʔídu	ʔidó 
+not: náwo | egábara … -sa	eri-áigo	náwo	ʔe-ʔídu	ʔidó 
+one: mutero | muteri	mutero	mútero	múteroʔnagiáreʔnaguáre	naguare 
+one: mútero/nagiáre/naguáre | muteri	mutero	mútero	múteroʔnagiáreʔnaguáre	naguare 
+other: náge 
+person: -ewi/ewo/ewe | -ewiʔewoʔewe	irowo	misižes	mésida-eʔoʔo 
+person: mésida-e/o/o | -ewiʔewoʔewe	irowo	misižes	mésida-eʔoʔo 
+person: misijhes | -ewiʔewoʔewe	irowo	misižes	mésida-eʔoʔo 
+rain: parato | parato	rato 
+rain: (pa)rato | parato	rato 
+red: naaarua-mebe | naʔaro	naʔaroa-iwere	naːarua-mebe	naːra-gibo 
+red: naara-gibo | naʔaro	naʔaroa-iwere	naːarua-mebe	naːra-gibo 
+red: na\aro | naʔaro	naʔaroa-iwere	naːarua-mebe	naːra-gibo 
+red: na\aroa-iwere | naʔaro	naʔaroa-iwere	naːarua-mebe	naːra-gibo 
+river: mur-a 
+river: sáraba 
+road: neserita | uwo 
+road: nesrita | uwo 
+road: o\ewo | uwo 
+road: uwo 
+root: kororo 
+sand: midji | mido	midǯi 
+sand: mido | mido	midǯi 
+say: é- | éra 
+say: éra 
+seed: buo | biǯi	buo	suro	suru 
+seed: suro | biǯi	buo	suro	suru 
+seed: suru | biǯi	buo	suro	suru 
+see: n-ora-sa | n-ora-sa	ora-ka	ura	ura-ra	urara 
+see: ora-ka | n-ora-sa	ora-ka	ura	ura-ra	urara 
+see: urara | n-ora-sa	ora-ka	ura	ura-ra	urara 
+see: ura-ra | n-ora-sa	ora-ka	ura	ura-ra	urara 
+sing: dériyo 
+sit: iwura | iwura	nabusa	uwara	uwora	uwurita	uwuʔte 
+sit: nabusa | iwura	nabusa	uwara	uwora	uwurita	uwuʔte 
+sit: uwara | iwura	nabusa	uwara	uwora	uwurita	uwuʔte 
+sit: uwora | iwura	nabusa	uwara	uwora	uwurita	uwuʔte 
+sit: uwurita | iwura	nabusa	uwara	uwora	uwurita	uwuʔte 
+sit: uwu/te | iwura	nabusa	uwara	uwora	uwurita	uwuʔte 
+skin: giro | giro	ira-giro	iragirairaro	nerragirro 
+skin: iragirairaro | giro	ira-giro	iragirairaro	nerragirro 
+skin: (ira-)giro | giro	ira-giro	iragirairaro	nerragirro 
+sleep: meːbarerita | -re-	meːbarerita 
+sleep: meebarerita | -re-	meːbarerita 
+sleep: -re- | -re-	meːbarerita 
+small: nesiror-i | nesiror-i	nesiror-o	nesirowe	nésiror-iʔo 
+small: nésiror-i/o | nesiror-i	nesiror-o	nesirowe	nésiror-iʔo 
+small: nesiror-o | nesiror-i	nesiror-o	nesirowe	nésiror-iʔo 
+small: nesirowe | nesiror-i	nesiror-o	nesirowe	nésiror-iʔo 
+smoke: gera | gera	gere 
+smoke: gere | gera	gere 
+snake: medo | medo	meto	wahuko 
+snake: meto | medo	meto	wahuko 
+son: oto\owar-e 
+spit: bowito 
+split: nápaigo- 
+stand: id-i 
+stand: idira 
+stand: idi(ra) 
+stand: neidisa 
+star: arowo | arowi	arowo 
+stone: beta | beta	beto	bito 
+stone: beto | beta	beto	bito 
+stone: bito | beta	beto	bito 
+straight: ráwarára 
+sun: égedi | egedi	tegi	tégi	ʔégedi 
+sun: tegi | egedi	tegi	tégi	ʔégedi 
+sun: tégi | egedi	tegi	tégi	ʔégedi 
+sweet: ápew 
+swim: mururibobu (?) | mururibobu	neʔusa	ubura	ura 
+swim: ne\usa | mururibobu	neʔusa	ubura	ura 
+swim: ubura | mururibobu	neʔusa	ubura	ura 
+swim: ura | mururibobu	neʔusa	ubura	ura 
+tail: goso | goso	guso 
+tail: guso | goso	guso 
+take: iwiw- 
+that: eira | eira	uraowu 
+that: (i-)oso-i/(i-)owo-i/(i-)owó(-su) | eira	uraowu 
+that: uraowu | eira	uraowu 
+they: ebetewo 
+they: e-ra(dara) 
+they: iti-ga 
+they: íti-ga 
+they: iti-gu 
+they: me- 
+they: mé-wa-wa-ro 
+they: tetewoa-nawido 
+they: tigáe-so/(tig)a-wo 
+they: -wasu 
+thigh: sararugo 
+think: ígo- 
+thin: nésiror-i 
+this: (e-)sa-i/(e-)ma-i/(e-)má(-su) | maewogo	uraʔawae	uraːwae 
+this: maewogo | maewogo	uraʔawae	uraːwae 
+this: -sa-i/-wa-i | maewogo	uraʔawae	uraːwae 
+this: uraawae | maewogo	uraʔawae	uraːwae 
+this: ura\awae | maewogo	uraʔawae	uraːwae 
+thorn: bitá 
+thorn: mbita 
+thou: a- | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+thou: a-ga(dara) | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+thou: a-ite | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+thou: aiti | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+thou: a-iti | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+thou: áre-so/aridó-wo | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+thou: á-ri | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+thou: á-we | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+thou: e- | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+thou: é-wa | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+thou: iti | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+three: éri-naguére 
+three: eriwo-naguare 
+three: eriwo-renagiare 
+three: rei-naguware 
+tongue: aibo | aibo	dewidero	midero	newideno	nidǯero	nɛ undɛrro	rrunan 
+tongue: dewidero | aibo	dewidero	midero	newideno	nidǯero	nɛ undɛrro	rrunan 
+tongue: newideno | aibo	dewidero	midero	newideno	nidǯero	nɛ undɛrro	rrunan 
+tongue: nidjero | aibo	dewidero	midero	newideno	nidǯero	nɛ undɛrro	rrunan 
+tooth: depo | d-epo	depo	epo	n-epo	unang	ɛpʔoᵘ 
+tooth: d-epo | d-epo	depo	epo	n-epo	unang	ɛpʔoᵘ 
+tooth: epo | d-epo	depo	epo	n-epo	unang	ɛpʔoᵘ 
+tooth: n-epo | d-epo	depo	epo	n-epo	unang	ɛpʔoᵘ 
+tree: ao 
+tree: au | ao 
+tree: meo | ao 
+two: eriwo | dua	eri-wo	eriwo	sugeri	éri-wo 
+two: eri-wo | dua	eri-wo	eriwo	sugeri	éri-wo 
+vagina: óro 
+walk: etara | etara	mabibo	neserita	sera	seʔreʔa 
+walk: etara! | etara	mabibo	neserita	sera	seʔreʔa 
+walk: kelúari- | etara	mabibo	neserita	sera	seʔreʔa 
+walk: mabibo | etara	mabibo	neserita	sera	seʔreʔa 
+walk: neserita | etara	mabibo	neserita	sera	seʔreʔa 
+walk: nóe- | etara	mabibo	neserita	sera	seʔreʔa 
+walk: se | etara	mabibo	neserita	sera	seʔreʔa 
+walk: sera | etara	mabibo	neserita	sera	seʔreʔa 
+walk: se/re\a | etara	mabibo	neserita	sera	seʔreʔa 
+warm: gaburi | gaburi	gawuri	tega-awuri	tega-gawuri 
+warm: gawuri | gaburi	gawuri	tega-awuri	tega-gawuri 
+warm: tega-awuri | gaburi	gawuri	tega-awuri	tega-gawuri 
+warm: tega-gawuri | gaburi	gawuri	tega-awuri	tega-gawuri 
+wash: opo 
+water: sa | hɛde	sa 
+we: da- | da-ite	daite	de-wa-wa-ro	dá-iti	etewoa	ge-	i-	i-ga	i-gadara	í-we 
+we: dáe-so/dáro-wo | da-ite	daite	de-wa-wa-ro	dá-iti	etewoa	ge-	i-	i-ga	i-gadara	í-we 
+weep: irabu-asa 
+weep: nara 
+weep: nerarita 
+weep: nerasa 
+weep: weraritabi 
+we (incl.): daite 
+we (incl.): da-ite 
+we (incl.): dá-iti 
+we (incl.): de-wa-wa-ro 
+we (incl.): etewoa 
+we (incl.): ge- 
+we (incl.): i- 
+we (incl.): i-ga(dara) 
+we (incl.): í-we 
+we: iti | da-ite	daite	de-wa-wa-ro	dá-iti	etewoa	ge-	i-	i-ga	i-gadara	í-we 
+we: i-ti | da-ite	daite	de-wa-wa-ro	dá-iti	etewoa	ge-	i-	i-ga	i-gadara	í-we 
+we: ni(da)- | da-ite	daite	de-wa-wa-ro	dá-iti	etewoa	ge-	i-	i-ga	i-gadara	í-we 
+we: ní-iti/ní-we/ní-de-wa-waro/ni-ga(dara)/nige-/ni- | da-ite	daite	de-wa-wa-ro	dá-iti	etewoa	ge-	i-	i-ga	i-gadara	í-we 
+we: níri-so/nírido-wo | da-ite	daite	de-wa-wa-ro	dá-iti	etewoa	ge-	i-	i-ga	i-gadara	í-we 
+we: ni-ti | da-ite	daite	de-wa-wa-ro	dá-iti	etewoa	ge-	i-	i-ga	i-gadara	í-we 
+what: aratero | aratero	areterowe	aritero 
+what: areterowe | aratero	areterowe	aritero 
+what: aritero | aratero	areterowe	aritero 
+white: marusau | marusau	sagoaewere	saguːanebe 
+white: sagoaewere | marusau	sagoaewere	saguːanebe 
+white: saguuanebe | marusau	sagoaewere	saguːanebe 
+who: abitiara | abitiara	ewete	ewete-wo	ewetiara	áwete- 
+who: áwete- | abitiara	ewete	ewete-wo	ewetiara	áwete- 
+who: ewete | abitiara	ewete	ewete-wo	ewetiara	áwete- 
+who: ewete-wo | abitiara	ewete	ewete-wo	ewetiara	áwete- 
+who: ewetiara | abitiara	ewete	ewete-wo	ewetiara	áwete- 
+wind: mesewaro | mesewaro	ruə	tewira	tibiro	tiwiro 
+wind: tewira | mesewaro	ruə	tewira	tibiro	tiwiro 
+wind: tibiro | mesewaro	ruə	tewira	tibiro	tiwiro 
+wind: tiwiro | mesewaro	ruə	tewira	tibiro	tiwiro 
+wing: médur-o 
+with: -(u)ru 
+woman: misidai-orewa | misidai-orewa	misidai-orewo	oreru	orewe	ór-ewo	ǯigi wa 
+woman: misidai-orewo | misidai-orewa	misidai-orewo	oreru	orewe	ór-ewo	ǯigi wa 
+woman: oreru | misidai-orewa	misidai-orewo	oreru	orewe	ór-ewo	ǯigi wa 
+woman: orewe | misidai-orewa	misidai-orewo	oreru	orewe	ór-ewo	ǯigi wa 
+woman: ór-ewo | misidai-orewa	misidai-orewo	oreru	orewe	ór-ewo	ǯigi wa 
+yellow: arawusaro | arawusaro	beridasiragibo	koniwo	kunidaemebe 
+yellow: beridasiragibo | arawusaro	beridasiragibo	koniwo	kunidaemebe 
+yellow: koniwo | arawusaro	beridasiragibo	koniwo	kunidaemebe 
+yellow: kunidaemebe | arawusaro	beridasiragibo	koniwo	kunidaemebe 
+yesterday: iwáa 
+you: de-wa-wa-ro | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+you: ge- | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+you: i- | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+you: i(da)- | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+you: i-ga(dara) | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+you: íri-so/írido-wo | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+you: í-ti | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+you: i-tire | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+you: í-we | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+you: tetewoa | a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+ash: iboro	tɛpa 
+abdomen: iwiro	mir-iʔo	miro 
+bigness: adǯa	maperewe	maperewo	áida 
+large: adǯa	maperewe	maperewo	áida 
+breasts: dedo	dido	migidǯo 
+claw: negeara sioᵘ 
+nail: negeara sioᵘ 
+talon: negeara sioᵘ 
+come from: mo	mo-ra	mora	morao	mowobi 
+be dead: nu 
+dead: nu 
+die: nu 
+ground: bodo 
+land: bodo 
+soil: bodo 
+fly: ideraera	maideraebi	me-ro-rita	merorita	ro- 
+fly v.: ideraera	maideraebi	me-ro-rita	merorita	ro- 
+left hand: mevo	méwo	n-eve	nevo	nɛre	ɲewoᵘ 
+right: mevo	méwo	n-eve	nevo	nɛre	ɲewoᵘ 
+1 sg.: na-	na-ga	na-gadara	na-ite	nai-ti	naiti	ne-	ná-iti-	ná-ri	ná-we	né-wa 
+liver: gobo 
+head louse: oto 
+male: misidae-owewi	mésidai	ow-ewe	owewe	ǯigi ruati	ʔów-ewi 
+much: dádore	ure-ewo	useʔewo	useːwo	éite 
+multiple: dádore	ure-ewo	useʔewo	useːwo	éite 
+several: dádore	ure-ewo	useʔewo	useːwo	éite 
+hill: tirido	tiridoː	tiridu	tirodǯo 
+title: da-rero	nEro	na-reri	na-rero	nareri	nero	nér-iʔo 
+nighttime: niro 
+adulterous: muteri	mutero	mútero	múteroʔnagiáreʔnaguáre	naguare 
+single: muteri	mutero	mútero	múteroʔnagiáreʔnaguáre	naguare 
+the: muteri	mutero	mútero	múteroʔnagiáreʔnaguáre	naguare 
+unprincipled: muteri	mutero	mútero	múteroʔnagiáreʔnaguáre	naguare 
+human: -ewiʔewoʔewe	irowo	misižes	mésida-eʔoʔo 
+human being: -ewiʔewoʔewe	irowo	misižes	mésida-eʔoʔo 
+rainy weather: parato	rato 
+path: uwo 
+route: uwo 
+hide: giro	ira-giro	iragirairaro	nerragirro 
+little: nesiror-i	nesiror-o	nesirowe	nésiror-iʔo 
+smallness: nesiror-i	nesiror-o	nesirowe	nésiror-iʔo 
+rock: beta	beto	bito 
+2 sg: a-	a-ga	a-gadara	a-ite	a-iti	aiti	e-	á-ri	á-we	é-wa 
+grind: dua	eri-wo	eriwo	sugeri	éri-wo 
+go: etara	mabibo	neserita	sera	seʔreʔa 
+hot: gaburi	gawuri	tega-awuri	tega-gawuri 
+1 pl. inc.: da-ite	daite	de-wa-wa-ro	dá-iti	etewoa	ge-	i-	i-ga	i-gadara	í-we 
+we₁: da-ite	daite	de-wa-wa-ro	dá-iti	etewoa	ge-	i-	i-ga	i-gadara	í-we 
+whiteness: marusau	sagoaewere	saguːanebe 
+who?: abitiara	ewete	ewete-wo	ewetiara	áwete- 
+female: misidai-orewa	misidai-orewo	oreru	orewe	ór-ewo	ǯigi wa 
+distant: erewo 
+close: ebaro 
+ner: ebaro 

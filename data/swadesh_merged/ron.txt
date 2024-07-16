@@ -1,0 +1,373 @@
+all: tot | fiecare	tofĭ	tot	toți 
+and: şi | și 
+animal: animal | animal	bestie	ființă	jivină	vietate 
+ashes: cenuşă | cenușe	cenușă	scrum 
+at: la | la	în 
+at: la,pe | la	în 
+back: spate | dos	spate	spinare 
+bad: rău | prost	rău	răŭ 
+bad: rău,prost | prost	rău	răŭ 
+bark: scoarţă | coajă	scoarţă	scoarță 
+bark: scoarţă, coajă | coajă	scoarţă	scoarță 
+because: fiindcă, din cauză că | fiindcă	pentru că 
+because: pentru că | fiindcă	pentru că 
+belly: burtă | abdomen	burtă	pântece	vintre 
+big: mare 
+bird: pasăre | pasăre	zburătoare 
+bite: a muşca | a mușca	mușca 
+bite: muşca | a mușca	mușca 
+black: negru 
+blood: sânge | s3nje	sânge	sînge 
+blow: a lovi, a sufla | a bate	a sufla	sufla 
+bone: os 
+breast: piept | piept	py~ept	s3n	sân	țâță 
+breathe: a respira, a răsufla | a respira	a sufla	respira	răsufla	răsuflare 
+breathe: respira | a respira	a sufla	respira	răsufla	răsuflare 
+burn: a arde | a arde	arde 
+burn: arde | a arde | a arde	arde 
+child: copil 
+cloud: nor 
+cold: frig | frig	friguros	rece 
+cold: rece, frig | frig	friguros	rece 
+come: a veni | a veni	veni	veny	veny~ 
+come: veni | a veni	veni	veny	veny~ 
+correct: corect | corect	drept	just 
+count: a număra, număr | a număra	număra 
+cut: a tăia | a tăia	tăia 
+cut: tăia | a tăia	tăia 
+day: zi 
+die: a muri | %deceda	%expira	%sucomba	a deceda	a expira	a muri	a pieri	a răposa	a sucomba	moarte	mort	muri	mury	mury~	pieri	raposa 
+die: muri | %deceda	%expira	%sucomba	a deceda	a expira	a muri	a pieri	a răposa	a sucomba	moarte	mort	muri	mury	mury~	pieri	raposa 
+dig: a săpa | a excava	a săpa	săpa 
+dig: săpa | a excava	a săpa	săpa 
+dirty: murdar 
+dog: câine | câine	cîine	k3ne	kaine 
+drink: a bea | a bea	bea 
+drink: bea | a bea	bea 
+dry: sec | sec	uscat	zbicit 
+dry: uscat | sec	uscat	zbicit 
+dull: prost | greu | bont	tocit 
+dust: praf | praf	pulbere 
+earth: pământ | pamînt	pământ	țară 
+ear: ureche | ureche	ureke 
+eat: a mânca | a mânca	mânca	mînca 
+eat: mânca | a mânca	mânca	mînca 
+egg: ou 
+eye: ochi | ochi	ochiu	oky	oky~ 
+fall: a cădea | a cădea	cădea 
+far: departe | departe	distant 
+father: tată 
+fat (n.): grăsime 
+fear: frică, teamă | a se teme	frică	spaimă	teamă	teme	temere	temut 
+feather: pană | fulg	pană 
+few: puţin | puțin	puțini 
+fight: a lupta | a lupta	a se război	combate	lupta 
+fight: lupta | a lupta	a se război	combate	lupta 
+fingernail: unghie | unghie	unghis 
+fire: foc | foc	fok 
+fish: peşte | peSte	pește 
+five: cinci 
+float: a pluti | a pluti	pluti 
+float: pluti | a pluti	pluti 
+flow: a curge | a curge	a se scurge	curge 
+flower: floare 
+fly (v.): a zbura 
+fog: ceaţă | abur	ceață	negură	pâclă 
+foot: picior | laba piciorului	labă	picior	piez 
+forest: pădure | codru	pădure	silvă 
+four: patru 
+freeze: a îngheţa | a îngheța	îngheța 
+fruit: fruct | fruct	poamă 
+fruit: fruct,rod,poamă | fruct	poamă 
+full: plin 
+give: a da | a da	da 
+give: da | a da	da 
+good: bun 
+grass: iarbă 
+green: verde 
+guts: maţe, intestine | intestin	mațe	măruntaie	vintre	viscere 
+hair: păr 
+hand: mână | m3n3	mână	mînă 
+head: cap 
+hear: a auzi | a auzi	auzi	auzy	auzy~ 
+hear: auzi | a auzi	auzi	auzy	auzy~ 
+heart: inimă | cord	inimă 
+heavy: greu 
+he: el | ea	el 
+here: aici | aci	aicea	aici 
+hit: a lovi | a bate	a lovi	bate	lovi 
+hit: lovi | a bate	a lovi	bate	lovi 
+hold: a ţine | a ține	ține 
+hold: ţine | a ține	ține 
+horn: corn | corn	korn 
+how: cum 
+hunt: a vîna | a vâna 
+hunt: vâna | a vâna 
+husband: soţ | bărbat	bǎrbat	mărit	om	soț 
+ice: ghiaţă | gheață	ghiață 
+I: eu | eu	ew	mine 
+if: dacă 
+I: io | eu	ew	mine 
+in: în | în	înăuntru 
+kill: a omorî, a ucide | a omorî	a ucide	omorî	ucide	vâna 
+kill: omorî | a omorî	a ucide	omorî	ucide	vâna 
+knee: genunchi | genunchi	genunchiu	jenuNky	jenuNky~ 
+know: a şti | a cunoaște	a ști	cunoaște	ști 
+know: şti | a cunoaște	a ști	cunoaște	ști 
+lake: lac 
+laugh: a râde | a râde	râde	rîde	surîde	zimbi 
+laugh: râda | a râde	râde	rîde	surîde	zimbi 
+leaf: frunză | %foaie	foaie	frunz3	frunză 
+left: stânga | stâng	stîng 
+leg: picior | gambă	picior 
+lie: a minţi, minciună | a fi culcat	a se culca	a sta culcat	fi culcat | a minți	a se așeza	a se culca	a sta întins	minciună	zăcea 
+lie: zăcea | a fi culcat	a se culca	a sta culcat	fi culcat | a minți	a se așeza	a se culca	a sta întins	minciună	zăcea 
+live: a trăi | a trăi	a viețui	trăi	viață	viețui	viu	în viață 
+liver: ficat | ficat	fikat 
+long: lung 
+louse: păduche | p3duke	paduke	păduche 
+man: om | om	persoan3	persoană 
+man: om,bărbat | om	persoan3	persoană 
+many: mulţi | mult	multe	mulți 
+meat: carne 
+moon: lună 
+mother: mamă | maică	mamă 
+mountain: munte | %colina	%deal	%magura	colina	colină	deal	munte	măgură 
+mouth: gură 
+name: nume 
+narrow: îngust | strimt	strâmt	îngust 
+narrow: strâmt | strimt	strâmt	îngust 
+near: aproape | aproape	apropiat	lângă 
+near: aproape, lângă | aproape	apropiat	lângă 
+neck: gât | grumaz	gât	gâtlan	gît 
+new: nou | nou	now 
+night: noapte 
+nose: nas 
+not: nu 
+old: bătrân | vechi 
+old: vechi 
+one: un | un	una	unu 
+other: alt | alt	altă 
+person: persoană | om	persoan3	persoană 
+play: juca | a juca	a se juca	juca	se juca 
+pull: trage | a trage	trage 
+push: împinge | a brânci	a îmbrânci	a împinge	îmbrînci	împinge 
+rain: ploua | ploaie 
+right: drept | m3n3	mână	mînă 
+river: râu | fluviu	gârlă	pârâu	pîrîŭ	râu	rîŭ 
+root: rădăcină 
+round: rotund 
+salt: sare 
+sand: nisip | arină	nisip 
+say: zice | a spune	a zice	zice | arină	nisip 
+sea: mare 
+seed: sămânţă | grăunte	sămânţă	sămânță 
+see: vedea | a vedea	vedea 
+sew: coase | a coase	coase 
+short: scurt 
+sing: cânta | a cânta	cânta	cînta 
+sit: şedea | a sta jos	a ședea	sedea	ședea 
+skin: piele | piel	piele	pyele	py~ele 
+sky: cer 
+sleep: dormi | a dormi	dormi	somn 
+small: mic 
+smell: mirosi | a mirosi	mirosi 
+smoke: fum 
+snake: şarpe | șarpe 
+snow: ninge | nea	ninsoare	omăt	zăpadă 
+some: nişte | câțiva	niște 
+spit: scuipa | a scuipa	scuipa 
+stand: sta | a sta în picioare | a sta	a sta în picioare	sta	sta in picioare 
+star: stea | stea	steaua	steauă 
+stone: piatră | piatra	piatră	pyatr3	py~atr3	rocă	stâncă	stîncă 
+suck: suge | a suge	suge 
+sun: soare 
+swim: înota | a înota	înota 
+tail: coadă 
+that: acel | acea	aceea	acel	acela | un	una	unu 
+there: acolo 
+they: ei, ele | ei	ei/ele	ele 
+thick: gros 
+think: gândi | a gândi	cugeta	gândi	gîndi 
+thin: slab | slab	subţire	subțire 
+this: acest | aceasta	această	acest	acesta 
+thou: tu 
+three: trei 
+throw: arunca | a arunca	arunca 
+tongue: limbă | limb3	limbă 
+tooth: dinte 
+tree: arbore | %kopak	arbore	copac	pom 
+two: doi | doi	două	doy 
+warm: cald | cald	fierbinte 
+wash: spăla | a la	a spăla	la	spăla 
+water: apă | ap3	apă 
+we: noi | noi	noy 
+wet: ud, umed | ud	umed 
+what: ce 
+when: când 
+where: unde 
+white: alb 
+who: cine 
+wide: larg | larg	lat 
+wife: soţie | femeie	nevastă	soață	soție 
+wind: vânt | vânt	vînt 
+wing: aripă 
+with: cu 
+woman: femeie | femeie	muiere 
+worm: vierme | râmă	vierme 
+year: an 
+yellow: galben 
+you: voi | tu 
+every: fiecare	tofĭ	tot	toți 
+ash: cenușe	cenușă	scrum 
+abdomen: abdomen	burtă	pântece	vintre 
+bigness: mare 
+large: mare 
+breasts: piept	py~ept	s3n	sân	țâță 
+burn tr.: a arde 
+claw: gheară	unghie 
+nail: gheară	unghie 
+talon: gheară	unghie 
+come from: a veni	veni	veny	veny~ 
+be dead: %deceda	%expira	%sucomba	a deceda	a expira	a muri	a pieri	a răposa	a sucomba	moarte	mort	muri	mury	mury~	pieri	raposa 
+dead: %deceda	%expira	%sucomba	a deceda	a expira	a muri	a pieri	a răposa	a sucomba	moarte	mort	muri	mury	mury~	pieri	raposa 
+ground: pamînt	pământ	țară 
+land: pamînt	pământ	țară 
+soil: pamînt	pământ	țară 
+fat: grăsime 
+fat n.: grăsime 
+grease: grăsime 
+lubricant: grăsime 
+oil: grăsime 
+fly: a zbura	sbura	zbura 
+fly v.: a zbura	sbura	zbura 
+left hand: m3n3	mână	mînă 
+1 sg.: eu	ew	mine 
+be knowledgeable: a cunoaște	a ști	cunoaște	ști 
+lie down: a fi culcat	a se culca	a sta culcat	fi culcat 
+head louse: p3duke	paduke	păduche 
+male: bărbat	om 
+much: mult	multe	mulți 
+multiple: mult	multe	mulți 
+several: mult	multe	mulți 
+flesh: carne 
+hill: %colina	%deal	%magura	colina	colină	deal	munte	măgură 
+title: nume 
+nighttime: noapte 
+adulterous: un	una	unu 
+single: un	una	unu 
+the: un	una	unu 
+unprincipled: un	una	unu 
+human: om	persoan3	persoană 
+human being: om	persoan3	persoană 
+rainy weather: ploaie 
+red: roșiu	roșu 
+path: %drum	cale	drum	k3rare	stradă 
+road: %drum	cale	drum	k3rare	stradă 
+route: %drum	cale	drum	k3rare	stradă 
+hide: piel	piele	pyele	py~ele 
+little: mic 
+smallness: mic 
+rock: piatra	piatră	pyatr3	py~atr3	rocă	stâncă	stîncă 
+2 sg: tu 
+grind: doi	două	doy 
+go: a merge	a merge pe jos	a se duce	a umbla	merge	se plimba	umbla 
+walk: a merge	a merge pe jos	a se duce	a umbla	merge	se plimba	umbla 
+hot: cald	fierbinte 
+1 pl. inc.: noi	noy 
+we₁: noi	noy 
+whiteness: alb 
+who?: cine 
+female: femeie	muiere 
+distant: departe	distant 
+serious: greu 
+close: aproape	apropiat	lângă 
+ner: aproape	apropiat	lângă 
+earthworm: râmă	vierme 
+3 sg.: ea	el 
+she: ea	el 
+2 pl.: voi 
+ye: voi 
+you all: voi 
+3 pl.: ei	ei/ele	ele 
+where?: unde 
+when?: când 
+how?: cum 
+broad: larg	lat 
+wideness: larg	lat 
+principal wife: femeie	nevastă	soață	soție 
+his mother: maică	mamă 
+my mother: maică	mamă 
+his father: tată 
+my father: tată 
+woods: codru	pădure	silvă 
+branch: baston	băț	cracă	creangă	nuia	ramură 
+stick: baston	băț	cracă	creangă	nuia	ramură 
+cord: coardă	frânghie	frînghie	funie	sfoară	șnur	ștreang 
+rope: coardă	frânghie	frînghie	funie	sfoară	șnur	ștreang 
+arm: mână 
+gut: intestin	mațe	măruntaie	vintre	viscere 
+insides: intestin	mațe	măruntaie	vintre	viscere 
+intestine: intestin	mațe	măruntaie	vintre	viscere 
+intestines: intestin	mațe	măruntaie	vintre	viscere 
+vomit: a borî	a voma	a vomita	a vărsa	voame	vomita	vărsa 
+breath: a respira	a sufla	respira	răsufla	răsuflare 
+laughter: a râde	râde	rîde	surîde	zimbi 
+cogitate: a gândi	cugeta	gândi	gîndi 
+reflect: a gândi	cugeta	gândi	gîndi 
+sniff: a mirosi	mirosi 
+afraid: a se teme	frică	spaimă	teamă	teme	temere	temut 
+be afraid: a se teme	frică	spaimă	teamă	teme	temere	temut 
+fright: a se teme	frică	spaimă	teamă	teme	temere	temut 
+alive: a trăi	a viețui	trăi	viață	viețui	viu	în viață 
+be alive: a trăi	a viețui	trăi	viață	viețui	viu	în viață 
+life: a trăi	a viețui	trăi	viață	viețui	viu	în viață 
+living: a trăi	a viețui	trăi	viață	viețui	viu	în viață 
+beat: a bate	a lovi	bate	lovi 
+strike: a bate	a lovi	bate	lovi 
+hack: a tăia	tăia 
+cut open: a despica	a frânge	a rupe	a spinteca	despica	diviza	împărți 
+split: a despica	a frânge	a rupe	a spinteca	despica	diviza	împărți 
+pierce: a junghia	a punge	a stră/împunge	a înjunghia	străpunge	înjunghia 
+stab: a junghia	a punge	a stră/împunge	a înjunghia	străpunge	înjunghia 
+scratch: a râcâi	a scărpina	a zgâria	scărpina	zgâria 
+tell lies: a minți	a se așeza	a se culca	a sta întins	minciună	zăcea 
+turn: a se roti	a se întoarce	a se învârti	întoarce	învîrti 
+turn around: a se roti	a se întoarce	a se învârti	întoarce	învîrti 
+turn round: a se roti	a se întoarce	a se învârti	întoarce	învîrti 
+drop: a cădea	cădea 
+grasp: a ține	ține 
+hold in arm: a ține	ține 
+squeeze: a comprima	a presa	a stoarce	a strânge	a tescui	merge	presa	strânge 
+wring: a comprima	a presa	a stoarce	a strânge	a tescui	merge	presa	strânge 
+rub: a freca	a fricționa	freca 
+wipe: a șterge	șterge 
+wash clothes: a la	a spăla	la	spăla 
+shove: a brânci	a îmbrânci	a împinge	îmbrînci	împinge 
+bind: a lega	lega 
+fasten: a lega	lega 
+tie: a lega	lega 
+tie up: a lega	lega 
+enumerate: a număra	număra 
+number: a număra	număra 
+tally: a număra	număra 
+have fun: a juca	a se juca	juca	se juca 
+swell: a se inflama	a se umfla|se umfla	inflama	umfla 
+brook: fluviu	gârlă	pârâu	pîrîŭ	râu	rîŭ 
+stream: fluviu	gârlă	pârâu	pîrîŭ	râu	rîŭ 
+ocean: mare 
+blaze: a arde	arde 
+daylight: zi 
+daytime: zi 
+evil: prost	rău	răŭ 
+rot: corupt	depravat	putred	putrid	stricat 
+rotten: corupt	depravat	putred	putrid	stricat 
+filthy: murdar 
+soiled: murdar 
+straight: drept 
+sharp: ascuțit	tăios 
+blunt: bont	tocit 
+smooth: neted 
+damp: ud	umed 
+right side: drept 
+inside: în	înăuntru 

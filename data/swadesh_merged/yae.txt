@@ -1,0 +1,310 @@
+all: čʰʊnã-ĩ 
+every: čʰʊnã-ĩ 
+ash: tʰa 
+ashes: tʰa 
+bark: to i 
+big: anã 
+bigness: anã 
+large: anã 
+bird: pua 
+bite: hui 
+black: burɛ-burɛ-a	kãrã 
+blood: goe 
+bone: hu 
+breast: CuCu	čuču 
+breasts: CuCu	čuču 
+claw: iβɛ 
+nail: iβɛ 
+talon: iβɛ 
+cloud: gõãrã 
+come: hana*	hanã 
+come from: hana*	hanã 
+be dead: ha*bo	hãbo 
+dead: ha*bo	hãbo 
+die: ha*bo	hãbo 
+dog: aure	aʊre 
+drink: hara 
+dry: gaɔ 
+ear: ta*ra* puE	tãrã puɛ 
+earth: čiri 
+ground: čiri 
+land: čiri 
+soil: čiri 
+eat: hura 
+egg: nɨ̃ 
+eye: da-čo	daCo 
+feather: če 
+fire: kh~o*dE	kʰõdɛ 
+fish: Co*	čõ 
+fly: pʰõã 
+fly v.: pʰõã 
+foot: taɔ 
+full: ma*i*	mãĩ 
+give: yɔrɔ 
+good: čʰadɛ 
+green: čʰã-čʰã 
+hair: kɨ̃ 
+hand: iCi	iči 
+left hand: iCi	iči 
+right: iCi	iči 
+head: tʰɔbɛ 
+hear: ta*rE	tãrɛ 
+heart: čʰĩ 
+horn: yatE	yatɛ 
+1 sg.: kodE	kɔdɛ 
+I: kodE	kɔdɛ 
+kill: hãbo tʊnẽ 
+knee: hu Catu	hu čatu 
+be knowledgeable: daba 
+know: daba 
+leaf: to ph~u*da	to pʰʊ̃da 
+lie: ãrẽ 
+lie down: ãrẽ 
+liver: ma*	mã 
+long: gõa-tĩ 
+head louse: ne*	nẽ 
+louse: ne*	nẽ 
+male: ɔĩ 
+man: pume*	pumɛ̃ 
+many: hĩrãrĩ 
+much: hĩrãrĩ 
+multiple: hĩrãrĩ 
+several: hĩrãrĩ 
+flesh: gõã 
+meat: gõã 
+moon: gupɛnẽ 
+hill: ya*mi*	yãmĩ 
+mountain: ya*mi*	yãmĩ 
+mouth: yaɔ 
+name: ke*	kẽ 
+title: ke*	kẽ 
+neck: gɔrɔ 
+new: pea-čʰa	peaCh~a 
+night: ge*ne*me*	gɛ̃nẽ-mẽ 
+nighttime: ge*ne*me*	gɛ̃nẽ-mẽ 
+nose: i*bu	ĩbu 
+adulterous: keriame’h	kh~are*me* 
+one: keriame’h	kh~are*me* 
+single: keriame’h	kh~are*me* 
+that: keriame’h	kh~are*me* 
+the: keriame’h	kh~are*me* 
+unprincipled: keriame’h	kh~are*me* 
+human: pume*	pumɛ̃ 
+human being: pume*	pumɛ̃ 
+person: pume*	pumɛ̃ 
+rain: kʰɔmẽ 
+rainy weather: kʰɔmẽ 
+red: koɛ-koɛ-a 
+path: no* 
+road: no* 
+route: no* 
+root: to takɨ̃ 
+round: čoko-čoko-a 
+sand: dabu nẽgẽ 
+say: yõ 
+see: da 
+seed: čo 
+sit: ča 
+sleep: mõã 
+little: boĩčʰĩ 
+small: boĩčʰĩ 
+smallness: boĩčʰĩ 
+smoke: kʰõdɛ čʰʊ 
+star: boE	bɔɛ 
+rock: ta*dE	tãdɛ 
+stone: ta*dE	tãdɛ 
+sun: do 
+swim: ui tua 
+tail: čʰia 
+2 sg: me*ne*	mɛ̃nẽ 
+thou: me*ne*	mɛ̃nẽ 
+you: me*ne*	mɛ̃nẽ 
+tongue: th~opono*	tʰɔponõ 
+tooth: ho*dE	hõdɛ 
+tree: to 
+grind: nywari’h	yo*ari*	yõarĩ 
+two: nywari’h	yo*ari*	yõarĩ 
+go: tãĩ kʰia 
+walk: tãĩ kʰia 
+hot: kʊa-kʊ-a 
+warm: kʊa-kʊ-a 
+water: ui 
+1 pl. inc.: a*ro*re* 
+we: a*ro*re* 
+we₁: a*ro*re* 
+what: tʰanã 
+white: bɛrɛ-bɛrɛ-a 
+whiteness: bɛrɛ-bɛrɛ-a 
+who: čʰia oa	čʰia-rɛ 
+who?: čʰia oa	čʰia-rɛ 
+female: ieĩ 
+woman: ieĩ 
+yellow: koɛ-koɛ-a 
+distant: hači 
+far: hači 
+dull: čača 
+heavy: čača 
+serious: čača 
+close: kɛrĩ 
+near: kɛrĩ 
+ner: kɛrĩ 
+salt: ya-goe-mẽ 
+short: toko-ĩ-mĩ 
+snake: po 
+thin: hu-hu-i 
+wind: pʰaepa 
+earthworm: ãrĩ 
+worm: ãrĩ 
+year: ui 
+2 pl.: mɛ̃nẽ-rõ 
+ye: mɛ̃nẽ-rõ 
+you all: mɛ̃nẽ-rõ 
+3 pl.: hudi-rõ 
+they: hudi-rõ 
+where: yoa-iʊ-pɛ̃ 
+where?: yoa-iʊ-pɛ̃ 
+when: nãpa-rʊ 
+when?: nãpa-rʊ 
+how: yʊta da-rĩ 
+how?: yʊta da-rĩ 
+some: o oa-mõ 
+few: habɛ-ta-rĩ-mĩ 
+three: tarari’h	tʰararĩ 
+four: hadotcomi’h	hadɔ-čia-mĩ 
+five: keinetcibo’	kʰarẽ iči-mõ 
+broad: anã 
+wide: anã 
+wideness: anã 
+fat: yõ 
+thick: itu 
+narrow: boĩčʰĩ 
+child: boĩčʰĩ 
+principal wife: ɛba-yĩ 
+wife: ɛba-yĩ 
+husband: ɛba-mẽ 
+his mother: aĩ	eĩ 
+mother: aĩ	eĩ 
+my mother: aĩ	eĩ 
+father: amãĩ 
+his father: amãĩ 
+my father: amãĩ 
+forest: gʊ 
+woods: gʊ 
+branch: to ã čʰia 
+stick: to ã čʰia 
+fruit: čo 
+flower: to čʰučʰu 
+grass: kʊrʊ 
+cord: bʊre kʊ 
+rope: bʊre kʊ 
+grease: yõ 
+fingernail: iβɛ 
+leg: yai hu 
+wing: pʰʊ̃da to 
+gut: akʊ-to 
+guts: akʊ-to 
+insides: akʊ-to 
+intestine: akʊ-to 
+intestines: akʊ-to 
+back: pʰutu kara 
+suck: čʰučʰu kʰia 
+spit: pʰũĩ-nõ 
+vomit: ʊ-gõdɔ-čʊ 
+blow: pʰurɛ-kʊa 
+breath: hẽoa 
+breathe: hẽoa 
+laugh: airĩ kʰia-ta 
+laughter: airĩ kʰia-ta 
+cogitate: hõrẽta 
+reflect: hõrẽta 
+think: hõrẽta 
+smell: pʰĩdʊ 
+sniff: pʰĩdʊ 
+afraid: uapa 
+be afraid: uapa 
+fear: uapa 
+fright: uapa 
+alive: kʰɔ̃rɔ̃ 
+be alive: kʰɔ̃rɔ̃ 
+life: kʰɔ̃rɔ̃ 
+live: kʰɔ̃rɔ̃ 
+living: kʰɔ̃rɔ̃ 
+fight: hapata 
+hunt: ae-tãĩ 
+beat: bede kʰae-iʊ 
+hit: bede kʰae-iʊ 
+strike: bede kʰae-iʊ 
+cut: budo	koa	pɛra 
+hack: budo	koa	pɛra 
+cut open: tuti-čia 
+split: tuti-čia 
+pierce: idɛ-gua 
+stab: idɛ-gua 
+dig: jʊe 
+tell lies: mãẽ čʰa-dɛ 
+stand: kʰia 
+turn: mẽmẽrẽpa 
+turn around: mẽmẽrẽpa 
+turn round: mẽmẽrẽpa 
+drop: ãrẽdʊrʊ 
+fall: ãrẽdʊrʊ 
+grasp: gõa	ida 
+hold: gõa	ida 
+hold in arm: gõa	ida 
+squeeze: piru 
+wring: piru 
+rub: bubɛ-gua	gĩdʊ	čoa 
+wipe: bubɛ-gua	gĩdʊ	čoa 
+wash: hoa 
+wash clothes: hoa 
+push: gĩdɛ a 
+shove: gĩdɛ a 
+throw: a-ɛnõ 
+bind: yura 
+fasten: yura 
+tie: yura 
+tie up: yura 
+sew: kara 
+count: atara 
+enumerate: atara 
+number: atara 
+tally: atara 
+sing: gõã 
+have fun: čʰao kʰia 
+play: čʰao kʰia 
+float: pʰurɛ-bua 
+flow: kã 
+brook: bea	dɔrɔ 
+river: bea	dɔrɔ 
+stream: bea	dɔrɔ 
+lake: daɛ-tʰa	tʰa 
+ocean: ui anã 
+sea: ui anã 
+dust: dabu pʰõnõ 
+fog: hurukʰɔ 
+sky: ãdɛ 
+snow: yãmĩ čʰʊ 
+blaze: tɔ 
+burn: tɔ 
+day: do-mẽ 
+daylight: do-mẽ 
+daytime: do-mẽ 
+bad: čʰa-ĩ-dɛ 
+evil: čʰa-ĩ-dɛ 
+rot: tapu-čʰa 
+rotten: tapu-čʰa 
+dirty: dabu čia 
+filthy: dabu čia 
+soiled: dabu čia 
+straight: koɛmã 
+sharp: gaipa 
+blunt: hõdɛ koto 
+smooth: tata 
+damp: učʰa 
+wet: učʰa 
+correct: čʰa-dɛ-rĩ 
+in: tʰo-ro 
+inside: tʰo-ro 
+and: ado 
+if: -rʊ hudi 
+because: tara 

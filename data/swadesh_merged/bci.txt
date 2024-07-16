@@ -1,0 +1,264 @@
+all: ŋmbá 
+every: ŋmbá 
+ash: ńzɥɛ̃́ 
+ashes: ńzɥɛ̃́ 
+bark: bwî 
+abdomen: kú	kṹ 
+belly: kú	kṹ 
+big: dãʏ̈ 
+bigness: dãʏ̈ 
+large: dãʏ̈ 
+bird: ãnũmãʏ̈ 
+bite: ká 
+black: blê 
+blood: moTa	ḿmoɟá 
+bone: ovye	óɥyé 
+breast: ɲɔ̃́flɛ̃̂ 
+breasts: ɲɔ̃́flɛ̃̂ 
+claw: sà-bwî 
+nail: sà-bwî 
+talon: sà-bwî 
+cloud: ɲã́mỹɛ̃-sù-tũũʏ̈ 
+cold: flɔflɔ́ 
+come: ba	bá 
+come from: ba	bá 
+be dead: wu 
+dead: wu 
+die: wu 
+dog: alwa	alwá 
+drink: no*	nɔ̃́ 
+dry: kéː	wìsìwìsí 
+ear: su	sú 
+earth: asyɛ̀ 
+ground: asyɛ̀ 
+land: asyɛ̀ 
+soil: asyɛ̀ 
+eat: dí 
+egg: klénzwa	kléswa 
+eye: i*ma	ɲĩ́-mà 
+feather: ńdrɛ́ 
+fire: si*	sĩ̂ 
+fish: Tw~e	kpátrâ	ɟɥê 
+fly: tú 
+fly v.: tú 
+foot: ɟá 
+full: sí 
+give: mã́ 
+good: kpâ 
+hair: tí-ndrɛ́ 
+hand: sa	sá 
+left hand: sa	sá 
+right: sa	sá 
+head: tí 
+hear: ti	tí 
+heart: aw̃lɛ̃bà 
+horn: wɛ̂ 
+1 sg.: mi*	mí 
+I: mi*	mí 
+kill: kṹ 
+knee: na*glo*ma*	nãŋglṹmã 
+be knowledgeable: sí 
+know: sí 
+leaf: ɲ́ɲá 
+lie: lá 
+lie down: lá 
+liver: bwê 
+male: yáswa 
+man: srːã̂ 
+many: kàká 
+much: kàká 
+multiple: kàká 
+several: kàká 
+flesh: w̃ṹ-nnɛ̃ʏ̈ 
+meat: w̃ṹ-nnɛ̃ʏ̈ 
+moon: srà	ãŋglò 
+mouth: nw̃ã́ 
+name: duma*	dũmãʏ̈ 
+title: duma*	dũmãʏ̈ 
+neck: kɔ̀mĩ́ 
+new: úflɛ̂ 
+night: kw~aNw~a	kwɛŋgwɛ̀	kɔŋgwɛ̀ 
+nighttime: kw~aNw~a	kwɛŋgwɛ̀	kɔŋgwɛ̀ 
+nose: bw~e	bwé 
+adulterous: ku*	kũ	kũʏ̈	kɔ̃ʏ̈ 
+one: ku*	kũ	kũʏ̈	kɔ̃ʏ̈ 
+single: ku*	kũ	kũʏ̈	kɔ̃ʏ̈ 
+that: ŋ́galɛ 
+the: ku*	kũ	kũʏ̈	kɔ̃ʏ̈ 
+unprincipled: ku*	kũ	kũʏ̈	kɔ̃ʏ̈ 
+human: srːã̂ 
+human being: srːã̂ 
+person: srːã̂ 
+rain: nzɥè 
+rainy weather: nzɥè 
+red: ɔkwlɛ̀ 
+path: ati* 
+road: ati* 
+route: ati* 
+root: bódɥí	ólɥí 
+round: kùklú 
+sand: aũɲãʏ̈ 
+say: kã́	sé 
+see: wu*	w̃w̃́ 
+seed: mmà 
+sit: trːã asé 
+hide: kp~lo	wṹ-nnɛ̃ʏ̈ 
+skin: kp~lo	wṹ-nnɛ̃ʏ̈ 
+sleep: láfi 
+little: kãʏ̈ã́ 
+small: kãʏ̈ã́ 
+smallness: kãʏ̈ã́ 
+smoke: ṹsrːɛ̃̂ 
+star: nzraàmá 
+rock: yobw~a	yóbwe-bà 
+stone: yobw~a	yóbwe-bà 
+sun: vya	wya	ɥyá 
+swim: wɛ́ nzɥè 
+tail: lwá 
+this: ŋ́ga 
+2 sg: wo	wɔ́ 
+thou: wo	wɔ́ 
+you: wo	wɔ́ 
+tongue: tadlu*ma*	taflímã 
+tooth: Te	ɟé 
+tree: waka 
+grind: n5o*	nñɔ̃	ɲɲɔ̃ʏ̈ 
+two: n5o*	nñɔ̃	ɲɲɔ̃ʏ̈ 
+go: nã́ti 
+walk: nã́ti 
+water: nzwe	nzɥè 
+1 pl. inc.: ye 
+we: ye 
+we₁: ye 
+what: ńzu	ŋ́goè 
+white: ùfwê 
+whiteness: ùfwê 
+who: w̃ã́ 
+who?: w̃ã́ 
+female: blà 
+woman: blà 
+distant: ḿmwá 
+far: ḿmwá 
+dull: nɔ̃́nĩ 
+heavy: nɔ̃́nĩ 
+serious: nɔ̃́nĩ 
+salt: ɲ́ɟĩʏ̈ 
+snake: wò 
+wind: ãũmw̃ãʏ̈	ãʏ̈ŋgbã 
+earthworm: srɛ̀ 
+worm: srɛ̀ 
+year: áfwɛ́ 
+2 pl.: ámù 
+ye: ámù 
+you all: ámù 
+3 pl.: bé 
+they: bé 
+here: wa 
+there: lɔ́ 
+where: nĩʏ̈fã̂	nĩ́ 
+where?: nĩʏ̈fã̂	nĩ́ 
+when: cɛ̃ʏ̈ bénĩ 
+when?: cɛ̃ʏ̈ bénĩ 
+few: kã́ 
+other: úflɛ̂ 
+three: nsã	nsãʏ̈ 
+four: nnã	ńnə̃ 
+five: nnũ	ńnũ 
+broad: tɛtrɛ̀ 
+wide: tɛtrɛ̀ 
+wideness: tɛtrɛ̀ 
+fat: lɥì 
+thick: tutrutú 
+narrow: fiì	fèé 
+child: bà-kã́ 
+principal wife: yí 
+wife: yí 
+husband: w̃ṹ 
+his mother: nĩ́ 
+mother: nĩ́ 
+my mother: nĩ́ 
+father: sí 
+his father: sí 
+my father: sí 
+animal: nnɛ̃ʏ̈ 
+fruit: waka-mmà 
+flower: ɲɲrɛ̀ 
+grass: iɟré 
+cord: ɲãmãʏ̈ 
+rope: ɲãmãʏ̈ 
+grease: lɥì 
+fingernail: sà-bwî 
+leg: ɟá 
+wing: ndéwa 
+gut: ayà 
+guts: ayà 
+insides: ayà 
+intestine: ayà 
+intestines: ayà 
+back: sĩ́ 
+vomit: fí 
+blow: fíta 
+breath: ló ũmỹɛ̃́ 
+breathe: ló ũmỹɛ̃́ 
+laugh: srì 
+laughter: srì 
+cogitate: bu ã́ŋgũndãʏ̈ 
+reflect: bu ã́ŋgũndãʏ̈ 
+think: bu ã́ŋgũndãʏ̈ 
+smell: tí ḿvãʏ̈ 
+sniff: tí ḿvãʏ̈ 
+cut: kpɛ́ 
+hack: kpɛ́ 
+dig: frɛ 
+tell lies: bwá átó 
+stand: ɟĩ ŋglò 
+drop: tɔ́ 
+fall: tɔ́ 
+grasp: wíti 
+hold: wíti 
+hold in arm: wíti 
+squeeze: mỹãʏ̈ 
+wring: mỹãʏ̈ 
+wash: kpú 
+wash clothes: kpú 
+wipe: nṹnũ 
+push: sú bô 
+shove: sú bô 
+bind: mɪ̃ʏ̈nda 
+fasten: mɪ̃ʏ̈nda 
+tie: mɪ̃ʏ̈nda 
+tie up: mɪ̃ʏ̈nda 
+sew: kpá 
+count: kã́ 
+enumerate: kã́ 
+number: kã́ 
+tally: kã́ 
+sing: tó ɟɥé 
+float: la nzɥè ɲĩʏ̈ sú 
+flow: sóɲɟi 
+brook: nzɥe-bà 
+river: nzɥe-bà 
+stream: nzɥe-bà 
+dust: ńdutré 
+fog: bɔ́lɛ 
+blaze: yrà 
+burn: yrà 
+day: ályɛ́ 
+daylight: ályɛ́ 
+daytime: ályɛ́ 
+bad: tɛ̂ 
+evil: tɛ̂ 
+rot: kplɔ̀ 
+rotten: kplɔ̀ 
+dirty: fỹ̂ 
+filthy: fỹ̂ 
+soiled: fỹ̂ 
+sharp: sí 
+blunt: trì 
+smooth: mlɔ̃nɔ̃́ 
+right side: famà 
+left: bɛ̂ 
+in: nṹ 
+inside: nṹ 
+and: nĩ́ 
+if: sɛ 

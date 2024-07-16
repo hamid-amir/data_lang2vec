@@ -1,0 +1,406 @@
+all: inimũ 
+ankle: kito-kĩ 
+ankle: kito kin 
+arm: bide 
+arm: bidɛ́ 
+arm: bide-bagi 
+ashes: taki 
+back: mi-kin 
+back: mikin(h) 
+back: sí-begi 
+bad: yama 
+bark: ɣa 
+bark: wasoko | ɣa 
+belly: kaku | káku 
+belly: káku | káku 
+belly: o | káku 
+big: tengghaghay 
+bird: i\i | iʼi 
+bird: yi | iʼi 
+bite: asu- 
+black: sirí | sirí 
+black: sirí 
+blood: go 
+bone: bagi | bagi	bagí 
+bone: bagí | bagi	bagí 
+boy: súban 
+boy: subã(n) 
+branch: kabin 
+breast: no͂ | no*	nõ	o*n	on 
+breast: on | no*	nõ	o*n	on 
+breast: õ(n) | no*	nõ	o*n	on 
+breast: on-subu | no*	nõ	o*n	on 
+breast: õ(n)-subu | no*	nõ	o*n	on 
+breathe: sifinh fero- 
+brother: kapu 
+brother: kude 
+brother: kudɛ́ 
+burn: yidu 
+burn: yi-du 
+butterfly: apero 
+butterfly: ápɛro 
+calf: biniro 
+calf: bin-iro 
+cassowary: karuwe 
+cheek: moghõ(n)-bagi 
+cheek: moɣon-bagi 
+chest: bĩ 
+child: ghabĩ 
+child: ofo 
+child: togoro 
+chin: makabi 
+cold: taru | táru 
+cold: táru | táru 
+come: de- | da	de	dɛ- 
+come: dɛ- | da	de	dɛ- 
+crocodile: ɣáiambu 
+crocodile: …aja… 
+crocodile: ghaiambu 
+cut: tumo- 
+dark: gugununh 
+daughter: subran 
+daughter: subrã(n) 
+day: kawã 
+day: sawe 
+day: sawɛ́ 
+die: kun- | kun	kun- 
+die: kun(h)- | kun	kun- 
+dig: ko- 
+dog: anggí | anggi	angi	angí 
+dog: angí | anggi	angi	angí 
+drink: mi- | mi	mi- 
+dry: se | sɛ 
+dry: sɛ 
+ear: súrun | surun	súrun 
+ear: surun(h) | surun	súrun 
+earth: mokan | soɣó 
+earth: mokã(n) | soɣó 
+earth: soghó | soɣó 
+earth: soɣó | soɣó 
+eat: er | nĩ- 
+eat: mu-kun- | nĩ- 
+eat: ni͂- | nĩ- 
+egg: mugo | mügo 
+egg: mügo | mügo 
+elbow: bide-bũ 
+elbow: bide-bun 
+excrement: o 
+eye: kirimogo 
+eye: kiri-mogo | kirimogo 
+eye: kirimogo rõ 
+eye: kiro-bi | kirimogo 
+eye: kiro-bí | kirimogo 
+face: keto 
+fall: ru- 
+far: ɣaman 
+far: ghamã(n) | ɣaman 
+father: bo 
+fat (n.): duwo 
+feather: ron 
+feather: rõ(n) | ron 
+finger: bidɛ́ toron 
+finger: bidé torõ(n) 
+finger: kito toron 
+finger: kito torõ(n) 
+fingernail: kia 
+finger: sio 
+finger: wadó 
+finger: wadó 
+fire: yi͂ | yi*	yinh	yĩ 
+fire: yin(h) | yi*	yinh	yĩ 
+fish: aɣáɛ | axaa	aɣáɛ 
+fish: aghae | axaa	aɣáɛ 
+five: bedaghafimã 
+flower: ki 
+fly (n.): ebũ 
+fly (v.): burun- 
+fly (v.): busu͂ 
+foot: kito 
+foot: kito atã 
+forehead: kiro-bagi 
+forest: gasi 
+four: soghondemã 
+fruit: yindero 
+fruit: yindɛ-ro 
+full: tare-ma ba- | ?tome	tarema ba	tome 
+full: ?tome | ?tome	tarema ba	tome 
+girl: amgi 
+give: edo- 
+good: popora 
+grass: seso 
+guts: o 
+hair: ghaybi-ro | ron	xaibi-ro 
+hair: rõ | ron	xaibi-ro 
+hair: ron | ron	xaibi-ro 
+hair: xaibi-ro | ron	xaibi-ro 
+hand: bide | bida	bide	bidɛ́ 
+hand: bidɛ́ | bida	bide	bidɛ́ 
+head: ghaibã(n) | xaibã 
+head: ghaybã-bagi | xaibã 
+head: gun | xaibã 
+head: roba | xaibã 
+head: xaiba͂ | xaibã 
+hear: da- | da	da- 
+heart: duburo | dúburo 
+heart: dúburo | dúburo 
+heavy: yandoghu 
+heel: kito-mu 
+he/she: eki 
+he/she: e-na 
+he/she: ewa 
+hit: uforo- 
+hit: ufuro- 
+hit: waki gun 
+hole: to 
+house: ghãy 
+husband: nughu 
+I: na | nu 
+I: nu 
+in: womu 
+kill: wómu | wómu 
+kill: wu- | wómu 
+knee: bági-bu͂ | bagibu*	bági-bũ 
+knee: bagi-bũ | bagibu*	bági-bũ 
+know: nofã gi 
+laugh: ab gi- 
+leaf: ro͂ | ro*	rõ 
+leaf: ron(h) | ro*	rõ 
+leg: bagi 
+leg: kito 
+lie: ri- 
+lightning: bã 
+lip: búnaɣa-me 
+lip: bunagha-me 
+live: kádaɣai ba- 
+live: kadaghay ba- 
+liver: wun 
+liver: wun(h) 
+long: kowe 
+louse: anggu | anggu	angu 
+louse: ángu | anggu	angu 
+man: gho bisin(h) | yuxu	yúɣu 
+man: ɣó bisin | yuxu	yúɣu 
+many: wemã 
+meat: kadu | kadú 
+meat: kadú | kadú 
+moon: bidi͂ | bidĩ 
+moon: bidin(h) | bidĩ 
+morning: mimin 
+mosquito: ise 
+mother: ni 
+mountain: ghabe | yaba	yabɛ 
+mountain: yabɛ | yaba	yabɛ 
+mouth: bunagha | xate 
+mouth: ghaté | xate 
+mouth: ghosopa | xate 
+mouth: xate 
+name: fi 
+nape: gubĩ 
+navel: o-gun 
+navel: o-gun(h) 
+near: kineghã 
+neck: gubi͂ | gubĩ	mú-to 
+neck: mu-to | gubĩ	mú-to 
+neck: mú-to | gubĩ	mú-to 
+new: kadaɣai | kadaxai	kadaɣai 
+new: kadaghay | kadaxai	kadaɣai 
+night: asu | asu	asú 
+night: asú | asu	asú 
+night: miminh | asu	asú 
+nose: sintó | sin-tó	sinto 
+nose: sin-to-tó | sin-tó	sinto 
+nose: sinto-to | sin-tó	sinto 
+not: kare 
+old: semebe 
+old: yoghoghoro 
+old: yóɣoyoro 
+old: yughu-gha 
+one: sikire | sikire	sikirè	tisiye 
+one: tisiye | sikire	sikirè	tisiye 
+person: yughu | yuxu	yúɣu 
+person: yúɣu | yuxu	yúɣu 
+play: ghafe ra- 
+rain: aa | aʼa 
+rain: a\a | aʼa 
+rat: ghayo 
+rat: semese 
+rat: seme-se 
+red: kanggo | kángo 
+red: kángo | kángo 
+ripe: wáɣaman 
+ripe: waghamã(n) 
+river: wadí 
+river: wadí 
+root: taté | tatɛ́ 
+root: tatɛ́ | tatɛ́ 
+rope: afusu 
+rope: kikin 
+sand: giri͂ | girin	girĩ 
+sand: girin | girin	girĩ 
+sand: girin(h) | girin	girĩ 
+say: ro- 
+say: ru ro- 
+see: feto- | feto	feto- 
+sharp: kísin 
+sharp: kisin(h) 
+short: bagó | bagó 
+short: bagó 
+shoulder: makie 
+sing: itiro ri- 
+sister: de 
+sister: kude 
+sit: ba- 
+skin: ɣa | xa	ɣa 
+skin: gha | xa	ɣa 
+sky: ghou 
+sky: ɣou 
+sky: xou 
+sleep: kunun(h) ri- | kunũ ri- 
+sleep: kunu͂ ri- | kunũ ri- 
+sleep: taghan | kunũ ri- 
+small: monogho 
+smell: fi mi- 
+smell: páɣa fu foɣomo- 
+smoke: aku | áku 
+smoke: áku | áku 
+smooth: imu-feran 
+smooth: taa 
+snake: wasi 
+son: mu 
+sour: ghaè 
+spit: ɛs-ó si- 
+spit: mase 
+spit: mase si- 
+split: aɣafun- 
+stand: doto- 
+stand: maseri- 
+star: mi | mi	mi* 
+star: mĩ | mi	mi* 
+stone: iro | iro	iró 
+stone: iró | iro	iró 
+straight: imidi͂ 
+suck: mi- 
+suck: on edo- 
+sun: sawe | sawa	sawɛ́ 
+sun: sawɛ́ | sawa	sawɛ́ 
+swim: kĩ gho- 
+tail: osiron | wobú 
+tail: ósiron | wobú 
+tail: wobu | wobú 
+tail: wobú | wobú 
+take: ki ra- 
+take: ra- 
+that: u-go 
+they: yogho 
+they: yoghona 
+they: yoɣo 
+they: yoɣo-na 
+thick: womukumã 
+thigh: midin 
+thigh: midin(h) 
+thin: áseɣe | áseɣe 
+thin: asege | áseɣe 
+think: fimo- 
+thin: seskadi | áseɣe 
+this: ne-go 
+thorn: ghamoghon 
+thorn: yamoghõ 
+thorn: yámo-ɣon 
+thou: ga | gu	gugu 
+thou: gu | gu	gugu 
+thou: gugu | gu	gugu 
+three: kumandimã 
+throat: mi 
+throat: mu-sobo 
+throat: mu-subo 
+throw: kosomo 
+thunder: ghou ru- 
+thunder: ɣou ru- 
+tie: ada- 
+today: togò 
+tomorrow: rigirõ 
+tongue: fage | faga	fage	fagɛ́ 
+tongue: fagɛ́ | faga	fage	fagɛ́ 
+tooth: maga | maga	magá 
+tooth: magá | maga	magá 
+tree: kasero 
+two: kuruma͂ | kuruma	kuruma*	kuruma*n	kurumã 
+two: kurumã(n) | kuruma	kuruma*	kuruma*n	kurumã 
+unripe: kuwo 
+vagina: ato 
+vagina: áto 
+walk: gho- | ɣo- 
+walk: ɣo- 
+wallaby: sí-baɣai 
+wallaby: si-baghay 
+warm: apa 
+warm: ápa | apa 
+wash: e kin- 
+wash: ɛ kin- 
+wash: e kun- 
+wash: ɛ kun- 
+water: e | a	e	oxo	ɛ 
+water: ɛ | a	e	oxo	ɛ 
+water: oxo | a	e	oxo	ɛ 
+weep: ife ru- 
+weep: ifion- 
+weep: kin-e 
+weep: kiri-mogo 
+we: nugu 
+we: nuna | nugu 
+wet: kaké 
+what: metnã 
+white: ɣáya | ɣáya 
+white: ghaya | ɣáya 
+who: monoghoi 
+wife: rã-pasa 
+wind: kifi | kifí 
+wind: kifí | kifí 
+wing: ba 
+with: nagha 
+woman: ran 
+woman: rã(n) | ran 
+wood: yi kadé 
+wood: yi kadɛ́ 
+yesterday: asüwe 
+you: gugu | gu	gugu 
+you: guna | gu	gugu 
+ash: taki 
+abdomen: káku 
+breasts: no*	nõ	o*n	on 
+come from: da	de	dɛ- 
+be dead: kun	kun- 
+dead: kun	kun- 
+ground: soɣó 
+land: soɣó 
+soil: soɣó 
+fly: burun-	busũ 
+fly v.: burun-	busũ 
+left hand: bida	bide	bidɛ́ 
+right: bida	bide	bidɛ́ 
+1 sg.: nu 
+lie down: ri- 
+head louse: anggu	angu 
+male: ɣó bisin 
+flesh: kadú 
+hill: yaba	yabɛ 
+title: fi 
+nighttime: asu	asú 
+adulterous: sikire	sikirè	tisiye 
+single: sikire	sikirè	tisiye 
+the: sikire	sikirè	tisiye 
+unprincipled: sikire	sikirè	tisiye 
+human: yuxu	yúɣu 
+human being: yuxu	yúɣu 
+rainy weather: aʼa 
+hide: xa	ɣa 
+rock: iro	iró 
+2 sg: gu	gugu 
+grind: kuruma	kuruma*	kuruma*n	kurumã 
+go: ɣo- 
+hot: apa 
+1 pl. inc.: nugu 
+we₁: nugu 
+whiteness: ɣáya 
+female: ran 
+distant: ɣaman 

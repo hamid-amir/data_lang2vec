@@ -1,0 +1,263 @@
+all: hia 
+every: hia 
+ash: drəu 
+ashes: drəu 
+abdomen: ylaiiñ 
+belly: ylaiiñ 
+big: gaan 
+bigness: gaan 
+large: gaan 
+bird: menɔ 
+bite: oloy 
+black: hlitr 
+blood: dra 
+bone: j3	jəə 
+breast: ba|si-	si 
+breasts: ba|si-	si 
+burn: thoŋ 
+burn tr.: thoŋ 
+cloud: ylɔɔ 
+cold: hnrathu	megic 
+come: ai3	aiə 
+come from: ai3	aiə 
+be dead: m3k	mk 
+dead: m3k	mk 
+die: m3k	mk 
+dog: %kuli	kuli 
+drink: iC	ic 
+dry: hme	mada 
+ear: bara|kəñe-	k35e 
+eat: an	han 
+egg: waakuñ 
+eye: ec-mæk	mEk 
+feather: le|y- 
+fire: meiC	meic 
+fish: wo	wɔɔ 
+fly: gɔ	lalay 
+fly v.: gɔ	lalay 
+good: soo 
+green: udrudrɔ 
+hair: le|yne-n ba- 
+hand: be5i	beñi- 
+left hand: be5i	beñi- 
+right: be5i	beñi- 
+head: ba- 
+hear: l3N	ləŋ 
+1 sg.: i5a	iña 
+I: i5a	iña 
+kill: hliŋɔ 
+be knowledgeable: xanaa	xataa 
+know: xanaa	xataa 
+leaf: la	la- 
+lie: ulili 
+lie down: ulili 
+liver: ak 
+long: bey 
+head louse: uto 
+louse: uto 
+male: baga 
+man: at 
+moon: tehi 
+mouth: jehmæ- 
+name: ye 
+title: ye 
+neck: ñii- 
+new: 8ep	thep	th~ep 
+night: h5~iNetr	hñiŋeetr 
+nighttime: h5~iNetr	hñiŋeetr 
+nose: h5~iN3i5	hñiŋəiñ 
+adulterous: xaCa	xaca	xača 
+one: xaCa	xaca	xača 
+single: xaCa	xaca	xača 
+that: elee	eliŋ 
+the: xaCa	xaca	xača 
+unprincipled: xaCa	xaca	xača 
+human: at 
+human being: at 
+person: at 
+rain: we 
+rainy weather: we 
+red: dra 
+path: 8en	ge|ðen 
+road: 8en	ge|ðen 
+route: 8en	ge|ðen 
+root: wɔɔ- 
+sand: əñ 
+say: haa 
+see: wo	wɔ 
+sit: laba 
+hide: une	une- 
+skin: une	une- 
+sleep: mokutr 
+little: yhnikoŋ 
+small: yhnikoŋ 
+smallness: yhnikoŋ 
+smoke: hai 
+star: oxyy	oxy~i 
+rock: (i)veto	iveto	veto 
+stone: (i)veto	iveto	veto 
+swim: haai 
+tail: hmokune- 
+this: aaŋ	eaŋ 
+2 sg: au 
+thou: au 
+you: au 
+tongue: bo|hme-	hm~e 
+tooth: 5u	ñu 
+grind: lo 
+two: lo 
+go: he	hele 
+walk: he	hele 
+hot: mææge 
+warm: mææge 
+water: k3l3	kəiə	kələ 
+1 pl. inc.: 3tin	əhmun	ətin 
+we: 3tin	əhmun	ətin 
+we₁: 3tin	əhmun	ətin 
+what: iey 
+white: hau 
+whiteness: hau 
+who: iaa 
+who?: iaa 
+female: moomo 
+woman: moomo 
+yellow: hmæhmætr 
+distant: sɔɔkɔy 
+far: sɔɔkɔy 
+dull: hmææk 
+heavy: hmææk 
+serious: hmææk 
+close: hakekeñ 
+near: hakekeñ 
+ner: hakekeñ 
+salt: sɔɔtr 
+short: oxulit 
+snake: on 
+thin: haleləy 
+wind: aŋ 
+earthworm: biget 
+worm: biget 
+year: hunaa 
+2 pl.: əbun 
+ye: əbun 
+you all: əbun 
+3 pl.: ədra 
+they: ədra 
+where: ua 
+where?: ua 
+when: kehəə 
+when?: kehəə 
+how: kɔmɔu 
+how?: kɔmɔu 
+other: kese 
+three: kun 
+four: væk	üak 
+five: baa|xaca	thabyŋ	θabüŋ 
+broad: laau 
+wide: laau 
+wideness: laau 
+fat: giris 
+thick: haki 
+narrow: hnreek 
+principal wife: aeɔɔ- 
+wife: aeɔɔ- 
+husband: aeɔɔ- 
+his mother: hiñe- 
+mother: hiñe- 
+my mother: hiñe- 
+father: kame- 
+his father: kame- 
+my father: kame- 
+forest: hñoot 
+woods: hñoot 
+branch: aŋə 
+stick: aŋə 
+fruit: wa- 
+flower: sei	vəŋo- 
+grass: ajilaat 
+cord: təə 
+rope: təə 
+flesh: uutiəə 
+meat: uutiəə 
+grease: giris 
+wing: baje|beñi-	la-beñi- 
+gut: taŋ tiiñ 
+guts: taŋ tiiñ 
+insides: taŋ tiiñ 
+intestine: taŋ tiiñ 
+intestines: taŋ tiiñ 
+back: ju 
+suck: cem 
+spit: haŋəc 
+vomit: hmita 
+blow: tyɔ 
+breath: ho|menɔ 
+breathe: ho|menɔ 
+laugh: hluma 
+laughter: hluma 
+cogitate: yñkyme 
+reflect: yñkyme 
+think: yñkyme 
+smell: bon 
+sniff: bon 
+afraid: outen 
+be afraid: outen 
+fear: outen 
+fright: outen 
+alive: mwəətr 
+be alive: mwəətr 
+life: mwəətr 
+live: mwəətr 
+living: mwəətr 
+hunt: bwec 
+beat: kot 
+hit: kot 
+strike: kot 
+cut: gəə 
+hack: gəə 
+cut open: koy 
+split: koy 
+scratch: dravec 
+dig: hiñ	hək	ɔc 
+stand: tetr	totr 
+drop: kəlu	luŋ 
+fall: kəlu	luŋ 
+grasp: kɔɔtr 
+hold: kɔɔtr 
+hold in arm: kɔɔtr 
+squeeze: oowaa 
+wring: oowaa 
+throw: degec 
+bind: hykɔlɔ 
+fasten: hykɔlɔ 
+tie: hykɔlɔ 
+tie up: hykɔlɔ 
+sew: tibetr 
+count: ay 
+enumerate: ay 
+number: ay 
+tally: ay 
+flow: drii	hiŋələ 
+lake: nem 
+ocean: kəiə 
+sea: kəiə 
+dust: sesɔ 
+fog: sahot 
+sky: draañ 
+bad: monru	monu 
+evil: monru	monu 
+rot: bebŋ 
+rotten: bebŋ 
+dirty: kɔnɔ 
+filthy: kɔnɔ 
+soiled: kɔnɔ 
+sharp: xetr 
+damp: xubet 
+wet: xubet 
+right side: metɔ 
+left: me 
+at: hñi 
+in: hñi 
+inside: hñi 
+and: kene	me 
+if: anee 

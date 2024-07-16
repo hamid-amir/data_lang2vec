@@ -1,0 +1,443 @@
+all: ambuna | ambuna	tayo 
+all: mandaidina | ambuna	tayo 
+all: taida | ambuna	tayo 
+all: tayo | ambuna	tayo 
+arm: aḷi topa 
+arm: ali topa 
+arm: ki 
+arm: kʰi 
+arrow: dumane 
+ashes: dan(g)ga | daŋga 
+ashes: daŋga 
+at: manda 
+back: kʰuo͂u 
+back: kuõu 
+bad: kʰoae͂ 
+bad: koaenh 
+bad: koãetupa 
+bark: yon(g)gole | yoŋgoḷe 
+bark: yoŋgoḷe | yoŋgoḷe 
+belly: tomba 
+big: andae | andaḷepe 
+big: anda(lepe) | andaḷepe 
+big: andaḷepe | andaḷepe 
+bird: lipu | topa 
+bird: topa 
+bite: na 
+bitter: nenin(g)gi 
+bitter: neniŋgi 
+black: busupea 
+black: busu-pea | busupea 
+black: busu-pi | busupea 
+blood: we 
+blow: wepola 
+bone: kuli | kh~uli	kuli	kʰuḷi 
+bone: kʰuḷi | kh~uli	kuli	kʰuḷi 
+boy: naiki 
+boy: naikʰi 
+breast: andu 
+brother: agi 
+brother: ainya 
+brother: ame 
+burn: kita 
+burn: ta 
+calf: kʰimbu kʰuḷi 
+calf: kimbu kuli 
+cassowary: yaari 
+cassowary: yati 
+cheek: pai 
+chest: akokuli 
+child: penainyu 
+chin: yaŋga 
+claw: an(g)ge kembo | aŋge kʰembo 
+claw: aŋge kʰembo 
+cloud: duru | duru	ya 
+cloud: ya | duru	ya 
+cloud: ya (busupia) | duru	ya 
+cold: kon(g)go | kʰosa	kʰupa 
+cold: kosa | kʰosa	kʰupa 
+cold: kʰosa | kʰosa	kʰupa 
+cold: kupa | kʰosa	kʰupa 
+cold: kʰupa | kʰosa	kʰupa 
+come: ipu 
+count: yapea 
+crocodile: uala 
+crocodile: uaḷa 
+cut: tombea 
+cut: watea 
+dark: timba 
+daughter: wane 
+day: gaipamenane 
+day: natena 
+day: pa 
+die: koma | kh~oma	koma	kʰoma 
+die: kʰoma | kh~oma	koma	kʰoma 
+dog: yana 
+drink: na | na	ne	ne-	no- 
+drink: ne- | na	ne	ne-	no- 
+drink: no- | na	ne	ne-	no- 
+dry: kapu | kʰapu 
+dry: kʰapu 
+ear: kale | kale	kh~ale	kʰaḷe 
+ear: kʰaḷe | kale	kh~ale	kʰaḷe 
+earth: su 
+eat: na | na	ne-	no- 
+eat: na- | na	ne-	no- 
+eat: ne- | na	ne-	no- 
+eat: no- | na	ne-	no- 
+egg: kapa | kʰapa 
+egg: kʰapa 
+elbow: kʰi kʰinaḷu 
+elbow: ki kinalu 
+emu: yati 
+eye: le | le	ḷe 
+eye: ḷe | le	ḷe 
+fall: lopa 
+fall: ḷopa 
+far: mopata 
+father: apa 
+father: ata 
+fat (n.): andae 
+fear: pala 
+feather: iri 
+few: on(g)gepu 
+fight: waipiya 
+finger: an(g)ge kembo 
+finger: aŋge kʰembo 
+finger: kʰi kʰembo 
+finger: ki kembo 
+fingernail: an(g)ge kindiba 
+fingernail: kʰi kʰindiba 
+fingernail: ki kindiba 
+fire: tepana 
+fish: kawan(g)ge | kawangge	kh~awaNge	kʰawaŋge	walia	waḷia 
+fish: kʰawaŋge | kawangge	kh~awaNge	kʰawaŋge	walia	waḷia 
+fish: walia | kawangge	kh~awaNge	kʰawaŋge	walia	waḷia 
+fish: waḷia | kawangge	kh~awaNge	kʰawaŋge	walia	waḷia 
+five: su 
+fly (n.): punya 
+fly (n.): punye 
+foot: an(g)ge | aŋge 
+foot: aŋge 
+foot: an(g)ge wata | aŋge 
+foot: aŋge wata 
+forehead: weno 
+four: mala 
+four: maḷa 
+fruit: ela 
+fruit: kili 
+fruit: kʰiḷi 
+full: tumbilia | tumbilia	tumbiḷia 
+full: tumbiḷia | tumbilia	tumbiḷia 
+girl: non(g)go 
+girl: noŋgo 
+give: ala | aḷa	gi 
+give: aḷa | aḷa	gi 
+give: gi | aḷa	gi 
+good: epe 
+good: epe-tupa 
+grass: ambu 
+hair: iri | kʰaḷuiti 
+hair: iti | kʰaḷuiti 
+hair: kʰaḷuiti | kʰaḷuiti 
+hair: kalu-iti | kʰaḷuiti 
+hand: ki | kh~i	ki	kʰi 
+hand: kʰi | kh~i	ki	kʰi 
+hand: kʰi wata | kh~i	ki	kʰi 
+hand: ki wata | kh~i	ki	kʰi 
+head: kalu | kʰaḷu 
+head: kʰaḷu | kʰaḷu 
+hear: pan(g)ga | paNga	pangga	paŋga 
+hear: paŋga | paNga	pangga	paŋga 
+heart: konali | kʰonaḷi 
+heart: kʰonaḷi | kʰonaḷi 
+heavy: kenda | kʰenda 
+heavy: kʰenda 
+here: gonane 
+here: gone 
+he/she: ipu 
+he/she: ipuna 
+hit: apela 
+hit: lia 
+hit: ḷia 
+hit: tula 
+hit: waipiya 
+hit: yandapa 
+hold: tipinya 
+hole: pasu 
+house: anda 
+how: akʰipu 
+how: aki-pu 
+how: aki-putapo 
+husband: ali 
+husband: aḷi 
+I: ni 
+I: nina 
+in: tu-pata 
+kill: lia | ḷia 
+kill: ḷia | ḷia 
+knee: tumu 
+know: kʰone sia 
+leaf: keta | keta	kh~eta	kʰeta 
+leaf: kʰeta | keta	kh~eta	kʰeta 
+leg: ange 
+leg: an(g)ge 
+leg: aŋge 
+lie: pailia | paḷia 
+lie: palia | paḷia 
+lie: paḷia | paḷia 
+lip: kambulu 
+lip: kʰambuḷu 
+liver: pu 
+long: andalu | andaḷu 
+long: andaḷu | andaḷu 
+louse: ede | ede	lema 
+louse: lema | ede	lema 
+louse: ḷema | ede	lema 
+man: ali | kh~omeli	komeli	kʰomeḷi 
+man: aḷi | kh~omeli	komeli	kʰomeḷi 
+many: ana | andapu 
+many: andapu 
+meat: mi͂di 
+meat: minh.di 
+moon: eke | ekʰe	sumba 
+moon: ekʰe | ekʰe	sumba 
+moon: sumba | ekʰe	sumba 
+morning: yapikepepate 
+mosquito: nene 
+mother: ama 
+mother: an(g)gi 
+mother: aŋgi 
+mountain: kati | kati	kh~ati	kʰati	taida 
+mountain: kʰati | kati	kh~ati	kʰati	taida 
+mountain: taida | kati	kh~ati	kʰati	taida 
+mouth: ekete | ekʰete 
+mouth: ekʰete 
+name: bi 
+near: tepata 
+neck: ma 
+new: kan(g)gae | kanggae	kh~aNgae	kʰaŋgae	pote 
+new: kʰaŋgae | kanggae	kh~aNgae	kʰaŋgae	pote 
+new: pote | kanggae	kh~aNgae	kʰaŋgae	pote 
+night: timbala | timbala	timbaḷa 
+night: timbaḷa | timbala	timbaḷa 
+nose: wili | wili	wiḷi 
+not: dia | dia	na- 
+not: na- | dia	na- 
+old: kapu 
+old: kutupea 
+old: kʰutupea 
+old: pati 
+one: kome | kh~ome	kome	komea	kʰome 
+one: kʰome | kh~ome	kome	komea	kʰome 
+one: komea | kh~ome	kome	komea	kʰome 
+one: nakunuma | kh~ome	kome	komea	kʰome 
+other: meda 
+other: menda 
+person: komeli | kh~omeli	komeli	kʰomeḷi 
+person: kʰomeḷi | kh~omeli	komeli	kʰomeḷi 
+play: telepota 
+play: teḷepota 
+pull: yoga 
+rain: yai 
+rat: pakita 
+rat: pakʰita 
+red: kami-pi | wepea 
+red: wepea 
+red: wepe(a) | wepea 
+ripe: pote 
+river: iba 
+river: ipa 
+road: pora | pora	pota 
+road: pota | pora	pota 
+root: pida 
+rope: kope 
+rope: kʰope 
+sand: iba su 
+say: la | ḷa 
+say: ḷa | ḷa 
+see: anda 
+seed: kili | wai 
+seed: wai 
+sharp: nagapa 
+short: peau͂ | peaũ 
+short: peaunh | peaũ 
+shoulder: paisa 
+sister: agi 
+sister: ainya 
+sit: pita 
+skin: yon(g)gele | yoNgole	yonggele	yongggole	yoŋgoḷe 
+skin: yong(g)gole | yoNgole	yonggele	yongggole	yoŋgoḷe 
+skin: yoŋgoḷe | yoNgole	yonggele	yongggole	yoŋgoḷe 
+sky: ya 
+sleep: pailia | upaḷia 
+sleep: upalia | upaḷia 
+sleep: upaḷia | upaḷia 
+small: en(g)ge(se) | eŋgese 
+small: eŋgese 
+smell: pun(g)gapa 
+smoke: londo | ḷondo 
+smoke: ḷondo | ḷondo 
+snake: kete 
+son: naikisi 
+son: naikʰisi 
+spit: kʰotoḷa 
+stand: a 
+stand: teka 
+star: kumba | kh~umba	kumba	kʰumba 
+star: kʰumba | kh~umba	kumba	kʰumba 
+stick: tanu 
+stone: kaana | kana	kh~ana	kʰana 
+stone: kana | kana	kh~ana	kʰana 
+stone: kʰana | kana	kh~ana	kʰana 
+straight: kepea 
+straight: tendepo 
+straight: tendepo-le 
+straight: tendepoḷe 
+sun: nate 
+sweet: tende 
+swim: isa 
+tail: apu 
+take: mea 
+take: pagena 
+that: mo(n(g)go) | mo	moŋgo 
+that: mo(ŋgo) | mo	moŋgo 
+there: moŋgonane 
+they: nimu 
+they: nimuna 
+they two: nipu 
+they two: nipuna 
+thigh: pala 
+thigh: paḷa 
+this: go 
+thou: imi | imi	ne 
+thou: imina | imi	ne 
+thou: ne | imi	ne 
+thou: nena | imi	ne 
+three: tepo 
+throat: pendoko 
+throw: tumba 
+tie: kota 
+tie: pon(g)gopia 
+tie: poŋgopia 
+tie: ton(g)ga 
+today: ambi 
+tomorrow: apundane 
+tomorrow: mundane 
+tomorrow: tuli 
+tomorrow: tuḷi 
+tomorrow: tundane 
+tongue: ege | ege	eke	ekh~e	ekʰe 
+tongue: eke | ege	eke	ekh~e	ekʰe 
+tongue: ekʰe | ege	eke	ekh~e	ekʰe 
+tooth: an(g)ga | aNga	angga	aŋga 
+tooth: aŋga | aNga	angga	aŋga 
+tree: tepana 
+tree: wai | tepana 
+turn: lekeya 
+turn: ḷekʰeya 
+turn: peteke-petekeya 
+two: lapo | lapo	ḷapo 
+two: ḷapo | lapo	ḷapo 
+unripe: kan(g)ga 
+unripe: kʰaŋga 
+walk: pu 
+walk: tambua | pu 
+wallaby: sawati 
+warm: riripu | titipupea 
+warm: titipu | titipupea 
+warm: titipupea 
+warm: titipu(-pea) | titipupea 
+wash: isa 
+wash: kita 
+wash: tandepea 
+water: iba | iba	ipa 
+water: ipa | iba	ipa 
+we (incl.): na 
+we: na 
+we: nana 
+we two (incl.): sa 
+we two (incl.): sana 
+we two: sa 
+what: a | akʰi 
+what: ake | akʰi 
+what: aki | akʰi 
+what: akʰi 
+when: andapele 
+when: andapeḷe 
+where: ane 
+where: anepata 
+where: ane(-pata) 
+white: kage | kʰage 
+white: kʰage 
+white: kake-pi | kʰage 
+who: api 
+wife: wete 
+wind: pokiki | pokʰikʰi 
+wind: pokʰikʰi 
+woman: wena 
+wrist: wena topa 
+yellow: kame | kʰame 
+yellow: kʰame 
+yesterday: ambala 
+yesterday: ambaḷa 
+yesterday: amba-ne 
+yesterday: apunumane 
+yesterday: munumane 
+you: imi | imi	ne 
+you two: ibi 
+you two: ipina 
+every: ambuna	tayo 
+ash: daŋga 
+abdomen: tomba 
+bigness: andaḷepe 
+large: andaḷepe 
+breasts: andu 
+nail: aŋge kʰembo 
+talon: aŋge kʰembo 
+come from: ipu 
+be dead: kh~oma	koma	kʰoma 
+dead: kh~oma	koma	kʰoma 
+ground: su 
+land: su 
+soil: su 
+left hand: kh~i	ki	kʰi 
+right: kh~i	ki	kʰi 
+1 sg.: ni 
+be knowledgeable: kʰone sia 
+lie down: paḷia 
+head louse: ede	lema 
+male: aḷi 
+much: andapu 
+multiple: andapu 
+several: andapu 
+hill: kati	kh~ati	kʰati	taida 
+title: bi 
+nighttime: timbala	timbaḷa 
+adulterous: kh~ome	kome	komea	kʰome 
+single: kh~ome	kome	komea	kʰome 
+the: kh~ome	kome	komea	kʰome 
+unprincipled: kh~ome	kome	komea	kʰome 
+human: kh~omeli	komeli	kʰomeḷi 
+human being: kh~omeli	komeli	kʰomeḷi 
+rainy weather: yai 
+path: pora	pota 
+route: pora	pota 
+hide: yoNgole	yonggele	yongggole	yoŋgoḷe 
+little: eŋgese 
+smallness: eŋgese 
+rock: kana	kh~ana	kʰana 
+2 sg: imi	ne 
+grind: lapo	ḷapo 
+go: pu 
+hot: titipupea 
+1 pl. inc.: na 
+we₁: na 
+whiteness: kʰage 
+who?: api 
+female: wena 
+distant: mopata 
+dull: kʰenda 
+serious: kʰenda 
+close: tepata 
+ner: tepata 

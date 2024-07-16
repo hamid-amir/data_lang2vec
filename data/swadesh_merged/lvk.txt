@@ -1,0 +1,286 @@
+all: suni 
+every: suni 
+ash: kunu 
+ashes: kunu 
+bark: faota 
+abdomen: vai 
+belly: vai 
+big: kurai	mbakel 
+bigness: kurai	mbakel 
+large: kurai	mbakel 
+bird: malagul	malaɣul 
+bite: ahoma	ŋa-ohoma 
+black: korovisa 
+blood: ravu 
+bone: sosokio 
+breast: ofu	ɔfu 
+breasts: ofu	ɔfu 
+cloud: s	totoa	totoas 
+cold: lomisa	vever 
+come: ulama	vula-	vulama	vulo-ma 
+come from: ulama	vula-	vulama	vulo-ma 
+be dead: kiu 
+dead: kiu 
+die: kiu 
+dog: mitakeu 
+drink: eu	eui 
+dry: kea-v	keːke 
+ear: hovul 
+earth: aram 
+ground: aram 
+land: aram 
+soil: aram 
+eat: eu	eu-i	eui	ou-ne	oune 
+egg: keruv 
+eye: lemi 
+feather: marui	maruiv 
+fire: lake 
+fish: fosal 
+fly: fofor 
+fly v.: fofor 
+foot: ŋa-fe 
+full: semem	seː 
+give: ane	o-neva	one 
+good: hobea	hombea 
+green: girin	imana 
+hair: nu 
+hand: NeNeso	tau 
+left hand: NeNeso	tau 
+right: NeNeso	tau 
+head: vatu 
+hear: ofi	vo-fi-mem	vofimEm	vɔfimɛm 
+heart: vuvul 
+1 sg.: Nai	ŋai 
+I: Nai	ŋai 
+kill: akuru 
+knee: kukunio	ŋa-kukunio 
+be knowledgeable: honiam	ŋa-vea-mem 
+know: honiam	ŋa-vea-mem 
+leaf: legis	lexis	leɣis 
+lie: fufu 
+lie down: fufu 
+liver: ha	haː	ŋa-ha 
+long: soasoana	sosona 
+head louse: lai 
+louse: lai 
+male: ali	leae-m 
+man: malav	tam 
+many: vutiv 
+much: vutiv 
+multiple: vutiv 
+several: vutiv 
+flesh: leruv 
+meat: leruv 
+moon: kua 
+hill: sasa	solo	sɔlɔ 
+mountain: sasa	solo	sɔlɔ 
+mouth: leu 
+name: laNi	laŋi	ŋi 
+title: laNi	laŋi	ŋi 
+neck: soso 
+new: koesove	koisove 
+night: hamus 
+nighttime: hamus 
+nose: sisi 
+not: tamu 
+adulterous: dom	telako	teletom	tetelko	tetelom 
+one: dom	telako	teletom	tetelko	tetelom 
+single: dom	telako	teletom	tetelko	tetelom 
+that: hoiga 
+the: dom	telako	teletom	tetelko	tetelom 
+unprincipled: dom	telako	teletom	tetelko	tetelom 
+human: malav	tam 
+human being: malav	tam 
+person: malav	tam 
+rain: lai 
+rainy weather: lai 
+red: raravu	raravua 
+path: lake 
+road: lake 
+route: lake 
+root: kala 
+round: bokole-a 
+sand: aor 
+say: hiva	otigiri-m 
+see: alea	alem	o-le-m 
+seed: homolo	hɔmalo 
+sit: fifi 
+hide: keut 
+skin: keut 
+sleep: iru	irui 
+little: minatula	tula 
+small: minatula	tula 
+smallness: minatula	tula 
+smoke: hou 
+star: simu 
+rock: beko	mbeko	mb~eko	veko 
+stone: beko	mbeko	mb~eko	veko 
+sun: kui 
+swim: soŋi	su-ne 
+tail: fulu 
+this: ho 
+2 sg: inu 
+thou: inu 
+you: inu 
+tongue: let 
+tooth: neo 
+grind: lelal	lelaol	lemal 
+two: lelal	lelaol	lemal 
+go: foa	keleai 
+walk: foa	keleai 
+hot: iaia 
+warm: iaia 
+water: lafi 
+1 pl. inc.: me 
+we: me 
+we₁: me 
+what: man	roi	roin	vala 
+white: kelekele	kelekelea 
+whiteness: kelekele	kelekelea 
+who: ami 
+who?: ami 
+female: aira	otua 
+woman: aira	otua 
+yellow: iala	raŋoraŋo 
+distant: koka 
+far: koka 
+dull: mutete 
+heavy: mutete 
+serious: mutete 
+close: kelei 
+near: kelei 
+ner: kelei 
+short: fafaloko 
+snake: tagio	taɣio 
+thin: tanatana 
+wind: naui	naul 
+year: masiv 
+3 sg.: hoina 
+he: hoina 
+she: hoina 
+2 pl.: imi 
+ye: imi 
+you all: imi 
+3 pl.: hoiva 
+they: hoiva 
+here: hoka 
+there: hea 
+where: ria 
+where?: ria 
+when: ninam 
+when?: ninam 
+how: valai 
+how?: valai 
+three: eña	eŋa 
+four: nun 
+five: sie 
+fat: fakolita 
+thick: fakolita 
+child: vovou	vovoː 
+his mother: kala	mama	vava 
+mother: kala	mama	vava 
+my mother: kala	mama	vava 
+father: kale-m	kalem	mamam 
+his father: kale-m	kalem	mamam 
+my father: kale-m	kalem	mamam 
+branch: mal 
+stick: mal 
+fruit: homolo 
+flower: vivisa 
+grass: ara 
+cord: kemus 
+rope: kemus 
+leg: tau	tau furime 
+wing: raːl 
+gut: nali 
+guts: nali 
+insides: nali 
+intestine: nali 
+intestines: nali 
+back: mutu 
+suck: orui 
+spit: suɣaev 
+vomit: mumut 
+blow: fufuari 
+breath: vuivofoi 
+breathe: vuivofoi 
+laugh: sosokoe 
+laughter: sosokoe 
+cogitate: oluɣu 
+reflect: oluɣu 
+think: oluɣu 
+smell: okini	vo-kini 
+sniff: okini	vo-kini 
+afraid: naɣeam 
+be afraid: naɣeam 
+fear: naɣeam 
+fright: naɣeam 
+fight: kikiuai 
+hunt: seueki 
+beat: akuru	kurun 
+hit: akuru	kurun 
+strike: akuru	kurun 
+cut: hatari 
+hack: hatari 
+cut open: otori 
+split: otori 
+pierce: aki	uia	ɔhɔe 
+stab: aki	uia	ɔhɔe 
+scratch: iŋi 
+dig: ovu 
+stand: fale 
+drop: erou 
+fall: erou 
+grasp: ofoi 
+hold: ofoi 
+hold in arm: ofoi 
+squeeze: ovaori 
+wring: ovaori 
+rub: oroai 
+wipe: okeairi 
+bind: asu	osu 
+fasten: asu	osu 
+tie: asu	osu 
+tie up: asu	osu 
+sew: ohoa 
+count: vomiari 
+enumerate: vomiari 
+number: vomiari 
+tally: vomiari 
+sing: liŋa 
+have fun: roroŋir 
+play: roroŋir 
+float: neɣo 
+flow: tuturu 
+brook: ŋaŋa 
+river: ŋaŋa 
+stream: ŋaŋa 
+dust: kunu 
+fog: afu	makefu 
+sky: totoasav	totoaːs 
+blaze: hoe	kelago	kelaɣo 
+burn: hoe	kelago	kelaɣo 
+day: le 
+daylight: le 
+daytime: le 
+bad: sikala 
+evil: sikala 
+rot: sikala	vovosa 
+rotten: sikala	vovosa 
+dirty: moso 
+filthy: moso 
+soiled: moso 
+straight: lulu 
+sharp: hasisi 
+blunt: feteko 
+smooth: sisiato 
+damp: susu 
+wet: susu 
+correct: hombea	lua 
+right side: lounaɣen 
+left: maleɣen 
+in: fain 
+inside: fain 
+and: ne	or 
+if: oi siala 
+because: mina onal 

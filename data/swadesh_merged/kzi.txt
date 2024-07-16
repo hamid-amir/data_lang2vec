@@ -1,0 +1,266 @@
+all: abi abi 
+every: abi abi 
+ash: abuh 
+ashes: abuh 
+abdomen: batek 
+belly: batek 
+big: rayeh 
+bigness: rayeh 
+large: rayeh 
+bird: manuk 
+bite: ŋ-ubit	ŋetep 
+black: m-item 
+blood: dara7	daraʔ 
+bone: tulaN	tulaŋ 
+breast: iti7	itiʔ 
+breasts: iti7	itiʔ 
+burn: nunuh	nutud 
+burn tr.: nunuh	nutud 
+cloud: laput 
+cold: teneb 
+come: marih 
+come from: marih 
+be dead: mate	maté 
+dead: mate	maté 
+die: mate	maté 
+dog: uku7	ukuʔ 
+drink: irup	m-irup 
+dry: periŋ	rikan	tekeruʔ 
+ear: lalid 
+eat: kuman 
+egg: terur 
+eye: matEh	mateh 
+feather: buluh 
+fire: apuy 
+fish: luaN	luaŋ 
+fly: t-em-ulud 
+fly v.: t-em-ulud 
+good: dooʔ 
+green: bataʔ 
+hair: ebhuk 
+hand: tidhuʔ	tidh~u7 
+left hand: tidhuʔ	tidh~u7 
+right: tidhuʔ	tidh~u7 
+head: uluh 
+hear: niNEr	niŋer 
+1 sg.: uih 
+I: uih 
+kill: ŋaté 
+be knowledgeable: keliʔ	ŋeliʔo 
+know: keliʔ	ŋeliʔo 
+leaf: da7un	daʔun 
+lie: selubid 
+lie down: selubid 
+liver: ate	até 
+long: kadaŋ 
+head louse: kutuh 
+louse: kutuh 
+male: delaʔih 
+man: lEmulun	lemulun 
+moon: bulan 
+mouth: taʔeŋ 
+name: Nadan	ŋadan 
+title: Nadan	ŋadan 
+neck: riʔer 
+new: bEruh	beruh 
+night: dEdh~Em	dedhem 
+nighttime: dEdh~Em	dedhem 
+nose: idhuŋ	idh~uN 
+adulterous: Edh~Eh	edah	edheh 
+one: Edh~Eh	edah	edheh 
+single: Edh~Eh	edah	edheh 
+that: ineh 
+the: Edh~Eh	edah	edheh 
+unprincipled: Edh~Eh	edah	edheh 
+human: lEmulun	lemulun 
+human being: lEmulun	lemulun 
+person: lEmulun	lemulun 
+rain: udan 
+rainy weather: udan 
+red: siaʔ 
+path: dalan 
+road: dalan 
+route: dalan 
+root: ramut	uat 
+sand: bada 
+say: mala 
+see: ni7Er	niʔer 
+sit: tudo 
+hide: anit 
+skin: anit 
+sleep: rudap 
+little: iʔit	kadiʔ 
+small: iʔit	kadiʔ 
+smallness: iʔit	kadiʔ 
+smoke: rebhun 
+star: gEtu7En	getuʔen 
+rock: batuh 
+stone: batuh 
+swim: l-em-aŋuy 
+tail: iur 
+this: inih 
+2 sg: iko 
+thou: iko 
+you: iko 
+tongue: dila7	dilaʔ 
+tooth: lipEn	lipen 
+grind: duEh	duah	dueh 
+two: duEh	duah	dueh 
+go: nalan 
+walk: nalan 
+hot: lauʔ 
+warm: lauʔ 
+water: Ebh~a7	ebhaʔ 
+1 pl. inc.: kamih	tauh	tuah 
+we: kamih	tauh	tuah 
+we₁: kamih	tauh	tuah 
+what: enun 
+white: budaʔ 
+whiteness: budaʔ 
+who: iih 
+who?: iih 
+female: dedhur 
+woman: dedhur 
+yellow: birar 
+distant: mado 
+far: mado 
+dull: berat 
+heavy: berat 
+serious: berat 
+close: muneŋ 
+near: muneŋ 
+ner: muneŋ 
+salt: dufhuʔ	tudtuʔ 
+short: kemuʔ 
+snake: selaŋuy 
+thin: lipi 
+wind: bariw 
+earthworm: kelatih 
+worm: kelatih 
+year: laak 
+2 pl.: muyuh 
+ye: muyuh 
+you all: muyuh 
+3 pl.: ideh 
+they: ideh 
+where: ŋapeh 
+where?: ŋapeh 
+when: idan 
+when?: idan 
+how: kapeh 
+how?: kapeh 
+other: beken beken 
+three: teluh	tělu 
+four: apat	epat 
+five: lima	limeh 
+broad: rayeh 
+wide: rayeh 
+wideness: rayeh 
+fat: lemek 
+thick: kapal 
+narrow: iʔit 
+principal wife: awan 
+wife: awan 
+husband: awan 
+his mother: te-sineh 
+mother: te-sineh 
+my mother: te-sineh 
+father: te-tameh 
+his father: te-tameh 
+my father: te-tameh 
+forest: puluŋ 
+woods: puluŋ 
+branch: daʔan 
+stick: daʔan 
+fruit: buaʔ 
+flower: busak 
+grass: uduh 
+cord: kalat	nuper 
+rope: kalat	nuper 
+flesh: labo	uaŋ 
+meat: labo	uaŋ 
+grease: lemek 
+wing: elad 
+gut: senaʔih 
+guts: senaʔih 
+insides: senaʔih 
+intestine: senaʔih 
+intestines: senaʔih 
+back: keted 
+suck: m-itiʔ	nuʔut 
+spit: ŋe-lidhaʔ 
+vomit: ŋ-utaʔ 
+blow: ŋ-iup 
+breath: niat 
+breathe: niat 
+laugh: riruh 
+laughter: riruh 
+cogitate: ŋe-linuh 
+reflect: ŋe-linuh 
+think: ŋe-linuh 
+smell: muen 
+sniff: muen 
+afraid: taʔut 
+be afraid: taʔut 
+fear: taʔut 
+fright: taʔut 
+alive: m-ulun 
+be alive: m-ulun 
+life: m-ulun 
+live: m-ulun 
+living: m-ulun 
+hunt: ŋe-raad 
+beat: mupuʔ 
+hit: mupuʔ 
+strike: mupuʔ 
+cut: ŋeteb 
+hack: ŋeteb 
+cut open: bilaʔ	nepak 
+split: bilaʔ	nepak 
+pierce: nebhek 
+stab: nebhek 
+scratch: ŋaro 
+dig: nukat 
+stand: mudur 
+drop: tutuʔ 
+fall: tutuʔ 
+grasp: ŋ-imet 
+hold: ŋ-imet 
+hold in arm: ŋ-imet 
+squeeze: merek 
+wring: merek 
+throw: nelaʔ	nutuk 
+bind: ŋ-abet 
+fasten: ŋ-abet 
+tie: ŋ-abet 
+tie up: ŋ-abet 
+sew: me-deket 
+count: ŋ-inam 
+enumerate: ŋ-inam 
+number: ŋ-inam 
+tally: ŋ-inam 
+flow: m-anud 
+lake: taka	takaʔ 
+ocean: baŋet 
+sea: baŋet 
+dust: apuk 
+fog: laput 
+sky: laŋit 
+bad: daʔet 
+evil: daʔet 
+rot: buruk 
+rotten: buruk 
+dirty: lutak	luyuʔ 
+filthy: lutak	luyuʔ 
+soiled: lutak	luyuʔ 
+sharp: tadem 
+blunt: ŋadel 
+damp: baaʔ 
+wet: baaʔ 
+right side: pe-senuʔeh 
+left: pe-kabiŋ 
+at: ŋi 
+in: lem 
+inside: lem 
+and: me 
+if: tulu	ulu 

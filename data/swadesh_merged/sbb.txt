@@ -1,0 +1,266 @@
+all: dapu	doru 
+every: dapu	doru 
+ash: kavu 
+ashes: kavu 
+abdomen: tia-na 
+belly: tia-na 
+big: lavata 
+bigness: lavata 
+large: lavata 
+bird: baruku 
+bite: garata 
+black: kuduru 
+blood: mamadara	mamadara-na 
+bone: pupuda 
+breast: susu 
+breasts: susu 
+burn: sulu 
+burn tr.: sulu 
+cloud: lei 
+cold: diana	lomoso 
+come: lame	mai 
+come from: lame	mai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: sie 
+drink: buku 
+dry: pidili 
+ear: taliNa	taliŋa 
+eat: gani	teteku 
+egg: toruru 
+eye: mata 
+feather: vutuŋu-na 
+fire: iku 
+fish: igana 
+fly: tatava 
+fly v.: tatava 
+good: joŋa 
+green: bu 
+hair: pupulu	vutuŋu-na 
+hand: lima 
+left hand: lima 
+right: lima 
+head: batu 
+hear: noNoro	noŋoro 
+1 sg.: ara 
+I: ara 
+kill: va-mate- 
+be knowledgeable: nonoga 
+know: nonoga 
+leaf: elo 
+lie: pepu	pepu enga	pepu opo 
+lie down: pepu	pepu enga	pepu opo 
+liver: kola 
+long: kakasa 
+head louse: lodo 
+louse: lodo 
+male: marane 
+man: tinoni 
+moon: popu 
+mouth: maŋa	seta 
+name: isoNo	isoŋo-na 
+title: isoNo	isoŋo-na 
+neck: rua 
+new: garaba 
+night: boNi	boŋi 
+nighttime: boNi	boŋi 
+nose: isu 
+adulterous: ka-me	kame 
+one: ka-me	kame 
+single: ka-me	kame 
+that: pora 
+the: ka-me	kame 
+unprincipled: ka-me	kame 
+human: tinoni 
+human being: tinoni 
+person: tinoni 
+rain: okoro 
+rainy weather: okoro 
+red: jimiri 
+path: soana 
+road: soana 
+route: soana 
+root: bagere 
+sand: nagasa 
+say: pito 
+see: bata	bati-	doma	doma- 
+sit: toqo 
+hide: guliti 
+skin: guliti 
+sleep: puta 
+little: ite 
+small: ite 
+smallness: ite 
+smoke: tula 
+star: kikida 
+rock: patu 
+stone: patu 
+swim: ponu 
+tail: pikutu 
+this: pini 
+2 sg: nigo 
+thou: nigo 
+you: nigo 
+tongue: mea 
+tooth: livo 
+grind: karu	rua 
+two: karu	rua 
+go: soana 
+walk: soana 
+hot: maŋini 
+warm: maŋini 
+water: pie 
+1 pl. inc.: gai	ita	qai	qita 
+we: gai	ita	qai	qita 
+we₁: gai	ita	qai	qita 
+what: na-sa 
+white: keala 
+whiteness: keala 
+who: i sei 
+who?: i sei 
+female: rereko 
+woman: rereko 
+yellow: boe 
+distant: sau 
+far: sau 
+dull: mamata 
+heavy: mamata 
+serious: mamata 
+close: tata 
+near: tata 
+ner: tata 
+salt: solo 
+short: papaka 
+snake: dole 
+thin: kiliviqe 
+wind: ivoro 
+earthworm: mumuno 
+worm: mumuno 
+year: aoro 
+2 pl.: gau 
+ye: gau 
+you all: gau 
+3 pl.: ria 
+they: ria 
+where: ai	pa vei 
+where?: ai	pa vei 
+when: lokana	pa na via 
+when?: lokana	pa na via 
+how: asa-vea 
+how?: asa-vea 
+other: kaki 
+three: kue	ue 
+four: made	mande 
+five: lima 
+broad: revata 
+wide: revata 
+wideness: revata 
+fat: noboko 
+thick: mota 
+narrow: ŋizuku 
+principal wife: maqota-na 
+wife: maqota-na 
+husband: marane-na 
+his mother: tina-na 
+mother: tina-na 
+my mother: tina-na 
+father: tama-na 
+his father: tama-na 
+my father: tama-na 
+forest: muqu 
+woods: muqu 
+branch: leŋana-na 
+stick: leŋana-na 
+fruit: vua 
+flower: havoro 
+grass: bu-buru 
+cord: aroso 
+rope: aroso 
+flesh: masa 
+meat: masa 
+grease: noboko 
+wing: babana 
+gut: lagu	lagu ite	lagu lavata 
+guts: lagu	lagu ite	lagu lavata 
+insides: lagu	lagu ite	lagu lavata 
+intestine: lagu	lagu ite	lagu lavata 
+intestines: lagu	lagu ite	lagu lavata 
+back: mudi 
+suck: ñoñopo 
+spit: odolo 
+vomit: lua 
+blow: ivu 
+breath: siŋo 
+breathe: siŋo 
+laugh: avu 
+laughter: avu 
+cogitate: roroqu 
+reflect: roroqu 
+think: roroqu 
+smell: umaŋa 
+sniff: umaŋa 
+afraid: matutu 
+be afraid: matutu 
+fear: matutu 
+fright: matutu 
+alive: toa 
+be alive: toa 
+life: toa 
+live: toa 
+living: toa 
+hunt: uku-ai 
+beat: uma 
+hit: uma 
+strike: uma 
+cut: ŋodo 
+hack: ŋodo 
+cut open: paqala 
+split: paqala 
+pierce: paleka 
+stab: paleka 
+scratch: garo	mimo 
+dig: geli 
+stand: turu 
+drop: uka 
+fall: uka 
+grasp: tuqe 
+hold: tuqe 
+hold in arm: tuqe 
+squeeze: moño 
+wring: moño 
+throw: gona 
+bind: piu	piui- 
+fasten: piu	piui- 
+tie: piu	piui- 
+tie up: piu	piui- 
+sew: pipiti	uki 
+count: añi 
+enumerate: añi 
+number: añi 
+tally: añi 
+flow: ñoro 
+lake: ovuku 
+ocean: ivere	lamana 
+sea: ivere	lamana 
+dust: kavuru 
+fog: resana 
+sky: oka 
+bad: sea 
+evil: sea 
+rot: kikerena	ñabo 
+rotten: kikerena	ñabo 
+dirty: paji 
+filthy: paji 
+soiled: paji 
+sharp: najulu 
+blunt: pato 
+damp: moe	peja	tubulu 
+wet: moe	peja	tubulu 
+right side: matua 
+left: mairi 
+at: pa 
+in: korapa 
+inside: korapa 
+and: beto 
+if: vea 

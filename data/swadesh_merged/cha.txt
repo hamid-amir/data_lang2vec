@@ -1,0 +1,305 @@
+all: %puru	puru	tiot	todu 
+every: %puru	puru	tiot	todu 
+ash: apu	otpos 
+ashes: apu	otpos 
+bark: lassa 
+abdomen: %estomagu	estomagu	tucan	tuyan 
+belly: %estomagu	estomagu	tucan	tuyan 
+big: dankolo	dánkolo	penNa 
+bigness: dankolo	dánkolo	penNa 
+large: dankolo	dánkolo	penNa 
+bird: %paharu	páharu 
+bite: akka7	akkaʼ 
+black: attiloN	attilong	áttilong 
+blood: haga7	hagaʼ 
+bone: tolaN	toʼlang 
+breast: susu 
+breasts: susu 
+burn: pakkoʼ	potne	tunu 
+burn tr.: pakkoʼ	potne	tunu 
+claw: papakes 
+nail: papakes 
+talon: papakes 
+cloud: homhom	mapagahes	nupbladu	uchan 
+cold: fufu	fugu	maneNheN	manengheng 
+come: mailaʼ	mamaila7	matto 
+come from: mailaʼ	mamaila7	matto 
+be dead: kumematai	matai 
+dead: kumematai	matai 
+die: kumematai	matai 
+dog: galagu	gaʼlagu 
+drink: gimen 
+dry: anggloʼ 
+ear: talaNa	talanga 
+earth: tano7 
+ground: tano7 
+land: tano7 
+soil: tano7 
+eat: 5am	chocho	chochu	coco	kannoʼ 
+egg: cada7	chadaʼ 
+eye: atadok	mata 
+fat: %manika	%sebu 
+fat n.: %manika	%sebu 
+grease: %manika	%sebu 
+lubricant: %manika	%sebu 
+oil: %manika	%sebu 
+feather: pulu 
+fire: guafi	gw~afi	kimason 
+fish: guihan 
+fly: gupu 
+fly v.: gupu 
+foot: %patas	addeN 
+full: bokka7	bula 
+give: %presenta	na7i	naʼi 
+good: %bw~enu	bibu	buenu	maolek 
+green: betde 
+hair: gapot ulu	gapotulu	pulu 
+hand: kannai 
+left hand: kannai 
+right: kannai 
+head: %kabesa	amu	kabesa	ulu 
+hear: huNok	hungok 
+heart: %korason	patnitos 
+horn: kaNhelon 
+1 sg.: co7	guahu	guåhu	hu	yuʼ 
+I: co7	guahu	guåhu	hu	yuʼ 
+kill: puno7	punoʼ	talonan 
+knee: tommo 
+be knowledgeable: ketuNo	lamon	tungoʼ 
+know: ketuNo	lamon	tungoʼ 
+leaf: %ohas	hagon 
+lie: asson	fanopok 
+lie down: asson	fanopok 
+liver: %higadu	hígadu	sassa 
+long: anakko7	anakkoʼ	laguas	lagw~as 
+head louse: hutu 
+louse: hutu 
+male: lahi	lai	taotao 
+man: %petsona	taotao 
+many: bobo	bula	matmo 
+much: bobo	bula	matmo 
+multiple: bobo	bula	matmo 
+several: bobo	bula	matmo 
+flesh: katne	sensen 
+meat: katne	sensen 
+moon: pulan 
+hill: ladera	sabana 
+mountain: ladera	sabana 
+mouth: pachot	pacot	sukos babw~i 
+name: na7an	naʼan 
+title: na7an	naʼan 
+neck: agaga	agaʼgaʼ	kw~ecu 
+new: %nueba	nuebu	simpeng 
+night: %noces	puengi	pw~eNi 
+nighttime: %noces	puengi	pw~eNi 
+nose: guiʼeng	gw~i7eN 
+not: aheʼ	des	muNa 
+adulterous: %unu	hacha	hachiyai	maisa	un	unu 
+one: %unu	hacha	hachiyai	maisa	un	unu 
+single: %unu	hacha	hachiyai	maisa	un	unu 
+that: cuhi	enao 
+the: %unu	hacha	hachiyai	maisa	un	unu 
+unprincipled: %unu	hacha	hachiyai	maisa	un	unu 
+human: %petsona	taotao 
+human being: %petsona	taotao 
+person: %petsona	taotao 
+rain: ame7	ameʼ	ucan	uchan 
+rainy weather: ame7	ameʼ	ucan	uchan 
+red: agaga7	agagaʼ 
+path: calan	chalan	kaci 
+road: calan	chalan	kaci 
+route: calan	chalan	kaci 
+root: hale7	haleʼ 
+round: %aridonda	adameloN 
+sand: unai 
+say: alok	kesaNan	sangan 
+see: diha7	keli7e7	liʼeʼ 
+seed: hutu	simica 
+sit: matacoN	mataʼchong 
+hide: lassas 
+skin: lassas 
+sleep: %deskansa	maigo7	maigoʼ 
+little: cibe7	dikikeʼ	díkikeʼ	hagui	hagw~i 
+small: cibe7	dikikeʼ	díkikeʼ	hagui	hagw~i 
+smallness: cibe7	dikikeʼ	díkikeʼ	hagui	hagw~i 
+smoke: asu 
+stand: tacu	toge 
+star: %estrecas	puti7on	putiʼon 
+rock: achoʼ	aco7	hali7an 
+stone: achoʼ	aco7	hali7an 
+sun: atdao 
+swim: naNu	nangu-ñangu	omak 
+tail: dadalak	dádalak 
+this: %este	ini 
+2 sg: hagu	hamco	hågu	håo	mu	un 
+thou: hagu	hamco	hågu	håo	mu	un 
+you: hagu	hamco	hågu	håo	mu	un 
+tongue: %leNgw~a	hula7	hulaʼ	lenggua 
+tooth: akankaN	nifen 
+tree: %tronkon hacu	tinaitai 
+grind: %dos	dos	hu-gua	hugua	huguiyai 
+two: %dos	dos	hu-gua	hugua	huguiyai 
+go: lahu	mamokat 
+walk: lahu	mamokat 
+hot: maipe 
+warm: maipe 
+water: %agw~a	agua	hanom 
+1 pl. inc.: hami	hita 
+we: hami	hita 
+we₁: hami	hita 
+what: ha	hafa 
+white: a7paka	aʼpakaʼ	áʼpaka 
+whiteness: a7paka	aʼpakaʼ	áʼpaka 
+who: haZi	hai	hayi	hayi? 
+who?: haZi	hai	hayi	hayi? 
+female: palao7an	palaoʼan 
+woman: palao7an	palaoʼan 
+yellow: %amaricu	amariyu 
+distant: chagoʼ 
+far: chagoʼ 
+dull: makkat 
+heavy: makkat 
+serious: makkat 
+close: fiʼon	hihot 
+near: fiʼon	hihot 
+ner: fiʼon	hihot 
+salt: asiga 
+short: ébabaʼ	étigu 
+snake: kolepbla 
+thin: kanifes 
+wind: guaifon	manglo	mangloʼ 
+earthworm: uloʼ 
+worm: uloʼ 
+year: añu	sakkan 
+3 sg.: guiya 
+he: guiya 
+she: guiya 
+2 pl.: hamyo 
+ye: hamyo 
+you all: hamyo 
+3 pl.: siha 
+they: siha 
+here: guini	magi 
+there: guatu 
+where: amanu	mangge	manu nai 
+where?: amanu	mangge	manu nai 
+when: ngaiʼan 
+when?: ngaiʼan 
+how: [hafa] taimanu	taimanu 
+how?: [hafa] taimanu	taimanu 
+other: otro 
+three: tolgiyai	tres	tulo	tulu 
+four: farfatai	fatfat	kuatro 
+five: lima	sinko 
+broad: feddaʼ 
+wide: feddaʼ 
+wideness: feddaʼ 
+thick: potpot 
+narrow: anggosto	maʼiʼot 
+child: patgon 
+principal wife: asagua 
+wife: asagua 
+husband: asagua	esposu 
+his mother: nana 
+mother: nana 
+my mother: nana 
+father: tata 
+his father: tata 
+my father: tata 
+forest: bundak	halom tanoʼ 
+woods: bundak	halom tanoʼ 
+branch: ramas 
+stick: ramas 
+fruit: inasahan 
+flower: flores 
+grass: chaʼguan 
+cord: tali 
+rope: tali 
+arm: kannai 
+wing: pappa 
+gut: tilipas 
+guts: tilipas 
+insides: tilipas 
+intestine: tilipas 
+intestines: tilipas 
+back: tátaloʼ 
+suck: chopchop	soppla 
+spit: toʼlaʼ 
+vomit: mutaʼ 
+blow: guaife 
+breath: hagong 
+breathe: hagong 
+laugh: chalek 
+laughter: chalek 
+cogitate: hasso 
+reflect: hasso 
+think: hasso 
+smell: ngingeʼ 
+sniff: ngingeʼ 
+afraid: kinibatde 
+be afraid: kinibatde 
+fear: kinibatde 
+fright: kinibatde 
+alive: lálaʼlaʼ 
+be alive: lálaʼlaʼ 
+life: lálaʼlaʼ 
+live: lálaʼlaʼ 
+living: lálaʼlaʼ 
+hunt: peska 
+beat: faggas 
+hit: faggas 
+strike: faggas 
+cut: chaʼlak	utot 
+hack: chaʼlak	utot 
+cut open: mapgaʼ	putaʼ 
+split: mapgaʼ	putaʼ 
+pierce: bulokbok	siʼok 
+stab: bulokbok	siʼok 
+scratch: kassas 
+dig: guaddok 
+drop: lotgon 
+fall: lotgon 
+grasp: goʼhe	goʼte	guʼot 
+hold: goʼhe	goʼte	guʼot 
+hold in arm: goʼhe	goʼte	guʼot 
+squeeze: fokse	fugoʼ 
+wring: fokse	fugoʼ 
+throw: aguet 
+bind: traba 
+fasten: traba 
+tie: traba 
+tie up: traba 
+sew: lakse	sotse 
+count: tufong 
+enumerate: tufong 
+number: tufong 
+tally: tufong 
+brook: saddok 
+river: saddok 
+stream: saddok 
+lake: hagoe 
+ocean: tasi 
+sea: tasi 
+dust: potbos 
+fog: afao	asgon 
+sky: langet 
+blaze: pakko7	tunu 
+old: amkoʼ 
+bad: baba 
+evil: baba 
+rot: lamas 
+rotten: lamas 
+dirty: applachaʼ	hoplat 
+filthy: applachaʼ	hoplat 
+soiled: applachaʼ	hoplat 
+sharp: kadidok 
+blunt: ñañoʼ 
+damp: fotgon	masmas 
+wet: fotgon	masmas 
+right side: agapaʼ 
+left: akague 
+at: gi[ya] 
+in: halom 
+inside: halom 
+and: ya	yan 
+if: akasu	komu	yanggen 

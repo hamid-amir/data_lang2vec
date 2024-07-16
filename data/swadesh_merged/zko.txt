@@ -1,0 +1,168 @@
+all: bar	baːr 
+every: bar	baːr 
+ash: fenaŋ	finaŋ	funaŋ	pʰenaŋ 
+ashes: fenaŋ	finaŋ	funaŋ	pʰenaŋ 
+bark: farpag	farpax	pʰarpak 
+abdomen: taloːx	tʰaloːk	tʰaloːx 
+belly: taloːx	tʰaloːk	tʰaloːx 
+big: fačaː	pʰačaː 
+bigness: fačaː	pʰačaː 
+large: fačaː	pʰačaː 
+bird: al=tuːma 
+black: tʰum 
+blood: Sur	šur 
+bone: hau	qagal	xagal	xakal 
+breast: Xanti	fa	pfa	pʰa 
+breasts: Xanti	fa	pfa	pʰa 
+burn: č=augan-aŋ 
+burn tr.: č=augan-aŋ 
+claw: halčix	halčiːg 
+nail: halčix	halčiːg 
+talon: halčix	halčiːg 
+cloud: ašpar	ašpˈor 
+cold: čal 
+come: i=toːy-aŋ	itojaN 
+come from: i=toːy-aŋ	itojaN 
+be dead: dʸ=a=xa-y-aŋ	qa	xa 
+dead: dʸ=a=xa-y-aŋ	qa	xa 
+die: dʸ=a=xa-y-aŋ	qa	xa 
+dog: al=šip	alCip 
+drink: olap	opaN	oː=p-aŋ 
+dry: šiː=gal 
+ear: kalogan	kaloːx	kolog 
+earth: paŋ 
+ground: paŋ 
+land: paŋ 
+soil: paŋ 
+eat: toːp-aːk-ŋ 
+egg: šuley 
+eye: teCagan	tes	tieN	tiːš 
+fat: kiːr 
+fat n.: kiːr 
+grease: kiːr 
+lubricant: kiːr 
+oil: kiːr 
+feather: iče	iči 
+fire: Xot	Xott	hat	ot 
+fish: teg	teːg	teːx	tig 
+fly: f=a=ta-g-a iːnaŋ 
+fly v.: f=a=ta-g-a iːnaŋ 
+foot: pul 
+full: uːti 
+give: hi=peːn-aŋ 
+good: hag-ši 
+hair: heŋ-ay 
+hand: henaran	keNaran	kenar	keːgär	keːʔär 
+left hand: henaran	keNaran	kenar	keːgär	keːʔär 
+right: henaran	keNaran	kenar	keːgär	keːʔär 
+head: tag-ay	tagay	tak-ay	takay 
+hear: goloti	h=oː=ti 
+heart: šitap 
+horn: hau 
+1 sg.: ay	ya 
+I: ay	ya 
+kill: oga-ʔaː-če-aŋ 
+knee: arSi	aranšaːn	arša	aršaːn 
+be knowledgeable: ŋ=aːliga 
+know: ŋ=aːliga 
+leaf: dibaN	dʸipi	iban 
+lie: dʸ=aːt-aŋ 
+lie down: dʸ=aːt-aŋ 
+liver: SiSil	šičil 
+long: uy 
+head louse: iki	ikˈi 
+louse: iki	ikˈi 
+male: fiː 
+man: Xit	het	hit	ilit 
+many: payaŋ 
+much: payaŋ 
+multiple: payaŋ 
+several: payaŋ 
+flesh: iːči 
+meat: iːči 
+moon: šuy 
+hill: dZi	dZiy	dʸiː	ggy	paCai 
+mountain: dZi	dZiy	dʸiː	ggy	paCai 
+mouth: hoːpi 
+name: ix	iːx 
+title: ix	iːx 
+neck: fuymur	pʰuymur 
+new: ki 
+night: Sig	šiːg	šiːx 
+nighttime: Sig	šiːg	šiːx 
+nose: aN	aŋ	aːŋ 
+not: mon	moːn 
+adulterous: XanCiXit	huCa	huː-ča	hūča 
+one: XanCiXit	huCa	huː-ča	hūča 
+single: XanCiXit	huCa	huː-ča	hūča 
+that: uy-oː 
+the: XanCiXit	huCa	huː-ča	hūča 
+unprincipled: XanCiXit	huCa	huː-ča	hūča 
+human: Xit	het	hit	ilit 
+human being: Xit	het	hit	ilit 
+person: Xit	het	hit	ilit 
+rain: ur	uːr 
+rainy weather: ur	uːr 
+red: šur-um- 
+path: Xik	hek	itik 
+road: Xik	hek	itik 
+route: Xik	hek	itik 
+root: tʰem-pul	tʰeːm-pul 
+round: eːper 
+sand: tʰagan	tʰakˈan 
+say: dʸ=a=čagar-aŋ 
+see: karuyak	tʰ=aːŋ-aŋ 
+sit: dʸ=a=uy-aŋ 
+sleep: dʸ=aːt-aŋ 
+little: kišlaː 
+small: kišlaː 
+smallness: kišlaː 
+smoke: tu 
+stand: dʸ=a=tek-ŋ	dʸ=ä=tek-ŋ 
+star: al=aga	al=ak	al=ˈax	alagan	alakan 
+rock: SiS	Sin	šiːš 
+stone: SiS	Sin	šiːš 
+sun: Ega	egi	eːga	eːgä	kgi 
+swim: ul=šuy 
+tail: fugay	fukay	pʰugay 
+this: i-nʸ-u	inʸ-u 
+2 sg: au 
+thou: au 
+you: au 
+tongue: alub	alup	aluːp 
+tooth: itan	ite	iti 
+tree: Si	aC	aCSi	aCi	atče	atči 
+grind: in7a	inCa	inE	ina	iːna	īna 
+two: in7a	inCa	inE	ina	iːna	īna 
+go: eä-xeːy-aŋ	eä=xeːy-aŋ	iːn-aŋ 
+walk: eä-xeːy-aŋ	eä=xeːy-aŋ	iːn-aŋ 
+hot: fal	pʰal 
+warm: fal	pʰal 
+water: ul	uːl 
+1 pl. inc.: ay-oŋ	ayoN 
+we: ay-oŋ	ayoN 
+we₁: ay-oŋ	ayoN 
+what: še-na	ši-na 
+white: tʰeːg-am	tʰeːk-am 
+whiteness: tʰeːg-am	tʰeːk-am 
+who: a=ši-x 
+who?: a=ši-x 
+female: alit	aliːt 
+woman: alit	aliːt 
+yellow: šuy 
+distant: pil	piːl 
+far: pil	piːl 
+dull: šiːk-ŋ 
+heavy: šiːk-ŋ 
+serious: šiːk-ŋ 
+close: iːma-ŋ 
+near: iːma-ŋ 
+ner: iːma-ŋ 
+salt: ši-n-čeːt	šin-čeːt 
+short: tʰuːki 
+snake: oŋ-koy	oŋ-xoy 
+thin: fač-am	fača-m	pʰač-am	pʰača-m	tʰaːge 
+wind: peːi	peːy 
+earthworm: hoi	hoy 
+worm: hoi	hoy 
+year: šeːga	šeːgä 

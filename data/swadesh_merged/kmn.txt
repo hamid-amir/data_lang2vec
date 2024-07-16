@@ -1,0 +1,539 @@
+all: kokot 
+and: na 
+animal: yiyay 
+arm: yilë 
+arm: yilə 
+arm: yiyle 
+ashes: kaypiw 
+at: -e/-ke 
+back: yekmak 
+bad: monokene | monokene	monokna 
+bad: monokna | monokene	monokna 
+bark: (taw-)mowyäy | mowyäy	taw-mowyäy 
+bark: taw-mowyäy | mowyäy	taw-mowyäy 
+bark: t-natow | mowyäy	taw-mowyäy 
+because: olsem 
+belly: wak | wak	wäk 
+belly: wäk | wak	wäk 
+belly: wäk | wak	wäk 
+big: waruke 
+bird: yi 
+bite: äl | äl 
+bite: äl 
+black: tëprai | tipray-kwo	təprai 
+black: təprai | tipray-kwo	təprai 
+black: tipray-kwo | tipray-kwo	təprai 
+blood: aipi | Eypiy	aipi	äypiy 
+blood: äypiy | Eypiy	aipi	äypiy 
+blood: äypiy | Eypiy	aipi	äypiy 
+blow: ilyämna | ilyämna 
+blow: ilyämna 
+bone: lake | lake	lakər 
+bone: lakër | lake	lakər 
+bone: lakər | lake	lakər 
+breast: muy | muy	mwi 
+breast: mwi | muy	mwi 
+breathe: yiyk | yiyk likwena 
+breathe: yiyk likwena 
+burn: okw 
+burn: owra | okw 
+burn: (tapwo) okw 
+butterfly: yeketwäyt 
+chest: kewlake 
+child: yal | yal	yän 
+child: yän | yal	yän 
+child: yän | yal	yän 
+claw: limkew-poke 
+cloud: äwktil | äwktil 
+cloud: äwktil 
+cold: nampet(-neney) | nampet	nampet-neney 
+come: eya | eya	yə 
+come: yë | eya	yə 
+come: yə | eya	yə 
+correct: medemede | medemede	yirin yekə 
+correct: yirin yekə | medemede	yirin yekə 
+count: riw mak 
+cut: iwk | iwk	iwya 
+cut: iwya | iwk	iwya 
+cut: t-tow | iwk	iwya 
+day: im | mäy 
+day: mäy | mäy 
+day: mäy 
+die: lakna 
+dig: akla 
+dirty: wuneneney 
+dog: pi:rën | piyren	piːrən 
+dog: piːrən | piyren	piːrən 
+dog: piyren | piyren	piːrən 
+drink: yiw ra 
+dry: äyle | äyle 
+dry: äyle 
+dust: kayputeriy 
+ear: mane | mane	maːnə 
+ear: ma:në | mane	maːnə 
+ear: maːnə | mane	maːnə 
+earth: niw | niw	nü 
+earth: nü | niw	nü 
+earth: nü | niw	nü 
+eat: äye ra | äye ra 
+eat: äye ra 
+egg: pangkë | paŋkə	wate	yi-wate 
+egg: paŋkə | paŋkə	wate	yi-wate 
+egg: (yi-)wate | paŋkə	wate	yi-wate 
+egg: yi-wate | paŋkə	wate	yi-wate 
+emu: kewyäne 
+eye: new | new	nü 
+eye: nü | new	nü 
+eye: nü | new	nü 
+eye: poke | new	nü 
+fall: lamlakna 
+far: tomte 
+father: ŋawər | ŋawər	ŋaye	ŋayi 
+father: ŋaye | ŋawər	ŋaye	ŋayi 
+father: ngaye/ngawër | ŋawər	ŋaye	ŋayi 
+father: ŋayi | ŋawər	ŋaye	ŋayi 
+fat (n.): kanel 
+fat (n.): lum 
+fear: aytir 
+feather: (yi-)tiw | tiw	yi-tiw 
+feather: yi-tiw | tiw	yi-tiw 
+few: urunk-kwo 
+fight: t-ni-puya | t-n-iy	t-ni-puya 
+fight: t-n-iy | t-n-iy	t-ni-puya 
+finger: limkew 
+fingernail: limkew-poke 
+fingernail: poke 
+fire: tapo | tapo	tapwo 
+fire: tapwo | tapo	tapwo 
+fish: ngale | Nale	ŋale 
+fish: ŋale | Nale	ŋale 
+five: yiyle däni | yiyle dæni 
+float: wayrow 
+flower: wale 
+flow: t-toleyakw | t-towleyakw 
+flow: t-towleyakw 
+fly (n.): ilkil 
+fly (v.): apta 
+fog: äwktil | äwktil 
+fog: äwktil 
+foot: pak | riwe	riwe-yak 
+foot: riwe(-yak) | riwe	riwe-yak 
+forest: mäw | mäw	ole 
+forest: mäw | mäw	ole 
+forest: ole | mäw	ole 
+four: orkweynaywo 
+fruit: taw-wate 
+full: ram omw 
+girl: yantelale 
+give: ka | ka	kow 
+give: kow | ka	kow 
+good: medaye | medaye	mete 
+good: mete | medaye	mete 
+grass: periyayawnow 
+green: nenel-wo 
+guts: ripat 
+hair: tiw 
+hand: pak | yiyle 
+hand: yilë | yiyle 
+hand: yiyle 
+head: makë-lak | maklake	makəlak 
+head: makəlak | maklake	makəlak 
+head: maklake | maklake	makəlak 
+head: mak-lake | maklake	makəlak 
+heart: wurne 
+hear: wan 
+heavy: yiylekolke 
+here: ade | ade	tade	takə 
+here: tade | ade	tade	takə 
+here: (t)ade | ade	tade	takə 
+here: takë | ade	tade	takə 
+here: takə | ade	tade	takə 
+here: të | ade	tade	takə 
+he/she: ray 
+he/she: rei 
+he/she: rey 
+hit: puya 
+hold: nak 
+hole: nale 
+horn: kowm 
+house: äwre 
+how: yok 
+hunt: yiyay moyna 
+husband: yapor | yapor	yenkay 
+husband: yenkay | yapor	yenkay 
+if: sapos 
+in: -e/-ke 
+I: wan 
+I: wa-n | wan 
+kangaroo: yäpär 
+kill: otkolya 
+knee: pampwey 
+know: arene | neknek	neknek-neney 
+know: neknek(-neney) | neknek	neknek-neney 
+lake: kapem 
+laugh: mokël (wun) | mokəl 
+laugh: mokəl (wun) 
+leaf: (taw-)tiw | taw-tiw	tawtiw	tiw 
+leaf: taw-tiw | taw-tiw	tawtiw	tiw 
+left: atkwak 
+leg: riwe | riwe	rüwe 
+leg: rüwe | riwe	rüwe 
+leg: rüwe | riwe	rüwe 
+lie: owna 
+live: ikiy | ikiy	pama 
+live: pama | ikiy	pama 
+liver: (wurne-)wäw | wurne-wäw	wurnewEw	wäw 
+liver: wurne-wäw | wurne-wäw	wurnewEw	wäw 
+long: wokëk | wokək	wukliwke 
+long: wokək | wokək	wukliwke 
+long: wukliwke | wokək	wukliwke 
+louse: nin 
+man: rame | rameyEn	rameyän 
+man: ramiyan | rameyEn	rameyän 
+man: yapor | rameyEn	rameyän 
+man: yenkay | rameyEn	rameyän 
+many: liwke 
+meat: lum 
+moon: yelmek | yelmek	yilmake 
+moon: yilmake | yelmek	yilmake 
+morning: imik 
+mosquito: yiwelkey 
+mother: nemet | nemet	ŋamey	ŋami 
+mother: ŋamey | nemet	ŋamey	ŋami 
+mother: ngamey/ngemet | nemet	ŋamey	ŋami 
+mother: ngami | nemet	ŋamey	ŋami 
+mother: ŋami | nemet	ŋamey	ŋami 
+mountain: tiwle 
+mouth: alworaw | alworaw	raw-nale 
+mouth: raw-nale | alworaw	raw-nale 
+name: ikriy | yenyiy 
+name: yenyiy 
+narrow: kenken 
+near: teywake 
+neck: koläy | koläy 
+neck: koläy 
+new: näk | nEk	näk 
+new: näk | nEk	näk 
+night: im 
+night: imim 
+nose: witil | witil	wutil 
+nose: wutil | witil	wutil 
+not: ka- | ka-	yene 
+not: yene | ka-	yene 
+old: lop 
+old: owtiykayän 
+old: owtiykayän 
+old: owyän 
+old: owyän 
+one: naydowo 
+other: däni | däni 
+other: däni 
+person: ramayän | rameyEn	rameyän 
+person: rameyän | rameyEn	rameyän 
+play: mënman ka | mənman ka 
+play: mənman ka 
+pull: ilin 
+push: ikritit 
+rain: yele | yele	yelə 
+rain: yelë | yele	yelə 
+rain: yelə | yele	yelə 
+rain: yele it | yele	yelə 
+rat: mokäl 
+red: äypiy-kwo | eipikwo	äypiy-kwo 
+red: äypiy-kwo | eipikwo	äypiy-kwo 
+red: eipikwo | eipikwo	äypiy-kwo 
+red: eipi-kwo | eipikwo	äypiy-kwo 
+right: yiyle mede | yiyle-mede 
+right: yiyle-mede 
+river: wiytape 
+road: nuwp 
+root: (taw-)ten | taw-ten	ten 
+root: taw-ten | taw-ten	ten 
+rope: mät | mät 
+rope: yilmät | mät 
+rotten: pumpum rokw | pumpum rokw	t-tan 
+rotten: t-tan | pumpum rokw	t-tan 
+round: pomkewe 
+rub: iytwey 
+salt: wow 
+sand: telman 
+say: alow | mak | telman 
+say: mak | telman 
+scratch: eyt | rank 
+scratch: rank 
+scratch: wäy | rank 
+sea: solwara 
+seed: wate 
+see: owpa | owpa	po 
+see: po | owpa	po 
+sew: aden 
+sharp: përpër | pərpər 
+sharp: pərpər 
+short: tukre 
+sing: riwtow okw 
+sit: ik 
+skin: yai | yEy	yai	yäy 
+skin: yäy | yEy	yai	yäy 
+skin: yäy | yEy	yai	yäy 
+sky: mäy | mäy 
+sky: mäy 
+sleep: (new-tiy) owna | new-tiy owna	owna 
+sleep: newtiy owna | new-tiy owna	owna 
+small: yankeyke 
+smell: ayna 
+smell: t-tan 
+smell: uyk 
+smoke: liyou | liyou	tipelyow 
+smoke: tipelyow | liyou	tipelyow 
+smoke: tipe-lyow | liyou	tipelyow 
+smoke: tipray | liyou	tipelyow 
+smooth: wereye 
+snake: wuläk | wuläk 
+snake: wuläk 
+some: womyätne 
+spit: karey 
+spit: lälkwey | karey 
+spit: owka | karey 
+spit: täpley | karey 
+spit: täpley | karey 
+split: uwkdyer 
+squeeze: naktaney 
+stand: iwrek 
+star: towlow | towlow	wuwp	wuːp 
+star: wuːp | towlow	wuwp	wuːp 
+star: wuwp | towlow	wuwp	wuːp 
+stick: tawap 
+stone: til | til	tiyl 
+stone: tiyi | til	tiyl 
+stone: tiyl | til	tiyl 
+straight: peteyta-kwo 
+suck: amtirna 
+sun: may | mEy	may	mäy 
+sun: mäy | mEy	may	mäy 
+sun: mäy | mEy	may	mäy 
+swell: lawa 
+swim: wa 
+tail: uwn 
+take: ka 
+that: opor | opor	topor | naydowo 
+that: topor | opor	topor | naydowo 
+that: (t)opor | opor	topor | naydowo 
+there: opo | opo	rey 
+there: rey | opo	rey 
+there: ry | opo	rey 
+there: topo | opo	rey 
+there: (t)opo | opo	rey 
+they: ram | ram	rom 
+they: rom | ram	rom 
+they two: räw 
+they two: räw 
+thick: wawër-neney | wawər-neney 
+thick: wawər-neney 
+think: nanän-neney | nanän-neney	nenän lay 
+think: nenän lay | nanän-neney	nenän lay 
+think: nenän lay | nanän-neney	nenän lay 
+think: nenän-neney | nanän-neney	nenän lay 
+thin: periyaw-kwo 
+this: ader | ader	tader 
+this: tader | ader	tader 
+this: (t)ader | ader	tader 
+thou: am | om	yen	yin 
+thou: om | om	yen	yin 
+thou: yen | om	yen	yin 
+thou: ye-n | om	yen	yin 
+thou: yin | om	yen	yin 
+thou: yi-n | om	yen	yin 
+three: urunk 
+throat: upur 
+throw: iprik 
+tie: day | day	ud 
+tie: ud | day	ud 
+today: modek 
+tomorrow: yarow 
+tongue: lale | lale	laːlə 
+tongue: la:lë | lale	laːlə 
+tongue: laːlə | lale	laːlə 
+tooth: pilak | pilak	piylake 
+tooth: pi-lak | pilak	piylake 
+tooth: piylake | pilak	piylake 
+tooth: piy-lake | pilak	piylake 
+tree: tau | taw 
+tree: taw 
+turn: porya 
+two: yikir | yikir	yikiyr 
+two: yikiyr | yikir	yikiyr 
+unripe: nenel 
+vagina: rew 
+vomit: iwtaw 
+walk: äy | äy 
+walk: äy 
+walk: imya | äy 
+walk: të | äy 
+walk: tə | äy 
+warm: alwa | tapwo-neney 
+warm: tapwo-nene | tapwo-neney 
+warm: tapwo-neney 
+wash: iywa | worya 
+wash: worya 
+water: yiw | yiw	yüw 
+water: yüw | yiw	yüw 
+water: yüw | yiw	yüw 
+weep: new-yiw 
+weep: ŋow 
+weep: yel 
+we (incl.): nan 
+we: nam | nom 
+we: na-m | nom 
+we: nom 
+we: no-m | nom 
+we two (incl.): nan 
+wet: yiw-neney 
+what: yakum(oyän) | yakum	yakumoyän 
+what: yakum(oyän) | yakum	yakumoyän 
+when: yekak 
+where: yipe | yipe	yipke 
+where: yip-e | yipe	yipke 
+where: yipke | yipe	yipke 
+where: yip-ke | yipe	yipke 
+white: kiwokwo | kiwokwo	kiwyo-kwo 
+white: kiwyo-kwo | kiwokwo	kiwyo-kwo 
+who: yeran | yeran	yeremän 
+who: yeremän | yeran	yeremän 
+who: yeremän | yeran	yeremän 
+wide: wawerneney 
+wife: talet 
+wind: yik | yik	yiyk 
+wind: yiyk | yik	yiyk 
+wing: lät | lät 
+wing: lät 
+wipe: laklalna 
+with: -k 
+woman: tale | tale	tələran 
+woman: talëran | tale	tələran 
+woman: tələran | tale	tələran 
+wood: tawap 
+worm: mweymoy 
+year: yia 
+yellow: kowlaw-kwo 
+yesterday: ələp 
+you: a-m | om	yen	yin | am	om 
+you: o-m | om	yen	yin | am	om 
+you two: an 
+every: kokot 
+ash: kaypiw 
+abdomen: wak	wäk 
+bigness: waruke 
+large: waruke 
+breasts: muy	mwi 
+nail: limkew-poke 
+talon: limkew-poke 
+come from: eya	yə 
+be dead: lakna 
+dead: lakna 
+ground: niw	nü 
+land: niw	nü 
+soil: niw	nü 
+fly: apta 
+fly v.: apta 
+left hand: yiyle 
+1 sg.: wan 
+be knowledgeable: neknek	neknek-neney 
+head louse: nin 
+male: rame	ramiyan	yapor	yenkay 
+much: liwke 
+multiple: liwke 
+several: liwke 
+hill: tiwle 
+title: yenyiy 
+nighttime: im 
+adulterous: naydowo 
+single: naydowo 
+the: naydowo 
+unprincipled: naydowo 
+human: rameyEn	rameyän 
+human being: rameyEn	rameyän 
+rainy weather: yele	yelə 
+path: nuwp 
+route: nuwp 
+hide: yEy	yai	yäy 
+little: yankeyke 
+smallness: yankeyke 
+rock: til	tiyl 
+2 sg: om	yen	yin 
+grind: yikir	yikiyr 
+go: äy 
+hot: tapwo-neney 
+1 pl. inc.: nom 
+we₁: nom 
+whiteness: kiwokwo	kiwyo-kwo 
+who?: yeran	yeremän 
+female: tale	tələran 
+distant: tomte 
+dull: yiylekolke 
+serious: yiylekolke 
+close: teywake 
+ner: teywake 
+earthworm: mweymoy 
+3 sg.: rei	rey 
+he: rei	rey 
+she: rei	rey 
+2 pl.: am	om 
+ye: am	om 
+you all: am	om 
+3 pl.: ram	rom 
+where?: yipe	yipke 
+when?: yekak 
+how?: yok 
+broad: wawerneney 
+wideness: wawerneney 
+fat: kanel 
+principal wife: talet 
+his mother: nemet	ŋamey	ŋami 
+my mother: nemet	ŋamey	ŋami 
+his father: ŋawər	ŋaye	ŋayi 
+my father: ŋawər	ŋaye	ŋayi 
+woods: mäw	ole 
+cord: mät 
+flesh: lum 
+grease: kanel 
+gut: ripat 
+insides: ripat 
+intestine: ripat 
+intestines: ripat 
+breath: yiyk likwena 
+laughter: mokəl 
+cogitate: nanän-neney	nenän lay 
+reflect: nanän-neney	nenän lay 
+alive: ikiy	pama 
+be alive: ikiy	pama 
+life: ikiy	pama 
+living: ikiy	pama 
+beat: puya 
+strike: puya 
+hack: iwk	iwya 
+pierce: t-tow 
+stab: t-tow 
+drop: lamlakna 
+grasp: nak 
+hold in arm: nak 
+wring: naktaney 
+wash clothes: worya 
+bind: day	ud 
+fasten: day	ud 
+tie up: day	ud 
+enumerate: riw mak 
+number: riw mak 
+tally: riw mak 
+have fun: mənman ka 
+brook: wiytape 
+stream: wiytape 
+blaze: okw 
+daylight: mäy 
+daytime: mäy 
+evil: monokene	monokna 
+rot: pumpum rokw	t-tan 
+filthy: wuneneney 
+soiled: wuneneney 
+blunt: wam 
+damp: yiw-neney 
+right side: yiyle-mede 

@@ -1,0 +1,164 @@
+all: wá 
+every: wá 
+ash: à=tɔ̂ŋ 
+ashes: à=tɔ̂ŋ 
+bark: ì=kpág 
+abdomen: à=là 
+belly: à=là 
+big: í=gbór 
+bigness: í=gbór 
+large: í=gbór 
+bird: mòn á ɲ̀=ɲàm 
+bite: lôm 
+black: ɲ̀=ɲàɲàg 
+blood: loN	à=lóŋ 
+bone: kab	ì=káb 
+breast: bel	ì=kùrùŋkù 
+breasts: bel	ì=kùrùŋkù 
+burn: fî 
+burn tr.: fî 
+claw: ì=ŋʋùŋuàr 
+nail: ì=ŋʋùŋuàr 
+talon: ì=ŋʋùŋuàr 
+cloud: èbòrí-mbótàː 
+cold: à=lùg 
+come: ba	bá 
+come from: ba	bá 
+be dead: kp~o	kpɔ 
+dead: kp~o	kpɔ 
+die: kp~o	kpɔ 
+dog: go	ŋ̀=gô 
+drink: wo	wô 
+dry: yom 
+ear: toN	ù=tôŋ 
+earth: ǹ=dègí 
+ground: ǹ=dègí 
+land: ǹ=dègí 
+soil: ǹ=dègí 
+eat: lî 
+egg: í=ʓǐ 
+eye: m3r	ì=mɨ̂r 
+fat: à=fɔ̂m 
+fat n.: à=fɔ̂m 
+grease: à=fɔ̂m 
+lubricant: à=fɔ̂m 
+oil: à=fɔ̂m 
+feather: í=fòrí 
+fire: gon	ǹ=gôn 
+fish: kobi	ń=kòbí 
+fly: bûg	bɨ̂g 
+fly v.: bûg	bɨ̂g 
+foot: ì=kpàd 
+full: ror 
+give: kâr 
+good: nòbî 
+hair: ɲ́=ɲù-šî 
+hand: bo	ù=bô 
+left hand: bo	ù=bô 
+right: bo	ù=bô 
+head: ì=šî 
+hear: yog	yóg 
+heart: ì=tém 
+horn: taN	ǹ=tâŋ 
+1 sg.: mè	ǹ 
+I: mè	ǹ 
+kill: yol 
+knee: r3N	ì=rʋ̂ŋ 
+be knowledgeable: ɲi 
+know: ɲi 
+leaf: 5an	ì=ɲân 
+lie: nɔ̀ŋî 
+lie down: nɔ̀ŋî 
+liver: gEd	ú=gêd 
+long: ràbî 
+head louse: kp~eri	ḿ=kpèrí 
+louse: kp~eri	ḿ=kpèrí 
+male: nɛ=nɔm 
+man: nE	ǹ=nè 
+many: dól 
+much: dól 
+multiple: dól 
+several: dól 
+flesh: ɲ̀=ɲàm 
+meat: ɲ̀=ɲàm 
+moon: ǹ=wèrí 
+hill: goli	ì=gòlí 
+mountain: goli	ì=gòlí 
+mouth: ɲ̀=ɲò 
+name: beN	m̀=bèŋ 
+title: beN	m̀=bèŋ 
+neck: ì=mèl 
+new: m=fɛ-mfɛ	mf~emf~e 
+night: tu	à=tú 
+nighttime: tu	à=tú 
+nose: Nol	ŋ̀=ŋôl 
+not: =om	kà 
+adulterous: r3N	rɨ́ŋ	ñ́-dží- -rə́ŋ 
+one: r3N	rɨ́ŋ	ñ́-dží- -rə́ŋ 
+single: r3N	rɨ́ŋ	ñ́-dží- -rə́ŋ 
+that: =ónò	=ô 
+the: r3N	rɨ́ŋ	ñ́-dží- -rə́ŋ 
+unprincipled: r3N	rɨ́ŋ	ñ́-dží- -rə́ŋ 
+human: nE	ǹ=nè 
+human being: nE	ǹ=nè 
+person: nE	ǹ=nè 
+rain: mbonta 
+rainy weather: mbonta 
+red: ḿ=bébél 
+path: bar	m̀=bár 
+road: bar	m̀=bár 
+route: bar	m̀=bár 
+root: ǹ=dǔg 
+round: kɨlɛ-lɛlɛ 
+sand: m̀=bùbú 
+say: buŋ 
+see: yed	yêd 
+seed: m̀=mʋ̀g 
+sit: bɨm 
+hide: go	ŋ̀=gòb-ʓì 
+skin: go	ŋ̀=gòb-ʓì 
+sleep: lâl 
+little: tèkè 
+small: tèkè 
+smallness: tèkè 
+smoke: à=tɨ́ták 
+stand: yêm 
+star: ǹ=dòróŋdò 
+rock: tal	ù=tál 
+stone: tal	ù=tál 
+sun: Tol	ǹ=ʓòl 
+swim: ɲɔg 
+tail: ǹ=kêl 
+this: =ánà	=â 
+tongue: rebi	ì=rèbí 
+tooth: lol	ì=lôl 
+tree: te	ì=té 
+grind: bal	bâl	í-bâl 
+two: bal	bâl	í-bâl 
+go: tɨm 
+walk: tɨm 
+hot: =fùfúp	e=fùfúp 
+warm: =fùfúp	e=fùfúp 
+water: l3b	à=lɨ́b 
+what: bǎ-ʓôm	ʓènî 
+white: m̀=bábár 
+whiteness: m̀=bábár 
+who: ɲínò	ɲínǒ 
+who?: ɲínò	ɲínǒ 
+female: ǹ=nè=ǹ=kál 
+woman: ǹ=nè=ǹ=kál 
+yellow: ù=gɔ̀ŋúgɔ̀ŋ 
+dull: lôb 
+heavy: lôb 
+serious: lôb 
+close: kpédí-kpédí 
+near: kpédí-kpédí 
+ner: kpédí-kpédí 
+salt: à=kâŋ 
+short: kɨ̀bî 
+snake: =ɲô 
+thin: kèŋ-kǝ́ŋ	kèŋ-kə́ŋ 
+wind: ì=fɨ̀fè 
+earthworm: ń=dɔ̀ŋí 
+worm: ń=dɔ̀ŋí 
+year: ì=rá 

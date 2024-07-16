@@ -1,0 +1,301 @@
+all: *ollos 
+every: *ollos 
+ash: *lowtu- 
+ashes: *lowtu- 
+bark: *rūsklo- 
+abdomen: *bolgo- 
+belly: *bolgo- 
+big: *māro- 
+bigness: *māro- 
+large: *māro- 
+bird: *φatar 
+bite: *knā-yo- 
+black: *dubu- 
+blood: *krū 
+bone: *askurno-	*knāmi- 
+breast: *bruson-	*kīkā 
+breasts: *bruson-	*kīkā 
+cold: *owgro- 
+be dead: *ba-yo- 
+dead: *ba-yo- 
+die: *ba-yo- 
+dog: *kū 
+drink: *φib-o- 
+dry: *siskʷo- 
+ear: *ausos-	*kloustā 
+earth: *talamū 
+ground: *talamū 
+land: *talamū 
+soil: *talamū 
+eat: *ed-o- 
+egg: *āwyo- 
+eye: *lukato- 
+fire: *teφnet- 
+fish: *φēsko- 
+fly: *φet-o- 
+fly v.: *φet-o- 
+foot: *φod- 
+full: *φlāno- 
+give: *dā- 
+good: *dago- 
+green: *glasto- 
+hair: *wolto- 
+head: *kʷenno- 
+hear: *klew-o- 
+heart: *kridyo- 
+horn: *kornu- 
+1 sg.: *moi 
+I: *moi 
+kill: *gʷan-o- 
+knee: *glūnos- 
+be knowledgeable: *wi-n-d-o 
+know: *wi-n-d-o 
+leaf: *dolnyā	*dolyā 
+liver: *awV- 
+long: *sīro- 
+head louse: *luwā 
+louse: *luwā 
+male: *wiro- 
+man: *donyo- 
+many: *φilu- 
+much: *φilu- 
+multiple: *φilu- 
+several: *φilu- 
+moon: *louχsnā 
+hill: *moniyo- 
+mountain: *moniyo- 
+mouth: *ās- 
+name: *anman 
+title: *anman 
+neck: *moni- 
+new: *nowyo- 
+night: *noχt- 
+nighttime: *noχt- 
+nose: *srognā 
+not: *ne 
+adulterous: *oino-	oinos 
+one: *oino-	oinos 
+single: *oino-	oinos 
+that: *emo-	*sindo-de 
+the: *oino-	oinos 
+unprincipled: *oino-	oinos 
+human: *donyo- 
+human being: *donyo- 
+person: *donyo- 
+rain: *glawā	*wolko- 
+rainy weather: *glawā	*wolko- 
+red: *kokko-	*rowdo- 
+path: *sentu- 
+road: *sentu- 
+route: *sentu- 
+root: *wridā 
+round: *krundi- 
+sand: *grāwā 
+say: *labar-o- 
+see: *wel-o- 
+seed: *segeto-	*sīlo- 
+sit: *sed-o- 
+hide: *krokkeno-	*krokno- 
+skin: *krokkeno-	*krokno- 
+sleep: *kuφ-sko- 
+little: *bekko- 
+small: *bekko- 
+smallness: *bekko- 
+smoke: *mukV 
+star: *sterā 
+rock: *magino- 
+stone: *magino- 
+sun: *sāwūl 
+swim: *snā- 
+tail: *lostā 
+this: *sindo	se-	so-sin 
+2 sg: *tū 
+thou: *tū 
+you: *tū 
+tongue: *tangʷat- 
+tooth: *dant- 
+tree: *kʷresno- 
+grind: *dwāw	dvai 
+two: *dwāw	dvai 
+go: *keng-o- 
+walk: *keng-o- 
+hot: *teφsmi- 
+warm: *teφsmi- 
+water: *dubrā	uden-sk-yo 
+1 pl. inc.: *nīs 
+we: *nīs 
+we₁: *nīs 
+what: *kʷid 
+white: *bāno-	*windo- 
+whiteness: *bāno-	*windo- 
+who: *kʷei 
+who?: *kʷei 
+female: *bena 
+woman: *bena 
+yellow: *bodyo- 
+distant: *kēno-	*kʷeslo 
+far: *kēno-	*kʷeslo 
+dull: *trummo- 
+heavy: *trummo- 
+serious: *trummo- 
+close: *onko- 
+near: *onko- 
+ner: *onko- 
+salt: *salano- 
+short: *birro- 
+snake: *natrik- 
+thin: *koilo- 
+wind: *winto- 
+earthworm: *kʷrimi- 
+worm: *kʷrimi- 
+year: *blēdnī 
+3 sg.: *em 
+he: *em 
+she: *em 
+2 pl.: *swīs 
+ye: *swīs 
+you all: *swīs 
+3 pl.: *yoi 
+they: *yoi 
+here: *sondo	*uman? 
+there: *anda?	*kei 
+where: *kʷuts 
+where?: *kʷuts 
+when: *kʷan 
+when?: *kʷan 
+some: *nekʷo- 
+few: *nekʷo- 
+other: *alyo- 
+three: *trīs	treis 
+four: *kʷetwores	qetveres 
+five: *kʷenkʷe	qenqe 
+broad: *φlitano- 
+wide: *φlitano- 
+wideness: *φlitano- 
+fat: *gʷered- 
+thick: *tegu- 
+narrow: *angu- 
+child: *mustāko- 
+his mother: *mātīr 
+mother: *mātīr 
+my mother: *mātīr 
+father: *φatīr 
+his father: *φatīr 
+my father: *φatīr 
+animal: *mīlo- 
+forest: *kaito- 
+woods: *kaito- 
+branch: *lorgā 
+stick: *lorgā 
+fruit: *sutu- 
+flower: *blātu- 
+grass: *gʷeltā 
+cord: *lomanā 
+rope: *lomanā 
+flesh: *kīkā	*mīros 
+meat: *kīkā	*mīros 
+grease: *gʷered- 
+claw: *angʷīnā 
+fingernail: *angʷīnā 
+nail: *angʷīnā 
+leg: *koχsā 
+arm: *φlāmā 
+hand: *φlāmā 
+wing: *φatanī 
+suck: *di-na- 
+vomit: *skiy-o- 
+blow: *swizd-o- 
+breath: *ana- 
+breathe: *ana- 
+laugh: *swar-yo- 
+laughter: *swar-yo- 
+cogitate: *ambi-rād-ī- 
+reflect: *ambi-rād-ī- 
+think: *ambi-rād-ī- 
+afraid: *obno- 
+be afraid: *obno- 
+fear: *obno- 
+fright: *obno- 
+alive: *biwo- 
+be alive: *biwo- 
+life: *biwo- 
+live: *biwo- 
+living: *biwo- 
+fight: *wik-o- 
+hunt: *selgā 
+beat: *bi-na- 
+hit: *bi-na- 
+strike: *bi-na- 
+cut: *skiy-o- 
+hack: *skiy-o- 
+cut open: *dlo-n-g-o 
+split: *dlo-n-g-o 
+scratch: *razd-o- 
+dig: *klad-o- 
+lie: *leg-o- 
+lie down: *leg-o- 
+tell lies: *leg-o- 
+stand: *sistā- 
+turn: *suw-o- 
+turn around: *suw-o- 
+turn round: *suw-o- 
+drop: *ki-yo 
+fall: *ki-yo 
+grasp: *delg-o- 
+hold: *delg-o- 
+hold in arm: *delg-o- 
+wash: *nig-yo- 
+wash clothes: *nig-yo- 
+throw: *kat-yo- 
+bind: *wed-o- 
+fasten: *wed-o- 
+tie: *wed-o- 
+tie up: *wed-o- 
+sew: *nē-yo- 
+count: *rimā 
+enumerate: *rimā 
+number: *rimā 
+tally: *rimā 
+sing: *kan-o- 
+have fun: *kon-rig-o-	uφo-rig-o- 
+play: *kon-rig-o-	uφo-rig-o- 
+flow: *liy-o- 
+swell: *swēd-o- 
+brook: *abonā	*abū 
+river: *abonā	*abū 
+stream: *abonā	*abū 
+lake: *linnā 
+ocean: *mori 
+sea: *mori 
+fog: *kiwo- 
+sky: *nemos- 
+snow: *argyo-	*snigʷyo- 
+ice: *yegi- 
+blaze: *daw-yo- 
+burn: *daw-yo- 
+day: *diy- 
+daylight: *diy- 
+daytime: *diy- 
+old: *seno- 
+bad: *druko- 
+evil: *druko- 
+rot: *bragno- 
+rotten: *bragno- 
+dirty: *salāko- 
+filthy: *salāko- 
+soiled: *salāko- 
+sharp: *kerbo- 
+blunt: *mailo- 
+smooth: *slimono- 
+damp: *wlikʷu- 
+wet: *wlikʷu- 
+correct: *eφino- 
+right: *deχsiwo- 
+right side: *deχsiwo- 
+left: *klēyo- 
+at: *onko- 
+in: *eni 
+inside: *eni 
+with: *kantā	*kom 
+and: *-kʷe	*atkʷe	*eti 
+if: *smā 

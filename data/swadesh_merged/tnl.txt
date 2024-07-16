@@ -1,0 +1,266 @@
+all: petəmw 
+every: petəmw 
+ash: nəmraau 
+ashes: nəmraau 
+abdomen: netp- 
+belly: netp- 
+big: asuul 
+bigness: asuul 
+large: asuul 
+bird: menuk 
+bite: kəs 
+black: apən 
+blood: nətaa- 
+bone: nəkəlkəlii- 
+breast: naha- 
+breasts: naha- 
+burn: vaan 
+burn tr.: vaan 
+cloud: napua 
+cold: arap 
+come: va 
+come from: va 
+be dead: məs 
+dead: məs 
+die: məs 
+dog: kuri 
+drink: amnuumw 
+dry: ausək 
+ear: nəmwa|telŋ- 
+eat: kən 
+egg: nouanhal- 
+eye: nəmr- 
+feather: nəmomwi- 
+fire: nəkom 
+fish: nam 
+fly: ivək 
+fly v.: ivək 
+good: vət 
+green: ami|mra 
+hair: nouanu- 
+hand: nelm- 
+left hand: nelm- 
+right: nelm- 
+head: -kapwa 
+hear: arou 
+1 sg.: io 
+I: io 
+kill: hoapwnín 
+be knowledgeable: hinatín 
+know: hinatín 
+leaf: nəmwal- 
+lie: amel 
+lie down: amel 
+liver: nakanmop- 
+long: apwomh 
+head louse: kur 
+louse: kur 
+male: iera|mwaan 
+man: ieramím 
+moon: mouk 
+mouth: nhul- 
+name: netŋ- 
+title: netŋ- 
+neck: -rou 
+new: vi 
+night: la|pən 
+nighttime: la|pən 
+nose: nəpwaŋhaŋ- 
+adulterous: karena 
+one: karena 
+single: karena 
+that: aan 
+the: karena 
+unprincipled: karena 
+human: ieramím 
+human being: ieramím 
+person: ieramím 
+rain: nihin 
+rainy weather: nihin 
+red: ləvləv 
+path: suatu 
+road: suatu 
+route: suatu 
+root: nuk- 
+sand: nəmwakəlakəl 
+say: əni 
+see: aamh 
+sit: owta 
+hide: nəviŋ- 
+skin: nəviŋ- 
+sleep: apul 
+little: esuaas 
+small: esuaas 
+smallness: esuaas 
+smoke: nhankom 
+star: mahau 
+rock: kopwiel 
+stone: kopwiel 
+swim: aik 
+tail: nəpik- 
+this: uk 
+2 sg: iik 
+thou: iik 
+you: iik 
+tongue: nam- 
+tooth: nelu- 
+grind: k-iu	kiu 
+two: k-iu	kiu 
+go: aliuok 
+walk: aliuok 
+hot: mhan 
+warm: mhan 
+water: nu 
+1 pl. inc.: kam|ar	kat|ar 
+we: kam|ar	kat|ar 
+we₁: kam|ar	kat|ar 
+what: neta 
+white: tuan 
+whiteness: tuan 
+who: pe|he 
+who?: pe|he 
+female: peravən 
+woman: peravən 
+yellow: auhia 
+distant: i|sou 
+far: i|sou 
+dull: pkom 
+heavy: pkom 
+serious: pkom 
+close: iuokət 
+near: iuokət 
+ner: iuokət 
+salt: nəŋal 
+short: erupwerupw 
+snake: taŋalua 
+thin: akəlkəl 
+wind: nəmataaŋ 
+earthworm: mwatíkalo 
+worm: mwatíkalo 
+year: nuw 
+2 pl.: kami|ar 
+ye: kami|ar 
+you all: kami|ar 
+3 pl.: il|ar 
+they: il|ar 
+where: ihie 
+where?: ihie 
+when: nahan 
+when?: nahan 
+how: etu- 
+how?: etu- 
+other: psən 
+three: kəsil	kəsəl 
+four: ku-βer	kuver 
+five: katilim	katilum 
+broad: asuul 
+wide: asuul 
+wideness: asuul 
+fat: nelpwa 
+thick: pək 
+narrow: evtetín 
+principal wife: peravən 
+wife: peravən 
+husband: ieramwaan 
+his mother: in- 
+mother: in- 
+my mother: in- 
+father: rəm- 
+his father: rəm- 
+my father: rəm- 
+forest: nəkinhamra 
+woods: nəkinhamra 
+branch: nelm- 
+stick: nelm- 
+fruit: noua- 
+flower: nouŋ- 
+grass: nəmwanvhaal 
+cord: nelaus 
+rope: nelaus 
+flesh: nauŋa 
+meat: nauŋa 
+grease: nelpwa 
+wing: nəkavkav- 
+gut: nəsŋaa- 
+guts: nəsŋaa- 
+insides: nəsŋaa- 
+intestine: nəsŋaa- 
+intestines: nəsŋaa- 
+back: nəmwataa- 
+suck: təm 
+spit: aŋh 
+vomit: eua 
+blow: hal	ilíl 
+breath: amiŋ 
+breathe: amiŋ 
+laugh: əlhieelh 
+laughter: əlhieelh 
+cogitate: nəki-n r-ho 
+reflect: nəki-n r-ho 
+think: nəki-n r-ho 
+smell: arou 
+sniff: arou 
+afraid: əŋn 
+be afraid: əŋn 
+fear: əŋn 
+fright: əŋn 
+alive: amiuh 
+be alive: amiuh 
+life: amiuh 
+live: amiuh 
+living: amiuh 
+hunt: eukpən 
+beat: ho 
+hit: ho 
+strike: ho 
+cut: arai 
+hack: arai 
+cut open: arpiai 
+split: arpiai 
+pierce: ətik 
+stab: ətik 
+scratch: aki 
+dig: il 
+stand: ail 
+drop: əm 
+fall: əm 
+grasp: os 
+hold: os 
+hold in arm: os 
+squeeze: avət 
+wring: avət 
+throw: atkín 
+bind: əliis 
+fasten: əliis 
+tie: əliis 
+tie up: əliis 
+sew: til 
+count: avhín 
+enumerate: avhín 
+number: avhín 
+tally: avhín 
+flow: aih 
+lake: nəsiu 
+ocean: tehe 
+sea: tehe 
+dust: nəmoulúl 
+fog: oro 
+sky: neai 
+bad: taat 
+evil: taat 
+rot: amramər 
+rotten: amramər 
+dirty: amkəmək 
+filthy: amkəmək 
+soiled: amkəmək 
+sharp: asla 
+blunt: əpus 
+damp: ptəŋ 
+wet: ptəŋ 
+right side: mwatu 
+left: mul 
+at: le 
+in: nakani- 
+inside: nakani- 
+and: kani	məne 
+if: takamwa 

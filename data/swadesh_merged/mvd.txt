@@ -1,0 +1,138 @@
+all: ngara nduka 
+every: ngara nduka 
+ash: karabuka 
+ashes: karabuka 
+abdomen: tia 
+belly: tia 
+big: kalada 
+bigness: kalada 
+large: kalada 
+bird: mapawúrunga 
+bite: wítu 
+black: màli 
+blood: ra 
+bone: ri	rí 
+breast: susu 
+breasts: susu 
+burn: tunu 
+burn tr.: tunu 
+cloud: karumang 
+cold: maringi 
+come: mai 
+come from: mai 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: asu 
+drink: unu 
+dry: mara	marakúta 
+ear: katilu 
+eat: nga 
+egg: tàlu 
+eye: mata 
+feather: wulu 
+fire: api 
+fish: ia 
+fly: pawurunga 
+fly v.: pawurunga 
+good: dàsa 
+green: moru 
+hair: longgi 
+hand: luma	lúma 
+left hand: luma	lúma 
+right: luma	lúma 
+head: katowa 
+hear: raNi	ràngi 
+1 sg.: yauwa 
+I: yauwa 
+kill: pamati 
+be knowledgeable: làkasa 
+know: làkasa 
+leaf: ro 
+liver: ati 
+long: kadeta 
+head louse: katuma 
+louse: katuma 
+male: mani 
+man: tu	tú 
+moon: wula 
+mouth: ngada 
+name: Nara	ngara 
+title: Nara	ngara 
+neck: koku 
+new: wudi 
+night: kanjidunga	kanj~iduNa 
+nighttime: kanjidunga	kanj~iduNa 
+nose: uru 
+adulterous: sisa	sísa 
+one: sisa	sísa 
+single: sisa	sísa 
+that: gú 
+the: sisa	sísa 
+unprincipled: sisa	sísa 
+human: tu	tú 
+human being: tu	tú 
+person: tu	tú 
+rain: ura 
+rainy weather: ura 
+red: rara 
+path: lara 
+road: lara 
+route: lara 
+root: amu 
+sand: pasalai 
+say: panewi 
+see: eta 
+sit: mandidi 
+hide: kalita 
+skin: kalita 
+sleep: maturu 
+little: diku	marasa 
+small: diku	marasa 
+smallness: diku	marasa 
+smoke: kumbisa 
+star: kandinu	kand~inu 
+rock: watu 
+stone: watu 
+swim: nangi 
+tail: kíku 
+this: nggia 
+2 sg: yo 
+thou: yo 
+you: yo 
+tongue: lama	làma 
+tooth: undu	und~u 
+grind: duada 
+two: duada 
+go: salàku 
+walk: salàku 
+hot: banasa 
+warm: banasa 
+water: ve 
+1 pl. inc.: yami	yita 
+we: yami	yita 
+we₁: yami	yita 
+what: pani 
+white: bela 
+whiteness: bela 
+who: herai 
+who?: herai 
+female: kawini 
+woman: kawini 
+yellow: wingira 
+distant: maleru 
+far: maleru 
+dull: buatu 
+heavy: buatu 
+serious: buatu 
+close: marani	tuki 
+near: marani	tuki 
+ner: marani	tuki 
+salt: masi 
+short: pandaka 
+snake: mandu 
+thin: manipisa 
+wind: ngàlu 
+earthworm: kalúti 
+worm: kalúti 
+year: tau 

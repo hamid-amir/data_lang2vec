@@ -1,0 +1,151 @@
+all: kaiw3 
+every: kaiw3 
+ash: u7a 
+ashes: u7a 
+bark: kuri 
+abdomen: yapib3 
+belly: yapib3 
+big: 3rak3 
+bigness: 3rak3 
+large: 3rak3 
+bird: bihido	bihik3 
+bite: ku 
+black: yebido 
+blood: hiwe	xivE	xiwe 
+bone: ku*a*ro	ku*a8o	kuayo 
+breast: 5alEba	opeboa 
+breasts: 5alEba	opeboa 
+claw: k3owe 
+nail: k3owe 
+talon: k3owe 
+cloud: okopediboa 
+cold: h3h3w3 
+come: da	daxaki	day3 
+come from: da	daxaki	day3 
+be dead: koxipoy3	yai	yaiy3 
+dead: koxipoy3	yai	yaiy3 
+die: koxipoy3	yai	yaiy3 
+dog: yavimi	yawibi	yawini 
+drink: dab3boy3	u*ku*xak3	u*ku53	uku 
+dry: pededo 
+ear: ka*muka	kabu*ka 
+earth: haraw3	hoboro 
+ground: haraw3	hoboro 
+land: haraw3	hoboro 
+soil: haraw3	hoboro 
+egg: hid3 
+eye: jakol3	yako	yakor3	yakori 
+fat: deo 
+fat n.: deo 
+grease: deo 
+lubricant: deo 
+oil: deo 
+feather: kaweyo	poya 
+fire: toa	toabo	uluibo 
+fish: boa*	moak3 
+fly: w3 
+fly v.: w3 
+foot: k3boba 
+full: buiw3	yapiy3 
+give: hi 
+good: beaw3 
+green: h3bedo 
+hair: poya 
+hand: p3l3	p3r3	p3ri 
+left hand: p3l3	p3r3	p3ri 
+right: p3l3	p3r3	p3ri 
+head: hipob3 
+hear: hapia	xapiaibi	xapiay3 
+heart: ubed3 
+horn: hawaro	xawaro 
+1 sg.: y3 
+I: y3 
+kill: boa 
+knee: y3*a*	y3abo 
+be knowledgeable: bahik3	koreowa 
+know: bahik3	koreowa 
+leaf: kainiyoka	yoka 
+lie: para	yuyu 
+lie down: para	yuyu 
+liver: pEnibo	pedibo 
+long: 3b3h3ro 
+head louse: k3*k3	k3*xi	k3k3 
+louse: k3*k3	k3*xi	k3k3 
+male: poek3 
+man: po*Ek3	poewa 
+many: hain3kh~o	r3a 
+much: hain3kh~o	r3a 
+multiple: hain3kh~o	r3a 
+several: hain3kh~o	r3a 
+flesh: hiar3 
+meat: hiar3 
+moon: awia	jabikak3 
+hill: k3*ra*ku* 3raku 
+mountain: k3*ra*ku* 3raku 
+mouth: hihekabu 
+name: a*mia	abia 
+title: a*mia	abia 
+neck: yabebu 
+new: ba*da*yo	babaro	mamalo 
+night: 5ami	ya*b3*	yabi 
+nighttime: 5ami	ya*b3*	yabi 
+nose: u*Eka	ueka 
+not: k3bib3 
+adulterous: cũinádo	ku*ina8o a*muyo i*ni	ku*inalo	kuida 
+one: cũinádo	ku*ina8o a*muyo i*ni	ku*inalo	kuida 
+single: cũinádo	ku*ina8o a*muyo i*ni	ku*inalo	kuida 
+that: adiku 
+the: cũinádo	ku*ina8o a*muyo i*ni	ku*inalo	kuida 
+unprincipled: cũinádo	ku*ina8o a*muyo i*ni	ku*inalo	kuida 
+human: po*Ek3	poewa 
+human being: po*Ek3	poewa 
+person: po*Ek3	poewa 
+rain: okaido 
+rainy weather: okaido 
+red: huaro 
+path: ba*	kainima	ma 
+road: ba*	kainima	ma 
+route: ba*	kainima	ma 
+root: d3obu 
+round: tarab3pe teido 
+say: ay3 
+see: ha	xa	xa*53 
+seed: oteiyabe	pebe 
+sit: dobak3 
+hide: kahe	kaxE	kaxe 
+skin: kahe	kaxE	kaxe 
+sleep: ka 
+little: kih3k3 
+small: kih3k3 
+smallness: kih3k3 
+smoke: biko 
+stand: duk3 
+star: abiakol3	abiakor3 
+rock: k3*la	k3*labo	k3rabo 
+stone: k3*la	k3*labo	k3rabo 
+sun: awia	haraw3kak3 
+swim: ta 
+tail: pikobu 
+this: iku 
+2 sg: b3ha	m3*	mi 
+thou: b3ha	m3*	mi 
+you: b3ha	m3*	mi 
+tongue: hebedo	xEmEdo	xe*be*ro 
+tooth: ko*pi	ko*pi*yo	ko*piyo 
+tree: hok3k3	xokik3 
+grind: p3ka	p3ka8oa a*muyoa i*ni	p3kala*	p3kalo*a	pʉcad̵oa 
+two: p3ka	p3ka8oa a*muyoa i*ni	p3kala*	p3kalo*a	pʉcad̵oa 
+go: ku	waiwa 
+walk: ku	waiwa 
+water: oko 
+1 pl. inc.: baha	maxa	y3ha 
+we: baha	maxa	y3ha 
+we₁: baha	maxa	y3ha 
+what: aipe	ye 
+white: boro 
+whiteness: boro 
+who: yabe 
+who?: yabe 
+female: dobio	poeko 
+woman: dobio	poeko 
+yellow: k3rah3bedo 

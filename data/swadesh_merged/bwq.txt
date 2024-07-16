@@ -1,0 +1,171 @@
+all: pēpé 
+every: pēpé 
+ash: yībē 
+ashes: yībē 
+bark: sɔ̄=kiɛ̄bē 
+abdomen: tūlù 
+belly: tūlù 
+big: gbágá 
+bigness: gbágá 
+large: gbágá 
+bird: yàlo	yàlô 
+bite: ŋwī 
+black: dūŋū 
+blood: to	tò 
+bone: wonon	wɔ̄-nṍ 
+breast: dun	dũ̂ 
+breasts: dun	dũ̂ 
+burn: ŋwùnā 
+burn tr.: ŋwùnā 
+claw: ɲīnā-kiɛ́bé 
+nail: ɲīnā-kiɛ́bé 
+talon: ɲīnā-kiɛ́bé 
+cloud: dàbà 
+cold: lùū 
+come: na	nàā	yole 
+come from: na	nàā	yole 
+be dead: siri	sìrī 
+dead: siri	sìrī 
+die: siri	sìrī 
+dog: gb~Ege	gbɛ̀ge	gbɛ̀gē 
+drink: mEnE	mun	mùn	mɛ̀nɛ	mɛ̀nɛ̄ 
+dry: kwīɛ̄ 
+ear: turu	túrú 
+earth: lɔ́ 
+ground: lɔ́ 
+land: lɔ́ 
+soil: lɔ́ 
+eat: zȭ 
+egg: wɛ́ré 
+eye: 5inon	ɲó-nõ̀ 
+fat: ɲī 
+fat n.: ɲī 
+grease: ɲī 
+lubricant: ɲī 
+oil: ɲī 
+feather: dɛ̄gē 
+fire: togo	tó-gó 
+fish: zE	zɛ̄ 
+fly: tīrē 
+fly v.: tīrē 
+foot: kã̀ã̄ 
+full: pāgā 
+give: pērē 
+good: dīà	fɔ̄rɔ̄ 
+green: bĩ̂ 
+hair: ŋwõ̀=só-gó 
+hand: soro	sōrō 
+left hand: soro	sōrō 
+right: soro	sōrō 
+head: ŋwõ̀ȭ 
+hear: mo	mɔ̀ɔ̄ 
+heart: wōrō 
+horn: ben	bien	bẽ̄ 
+1 sg.: mE	mɛ́ 
+I: mE	mɛ́ 
+kill: yɛ̀ 
+knee: fuNg~unu	fūŋūnù 
+be knowledgeable: dà=tɔ̀ 
+know: dà=tɔ̀ 
+leaf: da	dazugo	dāà 
+lie: siã̄ 
+lie down: siã̄ 
+liver: fEgErE	fɛ̀gɛ̀rɛ̀ 
+long: kú 
+head louse: kpàŋgbà 
+louse: kpàŋgbà 
+male: sĩ̀ 
+man: son	sõ̂ 
+many: ɲã́ 
+much: ɲã́ 
+multiple: ɲã́ 
+several: ɲã́ 
+flesh: kiɛ̀gā	kiɛ̀gē	kìkā 
+meat: kiɛ̀gā	kiɛ̀gē	kìkā 
+moon: yū 
+hill: tolo	tòló 
+mountain: tolo	tòló 
+mouth: do	dō 
+name: togo	tógó	tō-gō 
+title: togo	tógó	tō-gō 
+neck: mò-gó 
+new: Nw~un	ŋwún	ŋwṹ 
+night: sagafo	wuru	wurù	wùrū 
+nighttime: sagafo	wuru	wurù	wùrū 
+nose: bin	bĩ̄ 
+not: gá 
+adulterous: tala	tele	tàlá 
+one: tala	tele	tàlá 
+single: tala	tele	tàlá 
+that: bó…=yóòō 
+the: tala	tele	tàlá 
+unprincipled: tala	tele	tàlá 
+human: son	sõ̂ 
+human being: son	sõ̂ 
+person: son	sõ̂ 
+rain: wūrò 
+rainy weather: wūrò 
+red: pɛ́nɛ́ 
+path: sogo	sò-gō 
+road: sogo	sò-gō 
+route: sogo	sò-gō 
+root: sùlù 
+sand: yɛ̀gé 
+say: dā 
+see: zE	za	zà 
+seed: tɔ̀-gō 
+sit: tàŋà 
+hide: kon	kõ̀ 
+skin: kon	kõ̀ 
+sleep: ɲĩ̀ 
+little: lóró 
+small: lóró 
+smallness: lóró 
+smoke: tiōrō 
+stand: tà 
+star: mumulu	mùmúlù 
+rock: dibi	dībī 
+stone: dibi	dībī 
+sun: sin	sín	sĩ́ 
+swim: ɲīnā 
+tail: pēgē 
+this: bó…=bɛ́ɛ̀ 
+2 sg: bí 
+thou: bí 
+you: bí 
+tongue: nion	nĩ̀ṍ 
+tooth: 5ini	ɲíní 
+tree: sonon	sɔ̄-nṍ 
+grind: p3la	pila	pəla	pə̄lā 
+two: p3la	pila	pəla	pə̄lā 
+go: yā 
+walk: yā 
+hot: tóbá 
+warm: tóbá 
+water: zio	ziō	zu	zō 
+1 pl. inc.: ke	kie	kě	mɛ̌ 
+we: ke	kie	kě	mɛ̌ 
+we₁: ke	kie	kě	mɛ̌ 
+what: ŋwɔ́-nṍ 
+white: furu 
+whiteness: furu 
+who: kɔ̀-té	kɔ̌ 
+who?: kɔ̀-té	kɔ̌ 
+female: yà 
+woman: yà 
+distant: dɛ̄rɛ̄ 
+far: dɛ̄rɛ̄ 
+dull: tēnẽ̄ 
+heavy: tēnẽ̄ 
+serious: tēnẽ̄ 
+close: vètērā 
+near: vètērā 
+ner: vètērā 
+salt: ɲí 
+short: kútú 
+snake: sã̄ 
+thin: mèŋẽ̄ 
+wind: pàŋà 
+earthworm: mèŋè 
+worm: mèŋè 
+year: dɔ̀ɔ̄	kùlà	ɲi 

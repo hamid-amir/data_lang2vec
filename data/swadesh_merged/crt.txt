@@ -1,0 +1,308 @@
+all: kyeexeʔ 
+every: kyeexeʔ 
+ash: taxlat 
+ashes: taxlat 
+bark: takataxay 
+big: wux 
+bigness: wux 
+large: wux 
+bird: afʷena 
+bite: oka 
+black: -tula 
+blood: -woyis	-yoyis	woyis 
+bone: -weʔlak	-wilak	ly~ile 
+breast: -eteʔ	ate	nahate	tˀ-ateʔ 
+breasts: -eteʔ	ate	nahate	tˀ-ateʔ 
+claw: fʷiki-pot 
+nail: fʷiki-pot 
+talon: fʷiki-pot 
+cloud: poleʔ 
+cold: yuyi 
+come: -nam	anes 
+come from: -nam	anes 
+be dead: -al	-el	ya	yahale 
+dead: -al	-el	ya	yahale 
+die: -al	-el	ya	yahale 
+dog: alena	noʔo 
+drink: -ye	aiyahe 
+dry: -elyey	-ilyey 
+ear: -c̷yoteʔ	-kyoteʔ	-yoteʔ	kiote 
+earth: axnat 
+ground: axnat 
+land: axnat 
+soil: axnat 
+eat: -tox	-tyux	-yekyun 
+egg: leʔkyuʔ 
+eye: -tateʔ	tatowa	tiete 
+feather: -woleʔ 
+fire: etyeʔ	fuat	yaly~et 
+fish: kaniya	sius	siyus 
+fly: -fʷeyeʔ	-fʷiyeʔ 
+fly v.: -fʷeyeʔ	-fʷiyeʔ 
+foot: -kalaʔ	-kyala 
+full: poyi	tapowe	tipohi 
+give: -wenam	-winam 
+good: -es	-se 
+green: -wac̷o 
+hair: -woleʔ 
+hand: -kyoy	-syoy	sikio	yi 
+left hand: -kyoy	-syoy	sikio	yi 
+right: -kyoy	-syoy	sikio	yi 
+head: -xetek	-xitek 
+hear: -peʔyeʔ	-piʔyeʔ	apeye 
+heart: -oxtaleʔ 
+horn: -kyuʔ	ikiu	lis 
+1 sg.: y-em	yam 
+I: y-em	yam 
+kill: -lan	-lyen 
+knee: -kosletikiʔ	-kyusletikiʔ	koska 
+be knowledgeable: -xaneʔ	-xene 
+know: -xaneʔ	-xene 
+leaf: alaʔ-woleʔ	iwole 
+lie: -oʔneʔ	-xoʔneʔ	-xyoʔneʔ 
+lie down: -oʔneʔ	-xoʔneʔ	-xyoʔneʔ 
+liver: -kaxlek	-kyaxlek	kalit 
+long: -toxiʔ 
+head louse: ily~a	ixlyeʔ 
+louse: ily~a	ixlyeʔ 
+male: ayinye 
+man: ayine	inyoʔ 
+many: asaʔa	lox 
+much: asaʔa	lox 
+multiple: asaʔa	lox 
+several: asaʔa	lox 
+flesh: -syen 
+meat: -syen 
+moon: weʔla 
+hill: takixnakiʔ	wutik 
+mountain: takixnakiʔ	wutik 
+mouth: -ey	ay 
+name: -ey	-i	kiak8	ly~e 
+title: -ey	-i	kiak8	ly~e 
+neck: -sapaʔ 
+new: ahike	ike	inkyeʔ 
+night: axnax	ax~na	kana 
+nighttime: axnax	ax~na	kana 
+nose: -xnatowo	-xnyetowo	natowa	nietowe 
+adulterous: iyenly~e	i’fwjenliʔ	wen8~ 
+one: iyenly~e	i’fwjenliʔ	wen8~ 
+single: iyenly~e	i’fwjenliʔ	wen8~ 
+that: iyenly~e	i’fwjenliʔ	wen8~ 
+the: iyenly~e	i’fwjenliʔ	wen8~ 
+unprincipled: iyenly~e	i’fwjenliʔ	wen8~ 
+human: ayine	inyoʔ 
+human being: ayine	inyoʔ 
+person: ayine	inyoʔ 
+rain: pexla 
+rainy weather: pexla 
+red: isyet 
+path: naiyi 
+road: naiyi 
+route: naiyi 
+root: fʷetis 
+round: kyoyoyiʔ 
+sand: isye 
+say: -wokitee	-yokitee 
+see: -wen	-win	we	wen 
+seed: lemtakiʔ 
+sit: -ineʔ	-wayine	eyineʔ 
+hide: -ax	-ex	ta	tax 
+skin: -ax	-ex	ta	tax 
+sleep: -maʔa	-miʔe 
+little: fʷamlaa	kyepis	xelox 
+small: fʷamlaa	kyepis	xelox 
+smallness: fʷamlaa	kyepis	xelox 
+smoke: toxsa 
+star: kates 
+rock: -poy	ahe	sisa 
+stone: -poy	ahe	sisa 
+sun: kilay	kile 
+swim: -pan	-pyen 
+tail: -kyes	-kyes-kina	-kyes-kiʔ 
+2 sg: am 
+thou: am 
+you: am 
+tongue: -kax	-kyax	palinat	palnat 
+tooth: -afʷeʔ	-efʷeʔ	kint~a	wa 
+tree: ala 
+grind: intak	times	ti’mes 
+two: intak	times	ti’mes 
+go: -skyuxnen	-tiskyuxnen 
+walk: -skyuxnen	-tiskyuxnen 
+water: 5at	anat	i5at 
+1 pl. inc.: s-am-el	sa	sam	y-em-el 
+we: s-am-el	sa	sam	y-em-el 
+we₁: s-am-el	sa	sam	y-em-el 
+what: ten 
+white: lemiʔ 
+whiteness: lemiʔ 
+who: ten-pa 
+who?: ten-pa 
+female: axwuʔ 
+woman: axwuʔ 
+yellow: kaʔc̷yutyuʔ 
+distant: -tofʷe 
+far: -tofʷe 
+dull: kyoxyetiʔ	kyoyetiʔ 
+heavy: kyoxyetiʔ	kyoyetiʔ 
+serious: kyoxyetiʔ	kyoyetiʔ 
+close: xa-tofʷe 
+near: xa-tofʷe 
+ner: xa-tofʷe 
+salt: sifʷoniʔ 
+short: xe toy 
+snake: xuppa 
+thin: xe-wuyi 
+wind: laxwu 
+earthworm: wesisitok 
+worm: wesisitok 
+year: naxkap 
+2 pl.: am-el 
+ye: am-el 
+you all: am-el 
+3 pl.: l-am-is 
+they: l-am-is 
+where: napa 
+where?: napa 
+when: napa-we 
+when?: napa-we 
+how: napa 
+how?: napa 
+few: fʷamlaa	xa lox 
+three: iwyeʔc̷yela	na’xape 
+four: ix’njulitsi	pawlic̷iʔ 
+five: ifʷyenni sikyoy itifʷe	yen-sikio-no 
+broad: isayiʔ 
+wide: isayiʔ 
+wideness: isayiʔ 
+fat: -peʔ 
+thick: wuyi 
+narrow: xe isayiʔ 
+child: kyale	kyale-ki 
+principal wife: -c̷ilfʷaʔ	-ilfʷaʔ	-kilfʷaʔ 
+wife: -c̷ilfʷaʔ	-ilfʷaʔ	-kilfʷaʔ 
+husband: -c̷ilwaʔ	-ilwaʔ	-kilwaʔ 
+his mother: et	meme 
+mother: et	meme 
+my mother: et	meme 
+father: -naʔ	-nye 
+his father: -naʔ	-nye 
+my father: -naʔ	-nye 
+animal: -lafʷa	lyefʷa 
+forest: linaʔ 
+woods: linaʔ 
+branch: -kaxs 
+stick: -kaxs 
+fruit: laʔ 
+flower: lawo 
+grass: xupay 
+cord: niyek 
+rope: niyek 
+grease: -peʔ 
+fingernail: -yesiki-pot 
+leg: -akyoxna	-ekyoxna 
+wing: -fʷes 
+gut: -kaxsiliʔ	-kyaxsiliʔ 
+guts: -kaxsiliʔ	-kyaxsiliʔ 
+insides: -kaxsiliʔ	-kyaxsiliʔ 
+intestine: -kaxsiliʔ	-kyaxsiliʔ 
+intestines: -kaxsiliʔ	-kyaxsiliʔ 
+back: -kyeyi	-syeyi 
+suck: -c̷oweʔ	-c̷yuweʔ 
+spit: -fʷac̷uxnen	-fʷyec̷uxnen 
+vomit: -koxin	-kyuxin 
+blow: -wuyiwey	-yuyiwey 
+breath: -yelixiʔ 
+breathe: -yelixiʔ 
+laugh: -skiʔ	-tiskiʔ 
+laughter: -skiʔ	-tiskiʔ 
+cogitate: -talkyun	-tyelkyun 
+reflect: -talkyun	-tyelkyun 
+think: -talkyun	-tyelkyun 
+smell: -xnewene	-xniwene 
+sniff: -xnewene	-xniwene 
+afraid: xe -fʷey	xe -fʷi 
+be afraid: xe -fʷey	xe -fʷi 
+fear: xe -fʷey	xe -fʷi 
+fright: xe -fʷey	xe -fʷi 
+alive: -waxsan 
+be alive: -waxsan 
+life: -waxsan 
+live: -waxsan 
+living: -waxsan 
+fight: -wet-lane	-wit-lane 
+hunt: -wesiʔ	akixnan 
+beat: -exeʔ	axaʔ 
+hit: -exeʔ	axaʔ 
+strike: -exeʔ	axaʔ 
+cut: -ewaxam	akatam 
+hack: -ewaxam	akatam 
+cut open: -fʷaxakiʔ 
+split: -fʷaxakiʔ 
+pierce: -itam	-tetam	etam 
+stab: -itam	-tetam	etam 
+dig: -texey	-tixiʔ 
+tell lies: -wo kiwac̷exa	-yo kiwac̷exa 
+stand: -kasit 
+turn: -epilinkyafʷey	apilinkyafʷey 
+turn around: -epilinkyafʷey	apilinkyafʷey 
+turn round: -epilinkyafʷey	apilinkyafʷey 
+drop: -nuneʔ	-nyuneʔ 
+fall: -nuneʔ	-nyuneʔ 
+grasp: -kiʔmeʔ	-siʔmeʔ 
+hold: -kiʔmeʔ	-siʔmeʔ 
+hold in arm: -kiʔmeʔ	-siʔmeʔ 
+squeeze: -xloxnam 
+wring: -xloxnam 
+rub: -xlotiʔ	-xlyutiʔ 
+wipe: -xlotiʔ	-xlyutiʔ 
+wash: -le	-li 
+wash clothes: -le	-li 
+push: -fʷoma	-xyoma 
+shove: -fʷoma	-xyoma 
+throw: -tate	-tyete 
+bind: -fʷam	-lanit	-lyenit 
+fasten: -fʷam	-lanit	-lyenit 
+tie: -fʷam	-lanit	-lyenit 
+tie up: -fʷam	-lanit	-lyenit 
+sew: -etelyiʔ	-katelan	atelyiʔ 
+count: -ititin	-xnus	etitin 
+enumerate: -ititin	-xnus	etitin 
+number: -ititin	-xnus	etitin 
+tally: -ititin	-xnus	etitin 
+sing: -keynisyen 
+have fun: -lakyen	-lyeken 
+play: -lakyen	-lyeken 
+float: ey anat-apeʔe 
+flow: -em 
+brook: tewak 
+river: tewak 
+stream: tewak 
+dust: lamak 
+fog: inyexkay	toxsa-ta 
+sky: poleʔ 
+snow: fʷiyit inyuneʔ 
+ice: fʷiyit 
+blaze: etye otam 
+burn: etye otam 
+day: xloma 
+daylight: xloma 
+daytime: xloma 
+bad: -fʷesye 
+evil: -fʷesye 
+rot: ifʷyesam 
+rotten: ifʷyesam 
+dirty: -taxaʔ	-taxloxli 
+filthy: -taxaʔ	-taxloxli 
+soiled: -taxaʔ	-taxloxli 
+straight: -ewextiʔ	awextiʔ 
+sharp: tasaxay 
+smooth: -liixi 
+damp: -c̷at	-c̷yet 
+wet: -c̷at	-c̷yet 
+correct: ixyetiʔ 
+right side: -fʷeye 
+left: -lam 
+in: kyafʷey 
+inside: kyafʷey 
+and: naxa 

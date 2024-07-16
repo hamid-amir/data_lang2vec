@@ -1,0 +1,273 @@
+all: ngàra keho	tanakoha	tangakoha 
+every: ngàra keho	tanakoha	tangakoha 
+ash: karako	karomboko 
+ashes: karako	karomboko 
+abdomen: kabu	kambu 
+belly: kabu	kambu 
+big: bokol	bokolo	bòkolo 
+bigness: bokol	bokolo	bòkolo 
+large: bokol	bokolo	bòkolo 
+bird: kawurNu	kawurngu	khil 
+bite: hakati	la-pakati 
+black: meteNo	meteng	metengo 
+blood: ruto 
+bone: ri	rí	ríyo 
+breast: huhu	húhu 
+breasts: huhu	húhu 
+burn: tunu	túnu 
+burn tr.: tunu	túnu 
+cloud: kaboba 
+cold: mariNi	maríngi	mríngi 
+come: emin	maka 
+come from: emin	maka 
+be dead: mate	mati 
+dead: mate	mati 
+die: mate	mati 
+dog: bhoga	bh~oga	bàngga 
+drink: inu	ínu 
+dry: magharo	marokota 
+ear: katilu	ro katílu 
+earth: tana 
+ground: tana 
+land: tana 
+soil: tana 
+eat: muyo	múyo 
+egg: tolu	tàlu-na 
+eye: mata 
+fat: habana 
+fat n.: habana 
+grease: habana 
+lubricant: habana 
+oil: habana 
+feather: wulu	wúlu 
+fire: api	aʼi 
+fish: igha	ighyo	iya	íya 
+fly: ler	leraNu	lerangu 
+fly v.: ler	leraNu	lerangu 
+foot: witi 
+good: doha	dòha	ndaha 
+green: mor	moroka 
+hair: loge	longge 
+hand: lima	limya 
+left hand: lima	limya 
+right: lima	limya 
+head: katoku	katàku 
+hear: roNo	rongo	ròngo 
+1 sg.: yayo 
+I: yayo 
+kill: hamati	pamate 
+be knowledgeable: peiging	taja-ya	tajaya 
+know: peiging	taja-ya	tajaya 
+leaf: royo	ru-n 
+lie: la-mdúru 
+lie down: la-mdúru 
+liver: ate	ati 
+long: maloyo	malòyo 
+head louse: bhei utu	bh~ei utu	bèyo 
+louse: bhei utu	bh~ei utu	bèyo 
+male: kabani	kabhani	kabh~ani 
+man: toyo	tòyo 
+flesh: kabh~iyo 
+meat: kabh~iyo 
+moon: wul	wula 
+mouth: ghoba	wabh~a	wobha 
+name: Nara	ngara	ngara-n 
+title: Nara	ngara	ngara-n 
+neck: kahoki	koku 
+new: bhango	bh~aNo	mbar 
+night: huda	hudo 
+nighttime: huda	hudo 
+nose: iru	íru 
+not: yadh~oma 
+adulterous: dhiha	dh~iha	iha 
+one: dhiha	dh~iha	iha 
+single: dhiha	dh~iha	iha 
+that: atu	ecetu	àtu 
+the: dhiha	dh~iha	iha 
+unprincipled: dhiha	dh~iha	iha 
+human: toyo	tòyo 
+human being: toyo	tòyo 
+person: toyo	tòyo 
+rain: ura 
+rainy weather: ura 
+red: dòro	weleka 
+path: lara 
+road: lara 
+route: lara 
+root: amu-n	kalarto 
+sand: halayo	moda 
+say: hanewi	panegheng 
+see: ico	ite 
+sit: lodho	lodh~o	londo 
+hide: kalico	kalito 
+skin: kalico	kalito 
+sleep: majhuru	majh~uru	mandúru 
+little: katàpa	maraha	moraha 
+small: katàpa	maraha	moraha 
+smallness: katàpa	maraha	moraha 
+smoke: koto	moto	màha api	woto 
+stand: dede 
+star: maduyo	madúyo	mèndun 
+rock: watu 
+stone: watu 
+swim: naNi	nangi	ngani 
+tail: kiku	kíku-n 
+this: yiyo	yíyo	ènen 
+2 sg: yomi	yoyo 
+thou: yomi	yoyo 
+you: yomi	yoyo 
+tongue: loma	làma 
+tooth: Nodh~u	ngodhu	wungandu 
+grind: dhu	dh~u	dua	duyo 
+two: dhu	dh~u	dua	duyo 
+go: halako	halàko 
+walk: halako	halàko 
+hot: banaha	mbonoh 
+warm: banaha	mbonoh 
+water: weiyo	wèyo 
+1 pl. inc.: ita	yama	yica	yàma 
+we: ita	yama	yica	yàma 
+we₁: ita	yama	yica	yàma 
+what: aba	payak 
+white: kaka	kakong 
+whiteness: kaka	kakong 
+who: gara-ni	garani	nggàra endi 
+who?: gara-ni	garani	nggàra endi 
+female: mawine	waricoyo 
+woman: mawine	waricoyo 
+yellow: kabunyi	kabuny~i	rar	rara 
+distant: maròyo 
+far: maròyo 
+dull: búto	mbot	mboto 
+heavy: búto	mbot	mboto 
+serious: búto	mbot	mboto 
+close: do heka	tuke 
+near: do heka	tuke 
+ner: do heka	tuke 
+salt: mohi	màhi 
+short: pondok	pàdaka 
+snake: kabhoku	malologho 
+thin: manipho	manípih 
+wind: haringi	príngi 
+earthworm: katin jolo	loti 
+worm: katin jolo	loti 
+year: dòyo 
+2 pl.: yèmi	yòmi 
+ye: yèmi	yòmi 
+you all: yèmi	yòmi 
+3 pl.: dí	hàtu 
+they: dí	hàtu 
+where: geni	nggèk 
+where?: geni	nggèk 
+when: pir	piraho 
+when?: pir	piraho 
+how: anyina	apeno 
+how?: anyina	apeno 
+other: heka	ndí díhi 
+three: tolu	tàlu	tâlu 
+four: pato	patô	pot 
+broad: bokol	boleka 
+wide: bokol	boleka 
+wideness: bokol	boleka 
+thick: makebela	tembe 
+narrow: kahikngo	khi	kàhi 
+principal wife: arawei	àri wènya 
+wife: arawei	àri wènya 
+husband: laghi-n	layi 
+his mother: inya 
+mother: inya 
+my mother: inya 
+father: ama	bapa 
+his father: ama	bapa 
+my father: ama	bapa 
+forest: kadhawu	kandaghu 
+woods: kadhawu	kandaghu 
+fruit: wú-n	wúyo 
+flower: walano	wolana 
+grass: ruba	rumba 
+cord: kaloro	kalòro 
+rope: kaloro	kalòro 
+wing: kapa	kapa-n 
+gut: tanaiyo 
+guts: tanaiyo 
+insides: tanaiyo 
+intestine: tanaiyo 
+intestines: tanaiyo 
+back: kabendo	wogo 
+suck: huhu	la-kabíkun 
+spit: la-patírun	patiru 
+vomit: muta 
+blow: harupu	prúpu 
+breath: hungoto	nga 
+breathe: hungoto	nga 
+laugh: madic	mato 
+laughter: madic	mato 
+cogitate: pangadango	pangàda 
+reflect: pangadango	pangàda 
+think: pangadango	pangàda 
+smell: ròngo	udoya 
+sniff: ròngo	udoya 
+afraid: kabohi	kambohi 
+be afraid: kabohi	kambohi 
+fear: kabohi	kambohi 
+fright: kabohi	kambohi 
+alive: mopir	morho 
+be alive: mopir	morho 
+life: mopir	morho 
+live: mopir	morho 
+living: mopir	morho 
+hunt: kalola	la-kalola 
+beat: hapalu	palu 
+hit: hapalu	palu 
+strike: hapalu	palu 
+cut: lokata	teb 
+hack: lokata	teb 
+cut open: bero	likyoto	woka 
+split: bero	likyoto	woka 
+pierce: dakor	hondu-y	tojaka 
+stab: dakor	hondu-y	tojaka 
+scratch: kayo 
+dig: koja	kondo 
+drop: kambu	kanabhu 
+fall: kambu	kanabhu 
+grasp: ketengo	ketin danggalo 
+hold: ketengo	ketin danggalo 
+hold in arm: ketengo	ketin danggalo 
+squeeze: pohlo	poloho 
+wring: pohlo	poloho 
+throw: gegi-n	wewu 
+bind: patàn	pingongo 
+fasten: patàn	pingongo 
+tie: patàn	pingongo 
+tie up: patàn	pingongo 
+sew: koti	kàtu 
+count: baghí	yapongo 
+enumerate: baghí	yapongo 
+number: baghí	yapongo 
+tally: baghí	yapongo 
+flow: doro	lalo 
+lake: hoba	hombo 
+ocean: bhonu	we màhi 
+sea: bhonu	we màhi 
+dust: karòmboko	kòbko 
+fog: habúngu	mahu lolo 
+sky: karàmba	langto 
+blaze: tunu 
+bad: bokala	ruha 
+evil: bokala	ruha 
+rot: bhòyo	boghi 
+rotten: bhòyo	boghi 
+dirty: meteng	metengu 
+filthy: meteng	metengu 
+soiled: meteng	metengu 
+sharp: loki	làki 
+blunt: kabobala	wil 
+damp: mbah	mbaha	megela 
+wet: mbah	mbaha	megela 
+right side: kawana 
+left: kale	kaleyo 
+at: la 
+in: no dalo	èla duolo 
+inside: no dalo	èla duolo 
+and: dí	loho 
+if: apen 

@@ -1,0 +1,309 @@
+all: week 
+every: week 
+ash: loʔ 
+ashes: loʔ 
+big: ḳi 
+bigness: ḳi 
+large: ḳi 
+bird: xunwat 
+bite: -ikfex 
+black: noʔ 
+blood: -athic̷	ath~ic 
+bone: -enu	-inu	enu	inu 
+breast: -eḳfutiʔ	eqfuti7 
+breasts: -eḳfutiʔ	eqfuti7 
+cloud: wasiʔ 
+cold: eneɬey 
+come: -taɬ	taL 
+come from: -taɬ	taL 
+be dead: -wam	wam 
+dead: -wam	wam 
+die: -wam	wam 
+dog: nunax 
+drink: -iyaʔ	iya7 
+dry: yisɬax 
+ear: -ekfiʔ	-ikfiʔ	ekfi7	ikfi7 
+earth: seheʔ 
+ground: seheʔ 
+land: seheʔ 
+soil: seheʔ 
+eat: -ek	-tux 
+egg: ɬihiʔ 
+eye: -toʔ	to7 
+feather: ɬewkuxux 
+fire: fet 
+fish: sehec	sehec̷ 
+fly: -nayaʔ 
+fly v.: -nayaʔ 
+foot: -fʔiʔ 
+full: topo7ox	topoʔox 
+give: -tisix	-ɬisix 
+good: -eykˀuney 
+green: sehec̷ ɬʔaftuk 
+hair: -ewkuxux	-iwkuxux 
+hand: -koy	koy 
+left hand: -koy	koy 
+right: -koy	koy 
+head: -xiɬaʔ 
+hear: -epiyeʔ	epiye7 
+heart: -ɬitiʔ 
+horn: Lekec	ɬekec̷ 
+1 sg.: y-akhaʔ	yakh~a7 
+I: y-akhaʔ	yakh~a7 
+kill: -lan 
+knee: -aḳhuc̷	aqh~uc 
+be knowledgeable: -iyayix 
+know: -iyayix 
+leaf: Lesex	ɬesex 
+lie: -w-xuʔ 
+lie down: -w-xuʔ 
+liver: -aḳɬik	aqLik 
+long: ixetaχ 
+head louse: iLe7	iiɬeʔ 
+louse: iLe7	iiɬeʔ 
+male: xukhew 
+man: xukhew 
+many: oloc̷ 
+much: oloc̷ 
+multiple: oloc̷ 
+several: oloc̷ 
+flesh: -esen 
+meat: -esen 
+moon: xuwel 
+hill: utek 
+mountain: utek 
+mouth: -exiʔ 
+name: -ii 
+title: -ii 
+neck: -wonxeʔ 
+new: ink"aki7	ink"ayik	inkˀayik 
+night: naxaX	naxaχ 
+nighttime: naxaX	naxaχ 
+nose: -enex	-inex	enex	inex 
+adulterous: aweth	ewiL 
+one: aweth	ewiL 
+single: aweth	ewiL 
+that: aweth	ewiL 
+the: aweth	ewiL 
+unprincipled: aweth	ewiL 
+rain: piɬey 
+rainy weather: piɬey 
+red: sʔeʔ 
+path: ikh~eyix 
+road: ikh~eyix 
+route: ikh~eyix 
+root: ɬefitec̷ 
+round: toofo 
+sand: isaχ 
+say: -itˀix 
+see: -wen	wen 
+seed: ɬoʔ 
+sit: -n-xuʔ 
+hide: -ax	ax 
+skin: -ax	ax 
+sleep: -maʔ 
+little: ɬammis 
+small: ɬammis 
+smallness: ɬammis 
+smoke: ɬowḳˀol 
+star: footekiʔ	foteki7	woki7 
+rock: ute 
+stone: ute 
+sun: xunu7	xunuʔ 
+swim: -amkii 
+tail: ɬahac̷xiʔ 
+2 sg: akhaʔ	akh~a7 
+thou: akhaʔ	akh~a7 
+you: akhaʔ	akh~a7 
+tongue: -lepep	lepep 
+tooth: -kˀunhetiʔ	k"unh~eti7 
+tree: nakak 
+grind: wats’huk	wecx~uk	wec̷xuk 
+two: wats’huk	wecx~uk	wec̷xuk 
+go: -oc̷xoʔ 
+walk: -oc̷xoʔ 
+hot: exupuy 
+warm: exupuy 
+water: iweli 
+1 pl. inc.: inekhewel	inekhewelkiʔ	inekh~ewel	inekh~ewelki7 
+we: inekhewel	inekhewelkiʔ	inekh~ewel	inekh~ewelki7 
+we₁: inekhewel	inekhewelkiʔ	inekh~ewel	inekh~ewelki7 
+what: ɬek 
+white: foʔ 
+whiteness: foʔ 
+who: ɬek 
+who?: ɬek 
+female: efu 
+woman: efu 
+yellow: maxa 
+distant: toχ-ii 
+far: toχ-ii 
+dull: niihet 
+heavy: niihet 
+serious: niihet 
+close: -met-im	met 
+near: -met-im	met 
+ner: -met-im	met 
+salt: witlepinek 
+short: ikˀaxiyit 
+snake: ḳˀoy-ḳˀoy 
+thin: elesey 
+wind: tˀunikˀi 
+earthworm: ḳˀoy-ḳˀoḳˀoy 
+worm: ḳˀoy-ḳˀoḳˀoy 
+year: ininḳap 
+2 pl.: ekhewel-iɬ 
+ye: ekhewel-iɬ 
+you all: ekhewel-iɬ 
+3 pl.: ec̷iween 
+they: ec̷iween 
+where: pan 
+where?: pan 
+when: pan ipɬuʔ-u-kˀuy 
+when?: pan ipɬuʔ-u-kˀuy 
+how: pan ɬunyex 
+how?: pan ɬunyex 
+some: na-ax	ne-ex 
+few: ɬamisɬeʔ 
+three: wats’chat-cho-weth	wec̷hetkˀ-ewił 
+four: ig-wat-kuth	ikwetxuɬ 
+five: aweth-tats’hai	leefix 
+broad: epkˀec̷aχ 
+wide: epkˀec̷aχ 
+wideness: epkˀec̷aχ 
+fat: -uxeʔ 
+thick: tapɬi 
+narrow: epkˀiyit 
+child: ome-ɬas 
+principal wife: -ewheyeʔ	-iwheyeʔ 
+wife: -ewheyeʔ	-iwheyeʔ 
+husband: -ewheyeʔ	-iwheyeʔ 
+his mother: -nene 
+mother: -nene 
+my mother: -nene 
+father: -tata 
+his father: -tata 
+my father: -tata 
+animal: inḳamet 
+forest: ɬeneʔ 
+woods: ɬeneʔ 
+branch: ɬakxiʔ 
+stick: ɬakxiʔ 
+fruit: ɬeʔ 
+flower: ɬʔopˀom 
+grass: xupˀel 
+cord: niyak 
+rope: niyak 
+grease: -uxeʔ 
+claw: -ḳofol 
+fingernail: -ḳofol 
+nail: -ḳofol 
+leg: -ḳanaxak 
+wing: ɬef 
+gut: -χatay 
+guts: -χatay 
+insides: -χatay 
+intestine: -χatay 
+intestines: -χatay 
+back: -anu 
+suck: -tufix	-ɬufix 
+spit: -kˀii 
+vomit: -ekuykii 
+blow: -fuyu 
+breath: -uɬayxey 
+breathe: -uɬayxey 
+laugh: -ixuyekii 
+laughter: -ixuyekii 
+cogitate: -xamtikii 
+reflect: -xamtikii 
+think: -xamtikii 
+smell: -enxeyiyix 
+sniff: -enxeyiyix 
+afraid: -ixiweyaχ 
+be afraid: -ixiweyaχ 
+fear: -ixiweyaχ 
+fright: -ixiweyaχ 
+alive: -iɬaχ 
+be alive: -iɬaχ 
+life: -iɬaχ 
+live: -iɬaχ 
+living: -iɬaχ 
+fight: -ixen	-watlan 
+hunt: -xalkis 
+beat: -lanix 
+hit: -lanix 
+strike: -lanix 
+cut: -isaχi 
+hack: -isaχi 
+cut open: -apkˀasitxem 
+split: -apkˀasitxem 
+pierce: -tixem	-ɬixem 
+stab: -tixem	-ɬixem 
+dig: -tixxuʔ	-ɬixxuʔ 
+tell lies: -ḳankii 
+stand: -c̷ˀapˀa 
+turn: -feyeykii 
+turn around: -feyeykii 
+turn round: -feyeykii 
+drop: -am-xuʔ 
+fall: -am-xuʔ 
+grasp: -kumi-kii 
+hold: -kumi-kii 
+hold in arm: -kumi-kii 
+squeeze: -ḳesuxaχ 
+wring: -ḳesuxaχ 
+rub: -osxaʔ 
+wipe: -osxaʔ 
+wash: -empulix	-empuxin 
+wash clothes: -empulix	-empuxin 
+push: -wum 
+shove: -wum 
+throw: -xeleʔ 
+bind: -opheɬ 
+fasten: -opheɬ 
+tie: -opheɬ 
+tie up: -opheɬ 
+sew: -tiɬ 
+count: -xeyumc̷hen 
+enumerate: -xeyumc̷hen 
+number: -xeyumc̷hen 
+tally: -xeyumc̷hen 
+sing: -lixc̷ii 
+have fun: -otoy 
+play: -otoy 
+flow: xey naʔ haḳḳiʔ 
+brook: haḳḳiʔ 
+river: haḳḳiʔ 
+stream: haḳḳiʔ 
+ocean: ḳi iweli 
+sea: ḳi iweli 
+dust: ɬʔeḳhip 
+fog: xunkhay 
+sky: was 
+snow: ɬʔifiwaχ 
+ice: ɬʔifiwaχ 
+blaze: -tuxxem	-wuxkin 
+burn: -tuxxem	-wuxkin 
+day: neɬu 
+daylight: neɬu 
+daytime: neɬu 
+bad: uɬʔaχ 
+evil: uɬʔaχ 
+rot: ɬoḳˀoḳxiʔ 
+rotten: ɬoḳˀoḳxiʔ 
+dirty: -xilii 
+filthy: -xilii 
+soiled: -xilii 
+straight: -ac̷athen 
+sharp: yasɬax 
+blunt: niteʔ yasɬax 
+smooth: leeme 
+damp: weyxuʔ 
+wet: weyxuʔ 
+correct: hac̷ ɬewis 
+right side: -iyayikˀiʔ 
+left: -feyix 
+in: texem 
+inside: texem 
+and: ḳa 
+because: ḳe 

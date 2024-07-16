@@ -1,0 +1,279 @@
+all: suniʌ | sunia	suniʌ 
+all: sunia | sunia	suniʌ 
+all: sunië | sunia	suniʌ 
+arm: sone 
+arm: sòne 
+arm: sɔne 
+ashes: dewoiya | dewoiya	tefene 
+ashes: tefene | dewoiya	tefene 
+back: faiso 
+back: faisɔ 
+bark: i patɔ | i patɔ	i tomala 
+bark: i tomala | i patɔ	i tomala 
+belly: kubò | kubɔ	kuf 
+belly: kubɔ | kubɔ	kuf 
+belly: kuf | kubɔ	kuf 
+big: bihe | bihe	bule 
+big: bule | bihe	bule 
+bird: haga | haga	haka 
+bird: haka | haga	haka 
+bite: mubugasu | mubugasu	mulu 
+bite: mulu | mubugasu	mulu 
+black: yabulu 
+blood: ibi 
+bone: kiwi 
+breast: bu 
+burn: dena͂ basami 
+burn: denã basami 
+burn: denambasamu 
+burn: denam-basamu 
+cassowary: faiulu 
+claw: ifini | ?sone	ifini 
+claw: sona(\) | ?sone	ifini 
+claw: ?sone | ?sone	ifini 
+cloud: kene | kene	keni 
+cloud: keni | kene	keni 
+cold: badife | badife	poti 
+cold: poti | badife	poti 
+come: mila 
+die: oralu 
+dog: gesu | gesu	keso	kesɔ 
+dog: kesò | gesu	keso	kesɔ 
+dog: kesɔ | gesu	keso	kesɔ 
+drink: namena 
+dry: falalu 
+ear: kòheni | koheni	koneni	kɔheni 
+ear: kɔheni | koheni	koneni	kɔheni 
+ear: koneni | koheni	koneni	kɔheni 
+earth: hele 
+eat: namana | namana	namena 
+eat: namena | namana	namena 
+egg: hokaisu | hokaisu	sɔ 
+egg: hoka-isu | hokaisu	sɔ 
+egg: sò | hokaisu	sɔ 
+egg: sɔ | hokaisu	sɔ 
+emu: faiulu 
+eye: si 
+father: naò 
+father: naɔ 
+fat (n.): safe 
+fat (n.): sa͂fe͂ 
+fat (n.): sãfẽ 
+feather: alu | alu	hoga alu 
+feather: (hoga) alu | alu	hoga alu 
+feather: hoga alu | alu	hoga alu 
+fire: de | de	ti 
+fire: ti | de	ti 
+fish: hani 
+fly (v.): hauba afe 
+fly (v.): haubaːfe 
+full: wasigafe | wasiga*nu	wasigafe	wasig̃nu 
+full: wasigãnu | wasiga*nu	wasigafe	wasig̃nu 
+full: wasig͂nu | wasiga*nu	wasigafe	wasig̃nu 
+give: mema | mema	mẽma 
+give: me͂ma | mema	mẽma 
+good: nafulu 
+green: imòlòlu | imorolu	imɔlɔlu 
+green: imɔlɔlu | imorolu	imɔlɔlu 
+green: imorolu | imorolu	imɔlɔlu 
+hair: alu | alu	kuni alu 
+hair: (kuni) alu | alu	kuni alu 
+hair: kuni alu | alu	kuni alu 
+head: kuni 
+hear: doma | doma	to	tɔma 
+hear: tòma | doma	to	tɔma 
+hear: tɔma | doma	to	tɔma 
+heart: sogo 
+I: na 
+kill: dawalife | dawalife	tuma 
+kill: tuma | dawalife	tuma 
+knee: emò hògònòmò | emo hogulumo	emɔ hɔgɔnɔmɔ	hogonomo 
+knee: emɔ hɔgɔnɔmɔ | emo hogulumo	emɔ hɔgɔnɔmɔ	hogonomo 
+knee: emo hogulumo | emo hogulumo	emɔ hɔgɔnɔmɔ	hogonomo 
+knee: emo hogu(umo) | emo hogulumo	emɔ hɔgɔnɔmɔ	hogonomo 
+know: asigibu | asigibu	dawalife 
+know: dawalife | asigibu	dawalife 
+leaf: iwalu | iwalu	walu 
+leaf: (i-)walu | iwalu	walu 
+leaf: walu | iwalu	walu 
+leg: emo 
+leg: emò 
+leg: emɔ 
+lie: faisuisosu | faisuisosu	hanema 
+lie: faisusosu | faisuisosu	hanema 
+lie: hanema | faisuisosu	hanema 
+lie: hane-ma | faisuisosu	hanema 
+liver: yagu 
+long: sedale 
+louse: fe | fe* 
+louse: fe͂ | fe* 
+louse: fẽ | fe* 
+man: inòlò | inolo	inoro 
+man: inɔlɔ | inolo	inoro 
+man: inoro | inolo	inoro 
+many: bule 
+meat: hu 
+meat: hu͂ 
+meat: hũ 
+moon: auba | auba	aube 
+moon: aube | auba	aube 
+mother: nae 
+mountain: gali 
+mouth: mofaio | mofaio	mɔfeyɔ̃ 
+mouth: mòfeyɔ̃ | mofaio	mɔfeyɔ̃ 
+mouth: mɔfeyɔ͂ | mofaio	mɔfeyɔ̃ 
+name: wi 
+neck: gifigi | gifigi	gifɔkɔlɔ 
+neck: gifòkòlò | gifigi	gifɔkɔlɔ 
+neck: gifɔkɔlɔ | gifigi	gifɔkɔlɔ 
+new: hili | ?hili	hili 
+new: ?hili | ?hili	hili 
+new: hili(\) | ?hili	hili 
+night: nigili | nigili	nigiliba 
+night: nigiliba | nigili	nigiliba 
+night: nigili(ba) | nigili	nigiliba 
+nose: mĩ | mi	mi*	mĩ 
+nose: mo | mi	mi*	mĩ 
+not: -ale | -ale	tuma 
+not: tuma | -ale	tuma 
+one: agale | agale	ɑʼɡɛlɛ 
+person: inoro | inolo	inoro 
+rain: hele | hele	sugafe 
+rain: sugafe | hele	sugafe 
+red: kenelu 
+road: eno 
+road: enò | eno 
+road: enɔ | eno 
+root: efoto | efoto	efɔtɔ 
+root: efòtò | efoto	efɔtɔ 
+root: efɔtɔ | efoto	efɔtɔ 
+round: yadalu 
+round: yadulu | yadalu 
+sand: bose 
+say: sama | bose 
+say: sa͂ma | bose 
+say: sãma | bose 
+see: bama | ba	bama 
+seed: etò | etɔ	tubo 
+seed: etɔ | etɔ	tubo 
+seed: tubo | etɔ	tubo 
+shoulder: kilele 
+sit: mesa 
+skin: tomola | tomola	tɔmɔla 
+skin: tòmòla | tomola	tɔmɔla 
+skin: tɔmɔla | tomola	tɔmɔla 
+sleep: hane | hane	hanema 
+sleep: hanema | hane	hanema 
+sleep: hane(ma) | hane	hanema 
+small: wadino | wadino	wedinɔ 
+small: wedinò | wadino	wedinɔ 
+small: wedinɔ | wadino	wedinɔ 
+smoke: dekaua | dekaua	tikawa 
+smoke: de-kaua | dekaua	tikawa 
+smoke: tikawa | dekaua	tikawa 
+smoke: ti-kawa | dekaua	tikawa 
+stand: degemela 
+star: sigabe | sigabe	sigabi 
+star: sigabi | sigabe	sigabi 
+stone: abane 
+sun: haro | haro	holo	hɔlɔ 
+sun: hòlò | haro	holo	hɔlɔ 
+sun: hɔlɔ | haro	holo	hɔlɔ 
+swim: hanodasasu | hanodasasu	tasafe 
+swim: hanodasusu | hanodasasu	tasafe 
+swim: tasafe | hanodasasu	tasafe 
+tail: tòfanò | tɔfanɔ	wafe 
+tail: tɔfanɔ | tɔfanɔ	wafe 
+tail: wafe | tɔfanɔ	wafe 
+tail: (wafe) | tɔfanɔ	wafe 
+that: amo | amo	amɔ 
+that: amò | amo	amɔ 
+that: amɔ | amo	amɔ 
+this: ewe 
+thou: ka 
+tongue: eane | Eane	eane	ɛane 
+tongue: èane | Eane	eane	ɛane 
+tongue: ɛane | Eane	eane	ɛane 
+tooth: pese 
+tree: i 
+two: aganebo | aganebo	aida	ɑɡɑʼnɛbo 
+two: agenebo | aganebo	aida	ɑɡɑʼnɛbo 
+two: aida | aganebo	aida	ɑɡɑʼnɛbo 
+walk: afe͂ | afẽ 
+walk: afẽ | afẽ 
+warm: harofe 
+warm: haròfe 
+warm: harɔfe 
+water: hano | hano	hanɔ 
+water: hanò | hano	hanɔ 
+water: hanɔ | hano	hanɔ 
+we (incl.): nini 
+we: nini 
+what: ena | ena	ene 
+what: ene | ena	ene 
+white: holu | holu	hɔlu 
+white: hòlu | holu	hɔlu 
+white: hɔlu | holu	hɔlu 
+white: yabulu | holu	hɔlu 
+who: abe | abe	nɔe 
+who: nòe | abe	nɔe 
+who: nɔe | abe	nɔe 
+wing: awi 
+woman: ido | ido	idɔ 
+woman: idò | ido	idɔ 
+woman: idɔ | ido	idɔ 
+yellow: wanolu | wanolu	wanɔlu 
+yellow: wanòlu | wanolu	wanɔlu 
+yellow: wanɔlu | wanolu	wanɔlu 
+every: sunia	suniʌ 
+ash: dewoiya	tefene 
+abdomen: kubɔ	kuf 
+bigness: bihe	bule 
+large: bihe	bule 
+breasts: bu 
+nail: ?sone	ifini 
+talon: ?sone	ifini 
+come from: mila 
+be dead: oralu 
+dead: oralu 
+ground: hele 
+land: hele 
+soil: hele 
+fly: hauba afe	haubaːfe 
+fly v.: hauba afe	haubaːfe 
+hand: sone 
+left hand: sone 
+right: sone 
+1 sg.: na 
+be knowledgeable: asigibu	dawalife 
+lie down: faisuisosu	hanema 
+head louse: fe* 
+male: inoro	inɔlɔ 
+much: bule 
+multiple: bule 
+several: bule 
+hill: gali 
+title: wi 
+nighttime: nigili	nigiliba 
+adulterous: agale	ɑʼɡɛlɛ 
+single: agale	ɑʼɡɛlɛ 
+the: agale	ɑʼɡɛlɛ 
+unprincipled: agale	ɑʼɡɛlɛ 
+human: inolo	inoro 
+human being: inolo	inoro 
+rainy weather: hele	sugafe 
+path: eno 
+route: eno 
+hide: tomola	tɔmɔla 
+little: wadino	wedinɔ 
+smallness: wadino	wedinɔ 
+rock: abane 
+2 sg: ka 
+you: ka 
+grind: aganebo	aida	ɑɡɑʼnɛbo 
+go: afẽ 
+1 pl. inc.: nini 
+we₁: nini 
+whiteness: holu	hɔlu 
+who?: abe	nɔe 
+female: ido	idɔ 

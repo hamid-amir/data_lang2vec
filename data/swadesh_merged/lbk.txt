@@ -1,0 +1,266 @@
+all: qamʼqin	ʔamʔin 
+every: qamʼqin	ʔamʔin 
+ash: dapúl	daʼpol 
+ashes: dapúl	daʼpol 
+abdomen: poʼto	putú 
+belly: poʼto	putú 
+big: dakə́l	daʼkɨl 
+bigness: dakə́l	daʼkɨl 
+large: dakə́l	daʼkɨl 
+bird: qinʼyolan	ʔinyúlan 
+bite: kətə́b	kɨʼtɨb 
+black: ngísit	ʼngitit 
+blood: dala	dála	ʼdala 
+bone: tongʼqal	tuN7~al	túŋʔal 
+breast: kigkigʼqiw	susu	súsu	ʼsoso 
+breasts: kigkigʼqiw	susu	súsu	ʼsoso 
+burn: púʔul	toʼyaw 
+burn tr.: púʔul	toʼyaw 
+cloud: liboʼqo	libúʔu 
+cold: latə́ŋ	tɨʼlɨk 
+come: ali	ʔáli 
+come from: ali	ʔáli 
+be dead: mat3y	matə́y	naʼtiy 
+dead: mat3y	matə́y	naʼtiy 
+die: mat3y	matə́y	naʼtiy 
+dog: asu	ʔásu	ʼqaso 
+drink: inum	qiʼnom	ʔinúm 
+dry: naklúŋ	namagqaʼnan	namagʔanán	qisapʼqiy	ʔisít 
+ear: kul3N	kúləŋ	ʼkolɨng 
+eat: kanə́n	maŋán	maʼngan 
+egg: qitʼlog	ʔítlug 
+eye: mata	matá	maʼta 
+feather: dútdut	laʼwi 
+fire: apuy	qaʼpoy	ʔapúy 
+fish: gadiw	gadíw	gaʼdɨw 
+fly: táyaw	ʼtayaw 
+fly v.: táyaw	ʼtayaw 
+good: gawís	gaʼwis 
+green: kagqaʼngɨl	kagʔaŋə́l 
+hair: boʼqok	buʔúk 
+hand: lima	limá	liʼma 
+left hand: lima	limá	liʼma 
+right: lima	limá	liʼma 
+head: ʔúlu	ʼqolo 
+hear: daN3l	daŋə́l	dɨʼngɨl 
+1 sg.: -ak	-ku	ak	sak7~3n	sakʔə́n 
+I: -ak	-ku	ak	sak7~3n	sakʔə́n 
+kill: patayə́n	paʼtɨy 
+be knowledgeable: gətkən	maŋták [gətə́k]	qamʼmo	ʔámmú 
+know: gətkən	maŋták [gətə́k]	qamʼmo	ʔámmú 
+leaf: tubu	tubuna	túbu[na]	ʼtobo 
+lie: likə́w 
+lie down: likə́w 
+liver: agt3y	qagʼtɨy	ʔágtəy 
+long: qanʼdo	ʔándu 
+head louse: kutu	kútu	ʼkoto 
+louse: kutu	kútu	ʼkoto 
+male: laláki	laʼlaki	láki 
+man: ipugaw	qipoʼgaw	tagu	tágu	ʔipugáw 
+moon: búlan	ʼbolan 
+mouth: toʼpɨk	tupə́k 
+name: Nadan	ŋádan	ʼngadan 
+title: Nadan	ŋádan	ʼngadan 
+neck: bagáŋ	baʼgang 
+new: balu	balú	baʼlo 
+night: labi	labí	laʼbi 
+nighttime: labi	labí	laʼbi 
+nose: 3N3l	qɨʼngɨl	ʔəŋə́l 
+adulterous: 3sa	mi	qisá	qɨʼsa	sit	ʔəsá 
+one: 3sa	mi	qisá	qɨʼsa	sit	ʔəsá 
+single: 3sa	mi	qisá	qɨʼsa	sit	ʔəsá 
+that: dí	də́ʔəy	sá	sána	tudí	tusá	túdʔi	túsʔa 
+the: 3sa	mi	qisá	qɨʼsa	sit	ʔəsá 
+unprincipled: 3sa	mi	qisá	qɨʼsa	sit	ʔəsá 
+human: ipugaw	qipoʼgaw	tagu	tágu	ʔipugáw 
+human being: ipugaw	qipoʼgaw	tagu	tágu	ʔipugáw 
+person: ipugaw	qipoʼgaw	tagu	tágu	ʔipugáw 
+rain: qoʼdan	ʔudán 
+rainy weather: qoʼdan	ʔudán 
+red: ngayangʼqa	ŋayáŋʔa 
+path: dalan	dálan 
+road: dalan	dálan 
+route: dalan	dálan 
+root: lamút	laʼmot 
+sand: lagán	laʼgan 
+say: kanán	kaʼnan	kumwáni	maŋwáni 
+see: ila	ʔíla	ʼqila 
+sit: patúŋ	paʼtong 
+hide: kopʼkop	kupkup	kúd:l	kúpkup	lapdut	lapdút 
+skin: kopʼkop	kupkup	kúd:l	kúpkup	lapdut	lapdút 
+sleep: sə́yəp	ʼsɨyɨp 
+little: banʼqig	bánʔig 
+small: banʼqig	bánʔig 
+smallness: banʼqig	bánʔig 
+smoke: gasúk	gaʼsok 
+star: talaw	taláw	taʼlaw 
+rock: batu	batú	baʼto 
+stone: batu	batú	baʼto 
+swim: kiyát	kiʼyat 
+tail: ʔípus	ʼqipos 
+this: ná	náʔay	tuná	túnʔa 
+2 sg: -ka	-mu /-m	sikoa	sikʔá 
+thou: -ka	-mu /-m	sikoa	sikʔá 
+you: -ka	-mu /-m	sikoa	sikʔá 
+tongue: dila	díla	ʼdila 
+tooth: bab7~a	babʼqa	bábʔa 
+grind: dowá	doʼwa	duwa	duwá	dəwʔə́n 
+two: dowá	doʼwa	duwa	duwá	dəwʔə́n 
+go: manálan	maʼnalan (ʼdalan) 
+walk: manálan	maʼnalan (ʼdalan) 
+hot: púdut	qatong 
+warm: púdut	qatong 
+water: danum	danúm	daʼnom 
+1 pl. inc.: -kamí	-mi	-takú	dakamí	dataku	datakú	taku 
+we: -kamí	-mi	-takú	dakamí	dataku	datakú	taku 
+we₁: -kamí	-mi	-takú	dakamí	dataku	datakú	taku 
+what: nə	nɨ	ʔay nə kan 
+white: potaʼqak	putaʔák 
+whiteness: potaʼqak	putaʔák 
+who: sínu	ʼsino 
+who?: sínu	ʼsino 
+female: babáʔi	baʼbaqi	báʔi 
+woman: babáʔi	baʼbaqi	báʔi 
+yellow: kagʼkonɨg 
+distant: qaʼdawwi	ʔadáwwi 
+far: qaʼdawwi	ʔadáwwi 
+dull: dagʼsɨn	dágsən 
+heavy: dagʼsɨn	dágsən 
+serious: dagʼsɨn	dágsən 
+close: qasagʼqɨn	ʔaśagʔən 
+near: qasagʼqɨn	ʔaśagʔən 
+ner: qasagʼqɨn	ʔaśagʔən 
+salt: qaʼsin	ʔasín 
+short: qapʼtik	ʔáptik	ʔástik 
+snake: qoʼwal	ʔuwál 
+thin: yákut	ʼyapit 
+wind: latə́ŋ	laʼtɨng 
+earthworm: kəláŋ	kɨʼlang 
+worm: kəláŋ	kɨʼlang 
+year: tawə́n	taʼwɨn 
+2 pl.: -kayú	-yu	dakayú 
+ye: -kayú	-yu	dakayú 
+you all: -kayú	-yu	dakayú 
+3 pl.: -da	daʔidá	didá 
+they: -da	daʔidá	didá 
+where: qinto	ʔandə́	ʔíntu 
+where?: qinto	ʔandə́	ʔíntu 
+when: qad kaʼqat na	ʔad kamána	ʔad kaʔátna	ʔas kamána	ʔas kaʔátna 
+when?: qad kaʼqat na	ʔad kamána	ʔad kaʔátna	ʔas kamána	ʔas kaʔátna 
+how: kaʼqat na 
+how?: kaʼqat na 
+other: təkə́n	tɨʼkɨn 
+three: toló	toʼlo	tulú 
+four: qipát	qɨʼpat	âpat	ʔəpát 
+five: lima	li´ma	liʼma 
+broad: qɨwʼwa	ʔəwwá 
+wide: qɨwʼwa	ʔəwwá 
+wideness: qɨwʼwa	ʔəwwá 
+fat: biʼlat	tabá 
+thick: sədə́l	sɨʼdɨl 
+narrow: lipít	liʼpit 
+principal wife: asáwa	qaʼsawa 
+wife: asáwa	qaʼsawa 
+husband: asáwa	qaʼsawa 
+his mother: qiʼna	ʔiná	ʔɪ́na 
+mother: qiʼna	ʔiná	ʔɪ́na 
+my mother: qiʼna	ʔiná	ʔɪ́na 
+father: qaʼma	ʔamá	ʔáma 
+his father: qaʼma	ʔamá	ʔáma 
+my father: qaʼma	ʔamá	ʔáma 
+forest: kakaʼqɨwan	kapágpag 
+woods: kakaʼqɨwan	kapágpag 
+branch: paŋa	pátiŋ 
+stick: paŋa	pátiŋ 
+fruit: bagás[na]	bɨʼgas 
+flower: sabsábuŋ	sabʼsabong 
+grass: lúgam 
+cord: talí	taʼli 
+rope: talí	taʼli 
+flesh: bəgás 
+meat: bəgás 
+grease: biʼlat	tabá 
+wing: payák	paʼyak 
+gut: poʼto	putú 
+guts: poʼto	putú 
+insides: poʼto	putú 
+intestine: poʼto	putú 
+intestines: poʼto	putú 
+back: qɨʼdɨg	ʔədə́g 
+suck: sopʼsop	súpsup	súsu	súsup 
+spit: túbba	ʼtobba 
+vomit: ʔúta	ʼqota 
+blow: qaʼyop	ʔinlatəŋ	ʔinsíbud	ʔinsúpʔuk	ʔinʔayúp 
+breath: in angesh	ʔáŋəs 
+breathe: in angesh	ʔáŋəs 
+laugh: qɨʼyɨk	ʔiyə́k 
+laughter: qɨʼyɨk	ʔiyə́k 
+cogitate: in semek	səmə́k 
+reflect: in semek	səmə́k 
+think: in semek	səmə́k 
+smell: súŋsuŋ	ʼsongsong 
+sniff: súŋsuŋ	ʼsongsong 
+afraid: qɨgʼyat	ʔə́gyat 
+be afraid: qɨgʼyat	ʔə́gyat 
+fear: qɨgʼyat	ʔə́gyat 
+fright: qɨgʼyat	ʔə́gyat 
+alive: tágu 
+be alive: tágu 
+life: tágu 
+live: tágu 
+living: tágu 
+hunt: qaʼnop	ʔánup 
+beat: pákʔul	páŋʔul 
+hit: pákʔul	páŋʔul 
+strike: pákʔul	páŋʔul 
+cut: bákag	ʼgɨgɨd 
+hack: bákag	ʼgɨgɨd 
+cut open: balsig	delsig	deltak	gigʔi	pitak	pásək	tampak	tampaŋ	walakwak	walay 
+split: balsig	delsig	deltak	gigʔi	pitak	pásək	tampak	tampaŋ	walakwak	walay 
+pierce: bádyuk	ʼbadyok 
+stab: bádyuk	ʼbadyok 
+scratch: gogʼqo	gúgʔu	taʼtil 
+dig: gúbaŋ	kaʼqoban	káʔub	kúbub 
+stand: takʼdɨg	tákdəg 
+drop: yakáyak	ʔəpás	ʼqɨkdag 
+fall: yakáyak	ʔəpás	ʼqɨkdag 
+grasp: qɨgʼnan	ʔəgnán 
+hold: qɨgʼnan	ʔəgnán 
+hold in arm: qɨgʼnan	ʔəgnán 
+squeeze: kɨmʼkɨm	pisít 
+wring: kɨmʼkɨm	pisít 
+throw: təpʔal	tɨpʼqal 
+bind: baʼqod	takə́d 
+fasten: baʼqod	takə́d 
+tie: baʼqod	takə́d 
+tie up: baʼqod	takə́d 
+sew: dáʔit	ʼdaqit 
+count: bílaŋ	ʼbilang 
+enumerate: bílaŋ	ʼbilang 
+number: bílaŋ	ʼbilang 
+tally: bílaŋ	ʼbilang 
+flow: búlus	ʔáyus 
+lake: poʼsong	pusúŋ 
+ocean: bayʼbay	báybay 
+sea: bayʼbay	báybay 
+dust: dapúl	daʼpol	tápuk	ʔabú 
+fog: libúʔu 
+sky: dáya	ʼdaya 
+bad: lawá	ŋáʔag	ʼngaqag 
+evil: lawá	ŋáʔag	ʼngaqag 
+rot: bulúk	nabʼlok 
+rotten: bulúk	nabʼlok 
+dirty: kálət	ʼkalɨt 
+filthy: kálət	ʼkalɨt 
+soiled: kálət	ʼkalɨt 
+sharp: manʼbɨng (tɨʼbɨng)	təbə́ŋ 
+blunt: naqoʼpɨd	ʔúpəd 
+damp: qɨʼbɨl	ʔəbə́l 
+wet: qɨʼbɨl	ʔəbə́l 
+right side: kannaʼwan	ʔawán 
+left: kanniʼgid	ʔigíd 
+at: ʔad	ʔas 
+in: ʔas dáləm 
+inside: ʔas dáləm 
+and: ya 
+if: mo	mu 

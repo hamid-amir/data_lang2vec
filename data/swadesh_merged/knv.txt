@@ -1,0 +1,430 @@
+all: ahidio nomo | ahidio nomo	hirionomo 
+all: hirionomo | ahidio nomo	hirionomo 
+arm: kokoto 
+arm: kokotope 
+arm: koto 
+arm: la 
+arm: okope 
+ashes: ower | towe	tuwi 
+ashes: towe | towe	tuwi 
+ashes: tuwai | towe	tuwi 
+ashes: tuwi | towe	tuwi 
+bad: kubala 
+bark: tama 
+belly: babe | babe	tepo	teːpo 
+belly: tepo | babe	tepo	teːpo 
+belly: te:po | babe	tepo	teːpo 
+belly: terpo | babe	tepo	teːpo 
+big: ola 
+bird: epehue | epehue	hola	holaː 
+bird: hola(:) | epehue	hola	holaː 
+bird: holaː | epehue	hola	holaː 
+bird: ipoipo | epehue	hola	holaː 
+bird: ola | epehue	hola	holaː 
+bite: tea:lo | gaha teaːlo	teaːlo 
+black: bumi-bumi | bumi bumi	bumi-bumi 
+blood: awi | dede	hauwi	hawi	haw~i	haᵘwi 
+blood: dede | dede	hauwi	hawi	haw~i	haᵘwi 
+blood: haʷi | dede	hauwi	hawi	haw~i	haᵘwi 
+blood: hauwi | dede	hauwi	hawi	haw~i	haᵘwi 
+blood: hawi | dede	hauwi	hawi	haw~i	haᵘwi 
+blood: karima | dede	hauwi	hawi	haw~i	haᵘwi 
+bone: goha(:) | goha	gohaː	mabugoha 
+bone: gohaː | goha	gohaː	mabugoha 
+bone: gowa | goha	gohaː	mabugoha 
+bone: mabugoha | goha	gohaː	mabugoha 
+bone: oro | goha	gohaː	mabugoha 
+branch: gedawa 
+branch: katomo 
+branch: waier 
+breast: amo | nono	nornor 
+breast: nono | nono	nornor 
+breast: nornor | nono	nornor 
+breast: yihi | nono	nornor 
+burn: eiwe 
+butterfly: tauta 
+butterfly: tauwa 
+cassowary: daguri 
+cassowary: diwale 
+cassowary: diware 
+child: amuga 
+child: gugudi 
+child: udabo 
+claw: pi:tu | piːtu	ɸiːtu 
+cloud: bubu 
+cold: giba-giba la | giba-giba la	giba-giba-ra	gibagiba	gibagiba la	gibagiba-ra 
+cold: gibagiba la | giba-giba la	giba-giba-ra	gibagiba	gibagiba la	gibagiba-ra 
+cold: giba-giba-ra | giba-giba la	giba-giba-ra	gibagiba	gibagiba la	gibagiba-ra 
+come: mäpä | m3p3	mäpä	ne-pe	nepe	nɛpɛ 
+come: mäpä | m3p3	mäpä	ne-pe	nepe	nɛpɛ 
+come: ne-pe | m3p3	mäpä	ne-pe	nepe	nɛpɛ 
+crocodile: bedora 
+crocodile: nakora 
+crocodile: wakai 
+dance: (ne) mae 
+die: ehwe | ehwe	n3huita	nähui ta	nähuíta 
+die: nähuíta | ehwe	n3huita	nähui ta	nähuíta 
+die: nähui ta | ehwe	n3huita	nähui ta	nähuíta 
+dog: erka | gaha	taia 
+dog: gaha | gaha	taia 
+dog: taia | gaha	taia 
+drink: nene | nana	nene	nɛnɛ 
+drink: nɛnɛ | nana	nene	nɛnɛ 
+dry: gagale | gagale	gagale-la	gagalela 
+dry: gagale(la) | gagale	gagale-la	gagalela 
+ear: epate | galo	nabu 
+ear: galo | galo	nabu 
+ear: garo | galo	nabu 
+ear: nabu | galo	nabu 
+earth: aka | aka	hopu 
+earth: gebeto | aka	hopu 
+earth: hopu | aka	hopu 
+earth: sob-keri | aka	hopu 
+eat: hena | hena	hɛna	neːna	nɛːna 
+eat: hɛna | hena	hɛna	neːna	nɛːna 
+eat: ne:na | hena	hɛna	neːna	nɛːna 
+egg: kikipo | kikipo	unawi 
+egg: kikop | kikipo	unawi 
+egg: kikopu | kikipo	unawi 
+egg: unawi | kikipo	unawi 
+elbow: bukamu 
+elbow: koto-poko 
+elbow: papu 
+eye: badi | badi	baidi	bayi	baⁱdi	kikipo 
+eye: baʲi | badi	baidi	bayi	baⁱdi	kikipo 
+eye: baidi | badi	baidi	bayi	baⁱdi	kikipo 
+eye: baridi | badi	baidi	bayi	baⁱdi	kikipo 
+eye: edepapu | badi	baidi	bayi	baⁱdi	kikipo 
+eye: kikipo | badi	baidi	bayi	baⁱdi	kikipo 
+face: galowe 
+face: koroa 
+face: oroa 
+father: aba 
+father: ada 
+father: mani 
+father: nabi 
+fat (n.): gadi 
+feather: gaweho | gaweho	kieri	kiɛri	patamu 
+feather: kieri | gaweho	kieri	kiɛri	patamu 
+feather: patama | gaweho	kieri	kiɛri	patamu 
+feather: patamu | gaweho	kieri	kiɛri	patamu 
+finger: ipwipu 
+finger: kauto 
+finger: kawoto 
+finger: kekeho 
+finger: koto 
+finger: koto-giri 
+fingernail: pitu 
+fire: era | koe	koer	kue	kueː 
+fire: koe | koe	koer	kue	kueː 
+fire: koer | koe	koer	kue	kueː 
+fire: kue: | koe	koer	kue	kueː 
+fish: daha | daha	dahʌ 
+fish: namo | daha	dahʌ 
+five: bubumi 
+five: ikopia 
+flower: kopa 
+flower: ura 
+fly (n.): ikoko 
+fly (n.): ume 
+fly (v.): epwida 
+fly (v.): hiku-hiku 
+foot: agoa-pata | natopata	natoɸata	natutuma	pata 
+foot: (nato)pata | natopata	natoɸata	natutuma	pata 
+foot: natutuma | natopata	natoɸata	natutuma	pata 
+foot: pata | natopata	natoɸata	natutuma	pata 
+forest: bahi 
+forest: kabagapari 
+forest: midi-midi 
+four: biribiri 
+four: ipwipo 
+four: kakiaboro 
+full: etabu | etabu	ɛtabu 
+give: nikaname | nikaname	nikanamɛ 
+give: nikanamɛ | nikaname	nikanamɛ 
+good: hidola | hido	hido-la	hidola	wadiala 
+good: wadiala | hido	hido-la	hidola	wadiala 
+green: gyedola | gyedola	gyɛdo	gyɛdo-la 
+hair: eke | hinibó	hinibɔ	inibo 
+hair: hinibó | hinibó	hinibɔ	inibo 
+hair: hinibó | hinibó	hinibɔ	inibo 
+hair: inibo | hinibó	hinibɔ	inibo 
+hair: onobu | hinibó	hinibɔ	inibo 
+hand: koto-pata | kokoto	wi 
+hand: la-pata | kokoto	wi 
+hand: tambara-pavo-pavo | kokoto	wi 
+hand: wi | kokoto	wi 
+head: gawabi | gawabi	wato 
+head: io | gawabi	wato 
+head: wato | gawabi	wato 
+hear: (galamo) nulie | galamo nulie	nulie	nuliy3	nuliya	nuliyá	nuliyä 
+hear: nuliyä | galamo nulie	nulie	nuliy3	nuliya	nuliyá	nuliyä 
+hear: nuliyá | galamo nulie	nulie	nuliy3	nuliya	nuliyá	nuliyä 
+heart: kikipu | kikipu	kowe kikipu	owekikipa	owekikipo 
+heart: kowe kikipu | kikipu	kowe kikipu	owekikipa	owekikipo 
+heart: owekikipo | kikipu	kowe kikipu	owekikipa	owekikipo 
+he/she: ame 
+hit: borhor 
+hit: giarawa 
+horn: lalo 
+house: ginama 
+house: morto 
+I: baidi/na | baidi	baidiʔna	ma	na 
+I: ma | baidi	baidiʔna	ma	na 
+I: na | baidi	baidiʔna	ma	na 
+kill: galimiha 
+knee: pupu | pupu	ɸupu 
+know: nay-etawa-ra 
+laugh: wali 
+leaf: kewa-pa | oaha	paha 
+leaf: pa | oaha	paha 
+leaf: paha | oaha	paha 
+leg: agawa 
+leg: agua 
+leg: nato 
+lie: newata 
+lip: epuru 
+lip: pituku 
+lip: tabo 
+liver: akepa | ara	kikepa 
+liver: ara | ara	kikepa 
+liver: iadauwa | ara	kikepa 
+liver: kikepa | ara	kikepa 
+long: gegela | gegela	gyägela	gɛgɛː	gɛgɛː-la 
+long: gyägela | gegela	gyägela	gɛgɛː	gɛgɛː-la 
+long: gyägela | gegela	gyägela	gɛgɛː	gɛgɛː-la 
+louse: damari | tamali	tamani 
+louse: nimo | tamali	tamani 
+louse: tamali | tamali	tamani 
+louse: tamani | tamali	tamani 
+louse: tamari | tamali	tamani 
+man: dubu | dubu	iobo	tubu 
+man: iobo | dubu	iobo	tubu 
+man: tubu | dubu	iobo	tubu 
+man: ururubi | dubu	iobo	tubu 
+many: hilionomo | hilionomo	hirionomo 
+many: hirionomo | hilionomo	hirionomo 
+meat: katene 
+meat: kateni 
+moon: geger | geger	manome	manomi 
+moon: manome | geger	manome	manomi 
+moon: manomi | geger	manome	manomi 
+moon: manumi | geger	manome	manomi 
+moon: sogomu | geger	manome	manomi 
+morning: duidulala 
+mosquito: dodopa 
+mosquito: nakati 
+mother: aia 
+mother: maia 
+mother: mai-er 
+mountain: gewa | gewa	haka hunu hunu	podo	poːdo	pɔːdo 
+mountain: haka hunu hunu | gewa	haka hunu hunu	podo	poːdo	pɔːdo 
+mountain: po:do | gewa	haka hunu hunu	podo	poːdo	pɔːdo 
+mouth: kokobe | nukukumina	tabo 
+mouth: kuokube | nukukumina	tabo 
+mouth: nukukumina | nukukumina	tabo 
+mouth: tabo | nukukumina	tabo 
+name: mahiro | mahira	mahiro 
+nape: abau 
+navel: boinana 
+navel: upuru 
+neck: buku | abau	gidi	kokobe 
+neck: gidi | abau	gidi	kokobe 
+neck: kokobe | abau	gidi	kokobe 
+neck: mada | abau	gidi	kokobe 
+new: uli 
+night: du | du	du du7u	du7	duʔ	duː	duː duʔu 
+night: du\ | du	du du7u	du7	duʔ	duː	duː duʔu 
+night: du: du\u | du	du du7u	du7	duʔ	duː	duː duʔu 
+night: duː duʔu | du	du du7u	du7	duʔ	duː	duː duʔu 
+night: duo | du	du du7u	du7	duʔ	duː	duː duʔu 
+night: idoko | du	du du7u	du7	duʔ	duː	duː duʔu 
+nose: dopo | dopo	doːpo	dɔːpɔ	magumu 
+nose: do:po | dopo	doːpo	dɔːpɔ	magumu 
+nose: magumu | dopo	doːpo	dɔːpɔ	magumu 
+not: akatoale 
+old: aberika 
+old: aperika 
+one: kapia | kapia	kiriwa 
+one: kiriwa | kapia	kiriwa 
+one: metogodidi | kapia	kiriwa 
+rain: bibira | bibira	wegola 
+rain: urama | bibira	wegola 
+rain: wegola | bibira	wegola 
+rain: wiari | bibira	wegola 
+rat: genoe 
+rat: toitoie 
+rat: wegi 
+red: hawi-hawi | hawi	hawi-hawi 
+red: hawi(-hawi) | hawi	hawi-hawi 
+river: bidoro 
+river: gowo 
+road: gabo 
+road: nabidi | gabo 
+road: toto | gabo 
+root: doro | gupu	haha	haho	hahɔ 
+root: doro-doro | gupu	haha	haho	hahɔ 
+root: gupu | gupu	haha	haho	hahɔ 
+root: haha | gupu	haha	haho	hahɔ 
+root: haho | gupu	haha	haho	hahɔ 
+root: hahɔ | gupu	haha	haho	hahɔ 
+round: mokopi 
+sand: pohoru | pohoru	totata 
+sand: totata | pohoru	totata 
+say: negaiya | nɛgwita 
+say: negaiye | nɛgwita 
+say: negwita | nɛgwita 
+seed: (kiha) kikipo | kiha kikipo	kiha kikiɸo	kikipo 
+seed: kikipo | kiha kikipo	kiha kikiɸo	kikipo 
+see: haba | haba	numito	nuːmito 
+see: nu:mito | haba	numito	nuːmito 
+shoulder: berna 
+shoulder: okogoma 
+shoulder: okolo 
+sit: nemedz | nemedz	nerata	nɛrata 
+sit: nerata | nemedz	nerata	nɛrata 
+skin: nikapi | nikapi	tama 
+skin: tama | nikapi	tama 
+sleep: newata | newata	wata 
+sleep: (ne)wata | newata	wata 
+small: dehapoto 
+smoke: ahuta 
+smoke: kauta | ahuta 
+smoke: tema | ahuta 
+snake: dimini | kaːlu	malebi 
+snake: karo | kaːlu	malebi 
+snake: malebi | kaːlu	malebi 
+spit: kowe 
+spit: paku 
+stand: nema higa 
+stand: nɛma higa 
+stand: nute 
+star: maweri | moroki	oloki	oroki 
+star: moroki | moroki	oloki	oroki 
+star: oloki | moroki	oloki	oroki 
+star: oroki | moroki	oloki	oroki 
+stone: - (nadi) | nadi	naki 
+stone: naki | nadi	naki 
+stone: nokora | nadi	naki 
+sun: daigi | daigi	kadepa	kadɛɸa 
+sun: hegera | daigi	kadepa	kadɛɸa 
+sun: kadepa | daigi	kadepa	kadɛɸa 
+tail: e:to | eːto	eːtɔ 
+that: be\ela | beʔela	moʔola 
+that: mo\ola | beʔela	moʔola 
+that: moʔola | beʔela	moʔola 
+they: le 
+this: mohela | mohela	mwe 
+this: mwe | mohela	mwe 
+thou: amä | am3	ama	ame	amá	amä	ba 
+thou: amá | am3	ama	ame	amá	amä	ba 
+thou: ame | am3	ama	ame	amá	amä	ba 
+thou: ba | am3	ama	ame	amá	amä	ba 
+thou: eme | am3	ama	ame	amá	amä	ba 
+three: keramudidi 
+three: metogapia 
+three: na-u 
+tongue: kareba | mel3pila	melapila	melïpila	merapira	mɛləɸila 
+tongue: melapila | mel3pila	melapila	melïpila	merapira	mɛləɸila 
+tongue: melïpila | mel3pila	melapila	melïpila	merapira	mɛləɸila 
+tongue: mena | mel3pila	melapila	melïpila	merapira	mɛləɸila 
+tongue: merapira | mel3pila	melapila	melïpila	merapira	mɛləɸila 
+tooth: ibo | lalo	lolo 
+tooth: lalo | lalo	lolo 
+tooth: lolo | lalo	lolo 
+tree: keha | ke7ha	keha 
+tree: keʔha | ke7ha	keha 
+tree: kehá | ke7ha	keha 
+tree: keowa | ke7ha	keha 
+tree: kewa | ke7ha	keha 
+two: metogo | nete7ewa	netewa	netewara	netewo	neteʔewa	neteː́wa	nete’ewa	nɛtɛwo 
+two: neteʔewa | nete7ewa	netewa	netewara	netewo	neteʔewa	neteː́wa	nete’ewa	nɛtɛwo 
+two: neteéwa | nete7ewa	netewa	netewara	netewo	neteʔewa	neteː́wa	nete’ewa	nɛtɛwo 
+two: netewara | nete7ewa	netewa	netewara	netewo	neteʔewa	neteː́wa	nete’ewa	nɛtɛwo 
+two: netewo | nete7ewa	netewa	netewara	netewo	neteʔewa	neteː́wa	nete’ewa	nɛtɛwo 
+two: netua | nete7ewa	netewa	netewara	netewo	neteʔewa	neteː́wa	nete’ewa	nɛtɛwo 
+walk: nepate | nepate	netona	nɛpatɛ	nɛtɔna 
+walk: nɛpatɛ | nepate	netona	nɛpatɛ	nɛtɔna 
+walk: netona | nepate	netona	nɛpatɛ	nɛtɔna 
+walk: (ne) tona | nepate	netona	nɛpatɛ	nɛtɔna 
+wallaby: guba 
+warm: otanotano la | otanotano	otanotanola 
+warm: otanotano(la) | otanotano	otanotanola 
+water: bea 
+water: obo | bea 
+we (incl.): ahidio 
+we (incl.): le 
+we: le/ahirio | ahidio	le 
+what: badalakie | bada-lakie	bada-me	badalakie	badamɛ 
+what: bada-lakie | bada-lakie	bada-me	badalakie	badamɛ 
+what: bada-me | bada-lakie	bada-me	badalakie	badamɛ 
+white: ini kaka | ini kaka	keakea	keakea-la	keakeala 
+white: keakeala | ini kaka	keakea	keakea-la	keakeala 
+who: poko | poko	pota-raekï	poteraeke	ɸoko 
+who: pota-raekï | poko	pota-raekï	poteraeke	ɸoko 
+who: poteraeke | poko	pota-raekï	poteraeke	ɸoko 
+wife: narobote 
+wife: nimenokamina-a 
+wife: nimiokamiara 
+wind: baruwo | huhu	tawa 
+wind: hauwa | huhu	tawa 
+wind: huhu | huhu	tawa 
+wind: tawa | huhu	tawa 
+woman: kamena 
+woman: kamiara | kamena 
+woman: orobo | kamena 
+yellow: hipawala | hipawa	hipawa-la	hipawala	hipiwala 
+yellow: hipiwala | hipawa	hipawa-la	hipawala	hipiwala 
+yesterday: dutu 
+you: le | am3	ama	ame	amá	amä	ba 
+every: ahidio nomo	hirionomo 
+ash: towe	tuwi 
+abdomen: babe	tepo	teːpo 
+bigness: ola 
+large: ola 
+breasts: nono	nornor 
+nail: piːtu	ɸiːtu 
+talon: piːtu	ɸiːtu 
+come from: m3p3	mäpä	ne-pe	nepe	nɛpɛ 
+be dead: ehwe	n3huita	nähui ta	nähuíta 
+dead: ehwe	n3huita	nähui ta	nähuíta 
+ground: aka	hopu 
+land: aka	hopu 
+soil: aka	hopu 
+fly: epwida	hiku-hiku 
+fly v.: epwida	hiku-hiku 
+left hand: kokoto	wi 
+right: kokoto	wi 
+1 sg.: baidi	baidiʔna	ma	na 
+be knowledgeable: nay-etawa-ra 
+head louse: tamali	tamani 
+male: dubu	iobo	tubu 
+much: hilionomo	hirionomo 
+multiple: hilionomo	hirionomo 
+several: hilionomo	hirionomo 
+hill: gewa	haka hunu hunu	podo	poːdo	pɔːdo 
+title: mahira	mahiro 
+nighttime: du	du du7u	du7	duʔ	duː	duː duʔu 
+adulterous: kapia	kiriwa 
+single: kapia	kiriwa 
+the: kapia	kiriwa 
+unprincipled: kapia	kiriwa 
+rainy weather: bibira	wegola 
+path: gabo 
+route: gabo 
+hide: nikapi	tama 
+little: dehapoto 
+smallness: dehapoto 
+rock: nadi	naki 
+2 sg: am3	ama	ame	amá	amä	ba 
+grind: nete7ewa	netewa	netewara	netewo	neteʔewa	neteː́wa	nete’ewa	nɛtɛwo 
+go: nepate	netona	nɛpatɛ	nɛtɔna 
+hot: otanotano	otanotanola 
+1 pl. inc.: ahidio	le 
+we₁: ahidio	le 
+whiteness: ini kaka	keakea	keakea-la	keakeala 
+who?: poko	pota-raekï	poteraeke	ɸoko 
+female: kamena 
+dull: menemen	menemen-ərʌ 
+heavy: menemen	menemen-ərʌ 
+serious: menemen	menemen-ərʌ 

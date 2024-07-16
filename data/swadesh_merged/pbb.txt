@@ -1,0 +1,319 @@
+all: hy~ukaysa	iisa	xʸuka 
+every: hy~ukaysa	iisa	xʸuka 
+ash: khuuc̷	kh~uc 
+ashes: khuuc̷	kh~uc 
+bark: kh~aT	Φtũũ khaʔtʸ 
+abdomen: tuT 
+belly: tuT 
+big: maky~	wala 
+bigness: maky~	wala 
+large: maky~	wala 
+bird: viCakw~e	βiča-kwe 
+bite: waky~	waʔky- 
+black: kh~u*C	khũč 
+blood: e	ee 
+bone: dy~ith~	dʸiʔth 
+breast: CuC	mekis	čuʔč 
+breasts: CuC	mekis	čuʔč 
+claw: vy~yiy	βylʸilʸ 
+nail: vy~yiy	βylʸilʸ 
+talon: vy~yiy	βylʸilʸ 
+cloud: ta*ph~	tããph 
+cold: ece	Φize 
+come: pesaty~	yuh	yuh- 
+come from: pesaty~	yuh	yuh- 
+be dead: o	u	uu- 
+dead: o	u	uu- 
+die: o	u	uu- 
+dog: alko	alku 
+drink: itoNi	tudʸ-	tundy~ 
+dry: uhdʸ	uhndy~ 
+ear: th~u*we	thũʔwã	thũʔwẽ	towe* 
+earth: kiwe 
+ground: kiwe 
+land: kiwe 
+soil: kiwe 
+eat: u*7	ũʔ- 
+egg: zic	zic̷ 
+eye: yafi	yafy~	yaΦ 
+feather: viCakw~e kh~as	βičakwe khas 
+fire: ipy	ipy~ 
+fish: wedʸ 
+fly: fy~uh	Φuh- 
+fly v.: fy~uh	Φuh- 
+foot: Cinda	čida 
+full: uta 
+give: pees-	u*su	ũs- 
+good: ew	ewsa 
+green: ce*y	c̷ẽy 
+hair: dy~kh~as	dʸkhas 
+hand: kose	kuse 
+left hand: kose	kuse 
+right: kose	kuse 
+head: dy~ikth~e	dʸikʼthe	hy~kw~et 
+hear: pthũũse-	we*nse	we*se*h 
+heart: u*s	ũũs 
+horn: %kaCu	kaču 
+1 sg.: adʸ	andy~	u*7kwe	ũʔkwe 
+I: adʸ	andy~	u*7kwe	ũʔkwe 
+kill: ikh-	ikh~ 
+knee: hy~u*kw~et	xʸũkwet 
+be knowledgeable: hi	hii-	hiyu 
+know: hi	hii-	hiyu 
+leaf: ec	ec̷	ez 
+lie: deh	deh- 
+lie down: deh	deh- 
+liver: meki	meky~	meʔky 
+long: hy~uh	xʸuʔh 
+head louse: e*s	ens	ẽs 
+louse: e*s	ens	ẽs 
+male: picth~e*h	pic̷-thẽʔh 
+man: nasa 
+many: kuh	kũh	wala 
+much: kuh	kũh	wala 
+multiple: kuh	kũh	wala 
+several: kuh	kũh	wala 
+flesh: CiC	čič 
+meat: CiC	čič 
+moon: a7te	aʔte 
+hill: thãʔh	vic wala	βic̷ wala 
+mountain: thãʔh	vic wala	βic̷ wala 
+mouth: yuwe 
+name: yake	yase	yese 
+title: yake	yase	yese 
+neck: Th~ikh~	tʸhikh 
+new: nueve	ose	uʔse 
+night: kus 
+nighttime: kus 
+nose: i*c	inz	ĩc̷ 
+not: me 
+adulterous: teC	teetš	yas 
+one: teC	teetš	yas 
+single: teC	teetš	yas 
+that: Ta*	ky~a* 
+the: teC	teetš	yas 
+unprincipled: teC	teetš	yas 
+human: nasa 
+human being: nasa 
+person: nasa 
+rain: nus 
+rainy weather: nus 
+red: beh 
+path: di	dy~ih 
+road: di	dy~ih 
+route: di	dy~ih 
+root: wace	wac̷e	wece	wec̷e 
+round: hy~and	tadʸ	tandy~	xʸad 
+sand: muse 
+say: Ta*hi*	ky~a*hi*	naʔ-hĩ- 
+see: teN	theg-	th~eN	uy	uy- 
+seed: fiw	Φiw 
+sit: kaC	kačh-	piS 
+hide: kati	khaʔtʸ 
+skin: kati	khaʔtʸ 
+sleep: deh	way- 
+little: leCkw~e	leʔč 
+small: leCkw~e	leʔč 
+smallness: leCkw~e	leʔč 
+smoke: ah 
+stand: yuhura u*s 
+star: a	a*7muS	ãʔ 
+rock: kuety~	kwet	kw~et 
+stone: kuety~	kwet	kw~et 
+sun: sek	taky~kw~e 
+swim: pehd-	pend 
+tail: menz	mez 
+this: na 
+2 sg: i7kw~e	iCa	iNi	idʸ	indy~	iʔkwe 
+thou: i7kw~e	iCa	iNi	idʸ	indy~	iʔkwe 
+you: i7kw~e	iCa	iNi	idʸ	indy~	iʔkwe 
+tongue: Tune	thune	tone 
+tooth: kity~	kiʔth 
+tree: fy~tu* 
+grind: e7nz	eʔz	heʔz 
+two: e7nz	eʔz	heʔz 
+go: u7hu	uʔhu- 
+walk: u7hu	uʔhu- 
+hot: baxʸ 
+warm: baxʸ 
+water: yo	yu7	yuʔ 
+1 pl. inc.: kueku	kukueS	kweʔš	kw~eS 
+we: kueku	kukueS	kweʔš	kw~eS 
+we₁: kueku	kukueS	kweʔš	kw~eS 
+what: ki*h	kĩh 
+white: Cihme	čihme 
+whiteness: Cihme	čihme 
+who: kiim	kim 
+who?: kiim	kim 
+female: u7y	uʔy 
+woman: u7y	uʔy 
+yellow: Skiky~	lem	lem-lem 
+distant: xʸuʔh 
+far: xʸuʔh 
+dull: duh 
+heavy: duh 
+serious: duh 
+close: utʸa 
+near: utʸa 
+ner: utʸa 
+salt: nega 
+short: tuw 
+snake: ul 
+thin: talʸ 
+wind: wexʸa 
+earthworm: wes 
+worm: wes 
+year: anʸu 
+2 pl.: iʔkweʔš 
+ye: iʔkweʔš 
+you all: iʔkweʔš 
+3 pl.: tʸãã-weʔš 
+they: tʸãã-weʔš 
+where: m-tee 
+where?: m-tee 
+when: maʔwẽn 
+when?: maʔwẽn 
+how: maʔwẽ 
+how?: maʔwẽ 
+some: kĩh-βa 
+few: kuh-ʼmee 
+three: tekh 
+four: pahz 
+five: tahc̷	tahts 
+broad: tape 
+wide: tape 
+wideness: tape 
+fat: mdeeʼɣa 
+thick: čal 
+narrow: zuz 
+child: luuč 
+principal wife: n-miʔ 
+wife: n-miʔ 
+husband: n-yu 
+his mother: mama 
+mother: mama 
+my mother: mama 
+father: ney	tata 
+his father: ney	tata 
+my father: ney	tata 
+animal: niimal 
+forest: yuʔkh wala 
+woods: yuʔkh wala 
+branch: Φtũ kuʔta 
+stick: Φtũ kuʔta 
+fruit: nʸun 
+flower: kite 
+grass: xʸuth	xʸũth 
+cord: lasu 
+rope: lasu 
+grease: mdeeʼɣa 
+fingernail: βylʸilʸ 
+leg: čida 
+wing: Φu kuʔta 
+gut: meetuʔh 
+guts: meetuʔh 
+insides: meetuʔh 
+intestine: meetuʔh 
+intestines: meetuʔh 
+back: c̷iz 
+suck: čaža- 
+spit: aβy- 
+vomit: puga- 
+blow: puth- 
+breath: ũũse- 
+breathe: ũũse- 
+laugh: šihka- 
+laughter: šihka- 
+cogitate: yahky- 
+reflect: yahky- 
+think: yahky- 
+smell: xʸ-puta- 
+sniff: xʸ-puta- 
+afraid: paa-ũũkh-sa 
+be afraid: paa-ũũkh-sa 
+fear: paa-ũũkh-sa 
+fright: paa-ũũkh-sa 
+alive: Φiʔze 
+be alive: Φiʔze 
+life: Φiʔze 
+live: Φiʔze 
+living: Φiʔze 
+fight: puii- 
+hunt: βihky- 
+beat: uhka- 
+hit: uhka- 
+strike: uhka- 
+cut: spẽʔth- 
+hack: spẽʔth- 
+cut open: pec̷ete- 
+split: pec̷ete- 
+pierce: nʸaha-	yãha- 
+stab: nʸaha-	yãha- 
+dig: kaΦ-iʔh- 
+tell lies: ĩʼšii- 
+turn: xʸ-tadʸ- 
+turn around: xʸ-tadʸ- 
+turn round: xʸ-tadʸ- 
+drop: wete- 
+fall: wete- 
+grasp: uwe- 
+hold: uwe- 
+hold in arm: uwe- 
+squeeze: pthuk- 
+wring: pthuk- 
+rub: šũš- 
+wipe: šũš- 
+wash: pkhiky- 
+wash clothes: pkhiky- 
+push: upahky-	čãtʸ- 
+shove: upahky-	čãtʸ- 
+throw: akh- 
+bind: tud- 
+fasten: tud- 
+tie: tud- 
+tie up: tud- 
+sew: kats- 
+count: isa- 
+enumerate: isa- 
+number: isa- 
+tally: isa- 
+sing: mem- 
+have fun: pweesaʔh- 
+play: pweesaʔh- 
+float: eda- 
+flow: yuʔ kaseh- 
+brook: yuʔ-wala 
+river: yuʔ-wala 
+stream: yuʔ-wala 
+lake: ĩkh wala 
+dust: tuhd 
+fog: tããph 
+sky: ẽẽ c̷ẽy 
+snow: yãdʸ 
+ice: yuʔ-kwet 
+blaze: beh	kamb	čhaβy- 
+burn: beh	kamb	čhaβy- 
+day: een 
+daylight: een 
+daytime: een 
+bad: ew-ʼmee 
+evil: ew-ʼmee 
+rot: čiby-ni 
+rotten: čiby-ni 
+dirty: khũč 
+filthy: khũč 
+soiled: khũč 
+straight: kuʔle 
+sharp: zek-sa 
+blunt: tut 
+smooth: laβy 
+damp: tuph 
+wet: tuph 
+correct: ew	tʸãʔwẽ 
+right side: pac̷u 
+left: hebu 
+in: dʸii- 
+inside: dʸii- 
+and: saʔ 
+if: -βac̷aʔ 
+because: naa paʔɣa 

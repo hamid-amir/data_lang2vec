@@ -1,0 +1,259 @@
+all: hotuhotu 
+every: hotuhotu 
+ash: ra:pɔ 
+ashes: ra:pɔ 
+abdomen: waʔi-ri 
+belly: waʔi-ri 
+big: bɔ:tɛ 
+bigness: bɔ:tɛ 
+large: bɔ:tɛ 
+bird: ma:nu 
+bite: at 
+black: metama 
+blood: ra 
+bone: ru:i	rui 
+burn: api na 
+burn tr.: api na 
+cloud: tahɔ 
+cold: raisuma 
+come: mai 
+come from: mai 
+be dead: matE	matɛ 
+dead: matE	matɛ 
+die: matE	matɛ 
+dog: asu 
+drink: inu 
+dry: mɛgɛga	siu 
+ear: li:ga:-ra	liga 
+egg: manu telo 
+eye: mata	mata-r 
+feather: hulu-ru 
+fire: api 
+fish: ika 
+fly: muluhu 
+fly v.: muluhu 
+good: mɔlɔi 
+green: mɔsɔkɔ 
+hair: gara-ra hulu 
+hand: ika	lima-r 
+left hand: ika	lima-r 
+right: ika	lima-r 
+head: gara-r 
+hear: rEga	rɛ:ga 
+1 sg.: au 
+I: au 
+kill: taupɛ:pa 
+be knowledgeable: ta:da 
+know: ta:da 
+leaf: ai taha 
+lie: bwɛ:kaka 
+lie down: bwɛ:kaka 
+liver: atE	atɛ-r 
+long: m|alaru 
+head louse: u:tu	utu 
+louse: u:tu	utu 
+male: ma:nɛ 
+man: atamasa 
+moon: ulan 
+mouth: ibɔ-rɔ 
+name: gala	gala-ra 
+title: gala	gala-ra 
+neck: kɔrɔ-rɔ 
+new: hEu	hɛ:u 
+night: dodaga 
+nighttime: dodaga 
+nose: ilu	ilu-ru 
+adulterous: sia 
+one: sia 
+single: sia 
+that: nua 
+the: sia 
+unprincipled: sia 
+human: atamasa 
+human being: atamasa 
+person: atamasa 
+rain: u:sa 
+rainy weather: u:sa 
+red: mea:ka 
+path: sala 
+road: sala 
+route: sala 
+root: ha:ʔa: 
+sand: ɛrɔgɔ 
+say: ha:bu 
+see: Eto	ɛtɔ 
+sit: mudu 
+hide: uliti 
+skin: uliti 
+sleep: bɔɛ 
+little: lɔ:ba 
+small: lɔ:ba 
+smallness: lɔ:ba 
+smoke: m|asu 
+star: hi:tu	hitu 
+rock: hatu 
+stone: hatu 
+swim: nagi 
+tail: hiʔo 
+this: nɔgɔ 
+tongue: lama	lamara 
+tooth: nipa	nipa-r 
+grind: hru:a	hrua	rua 
+two: hru:a	hrua	rua 
+go: sɔlɛʔ-rae 
+walk: sɔlɛʔ-rae 
+hot: banasa 
+warm: banasa 
+water: bi:a	bia 
+1 pl. inc.: ami	ita 
+we: ami	ita 
+we₁: ami	ita 
+what: seba 
+white: buti 
+whiteness: buti 
+who: ba:sia 
+who?: ba:sia 
+female: hi:nɛ 
+woman: hi:nɛ 
+yellow: mɛgɛ 
+distant: sɔgɔ 
+far: sɔgɔ 
+dull: mɛdɛda 
+heavy: mɛdɛda 
+serious: mɛdɛda 
+close: hɛ:si: 
+near: hɛ:si: 
+ner: hɛ:si: 
+salt: si:a 
+short: badaka 
+snake: ulala 
+thin: hidɛrɛ 
+wind: agi 
+earthworm: kwɛ:rɛ 
+worm: kwɛ:rɛ 
+year: tɔna 
+2 pl.: imi 
+ye: imi 
+you: imi 
+you all: imi 
+3 pl.: rɔma 
+they: rɔma 
+where: puana:-ba 
+where?: puana:-ba 
+when: bai|pi:la 
+when?: bai|pi:la 
+how: tausɛ-wa 
+how?: tausɛ-wa 
+other: sɛ:lɔ: 
+three: telu 
+four: pat	pata 
+five: lima 
+broad: mɔlɔa 
+wide: mɔlɔa 
+wideness: mɔlɔa 
+fat: kɔlɛ 
+thick: hɔmɔgɔ 
+narrow: kɔlɔtɔ 
+principal wife: hɛ-r 
+wife: hɛ-r 
+husband: la:i-ri 
+his mother: i:na-ra 
+mother: i:na-ra 
+my mother: i:na-ra 
+father: ama-kai 
+his father: ama-kai 
+my father: ama-kai 
+forest: ai lara 
+woods: ai lara 
+fruit: ai hoa 
+flower: ai hi:tu 
+grass: sut 
+cord: tali 
+rope: tali 
+flesh: si 
+meat: si 
+grease: kɔlɛ 
+wing: lilapa 
+gut: tɛr susu 
+guts: tɛr susu 
+insides: tɛr susu 
+intestine: tɛr susu 
+intestines: tɛr susu 
+back: gənɔ-rɔ tai ait 
+suck: mus 
+spit: lɔtaʔabara 
+vomit: muta 
+blow: huiri 
+breath: mɛrɛs hɔpar 
+breathe: mɛrɛs hɔpar 
+laugh: gi:nala 
+laughter: gi:nala 
+cogitate: hanɔi 
+reflect: hanɔi 
+think: hanɔi 
+smell: mɛʔu 
+sniff: mɛʔu 
+afraid: təmaʔut 
+be afraid: təmaʔut 
+fear: təmaʔut 
+fright: təmaʔut 
+alive: mwasa 
+be alive: mwasa 
+life: mwasa 
+live: mwasa 
+living: mwasa 
+hunt: mɔla rae 
+beat: ti:di 
+hit: ti:di 
+strike: ti:di 
+cut: ta 
+hack: ta 
+cut open: pɔʔa 
+split: pɔʔa 
+pierce: u:nu 
+stab: u:nu 
+scratch: kurui 
+dig: du:i 
+stand: a:ra 
+drop: manahu 
+fall: manahu 
+grasp: sa:li 
+hold: sa:li 
+hold in arm: sa:li 
+squeeze: measa 
+wring: measa 
+throw: tia:ra 
+bind: hu:tu: 
+fasten: hu:tu: 
+tie: hu:tu: 
+tie up: hu:tu: 
+sew: sɔ:ra 
+count: gai	su:ra 
+enumerate: gai	su:ra 
+number: gai	su:ra 
+tally: gai	su:ra 
+flow: dɔ:dɔ 
+lake: tapʔo 
+ocean: tasi 
+sea: tasi 
+dust: ra:pɔ apa 
+fog: ta:hɔ 
+sky: lɛlo mata 
+bad: tai mɔlɔi 
+evil: tai mɔlɔi 
+rot: ma:pu: 
+rotten: ma:pu: 
+dirty: riʔi 
+filthy: riʔi 
+soiled: riʔi 
+sharp: hati 
+blunt: bo:u 
+damp: bia: 
+wet: bia: 
+right side: ba:na 
+left: to:ʔi 
+at: di:a 
+in: dia lara 
+inside: dia lara 
+and: nɔ 
+if: kalu 

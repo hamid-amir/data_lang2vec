@@ -1,0 +1,426 @@
+all: inan.gas | tuʔukɪʔ 
+all: tuki | tuʔukɪʔ 
+all: tuʔukɪʔ 
+arm: angu 
+arm: aŋuʔ 
+arm: un.ga 
+arrow: moŋɔʔ 
+ashes: piʔ 
+back: moːri 
+bad: arapah 
+bad: henapa 
+bad: kirahau 
+bad: kirapau 
+bad: kɪraha 
+bark: kamu | korɛŋkaŋ	kui korɛŋkaŋ 
+bark: kang | korɛŋkaŋ	kui korɛŋkaŋ 
+bark: (kui) korɛŋkaŋ | korɛŋkaŋ	kui korɛŋkaŋ 
+belly: kebo | kipuʔ 
+belly: kipuʔ 
+big: honna | honnaʔ 
+big: honnaʔ 
+big: pana | honnaʔ 
+bird: barengi | poriŋɪʔ 
+bird: poriŋɪʔ 
+bird: poringi | poriŋɪʔ 
+bite: kakut- 
+black: ban.ga | kunsaʔ	kuŋkɪroʔ 
+black: kuŋkɪroʔ | kunsaʔ	kuŋkɪroʔ 
+black: kunsaʔ | kunsaʔ	kuŋkɪroʔ 
+black: mungka | kunsaʔ	kuŋkɪroʔ 
+blood: erei | irih	ɪrɪʔ 
+blood: iri | irih	ɪrɪʔ 
+blood: ɪrɪʔ | irih	ɪrɪʔ 
+bone: kona | kona	konaʔ 
+bone: konaʔ | kona	konaʔ 
+boy: pɛhkoroʔ 
+branch: an 
+branch: ang 
+breast: nuna | nuno	nunoʔ 
+breast: nuno | nuno	nunoʔ 
+breast: nunoʔ | nuno	nunoʔ 
+brother: (bo)ienu 
+brother: tata 
+burn: teimkan 
+burn: uraihusin 
+burn: uraiweʲoŋ 
+child: biska 
+child: pehkoro 
+child: tutu 
+chin: oɪraʔ 
+claw: komoɔtɔ 
+cloud: imuina | komu 
+cloud: komu 
+cloud: muna | komu 
+cold: tutuŋkaʰ 
+come: hoitɔŋ | hoitɔŋ	huka 
+come: huhe | hoitɔŋ	huka 
+come: kam | hoitɔŋ	huka 
+cut: rat-kepi 
+cut: tokisusin 
+dance: bisirempi 
+dance: lu 
+daughter: (b)oro 
+day: diʔnonoʔ 
+day: lungevin 
+day: mu 
+die: poitoŋ | mu	poitoŋ	pu 
+dog: mahkata | mahkata	mahkataʔ 
+dog: mahkataʔ | mahkata	mahkataʔ 
+dog: maskata | mahkata	mahkataʔ 
+drink: nehusin | nE	ne	nɛwitoŋ 
+drink: nɛwitoŋ | nE	ne	nɛwitoŋ 
+drink: newompi | nE	ne	nɛwitoŋ 
+dry: koporoŋaʰ 
+ear: lung | duN	ruN	ruŋ 
+ear: rom | duN	ruN	ruŋ 
+ear: ruŋ | duN	ruN	ruŋ 
+earth: kahɪ 
+earth: kahih 
+earth: karikaris 
+earth: kuwa 
+earth: matu 
+eat: nehusin | paokoitoŋ 
+eat: paokoitoŋ 
+egg: sɪraʔ 
+elbow: korikori 
+elbow: tumaka 
+elbow: tuʔturiʔ 
+eye: uta | marE	uto	utoʔ 
+eye: uto | marE	uto	utoʔ 
+eye: utoʔ | marE	uto	utoʔ 
+fall: harokuitoŋ 
+far: ihko 
+far: pekonona 
+father: buma 
+father: (bu)mo 
+father: umoka 
+father: unɔka. 
+fat (n.): sɪʔ 
+feather: paruʔ 
+finger: dindia 
+finger: iriwa 
+finger: momonɪʔ 
+fingernail: kamata 
+fingernail: kongoto 
+finger: ɪrɪhɪwa 
+fire: ihaʔ | iha	ihaʔ	kunakuna 
+fire: kunakuna | iha	ihaʔ	kunakuna 
+fire: kunakunahia | iha	ihaʔ	kunakuna 
+fish: karingi | iyanna	koriŋiʔ 
+fish: koringi | iyanna	koriŋiʔ 
+fish: koriŋiʔ | iyanna	koriŋiʔ 
+five: aŋomuːkaʔ 
+five: angumuka 
+five: panoko 
+fly (v.): huriroitoŋ 
+foot: tompaʔ 
+forehead: moŋkaʔ 
+forest: muhni 
+four: aoriwengu 
+four: karikan.gw 
+four: kolɛkam 
+full: maːpu | mapu	maːpu 
+girl: pɛhkaʔ 
+give: aipi | amuinoŋ 
+give: amuinoŋ 
+give: osin | amuinoŋ 
+good: mirahu | mɪrahuʔ 
+good: mɪrahuʔ 
+good: tabei | mɪrahuʔ 
+grass: tuku 
+grass: tukun 
+green: mʊnnɪnuʔ 
+hair: hi | hi	hiʔ 
+hair: hi(ʔ) | hi	hiʔ 
+hair: pi | hi	hiʔ 
+hand: kumɔʔ | aNu	aka	kumɔʔ 
+head: bore | puriʔ 
+head: puri | puriʔ 
+head: puriʔ 
+hear: taːroitoŋ | onoruhe	taro7ohe	taːroitoŋ 
+hear: tarosin | onoruhe	taro7ohe	taːroitoŋ 
+heart: mʊʔkɪŋ ~ mʊʔʊkɪm | mʊʔkɪŋ	mʊʔʊkɪm 
+heart: mukim | mʊʔkɪŋ	mʊʔʊkɪm 
+heart: mukin | mʊʔkɪŋ	mʊʔʊkɪm 
+hear: tsinaragi | onoruhe	taro7ohe	taːroitoŋ 
+heavy: ur | urahah 
+heavy: uraha | urahah 
+heavy: urahah 
+here: emba 
+here: imba 
+he/she: pokoŋ 
+he/she: soko 
+hit: nɛhkuitoŋ 
+hit: nehkusin 
+hit: nikepei 
+house: howo 
+house: hɔwɔʔ 
+house: pawa 
+husband: in 
+I: ŋoŋ | ni 
+I: ni 
+kill: po\ɔtoitoŋ | poʼɔtoitoŋ 
+kill: taiya | poʼɔtoitoŋ 
+kill: tusin | poʼɔtoitoŋ 
+knee: mi | mi	tuʔturiʔ 
+knee: mi\i | mi	tuʔturiʔ 
+knee: tuʔturiʔ | mi	tuʔturiʔ 
+know: kʊːkaʰ 
+laugh: kʊmatuiyoŋ 
+leaf: batu | hono	honoʔ	pEtu	patu 
+leaf: honoʔ | hono	honoʔ	pEtu	patu 
+leaf: pana | hono	honoʔ	pEtu	patu 
+leg: hapa 
+leg: hipaʔ 
+leg: paman 
+lie: asing 
+lie: naokoroŋ 
+lie: tonaku 
+lightning: hirihiri 
+lightning: lim 
+lip: eru-eru 
+lip: werueru 
+liver: nuna | nunaʔ 
+liver: nunaʔ 
+liver: nuno | nunaʔ 
+long: ɪhkitaʔ 
+long: ihkita | ɪhkitaʔ 
+long: ishkita | ɪhkitaʔ 
+louse: ho | hoh 
+louse: hoh 
+louse: pas | hoh 
+man: lugang | nɔmmaeʔ 
+man: raŋuriwah | nɔmmaeʔ 
+many: inanga | ponnaʔ 
+many: mouna | ponnaʔ 
+many: ponnaʔ 
+meat: moːsinaʔ 
+moon: hinio | hinyɔʔ	hinɔʔ 
+moon: hin(y)ɔʔ | hinyɔʔ	hinɔʔ 
+moon: rawun | hinyɔʔ	hinɔʔ 
+morning: kiakia 
+mosquito: tamuka 
+mosquito: tangka 
+mother: (bo)ku 
+mother: nʊkaʔ 
+mother: nugo 
+mother: nuka 
+mountain: mɪtaʔ | kinum	mita	mɪtaʔ	tuwa 
+mouth: mu͂ | mũ 
+mouth: mum | mũ 
+mouth: numa | mũ 
+name: mi | dina	mi	taN 
+navel: huiki 
+navel: piokei 
+near: mako 
+near: mohko 
+neck: kuʔ 
+neck: kuru | kuʔ 
+new: dɪrokɪsaʔ | dirokisa	dɪrokɪsaʔ	rirokisa 
+new: neman | dirokisa	dɪrokɪsaʔ	rirokisa 
+new: phkoro | dirokisa	dɪrokɪsaʔ	rirokisa 
+night: moːŋɔʔ | motumo	moːŋɔʔ	muNo7 
+night: mungo | motumo	moːŋɔʔ	muNo7 
+night: murini | motumo	moːŋɔʔ	muNo7 
+nose: ken | kiN	kiŋ 
+nose: king | kiN	kiŋ 
+not: tʌkuʔ 
+not: tokʊnoiʔ | tʌkuʔ 
+old: borehui 
+old: haŋanoriʔ 
+old: hoŋoponoriʔ 
+old: hongspononi 
+old: uəkɪsaŋ 
+one: nau | no7	nom	noβʷalɪ 
+one: nawa | no7	nom	noβʷalɪ 
+one: nom ~ noßʷalɪ | no7	nom	noβʷalɪ 
+person: nɔmmaeʔ 
+rain: lowa | lowaʔ	ɪŋɪnaʔ 
+rain: lowaʔ | lowaʔ	ɪŋɪnaʔ 
+rain: ɪŋɪnaʔ | lowaʔ	ɪŋɪnaʔ 
+rain: rowa | lowaʔ	ɪŋɪnaʔ 
+rat: koʔtakɪʔ 
+rat: kutaki 
+red: tataiwa | tataiwah 
+red: tataiwah 
+red: uiawas | tataiwah 
+river: hoŋorasa 
+river: to-o 
+river: tu 
+road: monarɛʔ | monarE	toru 
+root: kanaʔ 
+root: kanna | kanaʔ 
+root: kowo | kanaʔ 
+rotten: ko 
+round: kuari | kuari	kuwɔrika 
+round: kuwɔrika | kuari	kuwɔrika 
+sand: hisɪaʔ 
+say: korʊitoŋ 
+sea: hiru 
+sea: piru 
+seed: beskeiura | sɪra 
+seed: sɪra 
+seed: uoro | sɪra 
+see: i | mono	monostoŋ	monowarei	siNoro 
+see: monostoŋ | mono	monostoŋ	monowarei	siNoro 
+short: makisa 
+short: mɔhkoʔoraʔ 
+short: mohkora 
+shoulder: eukana 
+shoulder: okana 
+shoulder: ukama 
+sing: sɪroitoŋ 
+sing: tsiromkan 
+sing: tsirosin 
+sister: (bo)iena 
+sister: marei 
+sister: poːyɛːnaʰ 
+sit: maːnnoŋ 
+sit: tarue | maːnnoŋ 
+skin: kam | kaN	kaŋ 
+skin: kang | kaN	kaŋ 
+skin: kaŋ | kaN	kaŋ 
+sleep: aʔroŋ 
+sleep: atongan | aʔroŋ 
+sleep: at(usin) | aʔroŋ 
+small: beskeiura | pɛhkita 
+small: pɛhkita 
+small: pekkita | pɛhkita 
+smoke: hi | iʔ 
+smoke: iʔ 
+snake: bisa | poʔyaːpoʔ 
+snake: pohiawo | poʔyaːpoʔ 
+snake: poʔyaːpoʔ 
+son: rangoriwas 
+spit: karua 
+spit: kʊnuokuʲoŋ 
+spit: tutuha 
+stand: iʔroŋ 
+stand: itosin 
+star: kɛßa | kEwa	kiwa	kɛβa	pinu 
+star: pimu | kEwa	kiwa	kɛβa	pinu 
+star: saribi | kEwa	kiwa	kɛβa	pinu 
+stone: kubuli | kupuri	kupuriʔ 
+stone: kupuriʔ | kupuri	kupuriʔ 
+sun: daʔ | da	daʔ 
+sun: la | da	daʔ 
+sun: ra | da	daʔ 
+swim: ahaikuitoŋ 
+tail: husɛhusɛʔ | pokorɪm 
+tail: pokorɪm 
+take: nabusin 
+that: sokoʔ 
+they: tipo 
+they two: tiko kiurukoʔ 
+this: oŋ 
+thou: de ~ lɛ | dɔ	rɔ 
+thou: dɔ ~ rɔ | dɔ	rɔ 
+thou: rokoŋ | dɔ	rɔ 
+three: bekan.ga 
+three: pɛːkam 
+three: pewangu 
+thunder: birangi 
+thunder: hintax 
+tomorrow: kiaʔkuʔ 
+tomorrow: tane 
+tongue: mene | mini	mɪnɪ 
+tongue: mini | mini	mɪnɪ 
+tongue: mɪnɪ | mini	mɪnɪ 
+tooth: kai-i | kEvi	keβɪ 
+tooth: keßɪ | kEvi	keβɪ 
+tooth: kewi | kEvi	keβɪ 
+tree: kui | kui	kuna 
+tree: kui-na | kui	kuna 
+two: kina | kisakaroʔ 
+two: kisakaroʔ 
+two: kiwano | kisakaroʔ 
+vagina: haku 
+vagina: malesa 
+walk: bepei | konnuitoŋ 
+walk: bi | konnuitoŋ 
+walk: bungeina | konnuitoŋ 
+walk: konnuitoŋ 
+walk: kunkonosin | konnuitoŋ 
+walk: kurohoːroŋ | konnuitoŋ 
+warm: tokotokohaʰ 
+water: to-o | mikisa	tu	tuː 
+water: tu | mikisa	tu	tuː 
+water: tuː | mikisa	tu	tuː 
+weep: mi/bi 
+we (excl.): noni 
+wet: ko 
+wet: tutʊŋkaʰ 
+we two (excl.): noni 
+what: uwa 
+when: yɛːmpa 
+where: wɔko 
+white: kakata | kaːkotoʔ 
+white: kakoto | kaːkotoʔ 
+white: kaːkotoʔ 
+who: pa 
+wife: ina 
+wife: panna 
+wind: hiŋ ~ him | him	hiŋ 
+wind: hingina | him	hiŋ 
+wind: nihini | him	hiŋ 
+wing: kʊwaʔ 
+woman: kuraʲaʔ | kuraⁱsaʔ 
+woman: kuraisa | kuraⁱsaʔ 
+woman: monimo | kuraⁱsaʔ 
+wood: (kui) namoro 
+yellow: kakarasa | tohoʔtuʔ 
+yellow: tohoʔtuʔ 
+yes: oːrɛ 
+yesterday: kɪnaːʔ 
+you two: rɛ 
+every: tuʔukɪʔ 
+ash: piʔ 
+abdomen: kipuʔ 
+bigness: honnaʔ 
+large: honnaʔ 
+breasts: nuno	nunoʔ 
+nail: komoɔtɔ 
+talon: komoɔtɔ 
+come from: hoitɔŋ	huka 
+be dead: mu	poitoŋ	pu 
+dead: mu	poitoŋ	pu 
+fly: huriroitoŋ 
+fly v.: huriroitoŋ 
+left hand: aNu	aka	kumɔʔ 
+right: aNu	aka	kumɔʔ 
+1 sg.: ni 
+be knowledgeable: kʊːkaʰ 
+head louse: hoh 
+male: raŋuriwah 
+much: ponnaʔ 
+multiple: ponnaʔ 
+several: ponnaʔ 
+hill: kinum	mita	mɪtaʔ	tuwa 
+title: dina	mi	taN 
+nighttime: motumo	moːŋɔʔ	muNo7 
+adulterous: no7	nom	noβʷalɪ 
+single: no7	nom	noβʷalɪ 
+the: no7	nom	noβʷalɪ 
+unprincipled: no7	nom	noβʷalɪ 
+human: nɔmmaeʔ 
+human being: nɔmmaeʔ 
+rainy weather: lowaʔ	ɪŋɪnaʔ 
+path: monarE	toru 
+route: monarE	toru 
+hide: kaN	kaŋ 
+little: pɛhkita 
+smallness: pɛhkita 
+rock: kupuri	kupuriʔ 
+2 sg: dɔ	rɔ 
+you: dɔ	rɔ 
+grind: kisakaroʔ 
+go: konnuitoŋ 
+1 pl. inc.: ne 
+we: ne 
+we₁: ne 
+whiteness: kaːkotoʔ 
+who?: pa 
+female: kuraⁱsaʔ 
+dull: urahah 
+serious: urahah 

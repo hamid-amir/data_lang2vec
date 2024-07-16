@@ -1,0 +1,317 @@
+all: баьри	баьри затта 
+every: баьри	баьри затта 
+ash: куьл 
+ashes: куьл 
+bark: кабык 
+big: кенъ	уьйкен 
+bigness: кенъ	уьйкен 
+large: кенъ	уьйкен 
+bird: кус 
+bite: тислев 
+black: кара 
+blood: kan	кан 
+bone: siek	siyek	суьек 
+breast: emSek	kekirek	коькирек	эмшек 
+breasts: emSek	kekirek	коькирек	эмшек 
+claw: тырнак 
+nail: тырнак 
+talon: тырнак 
+cloud: булыт 
+cold: сувык 
+come: kel	йувыклав	келуьв 
+come from: kel	йувыклав	келуьв 
+be dead: el	кешкен	оьлген	оьлмек	оьлуьв 
+dead: el	кешкен	оьлген	оьлмек	оьлуьв 
+die: el	кешкен	оьлген	оьлмек	оьлуьв 
+dog: it	ийт 
+drink: iS	ишуьв 
+dry: кепкен	куры 
+ear: kulak	кулак 
+earth: ер	кырал	эл 
+ground: ер	кырал	эл 
+land: ер	кырал	эл 
+soil: ер	кырал	эл 
+eat: ашав	ашамак	емек 
+egg: йумыртка 
+eye: kez	коьз 
+feather: канат	кушына 
+fire: ot	от 
+fish: Sabak	baluk	балык	шабак 
+fly: ушув 
+fly v.: ушув 
+foot: табан 
+full: tolu	толы 
+give: беруьв 
+good: йахшы 
+green: йасыл 
+hair: шаш 
+hand: kolduN	uSu	колдынь ушы 
+left hand: kolduN	uSu	колдынь ушы 
+right: kolduN	uSu	колдынь ушы 
+head: бас 
+hear: esit	эситуьв 
+heart: йурек 
+horn: miyiz	муьйиз 
+1 sg.: men	мен 
+I: men	мен 
+kill: оьлтирмек	оьлтируьв 
+knee: тиз 
+be knowledgeable: билуьв 
+know: билуьв 
+leaf: yapurak	йапырак 
+lie: йатмак	йатув 
+lie down: йатмак	йатув 
+liver: bavur	бавыр 
+long: узын 
+head louse: bit	бийт 
+louse: bit	бийт 
+male: эр киси	эркек 
+man: kisi	аьдем	инсан	киси 
+many: коьп	кыйлы 
+much: коьп	кыйлы 
+multiple: коьп	кыйлы 
+several: коьп	кыйлы 
+flesh: каркыра 
+meat: каркыра 
+moon: ай 
+hill: tav	tebe	тав	тоьбе 
+mountain: tav	tebe	тав	тоьбе 
+mouth: авыз 
+name: at	ат 
+title: at	ат 
+neck: мойын 
+new: yaNu	йанъы 
+night: keSe	кеше 
+nighttime: keSe	кеше 
+nose: burun	бурын 
+adulterous: bir 
+one: bir 
+single: bir 
+that: bir 
+the: bir 
+unprincipled: bir 
+human: kisi	аьдем	инсан	киси 
+human being: kisi	аьдем	инсан	киси 
+person: kisi	аьдем	инсан	киси 
+rain: йамгыр 
+rainy weather: йамгыр 
+red: кызыл 
+path: sokpak	yol 
+road: sokpak	yol 
+route: sokpak	yol 
+root: тамыр 
+round: дымалак	тоьгерек 
+sand: кайыр	кум 
+say: айтув 
+see: ker	коьруьв 
+seed: урлык 
+sit: олтырув 
+hide: ken	teri	коьн	тери 
+skin: ken	teri	коьн	тери 
+sleep: уйклав	уйкламак 
+little: кишкей 
+small: кишкей 
+smallness: кишкей 
+smoke: туьтин 
+star: yulduz	йулдыз 
+rock: kaya	tas	кайа	тас 
+stone: kaya	tas	кайа	тас 
+sun: kin kezi	куьн коьзи 
+swim: йалдав 
+tail: куйрык 
+2 sg: sen	сен	сиз 
+thou: sen	сен	сиз 
+you: sen	сен	сиз 
+tongue: til	тил 
+tooth: tis	тис 
+tree: terek 
+grind: eki	эки 
+two: eki	эки 
+go: йуруьв 
+walk: йуруьв 
+hot: йылы 
+warm: йылы 
+water: suv	сув 
+1 pl. inc.: biz	биз 
+we: biz	биз 
+we₁: biz	биз 
+what: не 
+white: ак 
+whiteness: ак 
+who: ким 
+who?: ким 
+female: пише	хатын 
+woman: пише	хатын 
+yellow: сары 
+distant: алыста	узакта 
+far: алыста	узакта 
+dull: авыр 
+heavy: авыр 
+serious: авыр 
+close: йанында	касында 
+near: йанында	касында 
+ner: йанында	касында 
+salt: туз 
+short: кыска 
+snake: йылан 
+thin: арык	йука 
+wind: ел 
+earthworm: курт 
+worm: курт 
+year: йыл 
+2 pl.: сиз 
+ye: сиз 
+you all: сиз 
+3 pl.: олар 
+they: олар 
+where: кайда	кайдан 
+where?: кайда	кайдан 
+when: кайзаман	кашан 
+when?: кайзаман	кашан 
+how: калай	нешик 
+how?: калай	нешик 
+some: азын-шогын	бар кеше 
+few: аз	кем 
+three: уьш 
+four: доьрт 
+five: бес 
+broad: кенъ 
+wide: кенъ 
+wideness: кенъ 
+fat: иш май	куйрык май 
+thick: базык	домбай 
+narrow: тар 
+child: бала	сабий 
+principal wife: пише	хатын 
+wife: пише	хатын 
+husband: бай	киев	эр 
+his mother: ана 
+mother: ана 
+my mother: ана 
+father: ата 
+his father: ата 
+my father: ата 
+animal: айван 
+forest: агашлык	орман 
+woods: агашлык	орман 
+branch: бутак 
+stick: бутак 
+fruit: емис 
+flower: гуьл	шешекей 
+grass: от	оьлен 
+cord: йип 
+rope: йип 
+grease: иш май	куйрык май 
+fingernail: тыркак 
+leg: айак 
+wing: канат 
+gut: шеклер 
+guts: шеклер 
+insides: шеклер 
+intestine: шеклер 
+intestines: шеклер 
+back: арка	сырт 
+suck: синъдируьв	сорув 
+spit: туькируьв	туькиршик 
+vomit: кусувы келуьв 
+blow: уьпируьв 
+breath: тыныс алув 
+breathe: тыныс алув 
+laugh: куьлуьв 
+laughter: куьлуьв 
+cogitate: ойлав 
+reflect: ойлав 
+think: ойлав 
+smell: ийискелев 
+sniff: ийискелев 
+afraid: коркув 
+be afraid: коркув 
+fear: коркув 
+fright: коркув 
+alive: енлы	йашав	йашамак 
+be alive: енлы	йашав	йашамак 
+life: енлы	йашав	йашамак 
+live: енлы	йашав	йашамак 
+living: енлы	йашав	йашамак 
+fight: согысув	токаласув	тоьбелесуьв 
+hunt: анъга шыгув 
+beat: согув	тоьбелев	урмак	урув 
+hit: согув	тоьбелев	урмак	урув 
+strike: согув	тоьбелев	урмак	урув 
+cut: кесуьв 
+hack: кесуьв 
+cut open: йарув	уватув 
+split: йарув	уватув 
+pierce: сугув	шаншув 
+stab: сугув	шаншув 
+dig: казув 
+tell lies: елган айтув 
+stand: турагалув	турув 
+turn: ашын лйув 
+turn around: ашын лйув 
+turn round: ашын лйув 
+drop: йыгылув	туьсуьв 
+fall: йыгылув	туьсуьв 
+grasp: тутув	ыслап турув 
+hold: тутув	ыслап турув 
+hold in arm: тутув	ыслап турув 
+squeeze: сыгув 
+wring: сыгув 
+rub: суьртуьв	сыпырув	ысып тайдырув 
+wipe: суьртуьв	сыпырув	ысып тайдырув 
+wash: йувмак	йувув 
+wash clothes: йувмак	йувув 
+push: ийтев	теберуьв 
+shove: ийтев	теберуьв 
+throw: атув	таслав 
+bind: байлав 
+fasten: байлав 
+tie: байлав 
+tie up: байлав 
+sew: тигуьв 
+count: самав 
+enumerate: самав 
+number: самав 
+tally: самав 
+sing: йырлав 
+have fun: ойнав 
+play: ойнав 
+float: йалдав	йузуьв 
+flow: агув	куйылув	тоьгулуьв 
+brook: агым	агын	йылла	сув	шокырак 
+river: агым	агын	йылла	сув	шокырак 
+stream: агым	агын	йылла	сув	шокырак 
+lake: коьл 
+ocean: тенъиз 
+sea: тенъиз 
+dust: шанъ 
+fog: туман 
+sky: коьк 
+snow: кар 
+ice: буз	бузлавык 
+blaze: йагув 
+burn: йагув 
+day: куьн 
+daylight: куьн 
+daytime: куьн 
+bad: йаман 
+evil: йаман 
+rot: шириген	ширик 
+rotten: шириген	ширик 
+dirty: кир	нас 
+filthy: кир	нас 
+soiled: кир	нас 
+straight: теше	тувра	туьз 
+sharp: оьткир	сисли 
+blunt: акмак	анълавсыз	топал 
+smooth: тешс	туьз 
+damp: дымкыл	сув	ызгар 
+wet: дымкыл	сув	ызгар 
+correct: дурыс	туьзи 
+right side: онъ 
+left: сол 
+in: ишинде 
+inside: ишинде 
+and: эм 
+if: эгер 
+because: неге десе 

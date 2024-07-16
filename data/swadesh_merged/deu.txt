@@ -1,0 +1,377 @@
+all: alle | all	alle	jeder 
+all: alles | all	alle	jeder 
+and: und 
+animal: Tier 
+animal: Tier, das 
+ashes: Asche 
+ashes: Asche, die 
+at: an | an	bei	zu 
+at: bei | an	bei	zu 
+back: Rücken 
+back: Rücken, zurück 
+bad: böse, schlecht | arg	böse	schlecht	schlimm	übel 
+bad: schlecht | arg	böse	schlecht	schlimm	übel 
+bark: bellen | Borke	Rinde 
+bark: Rinde | Borke	Rinde 
+because: weil | da	denn	um	weil 
+belly: Bauch | Bauch	Magen 
+belly: Bauchnabel, der | Bauch	Magen 
+big: groß | gross	groß 
+bird: Vogel 
+bird: Vogel, der 
+bite: beißen | beissen	beißen 
+black: schwarz 
+blood: Blut 
+blood: Blut, das 
+blow: blasen | blasen	wehen 
+blow: pusten | blasen	wehen 
+bone: Knochen | Bein	Knochen 
+bone: Knochen, der | Bein	Knochen 
+breast: Brust, die 
+breast: chathi | Brust 
+breast: weibliche Brust 
+breathe: atmen | Atem	Hauch	atmen 
+burn: brennen | branden	brennen 
+child: Kind 
+child: Kind, das 
+cloud: Wolke 
+cloud: Wolke, die 
+cold: kalt 
+come: kommen 
+correct: korrekt | recht	richtig 
+correct: richtig | recht	richtig 
+count: zählen | Anzahl	Zahl	zahlen	zählen 
+cut: schneiden | durchschneiden	kneifen	schneiden 
+cut: schneiden,  Schnitt, der | durchschneiden	kneifen	schneiden 
+day: Tag 
+day: Tag, der 
+die: sterben | Tod	sterben	tot 
+dig: graben 
+dirty: schmutzig | schmierig	schmutzig 
+dog: Hund 
+dog: Hund, der 
+drink: trinken 
+dry: trocken | dürr	trocken 
+dust: Staub 
+dust: Staub, der 
+ear: Ohr 
+ear: Ohr, das 
+earth: Erde | Boden	Erde	Grund	Land 
+earth: Erde, die | Boden	Erde	Grund	Land 
+eat: essen | essen	speisen 
+eat: eßen | essen	speisen 
+egg: Ei 
+egg: Ei, das 
+eye: Auge 
+eye: Auge, das 
+fall: fallen 
+fall: fallen, Herbst 
+far: weit | fern	weit 
+father: Vater 
+father: Vater, der 
+fat (n.): Fett 
+fat (n.): Fett, das 
+fear: Furcht, die, fürchten | Angst	Furcht	fürchten	schrecken 
+fear: fürchten | Angst	Furcht	fürchten	schrecken 
+feather: Feder 
+feather: Feder, die 
+few: wenige | wenig	wenige 
+fight: kämpfen | fechten	kämpfen 
+fingernail: Fingernagel | Fingernagel	Nagel 
+fingernail: Nagel | Fingernagel	Nagel 
+fire: Feuer 
+fish: Fisch 
+five: fünf 
+float: treiben | schweben	schwimmen	treiben 
+flower: Blume 
+flow: fließen | fließen	rinnen 
+fly (v.): fliegen 
+fog: Nebel 
+foot: Fuß | Fuss	Fuß 
+forest: Wald 
+four: vier 
+freeze: frieren | frieren	gefrieren 
+fruit: Frucht | Frucht	Obst 
+fruit: Obst | Frucht	Obst 
+full: voll 
+give: geben 
+good: gut 
+grass: Gras 
+green: grün 
+guts: Eingeweide | Eingeweide	Gedärme	Innereien 
+hair: Haare 
+hand: Hand 
+head: Kopf | Haupt	Kopf 
+hear: hören 
+heart: Herz 
+heavy: schwer 
+he: er 
+here: hier 
+hit: schlagen 
+hold: halten 
+horn: Horn 
+how: wie 
+hunt: jagen 
+husband: Mann | Ehegatte	Ehemann	Gatte	Gemahl	Mann 
+ice: Eis 
+if: wenn | als	falls	ob	wenn 
+I: ich 
+in: in | in	innerhalb 
+kill: töten | erschlagen	töten	umbringen 
+knee: Knie 
+know: wißen | kennen	wissen 
+lake: See | Meer	See 
+laugh: lachen 
+leaf: Blatt 
+left: links | Link	links 
+leg: Bein 
+lie: liegen | liegen	sich hinlegen | Lüge	liegen	lügen 
+live: leben | aam Leben	leben	lebend	lebendig	lebendig sein 
+liver: Leber 
+long: lang 
+louse: Laus | Kopflaus	Laus 
+man: Mann | Mensch	Person 
+many: viele | manch	mehrere	viel	viele 
+meat: Fleisch 
+moon: Mond 
+mother: Mutter 
+mountain: Berg | Berg	Hügel 
+mouth: Mund 
+name: Name | Name	Titel 
+nape: Nacken 
+narrow: schmal | eng	schmal 
+near: nah | dicht bei	nah	nahe 
+neck: Hals | Hals	Nacken 
+new: neu 
+night: Nacht 
+nose: Nase 
+not: nicht 
+old: alt 
+one: eins | ein	eins 
+other: andere | ander	andere	sonstig 
+person: Mensch | Mensch	Person 
+play: spielen 
+pull: ziehen | drücken	ziehen 
+push: schieben | drücken	schieben	stoßen 
+rain: Regen | Regen	regen 
+red: rot 
+right: rechts | Hand | recht	rechts 
+river: Fluß | Bach	Fluss	Fluß	Strom 
+road: Weg | Pfad	Straße	Weg 
+root: Wurzel 
+rope: Seil | Schnur	Seil	Strick	Tau 
+rotten: verrottet | faul	rotten	verfault	vermodert	verrottet 
+round: rund 
+rub: reiben | reiben	wischen 
+salt: Salz 
+sand: Sand 
+say: sagen | Sand 
+scratch: kratzen | greifen	kratzen 
+sea: See | Meer	See 
+seed: Samen | Saat	Same	Samen 
+see: sehen 
+sew: nähen 
+sharp: scharf 
+short: kurz 
+sing: singen 
+sit: sitzen 
+skin: Haut | Fell	Haut 
+sky: Himmel | Himmel	Luft 
+sleep: schlafen 
+small: klein 
+smell: riechen 
+smoke: Rauch 
+smooth: glatt | eben	glatt 
+snake: Schlange 
+snow: Schnee 
+some: ein paar | einige 
+spit: spucken | speien	spucken 
+split: spalten 
+squeeze: quetschen | auswinden	kneifen	quetschen	wringen 
+stab: stechen 
+stand: stehen 
+star: Stern 
+stick: Stock | Ast	Stock	Zweig 
+stone: Stein | Fels	Klippe	Stein 
+straight: gerade | gerade	recht 
+suck: saugen 
+sun: Sonne 
+swell: schwellen 
+swim: schwimmen 
+tail: Schwanz 
+that: jener | -e	-es etc.	das	der	derjenige etc.	die	etc.	jener	jenes | ein	eins 
+there: da | da	dort 
+they: sie 
+thick: dick 
+thin: dünn 
+think: denken | denken	nachdenken 
+this: dieser | -e	-es etc.	dieser	dieses 
+thou: du | Sie	du 
+three: drei 
+throw: werfen 
+tie: binden | binden	knüpfen 
+tongue: Zunge 
+tooth: Zahn 
+tree: Baum 
+turn: drehen 
+two: zwei | zwei	zwo 
+vomit: sich übergeben | brechen	erbrechen	kotzen	sich brechen	sich erbrechen 
+walk: gehen | gehen	laufen 
+warm: heiß 
+wash: waschen 
+water: Wasser 
+water: Waßer | Wasser 
+wet: nass | feucht	nass 
+we: wir | uns	wir 
+what: was? 
+when: wann | wann	wenn 
+where: wo 
+white: weiß | weiss	weiß 
+who: wer? 
+wide: breit | breit	weit 
+wife: Frau | Ehefrau	Ehegattin	Frau	Gattin	Gemahlin 
+wind: Wind 
+wing: Flügel 
+wipe: wischen | abwischen	weinen	wischen 
+with: mit 
+woman: Frau | Frau	Weib 
+woman: Weib | Frau	Weib 
+worm: Wurm 
+year: Jahr 
+yellow: gelb 
+you: ihr | Sie	du | Sie	ihr 
+every: all	alle	jeder 
+ash: Asche 
+abdomen: Bauch	Magen 
+bigness: gross	groß 
+large: gross	groß 
+breasts: Brust 
+claw: Klaue	Kralle 
+nail: Klaue	Kralle 
+talon: Klaue	Kralle 
+come from: kommen 
+be dead: Tod	sterben	tot 
+dead: Tod	sterben	tot 
+ground: Boden	Erde	Grund	Land 
+land: Boden	Erde	Grund	Land 
+soil: Boden	Erde	Grund	Land 
+fly: fliegen 
+fly v.: fliegen 
+hair: Haar 
+left hand: Hand 
+1 sg.: ich 
+be knowledgeable: kennen	wissen 
+lie down: liegen	sich hinlegen 
+head louse: Kopflaus	Laus 
+male: Mann 
+much: manch	mehrere	viel	viele 
+multiple: manch	mehrere	viel	viele 
+several: manch	mehrere	viel	viele 
+flesh: Fleisch 
+hill: Berg	Hügel 
+title: Name	Titel 
+nighttime: Nacht 
+adulterous: ein	eins 
+single: ein	eins 
+the: ein	eins 
+unprincipled: ein	eins 
+human: Mensch	Person 
+human being: Mensch	Person 
+rainy weather: Regen	regen 
+path: Pfad	Straße	Weg 
+route: Pfad	Straße	Weg 
+hide: Fell	Haut 
+little: klein 
+smallness: klein 
+rock: Fels	Klippe	Stein 
+2 sg: Sie	du 
+grind: zwei	zwo 
+go: gehen	laufen 
+hot: warm 
+warm: warm 
+1 pl. inc.: uns	wir 
+we₁: uns	wir 
+what: was 
+whiteness: weiss	weiß 
+who: wer 
+who?: wer 
+female: Frau	Weib 
+distant: fern	weit 
+dull: schwer 
+serious: schwer 
+close: dicht bei	nah	nahe 
+ner: dicht bei	nah	nahe 
+earthworm: Wurm 
+3 sg.: er 
+she: er 
+2 pl.: Sie	ihr 
+ye: Sie	ihr 
+you all: Sie	ihr 
+3 pl.: sie 
+where?: wo 
+when?: wann	wenn 
+how?: wie 
+broad: breit	weit 
+wideness: breit	weit 
+fat: Fett	fett 
+principal wife: Ehefrau	Ehegattin	Frau	Gattin	Gemahlin 
+his mother: Mutter 
+my mother: Mutter 
+his father: Vater 
+my father: Vater 
+woods: Wald 
+branch: Ast	Stock	Zweig 
+cord: Schnur	Seil	Strick	Tau 
+grease: Fett	fett 
+arm: Hand 
+gut: Eingeweide	Gedärme	Innereien 
+insides: Eingeweide	Gedärme	Innereien 
+intestine: Eingeweide	Gedärme	Innereien 
+intestines: Eingeweide	Gedärme	Innereien 
+breath: Atem	Hauch	atmen 
+laughter: lachen 
+cogitate: denken	nachdenken 
+reflect: denken	nachdenken 
+sniff: riechen 
+afraid: Angst	Furcht	fürchten	schrecken 
+be afraid: Angst	Furcht	fürchten	schrecken 
+fright: Angst	Furcht	fürchten	schrecken 
+alive: aam Leben	leben	lebend	lebendig	lebendig sein 
+be alive: aam Leben	leben	lebend	lebendig	lebendig sein 
+life: aam Leben	leben	lebend	lebendig	lebendig sein 
+living: aam Leben	leben	lebend	lebendig	lebendig sein 
+beat: schlagen 
+strike: schlagen 
+hack: durchschneiden	kneifen	schneiden 
+cut open: spalten 
+pierce: stechen 
+tell lies: Lüge	liegen	lügen 
+turn around: drehen 
+turn round: drehen 
+drop: fallen 
+grasp: halten 
+hold in arm: halten 
+wring: auswinden	kneifen	quetschen	wringen 
+wash clothes: waschen 
+shove: drücken	schieben	stoßen 
+bind: binden	knüpfen 
+fasten: binden	knüpfen 
+tie up: binden	knüpfen 
+enumerate: Anzahl	Zahl	zahlen	zählen 
+number: Anzahl	Zahl	zahlen	zählen 
+tally: Anzahl	Zahl	zahlen	zählen 
+have fun: spielen 
+brook: Bach	Fluss	Fluß	Strom 
+stream: Bach	Fluss	Fluß	Strom 
+ocean: Meer	See 
+blaze: branden	brennen 
+daylight: Tag 
+daytime: Tag 
+evil: arg	böse	schlecht	schlimm	übel 
+rot: faul	rotten	verfault	vermodert	verrottet 
+filthy: schmierig	schmutzig 
+soiled: schmierig	schmutzig 
+blunt: stumpf 
+damp: feucht	nass 
+right side: recht	rechts 
+inside: in	innerhalb 

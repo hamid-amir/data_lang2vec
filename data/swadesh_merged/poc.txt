@@ -1,0 +1,323 @@
+all:  chunchel | CinCel 
+all:  ke\entero | CinCel 
+ashes:  cha·j | Cax 
+ashes:  sa\ chahj | Cax 
+bark:  k\as | ix 
+bark:  yoc\oj che | ix 
+big:  nim 
+bird:  chicop | c"ikin 
+bird:  tz\iquin | c"ikin 
+bite:  tiu | tiw 
+bite:  wahach | tiw 
+black:  k\ek | q"eq 
+blood:  quic\ | kik" 
+blood:  wic\ | kik" 
+blow: - 
+blow:  ahlinic 
+bone:  b\ak | w"aq 
+bone:  wak | w"aq 
+breast:  chuch | c"uC" 
+breast:  wach  a k\ox | c"uC" 
+burn:  c\atom 
+burn:  copic 
+child:  pi\ ac\on 
+child:  q\uisac\un 
+cloud:  co\ sutz\ | suc" 
+cloud:  su·tz\ | suc" 
+cold:  c\uxic | k"uxik 
+come:  chale | Cal 
+come:  cojic | Cal 
+cut: - 
+cut:  yoc\oj 
+day:  k\ij 
+die:  kime 
+die:  quim | kim 
+dig:  - 
+dig:  c\ot 
+dog:  tz\e\ | c"i7 
+dog:  tz\i\ | c"i7 
+drink:  uc\ | uk"ex 
+dry:  chikij | Ciqix 
+dry:  chiquic | Ciqix 
+dust:  po·k 
+dust:  pokolah 
+earth:  ac\al | ak"al 
+earth:  ak\a\l | ak"al 
+ear:  xiquin | xikin 
+eat:  k\oxom | wi7 
+eat:  wi\ic | wi7 
+egg:  maloj | milox 
+egg:  miloj | milox 
+eye:  nak\ wach | naq" waCis 
+eye:  nuk\ wa·ch | naq" waCis 
+fall:  - 
+fall:  k\ehb\ίc 
+far:  najt 
+father:  rij 
+fat (n.):  k\ina·\ 
+fat (n.):  manteca 
+fear:  - 
+fear:  yohjic 
+feather: pluma | rix 
+feather:  rij | rix 
+fingernail:  ixcak 
+fingernail:  ixkak 
+fire:  k\a·k | q"aq" 
+fire:  k\ak\ | q"aq" 
+fish:  car | kar 
+five:  ho\ob\ 
+five:  ho\wab\ 
+fly (v.):  purinic 
+fly (v.):  rupur 
+fog:  - 
+fog:  mutz\ jab\ 
+foot:  ok | oq 
+foot:  tuk | oq 
+four:  qui\ib\ 
+four:  quijib\ 
+fruit: - 
+fruit:  wa\ che· 
+full:  noajenak | nuxunaq 
+full:  nujinak | nuxunaq 
+give:  rula\ | yew 
+give:  yeu | yew 
+good:  atob\ | atob" 
+good:  no\ wajal | atob" 
+green:  rax | reS 
+hair:  nah | rismal na 
+hair:  rismal nah 
+hand:  k\ab\ | q"ab" 
+head:  jalom | na 
+head:  nah 
+hear:  b\ir | b"irax 
+heart:  anima | %amna 
+heart:  chunwalma | %amna 
+hear:  waraj | b"irax 
+heavy:  ahl 
+here:  ayu\ 
+here:  riyu\ 
+hit: - 
+hit:  k\oj 
+horn:  oc\a\ | uk"a7 
+horn:  ruc\a·\ | uk"a7 
+how?: - 
+how?:  ch\i 
+husband:  b\ahil 
+husband:  wahil 
+I: bin | hin 
+I: hin 
+kill:  cans | kansax 
+kill:  cansa· | kansax 
+knee:  nah chehc | nah C"ek 
+knee:  wach chak | nah C"ek 
+know:  atalim | nab"ex 
+know:  ehťal | nab"ex 
+lake:  ha\ 
+lake:  palau 
+laugh: - 
+laugh:  se\el 
+leaf:  xak | Saq 
+left:  - 
+left:  tz\et 
+lie:  yocic | yoklik 
+lie:  yok | yoklik 
+liver:  \igado | tamat 
+liver:  tamat 
+long: nim | nim roq 
+long:  niŋ wach | nim roq 
+louse:  tamat | uk" 
+louse:  uc\ | uk" 
+man:  winak | %kristy~ana 
+meat:  ch\ac | tiwik 
+meat:  tib\cal | tiwik 
+moon:  ch\um  poh 
+moon:  poh 
+mountain:  rax che· | yuq" 
+mountain:  yuk\ | yuq" 
+mouth:  chi\ | Ci7 
+mouth:  chi· | Ci7 
+name:  b\ih | b"inal 
+name:  wih | b"inal 
+near:  loho\ ti 
+near:  ma  najt taj 
+neck:  alak | alaq 
+new:  ac\ | ak" 
+night:  chak\ab\ | aq"ab" 
+nose:  jo\ | xu7 
+nose:  ju\ | xu7 
+one:  jinaj | jinaaj	xinax 
+other: - 
+other:  tocom 
+person:  cristianu | %kristy~ana 
+person:  maj winak | %kristy~ana 
+pull: - 
+pull:  quer 
+rain:  jab\ | xab" 
+red:  cak | kaq 
+right: - | q"ab" 
+right:  sac\aj | q"ab" 
+river:  nim ha\ 
+river:  sa\ la ha\ 
+road:  rok yu·k\/b\e | b"e 
+road:  wieh | b"e 
+root:  ra·\ | ra7 
+root:  yuhm | ra7 
+rope:  c\aham 
+rope:  laso 
+rope:  lasuh 
+rope:  sajqui 
+rotten:  k\ah 
+rotten:  k\ahlam 
+round:  cotoquic | t"olot"ik 
+round:  junc\oh | t"olot"ik 
+sand:  saminib\ 
+sand:  sanib\ 
+say:  k\oric | q"or 
+say:  rokax | q"or 
+seed:  ija\ | ixa7	xa7 
+see:  il | ilow 
+see:  rola\ | ilow 
+sing: - 
+sing:  tz\uy/wich 
+sit:  ch\ic | c"uklik 
+sit:  chunic | c"uklik 
+skin:  tz\uhmal | c"umal 
+skin:  tz\uhum | c"umal 
+sleep:  wir 
+sleep:  wiric 
+smell:  cok tak 
+smell:  pi\ 
+smoke:  si·b\ | sib" 
+smoke:  sib\ | sib" 
+stab: - 
+stab:  tok\ 
+stand:  pa\ | palik 
+stand:  pa\ic | palik 
+star:  ch\imi·n | C"imil	C"umil 
+star:  ch\umil | C"imil	C"umil 
+stone:  ab\aj | ab"ax 
+stone:  ca\ | ab"ax 
+stone:  quehb\al/ca\ | ab"ax 
+suck: - 
+suck:  tzub\ 
+sun:  k\ij | q"ix 
+swell: - 
+swell:  sib\jic 
+swim:  mux | muSun 
+swim:  nadar | muSun 
+tail:  jia | xe 
+tail:  rije·\ | xe 
+that:  lo\ | re7 rere7	re7 wulu7 
+that:  wulu | re7 rere7	re7 wulu7 
+there: - 
+there: ar 
+thick:  nim pam 
+thick:  nim pam/pim 
+thin:  q\uisin pam 
+thin:  xax/b\ak 
+this:  wili | re7 wili 
+thou: hat 
+tongue:  a·k\ | aq" 
+tongue:  ak\ | aq" 
+tooth:  e | ehis 
+tooth:  eh | ehis 
+tooth:  nuca\ | ehis 
+tooth:  wiah | ehis 
+tree:  che· | Ce7 
+tree:  chie\ | Ce7 
+two:  qui\b\ | ci’i’m	kib" 
+two:  qui\ib\ | ci’i’m	kib" 
+walk:  b\ehic | b"eh 
+walk:  weh | b"eh 
+warm:  tz\a\ 
+wash:  - 
+wash: - 
+wash:  tz\aj 
+water:  ha\ | ha7 
+we:  hok | hox 
+we:  keh | hox 
+wet:  mojinak 
+wet:  tz\akic 
+what:  chi\in | Cax b"i 
+what:  hayura\ | Cax b"i 
+when?: - 
+when?:  haruj 
+where?:  hayu\ 
+where?:  pah 
+white:  sak | saq 
+who:  ha  wach | han waC 
+who:  hayo\ | han waC 
+wife:  ehq\uen 
+wife:  ixkiel ma\ winak 
+woman:  ixk\un | Soq 
+woman:  ixok | Soq 
+woman:  xila\ | Soq 
+year:  ha·b\ 
+year:  hab\ 
+ye:  hat 
+ye:  hat tak 
+yellow:  k\an | q"an 
+every: CinCel 
+ash: Cax 
+abdomen: pam 
+belly: pam 
+big: nim 
+bigness: nim 
+large: nim 
+breasts: c"uC" 
+claw: iSk"aq 
+nail: iSk"aq 
+talon: iSk"aq 
+come from: Cal 
+be dead: kim 
+dead: kim 
+ground: ak"al 
+land: ak"al 
+soil: ak"al 
+fat: %manteka 
+fat n.: %manteka 
+grease: %manteka 
+lubricant: %manteka 
+oil: %manteka 
+fly: Sik"in 
+fly v.: Sik"in 
+left hand: q"ab" 
+1 sg.: hin 
+be knowledgeable: nab"ex 
+lie down: yoklik 
+head louse: uk" 
+male: winaq 
+many: k"ih 
+much: k"ih 
+multiple: k"ih 
+several: k"ih 
+flesh: tiwik 
+moon: poh 
+hill: yuq" 
+title: b"inal 
+nighttime: aq"ab" 
+not: mata 
+adulterous: jinaaj	xinax 
+single: jinaaj	xinax 
+the: jinaaj	xinax 
+unprincipled: jinaaj	xinax 
+human: %kristy~ana 
+human being: %kristy~ana 
+rainy weather: xab" 
+path: b"e 
+route: b"e 
+hide: c"umal 
+sleep: wir 
+little: t"uC 
+small: t"uC 
+smallness: t"uC 
+rock: ab"ax 
+2 sg: hat 
+you: hat 
+grind: ci’i’m	kib" 
+go: b"eh 
+1 pl. inc.: hox 
+we₁: hox 
+whiteness: saq 
+who?: han waC 
+female: Soq 

@@ -1,0 +1,144 @@
+all: hu/gadoo/	iluNa 
+every: hu/gadoo/	iluNa 
+ash: lehu 
+ashes: lehu 
+bark: gili 
+abdomen: dinae	gona	tinae 
+belly: dinae	gona	tinae 
+big: lanui	lau/malie 
+bigness: lanui	lau/malie 
+large: lanui	lau/malie 
+bird: manu lele	manulele 
+bite: gadi	kadi 
+black: uli	ulihli 
+blood: dodo 
+bone: ivi 
+breast: gaanunu 
+breasts: gaanunu 
+burn: dudu	duungia 
+burn tr.: dudu	duungia 
+cold: magalili 
+come: humai 
+come from: humai 
+be dead: made	magau	mailele 
+dead: made	magau	mailele 
+die: made	magau	mailele 
+dog: gandu 
+drink: unu 
+dry: mmasa 
+ear: dalinga 
+eat: gai 
+eye: ganomada 
+feather: hulumanu 
+fire: ahi 
+fish: iga	mamu 
+fly: lele 
+fly v.: lele 
+give: gamai	garadu 
+good: danua	malie 
+green: nu/ui 
+hair: NaNaulu	hulu	ngae	ngangailu 
+hand: gubulima	lima 
+left hand: gubulima	lima 
+right: gubulima	lima 
+head: biho	ulu 
+hear: laNona	longo 
+heart: hadumanava 
+1 sg.: -gu	au 
+I: -gu	au 
+kill: daa	dagimagau 
+be knowledgeable: ilo	ilo/o 
+know: ilo	ilo/o 
+leaf: lau 
+lie: baini gi lalo	bani 
+lie down: baini gi lalo	bani 
+liver: ade 
+long: lloa	loloa 
+head louse: gudu 
+louse: gudu 
+male: daane	tane 
+man: dangada	taNada 
+many: lagolago 
+much: lagolago 
+multiple: lagolago 
+several: lagolago 
+moon: maa-sina	masina 
+hill: mouNa 
+mountain: mouNa 
+mouth: Nudu	ngudu 
+name: iNo	ingoo 
+title: iNo	ingoo 
+neck: ua 
+new: hoou	hou 
+night: bo	boo 
+nighttime: bo	boo 
+nose: uhu	usu 
+not: deai 
+adulterous: dahi 
+one: dahi 
+single: dahi 
+that: la 
+the: dahi 
+unprincipled: dahi 
+human: dangada	taNada 
+human being: dangada	taNada 
+person: dangada	taNada 
+rain: ua 
+rainy weather: ua 
+red: mea	mmea 
+path: haiava 
+road: haiava 
+route: haiava 
+root: aga 
+sand: ssu/oni/oni 
+say: basa 
+see: gide 
+sit: noho 
+hide: gili 
+skin: gili 
+sleep: moe	seni 
+little: damame	l/ligi/	lega/lega	masei 
+small: damame	l/ligi/	lega/lega	masei 
+smallness: damame	l/ligi/	lega/lega	masei 
+smoke: ahi	useahi 
+stand: du 
+star: hedu	heduu 
+rock: hadu 
+stone: hadu 
+sun: la 
+swim: kau 
+tail: ssugi 
+this: nei 
+2 sg: godou	goe	golu 
+thou: godou	goe	golu 
+you: godou	goe	golu 
+tongue: alelo 
+tooth: niho 
+grind: ka-lua	lua 
+two: ka-lua	lua 
+go: haka/taahao	saele	sese	sesee 
+walk: haka/taahao	saele	sese	sesee 
+hot: mahana 
+warm: mahana 
+water: vai 
+1 pl. inc.: gida/adeu	gimadeu 
+we: gida/adeu	gimadeu 
+we₁: gida/adeu	gimadeu 
+what: aha 
+white: dea	tea 
+whiteness: dea	tea 
+who: go/ai/	goai 
+who?: go/ai/	goai 
+female: hahine	hine 
+woman: hahine	hine 
+yellow: gano/ango	ganoaNo 
+distant: mmao 
+far: mmao 
+dull: dae/maha/ 
+heavy: dae/maha/ 
+serious: dae/maha/ 
+salt: dai 
+short: bodo/bodo 
+wind: madangi	s/sau/ 
+earthworm: dangaloa 
+worm: dangaloa 

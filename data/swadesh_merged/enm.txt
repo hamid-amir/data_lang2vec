@@ -1,0 +1,310 @@
+all: al	ech	everi 
+every: al	ech	everi 
+ash: assh-e 
+ashes: assh-e 
+bark: bark 
+big: big	gret	muchel 
+bigness: big	gret	muchel 
+large: big	gret	muchel 
+bird: brid	foul 
+bite: biten 
+black: blak	swart 
+blood: blod 
+bone: bon 
+breast: brest 
+breasts: brest 
+claw: claue 
+nail: claue 
+talon: claue 
+cloud: cloud	ski-e 
+cold: cold 
+come: comen 
+come from: comen 
+be dead: ded	deth	dien	quellen	sterven	swelten 
+dead: ded	deth	dien	quellen	sterven	swelten 
+die: ded	deth	dien	quellen	sterven	swelten 
+dog: dogge	hound 
+drink: drinken 
+dry: drie	ser-e 
+ear: ere 
+earth: erthe	lond 
+ground: erthe	lond 
+land: erthe	lond 
+soil: erthe	lond 
+eat: eten 
+egg: eg-ge	ei 
+eye: eie 
+feather: fether 
+fire: fir 
+fish: fish 
+fly: flien 
+fly v.: flien 
+foot: fot 
+full: ful 
+give: yeven 
+good: god 
+green: grene 
+hair: fax	her 
+hand: hond-e 
+left hand: hond-e 
+right: hond-e 
+head: hed 
+hear: heren 
+heart: herte 
+horn: horn 
+1 sg.: ich 
+I: ich 
+kill: killen	quellen	slen 
+knee: kne 
+be knowledgeable: connen	iknouen	kennen	knouen	witen 
+know: connen	iknouen	kennen	knouen	witen 
+leaf: lef 
+lie: lien 
+lie down: lien 
+liver: livere 
+long: long 
+head louse: lous-e	pedicule 
+louse: lous-e	pedicule 
+male: man	wer 
+man: man 
+many: fele	mani	muchel 
+much: fele	mani	muchel 
+multiple: fele	mani	muchel 
+several: fele	mani	muchel 
+flesh: flesh 
+meat: flesh 
+moon: luna	mon-e 
+hill: hil-le	mount	mountain-e 
+mountain: hil-le	mount	mountain-e 
+mouth: mouth 
+name: name 
+title: name 
+neck: hals	nekke	swire 
+new: neue 
+night: night 
+nighttime: night 
+nose: nose 
+adulterous: an 
+one: an 
+single: an 
+that: an 
+the: an 
+unprincipled: an 
+human: man 
+human being: man 
+person: man 
+rain: rein 
+rainy weather: rein 
+red: red 
+root: rote 
+round: round-e 
+sand: sand 
+say: quethen	seien 
+see: sen 
+seed: grain	sed 
+sit: sitten 
+hide: fel	hid-e	skin 
+skin: fel	hid-e	skin 
+sleep: slepen 
+little: litel	smal 
+small: litel	smal 
+smallness: litel	smal 
+smoke: rek-e	smoke 
+star: sterre 
+rock: rok-ke	ston 
+stone: rok-ke	ston 
+sun: sonne 
+swim: swimmen 
+tail: tail 
+2 sg: you 
+thou: you 
+you: you 
+tongue: tong-e 
+tooth: toth 
+grind: twein	two 
+two: twein	two 
+go: gon	walken 
+walk: gon	walken 
+hot: warm 
+warm: warm 
+water: water 
+what: what 
+white: whit 
+whiteness: whit 
+who: who 
+who?: who 
+female: quē̌ne	wif	womman 
+woman: quē̌ne	wif	womman 
+yellow: yelwe 
+distant: fer 
+far: fer 
+dull: hevi 
+heavy: hevi 
+serious: hevi 
+close: neigh	ner-re 
+near: neigh	ner-re 
+ner: neigh	ner-re 
+salt: salt 
+short: short 
+snake: naddre	serpent	snake	worm 
+thin: thin-ne 
+wind: wind 
+earthworm: worm 
+worm: worm 
+year: yer 
+2 pl.: you 
+ye: you 
+you all: you 
+3 pl.: thei 
+they: thei 
+where: wher 
+where?: wher 
+when: whanne 
+when?: whanne 
+how: hou 
+how?: hou 
+some: som 
+few: feue	litel 
+three: thre	three 
+four: four 
+five: fif	five 
+broad: brod	wid-e 
+wide: brod	wid-e 
+wideness: brod	wid-e 
+fat: fatte	grese 
+thick: thik-ke 
+narrow: narw-e	smal	streit 
+child: barn	child 
+principal wife: wif 
+wife: wif 
+husband: hous-bonde 
+his mother: moder 
+mother: moder 
+my mother: moder 
+father: fader 
+his father: fader 
+my father: fader 
+animal: animal	best-e	der 
+forest: forest	wode 
+woods: forest	wode 
+branch: bough	braunch	twist 
+stick: bough	braunch	twist 
+fruit: fruit 
+flower: blom	blosme	flour 
+grass: gras 
+cord: corde	line	rop	streng 
+rope: corde	line	rop	streng 
+grease: fatte	grese 
+fingernail: nail 
+leg: leg 
+wing: wing-e 
+gut: gut	intestine 
+guts: gut	intestine 
+insides: gut	intestine 
+intestine: gut	intestine 
+intestines: gut	intestine 
+back: bak	riǧǧe 
+suck: souken 
+spit: reching-e	speten	spitten 
+vomit: speuen	vomiten 
+blow: blouen 
+breath: breth	brethen 
+breathe: breth	brethen 
+laugh: laughen 
+laughter: laughen 
+cogitate: thinken 
+reflect: thinken 
+think: thinken 
+smell: smellen 
+sniff: smellen 
+afraid: eie	fer	fright 
+be afraid: eie	fer	fright 
+fear: eie	fer	fright 
+fright: eie	fer	fright 
+alive: liven	livi	living-e	on lif	quik 
+be alive: liven	livi	living-e	on lif	quik 
+life: liven	livi	living-e	on lif	quik 
+live: liven	livi	living-e	on lif	quik 
+living: liven	livi	living-e	on lif	quik 
+fight: fighten	kempen 
+hunt: hunten 
+beat: beten	hitten	slen	smiten	striken 
+hit: beten	hitten	slen	smiten	striken 
+strike: beten	hitten	slen	smiten	striken 
+cut: cutten	heuen	kerven	sheren 
+hack: cutten	heuen	kerven	sheren 
+cut open: cleven 
+split: cleven 
+pierce: stabben 
+stab: stabben 
+dig: delven	diggen	graven 
+tell lies: lien 
+stand: stonden 
+turn: writhen 
+turn around: writhen 
+turn round: writhen 
+drop: droppen	fallen 
+fall: droppen	fallen 
+grasp: holden 
+hold: holden 
+hold in arm: holden 
+squeeze: quisen 
+wring: quisen 
+rub: gniden	gnodden	rubben 
+wipe: gniden	gnodden	rubben 
+wash: swilen	washen 
+wash clothes: swilen	washen 
+push: pushen	putten	shouven	thristen 
+shove: pushen	putten	shouven	thristen 
+throw: throuen 
+bind: binden	teien 
+fasten: binden	teien 
+tie: binden	teien 
+tie up: binden	teien 
+sew: seuen 
+count: counten 
+enumerate: counten 
+number: counten 
+tally: counten 
+sing: galen	singen 
+have fun: leiken	pleien	spilen 
+play: leiken	pleien	spilen 
+float: fleten	floten	flotien 
+flow: flouen	rennen 
+brook: brok	river-e	strem 
+river: brok	river-e	strem 
+stream: brok	river-e	strem 
+lake: lak-e 
+ocean: se 
+sea: se 
+dust: dust 
+fog: mist 
+sky: heven	ski-e 
+snow: snou 
+ice: is 
+blaze: brennen 
+burn: brennen 
+day: dai 
+daylight: dai 
+daytime: dai 
+bad: badde	il-le	ivel 
+evil: badde	il-le	ivel 
+rot: roten 
+rotten: roten 
+dirty: filthi	foul	hori-e	unclene 
+filthy: filthi	foul	hori-e	unclene 
+soiled: filthi	foul	hori-e	unclene 
+straight: right	streight 
+sharp: sharp 
+blunt: blont	dul 
+smooth: slight	smethe	smothe 
+damp: moist-e	wet 
+wet: moist-e	wet 
+correct: right 
+right side: right	swither-e 
+left: lift 
+in: in 
+inside: in 
+and: and 
+if: if 
+because: because	bi cause 

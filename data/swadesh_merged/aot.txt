@@ -1,0 +1,172 @@
+all: gumuk 
+every: gumuk 
+ash: tʰapəra 
+ashes: tʰapəra 
+bark: maw=kʰol 
+abdomen: pi=puk 
+belly: pi=puk 
+big: čuŋ- 
+bigness: čuŋ- 
+large: čuŋ- 
+bird: tawʔ 
+bite: kak- 
+black: nak- 
+blood: t3i7	th~3y	tʰəiʔ 
+bone: gereN	kereN	kereŋ 
+breast: muth~ai	muth~ay	čel-bak 
+breasts: muth~ai	muth~ay	čel-bak 
+burn: sawʔ- 
+burn tr.: sawʔ- 
+claw: čak=si=kʰol 
+nail: čak=si=kʰol 
+talon: čak=si=kʰol 
+cloud: raŋ=brǝm	raŋ=brəm 
+cold: ček-	čǝk-	čək- 
+come: rai	raiʔ-a-	ray 
+come from: rai	raiʔ-a-	ray 
+be dead: t3i	th~3i	th~3y	tʰəi- 
+dead: t3i	th~3i	th~3y	tʰəi- 
+die: t3i	th~3i	th~3y	tʰəi- 
+dog: g3i7	k3i	k3y	kǝiʔ	kəiʔ 
+drink: r3N	rǝŋ-	rəŋ- 
+dry: ranʔ- 
+ear: na-kʰal	nakar	nakh~al 
+earth: haʔ 
+ground: haʔ 
+land: haʔ 
+soil: haʔ 
+eat: saʔ- 
+egg: tawʔ=ti	tawʔ=tǝi	tawʔ=təi 
+eye: m3k3ren	m3keren	m3kren	mǝk-ren	mǝk-ǝrǝn	mək-ren	mək-ərən 
+fat: bǝ=tǝm	bə=təm 
+fat n.: bǝ=tǝm	bə=təm 
+grease: bǝ=tǝm	bə=təm 
+lubricant: bǝ=tǝm	bə=təm 
+oil: bǝ=tǝm	bə=təm 
+feather: tawʔ=mǝnʔ	tawʔ=mənʔ 
+fire: wal	walʔ	war 
+fish: na	na7	naʔ 
+fly: pǝw-	pəw- 
+fly v.: pǝw-	pəw- 
+foot: čaʔ 
+full: piN	pʰiŋ- 
+give: hǝnʔ-	hənʔ- 
+good: nem- 
+green: kʰeŋ-ček 
+hair: kʰaw 
+hand: Cak	cak	čak 
+left hand: Cak	cak	čak 
+right: Cak	cak	čak 
+head: dǝ=kǝm	də=kəm 
+hear: na	na- 
+heart: kʰaʔ=tʰoŋ 
+horn: goroN	kh~oroN	koroŋ	kəroŋ	kʰoroŋ 
+1 sg.: aN	aNa	aŋ 
+I: aN	aNa	aŋ 
+kill: soʔot- 
+knee: Cak3w	Caku	čaʔ=ku	čaʔ=kǝw	čaʔ=kəw 
+be knowledgeable: tǝŋ-	təŋ- 
+know: tǝŋ-	təŋ- 
+leaf: Cak	pan=čak 
+lie: ǯǝw-	ǯəw- 
+lie down: ǯǝw-	ǯəw- 
+liver: bika	bith~3n	biʔ=tʰən	pith~3n	piʔ=tʰən 
+long: rawʔ- 
+head louse: k3r3t	kh~3r3k	kʰə=rək 
+louse: k3r3t	kh~3r3k	kʰə=rək 
+male: morot 
+man: morot 
+many: paŋʔ- 
+much: paŋʔ- 
+multiple: paŋʔ- 
+several: paŋʔ- 
+flesh: ran=dai 
+meat: ran=dai 
+moon: ǯa 
+hill: hab3ri	habery~	haʔ=bǝri	haʔ=bəri 
+mountain: hab3ri	habery~	haʔ=bǝri	haʔ=bəri 
+mouth: kʰuʔ-čuk 
+name: bi=muŋ	bi=mǝŋ	bi=məŋ	bim3N	bimuN 
+title: bi=muŋ	bi=mǝŋ	bi=məŋ	bim3N	bimuN 
+neck: tok-ǝreŋ	tok-əreŋ 
+new: bidan	pi=dan	pidan 
+night: wal	war 
+nighttime: wal	war 
+nose: na-kuŋ	na-kʰuŋ	nakh~uN	nakuN 
+not: -ča 
+adulterous: roNsa	sa 
+one: roNsa	sa 
+single: roNsa	sa 
+that: u-	ue- 
+the: roNsa	sa 
+unprincipled: roNsa	sa 
+human: morot 
+human being: morot 
+person: morot 
+rain: raŋ 
+rainy weather: raŋ 
+red: pi=sak 
+path: ram 
+road: ram 
+route: ram 
+root: čaʔ=dǝl	čaʔ=dəl 
+sand: haʔ=bǝ=kuŋ	haʔ=bə=kuŋ 
+say: no- 
+see: nuk	nuk- 
+seed: karan 
+sit: muʔ- 
+hide: kh~ol	kor	kʰol 
+skin: kh~ol	kor	kʰol 
+sleep: ǯǝw-	ǯəw- 
+little: mǝl-	məl- 
+small: mǝl-	məl- 
+smallness: mǝl-	məl- 
+smoke: walʔ=kʰu 
+stand: čap- 
+star: %aski	a=ski	a=skui	a=skʰui	askh~ui	aski 
+rock: patal	ph~ath~al	roNtai	roŋʔ 
+stone: patal	ph~ath~al	roNtai	roŋʔ 
+sun: raNsan	raŋ=san	san 
+swim: huŋ- 
+tail: diʔ=mai 
+this: i-	ie 
+2 sg: na7a	naN	naŋʔ 
+thou: na7a	naN	naŋʔ 
+you: na7a	naN	naŋʔ 
+tongue: terapak	th~3lampak	th~3lapak	tʰəla-pak	tʰəlam-pak 
+tooth: wa 
+tree: ban	pan 
+grind: ni	roNni 
+two: ni	roNni 
+go: raiʔ- 
+walk: raiʔ- 
+hot: tuŋʔ- 
+warm: tuŋʔ- 
+water: d3i	t3y	tǝi	təi 
+1 pl. inc.: na7naN	naʔ-naŋ	niN	niŋ 
+we: na7naN	naʔ-naŋ	niN	niŋ 
+we₁: na7naN	naʔ-naŋ	niN	niŋ 
+what: atoŋ 
+white: pi=bok 
+whiteness: pi=bok 
+who: čaŋ 
+who?: čaŋ 
+female: gawi 
+woman: gawi 
+yellow: rǝmǝt	rəmət 
+distant: ǯanʔ- 
+far: ǯanʔ- 
+dull: čerǝm-	čerəm-	čǝrǝm-	čərəm- 
+heavy: čerǝm-	čerəm-	čǝrǝm-	čərəm- 
+serious: čerǝm-	čerəm-	čǝrǝm-	čərəm- 
+close: nek- 
+near: nek- 
+ner: nek- 
+salt: sǝmʔ	səmʔ 
+short: suŋʔ- 
+snake: dǝ=pǝw	də=pəw 
+thin: pʰet- 
+wind: bal-wa 
+earthworm: kʰan=sərui 
+worm: kʰan=sərui 
+year: bǝlsi	bəlsi 

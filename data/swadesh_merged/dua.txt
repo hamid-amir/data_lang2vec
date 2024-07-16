@@ -1,0 +1,309 @@
+all: -ɛ́sɛ 
+every: -ɛ́sɛ 
+ash: dibúdú lá wéa 
+ashes: dibúdú lá wéa 
+bark: eyobo 
+abdomen: dibum 
+belly: dibum 
+big: -ndɛnɛ	wɔ́ngɔ 
+bigness: -ndɛnɛ	wɔ́ngɔ 
+large: -ndɛnɛ	wɔ́ngɔ 
+bird: inɔn 
+bite: kukwa	lába 
+black: wínda 
+blood: maya	mayá 
+bone: ewesé 
+breast: bwanga	dibɛ 
+breasts: bwanga	dibɛ 
+claw: ɲándi 
+nail: ɲándi 
+talon: ɲándi 
+cloud: diwíndíwindi 
+cold: ngɔ 
+come: po	pɔ	wa	ya 
+come from: po	pɔ	wa	ya 
+be dead: wo	wɔ́ 
+dead: wo	wɔ́ 
+die: wo	wɔ́ 
+dog: mbo	mbɔ́ 
+drink: no	ɲṍ 
+dry: ánǯa 
+ear: toi	tói 
+earth: miɲángádú 
+ground: miɲángádú 
+land: miɲángádú 
+soil: miɲángádú 
+eat: dá	kwákwa 
+egg: mwɛ́ɲ 
+eye: diso	dísɔ 
+feather: esáó 
+fire: wea	wéa 
+fish: sue	súe 
+fly: íba 
+fly v.: íba 
+foot: mwendé 
+full: londa	lónda 
+give: bola 
+good: bwam 
+green: etongo 
+hair: ɲɔ̃ 
+hand: dia	diá 
+left hand: dia	diá 
+right: dia	diá 
+head: mulopo 
+hear: senga 
+heart: muléma 
+horn: tɔ́ngɔ 
+1 sg.: mba	mbá	na 
+I: mba	mbá	na 
+kill: bwá	pɛndɛlɛ 
+knee: dibongo	dibɔ́ngɔ lá mwendé 
+be knowledgeable: ambia 
+know: ambia 
+leaf: epandi	eyadi	eyadí 
+liver: dibadi 
+long: bwaba	mulabá	muswalala 
+head louse: nina 
+louse: nina 
+male: moto 
+man: moto 
+many: mwa	ǯíta 
+much: mwa	ǯíta 
+multiple: mwa	ǯíta 
+several: mwa	ǯíta 
+flesh: eyobo 
+meat: eyobo 
+moon: mɔ́di 
+hill: mudongo	mudóngó 
+mountain: mudongo	mudóngó 
+mouth: nsolo 
+name: dina	dína 
+title: dina	dína 
+neck: ɲíngo 
+new: kota	kotɛlɛ	papa	sángisɛ 
+night: bulu	bulú 
+nighttime: bulu	bulú 
+nose: mpemba 
+not: sí 
+adulterous: -wó	-ɔ̃	wo 
+one: -wó	-ɔ̃	wo 
+single: -wó	-ɔ̃	wo 
+that: -wó	-ɔ̃	wo 
+the: -wó	-ɔ̃	wo 
+unprincipled: -wó	-ɔ̃	wo 
+human: moto 
+human being: moto 
+person: moto 
+rain: mbúa 
+rainy weather: mbúa 
+red: óla 
+path: ngea 
+road: ngea 
+route: ngea 
+root: mwangá 
+round: yɔ́sɛ 
+sand: mukoko 
+say: kwála	lángwa	pandá 
+see: ene	ombwa	ɛ́nɛ 
+seed: dísɔ	mbumá 
+sit: ǯa 
+hide: eyobo 
+skin: eyobo 
+sleep: kɔ́ iyɔ́	nangá 
+little: -sadi 
+small: -sadi 
+smallness: -sadi 
+smoke: ítutu 
+star: ngéngeti 
+rock: dale	dále 
+stone: dale	dále 
+sun: wei	wéi 
+swim: sayɛ	ɲɔ́yɛ 
+tail: mondó 
+2 sg: oa 
+thou: oa 
+you: oa 
+tongue: bwambo	yémɛ 
+tooth: songa	songá 
+tree: bwele 
+grind: -ba	-bă	ba 
+two: -ba	-bă	ba 
+go: dangwa 
+walk: dangwa 
+water: madiba	madíbá 
+1 pl. inc.: biso 
+we: biso 
+we₁: biso 
+what: nǯé 
+white: mbongo	munanga 
+whiteness: mbongo	munanga 
+who: nǯá 
+who?: nǯá 
+female: múto 
+woman: múto 
+yellow: dibɔnɔ 
+distant: póto 
+far: póto 
+dull: amba	dila	wísamɛ 
+heavy: amba	dila	wísamɛ 
+serious: amba	dila	wísamɛ 
+close: bɛbɛ 
+near: bɛbɛ 
+ner: bɛbɛ 
+salt: wánga 
+short: esúngu 
+snake: ɲamʔa bwaba 
+thin: mulɔ́mbilɔ́mbi 
+wind: ngɔ 
+earthworm: etóm	muwũ 
+worm: etóm	muwũ 
+year: mbú 
+2 pl.: biɲɔ́	lo 
+ye: biɲɔ́	lo 
+you all: biɲɔ́	lo 
+3 pl.: babɔ́ 
+they: babɔ́ 
+here: wa 
+there: na 
+where: owɛ́	wɛ́	wɛ́ni 
+where?: owɛ́	wɛ́	wɛ́ni 
+when: kɛ̃́ 
+when?: kɛ̃́ 
+how: nɛ́ni	nɛ̃ 
+how?: nɛ́ni	nɛ̃ 
+few: ngusu	son 
+other: -pɛ́pɛ́ 
+three: -lálo	-lálò 
+four: -neí	-nɛi 
+five: -tánu	-tánù 
+broad: tíndamɛ 
+wide: tíndamɛ 
+wideness: tíndamɛ 
+fat: bámbamɛ	bíta	bókamɛ 
+thick: bámbamɛ	bíta	bókamɛ 
+narrow: kókamɛ	wálamɛnɛ 
+child: múna 
+principal wife: múnǯa 
+wife: múnǯa 
+husband: momé 
+his mother: ɲangó 
+mother: ɲangó 
+my mother: ɲangó 
+father: sángó 
+his father: sángó 
+my father: sángó 
+animal: ɲama 
+forest: diwɛ́nǯɛ	ngwɛlɛ́ 
+woods: diwɛ́nǯɛ	ngwɛlɛ́ 
+branch: mukanǯo 
+stick: mukanǯo 
+fruit: epumá 
+flower: mbonǯi 
+grass: ewudú 
+cord: mwasa 
+rope: mwasa 
+fingernail: ɲándi 
+leg: mukula 
+wing: dipupulan 
+gut: mweya 
+guts: mweya 
+insides: mweya 
+intestine: mweya 
+intestines: mweya 
+back: mbúsa	mɔngɔ 
+suck: sópa	wíwa	ɲóngɔ 
+spit: tɔ́ malɔ́di 
+vomit: dóa 
+blow: únga 
+breath: busisɛ wɛi	soa wɛi 
+breathe: busisɛ wɛi	soa wɛi 
+laugh: lɔ 
+laughter: lɔ 
+cogitate: dutea	kwélanɛ 
+reflect: dutea	kwélanɛ 
+think: dutea	kwélanɛ 
+smell: bwa	senga 
+sniff: bwa	senga 
+afraid: bɔ́ngɔ́ 
+be afraid: bɔ́ngɔ́ 
+fear: bɔ́ngɔ́ 
+fright: bɔ́ngɔ́ 
+alive: ongea 
+be alive: ongea 
+life: ongea 
+live: ongea 
+living: ongea 
+fight: ana 
+hunt: pánga	čómɛlɛ 
+beat: kumba	umba 
+hit: kumba	umba 
+strike: kumba	umba 
+cut: dóma	kɛ́ 
+hack: dóma	kɛ́ 
+cut open: dóma	ánda 
+split: dóma	ánda 
+scratch: dósɛlɛ 
+dig: panǯa	pika	poa 
+lie: tɔpɔ lobango 
+lie down: tɔpɔ lobango 
+tell lies: tɔpɔ lobango 
+stand: sumbamɛ 
+drop: kɔ́ 
+fall: kɔ́ 
+grasp: álanɛ	álea 
+hold: álanɛ	álea 
+hold in arm: álanɛ	álea 
+squeeze: bomea	súta	wéte 
+wring: bomea	súta	wéte 
+rub: sía	sísa	súla 
+wipe: tuta 
+wash: óa 
+wash clothes: óa 
+push: dɔmɔ	nímɛlɛ	sókɛlɛ 
+shove: dɔmɔ	nímɛlɛ	sókɛlɛ 
+throw: angwa	kóma	pimba	yowɛlɛ 
+bind: káka	tingɛ 
+fasten: káka	tingɛ 
+tie: káka	tingɛ 
+tie up: káka	tingɛ 
+sew: bangwa	sípa 
+count: lánga	sɔngɛlɛ 
+enumerate: lánga	sɔngɛlɛ 
+number: lánga	sɔngɛlɛ 
+tally: lánga	sɔngɛlɛ 
+sing: lɔ́ngɔ 
+have fun: oka loko 
+play: oka loko 
+float: saye	wóngwa 
+flow: wa	ɔ́ndɔ 
+brook: múnǯa	mɔpí 
+river: múnǯa	mɔpí 
+stream: múnǯa	mɔpí 
+lake: ebúdu 
+dust: dibúdú 
+fog: mba 
+sky: lóba	mɔ́ɳ 
+ice: ais 
+blaze: oɲa	ánga 
+burn: oɲa	ánga 
+day: núɲá 
+daylight: núɲá 
+daytime: núɲá 
+bad: bobé 
+evil: bobé 
+rot: ebudubusu 
+rotten: ebudubusu 
+dirty: dipumbwe	mbindo	minaka 
+filthy: dipumbwe	mbindo	minaka 
+soiled: dipumbwe	mbindo	minaka 
+sharp: bowólí 
+blunt: nǯɔkɔlɔmɛ́ 
+smooth: ná mɔɲmɔɲ 
+correct: tɛ́ngɛnɛ 
+right side: mŏm 
+left: dimɔsɛ 
+in: ó	óteten a 
+inside: ó	óteten a 
+and: na	ndé 
+if: kɛ́ 
+because: ebánǯá 

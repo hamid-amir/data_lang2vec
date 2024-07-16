@@ -1,0 +1,331 @@
+all: all	alle	alt 
+every: all	alle	alt 
+ash: oske 
+ashes: oske 
+bark: bork	never 
+abdomen: buk	mage 
+belly: buk	mage 
+big: stor 
+bigness: stor 
+large: stor 
+bird: fugl 
+bite: bita 
+black: svart 
+blood: blod 
+bone: bein 
+breast: bryst 
+breasts: bryst 
+cloud: sky 
+cold: kald 
+come: koma 
+come from: koma 
+be dead: døy 
+dead: døy 
+die: døy 
+dog: hund 
+drink: drikka 
+dry: turr	tørr 
+ear: øyre 
+earth: jord 
+ground: jord 
+land: jord 
+soil: jord 
+eat: eta	spisa 
+egg: egg 
+eye: auga 
+feather: fjør 
+fire: eld 
+fish: fisk 
+fly: fly	flyga 
+fly v.: fly	flyga 
+foot: fot 
+full: full 
+give: gje	gjeva 
+good: bra	god 
+green: grøn 
+hair: hår 
+head: hovud 
+hear: høyra 
+heart: hjarta 
+horn: horn 
+1 sg.: eg 
+I: eg 
+kill: drepa 
+knee: kne 
+be knowledgeable: veta 
+know: veta 
+leaf: blad	lauv 
+liver: lever 
+long: lang 
+head louse: lus 
+louse: lus 
+male: kall	kar	mann 
+man: menneske	menneskje 
+many: mange 
+much: mange 
+multiple: mange 
+several: mange 
+moon: måne 
+hill: fjell 
+mountain: fjell 
+mouth: munn 
+name: namn 
+title: namn 
+neck: hals	nakke 
+new: ny 
+night: natt 
+nighttime: natt 
+nose: nase 
+not: ei	ikkje 
+adulterous: ei	ein	eitt 
+one: ei	ein	eitt 
+single: ei	ein	eitt 
+that: den	det 
+the: ei	ein	eitt 
+unprincipled: ei	ein	eitt 
+human: menneske	menneskje 
+human being: menneske	menneskje 
+person: menneske	menneskje 
+rain: regna 
+rainy weather: regna 
+red: raud 
+path: veg 
+road: veg 
+route: veg 
+root: rot 
+round: rund 
+sand: sand 
+say: seia 
+see: sjå 
+seed: frø	sæd 
+sit: sitja 
+hide: hud	skinn 
+skin: hud	skinn 
+sleep: sova 
+little: lille	liten	små	vesle 
+small: lille	liten	små	vesle 
+smallness: lille	liten	små	vesle 
+smoke: røyk 
+star: stjerne 
+rock: stein 
+stone: stein 
+sun: sol 
+swim: symja 
+tail: hale 
+this: denne	desse	dette 
+2 sg: du 
+thou: du 
+you: du 
+tongue: tunge 
+tooth: tann	tonn 
+tree: tre 
+grind: to 
+two: to 
+go: ganga	gå 
+walk: ganga	gå 
+hot: logn	varm 
+warm: logn	varm 
+water: vatn 
+1 pl. inc.: me	vi 
+we: me	vi 
+we₁: me	vi 
+what: kva 
+white: kvit 
+whiteness: kvit 
+who: kven 
+who?: kven 
+female: kvinne	kvinnfolk 
+woman: kvinne	kvinnfolk 
+yellow: gul 
+distant: langt 
+far: langt 
+dull: tung 
+heavy: tung 
+serious: tung 
+close: nær	nære 
+near: nær	nære 
+ner: nær	nære 
+salt: salt 
+short: kort	stutt 
+snake: orm	slange 
+thin: tunn	tynn 
+wind: vind 
+earthworm: makk	orm 
+worm: makk	orm 
+year: år 
+3 sg.: han 
+he: han 
+she: han 
+2 pl.: de 
+ye: de 
+you all: de 
+3 pl.: dei 
+they: dei 
+here: her 
+there: der 
+where: kor	kvar 
+where?: kor	kvar 
+when: kva tid	når 
+when?: kva tid	når 
+how: korleis	koss 
+how?: korleis	koss 
+some: noko	somt	sumt 
+few: få 
+other: andre	anna	annan 
+three: tre	tri 
+four: fire 
+five: fem 
+broad: brei	vid 
+wide: brei	vid 
+wideness: brei	vid 
+fat: feitt 
+thick: tjukk 
+narrow: smal	trong 
+child: barn	unge 
+principal wife: kone 
+wife: kone 
+husband: mann 
+his mother: mor 
+mother: mor 
+my mother: mor 
+father: far 
+his father: far 
+my father: far 
+animal: dyr 
+forest: skog 
+woods: skog 
+branch: kjepp	kvist	pinne 
+stick: kjepp	kvist	pinne 
+fruit: frukt 
+flower: blom	blome 
+grass: gras 
+cord: reip	tau 
+rope: reip	tau 
+flesh: kjøt	kjøtt 
+meat: kjøt	kjøtt 
+grease: feitt 
+claw: nagl 
+fingernail: nagl 
+nail: nagl 
+leg: bein	legg 
+arm: hand 
+hand: hand 
+wing: veng	vengje 
+gut: innvolar 
+guts: innvolar 
+insides: innvolar 
+intestine: innvolar 
+intestines: innvolar 
+back: rygg 
+suck: suga 
+spit: spytta 
+vomit: kasta opp	spy 
+blow: blåsa 
+breath: anda	pusta 
+breathe: anda	pusta 
+laugh: le 
+laughter: le 
+cogitate: tenkja 
+reflect: tenkja 
+think: tenkja 
+smell: lukta 
+sniff: lukta 
+afraid: ottast	vera redd for 
+be afraid: ottast	vera redd for 
+fear: ottast	vera redd for 
+fright: ottast	vera redd for 
+alive: leva 
+be alive: leva 
+life: leva 
+live: leva 
+living: leva 
+fight: slåst 
+hunt: jaga	jakta	veida 
+beat: slå 
+hit: slå 
+strike: slå 
+cut: skjera 
+hack: skjera 
+cut open: dela	kløyva	skilja 
+split: dela	kløyva	skilja 
+pierce: stikka	stinga 
+stab: stikka	stinga 
+scratch: kleia	klora	klå 
+dig: grava 
+lie: liggja 
+lie down: liggja 
+tell lies: liggja 
+stand: stå 
+turn: snu	venda 
+turn around: snu	venda 
+turn round: snu	venda 
+drop: detta	falla 
+fall: detta	falla 
+grasp: halda 
+hold: halda 
+hold in arm: halda 
+squeeze: klemma	trykkja 
+wring: klemma	trykkja 
+rub: gni	gnida	gnu 
+wipe: turka	tørka 
+wash: två	vaska 
+wash clothes: två	vaska 
+pull: dra 
+push: dytta	skumpa	skuva 
+shove: dytta	skumpa	skuva 
+throw: hiva	kasta	slengja 
+bind: binda	knyta 
+fasten: binda	knyta 
+tie: binda	knyta 
+tie up: binda	knyta 
+sew: sauma	sy 
+count: telja 
+enumerate: telja 
+number: telja 
+tally: telja 
+sing: syngja 
+have fun: leika 
+play: leika 
+float: flyta 
+flow: flyta	fløyma	renna	strøyma 
+freeze: frysa 
+swell: hovna	svella	trutna 
+brook: elv	å 
+river: elv	å 
+stream: elv	å 
+lake: innsjø	tjern	tjørn	vatn 
+ocean: hav	sjø 
+sea: hav	sjø 
+dust: bos	dust	støv 
+fog: skodde	tåke 
+sky: himmel 
+snow: snø 
+ice: is 
+blaze: brenna 
+burn: brenna 
+day: dag 
+daylight: dag 
+daytime: dag 
+old: gamal 
+bad: dåleg	ill	vond 
+evil: dåleg	ill	vond 
+rot: ròten 
+rotten: ròten 
+dirty: møkut	skiten 
+filthy: møkut	skiten 
+soiled: møkut	skiten 
+straight: bein	rak	rett 
+sharp: kvass	skarp 
+blunt: slø 
+smooth: jamn	slett 
+damp: blaut	våt 
+wet: blaut	våt 
+correct: rett 
+right: høgre 
+right side: høgre 
+left: venstre 
+at: hjå	hos	på 
+with: med 
+and: og 
+if: om 
+because: av di	på grunn av at 

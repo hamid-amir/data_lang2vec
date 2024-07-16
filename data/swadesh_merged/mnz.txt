@@ -1,0 +1,504 @@
+all: ondoma | ondoma	ontoma 
+all: ontoma | ondoma	ontoma 
+ankle: go bagi sizu 
+arm: anie 
+arm: hane 
+arrow: mada 
+ashes: hu | hu	wu 
+ashes: hu ~ wu | hu	wu 
+ashes: usa imu | hu	wu 
+back: agua-iwa 
+back: aguwa (iwa) 
+back: ewando 
+bad: biga 
+bad: tawa 
+bark: ada 
+belly: sena 
+belly: umbu | sena 
+big: bagu | teope	tope 
+big: teope | teope	tope 
+big: tope | teope	tope 
+bird: bega | bega	beka 
+bird: beka | bega	beka 
+bite: baka piti | baka piti	wayaiya 
+bite: wayaiya | baka piti	wayaiya 
+bitter: emo 
+bitter: imò 
+black: dinggi | diŋgi 
+black: diŋgi 
+blood: aka | aka	ega	eka 
+blood: ega | aka	ega	eka 
+blood: èga | aka	ega	eka 
+blood: èra | aka	ega	eka 
+blow: bilayë 
+blow: pulèndia 
+blow: puria 
+bone: iwa 
+bone: zagi | iwa 
+boy: biabaka 
+branch: muni 
+breast: ama 
+breast: mam dudu | ama 
+breathe: hege di 
+brother: aena 
+brother: ani 
+burn: eme 
+calf: zagi-bagu 
+cassowary: sugi 
+cassowary: zugi 
+cheek: humogo 
+cheek: humugu 
+chest: bèsagi 
+chest: bèsè iwa 
+chest: bèsòrò 
+chest: mbe 
+child: bigabaga 
+chin: sɛgo 
+cloud: kunu 
+cold: itu | itu	ituo 
+cold: ituo | itu	ituo 
+come: me- | me	me-	mindi	miya 
+come: mewe | me	me-	mindi	miya 
+come: mindi | me	me-	mindi	miya 
+come: miya | me	me-	mindi	miya 
+correct: sua 
+dark: timu 
+daughter: dzawa 
+daughter: zoa 
+daughter: zòwa 
+day: emosogaya 
+day: umata 
+die: batawa | hiti	hitiya 
+die: hilaiya | hiti	hitiya 
+die: hiti | hiti	hitiya 
+die: hitiya | hiti	hitiya 
+dig: maimbea 
+dog: home | home	wome 
+dog: kigagi | home	wome 
+dog: kiːgagiː | home	wome 
+dog: wome | home	wome 
+dog: womè | home	wome 
+dog: womè pa | home	wome 
+drink: dunundia | no	no-	nu	nuiya 
+drink: no- | no	no-	nu	nuiya 
+drink: nu | no	no-	nu	nuiya 
+drink: nuiya | no	no-	nu	nuiya 
+drink: saga | no	no-	nu	nuiya 
+dry: kekoko | kekoko	kekoko diya 
+dry: kekoko diya | kekoko	kekoko diya 
+ear: dzaba | yawa	zawa 
+ear: dzawa | yawa	zawa 
+earth: mai | may 
+earth: may 
+earth: mayí 
+earth: mei | may 
+earth: taunagè | may 
+ear: yawa | yawa	zawa 
+ear: zawa | yawa	zawa 
+ear: ǯawa | yawa	zawa 
+eat: no- | no-	nu	nuiya 
+eat: nu | no-	nu	nuiya 
+eat: nuiya | no-	nu	nuiya 
+eat: nuya | no-	nu	nuiya 
+egg: mome | mome	ŋgeda 
+egg: ´momè | mome	ŋgeda 
+egg: ŋgeda | mome	ŋgeda 
+elbow: iwa-sizu 
+elbow: íwa sîzu 
+emu: zugi 
+emu: zugiː 
+excrement: báà 
+eye: sengamu | saNgamu	sengamu	sɛŋgamu 
+eye: senggamu | saNgamu	sengamu	sɛŋgamu 
+eye: seŋgamu | saNgamu	sengamu	sɛŋgamu 
+eye: sɛŋgamu | saNgamu	sengamu	sɛŋgamu 
+eye: sɛŋgamu-ada | saNgamu	sengamu	sɛŋgamu 
+eye: sɛŋgamu-tu | saNgamu	sengamu	sɛŋgamu 
+eye: singgamu | saNgamu	sengamu	sɛŋgamu 
+eye: siŋgamu | saNgamu	sengamu	sɛŋgamu 
+eye: zema | saNgamu	sengamu	sɛŋgamu 
+far: bagu | emobago 
+far: emobago 
+father: ita 
+father: neita 
+fat (n.): bamba 
+fat (n.): tomo 
+feather: to | to	tu 
+feather: tu | to	tu 
+finger: anie 
+finger: bado-kipo 
+fingernail: kadi 
+fingernail: kiwkagi 
+finger: nambo 
+finger: namu-hane 
+fire: dabe | usa 
+fire: samagan | usa 
+fire: samaga(u) | usa 
+fire: usa 
+five: idi 
+five: kiːu 
+flower: sao 
+flower: sau 
+flower: ugwa 
+fly (n.): tambuni 
+fly (v.): babaka pi 
+fly (v.): mbabaga puya 
+fly (v.): -mbabakiya 
+fly (v.): puni 
+foot: bado 
+foot: bado-teba 
+foot: balo | bado 
+foot: balo kisi | bado 
+foot: baro | bado 
+forest: bidinkaka 
+four: mugu 
+four: wi 
+four: wiː 
+fruit: sabò 
+fruit: ua 
+fruit: ´ugà 
+fruit: ´ugwà 
+full: pasukiya 
+girl: pane 
+give: ena | ena	nindiya 
+give: nindiya | ena	nindiya 
+good: dregiː | usi 
+good: múgusai | usi 
+good: ndeba | usi 
+good: usi 
+good: úsi | usi 
+good: usua | usi 
+grass: sibumu 
+grass: tugapa 
+green: ae 
+guts: sena 
+guts: sèna 
+hair: bagu-tu 
+hair: mbagu | bagu-tu 
+hair: tu | bagu-tu 
+hand: hane 
+hand: teba | hane 
+head: dòmu | muŋgagi	muŋgaki 
+head: meŋgapie | muŋgagi	muŋgaki 
+head: muŋagi | muŋgagi	muŋgaki 
+head: munggagi | muŋgagi	muŋgaki 
+head: muŋgagi | muŋgagi	muŋgaki 
+head: muŋgaki | muŋgagi	muŋgaki 
+heart: dugumudu | dugumudu	dukumudu 
+heart: dukumudu | dugumudu	dukumudu 
+heart: duŋ mulu | dugumudu	dukumudu 
+hear: zoga | zoga	zuk	zuk-	zut-	zutiya 
+hear: zuk- | zoga	zuk	zuk-	zut-	zutiya 
+hear: zut- | zoga	zuk	zuk-	zut-	zutiya 
+hear: zutiya | zoga	zuk	zuk-	zut-	zutiya 
+heavy: idu 
+here: ka 
+here: kogi 
+he/she: oa 
+he/she: ogo 
+he/she: oko 
+hit: wa 
+house: i 
+husband: awi 
+husband: nene 
+husband: ßi 
+husband: suni 
+I: a | a	andi 
+I: andi | a	andi 
+kangaroo: gugu 
+kangaroo: so 
+kill: nutiya | nutiya	wa-	waiya	wak- 
+kill: wa- | nutiya	wa-	waiya	wak- 
+kill: waiya | nutiya	wa-	waiya	wak- 
+kill: wak- | nutiya	wa-	waiya	wak- 
+kill: waya | nutiya	wa-	waiya	wak- 
+knee: agu-size | agu	agu-size	aka 
+knee: aka | agu	agu-size	aka 
+know: zagi | zagi	zaki 
+know: zaki | zagi	zaki 
+lake: du-mugu 
+laugh: ina di 
+leaf: bo giwa | hoga	hoka 
+leaf: hoga | hoga	hoka 
+leaf: hoka | hoga	hoka 
+leaf: hora | hoga	hoka 
+leg: bado 
+leg: bagu 
+lightning: èpugu 
+lightning: wigi kalè 
+lip: maŋgaka 
+liver: way 
+long: bagu 
+louse: amu 
+man: ene | mene 
+man: me | mene 
+man: suni | mene 
+many: bigindaya | epogo ma	epokoma 
+many: epogo ma | epogo ma	epokoma 
+many: epokoma | epogo ma	epokoma 
+many: topèma | epogo ma	epokoma 
+meat: hu 
+meat: wu | hu 
+moon: tinai | tinawi 
+moon: tinawi 
+morning: tebagu-ma 
+mosquito: mogoda 
+mosquito: muma 
+mother: mea 
+mother: minama 
+mountain: bea | pigu	piku 
+mountain: domogo | pigu	piku 
+mountain: domògò | pigu	piku 
+mountain: pigu | pigu	piku 
+mountain: piku | pigu	piku 
+mountain: ponè | pigu	piku 
+mountain: tapa bea | pigu	piku 
+mouth: bai | bay	maŋgaka 
+mouth: bay | bay	maŋgaka 
+mouth: maŋgaka | bay	maŋgaka 
+name: eze 
+nape: bunggusu 
+nape: oròtagi 
+nape: oxo-tagi 
+navel: dziːwiː 
+navel: onewtia 
+near: abu | mamona 
+near: mami | mamona 
+near: mamona 
+neck: kobo | kobo	oxo-tagi 
+neck: oxo-tagi | kobo	oxo-tagi 
+new: ae 
+new: deagome | ae 
+night: timu | timu	timuNgaga	timuŋgaga 
+night: timuŋgaga | timu	timuNgaga	timuŋgaga 
+nose: amu-so | amu	yange	zaNe 
+not: tawa 
+old: etaga 
+old: etaga-me 
+old: etaga-mina 
+one: hago | hago	hako 
+one: hako | hago	hako 
+one: nana | hago	hako 
+person: duni | mene 
+person: mene 
+play: oŋge di 
+rain: du-magai | yaŋga	zaŋga 
+rain: saŋga dumagi | yaŋga	zaŋga 
+rain: yaŋga | yaŋga	zaŋga 
+rain: zangga | yaŋga	zaŋga 
+rain: zaŋga | yaŋga	zaŋga 
+rat: uname 
+red: ega 
+ripe: badaka 
+river: biusi 
+river: bu 
+river: demabu 
+river: du 
+road: keyako 
+road: siːlubuga | keyako 
+root: tagi | tagi	taki 
+root: taki | tagi	taki 
+rope: hodo 
+round: obo | obo	obopoko 
+round: obopoko | obo	obopoko 
+salt: kumu 
+sand: tadi 
+say: dode hindi | eni	hindiya	ndiya 
+say: eni | eni	hindiya	ndiya 
+say: hen- | eni	hindiya	ndiya 
+say: hind- | eni	hindiya	ndiya 
+say: hindiya | eni	hindiya	ndiya 
+say: ndiya | eni	hindiya	ndiya 
+sea: putekoma 
+seed: iu 
+see: iniya 
+sew: away 
+short: aopogo 
+shoulder: agatogo 
+sing: wayti 
+sister: ana 
+sister: nazu 
+sit: ambiga tu | ambiga tu	ambikiya 
+sit: ambigiya | ambiga tu	ambikiya 
+sit: ambikiya | ambiga tu	ambikiya 
+skin: ada 
+skin: ala | ada 
+skin: ara | ada 
+sky: ayga 
+sleep: unundi | unu undiya	unundi 
+sleep: unu undiya | unu undiya	unundi 
+small: abu | biapogo	biyapoko 
+small: biapogo | biapogo	biyapoko 
+small: biyapoko | biapogo	biyapoko 
+smell: ba zopa 
+smoke: ogè | ugi	uki 
+smoke: ugi | ugi	uki 
+smoke: uki | ugi	uki 
+snake: boa 
+snake: bubi | boa 
+snake: dzjimbu | boa 
+snake: hili | boa 
+snake: mboa 
+son: zu 
+spit: gosogo di 
+spit: pigu 
+split: gubugi 
+split: kiba 
+stand: agigia tu 
+stand: akikiya 
+star: wawaso 
+stone: geda | geda	homa	huma	ŋgada 
+stone: huma | geda	homa	huma	ŋgada 
+stone: ngeda | geda	homa	huma	ŋgada 
+stone: ŋeda | geda	homa	huma	ŋgada 
+stone: ŋgada | geda	homa	huma	ŋgada 
+stone: nggela | geda	homa	huma	ŋgada 
+stone: oma | geda	homa	huma	ŋgada 
+suck: ama mendi 
+suck: zuti 
+sun: ema ndamiː | emondane	emondani	tay 
+sun: emondane | emondane	emondani	tay 
+sun: emondani | emondane	emondani	tay 
+sun: tai | emondane	emondani	tay 
+sun: tay | emondane	emondani	tay 
+swim: du kugi | du kugi	kukiya 
+swim: kukiya | du kugi	kukiya 
+tail: humu 
+tail: kumu | humu 
+tail: potu | humu 
+take: doge 
+take: sege di 
+that: diki 
+there: hanggipa 
+there: zigipa 
+they two: uiya 
+they: ui 
+they: wi 
+thick: tope 
+thick: tòpe 
+thigh: muni 
+thin: biapogo 
+think: muŋgagi aŋgi 
+thorn: kigu 
+thou: aga | aga	aka 
+thou: aka | aga	aka 
+thou: ena | aga	aka 
+thou: igi | aga	aka 
+thou: iki | aga	aka 
+three: dagupa 
+three: hedo 
+three: kelo 
+throat: kobo 
+thunder: dimidëmi 
+thunder: higimu 
+thunder: hikim 
+tie: tainia 
+tie: tayni 
+tomorrow: wadagi 
+tongue: daba | dabe 
+tongue: dabe 
+tongue: dzyabe | dabe 
+tongue: labe | dabe 
+tooth: awbaka | baga	baka 
+tooth: baga | baga	baka 
+tooth: baka | baga	baka 
+tooth: bara (= bagla) | baga	baka 
+tree: bo 
+tree: bò | bo 
+tree: ǯiːgiːpa | bo 
+two: hiya | hiZa	hiya	hiza	hiža 
+two: hiya ~ hiža | hiZa	hiya	hiza	hiža 
+two: hiza | hiZa	hiya	hiza	hiža 
+two: isa | hiZa	hiya	hiza	hiža 
+two: kiːndo | hiZa	hiya	hiza	hiža 
+unripe: age 
+vagina: si 
+vomit: ega su di 
+walk: pu | pu	pu-	puiya	puk- 
+walk: pu- | pu	pu-	puiya	puk- 
+walk: puiya | pu	pu-	puiya	puk- 
+walk: puk- | pu	pu-	puiya	puk- 
+warm: dani | dani	ndani 
+warm: ndani | dani	ndani 
+wash: du saga di 
+water: du 
+water: duoe 
+water: mugulu | du 
+water: u | du 
+weep: ame di 
+we: i | i	indi 
+we: indi | i	indi 
+we two (incl.): ena 
+what: ma 
+white: pea | pea	peya	poya 
+white: peya | pea	peya	poya 
+white: poya | pea	peya	poya 
+who: mi 
+wife: mea 
+wife: miːna 
+wife: siː 
+wind: emombuga 
+wing: adu 
+woman: mina 
+woman: miːna | mina 
+woman: siː | mina 
+wood: bo 
+wood: bo(piːgu) 
+wood: bò usa 
+yesterday: undama 
+you: igi | aga	aka 
+you two: iya 
+every: ondoma	ontoma 
+ash: hu	wu 
+abdomen: sena 
+bigness: teope	tope 
+large: teope	tope 
+breasts: ama 
+come from: me	me-	mindi	miya 
+be dead: hiti	hitiya 
+dead: hiti	hitiya 
+ground: may 
+land: may 
+soil: may 
+fly: -mbabakiya	babaka pi 
+fly v.: -mbabakiya	babaka pi 
+left hand: hane 
+right: hane 
+1 sg.: a	andi 
+be knowledgeable: zagi	zaki 
+head louse: amu 
+male: me 
+much: epogo ma	epokoma 
+multiple: epogo ma	epokoma 
+several: epogo ma	epokoma 
+flesh: hu 
+hill: pigu	piku 
+title: eze 
+nighttime: timu	timuNgaga	timuŋgaga 
+adulterous: hago	hako 
+single: hago	hako 
+the: hago	hako 
+unprincipled: hago	hako 
+human: mene 
+human being: mene 
+rainy weather: yaŋga	zaŋga 
+path: keyako 
+route: keyako 
+hide: ada 
+little: biapogo	biyapoko 
+smallness: biapogo	biyapoko 
+rock: geda	homa	huma	ŋgada 
+2 sg: aga	aka 
+grind: hiZa	hiya	hiza	hiža 
+go: pu	pu-	puiya	puk- 
+hot: dani	ndani 
+1 pl. inc.: i	indi 
+we₁: i	indi 
+whiteness: pea	peya	poya 
+who?: mi 
+female: mina 
+distant: emobago 
+dull: idu 
+serious: idu 
+close: mamona 
+ner: mamona 

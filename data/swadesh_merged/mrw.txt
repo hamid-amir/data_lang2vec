@@ -1,0 +1,266 @@
+all: belos 
+every: belos 
+ash: ombi 
+ashes: ombi 
+abdomen: babat	tian 
+belly: babat	tian 
+big: dakolaq 
+bigness: dakolaq 
+large: dakolaq 
+bird: papanok 
+bite: kekeb 
+black: ma-item 
+blood: rogo7	rogoq 
+bone: tolan 
+breast: soso 
+breasts: soso 
+burn: totoŋ 
+burn tr.: totoŋ 
+cloud: gabon 
+cold: ma-teŋgaw 
+come: danon 
+come from: danon 
+be dead: matay 
+dead: matay 
+die: matay 
+dog: aso 
+drink: inom 
+dry: ma-gaŋo 
+ear: taNila	taŋila 
+eat: kan	koman 
+egg: orak 
+eye: mata 
+feather: bolbol	bombol 
+fire: apoi 
+fish: seda7	sedaq 
+fly: layog 
+fly v.: layog 
+good: ma-pia 
+green: gadoŋ 
+hair: bok 
+hand: lima 
+left hand: lima 
+right: lima 
+head: olo 
+hear: makineg 
+1 sg.: ako 
+I: ako 
+kill: bonoq 
+be knowledgeable: bentaw	katawan 
+know: bentaw	katawan 
+leaf: ra7on	raqon 
+lie: igaq 
+lie down: igaq 
+liver: atay 
+long: ma-labaq 
+head louse: koto 
+louse: koto 
+male: mama 
+man: taw 
+moon: olan 
+mouth: ŋariq 
+name: Naran	ŋaran 
+title: Naran	ŋaran 
+neck: lig 
+new: bego 
+night: gagaoi7i	gagaoiqi 
+nighttime: gagaoi7i	gagaoiqi 
+nose: iroN	ŋ|iroŋ 
+adulterous: ?isa	isa	ísa 
+one: ?isa	isa	ísa 
+single: ?isa	isa	ísa 
+that: anan 
+the: ?isa	isa	ísa 
+unprincipled: ?isa	isa	ísa 
+human: taw 
+human being: taw 
+person: taw 
+rain: oran 
+rainy weather: oran 
+red: ma-rigaq 
+path: lalan 
+road: lalan 
+route: lalan 
+root: dalig 
+sand: peted 
+say: gandiŋ 
+see: ilay 
+sit: ontod 
+hide: anit 
+skin: anit 
+sleep: torog 
+little: ma-itek 
+small: ma-itek 
+smallness: ma-itek 
+smoke: bel 
+star: bito7on	bitoqon 
+rock: wato 
+stone: wato 
+swim: laŋoy 
+tail: ikog 
+this: ini 
+2 sg: ka	kaw 
+thou: ka	kaw 
+you: ka	kaw 
+tongue: dila7	dilaq 
+tooth: Nipen	ŋipen 
+grind: doa	duwá	dwa 
+two: doa	duwá	dwa 
+go: lalakaw 
+walk: lalakaw 
+hot: ma-lipoqot 
+warm: ma-lipoqot 
+water: ig 
+1 pl. inc.: kami	kita 
+we: kami	kita 
+we₁: kami	kita 
+what: ai	anda 
+white: ma-potiq 
+whiteness: ma-potiq 
+who: antai 
+who?: antai 
+female: bebay 
+woman: bebay 
+yellow: dolaw 
+distant: ma-watan 
+far: ma-watan 
+dull: beteŋan 
+heavy: beteŋan 
+serious: beteŋan 
+close: ma-rani 
+near: ma-rani 
+ner: ma-rani 
+salt: asin 
+short: ma-babaq 
+snake: nipay 
+thin: ma-nipis 
+wind: aŋin 
+earthworm: kalalanoqan 
+worm: kalalanoqan 
+year: ragon 
+2 pl.: kano 
+ye: kano 
+you all: kano 
+3 pl.: siran 
+they: siran 
+where: anda 
+where?: anda 
+when: ai	anda 
+when?: ai	anda 
+how: ai	anda 
+how?: ai	anda 
+other: sambidaq 
+three: telo	túlo	tə́llu 
+four: pat	pət 
+five: lima	líma 
+broad: ma-belaŋ 
+wide: ma-belaŋ 
+wideness: ma-belaŋ 
+fat: siboq 
+thick: ma-kapal 
+narrow: ma-simpit 
+principal wife: kawiŋ 
+wife: kawiŋ 
+husband: kawiŋ 
+his mother: inaq 
+mother: inaq 
+my mother: inaq 
+father: amaq 
+his father: amaq 
+my father: amaq 
+forest: kalasan 
+woods: kalasan 
+branch: saŋa 
+stick: saŋa 
+fruit: [b]oŋa 
+flower: bolak 
+grass: otan 
+cord: tali 
+rope: tali 
+flesh: sapoq 
+meat: sapoq 
+grease: siboq 
+wing: papak 
+gut: tinaqi 
+guts: tinaqi 
+insides: tinaqi 
+intestine: tinaqi 
+intestines: tinaqi 
+back: likod 
+suck: sosop 
+spit: otaq 
+vomit: goaq 
+blow: sagosob 
+breath: peŋ-gi|nawa 
+breathe: peŋ-gi|nawa 
+laugh: kalaq 
+laughter: kalaq 
+cogitate: iram 
+reflect: iram 
+think: iram 
+smell: baŋo 
+sniff: baŋo 
+afraid: kawan 
+be afraid: kawan 
+fear: kawan 
+fright: kawan 
+alive: oiag 
+be alive: oiag 
+life: oiag 
+live: oiag 
+living: oiag 
+hunt: anop 
+beat: totog 
+hit: totog 
+strike: totog 
+cut: titig 
+hack: titig 
+cut open: sipak 
+split: sipak 
+pierce: sandak 
+stab: sandak 
+scratch: kaket 
+dig: kali 
+stand: i|rigi 
+drop: olog 
+fall: olog 
+grasp: kapet 
+hold: kapet 
+hold in arm: kapet 
+squeeze: kemel 
+wring: kemel 
+throw: itog 
+bind: iket 
+fasten: iket 
+tie: iket 
+tie up: iket 
+sew: pamanaqi 
+count: bilaŋ	iap 
+enumerate: bilaŋ	iap 
+number: bilaŋ	iap 
+tally: bilaŋ	iap 
+flow: boak 
+lake: lanaw	ranaw 
+ocean: ragat 
+sea: ragat 
+dust: lopapek 
+fog: lekep 
+sky: laŋit 
+bad: ma-rataq 
+evil: ma-rataq 
+rot: gabok 
+rotten: gabok 
+dirty: marimog 
+filthy: marimog 
+soiled: marimog 
+sharp: tarem 
+blunt: tepol 
+damp: basaq 
+wet: basaq 
+right side: kawanan 
+left: diwaŋ 
+at: san 
+in: romboq	san 
+inside: romboq	san 
+and: [a]go 
+if: ontol 

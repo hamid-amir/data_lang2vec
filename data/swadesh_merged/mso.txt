@@ -1,0 +1,582 @@
+all: dummorom | dummorom	tontɛxɛ	tònteɣe 
+all: tònteghe | dummorom	tontɛxɛ	tònteɣe 
+all: tontɛxɛ | dummorom	tontɛxɛ	tònteɣe 
+ankle: mop kumbögh 
+ankle: mop kumböx 
+arm: bukur 
+arm: bùkur 
+arm: endjöwòn 
+arm: ɛnǯöwon 
+arrow: wöxɛ 
+ashes: imud | imud	imùd 
+ashes: imùd | imud	imùd 
+back: urigh 
+back: urigh tögh 
+back: urix 
+back: urix töx 
+bad: eruburtu 
+bad: ɛruburtu 
+bark: tu par 
+belly: put 
+big: namar | naŋar	neŋgör 
+big: nangar | naŋar	neŋgör 
+big: nemùr | naŋar	neŋgör 
+big: neŋgör | naŋar	neŋgör 
+big: nenggör | naŋar	neŋgör 
+bird: kondjì | kondǯì	konǯi 
+bird: konǯi | kondǯì	konǯi 
+bite: mekaraw- | mekaraw-	zil 
+bite: zil | mekaraw-	zil 
+bitter: siar 
+bitter: sìar 
+black: sortògh | sor-tox	sor-tòɣ 
+black: sortox | sor-tox	sor-tòɣ 
+blood: iri | iri	irì 
+blood: irì | iri	irì 
+bone: itögh | itex	itöx	itöɣ	karawa 
+bone: itöx | itex	itöx	itöɣ	karawa 
+boy: nam monokor 
+branch: to-kange 
+branch: tu-kangk 
+branch: tu kaŋk 
+breast: apwügh | apur	apwüɣ	kalan	opw3x	opwüx 
+breast: apwügh mömögh | apur	apwüɣ	kalan	opw3x	opwüx 
+breast: apwüx-mömöx | apur	apwüɣ	kalan	opw3x	opwüx 
+breast: opwüx | apur	apwüɣ	kalan	opw3x	opwüx 
+breathe: id gaz- 
+brother: agha 
+brother: agha-nègh 
+brother: axa 
+brother: axanɛx 
+burn: domu 
+burn: -domu- 
+butterfly: buri-baŋgam 
+calf: inabögh 
+calf: inöböx 
+calf: itögh 
+calf: itöx 
+cassowary: kài 
+cheek: ghambòl 
+cheek: xambɔl 
+chest: keghèn 
+chest: kɛxɛn 
+child: enyi 
+child: hurbombo 
+child: nin 
+chin: amutè 
+chin: amutɛ 
+cloud: yegi 
+cold: yɛpwi | yepwì	yɛpwi 
+cold: yepwì | yepwì	yɛpwi 
+come: terer- | materanum	terer	terer- 
+correct: tiwor 
+crocodile: karamo 
+crocodile: kàramo 
+cut: fàgha- 
+cut: ngoyareb 
+dance: sadé 
+dark: kabwar 
+dark: kuber 
+dark: kubèr 
+daughter: ɛnyi itöm 
+daughter: enyi itöm 
+day: fèra-fèra 
+day: wòte-zawe 
+day: wòte-zàwe 
+day: wotɛzawɛ 
+die: mborowi- | mborowi	mborowi-	nam mborow	yew- 
+die: nam mborow | mborowi	mborowi-	nam mborow	yew- 
+die: yew- | mborowi	mborowi-	nam mborow	yew- 
+dig: ho 
+dig: ta 
+dig: ta- 
+dog: ipwi | ipwi	ipwì 
+dog: ipwì | ipwi	ipwì 
+drink: mainak | mainak	mainok	nuku	nuku-	sakodera	sakodere 
+drink: nuku- | mainak	mainok	nuku	nuku-	sakodera	sakodere 
+drink: sakodere | mainak	mainok	nuku	nuku-	sakodera	sakodere 
+dry: ghwarào | maimbasuré	xwarao	ɣwarào 
+dry: maimbasuré | maimbasuré	xwarao	ɣwarào 
+dry: xwarao | maimbasuré	xwarao	ɣwarào 
+ear: ipar | ipar	ipɛr	ìper 
+ear: ìper | ipar	ipɛr	ìper 
+ear: ipɛr | ipar	ipɛr	ìper 
+earth: mbam | tumor	tumòr 
+earth: puwwe | tumor	tumòr 
+earth: sa | tumor	tumòr 
+earth: sire | tumor	tumòr 
+earth: tumor | tumor	tumòr 
+earth: tùmor | tumor	tumòr 
+earth: tumòr | tumor	tumòr 
+ear: undji | ipar	ipɛr	ìper 
+eat: noku | noku	nuku- 
+eat: nuku- | noku	nuku- 
+egg: yausil | yausil	yaùsil 
+egg: yaùsil | yausil	yaùsil 
+elbow: ismbun 
+elbow: izimbun 
+elbow: ton 
+emu: kai 
+excrement: ar 
+excrement: ar taw- 
+eye: muri-nam | muri-nam	murinam	musix-nam	musixnam	musiɣ-nam 
+eye: musigh-nam | muri-nam	murinam	musix-nam	musixnam	musiɣ-nam 
+eye: musigh-sin | muri-nam	murinam	musix-nam	musixnam	musiɣ-nam 
+eye: musix-nam | muri-nam	murinam	musix-nam	musixnam	musiɣ-nam 
+eye: musix-par | muri-nam	murinam	musix-nam	musixnam	musiɣ-nam 
+eye: musix-sin | muri-nam	murinam	musix-nam	musixnam	musiɣ-nam 
+eye: mus-kumbögh-sin | muri-nam	murinam	musix-nam	musixnam	musiɣ-nam 
+eye: mus-kumböx-sin | muri-nam	murinam	musix-nam	musixnam	musiɣ-nam 
+face: ayemor 
+face: šamol 
+face: shamòl 
+fall: fàgha- 
+fall: nabënë 
+far: cholwo | tamalwai	tumorwal	čolwo 
+far: tamalwai | tamalwai	tumorwal	čolwo 
+far: tumorwal | tamalwai	tumorwal	čolwo 
+father: imb 
+fat (n.): mer 
+fat (n.): mɛr 
+fear: to(-to) 
+feather: chin | sin	čhin 
+feather: sin | sin	čhin 
+finger: anggu nenggèr 
+finger: aŋgu nɛŋgɛr 
+finger: anggu tarapòr 
+finger: ghwagh natum 
+finger: kangk 
+finger: kaŋk 
+finger: kwaite 
+fingernail: muŋgu 
+fingernail: munggù 
+finger: xwax natum 
+fire: wad 
+fire: wad domu- 
+fish: yangj | ya5	yaNk	yaŋk	yaŋǯ 
+fish: yangk | ya5	yaNk	yaŋk	yaŋǯ 
+fish: yaŋk | ya5	yaNk	yaŋk	yaŋǯ 
+five: ghupanumör 
+flower: anggin 
+flower: aŋgin 
+fly (n.): sìnogho 
+fly (n.): sinoho 
+fly (n.): sinoxo 
+fly (v.): gawdetere 
+fly (v.): meghutubna- 
+fly (v.): mexutubna- 
+foot: kang(k) | kaŋ	kaŋk 
+foot: kaŋk un | kaŋ	kaŋk 
+foot: kauk | kaŋ	kaŋk 
+forehead: eidow 
+forehead: éydòw 
+forehead: eǯow 
+forest: totow 
+forest: totòw 
+four: arögh 
+four: aröx 
+fruit: šɛt 
+fruit: shet 
+full: köwɛ | kewa	köwɛ 
+girl: mburumbur 
+girl: yet-monokor 
+girl: yɛt monokor 
+give: dey- | dey-	déy-	uwe 
+give: déy- | dey-	déy-	uwe 
+give: uwe | dey-	déy-	uwe 
+good: simor-angib | simor-aŋib	tiwor 
+good: tiwor | simor-aŋib	tiwor 
+grass: ghu 
+guts: ko-p(o)ri 
+guts: kopri 
+hair: gu-sin | gu-sin	koshin	xu-sin 
+hair: koshin | gu-sin	koshin	xu-sin 
+hair: sin | gu-sin	koshin	xu-sin 
+hair: xu-sin | gu-sin	koshin	xu-sin 
+hand: bukur | bukur	kwal 
+hand: ghwagh | bukur	kwal 
+hand: kwal | bukur	kwal 
+hand: xwax | bukur	kwal 
+head: untrom | untrom	wondrum	wondrùm 
+head: wondrum | untrom	wondrum	wondrùm 
+head: wondrùm | untrom	wondrum	wondrùm 
+head: wondrum itogh | untrom	wondrum	wondrùm 
+hear: mbedewel | mbedewel	z3w	züw 
+heart: idumo | idumo	šet	šɛt 
+heart: šɛt | idumo	šet	šɛt 
+heart: shet | idumo	šet	šɛt 
+hear: züw | mbedewel	z3w	züw 
+hear: züw | mbedewel	z3w	züw 
+heavy: zakoi | zakoi	zakwe	zàkwe 
+heavy: zakwe | zakoi	zakwe	zàkwe 
+heavy: zàkwe | zakoi	zakwe	zàkwe 
+heel: kangk un 
+he/she: aanggìb 
+he/she: anggam 
+he/she: aŋgib 
+he/she: ɛwɛy 
+he/she: -i 
+hit: idowo 
+hit: irow 
+hit: iröw- 
+hit: kuy 
+hole: maraw 
+house: vokörà 
+house: wokera 
+house: woköra 
+house: wokörà 
+husband: nèt 
+husband: ombo 
+husband: umb 
+I: mo | -u	mo	nu 
+I: nɛy | -u	mo	nu 
+I: nu | -u	mo	nu 
+I: -u | -u	mo	nu 
+kangaroo: nar 
+kill: yɛw- | yow	yɛw- 
+kill: yow | yow	yɛw- 
+knee: yoghomögh | johomo	yohomo	yoxomex	yoxomöx	yoɣomöɣ 
+knee: yohomo | johomo	yohomo	yoxomex	yoxomöx	yoɣomöɣ 
+knee: yoxomöx | johomo	yohomo	yoxomex	yoxomöx	yoɣomöɣ 
+know: purte | purte	zöf tu ko 
+know: zöf tu ko | purte	zöf tu ko 
+know: zöf tu ko | purte	zöf tu ko 
+lake: zomb 
+laugh: mešir u- 
+laugh: mesyir u- 
+laugh: necheru 
+leaf: èpur | apur	to-pur	topur	èpur	ɛpur 
+leaf: ɛpur | apur	to-pur	topur	èpur	ɛpur 
+leaf: to-pur | apur	to-pur	topur	èpur	ɛpur 
+leg: kangk 
+leg: kaŋk 
+lie: ghöröghna- 
+lie: taine 
+lie: xoröxna- 
+lightning: wàndjir 
+lightning: wanǯir 
+lightning: wonjhir 
+lip: auru-par 
+lip: ruppar 
+live: mɛšɛrna- 
+live: mesyerna- 
+liver: idumu | idumu	ìdumu 
+liver: ìdumu | idumu	ìdumu 
+long: ghaif | xaif	ɣaif	ɣew 
+long: ghew | xaif	ɣaif	ɣew 
+long: xaif | xaif	ɣaif	ɣew 
+louse: am 
+louse: itere(k) | am 
+man: idub | nam	omb 
+man: nam | nam	omb 
+man: omb | nam	omb 
+many: ndomrom 
+meat: zuru | zürüx	zürüɣ 
+meat: zürügh | zürüx	zürüɣ 
+meat: zürüx | zürüx	zürüɣ 
+moon: irinche | irinčhe	irinǯ	irìndǯ 
+moon: irìndj | irinčhe	irinǯ	irìndǯ 
+moon: irinǯ | irinčhe	irinǯ	irìndǯ 
+morning: imbu-kaxab 
+mosquito: yol 
+mother: ap 
+mountain: tumor ieatör | tumor ieater	tumor ieatör	tumor iéàtör	tumor-yéatör 
+mountain: tumor iéàtör | tumor ieater	tumor ieatör	tumor iéàtör	tumor-yéatör 
+mountain: tumor-yéatör | tumor ieater	tumor ieatör	tumor iéàtör	tumor-yéatör 
+mouth: ghatawòn | xatawɔn	ɣatawòn 
+mouth: xatawɔn | xatawɔn	ɣatawòn 
+name: ur | ur	uru 
+nape: mbaku 
+navel: undjer 
+navel: unǯɛr 
+near: awontarapor | awon-tarapor	awontarapor	wontab 
+near: awon-tarapor | awon-tarapor	awontarapor	wontab 
+near: wontab | awon-tarapor	awontarapor	wontab 
+neck: dömön | dömön 
+neck: dömön 
+new: eringgib | ariNgib	eriŋgib	riNib	riŋib	ɛriŋgib 
+new: ɛriŋgib | ariNgib	eriŋgib	riNib	riŋib	ɛriŋgib 
+new: monokor | ariNgib	eriŋgib	riNib	riŋib	ɛriŋgib 
+new: mònokor | ariNgib	eriŋgib	riNib	riŋib	ɛriŋgib 
+new: ringib | ariNgib	eriŋgib	riNib	riŋib	ɛriŋgib 
+night: eldzhen | kubar	kubèr	kubɛr	yohodom 
+night: kubèr | kubar	kubèr	kubɛr	yohodom 
+night: kubɛr | kubar	kubèr	kubɛr	yohodom 
+night: yohodom | kubar	kubèr	kubɛr	yohodom 
+nose: mene | mene	menöx	menöɣ 
+nose: menögh | mene	menöx	menöɣ 
+nose: menögh maràw | mene	menöx	menöɣ 
+nose: menöx maraw | mene	menöx	menöɣ 
+old: kàgha 
+old: porönga 
+old: poröŋa 
+old: poröngà 
+old: yɛwib 
+old: yewon 
+one: te | ta	te	temta	temte	tè	tɛ 
+one: tɛ | ta	te	temta	temte	tè	tɛ 
+one: temta | ta	te	temta	temte	tè	tɛ 
+person: nam | nam	omb 
+person: omb | nam	omb 
+play: ud- 
+push: jhupiserowo 
+rain: mun 
+rat: ghömör 
+rat: noghór 
+rat: noxor 
+rat: yɛwri 
+rat: yewrì 
+red: warta | war-ta	war-tögi	wàr-töɣ 
+red: wàrtögh | war-ta	war-tögi	wàr-töɣ 
+red: wartögi | war-ta	war-tögi	wàr-töɣ 
+ripe: muni 
+river: ariki 
+river: ɛriki 
+river: erikì 
+road: maraw 
+root: dödör | dödör	to-drudr 
+root: dödör | dödör	to-drudr 
+root: to-drudr | dödör	to-drudr 
+rope: mar 
+sand: sir | sir	yondinčhe 
+sand: yondinche | sir	yondinčhe 
+say: döm- | dum	döm- 
+say: döm- | dum	döm- 
+say: dum | dum	döm- 
+say: zagh- | dum	döm- 
+say: zax- | dum	döm- 
+sea: yama 
+see: pegher- | pexer	pexer-	peɣer- 
+see: pexer- | pexer	pexer-	peɣer- 
+sew: ze- 
+sharp: menesir 
+sharp: menesìr 
+short: ghàdkembere | hadkambere	xadkɛmbɛrɛ	ɣàdkembere 
+short: hadkambere | hadkambere	xadkɛmbɛrɛ	ɣàdkembere 
+short: xadkɛmbɛrɛ | hadkambere	xadkɛmbɛrɛ	ɣàdkembere 
+shoulder: mirim 
+shoulder: urob 
+sing: ragu 
+sing: šadɛy- 
+sing: shadey- 
+sister: agha-nègh 
+sister: apob 
+sister: axanɛx 
+sit: imšɛb- | imseb-	imsheb-	imšɛb- 
+sit: ims(h)eb- | imseb-	imsheb-	imšɛb- 
+skin: depar | depar	par 
+skin: par | depar	par 
+sky: ngalaw 
+sky: yɛgi 
+sky: yegì 
+sleep: namume | namume	tay- 
+sleep: tay- | namume	tay- 
+small: sesjen | sesǯen	tarapor	tarapòr	thaborom 
+small: tarapor | sesǯen	tarapor	tarapòr	thaborom 
+small: tarapòr | sesǯen	tarapor	tarapòr	thaborom 
+small: thaborom | sesǯen	tarapor	tarapòr	thaborom 
+smell: murun tɛxɛ ko 
+smell: murun-zöw 
+smoke: unowur 
+snake: kanyumbe | kaɲumbe	kenìmbo	kɛnimbo 
+snake: kɛnimbo | kaɲumbe	kenìmbo	kɛnimbo 
+snake: kenìmbo | kaɲumbe	kenìmbo	kɛnimbo 
+son: enyi maram 
+son: ɛnyi maram 
+sour: siar 
+sour: sìar 
+spit: mitào 
+spit: mitào tubi- 
+spit: mitaw 
+spit: xu kaw- 
+split: šawmow- 
+split: šawn- 
+stand: iperèd- 
+stand: ipɛrɛd- 
+stand: ndiye 
+stand: zetjerèd- 
+star: mbaram | mbaram	mberèm	mbɛrɛm 
+star: mberèm | mbaram	mberèm	mbɛrɛm 
+star: mbɛrɛm | mbaram	mberèm	mbɛrɛm 
+stick: ghé 
+stick: kamb 
+stone: mate | mata	mate	metè	mɛtɛ 
+stone: metè | mata	mate	metè	mɛtɛ 
+stone: mɛtɛ | mata	mate	metè	mɛtɛ 
+straight: ponmor 
+suck: apwügh mwe nukmow- 
+suck: apwügh mwe nuku- 
+suck: apwüx mwe-nuku 
+suck: imüx- 
+sun: dzowa | dzowa	zawa	zawà	zowa 
+sun: zawa | dzowa	zawa	zawà	zowa 
+sun: zawà | dzowa	zawa	zawà	zowa 
+sun: zowa | dzowa	zawa	zawà	zowa 
+sweet: me 
+sweet: ndzhem 
+swim: nggushebeyna- | papow	ŋgushebeyna- 
+swim: papow | papow	ŋgushebeyna- 
+tail: pi 
+take: daraw 
+take: daxana- 
+take: dazhana 
+take: ghweti 
+take: nareiro 
+take: wagh u- 
+take: wax u- 
+take: woy 
+they: -a 
+they: anemrè 
+they: anɛmrɛ 
+they: anɛmrɛy 
+they: tonta 
+thick: mùghtenè 
+thick: muxutɛnɛ 
+thigh: gharewögh 
+thigh: xarɛwöx 
+thin: früfür | früfür	kowdar 
+thin: früfür | früfür	kowdar 
+think: mɛnif damöndö 
+think: menif dàmöndö 
+think: minif ( 
+thin: kowdar | früfür	kowdar 
+think: thought-accompany 
+thorn: tu mopèngk 
+thorn: tu mopɛŋk 
+thou: -im | -im	yo	yu	yum 
+thou: imwɛy | -im	yo	yu	yum 
+thou: iwɛy | -im	yo	yu	yum 
+thou: yo | -im	yo	yu	yum 
+thou: yu | -im	yo	yu	yum 
+thou: yum | -im	yo	yu	yum 
+three: inis 
+three: inìs 
+throat: kerèndjeram 
+throat: kɛrɛnǯɛram 
+throw: sarewo 
+throw: sjeruw 
+thunder: gigi 
+thunder: gìgi 
+thunder: matterë 
+tie: kumbu 
+tie: kumbu- 
+today: wotey 
+tomorrow: imbu 
+tomorrow: ìmbu 
+tongue: dupen | dupan	dupen	duppan	dupɛn 
+tongue: dupɛn | dupan	dupen	duppan	dupɛn 
+tongue: duppan | dupan	dupen	duppan	dupɛn 
+tooth: zid | zid	zil	zix	ziɣ 
+tooth: zigh | zid	zil	zix	ziɣ 
+tooth: zil | zid	zil	zix	ziɣ 
+tooth: zix | zid	zil	zix	ziɣ 
+tree: to | to	tu 
+tree: tu | to	tu 
+tree: zuroghod | to	tu 
+two: kumb 
+unripe: kob 
+vagina: men 
+vomit: mɛmori u- 
+walk: mondorwotey- 
+walk: yato | mondorwotey- 
+wallaby: nar 
+warm: umo | umo	wom 
+warm: wom | umo	wom 
+wash: ar 
+wash: mai-zoradju 
+wash: mwe-yungguna 
+wash: mwe yuŋguna- 
+wash: mwezax- 
+water: moi | moi	mwa	mwe	mwɛ 
+water: mwe | moi	mwa	mwe	mwɛ 
+water: mwɛ | moi	mwa	mwe	mwɛ 
+weep: banb u- 
+weep: mambu 
+weep: mombögh 
+weep: momböx 
+weep: namb u- 
+we: nom | nom	num 
+we: num | nom	num 
+we: numwɛy | nom	num 
+we: -om | nom	num 
+wet: maitanab 
+wet: poŋgɛnɛ 
+wet: punggene 
+white: purubur | puru-bur	purubur	pùru-bur 
+white: puru-bur | puru-bur	purubur	pùru-bur 
+white: pùru-bur | puru-bur	purubur	pùru-bur 
+wide: paxan 
+wife: awomb 
+wife: et 
+wife: ɛt 
+wind: zuru 
+wing: teghè 
+wing: tɛxɛ 
+woman: idöb | idub	idöb 
+woman: idöb | idub	idöb 
+woman: idub | idub	idöb 
+woman: yet | idub	idöb 
+woman: yɛt | idub	idöb 
+wood: tu 
+wood: waw 
+yesterday: wambi 
+yesterday: yoghoy 
+yesterday: yoghòy 
+yesterday: yowé 
+you: -om | -im	yo	yu	yum 
+you: ya-mu | -im	yo	yu	yum 
+you: yu-m | -im	yo	yu	yum 
+every: dummorom	tontɛxɛ	tònteɣe 
+ash: imud	imùd 
+abdomen: put 
+bigness: naŋar	neŋgör 
+large: naŋar	neŋgör 
+breasts: apur	apwüɣ	kalan	opw3x	opwüx 
+come from: materanum	terer	terer- 
+be dead: mborowi	mborowi-	nam mborow	yew- 
+dead: mborowi	mborowi-	nam mborow	yew- 
+ground: tumor	tumòr 
+land: tumor	tumòr 
+soil: tumor	tumòr 
+fly: gawdetere	mexutubna-	meɣutubna- 
+fly v.: gawdetere	mexutubna-	meɣutubna- 
+left hand: bukur	kwal 
+right: bukur	kwal 
+1 sg.: -u	mo	nu 
+be knowledgeable: purte	zöf tu ko 
+head louse: am 
+male: idub	nam	omb 
+much: ndomrom 
+multiple: ndomrom 
+several: ndomrom 
+flesh: zürüx	zürüɣ 
+hill: tumor ieater	tumor ieatör	tumor iéàtör	tumor-yéatör 
+title: ur	uru 
+nighttime: kubar	kubèr	kubɛr	yohodom 
+adulterous: ta	te	temta	temte	tè	tɛ 
+single: ta	te	temta	temte	tè	tɛ 
+that: ta	te	temta	temte	tè	tɛ 
+the: ta	te	temta	temte	tè	tɛ 
+unprincipled: ta	te	temta	temte	tè	tɛ 
+human: nam	omb 
+human being: nam	omb 
+rainy weather: mun 
+path: maraw 
+route: maraw 
+hide: depar	par 
+little: sesǯen	tarapor	tarapòr	thaborom 
+smallness: sesǯen	tarapor	tarapòr	thaborom 
+rock: mata	mate	metè	mɛtɛ 
+2 sg: -im	yo	yu	yum 
+grind: kumb 
+go: mondorwotey- 
+hot: umo	wom 
+1 pl. inc.: nom	num 
+we₁: nom	num 
+whiteness: puru-bur	purubur	pùru-bur 
+female: idub	idöb 
+distant: tamalwai	tumorwal	čolwo 
+dull: zakoi	zakwe	zàkwe 
+serious: zakoi	zakwe	zàkwe 
+close: awon-tarapor	awontarapor	wontab 
+ner: awon-tarapor	awontarapor	wontab 

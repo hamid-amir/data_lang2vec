@@ -1,0 +1,144 @@
+all: bisa 
+ashes: tɛrra 
+bark: qolʲfa 
+belly: ka\rita | kaʼrita 
+big: ɨ\gutɪ | ɨʼgutɪ 
+bird: xambɨrta 
+bite: ˗ɣani\n˗ | -ɣaniʼn- 
+black: ˗bu\ʔurɪ | -buʼʔurɪ 
+blood: d\ig | Tig	Tiga	diga	dʼig 
+bone: lafta 
+breast: ama | am	ama 
+burn: ˗gu\b˗ 
+claw: qayaː 
+cloud: o\rarta | oʼrarta 
+cold: d\a\mayta | dʼaʼmayta 
+come: ˗\d\˗e | -ʼdʼ-e	T	Te	dEy 
+die: ˗\tw˗e | -ʼtw-e	tow	tw~	tw~e 
+dog: kuta | kuda	kuta 
+drink: ˗jɨ\k˗ | -jɨʼk-	ik	y3k 
+dry: ˗gogɨ\t˗ | -gogɨʼt- 
+ear: naba˗ | naba	naba-	nabahada 
+eat: ˗d\a\m˗ | -dʼaʼm- 
+egg: huguka 
+eye: ilda | ilda	ilta 
+father: ap\pa 
+fat (n.): hal\laːga 
+fire: aːbɨta | ab3ta	abita	aːbɨta 
+fish: murguy\a | murguj	murguja	murguyʼa	murkuja 
+fly (n.): xaːǯ\a 
+foot: loɣɨta 
+give: ˗d\a\š˗ | -dʼaʼš- 
+good: ˗baxari | -baxari 
+grass: maːta 
+hair: ɲirfa 
+hand: harka | hark	harka 
+head: mɛta 
+hear: ˗d\ɛga\y˗ | -dʼɛgaʼy-	TEgay	dagay 
+heart: sɛ\tata | sɛʼtata 
+horn: kasa | kas	kasa 
+I: ana | ana	anti 
+kill: ˗i\š˗ | -iʼš- 
+knee: kilba | kilba	kilpa 
+know: ˗bna\d\˗ | -bnaʼdʼ- 
+leaf: haša | haSa	haša 
+liver: tɨra | t3ra	tira	tɨra 
+long: ˗\d\eri | -ʼdʼeri 
+louse: ɨkɨr˗ | 3k3r	ikirtEda 
+man: nama 
+many: ˗\lɛgi | -ʼlɛgi 
+meat: sʷa 
+moon: liya 
+mountain: ir\rota | iroda	irota	irʼrota 
+mouth: afa 
+name: maxa | max	maxa 
+neck: xolma 
+new: haraya | haray	haraya 
+night: halgeta | halget	halgeta	halkEda 
+one: taka | tak	taka	takki 
+other: abɨ\li 
+rain: roːba 
+red: ˗timɪ | -timɪ 
+road: pora 
+root: ħɨtina 
+sand: tahayta 
+say: ˗gɨ\d\˗ | -gɨʼdʼ- 
+see: ˗ʲa\k˗ | -ʲaʼk-	ak	yak 
+seed: xota 
+sit: ˗gutɨʔ˗ | -gutɨʔ- 
+skin: kollata | koga	kolata	kollata 
+sleep: ˗mu\g˗ | -muʼg- 
+small: ˗\šɛk(i) | -ʼšɛk	-ʼšɛki 
+smoke: qayɛ 
+snake: maːga 
+stand: ˗ɣaʔa\d\˗ 
+star: ɨskaː | 3ska	ɨskaː 
+stone: d\aga | Taga	daga	dʼaga 
+sun: lɛta | lEta	lɛta 
+swim: ˗d\a\n˗ | -dʼaʼn- 
+tail: ɛːgta 
+thin: ˗ɣɛlayi | -ɣɛlayi 
+this: ɨni 
+thou: ke | ati	ke 
+three: sɛsa 
+tongue: arraba | arab	araba	arraba 
+tooth: ɨlgɨta | 3lg3ta	ilkita	ɨlgɨta 
+tree: qoyra | qora 
+two: lak(i) | lak	laki	lakki 
+walk: ˗ya\n˗ 
+warm: ufunq\a | ufunqʼa 
+water: piša | piSa	piša 
+we: ino 
+wet: ˗qoyʲ 
+what: mana 
+white: ˗\ati | -ʼati 
+who: ayno 
+woman: ɨska˗ | ɨska- 
+you: išina | ati	ke 
+every: bisa 
+ash: tɛrra 
+abdomen: kaʼrita 
+bigness: ɨʼgutɪ 
+large: ɨʼgutɪ 
+breasts: am	ama 
+nail: qayaː 
+talon: qayaː 
+come from: -ʼdʼ-e	T	Te	dEy 
+be dead: -ʼtw-e	tow	tw~	tw~e 
+dead: -ʼtw-e	tow	tw~	tw~e 
+left hand: hark	harka 
+right: hark	harka 
+1 sg.: ana	anti 
+be knowledgeable: -bnaʼdʼ- 
+head louse: 3k3r	ikirtEda 
+male: nama 
+much: -ʼlɛgi 
+multiple: -ʼlɛgi 
+several: -ʼlɛgi 
+hill: iroda	irota	irʼrota 
+title: max	maxa 
+nighttime: halget	halgeta	halkEda 
+nose: sina	sona	soːna 
+adulterous: tak	taka	takki 
+single: tak	taka	takki 
+that: tak	taka	takki 
+the: tak	taka	takki 
+unprincipled: tak	taka	takki 
+human: nama 
+human being: nama 
+person: nama 
+rainy weather: roːba 
+path: pora 
+route: pora 
+hide: koga	kolata	kollata 
+little: -ʼšɛk	-ʼšɛki 
+smallness: -ʼšɛk	-ʼšɛki 
+rock: Taga	daga	dʼaga 
+2 sg: ati	ke 
+grind: lak	laki	lakki 
+hot: ufunqʼa 
+1 pl. inc.: ino 
+we₁: ino 
+whiteness: -ʼati 
+who?: ayno 
+female: ɨska- 

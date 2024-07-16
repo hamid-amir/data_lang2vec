@@ -1,0 +1,641 @@
+all: uriria 
+ankle: arikau 
+arm: ëbi 
+arm: eße 
+arm: eve 
+arm: evekei 
+arm: eve-kei 
+arm: evemako 
+arm: eve-mako 
+arrow: ere 
+ashes: iauapo | iau oporo	iauapo	kokaea	oporo 
+ashes: iau-apo | iau oporo	iauapo	kokaea	oporo 
+ashes: (iau-)oporo | iau oporo	iauapo	kokaea	oporo 
+ashes: kokaea | iau oporo	iauapo	kokaea	oporo 
+back: muriaku | muriku 
+bad: dipiu | dipiu	lipi	lipio 
+bad: lipi(o) | dipiu	lipi	lipio 
+bark: eve | eve	iri kape	kape 
+bark: iri kape | eve	iri kape	kape 
+bark: pueve | eve	iri kape	kape 
+belly: nemo | nemo	nemu 
+belly: nemu | nemo	nemu 
+big: oßaro | ovara	ovará	oβaro 
+big: ovara | ovara	ovará	oβaro 
+big: ovara: | ovara	ovará	oβaro 
+big: ovaro | ovara	ovará	oβaro 
+bird: mako | ?mako	nako	naku 
+bird: nako | ?mako	nako	naku 
+bird: naku | ?mako	nako	naku 
+bite: baiarina | baiarina	namakiai	βeiai 
+bite: namakiai | baiarina	namakiai	βeiai 
+bite: nani-ai | baiarina	namakiai	βeiai 
+bite: ßeiai | baiarina	namakiai	βeiai 
+bite: veiai | baiarina	namakiai	βeiai 
+black: moroa | moroa	moroau	oporo 
+black: moroau | moroa	moroau	oporo 
+black: moroa(u) | moroa	moroau	oporo 
+black: oporo | moroa	moroau	oporo 
+blood: aro 
+bone: andi | baʼaro	la7aro	laʔaro	naʼaro 
+bone: ba\aro | baʼaro	la7aro	laʔaro	naʼaro 
+bone: baero | baʼaro	la7aro	laʔaro	naʼaro 
+bone: la\aro | baʼaro	la7aro	laʔaro	naʼaro 
+bone: laʔaro | baʼaro	la7aro	laʔaro	naʼaro 
+bone: na\aro | baʼaro	la7aro	laʔaro	naʼaro 
+boy: e-auwa 
+boy: ukua(-ope) 
+branch: naka 
+breast: ame 
+brother: ainamake 
+brother: ovakeo 
+burn: iau nabai | iau nabai	upuai 
+burn: iau navai | iau nabai	upuai 
+butterfly: boiboi 
+butterfly: pipi 
+calf: ari kono 
+calf: kono 
+cassowary: ore 
+cheek: pana 
+cheek: puano 
+chest: ekauwa 
+chest: ukari 
+chest: u\ukane 
+chest: uukwari 
+chest: u\ukwari 
+child: pauwi | ukua	upe 
+child: ukua | ukua	upe 
+child: upe | ukua	upe 
+chin: auene 
+claw: mimini kiakia | mimini kiakia	nono yau | eve inaɔ	inaɔ	inou 
+claw: nonoyau | mimini kiakia	nono yau | eve inaɔ	inaɔ	inou 
+claw: nono yau | mimini kiakia	nono yau | eve inaɔ	inaɔ	inou 
+cloud: moroa | moroa	pani	ururu 
+cloud: pani | moroa	pani	ururu 
+cloud: ururu | moroa	pani	ururu 
+cold: kau\upua | kauʼupua	koupa	uʼupua 
+cold: koupa | kauʼupua	koupa	uʼupua 
+cold: uupua | kauʼupua	koupa	uʼupua 
+cold: u\upua | kauʼupua	koupa	uʼupua 
+come: aneai | aneai	anena 
+come: anena | aneai	anena 
+come: borki | aneai	anena 
+crocodile: komara 
+cut: eina | areai	eina	éʼina 
+cut: opai | areai	eina	éʼina 
+dance: ekeo 
+dance: kaba-kaba 
+dark: muru 
+daughter: pakoroukua 
+day: keari | lare	mapani 
+day: lare | lare	mapani 
+day: mapani | lare	mapani 
+day: pamea | lare	mapani 
+die: imuai 
+die: imua(i) | imuai 
+die: imuna | imuai 
+dig: i\iai | maiene 
+dig: iina | maiene 
+dig: i\ina | maiene 
+dig: maiene 
+dog: oroko 
+dog: taio | oroko 
+drink: (ere) naßai | ere nabai	ere naβai	ereniane	navai	naβai 
+drink: (ere-)navai | ere nabai	ere naβai	ereniane	navai	naβai 
+drink: ereniane | ere nabai	ere naβai	ereniane	navai	naβai 
+dry: imau | imau	lavere	laβere 
+dry: laßere | imau	lavere	laβere 
+dry: lavere | imau	lavere	laβere 
+ear: ila | keaporo	keporo 
+ear: kapara | keaporo	keporo 
+ear: keaporo | keaporo	keporo 
+ear: keporo | keaporo	keporo 
+earth: eiei | kae 
+earth: kae 
+earth: ka\e | kae 
+earth: kauwara | kae 
+earth: miri | kae 
+earth: pani | kae 
+earth: pani-ma\au | kae 
+earth: worikori | kae 
+eat: enekavai | nane	navai	naβai 
+eat: kamuai | nane	navai	naβai 
+eat: kevere-eai | nane	navai	naβai 
+eat: nane | nane	navai	naβai 
+eat: naßai | nane	navai	naβai 
+eat: navai | nane	navai	naβai 
+egg: munu | munu	uru 
+egg: uru | munu	uru 
+elbow: awe-mga 
+elbow: epu 
+elbow: eve-kau 
+emu: ore 
+eye: hoakwai | inamu 
+eye: inamakau | inamu 
+eye: inamu 
+eye: inamuro 
+eye: inamuru 
+face: upaku 
+fall: ara\ai | araʼai 
+far: amai | amai	amamikiu	aʼmai 
+far: amamikiu | amai	amamikiu	aʼmai 
+father: mekai | ?mekai 
+fat (n.): mera 
+fear: kore 
+feather: ke\ere | keʼere	uru	uru-keʼere 
+feather: uru | keʼere	uru	uru-keʼere 
+feather: uru-ke\ere | keʼere	uru	uru-keʼere 
+few: ailapeo | ailapeo	kaupu 
+fight: a\anamenai a\ane | anai	aʼanamenai aʼane 
+finger: chaugowi (?xa…) 
+finger: eve 
+finger: (eve-)uru 
+finger: karina 
+fingernail: eve-ionào | eve inaɔ	inaɔ	inou 
+fingernail: inou | eve inaɔ	inaɔ	inou 
+fire: iau 
+fish: ina | ina	nava 
+fish: nava | ina	nava 
+five: aira | aira	kaupu 
+five: kaupu | aira	kaupu 
+flower: kaparaː | kaparaː	paina puru 
+flower: paina-puru | kaparaː	paina puru 
+fly (n.): erekeari 
+fly (n.): morope 
+fly (n.): moropo 
+fly (v.): areae 
+fly (v.): area-kainavai 
+fog: ururu 
+foot: are | are	ari 
+foot: ari | are	ari 
+foot: arimokono | are	ari 
+foot: arinepoke | are	ari 
+forehead: ikane 
+forehead: ikare 
+four: morere morere | morere morere	morere-morere 
+four: morere-morere | morere morere	morere-morere 
+fruit: uru 
+full: eßopea | ebopea	evopoa nave	eβopea 
+full: evopea | ebopea	evopoa nave	eβopea 
+girl: avaki 
+girl: paka(-upe) 
+give: akunehe | okune	ɔkuai 
+give: aukuai | okune	ɔkuai 
+give: òkuai | okune	ɔkuai 
+give: ɔkuai | okune	ɔkuai 
+give: okune | okune	ɔkuai 
+good: ima | ima	imau	neai 
+good: imau | ima	imau	neai 
+good: neai | ima	imau	neai 
+grass: moroa | pono 
+grass: pono 
+green: moroa | emiri	moroa 
+guts: namu | nemo	nemu 
+guts: nemo | nemo	nemu 
+guts: nemu | nemo	nemu 
+hair: kimari 
+hair: undeavi | kimari 
+hand: airau ebe | airau ebe	eve 
+hand: ebe mokono | airau ebe	eve 
+hand: ëbi | airau ebe	eve 
+hand: eve | airau ebe	eve 
+hand: eve-mo\ono | airau ebe	eve 
+hand: uawaki | airau ebe	eve 
+head: uku | naʼaro epamu	uku 
+hear: boabirini | biriai	boabirini	iparine	miriai	βiriai 
+hear: iparine | biriai	boabirini	iparine	miriai	βiriai 
+hear: miri-ai | biriai	boabirini	iparine	miriai	βiriai 
+hear: ßiriai | biriai	boabirini	iparine	miriai	βiriai 
+heart: umu 
+hear: viri-ai | biriai	boabirini	iparine	miriai	βiriai 
+heavy: mu\u | muʼu 
+heel: ara-nepoki 
+heel: arinepoke 
+here: erauo | erauo	eu ai 
+here: eu ai | erauo	eu ai 
+he/she: aw- 
+he/she: u 
+he/she: una ~ unu 
+hit: anai | vakiai 
+hit: vakiai 
+hole: heni-a 
+hole: iri 
+hole: rua 
+horn: ua 
+house: marea 
+house: rave 
+husband: vaki 
+I: i- | nai 
+I: na | nai 
+I: nai 
+jaw: auene 
+jaw: auene-kaika 
+kill: anai | anai	anea	aβai 
+kill: anea | anai	anea	aβai 
+kill: aßai | anai	anea	aβai 
+kill: avai | anai	anea	aβai 
+kill: pearu | anai	anea	aβai 
+knee: api epu | api epu	are epu	ari epu	epu 
+knee: ari epu | api epu	are epu	ari epu	epu 
+knee: womgai | api epu	are epu	ari epu	epu 
+know: ipa | ipa	ipau 
+know: ipapea | ipa	ipau 
+know: ipau | ipa	ipau 
+know: ipa(u) | ipa	ipau 
+laugh: keke | keke	keki 
+laugh: keki | keke	keki 
+leaf: (a)o | ao	kopura oʼo	o 
+leaf: imara | ao	kopura oʼo	o 
+leaf: kopura o\o | ao	kopura oʼo	o 
+leaf: kopura-ou | ao	kopura oʼo	o 
+leaf: o | ao	kopura oʼo	o 
+leg: are | are	ari 
+leg: ari | are	ari 
+lie: keiai | keiai	keina | arauau 
+lie: kei-ai | keiai	keina | arauau 
+lie: keina | keiai	keina | arauau 
+lie: kei-na | keiai	keina | arauau 
+lightning: aemau 
+lightning: evao 
+lip: epo 
+lip: li\ani 
+liver: mokono 
+live: roko-ai | rokoai 
+long: ßaʔau | maʼau	βaʔau 
+long: va\au | maʼau	βaʔau 
+louse: kaeri\i | kaeri7i 
+louse: kaeriʔi | kaeri7i 
+louse: kau | kaeri7i 
+man: a\a | a7a	aʔa 
+man: ma\a | a7a	aʔa 
+man: make | a7a	aʔa 
+man: ßake | a7a	aʔa 
+man: ukua | a7a	aʔa 
+man: vake | a7a	aʔa 
+man: vaki | a7a	aʔa 
+many: aila 
+many: ailo | aila 
+meat: oi | oia 
+meat: oia 
+meat: oi(a) | oia 
+moon: ia 
+mosquito: ore 
+mother: me | me	mei 
+mother: mei | me	mei 
+mountain: akapu 
+mouth: ani 
+name: noe | noe	noeo	noi 
+name: noeo | noe	noeo	noi 
+name: noi | noe	noeo	noi 
+navel: kaumoro 
+navel: kau-moro 
+near: amapea | amapea	arekamu ai 
+near: arekamu ai | amapea	arekamu ai 
+neck: ke 
+new: munu | munu	no7orea	noʔorea	noʼorea 
+new: no\orea | munu	no7orea	noʔorea	noʼorea 
+new: noʔorea | munu	no7orea	noʔorea	noʼorea 
+night: kipere | kipere	paneuna 
+night: paneuna | kipere	paneuna 
+nose: bina | pina 
+nose: pina 
+nose: pina rua 
+not: ai\i | peo 
+not: aiʔi | peo 
+not: peo 
+old: enia 
+one: monou 
+person: a\a | a7a	aʔa 
+person: aʔa | a7a	aʔa 
+play: lupanini | lupa	lupanini 
+rain: dairi | lai	laiʼi	laʔi	rai 
+rain: eaii | lai	laiʼi	laʔi	rai 
+rain: lai | lai	laiʼi	laʔi	rai 
+rain: la\i | lai	laiʼi	laʔi	rai 
+rain: laʔi | lai	laiʼi	laʔi	rai 
+rain: lai\i | lai	laiʼi	laʔi	rai 
+rain: makina | lai	laiʼi	laʔi	rai 
+rain: rai | lai	laiʼi	laʔi	rai 
+rat: aiane 
+red: aro 
+river: aiara | aiara	aiyara 
+river: aiyara | aiara	aiyara 
+road: kapea 
+road: kapea(i) 
+root: neßa | neβa	uku 
+root: neva | neβa	uku 
+root: uku | neβa	uku 
+rope: apo | kokou 
+rope: kokou 
+rope: no | kokou 
+rope: noa | kokou 
+round: aßikia | aβikia 
+round: avikia | aβikia 
+salt: aura 
+sand: iniki | iniki	miri 
+sand: miri | iniki	miri 
+say: kuruai | iniki	miri 
+say: (omoro) kuruai | iniki	miri 
+scratch: eke eke\e | eke eke liai	eke ekeʼe 
+scratch: eke-eke-liai | eke eke liai	eke ekeʼe 
+sea: (aura-)ere 
+sea: ere 
+sea: kaea 
+seed: uru | uru	veve 
+see: inamu oiai | inamu oiai	oiai 
+see: inamu oiait\ | inamu oiai	oiai 
+shoulder: ano 
+shoulder: ara 
+shoulder: avaku 
+sister: ieregwara 
+sister: maniata 
+sit: pa\avai | pokoiai 
+sit: pokoiai 
+skin: ereai | kape 
+skin: kape 
+sky: pani 
+sky: pani-muku 
+sleep: auau | oʔo keiai	oʼo	ɔʼɔ 
+sleep: o\o | oʔo keiai	oʼo	ɔʼɔ 
+sleep: òò | oʔo keiai	oʼo	ɔʼɔ 
+sleep: o\o keiai | oʔo keiai	oʼo	ɔʼɔ 
+sleep: oʔo keiai | oʔo keiai	oʼo	ɔʼɔ 
+small: mauo | mauó	mauʔu	mauʼu 
+small: mau\u | mauó	mauʔu	mauʼu 
+small: mauʔu | mauó	mauʔu	mauʼu 
+smoke: a\ao | iana	iara	ra	yana 
+smoke: iana | iana	iara	ra	yana 
+smoke: ia-ra | iana	iara	ra	yana 
+smoke: yana | iana	iara	ra	yana 
+snake: paiko 
+son: make 
+son: mere 
+son: ukua 
+sour: lipi 
+spit: aniere | kanu-ere	kanuere 
+spit: epokava | kanu-ere	kanuere 
+spit: kanu | kanu-ere	kanuere 
+spit: kanu-ere | kanu-ere	kanuere 
+split: korama | korama	koravai 
+stand: daanei | laʼavai	orai 
+stand: la\avai | laʼavai	orai 
+stand: orai | laʼavai	orai 
+star: dopo | dopo	nopu	ropo 
+star: nopu | dopo	nopu	ropo 
+star: ropo | dopo	nopu	ropo 
+stone: dore | dore	rore 
+stone: rore | dore	rore 
+straight: korovaki | anana	korovaki 
+sun: dare | dare	lare 
+sun: inamau-ipëri | dare	lare 
+sun: lare | dare	lare 
+sweet: mera 
+swim: maikaißa | maikaiβa	ovavaia 
+swim: maikaiva | maikaiβa	ovavaia 
+swim: ovavaia | maikaiβa	ovavaia 
+tail: neoma | o	ɔ 
+tail: o | o	ɔ 
+take: avapu 
+take: miai 
+that: ou | iure	ou | monou 
+that: oure | iure	ou | monou 
+there: iou ai | iou ai	iure	yarawako 
+there: yarawako | iou ai	iure	yarawako 
+they: e- | oro 
+they: omo | oro 
+they: oro 
+they two: orere 
+thick: mo\ono | moʼono 
+thigh: au 
+thigh: ò 
+thin: kape-kerema | kape kerema 
+this: ei | ei	ieire 
+thorn: eai 
+thou: na- | ni	noro 
+thou: ni | ni	noro 
+thou: ni- | ni	noro 
+thou: nomo | ni	noro 
+thou: noro | ni	noro 
+three: akapuo | akapuo	rere kaiane 
+three: rere kaiane | akapuo	rere kaiane 
+throat: ina-mako 
+tie: mako | piriai 
+today: eai 
+tomorrow: namai 
+tongue: anae | anae	anai 
+tongue: anai | anae	anai 
+tooth: anai | ni7iri	niʔiri	niʼiri 
+tooth: ni\iri | ni7iri	niʔiri	niʼiri 
+tooth: niʔiri | ni7iri	niʔiri	niʼiri 
+tooth: ua | ni7iri	niʔiri	niʼiri 
+tree: iri 
+two: derea | derea	le7eo	leʔeo	morere	rere 
+two: le\eo | derea	le7eo	leʔeo	morere	rere 
+two: leʔeo | derea	le7eo	leʔeo	morere	rere 
+two: rere | derea	le7eo	leʔeo	morere	rere 
+vomit: minikana | minikana	pai 
+walk: are-rokoai | are rokoai	aβi	rokoai 
+walk: aßi | are rokoai	aβi	rokoai 
+walk: avi | are rokoai	aβi	rokoai 
+walk: enana | are rokoai	aβi	rokoai 
+walk: enane | are rokoai	aβi	rokoai 
+walk: enavakana | are rokoai	aβi	rokoai 
+warm: ißa | iva 
+warm: iva 
+wash: kiki-ai 
+water: ere | ?ere	ere 
+water: eri | ?ere	ere 
+we: a- | enei 
+we: ehe | enei 
+we: ene-i | enei 
+weep: miki 
+weep: nainei 
+we (incl.): enei 
+wet: orooro | orooro	oru 
+wet: oro-oro | orooro	oru 
+wet: oru | orooro	oru 
+we two: enere 
+we two (incl.): enere 
+what: ekera\ana | oi ana 
+what: oi ana 
+when: ekara pani ai | ekara pani ai	ekarau paniana 
+where: ekeiana 
+white: evaea | evaea	maina	urupu 
+white: maina | evaea	maina	urupu 
+white: urupu | evaea	maina	urupu 
+who: koana | koana	noʼoːia 
+who: nooia | koana	noʼoːia 
+who: no\oːia | koana	noʼoːia 
+wife: a\e | aʼe 
+wind: kavaea | kavaea	maruru 
+wind: maruru | kavaea	maruru 
+wing: bao | bao	maho 
+wing: maho | bao	maho 
+woman: ae | ae	aʔe	aʼe 
+woman: a\e | ae	aʔe	aʼe 
+woman: aʔe | ae	aʔe	aʼe 
+wood: iri 
+yellow: laeko | laeko	lako lako 
+yellow: lako-lako | laeko	lako lako 
+yes: oiyana 
+yesterday: namai 
+you: noro | ni	noro 
+you two: norere 
+every: uriria 
+ash: iau oporo	iauapo	kokaea	oporo 
+abdomen: nemo	nemu 
+bigness: ovara	ovará	oβaro 
+large: ovara	ovará	oβaro 
+breasts: ame 
+nail: mimini kiakia	nono yau 
+talon: mimini kiakia	nono yau 
+come from: aneai	anena 
+be dead: imuai 
+dead: imuai 
+ground: kae 
+land: kae 
+soil: kae 
+fly: area kainavai	areae 
+fly v.: area kainavai	areae 
+left hand: airau ebe	eve 
+right: airau ebe	eve 
+1 sg.: nai 
+be knowledgeable: ipa	ipau 
+lie down: keiai	keina 
+head louse: kaeri7i 
+male: aʼa	make	maʼa	βake 
+much: aila 
+multiple: aila 
+several: aila 
+flesh: oi 
+hill: akapu 
+title: noe	noeo	noi 
+nighttime: kipere	paneuna 
+adulterous: monou 
+single: monou 
+the: monou 
+unprincipled: monou 
+human: a7a	aʔa 
+human being: a7a	aʔa 
+rainy weather: lai	laiʼi	laʔi	rai 
+path: kapea 
+route: kapea 
+hide: kape 
+little: mauó	mauʔu	mauʼu 
+smallness: mauó	mauʔu	mauʼu 
+rock: dore	rore 
+2 sg: ni	noro 
+grind: derea	le7eo	leʔeo	morere	rere 
+go: are rokoai	aβi	rokoai 
+hot: iva 
+1 pl. inc.: enei 
+we₁: enei 
+whiteness: evaea	maina	urupu 
+who?: koana	noʼoːia 
+female: ae	aʔe	aʼe 
+distant: amai	amamikiu	aʼmai 
+dull: muʼu 
+serious: muʼu 
+close: amapea	arekamu ai 
+ner: amapea	arekamu ai 
+short: lauka	maʼu 
+earthworm: ano mako	auorovai 
+worm: ano mako	auorovai 
+year: auvia 
+2 pl.: noro 
+ye: noro 
+you all: noro 
+3 pl.: oro 
+where?: ekeiana 
+when?: ekara pani ai	ekarau paniana 
+how: oiana 
+how?: oiana 
+other: e	mo 
+broad: peava 
+wide: peava 
+wideness: peava 
+fat: mera 
+narrow: akike 
+principal wife: aʼe 
+his mother: me	mei 
+my mother: me	mei 
+his father: ?mekai 
+my father: ?mekai 
+forest: avare 
+woods: avare 
+stick: naka 
+cord: kokou 
+grease: mera 
+gut: nemo	nemu 
+insides: nemo	nemu 
+intestine: nemo	nemu 
+intestines: nemo	nemu 
+suck: oveove ana 
+breath: liai 
+breathe: liai 
+laughter: keke	keki 
+cogitate: nai koravai 
+reflect: nai koravai 
+think: nai koravai 
+smell: pomoa 
+sniff: pomoa 
+afraid: kore 
+be afraid: kore 
+fright: kore 
+alive: rokoai 
+be alive: rokoai 
+life: rokoai 
+living: rokoai 
+hunt: lakea 
+beat: vakiai 
+strike: vakiai 
+hack: areai	eina	éʼina 
+cut open: korama	koravai 
+pierce: ruai 
+stab: ruai 
+tell lies: arauau 
+drop: araʼai 
+grasp: aʼakiai 
+hold: aʼakiai 
+hold in arm: aʼakiai 
+squeeze: akikieai 
+wring: akikieai 
+wipe: namukiai 
+push: kaiokoai 
+shove: kaiokoai 
+throw: kaieai	kaokana 
+bind: piriai 
+fasten: piriai 
+tie up: piriai 
+sew: kiriai 
+count: oravai 
+enumerate: oravai 
+number: oravai 
+tally: oravai 
+sing: one okavai 
+have fun: lupa	lupanini 
+float: paraka 
+flow: orere kiai 
+brook: aiara	aiyara 
+stream: aiara	aiyara 
+lake: ururu 
+blaze: iau nabai	upuai 
+daylight: lare	mapani 
+daytime: lare	mapani 
+evil: dipiu	lipi	lipio 
+rot: muri 
+rotten: muri 
+dirty: upu 
+filthy: upu 
+soiled: upu 
+sharp: akere 
+blunt: upaia 
+smooth: akoru 
+damp: orooro	oru 
+correct: mikio 
+right side: anana 
+left: keau mekai 
+in: larau ai 
+inside: larau ai 
+and: akaene	mo 
+because: uku 

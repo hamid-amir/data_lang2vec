@@ -1,0 +1,365 @@
+all: -abaːbuna | -abaːbuna	buruku 
+all: buruku | -abaːbuna	buruku 
+and: augwa 
+ankle: aŋunda 
+ankle: ununder 
+arm: ayaramur 
+arm: ayärga 
+arm: ayärmura 
+arm: ayaruka 
+ashes: amanina | amanina	amaṇine 
+ashes: amaṇine | amanina	amaṇine 
+back: iyungder 
+back: mereabu 
+back: miriga 
+back: mirirba 
+back: reripe 
+bad: aoraria 
+bad: -ɟuŋa 
+bark: alugura | alugura	amaṛeba 
+bark: amaṛeba | alugura	amaṛeba 
+belly: mulukwa | a-kpwal̪a	akpwal̪ka	ancal̪ka	mulukwa	mwi-l̪kwa	pwal̪ka 
+big: aruma | -duruŋaṇa	aruma 
+big: -duruŋaṇa | -duruŋaṇa	aruma 
+bird: wuraiɟiɟa | deɟoru	wuraiɟiɟa	yurumba 
+bird: yurumba | deɟoru	wuraiɟiɟa	yurumba 
+bite: nanguya | -waŋi-	-ŋia	nanguya	ongina	oniya 
+bite: -ŋia | -waŋi-	-ŋia	nanguya	ongina	oniya 
+bite: ongina | -waŋi-	-ŋia	nanguya	ongina	oniya 
+bite: oniya | -waŋi-	-ŋia	nanguya	ongina	oniya 
+bitter: -mbuma 
+black: -muḍa | -muḍa	udumac 
+blood: mɛːra | meːra	mwa-ra	mwil̪arka	mwin̪arka	mɛːra	pwirŋkwi	yayari 
+blood: yayari | meːra	mwa-ra	mwil̪arka	mwin̪arka	mɛːra	pwirŋkwi	yayari 
+blow: -bugwa 
+blow: ubukwa 
+blow: waŋgaṛina 
+bone: adidira | -at̪it̪iɹ̣a	adidira	l̪arka 
+boy: nawilyaugwa 
+boy: wanumamalia 
+boy: wiyideaba 
+branch: amamiyäiɟa 
+breast: yuguduguda | a-ŋamwina	yuguduguda	ɲaka 
+breathe: -agwaŋana 
+breathe: ninganguyanina 
+brother: nanigama 
+brother: nawa 
+brother: nawa- 
+brother: ninigumanɟa 
+burn: nuwabaragu 
+butterfly: mabangari 
+butterfly: wurumiliɟira 
+cheek: amuŋgura 
+cheek: umugura 
+chest: gotogoto 
+chest: yuguduguduwa 
+child: naŋariːa 
+child: uraruma 
+child: wijigaigia 
+child: wijigia 
+chin: aŋinda 
+chin: angundu 
+cloud: aŋubini | aubina	aŋubini	unubina 
+cloud: aubina | aubina	aŋubini	unubina 
+cloud: unubina | aubina	aŋubini	unubina 
+cold: -mindada | -mindada	mumareka	numudata	numuradi 
+cold: numudata | -mindada	mumareka	numudata	numuradi 
+cold: numuradi | -mindada	mumareka	numudata	numuradi 
+come: -laga- 
+correct: adinibauya 
+correct: agiyareba 
+crocodile: daŋarbia 
+crocodile: dongarapia 
+cut: abalia 
+cut: -garŋa 
+cut: urinadina 
+cut: urugandina 
+dark: alaruŋwalya 
+dark: aruma 
+dark: nibadena 
+daughter: daŋariːa 
+daughter: nadija 
+day: alida 
+day: menuŋuluda 
+die: achunga | -ɟuŋa	achunga 
+die: -ɟuŋa | -ɟuŋa	achunga 
+dig: -mugada- 
+dig: mungadinya 
+dirty: ajarunga 
+dog: uruwadu | t̪-waṭi	uruwadu	wuruwaḍa	wuruwaḍe 
+dog: wuruwaḍe | t̪-waṭi	uruwadu	wuruwaḍa	wuruwaḍe 
+drink: begina | -bɛːgu	aguŋa begina	begina 
+drink: -bɛːgu | -bɛːgu	aguŋa begina	begina 
+dry: -ŋibiṛiŋgada | -ŋibiṛiŋgada 
+ear: mada | mada	matt	mwa-t̪a	ŋarkwi 
+ear: matt | mada	matt	mwa-t̪a	ŋarkwi 
+earth: aɟiṛiŋga 
+eat: -alyubaṇa | -alyubaṇa	-ʎikpwi-	ningiyambina 
+eat: ningiyambina | -alyubaṇa	-ʎikpwi-	ningiyambina 
+egg: einumamo | doŋarapia	einumamo	inikappuru	inimaːmuwa	yi-ni-mw-amwiwa 
+egg: imoraga | doŋarapia	einumamo	inikappuru	inimaːmuwa	yi-ni-mw-amwiwa 
+egg: inimaːmuwa | doŋarapia	einumamo	inikappuru	inimaːmuwa	yi-ni-mw-amwiwa 
+elbow: aːṇḍa 
+eye: mamayama membu | aŋka	aɹ̣ŋaɹ̣ŋka	aɹ̣ŋka	mempe	meːnba	mwa-npwa	mɛːmba	t̪iɲiɲa 
+eye: mɛːmba | aŋka	aɹ̣ŋaɹ̣ŋka	aɹ̣ŋka	mempe	meːnba	mwa-npwa	mɛːmba	t̪iɲiɲa 
+eye: mempe | aŋka	aɹ̣ŋaɹ̣ŋka	aɹ̣ŋka	mempe	meːnba	mwa-npwa	mɛːmba	t̪iɲiɲa 
+face: aːra 
+fall: -lara- 
+fall: nalara ningnalara 
+father: nanua 
+father: nuŋwa- 
+fat (n.): amalya 
+fat (n.): amungyi 
+fear: -agbada 
+feather: wanamawu- | -eiŋwila	al̪pwil̪ka	wanamawu- 
+few: wiabaura 
+fight: -ŋaɟa- 
+fight: nuadarina 
+fight: nuumada 
+finger: amamo 
+finger: amamoaluka 
+finger: amamwayarga 
+fingernail: inane 
+fire: angura | -a-ŋwiɹ̣a	a-ngura	a-ŋuɹ̣a	a-ŋuṛa	angura 
+fire: aŋuṛa | -a-ŋwiɹ̣a	a-ngura	a-ŋuɹ̣a	a-ŋuṛa	angura 
+fish: agwalya | agwalya	akwaia	akwalia	akw~aia	akw~alia 
+fish: akwaia | agwalya	akwaia	akwalia	akw~aia	akw~alia 
+fish: akwalia | agwalya	akwaia	akwalia	akw~aia	akw~alia 
+five: amukuale 
+fly (n.): yuwama 
+fly (v.): -ŋgara 
+fly (v.): yanguru 
+foot: aːlaga | a-l̪ika	aluka	aːlaga	l̪iraka 
+foot: aluka | a-l̪ika	aluka	aːlaga	l̪iraka 
+foot: umulya | a-l̪ika	aluka	aːlaga	l̪iraka 
+forehead: aːra 
+forehead: arra 
+four: abuiabua 
+full: buruku | buruku	nulada	wagarŋa 
+full: -gulyaŋburugu- | buruku	nulada	wagarŋa 
+full: naiyamburuku | buruku	nulada	wagarŋa 
+full: nulada | buruku	nulada	wagarŋa 
+full: wagarŋa | buruku	nulada	wagarŋa 
+girl: dadiera 
+girl: didaraba 
+girl: umumajiaera 
+give: uga | -ugwa-	uga 
+give: -ugwa- | -ugwa-	uga 
+good: aningappa | -niŋaba	-ŋapwa	aningappa 
+good: -niŋaba | -niŋaba	-ŋapwa	aningappa 
+grass: amaḍa 
+grass: umada 
+guts: ningalada 
+hair: mamuŋgba | mamunkwa	mamuŋgba	mwa-mwiŋpwa	mwil̪kwi 
+hair: mamunkwa | mamunkwa	mamuŋgba	mwa-mwiŋpwa	mwil̪kwi 
+hand: ayärga | a-yarka	ayaruka	ayärga	ŋwaŋka	ŋwiyaŋka 
+hand: ayaruka | a-yarka	ayaruka	ayärga	ŋwaŋka	ŋwiyaŋka 
+head: aṛiŋga | a-ɹ̣iŋka	ariŋga	arunga	aṛiŋga	wanka	waṇka	ʎaŋaɹ̣ŋka	ʎaŋka 
+head: arunga | a-ɹ̣iŋka	ariŋga	arunga	aṛiŋga	wanka	waṇka	ʎaŋaɹ̣ŋka	ʎaŋka 
+hear: agirigia | -ŋgiriga	agirigia	wanguraya 
+hear: -ŋgiriga | -ŋgiriga	agirigia	wanguraya 
+heart: aṇḍinda | a-ṇṭiṇṭa	anungua	aṇḍinda	ʎiŋarka 
+heart: anungua | a-ṇṭiṇṭa	anungua	aṇḍinda	ʎiŋarka 
+hear: wanguraja | -ŋgiriga	agirigia	wanguraya 
+hear: yakwa | -ŋgiriga	agirigia	wanguraya 
+heavy: angabu wanwana | -ŋgararŋaŋwa	angabu wanwana 
+heavy: -ŋgararŋaŋwa | -ŋgararŋaŋwa	angabu wanwana 
+here: amanga 
+hit: neiyungkwarea ~ wiyabari 
+hit: -ŋa- 
+hold: -dagára- 
+hold: umia 
+hole: ameidara 
+house: alagiṛa 
+hunt: -adariada 
+hunt: aunugaoa 
+husband: naniŋa- 
+I: naiuwa | -araga	eːgara-	naiuwa	ngaiua	niŋi-	ŋaiyuwa 
+I: ngaiua | -araga	eːgara-	naiuwa	ngaiua	niŋi-	ŋaiyuwa 
+I: ŋaiyuwa | -araga	eːgara-	naiuwa	ngaiua	niŋi-	ŋaiyuwa 
+I: nganyangu | -araga	eːgara-	naiuwa	ngaiua	niŋi-	ŋaiyuwa 
+I: niyuunga | -araga	eːgara-	naiuwa	ngaiua	niŋi-	ŋaiyuwa 
+kangaroo: yuburada 
+kill: -ŋa | -ŋa	wiyabari achunga 
+kill: wiyabari achunga | -ŋa	wiyabari achunga 
+knee: eini | eini	yi-na	yi-walkwira	yina	ŋinaka	ŋwinaka 
+knee: yina | eini	yi-na	yi-walkwira	yina	ŋinaka	ŋwinaka 
+know: -iŋma- | -iŋma-	nagaguruma	naragaguama 
+know: nagaguruma | -iŋma-	nagaguruma	naragaguama 
+know: naragaguama | -iŋma-	nagaguruma	naragaguama 
+lake: awuṛugwa 
+laugh: umunga 
+leaf: uijia | uijia	uiyia	umada 
+leaf: umada | uijia	uiyia	umada 
+leg: mangari 
+lightning: nungunimunda 
+lip: amamindu 
+many: yababuna | -pwiṇa	yababuna 
+meat: amadaŋgwa | -at̪aŋkwi	amadaŋgwa 
+moon: imora | imora	ni-mwawiɹ̣i	yimaːwura 
+morning: alaruŋwalyilyawiya 
+mosquito: tanana 
+mother: dunda 
+mountain: awaːṇḍa 
+mouth: alalyupa | a-t̪ira	adira	alalyupa	dunda 
+mouth: dunda | a-t̪ira	adira	alalyupa	dunda 
+navel: minlilaukwura 
+near: agudan | agudan	amaɟi 
+neck: yambia | ya-mpwiya	yambia 
+new: wararuguma 
+not: nari 
+old: waniaringa 
+one: auliaba 
+person: nanamamalya | nanamamalya	yaramamaɟi 
+play: yumeiyungena 
+pull: urimaga 
+push: ugireina 
+rain: yaiyukwa | yaiyukwa	yaʎikwa 
+rat: nimeanakuma 
+rat: orandinda 
+red: maruwura 
+river: achraradaluma 
+river: adaluma 
+river: ayagiɟira 
+road: manadi | manadi	munaruku 
+road: munaruku | manadi	munaruku 
+root: amugayara 
+rope: mangaruku 
+rope: meira 
+rope: widiri 
+salt: magada 
+sand: arupingi | -aciɹ̣iŋk-	arupingi	aturinga 
+sand: aturinga | -aciɹ̣iŋk-	arupingi	aturinga 
+say: niambaina | yumagina 
+say: yanguina | yumagina 
+say: yumagina 
+scratch: nunilijana 
+sea: meiruwa 
+see: undia | -riŋga	-riŋki-	undia 
+sew: narawagina 
+sharp: linundina 
+sharp: urunguna 
+sing: nalubina amaippi 
+sister: nangu 
+sit: amagulia 
+sleep: -muŋgula | -muŋgula	manauŋula	mungulia 
+sleep: mungulia | -muŋgula	manauŋula	mungulia 
+small: agira | -kwici-	agira 
+smoke: umara | aŋwara	umara 
+snake: yingana 
+son: nanigama 
+spit: umudilya 
+squeeze: amagilya 
+stand: walmachunga 
+star: warawara 
+stone: awanda | a-ŋwaṇṭa	amora	awanda	malara 
+stone: malara | a-ŋwaṇṭa	amora	awanda	malara 
+straight: ariba 
+straight: ayungadaburra 
+suck: numabijinya 
+sun: aijuma | aijuma	aiyuma	alamuda	mamaːwura	mamura 
+sun: alamuda | aijuma	aiyuma	alamuda	mamaːwura	mamura 
+sun: mamura | aijuma	aiyuma	alamuda	mamaːwura	mamura 
+sweet: ilyägwa 
+sweet: ilyaku 
+sweet: iyakwu 
+swim: yaimena | yaimena	yiamena 
+swim: yiamena | yaimena	yiamena 
+tail: mamudabu | l̪arka	mamudabu	mwa-ɹ̣apwara 
+take: uilagina 
+thigh: makare 
+thin: aoraria | -yar-	aoraria 
+thou: nungua | -eːna	niŋkwi-	nungua	nuŋguwa 
+thou: nungulangu | -eːna	niŋkwi-	nungua	nuŋguwa 
+three: aliakalpia 
+throat: yambiya 
+throw: aripa 
+thunder: iminwara 
+thunder: mamuntunga 
+today: aduabe 
+today: atoapa 
+tomorrow: anukwaye 
+tomorrow: aṇuŋgwaia 
+tongue: alalyupa | a-ʎaʎikpwa	alalyupa	aʎäʎigba	ʎikpwi	ʎikpwirkwi 
+tooth: akarunga | akarunga	warka 
+turn: nuwarukachia numugaina 
+turn: uruwarukachea 
+two: ambilima | -ampwiʎimwa	ambilima 
+walk: -laga- | umbagulangu 
+walk: maia ungara yaia | umbagulangu 
+walk: umbagulangu 
+wallaby: dilandu 
+wallaby: iprata 
+warm: -ŋadada 
+wash: mangudina 
+wash: -mbɛni- 
+wash: nambaina 
+water: agungu | a-kwikwi	agungu	aguŋwa	kwikwi 
+weep: -ŋwada 
+weep: nuadina 
+weep: unader 
+wind: aruru 
+woman: raɟiɟa | udaringa	wudariŋga 
+woman: udaringa | udaringa	wudariŋga 
+wood: aŋuṛa 
+wood: eiga 
+yellow: otarak 
+every: -abaːbuna	buruku 
+ash: amanina	amaṇine 
+abdomen: a-kpwal̪a	akpwal̪ka	ancal̪ka	mulukwa	mwi-l̪kwa	pwal̪ka 
+bigness: -duruŋaṇa	aruma 
+large: -duruŋaṇa	aruma 
+breasts: a-ŋamwina	yuguduguda	ɲaka 
+come from: -laga- 
+be dead: -ɟuŋa	achunga 
+dead: -ɟuŋa	achunga 
+fly: -ŋgara	yanguru 
+fly v.: -ŋgara	yanguru 
+green: -amwaṭa 
+left hand: a-yarka	ayaruka	ayärga	ŋwaŋka	ŋwiyaŋka 
+right: a-yarka	ayaruka	ayärga	ŋwaŋka	ŋwiyaŋka 
+horn: ka-ṇṭira	l̪arka 
+1 sg.: -araga	eːgara-	naiuwa	ngaiua	niŋi-	ŋaiyuwa 
+be knowledgeable: -iŋma-	nagaguruma	naragaguama 
+liver: -wa	ʎiŋarka 
+long: -cira	raki 
+male: nanamamaʎa	naniŋa 
+man: nanamamalya	yaramamaɟi 
+much: -pwiṇa	yababuna 
+multiple: -pwiṇa	yababuna 
+several: -pwiṇa	yababuna 
+flesh: -at̪aŋkwi	amadaŋgwa 
+name: -kiri	miːgara 
+title: -kiri	miːgara 
+nose: a-minta	aminda	amindu	ŋwaniŋki	ŋwiniŋpi 
+adulterous: auliaba 
+single: auliaba 
+that: auliaba 
+the: auliaba 
+unprincipled: auliaba 
+human: nanamamalya	yaramamaɟi 
+human being: nanamamalya	yaramamaɟi 
+rainy weather: yaiyukwa	yaʎikwa 
+path: manadi	munaruku 
+route: manadi	munaruku 
+round: ŋaŋpil̪ki 
+seed: at̪it̪iɹ̣a 
+hide: -kwiʎi	amagulia	l̪apwirkwi 
+skin: -kwiʎi	amagulia	l̪apwirkwi 
+little: -kwici-	agira 
+smallness: -kwici-	agira 
+rock: a-ŋwaṇṭa	amora	awanda	malara 
+2 sg: -eːna	niŋkwi-	nungua	nuŋguwa 
+you: -eːna	niŋkwi-	nungua	nuŋguwa 
+grind: -ampwiʎimwa	ambilima 
+go: umbagulangu 
+1 pl. inc.: -aɲaŋwa	eːgara-	naguruwa	ŋari- 
+we: -aɲaŋwa	eːgara-	naguruwa	ŋari- 
+we₁: -aɲaŋwa	eːgara-	naguruwa	ŋari- 
+female: udaringa	wudariŋga 
+distant: awiʎigara 
+far: awiʎigara 
+dull: -ŋgararŋaŋwa	angabu wanwana 
+serious: -ŋgararŋaŋwa	angabu wanwana 
+close: agudan	amaɟi 
+ner: agudan	amaɟi 

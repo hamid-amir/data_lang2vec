@@ -1,0 +1,278 @@
+all: бәнсә 
+every: бәнсә 
+bark: касу	касуо 
+abdomen: минәз̌әә	чайбә 
+belly: минәз̌әә	чайбә 
+big: анiкаˮа 
+bigness: анiкаˮа 
+large: анiкаˮа 
+bird: дямаку	тәибәә 
+bite: сакәләса 
+black: кула	тусайкаˮа	тусайкуо	хеӈкә 
+blood: кам 
+bone: латәә 
+breast: ними	синсе 
+breasts: ними	синсе 
+cold: чеситi 
+be dead: куодя 
+dead: куодя 
+die: куодя 
+dog: баӈ 
+drink: быз̌ырсы 
+dry: косүо 
+ear: коу 
+earth: моу 
+ground: моу 
+land: моу 
+soil: моу 
+eat: ӈәмурся 
+egg: мәну 
+eye: сеймы 
+feather: тотә 
+fish: колы 
+fly: тәирси 
+fly v.: тәирси 
+foot: биатә	дебы	хяӈкә 
+full: мүнтүтүо 
+give: миси	тәтудя 
+good: няагәә	әрәкәрә 
+green: нётәрәку	ӈиндiаˮсыә 
+hair: ӈабтә 
+head: ӈойбуо 
+heart: сәә 
+horn: ӈамтә 
+1 sg.: мәнә 
+I: мәнә 
+kill: котудя 
+knee: хёагай 
+leaf: хораз̌яй 
+liver: митә 
+long: кунтiә	найбәгәә 
+male: кодюму	куодюму 
+man: ӈана”са 
+many: ӈуӈкәгә 
+much: ӈуӈкәгә 
+multiple: ӈуӈкәгә 
+several: ӈуӈкәгә 
+moon: кичез̌әә 
+hill: бәру 
+mountain: бәру 
+mouth: ӈаӈ 
+name: ним 
+title: ним 
+neck: бакәз̌әә 
+new: меньдяде 
+night: хии 
+nighttime: хии 
+nose: ӈүӈкә 
+not: нинтуу	нисы 
+adulterous: ӈуоиˮ	ӈуой 
+one: ӈуоиˮ	ӈуой 
+single: ӈуоиˮ	ӈуой 
+that: тәә	әмәнiә 
+the: ӈуоиˮ	ӈуой 
+unprincipled: ӈуоиˮ	ӈуой 
+human: ӈана”са 
+human being: ӈана”са 
+person: ӈана”са 
+rain: соруа 
+rainy weather: соруа 
+red: дябакуо 
+path: саруо	сәдеә	ӈутә	ӈутәрәму 
+road: саруо	сәдеә	ӈутә	ӈутәрәму 
+route: саруо	сәдеә	ӈутә	ӈутәрәму 
+root: бәнту	бәнтуо 
+round: мандайку	мандайкуо 
+sand: дюо 
+say: дебтудя	мунса 
+see: качемирся	сеймыгәлирси	ӈәз̌үся 
+sit: ӈомтүся 
+hide: кухуо 
+skin: кухуо 
+sleep: кундаса 
+little: сеәлаку	әлыгаку 
+small: сеәлаку	әлыгаку 
+smallness: сеәлаку	әлыгаку 
+smoke: дякагэ	кинтә 
+star: хотәдиә 
+rock: хуалә 
+stone: хуалә 
+sun: коу 
+swim: дямбися 
+tail: тәйбу 
+this: тәтi	әмә 
+2 sg: тәнә 
+thou: тәнә 
+you: тәнә 
+tongue: сиәде 
+tooth: чими 
+tree: муӈку	хуаа 
+grind: ситi 
+two: ситi 
+go: дёзүрся	хез̌ытысы 
+walk: дёзүрся	хез̌ытысы 
+hot: хейбы	хекутыәмәны 
+warm: хейбы	хекутыәмәны 
+water: бы” 
+1 pl. inc.: ми	мыӈ 
+we: ми	мыӈ 
+we₁: ми	мыӈ 
+what: маа 
+white: сыр	сырайкуо 
+whiteness: сыр	сырайкуо 
+who: сылы 
+who?: сылы 
+female: ны 
+woman: ны 
+yellow: тодякуо 
+distant: кунтәгаˮану	кунтәгуну 
+far: кунтәгаˮану	кунтәгуну 
+dull: сәӈкутуо 
+heavy: сәӈкутуо 
+serious: сәӈкутуо 
+close: кадя	нокуну 
+near: кадя	нокуну 
+ner: кадя	нокуну 
+salt: сыр 
+short: кәәлүкү 
+thin: дёбтәлюкү 
+year: хүо 
+3 sg.: сыты 
+he: сыты 
+she: сыты 
+2 pl.: тiи	тыӈ 
+ye: тiи	тыӈ 
+you all: тiи	тыӈ 
+3 pl.: сытi 
+they: сытi 
+here: әмны 
+there: тамну	тамны 
+where: кунуӈи 
+where?: кунуӈи 
+when: каӈгә 
+when?: каӈгә 
+how: куниˮиа	куо	мантә 
+how?: куниˮиа	куо	мантә 
+some: канәгүо	канәӈулю 
+few: нимәкүˮ 
+other: ӈамиай	ӈамиайдюм 
+three: нагүр 
+four: четә 
+five: сәӈхәляӈкә 
+broad: тантәгәә 
+wide: тантәгәә 
+wideness: тантәгәә 
+fat: дир	чуˮ 
+thick: дербайкуо	дерәгәә	нячегәә 
+narrow: сегәлюкү	сикүо 
+child: нюо 
+principal wife: немыбтыˮыа 
+wife: немыбтыˮыа 
+husband: кодюму	куодюму	нюо десы 
+his mother: немы 
+mother: немы 
+my mother: немы 
+father: десы	идяˮа 
+his father: десы	идяˮа 
+my father: десы	идяˮа 
+animal: дямәз̌ә 
+forest: муӈку	хуаньдеху 
+woods: муӈку	хуаньдеху 
+flower: лукуз̌иай 
+grass: нётә 
+flesh: сяхы	ӈәмсу 
+meat: сяхы	ӈәмсу 
+grease: дир	чуˮ 
+claw: кәту 
+fingernail: кәту 
+nail: кәту 
+leg: ӈой 
+arm: дютү 
+hand: дютү 
+wing: чуо 
+back: мәку 
+spit: себситiрси	себситәсы 
+blow: хүаркуйся	хүарса	хүолтәса 
+breath: бачедя 
+breathe: бачедя 
+laugh: хидиси 
+laughter: хидиси 
+cogitate: сынерырсы 
+reflect: сынерырсы 
+think: сынерырсы 
+smell: хүүся 
+sniff: хүүся 
+afraid: хилиˮси 
+be afraid: хилиˮси 
+fear: хилиˮси 
+fright: хилиˮси 
+alive: нилыди 
+be alive: нилыди 
+life: нилыди 
+live: нилыди 
+living: нилыди 
+fight: кәмәуˮтәса 
+hunt: басудя 
+beat: хоситәсы 
+hit: хоситәсы 
+strike: хоситәсы 
+scratch: каз̌аса 
+dig: сиркәтәсы 
+stand: нәнсыди	нәньдисы 
+drop: мәнәгәирся	сохуаˮтәса 
+fall: мәнәгәирся	сохуаˮтәса 
+grasp: кәмиаса	хуанулуса 
+hold: кәмиаса	хуанулуса 
+hold in arm: кәмиаса	хуанулуса 
+squeeze: мебкиси	мебкитiрси	мебкәәди 
+wring: мебкиси	мебкитiрси	мебкәәди 
+wash: кәләбтугуйси	нёбтәдя 
+wash clothes: кәләбтугуйси	нёбтәдя 
+pull: нягиˮтәсы 
+push: номүˮтәса 
+shove: номүˮтәса 
+throw: сәтәмирся 
+sew: сочурәса 
+count: туобталудя	туобтугуйся 
+enumerate: туобталудя	туобтугуйся 
+number: туобталудя	туобтугуйся 
+tally: туобталудя	туобтугуйся 
+sing: кәйӈися 
+have fun: санiрся 
+play: санiрся 
+flow: луаˮтуса	чундаса 
+freeze: кәндыˮнiарса	кәндыˮтәсы 
+swell: хонюди 
+brook: бигай	биказ̌әә	тари	тариз̌әә 
+river: бигай	биказ̌әә	тари	тариз̌әә 
+stream: бигай	биказ̌әә	тари	тариз̌әә 
+lake: турку 
+ocean: баагутә	дям	дямәрәә 
+sea: баагутә	дям	дямәрәә 
+dust: дяӈ	лиле 
+sky: бәнтуо	ӈуо 
+snow: дюм	сирү 
+ice: сыр 
+day: дялы 
+daylight: дялы 
+daytime: дялы 
+old: хүнсерәә 
+bad: бахиа	нәӈхуо	әлигаˮа 
+evil: бахиа	нәӈхуо	әлигаˮа 
+rot: чиинiˮиа 
+rotten: чиинiˮиа 
+dirty: курыˮбиалә	негыку	некыруˮбалә	салайку	салайкуо 
+filthy: курыˮбиалә	негыку	некыруˮбалә	салайку	салайкуо 
+soiled: курыˮбиалә	негыку	некыруˮбалә	салайку	салайкуо 
+straight: нәмәгәә 
+sharp: нёмсайкуо 
+blunt: тыамәә	ӈачегаимтүо	ӈачегали ичуо 
+damp: дебтәбуо	нетыбыә 
+wet: дебтәбуо	нетыбыә 
+correct: ӈәз̌иˮтәкә 
+right: мантiмү 
+right side: мантiмү 
+left: бәтiә 
+at: ни	нинi 
+with: нану 
+because: суобәсы 

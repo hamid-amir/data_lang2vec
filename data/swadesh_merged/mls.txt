@@ -1,0 +1,148 @@
+all: támà 
+every: támà 
+ash: àwéndî 
+ashes: àwéndî 
+bark: kuburukwing 
+big: mòŋgúlá 
+bigness: mòŋgúlá 
+large: mòŋgúlá 
+bird: kúšík 
+bite: ìːš	ìːš-éš 
+blood: fari*	fariN	fàríŋ	fàːríŋ 
+bone: konj~i	kəːnǯi 
+breast: aNg~uini	aŋguin-i 
+breasts: aNg~uini	aŋguin-i 
+claw: kínǯim-ì 
+nail: kínǯim-ì 
+talon: kínǯim-ì 
+cloud: àbír-ì 
+cold: kírímà 
+come: ar 
+come from: ar 
+be dead: ondi	ondoi	ond~i	ond~oi	ɪy 
+dead: ondi	ondoi	ond~i	ond~oi	ɪy 
+die: ondi	ondoi	ond~i	ond~oi	ɪy 
+dog: inj~e	inj~i	inǯè 
+drink: aNaN	ayaN	aŋ	aŋ-iŋ 
+dry: férrè	ɪrbur-on 
+ear: koye	kw~oyo	kwɔyo 
+earth: arad 
+ground: arad 
+land: arad 
+soil: arad 
+eat: iny	iny-en 
+egg: kandaŋg-i 
+eye: kogi	kóː-gí 
+feather: tíŋga kwoiči-tung 
+fire: wasi	waso	wásì	wáːsì 
+fish: ku5i	ku5o	kúnyî	kúnyô 
+fly: fɪr 
+fly v.: fɪr 
+foot: ǯoinyu kurru 
+full: biNg~a	biŋga	nandam 
+give: əinǯ 
+good: kàllá 
+green: ?fangi-tung	ráː-ŋgì 
+hair: síŋá	teːfa	tíːfa 
+hand: koro	kw~oro 
+left hand: koro	kw~oro 
+right: koro	kw~oro 
+head: kíǯí	kúǯò 
+hear: in	inaN	inaŋ	iraN 
+heart: kùrî 
+horn: kami	kemi	kám-î 
+1 sg.: am	ama	àmá 
+I: am	ama	àmá 
+kill: iwi	iyaw 
+knee: kadiNy~o	kadin5u	kàdɪ́ɲɔ́ 
+be knowledgeable: was	was-iŋ 
+know: was	was-iŋ 
+leaf: koye	kw~oyo	kwɔyo 
+lie: ibi 
+lie down: ibi 
+liver: 5atiNy~a	Nati5a	ɲatiŋya ̩ŋátíɲ-à 
+head louse: aki5	akiNg~i 
+louse: aki5	akiNg~i 
+male: kàmbâ 
+man: kaNg~i	kaːŋ-gɪ̀	knaggy~ 
+moon: áyè 
+hill: jebel	kondola	kómà 
+mountain: jebel	kondola	kómà 
+name: mirsi 
+title: mirsi 
+neck: agara	kótí 
+new: Nund~i	nw~ond~i	ŋúnd-ì	ǯɛkɛ 
+night: kosaN	kosaŋ	kw~usaN 
+nighttime: kosaN	kosaŋ	kw~usaN 
+nose: durmi	durmo	dúrmí 
+adulterous: to	tom	tyǒm	tíːlò	tỳóm 
+one: to	tom	tyǒm	tíːlò	tỳóm 
+single: to	tom	tyǒm	tíːlò	tỳóm 
+that: íllì 
+the: to	tom	tyǒm	tíːlò	tỳóm 
+unprincipled: to	tom	tyǒm	tíːlò	tỳóm 
+human: kaNg~i	kaːŋ-gɪ̀	knaggy~ 
+human being: kaNg~i	kaːŋ-gɪ̀	knaggy~ 
+person: kaNg~i	kaːŋ-gɪ̀	knaggy~ 
+rain: sàː 
+rainy weather: sàː 
+red: furn-gi 
+path: turfu 
+road: turfu 
+route: turfu 
+root: ràtàtí	órò 
+say: ɛr-naŋ 
+see: ikel	iser 
+seed: ǯòŋòná 
+sit: iŋyuŋ 
+hide: baro	barra	bàrâ 
+skin: baro	barra	bàrâ 
+sleep: arn-aŋtání 
+little: nyɛr- 
+small: nyɛr- 
+smallness: nyɛr- 
+smoke: ùrúŋgì 
+star: kara	kiyE	kíyɛ̀ 
+rock: ditEra	dittera	ditɛra	kondola 
+stone: ditEra	dittera	ditɛra	kondola 
+sun: aiying~o	ayiNg~e	áyìŋgè 
+swim: idiriŋ	idiriŋ-an 
+tail: danabo	kúrrà 
+2 sg: máŋ 
+thou: máŋ 
+you: máŋ 
+tongue: gelmand~i	gelm~edi	gèlmédì 
+tooth: kaTiNe	kaTiNg~i	káčiŋe 
+tree: siNg~e	siNy~i 
+grind: barra	mbárá 
+two: barra	mbárá 
+hot: boŋgo	ʼuɲa 
+warm: boŋgo	ʼuɲa 
+water: sa	sàː 
+1 pl. inc.: mi 
+we: mi 
+we₁: mi 
+what: guru	nɛri 
+white: ǯìsá	ǯìːsá 
+whiteness: ǯìsá	ǯìːsá 
+who: ŋgá 
+who?: ŋgá 
+female: múč-ò	ìyáŋá 
+woman: múč-ò	ìyáŋá 
+yellow: abunadi	asfar 
+distant: nyɛlɛ 
+far: nyɛlɛ 
+dull: lɛrɛ 
+heavy: lɛrɛ 
+serious: lɛrɛ 
+close: mɔ̀nǯé 
+near: mɔ̀nǯé 
+ner: mɔ̀nǯé 
+salt: s-aŋgarɪ 
+short: dòrtálá 
+snake: taráː-ŋgì 
+thin: bɛ́rɛ̀ 
+wind: ágùrí 
+earthworm: tùɲí	tùːŋɲí 
+worm: tùɲí	tùːŋɲí 
+year: sɛnɛ 

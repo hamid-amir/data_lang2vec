@@ -1,0 +1,266 @@
+all: gabos 
+every: gabos 
+ash: aboʼ 
+ashes: aboʼ 
+abdomen: tulac 
+belly: tulac 
+big: daculà 
+bigness: daculà 
+large: daculà 
+bird: gamgam [bayong] 
+bite: macagat 
+black: itom 
+blood: dugo7	dugô 
+bone: tu-lang	tulaN 
+breast: susu 
+breasts: susu 
+burn: sulu-on/masulô 
+burn tr.: sulu-on/masulô 
+cloud: panganoron 
+cold: malipot 
+come: abot	maabot 
+come from: abot	maabot 
+be dead: magpacagadan	pakagadan 
+dead: magpacagadan	pakagadan 
+die: magpacagadan	pakagadan 
+dog: ayam 
+drink: inum	mainum 
+dry: alang	baladon 
+ear: taliNa	talinga 
+eat: makakan 
+egg: bunay [sugok] 
+eye: mata	matá 
+feather: pakpak 
+fire: calayo	kalayo 
+fish: sira7	sirâ 
+fly: malupad 
+fly v.: malupad 
+good: marhay 
+green: berde 
+hair: buhok 
+hand: kamut 
+left hand: kamut 
+right: kamut 
+head: payo 
+hear: daNog	madangog 
+1 sg.: acoʼ	ako 
+I: acoʼ	ako 
+kill: magadan 
+be knowledgeable: tatao 
+know: tatao 
+leaf: dahon 
+lie: mahigdâ 
+lie down: mahigdâ 
+liver: katoy 
+long: halaba 
+head louse: kuto 
+louse: kuto 
+male: lalaki 
+man: tawo 
+moon: bulan 
+mouth: ngusò 
+name: paNaran	pangaran 
+title: paNaran	pangaran 
+neck: li-og 
+new: bag-o	bag7~o 
+night: baNui	bangui 
+nighttime: baNui	bangui 
+nose: duNo7	dungô 
+adulterous: saro	saroʼ	saró’ 
+one: saro	saroʼ	saró’ 
+single: saro	saroʼ	saró’ 
+that: ito 
+the: saro	saroʼ	saró’ 
+unprincipled: saro	saroʼ	saró’ 
+human: tawo 
+human being: tawo 
+person: tawo 
+rain: uran 
+rainy weather: uran 
+red: pula 
+path: tinampo-dalan	tinamp~odalan 
+road: tinampo-dalan	tinamp~odalan 
+route: tinampo-dalan	tinamp~odalan 
+root: gamut 
+sand: baybay 
+say: masabi	mataram 
+see: hiliN	mahiling 
+sit: matucao 
+hide: kublit 
+skin: kublit 
+sleep: maturog 
+little: sadit 
+small: sadit 
+smallness: sadit 
+smoke: asoʼ 
+star: bitun	bituun 
+rock: gapu7	gapû 
+stone: gapu7	gapû 
+swim: malangoy 
+tail: ikog 
+this: ini 
+2 sg: icaʼ	ika 
+thou: icaʼ	ika 
+you: icaʼ	ika 
+tongue: dila7	dilà 
+tooth: Nipon	ngipon 
+grind: duwa	duwá 
+two: duwa	duwá 
+go: malacao 
+walk: malacao 
+hot: maaringasa 
+warm: maaringasa 
+water: las7~ay	tubig	tubig - las-ay 
+1 pl. inc.: kita	quita 
+we: kita	quita 
+we₁: kita	quita 
+what: ano 
+white: puti 
+whiteness: puti 
+who: si-isay 
+who?: si-isay 
+female: babaye 
+woman: babaye 
+yellow: canario 
+distant: harayô 
+far: harayô 
+dull: magabat 
+heavy: magabat 
+serious: magabat 
+close: harani 
+near: harani 
+ner: harani 
+salt: asin 
+short: hababâ	halip-ot 
+snake: halas 
+thin: mahimpis 
+wind: durus	paros 
+earthworm: alulunti 
+worm: alulunti 
+year: taon 
+2 pl.: ica 
+ye: ica 
+you all: ica 
+3 pl.: sinda 
+they: sinda 
+where: sain 
+where?: sain 
+when: no-arin 
+when?: no-arin 
+how: paano 
+how?: paano 
+other: ibaba 
+three: tuloʼ	tuló 
+four: apat	apát 
+five: lima	limá 
+broad: mahiwas 
+wide: mahiwas 
+wideness: mahiwas 
+fat: mantika 
+thick: mahib-og 
+narrow: haya|cpit 
+principal wife: agom na babaye 
+wife: agom na babaye 
+husband: agom na lalaki 
+his mother: inâ 
+mother: inâ 
+my mother: inâ 
+father: amâ 
+his father: amâ 
+my father: amâ 
+forest: cadlagan 
+woods: cadlagan 
+branch: sanga 
+stick: sanga 
+fruit: bunga 
+flower: burak 
+grass: awot	du-ut 
+cord: lubid 
+rope: lubid 
+flesh: carne 
+meat: carne 
+grease: mantika 
+wing: balucag 
+gut: minudencia 
+guts: minudencia 
+insides: minudencia 
+intestine: minudencia 
+intestines: minudencia 
+back: likod 
+suck: masupsup 
+spit: malutab 
+vomit: masuka 
+blow: hayupon	maduros 
+breath: maguinhawa 
+breathe: maguinhawa 
+laugh: ma-ngisi	ma-oloc 
+laughter: ma-ngisi	ma-oloc 
+cogitate: maisip 
+reflect: maisip 
+think: maisip 
+smell: maparong 
+sniff: maparong 
+afraid: matakot 
+be afraid: matakot 
+fear: matakot 
+fright: matakot 
+alive: mabuhay 
+be alive: mabuhay 
+life: mabuhay 
+live: mabuhay 
+living: mabuhay 
+hunt: mang-ayam 
+beat: mapacol 
+hit: mapacol 
+strike: mapacol 
+cut: ti-a-con 
+hack: ti-a-con 
+cut open: ba-a-con 
+split: ba-a-con 
+pierce: masaksak 
+stab: masaksak 
+scratch: macagao 
+dig: maducag 
+stand: matindog 
+drop: mahulog 
+fall: mahulog 
+grasp: macapot 
+hold: macapot 
+hold in arm: macapot 
+squeeze: mapigâ 
+wring: mapigâ 
+throw: maapon 
+bind: bugkuson 
+fasten: bugkuson 
+tie: bugkuson 
+tie up: bugkuson 
+sew: matahî 
+count: mabilang 
+enumerate: mabilang 
+number: mabilang 
+tally: mabilang 
+flow: bulus 
+lake: danao 
+ocean: dagat 
+sea: dagat 
+dust: alpog 
+fog: culop 
+sky: langit 
+bad: maraot 
+evil: maraot 
+rot: lapâ 
+rotten: lapâ 
+dirty: maati 
+filthy: maati 
+soiled: maati 
+sharp: matarom 
+blunt: mangurol 
+damp: basâ 
+wet: basâ 
+right side: tu-o 
+left: wala 
+at: sa 
+in: laog 
+inside: laog 
+and: sa|ka 
+if: con 

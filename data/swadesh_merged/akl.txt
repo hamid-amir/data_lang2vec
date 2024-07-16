@@ -1,0 +1,309 @@
+all: tanan | tanán 
+and: ag | ʔag 
+animal: sāpat 
+ashes: abuh | ʔabúh 
+back: likud | likúd 
+bad: ɬāʔίn | ɣá:ʔin 
+bark: pānit 
+because: ay 
+belly: tiyan | tiyán 
+bird: pispis | manuk	píspis 
+bite: aŋkit | kitkit	ʔaŋkit 
+black: itum | ʔitúm 
+blood: duguʔ | dugu7	dugúʔ 
+blow: huyup | huyúp 
+bone: tuɬʔan | tu7an	túɣʔan 
+breast: sūsu | su:su.	susu 
+breathe: ginhāwa | ginhá:wa. 
+burn: sugaʔ | sú:nug 
+child: bātaʔ 
+cloud: paŋānud | paŋá:nud 
+cold: ɬamig | ɣamíg 
+come: mali | abut	ʔabút 
+correct: tāmaʔ 
+count: huyap | huyáp 
+cut: sīʔad | saksak	tagáʔ	tuktuk 
+die: matay | matay	matáy 
+dig: kutkut | kútkut 
+dirty: higkuʔ | hígkuʔ 
+dog: āyam | ayam	ʔá:yam 
+drink: inum | inum	ʔinúm 
+dry: ugah | maɣa. 
+dull: daŋaɬ | búgʔat | daŋáɣ 
+dust: tapuhtapuh | taputapúh 
+ear: duɬuŋgan | duxuNg~an	duɣúŋgan 
+earth: ɬugtaʔ 
+egg: itlug | onok	ʔítlug 
+empty: wa-t suɬud 
+eye: mata | mata	matá. 
+fall: hūɬug | hú:ɣog 
+far: ɬayuʔ | ɣayúʔ 
+father: amah | ʔanáh 
+fat (n.): tambuk 
+fear: hadluk | hádluk 
+few: saŋ-kuшt 
+fingernail: kukuh 
+fire: kaɬāyu- | kaxayu	kaɣá:yu. 
+fish: isdaʔ | isda7	ʔísdaʔ 
+five: limah | lima	limáh- 
+float: ɬutaw 
+flower: būɬak | bú:ɣak 
+flow: ilug | ʔí:lug 
+fly (v.): ɬupad 
+fog: ambun | ʔámbun 
+foot: siki- 
+forest: ka-kahūy-an | kaguɣá:ŋan 
+four: apʔat | qâpqat	âp?at	ʔapʔat 
+frog: pakaʔ 
+fruit: [prūtas] | bú:ŋah 
+full: punuʔ 
+give: ta?u- 
+good: mayad | mayád 
+grass: halimun-un | halimunún 
+green: [birdih] | berde 
+guts: t-in-āʔih | tiná:ʔih 
+hair: buhuk | buhúk 
+hand: alīma | alimah	ʔalí:mah 
+head: ūɬuh | ʔú:ɣuh 
+hear: bātiʔ | naka:batíʔ	nakabati7 
+heart: tagi-pusūʔ-un 
+heavy: bugʔat | búgʔat 
+he: imaw 
+hit: hampak | sámpuk 
+horn: sūŋay 
+how: maʔunuh | maʔú:nuh 
+hunt: paŋayam | paŋayám 
+husband: asāwa ŋa ɬaɬāki | ɣaɣá:kih	ʔasá:wa:ŋ 
+I: akuh | aku	ʔakú. 
+ice: [yēlo] 
+if: kuŋ | kun 
+in: sułud | suɣúd 
+kill: patay | patáy 
+knee: tūhud 
+know: sāyud | ka:sá:yud 
+lake: danaw | danáw 
+large: bahuɬ | bahúɣ 
+laugh: hibayag | hibayág 
+leaf: dāhun | dahun	dá:hun 
+left: waɬah | waéah	waɣáh 
+leg: siki- 
+lie: ɬubug | ɣubúg 
+live: buhiʔ | paŋa:bú:hiʔ 
+liver: atay | atay	ʔatáy 
+long: hābaʔ | há:baʔ 
+louse: kūtu | kutuh	kú:tuh 
+man: ɬaɬāki- | tawuh	tá:wuh 
+many: abuʔ 
+meat: unud | ʔunúd 
+moon: būɬan | bú:ɣan 
+mother: inah | ʔinah 
+mountain: būkid 
+mouth: baʔbaʔ | báʔbaʔ 
+name: ŋãɬan | Naxan	ŋá:ɣan 
+narrow: kitid | kitíd 
+near: ɬapit | ɣapít 
+neck: līʔug | lí:ʔug 
+new: bagʔuh | bag7~uh	bágʔuh 
+night: gabīʔih | gabi7ih	gabí:ʔih 
+nose: iluŋ | iluN	ʔilúŋ 
+old: ɬāgi 
+one: isaɬah | ?isága	isaxah	qisa áh	ʔisaɣáh 
+person: tāwuh | tawuh	tá:wuh 
+play: hampaŋ 
+pull: būtuŋ 
+push: dusuʔ 
+rain: uɬan | ʔuɣán 
+red: puɬah | puɣáh 
+right: tu?uh | alimah	ʔalí:mah | tuʔúh 
+river: subaʔ 
+road: [kalyih] | daxan	dá:ɣan 
+root: gamut | gamút 
+rope: kaɬat | pí:siʔ	ɣúbid 
+rotten: ɬunut | bulúk	ɣúbʔuk 
+round: libūnug 
+rub: pāhid 
+salt: asin | ʔasín 
+sand: baɬas | baɣás 
+say: hambaɬ | hámbaɣ | baɣás 
+sea: dāgat | dá:gat	ɣawúd 
+seed: līsu 
+sew: tahiʔ | tahíʔ 
+sharp: taɬum | taɣúm 
+short: tagʔud | putút	ʔisút 
+sing: [kantah] 
+sit: liŋkud | púŋkuʔ 
+skin: pānit | pa:nit	panit 
+sky: ɬāŋit | ɣá:ŋit 
+sleep: tūɬug | tu:ɣug 
+small: isut | saŋ:kiríʔ	ʔisút 
+smell: humut | humút 
+smoke: asuh | ʔasúh 
+smooth: dalīnuʔ 
+snake: sawah | sawáh 
+snow: [ison] 
+some: saŋ-kurut 
+spit: tupɬah | túpɣah 
+split: busʔak | búsʔak 
+stab: bunuʔ | bunúʔ 
+stand: tindug | tíndug 
+star: bitũʔun | bitu7un	bitú:ʔun 
+stick: [baston] | saŋáh 
+suck: supsup 
+sun: adlaw 
+tail: īkug | ʔí:kug 
+they: sandah | sándah 
+thick: dāmuɬ | dá:muɣ 
+think: īsip | hunáʔhunáʔ	ʔí:sip 
+thin: nipis | nipís 
+thou: ikaw | ikaw	ʔikáw 
+thou: kamu | ikaw	ʔikáw 
+three: tatluh | tatlúh	tátloh	tátlu 
+throw: habuy | habúy 
+tie: hīgut | higút [hígt:an] 
+tongue: dīlaʔ | dila7	dí:laʔ 
+tooth: ŋīpun | Nipun	ŋí:pun 
+tree: kāhuy 
+turn: baliskad 
+two: dayway | dawah	daywáh	dáywa	dáywah 
+vomit: sūkah | sú:kah 
+warm: īnit | ʔí:nit 
+wet: basaʔ | basáʔ 
+what: anuh | ʔanúh 
+when: kanʔuh | hinʔunúh	kánʔuh 
+which: alin 
+white: putiʔ | putíʔ 
+who: sinʔuh | sínʔuh 
+why: hamʔan 
+wide: ɬāpad | ɣá:pad	ɣá:wig 
+wife: asāwa ŋa babāyih | ʔasa:wa. 
+wind: hāŋin | há:ŋin 
+wing: pakpak | pákpak 
+woman: babāyih | ba:yih	babá:yih 
+worm: ɬaguh | ʔú:ɣud 
+wrong: sayup 
+year: dagʔun | dágʔun 
+yellow: duɬaw | duɣáw 
+every: tanán 
+ash: ʔabúh 
+abdomen: tiyán 
+big: bahúɣ 
+bigness: bahúɣ 
+breasts: su:su.	susu 
+burn tr.: sú:nug 
+come from: abut	ʔabút 
+be dead: matay	matáy 
+dead: matay	matáy 
+eat: ká:ʔun 
+feather: baɣahí:buh	bubul	búɣbuɣ 
+fly: ɣupád 
+fly v.: ɣupád 
+left hand: alimah	ʔalí:mah 
+1 sg.: aku	ʔakú. 
+be knowledgeable: ka:sá:yud 
+lie down: ɣubúg 
+head louse: kutuh	kú:tuh 
+male: ɣa:ki	ɣaɣá:ki 
+title: Naxan	ŋá:ɣan 
+nighttime: gabi7ih	gabí:ʔih 
+adulterous: ?isága	isaxah	qisa áh	ʔisaɣáh 
+single: ?isága	isaxah	qisa áh	ʔisaɣáh 
+that: datúh	dú:yun 
+the: ?isága	isaxah	qisa áh	ʔisaɣáh 
+unprincipled: ?isága	isaxah	qisa áh	ʔisaɣáh 
+human: tawuh	tá:wuh 
+human being: tawuh	tá:wuh 
+rainy weather: ʔuɣán 
+path: daxan	dá:ɣan 
+route: daxan	dá:ɣan 
+see: kita7	kí:taʔ 
+hide: pa:nit	panit 
+little: saŋ:kiríʔ	ʔisút 
+smallness: saŋ:kiríʔ	ʔisút 
+rock: batu 
+stone: batu 
+swim: ɣaŋúy 
+this: dá:yah	dú:naʔ 
+2 sg: ikaw	ʔikáw 
+you: ikaw	ʔikáw 
+grind: dawah	daywáh	dáywa	dáywah 
+go: pá:ńaw	takáŋ 
+walk: pá:ńaw	takáŋ 
+hot: ʔí:nit 
+water: tubi7	tú:biʔ 
+1 pl. inc.: kamíh	kitah	kitáh 
+we: kamíh	kitah	kitáh 
+we₁: kamíh	kitah	kitáh 
+whiteness: putíʔ 
+who?: sínʔuh 
+female: ba:yih	babá:yih 
+distant: ɣayúʔ 
+serious: búgʔat 
+close: ɣapít 
+ner: ɣapít 
+earthworm: ʔú:ɣud 
+2 pl.: kamú 
+ye: kamú 
+you all: kamú 
+3 pl.: sándah 
+where: siʔɪ́n 
+where?: siʔɪ́n 
+when?: hinʔunúh	kánʔuh 
+how?: maʔú:nuh 
+other: ɣaʔɪ́n	ʔíbáh 
+broad: ɣá:pad	ɣá:wig 
+wideness: ɣá:pad	ɣá:wig 
+fat: sí:buh	támbuk 
+principal wife: ʔasa:wa. 
+his mother: ʔinah 
+my mother: ʔinah 
+his father: ʔanáh 
+my father: ʔanáh 
+woods: kaguɣá:ŋan 
+branch: saŋáh 
+cord: pí:siʔ	ɣúbid 
+flesh: ʔunúd 
+grease: sí:buh	támbuk 
+gut: tiná:ʔih 
+insides: tiná:ʔih 
+intestine: tiná:ʔih 
+intestines: tiná:ʔih 
+breath: ginhá:wa. 
+laughter: hibayág 
+cogitate: hunáʔhunáʔ	ʔí:sip 
+reflect: hunáʔhunáʔ	ʔí:sip 
+sniff: humút 
+afraid: hádluk 
+be afraid: hádluk 
+fright: hádluk 
+alive: paŋa:bú:hiʔ 
+be alive: paŋa:bú:hiʔ 
+life: paŋa:bú:hiʔ 
+living: paŋa:bú:hiʔ 
+beat: sámpuk 
+strike: sámpuk 
+hack: saksak	tagáʔ	tuktuk 
+cut open: búsʔak 
+pierce: bunúʔ 
+scratch: ká:ɣut 
+drop: hú:ɣog 
+grasp: kúmkum 
+hold: kúmkum 
+hold in arm: kúmkum 
+squeeze: kú:mus	pú:gaʔ 
+wring: kú:mus	pú:gaʔ 
+bind: higút [hígt:an] 
+fasten: higút [hígt:an] 
+tie up: higút [hígt:an] 
+enumerate: huyáp 
+number: huyáp 
+tally: huyáp 
+ocean: dá:gat	ɣawúd 
+evil: ɣá:ʔin 
+rot: bulúk	ɣúbʔuk 
+filthy: hígkuʔ 
+soiled: hígkuʔ 
+blunt: daŋáɣ 
+damp: basáʔ 
+right side: tuʔúh 
+at: sa 
+inside: suɣúd 

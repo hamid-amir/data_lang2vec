@@ -1,0 +1,266 @@
+all: laŋun 
+every: laŋun 
+ash: umbi 
+ashes: umbi 
+abdomen: tian 
+belly: tian 
+big: malaʼ 
+bigness: malaʼ 
+large: malaʼ 
+bird: papanuk 
+bite: gkeg+keb 
+black: maitem 
+blood: rugu7	ruguʼ 
+bone: tulan 
+breast: susu 
+breasts: susu 
+burn: m+buntu 
+burn tr.: m+buntu 
+cloud: gabun 
+cold: mateŋgau 
+come: miaka+uma	miakauma	uma 
+come from: miaka+uma	miakauma	uma 
+be dead: miatai 
+dead: miatai 
+die: miatai 
+dog: asu 
+drink: inem	pag+inem 
+dry: gkerai 
+ear: taNila	taŋgila 
+eat: g+kan 
+egg: urak 
+eye: mata 
+feather: bumbul 
+fire: apui 
+fish: seda7	sedaʼ 
+fly: bpelayug 
+fly v.: bpelayug 
+good: mapia 
+green: gaduŋ 
+hair: buʼuk 
+hand: lima 
+left hand: lima 
+right: lima 
+head: ulu 
+hear: bpaki+neg	neg 
+1 sg.: aku	saken 
+I: aku	saken 
+kill: m+bunuʼ 
+be knowledgeable: peleŋ 
+know: peleŋ 
+leaf: raun 
+lie: bpag+igaʼ 
+lie down: bpag+igaʼ 
+liver: atai 
+long: mataʼas 
+head louse: kutu 
+louse: kutu 
+male: mama 
+man: tau 
+moon: ulan 
+mouth: ŋariʼ 
+name: Naran	ŋaran 
+title: Naran	ŋaran 
+neck: liʼig 
+new: bagu 
+night: magabi 
+nighttime: magabi 
+nose: NiruN	ŋiruŋ 
+adulterous: isa 
+one: isa 
+single: isa 
+that: giutu 
+the: isa 
+unprincipled: isa 
+human: tau 
+human being: tau 
+person: tau 
+rain: uran 
+rainy weather: uran 
+red: marigaʼ 
+path: lalan 
+road: lalan 
+route: lalan 
+root: waged 
+sand: pedtad 
+say: d+taruʼ 
+see: bpag+ilai	ilai 
+sit: bpag+untud 
+hide: upis 
+skin: upis 
+sleep: d+turug 
+little: maituʼ 
+small: maituʼ 
+smallness: maituʼ 
+smoke: bel 
+star: bitu7un	bituʼun 
+rock: watu 
+stone: watu 
+swim: laŋuy 
+tail: ikug 
+this: giaya 
+2 sg: ta 
+thou: ta 
+you: ta 
+tongue: dila7	dilaʼ 
+tooth: Nipen	ŋipen 
+grind: dua 
+two: dua 
+go: bpela+lakau 
+walk: bpela+lakau 
+hot: maiau 
+warm: maiau 
+water: aig 
+1 pl. inc.: sekami	sekita	sekitanu 
+we: sekami	sekita	sekitanu 
+we₁: sekami	sekita	sekitanu 
+what: antuna 
+white: maputiʼ 
+whiteness: maputiʼ 
+who: antawa 
+who?: antawa 
+female: babai 
+woman: babai 
+yellow: binaniŋ 
+distant: mauatan 
+far: mauatan 
+dull: mapened 
+heavy: mapened 
+serious: mapened 
+close: marani 
+near: marani 
+ner: marani 
+salt: timus 
+short: mababaʼ 
+snake: nipai 
+thin: manipis 
+wind: nduʼ 
+earthworm: luati 
+worm: luati 
+year: ragun 
+2 pl.: ka	seka	sekanu 
+ye: ka	seka	sekanu 
+you all: ka	seka	sekanu 
+3 pl.: sekiran 
+they: sekiran 
+where: anda 
+where?: anda 
+when: kanu 
+when?: kanu 
+how: manaia 
+how?: manaia 
+other: bidaʼ 
+three: telu 
+four: pat	paʼat 
+five: lima 
+broad: maulad 
+wide: maulad 
+wideness: maulad 
+fat: kalembuʼan 
+thick: makapal 
+narrow: magaget	masampit 
+principal wife: maŋababai 
+wife: maŋababai 
+husband: maŋamama 
+his mother: inaʼ 
+mother: inaʼ 
+my mother: inaʼ 
+father: amaʼ 
+his father: amaʼ 
+my father: amaʼ 
+forest: gautan 
+woods: gautan 
+branch: sapak 
+stick: sapak 
+fruit: uŋa 
+flower: sumpiŋ 
+grass: rumput 
+cord: tali 
+rope: tali 
+flesh: dagiŋ 
+meat: dagiŋ 
+grease: kalembuʼan 
+wing: papak 
+gut: tinaiʼ 
+guts: tinaiʼ 
+insides: tinaiʼ 
+intestine: tinaiʼ 
+intestines: tinaiʼ 
+back: likud 
+suck: d+sesep 
+spit: n++dudaʼ 
+vomit: utaʼ 
+blow: d++samber 
+breath: d+seŋau 
+breathe: d+seŋau 
+laugh: g++kalaʼ 
+laughter: g++kalaʼ 
+cogitate: b++pikir 
+reflect: b++pikir 
+think: b++pikir 
+smell: gka+bau 
+sniff: gka+bau 
+afraid: g++kalek 
+be afraid: g++kalek 
+fear: g++kalek 
+fright: g++kalek 
+alive: uiag-uiag 
+be alive: uiag-uiag 
+life: uiag-uiag 
+live: uiag-uiag 
+living: uiag-uiag 
+hunt: bpaganup 
+beat: m+betai 
+hit: m+betai 
+strike: m+betai 
+cut: b+pataʼ 
+hack: b+pataʼ 
+cut open: bpag+upak 
+split: bpag+upak 
+pierce: d+tebek 
+stab: d+tebek 
+scratch: g+kukut 
+dig: g+kalut 
+stand: d+tindeg 
+drop: nia+ulug 
+fall: nia+ulug 
+grasp: g+kapet 
+hold: g+kapet 
+hold in arm: g+kapet 
+squeeze: d+temek 
+wring: d+temek 
+throw: bpe+lebad 
+bind: bpag+iket 
+fasten: bpag+iket 
+tie: bpag+iket 
+tie up: bpag+iket 
+sew: bpamanaiʼ 
+count: m+bilaŋ 
+enumerate: m+bilaŋ 
+number: m+bilaŋ 
+tally: m+bilaŋ 
+flow: bpagundas 
+lake: danau 
+ocean: kaludan 
+sea: kaludan 
+dust: lubaba 
+fog: lekep 
+sky: laŋit 
+bad: marataʼ 
+evil: marataʼ 
+rot: miaduʼ 
+rotten: miaduʼ 
+dirty: sebuʼ 
+filthy: sebuʼ 
+soiled: sebuʼ 
+sharp: magaraŋ	matarem 
+blunt: tebpul 
+damp: mawasaʼ 
+wet: mawasaʼ 
+right side: kawanan 
+left: diwaŋ 
+at: sa 
+in: sa dalem 
+inside: sa dalem 
+and: agu 
+if: pun 

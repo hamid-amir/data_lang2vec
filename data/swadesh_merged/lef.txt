@@ -1,0 +1,293 @@
+all: ƒui 
+every: ƒui 
+ash: ntɔ 
+ashes: ntɔ 
+bark: akpa 
+abdomen: kaƒɔ 
+belly: kaƒɔ 
+big: u-bomo 
+bigness: u-bomo 
+large: u-bomo 
+bird: aasɛ 
+bite: ɔ-du 
+black: tonto 
+blood: uboZa	ubugya 
+bone: likubi	ukubi 
+breast: lɛnyi 
+breasts: lɛnyi 
+claw: lɛƒiɔ 
+nail: lɛƒiɔ 
+talon: lɛƒiɔ 
+cloud: liƒlukutu 
+cold: ɔ-yɔ 
+come: bubo	u-bo 
+come from: bubo	u-bo 
+be dead: bukpi	u-kpi 
+dead: bukpi	u-kpi 
+die: bukpi	u-kpi 
+dog: akpewe	oklama	wawa 
+drink: buni	ɔ-ni 
+dry: ɔ-kwi 
+ear: kotu	kɔtu 
+earth: kalɔ 
+ground: kalɔ 
+land: kalɔ 
+soil: kalɔ 
+eat: ɔ-di 
+egg: lɛvala 
+eye: lanimi	lɛnumi 
+fat: nnɔ 
+fat n.: nnɔ 
+grease: nnɔ 
+lubricant: nnɔ 
+oil: nnɔ 
+feather: lɛgya 
+fire: oZa	ogya 
+fish: kaba	kabɛ 
+fly: u-veyi 
+fly v.: u-veyi 
+foot: libuli 
+full: u-yi 
+give: u-te 
+good: ɔ-dia 
+green: evete awɔdi 
+hair: linwini 
+hand: konu	kɔnu 
+left hand: konu	kɔnu 
+right: konu	kɔnu 
+head: lili 
+hear: bunu	u-nu 
+heart: utu 
+horn: lise 
+1 sg.: ami 
+I: ami 
+kill: ɔ-du 
+knee: lakoNk~o	lɛkɔngɔ 
+be knowledgeable: ɔ-gyi	ɔ-ti 
+know: ɔ-gyi	ɔ-ti 
+leaf: livete 
+lie: ɔ-tɛ 
+lie down: ɔ-tɛ 
+liver: livo 
+long: gyɔlɔɔ 
+head louse: ngywe 
+louse: ngywe 
+male: ɔnana 
+man: ukyuli 
+many: pii 
+much: pii 
+multiple: pii 
+several: pii 
+flesh: ɔlɔna 
+meat: ɔlɔna 
+moon: kɔbuli 
+hill: kɔbi 
+mountain: kɔbi 
+mouth: kenye 
+name: lany~i	lɛnyi 
+title: lany~i	lɛnyi 
+neck: limɔ 
+new: ɔwɔdi 
+night: usei	usien 
+nighttime: usei	usien 
+nose: eNu	enwu 
+not: ta- 
+adulterous: unwi	únwí 
+one: unwi	únwí 
+single: unwi	únwí 
+that: ɔmmɔ 
+the: unwi	únwí 
+unprincipled: unwi	únwí 
+human: ukyuli 
+human being: ukyuli 
+person: ukyuli 
+rain: ɔnantu 
+rainy weather: ɔnantu 
+red: u-gyie 
+path: kufi	ulu 
+road: kufi	ulu 
+route: kufi	ulu 
+root: ligyitu 
+round: munu munu 
+say: ɔ-su 
+see: bonu	ɔ-nu 
+seed: kebi 
+sit: u-lie 
+hide: olona	ɔku 
+skin: olona	ɔku 
+sleep: ɔ-lɛɛ 
+little: blii 
+small: blii 
+smallness: blii 
+smoke: uyɔ 
+stand: u-nye 
+star: kɔyabi 
+rock: latabi	lɛtabi 
+stone: latabi	lɛtabi 
+sun: ofa	ɔƒɛ 
+swim: ɔ-kpi ketu 
+tail: ɔka 
+this: ɔmɛni 
+2 sg: awo	awɔ 
+thou: awo	awɔ 
+you: awo	awɔ 
+tongue: liny~ami	unyemi 
+tooth: lany~i	lɛnyi 
+tree: kuZi	kugyii 
+grind: iny~o	inyɔ	ínyɔ́ 
+two: iny~o	inyɔ	ínyɔ́ 
+go: u-sie 
+walk: u-sie 
+water: ntu	nt~u 
+1 pl. inc.: abu 
+we: abu 
+we₁: abu 
+what: bi 
+white: ɔ-ƒuala 
+whiteness: ɔ-ƒuala 
+who: ɔmani 
+who?: ɔmani 
+female: uleku 
+woman: uleku 
+distant: ɔgyu 
+far: ɔgyu 
+dull: u-bunu 
+heavy: u-bunu 
+serious: u-bunu 
+close: u-de 
+near: u-de 
+ner: u-de 
+salt: mma 
+short: klukui 
+snake: kɔlakpi 
+thin: ɔ-gyɛɛlɛɛ 
+wind: ɔƒɛƒɛɛ 
+earthworm: likubi 
+worm: likubi 
+year: lɛkwa 
+3 sg.: anwu 
+he: anwu 
+she: anwu 
+2 pl.: amii 
+ye: amii 
+you all: amii 
+3 pl.: ama 
+they: ama 
+here: mɛni 
+there: mmɔ 
+where: wɛ 
+where?: wɛ 
+when: uwi ɔmɛni 
+when?: uwi ɔmɛni 
+how: dɛ 
+how?: dɛ 
+few: ɛlɛɛ 
+other: ɔkladi 
+three: ɛtɛ	ὲtὲ 
+four: ine	íńέ 
+five: ɛlɔ	ɛlɔ́ 
+broad: ɔ-bɛbɛ 
+wide: ɔ-bɛbɛ 
+wideness: ɔ-bɛbɛ 
+thick: u-tigbli 
+narrow: gloglo 
+child: ubi 
+principal wife: ulekudi 
+wife: ulekudi 
+husband: ɔgyani 
+his mother: uni 
+mother: uni 
+my mother: uni 
+father: ɔti 
+his father: ɔti 
+my father: ɔti 
+fruit: ebi 
+flower: anwula 
+grass: livo 
+cord: kabuli 
+rope: kabuli 
+leg: ɔgba 
+wing: lɛvwi 
+gut: livuo 
+guts: livuo 
+insides: livuo 
+intestine: livuo 
+intestines: livuo 
+back: kama 
+suck: ɔ-nyimi 
+vomit: ɔ-dala 
+blow: u-ƒui 
+cogitate: ɔ-bu 
+reflect: ɔ-bu 
+think: ɔ-bu 
+smell: u-nu 
+sniff: u-nu 
+afraid: ɔ-yia 
+be afraid: ɔ-yia 
+fear: ɔ-yia 
+fright: ɔ-yia 
+alive: u-lie ngba 
+be alive: u-lie ngba 
+life: u-lie ngba 
+live: u-lie ngba 
+living: u-lie ngba 
+beat: u-ƒwɛmi 
+hit: u-ƒwɛmi 
+strike: u-ƒwɛmi 
+cut: u-kulo 
+hack: u-kulo 
+cut open: ɔ-buɛ 
+split: ɔ-buɛ 
+dig: u-ku 
+drop: ɔ-nu 
+fall: ɔ-nu 
+grasp: ɔ-da 
+hold: ɔ-da 
+hold in arm: ɔ-da 
+squeeze: u-susu 
+wring: u-susu 
+rub: u-susu 
+wipe: u-susu 
+wash: ɔ-ƒɔ 
+wash clothes: ɔ-ƒɔ 
+pull: ɔ-ni 
+push: u-di 
+shove: u-di 
+throw: ɔ-ƒwimi 
+bind: u-bo 
+fasten: u-bo 
+tie: u-bo 
+tie up: u-bo 
+sew: ɔ-ka 
+sing: ɔ-tu 
+flow: ɔ-gba 
+swell: u-ƒu 
+lake: lɛba 
+ocean: ɛpu 
+sea: ɛpu 
+dust: ɔtumu 
+sky: kayaa 
+ice: etubankɛ 
+blaze: ɔ-kywi 
+burn: ɔ-kywi 
+day: limeyi 
+daylight: limeyi 
+daytime: limeyi 
+old: ɔ-bi 
+bad: buɛ	u-biɛ 
+evil: buɛ	u-biɛ 
+rot: bu	u-bie 
+rotten: bu	u-bie 
+dirty: bonwu	u-leƒi 
+filthy: bonwu	u-leƒi 
+soiled: bonwu	u-leƒi 
+straight: ligee 
+sharp: yayaaya	ɔ-bi 
+blunt: titiliti 
+smooth: suɛlɛ suɛlɛ 
+damp: u-bulo 
+wet: u-bulo 
+right side: kɔdianu 
+left: kɔmii 
+with: ku 
+if: si 

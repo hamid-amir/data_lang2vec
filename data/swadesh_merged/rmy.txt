@@ -1,0 +1,334 @@
+all: sa 
+every: sa 
+ash: ushara 
+ashes: ushara 
+bark: korca 
+abdomen: per 
+belly: per 
+big: baro 
+bigness: baro 
+large: baro 
+bird: chiriklyi 
+bite: dindalel 
+black: kalo 
+blood: rat 
+bone: %kokalo	kokalo 
+breast: berk	chuchi 
+breasts: berk	chuchi 
+cloud: noro 
+cold: shudro 
+come: av	avel 
+come from: av	avel 
+be dead: mer	merel 
+dead: mer	merel 
+die: mer	merel 
+dog: jukel	rikon	zhukel 
+drink: pi	pijel 
+dry: shuko 
+ear: kan 
+earth: phuv 
+ground: phuv 
+land: phuv 
+soil: phuv 
+eat: xal 
+egg: anro 
+eye: jakh	yakh~ 
+feather: por 
+fire: jag	yag 
+fish: maSy~o	masho 
+fly: ural 
+fly v.: ural 
+foot: punro 
+full: pherdo	ph~erdo 
+give: del 
+good: lasho 
+green: zeleno 
+hair: bal 
+hand: vast 
+left hand: vast 
+right: vast 
+head: shero 
+hear: aSun	ashunel 
+heart: jilo 
+horn: SiN	shing 
+1 sg.: me 
+I: me 
+kill: mudarel 
+knee: CaN	chang	koC 
+be knowledgeable: zhanel 
+know: zhanel 
+leaf: patrin 
+liver: %buko kalo	buko 
+long: lungo 
+head louse: Zy~uv	zhuv 
+louse: Zy~uv	zhuv 
+male: mursh 
+man: manuS	manush 
+many: but 
+much: but 
+multiple: but 
+several: but 
+moon: shon 
+hill: plaj	playin 
+mountain: plaj	playin 
+mouth: muj 
+name: anav 
+title: anav 
+neck: korr 
+new: nevo	nyevo 
+night: ratyi	riat 
+nighttime: ratyi	riat 
+nose: nakh	nakh~ 
+not: na 
+adulterous: ekh~	jekh	yek	yekh	yekh~ 
+one: ekh~	jekh	yek	yekh	yekh~ 
+single: ekh~	jekh	yek	yekh	yekh~ 
+that: kodo 
+the: ekh~	jekh	yek	yekh	yekh~ 
+unprincipled: ekh~	jekh	yek	yekh	yekh~ 
+human: manuS	manush 
+human being: manuS	manush 
+person: manuS	manush 
+rain: brishind 
+rainy weather: brishind 
+red: lolo 
+path: %vurma	drom 
+road: %vurma	drom 
+route: %vurma	drom 
+root: rikita 
+round: oblo 
+sand: kishaj 
+say: phenel 
+see: dikhel	dikh~ 
+seed: sumburo 
+sit: beshel 
+hide: morchi	morci 
+skin: morchi	morci 
+sleep: sovel 
+little: cino 
+small: cino 
+smallness: cino 
+smoke: thuv 
+star: Cerh~ai	cherhaj 
+rock: baX	barr 
+stone: baX	barr 
+sun: kham	kh~am 
+swim: plemel 
+tail: pori 
+this: kado 
+2 sg: tu 
+thou: tu 
+you: tu 
+tongue: Sy~ib	shib 
+tooth: dand 
+tree: kaS	kasht	rukh~ 
+grind: dui	duj	duy 
+two: dui	duj	duy 
+go: phirel 
+walk: phirel 
+hot: tato 
+warm: tato 
+water: pai	paji 
+1 pl. inc.: ame 
+we: ame 
+we₁: ame 
+what: so 
+white: parno 
+whiteness: parno 
+who: kon 
+who?: kon 
+female: zhulyi 
+woman: zhulyi 
+yellow: galbeno 
+distant: dur 
+far: dur 
+dull: pharo 
+heavy: pharo 
+serious: pharo 
+close: pashe 
+near: pashe 
+ner: pashe 
+salt: lon 
+short: skurto 
+snake: sap 
+thin: sano 
+wind: balval 
+earthworm: kermo 
+worm: kermo 
+year: bersh 
+3 sg.: voj 
+he: voj 
+she: voj 
+2 pl.: tume 
+ye: tume 
+you all: tume 
+3 pl.: von 
+they: von 
+here: kathe 
+there: kothe 
+where: kaj 
+where?: kaj 
+when: kana 
+when?: kana 
+how: sar 
+how?: sar 
+some: unyi 
+few: cerra 
+other: kaver 
+three: trin 
+four: shtar	štar 
+five: panzh	panz’ 
+broad: bulyho 
+wide: bulyho 
+wideness: bulyho 
+fat: thulo 
+thick: thulo 
+narrow: tang 
+child: shavoro 
+principal wife: romnyi 
+wife: romnyi 
+husband: rom 
+his mother: dej 
+mother: dej 
+my mother: dej 
+father: dad 
+his father: dad 
+my father: dad 
+animal: pedo 
+forest: vesh 
+woods: vesh 
+branch: kopal 
+stick: kopal 
+fruit: frukto 
+flower: luludyi 
+grass: char 
+cord: shelo 
+rope: shelo 
+flesh: mas 
+meat: mas 
+grease: thulo 
+claw: vundya 
+fingernail: vundya 
+nail: vundya 
+leg: fujeri 
+arm: vast 
+wing: phak 
+gut: porra 
+guts: porra 
+insides: porra 
+intestine: porra 
+intestines: porra 
+back: dumo 
+suck: chuchi pel 
+spit: shungardel 
+vomit: shandel 
+blow: phurdel 
+breath: shanshel 
+breathe: shanshel 
+laugh: assal 
+laughter: assal 
+cogitate: gindil 
+reflect: gindil 
+think: gindil 
+smell: sungal 
+sniff: sungal 
+afraid: daral 
+be afraid: daral 
+fear: daral 
+fright: daral 
+alive: zhuvel 
+be alive: zhuvel 
+life: zhuvel 
+live: zhuvel 
+living: zhuvel 
+fight: marel 
+hunt: mudarel 
+beat: chalavel 
+hit: chalavel 
+strike: chalavel 
+cut: shinel 
+hack: shinel 
+cut open: pharravel 
+split: pharravel 
+pierce: pusavel 
+stab: pusavel 
+scratch: xarundel 
+dig: hunavel 
+lie: pashlyol 
+lie down: pashlyol 
+tell lies: pashlyol 
+stand: tordyol 
+turn: boldel 
+turn around: boldel 
+turn round: boldel 
+drop: perel 
+fall: perel 
+grasp: xutyilel 
+hold: xutyilel 
+hold in arm: xutyilel 
+squeeze: kikidel 
+wring: kikidel 
+rub: morel 
+wipe: khosel 
+wash: thovel 
+wash clothes: thovel 
+pull: cirdel 
+push: pizdel 
+shove: pizdel 
+throw: shudel 
+bind: phandel 
+fasten: phandel 
+tie: phandel 
+tie up: phandel 
+sew: suvel 
+count: ginavel 
+enumerate: ginavel 
+number: ginavel 
+tally: ginavel 
+sing: gilyabel 
+have fun: khelel 
+play: khelel 
+float: urnel 
+flow: shordyol 
+freeze: pahosajvel 
+swell: shulyol 
+brook: len 
+river: len 
+stream: len 
+lake: baro paji 
+ocean: baro paji	marja 
+sea: baro paji	marja 
+dust: praho 
+fog: muglya 
+sky: cheri 
+snow: jiv 
+ice: paho 
+blaze: phabol 
+burn: phabol 
+day: dyes 
+daylight: dyes 
+daytime: dyes 
+old: phurano 
+bad: nasul 
+evil: nasul 
+rot: kerno 
+rotten: kerno 
+dirty: melalo 
+filthy: melalo 
+soiled: melalo 
+straight: vorta 
+sharp: kucime 
+blunt: bikucime 
+smooth: samtalo 
+damp: kindyilo 
+wet: kindyilo 
+correct: uchito 
+right side: chacho 
+left: stungo 
+at: kaj 
+in: ando 
+inside: ando 
+with: -ca 
+and: thaj 
+if: te 
+because: ke 

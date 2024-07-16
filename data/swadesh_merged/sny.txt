@@ -1,0 +1,349 @@
+all: wore siya\i | worɛ siyaʔi 
+all: worɛ siyaʔi 
+arm: ereti 
+arm: ɛrɛti 
+arrow: ene 
+ashes: yehe-kere | yɛhɛkɛrɛ	yɛsi 
+ashes: yɛhɛkɛrɛ | yɛhɛkɛrɛ	yɛsi 
+ashes: ye-si | yɛhɛkɛrɛ	yɛsi 
+ashes: yɛsi | yɛhɛkɛrɛ	yɛsi 
+back: mɛʔivɪni 
+back: me\iyini 
+bark: me napi 
+bark: me-tahe | me napi 
+belly: lire | lirɛ	rirɛ 
+belly: lirɛ | lirɛ	rirɛ 
+belly: rire | lirɛ	rirɛ 
+belly: rirɛ | lirɛ	rirɛ 
+big: (a)rasi | harɛ	rasi 
+big: harɛ | harɛ	rasi 
+big: rasi | harɛ	rasi 
+bird: ini | ini	iruwɛ 
+bird: irowe | ini	iruwɛ 
+bird: iruwe | ini	iruwɛ 
+bird: iruwɛ | ini	iruwɛ 
+bite: awa 
+black: ißisiaʔi | iβisiaʔi	wapowaʔi 
+black: ivisi-a\i | iβisiaʔi	wapowaʔi 
+black: iwisia\i | iβisiaʔi	wapowaʔi 
+black: wapowaʔi | iβisiaʔi	wapowaʔi 
+blood: fisa\i | fisaʔi	pisa7i 
+blood: fisaʔi | fisaʔi	pisa7i 
+bone: pa\are | pa7arE	paʔarɛ 
+bone: paʔarɛ | pa7arE	paʔarɛ 
+boy: emane 
+boy: emanɛ 
+breast: mo\u | mo7u	moʔu 
+breast: moʔu | mo7u	moʔu 
+brother: ayru 
+burn: yehe etiniyei 
+burn: yɛhɛ ɛtiniyei 
+butterfly: maimai 
+cassowary: iruwaru 
+chin: ahita\o 
+chin: ahitaʔo 
+claw: yaruwapi 
+cloud: aitu | aitu	saɸu 
+cloud: safu | aitu	saɸu 
+cloud: saφu | aitu	saɸu 
+cold: naratay-a\i | naratayaʔi	narɛte 
+cold: naratayaʔi | naratayaʔi	narɛte 
+cold: narete | naratayaʔi	narɛte 
+cold: narɛte | naratayaʔi	narɛte 
+come: aiyiyei | abo	aiyiyei	syʊʌ 
+come: ayva | abo	aiyiyei	syʊʌ 
+come: syʊʌ | abo	aiyiyei	syʊʌ 
+crocodile: hare ma\aru 
+crocodile: harɛ mʌʔʌru 
+die: temeniyeye | tɛmɛniyeye 
+die: tɛmɛniyeye 
+dog: metahɛ | metahɛ	yo 
+dog: yo | metahɛ	yo 
+dog: yo(u) | metahɛ	yo 
+drink: sa\i aiyei | saʔi aiyei 
+drink: saʔi aiyei 
+dry: foro\o | foroʔo 
+dry: foroʔo 
+ear: apahe | apahE	apahɛ	apaniyɛ 
+ear: apahɛ | apahE	apahɛ	apaniyɛ 
+ear: apaniye | apahE	apahɛ	apaniyɛ 
+ear: apaniyɛ | apahE	apahɛ	apaniyɛ 
+earth: peperi | pɛpɛri 
+earth: pɛpɛri 
+eat: aiyei | aiyei	asiyʌ 
+eat: asiyʌ | aiyei	asiyʌ 
+eat: asiya | aiyei	asiyʌ 
+egg: hote | hotɛ	irowe towe 
+egg: hotɛ | hotɛ	irowe towe 
+egg: irowe towe | hotɛ	irowe towe 
+emu: ʔiruwʌru 
+eye: nihe | nihE	nihɛ 
+eye: nihɛ | nihE	nihɛ 
+father: ayte 
+father: aytɛ 
+fat (n.): piyo\u 
+fat (n.): piyoʔu 
+feather: irowɛ 
+feather: irowe towe | irowɛ 
+finger: ereti naye\ 
+finger: ʔɛrɛti nayɛʔ 
+fire: yehe | yEhE	yɛhɛ 
+fire: yɛhɛ | yEhE	yɛhɛ 
+fish: hare | harE	harɛ	hote 
+fish: harɛ | harE	harɛ	hote 
+fish: hote | harE	harɛ	hote 
+five: ereti-feni 
+five: ʔerɛtiφɛni 
+fly (v.): sinitiyei 
+forehead: mapine 
+forehead: mapinɛ 
+four: hesio-hesio 
+four: hɛsiohɛsio 
+full: ahitɛmɛrɛʔɛ 
+full: ahitemere\i | ahitɛmɛrɛʔɛ 
+girl: tawn-emane 
+girl: tawnemanɛ 
+give: awe | awe	awei 
+give: awei | awe	awei 
+give: dwei | awe	awei 
+good: osowaʔi 
+good: wiseria\i | osowaʔi 
+green: kokowaʔi 
+green: kokowo\i | kokowaʔi 
+hair: mato towe | mato towe	tutowe 
+hair: to-towe | mato towe	tutowe 
+hair: tutowe | mato towe	tutowe 
+hand: ereti | ErEti	ʔɛrɛti 
+hand: ʔɛrɛti | ErEti	ʔɛrɛti 
+head: mato | mato	tu 
+head: tu | mato	tu 
+heart: marepi | maripi	marɛpi 
+heart: marɛpi | maripi	marɛpi 
+heart: maripi | maripi	marɛpi 
+hear: wanuwi 
+heavy: orasi-a\i | orasiaʔi 
+heavy: orasiaʔi 
+house: wasi 
+house: wʌsi 
+I: ane | ane	anɛ 
+I: a-ne | ane	anɛ 
+I: anɛ | ane	anɛ 
+kill: aine tera\iyei | ainɛ tɛraʔiyei 
+kill: ainɛ tɛraʔiyei 
+knee: lowe uporo | lowe uporo	roʌʔupʌro 
+knee: roa-\uparo | lowe uporo	roʌʔupʌro 
+knee: roʌʔupʌro | lowe uporo	roʌʔupʌro 
+knee: rowe \uporo | lowe uporo	roʌʔupʌro 
+know: so\oru | soʔoru 
+know: soʔoru 
+leaf: ma-towe | me towe	motowE	mʌtowɛ	towe 
+leaf: (me) towe | me towe	motowE	mʌtowɛ	towe 
+leaf: mʌtowɛ | me towe	motowE	mʌtowɛ	towe 
+leg: lowe 
+leg: rowe 
+leg: rowɛ 
+lie: howeyei 
+lie: howiye | howeyei 
+liver: waße | wabe	wawe	waβe 
+liver: wave | wabe	wawe	waβe 
+liver: wawe | wabe	wawe	waβe 
+long: pitase | pitase	wisɛriaʔi 
+long: pïteya\i | pitase	wisɛriaʔi 
+long: wisɛriaʔi | pitase	wisɛriaʔi 
+louse: neme | nEmE 
+louse: nɛmɛ | nEmE 
+man: meni | mɛni 
+man: mɛni 
+man: mitaru | mɛni 
+many: tomu arasi 
+meat: (fe)ro\u 
+meat: feroʔu 
+meat: roʔu 
+moon: yame | yamɛ	yamɛʔ 
+moon: yame\ | yamɛ	yamɛʔ 
+moon: yamɛ | yamɛ	yamɛʔ 
+moon: yamɛʔ | yamɛ	yamɛʔ 
+mosquito: ne\i 
+mosquito: nɛʔi 
+mother: may 
+mountain: omo 
+mouth: ahi 
+name: yape | yapE	yapɛ 
+name: yapɛ | yapE	yapɛ 
+nape: wano\o 
+nape: wʌnoʔo 
+neck: pere\i | pɛrɛʔi 
+neck: pɛrɛʔi 
+new: he\iya\i | hɛʔiyaʔi 
+new: hɛʔiyaʔi 
+night: pasi 
+nose: ereme | ErEmE	ɛrɛmɛ 
+not: piyete | -taʔama 
+not: piyɛte | -taʔama 
+not: -taʔama 
+not: ta\ama | -taʔama 
+one: (he)ta\i | hEta7i	hɛtaʔi	hɛta’i	taʔi 
+one: hɛtaʔi | hEta7i	hɛtaʔi	hɛta’i	taʔi 
+one: taʔi | hEta7i	hɛtaʔi	hɛta’i	taʔi 
+person: meni | mɛni 
+person: mɛni 
+rain: sa\i utie | saʔi utie	saʔutowa 
+rain: saʔi utie | saʔi utie	saʔutowa 
+rain: sa\utowa | saʔi utie	saʔutowa 
+rain: saʔutowa | saʔi utie	saʔutowa 
+red: piteyaʔi | piteyaʔi	roʔuaʔi 
+red: roʔuaʔi | piteyaʔi	roʔuaʔi 
+red: ro\u(w)-a\i | piteyaʔi	roʔuaʔi 
+road: yo | yo may 
+road: yo may 
+road: yo (may) | yo may 
+root: me | me	menapi 
+root: menapi | me	menapi 
+root: me-napi | me	menapi 
+round: yosiyei 
+sand: eneri | tɛrɛrɛ	ʔɛnɛri 
+sand: ʔɛnɛri | tɛrɛrɛ	ʔɛnɛri 
+sand: terere | tɛrɛrɛ	ʔɛnɛri 
+sand: tɛrɛrɛ | tɛrɛrɛ	ʔɛnɛri 
+say: perite\iye | tɛrɛrɛ	ʔɛnɛri 
+say: pɛritɛʔiye | tɛrɛrɛ	ʔɛnɛri 
+seed: meso 
+see: siyɛsiyʌ | siyEsiyo	siyeyei	siyɛsiyʌ 
+see: siyesiya | siyEsiyo	siyeyei	siyɛsiyʌ 
+see: siyeyei | siyEsiyo	siyeyei	siyɛsiyʌ 
+short: te\i-a\i | tɛʔiaʔi 
+short: tɛʔiaʔi 
+shoulder: yo\o 
+shoulder: yoʔo 
+sister: ine 
+sit: anue | onuwɛ	ʔʌnue 
+sit: ʔʌnue | onuwɛ	ʔʌnue 
+sit: onuwe | onuwɛ	ʔʌnue 
+sit: onuwɛ | onuwɛ	ʔʌnue 
+skin: tahe | tahE	tahɛ 
+skin: tahɛ | tahE	tahɛ 
+sleep: howeye | howeyɛ 
+sleep: howeyɛ 
+small: arasi | arasi	ʔʌswaʔi 
+small: aswa\i | arasi	ʔʌswaʔi 
+small: osowa\i | arasi	ʔʌswaʔi 
+small: ʔʌswaʔi | arasi	ʔʌswaʔi 
+smoke: sapu | sapu	yɛhitʌmu 
+smoke: yehi-tamu | sapu	yɛhitʌmu 
+smoke: yɛhitʌmu | sapu	yɛhitʌmu 
+snake: haru 
+stand: teye 
+stand: teyei 
+stand: teye(i) 
+star: irimi | irimi	sariyipu	sariyɪpu 
+star: sariyipu | irimi	sariyipu	sariyɪpu 
+star: sariyɪpu | irimi	sariyipu	sariyɪpu 
+stone: tapiye | tapiyE	tapiyɛ 
+stone: tapiyɛ | tapiyE	tapiyɛ 
+sun: poɔyʊɛ | pooybE	poweyɛ	poɔyʊɛ 
+sun: pooyve | pooybE	poweyɛ	poɔyʊɛ 
+sun: poweye | pooybE	poweyɛ	poɔyʊɛ 
+sun: poweyɛ | pooybE	poweyɛ	poɔyʊɛ 
+swim: sa\i feiyei | saʔi feiyei 
+swim: saʔi feiyei 
+tail: ini | ini	you 
+tail: you | ini	you 
+that: apo 
+this: ape | apɛ 
+this: apɛ 
+thou: ne | ne	nɛ 
+thou: nɛ | ne	nɛ 
+three: hesi heta 
+three: hɛsi heta 
+tongue: sorowe | sorowɛ	soruwE	soruwɛ 
+tongue: sorowɛ | sorowɛ	soruwE	soruwɛ 
+tongue: soruwe | sorowɛ	soruwE	soruwɛ 
+tongue: soruwɛ | sorowɛ	soruwE	soruwɛ 
+tooth: pi 
+tree: me 
+tree: mɛ | me 
+two: hesi | hEsi	hɛsi 
+two: hɛsi | hEsi	hɛsi 
+walk: iye | uweyei	ʔiye 
+walk: ʔiye | uweyei	ʔiye 
+walk: uweyei | uweyei	ʔiye 
+wallaby: aviye \erevi 
+wallaby: ʔaviyɛ ʔɛrɛvi 
+warm: umeri(y)a\i 
+warm: umeriyaʔi 
+water: sa\i | sa7i	saʔi 
+water: saʔi | sa7i	saʔi 
+we (incl.): nomo 
+we: namo | nomo 
+we: nʌmo | nomo 
+what: piyine | piyɪne 
+what: piyɪne 
+white: roʔuwaʔi | roʔuwaʔi	wapoaʔi 
+white: wapo(-a\i) | roʔuwaʔi	wapoaʔi 
+white: wapoaʔi | roʔuwaʔi	wapoaʔi 
+who: nəbɪrai 
+who: nïbirai | nəbɪrai 
+wind: fiaru | ɸiaru 
+wind: φiaru | ɸiaru 
+wing: haypi 
+woman: taune | taunɛ	tawnɛ 
+woman: taunɛ | taunɛ	tawnɛ 
+woman: tawne | taunɛ	tawnɛ 
+woman: tawnɛ | taunɛ	tawnɛ 
+yellow: warime-a\i | warimeaʔi	warimeyaʔi 
+yellow: warimeaʔi | warimeaʔi	warimeyaʔi 
+yellow: warimeyaʔi | warimeaʔi	warimeyaʔi 
+yes: yaw 
+every: worɛ siyaʔi 
+ash: yɛhɛkɛrɛ	yɛsi 
+abdomen: lirɛ	rirɛ 
+bigness: harɛ	rasi 
+large: harɛ	rasi 
+breasts: mo7u	moʔu 
+nail: yaruwapi 
+talon: yaruwapi 
+come from: abo	aiyiyei	syʊʌ 
+be dead: tɛmɛniyeye 
+dead: tɛmɛniyeye 
+ground: pɛpɛri 
+land: pɛpɛri 
+soil: pɛpɛri 
+fly: sinitiyei 
+fly v.: sinitiyei 
+left hand: ErEti	ʔɛrɛti 
+right: ErEti	ʔɛrɛti 
+1 sg.: ane	anɛ 
+be knowledgeable: soʔoru 
+lie down: howeyei 
+head louse: nEmE 
+male: mitaru	mɛni 
+much: tomu arasi 
+multiple: tomu arasi 
+several: tomu arasi 
+hill: omo 
+title: yapE	yapɛ 
+nighttime: pasi 
+adulterous: hEta7i	hɛtaʔi	hɛta’i	taʔi 
+single: hEta7i	hɛtaʔi	hɛta’i	taʔi 
+the: hEta7i	hɛtaʔi	hɛta’i	taʔi 
+unprincipled: hEta7i	hɛtaʔi	hɛta’i	taʔi 
+human: mɛni 
+human being: mɛni 
+rainy weather: saʔi utie	saʔutowa 
+path: yo may 
+route: yo may 
+hide: tahE	tahɛ 
+little: arasi	ʔʌswaʔi 
+smallness: arasi	ʔʌswaʔi 
+rock: tapiyE	tapiyɛ 
+2 sg: ne	nɛ 
+you: ne	nɛ 
+grind: hEsi	hɛsi 
+go: uweyei	ʔiye 
+1 pl. inc.: nomo 
+we₁: nomo 
+whiteness: roʔuwaʔi	wapoaʔi 
+who?: nəbɪrai 
+female: taunɛ	tawnɛ 
+dull: orasiaʔi 
+serious: orasiaʔi 

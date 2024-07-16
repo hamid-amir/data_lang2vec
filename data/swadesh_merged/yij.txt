@@ -1,0 +1,443 @@
+all: ɟulu | culu 
+and: muntu 
+animal: muḷa | muḷa	piru- 
+animal: piru- | muḷa	piru- 
+ankle: n̪uːɹ̣ka 
+arm: ɟiḷi 
+ashes: ɟinta | yiwa	yiwaṭa	ŋari 
+ashes: ŋari | yiwa	yiwaṭa	ŋari 
+ashes: yiwaṭa | yiwa	yiwaṭa	ŋari 
+back: kuθ̞i muru 
+back: muru 
+bad: waɟi | waci 
+bark: maḷu- | maḷu-	paṇŋa 
+bark: paṇŋa | maḷu-	paṇŋa 
+belly: ŋaḷu | ŋaḷu 
+big: waɟikaṭa | ciḷa.ra	wacikaṭa 
+bird: ŋaṇkaɲuŋu | paɹparɲuŋu	paṭuwaḷaa	ŋaṇkaɲuŋu 
+bird: paɹ̣parɲuŋu | paɹparɲuŋu	paṭuwaḷaa	ŋaṇkaɲuŋu 
+bird: paṭuwaḷaː | paɹparɲuŋu	paṭuwaḷaa	ŋaṇkaɲuŋu 
+bite: muɲɟu- | paa- 
+bite: paː- | paa- 
+bitter: kari 
+black: waru 
+blood: maṭa | mada	maṭa 
+bone: kuθ̞i | guLi	kuð̞i 
+branch: miː | mii	miyi 
+breast: piwi | biwi	piwi 
+breathe: ŋayiɲ | ŋayiɲkari- 
+breathe: ŋayiɲkari- 
+brother: kaya 
+brother: maraː 
+burn: kampa- 
+burn: parwa- | kampa- 
+butterfly: kawaḷiwaḷi 
+cheek: kaṭaː 
+chest: puṭuŋu 
+child: maŋkuḷa | maŋkuḷa 
+chin: ŋaṇŋaṇ 
+claw: mitɟu | mitcu | micu	yirka 
+claw: ŋaɹ̣ura- | mitcu | micu	yirka 
+cloud: kaṇṭaɹ̣a | kaṇṭaɹa 
+cold: muθ̞umuθ̞u | muð̞u	muð̞u-muð̞u	muð̞umuð̞u 
+come: kanaŋkari- | ganaNgari	kanaŋkari-	warbagu 
+correct: maɹ̣kura | maɹkura	t̪uruṭ 
+cut: kaṭaː- | mau-	wiṇṭa- 
+cut: mau- | mau-	wiṇṭa- 
+cut: t̪ani- | mau-	wiṇṭa- 
+cut: wiṇṭa- | mau-	wiṇṭa- 
+dark: waru 
+dark: waruɹ̣u 
+daughter: kuṇṭat 
+day: yura 
+die: kuru- | 5undiwarni	ɲuṇṭiwaṇi- 
+die: ɲuṇṭi | 5undiwarni	ɲuṇṭiwaṇi- 
+die: ɲuṇṭiwaṇi- | 5undiwarni	ɲuṇṭiwaṇi- 
+dig: yura- 
+dirty: waru 
+dog: waɲɟa | wa5dy~a	waɲca	yuuru 
+dog: yuːru | wa5dy~a	waɲca	yuuru 
+drink: miɟa- | mica-	midy~agu 
+dry: piyu 
+dust: ɟuṭuː | cuṭuu 
+ear: kuɹ̣ka | gurga	kuɹka 
+earth: ŋura | n̪aṇu	t̪uŋka 
+earth: t̪uŋka | n̪aṇu	t̪uŋka 
+eat: ŋaɲɟa- | ŋa.rku-	ŋarku-	ŋaɲca- 
+eat: ŋarku- | ŋa.rku-	ŋarku-	ŋaɲca- 
+egg: ɟimpu | cimpu	micaɹa 
+egg: miɟaɹ̣a | cimpu	micaɹa 
+egg: pirapira | cimpu	micaɹa 
+elbow: waṇkuḷa 
+emu: ɟaṇkuṇa 
+eye: ɲanti | th~ula	t̪uḷa	t̪uḷ̣a 
+eye: ɲariman̪t̪u | th~ula	t̪uḷa	t̪uḷ̣a 
+eye: t̪uḷa | th~ula	t̪uḷa	t̪uḷ̣a 
+face: kumpa 
+face: puḷu- 
+fall: puŋka- 
+father: mama | mama	maṇṭi- 
+father: maṇṭi- | mama	maṇṭi- 
+fat (n.): ɟinɟi 
+fat (n.): wiḷukuɹ̣u 
+fear: waː | waa 
+fear: waːri- | waa 
+feather: paṭu | paṭu 
+few: kuɟa | kuca 
+fight: paya 
+finger: maɹ̣ara 
+fingernail: yirka | micu	yirka 
+finger: ŋaŋkaːɲu 
+fire: ɟiːri t̪ama 
+fire: t̪ama 
+fire: yuraɟi | t̪ama 
+fish: kawi | gawi	kawi	maʎun	miʎinkuɹa 
+float: puyaːɹ̣pa- | puyaaɹpa-	wila- 
+float: wila- | puyaaɹpa-	wila- 
+flower: ɟuṭu | cuṭu 
+fly (n.): waruṇparuṇ 
+foot: ɟina | cina 
+foot: maṭu ɟina | cina 
+foot: waḷa | cina 
+forehead: yiṇṭi 
+four: kuθ̞ara kuθ̞ara | kuyharra kuyharra	kuð̞ara kuð̞ara 
+fruit: puḷaːla | puḷaala	t̪uwa.ṭa 
+full: wiɲa 
+give: yuŋku- | yu.ŋku-	yuŋku- 
+good: miṭawaɟi | maɹku.ra	miṭawaci	wapa 
+grass: warapa 
+green: pit̪u 
+guts: ɟuḷiɲ | cuḷiɲ 
+hair: ɲaɟu | miɲca	yuruṇ 
+hair: miɲɟa | miɲca	yuruṇ 
+hair: wauṭa | miɲca	yuruṇ 
+hair: yuruṇ | miɲca	yuruṇ 
+hand: maɹ̣a | maa	maɹa 
+hand: maṭu maɹ̣a | maa	maɹa 
+head: puθ̞a | cuu-	puð̞a 
+head: ɟuː- | cuu-	puð̞a 
+heart: pulaṭa | pula.ṭa	pulaṭa 
+hear: waɲaːri- | wa5ari	waɲaa.ri-	waɲaari- 
+hear: waɲaːriɲɟari- | wa5ari	waɲaa.ri-	waɲaari- 
+heavy: ŋuŋkumaṇṭa | ŋuŋku-maṇṭa 
+here: n̪ula 
+he/she: n̪aː 
+he/she: ŋun̪u 
+he/she: wala 
+hit: ŋara- | waṇpi-	ŋara- 
+hit: wanpi- | waṇpi-	ŋara- 
+hold: manku- 
+hole: muɟi 
+horn: paṇaŋari | paṇaŋari 
+house: maya 
+how: wan̪t̪aṇi ŋara | wan̪t̪aṇi ŋara 
+hunt: wiyanu 
+husband: n̪anti | n̪anti	n̪uwa 
+I: ŋaːṇṭu | Nali	ŋa.yi	ŋayi 
+I: ŋayi | Nali	ŋa.yi	ŋayi 
+I: ŋayu | Nali	ŋa.yi	ŋayi 
+kangaroo: patɟari 
+kill: ɲuṇṭima- | n̪uṇṭi-ma-	ɲuṇṭima- 
+knee: maṇpur | manbur	maṇpur 
+know: mi- 
+lake: yinta 
+laugh: t̪uṇi- | t̪uṇi- 
+leaf: para | bara	bidith~a	para	wat̪aṇ 
+leaf: wat̪aṇ | bara	bidith~a	para	wat̪aṇ 
+left: ɟampu | campu	campu.ra 
+leg: wiṭa 
+lie: ŋari- | wala waŋka-	waḷa-waŋka- 
+lightning: kanaɟi 
+lightning: waḷiwiṭi 
+lip: waḷi 
+liver: ŋamari | Namari	ŋama.ɹi	ŋamari 
+long: wanara | wana.ra	wanara 
+louse: kulu 
+man: piɹ̣iri | ŋaa.ṭa	ŋaaṭa 
+man: waṇṭiaḷaː | ŋaa.ṭa	ŋaaṭa 
+many: maɹ̣u | maɹu 
+meat: muḷa | muḷa	piru- 
+meat: piru- | muḷa	piru- 
+moon: wilara | wila.ra	wilara 
+morning: kanalili 
+morning: waruwarulamu 
+morning: yura 
+mosquito: kumiṇ 
+mother: ŋanka | ŋanka	ŋaŋka 
+mountain: maṇṭa | manda	maṇṭa 
+mountain: paɹ̣ku | manda	maṇṭa 
+mouth: t̪aː | t̪aa	t̪aɹa 
+name: yini 
+nape: n̪anka 
+narrow: kupiɟa | kupica	kutpaṇ	kuṭpaṇ 
+narrow: kutpaṇ | kupica	kutpaṇ	kuṭpaṇ 
+navel: ɲiḷun 
+neck: ŋaɟi | ŋaci 
+new: yiyaŋu | yiya-ŋu	yiyaNu	yiyaŋu 
+night: waru 
+night: waruːraː 
+not: miṭa | miṭa	yuḷu 
+not: yuḷu | miṭa	yuḷu 
+old: kuṭampaː 
+old: ɟuɟu 
+one: kuɲɟi- | gu5dy~iri	kunytyirri	kuɲci-	kuɲci.ri 
+person: ŋaːṭa | ŋaa.ṭa	ŋaaṭa 
+play: wiriwaṇi- | wiri-mari-	wiri-waṇi- 
+pull: puri- 
+push: t̪uθ̞u- 
+rain: yuntu | yuntu	yuŋu 
+rain: yuntu yinti- | yuntu	yuŋu 
+red: maṭamaṭa | maṭa-maṭa	maṭamaṭa 
+right: maːṭa | maa	maɹa | maa.ṭa	maaṭa 
+ripe: kampaːyi 
+river: karu- | karu-	wuntu 
+river: wuntu | karu-	wuntu 
+river: yiɟiṭi | karu-	wuntu 
+road: maṭi | madiya	yidiya 
+road: wiṭaɲ | madiya	yidiya 
+road: yiṭiya | madiya	yidiya 
+root: ŋat̪a- | mat̪a.ka	ŋat̪a- 
+rope: miriɟi | mirici 
+rotten: puwa | puwa	puwaḷu 
+rotten: puwaḷu | puwa	puwaḷu 
+rub: pa̪ama- | pat̪a.ma-	pat̪ama- 
+salt: kari | kari	kaɹi	waŋkuru 
+salt: waŋkuru | kari	kaɹi	waŋkuru 
+sand: t̪uŋka | piṇṭi.ɹi	t̪uŋka 
+say: waŋka- | piṇṭi.ɹi	t̪uŋka 
+scratch: yirwa- | yirwa-	ŋaɹura- 
+scratch: yurwi- | yirwa-	ŋaɹura- 
+sea: t̪aṇaṭi 
+see: n̪au- | n̪a.wu-	n̪au- 
+sharp: yumpu | yiɹi	yumpu 
+short: kuta 
+shoulder: wiɹ̣kaː 
+sing: yiraːma- | yiraama- 
+sister: t̪uṭu 
+sit: paṇi- | paṇi- 
+skin: kawuṇ | gawun	kawuṇ 
+sky: ŋaṇka | paɹpar	ŋaṇka 
+sky: paɹ̣par | paɹpar	ŋaṇka 
+sleep: maṭu | maṭu 
+small: kupiɟa | kupi.ca	kupica 
+smell: paṇṭi- | paṇṭi- 
+smoke: puː- | puu- 
+smooth: kaɹ̣unu | kaɹunu 
+snake: waḷu | parimiṇṭi	waḷu 
+snow: ŋawuṭari 
+snow: wura 
+son: maɲka 
+sour: puwa 
+sour: waɟi 
+spit: ɟanti- | wið̞a-ŋkaa- 
+spit: wiθ̞a | wið̞a-ŋkaa- 
+split: t̪aːṭama- | t̪aaṭama- 
+squeeze: ɟumpi | cumpi 
+stand: kaɹ̣pa karil | kari-	kaɹpa karil 
+star: paṇṭuraṇa | bindiri	piṇṭi.ri	piṇṭiri 
+star: piṇṭiri | bindiri	piṇṭi.ri	piṇṭiri 
+stone: maṇṭa | maṇṭa 
+straight: t̪uruṭ | t̪uruṭ	wayu 
+straight: wayu | t̪uruṭ	wayu 
+sun: yura 
+sweet: maḷiya 
+swell: muraturi- 
+swim: kurawayi- 
+tail: kaṇṭi | kaṇṭi 
+take: kaɹ̣pa- 
+take: maɲulaː- 
+take: muya- 
+that: ŋun̪aː | wala | gu5dy~iri	kunytyirri	kuɲci-	kuɲci.ri 
+that: ŋun̪u | wala | gu5dy~iri	kunytyirri	kuɲci-	kuɲci.ri 
+that: wala | gu5dy~iri	kunytyirri	kuɲci-	kuɲci.ri 
+there: ŋula | walaaṭa 
+there: ŋulaːṭa | walaaṭa 
+there: walaːṭa | walaaṭa 
+they: -kiːri | -kiiri 
+they two: ŋuṇ- 
+they two: n̪ur- 
+they two: wala- 
+thick: muṇṭu | muṇṭu	wacikaṭa 
+thick: waɟikaṭa | muṇṭu	wacikaṭa 
+thigh: kala- 
+thigh: kuniŋka 
+thigh: wulu 
+think: kuɹ̣kaɲɟa- | kuɹkaɲca- 
+thin: kupiɟa | kupica	paʎa 
+this: n̪aː | n̪aa 
+thorn: ɟiri 
+thou: ɲinkaːṇṭu | 5inda	ɲin.ta	ɲinta 
+thou: ɲinku | 5inda	ɲin.ta	ɲinta 
+thou: ɲinta | 5inda	ɲin.ta	ɲinta 
+thou: ɲintauː | 5inda	ɲin.ta	ɲinta 
+three: ɟarwuti | carwuti	tyarrwurti	t̪uri 
+three: t̪uri | carwuti	tyarrwurti	t̪uri 
+throat: miɹ̣a 
+throat: waŋkar 
+throw: ŋayi- 
+thunder: yintari- 
+tie: ɟanka- | canka-	manta- 
+tie: manta- | canka-	manta- 
+today: yaːla yuraŋka 
+tomorrow: waruŋkamu 
+tongue: yat̪u- | yath~u	yat̪u-	yat̪u.u 
+tooth: yira 
+tree: waṇṭa 
+turn: pinkali- 
+two: kuθ̞ara | guLara	kuyharra	kuð̞a.ra	kuð̞ara 
+unripe: wanka 
+vagina: miṇṭin 
+vagina: t̪aːri 
+vomit: karkaḷi- | karkaḷi- 
+walk: mui- | wila- 
+walk: paŋkari- | wila- 
+walk: wila- 
+warm: kuḷu | kuḷu 
+wash: pun̪t̪a- 
+water: maṭu | bawa	maṭu	pawa	yarwa- 
+water: pawa | bawa	maṭu	pawa	yarwa- 
+water: yarwa- | bawa	maṭu	pawa	yarwa- 
+weep: kaṇṭa 
+weep: ŋaθ̞i- 
+we (excl.): ŋaliyauː 
+we (excl.): ŋayin̪t̪ari 
+we (incl.): ŋaliuː 
+wet: maṇṭi | maṇṭi 
+we two (excl.): ŋaliya 
+we two (excl.): ŋayuwaṭa 
+we two (incl.): ŋali 
+we two (incl.): ŋaliyau ɲinku 
+what: ŋani 
+when: wan̪t̪aṭa | wan̪t̪aṭa 
+where: wan̪t̪ila | wan̪t̪i.la	wan̪t̪ila 
+white: ɟiwara | ciwara 
+who: ŋana 
+wide: t̪atpi 
+wife: ŋuraɲu | n̪uwa	ŋuraɲu 
+wind: wirwi | wirwi	yawu.rci 
+wing: ɟaɹ̣pu- | caɹpu-	mara-ḷi	maraḷi 
+wing: maraḷi | caɹpu-	mara-ḷi	maraḷi 
+wipe: waḷima- | waḷima- 
+woman: t̪aːriaḷa | maŋa	waṭi.ra	waṭira 
+woman: waṭira | maŋa	waṭi.ra	waṭira 
+wood: waṇṭa 
+woomera: miru 
+woomera: waɹ̣para 
+year: muθ̞u | muð̞u 
+yellow: piyu | piyulu 
+you two: ɲinkuwi 
+you two: ɲintauθ̞a 
+every: culu 
+ash: yiwa	yiwaṭa	ŋari 
+abdomen: ŋaḷu 
+bigness: ciḷa.ra	wacikaṭa 
+large: ciḷa.ra	wacikaṭa 
+breasts: biwi	piwi 
+nail: mitcu 
+talon: mitcu 
+come from: ganaNgari	kanaŋkari-	warbagu 
+be dead: 5undiwarni	ɲuṇṭiwaṇi- 
+dead: 5undiwarni	ɲuṇṭiwaṇi- 
+ground: n̪aṇu	t̪uŋka 
+land: n̪aṇu	t̪uŋka 
+soil: n̪aṇu	t̪uŋka 
+left hand: maa	maɹa 
+1 sg.: Nali	ŋa.yi	ŋayi 
+be knowledgeable: mi- 
+lie down: ŋari- 
+male: piɹiri 
+much: maɹu 
+multiple: maɹu 
+several: maɹu 
+flesh: muḷa	piru- 
+hill: manda	maṇṭa 
+title: yini 
+nighttime: waru 
+nose: muth~a	mut̪a	muṭa 
+adulterous: gu5dy~iri	kunytyirri	kuɲci-	kuɲci.ri 
+single: gu5dy~iri	kunytyirri	kuɲci-	kuɲci.ri 
+the: gu5dy~iri	kunytyirri	kuɲci-	kuɲci.ri 
+unprincipled: gu5dy~iri	kunytyirri	kuɲci-	kuɲci.ri 
+human: ŋaa.ṭa	ŋaaṭa 
+human being: ŋaa.ṭa	ŋaaṭa 
+rainy weather: yuntu	yuŋu 
+path: madiya	yidiya 
+route: madiya	yidiya 
+round: kuɹu-ːɹu 
+hide: gawun	kawuṇ 
+little: kupi.ca	kupica 
+smallness: kupi.ca	kupica 
+rock: maṇṭa 
+2 sg: 5inda	ɲin.ta	ɲinta 
+you: 5inda	ɲin.ta	ɲinta 
+grind: guLara	kuyharra	kuð̞a.ra	kuð̞ara 
+go: wila- 
+hot: kuḷu 
+1 pl. inc.: 5aliyu	ŋaliuu 
+we: 5aliyu	ŋaliuu 
+we₁: 5aliyu	ŋaliuu 
+whiteness: ciwara 
+who?: ŋana 
+female: maŋa	waṭi.ra	waṭira 
+distant: warwa 
+far: warwa 
+dull: ŋuŋku-maṇṭa 
+serious: ŋuŋku-maṇṭa 
+earthworm: miḷa-miḷa 
+worm: miḷa-miḷa 
+2 pl.: ɲintauu 
+ye: ɲintauu 
+you all: ɲintauu 
+3 pl.: -kiiri 
+where?: wan̪t̪i.la	wan̪t̪ila 
+when?: wan̪t̪aṭa 
+how?: wan̪t̪aṇi ŋara 
+broad: t̪atpi 
+wideness: t̪atpi 
+fat: cinci	wiḷukuɹu 
+principal wife: n̪uwa	ŋuraɲu 
+his mother: ŋanka	ŋaŋka 
+my mother: ŋanka	ŋaŋka 
+his father: mama	maṇṭi- 
+my father: mama	maṇṭi- 
+stick: mii	miyi 
+cord: mirici 
+grease: cinci	wiḷukuɹu 
+gut: cuḷiɲ 
+insides: cuḷiɲ 
+intestine: cuḷiɲ 
+intestines: cuḷiɲ 
+breath: ŋayiɲkari- 
+laughter: t̪uṇi- 
+cogitate: kuɹkaɲca- 
+reflect: kuɹkaɲca- 
+sniff: paṇṭi- 
+afraid: waa 
+be afraid: waa 
+fright: waa 
+beat: waṇpi-	ŋara- 
+strike: waṇpi-	ŋara- 
+hack: mau-	wiṇṭa- 
+cut open: t̪aaṭama- 
+tell lies: wala waŋka-	waḷa-waŋka- 
+drop: puŋka- 
+wring: cumpi 
+wash clothes: pun̪t̪a- 
+bind: canka-	manta- 
+fasten: canka-	manta- 
+tie up: canka-	manta- 
+have fun: wiri-mari-	wiri-waṇi- 
+brook: karu-	wuntu 
+stream: karu-	wuntu 
+blaze: kampa- 
+daylight: yura 
+daytime: yura 
+evil: waci 
+rot: puwa	puwaḷu 
+filthy: waru 
+soiled: waru 
+blunt: cin̪t̪aṇ	t̪aṭat 
+damp: maṇṭi 
+right side: maa.ṭa	maaṭa 
+in: t̪uṇu.ŋka 
+inside: t̪uṇu.ŋka 

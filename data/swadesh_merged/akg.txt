@@ -1,0 +1,262 @@
+all: ngara duka 
+every: ngara duka 
+ash: karabuk 
+ashes: karabuk 
+abdomen: kabu 
+belly: kabu 
+big: bàkul 
+bigness: bàkul 
+large: bàkul 
+bird: mawurung 
+bite: pawítu 
+black: metingu 
+blood: ra 
+bone: ri	rí 
+breast: susu 
+breasts: susu 
+burn: túnu 
+burn tr.: túnu 
+cloud: habuang 
+cold: maringu 
+come: ami5a	àminya 
+come from: ami5a	àminya 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: ahu 
+drink: inu 
+dry: maràkut 
+ear: kahilu	kahílu 
+eat: angu 
+egg: tilu 
+eye: mata 
+feather: wúlu 
+fire: api 
+fish: iyaNu	íyangu 
+fly: wurung 
+fly v.: wurung 
+good: kàlong 
+green: moru 
+hair: logi 
+hand: lima 
+left hand: lima 
+right: lima 
+head: katiku 
+hear: raNu	ràngu 
+1 sg.: nuwa	núwa 
+I: nuwa	núwa 
+kill: pamati 
+be knowledgeable: pengu 
+know: pengu 
+leaf: rou	rou ai 
+liver: ati 
+long: madheta 
+head louse: wutu	wútu 
+louse: wutu	wútu 
+male: moni 
+man: tau 
+moon: wula 
+mouth: àba 
+name: Nara	ngara 
+title: Nara	ngara 
+neck: koku 
+new: buaNu	buangu 
+night: riduN	ridung 
+nighttime: riduN	ridung 
+nose: kiru 
+adulterous: haiNi	haingi 
+one: haiNi	haingi 
+single: haiNi	haingi 
+that: nei lou 
+the: haiNi	haingi 
+unprincipled: haiNi	haingi 
+human: tau 
+human being: tau 
+person: tau 
+rain: urang 
+rainy weather: urang 
+red: rara 
+path: lara 
+road: lara 
+route: lara 
+root: amu 
+sand: kora 
+say: panewi 
+see: ita 
+sit: ngodu 
+hide: kalitu 
+skin: kalitu 
+sleep: yuda 
+little: merah 
+small: merah 
+smallness: merah 
+smoke: hibu 
+star: kape	kapé 
+rock: watu 
+stone: watu 
+swim: ngani 
+tail: kaiku 
+this: nei 
+2 sg: au 
+thou: au 
+you: au 
+tongue: lama	làma 
+tooth: Nidu	ngidu 
+grind: 8ua8ua	dhuadha	dh~uadh~ua	d’ua 
+two: 8ua8ua	dhuadha	dh~uadh~ua	d’ua 
+go: halako 
+walk: halako 
+hot: wajal 
+warm: wajal 
+water: wei 
+1 pl. inc.: duta	nyema 
+we: duta	nyema 
+we₁: duta	nyema 
+what: gànaya 
+white: kaka 
+whiteness: kaka 
+who: gieraya 
+who?: gieraya 
+female: mawini 
+woman: mawini 
+yellow: kúni 
+distant: maleru 
+far: maleru 
+dull: buatu 
+heavy: buatu 
+serious: buatu 
+close: marani 
+near: marani 
+ner: marani 
+salt: mahi 
+short: padak 
+snake: màdu 
+thin: manípa 
+wind: ngílu 
+earthworm: lila 
+worm: lila 
+year: daungu 
+2 pl.: nyiemi 
+ye: nyiemi 
+you all: nyiemi 
+3 pl.: duda 
+they: duda 
+where: be yaya 
+where?: be yaya 
+when: pirang 
+when?: pirang 
+how: gahamanaina 
+how?: gahamanaina 
+other: hèka 
+three: tilu 
+four: patu 
+five: lima 
+broad: gèlang 
+wide: gèlang 
+wideness: gèlang 
+fat: boka 
+thick: tebi 
+narrow: hadipal 
+principal wife: ihi uma 
+wife: ihi uma 
+husband: la 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+forest: rami 
+woods: rami 
+fruit: wua 
+flower: wàla 
+grass: rútu 
+cord: laiku 
+rope: laiku 
+flesh: rau 
+meat: rau 
+grease: boka 
+wing: kàpa 
+gut: tanai 
+guts: tanai 
+insides: tanai 
+intestine: tanai 
+intestines: tanai 
+back: kadhenga 
+suck: habúbu 
+spit: padainu 
+vomit: muta 
+blow: púwi 
+breath: hangahu 
+breathe: hangahu 
+laugh: riki 
+laughter: riki 
+cogitate: pangadang 
+reflect: pangadang 
+think: pangadang 
+smell: hangudu 
+sniff: hangudu 
+afraid: mangedat 
+be afraid: mangedat 
+fear: mangedat 
+fright: mangedat 
+alive: múruk 
+be alive: múruk 
+life: múruk 
+live: múruk 
+living: múruk 
+hunt: patamang 
+beat: palu 
+hit: palu 
+strike: palu 
+cut: pogu 
+hack: pogu 
+cut open: bera 
+split: bera 
+pierce: huji 
+stab: huji 
+scratch: pakau 
+dig: hàka 
+stand: dèdi 
+drop: kanabu 
+fall: kanabu 
+grasp: pamàno 
+hold: pamàno 
+hold in arm: pamàno 
+squeeze: pàhu 
+wring: pàhu 
+throw: tuku 
+bind: laiku 
+fasten: laiku 
+tie: laiku 
+tie up: laiku 
+sew: ila 
+count: kíra 
+enumerate: kíra 
+number: kíra 
+tally: kíra 
+flow: lei 
+lake: tàma 
+ocean: tahuk 
+sea: tahuk 
+dust: kubur 
+fog: habuang 
+sky: awang 
+bad: da kàlong 
+evil: da kàlong 
+rot: wou 
+rotten: wou 
+dirty: maríhak 
+filthy: maríhak 
+soiled: maríhak 
+sharp: dàkut 
+blunt: bobul 
+damp: jòju 
+wet: jòju 
+right side: lawana 
+left: lalai 
+at: ta 
+in: nu da 
+inside: nu da 
+and: ngera 
+if: bàka langa 

@@ -1,0 +1,345 @@
+all: kaikki | jokainen	kaikki	yokainen 
+and: ja | ja	ya 
+animal: eläin | eläin	elæin 
+ashes: tuhka, tuhkat 
+at: -lla, -llä | -lla	-llä	-ssa 
+back: selkä | selkä	selkæ 
+bad: paha | huono	paha 
+bark: kaarna | kaarna	kuori	kuor̃i 
+because: koska | koska	siksi että	sillä 
+belly: vatsa, maha | maha	vatsa 
+big: iso | iso	suuri	suur̃i 
+bird: lintu 
+bite: pure | purra	pur̃r̃a 
+black: musta 
+blood: veri | veri	wer̃i 
+blow: puhaltaa | puhaltaa	tuulla 
+bone: luu 
+breast: rinta | rinta	r̃inta 
+breathe: hengittää | hengittää	hengittææ	hengitüs 
+burn: poltta | palaa 
+child: lapsi 
+cloud: pilvi | pilvi	pilwi 
+cold: kylmä | kylmä	külmæ	viluinen 
+come: tule | tulla 
+correct: oikea 
+count: laskea | laskea	luetella	lukea	määrä 
+cut: viiltää, leikata 
+day: päivä | päivä	pæiwæ 
+die: kuole | kuolla	kuollut 
+dig: kaivaa | kaivaa	kaiwaa 
+dirty: likainen | likaantunut	likainen 
+dog: koira | koira	koir̃a 
+drink: juo | juoda	yuoda 
+dry: kuiva | kuiva	kuiwa 
+dull: tylsä | painava	painawa	raskas	r̃askas | tylppä	tylsä	tülppæ	tülsæ 
+dust: pöly, tomu | pöly	pölü	tomu 
+ear: korva | korva	kor̃wa 
+earth: maa | maa	multa 
+eat: syö | syödä	süödæ 
+egg: muna 
+eye: silmä | silmä	silmæ 
+fall: pudota | kaatua	langeta	pudota 
+fall: putoa | kaatua	langeta	pudota 
+far: kaukainen, etäinen | etäälle	etäällä	kaukana	loitolla 
+father: isä | isä	isæ 
+fat (n.): rasva 
+fear: pelkä | kauhu	pelko	pelätä 
+feather: höyhen | höühen	sulka 
+few: harva | muutama	vähän	wæhæn 
+fight: taistella 
+fingernail: kynsi | kynsi	künsi 
+fire: tuli 
+fish: kala 
+five: viisi | viisi	wiisi 
+float: kellua. leijua | kellua	uida	uittaa 
+flower: kukka 
+flow: virrata | juosta	virrata	wir̃r̃ata 
+fly (v.): lentää 
+fog: sumu | sumu	usva	utu 
+foot: jalka | jalka	jalkaterä	yalka 
+forest: metsä | metsä	metsæ 
+four: neljä | neljä	nelyæ 
+freeze: jäätyä, palella 
+fruit: hedelmä | hedelmä	hedelmæt 
+full: täysi, täynnä | täysi	tæüsi 
+give: anta | antaa 
+good: hyvä | hyvä	hüwæ 
+grass: ruoho | heinä	nur̃mi	ruoho	r̃uoho 
+green: vihreä | vihreä	wihr̃eæ 
+guts: sisälmykset | sisælmükset	suolet	suolisto 
+hair: hius, hiukset | hiukset	hius	karva	tukka 
+hand: käsi | kæsi 
+head: pää | pää	pææ 
+hear: kuule | kuulla 
+heart: sydän | sydän	südæn 
+heavy: raskas | painava	painawa	raskas	r̃askas 
+he: hän | hän	se 
+here: täällä, tänne | tässä	täällä 
+hit: lyödä | iskeä	iskeæ	lyödä	lüödæ 
+hold: pitää (kiinni) | pitää	pitææ 
+horn: sarvi | sarvi	sar̃wi 
+how: kuinka | kuinka	miten 
+hunt: metsästää | metsästää	metsæstææ 
+husband: mies | aviomies	mies 
+ice: jää | jää	yææ 
+if: jos | -ko	jos	yos 
+I: minä | minä	minæ	mä 
+in: -ssa, -ssä | -Vn	-lla	-lle	-ssa	-ssä	sisællæ	sisæssæ 
+kill: tappaa 
+knee: polvi | polvi	polwi 
+know: tunte | tietää	tietææ	tuntea 
+lake: järvi | järvi	yær̃wi 
+laugh: naura | nauraa	naur̃aa 
+leaf: lehti 
+left: vasen | vasen	wasen 
+leg: sääri | jalka	sääri	yalka 
+lie: valehdella | lewætæ	maata | maata	walehdella 
+live: elää | eloisa	elää	elæmæ	elæwæ	elææ 
+liver: maksa 
+long: pitkä | pitkä	pitkæ 
+louse: täi | täi	tæi 
+man: mies | henkilö	ihminen 
+many: moni | monet	monta	paljon	palyon	useita 
+meat: liha 
+moon: kuu 
+mother: äiti | äiti	æiti 
+mountain: vuori | mäki	mæki	vuori	wuor̃i 
+mouth: suu 
+name: nimi | nimi	nimike 
+narrow: kapea | ahdas	kaita	kapea 
+near: lähe | lähellä	læhellæ 
+neck: kaula, niska 
+new: uusi 
+night: yö | yö	üö 
+nose: nenä | nenä	nenæ 
+not: ei 
+old: vanha 
+one: yksi 
+other: toinen, muu | muu	toinen 
+person: henkilö | henkilö	ihminen 
+play: soitta | leikkiä	leikkiæ	pelata	soittaa 
+pull: vetää | kiskoa	vetää 
+push: työntää | lykätä	lükætæ	työntää	tüöntææ 
+rain: sata | sade	sataa 
+red: punainen 
+right: oikea | kæsi 
+river: joki | joki	pur̃o	wir̃ta	yoki 
+road: tie 
+root: juuri | juuri	yuur̃i 
+rope: köysi | köysi	köüsi	nauha	nuora	nüör̃i 
+rotten: mätä, mädäntynyt | laho	mätä	mædænnüt	mætæ 
+round: pyöreä | pyöreä	püör̃eæ 
+rub: hieroa, hangata | hieroa	hier̃oa	hier̃tææ 
+salt: suola 
+sand: hiekka | hiekka	suurimo 
+say: sano | sanoa | hiekka	suurimo 
+scratch: raapia, rapsuttaa | kynsiä	raapia 
+sea: meri | meri	mer̃i 
+seed: siemen 
+see: näke | nähdä	næhdæ 
+sew: ommella | neuloa	ommella 
+sharp: terävä | terävä	ter̃æwæ 
+short: lyhyt | lyhyt	lühüt 
+sing: laula | laulaa 
+sit: istu | istua 
+skin: iho, nahka | hipiä	iho	nahka 
+sky: taivas | taivas	taiwas 
+sleep: nukku | nukkua 
+small: pieni | pieni	pikku 
+smell: haistaa jtk | haistaa	tuntea hayua 
+smoke: savu | savu	sawu 
+smooth: märkä | sileä	sileæ	tasainen 
+smooth: pehmeä | sileä	sileæ	tasainen 
+snake: käärme | käärme	kæær̃me 
+snow: lumi 
+some: joku | jokin	jotkut	yonkinwer̃r̃an	yotkut 
+spit: sylkeä | sylkeä	sylkäistä	sülkeæ 
+split: halkaista, puolittaa | halkaista	halkoa	sær̃keæ 
+squeeze: puristaa, rutistaa | puristaa	pur̃istaa	puser̃taa 
+stab: puukottaa, pistää | læwistææ	pistää	pistææ	puukottaa 
+stand: seiso | seisoa	seistä 
+star: tähti | tähti	tæhti 
+stick: tikku, keppi | keppi	oksa 
+stone: kivi | kallio	kivi	kiwi 
+straight: suora | oikoinen	suora	suor̃a 
+suck: imeä | imeä	imeæ 
+sun: aurinko | aurinko	aur̃inko	pæiwæ 
+swell: turvota, paisua | paisua	turvota 
+swim: uida 
+tail: häntä | häntä	hæntæ 
+that: että | se	tuo | yksi 
+there: siellä, sinne | siellä	tuolla 
+they: he | he	ne 
+thick: paksu | paksu	sankea	sankka 
+think: ajattele | ajatella	ayatella	miettiä	miettiæ 
+thin: ohut | laiha	ohut 
+this: tämä 
+thou: sinä | sinä	sinæ	sä 
+three: kolme 
+throw: heittä | heittää	heittææ	viskata 
+tie: sitoa | köüttææ	sitoa	solmia 
+tongue: kieli 
+tooth: hammas 
+tree: puu 
+turn: kääntyä | kääntyä	kääntää	kææntyæ	pyöriä 
+two: kaksi 
+vomit: oksentaa 
+walk: kävellä | kulkea	kävellä	kæwellæ	kæüdæ 
+warm: lämmin | lämmin	læmmin 
+wash: pestä | pestä	pestæ 
+water: `vesi | vesi	wesi 
+we: me 
+wet: märkä | kostea	märkä	mær̃kæ 
+what: mikä | mikä	mitä 
+when: milloin | koska	kun	milloin 
+where: missä 
+white: valkoinen | valkea	valkoinen	walkoinen 
+who: kuka | joka	ken	kuka 
+wide: leveä, laaja | laaja	laaya	leveä	leweæ 
+wife: vaimo | vaimo	waimo 
+wind: tuuli 
+wing: siipi 
+wipe: pyyhkiä, pyyhkäistä 
+with: kanssa | kanssa	kera 
+woman: nainen 
+worm: mato | mato	toukka 
+year: vuosi | vuosi	wuosi 
+yellow: keltainen 
+you: sinä | sinä	sinæ	sä | te 
+you: te | sinä	sinæ	sä 
+every: jokainen	kaikki	yokainen 
+ash: tuhka 
+ashes: tuhka 
+abdomen: maha	vatsa 
+bigness: iso	suuri	suur̃i 
+large: iso	suuri	suur̃i 
+breasts: rinta	r̃inta 
+claw: künsi 
+nail: künsi 
+talon: künsi 
+come from: tulla 
+be dead: kuolla	kuollut 
+dead: kuolla	kuollut 
+ground: maa	multa 
+land: maa	multa 
+soil: maa	multa 
+fly: lentää	lentææ 
+fly v.: lentää	lentææ 
+left hand: kæsi 
+1 sg.: minä	minæ	mä 
+be knowledgeable: tietää	tietææ	tuntea 
+lie down: lewætæ	maata 
+head louse: täi	tæi 
+male: mies 
+much: monet	monta	paljon	palyon	useita 
+multiple: monet	monta	paljon	palyon	useita 
+several: monet	monta	paljon	palyon	useita 
+flesh: liha 
+hill: mäki	mæki	vuori	wuor̃i 
+title: nimi	nimike 
+neck: kaula 
+nighttime: yö	üö 
+adulterous: yksi 
+single: yksi 
+the: yksi 
+unprincipled: yksi 
+human: henkilö	ihminen 
+human being: henkilö	ihminen 
+rainy weather: sade	sataa 
+path: tie 
+route: tie 
+hide: hipiä	iho	nahka 
+little: pieni	pikku 
+smallness: pieni	pikku 
+rock: kallio	kivi	kiwi 
+2 sg: sinä	sinæ	sä 
+grind: kaksi 
+go: kulkea	kävellä	kæwellæ	kæüdæ 
+hot: lämmin	læmmin 
+1 pl. inc.: me 
+we₁: me 
+whiteness: valkea	valkoinen	walkoinen 
+who?: joka	ken	kuka 
+female: nainen 
+distant: etäälle	etäällä	kaukana	loitolla 
+serious: painava	painawa	raskas	r̃askas 
+close: lähellä	læhellæ 
+ner: lähellä	læhellæ 
+earthworm: mato	toukka 
+3 sg.: hän	se 
+she: hän	se 
+2 pl.: te 
+ye: te 
+you all: te 
+3 pl.: he	ne 
+where?: missä 
+when?: koska	kun	milloin 
+how?: kuinka	miten 
+broad: laaja	laaya	leveä	leweæ 
+wideness: laaja	laaya	leveä	leweæ 
+fat: ihr̃a	rasva	r̃aswa 
+principal wife: vaimo	waimo 
+his mother: äiti	æiti 
+my mother: äiti	æiti 
+his father: isä	isæ 
+my father: isä	isæ 
+woods: metsä	metsæ 
+branch: keppi	oksa 
+cord: köysi	köüsi	nauha	nuora	nüör̃i 
+grease: ihr̃a	rasva	r̃aswa 
+arm: käsi 
+gut: sisælmükset	suolet	suolisto 
+insides: sisælmükset	suolet	suolisto 
+intestine: sisælmükset	suolet	suolisto 
+intestines: sisælmükset	suolet	suolisto 
+breath: hengittää	hengittææ	hengitüs 
+laughter: nauraa	naur̃aa 
+cogitate: ajatella	ayatella	miettiä	miettiæ 
+reflect: ajatella	ayatella	miettiä	miettiæ 
+sniff: haistaa	tuntea hayua 
+afraid: kauhu	pelko	pelätä 
+be afraid: kauhu	pelko	pelätä 
+fright: kauhu	pelko	pelätä 
+alive: eloisa	elää	elæmæ	elæwæ	elææ 
+be alive: eloisa	elää	elæmæ	elæwæ	elææ 
+life: eloisa	elää	elæmæ	elæwæ	elææ 
+living: eloisa	elää	elæmæ	elæwæ	elææ 
+beat: iskeä	iskeæ	lyödä	lüödæ 
+strike: iskeä	iskeæ	lyödä	lüödæ 
+cut: leikata 
+hack: leikata 
+cut open: halkaista	halkoa	sær̃keæ 
+pierce: læwistææ	pistää	pistææ	puukottaa 
+tell lies: maata	walehdella 
+turn around: kääntyä	kääntää	kææntyæ	pyöriä 
+turn round: kääntyä	kääntää	kææntyæ	pyöriä 
+drop: kaatua	langeta	pudota 
+grasp: pitää	pitææ 
+hold in arm: pitää	pitææ 
+wring: puristaa	pur̃istaa	puser̃taa 
+wipe: pyyhkiä 
+wash clothes: pestä	pestæ 
+shove: lykätä	lükætæ	työntää	tüöntææ 
+bind: köüttææ	sitoa	solmia 
+fasten: köüttææ	sitoa	solmia 
+tie up: köüttææ	sitoa	solmia 
+enumerate: laskea	luetella	lukea	määrä 
+number: laskea	luetella	lukea	määrä 
+tally: laskea	luetella	lukea	määrä 
+have fun: leikkiä	leikkiæ	pelata	soittaa 
+freeze: jäätyä 
+brook: joki	pur̃o	wir̃ta	yoki 
+stream: joki	pur̃o	wir̃ta	yoki 
+ocean: meri	mer̃i 
+blaze: palaa 
+daylight: päivä	pæiwæ 
+daytime: päivä	pæiwæ 
+evil: huono	paha 
+rot: laho	mätä	mædænnüt	mætæ 
+filthy: likaantunut	likainen 
+soiled: likaantunut	likainen 
+blunt: tylppä	tylsä	tülppæ	tülsæ 
+damp: kostea	märkä	mær̃kæ 
+right side: oikea 
+inside: -Vn	-lla	-lle	-ssa	-ssä	sisællæ	sisæssæ 

@@ -1,0 +1,265 @@
+all: kam 
+every: kam 
+ash: pat 
+ashes: pat 
+abdomen: sne[ri] 
+belly: sne[ri] 
+big: ba 
+bigness: ba 
+large: ba 
+bird: man 
+bite: ar|k 
+black: pa|isĕm 
+blood: rik 
+bone: kor 
+breast: sus	tut 
+breasts: sus	tut 
+burn: kun 
+burn tr.: kun 
+cloud: mandif 
+cold: prim 
+come: ma	rama	rāma 
+come from: ma	rama	rāma 
+be dead: mar	mār 
+dead: mar	mār 
+die: mar	mār 
+dog: makei	naf 
+drink: in3m	inĕm 
+dry: miaïs	pnaïs	pnās 
+ear: kna	knaram 
+eat: ān 
+egg: penor 
+eye: mga	mgamor 
+feather: kum 
+fire: apy~am	for 
+fish: in 
+fly: rob 
+fly v.: rob 
+good: bye 
+green: mandumek 
+hair: snumburaïm 
+hand: bra	rwa	rw~a 
+left hand: bra	rwa	rw~a 
+right: bra	rwa	rw~a 
+head: rwu 
+hear: mnaf	row3r 
+1 sg.: aya	ya 
+I: aya	ya 
+kill: [ma]mun 
+knee: pur 
+be knowledgeable: fau 
+know: fau 
+leaf: ram	rām 
+lie: barĕk 
+lie down: barĕk 
+liver: ken	ke|n 
+long: kwaïn 
+head louse: uk 
+louse: uk 
+male: man 
+man: kaw|asa	man	snon 
+moon: paik 
+hill: bon 
+mountain: bon 
+mouth: sbā[ri] 
+name: nasan	snon-snon	snonsnon 
+title: nasan	snon-snon	snonsnon 
+neck: sasu[ri] 
+new: babo 
+night: rob 
+nighttime: rob 
+nose: sno	sno[ri]	snoni 
+adulterous: oser	saai	sai	saï 
+one: oser	saai	sai	saï 
+single: oser	saai	sai	saï 
+that: buro 
+the: oser	saai	sai	saï 
+unprincipled: oser	saai	sai	saï 
+human: kaw|asa	man	snon 
+human being: kaw|asa	man	snon 
+person: kaw|asa	man	snon 
+rain: mekĕm 
+rainy weather: mekĕm 
+red: rik 
+path: 5an	ny~an	nĕyan 
+road: 5an	ny~an	nĕyan 
+route: 5an	ny~an	nĕyan 
+root: rarĕs 
+sand: [ka]yen 
+say: faya	kofen 
+see: mam	mgasi 
+sit: keïn 
+hide: kef	rib 
+skin: kef	rib 
+sleep: enĕf 
+little: baba	kasun 
+small: baba	kasun 
+smallness: baba	kasun 
+smoke: ās 
+star: kum	mak 
+rock: karu	keru 
+stone: karu	keru 
+sun: or	yas 
+swim: ās 
+tail: pura[ri] 
+this: ine 
+2 sg: au 
+thou: au 
+you: au 
+tongue: kaprendi	kaprer	ramar 
+tooth: na	nakor 
+tree: ai	knam 
+grind: du	dui	duï	suru 
+two: du	dui	duï	suru 
+go: rā 
+walk: rā 
+hot: sam 
+warm: sam 
+water: war	wār 
+1 pl. inc.: ko	ŋgo 
+we: ko	ŋgo 
+we₁: ko	ŋgo 
+what: roseï 
+white: piupĕr 
+whiteness: piupĕr 
+who: iseï 
+who?: iseï 
+female: bin 
+woman: bin 
+yellow: naniar 
+distant: biŋkwaïm 
+far: biŋkwaïm 
+close: fanam 
+near: fanam 
+ner: fanam 
+salt: masĕn 
+short: kwaïmba 
+snake: ikak 
+thin: mbrĕkip 
+wind: wām 
+earthworm: arsyawek 
+worm: arsyawek 
+year: taun 
+2 pl.: rwori 
+ye: rwori 
+you all: rwori 
+3 pl.: si 
+they: si 
+where: mobo 
+where?: mobo 
+how: rariso 
+how?: rariso 
+other: wesĕ 
+three: kioor	kior 
+four: fiak	fiaw 
+five: krim 
+broad: bam 
+wide: bam 
+wideness: bam 
+fat: mafĕn	mani 
+thick: kpor 
+narrow: fios 
+principal wife: swa[ri] 
+wife: swa[ri] 
+husband: swa[ri] 
+his mother: nāni	sna[ri] 
+mother: nāni	sna[ri] 
+my mother: nāni	sna[ri] 
+father: kĕma	mami 
+his father: kĕma	mami 
+my father: kĕma	mami 
+branch: snau 
+stick: snau 
+fruit: ai|bon 
+flower: pampen 
+grass: abris 
+cord: rabrab 
+rope: rabrab 
+flesh: kraf 
+meat: kraf 
+grease: mafĕn	mani 
+wing: waprer 
+gut: sne|war[si] 
+guts: sne|war[si] 
+insides: sne|war[si] 
+intestine: sne|war[si] 
+intestines: sne|war[si] 
+back: kru[ri] 
+suck: sum	syosĕf 
+spit: aninef 
+vomit: aw[u] 
+blow: wuf 
+breath: mnasu 
+breathe: mnasu 
+laugh: mbrif 
+laughter: mbrif 
+cogitate: swār 
+reflect: swār 
+think: swār 
+smell: nasĕm 
+sniff: nasĕm 
+afraid: mkāk 
+be afraid: mkāk 
+fear: mkāk 
+fright: mkāk 
+alive: kenĕm 
+be alive: kenĕm 
+life: kenĕm 
+live: kenĕm 
+living: kenĕm 
+hunt: yafyof 
+beat: rab 
+hit: rab 
+strike: rab 
+cut: karuk 
+hack: karuk 
+cut open: kabas	kes	mef 
+split: kabas	kes	mef 
+pierce: kuk 
+stab: kuk 
+scratch: rār 
+dig: ba	er 
+stand: orĕs 
+drop: mĕmgokĕf 
+fall: mĕmgokĕf 
+grasp: kin 
+hold: kin 
+hold in arm: kin 
+squeeze: o|mĕs	ramĕs 
+wring: o|mĕs	ramĕs 
+throw: so 
+bind: yabĕk 
+fasten: yabĕk 
+tie: yabĕk 
+tie up: yabĕk 
+sew: sapsip 
+count: kor 
+enumerate: kor 
+number: kor 
+tally: kor 
+flow: ki 
+lake: dokĕn 
+ocean: masĕn	swān 
+sea: masĕn	swān 
+dust: ananef	yorĕf 
+fog: afio 
+sky: nanĕk	naŋe 
+bad: barbor 
+evil: barbor 
+rot: pokĕm 
+rotten: pokĕm 
+dirty: akĕm	fambrum 
+filthy: akĕm	fambrum 
+soiled: akĕm	fambrum 
+sharp: sār 
+blunt: dip 
+dull: dip 
+damp: dimek 
+wet: dimek 
+right side: kaku 
+left: sār 
+at: ro 
+in: do 
+inside: do 
+and: ma 
+if: bo|ma 

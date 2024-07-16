@@ -1,0 +1,223 @@
+all: dú | dú	kàdàmán 
+all: kàdàmán | dú	kàdàmán 
+ashes: àwíndí | àwíndí 
+back: sid˗à 
+bark: kiɲʌr 
+belly: kil ~ kul | kil	kul 
+big: kiyoi | kiyoi	kɔllé 
+big: kɔllé | kiyoi	kɔllé 
+bird: kɔ̀sí | kɔ̀sí 
+bite: uted | ? uted 
+blood: faːl | fal	faːl 
+blow: unusʌŋ(˗ʌŋ) 
+bone: ǯɪgɪdɪ̀ | jigidu	jugudu	ǯɪgɪdɪ̀ 
+boy: kʌlme 
+breast: ʌ̀ŋgɔ́ɲ˗é | aNg~o5i	oNg~o5e	ʌ̀ŋgɔ́ɲ-é 
+brother: ˗ír 
+burn: atʌŋ(ʌn) 
+chest: koto 
+child: kálkàl 
+claw: síŋgírìm | síŋgírìm 
+cloud: sahabo | sahabo	sahap 
+cloud: sahap | sahabo	sahap 
+come: ágʌ̀r(ʌ̀ŋ) | agor	ar	ágʌ̀r	ágʌ̀rʌ̀ŋ 
+cut: reɲ ~ areɲɪn 
+dark: dìndúk 
+die: idik | ? idik	idik	iy	uy 
+die: iy ~ uy | ? idik	idik	iy	uy 
+dig: ɔmbórŋ ~ ɔmbórnɪn 
+dog: miɲ | mi5	minj~ik	miɲ 
+drink: ʌŋn(˗in) | aN	oNnin	ʌŋn	ʌŋn-in 
+dry: nʌabáːi | nʌabáːi 
+ear: kʌsa | kasa	koso	kʌsa 
+earth: baɲʌŋ 
+earth: kiya 
+eat: ɲɔ́˗wín | ɲɔ́-wín 
+egg: kɛdɛm˗a | kɛdɛm-a 
+elbow: dɔmti˗ 
+eye: kàs | kas	kasi	kàs 
+face: wuǯɛ 
+fall: us(˗ɪn) 
+far: dèdi | dèdi	dɛl 
+far: dɛl | dèdi	dɛl 
+fear: ulan˗ɪn 
+feather: tɔwi 
+fingernail: síŋgírìm 
+fire: àndùt˗úr 
+fish: kɔɲɔ | ko5o	ku5aN	kuɲ-aŋ	kɔɲɔ 
+fish: kuɲ˗aŋ | ko5o	ku5aN	kuɲ-aŋ	kɔɲɔ 
+fish: kuɲon | ko5o	ku5aN	kuɲ-aŋ	kɔɲɔ 
+five: toːr ~ tuːr 
+fly (n.): aɲini 
+foot: dʌd˗i | dʌd-i 
+forest: ʌsé 
+four: àttál 
+four: ʌttʌ 
+full: bɪč | bic	bɪč 
+give: iɲ 
+green: raː˗ndɪk | raː-ndɪk 
+hair: to(w) | to	tow 
+hand: kárá | kara	koro	kárá 
+head: kiče | kiče 
+hear: in˗iŋ˗ʌŋ | in	in-iŋ-ʌŋ	oN 
+heart: adess˗a | adess-a 
+heavy: kɔdɔŋ 
+here: gɪn 
+hole: àgù 
+horn: gʌmd˗i | gamdi	gomdi	gʌmd-i 
+house: kuduo 
+house: toŋo ~ tɔŋu 
+how: ŋgateso 
+I: ámɔ̀ | amo	ámɔ̀ 
+kill: us(ʌn) | us	usʌn 
+knee: dʌmt˗i | damti	domti	dʌmt-i 
+know: ɔtek | ? ɔtek 
+laugh: deyn ~ ateynɪn 
+leaf: sɔŋo | soNo	sɔŋo 
+left: dʌkʌle 
+leg: dʌd˗i 
+liver: wùró | wuro	wùró 
+long: bɛ̀dí | bɛ̀dí 
+louse: minǯe | minj~e	minj~i 
+man: kaméré | kaN	koN	kʌŋ 
+many: kɔlɛŋa 
+meat: íbò 
+moon: ʌnǯik | ʌnǯik 
+mountain: komaːn˗di | komand~i	komaːn-di	kumand~u 
+mouth: yù | yù 
+name: mílkì | m3lki	milki	mílkì 
+navel: ə̀də́m 
+near: gɪnsɛk 
+neck: kɪrmi 
+new: síɗ ~ sìɗ | sio	sìɗ	síɗ 
+night: dindo | dindo	dind~o 
+old: manǯà 
+one: faya | faya	tuwni 
+one: tuwni | faya	tuwni 
+other: bʌtɔ 
+person: kei | kaN	koN	kʌŋ 
+person: kʌŋ | kaN	koN	kʌŋ 
+pull: odʌŋ(ɪn) 
+rain: tʌk 
+rat: ʌ̀ǯú 
+red: kòːnǯik | kòːnǯik 
+right: kolɔŋ | kara	koro	kárá 
+road: ɲɔ́ŋgɔ̀l˗ɛ̀ | 5oNg~ola	5oNg~ole 
+root: ɪrɪq 
+rope: kuɲʌl 
+rotten: tiyoi 
+rub: esɛln(˗ɪn) 
+salt: silɪm 
+sand: abileli | abileli	kʌsya 
+sand: kʌsya | abileli	kʌsya 
+say: ndis(ɪn) | abileli	kʌsya 
+scratch: iɲasɛn(˗ɪn) 
+seed: múndìt | múndìt 
+see: ɔ́nd(ìn) | ond~	ond~E	ɔ́nd	ɔ́ndìn 
+sew: eret˗ɪn 
+sharp: dʌŋgaya 
+short: ʌdili 
+shoulder: kɔ̀sɔ̀kɔ́r 
+sit: oɲuŋ(˗an) | oɲuŋ	oɲuŋ-an 
+skin: madda | madda	moddo	sɛ́lkà 
+skin: sɛ́lkà | madda	moddo	sɛ́lkà 
+sleep: bitik | bitik	enʌŋ	enʌŋ-ʌn 
+sleep: enʌŋ(˗ʌn) | bitik	enʌŋ	enʌŋ-ʌn 
+small: kàdékà | kàdékà 
+smoke: amtiriŋgi 
+smooth: ʌmlʌsɪ˗k 
+star: kɛ́išo | kESa	kEiSo	kɛ́išo 
+stone: dusi | dusi	dusudo 
+straight: adiːl 
+sun: áɲíŋ | a5iN	áɲíŋ 
+sweet: kimiɲi 
+swim: gusa nɪmɪn 
+tail: àyùd˗í | àyùd-í 
+they: ʌmmʌn 
+thin: kɛ́rɛ́ǯà | kɛ́rɛ́ǯà 
+thorn: adi˗k 
+thou: kì | mo	mɔ 
+thou: mɔ | mo	mɔ 
+three: kàsáŋgàl 
+three: kʌsʌŋgʌn 
+tie: utʌŋ(ɪm) 
+tomorrow: ʌ̀lé 
+tongue: adilɛm | ad3lmo	adilEm	adilɛm 
+tooth: sàd˗í | sadi	sado	sàd-í 
+tree: rí˗k | rik	riko 
+turn: udʌn(˗ɪn) 
+two: mba(ː)r | mbaar	mbar	mbaːr	mb~ar 
+vagina: ʌdɪr 
+vomit: ítèk 
+walk: ak 
+walk: iwʌn(˗ɪn) 
+warm: bʌŋtɪr 
+water: kùttó | ta	taː 
+water: ta | ta	taː 
+water: taː | ta	taː 
+we: mɪ | mi 
+wet: sulo 
+what: ŋate˗su | ŋate-su 
+when: ŋgɪn˗so 
+where: ŋgo 
+white: fʌr 
+who: ná˗sò | ná-sò 
+wind: aguli 
+wing: kɔ̀sɔ̀kɔ́r 
+woman: mì | mì-l 
+woman: mì˗l | mì-l 
+wood: ʌsa 
+year: kɔdɔrwó | kɔdɔrwó 
+yellow: ʌ́sfʌ́r | ʌ́sfʌ́r 
+yesterday: kʌndʌŋ 
+every: dú	kàdàmán 
+ash: àwíndí 
+abdomen: kil	kul 
+bigness: kiyoi	kɔllé 
+large: kiyoi	kɔllé 
+breasts: aNg~o5i	oNg~o5e	ʌ̀ŋgɔ́ɲ-é 
+nail: síŋgírìm 
+talon: síŋgírìm 
+come from: agor	ar	ágʌ̀r	ágʌ̀rʌ̀ŋ 
+be dead: ? idik	idik	iy	uy 
+dead: ? idik	idik	iy	uy 
+left hand: kara	koro	kárá 
+1 sg.: amo	ámɔ̀ 
+be knowledgeable: ? ɔtek 
+head louse: minj~e	minj~i 
+male: kaméré 
+much: kɔlɛŋa 
+multiple: kɔlɛŋa 
+several: kɔlɛŋa 
+hill: komand~i	komaːn-di	kumand~u 
+title: m3lki	milki	mílkì 
+nighttime: dindo	dind~o 
+nose: mundu	mund~u 
+adulterous: faya	tuwni 
+single: faya	tuwni 
+that: faya	tuwni 
+the: faya	tuwni 
+unprincipled: faya	tuwni 
+human: kaN	koN	kʌŋ 
+human being: kaN	koN	kʌŋ 
+rainy weather: tʌk 
+path: 5oNg~ola	5oNg~ole 
+route: 5oNg~ola	5oNg~ole 
+hide: madda	moddo	sɛ́lkà 
+little: kàdékà 
+smallness: kàdékà 
+rock: dusi	dusudo 
+2 sg: mo	mɔ 
+you: mo	mɔ 
+grind: mbaar	mbar	mbaːr	mb~ar 
+hot: bʌŋtɪr 
+1 pl. inc.: mi 
+we₁: mi 
+whiteness: fʌr 
+who?: ná-sò 
+female: mì-l 
+distant: dèdi	dɛl 
+dull: kɔdɔŋ 
+serious: kɔdɔŋ 
+close: gɪnsɛk 
+ner: gɪnsɛk 

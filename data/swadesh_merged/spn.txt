@@ -1,0 +1,312 @@
+all: yawʔakɬoho	ɬaʔmakɬoho 
+every: yawʔakɬoho	ɬaʔmakɬoho 
+ash: taahap 
+ashes: taahap 
+bark: ayempehek 
+big: akmelayˀ	akyaʔyeem	akyeweyˀ 
+bigness: akmelayˀ	akyaʔyeem	akyeweyˀ 
+large: akmelayˀ	akyaʔyeem	akyeweyˀ 
+bird: anaata 
+bite: nentakɬama	neŋeleŋwayˀ 
+black: akpaasyamˀ 
+blood: eema	ema 
+bone: eNeLkapok	eŋeɬkapok 
+breast: neme eNak	neme eŋak 
+breasts: neme eNak	neme eŋak 
+claw: apheok 
+nail: apheok 
+talon: apheok 
+cloud: yephopayˀ 
+cold: akmaɬkeemoo	eekey	key 
+come: neNeLy~eya am7~	nenLeNayam7~	nenɬeŋayaamˀ	neŋeeɬyeyaamˀ 
+come from: neNeLy~eya am7~	nenLeNayam7~	nenɬeŋayaamˀ	neŋeeɬyeyaamˀ 
+be dead: eNh~apak	eŋhaapak	neŋetsepma	neŋmatnaam 
+dead: eNh~apak	eŋhaapak	neŋetsepma	neŋmatnaam 
+die: eNh~apak	eŋhaapak	neŋetsepma	neŋmatnaam 
+dog: semheŋ	semh~eN 
+drink: neNy~am	neŋyaam 
+dry: akyamaskama	akyamayˀ 
+ear: eNh~akok	eŋhaykok 
+earth: amyep	ɬoopʔaktek 
+ground: amyep	ɬoopʔaktek 
+land: amyep	ɬoopʔaktek 
+soil: amyep	ɬoopʔaktek 
+eat: nentom	nentoykekɬaʔ 
+egg: appok 
+eye: eNatek	eŋaʔtek 
+feather: aawaʔ	anaata ʔwaʔ 
+fire: taLa	taaɬa 
+fish: kelasma 
+fly: neŋempayˀ 
+fly v.: neŋempayˀ 
+foot: eŋmenek 
+full: aklaaneyʔo	aklaney7~o 
+give: neŋahayaamˀ	neŋmeeskama 
+good: aktaʔmalma	aktaʔmela	sas 
+green: akhaanaʔteem	werte 
+hair: eŋwaʔ 
+hand: eNmek	eŋmek 
+left hand: eNmek	eŋmek 
+right: eNmek	eŋmek 
+head: empaʔtek 
+hear: neNleNay7~	neŋleŋayˀ 
+heart: yepheem eŋak 
+horn: aNkepetek	aŋkepeetek 
+1 sg.: ko7o	koʔo 
+I: ko7o	koʔo 
+kill: neŋaʔheem	neŋelnapma	neŋyamoŋkeɬma 
+knee: entapnek 
+be knowledgeable: neŋmowaan	neŋyaʔaskamkoo 
+know: neŋmowaan	neŋyaʔaskamkoo 
+leaf: aawaʔ	awa7	yamtaʔ aawaʔ 
+lie: neŋyetnama 
+lie down: neŋyetnama 
+liver: eNh~ekh~ek	eŋhekhek 
+long: akwenaʔteem	kat 
+head louse: peetem	petem 
+louse: peetem	petem 
+male: enɬet	kennaawoʔ 
+man: enLet	enɬet 
+many: akɬaʔmaekɬaʔ	akɬaʔmakɬaʔ 
+much: akɬaʔmaekɬaʔ	akɬaʔmakɬaʔ 
+multiple: akɬaʔmaekɬaʔ	akɬaʔmakɬaʔ 
+several: akɬaʔmaekɬaʔ	akɬaʔmakɬaʔ 
+flesh: eŋheepetek 
+meat: eŋheepetek 
+moon: peltenˀ 
+hill: eNkeLe	eŋkeɬe	matamoN	mataymoŋ 
+mountain: eNkeLe	eŋkeɬe	matamoN	mataymoŋ 
+mouth: eŋaatoŋ 
+name: neNw~esey7~	neŋweseyˀ 
+title: neNw~esey7~	neŋweseyˀ 
+neck: eŋyespok 
+new: aLnaNkok	aɬnaŋkok	weto7	wetooʔ 
+night: aLta7a	aɬtaʔa 
+nighttime: aLta7a	aɬtaʔa 
+nose: eNw~ahek	eŋwaahek 
+adulterous: Lama 
+one: Lama 
+single: Lama 
+that: Lama 
+the: Lama 
+unprincipled: Lama 
+human: enLet	enɬet 
+human being: enLet	enɬet 
+person: enLet	enɬet 
+rain: akmaamayˀ 
+rainy weather: akmaamayˀ 
+red: akyeɬwaseem	kas 
+path: amay yetkok	entamnek 
+road: amay yetkok	entamnek 
+route: amay yetkok	entamnek 
+root: awhak	aykepmenek 
+round: akyaʔyeem 
+sand: ɬoopʔaktek	ɬoopʔaktek aanek	ɬoopʔaktek aŋkooʔ 
+say: nentemeem	nenɬaanma 
+see: neNw~etay7~	neŋwetayʔo	neŋwetayˀ 
+seed: aktek 
+sit: nentahanma	neŋma 
+hide: eNy~empehek	eŋyempehek 
+skin: eNy~empehek	eŋyempehek 
+sleep: nenteyanma 
+little: atketsek	ayetkok	tes 
+small: atketsek	ayetkok	tes 
+smallness: atketsek	ayetkok	tes 
+smoke: akpaʔanma	eeten 
+star: apyawʔa	apy~aw7~a 
+rock: apyawʔa	matamoN	mataymoŋ	yam7~ateL	yamʔaateɬ 
+stone: apyawʔa	matamoN	mataymoŋ	yam7~ateL	yamʔaateɬ 
+sun: aknem7~	aknemˀ 
+swim: neŋmaam yeŋmen 
+tail: aypakyek 
+2 sg: Lep	Leya7	ɬeep	ɬeyaʔ 
+thou: Lep	Leya7	ɬeep	ɬeyaʔ 
+you: Lep	Leya7	ɬeep	ɬeyaʔ 
+tongue: eNaLkok	eŋaɬkok 
+tooth: eNma7aok	eŋmaʔaok 
+tree: yamet 
+grind: a7net	aʔnet	tos 
+two: a7net	aʔnet	tos 
+go: nenɬeŋaam naaɬpop 
+walk: nenɬeŋaam naaɬpop 
+hot: yaam akmakhetmoo 
+warm: yaam akmakhetmoo 
+water: ayeNmenek	ayeŋmenek	yeNmen	yeŋmen 
+1 pl. inc.: neNko7o 
+we: neNko7o 
+we₁: neNko7o 
+what: sok ke	sok ɬaʔa ye	ɬaʔa ye 
+white: akmopoyˀ	pak 
+whiteness: akmopoyˀ	pak 
+who: sok ke	sok ɬaʔa ye	ɬaʔa ye 
+who?: sok ke	sok ɬaʔa ye	ɬaʔa ye 
+female: kelwaanaʔa 
+woman: kelwaanaʔa 
+yellow: akyaatektama	tap 
+distant: kat	makhayˀ 
+far: kat	makhayˀ 
+dull: akyemtaɬnama	tok 
+heavy: akyemtaɬnama	tok 
+serious: akyemtaɬnama	tok 
+close: neŋaʔtooʔ 
+near: neŋaʔtooʔ 
+ner: neŋaʔtooʔ 
+salt: yaasek 
+short: akyaʔwateem 
+snake: nemesma 
+thin: akyamhoŋkama	alyamayˀ 
+wind: aɬkahayaamˀ	peyaamˀ 
+earthworm: melʔaok	nemesma-etkook 
+worm: melʔaok	nemesma-etkook 
+year: aanyo	mokhetma	peyaamˀ 
+2 pl.: kellheep	kellheyaʔ 
+ye: kellheep	kellheyaʔ 
+you all: kellheep	kellheyaʔ 
+where: ko ɬaʔa	koho	ɬaʔ akpayhoo	ɬaʔ akyetna	ɬaʔa mˀa 
+where?: ko ɬaʔa	koho	ɬaʔ akpayhoo	ɬaʔ akyetna	ɬaʔa mˀa 
+how: ko ɬaʔa	koho	ɬaʔ akteema	ɬaʔa mˀaa ye 
+how?: ko ɬaʔa	koho	ɬaʔ akteema	ɬaʔa mˀaa ye 
+some: aʔnetooʔ	mokɬamʔa 
+few: atketsek	aʔnet	aʔnetooʔ	mokɬamʔa 
+three: naʔatkeʔ	tres 
+four: kwatro	nook-nekhaʔ 
+five: siŋko	ɬama-emek 
+broad: akpayheem	akyeweyˀ 
+wide: akpayheem	akyeweyˀ 
+wideness: akpayheem	akyeweyˀ 
+fat: kraasa	peɬmok	waetke kpeɬmok 
+thick: akyemtaɬnama	akyeweyˀ 
+narrow: atketsek	tes 
+child: eewen	sekaʔa	sekaʔa pketkok	sekaʔa yetkok 
+principal wife: entaawaʔ	nenɬaaɬma 
+wife: entaawaʔ	nenɬaaɬma 
+husband: entaawaʔ	nenɬaaɬma 
+his mother: aŋkenˀ	meeme eŋak 
+mother: aŋkenˀ	meeme eŋak 
+my mother: aŋkenˀ	meeme eŋak 
+father: aŋyaap	taata eŋak 
+his father: aŋyaap	taata eŋak 
+my father: aŋyaap	taata eŋak 
+animal: aʔsok-nawhak	aʔsok-nawhak nentooskama 
+forest: naɬmaʔ 
+woods: naɬmaʔ 
+branch: aktoŋ	aɬkapok 
+stick: aktoŋ	aɬkapok 
+fruit: akyeɬna	akyeɬnama 
+flower: eɬnamok	kookes 
+grass: manten	paʔat 
+cord: aɬaataʔaok	taama kyeweyˀ	taamaʔ 
+rope: aɬaataʔaok	taama kyeweyˀ	taamaʔ 
+grease: kraasa	peɬmok	waetke kpeɬmok 
+fingernail: akmopoyˀ eŋephehek 
+leg: eŋyok 
+wing: aɬempankok	aɬempenek 
+gut: eŋye ɬaŋkok	eŋyeʔ 
+guts: eŋye ɬaŋkok	eŋyeʔ 
+insides: eŋye ɬaŋkok	eŋyeʔ 
+intestine: eŋye ɬaŋkok	eŋyeʔ 
+intestines: eŋye ɬaŋkok	eŋyeʔ 
+back: eŋkapok 
+suck: nempetsesma 
+spit: neŋelpatseeykentaʔ 
+vomit: neŋyekɬama 
+blow: aɬkahayaamˀ	neŋwatnapma 
+breath: neŋennamaam 
+breathe: neŋennamaam 
+laugh: neŋekteŋmaykamˀ 
+laughter: neŋekteŋmaykamˀ 
+cogitate: akyetnaykamˀ eŋaʔtek 
+reflect: akyetnaykamˀ eŋaʔtek 
+think: akyetnaykamˀ eŋaʔtek 
+smell: nentekhaneem	neŋleŋayˀ 
+sniff: nentekhaneem	neŋleŋayˀ 
+afraid: neŋayˀ 
+be afraid: neŋayˀ 
+fear: neŋayˀ 
+fright: neŋayˀ 
+alive: eŋhaɬnaŋkooʔ	nenteyaaskamˀ	neŋeleeywaam	neŋma 
+be alive: eŋhaɬnaŋkooʔ	nenteyaaskamˀ	neŋeleeywaam	neŋma 
+life: eŋhaɬnaŋkooʔ	nenteyaaskamˀ	neŋeleeywaam	neŋma 
+live: eŋhaɬnaŋkooʔ	nenteyaaskamˀ	neŋeleeywaam	neŋma 
+living: eŋhaɬnaŋkooʔ	nenteyaaskamˀ	neŋeleeywaam	neŋma 
+fight: neŋelnaapommaɬkaʔ 
+hunt: neŋnempaʔweyaamˀ 
+beat: nentekpoŋaam 
+hit: nentekpoŋaam 
+strike: nentekpoŋaam 
+cut: neŋyemyekhaam 
+hack: neŋyemyekhaam 
+cut open: nempaʔaɬkatma 
+split: nempaʔaɬkatma 
+pierce: neŋeltekɬekɬama	neŋelyepɬaʔɬeem 
+stab: neŋeltekɬekɬama	neŋelyepɬaʔɬeem 
+dig: neŋmetaam 
+tell lies: neŋyemnemkeskama 
+stand: neŋaʔneeykamˀ	neŋenmaykamˀ 
+turn: nempaykeyaamˀ 
+turn around: nempaykeyaamˀ 
+turn round: nempaykeyaamˀ 
+drop: nempalleyaamˀ	nenteeyamˀ 
+fall: nempalleyaamˀ	nenteeyamˀ 
+grasp: neŋmaykamˀ	neŋmaykaok 
+hold: neŋmaykamˀ	neŋmaykaok 
+hold in arm: neŋmaykamˀ	neŋmaykaok 
+squeeze: neŋelyetsamoŋaam 
+wring: neŋelyetsamoŋaam 
+rub: neŋelteɬneeykaok	neŋlaykamˀ 
+wipe: neŋelteɬneeykaok	neŋlaykamˀ 
+wash: neŋyemyeskama 
+wash clothes: neŋyemyeskama 
+push: neŋyeŋaam 
+shove: neŋyeŋaam 
+throw: neŋeɬakhaam	neŋyamasma 
+bind: nempeɬteteem	nenteteem 
+fasten: nempeɬteteem	nenteteem 
+tie: nempeɬteteem	nenteteem 
+tie up: nempeɬteteem	nenteteem 
+sew: neŋelyetnaʔmeeykamˀ	neŋyetnaʔteem 
+count: neŋelyepseteem 
+enumerate: neŋelyepseteem 
+number: neŋelyepseteem 
+tally: neŋelyepseteem 
+sing: neŋmenaekmaskama 
+have fun: neŋnaywoom 
+play: neŋnaywoom 
+float: akpatmeeykamˀ yeŋmen 
+flow: ayenyeem 
+brook: waʔatsamˀ	waʔatsamˀ-aktoŋ 
+river: waʔatsamˀ	waʔatsamˀ-aktoŋ 
+stream: waʔatsamˀ	waʔatsamˀ-aktoŋ 
+lake: awaʔɬok	paŋkaɬwa	saaŋa	waʔatsamˀ-aktoŋ	yaŋkomeɬ 
+ocean: waʔatsamˀ 
+sea: waʔatsamˀ 
+dust: aanek	akpaʔanma 
+fog: teeyamˀ-eeten 
+sky: neeten 
+ice: peyaamˀ appok	yeŋmen appok 
+blaze: akmeesma 
+burn: akmeesma 
+day: aknemˀ 
+daylight: aknemˀ 
+daytime: aknemˀ 
+bad: neŋmasom 
+evil: neŋmasom 
+rot: aktahapma	alkoŋnammaɬkaʔ	altektahapma 
+rotten: aktahapma	alkoŋnammaɬkaʔ	altektahapma 
+dirty: akpaasyaamˀ	haɬ 
+filthy: akpaasyaamˀ	haɬ 
+soiled: akpaasyaamˀ	haɬ 
+straight: akpeywomoo 
+sharp: akma hamtek	akmahamet	was 
+blunt: mepke hamtek 
+smooth: alaʔaɬnayʔo 
+damp: akyeesamoo 
+wet: akyeesamoo 
+correct: akpayheemoo	akpeywomoo 
+right side: akpeywookɬaʔ	aktaʔmelakɬaʔ 
+left: ensaŋkalweʔ 
+in: awaʔɬok	koŋneʔ 
+inside: awaʔɬok	koŋneʔ 
+and: nahan	nataamen nahan	taan nahan 
+if: kataʔmela	katnekɬeheʔ	temeʔ 
+because: ayenyemayˀ	ayenyemʔa 

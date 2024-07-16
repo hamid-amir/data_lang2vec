@@ -1,0 +1,332 @@
+all: kaik 
+every: kaik 
+ash: tuhk 
+ashes: tuhk 
+bark: korʼ 
+abdomen: koht	vac 
+belly: koht	vac 
+big: surʼ 
+bigness: surʼ 
+large: surʼ 
+bird: lind 
+bite: purda 
+black: must 
+blood: Cak	veri	čak 
+bone: lu 
+breast: niZa	niža	rind 
+breasts: niZa	niža	rind 
+cloud: pilvʼ	pilʼv 
+cold: kauged	vilu 
+come: tul	tulda	tuuda 
+come from: tul	tulda	tuuda 
+be dead: kol	kolda	kuuda 
+dead: kol	kolda	kuuda 
+die: kol	kolda	kuuda 
+dog: koir 
+drink: %yo	joda 
+dry: kuiv 
+ear: korv 
+earth: ma 
+ground: ma 
+land: ma 
+soil: ma 
+eat: söda	södä 
+egg: muna 
+eye: siLm	sily~m	silʼm 
+feather: höuneh	suug 
+fire: lEmoi	lämoi 
+fish: kala 
+fly: leta 
+fly v.: leta 
+foot: jaug	joug 
+full: tEuzy~	täuzʼ	täyzʼ 
+give: antta 
+good: hüvä 
+green: vihand 
+hair: hibused	ibus 
+hand: kEzi 
+left hand: kEzi 
+right: kEzi 
+head: pä 
+hear: kul	kulda 
+heart: südäin 
+horn: %sarv	sarv 
+1 sg.: minE	minä 
+I: minE	minä 
+kill: kačustada	rikta 
+knee: komb 
+be knowledgeable: teta 
+know: teta 
+leaf: %letez	lehtez 
+liver: maks 
+long: pitkʼ	pitʼk 
+head louse: täi 
+louse: täi 
+male: mezʼ 
+man: mezy~	mezʼ	rihit	ristit 
+many: äi	äjad 
+much: äi	äjad 
+multiple: äi	äjad 
+several: äi	äjad 
+moon: ku	kudmaine 
+hill: mEgi	mägi 
+mountain: mEgi	mägi 
+mouth: su 
+name: nimi 
+title: nimi 
+neck: kagl 
+new: uzy~	uzʼ 
+nose: nena 
+not: ei 
+adulterous: iksy~	üksʼ	üś 
+one: iksy~	üksʼ	üś 
+single: iksy~	üksʼ	üś 
+that: se 
+the: iksy~	üksʼ	üś 
+unprincipled: iksy~	üksʼ	üś 
+human: mezy~	mezʼ	rihit	ristit 
+human being: mezy~	mezʼ	rihit	ristit 
+person: mezy~	mezʼ	rihit	ristit 
+rain: vihm 
+rainy weather: vihm 
+red: rusked 
+path: te 
+road: te 
+route: te 
+root: jurʼ 
+round: kehker 
+sand: lete 
+say: sanuda 
+see: nEh	nähta 
+seed: semen 
+sit: ištta 
+hide: nahk	nak 
+skin: nahk	nak 
+sleep: magata 
+little: penʼ 
+small: penʼ 
+smallness: penʼ 
+smoke: savu 
+star: tEtaz	tähtaz 
+rock: kivi 
+stone: kivi 
+sun: pEivEine	päiväine 
+swim: ujuda 
+tail: händ 
+this: nece 
+2 sg: sinE	sinä 
+thou: sinE	sinä 
+you: sinE	sinä 
+tongue: keL	kely~	kelʼ 
+tooth: hambaz 
+tree: pu 
+grind: kaks	kaksy~	kaksʼ	kakś 
+two: kaks	kaksy~	kaksʼ	kakś 
+go: kävelta	käveltä 
+walk: kävelta	käveltä 
+hot: läm	lämʼ 
+warm: läm	lämʼ 
+water: vezi 
+1 pl. inc.: me	mii	mö 
+we: me	mii	mö 
+we₁: me	mii	mö 
+what: mi	mida 
+white: vauged 
+whiteness: vauged 
+who: ken 
+who?: ken 
+female: naine 
+woman: naine 
+yellow: pakuine 
+distant: edahaine	edahan 
+far: edahaine	edahan 
+dull: jüged 
+heavy: jüged 
+serious: jüged 
+close: läheline	läz 
+near: läheline	läz 
+ner: läheline	läz 
+salt: sol 
+short: lühüd 
+snake: gad	kü	mado 
+thin: hoik	kürzʼ 
+wind: döl	tullei 
+earthworm: mado	söt	čundč	čunzʼ 
+worm: mado	söt	čundč	čunzʼ 
+year: vozʼ 
+3 sg.: hän 
+he: hän 
+she: hän 
+2 pl.: tii	tö 
+ye: tii	tö 
+you all: tii	tö 
+3 pl.: hii	hö 
+they: hii	hö 
+here: tägou	tägä 
+there: sigau	sigä 
+where: kus	mis	miš 
+where?: kus	mis	miš 
+when: konz 
+when?: konz 
+how: kut	mitʼ 
+how?: kut	mitʼ 
+some: erased	eraz 
+few: vähä	vähän 
+other: toine 
+three: koume	kuume 
+four: nellʼ	nelʼlʼ	nel’l’ 
+five: viž 
+broad: leved 
+wide: leved 
+wideness: leved 
+fat: razv 
+thick: paks	sanged 
+narrow: kaid 
+child: lapsʼ 
+principal wife: ak	murzʼain 
+wife: ak	murzʼain 
+husband: mezʼ	mužik 
+his mother: mam	mamoi 
+mother: mam	mamoi 
+my mother: mam	mamoi 
+father: tat 
+his father: tat 
+my father: tat 
+animal: živat 
+forest: mec 
+woods: mec 
+branch: kalu 
+stick: kalu 
+fruit: plod 
+flower: änik 
+grass: hein 
+cord: nor 
+rope: nor 
+flesh: liha 
+meat: liha 
+grease: razv 
+claw: künzʼ 
+fingernail: künzʼ 
+nail: künzʼ 
+leg: jaug 
+arm: käzi 
+wing: suug 
+gut: soled	solišt 
+guts: soled	solišt 
+insides: soled	solišt 
+intestine: soled	solišt 
+intestines: soled	solišt 
+back: selg	selʼg 
+suck: imeda 
+spit: sülʼkta 
+vomit: okseta 
+blow: puhuda 
+breath: henktä 
+breathe: henktä 
+laugh: nagrda 
+laughter: nagrda 
+cogitate: meletada 
+reflect: meletada 
+think: meletada 
+smell: mujuda 
+sniff: mujuda 
+afraid: varaita 
+be afraid: varaita 
+fear: varaita 
+fright: varaita 
+alive: eläda 
+be alive: eläda 
+life: eläda 
+live: eläda 
+living: eläda 
+fight: torata 
+hunt: mecata 
+beat: iškta	löda 
+hit: iškta	löda 
+strike: iškta	löda 
+cut: leikata	čapta 
+hack: leikata	čapta 
+cut open: haugoida 
+split: haugoida 
+pierce: pututada	čokaita 
+stab: pututada	čokaita 
+scratch: künsta	künstä 
+dig: kaida 
+lie: magata	venuda 
+lie down: magata	venuda 
+tell lies: magata	venuda 
+stand: seišta 
+turn: kärauta	kärouta	käta 
+turn around: kärauta	kärouta	käta 
+turn round: kärauta	kärouta	käta 
+drop: kirbota	langeta 
+fall: kirbota	langeta 
+grasp: pidada 
+hold: pidada 
+hold in arm: pidada 
+squeeze: ahtištada	kingitada 
+wring: ahtištada	kingitada 
+rub: hosta	hostä 
+wipe: pühktä 
+wash: pesta 
+wash clothes: pesta 
+pull: vedada 
+push: žigutada 
+shove: žigutada 
+throw: tacta	tačta	čutta 
+bind: sidoda 
+fasten: sidoda 
+tie: sidoda 
+tie up: sidoda 
+sew: ombelta 
+count: laška	lugeda 
+enumerate: laška	lugeda 
+number: laška	lugeda 
+tally: laška	lugeda 
+sing: laulda	pajatada 
+have fun: väta	vätä 
+play: väta	vätä 
+float: ajelta	souta 
+flow: joksta	valuda 
+freeze: jäduda	külʼmdä 
+swell: turbota 
+brook: jogi 
+river: jogi 
+stream: jogi 
+lake: järv	järvʼ 
+ocean: meri 
+sea: meri 
+dust: pölü 
+fog: savu	sumeg 
+sky: taivaz 
+snow: lumi 
+ice: jä 
+blaze: palada	poltta 
+burn: palada	poltta 
+day: pei	päiv 
+daylight: pei	päiv 
+daytime: pei	päiv 
+old: vanh 
+bad: hond	huba	paha 
+evil: hond	huba	paha 
+rot: hapanu	laho 
+rotten: hapanu	laho 
+dirty: pačakokaz	redukaz 
+filthy: pačakokaz	redukaz 
+soiled: pačakokaz	redukaz 
+straight: oiged 
+sharp: terav 
+blunt: tülc	tülʼc 
+smooth: siled	tazo 
+damp: märg 
+wet: märg 
+correct: oiged 
+right side: oiged 
+left: hura 
+at: -l 
+in: -s 
+inside: -s 
+with: -nke	ühtes 
+and: da	i 
+if: ku 
+because: sikš miše 

@@ -1,0 +1,335 @@
+all: siʼime 
+every: siʼime 
+ash: naposa 
+ashes: naposa 
+bark: beea 
+abdomen: toʼona 
+belly: toʼona 
+big: bweʼu 
+bigness: bweʼu 
+large: bweʼu 
+bird: wiikit 
+bite: keʼe 
+black: chukuli 
+blood: bea	ohbo	ojbo 
+bone: ota 
+breast: pipi	pipim	tauwi 
+breasts: pipi	pipim	tauwi 
+claw: sutum 
+nail: sutum 
+talon: sutum 
+cloud: naamu 
+cold: sebe 
+come: a7abo	a7abo weye	aʼabo weye	weye 
+come from: a7abo	a7abo weye	aʼabo weye	weye 
+be dead: muk	muke	muuke 
+dead: muk	muke	muuke 
+die: muk	muke	muuke 
+dog: Cu7u	chuuʼu 
+drink: bahi7ine	he7e	jeʼe 
+dry: wakia 
+ear: naka	nakam 
+earth: bwia 
+ground: bwia 
+land: bwia 
+soil: bwia 
+eat: bwaʼe	jiʼibwa 
+egg: kabam 
+eye: pusi	pusim	puusim 
+feather: boa 
+fire: tahi	taji 
+fish: kuCu	kuchu 
+fly: neʼe 
+fly v.: neʼe 
+foot: wokim 
+full: tapuni	tapunia 
+give: maka 
+good: tuʼi 
+green: siali 
+hair: choonim 
+hand: mama	mamam 
+left hand: mama	mamam 
+right: mama	mamam 
+head: koba 
+hear: hikaine	hikkaha	jikkaja 
+heart: jiapsi	sula 
+horn: a7a	aawam	awam 
+1 sg.: inepo 
+I: inepo 
+kill: meʼa	sua 
+knee: tono	tonom 
+be knowledgeable: juʼunea 
+know: juʼunea 
+leaf: sa	saawa	sauwa 
+lie: boʼote	toʼote 
+lie down: boʼote	toʼote 
+liver: hema	hemam	jeemam 
+long: teebe 
+head louse: ete 
+louse: ete 
+male: oʼou 
+man: bato7i	batoʼi	yoreme 
+many: ousi 
+much: ousi 
+multiple: ousi 
+several: ousi 
+flesh: tekua	waakas 
+meat: tekua	waakas 
+moon: meecha 
+hill: kawi 
+mountain: kawi 
+mouth: teeni 
+name: tea	team 
+title: tea	team 
+neck: kutanaa 
+new: bemela 
+night: tuka	tukaa	tukaaria	tukaria 
+nighttime: tuka	tukaa	tukaaria	tukaria 
+nose: yeka 
+not: iniʼi 
+adulterous: %uno	senu	sénu	uno	wepulai 
+one: %uno	senu	sénu	uno	wepulai 
+single: %uno	senu	sénu	uno	wepulai 
+that: inimiʼi 
+the: %uno	senu	sénu	uno	wepulai 
+unprincipled: %uno	senu	sénu	uno	wepulai 
+human: bato7i	batoʼi	yoreme 
+human being: bato7i	batoʼi	yoreme 
+person: bato7i	batoʼi	yoreme 
+rain: yuku 
+rainy weather: yuku 
+red: sikili 
+path: bo7o	booʼo 
+road: bo7o	booʼo 
+route: bo7o	booʼo 
+root: naawa 
+round: lobolai 
+sand: seeʼe 
+say: tejwa 
+see: biC	biCa	bicha 
+seed: bachia 
+sit: joote	yejte 
+hide: bea	beea	obo 
+skin: bea	beea	obo 
+sleep: koche 
+little: ilitchi 
+small: ilitchi 
+smallness: ilitchi 
+smoke: bwichia 
+star: Coki	choki 
+rock: teta 
+stone: teta 
+sun: ta7a	taaʼa 
+swim: bajume 
+tail: bwasia 
+this: junuʼu 
+2 sg: empo 
+thou: empo 
+you: empo 
+tongue: nini 
+tooth: tami	tamim 
+tree: %pino	huiya	huya	juya 
+grind: %dos	%los	los ~ dos	woi	woim	wói 
+two: %dos	%los	los ~ dos	woi	woim	wói 
+go: kaate	weye 
+walk: kaate	weye 
+hot: suka	taata 
+warm: suka	taata 
+water: ba7a	ba7am	baʼam 
+1 pl. inc.: itepo 
+we: itepo 
+we₁: itepo 
+what: jita 
+white: tosali 
+whiteness: tosali 
+who: jabesa 
+who?: jabesa 
+female: jamut 
+woman: jamut 
+yellow: sawali 
+distant: mekka 
+far: mekka 
+dull: bette 
+heavy: bette 
+serious: bette 
+close: kaa mekka 
+near: kaa mekka 
+ner: kaa mekka 
+salt: oona 
+short: pochilai 
+snake: baakot	babaʼatukut 
+thin: wakila 
+wind: jeeka 
+earthworm: bwitchia	chumkuria 
+worm: bwitchia	chumkuria 
+year: wasuktia 
+3 sg.: aapo 
+he: aapo 
+she: aapo 
+2 pl.: emeʼe 
+ye: emeʼe 
+you all: emeʼe 
+3 pl.: bempo 
+they: bempo 
+here: junumuʼu 
+there: seenu 
+where: jaksa 
+where?: jaksa 
+when: jakko 
+when?: jakko 
+how: jachinia 
+how?: jachinia 
+some: jita 
+few: iliiki 
+other: seenu 
+three: baji	báhi	tres 
+four: kuatro	naiki	náiki 
+five: mamni	mámni	sinko 
+broad: bweeka 
+wide: bweeka 
+wideness: bweeka 
+fat: awira 
+thick: ousi maachi 
+narrow: naʼulai 
+child: uusi 
+principal wife: jubi 
+wife: jubi 
+husband: kuuna 
+his mother: ae	maala 
+mother: ae	maala 
+my mother: ae	maala 
+father: achai 
+his father: achai 
+my father: achai 
+animal: animaal 
+forest: juya 
+woods: juya 
+branch: buja 
+stick: buja 
+fruit: taakam 
+flower: seewa 
+grass: baso 
+cord: wikia 
+rope: wikia 
+grease: awira 
+fingernail: sutum 
+leg: macham 
+arm: mamam 
+wing: masam 
+gut: siiam 
+guts: siiam 
+insides: siiam 
+intestine: siiam 
+intestines: siiam 
+back: jooʼo 
+suck: cheʼe	chuune 
+spit: chikwatte 
+vomit: bisata 
+blow: pujta	pujte 
+breath: jiabijte	jiabijtei 
+breathe: jiabijte	jiabijtei 
+laugh: aache 
+laughter: aache 
+cogitate: ea 
+reflect: ea 
+think: ea 
+smell: jukta	winjuba 
+sniff: jukta	winjuba 
+afraid: majairi 
+be afraid: majairi 
+fear: majairi 
+fright: majairi 
+alive: jiapsa 
+be alive: jiapsa 
+life: jiapsa 
+live: jiapsa 
+living: jiapsa 
+fight: nassua 
+hunt: aamu 
+beat: beba 
+hit: beba 
+strike: beba 
+cut: chukta 
+hack: chukta 
+cut open: chukta 
+split: chukta 
+pierce: kuchiʼisoa	soa 
+stab: kuchiʼisoa	soa 
+scratch: woʼoke 
+dig: jiʼibweje 
+tell lies: boʼote	kaa lutuʼuriata nooka	toʼote 
+stand: japte	kikte 
+turn: kuakta 
+turn around: kuakta 
+turn round: kuakta 
+drop: kom weche 
+fall: kom weche 
+grasp: bwisi	jippue	machuʼute 
+hold: bwisi	jippue	machuʼute 
+hold in arm: bwisi	jippue	machuʼute 
+squeeze: piike 
+wring: piike 
+rub: ruuse 
+wipe: ruuse 
+wash: baksia 
+wash clothes: baksia 
+pull: wike 
+push: yuʼa 
+shove: yuʼa 
+throw: jimaa 
+bind: suma 
+fasten: suma 
+tie: suma 
+tie up: suma 
+sew: jiʼika 
+count: jinaʼikia 
+enumerate: jinaʼikia 
+number: jinaʼikia 
+tally: jinaʼikia 
+sing: bwiika 
+have fun: yeewe 
+play: yeewe 
+float: baʼapo chaʼasisime 
+flow: bwite 
+freeze: sapa weche 
+swell: bajila 
+brook: batwe	jakia 
+river: batwe	jakia 
+stream: batwe	jakia 
+lake: baubaʼa 
+ocean: baawe 
+sea: baawe 
+dust: toochia 
+fog: bajewa 
+sky: teeka 
+snow: sapam 
+ice: sapam 
+blaze: beete	taya 
+burn: beete	taya 
+day: taewai 
+daylight: taewai 
+daytime: taewai 
+old: oʼora 
+bad: kaa tuʼi 
+evil: kaa tuʼi 
+rot: bikala 
+rotten: bikala 
+dirty: jaiti maachi 
+filthy: jaiti maachi 
+soiled: jaiti maachi 
+straight: lutulai 
+sharp: bwaawi 
+blunt: rumui 
+smooth: chitabetalai 
+damp: baʼari 
+wet: baʼari 
+correct: tua	tuʼi 
+right side: batam 
+left: mikkoʼim 
+at: -chi	-po 
+in: -po	wajiwa 
+inside: -po	wajiwa 
+with: naabujtia 
+and: into 
+if: -ko 
+because: bweʼituk 

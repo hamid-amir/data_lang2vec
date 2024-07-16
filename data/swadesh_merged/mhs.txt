@@ -1,0 +1,310 @@
+all: hansiak | sepu 
+and: tu 
+animal: [heiwan-e] 
+ashes: ogo tai-n | l|afu 
+back: kaku-n | kakon	mori 
+bad: boho 
+bark: kau oko-n 
+because: tu 
+belly: fuka-n | fukan 
+bird: manu-t | manut 
+bite: hada 
+black: mite-t | mede	mite 
+blood: raha-n | bahagen	rahan 
+blow: opi 
+bone: rohi-n | rohin 
+breast: soso-n | soso	soson 
+breathe: ahe-n | hesa ahen	mahek 
+burn: pefa 
+child: ana-t 
+cloud: loko-n | lokon 
+cold: b-ridi-n | b|ridi 
+come: mai | kadak	kaduk	suba 
+correct: beta 
+count: hae-k | hack 
+cut: lata | lata	tete 
+die: mata 
+dig: kali 
+dirty: mite-t | daraki	eʔmitek 
+dog: asu 
+drink: ino | ino	inu 
+dry: maŋi 
+dull: dodo-t | beha | da-modok 
+dust: kahi-t | lafu 
+ear: etliŋa-n | etliNan	eʔliŋan 
+earth: rahe 
+egg: telu-n | telun 
+empty: fuu-n 
+eye: rama-n | raman 
+fall: paʔu | moho 
+far: b-rema-n | breman 
+father: ama 
+fat (n.): miηa-η 
+fear: em-tako | bate	em tako	posboti 
+few: ro-roi-n 
+fingernail: kuku 
+fire: bana | bana	gemat 
+fish: ika | ika	ikau 
+five: lima 
+float: edhama 
+flower: sawe-n | tutun 
+flow: mano | -mano 
+fly (v.): laba-k 
+fog: dimu 
+foot: kada-n 
+forest: mua 
+four: paa | pa:	paʔ 
+frog: dole 
+fruit: fua-n | fuan 
+full: tau-n | taun 
+give: tuke 
+good: gosa 
+grass: mehe-t | mehet 
+green: mua-t | biro 
+guts: fuka-n wahe-n | fukan wahen 
+hair: olo-n folo-n | olon folon 
+hand: faha-n | fahan 
+head: olo-n | olon 
+hear: čaa-n | Can	p|reŋe	čan 
+heart: poso-n fua-n 
+heavy: beha 
+he: rine 
+hit: paha | luba	paha 
+horn: sodi-n | sodin 
+how: gam doo | gamdó 
+hunt: hama | irohi	pahagaʔ 
+husband: geb-haa | geb ha: 
+if: eta | bam 
+in: lale-n | da-lale 
+I: yako 
+kill: ep-mata | eʔmata 
+knee: enolo-n | enolon 
+know: tewa 
+lake: tifu | duleʔ	rana 
+large: haa-t | ha:t 
+laugh: mali 
+leaf: omo-n | omon 
+left: kaha-nbali | eʔbali 
+leg: kada-n 
+lie: naŋa-peʔu-k | bage boana 
+live: newe | mewe 
+liver: nena-n | lalen	nenan 
+long: rema-t | remat 
+louse: koto 
+man: ana-mhana | geba 
+many: edeme-n 
+meat: isi-n | isin 
+moon: fula-n | fulan 
+mother: ina 
+mountain: fuka 
+mouth: fifi-n | fifin 
+name: ŋaa-n | Nan	ŋa:n 
+narrow: es-ŋapi | samehe 
+near: b-raŋi-n | braŋin 
+neck: wadu-n | wadon 
+new: fehu-t | fehu	fehut 
+night: beto-n | beto	beton 
+nose: ŋre-n | Nen	ŋe:n 
+old: em-keda 
+one: em-sia-n | emsian	msian	sa 
+person: geba 
+play: midi 
+pull: hesa-k 
+push: tobe 
+rain: deka-t | dekat 
+red: miha-t | mena 
+right: kaha-n wana | fahan | eʔwana 
+river: wae 
+road: toho-n | tohon 
+root: lahi-n | lahin semun 
+rope: wahe-t | wihit 
+rotten: mefu-n | bonon 
+round: rm-loli 
+rub: isa 
+salt: sasi 
+sand: ena 
+say: prepa | eprepa | ena 
+sea: masi 
+seed: kiha-n 
+sew: sau 
+sharp: em-tae | da-mtae 
+short: ture-n | turen 
+sing: wene 
+sit: eptea 
+skin: oko-n | kolin	okon 
+sky: laŋi-t | laŋit 
+sleep: bage 
+small: roi-n | noi 
+smell: mai-k | mumuk	m|aek 
+smoke: bana fene-n | gema fenen 
+smooth: em-ribe 
+snake: i-nеwе-t | inewen 
+some: ro-roi-n 
+spit: stuha | ethufa	stuha 
+split: sila | faka	fola 
+stab: seka 
+stand: kere-k | kerek 
+star: tolo-t | tolot 
+stick: tabu | lawan 
+suck: rapu | doso	hisak	mupu	mupuk	napu	opi	soso 
+sun: lea 
+tail: iku-n | ikun 
+they: sira 
+thick: ef-telo | -ftelo 
+thin: em-nipi | -mnipi 
+think: nanu-k | eʔhanuk	odo 
+thou: kae 
+thou: kimi | kae 
+three: telo 
+throw: spele | fage 
+tie: hapu 
+tongue: maa-n | ma:n	man 
+tree: lahi-n | lahin 
+turn: polo duwe 
+two: rua 
+vomit: muta 
+warm: poto-t | poton 
+we: ma | kami	kita 
+wet: wae-t | mrot 
+what: sapa-n | sapan 
+when: pila saa | beton|pila 
+which: teni-k 
+white: boti-t 
+who: sane 
+why: em-kua 
+wide: haa-t | belen 
+wife: fin-haa | fin ha: 
+wind: moda | aŋin	kahut 
+wing: pani-n | panin 
+woman: ana-fina | ana fina 
+worm: kalati-k | labi 
+wrong: sala 
+year: musu-n | musun	ŋahet 
+yellow: koni-t | komi 
+every: sepu 
+ash: l|afu 
+abdomen: fukan 
+big: ha:t 
+bigness: ha:t 
+breasts: soso	soson 
+burn tr.: pefa 
+come from: kadak	kaduk	suba 
+be dead: mata 
+dead: mata 
+eat: ka 
+feather: folon 
+fly: labak	loi	sobak 
+fly v.: labak	loi	sobak 
+left hand: fahan 
+1 sg.: yako 
+be knowledgeable: tewa 
+lie down: bage boana 
+head louse: koto 
+male: ana mhana 
+hill: fuka 
+title: Nan	ŋa:n 
+nighttime: beto	beton 
+adulterous: emsian	msian	sa 
+single: emsian	msian	sa 
+that: hadi 
+the: emsian	msian	sa 
+unprincipled: emsian	msian	sa 
+human: geba 
+human being: geba 
+rainy weather: dekat 
+path: tohon 
+route: tohon 
+see: aŋak	bafak	kita	touk 
+sit: ptea 
+hide: kolin	okon 
+little: noi 
+smallness: noi 
+rock: fatu 
+stone: fatu 
+swim: hiwi	naŋo	uka 
+this: hana 
+2 sg: kae 
+you: kae 
+tooth: Nisin	ŋisin 
+grind: rua 
+go: iko 
+walk: iko 
+hot: poton 
+water: wae 
+1 pl. inc.: kami	kita 
+we₁: kami	kita 
+white: boti 
+whiteness: boti 
+who?: sane 
+female: ana fina 
+distant: breman 
+serious: beha 
+close: braŋin 
+ner: braŋin 
+earthworm: labi 
+2 pl.: kimi 
+ye: kimi 
+you all: kimi 
+3 pl.: sira 
+where: fidó 
+where?: fidó 
+when?: beton|pila 
+how?: gamdó 
+other: megek 
+broad: belen 
+wideness: belen 
+fat: mima 
+principal wife: fin ha: 
+his mother: ina 
+my mother: ina 
+his father: ama 
+my father: ama 
+woods: mua 
+branch: lawan 
+cord: wihit 
+flesh: isin 
+grease: mima 
+gut: fukan wahen 
+insides: fukan wahen 
+intestine: fukan wahen 
+intestines: fukan wahen 
+breath: hesa ahen	mahek 
+laughter: mali 
+cogitate: eʔhanuk	odo 
+reflect: eʔhanuk	odo 
+sniff: mumuk	m|aek 
+afraid: bate	em tako	posboti 
+be afraid: bate	em tako	posboti 
+fright: bate	em tako	posboti 
+alive: mewe 
+be alive: mewe 
+life: mewe 
+living: mewe 
+beat: luba	paha 
+strike: luba	paha 
+hack: lata	tete 
+cut open: faka	fola 
+pierce: seka 
+scratch: fgogi 
+drop: moho 
+grasp: gau	pese 
+hold: gau	pese 
+hold in arm: gau	pese 
+squeeze: skapi 
+wring: skapi 
+bind: hapu 
+fasten: hapu 
+tie up: hapu 
+enumerate: hack 
+number: hack 
+tally: hack 
+ocean: masi 
+evil: boho 
+rot: bonon 
+filthy: daraki	eʔmitek 
+soiled: daraki	eʔmitek 
+blunt: da-modok 
+damp: mrot 
+right side: eʔwana 
+at: di 
+inside: da-lale 

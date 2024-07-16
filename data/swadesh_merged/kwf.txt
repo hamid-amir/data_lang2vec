@@ -1,0 +1,263 @@
+all: taʼifau 
+every: taʼifau 
+ash: fuʼafuʼa 
+ashes: fuʼafuʼa 
+abdomen: oga	sira 
+belly: oga	sira 
+big: doe 
+bigness: doe 
+large: doe 
+bird: manu	noʼo 
+bite: ʼala 
+black: gwa 
+blood: abu	ʼabu 
+bone: suli 
+breast: susu 
+breasts: susu 
+burn: doʼofi 
+burn tr.: doʼofi 
+cloud: gwaʼi salo 
+cold: gwari 
+come: leka ma7i	leka maʼi 
+come from: leka ma7i	leka maʼi 
+be dead: mae 
+dead: mae 
+die: mae 
+dog: kui 
+drink: kwaʼu	kw~a7u 
+dry: langalanga	ʼekeʼeke 
+ear: aliNa	alinga 
+eat: fanga	ʼani 
+egg: fakala 
+eye: ma	mā 
+feather: ifu 
+fire: mafula 
+fish: i7a	iʼa 
+fly: lofo 
+fly v.: lofo 
+good: leʼa 
+green: marako 
+hair: ifu 
+hand: lima 
+left hand: lima 
+right: lima 
+head: gwan 
+hear: roNo	rongo 
+1 sg.: nau 
+I: nau 
+kill: saungi 
+be knowledgeable: sai 
+know: sai 
+leaf: rau 
+lie: teo 
+lie down: teo 
+liver: sa7e fou	saʼe fou 
+long: keta 
+male: ngwangwane 
+man: Nw~ae	ngwae 
+moon: madama 
+mouth: kwaka 
+name: sata 
+title: sata 
+neck: lua 
+new: faolo	faulu 
+night: rodo 
+nighttime: rodo 
+nose: raka 
+adulterous: eta	ɛat 
+one: eta	ɛat 
+single: eta	ɛat 
+that: nena 
+the: eta	ɛat 
+unprincipled: eta	ɛat 
+human: Nw~ae	ngwae 
+human being: Nw~ae	ngwae 
+person: Nw~ae	ngwae 
+rain: uta 
+rainy weather: uta 
+red: meo 
+path: tala 
+road: tala 
+route: tala 
+root: lali 
+sand: one 
+say: sae 
+see: lisi 
+sit: tua 
+hide: uli7uli	ʼuliʼuli 
+skin: uli7uli	ʼuliʼuli 
+sleep: maliu	moʼosu 
+little: teʼeteʼe	tiʼitiʼi 
+small: teʼeteʼe	tiʼitiʼi 
+smallness: teʼeteʼe	tiʼitiʼi 
+smoke: sasu 
+star: bulubulu 
+rock: fau 
+stone: fau 
+swim: ʼaru 
+tail: kuʼikuʼi 
+this: neʼe	nini 
+2 sg: oe 
+thou: oe 
+you: oe 
+tongue: mea 
+tooth: lifa 
+grind: rua 
+two: rua 
+go: fali 
+walk: fali 
+hot: ʼakoʼako 
+warm: ʼakoʼako 
+water: kafo 
+1 pl. inc.: kaimili	kami	kia	kulu 
+we: kaimili	kami	kia	kulu 
+we₁: kaimili	kami	kia	kulu 
+what: tae 
+white: kakasinatoʼa	kwao 
+whiteness: kakasinatoʼa	kwao 
+who: tai 
+who?: tai 
+female: kini 
+woman: kini 
+yellow: sasakoʼa 
+distant: tau 
+far: tau 
+dull: kulu 
+heavy: kulu 
+serious: kulu 
+close: karangi 
+near: karangi 
+ner: karangi 
+salt: asila 
+short: dokodoko 
+snake: loi 
+thin: tiʼitiʼi 
+wind: ara	iru 
+earthworm: ngwangwa 
+worm: ngwangwa 
+year: falisi	faʼingali 
+2 pl.: kaumulu 
+ye: kaumulu 
+you all: kaumulu 
+3 pl.: kira 
+they: kira 
+where: [ʼi]faʼi 
+where?: [ʼi]faʼi 
+when: angita 
+when?: angita 
+how: faʼuta 
+how?: faʼuta 
+three: al	ulu 
+four: fai	hai 
+five: liam	lima 
+broad: reba 
+wide: reba 
+wideness: reba 
+fat: ofomā 
+thick: babuʼula 
+narrow: susu 
+principal wife: ʼafe 
+wife: ʼafe 
+husband: araʼi 
+his mother: teʼa 
+mother: teʼa 
+my mother: teʼa 
+father: maʼa 
+his father: maʼa 
+my father: maʼa 
+forest: masuʼu	masuʼua 
+woods: masuʼu	masuʼua 
+branch: rara 
+stick: rara 
+fruit: faʼi 
+flower: taka[ʼai] 
+grass: laua 
+cord: ʼaba kwalo 
+rope: ʼaba kwalo 
+flesh: fasi 
+meat: fasi 
+grease: ofomā 
+wing: ʼabaʼ aba 
+gut: oga karefo 
+guts: oga karefo 
+insides: oga karefo 
+intestine: oga karefo 
+intestines: oga karefo 
+back: ili 
+suck: loto 
+spit: ngisu 
+vomit: moa 
+blow: liu	ufi 
+breath: mango 
+breathe: mango 
+laugh: gaʼa 
+laughter: gaʼa 
+cogitate: manata 
+reflect: manata 
+think: manata 
+smell: moko 
+sniff: moko 
+afraid: maʼu 
+be afraid: maʼu 
+fear: maʼu 
+fright: maʼu 
+alive: mauri 
+be alive: mauri 
+life: mauri 
+live: mauri 
+living: mauri 
+hunt: ruʼu 
+beat: kwaʼi 
+hit: kwaʼi 
+strike: kwaʼi 
+cut: lae 
+hack: lae 
+cut open: kakasi- 
+split: kakasi- 
+pierce: kumu 
+stab: kumu 
+scratch: kame 
+dig: ʼili 
+stand: tataʼe	ū 
+drop: ʼasi 
+fall: ʼasi 
+grasp: dau 
+hold: dau 
+hold in arm: dau 
+squeeze: fele 
+wring: fele 
+throw: ʼui 
+bind: firi 
+fasten: firi 
+tie: firi 
+tie up: firi 
+sew: tai 
+count: toʼomani 
+enumerate: toʼomani 
+number: toʼomani 
+tally: toʼomani 
+flow: afe 
+lake: ʼosi 
+ocean: asi 
+sea: asi 
+dust: fulafula 
+fog: gafu 
+sky: salo 
+bad: taʼa 
+evil: taʼa 
+rot: ngwaʼa 
+rotten: ngwaʼa 
+dirty: biliʼa 
+filthy: biliʼa 
+soiled: biliʼa 
+sharp: toʼo 
+blunt: fufu 
+damp: isila 
+wet: isila 
+right side: oʼolo 
+left: mauli 
+at: a- 
+in: sae- 
+inside: sae- 
+and: ma 
+if: diʼia 

@@ -1,0 +1,444 @@
+all: ne\eye | neinana	nɛʔɛyɛ 
+all: nɛʔɛyɛ | neinana	nɛʔɛyɛ 
+all: neinana | neinana	nɛʔɛyɛ 
+and: yobu 
+arm: neme 
+arm: nɛmɛ 
+arrow: so͂ 
+ashes: sia dzhu\u | sia ǯuʔu	sidai 
+ashes: sia ǯuʔu | sia ǯuʔu	sidai 
+ashes: sidai | sia ǯuʔu	sidai 
+back: bolu 
+bad: mɛːdi 
+bad: meedi 
+bark: i he\e | in hə̃ĩ	ĩ hɛ̃ʔɛ̃ 
+bark: i͂ hɛ͂ʔɛ͂ | in hə̃ĩ	ĩ hɛ̃ʔɛ̃ 
+bark: in hë.i. | in hə̃ĩ	ĩ hɛ̃ʔɛ̃ 
+bark: in hə͂i͂ | in hə̃ĩ	ĩ hɛ̃ʔɛ̃ 
+belly: siwo | siwo	souma 
+belly: souma | siwo	souma 
+big: hoi. | hoĩ	sai hoite 
+big: hoi͂ | hoĩ	sai hoite 
+big: hoi-te | hoĩ	sai hoite 
+big: sai hoite | hoĩ	sai hoite 
+bird: der | der	ge 
+bird: ge | der	ge 
+bite: dzho waiye | yawasũ	ǯo waiyɛ 
+bite: yawasu. | yawasũ	ǯo waiyɛ 
+bite: yawasu͂ | yawasũ	ǯo waiyɛ 
+bite: ǯo waiyɛ | yawasũ	ǯo waiyɛ 
+black: ëpu-me | obu	ʌpume 
+black: obu | obu	ʌpume 
+black: ʌpume | obu	ʌpume 
+blood: seni | sani	su*	sũ	sɛni 
+blood: sɛni | sani	su*	sũ	sɛni 
+blood: su | sani	su*	sũ	sɛni 
+blood: su͂ | sani	su*	sũ	sɛni 
+blow: hori-su.e 
+blow: horisu͂ɛ 
+bone: dzheme | Zama	yami	yɛmi	ǯɛmɛ 
+bone: yemi | Zama	yami	yɛmi	ǯɛmɛ 
+bone: yɛmi | Zama	yami	yɛmi	ǯɛmɛ 
+bone: ǯɛmɛ | Zama	yami	yɛmi	ǯɛmɛ 
+boy: pe 
+boy: pɛ 
+boy: peo 
+breast: emi | ami	ɛmi 
+breast: ɛmi | ami	ɛmi 
+brother: mau 
+burn: homunai 
+burn: iriasu. 
+burn: iriasu͂ 
+butterfly: tua 
+claw: mauneme | mauneme	ogu 
+claw: ogu | mauneme	ogu 
+cloud: hali | hali	sura 
+cloud: sura | hali	sura 
+cold: nemi | nimi	nɛmi 
+cold: nɛmi | nimi	nɛmi 
+cold: nimi | nimi	nɛmi 
+come: nauwe | nauwa*	nauwẽ	perasu 
+come: nauwe͂ | nauwa*	nauwẽ	perasu 
+come: perasu | nauwa*	nauwẽ	perasu 
+cut: ona-su.e 
+cut: onasu͂ɛ 
+dance: tiabi-su.e 
+day: hepeta͂u 
+day: olsu͂ɛ 
+die: orasu | ora*we	orasu	ɔrãwe 
+die: orawe | ora*we	orasu	ɔrãwe 
+die: ɔra͂we | ora*we	orasu	ɔrãwe 
+dirty: pu. 
+dirty: pu͂ 
+dog: ha͂ | ha*	hã	hɛ̃ 
+dog: hã | ha*	hã	hɛ̃ 
+dog: he | ha*	hã	hɛ̃ 
+dog: hɛ͂ | ha*	hã	hɛ̃ 
+drink: eye | a*ya	hatisu*	hatisũ	ɛ̃yɛ 
+drink: ɛ͂yɛ | a*ya	hatisu*	hatisũ	ɛ̃yɛ 
+drink: hatisu. | a*ya	hatisu*	hatisũ	ɛ̃yɛ 
+drink: hatisu͂ | a*ya	hatisu*	hatisũ	ɛ̃yɛ 
+dry: sarasu. | sarasũ	si ariye 
+dry: sarasu͂ | sarasũ	si ariye 
+dry: si ariye | sarasũ	si ariye 
+ear: ne͂ʲ | na*i	na*y	nɛ̃i	nẽⁱ 
+ear: nei | na*i	na*y	nɛ̃i	nẽⁱ 
+ear: ne.i | na*i	na*y	nɛ̃i	nẽⁱ 
+ear: nɛ͂i | na*i	na*y	nɛ̃i	nẽⁱ 
+earth: so | soʔo 
+earth: so\o | soʔo 
+earth: soʔo 
+eat: hatisu.e | hatisũɛ	ti haʔayɛ 
+eat: hatisu͂ɛ | hatisũɛ	ti haʔayɛ 
+eat: ti ha\aye | hatisũɛ	ti haʔayɛ 
+eat: ti haʔayɛ | hatisũɛ	ti haʔayɛ 
+egg: ge dzhu | yo	ǯuri 
+egg: yo | yo	ǯuri 
+egg: ǯuri | yo	ǯuri 
+eye: to | to	tow~	toᵘ 
+eye: toʷ | to	tow~	toᵘ 
+eye: tou | to	tow~	toᵘ 
+father: abu 
+father: àpú 
+fat (n.): ora 
+fear: yasue 
+fear: yasuɛ 
+feather: ge | ge	yuli 
+feather: ge dzhuri | ge	yuli 
+feather: yuli | ge	yuli 
+fingernail: kebid 
+fingernail: kɛbid 
+finger: wid 
+fire: sia 
+fish: ge ǯu | ge Zu	ge ǯu	wari 
+fish: sai | ge Zu	ge ǯu	wari 
+fish: wari | ge Zu	ge ǯu	wari 
+fly (v.): aenenasu.e 
+fly (v.): aɛnɛnasu͂ɛ 
+fly (v.): ke nouwe 
+foot: he. | hɛ̃ 
+foot: hɛ͂ | hɛ̃ 
+forest: olido 
+fruit: ɛgia 
+full: ho.ia-su.e | ho*iasu*a	hu ma*7a*ya*o*we	hu mɛ̃ʔɛ̃yãõwe	hõiasũɛ 
+full: ho͂iasu͂ɛ | ho*iasu*a	hu ma*7a*ya*o*we	hu mɛ̃ʔɛ̃yãõwe	hõiasũɛ 
+full: hu me\eyaowe | ho*iasu*a	hu ma*7a*ya*o*we	hu mɛ̃ʔɛ̃yãõwe	hõiasũɛ 
+full: hu mɛ͂ʔɛ͂ya͂o͂we | ho*iasu*a	hu ma*7a*ya*o*we	hu mɛ̃ʔɛ̃yãõwe	hõiasũɛ 
+full: yau | ho*iasu*a	hu ma*7a*ya*o*we	hu mɛ̃ʔɛ̃yãõwe	hõiasũɛ 
+girl: oi 
+girl: òìmúl 
+give: imasu.e | imasũɛ	ipoiyɛ 
+give: imasu͂ɛ | imasũɛ	ipoiyɛ 
+give: ipoie | imasũɛ	ipoiyɛ 
+give: ipoiyɛ | imasũɛ	ipoiyɛ 
+good: me adi | me adi	moi 
+good: moi | me adi	moi 
+grass: mou 
+green: gue | gue	si ebime 
+green: si ebime | gue	si ebime 
+hair: muse | muse	sĩ 
+hair: mu-se | muse	sĩ 
+hair: si. | muse	sĩ 
+hair: si͂ | muse	sĩ 
+hand: nemi | nami	nɛmi 
+hand: nɛmi | nami	nɛmi 
+head: mu 
+hear: nei herawe | na*i* herowe	nai hetisu*a	nɛi hetisũɛ	nẽĩ herowe 
+hear: ne͂i͂ herowe | na*i* herowe	nai hetisu*a	nɛi hetisũɛ	nẽĩ herowe 
+hear: nei hetisu.e | na*i* herowe	nai hetisu*a	nɛi hetisũɛ	nẽĩ herowe 
+hear: nɛi hetisu͂ɛ | na*i* herowe	nai hetisu*a	nɛi hetisũɛ	nẽĩ herowe 
+heart: meabor | me apo	mɛtabor 
+heart: me apo | me apo	mɛtabor 
+heart: méàpól | me apo	mɛtabor 
+heart: mɛtabor | me apo	mɛtabor 
+heavy: nemi 
+here: eni 
+here: ɛni 
+he/she: a 
+hit: nawa-su.e 
+hit: nawasu͂ɛ 
+hole: hu. 
+hole: hu͂ 
+horn: mekapo 
+house: hapol 
+I: ana | ana	ane 
+I: ane | ana	ane 
+in: oli 
+kill: dzhal anawawe | nawaisũe	ǯa anawawe 
+kill: nawaisu.e | nawaisũe	ǯa anawawe 
+kill: nawaisu͂e | nawaisũe	ǯa anawawe 
+kill: ǯa anawawe | nawaisũe	ǯa anawawe 
+knee: obu | obu	opo 
+knee: opo | obu	opo 
+know: ho aiye | ho õĩyẽ	horanasũɛ 
+know: ho o͂i͂ye͂ | ho õĩyẽ	horanasũɛ 
+know: horanasu.e | ho õĩyẽ	horanasũɛ 
+know: horanasu͂ɛ | ho õĩyẽ	horanasũɛ 
+leaf: i nesi | i* nesi	si*	sĩ	ĩ nesi 
+leaf: i͂ nesi | i* nesi	si*	sĩ	ĩ nesi 
+leaf: si. | i* nesi	si*	sĩ	ĩ nesi 
+leaf: si͂ | i* nesi	si*	sĩ	ĩ nesi 
+leg: he. 
+leg: hɛ͂ 
+leg: si\i 
+leg: si͂ʔi͂ 
+lie: aiye | soʔo roʔiye aiye 
+lie: so\o ro\iye | soʔo roʔiye aiye 
+lie: soʔo roʔiye aiye 
+lie: yanbiasu.e | soʔo roʔiye aiye 
+lie: yanbiasu͂ɛ | soʔo roʔiye aiye 
+liver: senai | sena*i	senãi	su 
+liver: sena͂i | sena*i	senãi	su 
+liver: su | sena*i	senãi	su 
+long: esaoi | esaoi	ioi 
+long: ioi | esaoi	ioi 
+louse: po | po	por 
+louse: por | po	por 
+man: dzhë\ | Za7ara	toi	ǯaʔara 
+man: yala | Za7ara	toi	ǯaʔara 
+many: hoiteye | hoiteyɛ	howodie 
+many: hoiteyɛ | hoiteyɛ	howodie 
+many: howodie | hoiteyɛ	howodie 
+man: ǯʌʔala | Za7ara	toi	ǯaʔara 
+meat: mi 
+meat: na\are | mi 
+meat: naʔarɛ | mi 
+moon: we | we	wɛ 
+moon: wɛ | we	wɛ 
+morning: enau 
+morning: ɛnau 
+mother: ena 
+mother: ɛna mam 
+mountain: so\o po\odu | so7o po7odu	soso	soʔo poʔodu 
+mountain: soʔo poʔodu | so7o po7odu	soso	soʔo poʔodu 
+mountain: soso | so7o po7odu	soso	soʔo poʔodu 
+mouth: me | mɛnɛĩ	mɛ̃ 
+mouth: mɛ͂ | mɛnɛĩ	mɛ̃ 
+mouth: menei. | mɛnɛĩ	mɛ̃ 
+mouth: mɛnɛi͂ | mɛnɛĩ	mɛ̃ 
+name: he\epi | ha7epi	hopi	hɛʔepi 
+name: hɛʔepi | ha7epi	hopi	hɛʔepi 
+name: hopi | ha7epi	hopi	hɛʔepi 
+near: hu.enu | hũɛnu 
+near: hu͂ɛnu | hũɛnu 
+neck: bo\a | bõʔã	pũa 
+neck: bo͂ʔa͂ | bõʔã	pũa 
+neck: pu.a | bõʔã	pũa 
+neck: pu͂a | bõʔã	pũa 
+new: dzhe\e | Za7a	ya	yɛ	ǯɛʔɛ 
+new: ye | Za7a	ya	yɛ	ǯɛʔɛ 
+new: yɛ | Za7a	ya	yɛ	ǯɛʔɛ 
+new: ǯɛʔɛ | Za7a	ya	yɛ	ǯɛʔɛ 
+night: si\ino | si7ino	siʔino	yuno 
+night: siʔino | si7ino	siʔino	yuno 
+night: yuno | si7ino	siʔino	yuno 
+nose: ho | ho	hõ 
+nose: ho. | ho	hõ 
+not: o\o | oʔo	sɛ 
+not: oʔo | oʔo	sɛ 
+not: se | oʔo	sɛ 
+not: sɛ | oʔo	sɛ 
+old: nenau 
+old: sa.u 
+old: sa͂u 
+one: pe\emi | pa7ami	pomi	pɛʔɛmi 
+one: pɛʔɛmi | pa7ami	pomi	pɛʔɛmi 
+one: pomi | pa7ami	pomi	pɛʔɛmi 
+one: pó.mì | pa7ami	pomi	pɛʔɛmi 
+person: dzha\ara | Za7ara	toi	ǯaʔara 
+person: toi | Za7ara	toi	ǯaʔara 
+person: ǯaʔara | Za7ara	toi	ǯaʔara 
+rain: dzha | yama	ǯa 
+rain: yama | yama	ǯa 
+rain: ǯa | yama	ǯa 
+rat: pai 
+red: sene adi | sene adi	sia 
+red: sia | sene adi	sia 
+ripe: apolo 
+road: su. | su*	su* baiamo 
+road: su͂ | su*	su* baiamo 
+road: su baiamo | su*	su* baiamo 
+road: su͂ baiamo | su*	su* baiamo 
+root: i so\oyu | peradiɛ	ĩ soʔoyu 
+root: i͂ soʔoyu | peradiɛ	ĩ soʔoyu 
+root: peradie | peradiɛ	ĩ soʔoyu 
+root: peradiɛ | peradiɛ	ĩ soʔoyu 
+rope: iboi 
+rope: ibol 
+rope: sin 
+round: sube\eri | subɛʔɛri	tari 
+round: subɛʔɛri | subɛʔɛri	tari 
+round: tari | subɛʔɛri	tari 
+sand: soadu | soadu	suaru 
+sand: suaru | soadu	suaru 
+say: hi enuwe | hũɛsũɛ 
+say: hi enuwɛ | hũɛsũɛ 
+say: hu.e | hũɛsũɛ 
+say: hu͂ɛ | hũɛsũɛ 
+say: hu.esu.e | hũɛsũɛ 
+say: hu͂ɛsu͂ɛ | hũɛsũɛ 
+seed: bopeni | bopɛni	yo 
+seed: bopɛni | bopɛni	yo 
+seed: egia | bopɛni	yo 
+seed: yo | bopɛni	yo 
+see: herowe | hatisu*a	herowa	herowɛ	hɛtisũɛ 
+see: herowɛ | hatisu*a	herowa	herowɛ	hɛtisũɛ 
+see: hetisu.e | hatisu*a	herowa	herowɛ	hɛtisũɛ 
+see: hɛtisu͂ɛ | hatisu*a	herowa	herowɛ	hɛtisũɛ 
+sister: mauwa 
+sit: ewa aiye | ɛwa aiye	ɛwɛnasũɛ 
+sit: ɛwa aiye | ɛwa aiye	ɛwɛnasũɛ 
+sit: ewenasu.e | ɛwa aiye	ɛwɛnasũɛ 
+sit: ɛwɛnasu͂ɛ | ɛwa aiye	ɛwɛnasũɛ 
+skin: he\e | ha7a*	hai*	hɛĩ	hɛʔẽ 
+skin: hɛʔe͂ | ha7a*	hai*	hɛĩ	hɛʔẽ 
+skin: hei\ | ha7a*	hai*	hɛĩ	hɛʔẽ 
+skin: hɛi͂ | ha7a*	hai*	hɛĩ	hɛʔẽ 
+skin: ìáìè | ha7a*	hai*	hɛĩ	hɛʔẽ 
+sleep: dzhe\i aiye | oyetisũɛ	ǯɛʔi aiye 
+sleep: oyetisu.e | oyetisũɛ	ǯɛʔi aiye 
+sleep: oyetisu͂ɛ | oyetisũɛ	ǯɛʔi aiye 
+sleep: ǯɛʔi aiye | oyetisũɛ	ǯɛʔi aiye 
+small: baiamo | baiamo	homi 
+small: homi | baiamo	homi 
+smoke: sopo | sopo	yũ 
+smoke: yu. | sopo	yũ 
+smoke: yu͂ | sopo	yũ 
+snake: o 
+snake: ó.à 
+split: pobali 
+stand: eya aiye 
+stand: ɛya aiye 
+stand: yanbiasu.e 
+stand: yanbiasu͂ɛ 
+star: në\u | no7u	nou*	noũ	nʌʔu 
+star: nou. | no7u	nou*	noũ	nʌʔu 
+star: nou͂ | no7u	nou*	noũ	nʌʔu 
+star: nʌʔu | no7u	nou*	noũ	nʌʔu 
+stone: tobu | tobu	topu 
+stone: topu | tobu	topu 
+sun: o͂i | o*i	sia	õi 
+sun: o.l | o*i	sia	õi 
+sun: ol-su.e | o*i	sia	õi 
+sun: sia | o*i	sia	õi 
+swim: onasu.e | onasũɛ	saʔorawe 
+swim: onasu͂ɛ | onasũɛ	saʔorawe 
+swim: saʔorawe | onasũɛ	saʔorawe 
+swim: sa so\orawe | onasũɛ	saʔorawe 
+tail: tu | tu	tul 
+tail: tul | tu	tul 
+that: inie | iniɛ	wa 
+that: iniɛ | iniɛ	wa 
+that: wa | iniɛ	wa 
+there: weni 
+there: wɛni 
+they: a 
+this: a | a	o 
+this: o | a	o 
+thou: ono | ono	une 
+thou: une | ono	une 
+today: ho.i 
+today: ho͂i 
+tomorrow: enei 
+tomorrow: nɛi 
+tongue: hapi | ha*pi	hamina	hãpi	hɛmina 
+tongue: ha͂pi | ha*pi	hamina	hãpi	hɛmina 
+tongue: hemina | ha*pi	hamina	hãpi	hɛmina 
+tongue: hɛmina | ha*pi	hamina	hãpi	hɛmina 
+tooth: su 
+tree: i | i*	in 
+tree: i͂ | i*	in 
+tree: in | i*	in 
+two: na\au | na7au	nau	naʔau 
+two: naʔau | na7au	nau	naʔau 
+two: nau | na7au	nau	naʔau 
+walk: peta-zu.e | toʔo nõũwɛ	uyatisũɛ 
+walk: petazu͂ɛ | toʔo nõũwɛ	uyatisũɛ 
+walk: to\o nouwe | toʔo nõũwɛ	uyatisũɛ 
+walk: toʔo no͂u͂wɛ | toʔo nõũwɛ	uyatisũɛ 
+walk: uyatisu.e | toʔo nõũwɛ	uyatisũɛ 
+walk: uyatisu͂ɛ | toʔo nõũwɛ	uyatisũɛ 
+wallaby: yu 
+warm: hopiye | howi 
+warm: howi 
+wash: sani sulo 
+water: sa 
+weep: deli-su.e 
+weep: dɛlisu͂ɛ 
+we (incl.): nole 
+we (incl.): no͂le 
+we: nono | no*le	nono	nõle 
+wet: sasu.e 
+wet: sasu͂ɛ 
+what: nodi | nodi	noi 
+what: noi | nodi	noi 
+white: poi | poi	sopadime 
+white: sopadime | poi	sopadime 
+who: ma | ma	mai 
+who: mai | ma	mai 
+wing: a͂ 
+woman: oi | oi	u 
+woman: u | oi	u 
+wood: in 
+yellow: sewai | subome	sɛwai 
+yellow: sɛwai | subome	sɛwai 
+yellow: subome | subome	sɛwai 
+yes: oui 
+yesterday: nei 
+every: neinana	nɛʔɛyɛ 
+ash: sia ǯuʔu	sidai 
+abdomen: siwo	souma 
+bigness: hoĩ	sai hoite 
+large: hoĩ	sai hoite 
+breasts: ami	ɛmi 
+nail: mauneme	ogu 
+talon: mauneme	ogu 
+come from: nauwa*	nauwẽ	perasu 
+be dead: ora*we	orasu	ɔrãwe 
+dead: ora*we	orasu	ɔrãwe 
+ground: soʔo 
+land: soʔo 
+soil: soʔo 
+fly: aɛnɛnasũɛ	ke nouwe 
+fly v.: aɛnɛnasũɛ	ke nouwe 
+left hand: nami	nɛmi 
+right: nami	nɛmi 
+1 sg.: ana	ane 
+be knowledgeable: ho õĩyẽ	horanasũɛ 
+lie down: soʔo roʔiye aiye 
+head louse: po	por 
+male: yala	ǯʌʔala 
+much: hoiteyɛ	howodie 
+multiple: hoiteyɛ	howodie 
+several: hoiteyɛ	howodie 
+flesh: mi 
+hill: so7o po7odu	soso	soʔo poʔodu 
+title: ha7epi	hopi	hɛʔepi 
+nighttime: si7ino	siʔino	yuno 
+adulterous: pa7ami	pomi	pɛʔɛmi 
+single: pa7ami	pomi	pɛʔɛmi 
+the: pa7ami	pomi	pɛʔɛmi 
+unprincipled: pa7ami	pomi	pɛʔɛmi 
+human: Za7ara	toi	ǯaʔara 
+human being: Za7ara	toi	ǯaʔara 
+rainy weather: yama	ǯa 
+path: su*	su* baiamo 
+route: su*	su* baiamo 
+hide: ha7a*	hai*	hɛĩ	hɛʔẽ 
+little: baiamo	homi 
+smallness: baiamo	homi 
+rock: tobu	topu 
+2 sg: ono	une 
+you: ono	une 
+grind: na7au	nau	naʔau 
+go: toʔo nõũwɛ	uyatisũɛ 
+hot: howi 
+1 pl. inc.: no*le	nono	nõle 
+we₁: no*le	nono	nõle 
+whiteness: poi	sopadime 
+who?: ma	mai 
+female: oi	u 
+dull: nemi 
+serious: nemi 
+close: hũɛnu 
+ner: hũɛnu 

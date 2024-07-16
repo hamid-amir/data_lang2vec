@@ -1,0 +1,328 @@
+all: tutto 
+every: tutto 
+ash: cennera 
+ashes: cennera 
+bark: scorza 
+abdomen: panza 
+belly: panza 
+big: gruosso 
+bigness: gruosso 
+large: gruosso 
+bird: auciello 
+bite: mozzecà 
+black: niro 
+blood: sango 
+bone: huosso 
+breast: pietto 
+breasts: pietto 
+cloud: nuvula 
+cold: friddo 
+come: venì 
+come from: venì 
+be dead: murì 
+dead: murì 
+die: murì 
+dog: can 
+drink: vvéver 
+dry: arso	sicco 
+ear: recchja 
+earth: munno 
+ground: munno 
+land: munno 
+soil: munno 
+eat: magnà 
+egg: òvo 
+eye: uocchjo 
+feather: penna 
+fire: ffuoco 
+fish: pexe 
+fly: vulà 
+fly v.: vulà 
+foot: per 
+full: chino 
+give: rà 
+good: bbuono 
+green: vverde 
+hair: capillo 
+head: capa 
+hear: sènter 
+heart: cor 
+horn: corno 
+1 sg.: je 
+I: je 
+kill: accìrer 
+knee: denucchjo 
+be knowledgeable: sapè 
+know: sapè 
+leaf: fronna 
+liver: fécheto 
+long: luongo 
+head louse: perucchjo 
+louse: perucchjo 
+male: homme 
+man: crestiano	perzona 
+many: assaje 
+much: assaje 
+multiple: assaje 
+several: assaje 
+moon: luna 
+hill: muntagna 
+mountain: muntagna 
+mouth: vocca 
+name: nnomme 
+title: nnomme 
+neck: cuollo 
+new: nuovo 
+night: notte 
+nighttime: notte 
+nose: naso 
+not: no	nun 
+adulterous: uno	unë 
+one: uno	unë 
+single: uno	unë 
+that: chillo 
+the: uno	unë 
+unprincipled: uno	unë 
+human: crestiano	perzona 
+human being: crestiano	perzona 
+person: crestiano	perzona 
+rain: chioggia 
+rainy weather: chioggia 
+red: russo 
+path: via 
+road: via 
+route: via 
+root: rarece	recina 
+round: tunno 
+sand: rena 
+say: ricer 
+see: verè 
+seed: sementa 
+sit: assettà 
+hide: pèlle 
+skin: pèlle 
+sleep: ddurmì 
+little: piccirillo 
+small: piccirillo 
+smallness: piccirillo 
+smoke: fummo 
+star: stella 
+rock: preta 
+stone: preta 
+sun: sol 
+swim: natà	notà 
+tail: cora 
+this: chisto 
+2 sg: tu 
+thou: tu 
+you: tu 
+tongue: lengua 
+tooth: riente 
+tree: chianta 
+grind: ddoje	rujë 
+two: ddoje	rujë 
+go: cammenà 
+walk: cammenà 
+hot: cavero 
+warm: cavero 
+water: abba	aqqua 
+1 pl. inc.: nuje 
+we: nuje 
+we₁: nuje 
+what: che 
+white: janco 
+whiteness: janco 
+who: chi 
+who?: chi 
+female: femmena 
+woman: femmena 
+yellow: jallo 
+distant: arrasso	luntano 
+far: arrasso	luntano 
+dull: pesante 
+heavy: pesante 
+serious: pesante 
+close: azzìco	becino 
+near: azzìco	becino 
+ner: azzìco	becino 
+salt: sal 
+short: curto 
+snake: serpa 
+thin: fino	sicco 
+wind: jento 
+earthworm: vierme 
+worm: vierme 
+year: anno 
+3 sg.: isso 
+he: isso 
+she: isso 
+2 pl.: vuje 
+ye: vuje 
+you all: vuje 
+3 pl.: lloro 
+they: lloro 
+here: ccà 
+there: lloco 
+where: addò 
+where?: addò 
+when: quanno 
+when?: quanno 
+how: cumme 
+how?: cumme 
+some: cocche 
+few: poco 
+other: ato 
+three: tré	tréië 
+four: cuatto	quattë 
+five: cinghë	cingo 
+broad: chiatto 
+wide: chiatto 
+wideness: chiatto 
+fat: cihuotto 
+thick: dduppjo 
+narrow: stritto 
+child: criaturo	piccirillo 
+principal wife: mujera 
+wife: mujera 
+husband: marito 
+his mother: mammà 
+mother: mammà 
+my mother: mammà 
+father: pate 
+his father: pate 
+my father: pate 
+animal: animal	nimmal 
+forest: vosco 
+woods: vosco 
+branch: mazza 
+stick: mazza 
+fruit: frutta 
+flower: ciur 
+grass: hèvera 
+cord: fona 
+rope: fona 
+flesh: carne 
+meat: carne 
+grease: cihuotto 
+claw: ogna 
+fingernail: ogna 
+nail: ogna 
+leg: coxa	jamma 
+arm: mmana 
+hand: mmana 
+wing: ala 
+gut: stentine 
+guts: stentine 
+insides: stentine 
+intestine: stentine 
+intestines: stentine 
+back: rina 
+suck: zucà 
+spit: sputà 
+vomit: vummecà 
+blow: xuxà 
+breath: reciatà 
+breathe: reciatà 
+laugh: rirer 
+laughter: rirer 
+cogitate: penzà 
+reflect: penzà 
+think: penzà 
+smell: fèter 
+sniff: fèter 
+afraid: appahurarse	s’appahurà 
+be afraid: appahurarse	s’appahurà 
+fear: appahurarse	s’appahurà 
+fright: appahurarse	s’appahurà 
+alive: campà 
+be alive: campà 
+life: campà 
+live: campà 
+living: campà 
+fight: cummattere	fà a mazzate 
+hunt: caccià 
+beat: vatter 
+hit: vatter 
+strike: vatter 
+cut: tajà 
+hack: tajà 
+cut open: spàrter 
+split: spàrter 
+pierce: bucà 
+stab: bucà 
+scratch: xippà 
+dig: scavà 
+lie: cuccà 
+lie down: cuccà 
+tell lies: cuccà 
+stand: stà 
+turn: avutà 
+turn around: avutà 
+turn round: avutà 
+drop: carè 
+fall: carè 
+grasp: tener 
+hold: tener 
+hold in arm: tener 
+squeeze: nzeppà 
+wring: nzeppà 
+rub: rattà 
+wipe: axuttà	seccà 
+wash: lavà 
+wash clothes: lavà 
+pull: tirà 
+push: vottà 
+shove: vottà 
+throw: jettà 
+bind: attaccà 
+fasten: attaccà 
+tie: attaccà 
+tie up: attaccà 
+sew: semmenà 
+count: cuntà 
+enumerate: cuntà 
+number: cuntà 
+tally: cuntà 
+sing: cantà 
+have fun: pazzià 
+play: pazzià 
+flow: scòrrer 
+freeze: jaccià 
+brook: ciumme 
+river: ciumme 
+stream: ciumme 
+lake: laco 
+ocean: mar 
+sea: mar 
+dust: povra 
+fog: caliggene	negghja 
+sky: ciel 
+snow: neva 
+ice: jaccio 
+blaze: appiccià 
+burn: appiccià 
+day: juorno 
+daylight: juorno 
+daytime: juorno 
+old: jecchjo 
+bad: malamente 
+evil: malamente 
+rot: speruto 
+rotten: speruto 
+dirty: sivo	zuozzo 
+filthy: sivo	zuozzo 
+soiled: sivo	zuozzo 
+straight: reritto 
+blunt: sfastriuso 
+smooth: muollo 
+damp: umeto 
+wet: umeto 
+correct: justo 
+right: canzo	destra 
+right side: canzo	destra 
+left: smerza 
+in: ddinto 
+inside: ddinto 
+with: ccu 
+if: si 
+because: pecchè 

@@ -1,0 +1,264 @@
+all: atoʔa	paaʔaatoʔa 
+every: atoʔa	paaʔaatoʔa 
+ash: reʔu 
+ashes: reʔu 
+abdomen: ʔoopuu 
+belly: ʔoopuu 
+big: raʔi 
+bigness: raʔi 
+large: raʔi 
+bird: manu 
+bite: paʔati	ʔooʔiniʔini 
+black: ʔereʔere 
+blood: toto 
+bone: ivi 
+breast: ouma	tiitii	titi	ʔoouma 
+breasts: ouma	tiitii	titi	ʔoouma 
+burn: ʔaʔaʔama 
+burn tr.: ʔaʔaʔama 
+cloud: ata 
+cold: toʔetoʔe 
+come: %aere mai	ano mai	ʔaere mai	ʔano mai 
+come from: %aere mai	ano mai	ʔaere mai	ʔano mai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: uri	ʔuurii 
+drink: unu 
+dry: maroo 
+ear: tari7a	tariʔa 
+eat: ʔai 
+egg: ʔua 
+eye: mata 
+feather: ʔuruʔuru 
+fire: aua7i	auaʔi 
+fish: i7a	iʔa 
+fly: rere	ʔaʔamaraʔa 
+fly v.: rere	ʔaʔamaraʔa 
+good: maitaʔi 
+green: matie 
+hair: rouru 
+hand: rima 
+left hand: rima 
+right: rima 
+head: pao	upoʔo 
+hear: a7aro7o	iro7aro7a	ʔaʔaroʔo	ʔiiroʔaroʔa 
+1 sg.: au	vau 
+I: au	vau 
+kill: ta	ʔaʔamate 
+be knowledgeable: ʔite 
+know: ʔite 
+leaf: rao7ere	raoʔere	rau7ere	rauʔere 
+lie: taarava	tiipapa	tiiraʔa 
+lie down: taarava	tiipapa	tiiraʔa 
+liver: ate	upa7a	ʔupaʔa 
+long: roa 
+head louse: utu	ʔutu 
+louse: utu	ʔutu 
+male: taane 
+man: ta7ata	taʔata 
+moon: ʔaavaʔe 
+mouth: vaʔa 
+name: i7oa	iʔoa 
+title: i7oa	iʔoa 
+neck: ʔaʔii 
+new: api	ʔaapii 
+night: po	poo 
+nighttime: po	poo 
+nose: puta e7u	puta eʔu 
+adulterous: ta7i	taʔi 
+one: ta7i	taʔi 
+single: ta7i	taʔi 
+that: teeraa 
+the: ta7i	taʔi 
+unprincipled: ta7i	taʔi 
+human: ta7ata	taʔata 
+human being: ta7ata	taʔata 
+person: ta7ata	taʔata 
+rain: ua 
+rainy weather: ua 
+red: ʔuraʔura 
+path: ara	araʔaraʔa	poromu	poroomu	puruumu 
+road: ara	araʔaraʔa	poromu	poroomu	puruumu 
+route: ara	araʔaraʔa	poromu	poroomu	puruumu 
+root: aʔa 
+sand: one 
+say: parau 
+see: naanaa	nana 
+sit: araʔi	noʔo 
+hide: iri	ʔiri 
+skin: iri	ʔiri 
+sleep: moe 
+little: maaitiiti 
+small: maaitiiti 
+smallness: maaitiiti 
+smoke: auauaʔi 
+star: %feti7a	fetiʔa 
+rock: o7a7i	po7atu	poʔatu	ʔooʔaʔi 
+stone: o7a7i	po7atu	poʔatu	ʔooʔaʔi 
+swim: ʔau 
+tail: aero	vero	ʔuʔu 
+this: teie 
+2 sg: oe	ʔoe 
+thou: oe	ʔoe 
+you: oe	ʔoe 
+tongue: arero 
+tooth: ni7o	niʔo 
+grind: piti	rua 
+two: piti	rua 
+go: rimorimo	ʔaere	ʔano	ʔano rimo ʔaere 
+walk: rimorimo	ʔaere	ʔano	ʔano rimo ʔaere 
+hot: maaʔanaʔana	veravera 
+warm: maaʔanaʔana	veravera 
+water: vai 
+1 pl. inc.: maatou	maaua	taatou	taaua	tatou 
+we: maatou	maaua	taatou	taaua	tatou 
+we₁: maatou	maaua	taatou	taaua	tatou 
+what: aʔa 
+white: teatea 
+whiteness: teatea 
+who: vai 
+who?: vai 
+female: vaʔine 
+woman: vaʔine 
+yellow: reʔareʔa 
+distant: aatea 
+far: aatea 
+dull: tiaʔa 
+heavy: tiaʔa 
+serious: tiaʔa 
+close: ʔatata 
+near: ʔatata 
+ner: ʔatata 
+salt: miti 
+short: poto 
+snake: ooʔii 
+thin: rairai 
+wind: mataʔi 
+earthworm: toʔe 
+worm: toʔe 
+year: mataʔiti 
+2 pl.: ʔoorua	ʔoutou	ʔuurua 
+ye: ʔoorua	ʔoutou	ʔuurua 
+you all: ʔoorua	ʔoutou	ʔuurua 
+3 pl.: raatou	raaua 
+they: raatou	raaua 
+where: ʔea	ʔia 
+where?: ʔea	ʔia 
+when: aaʔea	inaaʔea 
+when?: aaʔea	inaaʔea 
+how: naaʔea 
+how?: naaʔea 
+other: vetaʔi 
+three: toru 
+four: maʔa	ʔa 
+broad: ʔaʔano 
+wide: ʔaʔano 
+wideness: ʔaʔano 
+fat: miʔi 
+thick: tuetue 
+narrow: oaoa	piri 
+principal wife: vaʔine 
+wife: vaʔine 
+husband: taane 
+his mother: maamaa	metua vaʔine 
+mother: maamaa	metua vaʔine 
+my mother: maamaa	metua vaʔine 
+father: metua taane	paapaa 
+his father: metua taane	paapaa 
+my father: metua taane	paapaa 
+forest: ururaaʔau 
+woods: ururaaʔau 
+branch: ʔaamaʔa 
+stick: ʔaamaʔa 
+fruit: maaʔa 
+flower: tiare 
+grass: matie 
+cord: taura 
+rope: taura 
+flesh: ʔiinaʔi	ʔiʔo 
+meat: ʔiinaʔi	ʔiʔo 
+grease: miʔi 
+wing: pererau 
+gut: ʔaaʔau 
+guts: ʔaaʔau 
+insides: ʔaaʔau 
+intestine: ʔaaʔau 
+intestines: ʔaaʔau 
+back: tautua 
+suck: ʔote 
+spit: tutuʔa 
+vomit: ruʔaʔi 
+blow: farara	puʔi 
+breath: ʔuti i te aʔo 
+breathe: ʔuti i te aʔo 
+laugh: ata 
+laughter: ata 
+cogitate: manaʔo 
+reflect: manaʔo 
+think: manaʔo 
+smell: ʔauʔa 
+sniff: ʔauʔa 
+afraid: mataʻu	meʔameʔa	riʔariʔa 
+be afraid: mataʻu	meʔameʔa	riʔariʔa 
+fear: mataʻu	meʔameʔa	riʔariʔa 
+fright: mataʻu	meʔameʔa	riʔariʔa 
+alive: ora 
+be alive: ora 
+life: ora 
+live: ora 
+living: ora 
+hunt: aʔuaʔu 
+beat: taaʔiri 
+hit: taaʔiri 
+strike: taaʔiri 
+cut: taapuu 
+hack: taapuu 
+cut open: naʔaʔa	piʔi ai	taatuʔaʔa	vaavaaʔi	vaaʔi 
+split: naʔaʔa	piʔi ai	taatuʔaʔa	vaavaaʔi	vaaʔi 
+pierce: paatia 
+stab: paatia 
+scratch: raʔuraʔu 
+dig: paʔi	ʔiri 
+stand: tuu 
+drop: marua	topa 
+fall: marua	topa 
+grasp: taapeʔa 
+hold: taapeʔa 
+hold in arm: taapeʔa 
+squeeze: neʔineʔi	ʔuʔumu 
+wring: neʔineʔi	ʔuʔumu 
+throw: taaora 
+bind: purei 
+fasten: purei 
+tie: purei 
+tie up: purei 
+sew: au	nira	tiiʔai 
+count: taiʔo 
+enumerate: taiʔo 
+number: taiʔo 
+tally: taiʔo 
+flow: taʔe 
+lake: roto 
+ocean: moana	tai 
+sea: moana	tai 
+dust: ʔuʔaʔuʔa 
+fog: aʔinavai 
+sky: tuaraʔi 
+bad: manuenu	ʔino 
+evil: manuenu	ʔino 
+rot: para 
+rotten: para 
+dirty: repo 
+filthy: repo 
+soiled: repo 
+sharp: ʔoi 
+blunt: mania	tuumuu 
+damp: maʔu	rari 
+wet: maʔu	rari 
+right side: ʔatau 
+left: ʔaui 
+in: roto 
+inside: roto 
+and: ʔee 
+if: mai te mea	mai te paʔau	mai te peu	ʔaʔiri	ʔia 

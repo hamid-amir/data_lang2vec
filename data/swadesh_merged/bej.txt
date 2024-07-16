@@ -1,0 +1,321 @@
+all: kasse | -ka	kasse	kaːris 
+ashes: neːt\aš | neʔeːt haš	neːtʼaš 
+bark: ad\if | adʼif	aḍif	engili	šiḍḍa 
+belly: gɛ\lɛwaʔ | esse	fiː	gɛʼlɛwaʔ	kalawa 
+big: wɪn | win	wun	wɪn 
+bird: kɛ\lay | kelaːy	kɛʼlay	sariːr 
+bite: ɛffɪnɪk | fenik	tam	ɛffɪnɪk 
+black: ha\dɛl | hadaːl	haʼdɛl 
+blood: boy | boy	boːy 
+bone: mitat | mi	mitat	miːta 
+boy: ʔoːr 
+breast: t\uː\tɛb | nogue	nug	nugwe	nuːg	t"utEb	tʼuːʼtɛb 
+burn: ɨl\luʷ | baloːl 
+claw: nʕaf | eːša	naʔaːf	nʕaf | eːša	neʔaːf 
+cloud: la\saː | afra	alak	baːl	geːm	laʼsaː 
+cold: mok\wa\raːb | laʔa	mokʼwaʼraːb 
+come: ɛʔa | E7a	giʔ	i	iʔ	yit	ɛʔa 
+die: i\yaʔ | iya7	iʼyaʔ	yati	yaːi 
+dog: ɔ\yaːs | oyas	yas	yaːs	ɔʼyaːs 
+drink: gʷɔ\yeʔ | gu7	guʔ	gw~oyE7	gʷɔʼyeʔ 
+dry: bala\maː | balama	balaʼmaː 
+ear: angwiːl | anguiːl	angwil	angwiːl	angw~il 
+eat: tɛm\miːa | am	tam	tɛmʼmiːa 
+egg: kwiːp | kuahi	kuhi	kwiːp 
+eye: leːlit | geːdi	lElit	leːlit	lili 
+far: sagi | sagi	saːgi 
+father: babaːb | babaːb	baːba 
+fat (n.): goːb 
+fire: neʔet | n7a	ne7et	neʔet	nʔa	nʔe 
+fish: aš\š\ab | aSab	asa	ase	ašʼšʼab	aːša	huːt 
+five: ʔáy | ay	əy	ʔáy 
+fly (n.): ti\faː(b) 
+fly (v.): bir˗ 
+foot: rɛ\gɛd | ragad	rɛʼgɛd 
+four: fa¶ig | faɖig	faɗìg	faḍiŋ 
+girl: ʔ̰ːr˗t 
+give: yɪ\hiʔ | hi	nuːn	yɪʼhiʔ 
+good: da\ib | adil	day	daʼib	enday	šeboːb 
+grass: si\yaːm | bɔgul	siyaːm	siʼyaːm 
+hair: he\moːb | hamo	heʼmoːb 
+hand: a\yɛːb | ay	ayEb	aʼyɛːb	kaʊki 
+head: gir\maː | girma	girʼmaː	gurma 
+hear: maː\su | masu	masuw	maːsuw	maːʼsu 
+heart: gɪ\naːʔ | ginha	ginʔa	gɪʼnaːʔ	leːb 
+he/she: ˗ ́ 
+he/she: bar˗uː 
+horn: daab | da7	daXab	daab	dab	daʔ	kos	koːs	ḍaʔ 
+horn: kos | da7	daXab	daab	dab	daʔ	kos	koːs	ḍaʔ 
+I: ˗ ̀ | ani	aniː	anu	anuː	ʔane- 
+I: ʔane˗ | ani	aniː	anu	anuː	ʔane- 
+I: ʔaneː˗\˗b | ani	aniː	anu	anuː	ʔane- 
+I: ʔan˗i˗ | ani	aniː	anu	anuː	ʔane- 
+I: anuː | ani	aniː	anu	anuː	ʔane- 
+I: ˗heː\b | ani	aniː	anu	anuː	ʔane- 
+kill: ɪ\dɪr | dir	ɪʼdɪr 
+knee: gunba | gumba	gun	gunba	gunduːf	mb~a 
+know: ɪ\kɛn | iraːy	kaːn	ɪʼkɛn 
+leaf: laːt | baya	lat	laːt	raːt 
+liver: tɔnkɔlaʔ | se	seː	tonkola7	tɔnkɔlaʔ 
+long: ra\gaːgab | gumaːdi	raʼgaːgab	seraːra 
+louse: taːt | tat 
+man: tɛk | adame	ha	tEk 
+many: gwʊ\daːb | guːda	gwʊʼdaːb 
+meat: doːf | doːf	saʔ 
+moon: tɛ\rɪg | terig	tɛʼrɪg 
+mountain: rɛ\bab | konbuːl	rEbab	reba	reːba	riba	rɛʼbab 
+mouth: yɛf | yaːf	yɛf 
+name: sɪm | sim	sum	sɪm 
+near: deha | dawul	deha 
+neck: t\alaʔ | ala	e	mage	moːk	tʼalaʔ 
+new: gɛyiːb | gEyib	ga	gaːyi	gɛyiːb 
+night: ha\wad | amas	hawad	haʼwad	tita 
+one: ngaàl | Ng~a	eŋgal	eŋgar	gal	gar	ngaàl	ŋʼga 
+one: ŋ\ga | Ng~a	eŋgal	eŋgar	gal	gar	ngaàl	ŋʼga 
+other: wɛr | raːu	weːr	weːri	wɛr 
+rain: bɪ\rɛb | bile	bire	bɪʼrɛb 
+red: ada\rob | adalo	adaro	adaʼrob 
+road: sɪkab | lagi	sikab 
+root: sɨr | adala	araːg	gadam	sɨr 
+sand: haš | daba	haš	haːš	hissa	hissay 
+say: ʔɨdɨr | an	di	yad	ʔɨdɨr | daba	haš	haːš	hissa	hissay 
+seed: te\ra | deraʔ	teʼra	ʔaːra 
+see: riyhah | erh	riyhah	riyh~ah	šebib 
+sit: ʔɨs\sa | hakib	saːʔ	ʔɨsʼsa 
+skin: adeːb | ada	adeb	adeːb	hersa	kurbe	mesik 
+sleep: dɛwi\yaː | biʔ	düti	dɛwiʼyaː	embiʔ 
+small: dɛ\bluː | aḍaːmi	dabaro	dɛʼbluː	mekaːs 
+smoke: kwa\raːr | erda	eːga	eːḍa	kwaʼraːr 
+snake: kwarkwɛr | kuɔr	kwarkwɛr	kwɔr	kɔhuɔr 
+stand: ʔɪn\gɛːd | engaːd	negaːd	ʔɪnʼgɛːd 
+star: ha\yuk | hayuk	hayuːk	haʼyuk 
+stone: aweːb | awe	aweb	aweːb 
+sun: yiːnt | in	iːn	yin	yint~	yiːn	yiːnt 
+swim: umiːya | beḍif	oːm	umiːya 
+tail: niwa 
+they: bar˗aː | bar-aː 
+they: baraː\ | bar-aː 
+they: bar˗eː | bar-aː 
+they: ˗ ̀hi˗na | bar-aː 
+thin: nɛha\wab | ayaːy	hadaːl	nɛhaʼwab 
+this: ɔnɔ 
+thou: bar˗t˗uː˗\k | bErok	baruk	batuk	bɛroːk 
+thou: bar˗uː˗\k | bErok	baruk	batuk	bɛroːk 
+thou: bɛroːk | bErok	baruk	batuk	bɛroːk 
+three: m\hayb | emhay	emhəy	mhày	mʼhayb 
+tongue: mida\laːb | malhas	mida	midal	midala	midalab	midalla	midaʼlaːb 
+tooth: kwɪrɛːt\ | kos	koːs	kule	kure	kw~irEt"	kwɪrɛːtʼ	nad 
+tree: ɪndiːb | Sed"ar	ind~ib 
+two: ma\lɔːb | mallo	malo	malob	maʼlɔːb	mhaloo-’-b 
+walk: giːgʲɪ | hireːr 
+warm: nɛ\baʔ | nebʔa	nɛʼbaʔ 
+water: yam 
+we: ha\nɛn | hanEn	hanin 
+we: hin˗e˗ | hanEn	hanin 
+we: hinìn | hanEn	hanin 
+we: ˗hoːn | hanEn	hanin 
+we: ˗\n | hanEn	hanin 
+wet: yɛr\daʔ | lila	miʔa	yaḍa	yɛrʼdaʔ 
+what: nan | na	nan	naːn 
+when: ˗naː˗\doːr | -naː-ʼdoːr	naː-doːr 
+where: ˗naː˗mhiín˗ | -naː-mhiín-	naːmhiri 
+white: eː\rab | eːla	eːra	eːʼrab 
+who: aːb | au	aːb 
+woman: tɛkɛːt | hiyo	takat	tɛkɛːt 
+you: bar˗aː˗\k | bErok	baruk	batuk	bɛroːk | baraːkna 
+you: baraːkna | bErok	baruk	batuk	bɛroːk 
+you: bar˗t˗aː˗k | bErok	baruk	batuk	bɛroːk | baraːkna 
+you: bar˗(t)˗eː˗\k | bErok	baruk	batuk	bɛroːk | baraːkna 
+you: ˗\k˗na | bErok	baruk	batuk	bɛroːk | baraːkna 
+you: ˗koːk | bErok	baruk	batuk	bɛroːk | baraːkna 
+every: -ka	kasse	kaːris 
+ash: neʔeːt haš	neːtʼaš 
+abdomen: esse	fiː	gɛʼlɛwaʔ	kalawa 
+bigness: win	wun	wɪn 
+large: win	wun	wɪn 
+breasts: nogue	nug	nugwe	nuːg	t"utEb	tʼuːʼtɛb 
+nail: eːša	naʔaːf	nʕaf 
+talon: eːša	naʔaːf	nʕaf 
+come from: E7a	giʔ	i	iʔ	yit	ɛʔa 
+be dead: iya7	iʼyaʔ	yati	yaːi 
+dead: iya7	iʼyaʔ	yati	yaːi 
+feather: hamo 
+fly: berik	bir-	biːr	fiːr	kil 
+fly v.: berik	bir-	biːr	fiːr	kil 
+full: atab 
+green: akdar	soːtay 
+left hand: ay	ayEb	aʼyɛːb	kaʊki 
+right: ay	ayEb	aʼyɛːb	kaʊki 
+1 sg.: ani	aniː	anu	anuː	ʔane- 
+be knowledgeable: iraːy	kaːn	ɪʼkɛn 
+head louse: tat 
+male: tak	tɛk 
+much: guːda	gwʊʼdaːb 
+multiple: guːda	gwʊʼdaːb 
+several: guːda	gwʊʼdaːb 
+hill: konbuːl	rEbab	reba	reːba	riba	rɛʼbab 
+title: sim	sum	sɪm 
+nighttime: amas	hawad	haʼwad	tita 
+nose: genut	genuːf	gunuf	gʊʼnʊf 
+not: baː-	ka- 
+adulterous: Ng~a	eŋgal	eŋgar	gal	gar	ngaàl	ŋʼga 
+single: Ng~a	eŋgal	eŋgar	gal	gar	ngaàl	ŋʼga 
+that: Ng~a	eŋgal	eŋgar	gal	gar	ngaàl	ŋʼga 
+the: Ng~a	eŋgal	eŋgar	gal	gar	ngaàl	ŋʼga 
+unprincipled: Ng~a	eŋgal	eŋgar	gal	gar	ngaàl	ŋʼga 
+human: adame	ha	tEk 
+human being: adame	ha	tEk 
+person: adame	ha	tEk 
+rainy weather: bile	bire	bɪʼrɛb 
+path: lagi	sikab 
+route: lagi	sikab 
+round: debaːla	haššama	kualaːl 
+hide: ada	adeb	adeːb	hersa	kurbe	mesik 
+little: aḍaːmi	dabaro	dɛʼbluː	mekaːs 
+smallness: aḍaːmi	dabaro	dɛʼbluː	mekaːs 
+rock: awe	aweb	aweːb 
+2 sg: bErok	baruk	batuk	bɛroːk 
+grind: mallo	malo	malob	maʼlɔːb	mhaloo-’-b 
+go: hireːr 
+hot: nebʔa	nɛʼbaʔ 
+1 pl. inc.: hanEn	hanin 
+we₁: hanEn	hanin 
+whiteness: eːla	eːra	eːʼrab 
+who?: au	aːb 
+female: hiyo	takat	tɛkɛːt 
+yellow: asfar 
+distant: sagi	saːgi 
+dull: deːga 
+heavy: deːga 
+serious: deːga 
+close: dawul	deha 
+ner: dawul	deha 
+salt: milaːk	moːs 
+short: nekaːs 
+wind: baraːm	wɔlwɔl 
+year: hawil	maːse 
+3 sg.: baruːs 
+he: baruːs 
+she: baruːs 
+2 pl.: baraːkna 
+ye: baraːkna 
+you all: baraːkna 
+3 pl.: bar-aː 
+where?: -naː-mhiín-	naːmhiri 
+when?: -naː-ʼdoːr	naː-doːr 
+how: kaːk	kaːku 
+how?: kaːk	kaːku 
+few: nuwa	šalliːk 
+broad: maːrʔaloːy 
+wide: maːrʔaloːy 
+wideness: maːrʔaloːy 
+fat: goːb 
+thick: rakoːk	ḍaha 
+narrow: daːh	enguaraːh 
+child: ʔoːr 
+principal wife: hiyo	takat 
+wife: hiyo	takat 
+husband: hiyo	tak 
+his mother: enda	ende 
+mother: enda	ende 
+my mother: enda	ende 
+his father: babaːb	baːba 
+my father: babaːb	baːba 
+animal: dehaːni	reːu 
+forest: balaːk	ḍau 
+woods: balaːk	ḍau 
+branch: leid	lingo 
+stick: leid	lingo 
+fruit: hamaːg 
+flower: faːr 
+cord: luːl	nawar	yaːy 
+rope: luːl	nawar	yaːy 
+flesh: doːf	saʔ 
+grease: goːb 
+fingernail: eːša	neʔaːf 
+leg: ragad 
+wing: anbuːr 
+gut: mana 
+guts: mana 
+insides: mana 
+intestine: mana 
+intestines: mana 
+back: eŋga	sara	saŋkua 
+suck: duːg	kaḍ	šefi 
+spit: tiffoːy	tuff	tuːf 
+blow: fuːf 
+breath: amšik	hamšik 
+breathe: amšik	hamšik 
+laugh: faʔid 
+laughter: faʔid 
+cogitate: fakkar	hasib	šiš 
+reflect: fakkar	hasib	šiš 
+think: fakkar	hasib	šiš 
+smell: bar-am	fiːn 
+sniff: bar-am	fiːn 
+afraid: beʔaːna	merkuaːy 
+be afraid: beʔaːna	merkuaːy 
+fear: beʔaːna	merkuaːy 
+fright: beʔaːna	merkuaːy 
+alive: haːy 
+be alive: haːy 
+life: haːy 
+live: haːy 
+living: haːy 
+fight: alig 
+hunt: šoːʔ 
+beat: kaḍaw	uli	ṭaʔ	ṭib 
+hit: kaḍaw	uli	ṭaʔ	ṭib 
+strike: kaḍaw	uli	ṭaʔ	ṭib 
+cut: betik	kubib	wak	wik 
+hack: betik	kubib	wak	wik 
+cut open: adid	belis	feḍiŋ	mešaʔ 
+split: adid	belis	feḍiŋ	mešaʔ 
+pierce: ʔadi 
+stab: ʔadi 
+scratch: hɔgun	neʔaf	šakuin 
+dig: ferik 
+drop: dib	seraːr	ḍib 
+fall: dib	seraːr	ḍib 
+squeeze: demim	temʊk 
+wring: demim	temʊk 
+wash: s-iham 
+wash clothes: s-iham 
+wipe: mehag 
+throw: gid 
+bind: as	asir	hakur	hankul 
+fasten: as	asir	hakur	hankul 
+tie: as	asir	hakur	hankul 
+tie up: as	asir	hakur	hankul 
+sew: hayid 
+count: degui	hasib 
+enumerate: degui	hasib 
+number: degui	hasib 
+tally: degui	hasib 
+sing: diːl	kualiː-t	niːn 
+have fun: arid	boːl	hawɔy 
+play: arid	boːl	hawɔy 
+flow: lil 
+brook: aba	behar	kuaːn 
+river: aba	behar	kuaːn 
+stream: aba	behar	kuaːn 
+lake: birka 
+dust: haːš 
+fog: ereːǯ	giːm 
+sky: bile	bire 
+blaze: baloːl 
+bad: afraːy	amaːg 
+evil: afraːy	amaːg 
+dirty: daːmra	yuwaši 
+filthy: daːmra	yuwaši 
+soiled: daːmra	yuwaši 
+sharp: haːsi 
+blunt: redaːd 
+smooth: limsa 
+damp: lila	miʔa	yaḍa	yɛrʼdaʔ 
+right side: mayʊkua 
+left: talha	tamʊy 
+in: -b	-s	-t 
+inside: -b	-s	-t 
+and: -t	wɔ 
+because: -ek	akua 

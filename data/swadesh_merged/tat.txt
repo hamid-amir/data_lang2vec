@@ -1,0 +1,340 @@
+all: barça | бары	бөтен	һәммә 
+all: barlık | бары	бөтен	һәммә 
+all: böten | бары	бөтен	һәммә 
+all: hämmä | бары	бөтен	һәммә 
+and: belän | да	дә	һәм 
+and: häm | да	дә	һәм 
+animal: hayvan | хайван	җәнлек 
+ashes: köl | көл 
+at: –dä, –da | -да	-дә	өстендә 
+back: arka | арка 
+bad: nachar | начар 
+bark: kabık | кабык 
+because: çönki | чөнки 
+belly: korsak | корсак	эч 
+big: zur | зур 
+bird: koş | кош 
+bite: kabu | тешләргә 
+black: kara | кара 
+blood: kan | kan	кан 
+blow: şartlatu | өрергә 
+bone: söyäk | seyak	сөяк 
+breathe: sulau | суларга	тын алга 
+burn: yanu | янарга 
+child: bala | бала	сабый 
+cloud: bolıt | болыт 
+cold: suık | салкын	суык 
+come: kilü | kil	килергә 
+correct: döres | дөрес	туры 
+count: sanau | санарга 
+cut: kisü | кисәргә 
+day: kön | көн 
+die: ülü | il	үләргә 
+dig: kazu | казырга 
+dirty: pıçrak | керле	пычрак 
+dog: et | Et	эт 
+drink: eçü | EC	эчәргә 
+dry: korı | коры 
+dull: süngän | авыр | үтмәс 
+dust: tuzan | тузан 
+ear: kolak | kolak	колак 
+earth: cir | туфрак	җир 
+eat: aşau | ашарга 
+egg: yomırka | йомырка 
+eye: küz | kiz	күз 
+fall: töşü | егылырга	төшәргә 
+far: yerak | ерак 
+father: ata | ата 
+fat (n.): may 
+fear: kurku | куркырга 
+feather: kaurıy | каурый 
+few: az | аз 
+fight: köräşü | сугышырга 
+fire: atu | ut	ут 
+fish: balık | balok	балык 
+five: biş | bish	биш 
+float: yözü | йөзәргә 
+flow: agu | агарга 
+flower: çäçäk | гөл	чәчәк 
+fly (v.): oçu 
+fog: töten | томан 
+foot: ayak | аяк 
+forest: urman | урман 
+four: dürt | dürt	дүрт 
+freeze: tuňu | туңырга	өшергә 
+fruit: cimeş | җимеш 
+give: birü | бирергә 
+good: yahşı | яхшы 
+grass: ülän | үлән 
+green: yäşel | яшел 
+guts: eçäk | эчәк 
+hair: çäç | кыл	чәч 
+hand: kul | кул 
+head: baş | баш 
+hear: işetü | toNl	ишетергә 
+heart: yöräk | йөрәк 
+heavy: avır | авыр 
+here: monda | биредә	бу җирдә	монда 
+he: ul | ул 
+hit: sugu | бәрергә	сугарга 
+hold: totu | тотарга 
+how: niçek | ничек 
+hunt: aulau | ауларга 
+husband: ir | ир 
+ice: boz | боз 
+if: ägär | -са	-сә	әгәр 
+I: min | min	мин 
+in: –dä, –da | -да	-дә	эчендә 
+kill: üterü | үтерергә 
+knee: belü | tEz	тез 
+know: kül | белергә 
+lake: kölü | күл 
+laugh: yafrak | көлергә 
+leaf: sul | yaprak	яфрак 
+leg: ayak | бот 
+lie: yatu | ятарга 
+liver: bavır | bawor	бавыр 
+live: yäşäü | яшәргә 
+long: ozın | озын 
+louse: bet | бет 
+man: keşe | adEm	kESE	кеше 
+many: küp | күп 
+meat: it | ит 
+mother: ana | ана 
+mountain: tau | тау 
+mouth: awız | авыз 
+name: isem | ат	исем 
+narrow: tar | тар 
+near: yakın | якын 
+neck: muyen | муен 
+new: yaňa | yaNa	яңа 
+night: tön | ten	төн 
+nose: borın | boron	борын 
+not: tügel | түгел 
+old: iske | иске	карт 
+one: ber | bEr	ber	бер 
+other: üzgä | башка 
+person: keşe | adEm	kESE	кеше 
+play: uynau | уйнарга 
+pull: tartu | тартырга 
+push: etü | этәргә 
+rain: yaňgır | яңгыр 
+red: kızıl | кызыл 
+right: uň | kul | уң 
+river: yelga | елга 
+road: yul | yul	юл 
+root: tamır | тамыр 
+rope: cep | аркан	бау 
+rotten: çerek | черек 
+rub: sörtü | уарга	ышкырга 
+salt: toz | тоз 
+sand: kom | ком 
+say: diyu | әйтергә | ком 
+scratch: tırmau | тырнарга 
+sea: diňgez | диңгез 
+seed: orlık | бөртек	орлык 
+see: kürü | kir	күрергә 
+sew: tegü | тегәргә 
+sharp: kisken | үткен 
+short: kıska | кыска 
+sing: jırlau | җырларга 
+sit: utıru | утырырга 
+skin: tire | kin	tirE	тире 
+sky: kük | күк 
+sleep: yoklau | йокларга 
+small: keçkenä | кече	кечкенә 
+smell: is | иснәргә 
+smoke: töten | төтен 
+smooth: şoma | тигес	шома 
+snake: yılan | елан 
+snow: kar | кар 
+some: beraz | берничә 
+spit: şeş | төкерергә 
+split: yaru | ярырга 
+squeeze: sıgu | кысарга 
+stab: kadau | чәнчергә 
+stand: toru | торырга 
+star: yoldız | yoldoz	йолдыз 
+stick: kadau | таяк 
+stone: taş | taS	таш 
+straight: turı | туры 
+suck: imü | имәргә 
+sun: koyaş | koyaS	кояш 
+swell: şeşü | шешәргә 
+swim: jözü | йөзәргә 
+tail: koyrık | койрык 
+that: şul | теге	ул	шул | bEr	ber	бер 
+there: anda | анда	тегендә	ул җирдә	шул җирдә 
+they: alar | алар 
+thick: kalın | калын 
+think: uylau | уйларга 
+thin: neçkä | нечкә	нәзек 
+this: bu | бу 
+thou: sin | sin	син 
+three: öç | öch	өч 
+throw: atu | ташларга 
+tie: bäyläü | бәйләргә 
+tongue: tel | tEl	тел 
+tooth: teş | tES	теш 
+tree: agaç | агач 
+turn: boru | борырга 
+two: ike | ikE	ike	ике 
+vomit: kosu | костырырга 
+walk: jörü | атлау	барырга	йөрергә 
+warm: cılı | җылы 
+wash: yuu | юарга 
+water: su | su	су 
+we: bez | bEz	без 
+wet: yüeş | дымлы	юеш 
+what: närsä | ни	нәрсә 
+when: kayçan | кайчан 
+where: kayda | кайда 
+white: ak | ак 
+who: kem | кем 
+wide: kiň | киң 
+wife: hatın | хатын 
+wind: cil | җил 
+wing: kanat | канат 
+wipe: sörtü | сөртергә 
+with: belän | белəн 
+woman: hatın | хатын 
+worm: kort | корт 
+year: yıl | ел 
+yellow: sarı | сары 
+you: sez | sin	син | сез 
+every: бары	бөтен	һәммә 
+ash: көл 
+abdomen: корсак	эч 
+bigness: зур 
+large: зур 
+breast: имчәк	күкрәк	түш 
+breasts: имчәк	күкрәк	түш 
+come from: kil	килергә 
+be dead: il	үләргә 
+dead: il	үләргә 
+ground: туфрак	җир 
+land: туфрак	җир 
+soil: туфрак	җир 
+fly: очарга 
+fly v.: очарга 
+full: tulo	yuan	тулы 
+left hand: kul 
+horn: megEz	мөгез 
+1 sg.: min	мин 
+be knowledgeable: белергә 
+head louse: бет 
+male: ир 
+much: күп 
+multiple: күп 
+several: күп 
+moon: ай 
+hill: тау 
+title: ат	исем 
+nighttime: ten	төн 
+adulterous: bEr	ber	бер 
+single: bEr	ber	бер 
+the: bEr	ber	бер 
+unprincipled: bEr	ber	бер 
+human: adEm	kESE	кеше 
+human being: adEm	kESE	кеше 
+rainy weather: яңгыр 
+path: yul	юл 
+route: yul	юл 
+round: йомры	түгәрәк 
+hide: kin	tirE	тире 
+little: кече	кечкенә 
+smallness: кече	кечкенә 
+rock: taS	таш 
+2 sg: sin	син 
+grind: ikE	ike	ике 
+go: атлау	барырга	йөрергә 
+hot: җылы 
+1 pl. inc.: bEz	без 
+we₁: bEz	без 
+whiteness: ак 
+who?: кем 
+female: хатын 
+distant: ерак 
+serious: авыр 
+close: якын 
+ner: якын 
+earthworm: корт 
+3 sg.: ул 
+she: ул 
+2 pl.: сез 
+ye: сез 
+you all: сез 
+3 pl.: алар 
+where?: кайда 
+when?: кайчан 
+how?: ничек 
+broad: киң 
+wideness: киң 
+fat: май 
+principal wife: хатын 
+his mother: ана 
+my mother: ана 
+his father: ата 
+my father: ата 
+woods: урман 
+branch: таяк 
+cord: аркан	бау 
+flesh: ит 
+grease: май 
+claw: тырнак 
+fingernail: тырнак 
+nail: тырнак 
+arm: кул 
+gut: эчәк 
+insides: эчәк 
+intestine: эчәк 
+intestines: эчәк 
+breath: суларга	тын алга 
+laughter: көлергә 
+cogitate: уйларга 
+reflect: уйларга 
+sniff: иснәргә 
+afraid: куркырга 
+be afraid: куркырга 
+fright: куркырга 
+alive: яшәргә 
+be alive: яшәргә 
+life: яшәргә 
+living: яшәргә 
+beat: бәрергә	сугарга 
+strike: бәрергә	сугарга 
+hack: кисәргә 
+cut open: ярырга 
+pierce: чәнчергә 
+lie down: ятарга 
+tell lies: ятарга 
+turn around: борырга 
+turn round: борырга 
+drop: егылырга	төшәргә 
+grasp: тотарга 
+hold in arm: тотарга 
+wring: кысарга 
+wash clothes: юарга 
+shove: этәргә 
+bind: бәйләргә 
+fasten: бәйләргә 
+tie up: бәйләргә 
+enumerate: санарга 
+number: санарга 
+tally: санарга 
+have fun: уйнарга 
+brook: елга 
+stream: елга 
+ocean: диңгез 
+blaze: янарга 
+daylight: көн 
+daytime: көн 
+evil: начар 
+rot: черек 
+filthy: керле	пычрак 
+soiled: керле	пычрак 
+blunt: үтмәс 
+damp: дымлы	юеш 
+right side: уң 
+left: сул 
+inside: -да	-дә	эчендә 

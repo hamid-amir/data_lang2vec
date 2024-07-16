@@ -1,0 +1,369 @@
+all: iringgasin | iriŋgasin 
+all: iriŋgasin 
+arm: imben 
+arm: imbɛn 
+arrow: sarɛŋ daŋɛn 
+ashes: imbu 
+back: mukur 
+back: mukurr 
+bad: pi 
+belly: kunakap | urrirr 
+belly: te | urrirr 
+belly: urir | urrirr 
+belly: urrirr 
+big: nei 
+bird: nambe | nambɛ 
+bird: nambɛ 
+bite: -gurew- | -gurɛw- 
+bite: -gurɛw- 
+black: isere | isɛrɛ	kurun 
+black: isɛrɛ | isɛrɛ	kurun 
+black: kurun | isɛrɛ	kurun 
+blood: yangembup | yaNEmb~up	yaŋɛmbup 
+blood: yaŋɛmbup | yaNEmb~up	yaŋɛmbup 
+blow: pis- 
+bone: sangger | saNger	saŋgɛr 
+bone: saŋgɛr | saNger	saŋgɛr 
+boy: umare munu 
+boy: umarɛ munu 
+breast: manu 
+brother: baba 
+brother: maŋ 
+brother: meng 
+burn: usaw- 
+butterfly: kawang kawang 
+butterfly: kawaŋ kawaŋ 
+calf: kitu 
+cassowary: taiber 
+chest: kakotiku 
+child: wang umare 
+child: waŋ umarre 
+chin: kambangam 
+chin: kambaŋam 
+cloud: abɛlmɛ 
+cloud: geit | abɛlmɛ 
+cold: kiangkiam | kiaŋkiam 
+cold: kiaŋkiam 
+come: wembr- | wEmb~r	wɛmbr- 
+come: wɛmbr- | wEmb~r	wɛmbr- 
+crocodile: lulu 
+crocodile: tuar 
+cut: butur- 
+dance: uw- 
+day: imbitel 
+day: pune mane 
+day: pune manɛ 
+die: m(aniŋ)- | m-	maniN	maniŋ- 
+dig: punenz- 
+dig: punɛnz- 
+dirty: andimbu 
+dog: kakas 
+dry: amun | amun	kakɛr 
+dry: kaker | amun	kakɛr 
+dry: kakɛr | amun	kakɛr 
+ear: indon | ind~on	indɔn 
+ear: indɔn | ind~on	indɔn 
+earth: mikip 
+eat: an- 
+eat: munew- | an- 
+egg: nau 
+elbow: kumu 
+elbow: urir 
+elbow: urrirr 
+emu: taibɛr 
+excrement: imbu 
+eye: musang | musaN	musaŋ 
+eye: musaŋ | musaN	musaŋ 
+face: mukangam 
+face: mukaŋam 
+fall: arumb- 
+fall: bukew- 
+far: abël | abʌl 
+far: abʌl 
+father: ta 
+fat (n.): kawir 
+fear: urur- 
+few: taßu 
+few: tavu 
+fight: grawar- 
+finger: irum 
+fingernail: guat 
+fingernail: sisen 
+fingernail: sisɛn 
+fire: andup | andup	and~up 
+fish: kitu 
+fly (n.): umu 
+fly (v.): imbar- 
+fog: andu:wikam 
+fog: anduːwikam 
+forest: tinggop 
+forest: tiŋgɔp 
+fruit: mandeng 
+fruit: mandɛŋ 
+full: irumb- | irumb-	irumb~ 
+full: unew- | irumb-	irumb~ 
+full: unɛw- | irumb-	irumb~ 
+girl: umare irum 
+girl: umarɛ irum 
+give: -d- | -d-	-s- 
+give: -s- | -d-	-s- 
+give: -s-/-d- | -d-	-s- 
+good: ambor | ambɔr 
+good: ambɔr 
+grass: tumbang 
+green: kandemben | kandɛmbɛn 
+green: kandɛmbɛn 
+guts: kunakap 
+guts: te 
+hair: ißu | iβu 
+hair: ivu | iβu 
+head: kawil | kumu 
+head: kumu 
+hear: kambin is- | kambin is-	kamb~in is	kamb~inand~ 
+hear: kambin is-/kambinand- | kambin is-	kamb~in is	kamb~inand~ 
+heart: mutukunang | mutukunaŋ 
+heart: mutukunaŋ 
+heavy: bi:nat | biːnat 
+heavy: biːnat 
+here: kese 
+he/she: ø- 
+he/she: u 
+he/she: u- 
+hit: grawar- 
+hold: imbe- 
+house: amun 
+how: dituditu 
+I: i: | iː 
+I: i:- | iː 
+I: iː 
+I: iː- 
+in: uri-te 
+I: y- | iː 
+kill: ur- 
+knee: kumu | kumu	timbiŋam	timb~iNam 
+knee: timbingam | kumu	timbiŋam	timb~iNam 
+knee: timbiŋam | kumu	timbiŋam	timb~iNam 
+laugh: pisir- 
+left: mandeis 
+leg: ain 
+lightning: atembre kawos- 
+lightning: atɛmbrɛ kawos- 
+liver: gaman 
+long: zumburet | zumburɛt 
+long: zumburɛt 
+louse: gunu 
+man: munu 
+many: zilip 
+meat: kitu 
+moon: noun 
+morning: pune 
+morning: punɛ 
+mosquito: kasin 
+mother: na 
+mountain: miniːm | miniːm	munim 
+mountain: muni:m | miniːm	munim 
+mouth: kambar 
+name: uni:m | unim	uniːm 
+name: uniːm | unim	uniːm 
+nape: kunibi 
+navel: sisen 
+navel: sisɛn 
+near: dawo 
+neck: bumu | bumu	kumaŋ arɛm 
+neck: kumang arem | bumu	kumaŋ arɛm 
+neck: kumaŋ arɛm | bumu	kumaŋ arɛm 
+new: tamen | tamEn	tamɛn 
+new: tamɛn | tamEn	tamɛn 
+night: pune | punE	punɛ 
+night: punɛ | punE	punɛ 
+nose: mununggur | munuNgur	munuŋgur 
+not: ßɛgɛt 
+not: veget 
+old: kuken 
+old: kukɛn 
+one: gemem | gEmEm	gɛmɛm 
+one: gɛmɛm | gEmEm	gɛmɛm 
+pull: ieram- 
+pull: lɛram- 
+push: ukusur- 
+rain: timbi 
+rat: munža 
+rat: munzha 
+red: bumbup 
+right: amboris | kumu 
+ripe: bumbup 
+road: paren | parEn 
+road: parɛn | parEn 
+root: murrirriŋ 
+root: mururing | murrirriŋ 
+rope: mimiŋ 
+salt: iber | ibɛrr 
+salt: ibɛrr 
+sand: silep | silɛp 
+sand: silɛp 
+say: matabur | -tɛkaŋ- 
+say: matabur- | -tɛkaŋ- 
+say: -tɛkaŋ- 
+say: -tekang-/-takansum- | -tɛkaŋ- 
+scratch: simungur- 
+scratch: simuŋur- 
+sea: iber 
+sea: ibɛr 
+see: -aŋgew- | -aŋgew-	aNgew	imb~Ensum 
+see: -anggew-/-imbensum- | -aŋgew-	aNgew	imb~Ensum 
+see: musamban- | -aŋgew-	aNgew	imb~Ensum 
+sharp: anin 
+sharp: umbas- 
+short: muru 
+shoulder: mamangam 
+shoulder: mamaŋam 
+sing: irang ur- 
+sister: emenem 
+sister: emɛnɛm 
+sister: emenem moaka 
+sister: emɛnɛm moaka 
+sit: bungam- | buŋam- 
+sit: buŋam- 
+skin: gunu 
+sky: geit 
+sleep: in- 
+small: kuling | kuliŋ 
+small: kuliŋ 
+smell: kanemur- 
+smoke: ikam 
+snake: duang | duaŋ 
+snake: duaŋ 
+spit: kanzaur- 
+spit: niku 
+split: papaur- 
+stand: darem- 
+stand: darɛm- 
+star: umbut | umbut	umb~ut 
+stick: munde tabu 
+stone: ubom | ubom	ubɔm 
+stone: ubɔm | ubom	ubɔm 
+straight: tangen 
+straight: taŋen 
+sun: kamu 
+swell: garu karim- 
+tail: dirru | tiru 
+tail: diru | tiru 
+tail: tiru 
+take: aw- 
+that: uka 
+there: kißute 
+there: kivute 
+they: a-ni-na- 
+they: u-n 
+they: u-n- 
+thigh: punun 
+think: amin ban- 
+this: ke 
+thou: na- | nE	nɛ 
+thou: na-n | nE	nɛ 
+thou: na-n- | nE	nɛ 
+thou: n-ani-na- | nE	nɛ 
+thou: ne | nE	nɛ 
+thou: ne- | nE	nɛ 
+thou: nɛ | nE	nɛ 
+thou: nɛ- | nE	nɛ 
+throat: bumu muriring 
+throat: numu muririŋ 
+throw: patapur- 
+thunder: atembre sa- 
+thunder: atɛmbrɛ sa- 
+tie: windar- 
+tomorrow: mitan 
+tomorrow: uyanarindene 
+tongue: imbitel | imbitɛl	imb~itEl 
+tongue: imbitɛl | imbitɛl	imb~itEl 
+tooth: nanang | nanaN	nanaŋ 
+tooth: nanaŋ | nanaN	nanaŋ 
+tree: kanam | mumdu 
+tree: kunu | mumdu 
+tree: mumdu 
+turn: gri- 
+two: arer | arEr	arɛr 
+two: arɛr | arEr	arɛr 
+vagina: kutu 
+vomit: mil- 
+walk: inziw- 
+walk: posapor- | inziw- 
+wallaby: usu 
+warm: kuariwop 
+warm: kuariwɔp 
+wash: yanggu isi- 
+wash: yaŋgu isi- 
+water: yanggu | yaNgu	yaŋgu 
+water: yaŋgu | yaNgu	yaŋgu 
+weep: amum- 
+we: i-n | in 
+we: i-n- | in 
+we: i-ni-na- | in 
+wet: bamun 
+wet: yanggun 
+wet: yaŋgun 
+what: masi 
+where: dete 
+white: uyan 
+who: yune 
+wind: yawar 
+wing: maru 
+woman: irum 
+wood: mundɛ tabu 
+wood: tabu 
+yesterday: inua 
+yesterday: ziminang 
+yes: yo 
+you: na-n | nE	nɛ 
+you: na-n- | nE	nɛ 
+you: na-ni-na- | nE	nɛ 
+every: iriŋgasin 
+ash: imbu 
+abdomen: urrirr 
+bigness: nei 
+large: nei 
+breasts: manu 
+come from: wEmb~r	wɛmbr- 
+be dead: m-	maniN	maniŋ- 
+dead: m-	maniN	maniŋ- 
+ground: mikip 
+land: mikip 
+soil: mikip 
+fly: imbar- 
+fly v.: imbar- 
+hand: kumu 
+left hand: kumu 
+1 sg.: iː 
+head louse: gunu 
+male: munu 
+much: zilip 
+multiple: zilip 
+several: zilip 
+hill: miniːm	munim 
+title: unim	uniːm 
+nighttime: punE	punɛ 
+adulterous: gEmEm	gɛmɛm 
+single: gEmEm	gɛmɛm 
+the: gEmEm	gɛmɛm 
+unprincipled: gEmEm	gɛmɛm 
+rainy weather: timbi 
+path: parEn 
+route: parEn 
+hide: gunu 
+little: kuliŋ 
+smallness: kuliŋ 
+rock: ubom	ubɔm 
+2 sg: nE	nɛ 
+grind: arEr	arɛr 
+go: inziw- 
+1 pl. inc.: in 
+we₁: in 
+whiteness: uyan 
+who?: yune 
+female: irum 
+distant: abʌl 
+dull: biːnat 
+serious: biːnat 
+close: dawo 
+ner: dawo 

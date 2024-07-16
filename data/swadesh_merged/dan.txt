@@ -1,0 +1,361 @@
+all: al | al	alle	alt	en-hver	hver 
+all: alt | al	alle	alt	en-hver	hver 
+and: og 
+animal: dyr 
+ashes: aske 
+at: ved 
+back: tilbage | ryg 
+bad: dårlig | dårlig	ond	slem 
+bark: gø 
+because: fordi 
+belly: mave 
+big: stor 
+bird: fugl 
+bite: bide 
+black: sort 
+blood: blod | blo87	blod 
+blow: blæse 
+bone: ben | ben	knogle 
+breast: bryst | brest	bryst 
+breathe: ånde 
+burn: brænde 
+child: barn 
+cloud: sky 
+cold: kold 
+come: komme | kam3	komme 
+correct: rigtig | ret	rigtig 
+count: tælle 
+cut: skære | hugge	skære 
+day: dag 
+die: dø | de7	dø	død 
+dig: grave 
+dirty: snavset | beskidt	smudsig	snavset	uren 
+dog: hund | hun7	hund 
+drink: drikke | drEg3	drikke 
+dry: tør 
+dull: kedelig | svær	tung | sløv	stump 
+dust: støv 
+ear: øre | ea	øre 
+earth: jord | jord	land 
+eat: spise 
+egg: æg 
+eye: øje | ay3	øje 
+fall: fald | falde 
+far: fjern | fjern	fjernt	langt 
+father: fader | fader	far 
+fat (n.): fedt 
+fear: frygt | flygt	frygte	skræk 
+feather: fjer | fjeder	fjer 
+few: få | få	lidt 
+few: færre | få	lidt 
+fight: kæmpe | kæmpe	slås 
+fingernail: negl | fingernegl	negl 
+fire: ild | il7	ild 
+fish: fisk | fesk	fisk 
+five: fem 
+float: flyde 
+flower: blomst 
+flow: strømme | flyde	rinde	strømme 
+fly (v.): flyve 
+fog: tåge 
+foot: fod 
+forest: skov 
+four: fire 
+freeze: fryse 
+fruit: frugt 
+full: fuld | ful7	fuld 
+give: give 
+good: god 
+grass: græs 
+green: grøn 
+guts: tarm | involde	tarm 
+hair: hår 
+hand: hånd | han7	hånd 
+head: hovede 
+hear: høre | hea	høre 
+heart: hjerte 
+heavy: tung | svær	tung 
+he: han 
+here: her 
+hit: slå 
+hold: hold | holde 
+horn: horn | ho7an	horn 
+how: hvordan | hvordan	hvorledes 
+hunt: jage 
+husband: mand | husbond	mand	ægtemand 
+ice: is 
+if: hvis 
+I: jeg | jeg	yEy 
+in: i | i	inde 
+in: ind | i	inde 
+in: inde | i	inde 
+kill: dræbe 
+knee: knæ | knE7	knæ 
+know: vide | kende	vide 
+lake: sø | indsø	sø 
+laugh: le | grine	le 
+leaf: blad | blE8	blad	løv 
+left: venstre 
+leg: ben 
+lie: ligge | ligge	lægge sig	løgn 
+live: leve | i live	leve	levende	liv 
+liver: lever | lever	lew~a 
+long: længe | lang 
+long: lang 
+louse: lus 
+man: mand | mEnsk3	menneske 
+many: mange | mange	megen 
+meat: kød 
+moon: måne 
+mother: moder | moder	mor 
+mountain: bjerg | bakke	bjerg	by~Ew7	fjeld 
+mouth: mund 
+name: navn | navn	naw7n 
+narrow: snæver | smal	snæver 
+near: nær 
+neck: hals | hals	nakke 
+new: ny | ni7	ny 
+night: nat | nEt	nat 
+nose: næse | nEs3	næse 
+not: ikke 
+old: gammel 
+one: en | e7n	en	én 
+one: et | e7n	en	én 
+other: anden | anden	andet 
+person: person | mEnsk3	menneske 
+play: spille | lege	spille 
+pull: trække 
+push: skubbe | skubbe	støde 
+rain: regn | regn	regne 
+red: rød 
+right: rigtig | han7	hånd | højre 
+river: elv | bæk	flod	strøm 
+river: flod | bæk	flod	strøm 
+road: vej | sti7	vej 
+root: rod 
+rope: reb | reb	snor	tov 
+rotten: rådden 
+round: rund 
+rub: gnide 
+rub: gnubbe | gnide 
+salt: salt 
+sand: sand 
+say: sige | sand 
+scratch: kradse 
+sea: hav | hav	sø 
+seed: frø 
+see: se | se	se7 
+sew: sy 
+short: kort 
+sing: synge 
+sit: sidde | sidde	sætte sig 
+skin: skind | hu87	hud	skind 
+sky: himmel 
+sleep: sove 
+small: lille | lille	små 
+small: små | lille	små 
+smell: lugte 
+smoke: røg 
+smooth: glat | glat	jævn 
+snake: slange | slange	snog 
+snow: sne 
+some: nogen | nogen	noget 
+some: noget | nogen	noget 
+some: nogle | nogen	noget 
+spit: spytte 
+split: splitte | kløve	spalte	splitte 
+squeeze: klemme | presse	vride 
+squeeze: presse | presse	vride 
+stab: stikke 
+stand: stå | stå	stå op 
+star: stjerne | stjerne	styEan3 
+stick: kæp | gren	kæp	pind 
+stone: sten | klippe	sten 
+straight: lige | lige	ret 
+suck: sutte | die	suge	sutte 
+sun: sol 
+swell: svulme 
+swim: svømme 
+tail: hale | hale	svans 
+that: den der/det der | den	den der	det der | e7n	en	én 
+there: der 
+they: de 
+thick: tyk 
+think: tænke 
+thin: tynd 
+this: denne/dette | den her	denne	det her	dette 
+three: three | tre 
+throw: kaste 
+tie: binde 
+tongue: tunge | toN3	tunge 
+tooth: tand | tEn7	tand 
+tree: træ | trE7	træ 
+turn: dreje | dreje	sno 
+turn: vende | dreje	sno 
+two: to | to	to7 
+vomit: kaste op | brække sig	kaste op 
+walk: gø | gå 
+warm: varm 
+wash: vaske | tvætte	vaske 
+water: vand | vEn7	vand 
+wet: våd | fugtig	våd 
+we: vi | os	vi 
+what: hvad 
+when: hvornår 
+where: hvor 
+white: hvid 
+who: hvem 
+wide: bred | bred	vid 
+wide: bredde | bred	vid 
+wide: bredt | bred	vid 
+wife: kone | hustru	kone	viv 
+wind: vind 
+wing: vinge 
+wipe: tørre af | viske 
+wipe: viske 
+with: med 
+woman: kvinde 
+worm: orm 
+year: år 
+yellow: gul 
+you: De, Dem | De	du 
+you: dig | De	du 
+you: du | De	du 
+you: en | De	du 
+you: I, jer | De	du 
+you: man | De	du 
+every: al	alle	alt	en-hver	hver 
+ash: aske 
+bark: bark 
+abdomen: mave 
+bigness: stor 
+large: stor 
+breasts: brest	bryst 
+burn tr.: brænde 
+claw: klo	negl 
+nail: klo	negl 
+talon: klo	negl 
+come from: kam3	komme 
+be dead: de7	dø	død 
+dead: de7	dø	død 
+ground: jord	land 
+land: jord	land 
+soil: jord	land 
+fat: fedt 
+fat n.: fedt 
+grease: fedt 
+lubricant: fedt 
+oil: fedt 
+fly: flyve 
+fly v.: flyve 
+left hand: han7	hånd 
+head: hoved 
+1 sg.: jeg	yEy 
+be knowledgeable: kende	vide 
+lie down: ligge 
+head louse: lus 
+male: mand 
+much: mange	megen 
+multiple: mange	megen 
+several: mange	megen 
+flesh: kød 
+hill: bakke	bjerg	by~Ew7	fjeld 
+title: navn	naw7n 
+nighttime: nEt	nat 
+adulterous: e7n	en	én 
+single: e7n	en	én 
+the: e7n	en	én 
+unprincipled: e7n	en	én 
+human: mEnsk3	menneske 
+human being: mEnsk3	menneske 
+rainy weather: regn	regne 
+path: sti7	vej 
+route: sti7	vej 
+hide: hu87	hud	skind 
+little: lille	små 
+smallness: lille	små 
+rock: klippe	sten 
+2 sg: De	du 
+thou: De	du 
+grind: to	to7 
+go: gå 
+hot: varm 
+1 pl. inc.: os	vi 
+we₁: os	vi 
+whiteness: hvid 
+who?: hvem 
+female: kvinde 
+distant: fjern	fjernt	langt 
+serious: svær	tung 
+close: nær 
+ner: nær 
+earthworm: orm 
+3 sg.: han 
+she: han 
+3 pl.: de 
+where?: hvor 
+when?: hvornår 
+how?: hvordan	hvorledes 
+broad: bred	vid 
+wideness: bred	vid 
+principal wife: hustru	kone	viv 
+his mother: moder	mor 
+my mother: moder	mor 
+his father: fader	far 
+my father: fader	far 
+woods: skov 
+branch: gren	kæp	pind 
+cord: reb	snor	tov 
+arm: hånd 
+gut: involde	tarm 
+insides: involde	tarm 
+intestine: involde	tarm 
+intestines: involde	tarm 
+breath: ånde 
+laughter: grine	le 
+cogitate: tænke 
+reflect: tænke 
+sniff: lugte 
+afraid: flygt	frygte	skræk 
+be afraid: flygt	frygte	skræk 
+fright: flygt	frygte	skræk 
+alive: i live	leve	levende	liv 
+be alive: i live	leve	levende	liv 
+life: i live	leve	levende	liv 
+living: i live	leve	levende	liv 
+beat: slå 
+strike: slå 
+hack: hugge	skære 
+cut open: kløve	spalte	splitte 
+pierce: stikke 
+tell lies: ligge	lægge sig	løgn 
+turn around: dreje	sno 
+turn round: dreje	sno 
+drop: falde 
+grasp: holde 
+hold in arm: holde 
+wring: presse	vride 
+wash clothes: tvætte	vaske 
+shove: skubbe	støde 
+bind: binde 
+fasten: binde 
+tie up: binde 
+enumerate: tælle 
+number: tælle 
+tally: tælle 
+have fun: lege	spille 
+brook: bæk	flod	strøm 
+stream: bæk	flod	strøm 
+ocean: hav	sø 
+blaze: brænde 
+daylight: dag 
+daytime: dag 
+evil: dårlig	ond	slem 
+rot: rådden 
+filthy: beskidt	smudsig	snavset	uren 
+soiled: beskidt	smudsig	snavset	uren 
+sharp: skarp 
+blunt: sløv	stump 
+damp: fugtig	våd 
+right side: højre 
+inside: i	inde 

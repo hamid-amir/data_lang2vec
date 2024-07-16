@@ -1,0 +1,333 @@
+and: og 
+bird: fuglur 
+child: barn 
+come: koma | kh~oma	koma 
+day: dagur 
+die: doyggja | doigy~a	doyggja 
+dog: hundur 
+drink: drekka | drekh~a	drekka 
+eat: eta 
+eye: eyga | Eiga	eyga 
+fish: fiskur 
+five: fimm 
+foot: fótur 
+four: fýra | fýra	fÿra 
+give: geva 
+good: góður 
+hair: hár 
+hand: hánd | hond 
+head: høvd | høvd	høvur 
+hear: hoyra | hoira	hoyra 
+heart: hjarta 
+he: hann 
+here: her 
+hit: sláa 
+how: hvussu 
+I: eg | Eg	eg	jeg 
+in: í 
+know: vita 
+laugh: læa | flenna	grína	læa 
+left: vinstra 
+man: maður | mEdn~iSa	menniskja 
+meat: kjøt 
+mountain: fjøll | fjall	fy~adl~ 
+name: navn | nam	navn	navn~ 
+new: nýggjur | nuigy~ur	nýggjur 
+night: nátt | not	nátt 
+not: ikki 
+one: ein | ein	eitt	oin	oit 
+other: annar 
+rain: regna 
+red: reyður 
+say: siga | sandur 
+see: sjá | suigy~a	síggja 
+sing: syngja 
+sleep: sova 
+snow: kavi | kavi	snjógvur 
+there: har 
+they: teir | teir	tey	tær 
+this: hesi | henda	hesin	hetta 
+thou: tú | ti	tú 
+three: trý | tríggir 
+throw: kasta | blaka	kasta	tveita 
+tree: træ | trEa	træ 
+two: tvey | tvEi	tveir	tvoir 
+wash: vaska | tváa	vaska 
+we: vit 
+what: hvat 
+where: hvør | hvar 
+white: hvítt | hvítur 
+you: tit | ti	tú 
+all: alt 
+every: alt 
+ash: øska 
+ashes: øska 
+bark: børkur 
+abdomen: búkur	magi 
+belly: búkur	magi 
+big: stórur 
+bigness: stórur 
+large: stórur 
+bite: bíta 
+black: svartur 
+blood: ble	blóð 
+bone: bein	boin 
+breast: brest	bróst 
+breasts: brest	bróst 
+cloud: skýggj 
+cold: kalt 
+come from: kh~oma	koma 
+be dead: doigy~a	doyggja 
+dead: doigy~a	doyggja 
+dry: turrur 
+ear: oira	oyra 
+earth: jørð	mold 
+ground: jørð	mold 
+land: jørð	mold 
+soil: jørð	mold 
+egg: egg 
+feather: fjøður 
+fire: Eldur	eldur 
+fly: fljúga	fljúgva	flúgva 
+fly v.: fljúga	fljúgva	flúgva 
+full: fudl~ur	fullur 
+green: grønur 
+left hand: hond 
+right: hond 
+horn: hodn~	horn 
+1 sg.: Eg	eg	jeg 
+kill: drepa 
+knee: kh~nEa	knæ 
+be knowledgeable: vita 
+leaf: bla	blað	leyv 
+liver: livur 
+long: langur 
+head louse: lis	lús 
+louse: lis	lús 
+male: maður 
+many: mangir	nógvir 
+much: mangir	nógvir 
+multiple: mangir	nógvir 
+several: mangir	nógvir 
+moon: máni	tungl 
+hill: fjall	fy~adl~ 
+mouth: munnur	muður 
+title: nam	navn	navn~ 
+neck: hálsur	nakki 
+nighttime: not	nátt 
+nose: nes	nøs 
+adulterous: ein	eitt	oin	oit 
+single: ein	eitt	oin	oit 
+that: handa	hasin	hatta 
+the: ein	eitt	oin	oit 
+unprincipled: ein	eitt	oin	oit 
+human: mEdn~iSa	menniskja 
+human being: mEdn~iSa	menniskja 
+person: mEdn~iSa	menniskja 
+rainy weather: regna 
+path: geta	vEgur	vegur 
+road: geta	vEgur	vegur 
+route: geta	vEgur	vegur 
+root: rót 
+round: rundur 
+sand: sandur 
+seed: fræ 
+sit: seta seg	sita 
+hide: Sidn~	húð 
+skin: Sidn~	húð 
+little: lítil 
+small: lítil 
+smallness: lítil 
+smoke: roykur 
+star: Serna	stjørna 
+rock: steinur	stoinur 
+stone: steinur	stoinur 
+sun: sel	sól 
+swim: svimja 
+tail: hali 
+2 sg: ti	tú 
+tongue: tuNga	tunga 
+tooth: todn~	tonn 
+grind: tvEi	tveir	tvoir 
+go: ganga 
+walk: ganga 
+hot: heitur	lýggjur 
+warm: heitur	lýggjur 
+water: vatn 
+1 pl. inc.: vit 
+we₁: vit 
+whiteness: hvítur 
+who: hvør 
+who?: hvør 
+female: kona	kvinna 
+woman: kona	kvinna 
+yellow: gulur 
+distant: fjarur 
+far: fjarur 
+dull: tungur 
+heavy: tungur 
+serious: tungur 
+close: nær 
+near: nær 
+ner: nær 
+salt: salt 
+short: stuttur 
+snake: ormur	slanga 
+thin: klænur	tunnur 
+wind: vindur 
+earthworm: maðkur	ormur 
+worm: maðkur	ormur 
+year: ár 
+3 sg.: hann 
+she: hann 
+2 pl.: tit 
+ye: tit 
+you all: tit 
+3 pl.: teir	tey	tær 
+where?: hvar 
+when: nær 
+when?: nær 
+how?: hvussu 
+some: nakrir 
+few: fáir 
+broad: breiður 
+wide: breiður 
+wideness: breiður 
+fat: feitt	fiti 
+thick: tjúkkur 
+narrow: trongur 
+principal wife: húsfrú	húsfrúgv	hústrú	kona	vív 
+wife: húsfrú	húsfrúgv	hústrú	kona	vív 
+husband: húsbóndi	maður 
+his mother: mamma	móðir 
+mother: mamma	móðir 
+my mother: mamma	móðir 
+father: babba	faðir	pápi 
+his father: babba	faðir	pápi 
+my father: babba	faðir	pápi 
+animal: djór	dýr 
+forest: skóg	skógur 
+woods: skóg	skógur 
+branch: keppur	prukka	puttur	stavur 
+stick: keppur	prukka	puttur	stavur 
+fruit: frukt	ávøkstur 
+flower: blóma 
+grass: gras 
+cord: band	lína	reip	tog 
+rope: band	lína	reip	tog 
+flesh: kjøt 
+grease: feitt	fiti 
+claw: negl 
+fingernail: negl 
+nail: negl 
+leg: bein	leggur 
+arm: hond 
+wing: vongur 
+gut: gørn	tarmur 
+guts: gørn	tarmur 
+insides: gørn	tarmur 
+intestine: gørn	tarmur 
+intestines: gørn	tarmur 
+back: ryggur 
+suck: súgva 
+spit: spýta 
+vomit: spýggja 
+blow: blása 
+breath: anda 
+breathe: anda 
+laughter: flenna	grína	læa 
+cogitate: hugsa 
+reflect: hugsa 
+think: hugsa 
+smell: lukta 
+sniff: lukta 
+afraid: ræðast 
+be afraid: ræðast 
+fear: ræðast 
+fright: ræðast 
+alive: liva 
+be alive: liva 
+life: liva 
+live: liva 
+living: liva 
+fight: stríða 
+hunt: jaga	veiða 
+beat: sláa 
+strike: sláa 
+cut: skera 
+hack: skera 
+cut open: klúgva 
+split: klúgva 
+pierce: stinga 
+stab: stinga 
+scratch: klóra 
+dig: grava 
+lie: leggja seg	liggja 
+lie down: leggja seg	liggja 
+tell lies: leggja seg	liggja 
+stand: standa 
+turn: snara	snúgva	venda 
+turn around: snara	snúgva	venda 
+turn round: snara	snúgva	venda 
+drop: detta	fella 
+fall: detta	fella 
+grasp: halda 
+hold: halda 
+hold in arm: halda 
+squeeze: kroysta 
+wring: kroysta 
+rub: gníggja 
+wipe: turka 
+wash clothes: tváa	vaska 
+pull: toga 
+push: skumpa 
+shove: skumpa 
+bind: binda	knýta 
+fasten: binda	knýta 
+tie: binda	knýta 
+tie up: binda	knýta 
+sew: seyma 
+count: telja 
+enumerate: telja 
+number: telja 
+tally: telja 
+have fun: leika	spæla 
+play: leika	spæla 
+float: flóta 
+flow: floyma	streyma 
+freeze: frysta 
+swell: bólgna	hovna	trútna 
+brook: løkur	á	áarløkur 
+river: løkur	á	áarløkur 
+stream: løkur	á	áarløkur 
+lake: tjørn	vatn 
+ocean: hav	sjógvur 
+sea: hav	sjógvur 
+dust: dust	støv 
+fog: mjørki	toka 
+sky: himin	himmal 
+ice: ísur 
+blaze: brenna 
+burn: brenna 
+daylight: dagur 
+daytime: dagur 
+old: gamal 
+bad: ringur 
+evil: ringur 
+rot: rotin 
+rotten: rotin 
+dirty: skitin 
+filthy: skitin 
+soiled: skitin 
+straight: beinur 
+sharp: hvassur 
+blunt: óhvassur 
+smooth: slættur 
+damp: vátur 
+wet: vátur 
+correct: rættur 
+right side: høgra 
+at: hjá 
+with: med	við 
+if: um 
+because: tí 

@@ -1,0 +1,289 @@
+all: apaimene | apai mene	apaimene 
+arm: he riki 
+arm: se 
+arm: see 
+arm: sii 
+ashes: ato-boti | atoputi	i kehu	kehu 
+ashes: atoputi | atoputi	i kehu	kehu 
+bark: hevi | hevi	hewi	i hewi 
+belly: di | yo	yomaho 
+belly: dumuhau | yo	yomaho 
+belly: yo | yo	yomaho 
+big: gwobi | gwɔbi	wopi 
+big: gwɔbi | gwɔbi	wopi 
+bird: ka | iwoi ka	ka 
+bite: teketo | teketo	tikei 
+black: hukuri | hukuri	kiho puri 
+blood: hokore 
+bone: rapo 
+bone: trapo 
+boy: magoraheni 
+branch: i-rui 
+breast: ho | ho	hɔ	no	nu 
+breast: hɔ | ho	hɔ	no	nu 
+breast: hu | ho	hɔ	no	nu 
+burn: yakarato 
+butterfly: boi-boi 
+butterfly: poi-poi 
+child: pore 
+claw: kohemu | iwoi ka kipi	kipi	kohẽmu 
+claw: kohe͂mu | iwoi ka kipi	kipi	kohẽmu 
+cloud: uru paruho | uru paruho	ɔɣɔ paruho 
+cold: hahau 
+come: umui | yara	yato	yeimo 
+come: yato | yara	yato	yeimo 
+crocodile: emo 
+die: kahekapo | kah-imo	kahEka	kahekapo 
+dog: ka | ka	kaE 
+dog: kaka | ka	kaE 
+drink: obora | nana	ne-imo	u nato	u ne-imo 
+drink: u nato | nana	ne-imo	u nato	u ne-imo 
+dry: hene 
+ear: ku pate | ko	ku pate 
+ear: kupati | ko	ku pate 
+ear: qopati | ko	ku pate 
+earth: hapu 
+earth: sapo | hapu 
+eat: kai | nato	neimo 
+eat: nato | nato	neimo 
+eat: n-o/n-onoa/n-omo/n-omo/n-ado/n-emo | nato	neimo 
+egg: kai | iwoi ka re	re 
+egg: re | iwoi ka re	re 
+elbow: hemarkau 
+eye: hihi-ti | ihi	ihita 
+eye: i: | ihi	ihita 
+eye: ihita | ihi	ihita 
+face: hihi-rapu 
+father: aba 
+fat (n.): wopi 
+feather: ka | iwoi ka pate	ka pate	pate 
+feather: ka pate | iwoi ka pate	ka pate	pate 
+feather: mahaaribata | iwoi ka pate	ka pate	pate 
+finger: emurabu 
+finger: ketuhi 
+fire: ebani | i	nei i 
+fire: i | i	nei i 
+fire: ibani | i	nei i 
+fish: namo | namo	namu 
+fish: namu | namo	namu 
+five: hemu 
+fly (n.): kugu 
+fly (n.): morapo 
+fly (v.): pona uto 
+foot: da | re 
+foot: terami | re 
+forest: binite 
+four: tuhi 
+full: orope | orope	orupe 
+girl: buhe 
+give: tato | tato	teimo 
+give: terema | tato	teimo 
+good: kahau 
+good: namo | kahau 
+good: nato | kahau 
+green: kepa | hei	i pate hei	kepa 
+hair: au-badi | pate	wotu pate 
+hair: pate | pate	wotu pate 
+hair: pati | pate	wotu pate 
+hand: see | hE	he 
+hand: sii | hE	he 
+head: wotu | wotu	wotu rapo 
+head: wotu rapo | wotu	wotu rapo 
+heart: kamau 
+hear: woito | wara	woito	womo 
+he/she: ane 
+he/she: -omo 
+hit: te-umu 
+horn: kepare | ekemu	kepare 
+house: mi 
+house: vi 
+I: emo | ene	i 
+I: ene | ene	i 
+I: -o | ene	i 
+kill: rato | ra-imo	rato 
+kill: wotu | ra-imo	rato 
+knee: lemoko | lemoko	mokou 
+know: ranemepo | rane mepo	ranemopi 
+know: ranemopi | rane mepo	ranemopi 
+leaf: i pate | i pate	patE	pate 
+leaf: iwui | i pate	patE	pate 
+leaf: kiwa | i pate	patE	pate 
+leg: re riki 
+leg: rumu 
+lie: hita | hita	pekete 
+lie: pekete | hita	pekete 
+lie: pekete/hita | hita	pekete 
+lip: o-abau 
+liver: upi | eire	upi 
+long: hau 
+louse: kuro | EmEnE	kuro 
+man: makori | wamE	wame 
+man: taunama | wamE	wame 
+man: uguheni | wamE	wame 
+man: uki | wamE	wame 
+many: tane hari | tane hari	tani hari 
+meat: mehamu 
+moon: dari | koai	pari 
+moon: pari | koai	pari 
+mosquito: nonuku 
+mother: woi 
+mountain: akapu | ajaoy	akapu	rei 
+mountain: puhuwoi | ajaoy	akapu	rei 
+mouth: o | ane o	o 
+mouth: u | ane o	o 
+mouth: uti | ane o	o 
+name: paina | EnEnE	paina 
+navel: duma 
+neck: hipu riki | hipu	hipu riki 
+neck: ibu-rigi | hipu	hipu riki 
+new: woinu | kahi	morio	woinu 
+night: riho 
+night: uru-homo | riho 
+nose: iu-rapi | yu	yu rapo 
+nose: yu | yu	yu rapo 
+nose: yu rapo | yu	yu rapo 
+not: miimo | miːmo	moi 
+not: miːmo | miːmo	moi 
+one: leiabai | reiapai	ṛiabai 
+one: riabai | reiapai	ṛiabai 
+one: ṛiabai | reiapai	ṛiabai 
+rain: kapo 
+rain: kapu | kapo 
+red: hokore 
+river: emamu 
+river: u-tui 
+road: te 
+road: tei 
+road: te͂i͂ 
+root: arui | i rui	rui 
+root: i rui | i rui	rui 
+rope: kar 
+rope: kobiar 
+sand: kigini | wio	wui 
+sand: wio | wio	wui 
+say: keto | kiti mapo 
+see: atiramora | wahEka	wahimo	wahito 
+seed: maro | i ɣe	maro	ɣe 
+see: wahito | wahEka	wahimo	wahito 
+shoulder: iaburabu 
+sit: maru moto | makepo	maru moto 
+skin: evi-tau | hei	heitau 
+skin: heitau | hei	heitau 
+skin: hei-tau | hei	heitau 
+skin: sèvi-tau | hei	heitau 
+sky: nòro 
+sleep: hitato | hitato	hite-imo 
+sleep: kaida | hitato	hite-imo 
+small: matu 
+smoke: i ahinu | heino	i ahinu	i heino 
+smoke: iehino | heino	i ahinu	i heino 
+snake: kapo | kapu 
+spit: kohapi 
+stand: raito 
+star: huri | isu	koai tura	pari hipi 
+star: pari hipi | isu	koai tura	pari hipi 
+stone: akapu | akapu	koEo 
+sun: eho 
+sun: nara | eho 
+sun: uru | eho 
+swim: uhine | uh-imo	uhine 
+tail: tura 
+that: oko 
+they: ame 
+they: -emo 
+they two: ati 
+this: ale | ale	ere 
+thou: eke | eke	iki	ikipo 
+thou: igia | eke	iki	ikipo 
+thou: ikipo | eke	iki	ikipo 
+thou: kame | eke	iki	ikipo 
+thou: -onoa | eke	iki	ikipo 
+three: siri 
+tongue: oho | oho	ɔhɔ 
+tongue: ɔhɔ | oho	ɔhɔ 
+tongue: uhu | oho	ɔhɔ 
+tooth: magu | maku 
+tooth: maku 
+tree: i 
+tree: ii 
+two: tai 
+walk: utu | umo	ve 
+walk: ve | umo	ve 
+wallaby: hawari 
+warm: epo 
+water: nana 
+water: u 
+we (incl.): name 
+we (incl.): nati 
+we: na-me | namE	name 
+we: -omo | namE	name 
+we two (incl.): nati 
+we two: na-ti 
+what: kopa 
+white: paruho 
+who: maː | maʼa	maː 
+who: maa | maʼa	maː 
+wife: enawo 
+wind: marari | ekene	hahau 
+woman: paimato 
+woman: wo 
+woman: wohoni 
+woman: wor 
+yellow: yeya | yaya	yeya 
+you: -ado | eke	iki	ikipo 
+you: ka-me | eke	iki	ikipo 
+you two: kati 
+you two: ka-ti 
+every: apai mene	apaimene 
+ash: atoputi	i kehu	kehu 
+abdomen: yo	yomaho 
+bigness: gwɔbi	wopi 
+large: gwɔbi	wopi 
+breasts: ho	hɔ	no	nu 
+nail: iwoi ka kipi	kipi	kohẽmu 
+talon: iwoi ka kipi	kipi	kohẽmu 
+come from: yara	yato	yeimo 
+be dead: kah-imo	kahEka	kahekapo 
+dead: kah-imo	kahEka	kahekapo 
+ground: hapu 
+land: hapu 
+soil: hapu 
+fly: pona uto	pu-imo 
+fly v.: pona uto	pu-imo 
+left hand: hE	he 
+right: hE	he 
+1 sg.: ene	i 
+be knowledgeable: rane mepo	ranemopi 
+lie down: hita	pekete 
+head louse: EmEnE	kuro 
+male: liki	uki 
+much: tane hari	tani hari 
+multiple: tane hari	tani hari 
+several: tane hari	tani hari 
+hill: ajaoy	akapu	rei 
+title: EnEnE	paina 
+nighttime: riho 
+adulterous: reiapai	ṛiabai 
+single: reiapai	ṛiabai 
+the: reiapai	ṛiabai 
+unprincipled: reiapai	ṛiabai 
+human: wamE	wame 
+human being: wamE	wame 
+person: wamE	wame 
+rainy weather: kapo 
+round: witi witi 
+hide: hei	heitau 
+little: matu 
+smallness: matu 
+rock: akapu	koEo 
+2 sg: eke	iki	ikipo 
+grind: tai 
+go: umo	ve 
+1 pl. inc.: namE	name 
+we₁: namE	name 
+whiteness: paruho 
+who?: maʼa	maː 
+female: wo 
+dull: tumi 
+heavy: tumi 
+serious: tumi 

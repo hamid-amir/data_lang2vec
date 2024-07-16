@@ -1,0 +1,322 @@
+all: paʔuit | သီု 
+ashes: pateŋ | ပ္တေၚ် 
+bark: sakow | သၞံက် 
+belly: buŋ | ဗုၚ် 
+big: ӡnok | ဇၞော် 
+bird: gacem | ဂစေံ 
+bite: kit | သ္ကိတ် 
+black: lamcɔk | လ္စံက် 
+blood: chim | ဆီ 
+bone: ӡut | ဇုတ် 
+breast: tah | တှ် 
+burn: tu | စံၚ် 
+claw: sanem | သၞေံ 
+cloud: mat brai | မတ် ဗြဲ 
+cold: gaok | ဂံက်	ၜိုဟ် 
+come: kluŋ | ကၠုၚ် 
+die: khyuit | ချိုတ် 
+dog: kluiw | ကၠဵု 
+drink: suŋ | သုၚ် 
+dry: sǝmkah | ပရောမ်	သ္ကဟ် 
+ear: katow | က္တောဝ် 
+earth: ti | တိ 
+eat: ca 
+egg: khǝmai | ခမှဲာ 
+eye: mat | မတ် 
+fat (n.): kleŋ 
+fat (n.): tleŋ 
+feather: sǝneŋ | သော် 
+fire: pamat | ဗမတ် 
+fish: ka 
+fly (v.): paw 
+foot: ӡoŋ | ဇိုၚ် 
+full: peŋ | ပေၚ် 
+give: kuiw | ကဵု 
+good: khuih | ခိုဟ် 
+green: saŋeak | ဍာပ်ဍဴ 
+hair: sok | သော် 
+hand: tay | တဲ 
+head: kaDuip | ဍိုပ် 
+hear: miŋ | မှိၚ် 
+heart: gruih | ဂြိုဟ် 
+horn: draŋ | ဂြၚ် 
+horn: graŋ | ဂြၚ် 
+I: ʔaj | အဲ 
+kill: gacuit | ဃာစိုတ် 
+knee: kboaŋ 
+know: tim | တီ 
+leaf: sla | သၠ 
+lie: wat | သ္တိက် 
+liver: gruih | ဂြိုဟ် 
+long: ӡliŋ | ဒၠိၚ် 
+louse: caj | စဲ 
+man: truʔ | %nih	မၞိဟ် 
+many: gluiŋ | ဂၠိုၚ် 
+meat: pcun | ဖျုန် 
+moon: gatu | ဂိတု 
+mountain: duiw | ဒဵု 
+mouth: pa:ŋ | ပါၚ် 
+name: neme | ယၟု 
+neck: kaʔ | ကံ 
+new: tami | တၟိ 
+night: btam | ဗ္တံ 
+nose: muh | မိုဟ 
+not: ha 
+one: mwaj | မွဲ 
+person: mnih | %nih	မၞိဟ် 
+rain: braj | ဗြဲ 
+red: bkat | ဗ္ကေတ် 
+road: gloŋ | ဂၠံၚ 
+road: traw | ဂၠံၚ 
+root: ruih | ရိုဟ် 
+round: khDom | ခ္ဍံ 
+sand: bati: | ဗ္တဳ 
+say: huim | ဂး	ဟီု | ဗ္တဳ 
+see: йa:t | ညာတ် 
+sit: gaӡaʔ | ဒဇံ 
+skin: sna:m | သၞာံ 
+sleep: stik | သ္တိက်	သၠိၚ် 
+small: йi | ဍောတ် 
+smoke: jak | ယက် 
+stand: tuiw | က္တဵု	ဒတဴ 
+star: saman | သၞံၚ် 
+stone: tmaʔ | တၟံ 
+sun: tŋaj | တ္ၚဲ 
+swim: biŋ | ၜိၚ် 
+tail: bata | ဗတ 
+that: teʔ | တေံ | မွဲ 
+this: Naʔ | ဏံ 
+thou: beh | ဗှေ် 
+tongue: kata:k | လတာ် 
+tooth: ŋek | ၚေက် 
+tree: chu | ဆု 
+two: ba: | ၜါ 
+walk: ʔa: | တွာ် 
+warm: guim | ဂဳု 
+water: Da:k | ဍာ် 
+we: puij | ပဲို 
+what: mu | မူ 
+white: bu | ဗု	သ္ကိုဟ် 
+woman: brau | ဗြဴ 
+yellow: Daʔmit | ဍာ် မိတ် 
+every: သီု 
+ash: ပ္တေၚ် 
+abdomen: ဗုၚ် 
+bigness: ဇၞော် 
+large: ဇၞော် 
+breasts: တှ် 
+come from: ကၠုၚ် 
+be dead: ချိုတ် 
+dead: ချိုတ် 
+ground: တိ 
+land: တိ 
+soil: တိ 
+fly: ပဝ် 
+fly v.: ပဝ် 
+1 sg.: အဲ 
+be knowledgeable: တီ 
+head louse: စဲ 
+male: တြုံ 
+much: ဂၠိုၚ် 
+multiple: ဂၠိုၚ် 
+several: ဂၠိုၚ် 
+hill: ဒဵု 
+title: ယၟု 
+nighttime: ဗ္တံ 
+adulterous: မွဲ 
+single: မွဲ 
+the: မွဲ 
+unprincipled: မွဲ 
+human: %nih	မၞိဟ် 
+human being: %nih	မၞိဟ် 
+rainy weather: ဗြဲ 
+path: ဂၠံၚ 
+route: ဂၠံၚ 
+seed: မ	မ ဗၞး 
+hide: သၞာံ 
+little: ဍောတ် 
+smallness: ဍောတ် 
+rock: တၟံ 
+2 sg: ဗှေ် 
+you: ဗှေ် 
+grind: ၜါ 
+go: တွာ် 
+hot: ဂဳု 
+1 pl. inc.: ပဲို 
+we₁: ပဲို 
+whiteness: ဗု	သ္ကိုဟ် 
+female: ဗြဴ 
+distant: သ္ၚေဲယ 
+far: သ္ၚေဲယ 
+dull: သ္ဇိုၚ် 
+heavy: သ္ဇိုၚ် 
+serious: သ္ဇိုၚ် 
+close: ဆိုက်	ညောန် 
+near: ဆိုက်	ညောန် 
+ner: ဆိုက်	ညောန် 
+salt: ၜဵု 
+short: ဂၠေံ 
+snake: ဇြုံ 
+thin: တြဳ 
+wind: ကျာ 
+earthworm: မြုန် 
+worm: မြုန် 
+year: သၞာံ 
+3 sg.: ဍေံ 
+he: ဍေံ 
+she: ဍေံ 
+3 pl.: ညး 
+they: ညး 
+here: အနံ 
+there: အတေံ 
+where: အလှဵု 
+where?: အလှဵု 
+when: ဆောဝ်လအ် 
+when?: ဆောဝ်လအ် 
+how: သာ်လဵု 
+how?: သာ်လဵု 
+few: အောန် 
+other: တၞံ 
+three: ပိ 
+four: ပန် 
+five: မသုန် 
+broad: သၠဲ 
+wide: သၠဲ 
+wideness: သၠဲ 
+fat: တၠောၚ် 
+thick: တီု 
+narrow: က္ဍန် 
+child: ကွေန် 
+principal wife: ဗြဴ 
+wife: ဗြဴ 
+husband: တြုံ 
+his mother: မိ 
+mother: မိ 
+my mother: မိ 
+father: တ	မ 
+his father: တ	မ 
+my father: တ	မ 
+animal: တိရစ္ဆာန် 
+forest: ဂြိုပ် 
+woods: ဂြိုပ် 
+branch: လေံ 
+stick: လေံ 
+fruit: သတ် 
+flower: ပ္ကဴ 
+grass: ကၟတ်	ချဲ 
+cord: ဇုက် 
+rope: ဇုက် 
+flesh: ဖျုန် 
+grease: တၠောၚ် 
+fingernail: သၞေံ 
+nail: သၞေံ 
+leg: ဇိုၚ် 
+arm: တဲ 
+wing: သၞေၚ် 
+gut: ကြုတ် 
+guts: ကြုတ် 
+insides: ကြုတ် 
+intestine: ကြုတ် 
+intestines: ကြုတ် 
+back: စး 
+suck: သြောတ် 
+spit: ချဟ် 
+vomit: ကၠာတ် 
+blow: ပိုက် 
+breath: ယဳု 
+breathe: ယဳု 
+laugh: ဂြိုၚ် 
+laughter: ဂြိုၚ် 
+cogitate: ချပ် 
+reflect: ချပ် 
+think: ချပ် 
+smell: ဆုၚ် 
+sniff: ဆုၚ် 
+afraid: ဖေက် 
+be afraid: ဖေက် 
+fear: ဖေက် 
+fright: ဖေက် 
+alive: ဂျိုၚ် 
+be alive: ဂျိုၚ် 
+life: ဂျိုၚ် 
+live: ဂျိုၚ် 
+living: ဂျိုၚ် 
+fight: ဇဵု 
+hunt: ဗက် ရပ် 
+beat: တက် 
+hit: တက် 
+strike: တက် 
+cut: ကုတ် 
+hack: ကုတ် 
+cut open: ပါ် 
+split: ပါ် 
+pierce: ဒပက် သလၚ် 
+stab: ဒပက် သလၚ် 
+scratch: ဂွါတ် 
+dig: ခဲါ 
+lie down: သ္တိက် 
+tell lies: သ္တိက် 
+turn: ထတး 
+turn around: ထတး 
+turn round: ထတး 
+drop: ဒေါံ 
+fall: ဒေါံ 
+grasp: ရပ် 
+hold: ရပ် 
+hold in arm: ရပ် 
+rub: တှော် 
+wipe: ဇိုတ် 
+wash: ကြာတ် 
+wash clothes: ကြာတ် 
+pull: တံၚ် 
+push: ဒရိုဟ် 
+shove: ဒရိုဟ် 
+throw: ကၠဟ် 
+bind: စန် 
+fasten: စန် 
+tie: စန် 
+tie up: စန် 
+sew: ဇိၚ် 
+count: ရိုဟ် 
+enumerate: ရိုဟ် 
+number: ရိုဟ် 
+tally: ရိုဟ် 
+sing: ဒယှေ် 
+have fun: ဝေၚ် 
+play: ဝေၚ် 
+float: ဂတဝ် 
+flow: ဇွောဝ် 
+swell: ပေါၚ် 
+brook: ၜဳ 
+river: ၜဳ 
+stream: ၜဳ 
+lake: လှာ 
+ocean: ၜဳ 
+sea: ၜဳ 
+dust: ဖရာံ 
+fog: လတိုပ် 
+sky: လကး 
+ice: ဍာ် ကၠောံ 
+blaze: စံၚ် 
+day: တ္ၚဲ 
+daylight: တ္ၚဲ 
+daytime: တ္ၚဲ 
+old: တြေံ တြဟ် 
+bad: ပြေံ 
+evil: ပြေံ 
+rot: သ္အဲု 
+rotten: သ္အဲု 
+dirty: ပပ် 
+filthy: ပပ် 
+soiled: ပပ် 
+straight: လ္ဂူ	သ္တပ် 
+sharp: သကေက် 
+blunt: ၜီု 
+smooth: တၠိတ် 
+damp: ဍုက် 
+wet: ဍုက် 
+correct: ဒး 
+right: ပုၚ် 
+right side: ပုၚ် 
+left: ပဲါ 
+and: ကဵု 

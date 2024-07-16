@@ -1,0 +1,332 @@
+all: aa	aw 
+every: aa	aw 
+ash: ess 
+ashes: ess 
+bark: baurk 
+abdomen: baggie 
+belly: baggie 
+big: gret	stuir 
+bigness: gret	stuir 
+large: gret	stuir 
+bird: foul 
+bite: byt 
+black: blek 
+blood: blid	bluid 
+bone: bane	ben 
+breast: birzk3t	borzk3t	breest 
+breasts: birzk3t	borzk3t	breest 
+cloud: clud 
+cold: caul 
+come: cum	k3m	kam 
+come from: cum	k3m	kam 
+be dead: dee	di 
+dead: dee	di 
+die: dee	di 
+dog: dog	doug	dug	hund 
+drink: bEb	driNk~	drink 
+dry: dry 
+ear: ear	ir 
+earth: yird 
+ground: yird 
+land: yird 
+soil: yird 
+eat: aet 
+egg: egg 
+eye: ee	i	kik3r 
+feather: fether 
+fire: f3i3r	fire	fyr	iN3l 
+fish: fiS	fish 
+fly: flee 
+fly v.: flee 
+foot: fit	fuit 
+full: fou	fu 
+give: gie 
+good: guid 
+green: green 
+hair: hair 
+hand: han	hond 
+left hand: han	hond 
+right: han	hond 
+head: heid 
+hear: hear	hir 
+heart: hert 
+horn: horn 
+1 sg.: 3	A	a 
+I: 3	A	a 
+kill: fell	kill 
+knee: knee	kni	ni 
+be knowledgeable: ken	wat 
+know: ken	wat 
+leaf: blad	leaf	lif 
+long: lang 
+head louse: looss	lus	puli 
+louse: looss	lus	puli 
+male: man 
+man: bodi	man 
+many: monie 
+much: monie 
+multiple: monie 
+several: monie 
+moon: muin 
+hill: bEn	montin	muntain 
+mountain: bEn	montin	muntain 
+mouth: mooth 
+name: name	nem 
+title: name	nem 
+neck: hauss 
+new: new	ny~u 
+night: nicht	nit 
+nighttime: nicht	nit 
+nose: nEb	nose	noz 
+not: no 
+adulterous: ane	e	een	en 
+one: ane	e	een	en 
+single: ane	e	een	en 
+that: that 
+the: ane	e	een	en 
+unprincipled: ane	e	een	en 
+human: bodi	man 
+human being: bodi	man 
+person: bodi	man 
+rain: rain 
+rainy weather: rain 
+red: reid 
+path: p38	pad	road 
+road: p38	pad	road 
+route: p38	pad	road 
+root: ruit 
+round: roond 
+sand: saund 
+say: say 
+see: see	si 
+seed: seed 
+sit: sit 
+hide: skin 
+skin: skin 
+sleep: sleep	sowf 
+little: littil	smaw	wee 
+small: littil	smaw	wee 
+smallness: littil	smaw	wee 
+smoke: reik 
+star: blENk~3r	starn 
+rock: stane	sten 
+stone: stane	sten 
+sun: sin	son	sun 
+swim: sweem 
+tail: tail 
+this: this 
+2 sg: ye	yi	yu 
+thou: ye	yi	yu 
+you: ye	yi	yu 
+tongue: toN	tung 
+tooth: te8	ti8	tuith 
+tree: tree	tri 
+grind: twa	tw~o 
+two: twa	tw~o 
+go: walk 
+walk: walk 
+hot: wairm 
+warm: wairm 
+water: wat3r	wattir 
+1 pl. inc.: w3	we	wi 
+we: w3	we	wi 
+we₁: w3	we	wi 
+what: whit 
+white: white 
+whiteness: white 
+who: wha 
+who?: wha 
+female: wumman 
+woman: wumman 
+yellow: yellae 
+distant: faur	ferr 
+far: faur	ferr 
+dull: hivy 
+heavy: hivy 
+serious: hivy 
+close: naur 
+near: naur 
+ner: naur 
+salt: saut 
+short: cuttie	short 
+thin: thin 
+wind: wind 
+earthworm: wirm 
+worm: wirm 
+year: yeir 
+3 sg.: he 
+he: he 
+she: he 
+2 pl.: ye 
+ye: ye 
+you all: ye 
+3 pl.: thay 
+they: thay 
+here: here 
+there: thar 
+where: whaur 
+where?: whaur 
+when: whan 
+when?: whan 
+how: hou 
+how?: hou 
+some: sum 
+few: few	wheen 
+other: ither 
+three: thrie 
+four: fower 
+five: five	fyve 
+broad: braid	wyd 
+wide: braid	wyd 
+wideness: braid	wyd 
+fat: fat 
+thick: thik 
+narrow: nairae	smaw 
+child: bairn 
+principal wife: guidwyf 
+wife: guidwyf 
+husband: guidman 
+his mother: mither 
+mother: mither 
+my mother: mither 
+father: faither 
+his father: faither 
+my father: faither 
+animal: beist 
+forest: wid 
+woods: wid 
+branch: staff	stick 
+stick: staff	stick 
+fruit: fruit 
+flower: bluim	flouer 
+grass: girse	gress 
+cord: raip	towe 
+rope: raip	towe 
+flesh: flesh 
+meat: flesh 
+grease: fat 
+claw: fingernail 
+fingernail: fingernail 
+nail: fingernail 
+leg: leg 
+arm: haun 
+wing: weeng 
+gut: intimmers 
+guts: intimmers 
+insides: intimmers 
+intestine: intimmers 
+intestines: intimmers 
+back: rig 
+suck: souk 
+spit: spit 
+vomit: bowk 
+blow: blaw 
+breath: braithe 
+breathe: braithe 
+laugh: lauch 
+laughter: lauch 
+cogitate: think 
+reflect: think 
+think: think 
+smell: snoke 
+sniff: snoke 
+afraid: fear 
+be afraid: fear 
+fear: fear 
+fright: fear 
+alive: leeve 
+be alive: leeve 
+life: leeve 
+live: leeve 
+living: leeve 
+fight: fecht 
+hunt: hunt 
+beat: hit 
+hit: hit 
+strike: hit 
+cut: cut	sned 
+hack: cut	sned 
+cut open: speld	spleet 
+split: speld	spleet 
+pierce: stick	stob 
+stab: stick	stob 
+scratch: scrab 
+dig: del 
+lie: lig 
+lie down: lig 
+tell lies: lig 
+stand: staun 
+turn: turn 
+turn around: turn 
+turn round: turn 
+drop: faa	faw 
+fall: faa	faw 
+grasp: haud 
+hold: haud 
+hold in arm: haud 
+squeeze: chirt	jirt 
+wring: chirt	jirt 
+rub: skreenge	skrynge 
+wipe: dicht 
+wash: wash 
+wash clothes: wash 
+pull: pull 
+push: bray 
+shove: bray 
+throw: cast	thraw 
+bind: bind	tie 
+fasten: bind	tie 
+tie: bind	tie 
+tie up: bind	tie 
+sew: shew 
+count: coont 
+enumerate: coont 
+number: coont 
+tally: coont 
+sing: sing 
+have fun: spiel 
+play: spiel 
+float: fleet	flotter 
+flow: flowe 
+freeze: freeze 
+swell: swall 
+brook: river 
+river: river 
+stream: river 
+lake: loch 
+ocean: sea	sie 
+sea: sea	sie 
+dust: dist	stour 
+fog: haar 
+sky: lift	sky 
+snow: snaw 
+ice: ice 
+blaze: birn	bren 
+burn: birn	bren 
+day: day 
+daylight: day 
+daytime: day 
+old: aul 
+bad: bad	ill 
+evil: bad	ill 
+rot: rotten 
+rotten: rotten 
+dirty: broukie	clartie 
+filthy: broukie	clartie 
+soiled: broukie	clartie 
+straight: straucht 
+sharp: shairp 
+blunt: bauch 
+smooth: smuith 
+damp: weet 
+wet: weet 
+correct: correk	richt 
+right side: richt 
+left: left 
+at: at 
+in: in 
+inside: in 
+with: wi 
+and: an 
+if: gin 
+because: acause 

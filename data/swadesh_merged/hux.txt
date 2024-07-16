@@ -1,0 +1,150 @@
+all: nana 
+every: nana 
+ash: hituegu 
+ashes: hituegu 
+bark: igorau 
+abdomen: hebe 
+belly: hebe 
+big: aiZue 
+bigness: aiZue 
+large: aiZue 
+bird: iguiZukou 
+bite: auni 
+black: hidu 
+blood: %duE	due 
+bone: ikuru 
+breast: monou 
+breasts: monou 
+claw: onobeko 
+nail: onobeko 
+talon: onobeko 
+cloud: uiZue 
+cold: roCi 
+come: bi 
+come from: bi 
+be dead: d"ui	dui 
+dead: d"ui	dui 
+die: d"ui	dui 
+dog: huko 
+drink: hiro 
+dry: tape 
+ear: hEpo	hepo 
+earth: enue 
+ground: enue 
+land: enue 
+soil: enue 
+eat: ru 
+egg: hugu 
+eye: uihu 
+fat: pare 
+fat n.: pare 
+grease: pare 
+lubricant: pare 
+oil: pare 
+feather: iporo 
+fire: iraiku 
+fish: Camu	ahumado 
+fly: pe 
+fly v.: pe 
+foot: euba 
+full: oruide 
+good: 5uera 
+green: moko 
+hair: upodui 
+hand: onou 
+left hand: onou 
+right: onou 
+head: upo 
+hear: kaka 
+heart: komeku 
+horn: tikau 
+1 sg.: kuE	kue 
+I: kuE	kue 
+kill: meine 
+knee: kai5u 
+be knowledgeable: ono 
+know: ono 
+leaf: rabE	rabe 
+lie: bui 
+lie down: bui 
+liver: banohu 
+long: are 
+head louse: uboma 
+louse: uboma 
+male: uima 
+man: komunu 
+many: aiZo 
+much: aiZo 
+multiple: aiZo 
+several: aiZo 
+flesh: ruZe	uatu 
+meat: ruZe	uatu 
+moon: pubui 
+hill: iperu	kaiponedu 
+mountain: iperu	kaiponedu 
+mouth: pue 
+name: mamEku	mameku 
+title: mamEku	mameku 
+neck: kumokairo 
+new: komuE	komue 
+night: mauuo	nauo 
+nighttime: mauuo	nauo 
+nose: dopo 
+not: 5e	damide 
+adulterous: da 
+one: da 
+single: da 
+that: bada 
+the: da 
+unprincipled: da 
+human: komunu 
+human being: komunu 
+person: komunu 
+rain: noku 
+rainy weather: noku 
+red: hiau 
+path: duropE	durope	io 
+road: duropE	durope	io 
+route: duropE	durope	io 
+root: hainao 
+round: edoCide 
+say: dau 
+see: Eroi	eroi	kuo 
+seed: ihu 
+sit: raui 
+hide: ini 
+skin: ini 
+sleep: unu 
+little: hiu 
+small: hiu 
+smallness: hiu 
+smoke: uiZue 
+stand: naidai 
+star: ukudo 
+rock: nopuku 
+stone: nopuku 
+sun: hidoma 
+tail: oda 
+this: beda 
+2 sg: o	omau	omauko 
+thou: o	omau	omauko 
+you: o	omau	omauko 
+tongue: iupE	iupe 
+tooth: itido 
+tree: amena 
+grind: mEna	mena	ména 
+two: mEna	mena	ména 
+go: maka 
+walk: maka 
+water: haunoi 
+1 pl. inc.: kau	koko 
+we: kau	koko 
+we₁: kau	koko 
+what: nupode 
+white: ute 
+whiteness: ute 
+who: bu 
+who?: bu 
+female: ruNo 
+woman: ruNo 
+yellow: bora 

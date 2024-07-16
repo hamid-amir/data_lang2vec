@@ -1,0 +1,331 @@
+all: bütün 
+every: bütün 
+ash: kül 
+ashes: kül 
+bark: qabuq 
+abdomen: qarın 
+belly: qarın 
+big: balaban	büyük 
+bigness: balaban	büyük 
+large: balaban	büyük 
+bird: quş 
+bite: tişlemek 
+black: qara 
+blood: kan	qan 
+bone: kemik	siyek	süyek 
+breast: k3krek	kökrek	köküs 
+breasts: k3krek	kökrek	köküs 
+cloud: bulut 
+cold: suvuq 
+come: kel	kelmek	kely~ 
+come from: kel	kelmek	kely~ 
+be dead: 3l	el	ölmek 
+dead: 3l	el	ölmek 
+die: 3l	el	ölmek 
+dog: it	kopek	köpek 
+drink: iCmek	iS	içmek 
+dry: quru 
+ear: kulak	qulaq 
+earth: topraq 
+ground: topraq 
+land: topraq 
+soil: topraq 
+eat: aşamaq 
+egg: yımırta 
+eye: g3z	k3z	kozy~	köz 
+feather: tük 
+fire: ateş	ot 
+fish: balıq 
+fly: uçmaq 
+fly v.: uçmaq 
+foot: ayaq 
+full: tolu 
+give: bermek 
+good: eyi	yahşı 
+green: yeşil 
+hair: saç 
+hand: el	kol	qol 
+left hand: el	kol	qol 
+right: el	kol	qol 
+head: baş 
+hear: esit	eşitmek 
+heart: yürek 
+horn: boynuz	miyiz	müyüz 
+1 sg.: 3zim	men 
+I: 3zim	men 
+kill: öldürmek 
+knee: t3z	tiz 
+be knowledgeable: bilmek 
+know: bilmek 
+leaf: japrak	yapraq 
+liver: jiger	qara ciger 
+long: uzun 
+head louse: bit 
+louse: bit 
+male: aqay	erkek 
+man: 3zi	adam	insan	kişi 
+many: çoq 
+much: çoq 
+multiple: çoq 
+several: çoq 
+moon: ay 
+hill: dağ	taw 
+mountain: dağ	taw 
+mouth: ağız 
+name: ad	at	isim 
+title: ad	at	isim 
+neck: boyun 
+new: jaN3	yaNu	yañı 
+night: gece	geje	keSe 
+nighttime: gece	geje	keSe 
+nose: burun 
+not: degil 
+adulterous: bir 
+one: bir 
+single: bir 
+that: o	şu 
+the: bir 
+unprincipled: bir 
+human: 3zi	adam	insan	kişi 
+human being: 3zi	adam	insan	kişi 
+person: 3zi	adam	insan	kişi 
+rain: yağmur 
+rainy weather: yağmur 
+red: qırmızı	qızıl 
+path: jol	yol 
+road: jol	yol 
+route: jol	yol 
+root: tamır 
+round: tomalaq	tögerek 
+sand: qum 
+say: aytmaq	demek 
+see: baq	k3r	körmek 
+seed: tuhum	urluq 
+sit: oturmaq 
+hide: teri 
+skin: teri 
+sleep: yuqlamaq 
+little: kiçik 
+small: kiçik 
+smallness: kiçik 
+smoke: tuman	tütün 
+star: j3ld3z	yıldız 
+rock: tas	taş 
+stone: tas	taş 
+sun: kin	kuneS	küneş 
+swim: yaldamaq 
+tail: quyruq 
+this: bu 
+2 sg: sen 
+thou: sen 
+you: sen 
+tongue: t3l	til 
+tooth: t3S	tiS	tiş 
+tree: axaS	ağaç	terek 
+grind: eki 
+two: eki 
+go: kezmek	yürmek 
+walk: kezmek	yürmek 
+hot: issi 
+warm: issi 
+water: suv	suw 
+1 pl. inc.: biz 
+we: biz 
+we₁: biz 
+what: ne 
+white: aq	beyaz 
+whiteness: aq	beyaz 
+who: kim 
+who?: kim 
+female: apay	qadın 
+woman: apay	qadın 
+yellow: sarı 
+distant: uzaq 
+far: uzaq 
+dull: ağır 
+heavy: ağır 
+serious: ağır 
+close: yaqın 
+near: yaqın 
+ner: yaqın 
+salt: tuz 
+short: qısqa 
+snake: yılan 
+thin: ince 
+wind: yel 
+earthworm: qurt 
+worm: qurt 
+year: sene	yıl 
+2 pl.: siz 
+ye: siz 
+you all: siz 
+3 pl.: olar 
+they: olar 
+here: bu yerde	mında 
+there: anda 
+where: qayda	qayerde 
+where?: qayda	qayerde 
+when: ne vaqıt 
+when?: ne vaqıt 
+how: nasıl 
+how?: nasıl 
+some: bazı	bir qaç 
+few: az 
+other: başqa	diger 
+three: üç	üş 
+four: dört	dürt 
+five: beş	bíş 
+broad: keniş	keñ 
+wide: keniş	keñ 
+wideness: keniş	keñ 
+fat: may	yağ 
+thick: qalın 
+narrow: tar 
+child: bala 
+principal wife: apay	qadın	qarı 
+wife: apay	qadın	qarı 
+husband: aqay	qoca 
+his mother: ana 
+mother: ana 
+my mother: ana 
+father: baba 
+his father: baba 
+my father: baba 
+animal: ayvan 
+forest: dağ	orman 
+woods: dağ	orman 
+branch: tayaq 
+stick: tayaq 
+fruit: meyva	yemiş 
+flower: çiçek 
+grass: ot 
+cord: arqan	sıcım	yip 
+rope: arqan	sıcım	yip 
+flesh: et 
+meat: et 
+grease: may	yağ 
+claw: tırnaq 
+fingernail: tırnaq 
+nail: tırnaq 
+leg: ayaq	bacaq 
+arm: el	qol 
+wing: qanat 
+gut: içek	işkembe 
+guts: içek	işkembe 
+insides: içek	işkembe 
+intestine: içek	işkembe 
+intestines: içek	işkembe 
+back: arqa 
+suck: emmek 
+spit: tükürmek 
+vomit: qusmaq 
+blow: esmek	üfürmek 
+breath: nefes almaq 
+breathe: nefes almaq 
+laugh: külmek 
+laughter: külmek 
+cogitate: oylamaq	tüşünmek 
+reflect: oylamaq	tüşünmek 
+think: oylamaq	tüşünmek 
+smell: qoqlamaq 
+sniff: qoqlamaq 
+afraid: qorqmaq 
+be afraid: qorqmaq 
+fear: qorqmaq 
+fright: qorqmaq 
+alive: yaşamaq 
+be alive: yaşamaq 
+life: yaşamaq 
+live: yaşamaq 
+living: yaşamaq 
+fight: kötekleşmek	talaşmaq 
+hunt: avlamaq 
+beat: urmaq 
+hit: urmaq 
+strike: urmaq 
+cut: kesmek 
+hack: kesmek 
+cut open: bölmek 
+split: bölmek 
+pierce: sançmaq 
+stab: sançmaq 
+scratch: tırnamaq 
+dig: qazmaq 
+lie: yatmaq 
+lie down: yatmaq 
+tell lies: yatmaq 
+stand: turmaq 
+turn: aylandırmaq 
+turn around: aylandırmaq 
+turn round: aylandırmaq 
+drop: tüşmek 
+fall: tüşmek 
+grasp: tutmaq 
+hold: tutmaq 
+hold in arm: tutmaq 
+squeeze: qısmaq	sıqmaq 
+wring: qısmaq	sıqmaq 
+rub: sürtmek 
+wipe: silmek 
+wash: yuvmaq 
+wash clothes: yuvmaq 
+pull: tartmaq	çekmek 
+push: itemek	türtmek 
+shove: itemek	türtmek 
+throw: atmaq 
+bind: bağlamaq 
+fasten: bağlamaq 
+tie: bağlamaq 
+tie up: bağlamaq 
+sew: tikmek 
+count: saymaq 
+enumerate: saymaq 
+number: saymaq 
+tally: saymaq 
+sing: yırlamaq 
+have fun: oynamaq 
+play: oynamaq 
+float: yaldamaq 
+flow: aqmaq 
+freeze: toñmaq	üşümek 
+swell: şişmek 
+brook: özen 
+river: özen 
+stream: özen 
+lake: köl 
+ocean: deñiz 
+sea: deñiz 
+dust: toz 
+fog: tuman 
+sky: kök 
+snow: qar 
+ice: buz 
+blaze: yanmaq 
+burn: yanmaq 
+day: kün	kündüz 
+daylight: kün	kündüz 
+daytime: kün	kündüz 
+old: eski 
+bad: fena	osal	yaman	yaramay 
+evil: fena	osal	yaman	yaramay 
+rot: çürük 
+rotten: çürük 
+dirty: kirli 
+filthy: kirli 
+soiled: kirli 
+straight: tüz 
+sharp: keskin	ötkür 
+blunt: toqal 
+smooth: tegiz	tüz 
+damp: sılaq 
+wet: sılaq 
+correct: doğru 
+right side: oñ	sağ 
+left: sol 
+at: -da	-de	-ta	-te	üstünde 
+in: -da	-de	-ta	-te	içinde 
+inside: -da	-de	-ta	-te	içinde 
+with: -nen	ile 
+and: ve 
+if: -sa	-se	eger 
+because: çünki 

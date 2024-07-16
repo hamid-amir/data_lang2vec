@@ -1,0 +1,150 @@
+all: kinaih 
+every: kinaih 
+ash: kuaf	ku|af 
+ashes: kuaf	ku|af 
+abdomen: koma	koma-naih 
+belly: koma	koma-naih 
+big: buiN	buiŋ 
+bigness: buiN	buiŋ 
+large: buiN	buiŋ 
+bird: marei 
+bite: koteh 
+black: boN	boŋ 
+blood: rafaciN	rafatsiŋ 
+bone: tuana	tuana-naih 
+breast: sus 
+breasts: sus 
+burn: akor 
+burn tr.: akor 
+cloud: koro 
+cold: kour 
+come: om 
+come from: om 
+be dead: mat	mat-en 
+dead: mat	mat-en 
+die: mat	mat-en 
+dog: kas 
+drink: yiu 
+dry: parak 
+ear: teina	teina-naih 
+earth: peto 
+ground: peto 
+land: peto 
+soil: peto 
+eat: aiN	aiŋ 
+egg: tah 
+eye: mata	mata-naih 
+fat: kovar 
+fat n.: kovar 
+grease: kovar 
+lubricant: kovar 
+oil: kovar 
+feather: funu 
+fire: wuaf	wu|af 
+fish: yian 
+fly: ruaf 
+fly v.: ruaf 
+foot: mou 
+good: rof 
+green: bubuir 
+hair: funu	funu-naih 
+hand: nima	nima-naih 
+left hand: nima	nima-naih 
+right: nima	nima-naih 
+head: patu	patu-naih 
+hear: noNon	noŋon 
+1 sg.: aiNa	aiŋa 
+I: aiNa	aiŋa 
+kill: atuiN	atuiŋ 
+be knowledgeable: nat 
+know: nat 
+leaf: noun 
+lie: tahun 
+lie down: tahun 
+liver: at 
+long: viviako 
+head louse: bik 
+louse: bik 
+male: coiN	tsoiŋ 
+man: mes 
+flesh: veno 
+meat: veno 
+moon: ifa 
+mouth: Nue	ŋue-naih 
+name: asaN	asaŋ 
+title: asaN	asaŋ 
+neck: gogo	gogo-naih 
+new: foun 
+night: voiN	voiŋ 
+nighttime: voiN	voiŋ 
+nose: usu	usu-naih 
+not: sikeh 
+adulterous: isen 
+one: isen 
+single: isen 
+that: avaih	av|aih	tamouaih	tamou|aih 
+the: isen 
+unprincipled: isen 
+human: mes 
+human being: mes 
+person: mes 
+rain: raNic	raŋits 
+rainy weather: raNic	raŋits 
+red: marar 
+path: sanan 
+road: sanan 
+route: sanan 
+root: voran 
+sand: moŋi|on 
+say: keta 
+see: abar 
+sit: vagum 
+hide: pua	pua-naih 
+skin: pua	pua-naih 
+sleep: goros 
+little: ac	ats 
+small: ac	ats 
+smallness: ac	ats 
+smoke: um 
+stand: tutun 
+star: kocic	kotsits 
+rock: fat 
+stone: fat 
+swim: sisiuf 
+tail: fenen 
+this: taraih	tar|aih 
+2 sg: aNim	anoh 
+thou: aNim	anoh 
+you: aNim	anoh 
+tongue: mia	mia-naih 
+tooth: Nisi	ŋisi-naih 
+grind: fuan 
+two: fuan 
+go: tan 
+walk: tan 
+hot: fisiki 
+warm: fisiki 
+water: aurom 
+1 pl. inc.: amam	aneh	dia 
+we: amam	aneh	dia 
+we₁: amam	aneh	dia 
+what: a sa 
+white: gose 
+whiteness: gose 
+who: e se 
+who?: e se 
+female: moun 
+woman: moun 
+yellow: aNom	aŋom 
+distant: vivian 
+far: vivian 
+close: pana-na 
+near: pana-na 
+ner: pana-na 
+salt: tasi 
+short: kakat 
+snake: kora 
+wind: aiŋsat 
+earthworm: tsitsi 
+worm: tsitsi 
+year: iŋaiŋ 

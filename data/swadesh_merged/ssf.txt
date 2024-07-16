@@ -1,0 +1,262 @@
+all: ʔazʔaz 
+every: ʔazʔaz 
+ash: qafu 
+ashes: qafu 
+abdomen: tiaz 
+belly: tiaz 
+big: ma-raʔin 
+bigness: ma-raʔin 
+large: ma-raʔin 
+bird: rumfaz 
+bite: k-m-irkir 
+black: ma-qusum 
+blood: taLum	talhum 
+bone: pu7u	puqu 
+breast: tutu 
+breasts: tutu 
+burn: sh-u-nara 
+burn tr.: sh-u-nara 
+cloud: urum 
+cold: ma-shimzaw 
+come: mu-nay	nay 
+come from: mu-nay	nay 
+be dead: acay	m-acay 
+dead: acay	m-acay 
+die: acay	m-acay 
+dog: atu 
+drink: iLa	mi-qilha 
+dry: ma-qalhiw 
+ear: Larina	lharina 
+eat: k-m-an 
+egg: qaricuy 
+eye: maca 
+feather: kupur 
+fire: apuy 
+fish: rusaw 
+fly: marfaz 
+fly v.: marfaz 
+good: ma-qitan 
+green: ma-dishlum 
+hair: fukish 
+hand: rima 
+left hand: rima 
+right: rima 
+head: punuq 
+hear: t-un-maza	tmaza 
+1 sg.: yaku 
+I: yaku 
+kill: k-m-ay p-acay 
+be knowledgeable: ma-fazaq 
+know: ma-fazaq 
+leaf: fiLa7	filhaq 
+lie: pan-taqnar 
+lie down: pan-taqnar 
+liver: riSi	rishi 
+long: ma-kuliush 
+head louse: kucu 
+louse: kucu 
+male: ayuzi 
+man: caw 
+moon: furaz 
+mouth: ruzic 
+name: Lanaz	lhanaz 
+title: Lanaz	lhanaz 
+neck: buqtur 
+new: faLu	faqlhu 
+night: tanLuan	tanlhuan 
+nighttime: tanLuan	tanlhuan 
+nose: muzin 
+adulterous: ta:haʔ	tata 
+one: ta:haʔ	tata 
+single: ta:haʔ	tata 
+that: haya	huya 
+the: ta:haʔ	tata 
+unprincipled: ta:haʔ	tata 
+human: caw 
+human being: caw 
+person: caw 
+rain: qusaz 
+rainy weather: qusaz 
+red: ma-qulha 
+path: saran 
+road: saran 
+route: saran 
+root: lhamic 
+sand: bunaz 
+say: k-m-uza 
+see: m-rikaz	rikaz 
+sit: mi-lhuŋqu 
+hide: Sapa	shapa 
+skin: Sapa	shapa 
+sleep: malhus 
+little: laŋqisusay 
+small: laŋqisusay 
+smallness: laŋqisusay 
+smoke: qumbu 
+star: kiLpuz	kilhpuz 
+rock: fatu 
+stone: fatu 
+swim: m-rauz 
+tail: wawishwish 
+this: i-nay 
+2 sg: ihu 
+thou: ihu 
+you: ihu 
+tongue: zama 
+tooth: nipin 
+grind: tu:šaʔ	tuSa	tusha 
+two: tu:šaʔ	tuSa	tusha 
+go: mun-dadán 
+walk: mun-dadán 
+hot: ma-tata 
+warm: ma-tata 
+water: sazum 
+1 pl. inc.: ita	yamin 
+we: ita	yamin 
+we₁: ita	yamin 
+what: numa 
+white: ma-puzi 
+whiteness: ma-puzi 
+who: tima 
+who?: tima 
+female: binanauʔaz 
+woman: binanauʔaz 
+yellow: shadunan 
+distant: i-hazish 
+far: i-hazish 
+dull: ma-bric 
+heavy: ma-bric 
+serious: ma-bric 
+close: i-qualh 
+near: i-qualh 
+ner: i-qualh 
+salt: qtilha 
+short: luish 
+snake: qlhuran 
+thin: ma-bazay 
+wind: fari 
+earthworm: qatidauluk 
+worm: qatidauluk 
+year: kawash 
+2 pl.: maniun 
+ye: maniun 
+you all: maniun 
+3 pl.: caycuy 
+they: caycuy 
+where: i-ntua 
+where?: i-ntua 
+when: kaiza 
+when?: kaiza 
+how: apia-kuzan 
+how?: apia-kuzan 
+other: suma 
+three: to:roʔ	turu 
+four: [sh]pat	špa:t 
+five: hrima	ri:maʔ 
+broad: ma-haran 
+wide: ma-haran 
+wideness: ma-haran 
+fat: lhimash 
+thick: ma-kushtur 
+narrow: ma-qtit 
+principal wife: binanauʔaz 
+wife: binanauʔaz 
+husband: ayuzi 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+forest: ribush 
+woods: ribush 
+branch: pana 
+stick: pana 
+flower: bukay 
+grass: lhmir 
+cord: qlhiw 
+rope: qlhiw 
+flesh: bunlhaz 
+meat: bunlhaz 
+grease: lhimash 
+wing: pali 
+gut: rumrum 
+guts: rumrum 
+insides: rumrum 
+intestine: rumrum 
+intestines: rumrum 
+back: rikus 
+suck: ucuc 
+spit: ma-filhaq 
+vomit: m-utaq 
+blow: m-iup 
+breath: sh-m-inaw 
+breathe: sh-m-inaw 
+laugh: ma-cacawa 
+laughter: ma-cacawa 
+cogitate: m-aŋqtu 
+reflect: m-aŋqtu 
+think: m-aŋqtu 
+smell: sh-m-azik 
+sniff: sh-m-azik 
+afraid: sh-uŋ-kash 
+be afraid: sh-uŋ-kash 
+fear: sh-uŋ-kash 
+fright: sh-uŋ-kash 
+alive: ma-qalhtash 
+be alive: ma-qalhtash 
+life: ma-qalhtash 
+live: ma-qalhtash 
+living: ma-qalhtash 
+hunt: mu-ribush 
+beat: k-m-ay 
+hit: k-m-ay 
+strike: k-m-ay 
+cut: k-un-tun 
+hack: k-un-tun 
+cut open: t-m-alhtalh 
+split: t-m-alhtalh 
+pierce: lh-m-irik 
+stab: lh-m-irik 
+scratch: k-m-ulhaw 
+dig: k-m-ari 
+stand: i-lhilhi 
+drop: ma-lhacak 
+fall: ma-lhacak 
+grasp: h-m-adu 
+hold: h-m-adu 
+hold in arm: h-m-adu 
+squeeze: damriz 
+wring: damriz 
+throw: panak 
+bind: q-m-ucquc 
+fasten: q-m-ucquc 
+tie: q-m-ucquc 
+tie up: q-m-ucquc 
+sew: sh-m-aqish 
+count: shupilh 
+enumerate: shupilh 
+number: shupilh 
+tally: shupilh 
+flow: maŋ-qaruz 
+lake: wazakan 
+ocean: wazakan 
+sea: wazakan 
+dust: bulbul 
+fog: harbuk 
+sky: qali 
+bad: ma-karman 
+evil: ma-karman 
+rot: mu-bluc 
+rotten: mu-bluc 
+dirty: ma-risris-in 
+filthy: ma-risris-in 
+soiled: ma-risris-in 
+sharp: ma-lamlam 
+blunt: ma-tarictic 
+damp: ma-tubu 
+wet: ma-tubu 
+right side: tana-du 
+left: tana-wizi 
+and: masa 
+if: ya 

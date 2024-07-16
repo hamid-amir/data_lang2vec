@@ -1,0 +1,162 @@
+all: tu₃₃ 
+every: tu₃₃ 
+ash: cʰɔ₂₂ 
+ashes: cʰɔ₂₂ 
+abdomen: ta₃₁-tu₃₃ 
+belly: ta₃₁-tu₃₃ 
+big: liu₃₃ 
+bigness: liu₃₃ 
+large: liu₃₃ 
+bird: noŋ₂₂ 
+black: ku₃₃ 
+blood: ch~u	cʰun₂₂ 
+bone: th~3N	tʰaŋ₂₂ 
+breast: fɔ₃₃=sən₃₃=lau₅₃	mw~3 
+breasts: fɔ₃₃=sən₃₃=lau₅₃	mw~3 
+burn: tʰou₂₂ 
+burn tr.: tʰou₂₂ 
+claw: hou₂₂=kʰɔ₅₃ 
+nail: hou₂₂=kʰɔ₅₃ 
+talon: hou₂₂=kʰɔ₅₃ 
+cloud: hau₃₃ 
+cold: naŋ₅₃ 
+come: tw~3	tɔ₁₃ 
+come from: tw~3	tɔ₁₃ 
+be dead: tw~3	tɔ₂₂ 
+dead: tw~3	tɔ₂₂ 
+die: tw~3	tɔ₂₂ 
+dog: kou	kou₂₂ 
+drink: hw~3	hɔ₃₁ 
+dry: kʰey₂₂ 
+ear: kə₃₃=muy₁₃	my~e 
+earth: kə₃₃=tou₃₃ 
+ground: kə₃₃=tou₃₃ 
+land: kə₃₃=tou₃₃ 
+soil: kə₃₃=tou₃₃ 
+eat: naŋ₁₃ 
+egg: ke₃₃=kou₅₃ 
+eye: ki₅₃=mɔ₂₂ 
+fire: to	tou₂₂ 
+fish: muy₂₂	my~e 
+fly: ɲi₅₃ 
+fly v.: ɲi₅₃ 
+foot: tou₅₃ 
+full: pou₂₂	puN 
+give: haŋ₃₃ 
+good: ŋ̩₅₃ 
+green: li̯u₃₁ 
+hair: ha₂₂=pi̯a₃₃ 
+hand: th~ou	tʰou₂₂ 
+left hand: th~ou	tʰou₂₂ 
+right: th~ou	tʰou₂₂ 
+head: ha₂₂=kʰɔ₅₃ 
+hear: no	taN	ɲuy₅₃ 
+heart: l̥in₃₃ 
+horn: kuN	ku₃₃=ku₃₃ 
+1 sg.: v3	vɔ₂₂ 
+I: v3	vɔ₂₂ 
+kill: tɔ₅₃ 
+knee: fw~3tiku	tou₅₃=kʰuy₃₁ 
+be knowledgeable: tou₂₂=pɔ₃₃ 
+know: tou₂₂=pɔ₃₃ 
+leaf: mi̯oŋ₁₃	my~oN 
+liver: s3n	sən₃₃ 
+long: nau₂₂ 
+head louse: ma₅₃=tou₂₂	tuN 
+louse: ma₅₃=tou₂₂	tuN 
+male: te₃₁-kin₂₂-nɔ₁₃ 
+man: nw~3	nɔ₁₃ 
+many: au₅₃-au₅₃ 
+much: au₅₃-au₅₃ 
+multiple: au₅₃-au₅₃ 
+several: au₅₃-au₅₃ 
+flesh: pe₃₃ 
+meat: pe₃₃ 
+moon: kwən₂₂=la₅₃ 
+hill: k3koN	koŋ₁₃ 
+mountain: k3koN	koŋ₁₃ 
+mouth: pə₃₁=li̯o₃₃ 
+name: mu	mu₅₃ 
+title: mu	mu₅₃ 
+neck: kə₅₃=kaŋ₃₃ 
+new: l̥ən₅₃	s3n 
+night: taNyw~3 
+nighttime: taNyw~3 
+nose: kʰə₃₃=muy₂₂	mui 
+not: mɔ₂₂ 
+adulterous: ye	ʑe₂₂ 
+one: ye	ʑe₂₂ 
+single: ye	ʑe₂₂ 
+that: ni₂₂ 
+the: ye	ʑe₂₂ 
+unprincipled: ye	ʑe₂₂ 
+human: nw~3	nɔ₁₃ 
+human being: nw~3	nɔ₁₃ 
+person: nw~3	nɔ₁₃ 
+rain: lə₃₃=ŋa₂₂ 
+rainy weather: lə₃₃=ŋa₂₂ 
+red: cʰun₅₃ 
+path: kou	kou₂₂ 
+road: kou	kou₂₂ 
+route: kou	kou₂₂ 
+root: fɔ₃₃=tə₃₃=ti̯aŋ₁₃ 
+round: lun₃₃ 
+sand: sɔ₃₃-tey₅₃ 
+say: sɔ₃₃-tey₅₃ 
+see: maN	maŋ₅₃=cʰo₂₂ 
+seed: pən₁₃ 
+sit: ti̯aŋ₅₃ 
+hide: ku	ku₅₃ 
+skin: ku	ku₅₃ 
+sleep: puy₅₃ 
+little: l̥e₅₃ 
+small: l̥e₅₃ 
+smallness: l̥e₅₃ 
+smoke: ʑin₃₃ 
+stand: so₂₂ 
+star: Lintai	lin₃₃-tay₅₃ 
+rock: ha₂₂=vey₃₃	vy~e 
+stone: ha₂₂=vey₃₃	vy~e 
+sun: ha₃₁=nɔ₃₃	nw~3 
+tail: kə₃₃=te₂₂ 
+this: no₂₂ 
+2 sg: N	ŋ̩₁₃ 
+thou: N	ŋ̩₁₃ 
+you: N	ŋ̩₁₃ 
+tongue: kə₃₃=mi₃₁	mi 
+tooth: fun	fun₂₂ 
+tree: fw~3	fɔ₃₃ 
+grind: u₃₃	va 
+two: u₃₃	va 
+go: ŋ̩₂₂ 
+walk: ŋ̩₂₂ 
+hot: kʰu₃₃ 
+warm: kʰu₃₃ 
+water: N	ŋ̩₃₃ 
+1 pl. inc.: po	pou₃₃ 
+we: po	pou₃₃ 
+we₁: po	pou₃₃ 
+what: hoŋ₁₃-nən₃₃ 
+white: ki̯u₃₃ 
+whiteness: ki̯u₃₃ 
+who: kə₃₃-lou₁₃ 
+who?: kə₃₃-lou₁₃ 
+female: mə₃₁-tou₃₃-nɔ₁₃ 
+woman: mə₃₁-tou₃₃-nɔ₁₃ 
+yellow: kwən₁₃ 
+distant: ki̯u₃₃ 
+far: ki̯u₃₃ 
+dull: sou₂₂ 
+heavy: sou₂₂ 
+serious: sou₂₂ 
+close: vay₅₃ 
+near: vay₅₃ 
+ner: vay₅₃ 
+salt: ʑau₂₂ 
+short: lou₂₂ 
+snake: ni₃₃ 
+thin: ɲi₂₂ 
+wind: ki₅₃ 
+earthworm: ki₁₃=ki̯aŋ₃₃ 
+worm: ki₁₃=ki̯aŋ₃₃ 
+year: ti̯uŋ₅₃ 

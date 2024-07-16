@@ -1,0 +1,369 @@
+all: bun-mo 
+arm: -ben 
+arm: -bɛn 
+arrow: sabɛk 
+ashes: butbut 
+back: -bun 
+bad: mein 
+bad: mɛin 
+belly: -gem | -gɛm 
+belly: -gɛm 
+belly: -gem beko\ | -gɛm 
+belly: -gɛm bɛkoʔ 
+big: yah 
+bird: ah 
+bite: -mug- 
+black: dub 
+blood: -nedan | -nedan	nedan 
+blow: ulam- 
+bone: -ditin | -ditin	ditin 
+boy: mat minmin 
+breast: -sus | -usu	sus 
+breast: -usu | -usu	sus 
+brother: -bab 
+brother: -bab museran 
+burn: muder- 
+burn: mudɛr- 
+butterfly: kabob 
+calf: kokin 
+cassowary: zaur 
+chest: -ban 
+child: amun 
+chin: -nog 
+cloud: tim a-beko\ | tim a-bekoʔ	waibut 
+cloud: tim a-bekoʔ | tim a-bekoʔ	waibut 
+cloud: waibut | tim a-bekoʔ	waibut 
+cold: muditin 
+come: bol- | bo	bol	bol- 
+crocodile: fay 
+crocodile: tagum 
+cut: horay- 
+cut: orot- 
+dance: bar waz- 
+day: anu-an 
+day: imisor 
+die: mo- | mo	mo-	mo7 
+dig: ulum- 
+dig: yaiton- 
+dig: zilay- 
+dirty: anumian 
+dirty: anumlam 
+dog: gaun 
+dry: tumay 
+ear: -deksan | -deksan	deksan 
+earth: og 
+eat: ne- 
+eat: titilon- | ne- 
+egg: -kokin 
+elbow: -beil 
+emu: zaur 
+excrement: -beko\ 
+eye: -me (nagin) | -mɛ	mE nagin 
+eye: -mɛ (nagin) | -mɛ	mE nagin 
+face: -mabel 
+face: -mabɛl 
+face: -nobun 
+fall: way- 
+fall: wo- 
+far: fesain-mo 
+father: kamam 
+father: -mam 
+fat (n.): moyan 
+fear: rab 
+few: asor 
+fight: nol- 
+fight: wol- 
+finger: abainagin 
+fingernail: -betgeik 
+fire: fa\ | fa7	faʔ 
+fire: faʔ | fa7	faʔ 
+fish: nabi\ | nabi7	nabiʔ 
+fish: nabiʔ | nabi7	nabiʔ 
+fly (n.): honam 
+fly (v.): mel- 
+fly (v.): mɛl- 
+fog: o:nas 
+fog: oːnas 
+forest: garan 
+fruit: -nagin 
+full: a-te tu-gal- | a-te tu-gal-	ate tugal	ate wal 
+full: so\or- | a-te tu-gal-	ate tugal	ate wal 
+full: soor- | a-te tu-gal-	ate tugal	ate wal 
+girl: aw baras 
+girl: aw barras 
+give: -ug- 
+good: dimun 
+grass: rey 
+green: ainan kaye 
+guts: -gem beko\ 
+guts: -gɛm bɛkoʔ 
+hair: -enan 
+head: -duman | -fain	-huain 
+head: -fain | -fain	-huain 
+head: -huain | -fain	-huain 
+head: -main | -fain	-huain 
+hear: -hurit- | -hurit-	hurit 
+heart: -babuan 
+heavy: afa\an | afaʔan 
+heavy: afaʔan 
+here: kawa 
+he/she: -a- 
+he/she: a- 
+he/she: in 
+he/she: in- 
+he/she: ø- 
+hit: nol- 
+hit: wol- 
+hold: waz- 
+house: bit 
+how: ganin 
+I: i- | ya 
+in: a-dugan-ib 
+I: ya 
+I: ya- 
+I: ye | ya 
+kill: i:tu- | iːtu-	ulum- 
+kill: iːtu- | iːtu-	ulum- 
+kill: ulum- | iːtu-	ulum- 
+knee: -damagan | -damagan	bakbakan	damagan 
+laugh: yu\uw- 
+laugh: yuuw- 
+left: inaseran 
+left: inasɛran 
+leg: -sen 
+leg: -sɛn 
+lightning: meulik em- 
+lightning: mɛulik em- 
+liver: -util | -util	util 
+long: sisa\ta | sisaʔta 
+long: sisaʔta 
+louse: gau | aw	gau 
+man: mat 
+man: mat- 
+man: mat/mataw 
+many: kabem | kabɛm 
+many: kabɛm 
+meat: mizan 
+moon: kalam 
+morning: saw hastaya 
+morning: tarowmo 
+morning: tarow-mo 
+mosquito: uni 
+mother: kanen 
+mother: kanɛn 
+mother: -nen 
+mother: -nɛn 
+mountain: garah | arah	garah 
+mouth: te -dugan 
+name: -nan | -nan	anan	bin	nan 
+nape: -bun batan 
+navel: -bosonam 
+navel: -bosonan 
+near: sinsin 
+neck: -nat duman | -nat duman	-nat edu 
+neck: -nat edu | -nat duman	-nat edu 
+new: mutu | mutu	mutur 
+night: rumri | rumri	tarom	tarow	tarow ti	tarow ti- 
+night: tarow ti- | rumri	tarom	tarow	tarow ti	tarow ti- 
+nose: -motugu | -motugu	motgu	motugu 
+not: haigam 
+old: kʷasi 
+old: kwasi 
+old: nenap 
+one: amuligmo | amuligmo	amuligo	amulik 
+one: amuligo | amuligmo	amuligo	amulik 
+pull: hure- 
+push: ulumsun- 
+rain: urom 
+rat: kudui 
+red: bem | bɛm	kakaʔ 
+red: bɛm | bɛm	kakaʔ 
+red: kaka\ | bɛm	kakaʔ 
+red: kakaʔ | bɛm	kakaʔ 
+right: abun | ben	fain	huain 
+ripe: abeman 
+ripe: abɛman 
+ripe: tiham 
+road: dan 
+root: -ninin | -ninin	-titin 
+root: -titin | -ninin	-titin 
+rope: zɛmun 
+salt: kamis 
+sand: ibur | iburr 
+sand: iburr 
+sand: lanis | iburr 
+say: -bilen- 
+say: -bilen-/bulon- 
+say: (gamug) bila- | -bilen- 
+scratch: teh- 
+sea: kamis 
+see: a-hol biy- | a-hol biy-	a-hol wa-	ahol biy	ahol wa	ahol wa7	biy 
+see: a-hol biy-/a-hol wa- | a-hol biy-	a-hol wa-	ahol biy	ahol wa	ahol wa7	biy 
+see: a-hol wa- | a-hol biy-	a-hol wa-	ahol biy	ahol wa	ahol wa7	biy 
+see: a-hol- wa- | a-hol biy-	a-hol wa-	ahol biy	ahol wa	ahol wa7	biy 
+sharp: amena 
+sharp: siso- 
+short: siim 
+shoulder: -betar 
+shoulder: -betarr 
+sing: dor- 
+sister: -hi: 
+sister: -hiː 
+sister: -hi amigta 
+sit: os- 
+skin: -san | -san	san 
+sky: kait 
+sleep: us- 
+small: amig 
+smell: a-huran hurit 
+smoke: -s | -s	-sin 
+smoke: -sin | -s	-sin 
+snake: mam | mam	naga 
+snake: naga | mam	naga 
+spit: lu\uw- 
+spit: -skuluan 
+split: wazilay- 
+stand: era- 
+stand: tir- 
+stand: tur- 
+stand: turr- 
+star: ulig 
+stick: batan 
+stone: gi:g | gig	giːg 
+stone: giːg | gig	giːg 
+straight: titinon 
+sun: ze | wim	zE	zeq	zɛ 
+sun: zɛ | wim	zE	zeq	zɛ 
+swell: um- 
+tail: -be karugan | -bulikin 
+tail: -bulikin 
+take: waz- 
+that: ko 
+there: kowa 
+they: gi- 
+they: in 
+they: in- 
+they: ne- 
+thigh: -bet 
+thigh: -bɛt 
+think: -nad em- 
+this: ka 
+thou: gi- | ne	ni 
+thou: ne | ne	ni 
+thou: ne- | ne	ni 
+thou: ni | ne	ni 
+thou: ni- | ne	ni 
+thou: nin | ne	ni 
+thou: nin- | ne	ni 
+throat: -burrwogin 
+throat: -burwogin 
+throat: -zian 
+throw: huneg- 
+thunder: wilam wo- 
+tie: hureug- 
+tie: hurreug- 
+tomorrow: babe 
+tomorrow: ilato 
+tongue: -mele\ | -meleʔ	mele7	mile7 
+tongue: -meleʔ | -meleʔ	mele7	mile7 
+tooth: -te | -te	te 
+tree: ay 
+tree: -bearr | ay 
+tree: lihan | ay 
+tree: lulin | ay 
+tree: -lulin | ay 
+turn: buliy- 
+two: giger | geger	gigEr	giger	gigɛr 
+two: gigɛr | geger	gigEr	giger	gigɛr 
+vagina: -nas 
+vomit: nil- 
+walk: leh- 
+walk: sib-mo leh- 
+wallaby: sawan 
+wallaby: waken 
+warm: afan 
+wash: hus- 
+wash: hus + "give 
+wash: hus- -ug- 
+water: yu | yu	yu7	yuw 
+weep: ga- 
+we: gi- | iy 
+we: iy 
+we: iy- 
+wet: ayunyun 
+what: eza | eza	nagah 
+what: nagah | eza	nagah 
+where: edop 
+white: hus | hus	nal 
+white: nal | hus	nal 
+who: nok 
+wind: tim 
+wing: -ben gaik 
+wing: -bɛn gaik 
+woman: aw 
+woman: aw- 
+woman: aw/on 
+woman: on | aw 
+wood: aya-nabun 
+wood: batan 
+yellow: mali 
+yes: ao 
+yes: ee 
+yes: e\e 
+yesterday: irimo 
+yesterday: irimo menta 
+you: ge- | ne	ni 
+you: gi- | ne	ni 
+you: ne | ne	ni 
+you: ne- | ne	ni 
+every: bun-mo 
+ash: butbut 
+abdomen: -gɛm 
+bigness: yah 
+large: yah 
+breasts: -usu	sus 
+come from: bo	bol	bol- 
+be dead: mo	mo-	mo7 
+dead: mo	mo-	mo7 
+drink: uluw 
+ground: og 
+land: og 
+soil: og 
+fly: mɛl- 
+fly v.: mɛl- 
+hand: ben	fain	huain 
+left hand: ben	fain	huain 
+1 sg.: ya 
+leaf: ay anan 
+head louse: aw	gau 
+male: mat 
+much: kabɛm 
+multiple: kabɛm 
+several: kabɛm 
+hill: arah	garah 
+title: -nan	anan	bin	nan 
+nighttime: rumri	tarom	tarow	tarow ti	tarow ti- 
+adulterous: amuligmo	amuligo	amulik 
+single: amuligmo	amuligo	amulik 
+the: amuligmo	amuligo	amulik 
+unprincipled: amuligmo	amuligo	amulik 
+rainy weather: urom 
+path: dan 
+route: dan 
+hide: -san	san 
+little: amig 
+smallness: amig 
+rock: gig	giːg 
+2 sg: ne	ni 
+grind: geger	gigEr	giger	gigɛr 
+go: leh- 
+1 pl. inc.: iy 
+we₁: iy 
+whiteness: hus	nal 
+who?: nok 
+female: aw 
+distant: fesain-mo 
+dull: afaʔan 
+serious: afaʔan 
+close: sinsin 
+ner: sinsin 

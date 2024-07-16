@@ -1,0 +1,153 @@
+all: we- 
+every: we- 
+ash: ǂ̰óà	ɡǂóà 
+ashes: ǂ̰óà	ɡǂóà 
+bark: gure 
+abdomen: ǀ̃nâ	ɳǀnâ 
+belly: ǀ̃nâ	ɳǀnâ 
+big: ǁ̰ó	ɡǀǀó 
+bigness: ǁ̰ó	ɡǀǀó 
+large: ǁ̰ó	ɡǀǀó 
+bird: ʒárá 
+bite: pá 
+black: ǂ̃nú	ɳǂnú 
+blood: !ao	ǀʼáò 
+bone: !owa	ǀʼṍã́ 
+breast: Ng~uSa	pi	ǁ̰û	ɡǀǀû 
+breasts: Ng~uSa	pi	ǁ̰û	ɡǀǀû 
+burn: dáó 
+burn tr.: dáó 
+cold: qáì 
+come: a	hâ 
+come from: a	hâ 
+be dead: !o	ǀǀʼó	ǁʼó 
+dead: !o	ǀǀʼó	ǁʼó 
+die: !o	ǀǀʼó	ǁʼó 
+dog: aba	ʔàbà 
+drink: kX~a	kxâ 
+dry: ǀǀxó	ǁxó 
+ear: !ei	ǂê 
+earth: xóám 
+ground: xóám 
+land: xóám 
+soil: xóám 
+eat: ǂʼṹ 
+egg: ǂʼúbí 
+eye: !ai	ǂxáí 
+fat: ǁ̃úì	ɳǀǀúì 
+fat n.: ǁ̃úì	ɳǀǀúì 
+grease: ǁ̃úì	ɳǀǀúì 
+lubricant: ǁ̃úì	ɳǀǀúì 
+oil: ǁ̃úì	ɳǀǀúì 
+fire: !e	ǀʼê 
+fish: !ao	ǀǀʼáù	ǁʼáù 
+foot: ŋare 
+full: !oe	!oeha	ǀkxòè 
+give: mã̂ 
+good: kã́ĩ̀ 
+hair: ǀʼũ̂ 
+hand: ceu	cáú 
+left hand: ceu	cáú 
+right: ceu	cáú 
+head: má 
+hear: kuom	kw~om	kúḿ 
+heart: ǂáó 
+horn: n!~a	ǁ̃nâ	ɳǀǀnâ 
+1 sg.: ke	tê 
+I: ke	tê 
+kill: ǀkxṹ 
+knee: !ori	qúrù 
+be knowledgeable: ʔã̂ 
+know: ʔã̂ 
+leaf: dana	ǀ̰ánà	ɡǀánà 
+lie: ǀǀóé	ǁóé 
+lie down: ǀǀóé	ǁóé 
+liver: !aen	kʼã́ĩ́ 
+long: !áù 
+head louse: kone	kxʼúnì 
+louse: kone	kxʼúnì 
+male: kxáó 
+man: kue	kw~e	kʰóè 
+flesh: ǀxâ 
+meat: ǀxâ 
+moon: ǁ̃óè	ɳǀǀóè 
+hill: !abi 
+mountain: !abi 
+mouth: kxáḿ 
+name: !uo5	ǀkxóǹ 
+title: !uo5	ǀkxóǹ 
+neck: kxáó 
+new: kaba	qábà 
+night: hx~aeSika	n!~uaka 
+nighttime: hx~aeSika	n!~uaka 
+nose: !ui	ǂ̰úì	ɡǂúì 
+not: tàmà 
+adulterous: !w~i	ǀwi	ǀúí 
+one: !w~i	ǀwi	ǀúí 
+single: !w~i	ǀwi	ǀúí 
+that: ʔá-séá 
+the: !w~i	ǀwi	ǀúí 
+unprincipled: !w~i	ǀwi	ǀúí 
+human: kue	kw~e	kʰóè 
+human being: kue	kw~e	kʰóè 
+person: kue	kw~e	kʰóè 
+rain: ɕúː 
+rainy weather: ɕúː 
+red: ǀ̃nóà	ɳǀnóà 
+path: dao	dáò 
+road: dao	dáò 
+route: dao	dáò 
+root: tabe 
+sand: xóḿ 
+say: me 
+see: mo	moaha	m̂ 
+seed: ǀxúrí 
+sit: ǂ̃nù-è	ɳǂnù-è 
+hide: ko	kʰô 
+skin: ko	kʰô 
+sleep: ǀǀʼóm̀	ǁʼóm̀ 
+little: ǀǀòm̀	ǁòm̀ 
+small: ǀǀòm̀	ǁòm̀ 
+smallness: ǀǀòm̀	ǁòm̀ 
+smoke: cʼínì 
+stand: tê 
+star: !ono	ǂónù 
+rock: n!~oa	ǁ̃óá	ɳǀǀóá 
+stone: n!~oa	ǁ̃óá	ɳǀǀóá 
+sun: !am	ǀáḿ 
+tail: cáó 
+this: ǀ̃né	ɳǀné 
+2 sg: ca	ce	câ	sâ 
+thou: ca	ce	câ	sâ 
+you: ca	ce	câ	sâ 
+tongue: dam	dáḿ 
+tooth: !oji	ǀǀṹ	ǁṹ 
+tree: i	yì 
+grind: !am	ǀám	ǀám̀ 
+two: !am	ǀám	ǀám̀ 
+go: kũ̂ 
+walk: kũ̂ 
+hot: kuru 
+warm: kuru 
+water: ca	cʰâ 
+1 pl. inc.: =ae	=be	=e	ite 
+we: =ae	=be	=e	ite 
+we₁: =ae	=be	=e	ite 
+what: nǔ 
+white: !ʼú 
+whiteness: !ʼú 
+who: dí 
+who?: dí 
+female: ǁ̰ɛ-	ɡǀǀɛ- 
+woman: ǁ̰ɛ-	ɡǀǀɛ- 
+dull: !óḿ 
+heavy: !óḿ 
+serious: !óḿ 
+close: ǀû 
+near: ǀû 
+ner: ǀû 
+salt: dà̰bè 
+short: ǀǀòm̀	ǁòm̀ 
+snake: ǀkxáó 
+wind: ǂʼã́ 
+year: kúrí 

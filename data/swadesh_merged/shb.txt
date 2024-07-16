@@ -1,0 +1,301 @@
+all: kõmoli 
+every: kõmoli 
+ash: yupušupu 
+ashes: yupušupu 
+bark: pili si 
+big: le	pata 
+bigness: le	pata 
+large: le	pata 
+bite: soa 
+black: uši 
+blood: i*3	i*ep	i*y3	ĩep 
+bone: 3*	pili th~u*	pili thũ 
+breast: th3p	thupək	th~uk3k 
+breasts: th3p	thupək	th~uk3k 
+claw: namhesi 
+nail: namhesi 
+talon: namhesi 
+cloud: wakiši 
+cold: wati	watutu 
+come: hu-ima	huima 
+come from: hu-ima	huima 
+be dead: Cato h3Sra	huSmi	huStu	hušmi	huštu 
+dead: Cato h3Sra	huSmi	huStu	hušmi	huštu 
+die: Cato h3Sra	huSmi	huStu	hušmi	huštu 
+dog: okolo	okoro 
+drink: koa 
+dry: wehe 
+ear: y3m3	yu*muk	yũmuk 
+earth: ilihi	mašithak 
+ground: ilihi	mašithak 
+land: ilihi	mašithak 
+soil: ilihi	mašithak 
+eat: ia	wa 
+egg: kalaka thethepək 
+eye: mamo	pili mamo 
+feather: yõik	ãhuk	šĩoik 
+fire: wak3	wake 
+fish: Carak3	yalaka 
+fly: yiyo	yu 
+fly v.: yiyo	yu 
+foot: mãhuk 
+full: ehethe	eheth~e	p3te hetea 
+give: hipi 
+good: totihi 
+green: palahi 
+hair: šinak 
+hand: i*thak	u*th~ak	ũtha-k 
+left hand: i*thak	u*th~ak	ũtha-k 
+right: i*thak	u*th~ak	ũtha-k 
+head: pelehe 
+hear: hi*li	hi*ri	hĩli 
+heart: mašiap 
+horn: yo*lak	yo*rak	yõlak 
+1 sg.: ca	kamaCa	kami-ye	kamiye	ya 
+I: ca	kamaCa	kami-ye	kamiye	ya 
+kill: šela 
+knee: mahekok 
+be knowledgeable: tapo 
+know: tapo 
+leaf: hena 
+lie: la	make	pulu 
+lie down: la	make	pulu 
+liver: amok 
+long: lapa 
+head louse: noma 
+louse: noma 
+male: wãlo 
+man: ninam	ya*nam 
+many: yalami 
+much: yalami 
+multiple: yalami 
+several: yalami 
+flesh: pili yãhi 
+meat: pili yãhi 
+moon: wilipo 
+hill: mamak	olina	teremi 
+mountain: mamak	olina	teremi 
+mouth: kahik 
+name: wa*ha	wãha 
+title: wa*ha	wãha 
+neck: pili olahi 
+new: t3to	tito 
+night: th3m t3t3	th~3m tutu th~ehe	thəm tutu thehe	titith3h 
+nighttime: th3m t3t3	th~3m tutu th~ehe	thəm tutu thehe	titith3h 
+nose: h3*Sip3	hu*kak	hũkak 
+adulterous: kamitχ́ amhét	mo*li	mo*ri 
+one: kamitχ́ amhét	mo*li	mo*ri 
+single: kamitχ́ amhét	mo*li	mo*ri 
+that: kamitχ́ amhét	mo*li	mo*ri 
+the: kamitχ́ amhét	mo*li	mo*ri 
+unprincipled: kamitχ́ amhét	mo*li	mo*ri 
+human: ninam	ya*nam 
+human being: ninam	ya*nam 
+person: ninam	ya*nam 
+rain: ma 
+rainy weather: ma 
+red: wake	ĩe 
+path: piliyo	piriCo 
+road: piliyo	piriCo 
+route: piliyo	piriCo 
+root: nasilik 
+sand: lãkak 
+say: ku 
+see: m3	nta	ta	taa 
+seed: pili mok 
+sit: lo	tikele 
+hide: pili si	si	sis 
+skin: pili si	si	sis 
+sleep: mališi	mi 
+little: oše	sĩilip 
+small: oše	sĩilip 
+smallness: oše	sĩilip 
+smoke: wakiši 
+star: p3ram a*hi	po*lemahuk	põlemahuk 
+rock: maama	mama 
+stone: maama	mama 
+sun: mothok	moth~ok	poremSi*i 
+swim: hele 
+tail: pili šina 
+2 sg: kaho wamak3	kahowa	wa	wamak 
+thou: kaho wamak3	kahowa	wa	wamak 
+you: kaho wamak3	kahowa	wa	wamak 
+tongue: aka	pili aka 
+tooth: nak	pili nak 
+tree: witihi 
+grind: Carakep	kup	tasi’m	yalukup 
+two: Carakep	kup	tasi’m	yalukup 
+go: hu 
+walk: hu 
+water: ma3	ma3p	maup 
+1 pl. inc.: kahowamak	kamaCamak3	wamak 
+we: kahowamak	kamaCamak3	wamak 
+we₁: kahowamak	kamaCamak3	wamak 
+what: kale 
+white: šĩe 
+whiteness: šĩe 
+who: hati 
+who?: hati 
+female: thuwe 
+woman: thuwe 
+yellow: walapasipi 
+distant: lahami 
+far: lahami 
+dull: hule 
+heavy: hule 
+serious: hule 
+close: ahathi	ahi 
+near: ahathi	ahi 
+ner: ahathi	ahi 
+salt: waihok 
+short: hototi 
+snake: oliki	walok 
+thin: sitetehe 
+wind: watoli 
+earthworm: ikolomaš 
+worm: ikolomaš 
+year: thəm wehe 
+2 pl.: kahowamak	wamak 
+ye: kahowamak	wamak 
+you all: kahowamak	wamak 
+3 pl.: pək 
+they: pək 
+where: hapeli 
+where?: hapeli 
+how: hapenaha 
+how?: hapenaha 
+some: ai 
+few: yãmi 
+three: pək	tasimaimhét 
+broad: le 
+wide: le 
+wideness: le 
+fat: ũta 
+thick: yikahi 
+narrow: masi	miši 
+child: ulu 
+principal wife: pithiop-e 
+wife: pithiop-e 
+husband: pĩyalop-e 
+his mother: naa-ye 
+mother: naa-ye 
+my mother: naa-ye 
+father: popa-ye 
+his father: popa-ye 
+my father: popa-ye 
+animal: yalo 
+forest: ilihi 
+woods: ilihi 
+branch: poko 
+stick: poko 
+fruit: wiitihi himo 
+flower: nãkši 
+grass: kaplišak 
+cord: thãtha 
+rope: thãtha 
+grease: ũta 
+fingernail: namhesi 
+leg: pili kolona 
+wing: poko 
+gut: pili šik 
+guts: pili šik 
+insides: pili šik 
+intestine: pili šik 
+intestines: pili šik 
+back: yaip 
+suck: ukuka 
+spit: hola 
+vomit: thula 
+blow: hola 
+breath: hẽle-helek-mo 
+breathe: hẽle-helek-mo 
+laugh: kahik ĩka 
+laughter: kahik ĩka 
+cogitate: pihi 
+reflect: pihi 
+think: pihi 
+afraid: kili 
+be afraid: kili 
+fear: kili 
+fright: kili 
+alive: temi 
+be alive: temi 
+life: temi 
+live: temi 
+living: temi 
+fight: šiyo 
+hunt: hete	peli	šoa 
+beat: tihik	še 
+hit: tihik	še 
+strike: tihik	še 
+cut: hanu	pia 
+hack: hanu	pia 
+cut open: homo 
+split: homo 
+pierce: tiho 
+stab: tiho 
+tell lies: holemo 
+stand: ila 
+turn: hata 
+turn around: hata 
+turn round: hata 
+drop: ke 
+fall: ke 
+grasp: hipo 
+hold: hipo 
+hold in arm: hipo 
+squeeze: pateta	ãhuha 
+wring: pateta	ãhuha 
+rub: humuka 
+wipe: humuka 
+wash: ĩš yalu 
+wash clothes: ĩš yalu 
+push: hĩili	yaale	yahuhupo 
+shove: hĩili	yaale	yahuhupo 
+throw: šiye 
+bind: õka 
+fasten: õka 
+tie: õka 
+tie up: õka 
+sew: hẽha 
+count: utuha	yalami taa 
+enumerate: utuha	yalami taa 
+number: utuha	yalami taa 
+tally: utuha	yalami taa 
+have fun: inimo 
+play: inimo 
+float: kale 
+flow: kale 
+brook: ma u	u 
+river: ma u	u 
+stream: ma u	u 
+lake: yokoto 
+dust: popoši 
+fog: wakiši 
+sky: yãn-paluk 
+blaze: ĩšia 
+burn: ĩšia 
+day: thəm 
+daylight: thəm 
+daytime: thəm 
+bad: wãlihiki 
+evil: wãlihiki 
+rot: tale 
+rotten: tale 
+dirty: ĩši	šami 
+filthy: ĩši	šami 
+soiled: ĩši	šami 
+straight: šaali 
+sharp: namo 
+blunt: pusi 
+smooth: si-ãhi 
+damp: hele 
+wet: hele 
+correct: totihi 
+right side: poko yai 
+left: poko hai 
+in: titi	õši həm 
+inside: titi	õši həm 
+and: šo 
+if: hakunoha	ihə 
+because: keteen	yalo 

@@ -1,0 +1,261 @@
+all: ma-puloŋ	ma-puluq	maʔmiŋ 
+every: ma-puloŋ	ma-puluq	maʔmiŋ 
+ash: lafuh	ʕafo 
+ashes: lafuh	ʕafo 
+abdomen: ti(j)aL	tiaL 
+belly: ti(j)aL	tiaL 
+big: angay	tataqang	tataʔak	tataʔaŋ 
+bigness: angay	tataqang	tataʔak	tataʔaŋ 
+large: angay	tataqang	tataʔak	tataʔaŋ 
+bird: ayam	tupi 
+bite: mi-kalat	mi-karat 
+black: kuh(e)tiŋ	kuheting-ay 
+blood: remes 
+bone: okak	ukak 
+breast: cucu	falohaŋ	faluhaN	faluhaŋ 
+breasts: cucu	falohaŋ	faluhaN	faluhaŋ 
+burn: tofdoh 
+burn tr.: tofdoh 
+cloud: LuLem	kaLit	tuʔem 
+cold: siqenaw	siʔ(e)naw 
+come: tani	tayni 
+come from: tani	tayni 
+be dead: patay 
+dead: patay 
+die: patay 
+dog: wacu 
+drink: helot	mi-nanum	nanum 
+dry: ma-icaŋ 
+ear: taNila	tangila	taŋila 
+eat: k<um>aʔen	kaqen 
+egg: fitaqul	fitaʔol 
+eye: mata 
+feather: fanuh	upih 
+fire: lamar	namar 
+fish: futiN	futing	futiŋ 
+fly: mafer 
+fly v.: mafer 
+good: fancal	ma-fancal 
+green: kangraw-ay	kaŋdaw 
+hair: fukes 
+hand: kamay 
+left hand: kamay 
+right: kamay 
+head: fuŋoh	tangar 
+hear: mi-tengir	mi-teŋir	teNir 
+1 sg.: aku	k-ako	kako 
+I: aku	k-ako	kako 
+kill: tapaʔ 
+be knowledgeable: ma-fanaq	ma-fanaʔ 
+know: ma-fanaq	ma-fanaʔ 
+leaf: papah 
+lie: tihmuk	tiqenang 
+lie down: tihmuk	tiqenang 
+liver: Xatay	atay	ʕatay 
+long: kakayaʔ	ma-mutuq 
+head louse: atimla	kuto	ʔatimla 
+louse: atimla	kuto	ʔatimla 
+male: faqinayan	faʔinajan 
+man: tamLaw 
+moon: fulaL 
+mouth: nguyus	ŋoyos 
+name: NaNan	ŋaŋan 
+title: NaNan	ŋaŋan 
+neck: liqer	liʕer 
+new: faluhay	faqluh	kapah 
+night: taLaya 
+nighttime: taLaya 
+nose: NosoX	Nusuq	ngusuq	ŋosoʕ 
+adulterous: ccaj	cecai	cecaj	cecay	cɨcay 
+one: ccaj	cecai	cecaj	cecay	cɨcay 
+single: ccaj	cecai	cecaj	cecay	cɨcay 
+that: k-una	k-ura 
+the: ccaj	cecai	cecaj	cecay	cɨcay 
+unprincipled: ccaj	cecai	cecaj	cecay	cɨcay 
+human: tamLaw 
+human being: tamLaw 
+person: tamLaw 
+rain: olad 
+rainy weather: olad 
+red: kah(e)ŋaŋ	kahengang-ay 
+path: lalan 
+road: lalan 
+route: lalan 
+root: lamit	limit 
+sand: tafok	tafuk 
+say: cinglaw	s-um-ual	s<um>uwal	saan 
+see: araw	ma-araw	ma-nengneng	mi-araw	mi-neŋneŋ	neNneN 
+sit: aloʕ	maruq 
+hide: faNes	fanges	faŋes 
+skin: faNes	fanges	faŋes 
+sleep: futiq	ma-futiʕ 
+little: kiqkiq	kiʔkiʔ	mimiŋ 
+small: kiqkiq	kiʔkiʔ	mimiŋ 
+smallness: kiqkiq	kiʔkiʔ	mimiŋ 
+smoke: ʔacifer 
+star: fuXis	fuqis	fuʕis 
+rock: fakeluh	fukeloh 
+stone: fakeluh	fukeloh 
+swim: Languy	mi-Laŋuy 
+tail: wikor 
+this: k-uni	kuna 
+2 sg: k-isu	kisu 
+thou: k-isu	kisu 
+you: k-isu	kisu 
+tongue: sema 
+tooth: waLis 
+grind: tusa	tusaʔ 
+two: tusa	tusaʔ 
+go: l-um-akat	r-um-akat 
+walk: l-um-akat	r-um-akat 
+water: nanum 
+1 pl. inc.: k-ita	kami	kita 
+we: k-ita	kami	kita 
+we₁: k-ita	kami	kita 
+what: umaqan	umaʔan 
+white: fuhecel-ay	kuh(e)cal 
+whiteness: fuhecel-ay	kuh(e)cal 
+who: c-ima 
+who?: c-ima 
+female: fafahian	fafahijan 
+woman: fafahian	fafahijan 
+yellow: kalyalyaway	kurilaw-ay 
+distant: ma-laʔay 
+far: ma-laʔay 
+dull: karteng	karteŋ 
+heavy: karteng	karteŋ 
+serious: karteng	karteŋ 
+close: nataʔ 
+near: nataʔ 
+ner: nataʔ 
+salt: cilah	cirah 
+short: kamukuʕ 
+snake: uner 
+thin: kuhpicay 
+wind: fali	fari	feli 
+earthworm: atikak	ʔatikak 
+worm: atikak	ʔatikak 
+year: mihca 
+2 pl.: amu	isu	k-amu 
+ye: amu	isu	k-amu 
+you all: amu	isu	k-amu 
+3 pl.: angra	c-aŋra 
+they: angra	c-aŋra 
+where: i-cua	icu(w)a 
+where?: i-cua	icu(w)a 
+when: hacu(w)a	hakua 
+when?: hacu(w)a	hakua 
+how: samaqanen	samaʔanen 
+how?: samaqanen	samaʔanen 
+other: u lumaʔ a tamdaw 
+three: tulu	tuluʔ 
+four: s(e)pat	sepat	spat 
+five: lima	limaʔ 
+broad: kakahaL 
+wide: kakahaL 
+wideness: kakahaL 
+fat: simar 
+thick: kiftol 
+narrow: ma-ʔecu 
+principal wife: fafahi 
+wife: fafahi 
+husband: faʔinay 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: mama 
+his father: mama 
+my father: mama 
+forest: lutuk 
+woods: lutuk 
+branch: capaʔ	caqang	cipaʔ 
+stick: capaʔ	caqang	cipaʔ 
+flower: hana 
+grass: leŋos	rengus 
+cord: keliw 
+rope: keliw 
+flesh: heci	titi 
+meat: heci	titi 
+grease: simar 
+wing: sa-pihpih	sa-pikpik 
+gut: tina(j)iʕ	tinaiq 
+guts: tina(j)iʕ	tinaiq 
+insides: tina(j)iʕ	tinaiq 
+intestine: tina(j)iʕ	tinaiq 
+intestines: tina(j)iʕ	tinaiq 
+back: koror	kulur 
+suck: cuhcuh 
+spit: mi-supa	ngalay 
+vomit: m-utaq	ma-utaʕ 
+blow: jof	mi-iuf 
+breath: saslaʕan 
+breathe: saslaʕan 
+laugh: ma-tawa	mi-ceriq	tawa 
+laughter: ma-tawa	mi-ceriq	tawa 
+cogitate: mi-harateng	mi-harateŋ 
+reflect: mi-harateng	mi-harateŋ 
+think: mi-harateng	mi-harateŋ 
+smell: hanek	sanek 
+sniff: hanek	sanek 
+afraid: ma-talaw 
+be afraid: ma-talaw 
+fear: ma-talaw 
+fright: ma-talaw 
+alive: maroʔ 
+be alive: maroʔ 
+life: maroʔ 
+live: maroʔ 
+living: maroʔ 
+hunt: mi-tilu	mi-ʔaloʔ 
+beat: mi-palo	mi-stiʔ	palu	setiq 
+hit: mi-palo	mi-stiʔ	palu	setiq 
+strike: mi-palo	mi-stiʔ	palu	setiq 
+cut: cikcik 
+hack: cikcik 
+cut open: mi-pelaʔ 
+split: mi-pelaʔ 
+pierce: cucuk	i-cucuk 
+stab: cucuk	i-cucuk 
+scratch: kuskus	mi-kuskus 
+dig: kurkur	mi-karkar 
+stand: t-um-ireng	t<um>ireŋ 
+drop: ma-funor	ma-terak 
+fall: ma-funor	ma-terak 
+grasp: mamet 
+hold: mamet 
+hold in arm: mamet 
+squeeze: mi-hatec 
+wring: mi-hatec 
+throw: falah	mi-falah	tekur 
+bind: faluL-en	ma-suqut	soʔot 
+fasten: faluL-en	ma-suqut	soʔot 
+tie: faluL-en	ma-suqut	soʔot 
+tie up: faluL-en	ma-suqut	soʔot 
+sew: mi-tapir	mi-taʔis 
+count: mi-saʔosi 
+enumerate: mi-saʔosi 
+number: mi-saʔosi 
+tally: mi-saʔosi 
+flow: ma-katay 
+lake: fanaw 
+ocean: liyar	riar 
+sea: liyar	riar 
+dust: taʔfod 
+fog: qopqopaj	takulah 
+sky: kakalayan	kakarayan 
+bad: tatiʔih 
+evil: tatiʔih 
+rot: ma-funar	ma-funiʔ 
+rotten: ma-funar	ma-funiʔ 
+dirty: ma-acek	ma-kaLit 
+filthy: ma-acek	ma-kaLit 
+soiled: ma-acek	ma-kaLit 
+sharp: ma-cilem	ma-talem 
+blunt: matales 
+damp: ma-cipaʕ 
+wet: ma-cipaʕ 
+right side: kawanan 
+left: kawili 
+in: i	lalumaq 
+inside: i	lalumaq 
+if: ano	anu 

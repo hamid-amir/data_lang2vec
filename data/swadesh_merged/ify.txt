@@ -1,0 +1,140 @@
+all: qamin	qemin 
+every: qamin	qemin 
+ash: dapul	depqul 
+ashes: dapul	depqul 
+abdomen: putu	qegeh 
+belly: putu	qegeh 
+big: qetteteng (qetent)	qongal 
+bigness: qetteteng (qetent)	qongal 
+large: qetteteng (qetent)	qongal 
+bird: ke:keq	qemayuq 
+bite: kalat	kalaton 
+black: mangmange:tet (nge:tet)	qandeket 
+blood: da:la	kuheyaw 
+bone: tu7Nal	tungal	tuqngal 
+breast: huhu7	huhuq	pagew	palagpag 
+breasts: huhu7	huhuq	pagew	palagpag 
+burn: legab	pu:lan 
+burn tr.: legab	pu:lan 
+cloud: bugut	kulput 
+cold: qayhugi (hugi)	tengnin 
+be dead: nate (qate)	netey 
+dead: nate (qate)	netey 
+die: nate (qate)	netey 
+dog: ahhu7	ka:hu	qahhuq 
+drink: inum	qinum	quminum 
+dry: haqpey	magqanan	mamaga	qihape 
+ear: qi:nga	taNila7	tangilaq 
+eat: mangan	qekan 
+egg: qiklug	qitlug 
+eye: mata	mata7	mataq 
+feather: dula:dul	qipuh 
+fire: apuy	qapuy 
+fish: deleg	dolog 
+fly: tayyab	tuma:yap 
+fly v.: tayyab	tuma:yap 
+full: penu7 
+good: kayyaggud	maphod (pohod) 
+green: maqattaq	munlangta 
+hair: bewek	bu:uq 
+hand: taklay	taqle 
+left hand: taklay	taqle 
+right: taklay	taqle 
+head: qu:lu	quluq 
+hear: deNel	dengel	donglon (dongol) 
+1 sg.: hi7gak 
+I: hi7gak 
+kill: patey	patoy 
+knee: pukel 
+be knowledgeable: qamtaq	qinnil:on (qinni:la) 
+know: qamtaq	qinnil:on (qinni:la) 
+leaf: buluN	bulung	tu:bu 
+liver: altey	qaltey	qolte 
+long: qadukke	qandukkey 
+head louse: kutu7	kutuq	qu:tu 
+louse: kutu7	kutuq	qu:tu 
+male: lakiq	lala:qi 
+man: ta:gu	tu7u7	tuquq 
+moon: bu:lan	bulan 
+hill: duntug 
+mountain: duntug 
+mouth: bungut	toqo 
+name: Nadan	nga:dan	ngadan 
+title: Nadan	nga:dan	ngadan 
+neck: bagang	buklew 
+new: balu	baluh 
+night: hileN	hileng	labi 
+nighttime: hileN	hileng	labi 
+nose: eleN	qeleng	qolong 
+adulterous: hakey	qoha 
+one: hakey	qoha 
+single: hakey	qoha 
+that: hakey	qoha 
+the: hakey	qoha 
+unprincipled: hakey	qoha 
+human: ta:gu	tu7u7	tuquq 
+human being: ta:gu	tu7u7	tuquq 
+person: ta:gu	tu7u7	tuquq 
+rain: qudan 
+rainy weather: qudan 
+red: madlang	mumbolah 
+path: dalan 
+road: dalan 
+route: dalan 
+root: lamut 
+sand: panag	pantal 
+say: hapit	qayyon (qali) 
+see: aN7aN	qangqang	tigon (ti:go) 
+sit: qumbun (qubun)	yudung 
+hide: belat	qupqup 
+skin: belat	qupqup 
+sleep: maloq (qolog)	qugip 
+little: qekket	qittang 
+small: qekket	qittang 
+smallness: qekket	qittang 
+smoke: qahuk	qahuq 
+star: bittu:won	bittuwen 
+rock: batu	batu7	batuq 
+stone: batu	batu7	batuq 
+swim: kaykay	munqagga:qe 
+tail: buya:buy	qikul 
+2 sg: hi7gam 
+thou: hi7gam 
+you: hi7gam 
+tongue: di:la	dila7	dilaq 
+tooth: Nipen	buba	ngipen 
+tree: keyew 
+grind: dewwa	dewwa7	dewwaq	duwa 
+two: dewwa	dewwa7	dewwaq	duwa 
+go: dumallan	mandaladalan 
+walk: dumallan	mandaladalan 
+hot: luma:hu	qatung 
+warm: luma:hu	qatung 
+water: danum	le:teng 
+1 pl. inc.: hi7gatyu7 
+we: hi7gatyu7 
+we₁: hi7gatyu7 
+what: hipaq	nganu 
+white: mablah (belah)	munpa:haq 
+whiteness: mablah (belah)	munpa:haq 
+who: hipaq humman	nganne 
+who?: hipaq humman	nganne 
+female: baba:i	biqiq 
+woman: baba:i	biqiq 
+yellow: malulaw	qinnu:nig (qu:nig) 
+distant: qadawwi	qedawwiq 
+far: qadawwi	qedawwiq 
+dull: belqat	madamot 
+heavy: belqat	madamot 
+serious: belqat	madamot 
+close: neqihnup (henup)	nihaggon 
+near: neqihnup (henup)	nihaggon 
+ner: neqihnup (henup)	nihaggon 
+salt: qahin 
+short: heqheqdod	namukok (mukok)	qantikkey 
+snake: qu:log	quleg 
+thin: maya:pet	meqingpih 
+wind: dibdib	tuyup 
+earthworm: bigih	qolang 
+worm: bigih	qolang 
+year: tawon	tuqun 

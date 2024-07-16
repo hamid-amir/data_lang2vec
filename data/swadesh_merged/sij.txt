@@ -1,0 +1,266 @@
+all: tiyamama 
+every: tiyamama 
+ash: wowai	yawi gaula 
+ashes: wowai	yawi gaula 
+abdomen: tae 
+belly: tae 
+big: bamo	boboŋa 
+bigness: bamo	boboŋa 
+large: bamo	boboŋa 
+bird: mani 
+bite: -saŋa	-you 
+black: kikiya 
+blood: masina 
+bone: tuatua 
+breast: susu 
+breasts: susu 
+burn: -lalaŋi	-mbosi	-tutuni	yaweni 
+burn tr.: -lalaŋi	-mbosi	-tutuni	yaweni 
+cloud: bubuluma 
+cold: luluwila 
+come: -ma	ma 
+come from: -ma	ma 
+be dead: -mande uni	mand~e uni 
+dead: -mande uni	mand~e uni 
+die: -mande uni	mand~e uni 
+dog: kiyami 
+drink: -numu	numu 
+dry: -mamasa	masoso 
+ear: -taŋanowa	taNanowa 
+eat: -ani 
+egg: ketu 
+eye: matano 
+feather: [mani]uli 
+fire: yawi 
+fish: iya 
+fly: -lowa 
+fly v.: -lowa 
+good: wiya 
+green: daŋala 
+hair: [dabola] uli 
+hand: nima 
+left hand: nima 
+right: nima 
+head: dabola 
+hear: -loŋoni	loNoni 
+1 sg.: woya 
+I: woya 
+kill: -lapa uni 
+be knowledgeable: -yale 
+know: -yale 
+leaf: [ai]lau	ailau	lau 
+lie: -iye 
+lie down: -iye 
+liver: ate 
+long: molosa 
+head louse: tuma 
+louse: tuma 
+male: kole	tamota 
+man: tamtamoNa	tamtamoŋa 
+moon: kambalaŋa 
+mouth: alolo 
+name: ase 
+title: ase 
+neck: gidu 
+new: wou 
+night: towambana	towamb~ana 
+nighttime: towambana	towamb~ana 
+nose: nisinowa 
+adulterous: sesemi 
+one: sesemi 
+single: sesemi 
+that: koena 
+the: sesemi 
+unprincipled: sesemi 
+human: tamtamoNa	tamtamoŋa 
+human being: tamtamoNa	tamtamoŋa 
+person: tamtamoNa	tamtamoŋa 
+rain: usana 
+rainy weather: usana 
+red: misina 
+path: andalawa	and~alawa 
+road: andalawa	and~alawa 
+route: andalawa	and~alawa 
+root: woka 
+sand: alundi 
+say: -ŋgo 
+see: -yoŋgo	yoNg~o 
+sit: -ndosua 
+hide: bolo	usi 
+skin: bolo	usi 
+sleep: -iye wai 
+little: kae	kateako 
+small: kae	kateako 
+smallness: kae	kateako 
+smoke: yabokole 
+star: gitimana 
+rock: wati 
+stone: wati 
+swim: -kota tai	-kota tina	-yuma 
+tail: unae 
+this: tatena	tatona 
+2 sg: aiya 
+thou: aiya 
+you: aiya 
+tongue: amala 
+tooth: niwo 
+grind: lua	luwa 
+two: lua	luwa 
+go: -pa-andalowa 
+walk: -pa-andalowa 
+hot: wawana 
+warm: wawana 
+water: tina 
+1 pl. inc.: aita	i 
+we: aita	i 
+we₁: aita	i 
+what: sawa 
+white: usouso 
+whiteness: usouso 
+who: sai 
+who?: sai 
+female: ewa 
+woman: ewa 
+yellow: meyaŋo 
+distant: -iye molosa 
+far: -iye molosa 
+dull: bunama 
+heavy: bunama 
+serious: bunama 
+close: -tabiŋa 
+near: -tabiŋa 
+ner: -tabiŋa 
+salt: tai 
+short: tula	tupe 
+snake: mota 
+thin: yawayawa 
+wind: aula 
+earthworm: mota 
+worm: mota 
+year: damana 
+2 pl.: amu 
+ye: amu 
+you all: amu 
+3 pl.: ai 
+they: ai 
+where: iye tenda 
+where?: iye tenda 
+when: gesina-go	gesina-ma 
+when?: gesina-go	gesina-ma 
+how: ka kaitenda 
+how?: ka kaitenda 
+other: mainama 
+three: toli	tori 
+four: wata 
+five: nima teula 
+broad: bamo 
+wide: bamo 
+wideness: bamo 
+fat: didi 
+thick: dendeliŋa 
+narrow: kateako 
+principal wife: asowa 
+wife: asowa 
+husband: asowa 
+his mother: awa	tina 
+mother: awa	tina 
+my mother: awa	tina 
+father: mama	tama 
+his father: mama	tama 
+my father: mama	tama 
+forest: weni 
+woods: weni 
+branch: [ai]lakalaka 
+stick: [ai]lakalaka 
+fruit: aiano 
+flower: plawa 
+grass: kalasi 
+cord: walasa 
+rope: walasa 
+flesh: wiso 
+meat: wiso 
+grease: didi 
+wing: bagelau 
+gut: tae[lalo] 
+guts: tae[lalo] 
+insides: tae[lalo] 
+intestine: tae[lalo] 
+intestines: tae[lalo] 
+back: dumakai 
+suck: -pipia[susu]	numu 
+spit: -kanzuwa 
+vomit: -luwa 
+blow: -pusie 
+breath: -so yagawa	-you yagawa 
+breathe: -so yagawa	-you yagawa 
+laugh: -momola 
+laughter: -momola 
+cogitate: taewembi 
+reflect: taewembi 
+think: taewembi 
+smell: -numusu 
+sniff: -numusu 
+afraid: -mandi 
+be afraid: -mandi 
+fear: -mandi 
+fright: -mandi 
+alive: matalalaya 
+be alive: matalalaya 
+life: matalalaya 
+live: matalalaya 
+living: matalalaya 
+hunt: -ŋgewe 
+beat: -lapa 
+hit: -lapa 
+strike: -lapa 
+cut: -tala 
+hack: -tala 
+cut open: -waga 
+split: -waga 
+pierce: -so 
+stab: -so 
+scratch: wale 
+dig: -tawi 
+stand: -walasa 
+drop: -peka 
+fall: -peka 
+grasp: gugumi 
+hold: gugumi 
+hold in arm: gugumi 
+squeeze: -pipia 
+wring: -pipia 
+throw: -tiŋa 
+bind: -yota 
+fasten: -yota 
+tie: -yota 
+tie up: -yota 
+sew: -sali 
+count: -wete 
+enumerate: -wete 
+number: -wete 
+tally: -wete 
+flow: -zuzula 
+lake: tina kapulawa 
+ocean: tai 
+sea: tai 
+dust: bom 
+fog: yawaluŋu 
+sky: gulubu 
+bad: maya 
+evil: maya 
+rot: sapupu 
+rotten: sapupu 
+dirty: kele 
+filthy: kele 
+soiled: kele 
+sharp: mata 
+blunt: mata mou 
+damp: totowi 
+wet: totowi 
+right side: ano 
+left: kaze 
+at: iye 
+in: lalo 
+inside: lalo 
+and: wa 
+if: iŋgo 

@@ -1,0 +1,264 @@
+all: hariale 
+every: hariale 
+ash: awu 
+ashes: awu 
+abdomen: dulloo	dùloo	ɗelu 
+belly: dulloo	dùloo	ɗelu 
+big: worena 
+bigness: worena 
+large: worena 
+bird: doleela	dolila	mannu	manoo 
+bite: hiɓi 
+black: bulla	do medi 
+blood: ra 
+bone: rui 
+breast: caboosoofoo	caboosoosoo	huhu	soofoo	soosoo 
+breasts: caboosoofoo	caboosoosoo	huhu	soofoo	soosoo 
+burn: ta-tunu	varitai 
+burn tr.: ta-tunu	varitai 
+cloud: miramoo	méremu 
+cold: meriŋi	mireèngee 
+come: deka	mai 
+come from: deka	mai 
+be dead: maate	made 
+dead: maate	made 
+die: maate	made 
+dog: Naka	gnaca	guaca	ŋaka 
+drink: Ninu	neenawei	neeno-darao	ta-ŋinu 
+dry: kelili	kemaŋu 
+ear: wodeeloo	wodeèloo	wodilu 
+eat: gnaä	ta-ŋaʔa 
+egg: delu	dulloo 
+eye: mada	matta	màdda	na-mada 
+feather: raʔu	row-mannoo	ru 
+fire: aee	ai 
+fish: ica	nadu7u	naduʔu	nudoo 
+fly: lila 
+fly v.: lila 
+good: ié	woʔié 
+green: mingaroo	méŋeru 
+hair: row	row catoo	ru 
+hand: kai Na7a	kai ŋaʔa	ruai	wulaba	wùlaba 
+left hand: kai Na7a	kai ŋaʔa	ruai	wulaba	wùlaba 
+right: kai Na7a	kai ŋaʔa	ruai	wulaba	wùlaba 
+head: catoo	katu 
+hear: reNe	reNi	reŋi	reŋé	roädeèloo 
+1 sg.: ja	ya 
+I: ja	ya 
+kill: tape made 
+be knowledgeable: ia	tohi 
+know: ia	tohi 
+leaf: ro7o	row	roʔo	ru 
+lie: pahoro eni 
+lie down: pahoro eni 
+liver: ade 
+long: medera	merai 
+head louse: udu 
+louse: udu 
+male: momone	momonne 
+man: do7u	doʔu 
+moon: weru	wurroo 
+mouth: larà-voòboo	wu|ɓa 
+name: Nara	ŋara 
+title: Nara	ŋara 
+neck: lacoco	lacòco	lakoko 
+new: dowi7u	do|wiʔu	wi7u 
+night: meda	meɗa	mudda	munda-lodo	remi 
+nighttime: meda	meɗa	mudda	munda-lodo	remi 
+nose: huwaNa	huwaŋa	sivànga	swanga 
+adulterous: ehi	iffe	uffe	usse 
+one: ehi	iffe	uffe	usse 
+single: ehi	iffe	uffe	usse 
+that: nani 
+the: ehi	iffe	uffe	usse 
+unprincipled: ehi	iffe	uffe	usse 
+human: do7u	doʔu 
+human being: do7u	doʔu 
+person: do7u	doʔu 
+rain: aji 
+rainy weather: aji 
+red: mea	sooree 
+path: jara	ru| ĵara 
+road: jara	ru| ĵara 
+route: jara	ru| ĵara 
+root: amo 
+sand: laha lae	lasilai 
+say: ané	li	ta-pedai 
+see: hi	héléo	sillaèo 
+sit: mejeɗi	midyadee 
+hide: kuri	racäee 
+skin: kuri	racäee 
+sleep: ta-beji	tabudge	tbudje 
+little: iki 
+small: iki 
+smallness: iki 
+smoke: habu	sabooai 
+star: moto 
+rock: wawadoo	wo wadu 
+stone: wawadoo	wo wadu 
+swim: ta-naŋi 
+tail: carow	carrow	roolai	rulahi 
+this: nane	oni	pane 
+2 sg: ao 
+thou: ao 
+you: ao 
+tongue: vaio	we7o	weʔo 
+tooth: Nutu	ingootoo deeda	ingootoo vàva	ŋutu 
+grind: due	dué	lhua	rooe	ɗue 
+two: due	dué	lhua	rooe	ɗue 
+go: béla	ta-kako	teaco	trai 
+walk: béla	ta-kako	teaco	trai 
+hot: kewowo	kibàsoo	pana 
+warm: kewowo	kibàsoo	pana 
+water: ailea	ailei	ei 
+1 pl. inc.: di	ĵi 
+we: di	ĵi 
+we₁: di	ĵi 
+what: niŋa 
+white: do pudi	du poodeo 
+whiteness: do pudi	du poodeo 
+who: nado 
+who?: nado 
+female: mobeni	mobunne	mobunnee 
+woman: mobeni	mobunne	mobunnee 
+yellow: cairara	kalara 
+distant: jaʔu 
+far: jaʔu 
+dull: mejiŋi 
+heavy: mejiŋi 
+serious: mejiŋi 
+close: hédeka	umu 
+near: hédeka	umu 
+ner: hédeka	umu 
+salt: gàrra	hero	méŋehi 
+short: na-ɓaɓa 
+snake: doɓoho 
+thin: meni 
+wind: ŋelo 
+earthworm: kalate 
+worm: kalate 
+year: tau 
+2 pl.: mu 
+ye: mu 
+you all: mu 
+3 pl.: ro 
+they: ro 
+where: pami 
+where?: pami 
+when: p|eri 
+when?: p|eri 
+how: mina mi 
+how?: mina mi 
+other: aŋa	do wala 
+three: telu	tulloo	tullu 
+four: epa	uppa	uppah	ěpa 
+five: lemi	lumee	lumme 
+broad: do ɓela 
+wide: do ɓela 
+wideness: do ɓela 
+fat: meñi	munje 
+thick: meʔaa 
+narrow: kedadu	ɓera 
+principal wife: ihi emu 
+wife: ihi emu 
+husband: ihi emu 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+forest: roʔa jami 
+woods: roʔa jami 
+branch: calai	kélat 
+stick: calai	kélat 
+fruit: vooe	wue 
+flower: wila 
+grass: ruĵuʔu 
+cord: dari 
+rope: dari 
+flesh: hedai	macoocooree 
+meat: hedai	macoocooree 
+grease: meñi	munje 
+wing: ruʔela 
+gut: tenié 
+guts: tenié 
+insides: tenié 
+intestine: tenié 
+intestines: tenié 
+back: deni 
+suck: hepa	ta-muhi 
+spit: painyee roo elloo	pe-ilu	pupu 
+vomit: medu 
+blow: ta-tiu 
+breath: heŋa 
+breathe: heŋa 
+laugh: ta-mari	ɗole 
+laughter: ta-mari	ɗole 
+cogitate: owé	peŋé 
+reflect: owé	peŋé 
+think: owé	peŋé 
+smell: buru	kìssoo	tbunge	teɗé 
+sniff: buru	kìssoo	tbunge	teɗé 
+afraid: medaʔu	tseeo 
+be afraid: medaʔu	tseeo 
+fear: medaʔu	tseeo 
+fright: medaʔu	tseeo 
+alive: muri 
+be alive: muri 
+life: muri 
+live: muri 
+living: muri 
+hunt: tape hudi 
+beat: woba 
+hit: woba 
+strike: woba 
+cut: eta	tte 
+hack: eta	tte 
+cut open: ɓeka 
+split: ɓeka 
+pierce: hue	ta-teɓo 
+stab: hue	ta-teɓo 
+scratch: ta-gai	ta-kao 
+dig: kaʔi 
+stand: keɗi	tidi 
+drop: [me]nawu	buni	ta-bui	ttooe 
+fall: [me]nawu	buni	ta-bui	ttooe 
+grasp: emi 
+hold: emi 
+hold in arm: emi 
+squeeze: ta-pue 
+wring: ta-pue 
+throw: hora	ta-daba	ta-nabe 
+bind: eki	ta-uje	ɓoro 
+fasten: eki	ta-uje	ɓoro 
+tie: eki	ta-uje	ɓoro 
+tie up: eki	ta-uje	ɓoro 
+sew: ĵaʔu 
+count: ta-reke 
+enumerate: ta-reke 
+number: ta-reke 
+tally: ta-reke 
+flow: mili	ri 
+ocean: aidassee	aidàssee	dahi	lou 
+sea: aidassee	aidàssee	dahi	lou 
+dust: awu 
+sky: leèroo	liru 
+bad: do|woapa 
+evil: do|woapa 
+rot: dowoʔo	wapa 
+rotten: dowoʔo	wapa 
+dirty: raʔi 
+filthy: raʔi 
+soiled: raʔi 
+sharp: do naʔa	meriu 
+blunt: ketaba	kewagu	wada 
+damp: ta-boɓo 
+wet: ta-boɓo 
+right side: kedaŋa 
+left: kiriu 
+at: pa 
+in: me rămă	ɗara 
+inside: me rămă	ɗara 
+and: ŋa 
+if: kiri	we 

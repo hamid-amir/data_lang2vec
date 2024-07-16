@@ -1,0 +1,151 @@
+all: masanil	smasnil 
+every: masanil	smasnil 
+ash: tak"ak"il ta7aN	te ta7aN 
+ashes: tak"ak"il ta7aN	te ta7aN 
+bark: xoS	xokbal te7 
+abdomen: k"o7ol	k"oxol 
+belly: k"o7ol	k"oxol 
+big: niwan	niwkil 
+bigness: niwan	niwkil 
+large: niwan	niwkil 
+bird: C"ik	muC 
+bite: Ci7a	NaC 
+black: k"ik" 
+blood: Cik"	Cik"il 
+bone: b"ak	bak 
+breast: im 
+breasts: im 
+claw: eC 
+nail: eC 
+talon: eC 
+cloud: asun 
+cold: si7ik	sik 
+come: Sa7	xaw 
+come from: Sa7	xaw 
+be dead: Cam	Cami 
+dead: Cam	Cami 
+die: Cam	Cami 
+dog: c"i7 
+drink: uk"	ukx 
+dry: takiN	takin 
+ear: Cikin 
+earth: lu7um 
+ground: lu7um 
+land: lu7um 
+soil: lu7um 
+eat: wa7	wa7i 
+egg: Nolob	Nolob" 
+eye: yol sat 
+fat: %mantekat	%mantka7 
+fat n.: %mantekat	%mantka7 
+grease: %mantekat	%mantka7 
+lubricant: %mantekat	%mantka7 
+oil: %mantekat	%mantka7 
+feather: Si7il	Sil 
+fire: k"ak" 
+fish: Cay 
+fly: SeNw	xeNw 
+fly v.: SeNw	xeNw 
+foot: ok 
+full: b"ut"an	butxi 
+give: ak" 
+good: waC" 
+green: ya7aS	yaS 
+hair: Sil xolom 
+hand: k"ab	k"ab" 
+left hand: k"ab	k"ab" 
+right: k"ab	k"ab" 
+head: Solom	xolom 
+hear: ab"i	abi 
+heart: piSan 
+horn: C"a7ak 
+1 sg.: ha7in	in 
+I: ha7in	in 
+kill: mil	mila7 
+knee: Solom penek	xolm penek 
+be knowledgeable: oStak	oxk 
+know: oStak	oxk 
+leaf: Si7il	Sil te7	Silte7 
+lie: SiCan	ek" kotan 
+lie down: SiCan	ek" kotan 
+liver: seyub	seyub" 
+long: nat	naxat 
+head louse: uk" 
+louse: uk" 
+male: winak 
+man: %anima	%anma7 
+many: cixtum	niwan 
+much: cixtum	niwan 
+multiple: cixtum	niwan 
+several: cixtum	niwan 
+flesh: CibeS	Cibx 
+meat: CibeS	Cibx 
+moon: Ci7iC	ux 
+hill: wic 
+mountain: wic 
+mouth: ti7 
+name: b"i	bi 
+title: b"i	bi 
+neck: SaS	xax 
+new: ak"	ak" to 
+night: ak"wal 
+nighttime: ak"wal 
+nose: Ni7 
+not: ma 
+adulterous: xu7un	xun 
+one: xu7un	xun 
+single: xu7un	xun 
+that: xun Ca	xunCi7 
+the: xu7un	xun 
+unprincipled: xu7un	xun 
+human: %anima	%anma7 
+human being: %anima	%anma7 
+person: %anima	%anma7 
+rain: Nab"	puC nab 
+rainy weather: Nab"	puC nab 
+red: Cak 
+path: b"e	be 
+road: b"e	be 
+route: b"e	be 
+root: C"aNl yip	yib" 
+round: pilan	setan setan 
+say: Ci	al 
+see: il	wila7 
+seed: iNat 
+sit: em wokan	k"oSan 
+hide: c"umal 
+skin: c"umal 
+sleep: way	wayaN 
+little: yune	yune7 
+small: yune	yune7 
+smallness: yune	yune7 
+smoke: tab	tab" 
+stand: k"e liNan	liNan 
+star: k"anal 
+rock: k"e7en 
+stone: k"e7en 
+sun: k"u 
+swim: aCni	noSw 
+tail: Ne	ye 
+this: xun tik	xuntik 
+2 sg: aC	eStik	ha7aC 
+thou: aC	eStik	ha7aC 
+you: aC	eStik	ha7aC 
+tongue: ak" 
+tree: te7 
+grind: Ca7ab	Ca7ab" 
+two: Ca7ab	Ca7ab" 
+go: b"ey	bey 
+walk: b"ey	bey 
+water: a7	ha7 
+1 pl. inc.: ha7oN	oN 
+we: ha7oN	oN 
+we₁: ha7oN	oN 
+what: tas 
+white: sak	saq 
+whiteness: sak	saq 
+who: maC 
+who?: maC 
+female: iS 
+woman: iS 
+yellow: k"an 

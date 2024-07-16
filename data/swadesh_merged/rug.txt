@@ -1,0 +1,319 @@
+all: doduru | doduru-na	doduruna 
+and: meke 
+animal: kurukuru 
+ashes: eba | eba	eba-na 
+back: mudi | mudi-na 
+bad: kaleana | kalea-na 
+bark: kapu huda 
+because: sina 
+belly: boɣu | tia	tia-na 
+bird: kurukuru | kurukuru	kurukuru tapuru	tapuru 
+bite: ɣarata | garat-ia	xarat 
+black: muho 
+blood: ehara | ehara	ehara-na 
+blow: ivua | ivu-a 
+bone: susuri | susuri	susuri-na 
+breast: susu | susu	susu-na 
+breathe: siŋo 
+burn: sulua- | sulu-a 
+child: koburu 
+cloud: lei 
+cold: ibu 
+come: mae 
+correct: toŋoto 
+count: nae 
+cut: maɣu | magu-a 
+die: mate 
+dig: ɣeli | geli-a 
+dirty:  boni | boni-na 
+dog: siki 
+drink: napoa | napo	napo-a 
+dry: popa 
+dull: pako | mamata-na | tutukolu	ŋuŋuru 
+dust: kavuru 
+ear: taliŋa | taliNa	taliŋa-na 
+earth: pepeso 
+empty: paho 
+eye: mata | mata	mata-na 
+fall: moʰo | hoqa 
+far: seu 
+father: tamana | tama-na 
+fat (n.): deana 
+fear: mataɣutu | matagutu 
+few: visvisa 
+fingernail: visvisu kakarutu 
+fire: yak | nika 
+fish: iɣana | igana	ixana 
+five: lima 
+float: ale 
+flower: havoro | havoro-na 
+flow: totolo 
+fly (v.): tapuru 
+fog: kovele | kovele	rovu 
+foot: nene 
+forest: muge | hiqohiqo 
+four: made | made	mande 
+frog: bakarao 
+fruit: vua huda | vua-na 
+full: siŋi 
+give: ponia 
+good:  leana | lea	lea-na 
+grass: duduli 
+green: buma 
+guts: laγu | lagu-na 
+hair: kalu | kalu	kalu-na 
+hand: lima | lima	lima-na 
+head: batu | batu	batu-na 
+hear: avoso | avos	avos-ia 
+heart: bulo 
+he: asa 
+heavy: mamata | mamata-na 
+hit:   sekea | seke-a 
+horn: kikiho 
+how: veγua | vegu gua 
+hunt: hukue 
+husband: palabatu | loa-na	palabatu 
+I: arau | [a]rau	arau 
+ice: [aisi] 
+if: be 
+in: korapana | pa kokorapa	pa korapa 
+kill: tavamate 
+knee: tuŋtuŋu nene 
+know: ɣilania | gila	tuma	xila 
+lake: kopi 
+large: nomana | noma	noma-na 
+laugh: heɣere | hegere 
+leaf: elelo | elo	elo-na 
+left: kaliɣede | gede-na 
+leg: nene 
+lie: eko 
+liver: bero | bero	bero-na 
+live: toa | koa-na	toa-na 
+long: ɣelena | gele-na	xele 
+louse: ɣutu | gutu	xutu 
+man: koreo | tie	tinoni 
+many: soku 
+meat: masa | masa-na 
+moon: sidara 
+mother: tinana | tina-na 
+mountain: togere 
+mouth: ŋuzu | Nuzu	ŋuzu 
+name: pozana | poza	poza-na 
+narrow: ŋirisi 
+near: tata 
+neck: rua | rua	rua-na 
+new: vagura | vaNgurana	vaqura-na 
+night: boŋi | boŋi	muho 
+nose: isu | isu	isu-na 
+old:   koana 
+one: kekr | keke	tasa 
+person: tie | tie	tinoni 
+play: loplopi 
+pull: dakua 
+push: zuzua 
+rain: ruku 
+red: ziŋara | ziNara	ziŋara 
+right: kalimatao | lima	lima-na | matao-na 
+river: leana 
+road: siraŋa | siraNa	siraŋa 
+root: dadaɣa | karoso	karoso-na 
+rope: iku 
+rotten: muzi 
+round: bobolokuhae 
+rub: tavusia 
+salt: [solo] | soloti 
+sand: onone | on|one 
+say: zamania | on|one 
+sea: kolo hokara | kolo hokala	lamana 
+seed: kiko 
+sew: pitpiti | piti-a 
+sharp: ŋaru 
+short: papaka | papaka-na 
+sing: kera 
+sit: habotu 
+skin: kapu | kapu	kapu-na 
+sky: maŋauru 
+sleep: puta 
+small: hitekena | hiteke-na	noma 
+smell: humaŋa 
+smoke: tuŋaha | tuNaha	tuŋaha-na 
+smooth: memehe 
+snake: noki 
+snow: [sinou] 
+some: kaiga 
+spit: loro | loro-a 
+split: vigala | viqal-ia 
+stab: hova | huma-nia 
+stand: turu | onone	turu 
+star: pinpino | pinopino 
+stick: kolu hodu | lelaŋa-na 
+straight: toŋoto 
+suck: nonopo | isuru 
+sun: rimata 
+tail: pikutu | pikutu	pikutu-na 
+they: arini | [a]rini 
+thick: moata | moata-na 
+think: balbala | balabala-ia 
+thin: manivisi 
+thou: aɣoi | [a]goi	xamu 
+thou: vamu | [a]goi	xamu 
+three: ŋeta 
+throw: ɣona | qiri 
+tie: pusia | pusi-a 
+tongue: mea | mea	mea-na 
+tree: huda 
+turn: e-efo 
+two: karua | karu[a]	karua 
+vomit: lua 
+warm: maŋini 
+we: ɣita | gami	gita 
+wet: boboso 
+what: sa | [na]sa	sasa 
+when: totoso sa | pana-visa	totoso-sa 
+which: avei 
+white: keoro 
+who: esei | [e]sei	esei 
+why: naveɣoa 
+wide: labe | labe-na 
+wife: barikalege | bari-kaleqe	loa-na 
+wind: ɣivusu | givusu 
+wing: tatāpuru | tatapuru-na 
+woman: barikalege | bari	bari-kaleqe	kaleqe	vineki 
+worm: pilaka | nokinoki	pilaka 
+wrong: sea 
+year: vuaheni | vuaheni-na 
+yellow: meava 
+every: doduru-na	doduruna 
+ash: eba	eba-na 
+abdomen: tia	tia-na 
+big: noma	noma-na 
+bigness: noma	noma-na 
+breasts: susu	susu-na 
+burn tr.: sulu-a 
+come from: mae 
+be dead: mate 
+dead: mate 
+ground: pepeso 
+land: pepeso 
+soil: pepeso 
+eat: gani-a	hena	xani 
+egg: vovoto 
+fat: deana 
+fat n.: deana 
+grease: deana 
+lubricant: deana 
+oil: deana 
+feather: kalu	kalu-na 
+fly: tapuru 
+fly v.: tapuru 
+left hand: lima	lima-na 
+1 sg.: [a]rau	arau 
+kill: vamate 
+be knowledgeable: gila	tuma	xila 
+lie down: eko 
+head louse: gutu	xutu 
+male: [ko] koreo	balogoso	koreo	palabatu 
+flesh: masa 
+title: poza	poza-na 
+nighttime: boŋi	muho 
+not: lokari	loke 
+adulterous: keke	tasa 
+single: keke	tasa 
+that: hoi 
+the: keke	tasa 
+unprincipled: keke	tasa 
+human: tie	tinoni 
+human being: tie	tinoni 
+rainy weather: ruku 
+path: siraNa	siraŋa 
+route: siraNa	siraŋa 
+see: dogor-ia	doxor 
+hide: kapu	kapu-na 
+little: hiteke-na	noma 
+smallness: hiteke-na	noma 
+rock: patu 
+stone: patu 
+swim: tunuru 
+this: hie 
+2 sg: [a]goi	xamu 
+you: [a]goi	xamu 
+tooth: livo	livo-na 
+grind: karu[a]	karua 
+go: ene 
+walk: ene 
+hot: maŋini 
+water: kolo	kolo-na 
+1 pl. inc.: gami	gita 
+we₁: gami	gita 
+whiteness: keoro 
+who?: [e]sei	esei 
+female: bari	bari-kaleqe	kaleqe	vineki 
+distant: seu 
+serious: mamata-na 
+close: tata 
+ner: tata 
+earthworm: nokinoki	pilaka 
+2 pl.: gamu 
+ye: gamu 
+you all: gamu 
+3 pl.: [a]rini 
+where: avei 
+where?: avei 
+when?: pana-visa	totoso-sa 
+how?: vegu gua 
+other: votiki 
+broad: labe-na 
+wideness: labe-na 
+principal wife: bari-kaleqe	loa-na 
+his mother: tina-na 
+my mother: tina-na 
+his father: tama-na 
+my father: tama-na 
+woods: hiqohiqo 
+branch: lelaŋa-na 
+cord: iku 
+gut: lagu-na 
+insides: lagu-na 
+intestine: lagu-na 
+intestines: lagu-na 
+breath: siŋo 
+laughter: hegere 
+cogitate: balabala-ia 
+reflect: balabala-ia 
+sniff: humaŋa 
+afraid: matagutu 
+be afraid: matagutu 
+fright: matagutu 
+alive: koa-na	toa-na 
+be alive: koa-na	toa-na 
+life: koa-na	toa-na 
+living: koa-na	toa-na 
+beat: seke-a 
+strike: seke-a 
+hack: magu-a 
+cut open: viqal-ia 
+pierce: huma-nia 
+scratch: ŋaloso 
+drop: hoqa 
+grasp: taŋini-a 
+hold: taŋini-a 
+hold in arm: taŋini-a 
+squeeze: mono-a 
+wring: mono-a 
+bind: pusi-a 
+fasten: pusi-a 
+tie up: pusi-a 
+enumerate: nae 
+number: nae 
+tally: nae 
+ocean: kolo hokala	lamana 
+blaze: sulu 
+evil: kalea-na 
+rot: muzi 
+filthy: boni-na 
+soiled: boni-na 
+blunt: tutukolu	ŋuŋuru 
+damp: boboso 
+right side: matao-na 
+at: pa 
+inside: pa kokorapa	pa korapa 

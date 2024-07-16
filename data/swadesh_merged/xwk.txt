@@ -1,0 +1,135 @@
+all: buka 
+every: buka 
+ash: ginda	t̪urrpa 
+ashes: ginda	t̪urrpa 
+bark: mata 
+abdomen: tuŋga	ŋayamala 
+belly: tuŋga	ŋayamala 
+big: miga	nuga	n̪uga 
+bigness: miga	nuga	n̪uga 
+large: miga	nuga	n̪uga 
+bird: kagadala	katam t̪irrindaka	kilambaɹa	marraŋa	t̪ili 
+bite: dracica	paca 
+black: murru	murru-murru	murumuru 
+blood: guma	guma5	guman	gumaya	pandaʎa 
+bone: muku 
+breast: Nama	galkan	ŋama 
+breasts: Nama	galkan	ŋama 
+cloud: daḷara	t̪alaɹa 
+cold: d̪ilaba	t̪ilaba 
+come: bun̪t̪i 
+come from: bun̪t̪i 
+be dead: balu	buka	palu 
+dead: balu	buka	palu 
+die: balu	buka	palu 
+dog: d̪it̪i	miri	t̪it̪i	wilka5 
+drink: binth~ani	dapa	tapi 
+ear: maNa	ŋaɹa-manda 
+earth: t̪aka 
+ground: t̪aka 
+land: t̪aka 
+soil: t̪aka 
+eat: d̪al̪t̪a	t̪alt̪a 
+egg: gapiɲa	kapiɲa 
+eye: bulru	ma5u	puldru 
+feather: bura	buḷṭura	t̪irribulu 
+fire: wiyi 
+fish: guwa	kuya 
+fly: mugunɟa 
+fly v.: mugunɟa 
+foot: d̪ina	t̪ina 
+give: nama	ŋuca	ŋuɟa 
+good: d̪ali	t̪aḷi 
+green: gurkagurkara	kurrkaɹa 
+hair: gankura	kaŋkurra 
+hand: mara	maɹa	maɹ̣a 
+left hand: mara	maɹa	maɹ̣a 
+right: mara	maɹa	maɹ̣a 
+head: guka	kuka 
+hear: bara4a	bulguda	ŋaɹa 
+heart: d̪uḷku 
+1 sg.: Na5i	Nath~a	ŋat̪u	ŋaɲi 
+I: Na5i	Nath~a	ŋat̪u	ŋaɲi 
+kill: galka 
+knee: bunkula	guḷu	mugu	munku	punkula 
+leaf: dh~ira	gira	markala	marrkala 
+lie: waga 
+lie down: waga 
+liver: malumaɲi	maʎumaɲi 
+long: t̪urrubila 
+head louse: Nutu	dh~iti 
+louse: Nutu	dh~iti 
+male: gaṇa	kaṇa	t̪ilpamaɾi 
+man: gaṇa	kaṇa	t̪ilpamaɾi 
+many: buka	wandru	waṇḍṛu 
+much: buka	wandru	waṇḍṛu 
+multiple: buka	wandru	waṇḍṛu 
+several: buka	wandru	waṇḍṛu 
+moon: mirrkaɹiɲi	miɹ̣kiɹ̣iɲi 
+hill: balgul 
+mountain: balgul 
+mouth: d̪aya	t̪aya 
+name: yadiɲa	yaɹ̣iɲa 
+title: yadiɲa	yaɹ̣iɲa 
+night: guntala	maɹa-maɹa	ŋawu 
+nighttime: guntala	maɹa-maɹa	ŋawu 
+nose: minth~i	mula	mul̪a 
+not: waʎa 
+adulterous: garity~a	wacuwaḷi	watu	waɟu 
+one: garity~a	wacuwaḷi	watu	waɟu 
+single: garity~a	wacuwaḷi	watu	waɟu 
+that: garity~a	wacuwaḷi	watu	waɟu 
+the: garity~a	wacuwaḷi	watu	waɟu 
+unprincipled: garity~a	wacuwaḷi	watu	waɟu 
+rain: piṭa	yaṇa 
+rainy weather: piṭa	yaṇa 
+red: marpa-marpala	marrpala 
+root: baḷgara	pulgarra 
+sand: d̪ipiɹ̣a	kukit̪i 
+say: d̪ipiɹ̣a	kukit̪i 
+see: Nanka4a	n̪aɟa 
+sit: gul̪a	kula	kulawarri 
+hide: gadagada	mana	naɲciɲa	yula5 
+skin: gadagada	mana	naɲciɲa	yula5 
+sleep: muga 
+little: waywa 
+small: waywa 
+smallness: waywa 
+smoke: d̪upu	t̪upa 
+star: buli	dici	niyadu 
+rock: yaldra	yandra 
+stone: yaldra	yandra 
+sun: miḷa	muɹa	yuku 
+swim: winta 
+tail: d̪ipa	kaḷi 
+2 sg: ini	yini	yundru	yuntu 
+thou: ini	yini	yundru	yuntu 
+you: ini	yini	yundru	yuntu 
+tongue: dh~ala5	d̪alaɲa	t̪aliɲa 
+tooth: dh~iya	draya	tia 
+tree: baga	waga 
+grind: barkulu	bula4a	parrkulu 
+two: barkulu	bula4a	parrkulu 
+water: Napa	ŋaka 
+1 pl. inc.: Nana 
+we: Nana 
+we₁: Nana 
+what: min̪a 
+white: gupa 
+whiteness: gupa 
+who: waɹ̣a 
+who?: waɹ̣a 
+female: nayi	walga	waḷga 
+woman: nayi	walga	waḷga 
+yellow: bilti 
+distant: -gari 
+far: -gari 
+dull: giṇi	paṭaɲa 
+heavy: giṇi	paṭaɲa 
+serious: giṇi	paṭaɲa 
+close: wina 
+near: wina 
+ner: wina 
+short: wanta	waṇṭa 
+snake: kat̪i-kat̪i	muna	muṇa 
+wind: gugu-d̪ari	kugad̪arri	kuŋad̪arri 

@@ -1,0 +1,143 @@
+all: ditrop 
+every: ditrop 
+ash: luah	lúah 
+ashes: luah	lúah 
+abdomen: balan 
+belly: balan 
+big: lamantin 
+bigness: lamantin 
+large: lamantin 
+bird: mani 
+bite: NaNas	ngangas 
+black: durkur 
+blood: silik 
+bone: sur 
+breast: molosin	susun 
+breasts: molosin	susun 
+burn: dakai	sot 
+burn tr.: dakai	sot 
+cloud: laukah 
+cold: loNon	longon 
+come: ima 
+come from: ima 
+be dead: nat 
+dead: nat 
+die: nat 
+dog: pol 
+drink: gaN	gang 
+dry: masmas	seNseN	sengseng 
+ear: peleNan	peleŋan 
+earth: piu 
+ground: piu 
+land: piu 
+soil: piu 
+eat: aNan	angan 
+egg: kutlin 
+eye: matan	matán 
+fat: kakavin 
+fat n.: kakavin 
+grease: kakavin 
+lubricant: kakavin 
+oil: kakavin 
+feather: lam	lám 
+fire: iah 
+fish: sis 
+fly: rovoi	rovói 
+fly v.: rovoi	rovói 
+foot: keke n 
+good: vakak 
+hair: iuvun	iuvún 
+hand: liman 
+left hand: liman 
+right: liman 
+head: puklun	puklún 
+hear: loNrai	longrai 
+1 sg.: iau	iáu 
+I: iau	iáu 
+kill: um 
+be knowledgeable: tasimon 
+know: tasimon 
+leaf: pakan 
+lie: tapuk 
+lie down: tapuk 
+liver: kat 
+long: babarah 
+head louse: ut 
+louse: ut 
+male: barsan 
+man: baran-momol	baranmomol 
+flesh: sisin 
+meat: sisin 
+moon: kalaN	kalang 
+mouth: lon 
+name: risen 
+title: risen 
+neck: koderan 
+new: mutik 
+night: buN	bung 
+nighttime: buN	bung 
+nose: kabusun 
+not: belarak 
+adulterous: itik	tik 
+one: itik	tik 
+single: itik	tik 
+that: idiN	iding	idoN	idong 
+the: itik	tik 
+unprincipled: itik	tik 
+human: baran-momol	baranmomol 
+human being: baran-momol	baranmomol 
+person: baran-momol	baranmomol 
+rain: bat 
+rainy weather: bat 
+red: memirek 
+path: Nas	ngas 
+road: Nas	ngas 
+route: Nas	ngas 
+root: vakrin 
+sand: nakas 
+say: warwar 
+see: re 
+sit: kes 
+hide: papalin 
+skin: papalin 
+sleep: ki borbor	korbor	masun 
+smoke: sau 
+stand: tur 
+star: naNnaN	nangnang 
+rock: fat 
+stone: fat 
+swim: ieliel 
+tail: kalmumukum 
+this: ida 
+2 sg: anitol 
+thou: anitol 
+you: anitol 
+tongue: karmayan	karmayán 
+tooth: Nisen	kabinNisen	kabinngisen	ngisen 
+grind: iru	irul 
+two: iru	irul 
+go: ian	inan 
+walk: ian	inan 
+hot: lalapang 
+warm: lalapang 
+water: malum 
+1 pl. inc.: darau	dat	datol	marau	matol	met 
+we: darau	dat	datol	marau	matol	met 
+we₁: darau	dat	datol	marau	matol	met 
+what: epsah 
+white: kokok 
+whiteness: kokok 
+who: as 
+who?: as 
+female: fain	faín 
+woman: fain	faín 
+yellow: sisiNan	sisingan 
+distant: bakbak 
+far: bakbak 
+salt: manapak 
+short: burunlik	potpot 
+snake: soi 
+wind: vuvu 
+earthworm: kolop 
+worm: kolop 
+year: sarunles 

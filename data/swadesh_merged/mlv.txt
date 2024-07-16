@@ -1,0 +1,269 @@
+all: dɛl 
+every: dɛl 
+ash: nʊ-wʊwʊ 
+ashes: nʊ-wʊwʊ 
+abdomen: na-tkpwɛ-k 
+belly: na-tkpwɛ-k 
+big: ni-lwo 
+bigness: ni-lwo 
+large: ni-lwo 
+bird: nɛ-mɛn 
+bite: ŋit 
+black: nɛ-mlɪmlɪɣ 
+blood: dai	na-day 
+bone: hy~i	ni-hiy 
+breast: ni-sis	sis 
+breasts: ni-sis	sis 
+burn: bɪ n-ɛp hiy 
+burn tr.: bɪ n-ɛp hiy 
+cloud: nɪ-kpwɪykpwɛy 
+cold: nɔ-mɔmyiy 
+come: ban me	ßan mɛ 
+come from: ban me	ßan mɛ 
+be dead: mat 
+dead: mat 
+die: mat 
+drink: in 
+dry: mah	mɛyɛŋ 
+ear: dElNE	nɪ-dɪlŋɛ-k 
+eat: ɣɛn 
+egg: nɪ-tlɪ-n 
+eye: mtE	na-mtɛ-k 
+feather: n-ili mɛn 
+fire: ep	n-ɛp 
+fish: momo	nʊ-mʊmʊ 
+fly: ɣap 
+fly v.: ɣap 
+good: nɪ-wɪ 
+green: na-ŋmwaŋmwal 
+hair: n-ili-k 
+hand: mne	na-mnɪ-k 
+left hand: mne	na-mnɪ-k 
+right: mne	na-mnɪ-k 
+head: ni-kpwti-k 
+hear: yoNtex	yɔŋtɛɣ 
+1 sg.: ino	nɔ 
+I: ino	nɔ 
+kill: wuh mat 
+knee: kw~u 
+be knowledgeable: nɔ-lɔlmɛyɛn	ɪɣlal 
+know: nɔ-lɔlmɛyɛn	ɪɣlal 
+leaf: na-yɔ-n	nayo 
+lie: ɛn 
+lie down: ɛn 
+liver: bai	na-ßay 
+long: nɛ-hyɔ 
+head louse: ni-ɣit	xit 
+louse: ni-ɣit	xit 
+male: na-tŋmwan 
+man: et	n-ɛt 
+moon: nʊ-wʊl 
+hill: to 
+mountain: to 
+mouth: na-plɛ-k	na-ŋyɛ-k 
+name: he	na-hɛ-k 
+title: he	na-hɛ-k 
+neck: nɪ-nlɪ-k 
+new: nɛ-ɣyakpw	xy~akpw$ 
+night: kw~oN	nʊ-kpwʊŋ 
+nighttime: kw~oN	nʊ-kpwʊŋ 
+nose: mdi	ni-mdi-k 
+adulterous: tw~ax	ßi-twaɣ	βi-twaɣ 
+one: tw~ax	ßi-twaɣ	βi-twaɣ 
+single: tw~ax	ßi-twaɣ	βi-twaɣ 
+that: nɛn 
+the: tw~ax	ßi-twaɣ	βi-twaɣ 
+unprincipled: tw~ax	ßi-twaɣ	βi-twaɣ 
+human: et	n-ɛt 
+human being: et	n-ɛt 
+person: et	n-ɛt 
+rain: na-sŋmwal 
+rainy weather: na-sŋmwal 
+red: na-lawlaw 
+path: hal	na-mtɛhal 
+road: hal	na-mtɛhal 
+route: hal	na-mtɛhal 
+root: nʊ-ɣʊyɣʊyɪ-n 
+sand: nɪ-ßɪthiylɛ 
+say: ßap 
+see: et	ɛt 
+sit: haɣ 
+hide: ni-pni-k	pni 
+skin: ni-pni-k	pni 
+sleep: mitiy 
+little: nu-su 
+small: nu-su 
+smallness: nu-su 
+smoke: na-hʊ 
+star: bit	ni-ßit 
+rock: bet	nɛ-ßɛt 
+stone: bet	nɛ-ßɛt 
+sun: lo 
+swim: ɣɛy 
+tail: na-ɣlɔ-n 
+this: ɣʊh 
+2 sg: inek	nɪk 
+thou: inek	nɪk 
+you: inek	nɪk 
+tongue: na-ɣaymɛ-k	xaime 
+tooth: lw~e	nɪ-lwɪ-k 
+tree: nekw~etenx~e 
+grind: yo	ßʊ-yʊ	βo-yo 
+two: yo	ßʊ-yʊ	βo-yo 
+go: ßanßan 
+walk: ßanßan 
+hot: nɛ-sɛw 
+warm: nɛ-sɛw 
+water: be	nɪ-bɪ 
+1 pl. inc.: ixen	kɛmɛm	ɣɪn 
+we: ixen	kɛmɛm	ɣɪn 
+we₁: ixen	kɛmɛm	ɣɪn 
+what: na-hap 
+white: na-kpwaɣkpwaɣ 
+whiteness: na-kpwaɣkpwaɣ 
+who: yɪ 
+who?: yɪ 
+female: na-lkpwʊßɪn 
+woman: na-lkpwʊßɪn 
+yellow: nɔ-ŋɔyŋɔy 
+distant: yɛh 
+far: yɛh 
+dull: nɪ-dɪw 
+heavy: nɪ-dɪw 
+serious: nɪ-dɪw 
+close: iskpwɛt 
+near: iskpwɛt 
+ner: iskpwɛt 
+salt: na-naw 
+short: na-maltɪ 
+snake: na-ŋmwat 
+thin: nɛ-mßinßin 
+wind: nɛ-lɛŋ 
+earthworm: ni-slat 
+worm: ni-slat 
+year: n-ɪtɛ 
+2 pl.: kimi 
+ye: kimi 
+you all: kimi 
+3 pl.: kɪy 
+they: kɪy 
+where: aßɛ 
+where?: aßɛ 
+when: aŋɪh	ŋɪh 
+when?: aŋɪh	ŋɪh 
+how: kpwɛlɛ aßɛ 
+how?: kpwɛlɛ aßɛ 
+other: tɛɣha 
+three: ßɪ-tɪl	βe-tel 
+four: ßɪ-ßɛt	βe-βet 
+five: teβe-lem	tɪßɪlɪm 
+broad: nɛ-twɔl 
+wide: nɛ-twɔl 
+wideness: nɛ-twɔl 
+fat: na-ɣyak 
+thick: nɛ-mtɪmtɪl 
+narrow: nɔ-kɔkɔk 
+principal wife: iɣni-k 
+wife: iɣni-k 
+husband: iɣni-k 
+his mother: ißɪ-k 
+mother: ißɪ-k 
+my mother: ißɪ-k 
+father: itmɛ-k 
+his father: itmɛ-k 
+my father: itmɛ-k 
+forest: nɪ-ŋmwɪt 
+woods: nɪ-ŋmwɪt 
+branch: nɪ-wtɪ-n 
+stick: nɪ-wtɪ-n 
+fruit: n-ɪwa-n 
+flower: na-twɪh 
+grass: na-plih 
+cord: na-ɣayɣa 
+rope: na-ɣayɣa 
+flesh: nɪ-phɔɰ 
+meat: nɪ-phɔɰ 
+grease: na-ɣyak 
+wing: na-mnɪ mɛn 
+gut: nɪ-tna 
+guts: nɪ-tna 
+insides: nɪ-tna 
+intestine: nɪ-tna 
+intestines: nɪ-tna 
+back: nɪ-klɛ-k 
+suck: saŋmw 
+spit: ninih 
+vomit: kpwɔap	lʊlʊ + 
+blow: yip	yip / wɛyɛh 
+breath: ŋmwʊkhɛɣ 
+breathe: ŋmwʊkhɛɣ 
+laugh: yɪyɪ 
+laughter: yɪyɪ 
+cogitate: dɪm 
+reflect: dɪm 
+think: dɪm 
+smell: hɪmɛn 
+sniff: hɪmɛn 
+afraid: mɪtɪɣtɛɣ 
+be afraid: mɪtɪɣtɛɣ 
+fear: mɪtɪɣtɛɣ 
+fright: mɪtɪɣtɛɣ 
+alive: n-ɪh 
+be alive: n-ɪh 
+life: n-ɪh 
+live: n-ɪh 
+living: n-ɪh 
+beat: laŋmw 
+hit: laŋmw 
+strike: laŋmw 
+cut: tɔt 
+hack: tɔt 
+cut open: Vb1 + wɔy 
+split: Vb1 + wɔy 
+pierce: hiɣ	ɛs 
+stab: hiɣ	ɛs 
+scratch: ɣayɣay 
+dig: ɣil 
+stand: tiɣ 
+drop: kpwɪsdi	sisɣɔy 
+fall: kpwɪsdi	sisɣɔy 
+grasp: tɪy 
+hold: tɪy 
+hold in arm: tɪy 
+squeeze: ßiɣiy (lʊ) 
+wring: ßiɣiy (lʊ) 
+throw: suwyɛɣ	yim 
+bind: lɪɣ	yɪt 
+fasten: lɪɣ	yɪt 
+tie: lɪɣ	yɪt 
+tie up: lɪɣ	yɪt 
+sew: susuy 
+count: ßatah 
+enumerate: ßatah 
+number: ßatah 
+tally: ßatah 
+flow: lɔŋ 
+lake: nɪ-bɪ liwo 
+ocean: na-lam	na-naw 
+sea: na-lam	na-naw 
+dust: nʊ-wʊwʊ 
+fog: na-myɪp 
+sky: alɣɛ 
+bad: nɛ-hɛt 
+evil: nɛ-hɛt 
+rot: sakpw 
+rotten: sakpw 
+dirty: nɛ-lɛm 
+filthy: nɛ-lɛm 
+soiled: nɛ-lɛm 
+sharp: nɛ-hɛy 
+blunt: nɛ-ŋmwɛs 
+damp: nɛ-sŋmwal	nɛ-sŋɛy 
+wet: nɛ-sŋmwal	nɛ-sŋɛy 
+right side: na-mtʊ 
+left: na-ɣla 
+at: lɛ- 
+in: lɛlɔ 
+inside: lɛlɔ 
+and: tʊ 
+if: sɔwɔ 

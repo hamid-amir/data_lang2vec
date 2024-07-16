@@ -1,0 +1,332 @@
+all: vsak	vse 
+every: vsak	vse 
+ash: pepel 
+ashes: pepel 
+bark: skorja 
+abdomen: trebuh 
+belly: trebuh 
+big: velik 
+bigness: velik 
+large: velik 
+bird: ptica 
+bite: gristi 
+black: črn 
+blood: kri 
+bone: kost 
+breast: grudi	prsi 
+breasts: grudi	prsi 
+cloud: oblak 
+cold: hladen	mrzel 
+come: prihayati	priti 
+come from: prihayati	priti 
+be dead: umirati	umreti 
+dead: umirati	umreti 
+die: umirati	umreti 
+dog: pEs	pes 
+drink: piti 
+dry: suh 
+ear: uho 
+earth: zemlja 
+ground: zemlja 
+land: zemlja 
+soil: zemlja 
+eat: jesti 
+egg: jajce 
+eye: oko 
+feather: pero 
+fire: oga5	ogenj 
+fish: riba 
+fly: leteti 
+fly v.: leteti 
+foot: stopalo 
+full: poln 
+give: dajati 
+good: dober 
+green: zelen 
+hair: lasje 
+hand: roka 
+left hand: roka 
+right: roka 
+head: glava 
+hear: sliSati	slišati	čuti 
+heart: srce 
+horn: rog 
+1 sg.: jaz	yaz 
+I: jaz	yaz 
+kill: ubiti 
+knee: koleno 
+be knowledgeable: vedeti 
+know: vedeti 
+leaf: list 
+liver: jetra	yetra 
+long: dolg 
+head louse: uS	uš 
+louse: uS	uš 
+male: moški 
+man: oseba	človek 
+many: mnogo	veliko 
+much: mnogo	veliko 
+multiple: mnogo	veliko 
+several: mnogo	veliko 
+moon: luna	mesec 
+hill: gora	planina 
+mountain: gora	planina 
+mouth: usta 
+name: ime	naslov 
+title: ime	naslov 
+neck: vrat 
+new: nov 
+night: noC	noč 
+nighttime: noC	noč 
+nose: nos 
+not: ne 
+adulterous: EdEn	ena 
+one: EdEn	ena 
+single: EdEn	ena 
+that: ta	to 
+the: EdEn	ena 
+unprincipled: EdEn	ena 
+human: oseba	človek 
+human being: oseba	človek 
+person: oseba	človek 
+rain: dež 
+rainy weather: dež 
+red: rdeč 
+path: cesta	pot	stEza 
+road: cesta	pot	stEza 
+route: cesta	pot	stEza 
+root: koren 
+round: okrogel 
+sand: pesek 
+say: reči 
+see: vidEti	videti 
+seed: seme 
+sit: sedeti 
+hide: koZa	koža 
+skin: koZa	koža 
+sleep: spati 
+little: majhen 
+small: majhen 
+smallness: majhen 
+smoke: dim 
+star: zvezda 
+rock: kamEn	kamen 
+stone: kamEn	kamen 
+sun: soncE	sonce 
+swim: plavati 
+tail: rep 
+this: ta	to 
+2 sg: ti 
+thou: ti 
+you: ti 
+tongue: jezik	yEzik 
+tooth: zob 
+tree: drEvo	drevo 
+grind: dva	dve 
+two: dva	dve 
+go: hoditi 
+walk: hoditi 
+hot: topel 
+warm: topel 
+water: voda 
+1 pl. inc.: mi 
+we: mi 
+we₁: mi 
+what: kaj 
+white: bel 
+whiteness: bel 
+who: kdo 
+who?: kdo 
+female: ženska 
+woman: ženska 
+yellow: rumen 
+distant: daljen 
+far: daljen 
+dull: težek 
+heavy: težek 
+serious: težek 
+close: bližnji 
+near: bližnji 
+ner: bližnji 
+salt: sol 
+short: kratek 
+snake: kača 
+thin: tanek 
+wind: veter 
+earthworm: črv 
+worm: črv 
+year: leto 
+3 sg.: on 
+he: on 
+she: on 
+2 pl.: vi 
+ye: vi 
+you all: vi 
+3 pl.: ona	one	oni 
+they: ona	one	oni 
+here: tu	tukaj 
+there: tam 
+where: kje 
+where?: kje 
+when: kdaj 
+when?: kdaj 
+how: kako 
+how?: kako 
+some: nekaj	nekoliko 
+few: malo 
+other: drugi 
+three: tri 
+four: štiri 
+five: pet 
+broad: širok 
+wide: širok 
+wideness: širok 
+fat: maščoba	salo 
+thick: debel 
+narrow: ozek 
+child: dete	otrok 
+principal wife: soproga	žena 
+wife: soproga	žena 
+husband: mož	soprog 
+his mother: mati 
+mother: mati 
+my mother: mati 
+father: oče 
+his father: oče 
+my father: oče 
+animal: zver	žival 
+forest: gozd 
+woods: gozd 
+branch: palica 
+stick: palica 
+fruit: plod	sadje 
+flower: cvet 
+grass: trava 
+cord: vrv 
+rope: vrv 
+flesh: meso 
+meat: meso 
+grease: maščoba	salo 
+claw: noht 
+fingernail: noht 
+nail: noht 
+leg: noga 
+arm: roka 
+wing: krilo 
+gut: drobovje 
+guts: drobovje 
+insides: drobovje 
+intestine: drobovje 
+intestines: drobovje 
+back: hrbet 
+suck: sesati 
+spit: pljuvati 
+vomit: bljuvati	bruhati 
+blow: pihati 
+breath: dihati 
+breathe: dihati 
+laugh: smejati 
+laughter: smejati 
+cogitate: misliti 
+reflect: misliti 
+think: misliti 
+smell: duhati 
+sniff: duhati 
+afraid: bati 
+be afraid: bati 
+fear: bati 
+fright: bati 
+alive: živeti 
+be alive: živeti 
+life: živeti 
+live: živeti 
+living: živeti 
+fight: boriti 
+hunt: loviti 
+beat: udariti 
+hit: udariti 
+strike: udariti 
+cut: rezati 
+hack: rezati 
+cut open: razcepiti	razdeliti 
+split: razcepiti	razdeliti 
+pierce: zabosti 
+stab: zabosti 
+scratch: škrabati 
+dig: kopati 
+lie: ležati 
+lie down: ležati 
+tell lies: ležati 
+stand: stati 
+turn: obrniti 
+turn around: obrniti 
+turn round: obrniti 
+drop: padati 
+fall: padati 
+grasp: držati 
+hold: držati 
+hold in arm: držati 
+squeeze: stiskati 
+wring: stiskati 
+rub: treti 
+wipe: brisati 
+wash: prati	umivati 
+wash clothes: prati	umivati 
+pull: vleči 
+push: suniti 
+shove: suniti 
+throw: metati 
+bind: vezati 
+fasten: vezati 
+tie: vezati 
+tie up: vezati 
+sew: šivati 
+count: šteti	število 
+enumerate: šteti	število 
+number: šteti	število 
+tally: šteti	število 
+sing: peti 
+have fun: igrati 
+play: igrati 
+float: pluti 
+flow: teči 
+freeze: zamrzniti 
+swell: otekati 
+brook: reka 
+river: reka 
+stream: reka 
+lake: jezero 
+ocean: morje 
+sea: morje 
+dust: prah 
+fog: megla 
+sky: nebo 
+snow: sneg 
+ice: led 
+blaze: goreti	žgati 
+burn: goreti	žgati 
+day: dan 
+daylight: dan 
+daytime: dan 
+old: star 
+bad: slab	zloben 
+evil: slab	zloben 
+rot: gnil 
+rotten: gnil 
+dirty: umazan 
+filthy: umazan 
+soiled: umazan 
+straight: raven 
+sharp: oster 
+blunt: top 
+smooth: gladek 
+damp: moker 
+wet: moker 
+correct: pravilen	točen 
+right side: desni 
+left: levi 
+at: na	pri	v 
+with: s	z 
+and: in 
+if: ako	če 
+because: ker	zaradi 

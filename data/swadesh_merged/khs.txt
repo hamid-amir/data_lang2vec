@@ -1,0 +1,142 @@
+all: hirirakiye	sɔpɔlɔ 
+every: hirirakiye	sɔpɔlɔ 
+ash: tamunu	tepɔ 
+ashes: tamunu	tepɔ 
+bark: i kʌpɔ	kapo 
+abdomen: ipura	kubu 
+belly: ipura	kubu 
+big: sosolo	sosoro 
+bigness: sosolo	sosoro 
+large: sosolo	sosoro 
+bird: anemae	ɛnim 
+bite: meni	sanatapo 
+black: nopia	yapuya 
+blood: bebeto	bebetʌ	pepeta 
+bone: ki	kiː 
+breast: bo	bɔ	po 
+breasts: bo	bɔ	po 
+claw: onatu	sinipi 
+nail: onatu	sinipi 
+talon: onatu	sinipi 
+cloud: ɛkɔpe 
+cold: bɔtiʌ	kokorowarupe 
+come: fai	minE	mina	minɛ 
+come from: fai	minE	mina	minɛ 
+be dead: kulu	kurutapo 
+dead: kulu	kurutapo 
+die: kulu	kurutapo 
+dog: kasolo	kasoro	kosoro	kʌsoro 
+drink: mEnE	nakiye 
+dry: taropea 
+ear: kenEne	kenane	kinEli	kinɛli 
+earth: moai	pɛliʌ 
+ground: moai	pɛliʌ 
+land: moai	pɛliʌ 
+soil: moai	pɛliʌ 
+eat: kinatapo	mɛnẽ 
+egg: natape	ufu 
+eye: si 
+feather: anemaefano	ʌnɛm fʌnu 
+fire: homatos	tei 
+fish: ewalo	turu 
+fly: hutiʌhʌpʌ 
+fly v.: hutiʌhʌpʌ 
+full: waruya	waruyatikiye	woliyeti 
+give: nemʌ	potatapo 
+good: naporapo	nʌpɔlɔ 
+green: kik faro	munʌ 
+hair: bizei fʌnu	pesaifano 
+hand: tiEle	tiyEle 
+left hand: tiEle	tiyEle 
+right: tiEle	tiyEle 
+head: bizei	pesai 
+hear: tatarakiye	topu	totogeye	tʌtʌɣeye 
+heart: kupu 
+horn: belo 
+1 sg.: nE	newa	nɛ 
+I: nE	newa	nɛ 
+kill: kulu	senatapo 
+knee: kuliau	kuniu	kuniyu*n	kuniyũn 
+be knowledgeable: enemʌʌnʌ 
+know: enemʌʌnʌ 
+leaf: folo	i falo	i fʌlɔ	ifaro 
+lie: aniape	ɛnimʌ 
+lie down: aniape	ɛnimʌ 
+liver: hau 
+long: senapo	senʌtɔlɔ 
+head louse: fei	pfEi 
+louse: fei	pfEi 
+male: senae	senɛ 
+man: senE	sena kesale	senai 
+many: hirirakiye	hitɛlʌ 
+much: hirirakiye	hitɛlʌ 
+multiple: hirirakiye	hitɛlʌ 
+several: hirirakiye	hitɛlʌ 
+moon: kunɛi	opo 
+hill: tokomo	tɔkɔmɔ 
+mountain: tokomo	tɔkɔmɔ 
+mouth: meapo	menbɔ 
+name: unu*	unuwa	unũ 
+title: unu*	unuwa	unũ 
+neck: timoko	timɔkɔ 
+new: hiLi	hili	hirikiye 
+night: nukruano	nukruanɔ	nukurano	yopolotela 
+nighttime: nukruano	nukruanɔ	nukurano	yopolotela 
+nose: mi	mi*	mĩ 
+not: inamatina	ɛdɛ 
+adulterous: semetei	semeti	tekeape 
+one: semetei	semeti	tekeape 
+single: semetei	semeti	tekeape 
+that: ebʌ	eparaǯute 
+the: semetei	semeti	tekeape 
+unprincipled: semetei	semeti	tekeape 
+human: senE	sena kesale	senai 
+human being: senE	sena kesale	senai 
+person: senE	sena kesale	senai 
+rain: hʌnɔ̃ mɔni	moai 
+rainy weather: hʌnɔ̃ mɔni	moai 
+red: kene	kenɛ 
+path: isu 
+road: isu 
+route: isu 
+root: warofo	warɔfɔ 
+sand: iti paiya 
+say: iti paiya 
+see: bobo	bɔbʌ	inatapo	pota 
+seed: itʰɔ 
+sit: hepese	hereme 
+hide: kapo	kopo	kʌːpɔ 
+skin: kapo	kopo	kʌːpɔ 
+sleep: aniape	ɛnimʌ 
+little: korotea	kɔrɔtea 
+small: korotea	kɔrɔtea 
+smallness: korotea	kɔrɔtea 
+smoke: hɔmʌ toʌ	omatoa 
+star: samisara	yEpisini	yepisini	yɛpisini 
+rock: etewa	etewo	etewʌ	etoa 
+stone: etewa	etewo	etewʌ	etoa 
+sun: obo	opo	ɔbɔ 
+swim: aporoseamo	huluhʌpʌ 
+tail: itiame 
+this: wei	werkiye 
+2 sg: kE	kewa	kɛ	newakiye 
+thou: kE	kewa	kɛ	newakiye 
+you: kE	kewa	kɛ	newakiye 
+tongue: tepE	tepe	tepɛ 
+tooth: aoa	apa	pese 
+grind: ELipi	elipei	ɛlipi 
+two: ELipi	elipei	ɛlipi 
+go: hɔmonʌ	sisarape 
+walk: hɔmonʌ	sisarape 
+water: hano	hono*	hʌnɔ̃ 
+1 pl. inc.: niuwo	niwa	niwakiye 
+we: niuwo	niwa	niwakiye 
+we₁: niuwo	niwa	niwakiye 
+what: enana 
+white: kuyʌ 
+whiteness: kuyʌ 
+who: ebʌ ibe	yipo 
+who?: ebʌ ibe	yipo 
+female: kesare	kesʌle 
+woman: kesare	kesʌle 
+yellow: eliʌ	koara 

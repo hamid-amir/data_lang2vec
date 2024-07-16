@@ -1,0 +1,173 @@
+all: pitin 
+every: pitin 
+ash: req 
+ashes: req 
+bark: qːabuʁ 
+abdomen: təpən 
+belly: təpən 
+big: boʕlu 
+bigness: boʕlu 
+large: boʕlu 
+bird: qːuš 
+bite: kʼusu- 
+black: laʕa 
+blood: ir-d	ird 
+bone: k"ErEp"	kʼerepʼ 
+breast: maXar	maχar 
+breasts: maXar	maχar 
+burn: s=ugu-r- 
+burn tr.: s=ugu-r- 
+claw: dɨrnaʁ 
+nail: dɨrnaʁ 
+talon: dɨrnaʁ 
+cloud: bulut 
+cold: s=aʁa 
+come: Xaxiji	ʕ=axi-	ʕ=ašχa- 
+come from: Xaxiji	ʕ=axi-	ʕ=ašχa- 
+be dead: s=aqʼa-	saq"aji 
+dead: s=aqʼa-	saq"aji 
+die: s=aqʼa-	saq"aji 
+dog: Xor	χor 
+drink: s=eʁir-	sEXirji 
+dry: saʔa 
+ear: ibir 
+earth: noqʼ 
+ground: noqʼ 
+land: noqʼ 
+soil: noqʼ 
+eat: s=oʡul- 
+egg: kusxud 
+eye: Xil	ʕül 
+fat: maʔ 
+fat n.: maʔ 
+grease: maʔ 
+lubricant: maʔ 
+oil: maʔ 
+feather: qːanət 
+fire: c"3	c"E	cʼa	cʼe 
+fish: baluX	baluʁ 
+fly: učmi yɨxə-r-i 
+fly v.: učmi yɨxə-r-i 
+foot: qːil 
+full: s3c"3	s=əcʼə 
+give: yucʼu-	yɨvə- 
+good: ʕari 
+green: gug 
+hair: čʼer 
+hand: k3l	χab 
+left hand: k3l	χab 
+right: k3l	χab 
+head: qʼɨl 
+hear: iXEji	ixi- 
+heart: yɨkʼ 
+horn: k3rC	kərč 
+1 sg.: z3n	zɨ-n 
+I: z3n	zɨ-n 
+kill: atʼu- 
+knee: pEp	pep 
+be knowledgeable: hacʼə-r- 
+know: hacʼə-r- 
+leaf: yarpaX	yarpaʁ 
+lie: qː=aqʼal- 
+lie down: qː=aqʼal- 
+liver: lEq"	läqʼ 
+long: hapχu	ʕapχu 
+head louse: liS	liš 
+louse: liS	liš 
+male: furi 
+man: %idmi	%insan	idmi 
+many: läħ-ki	läħ-ki-ǯe 
+much: läħ-ki	läħ-ki-ǯe 
+multiple: läħ-ki	läħ-ki-ǯe 
+several: läħ-ki	läħ-ki-ǯe 
+flesh: yək 
+meat: yək 
+moon: vəz 
+hill: daX	daʁ 
+mountain: daX	daʁ 
+mouth: siv 
+name: tur 
+title: tur 
+neck: gərdən 
+new: t3z3	təzə 
+night: yuj3njij	yuǯə-n-ǯiǯ 
+nighttime: yuj3njij	yuǯə-n-ǯiǯ 
+nose: mE7El	meʔel 
+not: d-ə-class 
+adulterous: s3b	sad	sə-class 
+one: s3b	sad	sə-class 
+single: s3b	sad	sə-class 
+that: a-la	a=la 
+the: s3b	sad	sə-class 
+unprincipled: s3b	sad	sə-class 
+human: %idmi	%insan	idmi 
+human being: %idmi	%insan	idmi 
+person: %idmi	%insan	idmi 
+rain: məf 
+rainy weather: məf 
+red: al 
+path: riχ 
+road: riχ 
+route: riχ 
+root: kuk 
+round: gungu-lu-tʼi	gungu-r-tʼi 
+sand: qːum 
+say: yuʔu-	yɨpə- 
+see: iqaji	irqi- 
+seed: tum 
+sit: aqʼol- 
+hide: lEX	läʕ 
+skin: lEX	läʕ 
+sleep: aχar- 
+little: mikʼe 
+small: mikʼe 
+smallness: mikʼe 
+smoke: xim 
+stand: qː=atʼəl- 
+star: XaC"	ħačʼ 
+rock: GayE	qːaye 
+stone: GayE	qːaye 
+sun: viraX	viraʁ 
+swim: üzmi yɨxə-r-i 
+tail: ǯi-bir 
+this: o-lu	o=lu	u-lu	u=lu 
+2 sg: v3n	vɨ-n 
+thou: v3n	vɨ-n 
+you: v3n	vɨ-n 
+tongue: mEz	mez	mäz 
+tooth: sil 
+tree: d3r	dər 
+grind: q"ab	qʼa-class	q’ad 
+two: q"ab	qʼa-class	q’ad 
+go: v=ixi-	č=aʁa-r- 
+walk: v=ixi-	č=aʁa-r- 
+hot: feye	feyi 
+warm: feye	feyi 
+water: x3d	xəd 
+1 pl. inc.: vin	yi-n 
+we: vin	yi-n 
+we₁: vin	yi-n 
+what: ši 
+white: luzu 
+whiteness: luzu 
+who: tu 
+who?: tu 
+female: heǯ	ħeǯ 
+woman: heǯ	ħeǯ 
+yellow: sozə 
+distant: yɨχ-ta 
+far: yɨχ-ta 
+dull: herkʼi 
+heavy: herkʼi 
+serious: herkʼi 
+close: bodə	bədə 
+near: bodə	bədə 
+ner: bodə	bədə 
+salt: qʼel 
+short: godə 
+snake: yer 
+thin: kɨ-tːi 
+wind: kulak 
+earthworm: čič 
+worm: čič 
+year: sən 

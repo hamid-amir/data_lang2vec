@@ -1,0 +1,261 @@
+all: tudde 
+every: tudde 
+ash: kalap 
+ashes: kalap 
+abdomen: nia- 
+belly: nia- 
+big: naplei 
+bigness: naplei 
+large: naplei 
+bird: mini 
+bite: -awut 
+black: mabis 
+blood: lomos	pew 
+bone: bom	kabomo 
+breast: su	sus 
+breasts: su	sus 
+cloud: nagaŋgamɔ 
+cold: kabutu 
+come: bot	mata 
+come from: bot	mata 
+be dead: -mat	mat 
+dead: -mat	mat 
+die: -mat	mat 
+dog: ies	yem 
+drink: -inim	nanim 
+dry: metɛn 
+ear: Nabin	nanɔ 
+eat: -apon 
+egg: tolo 
+eye: mana	taŋkabul 
+feather: kanono 
+fire: lap	yap 
+fish: don	yin 
+fly: -obo 
+fly v.: -obo 
+full: fon 
+good: fi 
+green: bala 
+hair: pa 
+hand: kanano	mata 
+left hand: kanano	mata 
+right: kanano	mata 
+head: wu- 
+hear: -junu	noN 
+horn: sop 
+1 sg.: ini	yak	yaka 
+I: ini	yak	yaka 
+kill: -bun 
+knee: wetapuk 
+be knowledgeable: -uno 
+know: -uno 
+leaf: dan	kamɔyɔ 
+lie: -enef -amnayo 
+lie down: -enef -amnayo 
+liver: aipuo	tay 
+long: malas 
+head louse: wut 
+louse: wut 
+male: wa-man 
+man: mat	matumolo 
+moon: pet 
+hill: hel 
+mountain: hel 
+mouth: samo- 
+name: -nanɔ	nan 
+title: -nanɔ	nan 
+neck: geli- kabayo 
+new: galawaɔ	waw 
+night: kadbat	kam 
+nighttime: kadbat	kam 
+nose: mabay	senu- 
+adulterous: aitem	katen	tem 
+one: aitem	katen	tem 
+single: aitem	katen	tem 
+that: titanɛ 
+the: aitem	katen	tem 
+unprincipled: aitem	katen	tem 
+human: mat	matumolo 
+human being: mat	matumolo 
+person: mat	matumolo 
+rain: dim 
+rainy weather: dim 
+red: mame 
+path: ma	tag 
+road: ma	tag 
+route: ma	tag 
+root: kawatɔ 
+sand: lɛn 
+say: -bitinɔ 
+see: -em	naw	neN 
+sit: -abai 
+hide: kaino	may 
+skin: kaino	may 
+sleep: -enef 
+little: kamiaran 
+small: kamiaran 
+smallness: kamiaran 
+smoke: kaplasɔ 
+star: kalamo	na 
+rock: ka|pat	pat 
+stone: ka|pat	pat 
+sun: la 
+swim: -mas 
+tail: kaluo 
+this: t|inɛ 
+2 sg: awa	yaw	yawa 
+thou: awa	yaw	yawa 
+you: awa	yaw	yawa 
+tongue: para	telebo- 
+tooth: lifo-	pata 
+tree: hay 
+grind: ailu	lo	lu 
+two: ailu	lo	lu 
+go: -tag 
+walk: -tag 
+hot: benes 
+warm: benes 
+water: vɛi	yi 
+1 pl. inc.: ambana	amon	yat 
+we: ambana	amon	yat 
+we₁: ambana	amon	yat 
+what: ane 
+white: mabos 
+whiteness: mabos 
+who: mapane 
+who?: mapane 
+female: wa-bin 
+woman: wa-bin 
+yellow: kamaninis 
+distant: lila 
+far: lila 
+dull: mason 
+heavy: mason 
+serious: mason 
+close: mirin 
+near: mirin 
+ner: mirin 
+salt: lesen 
+short: kup 
+snake: kok 
+thin: maglegef 
+wind: mɔrɔ 
+earthworm: amato 
+worm: amato 
+year: tahun 
+2 pl.: mimbana 
+ye: mimbana 
+you all: mimbana 
+3 pl.: abana 
+they: abana 
+where: tute 
+where?: tute 
+how: anapɛnɛ 
+how?: anapɛnɛ 
+other: matfasayo 
+three: aitɔl	tol 
+four: aifat	fat 
+five: ailim 
+broad: manapa 
+wide: manapa 
+wideness: manapa 
+fat: matɔlɔ 
+thick: matɔlɔ 
+narrow: manapa sapɔ 
+principal wife: wa-bin 
+wife: wa-bin 
+husband: wa-man 
+his mother: nei 
+mother: nei 
+my mother: nei 
+father: mai 
+his father: mai 
+my father: mai 
+forest: ai|lo 
+woods: ai|lo 
+fruit: puɔ 
+flower: buŋa 
+grass: kai 
+cord: wili 
+rope: wili 
+flesh: dagim 
+meat: dagim 
+wing: gio 
+gut: kasaiwono 
+guts: kasaiwono 
+insides: kasaiwono 
+intestine: kasaiwono 
+intestines: kasaiwono 
+back: uta- 
+suck: suruf 
+spit: -ataplebe 
+vomit: -ogol 
+blow: -auf 
+breath: nafas 
+breathe: nafas 
+laugh: -mlef 
+laughter: -mlef 
+cogitate: -fikir 
+reflect: -fikir 
+think: -fikir 
+smell: -fatam 
+sniff: -fatam 
+afraid: -mtat 
+be afraid: -mtat 
+fear: -mtat 
+fright: -mtat 
+alive: -bi 
+be alive: -bi 
+life: -bi 
+live: -bi 
+living: -bi 
+hunt: -tada 
+beat: esbagal 
+hit: esbagal 
+strike: esbagal 
+cut: -kut 
+hack: -kut 
+cut open: -apa 
+split: -apa 
+pierce: -ete 
+stab: -ete 
+scratch: -kai 
+dig: -kelɛ 
+stand: -awol 
+drop: -tak 
+fall: -tak 
+grasp: -tabu 
+hold: -tabu 
+hold in arm: -tabu 
+squeeze: -fɔgɔl 
+wring: -fɔgɔl 
+throw: -ete 
+bind: -afal 
+fasten: -afal 
+tie: -afal 
+tie up: -afal 
+sew: -fadin 
+count: -awuf 
+enumerate: -awuf 
+number: -awuf 
+tally: -awuf 
+flow: cag 
+ocean: wulut 
+sea: wulut 
+dust: kaplas 
+sky: nalowo 
+bad: fi sapɔ 
+evil: fi sapɔ 
+rot: fase	malakamɔ 
+rotten: fase	malakamɔ 
+dirty: kotor 
+filthy: kotor 
+soiled: kotor 
+sharp: mañanam 
+blunt: bakbuk 
+damp: kafia 
+wet: kafia 
+right side: palafi 
+left: pelimi 
+in: malaman 
+inside: malaman 

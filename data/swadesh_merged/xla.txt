@@ -1,0 +1,346 @@
+all: haplomo | haplomo	həpòlòmə	hʌpɔlɔmʌ 
+all: hëpòlòmë | haplomo	həpòlòmə	hʌpɔlɔmʌ 
+all: hʌpɔlɔmʌ | haplomo	həpòlòmə	hʌpɔlɔmʌ 
+arm: do 
+arm: tò: 
+arm: tɔː 
+ashes: tile (i) | tile	tilɛ	tine 
+ashes: tine | tile	tilɛ	tine 
+back: kò 
+back: kɔ 
+bark: kapala | dali kapala	kapala	kəbələ	kʌbʌlʌ 
+bark: kʌbʌlʌ | dali kapala	kapala	kəbələ	kʌbʌlʌ 
+bark: këbëlë | dali kapala	kapala	kəbələ	kʌbʌlʌ 
+belly: koko | koko	kukò	kukɔ	kɔkɔ 
+belly: kukò | koko	kukò	kukɔ	kɔkɔ 
+belly: kukɔ | koko	kukò	kukɔ	kɔkɔ 
+big: pato | pato	pətò	pʌtɔ 
+big: pëtò | pato	pətò	pʌtɔ 
+big: pʌtɔ | pato	pətò	pʌtɔ 
+bird: tea 
+bite: yerè-ma | yerè-ma	yerɛma	yɛre-ma 
+bite: yerɛma | yerè-ma	yerɛma	yɛre-ma 
+black: dikïli | dikïli	dikòli	dikɔli	dikəli 
+black: dikòli | dikïli	dikòli	dikɔli	dikəli 
+black: dikɔli | dikïli	dikòli	dikɔli	dikəli 
+blood: umali | umali	umoli	uməːli	unʌːli 
+blood: umë:li | umali	umoli	uməːli	unʌːli 
+blood: unʌːli | umali	umoli	uməːli	unʌːli 
+bone: èlu | ELu	ero	èlu	ɛlu	ɛro 
+bone: ɛlu | ELu	ero	èlu	ɛlu	ɛro 
+bone: ero | ELu	ero	èlu	ɛlu	ɛro 
+breast: mèmè | mEmE	mèmè	mɛmɛ 
+breast: mɛmɛ | mEmE	mèmè	mɛmɛ 
+brother: yebaba 
+burn: ene 
+burn: ululuma 
+burn: ululu-ma 
+burn: ururu-ma 
+cassowary: wëtëlë 
+claw: kakre | kakre	kakrɛ	tukasi 
+claw: tukasi | kakre	kakrɛ	tukasi 
+cloud: uala | uala	uələ	uʌlʌ 
+cloud: uëlë | uala	uələ	uʌlʌ 
+cloud: uʌlʌ | uala	uələ	uʌlʌ 
+cold: atakala | atakala	kaboma	popoma	thòməli	tʰɔmʌli 
+cold: popoma | atakala	kaboma	popoma	thòməli	tʰɔmʌli 
+cold: thòmëli | atakala	kaboma	popoma	thòməli	tʰɔmʌli 
+cold: tʰɔmʌli | atakala	kaboma	popoma	thòməli	tʰɔmʌli 
+come: puma | pu	pu-ma	puma 
+come: pu-ma | pu	pu-ma	puma 
+die: po-ma | po-ma	ɸo-ma 
+dog: esemala | esemala	esemolo	esemələ	esemʌlʌ	ɛsemala 
+dog: esemëlë | esemala	esemolo	esemələ	esemʌlʌ	ɛsemala 
+dog: esemʌlʌ | esemala	esemolo	esemələ	esemʌlʌ	ɛsemala 
+drink: yüdïma | yüdïma	yüdə-ma 
+dry: sekïrema | sekïrema	sekərena 
+ear: mòlò | molo	mòlò	mɔlɔ 
+ear: mɔlɔ | molo	mòlò	mɔlɔ 
+earth: täna | täna	tèlə	tɛlʌ 
+earth: tɛlʌ | täna	tèlə	tɛlʌ 
+earth: tèlë | täna	tèlə	tɛlʌ 
+eat: da-mproma | da-mproma	dampro-ma	damproma	təèdòma	tʌɛdɔma 
+eat: tʌɛdɔma | da-mproma	dampro-ma	damproma	təèdòma	tʌɛdɔma 
+eat: tëèdòma | da-mproma	dampro-ma	damproma	təèdòma	tʌɛdɔma 
+egg: te-mòkò | te-mòkò	te-mɔkɔ	temɔkɔ	tə-moko	təmoko 
+egg: temɔkɔ | te-mòkò	te-mɔkɔ	temɔkɔ	tə-moko	təmoko 
+elbow: domu 
+emu: wʌtʌlʌ 
+eye: inëma | inoma	inəma	inʌma 
+eye: inʌma | inoma	inəma	inʌma 
+eye: inoma | inoma	inəma	inʌma 
+father: ʔʌ 
+father: ë 
+fat (n.): obi 
+fat (n.): òpi 
+fat (n.): ɔpi 
+feather: kosopa | kosopa	tea-ka	tea-kə	teaka	teakʌ 
+feather: teakʌ | kosopa	tea-ka	tea-kə	teaka	teakʌ 
+feather: tea-ka | kosopa	tea-ka	tea-kə	teaka	teakʌ 
+feather: tea-kë | kosopa	tea-ka	tea-kə	teaka	teakʌ 
+fire: delëpë | deLopo	deləpə	delʌpʌ	drava	draβa 
+fire: delʌpʌ | deLopo	deləpə	delʌpʌ	drava	draβa 
+fire: drava | deLopo	deləpə	delʌpʌ	drava	draβa 
+fish: amano | amano	omolo	əməlò	ʌmʌlɔ 
+fish: ëmëlò | amano	omolo	əməlò	ʌmʌlɔ 
+fish: ʌmʌlɔ | amano	omolo	əməlò	ʌmʌlɔ 
+fly (v.): hòrëm-tuma 
+fly (v.): hɔrʌmtuma 
+fly (v.): horom-sire-ma 
+forehead: daptala 
+full: bosatana | bosatana	pasatana	pòsətəni	pɔsʌtʌni 
+full: pasatana | bosatana	pasatana	pòsətəni	pɔsʌtʌni 
+full: pòsëtëni | bosatana	pasatana	pòsətəni	pɔsʌtʌni 
+full: pɔsʌtʌni | bosatana	pasatana	pòsətəni	pɔsʌtʌni 
+give: hami(-ma) | hami	hami-ma	həː	hʌmima 
+give: hë… | hami	hami-ma	həː	hʌmima 
+give: hʌmima | hami	hami-ma	həː	hʌmima 
+good: tegedrè | tegedrè	tegedrɛ	tɛgɛdrɛ 
+good: tegedrɛ | tegedrè	tegedrɛ	tɛgɛdrɛ 
+green: (dali) pasakalo | dali pasakalo	daliɸasakalo	pasakalo	təli-pusukəlu	tʌli-pusukʌlu	tʌlipusukʌlu	ɸasakalo 
+green: tëli-pusukëlu | dali pasakalo	daliɸasakalo	pasakalo	təli-pusukəlu	tʌli-pusukʌlu	tʌlipusukʌlu	ɸasakalo 
+green: tʌlipusukʌlu | dali pasakalo	daliɸasakalo	pasakalo	təli-pusukəlu	tʌli-pusukʌlu	tʌlipusukʌlu	ɸasakalo 
+hair: kokosasi | kokosasi	kòkòsəse	kɔkɔsʌse 
+hair: kòkòsëse | kokosasi	kòkòsəse	kɔkɔsʌse 
+hair: kɔkɔsʌse | kokosasi	kòkòsəse	kɔkɔsʌse 
+head: dokupala | dokupala	tòkòbələ	tɔkɔbʌlʌ 
+head: tòkòbëlë | dokupala	tòkòbələ	tɔkɔbʌlʌ 
+head: tɔkɔbʌlʌ | dokupala	tòkòbələ	tɔkɔbʌlʌ 
+hear: daro-ma | daro-ma	tolo	tələ-ma	tʌlʌma 
+heart: dupa 
+hear: tëlë-ma | daro-ma	tolo	tələ-ma	tʌlʌma 
+hear: tʌlʌma | daro-ma	tolo	tələ-ma	tʌlʌma 
+he/she: yä/wä 
+house: aya 
+I: nä | nE*	nä	nènhʔä	nɛ	nɛ̃	nɛ̃ʔä 
+I: nɛ͂ | nE*	nä	nènhʔä	nɛ	nɛ̃	nɛ̃ʔä 
+I: nènh/ä | nE*	nä	nènhʔä	nɛ	nɛ̃	nɛ̃ʔä 
+kill: yu-ma | yu-ma	yumama 
+kill: yumama | yu-ma	yumama 
+knee: aruma | aruma	oLuma	əluma	ʌluma 
+knee: ëluma | aruma	oLuma	əluma	ʌluma 
+knee: ʌluma | aruma	oLuma	əluma	ʌluma 
+know: mëlë-mëlë | mïra-mana	mələ-mələ	məramana	mʌlʌmʌlʌ	ya-mïra-mana 
+know: mʌlʌmʌlʌ | mïra-mana	mələ-mələ	məramana	mʌlʌmʌlʌ	ya-mïra-mana 
+know: (ya-)mïra-mana | mïra-mana	mələ-mələ	məramana	mʌlʌmʌlʌ	ya-mïra-mana 
+leaf: uba | uba	upo	upə	upʌ 
+leaf: upʌ | uba	upo	upə	upʌ 
+leaf: upë | uba	upo	upə	upʌ 
+leg: ete 
+leg: hetei 
+lie: elema 
+lie: ele-ma | elema 
+lie: e-rema | elema 
+lie: ere-ma | elema 
+liver: usuala 
+long: seremëleni | sereməleni	seremʌleni	sïmanina	səmanina 
+long: seremʌleni | sereməleni	seremʌleni	sïmanina	səmanina 
+long: sïmanina | sereməleni	seremʌleni	sïmanina	səmanina 
+louse: iyʌ | iyo 
+louse: iya | iyo 
+louse: iyë | iyo 
+man: òpòlëimi | opoloimi 
+man: ɔpɔlʌimi | opoloimi 
+man: op-rami/opa | opoloimi 
+many: habroma | habroma	həpòlòmə	hʌpɔlɔmʌ 
+many: hëpòlòmë | habroma	həpòlòmə	hʌpɔlɔmʌ 
+many: hʌpɔlɔmʌ | habroma	həpòlòmə	hʌpɔlɔmʌ 
+meat: mo 
+meat: mò | mo 
+meat: mɔ | mo 
+moon: mama | mama	məmə	mʌmʌ 
+moon: mëmë | mama	məmə	mʌmʌ 
+moon: mʌmʌ | mama	məmə	mʌmʌ 
+mother: wëi 
+mother: wʌi 
+mother: yaya 
+mountain: tamali (i) | tamali	tamãli	tomoLi	təməli	tʌmʌli 
+mountain: tëmëli | tamali	tamãli	tomoLi	təməli	tʌmʌli 
+mountain: tʌmʌli | tamali	tamãli	tomoLi	təməli	tʌmʌli 
+mouth: mati | mati	məːti	mʌːti 
+mouth: më:ti | mati	məːti	mʌːti 
+mouth: mʌːti | mati	məːti	mʌːti 
+name: hi 
+nape: tumuku 
+neck: tumuku 
+new: amoko | amoko	omoko	əmòkò	ʌmɔkɔ 
+new: ëmòkò | amoko	omoko	əmòkò	ʌmɔkɔ 
+new: ʌmɔkɔ | amoko	omoko	əmòkò	ʌmɔkɔ 
+night: utɔlɛlʌ | utoLElo	uträna	utòlèlə	utɔlɛlʌ	ütræ̃na 
+night: utòlèlë | utoLElo	uträna	utòlèlə	utɔlɛlʌ	ütræ̃na 
+night: uträna (i) | utoLElo	uträna	utòlèlə	utɔlɛlʌ	ütræ̃na 
+nose: mũ | mu	mu*	munh	mũ 
+not: hawa | hawa	həwə	hʌwʌ	po- 
+not: hëwë | hawa	həwə	hʌwʌ	po- 
+not: hʌwʌ | hawa	həwə	hʌwʌ	po- 
+not: po- | hawa	həwə	hʌwʌ	po- 
+one: hatrope | hatrope	hatropɛ	hotolop	hətòlòp	hʌtɔlɔp 
+one: hëtòlòp | hatrope	hatropɛ	hotolop	hətòlòp	hʌtɔlɔp 
+one: hʌtɔlɔp | hatrope	hatropɛ	hotolop	hətòlòp	hʌtɔlɔp 
+rain: tiò | tiò	tiɔ 
+rain: tiɔ | tiò	tiɔ 
+red: omtëkëipele | omtïkäpïlä	omtəkäpəlä	omtəkəipele	omtʌkʌipele 
+red: omtïkäpïlä | omtïkäpïlä	omtəkäpəlä	omtəkəipele	omtʌkʌipele 
+red: omtʌkʌipele | omtïkäpïlä	omtəkäpəlä	omtəkəipele	omtʌkʌipele 
+road: api | opi 
+road: ëpi | opi 
+road: ʌpi | opi 
+root: dru-saro | dru-saro	drusaro	tòlò-səːlo	tɔlɔsʌːlɔ 
+root: tòlò-së:lo | dru-saro	drusaro	tòlò-səːlo	tɔlɔsʌːlɔ 
+root: tɔlɔsʌːlɔ | dru-saro	drusaro	tòlò-səːlo	tɔlɔsʌːlɔ 
+round: siridïna | siridïna	siridəna 
+sand: asira | asira	asra 
+say: yugama | yu-ga-ma	yuga-ma 
+say: yu-ga-ma | yu-ga-ma	yuga-ma 
+seed: mòkò | drol-moko	drolmoko	mòkò	mɔkɔ 
+seed: mɔkɔ | drol-moko	drolmoko	mòkò	mɔkɔ 
+see: nati-ma | ele	nati-ma	nəː	nʌtima 
+see: në… | ele	nati-ma	nəː	nʌtima 
+see: nʌtima | ele	nati-ma	nəː	nʌtima 
+shoulder: make 
+shoulder: mëke 
+shoulder: mʌke 
+sit: yèproma | yèproma	yɛpro-ma	yɛproma 
+sit: yɛproma | yèproma	yɛpro-ma	yɛproma 
+skin: kapala | kapala	kopolo	kəpələ	kʌpʌlʌ 
+skin: këpëlë | kapala	kopolo	kəpələ	kʌpʌlʌ 
+skin: kʌpʌlʌ | kapala	kopolo	kəpələ	kʌpʌlʌ 
+sleep: elema | ele-ma	elema	ere-ma 
+sleep: ele-ma | ele-ma	elema	ere-ma 
+sleep: ere-ma | ele-ma	elema	ere-ma 
+small: yikyämïna | ?yikyäməna	yikyämïna	yimikəmələ	yimikʌmʌlʌ 
+small: yimikëmëlë | ?yikyäməna	yikyämïna	yimikəmələ	yimikʌmʌlʌ 
+small: yimikʌmʌlʌ | ?yikyäməna	yikyämïna	yimikəmələ	yimikʌmʌlʌ 
+smoke: namne | namne	namnɛ	nəməle	nʌmʌle 
+smoke: nëmële | namne	namnɛ	nəməle	nʌmʌle 
+smoke: nʌmʌle | namne	namnɛ	nəməle	nʌmʌle 
+stand: sèri-hotine 
+stand: sɛrihotine 
+stand: sire-tïma 
+star: tamïli | tamïli	taməli	tomeLi	təmeli	tʌmeli 
+star: tëmeli | tamïli	taməli	tomeLi	təmeli	tʌmeli 
+star: tʌmeli | tamïli	taməli	tomeLi	təmeli	tʌmeli 
+stone: ewëlë | ewoLo	ewələ	ewʌlʌ	yawara 
+stone: ewʌlʌ | ewoLo	ewələ	ewʌlʌ	yawara 
+stone: yawara | ewoLo	ewələ	ewʌlʌ	yawara 
+sun: sali | sali	soLi	səli	sʌli 
+sun: sëli | sali	soLi	səli	sʌli 
+sun: sʌli | sali	soLi	səli	sʌli 
+swim: yudelësëlè-ma | yudeləsəlè-ma	yudelʌsʌlɛma 
+swim: yudelʌsʌlɛma | yudeləsəlè-ma	yudelʌsʌlɛma 
+tail: tilè | tilè	tilɛ 
+tail: tilɛ | tilè	tilɛ 
+that: èye | hu	uni	èye	ɛye 
+that: ɛye | hu	uni	èye	ɛye 
+that: hu | hu	uni	èye	ɛye 
+that: uni | hu	uni	èye	ɛye 
+they: wä/yä 
+this: \i | ye	yɛ	ʔi 
+this: ʔi | ye	yɛ	ʔi 
+this: ye | ye	yɛ	ʔi 
+thou: wä | wE*	wä	wènhʔä	wɛ	wɛ̃	wɛ̃ʔä 
+thou: wɛ͂ | wE*	wä	wènhʔä	wɛ	wɛ̃	wɛ̃ʔä 
+thou: wènh/ä | wE*	wä	wènhʔä	wɛ	wɛ̃	wɛ̃ʔä 
+three: dabatropa 
+tomorrow: iyena 
+tongue: tè | tE	te	tè	tɛ 
+tongue: tɛ | tE	te	tè	tɛ 
+tooth: èpe | Epe	èpe	ɛpe 
+tooth: ɛpe | Epe	èpe	ɛpe 
+tree: dali | toli 
+tree: tëli | toli 
+tree: tʌli | toli 
+two: dapiamete | dapiamete	dapiamɛtɛ	depiomEtE	depiəmètè	depiʌmɛtɛ 
+two: depiëmètè | dapiamete	dapiamɛtɛ	depiomEtE	depiəmètè	depiʌmɛtɛ 
+two: depiʌmɛtɛ | dapiamete	dapiamɛtɛ	depiomEtE	depiəmètè	depiʌmɛtɛ 
+walk: ta- | to-ma	toma	tòmə	tɔmʌ 
+walk: tɔmʌ | to-ma	toma	tòmə	tɔmʌ 
+walk: toma | to-ma	toma	tòmə	tɔmʌ 
+walk: tòmë | to-ma	toma	tòmə	tɔmʌ 
+wallaby: kapia 
+warm: aramanama | aramanama	ələməleni 
+warm: ëlëmëleni | aramanama	ələməleni 
+warm: ʌlʌmʌleni | aramanama	ələməleni 
+water: yu 
+we: diä | diE	diä 
+we: diè | diE	diä 
+we: diɛ | diE	diä 
+we (incl.): diä 
+what: apate | apate	apatɛ	əpətè	ʌpʌtɛ 
+what: ëpëtè | apate	apatɛ	əpətè	ʌpʌtɛ 
+what: ʌpʌtɛ | apate	apatɛ	əpətè	ʌpʌtɛ 
+white: kamale | kamale	kəməle	kʌmʌle 
+white: këmële | kamale	kəməle	kʌmʌle 
+white: kʌmʌle | kamale	kəməle	kʌmʌle 
+who: anaye | anaye	anayɛ	ənəyè	ʌnʌyɛ 
+who: ënëyè | anaye	anayɛ	ənəyè	ʌnʌyɛ 
+who: ʌnʌyɛ | anaye	anayɛ	ənəyè	ʌnʌyɛ 
+wind: mosisi 
+wing: suku 
+woman: ɛ͂ya͂ | enh.yã	eya	ɛ̃yã	ẽyã 
+woman: ẽyã | enh.yã	eya	ɛ̃yã	ẽyã 
+yellow: ʌleni | walïle	wãləlɛ	wəleni	ʌleni 
+yellow: walïle | walïle	wãləlɛ	wəleni	ʌleni 
+yellow: wëleni | walïle	wãləlɛ	wəleni	ʌleni 
+yesterday: tatra 
+yes: yo 
+you: wä | wE*	wä	wènhʔä	wɛ	wɛ̃	wɛ̃ʔä 
+every: haplomo	həpòlòmə	hʌpɔlɔmʌ 
+ash: tile	tilɛ	tine 
+abdomen: koko	kukò	kukɔ	kɔkɔ 
+bigness: pato	pətò	pʌtɔ 
+large: pato	pətò	pʌtɔ 
+breasts: mEmE	mèmè	mɛmɛ 
+nail: kakre	kakrɛ	tukasi 
+talon: kakre	kakrɛ	tukasi 
+come from: pu	pu-ma	puma 
+be dead: po-ma	ɸo-ma 
+dead: po-ma	ɸo-ma 
+ground: täna	tèlə	tɛlʌ 
+land: täna	tèlə	tɛlʌ 
+soil: täna	tèlə	tɛlʌ 
+fly: horom-sire-ma	hòrəm-tuma	hɔrɔmsərɛ-ma	hɔrʌmtuma 
+fly v.: horom-sire-ma	hòrəm-tuma	hɔrɔmsərɛ-ma	hɔrʌmtuma 
+foot: ɛtɛ 
+hand: dɔ	to 
+left hand: dɔ	to 
+right: dɔ	to 
+1 sg.: nE*	nä	nènhʔä	nɛ	nɛ̃	nɛ̃ʔä 
+be knowledgeable: mïra-mana	mələ-mələ	məramana	mʌlʌmʌlʌ	ya-mïra-mana 
+lie down: elema 
+head louse: iyo 
+male: op-ramiʔopa	oprami	òpòləimi	ɔpɔlʌimi 
+much: habroma	həpòlòmə	hʌpɔlɔmʌ 
+multiple: habroma	həpòlòmə	hʌpɔlɔmʌ 
+several: habroma	həpòlòmə	hʌpɔlɔmʌ 
+flesh: mo 
+hill: tamali	tamãli	tomoLi	təməli	tʌmʌli 
+title: hi 
+nighttime: utoLElo	uträna	utòlèlə	utɔlɛlʌ	ütræ̃na 
+adulterous: hatrope	hatropɛ	hotolop	hətòlòp	hʌtɔlɔp 
+single: hatrope	hatropɛ	hotolop	hətòlòp	hʌtɔlɔp 
+the: hatrope	hatropɛ	hotolop	hətòlòp	hʌtɔlɔp 
+unprincipled: hatrope	hatropɛ	hotolop	hətòlòp	hʌtɔlɔp 
+human: opoloimi 
+human being: opoloimi 
+person: opoloimi 
+rainy weather: tiò	tiɔ 
+path: opi 
+route: opi 
+hide: kapala	kopolo	kəpələ	kʌpʌlʌ 
+little: ?yikyäməna	yikyämïna	yimikəmələ	yimikʌmʌlʌ 
+smallness: ?yikyäməna	yikyämïna	yimikəmələ	yimikʌmʌlʌ 
+rock: ewoLo	ewələ	ewʌlʌ	yawara 
+2 sg: wE*	wä	wènhʔä	wɛ	wɛ̃	wɛ̃ʔä 
+grind: dapiamete	dapiamɛtɛ	depiomEtE	depiəmètè	depiʌmɛtɛ 
+go: to-ma	toma	tòmə	tɔmʌ 
+hot: aramanama	ələməleni 
+1 pl. inc.: diE	diä 
+we₁: diE	diä 
+whiteness: kamale	kəməle	kʌmʌle 
+who?: anaye	anayɛ	ənəyè	ʌnʌyɛ 
+female: enh.yã	eya	ɛ̃yã	ẽyã 
+dull: ubiäma 
+heavy: ubiäma 
+serious: ubiäma 
+snake: irama 

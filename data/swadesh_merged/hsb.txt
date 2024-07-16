@@ -1,0 +1,152 @@
+all: sve 
+every: sve 
+ash: pepeo 
+ashes: pepeo 
+bark: kora 
+abdomen: stomak	trbuh 
+belly: stomak	trbuh 
+big: golem	veliki 
+bigness: golem	veliki 
+large: golem	veliki 
+bird: ptica 
+bite: gris	uyes 
+black: crni 
+blood: krEy	krv 
+bone: kosC	kost 
+breast: grudi	nadro	prsa	ruj 
+breasts: grudi	nadro	prsa	ruj 
+claw: nokat 
+nail: nokat 
+talon: nokat 
+cloud: oblak 
+cold: studen	zima 
+come: dolazi	pSi5C 
+come from: dolazi	pSi5C 
+be dead: mreC	umre	umriye 
+dead: mreC	umre	umriye 
+die: mreC	umre	umriye 
+dog: pas	pos	ps3k 
+drink: pi	piC 
+dry: suh	suv 
+ear: uho	uvo	vuxo 
+earth: zemly~a 
+ground: zemly~a 
+land: zemly~a 
+soil: zemly~a 
+eat: yes 
+egg: yaye 
+eye: oko	voCko	voko 
+fat: debly~ina	salo 
+fat n.: debly~ina	salo 
+grease: debly~ina	salo 
+lubricant: debly~ina	salo 
+oil: debly~ina	salo 
+feather: perka	pero 
+fire: ogani	vatra	voE5	vohE5 
+fish: r3ba	riba 
+fly: lety~e 
+fly v.: lety~e 
+foot: stopa	stopalo 
+full: pown3	pun 
+give: da 
+good: dobar 
+green: zeleni 
+hair: kosa 
+hand: Saka	ruka 
+left hand: Saka	ruka 
+right: Saka	ruka 
+head: glava 
+hear: sluSa	sw~3SEC 
+heart: srce 
+horn: ro	rog	roh 
+1 sg.: ya 
+I: ya 
+kill: ubi 
+knee: kolEno	koly~eno 
+be knowledgeable: zna 
+know: zna 
+leaf: list	wopy~Eno 
+lie: leZa 
+lie down: leZa 
+liver: cigerica	yatra	yetra 
+long: dugi 
+head louse: uS	vaS	voS 
+louse: uS	vaS	voS 
+male: Coviyek	muZ 
+man: Covek	Coviyek	vosoba 
+many: mnogo	puno 
+much: mnogo	puno 
+multiple: mnogo	puno 
+several: mnogo	puno 
+flesh: meso 
+meat: meso 
+moon: my~esec 
+hill: gora	hora	planina 
+mountain: gora	hora	planina 
+mouth: usta 
+name: ime	my~Eno 
+title: ime	my~Eno 
+neck: vrat 
+new: nov3	novi 
+night: noc	nox 
+nighttime: noc	nox 
+nose: nos 
+not: ne 
+adulterous: jedyn	yEd3n	yedan 
+one: jedyn	yEd3n	yedan 
+single: jedyn	yEd3n	yedan 
+that: ta	to 
+the: jedyn	yEd3n	yedan 
+unprincipled: jedyn	yEd3n	yedan 
+human: Covek	Coviyek	vosoba 
+human being: Covek	Coviyek	vosoba 
+person: Covek	Coviyek	vosoba 
+rain: kiSa 
+rainy weather: kiSa 
+red: crveni 
+path: SCEZka	puC	put	ulica 
+road: SCEZka	puC	put	ulica 
+route: SCEZka	puC	put	ulica 
+root: koren	koriyen 
+round: okrugao	okrugli 
+say: govori	reTi 
+see: vidy~e	vijEC 
+seed: sy~eme 
+sit: sede	sy~edi 
+hide: koZa 
+skin: koZa 
+sleep: spava 
+little: mali 
+small: mali 
+smallness: mali 
+smoke: dim 
+stand: staya	stoya 
+star: vezda	zvezda	zviyezda 
+rock: kamen	kamy~E5	stena 
+stone: kamen	kamy~E5	stena 
+sun: sunce	sw~3nco 
+swim: pliva 
+tail: rep 
+this: ova	ovay 
+2 sg: t3	ti	vi 
+thou: t3	ti	vi 
+you: t3	ti	vi 
+tongue: yaz3k	yezik 
+tooth: zub 
+tree: Stom	drvo 
+grind: dva	dvay	dwaj 
+two: dva	dvay	dwaj 
+go: xoda 
+walk: xoda 
+water: voda 
+1 pl. inc.: m3	mi 
+we: m3	mi 
+we₁: m3	mi 
+what: Sta	Sto 
+white: beli	biyeli 
+whiteness: beli	biyeli 
+who: ko	tko 
+who?: ko	tko 
+female: Zena 
+woman: Zena 
+yellow: Zuti 

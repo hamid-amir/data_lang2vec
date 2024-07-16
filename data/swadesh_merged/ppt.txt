@@ -1,0 +1,300 @@
+all: hanomu | hanomu	hanɔmu 
+all: hanɔmu | hanomu	hanɔmu 
+arm: atowe 
+arm: atòwe 
+arm: atɔwe 
+ashes: owekome | owekome	unɛkamɛ	òwekòmò	ɔwekɔmɔ 
+ashes: òwekòmò | owekome	unɛkamɛ	òwekòmò	ɔwekɔmɔ 
+ashes: ɔwekɔmɔ | owekome	unɛkamɛ	òwekòmò	ɔwekɔmɔ 
+ashes: unɛkamɛ | owekome	unɛkamɛ	òwekòmò	ɔwekɔmɔ 
+back: (mala)go 
+back: malakò 
+back: malakɔ 
+bark: i͂ sia | inh sia	inh siya	siga	ĩ sia	ĩ siya 
+bark: i͂ siya | inh sia	inh siya	siga	ĩ sia	ĩ siya 
+bark: ĩ si(y)a | inh sia	inh siya	siga	ĩ sia	ĩ siya 
+bark: siga | inh sia	inh siya	siga	ĩ sia	ĩ siya 
+belly: napò | napò	napɔ 
+belly: napɔ | napò	napɔ 
+big: hiti 
+bird: tiye | tie	tiye 
+bird: ti(y)e | tie	tiye 
+bite: ten-a 
+black: dige | di-ge	dige	kwigine 
+black: di-ge | di-ge	dige	kwigine 
+black: kwigine | di-ge	dige	kwigine 
+blood: sòwò | sowo	sòwò	sɔwɔ 
+blood: sɔwɔ | sowo	sòwò	sɔwɔ 
+bone: kò | ko	kò	kɔ 
+bone: kɔ | ko	kò	kɔ 
+breast: be | be	bu 
+breast: bu | be	bu 
+brother: aiya 
+brother: a͂ya͂ 
+burn: di 
+burn: ne dim-enu 
+cassowary: òba 
+claw: dage 
+cloud: uwe 
+cold: suwiga 
+come: ha-danò | ha-danò	ha-danɔ	hadan 
+come: ha-danɔ | ha-danò	ha-danɔ	hadan 
+die: po | po	po-la 
+die: po(-la) | po	po-la 
+dog: ti | ti	tiʼi 
+dog: ti\i | ti	tiʼi 
+drink: de-nu 
+dry: kiya-ga 
+ear: mogamɛ | mogamɛ	mogo	mowo	mògò	mɔgɔ 
+ear: mògò | mogamɛ	mogo	mowo	mògò	mɔgɔ 
+ear: mɔgɔ | mogamɛ	mogo	mowo	mògò	mɔgɔ 
+ear: mowo | mogamɛ	mogo	mowo	mògò	mɔgɔ 
+earth: to | tò	tɔ 
+earth: tò | tò	tɔ 
+earth: tɔ | tò	tɔ 
+eat: da | da	de-go	de-nu 
+eat: de-go | da	de-go	de-nu 
+eat: de-nu | da	de-go	de-nu 
+egg: mò\ò | mòʔò	mɔʔɔ 
+egg: mɔʔɔ | mòʔò	mɔʔɔ 
+elbow: amu 
+emu: ɔba 
+eye: ginamo | ginamo	kere-mo	kinemo	kinemò	kinemɔ 
+eye: kere-mo | ginamo	kere-mo	kinemo	kinemò	kinemɔ 
+eye: kinemò | ginamo	kere-mo	kinemo	kinemò	kinemɔ 
+eye: kinemɔ | ginamo	kere-mo	kinemo	kinemò	kinemɔ 
+father: de 
+fat (n.): sa: 
+fat (n.): saː 
+feather: tige ouse 
+fingernail: dagɛ 
+fire: da | da	nE	ne	nè	nɛ 
+fire: ne | da	nE	ne	nè	nɛ 
+fire: nè | da	nE	ne	nè	nɛ 
+fire: nɛ | da	nE	ne	nè	nɛ 
+fish: mulu | mulu	mune 
+fish: mune | mulu	mune 
+fly (v.): kada 
+fly (v.): ka-da 
+fly (v.): ka-de 
+foot: tamakere 
+forehead: debetere 
+full: kokobo | kokobo	towate	tòwate	tɔwate 
+full: tòwate | kokobo	towate	tòwate	tɔwate 
+full: tɔwate | kokobo	towate	tòwate	tɔwate 
+give: de-nu 
+good: edi(y)a-ge | edia-ge	ediya-ge 
+good: ediya-ge | edia-ge	ediya-ge 
+green: mòma-gane | mòma-gane	mɔma-gane 
+green: mɔma-gane | mòma-gane	mɔma-gane 
+hair: osɛ | osɛ	ouse 
+hair: ouse | osɛ	ouse 
+head: keba | keba	kiba 
+head: kiba | keba	kiba 
+hear: go-dara | go-dara	wodala	wodalaò	wɔdalaɔ 
+heart: pene | pene	pẽnẽ 
+heart: pe͂ne͂ | pene	pẽnẽ 
+hear: wodalaò | go-dara	wodala	wodalaò	wɔdalaɔ 
+hear: wɔdalaɔ | go-dara	wodala	wodalaò	wɔdalaɔ 
+he/she: yɔ 
+hole: damɛ 
+house: a: 
+I: no͂ | no*	nõ	nɔ̃ 
+I: nõ | no*	nõ	nɔ̃ 
+I: nɔ͂ | no*	nõ	nɔ̃ 
+kill: male yenu 
+knee: agumu | agumu	oumu	owgumu 
+knee: oumu | agumu	oumu	owgumu 
+knee: owgumu | agumu	oumu	owgumu 
+know: dara | dara	nòdalòyò	nɔdalɔyɔ 
+know: nòdalòyò | dara	nòdalòyò	nɔdalɔyɔ 
+know: nɔdalɔyɔ | dara	nòdalòyò	nɔdalɔyɔ 
+leaf: i͂ use | inh use	osɛ	use	ĩ use 
+leaf: ĩ use | inh use	osɛ	use	ĩ use 
+leaf: osɛ | inh use	osɛ	use	ĩ use 
+leg: tamakali 
+leg: tele 
+lie: ä:-o | e-nɔ 
+lie: e-nò | e-nɔ 
+lie: e-nɔ 
+long: sige 
+louse: kiba \o 
+louse: kiba ʔɔ 
+louse: ɔ 
+man: kobo 
+many: hitiyum 
+meat: seyi 
+moon: abe | abe	abi 
+moon: abi | abe	abi 
+mother: aba 
+mother: ama 
+mountain: gisò | giso	gisò	gisɔ 
+mountain: gisɔ | giso	gisò	gisɔ 
+mouth: padame | padame	padamɛ	padane 
+mouth: padamɛ | padame	padamɛ	padane 
+mouth: padane | padame	padamɛ	padane 
+name: hi 
+neck: kugumu | kugumu	tulu 
+neck: tulu | kugumu	tulu 
+new: koa͂rɛ͂ | koãrɛ̃	kwane	kw~ane	kɔnɛ 
+new: kɔnɛ | koãrɛ̃	kwane	kw~ane	kɔnɛ 
+new: kwane | koãrɛ̃	kwane	kw~ane	kɔnɛ 
+night: hwiga | hwiga	hwinh-ga	hwĩ-ga 
+night: hwi͂-ga | hwiga	hwinh-ga	hwĩ-ga 
+night: hwĩ-ga | hwiga	hwinh-ga	hwĩ-ga 
+nose: kine | kene	kine 
+not: amale 
+one: aso | aso	oteso	òtesò	ɔtesɔ 
+one: òtesò | aso	oteso	òtesò	ɔtesɔ 
+one: ɔtesɔ | aso	oteso	òtesò	ɔtesɔ 
+person: kobo 
+rain: ɔmɔɛ | ume	ɔmɔɛ 
+rain: ume | ume	ɔmɔɛ 
+red: tau-ge 
+road: òtigi | otigi 
+road: ɔtigi | otigi 
+road: utigi | otigi 
+root: i͂ debere | inh debere	ĩ debere 
+root: ĩ debere | inh debere	ĩ debere 
+sand: deni | deni	dərina 
+sand: dərina | deni	dərina 
+say: gwao 
+say: sa ade | gwao 
+say: sa ode | gwao 
+see: de-dò | de-dò	de-dɔ	ded 
+see: de-dɔ | de-dò	de-dɔ	ded 
+seed: i͂ mu͂ | inh mu	inh munh	ĩ mũ 
+seed: ĩ mu(nh) | inh mu	inh munh	ĩ mũ 
+shoulder: isene 
+shoulder: mage 
+sister: pe 
+sit: ene-nò | ene-nò	ene-nɔ 
+sit: ene-nɔ | ene-nò	ene-nɔ 
+skin: siga | sia	siga	siya 
+skin: siya | sia	siga	siya 
+skin: si(y)a | sia	siga	siya 
+sleep: kiɔ͂- | kiyò e-nò	kiyɔ-enɔ	kiɔ̃- 
+sleep: kiyò e-nò | kiyò e-nò	kiyɔ-enɔ	kiɔ̃- 
+sleep: kiyɔ-enɔ | kiyò e-nò	kiyɔ-enɔ	kiɔ̃- 
+small: kobo kiti | kobo kiti	kɔbɔkiti 
+small: kɔbɔkiti | kobo kiti	kɔbɔkiti 
+smoke: ne ògwe | ne ògwe	ne ɔgwe	ogɛ 
+smoke: ne ɔgwe | ne ògwe	ne ɔgwe	ogɛ 
+smoke: ogɛ | ne ògwe	ne ɔgwe	ogɛ 
+spit: teregɛ 
+stand: he-nò 
+stand: he-nɔ 
+star: peteme | peteme	pɛtɛmɛ 
+star: pɛtɛmɛ | peteme	pɛtɛmɛ 
+stone: iyebo | iebo	iebò	iyebo	iyebò 
+stone: i(y)ebò | iebo	iebò	iyebo	iyebò 
+straight: dugenɛ 
+sun: ge͂nɛ͂ | gine	gïle	gẽnɛ̃ 
+sun: gïle | gine	gïle	gẽnɛ̃ 
+sun: gine | gine	gïle	gẽnɛ̃ 
+swim: ume \i-da | ume ʔi-da 
+swim: ume ʔi-da 
+tail: hwetò | hwetò	hwetɔ	nakule 
+tail: hwetɔ | hwetò	hwetɔ	nakule 
+tail: nakule | hwetò	hwetɔ	nakule 
+that: ò | ò	ɔ 
+that: ɔ | ò	ɔ 
+thigh: mere- 
+this: e | e	yome 
+this: yome | e	yome 
+thou: gi | go	gò	gɔ 
+thou: go | go	gò	gɔ 
+thou: gò | go	gò	gɔ 
+thou: gɔ | go	gò	gɔ 
+tie: ina 
+tongue: tä: | tE	te	täː	tɛ 
+tongue: te | tE	te	täː	tɛ 
+tongue: tɛ | tE	te	täː	tɛ 
+tooth: male | male	mare	marɛ	pere	pɛrɛ 
+tooth: mare | male	mare	marɛ	pere	pɛrɛ 
+tooth: marɛ | male	mare	marɛ	pere	pɛrɛ 
+tooth: pere | male	mare	marɛ	pere	pɛrɛ 
+tooth: pɛrɛ | male	mare	marɛ	pere	pɛrɛ 
+tree: i͂ | i* 
+tree: ĩ | i* 
+two: (di)yabò | diyabo	diyabò	diyabɔ	yabò 
+two: diyabɔ | diyabo	diyabò	diyabɔ	yabò 
+walk: kòdu | kòdu	kɔdu 
+walk: kɔdu | kòdu	kɔdu 
+warm: tee-ga | tegɛga	teː-ga 
+warm: teː-ga | tegɛga	teː-ga 
+warm: tegɛga | tegɛga	teː-ga 
+water: mɔa | mɔa	obasi	omɛ	ule	ume 
+water: obasi | mɔa	obasi	omɛ	ule	ume 
+water: omɛ | mɔa	obasi	omɛ	ule	ume 
+water: ule | mɔa	obasi	omɛ	ule	ume 
+water: ume | mɔa	obasi	omɛ	ule	ume 
+we (incl.): nigi 
+we: ni | nigi 
+we: nigi 
+what: naganewo 
+white: gò-gene | gò-gene	gɔ-gene	kwaowe 
+white: gɔ-gene | gò-gene	gɔ-gene	kwaowe 
+white: kwaowe | gò-gene	gɔ-gene	kwaowe 
+who: kòbò nòkòbu | kòbò nòkòbu	kɔbɔ nɔkɔbu 
+who: kɔbɔ nɔkɔbu | kòbò nòkòbu	kɔbɔ nɔkɔbu 
+wind: nasi 
+wing: akò 
+wing: akɔ 
+wing: ditere 
+woman: weye | weye	wigi 
+woman: wigi | weye	wigi 
+yellow: kòsa-gane | kòsa-gane	kɔsa-gane 
+yellow: kɔsa-gane | kòsa-gane	kɔsa-gane 
+every: hanomu	hanɔmu 
+ash: owekome	unɛkamɛ	òwekòmò	ɔwekɔmɔ 
+abdomen: napò	napɔ 
+bigness: hiti 
+large: hiti 
+breasts: be	bu 
+nail: dage 
+talon: dage 
+come from: ha-danò	ha-danɔ	hadan 
+be dead: po	po-la 
+dead: po	po-la 
+ground: tò	tɔ 
+land: tò	tɔ 
+soil: tò	tɔ 
+fly: ka-da	ka-de	kada 
+fly v.: ka-da	ka-de	kada 
+hand: atowe 
+left hand: atowe 
+right: atowe 
+1 sg.: no*	nõ	nɔ̃ 
+be knowledgeable: dara	nòdalòyò	nɔdalɔyɔ 
+lie down: e-nɔ 
+male: kobo 
+much: hitiyum 
+multiple: hitiyum 
+several: hitiyum 
+hill: giso	gisò	gisɔ 
+title: hi 
+nighttime: hwiga	hwinh-ga	hwĩ-ga 
+adulterous: aso	oteso	òtesò	ɔtesɔ 
+single: aso	oteso	òtesò	ɔtesɔ 
+the: aso	oteso	òtesò	ɔtesɔ 
+unprincipled: aso	oteso	òtesò	ɔtesɔ 
+human: kobo 
+human being: kobo 
+rainy weather: ume	ɔmɔɛ 
+path: otigi 
+route: otigi 
+hide: sia	siga	siya 
+little: kobo kiti	kɔbɔkiti 
+smallness: kobo kiti	kɔbɔkiti 
+rock: iebo	iebò	iyebo	iyebò 
+2 sg: go	gò	gɔ 
+you: go	gò	gɔ 
+grind: diyabo	diyabò	diyabɔ	yabò 
+go: kòdu	kɔdu 
+hot: tegɛga	teː-ga 
+1 pl. inc.: nigi 
+we₁: nigi 
+whiteness: gò-gene	gɔ-gene	kwaowe 
+who?: kòbò nòkòbu	kɔbɔ nɔkɔbu 
+female: weye	wigi 

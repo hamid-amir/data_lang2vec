@@ -1,0 +1,334 @@
+all: весе 
+every: весе 
+ash: кулов 
+ashes: кулов 
+bark: керь	суд 
+abdomen: пеке 
+belly: пеке 
+big: покш 
+bigness: покш 
+large: покш 
+bird: нармунь 
+bite: сускомс 
+black: раужо 
+blood: very~	верь 
+bone: lovaZa	ловажа 
+breast: meSte	меште 
+breasts: meSte	меште 
+cloud: пель 
+cold: кельме 
+come: sams	самс 
+come from: sams	самс 
+be dead: kuloms	куломс 
+dead: kuloms	куломс 
+die: kuloms	куломс 
+dog: kiska	pine	киска 
+drink: simems	симемс 
+dry: коське 
+ear: pile	пиле 
+earth: мода 
+ground: мода 
+land: мода 
+soil: мода 
+eat: сэвемс	ярсамс 
+egg: ал 
+eye: sy~eLme	сельме 
+feather: толга 
+fire: tol	тол 
+fish: kal	кал 
+fly: ливтямс 
+fly v.: ливтямс 
+foot: пильге 
+full: peSkse	пешксе 
+give: максомс 
+good: вадря	паро 
+green: пиже 
+hair: черь 
+hand: kedy~ 
+left hand: kedy~ 
+right: kedy~ 
+head: пря 
+hear: mary~ams	марямс 
+heart: седей 
+horn: %sy~uro	сюро 
+1 sg.: mon	мон 
+I: mon	мон 
+kill: куловтомс	чавомс 
+knee: kumaZa	кумажа 
+be knowledgeable: содамс 
+know: содамс 
+leaf: lopa	лопа 
+liver: makso	максо 
+long: кувака 
+head louse: CiCav	чичав 
+louse: CiCav	чичав 
+male: аля	цёра 
+man: %loma5	ломань 
+many: ламо 
+much: ламо 
+multiple: ламо 
+several: ламо 
+moon: ков 
+hill: ine pando	ине пандо 
+mountain: ine pando	ине пандо 
+mouth: курго 
+name: %lem	лем 
+title: %lem	лем 
+neck: кирьга 
+new: od	од 
+night: ve	ве 
+nighttime: ve	ве 
+nose: sudo	судо 
+not: а	аволь	арась	эзь 
+adulterous: veke	вейке 
+one: veke	вейке 
+single: veke	вейке 
+that: се 
+the: veke	вейке 
+unprincipled: veke	вейке 
+human: %loma5	ломань 
+human being: %loma5	ломань 
+person: %loma5	ломань 
+rain: пиземе	пиземс 
+rainy weather: пиземе	пиземс 
+red: якстере 
+path: ki	ки 
+road: ki	ки 
+route: ki	ки 
+root: ундовкс 
+round: кирксала 
+sand: чувар 
+say: меремс 
+see: neyems	неемс 
+seed: видьме 
+sit: аштемс 
+hide: kedy~	kisy~ke	кедь	киське 
+skin: kedy~	kisy~ke	кедь	киське 
+sleep: удомс 
+little: вишкине 
+small: вишкине 
+smallness: вишкине 
+smoke: качамо 
+star: teSte	теште 
+rock: kev	кев 
+stone: kev	кев 
+sun: Ci	Cipay	чи	чипай 
+swim: уемс	экшелямс 
+tail: пуло 
+this: те 
+2 sg: ton	тон 
+thou: ton	тон 
+you: ton	тон 
+tongue: keL	кель 
+tooth: pey	пей 
+tree: Cuvto	чувто 
+grind: kavto	кавто 
+two: kavto	кавто 
+go: ютамс 
+walk: ютамс 
+hot: лембе 
+warm: лембе 
+water: vedy~	ведь 
+1 pl. inc.: mi5	минь 
+we: mi5	минь 
+we₁: mi5	минь 
+what: мезе 
+white: ашо 
+whiteness: ашо 
+who: кие 
+who?: кие 
+female: ава 
+woman: ава 
+yellow: ожо 
+distant: васов	васоло 
+far: васов	васоло 
+dull: стака 
+heavy: стака 
+serious: стака 
+close: малав	маласо 
+near: малав	маласо 
+ner: малав	маласо 
+salt: сал 
+short: нурькине 
+snake: гуй	уй	ёзнэ 
+thin: човине 
+wind: варма 
+earthworm: сукс 
+worm: сукс 
+year: ие 
+3 sg.: сон 
+he: сон 
+she: сон 
+2 pl.: тынь 
+ye: тынь 
+you all: тынь 
+3 pl.: сынь 
+they: сынь 
+here: тесэ 
+there: тосо 
+where: косо 
+where?: косо 
+when: зярдо 
+when?: зярдо 
+how: кода 
+how?: кода 
+some: аламошка	зярыя 
+few: аламо 
+other: лия 
+three: колмо 
+four: ниле 
+five: вете 
+broad: келей 
+wide: келей 
+wideness: келей 
+fat: куя 
+thick: эчке 
+narrow: теине 
+child: эйкакш 
+principal wife: ни 
+wife: ни 
+husband: мирде 
+his mother: ава 
+mother: ава 
+my mother: ава 
+father: тетя 
+his father: тетя 
+my father: тетя 
+animal: ракша 
+forest: вирь 
+woods: вирь 
+branch: палка 
+stick: палка 
+fruit: эмеж 
+flower: цеця 
+grass: тикше 
+cord: пикс 
+rope: пикс 
+flesh: сывель 
+meat: сывель 
+grease: куя 
+claw: кенже 
+fingernail: кенже 
+nail: кенже 
+leg: пильге 
+arm: кедь 
+wing: сёлмо 
+gut: потмот	потмот-сюлот	сюлот 
+guts: потмот	потмот-сюлот	сюлот 
+insides: потмот	потмот-сюлот	сюлот 
+intestine: потмот	потмот-сюлот	сюлот 
+intestines: потмот	потмот-сюлот	сюлот 
+back: кутьмере 
+suck: потямс 
+spit: сельгемс 
+vomit: уксномс 
+blow: пувамс 
+breath: лексемс 
+breathe: лексемс 
+laugh: ракамс 
+laughter: ракамс 
+cogitate: арсемс 
+reflect: арсемс 
+think: арсемс 
+smell: марямс 
+sniff: марямс 
+afraid: пелемс 
+be afraid: пелемс 
+fear: пелемс 
+fright: пелемс 
+alive: эрямс 
+be alive: эрямс 
+life: эрямс 
+live: эрямс 
+living: эрямс 
+fight: тюремс 
+hunt: охотничамс 
+beat: равтомс	чавомс 
+hit: равтомс	чавомс 
+strike: равтомс	чавомс 
+cut: керямс 
+hack: керямс 
+cut open: лазомс 
+split: лазомс 
+pierce: лазомс 
+stab: лазомс 
+scratch: раздемс 
+dig: чувомс 
+lie: аштемс	кенгелемс 
+lie down: аштемс	кенгелемс 
+tell lies: аштемс	кенгелемс 
+stand: аштемс 
+turn: пурдамс 
+turn around: пурдамс 
+turn round: пурдамс 
+drop: прамс 
+fall: прамс 
+grasp: кирдемс 
+hold: кирдемс 
+hold in arm: кирдемс 
+squeeze: лепштямс 
+wring: лепштямс 
+rub: ёзамс 
+wipe: нардамс 
+wash: муськемс	пезэмс	шлямс 
+wash clothes: муськемс	пезэмс	шлямс 
+pull: ускомс 
+push: тулкадемс 
+shove: тулкадемс 
+throw: ёртомс 
+bind: сюлмамс 
+fasten: сюлмамс 
+tie: сюлмамс 
+tie up: сюлмамс 
+sew: стамс 
+count: ловомс 
+enumerate: ловомс 
+number: ловомс 
+tally: ловомс 
+sing: морамс 
+have fun: налксемс 
+play: налксемс 
+float: уемс 
+flow: чудемс 
+freeze: кельмевтемс	кельмемс	эензамс 
+swell: таргозевемс 
+brook: лей 
+river: лей 
+stream: лей 
+lake: эрьке 
+ocean: иневедь 
+sea: иневедь 
+dust: пуль	чельке 
+fog: сув 
+sky: менель 
+snow: лов 
+ice: эй 
+blaze: паломс	пултамс 
+burn: паломс	пултамс 
+day: чи 
+daylight: чи 
+daytime: чи 
+old: сыре	ташто 
+bad: берянь 
+evil: берянь 
+rot: наксадо 
+rotten: наксадо 
+dirty: рудазов 
+filthy: рудазов 
+soiled: рудазов 
+straight: виде 
+sharp: пшти 
+blunt: ношка 
+smooth: валаня 
+damp: начко 
+wet: начко 
+correct: виде 
+right side: вить	вить кедь 
+left: керш	керш кедь 
+at: -кедьсэ	кедьсэ 
+in: потсо 
+inside: потсо 
+with: марто 
+and: ды 
+if: -ндеря-	бути 
+because: секс мекс 

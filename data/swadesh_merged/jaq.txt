@@ -1,0 +1,383 @@
+all: dom | dom	ndom 
+all: (n)dom | dom	ndom 
+arm: marap 
+arm: marap-keko 
+arm: marap-takere 
+ashes: pop 
+back: eme 
+back: yame 
+back: yomé 
+bark: rumb 
+belly: gandom | gandom	kandöm 
+belly: kandom | gandom	kandöm 
+belly: kandöm | gandom	kandöm 
+big: arepakat | arepakat	arepaqat	kambere 
+big: arepaqat | arepakat	arepaqat	kambere 
+big: beke(-end-p) | arepakat	arepaqat	kambere 
+big: kambere | arepakat	arepaqat	kambere 
+bird: petakaw | petakaw	petaqaw	peteru 
+bird: petaqaw | petakaw	petaqaw	peteru 
+bird: peteru | petakaw	petaqaw	peteru 
+bite: roboqòya 
+black: otop 
+blood: kab 
+bone: ia 
+boy: gani 
+boy: ma 
+boy: patur 
+branch: indo 
+breast: abur | abur	bob 
+breast: bob | abur	bob 
+brother: am 
+brother: anuma 
+brother: mön 
+brother: mön 
+burn: parade 
+butterfly: rur 
+calf: gujoy-ia 
+calf: moqoy 
+cassowary: kuyu 
+cheek: saxë 
+cheek: tak 
+cheek: taq 
+chest: bob 
+chest: bobe 
+child: maq 
+chin: rade 
+chin: ràép 
+cloud: teme 
+cold: gog | gog	kok 
+cold: kok | gog	kok 
+come: nam | nam	ouga 
+come: ouga | nam	ouga 
+crocodile: nango 
+dark: ut 
+daughter: taw-maq 
+day: ata 
+day: wayit 
+die: bepedua | bepedua	kuruk	qat-b- 
+die: kuruk | bepedua	kuruk	qat-b- 
+die: qat-b- | bepedua	kuruk	qat-b- 
+dig: kab 
+dog: ake | ake	kake	qake 
+dog: kake | ake	kake	qake 
+dog: qake | ake	kake	qake 
+dry: apopen | apopen	popör 
+dry: popör | apopen	popör 
+ear: mono 
+earth: mokon 
+earth: moqon 
+earth: nggan 
+eat: bae | bai	baé 
+eat: baé | bai	baé 
+eat: baé | bai	baé 
+eat: bai | bai	baé 
+egg: moka | moka	moko 
+egg: moko | moka	moko 
+elbow: kumbör 
+emu: kuyu 
+excrement: nao 
+eye: kind 
+eye: kiːnd | kind 
+eye: kind-aud 
+eye: kind-rumeti 
+face: nddinggaq 
+far: makon-pe | makon-pe	monepare	moqon-pe 
+far: monepare | makon-pe	monepare	moqon-pe 
+far: moqon-pe | makon-pe	monepare	moqon-pe 
+father: e 
+fat (n.): beke 
+feather: oa | oa	wa 
+feather: wa | oa	wa 
+fingernail: des 
+fingernail: ri 
+fire: reka 
+fish: yank 
+flower: mbay 
+fly (n.): ambuno 
+fly (n.): kumburum 
+fly (n.): umbelum 
+fly (v.): akek 
+fly (v.): per-akek 
+foot: ramu 
+forehead: ndinggaq 
+forehead: qobu 
+fruit: mbay 
+full: kopdak 
+full: kopdoq | kopdak 
+girl: ganu 
+girl: xòmbòg 
+give: panokon | panokon	ponogon	ponokon 
+give: ponogon | panokon	ponogon	ponokon 
+give: ponokon | panokon	ponogon	ponokon 
+good: baierep | baierep	b̋era̋p 
+good: bə-endəp | baierep	b̋era̋p 
+good: bʌ-endʌp | baierep	b̋era̋p 
+grass: aemer 
+guts: kandöm-aemör 
+guts: na 
+hair: jimis | muku-rumb	taker	ǯimis 
+hair: muku-rumb | muku-rumb	taker	ǯimis 
+hair: rumb | muku-rumb	taker	ǯimis 
+hair: rumb-taker | muku-rumb	taker	ǯimis 
+hair: taker | muku-rumb	taker	ǯimis 
+hand: marap | marap	marap-tekere 
+hand: marap(-tekere) | marap	marap-tekere 
+hand: yando | marap	marap-tekere 
+hand: yanduu-moka | marap	marap-tekere 
+head: muku | muku	pibə 
+head: pibë | muku	pibə 
+hear: bokoka | bokoka	bokoke 
+hear: bokoke | bokoka	bokoke 
+heart: akemok | akemok	aqameki 
+heart: aqameki | akemok	aqameki 
+heavy: yendakaw 
+he/she: arep 
+he/she: arup 
+hit: baka/qokom 
+hit: redak 
+hole: kop 
+hole: qop 
+house: ugi 
+house: uri 
+house: wuri 
+husband: nekem 
+I: anemai | anemai	anok 
+I: ano | anemai	anok 
+I: anok | anemai	anok 
+kill: boqo-baqa 
+knee: bik | yambu 
+knee: yambu 
+laugh: uanggerem 
+leaf: iri 
+leg: ramu 
+lie: poara 
+lie: -poën 
+lightning: pindid 
+lip: ete 
+lip: mighab 
+lip: rup 
+lip: ruvë 
+live: bapaqaem 
+liver: kapì 
+long: pearp | pearp	yearp 
+long: yearp | pearp	yearp 
+louse: nambun 
+man: rade | qana-qanak	rade 
+man: rade/wir | qana-qanak	rade 
+many: an-pade | an-pade	ari-pade 
+many: ari-pade | an-pade	ari-pade 
+meat: anim 
+meat: hwiir 
+meat: wir 
+meat: yaeketek 
+meat: yaéketek 
+meat: yanggo 
+moon: kamo | kamo	kamu 
+moon: kamu | kamo	kamu 
+morning: utarep 
+mosquito: nanggit 
+mosquito: nangid 
+mosquito: nangit 
+mother: kabexob 
+mother: vu 
+mother: (v)u 
+mouth: mem 
+name: ege | ege	eke 
+name: eke | ege	eke 
+nape: rob 
+navel: yando 
+navel: yandoao 
+near: domoqae 
+neck: naq | naq	rob 
+neck: rob | naq	rob 
+new: nokok 
+night: bibaxaik | bibaxaik	rira 
+night: rira | bibaxaik	rira 
+nose: samange | tamank	tamaŋ	tamaŋk 
+nose: tamang | tamank	tamaŋ	tamaŋk 
+nose: tamangk | tamank	tamaŋ	tamaŋk 
+not: bərakaə | bɣrakaɣ 
+not: bVrakaV | bɣrakaɣ 
+old: makati 
+old: mbaka 
+old: wamu 
+one: kakaimir | kakaimir	kayagamaere	wàshikè 
+one: kayaga- | kakaimir	kayagamaere	wàshikè 
+one: kayagamaere | kakaimir	kayagamaere	wàshikè 
+one: kayaqamaere | kakaimir	kayagamaere	wàshikè 
+person: qana-qanak | qana-qanak	rade 
+rain: akaid | akaid	aqayd 
+rain: aqayd | akaid	aqayd 
+red: enam | enam	kabobob 
+red: kabobob | enam	kabobob 
+red: kabokob | enam	kabobob 
+ripe: biaipaat 
+river: enem 
+road: yandoao 
+road: yanggor 
+root: kembe 
+rope: babuk 
+rope: kikiner 
+rope: rup 
+sand: gem akakay | gem akakay	gem-aqaqay 
+sand: gem aqaqal | gem akakay	gem-aqaqay 
+sand: gem-aqaqay | gem akakay	gem-aqaqay 
+say: baq | baq	tumi pak 
+say: tumi pak | baq	tumi pak 
+seed: mint 
+see: madi | madi	mat o. 
+see: mat o. (?) | madi	mat o. 
+short: domaque 
+shoulder: baqarumb 
+shoulder: kaki 
+sing: éb-péb 
+sister: mun 
+sister: owm 
+sit: kapiduk | kapiduk	pindok 
+sit: pindok | kapiduk	pindok 
+skin: rumb 
+sky: témé 
+sleep: kindan poen | kindan-poén	kinde-kapue 
+sleep: kindanpoén | kindan-poén	kinde-kapue 
+sleep: kindan-poén | kindan-poén	kinde-kapue 
+sleep: kinde-kapue | kindan-poén	kinde-kapue 
+small: …qae | rabai	rambakae	ːqae 
+small: rabai | rabai	rambakae	ːqae 
+small: rambakae | rabai	rambakae	ːqae 
+smoke: aku | aku	kku 
+smoke: kku | aku	kku 
+snake: ra 
+son: rade-maq 
+sour: mé 
+spit: dak 
+stand: arin 
+stand: bapagaém 
+stand: ira 
+star: mind | mind	xois 
+star: xois | mind	xois 
+stone: kor 
+straight: meteqor-in 
+sun: kapa | kapa	taba	tapak	tapaq 
+sun: taba | kapa	taba	tapak	tapaq 
+sun: tapak | kapa	taba	tapak	tapaq 
+sun: tapaq | kapa	taba	tapak	tapaq 
+swim: bagowk | bagowk	boqowk 
+swim: bokowk | bagowk	boqowk 
+swim: boqowk | bagowk	boqowk 
+tail: kende 
+tail: kendə | kende 
+tail: more | kende 
+take: boqon 
+that: kepede | kepede	kode 
+that: kode | kepede	kode 
+they: arip 
+thick: bebek 
+thigh: bi:k 
+think: bokoaeb 
+thin: ome 
+this: kede | kede	kude 
+this: kude | kede	kude 
+thorn: banëpi 
+thou: aeok | alo	aq	ox 
+thou: alo | alo	aq	ox 
+thou: aq | alo	aq	ox 
+thou: eox | alo	aq	ox 
+thou: ox | alo	aq	ox 
+throat: namu 
+thunder: teme 
+tie: abaqaqan 
+today: naqam 
+tomorrow: mam 
+tongue: inem | inem	inum 
+tongue: inum | inem	inum 
+tooth: manger | manger	maŋgat	maŋger 
+tooth: manggat | manger	maŋgat	maŋger 
+tooth: mangger | manger	maŋgat	maŋger 
+tooth: maŋger | manger	maŋgat	maŋger 
+tree: abo | de 
+tree: de 
+two: diakand | diakand	dikend	diqand	ókímà 
+two: diaqand | diakand	dikend	diqand	ókímà 
+two: dikend | diakand	dikend	diqand	ókímà 
+two: diqand | diakand	dikend	diqand	ókímà 
+vagina: io 
+vagina: yo 
+walk: riakak | riakak	roa 
+walk: roa | riakak	roa 
+walk: tek/éédek | riakak	roa 
+warm: kir 
+wash: baer_p 
+wash: kametae 
+water: mi | mi	muy 
+water: muy | mi	muy 
+water: qoq | mi	muy 
+weep: nama-pin 
+we: indok 
+what: kerok 
+white: tab | tab	wayu 
+white: wayu | tab	wayu 
+who: kerek 
+wife: nukum 
+wife: sa 
+wife: tai 
+wind: qoq | bereka	qoq	takre 
+wind: takre/bereka | bereka	qoq	takre 
+wing: gakui 
+wing: taf 
+wing: yakuwi 
+woman: dòxi | dòxi	taw	tay 
+woman: taw | dòxi	taw	tay 
+woman: taw/tay | dòxi	taw	tay 
+wood: de 
+yellow: ao | ao	keab 
+yellow: keab | ao	keab 
+you: aéòk | alo	aq	ox 
+you: agok | alo	aq	ox 
+you: eox | alo	aq	ox 
+every: dom	ndom 
+ash: pop 
+abdomen: gandom	kandöm 
+bigness: arepakat	arepaqat	kambere 
+large: arepakat	arepaqat	kambere 
+breasts: abur	bob 
+come from: nam	ouga 
+be dead: bepedua	kuruk	qat-b- 
+dead: bepedua	kuruk	qat-b- 
+fly: akek	per-akek 
+fly v.: akek	per-akek 
+left hand: marap	marap-tekere 
+right: marap	marap-tekere 
+1 sg.: anemai	anok 
+head louse: nambun 
+male: rade	wir 
+much: an-pade	ari-pade 
+multiple: an-pade	ari-pade 
+several: an-pade	ari-pade 
+title: ege	eke 
+nighttime: bibaxaik	rira 
+adulterous: kakaimir	kayagamaere	wàshikè 
+single: kakaimir	kayagamaere	wàshikè 
+the: kakaimir	kayagamaere	wàshikè 
+unprincipled: kakaimir	kayagamaere	wàshikè 
+human: qana-qanak	rade 
+human being: qana-qanak	rade 
+rainy weather: akaid	aqayd 
+hide: rumb 
+little: rabai	rambakae	ːqae 
+smallness: rabai	rambakae	ːqae 
+rock: kor 
+2 sg: alo	aq	ox 
+grind: diakand	dikend	diqand	ókímà 
+go: riakak	roa 
+hot: kir 
+1 pl. inc.: indok 
+we₁: indok 
+whiteness: tab	wayu 
+who?: kerek 
+female: dòxi	taw	tay 
+distant: makon-pe	monepare	moqon-pe 
+dull: yendakaw 
+serious: yendakaw 
+close: domoqae 
+ner: domoqae 

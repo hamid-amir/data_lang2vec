@@ -1,0 +1,317 @@
+all: kwaŋ	kwəŋ 
+every: kwaŋ	kwəŋ 
+ash: geedlə	gìiɮ 
+ashes: geedlə	gìiɮ 
+bark: koor pət	kòrî 
+big: daŋai	dəŋŋə̀y 
+bigness: daŋai	dəŋŋə̀y 
+large: daŋai	dəŋŋə̀y 
+bird: yaadli	yaɮɩ 
+bite: nyaŋsə	ɲaŋsu 
+black: dzuŋi	dzuŋì 
+blood: b3ran	buran	bəran	bɨ̀taːn 
+bone: golo	gooloo	gòlo 
+breast: neen	nen	ɲɩn 
+breasts: neen	nen	ɲɩn 
+claw: mbek 
+nail: mbek 
+talon: mbek 
+cloud: gajimaare	shaar leyam	vwə̀n	zunzuuru 
+cold: rəp shimti	sanyi	šɩmtɨ 
+come: rit	rɨɗɨ 
+come from: rit	rɨɗɨ 
+be dead: m3s	m3si	məs	məsi	mɨsɨ 
+dead: m3s	m3si	məs	məsi	mɨsɨ 
+die: m3s	m3si	məs	məsi	mɨsɨ 
+dog: yar	yer 
+drink: tlee	tl~e	ɬiyu 
+dry: kuuni 
+ear: k3m	kəəm	kə̀m 
+earth: atl	aːɬ 
+ground: atl	aːɬ 
+land: atl	aːɬ 
+soil: atl	aːɬ 
+eat: ci	ču 
+egg: mbwatl	mbwəɬ 
+eye: yiir	yir 
+feather: tsuruŋ 
+fire: wutu	wutù	wuutu 
+fish: geesi	gesi	gèzɨ 
+fly: tleda leyam 
+fly v.: tleda leyam 
+foot: asəm 
+full: k3mi	kəmi 
+give: buri	buɗu 
+good: mbon	ə̀rnvun 
+green: koore 
+hair: tsuruŋ	tsurùŋ 
+hand: aam	am 
+left hand: aam	am 
+right: aam	am 
+head: gaam	gavam 
+hear: wom	womu 
+heart: mbatl	nǯɩm 
+horn: mbee	mb~e	mvêy 
+1 sg.: am 
+I: am 
+kill: dzùwu	kashe 
+knee: gaam kwitlkən	gam	gam kuɬkɨn	kw~itl~k3n 
+be knowledgeable: nəmi	nɨm 
+know: nəmi	nɨm 
+leaf: wal	wəl 
+lie: məər	mɨrɨ 
+lie down: məər	mɨrɨ 
+liver: mbatl	mb~atl~	mbəɬ 
+long: zhaŋti	šə̀nti 
+head louse: kwarkwata	kw~arkw~ata 
+louse: kwarkwata	kw~arkw~ata 
+male: mani	mənì 
+man: mbaam	mbaːm	mb~am 
+many: ŋaar	ɨ̀rŋar 
+much: ŋaar	ɨ̀rŋar 
+multiple: ŋaar	ɨ̀rŋar 
+several: ŋaar	ɨ̀rŋar 
+flesh: sooka	ɬò 
+meat: sooka	ɬò 
+moon: car	čêr 
+hill: by~aN	goN	goŋ	tə̀t	ɓyaŋ	ɗee 
+mountain: by~aN	goN	goŋ	tə̀t	ɓyaŋ	ɗee 
+mouth: bii	bì 
+name: suŋ 
+title: suŋ 
+neck: yuwar	yuàr 
+new: m3ri	məri	mɨrì 
+night: fŭr	vor 
+nighttime: fŭr	vor 
+nose: Cin	cin	čìn 
+not: -rə̀ŋ 
+adulterous: b3gy~a	n3m	nɨ̀m 
+one: b3gy~a	n3m	nɨ̀m 
+single: b3gy~a	n3m	nɨ̀m 
+that: bəgyà 
+the: b3gy~a	n3m	nɨ̀m 
+unprincipled: b3gy~a	n3m	nɨ̀m 
+human: mbaam	mbaːm	mb~am 
+human being: mbaam	mbaːm	mb~am 
+person: mbaam	mbaːm	mb~am 
+rain: van 
+rainy weather: van 
+red: lagham	laghəmi	laɣàmi 
+path: cop	tsop 
+road: cop	tsop 
+route: cop	tsop 
+root: tler pət	tlertə pət 
+sand: nyaasən	ɲàzɩn 
+say: woli 
+see: yen	yenŭ 
+seed: batər	bə̀tɩr 
+sit: shik	šɩyɨn 
+hide: kur 
+skin: kur 
+sleep: yimbur	yɩ̀mbɨr 
+little: gəvì	gəɓi 
+small: gəvì	gəɓi 
+smallness: gəvì	gəɓi 
+smoke: kələm	kəlɨ̀m 
+star: taN3tl~3	taŋətlə	tənə̀ɬ 
+rock: tat	wuntàt 
+stone: tat	wuntàt 
+sun: pidi	piɗii	piɗɩ̀ 
+swim: dali maa 
+tail: tsər	tsɩr 
+this: bəgùn 
+2 sg: ki	kii 
+thou: ki	kii 
+you: ki	kii 
+tongue: 5atl~	nyatl	ny~atl~	ɲeɬ 
+tooth: Sen	shen	šɩ̀n 
+tree: p3t 
+grind: rop	rŏp	rǒp 
+two: rop	rŏp	rǒp 
+go: dəksə 
+walk: dəksə 
+hot: ŋaani 
+warm: ŋaani 
+water: ma	maa	mâ 
+1 pl. inc.: mi	mii 
+we: mi	mii 
+we₁: mi	mii 
+what: noghən no	nû 
+white: faali	vwə̀lì 
+whiteness: faali	vwə̀lì 
+who: geenəghənə	genà 
+who?: geenəghənə	genà 
+female: ger	gɩ̀r 
+woman: ger	gɩ̀r 
+yellow: maa mbetlim 
+distant: dleyam	ɮiyèm 
+far: dleyam	ɮiyèm 
+dull: ŋabɨrtɨ	ŋaɓər 
+heavy: ŋabɨrtɨ	ŋaɓər 
+serious: ŋabɨrtɨ	ŋaɓər 
+close: mat	mət 
+near: mat	mət 
+ner: mat	mət 
+salt: kwi 
+short: dəɣə̀y	ndəghei 
+snake: koŋkoŋ	šìši 
+thin: jalaŋlal	nə̀šəɣə̀y 
+wind: yatər	yàrɩr 
+earthworm: byamlak	šebɨ̀r 
+worm: byamlak	šebɨ̀r 
+year: shekaara	šèːkaràː 
+2 pl.: kii 
+ye: kii 
+you all: kii 
+3 pl.: wur 
+they: wur 
+here: sɨn 
+there: səɣa 
+where: ani	ənnì 
+where?: ani	ənnì 
+when: pìdbegì	te rəpni 
+when?: pìdbegì	te rəpni 
+how: nii ghənə	ɨrnî 
+how?: nii ghənə	ɨrnî 
+some: bəjən 
+few: gəp 
+three: meen	miyèn 
+four: woopsə	wupsɨ̀ 
+five: naamtam	nə̀mtəm 
+broad: ŋaləŋai	ŋɨlɨ̀ŋ 
+wide: ŋaləŋai	ŋɨlɨ̀ŋ 
+wideness: ŋaləŋai	ŋɨlɨ̀ŋ 
+fat: ɗogho 
+thick: tswa 
+narrow: maɓi 
+child: miir 
+principal wife: uwargida 
+wife: uwargida 
+husband: baa keen 
+his mother: dee	dìye 
+mother: dee	dìye 
+my mother: dee	dìye 
+father: baa	bă 
+his father: baa	bă 
+my father: baa	bă 
+animal: tloo	ɬo ɬɨ̀p 
+forest: zəŋəm	zɨŋŋɨ̀m 
+woods: zəŋəm	zɨŋŋɨ̀m 
+branch: aam pət	bə aam 
+stick: aam pət	bə aam 
+fruit: gər pət 
+flower: pas 
+grass: məi	mə̂y 
+cord: tler	ɬìyɨ̂r 
+rope: tler	ɬìyɨ̂r 
+grease: ɗogho 
+fingernail: mbek 
+leg: asəm	asɨ̀m 
+wing: bàɣəm	bəghəm 
+gut: wat	wət 
+guts: wat	wət 
+insides: wat	wət 
+intestine: wat	wət 
+intestines: wat	wət 
+back: kar 
+suck: ɓəəp 
+spit: topa 
+vomit: biighən 
+blow: fwaat	fwəɗɨn 
+breath: səghəntə 
+breathe: səghəntə 
+laugh: gaatlə 
+laughter: gaatlə 
+cogitate: sammani 
+reflect: sammani 
+think: sammani 
+smell: uusughi	wom ɨ̀sùwɨ̂n 
+sniff: uusughi	wom ɨ̀sùwɨ̂n 
+afraid: bərtə 
+be afraid: bərtə 
+fear: bərtə 
+fright: bərtə 
+alive: baltə	shik- 
+be alive: baltə	shik- 
+life: baltə	shik- 
+live: baltə	shik- 
+living: baltə	shik- 
+fight: dlaŋ	mə̀ŋti 
+hunt: gəɗɨm	ləəp 
+beat: dzu	dzùwu 
+hit: dzu	dzùwu 
+strike: dzu	dzùwu 
+cut: njaŋ	nženɨ̆ 
+hack: njaŋ	nženɨ̆ 
+cut open: vye rop 
+split: vye rop 
+pierce: ɓəŋ 
+stab: ɓəŋ 
+dig: kəptə	ɗok shuu	ɗoɣi 
+tell lies: loghabi	loɣovì 
+stand: dler 
+turn: ŋgwaktə 
+turn around: ŋgwaktə 
+turn round: ŋgwaktə 
+drop: nda	ndəw 
+fall: nda	ndəw 
+grasp: gubùn	guɓi 
+hold: gubùn	guɓi 
+hold in arm: gubùn	guɓi 
+squeeze: zho	žòwu 
+wring: zho	žòwu 
+rub: berrdlek	bəɗɩ 
+wipe: berrdlek	bəɗɩ 
+wash: fwap	fwəbɨn 
+wash clothes: fwap	fwəbɨn 
+push: tum 
+shove: tum 
+throw: ngərɨn	ŋgar 
+bind: ləŋ	lɨŋŋɨn 
+fasten: ləŋ	lɨŋŋɨn 
+tie: ləŋ	lɨŋŋɨn 
+tie up: ləŋ	lɨŋŋɨn 
+sew: rap	reɓɨn 
+count: dliim 
+enumerate: dliim 
+number: dliim 
+tally: dliim 
+sing: waasər 
+have fun: baatə	sur 
+play: baatə	sur 
+float: məər adan maa	tlet adanmaa 
+brook: sal	səl	ɗwaarə 
+river: sal	səl	ɗwaarə 
+stream: sal	səl	ɗwaarə 
+lake: bìŋgi	tapga 
+ocean: tapga maa 
+sea: tapga maa 
+dust: rum	ruŋ 
+fog: tùntulù	ɓwandi 
+sky: leyam	liyem 
+blaze: baɣã	cirəp 
+burn: baɣã	cirəp 
+day: piiɗi 
+daylight: piiɗi 
+daytime: piiɗi 
+bad: bəsi	bɩ̀sɨ̀mbam 
+evil: bəsi	bɩ̀sɨ̀mbam 
+rot: roos 
+rotten: roos 
+dirty: dusəkin	dzuntun	dzùntɨn 
+filthy: dusəkin	dzuntun	dzùntɨn 
+soiled: dusəkin	dzuntun	dzùntɨn 
+straight: təghei 
+sharp: ciighən 
+blunt: eeciiraŋ	ndus 
+smooth: mul 
+damp: dəghi 
+wet: dəghi 
+correct: deidei	tiktik 
+right side: shimlə	šɨmlɨ 
+left: kalaŋ	kàləŋ 
+in: a gip	gî 
+inside: a gip	gî 
+and: maa 
+if: an 
+because: sabo tee bə	waagii caa 

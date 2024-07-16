@@ -1,0 +1,318 @@
+all: iámendu 
+every: iámendu 
+ash: tʼupuri 
+ashes: tʼupuri 
+bark: chésï 
+abdomen: chopeorha	kʼuparata 
+belly: chopeorha	kʼuparata 
+big: kʼeri 
+bigness: kʼeri 
+large: kʼeri 
+bird: kuíni 
+bite: katsarhini 
+black: turhipiti 
+blood: iurhiri	iuriri	yuriri 
+bone: uni	úni 
+breast: kh~e5ekua	pexu	teru5ekua	terunikwa 
+breasts: kh~e5ekua	pexu	teru5ekua	terunikwa 
+cloud: janikua	xumarhu 
+cold: tsʼirakua 
+come: jurhani	xurani 
+come from: jurhani	xurani 
+be dead: uarhini	uarini	warini 
+dead: uarhini	uarini	warini 
+die: uarhini	uarini	warini 
+dog: uiCu	uíchu	wiCu 
+drink: ic3mani	xurhundini marhuatani 
+dry: kʼarhiri 
+ear: indi	kuc3kua	kuch~3kwa 
+earth: echeri 
+ground: echeri 
+land: echeri 
+soil: echeri 
+eat: tʼireni 
+egg: uaxanda 
+eye: eSkwa	eskua	éskua 
+feather: pʼunguari 
+fire: Cph~iri	Cpiri	Cupiri	chʼipiri	kuri 
+fish: kuruCa	kuruchi 
+fly: kárani 
+fly v.: kárani 
+foot: durha 
+full: uinimuni	uinirani	uiniri 
+give: íntspeni 
+good: sesi 
+green: xurhapiti 
+hair: jauiri 
+hand: xakh~i	xaxki 
+left hand: xakh~i	xaxki 
+right: xakh~i	xaxki 
+head: éjpu 
+hear: kurandirani	kurani	kurhanguni 
+heart: mintsita 
+horn: S3wankwa	s3uaNua	sïuangua 
+1 sg.: ji	xi 
+I: ji	xi 
+kill: uándikuni 
+knee: jurhintskua	xurhinckua	xurinCkwa 
+be knowledgeable: jorhenani	mítini 
+know: jorhenani	mítini 
+leaf: Ckh~uri	Ckuri	Sukuri	chukurhi 
+liver: tauas3	tauasï	tawaS3 
+long: iósti 
+head louse: ambus3	ambusï	ampuSi 
+louse: ambus3	ambusï	ampuSi 
+male: tʼarhe 
+man: achá	kh~uiripu	kuiripu	kwh~iripu 
+many: kánekua	sánderu	uáni 
+much: kánekua	sánderu	uáni 
+multiple: kánekua	sánderu	uáni 
+several: kánekua	sánderu	uáni 
+moon: kutsi 
+hill: juata	xuata 
+mountain: juata	xuata 
+mouth: penchumikua 
+name: arhiNakua	arhikuarhikua	arikuarekua	arikurikwa	xakaNurikua	xukaNurikua 
+title: arhiNakua	arhikuarhikua	arikuarekua	arikurikwa	xakaNurikua	xukaNurikua 
+neck: anhanchakua 
+new: jimbanhi	ximbaNi 
+night: Curikua	Curikwa	chúrekua 
+nighttime: Curikua	Curikwa	chúrekua 
+nose: uri	úrhi 
+not: asï	nómbe 
+adulterous: ma	má 
+one: ma	má 
+single: ma	má 
+that: inde 
+the: ma	má 
+unprincipled: ma	má 
+human: achá	kh~uiripu	kuiripu	kwh~iripu 
+human being: achá	kh~uiripu	kuiripu	kwh~iripu 
+person: achá	kh~uiripu	kuiripu	kwh~iripu 
+rain: janikua 
+rainy weather: janikua 
+red: charhapiti 
+path: SaNari	Sanaru	Sanharu	xanharu 
+road: SaNari	Sanaru	Sanharu	xanharu 
+route: SaNari	Sanaru	Sanharu	xanharu 
+root: sïrangua 
+round: uirhipiti 
+sand: kutsari 
+say: uandani 
+see: eSeni	eskani	exeni	iSeni 
+seed: tsikipu 
+sit: uaxakani 
+hide: s3kuiri	sïkuiri 
+skin: s3kuiri	sïkuiri 
+sleep: kʼuíni 
+little: sapi 
+small: sapi 
+smallness: sapi 
+smoke: itsutani 
+star: joskua	xosku	xoskua	xoskueCa 
+rock: cakapu	tsakapu 
+stone: cakapu	tsakapu 
+sun: jurhiata	xuriata	xuryata 
+swim: xarhiani 
+tail: chʼeti 
+this: antiku	arindi 
+2 sg: cha	th~u	tʼu 
+thou: cha	th~u	tʼu 
+you: cha	th~u	tʼu 
+tongue: katamba	kh~ath~ampa 
+tooth: S3ni	s3ni	sin 
+tree: a5atapu	aNatapu	anatapu	anhatapu 
+grind: ci-ma-ni	cimani	tsimani 
+two: ci-ma-ni	cimani	tsimani 
+go: xanharani 
+walk: xanharani 
+hot: tsándini 
+warm: tsándini 
+water: ic3	ich~3	itsï 
+1 pl. inc.: jucha	xuCa 
+we: jucha	xuCa 
+we₁: jucha	xuCa 
+what: ambe	eki	je 
+white: urapiti 
+whiteness: urapiti 
+who: né- 
+who?: né- 
+female: uarhi 
+woman: uarhi 
+yellow: tsïpambiti 
+distant: iauani 
+far: iauani 
+dull: kʼuetsapiti 
+heavy: kʼuetsapiti 
+serious: kʼuetsapiti 
+close: jimajku 
+near: jimajku 
+ner: jimajku 
+salt: itukua 
+short: axukata 
+snake: akuitsï 
+thin: tsʼauapiti 
+wind: tarhiata 
+earthworm: tsʼirakua 
+worm: tsʼirakua 
+year: uexurhini 
+3 sg.: ima 
+he: ima 
+she: ima 
+2 pl.: cha 
+ye: cha 
+you all: cha 
+3 pl.: tsï	tsïma 
+they: tsï	tsïma 
+here: axo	ixo 
+there: jima	jini 
+where: nani 
+where?: nani 
+when: eki	káni 
+when?: eki	káni 
+how: nana 
+how?: nana 
+some: máru 
+few: namunku	sáni 
+other: máteru 
+three: tani-mu	tanimu 
+four: tʰa-mu	tʼámu 
+five: iúmu	yu-mu 
+broad: kósti 
+wide: kósti 
+wideness: kósti 
+fat: tamakua 
+thick: tepari 
+narrow: no kósti 
+child: taki	uátsï 
+principal wife: témba 
+wife: témba 
+husband: uámba 
+his mother: amamba	nana 
+mother: amamba	nana 
+my mother: amamba	nana 
+father: tata	tatemba 
+his father: tata	tatemba 
+my father: tata	tatemba 
+animal: iurhutsï 
+forest: pʼukutapu 
+woods: pʼukutapu 
+branch: chʼikari 
+stick: chʼikari 
+fruit: amanhenchakua 
+flower: tsïtsïki 
+grass: uitsakua 
+cord: sïndari 
+rope: sïndari 
+flesh: kʼuiripeta 
+meat: kʼuiripeta 
+grease: tamakua 
+claw: téjki 
+fingernail: téjki 
+nail: téjki 
+leg: angajtakua 
+arm: jájki 
+wing: kʼexi	kʼexkua 
+gut: xarhameta 
+guts: xarhameta 
+insides: xarhameta 
+intestine: xarhameta 
+intestines: xarhameta 
+back: pexu 
+suck: itsuni	tsuparhini 
+spit: tʼuátani 
+vomit: jiuani 
+blow: pʼunitani 
+breath: jirestani 
+breathe: jirestani 
+laugh: terekurhini 
+laughter: terekurhini 
+cogitate: eratsini 
+reflect: eratsini 
+think: eratsini 
+smell: tʼunurhini 
+sniff: tʼunurhini 
+afraid: chéni 
+be afraid: chéni 
+fear: chéni 
+fright: chéni 
+alive: erekani 
+be alive: erekani 
+life: erekani 
+live: erekani 
+living: erekani 
+fight: uarhipeni 
+hunt: atani 
+beat: matani 
+hit: matani 
+strike: matani 
+cut: akuarhetani	pʼikuni 
+hack: akuarhetani	pʼikuni 
+cut open: arhukuni 
+split: arhukuni 
+lie: ichapini 
+lie down: ichapini 
+tell lies: ichapini 
+grasp: angaxurhini 
+hold: angaxurhini 
+hold in arm: angaxurhini 
+squeeze: antsiakuni 
+wring: antsiakuni 
+rub: atarheni 
+wipe: atarheni 
+wash: jupani 
+wash clothes: jupani 
+pull: antsikuni	antsitani 
+push: pájtamani 
+shove: pájtamani 
+throw: kʼuanikuni	tsïtani 
+bind: tepeni 
+fasten: tepeni 
+tie: tepeni 
+tie up: tepeni 
+sew: sïrikuni 
+count: arhijpeni	miiuni 
+enumerate: arhijpeni	miiuni 
+number: arhijpeni	miiuni 
+tally: arhijpeni	miiuni 
+sing: pireni 
+have fun: chʼanani 
+play: chʼanani 
+freeze: iauani 
+brook: iurhekua 
+river: iurhekua 
+stream: iurhekua 
+lake: japunda 
+ocean: japunda kʼeri 
+sea: japunda kʼeri 
+dust: tʼupuri 
+fog: xuma 
+sky: auanda 
+snow: iéjta 
+ice: iauakua 
+blaze: aparheni 
+burn: aparheni 
+day: jurhiakua 
+daylight: jurhiakua 
+daytime: jurhiakua 
+old: tamapu	tʼarhe 
+bad: chʼamachamasï 
+evil: chʼamachamasï 
+rot: puri	tereri 
+rotten: puri	tereri 
+dirty: kʼeresï 
+filthy: kʼeresï 
+soiled: kʼeresï 
+straight: jurhimbiti 
+sharp: ambamusku 
+damp: kuakari 
+wet: kuakari 
+correct: jurhimbiku	maku jakukata	sesï jarhani 
+right side: jurhimbiti 
+left: uikixu 
+in: inchareni 
+inside: inchareni 
+with: jingoni 
+and: ka 
+if: kʼuaniaka 
+because: jimboka 

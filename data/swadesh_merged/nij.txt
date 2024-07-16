@@ -1,0 +1,266 @@
+all: uras	urasʼh 
+every: uras	urasʼh 
+ash: kawu	kawuʔ 
+ashes: kawu	kawuʔ 
+abdomen: kamaiʼ	kanai	ɛlɛm 
+belly: kamaiʼ	kanai	ɛlɛm 
+big: hai	haiʼ	haɛʔ 
+bigness: hai	haiʼ	haɛʔ 
+large: hai	haiʼ	haɛʔ 
+bird: burung	burunq	buruŋ 
+bite: mamakit	mamangkit	mangirut	manqirut 
+black: babilem	bailɛm	bilem 
+blood: daha	dahaʔ	dahaʼ 
+bone: tulang	tulaŋ 
+breast: tusu	tusuʔ 
+breasts: tusu	tusuʔ 
+burn: bakehu	mamapoi	mapui 
+burn tr.: bakehu	mamapoi	mapui 
+cloud: baun andau	baun andaw	baunandau 
+cold: sadingen	sadinqim	saŋɛŋɛm 
+come: dumah 
+come from: dumah 
+be dead: matei	matɛi	nihaw 
+dead: matei	matɛi	nihaw 
+die: matei	matɛi	nihaw 
+dog: asu	asuʔ 
+drink: mihup	ŋihup 
+dry: keang	kekei	keyang	mangekei	tɛyah 
+ear: pinding	pindinq	pindiŋ 
+eat: kuman 
+egg: katɛʔ	tanteluh 
+eye: mata	mataʼ	mate	matɛʔ 
+feather: bulu	bulun burung	bulun manuk	buluʔ 
+fire: apoi	apui 
+fish: laok	lauk 
+fly: tarawang	tarawanq	tarawaŋ 
+fly v.: tarawang	tarawanq	tarawaŋ 
+good: bahalap	lamus 
+green: bahijau	bahiǰau	hijaw 
+hair: balau	balaw 
+hand: lenge	lengeʼ	lɛŋɛʔ 
+left hand: lenge	lengeʼ	lɛŋɛʔ 
+right: lenge	lengeʼ	lɛŋɛʔ 
+head: kuluk	takuluk 
+hear: hɛniŋ	mahining	manyeneh 
+1 sg.: ako	aku	yakuʔ 
+I: ako	aku	yakuʔ 
+kill: mampatei	mapatɛi	patei 
+be knowledgeable: katawam	katawaʼa	tawan 
+know: katawam	katawaʼa	tawan 
+leaf: dawen	dawɛn 
+lie: galiŋ	penter 
+lie down: galiŋ	penter 
+liver: atei	atɛi 
+long: panjang	pañǰaŋ 
+head louse: guti	gutiʼ	qutiʔ 
+louse: guti	gutiʼ	qutiʔ 
+male: hatue	hatueʼ	hətuɛʔ 
+man: uluh	ulun	ulun kalunen 
+moon: bulan 
+mouth: nyama	ñawɛʔ 
+name: aran	ŋaran 
+title: aran	ŋaran 
+neck: uyat 
+new: haru	taheta	tahɛtaʔ 
+night: alem	hamalem	hamalɛm 
+nighttime: alem	hamalem	hamalɛm 
+nose: urung	uruŋ 
+adulterous: icɛʔ	ije	ijeʼ	ijɛ’ 
+one: icɛʔ	ije	ijeʼ	ijɛ’ 
+single: icɛʔ	ije	ijeʼ	ijɛ’ 
+that: jeteʼ	te	ǰiɛʔ 
+the: icɛʔ	ije	ijeʼ	ijɛ’ 
+unprincipled: icɛʔ	ije	ijeʼ	ijɛ’ 
+human: uluh	ulun	ulun kalunen 
+human being: uluh	ulun	ulun kalunen 
+person: uluh	ulun	ulun kalunen 
+rain: ujam	ujan	učam 
+rainy weather: ujam	ujan	učam 
+red: bahandang	bahandaŋ	randang 
+path: karatak	karataktanduhan 
+road: karatak	karataktanduhan 
+route: karatak	karataktanduhan 
+root: uhat	uhat kayu 
+sand: baras	pasir 
+say: hamauh	kuan 
+see: gite	manampayah	miteʼ	nampayah	payah	ŋitɛʔ 
+sit: munduk 
+hide: upak 
+skin: upak 
+sleep: batiruh	tiruh 
+little: kurik 
+small: kurik 
+smallness: kurik 
+smoke: asep	asɛp 
+star: bintang	bitaŋ	metuʼ 
+rock: batu	batuʔ	rangan 
+stone: batu	batuʔ	rangan 
+swim: hanangoi	hanangui	hanaŋui 
+tail: ikoh	ikuh 
+this: jetuh	tuh	ǰituh 
+2 sg: ikau 
+thou: ikau 
+you: ikau 
+tongue: ielaʼ	jela	ǰelaʔ 
+tooth: kasinga	kasiŋaʔ 
+grind: due	dueʼ	duɛʔ	duɛ’ 
+two: due	dueʼ	duɛʔ	duɛ’ 
+go: mamanjung	mananjung	mananjuŋ 
+walk: mamanjung	mananjung	mananjuŋ 
+hot: balasut	lasu-lasut 
+warm: balasut	lasu-lasut 
+water: danum 
+1 pl. inc.: ikei	ikɛi	itah	itaʔ 
+we: ikei	ikɛi	itah	itaʔ 
+we₁: ikei	ikɛi	itah	itaʔ 
+what: narai 
+white: baputiʔ	baputiʼ	puti 
+whiteness: baputiʔ	baputiʼ	puti 
+who: aweh	eweh	ɛwɛi 
+who?: aweh	eweh	ɛwɛi 
+female: bawi	bawiʼ 
+woman: bawi	bawiʼ 
+yellow: bahenda	bahendaʼ	bahɛndaʔ 
+distant: kejau	kejaw	kɛčau 
+far: kejau	kejaw	kɛčau 
+dull: babehat	babehat tutu	babɛhat	jia lalaw babehat	pire ehatʼh tu te 
+heavy: babehat	babehat tutu	babɛhat	jia lalaw babehat	pire ehatʼh tu te 
+serious: babehat	babehat tutu	babɛhat	jia lalaw babehat	pire ehatʼh tu te 
+close: daniʔ	tukep 
+near: daniʔ	tukep 
+ner: daniʔ	tukep 
+salt: uyah 
+short: pandak 
+snake: handipe	handipeʼ	handipɛʔ 
+thin: bampis	banipis	tipis 
+wind: aŋin	riwut 
+earthworm: handalai	lukɛŋ 
+worm: handalai	lukɛŋ 
+year: nyelu	ñɛluʔ 
+2 pl.: ikam	ikau kau	ketun handiai 
+ye: ikam	ikau kau	ketun handiai 
+you all: ikam	ikau kau	ketun handiai 
+3 pl.: ewen	lusɛʔ 
+they: ewen	lusɛʔ 
+where: hunq kueh	kuweh	naŋquhsuwɛi 
+where?: hunq kueh	kuweh	naŋquhsuwɛi 
+when: hamanɛn	hamparea	hampareaʼ	pea 
+when?: hamanɛn	hamparea	hampareaʼ	pea 
+how: kilenampi	mbuhen	pire kare	pire katahieʼh	pire rega	ɛnarak 
+how?: kilenampi	mbuhen	pire kare	pire katahieʼh	pire rega	ɛnarak 
+other: beken	bɛkɛn	je beken 
+three: telu	teluʼ	tɛluʔ	tɛlɔ’ 
+four: epat	ɛpat 
+five: lime	limɛ’ 
+broad: lebar	lumbah 
+wide: lebar	lumbah 
+wideness: lebar	lumbah 
+fat: enyak	eñak 
+thick: bakapal	tabal 
+narrow: lalau kurik	seke	sɛpit 
+principal wife: sawa	sawai 
+wife: sawa	sawai 
+husband: bana	banai 
+his mother: indang	indaŋ	indu	umai 
+mother: indang	indaŋ	indu	umai 
+my mother: indang	indaŋ	indu	umai 
+father: apang	apanq	bapa	yapaŋ	ñapaŋ 
+his father: apang	apanq	bapa	yapaŋ	ñapaŋ 
+my father: apang	apanq	bapa	yapaŋ	ñapaŋ 
+forest: himba	himbaʔ	padang kayu	parak kayu	parak-kayu 
+woods: himba	himbaʔ	padang kayu	parak kayu	parak-kayu 
+branch: daan	edam	edan 
+stick: daan	edam	edan 
+fruit: bua	buaʔ	buaʼ 
+flower: kambang	kambanq	kanbaŋ 
+grass: ruput	uru	uruʼ 
+cord: tali	taliʔ 
+rope: tali	taliʔ 
+flesh: daging	esiʔ	isi 
+meat: daging	esiʔ	isi 
+grease: enyak	eñak 
+wing: palapas 
+gut: bajakah kamaiʼ	bajakah kanai	suaŋ ɛlɛm 
+guts: bajakah kamaiʼ	bajakah kanai	suaŋ ɛlɛm 
+insides: bajakah kamaiʼ	bajakah kanai	suaŋ ɛlɛm 
+intestine: bajakah kamaiʼ	bajakah kanai	suaŋ ɛlɛm 
+intestines: bajakah kamaiʼ	bajakah kanai	suaŋ ɛlɛm 
+back: likur	likut 
+suck: maŋusɛp	minyop	minyup 
+spit: maluja	maluyah	maluěaʔ 
+vomit: muta	mutaʼ	ŋutaʔ 
+blow: hariwut	himun	mahambus	mahimun 
+breath: mahaseng	manahaseng	nahasɛn 
+breathe: mahaseng	manahaseng	nahasɛn 
+laugh: tatawe	tataweʼ	tatawɛʔ 
+laughter: tatawe	tataweʼ	tatawɛʔ 
+cogitate: bapikir	tiruk 
+reflect: bapikir	tiruk 
+think: bapikir	tiruk 
+smell: mambewau	manyingut	manyium	mañimak	singut 
+sniff: mambewau	manyingut	manyium	mañimak	singut 
+afraid: mikeh	mikɛh 
+be afraid: mikeh	mikɛh 
+fear: mikeh	mikɛh 
+fright: mikeh	mikɛh 
+alive: balum-barigas	belum	bɛlum 
+be alive: balum-barigas	belum	bɛlum 
+life: balum-barigas	belum	bɛlum 
+live: balum-barigas	belum	bɛlum 
+living: balum-barigas	belum	bɛlum 
+hunt: mahurung	mandup	manyelek	maŋandup	mengan	mimpa 
+beat: mamaruk	mamukul	mangkong	melang	metoppetop 
+hit: mamaruk	mamukul	mangkong	melang	metoppetop 
+strike: mamaruk	mamukul	mangkong	melang	metoppetop 
+cut: manetek	manɛtɛk	netek 
+hack: manetek	manɛtɛk	netek 
+cut open: mamɛta	manyila	nyila 
+split: mamɛta	manyila	nyila 
+pierce: manyuduk	mañuduk	munu	nyuduk 
+stab: manyuduk	mañuduk	munu	nyuduk 
+scratch: manggaruk	manggayaw	manqqayau	maŋgayuʔ 
+dig: mangali	manqali	maŋali 
+stand: mendeng	mɛndɛŋ 
+drop: balawuʔ	manjatu	manjatuʼ 
+fall: balawuʔ	manjatu	manjatuʼ 
+grasp: imbing	mahɛnbiŋ	mimbing 
+hold: imbing	mahɛnbiŋ	mimbing 
+hold in arm: imbing	mahɛnbiŋ	mimbing 
+squeeze: hamis	hamɛs	mahamis	micik 
+wring: hamis	hamɛs	mahamis	micik 
+throw: manjakah	mañakah	medak 
+bind: mameteng	mamɛtɛŋ	manjarat	me-teng	nali 
+fasten: mameteng	mamɛtɛŋ	manjarat	me-teng	nali 
+tie: mameteng	mamɛtɛŋ	manjarat	me-teng	nali 
+tie up: mameteng	mamɛtɛŋ	manjarat	me-teng	nali 
+sew: mananǰut	mitur	mitur[mamitur] 
+count: ise	maniŋgap	mise	miseʼ 
+enumerate: ise	maniŋgap	mise	miseʼ 
+number: ise	maniŋgap	mise	miseʼ 
+tally: ise	maniŋgap	mise	miseʼ 
+flow: mahasur 
+lake: damau	danau 
+ocean: laut	tasik 
+sea: laut	tasik 
+dust: kawu	kawuʔ	kawuʼ 
+fog: ambun	ba ambun	hasep	hawun 
+sky: langit	laŋit 
+bad: karam	papa	papaʼ	taluh papa 
+evil: karam	papa	papaʼ	taluh papa 
+rot: babasi	baliat	karam	karetap	maram	rebuk 
+rotten: babasi	baliat	karam	karetap	maram	rebuk 
+dirty: halikɛʔ	papa	papaʼ 
+filthy: halikɛʔ	papa	papaʼ 
+soiled: halikɛʔ	papa	papaʼ 
+sharp: banyihi	batajim	bañɛhi 
+blunt: badul	bakačil	batumpul	tumpul 
+damp: bisa	bisaʔ	bisaʼ 
+wet: bisa	bisaʔ	bisaʼ 
+right side: gamtawuʼ	gantau	gantauʔ 
+left: sambil 
+at: hung	naŋguh 
+in: huang	hung huang	naŋguh suaŋ 
+inside: huang	hung huang	naŋguh suaŋ 
+and: en	tuntang	tutaŋ 
+if: amun	jaka 

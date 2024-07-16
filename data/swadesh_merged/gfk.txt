@@ -1,0 +1,133 @@
+all: diat 
+every: diat 
+ash: kabus 
+ashes: kabus 
+abdomen: bala 
+belly: bala 
+big: tamaru	tamat 
+bigness: tamaru	tamat 
+large: tamaru	tamat 
+bird: man 
+bite: karat 
+black: bungbung 
+blood: gap 
+bone: sur 
+breast: sus 
+breasts: sus 
+burn: halo	halulungo 
+burn tr.: halo	halulungo 
+cloud: bahuto	bakut 
+cold: madohon 
+come: mai 
+come from: mai 
+be dead: mat 
+dead: mat 
+die: mat 
+dog: pap 
+drink: mom 
+dry: mamasa 
+ear: taliNa	talinga 
+eat: ian 
+egg: kiau	tulur 
+eye: mata 
+feather: hina 
+fire: iah 
+fish: kirip 
+fly: pupungo 
+fly v.: pupungo 
+good: tahut 
+hair: hi 
+hand: lima 
+left hand: lima 
+right: lima 
+head: ulu 
+hear: hadade 
+1 sg.: iau 
+I: iau 
+kill: bubing 
+be knowledgeable: minonas 
+know: minonas 
+leaf: pakan 
+lie: noh napu 
+lie down: noh napu 
+liver: kat 
+long: taltalona 
+head louse: ut 
+louse: ut 
+male: tunan 
+man: tunatuno 
+moon: teka 
+mouth: ha 
+name: hinsaN	hinsang 
+title: hinsaN	hinsang 
+new: sigarine 
+night: buN	bung 
+nighttime: buN	bung 
+nose: NarNar	ngarngar 
+adulterous: tikai 
+one: tikai 
+single: tikai 
+that: kano	kanong 
+the: tikai 
+unprincipled: tikai 
+human: tunatuno 
+human being: tunatuno 
+person: tunatuno 
+rain: bata 
+rainy weather: bata 
+red: dardaran 
+path: Nas	ngas 
+road: Nas	ngas 
+route: Nas	ngas 
+root: bolai 
+sand: haiahoia	wana 
+say: ianga	tange 
+see: nes 
+sit: kis 
+hide: palina 
+skin: palina 
+sleep: kubaba	noh 
+little: hansik	natine 
+small: hansik	natine 
+smallness: hansik	natine 
+smoke: mis 
+rock: hat 
+stone: hat 
+swim: ias 
+tail: lapin 
+this: iakau	kan	kanin 
+tongue: karane 
+tooth: Nise	ngise 
+grind: airuo 
+two: airuo 
+go: han 
+walk: han 
+hot: mamahien 
+warm: mamahien 
+water: tah 
+1 pl. inc.: dahat	et	mehet 
+we: dahat	et	mehet 
+we₁: dahat	et	mehet 
+what: asa	sa 
+white: palpalan	ponpon 
+whiteness: palpalan	ponpon 
+who: si	sige 
+who?: si	sige 
+female: hahin 
+woman: hahin 
+distant: helik	tapaka 
+far: helik	tapaka 
+dull: tirih 
+heavy: tirih 
+serious: tirih 
+close: hutet 
+near: hutet 
+ner: hutet 
+salt: tes 
+short: kumkum 
+snake: sui 
+thin: siro|na 
+wind: dadaip 
+earthworm: kalola 
+worm: kalola 
+year: tinohon 

@@ -1,0 +1,335 @@
+all: tuttu 
+and: e 
+animal: armalu | armali	armalu 
+at: a 
+bad: malu, tintu | malu	tintu 
+because: pirchì | picchì 
+big: rossu, ranni | granni 
+bird: aceddu | aceddu	acieddu 
+black: niuru | nìuru	nìvuru 
+blood: sangu | saNgu	sangu 
+bone: ossu | ossu	osu 
+breast: minne | mina	pettu	petu 
+child: picciriddu 
+cold: friddu | friddu	frìddu 
+come: véniri | veniri	viniri	vièniri	vèniri 
+count: cuntari | cuntari	cuntàri 
+cut: tagghiari | tagghiari	tagghiàri 
+day: jornu | jornu	jurnu 
+die: móriri, muriri | moriri	muriri	mòriri 
+dirty: lordu, fitusu | lordu	lurdu 
+dog: cani | cani	kani 
+drink: bíviri | biviri	bìviri	vippita	vìviri 
+ear: séntiri, ascutari | aricchia	arìcchi	auricchia	orikia 
+eat: manciari | manciari	manciàri	pistiari 
+egg: ovu 
+eye: occhiu | occhiu	okiu 
+far: luntanu 
+father: patri 
+few: picca | picca	pocu 
+fingernail: ugna | ugna	ugnu	ungja 
+fire: focu | focu	foku 
+fish: pisci | peSi	piSi	pisci 
+five: cincu | cincu	cinqu 
+flower: xuri | ciuri 
+fly (v.): vulari 
+fog: negghia 
+foot: pedi 
+four: quattru | quattru	quaṭṭru 
+fruit: fruttu | frutta	fruttu 
+full: chinu | Cinu	chinu	saciu 
+give: dari | dari	rari 
+good: bonu 
+grass: erva | erva	èrba 
+green: virdi 
+hair: capiddi | capiddi	capiddu 
+hand: manu 
+head: testa | capu	testa 
+hear: séntiri, ascutari | ascutari	sentiri	sièntiri	sèntiri 
+heart: cori 
+heavy: pisanti 
+he: iddu 
+here: cca | ccani	ccà 
+how: comu 
+husband: maritu 
+ice: ghiacciu 
+if: si 
+I: Iu, Jo, Eu | eu	iu	jo	joni	ju 
+kill: ammazzari | accìdiri	ammazzari 
+knee: dinocchiu | dinocchiu	dinokiu	jinocchiu	rinocchiu 
+know: canúsciri | sapiri 
+lake: lacu 
+left: sinistra | manca 
+liver: fícatu | fecatu	fiCatu	fìcatu 
+man: omu | cristianu	omu	pirsuna 
+many: assai | assai	assài	tantu	troppu 
+moon: luna 
+mother: matri 
+mountain: muntagna | munta5a	muntagna 
+name: nomi | nomi	nomu 
+near: vicinu 
+neck: coddu | coddu	collu 
+new: novu 
+night: notti | noti	notti 
+nose: nasca | naska	nasu 
+not: nun | no	noni	nun 
+old: vecchiu | vecchiu	viecchju 
+one: unu 
+other: áutru | avutru	àutru 
+person: pirsuna | cristianu	omu	pirsuna 
+play: jucari | giucari	jucari 
+pull: tirari | tirari	tiràri 
+push: spínciri | ammuttari	ammuttàri	spìnciri 
+rain: chióviri | acqua	chioggia 
+red: russu 
+right: destra | manu | destra	dritta 
+river: xumi | ciumi	ciùmi 
+road: strata | dromu	rua	strata	via	vinedda	vìa 
+sand: rina 
+sea: mari 
+see: vídiri | vidiri	virìri	vìdiri 
+short: curtu 
+sing: cantari | cantari	cantàri 
+sit: assittárisi | assittari	assittàrisi 
+skin: peddi | peddi	pedi 
+sky: celu | celu	cèlu 
+sleep: dórmiri | dòrmiri 
+small: nicu | nicu	picciriddu 
+smoke: fumari | fumu 
+snow: nivi 
+star: stidda | stida	stidda 
+stone: petra | petra	pètra 
+straight: rittu | dirittu	drittu	rittu 
+suck: sucari 
+sun: suli 
+swim: natari 
+that: chiddu | unu 
+there: dda | ddani	ddocu	dduocu	ddà 
+they: iddi 
+think: pinzari | cririri	pinzari 
+thin: siccu | finu	màuru	siccu	suttili 
+this: chistu 
+three: tri | tri	ṭṛi 
+tongue: lingua | liNw~a	lingua 
+tree: árbulu | arbulu	chianta	àrbiru	àrbulu	àrburu	àrvulu	àrvuru 
+turn: vutari | girari	vutari 
+two: dui | du	dui	dù	rui 
+vomit: lanzu | ruvisciari	vumitari 
+walk: caminari 
+warm: caudu | càudu	càvuru 
+wash: puliziari | lavari 
+water: acqua | acqua	akw~a 
+we: nuautri | nuautri	nuàutri 
+when: quannu | quannu	quànnu 
+where: unni 
+who: cu | cu	cui 
+wife: mugghieri 
+wind: ventu 
+with: cu 
+woman: fimmina | fimmina	fìmmina 
+year: annu 
+yellow: giarnu | giallu	giarnu 
+you: tu | Vossìa	tu	tuni | vuàutri 
+every: tuttu 
+ash: cìnniri 
+ashes: cìnniri 
+bark: scorcia 
+abdomen: panza 
+belly: panza 
+bigness: granni 
+large: granni 
+bite: muzzicari	muzzicàri 
+breasts: mina	pettu	petu 
+cloud: nèula	nùvula 
+come from: veniri	viniri	vièniri	vèniri 
+be dead: moriri	muriri	mòriri 
+dead: moriri	muriri	mòriri 
+dry: asciuttu	siccu 
+earth: terra	tèrra 
+ground: terra	tèrra 
+land: terra	tèrra 
+soil: terra	tèrra 
+feather: pinna 
+fly: vulari 
+fly v.: vulari 
+left hand: manu 
+horn: cornu	kornutu 
+1 sg.: eu	iu	jo	joni	ju 
+be knowledgeable: sapiri 
+leaf: fogghia	fogia 
+long: longu 
+head louse: pidocchiu	pirocchiu 
+louse: pidocchiu	pirocchiu 
+male: màsculu	omu 
+much: assai	assài	tantu	troppu 
+multiple: assai	assài	tantu	troppu 
+several: assai	assài	tantu	troppu 
+hill: munta5a	muntagna 
+mouth: bucca	vucca 
+title: nomi	nomu 
+nighttime: noti	notti 
+adulterous: unu 
+single: unu 
+the: unu 
+unprincipled: unu 
+human: cristianu	omu	pirsuna 
+human being: cristianu	omu	pirsuna 
+rainy weather: acqua	chioggia 
+path: dromu	rua	strata	via	vinedda	vìa 
+route: dromu	rua	strata	via	vinedda	vìa 
+root: rarica	ràdica 
+round: tunnu 
+say: diri	dìciri	riri 
+seed: semenza	simenza 
+hide: peddi	pedi 
+little: nicu	picciriddu 
+smallness: nicu	picciriddu 
+rock: petra	pètra 
+tail: cuda	cura 
+2 sg: Vossìa	tu	tuni 
+thou: Vossìa	tu	tuni 
+tooth: denti	renti 
+grind: du	dui	dù	rui 
+go: caminari 
+hot: càudu	càvuru 
+1 pl. inc.: nuautri	nuàutri 
+we₁: nuautri	nuàutri 
+what: chi	’nsòccu 
+white: biàncu	jancu	viàncu 
+whiteness: biàncu	jancu	viàncu 
+who?: cu	cui 
+female: fimmina	fìmmina 
+distant: luntanu 
+dull: pisanti 
+serious: pisanti 
+close: vicinu 
+ner: vicinu 
+salt: sali 
+snake: serpi	sirpenti 
+earthworm: vermi	vermu 
+worm: vermi	vermu 
+3 sg.: iddu 
+she: iddu 
+2 pl.: vuàutri 
+ye: vuàutri 
+you all: vuàutri 
+3 pl.: iddi 
+where?: unni 
+when?: quannu	quànnu 
+how?: comu 
+some: quarchi	quàlchi 
+broad: anchiu	largu	làrgu	làricu 
+wide: anchiu	largu	làrgu	làricu 
+wideness: anchiu	largu	làrgu	làricu 
+fat: grassu	sivu 
+thick: largu	nfutu 
+narrow: strittu 
+principal wife: mugghieri 
+his mother: matri 
+my mother: matri 
+his father: patri 
+my father: patri 
+forest: furesta	voscu 
+woods: furesta	voscu 
+branch: bastuni	vastuni 
+stick: bastuni	vastuni 
+cord: corda 
+rope: corda 
+flesh: carni 
+meat: carni 
+grease: grassu	sivu 
+claw: ugna	ugnu	ungja 
+nail: ugna	ugnu	ungja 
+leg: gamma	jamma 
+arm: manu 
+wing: ala 
+gut: budeddu	vudeddu	vureddu 
+guts: budeddu	vudeddu	vureddu 
+insides: budeddu	vudeddu	vureddu 
+intestine: budeddu	vudeddu	vureddu 
+intestines: budeddu	vudeddu	vureddu 
+back: schina	schinu 
+spit: sputari	sputazzari 
+blow: ciuciari	sciusciari 
+breath: ciatari	rispirari	sciatàri 
+breathe: ciatari	rispirari	sciatàri 
+laugh: arrìdiri	rìdiri 
+laughter: arrìdiri	rìdiri 
+cogitate: cririri	pinzari 
+reflect: cririri	pinzari 
+smell: ciaurari	sciaràri 
+sniff: ciaurari	sciaràri 
+afraid: scantari	scantàrisi 
+be afraid: scantari	scantàrisi 
+fear: scantari	scantàrisi 
+fright: scantari	scantàrisi 
+alive: campari	vìviri 
+be alive: campari	vìviri 
+life: campari	vìviri 
+live: campari	vìviri 
+living: campari	vìviri 
+fight: cummàttiri 
+hunt: cacciari 
+beat: affirari	cafuddari	cafuddàri 
+hit: affirari	cafuddari	cafuddàri 
+strike: affirari	cafuddari	cafuddàri 
+hack: tagghiari	tagghiàri 
+cut open: spartìri	spàrtiri 
+split: spartìri	spàrtiri 
+pierce: pugnalari	tagghiari 
+stab: pugnalari	tagghiari 
+scratch: ciunnàri	graffiari	sgaggiari 
+dig: scavari 
+lie: curcari	curcàrisi 
+lie down: curcari	curcàrisi 
+tell lies: curcari	curcàrisi 
+stand: stari 
+turn around: girari	vutari 
+turn round: girari	vutari 
+drop: càdiri	càriri	sdirupari 
+fall: càdiri	càriri	sdirupari 
+grasp: tèniri 
+hold: tèniri 
+hold in arm: tèniri 
+squeeze: sprèmiri 
+wring: sprèmiri 
+rub: stricari 
+wipe: asciucari	asciucàri 
+wash clothes: lavari 
+shove: ammuttari	ammuttàri	spìnciri 
+throw: ghiavari	jiccari	jittari 
+bind: attaccari	ligari	lijari 
+fasten: attaccari	ligari	lijari 
+tie: attaccari	ligari	lijari 
+tie up: attaccari	ligari	lijari 
+sew: cùsiri 
+enumerate: cuntari	cuntàri 
+number: cuntari	cuntàri 
+tally: cuntari	cuntàri 
+have fun: giucari	jucari 
+float: galleggiari	galliggiari 
+flow: scùrriri 
+freeze: agghilari	gilàri	jilari 
+swell: usciari	vunchiari	vunciàri 
+brook: ciumi	ciùmi 
+stream: ciumi	ciùmi 
+ocean: mari 
+dust: purvirazzu	pùrviri 
+blaze: abbruciari	abbruciàri 
+burn: abbruciari	abbruciàri 
+daylight: jornu	jurnu 
+daytime: jornu	jurnu 
+evil: malu	tintu 
+rot: fràcidu	purritu	purrìtu 
+rotten: fràcidu	purritu	purrìtu 
+filthy: lordu	lurdu 
+soiled: lordu	lurdu 
+sharp: ammulatu	ammulàtu 
+blunt: nujùsu	slimatu 
+smooth: lisciu	lìsciu 
+damp: bagnatu	vagnatu	vagnàtu 
+wet: bagnatu	vagnatu	vagnàtu 
+correct: giustu 
+right side: destra	dritta 
+in: n	nta	’n 
+inside: n	nta	’n 

@@ -1,0 +1,584 @@
+all: maɣalo 
+and: abe 
+animal: yaur wal 
+arm: aɲdzɨp 
+arm: ɲimaŋgə 
+arm: ɲimaŋgə habḷɨ 
+arm: ɲimaŋgə mundun 
+arm: ɲin 
+arrow: φʌ 
+arrow: φo 
+ashes: runəme 
+back: adog | dzʌl	ǯʌi	ṇč̣əl 
+back: dzhal | dzʌl	ǯʌi	ṇč̣əl 
+back: dzʌl | dzʌl	ǯʌi	ṇč̣əl 
+back: ilam | dzʌl	ǯʌi	ṇč̣əl 
+back: ṇč̣əl | dzʌl	ǯʌi	ṇč̣əl 
+back: ǯʌi | dzʌl	ǯʌi	ṇč̣əl 
+bad: nainǯ | nainǯ 
+bark: (mab) haɲ | haɲ	mab haɲ 
+belly: hibənampʰ | hibhainə	hibənampʰ 
+belly: hibhainə | hibhainə	hibənampʰ 
+belly: hìmbënámp | hibhainə	hibənampʰ 
+big: kump | kʰumpʰ	maɲdə	maṇč̣ə 
+big: kʰumpʰ | kʰumpʰ	maɲdə	maṇč̣ə 
+big: maɲdə | kʰumpʰ	maɲdə	maṇč̣ə 
+big: maṇč̣ə | kʰumpʰ	maɲdə	maṇč̣ə 
+bird: yaur 
+bite: hauampʰ 
+bite: hauámp | hauampʰ 
+black: fïrï | ɸɨrɨ 
+black: φɨrɨ | ɸɨrɨ 
+blood: haŋgaße | haxape	haŋgaβe 
+blood: hanggáve | haxape	haŋgaβe 
+blow: φu | ɸu 
+bone: le 
+boy: ɲi 
+branch: mampʰ haṇč̣i | mampʰ haṇč̣i 
+breast: či | Ci	rur	či 
+breathe: ake | ake lɨ 
+breathe: ake lɨ 
+brother: mam 
+burn: in | in	mɪʎaŋgampʰ 
+burn: lau | in	mɪʎaŋgampʰ 
+burn: mɪʎaŋgampʰ | in	mɪʎaŋgampʰ 
+burn: milyan- | in	mɪʎaŋgampʰ 
+calf: hubɨlč̣əŋg 
+calf: kɨlɨ 
+cassowary: waiang 
+cheek: alaun 
+chest: pabḷəč̣əg 
+child: ɲi | ɲi	ɲɪ ɸəro 
+child: ɲɪ φəro | ɲi	ɲɪ ɸəro 
+chin: meŋg apalə 
+claw: agaḷ | agaḷ	gaḷɨn | ints	ɲimaŋgə iṇč̣ 
+claw: gaḷɨn | agaḷ	gaḷɨn | ints	ɲimaŋgə iṇč̣ 
+cloud: kʰʊmi | kʰumi	kʰʊmi 
+cloud: kumi | kʰumi	kʰʊmi 
+cloud: kʰumi | kʰumi	kʰʊmi 
+cold: igən | igən	yiŋʌnbʌ 
+cold: yinganba | igən	yiŋʌnbʌ 
+cold: yiŋʌnbʌ | igən	yiŋʌnbʌ 
+come: au\ampʰ | auʼampʰ 
+come: auámp | auʼampʰ 
+correct: aiṇč̣ | aiṇč̣ 
+count: wə ral 
+crocodile: kʰuʌm 
+cut: bɨnɨŋg | rɨb 
+cut: rɨb 
+dark: sɪmpʰ 
+dark: φrɨ 
+daughter: φai 
+day: dʊgʌφ | ɲin 
+day: ɲin 
+die: umampʰ | um	umampʰ 
+dig: bɨg 
+dirty: φrɨ | ɸrɨ 
+dog: kain | kʰain	xain 
+dog: kʰain | kʰain	xain 
+drink: ɲiŋ | 5iN	ɲiŋ 
+dry: kʰain | kʰain	məḷeɸ 
+dry: məḷeφ | kʰain	məḷeɸ 
+dry: mɨlep | kʰain	məḷeɸ 
+dust: haḷpɨḷ | haḷpɨḷ 
+ear: hrïmint | r3m3nt~	rɨmɨntʰ 
+ear: rɨmɨntʰ | r3m3nt~	rɨmɨntʰ 
+earth: mënang | mənəŋ	mənʌŋ 
+earth: mənəŋ | mənəŋ	mənʌŋ 
+earth: məŋʌŋ | mənəŋ	mənʌŋ 
+earth: mənʌŋ | mənəŋ	mənʌŋ 
+eat: ɲɪŋampʰ 
+eat: nyi- | ɲɪŋampʰ 
+egg: manggë | yaur mangʌ 
+egg: yaur mangʌ 
+egg: yaur mangga | yaur mangʌ 
+elbow: nyinïnggol 
+emu: waiʌŋ 
+eye: amgʌ | amg3	amgʌ	aməŋgʌ 
+eye: ámga | amg3	amgʌ	aməŋgʌ 
+eye: amgʌ ~ aməŋgʌ | amg3	amgʌ	aməŋgʌ 
+eye: amgə haɲ | amg3	amgʌ	aməŋgʌ 
+eye: amgə ubɨŋ | amg3	amgʌ	aməŋgʌ 
+eye: amgə uŋ | amg3	amgʌ	aməŋgʌ 
+face: mulu maṇč̣maŋ 
+fall: lug | lug	rul g- 
+fall: rul g- | lug	rul g- 
+far: mɨlə 
+father: baf | baɸ	baɸɨ 
+father: baφ | baɸ	baɸɨ 
+father: baφɨ | baɸ	baɸɨ 
+fat (n.): moʎ 
+fat (n.): moly 
+fear: φɨrɨk 
+feather: tsɪŋʌ | tsɪŋʌ	uŋ	yaur uŋ 
+feather: (yaur) uŋ | tsɪŋʌ	uŋ	yaur uŋ 
+few: məhəp nəp 
+fight: φen φen φak | ɸen ɸen ɸak 
+finger: ɲimaŋgə agaḷ 
+finger: ɲimaŋgə goḷ 
+finger: ma aŋgaḷ 
+finger: mamdu 
+finger: maməndu 
+finger: mamïnt 
+finger: mamunt 
+finger: manɨntʰ 
+fingernail: ɲimaŋgə iṇč̣ | ints	ɲimaŋgə iṇč̣ 
+fingernail: ints | ints	ɲimaŋgə iṇč̣ 
+fire: mab | mab	mamp~	rɨn 
+fire: rɨn | mab	mamp~	rɨn 
+fire: run | mab	mamp~	rɨn 
+fire: runməŋ | mab	mamp~	rɨn 
+fish: yaṇč̣u | yajoi	yaṇč̣u 
+five: manɨd | mamɨd	manɨd 
+float: adədə ar 
+flow: ar 
+flower: magə 
+fly (n.): arəme 
+fly (v.): uk ar 
+fly (v.): uk au 
+fog: kumi harɨk 
+foot: ma 
+foot: ma beɲ 
+foot: ma goḷ 
+forehead: nambəle 
+forehead: nàmbëlé 
+forest: be 
+four: məhau məhau | igwo mɨlö	möhau möhau	məhau məhau 
+fruit: haŋgub | haŋgub	mab magə 
+fruit: mab magə | haŋgub	mab magə 
+full: andzhëmang rhauump | a5j~3maN rau3p	anǯəmaŋ rauumpʰ	se 
+full: anǯəmaŋ rauumpʰ | a5j~3maN rau3p	anǯəmaŋ rauumpʰ	se 
+full: mɨl | a5j~3maN rau3p	anǯəmaŋ rauumpʰ	se 
+full: se | a5j~3maN rau3p	anǯəmaŋ rauumpʰ	se 
+girl: φai 
+give: ɲɨ- | ɲampʰ	ɲɨ- 
+give: ɲampʰ | ɲampʰ	ɲɨ- 
+good: aiṇč̣ | aiṇč̣ 
+grass: habadə | habadə	mɨṇč̣aŋgə 
+grass: mɨṇč̣aŋgə | habadə	mɨṇč̣aŋgə 
+green: kàmïngkámïng | kʰamɨŋkʰamɨŋ 
+green: kʰamɨŋkʰamɨŋ 
+guts: hibur 
+hair: umaŋʌ | umaŋgə	umaŋʌ	wɨŋ 
+hair: umánga | umaŋgə	umaŋʌ	wɨŋ 
+hair: umaŋgə | umaŋgə	umaŋʌ	wɨŋ 
+hair: wɨŋ | umaŋgə	umaŋʌ	wɨŋ 
+hand: ɲimaŋgə ara | 5imax3	ɲɪmaŋgʌ 
+hand: ɲɪmaŋgʌ | 5imax3	ɲɪmaŋgʌ 
+hand: nyimanggë | 5imax3	ɲɪmaŋgʌ 
+head: nambəč | nambəč	nambəč̣əg 
+head: nambəč̣əg | nambəč	nambəč̣əg 
+head: námbëch | nambəč	nambəč̣əg 
+hear: aßdi nəŋampʰ | abdi n3N	aβdi nəŋampʰ 
+hear: avdi në- | abdi n3N	aβdi nəŋampʰ 
+heart: məndəmaŋgʌ 
+heart: mëndëmángga | məndəmaŋgʌ 
+heart: mïndëmanggë | məndəmaŋgʌ 
+heavy: mara gaf | marʌ gʌɸ 
+heavy: marʌ gʌφ | marʌ gʌɸ 
+here: i 
+he/she: ne 
+he/she: nïp 
+he/she: nipe 
+he/she: nive 
+he/she: nïve 
+he/she: nɪße 
+he/she: nɨφ 
+hit: fa- | ɸaɣampʰ 
+hit: φaɣampʰ | ɸaɣampʰ 
+hold: ud 
+hole: məŋgan 
+hole: mol 
+horn: meŋkʰ | meNk~	meŋkʰ 
+house: hram 
+house: ram 
+house: rham 
+how: aigʌφ | aigʌɸ 
+hunt: be ar | be ar	rɨdɨk 
+hunt: rɨdɨk | be ar	rɨdɨk 
+husband: mbɨ 
+I: yantʰ | yant~	yantʰ 
+I: yant/yad(e)/yïp | yant~	yantʰ 
+jaw: aßalʌ 
+jaw: aφalə 
+kill: φak | ɸak 
+knee: kugom | kugom	xuxom 
+know: nəŋ 
+lake: waŋʌ | waŋə 
+lake: waŋə 
+laugh: mëhál | məhʌl gampʰ 
+laugh: məhʌl gampʰ 
+leaf: kaf | kʰʌɸ	uʎ	x3p 
+leaf: kʰʌφ | kʰʌɸ	uʎ	x3p 
+leaf: uʎ | kʰʌɸ	uʎ	x3p 
+left: sɨdagə 
+leg: kʰuʎ | kʰuʎ	ma 
+leg: kuly | kʰuʎ	ma 
+leg: ma | kʰuʎ	ma 
+lie: bɨgnan-əl mɨd 
+lightning: aɲɨm aɲɨm 
+live: kamɨŋ | kamɨŋ mɨd 
+live: kamɨŋ mɨd 
+liver: imaɲiŋ | imaɲiŋ	yima5iN 
+long: mïlá | mɨlʌ 
+long: mɨlʌ 
+louse: man 
+man: bɨ | b3	bɨ 
+man: bʷ¬ | b3	bɨ 
+man: bï | b3	bɨ 
+man: nəbar | b3	bɨ 
+many: iru 
+meat: yuʌ 
+meat: yúa | yuʌ 
+moon: hangan | raɣʌn 
+moon: hrangën | raɣʌn 
+moon: raɣʌn 
+moon: rhaghan | raɣʌn 
+mosquito: hangəɲaɲ 
+mother: amɨ 
+mother: amï | amɨ 
+mountain: dum | dum	n3 il3	no	nʌ ilʌ 
+mountain: na ila | dum	n3 il3	no	nʌ ilʌ 
+mountain: nʌ ilʌ | dum	n3 il3	no	nʌ ilʌ 
+mountain: no | dum	n3 il3	no	nʌ ilʌ 
+mouth: màndzhëmënggán | manǯə məŋgan 
+mouth: manǯə məŋgan | manǯə məŋgan 
+name: himp | himp~	himpʰ 
+name: himpʰ | himp~	himpʰ 
+narrow: φro | ɸro 
+near: səl | səl	sʌl 
+near: sʌl | səl	sʌl 
+neck: uŋam 
+neck: ungám | uŋam 
+new: gisán | gis3n	gɪsʌn 
+new: gɪsʌn | gis3n	gɪsʌn 
+new: φəraɲts | gis3n	gɪsʌn 
+new: φraṇč̣ | gis3n	gɪsʌn 
+night: hilɨm | hil3m	hilɨm	simp~	sɪmpʰ 
+night: simp | hil3m	hilɨm	simp~	sɪmpʰ 
+night: sɪmpʰ | hil3m	hilɨm	simp~	sɪmpʰ 
+nose: mólu | mulu	mʊlu 
+not: -ang- | -aŋ-	wasə 
+not: -aŋ- | -aŋ-	wasə 
+not: wasʌ | -aŋ-	wasə 
+not: wasa | -aŋ-	wasə 
+not: wasə | -aŋ-	wasə 
+old: bɨ miḷep 
+old: nandëba 
+old: nibi laφən 
+old: nʌndəbʌ 
+one: aɲɨ | a53	añɨ	aɲɨ	wanɪŋkənəmbʌ	wañig nöbö 
+one: waningkënëmba | a53	añɨ	aɲɨ	wanɪŋkənəmbʌ	wañig nöbö 
+one: wanɪŋkənəmbʌ | a53	añɨ	aɲɨ	wanɪŋkənəmbʌ	wañig nöbö 
+person: bɨ | b3	bɨ 
+play: haləßi | haləβi	kus gɨ 
+play: kus gɨ | haləβi	kus gɨ 
+pull: ʎip gɨ 
+push: ud mamo gɨ 
+rain: mang | mʌŋ 
+rain: mʌŋ 
+rat: kʰəßəya 
+rat: kʰəßia 
+rat: këviá 
+red: aʎɨ 
+red: ályï | aʎɨ 
+right: iṇč̣ɨk | 5imax3	ɲɪmaŋgʌ | iṇč̣ɨk 
+ripe: aʎɨ 
+ripe: φo 
+river: rɨbə 
+road: andan | adan 
+root: dzadzʌ | dzadzʌ	kʰɨndɨɹ 
+root: kïndïl | dzadzʌ	kʰɨndɨɹ 
+root: kïndïr | dzadzʌ	kʰɨndɨɹ 
+root: kʰɨndɨɹ | dzadzʌ	kʰɨndɨɹ 
+rope: naŋgɨ 
+rotten: hiṇč̣ g-əp | hiṇč̣ g-əp 
+round: kaḷum | kaḷum 
+rub: ḷɨḷɨ gɨ | ḷɨḷɨ gɨ 
+salt: dʌ | də	dʌ 
+salt: də | də	dʌ 
+sand: kabə kuḷup | kabə kuḷup 
+say: haŋ ɲɨ | haŋampʰ | kabə kuḷup 
+say: haŋampʰ | kabə kuḷup 
+scratch: ḷɨḷɨ gɨ | ḷɨḷɨ gɨ 
+seed: iŋ 
+see: në- | n3N	nəŋgampʰ 
+see: nəŋgampʰ | n3N	nəŋgampʰ 
+sew: al ud 
+sharp: kɨd 
+short: səl | səl	ureɸ	uɹeɸ 
+short: uɹeφ | səl	ureɸ	uɹeɸ 
+short: uréf | səl	ureɸ	uɹeɸ 
+short: ureφ | səl	ureɸ	uɹeɸ 
+shoulder: sʊndʊŋ 
+shoulder: sundúng 
+shoulder: wạč̣ḷem 
+sing: kəmap haŋ 
+sister: aɲ 
+sister: aɲɨ 
+sister: anyï 
+sit: asï- | asɨk	asɨɣʌl məndʌɸ	bɨsɨk 
+sit: asɨk | asɨk	asɨɣʌl məndʌɸ	bɨsɨk 
+sit: asɨɣʌl məndʌφ | asɨk	asɨɣʌl məndʌɸ	bɨsɨk 
+sit: bɨsɨk | asɨk	asɨɣʌl məndʌɸ	bɨsɨk 
+skin: haɲ | ha5	haɲ 
+skin: hany | ha5	haɲ 
+sky: kumi kabə 
+sleep: hon han 
+small: fro | ɸro	ɸəro 
+small: φəro | ɸro	ɸəro 
+small: φro | ɸro	ɸəro 
+smell: haḷɨŋ | haḷɨŋ nəŋ 
+smell: haḷɨŋ au | haḷɨŋ nəŋ 
+smoke: handu 
+smooth: aiṇč̣ | aiṇč̣ 
+snake: re 
+son: ɲi 
+split: rɨb had gɨ 
+squeeze: ud mɨl gɨ 
+stand: urá- | uraɣʌl məndʌɸ 
+stand: uraɣʌl məndʌφ | uraɣʌl məndʌɸ 
+star: gaßɨ | gab3	gaβɨ 
+star: gavï | gab3	gaβɨ 
+stone: kʰambʌ | kxambʷʌ	kʰambʌ	xab3 
+stone: kamba | kxambʷʌ	kʰambʌ	xab3 
+stone: kxambʷʌ | kxambʷʌ	kʰambʌ	xab3 
+straight: iṇč̣ɨk-əl | iṇč̣ɨk-əl	kabərə 
+straight: kabərə | iṇč̣ɨk-əl	kabərə 
+suck: ɲiŋ 
+sun: sinda | sid3	sɪndʌ 
+sun: sɪndʌ | sid3	sɪndʌ 
+sweet: bom 
+swell: adɨk 
+swell: hu gɨ 
+swim: ɲiŋg φak | ɲiŋg ɸak 
+tail: amɨn 
+tail: dzhor | amɨn 
+tail: dzoḷ | amɨn 
+tail: ǯoɹ | amɨn 
+take: kʰʊmbi wʊnd- 
+take: ud 
+that: rəmnu | a53	añɨ	aɲɨ	wanɪŋkənəmbʌ	wañig nöbö 
+there: u 
+there: yɪkx 
+they: kale | kʰale 
+they: kʰale 
+they two: kale 
+they two: kʰale 
+they two: mïhau 
+thick: kʰumb 
+thigh: kʰuɪʎ 
+thigh: kuwiʎ 
+thigh: male 
+think: gasɨ nəŋ 
+thin: φro | ɸro 
+this: rəmni 
+thorn: kalɪ 
+thorn: kaḷɨ 
+thou: kʰale | ne	nɨ 
+thou: nɨ | ne	nɨ 
+thou: ne | ne	nɨ 
+thou: ne(b) | ne	nɨ 
+thou: nï | ne	nɨ 
+thou: nöp | ne	nɨ 
+three: mëháu nëgáng | igwo aŋ nöbö	möhau nögaŋ	məhau nəgaŋ 
+three: məhau nəgaŋ | igwo aŋ nöbö	möhau nögaŋ	məhau nəgaŋ 
+throat: ruŋgu 
+throw: ud yu 
+thunder: rumu 
+tie: naŋgɨ lɨ | naŋgɨ lɨ	wam 
+tie: wam | naŋgɨ lɨ	wam 
+tomorrow: rol 
+tongue: aʎampʰ | aLamp~	aʎampʰ 
+tongue: alamp | aLamp~	aʎampʰ 
+tooth: mengk | meNk~	meŋkʰ 
+tooth: meŋkʰ | meNk~	meŋkʰ 
+tree: mamp | mamp~ 
+tree: mampʰ | mamp~ 
+turn: adoŋg gɨ 
+turn: ud andoŋ gɨ 
+two: mëháf | igwo	m3h3p	möhöp	məhau	məhʌɸ 
+two: məhau | igwo	m3h3p	möhöp	məhau	məhʌɸ 
+two: məhʌφ | igwo	m3h3p	möhöp	məhau	məhʌɸ 
+unripe: gɨs 
+vagina: ulə 
+vomit: ʎɨhak 
+walk: aňč̣ | aňč̣ 
+wallaby: wal 
+warm: fëmbang | ɸəmbʌŋ 
+warm: φəmbʌŋ | ɸəmbʌŋ 
+wash: ɲiŋ lɨ uʎ gɨ 
+water: ɲɪŋkʰ | 5iNk~	ɲɪŋkʰ 
+water: nyingk | 5iNk~	ɲɪŋkʰ 
+weep: miʎən gɨ 
+we (excl.): hon 
+we: hane | hale	hon 
+we: hanïp | hale	hon 
+we: hon | hale	hon 
+we (incl.): hale 
+wet: is 
+we two (excl.): hol 
+we two: hale 
+we two: halïp 
+we two: hol 
+what: nan nëhán | nan nəhʌn 
+what: nan nəhʌn 
+when: ɲinai | maɲai	ɲinai 
+when: maɲai | maɲai	ɲinai 
+where: auai | auai	gai 
+where: gai | auai	gai 
+white: rhunt | runtʰ 
+white: runtʰ 
+who: an | an	ban 
+who: ban | an	ban 
+wide: kʰump 
+wife: nɪmbi 
+wind: handal | handal	iŋgən	ɸənəm	ɸɨnəm 
+wind: iŋgən | handal	iŋgən	ɸənəm	ɸɨnəm 
+wind: φənəm | handal	iŋgən	ɸənəm	ɸɨnəm 
+wind: φɨnəm | handal	iŋgən	ɸənəm	ɸɨnəm 
+wing: awan 
+wing: awán | awan 
+wipe: ḷɨk | ḷɨk 
+woman: nemb | nɪmbi 
+woman: nimbí | nɪmbi 
+woman: nɪmbi 
+wood: ɲel 
+wood: iləŋ 
+wood: ilʌŋ 
+wood: ɲʌl 
+wood: ur 
+wood: wʊr 
+worm: gʊlo | gulo	gʊlo 
+worm: gulo | gulo	gʊlo 
+year: mɨ 
+yellow: uhaḷɨn | uhaḷɨn	wəhaḷɨn 
+yellow: wəhaḷɨn | uhaḷɨn	wəhaḷɨn 
+yesterday: rol 
+you: kale | ne	nɨ | kʰale 
+you: kalïp | ne	nɨ | kʰale 
+you: köl | ne	nɨ | kʰale 
+you two: kale 
+you two: kʰale 
+you two: kalïp 
+you two: kʰʌl 
+you two: köl 
+every: maɣalo 
+ash: runəme 
+abdomen: hibhainə	hibənampʰ 
+bigness: kʰumpʰ	maɲdə	maṇč̣ə 
+large: kʰumpʰ	maɲdə	maṇč̣ə 
+breasts: Ci	rur	či 
+nail: agaḷ	gaḷɨn 
+talon: agaḷ	gaḷɨn 
+come from: auʼampʰ 
+be dead: um	umampʰ 
+dead: um	umampʰ 
+ground: mənəŋ	mənʌŋ 
+land: mənəŋ	mənʌŋ 
+soil: mənəŋ	mənʌŋ 
+fly: uk ar	uk au 
+fly v.: uk ar	uk au 
+left hand: 5imax3	ɲɪmaŋgʌ 
+1 sg.: yant~	yantʰ 
+be knowledgeable: nəŋ 
+head louse: man 
+male: bɨ	bʷɯ 
+much: iru 
+multiple: iru 
+several: iru 
+flesh: yuʌ 
+hill: dum	n3 il3	no	nʌ ilʌ 
+title: himp~	himpʰ 
+nighttime: hil3m	hilɨm	simp~	sɪmpʰ 
+adulterous: a53	añɨ	aɲɨ	wanɪŋkənəmbʌ	wañig nöbö 
+single: a53	añɨ	aɲɨ	wanɪŋkənəmbʌ	wañig nöbö 
+the: a53	añɨ	aɲɨ	wanɪŋkənəmbʌ	wañig nöbö 
+unprincipled: a53	añɨ	aɲɨ	wanɪŋkənəmbʌ	wañig nöbö 
+human: b3	bɨ 
+human being: b3	bɨ 
+rainy weather: mʌŋ 
+path: adan 
+route: adan 
+hide: ha5	haɲ 
+little: ɸro	ɸəro 
+smallness: ɸro	ɸəro 
+rock: kxambʷʌ	kʰambʌ	xab3 
+2 sg: ne	nɨ 
+grind: igwo	m3h3p	möhöp	məhau	məhʌɸ 
+go: aňč̣ 
+hot: ɸəmbʌŋ 
+1 pl. inc.: hale	hon 
+we₁: hale	hon 
+whiteness: runtʰ 
+who?: an	ban 
+female: nɪmbi 
+distant: mɨlə 
+dull: marʌ gʌɸ 
+serious: marʌ gʌɸ 
+close: səl	sʌl 
+ner: səl	sʌl 
+earthworm: gulo	gʊlo 
+2 pl.: kʰale 
+ye: kʰale 
+you all: kʰale 
+3 pl.: kʰale 
+where?: auai	gai 
+when?: maɲai	ɲinai 
+how?: aigʌɸ 
+broad: kʰump 
+wideness: kʰump 
+fat: moʎ 
+principal wife: nɪmbi 
+his mother: amɨ 
+my mother: amɨ 
+his father: baɸ	baɸɨ 
+my father: baɸ	baɸɨ 
+woods: be 
+stick: mampʰ haṇč̣i 
+cord: naŋgɨ 
+grease: moʎ 
+gut: hibur 
+insides: hibur 
+intestine: hibur 
+intestines: hibur 
+spit: kuɲu al 
+breath: ake lɨ 
+laughter: məhʌl gampʰ 
+cogitate: gasɨ nəŋ 
+reflect: gasɨ nəŋ 
+sniff: haḷɨŋ nəŋ 
+alive: kamɨŋ mɨd 
+be alive: kamɨŋ mɨd 
+life: kamɨŋ mɨd 
+living: kamɨŋ mɨd 
+beat: ɸaɣampʰ 
+strike: ɸaɣampʰ 
+hack: rɨb 
+cut open: rɨb had gɨ 
+pierce: bɨnɨŋg 
+stab: bɨnɨŋg 
+drop: lug	rul g- 
+grasp: ud 
+hold in arm: ud 
+wring: ud mɨl gɨ 
+wash clothes: ɲiŋ lɨ uʎ gɨ 
+bind: naŋgɨ lɨ	wam 
+fasten: naŋgɨ lɨ	wam 
+tie up: naŋgɨ lɨ	wam 
+enumerate: wə ral 
+number: wə ral 
+tally: wə ral 
+have fun: haləβi	kus gɨ 
+brook: rɨbə 
+stream: rɨbə 
+blaze: in	mɪʎaŋgampʰ 
+daylight: ɲin 
+daytime: ɲin 
+evil: nainǯ 
+rot: hiṇč̣ g-əp 
+filthy: ɸrɨ 
+soiled: ɸrɨ 
+blunt: kaḷu 
+damp: is 
+right side: iṇč̣ɨk 

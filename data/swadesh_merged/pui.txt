@@ -1,0 +1,322 @@
+all: -to-hani	w3y hi*n	wəi-hin 
+every: -to-hani	w3y hi*n	wəi-hin 
+ash: d3 p3p	də-pɨp 
+ashes: d3 p3p	də-pɨp 
+bark: pun-pik	pun-ta	punpik 
+abdomen: mo pup 
+belly: mo pup 
+big: -i + pek	i pek 
+bigness: -i + pek	i pek 
+large: -i + pek	i pek 
+bird: hom	wip 
+bite: -sak	sa 
+black: -pik	pik 
+blood: -mã	ma* 
+bone: -ut	ut 
+breast: -himik	himik 
+breasts: -himik	himik 
+claw: -sim-sõ	mo simso* 
+nail: -sim-sõ	mo simso* 
+talon: -sim-sõ	mo simso* 
+cloud: 5o*pawa*not	yõpawan 
+cold: -haka-dik	hakalik 
+come: -yuk	yu 
+come from: -yuk	yu 
+be dead: -ɨi	3y 
+dead: -ɨi	3y 
+die: -ɨi	3y 
+dog: yot 
+drink: -wok	wo 
+dry: -həu	h3w 
+ear: -but	-butuk	but 
+earth: niti 
+ground: niti 
+land: niti 
+soil: niti 
+eat: -wõk	-ye + wãi	wo*	yewa*y 
+egg: -bik-dik	biglik 
+eye: -bik	bik 
+fat: yek 
+fat n.: yek 
+grease: yek 
+lubricant: yek 
+oil: yek 
+feather: -ha-sut-ot	mo hu 
+fire: d3	də 
+fish: y3y	yəi 
+fly: -tək	t3 
+fly v.: -tək	t3 
+foot: -sim	sim 
+full: -hui + tun	hutun 
+give: -bɨk	b3 
+good: -hei	hey 
+green: -ãk	a*k 
+hair: -hu	hu 
+hand: -dap	mo lap 
+left hand: -dap	mo lap 
+right: -dap	mo lap 
+head: -huyak	huyak 
+hear: -hui	huy 
+heart: -hĩ	hi* 
+horn: -hu-seu	mo husew 
+1 sg.: am 
+I: am 
+kill: -ɨi-ək	3y 3k 
+knee: -ut-huyak	mo ut huyaT 
+be knowledgeable: -pisi + wak	pisi wa 
+know: -pisi + wak	pisi wa 
+leaf: -wan	son yo*n	soyõn 
+lie: -yek-sok	koso 
+lie down: -yek-sok	koso 
+liver: -nam-ʼot	mo namot 
+long: -pat	pat 
+head louse: hute pi*n	tɨ 
+louse: hute pi*n	tɨ 
+male: bon 
+man: epi*not	epin 
+many: -bak	bak 
+much: -bak	bak 
+multiple: -bak	bak 
+several: -bak	bak 
+flesh: -ta	ta 
+meat: -ta	ta 
+moon: h3b3t	həbət 
+hill: wen 
+mountain: wen 
+mouth: -ko-de	-ye	ye 
+name: -tam	ta*m 
+title: -tam	ta*m 
+neck: -yə	y3 
+new: -huhu	huhu 
+night: sai	say 
+nighttime: sai	say 
+nose: -hə̀k	h3k 
+not: 3y 
+adulterous: t3*m	tĩ̵m 
+one: t3*m	tĩ̵m 
+single: t3*m	tĩ̵m 
+that: du7u	y373 
+the: t3*m	tĩ̵m 
+unprincipled: t3*m	tĩ̵m 
+human: epi*not	epin 
+human being: epi*not	epin 
+person: epi*not	epin 
+rain: wau	waw 
+rainy weather: wau	waw 
+red: -kət	k3t 
+path: d3k 
+road: d3k 
+route: d3k 
+root: -tat-sut	pun tacut 
+round: -mada-dik	malalik 
+sand: mãi 
+say: -mok	mo* 
+see: -duk	du 
+seed: bik	mo-hə̃mka-bik 
+sit: -tek	te 
+hide: -pik	pik 
+skin: -pik	pik 
+sleep: -ou	ow 
+little: -sə̃m	i s3*m 
+small: -sə̃m	i s3*m 
+smallness: -sə̃m	i s3*m 
+smoke: ai	d3 ay	də-ai 
+stand: huy mi	so 
+star: k3t	kət 
+rock: ha 
+stone: ha 
+sun: 5a*ma*t	yãmat 
+swim: -tok	to 
+tail: -som	som 
+this: na*7a 
+2 sg: 5am	mam 
+thou: 5am	mam 
+you: 5am	mam 
+tongue: -dok	dok 
+tooth: -de	de 
+tree: pun 
+grind: kau	kaw 
+two: kau	kaw 
+go: -bok	bo 
+walk: -bok	bo 
+hot: -ə̃-kai 
+warm: -ə̃-kai 
+water: 3t	ɨt 
+1 pl. inc.: bit7u 
+we: bit7u 
+we₁: bit7u 
+what: b3h3	b3rik	bə-i-dik 
+white: -bək	b3k 
+whiteness: -bək	b3k 
+who: b373	bəə 
+who?: b373	bəə 
+female: den 
+woman: den 
+yellow: -hut	hut 
+distant: -yau 
+far: -yau 
+dull: -mə̃m 
+heavy: -mə̃m 
+serious: -mə̃m 
+close: -nak 
+near: -nak 
+ner: -nak 
+salt: sa-yu 
+short: -pom 
+snake: sə̃p 
+thin: -sə̃m	himi-dik 
+wind: hĩm 
+earthworm: sõm 
+worm: sõm 
+year: wik 
+2 pl.: yam 
+ye: yam 
+you all: yam 
+3 pl.: ot 
+they: ot 
+where: bən 
+where?: bən 
+when: bə-dou	bəi-dik bat 
+when?: bə-dou	bəi-dik bat 
+how: bə-he 
+how?: bə-he 
+some: i-tə̃m-nok-ot 
+few: -yai 
+three: pəi	pəj 
+four: kau-nok	lawmõk 
+five: dap tɨm	dap-tə̃m 
+broad: u-si + pek 
+wide: u-si + pek 
+wideness: u-si + pek 
+thick: -bik-duk + pat	-dɨn 
+narrow: -u + sə̃m 
+child: tɨi-wãi 
+principal wife: -u 
+wife: -u 
+husband: -bon 
+his mother: -in 
+mother: -in 
+my mother: -in 
+father: -i 
+his father: -i 
+my father: -i 
+animal: həduk 
+forest: hukde 
+woods: hukde 
+branch: -dou 
+stick: -dou 
+fruit: -kam 
+flower: -su	suksu 
+grass: ye 
+cord: dɨt-ot 
+rope: dɨt-ot 
+fingernail: -dap-sõ 
+leg: -pep 
+wing: -hõ 
+gut: -win-yo-ot 
+guts: -win-yo-ot 
+insides: -win-yo-ot 
+intestine: -win-yo-ot 
+intestines: -win-yo-ot 
+back: -tum 
+suck: -sɨk 
+spit: -ko-pok -sɨ-tuk 
+vomit: -pak 
+blow: -pɨk 
+breath: -hĩ-mə̃m	-hĩ-yək 
+breathe: -hĩ-mə̃m	-hĩ-yək 
+laugh: -yoi 
+laughter: -yoi 
+cogitate: -bik + sãk 
+reflect: -bik + sãk 
+think: -bik + sãk 
+smell: -ʼha-si + duk 
+sniff: -ʼha-si + duk 
+afraid: mo-õm-yu 
+be afraid: mo-õm-yu 
+fear: mo-õm-yu 
+fright: mo-õm-yu 
+alive: -hu-yu	-huk 
+be alive: -hu-yu	-huk 
+life: -hu-yu	-huk 
+live: -hu-yu	-huk 
+living: -hu-yu	-huk 
+fight: -pɨ-tok 
+hunt: -bo-dɨk 
+beat: -pou	-pãi 
+hit: -pou	-pãi 
+strike: -pou	-pãi 
+cut: -kok	-kuk	-pan 
+hack: -kok	-kuk	-pan 
+cut open: -yau-dei	-yau-nok 
+split: -yau-dei	-yau-nok 
+pierce: -ok 
+stab: -ok 
+dig: -wat 
+tell lies: -te + sau 
+turn: -he-wuk 
+turn around: -he-wuk 
+turn round: -he-wuk 
+drop: -dək 
+fall: -dək 
+grasp: -wau 
+hold: -wau 
+hold in arm: -wau 
+squeeze: -piu 
+wring: -piu 
+rub: -mə̃i 
+wipe: -mə̃i 
+wash: -sɨk 
+wash clothes: -sɨk 
+push: -tou-nok 
+shove: -tou-nok 
+throw: -nam 
+bind: -hip 
+fasten: -hip 
+tie: -hip 
+tie up: -hip 
+sew: -i + tõm 
+count: -kak 
+enumerate: -kak 
+number: -kak 
+tally: -kak 
+sing: -au 
+have fun: -butuk + ɨi 
+play: -butuk + ɨi 
+float: -wàk 
+flow: -tau 
+brook: ɨt	ɨt-mai 
+river: ɨt	ɨt-mai 
+stream: ɨt	ɨt-mai 
+lake: wək suwai 
+ocean: ɨt i-pek 
+sea: ɨt i-pek 
+dust: niti pɨp 
+fog: ebu-ai 
+sky: sənə 
+ice: ɨt sãt 
+blaze: -bɨt	-i-yək	y3 
+burn: -bɨt	-i-yək	y3 
+day: wə-yu 
+daylight: wə-yu 
+daytime: wə-yu 
+bad: -ep 
+evil: -ep 
+rot: -kai 
+rotten: -kai 
+dirty: -ʼha-pi + bak 
+filthy: -ʼha-pi + bak 
+soiled: -ʼha-pi + bak 
+straight: -sada-dik 
+sharp: -de + yak 
+blunt: -de + ɨi 
+damp: -tɨu 
+wet: -tɨu 
+correct: oi-bɨ-tep 
+right side: -wide 
+left: -sã 
+in: -te 
+inside: -te 
+and: oyem	pəi 
+if: -u 
+because: o-səm 

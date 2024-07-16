@@ -1,0 +1,666 @@
+all: moke | moke	moʔke 
+all: moʔke | moke	moʔke 
+and: -kaka\ 
+and: -rè 
+and: -se\ 
+ankle: aitaura 
+arm: ayaa 
+arm: ayah 
+arrow: poriah 
+ashes: tanaa | tanah 
+ashes: tanah 
+at: -ta\ 
+back: abobiah 
+bad: aababa\ 
+bad: ahbabaʔ 
+bark: aawee | ahweh 
+bark: ahweh 
+bark: waa | ahweh 
+bark: waate | ahweh 
+belly: amu\ | amuq	ʌyapʌ 
+belly: amuʔ | amuq	ʌyapʌ 
+belly: ʌyapʌ | amuq	ʌyapʌ 
+big: aanotaaa | anotah	ʌnota 
+big: aːnotah | anotah	ʌnota 
+big: ʌnota | anotah	ʌnota 
+bird: kʌßʌrʌ | kʌβʌrʌ	nuwo 
+bird: nuwo | kʌβʌrʌ	nuwo 
+bite: tautaʔ | ungiye 
+bite: ungiye 
+black: pabutsa | pabutsa	pʌputsʌ 
+black: pʌputsʌ | pabutsa	pʌputsʌ 
+blood: eetaa | kora7	nehe	tori 
+blood: kóra\ | kora7	nehe	tori 
+blood: nee.e | kora7	nehe	tori 
+blood: nehe | kora7	nehe	tori 
+blood: onu | kora7	nehe	tori 
+blow: tubiyaao 
+blow: tubiyaho 
+bone: ayaanta | ayanca	ayanta	towai	wai 
+bone: ayahnta | ayanca	ayanta	towai	wai 
+boy: animai 
+boy: maabi 
+boy: mahbi 
+boy: mapi 
+branch: ayaanowe 
+branch: ayahnowe 
+breast: ná | na	nah	nanau7	ná 
+breast: naa | na	nah	nanau7	ná 
+breast: nah | na	nah	nanau7	ná 
+breathe: aiyanaiya 
+brother: (a)baka 
+brother: ábákawa 
+brother: (a)waawa 
+brother: awaawá 
+brother: (a)wahnowe 
+brother: (a)wahwa 
+burn: ira bario 
+burn: otoree\ 
+burn: otorehʔ 
+burn: teere 
+burn: tehre 
+burn: uʔmarahao 
+butterfly: paaparaa 
+butterfly: pahparah 
+calf: ehweh 
+calf: èwè 
+cassowary: kuwaira 
+cheek: a\mo 
+cheek: aʔmo 
+chest: (a)wi 
+child: ani 
+child: -naani 
+child: -nahni 
+chin: awai 
+chin: awai ~ awehi 
+chin: aweei 
+chin: nuäi 
+claw: ayaanobe\ | ayanobeq 
+claw: ayahnobeʔ | ayanobeq 
+cloud: irabuya 
+cloud: irabúyá | irabuya 
+cloud: saboná | irabuya 
+cold: titiri\ | titiriq 
+cold: titiriʔ | titiriq 
+come: sire | mabe7 cuno	mao	tiye 
+come: tiye | mabe7 cuno	mao	tiye 
+count: tantaao 
+count: tantaho 
+crocodile: karaarabaa 
+crocodile: karahrabah 
+cut: ehpiwo 
+cut: èpiwo 
+cut: karoro 
+cut: tehraho 
+cut: tehtehbiyaho 
+cut: tèraao 
+dance: abaa\ 
+dark: tʌpoitiʌ 
+dark: tungikiriye 
+dark: tun.gikiriye 
+daughter: ayaaun.gáwa 
+daughter: ayaaunka 
+daughter: ayahunka 
+day: taara\ 
+day: tahraʔ 
+day: tèdè 
+day: tunsoreri\ 
+day: tunsoreriʔ 
+day: tuntsotetiʔ 
+day: waikaa 
+day: waikah 
+day: wekaa 
+day: wekah 
+die: pukire | EnEruni7	pu7nE7	puinki7	puipuini7	puki7	pukire	taini7	taitaini7 
+dig: mairia marako 
+dig: nonawè\ 
+dig: ubo- 
+dig: u\marahao 
+dirty: nawera 
+dog: iya | iya	la	urinci 
+drink: nahno | nano 
+dry: totoragoye 
+ear: aare | ahre	are	àtě 
+ear: ahre | ahre	are	àtě 
+ear: a~tě | ahre	are	àtě 
+earth: marako 
+earth: marakó | marako 
+earth: tosè | marako 
+eat: naano | nano 
+eat: nahno | nano 
+eat: narunsao | nano 
+eat: tautau\ | nano 
+egg: au | oyetʌ 
+egg: oyetʌ 
+elbow: ayayo 
+elbow: o 
+emu: kʌmpotʌ 
+emu: kuwaira 
+excrement: te\ 
+eye: aura 
+eye: auwanaanto | aura 
+eye: auwanahnto | aura 
+eye: mututu | aura 
+face: auranabiyaa 
+face: auranabiyah 
+fall: inaansubire 
+fall: inahnsubire 
+fall: meyagoye 
+far: iyewaato 
+far: iyewahto 
+father: (a)bowa 
+father: abowá 
+father: ara 
+fat (n.): maiyawe 
+fat (n.): mayeewe 
+fat (n.): mayehwe 
+fat (n.): mʌeʌwe 
+fear: aare 
+fear: ahre 
+fear: ate 
+feather: ayo | abowa 
+few: taamoro 
+few: tahmoro 
+finger: ayanaobona 
+fingernail: ayaanobe\ 
+fingernail: ayahnobeʔ 
+fire: eku | edu	eku	ira	irobina 
+fire: ira | edu	eku	ira	irobina 
+fire: ira bario | edu	eku	ira	irobina 
+fish: koeya\ | koeyaq	nontah	pa 
+fish: koeyaʔ | koeyaq	nontah	pa 
+fish: nontaal | koeyaq	nontah	pa 
+fish: nontah | koeyaq	nontah	pa 
+fish: pa | koeyaq	nontah	pa 
+five: mobesaa 
+five: mobesah 
+float: ara 
+fly (n.): (k)ogo 
+fly (v.): puwambuwa 
+foot: ai | aitaru	nʌie 
+foot: aitaru | aitaru	nʌie 
+foot: nʌie | aitaru	nʌie 
+forehead: ayai 
+forest: taikaape\q 
+forest: taikahpeʔ 
+four: tapotaapa 
+four: tapotahpa 
+fruit: ara 
+fruit: sera 
+full: oraapee | awEra7 kE7	ayabankirE7	obenkiki7	orapeh 
+full: orabehranao | awEra7 kE7	ayabankirE7	obenkiki7	orapeh 
+full: orabèranao | awEra7 kE7	ayabankirE7	obenkiki7	orapeh 
+full: orahpeh | awEra7 kE7	ayabankirE7	obenkiki7	orapeh 
+girl: aarari 
+girl: ahrari 
+girl: atʌti 
+give: awi\ | awiq 
+give: awiʔ | awiq 
+good: kawe\ | kaweq	kʌweʔ 
+good: kaweʔ | kaweq	kʌweʔ 
+good: kʌweʔ | kaweq	kʌweʔ 
+grass: namu\ 
+grass: namuʔ 
+grass: uwo 
+green: aukaka 
+guts: ayè 
+guts: ayeh 
+hair: (a)yaara | ayara	yara	ʌyatʌ 
+hair: (a)yahra | ayara	yara	ʌyatʌ 
+hair: ʌyatʌ | ayara	yara	ʌyatʌ 
+hand: aaya-naru | aya	ayankara	ayanobeh 
+hand: ahyanaru | aya	ayankara	ayanobeh 
+hand: ayaan | aya	ayankara	ayanobeh 
+hand: ayaanepe\ | aya	ayankara	ayanobeh 
+hand: ayaanobee | aya	ayankara	ayanobeh 
+hand: ayahnobeh | aya	ayankara	ayanobeh 
+hand: pube\ | aya	ayankara	ayanobeh 
+head: aata | ayaqno	ʌyaʔno 
+head: (a)bi\no | ayaqno	ʌyaʔno 
+head: aya\no | ayaqno	ʌyaʔno 
+head: ayaʔno | ayaqno	ʌyaʔno 
+head: aye\nó | ayaqno	ʌyaʔno 
+head: ʌyaʔno | ayaqno	ʌyaʔno 
+hear: iro | irE7	iro 
+heart: awaabo | awabo	piti 
+heart: awahbo | awabo	piti 
+heart: awʔbo | awabo	piti 
+heart: piti | awabo	piti 
+heavy: umehi\ 
+heavy: umehiʔ 
+he/she: a- 
+he/she: -de 
+he/she: -e\ 
+he/she: -i\ 
+he/she: -o\ 
+he/she: -u\ 
+he/she: wega 
+hit: aawaai\ 
+hit: bière 
+hit: pakibaki 
+hit: turuturu\ 
+hit: webè 
+hold: taatoro 
+hold: tahtoro 
+hold: totorao 
+hole: abaarabaa\ 
+hole: abahrabahʔ 
+house: na~ 
+house: naa 
+house: nah 
+house: wènenaa 
+how: erauwe 
+husband: (a)weeka 
+husband: (a)wehka 
+husband: wee 
+I: -a\ | ine	ne 
+I: -ga | ine	ne 
+I: ne | ine	ne 
+I: nene | ine	ne 
+I: ni- | ine	ne 
+in: -pi\ 
+I: nu- | ine	ne 
+I: -o\ | ine	ne 
+I: -u\ | ine	ne 
+jaw: aden-aasa 
+kangaroo: ayahba 
+kill: subio 
+knee: arau | arEgogo	arEu	arau 
+know: iro 
+lake: kawau 
+leaf: aanaa | abu	ahnah	ana	cEena	kempo	kori	pentoru7 
+leaf: ahnah | abu	ahnah	ana	cEena	kempo	kori	pentoru7 
+left: ayahnepeʔ 
+leg: ai 
+lie: pèepèe 
+lie: teki\memiyaao 
+lightning: okekwè\ 
+lightning: okekwehʔ 
+lip: aruo 
+lip: omu\ 
+lip: omuʔ 
+lip: ʌtuo 
+live: ogamiè 
+live: ogamieh 
+liver: aru | aru	marapete aru 
+long: taataai | -tʌnia	tatahi 
+long: tahtahi | -tʌnia	tatahi 
+long: -tʌnia | -tʌnia	tatahi 
+louse: nu | awaci7	nu	wani 
+louse: taanu | awaci7	nu	wani 
+louse: tahnu | awaci7	nu	wani 
+louse: tanu | awaci7	nu	wani 
+man: ita\ maabi | ani	patani	wEukeni 
+man: wä | ani	patani	wEukeni 
+man: wee | ani	patani	wEukeni 
+man: weh | ani	patani	wEukeni 
+many: aande | ahnd~e	awi7	gi7	itʌkʌtiʔtaʔ 
+many: ahnde | ahnd~e	awi7	gi7	itʌkʌtiʔtaʔ 
+many: aire | ahnd~e	awi7	gi7	itʌkʌtiʔtaʔ 
+many: itʌkʌtiʔtaʔ | ahnd~e	awi7	gi7	itʌkʌtiʔtaʔ 
+meat: awahʔ | aweq 
+meat: awee\ | aweq 
+moon: iyo 
+moon: i(y)o | iyo 
+morning: aabiai(pe\) 
+morning: ahbiai(peʔ) 
+morning: kiampogoi\ 
+morning: kiampogoiʔ 
+mosquito: akaru\ 
+mosquito: akaruʔ 
+mother: (a)nowa 
+mother: (a-)nówa 
+mother: ʌnowʌ 
+mountain: oma\ | arana	ogEpe7	omaq	sawE	taweh 
+mountain: omaʔ | arana	ogEpe7	omaq	sawE	taweh 
+mountain: tawee | arana	ogEpe7	omaq	sawE	taweh 
+mountain: taweh | arana	ogEpe7	omaq	sawE	taweh 
+mouth: awee | awiq 
+mouth: aweh | awiq 
+name: a-wi\ | awiq 
+name: awiʔ | awiq 
+name: a-wii | awiq 
+name: -wi | awiq 
+narrow: tobuya 
+navel: aunta 
+near: waato 
+near: wahto 
+neck: anuo 
+new: nauna | nauna	o	ǒ 
+new: o | nauna	o	ǒ 
+new: ǒ | nauna	o	ǒ 
+night: inokaape\ | cunkiki7	inokanabubu	inokape7	inokapeq	penana 
+night: inokahpeʔ | cunkiki7	inokanabubu	inokape7	inokapeq	penana 
+nose: abi(y)aa | abia	abiah	aibari7ni	ʌpia 
+not: a\ao | ite 
+not: aʔao | ite 
+not: ire | ite 
+not: ire-ge\ | ite 
+not: ite 
+old: naao 
+old: naho 
+old: ora 
+old: ore 
+old: oreni 
+old: weeura 
+old: wehura 
+one: ebe\ | mora	morá 
+one: ebeʔ | mora	morá 
+one: mora | mora	morá 
+one: morá | mora	morá 
+other: mo 
+person: morani | ani	patani	wEukeni 
+person: patani | ani	patani	wEukeni 
+play: ne\nè\ 
+play: neʔnehʔ 
+pull: abari aiyaʔ 
+pull: abariwe 
+pull: tabiri\ 
+pull: tiyuwo 
+push: paguntane 
+push: praapraa 
+rain: aa\ | ahq	ibo 
+rain: ahʔ | ahq	ibo 
+rain: ibo | ahq	ibo 
+rat: umo\ 
+rat: umoʔ 
+red: eetaa | ehtah	nehe	tauʔtauʔ 
+red: ehtah | ehtah	nehe	tauʔtauʔ 
+red: nee.e | ehtah	nehe	tauʔtauʔ 
+red: nehe | ehtah	nehe	tauʔtauʔ 
+red: tauʔtauʔ | ehtah	nehe	tauʔtauʔ 
+right: pubeʔ | aya	ayankara	ayanobeh 
+ripe: putagoi\ 
+ripe: putagoiʔ 
+river: kokuba kokuba 
+road: aa | a	ah 
+road: ah | a	ah 
+root: anuʔ | anuq 
+root: ánú\ | anuq 
+rope: nagai 
+rope: tapuri 
+rope: tunugiwo 
+rotten: kambareki\ 
+rotten: kambarekiʔ 
+round: aitè 
+round: aiteh 
+round: kenaan.genaa 
+rub: tobari 
+salt: oya\ 
+salt: oyaʔ 
+sand: aakora-pe\ | uβe 
+sand: araawe | uβe 
+sand: arahwe | uβe 
+sand: uße | uβe 
+say: äwä | iraruwo 
+say: iraruwo 
+say: irarúwo | iraruwo 
+seed: aayu | ahyu	ʌyu	ʌžu 
+seed: ahyu | ahyu	ʌyu	ʌžu 
+seed: ʌžu ~ ʌyu | ahyu	ʌyu	ʌžu 
+see: pehitare | tagE7	tagaho 
+see: tagaao | tagE7	tagaho 
+see: tagaho | tagE7	tagaho 
+sew: unah kogahnie 
+sharp: awè 
+sharp: awehrakahʔ 
+sharp: awèrakaa\ 
+sharp: ayèrape\ 
+sharp: intoya 
+sharp: wei 
+short: waato | waʔto 
+short: wahto | waʔto 
+short: waʔto 
+shoulder: ako 
+sing: abaa\ 
+sister: (a)nane 
+sister: anunka 
+sit: maratuo 
+skin: au 
+sky: iyope\ 
+sky: iyopeʔ 
+sleep: guwarero | tugeq 
+sleep: kotè\memiyè\ | tugeq 
+sleep: tugaagai\ | tugeq 
+sleep: tugè\ | tugeq 
+sleep: tugehʔ | tugeq 
+small: ma | ma	pegariq 
+small: peegari\ | ma	pegariq 
+small: pehgariʔ | ma	pegariq 
+smell: akiaki 
+smell: kunguniʔ 
+smell: sunsuni\ 
+smell: sunsuniʔ 
+smoke: amuni\ | amuniq	aune 
+smoke: amuniʔ | amuniq	aune 
+smoke: aune | amuniq	aune 
+smoke: aúne | amuniq	aune 
+smooth: ni\ 
+smooth: niʔ 
+snake: waya 
+some: taamoro 
+son: aanin.ga 
+son: ahninga 
+spit: ingokoʔ 
+spit: witee.ni 
+split: pèbènuo 
+split: pehbehnuo 
+stab: tètèbiyaao 
+stand: irigaao | irigaho 
+stand: irigaho 
+star: o\ | oq	tuempina	wEyo7	weyoq 
+star: oʔ | oq	tuempina	wEyo7	weyoq 
+star: weeyo\ | oq	tuempina	wEyo7	weyoq 
+star: wehyoʔ | oq	tuempina	wEyo7	weyoq 
+stick: tegara 
+stick: yera 
+stone: oniki | eba	kenkawE	koge	konaro	onca	oniki	tomu 
+straight: aeroairaao 
+straight: agigi 
+suck: miti\miti\ 
+suck: mitiʔmitiʔ 
+sun: iyo | iyo	popo7na	popoqnah 
+sun: popo\naa | iyo	popo7na	popoqnah 
+sun: popoʔnah | iyo	popo7na	popoqnah 
+swell: muwi 
+swell: torè\ 
+swell: torehʔ 
+swim: ara 
+tail: awe | awe	ehw~e 
+tail: èèwe | awe	ehw~e 
+tail: eewegárá | awe	ehw~e 
+tail: ehwe ~ awe | awe	ehw~e 
+take: ebo 
+take: meaa.o 
+take: meaho 
+that: mina 
+that: miná | mina 
+there: tebe\ 
+they: -aa\ 
+they: -o\ 
+they: se 
+they two: -èya\ 
+they two: -oya\ 
+they two: -uya\ 
+they: -u\ 
+they: -wa 
+thick: abae 
+thigh: aru 
+thigh: arù 
+think: iwiao 
+think: iwiau\ 
+think: iwiauʔ 
+thin: sopuyʌ 
+thin: tobuya | sopuyʌ 
+this: maana | mana 
+this: mahna | mana 
+thorn: sèikara 
+thorn: taawe 
+thorn: tahwe 
+thou: a- | are 
+thou: -aana\ | are 
+thou: ade | are 
+thou: are 
+thou: -ona\ | are 
+thou: -una\ | are 
+three: taamoro 
+three: tahmoro 
+throat: aoto 
+throat: ehwehi 
+throat: èwèi 
+throw: tupegwaao 
+throw: tupegwaho 
+thunder: puruburu\ 
+thunder: puruburuʔ 
+thunder: putuputu 
+tie: pantenuo 
+tie: pukeraao 
+tie: pukeraho 
+tomorrow: aabiyaa 
+tomorrow: ahbiyah 
+tomorrow: apiae 
+tongue: aneebi | anEbi	anebi 
+tongue: anehbi | anEbi	anebi 
+tooth: awee | awE	awEgara	aweh	ayonkawE 
+tooth: aweh | awE	awEgara	aweh	ayonkawE 
+tooth: ehronkai | awE	awEgara	aweh	ayonkawE 
+tooth: èronkai | awE	awEgara	aweh	ayonkawE 
+tree: aamuraq | awanga	awanka	ta 
+tree: aayu | awanga	awanka	ta 
+tree: awaan.ga | awanga	awanka	ta 
+tree: awahŋa | awanga	awanka	ta 
+tree: (a)wai | awanga	awanka	ta 
+tree: maandu | awanga	awanka	ta 
+tree: maani | awanga	awanka	ta 
+tree: ta | awanga	awanka	ta 
+tree: tèè | awanga	awanka	ta 
+tree: wan.gá | awanga	awanka	ta 
+tree: ʌwaŋka | awanga	awanka	ta 
+turn: ibiyuwo 
+turn: tèeraao 
+turn: teheraho 
+two: taatare | tEtare	tatare	täʔote	téhtaré 
+two: tahtare | tEtare	tatare	täʔote	téhtaré 
+two: täʔote | tEtare	tatare	täʔote	téhtaré 
+vagina: awaa 
+vagina: awah 
+vomit: mugiʔ 
+walk: pehirahnuo | pokaiq 
+walk: pkaiʔ | pokaiq 
+walk: pokai\ | pokaiq 
+wallaby: nabanta 
+warm: toto\i 
+warm: totoʔi 
+wash: pabe-pabe\ 
+wash: pabepabeʔ 
+wash: pero-pero\ 
+wash: peroperoʔ 
+wash: to bari kwaao 
+water: no | abi7nono	ansowa	no	wani 
+water: nò | abi7nono	ansowa	no	wani 
+water: waní | abi7nono	ansowa	no	wani 
+we: -anaa\ | ite 
+weep: a\no 
+weep: aʔno 
+weep: ibitè\ 
+weep: ibitehʔ 
+we: ite 
+we: ni- | ite 
+we: nu- | ite 
+we: -ona\ | ite 
+wet: tantanagi\ 
+wet: tantanagiʔ 
+we two: -ayaa\ 
+we two: -oya\ 
+we two: -uya\ 
+we two: -uyaa\ 
+we: -una\ | ite 
+what: ane\ | aneq 
+what: aneʔ | aneq 
+white: teeyaantaa | teyantah 
+white: tehyahntah | teyantah 
+who: entebo 
+wife: (a)naankawa 
+wife: (a)nahnkawa 
+wind: soiri\ 
+wind: toiri\ 
+wind: toiriʔ 
+wing: owe 
+wing: weto 
+wipe: to bari kwaho 
+with: -tʌʔte 
+woman: aare | ahre	are 
+woman: ahre | ahre	are 
+woman: are | ahre	are 
+wood: tegara 
+worm: topehya | toʔpiʌ 
+worm: toʔpiʌ 
+yellow: peeya\ | peyaq	wiäʔ 
+yellow: pehyaʔ | peyaq	wiäʔ 
+yellow: wiäʔ | peyaq	wiäʔ 
+yes: kowe 
+yesterday: ahbiyah 
+yesterday: ge(mo) 
+you: -aa\ | are 
+you: ite | are 
+you: -o\ | are 
+you two: -èya\ 
+you two: -oya\ 
+you two: -uya\ 
+you: -u\ | are 
+you: -wa | are 
+every: moke	moʔke 
+ash: tanah 
+abdomen: amuq	ʌyapʌ 
+bigness: anotah	ʌnota 
+large: anotah	ʌnota 
+breasts: na	nah	nanau7	ná 
+nail: ayanobeq 
+talon: ayanobeq 
+come from: mabe7 cuno	mao	tiye 
+be dead: EnEruni7	pu7nE7	puinki7	puipuini7	puki7	pukire	taini7	taitaini7 
+dead: EnEruni7	pu7nE7	puinki7	puipuini7	puki7	pukire	taini7	taitaini7 
+ground: marako 
+land: marako 
+soil: marako 
+fat: mayewe 
+fat n.: mayewe 
+grease: mayewe 
+lubricant: mayewe 
+oil: mayewe 
+fly: kogo	ogo 
+fly v.: kogo	ogo 
+left hand: aya	ayankara	ayanobeh 
+1 sg.: ine	ne 
+be knowledgeable: iro 
+head louse: awaci7	nu	wani 
+male: weh	wä 
+much: ahnd~e	awi7	gi7	itʌkʌtiʔtaʔ 
+multiple: ahnd~e	awi7	gi7	itʌkʌtiʔtaʔ 
+several: ahnd~e	awi7	gi7	itʌkʌtiʔtaʔ 
+flesh: aweq 
+hill: arana	ogEpe7	omaq	sawE	taweh 
+title: awiq 
+nighttime: cunkiki7	inokanabubu	inokape7	inokapeq	penana 
+adulterous: mora	morá 
+single: mora	morá 
+the: mora	morá 
+unprincipled: mora	morá 
+human: ani	patani	wEukeni 
+human being: ani	patani	wEukeni 
+rainy weather: ahq	ibo 
+path: a	ah 
+route: a	ah 
+hide: au 
+little: ma	pegariq 
+smallness: ma	pegariq 
+rock: eba	kenkawE	koge	konaro	onca	oniki	tomu 
+2 sg: are 
+grind: tEtare	tatare	täʔote	téhtaré 
+go: pokaiq 
+1 pl. inc.: ite 
+we₁: ite 
+whiteness: teyantah 
+who?: entebo 
+female: ahre	are 
+earthworm: toʔpiʌ 

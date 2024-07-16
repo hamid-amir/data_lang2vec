@@ -1,0 +1,262 @@
+all: tafau 
+every: tafau 
+ash: kaŋgana 
+ashes: kaŋgana 
+abdomen: ene- 
+belly: ene- 
+big: fyabai/fyebai 
+bigness: fyabai/fyebai 
+large: fyabai/fyebai 
+bird: romu 
+bite: i-kiri 
+black: nu|meta 
+blood: rika 
+bone: ina 
+breast: ui 
+breasts: ui 
+cloud: rarika 
+cold: ikararutu 
+come: -ma	ma	roma 
+come from: -ma	ma	roma 
+be dead: mareha	mureha	reha 
+dead: mareha	mureha	reha 
+die: mareha	mureha	reha 
+dog: fiawera	piawera 
+drink: i-unu	unu	unum 
+dry: sirahiai 
+ear: tara	taraa-	tarand~au 
+eat: i-ampi 
+egg: neibo 
+eye: ure	ure- 
+feather: kararoa 
+fire: adia 
+fish: dia	diaN 
+fly: sifo 
+fly v.: sifo 
+full: sepaN 
+good: be 
+green: kehe 
+hair: nu- 
+hand: wara	waraŋ 
+left hand: wara	waraŋ 
+right: wara	waraŋ 
+head: kamiai 
+hear: i-tara-hu oa	taradidawai	tarao 
+horn: karadoi 
+1 sg.: dy~au	yau 
+I: dy~au	yau 
+kill: i-muni 
+knee: abe buka	buka 
+be knowledgeable: tawana 
+know: tawana 
+leaf: rerau	rerauN	rerawN 
+lie: i-vata 
+lie down: i-vata 
+liver: anteni	ene roroN 
+long: dauroi 
+head louse: utu	u|utu 
+louse: utu	u|utu 
+male: muaŋ 
+man: inoN	inonturai	ma 
+moon: embai 
+hill: beway	uai 
+mountain: beway	uai 
+mouth: boro- 
+name: bonoN	wono 
+title: bonoN	wono 
+neck: kanaŋ 
+new: baworu	vevoru	weworu 
+night: diru 
+nighttime: diru 
+nose: ube-	ubo	ubomo 
+adulterous: bei	bo-iri	bo-yori	siri 
+one: bei	bo-iri	bo-yori	siri 
+single: bei	bo-iri	bo-yori	siri 
+that: manana 
+the: bei	bo-iri	bo-yori	siri 
+unprincipled: bei	bo-iri	bo-yori	siri 
+human: inoN	inonturai	ma 
+human being: inoN	inonturai	ma 
+person: inoN	inonturai	ma 
+rain: meta 
+rainy weather: meta 
+red: berika 
+path: ra	raN	raŋ 
+road: ra	raN	raŋ 
+route: ra	raN	raŋ 
+root: newa 
+sand: ninuai 
+say: i-eoa 
+see: boti	i-vati	oti	wait 
+sit: i-minohi 
+hide: rerawa 
+skin: rerawa 
+sleep: i-ena 
+little: katui	ketui 
+small: katui	ketui 
+smallness: katui	ketui 
+smoke: rirau 
+star: abaha	avaha	awaha 
+rock: kamiai	kamiei 
+stone: kamiai	kamiei 
+sun: bo	wo 
+swim: -eria 
+tail: amandau 
+this: nini 
+2 sg: wau 
+thou: wau 
+you: wau 
+tongue: tap[e]re-	tapere	tapereN 
+tooth: dere	dore- 
+tree: ai	airaboN 
+grind: bo-ru	boru	ru 
+two: bo-ru	boru	ru 
+go: i-ra 
+walk: i-ra 
+hot: meŋgapoi 
+warm: meŋgapoi 
+water: mereha 
+1 pl. inc.: amea	tata 
+we: amea	tata 
+we₁: amea	tata 
+what: fiani 
+white: bua 
+whiteness: bua 
+who: waune 
+who?: waune 
+female: viviŋ 
+woman: viviŋ 
+yellow: byomini 
+distant: wairoi 
+far: wairoi 
+dull: miraba 
+heavy: miraba 
+serious: miraba 
+close: kefa 
+near: kefa 
+ner: kefa 
+salt: ai 
+short: tana 
+snake: tawai 
+thin: simbena 
+wind: wana 
+earthworm: kauboi 
+worm: kauboi 
+year: fuina 
+2 pl.: mea	wau 
+ye: mea	wau 
+you all: mea	wau 
+3 pl.: ea 
+they: ea 
+where: andi-doni 
+where?: andi-doni 
+when: rah|ida bo-doni 
+when?: rah|ida bo-doni 
+how: fiani 
+how?: fiani 
+other: siai 
+three: bo-toru 
+four: bo-a 
+five: ring	riŋ 
+broad: fyabai 
+wide: fyabai 
+wideness: fyabai 
+fat: fiabai 
+thick: tehuba 
+narrow: katui 
+principal wife: vivi 
+wife: vivi 
+husband: muaŋ 
+his mother: ai 
+mother: ai 
+my mother: ai 
+father: dai 
+his father: dai 
+my father: dai 
+forest: werabuande 
+woods: werabuande 
+fruit: bo 
+flower: nebu 
+grass: afui 
+cord: wai 
+rope: wai 
+flesh: tarai- 
+meat: tarai- 
+grease: fiabai 
+wing: varapema 
+gut: enembuka	ne-hu wairi 
+guts: enembuka	ne-hu wairi 
+insides: enembuka	ne-hu wairi 
+intestine: enembuka	ne-hu wairi 
+intestines: enembuka	ne-hu wairi 
+back: kuruu- 
+suck: i-sufi 
+spit: i-kanui 
+vomit: i-mamuta 
+blow: siai 
+breath: aiou 
+breathe: aiou 
+laugh: i-miri 
+laughter: i-miri 
+cogitate: tituaita 
+reflect: tituaita 
+think: tituaita 
+smell: -naha 
+sniff: -naha 
+afraid: i-matai 
+be afraid: i-matai 
+fear: i-matai 
+fright: i-matai 
+hunt: i-mumpi 
+beat: i-tuhiŋ 
+hit: i-tuhiŋ 
+strike: i-tuhiŋ 
+cut: i-kutui 
+hack: i-kutui 
+cut open: i-tarabauri 
+split: i-tarabauri 
+pierce: i-isaŋ 
+stab: i-isaŋ 
+scratch: ramati 
+dig: i-sarai 
+stand: i-oa 
+drop: i-tawa 
+fall: i-tawa 
+grasp: i-ruti 
+hold: i-ruti 
+hold in arm: i-ruti 
+squeeze: i-kuari 
+wring: i-kuari 
+throw: i-so 
+bind: i-aviti 
+fasten: i-aviti 
+tie: i-aviti 
+tie up: i-aviti 
+sew: i-awa 
+count: i-eto 
+enumerate: i-eto 
+number: i-eto 
+tally: i-eto 
+flow: deda 
+lake: ruru 
+ocean: ravana 
+sea: ravana 
+dust: ayo 
+fog: kafafe 
+sky: rora 
+bad: kerira 
+evil: kerira 
+rot: fitata	piso 
+rotten: fitata	piso 
+dirty: rarika 
+filthy: rarika 
+soiled: rarika 
+sharp: reisa 
+blunt: rehabu 
+damp: vevasa 
+wet: vevasa 
+right side: moya 
+left: wei 
+at: na 
+in: rorompu 
+inside: rorompu 

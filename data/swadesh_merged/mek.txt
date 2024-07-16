@@ -1,0 +1,337 @@
+all: aufa | maʼoai 
+and: ke 
+ashes: umu | agafa 
+back: ova | ofa 
+bad: apala 
+bark: au faaŋā 
+because: puoŋai (puo-ŋa-ai) 
+belly: inae | gua 
+big: akaikia | apao 
+bird: inei 
+bite: e-aŋa | kafina 
+black: umu(-ŋa) 
+blood: ifa 
+blow: e-pua 
+bone: unia 
+breast: ʔuʔu | olaga 
+breathe: laʔaie-ŋuŋu-ŋa | guga 
+burn: e-aŋa(-i-a) | aga 
+child: imoi 
+cloud: apu-apu | ʼapuapu 
+cold: e-kekea | kekeʼa 
+come: e-mai 
+correct: e-kai(-na) 
+count: e-kuapi(-na) | pauga 
+cut: e-iva(-i-a) | opia 
+day: kina 
+day: kina (as for sun, time) 
+die: e-mae 
+dig: e-api(-a) | apia 
+dirty: e-ofu 
+dog: amuʔe | amu7e	amuʼe 
+drink: e-inu(-a) 
+dry: e-fuŋa | fuga 
+dull: fuŋu | meau | efugu 
+dust: ae-apu | ae|apu 
+ear: aina 
+earth: aŋo 
+eat: e-aniani, e-ania | ʼaniani 
+egg: aoi 
+empty: maini 
+eye: maa 
+fall: tuda | ufalai 
+far: aŋomai | akai 
+father: ama 
+fat (n.): oʔo 
+fear: maniʔi | maniʼi 
+feather: inei puina 
+few: afa 
+fingernail: ima ofē 
+fire: napʷ | lo 
+fish: maʔa | ma7a	maʼa 
+five: ima 
+float: eŋau 
+flow: e-lolo | kipo 
+flower: kai-kai | kaikai 
+fly (v.): e-ŋopo 
+fog: apu | ama 
+foot: ue 
+forest: aŋo | aufaʼi 
+four: pani 
+frog: kulua 
+fruit: pua | au pua 
+full: poŋu 
+give: e-peni-a 
+good: [felō] | felo 
+grass: ava | afa 
+green: aŋe-aŋe | ageage 
+guts: fuouo-ŋa | inae 
+hair: fufu 
+hand: ima 
+head: kania 
+hear: e-loŋo | aina logo 
+heart: ŋua-fopa 
+heavy: meau 
+he: isa 
+here: ina, inae 
+hit:   e-au-ŋa | auga 
+hold: e-afia 
+how: alā koā | alakoa 
+hunt: e-kapu-kapu | kapukapu 
+husband: akava | akafa 
+ice: vei ʔoʔopi-na 
+if: aisama  (aiama) 
+I: Iau | lau 
+in: aloŋai (alo-ŋa-ai) 
+kill: e-au-puŋu-a | au pugua 
+knee: kiu 
+know: e-loŋo | logo 
+lake: ofu(-ŋa) | ofuga 
+large: akaikia | apao 
+laugh: e-aʔa | ʼaʼa 
+leaf: ŋaŋau-ŋa | au gagau 
+left: lafanina 
+leg: pao 
+lie: e-ka-kipo | kakipo 
+live: mauni | agu 
+liver: aʔe | a7e	ʼaʼe 
+long: maeva | maefa 
+louse: uu | u	ʼu 
+man: au | papiau 
+many: maʔo 
+meat: kiki | tsitsi	ʼaʼo 
+meat: kiki (tsitsi) | tsitsi	ʼaʼo 
+meat: pikio | tsitsi	ʼaʼo 
+moon: ŋava | gafa 
+mother: ina 
+mountain: iku 
+mouth: ake 
+name: aka 
+narrow: ope | epo ʼeʼele 
+near: kainaŋai | egai 
+neck: aiso (aio) 
+new: mama(-ŋa) 
+night: ŋapi | gapi 
+nose: kua 
+not: a- 
+old:   apao 
+one: aŋao | agao	agaomo 
+person: papiau 
+play: e-ʔopua 
+pull: e-laʔa(-i-a) 
+push: e-koni-na 
+rain: imu 
+red: pito(-ŋa) 
+right: kai-na | ima 
+river: ake 
+road: keaŋa | keaga 
+root: ŋamu | gagamu 
+rope: ʔaŋau | apaʼu 
+rotten: feka | foka 
+round: e-paʔi(e-pa-ii) 
+rub: e-fai(-na) 
+salt: ʔiʔifo | kikimalu	ʼiʼifo 
+sand: fiŋu | figu 
+say: e-iva | ifa | figu 
+sea: aʔu | ʼaʼu 
+seed: ani 
+see: e-isa 
+sew: e-kai(-na) | kai|na 
+sharp: ako 
+short: foʔoa | foʼoa 
+sing: e-ivi 
+sit: e-aŋu | agu 
+skin: faa | faga 
+sky: ufa | ʼufa 
+sleep: feu 
+small: eʔele | ʼeʼele 
+smell: foŋa e-loŋo | foga logo 
+smoke: aku 
+smooth: maŋe-ʔafu 
+snake: kaapa | kapa 
+some: isa (ia) 
+spit: e-ʔupe | ʼupe 
+split: e-fafa(-i-a) 
+stab: e-fau(-ŋa) | fauga	o-ga 
+stand: e-apa 
+star: miʔi-miʔi | mi7imi7i	miʼimiʼi 
+stick: au | aga 
+stone: kepo 
+straight: ʔopai(-na) 
+suck: e-ʔu | guga 
+sun: kina 
+swim: e-ngau 
+tail: iu 
+that: enga\ina | egaʼina | agao	agaomo 
+there: enga, engae 
+they: isa 
+thick: ʔafua 
+think: e-opolaŋa 
+thin: manipi 
+this: ina\ina | iʼina 
+thou: oi | isa 
+three: oiso 
+throw: e-pu-akr | piuga 
+tie: e-ŋope(-i-a) | gope 
+tongue: mala 
+tree: au 
+turn: giro-a hanai 
+two: ŋua | gua 
+vomit: e-uŋa | ʼuga 
+walk: e-pea 
+warm: isapu 
+water: vei | fei 
+we: i\a, lai | i7a	lai	ʼiʼa 
+wet: e-vei | fei 
+what: kapa-ʔina (kapa-ina) | kapa|ina 
+when: ŋaika | gaika 
+where: kapai 
+which: ala-ʔina(ala-ina) 
+white: kelo(-ŋa) 
+who: kai | kai	kaisau 
+why: kapa puo 
+wide: falapa 
+wife: akava | akafa 
+wind: ameku | ameku	lanina 
+wing: pani 
+woman: papie 
+worm: ʔima-ʔima | ʼimaʼima 
+wrong: apala 
+year: ʔinipo 
+yellow: laofa(-ŋa) 
+you: oi | isa 
+every: maʼoai 
+ash: agafa 
+abdomen: gua 
+bigness: apao 
+black: umu 
+breasts: olaga 
+burn tr.: aga 
+come: mai 
+come from: mai 
+be dead: mae 
+dead: mae 
+die: mae 
+drink: inu 
+eye: ma 
+feather: pui 
+fly: gopo 
+fly v.: gopo 
+left hand: ima 
+1 sg.: lau 
+be knowledgeable: logo 
+lie down: kakipo 
+head louse: u	ʼu 
+male: maguae 
+title: aka 
+neck: aiso 
+new: mama 
+nighttime: gapi 
+adulterous: agao	agaomo 
+single: agao	agaomo 
+the: agao	agaomo 
+unprincipled: agao	agaomo 
+human: papiau 
+human being: papiau 
+rainy weather: imu 
+red: pito 
+path: keaga 
+route: keaga 
+see: isa 
+hide: faga 
+little: ʼeʼele 
+smallness: ʼeʼele 
+rock: kepo 
+swim: gau 
+2 sg: isa 
+tooth: nie 
+grind: gua 
+go: pea 
+walk: pea 
+hot: isapu 
+1 pl. inc.: i7a	lai	ʼiʼa 
+we₁: i7a	lai	ʼiʼa 
+white: kelo 
+whiteness: kelo 
+who?: kai	kaisau 
+female: papie 
+yellow: laofa 
+distant: akai 
+serious: meau 
+close: egai 
+ner: egai 
+earthworm: ʼimaʼima 
+year: inipo 
+2 pl.: oi 
+ye: oi 
+you all: oi 
+3 pl.: isa 
+where?: kapai 
+when?: gaika 
+how?: alakoa 
+other: isaʼi 
+broad: falapa 
+wideness: falapa 
+fat: ʼoʼo 
+thick: afua 
+principal wife: akafa 
+his mother: ina 
+my mother: ina 
+his father: ama 
+my father: ama 
+woods: aufaʼi 
+branch: aga 
+cord: apaʼu 
+flesh: tsitsi	ʼaʼo 
+grease: ʼoʼo 
+gut: inae 
+insides: inae 
+intestine: inae 
+intestines: inae 
+blow: pua 
+breath: guga 
+laughter: ʼaʼa 
+cogitate: opola 
+reflect: opola 
+think: opola 
+sniff: foga logo 
+afraid: maniʼi 
+be afraid: maniʼi 
+fright: maniʼi 
+alive: agu 
+be alive: agu 
+life: agu 
+living: agu 
+beat: auga 
+strike: auga 
+hack: opia 
+cut open: fafa 
+split: fafa 
+pierce: fauga	o-ga 
+scratch: ʼaʼiʼina 
+stand: apa 
+drop: ufalai 
+grasp: afia 
+hold: afia 
+hold in arm: afia 
+squeeze: fioka 
+wring: fioka 
+bind: gope 
+fasten: gope 
+tie up: gope 
+enumerate: pauga 
+number: pauga 
+tally: pauga 
+ocean: ʼaʼu 
+evil: apala 
+rot: foka 
+dirty: ofu 
+filthy: ofu 
+soiled: ofu 
+blunt: efugu 
+damp: fei 
+right side: kai 
+left: lafani 
+in: alo 
+inside: alo 
+if: aisama 

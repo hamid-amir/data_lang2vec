@@ -1,0 +1,250 @@
+arm: rakët
+arm: rakət
+arm: rakita
+arm: rakita
+bad: nouman
+bad: nounam
+bad: wa:na
+bad: waːna
+belly: yimpëx
+belly: yimpəx
+bird: antë | antə	aŋtau
+bird: antə | antə	aŋtau
+bird: nata | antə	aŋtau
+bird: nata | antə	aŋtau
+black: leyin | leyin	leⁱn
+black: leyin | leyin	leⁱn
+blood: amkë | amkə	amuŋgɨ
+blood: amkə | amkə	amuŋgɨ
+blood: lengka | amkə	amuŋgɨ
+blood: leŋka | amkə	amuŋgɨ
+bone: lakët | lakət	lakɪt
+bone: lakət | lakət	lakɪt
+bone: lakita | lakət	lakɪt
+bone: lakita | lakət	lakɪt
+breast: mata
+breast: mata
+breast: mate
+breast: mate
+child: kata
+child: kata
+child: wirang
+child: wiraŋ
+come: amang
+come: amaŋ
+come: kila
+come: kila
+dog: pata | pate	patur	patə
+dog: pata | pate	patur	patə
+dog: patë | pate	patur	patə
+dog: patə | pate	patur	patə
+ear: ma | ma	maf
+ear: ma | ma	maf
+ear: ma | ma	maf
+ear: ma | ma	maf
+earth: ülap
+earth: ülap
+earth: waya
+earth: waya
+egg: puta | yilkit	yɪlkut
+egg: puta | yilkit	yɪlkut
+egg: yilkit | yilkit	yɪlkut
+egg: yilkit | yilkit	yɪlkut
+eye: napaka | yampax	yamte
+eye: napaka | yampax	yamte
+eye: yampax | yampax	yamte
+eye: yampax | yampax	yamte
+father: ataya
+father: ataya
+father: yaki
+father: yaki
+fire: yakë | yali	yalix
+fire: yakə | yali	yalix
+fire: yalix | yali	yalix
+fire: yalix | yali	yalix
+give: mpa | ibalge	mpale
+give: mpa | ibalge	mpale
+give: mpale | ibalge	mpale
+give: mpale | ibalge	mpale
+good: olanum | olanum	subal
+good: olanum | olanum	subal
+good: pwolana | olanum	subal
+good: pwolana | olanum	subal
+head: pale | balɨ	pale
+head: pale | balɨ	pale
+head: peine | balɨ	pale
+head: peine | balɨ	pale
+he/she: anfin
+he/she: anfin
+he/she: n-
+he/she: p-
+he/she: rana
+he/she: rana
+I: kiy
+I: kiy
+I: ngkiye
+I: ŋkiye
+leg: walëk
+leg: walək
+leg: xuwë
+leg: xuwə
+louse: ralëx
+louse: raləx
+louse: rarka
+louse: rarka
+man: matei
+man: matei
+man: teralkit
+man: teralkit
+moon: aunëxë | auni	ouyi
+moon: aunəxə | auni	ouyi
+moon: ouyi | auni	ouyi
+moon: ouyi | auni	ouyi
+mother: nëki
+mother: nəki
+mother: nuraya
+mother: nuraya
+nose: malëx | maləx	manuk
+nose: malka | maləx	manuk
+rain: ni:
+rain: niː
+rain: won
+rain: won
+red: amngkër | amugɨ	amŋkər
+red: amŋkər | amugɨ	amŋkər
+see: imsi | imsi	yali
+see: imsi | imsi	yali
+skin: pawült
+skin: pawült
+skin: pawulta
+skin: pawulta
+smoke: wakë | wagɨt	wakit
+smoke: wakə | wagɨt	wakit
+smoke: wakit | wagɨt	wakit
+smoke: wakit | wagɨt	wakit
+star: miru | yampulte	yembulte
+star: miru | yampulte	yembulte
+star: yampulte | yampulte	yembulte
+star: yampulte | yampulte	yembulte
+stone: kita
+stone: kita
+stone: xëte
+stone: xəte
+sun: wopli | wabli	wopli
+sun: wopli | wabli	wopli
+sun: xahi | wabli	wopli
+sun: xahi | wabli	wopli
+they: anfal
+they: anfal
+they: l-
+thou: y-
+thou: yi
+thou: yi
+thou: yi
+thou: yi
+thou: yifi
+tongue: yilwat | fat	yilwat
+tongue: yilwat | fat	yilwat
+tooth: naːkan | yaŋgan	yaŋkən
+tooth: na:kën | yaŋgan	yaŋkən
+tooth: yangkën | yaŋgan	yaŋkən
+tooth: yaŋkən | yaŋgan	yaŋkən
+tree: lowë
+tree: lowə
+tree: ni:pa
+tree: niːpa
+two: fiyë
+two: fiyə
+two: wiye
+two: wiye
+walk: amlaf
+walk: amlaf
+walk: mla
+walk: mla
+water: ni: | ni	niː
+water: niː | ni	niː
+water: wïn | ni	niː
+water: wɨn | ni	niː
+we: m-
+we: ngkam
+we: ŋkam
+we two (incl.): w-
+white: yaliekë
+white: yaliekə
+wind: makë | magɨ	makə
+wind: makë | magɨ	makə
+wind: makə | magɨ	makə
+wind: makə | magɨ	makə
+woman: nusakei
+woman: nusakei
+woman: yu
+woman: yu:
+you: yi-fi
+all	every: nugu naki
+ash	ashes: wut yawut
+bark: albɨ	lo albɨ
+abdomen	belly: fogil	yimpəx
+big	bigness	large: beɪn
+bite: panum
+breast	breasts: mataf	mate
+claw	nail	talon: paŋgit
+cloud: maŋgur
+cold: magin
+come	come from: amaŋ	yemaŋ
+be dead	dead	die: namuk
+drink: ana	ana-ni
+dry: laiɪl
+earth	ground	land	soil: ülap
+eat: ama
+feather: butaof
+fish: gɨwk
+fly	fly v.: aŋti na-purigai	na-purigai
+foot: walag
+full: pam
+green: matal
+hair: balɨ
+hand	left hand	right: sug
+hear: wam
+heart: wunak
+1 sg.	I: ge	ŋkiye
+kill: anambawɪn
+knee: wapunig
+be knowledgeable	know: owam
+leaf: yifu
+liver: balbɨ
+long: yaolil
+male	man: teralkit	ŋgan
+many	much	multiple	several: naki
+hill	mountain: ɪlbɪt
+mouth: wataf
+name	title: yaute
+neck: yelʌgu baitɨ
+new: yaŋgɪn
+night	nighttime: wabu
+adulterous	one	single	that	the	unprincipled: nopaof
+human	human being	man	person: nopap
+rain	rainy weather: niː	nᵘɨ
+root: balot	lo balot
+round: wɪlɪmta
+sand	say: salman
+say: nɪn ninaim
+seed: lo lute	lute
+sit: ari
+hide	skin: baul	pawült
+sleep: yagaf
+little	small	smallness: yɪkai
+rock	stone: xəte	ʉgtɪl
+swim: yukit na-mor
+tail: yalwit
+that: nile
+this: bela
+2 sg	thou	you: yi
+grind	two: wea	wiye
+go	walk: ɛmlap
+what: belamɨ
+white	whiteness: yaliekə	yalɛgɨ
+who	who?: bile mune
+female	woman: anpai	yu
+yellow: wulit
+dull	heavy	serious: yiŋgʌr
+snake: bugan

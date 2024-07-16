@@ -1,0 +1,293 @@
+all: maxeṣ 
+every: maxeṣ 
+ash: ʔ-è-apl 
+ashes: ʔ-è-apl 
+bark: šèu-tˀ 
+big: unker	àṣ-čou 
+bigness: unker	àṣ-čou 
+large: unker	àṣ-čou 
+bird: čači 
+bite: so 
+black: pˀàr 
+blood: vuar	wàʔr	xuar 
+bone: ko	ḳˀoʔ 
+breast: Cet7~n	čètˀen 
+breasts: Cet7~n	čètˀen 
+cloud: šoʔn ša 
+cold: čàrxe 
+come: vuenen	xe	xia 
+come from: vuenen	xe	xia 
+be dead: Cesken	v7~luluCen	w-ličè	čeṣke 
+dead: Cesken	v7~luluCen	w-ličè	čeṣke 
+die: Cesken	v7~luluCen	w-ličè	čeṣke 
+dog: vuisn	vuisnokr	wisnʔ	šàhlki 
+drink: Ceten	Covuten	čètˀe 
+dry: hàpè 
+ear: Sen	sin 
+earth: harwn 
+ground: harwn 
+land: harwn 
+soil: harwn 
+eat: tˀe 
+egg: èl 
+eye: oth~er	otr 
+feather: s-è-ètr 
+fire: xauxe	xàhwḳˀ-n 
+fish: tapl 
+fly: re 
+fly v.: re 
+foot: hal-yeʔn 
+full: sarnar	ṣàrè 
+give: ye 
+good: hane	k-wan oličè 
+green: pòʔtè-r	tˀoh-r 
+hair: ahle 
+hand: Cen	čin 
+left hand: Cen	čin 
+right: Cen	čin 
+head: ahle-tˀàʔ 
+hear: vioy	yo	yon 
+heart: tol 
+horn: hòʔṣ ḳˀoʔ	koSko	koth~sko 
+1 sg.: y-ah	ya 
+I: y-ah	ya 
+kill: mateʔ 
+knee: kaCer	kere	ḳˀahči 
+be knowledgeable: ayker 
+know: ayker 
+leaf: Sen	th~el	ḳˀèl 
+lie: xa 
+lie down: xa 
+liver: peSske	ḳàʔyi 
+long: w-ʔoy 
+head louse: apen	haʔpn 
+louse: apen	haʔpn 
+male: čonn 
+man: čonn 
+many: ḳˀàr 
+much: ḳˀàr 
+multiple: ḳˀàr 
+several: ḳˀàr 
+flesh: yèpr 
+meat: yèpr 
+moon: k-re-èn 
+hill: aruinoto	kˀoyin 
+mountain: aruinoto	kˀoyin 
+mouth: k-àṣ-ḳn 
+name: yo	yon 
+title: yo	yon 
+neck: òhtˀ 
+new: makka	maʔḳà 
+night: x-è-ankˀn	xanxen 
+nighttime: x-è-ankˀn	xanxen 
+nose: ol	oul	ul 
+adulterous: ken7~tren	sous	sôs 
+one: ken7~tren	sous	sôs 
+single: ken7~tren	sous	sôs 
+that: ken7~tren	sous	sôs 
+the: ken7~tren	sous	sôs 
+unprincipled: ken7~tren	sous	sôs 
+human: čonn 
+human being: čonn 
+person: čonn 
+rain: čalwn 
+rainy weather: čalwn 
+red: pòʔtè	òtè 
+path: vax	vuaSk 
+road: vax	vuaSk 
+route: vax	vuaSk 
+root: hari 
+round: amitèr 
+sand: teri	šinn 
+say: yer	ʔàr 
+see: ahyḳe	aiken	kaiken 
+sit: pe 
+hide: hòl	ol	ulx 
+skin: hòl	ol	ulx 
+sleep: miṣteʔ 
+little: tˀeplwè 
+small: tˀeplwè 
+smallness: tˀeplwè 
+smoke: teʔn 
+star: tel	telu 
+rock: yahr	yar 
+stone: yahr	yar 
+sun: k-re-nn	kren 
+swim: m-yew 
+tail: ʔoš 
+2 sg: m-ah	ma	mak 
+thou: m-ah	ma	mak 
+you: m-ah	ma	mak 
+tongue: Cail	čal 
+tooth: hor	or 
+tree: arneCon 
+grind: kari	s-è-oki	son	sôki 
+two: kari	s-è-oki	son	sôki 
+go: čee 
+walk: čee 
+hot: kawʔ 
+warm: kawʔ 
+water: Covun	čòhwn 
+1 pl. inc.: iCCe	ikua 
+we: iCCe	ikua 
+we₁: iCCe	ikua 
+what: h-uneṣ 
+white: ṣòʔl 
+whiteness: ṣòʔl 
+who: k-uneṣ 
+who?: k-uneṣ 
+female: naʔ 
+woman: naʔ 
+yellow: pòʔtè-l	tˀoh-l 
+distant: tohni 
+far: tohni 
+dull: ʔàyèn 
+heavy: ʔàyèn 
+serious: ʔàyèn 
+close: manek 
+near: manek 
+ner: manek 
+short: tišè 
+thin: tel	čeʔwel 
+wind: šinu 
+earthworm: č-è-apl 
+worm: č-è-apl 
+2 pl.: m-ah-y 
+ye: m-ah-y 
+you all: m-ah-y 
+where: kiṣ 
+where?: kiṣ 
+when: kiṣ ḳ haʔyuk 
+when?: kiṣ ḳ haʔyuk 
+some: ʔèhḳ 
+few: k-aʔč 
+three: sauke	ṣ-è-àwken 
+four: koni-sôki	kˀòhni sèoki 
+five: kismarei 
+broad: aytike 
+wide: aytike 
+wideness: aytike 
+fat: òʔl-n 
+thick: unker	čè 
+narrow: àṣ-tèr 
+child: tˀelḳn 
+principal wife: naʔ 
+wife: naʔ 
+husband: ṣè 
+his mother: ahm 
+mother: ahm 
+my mother: ahm 
+father: ʔàynn 
+his father: ʔàynn 
+my father: ʔàynn 
+forest: hèrṣḳn 
+woods: hèrṣḳn 
+branch: ḳˀèl 
+stick: ḳˀèl 
+grass: xòšl 
+cord: ḳˀahyi 
+rope: ḳˀahyi 
+grease: òʔl-n 
+claw: kˀaw 
+fingernail: kˀaw 
+nail: kˀaw 
+leg: hali 
+wing: s-è-ètr ḳˀeyin 
+gut: pˀàni	čòʔwl 
+guts: pˀàni	čòʔwl 
+insides: pˀàni	čòʔwl 
+intestine: pˀàni	čòʔwl 
+intestines: pˀàni	čòʔwl 
+back: hàtèṣḳn 
+suck: čètˀe-r 
+spit: pèotˀè 
+vomit: kòri-čè 
+blow: hayen	xòx-ye 
+breath: xòxè 
+breathe: xòxè 
+laugh: wi 
+laughter: wi 
+cogitate: xowen 
+reflect: xowen 
+think: xowen 
+smell: ṣ-we 
+sniff: ṣ-we 
+afraid: wanyun 
+be afraid: wanyun 
+fear: wanyun 
+fright: wanyun 
+alive: wa 
+be alive: wa 
+life: wa 
+live: wa 
+living: wa 
+fight: ṣe 
+hunt: hòʔyi-pè 
+beat: hà 
+hit: hà 
+strike: hà 
+cut: pˀa 
+hack: pˀa 
+cut open: pˀa 
+split: pˀa 
+tell lies: leḳe 
+stand: ʔay 
+turn: ʔečeryè 
+turn around: ʔečeryè 
+turn round: ʔečeryè 
+drop: w-a	w-hene	w-yèe 
+fall: w-a	w-hene	w-yèe 
+grasp: we	šè 
+hold: we	šè 
+hold in arm: we	šè 
+squeeze: at-nèʔ 
+wring: at-nèʔ 
+rub: ʔàxè 
+wipe: ʔàxè 
+wash: ʔòčèʔ 
+wash clothes: ʔòčèʔ 
+push: amnʔ 
+shove: amnʔ 
+throw: ye 
+bind: atˀe 
+fasten: atˀe 
+tie: atˀe 
+tie up: atˀe 
+sew: ʔo 
+sing: yewi 
+have fun: tˀereʔ 
+play: tˀereʔ 
+flow: ḳˀà 
+brook: šikèʔn 
+river: šikèʔn 
+stream: šikèʔn 
+lake: čòhwn 
+ocean: kˀohx 
+sea: kˀohx 
+dust: te 
+fog: pàhl ʔay 
+sky: šoʔn 
+snow: xòhš 
+ice: ṣètr 
+blaze: wòmke	yelwetè 
+burn: wòmke	yelwetè 
+bad: ʔaymer 
+evil: ʔaymer 
+rot: wal	wàčè 
+rotten: wal	wàčè 
+dirty: čalki 
+filthy: čalki 
+soiled: čalki 
+straight: hòṣketˀè 
+sharp: wičè 
+smooth: ax-ketˀè	aypˀèl 
+damp: òʔltxe 
+wet: òʔltxe 
+correct: pˀàʔ	ʔènyè 
+right side: šòʔw 
+left: ʔanik 
+in: àṣ	ʔàwuṣ 
+inside: àṣ	ʔàwuṣ 
+and: wày 
+if: hày 
+because: hày 

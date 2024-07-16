@@ -1,0 +1,399 @@
+all: opia | opiʔia 
+all: opiʔia 
+arm: akapio 
+arrow: mboapaga 
+ashes: kaputaʔo 
+ashes: kaputáo | kaputaʔo 
+at: ibou 
+back: ahikasi 
+back: tu\u 
+back: tuʔu-ara 
+bad: borogarɛ 
+bad: rogare 
+bark: ɛßasa-aru | ɛβasa-aru 
+belly: kobu | koβu-ara 
+belly: koßu-ara | koβu-ara 
+belly: ohoitue | koβu-ara 
+big: bakassua | pakasua 
+big: pakasua 
+big: paua | pakasua 
+bird: moʔoyo 
+bird: oio | moʔoyo 
+bite: apoapoiːta 
+bite: apu(?t) | apoapoiːta 
+bitter: ate-ate 
+bitter: kakate 
+black: kopisi | -kopisi- 
+black: -kopisi- 
+blood: parako | parakoa	parakoa aβaro 
+blood: parakoa aßaro | parakoa	parakoa aβaro 
+bone: lɛʔu-ara | lɛʔu-ara	reu 
+boy: hituku 
+boy: hitukuiːta 
+branch: rao 
+breast: loloʔoː 
+breast: raroo | loloʔoː 
+brother: boarawara 
+brother: tata 
+brother: toitab- 
+burn: bohiaohua 
+burn: eto 
+burn: kara-hua 
+cheek: tataue 
+chest: kesuri 
+child: abiraau- 
+child: tɛhaːiːta 
+chin: karautu 
+chin: kɛraʷa aßa\aro 
+claw: kaitaʔɛru-ara 
+cloud: boraːri 
+cloud: rari | boraːri 
+cold: mboraßu | mboraβu 
+come: taʷuia | luilui	taᵘruia 
+come: urio | luilui	taᵘruia 
+count: gi 
+cut: ta 
+dark: aisubai 
+dark: kahuhua 
+daughter: ouparib- 
+day: bogi 
+day: bogiasi 
+day: ea 
+die: pii | pi	tapipitɛrɛ 
+die: tapipitɛrɛ | pi	tapipitɛrɛ 
+die: uhi-ita | pi	tapipitɛrɛ 
+dig: tapuru 
+dig: uri 
+dog: kɛʔɛsu | kesu	kɛʔɛsu 
+dog: kesu | kesu	kɛʔɛsu 
+drink: era | era	itaraːɛa 
+drink: itaraːɛa | era	itaraːɛa 
+dry: botakaʔa 
+dust: roso-roso 
+dust: suhi 
+earth: bokorao 
+earth: korau 
+earth: koto\o 
+earth: piri 
+ear: ubateo | ubateo	uβatɛʔo-ara 
+ear: ußatɛʔo-ara | ubateo	uβatɛʔo-ara 
+eat: kuri\i | taʔayoβa 
+eat: taʔayoßa | taʔayoβa 
+egg: basi | masisita 
+egg: masisita 
+elbow: utuhɛ atoʔoto-ara 
+excrement: rohe 
+eye: otei- | otei	otei-ara 
+eye: otei-ara | otei	otei-ara 
+face: tae 
+fall: takopeia 
+father: aito-ko-oa 
+father: aitokoʔoro 
+fat (n.): epu 
+fat (n.): mbpoapari 
+fear: rihai 
+fear: ururei 
+feather: mboʔoli 
+feather: oio-ta | mboʔoli 
+fingernail: kaitaeru 
+finger: sipareo 
+finger: tokeruiripa 
+fire: boʷɪh | boᵘhɪh	uhi 
+fire: uhi | boᵘhɪh	uhi 
+fish: atari | atari	mboʔatari 
+fish: mboʔatari | atari	mboʔatari 
+five: hurou 
+five: tariaupu 
+fly (v.): paraia 
+fly (v.): paru 
+foot: lailaiaɛː-ara 
+forehead: tae 
+forehead: taʔɛ-ara 
+four: (bokassio) urou 
+four: siura 
+fruit: basi 
+full: ɪaʔagasiːa 
+girl: kupa 
+girl: maːriarɛ 
+girl: masiare 
+give: taʔakitaßa | taʔakitaβa 
+good: aripu | boaripo 
+good: boaripo 
+good: mikiasi | boaripo 
+grass: kuku 
+green: -kiraiko- 
+guts: oba 
+guts: obarika 
+guts: oßaro e 
+hair: ai | aiy-ara 
+hair: aiy-ara 
+hair: ori | aiy-ara 
+hand: akapio | akapio	akapio-ara 
+hand: akapio-ara | akapio	akapio-ara 
+hand: kakarusu | akapio	akapio-ara 
+head: ai(-bas) | aiβasi-ara 
+head: aißasi-ara | aiβasi-ara 
+head: lesiba | aiβasi-ara 
+hear: iaußararɛßa | iauβararɛβa	ubara 
+heart: kukuu | kukuʔu-ara 
+heart: kukuʔu-ara 
+hear: ubara | iauβararɛβa	ubara 
+heavy: boharu 
+heavy: haru | boharu 
+he/she: ia 
+he/she: ita 
+he/she: loila 
+hit: kai 
+hit: takailɛßa 
+hold: pitu- 
+hole: purukasi 
+hole: suro 
+horn: reruo 
+house: ato 
+house: boato 
+husband: puesi 
+husband: puesi-ita 
+I: aɣa | ag	aru	aɣa 
+I: aga | ag	aru	aɣa 
+I: aru | ag	aru	aɣa 
+kill: kai | taʔuhipiɛrɛβa 
+kill: taʔuhipiɛrɛßa | taʔuhipiɛrɛβa 
+kill: uhi-pie | taʔuhipiɛrɛβa 
+knee: leku | ubiubi	uβiuβi-ara 
+knee: ubi-bui | ubiubi	uβiuβi-ara 
+knee: ußiußi-ara | ubiubi	uβiuβi-ara 
+know: iareloiya 
+know: papatoé- | iareloiya 
+laugh: kopu 
+laugh: tapisaloya 
+leaf: hara | hara	mboha-ara 
+leaf: mboha-ara | hara	mboha-ara 
+left: keruka- 
+leg: kokoru 
+leg: kokoru-ara 
+leg: nabutu 
+lie: tabairaia 
+lightning: burio 
+lip: beoro 
+liver: atɛraripa aßaro | aterariba	atɛraripa aβaro 
+liver: ateraripba | aterariba	atɛraripa aβaro 
+long: hori | ruhuiruʔɛ 
+long: ruhuiruʔɛ 
+louse: mboutuʔo | utuo 
+louse: utuo 
+man: oita | oitaiːta 
+man: oitaiːta 
+many: bobɛru 
+meat: mbotataßu 
+meat: tata 
+moon: pɛ\ɛkila | pɛʼɛkila 
+moon: pekira | pɛʼɛkila 
+morning: totoa 
+morning: turuhaʔo 
+mosquito: boroko 
+mother: kila-ko-oa 
+mother: kirakoʔoro 
+mountain: boeri | boeri	hukihuki 
+mouth: nabe | naβe-ara 
+mouth: naße-ara | naβe-ara 
+mouth: rabe | naβe-ara 
+name: boʔutɛ | boʔutɛ	ute 
+name: uté | boʔutɛ	ute 
+navel: kohuri 
+neck: beho | mahi-ara 
+neck: mahi-ara 
+new: arupita-iripa | arupita-iripa	ueibara 
+new: bibiri | arupita-iripa	ueibara 
+night: bobogi | bobogi	bogi 
+nose: birao | birao	iruba	iruβ-ara 
+nose: irubu | birao	iruba	iruβ-ara 
+not: boikiro | -uka- 
+not: uka | -uka- 
+not: -uka- 
+old: aßukaʔiripa 
+old: aßukaiːta 
+old: irau-iripa 
+old: obuka 
+one: areei | arei	tariʔa 
+one: taria | arei	tariʔa 
+one: tariʔa | arei	tariʔa 
+rain: boʔuto 
+rain: uto | boʔuto 
+rat: usike 
+rat: usikɛʔɛ 
+red: -sisiʔiripa- 
+right: kaisi | akapio	akapio-ara 
+road: mboʔhopa | ohopa 
+road: ohopa 
+root: mbopakußu | mbopakuβu 
+root: pakubu | mbopakuβu 
+rope: tape 
+round: rirußasi | riruβasi 
+sand: borahusu 
+sand: rohússu | borahusu 
+say: pitarɛßa | pitarɛβa 
+say: sira | pitarɛβa 
+sea: takiri 
+seed: ɛßaßasi | ɛβaβasi 
+see: keke- | keke	takɛkɛrɛβa 
+see: kute- | keke	takɛkɛrɛβa 
+see: takɛkɛrɛßa | keke	takɛkɛrɛβa 
+short: bokuha 
+short: tokuha-iripa 
+shoulder: kurapio 
+shoulder: kurapio-ara 
+sing: koba 
+sister: mopapoata e 
+sit: tataruɛa 
+skin: ariaßu-ara | ariaβu-ara	kaparue 
+skin: kaparue (?) | ariaβu-ara	kaparue 
+skin: saru | ariaβu-ara	kaparue 
+sky: rari 
+sleep: taʔuhiʔoia 
+sleep: urio | taʔuhiʔoia 
+small: ipu | ipukaʔa 
+small: ipukaʔa 
+smell: bea- 
+smell: esi 
+smell: kabu- 
+smoke: bosiː 
+smoke: si | bosiː 
+snake: mbikoruʔu 
+snake: mikoru | mbikoruʔu 
+spit: itaɛhɛʔhɛßa 
+spit: luisae 
+stand: taturuɪa 
+stand: turu 
+star: bopisuruːʔɛ 
+star: mopirue | bopisuruːʔɛ 
+stick: toku 
+stone: aipo | aipo	mboʔapasu 
+stone: apasu | aipo	mboʔapasu 
+stone: mboʔapasu | aipo	mboʔapasu 
+sun: isiloʔo | isiloʔo	isiro 
+sun: isiro | isiloʔo	isiro 
+swim: aara | tɛtutubuia 
+swim: tɛtutubuia 
+tail: hitue | hitueiːta 
+tail: hitueiːta 
+take: oheiita 
+take: ou 
+take: pota 
+that: aiʔa 
+there: aiba 
+they: aipi 
+they: aira 
+they: pirio 
+they two: rira 
+they two: riːra 
+they two: tatea/iritea 
+this: oruo 
+thorn: kakaritu 
+thou: bira 
+thou: biru | bira 
+thou: siga | bira 
+three: hɛrißa 
+three: (mo)herúba 
+throat: ke-ita 
+throat: kurii-ita 
+thunder: hoko 
+tie: bxu- 
+tie: ohu 
+today: uei 
+tomorrow: arubei 
+tomorrow: togeino 
+tomorrow: turuhaʔo 
+tongue: ɛrɛpausi-ara 
+tooth: asiː-ara | asi	asiː-ara 
+tooth: assi | asi	asiː-ara 
+tree: eba | evaita 
+tree: eva | evaita 
+tree: mboɛßa | evaita 
+two: (bo)suku | bo suku	sukuʔu 
+two: sukuʔu | bo suku	sukuʔu 
+walk: ab- | tapuaβa 
+walk: itasiːʔeia | tapuaβa 
+walk: tapuaßa | tapuaβa 
+warm: bopapara 
+warm: papara 
+wash: sisio 
+water: mapi\ita | bapi	mapiʼita	uo 
+water: uo | bapi	mapiʼita	uo 
+weep: keiba 
+we (excl.): yoka 
+we (incl.): broga 
+we: roka | bioga	biru 
+we two (excl.): pɛka 
+we two (incl.): peka 
+wet: yakoːhua 
+what: eipaʔo 
+when: hɛːtai 
+where: heiwa 
+where: heu 
+white: kakaso | -kakaːso- 
+white: -kakaːso- 
+who: ei-pao | eitaro 
+who: eitaro 
+who: ei-taro/ei-ripa | eitaro 
+wife: paesi-iripa 
+wind: bokiːpu 
+wind: kipu | bokiːpu 
+wing: burio 
+wing: burio-ara 
+woman: boriari 
+woman: moriari | boriari 
+wood: aoao 
+wood: tokoroʔo 
+yellow: abakuo | -aβuko- 
+yellow: -aßuko- | -aβuko- 
+yes: ao 
+yesterday: agußeʔi ~ arußeʔi 
+yesterday: arubei 
+you: siga | bira 
+you two: mɛɣa 
+you two: mega 
+every: opiʔia 
+ash: kaputaʔo 
+abdomen: koβu-ara 
+bigness: pakasua 
+large: pakasua 
+breasts: loloʔoː 
+nail: kaitaʔɛru-ara 
+talon: kaitaʔɛru-ara 
+come from: luilui	taᵘruia 
+be dead: pi	tapipitɛrɛ 
+dead: pi	tapipitɛrɛ 
+fly: paraia 
+fly v.: paraia 
+left hand: akapio	akapio-ara 
+1 sg.: ag	aru	aɣa 
+be knowledgeable: iareloiya 
+head louse: utuo 
+male: oitaiːta 
+much: bobɛru 
+multiple: bobɛru 
+several: bobɛru 
+hill: boeri	hukihuki 
+title: boʔutɛ	ute 
+nighttime: bobogi	bogi 
+adulterous: arei	tariʔa 
+single: arei	tariʔa 
+the: arei	tariʔa 
+unprincipled: arei	tariʔa 
+rainy weather: boʔuto 
+path: ohopa 
+route: ohopa 
+hide: ariaβu-ara	kaparue 
+little: ipukaʔa 
+smallness: ipukaʔa 
+rock: aipo	mboʔapasu 
+2 sg: bira 
+grind: bo suku	sukuʔu 
+go: tapuaβa 
+1 pl. inc.: bioga	biru 
+we₁: bioga	biru 
+whiteness: -kakaːso- 
+who?: eitaro 
+female: boriari 
+dull: boharu 
+serious: boharu 

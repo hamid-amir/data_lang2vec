@@ -1,0 +1,261 @@
+all: doru 
+every: doru 
+ash: kau 
+ashes: kau 
+abdomen: iapa 
+belly: iapa 
+big: lavata 
+bigness: lavata 
+large: lavata 
+bird: manugu 
+bite: garata 
+black: kudekude 
+blood: orungu 
+bone: pudapuda 
+breast: susu 
+breasts: susu 
+burn: vurungu 
+burn tr.: vurungu 
+cloud: lei 
+cold: lomozo 
+come: lame	mae 
+come from: lame	mae 
+be dead: uke 
+dead: uke 
+die: uke 
+dog: sie 
+drink: apo	buku 
+dry: pidili 
+ear: talinga 
+eat: gani	teku 
+egg: toruru 
+eye: mata 
+feather: vurungu 
+fire: iku 
+fish: igana 
+fly: tatava 
+fly v.: tatava 
+good: lea(na) 
+green: bu 
+hair: vurungu 
+hand: lima 
+left hand: lima 
+right: lima 
+head: batu 
+hear: nongoro 
+1 sg.: ara 
+I: ara 
+kill: vai 
+be knowledgeable: gigalai	gilagila(i) 
+know: gigalai	gilagila(i) 
+leaf: equru 
+lie: kole 
+lie down: kole 
+liver: kola 
+long: kakaza 
+head louse: gutu 
+louse: gutu 
+male: marene 
+man: tio/tinoni 
+moon: popu 
+mouth: nguju 
+name: izongo 
+title: izongo 
+neck: rua 
+new: korega 
+night: bongi 
+nighttime: bongi 
+nose: izu 
+adulterous: maka 
+one: maka 
+single: maka 
+that: nari	rari	zana	zara 
+the: maka 
+unprincipled: maka 
+human: tio/tinoni 
+human being: tio/tinoni 
+person: tio/tinoni 
+rain: okoro 
+rainy weather: okoro 
+red: jemere 
+path: zona 
+road: zona 
+route: zona 
+root: bagere 
+sand: nagaza 
+say: gu	paranga 
+see: bata	bati	dogoro 
+sit: nyumu 
+hide: vuliti 
+skin: vuliti 
+sleep: puta 
+little: peki 
+small: peki 
+smallness: peki 
+smoke: tula 
+star: seru 
+rock: patu 
+stone: patu 
+swim: ponyu 
+tail: pikutu 
+this: ani/ari 
+2 sg: ao 
+thou: ao 
+you: ao 
+tongue: mea 
+tooth: livo 
+grind: kori	kɔri 
+two: kori	kɔri 
+go: lekoleko	rerege 
+walk: lekoleko	rerege 
+hot: mangini 
+warm: mangini 
+water: pie 
+1 pl. inc.: gami	gita 
+we: gami	gita 
+we₁: gami	gita 
+what: (na) za 
+white: keala	keka 
+whiteness: keala	keka 
+who: i zei 
+who?: i zei 
+female: reko 
+woman: reko 
+yellow: boe 
+distant: zou 
+far: zou 
+dull: mamata 
+heavy: mamata 
+serious: mamata 
+close: tata 
+near: tata 
+ner: tata 
+salt: kavi 
+short: papaka 
+snake: dole 
+thin: liqiri	peki 
+wind: gava 
+earthworm: kurege 
+worm: kurege 
+year: aoro 
+2 pl.: gamu 
+ye: gamu 
+you all: gamu 
+3 pl.: ria 
+they: ria 
+where: ae	pae 
+where?: ae	pae 
+when: pa viza 
+when?: pa viza 
+how: vei 
+how?: vei 
+other: kaki	mutu 
+three: kue 
+four: made	mande 
+five: lima 
+broad: revata 
+wide: revata 
+wideness: revata 
+fat: jongai 
+thick: mota 
+narrow: ngijupu 
+principal wife: maqota-na 
+wife: maqota-na 
+husband: kale-na	marene-na 
+his mother: tina 
+mother: tina 
+my mother: tina 
+father: tama 
+his father: tama 
+my father: tama 
+forest: tokutoku	zolozo 
+woods: tokutoku	zolozo 
+branch: kae 
+stick: kae 
+fruit: vua 
+flower: havoro 
+grass: buruburu 
+cord: gazoro 
+rope: gazoro 
+flesh: masa 
+meat: masa 
+grease: jongai 
+wing: babana 
+back: pokoto 
+suck: nyonyopo 
+spit: odolo	tue 
+vomit: lua 
+blow: iru	ivu 
+breath: singo 
+breathe: singo 
+laugh: au 
+laughter: au 
+cogitate: roquroqu 
+reflect: roquroqu 
+think: roquroqu 
+smell: omanga 
+sniff: omanga 
+afraid: matagutu 
+be afraid: matagutu 
+fear: matagutu 
+fright: matagutu 
+alive: toa 
+be alive: toa 
+life: toa 
+live: toa 
+living: toa 
+hunt: ropa 
+beat: maja 
+hit: maja 
+strike: maja 
+cut: lomoto	rio 
+hack: lomoto	rio 
+cut open: paqala	soko 
+split: paqala	soko 
+pierce: qete 
+stab: qete 
+scratch: garo	kikama 
+dig: geli 
+stand: turu 
+drop: lotu 
+fall: lotu 
+grasp: aru 
+hold: aru 
+hold in arm: aru 
+squeeze: monyo 
+wring: monyo 
+throw: gona 
+bind: piko 
+fasten: piko 
+tie: piko 
+tie up: piko 
+sew: piti 
+count: nguti 
+enumerate: nguti 
+number: nguti 
+tally: nguti 
+flow: nyoro 
+lake: kopi	lopi 
+ocean: ivere	kolo 
+sea: ivere	kolo 
+dust: kavuru 
+fog: gavu 
+sky: oka 
+bad: ikere 
+evil: ikere 
+rot: nyabo 
+rotten: nyabo 
+dirty: paji 
+filthy: paji 
+soiled: paji 
+sharp: gani 
+blunt: tupe	zake gani 
+damp: tubulu 
+wet: tubulu 
+right side: matua 
+left: meri 
+at: pa 
+in: leo 
+inside: leo 
+and: beto	betoko	ko 
+if: vei 

@@ -1,0 +1,267 @@
+all: tako 
+every: tako 
+ash: avu 
+ashes: avu 
+abdomen: tuka 
+belly: tuka 
+big: mézé	rica 
+bigness: mézé	rica 
+large: mézé	rica 
+bird: [fogel] 
+bite: kiki	kégé 
+black: mite 
+blood: ra	raa 
+bone: toko 
+breast: susu 
+breasts: susu 
+burn: néi	roca	vuca 
+burn tr.: néi	roca	vuca 
+cloud: sa 
+cold: dza	keta 
+come: mai 
+come from: mai 
+be dead: mata 
+dead: mata 
+die: mata 
+dog: lako 
+drink: inu 
+dry: royo 
+ear: siNa	siŋa 
+eat: ka 
+egg: telo 
+eye: mata 
+feather: [feder] 
+fire: api 
+fish: ika 
+fly: beya 
+fly v.: beya 
+good: modhé 
+green: ŋura 
+hair: fu 
+hand: Lima	[ɬ]ima 
+left hand: Lima	[ɬ]ima 
+right: Lima	[ɬ]ima 
+head: ulu 
+hear: zeNe	zeŋé 
+1 sg.: cao	dz|ao 
+I: cao	dz|ao 
+kill: maté 
+be knowledgeable: béo	toa 
+know: béo	toa 
+leaf: vunu 
+lie: nade 
+lie down: nade 
+liver: ate	até 
+long: léva 
+head louse: kutu 
+louse: kutu 
+male: saki 
+man: ata 
+moon: vula 
+mouth: boro	vuca 
+name: Naza	ŋaza 
+title: Naza	ŋaza 
+neck: teŋu 
+new: muzi 
+night: kobe	kobé 
+nighttime: kobe	kobé 
+nose: Nizu	ŋ|izu 
+adulterous: esa	ěsa 
+one: esa	ěsa 
+single: esa	ěsa 
+that: ke|na 
+the: esa	ěsa 
+unprincipled: esa	ěsa 
+human: ata 
+human being: ata 
+person: ata 
+rain: uza 
+rainy weather: uza 
+red: toro 
+path: zala 
+road: zala 
+route: zala 
+root: kabu 
+sand: ena 
+say: punu 
+see: iso 
+sit: moku 
+hide: suki 
+skin: suki 
+sleep: nade 
+little: kedhi 
+small: kedhi 
+smallness: kedhi 
+smoke: nu 
+star: dala 
+rock: vatu 
+stone: vatu 
+swim: naŋu 
+tail: éko 
+this: di 
+2 sg: kau 
+thou: kau 
+you: kau 
+tongue: lema	l|ema 
+tooth: Ni	ŋii 
+tree: kacu 
+grind: zua 
+two: zua 
+go: laa 
+walk: laa 
+hot: bana	pana 
+warm: bana	pana 
+water: vaCe	vacé 
+1 pl. inc.: kami	kita 
+we: kami	kita 
+we₁: kami	kita 
+what: apa 
+white: bhara 
+whiteness: bhara 
+who: séci 
+who?: séci 
+female: faci 
+woman: faci 
+yellow: kuné	sese 
+distant: dada	ta 
+far: dada	ta 
+dull: daté 
+heavy: daté 
+serious: daté 
+close: véé 
+near: véé 
+ner: véé 
+salt: sié 
+short: bhoko 
+snake: nipa 
+thin: nipi 
+wind: koca	vara 
+earthworm: ulé 
+worm: ulé 
+year: kiva 
+2 pl.: miu 
+ye: miu 
+you all: miu 
+3 pl.: emu 
+they: emu 
+where: [wo] 
+where?: [wo] 
+when: veŋi 
+when?: veŋi 
+how: mocé 
+how?: mocé 
+other: goo 
+three: telu	tělu 
+four: vutu	wutu 
+five: lima 
+broad: toza 
+wide: toza 
+wideness: toza 
+fat: luvu 
+thick: kapa 
+narrow: pipé	piro 
+principal wife: faci 
+wife: faci 
+husband: saki 
+his mother: iné 
+mother: iné 
+my mother: iné 
+father: amé 
+his father: amé 
+my father: amé 
+forest: k|ala 
+woods: k|ala 
+branch: daa	tara 
+stick: daa	tara 
+fruit: vuca 
+flower: voŋa 
+grass: pu	semu 
+cord: azé 
+rope: azé 
+flesh: suci 
+meat: suci 
+grease: luvu 
+wing: lebé 
+gut: golo 
+guts: golo 
+insides: golo 
+intestine: golo 
+intestines: golo 
+back: logo 
+suck: bheso	susu	temo 
+spit: tefa 
+vomit: muta 
+blow: zupi 
+breath: ŋaci 
+breathe: ŋaci 
+laugh: tawa 
+laughter: tawa 
+cogitate: maya	siu	vé 
+reflect: maya	siu	vé 
+think: maya	siu	vé 
+smell: vacu 
+sniff: vacu 
+afraid: mizo 
+be afraid: mizo 
+fear: mizo 
+fright: mizo 
+alive: muzi 
+be alive: muzi 
+life: muzi 
+live: muzi 
+living: muzi 
+hunt: za 
+beat: pia	vela 
+hit: pia	vela 
+strike: pia	vela 
+cut: pako 
+hack: pako 
+cut open: vela 
+split: vela 
+pierce: vuta 
+stab: vuta 
+scratch: kasi 
+dig: kaci	kela	kocé 
+stand: davi 
+drop: bodu 
+fall: bodu 
+grasp: davé 
+hold: davé 
+hold in arm: davé 
+squeeze: kuku	oté 
+wring: kuku	oté 
+throw: vuca 
+bind: rati 
+fasten: rati 
+tie: rati 
+tie up: rati 
+sew: raku	zéi 
+count: gé 
+enumerate: gé 
+number: gé 
+tally: gé 
+flow: béré 
+lake: mesi 
+ocean: mesi 
+sea: mesi 
+dust: avu 
+fog: [nebel] 
+sky: lizu 
+bad: zéé 
+evil: zéé 
+rot: vacu	zéé 
+rotten: vacu	zéé 
+dirty: zaki 
+filthy: zaki 
+soiled: zaki 
+sharp: teka 
+blunt: bugu	dubu 
+damp: basa 
+wet: basa 
+right side: vana 
+left: léu 
+at: di	dé	vi	vé 
+in: di	dé	oné 
+inside: di	dé	oné 
+and: néé 
+if: vi 

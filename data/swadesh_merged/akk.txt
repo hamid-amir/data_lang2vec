@@ -1,0 +1,142 @@
+all: kalû 
+every: kalû 
+ash: didallu	ṭikmēnu 
+ashes: didallu	ṭikmēnu 
+abdomen: libbu 
+belly: libbu 
+big: rabûm 
+bigness: rabûm 
+large: rabûm 
+bird: iṣṣūru 
+bite: našāku 
+black: ṣalmu 
+blood: damu	dāmu 
+bone: esX~emtu	eṣemtu 
+breast: irtu 
+breasts: irtu 
+cloud: erpetu 
+cold: kaṣû 
+come: tX~eXu	ṭexû 
+come from: tX~eXu	ṭexû 
+be dead: matu	mâtu 
+dead: matu	mâtu 
+die: matu	mâtu 
+dog: kalbu 
+drink: Satu	šatû 
+dry: ablu 
+ear: uznu 
+earth: erṣetu 
+ground: erṣetu 
+land: erṣetu 
+soil: erṣetu 
+eat: akālu 
+eye: inu	īnu 
+fire: iSatu	išātu 
+fish: nunu	nūnu 
+foot: šēpu 
+full: malu	malû 
+give: nadānu 
+good: ṭābu 
+green: warqu 
+hair: šārtu 
+hand: kX~atu	qatu 
+left hand: kX~atu	qatu 
+right: kX~atu	qatu 
+head: rēšu 
+hear: Semu	šemû 
+heart: libbu 
+horn: kX~arnu	qarnu 
+1 sg.: anaku	anāku 
+I: anaku	anāku 
+kill: dâku 
+knee: birku 
+be knowledgeable: idû 
+know: idû 
+liver: kabattu	kabatu 
+head louse: uplu 
+louse: uplu 
+male: zikaru 
+man: awilu	awīlu 
+many: mādu 
+much: mādu 
+multiple: mādu 
+several: mādu 
+moon: sîn	warxu 
+hill: Sadu	šadû 
+mountain: Sadu	šadû 
+mouth: pû 
+name: Sumu	šumu 
+title: Sumu	šumu 
+neck: kišādu	labiānu 
+new: eSu	eššu 
+night: muSu	mūšu 
+nighttime: muSu	mūšu 
+nose: appu	apu 
+not: lā	ul 
+adulterous: iSten	iStet	ištēn	ištēt 
+one: iSten	iStet	ištēn	ištēt 
+single: iSten	iStet	ištēn	ištēt 
+that: ullû	šū 
+the: iSten	iStet	ištēn	ištēt 
+unprincipled: iSten	iStet	ištēn	ištēt 
+human: awilu	awīlu 
+human being: awilu	awīlu 
+person: awilu	awīlu 
+rain: zunnu 
+rainy weather: zunnu 
+red: pēlu	ruššû 
+path: Xulu	xūlu 
+road: Xulu	xūlu 
+route: Xulu	xūlu 
+root: šuršu 
+say: qabû 
+see: amaru	amāru 
+seed: zēru 
+sit: wašābu 
+hide: gildu 
+skin: gildu 
+sleep: šalālu 
+little: ṭexru 
+small: ṭexru 
+smallness: ṭexru 
+smoke: qutru 
+star: kakabu	kakkabu 
+rock: abnu 
+stone: abnu 
+sun: SamSu	šamšu 
+tail: zibbatu 
+this: annû 
+2 sg: ata	ati	atta	atti 
+thou: ata	ati	atta	atti 
+you: ata	ati	atta	atti 
+tongue: liSanu	lišānu 
+tooth: Sinu	šinnu 
+tree: isX~u	iṣu 
+grind: Sina	Sita	šena	šinā	šittā 
+two: Sina	Sita	šena	šinā	šittā 
+water: mu	mû 
+1 pl. inc.: ninu	nīnu 
+we: ninu	nīnu 
+we₁: ninu	nīnu 
+what: mīnu 
+white: peṣû 
+whiteness: peṣû 
+who: mannu 
+who?: mannu 
+female: sinništu 
+woman: sinništu 
+yellow: warqu 
+distant: nešû 
+far: nešû 
+dull: kabtu 
+heavy: kabtu 
+serious: kabtu 
+close: ṭexû 
+near: ṭexû 
+ner: ṭexû 
+salt: ṭabtu 
+short: karû 
+snake: ṣēru 
+thin: qatnu 
+wind: šāru 
+year: šattu 

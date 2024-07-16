@@ -1,0 +1,326 @@
+all: vyss 
+every: vyss 
+ash: palni 
+ashes: palni 
+abdomen: vādars 
+belly: vādars 
+big: lels 
+bigness: lels 
+large: lels 
+bird: putnys 
+bite: kūst 
+black: malns 
+blood: asnis 
+bone: kauls 
+breast: kryuts 
+breasts: kryuts 
+cloud: muokuļs 
+cold: solts 
+come: atīt	īt 
+come from: atīt	īt 
+be dead: miert	paguļt 
+dead: miert	paguļt 
+die: miert	paguļt 
+dog: suņs 
+drink: dzert	teļst 
+dry: sauss 
+ear: auss 
+earth: zeme 
+ground: zeme 
+land: zeme 
+soil: zeme 
+eat: ēst 
+egg: ūla 
+eye: ocs 
+feather: spolva 
+fire: guņs 
+fish: zivs 
+fly: laistīs	skraideit 
+fly v.: laistīs	skraideit 
+foot: pāds 
+full: pylns 
+give: dūt 
+good: lobs 
+green: zaļs 
+hair: mots 
+head: golva 
+hear: dzierdēt	izdzierst 
+heart: sirds 
+horn: rogs 
+1 sg.: es 
+I: es 
+kill: nuoveit	nūnuoveit	nūsist 
+knee: ceļs 
+be knowledgeable: zynuot 
+know: zynuot 
+leaf: lopa 
+liver: oknys 
+long: gars	ilgs 
+head louse: vuts 
+louse: vuts 
+male: veirīts 
+man: cilvāks 
+many: daudzi	namoz 
+much: daudzi	namoz 
+multiple: daudzi	namoz 
+several: daudzi	namoz 
+moon: mienesnīks 
+hill: kolns 
+mountain: kolns 
+mouth: mute 
+name: vuords 
+title: vuords 
+neck: koklys	reikle 
+new: jauns 
+night: nakts 
+nighttime: nakts 
+nose: nuoss 
+not: nā 
+adulterous: vīns 
+one: vīns 
+single: vīns 
+that: tys 
+the: vīns 
+unprincipled: vīns 
+human: cilvāks 
+human being: cilvāks 
+person: cilvāks 
+rain: leits 
+rainy weather: leits 
+red: raudons	sorkons 
+path: ceļš 
+road: ceļš 
+route: ceļš 
+root: sakne 
+round: opols 
+sand: smiļkts 
+say: runuot	saceit 
+see: redzēt 
+seed: sākla 
+sit: sēdēt 
+hide: uoda 
+skin: uoda 
+sleep: gulēt 
+little: mozs 
+small: mozs 
+smallness: mozs 
+smoke: dyumi 
+star: zvaigzne 
+rock: akmiņs 
+stone: akmiņs 
+sun: saule 
+swim: maut 
+tail: aste 
+this: šys 
+2 sg: tu 
+thou: tu 
+you: tu 
+tongue: mēle 
+tooth: zūbs 
+tree: kūks 
+grind: div	divi 
+two: div	divi 
+go: īt 
+walk: īt 
+hot: sylts 
+warm: sylts 
+water: iudiņs 
+1 pl. inc.: mes 
+we: mes 
+we₁: mes 
+what: kas 
+white: boltons	bolts 
+whiteness: boltons	bolts 
+who: kurs 
+who?: kurs 
+female: sīvīts 
+woman: sīvīts 
+yellow: dzaltons	voskons 
+distant: toleims 
+far: toleims 
+dull: gryuts 
+heavy: gryuts 
+serious: gryuts 
+close: tyvs tiveims 
+near: tyvs tiveims 
+ner: tyvs tiveims 
+salt: suoļs 
+short: eiss 
+snake: tuorps	čyuska 
+thin: plans 
+wind: viejs 
+earthworm: tuorpeņš	tuorps 
+worm: tuorpeņš	tuorps 
+year: gods 
+3 sg.: jis 
+he: jis 
+she: jis 
+2 pl.: jius 
+ye: jius 
+you all: jius 
+3 pl.: jī 
+they: jī 
+here: ite	te 
+there: tī 
+where: kimā	kur 
+where?: kimā	kur 
+when: kod 
+when?: kod 
+how: kai 
+how?: kai 
+some: kuri nakuri	nazcik 
+few: nadaudzeji 
+other: cyts 
+three: treis	trejs 
+four: četri 
+five: pīci 
+broad: plots 
+wide: plots 
+wideness: plots 
+fat: tauki	tuklums 
+thick: bīzs 
+narrow: šaurs 
+child: bārns 
+principal wife: sīva 
+wife: sīva 
+husband: veirs 
+his mother: muote 
+mother: muote 
+my mother: muote 
+father: tāvs 
+his father: tāvs 
+my father: tāvs 
+animal: dzeivinīks	žeivots 
+forest: mežs 
+woods: mežs 
+branch: vāza 
+stick: vāza 
+flower: puče 
+grass: zuole 
+cord: vierve 
+rope: vierve 
+flesh: gala 
+meat: gala 
+grease: tauki	tuklums 
+claw: nogs 
+fingernail: nogs 
+nail: nogs 
+leg: kuoja 
+arm: rūka 
+hand: rūka 
+wing: spuorns 
+gut: vydi	vydspuse 
+guts: vydi	vydspuse 
+insides: vydi	vydspuse 
+intestine: vydi	vydspuse 
+intestines: vydi	vydspuse 
+back: mugora 
+suck: suļkt 
+vomit: vemt 
+blow: pyust 
+breath: dvašuot	pyustīs 
+breathe: dvašuot	pyustīs 
+laugh: kecinēt	krēkt	smītīs 
+laughter: kecinēt	krēkt	smītīs 
+cogitate: dūmuot	guoduot 
+reflect: dūmuot	guoduot 
+think: dūmuot	guoduot 
+smell: smuorduot	ūst 
+sniff: smuorduot	ūst 
+afraid: beisteitīs	beitīs 
+be afraid: beisteitīs	beitīs 
+fear: beisteitīs	beitīs 
+fright: beisteitīs	beitīs 
+alive: dzeivuot 
+be alive: dzeivuot 
+life: dzeivuot 
+live: dzeivuot 
+living: dzeivuot 
+fight: atsaturēt	ceikstētīs	veiktīs 
+hunt: medeit 
+beat: laubt	sist 
+hit: laubt	sist 
+strike: laubt	sist 
+cut: grīzt 
+hack: grīzt 
+cut open: padaleit	sadaleit 
+split: padaleit	sadaleit 
+pierce: dūrsteit	dūrt 
+stab: dūrsteit	dūrt 
+dig: best	rakt 
+lie: gulēt	guļtīs 
+lie down: gulēt	guļtīs 
+tell lies: gulēt	guļtīs 
+stand: stuot	stuotīs 
+turn: apsagrīzt 
+turn around: apsagrīzt 
+turn round: apsagrīzt 
+drop: krist 
+fall: krist 
+grasp: turēt 
+hold: turēt 
+hold in arm: turēt 
+squeeze: mīgt	spīst 
+wring: mīgt	spīst 
+rub: bruozuot	treit 
+wipe: slauceit 
+wash: mozguot 
+wash clothes: mozguot 
+pull: viļkt 
+push: stoßen 
+shove: stoßen 
+throw: svīst 
+bind: sīt 
+fasten: sīt 
+tie: sīt 
+tie up: sīt 
+sew: šyut 
+count: skaiteit 
+enumerate: skaiteit 
+number: skaiteit 
+tally: skaiteit 
+sing: dzīduot 
+have fun: kaitavuot 
+play: kaitavuot 
+float: mauduot 
+flow: skrīt	tecēt 
+freeze: saļt 
+swell: satyukšt 
+brook: upe 
+river: upe 
+stream: upe 
+lake: azars 
+ocean: jiura 
+sea: jiura 
+dust: puteklis 
+fog: mygla 
+sky: dabasi 
+snow: snīgs 
+ice: lads 
+blaze: degt 
+burn: degt 
+day: dīna 
+daylight: dīna 
+daytime: dīna 
+old: senejais	vacs 
+bad: nalobs 
+evil: nalobs 
+dirty: nateirs 
+filthy: nateirs 
+soiled: nateirs 
+straight: taysnis 
+sharp: oss 
+blunt: neoss 
+smooth: gluds	leidzons 
+damp: slapnis	volgons 
+wet: slapnis	volgons 
+correct: pareizs	taisneigs 
+right: lobais	pa lobai 
+right side: lobais	pa lobai 
+left: kairais	kairuo puse 
+at: pi 
+in: vyd 
+inside: vyd 
+with: ar 
+if: ka	kod 
+because: deļtuo ka	kam	partū ka 

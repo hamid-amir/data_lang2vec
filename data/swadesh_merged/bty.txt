@@ -1,0 +1,265 @@
+all: ohi	sev sev 
+every: ohi	sev sev 
+ash: bala huaʔtáin	ɬavṿ 
+ashes: bala huaʔtáin	ɬavṿ 
+abdomen: atian	tuah 
+belly: atian	tuah 
+big: aiak	isa 
+bigness: aiak	isa 
+large: aiak	isa 
+bird: miova	ohas 
+bite: a|kat	kasat 
+black: mametan	metan 
+blood: alawan	lasa 
+bone: aɬuin	lusin 
+breast: asusin	susin 
+breasts: asusin	susin 
+burn: i|dun	tuin 
+burn tr.: i|dun	tuin 
+cloud: awan	lak tain 
+cold: baʔidikṿ	sirin 
+come: boti	islot 
+come from: boti	islot 
+be dead: imata	mata 
+dead: imata	mata 
+die: imata	mata 
+dog: yai	yasṿ 
+drink: a|ninṿ	nimin 
+dry: mamala	momala 
+ear: atarikʌn	talikan 
+eat: aken	kan 
+egg: tolin 
+eye: amatʌn	mata 
+feather: avurin	hulhulin 
+fire: yafṿ	yah 
+fish: ian 
+fly: idivṿ	rihi 
+fly v.: idivṿ	rihi 
+good: hia	kamuin 
+green: biri biri	iǰo 
+hair: aʔulin	ulin lan 
+hand: animan	hasan 
+left hand: animan	hasan 
+right: animan	hasan 
+head: anba	ulin 
+hear: ab|loka	loka 
+1 sg.: ya	ya7aho	yaʔaho 
+I: ya	ya7aho	yaʔaho 
+kill: abunṿ	huin 
+be knowledgeable: iaveneta	kalelan 
+know: iaveneta	kalelan 
+leaf: ai lan	han lan 
+lie: iburburiŋ	nima kanowa 
+lie down: iburburiŋ	nima kanowa 
+liver: ayatan	yatan 
+long: aʔotak	wotat 
+head louse: taniman	tinan 
+louse: taniman	tinan 
+male: masanan	muana 
+man: %mansia	mansia 
+moon: hulan	vulan 
+mouth: avivin	uban 
+name: anaɬan	nalan 
+title: anaɬan	nalan 
+neck: ayonin	wosan 
+new: hosihosin	vavoi 
+night: matabot	mesat 
+nighttime: matabot	mesat 
+nose: aʔilin	ninin 
+adulterous: aina	san 
+one: aina	san 
+single: aina	san 
+that: lin	mahó	masó 
+the: aina	san 
+unprincipled: aina	san 
+human: %mansia	mansia 
+human being: %mansia	mansia 
+person: %mansia	mansia 
+rain: roti	ulan 
+rainy weather: roti	ulan 
+red: dadau	kasahan 
+path: lolon 
+road: lolon 
+route: lolon 
+root: ai waʔat	tamit 
+sand: bes	yena 
+say: aduɬa	lian 
+see: ablá	ita 
+sit: iduwat	tuat 
+hide: akurit	uhit 
+skin: akurit	uhit 
+sleep: imtoɬṿ	nima 
+little: fofinyana	koŋgon 
+small: fofinyana	koŋgon 
+smallness: fofinyana	koŋgon 
+smoke: numik	yah kubaʔ 
+star: ily~ow3s	ilyówəs	toin 
+rock: hati	vatṿ 
+stone: hati	vatṿ 
+swim: ahás	inakṿ 
+tail: efat	lekan 
+this: li	mehéi 
+2 sg: aiso	aisɔ́	an 
+thou: aiso	aisɔ́	an 
+you: aiso	aisɔ́	an 
+tongue: amelin	leha7	lehaʔ 
+tooth: anifan	nihan 
+grind: ainlua	lua 
+two: ainlua	lua 
+go: iko	lea	uha 
+walk: iko	lea	uha 
+hot: bafanat	bobit 
+warm: bafanat	bobit 
+water: wai	way 
+1 pl. inc.: am	ita	msoa 
+we: am	ita	msoa 
+we₁: am	ita	msoa 
+what: nahain	safa 
+white: babutṿ	buti 
+whiteness: babutṿ	buti 
+who: isi	se|ma 
+who?: isi	se|ma 
+female: baroha	vina 
+woman: baroha	vina 
+yellow: siʔinit	unin 
+distant: aʔotak	wotat 
+far: aʔotak	wotat 
+dull: biat	tonit 
+heavy: biat	tonit 
+serious: biat	tonit 
+close: kebkebat	wetuwetik 
+near: kebkebat	wetuwetik 
+ner: kebkebat	wetuwetik 
+short: karokat	wetuwetik 
+snake: bufin	ula 
+thin: manihit	minifit 
+wind: yakin 
+earthworm: bat kutin	caciŋ 
+worm: bat kutin	caciŋ 
+year: na	nalaʔ 
+2 pl.: em	imahoa 
+ye: em	imahoa 
+you all: em	imahoa 
+3 pl.: lelsoa	lelsɔ	sia 
+they: lelsoa	lelsɔ	sia 
+where: yataúa	ána 
+where?: yataúa	ána 
+when: bot fila	rom hila 
+when?: bot fila	rom hila 
+how: dawáia	haʔáɪ 
+how?: dawáia	haʔáɪ 
+other: hosin	kulkul 
+three: aintoli	tol 
+four: ainfat	fetṿ	fɛt 
+five: lima 
+broad: tiban	tihaʔ 
+wide: tiban	tihaʔ 
+wideness: tiban	tihaʔ 
+fat: avatan aiak	minaʔ 
+thick: kutaʔ	vitól 
+narrow: kofakofat	koru-korup 
+principal wife: baroha	isawan vina 
+wife: baroha	isawan vina 
+husband: isawan muana	masanan 
+his mother: ina	inan 
+mother: ina	inan 
+my mother: ina	inan 
+father: baba	yaman 
+his father: baba	yaman 
+my father: baba	yaman 
+forest: ai lalan	latan 
+woods: ai lalan	latan 
+branch: ai yakan	saksakan 
+stick: ai yakan	saksakan 
+fruit: ai vuan	huan 
+flower: ai futin	dulan husin 
+grass: fofṿ	hanulin 
+cord: han wasat	wawat 
+rope: han wasat	wawat 
+flesh: aʔisin	samaʔ 
+meat: aʔisin	samaʔ 
+grease: avatan aiak	minaʔ 
+wing: hian	yeon 
+gut: avị tuan	tuan walan 
+guts: avị tuan	tuan walan 
+insides: avị tuan	tuan walan 
+intestine: avị tuan	tuan walan 
+intestines: avị tuan	tuan walan 
+back: akotan	karan 
+suck: amoit	komoan	sosa 
+spit: abeba	batof 
+vomit: aɬua	luaʔ 
+blow: anu	hosúf 
+breath: amesa	manowa 
+breathe: amesa	manowa 
+laugh: amɬi	balíʔ 
+laughter: amɬi	balíʔ 
+cogitate: afikir	ita 
+reflect: afikir	ita 
+think: afikir	ita 
+smell: abufmauk	mulit 
+sniff: abufmauk	mulit 
+afraid: imtait	katoit 
+be afraid: imtait	katoit 
+fear: imtait	katoit 
+fright: imtait	katoit 
+alive: ihidup	lihilihan 
+be alive: ihidup	lihilihan 
+life: ihidup	lihilihan 
+live: ihidup	lihilihan 
+living: ihidup	lihilihan 
+hunt: ak̚mada	ukikia 
+beat: ibiatṿ	lait 
+hit: ibiatṿ	lait 
+strike: ibiatṿ	lait 
+cut: i|da	tasa 
+hack: i|da	tasa 
+cut open: bola haʔas	ibat 
+split: bola haʔas	ibat 
+pierce: idevat	toiʔ 
+stab: idevat	toiʔ 
+scratch: ikwas	kasa 
+dig: ikaɬṿ	kais 
+stand: akolan	kolan 
+drop: imnavṿ	reiʔ 
+fall: imnavṿ	reiʔ 
+grasp: adoman	sit 
+hold: adoman	sit 
+hold in arm: adoman	sit 
+squeeze: lefa 
+wring: lefa 
+throw: idutṿ	toiʔ 
+bind: inafit	tes 
+fasten: inafit	tes 
+tie: inafit	tes 
+tie up: inafit	tes 
+sew: abakasoma	tula 
+count: areking	reʔin 
+enumerate: areking	reʔin 
+number: areking	reʔin 
+tally: areking	reʔin 
+flow: baitṿ	roiʔ 
+lake: balabalan	timalola 
+ocean: lautan	tasiʔ 
+sea: lautan	tasiʔ 
+dust: lavṿ lavṿ	ubas 
+fog: kamu kamu	suhan 
+sky: lakit 
+bad: kajahatan	lalan sa 
+evil: kajahatan	lalan sa 
+rot: maʔobon	mikoban 
+rotten: maʔobon	mikoban 
+dirty: baʔoboʔ	fofṿ fofṿ 
+filthy: baʔoboʔ	fofṿ fofṿ 
+soiled: baʔoboʔ	fofṿ fofṿ 
+sharp: katṿ	moit 
+blunt: babukit	nona 
+damp: loba-loban	mareman 
+wet: loba-loban	mareman 
+right side: kamuin	lalait 
+left: avet	kabalit 
+at: ra	va 
+in: ramuli lalan	valala 
+inside: ramuli lalan	valala 
+and: dua	tama 
+if: kalau	kalu	ø 

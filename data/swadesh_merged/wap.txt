@@ -1,0 +1,315 @@
+all: ipʰai 
+every: ipʰai 
+ash: pʰaritʰiʔi 
+ashes: pʰaritʰiʔi 
+bark: atʰamɨnɨ mada 
+big: tɨbarɨ	ɨdarɨ 
+bigness: tɨbarɨ	ɨdarɨ 
+large: tɨbarɨ	ɨdarɨ 
+bird: kʰutʰɨʔɨẓa 
+bite: arutʰa-n 
+black: pʰudidi-ʔu 
+blood: iZay	izai	iẓai 
+bone: niwa73	niwaʔɨ 
+breast: -ˀdɨn	7d3n	d3n3y 
+breasts: -ˀdɨn	7d3n	d3n3y 
+claw: -ˀbaẓi 
+nail: -ˀbaẓi 
+talon: -ˀbaẓi 
+cloud: išaʔiẓi 
+cold: wadidi-ʔu 
+come: wa7atin	waʔatʰi-n 
+come from: wa7atin	waʔatʰi-n 
+be dead: maukan	mauwakh~a	mauwakʰa-n 
+dead: maukan	mauwakh~a	mauwakʰa-n 
+die: maukan	mauwakh~a	mauwakʰa-n 
+dog: arimaraka	arimarakh~a	arimarakʰa 
+drink: t3Zan	th~33a	tʰɨẓa-n 
+dry: arada-ʔu 
+ear: -tʰaini	th~aini 
+earth: amaẓaˀda 
+ground: amaẓaˀda 
+land: amaẓaˀda 
+soil: amaẓaˀda 
+eat: aruupʰa-n 
+egg: kʰɨrɨkʰɨ dani 
+eye: -awɨn	aw3n 
+feather: -iˀdi 
+fire: th~ikh~azi	tikaZ	tʰikʰaẓi 
+fish: kupa3n	kʰupʰaɨ 
+fly: ẓɨɨtʰa-n 
+fly v.: ẓɨɨtʰa-n 
+foot: -kʰiˀdiˀba 
+full: pʰaida 
+give: taa-n 
+good: kʰaiman 
+green: kʰuʔuri-ʔu 
+hair: -ẓuwaɨ-ˀdi 
+hand: -kʰaʔɨ	ka73y	kh~a73 
+left hand: -kʰaʔɨ	ka73y	kh~a73 
+right: -kʰaʔɨ	ka73y	kh~a73 
+head: -ẓuwaɨ 
+hear: a7bath~a	abatan	aˀbatʰa-n 
+heart: -nyɨkʰɨnɨɨ 
+horn: -uẓuu 
+1 sg.: u*gar	u*gar3	ũgar-ɨ 
+I: u*gar	u*gar3	ũgar-ɨ 
+kill: ẓuwia-n 
+knee: -kʰuˀduru 
+be knowledgeable: aitʰapʰa-n 
+know: aitʰapʰa-n 
+leaf: -anaˀba	ana7ba 
+lie: wašatʰ-ĩĩa-n 
+lie down: wašatʰ-ĩĩa-n 
+liver: -kʰɨˀbaa	kh~37ba 
+long: dawɨɨ 
+head louse: nai 
+louse: nai 
+male: ˀdaunaiura 
+man: ph~i7dan	pʰiˀdan 
+many: iriˀba 
+much: iriˀba 
+multiple: iriˀba 
+several: iriˀba 
+flesh: -ˀdɨnaa 
+meat: -ˀdɨnaa 
+moon: kʰaɨẓ 
+hill: d3k3u	miˀdɨkʰɨu	nawaẓi 
+mountain: d3k3u	miˀdɨkʰɨu	nawaẓi 
+mouth: -ˀdakʰu 
+name: 3	ɨɨ 
+title: 3	ɨɨ 
+neck: -kʰanaɨ 
+new: pa7i5a7u	ph~a7ina	pʰaʔina-ʔu 
+night: aiwaka7an	mar3th~a	marɨtʰa-ʔu	wamar3th~an	wamarɨtʰan 
+nighttime: aiwaka7an	mar3th~a	marɨtʰa-ʔu	wamar3th~an	wamarɨtʰan 
+nose: -iˀdiˀba	i7diba	idibay 
+adulterous: 7ba3da7aph~a	ba3da7ap	badęé̹p 
+one: 7ba3da7aph~a	ba3da7ap	badęé̹p 
+single: 7ba3da7aph~a	ba3da7ap	badęé̹p 
+that: 7ba3da7aph~a	ba3da7ap	badęé̹p 
+the: 7ba3da7aph~a	ba3da7ap	badęé̹p 
+unprincipled: 7ba3da7aph~a	ba3da7ap	badęé̹p 
+human: ph~i7dan	pʰiˀdan 
+human being: ph~i7dan	pʰiˀdan 
+person: ph~i7dan	pʰiˀdan 
+rain: wɨnɨ 
+rainy weather: wɨnɨ 
+red: wɨẓa-ʔu 
+path: d3nap	d3naph~usa7ba 
+road: d3nap	d3naph~usa7ba 
+route: d3nap	d3naph~usa7ba 
+root: -ištʰaˀbaʔɨ 
+round: kʰadaẓadaʔɨ-ʔu 
+sand: kʰatʰɨ 
+say: kʰia-n 
+see: t3kpan	th~3kh~aph~a	tʰɨkʰapʰa-n 
+seed: -ɨda	ɨdai 
+sit: sakʰantʰa-n 
+hide: -maˀda	ma7da	maday 
+skin: -maˀda	ma7da	maday 
+sleep: ˀdaʔawɨ-n 
+little: kʰaikʰapʰasudi-ʔu 
+small: kʰaikʰapʰasudi-ʔu 
+smallness: kʰaikʰapʰasudi-ʔu 
+smoke: tʰikʰaẓi šan 
+star: wiZ	wiiẓi	wizi 
+rock: k3ba	kh~37ba	kʰɨˀba 
+stone: k3ba	kh~37ba	kʰɨˀba 
+sun: kamu	kʰamuu 
+swim: niutʰa-n 
+tail: -ˀdyɨu 
+2 sg: p3gari3	ph~3gar	pʰɨgar-ɨ 
+thou: p3gari3	ph~3gar	pʰɨgar-ɨ 
+you: p3gari3	ph~3gar	pʰɨgar-ɨ 
+tongue: -ninuˀba	ninu7ba	ninubay 
+tooth: -ɨˀdakʰu	37dakh~u 
+tree: atam3n 
+grind: dia73tam	dya73th~am	dyaʔɨtʰam	dąi tám 
+two: dia73tam	dya73th~am	dyaʔɨtʰam	dąi tám 
+go: čʰiʔikʰapʰa-n 
+walk: čʰiʔikʰapʰa-n 
+hot: wičʰa-ẓa-ʔu 
+warm: wičʰa-ẓa-ʔu 
+water: w3n	w3n3	wɨnɨ 
+1 pl. inc.: wa3nau	waɨnau 
+we: wa3nau	waɨnau 
+we₁: wa3nau	waɨnau 
+what: kʰanu-m dii	naʔapʰam 
+white: ˀbarakʰa-ʔu 
+whiteness: ˀbarakʰa-ʔu 
+who: kʰan-dii	kʰanu-m 
+who?: kʰan-dii	kʰanu-m 
+female: ẓɨna 
+woman: ẓɨna 
+yellow: kʰidai-ʔu 
+distant: mɨnapʰu 
+far: mɨnapʰu 
+dull: kʰimiša-ʔu 
+heavy: kʰimiša-ʔu 
+serious: kʰimiša-ʔu 
+close: maunapʰa 
+near: maunapʰa 
+ner: maunapʰa 
+salt: dɨɨu 
+short: madiwaɨ 
+snake: kʰuwaẓaẓ 
+thin: madɨdɨkʰa 
+wind: awarɨ 
+earthworm: pʰaẓaru 
+worm: pʰaẓaru 
+year: wɨnɨ 
+2 pl.: ɨnau 
+ye: ɨnau 
+you all: ɨnau 
+3 pl.: ĩnau 
+they: ĩnau 
+where: naʔia-m dii 
+where?: naʔia-m dii 
+when: naʔapʰaini-m 
+when?: naʔapʰaini-m 
+how: naʔapʰa dii 
+how?: naʔapʰa dii 
+some: pʰaˀbiʔikʰida 
+few: maskʰaɨdaʔɨ 
+three: idikʰinaɨdaʔɨ	itkinéądă 
+four: pameníwa tenkit	pʰaminaʔɨtʰamkʰiʔi 
+five: baráieda	ˀbakʰaʔiaɨdaʔɨ 
+broad: kʰaẓuu 
+wide: kʰaẓuu 
+wideness: kʰaẓuu 
+fat: kʰiwinii 
+thick: midi 
+narrow: maẓuu 
+child: kuraiˀdaunaa 
+principal wife: -ˀdaiaru 
+wife: -ˀdaiaru 
+husband: -ˀdaiarɨ 
+his mother: -ˀdaru 
+mother: -ˀdaru 
+my mother: -ˀdaru 
+father: -ˀdarɨ 
+his father: -ˀdarɨ 
+my father: -ˀdarɨ 
+animal: ɨẓai 
+forest: kʰanukʰu 
+woods: kʰanukʰu 
+branch: -daakʰuri	-wauda 
+stick: -daakʰuri	-wauda 
+fruit: diẓuu-kʰarɨ 
+flower: -suusu 
+grass: pʰinidi 
+cord: ẓuupʰa 
+rope: ẓuupʰa 
+grease: kʰiwinii 
+fingernail: -ˀbaẓi 
+leg: -tʰaˀbaʔɨ 
+wing: -kʰɨtʰɨˀba 
+gut: -ukʰuru 
+guts: -ukʰuru 
+insides: -ukʰuru 
+intestine: -ukʰuru 
+intestines: -ukʰuru 
+back: -ˀbaraɨ 
+suck: suẓukʰa-n 
+spit: supʰitʰa-n 
+vomit: tʰaitʰa-n 
+blow: pʰuutʰa-n 
+breath: -niẓuwa-n	niẓu-ĩĩa-n 
+breathe: -niẓuwa-n	niẓu-ĩĩa-n 
+laugh: šaẓuutʰa-n 
+laughter: šaẓuutʰa-n 
+cogitate: diʔitʰapʰa-n 
+reflect: diʔitʰapʰa-n 
+think: diʔitʰapʰa-n 
+smell: dama-n 
+sniff: dama-n 
+afraid: kʰičʰanaʔikʰi 
+be afraid: kʰičʰanaʔikʰi 
+fear: kʰičʰanaʔikʰi 
+fright: kʰičʰanaʔikʰi 
+alive: kʰakʰɨpʰa-ʔu 
+be alive: kʰakʰɨpʰa-ʔu 
+life: kʰakʰɨpʰa-ʔu 
+live: kʰakʰɨpʰa-ʔu 
+living: kʰakʰɨpʰa-ʔu 
+fight: miẓaatʰa-akʰa-n 
+hunt: tʰiwaapʰa-n	waatʰapʰa-n 
+beat: ẓuwitʰa-n 
+hit: ẓuwitʰa-n 
+strike: ẓuwitʰa-n 
+cut: čʰuuta-n 
+hack: čʰuuta-n 
+cut open: tʰadaʔukʰa-n 
+split: tʰadaʔukʰa-n 
+pierce: dakʰatʰa-n 
+stab: dakʰatʰa-n 
+dig: kʰičʰada-n 
+tell lies: mariidĩĩa-n 
+stand: kʰadišitʰa-n 
+turn: pʰadantʰa-n 
+turn around: pʰadantʰa-n 
+turn round: pʰadantʰa-n 
+drop: wautʰa-n 
+fall: wautʰa-n 
+grasp: ẓaamatʰa-n 
+hold: ẓaamatʰa-n 
+hold in arm: ẓaamatʰa-n 
+squeeze: dɨɨẓada-n	raɨda-n 
+wring: dɨɨẓada-n	raɨda-n 
+rub: inuwa-n 
+wipe: inuwa-n 
+wash: čʰikʰa-n 
+wash clothes: čʰikʰa-n 
+push: kʰidɨʔɨkʰa-n 
+shove: kʰidɨʔɨkʰa-n 
+throw: awɨʔɨtʰa-n 
+bind: duʔutʰa-n 
+fasten: duʔutʰa-n 
+tie: duʔutʰa-n 
+tie up: duʔutʰa-n 
+sew: kʰanuwa-n 
+count: aitʰan 
+enumerate: aitʰan 
+number: aitʰan 
+tally: aitʰan 
+sing: kʰɨnɨia-n 
+have fun: makʰinautʰina-n 
+play: makʰinautʰina-n 
+float: umakʰada-n 
+flow: ẓiutʰa-n 
+brook: waʔuẓi 
+river: waʔuẓi 
+stream: waʔuẓi 
+lake: kʰarišii 
+ocean: pʰaran 
+sea: pʰaran 
+dust: ɨnɨˀba 
+fog: amaẓaˀda šan 
+sky: aukʰaẓi 
+blaze: kʰaʔawa-n 
+burn: kʰaʔawa-n 
+day: kʰanda-ʔu	wakʰandan 
+daylight: kʰanda-ʔu	wakʰandan 
+daytime: kʰanda-ʔu	wakʰandan 
+bad: idikʰaɨda 
+evil: idikʰaɨda 
+rot: dyɨpʰɨša-ʔu 
+rotten: dyɨpʰɨša-ʔu 
+dirty: kʰaniriˀba-ʔu 
+filthy: kʰaniriˀba-ʔu 
+soiled: kʰaniriˀba-ʔu 
+straight: sakʰitʰapʰa 
+sharp: dimana-ʔu 
+blunt: manɨna-ʔu 
+smooth: miduda-ʔu 
+damp: ẓaˀbi-ʔu 
+wet: ẓaˀbi-ʔu 
+correct: mišiʔu	naʔapʰa 
+right side: diwaʔura 
+left: ašaˀbaru 
+in: naẓu ii 
+inside: naẓu ii 
+and: naʔikʰi 
+if: ana	maẓan 
+because: ɨšaʔapʰanɨm kʰaɨʔan 

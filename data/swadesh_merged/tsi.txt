@@ -1,0 +1,266 @@
+all: gawdi	txaʔnii 
+every: gawdi	txaʔnii 
+ash: goom	uuniksik 
+ashes: goom	uuniksik 
+bark: maas	maasagan 
+big: wiitˀis	ʔwiileeks 
+bigness: wiitˀis	ʔwiileeks 
+large: wiitˀis	ʔwiileeks 
+bird: c̷ˀuuʔc̷ 
+bite: kˀay	laʔa	łakˀaw	łaʔax 
+black: gaax	tˀuʔuc̷k 
+blood: iLe	iłee 
+bone: LExs	sEp	sayp 
+breast: masx~ 
+breasts: masx~ 
+claw: łaxs 
+nail: łaxs 
+talon: łaxs 
+cloud: wukc̷ˀan 
+come: gaa	goydiks	hoks	hooks	kˀah 
+come from: gaa	goydiks	hoks	hooks	kˀah 
+be dead: cEk	lukˀahgyet	q"ocEx 
+dead: cEk	lukˀahgyet	q"ocEx 
+die: cEk	lukˀahgyet	q"ocEx 
+dog: hEs	haas	hashaas 
+drink: aks	akˀaks	hop	laʔaks	luhop 
+dry: güünaks	luuna	sü-luuna 
+ear: c"mmu	c̷ˀmmuu	ga-muukt	mug-	muk 
+earth: yuub-	yuup 
+ground: yuub-	yuup 
+land: yuub-	yuup 
+soil: yuub-	yuup 
+eat: gab-	gag	txooxk	xdii	yaawxk	ʔyaak	ʔyaax 
+egg: łgumet 
+eye: c"El	c̷ˀal	c̷ˀikc̷alt 
+feather: lii	liimc̷ˀuʔuc̷ 
+fire: lac-	lak	smlag-	smlak 
+fish: hon	uu 
+fly: gyipaayk 
+fly v.: gyipaayk 
+foot: asii	gasasi	gasisii 
+full: holtk	luhoʔnł 
+give: kˀilam	yaa 
+green: małiitk 
+hair: gaws	nakʔawst 
+hand: En"on	anʔon	gaʔanʔon 
+left hand: En"on	anʔon	gaʔanʔon 
+right: En"on	anʔon	gaʔanʔon 
+head: tˀmgaws 
+hear: nEnu	xEnu	ʔnaxʔnuu 
+heart: goot 
+horn: GEGEws	gagaaws 
+kill: dzak 
+knee: galgaʔaaysuu	kˀalkˀays	q"Elq"Esik 
+be knowledgeable: wilaay 
+know: wilaay 
+leaf: yans	yens 
+lie: lisgüü	nook 
+lie down: lisgüü	nook 
+liver: dEp	dep 
+long: wiiʔnak	ʔnag-	ʔnak 
+head louse: c"Eskw~	c̷ˀaskw 
+louse: c"Eskw~	c̷ˀaskw 
+male: gyet	yikˀyuuta	ʔyuuta 
+man: gyet	gy~et	gy~it 
+many: held-	lugwil 
+much: held-	lugwil 
+multiple: held-	lugwil 
+several: held-	lugwil 
+flesh: sami 
+meat: sami 
+moon: gooypah	gyemgmaatk 
+hill: didii	didiiya	dii	laxdii	sanist	saʔniist	sgaʔniis	sx~Enist 
+mountain: didii	didiiya	dii	laxdii	sanist	saʔniist	sgaʔniis	sx~Enist 
+mouth: c̷ˀmʔaax 
+name: wE	we 
+title: wE	we 
+neck: tˀmlaani 
+new: su	su- 
+night: Elks	aatg-	aatk	hupl 
+nighttime: Elks	aatg-	aatk	hupl 
+nose: c"Ek	c̷ˀak 
+adulterous: k"ul	k’üül 
+one: k"ul	k’üül 
+single: k"ul	k’üül 
+that: k"ul	k’üül 
+the: k"ul	k’üül 
+unprincipled: k"ul	k’üül 
+human: gyet	gy~et	gy~it 
+human being: gyet	gy~et	gy~it 
+person: gyet	gy~et	gy~it 
+rain: waas 
+rainy weather: waas 
+red: masg-	masgmʔiłee	mask	mismaskt 
+path: GEnE 
+road: GEnE 
+route: GEnE 
+root: huus 
+sand: aws 
+say: aws 
+see: ni	ni7ic	ʔniidz 
+seed: nüwaʔna 
+sit: logmtˀaa	tˀaa	wan 
+hide: EnEs	akˀanaas	anaas 
+skin: EnEs	akˀanaas	anaas 
+sleep: laxstox	stox	wok	xstˀook 
+little: c̷ˀusk	sisuus	łguc̷ˀuusk 
+small: c̷ˀusk	sisuus	łguc̷ˀuusk 
+smallness: c̷ˀusk	sisuus	łguc̷ˀuusk 
+smoke: pˀiyaan	xpˀiyeen 
+star: biyaals 
+rock: lo7op	loob-	loop	lop	lüploop 
+stone: lo7op	loob-	loop	lop	lüploop 
+sun: gimgmdziws	gy~emk 
+swim: hadiks	laheediks	łoo 
+tail: c̷ˀuup 
+2 sg: k"w~En	nun 
+thou: k"w~En	nun 
+you: k"w~En	nun 
+tongue: dulE	duula 
+tooth: wEn	wen	wükˀwaan	ʔwaan 
+tree: GEn 
+grind: galbeeltk	goopsxn	gulapdaat	gupl	guplʔon	guʔpl	gu’pl 
+two: galbeeltk	goopsxn	gulapdaat	gupl	guplʔon	guʔpl	gu’pl 
+go: baxyaa	waalxs	yaa	łoga 
+walk: baxyaa	waalxs	yaa	łoga 
+water: Eks	ksaʔaamks 
+1 pl. inc.: num 
+we: num 
+we₁: num 
+what: goo 
+white: moks 
+whiteness: moks 
+who: naa 
+who?: naa 
+female: hanaʔa	hanaʔnk 
+woman: hanaʔa	hanaʔnk 
+distant: wilʔnak 
+far: wilʔnak 
+short: dalpk 
+snake: matxalaalt 
+thin: hani 
+earthworm: laald-	laalt 
+worm: laald-	laalt 
+year: gokˀoł	kˀoł 
+where: ndeh 
+where?: ndeh 
+when: dzindeh	ndeh 
+when?: dzindeh	ndeh 
+how: ndeh 
+how?: ndeh 
+few: nagadzaw 
+three: galsgantk	gwan	gwindaat	k’wili 
+four: txaalpx 
+five: kstnsool	kstuuns	kstuunsxn	kwstuuns 
+broad: luʔooks	wiilee 
+wide: luʔooks	wiilee 
+wideness: luʔooks	wiilee 
+narrow: lułguul 
+child: kˀabatgüüłk	łguwoomłk 
+his mother: nay	noo 
+mother: nay	noo 
+my mother: nay	noo 
+father: aab-	aap	gwat	nagwaat	pˀaʔa 
+his father: aab-	aap	gwat	nagwaat	pˀaʔa 
+my father: aab-	aap	gwat	nagwaat	pˀaʔa 
+forest: gyilhawli	spaygangan 
+woods: gyilhawli	spaygangan 
+flower: müdzagale 
+grass: kyooxt 
+cord: hagwilhuu 
+rope: hagwilhuu 
+fat: kˀawc̷i	yee 
+grease: kˀawc̷i	yee 
+fingernail: łaxs 
+leg: gasasi	tˀmłaam 
+wing: gaʔay	kˀakˀay 
+gut: haat 
+guts: haat 
+insides: haat 
+intestine: haat 
+intestines: haat 
+back: akˀoo	hakˀoo	kˀakˀo	kˀo 
+suck: tˀaxtˀoox	tˀook 
+spit: puksk	yaaxł 
+vomit: xsiit 
+blow: baask 
+breath: ksinaał	naał 
+breathe: ksinaał	naał 
+laugh: süsˀaaks 
+laughter: süsˀaaks 
+afraid: naxʔpidzuu 
+be afraid: naxʔpidzuu 
+fear: naxʔpidzuu 
+fright: naxʔpidzuu 
+alive: diduuls 
+be alive: diduuls 
+life: diduuls 
+live: diduuls 
+living: diduuls 
+beat: guu	kˀalisyec̷ 
+hit: guu	kˀalisyec̷ 
+strike: guu	kˀalisyec̷ 
+cut: kˀodz 
+hack: kˀodz 
+cut open: buus	pˀasaxk	saʔkt 
+split: buus	pˀasaxk	saʔkt 
+pierce: gyełk 
+stab: gyełk 
+dig: wukˀaw 
+tell lies: biiʔk	hukbiiʔk 
+stand: haaytk	haʔyin 
+drop: kˀyaʔapayk	oks 
+fall: kˀyaʔapayk	oks 
+grasp: dam	gyad 
+hold: dam	gyad 
+hold in arm: dam	gyad 
+squeeze: ludmdam 
+wring: ludmdam 
+rub: ʔman 
+wipe: ʔman 
+wash: lumaaks	yooks 
+wash clothes: lumaaks	yooks 
+push: tˀuus 
+shove: tˀuus 
+throw: ooy 
+bind: c̷ˀiip 
+fasten: c̷ˀiip 
+tie: c̷ˀiip 
+tie up: c̷ˀiip 
+sew: luupk	luʔapüs 
+count: dap 
+enumerate: dap 
+number: dap 
+tally: dap 
+sing: liimi 
+flow: c̷ˀmhuuc̷a 
+brook: kˀalaʔaks	smhuʔadzak 
+river: kˀalaʔaks	smhuʔadzak 
+stream: kˀalaʔaks	smhuʔadzak 
+lake: laxtˀaa 
+ocean: moon 
+sea: moon 
+dust: yuub-	yuup 
+fog: waas-myeen	yeen 
+sky: laxa 
+snow: maadm	yaamooks 
+blaze: gwalak 
+burn: gwalak 
+day: sah 
+daylight: sah 
+daytime: sah 
+rot: log-	lok 
+rotten: log-	lok 
+dirty: maatg 
+filthy: maatg 
+soiled: maatg 
+sharp: sak 
+smooth: naʔyełk 
+damp: logask 
+wet: logask 
+correct: hoyax 
+right side: nak-smyaʔwin	smyaʔawin 
+left: mooms	mütkyaʔwn 
+in: c̷ˀaaw 
+inside: c̷ˀaaw 

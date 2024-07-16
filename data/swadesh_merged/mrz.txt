@@ -1,0 +1,916 @@
+all: ba | ba	meːmeːän 
+all: meːmeːän | ba	meːmeːän 
+animal: namakud 
+ankle: saniŋg 
+arm: muk 
+arm: muke 
+arm: sakeke 
+arm: saki 
+arm: sanga 
+arm: saŋga 
+arm: saːŋga 
+arrow: taŋgeː 
+ashes: gum | gum	soprə	upas 
+ashes: soprə | gum	soprə	upas 
+ashes: upas | gum	soprə	upas 
+back: sevta | sevta	seːwt 
+back: seːwt | sevta	seːwt 
+back: seːwt heiyäw | sevta	seːwt 
+bad: dom | dom	doːm 
+bad: doːm | dom	doːm 
+bad: domagoke | dom	doːm 
+bark: bo | bo	pɔr 
+bark: par | bo	pɔr 
+bark: pɔr | bo	pɔr 
+bark: rur | bo	pɔr 
+because: ...rɪk 
+belly: andameke | handam	ko	ɣandam 
+belly: ghandam | handam	ko	ɣandam 
+belly: handam | handam	ko	ɣandam 
+belly: kawameke | handam	ko	ɣandam 
+belly: ko | handam	ko	ɣandam 
+belly: kokara | handam	ko	ɣandam 
+belly: peː | handam	ko	ɣandam 
+big: bamb | bamb	samb	yaba	yaːba 
+big: samb | bamb	samb	yaba	yaːba 
+big: sombè-kè | bamb	samb	yaba	yaːba 
+big: yaba | bamb	samb	yaba	yaːba 
+big: yaːba | bamb	samb	yaba	yaːba 
+bird: huzub | huzub	uzub 
+bird: mutate | huzub	uzub 
+bird: uzub | huzub	uzub 
+bird: wozube-ke | huzub	uzub 
+bite: ambih | dahi	dahin	hanih 
+bite: dahi | dahi	dahin	hanih 
+bite: dahin | dahi	dahin	hanih 
+bite: hani | dahi	dahin	hanih 
+bite: hanih | dahi	dahin	hanih 
+bite: kavoseke | dahi	dahin	hanih 
+bitter: jaret 
+bitter: yareːt 
+black: daregiseke | kunai-hi	kune-hei	kunei-hi	naŋgeː 
+black: kunai-hi | kunai-hi	kune-hei	kunei-hi	naŋgeː 
+black: kune-hei | kunai-hi	kune-hei	kunei-hi	naŋgeː 
+black: kunei-hi | kunai-hi	kune-hei	kunei-hi	naŋgeː 
+black: naŋgeː | kunai-hi	kune-hei	kunei-hi	naŋgeː 
+blood: do | do	doː 
+blood: doː | do	doː 
+blood: doke | do	doː 
+blow: ehamih | ehamih	eːhamih 
+blow: eːhamih | ehamih	eːhamih 
+bone: hayaw | hayaw	heiyäw	hiyau	wap 
+bone: heiyäw | hayaw	heiyäw	hiyau	wap 
+bone: hiau | hayaw	heiyäw	hiyau	wap 
+bone: hiyau | hayaw	heiyäw	hiyau	wap 
+bone: hiyaù | hayaw	heiyäw	hiyau	wap 
+bone: koke | hayaw	heiyäw	hiyau	wap 
+boy: aroi-patur 
+boy: nok-anem 
+boy: patur 
+boy: pature-ke 
+branch: ahat | ahat	arhan 
+branch: arhan | ahat	arhan 
+branch: arhata | ahat	arhan 
+breast: bareke | ber	bub 
+breast: ber | ber	bub 
+breast: bub | ber	bub 
+breast: teːn | ber	bub 
+breathe: beːkai | beːkai wiːn 
+breathe: beːkai wiːn 
+brother: namek 
+brother: namikë 
+burn: arui | arui	honip	hoːnip 
+burn: honip | arui	honip	hoːnip 
+burn: hoːnip | arui	honip	hoːnip 
+burn: husig | arui	honip	hoːnip 
+butterfly: dabi 
+butterfly: dabike 
+calf: kana 
+calf: kana-kè 
+calf: ŋgoːr wap 
+calf: zin 
+calf: ziːneː 
+cheek: ahadin 
+cheek: ahadir 
+cheek: aharid 
+cheek: pip 
+chest: bub 
+child: narakam | narakam	nonarabu 
+child: nonarabu | narakam	nonarabu 
+child: papuske | narakam	nonarabu 
+chin: ete 
+chin: eːteː 
+claw: itir | itir	saŋga	tarup | itir	iːtir	teːk 
+claw: saŋga | itir	saŋga	tarup | itir	iːtir	teːk 
+claw: tarup | itir	saŋga	tarup | itir	iːtir	teːk 
+cloud: garaw | garaw	humum 
+cloud: humum | garaw	humum 
+cloud: omume-ke | garaw	humum 
+cold: sodaireke | sosodeː	sosodé	yandu 
+cold: sosodeː | sosodeː	sosodé	yandu 
+cold: sosodé | sosodeː	sosodé	yandu 
+cold: yandu | sosodeː	sosodé	yandu 
+come: man | ma	man	naham 
+come: ma/naham | ma	man	naham 
+correct: eːpeːtam | eːpeːtam	eːpeːteːkə 
+correct: eːpeːteːkə | eːpeːtam	eːpeːteːkə 
+count: zamin 
+crocodile: kehu-ke 
+crocodile: kiːw 
+crocodile: mareːw 
+cut: ambug | isug	takoi	warok 
+cut: isug | isug	takoi	warok 
+cut: takoi | isug	takoi	warok 
+cut: warok | isug	takoi	warok 
+dance: gadzi 
+dance: mahai 
+dark: dino 
+dark: evimeke 
+dark: hap 
+dark: ivim 
+daughter: nazebëkë 
+daughter: nɪn 
+daughter: wanaŋgub 
+daughter: wonanggibëkë 
+daughter: zub 
+day: areːt | areːt	hanid	piːg 
+day: hanid | areːt	hanid	piːg 
+day: haniːd | areːt	hanid	piːg 
+day: hekai | areːt	hanid	piːg 
+day: kawahad | areːt	hanid	piːg 
+day: piːg | areːt	hanid	piːg 
+day: pingge-ke | areːt	hanid	piːg 
+die: anengge | avsaɣ	kahiva	kahivd	kɔhivdə 
+die: avsagh | avsaɣ	kahiva	kahivd	kɔhivdə 
+die: kahiva | avsaɣ	kahiva	kahivd	kɔhivdə 
+die: kɔhivdə | avsaɣ	kahiva	kahivd	kɔhivdə 
+die: kɔhivdə rɪk | avsaɣ	kahiva	kahivd	kɔhivdə 
+die: mende-kahivede | avsaɣ	kahiva	kahivd	kɔhivdə 
+dig: ahatok | ahatok	eg	koeg 
+dig: eg | ahatok	eg	koeg 
+dig: egeb | ahatok	eg	koeg 
+dig: koeg | ahatok	eg	koeg 
+dig: ogaman | ahatok	eg	koeg 
+dig: ogeb | ahatok	eg	koeg 
+dig: patare | ahatok	eg	koeg 
+dig: patarë | ahatok	eg	koeg 
+dig: patarè-kë | ahatok	eg	koeg 
+dig: wombudeke | ahatok	eg	koeg 
+dog: gòte-ke | Nat	ŋgat	ŋgɔt 
+dog: nggat | Nat	ŋgat	ŋgɔt 
+dog: ŋgat | Nat	ŋgat	ŋgɔt 
+dog: ŋgɔt | Nat	ŋgat	ŋgɔt 
+drink: apike | hei	hi	hiː	ɣei 
+drink: daka-dei | hei	hi	hiː	ɣei 
+drink: ghei | hei	hi	hiː	ɣei 
+drink: hei | hei	hi	hiː	ɣei 
+drink: hiː | hei	hi	hiː	ɣei 
+dry: kapareːt | kapareːt	kaparét 
+dry: kaparét | kapareːt	kaparét 
+dry: kapareːt ogə | kapareːt	kaparét 
+dust: tatup 
+ear: kambet | kambet	kambeːt 
+ear: kambeːt | kambet	kambeːt 
+ear: kambete-ke | kambet	kambeːt 
+ear: kembet | kambet	kambeːt 
+earth: esom | makan	miːrav	saː	ŋgen 
+earth: makan | makan	miːrav	saː	ŋgen 
+earth: mirav | makan	miːrav	saː	ŋgen 
+earth: miːrav | makan	miːrav	saː	ŋgen 
+earth: nggen | makan	miːrav	saː	ŋgen 
+earth: saː | makan	miːrav	saː	ŋgen 
+eat: ahi | ahi	havih	haːvi	tamu 
+eat: havi | ahi	havih	haːvi	tamu 
+eat: haːvi | ahi	havih	haːvi	tamu 
+eat: havih | ahi	havih	haːvi	tamu 
+eat: tamu | ahi	havih	haːvi	tamu 
+egg: kana | kana	kaːna 
+egg: kaːna | kana	kaːna 
+egg: kana-adaka | kana	kaːna 
+egg: kana-ke | kana	kaːna 
+elbow: kovard 
+elbow: kovaːvdə 
+excrement: na 
+eye: kind | kind	kiːnd	kiːndə 
+eye: kiːnd | kind	kiːnd	kiːndə 
+eye: kiːnd(ə) | kind	kiːnd	kiːndə 
+eye: kinde-ke | kind	kiːnd	kiːndə 
+eye: kində-put | kind	kiːnd	kiːndə 
+eye: kind-iput | kind	kiːnd	kiːndə 
+eye: kind-put | kind	kiːnd	kiːndə 
+face: nani 
+face: nanih 
+fall: hai 
+far: mahat | mahat	mahut 
+far: mahut | mahat	mahut 
+father: heːvai | heːvai	vai 
+father: vai | heːvai	vai 
+father: wai-kë | heːvai	vai 
+fat (n.): kaber 
+fat (n.): yaba 
+fear: utnë 
+fear: utnə eŋgot 
+feather: kaisume-ke | put 
+feather: put 
+feather: t\hak\le | put 
+few: papɪs 
+fight: eːnam nas 
+finger: gambicum 
+finger: ko-amanad 
+finger: miteːd 
+fingernail: itir | itir	iːtir	teːk 
+fingernail: iːtir | itir	iːtir	teːk 
+fingernail: teːk | itir	iːtir	teːk 
+finger: sanga 
+finger: sangga-itireke 
+fire: takav | takav	tekav 
+fire: takav unum | takav	tekav 
+fire: tankòve-ke | takav	tekav 
+fire: tekav | takav	tekav 
+fish: awə | awe	awə 
+fish: hawe-kè | awe	awə 
+fish: orobè-kè | awe	awə 
+fish: pararè-kè | awe	awə 
+five: raː saŋga 
+flower: kayum-a 
+flower: kayumi | kayum-a 
+fly (n.): barambur 
+fly (n.): baramburè-kè 
+fly (n.): mborabur 
+fly (n.): mbur-a-mbur 
+fly (v.): ahiga 
+fly (v.): avadak 
+fly (v.): avadik 
+fly (v.): tapep 
+fog: raku | raku	raːku	satap 
+fog: raːku | raku	raːku	satap 
+fog: satap | raku	raːku	satap 
+foot: kahu-kè | kale	tagu 
+foot: kale | kale	tagu 
+foot: ka-rəmed | kale	tagu 
+foot: kuma-tagu | kale	tagu 
+foot: tagu | kale	tagu 
+foot: taːgu | kale	tagu 
+foot: tagu-kè | kale	tagu 
+foot: teːpod | kale	tagu 
+forehead: ding 
+forehead: dingg 
+forehead: diŋg 
+forehead: pa-kè 
+forest: deːbak | deg	deːbak	deːg 
+forest: deg | deg	deːbak	deːg 
+forest: deːg | deg	deːbak	deːg 
+four: inah-inah 
+four: inè-kë-inè-kë | inah-inah 
+fruit: kuma | kum-a	kuma	mokom 
+fruit: kum-a | kum-a	kuma	mokom 
+fruit: mokom | kum-a	kuma	mokom 
+fruit: ning-kè | kum-a	kuma	mokom 
+full: huala | taheb 
+full: taheb 
+girl: kivasom 
+girl: kiwasomke 
+girl: noh-anum 
+give: abam | k-ogə	og	ogə 
+give: k-ogə | k-ogə	og	ogə 
+give: mam | k-ogə	og	ogə 
+give: og | k-ogə	og	ogə 
+give: ogə | k-ogə	og	ogə 
+good: kaia | kaia	niŋgap	waniŋgap 
+good: (wa)ninggap | kaia	niŋgap	waniŋgap 
+good: waniŋgap | kaia	niŋgap	waniŋgap 
+good: wininggupè-kè | kaia	niŋgap	waniŋgap 
+grass: omasa | omasa	omaːsa 
+grass: omaːsa | omasa	omaːsa 
+green: garungar-hi | garuŋar-hi	garuŋgar-hi	magar-hi 
+green: garuŋgar-hi | garuŋar-hi	garuŋgar-hi	magar-hi 
+green: magar-hi | garuŋar-hi	garuŋgar-hi	magar-hi 
+guts: hirike | pe	peː 
+guts: pe | pe	peː 
+guts: peː | pe	peː 
+hair: bava-kè | mbavak	mbaːvak 
+hair: bisarur | mbavak	mbaːvak 
+hair: galdzigi | mbavak	mbaːvak 
+hair: hauzi | mbavak	mbaːvak 
+hair: izmi | mbavak	mbaːvak 
+hair: mbavak | mbavak	mbaːvak 
+hair: mbaːvak | mbavak	mbaːvak 
+hair: rur | mbavak	mbaːvak 
+hair: rurè-kè | mbavak	mbaːvak 
+hair: yeːvarur | mbavak	mbaːvak 
+hand: kuma-saŋga | saNa	saŋga 
+hand: sangga | saNa	saŋga 
+hand: saŋga | saNa	saŋga 
+hand: sengga-kè | saNa	saŋga 
+head: hauma | pa	paː 
+head: manoë-kë | pa	paː 
+head: pa | pa	paː 
+head: paː | pa	paː 
+hear: deː-kambeːt | deː-kambeːt	gan	ganʔgata 
+hear: gan/gata | deː-kambeːt	gan	ganʔgata 
+heart: bekai | bekai	beːkai 
+heart: beːkai | bekai	beːkai 
+heavy: kanir | kanir	kaniːr 
+heavy: kaniːr | kanir	kaniːr 
+heel: tepod 
+here: ihirë 
+he/she: anep 
+he/she: anup 
+he/she: e- 
+he/she: i- 
+he/she: ora 
+hit: amuk | amuk	deː	hed	usak 
+hit: deː | amuk	deː	hed	usak 
+hit: hed | amuk	deː	hed	usak 
+hit: usak | amuk	deː	hed	usak 
+hit: usaːk | amuk	deː	hed	usak 
+hold: han 
+hole: baːr 
+hole: teb 
+hole: teːb 
+horn: de-kambet | de-kambet	deːkambeːt 
+horn: deːkambeːt | de-kambet	deːkambeːt 
+house: aha 
+house: oha 
+house: sava-kë 
+how: eːndətago 
+hunt: ohan ahad 
+husband: ezumë-kë | ham	heːzam	zam 
+husband: ham | ham	heːzam	zam 
+husband: heːzam | ham	heːzam	zam 
+husband: zam | ham	heːzam	zam 
+if: ameː 
+I: na- | nohan	nok 
+in: kuma 
+I: nohan | nohan	nok 
+I: nok | nohan	nok 
+I: nok(-te) | nohan	nok 
+jaw: ete 
+jaw: eːteː 
+jaw: magol 
+kangaroo: saham 
+kill: mende-kadabëkë | wa-sib	wasiːb 
+kill: wa-sib | wa-sib	wasiːb 
+kill: wasiːb | wa-sib	wasiːb 
+knee: ko-amnit-u | mig	miːg 
+knee: maŋg-oːn | mig	miːg 
+knee: mig | mig	miːg 
+knee: miːg | mig	miːg 
+know: mbeːmbai | meai	meːai 
+know: meai | meai	meːai 
+know: meːai | meai	meːai 
+know: unatuk | meai	meːai 
+lake: bob | bob	boːb 
+lake: boːb | bob	boːb 
+laugh: aved | aved	aveːd 
+laugh: aveːd | aved	aveːd 
+leaf: nggor | Nor	ŋgoːr	ŋor 
+leaf: ŋgoːr | Nor	ŋgoːr	ŋor 
+leaf: ngor | Nor	ŋgoːr	ŋor 
+leaf: tetek | Nor	ŋgoːr	ŋor 
+leg: tagu | tagu	taːgu	wap 
+leg: taːgu | tagu	taːgu	wap 
+leg: wap | tagu	taːgu	wap 
+lie: hari | mbatav meːen raːh 
+lie: (ka)teːrə | mbatav meːen raːh 
+lie: ter | mbatav meːen raːh 
+lightning: haniv 
+lightning: haniːv 
+lip: utub 
+lip: utup 
+lip: wotupèkè 
+live: kalo 
+live: kapakohage 
+liver: on | on	oːn 
+liver: oːn | on	oːn 
+liver: wokè | on	oːn 
+long: heinbun | ogatok	ogi	ugid	wag̋t̋k 
+long: ogatok | ogatok	ogi	ugid	wag̋t̋k 
+long: ogi | ogatok	ogi	ugid	wag̋t̋k 
+long: ugid | ogatok	ogi	ugid	wag̋t̋k 
+long: wagatok | ogatok	ogi	ugid	wag̋t̋k 
+long: wag_t_k | ogatok	ogi	ugid	wag̋t̋k 
+louse: asabin | bamb 
+louse: bamb 
+louse: baːmb | bamb 
+louse: bömbè-kè | bamb 
+louse: kahabit | bamb 
+louse: kazabit | bamb 
+louse: mbamb 
+man: amnaŋgib | anem	an̋m 
+man: anem | anem	an̋m 
+man: anem-haː | anem	an̋m 
+man: onim-kè | anem	an̋m 
+many: oliːv | oliːv	reːr	yaːba 
+many: otiv | oliːv	reːr	yaːba 
+many: reːr | oliːv	reːr	yaːba 
+many: yaːba | oliːv	reːr	yaːba 
+meat: awe | mbatud | awe	mui 
+meat: mbatud | awe	mui 
+meat: mui | mbatud | awe	mui 
+meat: muy | mbatud | awe	mui 
+moon: mandau | mandau	mandɔw 
+moon: mandaw | mandau	mandɔw 
+moon: mandɔw | mandau	mandɔw 
+moon: mandɔw menda karanik | mandau	mandɔw 
+moon: miːt mandɔw | mandau	mandɔw 
+morning: heiti-hap-hap 
+morning: kwemek 
+mosquito: nanggit 
+mosquito: naŋgit 
+mosquito: nenggitè-kè 
+mosquito: veːmb 
+mother: hu | hu	vaxib	vu	waːh 
+mother: ongkë | hu	vaxib	vu	waːh 
+mother: vaxib | hu	vaxib	vu	waːh 
+mother: vu | hu	vaxib	vu	waːh 
+mother: waːh | hu	vaxib	vu	waːh 
+mother: wa-kë | hu	vaxib	vu	waːh 
+mountain: bətok | beːtok-miraːv 
+mountain: betokà | beːtok-miraːv 
+mountain: beːtok-miraːv 
+mountain: eːgot | beːtok-miraːv 
+mountain: kateːpareː | beːtok-miraːv 
+mouth: babake | bebake	bəbakeː 
+mouth: baba-kè | bebake	bəbakeː 
+mouth: bake | bebake	bəbakeː 
+mouth: bebake | bebake	bəbakeː 
+mouth: bəbakeː | bebake	bəbakeː 
+name: igisè-kè | igiz	igiːz	teb 
+name: igiz | igiz	igiːz	teb 
+name: igiːz | igiz	igiːz	teb 
+name: teb | igiz	igiːz	teb 
+nape: baku 
+nape: mbaku 
+nape: (m)baku 
+narrow: kopa-isik | kopa-isik	papɪs 
+narrow: papɪs | kopa-isik	papɪs 
+navel: dakòmè-kè 
+navel: dakum 
+near: andoa | andoa	andwa	endowa 
+near: andwa | andoa	andwa	endowa 
+near: endowa | andoa	andwa	endowa 
+neck: ambai | ambai	baku	baːŋgə 
+neck: baku | ambai	baku	baːŋgə 
+neck: baːŋgə | ambai	baku	baːŋgə 
+neck: mbaku | ambai	baku	baːŋgə 
+neck: na:h | ambai	baku	baːŋgə 
+new: no | noh	noːh 
+new: noh | noh	noːh 
+new: noːh | noh	noːh 
+night: dino | dino	hap	ivim 
+night: hap | dino	hap	ivim 
+night: ha:pë-kë | dino	hap	ivim 
+night: ivim | dino	hap	ivim 
+night: us-us | dino	hap	ivim 
+night: uzus | dino	hap	ivim 
+nose: anggèpë-kë | aNip	aŋgip 
+nose: anggip | aNip	aŋgip 
+nose: gambale | aNip	aŋgip 
+nose: moːmb-kai | aNip	aŋgip 
+not: baː | baː	baːkə 
+not: baːkə | baː	baːkə 
+old: mandin-rik 
+old: mes 
+old: mes- 
+old: mes-iweg 
+old: mes-meakim 
+old: tanameː 
+one: izakod | izakod	izaːkod	izākod 
+one: izaːkod | izakod	izaːkod	izākod 
+one: zakudë-kë | izakod	izaːkod	izākod 
+person: anem | anem	an̋m 
+person: an_m | anem	an̋m 
+push: abn- 
+push: amadeb 
+push: arangib 
+push: isid 
+push: otam-eb 
+rain: ehehè | he	hei	ɣe 
+rain: ghe | he	hei	ɣe 
+rain: he | he	hei	ɣe 
+rain: hei | he	hei	ɣe 
+rain: xe | he	hei	ɣe 
+rat: abu-kè 
+rat: habo 
+rat: tuban 
+red: do-hi 
+red: rakè | do-hi 
+right: awa | saNa	saŋga 
+ripe: eho 
+ripe: eːho 
+river: evoruè-kè | riki	riːki 
+river: riki | riki	riːki 
+river: riːki | riki	riːki 
+road: isas | kai 
+road: kai 
+road: koi-kè | kai 
+root: itit | itiːt	te 
+root: itiːt | itiːt	te 
+root: te | itiːt	te 
+rope: eːwa | eːwa	ndoːndə 
+rope: ndond | eːwa	ndoːndə 
+rope: ndoːndə | eːwa	ndoːndə 
+rope: taragi | eːwa	ndoːndə 
+rotten: imu-ti 
+round: abeːak 
+rub: miːd | miːd	viːd 
+rub: viːd | miːd	viːd 
+salt: eːtob-adaka-hiː | eːtob-adaka-hiː	yareːt 
+salt: yareːt | eːtob-adaka-hiː	yareːt 
+sand: hasab | hasab	kupup	sa	saː 
+sand: kupup | hasab	kupup	sa	saː 
+sand: sa | hasab	kupup	sa	saː 
+sand: saː | hasab	kupup	sa	saː 
+sand: sa-kë | hasab	kupup	sa	saː 
+say: aghin | ahi	ai	aɣin	maen rah-	raːh | hasab	kupup	sa	saː 
+say: ahi | ahi	ai	aɣin	maen rah-	raːh | hasab	kupup	sa	saː 
+say: ai | ahi	ai	aɣin	maen rah-	raːh | hasab	kupup	sa	saː 
+say: kaningkè | ahi	ai	aɣin	maen rah-	raːh | hasab	kupup	sa	saː 
+say: maen rah- | ahi	ai	aɣin	maen rah-	raːh | hasab	kupup	sa	saː 
+say: meːən-ahi | ahi	ai	aɣin	maen rah-	raːh | hasab	kupup	sa	saː 
+say: raːh | ahi	ai	aɣin	maen rah-	raːh | hasab	kupup	sa	saː 
+sea: eːtob 
+sea: étob 
+sea: eːtob adaka 
+sea: etubë-kë 
+sea: hambarin 
+seed: ning-kè | nɪn 
+seed: nɪn 
+see: idi | idi	idih 
+see: idih | idi	idih 
+sew: ŋgad | was 
+sew: oːŋgad | was 
+sew: was 
+sharp: areːrei | areːrei	yaman 
+sharp: yaman | areːrei	yaman 
+short: asabismə | dohakis	dohak̋s	dədahen 
+short: dədahen | dohakis	dohak̋s	dədahen 
+short: dohakis | dohakis	dohak̋s	dədahen 
+short: dohak_s | dohakis	dohak̋s	dədahen 
+short: tadida | dohakis	dohak̋s	dədahen 
+shoulder: gargara 
+shoulder: tuːman 
+sing: eːtor | eːtor	kin	kiːnə 
+sing: kin | eːtor	kin	kiːnə 
+sing: kiːnə | eːtor	kin	kiːnə 
+sing: zi: | eːtor	kin	kiːnə 
+sister: namuk 
+sister: nomu-kë 
+sit: aboko-vimëkë | ambid	ambiːd	aːmbid	mir	raniːk 
+sit: ambid | ambid	ambiːd	aːmbid	mir	raniːk 
+sit: aːmbid | ambid	ambiːd	aːmbid	mir	raniːk 
+sit: ambiːd | ambid	ambiːd	aːmbid	mir	raniːk 
+sit: ambidè-kè | ambid	ambiːd	aːmbid	mir	raniːk 
+sit: mir | ambid	ambiːd	aːmbid	mir	raniːk 
+sit: raniːk | ambid	ambiːd	aːmbid	mir	raniːk 
+skin: par | par	ruːr	ugu 
+skin: porè-kè | par	ruːr	ugu 
+skin: rur | par	ruːr	ugu 
+skin: ruːr | par	ruːr	ugu 
+skin: ugu | par	ruːr	ugu 
+sky: avaravè-kè | messi-araw	messiarɔw 
+sky: humum | messi-araw	messiarɔw 
+sky: messi-araw | messi-araw	messiarɔw 
+sky: messiarɔw | messi-araw	messiarɔw 
+sky: misarò-kè | messi-araw	messiarɔw 
+sky: omom | messi-araw	messiarɔw 
+sleep: haːri nuː | haːri nuː	niːn	nu	nu hari 
+sleep: hari-nu | haːri nuː	niːn	nu	nu hari 
+sleep: niːn | haːri nuː	niːn	nu	nu hari 
+sleep: nu | haːri nuː	niːn	nu	nu hari 
+sleep: nu hari | haːri nuː	niːn	nu	nu hari 
+sleep: nu x- | haːri nuː	niːn	nu	nu hari 
+small: pap_s | papɪs	pap̋s 
+small: papɪs | papɪs	pap̋s 
+smell: bak | bak	imu bak 
+smell: imu | bak	imu bak 
+smell: imu osan | bak	imu bak 
+smoke: rak | rak	raːk 
+smoke: raːk | rak	raːk 
+smooth: biːb | biːb	heːhai 
+smooth: heːhai | biːb	heːhai 
+snake: azaki | azaki	wagu 
+snake: so: | azaki	wagu 
+snake: wagu | azaki	wagu 
+snow: arib-hi 
+son: tazebëkë 
+son: wananggibëkë 
+son: zib 
+son: ziːb 
+sour: kaheh 
+sour: kaze 
+sour: kazeː 
+sour: yareːt 
+spit: hodëkë | kaseː kisiːg	katahi	tahih 
+spit: kapur | kaseː kisiːg	katahi	tahih 
+spit: kase | kaseː kisiːg	katahi	tahih 
+spit: kaseː | kaseː kisiːg	katahi	tahih 
+spit: kasekë | kaseː kisiːg	katahi	tahih 
+spit: tahih | kaseː kisiːg	katahi	tahih 
+squeeze: abaku | abaku	kambab 
+squeeze: kambab | abaku	kambab 
+stand: akitimingke | atarre 
+stand: atarre 
+stand: atin | atarre 
+stand: timin | atarre 
+star: korareb-anum | ndaku	wayar 
+star: ndaku | ndaku	wayar 
+star: ovom | ndaku	wayar 
+star: waiare | ndaku	wayar 
+star: wayar | ndaku	wayar 
+star: wayer | ndaku	wayar 
+stick: kamb | ahat	arhan 
+stone: katar | katar	kaːtar	seŋa	seŋga 
+stone: kaːtar | katar	kaːtar	seŋa	seŋga 
+stone: katarë-kë | katar	kaːtar	seŋa	seŋga 
+stone: senga | katar	kaːtar	seŋa	seŋga 
+stone: seŋga | katar	kaːtar	seŋa	seŋga 
+straight: heda | heːdak 
+straight: heːdak 
+suck: avasih 
+suck: bub ogə | avasih 
+sun: katane | katane	kataːne	kataːnə 
+sun: kataːne | katane	kataːne	kataːnə 
+sun: kataːnə | katane	kataːne	kataːnə 
+sweet: dakov-adaka 
+sweet: hadedë-kë 
+sweet: kahe 
+sweet: nareg 
+swim: avor 
+swim: bokowk | avor 
+swim: kosom | avor 
+tail: buk-rɪk | gui	wak	ŋgui	ŋui 
+tail: gui | gui	wak	ŋgui	ŋui 
+tail: kende | gui	wak	ŋgui	ŋui 
+tail: ŋgui | gui	wak	ŋgui	ŋui 
+tail: ngui | gui	wak	ŋgui	ŋui 
+tail: wak | gui	wak	ŋgui	ŋui 
+take: abna 
+take: abnə kivon 
+take: han 
+take: kamb 
+take: kugun 
+there: ipi 
+there: ipi-tëke 
+there: tai-ipi 
+they: anip 
+thick: sombëkë | yaːba 
+thick: yaːba 
+thick: zumba-zum | yaːba 
+thigh: baha 
+thigh: miːt wap 
+thigh: paŋga 
+thigh: puraraw 
+thigh: wapè-kè 
+thin: deːpɔr | deːpɔr	papɪz wahani	pap̋s	parapar 
+think: vetok | vetok	veːtok 
+think: veːtok | vetok	veːtok 
+thin: pap_s | deːpɔr	papɪz wahani	pap̋s	parapar 
+thin: papɪz wahani | deːpɔr	papɪz wahani	pap̋s	parapar 
+thin: parapar | deːpɔr	papɪz wahani	pap̋s	parapar 
+this: iti-kë 
+thorn: damb-a-damb 
+thorn: dam-dam 
+thou: eoh | oh	oɣo	wo	wohan 
+thou: oɣ | oh	oɣo	wo	wohan 
+thou: ogho | oh	oɣo	wo	wohan 
+thou: oh | oh	oɣo	wo	wohan 
+thou: wo | oh	oɣo	wo	wohan 
+thou: woë | oh	oɣo	wo	wohan 
+thou: wohan | oh	oɣo	wo	wohan 
+thou: yo | oh	oɣo	wo	wohan 
+thou: yohan | oh	oɣo	wo	wohan 
+three: inah-zakod 
+three: inèkë-zakudëke | inah-zakod 
+three: zakudaak | inah-zakod 
+throat: baːŋg 
+throat: inbonggè-kè 
+throat: nɔh 
+throw: koagin 
+thunder: doŋgam 
+thunder: gigi 
+thunder: warin 
+tie: akasok | akasok	kahib	kasid	kiparud 
+tie: kahib | akasok	kahib	kasid	kiparud 
+tie: kasid | akasok	kahib	kasid	kiparud 
+tie: kiparud | akasok	kahib	kasid	kiparud 
+today: nama 
+tomorrow: aphap 
+tomorrow: hap-hap 
+tongue: unom | unum 
+tongue: unum 
+tooth: badzikë | gigai	maNat	maŋgat 
+tooth: gigai | gigai	maNat	maŋgat 
+tooth: manggat | gigai	maNat	maŋgat 
+tooth: maŋgat | gigai	maNat	maŋgat 
+tooth: miːt-maŋgat | gigai	maNat	maŋgat 
+tree: de 
+tree: deː 
+tree: dè-kë | de 
+two: inah 
+two: inè-kë | inah 
+unripe: kadiboŋg 
+unripe: kandi 
+vagina: bageː 
+vagina: kində 
+vagina: peːgor 
+vagina: pera 
+vagina: peːra 
+vagina: suv 
+walk: ahoma | potak	warak 
+walk: menggekè | potak	warak 
+walk: potak | potak	warak 
+walk: umuv | potak	warak 
+walk: viːr | potak	warak 
+walk: warak | potak	warak 
+warm: ena | ena	eːna 
+warm: eːna | ena	eːna 
+warm: inèk-kë | ena	eːna 
+warm: piːg | ena	eːna 
+wash: adoak | adoak	aswi	avakeb	keswan 
+wash: aswi | adoak	aswi	avakeb	keswan 
+wash: avakeb | adoak	aswi	avakeb	keswan 
+wash: keswan | adoak	aswi	avakeb	keswan 
+wash: udug | adoak	aswi	avakeb	keswan 
+wash: udug... honad | adoak	aswi	avakeb	keswan 
+water: adaka | adaka	adika	gir 
+water: adika | adaka	adika	gir 
+water: boan | adaka	adika	gir 
+water: dakë | adaka	adika	gir 
+water: dakë-kë | adaka	adika	gir 
+water: gir | adaka	adika	gir 
+water: kiwar | adaka	adika	gir 
+water: miːt | adaka	adika	gir 
+weep: avasih 
+weep: evinke 
+weep: iːvə 
+weep: ivin 
+we (excl.): nohan 
+we (incl.): noːhan 
+we (incl.): nok 
+we: nok | kake nok	nok 
+we: nok-ke | kake nok	nok 
+we: sòpëri-kë | kake nok	nok 
+wet: dub-a-dub | dub-a-dub	duba-dub 
+wet: duba-dub | dub-a-dub	duba-dub 
+wet: susu | dub-a-dub	duba-dub 
+what: ah | ah	to 
+what: teː | ah	to 
+what: to | ah	to 
+what: to? | ah	to 
+what: tokë? | ah	to 
+what: tokusë? | ah	to 
+when: to-ndeː 
+when: tondi | to-ndeː 
+where: end | end	eːndə 
+where: eːndə | end	eːndə 
+where: yendi | end	eːndə 
+white: koeː | koeː	koi-hi	leŋgaŋ 
+white: koi-hi | koeː	koi-hi	leŋgaŋ 
+white: lenggang | koeː	koi-hi	leŋgaŋ 
+who: anem | anem	te 
+who: tai? | anem	te 
+who: te | anem	te 
+who: te? | anem	te 
+who: tekèsë? | anem	te 
+wide: boːnd 
+wife: huzum | huzum	hyum	uzum	zum 
+wife: hyum | huzum	hyum	uzum	zum 
+wife: (u)zum | huzum	hyum	uzum	zum 
+wife: wazumëkë | huzum	hyum	uzum	zum 
+wind: kiwar 
+wing: tah | tah	taːh 
+wing: taːh | tah	taːh 
+wipe: avakeb 
+with: dom 
+with: eːd 
+with: -ti 
+woman: anum | sav	sɔv 
+woman: ozumëkë | sav	sɔv 
+woman: sav | sav	sɔv 
+woman: sɔv | sav	sɔv 
+wood: de 
+wood: deː 
+wood: keːter 
+wood: takav 
+worm: aro 
+worm: saŋga-ra | aro 
+year: tahun 
+yellow: beːd-a-beːd hi 
+yes: eːheː 
+yesterday: wis 
+yesterday: wiːs 
+you: eoh | oh	oɣo	wo	wohan | eoh	yo	yohan 
+every: ba	meːmeːän 
+ash: gum	soprə	upas 
+abdomen: handam	ko	ɣandam 
+bigness: bamb	samb	yaba	yaːba 
+large: bamb	samb	yaba	yaːba 
+breasts: ber	bub 
+nail: itir	saŋga	tarup 
+talon: itir	saŋga	tarup 
+come from: ma	man	naham 
+be dead: avsaɣ	kahiva	kahivd	kɔhivdə 
+dead: avsaɣ	kahiva	kahivd	kɔhivdə 
+ground: makan	miːrav	saː	ŋgen 
+land: makan	miːrav	saː	ŋgen 
+soil: makan	miːrav	saː	ŋgen 
+fly: ahiga	avadik 
+fly v.: ahiga	avadik 
+left hand: saNa	saŋga 
+1 sg.: nohan	nok 
+be knowledgeable: meai	meːai 
+head louse: bamb 
+male: anem 
+much: oliːv	reːr	yaːba 
+multiple: oliːv	reːr	yaːba 
+several: oliːv	reːr	yaːba 
+flesh: mbatud 
+hill: beːtok-miraːv 
+title: igiz	igiːz	teb 
+nighttime: dino	hap	ivim 
+adulterous: izakod	izaːkod	izākod 
+single: izakod	izaːkod	izākod 
+that: izakod	izaːkod	izākod 
+the: izakod	izaːkod	izākod 
+unprincipled: izakod	izaːkod	izākod 
+human: anem	an̋m 
+human being: anem	an̋m 
+rainy weather: he	hei	ɣe 
+path: kai 
+route: kai 
+hide: par	ruːr	ugu 
+little: papɪs	pap̋s 
+smallness: papɪs	pap̋s 
+rock: katar	kaːtar	seŋa	seŋga 
+2 sg: oh	oɣo	wo	wohan 
+grind: inah 
+go: potak	warak 
+hot: ena	eːna 
+1 pl. inc.: kake nok	nok 
+we₁: kake nok	nok 
+whiteness: koeː	koi-hi	leŋgaŋ 
+who?: anem	te 
+female: sav	sɔv 
+distant: mahat	mahut 
+dull: kanir	kaniːr 
+serious: kanir	kaniːr 
+close: andoa	andwa	endowa 
+ner: andoa	andwa	endowa 
+earthworm: aro 
+3 sg.: anep 
+he: anep 
+she: anep 
+2 pl.: eoh	yo	yohan 
+ye: eoh	yo	yohan 
+you all: eoh	yo	yohan 
+3 pl.: anip 
+where?: end	eːndə 
+when?: to-ndeː 
+how?: eːndətago 
+broad: boːnd 
+wideness: boːnd 
+fat: yaːba 
+principal wife: huzum	hyum	uzum	zum 
+his mother: hu	vaxib	vu	waːh 
+my mother: hu	vaxib	vu	waːh 
+his father: heːvai	vai 
+my father: heːvai	vai 
+woods: deg	deːbak	deːg 
+cord: eːwa	ndoːndə 
+gut: pe	peː 
+insides: pe	peː 
+intestine: pe	peː 
+intestines: pe	peː 
+breath: beːkai wiːn 
+laughter: aved	aveːd 
+cogitate: vetok	veːtok 
+reflect: vetok	veːtok 
+sniff: bak	imu bak 
+beat: amuk	deː	hed	usak 
+strike: amuk	deː	hed	usak 
+hack: isug	takoi	warok 
+lie down: mbatav meːen raːh 
+tell lies: mbatav meːen raːh 
+drop: hai 
+wring: abaku	kambab 
+wash clothes: adoak	aswi	avakeb	keswan 
+bind: akasok	kahib	kasid	kiparud 
+fasten: akasok	kahib	kasid	kiparud 
+tie up: akasok	kahib	kasid	kiparud 
+enumerate: zamin 
+number: zamin 
+tally: zamin 
+brook: riki	riːki 
+stream: riki	riːki 
+blaze: arui	honip	hoːnip 
+daylight: areːt	hanid	piːg 
+daytime: areːt	hanid	piːg 
+evil: dom	doːm 
+rot: imu-ti 
+blunt: hamba-sud 
+damp: dub-a-dub	duba-dub 
+right side: awa 
+inside: kuma 
+because: rɪk 

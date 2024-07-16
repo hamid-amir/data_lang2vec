@@ -1,0 +1,386 @@
+all: maeakoko 
+arm: mai 
+ashes: afurae | aɸurae 
+ashes: a-koera | aɸurae 
+ashes: aφurae | aɸurae 
+ashes: ikoera | aɸurae 
+bad: heaba 
+bad: heaiai 
+bark: tola hiru 
+belly: ere | ére 
+belly: ére | ére 
+belly: ére 
+big: eapapu | kakaiapu 
+big: kakaiapu 
+big: kakaiapu/milorimilori 
+big: milorimilori | kakaiapu 
+bird: ori 
+bite: burovo | mulaβa 
+bite: mulaßa | mulaβa 
+bite: mulava | mulaβa 
+black: maea uru 
+black: mai-uru | maea uru 
+black: uruka | maea uru 
+blood: opu | ovo	oβo 
+blood: oro (?) | ovo	oβo 
+blood: oßo | ovo	oβo 
+blood: ovo | ovo	oβo 
+blood: ovu | ovo	oβo 
+bone: uki | uti 
+bone: uti 
+boy: akure 
+breast: aßaihi | avaihi	aβaihi 
+breast: avaihi | avaihi	aβaihi 
+burn: a sara 
+butterfly: pipi 
+calf: roa-hae 
+chest: arahu 
+child: aturea 
+claw: mai haro 
+claw: mora haro | mai haro 
+cloud: mea-e 
+cloud: mea\e | mea-e 
+cold: hahaita | memesere 
+cold: mai\rir | memesere 
+cold: memesere 
+cold: vevekoko | memesere 
+come: ekeki/avakeki | ete	ukote 
+come: ete | ete	ukote 
+come: ete/ukote | ete	ukote 
+come: kotira | ete	ukote 
+come: ukote | ete	ukote 
+crocodile: aitahe 
+crocodile: isafea 
+dark: muru 
+dark: murumuru 
+day: avava 
+day: hare 
+day: meafilo 
+day: meaφilo 
+day: ovava 
+day: sare 
+die: apaki | opa 
+die: api | opa 
+die: opa 
+dig: hiaki 
+dig: hihepaki 
+dig: iseira 
+dig: viopai 
+dog: aße | ave	aβe 
+dog: ave | ave	aβe 
+dog: avi | ave	aβe 
+drink: lari-vie | ma lara 
+drink: lela | ma lara 
+drink: ma lara 
+dry: arara 
+ear: aßato | avato	aβato 
+ear: ava-ku | avato	aβato 
+ear: ava-to | avato	aβato 
+earth: kekere | mea 
+earth: mea 
+earth: tetere | mea 
+eat: lara 
+eat: lari-vie | lara 
+eat: lela | lara 
+egg: fae | tori ɸare 
+egg: hae | tori ɸare 
+egg: ori fare | tori ɸare 
+egg: tori φare | tori ɸare 
+elbow: mai-are 
+elbow: mai-iare 
+eye: ofae(fae) | ofae	oɸae 
+eye: ovohae | ofae	oɸae 
+eye: oφae | ofae	oɸae 
+face: oropape 
+face: ovo-ape 
+father: oa 
+fat (n.): tapare 
+fear: oauka 
+fear: uaoua 
+feather: ori mehe | ori mehe	ori tolo 
+feather: oriri-hahereva | ori mehe	ori tolo 
+feather: ori tolo | ori mehe	ori tolo 
+finger: mai-lakoka 
+fingernail: mai-haro 
+fire: a 
+fire: ha-hari 
+fish: ekaka | tava	taβa 
+fish: taßa | tava	taβa 
+fish: tava | tava	taβa 
+flower: kaupa 
+flower: pupure 
+flower: tola-fae 
+fly (n.): oro 
+fly (n.): orope 
+fly (v.): ßißila 
+fly (v.): uraurai 
+fly (v.): ururukaki 
+fly (v.): vivila 
+foot: roa 
+forehead: evere 
+forehead: harihari 
+fruit: hae 
+fruit: kaupa 
+fruit: tola-fae 
+full: ape furira | ape furira	ape ɸurira 
+full: ape φurira | ape furira	ape ɸurira 
+girl: mori 
+give: avaraki | miara 
+give: miara 
+give: miari | miara 
+good: meikakure | metaka 
+good: metaka 
+green: maea porika 
+guts: eholou 
+guts: holou 
+hair: haro toro 
+hair: koru | haro toro 
+hair: utu | haro toro 
+hand: mai-eahoru 
+hand: mai(-hara) 
+head: haro 
+hear: iapai | mapa 
+hear: mapa 
+hear: mapa(ira) 
+heart: saife | saiɸe 
+heart: saiφe | saiɸe 
+horn: kea 
+house: elamo 
+house: uvi 
+husband: vira 
+I: ara 
+kill: arivie | paea	sare 
+kill: loiaselai | paea	sare 
+kill: paea | paea	sare 
+kill: sare | paea	sare 
+knee: arikaka 
+know: ore | ore lai 
+know: ore lai 
+know: ore (lai) | ore lai 
+leaf: koro | tolotolo 
+leaf: tola-iru | tolotolo 
+leaf: tolotolo 
+leg: mora 
+leg: roa 
+lie: eropai | uaβa 
+lie: uaßa | uaβa 
+lie: uava/eropai | uaβa 
+lip: ape-iru 
+live: harai 
+live: makuri 
+live: ovokaki 
+live: pave 
+liver: iki | iti 
+liver: iti 
+liver: koro | iti 
+long: saikapo 
+long: saikopa | saikapo 
+louse: lia | sarula 
+louse: sarula 
+man: haiera | karu	laea 
+man: haihava | karu	laea 
+man: kea | karu	laea 
+man: loiea | karu	laea 
+man: mea | karu	laea 
+man: ßilaikae | karu	laea 
+man: vailaikae | karu	laea 
+many: piroriapo 
+meat: haivao 
+meat: harava 
+meat: ßiairi 
+meat: viairi 
+meat: visiri 
+moon: papare 
+mosquito: efalea 
+mosquito: heare 
+mother: lou 
+mother: papure 
+mountain: kela | raepa 
+mountain: raepa 
+mouth: ape 
+name: lare 
+name: rare | lare 
+navel: ekore 
+navel: lokore 
+neck: kerave-aulape | koβore 
+neck: koßore | koβore 
+neck: kovore | koβore 
+new: áre | are	áre 
+new: áre | are	áre 
+night: eloa 
+night: fila\a | eloa 
+night: oroa | eloa 
+nose: ara | haraha 
+nose: haraha 
+nose: overa | haraha 
+not: harokari | harokari	leaβi 
+not: leaßi | harokari	leaβi 
+not: leavi | harokari	leaβi 
+one: fareapo | fareapo	farikapu	ɸareapo 
+one: φareapo | fareapo	farikapu	ɸareapo 
+person: karu | karu	laea 
+person: laea | karu	laea 
+rain: lai 
+rat: aire 
+rat: airi 
+red: maea oßoka | maea oβoka 
+red: (maea) ovo-ka | maea oβoka 
+red: ovo-ka | maea oβoka 
+river: mai 
+river: mai(-ape) 
+road: okiharo | otiharo 
+road: otiharo 
+root: elele | tusu 
+root: tusu 
+rope: ela 
+rope: horou 
+round: maea koauka 
+round: maea kouaka | maea koauka 
+salt: kaikara 
+salt: mato 
+sand: kekere | mea tetere	miri ɸolo 
+sand: mea tetere | mea tetere	miri ɸolo 
+sand: miri | mea tetere	miri ɸolo 
+sand: miri (folo) | mea tetere	miri ɸolo 
+sand: miri φolo | mea tetere	miri ɸolo 
+say: maiaki | mea tetere	miri ɸolo 
+say: o ara | mea tetere	miri ɸolo 
+say: oharo meai | mea tetere	miri ɸolo 
+say: omioi | mea tetere	miri ɸolo 
+scratch: karira 
+scratch: kariraki 
+sea: kaikara 
+sea: kikara 
+seed: tola mere 
+see: ofae eava(i) | ofae eava	oɸae eaβa 
+see: ovohae-eavaki | ofae eava	oɸae eaβa 
+see: oφae eaßa | ofae eava	oɸae eaβa 
+sit: aßa | aβa 
+sit: ava(-ira) | aβa 
+sit: haiavai | aβa 
+sit: ori-ava | aβa 
+skin: hi\iru | maea hiru 
+skin: iru | maea hiru 
+skin: maea hiru 
+sky: kaea 
+sky: kauri 
+sleep: avuku | iβutu uaβa 
+sleep: ißutu uaßa | iβutu uaβa 
+sleep: ivutu (uava) | iβutu uaβa 
+small: ekai | keako 
+small: keako 
+small: keako/kaakaa 
+small: keaku | keako 
+smoke: a\aro | akoera 
+smoke: abahubu | akoera 
+smoke: akoera 
+snake: ekaroa 
+snake: ikaroa 
+spit: apea 
+spit: apea-koakivie 
+stand: urai 
+stand: uroi 
+stand: urouki 
+star: koru 
+star: kou | koru 
+stone: fave | fave	ɸaβe 
+stone: have | fave	ɸaβe 
+stone: φaße | fave	ɸaβe 
+sun: hare | sare 
+sun: sare 
+sweet: kapare 
+sweet: tapare 
+swim: ma sorera 
+tail: aue 
+that: laiʔe 
+that: laié | laiʔe 
+thick: parula 
+thick: pisosoro 
+thigh: mauki 
+thin: heheroro 
+thin: seseraka 
+thin: veveroro 
+this: meʔe 
+this: meé | meʔe 
+thou: a 
+tomorrow: opoa sare 
+tongue: airitupa | uri 
+tongue: uri 
+tooth: kao | tao 
+tooth: tao 
+tree: kora | tola 
+tree: tola 
+two: helakere | elakere	helakere 
+walk: auki | mora loi 
+walk: aurai | mora loi 
+walk: mora loi 
+wallaby: pitoru 
+warm: hahea 
+warm: ha(i)hea 
+water: ma 
+water: ma(-huhu) 
+water: ma(-rorora) 
+weep: fiera 
+weep: hiarivie 
+we (incl.): ereʔioru 
+we (incl.): ereíoru 
+what: le 
+white: maea selaka 
+who: leia 
+woman: ußa | uβa 
+woman: uva | uβa 
+yellow: maea porika 
+yes: ahae 
+yesterday: faira sare 
+yesterday: φaira sare 
+every: maeakoko 
+ash: aɸurae 
+abdomen: ére 
+bigness: kakaiapu 
+large: kakaiapu 
+breasts: avaihi	aβaihi 
+nail: mai haro 
+talon: mai haro 
+come from: ete	ukote 
+be dead: opa 
+dead: opa 
+ground: mea 
+land: mea 
+soil: mea 
+fly: βiβila 
+fly v.: βiβila 
+hand: mai 
+left hand: mai 
+right: mai 
+1 sg.: ara 
+be knowledgeable: ore lai 
+lie down: uaβa 
+head louse: sarula 
+male: βilaikae 
+much: piroriapo 
+multiple: piroriapo 
+several: piroriapo 
+hill: raepa 
+title: lare 
+nighttime: eloa 
+adulterous: fareapo	farikapu	ɸareapo 
+single: fareapo	farikapu	ɸareapo 
+the: fareapo	farikapu	ɸareapo 
+unprincipled: fareapo	farikapu	ɸareapo 
+human: karu	laea 
+human being: karu	laea 
+rainy weather: lai 
+path: otiharo 
+route: otiharo 
+hide: maea hiru 
+little: keako 
+smallness: keako 
+rock: fave	ɸaβe 
+grind: elakere	helakere 
+go: mora loi 
+1 pl. inc.: ere7ioru	ereʔioru 
+we: ere7ioru	ereʔioru 
+we₁: ere7ioru	ereʔioru 
+whiteness: maea selaka 
+who?: leia 
+female: uβa 

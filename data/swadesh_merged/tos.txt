@@ -1,0 +1,152 @@
+all: paks 
+every: paks 
+ash: Lka*ka* 
+ashes: Lka*ka* 
+bark: Ci*qa*t 
+abdomen: pan 
+belly: pan 
+big: Lanka* 
+bigness: Lanka* 
+large: Lanka* 
+bird: spun 
+bite: Ska 
+black: ci*ca*qa 
+blood: qaLni 
+bone: lukut 
+breast: cikit 
+breasts: cikit 
+claw: makasi*ya*n 
+nail: makasi*ya*n 
+talon: makasi*ya*n 
+cloud: pukLni* 
+cold: ka*wi*wi*	lonqni* 
+come: min 
+come from: min 
+be dead: ni 
+dead: ni 
+die: ni 
+dog: CiCi 
+drink: qot 
+dry: skakni* 
+ear: taqan 
+earth: ti*ya*t 
+ground: ti*ya*t 
+land: ti*ya*t 
+soil: ti*ya*t 
+eat: wa* 
+egg: qa*Lwa*t 
+eye: laqastapu 
+fat: Calat 
+fat n.: Calat 
+grease: Calat 
+lubricant: Calat 
+oil: Calat 
+feather: pa*qa* 
+fire: Lkuyat 
+fish: skiti 
+fly: qos 
+fly v.: qos 
+foot: tuxan 
+full: cama 
+give: maSki 
+good: Lan 
+green: staqni*nki 
+hair: ya*xni* 
+hand: makan 
+left hand: makan 
+right: makan 
+head: a*qSaqa 
+hear: qaSmata 
+heart: naku* 
+horn: aqaloqot 
+1 sg.: akit	kit 
+I: akit	kit 
+kill: maqni 
+knee: coqosni 
+be knowledgeable: ka*Ci 
+know: ka*Ci 
+leaf: tuwan 
+lie: ma*x 
+lie down: ma*x 
+liver: Lwakaka 
+long: Lma*n 
+head louse: skata 
+louse: skata 
+male: CiSku* 
+man: CiSku 
+many: Luwa* 
+much: Luwa* 
+multiple: Luwa* 
+several: Luwa* 
+flesh: liwa* 
+meat: liwa* 
+moon: papa* 
+hill: sipih 
+mountain: sipih 
+mouth: kiLni* 
+name: tapakuwit 
+title: tapakuwit 
+neck: piSni* 
+new: sasti 
+night: cisni 
+nighttime: cisni 
+nose: kankan	kinkan 
+not: ni 
+adulterous: tum	túm 
+one: tum	túm 
+single: tum	túm 
+that: ta*ma* 
+the: tum	túm 
+unprincipled: tum	túm 
+human: CiSku 
+human being: CiSku 
+person: CiSku 
+rain: si*n 
+rainy weather: si*n 
+red: cucoqo 
+path: tihi 
+road: tihi 
+route: tihi 
+root: tanqSeqa 
+round: stuluL 
+say: wan 
+see: ukSiLa 
+seed: taLci* 
+sit: wi*x 
+hide: Suwa 
+skin: Suwa 
+sleep: Ltata 
+little: a*kcu	sqa*ta* 
+small: a*kcu	sqa*ta* 
+smallness: a*kcu	sqa*ta* 
+smoke: jini* 
+stand: yax 
+star: staku 
+rock: CiwiS 
+stone: CiwiS 
+sun: CiCini 
+swim: Skiwatnan 
+tail: staxan 
+this: u*ma* 
+2 sg: wiS 
+thou: wiS 
+you: wiS 
+tongue: simaqat 
+tooth: tacan 
+tree: kiwi 
+grind: tu	t’uy 
+two: tu	t’uy 
+go: La*wan 
+walk: La*wan 
+water: CuCut 
+1 pl. inc.: akin	kin 
+we: akin	kin 
+we₁: akin	kin 
+what: tu 
+white: snapapa 
+whiteness: snapapa 
+who: ti 
+who?: ti 
+female: puskat 
+woman: puskat 
+yellow: smukuku 

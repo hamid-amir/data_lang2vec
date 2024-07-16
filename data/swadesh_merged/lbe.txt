@@ -1,0 +1,342 @@
+all: š:alla | циняв	щала 
+ashes: laχ | лах 
+bark: k:iri | ккири	макьара 
+belly: laIʠa | лякьа 
+big: qunmas:a | хъунмасса 
+bird: ḉiImlu | лелуххи 
+bird: liIluχ:i | лелуххи 
+bite: ṭun | кьацIа тIун	кьацІа тІун 
+black: luħis:a | лухIисса	лухІисса 
+blood: uI(t:u) | оь 
+bone: lič:a | ттаркI	ттаркІ 
+bone: t:arḳ | ттаркI	ттаркІ 
+breast: qazam | ккукку	хъазам 
+burn tr.: č:učlan 
+claw(nail): mix 
+cloud: t:urlu | ттурлу 
+cold: daIrq:us:a | дяркъусса	дяркъюсса 
+come: buḉan | учIан	учІан 
+die: iwḉan | ивкІусса	ивчIан	ивчІан 
+dog: k:ač:i | ккаччи 
+drink: ħaḉan | хIачIан	хIачIлан	хІачІан	хІачІлан 
+dry: ʠawʠs:a | кьавкьсса 
+earth: aIrš:i | аьрщи	билайат 
+earth: š:aIlu | аьрщи	билайат 
+ear: viḉi | вичIи	вичІи 
+eat: bukan | дукан	канан 
+egg: k:unuk | ккунук 
+eye: ja 
+far: arχnu | архну	архсса 
+fat n.: maj 
+feather: ṭimu | къув	тIиму	тІиму 
+fire: ċu | цIу	цІу 
+fish: ħawa | балугъ	хІава	чавахъ 
+fly v.: liIχlan | лехлан 
+foot: č:an | бакIччан	чІанччан 
+full: buwċus:a | бувцIусса	дурцІусса	щаллусса 
+give: bullan | дуллан	дулун 
+good: χ:ujs:a | ххуйсса	хъинсса 
+green: š:uIllis:a | щюллисса 
+hair: ḉara | кIиз	кІиз	чIара 
+hand: ka | бартка 
+head: baḳ | бакI	бакІ 
+hear: bajan | баллан	баян 
+heart: daḳ | къюкI	къюкІ 
+heavy: ḳus:a | кIусса	кІусса 
+horn: qi | кьири	хъи 
+I: na | на 
+kill: iwḉan | бивкIлан	бивчIан	ивчІан 
+knee: nik | ник 
+know: xun | кIулну бикIан	кІулну бикІан 
+leaf: ḉap\i | чIапIи	чІапІи 
+lie: ixlan | чулий агьан | утту ивхьуну икIан	щялмахъ буслан 
+liver: t:iliḳ | ттиликI	ттиликІ 
+long: laqis:a | лакъисса	лахъисса 
+louse: naċ | нацI	нацІ 
+man: čuv | инсан 
+many: ḉaIvus:a | чIявусса	чІявусса 
+meat: diḳ | кьаркьала | дикI	дикІ 
+moon: barz | барз 
+mountain: zunt:u | бакІу	зунтту 
+mouth: ʠaċ | кьац	кьацІ 
+name: ċa | цIа	цІа 
+near: ʁannu | гъансса	чІарав 
+neck: s:urs:u | ссурссу 
+new: ċus:a | цIусса	цІусса 
+night: x:u | хьхьу 
+nose: maj | май 
+not: q:a- | къа- 
+one: ca | ца 
+person: insan | инсан 
+rain: ʁaral | гъарал 
+red: jaIṭuIls:a | ятIулсса	ятІулсса 
+road: χ:ullu | ххуллу 
+root: marχ:a | мархха 
+round: k:urk:is:a | ккурккисса 
+salt: ċwu | цIу	цІу 
+sand: q:un | къун 
+say: učin | гъалгъа тIун	гъалгъа тІун | къун 
+see: ḉalan | ккаккан	чIалан	чІалан 
+seed: hanna | гьанна 
+short: kuṭas:a | кутIасса	кутІасса 
+sit: biḳan | щяивкІун икІан	щяикIан 
+skin: burču | бурчу	ххячара 
+sleep: šanan | шанан 
+small: ḉivis:a | чIивисса	чІивисса 
+smoke: purḳu | пуркIу	пуркІу 
+snake: šat:a | шатта 
+stand: baċan | ацIан	ацІан 
+star: ċuku | цIуку	цІуку 
+stone: čaru | ххяли	чару 
+sun: barʁ | баргъ	баргь 
+swim: huzu-n | гьузун 
+tail: maʁ | магъ 
+that: ta | га	кIа	му	та | ца 
+thin: ḳuIlas:a | кIюласса	кІюласса 
+this: va | ва 
+thou: ina | зу	ина 
+tongue: maz | маз 
+tooth: k:arč:i | ккарччи 
+tree: murx | мурхь 
+two: ḳiva | кIива	кІива 
+walk (go): ha-n 
+walk (go): nan 
+warm: ʁilis:a | гъелисса	гьилисса 
+water: š:in | щин 
+we: žu | жу 
+what: ci | ци 
+white: ḳaIlas:a | кIяласса	кІяласса 
+who: cu | цу 
+wind: marčw | марч 
+woman: š:ars:a | хъамитайпа	щарсса 
+worm: šat:a | кьакІи	кьюнукьяй шатта	шатта 
+year: šin | шин 
+yellow: qaqis:a | хъахъисса 
+every: циняв	щала 
+ash: лах 
+abdomen: лякьа 
+bigness: хъунмасса 
+large: хъунмасса 
+breasts: ккукку	хъазам 
+claw: михь 
+nail: михь 
+talon: михь 
+come from: учIан	учІан 
+be dead: ивкІусса	ивчIан	ивчІан 
+dead: ивкІусса	ивчIан	ивчІан 
+ground: аьрщи	билайат 
+land: аьрщи	билайат 
+soil: аьрщи	билайат 
+fly: лехлан 
+left hand: бартка 
+right: бартка 
+1 sg.: на 
+be knowledgeable: кIулну бикIан	кІулну бикІан 
+lie down: чулий агьан 
+head louse: нацI	нацІ 
+male: адамина	адимина 
+much: чIявусса	чІявусса 
+multiple: чIявусса	чІявусса 
+several: чIявусса	чІявусса 
+flesh: кьаркьала 
+hill: бакІу	зунтту 
+title: цIа	цІа 
+nighttime: хьхьу 
+adulterous: ца 
+single: ца 
+the: ца 
+unprincipled: ца 
+human: инсан 
+human being: инсан 
+rainy weather: гъарал 
+path: ххуллу 
+route: ххуллу 
+hide: бурчу	ххячара 
+little: чIивисса	чІивисса 
+smallness: чIивисса	чІивисса 
+rock: ххяли	чару 
+2 sg: зу	ина 
+you: зу	ина 
+grind: кIива	кІива 
+go: занан 
+walk: занан 
+hot: гъелисса	гьилисса 
+1 pl. inc.: жу 
+we₁: жу 
+whiteness: кIяласса	кІяласса 
+who?: цу 
+female: хъамитайпа	щарсса 
+distant: архну	архсса 
+dull: кIусса	кІусса 
+serious: кIусса	кІусса 
+close: гъансса	чІарав 
+ner: гъансса	чІарав 
+earthworm: кьакІи	кьюнукьяй шатта	шатта 
+3 sg.: ва 
+he: ва 
+she: ва 
+2 pl.: зу 
+ye: зу 
+you all: зу 
+3 pl.: вай	гай	кIай	мий	тай 
+they: вай	гай	кIай	мий	тай 
+here: шикку 
+there: тикку 
+where: чув 
+where?: чув 
+when: та 
+when?: та 
+how: цукун 
+how?: цукун 
+some: цаппара 
+few: чанни	чанну	чансса 
+other: гамур	цамур 
+three: шамма	шанма 
+four: мукьва 
+five: ххюва 
+broad: уттасса 
+wide: уттасса 
+wideness: уттасса 
+fat: аьгъушиву	май 
+thick: ганзсса 
+narrow: къумасса	лиссусса 
+child: оьрч	оьрчІ 
+principal wife: щарсса 
+wife: щарсса 
+husband: лас 
+his mother: дада	нину 
+mother: дада	нину 
+my mother: дада	нину 
+father: мямма	ппу 
+his father: мямма	ппу 
+my father: мямма	ппу 
+animal: жанавар	хІайван 
+forest: вацIа	вацІа 
+woods: вацIа	вацІа 
+branch: къяртта	ттархь 
+stick: къяртта	ттархь 
+fruit: ахъулсса 
+flower: тIутIи	тІутІи 
+grass: уртту 
+cord: хьхьа	хьхьва 
+rope: хьхьа	хьхьва 
+grease: аьгъушиву	май 
+fingernail: михь 
+leg: ччан 
+arm: ка 
+wing: хъа 
+gut: ххютту-ка	хютту 
+guts: ххютту-ка	хютту 
+insides: ххютту-ка	хютту 
+intestine: ххютту-ка	хютту 
+intestines: ххютту-ка	хютту 
+back: бархI	бянивсса	ттиликІ 
+suck: цIупIа тIун	цІупІ учин 
+spit: пув	пув тIун	пув тІун 
+vomit: кIарчI биллан	кІарчІа тІун 
+blow: бишлан	уф чин 
+breath: ссихI бигьин	ссихІ бигьлан 
+breathe: ссихI бигьин	ссихІ бигьлан 
+laugh: хъян 
+laughter: хъян 
+cogitate: пикри бан	пикри буллан 
+reflect: пикри бан	пикри буллан 
+think: пикри бан	пикри буллан 
+smell: ссунтI учин	ссунтІа тІун 
+sniff: ссунтI учин	ссунтІа тІун 
+afraid: нигь	нигьа услан	ццах 
+be afraid: нигь	нигьа услан	ццах 
+fear: нигь	нигьа услан	ццах 
+fright: нигь	нигьа услан	ццах 
+alive: оьрму	оьрму бутан	оьрму бутлан	сагъсса	ялапар хъанан 
+be alive: оьрму	оьрму бутан	оьрму бутлан	сагъсса	ялапар хъанан 
+life: оьрму	оьрму бутан	оьрму бутлан	сагъсса	ялапар хъанан 
+live: оьрму	оьрму бутан	оьрму бутлан	сагъсса	ялапар хъанан 
+living: оьрму	оьрму бутан	оьрму бутлан	сагъсса	ялапар хъанан 
+fight: биллан	данди уккан	лачIун уклан 
+hunt: авли уклан	хъирив агьлан 
+beat: батлан	ришлан	рищун 
+hit: батлан	ришлан	рищун 
+strike: батлан	ришлан	рищун 
+cut: духълан	кьукьлан 
+hack: духълан	кьукьлан 
+cut open: дачIин	ххядуккан 
+split: дачIин	ххядуккан 
+pierce: биххан	кьутлан 
+stab: биххан	кьутлан 
+scratch: ххарцив дуллан	ххяппа дуцIин 
+dig: бихлан	дихлан	дуклан 
+tell lies: утту ивхьуну икIан	щялмахъ буслан 
+turn: кIура баен бан	тІитІи бакьин 
+turn around: кIура баен бан	тІитІи бакьин 
+turn round: кIура баен бан	тІитІи бакьин 
+drop: агьлан	багьлан 
+fall: агьлан	багьлан 
+grasp: бугьлан	дугьан 
+hold: бугьлан	дугьан 
+hold in arm: бугьлан	дугьан 
+squeeze: ккуччу дан	хьхьицІин	чIувин бан 
+wring: ккуччу дан	хьхьицІин	чIувин бан 
+rub: лишин	ссуку буллан 
+wipe: лишин 
+wash: шюшин	шюшлан 
+wash clothes: шюшин	шюшлан 
+pull: кIункIу дуллан 
+push: щилан 
+shove: щилан 
+throw: бутан 
+bind: дахIлан	дахІаву дуллан	щащлан 
+fasten: дахIлан	дахІаву дуллан	щащлан 
+tie: дахIлан	дахІаву дуллан	щащлан 
+tie up: дахIлан	дахІаву дуллан	щащлан 
+sew: дурухлан 
+count: Буккин	дуккин 
+enumerate: Буккин	дуккин 
+number: Буккин	дуккин 
+tally: Буккин	дуккин 
+sing: балай тIун	балай тІун 
+have fun: тІуркІу тІун	туркIу тIун 
+play: тІуркІу тІун	туркIу тIун 
+float: бигьлан	гьузуй ачин	гьузун 
+flow: экьи нан	экьинан 
+freeze: бяхълан	микIлачIлан 
+swell: урухлан 
+brook: нех	чІири нех 
+river: нех	чІири нех 
+stream: нех	чІири нех 
+lake: бяр 
+ocean: хьхьири 
+sea: хьхьири 
+dust: лах 
+fog: ттурлу	шархьттурлу 
+sky: ссав 
+snow: марххала 
+ice: микI	пюрунмикІ 
+blaze: ччучлан 
+burn: ччучлан 
+day: кьини 
+daylight: кьини 
+daytime: кьини 
+old: духсса	хъунав хьусса 
+bad: оьккисса 
+evil: оьккисса 
+rot: аьвсса	аьрсса 
+rotten: аьвсса	аьрсса 
+dirty: чапалсса 
+filthy: чапалсса 
+soiled: чапалсса 
+straight: тIайласса	тІайласса 
+sharp: дайлсса	мицI бусса 
+blunt: къуркъасса 
+smooth: саргъунсса	саргьунсса 
+damp: атилсса 
+wet: атилсса 
+correct: тIайласса	тІайласса 
+right side: урчIахсса	урчІахсса 
+left: кияхсса 
+at: чIарав 
+in: -ву	-вун	вив 
+inside: -ву	-вун	вив 
+and: -гу	ва 
+if: агана	агар 
+because: мунияту	цанчирча 

@@ -1,0 +1,228 @@
+all: uddol 
+animal: wakkai 
+arm: add˗ 
+ashes: kukuːs 
+back: ɗaɗaŋ 
+bad: taːs 
+bark: kuɓudu 
+belly: ɓileːke 
+big: ɓikke 
+bird: auɲiːs 
+bite: kasa 
+black: ǯ\uːl | ǯʼuːl 
+blood: teːmak | temak	teːmak 
+blow: usi 
+bone: ŋoŋŋis | noNNis	ŋoŋŋis 
+boy: čas 
+breast: kiɗiːge | kadige	kiɗiːge 
+breathe: uŋu 
+burn: aɓuxu 
+child: čas 
+cloud: tiːwit 
+cold: pəpx 
+come: ɓoŋǃ | coN	ɓoŋ! 
+correct: təbatto 
+count: agade 
+cut: abədo 
+cut: asdigiːk 
+die: əxs | 3xse	əxs 
+dig: aɓoya 
+dirty: mudak 
+dog: iːs | is	iːs 
+drink: awuxi | awuxi	uxi 
+dry: kəmaːsəs 
+dust: urga 
+earth: səkk 
+ear: wunett | wunet	wunett 
+eat: azeː 
+egg: oloːdos 
+eye: aun 
+fall: ˗ɗel 
+far: təxxan 
+father: me˗ 
+fat (n.): muːǯ 
+fear: ɲag˗ 
+feather: abax 
+few: teteoŋos 
+fight: aɗəseː 
+finger: px˗add˗ 
+fire: maːs | mas	maːs 
+fish: axsəs | axs3s	axsəs 
+five: mədək 
+float: ɓa 
+flow: biste 
+flower: tuːdul 
+fly (n.): amxouz 
+fly (v.): bak 
+foot: ix 
+four: tespet 
+full: təbb 
+give: abəŋe 
+good: loŋŋai 
+grass: ɲaːxəs 
+green: lassax 
+guts: kaǯalbək 
+hair: abaxtəs 
+hand: add˗ | ad	add- 
+head: za 
+heart: kəɲaxs 
+hear: ǯule | Tule	ǯule 
+heavy: təttəx 
+he/she: ma(n) 
+hit: aɓdouda 
+hole: axou 
+horn: yaxte 
+hunt: goːlo 
+I: aga 
+kill: abaxa 
+knee: səmd˗ | s3md	səmd- 
+know: yəx 
+lake: luːga 
+laugh: agugu 
+leaf: un˗ette | un-ette	unet 
+left: ɲogol 
+leg: ix 
+liver: mes 
+louse: təgge | t3ge 
+many: datta 
+man: yox | kik 
+meat: iya 
+mother: ɓo 
+mouth: əkk˗ | əkk- 
+name: agge | ag	agge 
+narrow: kəlləp 
+near: tariya 
+neck: aməč | aməč 
+night: woŋ | woN	woŋ 
+old: ɓoxkoɲ 
+one: nohorok 
+person: kik 
+play: coxo 
+pull: aɲase 
+push: siǯa 
+rain: koxa 
+rat: yiŋəs 
+right: ɓaːnəs | ad	add- 
+river: pox 
+road: ˗sokk | bosok 
+root: maxke 
+rope: sət 
+rotten: koǯopoŋei 
+round: kuggul 
+rub: abəski 
+salt: ulaŋ 
+sand: tuweːs 
+scratch: owoɲo 
+see: aɽa | ara	aɽa 
+seed: səɓeče | səɓeče 
+sharp: čeǯeːm 
+short: təlləŋ 
+sing: alaːŋe 
+sit: azŋutunda 
+skin: mmi | mi	mmi 
+sky: koxa 
+small: teteoŋos 
+smoke: ləkk 
+smooth: sessex 
+snake: dol 
+spit: alək 
+split: dette 
+squeeze: amuxtiči 
+stand: usu 
+star: azaxtas 
+suck: aɓaːna 
+sun: oxgohoŋ | oxgohong	oxgohoŋ 
+sweet: tumox 
+swell: kə˗ɓeŋ 
+swim: ɓa 
+tail: iːbe 
+they: zaki 
+thick: tiǯ\aːx 
+thin: wax 
+thou: ago | kinaŋ 
+thou: kinaŋ 
+three: kodos 
+throw: aɗaba 
+tie: anze 
+tongue: ləbbəx | l3b3x	ləbbəx 
+tooth: ɲixt | 5ixt	ɲixt 
+tree: eːwes | ewes 
+turn: agolokgoloŋ 
+two: pədax | p3dax	pədax	pɛdax 
+vomit: aǯalage 
+walk: awede 
+walk: biste 
+warm: təppai 
+wash: aɗai 
+water: ma 
+we (excl.): asko 
+we (incl.): konok 
+wet: pəpx 
+what: waːyan 
+when: səxoŋ 
+where: tei 
+white: pabbal 
+who: keneːn 
+wind: mege 
+wing: kuɓuːdiče 
+woman: ux 
+wood: kax 
+worm: ux | ux	uːxus 
+worm: uːxus | ux	uːxus 
+year: čegga | čegga 
+yellow: pəxaɲ 
+every: uddol 
+ash: kukuːs 
+abdomen: ɓileːke 
+bigness: ɓikke 
+large: ɓikke 
+breasts: kadige	kiɗiːge 
+come from: coN	ɓoŋ! 
+be dead: 3xse	əxs 
+dead: 3xse	əxs 
+fly: bak 
+fly v.: bak 
+left hand: ad	add- 
+1 sg.: aga 
+be knowledgeable: yəx 
+head louse: t3ge 
+male: yox 
+much: datta 
+multiple: datta 
+several: datta 
+hill: dokaN 
+mountain: dokaN 
+title: ag	agge 
+nighttime: woN	woŋ 
+nose: mun	muːn- 
+adulterous: nohorok 
+single: nohorok 
+that: nohorok 
+the: nohorok 
+unprincipled: nohorok 
+human: kik 
+human being: kik 
+rainy weather: koxa 
+path: bosok 
+route: bosok 
+say: tuweːs 
+hide: mi	mmi 
+little: teteoŋos 
+smallness: teteoŋos 
+rock: lamus 
+stone: lamus 
+2 sg: kinaŋ 
+you: kinaŋ 
+grind: p3dax	pədax	pɛdax 
+1 pl. inc.: asko	konok 
+we: asko	konok 
+we₁: asko	konok 
+whiteness: pabbal 
+who?: keneːn 
+female: ux 
+distant: təxxan 
+dull: təttəx 
+serious: təttəx 
+close: tariya 
+ner: tariya 
+earthworm: ux	uːxus 

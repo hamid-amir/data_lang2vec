@@ -1,0 +1,261 @@
+all: karagatuni 
+every: karagatuni 
+ash: afiruk 
+ashes: afiruk 
+abdomen: bitua-n 
+belly: bitua-n 
+big: mage:n 
+bigness: mage:n 
+large: mage:n 
+bird: manik 
+bite: kiki 
+black: kudkuda 
+blood: rara 
+bone: ruri	ruri|r 
+breast: susi 
+breasts: susi 
+burn: agrasa 
+burn tr.: agrasa 
+cloud: dirite 
+cold: ma|dirig 
+come: ma	mai	maige 
+come from: ma	mai	maige 
+be dead: warag	warat 
+dead: warag	warat 
+die: warag	warat 
+dog: yasi	yasianak 
+drink: ane	nim 
+dry: atetar 
+ear: taniga-n	tenigan 
+eat: unkwai 
+egg: bati-n 
+eye: batibati-n	batin 
+feather: bunibuni|m 
+fire: yafi 
+fish: sair	say3r 
+fly: aturig 
+fly v.: aturig 
+full: feni 
+good: kues 
+green: matmatak 
+hair: uni-n faki-n 
+hand: niman	nina-n 
+left hand: niman	nina-n 
+right: niman	nina-n 
+head: uni-n 
+hear: mitanam	tanam 
+1 sg.: yai 
+I: yai 
+kill: nafedan 
+knee: nemen 
+be knowledgeable: bre 
+know: bre 
+leaf: faki-n	kafaken 
+lie: bulbuliai 
+lie down: bulbuliai 
+liver: nawa-n	yata-n 
+long: ma|nawas 
+head louse: kuti 
+louse: kuti 
+male: murarara 
+man: mancia 
+moon: bunan 
+hill: keni 
+mountain: keni 
+mouth: suma-n 
+name: gara	garar̄ 
+title: gara	garar̄ 
+neck: gurar 
+new: beriberi	biribiri 
+night: misiag 
+nighttime: misiag 
+nose: ipir	oipir 
+adulterous: isa	isáʔ 
+one: isa	isáʔ 
+single: isa	isáʔ 
+that: ine 
+the: isa	isáʔ 
+unprincipled: isa	isáʔ 
+human: mancia 
+human being: mancia 
+person: mancia 
+rain: yagin 
+rainy weather: yagin 
+red: kasumba 
+path: nanam 
+road: nanam 
+route: nanam 
+root: sorsor 
+sand: kidai 
+say: farok 
+see: miniga	niga 
+sit: mtonag 
+hide: kuni	kunit 
+skin: kuni	kunit 
+sleep: rua 
+little: girif 
+small: girif 
+smallness: girif 
+smoke: m|asi 
+star: finima 
+rock: bati 
+stone: bati 
+sun: rera 
+swim: ruri 
+tail: ikir 
+this: ige 
+tongue: kerir 
+tooth: nifa-n	nifan 
+tree: yain 
+grind: nua	núa 
+two: nua	núa 
+go: pana 
+walk: pana 
+hot: bayar 
+warm: bayar 
+water: wer 
+1 pl. inc.: ita	yami 
+we: ita	yami 
+we₁: ita	yami 
+what: safa 
+white: iriris 
+whiteness: iriris 
+who: ose 
+who?: ose 
+female: batbata 
+woman: batbata 
+yellow: kuniŋ 
+distant: bair 
+far: bair 
+dull: ma|berat 
+heavy: ma|berat 
+serious: ma|berat 
+close: karagar 
+near: karagar 
+ner: karagar 
+salt: sira 
+short: fisik 
+snake: kunanawas 
+thin: ma|nipis 
+wind: diri 
+earthworm: gorgor 
+worm: gorgor 
+year: gara 
+2 pl.: imi 
+ye: imi 
+you: imi 
+you all: imi 
+3 pl.: sina 
+they: sina 
+where: ampe 
+where?: ampe 
+how: akape 
+how?: akape 
+other: [a] faserir 
+three: teni 
+four: fat 
+five: nima 
+broad: taberar 
+wide: taberar 
+wideness: taberar 
+fat: minminak 
+thick: ma|kafan 
+principal wife: isawa-n 
+wife: isawa-n 
+husband: isawa-n 
+his mother: nini-n 
+mother: nini-n 
+my mother: nini-n 
+father: yama-n 
+his father: yama-n 
+my father: yama-n 
+forest: tiri 
+woods: tiri 
+branch: saga-n 
+stick: saga-n 
+fruit: bua-n 
+flower: fusi-n 
+grass: riri 
+cord: warwaras 
+rope: warwaras 
+flesh: isi-n	isisi-n 
+meat: isi-n	isisi-n 
+grease: minminak 
+wing: senafi-n 
+gut: butune-n warwaras 
+guts: butune-n warwaras 
+insides: butune-n warwaras 
+intestine: butune-n warwaras 
+intestines: butune-n warwaras 
+back: tawana-n 
+suck: susi 
+spit: kuririf 
+vomit: muta 
+blow: afasar 
+breath: seg 
+breathe: seg 
+laugh: manif 
+laughter: manif 
+cogitate: nanam 
+reflect: nanam 
+think: nanam 
+smell: sigir 
+sniff: sigir 
+afraid: mkef 
+be afraid: mkef 
+fear: mkef 
+fright: mkef 
+alive: nais 
+be alive: nais 
+life: nais 
+live: nais 
+living: nais 
+hunt: osir 
+beat: baban 
+hit: baban 
+strike: baban 
+cut: ois 
+hack: ois 
+cut open: bakis 
+split: bakis 
+pierce: sai 
+stab: sai 
+scratch: keri 
+dig: kani 
+stand: mriri 
+grasp: gwain 
+hold: gwain 
+hold in arm: gwain 
+squeeze: gugim	kwapar 
+wring: gugim	kwapar 
+throw: sai 
+bind: eket	sait 
+fasten: eket	sait 
+tie: eket	sait 
+tie up: eket	sait 
+sew: sor 
+count: yaf 
+enumerate: yaf 
+number: yaf 
+tally: yaf 
+flow: asai 
+ocean: sasik 
+sea: sasik 
+dust: afruk 
+fog: soan 
+sky: lagit 
+bad: finta 
+evil: finta 
+rot: sigir 
+rotten: sigir 
+dirty: budam 
+filthy: budam 
+soiled: budam 
+sharp: magan 
+blunt: akapugam 
+damp: apagas 
+wet: apagas 
+right side: banifia 
+left: kapepe 
+in: ami-nanam 
+inside: ami-nanam 

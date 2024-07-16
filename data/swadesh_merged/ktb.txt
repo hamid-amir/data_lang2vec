@@ -1,0 +1,456 @@
+all: hor | guʔma	honda	horaːnk 
+all: horaːnk | guʔma	honda	horaːnk 
+and: na | -ni 
+animal: moch 
+ashes: t\abaro | tʼabaro	ʔtʔabaro 
+ashes: thabar | tʼabaro	ʔtʔabaro 
+at: ba 
+back: zak | gati-ta	guǯǯo 
+bad: hil | farra	hiːla 
+bark: omola | kuku	kuku-ta	omola 
+bark: wod | kuku	kuku-ta	omola 
+belly: godab | godaba	gʷɔdɛːba 
+belly: gʷɔdɛːba | godaba	gʷɔdɛːba 
+big: abb | abba 
+big: abba 
+bird: chich | čʔiːʔ-ičču-ta	čʼiːʔɛta 
+bird: č\iːʔɛta | čʔiːʔ-ičču-ta	čʼiːʔɛta 
+bite: gɛʔtmʲ | gaʔm-	gɛʔtmⁱ 
+bite: kar/gatm | gaʔm-	gɛʔtmⁱ 
+black: gambal | gamballa	gɛmʼbɛlla 
+black: gɛm\bɛlla | gamballa	gɛmʼbɛlla 
+blood: k\ɛːgi | k"Egi	k"egu	kʔegu	kʼɛːgi 
+blood: qeg | k"Egi	k"egu	kʔegu	kʼɛːgi 
+bone: mi\k\˗ | mik"	mik"iCu	mikʔ-ičču	miʼkʼ- 
+bone: miq | mik"	mik"iCu	mikʔ-ičču	miʼkʼ- 
+breast: a\nuːna | anuna	anuːna	aʼnuːna 
+breast: noon | anuna	anuːna	aʼnuːna 
+breathe: fosh | foːš-eːʔ- 
+brother: hizoː 
+burn: bʊssi | bub-	čakk- 
+burn: bub | bub-	čakk- 
+child: adabo | adabo	oːs-ičču 
+child: chil | adabo	oːs-ičču 
+claw: t\ulunga | tʔulunka-ta	tʼulunga 
+cloud: gom | goma	goːma	wararaʔa 
+cloud: goːma | goma	goːma	wararaʔa 
+cold: gi\da | gida	giʼda 
+cold: sig | gida	giʼda 
+come: am, wal | amet	wal	wali	waːl	waːl-	waːli 
+come: waːl(i) | amet	wal	wali	waːl	waːl-	waːli 
+correct: garit | likka 
+count: wol | wall-is- 
+cut: mur | mur- 
+cut: mur˗ | mur- 
+day: bara | bara	bari	barra 
+die: reh | reh	reh-	reːh- 
+dig: im | him-	hogof-	im-	in- 
+dirty: thur | tʔur- 
+dog: wasa | wES	waSiCu	wasa	waš-ičču	wuš-ičču	wɛʼšš- 
+dog: wɛ\šš˗ | wES	waSiCu	wasa	waš-ičču	wuš-ičču	wɛʼšš- 
+dog: wosh | wES	waSiCu	wasa	waš-ičču	wuš-ičču	wɛʼšš- 
+drink: ag | ag	ag-	age	aːge 
+drink: aːge | ag	ag-	age	aːge 
+dry: mol | moːla 
+dry: moːla 
+dust: dir | buhu	dira 
+ear: mach | mEC"	maC"a	maččʔa	mɛčʼ- 
+ear: mɛč\˗ | mEC"	maC"a	maččʔa	mɛčʼ- 
+earth: ull/ullat 
+eat: eat/it | iːt	ot- 
+eat: iːt | iːt	ot- 
+egg: koop | kʔuːppʔ-ičču-ta	kʼuʼpʼ- 
+egg: k\u\p\˗ | kʔuːppʔ-ičču-ta	kʼuʼpʼ- 
+eye: ill | ili	ilit	ilita	illi	ɪlʼlita 
+eye: ɪl\lita | ili	ilit	ilita	illi	ɪlʼlita 
+fall: ub | ub- 
+far: qer | bašila	kʔeʔra 
+father: ann | anna 
+father: anna 
+fat (n.): mašeːla 
+fat (n.): meshel 
+fear: wag | waːǯǯu 
+feather: bal | baːll-ita 
+few: qaw 
+fight: oll | baʔ-am-	oːʔl-am- 
+fingernail: thulung | tʔulunka-ta 
+fire: geer | fiːra	fiːrata	girEt	girEta	gira	girɛta 
+fire: girɛta | fiːra	fiːrata	girEt	girEta	gira	girɛta 
+fish: k\urtum˗ | k"ort"ume	k"urtum	kʔortʔume	kʼurtum- 
+fish: qurtumem | k"ort"ume	k"urtum	kʔortʔume	kʼurtum- 
+five: ont | onto 
+five: onto 
+flower: zarar | fiːta 
+flow: zaz 
+fly (n.): taw˗ 
+fly (v.): burr 
+fog: gung/goong | guːnǯu-ta 
+foot: lok | lokka-ta	lokkata 
+foot: lokkata | lokka-ta	lokkata 
+forest: haq | hakkʔi-aːzi 
+four: shoul | shoolo	šolo	šoːlo 
+four: šolo | shoolo	šolo	šoːlo 
+freeze: sig 
+fruit: lal | laːlu-ta 
+full: wim | wima	wiːma	yima	yiːma 
+give: aːss | aːss	aːss- 
+give: uss | aːss	aːss- 
+good: danam | dan-aːmu	dɛʼnaː- 
+good: dɛ\naː˗ | dan-aːmu	dɛʼnaː- 
+grass: hith | hitʔe	hitʼi- 
+grass: hit\i˗ | hitʔe	hitʼi- 
+hair: muːmiya | muːmiya	muːmmi 
+hair: mum/moom | muːmiya	muːmmi 
+hand: an\g˗ | aNa	ang	anga	anʼg- 
+hand: ang/ung | aNa	ang	anga	anʼg- 
+head: bok\uta | bokʔu-ta	bokʼuta 
+head: boq | bokʔu-ta	bokʼuta 
+hear: machoch | mECoC	maC"oC"	maččʔoččʔ-	mɛʼčoːč 
+hear: mɛ\čoːč | mECoC	maC"oC"	maččʔoččʔ-	mɛʼčoːč 
+heart: wozan | wazana	wɔʼzɛna 
+heart: wɔ\zɛna | wazana	wɔʼzɛna 
+heavy: kem | keːʔm- 
+he: iss | isi 
+here: kab | k-anne	t-anne 
+he/she: ise 
+he/she: ise(ː)t 
+he/she: isi 
+he/she: isu 
+he/she: ˗si 
+hit: wokar | nakʔ- 
+hold: aff | af-	appʔ 
+horn: buː\da | buda	buːda	buːʼda 
+horn: ill | buda	buːda	buːʼda 
+how: hat | hatti	hattigo	hattita 
+how: hatti | hatti	hattigo	hattita 
+hunt: hugat | hugaːtʔ- 
+husband: aroːha | aroː	aroːha 
+husband: arr/aro | aroː	aroːha 
+I: an | an	ani	aːn	aːnɪ 
+I: aːn(ɪ) | an	ani	aːn	aːnɪ 
+I: ani | an	ani	aːn	aːnɪ 
+ice: barad 
+I: ˗e | an	ani	aːn	aːnɪ 
+I: e(ː)s | an	ani	aːn	aːnɪ 
+if: da | -di	-č 
+in: az | -n	aːse 
+kill: shi | š-	šiː 
+kill: šiː | š-	šiː 
+knee: gulub | gulab	gulube	gulubita 
+knee: gulubita | gulab	gulube	gulubita 
+know: dag | dag-	dɛg	dɛgⁱ 
+know: dɛg(ʲ | dag-	dɛg	dɛgⁱ 
+lake: ell 
+laugh: osal | osaʔl- 
+leaf: bɔnta | bont"a	bont~a	bontʔa	boːntʔa	bɔnta 
+leaf: bonth | bont"a	bont~a	bontʔa	boːntʔa	bɔnta 
+left: gur | gura-ta 
+leg: lok | lokka-ta	loːkka 
+leg: loːkka | lokka-ta	loːkka 
+lie: copan | dolli-y-	lappʔ y- | kʔoppʔan- 
+lie: dolli˗y˗ | dolli-y-	lappʔ y- | kʔoppʔan- 
+live: hei | heʔ-	keʔ 
+live: keʔ | heʔ-	keʔ 
+liver: a\fɛlita | afElita	afali	afali-ta	aʼfɛlita 
+long: kerar | kʔerrarru	kʔerraːrru	kʼeraːrʷa 
+long: k\eraːrʷa | kʔerrarru	kʔerraːrru	kʼeraːrʷa 
+louse: i\biː˗ | ibi	ibibe 
+man: mann | mEn	man-ču	manCu 
+man: mɛn˗ | mEn	man-ču	manCu 
+many: holam | hoːl-ama	hoːʼlama 
+many: hoː\lama | hoːl-ama	hoːʼlama 
+meat: maal | maːla	maːʼla 
+meat: maː\la | maːla	maːʼla 
+moon: agan | agan-ču	aʼgɛn-ču 
+moon: a\gɛn˗ču | agan-ču	aʼgɛn-ču 
+mother: amm | ama-ta 
+mountain: duːna | duna	duːna 
+mountain: dun/doon | duna	duːna 
+mouth: af | afoː	aʼfoːha 
+mouth: a\foːha | afoː	aʼfoːha 
+name: sum | suma	suʔma 
+name: suʔma | suma	suʔma 
+narrow: thuk | tʔukkʔa 
+near: shin | baga 
+neck: gob | goːb-	goːba 
+neck: goːb˗ | goːb-	goːba 
+new: har | haro	haroha	haːroha	haːró 
+new: haːroha | haro	haroha	haːroha	haːró 
+night: ankar | aNkari	ankari	ankariya	ankaʼriya 
+night: anka\riya | aNkari	ankari	ankariya	ankaʼriya 
+nose: san | sEnuta	sanu	sanu-ta	sɛʼnuta 
+not: ba 
+old: nubach 
+one: mat | mEto	matu	met"o	mettʔo	mɛto 
+one: mɛto | mEto	matu	met"o	mettʔo	mɛto 
+other: wal | welu	wɛːlu 
+other: wɛːlu | welu	wɛːlu 
+person: manch | mEn	man-ču	manCu 
+play: alap | alappʔ- 
+pull: mid 
+push: gomb 
+rain: t\eː\na | tʔeːna	tʼeːʼna 
+rain: thein | tʔeːna	tʼeːʼna 
+red: biːša | biːša	kašala	laːrašša 
+red: bish | biːša	kašala	laːrašša 
+right: gar | aNa	ang	anga	anʼg- | makki-ta 
+river: lag | laga 
+road: wɔː\k\aha | wok"a	wok"aha	wuk"a 
+road: wok/woq | wok"a	wok"aha	wuk"a 
+root: t\ɛ\p\a | tʔapʔa	tʼɛʼpʼa 
+root: thap | tʔapʔa	tʼɛʼpʼa 
+rope: wodar | fotʔoːru-ta	tʔafɨra 
+round: zah | kububu y- 
+rub: kus/qus | kuss-	sissib- 
+salt: mathin | matʔini-ta 
+sand: šaːfa | šaːfa 
+sand: shaf | šaːfa 
+say: jiː | jiː	y- | šaːfa 
+say: yi | jiː	y- | šaːfa 
+scratch: hangar | haːngaːr- 
+sea: bahr 
+seed: illit | witʔa-ta	zaretta	zɛʼrɪtta 
+seed: zɛ\rɪtta | witʔa-ta	zaretta	zɛʼrɪtta 
+see: tood | t"ud	t"udi	tʔuːd-	tʼuːd	tʼuːdⁱ 
+see: t\uːd(ʲ | t"ud	t"udi	tʔuːd-	tʼuːd	tʼuːdⁱ 
+sew: gob | gob- 
+sharp: mutul | iːppʔ-ašša 
+short: gaban | gabb-aːnču 
+sing: aber | šalat alappʔ- 
+sister: hizoːt 
+sit: aful | afuːʔl	afuːʔl- 
+sit: afuːʔl | afuːʔl	afuːʔl- 
+skin: gog | goga	goːga 
+skin: goːga | goga	goːga 
+sky: sam | sama	samo 
+sleep: gis | gis-	ossaʔ-	usɛːʔe 
+sleep: usɛːʔe | gis-	ossaʔ-	usɛːʔe 
+small: qaw | kotima	kʔawu 
+smell: fosh | kʼawa	suʔn-iːss-	suːf- 
+smoke: wi\leːlita | wilili-ta	wiliːli-ta	wiʼleːlita 
+smoke: wilil | wilili-ta	wiliːli-ta	wiʼleːlita 
+smooth: leel | laːfa 
+snake: wɛ\r˗ | warra	wɛʼr- 
+snake: worr | warra	wɛʼr- 
+some: qaw 
+spit: tuf | tu-	tuf-	tuy- 
+split: beg | bočʼ	hikʔ- 
+split: boč\ | bočʼ	hikʔ- 
+squeeze: thunsh | tʔuːn-š- 
+stab: qas 
+stand: urr | uːrr	uːrr-	uːrrⁱ 
+stand: uːrr(ʲ | uːrr	uːrr-	uːrrⁱ 
+star: bez | bEze	bezeCu	bezzeːčču	bɛzeː- 
+star: bɛzeː˗ | bEze	bezeCu	bezzeːčču	bɛzeː- 
+stick: apam 
+stone: kin | kino	kinu 
+stone: kino | kino	kinu 
+straight: zum | tʔabbi y- 
+suck: qan | kʔan-	tʔukkʔ- 
+sun: arr | arE	are	arre	arʼrɛ-u 
+sun: ar\rɛ˗u | arE	are	arre	arʼrɛ-u 
+swell: darsh 
+swim: waːč | wačč-	waːč	waːčč- 
+swim: wach | wačč-	waːč	waːčč- 
+tail: šɛrma | šerima	šeːrima	šɛrˡma 
+tail: woshmath | šerima	šeːrima	šɛrˡma 
+that: hikkuːp\i | mEto	matu	met"o	mettʔo	mɛto 
+that: hikun/hitin | mEto	matu	met"o	mettʔo	mɛto 
+there: kai | hikkaʔe 
+they: issaʔot | issaʔoːti	issʔoːti 
+they: isso | issaʔoːti	issʔoːti 
+they: issʔoːti | issaʔoːti	issʔoːti 
+they: ˗ssa | issaʔoːti	issʔoːti 
+thick: gan 
+thin: k\ɛč\awa | kʼɛčʼawa	lʔaččʔu	lʔačʔu 
+think: saw | assab-	saww-	sawwi y-	sawwiʔ- 
+thin: qach | kʼɛčʼawa	lʔaččʔu	lʔačʔu 
+this: kan˗ | kan- 
+this: ku | kan- 
+this: kun/tin | kan- 
+this: ta | kan- 
+thou: at | at	ati	atⁱ	aʔnaʔoːti 
+thou: atʲ ati | at	ati	atⁱ	aʔnaʔoːti 
+three: sas | sakki	saso	sasu	sɛso 
+three: saso | sakki	saso	sasu	sɛso 
+three: sɛso | sakki	saso	sasu	sɛso 
+throw: tor | torr- 
+tie: usur | usur- 
+tongue: arab | arEbita	arabi	arrabi-ta	arʼrɛbita 
+tongue: ar\rɛbita | arEbita	arabi	arrabi-ta	arʼrɛbita 
+tooth: inq | iNk"u	ink"u	ink"ut	ink"uta	inkʔu-ta	ɪnʼkʼuta 
+tooth: ɪn\k\uta | iNk"u	ink"u	ink"ut	ink"uta	inkʔu-ta	ɪnʼkʼuta 
+tree: hak\a | hak"a 
+tree: haq | hak"a 
+turn: zah 
+two: lam | lEmo	lamo	lamu	lɛmo 
+two: lamo | lEmo	lamo	lamu	lɛmo 
+two: lɛmo | lEmo	lamo	lamu	lɛmo 
+vomit: tufanat | am-	gottʔ-	tuf- 
+walk: maram | mar-am- 
+walk: ɨroːk\i | mar-am- 
+warm: gummut | gummuːta	iːba	iːbba 
+warm: iːba | gummuːta	iːba	iːbba 
+wash: atl | aːnš-	meččʔ- 
+water: wʊʔa | wa7a	waʔa	wi7a	wiʔa	wu7a	wʊʔa 
+water: woa | wa7a	waʔa	wi7a	wiʔa	wu7a	wʊʔa 
+we: na\ʔɔ | na7o	na7oti 
+we: naʔoːti | na7o	na7oti 
+we: nau | na7o	na7oti 
+we: ne(ː)s | na7o	na7oti 
+we: ˗nne | na7o	na7oti 
+wet: muːt\aʷa | mutʔa	muːtʼaʷa 
+wet: muth | mutʔa	muːtʼaʷa 
+what: ma | ma	maha	mar-očču	maʔa 
+what: mih | ma	maha	mar-očču	maʔa 
+when: hak/hakad | hakka	hakkada 
+when: hakka | hakka	hakkada 
+where: hakan | hakkanne	hanno	hannu-ta 
+where: hanno | hakkanne	hanno	hannu-ta 
+white: wadg | waǯǯu	wɔǯʷa 
+white: wɔǯʷa | waǯǯu	wɔǯʷa 
+who: ay | ay	aye	ayi-tu 
+who: aye | ay	aye	ayi-tu 
+who: i | ay	aye	ayi-tu 
+wide: harar | haraːta 
+wife: ar/arit | ari-ta 
+wind: bobir | bobira 
+wing: gon | gonu 
+wipe: shinsh | kuss-	sissib- 
+with: nin/en 
+woman: ment | ment-ičču	mɛːnʼt- 
+woman: mɛːn\t˗ | ment-ičču	mɛːnʼt- 
+year: wog | wagga	woggaha 
+year: woggaha | wagga	woggaha 
+you: aʔnaʔoːti | at	ati	atⁱ	aʔnaʔoːti | ati	aʔnaʔoːti	ʔatnɔʔ 
+you: at | at	ati	atⁱ	aʔnaʔoːti | ati	aʔnaʔoːti	ʔatnɔʔ 
+you: ʔatnɔʔ | at	ati	atⁱ	aʔnaʔoːti | ati	aʔnaʔoːti	ʔatnɔʔ 
+you: kiʔneʔe(ː) | at	ati	atⁱ	aʔnaʔoːti | ati	aʔnaʔoːti	ʔatnɔʔ 
+you: ˗ʔne | at	ati	atⁱ	aʔnaʔoːti | ati	aʔnaʔoːti	ʔatnɔʔ 
+every: guʔma	honda	horaːnk 
+ash: tʼabaro	ʔtʔabaro 
+abdomen: godaba	gʷɔdɛːba 
+bigness: abba 
+large: abba 
+breasts: anuna	anuːna	aʼnuːna 
+nail: tʔulunka-ta	tʼulunga 
+talon: tʔulunka-ta	tʼulunga 
+come from: amet	wal	wali	waːl	waːl-	waːli 
+be dead: reh	reh-	reːh- 
+dead: reh	reh-	reːh- 
+fly: burri y- 
+fly v.: burri y- 
+green: šaːnu-ta 
+left hand: aNa	ang	anga	anʼg- 
+1 sg.: an	ani	aːn	aːnɪ 
+be knowledgeable: dag-	dɛg	dɛgⁱ 
+lie down: dolli-y-	lappʔ y- 
+head louse: ibi	ibibe 
+male: man-ču	mɛn- 
+much: hoːl-ama	hoːʼlama 
+multiple: hoːl-ama	hoːʼlama 
+several: hoːl-ama	hoːʼlama 
+hill: duna	duːna 
+title: suma	suʔma 
+nighttime: aNkari	ankari	ankariya	ankaʼriya 
+adulterous: mEto	matu	met"o	mettʔo	mɛto 
+single: mEto	matu	met"o	mettʔo	mɛto 
+the: mEto	matu	met"o	mettʔo	mɛto 
+unprincipled: mEto	matu	met"o	mettʔo	mɛto 
+human: mEn	man-ču	manCu 
+human being: mEn	man-ču	manCu 
+rainy weather: tʔeːna	tʼeːʼna 
+path: wok"a	wok"aha	wuk"a 
+route: wok"a	wok"aha	wuk"a 
+hide: goga	goːga 
+little: kotima	kʔawu 
+smallness: kotima	kʔawu 
+rock: kino	kinu 
+2 sg: at	ati	atⁱ	aʔnaʔoːti 
+grind: lEmo	lamo	lamu	lɛmo 
+go: mar-am- 
+hot: gummuːta	iːba	iːbba 
+1 pl. inc.: na7o	na7oti 
+we₁: na7o	na7oti 
+whiteness: waǯǯu	wɔǯʷa 
+who?: ay	aye	ayi-tu 
+female: ment-ičču	mɛːnʼt- 
+yellow: baːra 
+distant: bašila	kʔeʔra 
+dull: keːʔm- 
+serious: keːʔm- 
+close: baga 
+ner: baga 
+earthworm: hučʔa 
+worm: hučʔa 
+3 sg.: isi 
+she: isi 
+2 pl.: ati	aʔnaʔoːti	ʔatnɔʔ 
+ye: ati	aʔnaʔoːti	ʔatnɔʔ 
+you all: ati	aʔnaʔoːti	ʔatnɔʔ 
+3 pl.: issaʔoːti	issʔoːti 
+where?: hakkanne	hanno	hannu-ta 
+when?: hakka	hakkada 
+how?: hatti	hattigo	hattita 
+broad: haraːta 
+wideness: haraːta 
+principal wife: ari-ta 
+his mother: ama-ta 
+my mother: ama-ta 
+his father: anna 
+my father: anna 
+woods: hakkʔi-aːzi 
+cord: fotʔoːru-ta	tʔafɨra 
+flesh: maːla	maːʼla 
+fat: mašeːla 
+grease: mašeːla 
+gut: hilleː-ta 
+guts: hilleː-ta 
+insides: hilleː-ta 
+intestine: hilleː-ta 
+intestines: hilleː-ta 
+breath: foːš-eːʔ- 
+laughter: osaʔl- 
+cogitate: assab-	saww-	sawwi y-	sawwiʔ- 
+reflect: assab-	saww-	sawwi y-	sawwiʔ- 
+sniff: kʼawa	suʔn-iːss-	suːf- 
+afraid: waːǯǯu 
+be afraid: waːǯǯu 
+fright: waːǯǯu 
+alive: heʔ-	keʔ 
+be alive: heʔ-	keʔ 
+life: heʔ-	keʔ 
+living: heʔ-	keʔ 
+beat: nakʔ- 
+strike: nakʔ- 
+hack: mur- 
+cut open: bočʼ	hikʔ- 
+tell lies: kʔoppʔan- 
+drop: ub- 
+grasp: af-	appʔ 
+hold in arm: af-	appʔ 
+wring: tʔuːn-š- 
+wash clothes: aːnš-	meččʔ- 
+bind: usur- 
+fasten: usur- 
+tie up: usur- 
+enumerate: wall-is- 
+number: wall-is- 
+tally: wall-is- 
+have fun: alappʔ- 
+float: čʔalli y- 
+brook: laga 
+stream: laga 
+blaze: bub-	čakk- 
+daylight: bara	bari	barra 
+daytime: bara	bari	barra 
+evil: farra	hiːla 
+rot: šama 
+rotten: šama 
+filthy: tʔur- 
+soiled: tʔur- 
+blunt: duːd-	ǯuǯǯ- 
+damp: mutʔa	muːtʼaʷa 
+right side: makki-ta 
+inside: -n	aːse 
+because: bikki-ha	hanni-ha	tanne-ha 

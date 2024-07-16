@@ -1,0 +1,147 @@
+all: bija 
+ashes: leʔe 
+bark: k\urubi | kʼurubi 
+belly: goːb\i | goːbʼi 
+big: dɛːp\i | dɛːpʼi 
+bird: kəːfi 
+bite: d\ay | dʼay 
+black: kartsi 
+blood: sɨguːtsi | s3guci	sɨguːtsi 
+bone: migutsi | miguci	migutsi 
+breast: d\aːntsi | Tanci	dʼaːntsi 
+burn: et 
+burn: miːče 
+claw: ts\ʊngo | tsʼʊngo 
+cloud: šaːri | šaːri 
+cold: č\iːši | čʼiːši 
+come: hani ye˗ʔe | hani ye	hani ye-ʔe 
+die: hayk\˗e | hak"	haykʼ-e 
+dog: kaːni | kani	kaːni 
+drink: ʊšk˗e | uSk	ʊšk-e 
+dry: mɛlzi 
+ear: wɔyzi | wozi	wɔyzi 
+eat: mu˗ | mu- 
+egg: b\uːla | bʼuːla 
+eye: aːfi | afi	aːfi 
+fat (n.): məːli 
+fire: taːmi | tami	taːmi 
+fish: mɔllo | molo	mɔllo 
+flower: buni 
+fly (n.): wʊtsɛlɛ 
+foot: toki 
+give: ɪng˗ | ɪng- 
+good: kʊši | kʊši 
+grass: maːti 
+hair: gəmi 
+hand: kʊči | kuCi	kʊči 
+head: toːki 
+heart: in˗a | in-a	saːza 
+heart: saːza | in-a	saːza 
+hear: wajz˗ | wajz-	waz 
+horn: rɔːri | rori	rɔːri 
+I: taːni | tani	taːni 
+kill: b\ɔd\˗ | bʼɔdʼ- 
+knee: guːši | guSi	guːši 
+know: er˗ | er- 
+leaf: bɔːnča | bonCa	bɔːnča 
+liver: maːyzi | mazi	maːyzi 
+long: ɔdoːsi 
+louse: č\ugʊči | C"ugiCi 
+man: aːsi | asi 
+many: mɛrge 
+meat: aški 
+moon: agɪnne 
+mountain: gɛmeri | gEmeri	gɛmeri 
+mouth: d\aːŋga | dʼaːŋga 
+name: sʊntsi | sunci	sʊntsi 
+neck: k\ɔrč\e | kʼɔrčʼe 
+new: aːki | aki	aːki 
+night: d\uːmi | Tumi	dʼuːmi 
+one: pɛte | pEte	pɛte 
+other: mɛlle 
+rain: irzi 
+red: zoːk\e | zoːkʼe 
+road: gɔytsi | goci 
+root: ts\ɛp\i | tsʼɛpʼi 
+sand: maː\šala | maːʼšala 
+say: geʔ 
+seed: zɛrtsi 
+see: zəg˗ | z3g	zəg- 
+sit: de˗ʔe | de-ʔe 
+skin: zɛːd\i | zETi	zɛːdʼi 
+sleep: lah˗ | lah- 
+small: d\aka | dʼaka	tsʼikʼo 
+small: ts\ik\o | dʼaka	tsʼikʼo 
+smoke: č\ubi | čʼubi 
+snake: šoːši | šoːši 
+stand: ɛk\˗ 
+star: wʊč\o | wuC"o	wʊčʼo 
+stone: šuči | SuCi	šuči 
+sun: aːbi | abi	aːbi 
+swim: ts\ub˗ | tsʼub- 
+tail: ʊːnki 
+thin: guːtsi 
+this: hay 
+thou: nɛna | bore	nɛna 
+three: haːytso 
+tongue: ɪn\dirsi | ind~irsi	ɪnʼdirsi 
+tooth: aːči | aCi	aːči 
+tree: mɪtsi | mici 
+two: lɛmʔɔ | lEm7~o	lɛmʔɔ	lɛm’o 
+walk: aːd\˗ 
+warm: trɪbo 
+water: waːtsi | waci	waːtsi 
+we: nu(na) | nuni 
+wet: aʔe 
+what: aygo 
+white: bɔːre 
+who: ɔːni 
+woman: laːli 
+every: bija 
+ash: leʔe 
+abdomen: goːbʼi 
+bigness: dɛːpʼi 
+large: dɛːpʼi 
+breasts: Tanci	dʼaːntsi 
+nail: tsʼʊngo 
+talon: tsʼʊngo 
+come from: hani ye	hani ye-ʔe 
+be dead: hak"	haykʼ-e 
+dead: hak"	haykʼ-e 
+left hand: kuCi	kʊči 
+right: kuCi	kʊči 
+1 sg.: tani	taːni 
+be knowledgeable: er- 
+head louse: C"ugiCi 
+male: aːsi 
+much: mɛrge 
+multiple: mɛrge 
+several: mɛrge 
+hill: gEmeri	gɛmeri 
+title: sunci	sʊntsi 
+nighttime: Tumi	dʼuːmi 
+nose: s3di	sɨːdi 
+adulterous: pEte	pɛte 
+single: pEte	pɛte 
+that: pEte	pɛte 
+the: pEte	pɛte 
+unprincipled: pEte	pɛte 
+human: asi 
+human being: asi 
+person: asi 
+rainy weather: irzi 
+path: goci 
+route: goci 
+hide: zETi	zɛːdʼi 
+little: dʼaka	tsʼikʼo 
+smallness: dʼaka	tsʼikʼo 
+rock: SuCi	šuči 
+2 sg: bore	nɛna 
+you: bore	nɛna 
+grind: lEm7~o	lɛmʔɔ	lɛm’o 
+hot: trɪbo 
+1 pl. inc.: nuni 
+we₁: nuni 
+whiteness: bɔːre 
+who?: ɔːni 
+female: laːli 

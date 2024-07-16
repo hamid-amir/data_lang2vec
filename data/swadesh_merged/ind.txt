@@ -1,0 +1,339 @@
+all: segala	semua	səmua 
+every: segala	semua	səmua 
+ash: abu 
+ashes: abu 
+bark: kulit kayu 
+abdomen: perut	pərut 
+belly: perut	pərut 
+big: besar	bəsar 
+bigness: besar	bəsar 
+large: besar	bəsar 
+bird: buruN	burung	buruŋ 
+bite: gigit	menggigit	meŋgigit	məŋgigit 
+black: hitam 
+blood: darah 
+bone: tulaN	tulang	tulaŋ 
+breast: %payudara	buah dada	dada	payudara	susu	tetek 
+breasts: %payudara	buah dada	dada	payudara	susu	tetek 
+burn: membakar 
+burn tr.: membakar 
+claw: cakar	kuku	tyakar 
+nail: cakar	kuku	tyakar 
+talon: cakar	kuku	tyakar 
+cloud: awan	mega	méga 
+cold: diNin	dingin	diŋin 
+come: dataN	datang	dataŋ	ikut	mendataŋ	mendataŋi	mendekati	serta 
+come from: dataN	datang	dataŋ	ikut	mendataŋ	mendataŋi	mendekati	serta 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: anZiN	andyiŋ	anjiN	anjing	anjiŋ 
+drink: minum	minuman 
+dry: keriN	kering	keriŋ	kəriŋ 
+ear: %kupiN	kuping	kupiŋ	teliNa	telinga	teliŋa	təliŋa 
+earth: bumi	darat	tanah 
+ground: bumi	darat	tanah 
+land: bumi	darat	tanah 
+soil: bumi	darat	tanah 
+eat: makan 
+egg: telor	telur	təlur 
+eye: mata 
+fat: lemak 
+fat n.: lemak 
+grease: lemak 
+lubricant: lemak 
+oil: lemak 
+feather: bulu	bulu burung 
+fire: api	pawaka 
+fish: ikan 
+fly: terbaN	terbang	terbaŋ	tərbaŋ 
+fly v.: terbaN	terbang	terbaŋ	tərbaŋ 
+foot: kaki 
+full: penuh	pənuh 
+give: beri	memberi	memberikan	məmbəri 
+good: bagus	baik 
+green: hiZau	hidyau	hijau 
+hair: rambut 
+hand: taNan	tangan	taŋan 
+left hand: taNan	tangan	taŋan 
+right: taNan	tangan	taŋan 
+head: kepala	kəpala 
+hear: dengar	mendeNar	mendengar	mendeŋar	məndəŋar 
+heart: ZantuN	dyantuŋ	jantung 
+horn: tanduk 
+1 sg.: aku	gua	saya	zon 
+I: aku	gua	saya	zon 
+kill: bunuh	membunuh	məmbunuh 
+knee: lutut 
+be knowledgeable: tahu 
+know: tahu 
+leaf: daun	duan 
+lie: berbariN	berbaring	berbariŋ	mərəbahkan diri	tidur 
+lie down: berbariN	berbaring	berbariŋ	mərəbahkan diri	tidur 
+liver: ati	hati	léver 
+long: panZaN	pandyaŋ	panjang	panjaŋ 
+head louse: kutu	tuma 
+louse: kutu	tuma 
+male: cowok	laki-laki	lelaki	oraŋ laki-laki	pria 
+man: %insan	insan	manusia	oraN	orang	oraŋ 
+many: banyak	baɲak 
+much: banyak	baɲak 
+multiple: banyak	baɲak 
+several: banyak	baɲak 
+flesh: dagiN	daging	dagiŋ 
+meat: dagiN	daging	dagiŋ 
+moon: bulan	candra	rembulan 
+hill: bukit	gunuN	gunung	gunuŋ 
+mountain: bukit	gunuN	gunung	gunuŋ 
+mouth: mulut 
+name: %nama	nama 
+title: %nama	nama 
+neck: leher	léhér 
+new: baru 
+night: malam 
+nighttime: malam 
+nose: hiduN	hidung	hiduŋ 
+not: bukan	tak	tidak 
+adulterous: satu 
+one: satu 
+single: satu 
+that: itu 
+the: satu 
+unprincipled: satu 
+human: %insan	insan	manusia	oraN	orang	oraŋ 
+human being: %insan	insan	manusia	oraN	orang	oraŋ 
+person: %insan	insan	manusia	oraN	orang	oraŋ 
+rain: huZan	hudyan	hujan 
+rainy weather: huZan	hudyan	hujan 
+red: merah	mérah 
+path: Zalan	jalaN	jalan 
+road: Zalan	jalaN	jalan 
+route: Zalan	jalaN	jalan 
+root: akar	urat 
+round: bulat	bundar 
+sand: pasir 
+say: berbicara	berkata	bilang	kata	mengatakan	məŋatakan 
+see: lihat	melihat	məlihat 
+seed: benih	biZi	bibit	biji	bənih 
+sit: duduk	menduduk 
+hide: belulaN	belulang	kulit 
+skin: belulaN	belulang	kulit 
+sleep: tidur 
+little: keCil	kecil	ketyil 
+small: keCil	kecil	ketyil 
+smallness: keCil	kecil	ketyil 
+smoke: asap 
+stand: berdiri 
+star: bintaN	bintang	bintaŋ	kartika 
+rock: batu	séla 
+stone: batu	séla 
+sun: mata hari	matahari	mentari	surya 
+swim: berenaN	berenang	berenaŋ	bərənaŋ	renang 
+tail: buntut	ekor	ékor 
+this: ini 
+2 sg: anda	engkau	eŋkau	kamu	kau	saudara	əŋkau 
+thou: anda	engkau	eŋkau	kamu	kau	saudara	əŋkau 
+you: anda	engkau	eŋkau	kamu	kau	saudara	əŋkau 
+tongue: lidah 
+tooth: gigi 
+tree: pohon 
+grind: dua 
+two: dua 
+go: Zalan	berjalan	bərdyalan	jalan 
+walk: Zalan	berjalan	bərdyalan	jalan 
+hot: hangat	panas 
+warm: hangat	panas 
+water: air 
+1 pl. inc.: kami	kita	nen 
+we: kami	kita	nen 
+we₁: kami	kita	nen 
+what: apa 
+white: putih 
+whiteness: putih 
+who: siapa 
+who?: siapa 
+female: céwék	perempuan	pərəmpuan	wanita 
+woman: céwék	perempuan	pərəmpuan	wanita 
+yellow: kuniN	kuning	kuniŋ 
+distant: dyauh	jauh 
+far: dyauh	jauh 
+dull: berat	bərat 
+heavy: berat	bərat 
+serious: berat	bərat 
+close: dekat	dəkat 
+near: dekat	dəkat 
+ner: dekat	dəkat 
+salt: garam 
+short: pendek	péndék 
+snake: ular 
+thin: kuruis	kurus	langsing	tipis 
+wind: angin	aŋin	bayu	pawana 
+earthworm: cacing	caciŋ	tyatyiŋ	ulat 
+worm: cacing	caciŋ	tyatyiŋ	ulat 
+year: tahun 
+3 sg.: dia 
+he: dia 
+she: dia 
+2 pl.: anda	eŋkau	kalian	kamu 
+ye: anda	eŋkau	kalian	kamu 
+you all: anda	eŋkau	kalian	kamu 
+3 pl.: mereka	meréka 
+they: mereka	meréka 
+here: di sini	sini 
+there: di sana	disitu	sana	situ 
+where: di mana	dimana	mana 
+where?: di mana	dimana	mana 
+when: bila	bilamana	kapan 
+when?: bila	bilamana	kapan 
+how: bagaimana 
+how?: bagaimana 
+some: beberapa 
+few: bəbərapa	sedikit	sədikit 
+other: lain 
+three: tiga 
+four: empat	əmpat 
+five: lima 
+broad: lebar	luas	lébar 
+wide: lebar	luas	lébar 
+wideness: lebar	luas	lébar 
+thick: tebal	təbal 
+narrow: sempit	səmpit 
+child: anak	bocah 
+principal wife: bini	isteri	istri	istəri 
+wife: bini	isteri	istri	istəri 
+husband: laki	suami 
+his mother: bunda	emak	ibu	ibunda	induk	indung	mak	mama	mami 
+mother: bunda	emak	ibu	ibunda	induk	indung	mak	mama	mami 
+my mother: bunda	emak	ibu	ibunda	induk	indung	mak	mama	mami 
+father: ayah	bapa	bapak	papa	papi 
+his father: ayah	bapa	bapak	papa	papi 
+my father: ayah	bapa	bapak	papa	papi 
+animal: binanataŋ	binatang	hewan	héwan 
+forest: hutan	rimba	wana 
+woods: hutan	rimba	wana 
+branch: cabang	dahan	ranting	rantiŋ	tyabaŋ 
+stick: cabang	dahan	ranting	rantiŋ	tyabaŋ 
+fruit: buah	buah-buahan	sebiji buah 
+flower: bunga	buŋa	kembang	kəmbaŋ 
+grass: rumput 
+cord: tali 
+rope: tali 
+fingernail: kuku 
+leg: kaki	telapak kaki 
+arm: tangan 
+wing: sayap 
+gut: isi perut	lambuŋ	perut	usus	usus besar	usus kecil 
+guts: isi perut	lambuŋ	perut	usus	usus besar	usus kecil 
+insides: isi perut	lambuŋ	perut	usus	usus besar	usus kecil 
+intestine: isi perut	lambuŋ	perut	usus	usus besar	usus kecil 
+intestines: isi perut	lambuŋ	perut	usus	usus besar	usus kecil 
+back: belakang	belakaŋ	pinggang	punggung	puŋguŋ 
+suck: hisap	menghisap	mengisap	meŋisap	məŋihirup	məŋisap 
+spit: ludah	meludah	meludahi	məludah 
+vomit: muntah	muntahan 
+blow: bertiup	meniup	məniup	tiup 
+breath: bernafas	bernapas	bərnapas	məŋhirup	nafas 
+breathe: bernafas	bernapas	bərnapas	məŋhirup	nafas 
+laugh: ketawa	tawa	tertawa	tərtawa 
+laughter: ketawa	tawa	tertawa	tərtawa 
+cogitate: berfikir	memikir	pikir 
+reflect: berfikir	memikir	pikir 
+think: berfikir	memikir	pikir 
+smell: cium	mencium	mentyieum 
+sniff: cium	mencium	mentyieum 
+afraid: ketakutan	kətakutan	rasa takut	takut 
+be afraid: ketakutan	kətakutan	rasa takut	takut 
+fear: ketakutan	kətakutan	rasa takut	takut 
+fright: ketakutan	kətakutan	rasa takut	takut 
+alive: hidup 
+be alive: hidup 
+life: hidup 
+live: hidup 
+living: hidup 
+fight: berantem	berkelahi	berperang	bertarung	bertempur	bertengkar	bertikai	brantem	bərdyuaŋ məlawan	kelahi 
+hunt: berburu	buru	bərburu	məmburu 
+beat: memukul	məmukul	məŋənai	pukul 
+hit: memukul	məmukul	məŋənai	pukul 
+strike: memukul	məmukul	məŋənai	pukul 
+cut: memotong	memotoŋ	menetak	məmaŋkas	məmotoŋ	potong 
+hack: memotong	memotoŋ	menetak	məmaŋkas	məmotoŋ	potong 
+cut open: belah	membelah	məmbəlah 
+split: belah	membelah	məmbəlah 
+pierce: menikam	menusuk	mənikam	tusuk 
+stab: menikam	menusuk	mənikam	tusuk 
+scratch: coret	menggaruk	meŋgarut	məŋgaruk 
+dig: gali	menggali	məŋgali 
+tell lies: baring	berbohong	berdusta	bərbohoŋ	bərdusta 
+turn: belok	berpaling	putar balik 
+turn around: belok	berpaling	putar balik 
+turn round: belok	berpaling	putar balik 
+drop: dyatuh	gugur	jatuh 
+fall: dyatuh	gugur	jatuh 
+grasp: memegang	memegaŋ	məməgaŋ	pegang	pəgaŋ 
+hold: memegang	memegaŋ	məməgaŋ	pegang	pəgaŋ 
+hold in arm: memegang	memegaŋ	məməgaŋ	pegang	pəgaŋ 
+squeeze: memerah	memeras	meremas	məməntyet	məndyəpit	peras 
+wring: memerah	memeras	meremas	məməntyet	məndyəpit	peras 
+rub: gosok	menggosok	menggésék	məŋgosok 
+wipe: hapus	mengelap	menyéka	məŋhapus	məɲeka 
+wash: cuci	membasuh	mencuci	məntyutyi 
+wash clothes: cuci	membasuh	mencuci	məntyutyi 
+pull: tarik 
+push: dorong	mendorong	məndoroŋ 
+shove: dorong	mendorong	məndoroŋ 
+throw: lempar	melempar	melémparkan	məlemparkan 
+bind: ikat	mengikat	meŋikat	məŋikat 
+fasten: ikat	mengikat	meŋikat	məŋikat 
+tie: ikat	mengikat	meŋikat	məŋikat 
+tie up: ikat	mengikat	meŋikat	məŋikat 
+sew: jahit	menjahit	məndyahit 
+count: hitung	menghitung	meŋhituŋ	məŋhituŋ 
+enumerate: hitung	menghitung	meŋhituŋ	məŋhituŋ 
+number: hitung	menghitung	meŋhituŋ	məŋhituŋ 
+tally: hitung	menghitung	meŋhituŋ	məŋhituŋ 
+sing: bernyanyi	menyanyi	meɲaɲi	meɲaɲikan	nyanyi 
+have fun: bermain	bərmain -main	main 
+play: bermain	bərmain -main	main 
+float: apung	mengambang	mengapung	məŋapuŋ	tərapuŋ 
+flow: alir	mengalir	meŋalir	məŋalir 
+freeze: beku	membeku	məmbəku 
+swell: bengkak 
+brook: anak sungai	kali	sunai	sungai 
+river: anak sungai	kali	sunai	sungai 
+stream: anak sungai	kali	sunai	sungai 
+lake: danau	situ	təlaga 
+ocean: laut	samudra 
+sea: laut	samudra 
+dust: debu	duli	dəbu	serdak 
+fog: halimun	kabut 
+sky: angkasa	cakrawala	dirgantara	langit	laŋit 
+snow: saldyu	salju 
+ice: es	és 
+blaze: bakar	məɲala	terbakar 
+day: hari	siang	siaŋ 
+daylight: hari	siang	siaŋ 
+daytime: hari	siang	siaŋ 
+old: lama	tua 
+bad: buruk	dyahat	jahat	jelék 
+evil: buruk	dyahat	jahat	jelék 
+rot: basi	busuk 
+rotten: basi	busuk 
+dirty: cemar	dəkil	kotor	kumuh 
+filthy: cemar	dəkil	kotor	kumuh 
+soiled: cemar	dəkil	kotor	kumuh 
+straight: lurus 
+sharp: tadyam	tajam 
+blunt: majal	tumpul 
+smooth: halus	licin	lityin	mulus 
+damp: basah 
+wet: basah 
+correct: benar	betul	bənar 
+right side: kanan 
+left: kiri	səbelah kiri 
+at: di 
+in: [di] dalam	dalam	di	di dalam 
+inside: [di] dalam	dalam	di	di dalam 
+with: bersama	dengan	serta 
+and: dan	serta 
+if: andai	jika	kalau 
+because: gara-gara	karena	karəna	sebab	səbab 

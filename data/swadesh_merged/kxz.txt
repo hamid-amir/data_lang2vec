@@ -1,0 +1,362 @@
+all: awoha 
+all: godo | awoha 
+arm: adiri 
+arm: bena 
+arm: tu 
+arm: tu goho 
+ashes: tuo 
+back: gimini 
+back: ginimi 
+bad: uba(ri) 
+bark: tama 
+belly: niro 
+big: aʷo | aᵘwo 
+big: aua | aᵘwo 
+big: auwo | aᵘwo 
+bird: pahagama | pʰahagama 
+bird: pʰahagama 
+bird: pa(ha)gama | pʰahagama 
+bird: wagama | pʰahagama 
+bite: adide 
+bite: kowo | adide 
+bitter: uba 
+black: webuibo 
+blood: savi | sawi 
+blood: sawi 
+bone: ehume | horo 
+bone: horo 
+boy: oheo 
+branch: ketere 
+breast: amo 
+breast: muho | amo 
+brother: namu 
+burn: imadia 
+burn: taetae 
+butterfly: kiwa-au 
+calf: emo 
+cassowary: diwari 
+chest: bodoro 
+child: kekebu 
+child: mere 
+claw: giribari 
+cloud: bubu | ori 
+cloud: ori 
+cold: o\uto | oʔuto 
+cold: oʔuto 
+come: o\uro | o7uro	oʔuro 
+come: oʔuro | o7uro	oʔuro 
+come: taraibai | o7uro	oʔuro 
+come: taura | o7uro	oʔuro 
+come: tau-uro | o7uro	oʔuro 
+crocodile: ebiha 
+cut: kahie 
+dance: ava 
+dance: gama 
+dark: uba 
+daughter: behere 
+day: hivio 
+day: kupo 
+die: kohiai | oihiai 
+die: kuiai | oihiai 
+die: oihiai 
+dog: kaukau 
+dog: kau-kau | kaukau 
+drink: idio 
+drink: taidou | idio 
+dry: tata 
+ear: hepato 
+earth: hopu 
+eat: iho 
+eat: kouho | iho 
+eat: timodia | iho 
+egg: iopu | iʔopu 
+egg: i\opu | iʔopu 
+egg: iʔopu 
+elbow: kaipo 
+eye: domai 
+eye: (e)domai 
+eye: idomai 
+eye: indumai | domai 
+face: hoho 
+father: abe 
+fat (n.): gabe 
+fat (n.): gadi 
+fear: torri 
+feather: gubo 
+finger: gope 
+finger: igiri-bari 
+fingernail: mudebi 
+finger: tu-koi 
+fire: kupo 
+fire: kupu | kupo 
+fish: gidobu | na	naː 
+fish: na | na	naː 
+fish: na: | na	naː 
+fish: naː | na	naː 
+five: neewa-newa-nao 
+flower: kopo(-iopu) 
+fly (n.): ponoi 
+fly (v.): odau 
+foot: kono-pata(k) 
+foot: kwano 
+forehead: opu 
+forehead: wewe 
+forest: bui 
+forest: nua-godo-godo 
+four: neewa-newa 
+fruit: iopu 
+full: arara ʔohuai | arara 7ohuai	arara ʔohuai 
+full: arear \ohuai | arara 7ohuai	arara ʔohuai 
+girl: behe 
+give: imairo 
+give: tawahoa | imairo 
+give: tawateiro | imairo 
+good: meha 
+good: tanini | meha 
+grass: poona 
+green: orio | pitama 
+green: pitama 
+guts: niro 
+hair: hohobo | hoʔobo 
+hair: ho\obo | hoʔobo 
+hair: hoʔobo 
+hair: o-o-bo | hoʔobo 
+hand: adi-i 
+hand: tu 
+head: opu | sono 
+head: sono 
+hear: irovidio | irovidio	orobodio 
+hear: orobodio | irovidio	orobodio 
+hear: tarouwai | irovidio	orobodio 
+heart: giopo | giʔopu 
+heart: gi\opu | giʔopu 
+heart: giʔopu 
+heart: kumeruburu | giʔopu 
+heavy: mibu 
+heel: ebenupu 
+hit: aimora 
+hit: kabuuti 
+hit: kepia 
+hit: kihi 
+horn: gebate 
+house: daimu 
+house: moto 
+house: motu 
+I: mo 
+jaw: tava-tava 
+kill: aro 
+kill: kaeai | aro 
+kill: noemia | aro 
+kill: tapia | aro 
+knee: kimoai | popu 
+knee: popu 
+knee: popu(ka) 
+know: momoroi | umo 
+know: umo 
+leaf: paha 
+leg: kone 
+leg: kono 
+leg: wai 
+lie: tauta | utaʔa 
+lie: uta\a | utaʔa 
+lie: utaʔa 
+lightning: babasi 
+lip: puruo 
+live: kiiro 
+liver: beru | beu 
+liver: beu 
+liver: giopu | beu 
+long: tutu 
+louse: nimo 
+man: dubu | mereha 
+many: godo | godo godo 
+many: godo godo 
+meat: heo 
+meat: nahi\o 
+meat: nahiʔo 
+moon: bala | bara 
+moon: bara 
+mosquito: ponoi 
+mother: mamu 
+mountain: akábu | akabu	akábu 
+mountain: akábu | akabu	akábu 
+mouth: ma-ata | puluʔo 
+mouth: otoro | puluʔo 
+mouth: pulu\o | puluʔo 
+mouth: puluʔo 
+name: paena 
+navel: upulu 
+navel: upuru 
+neck: go\o diholo | goʔo diholo 
+neck: goʔo diholo 
+neck: (h)oko | goʔo diholo 
+neck: mau | goʔo diholo 
+new: hurio-ne | olio moto 
+new: olio moto 
+night: doho | duo 
+night: duo 
+nose: wadi | wodi 
+nose: wodi 
+not: biahai | biahai	raihe 
+not: raihe | biahai	raihe 
+old: tau 
+one: nao | na7ubuo	naʔubuo 
+one: na\ubuo | na7ubuo	naʔubuo 
+one: naʔubuo | na7ubuo	naʔubuo 
+person: mereha 
+rain: wiha 
+rat: kaiani 
+red: kaikarapi 
+red: kaikaravi | kaikarapi 
+river: bodomo 
+river: o-omu 
+road: nabe 
+road: nave | nabe 
+root: hepi | hɛpi 
+root: hɛpi 
+root: ipi | hɛpi 
+root: mate | hɛpi 
+rope: ohome 
+rope: oumi 
+round: ka\e\e | kaʔeʔe 
+round: kaʔeʔe 
+salt: kara-kara 
+sand: nori 
+say: ara | nori 
+say: wadi-taro | nori 
+sea: goi-u 
+sea: oboa 
+seed: i\opu | iʔopu 
+seed: iʔopu 
+see: e\auri | e7auri	eʔauri 
+see: eʔauri | e7auri	eʔauri 
+see: tauri | e7auri	eʔauri 
+short: kombo 
+shoulder: bena 
+shoulder: kakimo 
+sing: gama 
+sister: ni-rabu 
+sit: emi | ɛmi 
+sit: ɛmi 
+sit: kemi | ɛmi 
+sit: tahe | ɛmi 
+skin: tama 
+sky: toboro 
+sky: toburu 
+sleep: tauta | uwo 
+sleep: uwo 
+small: kekebo 
+small: kekebu | kekebo 
+smell: tamenibo 
+smoke: moomoo | omoʔomo 
+smoke: omo\omo | omoʔomo 
+smoke: omoʔomo 
+snake: ede 
+son: mere 
+spit: hauge 
+stand: kotoboa 
+stand: oto\a 
+stand: otoʔa 
+stand: tatoi 
+star: huri 
+star: piu | huri 
+stone: akába | akaba	akába 
+stone: akabu | akaba	akába 
+stone: akábu | akaba	akába 
+sun: hewio 
+sun: (h)ivio | hewio 
+sweet: topu 
+swim: omoru\o | omoruʔo 
+swim: omoruʔo 
+tail: wapo 
+take: tamidairo 
+take: temidai 
+that: baino rie | bino rie 
+that: bino rie 
+thigh: totomabu 
+thigh: wai 
+thigh: wai-i 
+this: no/i | noli 
+this: noli 
+this: nouri | noli 
+thou: lo 
+thou: ro | lo 
+three: neewa-nao 
+tongue: mototobe 
+tongue: mototobi | mototobe 
+tongue: nototobi | mototobe 
+tooth: iowa | iyopai 
+tooth: iyopai 
+tooth: yowa | iyopai 
+tree: kopu | nu7a 
+tree: nu\a | nu7a 
+tree: nuʔa | nu7a 
+two: neewa | ne7ewa	neʔewa 
+two: ne\ewa | ne7ewa	neʔewa 
+two: neʔewa | ne7ewa	neʔewa 
+walk: ai-no-u | oʔo 
+walk: nou-u | oʔo 
+walk: o\o | oʔo 
+walk: oʔo 
+walk: tairo | oʔo 
+warm: enaena 
+water: obo 
+we (incl.): imo 
+what: tonali 
+white: bohoboho 
+white: boho-boho | bohoboho 
+who: boti 
+wife: oboa 
+wind: uroma 
+woman: obo 
+woman: upi | obo 
+every: awoha 
+ash: tuo 
+abdomen: niro 
+bigness: aᵘwo 
+large: aᵘwo 
+breasts: amo 
+nail: giribari 
+talon: giribari 
+come from: o7uro	oʔuro 
+be dead: oihiai 
+dead: oihiai 
+ground: hopu 
+land: hopu 
+soil: hopu 
+fly: odau 
+fly v.: odau 
+1 sg.: mo 
+be knowledgeable: umo 
+lie down: utaʔa 
+head louse: nimo 
+male: dubu 
+much: godo godo 
+multiple: godo godo 
+several: godo godo 
+hill: akabu	akábu 
+title: paena 
+nighttime: duo 
+adulterous: na7ubuo	naʔubuo 
+single: na7ubuo	naʔubuo 
+the: na7ubuo	naʔubuo 
+unprincipled: na7ubuo	naʔubuo 
+human: mereha 
+human being: mereha 
+rainy weather: wiha 
+path: nabe 
+route: nabe 
+hide: tama 
+little: kekebo 
+smallness: kekebo 
+rock: akaba	akába 
+2 sg: lo 
+you: lo 
+grind: ne7ewa	neʔewa 
+go: oʔo 
+1 pl. inc.: imo 
+we: imo 
+we₁: imo 
+whiteness: bohoboho 
+who?: boti 
+female: obo 

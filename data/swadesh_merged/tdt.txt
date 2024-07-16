@@ -1,0 +1,262 @@
+all: falu	hotu hotu 
+every: falu	hotu hotu 
+abdomen: kabun 
+belly: kabun 
+big: bôt 
+bigness: bôt 
+large: bôt 
+bird: manu	manu fuʔik 
+bite: hanisi	makkit	tata 
+black: metan 
+blood: raan	ran 
+bone: ru7i	ruin	ruʔin 
+breast: susu	susun 
+breasts: susu	susun 
+burn: namottuk	sunu 
+burn tr.: namottuk	sunu 
+cloud: kaloan 
+cold: malirin 
+come: mai 
+come from: mai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: asu 
+drink: hemu 
+dry: maran 
+ear: tilu	tilun 
+eat: ha	han 
+egg: tollun	tolun 
+eye: mata	matan 
+feather: rahun 
+fire: ahi	ha7i	haʔi 
+fish: ikan	na7a	naʔan 
+fly: semo 
+fly v.: semo 
+good: diak 
+green: matak 
+hair: fuk	fuuk 
+hand: lima	liman 
+left hand: lima	liman 
+right: lima	liman 
+head: ulun 
+hear: rona 
+1 sg.: hau 
+I: hau 
+kill: hŏŏ	oho 
+be knowledgeable: hatana	hatene 
+know: hatana	hatene 
+leaf: daun	taha	tahan 
+lie: toba 
+lie down: toba 
+liver: ate	aten 
+long: naruk 
+head louse: utu 
+louse: utu 
+male: mane 
+man: ema	emma 
+moon: fulan 
+mouth: ibun	nunun 
+name: nara	naran 
+title: nara	naran 
+neck: kakorok 
+new: fon	foon 
+night: kalan 
+nighttime: kalan 
+nose: inu	inur	inus 
+adulterous: ida 
+one: ida 
+single: ida 
+that: nia 
+the: ida 
+unprincipled: ida 
+human: ema	emma 
+human being: ema	emma 
+person: ema	emma 
+rain: udan 
+rainy weather: udan 
+red: mean 
+path: dalan 
+road: dalan 
+route: dalan 
+root: abut 
+sand: rai henek	rai henik 
+say: dehan	haʔak 
+see: hare 
+sit: tur 
+hide: kulit 
+skin: kulit 
+sleep: toba 
+little: kiʔik 
+small: kiʔik 
+smallness: kiʔik 
+smoke: dubun 
+star: fitu	fitun 
+rock: fatuk 
+stone: fatuk 
+swim: nani 
+tail: ikun 
+this: neʔe 
+tongue: nana	nanaan	nanal 
+tooth: nea	nean	nehan 
+grind: rua 
+two: rua 
+go: lao	laʔo 
+walk: lao	laʔo 
+hot: manas 
+warm: manas 
+water: be	we 
+1 pl. inc.: ami	ita 
+we: ami	ita 
+we₁: ami	ita 
+what: sa 
+white: mutin 
+whiteness: mutin 
+who: se 
+who?: se 
+female: feto	fetto 
+woman: feto	fetto 
+yellow: modak 
+distant: kedok 
+far: kedok 
+dull: todan 
+heavy: todan 
+serious: todan 
+close: kreʔis	tukus 
+near: kreʔis	tukus 
+ner: kreʔis	tukus 
+salt: masin	masin midar 
+short: badak	bettek 
+snake: samea 
+thin: niʔis 
+wind: anin 
+earthworm: lattik rai 
+worm: lattik rai 
+year: tinan 
+2 pl.: emi 
+ye: emi 
+you: emi 
+you all: emi 
+3 pl.: sia 
+they: sia 
+where: iha neʔebè 
+where?: iha neʔebè 
+when: bai hira 
+when?: bai hira 
+how: na nuusa 
+how?: na nuusa 
+other: seluk 
+three: tollu 
+four: haat 
+five: lima 
+broad: luwa 
+wide: luwa 
+wideness: luwa 
+fat: bokur	boran	mina 
+thick: maʔar 
+narrow: klot 
+principal wife: fen 
+wife: fen 
+husband: laen	laʔen 
+his mother: ina	inan 
+mother: ina	inan 
+my mother: ina	inan 
+father: ama	aman 
+his father: ama	aman 
+my father: ama	aman 
+forest: ai laran	alas 
+woods: ai laran	alas 
+branch: wattan 
+stick: wattan 
+fruit: ai fuan 
+flower: ai funan 
+grass: haè 
+cord: tali	talin 
+rope: tali	talin 
+flesh: isin	naan	naʔan 
+meat: isin	naan	naʔan 
+grease: bokur	boran	mina 
+wing: liras 
+gut: aten	te oan 
+guts: aten	te oan 
+insides: aten	te oan 
+intestine: aten	te oan 
+intestines: aten	te oan 
+back: kottuk 
+suck: susu 
+spit: tafui	teniru 
+vomit: kalea	muta 
+blow: hu 
+breath: dada iis	hasaè nawan 
+breathe: dada iis	hasaè nawan 
+laugh: hamnasa	hanassa 
+laughter: hamnasa	hanassa 
+cogitate: hanoin	hanoʔin 
+reflect: hanoin	hanoʔin 
+think: hanoin	hanoʔin 
+smell: horan	horong 
+sniff: horan	horong 
+afraid: hatauk	tauk 
+be afraid: hatauk	tauk 
+fear: hatauk	tauk 
+fright: hatauk	tauk 
+alive: moris 
+be alive: moris 
+life: moris 
+live: moris 
+living: moris 
+hunt: maraka 
+beat: baku	taè 
+hit: baku	taè 
+strike: baku	taè 
+cut: ta	tesi	tetak 
+hack: ta	tesi	tetak 
+cut open: fera	fotta 
+split: fera	fotta 
+pierce: sona 
+stab: sona 
+scratch: koi 
+dig: ke	keʔe 
+stand: hamrik	harik 
+drop: monu 
+fall: monu 
+grasp: humur	kaer 
+hold: humur	kaer 
+hold in arm: humur	kaer 
+squeeze: kumu 
+wring: kumu 
+throw: soe	tuda 
+bind: futu	kesi	kmeti 
+fasten: futu	kesi	kmeti 
+tie: futu	kesi	kmeti 
+tie up: futu	kesi	kmeti 
+sew: lita	suku 
+count: sura 
+enumerate: sura 
+number: sura 
+tally: sura 
+flow: suli	sulin 
+lake: we lihun 
+ocean: tasi 
+sea: tasi 
+dust: rai ahun	rai rahun 
+fog: ai abu 
+sky: lalean 
+bad: aat 
+evil: aat 
+rot: dodok 
+rotten: dodok 
+dirty: foer	karebo	kfur 
+filthy: foer	karebo	kfur 
+soiled: foer	karebo	kfur 
+sharp: kroat	meek 
+blunt: dubus	la meek 
+damp: bokon	bottes 
+wet: bokon	bottes 
+right side: kwana	los (liman los) 
+left: karuk	karuk (liman karuk) 
+at: iha 
+in: iha laran 
+inside: iha laran 
+and: no 
+if: kalau 

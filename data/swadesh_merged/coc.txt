@@ -1,0 +1,323 @@
+all: maam	s=aːm 
+every: maam	s=aːm 
+ash: kiimá	xmʔuɬ 
+ashes: kiimá	xmʔuɬ 
+bark: ssxuyál	ʂxuyˈal 
+abdomen: ʔi=čˈu	ʼicú 
+belly: ʔi=čˈu	ʼicú 
+big: p=t̪ay	ptay 
+bigness: p=t̪ay	ptay 
+large: p=t̪ay	ptay 
+bird: sha	ša 
+bite: ssaa	ʂaː 
+black: nyiilly	ɲ=iːʎ̥ 
+blood: ixw~at	xwatt	ɲ=xʷat 
+bone: 5iyak	yaak	yak	ɲ=y=aːk 
+breast: xčkaɾ	čxkaɾ	ʼimáy 
+breasts: xčkaɾ	čxkaɾ	ʼimáy 
+burn: ʎ̥=maɾ 
+burn tr.: ʎ̥=maɾ 
+claw: ɬka=xʷˈaw	ʎ̥ka=xʷˈaw 
+nail: ɬka=xʷˈaw	ʎ̥ka=xʷˈaw 
+talon: ɬka=xʷˈaw	ʎ̥ka=xʷˈaw 
+cloud: kwii	kʷiː 
+cold: x=suːɾ	xsuur 
+come: kiyik	uyix	yii	yiː 
+come from: kiyik	uyix	yii	yiː 
+be dead: maSpax	miSupa	msspa	mʂ=pa 
+dead: maSpax	miSupa	msspa	mʂ=pa 
+die: maSpax	miSupa	msspa	mʂ=pa 
+dog: xat	xatt 
+drink: Six	kSik	ssi	ʂi 
+dry: ssʼar	ʂ=ʔaɾ 
+ear: Sumaly~	shmaal	šmaːl 
+earth: mat	matt 
+ground: mat	matt 
+land: mat	matt 
+soil: mat	matt 
+eat: ma 
+egg: xma ssuʼáp	xmˌa=ʂ=u=ʔˈap 
+eye: iyu	ʔi=yˈu	ʼiyú 
+fat: šay 
+fat n.: šay 
+grease: šay 
+lubricant: šay 
+oil: šay 
+feather: shawál	ssuumí	ša=wˈal 
+fire: a7a	ʔa=ʔˈaː	ʼaʼá 
+fish: si-ʔˈiʎ̥	si7iL	siʼílly 
+fly: man 
+fly v.: man 
+foot: ʔi=mˈiː	ʼimíí 
+full: Cim7ur	cmʼur	č=puɾ 
+give: =iː	ii 
+good: miixáán	p=xʷay	xany 
+green: x=p=siw	xpisw 
+hair: lmiss	m=xʷaɬ 
+hand: iSaL	ʔi=šˈaːʎ̥ 
+left hand: iSaL	ʔi=šˈaːʎ̥ 
+right: iSaL	ʔi=šˈaːʎ̥ 
+head: m=kuɾ	mkur 
+hear: ki7ip	ʔiː=ʔˈiːp	ʼiiʼííp 
+heart: ʔi=yˈaːy	ʼiyááy 
+horn: 5ikw~a	kwa	kʷa 
+1 sg.: nyaap	ɲaː-č 
+I: nyaap	ɲaː-č 
+kill: nak 
+knee: ʔimˈiː taːkˈaːɲ	ʼimíí ttaakáány 
+be knowledgeable: ʔuː=yˈaː	ʼuuʼyáá 
+know: ʔuː=yˈaː	ʼuuʼyáá 
+leaf: wal 
+lie: yak 
+lie down: yak 
+liver: CpuSu	cpussú	č=puʂˈu 
+long: kuʎ̥	kwlly 
+head louse: xllis	ʔi=ʔˈiʎ̥	ʼiʼílly 
+louse: xllis	ʔi=ʔˈiʎ̥	ʼiʼílly 
+male: ʔa=pˈa	ʼapá 
+man: apa7	capáy	ča=pˈa-y 
+many: llyay	nyaam	ʎ̥ay 
+much: llyay	nyaam	ʎ̥ay 
+multiple: llyay	nyaam	ʎ̥ay 
+several: llyay	nyaam	ʎ̥ay 
+flesh: ʔi=mˈaːč 
+meat: ʔi=mˈaːč 
+moon: xllyʼa	xʎ̥=ʔa 
+hill: wii	wiː 
+mountain: wii	wiː 
+mouth: ʔi=yˈa	ʼiyá 
+name: muL	muly	muʎ̥	xumuL 
+title: muL	muly	muʎ̥	xumuL 
+neck: m=puk	mpuk 
+new: xany	xaɲ 
+night: Ci5am	Ci5em	cnyam	č=ɲam 
+nighttime: Ci5am	Ci5em	cnyam	č=ɲam 
+nose: ixu	ʔi=xˈu	ʼixú 
+not: lax	lu-…-m 
+adulterous: Sit	shitt	šit	šiţ 
+one: Sit	shitt	šit	šiţ 
+single: Sit	shitt	šit	šiţ 
+that: puu	ʂuː-	ʔu=ʂˈuː- 
+the: Sit	shitt	šit	šiţ 
+unprincipled: Sit	shitt	šit	šiţ 
+human: apa7	capáy	ča=pˈa-y 
+human being: apa7	capáy	ča=pˈa-y 
+person: apa7	capáy	ča=pˈa-y 
+rain: p=ʔa-y	pʼay 
+rainy weather: p=ʔa-y	pʼay 
+red: xwatt	xʷat 
+path: wa5a	wanyá	waɲˈa 
+road: wa5a	wanyá	waɲˈa 
+route: wa5a	wanyá	waɲˈa 
+root: kwshamá	šma 
+round: tux	xyal	ɾ=yaɾ	ɾ=ʔuɾ 
+sand: llyshʼa	mˌat=ʎ̥šʔˈaː 
+say: ʔi	ʼi 
+see: kuwik	wi	wii	wiː 
+seed: yas 
+sit: wa 
+hide: kwʼáll	ɲ=kʷ=ʔaɬ 
+skin: kwʼáll	ɲ=kʷ=ʔaɬ 
+sleep: shma	š=ma 
+little: lycash	ʔiʎ=čˈaš 
+small: lycash	ʔiʎ=čˈaš 
+smallness: lycash	ʔiʎ=čˈaš 
+smoke: xyay 
+stand: p=ʔaː 
+star: kLap	kwlyap	kw~aLy~ap	kʷ=ʎ̥ap 
+rock: wi	wii	xuur	xuːɾ 
+stone: wi	wii	xuur	xuːɾ 
+sun: 5a	nya	ɲa 
+swim: nuup	xaʎ̥ nup 
+tail: shyully	š=yuʎ̥ 
+this: pii	piː	ʔu=pˈiː 
+2 sg: ma-pˈu-č	mapú 
+thou: ma-pˈu-č	mapú 
+you: ma-pˈu-č	mapú 
+tongue: imp~aL	ipaL	m=paʎ̥	mpally 
+tooth: iya	ʔi=yˈa	ʼiyàwíí 
+tree: ʔayˈaː	ʼayáá 
+grind: x=wak	xuwak	xwak 
+two: x=wak	xuwak	xwak 
+go: pʼaw	ʔaː 
+walk: pʼaw	ʔaː 
+hot: llyap	piny	ʎ̥ap 
+warm: llyap	piny	ʎ̥ap 
+water: xa 
+1 pl. inc.: ɲaː-č 
+we: ɲaː-č 
+we₁: ɲaː-č 
+what: luuny	luup	luːɲ 
+white: xm=aːʎ̥	xmaally 
+whiteness: xm=aːʎ̥	xmaally 
+who: luuny	luup	luːɲ 
+who?: luuny	luup	luːɲ 
+female: s=ʔak	sʼak 
+woman: s=ʔak	sʼak 
+yellow: qwass	qʷaʂ 
+distant: kur	kuɾ 
+far: kur	kuɾ 
+dull: nyix	ɲix 
+heavy: nyix	ɲix 
+serious: nyix	ɲix 
+close: xrpay	xɾ=pay 
+near: xrpay	xɾ=pay 
+ner: xrpay	xɾ=pay 
+salt: ssʼir	ʂ=ʔiɾ 
+short: xlyʼutt	xʎ=ʔut 
+snake: yacáác	ʔa=wˈi 
+thin: rssaaw	ssʼiitt	ɾʂaːw 
+wind: cxa	č=xa 
+earthworm: ma=ʔˈiːʎ̥	maʼíílly 
+worm: ma=ʔˈiːʎ̥	maʼíílly 
+year: màttkáám	mˌat-kˈaːm 
+3 sg.: p- 
+he: p- 
+she: p- 
+here: puy 
+there: ssay 
+when: knyayúm 
+when?: knyayúm 
+few: yaaw 
+other: kpar 
+three: xmuk 
+four: spap 
+five: ssrap	ṣrap 
+broad: ʼaally 
+wide: ʼaally 
+wideness: ʼaally 
+thick: kwiish 
+narrow: shily ʼi 
+child: kwaramáss 
+principal wife: wàswáy 
+wife: wàswáy 
+husband: kwrʼak 
+his mother: caa 
+mother: caa 
+my mother: caa 
+father: ʼaa 
+his father: ʼaa 
+my father: ʼaa 
+animal: xatt 
+branch: ssuʼár 
+stick: ssuʼár 
+fruit: xpally 
+flower: supány 
+grass: ssmal 
+cord: yuʼár 
+rope: yuʼár 
+fingernail: ʼisháálly llkaxwáw 
+leg: ʼimíí 
+arm: ʼisháálly 
+wing: ʼirwír	ʼisháálly 
+gut: pxa 
+guts: pxa 
+insides: pxa 
+intestine: pxa 
+intestines: pxa 
+back: llamák	ʼimák 
+suck: sucúk 
+spit: sxttu	sxyall 
+vomit: yuuq 
+blow: ciixáy	xpssuu 
+breath: yaass 
+breathe: yaass 
+laugh: ʼuussáy 
+laughter: ʼuussáy 
+cogitate: lly-yuum 
+reflect: lly-yuum 
+think: lly-yuum 
+smell: xwi 
+sniff: xwi 
+afraid: mshyaa 
+be afraid: mshyaa 
+fear: mshyaa 
+fright: mshyaa 
+alive: way 
+be alive: way 
+life: way 
+live: way 
+living: way 
+fight: nyup 
+hunt: nyay 
+beat: sttu 
+hit: sttu 
+strike: sttu 
+cut: cukátt 
+hack: cukátt 
+cut open: ttap 
+split: ttap 
+pierce: ʼuushá 
+stab: ʼuushá 
+scratch: llyqshaq 
+dig: xwally	ʼuupún 
+tell lies: patt	yak 
+turn: kwany 
+turn around: kwany 
+turn round: kwany 
+drop: nyaly	pam 
+fall: nyaly	pam 
+grasp: shawín 
+hold: shawín 
+hold in arm: shawín 
+squeeze: llkwiss 
+wring: llkwiss 
+rub: kuxáy 
+wipe: sswi 
+wash: canúp	ssʼul 
+wash clothes: canúp	ssʼul 
+pull: ckyaw	cxpaly 
+push: shvuutk	sʼatt 
+shove: shvuutk	sʼatt 
+throw: cap 
+bind: xir 
+fasten: xir 
+tie: xir 
+tie up: xir 
+sew: shukwílly 
+count: saaw 
+enumerate: saaw 
+number: saaw 
+tally: saaw 
+sing: syaa 
+have fun: lʼuy 
+play: lʼuy 
+float: yályál ʼi 
+flow: kup 
+freeze: siimís 
+swell: skwa 
+brook: xawílly 
+river: xawílly 
+stream: xawílly 
+lake: xnyu 
+ocean: xakwssʼílly 
+sea: xakwssʼílly 
+dust: miipútt 
+fog: ssa 
+sky: maa 
+snow: xsa 
+ice: smis 
+blaze: llymar 
+day: nya 
+daylight: nya 
+daytime: nya 
+old: luulp 
+bad: xcaq 
+evil: xcaq 
+rot: shax 
+rotten: shax 
+dirty: ʼiimátt 
+filthy: ʼiimátt 
+soiled: ʼiimátt 
+straight: mírmír 
+sharp: yaap 
+blunt: xlqay 
+smooth: qalqáy 
+damp: xay 
+wet: xay 
+correct: nyayáám 
+right side: kxanyk 
+left: kssark 
+with: -m 
+and: kakááp 
+if: ny-	nya- 

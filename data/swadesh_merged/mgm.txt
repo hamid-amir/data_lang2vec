@@ -1,0 +1,134 @@
+all: mret 
+every: mret 
+ash: rai afon/raufa 
+ashes: rai afon/raufa 
+abdomen: bai-n 
+belly: bai-n 
+big: tu 
+bigness: tu 
+large: tu 
+bird: mauna 
+bite: hwi 
+black: metan 
+blood: lara	lara-n 
+bone: rui	rui-n 
+breast: iru mata 
+breasts: iru mata 
+burn: tun 
+burn tr.: tun 
+cloud: sabaia 
+cold: mlalan 
+come: ma 
+come from: ma 
+be dead: maiet 
+dead: maiet 
+die: maiet 
+dog: ausa 
+drink: eon 
+ear: kikan noran 
+eat: mu 
+egg: maun telo-n 
+eye: mata	mata-n 
+feather: maun hulu-n 
+fire: aifa 
+fish: ikan 
+good: kode	mloi 
+green: kmoro 
+hair: ulu-n 
+hand: ima	m|ima-n 
+left hand: ima	m|ima-n 
+right: ima	m|ima-n 
+head: ul 
+hear: flik 
+1 sg.: au 
+I: au 
+kill: sa 
+be knowledgeable: tad 
+know: tad 
+leaf: ai nora	ai nora-n 
+lie: boiei 
+lie down: boiei 
+liver: ate	ate-n 
+long: naru 
+head louse: uta 
+louse: uta 
+male: mane-n 
+man: atauba	ata|uba 
+moon: hula 
+mouth: kuku-n 
+name: ka 
+title: ka 
+neck: kideu-n 
+new: heu 
+night: hodan 
+nighttime: hodan 
+nose: inu kai	inu kai-n 
+adulterous: id	ide 
+one: id	ide 
+single: id	ide 
+that: [k]ida	laida 
+the: id	ide 
+unprincipled: id	ide 
+human: atauba	ata|uba 
+human being: atauba	ata|uba 
+person: atauba	ata|uba 
+rain: usa 
+rainy weather: usa 
+red: mera 
+path: dan 
+road: dan 
+route: dan 
+root: ramu-n 
+sand: eno-n 
+say: kase	tou 
+see: eiot 
+sit: kdei 
+hide: lita	lita-n 
+skin: lita	lita-n 
+sleep: boiei 
+little: loban 
+small: loban 
+smallness: loban 
+smoke: m|asu|n 
+star: hiuta 
+rock: hauta 
+stone: hauta 
+swim: nain 
+tail: lo-n 
+this: [k]idia 
+tongue: lamalau 
+tooth: nifa	nifa-n 
+grind: ru 
+two: ru 
+go: lolai 
+walk: lolai 
+hot: bruis/ronu 
+warm: bruis/ronu 
+water: era 
+1 pl. inc.: aim	it 
+we: aim	it 
+we₁: aim	it 
+what: sabid 
+white: buti 
+whiteness: buti 
+who: senid 
+who?: senid 
+female: hine-n 
+woman: hine-n 
+yellow: mara 
+distant: ro 
+far: ro 
+dull: rihu 
+heavy: rihu 
+serious: rihu 
+close: kabesi 
+near: kabesi 
+ner: kabesi 
+salt: sia 
+short: bloko 
+snake: soleia 
+thin: biko 
+wind: keula 
+earthworm: matkailaran 
+worm: matkailaran 
+year: ton 

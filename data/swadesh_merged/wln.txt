@@ -1,0 +1,330 @@
+all: tot 
+every: tot 
+ash: cinde 
+ashes: cinde 
+bark: schoice 
+abdomen: vinte 
+belly: vinte 
+big: grand 
+bigness: grand 
+large: grand 
+bird: moxhon	oujhea 
+bite: hagnî 
+black: noer 
+blood: sonk 
+bone: oxhea 
+breast: pwetrene 
+breasts: pwetrene 
+cloud: nûlêye 
+cold: froed 
+come: vni 
+come from: vni 
+be dead: mori 
+dead: mori 
+die: mori 
+dog: tchén 
+drink: boere 
+dry: setch 
+ear: oraye 
+earth: daegn	tere 
+ground: daegn	tere 
+land: daegn	tere 
+soil: daegn	tere 
+eat: magnî 
+egg: oû 
+eye: ouy 
+feather: plome 
+fire: feu 
+fish: pexhon 
+fly: voler 
+fly v.: voler 
+foot: pî 
+full: plin 
+give: dner 
+good: bon 
+green: vert 
+hair: poyaedje	tchvea 
+head: tiesse 
+hear: ôre 
+heart: cour 
+horn: coine 
+1 sg.: dji	mi 
+I: dji	mi 
+kill: touwer 
+knee: djno 
+be knowledgeable: saveur 
+know: saveur 
+leaf: foye 
+liver: foete 
+long: longou 
+head louse: piou 
+louse: piou 
+male: ome 
+man: djin 
+many: bråmint 
+much: bråmint 
+multiple: bråmint 
+several: bråmint 
+moon: lune 
+hill: montinne 
+mountain: montinne 
+mouth: boke 
+name: no 
+title: no 
+neck: gozî	hatrea 
+new: novea 
+night: nute 
+nighttime: nute 
+nose: nez 
+not: nén 
+adulterous: on	onk 
+one: on	onk 
+single: on	onk 
+that: çoula 
+the: on	onk 
+unprincipled: on	onk 
+human: djin 
+human being: djin 
+person: djin 
+rain: plouve 
+rainy weather: plouve 
+red: rodje 
+path: voye 
+road: voye 
+route: voye 
+root: raecene 
+round: rond 
+sand: såvlon 
+say: dire 
+see: vey 
+seed: grinne 
+sit: ashir 
+hide: pea 
+skin: pea 
+sleep: doirmi 
+little: ptit 
+small: ptit 
+smallness: ptit 
+smoke: foumire 
+star: stoele 
+rock: pire 
+stone: pire 
+sun: solea 
+swim: nedjî 
+tail: cawe 
+this: ci 
+2 sg: vos 
+thou: vos 
+you: vos 
+tongue: linwe 
+tooth: dint 
+tree: åbe 
+grind: deus 
+two: deus 
+go: roter 
+walk: roter 
+hot: tchôd 
+warm: tchôd 
+water: aiwe 
+1 pl. inc.: nos	nozôtes 
+we: nos	nozôtes 
+we₁: nos	nozôtes 
+what: cwè 
+white: blanc 
+whiteness: blanc 
+who: kî 
+who?: kî 
+female: feme 
+woman: feme 
+yellow: djaene 
+distant: lon 
+far: lon 
+dull: pezant 
+heavy: pezant 
+serious: pezant 
+close: près 
+near: près 
+ner: près 
+salt: sé 
+short: court 
+snake: sierpint 
+thin: mwinre 
+wind: vint 
+earthworm: halene 
+worm: halene 
+year: anêye 
+3 sg.: i	lu 
+he: i	lu 
+she: i	lu 
+2 pl.: vos	vozôtes 
+ye: vos	vozôtes 
+you all: vos	vozôtes 
+3 pl.: i	zels 
+they: i	zels 
+here: chal	droci 
+there: la	låvå 
+where: wice 
+where?: wice 
+when: cwand 
+when?: cwand 
+how: comint 
+how?: comint 
+some: sacwants 
+few: pô 
+other: ôte 
+three: troes 
+four: cwate 
+five: cénk 
+broad: lådje 
+wide: lådje 
+wideness: lådje 
+fat: cråxhe 
+thick: spès 
+narrow: stroet 
+child: efant 
+principal wife: feme 
+wife: feme 
+husband: ome 
+his mother: mame 
+mother: mame 
+my mother: mame 
+father: pa 
+his father: pa 
+my father: pa 
+animal: biesse 
+forest: bwès 
+woods: bwès 
+branch: baston 
+stick: baston 
+fruit: frut 
+flower: fleur 
+grass: yebe 
+cord: coide 
+rope: coide 
+flesh: tchå 
+meat: tchå 
+grease: cråxhe 
+claw: ongue 
+fingernail: ongue 
+nail: ongue 
+leg: djambe 
+arm: mwin 
+hand: mwin 
+wing: aile 
+gut: boyeas 
+guts: boyeas 
+insides: boyeas 
+intestine: boyeas 
+intestines: boyeas 
+back: dos 
+suck: sucî 
+spit: raetchî 
+vomit: rnåder 
+blow: shofler 
+breath: respirer 
+breathe: respirer 
+laugh: rire 
+laughter: rire 
+cogitate: tuzer 
+reflect: tuzer 
+think: tuzer 
+smell: sinti 
+sniff: sinti 
+afraid: aveur peu 
+be afraid: aveur peu 
+fear: aveur peu 
+fright: aveur peu 
+alive: viker 
+be alive: viker 
+life: viker 
+live: viker 
+living: viker 
+fight: si bate 
+hunt: tchessî 
+beat: bouxhî 
+hit: bouxhî 
+strike: bouxhî 
+cut: côper 
+hack: côper 
+cut open: pårti 
+split: pårti 
+scratch: greter 
+dig: schåvler 
+lie: coûkî 
+lie down: coûkî 
+tell lies: coûkî 
+stand: astamper 
+turn: tourner 
+turn around: tourner 
+turn round: tourner 
+drop: tchair	toumer 
+fall: tchair	toumer 
+grasp: tni 
+hold: tni 
+hold in arm: tni 
+squeeze: strinde 
+wring: strinde 
+rub: froyî 
+wipe: xhorbi 
+wash: netyî 
+wash clothes: netyî 
+pull: saetchî 
+push: poûssî 
+shove: poûssî 
+throw: taper 
+bind: loyî 
+fasten: loyî 
+tie: loyî 
+tie up: loyî 
+sew: keuze 
+count: conter 
+enumerate: conter 
+number: conter 
+tally: conter 
+sing: tchanter 
+have fun: djouwer 
+play: djouwer 
+float: floter 
+flow: couler 
+freeze: djaler 
+swell: infler 
+brook: aiwe 
+river: aiwe 
+stream: aiwe 
+lake: lak 
+ocean: mer 
+sea: mer 
+dust: poûssire 
+fog: brouyård 
+sky: cir 
+snow: nivaye 
+ice: glaece 
+blaze: broûler 
+burn: broûler 
+day: djoû 
+daylight: djoû 
+daytime: djoû 
+old: vî 
+bad: mwais	måva 
+evil: mwais	måva 
+rot: pouri 
+rotten: pouri 
+dirty: mannet	måssî 
+filthy: mannet	måssî 
+soiled: mannet	måssî 
+straight: droet 
+sharp: awijhî	côpant 
+blunt: diswijhî 
+smooth: doûs	lisse 
+damp: frexh 
+wet: frexh 
+correct: djusse 
+right: droete 
+right side: droete 
+left: hintche 
+in: dins 
+inside: dins 
+with: avou 
+and: et	eyet 
+if: si 
+because: paski 

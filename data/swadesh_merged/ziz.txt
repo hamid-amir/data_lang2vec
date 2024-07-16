@@ -1,0 +1,132 @@
+all: dəp 
+every: dəp 
+ash: mtarɨkwi 
+ashes: mtarɨkwi 
+bark: lɨbi 
+big: ŋgʊɮa 
+bigness: ŋgʊɮa 
+large: ŋgʊɮa 
+bird: xʊ̀bwàtî 
+black: dʊŋ	nadʊŋwi 
+blood: mamzi	mamzì 
+bone: vw~a	vwà 
+breast: gw~akun	ǵwàkʊ̂n 
+breasts: gw~akun	ǵwàkʊ̂n 
+cloud: kurəbʊ̃̂ 
+cold: nyəkənyək 
+come: Si	šɩ 
+come from: Si	šɩ 
+be dead: mCi	mči 
+dead: mCi	mči 
+die: mCi	mči 
+dog: xud3*	xʊdə̃ʏ̈ 
+drink: se 
+ear: 83m3n	ɮɨmɨn 
+earth: xànyɩ̂n 
+ground: xànyɩ̂n 
+land: xànyɩ̂n 
+soil: xànyɩ̂n 
+eat: žɩ̂m 
+egg: ʔyaɮʊ̀n 
+eye: j3n	ǯɨ̂n 
+fire: gw~uku*	gwʊ̀kʊ̃̂ 
+fish: xurfu	xʊrrfʊ̀ 
+give: vîŋ 
+good: mɨ̀dã̂y 
+green: wʊ̀fčɩr	xʊɗayɩ̀n 
+hair: sɨ̀mčɨ̀n 
+head: yɩ̂n 
+hear: fe 
+heart: mʊ̀nkʊ̃	čàkàrkʊ̃̂ 
+horn: mEmp~u*	mæ̀mpũ 
+kill: vʊ̀ɮàbì 
+knee: idi	idin	ʔidî	ʔidîn 
+be knowledgeable: sĩ 
+know: sĩ 
+leaf: baN	bâŋ 
+lie: bə̀xãʏ̈ 
+lie down: bə̀xãʏ̈ 
+liver: kakur8iyin	kakʊrɮɩ̀yɩn 
+long: žəŋgàlə̀ŋ 
+head louse: tind~i 
+louse: tind~i 
+male: mwʊli 
+man: mdi	mdì 
+many: ŋgʊɮa 
+much: ŋgʊɮa 
+multiple: ŋgʊɮa 
+several: ŋgʊɮa 
+flesh: ɮɨ̀we 
+meat: ɮɨ̀we 
+moon: ɮɩgɨɗî 
+hill: mw~i	mwî 
+mountain: mw~i	mwî 
+mouth: mân 
+name: 83mu*	ɮɨmʊ̃ 
+title: 83mu*	ɮɨmʊ̃ 
+neck: ʔùlâ	ʔùlə̂n 
+new: mafuraN3nug	màfʊ̀ràŋɨynʊ̀g 
+night: v3di	vɨɗi 
+nighttime: v3di	vɨɗi 
+nose: s35u*	s3ny~u*	sɨ̀myʊ̃ 
+adulterous: lim	lɩm	lɪm 
+one: lim	lɩm	lɪm 
+single: lim	lɩm	lɪm 
+that: nətʊ̀ 
+the: lim	lɩm	lɪm 
+unprincipled: lim	lɩm	lɪm 
+human: mdi	mdì 
+human being: mdi	mdì 
+person: mdi	mdì 
+red: dʊ̀z 
+path: lugw~a 
+road: lugw~a 
+route: lugw~a 
+sand: xʊ̀tàyɩ̀n 
+say: xʊ̀tàyɩ̀n 
+see: xa*	ɣãʏ̈ 
+seed: fʊʔwè	m̀bʊ̀kʊŋgà	ɬkɩrɩ̀ŋ 
+sit: nzàxâ 
+hide: xuCuwi	xʊ̀čʊwì 
+skin: xuCuwi	xʊ̀čʊwì 
+sleep: wʊ̀nyɩ̀n 
+little: làɗ 
+small: làɗ 
+smallness: làɗ 
+smoke: màtɨ̀rʊ̃ 
+star: xuraLumuku*	xʊ̀raɬʊ̀mʊ̀kʊ̃̂ 
+rock: fwalã̂	fw~ala* 
+stone: fwalã̂	fw~ala* 
+sun: fiti	fitî 
+tail: gàžà 
+this: nə̀xa	nə̂n	ńdʊ̀kwʊ̀ 
+tongue: gy~3na	gyə̀nâ 
+tooth: 8iNyu*	ɮìŋyũ̂ 
+tree: fuwi 
+grind: sul	sʊl 
+two: sul	sʊl 
+water: yimu	yɩmʊ̂ 
+what: yɛ̀mčʊxʊ̀rà 
+white: napwàyɩn	pwàyɩn 
+whiteness: napwàyɩn	pwàyɩn 
+who: nâ mdì kà ʔwɔtà 
+who?: nâ mdì kà ʔwɔtà 
+female: mədzɨ̀kʊ̃ 
+woman: mədzɨ̀kʊ̃ 
+yellow: ɣàlɨ̀ma 
+distant: zîŋ 
+far: zîŋ 
+dull: kʊ̀zʊx 
+heavy: kʊ̀zʊx 
+serious: kʊ̀zʊx 
+close: ndʊkw	ndʊkwʊ 
+near: ndʊkw	ndʊkwʊ 
+ner: ndʊkw	ndʊkwʊ 
+salt: žə̀tə̀nâ 
+short: gwʊ̀s 
+snake: xwʊ̀xwʊ̀nî 
+thin: ɬax 
+wind: mbiɗî 
+earthworm: kamtʊ̀gwʊ̀ɗi 
+worm: kamtʊ̀gwʊ̀ɗi 
+year: fɩ̂zkʊ̃ 

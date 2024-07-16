@@ -1,0 +1,270 @@
+all: samua 
+every: samua 
+ash: abu 
+ashes: abu 
+abdomen: poro 
+belly: poro 
+big: garos 
+bigness: garos 
+large: garos 
+bird: buru 
+bite: gigi 
+black: itaŋ 
+blood: dara 
+bone: tulaN	tulan	tulaŋ 
+breast: susu 
+breasts: susu 
+burn: bakar 
+burn tr.: bakar 
+cloud: awaŋ 
+cold: diŋiŋ 
+come: dataN	dataŋ 
+come from: dataN	dataŋ 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: andjiN	anjiN	anjiŋ 
+drink: minoN	minɔŋ 
+dry: kariŋ 
+ear: kupiN	taliNa	taliNan	taliŋa 
+eat: makaŋ 
+egg: tálor 
+eye: mata 
+feather: bulu 
+fire: aNos	api 
+fish: ikaN	ikan	ikaŋ 
+fly: tárbaŋ 
+fly v.: tárbaŋ 
+full: pono 
+good: hae 
+green: ijo 
+hair: rambut 
+hand: taNaN	taNan	taŋaŋ 
+left hand: taNaN	taNan	taŋaŋ 
+right: taNaN	taNan	taŋaŋ 
+head: kapala 
+hear: d3Nar	deNar	deŋar 
+horn: trompet 
+1 sg.: beta	bia	béta 
+I: beta	bia	béta 
+kill: bunu 
+knee: taNan 
+be knowledgeable: tau 
+know: tau 
+leaf: daoN	daoŋ 
+lie: talantaŋ 
+lie down: talantaŋ 
+liver: hati	lutu 
+long: panjaŋ 
+head louse: kutu 
+louse: kutu 
+male: laki-laki 
+man: oraN	oraŋ 
+moon: bulaŋ 
+hill: gunuN 
+mountain: gunuN 
+mouth: mulu 
+name: %nama	nama 
+title: %nama	nama 
+neck: lɛhɛr 
+new: baru 
+night: malaN	malam	malaŋ 
+nighttime: malaN	malam	malaŋ 
+nose: idoN	idoŋ 
+adulterous: satu 
+one: satu 
+single: satu 
+that: itu 
+the: satu 
+unprincipled: satu 
+human: oraN	oraŋ 
+human being: oraN	oraŋ 
+person: oraN	oraŋ 
+rain: ujaŋ 
+rainy weather: ujaŋ 
+red: mera 
+path: djalaN	jalaN	jalaŋ 
+road: djalaN	jalaN	jalaŋ 
+route: djalaN	jalaN	jalaŋ 
+root: akar 
+sand: pasir 
+say: bilaŋ 
+see: lia 
+sit: duduk 
+hide: kuli 
+skin: kuli 
+sleep: sono 
+little: kacupiŋ 
+small: kacupiŋ 
+smallness: kacupiŋ 
+smoke: asap 
+star: bintaN	bintaŋ	bint~aN 
+rock: batu	bidji 
+stone: batu	bidji 
+sun: matahari 
+swim: barnaŋ 
+tail: ɛkor 
+this: ini 
+2 sg: ale	ose	osé 
+thou: ale	ose	osé 
+you: ale	ose	osé 
+tongue: lida 
+tooth: gigi 
+tree: pohon 
+grind: dua 
+two: dua 
+go: bajalaŋ 
+walk: bajalaŋ 
+hot: panas 
+warm: panas 
+water: air	ajer 
+1 pl. inc.: katoN	katoŋ 
+we: katoN	katoŋ 
+we₁: katoN	katoŋ 
+what: apa 
+white: puti 
+whiteness: puti 
+who: siapa 
+who?: siapa 
+female: perempuan 
+woman: perempuan 
+yellow: buniŋ 
+distant: jao 
+far: jao 
+dull: barʼat 
+heavy: barʼat 
+serious: barʼat 
+close: dekat 
+near: dekat 
+ner: dekat 
+salt: garaŋ 
+short: pendé 
+snake: ular 
+thin: tipis 
+wind: aŋiŋ 
+earthworm: caciŋ 
+worm: caciŋ 
+year: tao 
+2 pl.: doŋ 
+ye: doŋ 
+you all: doŋ 
+3 pl.: kamoŋ 
+they: kamoŋ 
+where: di mana 
+where?: di mana 
+when: apa tempo 
+when?: apa tempo 
+how: bagaimana 
+how?: bagaimana 
+other: laeŋ 
+three: tiga 
+four: ampa 
+broad: lebar 
+wide: lebar 
+wideness: lebar 
+fat: gámu 
+thick: tabʼal 
+narrow: sasʼa 
+principal wife: bini 
+wife: bini 
+husband: laki 
+his mother: mai	mama 
+mother: mai	mama 
+my mother: mai	mama 
+father: pai	papa 
+his father: pai	papa 
+my father: pai	papa 
+forest: utaŋ 
+woods: utaŋ 
+branch: dahan 
+stick: dahan 
+fruit: bua-bua 
+flower: buŋa 
+grass: rumpu 
+cord: tali 
+rope: tali 
+flesh: dagiŋ 
+meat: dagiŋ 
+grease: gámu 
+wing: sayap 
+gut: usus 
+guts: usus 
+insides: usus 
+intestine: usus 
+intestines: usus 
+back: puŋuŋ 
+suck: isap 
+spit: luda 
+vomit: munta 
+blow: tiop 
+breath: banapas 
+breathe: banapas 
+laugh: tatawa 
+laughter: tatawa 
+cogitate: bapikir 
+reflect: bapikir 
+think: bapikir 
+smell: cioŋ 
+sniff: cioŋ 
+afraid: taku 
+be afraid: taku 
+fear: taku 
+fright: taku 
+alive: hidop 
+be alive: hidop 
+life: hidop 
+live: hidop 
+living: hidop 
+hunt: mancari 
+beat: pukol 
+hit: pukol 
+strike: pukol 
+cut: potɔŋ 
+hack: potɔŋ 
+cut open: bála 
+split: bála 
+pierce: tikaŋ 
+stab: tikaŋ 
+scratch: garu 
+dig: gali 
+stand: badiri 
+drop: jato 
+fall: jato 
+grasp: loko 
+hold: loko 
+hold in arm: loko 
+throw: buaŋ 
+bind: ika 
+fasten: ika 
+tie: ika 
+tie up: ika 
+sew: manjai 
+count: itoŋ 
+enumerate: itoŋ 
+number: itoŋ 
+tally: itoŋ 
+flow: maŋalir 
+lake: danau 
+ocean: lau 
+sea: lau 
+dust: abu 
+fog: kabut 
+sky: laŋit 
+bad: kajahataŋ 
+evil: kajahataŋ 
+rot: busu 
+rotten: busu 
+dirty: badaki 
+filthy: badaki 
+soiled: badaki 
+sharp: tajaŋ 
+blunt: tumpul 
+damp: basa 
+wet: basa 
+right side: kanaŋ 
+left: kiri 
+at: di 
+in: di dalaŋ 
+inside: di dalaŋ 
+and: dan 
+if: kalo 

@@ -1,0 +1,629 @@
+all: kul 
+animal: adabba | adabba	alzɛka 
+animal: alzɛka | adabba	alzɛka 
+ankle: cæ mongo͂ 
+arm: kamba 
+arrow: birawizæ 
+arrow: ya¶izæ 
+ashes: bonni | bonni	borhon	bosu 
+ashes: borhon | bonni	borhon	bosu 
+ashes: bosu | bonni	borhon	bosu 
+back: banda 
+bad: futa | futa	lala	sarhabuna 
+bad: lala | futa	lala	sarhabuna 
+bad: sarhabuna | futa	lala	sarhabuna 
+bark: kokosi | kokosi	kuru	linɟi 
+bark: kuru | kokosi	kuru	linɟi 
+bark: linɟi | kokosi	kuru	linɟi 
+because: kaya kan šɛ | kaya kan šɛ	za	zama 
+because: za | kaya kan šɛ	za	zama 
+because: zama | kaya kan šɛ	za	zama 
+belly: bina | gunde	kuna 
+belly: binobongo | gunde	kuna 
+belly: borkoto | gunde	kuna 
+belly: gunde | gunde	kuna 
+belly: kuna | gunde	kuna 
+belly: wišini | gunde	kuna 
+belly: yubu | gunde	kuna 
+big: bambata | bambata	bɛbɛri 
+big: bɛbɛri | bambata	bɛbɛri 
+bird: ciraw 
+bite: ɲama | nama	ɲama 
+bite: kaːma | nama	ɲama 
+bite: nama | nama	ɲama 
+bitter: hotta 
+black: bi | bi	bibi 
+black: bibi | bi	bibi 
+blood: kuri 
+blow: funsu | funsu	funsugi	hæ 
+blow: funsugi | funsu	funsugi	hæ 
+blow: hæ | funsu	funsugi	hæ 
+bone: biri 
+branch: aigali 
+breast: fafa ˈˈmamelle\ | fafa	fafu	gande 
+breast: fafu | fafa	fafu	gande 
+breathe: guba | guba	hinhin	hunsar 
+breathe: hinhin | guba	hinhin	hunsar 
+breathe: hunsar | guba	hinhin	hunsar 
+brother: arma~ɛrma 
+brother: bæræ 
+brother: kɛynæ 
+brother: sakaramma 
+burn: di | ton 
+burn: hutæ | ton 
+burn: kukurɛy | ton 
+burn: nin | ton 
+burn: numæ | ton 
+burn: ton 
+calf: bilinkɛy 
+calf: busal 
+calf: cæ sokota 
+cheek: garba 
+cheek: lakal 
+chest: ganday 
+child: badda | badda	izæ	karga	kowa	zanka	ɖbɛw 
+child: ¶bɛw | badda	izæ	karga	kowa	zanka	ɖbɛw 
+child: izæ | badda	izæ	karga	kowa	zanka	ɖbɛw 
+child: karga | badda	izæ	karga	kowa	zanka	ɖbɛw 
+child: kowa | badda	izæ	karga	kowa	zanka	ɖbɛw 
+child: zanka | badda	izæ	karga	kowa	zanka	ɖbɛw 
+chin: tono 
+claw: boy | boy	cæboy	kababoy 
+claw: cæboy | boy	cæboy	kababoy 
+claw: kababoy | boy	cæboy	kababoy 
+cloud: dula 
+cold: jhargu | jhargu	marasa	yɛyni 
+cold: marasa | jhargu	marasa	yɛyni 
+cold: yɛyni | jhargu	marasa	yɛyni 
+come: hun | hun	ka	te	zulli 
+come: ka | hun	ka	te	zulli 
+come: te | hun	ka	te	zulli 
+come: zulli | hun	ka	te	zulli 
+correct: sawa 
+count: alasabu | alasabu	kabu	žimaw 
+count: kabu | alasabu	kabu	žimaw 
+count: žimaw | alasabu	kabu	žimaw 
+cut: doːno | doːno	dumbu	fɛʈæ	kottu	telfu	wi	šɛrcɛ 
+cut: dumbu | doːno	dumbu	fɛʈæ	kottu	telfu	wi	šɛrcɛ 
+cut: fɛʈæ | doːno	dumbu	fɛʈæ	kottu	telfu	wi	šɛrcɛ 
+cut: kottu | doːno	dumbu	fɛʈæ	kottu	telfu	wi	šɛrcɛ 
+cut: šɛrcɛ | doːno	dumbu	fɛʈæ	kottu	telfu	wi	šɛrcɛ 
+cut: telfu | doːno	dumbu	fɛʈæ	kottu	telfu	wi	šɛrcɛ 
+cut: wi | doːno	dumbu	fɛʈæ	kottu	telfu	wi	šɛrcɛ 
+day: dirbi | dirbi	han	hane	hi	hinò	mo 
+day: han | dirbi	han	hane	hi	hinò	mo 
+day: hane | dirbi	han	hane	hi	hinò	mo 
+day: hi | dirbi	han	hane	hi	hinò	mo 
+day: hinò | dirbi	han	hane	hi	hinò	mo 
+day: mo | dirbi	han	hane	hi	hinò	mo 
+day: zari | dirbi	han	hane	hi	hinò	mo 
+die: bu 
+die: buna 
+die: buri 
+die: faːti | bu 
+dig: fani | fani	fanši	kokoso 
+dig: fanši | fani	fanši	kokoso 
+dig: fiɟi | fani	fanši	kokoso 
+dig: kokoso | fani	fanši	kokoso 
+dirty: žibi | žibi 
+dog: hanši | ha*ySi	hanSi	hansi	hanši 
+drink: haŋ | haN	haŋ 
+dry: koga 
+dust: ʈɛlloru | kusaw	ʈɛlloru 
+dust: kusaw | kusaw	ʈɛlloru 
+ear: hanga~haŋa | haNNa	haNa	hanga	haŋa 
+earth: dau 
+earth: ganda 
+earth: kasam 
+earth: labu 
+earth: makkaran 
+eat: ɲɛmti | taːbu	ŋã kaːma	ɲɛmti 
+eat: ŋa͂ kaːma | taːbu	ŋã kaːma	ɲɛmti 
+eat: taːbu | taːbu	ŋã kaːma	ɲɛmti 
+egg: guri 
+elbow: honkoro 
+eye: mo | mo	mone* 
+face: (mp)ndumo 
+fall: kaŋ | kaŋ	soloklu	zaku	zititi	žɛb	žɛu 
+fall: soloklu | kaŋ	soloklu	zaku	zititi	žɛb	žɛu 
+fall: zaku | kaŋ	soloklu	zaku	zititi	žɛb	žɛu 
+fall: žɛb | kaŋ	soloklu	zaku	zititi	žɛb	žɛu 
+fall: žɛu | kaŋ	soloklu	zaku	zititi	žɛb	žɛu 
+fall: zititi | kaŋ	soloklu	zaku	zititi	žɛb	žɛu 
+far: moːra 
+father: baba 
+fat (n.): mani 
+fear: humbur | humburɛy 
+fear: humburɛy 
+feather: fita | fita	kalam 
+feather: kalam | fita	kalam 
+few: kaʈu | kaʈu	kɛyna 
+few: kɛyna | kaʈu	kɛyna 
+fight: alfitina | alfitina	tangam 
+fight: tangam | alfitina	tangam 
+finger: cæ kabaro 
+finger: gaŋ 
+finger: kaba kabaro 
+finger: kaba kobaro 
+finger: kabizæ 
+fingernail: kababoy 
+fire: nunæ | nuna	nune	nunæ 
+fish: ham | ham	ham isa	hamisa	hari	hariham	isa ham 
+fish: ham isa | ham	ham isa	hamisa	hari	hariham	isa ham 
+fish: hari | ham	ham isa	hamisa	hari	hariham	isa ham 
+fish: isa ham | ham	ham isa	hamisa	hari	hariham	isa ham 
+five: ggu 
+float: doy | doy	doy doy 
+float: doy doy | doy	doy doy 
+flow: do | do	dori	hurgu	loti	mun	sundu	ɟisi 
+flow: dori | do	dori	hurgu	loti	mun	sundu	ɟisi 
+flow: hurgu | do	dori	hurgu	loti	mun	sundu	ɟisi 
+flow: ɟisi | do	dori	hurgu	loti	mun	sundu	ɟisi 
+flow: loti | do	dori	hurgu	loti	mun	sundu	ɟisi 
+flow: mun | do	dori	hurgu	loti	mun	sundu	ɟisi 
+flow: sundu | do	dori	hurgu	loti	mun	sundu	ɟisi 
+fly (n.): bimbim 
+fly (n.): hamni 
+fly (v.): dɛši 
+foot: cæ | cæ	kobsi 
+foot: cæ kora | cæ	kobsi 
+foot: kobsi | cæ	kobsi 
+forehead: tɛnga 
+forest: sa¶i | saɖi 
+four: taːʈi 
+fruit: izæ 
+full: bɛrɛndi | to	tona 
+full: sisigi | to	tona 
+full: to | to	tona 
+girl: hondiaw 
+girl: wɛy soga 
+give: no 
+good: aːna | aːna	bono	bɛnta	daːma	gumo	hɛnna 
+good: bɛnta | aːna	bono	bɛnta	daːma	gumo	hɛnna 
+good: bono | aːna	bono	bɛnta	daːma	gumo	hɛnna 
+good: daːma | aːna	bono	bɛnta	daːma	gumo	hɛnna 
+good: gumo | aːna	bono	bɛnta	daːma	gumo	hɛnna 
+good: hɛnna | aːna	bono	bɛnta	daːma	gumo	hɛnna 
+grass: subu 
+green: firzi 
+hair: hamni 
+hand: kaba | kaba	kabe	kamba	kambas	kambe 
+hand: kamba | kaba	kabe	kamba	kambas	kambe 
+hand: ¶uka | kaba	kabe	kamba	kambas	kambe 
+head: boŋ | boŋ	kanši	kobsi 
+head: kanši~kobsi | boŋ	kanši	kobsi 
+hear: ma 
+heart: bina 
+heavy: tinga 
+here: ne 
+he/she: a 
+he/she: nga 
+hit: kar | kar	som	sʴtu	zɛb	žoɛ	žɛu 
+hit: som | kar	som	sʴtu	zɛb	žoɛ	žɛu 
+hit: stu | kar	som	sʴtu	zɛb	žoɛ	žɛu 
+hit: zɛb | kar	som	sʴtu	zɛb	žoɛ	žɛu 
+hit: žɛu~žoɛ | kar	som	sʴtu	zɛb	žoɛ	žɛu 
+hole: botol 
+hole: funi 
+hole: gusu 
+hole: mo 
+hole: ndolla 
+horn: hilli 
+house: garu 
+house: hugu 
+hunt: garɛy | garɛy	ho	wiri 
+hunt: ho | garɛy	ho	wiri 
+hunt: wiri | garɛy	ho	wiri 
+husband: kurɲæ 
+I: agɛy | agɛy	ay	ya	ɛy 
+I: ay | agɛy	ay	ya	ɛy 
+ice: digi 
+I: ɛy | agɛy	ay	ya	ɛy 
+if: nda | nda	wala 
+if: wala | nda	wala 
+in: gan 
+kill: wi 
+knee: kanga | kanNge	kanga	kanje 
+know: bay~bɛy | bay	bɛy 
+leaf: fita | fita	hanga	kauta 
+leaf: hanga | fita	hanga	kauta 
+leaf: kauta | fita	hanga	kauta 
+left: kaba lala | kaba lala	kaba wawa 
+left: kaba wawa | kaba lala	kaba wawa 
+leg: cæ sorongu 
+lie: ganda biri | ganda biri	hanga zor	hangasu	kani	kaŋ 
+lie: hangasu | ganda biri	hanga zor	hangasu	kani	kaŋ 
+lie: hanga zor | ganda biri	hanga zor	hangasu	kani	kaŋ 
+lie: kaŋ | ganda biri	hanga zor	hangasu	kani	kaŋ 
+lie: kani | ganda biri	hanga zor	hangasu	kani	kaŋ 
+lip: mæ bena 
+lip: mæ ganda 
+lip: mæ tu 
+live: huna 
+liver: damal | damal	tasa 
+liver: tasa | damal	tasa 
+long: kuku 
+louse: gani 
+louse: ngumba 
+man: aru | boro	boro kul ši 
+man: aryu | boro	boro kul ši 
+man: boro | boro	boro kul ši 
+many: bobo 
+meat: basi | baši | basi	basi cirɛy	ham	kosokoso 
+meat: baši | baši | basi	basi cirɛy	ham	kosokoso 
+meat: basi cirɛy | baši | basi	basi cirɛy	ham	kosokoso 
+meat: ham | baši | basi	basi cirɛy	ham	kosokoso 
+meat: kosokoso | baši | basi	basi cirɛy	ham	kosokoso 
+moon: handu 
+mother: ɲa | ɲa	ɲango 
+mother: ɲango | ɲa	ɲango 
+mountain: ɟindɛ | tondi 
+mountain: tondi 
+mouth: mæ 
+name: humu | humu	ma 
+nape: cigin 
+nape: safo 
+narrow: kankam 
+navel: ma 
+navel: zammu 
+near: mana 
+neck: ɟindɛ 
+new: soga | taga	tawa	tɛiga 
+new: taga | taga	tawa	tɛiga 
+new: tɛiga | taga	tawa	tɛiga 
+night: kofa | Cigin	Ciji	Cijin	kofa 
+nose: nina | nina	nine 
+nose: nino funɛy | nina	nine 
+old: arkusu 
+old: bɛribɛri 
+old: kasi 
+old: žɛna 
+one: fo 
+other: waːni 
+person: boro kul ši | boro	boro kul ši 
+play: korɛy 
+pull: basu 
+pull: biraw 
+pull: biri 
+pull: bura 
+pull: buttɛndi 
+pull: cɛndi 
+pull: maːsu 
+pull: toːru 
+push: nor 
+push: šita 
+push: taŋ 
+push: tanga 
+push: tasa 
+push: torko 
+push: tuti 
+push: yɛli 
+rain: kaŋ | misi misi	nkiriɲi 
+rain: misi misi | misi misi	nkiriɲi 
+rain: nkiriɲi | misi misi	nkiriɲi 
+rain: poku poku | misi misi	nkiriɲi 
+rat: ncan 
+red: cama | cama	cirɛy	konkon 
+red: cirɛy | cama	cirɛy	konkon 
+red: konkon | cama	cirɛy	konkon 
+right: gumo | kaba	kabe	kamba	kambas	kambe | gumo	šɛrranta 
+right: šɛrranta | kaba	kabe	kamba	kambas	kambe | gumo	šɛrranta 
+river: isa 
+road: fonda | fonda	fondo	lolo 
+root: kaː¶i | kaːɖi	lasal	linɟi 
+root: lasal | kaːɖi	lasal	linɟi 
+root: linɟi | kaːɖi	lasal	linɟi 
+rope: karfu | karfu	kursal	sugɛy	tarwiti	šillɛy 
+rope: kursal | karfu	kursal	sugɛy	tarwiti	šillɛy 
+rope: šillɛy | karfu	kursal	sugɛy	tarwiti	šillɛy 
+rope: sugɛy | karfu	kursal	sugɛy	tarwiti	šillɛy 
+rope: tarwiti | karfu	kursal	sugɛy	tarwiti	šillɛy 
+rotten: fumba 
+round: gurguti 
+rub: koši | koši	žiri	žirkiti 
+rub: žiri | koši	žiri	žirkiti 
+rub: žirkiti | koši	žiri	žirkiti 
+salt: ciri 
+sand: dau taši | dau taši	lab taši 
+sand: lab taši | dau taši	lab taši 
+say: ciːnɛy | har	ne	ʈi | dau taši	lab taši 
+say: dɛdɛ | har	ne	ʈi | dau taši	lab taši 
+say: har | har	ne	ʈi | dau taši	lab taši 
+say: holo | har	ne	ʈi | dau taši	lab taši 
+say: ʈi | har	ne	ʈi | dau taši	lab taši 
+say: kom | har	ne	ʈi | dau taši	lab taši 
+say: ne | har	ne	ʈi | dau taši	lab taši 
+say: šɛlan | har	ne	ʈi | dau taši	lab taši 
+seed: dumarɛy | dumarɛy	fita fita	izæ 
+seed: fita fita | dumarɛy	fita fita	izæ 
+see: di | di	guna	honney 
+seed: izæ | dumarɛy	fita fita	izæ 
+sew: soːga | sorro	soːga	ta 
+sew: sorro | sorro	soːga	ta 
+sew: ta | sorro	soːga	ta 
+short: dumba | dumba	durin 
+short: durin | dumba	durin 
+shoulder: ɟɛsɛ 
+sing: don | don	hæ	tɛrgi 
+sing: hæ | don	hæ	tɛrgi 
+sing: tɛrgi | don	hæ	tɛrgi 
+sister: wɛyma 
+sit: ce koli | ce koli	goro	yofalim 
+sit: goro | ce koli	goro	yofalim 
+sit: yofalim | ce koli	goro	yofalim 
+skin: kobta~kautɛ | kautɛ	kobta	kuru 
+skin: kuru | kautɛ	kobta	kuru 
+sky: bɛna 
+sleep: ¶irbi | ɖirbi 
+small: buna buna | buna buna	dugušu	dumba	izæ	kaʈu	koʈa	kɛyna	tana 
+small: dugušu | buna buna	dugušu	dumba	izæ	kaʈu	koʈa	kɛyna	tana 
+small: dumba | buna buna	dugušu	dumba	izæ	kaʈu	koʈa	kɛyna	tana 
+small: izæ | buna buna	dugušu	dumba	izæ	kaʈu	koʈa	kɛyna	tana 
+small: kaʈu | buna buna	dugušu	dumba	izæ	kaʈu	koʈa	kɛyna	tana 
+small: kɛyna | buna buna	dugušu	dumba	izæ	kaʈu	koʈa	kɛyna	tana 
+small: koʈa | buna buna	dugušu	dumba	izæ	kaʈu	koʈa	kɛyna	tana 
+small: tana | buna buna	dugušu	dumba	izæ	kaʈu	koʈa	kɛyna	tana 
+smoke: dullu | dullu	sunnara 
+smoke: sunnara | dullu	sunnara 
+smooth: yutta 
+snake: gondi | gondi	labo koyo	mir	nsɛy	salamur 
+snake: labo koyo | gondi	labo koyo	mir	nsɛy	salamur 
+snake: mir | gondi	labo koyo	mir	nsɛy	salamur 
+snake: nsɛy | gondi	labo koyo	mir	nsɛy	salamur 
+snake: salamur | gondi	labo koyo	mir	nsɛy	salamur 
+snow: gaːri 
+sour: moːra 
+spit: kotokoto | firsi	tirsi	tufa 
+split: harɟi | harɟi	kortu	kotlu	šan	šɛn 
+split: kotlu~kortu | harɟi	kortu	kotlu	šan	šɛn 
+split: šan | harɟi	kortu	kotlu	šan	šɛn 
+split: šɛn | harɟi	kortu	kotlu	šan	šɛn 
+squeeze: kankam | kankam	ɲuku ɲuku 
+squeeze: ɲuku ɲuku | kankam	ɲuku ɲuku 
+stand: kɛy 
+star: handarɛy | handarey	handarɛy 
+stone: tondi | tondi	tondi dori 
+stone: tondi dori | tondi	tondi dori 
+suck: sumsum 
+sun: wɛyna | weynow	woyna	woynow	wɛyna 
+sweet: yu 
+swell: fusu 
+swim: ži | ži 
+tail: lɛfa | lɛfa	nsufa	sammɛri	somɛru 
+tail: nsufa | lɛfa	nsufa	sammɛri	somɛru 
+tail: sammɛri | lɛfa	nsufa	sammɛri	somɛru 
+tail: somɛru | lɛfa	nsufa	sammɛri	somɛru 
+take: ɲašu 
+take: di 
+take: dogu 
+take: ɲiši 
+take: ka 
+take: kambɛy 
+take: sambu 
+take: ta 
+take: te 
+take: za 
+that: din | din	hɛndi | fo 
+that: hɛndi | din	hɛndi | fo 
+there: no | no	ya 
+there: ya | no	ya 
+they: ɛy | i	ngi 
+they: i | i	ngi 
+they: ngɛy | i	ngi 
+they: ngi | i	ngi 
+thick: tɛfɛy 
+thigh: birbi 
+think: hongu | hongu	tamahã 
+think: tamaha͂ | hongu	tamahã 
+thin: maria | maria	tɛfyu	tɛfɛy tɛfɛy 
+thin: tɛfɛy tɛfɛy | maria	tɛfyu	tɛfɛy tɛfɛy 
+thin: tɛfyu | maria	tɛfyu	tɛfɛy tɛfɛy 
+this: wɛy | wo 
+this: wo 
+thou: n˗ | ma	n	n-	ni 
+thou: ni | ma	n	n-	ni 
+thou: war | ma	n	n-	ni 
+thou: wara | ma	n	n-	ni 
+three: hinza 
+throw: cɛtaw | cɛtaw	yol-nɛndi	ɟindaw 
+throw: ɟindaw | cɛtaw	yol-nɛndi	ɟindaw 
+throw: yol˗nɛndi | cɛtaw	yol-nɛndi	ɟindaw 
+thunder: katiri 
+tie: guli | guli	hau	kanɖi	labu 
+tie: hau | guli	hau	kanɖi	labu 
+tie: kan¶i | guli	hau	kanɖi	labu 
+tie: labu | guli	hau	kanɖi	labu 
+today: ho͂ 
+tomorrow: suba 
+tomorrow: subba 
+tongue: denæ | dena	dene	denæ 
+tooth: hiɲaru | hiNa	hiNe	hine*	hinga	hiɲaru	karkandi	lakal gan 
+tooth: hinga | hiNa	hiNe	hine*	hinga	hiɲaru	karkandi	lakal gan 
+tooth: karkandi | hiNa	hiNe	hine*	hinga	hiɲaru	karkandi	lakal gan 
+tooth: lakal gan | hiNa	hiNe	hine*	hinga	hiɲaru	karkandi	lakal gan 
+tree: turi 
+turn: bɛrɛ 
+turn: ɲeli 
+turn: kilbi 
+turn: kuːbi 
+turn: kurba 
+turn: šinɟi 
+turn: wanga 
+turn: windi 
+turn: zogu 
+two: hinka | hiNka	hinka 
+vagina: buti 
+vagina: buti izæ 
+vagina: dafa izæ 
+vomit: lo¶æ | loɖæ	yɛri 
+vomit: yɛri | loɖæ	yɛri 
+walk: dira | dira	monno	yabi 
+walk: kabay | dira	monno	yabi 
+walk: ko(y) | dira	monno	yabi 
+walk: monno | dira	monno	yabi 
+walk: šangay | dira	monno	yabi 
+walk: šinga | dira	monno	yabi 
+walk: sorro | dira	monno	yabi 
+walk: yabi | dira	monno	yabi 
+walk: zuru | dira	monno	yabi 
+walk: zurzur | dira	monno	yabi 
+warm: honna 
+wash: kusuru | kusuru	sosuru	ɲumay 
+wash: sosuru | kusuru	sosuru	ɲumay 
+wash: ɲumay | kusuru	sosuru	ɲumay 
+water: donu | donu	hari	hari karɛy	haru faru 
+water: hari | donu	hari	hari karɛy	haru faru 
+water: hari karɛy | donu	hari	hari karɛy	haru faru 
+water: haru faru | donu	hari	hari karɛy	haru faru 
+weep: hæ 
+weep: mo hari 
+weep: mundɛy 
+we: ir | ir	iri 
+we: iri | ir	iri 
+wet: taya 
+what: ʈin | mata	maʈin	yakka	ʈin 
+what: maʈin | mata	maʈin	yakka	ʈin 
+what: mata | mata	maʈin	yakka	ʈin 
+what: yakka | mata	maʈin	yakka	ʈin 
+when: kaŋ | kaŋ	wati kaŋ 
+when: wati kaŋ | kaŋ	wati kaŋ 
+where: malla | malla	man 
+where: man | malla	man 
+white: kaːrɛy | kaːrɛy	kwara 
+white: kwara | kaːrɛy	kwara 
+who: may 
+wide: hay 
+wind: heu | heu	kokoru	sarra 
+wind: kokoru | heu	kokoru	sarra 
+wind: sarra | heu	kokoru	sarra 
+wing: fata 
+wipe: tuːsu 
+with: nda 
+woman: kabbu wɛy | kabbu wɛy	wɛy	wɛy hiɟi 
+woman: wɛy | kabbu wɛy	wɛy	wɛy hiɟi 
+woman: wɛy hiɟi | kabbu wɛy	wɛy	wɛy hiɟi 
+wood: bundu 
+wood: firkiti 
+wood: gan¶i 
+wood: gatal 
+wood: gobu 
+wood: korɛy 
+wood: sargilla 
+wood: sumbɛy 
+wood: turi 
+worm: nɟɛri | noni	nɟɛri	sankaræ 
+worm: noni | noni	nɟɛri	sankaræ 
+worm: sankaræ | noni	nɟɛri	sankaræ 
+year: ¶iri | ɖiri 
+yellow: kara | kara	karanta 
+yellow: karanta | kara	karanta 
+yesterday: bi 
+every: kul 
+ash: bonni	borhon	bosu 
+abdomen: gunde	kuna 
+bigness: bambata	bɛbɛri 
+large: bambata	bɛbɛri 
+breasts: fafa	fafu	gande 
+nail: boy	cæboy	kababoy 
+talon: boy	cæboy	kababoy 
+come from: hun	ka	te	zulli 
+be dead: bu 
+dead: bu 
+fly: dɛši 
+fly v.: dɛši 
+left hand: kaba	kabe	kamba	kambas	kambe 
+1 sg.: agɛy	ay	ya	ɛy 
+be knowledgeable: bay	bɛy 
+lie down: ganda biri	hanga zor	hangasu	kani	kaŋ 
+male: aru	aryu	boro 
+much: bobo 
+multiple: bobo 
+several: bobo 
+flesh: baši 
+hill: tondi 
+title: humu	ma 
+nighttime: Cigin	Ciji	Cijin	kofa 
+adulterous: fo 
+single: fo 
+the: fo 
+unprincipled: fo 
+human: boro	boro kul ši 
+human being: boro	boro kul ši 
+rainy weather: misi misi	nkiriɲi 
+path: fonda	fondo	lolo 
+route: fonda	fondo	lolo 
+hide: kautɛ	kobta	kuru 
+little: buna buna	dugušu	dumba	izæ	kaʈu	koʈa	kɛyna	tana 
+smallness: buna buna	dugušu	dumba	izæ	kaʈu	koʈa	kɛyna	tana 
+rock: tondi	tondi dori 
+2 sg: ma	n	n-	ni 
+you: ma	n	n-	ni 
+grind: hiNka	hinka 
+go: dira	monno	yabi 
+1 pl. inc.: ir	iri 
+we₁: ir	iri 
+whiteness: kaːrɛy	kwara 
+who?: may 
+female: kabbu wɛy	wɛy	wɛy hiɟi 
+distant: moːra 
+dull: tinga 
+serious: tinga 
+close: mana 
+ner: mana 
+earthworm: noni	nɟɛri	sankaræ 
+2 pl.: war	wara 
+ye: war	wara 
+you all: war	wara 
+3 pl.: i	ngi 
+where?: malla	man 
+when?: kaŋ	wati kaŋ 
+broad: hay 
+wideness: hay 
+fat: mani 
+his mother: ɲa	ɲango 
+my mother: ɲa	ɲango 
+his father: baba 
+my father: baba 
+woods: saɖi 
+stick: aigali 
+cord: karfu	kursal	sugɛy	tarwiti	šillɛy 
+grease: mani 
+breath: guba	hinhin	hunsar 
+cogitate: hongu	tamahã 
+reflect: hongu	tamahã 
+smell: fɛrrɛ	ma	mate 
+sniff: fɛrrɛ	ma	mate 
+afraid: humburɛy 
+be afraid: humburɛy 
+fright: humburɛy 
+alive: huna 
+be alive: huna 
+life: huna 
+living: huna 
+beat: kar	som	sʴtu	zɛb	žoɛ	žɛu 
+strike: kar	som	sʴtu	zɛb	žoɛ	žɛu 
+hack: doːno	dumbu	fɛʈæ	kottu	telfu	wi	šɛrcɛ 
+cut open: harɟi	kortu	kotlu	šan	šɛn 
+drop: kaŋ	soloklu	zaku	zititi	žɛb	žɛu 
+wring: kankam	ɲuku ɲuku 
+wash clothes: kusuru	sosuru	ɲumay 
+bind: guli	hau	kanɖi	labu 
+fasten: guli	hau	kanɖi	labu 
+tie up: guli	hau	kanɖi	labu 
+enumerate: alasabu	kabu	žimaw 
+number: alasabu	kabu	žimaw 
+tally: alasabu	kabu	žimaw 
+have fun: korɛy 
+brook: isa 
+stream: isa 
+blaze: ton 
+daylight: dirbi	han	hane	hi	hinò	mo 
+daytime: dirbi	han	hane	hi	hinò	mo 
+evil: futa	lala	sarhabuna 
+rot: fumba 
+filthy: žibi 
+soiled: žibi 
+blunt: bu 
+damp: taya 
+right side: gumo	šɛrranta 
+inside: gan 

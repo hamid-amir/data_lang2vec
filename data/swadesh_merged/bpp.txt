@@ -1,0 +1,570 @@
+all: kɔsü | kɔsü 
+all: kosü | kɔsü 
+arm: abera 
+arm: watuabe 
+ashes: sa-mhehae | sa-mhehae	sa-nho	sandəhu	sɛndai 
+ashes: sandehu | sa-mhehae	sa-nho	sandəhu	sɛndai 
+ashes: sa-ndëhu | sa-mhehae	sa-nho	sandəhu	sɛndai 
+ashes: sandəhu | sa-mhehae	sa-nho	sandəhu	sɛndai 
+ashes: sa-nho | sa-mhehae	sa-nho	sandəhu	sɛndai 
+ashes: sendai | sa-mhehae	sa-nho	sandəhu	sɛndai 
+ashes: sɛndai | sa-mhehae	sa-nho	sandəhu	sɛndai 
+back: hamsi 
+bad: sipua\ | sipuaʔ 
+bad: sipuaʔ 
+belly: koal | koal	naxut 
+belly: koit | koal	naxut 
+belly: kɔit | koal	naxut 
+belly: naxut | koal	naxut 
+big: numogoa | numogoa	simbua 
+big: simbua | numogoa	simbua 
+bird: hou | hou	hu	ku 
+bird: hu | hou	hu	ku 
+bird: ku | hou	hu	ku 
+bite: kaptre 
+black: sabi | sabi	sambi	samdetae	sandetu 
+black: sambi | sabi	sambi	samdetae	sandetu 
+black: samdetae | sabi	sambi	samdetae	sandetu 
+black: sandetu | sabi	sambi	samdetae	sandetu 
+blood: hi | hi	kaca	katesa	katsa 
+blood: katesa | hi	kaca	katesa	katsa 
+blood: katsa | hi	kaca	katesa	katsa 
+blow: kasrung | kasruŋ 
+blow: kasruŋ 
+bone: era | era	laq	loa 
+bone: laq | era	laq	loa 
+bone: loa | era	laq	loa 
+branch: we 
+breast: mu | mu	muq 
+breast: muq | mu	muq 
+breathe: kaxne | kaxnɛ 
+breathe: kaxnɛ 
+burn: sai 
+butterfly: pigisi 
+cassowary: kënewa 
+cassowary: kuwi 
+child: du\ | duʔ	nou 
+child: duʔ | duʔ	nou 
+child: nou | duʔ	nou 
+cloud: kete | kete	kɛtɛ 
+cloud: kɛtɛ | kete	kɛtɛ 
+cold: kepuiq | kɛpuiq	pese 
+cold: kɛpuiq | kɛpuiq	pese 
+cold: pese | kɛpuiq	pese 
+come: ambarai | ambarai	gembasa	kahilaq 
+come: gembasa | ambarai	gembasa	kahilaq 
+come: kahilaq | ambarai	gembasa	kahilaq 
+count: kakëlangte | kaləlaŋtɛ 
+count: kaləlaŋtɛ 
+crocodile: heya 
+crocodile: kusei 
+crocodile: vam 
+cut: kapiaŋkɛ 
+day: pei 
+die: kahila | kahila	kahilaŋ 
+die: kahilang | kahila	kahilaŋ 
+die: kahilaŋ | kahila	kahilaŋ 
+dig: kahuli 
+dirty: da 
+dog: se 
+drink: bimesi | bime-si	tamblɛ 
+drink: tamble | bime-si	tamblɛ 
+drink: tamblɛ | bime-si	tamblɛ 
+dry: pesebe | pesebe	pəspait 
+dry: pëspait | pesebe	pəspait 
+dry: pəspait | pesebe	pəspait 
+dust: pongpula | pɔngpula 
+dust: pɔngpula 
+ear: foxlu | foxlu	goklu	huaglüt 
+ear: goklu | foxlu	goklu	huaglüt 
+ear: huaglüt | foxlu	goklu	huaglüt 
+ear: huaglüt | foxlu	goklu	huaglüt 
+earth: ʔe͂ | siŋ	ʔẽ 
+earth: enh | siŋ	ʔẽ 
+earth: i\ | siŋ	ʔẽ 
+earth: iʔ | siŋ	ʔẽ 
+earth: sing | siŋ	ʔẽ 
+earth: siŋ | siŋ	ʔẽ 
+eat: ganasi | gana-si	kadi	kandɛ	mene 
+eat: kadi | gana-si	kadi	kandɛ	mene 
+eat: kande | gana-si	kadi	kandɛ	mene 
+eat: kandɛ | gana-si	kadi	kandɛ	mene 
+eat: mene | gana-si	kadi	kandɛ	mene 
+egg: hore | hore	te	wale 
+egg: te | hore	te	wale 
+egg: wale | hore	te	wale 
+elbow: hwaihui 
+emu: kuwi 
+eye: gewe | gewe	hwai	hwew	püe 
+eye: hwai | gewe	hwai	hwew	püe 
+eye: hwew | gewe	hwai	hwew	püe 
+eye: püe | gewe	hwai	hwew	püe 
+fall: karjela | karǯɛla 
+fall: karǯɛla | karǯɛla 
+far: kulenanehui | kulɛnanɛhui 
+far: kulɛnanɛhui 
+father: daji | daǯi	migye 
+father: daǯi | daǯi	migye 
+father: migye | daǯi	migye 
+fat (n.): kalja 
+fat (n.): kalǯa 
+fat (n.): pehokai 
+fat (n.): pɛhɔkai 
+fear: ho 
+feather: hai 
+few: tauaholein | tauahɔlɛin 
+few: tauahɔlɛin 
+fingernail: waghi | wagi	waxi 
+fingernail: wagi | wagi	waxi 
+fingernail: waxi | wagi	waxi 
+finger: waembeli 
+finger: waɛmbɛli 
+fire: sa | sa	sareN	sareŋ	saureŋ	saʔ 
+fire: sa\ | sa	sareN	sareŋ	saureŋ	saʔ 
+fire: saʔ | sa	sareN	sareŋ	saureŋ	saʔ 
+fire: sareng | sa	sareN	sareŋ	saureŋ	saʔ 
+fire: sareŋ | sa	sareN	sareŋ	saureŋ	saʔ 
+fire: sa(u)re(ng) | sa	sareN	sareŋ	saureŋ	saʔ 
+fish: bi | bi	biula 
+fish: biula | bi	biula 
+five: 2+3 | traŋ-trabik	tɾapli tɾaplisutu 
+five: trang-trabik | traŋ-trabik	tɾapli tɾaplisutu 
+flow: yakəʔ 
+flow: yakï\ | yakəʔ 
+fly (n.): ali 
+fly (v.): kalataru 
+fly (v.): kalatëlu 
+fly (v.): kalatəlu 
+fog: hwagida 
+foot: dowe 
+forest: haibaiba | haibaiba	hapaipa 
+forest: hapaipa | haibaiba	hapaipa 
+four: hursub | hursub	trapli traplit	tɾapli tɾaplit 
+four: trapli traplit | hursub	trapli traplit	tɾapli tɾaplit 
+fruit: kople | kɔple 
+fruit: kɔple 
+full: hamumere | kahiyan 
+full: kahiyan 
+full: nabena | kahiyan 
+give: hambakwa | hambakwa	hambaxu	kakluŋ	kana 
+give: hambaxu | hambakwa	hambaxu	kakluŋ	kana 
+give: kaklung | hambakwa	hambaxu	kakluŋ	kana 
+give: kakluŋ | hambakwa	hambaxu	kakluŋ	kana 
+give: kana | hambakwa	hambaxu	kakluŋ	kana 
+good: arue | arue	aruɛ	sepa 
+good: aruɛ | arue	aruɛ	sepa 
+good: sepa | arue	aruɛ	sepa 
+grass: plouwang | plouwaŋ 
+grass: plouwaŋ 
+green: kotata | kotata	timberkluk 
+green: timberkluk | kotata	timberkluk 
+hair: hai | hai	hat 
+hair: hat | hai	hat 
+hair: kambeli-hai | hai	hat 
+hair: kambɛlihai | hai	hat 
+hand: obla | obla	wabraŋ	watuabe 
+hand: wabrang | obla	wabraŋ	watuabe 
+hand: watuabe | obla	wabraŋ	watuabe 
+head: kasera | kasera	pleŋ	pɔklai 
+head: kas-era | kasera	pleŋ	pɔklai 
+head: pleng | kasera	pleŋ	pɔklai 
+head: pleŋ | kasera	pleŋ	pɔklai 
+head: poklai | kasera	pleŋ	pɔklai 
+head: pɔklai | kasera	pleŋ	pɔklai 
+hear: bogiome | bogiome	kahüla 
+hear: kahüla | bogiome	kahüla 
+hear: kahüla | bogiome	kahüla 
+heart: kaxlit 
+heavy: dija\ | diǯaʔ 
+heavy: diǯaʔ | diǯaʔ 
+he/she: hambahwa 
+he/she: koto 
+he/she: kɔtɔ 
+hit: kakwila 
+hold: kalpela 
+house: ba 
+house: mba 
+husband: dokesai | dɔkɛsai 
+husband: dɔkɛsai 
+in: loxopa 
+I: we | weN	weŋ	wɛ	wẽ 
+I: we͂ | weN	weŋ	wɛ	wẽ 
+I: we˜ | weN	weŋ	wɛ	wẽ 
+I: wɛ | weN	weŋ	wɛ	wẽ 
+I: weng | weN	weŋ	wɛ	wẽ 
+I: weŋ | weN	weŋ	wɛ	wẽ 
+kill: kahu 
+knee: amu 
+know: tawai 
+lake: bihiug | bihuig 
+lake: bihuig 
+leaf: be | be	kala 
+leaf: kala | be	kala 
+left: waitoape | waitoapɛ 
+left: waitoapɛ 
+leg: dowe | dowe	due	duɛ 
+leg: due | dowe	due	duɛ 
+leg: duɛ | dowe	due	duɛ 
+lie: kataiyangse | kataiyaŋsɛ 
+lie: kataiyaŋsɛ 
+lightning: nalainhoi 
+lightning: nalainhɔi 
+live: halia 
+liver: phue 
+liver: p.hue | phue 
+long: hewa 
+louse: mi 
+louse: mi_ 
+louse: minh 
+man: debla | debla	lɛmalɔŋ 
+man: dido | debla	lɛmalɔŋ 
+man: didu\ | debla	lɛmalɔŋ 
+man: diduʔ | debla	lɛmalɔŋ 
+many: kɔsü | kɔsü	ɲahiŋ 
+many: kosü | kɔsü	ɲahiŋ 
+many: nyahing | kɔsü	ɲahiŋ 
+many: nyahiŋ | kɔsü	ɲahiŋ 
+meat: hato 
+moon: gaka | gaka	poka 
+moon: poka | gaka	poka 
+mosquito: tapuwa 
+mosquito: yaboa 
+mosquito: yapuwa 
+mother: nanuan | nanuan	nenoa 
+mother: nenoa | nanuan	nenoa 
+mountain: ehui | iN	iŋ	ɛhui 
+mountain: ɛhui | iN	iŋ	ɛhui 
+mountain: ing | iN	iŋ	ɛhui 
+mountain: iŋ | iN	iŋ	ɛhui 
+mouth: bloküit | bloküit	moklu	moxləb 
+mouth: bloküit | bloküit	moklu	moxləb 
+mouth: moklu | bloküit	moklu	moxləb 
+mouth: moxlëb | bloküit	moklu	moxləb 
+name: bëre | blɛ	bəre	nokomne 
+name: bəre | blɛ	bəre	nokomne 
+name: ble | blɛ	bəre	nokomne 
+name: blɛ | blɛ	bəre	nokomne 
+name: nokomne | blɛ	bəre	nokomne 
+narrow: koketë | kɔkɛtə 
+narrow: kɔkɛtə 
+near: fuaipa | ɸuaipa 
+near: φuaipa | ɸuaipa 
+neck: gewalei | gewalei	tuhuin 
+neck: tuhuin | gewalei	tuhuin 
+new: haria | haria	maria 
+new: maria | haria	maria 
+night: kere | kere	kerĩ	kliŋ 
+night: keri͂ | kere	kerĩ	kliŋ 
+night: kerinh | kere	kerĩ	kliŋ 
+night: kling | kere	kerĩ	kliŋ 
+night: kliŋ | kere	kerĩ	kliŋ 
+nose: gopo | gopo	hab-ərə	hapu 
+nose: hab-ërë | gopo	hab-ərə	hapu 
+nose: hapu | gopo	hab-ərə	hapu 
+not: kaholi | kahɔli	xori 
+not: kahɔli | kahɔli	xori 
+not: xori | kahɔli	xori 
+old: kambarü 
+old: kambarü 
+old: marayuwa 
+one: axutiang | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+one: gogotia | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+one: kaghotia | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+one: kauxja\ | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+one: kauxǯaʔ | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+one: kaxotia | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+one: sagotia | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+one: tauha | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+person: lemalong | debla	lɛmalɔŋ 
+person: lɛmalɔŋ | debla	lɛmalɔŋ 
+play: rua 
+pull: maliau 
+push: kotrë 
+push: kɔtrɛ 
+rain: dei | dei	dɛi 
+rain: dɛi | dei	dɛi 
+rat: day 
+red: katasa | ?katasa	matasa	ti 
+red: matasa (?) | ?katasa	matasa	ti 
+red: ti | ?katasa	matasa	ti 
+right: wainapet | obla	wabraŋ	watuabe | wainapɛt 
+right: wainapɛt | obla	wabraŋ	watuabe 
+river: bikropi | bikrɔpi	simbar 
+river: bikrɔpi | bikrɔpi	simbar 
+river: simbar | bikrɔpi	simbar 
+road: selu 
+road: syalü | selu 
+road: syalü | selu 
+root: tisi 
+root: ti-si | tisi 
+rope: ui | ui	wi 
+rope: wi | ui	wi 
+rotten: tokoni 
+round: logo 
+rub: kasriq 
+salt: poxle | pɔxlɛ 
+salt: pɔxlɛ 
+sand: birse | birsɛ	kuti 
+sand: birsɛ | birsɛ	kuti 
+sand: kuti | birsɛ	kuti 
+say: kabru | birsɛ	kuti 
+scratch: kakwatri 
+sea: poxle 
+sea: pɔxlɛ 
+seed: abola | abola	kwe 
+seed: kwe | abola	kwe 
+see: kahora | kahora	kahula	kokola 
+see: kahula | kahora	kahula	kokola 
+see: kokola | kahora	kahula	kokola 
+sharp: kahia 
+short: tamsi 
+sing: wari 
+sit: namaipa\ | namaipaʔ	namaivaberei	nemaiba 
+sit: namaipaʔ | namaipaʔ	namaivaberei	nemaiba 
+sit: namaiva-barai | namaipaʔ	namaivaberei	nemaiba 
+sit: namaivaberei | namaipaʔ	namaivaberei	nemaiba 
+sit: nemaiba | namaipaʔ	namaivaberei	nemaiba 
+skin: aguli | aguli	ahorei	axlit 
+skin: ahorei | aguli	ahorei	axlit 
+skin: axlit | aguli	ahorei	axlit 
+sky: lɛbü | lɛbü 
+sky: lebü | lɛbü 
+sleep: hei | hei	hei ure	hɛiʔ 
+sleep: hei\ | hei	hei ure	hɛiʔ 
+sleep: hɛiʔ | hei	hei ure	hɛiʔ 
+sleep: hei ure | hei	hei ure	hɛiʔ 
+small: tanya | tanya	tenehel 
+small: tenehel | tanya	tenehel 
+small: tenehl | tanya	tenehel 
+smoke: sabu | bu	sa-bu	sapuŋ 
+smoke: sa-bu | bu	sa-bu	sapuŋ 
+smoke: sapung | bu	sa-bu	sapuŋ 
+smoke: sapuŋ | bu	sa-bu	sapuŋ 
+snake: hai | hai	hay	hei 
+snake: hay | hai	hay	hei 
+snake: hei | hai	hay	hei 
+spit: sui 
+spit: tɔxsü | sui 
+split: kalapula 
+stab: kapiangke | kapiaŋkɛ 
+stand: embatuq | katula 
+stand: katula 
+star: kolipaple | koli-paple	kolipaple	matu-paple 
+star: koli-paple | koli-paple	kolipaple	matu-paple 
+star: matupaple | koli-paple	kolipaple	matu-paple 
+star: matu-paple | koli-paple	kolipaple	matu-paple 
+stick: pokëlu | we 
+stone: tesi | tisi	təsi	tɛsi 
+stone: tësi | tisi	təsi	tɛsi 
+stone: tɛsi | tisi	təsi	tɛsi 
+stone: təsi | tisi	təsi	tɛsi 
+stone: tisi | tisi	təsi	tɛsi 
+straight: kani 
+suck: yalu 
+sun: hafei | hafei	harei	hari 
+sun: harei | hafei	harei	hari 
+sun: hari | hafei	harei	hari 
+swell: kahakgiud 
+swim: bikulɛ | bikulɛ	wabi 
+swim: wabi | bikulɛ	wabi 
+tail: aeija | aeiǯa	buai	buay 
+tail: aeiǯa | aeiǯa	buai	buay 
+tail: buai | aeiǯa	buai	buay 
+tail: buay | aeiǯa	buai	buay 
+take: kalpela 
+that: kotu | kɔtu	mučae	muču | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+that: kɔtu | kɔtu	mučae	muču | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+that: mucae | kɔtu	mučae	muču | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+that: mucu | kɔtu	mučae	muču | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+that: muču | kɔtu	mučae	muču | axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+they: nemblitahaea 
+thick: kapi 
+thin: lëmbe | ləmbe 
+thin: ləmbe 
+this: hato | hato	mato	tu 
+this: mato | hato	mato	tu 
+this: tu | hato	mato	tu 
+thorn: tuwe 
+thou: hane | hane	hanɛ	hato 
+thou: hanɛ | hane	hanɛ	hato 
+thou: hato | hane	hanɛ	hato 
+three: mapi sutu | mapi sutu	trabri-soto	traplisutu	tɾaplisutu 
+three: trabri-soto | mapi sutu	trabri-soto	traplisutu	tɾaplisutu 
+three: traplisutu | mapi sutu	trabri-soto	traplisutu	tɾaplisutu 
+three: trapli-sutu | mapi sutu	trabri-soto	traplisutu	tɾaplisutu 
+throw: kaleke | kalɛke 
+throw: kalɛke 
+thunder: degi 
+thunder: dɛgi 
+tie: kakle 
+tongue: sërëmung | sremu	srumu	sərəmuŋ 
+tongue: sremu | sremu	srumu	sərəmuŋ 
+tongue: srumu | sremu	srumu	sərəmuŋ 
+tooth: sbeye | sbeye	spgai	səbokai	səbəxai 
+tooth: sëbëxai | sbeye	spgai	səbokai	səbəxai 
+tooth: sëbokai | sbeye	spgai	səbokai	səbəxai 
+tooth: səbokai | sbeye	spgai	səbokai	səbəxai 
+tooth: spgai | sbeye	spgai	səbokai	səbəxai 
+tree: dei | te 
+tree: te 
+tree: tei 
+tree: teiɟa 
+tree: teija 
+turn: kanekore\ 
+turn: kanɛkɔrɛʔ 
+two: mapi | mapi	trapi	trapli	trapri	təravərei	tɾapli 
+two: tëravërei | mapi	trapi	trapli	trapri	təravərei	tɾapli 
+two: təravərei | mapi	trapi	trapli	trapri	təravərei	tɾapli 
+two: trapi | mapi	trapi	trapli	trapri	təravərei	tɾapli 
+two: trapli | mapi	trapi	trapli	trapri	təravərei	tɾapli 
+two: trapri | mapi	trapi	trapli	trapri	təravərei	tɾapli 
+vagina: kay (?) 
+vomit: kɔhu 
+walk: katablüt | katablüt	matapo	mositua 
+walk: katablüt | katablüt	matapo	mositua 
+walk: matapo | katablüt	matapo	mositua 
+walk: mositua | katablüt	matapo	mositua 
+warm: hari-sapri 
+warm: saplik | hari-sapri 
+wash: ambauntik | kahatə 
+wash: bikule | kahatə 
+wash: kahatë | kahatə 
+wash: kahatə 
+water: bi | bi	biq	gomesi	mi 
+water: biq | bi	biq	gomesi	mi 
+water: gomesi | bi	biq	gomesi	mi 
+water: mi | bi	biq	gomesi	mi 
+weep: kung 
+weep: kuŋ 
+we (excl.): nɛnɛ 
+we: hati 
+we (incl.): nene 
+we: nene | hati 
+wet: tembar | tɛmbar 
+wet: tɛmbar 
+we: weng | hati 
+what: gwai | gwai	kwa 
+what: kwa | gwai	kwa 
+white: wako | wako	waku 
+white: waku | wako	waku 
+who: kar | kar	keawa 
+who: keawa | kar	keawa 
+wide: kahuitɛhɛ 
+wife: dindai | dindai	nakamre 
+wife: nakamre | dindai	nakamre 
+wind: aprin | aprin	sapli 
+wind: sapli | aprin	sapli 
+wing: tai 
+wipe: ambauntik 
+woman: dae 
+woman: dai\ | dae 
+woman: daiʔ | dae 
+wood: pɔkəlu 
+wood: tei 
+worm: motay 
+yellow: këli | kəli	sambi 
+yellow: kəli | kəli	sambi 
+yellow: sambi | kəli	sambi 
+you: nembliti | hane	hanɛ	hato 
+every: kɔsü 
+ash: sa-mhehae	sa-nho	sandəhu	sɛndai 
+abdomen: koal	naxut 
+bigness: numogoa	simbua 
+large: numogoa	simbua 
+breasts: mu	muq 
+come from: ambarai	gembasa	kahilaq 
+be dead: kahila	kahilaŋ 
+dead: kahila	kahilaŋ 
+ground: siŋ	ʔẽ 
+land: siŋ	ʔẽ 
+soil: siŋ	ʔẽ 
+fly: kalataru	kalatəlu 
+fly v.: kalataru	kalatəlu 
+left hand: obla	wabraŋ	watuabe 
+1 sg.: weN	weŋ	wɛ	wẽ 
+be knowledgeable: tawai 
+lie down: kataiyaŋsɛ 
+head louse: mi 
+male: debla	dido 
+much: kɔsü	ɲahiŋ 
+multiple: kɔsü	ɲahiŋ 
+several: kɔsü	ɲahiŋ 
+hill: iN	iŋ	ɛhui 
+title: blɛ	bəre	nokomne 
+nighttime: kere	kerĩ	kliŋ 
+adulterous: axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+single: axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+the: axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+unprincipled: axutiaŋ	gogotia	kauxjaʔ	kauxǯaʔ	kaxotia	sagotia	tauha 
+human: debla	lɛmalɔŋ 
+human being: debla	lɛmalɔŋ 
+rainy weather: dei	dɛi 
+path: selu 
+route: selu 
+hide: aguli	ahorei	axlit 
+little: tanya	tenehel 
+smallness: tanya	tenehel 
+rock: tisi	təsi	tɛsi 
+2 sg: hane	hanɛ	hato 
+grind: mapi	trapi	trapli	trapri	təravərei	tɾapli 
+go: katablüt	matapo	mositua 
+hot: hari-sapri 
+1 pl. inc.: hati 
+we₁: hati 
+whiteness: wako	waku 
+who?: kar	keawa 
+female: dae 
+distant: kulɛnanɛhui 
+dull: diǯaʔ 
+serious: diǯaʔ 
+close: ɸuaipa 
+ner: ɸuaipa 
+earthworm: motay 
+3 sg.: hambahwa 
+he: hambahwa 
+she: hambahwa 
+2 pl.: nembliti 
+ye: nembliti 
+you all: nembliti 
+3 pl.: nemblitahaea 
+broad: kahuitɛhɛ 
+wideness: kahuitɛhɛ 
+fat: kapi 
+principal wife: dindai	nakamre 
+his mother: nanuan	nenoa 
+my mother: nanuan	nenoa 
+his father: daǯi	migye 
+my father: daǯi	migye 
+woods: haibaiba	hapaipa 
+cord: ui	wi 
+flesh: hato 
+claw: wagi	waxi 
+nail: wagi	waxi 
+breath: kaxnɛ 
+alive: halia 
+be alive: halia 
+life: halia 
+living: halia 
+beat: kakwila 
+strike: kakwila 
+cut open: kalapula 
+pierce: kapiaŋkɛ 
+drop: karǯɛla 
+wash clothes: kahatə 
+bind: kakle 
+fasten: kakle 
+tie up: kakle 
+enumerate: kaləlaŋtɛ 
+number: kaləlaŋtɛ 
+tally: kaləlaŋtɛ 
+have fun: rua 
+brook: bikrɔpi	simbar 
+stream: bikrɔpi	simbar 
+blaze: sai 
+evil: sipuaʔ 
+rot: tokoni 
+filthy: da 
+soiled: da 
+blunt: hotoi 
+damp: tɛmbar 
+right side: wainapɛt 

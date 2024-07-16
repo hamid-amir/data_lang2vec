@@ -1,0 +1,979 @@
+all: gʷun | guŋ 
+all: guŋ 
+all: kɛ\woma | guŋ 
+all: koːwa | guŋ 
+all: wulɛn | guŋ 
+ashes: fowa | wofa 
+ashes: (mɛ)ofa | wofa 
+ashes: mfa | wofa 
+ashes: oːfa | wofa 
+ashes: wofa 
+ashes: wofaː 
+back: boŋgwa 
+back: bɔŋwa | boŋgwa 
+back: buŋuwa | boŋgwa 
+back: cica | boŋgwa 
+bad: dunnesaː | məmbəgima 
+bad: gəntsɪma | məmbəgima 
+bad: gɪnsɪma | məmbəgima 
+bad: məmbəgima 
+bark: ɓəɓ | ɓəba 
+bark: b\ɛb\a | ɓəba 
+bark: b\ɛb\aː | ɓəba 
+bark: ɓəba 
+bark: bema | ɓəba 
+bark: b\əp\a | ɓəba 
+bark: siyaː | ɓəba 
+because: gɛtse 
+because: kə˗ | gɛtse 
+because: kənse˗ | gɛtse 
+belly: ila 
+belly: iːla | ila 
+belly: ílà | ila 
+belly: ilaʔu 
+belly: iːlə | ila 
+belly: ilwaː | ila 
+belly: yila 
+big: bɛːbɛ\k\oma | bəbəkuma 
+big: bəbəkuma 
+big: bɛšɛːk | bəbəkuma 
+big: bɛšɛːkə | bəbəkuma 
+big: m\bog\ɪma | bəbəkuma 
+big: obɛts\ | bəbəkuma 
+big: oboma | bəbəkuma 
+bird: ɟɪdat 
+bird: mera˗gɪziya 
+bird: meta˗guzza 
+bird: mitiː 
+bird: mɪta 
+bite: ˗idya | -idya	kʼəŋ 
+bite: k\əŋ | -idya	kʼəŋ 
+bite: k\ɛŋ | -idya	kʼəŋ 
+bite: ˗k\ɨŋ | -idya	kʼəŋ 
+black: ma\ħiːma | məhiːma 
+black: makhima | məhiːma 
+black: məhiːma 
+black: mɛ\ŋima | məhiːma 
+black: məxeːma | məhiːma 
+black: məxiːma | məhiːma 
+blood: maha 
+blood: mɛha | maha 
+blood: mɛ\ha | maha 
+blood: məxa | maha 
+blood: məxaː | maha 
+blow: fuc | -idya	fucʼ 
+blow: fuc\ | -idya	fucʼ 
+blow: ˗idya | -idya	fucʼ 
+bone: žɛkwa | žɔkwa 
+bone: žəkwa | žɔkwa 
+bone: žɔkwa | žɔkwa 
+breast: kua | kuːwa 
+breast: kuwa | kuːwa 
+breast: kuːwa 
+breast: kuːwɛ | kuːwa 
+breathe: šəkw | šəkw	šəkwudyə 
+breathe: šəkwudyə | šəkw	šəkwudyə 
+breathe: šuxw | šəkw	šəkwudyə 
+burn: ˗ɟesɛc 
+burn: ges 
+burn: gisigya 
+burn: giːs(iɟ)uk\w 
+burn: ˗sɛč 
+burn: ˗tsɨbʲ 
+child: diːda | diːda	dua 
+child: dua | diːda	dua 
+child: duc\a | diːda	dua 
+child: duwa | diːda	dua 
+claw: ɓuk\wɛlɛ | kʼətsitsa 
+claw: k\ətsitsa | kʼətsitsa 
+claw: kotecuwoː | kʼətsitsa 
+claw: k\ʷɔts\itsa | kʼətsitsa 
+claw: k\uːtsitsa | kʼətsitsa 
+claw: k\utsɪtsa | kʼətsitsa 
+claw: k\wɔts\itsa | kʼətsitsa 
+cloud: baːpula 
+cloud: daːwzba 
+cloud: gyɛxamba 
+cloud: k\uda 
+cloud: masingala 
+cold: ɓiŋyima | gidida	məpʼiɲima 
+cold: gɪdɪda | gidida	məpʼiɲima 
+cold: gɪ\diːda | gidida	məpʼiɲima 
+cold: gidida | gidida	məpʼiɲima 
+cold: gidiːda | gidida	məpʼiɲima 
+cold: gidiːdda | gidida	məpʼiɲima 
+cold: məp\iɲima | gidida	məpʼiɲima 
+come: waːy | we	wodye 
+come: we | we	wodye 
+come: ˗we | we	wodye 
+come: weː | we	wodye 
+come: wodye | we	wodye 
+correct: daːgax | kʼɔtɔkɔcima	mənžošima 
+correct: kiŋgiša | kʼɔtɔkɔcima	mənžošima 
+correct: k\ɔtɔkɔcima | kʼɔtɔkɔcima	mənžošima 
+correct: mənžošima | kʼɔtɔkɔcima	mənžošima 
+count: nzɛŋ | nzeŋɪty	nzəŋidyɪts 
+count: nzəŋidyɪts | nzeŋɪty	nzəŋidyɪts 
+count: nzeŋɪty | nzeŋɪty	nzəŋidyɪts 
+cut: ˗dya | -dya	kʼyɛr 
+cut: ˗kɔš | -dya	kʼyɛr 
+cut: k\ɔs | -dya	kʼyɛr 
+cut: k\yɛr | -dya	kʼyɛr 
+cut: mɪšɛma | -dya	kʼyɛr 
+cut: šaxɔ | -dya	kʼyɛr 
+cut: ši | -dya	kʼyɛr 
+daughter: diːdi daːgona 
+daughter: du˗doguna 
+daughter: ŋgafa diːda 
+daughter: ngufa duwa 
+day: maːka | maːŋwa 
+day: maːŋwa 
+day: mayka | maːŋwa 
+day: oka | maːŋwa 
+die: daš | ša	šigya 
+die: ˗š | ša	šigya 
+die: ša | ša	šigya 
+die: šaː | ša	šigya 
+die: šigya | ša	šigya 
+dig: ˗idya | -idya	kʼɔš 
+dig: k\ɔš | -idya	kʼɔš 
+dig: k\wɔš | -idya	kʼɔš 
+dirty: gaxiːya | məmbəgima 
+dirty: məmbəgima 
+dog: k\ɛwa | kʼowa 
+dog: koa | kʼowa 
+dog: k\owa | kʼowa 
+dog: (mə˗)k\owa | kʼowa 
+dog: qaːwa | kʼowa 
+drink: ˗fɨ | fa	fidya 
+drink: fa | fa	fidya 
+drink: feː | fa	fidya 
+drink: fekya | fa	fidya 
+drink: fidya | fa	fidya 
+dry: gəncəʔoma 
+dry: mɪcoma 
+dry: mɪ\čoma 
+dry: mɛkeʔema 
+dry: mɛkyeːma 
+dry: mikyeʔema 
+dry: mɪkʲɛʔema 
+dust: mpula | nea 
+dust: nea 
+dust: rɪra | nea 
+ear: s\ea | tsʼea 
+ear: s\eːma | tsʼea 
+ear: s\eːwu | tsʼea 
+earth: eba 
+earth: enea 
+earth: enneah 
+earth: nɗea 
+earth: nea 
+earth: nʔea 
+earth: nia 
+ear: ts\ea | tsʼea 
+ear: ts\eːa | tsʼea 
+eat: eŋ | sa	sigya 
+eat: mas | sa	sigya 
+eat: sa | sa	sigya 
+eat: ˗sɛ | sa	sigya 
+eat: sigya | sa	sigya 
+eat: tsa | sa	sigya 
+egg: ičča | iša 
+egg: iša | iša 
+egg: iši˗mita | iša 
+egg: i\šɪmta | iša 
+egg: miːši˗mita | iša 
+egg: ɪ\šɪmta | iša 
+eye: ča | litya 
+eye: cya | litya 
+eye: ilc\uwa | litya 
+eye: iliːca | litya 
+eye: iliːča | litya 
+eye: illikuma | litya 
+eye: lʲiča | litya 
+eye: litya 
+eye: miː˗liːca | litya 
+fall: ˗beʔ | beː	beːdya 
+fall: beː(dya) | beː	beːdya 
+fall: dab | beː	beːdya 
+far: bɛk\yɛt | bɛkʼyɛt 
+far: c\ɪbɪt | bɛkʼyɛt 
+far: məxətəma | bɛkʼyɛt 
+father: aba | babokwa	baːba	mbabukwa 
+father: baːba | babokwa	baːba	mbabukwa 
+father: babbi | babokwa	baːba	mbabukwa 
+father: babokwa | babokwa	baːba	mbabukwa 
+father: babuʷa | babokwa	baːba	mbabukwa 
+father: mbabukwa | babokwa	baːba	mbabukwa 
+father: (mə˗)babuwa | babokwa	baːba	mbabukwa 
+fat (n.): saːgwa 
+fat (n.): sawgawa 
+fat (n.): sawgwa 
+fat (n.): səːgwa 
+fear: ˗dya 
+fear: get\eːgwa 
+fear: gɛt\eya 
+fear: t\e 
+feather: beː˗ | beːkʼwa 
+feather: beːk\wa | beːkʼwa 
+few: didiba 
+few: ˗idila | didiba 
+fight: ˗idya | -idya	maːša 
+fight: maːša | -idya	maːša 
+fight: maːše | -idya	maːša 
+fire: maːnɟa | mandya 
+fire: manɟaː | mandya 
+fire: mandya 
+fire: maːnǯa | mandya 
+fire: manǯa | mandya 
+fish: goːša | ɪwaha	ɪwha 
+fish: goša | ɪwaha	ɪwha 
+fish: ɪw(a)ha | ɪwaha	ɪwha 
+fish: wʊha | ɪwaha	ɪwha 
+fish: wuŋa | ɪwaha	ɪwha 
+five: makwoːsa | mɛkus 
+five: ma(n)kus | mɛkus 
+five: mɛkus 
+five: mək\us | mɛkus 
+flower: bola | boːla 
+flower: boːla 
+flower: bɔlla | boːla 
+flower: buːrma | boːla 
+fly (n.): mbea 
+fly (n.): m\bea 
+fog: k\uda 
+foot: cogwa | cogwa	gicogwa 
+foot: čogwa | cogwa	gicogwa 
+foot: čoːgwa | cogwa	gicogwa 
+foot: (gi)cogwa | cogwa	gicogwa 
+foot: s\ogu | cogwa	gicogwa 
+foot: ǯičɛwa | cogwa	gicogwa 
+forest: dɪgzia | dɪgzia	lɪgzia 
+forest: eli˗gɪziya | dɪgzia	lɪgzia 
+forest: ilɟa | dɪgzia	lɪgzia 
+forest: lɪgzia | dɪgzia	lɪgzia 
+four: anzaːca | nzac	nzic 
+four: ənzic | nzac	nzic 
+four: nzac | nzac	nzic 
+four: nzic | nzac	nzic 
+four: nziːkya | nzac	nzic 
+four: zaʔaca | nzac	nzic 
+fruit: gɛdɛha | kyiɟya	yidikyiɟya 
+fruit: mamidam | kyiɟya	yidikyiɟya 
+fruit: (yidi)kyiɟya | kyiɟya	yidikyiɟya 
+full: mɪc\ug\ɪma | mityityikuma 
+full: mic\ok\uma | mityityikuma 
+full: mityityikuma 
+give: ča | tya	tyidya 
+give: c\a | tya	tyidya 
+give: cɪka | tya	tyidya 
+give: kʲe | tya	tyidya 
+give: tay | tya	tyidya 
+give: tya | tya	tyidya 
+give: tyidya | tya	tyidya 
+good: araːngo | gəšɛlɪma 
+good: bagaham | gəšɛlɪma 
+good: dagəh | gəšɛlɪma 
+good: dagəx | gəšɛlɪma 
+good: dogwonema | gəšɛlɪma 
+good: gəšɛlɪma | gəšɛlɪma 
+good: gɪšama | gəšɛlɪma 
+good: gɪšɛːrma | gəšɛlɪma 
+good: gɪ\šɪlɪma | gəšɛlɪma 
+good: məgəhəma | gəšɛlɪma 
+good: mɛrsɛma | gəšɛlɪma 
+grass: gezea | gɪzɪa 
+grass: gizigh | gɪzɪa 
+grass: giziːya | gɪzɪa 
+grass: gɪzɪa 
+grass: gɪ\žia | gɪzɪa 
+grass: gɪ\ziːʔa | gɪzɪa 
+grass: sɛɗea | gɪzɪa 
+guts: boːsa 
+guts: eluma | boːsa 
+guts: ilmaː | boːsa 
+guts: kiːla | boːsa 
+hair: beːkwa | beːkʼwa 
+hair: beːk\wa | beːkʼwa 
+hair: beːkwaː | beːkʼwa 
+hair: bek\wa | beːkʼwa 
+hand: ela | ela	era 
+hand: eːla | ela	era 
+hand: ɛla | ela	era 
+hand: era | ela	era 
+hand: eːrɛ | ela	era 
+hand: meːla | ela	era 
+head: ilku | lukʼwa 
+head: ilukwa | lukʼwa 
+head: iːlukwa | lukʼwa 
+head: luːk\ʷa | lukʼwa 
+head: luk\wa | lukʼwa 
+head: mi˗ | lukʼwa 
+head: yiluk\wa | lukʼwa 
+hear: ˗gɛs | gəsədyuːk	gəsəkʼu 
+hear: gəsədyuːk | gəsədyuːk	gəsəkʼu 
+hear: gəsək\u | gəsədyuːk	gəsəkʼu 
+hear: gɛ\sɛwk\w | gəsədyuːk	gəsəkʼu 
+hear: gɛsoːk\ʷ | gəsədyuːk	gəsəkʼu 
+heart: kʊːnza | kʼubitsa 
+heart: k\ubitsa | kʼubitsa 
+heart: k\ubit̪sa | kʼubitsa 
+heart: kuɓitsa | kʼubitsa 
+heart: k\ubɪtsa | kʼubitsa 
+heart: k\uzɛ | kʼubitsa 
+heart: s\okonzu | kʼubitsa 
+heavy: gɪšiya | mɪšikʼima 
+heavy: mɪšik\ima | mɪšikʼima 
+here: nəga | nəgaʔ 
+here: nɛga | nəgaʔ 
+here: nəgaʔ 
+he/she: aː 
+he/she: ah ~ ax 
+he/she: ahʷo 
+he/she: ana 
+he/she: yad 
+hit: ac | -iɟa	x 
+hit: ˗bəc | -iɟa	x 
+hit: ˗iɟa | -iɟa	x 
+hit: x | -iɟa	x 
+hold: ɗaːk\u | -dya	ɗaːkʼu 
+hold: dar | -dya	ɗaːkʼu 
+hold: ˗dya | -dya	ɗaːkʼu 
+hold: kɪŋk\w | -dya	ɗaːkʼu 
+hold: ŋarok\w | -dya	ɗaːkʼu 
+horn: dʲuːk\a | dyukwa 
+horn: dyukwa 
+horn: k\ɛla | dyukwa 
+horn: komaː | dyukwa 
+horn: ɟuːk\wa | dyukwa 
+horn: ǯuːkwa | dyukwa 
+how: e | eyabe 
+how: eːlɪba | eyabe 
+how: eyabe 
+hunt: ɓaːx | -idya	ɓaːx 
+hunt: ˗idya | -idya	ɓaːx 
+hunt: ˗kəc | -idya	ɓaːx 
+husband: alema | gagunza	gunza 
+husband: desuwa | gagunza	gunza 
+husband: (ga)gunza | gagunza	gunza 
+husband: gunza | gagunza	gunza 
+I: aːd\a | ara	aɗa 
+I: adaː | ara	aɗa 
+I: aɗa ~ ara | ara	aɗa 
+I: æra | ara	aɗa 
+I: ara | ara	aɗa 
+in: nili˗ | nili- 
+kill: šɛdyidyuk | šəkʼwa	šɛdyidyuk 
+kill: šək\wa | šəkʼwa	šɛdyidyuk 
+kill: ˗šoːkʷ | šəkʼwa	šɛdyidyuk 
+kill: šok\ʷ | šəkʼwa	šɛdyidyuk 
+kill: šoːk\u | šəkʼwa	šɛdyidyuk 
+kill: ˗šoːk\w | šəkʼwa	šɛdyidyuk 
+knee: k\ʷɔčiːčukwa | kumbərə	kʼucyicyokwa 
+knee: kʷučučukwa | kumbərə	kʼucyicyokwa 
+knee: k\ucyicyokwa | kumbərə	kʼucyicyokwa 
+knee: kumbərə | kumbərə	kʼucyicyokwa 
+knee: k\wɔciː˗cukwa | kumbərə	kʼucyicyokwa 
+know: azəxw | -idya	gəm 
+know: gəm | -idya	gəm 
+know: gɛm | -idya	gəm 
+know: gɛm˗ | -idya	gəm 
+know: ˗idya | -idya	gəm 
+know: ˗zəx | -idya	gəm 
+lake: gəma | kurma 
+lake: kurma 
+lake: tulla | kurma 
+laugh: alo | -dya	alo 
+laugh: ˗dya | -dya	alo 
+laugh: šɛtsɪ | -dya	alo 
+leaf: s\ɛnǯa | tsʼidya 
+leaf: s\iːndʲa | tsʼidya 
+leaf: siŋgya | tsʼidya 
+leaf: sɪnǯa | tsʼidya 
+leaf: ts\idya | tsʼidya 
+left: ela˗dica | ɛra dɛkya 
+left: ɛra dɛkya 
+left: rit\ya | ɛra dɛkya 
+left: ydequɟa | ɛra dɛkya 
+leg: cogwa | cogwa	gicogwa 
+leg: c\uggumaː | cogwa	gicogwa 
+leg: (gi)cogwa | cogwa	gicogwa 
+leg: ɟicəgwa | cogwa	gicogwa 
+lie: adgəc\orts 
+lie: žɪgɪdyɪts 
+lie: žɪgɪts 
+lie: žigits 
+live: bəc\ɛdyiš | bəcɛš	bəcʼɛdyiš 
+live: bəcɛš | bəcɛš	bəcʼɛdyiš 
+live: i | bəcɛš	bəcʼɛdyiš 
+live: ˗iš | bəcɛš	bəcʼɛdyiš 
+liver: andiya 
+liver: bɪfa | andiya 
+liver: k\ubits\a | andiya 
+liver: suːnka | andiya 
+long: gərɗama | məzeːməma 
+long: mɛ\guma | məzeːməma 
+long: mɛtɛza | məzeːməma 
+long: mɛzeːma | məzeːməma 
+long: məzeːməma 
+long: muttuzma | məzeːməma 
+louse: guɗya 
+louse: sukuna 
+louse: sukuːna 
+louse: t\ɛŋwa 
+louse: tsukuːna 
+man: baːxa | bəga 
+man: bɛga | bəga 
+man: gunza | bəga 
+many: ˗dəga | mityityikuma 
+many: d\əga | mityityikuma 
+many: mec\ec\umaː | mityityikuma 
+many: mɛ\č\ič\uk\uːma | mityityikuma 
+many: mityityikuma 
+many: omɛnǯɪma | mityityikuma 
+many: wulɛn | mityityikuma 
+meat: bɪca 
+meat: bɪč\a | bɪca 
+meat: bɨč\a | bɪca 
+meat: bɪc\a | bɪca 
+meat: bɪc\aː | bɪca 
+meat: bɛ\č\a | bɪca 
+moon: beɟa | bidya 
+moon: ɓiɟa | bidya 
+moon: bidya 
+moon: biya | bidya 
+moon: b\iǯa | bidya 
+moon: b\iǯ\a | bidya 
+moon: b\iǯaː | bidya 
+mother: ea | meːma	yaːta	ɛmeyayu 
+mother: ɛmeyayu | meːma	yaːta	ɛmeyayu 
+mother: eːya | meːma	yaːta	ɛmeyayu 
+mother: iyo | meːma	yaːta	ɛmeyayu 
+mother: iyu | meːma	yaːta	ɛmeyayu 
+mother: meːma | meːma	yaːta	ɛmeyayu 
+mother: meːya | meːma	yaːta	ɛmeyayu 
+mother: yaːta | meːma	yaːta	ɛmeyayu 
+mother: yaːya | meːma	yaːta	ɛmeyayu 
+mountain: bɛ\gɛmb\a | kotogwa 
+mountain: damugha | kotogwa 
+mountain: fir | kotogwa 
+mountain: geša | kotogwa 
+mountain: k\irža | kotogwa 
+mountain: kotogwa 
+mountain: k\wamo | kotogwa 
+mountain: k\wɔntuwa | kotogwa 
+mountain: moːʔa | kotogwa 
+mouth: beːsa | lisa 
+mouth: lisa 
+mouth: lɪːsa | lisa 
+mouth: simaː | lisa 
+mouth: suwa | lisa 
+mouth: yilisa 
+mouth: yiliːsa | lisa 
+name: s\ea | tsʼea 
+name: s\iwa | tsʼea 
+name: ts\ea | tsʼea 
+narrow: daːkʰwaːnzuku | maxatiːlima 
+narrow: gak\əbɪts\a | maxatiːlima 
+narrow: maxatiːlima 
+near: ɗic 
+near: ɗicɛ 
+near: rɪce | ɗic 
+neck: biwaː | ɓiya 
+neck: b\iya | ɓiya 
+neck: ɓiya 
+neck: gɪɓiya 
+neck: g\ibiya | ɓiya 
+new: alɪ\čɪa 
+new: aziːɛma 
+new: hara 
+new: kikʲɨma 
+new: kikyema 
+night: magakwe | məgaːkwa 
+night: mɛː\gaːkwa | məgaːkwa 
+night: məgaːkwa 
+night: (mə)məgaːkwa 
+not: aːk\wa 
+not: ˗aŋgo 
+not: bac\˗am 
+not: haːŋgwo 
+not: men 
+old: gaːnza 
+old: gaːza 
+old: gazza 
+old: guːnza 
+old: mɪnc\ɪšɪma 
+one: meta | metam 
+one: metam 
+one: meːtam | metam 
+one: metaː(m) | metam 
+one: mital | metam 
+one: mɪta | metam 
+one: mɨ\ta | metam 
+other: gɛnda 
+other: gɪnda | gɛnda 
+other: gɨnda | gɛnda 
+other: ɟindaː | gɛnda 
+other: ǯɪnda | gɛnda 
+other: ǯɪn\da | gɛnda 
+person: bag(aː) | bəga 
+person: baːha | bəga 
+person: bəga 
+person: guenza | bəga 
+person: gunzaː | bəga 
+person: iːrɛ | bəga 
+play: aːsi | -idya	aːssi 
+play: aːssi | -idya	aːssi 
+play: ˗idya | -idya	aːssi 
+pull: ɟirr 
+pull: tseːdyits 
+pull: tseːts 
+push: gək 
+push: ˗idya 
+push: ˗tət 
+rain: dama 
+rain: damma | dama 
+rain: deʔma | dama 
+rain: dɛma | dama 
+rain: dəma | dama 
+rain: dəmma | dama 
+red: luʔe | mɔweːtsɛma 
+red: meːyuma | mɔweːtsɛma 
+red: mɔweːtsɛma 
+red: moːweːts\ɪma | mɔweːtsɛma 
+red: mɪreːma | mɔweːtsɛma 
+red: mreːma | mɔweːtsɛma 
+red: muyeːmuː | mɔweːtsɛma 
+red: ye˗mɛha | mɔweːtsɛma 
+right: ela˗gwɪnza | ela	era | ɛra gunza 
+right: ɛra gunza | ela	era 
+right: gunza | ela	era | ɛra gunza 
+right: yagowanza | ela	era | ɛra gunza 
+river: eligica 
+river: epuc\a 
+river: ilgica 
+river: iligwa 
+river: iligwica 
+road: caŋgəha 
+road: čaːngɔxa 
+road: cingagha 
+road: kyancuwa 
+road: n\do 
+road: ndoa 
+road: s\onaʔa 
+road: s\oɲuha 
+road: t̪ɛha 
+road: tyaːŋga 
+root: mboxa | tixa	tixəma 
+root: tarighia | tixa	tixəma 
+root: t̪ɛha | tixa	tixəma 
+root: tirigiya | tixa	tixəma 
+root: tixa | tixa	tixəma 
+root: tixəma | tixa	tixəma 
+root: tɪʔnɪǯa | tixa	tixəma 
+root: tɨxa | tixa	tixəma 
+rope: sia | siya 
+rope: siya 
+rope: siːya | siya 
+rotten: ɗayea | meyaʔama 
+rotten: meyaʔama 
+round: gandiŋa | maluː-lukoma 
+round: maluː˗lukoma | maluː-lukoma 
+round: mɪɗiɗibuːma | maluː-lukoma 
+round: mɪleŋyeha | maluː-lukoma 
+rub: ɓəɓɔ | -idya	kahat 
+rub: ˗idya | -idya	kahat 
+rub: kahat | -idya	kahat 
+salt: səŋa 
+salt: singa | səŋa 
+sand: saː\sɪma | saːsɪma 
+sand: saːsɪma 
+sand: sasɪma | saːsɪma 
+say: daŋeše | kəl	kəldya | saːsɪma 
+say: deː | kəl	kəldya | saːsɪma 
+say: ˗ka | kəl	kəldya | saːsɪma 
+say: ˗kəl | kəl	kəldya | saːsɪma 
+say: k\ɛl | kəl	kəldya | saːsɪma 
+say: kəl(dya) | kəl	kəldya | saːsɪma 
+say: kɛrr | kəl	kəldya | saːsɪma 
+scratch: k\ɔhɔts\ | kʼɔhɔtsʼ 
+scratch: k\ɔhɔts\xw | kʼɔhɔtsʼ 
+seed: cɪgɛtiyɛ 
+seed: fəzɛnea | cɪgɛtiyɛ 
+seed: kyɛma | cɪgɛtiyɛ 
+seed: šoka | cɪgɛtiyɛ 
+seed: šoːka | cɪgɛtiyɛ 
+seed: t\erraba | cɪgɛtiyɛ 
+see: ˗gɛm | yiːɗ	yiːɗidya 
+see: gɪme | yiːɗ	yiːɗidya 
+see: ʡir | yiːɗ	yiːɗidya 
+see: ˗wirr | yiːɗ	yiːɗidya 
+see: yiːɗ(idya) | yiːɗ	yiːɗidya 
+see: yirr | yiːɗ	yiːɗidya 
+sew: cim | cɪm 
+sew: cɪm 
+sew: k\wɔšɛ | cɪm 
+sharp: məcəkɛsɛma | muitisɪma 
+sharp: miːtɛma | muitisɪma 
+sharp: muitisɪma 
+sharp: ɔːməma | muitisɪma 
+short: bəːpa | mbərma 
+short: dap\əl | mbərma 
+short: duqua | mbərma 
+short: mbələma | mbərma 
+short: mbərma 
+sing: baŋ | geʔe	geʔedya 
+sing: eʔ | geʔe	geʔedya 
+sing: ˗ɛːʔɛ | geʔe	geʔedya 
+sing: gaɲ | geʔe	geʔedya 
+sing: geʔe(dya) | geʔe	geʔedya 
+sit: ˗beʔ˗iš | iɟiš	iːš 
+sit: iɟiš | iɟiš	iːš 
+sit: ʔiš | iɟiš	iːš 
+sit: ˗iš | iɟiš	iːš 
+sit: iːš | iɟiš	iːš 
+sit: iš | iɟiš	iːš 
+skin: bea 
+skin: beːja | bea 
+skin: beːma | bea 
+skin: beːya | bea 
+skin: biah | bea 
+sky: goːzaː | loːka 
+sky: guezaː | loːka 
+sky: ilguza | loːka 
+sky: iliguza | loːka 
+sky: ili˗gwo˗za | loːka 
+sky: loːka 
+sleep: ɟi | žɪg 
+sleep: žɪg | žɪg 
+sleep: ˗ži | žɪg 
+sleep: ži | žɪg 
+sleep: ziɟ | žɪg 
+sleep: žiːč | žɪg 
+small: diːduma | duduːma	edubaʔ 
+small: duduːma | duduːma	edubaʔ 
+small: dus\iǯɪn | duduːma	edubaʔ 
+small: duts\ɪk\ɪn | duduːma	edubaʔ 
+small: edubaʔ | duduːma	edubaʔ 
+small: tec\en | duduːma	edubaʔ 
+smell: ˗ciŋ | fuːŋɪgɪts	fuːŋɪts 
+smell: fɪnts | fuːŋɪgɪts	fuːŋɪts 
+smoke: d\uːkwa | ɗuːkwa 
+smoke: d\uk\wa | ɗuːkwa 
+smoke: ɗuːkwa 
+smoke: suŋwa | ɗuːkwa 
+smoke: tukwa | ɗuːkwa 
+smooth: mbɛbɛma | mpəpərɪma 
+smooth: mɛlɛʔema | mpəpərɪma 
+smooth: mpəpərɪma 
+snake: hola 
+snake: hoːra | hola 
+snake: k\olla | hola 
+snake: x\wola | hola 
+son: diːdag gunza 
+son: dugunza 
+son: dugunzaː 
+son: gwagwɪnze 
+split: ɓek\ | bəkʼ 
+split: bək\ | bəkʼ 
+split: ɛtuil | bəkʼ 
+split: mɛtuma | bəkʼ 
+squeeze: t\aːnc\ | tʼaːncʼ 
+squeeze: ˗žit\ | tʼaːncʼ 
+stand: hɪʔi | iː	iːdya 
+stand: i | iː	iːdya 
+stand: ˗ičo | iː	iːdya 
+stand: ˗icogw | iː	iːdya 
+stand: ičukʷ | iː	iːdya 
+stand: iː(dya) | iː	iːdya 
+stand: nuŋu | iː	iːdya 
+star: bawaː | biːža 
+star: beɟa | biːža 
+star: biːža | biːža 
+star: biža | biːža 
+stone: geša | gɪša 
+stone: giːša | gɪša 
+stone: giša | gɪša 
+stone: gɪša | gɪša 
+straight: məžɔhišima | məžɔhišima 
+straight: žɔːš | məžɔhišima 
+sun: oka 
+sun: oːka | oka 
+sun: wokaː 
+sun: wɔːka | oka 
+swell: miʔic\a 
+swell: ˗žit\ 
+swim: dɪltɪgwa | tub	tubudya 
+swim: s\ɛl | tub	tubudya 
+swim: ˗tɪb | tub	tubudya 
+swim: ˗ts\ɛl | tub	tubudya 
+swim: tub(udya) | tub	tubudya 
+swim: tuːp | tub	tubudya 
+tail: tsia | tsiya 
+tail: tsiːa | tsiya 
+tail: tsiya 
+tail: ts\iya | tsiya 
+that: ˗leːt | metam 
+that: ˗lɛt | metam 
+there: nɛgɛt | nəgɪt 
+there: nəgɪt 
+they: mam | mmam 
+they: mmam 
+they: mmama 
+thick: mɛt\it\ɪma | mɛtʼitʼɪma 
+thick: mɔk\ɔc\a | mɛtʼitʼɪma 
+think: dar anseːi | sanz 
+think: ˗kʷɔzəʔ | sanz 
+think: sanz 
+thin: məkɛsɛma | məkɛsɛma	mɪsɪsiːma 
+thin: mɛkɛːšɪma | məkɛsɛma	mɪsɪsiːma 
+thin: misisipuma | məkɛsɛma	mɪsɪsiːma 
+thin: mɪsɪsiːma | məkɛsɛma	mɪsɪsiːma 
+thin: mukwɪca | məkɛsɛma	mɪsɪsiːma 
+this: ala 
+this: ba 
+this: ˗la 
+this: la˗ 
+this: ˗laːne 
+thou: aːča | ama 
+thou: ača | ama 
+thou: akya | ama 
+thou: aːkya | ama 
+thou: am | ama 
+thou: ama 
+thou: aːma | ama 
+thou: amaː 
+thou: amma | ama 
+thou: mukwa | ama 
+three: baʔas | okak 
+three: okak 
+three: oːkak | okak 
+three: o\kaŋ | okak 
+three: okaːŋ | okak 
+three: okaya | okak 
+three: ukag | okak 
+three: (w)okaːg | okak 
+throw: ɛːmbɪ | gukʼɛš	gukʼɛɟeš 
+throw: guk\ɛ(ɟe)š | gukʼɛš	gukʼɛɟeš 
+tie: func\ | funcʼ 
+tie: fwunc\ | funcʼ 
+tongue: kʷót̪ɛ́t̪á | kʼwɔtɛta	kʼɔtɛta 
+tongue: kutta | kʼwɔtɛta	kʼɔtɛta 
+tongue: k\waːt\ɛt\a | kʼwɔtɛta	kʼɔtɛta 
+tongue: k\(w)ɔtɛta | kʼwɔtɛta	kʼɔtɛta 
+tongue: lɪt\a | kʼwɔtɛta	kʼɔtɛta 
+tongue: t\it\a | kʼwɔtɛta	kʼɔtɛta 
+tooth: k\osa | kʼosa 
+tooth: k\ʷoːsa | kʼosa 
+tooth: k\ɔːsa | kʼosa 
+tooth: k\wosa | kʼosa 
+tooth: qosu | kʼosa 
+tree: ɟa 
+tree: dʲa 
+tree: giya 
+tree: ɟya 
+tree: ǯa 
+tree: ǯʲa 
+turn: aŋgɔː 
+turn: hɔty 
+turn: liŋgyaxʷ 
+two: (a)mbaːnd | mban	mband 
+two: mban | mban	mband 
+two: m\ban | mban	mband 
+two: mbaːnd | mban	mband 
+two: mbaːnda | mban	mband 
+vomit: ˗wea | weʔidya	weʔt 
+vomit: weʔidya | weʔidya	weʔt 
+vomit: weʔt | weʔidya	weʔt 
+walk: d\a 
+walk: ɗa 
+walk: ˗d\ɛ 
+walk: dug 
+walk: dugwu 
+walk: duːku 
+walk: dukudyə 
+walk: dukw 
+walk: tsa 
+walk: ts\a 
+walk: ts\idya 
+walk: tsikia 
+warm: dawək | gwoːka 
+warm: gawkogwa | gwoːka 
+warm: gɛwkɛma | gwoːka 
+warm: gʷɔːka | gwoːka 
+warm: gokem | gwoːka 
+warm: gwoːka 
+wash: ɛːf 
+wash: fac\ɛkʷo | ɛːf 
+water: aia | aya 
+water: aya 
+water: aːya | aya 
+water: haːyaː | aya 
+we: aila | akwa 
+we (excl.): aila 
+we (excl.): ila 
+we (excl.): iːla 
+we (excl.): ila ~ aila 
+we: iːla | akwa 
+we: iːle | akwa 
+we (incl.): akwa 
+we (incl.): aːkwa 
+wet: gənzima | mənzima 
+wet: mɛndziːma | mənzima 
+wet: mənzima 
+wet: mɪnzima | mənzima 
+wet: mɨnzɨmma | mənzima 
+what: ɨnts\e 
+what: nts\eːa 
+when: gəmats\ | gəmatsʼ 
+when: kamaːts\e | gəmatsʼ 
+where: nande | nogwab 
+where: nogwab 
+white: ampoːma | mpuːma 
+white: dɪc\ɪgə | mpuːma 
+white: impuna | mpuːma 
+white: mpiːma | mpuːma 
+white: m\puma | mpuːma 
+white: mpuːma 
+who: ɔːre 
+who: wora 
+who: wɔre 
+wide: bəbiːlɪma 
+wide: deʔiːl | bəbiːlɪma 
+wide: mbwilɪma | bəbiːlɪma 
+wind: zuba 
+wind: zuːba | zuba 
+wind: zubbaː | zuba 
+wing: bɛba 
+wing: p\əp\a | bɛba 
+wing: zuba | bɛba 
+wipe: kahaɗ 
+wipe: kyegut | kahaɗ 
+woman: enafa | gaːfa	ŋgɪfa 
+woman: gaːfa | gaːfa	ŋgɪfa 
+woman: gaːfaː | gaːfa	ŋgɪfa 
+woman: ɨngɨffa | gaːfa	ŋgɪfa 
+woman: ŋgɛfa | gaːfa	ŋgɪfa 
+woman: ɪŋgɪfa | gaːfa	ŋgɪfa 
+woman: ŋgɪfa | gaːfa	ŋgɪfa 
+woman: yefaː | gaːfa	ŋgɪfa 
+wood: gumba 
+wood: gunimanɟa 
+wood: k\udya 
+wood: lakoza 
+wood: lasa 
+wood: žuːla 
+worm: iːca | yica 
+worm: yica 
+year: giɟa | giːža 
+year: giːža | giːža 
+year: giža | giːža 
+year: goɟaː | giːža 
+yellow: ebona | yəkomɪta 
+yellow: mambəbəguma | yəkomɪta 
+yellow: meːtama | yəkomɪta 
+yellow: yəkomɪta 
+every: guŋ 
+ash: wofa 
+abdomen: ila 
+bigness: bəbəkuma 
+large: bəbəkuma 
+breasts: kuːwa 
+nail: kʼətsitsa 
+talon: kʼətsitsa 
+come from: we	wodye 
+be dead: ša	šigya 
+dead: ša	šigya 
+left hand: ela	era 
+1 sg.: ara	aɗa 
+be knowledgeable: -idya	gəm 
+much: mityityikuma 
+multiple: mityityikuma 
+several: mityityikuma 
+hill: kotogwa 
+title: tsʼea 
+nighttime: məgaːkwa 
+nose: ita 
+adulterous: metam 
+single: metam 
+the: metam 
+unprincipled: metam 
+human: bəga 
+human being: bəga 
+rainy weather: dama 
+hide: bea 
+little: duduːma	edubaʔ 
+smallness: duduːma	edubaʔ 
+rock: gɪša 
+2 sg: ama 
+you: ama 
+grind: mban	mband 
+hot: gwoːka 
+1 pl. inc.: akwa 
+we₁: akwa 
+whiteness: mpuːma 
+female: gaːfa	ŋgɪfa 
+distant: bɛkʼyɛt 
+dull: mɪšikʼima 
+serious: mɪšikʼima 
+close: ɗic 
+ner: ɗic 
+earthworm: yica 
+2 pl.: aːkya 
+ye: aːkya 
+you all: aːkya 
+3 pl.: mmam 
+where?: nogwab 
+when?: gəmatsʼ 
+how?: eyabe 
+broad: bəbiːlɪma 
+wideness: bəbiːlɪma 
+fat: mɛtʼitʼɪma 
+his mother: meːma	yaːta	ɛmeyayu 
+my mother: meːma	yaːta	ɛmeyayu 
+his father: babokwa	baːba	mbabukwa 
+my father: babokwa	baːba	mbabukwa 
+woods: dɪgzia	lɪgzia 
+cord: siya 
+flesh: bɪca 
+gut: boːsa 
+insides: boːsa 
+intestine: boːsa 
+intestines: boːsa 
+spit: təkʼ 
+breath: šəkw	šəkwudyə 
+laughter: -dya	alo 
+cogitate: sanz 
+reflect: sanz 
+sniff: fuːŋɪgɪts	fuːŋɪts 
+alive: bəcɛš	bəcʼɛdyiš 
+be alive: bəcɛš	bəcʼɛdyiš 
+life: bəcɛš	bəcʼɛdyiš 
+living: bəcɛš	bəcʼɛdyiš 
+beat: -iɟa	x 
+strike: -iɟa	x 
+hack: -dya	kʼyɛr 
+cut open: bəkʼ 
+pierce: kʼɔs 
+stab: kʼɔs 
+drop: beː	beːdya 
+grasp: -dya	ɗaːkʼu 
+hold in arm: -dya	ɗaːkʼu 
+wring: tʼaːncʼ 
+wash clothes: ɛːf 
+bind: funcʼ 
+fasten: funcʼ 
+tie up: funcʼ 
+enumerate: nzeŋɪty	nzəŋidyɪts 
+number: nzeŋɪty	nzəŋidyɪts 
+tally: nzeŋɪty	nzəŋidyɪts 
+have fun: -idya	aːssi 
+daylight: maːŋwa 
+daytime: maːŋwa 
+evil: məmbəgima 
+rot: meyaʔama 
+filthy: məmbəgima 
+soiled: məmbəgima 
+damp: mənzima 
+right side: ɛra gunza 
+inside: nili- 

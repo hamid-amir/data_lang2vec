@@ -1,0 +1,334 @@
+all: cada	cadascun	tot 
+every: cada	cadascun	tot 
+ash: cendra	cendres 
+ashes: cendra	cendres 
+bark: escorça 
+abdomen: panxa 
+belly: panxa 
+big: gran	gros 
+bigness: gran	gros 
+large: gran	gros 
+bird: ocell 
+bite: mossegar 
+black: negre 
+blood: saN	sang 
+bone: os 
+breast: pit 
+breasts: pit 
+claw: urpa 
+nail: urpa 
+talon: urpa 
+cloud: núvol 
+cold: fred 
+come: venir 
+come from: venir 
+be dead: morir	mort	muri 
+dead: morir	mort	muri 
+die: morir	mort	muri 
+dog: gos	k3 
+drink: bEur3	beure 
+dry: sec 
+ear: orella	urEL3 
+earth: terra 
+ground: terra 
+land: terra 
+soil: terra 
+eat: menjar 
+egg: ou 
+eye: uL	ull 
+feather: ploma	pluma 
+fire: foc	fok 
+fish: peS	peix 
+fly: volar 
+fly v.: volar 
+foot: peu 
+full: plE	ple 
+give: donar 
+good: bo 
+green: verd 
+hair: cabell	pèl 
+hand: ma	mà 
+left hand: ma	mà 
+right: ma	mà 
+head: cap 
+hear: escoltar	s3nti	sentir 
+heart: cor 
+horn: ba53	banya	korn 
+1 sg.: Zo	jo 
+I: Zo	jo 
+kill: matar 
+knee: genoll	j3noL 
+be knowledgeable: saber 
+know: saber 
+leaf: fuL3	fulla 
+lie: estirar-se 
+lie down: estirar-se 
+liver: fej3	fetge 
+long: llarg 
+head louse: poL	poll 
+louse: poL	poll 
+male: home 
+man: p3rson3	persona	ésser humà 
+many: molt 
+much: molt 
+multiple: molt 
+several: molt 
+flesh: carn 
+meat: carn 
+moon: lluna 
+hill: mon	muntanya	puig	pujol	turó 
+mountain: mon	muntanya	puig	pujol	turó 
+mouth: boca 
+name: nom	títol 
+title: nom	títol 
+neck: coll 
+new: nou 
+night: nit 
+nighttime: nit 
+nose: nas 
+not: no 
+adulterous: u	un 
+one: u	un 
+single: u	un 
+that: aquell 
+the: u	un 
+unprincipled: u	un 
+human: p3rson3	persona	ésser humà 
+human being: p3rson3	persona	ésser humà 
+person: p3rson3	persona	ésser humà 
+rain: pluja 
+rainy weather: pluja 
+red: roig	vermell 
+path: camí	carretera	k3mi 
+road: camí	carretera	k3mi 
+route: camí	carretera	k3mi 
+root: arrel 
+round: rodó 
+sand: sorra 
+say: dir 
+see: bEur3	veure 
+seed: grana	llavor 
+sit: asseure’s	seure 
+hide: peL	pell 
+skin: peL	pell 
+sleep: dormir 
+little: petit 
+small: petit 
+smallness: petit 
+smoke: fum 
+star: 3streL3	estel	estrella 
+rock: pe8r3	pedra	roca 
+stone: pe8r3	pedra	roca 
+sun: sol 
+swim: nadar	nedar 
+tail: cua 
+this: aquest 
+2 sg: tu	vostè 
+thou: tu	vostè 
+you: tu	vostè 
+tongue: LeNgw~3	llengua 
+tooth: den	dent 
+tree: abr3	arbre 
+grind: dos 
+two: dos 
+go: caminar 
+walk: caminar 
+hot: calurós	càlid	tebi 
+warm: calurós	càlid	tebi 
+water: aigua	aixw~3 
+1 pl. inc.: nosaltres	nuzaltr3s 
+we: nosaltres	nuzaltr3s 
+we₁: nosaltres	nuzaltr3s 
+what: què 
+white: blanc 
+whiteness: blanc 
+who: qui 
+who?: qui 
+female: dona 
+woman: dona 
+yellow: groc 
+distant: lluny 
+far: lluny 
+dull: pesat 
+heavy: pesat 
+serious: pesat 
+close: a prop	prop 
+near: a prop	prop 
+ner: a prop	prop 
+salt: sal 
+short: curt 
+snake: serp 
+thin: prim 
+wind: vent 
+earthworm: cuc 
+worm: cuc 
+year: any 
+3 sg.: ell 
+he: ell 
+she: ell 
+2 pl.: vosaltres 
+ye: vosaltres 
+you all: vosaltres 
+3 pl.: elles	ells 
+they: elles	ells 
+here: aquí 
+there: allà 
+where: on 
+where?: on 
+when: quan 
+when?: quan 
+how: com 
+how?: com 
+some: algun	alguns	una mica 
+few: poc 
+other: altre 
+three: tres 
+four: quatre 
+five: cinc 
+broad: ample	ampli 
+wide: ample	ampli 
+wideness: ample	ampli 
+fat: grassa	greix 
+thick: gruix	gruixut 
+narrow: estret 
+child: nen 
+principal wife: esposa	muller 
+wife: esposa	muller 
+husband: espòs	marit 
+his mother: mare 
+mother: mare 
+my mother: mare 
+father: pare 
+his father: pare 
+my father: pare 
+animal: animal 
+forest: bosc	selva 
+woods: bosc	selva 
+branch: bastó	branca 
+stick: bastó	branca 
+fruit: fruit	fruita 
+flower: flor 
+grass: herba 
+cord: corda 
+rope: corda 
+grease: grassa	greix 
+fingernail: ungla 
+leg: cama 
+arm: ma	mà 
+wing: ala 
+gut: budells	intestins 
+guts: budells	intestins 
+insides: budells	intestins 
+intestine: budells	intestins 
+intestines: budells	intestins 
+back: esquena 
+suck: llepar	xuclar 
+spit: escopir 
+vomit: vomitar 
+blow: bufar 
+breath: alè	respirar 
+breathe: alè	respirar 
+laugh: riure 
+laughter: riure 
+cogitate: pensar 
+reflect: pensar 
+think: pensar 
+smell: ensumar	fer olor	olorar 
+sniff: ensumar	fer olor	olorar 
+afraid: por	témer 
+be afraid: por	témer 
+fear: por	témer 
+fright: por	témer 
+alive: vida	viure 
+be alive: vida	viure 
+life: vida	viure 
+live: vida	viure 
+living: vida	viure 
+fight: lluitar 
+hunt: caçar 
+beat: colpejar	golpejar	picar 
+hit: colpejar	golpejar	picar 
+strike: colpejar	golpejar	picar 
+cut: tallar 
+hack: tallar 
+cut open: dividir	partir 
+split: dividir	partir 
+pierce: apunyalar 
+stab: apunyalar 
+scratch: esgarbatar	esgarrapar	gratar	rascar 
+dig: cavar	excavar 
+tell lies: dir mentides	jeure	mentir 
+stand: estar dret	posar-se dret 
+turn: donar la volta	girar 
+turn around: donar la volta	girar 
+turn round: donar la volta	girar 
+drop: caure 
+fall: caure 
+grasp: aguantar	sostenir	tenir 
+hold: aguantar	sostenir	tenir 
+hold in arm: aguantar	sostenir	tenir 
+squeeze: apretar	esprémer 
+wring: apretar	esprémer 
+rub: eixugar	fregar 
+wipe: eixugar 
+wash: netejar	rentar 
+wash clothes: netejar	rentar 
+pull: estirar	tirar 
+push: empènyer 
+shove: empènyer 
+throw: llançar	llençar	tirar 
+bind: lligar 
+fasten: lligar 
+tie: lligar 
+tie up: lligar 
+sew: cosir 
+count: comptar	nombre 
+enumerate: comptar	nombre 
+number: comptar	nombre 
+tally: comptar	nombre 
+sing: cantar 
+have fun: jugar 
+play: jugar 
+float: flotar 
+flow: córrer	fluir 
+freeze: congelar	gelar 
+swell: inflar 
+brook: corrent	riarol	riu 
+river: corrent	riarol	riu 
+stream: corrent	riarol	riu 
+lake: llac 
+ocean: mar 
+sea: mar 
+dust: pols 
+fog: boira 
+sky: cel 
+snow: neu 
+ice: gel	glaç 
+blaze: cremar	cremar-se 
+burn: cremar	cremar-se 
+day: dia 
+daylight: dia 
+daytime: dia 
+old: vell 
+bad: dolent	mal 
+evil: dolent	mal 
+rot: podrit 
+rotten: podrit 
+dirty: brut 
+filthy: brut 
+soiled: brut 
+straight: dret	recte 
+sharp: afilat	agut	esmolat 
+blunt: esmussat	rom 
+smooth: llis	suau 
+damp: humit	moll	mullat 
+wet: humit	moll	mullat 
+correct: bé	correcte 
+right side: dreta 
+left: esquerra	esquerre 
+at: a	en 
+in: a	dins 
+inside: a	dins 
+with: amb 
+if: si 
+because: perquè 

@@ -1,0 +1,303 @@
+all: xanikina 
+every: xanikina 
+ash: afwa 
+ashes: afwa 
+bark: aišu 
+big: manakata 
+bigness: manakata 
+large: manakata 
+bird: pix 
+bite: yuta 
+black: lampi 
+blood: sapa 
+bone: xatuS	xatuš 
+breast: tapoS	tapoš 
+breasts: tapoS	tapoš 
+claw: kaluf	yaš 
+nail: kaluf	yaš 
+talon: kaluf	yaš 
+cloud: xoka 
+cold: teri 
+come: akata 
+come from: akata 
+be dead: malaku	xapana 
+dead: malaku	xapana 
+die: malaku	xapana 
+dog: yaSala	yašala 
+drink: ala 
+dry: paka 
+ear: ufkiS	ufkiš 
+earth: tan 
+ground: tan 
+land: tan 
+soil: tan 
+eat: atama 
+egg: xax 
+eye: tala 
+feather: uštuku 
+fire: puSak	pušaki 
+fish: apouS	apouš 
+fly: miku 
+fly v.: miku 
+foot: kouya 
+full: Caluku	čaluku 
+give: taku 
+good: welisa 
+green: arlampi 
+hair: ušta 
+hand: yaS	yaš 
+left hand: yaS	yaš 
+right: yaS	yaš 
+head: lamana 
+hear: mara	muS	muš 
+heart: seskin 
+1 sg.: xay 
+I: xay 
+kill: kaipana 
+knee: tulepuS	tulepuš 
+be knowledgeable: ela 
+know: ela 
+leaf: Suka	šuka 
+lie: yea 
+lie down: yea 
+liver: weya	xipa 
+long: muka 
+head louse: wam 
+louse: wam 
+male: yamana 
+man: yamana 
+many: weru 
+much: weru 
+multiple: weru 
+several: weru 
+flesh: antapa 
+meat: antapa 
+hill: tular 
+mountain: tular 
+mouth: ya 
+name: wapus 
+title: wapus 
+neck: xuša 
+new: yarma 
+night: akuS	akuš 
+nighttime: akuS	akuš 
+nose: kaSuS	kašuš 
+adulterous: koli	ụkɔali 
+one: koli	ụkɔali 
+single: koli	ụkɔali 
+that: koli	ụkɔali 
+the: koli	ụkɔali 
+unprincipled: koli	ụkɔali 
+human: yamana 
+human being: yamana 
+person: yamana 
+rain: palaxa 
+rainy weather: palaxa 
+red: luša 
+path: %ruta 
+road: %ruta 
+route: %ruta 
+root: mali 
+sand: asola 
+say: kutana 
+see: tiki 
+seed: amakana 
+sit: mutu 
+hide: tatisa 
+skin: tatisa 
+sleep: akalu	ataš 
+little: yaxa 
+small: yaxa 
+smallness: yaxa 
+smoke: ušku 
+star: apanix 
+rock: aiya	awi 
+stone: aiya	awi 
+sun: lam 
+swim: moner 
+tail: tel 
+2 sg: sa 
+thou: sa 
+you: sa 
+tongue: lan 
+tooth: tun 
+tree: Sopeya	pouS 
+grind: kampeipi	kəmbaibai	kəmbaibi 
+two: kampeipi	kəmbaibai	kəmbaibi 
+go: una 
+walk: una 
+hot: putru 
+warm: putru 
+water: sima 
+1 pl. inc.: xan 
+we: xan 
+we₁: xan 
+what: koute 
+white: yaku 
+whiteness: yaku 
+who: kana 
+who?: kana 
+female: kipa 
+woman: kipa 
+distant: xakusi 
+far: xakusi 
+dull: xašu 
+heavy: xašu 
+serious: xašu 
+close: kaša 
+near: kaša 
+ner: kaša 
+salt: saulete 
+short: utala 
+snake: ušwatoli 
+thin: sal 
+wind: uša 
+earthworm: tan-wankara 
+worm: tan-wankara 
+year: yar 
+2 pl.: san 
+ye: san 
+you all: san 
+3 pl.: kyon 
+they: kyon 
+where: kutup 
+where?: kutup 
+when: končita 
+when?: končita 
+how: kunta 
+how?: kunta 
+some: tayatu 
+few: uratur	yaxa 
+three: matan	maten 
+four: kupakunu 
+broad: patuxa 
+wide: patuxa 
+wideness: patuxa 
+narrow: salya 
+child: wuxai 
+principal wife: tuku 
+wife: tuku 
+husband: tuku 
+his mother: tapi 
+mother: tapi 
+my mother: tapi 
+father: imu	tapwin 
+his father: imu	tapwin 
+my father: imu	tapwin 
+animal: pixa 
+forest: ašuna 
+woods: ašuna 
+branch: šopeya 
+stick: šopeya 
+flower: flaurs 
+grass: šuka 
+cord: šukami 
+rope: šukami 
+fat: ušlamuši 
+grease: ušlamuši 
+fingernail: kaluf 
+leg: lateš 
+wing: kamei 
+gut: upak 
+guts: upak 
+insides: upak 
+intestine: upak 
+intestines: upak 
+back: ušwala 
+suck: tapala 
+spit: čilfkana 
+vomit: amea 
+blow: lupu 
+breath: xašapana 
+breathe: xašapana 
+laugh: toška 
+laughter: toška 
+cogitate: mwailana 
+reflect: mwailana 
+think: mwailana 
+smell: ašata 
+sniff: ašata 
+afraid: yenkina 
+be afraid: yenkina 
+fear: yenkina 
+fright: yenkina 
+alive: sinakin 
+be alive: sinakin 
+life: sinakin 
+live: sinakin 
+living: sinakin 
+fight: emuka 
+hunt: kopana 
+beat: putušu 
+hit: putušu 
+strike: putušu 
+cut: ašokata 
+hack: ašokata 
+cut open: akitakuta 
+split: akitakuta 
+pierce: tuna 
+stab: tuna 
+dig: wana 
+tell lies: yaus 
+stand: kamato 
+turn: tumušunata 
+turn around: tumušunata 
+turn round: tumušunata 
+drop: apana 
+fall: apana 
+grasp: ata 
+hold: ata 
+hold in arm: ata 
+rub: pratan 
+wipe: pratan 
+wash: uksi 
+wash clothes: uksi 
+push: tapona 
+shove: tapona 
+throw: kanana 
+bind: yamaseta 
+fasten: yamaseta 
+tie: yamaseta 
+tie up: yamaseta 
+sew: umaka 
+count: kamper 
+enumerate: kamper 
+number: kamper 
+tally: kamper 
+sing: tapelsena 
+have fun: miku 
+play: miku 
+float: moner 
+flow: akulya 
+brook: winu 
+river: winu 
+stream: winu 
+lake: akamaka 
+ocean: ixa 
+sea: ixa 
+dust: tan 
+sky: seyf 
+snow: panaxa 
+ice: touf 
+blaze: kušaina	ušola 
+burn: kušaina	ušola 
+day: mola 
+daylight: mola 
+daytime: mola 
+bad: ulafana 
+evil: ulafana 
+rot: lalakina 
+rotten: lalakina 
+dirty: derti	tati 
+filthy: derti	tati 
+soiled: derti	tati 
+straight: šalatas 
+sharp: akusimorana 
+smooth: kutalu 
+damp: ixa 
+wet: ixa 
+correct: katika	opana 
+right side: šalatas 
+left: eskula 
+in: akan 
+inside: akan 

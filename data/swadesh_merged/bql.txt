@@ -1,0 +1,373 @@
+all: kaßaßo | kaβaβo 
+all: kavavo | kaβaβo 
+arm: ußan 
+arm: uvan 
+arrow: kwapala 
+ashes: wamuzin 
+back: magwatan 
+bad: balea 
+bad: balɛa 
+belly: iluam | kuraː bulguan 
+belly: kura: bulguan | kuraː bulguan 
+belly: kuraː bulguan 
+big: aib 
+bird: malëgwan | malʌgwan 
+bird: malʌgwan 
+bite: gwa- 
+black: kulun 
+blood: kë:r | k3r	kʌːrr 
+blood: kʌːrr | k3r	kʌːrr 
+blow: sa- 
+bone: kalëg | kal3g	kalʌg 
+bone: kalʌg | kal3g	kalʌg 
+boy: wuo moya 
+breast: ñoa | 5oa	ɲoa 
+breast: ɲoa | 5oa	ɲoa 
+brother: aßaip 
+brother: avaip 
+brother: emaka 
+brother: umakaman 
+brother: umakamen 
+brother: umëm 
+brother: umʌm 
+burn: igum- 
+butterfly: kapsëli 
+butterfly: kapsʌli 
+calf: sibul 
+cassowary: yakubi 
+chest: sagosan 
+child: wuo 
+child: yamun 
+chin: matëlë 
+chin: matʌlʌ 
+cloud: kanëm awan | kanʌm awan 
+cloud: kanʌm awan 
+cold: kißa | kiβa 
+cold: kivi | kiβa 
+come: yar- | yar	yar- 
+crocodile: niːɲɛ 
+crocodile: ni:ñe 
+cut: babuža- 
+cut: babuza- 
+cut: skot(al)- 
+dance: guatana kwalag- 
+day: ɛtokwʌbun 
+day: etokwëbun 
+day: kwalup 
+die: umo- | umo	umo- 
+dig: aliowal- 
+dig: tumuɲ(iam)- 
+dig: tumuñ(-iam)- 
+dirty: ununu 
+dog: i:kwo | ikw~o	iːkwo 
+dog: iːkwo | ikw~o	iːkwo 
+dry: gansigër | gansigʌr 
+dry: gansigʌr 
+ear: edasilu 
+earth: ë:t | ʌːt 
+earth: ʌːt 
+eat: ɲa- 
+eat: mug-iam- | ɲa- 
+eat: ña- | ɲa- 
+egg: ño(a) | ɲo	ɲoa 
+egg: ɲo | ɲo	ɲoa 
+egg: ɲoa | ɲo	ɲoa 
+elbow: masin 
+emu: yakubi 
+excrement: ivi 
+eye: muog | muog	muɔg 
+eye: muɔg | muog	muɔg 
+face: mangkuman 
+face: maŋkuman 
+fall: sikw- 
+fall: sukw- 
+far: muga 
+father: tiɲa 
+father: tiña 
+father: uda 
+fat (n.): iduan 
+fear: yalam- 
+few: kaya 
+fight: iakwa- 
+fight: sʲwotaga- 
+fingernail: kapogë:sin 
+fingernail: kapogʌːsin 
+finger: unën 
+finger: unʌn 
+fire: muta 
+fish: pilala 
+fly (n.): kudul(u) 
+fly (v.): bawakati isu- 
+fog: wababël 
+fog: wababʌl 
+forest: kulabnu 
+fruit: kurag 
+full: sikër | sik3r	sikʌr 
+full: sikʌr | sik3r	sikʌr 
+full: uɲ- | sik3r	sikʌr 
+full: uñ- | sik3r	sikʌr 
+girl: wilup yarakwa 
+give: -and- | -uta- 
+give: -uta- 
+give: -uta-/-ind- 
+good: bual 
+grass: tubag 
+guts: iluam 
+hair: i:m | iːm 
+hair: iːm 
+head: kakagum | tʌːzi 
+head: të:zi | tʌːzi 
+head: tʌːzi 
+hear: -ikum- | -ikum-	ikum 
+heart: awabunan 
+heavy: binuat 
+here: si 
+he/she: ø- 
+he/she: wa- 
+he/she: wo 
+hit: iakwa- 
+hit: sikwotaga- 
+hold: bak- 
+house: muɲɛ 
+house: muñe 
+how: davarvatu 
+in: muore 
+I: ya | ya-na	yana 
+I: ya- | ya-na	yana 
+I: ya-/-l- | ya-na	yana 
+I: ya-na | ya-na	yana 
+kill: abul- | abul-	igalam- 
+kill: igalam- | abul-	igalam- 
+knee: galamaʔulu | galam 3kul	galamaʔulu 
+knee: galam ëkul | galam 3kul	galamaʔulu 
+laugh: igaligw- 
+left: kuanon 
+leg: guatan 
+lightning: kanëm tawaisu- 
+lightning: kanʌm tawaisu- 
+liver: awaßi | awabi	awaβi 
+liver: awavi | awabi	awaβi 
+long: dagën | dagʌn 
+long: dagʌn 
+louse: gu:n | gun 
+louse: guːn | gun 
+man: kumogwat | munan 
+man: munan 
+many: kawabo 
+meat: mi:n 
+meat: miːn 
+moon: unu 
+morning: itumut 
+morning: itumu-t 
+morning: urigaram- 
+mosquito: kasisil 
+mother: niɲa 
+mother: niña 
+mother: unër 
+mother: unʌr 
+mountain: taban 
+mouth: kaßamɔr | kaβamɔr 
+mouth: kavamor | kaβamɔr 
+name: uɲim | u5im	uɲim 
+name: uñim | u5im	uɲim 
+nape: kumoan 
+navel: yasi 
+near: muguya 
+neck: manilom 
+new: tamën | tam3n	tamʌn 
+new: tamʌn | tam3n	tamʌn 
+night: etum alë:mor | Etum al3mor	ɛtum alʌːmɔr 
+night: ɛtum alʌːmɔr | Etum al3mor	ɛtum alʌːmɔr 
+nose: masilu 
+not: uya 
+old: gigika 
+old: kwëkën 
+old: kwʌkʌn 
+old: tënduba 
+old: tənduba 
+one: gasiba 
+pull: bakosinal- 
+push: iagagis- 
+rain: ë:t | ʌːt 
+rain: ʌːt 
+rat: wi:l 
+rat: wiːl 
+red: karët | karʌt 
+red: karʌt 
+right: dagan | t3zi 
+ripe: mimuan 
+road: yëkita munu | y3kita munu 
+road: yʌkita munu | y3kita munu 
+root: urun 
+rope: to 
+salt: yual 
+sand: alu 
+say: kabukw- | -nakam- 
+say: -nakam- 
+scratch: kubram- 
+scratch: kubrram- 
+sea: yël 
+sea: yʌl 
+see: askam- | -bag-	-ge-	bag	ge 
+see: -bag- | -bag-	-ge-	bag	ge 
+see: -ge- | -bag-	-ge-	bag	ge 
+sharp: musatal- 
+sharp: selalu 
+short: bikën 
+shoulder: kua:gu 
+shoulder: kuaːgu 
+sing: uru ala- 
+sister: bainda 
+sister: imakira 
+sister: umamida 
+sister: umokira 
+sit: bigam- 
+skin: guan 
+sleep: iɲ- 
+sleep: iñ- | iɲ- 
+small: kamon 
+smell: masilubig- 
+smoke: usun 
+snake: duëk | duʌk 
+snake: duʌk 
+spit: muku 
+spit: tukun-wal- 
+split: kaßulam- 
+split: kavulam- 
+stand: dazi- 
+stand: naga- 
+star: walsama 
+stick: tukum 
+stone: namon 
+straight: taganol 
+sun: wazëm | waz3m	wazʌm 
+sun: wazʌm | waz3m	wazʌm 
+swell: kalim- 
+tail: du:l | duːl 
+tail: duːl 
+tail: ebitua | duːl 
+tail: ɛbitua | duːl 
+take: bak- 
+that: zana 
+there: sikila 
+they: ø-/-ar- 
+they: wora 
+thigh: manuëm 
+thigh: manuʌm 
+think: awai big- 
+this: si 
+thou: aɲ- | na-na	nana 
+thou: aɲi- | na-na	nana 
+thou: aɲ-ina | na-na	nana 
+thou: na- | na-na	nana 
+thou: na-/-n- | na-na	nana 
+thou: na-na | na-na	nana 
+throat: manilom kalëg 
+throat: manilom kalʌg 
+throw: islam- 
+thunder: kanam yew- 
+thunder: kanam yɛw- 
+tie: usam- 
+tomorrow: balima 
+tomorrow: balima tumugasi 
+tongue: kaßisa | kabisa	kaβisa 
+tongue: kavisa | kabisa	kaβisa 
+tooth: namok | namok	nanuak 
+tooth: nanuak | namok	nanuak 
+tree: nuom 
+tree: tʌzi | nuom 
+tree: wabun | nuom 
+turn: koyazi- 
+turn: oi- 
+two: gial 
+vagina: gutu 
+vomit: manil- 
+walk: isu- 
+walk: kwka isu- 
+wallaby: wa: 
+wallaby: waː 
+warm: nanuʌ 
+warm: nanuë 
+wash: -musatar- 
+wash: yuag yat- 
+water: yuag 
+we: ɛɲ-ina | e5ina 
+we: eñ-ina | e5ina 
+weep: iey- 
+we: iɲ- | e5ina 
+we: iɲi- | e5ina 
+we: iñ | e5ina 
+we: iñi-/-ar- | e5ina 
+wet: yaug orain 
+wet: yuag orain 
+what: mʌ 
+what: më | mʌ 
+where: araguta 
+white: awan 
+who: yʌ 
+who: yë | yʌ 
+wind: umakwan 
+wing: bu 
+woman: onër | wilup 
+woman: onʌr | wilup 
+woman: wilup 
+wood: kuran 
+wood: tukum 
+yellow: gawël | gawʌl 
+yellow: gawʌl 
+yes: mʌ 
+yes: më 
+yesterday: balima 
+yesterday: gigika 
+you: añ- | na-na	nana 
+you: añi-/-ar- | na-na	nana 
+you: añ-ina | na-na	nana 
+every: kaβaβo 
+ash: wamuzin 
+abdomen: kuraː bulguan 
+bigness: aib 
+large: aib 
+breasts: 5oa	ɲoa 
+come from: yar	yar- 
+be dead: umo	umo- 
+dead: umo	umo- 
+ground: ʌːt 
+land: ʌːt 
+soil: ʌːt 
+fly: bawakati isu- 
+fly v.: bawakati isu- 
+hand: t3zi 
+left hand: t3zi 
+1 sg.: ya-na	yana 
+head louse: gun 
+male: munan 
+much: kawabo 
+multiple: kawabo 
+several: kawabo 
+hill: taban 
+title: u5im	uɲim 
+nighttime: Etum al3mor	ɛtum alʌːmɔr 
+adulterous: gasiba 
+single: gasiba 
+the: gasiba 
+unprincipled: gasiba 
+rainy weather: ʌːt 
+path: y3kita munu 
+route: y3kita munu 
+hide: guan 
+little: kamon 
+smallness: kamon 
+rock: namon 
+2 sg: na-na	nana 
+grind: gial 
+go: isu- 
+1 pl. inc.: e5ina 
+we₁: e5ina 
+whiteness: awan 
+who?: yʌ 
+female: wilup 
+distant: muga 
+dull: binuat 
+serious: binuat 
+close: muguya 
+ner: muguya 

@@ -1,0 +1,616 @@
+all: ɟɛ́k | pápát	pát	tum	ɟɛ́k 
+all: pá(pá)t | pápát	pát	tum	ɟɛ́k 
+all: tum | pápát	pát	tum	ɟɛ́k 
+and: ɟɛ́k | wò 
+and: wò | wò 
+animal: kàda͂m | kàdãm	ndòbó 
+animal: ndòbó | kàdãm	ndòbó 
+ankle: dɔ̀dí gúːlí 
+arm: gámbéːlɔ́ 
+arm: kàrá 
+arm: kɔ̀sɔ̀kɔ́r 
+ashes: àwə̀ndí | firgi	àwə̀ndí 
+ashes: dàt˗ì | firgi	àwə̀ndí 
+ashes: firgi | firgi	àwə̀ndí 
+back: àdɔ̀l(ɛ)lɛ̀ | gàːta	sìːdá 
+back: gàːta | gàːta	sìːdá 
+back: sìːdá | gàːta	sìːdá 
+bad: tsén | tsén 
+bark: kàtàpàːɲiŋ | kàtàpàːɲiŋ	kɔ̀néi 
+bark: kɔ̀néi | kàtàpàːɲiŋ	kɔ̀néi 
+because: na 
+belly: bùtùlù | bùtùlù 
+belly: krišé | bùtùlù 
+big: kùlòlí | kùlòlí 
+bird: kòsí | kòsí 
+bite: ə̀ti(˗t) | ə̀ti	ə̀ti-t 
+bite: nɟeŋ(n) | ə̀ti	ə̀ti-t 
+bitter: čímóà 
+bitter: ɗài(˗ndí) 
+black: də̀kə́n | də̀kə́n 
+blood: fáːi | fai	fáːi	pay	pài 
+blood: pài | fai	fáːi	pay	pài 
+blow: noːs | noːs	ukn	uːk 
+blow: uːk ~ ukn | noːs	ukn	uːk 
+bone: ɟìngə̀r | jiNgir	joNgoro	ɟìngə̀r 
+boy: fòrfór˗í 
+branch: dìŋgílí | dìŋgílí	rík kɔ̀sɔ̀kɔ́r 
+branch: rík kɔ̀sɔ̀kɔ́r | dìŋgílí	rík kɔ̀sɔ̀kɔ́r 
+breast: àngòɲi | oNgu5e	oNgu5u	ʌ̀ŋgùɲè 
+breast: ʌ̀ŋgùɲè | oNgu5e	oNgu5u	ʌ̀ŋgùɲè 
+breast: yù˗k | oNgu5e	oNgu5u	ʌ̀ŋgùɲè 
+breathe: uiːs(n) | uiːs	uiːsn 
+brother: ír 
+burn: aːt(ŋ) | aːt	aːtŋ	uːt	uːtŋ 
+burn: ru(n) | aːt	aːtŋ	uːt	uːtŋ 
+burn: uːt(ŋ) | aːt	aːtŋ	uːt	uːtŋ 
+butterfly: àdí wɛ́ːɲɜ̀k 
+calf: gòmbòmbrə́ŋ 
+cheek: àngú 
+chest: kòtó 
+child: àɲègèr (à) | kài	àɲègèr 
+child: kài | kài	àɲègèr 
+child: kày | kài	àɲègèr 
+chin: nánɟáb˗àŋà 
+claw: sə̀ngérmí | sə̀ngérmí | díːdiŋgì	díːdŋgì	sə̀ngérmí 
+cloud: mone˗mo | mone-mo	sahaba	sáːp 
+cloud: sahaba | mone-mo	sahaba	sáːp 
+cloud: sáːp | mone-mo	sahaba	sáːp 
+cold: atàːndi | atàːndi	yɛ̀w	yɛ̀windi 
+cold: yɛ̀w(indi) | atàːndi	yɛ̀w	yɛ̀windi 
+come: aːr | aːr	er	ɔtŋ	əsa 
+come: əsa ~ ɔtŋ | aːr	er	ɔtŋ	əsa 
+count: niu(n) | niu	niun 
+crocodile: gòrndí 
+cut: daːk(n) | daːk	daːkn	dèm	də̀kə̀m aːm 
+cut: də̀kə̀m aːm | daːk	daːkn	dèm	də̀kə̀m aːm 
+cut: dèm | daːk	daːkn	dèm	də̀kə̀m aːm 
+cut: sàkàw | daːk	daːkn	dèm	də̀kə̀m aːm 
+cut: sɛ̀ | daːk	daːkn	dèm	də̀kə̀m aːm 
+dark: díkín 
+daughter: kàtsòwɛ̀i 
+daughter: mbà indà 
+daughter: sɔ̀wèi 
+day: dohor 
+die: ɟar ir(ŋ) | id	iːd	ɟar ir	ɟar irŋ 
+die: i(ː)d | id	iːd	ɟar ir	ɟar irŋ 
+die: mút | id	iːd	ɟar ir	ɟar irŋ 
+die: t˗ye | id	iːd	ɟar ir	ɟar irŋ 
+dig: mbeːr ~ mberŋ | mberŋ	mbeːr	tomɛ 
+dig: niːndày | mberŋ	mbeːr	tomɛ 
+dig: tomɛ | mberŋ	mbeːr	tomɛ 
+dig: uːt | mberŋ	mbeːr	tomɛ 
+dirty: miɲindi | miɲindi	wàskán 
+dirty: wàskán | miɲindi	wàskán 
+dog: míɲ | miN	míɲ 
+drink: àŋ ~ aŋn | aN	aŋn	norn	nuːr	àŋ 
+drink: nuːr ~ norn | aN	aŋn	norn	nuːr	àŋ 
+dry: èbè | nàbày 
+dry: nàbày | nàbày 
+dust: ràːsí | ràːsí 
+ear: kàsá | kàsá	nessoi 
+earth: bà(ː) 
+earth: ɓàːɲ˗íŋ 
+earth: bàːtí 
+earth: kʌsiyʌt 
+eat: ɲau ~ ɲaːn | məs	məsn	nɟen	ɲau	ɲaːn 
+eat: məs(n) | məs	məsn	nɟen	ɲau	ɲaːn 
+eat: nɟen | məs	məsn	nɟen	ɲau	ɲaːn 
+egg: kàdɛ̀mɔ̀ŋ | kàdɛ̀mɔ̀ŋ 
+elbow: bʌ̀ŋg˗álá 
+elbow: yèg˗ɛ̀ 
+emu: kòsí lílí 
+eye: kàːsè˗k | kasok	kasouk	kàːsè-k 
+eye: kàsə̀k màɗà | kasok	kasouk	kàːsè-k 
+eye: kàsə̀k tow | kasok	kasouk	kàːsè-k 
+eye: kàːsè˗k yìŋ | kasok	kasouk	kàːsè-k 
+face: àydó 
+fall: ləute ~ ləundi | ləundi	ləute	usi	uste	uːs 
+fall: uːs | ləundi	ləute	usi	uste	uːs 
+fall: uste ~ usi | ləundi	ləute	usi	uste	uːs 
+far: dèdì | dèdì 
+father: bá | bàɲá	bá	nóŋ 
+father: bàɲá | bàɲá	bá	nóŋ 
+father: nóŋ | bàɲá	bá	nóŋ 
+fat (n.): brá 
+fear: gùyài | gùyài 
+fear: uik ~ uiaːn | gùyài 
+feather: tòu | tuw-úi	tòu 
+feather: tuw˗úi | tuw-úi	tòu 
+few: díːs | díːs	káːkú	nəs 
+few: káːkú | díːs	káːkú	nəs 
+few: nəs | díːs	káːkú	nəs 
+fight: oːr˗təm | oːr-təm	uddudo	uddudoːn 
+fight: uddudo(ːn) | oːr-təm	uddudo	uddudoːn 
+finger: dɔ̀dí tí˗ɲiŋ 
+finger: kàrá ti˗ɲíŋ 
+fingernail: díːd(i)ŋgì | díːdiŋgì	díːdŋgì	sə̀ngérmí 
+fingernail: sə̀ngérmí | díːdiŋgì	díːdŋgì	sə̀ngérmí 
+fire: duri | n3s3k	nissik	nə̀sə̀-k 
+fire: gèsí | n3s3k	nissik	nə̀sə̀-k 
+fire: nə̀sə̀˗k | n3s3k	nissik	nə̀sə̀-k 
+fish: kùɲúŋ | ki5oN	ku5oN	kùɲúŋ 
+five: kám sɛ́ | kám sɛ́	tor	tòr 
+five: tòr | kám sɛ́	tor	tòr 
+float: ərndɛ ~ raːŋi | raːŋi	ərndɛ 
+flow: bei(n) | bei	bein	irs	irsŋ	sèː	ɛi	ɛin 
+flow: ɛi(n) | bei	bein	irs	irsŋ	sèː	ɛi	ɛin 
+flower: nàwár | nàwár 
+flow: irs(ŋ) | bei	bein	irs	irsŋ	sèː	ɛi	ɛin 
+flow: sèː | bei	bein	irs	irsŋ	sèː	ɛi	ɛin 
+fly (n.): ʌ̀ɲíɲí 
+fly (n.): sə̀u 
+fly (v.): ki(n) 
+fog: kìy | kìy 
+foot: dɔ̀dí | dɔ̀dí	itar 
+foot: dɔ̀dí díːdiŋgì | dɔ̀dí	itar 
+foot: dɔ̀dí kwìy | dɔ̀dí	itar 
+foot: itar | dɔ̀dí	itar 
+forehead: dìdó 
+forest: kòlá | kòlá	kútí	ʌsʌk 
+forest: kútí | kòlá	kútí	ʌsʌk 
+forest: ʌsʌk | kòlá	kútí	ʌsʌk 
+four: árbà | atte	àttèi	árbà 
+four: àttèi | atte	àttèi	árbà 
+full: bíts | bic	bijase	biǯàsé	bíts	bíyím 
+full: bíyím | bic	bijase	biǯàsé	bíts	bíyím 
+full: biǯàsé | bic	bijase	biǯàsé	bíts	bíyím 
+girl: kàčɔ̀wɛ̀y 
+girl: mbàind˗à 
+girl: sɔ̀wɛ̀t 
+give: nìɲ ~ niɲ(d) | niɲ	niɲd	nìɲ 
+good: dinǯe | dinǯe	màŋ	sám 
+good: màŋ | dinǯe	màŋ	sám 
+good: sám | dinǯe	màŋ	sám 
+grass: tèr | tèr	yà-k 
+grass: yà˗k | tèr	yà-k 
+green: bə́lbə́l˗éèn | bə́lbə́l-éèn	rànd-ə́kákádár 
+green: rànd˗ə́kákádár | bə́lbə́l-éèn	rànd-ə́kákádár 
+guts: bùtùlù | bùtùlù 
+hair: tòu | tuw-úi	tòu 
+hair: tuw˗úi | tuw-úi	tòu 
+hand: kàrá | kàrá	tusso 
+hand: kàrá kwíy | kàrá	tusso 
+hand: tusso | kàrá	tusso 
+head: kì(ː) | kì	kìː 
+hear: ə̀n(ŋ) | inaN	iraN	ə̀n	ə̀nŋ 
+heart: ɟì̀ | ǯì	ɟì̀ 
+heart: ǯì | ǯì	ɟì̀ 
+heavy: bʌr tɪrre | bʌr tɪrre	kòdòŋ	kòdòŋ-ndí 
+heavy: kòdòŋ(˗ndí) | bʌr tɪrre	kòdòŋ	kòdòŋ-ndí 
+here: gə̀n | gə̀n	gɪn	gɪnse 
+here: gɪn(se) | gə̀n	gɪn	gɪnse 
+he/she: tànɛ́~tɛ̀nɛ́ 
+he/she: tì 
+hit: iɟɟ˗ɔːs | iɟɟ-ɔːs	um 
+hit: um | iɟɟ-ɔːs	um 
+hold: kánnák 
+hole: àgù(yɛ́) 
+hole: kúdi 
+horn: gʌmd˗í | gamdi	gomdi	gʌmd-í 
+house: kàrɛ́ 
+house: kùdù 
+house: tsàkkák 
+how: àtɛ̀ | ngá	ngángà	àtɛ̀ 
+how: ngá(ngà) | ngá	ngángà	àtɛ̀ 
+hunt: ɛːs | gènís	rəgaːs	rəgaːsŋ	ɛːs 
+hunt: gènís | gènís	rəgaːs	rəgaːsŋ	ɛːs 
+hunt: rəgaːs(ŋ) | gènís	rəgaːs	rəgaːsŋ	ɛːs 
+husband: ka mɛ́rɛ́́ | ka mɛ́rɛ́́	mɛ́rɛ 
+husband: mɛ́rɛ | ka mɛ́rɛ́́	mɛ́rɛ 
+I: àmɛ́ | amo	àmɔ̀ 
+I: àmɔ̀ | amo	àmɔ̀ 
+if: gən 
+in: əm(n) | əm	əmn 
+jaw: nánɟábàŋà 
+kill: sàw ~ oːs | oːs	sàw	sɔ̀w 
+kill: sɔ̀w | oːs	sàw	sɔ̀w 
+knee: də̀mdí | dimdi	dumdu	də̀mdí 
+know: ɔtɔ | ur	ɔtɔ 
+know: ur | ur	ɔtɔ 
+lake: àr˗ɛ̀ 
+laugh: tɛi(n) | tɛi	tɛin 
+leaf: àyó˗k | ayok	dàrì	ndɛ̀rɛ̀	sʌŋa	àyó-k 
+leaf: dàrì | ayok	dàrì	ndɛ̀rɛ̀	sʌŋa	àyó-k 
+leaf: ndɛ̀rɛ̀ | ayok	dàrì	ndɛ̀rɛ̀	sʌŋa	àyó-k 
+leaf: sʌŋa | ayok	dàrì	ndɛ̀rɛ̀	sʌŋa	àyó-k 
+left: dɛ̀kíá | dɛ̀kíá 
+leg: dɔ̀dí | dɔ̀dí 
+lie: bei˗t ~ bei | bei	bei-t	us	ust	ŋɔnds 
+lie: ŋɔnds | bei	bei-t	us	ust	ŋɔnds 
+lie: us(t) | bei	bei-t	us	ust	ŋɔnds 
+lightning: bàrrák 
+lightning: trùgá 
+lip: yù˗k (màɗa) 
+live: ind(i) | ind	indi	ŋondi	ŋɔnds 
+live: ŋɔnds~ŋondi | ind	indi	ŋondi	ŋɔnds 
+liver: (w)ùró | uro	wuro	wùró	ùró 
+long: dèdi | dèdi 
+long: dèdì | dèdi 
+long: tàngá | dèdi 
+louse: mànɟɛ́ | manj~E	minj~e 
+louse: mbìlí | manj~E	minj~e 
+louse: mɪnǯe | manj~E	minj~e 
+man: dàpái | kaN	kà-ŋ 
+man: fòrfóri | kaN	kà-ŋ 
+man: kàŋ kà mɛ́rɛ́ | kaN	kà-ŋ 
+man: már | kaN	kà-ŋ 
+man: mɛ́rɛ́ | kaN	kà-ŋ 
+many: dàlká | dàlká	də̀bə̀là	gásí	kwàyɛ́ 
+many: də̀bə̀là | dàlká	də̀bə̀là	gásí	kwàyɛ́ 
+many: gásí | dàlká	də̀bə̀là	gásí	kwàyɛ́ 
+many: kwàyɛ́ | dàlká	də̀bə̀là	gásí	kwàyɛ́ 
+meat: dúbò | mɛ̀sí | dúbò	ndòbó 
+meat: mɛ̀sí | mɛ̀sí | dúbò	ndòbó 
+meat: ndòbó | mɛ̀sí | dúbò	ndòbó 
+moon: ànɟék | medding	ànɟék 
+moon: medding | medding	ànɟék 
+morning: daː 
+mosquito: àǯìkíɲí 
+mother: bàɲá | bàɲá	yá	ɲíɲ 
+mother: ɲíɲ | bàɲá	yá	ɲíɲ 
+mother: yá | bàɲá	yá	ɲíɲ 
+mountain: kara | ddeta	kara	kòmàːndí kótò 
+mountain: kòmàːndí kótò | ddeta	kara	kòmàːndí kótò 
+mouth: ŋgàbà | yù-k	ŋgàbà 
+mouth: yù˗k | yù-k	ŋgàbà 
+name: àdùm | meki	miki	mèːkí	àdùm 
+name: mèːkí | meki	miki	mèːkí	àdùm 
+nape: dìːndé 
+nape: gàŋgàn˗i 
+narrow: déík | déík 
+navel: ə̀dí̀m 
+navel: mèːkí 
+near: go ~ gɔ | go	gɔ	mbay	soti-se 
+near: mbay | go	gɔ	mbay	soti-se 
+near: soti˗se | go	gɔ	mbay	soti-se 
+neck: kèrmí | kèrmí 
+new: kài | w3ndi	wondi	wə̀ndí 
+new: làmbwán | w3ndi	wondi	wə̀ndí 
+new: wə̀ndí | w3ndi	wondi	wə̀ndí 
+night: aɲi˗ndele | dinde	dindé	gàngàné	màtàkdɛ́ 
+night: dindé | dinde	dindé	gàngàné	màtàkdɛ́ 
+night: gàngàné | dinde	dindé	gàngàné	màtàkdɛ́ 
+night: màtàkdɛ́ | dinde	dindé	gàngàné	màtàkdɛ́ 
+nose: mùndú ágú | mundu	mùndú 
+not: aise | aːn	ma andi	s	so 
+not: aːn | aːn	ma andi	s	so 
+not: ma andi | aːn	ma andi	s	so 
+not: s(o) | aːn	ma andi	s	so 
+old: áyándiŋɛ̀ 
+old: kàŋ mɔ̀nǯɔ̀ 
+old: minɟaːn˗ndì 
+old: mìnǯò 
+old: mɔ̀nɟò 
+one: kàdɛ́ | kanda	kand~a	kàdɛ́	kàndá	tùwá 
+one: kàndá | kanda	kand~a	kàdɛ́	kàndá	tùwá 
+one: tùwá | kanda	kand~a	kàdɛ́	kàndá	tùwá 
+other: dáŋ | dáŋ	kàdɛ́ 
+other: kàdɛ́ | dáŋ	kàdɛ́ 
+person: kà˗ŋ | kaN	kà-ŋ 
+play: oai(n) | oai	oain	um 
+play: um | oai	oain	um 
+pull: ɟəbət ir(ŋ) 
+pull: òdà(d) 
+push: iɟɛ ~ ɔsi 
+push: lès˗ɪrim 
+push: ndiɲ 
+push: ndiːt 
+push: siːt ~ siːn 
+rain: èn | tà-k 
+rain: enditɛ ~ endi | tà-k 
+rain: tà˗k | tà-k 
+rat: àɟù (múkwíy) 
+rat: àwɛ̀tìkɛ̀ 
+rat: àǯù 
+rat: mùmù 
+red: ndàláɲ | ndàláɲ 
+right: kɔyiŋga | kàrá	tusso | kwàingɔ́	kɔyiŋga 
+right: kwàingɔ́ | kàrá	tusso | kwàingɔ́	kɔyiŋga 
+ripe: òm(˗t) 
+river: awok | awok	bíyà	mèɲá	tà-k 
+river: bíyà | awok	bíyà	mèɲá	tà-k 
+river: mèɲá | awok	bíyà	mèɲá	tà-k 
+river: tà˗k | awok	bíyà	mèɲá	tà-k 
+road: ɲàŋgwɛ́yɛ́ 
+root: sòːndí | sòːndí 
+rope: kùɲɛ́ | kùɲɛ́ 
+rotten: ɟím(˗ndí) | tiyɔye	toɲe	ɟím	ɟím-ndí 
+rotten: tiyɔye | tiyɔye	toɲe	ɟím	ɟím-ndí 
+rotten: toɲe | tiyɔye	toɲe	ɟím	ɟím-ndí 
+round: ɗóŋɗóŋón | wə́rndi	ɗóŋɗóŋón 
+round: wə́rndi | wə́rndi	ɗóŋɗóŋón 
+rub: buɲa ɪrɪŋ | buɲa ɪrɪŋ	niriy	nisò 
+rub: niriy | buɲa ɪrɪŋ	niriy	nisò 
+rub: nisò | buɲa ɪrɪŋ	niriy	nisò 
+salt: kɔ́mbɔ́ | kɔ́mbɔ́	síyím 
+salt: síyím | kɔ́mbɔ́	síyím 
+sand: abiy˗ói | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+sand: baɲe | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+sand: kə̀sìá˗k | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+sand: kí(y)á˗k | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+sand: saŋe | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+sand: wái | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+say: ir | ir	ndiːs	ndɛn	ɪndɪn | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+say: ndɛ̀ ~ ndìːs | ir	ndiːs	ndɛn	ɪndɪn | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+say: ndiːs~ndɛn | ir	ndiːs	ndɛn	ɪndɪn | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+say: ndiːs ~ ndɛn | ir	ndiːs	ndɛn	ɪndɪn | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+say: ɪndɪn | ir	ndiːs	ndɛn	ɪndɪn | abiy-ói	baɲe	kíyá-k	kíá-k	kə̀sìá-k	saŋe	wái 
+scratch: iɲàs˗on | iɲàs-on 
+seed: wúndítè | wúndítè	yì-ŋ 
+seed: yì˗ŋ | wúndítè	yì-ŋ 
+see: lèt | ond	ɔn	ɔnd 
+see: ɔn(d) | ond	ɔn	ɔnd 
+sew: dà(w) | ɛrɛt 
+sew: ɛrɛt 
+sharp: tèrí˗ɲyù˗k | tèrí-ɲyù-k 
+short: àdíːkɛ́i | àdíːkɛ́i 
+short: adiːsé | àdíːkɛ́i 
+shoulder: də̀mtí 
+shoulder: kɔ̀sɔ̀kɔ́r 
+sing: ai ~ eli | ai	eli 
+sister: úk 
+sit: ɲind ~ ɲun | ɲind	ɲun 
+skin: àr | mada	modo	màɗà	párwá 
+skin: màɗà | mada	modo	màɗà	párwá 
+skin: párwá | mada	modo	màɗà	párwá 
+sky: kayiŋa | kayiŋa	mùnùnù 
+sky: mùnùnù | kayiŋa	mùnùnù 
+sleep: bia | bia	tàn	ɛn-anŋ 
+sleep: ɛn˗anŋ | bia	tàn	ɛn-anŋ 
+sleep: tàn | bia	tàn	ɛn-anŋ 
+small: àdíːkɛ́i | kài	àdíːkɛ́i 
+small: kài | kài	àdíːkɛ́i 
+smell: àbùsí | nìyòy 
+smoke: àbróɲí | àbróɲí 
+smoke: dúːri | àbróɲí 
+smooth: yèu(˗ndi) | yèu	yèu-ndi 
+snake: kɔ̀lɔ́ | kɔ̀lɔ́ 
+snow: tàː˗k kèìɟá 
+son: kài (mɛ́rɛ́) 
+sour: káyám(˗ndí) 
+spit: àdèi | atndi	atɛ	iːɗ 
+spit: dòkò(ː)r | atndi	atɛ	iːɗ 
+spit: tokor(n) | atndi	atɛ	iːɗ 
+split: sìkt | sìkt 
+squeeze: rɛːm(n) | rɛːm	rɛːmn 
+stand: tàngá | tàngá 
+star: kèìɟá | beite	kèìɟá 
+stone: dissi | dissi	dusi	kómàːndí 
+stone: kómàːndí | dissi	dusi	kómàːndí 
+straight: àdíl | dilʌŋsé	àdíl 
+straight: dilʌŋsé | dilʌŋsé	àdíl 
+suck: ɲinaiso(n) | məs	məsn	ùn	ɲinaiso	ɲinaison 
+suck: məs(n) | məs	məsn	ùn	ɲinaiso	ɲinaison 
+suck: ùn | məs	məsn	ùn	ɲinaiso	ɲinaison 
+sun: àɲíŋ | a5iN	àɲíŋ 
+sweet: àmbə́sàl 
+sweet: kèméɲí 
+sweet: tuggi 
+swell: mèi˗ànt 
+swell: tartɛ ~ tari 
+swim: ɲɛ́i iriŋ | ɲɛ́i iriŋ 
+tail: àlə̀mdí | àlə̀mdí 
+take: amɛ~amndi 
+take: aːm(n) 
+take: doːr(ŋ) 
+take: narisɛ~narndi 
+take: ɔːdɔːt(n) 
+they: wì | wì 
+they: wìníŋ | wì 
+thick: kòdòŋ(˗ndí) | kòdòŋ	kòdòŋ-ndí 
+thigh: kàppɔ̀ɲàŋ 
+think: nuiː˗sɛ ~ nou˗nyi | nou-nyi	nuiː-sɛ 
+thin: krèìnɟá˗k | krèìnɟá-k 
+thorn: àdík 
+thou: kì | mɔ̀ 
+thou: kìníŋ | mɔ̀ 
+thou: mɔ̀ 
+thou: nànɛ́~nɛ̀nɛ́ | mɔ̀ 
+three: kàsàngà | kasanga	kàsàngà 
+throat: ngàbà 
+throat: póːré 
+throat: póré 
+throw: eit (i) 
+throw: saŋ(n) | eit 
+thunder: kaina 
+thunder: trùgá 
+tie: ot(ŋ) | ot	otŋ	utuŋ 
+tie: utuŋ | ot	otŋ	utuŋ 
+today: wùsɔ́rɔ́ 
+tomorrow: ɲámbár 
+tomorrow: áy 
+tongue: àdìyím | adimo	adiyim	àdìyím 
+tooth: sàdí | sadi	sodi	sàdí 
+tooth: sàdí gól | sadi	sodi	sàdí 
+tooth: sàdí már | sadi	sodi	sàdí 
+tooth: sòwátə̀r | sadi	sodi	sàdí 
+tree: rí˗k | rik 
+turn: ads ~ adn 
+turn: sál ir(ŋ) 
+turn: udɪn 
+turn: ùɲìɲ 
+turn: uɲiɲ 
+two: mbà | mba	mb~a	mbà	mbàràŋ 
+two: mbàràŋ | mba	mb~a	mbà	mbàràŋ 
+unripe: kàlíáfcome 
+vagina: àdí 
+vagina: àdí ágú 
+vagina: àdí kásà 
+vagina: àdí tíɲiŋ 
+vomit: ət 
+walk: ai(k) | amis	amisn	ndro	ndron	nɟasm	əsa	ətŋ 
+walk: amis(n) | amis	amisn	ndro	ndron	nɟasm	əsa	ətŋ 
+walk: əsa~ətŋ | amis	amisn	ndro	ndron	nɟasm	əsa	ətŋ 
+walk: əsa ~ ətŋ | amis	amisn	ndro	ndron	nɟasm	əsa	ətŋ 
+walk: nɟasm | amis	amisn	ndro	ndron	nɟasm	əsa	ətŋ 
+walk: ndro(n) | amis	amisn	ndro	ndron	nɟasm	əsa	ətŋ 
+walk: ornd | amis	amisn	ndro	ndron	nɟasm	əsa	ətŋ 
+walk: owʌn ~ iun | amis	amisn	ndro	ndron	nɟasm	əsa	ətŋ 
+walk: yoːn | amis	amisn	ndro	ndron	nɟasm	əsa	ətŋ 
+warm: bàŋ | bàŋ	bàŋndí 
+warm: bàŋ(˗ndí) | bàŋ	bàŋndí 
+warm: bàŋndí | bàŋ	bàŋndí 
+wash: òːk | oːk	oːkn	òk	òk-ò 
+wash: oːk(n) | oːk	oːkn	òk	òk-ò 
+wash: òk(˗ò) | oːk	oːkn	òk	òk-ò 
+water: àgùyɛ́ ~ àgwìyɛ́ | ta	tà-k 
+water: tà˗k | ta	tà-k 
+weep: ai ~ eli 
+weep: kàsə̀k yìŋ 
+weep: òrò 
+weep: t˗am˗na 
+we: mì | mime 
+we: mìníŋ | mime 
+wet: síó | síó 
+wet: síɔ̀ | síó 
+wet: tit ~ tič | síó 
+what: àtɛ̀ | ngá	àtɛ̀	ŋgʌ́té-sɔ̀ 
+what: ngá | ngá	àtɛ̀	ŋgʌ́té-sɔ̀ 
+what: ŋgʌ́té˗sɔ̀ | ngá	àtɛ̀	ŋgʌ́té-sɔ̀ 
+when: ŋgɛddi | ngɔ̀ngɔ̀	ŋgɛddi 
+when: ngɔ̀ngɔ̀ | ngɔ̀ngɔ̀	ŋgɛddi 
+where: ngó | ngó 
+white: fʌrr | fʌrr	pár 
+white: pár | fʌrr	pár 
+who: ná˗sò | ná-sò 
+wide: wɔ̀sí | wɔ̀sí 
+wife: mì | miyìk	mì 
+wife: miyìk | miyìk	mì 
+wind: aguye | aguye	wi	àgwìy 
+wind: àgwìy | aguye	wi	àgwìy 
+wind: wi | aguye	wi	àgwìy 
+wing: kɔ̀sɔ̀kɔ́r | kɔ̀sɔ̀kɔ́r 
+wipe: tàː˗gə̀s | tàː-gə̀s 
+with: gən 
+with: gon 
+with: mba 
+woman: kà˗ɲmì | kà-ɲmì	mì 
+woman: màts | kà-ɲmì	mì 
+woman: mì | kà-ɲmì	mì 
+wood: čɔ́d 
+wood: rí˗k 
+wood: unǯum 
+wood: yɛ̀s 
+worm: ŋàyó | ŋàyó 
+year: àbbánɛ́ | kùɗó	sánɛ́	wòšinè	àbbánɛ́ 
+year: kùɗó | kùɗó	sánɛ́	wòšinè	àbbánɛ́ 
+year: sánɛ́ | kùɗó	sánɛ́	wòšinè	àbbánɛ́ 
+year: wòšinè | kùɗó	sánɛ́	wòšinè	àbbánɛ́ 
+yellow: áspár | áspár 
+yesterday: kàndáŋ 
+yesterday: kór 
+every: pápát	pát	tum	ɟɛ́k 
+ash: firgi	àwə̀ndí 
+abdomen: bùtùlù 
+bigness: kùlòlí 
+large: kùlòlí 
+breasts: oNgu5e	oNgu5u	ʌ̀ŋgùɲè 
+nail: sə̀ngérmí 
+talon: sə̀ngérmí 
+come from: aːr	er	ɔtŋ	əsa 
+be dead: id	iːd	ɟar ir	ɟar irŋ 
+dead: id	iːd	ɟar ir	ɟar irŋ 
+fly: ki	kin 
+fly v.: ki	kin 
+left hand: kàrá	tusso 
+1 sg.: amo	àmɔ̀ 
+be knowledgeable: ur	ɔtɔ 
+lie down: bei	bei-t	us	ust	ŋɔnds 
+head louse: manj~E	minj~e 
+male: dàpái	fòrfóri	kàŋ kà mɛ́rɛ́ 
+much: dàlká	də̀bə̀là	gásí	kwàyɛ́ 
+multiple: dàlká	də̀bə̀là	gásí	kwàyɛ́ 
+several: dàlká	də̀bə̀là	gásí	kwàyɛ́ 
+flesh: mɛ̀sí 
+hill: ddeta	kara	kòmàːndí kótò 
+title: meki	miki	mèːkí	àdùm 
+nighttime: dinde	dindé	gàngàné	màtàkdɛ́ 
+adulterous: kanda	kand~a	kàdɛ́	kàndá	tùwá 
+single: kanda	kand~a	kàdɛ́	kàndá	tùwá 
+that: kanda	kand~a	kàdɛ́	kàndá	tùwá 
+the: kanda	kand~a	kàdɛ́	kàndá	tùwá 
+unprincipled: kanda	kand~a	kàdɛ́	kàndá	tùwá 
+human: kaN	kà-ŋ 
+human being: kaN	kà-ŋ 
+rainy weather: tà-k 
+hide: mada	modo	màɗà	párwá 
+little: kài	àdíːkɛ́i 
+smallness: kài	àdíːkɛ́i 
+rock: dissi	dusi	kómàːndí 
+2 sg: mɔ̀ 
+you: mɔ̀ 
+grind: mba	mb~a	mbà	mbàràŋ 
+go: amis	amisn	ndro	ndron	nɟasm	əsa	ətŋ 
+hot: bàŋ	bàŋndí 
+1 pl. inc.: mime 
+we₁: mime 
+whiteness: fʌrr	pár 
+who?: ná-sò 
+female: kà-ɲmì	mì 
+distant: dèdì 
+dull: bʌr tɪrre	kòdòŋ	kòdòŋ-ndí 
+serious: bʌr tɪrre	kòdòŋ	kòdòŋ-ndí 
+close: go	gɔ	mbay	soti-se 
+ner: go	gɔ	mbay	soti-se 
+earthworm: ŋàyó 
+2 pl.: kì 
+ye: kì 
+you all: kì 
+3 pl.: wì 
+where?: ngó 
+when?: ngɔ̀ngɔ̀	ŋgɛddi 
+how?: ngá	ngángà	àtɛ̀ 
+broad: wɔ̀sí 
+wideness: wɔ̀sí 
+fat: brá 
+principal wife: miyìk	mì 
+his mother: bàɲá	yá	ɲíɲ 
+my mother: bàɲá	yá	ɲíɲ 
+his father: bàɲá	bá	nóŋ 
+my father: bàɲá	bá	nóŋ 
+woods: kòlá	kútí	ʌsʌk 
+stick: dìŋgílí	rík kɔ̀sɔ̀kɔ́r 
+cord: kùɲɛ́ 
+grease: brá 
+gut: bùtùlù 
+insides: bùtùlù 
+intestine: bùtùlù 
+intestines: bùtùlù 
+breath: uiːs	uiːsn 
+laughter: tɛi	tɛin 
+cogitate: nou-nyi	nuiː-sɛ 
+reflect: nou-nyi	nuiː-sɛ 
+sniff: nìyòy 
+afraid: gùyài 
+be afraid: gùyài 
+fright: gùyài 
+alive: ind	indi	ŋondi	ŋɔnds 
+be alive: ind	indi	ŋondi	ŋɔnds 
+life: ind	indi	ŋondi	ŋɔnds 
+living: ind	indi	ŋondi	ŋɔnds 
+beat: iɟɟ-ɔːs	um 
+strike: iɟɟ-ɔːs	um 
+hack: daːk	daːkn	dèm	də̀kə̀m aːm 
+cut open: sìkt 
+drop: ləundi	ləute	usi	uste	uːs 
+wring: rɛːm	rɛːmn 
+wash clothes: oːk	oːkn	òk	òk-ò 
+bind: ot	otŋ	utuŋ 
+fasten: ot	otŋ	utuŋ 
+tie up: ot	otŋ	utuŋ 
+enumerate: niu	niun 
+number: niu	niun 
+tally: niu	niun 
+have fun: oai	oain	um 
+brook: awok	bíyà	mèɲá	tà-k 
+stream: awok	bíyà	mèɲá	tà-k 
+blaze: aːt	aːtŋ	uːt	uːtŋ 
+evil: tsén 
+rot: tiyɔye	toɲe	ɟím	ɟím-ndí 
+filthy: miɲindi	wàskán 
+soiled: miɲindi	wàskán 
+blunt: mblé	mbɜlé 
+damp: síó 
+right side: kwàingɔ́	kɔyiŋga 
+inside: əm	əmn 

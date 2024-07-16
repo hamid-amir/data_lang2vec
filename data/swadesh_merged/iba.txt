@@ -1,0 +1,266 @@
+all: abis 
+every: abis 
+ash: abu 
+ashes: abu 
+abdomen: perut 
+belly: perut 
+big: besai 
+bigness: besai 
+large: besai 
+bird: buroŋ 
+bite: gigit	ketup 
+black: celum	itam 
+blood: darah 
+bone: tulaN	tulaŋ 
+breast: tusu 
+breasts: tusu 
+burn: tunu 
+burn tr.: tunu 
+cloud: awan	remaŋ	sebun 
+cold: celap 
+come: datai 
+come from: datai 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: asu7	asuʔ	udok	uduk	ukoi	ukui 
+drink: irup 
+dry: raŋkai 
+ear: pendiŋ	pend~iN 
+eat: makai 
+egg: teluʔ 
+eye: mata 
+feather: bulu 
+fire: api 
+fish: ikan 
+fly: terebai 
+fly v.: terebai 
+good: badas	baik	manah 
+green: ijau 
+hair: bok 
+hand: jari	taNan	taŋan 
+left hand: jari	taNan	taŋan 
+right: jari	taNan	taŋan 
+head: palaʔ 
+hear: diNa	diŋa 
+1 sg.: aku 
+I: aku 
+kill: bunoh 
+be knowledgeable: tauʔ	temu 
+know: tauʔ	temu 
+leaf: daun 
+lie: galiʔ 
+lie down: galiʔ 
+liver: atau 
+long: panjai 
+head louse: kutu 
+louse: kutu 
+male: laki 
+man: oraN	oraŋ 
+moon: bulan 
+mouth: mulut	ñawa 
+name: %nama	nama 
+title: %nama	nama 
+neck: rekoŋ 
+new: baru 
+night: malam 
+nighttime: malam 
+nose: idoN	idoŋ 
+adulterous: satu	siti 
+one: satu	siti 
+single: satu	siti 
+that: ñaʔ 
+the: satu	siti 
+unprincipled: satu	siti 
+human: oraN	oraŋ 
+human being: oraN	oraŋ 
+person: oraN	oraŋ 
+rain: ujan 
+rainy weather: ujan 
+red: mansau	mirah 
+path: jalai 
+road: jalai 
+route: jalai 
+root: urat 
+sand: pasir 
+say: jakoʔ	sebut 
+see: peda7	pedaʔ 
+sit: dudok 
+hide: kulit 
+skin: kulit 
+sleep: tindok 
+little: mit 
+small: mit 
+smallness: mit 
+smoke: asap 
+star: bintaN	bintaŋ 
+rock: batu 
+stone: batu 
+swim: nyemerai 
+tail: ikoʔ 
+this: tuʔ 
+2 sg: diʔ	nuan 
+thou: diʔ	nuan 
+you: diʔ	nuan 
+tongue: dilah 
+tooth: Neli7	ŋeliʔ 
+grind: dua 
+two: dua 
+go: jalai 
+walk: jalai 
+hot: panas 
+warm: panas 
+water: ai7	aiʔ 
+1 pl. inc.: kami	kitai 
+we: kami	kitai 
+we₁: kami	kitai 
+what: apa	nama 
+white: burak	putih 
+whiteness: burak	putih 
+who: sapa 
+who?: sapa 
+female: induʔ 
+woman: induʔ 
+yellow: kuniŋ 
+distant: jauh 
+far: jauh 
+dull: berat 
+heavy: berat 
+serious: berat 
+close: dampih 
+near: dampih 
+ner: dampih 
+salt: garam 
+short: pandak	pandau 
+snake: ular 
+thin: nipis 
+wind: aŋin	ribut 
+earthworm: ulat 
+worm: ulat 
+year: taun 
+2 pl.: kitaʔ 
+ye: kitaʔ 
+you all: kitaʔ 
+3 pl.: sidaʔ 
+they: sidaʔ 
+where: ni 
+where?: ni 
+when: kemaia 
+when?: kemaia 
+how: kati 
+how?: kati 
+other: bukai 
+three: tiga 
+four: ampat	empat	mpat 
+five: lima	limaʔ 
+broad: luas 
+wide: luas 
+wideness: luas 
+fat: lemak	lenying 
+thick: tebal 
+narrow: sekut 
+principal wife: bini 
+wife: bini 
+husband: laki 
+his mother: indai 
+mother: indai 
+my mother: indai 
+father: apai 
+his father: apai 
+my father: apai 
+forest: kampoŋ 
+woods: kampoŋ 
+branch: dan 
+stick: dan 
+fruit: buah 
+flower: buŋai 
+grass: rumput 
+cord: tali 
+rope: tali 
+flesh: isiʔ 
+meat: isiʔ 
+grease: lemak	lenying 
+wing: sayap 
+gut: perut 
+guts: perut 
+insides: perut 
+intestine: perut 
+intestines: perut 
+back: belakaŋ 
+suck: tusuʼ 
+spit: ŋe-ludah 
+vomit: mutah 
+blow: puput	sepu	tiup 
+breath: be-ñawa	nyintak seput 
+breathe: be-ñawa	nyintak seput 
+laugh: ketawaʔ 
+laughter: ketawaʔ 
+cogitate: pikir	runding 
+reflect: pikir	runding 
+think: pikir	runding 
+smell: sium 
+sniff: sium 
+afraid: takut 
+be afraid: takut 
+fear: takut 
+fright: takut 
+alive: idup 
+be alive: idup 
+life: idup 
+live: idup 
+living: idup 
+hunt: gigaʔ	ŋ-asu 
+beat: lunsin	maluk	paluʔ	pukul	sipat 
+hit: lunsin	maluk	paluʔ	pukul	sipat 
+strike: lunsin	maluk	paluʔ	pukul	sipat 
+cut: tetak 
+hack: tetak 
+cut open: belah 
+split: belah 
+pierce: tusok 
+stab: tusok 
+scratch: garuʔ	kisai 
+dig: kali 
+stand: diri 
+drop: laboh 
+fall: laboh 
+grasp: pegai 
+hold: pegai 
+hold in arm: pegai 
+squeeze: gelam	perah 
+wring: gelam	perah 
+throw: tikau 
+bind: kebat	ŋikat 
+fasten: kebat	ŋikat 
+tie: kebat	ŋikat 
+tie up: kebat	ŋikat 
+sew: jait 
+count: itoŋ 
+enumerate: itoŋ 
+number: itoŋ 
+tally: itoŋ 
+flow: arung	jungking 
+lake: danau	lepung	pegung 
+ocean: laut	tasik 
+sea: laut	tasik 
+dust: abu	apok 
+fog: apok 
+sky: laŋit 
+bad: jaiʔ 
+evil: jaiʔ 
+rot: burok 
+rotten: burok 
+dirty: kamah 
+filthy: kamah 
+soiled: kamah 
+sharp: tajam 
+blunt: tumpul 
+damp: basah 
+wet: basah 
+right side: kanan 
+left: kibaʔ 
+at: ba	di 
+in: alam	dalam 
+inside: alam	dalam 
+and: eŋgau 
+if: entiʔ 

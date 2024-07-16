@@ -1,0 +1,489 @@
+all: awani\ | awaniʔ 
+all: awaniʔ 
+arm: tuba 
+arrow: sɪφa 
+arrow: tepaʔ 
+ashes: ëi-ya\ | sumaliɸa	əi-yaʔ 
+ashes: əi-yaʔ | sumaliɸa	əi-yaʔ 
+ashes: sumalifa | sumaliɸa	əi-yaʔ 
+ashes: sumaliφa | sumaliɸa	əi-yaʔ 
+back: amareßuʔ 
+back: am-arevu\ 
+back: am-ëlevu 
+back: amʌleßu 
+bad: tepo\ (sibi\) 
+bad: tepoʔ (sibiʔ) 
+bad: teßu 
+bad: tevu 
+bark: ti-tiëbo\ | titiəboʔ 
+bark: titiəboʔ 
+belly: arzhu | aržu	ugariduʔ 
+belly: aržu | aržu	ugariduʔ 
+belly: ugaridu\ | aržu	ugariduʔ 
+belly: ugariduʔ | aržu	ugariduʔ 
+big: anisi\ | anisiʔ	taku 
+big: anisiʔ | anisiʔ	taku 
+big: taku | anisiʔ	taku 
+bird: fule\ | misäʔ	ɸʊlɛʔ 
+bird: misäʔ | misäʔ	ɸʊlɛʔ 
+bird: misä\ | misäʔ	ɸʊlɛʔ 
+bird: φʊlɛʔ | misäʔ	ɸʊlɛʔ 
+bite: ama\ | amaʔ 
+bite: amaʔ 
+black: niftulogu | nɪntitokuʔ	nɪɸtulogʊ 
+black: nintitoku\ | nɪntitokuʔ	nɪɸtulogʊ 
+black: nɪntitokuʔ | nɪntitokuʔ	nɪɸtulogʊ 
+black: nɪφtulogʊ | nɪntitokuʔ	nɪɸtulogʊ 
+blood: wino\ | ko	winoʔ	winu7	wiːnu. 
+blood: winoʔ | ko	winoʔ	winu7	wiːnu. 
+blood: wi:nu\ | ko	winoʔ	winu7	wiːnu. 
+blood: wiːnu. | ko	winoʔ	winu7	wiːnu. 
+bone: ɛlɛːßu | ElEbu	əreβuʔ	ɛlɛːβu 
+bone: èlè:vu | ElEbu	əreβuʔ	ɛlɛːβu 
+bone: əreßuʔ | ElEbu	əreβuʔ	ɛlɛːβu 
+bone: ërevu\ | ElEbu	əreβuʔ	ɛlɛːβu 
+boy: përëkihu\ 
+boy: pərəkihuʔ 
+breast: enino\ | eninoʔ	maba	maːba 
+breast: eninoʔ | eninoʔ	maba	maːba 
+breast: maaba | eninoʔ	maba	maːba 
+breast: maːba | eninoʔ	maba	maːba 
+brother: afa\ 
+brother: apa\ 
+brother: apaʔ 
+brother: aßaʔ 
+brother: ava\ 
+burn: aisuhumurè\ 
+burn: aisuhumurɛʔ 
+calf: ɛlɛßu 
+cassowary: bulamè\ 
+child: mitɔwəkəreφuʔ 
+child: mitòwëkëtefu\ 
+chin: ibarëbo\ 
+chin: ibarəboʔ 
+chin: ifèlu\ 
+chin: iφɛluʔ 
+claw: tekatidu\ | tekatiduʔ 
+claw: tekatiduʔ 
+cloud: matafa | mataɸa	mətəbə sipiʔ 
+cloud: mataφa | mataɸa	mətəbə sipiʔ 
+cloud: mëtëbë sipi\ | mataɸa	mətəbə sipiʔ 
+cloud: mətəbə sipiʔ | mataɸa	mətəbə sipiʔ 
+cold: tiditaßoʔ | tiditaβoʔ	tiɺi 
+cold: tiditavo\ | tiditaβoʔ	tiɺi 
+come: èsi | Esi	kebərəsiʔ	ɛsi 
+come: ɛsi | Esi	kebərəsiʔ	ɛsi 
+come: kebër-ësi\ | Esi	kebərəsiʔ	ɛsi 
+come: kebərəsiʔ | Esi	kebərəsiʔ	ɛsi 
+crocodile: mamʊliʔ 
+crocodile: mamuli\ 
+dance: tëwë\ 
+day: taokure 
+day: taokureʔ 
+die: wagëri\ | gigɺi	gɺi	wagəriʔ 
+die: wagəriʔ | gigɺi	gɺi	wagəriʔ 
+dog: kali\ | ama	kali7	kaliʔ	poräʔ 
+dog: kaliʔ | ama	kali7	kaliʔ	poräʔ 
+dog: poräʔ | ama	kali7	kaliʔ	poräʔ 
+dog: porä\ | ama	kali7	kaliʔ	poräʔ 
+drink: tu-himè\ | tuhimɛʔ 
+drink: tuhimɛʔ 
+dry: dëbatida\ | dəbatidaʔ 
+dry: dəbatidaʔ 
+ear: a͂huluʔ | ahulu	tomarobaʔ	ãhuluʔ 
+ear: ãhulu\ | ahulu	tomarobaʔ	ãhuluʔ 
+earth: përekë\ 
+earth: pərekəʔ 
+earth: tißɛ 
+earth: tivè 
+ear: tomaroba\ | ahulu	tomarobaʔ	ãhuluʔ 
+ear: tomarobaʔ | ahulu	tomarobaʔ	ãhuluʔ 
+eat: hièlè | hiniglameʔ	hiɛlɛ 
+eat: hiɛlɛ | hiniglameʔ	hiɛlɛ 
+eat: hiniglame\ | hiniglameʔ	hiɛlɛ 
+eat: hiniglameʔ | hiniglameʔ	hiɛlɛ 
+egg: kah | kah	porəkaʔ 
+egg: porëka\ | kah	porəkaʔ 
+egg: porəkaʔ | kah	porəkaʔ 
+elbow: tëvë-skëfu\ 
+elbow: toba-tëkobu\ 
+elbow: tobatəkobuʔ 
+elbow: tʌßʌskʌφuʔ 
+emu: bulamɛʔ 
+emu: burəmɛʔ 
+eye: iyoru\ | iyoruʔ	naba	naːba 
+eye: iyoruʔ | iyoruʔ	naba	naːba 
+eye: naaba | iyoruʔ	naba	naːba 
+eye: naːba | iyoruʔ	naba	naːba 
+fall: kukurinda 
+father: aiya\ 
+father: aiyaʔ 
+father: ʔayʌʔ 
+father: ayë\ 
+fat (n.): èborobo\ 
+fat (n.): ɛboroboʔ 
+feather: foreubu\ | ɸoreubuʔ 
+feather: φoreubuʔ | ɸoreubuʔ 
+finger: näsuʔ 
+finger: näsu\ 
+finger: tʌbagodžuʔ 
+finger: tëba-godzhu\ 
+fire: ahu͂zi | ahuZi7	ahũzi	tukwehoʔ 
+fire: ahu˜zi\ | ahuZi7	ahũzi	tukwehoʔ 
+fire: tukweho\ | ahuZi7	ahũzi	tukwehoʔ 
+fire: tukwehoʔ | ahuZi7	ahũzi	tukwehoʔ 
+fish: mo\ | mo	moʔ	mu7	muʔ 
+fish: moʔ | mo	moʔ	mu7	muʔ 
+fish: mu\ | mo	moʔ	mu7	muʔ 
+fish: muʔ | mo	moʔ	mu7	muʔ 
+five: topariʔ 
+fly (v.): idinigusë 
+fly (v.): idinigusə 
+foot: ɛlɛßu | tubaʔ	ɛlɛβu 
+foot: èlèvu | tubaʔ	ɛlɛβu 
+foot: tuba\ | tubaʔ	ɛlɛβu 
+foot: tubaʔ | tubaʔ	ɛlɛβu 
+forehead: èli\ 
+forehead: ɛliʔ 
+forehead: noro\ 
+forehead: noroʔ 
+four: hilyinë (?) 
+four: nilinʌʔ 
+four: nilinë\ (?) 
+four: nirinaʔ 
+full: ovo:ri | watitabuʔ 
+full: watitabu\ | watitabuʔ 
+full: watitabuʔ 
+girl: dəiyomisɛʔ 
+girl: dëyo-misè\ 
+give: bomëneni | boməneni 
+give: boməneni 
+good: dadewësibi\ | dadewəsibiʔ	tarɛʔ 
+good: dadewəsibiʔ | dadewəsibiʔ	tarɛʔ 
+good: tarè\ | dadewəsibiʔ	tarɛʔ 
+good: tarɛʔ | dadewəsibiʔ	tarɛʔ 
+green: didibisua\ | didibisuaʔ 
+green: didibisuaʔ 
+hair: ateno | ateno	hobo	ʌsʌlahuɸa 
+hair: ësë-lahufa | ateno	hobo	ʌsʌlahuɸa 
+hair: ʌsʌlahuφa | ateno	hobo	ʌsʌlahuɸa 
+hand: maba\ | mabaʔ	tuba 
+hand: mabaʔ | mabaʔ	tuba 
+hand: tuba | mabaʔ	tuba 
+head: atenudwë | atenudwə	ʌsu 
+head: atenudwə | atenudwə	ʌsu 
+head: ësu | atenudwə	ʌsu 
+head: ʌsu | atenudwə	ʌsu 
+hear: ërikanidure | ərikanidure 
+hear: ərikanidure 
+heart: mənineßuʔ | mənineβuʔ	yakuʔ 
+heart: mëninevu | mənineβuʔ	yakuʔ 
+heart: yaku\ | mənineβuʔ	yakuʔ 
+heart: yakuʔ | mənineβuʔ	yakuʔ 
+heavy: obëtëtabo sibi\ | obətətabo sibiʔ 
+heavy: obətətabo sibiʔ 
+he/she: bu\ 
+he/she: buʔ 
+hit: bòtikëmëkwë 
+hit: bɔtikəməkwə 
+horn: tobanëkeriru\ | aɺekɺa	tobanəkeriruʔ 
+horn: tobanəkeriruʔ | aɺekɺa	tobanəkeriruʔ 
+house: ndo\ 
+house: ndoʔ 
+house: toh 
+I: mbo\ | bo	mboʔ 
+I: mboʔ | bo	mboʔ 
+kill: tëkërè\ | təkərɛʔ 
+kill: təkərɛʔ 
+knee: ato | ato	skopu	skʌɸu 
+knee: skëfu | ato	skopu	skʌɸu 
+knee: skʌφu | ato	skopu	skʌɸu 
+know: boßoroni | boβoroni 
+know: bovoroni | boβoroni 
+laugh: susu\ 
+laugh: susuʔ 
+leaf: rapa\ | rapaʔ	taba7	taːbaʔ 
+leaf: rapaʔ | rapaʔ	taba7	taːbaʔ 
+leaf: ta:ba\ | rapaʔ	taba7	taːbaʔ 
+leaf: taːbaʔ | rapaʔ	taba7	taːbaʔ 
+leg: èlèvu 
+leg: kisu\ 
+leg: kisuʔ 
+lie: huntinëriribe\ 
+lie: huntinəriribeʔ 
+liver: manißu | manibu	maniβu	munaʔ 
+liver: manivu | manibu	maniβu	munaʔ 
+liver: muna\ | manibu	maniβu	munaʔ 
+liver: munaʔ | manibu	maniβu	munaʔ 
+long: ëretafo\ | əretaɸoʔ 
+long: əretaφoʔ | əretaɸoʔ 
+long: òfi | əretaɸoʔ 
+louse: miba\ | miba7 
+louse: mibaʔ | miba7 
+man: hoh 
+man: hox | hoh 
+man: hoX | hoh 
+man: tekabu\ | hoh 
+man: tekabuʔ | hoh 
+many: dëbutòko\ | dəbutɔkoʔ	ɸeiɺawa 
+many: dəbutɔkoʔ | dəbutɔkoʔ	ɸeiɺawa 
+meat: afaubu 
+meat: aßaubu 
+meat: wəsißi 
+meat: wësivi 
+moon: kërisi\ | kərisiʔ 
+moon: kərisiʔ 
+morning: anabëri 
+morning: anabəri 
+mosquito: kalifa\ 
+mosquito: kaliφaʔ 
+mother: be\ 
+mother: beʔ 
+mountain: fatini\ | patini7	patiniʔ	ɸatiniʔ 
+mountain: patini\ | patini7	patiniʔ	ɸatiniʔ 
+mountain: patiniʔ | patini7	patiniʔ	ɸatiniʔ 
+mountain: φatiniʔ | patini7	patiniʔ	ɸatiniʔ 
+mouth: äsuʔ | iɸaluɸu	äsuʔ 
+mouth: äsu\ | iɸaluɸu	äsuʔ 
+mouth: ifalufu | iɸaluɸu	äsuʔ 
+mouth: iφaluφu | iɸaluɸu	äsuʔ 
+nape: ugurzhu˜ 
+nape: uguržu͂ 
+neck: naba\ | nabaʔ 
+neck: nabaʔ 
+new: tiho˜\ | tihu7	tihõʔ	tihũʔ 
+new: tiho͂ʔ | tihu7	tihõʔ	tihũʔ 
+new: tihu˜\ | tihu7	tihõʔ	tihũʔ 
+new: tihu͂ʔ | tihu7	tihõʔ	tihũʔ 
+night: korabi\ | korabiʔ	kuLapi	kulaɸi 
+night: korabiʔ | korabiʔ	kuLapi	kulaɸi 
+night: kulafi | korabiʔ	kuLapi	kulaɸi 
+night: kulaφi | korabiʔ	kuLapi	kulaɸi 
+nose: etëtëba\ | etətəbaʔ	yElu	yɛlu 
+nose: yèlu | etətəbaʔ	yElu	yɛlu 
+not: ananè\ | tatuʔ 
+not: ananɛʔ | tatuʔ 
+not: tatu\ | tatuʔ 
+not: tatuʔ 
+not: we:è | tatuʔ 
+not: weːɛ | tatuʔ 
+old: enoʔ 
+old: fidemihõ\ 
+old: he:nu , eno\ 
+old: mesäsi 
+old: mesäsi 
+old: φidemiho͂ʔ 
+one: duəwaʔ | Zuwa7	duəwaʔ	d‿ʒowa	žuwaʔ 
+one: zhuwa\ | Zuwa7	duəwaʔ	d‿ʒowa	žuwaʔ 
+one: žuwaʔ | Zuwa7	duəwaʔ	d‿ʒowa	žuwaʔ 
+rain: mëtëbë\ | mətəbəʔ	tu 
+rain: mətəbəʔ | mətəbəʔ	tu 
+rain: tu | mətəbəʔ	tu 
+rat: kuni\ 
+rat: kuniʔ 
+red: kowa\ | kowaʔ 
+red: kowaʔ 
+road: arëgè\ | arogE7 
+road: arʌgɛʔ | arogE7 
+road: nugusamè\ | arogE7 
+road: nugusamɛʔ | arogE7 
+root: tiëte\ | tilkʌɸuʔ	tiəteʔ 
+root: tiəteʔ | tilkʌɸuʔ	tiəteʔ 
+root: tilkëfu\ | tilkʌɸuʔ	tiəteʔ 
+root: tilkʌφuʔ | tilkʌɸuʔ	tiəteʔ 
+round: huwentabo\ | huwentabɔʔ 
+round: huwentabɔʔ 
+sand: yènèmba\ | yɛnibaʔ	yɛnɛmbaʔ 
+sand: yɛnɛmbaʔ | yɛnibaʔ	yɛnɛmbaʔ 
+sand: yèniba\ | yɛnibaʔ	yɛnɛmbaʔ 
+sand: yɛnibaʔ | yɛnibaʔ	yɛnɛmbaʔ 
+say: këgariride\ | kəgarirideʔ 
+say: kəgarirideʔ 
+seed: tiriti\ | tiritiʔ 
+seed: tiritiʔ 
+see: whiërre\ | whiərreʔ 
+see: whiərreʔ 
+short: aboro\ 
+short: aboroʔ 
+shoulder: fezhu\ 
+shoulder: pesu\ 
+shoulder: pesuʔ 
+shoulder: φežuʔ 
+sister: misë-nibò\ 
+sister: misənibɔʔ 
+sister: misè-nva\ 
+sister: mɪsɛnßaʔ 
+sit: ama ho tëkohirire\ | ama ho təkohirireʔ	tʊɸa 
+sit: ama ho təkohirireʔ | ama ho təkohirireʔ	tʊɸa 
+sit: tufa | ama ho təkohirireʔ	tʊɸa 
+sit: tʊφa | ama ho təkohirireʔ	tʊɸa 
+skin: imo | Zibu7	imo	žibuʔ 
+skin: zhivu\ | Zibu7	imo	žibuʔ 
+skin: žibuʔ | Zibu7	imo	žibuʔ 
+sleep: ninikəßemɛʔ | ninikəβemɛʔ 
+sleep: ninikëvemè\ | ninikəβemɛʔ 
+small: tako\ | takoʔ	tokʷeɸʊʔ 
+small: takoʔ | takoʔ	tokʷeɸʊʔ 
+small: tokʷeφʊʔ | takoʔ	tokʷeɸʊʔ 
+small: tokwefu\ | takoʔ	tokʷeɸʊʔ 
+smoke: ahiyalifa\ | ahea	aheya	ahiyaliɸaʔ	əi-duʔ 
+smoke: ahiyaliφaʔ | ahea	aheya	ahiyaliɸaʔ	əi-duʔ 
+smoke: ëi-du\ | ahea	aheya	ahiyaliɸaʔ	əi-duʔ 
+smoke: əi-duʔ | ahea	aheya	ahiyaliɸaʔ	əi-duʔ 
+snake: ta:zhu\ | taːžuʔ	təizuʔ 
+snake: taːžuʔ | taːžuʔ	təizuʔ 
+snake: tëizu\ | taːžuʔ	təizuʔ 
+snake: təizuʔ | taːžuʔ	təizuʔ 
+spit: tɪtərekuʔ 
+stand: ɛlißɛʔ 
+stand: èlivè\ 
+stand: tëpa\ 
+stand: təpaʔ 
+star: sikë-tuva\ | sikotuba7	sɪkʌtuβaʔ	yämɛʔ 
+star: sɪkʌtußaʔ | sikotuba7	sɪkʌtuβaʔ	yämɛʔ 
+star: yämè\ | sikotuba7	sɪkʌtuβaʔ	yämɛʔ 
+star: yämɛʔ | sikotuba7	sɪkʌtuβaʔ	yämɛʔ 
+stick: atërebida\ 
+stone: anizi\ | anizi7	anɪziʔ	arigeʔ 
+stone: anɪziʔ | anizi7	anɪziʔ	arigeʔ 
+stone: arige\ | anizi7	anɪziʔ	arigeʔ 
+stone: arigeʔ | anizi7	anɪziʔ	arigeʔ 
+sun: duba\ | dubaʔ	kɺid‿ʒi 
+sun: dubaʔ | dubaʔ	kɺid‿ʒi 
+swim: tupopuru\ | tupopuruʔ 
+swim: tupopuruʔ 
+tail: këbu\ | kəbuʔ	kɛːβuʔ 
+tail: kəbuʔ | kəbuʔ	kɛːβuʔ 
+tail: kɛːßuʔ | kəbuʔ	kɛːβuʔ 
+tail: kè:vu\ | kəbuʔ	kɛːβuʔ 
+take: patërè 
+that: kedußeʔ | keduβeʔ 
+they: akonisè\ 
+they: akonisɛʔ 
+they two: tëbe teide\ 
+they two: təbe teideʔ 
+this: kißiʔ | kiβiʔ 
+thou: bisu\ | bisuʔ 
+thou: bisuʔ 
+thou: so bɪniwəʔ | bisuʔ 
+three: ʔaʷʌʔ 
+three: aonaʔ 
+three: aunë\ 
+tomorrow: unidi\ 
+tomorrow: unidiʔ 
+tongue: ahare\ | aLiZi7	ahareʔ	aližiʔ 
+tongue: ahareʔ | aLiZi7	ahareʔ	aližiʔ 
+tongue: alizhi\ | aLiZi7	ahareʔ	aližiʔ 
+tongue: aližiʔ | aLiZi7	ahareʔ	aližiʔ 
+tooth: èninu\ | Eninu7	əretiʔ	ɛninuʔ 
+tooth: ɛninuʔ | Eninu7	əretiʔ	ɛninuʔ 
+tooth: ëreti\ | Eninu7	əretiʔ	ɛninuʔ 
+tooth: əretiʔ | Eninu7	əretiʔ	ɛninuʔ 
+tree: ti: 
+tree: tiʔ 
+tree: tiː 
+two: tedeʔ | teLE	tedeʔ	telɛʔ	teĭɛʔ	teɺe 
+two: telɛʔ | teLE	tedeʔ	telɛʔ	teĭɛʔ	teɺe 
+two: tel(y)e\ | teLE	tedeʔ	telɛʔ	teĭɛʔ	teɺe 
+walk: ëguzhi˜\ | ninikəweiməʔ	ʌgužɪ̃ʔ 
+walk: ʌgužɪ͂ʔ | ninikəweiməʔ	ʌgužɪ̃ʔ 
+walk: ninikëweimë\ | ninikəweiməʔ	ʌgužɪ̃ʔ 
+walk: ninikəweiməʔ | ninikəweiməʔ	ʌgužɪ̃ʔ 
+walk: φɪkanda | ninikəweiməʔ	ʌgužɪ̃ʔ 
+wallaby: wëtikè\ 
+wallaby: wətikɛʔ 
+wallaby: wʌtɪkɛʔ 
+warm: atetetafo 
+warm: atetetaφo 
+water: tu | tu	tu7	tuʔ 
+water: tu(\) | tu	tu7	tuʔ 
+water: tuʔ | tu	tu7	tuʔ 
+we (excl.): sämə tənəʔ 
+we: sämë tënë\ 
+wet: watimago\ 
+wet: watimagoʔ 
+we two: bonëterëmari\ 
+we two (excl.): bonəterəmarɪʔ 
+we two (incl.): diyunë teide\ 
+what: fiänä\ | ɸiänä 
+what: φiänä | ɸiänä 
+when: ëpmarin 
+when: əpmarɪn 
+where: peëripèn 
+where: peəripɛn 
+white: tatiwa\ | tatiwaʔ 
+white: tatiwaʔ 
+who: diyare\ | diyareʔ 
+who: diyareʔ 
+wind: flèlu\ | pəretuʔ	ɸlɛlʊʔ	ɸɺeɺu 
+wind: përetu\ | pəretuʔ	ɸlɛlʊʔ	ɸɺeɺu 
+wind: pəretuʔ | pəretuʔ	ɸlɛlʊʔ	ɸɺeɺu 
+wind: φlɛlʊʔ | pəretuʔ	ɸlɛlʊʔ	ɸɺeɺu 
+wing: hʷa͂kuluʔ 
+wing: hwãkulu\ 
+wing: wakurekëru\ 
+wing: wakurekəruʔ 
+woman: ho͂ʔ | hõʔ	mɪsɛʔ 
+woman: hõ\ | hõʔ	mɪsɛʔ 
+woman: misè\ | hõʔ	mɪsɛʔ 
+woman: mɪsɛʔ | hõʔ	mɪsɛʔ 
+wood: atərebidaʔ 
+yellow: toradopo\ | toradopoʔ 
+yellow: toradopoʔ 
+yes: nakwɔpiäʔ 
+yes: nakwòpiä\ 
+yesterday: yamäʔ 
+yesterday: yamä\ 
+yesterday: ya:mè\ 
+yesterday: yaːmɛʔ 
+you: so biniwë\ | bisuʔ 
+you two: diyunə teideʔ 
+every: awaniʔ 
+ash: sumaliɸa	əi-yaʔ 
+abdomen: aržu	ugariduʔ 
+bigness: anisiʔ	taku 
+large: anisiʔ	taku 
+breasts: eninoʔ	maba	maːba 
+nail: tekatiduʔ 
+talon: tekatiduʔ 
+come from: Esi	kebərəsiʔ	ɛsi 
+be dead: gigɺi	gɺi	wagəriʔ 
+dead: gigɺi	gɺi	wagəriʔ 
+fly: idinigusə 
+fly v.: idinigusə 
+left hand: mabaʔ	tuba 
+right: mabaʔ	tuba 
+1 sg.: bo	mboʔ 
+be knowledgeable: boβoroni 
+head louse: miba7 
+male: ho	hoχ	tekabuʔ 
+much: dəbutɔkoʔ	ɸeiɺawa 
+multiple: dəbutɔkoʔ	ɸeiɺawa 
+several: dəbutɔkoʔ	ɸeiɺawa 
+hill: patini7	patiniʔ	ɸatiniʔ 
+name: wenid‿ʒi 
+title: wenid‿ʒi 
+nighttime: korabiʔ	kuLapi	kulaɸi 
+adulterous: Zuwa7	duəwaʔ	d‿ʒowa	žuwaʔ 
+single: Zuwa7	duəwaʔ	d‿ʒowa	žuwaʔ 
+the: Zuwa7	duəwaʔ	d‿ʒowa	žuwaʔ 
+unprincipled: Zuwa7	duəwaʔ	d‿ʒowa	žuwaʔ 
+human: hoh 
+human being: hoh 
+person: hoh 
+rainy weather: mətəbəʔ	tu 
+path: arogE7 
+route: arogE7 
+hide: Zibu7	imo	žibuʔ 
+little: takoʔ	tokʷeɸʊʔ 
+smallness: takoʔ	tokʷeɸʊʔ 
+rock: anizi7	anɪziʔ	arigeʔ 
+2 sg: bisuʔ 
+tree: ti 
+grind: teLE	tedeʔ	telɛʔ	teĭɛʔ	teɺe 
+go: ninikəweiməʔ	ʌgužɪ̃ʔ 
+whiteness: tatiwaʔ 
+who?: diyareʔ 
+female: hõʔ	mɪsɛʔ 
+dull: obətətabo sibiʔ 
+serious: obətətabo sibiʔ 

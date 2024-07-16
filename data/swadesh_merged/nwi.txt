@@ -1,0 +1,263 @@
+all: mufaam 
+every: mufaam 
+ash: nəmlakw 
+ashes: nəmlakw 
+abdomen: təpu- 
+belly: təpu- 
+big: ehua 
+bigness: ehua 
+large: ehua 
+bird: mana 
+bite: as 
+black: apəŋ 
+blood: nətau- 
+bone: nəkəlkəlii- 
+breast: nahi- 
+breasts: nahi- 
+burn: as	vaan 
+burn tr.: as	vaan 
+cloud: napua 
+cold: əmla 
+come: ua 
+come from: ua 
+be dead: mha 
+dead: mha 
+die: mha 
+dog: kuli 
+drink: num 
+dry: əvsək 
+ear: mwa|telŋ 
+eat: aan 
+egg: kwanhel- 
+eye: nəml- 
+feather: numl- 
+fire: napw 
+fish: kamaam 
+fly: iva 
+fly v.: iva 
+good: vha 
+green: amləmla 
+hair: nukwanee- 
+hand: kwa|lm- 
+left hand: kwa|lm- 
+right: kwa|lm- 
+head: -kapwa 
+hear: ələŋ 
+1 sg.: iou 
+I: iou 
+kill: huopnii 
+be knowledgeable: ləkwun 
+know: ləkwun 
+leaf: nəmwal- 
+lie: əməl 
+lie down: əməl 
+liver: nakanmop- 
+long: aliepomh 
+head louse: kel 
+louse: kel 
+male: iel|maan 
+man: ielmama 
+moon: makua 
+mouth: nhel- 
+name: nhaŋ- 
+title: nhaŋ- 
+neck: -lakw 
+new: vi 
+night: ien|pəŋ 
+nighttime: ien|pəŋ 
+nose: nəpwaŋnhiŋ- 
+adulterous: kəlikiana 
+one: kəlikiana 
+single: kəlikiana 
+that: aan 
+the: kəlikiana 
+unprincipled: kəlikiana 
+human: ielmama 
+human being: ielmama 
+person: ielmama 
+rain: nehen 
+rainy weather: nehen 
+red: huau 
+path: suatukw 
+road: suatukw 
+route: suatukw 
+root: nua- 
+sand: nəpakəl 
+say: ni 
+see: aam 
+sit: akwəta 
+hide: təki- 
+skin: təki- 
+sleep: apəl 
+little: alkatəət 
+small: alkatəət 
+smallness: alkatəət 
+smoke: nhenapw 
+star: kəmhau 
+rock: kopwiel 
+stone: kopwiel 
+swim: al 
+tail: nəpikou- 
+2 sg: iik 
+thou: iik 
+you: iik 
+tongue: nelam- 
+tooth: kwəlu- 
+grind: kəla-lu	kəla|lu 
+two: kəla-lu	kəla|lu 
+go: eliuok 
+walk: eliuok 
+hot: aliuan 
+warm: aliuan 
+water: nu 
+1 pl. inc.: kəmaua	kətaua 
+we: kəmaua	kətaua 
+we₁: kəmaua	kətaua 
+what: naha 
+white: hauan 
+whiteness: hauan 
+who: pa 
+who?: pa 
+female: pilavən 
+woman: pilavən 
+yellow: akwlha 
+distant: isokw 
+far: isokw 
+dull: pwam 
+heavy: pwam 
+serious: pwam 
+close: ipaka 
+near: ipaka 
+ner: ipaka 
+salt: nəŋal 
+short: kwakwa 
+snake: taŋalua 
+thin: aviləŋ 
+wind: nəmataaŋ 
+earthworm: mwatíkalo 
+worm: mwatíkalo 
+year: nekw 
+2 pl.: kəmia 
+ye: kəmia 
+you all: kəmia 
+3 pl.: ilia 
+they: ilia 
+where: ihie 
+where?: ihie 
+when: naŋhən 
+when?: naŋhən 
+how: hau- 
+how?: hau- 
+three: kəsisəl	kəsi|səl 
+four: ku|as	kə-was 
+five: kəlkələp 
+broad: ehua 
+wide: ehua 
+wideness: ehua 
+fat: nelpwa 
+thick: esiis 
+narrow: əvtelakən 
+principal wife: pilavən 
+wife: pilavən 
+husband: ielmaan 
+his mother: nə|sən- 
+mother: nə|sən- 
+my mother: nə|sən- 
+father: ləm- 
+his father: ləm- 
+my father: ləm- 
+forest: ləkinál 
+woods: ləkinál 
+branch: kwalm- 
+stick: kwalm- 
+fruit: kwankwa- 
+flower: tihi- 
+grass: nəvhilək 
+cord: nelaus 
+rope: nelaus 
+flesh: nauŋa 
+meat: nauŋa 
+grease: nelpwa 
+wing: nəkavkav- 
+gut: nəsinau- 
+guts: nəsinau- 
+insides: nəsinau- 
+intestine: nəsinau- 
+intestines: nəsinau- 
+back: nəmweitaa- 
+suck: amwha 
+spit: elŋaavh 
+vomit: lua 
+blow: hel	kəlkəl 
+breath: ehlaŋ 
+breathe: ehlaŋ 
+laugh: aalh 
+laughter: aalh 
+cogitate: ləki-n l-uh 
+reflect: ləki-n l-uh 
+think: ləki-n l-uh 
+smell: ələŋ 
+sniff: ələŋ 
+afraid: ŋən 
+be afraid: ŋən 
+fear: ŋən 
+fright: ŋən 
+alive: mlaŋh 
+be alive: mlaŋh 
+life: mlaŋh 
+live: mlaŋh 
+living: mlaŋh 
+hunt: ea|pən 
+beat: uh 
+hit: uh 
+strike: uh 
+cut: əlai 
+hack: əlai 
+cut open: aləplaai 
+split: aləplaai 
+pierce: hai 
+stab: hai 
+scratch: aki 
+dig: kəl 
+stand: alel 
+drop: məl 
+fall: məl 
+grasp: vah 
+hold: vah 
+hold in arm: vah 
+squeeze: əvtete lakən 
+wring: əvtete lakən 
+throw: alukən 
+bind: əlkəs 
+fasten: əlkəs 
+tie: əlkəs 
+tie up: əlkəs 
+sew: lhi 
+count: avhekən 
+enumerate: avhekən 
+number: avhekən 
+tally: avhekən 
+flow: aiu 
+lake: nəsiu 
+ocean: tahik 
+sea: tahik 
+dust: nəmokwlúl 
+sky: neai 
+bad: ha 
+evil: ha 
+rot: əmətət 
+rotten: əmətət 
+dirty: amkəmək 
+filthy: amkəmək 
+soiled: amkəmək 
+sharp: esla 
+blunt: pus 
+damp: aptəŋ 
+wet: aptəŋ 
+right side: matukw 
+left: maul 
+at: ie 
+in: ie 
+inside: ie 
+and: kəni	məna 
+if: kipimah	tukwmah 

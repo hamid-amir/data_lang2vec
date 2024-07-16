@@ -1,0 +1,354 @@
+all: saba\ane | baʔano 
+and: kene | kɛ 
+animal: kadadi 
+ashes: awu | ɗalika 
+at: di | i	ɗi 
+back: laro | paŋku 
+bad: ja\o | musega 
+bark: kuli kau 
+because: parantaeda 
+belly: kompo 
+big: to\oge | tɔʔoha 
+bird: kadadi | kaɗaɗi 
+bite: nokaha 
+black: biru | ɓiru 
+blood: raha 
+blow: no\iri | hoppu 
+bone: buku | buku	ɓuku 
+breathe: nomoho | sɛnde 
+breathe: nosende | sɛnde 
+burn: notunu 
+child: ana 
+cloud: komo | lono 
+cloud: lono 
+cold: monini | kɛŋku 
+come: nomai 
+correct: nokobe 
+count: nobilo | rɛke 
+count: noreke | rɛke 
+cut: nogonti | simbi 
+cut: notopanga | simbi 
+day: \oloo 
+die: nomate 
+dig: nokali | hɔ|ŋali 
+dirty: leluma | kotóro 
+dirty: marombu | kotóro 
+dog: \obu | obu	oɓu 
+drink: nomoro\u | moro7u	mɔroʔu 
+dry: morengke | kari 
+dry: motiti | kari 
+dull: nobantu | moɓoha | loli 
+dust: gawu | m͡bɔlɔ 
+ear: talinga | tuli 
+earth: wuta 
+eat: nomanga | maŋa 
+egg: gora\u | koraʔu 
+eye: mata 
+fall: buti | ɓutti 
+far: melai | mɛllai 
+father: ama 
+fat (n.): mo\owu 
+fear: ma\eka | maʔaka 
+feather: wulu nu kadadi | ɸulu 
+few: melampa 
+fight: pogira 
+fire: ahu | ahu	luk|api 
+fish: ika | ika	kenta 
+five: lima 
+float: no\onu\onu 
+flower: kamba | buŋa 
+flow: nowulu | hɛleɓo 
+fly (v.): nolola 
+fog: gopo | kamu-kamu 
+foot: ae 
+four: gana | haʔa	pa’a 
+freeze: - 
+fruit: ba\e | ɓaʔe 
+give: nohu\u 
+good: leama | mokosa 
+grass: pada | rompo 
+green: noijo | kakanda 
+guts: kalukompo | kalu kompo 
+hair: hotu 
+hand: lima 
+head: kapala 
+hear: norodongo | hikeɗoŋo	rodoNo 
+heart: ba\e 
+heavy: moboha | moɓoha 
+he: ia 
+here: i ana 
+hit: nobusu | kabɛ́bɛ 
+hit: notaha | kabɛ́bɛ 
+hit: notopa | kabɛ́bɛ 
+hold: nokonto | kɔntaʔ 
+how?: noha\a | ɸana umpa 
+hunt: nodowo | usere 
+hunt: nohengala | usere 
+husband: ama | moʔane mia 
+ice: - 
+if: ara 
+I: iaku | iaku	yaku 
+in: di | laro 
+kill: nohokomate 
+know: nodahani | ɗahaniʔe 
+lake: - | talaga 
+laugh: nokoni 
+leaf: ro\o | ro7o	roʔo 
+left: mohii | mɔhí 
+leg: ae 
+live: no\ido | tumbu 
+liver: ate 
+long: melangka | mɛlaŋka 
+louse: kutu 
+man: mo\ane | mia	tɛmiʏa 
+many: nokoruo 
+meat: ne\i | nɛʔi 
+meat: ramo | nɛʔi 
+moon: komba 
+mother: ina 
+mountain: gunu | buNk~a 
+mountain: wungka | buNk~a 
+mouth: ngusu | ŋusu 
+name: ngaa | Na	ŋa 
+narrow: sombu | sɔŋko 
+narrow: songko | sɔŋko 
+near: metangku | mɛɗani 
+neck: kawu\u | ɸuʔu 
+new: wo\ou | wo7ou	ɸoʔou 
+night: morondo | utu 
+nose: ngo\o | No7o	ŋoʔo 
+not: mbeaka 
+old: mansuana 
+one: sa\asa | asa	assa 
+other: hele | hile 
+person: mia | mia	tɛmiʏa 
+play: no\aka\aka 
+pull: nohikidongo 
+push: nosoro 
+rain: nowande | monda 
+red: meha 
+right: moana | lima | mɔwana 
+river: umala 
+road: sala | intɛŋa	sala 
+root: aka 
+rope: hao | háu 
+rotten: mowuru | pere 
+rub: nogoso 
+salt: gara 
+sand: \one 
+say: nopogau | ɸa | one 
+scratch: nokaho 
+sea: mawi | olo 
+seed: beni 
+see: no\ita | ita	siʔi 
+sew: hebai | saŋki 
+sew: hobai | saŋki 
+sew: sangki | saŋki 
+sharp: mohama 
+short: medumpu | mɛɗumpu 
+short: mepanda | mɛɗumpu 
+short: mopera | mɛɗumpu 
+sing: nolagu 
+sit: nokede | kɛɗe 
+skin: kuli 
+sky: langi | laŋi 
+sleep: nomoturu | maturu 
+small: ki\iki\i | ana-ana 
+smell: noanti | hɛŋɔʔo 
+smoke: ko\o | gopo 
+smooth: molungu 
+snake: sa\a | saʔa 
+snow: - 
+some: - 
+spit: no xxx | hɛpaluʔki 
+split: nogonti | ɸola 
+squeeze: nopinse | rɛpe 
+stab: notobo | toɓo 
+stand: nohetade | taɗe 
+star: wetu\o | betu7o	ɸituʔo 
+stick: panga | paŋa 
+stick: rapi | paŋa 
+stick: sombure | paŋa 
+stone: watu | batu	ɸatu 
+straight: molobu 
+suck: nomiso | pɔnno 
+suck: nopono | pɔnno 
+sun: \oloo 
+swell: nobengki 
+swim: nonangu | kɛaβa	naŋu naŋu 
+tail: iku 
+that: atu | atue	haʔatu | asa	assa 
+that: iso | atue	haʔatu | asa	assa 
+there: i atu 
+there: i iso 
+they: amai 
+thick: mokobu | mɔkobo 
+think: nowikirii | ɸikiri 
+thin: monihi | munihi 
+this: ana | haʔia 
+thou: iko\o | iko7o	ikomiu	ikoʔo	koʔo 
+three: tolu 
+throw: no\eda | pɔke 
+throw: nohambere | pɔke 
+throw: notompa | pɔke 
+tie: noboke | ɓoke 
+tie: nobongko | ɓoke 
+tie: nondai | ɓoke 
+tongue: ela | ela	ella 
+tooth: koni 
+tree: (hu\u nu) kau 
+turn: nowali 
+two: dodua | [kɛ]ɗuwa	dua 
+vomit: nohenenasi | tokumbo 
+vomit: nohonolokea | tokumbo 
+vomit: notolua | tokumbo 
+walk: nowila ae | kita 
+warm: nomelu | mɛna 
+wash: nohesowui 
+water: uwe | te7e	teʔe 
+we: ikami | ikami	ikita	kami	kita 
+we: ikita | ikami	ikita	kami	kita 
+wet: mepa | mɛpa 
+what: paira | haʔira 
+when?: dehia | kɛ|hia 
+when?: kehia | kɛ|hia 
+where?: i umpa | umpa	ɗiʔumpa 
+white: mohute | mahute 
+who: emai | yɛʔe 
+who: ie\ei | yɛʔe 
+wide: lalesa | mɛroɸi 
+wife: bela | ɸoɸine mia 
+wife: wowine | ɸoɸine mia 
+wind: \iri | ɸande 
+wing: kape | kapi 
+wipe: nogoso 
+with: kene 
+woman: wowine | ɸoɸine 
+woods: moto kau | hoɸo 
+worm: \oro\oro | ulo 
+worm: ulo 
+year: ta\o | taʔu 
+ye: ikomiu | kɔmiu 
+yellow: mokuri | makuri 
+every: baʔano 
+ash: ɗalika 
+abdomen: kompo 
+bigness: tɔʔoha 
+large: tɔʔoha 
+bite: kaha 
+breast: titi 
+breasts: titi 
+burn: tunu 
+burn tr.: tunu 
+come: mai 
+come from: mai 
+be dead: mate 
+dead: mate 
+die: mate 
+fly: lola 
+fly v.: lola 
+full: pono 
+left hand: lima 
+horn: tand~u 
+1 sg.: iaku	yaku 
+kill: hokomate 
+knee: tu7u 
+be knowledgeable: ɗahaniʔe 
+lie: n͡dɔro 
+lie down: n͡dɔro 
+head louse: kutu 
+male: moʔane 
+hill: buNk~a 
+title: Na	ŋa 
+nighttime: utu 
+adulterous: asa	assa 
+single: asa	assa 
+the: asa	assa 
+unprincipled: asa	assa 
+human: mia	tɛmiʏa 
+human being: mia	tɛmiʏa 
+rainy weather: monda 
+path: intɛŋa	sala 
+route: intɛŋa	sala 
+sand: one 
+hide: kuli 
+little: ana-ana 
+smallness: ana-ana 
+rock: batu	ɸatu 
+sun: olo 
+2 sg: iko7o	ikomiu	ikoʔo	koʔo 
+you: iko7o	ikomiu	ikoʔo	koʔo 
+tree: kau 
+grind: [kɛ]ɗuwa	dua 
+go: kita 
+hot: mɛna 
+1 pl. inc.: ikami	ikita	kami	kita 
+we₁: ikami	ikita	kami	kita 
+whiteness: mahute 
+who?: yɛʔe 
+female: ɸoɸine 
+distant: mɛllai 
+serious: moɓoha 
+close: mɛɗani 
+ner: mɛɗani 
+earthworm: ulo 
+2 pl.: kɔmiu 
+you all: kɔmiu 
+3 pl.: amai 
+where: umpa	ɗiʔumpa 
+when: kɛ|hia 
+how: ɸana umpa 
+broad: mɛroɸi 
+wideness: mɛroɸi 
+fat: mɔkobo 
+principal wife: ɸoɸine mia 
+his mother: ina 
+my mother: ina 
+his father: ama 
+my father: ama 
+forest: hoɸo 
+branch: paŋa 
+cord: háu 
+flesh: nɛʔi 
+gut: kalu kompo 
+insides: kalu kompo 
+intestine: kalu kompo 
+intestines: kalu kompo 
+breath: sɛnde 
+laugh: koni 
+laughter: koni 
+cogitate: ɸikiri 
+reflect: ɸikiri 
+sniff: hɛŋɔʔo 
+afraid: maʔaka 
+be afraid: maʔaka 
+fright: maʔaka 
+alive: tumbu 
+be alive: tumbu 
+life: tumbu 
+living: tumbu 
+beat: kabɛ́bɛ 
+strike: kabɛ́bɛ 
+hack: simbi 
+cut open: ɸola 
+pierce: toɓo 
+scratch: kaho 
+drop: ɓutti 
+grasp: kɔntaʔ 
+hold in arm: kɔntaʔ 
+wring: rɛpe 
+bind: ɓoke 
+fasten: ɓoke 
+tie up: ɓoke 
+enumerate: rɛke 
+number: rɛke 
+tally: rɛke 
+ocean: olo 
+evil: musega 
+rot: pere 
+filthy: kotóro 
+soiled: kotóro 
+blunt: loli 
+damp: mɛpa 
+right side: mɔwana 
+inside: laro 

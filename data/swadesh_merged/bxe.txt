@@ -1,0 +1,470 @@
+all: b\ad\d\e | bʼadʼdʼe 
+and: bu 
+and: ˗na 
+ankle: kanta 
+ankle: s\ikile 
+arm: iya 
+arm: məgɪ\nti 
+arm: zagari 
+arrow: fald\i 
+arrow: faliʔ 
+arrow: pald\o 
+arrow: tebele 
+ashes: borxa˗ko | táuni 
+ashes: táuni | táuni 
+back: bagada 
+back: bágado 
+back: kəlku 
+back: lɛpša 
+bad: adala 
+bark: ag\ate | ?guraʕe	agʼate	aqata	káːda	káːdʼa 
+bark: aqata | ?guraʕe	agʼate	aqata	káːda	káːdʼa 
+bark: guraʕe | ?guraʕe	agʼate	aqata	káːda	káːdʼa 
+bark: káːd(\)a | ?guraʕe	agʼate	aqata	káːda	káːdʼa 
+belly: búːsa | búːsa 
+big: arba | arba	gadaxune 
+big: gadaxune | arba	gadaxune 
+bird: karbo | karbo	karbu 
+bird: karbu | karbo	karbu 
+bite: gáʕa | gáʕa 
+bite: k\ani | gáʕa 
+bite: (n)agaska | gáʕa 
+bite: q\ani | gáʕa 
+black: d\ak\˗muni | dʼakʼ-muni 
+blood: d\ubak\am ~ dubaqam | šaho	šoho	šoxo	šuxo 
+blood: ilkato | šaho	šoho	šoxo	šuxo 
+blood: šaho | šaho	šoho	šoxo	šuxo 
+blood: šoho | šaho	šoho	šoxo	šuxo 
+blood: šoxo | šaho	šoho	šoxo	šuxo 
+blood: šuxo | šaho	šoho	šoxo	šuxo 
+blow: fusaː 
+bone: mič\a | miCa	mičʼa 
+boy: goronsa 
+boy: šokuta 
+boy: ǯaʔaka 
+branch: zɛmitti 
+breast: ʔama | ama	ʔaːma 
+breast: ʔaːma | ama	ʔaːma 
+breast: ʔint˗ta ʔama | ama	ʔaːma 
+breathe: naʔs˗ad\ ~ nas˗ad\ 
+brother: adda 
+brother: ʔaza ~ ʕaza ~ azo 
+brother: šaʔal˗ku 
+burn: k\awadi. qawad\ 
+burn: k\ow 
+burn: k\oyka 
+calf: sárba 
+calf: zoːli mič\a˗te 
+chest: ʕéːro ~ ʔéːro 
+chest: heoka 
+chest: hioka 
+child: (ʔ)iːla 
+child: maːra 
+child: naʔa 
+child: otoko 
+chin: gawsa 
+claw: goʕa˗ko | goʕa-ko	kʼotako	sokai	sonqe	soŋkʼe 
+claw: k\otako | goʕa-ko	kʼotako	sokai	sonqe	soŋkʼe 
+claw: sokai | goʕa-ko	kʼotako	sokai	sonqe	soŋkʼe 
+claw: soŋk\e | goʕa-ko	kʼotako	sokai	sonqe	soŋkʼe 
+claw: sonqe | goʕa-ko	kʼotako	sokai	sonqe	soŋkʼe 
+cloud: p(f)olo | pfolo	polo	urate 
+cloud: urate | pfolo	polo	urate 
+cold: s\anodi | sʼanodi	tsantoni 
+cold: tsantoni | sʼanodi	tsantoni 
+come: ʔe(ː) | ka7e	ʔe	ʔeː 
+crocodile: ki(ː)miša 
+dark: girim 
+dark: girum 
+daughter: ǯu(ː)ka 
+die: tiːb(a) | kutip	tip	tiːb	tiːba 
+die: tip | kutip	tip	tiːb	tiːba 
+dig: ʔadiban 
+dig: goːšiʔa 
+dog: ʔaski | qáske	qʼaske	xask3	ʔaski 
+dog: ʔóːše | qáske	qʼaske	xask3	ʔaski 
+dog: q\aske | qáske	qʼaske	xask3	ʔaski 
+dog: qáske | qáske	qʼaske	xask3	ʔaski 
+drink: č\aʕaw(a) | jojau	čʼaʕaw	čʼaʕawa 
+drink: s\oʔbi ~ s\uːb\i | jojau	čʼaʕaw	čʼaʕawa 
+dry: b\aʕatuni | bʼaʕatuni 
+ear: ʔoːwa ~ hoːwa ~ uːwa ~ uwwa | hoːwa	uwwa	uːwa	wowa	ʔoːwa 
+earth: biyá ~ bia | bia	biyá 
+eat: č\ák(t)á | naoʔ	naʔa	čʼáktá	čʼáká 
+eat: naʔa ~ naoʔ | naoʔ	naʔa	čʼáktá	čʼáká 
+egg: ʕugaxe 
+elbow: kanta 
+elbow: s\ikile 
+emu: balgiddo ~ balguto 
+eye: ʔáːfa | afa	ʔáːfa 
+eye: baläsa | afa	ʔáːfa 
+eye: déːmi | afa	ʔáːfa 
+eye: ʔiːfe | afa	ʔáːfa 
+eye: rifaŋ˗ku | afa	ʔáːfa 
+face: bəlʕasa 
+far: ʔorma | urma	ʔorma 
+far: urma | urma	ʔorma 
+father: ʔabba 
+father: baːye 
+fat (n.): moːra 
+fear: šaʔ 
+fear: šaʔate 
+feather: silite 
+fight: čok 
+fingernail: qúbakkó 
+fingernail: sokai 
+fingernail: soŋk\e 
+fingernail: sonqe 
+finger: otako 
+finger: qota˗ko 
+finger: qútakkó 
+finger: wʊʕa˗ko 
+fire: kid\iša ~ kidisa | ohone	ʔóxona 
+fire: ʔóxona ~ ohone | ohone	ʔóxona 
+fish: kaːra | kara	kaːra 
+five: hobbe 
+five: hoppe 
+flow: fad\˗tam 
+flow: faʔ˗tam 
+fly (n.): bənnádo 
+fly (n.): ʔinnako 
+fly (v.): ʔaxay ~ axaya 
+fog: ʔurʔurate 
+fog: ʔurʔurratte 
+foot: haka 
+foot: tokon˗ko | haka 
+forehead: náːra 
+forest: waːra 
+four: talaha 
+four: talaxa 
+girl: ǯu(ː)ka 
+give: biʔe 
+good: ʔabba | tampo	ʔabba 
+good: tampo | tampo	ʔabba 
+good: wanna | tampo	ʔabba 
+grass: xaːše 
+guts: mɛrʕamɛte 
+hair: báːya | bʼine	gazo 
+hair: b\ine | bʼine	gazo 
+hair: bosɛ\tti | bʼine	gazo 
+hair: faya | bʼine	gazo 
+hair: gazo | bʼine	gazo 
+hair: rifaŋ˗ku | bʼine	gazo 
+hand: ganʕa | harko	i7i7a	iya 
+hand: harko | harko	i7i7a	iya 
+hand: iya | harko	i7i7a	iya 
+hand: tumat | harko	i7i7a	iya 
+head: b\ine | bʼine 
+hear: ʔaš ~ ʔaːš ~ aːša | aSa	aːša	ʔaš	ʔaːš 
+heart: zaʔa˗ko | zaʔa-ko	záʕ-ko	zäː-ko 
+heart: záʕ˗ko | zaʔa-ko	záʕ-ko	zäː-ko 
+heart: zäː˗ko | zaʔa-ko	záʕ-ko	zäː-ko 
+heavy: ʔad(d)iši | ʔaddiši	ʔadiši 
+here: ʔúnkona 
+he/she: ʔad\d\a 
+he/she: ki˗ 
+he/she: kita 
+he/she: kiː˗wa 
+he/she: ko˗ 
+he/she: ku˗ 
+he/she: kuʔi 
+he/she: kuta 
+he/she: kuː˗wa 
+he/she: s˗ena 
+he/she: s˗eːna 
+he/she: s˗uwo 
+he/she: s˗uʔwo 
+hit: hoː ~ hoʔ 
+hit: kape 
+hit: kappe 
+hit: xo(b\) 
+hole: falle 
+hole: fulle 
+horn: gattakko ~ gatako | gasani	gatako	gattakko 
+house: (h)ura 
+house: wúra 
+hunt: ʔadam 
+I: ˗k | ka	ka-	kaː	kaːta 
+I: ˗ka | ka	ka-	kaː	kaːta 
+I: ka˗ | ka	ka-	kaː	kaːta 
+I: kaːta | ka	ka-	kaː	kaːta 
+I: kaː(ta) | ka	ka-	kaː	kaːta 
+I: kaː˗wa | ka	ka-	kaː	kaːta 
+in: gusko 
+in: gusku 
+I: s˗ine | ka	ka-	kaː	kaːta 
+I: s˗iːne | ka	ka-	kaː	kaːta 
+jaw: gawgawe 
+kill: šup | šup	ǯi	ǯiʔ 
+kill: ǯi(ʔ) | šup	ǯi	ǯiʔ 
+knee: gibila ~ giliba | %gibila	gibila	giliba 
+knee: q\as(s\)anto | %gibila	gibila	giliba 
+knee: q\ubulo ~ qubʔullo | %gibila	gibila	giliba 
+know: s\iːʔ(i) | sʼiːʔ	sʼiːʔi 
+lake: basin˗ko 
+laugh: muhi 
+laugh: muxi 
+leaf: háːše | %haSi	háːše 
+left: warkata 
+leg: haka 
+leg: méːla 
+lie: k\ad\d\ | kʼadʼdʼ 
+lightning: b\ak\ 
+lip: ʔiːfa 
+lip: ruːgi 
+lip: xib\b\e ~ ɣib\b\e 
+lip: záːla 
+liver: tire | busa	tire 
+long: ʔorma | sompa	urma	ʔorma 
+long: sompa | sompa	urma	ʔorma 
+long: urma | sompa	urma	ʔorma 
+louse: filaye | Camija 
+louse: ʔinnako | Camija 
+louse: kinne ~ kiːne | Camija 
+louse: s\amis\a | Camija 
+louse: s\amis\ ke labili˗te | Camija 
+louse: t\amit\a | Camija 
+man: hinta | hinta	yoba	yoːba	ʔinta 
+man: ʔinta | hinta	yoba	yoːba	ʔinta 
+man: šoqota | hinta	yoba	yoːba	ʔinta 
+many: geduhuni ~ gadahin | gadahin	geduhuni 
+meat: č\ata 
+moon: léʕa ~ lea | lea	léʕa 
+morning: bə\ri 
+morning: makuʔidasi 
+mosquito: q\ináno 
+mother: ʔaːya ~ ʔaːye ~ aːi 
+mountain: kaško | gara	kaško	kotun-ko 
+mountain: kotun˗ko | gara	kaško	kotun-ko 
+mouth: d\anga | dʼanga	ifa	ʔiːfa 
+mouth: ifa | dʼanga	ifa	ʔiːfa 
+mouth: ʔiːfa | dʼanga	ifa	ʔiːfa 
+name: miša | miSa	miša 
+nape: d\iŋge 
+narrow: maːge 
+navel: handurte 
+near: deːho | deːho	dʼexo 
+near: d\exo | deːho	dʼexo 
+new: k\awtita | aba	kʼawtita	qʼawtita 
+new: q\awtita | aba	kʼawtita	qʼawtita 
+night: ekiti | Xuo	ekiti 
+nose: fulle sina˗te | sina	siːna	šíːna	ṣíːna 
+nose: ipása ~ ippassa | sina	siːna	šíːna	ṣíːna 
+not: baːʔ | mi- 
+not: mi˗ | mi- 
+old: (ʔ)adiba 
+old: gečáːte 
+old: geš(u)wi 
+old: hadigde gečáːte 
+one: akala | akala	atkalbano	kalbano 
+one: kalbano | akala	atkalbano	kalbano 
+other: ke(ː)sa 
+person: hinta | hinta	yoba	yoːba	ʔinta 
+person: ʔinta | hinta	yoba	yoːba	ʔinta 
+person: yoːba | hinta	yoba	yoːba	ʔinta 
+pull: doha 
+pull: doxa 
+pull: futti 
+push: tuŋ(g)ula 
+rain: haːǯe | haːǯe 
+rain: wak | haːǯe 
+red: romini | romini	rumine 
+red: rumine | romini	rumine 
+right: mizgitte | harko	i7i7a	iya 
+river: góːle 
+river: golle 
+road: kiti | akamirota	kiti 
+root: ħɪzɛ˗te | ħɪzɛ-te 
+round: mulk\o | mulkʼo	mulqʼo 
+round: mulq\o | mulkʼo	mulqʼo 
+rub: ʔoːši 
+salt: soːʔko | soːqo	soːʔko 
+salt: soːqo | soːqo	soːʔko 
+sand: šumaxa ~ šumaha | šumaha	šumaxa 
+say: ʔalle | ʔis 
+say: ʔis 
+scratch: haːbi 
+seed: bodoxo ~ bad\aho | badʼaho	bodoxo 
+see: noq\ot | noqʼot	yobi 
+sharp: č\are 
+shoulder: iya 
+shoulder: katye 
+shoulder: zagari 
+sing: d\iːti 
+sing: ʔiʔa 
+sing: šuwa 
+sister: adda 
+sister: ʔaze ~ ʕaze ~ aze 
+sister: ǯuka toyide 
+sit: ʔaːm 
+skin: d\árbo | darbu	dʼárbo 
+sky: munti 
+sky: muntu 
+sleep: q\adi | qʼadi 
+small: moʔdone | moʔdone	moʕʕonne 
+small: moʕʕonne | moʔdone	moʕʕonne 
+smell: lʔaːri 
+smoke: ʔarto 
+snake: gábare | gábare 
+snow: ʔabzite 
+spit: b\aq\aq\e 
+spit: ʔelisi 
+spit: ʔufai 
+spit: waːq\e ~ waqi 
+squeeze: birč\as 
+squeeze: pirč\as 
+squeeze: s\iːb 
+star: hezge | busa	hezge	walana	walʕana	ħizge 
+star: ħizge | busa	hezge	walana	walʕana	ħizge 
+star: hizki˗te ʔayma | busa	hezge	walana	walʕana	ħizge 
+star: wal(ʕ)ana | busa	hezge	walana	walʕana	ħizge 
+stone: č\aʕa | Coho	čʼaʕa 
+suck: ʔaːmini 
+suck: ʔamni 
+suck: s\oːb\i 
+sun: ʔak\ač\u ~ ak\áč\o ~ hak\ačo | akʼáčʼo	axaCo	hakʼačo	ʔakʼačʼu 
+sweet: dande 
+sweet: k\oya~qoːya 
+sweet: šokaya 
+sweet: šóːkaya 
+sweet: šokaya nɛʕɛ 
+swim: zogiya 
+tail: la(ʔ)aka | laaka	laʔaka 
+that: ʔad\ate | ʔadʼate 
+they: kiː˗ 
+they: kiːʔe 
+they: kiʔi˗ 
+they: kiʔi˗ta 
+they: kiʔi˗wa 
+they: s˗owaya 
+thigh: gíbiza 
+thin: harqa | harqa	xarkʼo 
+thin: xark\o | harqa	xarkʼo 
+this: hinda | hinda	ʔinda 
+this: ʔinda | hinda	ʔinda 
+thorn: gorli 
+thou: giːda | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: gida˗ | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: gidata | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: ʔi˗ | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: s˗iːdo | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: s˗idu | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: s˗igida | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: si˗gida˗wa | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: ǯaːma | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: ǯaːme | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: ǯaːme˗wa | jant~a	ǯan-ta	ǯaːma	ʔi- 
+thou: ǯan˗ta | jant~a	ǯan-ta	ǯaːma	ʔi- 
+three: zéha 
+three: zexa 
+throat: aygalauti 
+throat: gomáro 
+throat: leʕe leʕo 
+thunder: gawaʕa˗ko ~ gewwaʔ˗ko ~ gawaː 
+today: hunne 
+tomorrow: baram 
+tongue: ʕádaba | adabo	dabo	odabo	ʕádaba 
+tongue: (a)dabo | adabo	dabo	odabo	ʕádaba 
+tooth: ʔango | itima	ʔitima 
+tooth: itima | itima	ʔitima 
+tooth: ʔitima | itima	ʔitima 
+tree: goiti ~ goite | honC~a 
+tree: hanč\a | honC~a 
+two: lama | lama	lamb~ano 
+vagina: kano 
+vagina: kaːnu 
+vagina: kótakálbano 
+vomit: ʔebeʔeni 
+walk: ʔáskam 
+walk: ʔasxam 
+walk: bag\ad\ 
+walk: roː(ta) 
+warm: s\antuni | ? sʼantuni	sʼantuni 
+warm: šoːni | ? sʼantuni	sʼantuni 
+wash: hoːb 
+water: č\aʕawa | Cahawa	čʼaʕawa 
+water: č\appate | Cahawa	čʼaʕawa 
+weep: boːni 
+we: š˗iǯo | jotabati 
+we: š˗iǯuwa | jotabati 
+wet: kuč\ab\i 
+wet: xuč\abi 
+we: žoː | jotabati 
+we: ǯoː | jotabati 
+we: ǯo˗ | jotabati 
+we: ǯu˗ | jotabati 
+we: ǯuːta | jotabati 
+we: ǯuː˗wa | jotabati 
+what: haka | haka	neːni	niːke 
+what: háytà | haka	neːni	niːke 
+what: neːni | haka	neːni	niːke 
+what: niːke | haka	neːni	niːke 
+when: bari(˗ki) 
+where: hawuto 
+white: ʔat˗muni | atto-mone	ʔat-muni 
+white: atto˗mone | atto-mone	ʔat-muni 
+who: haːkà | haːkà 
+wide: lab\a 
+wind: hábura | hábura 
+with: ˗ʔu 
+woman: ʔáyma ~ aima | aima	ʔáyma 
+wood: foːru 
+wood: hanč\a 
+yellow: arate 
+yesterday: naxane 
+every: bʼadʼdʼe 
+ash: táuni 
+abdomen: búːsa 
+bigness: arba	gadaxune 
+large: arba	gadaxune 
+breasts: ama	ʔaːma 
+nail: goʕa-ko	kʼotako	sokai	sonqe	soŋkʼe 
+talon: goʕa-ko	kʼotako	sokai	sonqe	soŋkʼe 
+come from: ka7e	ʔe	ʔeː 
+be dead: kutip	tip	tiːb	tiːba 
+dead: kutip	tip	tiːb	tiːba 
+ground: bia	biyá 
+land: bia	biyá 
+soil: bia	biyá 
+fly: axaya	ʔaxay 
+fly v.: axaya	ʔaxay 
+full: nicina 
+left hand: harko	i7i7a	iya 
+1 sg.: ka	ka-	kaː	kaːta 
+be knowledgeable: sʼiːʔ	sʼiːʔi 
+lie down: kʼadʼdʼ 
+head louse: Camija 
+male: hinta	ʔinta 
+much: gadahin	geduhuni 
+multiple: gadahin	geduhuni 
+several: gadahin	geduhuni 
+hill: gara	kaško	kotun-ko 
+title: miSa	miša 
+nighttime: Xuo	ekiti 
+adulterous: akala	atkalbano	kalbano 
+single: akala	atkalbano	kalbano 
+the: akala	atkalbano	kalbano 
+unprincipled: akala	atkalbano	kalbano 
+human: hinta	yoba	yoːba	ʔinta 
+human being: hinta	yoba	yoːba	ʔinta 
+rainy weather: haːǯe 
+path: akamirota	kiti 
+route: akamirota	kiti 
+hide: darbu	dʼárbo 
+little: moʔdone	moʕʕonne 
+smallness: moʔdone	moʕʕonne 
+rock: Coho	čʼaʕa 
+2 sg: jant~a	ǯan-ta	ǯaːma	ʔi- 
+you: jant~a	ǯan-ta	ǯaːma	ʔi- 
+grind: lama	lamb~ano 
+hot: ? sʼantuni	sʼantuni 
+1 pl. inc.: jotabati 
+we₁: jotabati 
+whiteness: atto-mone	ʔat-muni 
+who?: haːkà 
+female: aima	ʔáyma 
+distant: urma	ʔorma 
+dull: ʔaddiši	ʔadiši 
+serious: ʔaddiši	ʔadiši 
+close: deːho	dʼexo 
+ner: deːho	dʼexo 

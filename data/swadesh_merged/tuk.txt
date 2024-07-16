@@ -1,0 +1,334 @@
+all: bary	hemme	her	ähli 
+every: bary	hemme	her	ähli 
+ash: kül 
+ashes: kül 
+bark: gabyk 
+abdomen: garyn 
+belly: garyn 
+big: belent	beyik	uly	çişik 
+bigness: belent	beyik	uly	çişik 
+large: belent	beyik	uly	çişik 
+bird: guş 
+bite: dişlemek	çeýnemek 
+black: gara 
+blood: gan 
+bone: siNk	süňk 
+breast: emjek	emyek	gevis	gursak	göwüs 
+breasts: emjek	emyek	gevis	gursak	göwüs 
+cloud: bulut 
+cold: sowuk 
+come: gel	gelmek 
+come from: gel	gelmek 
+be dead: el	elmek	zar	ölmek 
+dead: el	elmek	zar	ölmek 
+die: el	elmek	zar	ölmek 
+dog: güýük	it	kepek	köpek 
+drink: hopurdatmak	iC	iCmek	içmek 
+dry: qury 
+ear: gulak 
+earth: toprak 
+ground: toprak 
+land: toprak 
+soil: toprak 
+eat: iýmek 
+egg: ýumurtga 
+eye: garak	gez	kez	көз 
+feather: ýelek 
+fire: kostyor	ot 
+fish: baluk	balyk 
+fly: uçmak 
+fly v.: uçmak 
+foot: aýak 
+full: dok	doly	tikel 
+give: bermek 
+good: gowy	ýagşy 
+green: ýaşyl 
+hair: gyl	saç	tüý 
+hand: el	gol 
+left hand: el	gol 
+right: el	gol 
+head: baş	gele 
+hear: eSit	eşitmek 
+heart: ýürek 
+horn: Sah	şah 
+1 sg.: men 
+I: men 
+kill: öldürmek 
+knee: diz	duz	dyz	tirsek 
+be knowledgeable: bilmek 
+know: bilmek 
+leaf: yaprak	ýaprak 
+liver: bagir	bagur	bagyr 
+long: uzyn 
+head louse: bit 
+louse: bit 
+male: adam	erkek 
+man: %adam	adam	kişi	unsan	ynsan 
+many: ençeme	köp 
+much: ençeme	köp 
+multiple: ençeme	köp 
+several: ençeme	köp 
+moon: aý 
+hill: dag 
+mountain: dag 
+mouth: agyz 
+name: at	atlandirmak 
+title: at	atlandirmak 
+neck: boýun 
+new: %tEze	tEze	täze 
+night: gije	giye 
+nighttime: gije	giye 
+nose: burun 
+not: däl 
+adulterous: bir	yekelik 
+one: bir	yekelik 
+single: bir	yekelik 
+that: o	şol	şu 
+the: bir	yekelik 
+unprincipled: bir	yekelik 
+human: %adam	adam	kişi	unsan	ynsan 
+human being: %adam	adam	kişi	unsan	ynsan 
+person: %adam	adam	kişi	unsan	ynsan 
+rain: ýagmak	ýağış 
+rainy weather: ýagmak	ýağış 
+red: gyzyl 
+path: yerelge	yol	ýol 
+road: yerelge	yol	ýol 
+route: yerelge	yol	ýol 
+root: düýp	kök 
+round: tegelek	togalak	öwre 
+sand: gum	çäge 
+say: diýmek 
+see: ger	germek	görmek 
+seed: tohum 
+sit: oturmak 
+hide: deri	ham	teletin 
+skin: deri	ham	teletin 
+sleep: uklamak	ýatmak 
+little: kiçi	kiçijik 
+small: kiçi	kiçijik 
+smallness: kiçi	kiçijik 
+smoke: tüsse 
+star: yagtulguC	yulduz	ýyldyz 
+rock: daS	daş 
+stone: daS	daş 
+sun: gin	gün 
+swim: ýüzmek 
+tail: guýruk 
+this: bu 
+2 sg: sen 
+thou: sen 
+you: sen 
+tongue: dil 
+tooth: diS	diş 
+tree: agaC	agaç	bag 
+grind: iki	ikki 
+two: iki	ikki 
+go: barmak	ýöremek 
+walk: barmak	ýöremek 
+hot: ýyly 
+warm: ýyly 
+water: Caylamak	suv	suw 
+1 pl. inc.: biz 
+we: biz 
+we₁: biz 
+what: näme 
+white: ak 
+whiteness: ak 
+who: kim 
+who?: kim 
+female: aýal	heleý 
+woman: aýal	heleý 
+yellow: sary 
+distant: alyş	uzak 
+far: alyş	uzak 
+dull: agyr 
+heavy: agyr 
+serious: agyr 
+close: ýakyn 
+near: ýakyn 
+ner: ýakyn 
+salt: duz 
+short: gysga 
+snake: ýylan 
+thin: inçe 
+wind: ýel 
+earthworm: gurt	gurçuk 
+worm: gurt	gurçuk 
+year: ýyl 
+3 sg.: ol 
+he: ol 
+she: ol 
+2 pl.: siz 
+ye: siz 
+you all: siz 
+3 pl.: olar 
+they: olar 
+here: bu ýerde	bäri	onda	şu taýda 
+there: honha	o taýda	ol ýerde	onda 
+where: han	nirede 
+where?: han	nirede 
+when: haçan	näwagt 
+when?: haçan	näwagt 
+how: häýsy	nähili 
+how?: häýsy	nähili 
+some: berentak	birnäçe 
+few: az 
+other: başga 
+three: uč	üç 
+four: dört 
+five: bäş	bəš	kelle 
+broad: giň	giňiş 
+wide: giň	giňiş 
+wideness: giň	giňiş 
+fat: semiz	yağ 
+thick: galyň 
+narrow: dar 
+child: çaga 
+principal wife: aýal 
+wife: aýal 
+husband: adam	är 
+his mother: eje 
+mother: eje 
+my mother: eje 
+father: däde	kaka 
+his father: däde	kaka 
+my father: däde	kaka 
+animal: haýwan 
+forest: tokaý 
+woods: tokaý 
+branch: taýak	çöp 
+stick: taýak	çöp 
+fruit: miwe 
+flower: gül 
+grass: ot 
+cord: tanap	urgan	ýüp 
+rope: tanap	urgan	ýüp 
+flesh: et 
+meat: et 
+grease: semiz	yağ 
+claw: dyrnak 
+fingernail: dyrnak 
+nail: dyrnak 
+leg: aýak 
+arm: el 
+wing: ganat 
+gut: içege 
+guts: içege 
+insides: içege 
+intestine: içege 
+intestines: içege 
+back: arka	yagyrny 
+suck: emmek 
+spit: tüýkürmek	tüýkürrmek 
+vomit: gusmak 
+blow: öwüsmek	üflemek 
+breath: dem almak 
+breathe: dem almak 
+laugh: gülmek 
+laughter: gülmek 
+cogitate: pikir etmek	saýmak	üýtmek 
+reflect: pikir etmek	saýmak	üýtmek 
+think: pikir etmek	saýmak	üýtmek 
+smell: ysgamak 
+sniff: ysgamak 
+afraid: eýmenmek	gorkmak 
+be afraid: eýmenmek	gorkmak 
+fear: eýmenmek	gorkmak 
+fright: eýmenmek	gorkmak 
+alive: ýaşamak 
+be alive: ýaşamak 
+life: ýaşamak 
+live: ýaşamak 
+living: ýaşamak 
+fight: göreşmek	söweşmek	uruşmak 
+hunt: awlamak 
+beat: patlamak	urmak 
+hit: patlamak	urmak 
+strike: patlamak	urmak 
+cut: kesmek 
+hack: kesmek 
+cut open: ýarylmak 
+split: ýarylmak 
+pierce: naýzalamak	pyçaklamak 
+stab: naýzalamak	pyçaklamak 
+scratch: dyrnaçaklamak 
+dig: gazmak 
+lie: uzanmak	ýatmak 
+lie down: uzanmak	ýatmak 
+tell lies: uzanmak	ýatmak 
+stand: durmak 
+turn: dönmek 
+turn around: dönmek 
+turn round: dönmek 
+drop: çökmek	ýykylmak 
+fall: çökmek	ýykylmak 
+grasp: tutmak 
+hold: tutmak 
+hold in arm: tutmak 
+squeeze: sykmak 
+wring: sykmak 
+rub: oýkamak	sürtenmek 
+wipe: süpürmek 
+wash: ýuwmak 
+wash clothes: ýuwmak 
+pull: dartmak	tartmak	çekmek 
+push: itmek 
+shove: itmek 
+throw: atmak 
+bind: baglamak	bogmak 
+fasten: baglamak	bogmak 
+tie: baglamak	bogmak 
+tie up: baglamak	bogmak 
+sew: tikmek 
+count: sanamak 
+enumerate: sanamak 
+number: sanamak 
+tally: sanamak 
+sing: saýramak 
+have fun: oýnamak 
+play: oýnamak 
+float: ýüzmek 
+flow: akmak 
+freeze: doňdurmak	şatlamak 
+swell: çişmek 
+brook: derýa 
+river: derýa 
+stream: derýa 
+lake: köl 
+ocean: deňiz 
+sea: deňiz 
+dust: toz	tozan	çaň 
+fog: duman 
+sky: asman	gök 
+snow: gar 
+ice: buz 
+blaze: otlamak	ötmek	ýanmak 
+burn: otlamak	ötmek	ýanmak 
+day: gün	gündiz 
+daylight: gün	gündiz 
+daytime: gün	gündiz 
+old: garry	köne 
+bad: bet	pis	ýaman 
+evil: bet	pis	ýaman 
+rot: çüýrük 
+rotten: çüýrük 
+dirty: hapa	kirli 
+filthy: hapa	kirli 
+soiled: hapa	kirli 
+straight: dogry	göni 
+sharp: ötgür	ýiti 
+blunt: kütek 
+smooth: tekiz 
+damp: çygly	öl 
+wet: çygly	öl 
+correct: dogry	dürs 
+right side: sag 
+left: çep 
+at: -da 
+in: -da 
+inside: -da 
+with: bilen 
+and: we 
+if: eger 
+because: çünki 

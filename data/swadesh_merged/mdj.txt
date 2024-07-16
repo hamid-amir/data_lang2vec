@@ -1,0 +1,447 @@
+all: pɛ́tɛ́ | pɛ́tɛ́ 
+animal: néri | néri 
+arm: nɛ ɛ́ 
+arm: nɛ ɛ́kpwɔ 
+arrow: nɛ́\ßaŋa 
+ashes: napú | napú 
+back: néːŋgú | néːŋgú 
+bad: mɛndaŋa | mɛndaŋa	mɛ́ŋandá 
+bad: mɛ́ŋandá | mɛndaŋa	mɛ́ŋandá 
+bark: nɛkɛ́\wɛ́ | nɛkɛ́ʼwɛ́ 
+because: basí | basí	sí	sídru 
+because: sí | basí	sí	sídru 
+because: sídru | basí	sí	sídru 
+belly: nɛ́\ɔ | nɛ́ʼɔ 
+belly: nótú | nɛ́ʼɔ 
+big: mɛ́kipɛ | mɛndiɔ́	mɛ́kipɛ 
+big: mɛndiɔ́ | mɛndiɔ́	mɛ́kipɛ 
+bird: nári | nári 
+bite: ˗ɔ\ká | -ɔʼká 
+bitter: ˗ɔ̀ɔ́gú 
+black: melulu 
+blood: álí. álíkpwɔ | alebuo	ali	alikpwo	alipo	aripuo	nalipo	álí. álíkpwɔ 
+blow: ˗obwú | -obwú 
+bone: nɛ́kpwɔ | ekua	nEkpwo	nepuo	netekuo	nɛ́kpwɔ 
+boy: námasíŋgɔŋgwɛ 
+boy: nɛyáŋuɛ́ 
+branch: namɔ́pá˗ | namɔ́pá- 
+breast: nɛ́ba | andagugu	negugu	nɛ́ba 
+breathe: námʊŋala | -ɔʼɔ́ 
+breathe: ˗ɔ\ɔ́ | -ɔʼɔ́ 
+brother: nɛyáŋgwɛ́ 
+burn: ˗ɛ̀ɛ́su 
+burn: ɔpɛ́ 
+burn: ˗ɔsu 
+calf: nekudíríŋbá 
+calf: netópu 
+cheek: nekóŋgóŋgó 
+chest: negúgú 
+child: náːŋguɛ | náːŋguɛ	nɛŋgwáːŋguɛ	nɛŋgɔ́ŋguɛ 
+child: nɛŋgɔ́ŋguɛ | náːŋguɛ	nɛŋgwáːŋguɛ	nɛŋgɔ́ŋguɛ 
+child: nɛŋgwáːŋguɛ | náːŋguɛ	nɛŋgwáːŋguɛ	nɛŋgɔ́ŋguɛ 
+chin: nɛ́kačíčí 
+claw: nɛkɛ́\wɛ́ | nɛkɛ́ʼwɛ́ | nɛkɛ́ʼwɛ́	nɛƭɛ́kɛ́wɛ́ 
+cloud: námundukuba | námundukuba 
+cold: menieniélé | menieniélé	nɛ̀ɛ́tʊ 
+cold: nɛ̀ɛ́tʊ | menieniélé	nɛ̀ɛ́tʊ 
+come: ˗ekú | -ekú	eku	keli	kili wasa 
+correct: mɛmɛ́yɔ | mɛmɛ́yɔ	mɛtɛrɛrɛ 
+correct: mɛtɛrɛrɛ | mɛmɛ́yɔ	mɛtɛrɛrɛ 
+count: ˗ɛ\ia | -ɛʼia 
+cut: ˗àáfó | -ofo	-àáfó	-ɔgɔ́ 
+cut: ˗ofo | -ofo	-àáfó	-ɔgɔ́ 
+cut: ˗ɔgɔ́ | -ofo	-àáfó	-ɔgɔ́ 
+daughter: nándrɔgádɔ 
+daughter: nɛŋádɔ 
+day: nɛtiánɛ | netúne	nɛtiánɛ 
+day: netúne | netúne	nɛtiánɛ 
+die: nónzi | -onzɪ	aNonzi	onzi 
+die: ˗onzɪ | -onzɪ	aNonzi	onzi 
+dig: ˗ɔbia | -ɔbia 
+dig: ˗oti | -ɔbia 
+dirty: méɓiti | méɓiti 
+dog: nési | nebubu	nesi	nési 
+drink: ˗ɔmbuo | -ɔmbuo	kombogo	maNombro	mombe	ombuo 
+dry: mɛ́ŋo | mɛ́ŋo 
+dust: néŋbúlu | néngúbu	néŋbúlu	nómbulo 
+dust: néngúbu | néngúbu	néŋbúlu	nómbulo 
+dust: nómbulo | néngúbu	néŋbúlu	nómbulo 
+ear: nebɪ́ | ebe	nebi	nebɪ́ 
+earth: ná¹ɛ 
+earth: úburú 
+eat: ˗aːniɔ́ | -aːniɔ́	-ɔniɔ 
+eat: ˗ɔniɔ | -aːniɔ́	-ɔniɔ 
+egg: nɛbálákáká | nɛbálákáká 
+elbow: nɛkósú 
+elbow: nɛ ɛ́kɔ́sú 
+eye: nɛ́gʊgʊ | eNo	nENo	nemo	noNo	nɛ́ŋgɔ 
+eye: nɛ́ŋgɔ | eNo	nENo	nemo	noNo	nɛ́ŋgɔ 
+face: ɛ́ŋɔ 
+fall: ˗oɗé | -oɗé 
+far: mɛ́ndrɔndrɔ | mɛ́ndrɔndrɔ 
+father: na\pá | naʼpá 
+fat (n.): ɛ́ɓʊ 
+fear: ˗ɛ̀ɛ́rú | nɛ́ːru 
+fear: nɛ́ːru | nɛ́ːru 
+feather: nɛ́kudu | nɛ́kudu 
+fight: ˗ondré | -ondré 
+fingernail: nɛkɛ́\wɛ́ | nɛkɛ́ʼwɛ́	nɛƭɛ́kɛ́wɛ́ 
+fingernail: nɛ ɛ́kɛ́wɛ́ | nɛkɛ́ʼwɛ́	nɛƭɛ́kɛ́wɛ́ 
+finger: nɛpuɛ́ŋuɛ 
+finger: nɛ\tɛ́ 
+finger: nɛ\tɛ́ŋgwɛ 
+finger: nɛ\tɛ́ŋuayá 
+fire: nɛ́kagɔ | ekago	nEkago	nekago	nekagu	nɛ́kagɔ 
+fish: nɛ́ŋgɛrɛ | eNere eguere	nENErE	neNere	nɛ́ŋgɛrɛ 
+five: tɔ́zɛrɛna | tɔ́zɛrɛna 
+flower: nétoto\totó | nétotoʼtotó 
+fly (n.): nɛ́zɛ 
+fly (v.): ˗obwú 
+fly (v.): ˗ɔ\wi 
+fog: námundukuba | námundukuba 
+foot: nɛkɔ́nzɔ́ | nɛkɔ́nzɔ́ 
+foot: notíndí | nɛkɔ́nzɔ́ 
+forehead: nɛ̀ɛ́pɛ́mbɛ́ 
+forest: namɔwíá | namɔwíá	négbondó 
+forest: négbondó | namɔwíá	négbondó 
+four: sɔ́sua | sɔ́sua 
+fruit: nebébúkpwɔ | nebébúkpwɔ	nɔ́ːyɔ́ 
+fruit: nɔ́ːyɔ́ | nebébúkpwɔ	nɔ́ːyɔ́ 
+full: ˗èénú | aNeno 
+girl: náandrɔŋɔ́ŋuɛ 
+give: ˗àáó | -owo	-àáwó	-àáó 
+give: ˗àáwó | -owo	-àáwó	-àáó 
+give: ˗owo | -owo	-àáwó	-àáó 
+good: mɔmbɛ́ | mɔmbɛ́ 
+grass: nɛkɛ́sɛ́ | nɛkɛ́sɛ́ 
+green: mebodi 
+guts: éki | éki 
+hair: na\uɛ́ | nedrué 
+hair: nedrué | nedrué 
+hand: nɛ\tɛ́ | etanre	ete	etedru	nE7tE	nete	nɛʼtɛ́ 
+head: nédru | nédru 
+hear: ˗ɔga | -ɔga	aNoga	kamoga	oga 
+heart: nésú | nésú 
+heavy: meŋgbóŋgbó | meŋgbóŋgbó 
+here: drɪ | -ídrɪ	drɪ	za	íza 
+here: ˗ídrɪ | -ídrɪ	drɪ	za	íza 
+here: íza | -ídrɪ	drɪ	za	íza 
+here: za | -ídrɪ	drɪ	za	íza 
+he/she: ˗ne 
+he/she: ˗ne˗ 
+he/she: ɪ́nɛ˗ 
+hit: ˗opí | -opió	-opí 
+hit: ˗opió | -opió	-opí 
+hole: nepólo 
+horn: nɛ̀ɛ́gá | nEga	nɛ̀ɛ́gá 
+house: neǯó 
+how: básí | básí 
+hunt: ˗odrú | -odrué	-odrú 
+hunt: ˗odrué | -odrué	-odrú 
+husband: námási | námási 
+I: ímá˗ | -ma	ima	ma	ímá- 
+I: ˗ma | -ma	ima	ma	ímá- 
+I: ˗ma˗ | -ma	ima	ma	ímá- 
+jaw: nakáŋá 
+kill: ˗ɔpú | -ɔpú 
+knee: nɛkáːti | nEkati	nekati	nekatoi	nɛkáːti 
+know: ˗ɛ̀ɛ́tí | -ɔti	-ɛ̀ɛ́tí 
+know: ˗ɔti | -ɔti	-ɛ̀ɛ́tí 
+laugh: eːmvó | -okí	eːmvó 
+laugh: ˗okí | -okí	eːmvó 
+leaf: nebɪ | ebu	ekesebe	esa	nebi	nebu	nebɪ	nekirebi 
+left: nákɛkú | nákɛkú 
+leg: nɛkɔ́nzɔ́ | nɛkɔ́nzɔ́ 
+lie: ˗eɗo | -eɗo	-oɗo 
+lie: ˗oɗo | -eɗo	-oɗo 
+liver: námɛmú | ekobia	nekubia	námɛmú 
+long: meɓóɓó | meɓoɓó	mɔ́ɗa 
+long: meɓoɓó | meɓoɓó	mɔ́ɗa 
+long: mɔ́ɗa | meɓoɓó	mɔ́ɗa 
+louse: námakɛkɛdɛ | namasoko	neti 
+louse: nám asókɔ | namasoko	neti 
+louse: néti | namasoko	neti 
+man: na bélu | aburu namasi	masi	nabelu	nabulu	nabúlu	namasi	naqbélu	nemari	nombi	nóːmbí 
+man: námasi | aburu namasi	masi	nabelu	nabulu	nabúlu	namasi	naqbélu	nemari	nombi	nóːmbí 
+man: námási | aburu namasi	masi	nabelu	nabulu	nabúlu	namasi	naqbélu	nemari	nombi	nóːmbí 
+man: nóːmbí | aburu namasi	masi	nabelu	nabulu	nabúlu	namasi	naqbélu	nemari	nombi	nóːmbí 
+many: mókotu | mókotu	noǯo	pima 
+many: noǯo | mókotu	noǯo	pima 
+many: pima | mókotu	noǯo	pima 
+meat: nenyinyi | néri 
+meat: néri | nenyinyi | néri 
+moon: nagwɛ́ | nagwɛ́ 
+mother: nayá | nayá 
+mountain: nó | nekopi	no7olo	nolu	nó	olo 
+mountain: nó\ólóŋguɛ | nekopi	no7olo	nolu	nó	olo 
+mountain: olo | nekopi	no7olo	nolu	nó	olo 
+mouth: neƙóró | netíkpwɔ	neƙóró 
+mouth: netíkpwɔ | netíkpwɔ	neƙóró 
+name: ɛ́ru | Eru	amerokabasi	andore	androro	ayero	ero	kori	ɛ́ru 
+nape: tápu 
+narrow: mámú | mámú 
+navel: nɛ́kɔtʊ 
+near: mekúndí | mekúndí 
+neck: neƙórókpwɔ | neƙórókpwɔ 
+new: áːɗia | a7dia	gaganuadi	áːɗia 
+night: nékini | nekini	nékini 
+old: mɛkákpwú 
+one: kana | kana	ona 
+other: ákínɛ́ | sízi	ákínɛ́	ákúnɛ́ 
+other: ákúnɛ́ | sízi	ákínɛ́	ákúnɛ́ 
+other: sízi | sízi	ákínɛ́	ákúnɛ́ 
+person: nabúlu | aburu namasi	masi	nabelu	nabulu	nabúlu	namasi	naqbélu	nemari	nombi	nóːmbí 
+person: naqbélu | aburu namasi	masi	nabelu	nabulu	nabúlu	namasi	naqbélu	nemari	nombi	nóːmbí 
+person: nóːmbí | aburu namasi	masi	nabelu	nabulu	nabúlu	namasi	naqbélu	nemari	nombi	nóːmbí 
+play: ˗ɔwa | -ɔwa 
+pull: ɛɗa 
+push: ˗oti 
+rain: nɛkʊ́má | nɛkʊ́má 
+rain: osu | nɛkʊ́má 
+rat: nákɔta 
+rat: nɛ́babili 
+rat: neːpí 
+red: mɛŋgbaŋgba 
+right: nátàátɛ́ | etanre	ete	etedru	nE7tE	nete	nɛʼtɛ́ | nátàátɛ́ 
+river: nɛ́ɗa | nɛ́ɗa 
+road: né ie | ne7ie	nei	neye	tege 
+root: nekí\wó | nekíʼwó 
+rope: namʊgbɛ́lɛ́ | namʊgbɛ́lɛ́	nenzépí 
+rope: nenzépí | namʊgbɛ́lɛ́	nenzépí 
+rotten: mɔ́mua | mɔ́mua 
+round: mebéléndú | mebéléndú 
+rub: ˗oːsí | -oːsí	-ɔʼuá 
+rub: ˗ɔ\uá | -oːsí	-ɔʼuá 
+salt: náŋgandǯɔ́ | náŋgandǯɔ́ 
+sand: nɛnáːnɛ | nɛnáːnɛ 
+say: ˗ɔdiɔ́ | -ɔdiɔ́ko | nɛnáːnɛ 
+say: ˗ɔdiɔ́ko | -ɔdiɔ́ko | nɛnáːnɛ 
+seed: nékpwɔrɔ | nékpwɔrɔ 
+see: ˗oguo | -oguo	anani	ania	kuguo	maNayame	magu	oguo 
+sew: ˗ɔɗa | -ɔɗa 
+sharp: ˗àásɛ́ | -àásɛ́ 
+short: mɛyɛyɛrɛ 
+shoulder: nɛ ɛ́ɓaɓa 
+sing: ˗ɔːlia | -ɔːlia 
+sister: nɛ́dra 
+sit: ˗eːdrɪ | -eːdrɪ	-odrɪ 
+sit: ˗odrɪ | -eːdrɪ	-odrɪ 
+skin: nekéképí | erekepi	nekekepi	nekepi	nekipi	nekéképí	nékepí 
+skin: nékepí | erekepi	nekekepi	nekepi	nekipi	nekéképí	nékepí 
+sky: nɔ́rɔ | nɔ́rɔ 
+sleep: ˗eɗo | -eɗo 
+small: mɛ́sasa | mɛ́sasa 
+smoke: nɛkɔ́ | nɛkɔ́ 
+smooth: ˗ɛːlándá | -ɛndálá	-ɛːlándá 
+smooth: ˗ɛndálá | -ɛndálá	-ɛːlándá 
+snake: nɛ́tatála | nɛ́tatála 
+snow: nekúbébélú 
+son: námasiŋɔŋuɛ 
+sour: mɛ́kpwakpwa 
+spit: ásʊ́suá | -au 
+spit: ˗ɛ\kí | -au 
+split: ˗àándrɛ́ | -àándrɛ́ 
+squeeze: ˗àápɔ́ | -aːdɪ	-àápɔ́ 
+squeeze: ˗aːdɪ | -aːdɪ	-àápɔ́ 
+star: nétulú | eturu	netulu	nétulú 
+stone: nekópí | nekopi	nekópí 
+suck: ˗ɛmvɔ́ | -ɛmvɔ́ 
+sun: néːkó | leku	nego	neiko	neko	néːkó 
+sweet: nɛ́ːɓó 
+swell: ˗egu 
+swell: ˗egue 
+swim: ˗ɔmia | -ɔmia 
+tail: ná\wi | náʼwi 
+take: ˗agbá 
+take: ˗ɛ̀ɛ́ŋá 
+take: ˗ɔdrua 
+that: íɛ | ínɛ | kana	ona 
+that: ínɛ | ínɛ | kana	ona 
+there: dru | -íǯe	dru	ídru	ú	únu 
+there: ídru | -íǯe	dru	ídru	ú	únu 
+there: ˗íǯe | -íǯe	dru	ídru	ú	únu 
+there: ú | -íǯe	dru	ídru	ú	únu 
+there: únu | -íǯe	dru	ídru	ú	únu 
+they: ˗ɛ | -ɛ	íɛ- 
+they: ˗ɛ˗ | -ɛ	íɛ- 
+they: íɛ˗ | -ɛ	íɛ- 
+thick: ˗enabóló | -enabóló 
+thigh: nɛ́ɗʊ 
+think: ˗aːmbá | -aːmbá 
+thin: mɛɓɛ́ɓɛ́\lɛ́ | mɛɓɛ́ɓɛ́ʼlɛ́ 
+this: ˗ɛ́ | -nɛ́	índrɪ 
+this: índrɪ | -nɛ́	índrɪ 
+this: isi | -nɛ́	índrɪ 
+this: ˗nɛ́ | -nɛ́	índrɪ 
+thou: ˗ami | -mi	imi	mi	ímí- 
+thou: ˗ami˗ | -mi	imi	mi	ímí- 
+thou: ami˗ | -mi	imi	mi	ímí- 
+thou: ímí˗ | -mi	imi	mi	ímí- 
+thou: ˗mi | -mi	imi	mi	ímí- 
+thou: ˗mi˗ | -mi	imi	mi	ímí- 
+three: sɔ́ta | sɔ́ta 
+throw: ˗okpwu | -okpwu 
+thunder: nágbára 
+tie: ˗àáti | -agbú-	-ati	-oti	-àáti	-ɔːri 
+tie: ˗agbú˗ | -agbú-	-ati	-oti	-àáti	-ɔːri 
+tie: ˗ati | -agbú-	-ati	-oti	-àáti	-ɔːri 
+tie: ˗ɔːri | -agbú-	-ati	-oti	-àáti	-ɔːri 
+tie: ˗oti | -agbú-	-ati	-oti	-àáti	-ɔːri 
+today: notúne 
+tomorrow: obúro 
+tongue: nɛ́kadra | anekada	ekadra	nEkadra	negadra	nekadra	nukadra	nukudra	nɛ́kadra 
+tooth: nɛ\kí | eki	nE7ki	naki	neki	nɛʼkí 
+tree: nɛkírɛ | nEkirE	nakere	newo 
+tree: néwo | nEkirE	nakere	newo 
+turn: àá\wí 
+turn: ˗eːí 
+turn: ˗eː\wí 
+two: sóːrú | oru	soru	sóórú	sóːrú 
+vomit: ˗ɔnzá | -ɔnzá	-ɔ̀ɔ́nzá 
+vomit: ˗ɔ̀ɔ́nzá | -ɔnzá	-ɔ̀ɔ́nzá 
+walk: ɔŋá | -oti	-òólí	ɔŋá 
+walk: ˗òólí | -oti	-òólí	ɔŋá 
+walk: ˗oru | -oti	-òólí	ɔŋá 
+walk: orue | -oti	-òólí	ɔŋá 
+walk: ˗oti | -oti	-òólí	ɔŋá 
+walk: ˗ɔyɔ́ | -oti	-òólí	ɔŋá 
+warm: méɗeɗe 
+wash: ˗ɔba | -oŋó	-ɔba	-ɔ̀ɔ́bá 
+wash: ˗oŋó | -oŋó	-ɔba	-ɔ̀ɔ́bá 
+wash: ˗ɔ̀ɔ́bá | -oŋó	-ɔba	-ɔ̀ɔ́bá 
+water: égwe | egu	egue	eguo	nego	égwe	égwo 
+water: égwo | egu	egue	eguo	nego	égwe	égwo 
+we: ˗ama | ama	ama pete	mapeti 
+we: ˗ama˗ | ama	ama pete	mapeti 
+we: ama˗ | ama	ama pete	mapeti 
+weep: ˗apɔ́ 
+weep: nɔ́ndruá 
+weep: ˗omú 
+wet: meɓuɓusu 
+what: asɛ̀ɛ́ŋuɛ | asɔ́diɔ	asɛ̀ɛ́ŋuɛ 
+what: asɔ́diɔ | asɔ́diɔ	asɛ̀ɛ́ŋuɛ 
+where: diɓá | diɓá	uadiɓá 
+where: uadiɓá | diɓá	uadiɓá 
+white: metólóló | metólóló 
+who: adi | adi	adiŋuɛ 
+who: adiŋuɛ | adi	adiŋuɛ 
+wide: mɛɓaɓara | mɛŋgbɛ́ŋɛlɛ́	mɛɓaɓara 
+wide: mɛŋgbɛ́ŋɛlɛ́ | mɛŋgbɛ́ŋɛlɛ́	mɛɓaɓara 
+wind: nambimbatɔ́ | nambimbatɔ́ 
+wing: nekúpápá | nekúpápá	nókuːku 
+wing: nókuːku | nekúpápá	nókuːku 
+wipe: ˗ɔ̀ɔ́wá | -ɔ̀ɔ́wá 
+woman: nándro | nándro 
+wood: nɛkírɛ 
+worm: nésitó | nésitó 
+yesterday: obúraba 
+every: pɛ́tɛ́ 
+ash: napú 
+abdomen: nɛ́ʼɔ 
+bigness: mɛndiɔ́	mɛ́kipɛ 
+large: mɛndiɔ́	mɛ́kipɛ 
+breasts: andagugu	negugu	nɛ́ba 
+nail: nɛkɛ́ʼwɛ́ 
+talon: nɛkɛ́ʼwɛ́ 
+come from: -ekú	eku	keli	kili wasa 
+be dead: -onzɪ	aNonzi	onzi 
+dead: -onzɪ	aNonzi	onzi 
+fly: -obwú	-ɔʼwi 
+fly v.: -obwú	-ɔʼwi 
+left hand: etanre	ete	etedru	nE7tE	nete	nɛʼtɛ́ 
+1 sg.: -ma	ima	ma	ímá- 
+be knowledgeable: -ɔti	-ɛ̀ɛ́tí 
+lie down: -eɗo	-oɗo 
+head louse: namasoko	neti 
+male: na bélu	námasi	nóːmbí 
+much: mókotu	noǯo	pima 
+multiple: mókotu	noǯo	pima 
+several: mókotu	noǯo	pima 
+flesh: nenyinyi 
+hill: nekopi	no7olo	nolu	nó	olo 
+title: Eru	amerokabasi	andore	androro	ayero	ero	kori	ɛ́ru 
+nighttime: nekini	nékini 
+nose: nabo	namo	namoye	námɔ 
+adulterous: kana	ona 
+single: kana	ona 
+the: kana	ona 
+unprincipled: kana	ona 
+human: aburu namasi	masi	nabelu	nabulu	nabúlu	namasi	naqbélu	nemari	nombi	nóːmbí 
+human being: aburu namasi	masi	nabelu	nabulu	nabúlu	namasi	naqbélu	nemari	nombi	nóːmbí 
+rainy weather: nɛkʊ́má 
+path: ne7ie	nei	neye	tege 
+route: ne7ie	nei	neye	tege 
+hide: erekepi	nekekepi	nekepi	nekipi	nekéképí	nékepí 
+little: mɛ́sasa 
+smallness: mɛ́sasa 
+rock: nekopi	nekópí 
+2 sg: -mi	imi	mi	ímí- 
+you: -mi	imi	mi	ímí- 
+grind: oru	soru	sóórú	sóːrú 
+go: -oti	-òólí	ɔŋá 
+1 pl. inc.: ama	ama pete	mapeti 
+we₁: ama	ama pete	mapeti 
+whiteness: metólóló 
+who?: adi	adiŋuɛ 
+female: nándro 
+distant: mɛ́ndrɔndrɔ 
+dull: meŋgbóŋgbó 
+serious: meŋgbóŋgbó 
+close: mekúndí 
+ner: mekúndí 
+earthworm: nésitó 
+2 pl.: -ami	ami- 
+ye: -ami	ami- 
+you all: -ami	ami- 
+3 pl.: -ɛ	íɛ- 
+where?: diɓá	uadiɓá 
+how?: básí 
+broad: mɛŋgbɛ́ŋɛlɛ́	mɛɓaɓara 
+wideness: mɛŋgbɛ́ŋɛlɛ́	mɛɓaɓara 
+fat: ɛ́ɓʊ 
+his mother: nayá 
+my mother: nayá 
+his father: naʼpá 
+my father: naʼpá 
+woods: namɔwíá	négbondó 
+stick: namɔ́pá- 
+cord: namʊgbɛ́lɛ́	nenzépí 
+grease: ɛ́ɓʊ 
+gut: éki 
+insides: éki 
+intestine: éki 
+intestines: éki 
+breath: -ɔʼɔ́ 
+laughter: -okí	eːmvó 
+cogitate: -aːmbá 
+reflect: -aːmbá 
+smell: -ŋga 
+sniff: -ŋga 
+afraid: nɛ́ːru 
+be afraid: nɛ́ːru 
+fright: nɛ́ːru 
+beat: -opió	-opí 
+strike: -opió	-opí 
+hack: -ofo	-àáfó	-ɔgɔ́ 
+cut open: -àándrɛ́ 
+drop: -oɗé 
+wring: -aːdɪ	-àápɔ́ 
+wash clothes: -oŋó	-ɔba	-ɔ̀ɔ́bá 
+bind: -agbú-	-ati	-oti	-àáti	-ɔːri 
+fasten: -agbú-	-ati	-oti	-àáti	-ɔːri 
+tie up: -agbú-	-ati	-oti	-àáti	-ɔːri 
+enumerate: -ɛʼia 
+number: -ɛʼia 
+tally: -ɛʼia 
+have fun: -ɔwa 
+brook: nɛ́ɗa 
+stream: nɛ́ɗa 
+daylight: netúne	nɛtiánɛ 
+daytime: netúne	nɛtiánɛ 
+evil: mɛndaŋa	mɛ́ŋandá 
+rot: mɔ́mua 
+filthy: méɓiti 
+soiled: méɓiti 
+blunt: -erí 
+damp: meɓuɓusu 
+right side: nátàátɛ́ 

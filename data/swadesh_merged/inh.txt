@@ -1,0 +1,173 @@
+all: деррига 
+every: деррига 
+ash: йокъ 
+ashes: йокъ 
+bark: коаст 
+abdomen: че 
+belly: че 
+big: доккха 
+bigness: доккха 
+large: доккха 
+bird: оалхазар 
+bite: царгаш йохка 
+black: Iаьржа 
+blood: c"i	c"iy	цIий 
+bone: t"ek	тIехк 
+breast: naqX~a	накха 
+breasts: naqX~a	накха 
+burn: доагаде 
+burn tr.: доагаде 
+claw: мIара 
+nail: мIара 
+talon: мIара 
+cloud: морх 
+cold: шийла 
+come: an	ва 
+come from: an	ва 
+be dead: ala	вала	дала 
+dead: ala	вала	дала 
+die: ala	вала	дала 
+dog: ZX~ali	жIали 
+drink: mala	мела 
+dry: декъа 
+ear: lErg	лерг 
+earth: лаьтта 
+ground: лаьтта 
+land: лаьтта 
+soil: лаьтта 
+eat: даа 
+egg: фуъ 
+eye: bX~arg	бIарг 
+fat: мухь 
+fat n.: мухь 
+grease: мухь 
+lubricant: мухь 
+oil: мухь 
+feather: бедар 
+fire: c"i	цIи 
+fish: Cq"Era	чкъаьра 
+fly: лела 
+fly v.: лела 
+foot: ког 
+full: iza	диза	дизза 
+give: d=al-a (дала}	дала 
+good: дика 
+green: баьццара 
+hair: чо 
+hand: kulg	кулг 
+left hand: kulg	кулг 
+right: kulg	кулг 
+head: корта 
+hear: Xaza	xaz-a (хаза}	хаза 
+heart: дог 
+horn: muXa	муIа 
+1 sg.: so	со 
+I: so	со 
+kill: де 
+knee: go	gola	го 
+be knowledgeable: ха 
+know: ха 
+leaf: Xa	гIа 
+lie: алла 
+lie down: алла 
+liver: diyiX	дийхк 
+long: дIаьха 
+head louse: maza	маза 
+louse: maza	маза 
+male: маIа саг 
+man: sag	саг 
+many: дукха 
+much: дукха 
+multiple: дукха 
+several: дукха 
+flesh: дулх 
+meat: дулх 
+moon: бутт 
+hill: loam	лоам 
+mountain: loam	лоам 
+mouth: баге 
+name: c"i	цIи 
+title: c"i	цIи 
+neck: фоарт 
+new: c"Ena	kErda	керда 
+night: bisa	бийса 
+nighttime: bisa	бийса 
+nose: mEraZ	мераж 
+not: -ц	ца 
+adulterous: ca7	цаI 
+one: ca7	цаI 
+single: ca7	цаI 
+that: дIара 
+the: ca7	цаI 
+unprincipled: ca7	цаI 
+human: sag	саг 
+human being: sag	саг 
+person: sag	саг 
+rain: догIа 
+rainy weather: догIа 
+red: цIе 
+path: никъ 
+road: никъ 
+route: никъ 
+root: овла 
+round: герга 
+sand: гIум 
+say: ала 
+see: bX~argago	го 
+seed: ги 
+sit: вагIа 
+hide: C"or	c"oka	цIока 
+skin: C"or	c"oka	цIока 
+sleep: наб е 
+little: зIамига 
+small: зIамига 
+smallness: зIамига 
+smoke: кIур 
+stand: латта 
+star: sEdq"a	седкъа 
+rock: qX~Era	кхера 
+stone: qX~Era	кхера 
+sun: malX~	малх 
+swim: наьк де	нек де 
+tail: цIог 
+this: ер 
+2 sg: ho	хьо 
+thou: ho	хьо 
+you: ho	хьо 
+tongue: mot	мотт 
+tooth: carg	царг 
+tree: Xi	ga	га 
+grind: Si	шиъ 
+two: Si	шиъ 
+go: даха 
+walk: даха 
+hot: дIайха 
+warm: дIайха 
+water: Xi	Xiy	хий 
+1 pl. inc.: Su	вай	тхо 
+we: Su	вай	тхо 
+we₁: Su	вай	тхо 
+what: фу 
+white: кIай 
+whiteness: кIай 
+who: ħa	мала 
+who?: ħa	мала 
+female: кхалсаг 
+woman: кхалсаг 
+yellow: IажагIа 
+distant: гаьнара 
+far: гаьнара 
+dull: деза 
+heavy: деза 
+serious: деза 
+close: гаргара 
+near: гаргара 
+ner: гаргара 
+salt: тух 
+short: лоаца 
+snake: бIехал 
+thin: диткъа 
+wind: мух 
+earthworm: нIана 
+worm: нIана 
+year: шу 

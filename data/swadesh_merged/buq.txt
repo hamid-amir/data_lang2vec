@@ -1,0 +1,392 @@
+all: nemka | nɛmka 
+all: nɛmka 
+arm: omben 
+arm: ombɛn 
+arrow: kumi 
+ashes: fumoang | fumoaŋ 
+ashes: fumoaŋ 
+back: imbiklien 
+back: imbikliɛn 
+back: makten 
+back: maktɛn 
+bad: ganggar 
+bad: gaŋgar 
+belly: kunamun 
+belly: urir | kunamun 
+big: nambek | nambɛk 
+big: nambɛk 
+bird: munguan 
+bird: mun.guan | munguan 
+bite: -gur- 
+bite: -gur-/indu-gur- 
+black: kurun 
+blood: sißi | sibi	siβi 
+blood: sivi | sibi	siβi 
+blow: fi- 
+bone: ksien | ksiEn	ksiɛn 
+bone: ksiɛn | ksiEn	ksiɛn 
+boy: dawir 
+boy: iët 
+boy: iʌt 
+breast: minga 
+breast: min.ga | minga 
+brother: imiek 
+brother: imiɛk 
+brother: paß 
+brother: pav 
+burn: tun- 
+butterfly: piropir 
+calf: kit 
+cassowary: taiwar(a) 
+chest: nambon 
+child: umundian 
+chin: anmoa 
+cloud: gaid oyan | geit 
+cloud: geit 
+cold: bibiɲas 
+cold: bibiñas | bibiɲas 
+come: kor- | kor	kor- 
+crocodile: tuar 
+crocodile: tuarr 
+cut: ptunggu- 
+cut: ptuŋgu- 
+cut: sirin- 
+day: bagen 
+day: firiaß 
+day: firiav 
+die: uma- | uma	uma- 
+dig: empte an- 
+dig: ɛmptɛ an- 
+dig: ot- 
+dirty: unun 
+dog: ka 
+dry: fa: | faː 
+dry: faː 
+ear: induan | induan	ind~uan 
+earth: makib | makib	makimun 
+earth: makimun | makib	makimun 
+eat: akm- | an- 
+eat: an- 
+egg: nʌ 
+egg: në | nʌ 
+elbow: kanzir 
+elbow: mokër 
+elbow: mokʌrr 
+emu: taiwar(a) 
+excrement: imb 
+eye: moang sik | moaN sik	moaŋ sik 
+eye: moaŋ sik | moaN sik	moaŋ sik 
+face: irigrem 
+face: irigrɛm 
+fall: okor- 
+fall: taw- 
+far: wafur 
+father: awi 
+fat (n.): kabir 
+fear: gamanar- 
+few: taß 
+few: tav 
+fight: garr- 
+fingernail: asumuang 
+fingernail: asumuaŋ 
+finger: nën 
+finger: nʌn 
+fire: kimbin | kimbin	kimb~in	mundub	mund~ub 
+fire: mundub | kimbin	kimb~in	mundub	mund~ub 
+fish: urumik 
+fly (n.): kunduruk 
+fly (v.): warem- 
+fly (v.): warɛm- 
+fog: buk 
+fog: ekab ksik 
+fog: ɛkab ksik 
+forest: kimor 
+forest: noum 
+fruit: sik 
+full: irumbuab | irumbuab	irumb~uab 
+full: irumuab | irumbuab	irumb~uab 
+full: un- | irumbuab	irumb~uab 
+give: -y- 
+give: -y-/-nan-/-w-/-int- 
+good: usiß | usiβ 
+good: usiv | usiβ 
+grass: suk 
+green: iniem | iniɛm 
+green: iniɛm 
+guts: urir 
+hair: iß | iβ 
+hair: iv | iβ 
+head: sa 
+head: yin | sa 
+hear: induandi- | induandi-	ind~uand~i 
+heart: mamun 
+heavy: bin 
+here: ande-te 
+here: ande-tɛ 
+he/she: ø- 
+he/she: o-no 
+he/she: o-no- 
+hit: gar- 
+hold: opk- 
+house: amun 
+how: dimin 
+I: e-we- | i-ɲɛ	i5E 
+I: ɛ-wɛ- | i-ɲɛ	i5E 
+I: i-ɲa- | i-ɲɛ	i5E 
+I: i-ɲɛ | i-ɲɛ	i5E 
+I: i-ña- | i-ɲɛ	i5E 
+I: i-ñe | i-ɲɛ	i5E 
+in: uri-te 
+kill: urum- 
+knee: gesa | gEsa	gɛsa 
+knee: gɛsa | gEsa	gɛsa 
+laugh: eker- 
+laugh: ɛkɛr- 
+left: ktien 
+left: ktiɛn 
+leg: ain 
+lightning: geit kësm- 
+lightning: geit kʌsm- 
+liver: gaman 
+long: dirur | dirur	murie 
+long: murie | dirur	murie 
+long: muriek | dirur	murie 
+louse: gu:n | gun 
+louse: guːn | gun 
+man: mundien | mundiɛn 
+man: mundiɛn 
+man: nas | mundiɛn 
+many: ußutɛ | uβutɛ 
+many: uvute | uβutɛ 
+meat: kit 
+moon: tkun 
+morning: bagen 
+morning: bagɛn 
+morning: urunka 
+morning: urun-ka 
+mosquito: kain 
+mother: nan 
+mountain: karwan | karwan	mamun 
+mountain: mamun | karwan	mamun 
+mouth: kamborngga | kamborrŋga 
+mouth: kamborrŋga 
+name: unim 
+nape: kuman 
+navel: fen 
+navel: fɛn 
+near: gaman 
+neck: dagok 
+new: asiß | asib	asiβ 
+new: asiv | asib	asiβ 
+night: urun 
+nose: mun.gun | mungun 
+not: uyek 
+not: uyɛk 
+old: kon 
+old: naman 
+one: gagindie | gagaindie	gagindiɛ	gagind~ie 
+one: gagindiɛ | gagaindie	gagindiɛ	gagind~ie 
+pull: muw- 
+push: isuw- 
+rain: zizir 
+rat: isiɲar 
+rat: isiñar 
+red: karas 
+right: sik | sa 
+ripe: karas 
+road: baren | barEn 
+road: barɛn | barEn 
+root: mumurin 
+root: mumuring 
+rope: um 
+salt: makët | makʌt 
+salt: makʌt 
+sand: ari 
+sand: (ari)skob 
+say: kembe- | kɛmbɛ- 
+say: kɛmbɛ- 
+say: tanër- | kɛmbɛ- 
+say: tanʌrr- | kɛmbɛ- 
+scratch: ku- 
+sea: biga 
+see: -aŋg- | -aŋg-	aNg	mb~ENg 
+see: aŋg- | -aŋg-	aNg	mb~ENg 
+see: -angg-/mbengg- | -aŋg-	aNg	mb~ENg 
+sharp: kav 
+sharp: pk- 
+short: mur 
+shoulder: mër 
+shoulder: mʌr 
+sing: ondor- 
+sister: imiɛk otaß 
+sister: imiek otav 
+sister: otaß 
+sister: otav 
+sit: bugum- 
+skin: kër | k3r	kʌr 
+skin: kʌr | k3r	kʌr 
+sky: gaid 
+sleep: ini- 
+small: misindi 
+smell: izin matiw- 
+smoke: ekab | ɛkab 
+smoke: ɛkab 
+snake: duang | duaŋ 
+snake: duaŋ 
+spit: ksiɛkm- 
+spit: mekrun 
+spit: mɛkrun 
+split: kiwik- 
+stand: darm- 
+stand: ditgienar- 
+stand: ditgiɛnar- 
+star: guim 
+stick: sken 
+stone: skar 
+straight: didigin 
+sun: kam 
+swell: fukërm- 
+swell: fukʌrm- 
+tail: daur ib | dur	mbodur 
+tail: dur | dur	mbodur 
+tail: du:r | dur	mbodur 
+tail: duːrr | dur	mbodur 
+tail: mbodur | dur	mbodur 
+take: aw- 
+that: argo | argo	omdɛ 
+that: omde | argo	omdɛ 
+that: omdɛ | argo	omdɛ 
+there: argo 
+there: tab-te 
+there: tab-tɛ 
+they: ø- 
+they: o-no 
+they: o-no- 
+thigh: embagan 
+thigh: ɛmbagan 
+think: amin tam- 
+this: amde | amdɛ	awa 
+this: amdɛ | amdɛ	awa 
+this: awa | amdɛ	awa 
+thou: a-na- | nEnE	nɛ-nɛ 
+thou: a-nɛ | nEnE	nɛ-nɛ 
+thou: na-na- | nEnE	nɛ-nɛ 
+thou: nawe | nEnE	nɛ-nɛ 
+thou: nawe- | nEnE	nɛ-nɛ 
+thou: ne-ne | nEnE	nɛ-nɛ 
+thou: nɛ-nɛ | nEnE	nɛ-nɛ 
+throat: dagk niß 
+throat: dagk niv 
+throw: avtatam- 
+thunder: geit bum- 
+tie: umun- 
+tomorrow: matiɲa 
+tomorrow: matiña 
+tongue: mamdak 
+tooth: nanang | nanaN	nanaŋ 
+tooth: nanaŋ | nanaN	nanaŋ 
+tree: arrɛk | w3m 
+tree: ɛbɛ | w3m 
+tree: kanam | w3m 
+tree: tuk | w3m 
+tree: wëm | w3m 
+tree: wʌm | w3m 
+turn: faik- 
+two: arer | a:le:r	arEr	arɛr 
+two: arɛr | a:le:r	arEr	arɛr 
+vagina: imbien 
+vagina: imbiɛn 
+vomit: miri- 
+walk: akumbu- 
+walk: digumt- | akumbu- 
+walk: indu- | akumbu- 
+wallaby: imuo 
+warm: kuar 
+wash: yangg- 
+wash: yaŋg- 
+wash: yangguw- 
+wash: yaŋguw- 
+water: yang | yaN	yaŋ 
+water: yaŋ | yaN	yaŋ 
+weep: amu- 
+we: i-ɲa- | i5E 
+we: i-ɲɛ | i5E 
+we: i-ña- | i5E 
+we: i-ñe | i5E 
+we: ø- | i5E 
+wet: gugum 
+what: mʌ 
+what: më | mʌ 
+where: dago 
+white: oyan 
+who: yo 
+wind: navenam | navɛnam 
+wind: navɛnam 
+wing: mar ib 
+wing: mar (ib) 
+wing: marr 
+woman: simburupe | wambiɛn 
+woman: undim | wambiɛn 
+woman: wambiem/simburupe | wambiɛn 
+woman: wambiɛn 
+wood: skɛn 
+wood: wam undin 
+yellow: isiek | isiɛk 
+yellow: isiɛk 
+yes: o: 
+yes: oː 
+yesterday: arimñav 
+yesterday: nokonaß 
+yesterday: nokonav 
+you: a-na- | nEnE	nɛ-nɛ 
+you: a-ne | nEnE	nɛ-nɛ 
+you: ø- | nEnE	nɛ-nɛ 
+every: nɛmka 
+ash: fumoaŋ 
+abdomen: kunamun 
+bigness: nambɛk 
+large: nambɛk 
+breasts: minga 
+come from: kor	kor- 
+be dead: uma	uma- 
+dead: uma	uma- 
+ground: makib	makimun 
+land: makib	makimun 
+soil: makib	makimun 
+fly: warɛm- 
+fly v.: warɛm- 
+hand: sa 
+left hand: sa 
+1 sg.: i-ɲɛ	i5E 
+head louse: gun 
+male: mundiɛn 
+much: uβutɛ 
+multiple: uβutɛ 
+several: uβutɛ 
+hill: karwan	mamun 
+title: unim 
+nighttime: urun 
+adulterous: gagaindie	gagindiɛ	gagind~ie 
+single: gagaindie	gagindiɛ	gagind~ie 
+the: gagaindie	gagindiɛ	gagind~ie 
+unprincipled: gagaindie	gagindiɛ	gagind~ie 
+rainy weather: zizir 
+path: barEn 
+route: barEn 
+hide: k3r	kʌr 
+little: misindi 
+smallness: misindi 
+rock: skar 
+2 sg: nEnE	nɛ-nɛ 
+grind: a:le:r	arEr	arɛr 
+go: akumbu- 
+1 pl. inc.: i5E 
+we₁: i5E 
+whiteness: oyan 
+who?: yo 
+female: wambiɛn 
+distant: wafur 
+dull: bin 
+serious: bin 
+close: gaman 
+ner: gaman 

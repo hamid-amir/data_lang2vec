@@ -1,0 +1,266 @@
+all: bolu daba	mbulu hela (e pepet)	mbulu ndabana	mbulu ndeba (e pepet)	mbòlu ndàba	wobul 
+every: bolu daba	mbulu hela (e pepet)	mbulu ndabana	mbulu ndeba (e pepet)	mbòlu ndàba	wobul 
+ash: a.u	au	awu 
+ashes: a.u	au	awu 
+abdomen: kambu 
+belly: kambu 
+big: bakulu	bàkul 
+bigness: bakulu	bàkul 
+large: bakulu	bàkul 
+bird: mahawurung	mahawuruŋu 
+bite: kati	witu	wítu 
+black: metung	mitiŋŋu	míting 
+blood: [wai] ria	re	wai ra	wai ria	wairia 
+bone: ri	rii	rí	rí kawodu	rí kawudu 
+breast: huhu	húhu 
+breasts: huhu	húhu 
+burn: cunu	mutung	poku	tunnu	tunu 
+burn tr.: cunu	mutung	poku	tunnu	tunu 
+cloud: arumang	kambang	karumang	karummaŋu	kàmbang 
+cold: maring	maringu	mariŋu 
+come: mai	me	mei 
+come from: mai	me	mei 
+be dead: mat	mati	matu	meti 
+dead: mat	mati	matu	meti 
+die: mat	mati	matu	meti 
+dog: ahu 
+drink: inung	un	unu	unuNu	unuŋu 
+dry: madu	mara	maràkut	màdu	míd	mídu 
+ear: kaculu	kacíl	kahilu	katílu 
+eat: a	ngangu	ŋaŋu 
+egg: telu (e pepet)	tilu	tíl	tílu 
+eye: mata 
+feather: rau ihi	wuli	wulu	wulu ihi	wulu ihu 
+fire: ap	api	apu	epi 
+fish: iaNu	iaŋu	iyang	iyangu	iyengu 
+fly: hawurung	hawuruŋu 
+fly v.: hawurung	hawuruŋu 
+good: hamu	hàm	hàmu 
+green: mor	moru	muru	múru 
+hair: longgu	luŋgi	lúnggi	lúnggu	rau longgi 
+hand: lima 
+left hand: lima 
+right: lima 
+head: katiiku	katiku	katuk	katuku	katàku 
+hear: roNu	roŋu	ràng	ràngi	ràngu 
+1 sg.: 5uNa	nyungga	yànu	ñuŋga 
+I: 5uNa	nyungga	yànu	ñuŋga 
+kill: pamat	pamati	pamatu	pameti 
+be knowledgeable: peinya	pengu	piiŋu	pínya 
+know: peinya	pengu	piiŋu	pínya 
+leaf: rau	rauna	raung	rú 
+lie: taŋgiluŋu 
+lie down: taŋgiluŋu 
+liver: ati	atu	eti 
+long: madeta	madieta	madita	madíta	malai	male	malé 
+head louse: wucu	wutu	wúc	wúcu 
+louse: wucu	wutu	wúc	wúcu 
+male: mini	monu	tau mon	tau moni	tau monu 
+man: tau	tú 
+moon: wulang	wulaŋu 
+mouth: ngar	ngaru	ŋaru 
+name: ngara	tam	tamu 
+title: ngara	tam	tamu 
+neck: goru	koku	nggor	nggoru	ŋgoru 
+new: bidi	biding	bidung	budi	wudung 
+night: màdung	ridung	ruduNu	rudung	ruduŋu 
+nighttime: màdung	ridung	ruduNu	rudung	ruduŋu 
+nose: uru	ír	íru 
+adulterous: dica	diha	d|iha	hau 
+one: dica	diha	d|iha	hau 
+single: dica	diha	d|iha	hau 
+that: nai	nana	nelo	nina	nílo 
+the: dica	diha	d|iha	hau 
+unprincipled: dica	diha	d|iha	hau 
+human: tau	tú 
+human being: tau	tú 
+person: tau	tú 
+rain: urang	uraŋu 
+rainy weather: urang	uraŋu 
+red: rara 
+path: and~a	larung	ngarangí	ànda 
+road: and~a	larung	ngarangí	ànda 
+route: and~a	larung	ngarangí	ànda 
+root: am	amu 
+sand: kora	wara 
+say: kareuk	kareòku	kariu	kariuk	panewu	pani	wana 
+see: ita	ngadu	tàngar 
+sit: mandapu	mandidung	uhuk	uhuku 
+hide: kalit	kalitu	manula 
+skin: kalit	kalitu	manula 
+sleep: katuda	macur	macuru	mahurru	yuda 
+little: kudu	màrah 
+small: kudu	màrah 
+smallness: kudu	màrah 
+smoke: kawu	kawú	kotung	muahu 
+star: adinu	kadunnu	kadunu	kandunu	kapí 
+rock: wac	wacu	watu 
+stone: wac	wacu	watu 
+swim: ngani	nganu	ŋeni 
+tail: ka.iku	kaiku	kiku	k|iku	kíku 
+this: jiana	na.ina	naina	yana	òni 
+2 sg: nimi	numu	nyum	nyumu	yumu	ñumu 
+thou: nimi	numu	nyum	nyumu	yumu	ñumu 
+you: nimi	numu	nyum	nyumu	yumu	ñumu 
+tongue: lama	l|ama	làma	weu-na	yú 
+tooth: Nand~u	ngind	ngindu	ngàndu	ŋandu 
+grind: damboe	dambu	dua	dàmbu 
+two: damboe	dambu	dua	dàmbu 
+go: halako	halaku	kaku	kandàku	laku 
+walk: halako	halaku	kaku	kandàku	laku 
+hot: mbana	wajal 
+warm: mbana	wajal 
+water: wai	wei 
+1 pl. inc.: nulta	numa	nyuma	nyuta	yita	yànuma	ñuma	ñu|ta 
+we: nulta	numa	nyuma	nyuta	yita	yànuma	ñuma	ñu|ta 
+we₁: nulta	numa	nyuma	nyuta	yita	yànuma	ñuma	ñu|ta 
+what: gàra	nggara	nggàra	ŋgara 
+white: bara	kaka	mbara 
+whiteness: bara	kaka	mbara 
+who: ga.ia	hera	hèra	hèram	nggamu	ŋgamu 
+who?: ga.ia	hera	hèra	hèram	nggamu	ŋgamu 
+female: awinu	kawini	tau kawini	tau wawinu 
+woman: awinu	kawini	tau kawini	tau wawinu 
+yellow: kaungi	wingir	wingur	wiŋir 
+distant: maleru	marau 
+far: maleru	marau 
+dull: botu	buatu	mbotu 
+heavy: botu	buatu	mbotu 
+serious: botu	buatu	mbotu 
+close: lihi	lihu	marani	maranu	mareni	tuku 
+near: lihi	lihu	marani	maranu	mareni	tuku 
+ner: lihi	lihu	marani	maranu	mareni	tuku 
+salt: mahi	mahu (substantive)	mehi	mihing	mihung 
+short: kababa	kadumbuk	kendar	pandak	pàndak 
+snake: katar	màndu	ular	ularu 
+thin: manipa	manipu 
+wind: ngilu	ngàlu	ngíl	ngílu	ŋilu 
+earthworm: kalotu	nyali	nyalu	wolila	ñeli	ŋeli 
+worm: kalotu	nyali	nyalu	wolila	ñeli	ŋeli 
+year: ndaung	ndaungu	ndauŋ	ndoungu 
+2 pl.: nyim	nyimi	yimi	ñimi 
+ye: nyim	nyimi	yimi	ñimi 
+you all: nyim	nyimi	yimi	ñimi 
+3 pl.: nyuda	yida	ñu|da 
+they: nyuda	yida	ñu|da 
+where: gide	la nggida	la nggí	laŋgii 
+where?: gide	la nggida	la nggí	laŋgii 
+when: pirang	piraŋ 
+when?: pirang	piraŋ 
+how: ngara ula	nggak hamana	nggaku hama	nggikina	nggàruk	ŋgikina 
+how?: ngara ula	nggak hamana	nggaku hama	nggikina	nggàruk	ŋgikina 
+other: hawa.ing	hawaing	hawayo	hawiang	hawiaŋu 
+three: tail	tailu	tilu	tèloe 
+four: pat	patu	pāboe 
+five: lima	līmā 
+broad: bàlar	malau	mbalar	mbàlaru	mbèlar 
+wide: bàlar	malau	mbalar	mbàlaru	mbèlar 
+wideness: bàlar	malau	mbalar	mbàlaru	mbèlar 
+fat: boka	kawàhu	mboka	mbuaka	mina	miña 
+thick: tembu	timbi	tímbi 
+narrow: hadipal	handipal	kahukul	kahukulu 
+principal wife: kuru umang	papaha	tau angu	taun	tauna 
+wife: kuru umang	papaha	tau angu	taun	tauna 
+husband: lai	layu	lei	taul 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+forest: oamang	omang	omaŋ	utang 
+woods: oamang	omang	omaŋ	utang 
+branch: kahanga	karàŋga 
+stick: kahanga	karàŋga 
+fruit: wo	wua 
+flower: mbuŋa	wàla 
+grass: marut	marutu	màtar	rumba 
+cord: lek	leku	liaku	liku 
+rope: lek	leku	liaku	liku 
+flesh: ihi	tanggu	tolung	toluŋu 
+meat: ihi	tanggu	tolung	toluŋu 
+grease: boka	kawàhu	mboka	mbuaka	mina	miña 
+wing: kàpa	rau kàpa	ruu kàpa	wulu kàpa 
+gut: tanai	tanei 
+guts: tanai	tanei 
+insides: tanai	tanei 
+intestine: tanai	tanei 
+intestines: tanai	tanei 
+back: kajia	kanua	kàrtu	wonggu 
+suck: habubbu	harebit	kabucukung	lamuj	lamuji 
+spit: ilu	pangànj	pangànji	pangànju	pawànju 
+vomit: muta	mutta 
+blow: hapau	hapui	jiliru	paroru	púwu 
+breath: hangahu	kayek	kayeku 
+breathe: hangahu	kayek	kayeku 
+laugh: riki	riku 
+laughter: riki	riku 
+cogitate: kanalu	kananding	pangàdang	patandang	patandanya	pikur 
+reflect: kanalu	kananding	pangàdang	patandang	patandanya	pikur 
+think: kanalu	kananding	pangàdang	patandang	patandanya	pikur 
+smell: hangud	hangudu	haŋudu 
+sniff: hangud	hangudu	haŋudu 
+afraid: madetu	mangàdat	mangàdatu	mawàdutu 
+be afraid: madetu	mangàdat	mangàdatu	mawàdutu 
+fear: madetu	mangàdat	mangàdatu	mawàdutu 
+fright: madetu	mangàdat	mangàdatu	mawàdutu 
+alive: loru	l|uri	lúr	lúri	múruku 
+be alive: loru	l|uri	lúr	lúri	múruku 
+life: loru	l|uri	lúr	lúri	múruku 
+live: loru	l|uri	lúr	lúri	múruku 
+living: loru	l|uri	lúr	lúri	múruku 
+hunt: patama	patamang	patamangu	patamaŋu 
+beat: palu 
+hit: palu 
+strike: palu 
+cut: kadipu	kadopu	kambăra	ponggu	púnggu 
+hack: kadipu	kadopu	kambăra	ponggu	púnggu 
+cut open: bera	biera	bièra	biŋgăru	wăka 
+split: bera	biera	bièra	biŋgăru	wăka 
+pierce: hunj	hunju	koja	kuaja 
+stab: hunj	hunju	koja	kuaja 
+scratch: kau	pakauru	pako	pakó 
+dig: aik	aiku	akki	hàka	àki 
+stand: dengur	dingir	duala	dualaku	ndolak(u)	ndualaku 
+drop: kanab	kanabu 
+fall: kanab	kanabu 
+grasp: ketang	kítang	yappa	àpa 
+hold: ketang	kítang	yappa	àpa 
+hold in arm: ketang	kítang	yappa	àpa 
+squeeze: pijar	pàh	pàhu 
+wring: pijar	pàh	pàhu 
+throw: cuk	cuku	càru	tukku	tuku 
+bind: hondu 
+fasten: hondu 
+tie: hondu 
+tie up: hondu 
+sew: ila	uc	ucu	utu 
+count: dica	diha	kira	kíra 
+enumerate: dica	diha	kira	kíra 
+number: dica	diha	kira	kíra 
+tally: dica	diha	kira	kíra 
+flow: jànjar	kajijiru	laku	lolung	njanjaru	wíwa 
+lake: pangaha	tàma 
+ocean: tahuk	tehiku	tàhik 
+sea: tahuk	tehiku	tàhik 
+dust: au	awu	kaŋabu	kumbur	kumbur tana	kàmbur tana 
+fog: habuang	hambongu	hambuang	karumang	mahu 
+sky: awang	awaŋu 
+bad: da hàm	da hàmu	kabulak	kajaliku	nda hàmu 
+evil: da hàm	da hàmu	kabulak	kajaliku	nda hàmu 
+rot: mbai	mohung	muhung	muhuŋu	múhung 
+rotten: mbai	mohung	muhung	muhuŋu	múhung 
+dirty: irak	marihaku	maríhak 
+filthy: irak	marihaku	maríhak 
+soiled: irak	marihaku	maríhak 
+sharp: daka	dàka	dàku	dàkut 
+blunt: buli	bulu	karuang	katumbul	ndana dàkut	pakomalung 
+damp: mbaha 
+wet: mbaha 
+right side: awana	kawana	wowana 
+left: alei	kalai	kalei	wolai 
+at: la	lehu	ta 
+in: [hu]dalu	coda	hu dalu	nu dalu 
+inside: [hu]dalu	coda	hu dalu	nu dalu 
+and: danu	daŋu	dàng	dàngu 
+if: jeaka	jàka	yeka 

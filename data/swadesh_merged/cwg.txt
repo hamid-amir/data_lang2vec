@@ -1,0 +1,326 @@
+all: hnũn 
+every: hnũn 
+ash: habuʔ 
+ashes: habuʔ 
+bark: ktəʔ 
+abdomen: ʔac 
+belly: ʔac 
+big: mnɨ̃ʔ 
+bigness: mnɨ̃ʔ 
+large: mnɨ̃ʔ 
+bird: kawaw 
+bite: kap 
+black: səʔɛ̃ŋ 
+blood: mh~3*m	mhə̃m 
+bone: jəʔeŋ	y37eN 
+breast: %bu7	buʔ 
+breasts: %bu7	buʔ 
+claw: skoʔ 
+nail: skoʔ 
+talon: skoʔ 
+cloud: ʔɑl 
+cold: sdɛc 
+come: t3s	təs 
+come from: t3s	təs 
+be dead: %kb3s	kbɨs 
+dead: %kb3s	kbɨs 
+die: %kb3s	kbɨs 
+dog: E*N	ʔɛ̃ŋ 
+drink: uh	ʔuh 
+dry: kriŋ 
+ear: hnt$3N	hntəŋ 
+earth: tɛʔ 
+ground: tɛʔ 
+land: tɛʔ 
+soil: tɛʔ 
+eat: cəʔ 
+egg: ktuət 
+eye: mE*t	mɛ̃t 
+feather: sɔk 
+fire: os	ʔɔs 
+fish: ki37	kiəʔ 
+fly: kapɔy 
+fly v.: kapɔy 
+foot: cɑn 
+full: b3k	bək 
+give: ʔak 
+good: bayek 
+green: blwəɲ	hijaw 
+hair: sɔk 
+hand: Tos	cɑs 
+left hand: Tos	cɑs 
+right: Tos	cɑs 
+head: kuy 
+hear: kj3N	kjəŋ 
+heart: kaɲɛ̃s 
+horn: %tanok	tanok 
+1 sg.: iN	ʔiŋ 
+I: iN	ʔiŋ 
+kill: kibɨs 
+knee: ktoN	ktoŋ 
+be knowledgeable: harən	knɛ̃l 
+know: harən	knɛ̃l 
+leaf: hale7	haleʔ 
+lie: pklək 
+lie down: pklək 
+liver: ros 
+long: jsɨŋ 
+head louse: TE7	cɛʔ	marɨɲ 
+louse: TE7	cɛʔ	marɨɲ 
+male: tuŋkal 
+man: biʔ	bri7	briʔ 
+many: bsoʔ 
+much: bsoʔ 
+multiple: bsoʔ 
+several: bsoʔ 
+flesh: sac 
+meat: sac 
+moon: kcɛʔ 
+hill: %mni*m	Tba7	cbɑʔ	mnĩm 
+mountain: %mni*m	Tba7	cbɑʔ	mnĩm 
+mouth: hɑɲ 
+name: To7	coʔ	coʔ (2	coʔ 2 
+title: To7	coʔ	coʔ (2	coʔ 2 
+neck: lŋɛ̃ʔ 
+new: rE7	rɛʔ 
+night: btom 
+nighttime: btom 
+nose: mo*h	mɔ̃h 
+not: həʔ 
+adulterous: no*i	nôi	nɑ̃y 
+one: no*i	nôi	nɑ̃y 
+single: no*i	nôi	nɑ̃y 
+that: nũʔ 
+the: no*i	nôi	nɑ̃y 
+unprincipled: no*i	nôi	nɑ̃y 
+human: biʔ	bri7	briʔ 
+human being: biʔ	bri7	briʔ 
+person: biʔ	bri7	briʔ 
+rain: səm 
+rainy weather: səm 
+red: swət 
+path: %lboh	baləy	sbəʔ 
+road: %lboh	baləy	sbəʔ 
+route: %lboh	baləy	sbəʔ 
+root: jəʔes 
+round: twaw 
+sand: pasir 
+say: bət	tlɛʔ 
+see: yow 
+seed: kyaŋ 
+sit: ŋɔk 
+hide: ho7	hoʔ 
+skin: ho7	hoʔ 
+sleep: ʔɑm 
+little: hiʔɔ̃y 
+small: hiʔɔ̃y 
+smallness: hiʔɔ̃y 
+smoke: siyay 
+star: %bintaN	bintaŋ 
+rock: tmo*7	tmɔ̃ʔ 
+stone: tmo*7	tmɔ̃ʔ 
+sun: mE*t kto7	mɛ̃t ktɔʔ 
+swim: bnɛ̃ŋ 
+tail: hateʔ 
+this: daʔ 
+2 sg: m3*7	mɨ̃ʔ 
+thou: m3*7	mɨ̃ʔ 
+you: m3*7	mɨ̃ʔ 
+tongue: latek 
+tooth: lmu*5	lmũɲ 
+tree: jəhũʔ	y3hu*7 
+grind: ber	běi 
+two: ber	běi 
+go: cɨp	cɨp baləy cɑn 
+walk: cɨp	cɨp baləy cɑn 
+hot: bɨt	kʔəc 
+warm: bɨt	kʔəc 
+water: %tom	tɑm 
+1 pl. inc.: hE7	hɛʔ	jaʔ 
+we: hE7	hɛʔ	jaʔ 
+we₁: hE7	hɛʔ	jaʔ 
+what: coʔ 
+white: puteh 
+whiteness: puteh 
+who: biʔ ʔay 
+who?: biʔ ʔay 
+female: koŋ 
+woman: koŋ 
+yellow: kunĩŋ	tmagaʔ 
+distant: con 
+far: con 
+dull: lbat	ɲũt 
+heavy: lbat	ɲũt 
+serious: lbat	ɲũt 
+close: dwah 
+near: dwah 
+ner: dwah 
+salt: garam 
+short: cinhũɛ̃t 
+snake: talon 
+thin: stal 
+wind: hɔŋ 
+earthworm: caceŋ 
+worm: caceŋ 
+year: thun 
+3 sg.: ʔuh 
+he: ʔuh 
+she: ʔuh 
+2 pl.: jin 
+ye: jin 
+you all: jin 
+3 pl.: gən 
+they: gən 
+here: handaʔ 
+there: hantoy	hanũʔ 
+where: hɑ̃n 
+where?: hɑ̃n 
+when: pon 
+when?: pon 
+how: cin 
+how?: cin 
+some: dɨl 
+few: kanɛ̃t 
+other: paləʔ 
+three: pet	pɛt 
+four: pôn	pɑn 
+five: limeh	limãʔ 
+broad: mnɨ̃ʔ 
+wide: mnɨ̃ʔ 
+wideness: mnɨ̃ʔ 
+fat: ləʔos 
+thick: tbəl 
+narrow: gac 
+child: budak	wɔŋ 
+principal wife: jəʔ 
+wife: jəʔ 
+husband: teʔ 
+his mother: mɔ̃y	mɛ̃p 
+mother: mɔ̃y	mɛ̃p 
+my mother: mɔ̃y	mɛ̃p 
+father: bap 
+his father: bap 
+my father: bap 
+animal: nataŋ 
+forest: brtɛʔ 
+woods: brtɛʔ 
+branch: maliʔ	yoh 
+stick: maliʔ	yoh 
+fruit: ploʔ 
+flower: bkɑw 
+cord: taliʔ 
+rope: taliʔ 
+grease: ləʔos 
+fingernail: skoʔ 
+leg: baŋkoʔ kəhɛr 
+arm: cɑs 
+wing: prac 
+gut: ʔac war 
+guts: ʔac war 
+insides: ʔac war 
+intestine: ʔac war 
+intestines: ʔac war 
+back: hŋkɨŋ 
+suck: ɲɔ̃k 
+spit: kbac 
+vomit: kəʔ 
+blow: pət 
+breath: snjɨk 
+breathe: snjɨk 
+laugh: glɨk 
+laughter: glɨk 
+cogitate: peker	wɨ̃t 
+reflect: peker	wɨ̃t 
+think: peker	wɨ̃t 
+smell: haloŋ	ʔɔ̃ɲ 
+sniff: haloŋ	ʔɔ̃ɲ 
+alive: gɔs 
+be alive: gɔs 
+life: gɔs 
+live: gɔs 
+living: gɔs 
+fight: lawan 
+hunt: pndap 
+beat: hmat	tapɑt 
+hit: hmat	tapɑt 
+strike: hmat	tapɑt 
+cut: kac 
+hack: kac 
+cut open: blɑh 
+split: blɑh 
+pierce: cɔk 
+stab: cɔk 
+scratch: kɑc 
+dig: bɑy 
+tell lies: pklək	pryɑʔ 
+stand: hɲaɲ 
+turn: paleŋ	pusiŋ 
+turn around: paleŋ	pusiŋ 
+turn round: paleŋ	pusiŋ 
+drop: ras 
+fall: ras 
+grasp: gɔy 
+hold: gɔy 
+hold in arm: gɔy 
+squeeze: hapit	wɛ̃t 
+wring: hapit	wɛ̃t 
+rub: sər 
+wipe: bɨl 
+wash: soc 
+wash clothes: soc 
+pull: tarek 
+push: tolak 
+shove: tolak 
+throw: kaloŋ 
+bind: siat 
+fasten: siat 
+tie: siat 
+tie up: siat 
+sew: jayit 
+count: bilaŋ 
+enumerate: bilaŋ 
+number: bilaŋ 
+tally: bilaŋ 
+sing: nəhaŋ 
+have fun: nihɑʔ 
+play: nihɑʔ 
+float: haɲũt	wət 
+flow: wət 
+swell: swah 
+brook: tɑm 
+river: tɑm 
+stream: tɑm 
+ocean: lawot 
+sea: lawot 
+dust: hmɛ̃c 
+fog: ʔɑl 
+sky: laŋĩt 
+ice: tɑm batuʔ 
+blaze: jəʔ	ŋəc 
+burn: jəʔ	ŋəc 
+day: ktɔʔ 
+daylight: ktɔʔ 
+daytime: ktɔʔ 
+old: badɔn 
+bad: həʔ mayek 
+evil: həʔ mayek 
+rot: soʔ 
+rotten: soʔ 
+dirty: kamãh 
+filthy: kamãh 
+soiled: kamãh 
+straight: dŋũk 
+sharp: cbɨt	lut 
+blunt: həʔ cnbɨt 
+smooth: sluc 
+damp: məʔɑ̃c 
+wet: məʔɑ̃c 
+correct: ləy 
+right side: təm 
+left: yal 
+at: kaʔ 
+in: lam 
+inside: lam 
+with: biʔ	ŋɛ̃n 
+if: kalaw	mɛ̃n 
+because: sbap 

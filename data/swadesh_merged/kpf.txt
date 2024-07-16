@@ -1,0 +1,289 @@
+all: aksik 
+and: opŋɑ 
+and: opngâ 
+animal: zu 
+ashes: kau | kau	kʌu 
+ashes: kʌu | kau	kʌu 
+back: kâdât- 
+back: kɑdɑt- 
+bark: sʌk 
+belly: tip- | tip	tip- 
+big: patɑ | pato	patɑ 
+big: patâ | pato	patɑ 
+bird: ni 
+bite: zihi- | zihi	zihi- 
+black: sumun sumun 
+blood: sep- | sep	sep- 
+blow: waː- 
+blow: waa- 
+bone: siŋit | siŋit	ton	tɑn- 
+bone: tân- | siŋit	ton	tɑn- 
+bone: tɑn- | siŋit	ton	tɑn- 
+breast: dimʌ | dimʌ	nam	nam- 
+breast: nam- | dimʌ	nam	nam- 
+breathe: yaak 
+breathe: yaːk 
+brother: ata- 
+brother: ʌtʌ 
+burn: si- 
+claw: pakit- | pakit	pakit- 
+cloud: asa | sasa 
+cloud: sasa 
+cold: pâteng | poteN	pɑteŋ 
+cold: pɑteŋ | poteN	pɑteŋ 
+come: ga- | ga	ga- 
+count: sâlâpku- 
+count: sɑlɑpku- 
+cut: mânâga- 
+cut: mɑnɑga- 
+die: mu- | mu	mu- 
+dig: keda- 
+dog: bua | bua	wau 
+dog: wau | bua	wau 
+dry: ararâng- | araroN	ararɑŋ- 
+dry: ararɑŋ- | araroN	ararɑŋ- 
+dust: isak 
+ear: kesap | kesap	kidap	kidap- 
+ear: kidap- | kesap	kidap	kidap- 
+earth: an 
+eat: ne | ne	ni	ni- 
+eat: ni- | ne	ni	ni- 
+eye: si- | si	si- 
+fall: lokgi- 
+father: iwɑ- 
+father: iwâ- 
+fat (n.): kelâk- 
+fat (n.): kelɑk- 
+fingernail: sʌlʌp 
+fire: kʌrʌp 
+flower: bâlo- 
+flower: bɑlo- 
+foot: ki- | ki	ki-	set 
+foot: set | ki	ki-	set 
+fruit: bon- 
+full: pik- | pik	pik- 
+give: nih- | nih	nih- 
+good: âlipngâ | olipNo	ɑlipŋɑ 
+good: ɑlipŋɑ | olipNo	ɑlipŋɑ 
+green: gwʌlʌgwʌlʌ | gwʌlʌgwʌlʌ	wohon wohon	wɑhɑn wɑhɑn 
+green: wâhân wâhân | gwʌlʌgwʌlʌ	wohon wohon	wɑhɑn wɑhɑn 
+green: wɑhɑn wɑhɑn | gwʌlʌgwʌlʌ	wohon wohon	wɑhɑn wɑhɑn 
+hair: sâmot- | somot	sɑmot-	sʌmot 
+hair: sʌmot | somot	sɑmot-	sʌmot 
+hair: sɑmot- | somot	sɑmot-	sʌmot 
+hand: bit- | bit	bit- 
+head: kauk- | kauk	kauk-	kʌuk 
+head: kʌuk | kauk	kauk-	kʌuk 
+heart: kabiam- | kabiam	kabiam- 
+he/she: zâk 
+he/she: zɑk 
+he/she: zɔk 
+hit: ku 
+hit: ku- 
+hold: mi- 
+hole: lɔm 
+how: ikâi azo 
+how: ikɑi azo 
+I: nɑ | no	nɑ	nʌ 
+I: nʌ | no	nɑ	nʌ 
+I: nâ | no	nɑ	nʌ 
+knee: simin- | simin	simin- 
+know: naga- | naga	naga- 
+lake: degân 
+lake: degɑn 
+laugh: girâng- 
+laugh: girɑŋ- 
+leaf: iin- | in	isin	iːn- 
+leaf: iːn- | in	isin	iːn- 
+leaf: isin | in	isin	iːn- 
+left: kane 
+leg: set 
+long: kârep | korep	kʌrɛp 
+long: kʌrɛp | korep	kʌrɛp 
+louse: imen 
+man: a 
+many: biwirɑ | biwiro	biwirɑ 
+many: biwirâ | biwiro	biwirɑ 
+meat: sunum- 
+moon: kain | kain	kʌin 
+moon: kʌin | kain	kʌin 
+mother: mam- 
+mountain: baknga | bakŋa	kakNa 
+mountain: bakŋa | bakŋa	kakNa 
+mouth: lau 
+name: kut- | kut	kut- 
+neck: gâdu- | gandu	godu	gɑdu- 
+neck: gandu | gandu	godu	gɑdu- 
+neck: gɑdu- | gandu	godu	gɑdu- 
+new: irak | irak	irakNo	irakŋɑ 
+new: irakŋɑ | irak	irakNo	irakŋɑ 
+new: irakngâ | irak	irakNo	irakŋɑ 
+night: ngatik | Natik	ŋatik 
+night: ŋatik | Natik	ŋatik 
+nose: sâgân- | sogon	sɑgɑn-	sʌŋgʌn 
+not: ma | ma	mo 
+not: mâ | ma	mo 
+old: sobɑ 
+old: sobâ 
+one: kânok | kanok	konok	kɑnok 
+one: kɑnok | kanok	konok	kɑnok 
+play: sero 
+pull: olong- 
+pull: oloŋ- 
+push: maati- 
+push: maːti- 
+rain: map 
+red: kuring | kuriN	kuriŋ 
+red: kuriŋ | kuriN	kuriŋ 
+right: bon | bit	bit- 
+road: mâtâp | motop 
+road: mɑtɑp | motop 
+road: mʌtʌp | motop 
+root: âdâng- | odoN	ɑdɑŋ- 
+root: ɑdɑŋ- | odoN	ɑdɑŋ- 
+rope: tâk 
+rope: tɑk 
+round: gawâng gawâng | gawoN gawoN	gawɑŋ gawɑŋ 
+round: gawɑŋ gawɑŋ | gawoN gawoN	gawɑŋ gawɑŋ 
+sand: sak 
+say: s- | s	s- 
+seed: keet- | ket	keːt- 
+seed: keːt- | ket	keːt- 
+see: nek- | nek	nek- 
+sew: gare- 
+short: târâp- | tɑrɑp- 
+short: tɑrɑp- 
+sister: pona 
+sister: uru- 
+sit: ta- | ta	ta- 
+skin: sâk- | sok	sɑk-	sʌk 
+skin: sʌk | sok	sɑk-	sʌk 
+skin: sɑk- | sok	sɑk-	sʌk 
+sky: subem 
+sleep: dzi | dzi	zi	zi- 
+sleep: zi- | dzi	zi	zi- 
+small: mâiktâ | moikto	mɑiktɑ 
+small: mɑiktɑ | moikto	mɑiktɑ 
+smoke: kaßak | kaβak	mudo 
+smoke: mudo | kaβak	mudo 
+snake: mulum 
+some: nâbut- 
+spit: tâp- 
+spit: tʌp 
+stand: kin- 
+star: saŋgelʌk | saŋgelʌk	segelak 
+star: segelak | saŋgelʌk	segelak 
+stick: kabam 
+stone: kât | kot	kɑt 
+stone: kɑt | kot	kɑt 
+straight: tʌrʌrʌk 
+suck: musuku- 
+sun: mirâsing | mirosiN	mirɑsiŋ	mirʌsiŋ 
+sun: mirɑsiŋ | mirosiN	mirɑsiŋ	mirʌsiŋ 
+sun: mirʌsiŋ | mirosiN	mirɑsiŋ	mirʌsiŋ 
+swell: suk- 
+tail: daː- | da	daː- 
+tail: daa- | da	daː- 
+that: zo 
+there: ade 
+they: zâk 
+they: zɑk 
+this: zi 
+thou: gɑ | go	gɑ	g̩o 
+thou: gâ | go	gɑ	g̩o 
+thou: g`o | go	gɑ	g̩o 
+thou: ze | go	gɑ	g̩o 
+thou: zen | go	gɑ	g̩o 
+throw: pan- 
+tie: sʌɣa 
+tongue: nâbâlam- | nembilam	nobolam	nɑbɑlam- 
+tongue: nɑbɑlam- | nembilam	nobolam	nɑbɑlam- 
+tongue: nembilam | nembilam	nobolam	nɑbɑlam- 
+tooth: sât- | sot	sɑt- 
+tooth: sot | sot	sɑt- 
+tooth: sɑt- | sot	sɑt- 
+tree: nak 
+turn: purik- 
+two: zâhât | zagat	zohot	zɑhɑt 
+two: zɑhɑt | zagat	zohot	zɑhɑt 
+vomit: mohat- 
+warm: kârâp | kʌrʌpkʌrʌp	uruk uruk 
+warm: kɑrɑp | kʌrʌpkʌrʌp	uruk uruk 
+warm: kʌrʌpkʌrʌp | kʌrʌpkʌrʌp	uruk uruk 
+warm: uruk uruk | kʌrʌpkʌrʌp	uruk uruk 
+wash: sâgon- 
+wash: sɑgon- 
+water: to 
+weep: isi- 
+we: ne | nen 
+we: nen 
+what: wan 
+where: wanân 
+where: wanɑn 
+white: kau kau 
+who: ngâi | Nai	ŋɑi 
+who: ŋɑi | Nai	ŋɑi 
+wind: berom | berom	piβɔ 
+wind: pißɔ | berom	piβɔ 
+wing: awât- 
+wing: awɑt- 
+wing: peŋgam 
+woman: abân | abon	abɑn 
+woman: abɑn | abon	abɑn 
+wood: kabam 
+worm: guk 
+yellow: gibang gibang | gibaN gibaN	gibaŋ gibaŋ 
+yellow: gibaŋ gibaŋ | gibaN gibaN	gibaŋ gibaŋ 
+you: zen | go	gɑ	g̩o 
+every: aksik 
+ash: kau	kʌu 
+abdomen: tip	tip- 
+bigness: pato	patɑ 
+large: pato	patɑ 
+breasts: dimʌ	nam	nam- 
+nail: pakit	pakit- 
+talon: pakit	pakit- 
+come from: ga	ga- 
+be dead: mu	mu- 
+dead: mu	mu- 
+ground: an 
+land: an 
+soil: an 
+fat: kelok 
+fat n.: kelok 
+grease: kelok 
+lubricant: kelok 
+oil: kelok 
+left hand: bit	bit- 
+1 sg.: no	nɑ	nʌ 
+be knowledgeable: naga	naga- 
+head louse: imen 
+much: biwiro	biwirɑ 
+multiple: biwiro	biwirɑ 
+several: biwiro	biwirɑ 
+flesh: sunum 
+meat: sunum 
+hill: bakŋa	kakNa 
+title: kut	kut- 
+nighttime: Natik	ŋatik 
+adulterous: kanok	konok	kɑnok 
+single: kanok	konok	kɑnok 
+the: kanok	konok	kɑnok 
+unprincipled: kanok	konok	kɑnok 
+rainy weather: map 
+path: motop 
+route: motop 
+hide: sok	sɑk-	sʌk 
+little: moikto	mɑiktɑ 
+smallness: moikto	mɑiktɑ 
+stand: kin 
+rock: kot	kɑt 
+2 sg: go	gɑ	g̩o 
+grind: zagat	zohot	zɑhɑt 
+hot: kʌrʌpkʌrʌp	uruk uruk 
+1 pl. inc.: nen 
+we₁: nen 
+whiteness: kau kau 
+who?: Nai	ŋɑi 
+female: abon	abɑn 
+earthworm: guk 

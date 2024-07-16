@@ -1,0 +1,304 @@
+all: al	ekeren	ɛkɛrɛn 
+every: al	ekeren	ɛkɛrɛn 
+ash: ašiši 
+ashes: ašiši 
+big: grot 
+bigness: grot 
+large: grot 
+bird: fegəl 
+bite: bit 
+black: swat 
+blood: blut 
+bone: ben 
+breast: bos 
+breasts: bos 
+claw: nal 
+nail: nal 
+talon: nal 
+cloud: wolk 
+cold: kaut	kot 
+come: ko 
+come from: ko 
+be dead: dod	dot 
+dead: dod	dot 
+die: dod	dot 
+dog: hun 
+drink: driN	driNk	driŋ	driŋg	driŋk 
+dry: drog	drok 
+ear: ho 
+earth: adu 
+ground: adu 
+land: adu 
+soil: adu 
+eat: yit 
+egg: eyu 
+eye: %hogo	hogo 
+feather: plim 
+fire: fi 
+fish: fEs	fɛs 
+fly: flig 
+fly v.: flig 
+foot: futu 
+full: ful 
+give: gi 
+good: frai 
+green: grun 
+hair: ha 
+hand: han 
+left hand: han 
+right: han 
+head: kop 
+hear: ho 
+heart: hat 
+horn: hor3n	horən 
+1 sg.: mi 
+I: mi 
+kill: mata 
+knee: %futu	futu	kini 
+be knowledgeable: wet	wɛt 
+know: wet	wɛt 
+leaf: bla 
+lie: lɛi 
+lie down: lɛi 
+long: laŋ 
+head louse: lus 
+louse: lus 
+male: man	nom 
+man: fol3k	folək 
+many: fel	muči	muši 
+much: fel	muči	muši 
+multiple: fel	muči	muši 
+several: fel	muči	muši 
+flesh: flɛis	flɛs 
+meat: flɛis	flɛs 
+moon: man 
+hill: bErgi	berg3	berge	bergə	bɛrgi 
+mountain: bErgi	berg3	berge	bergə	bɛrgi 
+mouth: mon	mun 
+name: nam 
+title: nam 
+neck: nɛk 
+new: niu 
+night: duNki	duNku	duŋki	duŋku 
+nighttime: duNki	duNku	duŋki	duŋku 
+nose: nEs	nas	nɛs 
+adulterous: en 
+one: en 
+single: en 
+that: en 
+the: en 
+unprincipled: en 
+human: fol3k	folək 
+human being: fol3k	folək 
+person: fol3k	folək 
+rain: regon	regun	rɛgən 
+rainy weather: regon	regun	rɛgən 
+red: ro 
+path: pat 
+road: pat 
+route: pat 
+root: woltə 
+round: ron	run 
+sand: san 
+say: se 
+see: %ki	ki 
+seed: sat 
+sit: sit	sɛt 
+hide: %lif	lif 
+skin: %lif	lif 
+sleep: slap 
+little: klen	klenši	klɛn 
+small: klen	klenši	klɛn 
+smallness: klen	klenši	klɛn 
+smoke: smok 
+star: stEre	stɛre 
+rock: sten 
+stone: sten 
+sun: son 
+swim: zwim	zwɛm 
+tail: stet	stɛt 
+2 sg: yu 
+thou: yu 
+you: yu 
+tongue: toN	toŋ 
+tooth: tan 
+tree: bom 
+grind: twe	tw~e 
+two: twe	tw~e 
+go: rambl	wandu 
+walk: rambl	wandu 
+hot: wərm	wɛrm 
+warm: wərm	wɛrm 
+water: watu 
+1 pl. inc.: ons 
+we: ons 
+we₁: ons 
+what: wa	wat 
+white: wit 
+whiteness: wit 
+who: awi 
+who?: awi 
+female: frau 
+woman: frau 
+yellow: gel 
+distant: fe	fɛ 
+far: fe	fɛ 
+dull: swa 
+heavy: swa 
+serious: swa 
+close: kan	mɛs	tumɛs	tɛsən 
+near: kan	mɛs	tumɛs	tɛsən 
+ner: kan	mɛs	tumɛs	tɛsən 
+salt: saut 
+short: kot 
+snake: slaŋ 
+thin: din 
+wind: win	wɛn 
+earthworm: wurum 
+worm: wurum 
+year: ya 
+2 pl.: yin	yɛn 
+ye: yin	yɛn 
+you all: yin	yɛn 
+3 pl.: sa	si	sini	sinr	sinu	sɛ	sɛnr	zinə 
+they: sa	si	sini	sinr	sinu	sɛ	sɛnr	zinə 
+where: abɛ	ape	api	wapiši	wɛpiši	ɛpɛ 
+where?: abɛ	ape	api	wapiši	wɛpiši	ɛpɛ 
+when: wani	wini	wɛn 
+when?: wani	wini	wɛn 
+how: ho 
+how?: ho 
+some: som 
+few: klen	klenči	klɛn 
+three: dri	tri 
+four: fi 
+five: fɛif	fɛv 
+broad: bret 
+wide: bret 
+wideness: bret 
+fat: fɛt 
+thick: dik 
+narrow: nou 
+child: kin 
+principal wife: frou	wif 
+wife: frou	wif 
+husband: -nom	man 
+his mother: ma	muma 
+mother: ma	muma 
+my mother: ma	muma 
+father: fadə	popa	pupa	ta	tita 
+his father: fadə	popa	pupa	ta	tita 
+my father: fadə	popa	pupa	ta	tita 
+animal: bes 
+forest: bus 
+woods: bus 
+branch: tak 
+stick: tak 
+flower: blomɛnči	bluminstyi 
+grass: bes-yet	bešət	gras 
+cord: tau 
+rope: tau 
+grease: fɛt 
+fingernail: nagəl 
+leg: futu 
+wing: flɛgn 
+gut: darm	dɛrəm 
+guts: darm	dɛrəm 
+insides: darm	dɛrəm 
+intestine: darm	dɛrəm 
+intestines: darm	dɛrəm 
+back: rigi	rɛgɛ 
+suck: tɛtɛ 
+blow: blas	wai 
+breath: asɛm	azɛm	win	wɛn 
+breathe: asɛm	azɛm	win	wɛn 
+laugh: lak 
+laughter: lak 
+cogitate: diŋ	dɛŋk 
+reflect: diŋ	dɛŋk 
+think: diŋ	dɛŋk 
+smell: rik 
+sniff: rik 
+afraid: baŋ 
+be afraid: baŋ 
+fear: baŋ 
+fright: baŋ 
+alive: lif	lɛf 
+be alive: lif	lɛf 
+life: lif	lɛf 
+live: lif	lɛf 
+living: lif	lɛf 
+fight: figiti	fikiti	fɛgɛtə 
+hunt: ǰak 
+beat: sla	stam 
+hit: sla	stam 
+strike: sla	stam 
+cut: kap	sla	sni	swoip	šini 
+hack: kap	sla	sni	swoip	šini 
+cut open: bos 
+split: bos 
+pierce: stɛk 
+stab: stɛk 
+dig: tre 
+tell lies: lik 
+stand: tan 
+turn: drai 
+turn around: drai 
+turn round: drai 
+drop: drɛp	fal	tumbl 
+fall: drɛp	fal	tumbl 
+grasp: fas 
+hold: fas 
+hold in arm: fas 
+squeeze: friŋ 
+wring: friŋ 
+rub: fig	fik	frif	frɛf	krou 
+wipe: fig	fik	frif	frɛf	krou 
+wash: was	waš 
+wash clothes: was	waš 
+push: pok	pus	puz 
+shove: pok	pus	puz 
+throw: goi	gui 
+bind: bin	bɛn	las 
+fasten: bin	bɛn	las 
+tie: bin	bɛn	las 
+tie up: bin	bɛn	las 
+sew: nai 
+count: tɛl 
+enumerate: tɛl 
+number: tɛl 
+tally: tɛl 
+sing: siŋ 
+have fun: spel	spil	spɛl 
+play: spel	spil	spɛl 
+flow: kuri 
+brook: riva 
+river: riva 
+stream: riva 
+ocean: se	ze 
+sea: se	ze 
+sky: hewun	himul	himun	hiwun	hɛwun 
+blaze: bran 
+burn: bran 
+day: dak 
+daylight: dak 
+daytime: dak 
+bad: lelik	likik	lɛlik 
+evil: lelik	likik	lɛlik 
+rot: frot 
+rotten: frot 
+dirty: fil 
+filthy: fil 
+soiled: fil 
+straight: tret 
+sharp: skɛrp 
+damp: nat 
+wet: nat 
+correct: rɛk	rɛt 
+right side: ret ši	rɛči 
+left: sliŋgu 
+in: biniši 
+inside: biniši 
+and: a	ɛn 
+if: a	as	az	li	liki	lɛik	ɛf 
+because: as	fodima	fodɛtma	foma 

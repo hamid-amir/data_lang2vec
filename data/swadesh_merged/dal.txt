@@ -1,0 +1,279 @@
+all: ʔakkale 
+animal: d̪aßi 
+animal: míŋkî 
+ankle: goŋgóntl\òni 
+ankle: mukúmpilo 
+arm: miggi 
+arrow: hàːɗò 
+ashes: ʔißu | ʔiβu 
+bad: mbíːt̪è 
+bark: pak\o | pakʼo 
+belly: ɓagama | mani	ɓagama 
+belly: mani | mani	ɓagama 
+big: gaːno 
+bird: ɦed̪d̪iße | ɦed̪d̪iβe 
+bite: gwat\˗ | kʼaɦ- 
+bite: k\aɦ˗ | kʼaɦ- 
+bitter: k\áraːre 
+black: himmat̪e 
+blood: ɗiːga | %diga	diga	sako	ɗiːga 
+blood: sako | %diga	diga	sako	ɗiːga 
+blow: uːf˗ 
+bone: mitlo | %miCo	miTL"o	mitlo 
+boy: ɓoːreːte 
+branch: ʔunt\a 
+breast: ǀok\ːe | %!one	N!~one	óːnè	ǀoːne 
+breast: ǀoːne | %!one	N!~one	óːnè	ǀoːne 
+breast: óːnè | %!one	N!~one	óːnè	ǀoːne 
+burn: ɬah˗ 
+burn: guß˗ 
+burn: kok˗ 
+calf: kónkoːlo 
+cheek: k\ußa 
+chest: ɓagama 
+chest: ɓúːßa 
+child: gwitsta 
+chin: gák\ane 
+chin: ŋgátàni 
+claw: tsolo 
+cloud: winku 
+cold: t\okkoːme | tʼokkoːme 
+come: haʕ˗ | haX	haʕ-	ro7ia 
+count: ßalaːð˗ 
+crocodile: čâ˗čè 
+cut: kur˗ 
+cut: sar˗ 
+die: dzàːʔe | Za7	ca7ina	nc~a7ina	tsaːʔ- 
+die: tsaːʔ˗ | Za7	ca7ina	nc~a7ina	tsaːʔ- 
+dog: naʕeːt̪e | naXete	naʕeːt̪e 
+drink: maʔaw˗ | ma7aw	ma7una	maʔaw- 
+dry: baʔama 
+dust: ɓurune 
+dust: iteri 
+ear: ʔagaǯǯo | agaZo	agaco	ʔagaǯǯo 
+earth: wonko 
+eat: ʕag˗ | ʕag- 
+egg: ʕegoːe 
+elbow: t\èːðè 
+eye: ʔila | ila	ʔila 
+fall: lut̪t̪ukum˗ 
+far: hoːni 
+father: ɓaba 
+fat (n.): ʔaɬi 
+feather: lippa | lippa	rad̪ane 
+feather: rad̪ane | lippa	rad̪ane 
+finger: ⁿdódi 
+fingernail: tsoːle 
+fire: ʔeːga | ega	ʔeːga 
+fish: mbalaße | jaribo	mbalaβe	mb~alabe	ǯáriβo 
+fish: ǯárißo | jaribo	mbalaβe	mb~alabe	ǯáriβo 
+five: d̪áwàt̪ɫè 
+flower: uluße 
+fly (n.): hint̪ot̪e 
+fly (v.): koːl˗ 
+fog: mant̪óːro 
+foot: d̪akaʕa 
+foot: gimp\o | d̪akaʕa 
+forehead: sùma 
+forest: nǀaßa 
+four: sàʕálà 
+full: ɓukul˗ | %!ok	ǀoːk- 
+full: ǀoːk˗ | %!ok	ǀoːk- 
+girl: téːlà 
+give: heːʔ˗ | heːʔ-	kaːʔið 
+give: kaːʔið | heːʔ-	kaːʔið 
+good: wine 
+grass: t̪áːmi 
+green: nuːrat̪e 
+guts: d̪ùːra 
+guts: mani 
+hair: gínaːnda | tʼat̪a 
+hair: t\at̪a | tʼat̪a 
+hand: daßa | daba	dara	daβa 
+hand: t̪unt̪uma | daba	dara	daβa 
+head: ʕani 
+hear: ʔečt̪it̪˗ | etina	etit	ʔečt̪it̪- 
+heart: muna 
+heavy: hiɗaːðe 
+he/she: ʔíðì 
+he/she: ita 
+he/she: ˗siʔ˗ 
+he/she: ˗suʔ˗ 
+he/she: ʔúðù 
+he/she: ukwa 
+hole: ɓóːku 
+horn: tumpo | tumpo	tump~i 
+house: mini 
+hunt: gußaːl˗ 
+husband: ɦaːǯo 
+I: ʔáɲi | a5i	ʔáɲi 
+I: ˗ʔits˗ | a5i	ʔáɲi 
+kill: ɓah˗ | dzeʔeð-	ɓah- 
+kill: dzeʔeð˗ | dzeʔeð-	ɓah- 
+knee: gilli | gili	gilli 
+know: bar˗ | bar-	huβat̪-	ʔeleǯ- 
+know: ʔeleǯ˗ | bar-	huβat̪-	ʔeleǯ- 
+know: hußat̪˗ | bar-	huβat̪-	ʔeleǯ- 
+lake: tláːʔa 
+leaf: ɬaßune | Labu	Sabune	ɬaβune 
+leg: d̪akaʕa 
+lie: bom˗ | bom- 
+lightning: ɓiríkina 
+liver: makko | makko	mako 
+long: rúːmàt̪è | rúːmàt̪è 
+louse: ʔit̪t̪oni | itore 
+man: ħaːǯo | Xajo	guh"o	guħo 
+many: kaʕime 
+meat: daßi 
+moon: hage 
+mother: yáːyo 
+mountain: gipe | %mulima	gipe	mulimete 
+mountain: guʕi | %mulima	gipe	mulimete 
+mouth: afo 
+name: saːre | sare	saːre 
+navel: yukku 
+near: haː\iða | haːʼiða 
+neck: ɗaːʕeːro | kʔokʔo	ɗaːʕeːro 
+neck: kʔokʔo | kʔokʔo	ɗaːʕeːro 
+new: mpia | %mp~ia	mpia 
+night: hiːma | hima	hiːma	ǀʷiɲi 
+night: ǀʷiɲi | hima	hiːma	ǀʷiɲi 
+one: wàt̪ːúkwè | vattúkʷe	watukw~e	wàt̪ːúkwè 
+other: wat̪t̪e 
+person: guħo | Xajo	guh"o	guħo 
+rain: maʔa 
+red: tsi\íràːràʔè | tsiʼíràːràʔè 
+river: sòːni 
+road: leː 
+root: d̪ara | d̪ara	murunge 
+root: murunge | d̪ara	murunge 
+rotten: p\oʔat̪e 
+round: kiringeriːŋga 
+rub: nyuːk\˗ 
+rub: ˗siki 
+salt: saːlánkwa | saːlánkwa 
+sand: ⁿdoːʕi 
+say: ǯoːm˗ | ǯoːm- 
+scratch: ʔant\˗ 
+sea: ɓádto 
+seed: mbeːǯu | mbeːǯu 
+see: waħ˗ | kekia7a	wah"	waħ- 
+sew: hud̪ 
+sew: ʕur˗ 
+sharp: ɬakane 
+shoulder: d̪oːro 
+sing: soːʔ˗ 
+sit: gwaɦ˗ | gwaɦ- 
+skin: gine | gine	gino 
+skin: gino | gine	gino 
+sleep: bom˗ | bom-	giːt̪-	had̪d̪úra 
+sleep: giːt̪˗ | bom-	giːt̪-	had̪d̪úra 
+sleep: had̪d̪úra | bom-	giːt̪-	had̪d̪úra 
+small: ʔaːmina 
+smoke: t\oggwa | tʼoggwa 
+snake: gàßé | gàwe	gàβé	wakːa 
+snake: gàwe | gàwe	gàβé	wakːa 
+snake: wakːa | gàwe	gàβé	wakːa 
+spit: ǀʷaːɲi 
+spit: ʕeʕeð 
+stand: saː¶˗ 
+star: ǀɛ\ŋkìlì | %!ingilXe	N!~iNk~iliXa	Ng~iliXa	nǀkiliʕe	ǀɛʼŋkìlì 
+star: nǀkiliʕe | %!ingilXe	N!~iNk~iliXa	Ng~iliXa	nǀkiliʕe	ǀɛʼŋkìlì 
+stone: mawe(ːt̪e) | %mawele	mawe	maweːt̪e 
+sun: ʔad̪o | %ado	ado	ʔad̪o 
+sweet: nala(h) 
+tail: rik\e | rikʼe 
+they: ˗ʔiɲiʔ˗ 
+they: ʔùmːámù 
+thick: nyíʕaːnyiʕe 
+think: mamiːt̪ 
+this: ukwa 
+thou: ʔáːtà | ata	ʔat̪t̪a	ʔáːtà 
+thou: ʔat̪t̪a | ata	ʔat̪t̪a	ʔáːtà 
+three: k\àßà 
+throat: k\òk\o 
+throw: ʕat̪t̪ah˗ 
+thunder: ɗiɗima 
+tomorrow: hiːmane 
+tongue: ʕeːna | Xena	ʕeːna 
+tooth: kalat̪t̪i | Xakake	kalati	kalat̪t̪i 
+tree: k\oro | koro 
+two: líːmà | li	lima	lííma	líːmà 
+vagina: mbéne 
+vagina: nínka 
+vomit: mant̪aɦ˗ 
+walk: ǀéani 
+walk: roʔ˗ 
+wash: kw\aːt\˗ 
+wash: paːħ 
+water: maʔa | ma7a	maʔa 
+we: ɲá̀ɲì | 5a5i 
+weep: ʔilíma 
+we: ˗ɲiʔ˗ | 5a5i 
+wet: maʔʔaǯaːǯe 
+what: maka 
+when: makaɓara 
+white: k\uːħuma | kʼuːħuma 
+who: ǯiko | ǯiko 
+wind: gàt\à | gàtʼà	ǯúːfume 
+wind: ǯúːfume | gàtʼà	ǯúːfume 
+wing: rad̪d̪e 
+woman: nat\a | natʼa 
+yellow: ǀaːmuːt̪e 
+yesterday: ¶ammosúma 
+you: ʔàtːà | ata	ʔat̪t̪a	ʔáːtà 
+you: ˗kunuʔ˗ | ata	ʔat̪t̪a	ʔáːtà 
+every: ʔakkale 
+ash: ʔiβu 
+abdomen: mani	ɓagama 
+bigness: gaːno 
+large: gaːno 
+breasts: %!one	N!~one	óːnè	ǀoːne 
+nail: tsolo 
+talon: tsolo 
+come from: haX	haʕ-	ro7ia 
+be dead: Za7	ca7ina	nc~a7ina	tsaːʔ- 
+dead: Za7	ca7ina	nc~a7ina	tsaːʔ- 
+fly: koːl- 
+fly v.: koːl- 
+left hand: daba	dara	daβa 
+right: daba	dara	daβa 
+1 sg.: a5i	ʔáɲi 
+be knowledgeable: bar-	huβat̪-	ʔeleǯ- 
+lie down: bom- 
+head louse: itore 
+male: ħaːǯo 
+much: kaʕime 
+multiple: kaʕime 
+several: kaʕime 
+hill: %mulima	gipe	mulimete 
+title: sare	saːre 
+nighttime: hima	hiːma	ǀʷiɲi 
+nose: %sina	sina 
+adulterous: vattúkʷe	watukw~e	wàt̪ːúkwè 
+single: vattúkʷe	watukw~e	wàt̪ːúkwè 
+that: vattúkʷe	watukw~e	wàt̪ːúkwè 
+the: vattúkʷe	watukw~e	wàt̪ːúkwè 
+unprincipled: vattúkʷe	watukw~e	wàt̪ːúkwè 
+human: Xajo	guh"o	guħo 
+human being: Xajo	guh"o	guħo 
+rainy weather: maʔa 
+path: le 
+road: le 
+route: le 
+hide: gine	gino 
+little: ʔaːmina 
+smallness: ʔaːmina 
+rock: %mawele	mawe	maweːt̪e 
+2 sg: ata	ʔat̪t̪a	ʔáːtà 
+grind: li	lima	lííma	líːmà 
+1 pl. inc.: 5a5i 
+we₁: 5a5i 
+whiteness: kʼuːħuma 
+who?: ǯiko 
+female: natʼa 
+distant: hoːni 
+dull: hiɗaːðe 
+serious: hiɗaːðe 
+close: haːʼiða 
+ner: haːʼiða 

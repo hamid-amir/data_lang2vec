@@ -1,0 +1,266 @@
+all: semua 
+every: semua 
+ash: d|abew 
+ashes: d|abew 
+abdomen: guem	paʔit 
+belly: guem	paʔit 
+big: ayeŋ	ñat 
+bigness: ayeŋ	ñat 
+large: ayeŋ	ñat 
+bird: manuk 
+bite: subut 
+black: bilem 
+blood: da7	daaʔ 
+bone: tuli	tuléŋ 
+breast: [susew]	susew 
+breasts: [susew]	susew 
+burn: suleg 
+burn tr.: suleg 
+cloud: awan 
+cold: siŋuh 
+come: tapa7	tapaʔ 
+come from: tapa7	tapaʔ 
+be dead: matay 
+dead: matay 
+die: matay 
+dog: asew 
+drink: tuteN	tuteŋ 
+dry: uéŋ 
+ear: liNa	liŋa 
+eat: keman 
+egg: teluh 
+eye: mata 
+feather: bulew 
+fire: apuy 
+fish: ikan	j|ikan 
+fly: pesiliŋ 
+fly v.: pesiliŋ 
+good: diaʔ 
+green: gaduŋ 
+hair: buk 
+hand: 5agem	ñagem 
+left hand: 5agem	ñagem 
+right: 5agem	ñagem 
+head: ulew 
+hear: mena7ah	menaʔah 
+1 sg.: akew 
+I: akew 
+kill: munuʔ 
+be knowledgeable: baʔtaʔew	taʼew 
+know: baʔtaʔew	taʼew 
+leaf: da7un	daʔun 
+lie: pepatéŋ 
+lie down: pepatéŋ 
+liver: atay 
+long: alew 
+head louse: kutew 
+louse: kutew 
+male: lay 
+man: tenawan 
+moon: bulan 
+mouth: bebaʔ 
+name: Nadan	ŋadan 
+title: Nadan	ŋadan 
+neck: teŋuʔ 
+new: ba7ew	baʔew 
+night: malem 
+nighttime: malem 
+nose: uduN	uduŋ 
+adulterous: ja	jiněng	satu 
+one: ja	jiněng	satu 
+single: ja	jiněng	satu 
+that: ien 
+the: ja	jiněng	satu 
+unprincipled: ja	jiněng	satu 
+human: tenawan 
+human being: tenawan 
+person: tenawan 
+rain: ujan 
+rainy weather: ujan 
+red: sék 
+path: jalan 
+road: jalan 
+route: jalan 
+root: akah	amut 
+sand: nay 
+say: meñebut 
+see: peguy 
+sit: kuduʔ 
+hide: kulit 
+skin: kulit 
+sleep: tuduy 
+little: umit	umiʔ 
+small: umit	umiʔ 
+smallness: umit	umiʔ 
+smoke: tugun 
+star: biti	bitén 
+rock: batew 
+stone: batew 
+swim: tuun 
+tail: tikiu 
+this: itew 
+2 sg: ka7	kaʔ 
+thou: ka7	kaʔ 
+you: ka7	kaʔ 
+tongue: jela7	jelaʔ 
+tooth: 5ipen	ñipen 
+grind: ba	dua 
+two: ba	dua 
+go: makaw 
+walk: makaw 
+hot: lasuʔ 
+warm: lasuʔ 
+water: 5a7em	ñaʔem 
+1 pl. inc.: melew	telew 
+we: melew	telew 
+we₁: melew	telew 
+what: uaʔ inew 
+white: apuʔ 
+whiteness: apuʔ 
+who: say 
+who?: say 
+female: mahew 
+woman: mahew 
+yellow: kuniŋ 
+distant: jauʔ 
+far: jauʔ 
+dull: baat 
+heavy: baat 
+serious: baat 
+close: segaʔ 
+near: segaʔ 
+ner: segaʔ 
+salt: sia 
+short: adik 
+snake: dipa 
+thin: lipih 
+wind: paŋay 
+earthworm: kejiwat 
+worm: kejiwat 
+year: taʔun 
+2 pl.: ke|lew 
+ye: ke|lew 
+you all: ke|lew 
+3 pl.: de|lew ien 
+they: de|lew ien 
+where: gaʔgaan 
+where?: gaʔgaan 
+when: paya 
+when?: paya 
+how: kuba tan 
+how?: kuba tan 
+other: uaʔ kéʔ 
+three: lou	telew 
+four: pat 
+five: lima 
+broad: ayeŋ 
+wide: ayeŋ 
+wideness: ayeŋ 
+fat: ñék 
+thick: kapan 
+narrow: umit	umiʔ 
+principal wife: sawa 
+wife: sawa 
+husband: sawa 
+his mother: tina 
+mother: tina 
+my mother: tina 
+father: tama 
+his father: tama 
+my father: tama 
+forest: guun 
+woods: guun 
+branch: lawei 
+stick: lawei 
+fruit: buaʔ 
+flower: buŋa 
+grass: sek 
+cord: taley 
+rope: taley 
+flesh: dagiŋ 
+meat: dagiŋ 
+grease: ñék 
+wing: paéŋ 
+gut: betuka 
+guts: betuka 
+insides: betuka 
+intestine: betuka 
+intestines: betuka 
+back: buta 
+suck: susep 
+spit: me-muput 
+vomit: putaʔ 
+blow: me-gaup 
+breath: pebuut 
+breathe: pebuut 
+laugh: tetawa 
+laughter: tetawa 
+cogitate: pepikir 
+reflect: pepikir 
+think: pepikir 
+smell: meŋ-adek 
+sniff: meŋ-adek 
+afraid: meŋéŋ 
+be afraid: meŋéŋ 
+fear: meŋéŋ 
+fright: meŋéŋ 
+alive: tudip 
+be alive: tudip 
+life: tudip 
+live: tudip 
+living: tudip 
+hunt: pipaʔ 
+beat: buyaʔ 
+hit: buyaʔ 
+strike: buyaʔ 
+cut: tutek 
+hack: tutek 
+cut open: mubah 
+split: mubah 
+pierce: tubek 
+stab: tubek 
+scratch: me-gahut 
+dig: kukut 
+stand: pekedeŋ 
+drop: belabuʔ	pahaʔ 
+fall: belabuʔ	pahaʔ 
+grasp: m-agem 
+hold: m-agem 
+hold in arm: m-agem 
+squeeze: me-misit 
+wring: me-misit 
+throw: me-galéŋ 
+bind: mubed 
+fasten: mubed 
+tie: mubed 
+tie up: mubed 
+sew: me-jaʔit 
+count: m-ituŋ 
+enumerate: m-ituŋ 
+number: m-ituŋ 
+tally: m-ituŋ 
+flow: jujuk 
+lake: danaw 
+ocean: daat	lautan 
+sea: daat	lautan 
+dust: abuk	dabouw	urayh 
+fog: abuyh 
+sky: laŋit 
+bad: mamaʔ 
+evil: mamaʔ 
+rot: madam 
+rotten: madam 
+dirty: mamaʔ 
+filthy: mamaʔ 
+soiled: mamaʔ 
+sharp: mañit 
+blunt: ñel 
+damp: basaʔ 
+wet: basaʔ 
+right side: taʔew 
+left: ulay 
+at: gaʔ 
+in: lubéŋ 
+inside: lubéŋ 
+and: jigem 
+if: amun	mun 

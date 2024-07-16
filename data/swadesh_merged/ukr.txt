@@ -1,0 +1,331 @@
+all: все	всі	кожний	увесь 
+every: все	всі	кожний	увесь 
+ash: попіл 
+ashes: попіл 
+bark: кора 
+abdomen: брюхо	живіт	пузо 
+belly: брюхо	живіт	пузо 
+big: великий	чималий 
+bigness: великий	чималий 
+large: великий	чималий 
+bird: птах	птаха 
+bite: гризтити	кусати	шматувати 
+black: чорний 
+blood: кров 
+bone: кістка 
+breast: груди 
+breasts: груди 
+cloud: хмара 
+cold: холодний 
+come: приходити 
+come from: приходити 
+be dead: вмирати	помирати 
+dead: вмирати	помирати 
+die: вмирати	помирати 
+dog: пес	собака 
+drink: пити 
+dry: сухий 
+ear: вухо 
+earth: земля 
+ground: земля 
+land: земля 
+soil: земля 
+eat: їсти 
+egg: яйце 
+eye: око 
+feather: перо 
+fire: ватра	вогонь 
+fish: риба 
+fly: летіти	літати 
+fly v.: летіти	літати 
+foot: стопа 
+full: повний 
+give: давати 
+good: гарний	добрий 
+green: зелений 
+hair: волосся	коси 
+head: голова 
+hear: чути 
+heart: серце 
+horn: ріг 
+kill: вбивати	зaбити 
+knee: коліно 
+be knowledgeable: вiдaти	знати 
+know: вiдaти	знати 
+leaf: лист	листок 
+liver: печінка 
+long: довгий 
+head louse: воша 
+louse: воша 
+male: чoловiк 
+man: людина	особа 
+many: багато 
+much: багато 
+multiple: багато 
+several: багато 
+moon: місяць 
+hill: гора 
+mountain: гора 
+mouth: вуста	рот 
+name: назва	титул	імʼя 
+title: назва	титул	імʼя 
+neck: шия 
+new: новий 
+night: ніч 
+nighttime: ніч 
+nose: ніс 
+not: не 
+adulterous: один 
+one: один 
+single: один 
+that: та	те	той 
+the: один 
+unprincipled: один 
+human: людина	особа 
+human being: людина	особа 
+person: людина	особа 
+rain: дощ 
+rainy weather: дощ 
+red: червоний 
+path: дорога	шлях 
+road: дорога	шлях 
+route: дорога	шлях 
+root: кореневище	коріння	корінь 
+round: круглий 
+sand: пісок 
+say: говорити	казати	повідати 
+see: бачити 
+seed: насіння	сiмʼя 
+sit: сидіти 
+hide: шкіра 
+skin: шкіра 
+sleep: вiдпочивaти	спати 
+little: маленький	малий 
+small: маленький	малий 
+smallness: маленький	малий 
+smoke: дим 
+star: зоря	зірка 
+rock: камінь 
+stone: камінь 
+sun: сонце 
+swim: плавати	пливти 
+tail: хвіст 
+this: це	цей	ця 
+2 sg: ти 
+thou: ти 
+you: ти 
+tongue: язик 
+tooth: зуб 
+tree: дерево 
+grind: два 
+two: два 
+go: йти	ходити 
+walk: йти	ходити 
+hot: теплий 
+warm: теплий 
+water: вода 
+1 pl. inc.: ми 
+we: ми 
+we₁: ми 
+what: що 
+white: білий 
+whiteness: білий 
+who: хто 
+who?: хто 
+female: жінка 
+woman: жінка 
+yellow: жовтий 
+distant: далекий 
+far: далекий 
+dull: важкий 
+heavy: важкий 
+serious: важкий 
+close: близький 
+near: близький 
+ner: близький 
+salt: сіль 
+short: короткий 
+snake: гад	змія 
+thin: тонкий 
+wind: вітер 
+earthworm: хробак	червʼяк 
+worm: хробак	червʼяк 
+year: рік 
+3 sg.: він 
+he: він 
+she: він 
+2 pl.: ви 
+ye: ви 
+you all: ви 
+3 pl.: вони 
+they: вони 
+here: тут 
+there: там 
+where: де 
+where?: де 
+when: коли 
+when?: коли 
+how: як 
+how?: як 
+some: декілька	кілька 
+few: мало	небагато	трохи 
+other: інакший	інший 
+three: три 
+four: чотири 
+five: пʼять 
+broad: широкий 
+wide: широкий 
+wideness: широкий 
+fat: жир	сало	смалeць 
+thick: грубий	дебелий	товстий 
+narrow: вузький 
+child: дитина	дитя 
+principal wife: дружина	жінка 
+wife: дружина	жінка 
+husband: чоловік 
+his mother: матiр	мати	ненька 
+mother: матiр	мати	ненька 
+my mother: матiр	мати	ненька 
+father: батько	тато 
+his father: батько	тато 
+my father: батько	тато 
+animal: тварина 
+forest: діброва	ліс 
+woods: діброва	ліс 
+branch: палиця	палка	патик	прут 
+stick: палиця	палка	патик	прут 
+fruit: плід	фрукт 
+flower: квіти	квітка 
+grass: трава 
+cord: вiрьoвка	мотуз	шнур 
+rope: вiрьoвка	мотуз	шнур 
+flesh: мʼясо 
+meat: мʼясо 
+grease: жир	сало	смалeць 
+claw: ніготь 
+fingernail: ніготь 
+nail: ніготь 
+leg: нога 
+arm: долоня	рука 
+hand: долоня	рука 
+wing: крило 
+gut: кишки	нутрощі	черево 
+guts: кишки	нутрощі	черево 
+insides: кишки	нутрощі	черево 
+intestine: кишки	нутрощі	черево 
+intestines: кишки	нутрощі	черево 
+back: спина 
+suck: смоктати	ссати 
+spit: плювати	плюнути 
+vomit: блювати	вирвати 
+blow: дмухати	дути 
+breath: дихати 
+breathe: дихати 
+laugh: сміятися 
+laughter: сміятися 
+cogitate: думати	мiркувaти	мислити 
+reflect: думати	мiркувaти	мислити 
+think: думати	мiркувaти	мислити 
+smell: нюхати 
+sniff: нюхати 
+afraid: боятися	злякатися 
+be afraid: боятися	злякатися 
+fear: боятися	злякатися 
+fright: боятися	злякатися 
+alive: жити 
+be alive: жити 
+life: жити 
+live: жити 
+living: жити 
+fight: битися	боротися 
+hunt: полювати 
+beat: вдарити 
+hit: вдарити 
+strike: вдарити 
+cut: різати 
+hack: різати 
+cut open: розділяти	розпиняти 
+split: розділяти	розпиняти 
+pierce: колоти	пiрнути 
+stab: колоти	пiрнути 
+scratch: дряпати	царапати	чесати	шкрябати 
+dig: pити	копати 
+lie: лежати 
+lie down: лежати 
+tell lies: лежати 
+stand: стояти 
+turn: повертати 
+turn around: повертати 
+turn round: повертати 
+drop: падати 
+fall: падати 
+grasp: тримати 
+hold: тримати 
+hold in arm: тримати 
+squeeze: стискати 
+wring: стискати 
+rub: терти 
+wipe: витирати 
+wash: вмивати	мити 
+wash clothes: вмивати	мити 
+pull: тягнути 
+push: пихати	штовхати 
+shove: пихати	штовхати 
+throw: жбурляти	кидати 
+bind: зaвʼязати	звʼязати 
+fasten: зaвʼязати	звʼязати 
+tie: зaвʼязати	звʼязати 
+tie up: зaвʼязати	звʼязати 
+sew: шити 
+count: кількість	лічити	рахувати 
+enumerate: кількість	лічити	рахувати 
+number: кількість	лічити	рахувати 
+tally: кількість	лічити	рахувати 
+sing: співати 
+have fun: грати	гуляти 
+play: грати	гуляти 
+float: пливти 
+flow: тікти 
+freeze: змерзнути 
+swell: набухати	пухнути 
+brook: ріка 
+river: ріка 
+stream: ріка 
+lake: озеро 
+ocean: море 
+sea: море 
+dust: пил	прах 
+fog: туман	імла 
+sky: небо 
+snow: сніг 
+ice: лід 
+blaze: палати 
+burn: палати 
+day: день 
+daylight: день 
+daytime: день 
+old: старий 
+bad: поганий 
+evil: поганий 
+rot: гнилий 
+rotten: гнилий 
+dirty: брудний 
+filthy: брудний 
+soiled: брудний 
+straight: прямий 
+sharp: гострий 
+blunt: тупий 
+smooth: гладенький 
+damp: мокрий 
+wet: мокрий 
+correct: вірний	правильний 
+right: правий 
+right side: правий 
+left: лівий 
+at: біля	в	коло	при	у 
+in: в	у	ув	уві 
+inside: в	у	ув	уві 
+with: з	зі	із 
+and: й	та	і 
+if: якщо 
+because: бо	тому що 

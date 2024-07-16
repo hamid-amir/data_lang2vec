@@ -1,0 +1,412 @@
+all: ɟegara 
+all: jagara | ɟegara 
+arm: ibong 
+arm: iboŋ 
+arrow: ge 
+ashes: sum | sum	ui 
+ashes: ui | sum	ui 
+back: goro 
+bad: boghole 
+bad: boGolɛ 
+belly: magli | mine 
+belly: mine 
+belly: ugle | mine 
+big: aɲi | aɲi	boro	ole 
+big: anyi | aɲi	boro	ole 
+big: boro | aɲi	boro	ole 
+big: ole | aɲi	boro	ole 
+bird: as 
+bite: w- 
+black: kaɟirbi 
+black: kajirbi | kaɟirbi 
+blood: ɣaier | xaier	ɣaier 
+blood: ghaier | xaier	ɣaier 
+blow: pu:wi- 
+blow: puːwi 
+bone: sughule | suxule	suɣule 
+bone: suɣule | suxule	suɣule 
+boy: kelagu 
+boy: kɛlagu 
+breast: awal 
+brother: aba 
+brother: aba keneng 
+brother: aba kɛnɛŋ 
+burn: baɣat- 
+burn: baghat- 
+butterfly: mambris 
+calf: ayang damu (?) 
+calf: ayaŋ damu 
+cassowary: duga 
+chest: are 
+child: do 
+child: kemor 
+chin: mëkëm 
+chin: mʌkʌm 
+cloud: lang-ade | laŋ-bi 
+cloud: laŋ-bi 
+cold: dorwa | dorwa	nuŋgut 
+cold: nunggut | dorwa	nuŋgut 
+cold: nuŋgut | dorwa	nuŋgut 
+come: gin- | gin	gin- 
+crocodile: hoaya 
+crocodile: wayar 
+cut: ghur- 
+cut: ɣur- 
+dance: mune taw- 
+dark: dibä 
+day: bulʌ 
+day: bulë 
+die: mo- | mo	mo- 
+dig: bubat- 
+dig: sub uɣ- 
+dig: sub ugh- 
+dirty: kaɟir 
+dirty: kajir 
+dog: sʌ | s3	sʌ 
+dog: së | s3	sʌ 
+dry: kʌbrrʌgɛn 
+dry: këbrëgen | kʌbrrʌgɛn 
+ear: dab 
+earth: mongdamu | moŋdamu 
+earth: moŋdamu 
+eat: kon- | w-	we- 
+eat: w(e)- | w-	we- 
+egg: taul 
+elbow: gor 
+elbow: gorr 
+emu: duga 
+excrement: bi 
+eye: ngam | Nam	ŋam 
+eye: ŋam | Nam	ŋam 
+face: moman gamba 
+fall: dong- 
+fall: doŋ- 
+fall: ghur- 
+far: sogëi | sogʌl 
+far: sogʌl 
+father: ʌb 
+father: ëb 
+father: mem 
+fat (n.): namur 
+fat (n.): namurr 
+fear: tambarim- 
+few: buge 
+few: bugɛ 
+fight: gatɛ- 
+finger: aɲi 
+finger: anyi 
+fingernail: si 
+fire: bia 
+fire: burug | bia 
+fish: kaib 
+fly (n.): neɲiŋ 
+fly (n.): nenying 
+fly (v.): uru- 
+fog: koum 
+forehead: moman gamba 
+forest: dub 
+fruit: ge 
+full: kabogen | kabogEn	kabogɛn 
+full: kabogɛn | kabogEn	kabogɛn 
+full: tëg- | kabogEn	kabogɛn 
+full: tʌg- | kabogEn	kabogɛn 
+girl: tundeagla 
+give: ø-/u- 
+good: bileng | bilɛŋ 
+good: bilɛŋ 
+grass: ina 
+green: gaue 
+guts: magli 
+guts: ugle 
+hair: bagri 
+head: gate | gatɛ 
+head: gatɛ 
+head: ngelik | gatɛ 
+hear: laɣ- | lax	laɣ- 
+hear: lagh- | lax	laɣ- 
+heart: or | orr 
+heart: orr 
+heavy: koghole | koɣolɛ 
+heavy: koɣolɛ 
+here: andi 
+here: ël 
+he/she: and- 
+he/she: andu 
+he/she: -ø- 
+he/she: -ur- 
+hit: gate- 
+hold: aßʀeg- 
+hold: avreg- 
+house: tël 
+house: tʌl 
+how: gengugnti 
+I: aɟi | aji	aɟi 
+I: aɟi- | aji	aɟi 
+I: aji | aji	aɟi 
+I: aji- | aji	aɟi 
+ice: gɛ 
+I: -ib- | aji	aɟi 
+in: damugu 
+in: magle 
+kill: këghel- | kʌɢɛl-	le- 
+kill: kʌGɛl- | kʌɢɛl-	le- 
+kill: le- | kʌɢɛl-	le- 
+knee: wab 
+laugh: siw- 
+left: kwain 
+leg: samba 
+lightning: miling- 
+lightning: miliŋ 
+liver: ar | ar	arr 
+liver: arr | ar	arr 
+long: ole 
+louse: mana 
+man: malbi | tamu 
+man: tamo | tamu 
+man: tamu 
+many: lambe | lambɛ 
+many: lambɛ 
+meat: damu 
+moon: kagam 
+morning: ɟɛmbɛlɛ 
+morning: jembele 
+morning: malingen 
+morning: maliŋɛn 
+mosquito: kain 
+mother: am 
+mother: ani 
+mountain: mana 
+mouth: mub | mup 
+mouth: mup 
+name: dunum 
+nape: kor 
+nape: kounɛ 
+nape: moune 
+navel: uɟagla 
+navel: ujagla 
+near: doɣonem | doɣonem	noi 
+near: noi | doɣonem	noi 
+neck: ko 
+new: këwe | k3wE	kʌwɛ 
+new: kʌwɛ | k3wE	kʌwɛ 
+night: këlu | kulu	kʌlu 
+night: kʌlu | kulu	kʌlu 
+nose: mana 
+not: ëren 
+not: gagai 
+not: ʌrɛn 
+old: kawai 
+old: nëmeding 
+old: nʌmediŋ 
+old: sare 
+old: sarɛ 
+one: kuɟi | gud’ī	kuji	kuɟi 
+one: kuji | gud’ī	kuji	kuɟi 
+pull: batit- 
+push: tututi- 
+rain: awo 
+rat: mingga 
+rat: ̞miŋga 
+red: isurongu | isuroŋu 
+red: isuroŋu 
+right: anggumu 
+right: anguma 
+ripe: ëghele 
+ripe: ʌɣɛlɛ 
+road: gom 
+root: bale | balɛ 
+root: balɛ 
+rope: kul 
+salt: bor | borr	wal 
+salt: borr | borr	wal 
+salt: wal | borr	wal 
+sand: uleu | ulul 
+sand: ulul 
+say: balang- | mi- 
+say: balaŋ | mi- 
+say: mar- | mi- 
+say: mi- 
+say: mi-/mur- 
+scratch: in.grosi- 
+scratch: ingrɔsi- 
+sea: wal 
+see: ne- | ne	ne-	on 
+see: ne-/on- | ne	ne-	on 
+see: ŋamat- | ne	ne-	on 
+sharp: aghr- 
+sharp: alue 
+short: agui 
+shoulder: ele 
+sing: t- 
+sister: ʌbu 
+sister: ëbu 
+sister: nogam 
+sit: mey- | mɛy- 
+sit: mɛy- 
+skin: dgtagu 
+sky: lang 
+sky: laŋ 
+sleep: iɲ- 
+sleep: iny- | iɲ- 
+small: keneng | kɛnɛŋ 
+small: kɛnɛŋ 
+smell: mosene at- 
+smoke: këm | kʌm 
+smoke: kʌm 
+snake: amal 
+spit: doɣʌl gʌl- 
+spit: misil 
+split: (ɣ)aɣaglu- 
+split: (gh)aghaglu- 
+stand: panding- 
+stand: pandiŋ- 
+stand: "stand up 
+stand: weip- ø 
+star: buain 
+stick: denggal 
+stone: gitaŋ | gitaN	gitaŋ	sakarum 
+stone: sakarum | gitaN	gitaŋ	sakarum 
+straight: padidu 
+straight: tenemu 
+sun: sing | siN	siŋ 
+sun: siŋ | siN	siŋ 
+swell: bilau- 
+tail: bisombrom | orru 
+tail: bisombrrom | orru 
+tail: orru 
+tail: oru | orru 
+take: aw- 
+that: ande 
+there: galomondi 
+there: undi 
+they: inɟam 
+they: injam 
+they: naɟi 
+they: naji 
+they: -ø- 
+they two: injal-um 
+they two: na-l 
+they: -unɟ- 
+they: -unj- 
+thigh: debul 
+think: are ɣaɣal- 
+think: are ghaghal- 
+this: ande 
+thou: -imb- | ni 
+thou: inɟam | ni 
+thou: -iŋg- | ni 
+thou: n- | ni 
+thou: ni 
+thou: niɟi 
+throat: konnaw 
+throw: ui- 
+thunder: areng kal- 
+thunder: arɛŋ kal- 
+tie: baditi- 
+tomorrow: aliu 
+tomorrow: yamba 
+tongue: muin 
+tooth: këge | k3ge	kʌge 
+tooth: kʌge | k3ge	kʌge 
+tree: agu | aNam 
+tree: angam | aNam 
+tree: aŋam | aNam 
+tree: utrri | aNam 
+turn: bulu- 
+two: aliti | aliti	alī 
+vagina: a 
+walk: baɟin- | ol- 
+walk: kw- | ol- 
+walk: ol- 
+wallaby: sibol 
+warm: ngangaringu 
+warm: ŋaŋariŋu 
+wash: yil- 
+wash: yilit(i)- 
+water: yi: | yi	yiː 
+water: yiː | yi	yiː 
+weep: agam- 
+we: ga | ga	yig 
+we: ga- | ga	yig 
+we: -ig- | ga	yig 
+wet: kusawen 
+wet: kusawɛn 
+we two: ga-l 
+we two: gal-um 
+we two: ya-l 
+we two: yal-um 
+we: yig | ga	yig 
+we: yig- | ga	yig 
+what: kie 
+where: de 
+white: kaubi 
+who: ɟɛ 
+who: je | ɟɛ 
+wind: temur | temurr 
+wind: temurr 
+wing: bade 
+woman: kalue | ŋaŋeli 
+woman: naibi | ŋaŋeli 
+woman: nangeli | ŋaŋeli 
+woman: ŋaŋeli 
+wood: angam pang 
+wood: aŋam paŋ 
+wood: deŋgal 
+yellow: yaulbi 
+yes: o 
+yes: oa 
+yesterday: aliu 
+yesterday: yʌb(um) 
+yesterday: yëb(um) 
+you: -ingg- | ni 
+you: injam | ni 
+you: niji 
+you two: injal-um 
+you two: ni-l 
+every: ɟegara 
+ash: sum	ui 
+abdomen: mine 
+bigness: aɲi	boro	ole 
+large: aɲi	boro	ole 
+breasts: awal 
+come from: gin	gin- 
+be dead: mo	mo- 
+dead: mo	mo- 
+ground: moŋdamu 
+land: moŋdamu 
+soil: moŋdamu 
+fly: uru- 
+fly v.: uru- 
+1 sg.: aji	aɟi 
+head louse: mana 
+male: tamu 
+much: lambɛ 
+multiple: lambɛ 
+several: lambɛ 
+hill: mana 
+title: dunum 
+nighttime: kulu	kʌlu 
+adulterous: gud’ī	kuji	kuɟi 
+single: gud’ī	kuji	kuɟi 
+the: gud’ī	kuji	kuɟi 
+unprincipled: gud’ī	kuji	kuɟi 
+rainy weather: awo 
+path: gom 
+route: gom 
+hide: dgtagu 
+little: kɛnɛŋ 
+smallness: kɛnɛŋ 
+rock: gitaN	gitaŋ	sakarum 
+2 sg: ni 
+grind: aliti	alī 
+go: ol- 
+1 pl. inc.: ga	yig 
+we₁: ga	yig 
+whiteness: kaubi 
+who?: ɟɛ 
+female: ŋaŋeli 
+distant: sogʌl 
+dull: koɣolɛ 
+serious: koɣolɛ 
+close: doɣonem	noi 
+ner: doɣonem	noi 

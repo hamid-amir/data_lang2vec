@@ -1,0 +1,666 @@
+all: ɣɔːmaba 
+and: karrabba 
+and: wɛːba 
+animal: baraŋuɟa 
+ankle: labanabɔːṇa 
+arm: laɟa 
+arm: managurga 
+arm: maṇakkurrkka 
+arm: wanba 
+ashes: ɲarawarowara | ɲarawarowara	ṛawuga 
+ashes: ṛawuga | ɲarawarowara	ṛawuga 
+back: barabara 
+back: gulɛra barabara 
+bad: (b)bokka | bbokka	bokka	bɔːga 
+bad: bɔːga | bbokka	bokka	bɔːga 
+bad: bokka | bbokka	bokka	bɔːga 
+bark: bamagaṇba | bamagaṇba m.	maḍaḍa 
+bark: maḍaḍa | bamagaṇba m.	maḍaḍa 
+belly: ɟalama | ɟanama 
+belly: ɟalema | ɟanama 
+belly: ɟanama 
+big: barabara | barabara	baraːbara	barrabarra 
+big: baraːbara | barabara	baraːbara	barrabarra 
+big: barrabarra | barabara	baraːbara	barrabarra 
+bird: baraguɟa | baraguɟa	ɟurka 
+bird: ɟurka | baraguɟa	ɟurka 
+bite: ba | ba	ŋabugubaːla 
+bite: ŋabugubaːla | ba	ŋabugubaːla 
+bitter: gänbai 
+bitter: wariwara 
+black: ŋaɲoŋaɲa | ŋaɲoŋaɲa	ŋaɲoŋaɲo 
+black: ŋaɲoŋaɲo | ŋaɲoŋaɲa	ŋaɲoŋaɲo 
+blood: ganbiliːbala | ganbiliːbala	kanbilibala	kaṇbilibala 
+blood: kaṇbilibala | ganbiliːbala	kanbilibala	kaṇbilibala 
+blow: bäɲa | bäɲa 
+blow: lawala | bäɲa 
+bone: ida | ida	madada	maḍaḍa	nmaḍaḍa	yida 
+bone: maḍaḍa | ida	madada	maḍaḍa	nmaḍaḍa	yida 
+bone: nmaḍaḍa | ida	madada	maḍaḍa	nmaḍaḍa	yida 
+boy: ɟaɹ̣wara 
+boy: garugaɟa 
+boy: kaɹ̣okaɟɟa 
+boy: laiɟguruŋu 
+branch: managurga 
+breast: kaloḷa | kaloḷa	kolola 
+breathe: ɲɛːwa | ŋaiɲɛːwa	ɲɛːwa 
+breathe: ŋaiɲɛːwa | ŋaiɲɛːwa	ɲɛːwa 
+brother: ɟaːba 
+brother: ɟabba 
+brother: ganimaṛa 
+brother: kaḷamaɹ̣a 
+brother: ŋuraɹ̣akka 
+burn: ŋaɹ̣awa | warabu	ŋabaraŋaya	ŋaɟɔːraba 
+burn: ŋabaraŋaya | warabu	ŋabaraŋaya	ŋaɟɔːraba 
+burn: ŋaiyamarabulɔːya | warabu	ŋabaraŋaya	ŋaɟɔːraba 
+burn: ŋaɟɔːraba | warabu	ŋabaraŋaya	ŋaɟɔːraba 
+burn: warabu | warabu	ŋabaraŋaya	ŋaɟɔːraba 
+butterfly: wɔŋɔl 
+butterfly: woŋoḷwoŋoḷ 
+calf: nagali- 
+calf: walaya 
+cheek: ɟaːla 
+cheek: ɹ̣eɲmaḷa 
+chest: ɟaramaya 
+chest: maṇabba 
+chest: manabu 
+child: garugoɟa | kaɹ̣okaɟɟa 
+child: kaɹ̣okaɟɟa 
+chin: manimaɲa 
+cloud: kunŋaɟa | kunŋaɟa	maṇaba	nmaṇabba 
+cloud: maṇaba | kunŋaɟa	maṇaba	nmaṇabba 
+cloud: nmaṇabba | kunŋaɟa	maṇaba	nmaṇabba 
+cold: ŋaɹ̣idda | yekke	ŋayida	ŋaɹ̣idda 
+cold: ŋayida | yekke	ŋayida	ŋaɹ̣idda 
+cold: yekke | yekke	ŋayida	ŋaɹ̣idda 
+come: balayiri | balayiri	balo	ŋaiyibilira 
+come: balo | balayiri	balo	ŋaiyibilira 
+come: ŋaiyibilira | balayiri	balo	ŋaiyibilira 
+correct: manɟad\ | manɟadʼ 
+crocodile: ganbaia 
+crocodile: kalamomo 
+crocodile: kanbaya 
+crocodile: kumuken 
+cut: ɹ̣a | koɲɟa	ŋaiyagɔːnɟa 
+cut: koɲɟa | koɲɟa	ŋaiyagɔːnɟa 
+cut: ŋaiyagɔːnɟa | koɲɟa	ŋaiyagɔːnɟa 
+dark: wɛːgana 
+dark: wekkana 
+daughter: garugaɟa 
+day: ɟaɟiɛːra 
+day: ŋyɛɲɛl | ɟaɟiɛːra 
+die: gaiyuwɛːla | -ɟuwa	dy~uwe	ɟuwe 
+die: kaladɟar | -ɟuwa	dy~uwe	ɟuwe 
+die: maŋuya ŋaiyanibaia | -ɟuwa	dy~uwe	ɟuwe 
+die: -ɟuwa | -ɟuwa	dy~uwe	ɟuwe 
+die: ɟuwe | -ɟuwa	dy~uwe	ɟuwe 
+dig: baɣabiɲi | bakabiɲi	baɣabiɲi	ŋai bagabiɲa 
+dig: bakabiɲi | bakabiɲi	baɣabiɲi	ŋai bagabiɲa 
+dig: ŋai bagabiɲa | bakabiɲi	baɣabiɲi	ŋai bagabiɲa 
+dirty: ɲabɔlaːra | ŋaɲoŋaɲa	ɲabɔlaːra 
+dirty: ŋaɲoŋaɲa | ŋaɲoŋaɲa	ɲabɔlaːra 
+dog: bárabaya | barbaya	bárabaya 
+dog: barbaya | barbaya	bárabaya 
+drink: ɟi | dy~i	ŋayaːɣai	ɟi 
+drink: ŋayaːɣai | dy~i	ŋayaːɣai	ɟi 
+dry: gagaːɟa | gagaːɟa	kaɟa 
+dry: kaɟa | gagaːɟa	kaɟa 
+dust: yulbbuɹ̣ 
+ear: gala | gala	gala-	kala 
+ear: gala- | gala	gala-	kala 
+ear: kala | gala	gala-	kala 
+earth: kayala 
+earth: wiːba | kayala 
+eat: ba | ba	mɛːn ŋaba 
+eat: mɛːn ŋaba | ba	mɛːn ŋaba 
+egg: barawura | barawura	baruɹ̣a	yoːgara 
+egg: baruɹ̣a | barawura	baruɹ̣a	yoːgara 
+egg: maɾaːdiba | barawura	baruɹ̣a	yoːgara 
+egg: maḍaḍa | barawura	baruɹ̣a	yoːgara 
+egg: yoːgara | barawura	baruɹ̣a	yoːgara 
+elbow: banga 
+elbow: baṇka 
+emu: ɲanamaḷabbana 
+emu: ɲinamulaːbana 
+eye: dila | dila	dili	diːli 
+eye: dili | dila	dili	diːli 
+eye: diːli | dila	dili	diːli 
+eye: galaminɟara | dila	dili	diːli 
+face: ɟala ŋaranɟiya 
+face: maŋuya 
+fall: bo | bo	ŋaiyandiyarabu 
+fall: ŋaiyandiyarabu | bo	ŋaiyandiyarabu 
+far: karakariba 
+father: baba | baba	babba 
+father: babba | baba	babba 
+fat (n.): kaɹ̣o 
+fat (n.): karo 
+fat (n.): ŋgaru 
+fear: ŋawariyäːmaya 
+fear: ŋɔṛiyɛːmaiya 
+fear: waɹ̣ayemaya 
+feather: balabala | balabala	balbbala	meyameya 
+feather: balbbala | balabala	balbbala	meyameya 
+feather: meyameya | balabala	balbbala	meyameya 
+few: binivelveliva 
+fight: barabuːyɛ 
+finger: gaɟa 
+finger: gaɟi 
+finger: kuɟa 
+fingernail: ɹ̣akaya 
+fire: ŋalŋaḍa | yuwiya	yuya	ŋalŋaḍa 
+fire: yuwiya | yuwiya	yuya	ŋalŋaḍa 
+fire: yuya | yuwiya	yuya	ŋalŋaḍa 
+fire: (yuya) ɟaŋoma kaɹ̣eɲɟeya | yuwiya	yuya	ŋalŋaḍa 
+fish: bokala | bokala	yokara	yokkara	yokkarra	yɔːgara 
+fish: yɔːgara | bokala	yokara	yokkara	yokkarra	yɔːgara 
+fish: yokkara | bokala	yokara	yokkara	yokkarra	yɔːgara 
+fish: yokkarra | bokala	yokara	yokkara	yokkarra	yɔːgara 
+float: bbeŋka 
+flow: ɟawa 
+flower: kaloḷa | kaloḷa 
+fly (n.): maɲɟimiɲɟa 
+fly (n.): maɲimiːnɟa 
+fly (n.): manɟimiːnda 
+fly (v.): gandabulinɟeya 
+fog: ɹ̣oya | walaŋaːnɟara	ɹ̣oya 
+fog: walaŋaːnɟara | walaŋaːnɟara	ɹ̣oya 
+foot: gaɟi | gaɟi	kuɟa 
+foot: kuɟa | gaɟi	kuɟa 
+forehead: miba 
+forehead: mibba 
+forest: inagaːba 
+full: ɟabadagamaiane 
+full: ŋaiɲiɲe | ɟabadagamaiane 
+girl: ɲaɟaːga 
+girl: ɲaɟaːgu 
+girl: ɟaɹ̣wara 
+girl: kaɹ̣okaɟja 
+give: -wa | -wa	wu 
+give: wu | -wa	wu 
+good: dɔːdbalg | doḍbalk	dɔdbaḷg	dɔːdbalg 
+good: dɔdbaḷg | doḍbalk	dɔdbaḷg	dɔːdbalg 
+good: doḍbalk | doḍbalk	dɔdbaḷg	dɔːdbalg 
+grass: makkukka | makkukka	yärawɔːṛa 
+grass: yärawɔːṛa | makkukka	yärawɔːṛa 
+green: gagadameme ya | ? gagadameme ya 
+guts: bburrbba | bburrbba	burbba 
+guts: burbba | bburrbba	burbba 
+hair: meyameya | meyameya	neyameya 
+hair: muɹ̣aka | meyameya	neyameya 
+hair: neyameya | meyameya	neyameya 
+hair: yalaŋala barubaru | meyameya	neyameya 
+hair: yalaŋalo | meyameya	neyameya 
+hand: gaɟi | gaɟi	guɟi-	kudy~a	kuɟa 
+hand: guɟi- | gaɟi	guɟi-	kudy~a	kuɟa 
+hand: kuɟa | gaɟi	guɟi-	kudy~a	kuɟa 
+head: yuŋga- | yuwuŋgu	yuŋga-	yuŋgu	yuṇka 
+head: yuŋgu | yuwuŋgu	yuŋga-	yuŋgu	yuṇka 
+head: yuṇka | yuwuŋgu	yuŋga-	yuŋgu	yuṇka 
+head: yuwuŋgu | yuwuŋgu	yuŋga-	yuŋgu	yuṇka 
+hear: galagalaṛa | galagalaṛa	lakala 
+hear: lakala | galagalaṛa	lakala 
+heart: maḍḍuḍḍiba | ?maḍḍuḍḍiba	maḍuḍiba	ɟuḍɟuḍ 
+heart: maḍuḍiba | ?maḍḍuḍḍiba	maḍuḍiba	ɟuḍɟuḍ 
+heart: ɟuḍɟuḍ | ?maḍḍuḍḍiba	maḍuḍiba	ɟuḍɟuḍ 
+heavy: ɟaɹ̣ama | yarama	ɟarama	ɟarame	ɟaɹ̣ama 
+heavy: ɟarama ~ yarama | yarama	ɟarama	ɟarame	ɟaɹ̣ama 
+heavy: ɟarame | yarama	ɟarama	ɟarame	ɟaɹ̣ama 
+here: ɟebba | ɟebba	ɟibba 
+here: ɟibba | ɟebba	ɟibba 
+he/she: na 
+he/she: naɣebba 
+he/she: nakebba 
+he/she: ŋaya 
+he/she: ŋayabba 
+hit: bu | bu	ŋaibɔːnara 
+hit: ŋaibɔːnara | bu	ŋaibɔːnara 
+hold: ɹ̣imi | ma	rimi	ŋaiyagama	ɹ̣imi 
+hold: (ŋaiyaga)ma | ma	rimi	ŋaiyagama	ɹ̣imi 
+hold: rimi | ma	rimi	ŋaiyagama	ɹ̣imi 
+hole: garara 
+hunt: ŋaianɛla 
+husband: ŋaŋaba | ŋaŋaba	ŋaɟɔrga 
+husband: ŋaɟɔrga | ŋaŋaba	ŋaɟɔrga 
+I: ɲabba | Nayaba	ŋaiaba	ŋayabba 
+I: ŋaiaba | Nayaba	ŋaiaba	ŋayabba 
+I: ŋayabba | Nayaba	ŋaiaba	ŋayabba 
+jaw: ɹ̣amalowaɲɟa 
+jaw: maŋalowara 
+kangaroo: guɟbara 
+kangaroo: kuɟbara 
+kangaroo: kuɟbarra 
+kill: ŋaiwundala 
+knee: ɲamaɲa | 5ama5a	namaɲi	ɲamaɲa 
+knee: namaɲi | 5ama5a	namaɲi	ɲamaɲa 
+know: kalawa 
+know: ŋalawaiya | kalawa 
+know: nibba | kalawa 
+lake: nabalaːmbala | nabalaːmbala	ŋanalakarbba 
+lake: ŋanalakarbba | nabalaːmbala	ŋanalakarbba 
+laugh: ɟarama | ŋaiyaramara	ɟarama 
+laugh: ŋaiyaramara | ŋaiyaramara	ɟarama 
+leaf: gagara | gagara	kakara	meyameya 
+leaf: kakara | gagara	kakara	meyameya 
+leaf: meyameya | gagara	kakara	meyameya 
+left: baymala ~ bimala | baymala	bimala	ŋabiːĭmala 
+left: ŋabiːĭmala | baymala	bimala	ŋabiːĭmala 
+leg: badawura 
+lie: bbaɲɟeya | bbaɲɟeya	yo	ŋagɔːṛa | kuwa	ŋana magoːwaiya 
+lie: ŋagɔːṛa | bbaɲɟeya	yo	ŋagɔːṛa | kuwa	ŋana magoːwaiya 
+lie: yo | bbaɲɟeya	yo	ŋagɔːṛa | kuwa	ŋana magoːwaiya 
+lightning: ɲanagɔːnɟeyaŋo-da 
+lightning: ma- -ba 
+lip: ɟabbaḍa 
+lip: ŋaiyagalaiya 
+live: gaiyawa ŋanaburyana 
+live: ɟiɲwa | gaiyawa ŋanaburyana 
+liver: ŋaḍabbamba | Nadabamba	ŋaḍabbamba	ŋaḍamba 
+liver: ŋaḍamba | Nadabamba	ŋaḍabbamba	ŋaḍamba 
+long: gara | gara	karakaramaḍba	maːdba 
+long: karakaramaḍba | gara	karakaramaḍba	maːdba 
+long: maːdba | gara	karakaramaḍba	maːdba 
+long: wurēyag | gara	karakaramaḍba	maːdba 
+louse: barawugala | kada	kakarakarwaNa 
+louse: gaːda | kada	kakarakarwaNa 
+louse: kadda | kada	kakarakarwaNa 
+louse: kakarakarawaŋa | kada	kakarakarwaNa 
+man: laḷama | kalakarra	lakara	yiːɟa 
+many: gárawa | gárawa	karowa	karrowa 
+man: yiɟa | kalakarra	lakara	yiːɟa 
+man: yiːɟa | kalakarra	lakara	yiːɟa 
+many: karowa | gárawa	karowa	karrowa 
+many: karrowa | gárawa	karowa	karrowa 
+meat: -gaːngara | -gaːngara	kankarra | gaːngara	kankara	kankarra 
+meat: gaːngara | -gaːngara	kankarra | gaːngara	kankara	kankarra 
+meat: kankara | -gaːngara	kankarra | gaːngara	kankara	kankarra 
+meat: kankarra | -gaːngara	kankarra | gaːngara	kankara	kankarra 
+moon: bukkuluḷ | digilgara	dilkara	dilkarra	reɲmaḷa 
+moon: digilgara | digilgara	dilkara	dilkarra	reɲmaḷa 
+moon: dilkara | digilgara	dilkara	dilkarra	reɲmaḷa 
+moon: dilkara ɹ̣eɲmala kayoɹ̣a | digilgara	dilkara	dilkarra	reɲmaḷa 
+moon: dilkarra | digilgara	dilkara	dilkarra	reɲmaḷa 
+moon: reɲmaḷa | digilgara	dilkara	dilkarra	reɲmaḷa 
+morning: wɛːganaba 
+morning: wɛːgunaba 
+mosquito: maḍirbala 
+mosquito: maḍirrbala 
+mosquito: modiyirbala 
+mother: giːĭga | giːĭga	kikka 
+mother: kikka | giːĭga	kikka 
+mountain: muwara 
+mouth: ɟaba | ɟaba	ɟabbaḍa	ɟäbara 
+mouth: ɟäbara | ɟaba	ɟabbaḍa	ɟäbara 
+mouth: ɟabbaḍa | ɟaba	ɟabbaḍa	ɟäbara 
+name: nawalaːŋaiyora | nala	nawalaːŋaiyora	wala 
+name: wala(~ nala) | nala	nawalaːŋaiyora	wala 
+nape: ɟaɹ̣eya 
+nape: garɛː 
+navel: ɟaŋeɹ̣a 
+navel: ɟɔranɟa ŋarɛ 
+near: bareːyaba | bareyabba	bareːyaba 
+near: bareyabba | bareyabba	bareːyaba 
+neck: garɛː | garɛː	kaḷa	maḍba 
+neck: kaḷa | garɛː	kaḷa	maḍba 
+neck: maḍba | garɛː	kaḷa	maḍba 
+new: gɛːgaga | gɛːgaga	kakkaka	kekaka 
+new: kakkaka | gɛːgaga	kakkaka	kekaka 
+night: wekkana 
+not: gɔːma 
+not: koma 
+old: ɟawaḷbba ~ yawaḷbba 
+old: ɲa-yawaḷbba 
+old: ɟiɟa 
+old: ɟiːɟa 
+old: n-ɟawaḷbba 
+old: yawaḍba 
+one: waɹ̣abba | waraba	warabbana	waràbbana	waɹ̣abba	woṛabana 
+one: warabbana | waraba	warabbana	waràbbana	waɹ̣abba	woṛabana 
+one: woṛabana | waraba	warabbana	waràbbana	waɹ̣abba	woṛabana 
+other: giːga 
+person: kalakarra | kalakarra	lakara	yiːɟa 
+person: lakara | kalakarra	lakara	yiːɟa 
+person: yiːɟa | kalakarra	lakara	yiːɟa 
+play: ɹ̣awaya | yivaiyiva	ɹ̣awaya 
+play: yivaiyiva | yivaiyiva	ɹ̣awaya 
+pull: ɟarɟɟa 
+pull: bala-kkakka 
+push: kakka 
+rain: ɲilaɲila | maloya	malɔːyu	ŋuḷɟar 
+rain: maloya | maloya	malɔːyu	ŋuḷɟar 
+rain: malɔːyu | maloya	malɔːyu	ŋuḷɟar 
+rain: ŋuḷɟar | maloya	malɔːyu	ŋuḷɟar 
+rat: ɟanmara 
+red: ɲabolara | ganbuliːbala	kambukka 
+red: ganbuliːbala | ganbuliːbala	kambukka 
+red: kambukka | ganbuliːbala	kambukka 
+right: ndakabbiḍa | gaɟi	guɟi-	kudy~a	kuɟa | ndakabbiḍa	woṛol 
+right: woṛol | gaɟi	guɟi-	kudy~a	kuɟa | ndakabbiḍa	woṛol 
+ripe: gaːɟa 
+ripe: kaḍɟa 
+ripe: karɟ(ɟ)a 
+river: kalakarbba | kalakarbba	kaṇayeɟabba	ŋaːmanagurgu 
+river: kaṇayeɟabba | kalakarbba	kaṇayeɟabba	ŋaːmanagurgu 
+river: ŋämanagurga | kalakarbba	kaṇayeɟabba	ŋaːmanagurgu 
+river: ŋaːmanagurgu | kalakarbba	kaṇayeɟabba	ŋaːmanagurgu 
+road: galaguwɔrba | kalakorba 
+road: kaḷakorbba | kalakorba 
+root: guɟa | guɟa	ɟoya 
+root: ɟoya | guɟa	ɟoya 
+rope: baḍiwaŋa | bariwuŋana	baḍiwaŋa 
+rope: bariwuŋana | bariwuŋana	baḍiwaŋa 
+rotten: gunabɔːnba | gunabɔːnba	nabboṇba 
+rotten: nabboṇba | gunabɔːnba	nabboṇba 
+round: gungaliyaːla 
+rub: ŋaiyigɔrɔ 
+salt: wariwara 
+sand: ɹ̣anba | ɹ̣anba	ṛaːnba 
+sand: ṛaːnba | ɹ̣anba	ṛaːnba 
+say: ŋaŋuɟiya | yaŋka | ɹ̣anba	ṛaːnba 
+say: ŋuɟeyi | yaŋka | ɹ̣anba	ṛaːnba 
+say: yaŋka | ɹ̣anba	ṛaːnba 
+scratch: ɹ̣iyi | ŋaiyarinɟa	ɹ̣iyi 
+scratch: ŋaiyarinɟa | ŋaiyarinɟa	ɹ̣iyi 
+sea: gamanave  ɟa garana 
+sea: namanerbalmiba 
+sea: namanirivaliva 
+sea: wariwara 
+seed: biːlgara | biːlgara	dila 
+seed: dila | biːlgara	dila 
+see: na | -na-	na 
+see: -na- | -na-	na 
+sharp: ɹ̣araŋala | yidan maiɟana	ɹ̣araŋala 
+sharp: yidan maiɟana | yidan maiɟana	ɹ̣araŋala 
+short: ndaḷaɟa | ndaḷaɟa	ŋandaleːɟa 
+short: ŋandaleːɟa | ndaḷaɟa	ŋandaleːɟa 
+shoulder: ɲayaɹ̣a 
+shoulder: niyaːre 
+shoulder: yakaɹ̣a 
+sing: mayawayi | mayawayi	ŋaibinɟiba 
+sing: ŋaibinɟiba | mayawayi	ŋaibinɟiba 
+sister: ɟaba 
+sister: ɟabba 
+sister: kaḷamaɹ̣a 
+sister: ŋuraɹ̣akka 
+sister: -nɔːṛa 
+sit: ŋaiyagana | no	ŋaiyagana 
+sit: no | no	ŋaiyagana 
+skin: gɔːda | gɔːda	kkodda	koda	kodda 
+skin: gɔːda ŋaiyageː ga-ba | gɔːda	kkodda	koda	kodda 
+skin: (k)kodda | gɔːda	kkodda	koda	kodda 
+skin: kodda | gɔːda	kkodda	koda	kodda 
+sky: maleya 
+sleep: yo | -yɔːṛa	yo 
+sleep: -yɔːṛa | -yɔːṛa	yo 
+small: namanda | namanda	ŋanabiɛːlbara	ŋanamanda 
+small: ŋanabiɛːlbara | namanda	ŋanabiɛːlbara	ŋanamanda 
+small: ŋanamanda | namanda	ŋanabiɛːlbara	ŋanamanda 
+smell: biwaya 
+smell: yabiwa 
+smoke: ɟakora | gɔlɔŋanɟara	walaŋaɲɟara 
+smoke: gɔlɔŋanɟara | gɔlɔŋanɟara	walaŋaɲɟara 
+smoke: walaŋaɲɟara | gɔlɔŋanɟara	walaŋaɲɟara 
+smooth: karumakkara | karumakkara	manduːwura 
+smooth: manduːwura | karumakkara	manduːwura 
+snake: garawaleya | garawaleya	kaɹ̣owalaya 
+snake: kaɹ̣owalaya | garawaleya	kaɹ̣owalaya 
+son: garugaɟa 
+stand: ɹ̣eɲɟeyi | reɲɟeyi	ŋaranɟiya	ɹ̣eɲɟeyi 
+stand: ŋaranɟiya | reɲɟeyi	ŋaranɟiya	ɹ̣eɲɟeyi 
+stand: reɲɟeyi | reɲɟeyi	ŋaranɟiya	ɹ̣eɲɟeyi 
+star: ɲakaḍɟa | 5ananaba	yinanabu	ɲananabba 
+star: ɲananabba | 5ananaba	yinanabu	ɲananabba 
+star: maːlba | 5ananaba	yinanabu	ɲananabba 
+star: yinanabu | 5ananaba	yinanabu	ɲananabba 
+stone: waleigara | waleigara	waleykara 
+stone: waleykara | waleigara	waleykara 
+straight: manɟad | manɟad	nakkurŋaṇawa 
+straight: nakkurŋaṇawa | manɟad	nakkurŋaṇawa 
+suck: gaḷɔḷɔgaba | gaḷɔḷɔgaba 
+sun: warawaru | warawaru	warwara	wawara 
+sun: warwara | warawaru	warwara	wawara 
+sweet: ɟaːbanme 
+sweet: ɟabbaṇma 
+sweet: baḷuya 
+sweet: kaddeyana 
+sweet: kaɹ̣onmaɲa 
+swim: ŋaiyamɛdiimala | nmarimaḷo	ŋaiyamɛdiimala 
+swim: nmarimaḷo | nmarimaḷo	ŋaiyamɛdiimala 
+tail: galagala | galagala	walaya 
+tail: ɟuya | galagala	walaya 
+tail: walaya | galagala	walaya 
+take: ganagunɟa ɟumaŋa 
+take: maɲɟa 
+take: maṛaguna 
+take: ɟorka 
+that: ɟeyabba | waraba	warabbana	waràbbana	waɹ̣abba	woṛabana 
+there: ɟeːyabe | ŋani 
+there: ŋani 
+they: barageaba | barayabba 
+they: barayabba 
+they two: barayabbaɲa 
+they two: birikebba 
+thigh: memaḷa 
+thigh: mɛmala 
+think: ŋaiyagulawa | ŋaiyagulawa	ŋawaya 
+think: ŋawaya | ŋaiyagulawa	ŋawaya 
+thin: namanda | namanda	nawaramaya	wɔngabɔːra 
+thin: nawaramaya | namanda	nawaramaya	wɔngabɔːra 
+thin: wɔngabɔːra | namanda	nawaramaya	wɔngabɔːra 
+this: ɟebba 
+thou: ɲiɲɟaba | 5indy~aba	ɲiɲɟaba	ɲiɲɟabba 
+thou: ɲiɲɟabba | 5indy~aba	ɲiɲɟaba	ɲiɲɟabba 
+thou: narageaba | 5indy~aba	ɲiɲɟaba	ɲiɲɟabba 
+thou: ŋga | 5indy~aba	ɲiɲɟaba	ɲiɲɟabba 
+thou: nurabba | 5indy~aba	ɲiɲɟaba	ɲiɲɟabba 
+three: two plus one | karnayedjabba-waràbbana 
+throat: ŋaliɟbiɲa 
+throat: ŋalidbiɲi 
+throw: ŋaiyagawaga | rawo	ŋaiyagawaga 
+throw: rawo | rawo	ŋaiyagawaga 
+thunder: gabalanabu 
+thunder: ŋawiya 
+thunder: walanaɲɟayiba 
+tie: ɟakkabo | mawa	ɟakkabo 
+tie: mawa | mawa	ɟakkabo 
+today: banɔːmanɟa 
+tomorrow: wɛaganabe 
+tomorrow: wekanabba 
+tongue: ɟaŋoṇa | daŋal	dy~aNona	ɟaŋoṇa	ɟuŋɔḷ 
+tongue: daŋal | daŋal	dy~aNona	ɟaŋoṇa	ɟuŋɔḷ 
+tongue: ɟuŋɔḷ | daŋal	dy~aNona	ɟaŋoṇa	ɟuŋɔḷ 
+tooth: ɹ̣idda | rida	yida	ɹ̣idda 
+tooth: yida | rida	yida	ɹ̣idda 
+tree: ŋanabalama ~ kuḷa | kula 
+tree: yanabalaːna | kula 
+turn: ndabaḷiɲɟa 
+turn: ndabaḷiɲɟeyi 
+turn: ŋandabulinɟina 
+two: kaṇayeɟabba | kanayedy~aba	karnayedjabba	kaṇayeɟabba	ŋaniyeːɟaba 
+two: ŋaniyeːɟaba | kanayedy~aba	karnayedjabba	kaṇayeɟabba	ŋaniyeːɟaba 
+unripe: baḷaŋa 
+unripe: (b)barlaŋa 
+vagina: ɹ̣ara 
+vomit: nawala -yaŋka | nawala -yaŋka	ŋawula ŋaiyagayaŋga 
+vomit: ŋawula ŋaiyagayaŋga | nawala -yaŋka	ŋawula ŋaiyagayaŋga 
+walk: ɟiri | ŋaiɲau 
+walk: -ɟirri | ŋaiɲau 
+walk: ŋaiɲau 
+walk: ŋaiyagunɟiŋaṛa-ŋaṛa | ŋaiɲau 
+walk: ŋiririːya | ŋaiɲau 
+walk: ɟorkkaŋaya | ŋaiɲau 
+wallaby: guɟbara 
+warm: ŋaiyɛgaːya 
+warm: waḷir 
+wash: ŋaiɟama 
+wash: ŋaiɟaːma | ŋaiɟama 
+wash: ŋaiɟamai 
+water: gaba | gaba	kaba	kabba	nabaḷambaḷa 
+water: kabba | gaba	kaba	kabba	nabaḷambaḷa 
+water: nabaḷambaḷa | gaba	kaba	kabba	nabaḷambaḷa 
+water: ŋaribɔrɔːbiva | gaba	kaba	kabba	nabaḷambaḷa 
+weep: ɲiɲɟa 
+weep: kaḷeŋaḷa 
+weep: ŋaɲinɟa 
+we (excl.): ɲarageaba 
+we (excl.): ɲirabba 
+we (incl.): ŋaraba 
+we (incl.): ŋurabba 
+wet: kaḷa | kaḷa 
+we two (excl.): narayabbaɲa 
+we two (excl.): ŋirikebba 
+we two (incl.): ŋarabba 
+what: ŋale | ŋale	ŋalewaɹ̣a	ŋeɟa 
+what: ŋalewaɹ̣a | ŋale	ŋalewaɹ̣a	ŋeɟa 
+what: ŋeɟa | ŋale	ŋalewaɹ̣a	ŋeɟa 
+when: ɲäɣayaba | ɲäɣayaba 
+where: kammawa | kammawa	yēbane 
+where: yēbane | kammawa	yēbane 
+white: baṇamarakka | baṇamarakka	naɹ̣arma	ŋanaṛame 
+white: naɹ̣arma | baṇamarakka	naɹ̣arma	ŋanaṛame 
+white: ŋanaṛame | baṇamarakka	naɹ̣arma	ŋanaṛame 
+who: ɲuŋga | ɲuŋga	ɲuŋkowaɹ̣a 
+who: ɲuŋkowaɹ̣a | ɲuŋga	ɲuŋkowaɹ̣a 
+wide: ɟareyara 
+wife: ɲaŋaba | ŋanɟɔrgaba	ɲaŋaba 
+wife: ŋanɟɔrgaba | ŋanɟɔrgaba	ɲaŋaba 
+wind: balawurrwurr | balawurrwurr	balawurwara	balawurwur 
+wind: balawurwara | balawurrwurr	balawurwara	balawurwur 
+wind: balawurwur | balawurrwurr	balawurwara	balawurwur 
+wing: balbala | balbala	balbbala 
+wing: balbbala | balbala	balbbala 
+woman: ŋaiyara | ŋarama	ŋaraːm	ŋaṛaːma 
+woman: ŋaraːm | ŋarama	ŋaraːm	ŋaṛaːma 
+woman: ŋarama | ŋarama	ŋaraːm	ŋaṛaːma 
+woman: ŋaṛaːma | ŋarama	ŋaraːm	ŋaṛaːma 
+woman: ŋarrama | ŋarama	ŋaraːm	ŋaṛaːma 
+wood: ŋanabalama ~ kuḷa 
+wood: ŋanabulaːna 
+wood: yuwiya 
+woomera: ŋanarɛmaya 
+woomera: yiṇḍiɟ 
+worm: wuya 
+yellow: ɲabbaḷaŋa | baṛiyäla	ɲabbaḷaŋa 
+yellow: baṛiyäla | baṛiyäla	ɲabbaḷaŋa 
+yesterday: nabalobala 
+yes: yoː 
+you two: narayabbaɲa 
+you two: nirikebba 
+every: ɣɔːmaba 
+ash: ɲarawarowara	ṛawuga 
+abdomen: ɟanama 
+bigness: barabara	baraːbara	barrabarra 
+large: barabara	baraːbara	barrabarra 
+breasts: kaloḷa	kolola 
+come from: balayiri	balo	ŋaiyibilira 
+be dead: -ɟuwa	dy~uwe	ɟuwe 
+dead: -ɟuwa	dy~uwe	ɟuwe 
+ground: kayala 
+land: kayala 
+soil: kayala 
+fly: gandabulinɟeya 
+fly v.: gandabulinɟeya 
+left hand: gaɟi	guɟi-	kudy~a	kuɟa 
+1 sg.: Nayaba	ŋaiaba	ŋayabba 
+be knowledgeable: kalawa 
+lie down: bbaɲɟeya	yo	ŋagɔːṛa 
+head louse: kada	kakarakarwaNa 
+male: yiɟa	yiːɟa 
+much: gárawa	karowa	karrowa 
+multiple: gárawa	karowa	karrowa 
+several: gárawa	karowa	karrowa 
+flesh: -gaːngara	kankarra 
+hill: muwara 
+title: nala	nawalaːŋaiyora	wala 
+nighttime: wekkana 
+nose: maNuya	maŋu	maŋuya	yiḍa 
+adulterous: waraba	warabbana	waràbbana	waɹ̣abba	woṛabana 
+single: waraba	warabbana	waràbbana	waɹ̣abba	woṛabana 
+the: waraba	warabbana	waràbbana	waɹ̣abba	woṛabana 
+unprincipled: waraba	warabbana	waràbbana	waɹ̣abba	woṛabana 
+human: kalakarra	lakara	yiːɟa 
+human being: kalakarra	lakara	yiːɟa 
+rainy weather: maloya	malɔːyu	ŋuḷɟar 
+path: kalakorba 
+route: kalakorba 
+hide: gɔːda	kkodda	koda	kodda 
+little: namanda	ŋanabiɛːlbara	ŋanamanda 
+smallness: namanda	ŋanabiɛːlbara	ŋanamanda 
+rock: waleigara	waleykara 
+2 sg: 5indy~aba	ɲiɲɟaba	ɲiɲɟabba 
+you: 5indy~aba	ɲiɲɟaba	ɲiɲɟabba 
+grind: kanayedy~aba	karnayedjabba	kaṇayeɟabba	ŋaniyeːɟaba 
+go: ŋaiɲau 
+1 pl. inc.: 5iraba	ŋaraba	ŋurabba 
+we: 5iraba	ŋaraba	ŋurabba 
+we₁: 5iraba	ŋaraba	ŋurabba 
+whiteness: baṇamarakka	naɹ̣arma	ŋanaṛame 
+who?: ɲuŋga	ɲuŋkowaɹ̣a 
+female: ŋarama	ŋaraːm	ŋaṛaːma 
+distant: karakariba 
+dull: yarama	ɟarama	ɟarame	ɟaɹ̣ama 
+serious: yarama	ɟarama	ɟarame	ɟaɹ̣ama 
+close: bareyabba	bareːyaba 
+ner: bareyabba	bareːyaba 
+earthworm: wuya 
+3 sg.: nakebba	naɣebba 
+he: nakebba	naɣebba 
+she: nakebba	naɣebba 
+2 pl.: narageaba	nurabba 
+ye: narageaba	nurabba 
+you all: narageaba	nurabba 
+3 pl.: barayabba 
+where?: kammawa	yēbane 
+when?: ɲäɣayaba 
+broad: ɟareyara 
+wideness: ɟareyara 
+principal wife: ŋanɟɔrgaba	ɲaŋaba 
+his mother: giːĭga	kikka 
+my mother: giːĭga	kikka 
+his father: baba	babba 
+my father: baba	babba 
+woods: inagaːba 
+stick: managurga 
+cord: bariwuŋana	baḍiwaŋa 
+claw: ɹ̣akaya 
+nail: ɹ̣akaya 
+gut: bburrbba	burbba 
+insides: bburrbba	burbba 
+intestine: bburrbba	burbba 
+intestines: bburrbba	burbba 
+spit: ŋanabɔːna 
+breath: ŋaiɲɛːwa	ɲɛːwa 
+laughter: ŋaiyaramara	ɟarama 
+cogitate: ŋaiyagulawa	ŋawaya 
+reflect: ŋaiyagulawa	ŋawaya 
+smell: biwa 
+sniff: biwa 
+alive: gaiyawa ŋanaburyana 
+be alive: gaiyawa ŋanaburyana 
+life: gaiyawa ŋanaburyana 
+living: gaiyawa ŋanaburyana 
+beat: bu	ŋaibɔːnara 
+strike: bu	ŋaibɔːnara 
+hack: koɲɟa	ŋaiyagɔːnɟa 
+tell lies: kuwa	ŋana magoːwaiya 
+drop: bo	ŋaiyandiyarabu 
+grasp: ma	rimi	ŋaiyagama	ɹ̣imi 
+hold in arm: ma	rimi	ŋaiyagama	ɹ̣imi 
+wipe: ŋaiyigɔrɔ 
+wash clothes: ŋaiɟama 
+bind: mawa	ɟakkabo 
+fasten: mawa	ɟakkabo 
+tie up: mawa	ɟakkabo 
+have fun: yivaiyiva	ɹ̣awaya 
+brook: kalakarbba	kaṇayeɟabba	ŋaːmanagurgu 
+stream: kalakarbba	kaṇayeɟabba	ŋaːmanagurgu 
+blaze: warabu	ŋabaraŋaya	ŋaɟɔːraba 
+daylight: ɟaɟiɛːra 
+daytime: ɟaɟiɛːra 
+evil: bbokka	bokka	bɔːga 
+rot: gunabɔːnba	nabboṇba 
+filthy: ŋaɲoŋaɲa	ɲabɔlaːra 
+soiled: ŋaɲoŋaɲa	ɲabɔlaːra 
+blunt: mabuḷa	yidanbag 
+damp: kaḷa 
+right side: ndakabbiḍa	woṛol 

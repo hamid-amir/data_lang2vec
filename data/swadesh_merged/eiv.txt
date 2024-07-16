@@ -1,0 +1,194 @@
+all: toton 
+arm: kaːmokoto 
+arrow: naʲto 
+ashes: kautato 
+back: kaußairaua 
+bad: tamakapato 
+bark: kakarɛto 
+belly: komato 
+big: pauto 
+bird: kokioto 
+black: kakasito 
+blood: dɛßasɪn | dɛβasɪn 
+bone: ɛruto 
+boy: aito 
+breast: nonoto 
+brother: tata 
+burn: nɛŋapo-onoi 
+child: dɛrakan 
+chin: kɛntan 
+claw: sikɛparito 
+cloud: nukuːta 
+cold: murɛßapato | murɛβapato 
+come: inionoi 
+day: maŋutapaira 
+die: kap(up)onoi | kaponoi	kapuponoi 
+dog: kakau 
+drink: dopiponoi 
+dry: dakasito 
+ear: mamato 
+earth: nasinua 
+eat: tunapoːnoi 
+egg: manakɛto 
+elbow: otopito 
+eye: osiroito 
+fall: koßɛpanoi 
+father: aisi 
+fat (n.): marikɪn 
+feather: purukɛtato 
+finger: pinokot 
+fire: otokoito 
+fish: mateːto 
+five: akamoko 
+fly (v.): baratatapo-onoi 
+foot: oßan | oβan 
+forehead: pikon 
+four: nɛsiuna 
+full: arasito 
+girl: anɛkon 
+give: isiporaram 
+good: aßɛrɛpato | aβɛrɛpato 
+green: sikarato 
+hair: nɛsin 
+hand: komɛtakot 
+head: natat 
+hear: marɛkonoi 
+heart: sisipirito 
+heavy: baßatapato | baβatapato 
+he/she: ɛra 
+he/she: nɛːnɛra 
+hit: tukɛpanɛnɛm 
+house: tunato 
+I: naŋa 
+kill: opopanɛnɛm 
+knee: otopit 
+know: nɛponoi 
+laugh: ɛkɛponɛm 
+leaf: kunuara 
+leg: dakoːto 
+lie: kinaponoi 
+liver: nanapan 
+long: dikarepato 
+louse: ir-uto 
+man: amariato | oiran 
+many: tɛpɛnua 
+meat: manaputo 
+moon: daraßo | daraβo 
+morning: koropisi 
+mother: akai 
+mountain: pusiko 
+mouth: kopaitot 
+name: ouißan | ouiβan 
+neck: mapit 
+new: aʲɛpato | aⁱnɛpato 
+night: daßinutai | daβinutai 
+not: apanɛkɛ 
+old: abokan 
+old: doßepato 
+old: pakaraito 
+one: katɛpato 
+person: oiran 
+rain: dakapu 
+rat: kusika 
+red: dɛßasipato | dɛβasipato 
+road: dɛumato 
+root: baunto 
+round: kumarakoto 
+sand: daratɛ 
+say: nantauaraponoi 
+seed: masipato 
+see: kɛkɛponoi 
+short: dukupisito 
+shoulder: mutoːn 
+sing: komaponoi 
+sister: tataua 
+sit: torionʊi 
+skin: paparɛn 
+sleep: isionoi 
+small: dikirito 
+smoke: pɛːtoko 
+snake: nakuru 
+spit: maŋotonoi 
+stand: torɛrɛ nyimpoːnoi 
+star: bisinako 
+stone: lapoto 
+sun: daßinio | daβinio 
+swim: ataonɛm 
+tail: pɛruɛn 
+that: nano 
+they: oinua 
+they two: otario 
+this: noɛ 
+thou: iŋa 
+thou: misina | iŋa 
+three: pɛnuma 
+tomorrow: anumɛ 
+tongue: arɛßauto | arɛβauto 
+tooth: aito 
+tree: ɛmauto 
+two: besiatoarɛ 
+walk: kakariponoi | okaponɛm 
+walk: okaponɛm 
+warm: asiasipato 
+water: kakaːto 
+we (excl.): minɛko 
+wet: pɛtapat 
+we two (excl.): mɛnɛːko 
+what: ɛßato | ɛβato 
+when: omiam 
+where: amai 
+white: kakarapato 
+who: iro 
+wind: kißuto | kiβuto 
+wing: parukɛtato 
+woman: niakon 
+wood: burokoto 
+yellow: aropɛto 
+yes: ɛ 
+yesterday: anumɛ 
+you two: iŋamaʲo 
+every: toton 
+ash: kautato 
+abdomen: komato 
+bigness: pauto 
+large: pauto 
+breasts: nonoto 
+nail: sikɛparito 
+talon: sikɛparito 
+come from: inionoi 
+be dead: kaponoi	kapuponoi 
+dead: kaponoi	kapuponoi 
+fly: baratatapo-onoi 
+fly v.: baratatapo-onoi 
+left hand: komɛtakot 
+right: komɛtakot 
+1 sg.: naŋa 
+be knowledgeable: nɛponoi 
+male: amariato 
+much: tɛpɛnua 
+multiple: tɛpɛnua 
+several: tɛpɛnua 
+hill: pusiko 
+title: ouiβan 
+nighttime: daβinutai 
+nose: ŋuŋuisito 
+adulterous: katɛpato 
+single: katɛpato 
+the: katɛpato 
+unprincipled: katɛpato 
+human: oiran 
+human being: oiran 
+rainy weather: dakapu 
+hide: paparɛn 
+little: dikirito 
+smallness: dikirito 
+rock: lapoto 
+2 sg: iŋa 
+you: iŋa 
+grind: besiatoarɛ 
+go: okaponɛm 
+whiteness: kakarapato 
+who?: iro 
+female: niakon 
+dull: baβatapato 
+serious: baβatapato 

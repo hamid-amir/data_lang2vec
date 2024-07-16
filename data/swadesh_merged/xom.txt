@@ -1,0 +1,270 @@
+all: ašiːn | ašiːn 
+ashes: bin | bin	pʼin 
+ashes: p\in | bin	pʼin 
+back: pɔk 
+bad: šigin 
+bark: gwaŋgi 
+belly: čeme | kimi	čeme 
+belly: kimi | kimi	čeme 
+big: suan 
+bird: ɗeo | dʼiu	ɗeo	ɗio 
+bird: ɗio | dʼiu	ɗeo	ɗio 
+bird: d\iu | dʼiu	ɗeo	ɗio 
+bite: has\ | hasʼ	waθin	wəsʼ- 
+bite: waθin | hasʼ	waθin	wəsʼ- 
+bite: wəs\˗ | hasʼ	waθin	wəsʼ- 
+black: θ\in | θʼin 
+blood: baš | baS	baš 
+blow: oud 
+blow: pe 
+bone: šuma | Suma	šuma	šumuk 
+bone: šumuk | Suma	šuma	šumuk 
+boy: ati˗ 
+breast: ko 
+breathe: šʷeni 
+brother: kàmbám 
+burn: šan 
+claw: s\ik\il | sʼikʼil	θʼigil 
+claw: θ\igil | sʼikʼil	θʼigil 
+cloud: šɛlli | šɛlli 
+cold: čišin | sʼam	čišin 
+cold: s\am | sʼam	čišin 
+come: hawi 
+come: yɔ́m | hawi 
+cut: titil 
+cut: yeʔ 
+die: wu 
+dig: ze˗ 
+dog: k\au | k"au	kʼau 
+drink: ip | ip	pe 
+drink: pe | ip	pe 
+dry: k\ɔs | kusin	kʼɔs 
+dry: kusin | kusin	kʼɔs 
+ear: s\e | c"e	sʼe	tsʼe 
+earth: k\as\i 
+ear: ts\e | c"e	sʼe	tsʼe 
+eat: ša | ša 
+egg: ʔom | um	ɔ́mɔ̀	ʔom 
+egg: ɔ́mɔ̀ | um	ɔ́mɔ̀	ʔom 
+egg: (w)um | um	ɔ́mɔ̀	ʔom 
+eye: ɓiː | bibi	ɓipi	ɓiː 
+eye: bibi | bibi	ɓipi	ɓiː 
+eye: ɓipi | bibi	ɓipi	ɓiː 
+fall: šuk˗ 
+far: šet | šet	šitʼ 
+far: šit\ | šet	šitʼ 
+father: pa 
+fat (n.): yɛn 
+fear: kogir 
+fire: wati 
+fish: waːs\ | wa87~	waːsʼ	waθʔ 
+fish: waθʔ | wa87~	waːsʼ	waθʔ 
+five: bus\˗in 
+fly (n.): kasukʰ 
+foot: šawkʰ | šawkʰ	šokʰ 
+foot: šokʰ | šawkʰ	šokʰ 
+four: dɔgɔn˗in 
+full: šem˗ | šem- 
+give: ˗kɛr | -kɛr	kyikyi 
+give: kyikyi | -kɛr	kyikyi 
+good: ɓɔl˗ | bʼwalin	ɓɔl- 
+good: b\walin | bʼwalin	ɓɔl- 
+grass: šwaʔi 
+grass: šwei 
+green: zi˗in | zi-in 
+hair: mɔl | mɔl	šwiya 
+hair: šwiya | mɔl	šwiya 
+hand: k\ɔlɔ | k"w~olo	kʼwolo	kʼɔlɔ 
+hand: k\wolo | k"w~olo	kʼwolo	kʼɔlɔ 
+head: k\ɔpʰ | kʼuɸ	kʼɔpʰ 
+head: k\uφ | kʼuɸ	kʼɔpʰ 
+hear: sikʰ | sikh~	sikʰ 
+heart: duː 
+heavy: did˗in | did-in 
+here: hare 
+hit: šap 
+horn: k\ɛː | kye	ky~e	kʼɛː 
+horn: kye | kye	ky~e	kʼɛː 
+I: aka 
+kill: k\oš | kʼoš 
+knee: ɗəbɔm 
+know: ər˗ | meš	miš	ər- 
+know: meš | meš	miš	ər- 
+know: miš | meš	miš	ər- 
+leaf: ts\ɛpɛpi | c"EpEpi	tsʼɛpɛpi 
+left: ˗goliʔ 
+liver: do | do	tuSkir	tuškir 
+liver: tuškir | do	tuSkir	tuškir 
+long: tól˗én | tól-én	tʰulen 
+long: tʰulen | tól-én	tʰulen 
+louse: šʷɛn | Su7en 
+louse: šuʔen | Su7en 
+man: gwaz | yibka	yibáʔ 
+many: d\elin | dʼelin	ɗelin 
+many: ɗelin | dʼelin	ɗelin 
+man: yibka | yibka	yibáʔ 
+meat: šum 
+moon: pai 
+mountain: b\e | be	bʼe 
+mouth: t\aː | twʔa	tʼaː 
+mouth: twʔa | twʔa	tʼaː 
+name: zaːga | zaga	zaːga 
+nape: ɓa 
+near: ɗiš˗ | ɗiš- 
+neck: b\a | bʼa	kʼwuš 
+neck: k\wuš | bʼa	kʼwuš 
+new: daziʔiš | dazi7iS	daziʔiš	ziːš 
+new: ziːš | dazi7iS	daziʔiš	ziːš 
+night: kyisini | kyisini	ky~isini	sʼini 
+night: s\ini | kyisini	ky~isini	sʼini 
+old: guba 
+one: d\e | Te	de	dedi	dʼe	ɗe 
+one: ɗe | Te	de	dedi	dʼe	ɗe 
+other: d\ayareːn 
+person: yibáʔ | yibka	yibáʔ 
+pull: had˗ 
+push: tus 
+rain: oː | oː	wou 
+rain: wou | oː	wou 
+rat: s\ikʰ 
+red: p\ɛl˗ | pʼɛl-	pʼɛlin 
+red: p\ɛlin | pʼɛl-	pʼɛlin 
+right: k\ana | k"w~olo	kʼwolo	kʼɔlɔ 
+road: kʰwa | khw$a 
+root: bil | bil	biːl 
+root: biːl | bil	biːl 
+rope: šweʔ 
+rope: swɔ́y 
+salt: t\aš | tʼaš 
+sand: pʰoš | pɔ́š	pʰoš 
+sand: pɔ́š | pɔ́š	pʰoš 
+say: ʔuna | wó	ʔuna 
+say: wó | wó	ʔuna 
+scratch: s\os\˗ 
+seed: ɛmin | yamon	ɛmin	ɛminše 
+seed: ɛminše | yamon	ɛmin	ɛminše 
+seed: yamon | yamon	ɛmin	ɛminše 
+see: yil˗ | yil-	yila 
+see: yila | yil-	yila 
+sew: šo(y) 
+sharp: kakan˗ 
+short: kut˗ | kut- 
+sit: sokʰ 
+skin: yiːš | yis	yiːš 
+sky: miš 
+sleep: ʔiš | iši	ʔiš 
+sleep: iši | iši	ʔiš 
+small: s\on | sʼon 
+smoke: kur 
+snake: daːšo | daːšo 
+spit: kɔɔ̀t˗ 
+stand: dɔ̀ːši 
+stand: toši 
+star: kɛːl | kyele	ky~ele	kɛːl 
+star: kyele | kyele	ky~ele	kɛːl 
+stone: ʔɔš | oS	wɔš	ɔːš	ʔɔš 
+stone: ɔːš | oS	wɔš	ɔːš	ʔɔš 
+stone: wɔš | oS	wɔš	ɔːš	ʔɔš 
+sun: tʰe | th~e	tyé	tʰe 
+sun: tyé | th~e	tyé	tʰe 
+sweet: gubi(ʔ) 
+swim: pəgɛ 
+tail: siːn 
+take: kaš 
+take: kay 
+that: ˗di | -di 
+there: amadini 
+thin: bʲɛzi | bʲɛzi	sʼar- 
+think: gaz˗ 
+thin: s\ar˗ | bʲɛzi	sʼar- 
+this: ˗bəni | -bəni	da 
+this: da | -bəni	da 
+thou: ʔaina | aina	ʔaina 
+thou: om | aina	ʔaina 
+three: dišin 
+throw: pur˗ 
+throw: yeb˗ 
+throw: yit\ 
+tie: tuš˗ 
+tongue: letʰ | leth~	letʰ 
+tooth: šeː | Se7o	šeʔɔ	šeː 
+tooth: šeʔɔ | Se7o	šeʔɔ	šeː 
+tree: sáː | sua 
+tree: sua 
+turn: wədi 
+two: sowɛn | sowɛn	su7in	suin	suʔin 
+two: suʔin | sowɛn	su7in	suin	suʔin 
+vagina: pitʰ 
+walk: peː˗ 
+walk: ya 
+warm: ɓəs\ | mankum	ɓəsʼ 
+warm: mankum | mankum	ɓəsʼ 
+water: ʔiʔi | i7i	yiːʔ	ʔiʔi 
+water: yiːʔ | i7i	yiːʔ	ʔiʔi 
+we: ʔana | amon	ana 
+weep: k(ɔ)we 
+we (excl.): ana 
+we (incl.): amon 
+wet: yas˗ 
+wet: yasin 
+wet: yɛs\ 
+what: dini 
+when: gik˗ 
+where: ámini 
+white: p\atan | pʼatan 
+who: yedi | yedi	yida 
+who: yida | yedi	yida 
+woman: ɓamit | bemid	ɓamit 
+woman: bemid | bemid	ɓamit 
+year: kwə̀líʔ | kwə̀líʔ 
+yes: yoː 
+every: ašiːn 
+ash: bin	pʼin 
+abdomen: kimi	čeme 
+bigness: suan 
+large: suan 
+breasts: ko 
+nail: sʼikʼil	θʼigil 
+talon: sʼikʼil	θʼigil 
+come from: hawi 
+be dead: wu 
+dead: wu 
+left hand: k"w~olo	kʼwolo	kʼɔlɔ 
+1 sg.: aka 
+be knowledgeable: meš	miš	ər- 
+head louse: Su7en 
+male: gwaz	yibka 
+much: dʼelin	ɗelin 
+multiple: dʼelin	ɗelin 
+several: dʼelin	ɗelin 
+hill: be	bʼe 
+title: zaga	zaːga 
+nighttime: kyisini	ky~isini	sʼini 
+nose: SoS	šoš	šɔːš 
+adulterous: Te	de	dedi	dʼe	ɗe 
+single: Te	de	dedi	dʼe	ɗe 
+the: Te	de	dedi	dʼe	ɗe 
+unprincipled: Te	de	dedi	dʼe	ɗe 
+human: yibka	yibáʔ 
+human being: yibka	yibáʔ 
+rainy weather: oː	wou 
+path: khw$a 
+route: khw$a 
+hide: yis	yiːš 
+little: sʼon 
+smallness: sʼon 
+rock: oS	wɔš	ɔːš	ʔɔš 
+2 sg: aina	ʔaina 
+you: aina	ʔaina 
+grind: sowɛn	su7in	suin	suʔin 
+hot: mankum	ɓəsʼ 
+1 pl. inc.: amon	ana 
+we₁: amon	ana 
+whiteness: pʼatan 
+who?: yedi	yida 
+female: bemid	ɓamit 
+distant: šet	šitʼ 
+dull: did-in 
+serious: did-in 
+close: ɗiš- 
+ner: ɗiš- 

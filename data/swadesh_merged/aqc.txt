@@ -1,0 +1,332 @@
+all: marči	mˈarči 
+every: marči	mˈarči 
+ash: diq'ˤ	diqʼːˤ- 
+ashes: diq'ˤ	diqʼːˤ- 
+bark: paqʼut	pˈaqʼut 
+abdomen: lˈagi	χˤurχˤu 
+belly: lˈagi	χˤurχˤu 
+big: doˤzut	dˈoːˤz-u- 
+bigness: doˤzut	dˈoːˤz-u- 
+large: doˤzut	dˈoːˤz-u- 
+bird: nocʼ 
+bite: =ˈeqʼːa-	haˤnčʼbos 
+black: beχːˤetːut	beχːˤˈe-tːu- 
+blood: bi 
+bone: lEki	leki	lekːi	lˈekːi 
+breast: Xatum	mam	moXor	χˈatum 
+breasts: Xatum	mam	moXor	χˈatum 
+burn: =ˈokːa-	=ˈukːa- 
+burn tr.: =ˈokːa-	=ˈukːa- 
+claw: ƛʼontʼˈol	χːeč 
+nail: ƛʼontʼˈol	χːeč 
+talon: ƛʼontʼˈol	χːeč 
+cloud: diɬʷ	diɬːʷ- 
+cold: χˤetːut	χˤˈe-tːu- 
+come: =qˤˈa	=ˈaƛi-	akLis	akɬis	atL~is 
+come from: =qˤˈa	=ˈaƛi-	akLis	akɬis	atL~is 
+be dead: =kʼˈa-	k"is	kʼis 
+dead: =kʼˈa-	k"is	kʼis 
+die: =kʼˈa-	k"is	kʼis 
+dog: gw~aCi	gʷači	gʷˈači 
+drink: Xubus	c"abus	cʼabus	cʼˈa-bu- 
+dry: qʼuretːut	qʼurˈe-tːu- 
+ear: oj	oy 
+earth: naq'ʷ	naqʼʷ 
+ground: naq'ʷ	naqʼʷ 
+land: naq'ʷ	naqʼʷ 
+soil: naq'ʷ	naqʼʷ 
+eat: =kʷan-	kummus 
+egg: genuk	gˈenukː- 
+eye: l-ur	lur 
+fat: may	miy 
+fat n.: may	miy 
+grease: may	miy 
+lubricant: may	miy 
+oil: may	miy 
+feather: cal 
+fire: oc"	ocʼ 
+fish: X"abX"i	XX~abX~i7	χˤabχˤi	χˤˈabχi 
+fly: parχbos	pˈarχː-bo- 
+fly v.: parχbos	pˈarχː-bo- 
+foot: aq 
+full: ac"u	ac"utu	aːcʼutːut	ˈaːcʼu-tːu- 
+give: =ƛo-	kɬos 
+good: hibatːu	hibˈa-tːu- 
+green: oˤlowtːut	oˤlˈow-tːu- 
+hair: č'aːˤri	čʼˈaːˤri 
+hand: Xol	kul 
+left hand: Xol	kul 
+right: Xol	kul 
+head: kartʼi	kˈartʼi	oˤnt 
+hear: =kˈo-	kos 
+heart: ikʼʷ 
+horn: bat	bˈatː- 
+1 sg.: =is	zo-n	zon 
+I: =is	zo-n	zon 
+kill: =ˈača-	ačas 
+knee: pX~omp	poXmp	poˤmp 
+be knowledgeable: sini	sˈini 
+know: sini	sˈini 
+leaf: k"aC"i	kaC"i	kačʼi	kʼˈačʼi 
+lie: =ˈaχa-	aχas 
+lie down: =ˈaχa-	aχas 
+liver: dilik"	dilikʼ	dilˈikʼ 
+long: aqatːut	lˈaːχa-tːu-	ˈaqa-tːu- 
+head louse: nac"	nacʼ	nˈacʼː- 
+louse: nac"	nacʼ	nˈacʼː- 
+male: bošor	bošˈor 
+man: %adam	%insan	adam	adˈam 
+many: labχanši	nˈaːqʼukan	nˈaːqʼukun-nu-	nˈoːqʼukan	nˈoːqʼukun 
+much: labχanši	nˈaːqʼukan	nˈaːqʼukun-nu-	nˈoːqʼukan	nˈoːqʼukun 
+multiple: labχanši	nˈaːqʼukan	nˈaːqʼukun-nu-	nˈoːqʼukan	nˈoːqʼukun 
+several: labχanši	nˈaːqʼukan	nˈaːqʼukun-nu-	nˈoːqʼukan	nˈoːqʼukun 
+flesh: akɬʼ	aƛʼ 
+meat: akɬʼ	aƛʼ 
+moon: bac 
+hill: mul 
+mountain: mul 
+mouth: sːob 
+name: c"or	cʼor 
+title: c"or	cʼor 
+neck: oˤč'lekːi	oˤčʼ-lˈekːi 
+new: mac"atu	mac"u	macʼatːut	macʼˈa-tːu- 
+night: iS	iš	ˈišː- 
+nighttime: iS	iš	ˈišː- 
+nose: muC	muč 
+not: =tʼu 
+adulterous: os	ˈosː- 
+one: os	ˈosː- 
+single: os	ˈosː- 
+that: to-	tow 
+the: os	ˈosː- 
+unprincipled: os	ˈosː- 
+human: %adam	%insan	adam	adˈam 
+human being: %adam	%insan	adam	adˈam 
+person: %adam	%insan	adam	adˈam 
+rain: χːˤel 
+rainy weather: χːˤel 
+red: jaˤt'annut	yˈaˤtʼan-nu- 
+path: deq"X$	dˈeqʼːˤ- 
+road: deq"X$	dˈeqʼːˤ- 
+route: deq"X$	dˈeqʼːˤ- 
+root: marχːu	mˈarχːu 
+round: gukːitːut	gukːˈi-tːu- 
+sand: sarsi	sˈarsi 
+say: bo-	bos	wa-r- 
+see: =ˈakːu-	akus	akːus 
+seed: ɬːʷin	ɬːʷinː- 
+sit: qʼiˤjqis	qʼˈeˤyqʼi- 
+hide: ili	qal 
+skin: ili	qal 
+sleep: aχukes	ˈaχu-ke- 
+little: tʼitːut	tʼˈi-tːu- 
+small: tʼitːut	tʼˈi-tːu- 
+smallness: tʼitːut	tʼˈi-tːu- 
+smoke: huqʼ 
+stand: =ˈoci- 
+star: XXoloSqX~an	XoloSqX~an	χːˤološqˤan	χːˤolˈoš=qˤan 
+rock: C"ElE	XonX~	qwX~en	qʷˤen	čʼelˈe 
+stone: C"ElE	XonX~	qwX~en	qʷˤen	čʼelˈe 
+sun: barq 
+swim: ɬːan as	ɬːan-a- 
+tail: oˤč 
+this: jamu	ya- 
+2 sg: u-n	un	wi-t 
+thou: u-n	un	wi-t 
+you: u-n	un	wi-t 
+tongue: %mac	mac 
+tooth: sot	sotː- 
+tree: kw~at"	qw~at"i	qʷˈatʼi 
+grind: q"wX$E	q'ʷˤe	qw"e	qʼʷˤe	q̣ɪwe 
+two: q"wX$E	q'ʷˤe	qw"e	qʼʷˤe	q̣ɪwe 
+go: =ˈoqˤe-	qˤes 
+walk: =ˈoqˤe-	qˤes 
+hot: ʁilitːut	ʁilˈi-tːu- 
+warm: ʁilitːut	ʁilˈi-tːu- 
+water: Lan	ɬːan	ɬːanː- 
+1 pl. inc.: =olˈo	Zw~En	lˈa-u	ne-n	nen	nˈen-tʼ-u 
+we: =olˈo	Zw~En	lˈa-u	ne-n	nen	nˈen-tʼ-u 
+we₁: =olˈo	Zw~En	lˈa-u	ne-n	nen	nˈen-tʼ-u 
+what: hani	hˈa-ni 
+white: čʼuˤbatːut	čʼuˤbˈa-tːu- 
+whiteness: čʼuˤbatːut	čʼuˤbˈa-tːu- 
+who: kʷi 
+who?: kʷi 
+female: ɬːonnol	ɬːonː-ˈol 
+woman: ɬːonnol	ɬːonː-ˈol 
+yellow: χaχatːut	χˈaχa-tːu- 
+distant: aχši	ˈaχ-ši 
+far: aχši	ˈaχ-ši 
+dull: =ˈiʁʷˤ-du-	=ˈiʁˤ-du-	iʁʷˤdut 
+heavy: =ˈiʁʷˤ-du-	=ˈiʁˤ-du-	iʁʷˤdut 
+serious: =ˈiʁʷˤ-du-	=ˈiʁˤ-du-	iʁʷˤdut 
+close: ɬːʷa-k	ɬːʷak 
+near: ɬːʷa-k	ɬːʷak 
+ner: ɬːʷa-k	ɬːʷak 
+salt: orχˤi	ˈorχˤi 
+short: kuːtʼatːut	kˈuːtʼa-tːu- 
+snake: jaˤt'i	yˈaˤtʼi 
+thin: kʼalatːut	kʼalˈa-tːu- 
+wind: hawa	hawˈa 
+earthworm: miliχˤu	milˈiχˤu 
+worm: miliχˤu	milˈiχˤu 
+year: sːan 
+3 sg.: tow 
+he: tow 
+she: tow 
+2 pl.: žʷen 
+ye: žʷen 
+you all: žʷen 
+3 pl.: teb 
+they: teb 
+here: išik 
+there: imik 
+where: danna 
+where?: danna 
+when: basa 
+when?: basa 
+how: hanžugur 
+how?: hanžugur 
+some: šumehannut 
+few: tʼinna 
+other: osːut 
+three: ƚeb	ɬeb 
+four: ebq.	ebqʼ 
+five: ƚ:o	ɬːo 
+broad: qʼʷatːut 
+wide: qʼʷatːut 
+wideness: qʼʷatːut 
+thick: diˤčatːut 
+narrow: q'ʷˤaq'ˤartːu 
+child: lo 
+principal wife: ɬːonnol 
+wife: ɬːonnol 
+husband: bošor 
+his mother: buwa 
+mother: buwa 
+my mother: buwa 
+father: abtːu 
+his father: abtːu 
+my father: abtːu 
+animal: ħawan 
+forest: χːʷak 
+woods: χːʷak 
+branch: χol 
+stick: χol 
+fruit: aχəran 
+flower: tʼeˤ 
+grass: hoti 
+cord: baˤkʼon 
+rope: baˤkʼon 
+fingernail: kɬ'ont'ol 
+leg: aq 
+wing: cal 
+gut: babkɬ'ʷ 
+guts: babkɬ'ʷ 
+insides: babkɬ'ʷ 
+intestine: babkɬ'ʷ 
+intestines: babkɬ'ʷ 
+back: sːon 
+suck: oxas 
+spit: tubus 
+vomit: χˤakɬʼbos 
+blow: hubus 
+breath: haˤhbos 
+breathe: haˤhbos 
+laugh: χˤaras 
+laughter: χˤaras 
+cogitate: arhas 
+reflect: arhas 
+think: arhas 
+smell: sːuntʼbos 
+sniff: sːuntʼbos 
+afraid: kɬʼinčʼatʼi 
+be afraid: kɬʼinčʼatʼi 
+fear: kɬʼinčʼatʼi 
+fright: kɬʼinčʼatʼi 
+alive: čʼagu 
+be alive: čʼagu 
+life: čʼagu 
+live: čʼagu 
+living: čʼagu 
+fight: anχ as 
+hunt: boχːˤo qˤes 
+beat: daχis 
+hit: daχis 
+strike: daχis 
+cut: atʼas 
+hack: atʼas 
+cut open: aqˤas 
+split: aqˤas 
+pierce: eq'ʷmus 
+stab: eq'ʷmus 
+scratch: gukːəbos 
+dig: jaːχˤas 
+tell lies: kʷačʼet bos 
+turn: kʷekːis 
+turn around: kʷekːis 
+turn round: kʷekːis 
+drop: ekas 
+fall: ekas 
+grasp: sas 
+hold: sas 
+hold in arm: sas 
+squeeze: qʼʷerqʼəbos 
+wring: qʼʷerqʼəbos 
+rub: kɬurbos 
+wipe: li as 
+wash: čučəbos 
+wash clothes: čučəbos 
+push: χit'bos 
+shove: χit'bos 
+throw: caχas 
+bind: etʼmus 
+fasten: etʼmus 
+tie: etʼmus 
+tie up: etʼmus 
+sew: dubɬːas 
+count: q'ˤummus 
+enumerate: q'ˤummus 
+number: q'ˤummus 
+tally: q'ˤummus 
+sing: χabus 
+have fun: iχˤmul as 
+play: iχˤmul as 
+float: ɬːan as 
+flow: čaχˤbos 
+freeze: oˤrčas 
+brook: haˤtəra 
+river: haˤtəra 
+stream: haˤtəra 
+lake: baˤri 
+ocean: ɬat 
+sea: ɬat 
+dust: gun 
+fog: ʁʷˤalqˤi 
+sky: dunil 
+snow: marχːəla 
+ice: qol 
+blaze: okːas 
+day: iq 
+daylight: iq 
+daytime: iq 
+bad: χːallut 
+evil: χːallut 
+rot: di etːitːut 
+rotten: di etːitːut 
+dirty: q'ˤábʁˤdut 
+filthy: q'ˤábʁˤdut 
+soiled: q'ˤábʁˤdut 
+straight: tʼalatːut 
+sharp: bitːut 
+blunt: eχdat'utːut 
+smooth: čula 
+damp: č'aːˤratːut 
+wet: č'aːˤratːut 
+correct: tʼalatːut 
+right side: oˤržut 
+left: qˤokdut 
+in: jak 
+inside: jak 
+if: nagah 
+because: daki tʼaši 

@@ -1,0 +1,152 @@
+all: fere	monuk 
+every: fere	monuk 
+ash: afu 
+ashes: afu 
+abdomen: kambu	kamb~u 
+belly: kambu	kamb~u 
+big: silai 
+bigness: silai 
+large: silai 
+bird: manik 
+bite: karat	n-karat 
+black: me-metam	metam 
+blood: dare 
+bone: duri 
+breast: susu 
+breasts: susu 
+burn: apu 
+burn tr.: apu 
+cloud: mutan 
+cold: ma-ndirun	ma-rindin	nd~irun	rind~in 
+come: ma	n-ma 
+come from: ma	n-ma 
+be dead: mat	n-mat 
+dead: mat	n-mat 
+die: mat	n-mat 
+dog: asu 
+drink: anum	énum 
+dry: Nretu	ma-ŋrétu 
+ear: tliŋe	tl~iNe 
+earth: omb~ak 
+ground: omb~ak 
+land: omb~ak 
+soil: omb~ak 
+eat: ane	n-ane 
+eye: mate 
+fat: minak 
+fat n.: minak 
+grease: minak 
+lubricant: minak 
+oil: minak 
+feather: fulu-n	fulun 
+fire: au 
+fish: ian 
+fly: n-turim	turim 
+fly v.: n-turim	turim 
+foot: eme 
+good: mone 
+green: lakteru	laktéru	lakwatan	lalatu 
+hair: buke 
+hand: lime 
+left hand: lime 
+right: lime 
+head: ulu 
+hear: deNar	n-deŋar 
+1 sg.: yaku 
+I: yaku 
+kill: fen	n-fen 
+be knowledgeable: fai	na-fai 
+know: fai	na-fai 
+leaf: done 
+lie: leNan	leŋan	narwa 
+lie down: leNan	leŋan	narwa 
+liver: ate 
+long: lawas	mé-lawas 
+head louse: kutu 
+louse: kutu 
+male: merwane	mérwane 
+man: tomwate	tomw~ate 
+flesh: isi 
+meat: isi 
+moon: bulan 
+mouth: susuke 
+name: Nare	ŋare 
+title: Nare	ŋare 
+neck: manuk	nawe 
+night: ndondam	nd~ond~am 
+nighttime: ndondam	nd~ond~am 
+nose: iri-n	irin 
+not: tate	to 
+adulterous: le:si	lese	sa 
+one: le:si	lese	sa 
+single: le:si	lese	sa 
+that: [a]no	[a]né	ane	ano 
+the: le:si	lese	sa 
+unprincipled: le:si	lese	sa 
+human: tomwate	tomw~ate 
+human being: tomwate	tomw~ate 
+person: tomwate	tomw~ate 
+rain: udan 
+rainy weather: udan 
+red: memeye	na-méméye 
+path: dalamtene 
+road: dalamtene 
+route: dalamtene 
+root: wakar 
+sand: knjai 
+say: bet	falak	n-bét	n-falak	n-otar	na-boti 
+see: keban	n-keban 
+sit: mtoran	na-m-toran 
+hide: kulit 
+skin: kulit 
+sleep: owe 
+little: kaianak	ma-rumat	rumat 
+small: kaianak	ma-rumat	rumat 
+smallness: kaianak	ma-rumat	rumat 
+smoke: masu	m|asu 
+stand: mdir 
+star: ftune 
+rock: bati 
+stone: bati 
+swim: kawal	n-kawal 
+tail: ikur 
+this: iye 
+2 sg: kmi	ko	ko[u] 
+thou: kmi	ko	ko[u] 
+you: kmi	ko	ko[u] 
+tongue: keri	kéri 
+tooth: nife 
+grind: duw	duwe 
+two: duw	duwe 
+go: fala	laye	mb~an	n-mban 
+walk: fala	laye	mb~an	n-mban 
+hot: mé-fanas 
+warm: mé-fanas 
+water: weye	wéye 
+1 pl. inc.: kami	kite 
+we: kami	kite 
+we₁: kami	kite 
+what: safe 
+white: futi	ma-futi 
+whiteness: futi	ma-futi 
+who: ise	isé 
+who?: ise	isé 
+female: bate 
+woman: bate 
+yellow: lakteru	laktéru 
+distant: lolo 
+far: lolo 
+dull: ma-bérat 
+heavy: ma-bérat 
+serious: ma-bérat 
+close: losir 
+near: losir 
+ner: losir 
+salt: sire 
+short: ma-buwe 
+snake: kasi 
+thin: baianak	mba-nisik 
+wind: mnaur 
+earthworm: laraksindak	ombak-nduam 
+worm: laraksindak	ombak-nduam 
+year: ŋarak 

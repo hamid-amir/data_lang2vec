@@ -1,0 +1,317 @@
+all: eall	gehwilc	ǣlc 
+every: eall	gehwilc	ǣlc 
+ash: asce 
+ashes: asce 
+bark: rind 
+big: grēat	micel 
+bigness: grēat	micel 
+large: grēat	micel 
+bird: fugel 
+bite: bītan	teran 
+black: blæc	sweart 
+blood: blod	blōd	drēor	swāt 
+bone: ban	bān 
+breast: breost	brēost	titt 
+breasts: breost	brēost	titt 
+claw: clifer	clā 
+nail: clifer	clā 
+talon: clifer	clā 
+cloud: genip	wolcen 
+cold: ceald	cōl 
+come: cuman	kim8 
+come from: cuman	kim8 
+be dead: cwelan	dēad	dēaθ	steorfan	stierf8	sweltan	swylt 
+dead: cwelan	dēad	dēaθ	steorfan	stierf8	sweltan	swylt 
+die: cwelan	dēad	dēaθ	steorfan	stierf8	sweltan	swylt 
+dog: hund 
+drink: driNk8	drincan 
+dry: drȳge	θyrre 
+ear: eare	ēare 
+earth: folde	land 
+ground: folde	land 
+land: folde	land 
+soil: folde	land 
+eat: etan 
+egg: ǣg 
+eye: eage	ēage 
+feather: feθer 
+fire: bæt	fir	fȳr 
+fish: fisc	fisk 
+fly: flēogan 
+fly v.: flēogan 
+foot: fōt 
+full: ful 
+give: giefan	sellan 
+good: gōd 
+green: grēne 
+hair: feax	hǣr 
+hand: folm	hand	mund 
+left hand: folm	hand	mund 
+right: folm	hand	mund 
+head: hafela	hēafod 
+hear: hier8	hīeran 
+heart: heorte 
+horn: horn 
+1 sg.: ic	ik 
+I: ic	ik 
+kill: cwellan	dȳdan	fordōn	slēan 
+knee: cnēo	kneow 
+be knowledgeable: cnāwan	cunnan	ongietan	witan 
+know: cnāwan	cunnan	ongietan	witan 
+leaf: leaf	lēaf 
+lie: licgan 
+lie down: licgan 
+liver: lifer 
+long: lang 
+head louse: lus	lūs 
+louse: lus	lūs 
+male: ceorl	mann	wer	wǣpman 
+man: guma	man 
+many: fela	micel	monige 
+much: fela	micel	monige 
+multiple: fela	micel	monige 
+several: fela	micel	monige 
+flesh: flǣsc 
+meat: flǣsc 
+moon: mōna 
+hill: beorg	dūn	hyll	munt 
+mountain: beorg	dūn	hyll	munt 
+mouth: mūθ 
+name: gecīgnes	nama 
+title: gecīgnes	nama 
+neck: heals	swēora 
+new: niowe	nīwe 
+night: niht	nit 
+nighttime: niht	nit 
+nose: nasu	nosu 
+adulterous: an	án 
+one: an	án 
+single: an	án 
+that: an	án 
+the: an	án 
+unprincipled: an	án 
+human: guma	man 
+human being: guma	man 
+person: guma	man 
+rain: regn 
+rainy weather: regn 
+red: rudu	rēad	rēod 
+path: strEt	weg 
+road: strEt	weg 
+route: strEt	weg 
+root: rōt	wyrttruma	wyrtwala 
+round: sinewealt	sinhwerfel	sintryndel 
+sand: sand 
+say: cweθan	secgan 
+see: sie8	sēon 
+seed: sǣd 
+sit: sittan 
+hide: fell	hid	hȳd 
+skin: fell	hid	hȳd 
+sleep: slǣpan	swefan 
+little: lȳtel	smæl 
+small: lȳtel	smæl 
+smallness: lȳtel	smæl 
+smoke: rēc	θrosm 
+star: steora	steorra	tungol 
+rock: flint	stan	stān 
+stone: flint	stan	stān 
+sun: sune	sunna	sunne 
+swim: rōwan	swimman 
+tail: tægl 
+2 sg: 8u	θū 
+thou: 8u	θū 
+you: 8u	θū 
+tongue: tuNe	tunge 
+tooth: to8	tōθ 
+tree: treow 
+grind: tw~egen	twá	twēgen 
+two: tw~egen	twá	twēgen 
+go: fēθan	stæppan	treppan 
+walk: fēθan	stæppan	treppan 
+hot: hlēow	wearm 
+warm: hlēow	wearm 
+water: wEter	wæter 
+1 pl. inc.: we	wē 
+we: we	wē 
+we₁: we	wē 
+what: hwæt 
+white: hwīt 
+whiteness: hwīt 
+who: hwā 
+who?: hwā 
+female: cwēn	wīf	wīfman 
+woman: cwēn	wīf	wīfman 
+yellow: geolo 
+distant: feorr	fyrlen	lange	unnēah 
+far: feorr	fyrlen	lange	unnēah 
+dull: hefig	swǣr 
+heavy: hefig	swǣr 
+serious: hefig	swǣr 
+close: gehende	nēah 
+near: gehende	nēah 
+ner: gehende	nēah 
+salt: sealt 
+short: scamm	sceort 
+snake: nǣdre	snaca 
+thin: θynne 
+wind: wind 
+earthworm: wurm	wyrm 
+worm: wurm	wyrm 
+year: gēar 
+2 pl.: gē 
+ye: gē 
+you all: gē 
+3 pl.: hīe 
+they: hīe 
+where: hwanon	hwǣr 
+where?: hwanon	hwǣr 
+when: hwonne 
+when?: hwonne 
+how: hu 
+how?: hu 
+some: sum 
+few: fēa	hwōn	lȳt 
+three: þrí	θrīe 
+four: féower	fēower 
+five: fíf	fīf 
+broad: brād	sīd	wīd 
+wide: brād	sīd	wīd 
+wideness: brād	sīd	wīd 
+fat: lynd	smeoru 
+thick: brad	θicce 
+narrow: enge	nearu	unbrād 
+child: bearn	cild 
+principal wife: cwēn	wīf 
+wife: cwēn	wīf 
+husband: wer 
+his mother: mōdor 
+mother: mōdor 
+my mother: mōdor 
+father: fæder 
+his father: fæder 
+my father: fæder 
+animal: dēor 
+forest: holt	weald	wudu 
+woods: holt	weald	wudu 
+branch: bōg	gierd	sprot	telga	twig 
+stick: bōg	gierd	sprot	telga	twig 
+fruit: ofet	æppel 
+flower: blæd	blōstm 
+grass: græs	grǣde	gærs 
+cord: līne	rāp	streng	sāl	wiθθe 
+rope: līne	rāp	streng	sāl	wiθθe 
+grease: lynd	smeoru 
+fingernail: nægl 
+leg: sceanca	scīa 
+wing: feθera	fiθere 
+gut: innefaren	innoθ	ropp	θearm 
+guts: innefaren	innoθ	ropp	θearm 
+insides: innefaren	innoθ	ropp	θearm 
+intestine: innefaren	innoθ	ropp	θearm 
+intestines: innefaren	innoθ	ropp	θearm 
+back: bæc	hrycg 
+suck: sūcan	sūgan 
+spit: hrǣcan	spigettan	spyttan	spǣtan 
+vomit: geblāwan	spīwan 
+blow: blāwan	wāwan 
+breath: blǣd	fnǣst	oroθ	orθian	ēθian	ǣθm 
+breathe: blǣd	fnǣst	oroθ	orθian	ēθian	ǣθm 
+laugh: hliehhan 
+laughter: hliehhan 
+cogitate: hogian	hycgan	θencan 
+reflect: hogian	hycgan	θencan 
+think: hogian	hycgan	θencan 
+smell: gestincan	geswæccan 
+sniff: gestincan	geswæccan 
+afraid: ege	forhto	ondrysnu 
+be afraid: ege	forhto	ondrysnu 
+fear: ege	forhto	ondrysnu 
+fright: ege	forhto	ondrysnu 
+alive: cwicu	feorh	libban	libbende	lifian	līf 
+be alive: cwicu	feorh	libban	libbende	lifian	līf 
+life: cwicu	feorh	libban	libbende	lifian	līf 
+live: cwicu	feorh	libban	libbende	lifian	līf 
+living: cwicu	feorh	libban	libbende	lifian	līf 
+fight: campian	feohtan	wīgan 
+hunt: huntian 
+beat: bēatan	cnīdan	dengan	drepan	hnæppan	slēan	θerscan 
+hit: bēatan	cnīdan	dengan	drepan	hnæppan	slēan	θerscan 
+strike: bēatan	cnīdan	dengan	drepan	hnæppan	slēan	θerscan 
+cut: ceorfan	hēawan	snīθan 
+hack: ceorfan	hēawan	snīθan 
+cut open: clēofan 
+split: clēofan 
+pierce: stician	stingan	θyddan 
+stab: stician	stingan	θyddan 
+dig: delfan	grafan 
+tell lies: lēogan 
+stand: standan 
+turn: hwearfian	tyrnan	θrāwan 
+turn around: hwearfian	tyrnan	θrāwan 
+turn round: hwearfian	tyrnan	θrāwan 
+drop: drēosan	feallan	gecringan	hrēosan 
+fall: drēosan	feallan	gecringan	hrēosan 
+grasp: habban	healdan 
+hold: habban	healdan 
+hold in arm: habban	healdan 
+squeeze: wringan 
+wring: wringan 
+rub: gnīdan 
+wipe: gnīdan 
+wash: baθian	swillan	wæscan	θwēan 
+wash clothes: baθian	swillan	wæscan	θwēan 
+push: drīfan	scūfan	θyddan 
+shove: drīfan	scūfan	θyddan 
+throw: torfian	weorpan 
+bind: bindan	cnyttan	tīegan	wrīθan 
+fasten: bindan	cnyttan	tīegan	wrīθan 
+tie: bindan	cnyttan	tīegan	wrīθan 
+tie up: bindan	cnyttan	tīegan	wrīθan 
+sew: sēowan 
+count: rīman	tellan 
+enumerate: rīman	tellan 
+number: rīman	tellan 
+tally: rīman	tellan 
+sing: galan	singan 
+have fun: gamenian	plegian	spilian 
+play: gamenian	plegian	spilian 
+float: flēotan	swimman 
+flow: flōwan	iernan	rinnan	tōglīdan 
+brook: brōc	burna	rıθ	strēam	sīc	ēa 
+river: brōc	burna	rıθ	strēam	sīc	ēa 
+stream: brōc	burna	rıθ	strēam	sīc	ēa 
+lake: mere	sǣ 
+ocean: brim	flod	hæf	mere 
+sea: brim	flod	hæf	mere 
+dust: dūst 
+fog: mist 
+sky: heofon	rodor	swegl 
+snow: snāw 
+ice: īs 
+blaze: bærnan	ælan 
+burn: bærnan	ælan 
+day: dæg	dōgor 
+daylight: dæg	dōgor 
+daytime: dæg	dōgor 
+bad: yfel 
+evil: yfel 
+rot: forrotod	gemolsnod 
+rotten: forrotod	gemolsnod 
+dirty: fūl	gedrōf	horig	unclǣne 
+filthy: fūl	gedrōf	horig	unclǣne 
+soiled: fūl	gedrōf	horig	unclǣne 
+straight: riht 
+sharp: scearp	teart 
+blunt: āstynt 
+smooth: smēθe	unrūh 
+damp: fūht	wǣt 
+wet: fūht	wǣt 
+correct: riht 
+right side: swīθra 
+left: winstra 
+in: in	innan 
+inside: in	innan 
+and: ond 
+if: gif 
+because: forθon 

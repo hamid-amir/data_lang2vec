@@ -1,0 +1,623 @@
+all: yëkïvarë 
+arm: tabë 
+arm: tambʌ 
+ashes: baw | mbwʌ 
+ashes: bwë | mbwʌ 
+ashes: mbaw | mbwʌ 
+ashes: mbwʌ 
+back: kwk 
+back: wmwmŋ 
+back: wmwng 
+bad: yëdï 
+bad: yëdïvïk 
+bad: yʌndə 
+bad: yʌndəɣək 
+bark: mi bakë | myʌ mbagə 
+bark: myë bagë | myʌ mbagə 
+bark: myʌ mbagə 
+bark: my mbakʌ | myʌ mbagə 
+belly: yarə 
+belly: yari | yarə 
+belly: yarï | yarə 
+belly: yary | yarə 
+big: madï | mandə 
+big: mandə 
+big: walïmani | mandə 
+bird: wavi | waɣyʌ 
+bird: wavyë | waɣyʌ 
+bird: waɣy | waɣyʌ 
+bird: waɣyʌ 
+bite: cyʌ | tyʌ 
+bite: cyë | tyʌ 
+bite: tyʌ 
+bite: tyë | tyʌ 
+black: gïlï | ŋgərə 
+black: gïrï | ŋgərə 
+black: ŋgələ | ŋgərə 
+black: ŋgərə 
+blood: win | wyn 
+blood: wyn 
+blow: ya-bïlï 
+blow: yambələ 
+blow: yarək 
+blow: ya-rïk 
+bone: aɣʌ | avo	aɣʌ 
+bone: abë | avo	aɣʌ 
+bone: avë | avo	aɣʌ 
+bone: yapʌ | avo	aɣʌ 
+bone: yapë | avo	aɣʌ 
+branch: mi dagu 
+branch: myʌ cəmbʌ 
+branch: myë cïbë 
+branch: my ndaŋgw 
+breast: muyn | my~o	myʌ 
+breast: mwyn | my~o	myʌ 
+breast: myʌ | my~o	myʌ 
+breast: myë | my~o	myʌ 
+brother: acə 
+brother: acï 
+brother: ɲəmway 
+brother: madï 
+brother: mandə 
+brother: nyïmway 
+brother: waykʌ 
+brother: waykë 
+burn: twʌ 
+burn: twë 
+chest: kwavʌ 
+chest: kwëvi 
+chest: təmkʌ 
+chest: tïmkë 
+child: ɲan 
+child: ɲaŋ 
+child: nyan 
+child: nyang 
+chin: tak 
+chin: taknapʌ yapʌ 
+chin: takngapë yapï 
+cloud: ɲərə 
+cloud: nyïrï | ɲərə 
+cold: nəgwrək 
+cold: nïgurïk | nəgwrək 
+cold: ypma | nəgwrək 
+come: ya 
+cut: kərək 
+cut: kïrïk 
+cut: rakwʌ 
+cut: rakwë 
+dig: ɣa 
+dig: gu 
+dig: ŋgw 
+dig: pu 
+dig: takŋʌ 
+dig: takngë 
+dig: va 
+dig: vë 
+dog: warʌ | waro	warʌ 
+dog: warë | waro	warʌ 
+drink: rə 
+dry: pwʌ | rəka 
+dry: pwë | rəka 
+dry: rəka 
+dry: rïka | rəka 
+earth: kəpma 
+earth: kïpma | kəpma 
+earth: kupma zumbru | kəpma 
+ear: wan 
+eat: kʌ 
+eat: kë | kʌ 
+eat: malïkngë | kʌ 
+eat: nyïrïk | kʌ 
+egg: bwadï | ŋgək 
+egg: gïk | ŋgək 
+egg: mbwandə | ŋgək 
+egg: ŋgək 
+elbow: (tabë) kwari 
+elbow: (tabë) kwaryë 
+elbow: tambʌ kwary 
+elbow: tambʌ kwaryʌ 
+excrement: dyë 
+eye: meniyë | mynyʌ	my~ny~o 
+eye: mini | mynyʌ	my~ny~o 
+eye: minyë | mynyʌ	my~ny~o 
+eye: myny | mynyʌ	my~ny~o 
+eye: mynyʌ | mynyʌ	my~ny~o 
+fall: takyʌ 
+fall: takyë 
+fall: taləkʌ 
+fall: talïkë 
+far: cəkʌ 
+far: cïkë | cəkʌ 
+father: yaɣʌ 
+father: yapʌ 
+father: yapë 
+father: yavë 
+fat (n.): kwyʌ 
+fat (n.): kwyë 
+fear: wk yʌ 
+fear: wk yë 
+fear: wpm kwʌ 
+fear: wpm kwë 
+feather: ywy 
+few: navaykŋ 
+few: nɟəv 
+fight: waryʌ 
+fingernail: nəmbyʌ 
+fingernail: nïbyë 
+fingernail: yaŋdə 
+fingernail: yangdï 
+fire: kwinya | kwyɲʌ	kw~y5o	ya 
+fire: kwinyë | kwyɲʌ	kw~y5o	ya 
+fire: kwuna | kwyɲʌ	kw~y5o	ya 
+fire: kwyɲʌ | kwyɲʌ	kw~y5o	ya 
+fire: kwyɲa | kwyɲʌ	kw~y5o	ya 
+fire: ya | kwyɲʌ	kw~y5o	ya 
+fish: kapi | pwa kwapmyʌ	pw~a kw~apmy~o 
+fish: kapy | pwa kwapmyʌ	pw~a kw~apmy~o 
+fish: pwa kwapmyʌ | pwa kwapmyʌ	pw~a kw~apmy~o 
+fish: pwa kwapmyë | pwa kwapmyʌ	pw~a kw~apmy~o 
+flower: mawyʌ 
+flower: mawyë 
+flower: mi ju 
+flower: my nɟw 
+fly (n.): car 
+fly (n.): carə 
+fly (n.): carï 
+fly (v.): pëwrë 
+fly (v.): pʌwrʌ 
+fly (v.): wrëkë 
+fly (v.): wrʌkʌ 
+fog: bwë waw 
+fog: kugun 
+fog: kwŋgwn 
+fog: mbwʌ waw 
+foot: kwdë (man) 
+foot: kwndə man 
+foot: wma man 
+forest: kabë 
+forest: kambʌ 
+four: kïrï-kïrï 
+four: nëwarë 
+fruit: cək 
+fruit: cəkŋ 
+fruit: cïk 
+fruit: cïkng 
+full: caʌpykŋ | wyak3k	wyakək 
+full: cëpikng | wyak3k	wyakək 
+full: wyakək | wyak3k	wyakək 
+full: wyakïk | wyak3k	wyakək 
+give: kwi | kwyʌ 
+give: kwy | kwyʌ 
+give: kwyʌ 
+give: kwyë | kwyʌ 
+good: ykʌ | ykərə 
+good: ykë | ykərə 
+good: ykərə 
+good: ykïrï | ykərə 
+grass: warʌ 
+grass: warë 
+grass: wi 
+grass: wy 
+hair: nəmbə 
+hair: nïbï | nəmbə 
+hair: nibu | nəmbə 
+hair: ywi | nəmbə 
+hair: ywy | nəmbə 
+hand: nwë tabë | tw~o tabo 
+hand: nwʌ tambʌ | tw~o tabo 
+hand: tabë | tw~o tabo 
+hand: tabë makwyëng | tw~o tabo 
+hand: tambʌ makwyʌŋ | tw~o tabo 
+head: kucïk | kwcək 
+head: kuzuk | kwcək 
+head: kwcək 
+head: kwcəkŋ 
+head: (makng) kucïkng | kwcək 
+hear: kwʌ | kw~o	kwʌ 
+hear: kwë | kw~o	kwʌ 
+heart: mwalëbi | mwalʌmby 
+heart: mwalʌmby 
+heart: twcəkŋ | mwalʌmby 
+heart: tw-cïk | mwalʌmby 
+heart: tw-cïkng | mwalʌmby 
+heavy: ɣak 
+heavy: ɣakŋ 
+heavy: vak | ɣak 
+heavy: vakng | ɣak 
+he/she: dï 
+he/she: ndə 
+he/she: ni 
+he/she: ny 
+he/she: y 
+he/she: yi 
+hit: rəkak 
+hit: vya 
+hit: vyë 
+hit: waryë 
+hit: ɣyʌ 
+hit: ɣya 
+hold: kurï 
+hold: kwrə 
+house: gë 
+house: ŋgʌ 
+how: yampkë 
+how: yëkënëyk 
+I: nwʌ | wn3	wnə 
+I: nwë | wn3	wnə 
+I: wnə | wn3	wnə 
+I: w-nï | wn3	wnə 
+kill: vyë | ɣyʌ 
+kill: ɣyʌ 
+knee: (man) kwari | man kw~aryo 
+knee: (man) kwaryë | man kw~aryo 
+lake: pwa 
+lake: tawbwë 
+lake: tawmbwʌ 
+laugh: cagi 
+laugh: cagyë 
+laugh: caŋgy 
+laugh: caŋgyʌ 
+leaf: mi jïnagï | my~o 53go	myʌ ɲəŋgʌ 
+leaf: myʌ ɲəŋgʌ | my~o 53go	myʌ ɲəŋgʌ 
+leaf: myï nyïgë | my~o 53go	myʌ ɲəŋgʌ 
+leaf: my nɟənaŋgə | my~o 53go	myʌ ɲəŋgʌ 
+left: aki twë (tabë) 
+left: aky twʌ tambʌ 
+left: yaki (tabë) 
+left: yaky tambʌ 
+leg: jïgïrï 
+leg: man 
+lie: kwa 
+liver: wpyʌ | wpy~o	wpyʌ 
+liver: wp-yë | wpy~o	wpyʌ 
+liver: wrəpmway | wpy~o	wpyʌ 
+liver: wr-ïpmway | wpy~o	wpyʌ 
+long: cəɣərʌ 
+long: cəpərʌ | cəɣərʌ 
+long: cïpïpë | cəɣərʌ 
+long: cïvïrë | cəɣərʌ 
+louse: ɲəkʌ | 53ko 
+louse: këmalï | 53ko 
+louse: kʌmalə | 53ko 
+louse: nyïkë | 53ko 
+man: dwë | dw~o 
+man: ndwʌ | dw~o 
+many: kavwayk | kaɣwayk 
+many: kaɣwayk 
+many: madïkng | kaɣwayk 
+many: mandəkŋ | kaɣwayk 
+meat: kwamwi 
+meat: kwamwy 
+meat: kwamyʌ 
+meat: kwamyë 
+moon: bwapwë | mbwaɣwʌ 
+moon: bwavwë | mbwaɣwʌ 
+moon: mbwapwʌ | mbwaɣwʌ 
+moon: mbwaɣwʌ 
+moon: pwëbwë | mbwaɣwʌ 
+mosquito: kyʌ 
+mosquito: kyë 
+mosquito: məkycə 
+mosquito: mïkicï 
+mother: nwʌ 
+mother: nwë 
+mountain: cək | T3k	cək 
+mountain: cïk | T3k	cək 
+mountain: nəmbw | T3k	cək 
+mountain: nïbwë | T3k	cək 
+mouth: këbëkë 
+name: cə | T3	cə 
+name: cï | T3	cə 
+nape: kwbwë mak 
+nape: kwbwë yapë 
+nape: kwbwʌ mak 
+nape: kwbwʌ yapʌ 
+navel: ari 
+navel: ary 
+navel: wpwp 
+near: kaɣʌkʌ 
+near: kapwʌmbwʌ | kaɣʌkʌ 
+neck: kwʌbwy yambə | nək 
+neck: kwëbwi yabï | nək 
+neck: nək 
+neck: nïk | nək 
+new: kagalï | kagal3	kaŋgalə 
+new: kaŋgalə | kagal3	kaŋgalə 
+night: ŋgan | gan	ŋgan 
+nose: sama | tamw~o	tamwʌ 
+nose: tamë | tamw~o	tamwʌ 
+nose: tamwë | tamw~o	tamwʌ 
+not: kayʌ 
+not: kayë | kayʌ 
+not: mapm | kayʌ 
+old: ɣarə 
+old: cəkwʌ 
+old: cïkwë 
+old: dwëytdë dwë 
+old: fary dwʌ 
+old: fary dwë 
+old: ndwʌytndʌ ndwʌ 
+old: varï 
+one: napʌ | napʌ	yokw~ar3k	yʌkwarək 
+one: napë | napʌ	yokw~ar3k	yʌkwarək 
+one: yëkwarïk | napʌ	yokw~ar3k	yʌkwarək 
+one: yʌkwarək | napʌ	yokw~ar3k	yʌkwarək 
+other: kavyëk 
+other: kaɣyʌk 
+pull: aran 
+pull: lərakaryʌ 
+pull: lïrakaryë 
+pull: rakarə 
+pull: rakarï 
+push: kacalʌ 
+push: kacalë 
+push: wakukwë 
+push: wakwkwʌ 
+rain: mac | mayk 
+rain: macɲ | mayk 
+rain: macny | mayk 
+rain: mayk 
+red: win | wyndə 
+red: win-dï | wyndə 
+red: wyn | wyndə 
+red: wyndə 
+right: ndwʌ twʌ | tw~o tabo 
+right: yakylə twʌ tambʌ | tw~o tabo 
+ripe: nəkŋwʌ 
+ripe: nəkwʌ 
+ripe: nïkngwë 
+ripe: nïkwë 
+road: yabï | yab3 
+road: yambə | yab3 
+root: mi pïrïgi | pərəŋgy 
+root: my pərəŋgy 
+root: pərəŋgy 
+root: pïrïgi | pərəŋgy 
+rope: bagwyë 
+rope: kəpə 
+rope: kïpï 
+rope: mbaŋgwyʌ 
+rotten: byëkëk 
+rotten: mbyʌkʌk 
+rotten: nukwë 
+rotten: nwkwʌ 
+salt: kwik | kwyk 
+salt: kwipm | kwyk 
+salt: kwyk 
+salt: kwypm | kwyk 
+sand: atʌwyʌ | atʌwyʌ	ayʌə	vəcə 
+sand: ayë | atʌwyʌ	ayʌə	vəcə 
+sand: ayʌə | atʌwyʌ	ayʌə	vəcə 
+sand: kwəcʌ | atʌwyʌ	ayʌə	vəcə 
+sand: kwïcë | atʌwyʌ	ayʌə	vəcə 
+sand: vəcə | atʌwyʌ	ayʌə	vəcə 
+say: bul | atʌwyʌ	ayʌə	vəcə 
+say: bulï | atʌwyʌ	ayʌə	vəcə 
+say: mbwl | atʌwyʌ	ayʌə	vəcə 
+say: mbwlə | atʌwyʌ	ayʌə	vəcə 
+say: wë-kuyë | atʌwyʌ	ayʌə	vəcə 
+scratch: gïrï 
+scratch: gïrïkï 
+scratch: ŋgərə 
+scratch: ŋgərəkə 
+see: ɣə | v3	ɣə 
+see: vï | v3	ɣə 
+sharp: nəmby 
+sharp: nïbi 
+sharp: nïbyë 
+short: gïrïk | ŋgərək 
+short: mwëkng | ŋgərək 
+short: mwʌkŋ | ŋgərək 
+short: ŋgərək 
+sister: ɲəŋgʌ 
+sister: nyïgë 
+sister: wakəcə 
+sister: wakïcï 
+sit: rʌ 
+sit: rë | rʌ 
+skin: bagë | bag3	mbagə 
+skin: bakë | bag3	mbagə 
+skin: bunggë | bag3	mbagə 
+skin: mbagə | bag3	mbagə 
+skin: mbakʌ | bag3	mbagə 
+sleep: cə kea | cə kwa 
+sleep: cə kwa 
+sleep: cï (kwa) | cə kwa 
+small: cəɣəmbək 
+small: cəpʌ | cəɣəmbək 
+small: cïpë | cəɣəmbək 
+small: cïvïbïk | cəɣəmbək 
+smell: yamë 
+smoke: ya-kngi | yakyʌ 
+smoke: yakŋy | yakyʌ 
+smoke: yakyʌ 
+smoke: ya-kyë | yakyʌ 
+snake: kabway | kambwʌy 
+snake: kabwëy | kambwʌy 
+snake: kambway | kambwʌy 
+snake: kambwʌy 
+spit: cïpmi 
+spit: cïpmyë 
+spit: yarə kərə 
+spit: yar yʌ 
+split: pïgï 
+split: vi 
+stand: bwë 
+stand: kurë 
+stand: tə 
+stand: tï 
+star: kun | kwn	kw~n 
+star: kwn | kwn	kw~n 
+stone: ba | ba	mba 
+stone: mba | ba	mba 
+stone: pa | ba	mba 
+sun: ɲa | 5a	ɲa 
+sun: nya | 5a	ɲa 
+swim: ɣərə | kərʌw y 
+swim: kərʌw y 
+swim: kïrëw yi | kərʌw y 
+swim: vïrï | kərʌw y 
+tail: gïni | ŋgənyʌ 
+tail: gïnyë | ŋgənyʌ 
+tail: ŋgəny | ŋgənyʌ 
+tail: ŋgənyʌ 
+that: wën | wʌn 
+that: wëni | wʌn 
+that: wʌn 
+that: wʌny 
+they: di 
+they: dyë 
+they: ndy 
+they: ndyʌ 
+they two: bïrë 
+they two: bïrï 
+they two: mbərə 
+thigh: da 
+thigh: dawʌ 
+thigh: dawë 
+this: mən 
+this: mïn | mən 
+thou: ɲənə | m3n3 
+thou: mənə | m3n3 
+thou: mï-nï/ny-ïnï | m3n3 
+thou: mï-nï/(n)y-nï | m3n3 
+thou: mï-nï/y-nï | m3n3 
+thou: ŋgwrə | m3n3 
+thou: ynə | m3n3 
+three: mugulikng 
+three: mwŋgwlykŋ 
+three: nəŋgwlək 
+three: nïgulïk 
+throat: kwʌbwy yambə 
+throat: kwëbwi yabï 
+throat: nək 
+throat: nïk 
+tie: gi 
+tie: ŋgy 
+tongue: təkalək | t3kal3k	təkalək 
+tongue: təkŋalə | t3kal3k	təkalək 
+tongue: tïkalïk | t3kal3k	təkalək 
+tongue: tïkngalï | t3kal3k	təkalək 
+tooth: nəmby | n3by~o	nəmbyʌ 
+tooth: nəmbyʌ | n3by~o	nəmbyʌ 
+tooth: nïbi | n3by~o	nəmbyʌ 
+tooth: nïbyë | n3by~o	nəmbyʌ 
+tree: mi | my~o 
+tree: my | my~o 
+tree: myʌ | my~o 
+tree: myë | my~o 
+tree: my mbapʌ | my~o 
+tree: my mbavʌ | my~o 
+tree: nwa my | my~o 
+tree: nwa myʌ | my~o 
+turn: pəkwpm 
+turn: pïkupm 
+turn: wrakwʌ 
+turn: wrakwë 
+two: ɣəryk | v3ryk	vərykŋ	ɣəryk 
+two: ɣərykŋ | v3ryk	vərykŋ	ɣəryk 
+two: vïrik | v3ryk	vərykŋ	ɣəryk 
+two: vïrikng | v3ryk	vərykŋ	ɣəryk 
+vomit: ŋgwyʌ 
+walk: wʌcʌ y 
+walk: y 
+walk: yi 
+warm: aik 
+warm: ayk 
+warm: kwinya 
+wash: yakwʌ 
+wash: yakwak 
+wash: yakwë 
+water: gu | gw	ŋgw 
+water: ku | gw	ŋgw 
+water: ŋgw | gw	ŋgw 
+weep: gëra 
+weep: ŋgəra 
+we: nanə | nan3	non3 
+we: na-nï | nan3	non3 
+we two (incl.): nʌnə 
+we two (incl.): nonə 
+we two: nënï 
+what: gapwë | yʌkə 
+what: ŋgapwʌ | yʌkə 
+what: yëkï | yʌkə 
+what: yʌkə 
+when: yʌnəwʌ cʌy 
+when: ynʌ yʌ 
+where: yënïwë-nï 
+where: ynë kakwë 
+where: yʌnəwʌ-nə 
+where: ynʌ kakwʌ 
+white: bwë | wamwʌ 
+white: mbwʌ | wamwʌ 
+white: walwap | wamwʌ 
+white: wamwʌ 
+white: wamwë | wamwʌ 
+who: kənʌ 
+who: kënë | kənʌ 
+who: kïnë | kənʌ 
+who: kʌnʌ | kənʌ 
+wind: murï | mwrə 
+wind: muru | mwrə 
+wind: mwrə 
+wind: mwrw | mwrə 
+wing: yk 
+wing: ykng 
+wing: ykŋ 
+with: lï 
+with: wë 
+woman: ta 
+woman: takwʌ 
+woman: takwë 
+wood: myʌ ŋgərək 
+you: gu-rï | m3n3 
+you two: bïrï 
+you two: mbərə 
+ash: mbwʌ 
+abdomen: yarə 
+bigness: mandə 
+large: mandə 
+breasts: my~o	myʌ 
+come from: ya 
+ground: kəpma 
+land: kəpma 
+soil: kəpma 
+fly: wrʌkʌ 
+fly v.: wrʌkʌ 
+left hand: tw~o tabo 
+1 sg.: wn3	wnə 
+lie down: kwa 
+head louse: 53ko 
+male: ndwʌ 
+much: kaɣwayk 
+multiple: kaɣwayk 
+several: kaɣwayk 
+hill: T3k	cək 
+title: T3	cə 
+nighttime: gan	ŋgan 
+adulterous: napʌ	yokw~ar3k	yʌkwarək 
+single: napʌ	yokw~ar3k	yʌkwarək 
+the: napʌ	yokw~ar3k	yʌkwarək 
+unprincipled: napʌ	yokw~ar3k	yʌkwarək 
+human: dw~o 
+human being: dw~o 
+person: dw~o 
+rainy weather: mayk 
+path: yab3 
+route: yab3 
+hide: bag3	mbagə 
+little: cəɣəmbək 
+smallness: cəɣəmbək 
+rock: ba	mba 
+2 sg: m3n3 
+grind: v3ryk	vərykŋ	ɣəryk 
+1 pl. inc.: nan3	non3 
+we₁: nan3	non3 
+whiteness: wamwʌ 
+who?: kənʌ 
+female: ta 
+distant: cəkʌ 
+dull: ɣak 
+serious: ɣak 
+close: kaɣʌkʌ 
+ner: kaɣʌkʌ 

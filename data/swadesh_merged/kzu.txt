@@ -1,0 +1,263 @@
+all: sivimoñi 
+every: sivimoñi 
+ash: katiña 
+ashes: katiña 
+abdomen: tia- 
+belly: tia- 
+big: mɤai 
+bigness: mɤai 
+large: mɤai 
+bird: ma 
+bite: cakehĩ 
+black: kəvoɤe 
+blood: nena 
+bone: tukwe	tukw~e 
+breast: tuntu	tunt~u 
+breasts: tuntu	tunt~u 
+burn: tirji 
+burn tr.: tirji 
+cloud: bau 
+cold: məriri 
+come: mai 
+come from: mai 
+be dead: mavu 
+dead: mavu 
+die: mavu 
+dog: ko5e	koñe 
+drink: ti-unto	tiunt~o	unt~o 
+dry: karɤare 
+ear: ti5a	tinã 
+eat: ti-anto 
+egg: natu 
+eye: nuentugu	nuent~ugu 
+feather: ma-rugu	marugu 
+fire: aijare 
+fish: ji 
+fly: tuɤau 
+fly v.: tuɤau 
+good: wane 
+green: nendeneñi 
+hair: -ragu 
+hand: ia	ia- 
+left hand: ia	ia- 
+right: ia	ia- 
+head: poɤoro 
+hear: nono 
+1 sg.: noxo	noɤo 
+I: noxo	noɤo 
+kill: eɤua mavu 
+be knowledgeable: kericawe 
+know: kericawe 
+leaf: dagu 
+lie: ti-eno|to 
+lie down: ti-eno|to 
+liver: netigi 
+long: mərawe 
+head louse: oti 
+louse: oti 
+male: tanta 
+man: karu 
+moon: sijara 
+mouth: siebo 
+name: [karu] nahe	karu nahe	nahe 
+title: [karu] nahe	karu nahe	nahe 
+neck: soho 
+new: jagu	o jagu 
+night: poni 
+nighttime: poni 
+nose: sugu 
+adulterous: tai 
+one: tai 
+single: tai 
+that: bəni	bəre 
+the: tai 
+unprincipled: tai 
+human: karu 
+human being: karu 
+person: karu 
+rain: tava 
+rainy weather: tava 
+red: maisʏe 
+path: dugu	duguaxa	dugu|aɤa 
+road: dugu	duguaxa	dugu|aɤa 
+route: dugu	duguaxa	dugu|aɤa 
+root: kambu 
+sand: one 
+say: poha 
+see: kija 
+sit: ti-joto 
+hide: wiriji 
+skin: wiriji 
+sleep: ce-reno 
+little: moya 
+small: moya 
+smallness: moya 
+smoke: dijagu 
+star: dave 
+rock: ata 
+stone: ata 
+swim: -nato 
+tail: kegueji 
+this: ñini	ñire 
+2 sg: ne 
+thou: ne 
+you: ne 
+tongue: meme 
+tooth: 5oya	ñoya 
+grind: roti 
+two: roti 
+go: -ɤaɤa 
+walk: -ɤaɤa 
+hot: mane 
+warm: mane 
+water: na 
+1 pl. inc.: t3ra	təni	təra 
+we: t3ra	təni	təra 
+we₁: t3ra	təni	təra 
+what: owaha 
+white: pisʏoya 
+whiteness: pisʏoya 
+who: hei 
+who?: hei 
+female: moñe 
+woman: moñe 
+yellow: cano 
+distant: prameure 
+far: prameure 
+dull: məmaya 
+heavy: məmaya 
+serious: məmaya 
+close: pətigine 
+near: pətigine 
+ner: pətigine 
+salt: tahi rokoñe 
+short: təboya 
+snake: bwaruaro 
+thin: pegu-fane 
+earthworm: cai 
+worm: cai 
+year: cəɤama 
+2 pl.: nenu 
+ye: nenu 
+you all: nenu 
+3 pl.: die 
+they: die 
+where: kandetane 
+where?: kandetane 
+when: konasa 
+when?: konasa 
+how: tanetã 
+how?: tanetã 
+other: te 
+three: toru 
+four: awa	aŭa 
+five: mənema 
+broad: -vəre 
+wide: -vəre 
+wideness: -vəre 
+fat: mone 
+thick: pegu 
+narrow: moyaɤava 
+principal wife: suaɤu 
+wife: suaɤu 
+husband: suaɤu 
+his mother: neñe 
+mother: neñe 
+my mother: neñe 
+father: cece 
+his father: cece 
+my father: cece 
+forest: ucwa 
+woods: ucwa 
+fruit: oɤe 
+flower: kansrau 
+grass: dei 
+cord: baro 
+rope: baro 
+flesh: orɤoñe 
+meat: orɤoñe 
+grease: mone 
+wing: fagu 
+gut: keviji 
+guts: keviji 
+insides: keviji 
+intestine: keviji 
+intestines: keviji 
+back: tigbo 
+suck: ti-unto 
+spit: kibwo 
+vomit: ugwa 
+blow: kəmriri 
+breath: kenamarawato 
+breathe: kenamarawato 
+laugh: mamari 
+laughter: mamari 
+cogitate: kena taɤeto 
+reflect: kena taɤeto 
+think: kena taɤeto 
+smell: sento 
+sniff: sento 
+afraid: awato 
+be afraid: awato 
+fear: awato 
+fright: awato 
+alive: movugu 
+be alive: movugu 
+life: movugu 
+live: movugu 
+living: movugu 
+hunt: yari 
+beat: ranu 
+hit: ranu 
+strike: ranu 
+cut: tratu 
+hack: tratu 
+cut open: duguara 
+split: duguara 
+pierce: eɤua 
+stab: eɤua 
+scratch: soi 
+dig: sai 
+stand: tuɤakuo 
+drop: dare	jai 
+fall: dare	jai 
+grasp: krou 
+hold: krou 
+hold in arm: krou 
+squeeze: dendoro 
+wring: dendoro 
+throw: eɤua 
+bind: doco	doi 
+fasten: doco	doi 
+tie: doco	doi 
+tie up: doco	doi 
+sew: sijoro 
+count: pərna 
+enumerate: pərna 
+number: pərna 
+tally: pərna 
+flow: cəruru 
+lake: na 
+ocean: kegu	tahi 
+sea: kegu	tahi 
+dust: mragu 
+fog: bau 
+sky: ara 
+bad: o sime 
+evil: o sime 
+rot: fogu 
+rotten: fogu 
+dirty: priña 
+filthy: priña 
+soiled: priña 
+sharp: misyarji 
+blunt: kombugu 
+damp: səromo 
+wet: səromo 
+right side: banare 
+left: keŋgria|ure 
+at: -ne 
+in: daro-ne 
+inside: daro-ne 
+and: -ma 
+if: rebe 

@@ -1,0 +1,260 @@
+arm: ita-ya 
+ashes: toga | toga	togaiə 
+back: (k)abuto-naso 
+belly: kayabu | kayabu	kiabu	mat 
+belly: kiabu | kayabu	kiabu	mat 
+belly: mat | kayabu	kiabu	mat 
+big: neja | tibi	wana-tibia 
+big: ne(ja) | tibi	wana-tibia 
+big: tibi | tibi	wana-tibia 
+bird: finanaburi | finanaburi	finanaburu	penaburu	wanenaburu	ɸenenaburuə 
+bird: finanaburu | finanaburi	finanaburu	penaburu	wanenaburu	ɸenenaburuə 
+bird: penaburu | finanaburi	finanaburu	penaburu	wanenaburu	ɸenenaburuə 
+bird: wanenaburu | finanaburi	finanaburu	penaburu	wanenaburu	ɸenenaburuə 
+black: kotage | kotage	kotəgire 
+blood: is-ak | is-ak	katanatera	kinatera	tanateraiə 
+blood: katanatera | is-ak	katanatera	kinatera	tanateraiə 
+blood: kinatera | is-ak	katanatera	kinatera	tanateraiə 
+bone: ki-naso | ki-naso	naso	ta-nəsoə	tana7una7o	tanaʔunaʔo 
+bone: naso | ki-naso	naso	ta-nəsoə	tana7una7o	tanaʔunaʔo 
+bone: tana\una\o | ki-naso	naso	ta-nəsoə	tana7una7o	tanaʔunaʔo 
+breast: kafoto | foto	kafoto	kifoto 
+breast: (ki)foto | foto	kafoto	kifoto 
+burn: firira 
+butterfly: paparo 
+cloud: kupara | kupara	nevuro 
+cloud: nevuro | kupara	nevuro 
+cold: kefere | kefere	koɸeɸeə 
+come: amo 
+dog: ibe | ibe	ibeya 
+drink: tagora 
+dry: tayere | kumiyə	tayere 
+ear: (k)afuni | afuni	aɸuma	kafuni	kefuni	kivuni 
+ear: kefuni | afuni	aɸuma	kafuni	kefuni	kivuni 
+ear: kivuni | afuni	aɸuma	kafuni	kefuni	kivuni 
+earth: kenate 
+eat: tane | -tane	tane	taːnə 
+eat: -tane | -tane	tane	taːnə 
+eat: taue | -tane	tane	taːnə 
+egg: no | no	nou	popono	poponoə 
+egg: nou | no	nou	popono	poponoə 
+egg: popono | no	nou	popono	poponoə 
+eye: ka-bita | abita-naigia	ka-bita	ka-bita-negi	kabita	ki-bita 
+eye: ka-bita(-negi) | abita-naigia	ka-bita	ka-bita-negi	kabita	ki-bita 
+eye: ki-bita | abita-naigia	ka-bita	ka-bita-negi	kabita	ki-bita 
+feather: nanide | nanide	neride	neteda 
+feather: neride | nanide	neride	neteda 
+feather: neteda | nanide	neride	neteda 
+fingernail: (ka)tana-gisiri 
+fingernail: (ka)teisina 
+fingernail: ne-gesiri-kilaniariti 
+fingernail: tana-gisiri 
+fingernail: teisina 
+fire: avonabe | avo-nabe	avonabe	awo-nabi	awonabi	awunapia 
+fire: avo-nabe | avo-nabe	avonabe	awo-nabi	awonabi	awunapia 
+fire: awo-nabi | avo-nabe	avonabe	awo-nabi	awonabi	awunapia 
+fish: itia | itia	itigi	itiyaiyə 
+fish: itigi | itia	itigi	itiyaiyə 
+five: ketasnade 
+fly (n.): hegama 
+fly (n.): i 
+fly (n.): vegema 
+fly (v.): fena 
+fly (v.): vena 
+fly (v.): venenu 
+foot: kawi | awi	kawi	kiwinate	kwiǯa 
+foot: kiwinate | awi	kawi	kiwinate	kwiǯa 
+foot: kwija | awi	kawi	kiwinate	kwiǯa 
+four: wenta-wentabo 
+give: mamuko | maine	mamuko 
+good: saerere (?) [!saivere] | saerere	saeveve	sairere 
+good: saeveve | saerere	saeveve	sairere 
+green: maeata 
+hair: kedesë-n-isa | edonosisaya	isa	kedesə-n-isa	kidoso-n-esa	nisa 
+hair: kidoso-n-esa | edonosisaya	isa	kedesə-n-isa	kidoso-n-esa	nisa 
+hair: nisa | edonosisaya	isa	kedesə-n-isa	kidoso-n-esa	nisa 
+hair: (n)isa | edonosisaya	isa	kedesə-n-isa	kidoso-n-esa	nisa 
+hand: ita-ja | ataiya	ita-ǯa	ka-ta	kata	ta 
+hand: (ka-)ta | ataiya	ita-ǯa	ka-ta	kata	ta 
+hand: ka-ta | ataiya	ita-ǯa	ka-ta	kata	ta 
+head: kedaso | aginara	kedaso	kidaso	kidoso 
+head: kidaso | aginara	kedaso	kidaso	kidoso 
+head: kidoso | aginara	kedaso	kidaso	kidoso 
+hear: kanoa | ka-noa	kanoa	na-norə	nora 
+hear: nora | ka-noa	kanoa	na-norə	nora 
+he/she: fonera 
+house: mu 
+I: nafea | awo	na-fea	nafea 
+I: na-fea | awo	na-fea	nafea 
+knee: kaugenege | kaugenege	kioginige	oginɛgia 
+knee: kioginige | kaugenege	kioginige	oginɛgia 
+leaf: isi | isi	nisa	sapoginisai 
+leaf: nisa | isi	nisa	sapoginisai 
+leg: kiwi 
+louse: ia | ia	mun 
+louse: iya | ia	mun 
+louse: mun | ia	mun 
+man: mahopa | mahopa	maopa	mapai	meo-a 
+man: maopa | mahopa	maopa	mapai	meo-a 
+man: meo-a | mahopa	maopa	mapai	meo-a 
+many: unurure 
+meat: -nate 
+meat: neti 
+meat: tausu 
+moon: keretiri | keretiri	keretiti 
+moon: keretiti | keretiri	keretiti 
+mosquito: barisanu 
+mosquito: birisaua 
+mountain: figo | figo	figoːə	vigo 
+mountain: vigo | figo	figoːə	vigo 
+mouth: abo | abo	k-ibo	kabo 
+mouth: (k)abo | abo	k-ibo	kabo 
+mouth: k-ibo | abo	k-ibo	kabo 
+name: inigi | -inigi	inigi	kaɸeyə	nigia 
+name: -inigi | -inigi	inigi	kaɸeyə	nigia 
+name: nigia | -inigi	inigi	kaɸeyə	nigia 
+neck: egorage | egorage	igeroso	k-igeroso 
+neck: igeroso | egorage	igeroso	k-igeroso 
+neck: k-igeroso | egorage	igeroso	k-igeroso 
+new: farere 
+night: muamini | muamini	mwamiriə 
+nose: kayesi | abo	kayesi	kiǯaisi 
+nose: kijaisi | abo	kayesi	kiǯaisi 
+one: naduma 
+rain: moa | moa	moaiyə	mua 
+rain: mua | moa	moaiyə	mua 
+red: suri | suri	suria	surire 
+red: suri(a) | suri	suria	surire 
+road: aeti | aetu 
+road: aetu 
+road: liwi | aetu 
+root: nito 
+rope: ato 
+sand: niova | niova	ɲofa 
+sand: nyofa | niova	ɲofa 
+seed: nigigi | konaikia	nigigi 
+see: fonera | fonera	ki-fanera	kifanera	na-ɸaneran	vanera 
+see: ki-fanera | fonera	ki-fanera	kifanera	na-ɸaneran	vanera 
+see: vanera | fonera	ki-fanera	kifanera	na-ɸaneran	vanera 
+sit: menafera | menafera	menavera	menaɸerə 
+sit: menavera | menafera	menavera	menaɸerə 
+skin: katane | katane	kinža	kətane	ɛmtea 
+skin: këtane | katane	kinža	kətane	ɛmtea 
+skin: kinjha | katane	kinža	kətane	ɛmtea 
+sleep: -nia | -nia	nia 
+small: furoma | furoma	wana-ɸurumaiə 
+smoke: awoda 
+snake: femaro | femaro	vemoro	ɸɛmaroa 
+snake: vemoro | femaro	vemoro	ɸɛmaroa 
+spit: tofe-genete 
+stand: minifera 
+stand: minivera 
+star: gire | gire	girie	girieya 
+star: girie | gire	girie	girieya 
+stone: kenade | kenade	kenadi 
+sun: weete | weite-nabo	weti	weːte	wɛrtinabua 
+sun: weite-nabo | weite-nabo	weti	weːte	wɛrtinabua 
+sun: weti | weite-nabo	weti	weːte	wɛrtinabua 
+swim: (ki-)wene | ki-wene	wenawo	wene 
+swim: wene | ki-wene	wenawo	wene 
+tail: ne-voda | daɸodaiyə	ne-voda	ni-foda	ni-fodo	nifoda 
+tail: nifoda | daɸodaiyə	ne-voda	ni-foda	ni-fodo	nifoda 
+tail: ni-foda | daɸodaiyə	ne-voda	ni-foda	ni-fodo	nifoda 
+tail: ni-fodo | daɸodaiyə	ne-voda	ni-foda	ni-fodo	nifoda 
+that: sifite | sifite	vataʔvanera 
+that: vata/vanera | sifite	vataʔvanera 
+they: funurure 
+this: sifa 
+thou: k(a)- | ka-fea	kafea	kəfea	naɸeya 
+thou: ka-fea | ka-fea	kafea	kəfea	naɸeya 
+thou: kəfea | ka-fea	kafea	kəfea	naɸeya 
+thou: kegomaga | ka-fea	kafea	kəfea	naɸeya 
+thou: kifia | ka-fea	kafea	kəfea	naɸeya 
+three: kifeni 
+three: kipeni 
+tongue: gasesani | asiašəni	gasesani	kasiesana	kisiasane 
+tongue: kasiesana | asiašəni	gasesani	kasiesana	kisiasane 
+tongue: kisiasaue | asiašəni	gasesani	kasiesana	kisiasane 
+tooth: kauni | kauni	kioni	oni 
+tooth: kioni | kauni	kioni	oni 
+tree: taya 
+two: wanitabo | wanitabo	wanitobo	whanitabo 
+two: wanitobo | wanitabo	wanitobo	whanitabo 
+walk: eiutu | awo	eiutu	kinue	kinuwe 
+walk: kinue | awo	eiutu	kinue	kinuwe 
+walk: kinuwe | awo	eiutu	kinue	kinuwe 
+warm: muri 
+water: aoba | aoba	moda	oba 
+water: moda | aoba	moda	oba 
+water: oba | aoba	moda	oba 
+weep: aire 
+we (incl.): kigokomaka 
+we (incl.): na-feya 
+we: kiria | donada	feya	kigokomaka	na-feya 
+wet: toretorere 
+wet: tore-torere 
+what: janoa | ǯanoa 
+white: furiri | furiri	nɛɸurire 
+wind: hosanere | hosanere	voserena	ɸosaniri 
+wind: voserena | hosanere	voserena	ɸosaniri 
+woman: biti | biti	ebitera	ibitia 
+woman: ebitera | biti	ebitera	ibitia 
+wood: awo 
+yellow: katere 
+you: ke-gomaga | ka-fea	kafea	kəfea	naɸeya 
+you: ki-fia | ka-fea	kafea	kəfea	naɸeya 
+all: igokoməga 
+every: igokoməga 
+ash: toga	togaiə 
+abdomen: kayabu	kiabu	mat 
+bigness: tibi	wana-tibia 
+large: tibi	wana-tibia 
+breasts: foto	kafoto	kifoto 
+come from: amo 
+be dead: naku 
+dead: naku 
+die: naku 
+ground: kenate 
+land: kenate 
+soil: kenate 
+fly: fena	vena	venenu 
+fly v.: fena	vena	venenu 
+full: kakuɸu 
+left hand: ataiya	ita-ǯa	ka-ta	kata	ta 
+right: ataiya	ita-ǯa	ka-ta	kata	ta 
+1 sg.: awo	na-fea	nafea 
+kill: nowabiə 
+long: notare 
+head louse: ia	mun 
+male: mahopa	maopa	mapai	meo-a 
+much: unurure 
+multiple: unurure 
+several: unurure 
+hill: figo	figoːə	vigo 
+title: -inigi	inigi	kaɸeyə	nigia 
+nighttime: muamini	mwamiriə 
+adulterous: naduma 
+single: naduma 
+the: naduma 
+unprincipled: naduma 
+rainy weather: moa	moaiyə	mua 
+path: aetu 
+route: aetu 
+say: niova	ɲofa 
+hide: katane	kinža	kətane	ɛmtea 
+little: furoma	wana-ɸurumaiə 
+smallness: furoma	wana-ɸurumaiə 
+rock: kenade	kenadi 
+2 sg: ka-fea	kafea	kəfea	naɸeya 
+grind: wanitabo	wanitobo	whanitabo 
+go: awo	eiutu	kinue	kinuwe 
+hot: muri 
+1 pl. inc.: donada	feya	kigokomaka	na-feya 
+we₁: donada	feya	kigokomaka	na-feya 
+whiteness: furiri	nɛɸurire 
+female: biti	ebitera	ibitia 
+dull: naɸeyə 
+heavy: naɸeyə 
+serious: naɸeyə 
+earthworm: baiːyə 
+worm: baiːyə 

@@ -1,0 +1,338 @@
+all: kabuna 
+animal: nihí | nihí 
+arm: iharega 
+arrow: muhibé 
+ashes: i\ora | iʼora 
+back: muzuŋgulɛ̌ 
+bad: ma˗kuša | ma-kuša 
+bark: igomé | igomé 
+belly: maš | maso	maš 
+belly: maso | maso	maš 
+belly: maːsɔ̌ | maso	maš 
+big: ˗giru | -giru	mu-qiɭu 
+big: mu˗qiɭu | -giru	mu-qiɭu 
+bird: χimɛnɔ 
+bite: (ku)˗nɛ̌ | -nɛ̌	-ŋe	ku-nɛ̌ 
+bite: ˗ŋe | -nɛ̌	-ŋe	ku-nɛ̌ 
+bite: sáho | -nɛ̌	-ŋe	ku-nɛ̌ 
+bite: saxo | -nɛ̌	-ŋe	ku-nɛ̌ 
+bitter: ˗hára 
+black: ˗hame | -hame 
+blood: saßɔsako | sakame	saβɔsako 
+blow: má | má	ufu- 
+blow: ufu˗ | má	ufu- 
+bone: ifuaraifwara | ifuaraifwara	ivindi 
+branch: masemu 
+breast: i\asemu | itombo	iʼasemu 
+breathe: mhuye 
+burn: ˗ka | -ka 
+burn: saʔ˗ | -ka 
+cheek: igwaɬo 
+child: milo 
+claw: luxemu 
+cloud: ihlare 
+cold: sa\a | saʼa 
+come: ˗lita | -lita	liʼtǎ	za 
+come: li\tǎ | -lita	liʼtǎ	za 
+count: fwǎ | fwǎ 
+cut: ˗ɬa 
+day: ˗aːmá | mʼaze 
+day: m\aze | mʼaze 
+die: ˗ga | -ga	fwa 
+dig: faːt\˗ | faːtʼ- 
+dirty: ɬaɬaʔema 
+dog: idie | idie	iguro 
+drink: aha | -waha	aha	nwa 
+drink: ˗waha | -waha	aha	nwa 
+dry: ˗hala\e | -halaʼe 
+dust: isonka | isonka	itéri 
+dust: itéri | isonka	itéri 
+ear: ilama | ilama	isikio 
+earth: mpuhle 
+eat: la viǯu˗\a | la viǯu-ʼa 
+egg: i˗kɔkɔha | i-kɔkɔha 
+eye: iʔila | iziso	iʔila	meso 
+face: vu˗basa 
+fall: asu | asu	ɬú 
+fall: ɬú | asu	ɬú 
+far: kuhlé | kuhlé	uda 
+far: uda | kuhlé	uda 
+father: aba 
+fat (n.): maɬoma 
+fear: bugeno 
+feather: luʔadaka 
+few: wa˗gitutu | wa-gitutu 
+fight: ˗maiana | -maiana 
+finger: kisatú 
+finger: kunge 
+fingernail: luxemu 
+finger: χemuː 
+fire: mwaɬa | moto	mwaɬa 
+five: koːi | kooi	koːi 
+fly (v.): ˗puru 
+fog: ⁿgónónó | ⁿgónónó 
+foot: ku˗saːmu | ku-saːmu 
+forest: kimáːže | kimáːže 
+four: hai 
+fruit: ěχupénǎ | ěχupénǎ 
+full: ˗hu | -hu	izuwa	zuwa 
+give: ˗awi | -awi	-ʼo 
+give: ˗\o | -awi	-ʼo 
+good: kuɬo 
+grass: maháko | maháko 
+green: ˗hako | -hako 
+hair: ahlu | ahlu	aːsu 
+hair: aːsu | ahlu	aːsu 
+hand: haɭɛka | haɭɛka	izogera	kitumba 
+hand: izogera | haɭɛka	izogera	kitumba 
+hand: kundí | haɭɛka	izogera	kitumba 
+head: angálo | angálo	muaʼ́ 
+head: mua\́ | angálo	muaʼ́ 
+hear: ˗ko | -ko	sikia 
+heart: swáhoswaho | swáhoswaho 
+heavy: maɭu ŋgiɭu 
+here: ata | ata	iʼi 
+here: i\i | ata	iʼi 
+he/she: hu 
+he/she: kuʔu 
+hit: mǎ | mǎ 
+horn: iharemu | iharemu	lugunda 
+house: mǐ 
+how: kimomo 
+husband: xosa 
+I: ani | ani	mmi 
+if: ka 
+I: go˗ | ani	mmi 
+jaw: igwaɬú 
+kill: ˗ga\a | -gaʼa 
+knee: imuro | ikuNkuro	imuro	múːɭɔ̌ 
+knee: múːɭɔ̌ | ikuNkuro	imuro	múːɭɔ̌ 
+know: ˗\ile | -ʼile 
+laugh: sisi 
+leaf: ihopi | ihopi	ihuNo 
+left: hína | hína 
+leg: kusa\ame | kusaʼame 
+lie: ˗bo | -bo 
+liver: meːsǒ | itima	meːsǒ	tiraːǒ 
+liver: tiraːǒ | itima	meːsǒ	tiraːǒ 
+long: ˗\eza | -ʼeza 
+louse: giɬo | ida 
+louse: gǐsǒ | ida 
+man: muhe | mntu	muhe 
+man: ßahe | mntu	muhe 
+many: ˗kumure | -kumure 
+meat: garema | garema	níhiː 
+meat: níhiː | garema	níhiː 
+moon: mhlihe | mhlihe	sihɛ̌ 
+moon: sihɛ̌ | mhlihe	sihɛ̌ 
+mother: laːgɛ́ | laːgɛ́ 
+mountain: longori | ikamba	longori	luNori 
+mouth: muʔo 
+name: iɬe | izina	iɬe 
+narrow: čačó | čačó 
+navel: mu˗heme 
+near: sina 
+neck: waka | waka	wáːχǎ 
+neck: wáːχǎ | waka	wáːχǎ 
+new: šá | Sa	tialɛ̌	tiʼale	šá 
+new: ti\ale | Sa	tialɛ̌	tiʼale	šá 
+new: tialɛ̌ | Sa	tialɛ̌	tiʼale	šá 
+night: amá | amá	kio 
+not: si | si	ta 
+not: ta | si	ta 
+old: ˗\eraru 
+old: lašu 
+one: we | mwe	we 
+other: hálí | hálí 
+person: muhe | mntu	muhe 
+person: vamu | mntu	muhe 
+play: ˗ɬaɬáha | -ɬaɬáha 
+pull: ˗húru 
+push: ˗hinka 
+rain: mare 
+rain: ˗ší | mare 
+red: ˗bayu | -bayu 
+right: sugano | haɭɛka	izogera	kitumba 
+river: haráːza | haráːza 
+road: kwǎkwa | ndia 
+root: isandi 
+rotten: ˗bo | -bo 
+salt: mnaro | mnaro	náːḷo 
+salt: náːḷo | mnaro	náːḷo 
+sand: masanga 
+say: yo˗ | yo- | masanga 
+seed: mbɛu 
+see: ešuːyě˗aho | ešuːyě-aho	vona	vwene 
+sew: ˗hi | -hi 
+sharp: ˗ko | -ko 
+short: kamuːmǔ | ʼkamuːmǔ 
+shoulder: ki˗zɔgǎ 
+shoulder: zogə 
+sing: ˗fwarú | -fwarú 
+sister: ǐnɪnta 
+sit: ˗zoko | -zoko 
+skin: mukwano | mukwano	zula	zuna 
+sky: ɪšarɛ́nɔ̌ | ɪšarɛ́nɔ̌ 
+sleep: ˗\i | -ʼi	sai 
+sleep: sai | -ʼi	sai 
+small: gitutu 
+smoke: mwaum\wa\u | mwaumʼwaʼu 
+snake: bóːme | bóːme	ŋɔka 
+snake: ŋɔka | bóːme	ŋɔka 
+spit: mapa\é | -busu 
+spit: ʕohoʔ˗ | -busu 
+split: ˗k\a\a | -kʼaʼa	-xaʼa 
+split: ˗xa\a | -kʼaʼa	-xaʼa 
+stand: ˗\uma | -ʼuma 
+star: ntondo 
+stone: isaheru | ibwe	isaheru	išahěɭǔ 
+stone: išahěɭǔ | ibwe	isaheru	išahěɭǔ 
+suck: áːhǎ | áːhǎ 
+sun: i\azi | izuva	iʼazi 
+sweet: na\a 
+swell: ajáːχi 
+swim: ˗ko\era | -koʼera 
+tail: iharige 
+that: ˗ha | -ha | mwe	we 
+that: ˗hu | -ha | mwe	we 
+there: are | are	twaʔi 
+there: twaʔi | are	twaʔi 
+they: kini 
+they: kińi | kini 
+think: ˗toti | -toti 
+thin: sísírí | sísírí 
+this: ˗ka | -ka 
+thou: ari | ari	we 
+three: xai 
+throat: mkokéra 
+throw: ˗bibi | -bibi 
+thunder: lubambara 
+thunder: ˗pu\u 
+tie: ɔɭɔßǎ | ɔɭɔβǎ 
+tomorrow: ɬenú 
+tongue: lu\anda | lumi	luʼanda 
+tooth: ɪʔɪke | ijenxo	ɪʔɪke 
+tree: mhatu | mit 
+tree: mχato | mit 
+two: nnu | iri	mbiri	nnu 
+vagina: igénge 
+vagina: kipuṕ 
+vomit: hoʔomi 
+walk: buʔ 
+walk: ˗gugúlu 
+walk: ˗so 
+warm: tukasa 
+water: ma\i | mazi	maʼi	mpombe 
+weep: i\ilíma 
+we: kanu | uswi 
+we: nine | uswi 
+what: mina 
+when: ami 
+where: lé | lé 
+white: ˗\aku | -ʼaku 
+wife: na seta 
+wind: sáːa | sáːa 
+woman: m˗bora | m-bora	naseta 
+woman: naseta | m-bora	naseta 
+worm: itùʃàrìmì | itùʃàrìmì 
+year: mkó | mkó 
+yellow: ˗bizari | -bizari 
+yesterday: ósa 
+you: kago˗ | ari	we | kune 
+you: kune | ari	we 
+every: kabuna 
+ash: iʼora 
+abdomen: maso	maš 
+bigness: -giru	mu-qiɭu 
+large: -giru	mu-qiɭu 
+breasts: itombo	iʼasemu 
+nail: luxemu 
+talon: luxemu 
+come from: -lita	liʼtǎ	za 
+be dead: -ga	fwa 
+dead: -ga	fwa 
+fish: samaki 
+fly: -puru 
+fly v.: -puru 
+left hand: haɭɛka	izogera	kitumba 
+1 sg.: ani	mmi 
+be knowledgeable: -ʼile 
+lie down: -bo 
+head louse: ida 
+male: muhe 
+much: -kumure 
+multiple: -kumure 
+several: -kumure 
+hill: ikamba	longori	luNori 
+title: izina	iɬe 
+nighttime: amá	kio 
+nose: mpua	nuŋa 
+adulterous: mwe	we 
+single: mwe	we 
+the: mwe	we 
+unprincipled: mwe	we 
+human: mntu	muhe 
+human being: mntu	muhe 
+rainy weather: mare 
+path: ndia 
+route: ndia 
+hide: mukwano	zula	zuna 
+little: gitutu 
+smallness: gitutu 
+rock: ibwe	isaheru	išahěɭǔ 
+2 sg: ari	we 
+grind: iri	mbiri	nnu 
+hot: tukasa 
+1 pl. inc.: uswi 
+we₁: uswi 
+whiteness: -ʼaku 
+female: m-bora	naseta 
+distant: kuhlé	uda 
+dull: maɭu ŋgiɭu 
+serious: maɭu ŋgiɭu 
+close: sina 
+ner: sina 
+earthworm: itùʃàrìmì 
+2 pl.: kune 
+ye: kune 
+you all: kune 
+3 pl.: kini 
+where?: lé 
+when?: ami 
+how?: kimomo 
+principal wife: na seta 
+his mother: laːgɛ́ 
+my mother: laːgɛ́ 
+his father: aba 
+my father: aba 
+woods: kimáːže 
+stick: masemu 
+flesh: garema	níhiː 
+fat: maɬoma 
+grease: maɬoma 
+laughter: sisi 
+cogitate: -toti 
+reflect: -toti 
+beat: mǎ 
+strike: mǎ 
+cut open: -kʼaʼa	-xaʼa 
+pierce: -ɬa 
+stab: -ɬa 
+drop: asu	ɬú 
+bind: ɔɭɔβǎ 
+fasten: ɔɭɔβǎ 
+tie up: ɔɭɔβǎ 
+enumerate: fwǎ 
+number: fwǎ 
+tally: fwǎ 
+have fun: -ɬaɬáha 
+brook: haráːza 
+stream: haráːza 
+blaze: -ka 
+daylight: mʼaze 
+daytime: mʼaze 
+evil: ma-kuša 
+rot: -bo 
+filthy: ɬaɬaʔema 
+soiled: ɬaɬaʔema 
+right side: sugano 

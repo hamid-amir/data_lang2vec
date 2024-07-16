@@ -1,0 +1,423 @@
+all: eru\a | ɛruʔa 
+all: ɛruʔa 
+arm: wapen 
+arm: wapɛn 
+ashes: famʌ 
+ashes: famë | famʌ 
+back: imin 
+bad: popore 
+bad: poporɛ 
+belly: urem | urɛm 
+belly: urɛm 
+belly: urɛm ɛpʌ 
+belly: urem epë | urɛm 
+big: uma 
+bird: nepe | nɛpɛ 
+bird: nɛpɛ 
+bite: -w(or)- | -w-	-wor- 
+black: isiwe | isiwɛ 
+black: isiwɛ 
+blood: ɛʔʌ | E73	ɛʔʌ 
+blood: e\ë | E73	ɛʔʌ 
+blow: fi- 
+bone: ɛrʌ | Er3	ɛrʌ 
+bone: erë | Er3	ɛrʌ 
+boy: moë hireb 
+boy: moʌ hirɛb 
+breast: mena | mEna	mɛna 
+breast: mɛna | mEna	mɛna 
+brother: apʌb 
+brother: apëb 
+brother: imetir 
+brother: imɛtir 
+burn: apirm- 
+butterfly: fefum 
+butterfly: fɛfum 
+calf: ufë esi 
+calf: ufʌ ɛsi 
+calf: ufë unu 
+calf: ufʌ unu 
+cassowary: ëhi 
+chest: eme:ti 
+chest: ɛmɛːti 
+child: ses 
+child: sɛs 
+chin: petem 
+chin: pɛtɛm 
+cloud: hapre | haprɛ 
+cloud: haprɛ 
+cold: tapere | tapɛrɛ 
+cold: tapɛrɛ 
+come: uw- | uw	uw- 
+crocodile: tuwër 
+crocodile: tuwʌr 
+cut: pemer- 
+cut: pɛmɛr- 
+cut: war- 
+day: hirere- 
+day: uriwa 
+day: uriwë 
+die: im- | im	im- 
+dig: oform- 
+dig: onor- 
+dirty: et 
+dirty: ɛt 
+dog: ofun 
+dry: hererewob | hɛrrɛrrɛwɔb 
+dry: hɛrrɛrrɛwɔb 
+ear: ifën | if3n	ifʌn 
+ear: ifʌn | if3n	ifʌn 
+earth: imamehib | imamɛhib 
+earth: imamɛhib 
+eat: en- | ɛn- 
+eat: ɛn- 
+eat: muh- | ɛn- 
+egg: muɛʔ 
+egg: mune\ | muɛʔ 
+elbow: maha 
+emu: ʔʌhi 
+excrement: ipë 
+eye: musepen | mus7~i	musEpEn	musɛpɛn	musʔi 
+eye: musɛpɛn | mus7~i	musEpEn	musɛpɛn	musʔi 
+eye: mus\i | mus7~i	musEpEn	musɛpɛn	musʔi 
+eye: musʔi | mus7~i	musEpEn	musɛpɛn	musʔi 
+face: imɔrʌ 
+face: imorë 
+fall: oh- 
+fall: or- 
+far: aßʌsi | aβʌsi 
+far: avësi | aβʌsi 
+father: abʲɛ 
+father: abise 
+fat (n.): afir 
+fear: pep- 
+fear: pɛp- 
+few: fere 
+few: fɛrɛ 
+fight: ar- 
+fingernail: pi\a\un 
+fingernail: piʔaʔun 
+finger: umʌ 
+finger: umë 
+fire: ipomin 
+fish: mɛrʌ | mEra	mɛrʌ 
+fish: merë | mEra	mɛrʌ 
+fly (n.): mu\uru 
+fly (n.): muʔuru 
+fly (v.): pirin(ew)- 
+fly (v.): pirin(ɛw)- 
+fly (v.): purur- 
+fog: him 
+forest: siwor 
+fruit: hotir 
+fruit: sisi 
+full: tëne | t3nE	tʌnɛ 
+full: tʌnɛ | t3nE	tʌnɛ 
+full: un- | t3nE	tʌnɛ 
+girl: sesipa hirab 
+girl: sɛsipa hirab 
+give: -uw- 
+good: ezëri | ɛzʌri 
+good: ɛzʌri 
+grass: ë:\ 
+green: enum | ɛnum 
+green: ɛnum 
+guts: urɛm ɛpʌ 
+guts: urem epë 
+hair: fu\um | fuʔum	humsʌ 
+hair: fuʔum | fuʔum	humsʌ 
+hair: humsʌ | fuʔum	humsʌ 
+hair: humsë | fuʔum	humsʌ 
+head: humun 
+head: humu\o | humun 
+hear: -ifaɲ- | -ifaɲ-	ifa5 
+hear: -ifañ- | -ifaɲ-	ifa5 
+heart: mumu 
+heavy: pine | pinɛ 
+heavy: pinɛ 
+here: fane 
+here: fanɛ 
+he/she: ø- 
+he/she: wo 
+he/she: wu- 
+hit: ar- 
+hold: wap- 
+house: mun 
+how: emin 
+I: e-fe- | iyE	iyɛ 
+I: ɛ-fɛ- | iyE	iyɛ 
+I: iye | iyE	iyɛ 
+I: iyɛ | iyE	iyɛ 
+in: hava 
+I: yi- | iyE	iyɛ 
+kill: urmi- | urrmi- 
+kill: urrmi- 
+knee: ma 
+laugh: ner- 
+laugh: nɛr- 
+left: fʌ 
+left: fë 
+leg: ohon 
+leg: ohɔn 
+lightning: apera erp- 
+lightning: apera ɛrp- 
+liver: ɛmʌ | Em3	ɛmʌ 
+liver: emë | Em3	ɛmʌ 
+long: horia 
+louse: una 
+man: afʌ | moʌ 
+man: afë | moʌ 
+man: moʌ 
+man: moë | moʌ 
+many: uneb | unɛb 
+many: unɛb 
+meat: esi 
+meat: ɛsi 
+moon: saiv 
+morning: afë wena 
+morning: afʌ wɛna 
+morning: hë:rumën\a 
+morning: hʌːrumʌnʔa 
+mosquito: sen 
+mosquito: sɛn 
+mother: imem 
+mother: imɛm 
+mountain: amëre | am3rE	amʌrɛ	upin 
+mountain: amʌrɛ | am3rE	amʌrɛ	upin 
+mountain: upin | am3rE	amʌrɛ	upin 
+mouth: enpe:si | ɛnpɛːsi 
+mouth: ɛnpɛːsi 
+name: unum 
+nape: omoʔʌ 
+nape: omo\ë 
+navel: pesinem 
+navel: pɛsinɛm 
+near: panëne | panʌnɛ 
+near: panʌnɛ 
+neck: mani\or | maniʔɔr 
+neck: maniʔɔr 
+new: eyeb 
+night: harum erpe | harum ErpE	harum ɛrpɛ 
+night: harum ɛrpɛ | harum ErpE	harum ɛrpɛ 
+nose: mi:v\ë | mib7~a	miːβʔa 
+not: mɛrɛß 
+not: merev 
+old: ëvon 
+old: pë:nua 
+old: pʌːnua 
+old: ʌßɔn (obj( 
+one: umaruma 
+pull: muw- 
+push: suw- 
+rain: ipi 
+rat: tinen 
+rat: tinɛn 
+red: ë\u | ʌʔu 
+red: ʌʔu 
+right: ma\ën | humun 
+right: maʔʌn | humun 
+ripe: piriß 
+ripe: piriv 
+road: peren | pErEn 
+road: pɛrɛn | pErEn 
+root: hihir 
+rope: inib 
+salt: ifer | ifɛr 
+salt: ifɛr 
+sand: eserev | sɛrrɛb 
+sand: sereb | sɛrrɛb 
+sand: sɛrrɛb 
+say: asup- | -mor- 
+say: -mor- 
+scratch: ma\- 
+scratch: maʔ- 
+sea: ifer 
+sea: ifɛr 
+see: -irʲ- | -irⁱf-	irif 
+see: irʲ- | -irⁱf-	irif 
+see: -irif- | -irⁱf-	irif 
+sharp: avrahoar- 
+sharp: ëvrë 
+short: su\ub 
+shoulder: ohoman 
+sing: if- 
+sister: soßi pɛrɛp 
+sister: soßi tʌir 
+sister: sovi perp 
+sister: sovi tëir 
+sit: pus- 
+skin: hanʌ | han3	hanʌ 
+skin: hanë | han3	hanʌ 
+sky: atatie 
+sky: atatiɛ 
+sleep: in- 
+small: hotir 
+smell: itinew- 
+smoke: seb | sɛb 
+smoke: sɛb 
+snake: ifa 
+spit: hamɛr fuʔp- 
+spit: moːsʌ 
+spit: mo:së 
+split: upuw- 
+stand: hera- 
+stand: himar- 
+star: matem | matEm	matɛm 
+star: matɛm | matEm	matɛm 
+stick: um 
+stone: nomon hëven | nomon h3vEn	nomon hʌvɛn 
+stone: nomon hʌvɛn | nomon h3vEn	nomon hʌvɛn 
+straight: e\en 
+straight: ɛʔɛn 
+sun: amʌ | am3	amʌ 
+sun: amë | am3	amʌ 
+swell: uman er- 
+swell: uman ɛr- 
+tail: ereb | ɛrɛb 
+tail: ɛrɛb 
+tail: titum | ɛrɛb 
+take: ew- 
+take: ɛw- 
+that: ni 
+there: nane 
+there: nanɛ 
+they: wi 
+they: wi- 
+thigh: uf enem 
+thigh: uf ɛnem 
+think: ema-suw- 
+think: ɛmasuw- 
+this: fi 
+thou: ine | inE	inɛ	nE	nɛ 
+thou: inɛ | inE	inɛ	nE	nɛ 
+thou: ne | inE	inɛ	nE	nɛ 
+thou: ne- | inE	inɛ	nE	nɛ 
+thou: nɛ | inE	inɛ	nE	nɛ 
+thou: nɛ- | inE	inɛ	nE	nɛ 
+thou: ne-fa | inE	inɛ	nE	nɛ 
+thou: nɛ-fɛ- | inE	inɛ	nE	nɛ 
+thou: ni | inE	inɛ	nE	nɛ 
+thou: ni- | inE	inɛ	nE	nɛ 
+thou: nih- | inE	inɛ	nE	nɛ 
+throat: maniʔɔr ɛrʌ 
+throat: mani\or erë 
+throw: ofor 
+thunder: apera puew- 
+thunder: apɛra puɛw- 
+tie: muw- 
+tomorrow: obno 
+tomorrow: ovno 
+tomorrow: ovno ere 
+tongue: mɛːmɟɛ | mEmjE	mɛːmɟɛ 
+tongue: me:mye | mEmjE	mɛːmɟɛ 
+tooth: ene | Ene	ɛnɛ 
+tooth: ɛnɛ | Ene	ɛnɛ 
+tree: ɛnɛm | n3m3 
+tree: nëmë | n3m3 
+tree: nʌmʌ | n3m3 
+tree: ʌrɛ | n3m3 
+turn: ir- 
+two: eru\a | Eru7a	ɛruʔa 
+two: ɛruʔa | Eru7a	ɛruʔa 
+vagina: ipen 
+vagina: ipɛn 
+vomit: mɛrir- 
+walk: itiw- | sɛma-	sɛmamiw- 
+walk: opahin- | sɛma-	sɛmamiw- 
+walk: sema(miw)- | sɛma-	sɛmamiw- 
+walk: sɛma(miw)- | sɛma-	sɛmamiw- 
+wallaby: sopu 
+warm: haririwob 
+warm: harirʲob 
+wash: -yahiw- 
+wash: zahi- 
+water: yʌʔʌ | y373	yʌʔʌ 
+water: yë\ë | y373	yʌʔʌ 
+weep: emem- 
+weep: ɛmɛm- 
+we: i | ihE 
+we: i- | ihE 
+we: ih- | ihE 
+we: ihɛ | ihE 
+wet: pepura 
+wet: pɛpura 
+wet: pete 
+wet: pɛtɛ 
+we: uhe | ihE 
+what: mia 
+where: inono 
+where: kanɛka 
+white: fuʌ 
+white: fuë | fuʌ 
+who: yaʔurʌ 
+who: ya\urë | yaʔurʌ 
+wind: namnam 
+wing: mën 
+wing: mʌn 
+woman: me\em | mɛʔem 
+woman: mɛʔem 
+woman: une | mɛʔem 
+woman: unɛ | mɛʔem 
+wood: namëre 
+wood: namʌrɛ 
+wood: ʔum 
+yellow: yanib 
+yes: mia 
+yes: oe 
+yes: ɔɛ 
+yesterday: envin 
+yesterday: ɛnvin 
+yesterday: oniyen 
+you: ine | inE	inɛ	nE	nɛ 
+you: ni | inE	inɛ	nE	nɛ 
+you: ni- | inE	inɛ	nE	nɛ 
+you: nih- | inE	inɛ	nE	nɛ 
+every: ɛruʔa 
+ash: famʌ 
+abdomen: urɛm 
+bigness: uma 
+large: uma 
+breasts: mEna	mɛna 
+come from: uw	uw- 
+be dead: im	im- 
+dead: im	im- 
+ground: imamɛhib 
+land: imamɛhib 
+soil: imamɛhib 
+fly: pirin-	pirinɛw-	purur- 
+fly v.: pirin-	pirinɛw-	purur- 
+hand: humun 
+left hand: humun 
+1 sg.: iyE	iyɛ 
+head louse: una 
+male: moʌ 
+much: unɛb 
+multiple: unɛb 
+several: unɛb 
+hill: am3rE	amʌrɛ	upin 
+title: unum 
+nighttime: harum ErpE	harum ɛrpɛ 
+adulterous: umaruma 
+single: umaruma 
+the: umaruma 
+unprincipled: umaruma 
+rainy weather: ipi 
+path: pErEn 
+route: pErEn 
+hide: han3	hanʌ 
+little: hotir 
+smallness: hotir 
+rock: nomon h3vEn	nomon hʌvɛn 
+2 sg: inE	inɛ	nE	nɛ 
+grind: Eru7a	ɛruʔa 
+go: sɛma-	sɛmamiw- 
+1 pl. inc.: ihE 
+we₁: ihE 
+whiteness: fuʌ 
+who?: yaʔurʌ 
+female: mɛʔem 
+distant: aβʌsi 
+dull: pinɛ 
+serious: pinɛ 
+close: panʌnɛ 
+ner: panʌnɛ 

@@ -1,0 +1,146 @@
+all: akapa 
+every: akapa 
+ash: au 
+ashes: au 
+abdomen: koba-[koβa] 
+belly: koba-[koβa] 
+big: namuu 
+bigness: namuu 
+large: namuu 
+bird: gila 
+bite: samusamu-a 
+black: beroberoŋa-na 
+blood: rae 
+bone: riu 
+breast: susu 
+breasts: susu 
+burn: sulu-ia 
+burn tr.: sulu-ia 
+cloud: karaane 
+cold: makariŋe 
+come: kasu mai	mae 
+come from: kasu mai	mae 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: paua 
+drink: ropi 
+dry: malaŋo-na 
+ear: taliNa	taliŋa 
+eat: anamanama 
+egg: otolu 
+eye: mata 
+feather: uu gile 
+fire: kura	kuraa 
+fish: kko	koko 
+fly: e looloo 
+fly v.: e looloo 
+full: pasu 
+good: masina 
+hair: uŋuru 
+hand: nima	nima- 
+left hand: nima	nima- 
+right: nima	nima- 
+head: uru 
+hear: noNo	noŋonoŋo 
+horn: tioNina 
+1 sg.: agi	axi 
+I: agi	axi 
+kill: ubi e mate ala 
+knee: patukke 
+be knowledgeable: alomasaaŋa 
+know: alomasaaŋa 
+leaf: uru	uru n-ai 
+lie: aso sio 
+lie down: aso sio 
+liver: ate|a 
+long: aluse 
+head louse: lisa 
+louse: lisa 
+male: taita 
+man: taumata	taumattu 
+moon: ulana 
+hill: motouru 
+mountain: motouru 
+mouth: pa 
+name: arari 
+title: arari 
+neck: alo 
+new: ou-na	ouna 
+night: boŋ|a	eleivo	vo 
+nighttime: boŋ|a	eleivo	vo 
+nose: Nusu	ŋusu 
+adulterous: ka teva	sesa	s|esa	teva 
+one: ka teva	sesa	s|esa	teva 
+single: ka teva	sesa	s|esa	teva 
+that: ai teke	atiulu too 
+the: ka teva	sesa	s|esa	teva 
+unprincipled: ka teva	sesa	s|esa	teva 
+human: taumata	taumattu 
+human being: taumata	taumattu 
+person: taumata	taumattu 
+rain: baoo 
+rainy weather: baoo 
+red: raerae-ana 
+path: salana 
+road: salana 
+route: salana 
+root: oa ŋ-ai 
+sand: rira 
+say: auli-a	poa 
+see: tara 
+sit: toka 
+hide: biliki	viliki 
+skin: biliki	viliki 
+sleep: asekanue 
+little: pisike 
+small: pisike 
+smallness: pisike 
+smoke: asu 
+star: katoto	katto 
+rock: atu 
+stone: atu 
+sun: sinaka 
+swim: asaasa 
+tail: wi 
+this: atiulu toko 
+2 sg: io 
+thou: io 
+you: io 
+tongue: ramuramuti pa	ramuramutipa 
+tooth: NaluNalu	ŋaluŋalu 
+tree: ai 
+grind: ga lua	lua	xalua 
+two: ga lua	lua	xalua 
+go: kasukasu 
+walk: kasukasu 
+hot: a anasa 
+warm: a anasa 
+water: ateio	manu 
+1 pl. inc.: ami	ita 
+we: ami	ita 
+we₁: ami	ita 
+what: saa 
+white: usouso-ana 
+whiteness: usouso-ana 
+who: se 
+who?: se 
+female: bause 
+woman: bause 
+yellow: talaki-ena 
+distant: masau 
+far: masau 
+dull: mamaata-na 
+heavy: mamaata-na 
+serious: mamaata-na 
+close: kalakalaŋi-na 
+near: kalakalaŋi-na 
+ner: kalakalaŋi-na 
+salt: uela 
+short: tukuna 
+snake: otuana 
+thin: malallake 
+wind: kuukuu 
+earthworm: toliti 
+worm: toliti 
+year: ninamanama 

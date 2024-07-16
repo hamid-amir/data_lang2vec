@@ -1,0 +1,344 @@
+all: all 
+ashes: Aeschen | Äschen 
+bark: billen | Schuel 
+belly: Bauch 
+big: grouss 
+bird: Vugel, Vull 
+bite: baissen | bäissen 
+black: schwaarz 
+blood: Blutt | Blutt	blut 
+bone: Schank | SaNk	Schank	knax 
+breast: Broscht | Broscht	broSt 
+burn: verbrennen 
+cloud: Wollek 
+cold: kaal | kal 
+come: kommen | kom3n	kommen 
+die: stierwen | StiErv3n	stierwen 
+dog: Hond | Hond	Mupp	hond 
+drink: drenken | dreNk3n	drénken 
+dry: drechen | dréchen 
+ear: Ouer | Ouer	ou3r 
+earth: Erd | Buedem 
+eat: iessen, eessen 
+egg: Ee 
+eye: Aa 
+fat (n.): Fett 
+feather: Fieder | Fieder	Plomm 
+fingernail: Fangernool | Nol 
+fire: Feier | Feier	fai3r 
+fish: Fesch | Fësch	feS 
+fly (v.): fleien 
+foot: Fouss 
+full: voll | fol	foll 
+give: gin 
+good: gudd | gutt 
+green: greng | gréng 
+hair: Hoer 
+hand: Hand 
+head: Kapp 
+hear: heieren | heiEr3n	héieren 
+heart: Haerz | Häerz 
+horn: Haar, Huar | Har	har	hu3r 
+I: Ech | Ex	ech 
+kill: Doud maachen, embrengen | doud maachen 
+knee: Knei | Knéi	knei 
+know: wessen | wëssen 
+leaf: Blaat | Blat	blat 
+lie: leien 
+liver: Liewer | Liewer	liEv3r 
+long: laang 
+louse: Laus | Laus	laus 
+man: Mann | Mënsch	mEnS 
+many: vill 
+meat: Flesch, Flaesch | Fleesch 
+moon: Mound, Mond 
+mountain: Bierg | Bierg	biErg 
+mouth: Mond 
+name: Numm | Numm	num 
+neck: Geneck | Hals 
+new: nei | nai	nei 
+night: Nuecht | Nuecht	nu3t 
+nose: Nues | Nues	nu3s 
+not: net 
+one: een, eent | een	eent	ent 
+person: Persoun | Mënsch	mEnS 
+rain: Reen 
+red: roud | rout 
+road: Stroos | Strooss	pad	ve 
+root: Wuerzel 
+round: ronn 
+sand: sand | Sand 
+say: soen | Sand 
+seed: Geseims | Som 
+see: kucken | g3zin	gesin	kucken	kuk3n 
+sit: setzen | sëtzen 
+skin: Haut | Haut	haut 
+sleep: schloofen | schlofen 
+small: kleng 
+smoke: Damp 
+stand: stoen 
+star: Staer | StEr	Stär 
+stone: Steen | Steen	Sten 
+sun: Sonn | Sonn	zon 
+swim: schwammen 
+tail: Schwanz 
+that: deen, daat | dat | een	eent	ent 
+this: desen, dest | dëst 
+thou: ? | du 
+thou: Du | du 
+tongue: zong | Zong	coN 
+tooth: Zand | Zant	cant 
+tree: Baam | Bam	bam 
+two: zwee | cve	zwee 
+walk: goen 
+warm: waarm 
+water: Waasser | Waasser	vas3r 
+we: mier | mir 
+what: waat | wat 
+white: weiss | wäiss 
+who: ween, wien 
+woman: Fraa 
+yellow: giel 
+every: all 
+ash: Äschen 
+abdomen: Bauch 
+bigness: grouss 
+large: grouss 
+bird: Vull 
+breasts: Broscht	broSt 
+come from: kom3n	kommen 
+be dead: StiErv3n	stierwen 
+dead: StiErv3n	stierwen 
+ground: Buedem 
+land: Buedem 
+soil: Buedem 
+eat: iessen 
+fly: fléien 
+fly v.: fléien 
+hand: hand 
+left hand: hand 
+right: hand 
+1 sg.: Ex	ech 
+be knowledgeable: wëssen 
+head louse: Laus	laus 
+male: Mann 
+much: vill 
+multiple: vill 
+several: vill 
+moon: Mound 
+hill: Bierg	biErg 
+title: Numm	num 
+nighttime: Nuecht	nu3t 
+adulterous: een	eent	ent 
+single: een	eent	ent 
+the: een	eent	ent 
+unprincipled: een	eent	ent 
+human: Mënsch	mEnS 
+human being: Mënsch	mEnS 
+rainy weather: Reen 
+path: Strooss	pad	ve 
+route: Strooss	pad	ve 
+hide: Haut	haut 
+little: kleng 
+smallness: kleng 
+rock: Steen	Sten 
+2 sg: du 
+you: du 
+grind: cve	zwee 
+go: goen 
+hot: waarm 
+1 pl. inc.: mir 
+we₁: mir 
+whiteness: wäiss 
+who: wien 
+who?: wien 
+female: Fra 
+woman: Fra 
+distant: wäit	wäit ewech 
+far: wäit	wäit ewech 
+dull: schwéier 
+heavy: schwéier 
+serious: schwéier 
+close: nobäi 
+near: nobäi 
+ner: nobäi 
+salt: Salz 
+short: kuerz 
+snake: Schlaang 
+thin: dënn 
+wind: Loft	Wand 
+earthworm: Wuerm 
+worm: Wuerm 
+year: Joer 
+3 sg.: hien 
+he: hien 
+she: hien 
+2 pl.: dir 
+ye: dir 
+you all: dir 
+3 pl.: si 
+they: si 
+here: hei 
+there: do 
+where: wou 
+where?: wou 
+when: wéini 
+when?: wéini 
+how: wéi 
+how?: wéi 
+some: e puer	puer 
+few: wéineg 
+other: aner 
+three: dräi 
+four: véier 
+five: fënnef 
+broad: breet 
+wide: breet 
+wideness: breet 
+fat: Fett 
+thick: déck 
+narrow: schmuel 
+child: Kand 
+principal wife: Fra 
+wife: Fra 
+husband: Mann 
+his mother: Mamm 
+mother: Mamm 
+my mother: Mamm 
+father: Papp 
+his father: Papp 
+my father: Papp 
+animal: Déier 
+forest: Bësch 
+woods: Bësch 
+branch: Bengel 
+stick: Bengel 
+fruit: Fruucht 
+flower: Blumm 
+grass: Gras 
+cord: Seel 
+rope: Seel 
+flesh: Fleesch 
+grease: Fett 
+claw: Nol 
+nail: Nol 
+leg: Been 
+arm: Hand 
+wing: Flillek 
+gut: Träipen 
+guts: Träipen 
+insides: Träipen 
+intestine: Träipen 
+intestines: Träipen 
+back: Réck 
+suck: suckelen 
+spit: späitzen 
+vomit: katzen 
+blow: blosen 
+breath: otmen 
+breathe: otmen 
+laugh: laachen 
+laughter: laachen 
+cogitate: denken 
+reflect: denken 
+think: denken 
+smell: richen 
+sniff: richen 
+afraid: fäerten 
+be afraid: fäerten 
+fear: fäerten 
+fright: fäerten 
+alive: liewen 
+be alive: liewen 
+life: liewen 
+live: liewen 
+living: liewen 
+fight: streiden 
+hunt: joen 
+beat: schloen 
+hit: schloen 
+strike: schloen 
+cut: schneiden 
+hack: schneiden 
+cut open: deelen 
+split: deelen 
+pierce: stiechen 
+stab: stiechen 
+scratch: krazen 
+dig: buddelen 
+lie down: leien 
+tell lies: leien 
+turn: dréinen 
+turn around: dréinen 
+turn round: dréinen 
+drop: falen 
+fall: falen 
+grasp: halen 
+hold: halen 
+hold in arm: halen 
+squeeze: drécken 
+wring: drécken 
+rub: reiwen 
+wipe: wëschen 
+wash: wäschen 
+wash clothes: wäschen 
+pull: zéien 
+push: drécken 
+shove: drécken 
+throw: schéissen 
+bind: bannen 
+fasten: bannen 
+tie: bannen 
+tie up: bannen 
+sew: bitzen 
+count: zielen 
+enumerate: zielen 
+number: zielen 
+tally: zielen 
+sing: sangen 
+have fun: spillen 
+play: spillen 
+float: schwammen	schwiewen 
+flow: fléissen 
+freeze: fréieren 
+swell: schwëllen 
+brook: Floss 
+river: Floss 
+stream: Floss 
+lake: Séi 
+ocean: Mier 
+sea: Mier 
+dust: Stëbs 
+fog: Niwwel 
+sky: Himmel 
+snow: Schnéi 
+ice: Äis 
+blaze: brennen 
+burn: brennen 
+day: Dag 
+daylight: Dag 
+daytime: Dag 
+old: al 
+bad: schlecht 
+evil: schlecht 
+rot: faul 
+rotten: faul 
+dirty: dreckeg	knaschteg 
+filthy: dreckeg	knaschteg 
+soiled: dreckeg	knaschteg 
+straight: riicht 
+sharp: schaarf 
+blunt: stomp 
+smooth: glat 
+damp: naass 
+wet: naass 
+correct: richteg 
+right side: riets 
+left: lénks 
+at: an	bei	dran	op 
+in: an	dran 
+inside: an	dran 
+with: mat 
+and: an 
+if: wann 
+because: well 

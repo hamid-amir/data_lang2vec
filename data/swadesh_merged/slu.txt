@@ -1,0 +1,125 @@
+all: mumu 
+every: mumu 
+ash: kusma 
+ashes: kusma 
+abdomen: ftéi 
+belly: ftéi 
+bird: manu 
+bite: kis 
+black: metmet 
+blood: lara	lara- 
+bone: luri	luri- 
+breast: huruk	susu	susu-re 
+breasts: huruk	susu	susu-re 
+burn: sor	tun 
+burn tr.: sor	tun 
+cloud: oan 
+cold: rin 
+come: ma 
+come from: ma 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: as 
+drink: i	én 
+dry: met 
+ear: tlia	tlia- 
+egg: tésu 
+eye: mata	mata- 
+feather: husi 
+fire: ai 
+fish: mas 
+good: eras 
+hair: huk 
+hand: sima	sima- 
+left hand: sima	sima- 
+right: sima	sima- 
+head: usu- 
+hear: tomolu 
+1 sg.: yau 
+I: yau 
+kill: bahun 
+be knowledgeable: he 
+know: he 
+leaf: tahi 
+lie: enaf 
+lie down: enaf 
+liver: kati	kati- 
+long: narnar 
+head louse: ut 
+louse: ut 
+male: wa|mwan 
+man: wa|mwan 
+moon: hul 
+mouth: haha- 
+name: an	an|i 
+title: an	an|i 
+neck: swakan	tela 
+night: metjet	mety~et 
+nighttime: metjet	mety~et 
+nose: nura	nura- 
+adulterous: sasam	sásam 
+one: sasam	sásam 
+single: sasam	sásam 
+that: da	so 
+the: sasam	sásam 
+unprincipled: sasam	sásam 
+rain: us 
+rainy weather: us 
+red: mérmér 
+path: sal 
+road: sal 
+route: sal 
+root: kawa-n	wakir 
+sand: laran 
+say: bu 
+see: seak 
+hide: iblu	iblu-n 
+skin: iblu	iblu-n 
+sleep: enaf 
+little: kakan 
+small: kakan 
+smallness: kakan 
+smoke: duha 
+star: ftun 
+rock: hat 
+stone: hat 
+swim: nau 
+tail: iku 
+this: né 
+2 sg: oa 
+thou: oa 
+you: oa 
+tongue: ma	mā 
+tooth: nisi	nisi- 
+grind: ru	ɛnar̃u 
+two: ru	ɛnar̃u 
+go: ba	lakut 
+walk: ba	lakut 
+hot: anas 
+warm: anas 
+water: wer 
+1 pl. inc.: ar|am	it	itit	it|it 
+we: ar|am	it	itit	it|it 
+we₁: ar|am	it	itit	it|it 
+what: sa|i 
+white: bokbok 
+whiteness: bokbok 
+who: e|se 
+who?: e|se 
+female: wa|mhet 
+woman: wa|mhet 
+distant: sos 
+far: sos 
+dull: dedan 
+heavy: dedan 
+serious: dedan 
+close: rsasryas 
+near: rsasryas 
+ner: rsasryas 
+salt: tasi-si-nare 
+short: babaf	dusa 
+snake: ni 
+thin: ninias 
+wind: es 
+year: ain 

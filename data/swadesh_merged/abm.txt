@@ -1,0 +1,160 @@
+all: kpá-kpá 
+every: kpá-kpá 
+ash: à=tɔ̂ŋ 
+ashes: à=tɔ̂ŋ 
+bark: ɛ̀=kpágá 
+abdomen: ɔ̀=là 
+belly: ɔ̀=là 
+bird: ɲ́=ɲǎm=fǒr 
+bite: lôm 
+black: ɲ́=ɲâgâ 
+blood: à=lóŋ 
+bone: ɛ̀=kúb 
+breast: ŋ̀=gǎŋ 
+breasts: ŋ̀=gǎŋ 
+burn: fì 
+burn tr.: fì 
+claw: ɛ̀=ŋɱuàrà 
+nail: ɛ̀=ŋɱuàrà 
+talon: ɛ̀=ŋɱuàrà 
+cold: à=lùg 
+come: bâ 
+come from: bâ 
+be dead: kpɔ̂ 
+dead: kpɔ̂ 
+die: kpɔ̂ 
+dog: ŋ̀=gɔ̂ 
+drink: wɔ̂ 
+dry: yôm 
+ear: ɔ̀=tôŋ 
+earth: ǹ=dě 
+ground: ǹ=dě 
+land: ǹ=dě 
+soil: ǹ=dě 
+eat: lî 
+egg: ɛ́=ʓǐ 
+eye: lɨ̀=mɨ̂r 
+fat: à=fɔ̂m 
+fat n.: à=fɔ̂m 
+grease: à=fɔ̂m 
+lubricant: à=fɔ̂m 
+oil: à=fɔ̂m 
+feather: lɨ́=fǒr 
+fire: ŋ̀=gôn 
+fish: ɔ̀=rí 
+fly: fùbî 
+fly v.: fùbî 
+foot: ɔ̀=tâ 
+give: kàrɛ́ 
+good: e=teŋ	nɔ́bā 
+hair: lɨ̀=ɲû 
+hand: ɔ̀=bɔ̂ 
+left hand: ɔ̀=bɔ̂ 
+right: ɔ̀=bɔ̂ 
+head: ɛ̀=sî 
+hear: yôg 
+heart: lɨ̀=tém 
+horn: ǹ=táŋ 
+1 sg.: mɛ̀ 
+I: mɛ̀ 
+kill: yôl 
+knee: ɛ̀=rûŋ 
+be knowledgeable: mɛ̀ŋɛ̂ 
+know: mɛ̀ŋɛ̂ 
+leaf: lɨ̀=ɲân 
+lie: nɔ̀ŋâ 
+lie down: nɔ̀ŋâ 
+liver: ɛ̀=gbêd 
+long: n̩=dábà 
+head louse: m̀=bôl 
+louse: m̀=bôl 
+male: nɛ=nom 
+man: ǹ=nɛ̀ 
+many: ègbēm-egbem 
+much: ègbēm-egbem 
+multiple: ègbēm-egbem 
+several: ègbēm-egbem 
+flesh: ɲ̀=ɲàm 
+meat: ɲ̀=ɲàm 
+moon: ŋ̀ɱ-ŋɱuɛ̌ 
+hill: ɛ̀=wɔ́ŋ 
+mountain: ɛ̀=wɔ́ŋ 
+mouth: ì=ɲɔ̀ː 
+name: m̀=bèŋ 
+title: m̀=bèŋ 
+neck: ɛ̀=mɛ̀l 
+new: n=fɛ 
+night: à=làgɨ̀=tú 
+nighttime: à=làgɨ̀=tú 
+nose: ŋm̀=ŋmuôl 
+adulterous: dží- -ráŋ	ʓɨ́-ráŋ 
+one: dží- -ráŋ	ʓɨ́-ráŋ 
+single: dží- -ráŋ	ʓɨ́-ráŋ 
+that: dží- -ráŋ	ʓɨ́-ráŋ 
+the: dží- -ráŋ	ʓɨ́-ráŋ 
+unprincipled: dží- -ráŋ	ʓɨ́-ráŋ 
+human: ǹ=nɛ̀ 
+human being: ǹ=nɛ̀ 
+person: ǹ=nɛ̀ 
+rain: à=láp 
+rainy weather: à=láp 
+red: ḿ=bélá 
+path: m̀=báː 
+road: m̀=báː 
+route: m̀=báː 
+root: ǹ=dǔg 
+round: n=kɛ̀dɛ̀ 
+sand: ɛ̀rá=gándè 
+say: àgbábòn 
+see: yɛ̂n 
+seed: m̀=mùg 
+sit: ʓɔ̀l 
+hide: ŋ̀=gò 
+skin: ŋ̀=gò 
+sleep: lâl 
+smoke: à=tûg 
+stand: yémâ 
+star: n=darando 
+rock: lǝ=tal	lə=tal 
+stone: lǝ=tal	lə=tal 
+sun: n̩=ʓól 
+swim: ɲɔ̂g 
+tail: lɨ̀=kêl 
+2 sg: wɔ̀ 
+thou: wɔ̀ 
+you: wɔ̀ 
+tongue: lɨ́=rêbê 
+tooth: lɨ̀=mɨ̂n 
+tree: ɔ̀=té 
+grind: bí- -bâl	bɨ́=bâl 
+two: bí- -bâl	bɨ́=bâl 
+go: šɔn 
+walk: šɔn 
+hot: m̩=fùbā 
+warm: m̩=fùbā 
+water: à=lɨ́b 
+1 pl. inc.: wùr 
+we: wùr 
+we₁: wùr 
+what: bɛ̀=ʓóm 
+white: m=bara 
+whiteness: m=bara 
+who: bà-nɛ́ 
+who?: bà-nɛ́ 
+female: nɛ̀ŋ=kál 
+woman: nɛ̀ŋ=kál 
+yellow: lɨ́=gɔ̂g 
+dull: nobàː 
+heavy: nobàː 
+serious: nobàː 
+close: kpékpédé 
+near: kpékpédé 
+ner: kpékpédé 
+salt: à=kâŋ 
+short: è=kpèdè 
+snake: ɲ̀=ɲɔ̂ 
+thin: ɛ=sɛp-ɛsɛp 
+wind: ɱ̀=fɛ̂b 
+earthworm: ń=dɔ̂ŋɛ̂ 
+worm: ń=dɔ̂ŋɛ̂ 
+year: lɨ̀=yâ 

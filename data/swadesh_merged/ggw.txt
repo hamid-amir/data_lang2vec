@@ -1,0 +1,872 @@
+all: daragiri | daragiri	wairebega	werebega 
+all: wairebega | daragiri	wairebega	werebega 
+all: waire-bega | daragiri	wairebega	werebega 
+all: wela-bega | daragiri	wairebega	werebega 
+all: werebega | daragiri	wairebega	werebega 
+all: were-bega | daragiri	wairebega	werebega 
+and: da 
+ankle: bukaina 
+ankle: bukama 
+arm: inikiki 
+arm: mai 
+arm: mau 
+arm: maːuː 
+arm: moi 
+arm: mopipira 
+arm: mosasa 
+arrow: kowe 
+arrow: soba 
+ashes: ila-puru | ila-puru	puru	ukuru 
+ashes: puru | ila-puru	puru	ukuru 
+ashes: ukuru | ila-puru	puru	ukuru 
+at: -ma 
+back: boiga 
+bad: sasause-bega | saue-saue	savi-savi	savisavi	sosaubega	sosausebega 
+bad: saue-saue | saue-saue	savi-savi	savisavi	sosaubega	sosausebega 
+bad: savi-bega | saue-saue	savi-savi	savisavi	sosaubega	sosausebega 
+bad: savisavi | saue-saue	savi-savi	savisavi	sosaubega	sosausebega 
+bad: savi-savi | saue-saue	savi-savi	savisavi	sosaubega	sosausebega 
+bad: sosaubega | saue-saue	savi-savi	savisavi	sosaubega	sosausebega 
+bad: sosaue-bega | saue-saue	savi-savi	savisavi	sosaubega	sosausebega 
+bad: sosausebega | saue-saue	savi-savi	savisavi	sosaubega	sosausebega 
+bark: ei-kaxa | ei-kaxa	i-kaka	kaka 
+bark: i-kaka | ei-kaxa	i-kaka	kaka 
+bark: kaka | ei-kaxa	i-kaka	kaka 
+belly: goana | goana	guana	kese	mi 
+belly: guana | goana	guana	kese	mi 
+belly: kese | goana	guana	kese	mi 
+belly: mi | goana	guana	kese	mi 
+big: kabigi | kabigi-bega	kabigi-napa	kabigibega 
+big: kabigibega | kabigi-bega	kabigi-napa	kabigibega 
+big: kabigi-bega | kabigi-bega	kabigi-napa	kabigibega 
+big: kabigi-napa | kabigi-bega	kabigi-napa	kabigibega 
+big: sape | kabigi-bega	kabigi-napa	kabigibega 
+bird: puede | puede	puida	puide	puidi 
+bird: puida | puede	puida	puide	puidi 
+bird: puide | puede	puida	puide	puidi 
+bird: puidi | puede	puida	puide	puidi 
+bite: ari | ari	ariwa	nana 
+bite: ariwa | ari	ariwa	nana 
+bite: nana | ari	ariwa	nana 
+bite: nanerowa | ari	ariwa	nana 
+bitter: samakabegerero 
+bitter: samaka-bege-rero 
+bitter: sokama-begerero 
+bitter: sosawebega 
+bitter: sosawe-bega 
+black: dinapa | idi	idinapa	tatari	ukurua-napa 
+black: idi | idi	idinapa	tatari	ukurua-napa 
+black: idinapa | idi	idinapa	tatari	ukurua-napa 
+black: tatari | idi	idinapa	tatari	ukurua-napa 
+black: ukurua-napa | idi	idinapa	tatari	ukurua-napa 
+blood: dede | dada	dede	dɛdɛ 
+blood: dɛdɛ | dada	dede	dɛdɛ 
+blood: didi | dada	dede	dɛdɛ 
+bone: gosa | gosa	gɔsa 
+bone: gɔsa | gosa	gɔsa 
+boy: daragi 
+boy: kakasi 
+boy: kasi-kasi 
+boy: kubipura 
+boy: purakoabi 
+boy: tetaragi 
+branch: itara | itara	tala	tara	tata	tatabagi 
+branch: tala | itara	tala	tara	tata	tatabagi 
+branch: tala/tata | itara	tala	tara	tata	tatabagi 
+branch: tara | itara	tala	tara	tata	tatabagi 
+branch: tata | itara	tala	tara	tata	tatabagi 
+branch: tatabagi | itara	tala	tara	tata	tatabagi 
+breast: mi | mi	omo 
+breast: omo | mi	omo 
+brother: ijagwala 
+brother: kabi-gesi-ginapi 
+brother: kabi-ginapi 
+brother: kaka 
+brother: naniwa 
+brother: napiagura 
+brother: napinanivi 
+brother: nepiaguara 
+burn: oro 
+butterfly: kapara 
+butterfly: tauta 
+calf: iudina 
+calf: udina 
+cheek: apaia 
+chest: mi 
+child: kekepura | kekepura	koabi	kobipura 
+child: koabi | kekepura	koabi	kobipura 
+child: kobipura | kekepura	koabi	kobipura 
+child: sege | kekepura	koabi	kobipura 
+chin: biridi 
+chin: pigipigi 
+chin: rige 
+claw: maikabua | kaboa	kalivi	maikabua	moi-kariwi 
+cloud: bi | bi	bi-iti	iti 
+cloud: bi-iti | bi	bi-iti	iti 
+cloud: iti | bi	bi-iti	iti 
+cold: geage | geage	gege 
+cold: gege | geage	gege 
+come: mateperero | mateperero	pe	peia	pep3 
+come: pe | mateperero	pe	peia	pep3 
+come: pe(-ia) | mateperero	pe	peia	pep3 
+come: pepä | mateperero	pe	peia	pep3 
+crocodile: dupa 
+cut: tami | tami	temi 
+cut: temi | tami	temi 
+dance: maiata 
+dance: maiatoroa 
+dance: moiatoro 
+dark: iti 
+dark: waitivina 
+daughter: susegemata 
+daughter: susiagi 
+day: debe | kadepa	kadepa-rurira	kadepe-kabigi 
+day: denia | kadepa	kadepa-rurira	kadepe-kabigi 
+day: kadepa | kadepa	kadepa-rurira	kadepe-kabigi 
+day: kadepa-rurira | kadepa	kadepa-rurira	kadepe-kabigi 
+day: kadepe-kabigi | kadepa	kadepa-rurira	kadepe-kabigi 
+day: ruriroro | kadepa	kadepa-rurira	kadepe-kabigi 
+die: agoi | agoi	akaue-na	akauena	kau	rewari-wagoi	rewariwa 
+die: akauena | agoi	akaue-na	akauena	kau	rewari-wagoi	rewariwa 
+die: akaue-na | agoi	akaue-na	akauena	kau	rewari-wagoi	rewariwa 
+die: akawe | agoi	akaue-na	akauena	kau	rewari-wagoi	rewariwa 
+die: kau | agoi	akaue-na	akauena	kau	rewari-wagoi	rewariwa 
+die: rewariwa | agoi	akaue-na	akauena	kau	rewari-wagoi	rewariwa 
+die: rewari-wagoi | agoi	akaue-na	akauena	kau	rewari-wagoi	rewariwa 
+dig: boiga-tude | tupawa	wagamiemina 
+dig: etu | tupawa	wagamiemina 
+dig: tu | tupawa	wagamiemina 
+dig: tupawa | tupawa	wagamiemina 
+dig: wagamiemina | tupawa	wagamiemina 
+dirty: kakapa 
+dog: soke | soke	sokɛ	suke 
+dog: sokɛ | soke	sokɛ	suke 
+dog: suke | soke	sokɛ	suke 
+drink: ni- | ni	nideː	nido	wi-nida 
+drink: nide: | ni	nideː	nido	wi-nida 
+drink: nido | ni	nideː	nido	wi-nida 
+drink: nido! | ni	nideː	nido	wi-nida 
+drink: wi-nida | ni	nideː	nido	wi-nida 
+dry: motabini | motabini	sarebega	seirobega	sera 
+dry: sarebega | motabini	sarebega	seirobega	sera 
+dry: sare-bega | motabini	sarebega	seirobega	sera 
+dry: seirobega | motabini	sarebega	seirobega	sera 
+dry: seiro-bega | motabini	sarebega	seirobega	sera 
+dry: sera | motabini	sarebega	seirobega	sera 
+ear: gibi | gibi	igibi	waki 
+ear: igibi | gibi	igibi	waki 
+earth: boda 
+earth: boiga 
+earth: boiga-te 
+earth: boiga-wera-bega 
+earth: ei 
+earth: eːi 
+earth: omo 
+earth: papapara 
+ear: waki | gibi	igibi	waki 
+eat: (au-)nana | au-nana	na	nana	nauo	nou 
+eat: munitiwa | au-nana	na	nana	nauo	nou 
+eat: na | au-nana	na	nana	nauo	nou 
+eat: na- | au-nana	na	nana	nauo	nou 
+eat: nana | au-nana	na	nana	nauo	nou 
+eat: nauo | au-nana	na	nana	nauo	nou 
+eat: nou | au-nana	na	nana	nauo	nou 
+egg: iau | iau	iou	puwideiewo 
+egg: iou | iau	iou	puwideiewo 
+egg: puwideiewo | iau	iou	puwideiewo 
+egg: puwide-iewo | iau	iou	puwideiewo 
+egg: puwideiewo-bou | iau	iou	puwideiewo 
+egg: puwideiewo-dina | iau	iou	puwideiewo 
+elbow: mobe 
+elbow: mɔbe 
+elbow: mopo-pira 
+emu: gogoro 
+emu: wadoba 
+emu: wadobo 
+excrement: gua 
+excrement: gwa 
+eye: tao | tao	tau-daba	tauo	taɔ 
+eye: taɔ | tao	tau-daba	tauo	taɔ 
+eye: tau-daba | tao	tau-daba	tauo	taɔ 
+eye: tauo | tao	tau-daba	tauo	taɔ 
+eye: tauo-kaka | tao	tau-daba	tauo	taɔ 
+eye: tauo-kona | tao	tau-daba	tauo	taɔ 
+face: sosoko 
+fall: adiraui | adiraui	dira	dirave	dirawa 
+fall: dira | adiraui	dira	dirave	dirawa 
+fall: dirave | adiraui	dira	dirave	dirawa 
+fall: dirawa | adiraui	dira	dirave	dirawa 
+far: wamatabega | wamatabega	wamate-bega 
+far: wamata-vega | wamatabega	wamate-bega 
+far: wamate-bega | wamatabega	wamate-bega 
+father: wawa 
+fat (n.): sape 
+fat (n.): sape-bega 
+fear: emo | emorero 
+fear: emorero 
+feather: kona | kona	puide-kono 
+feather: puide-kono | kona	puide-kono 
+fight: givera | givera	giwera	giweri 
+finger: ei 
+finger: eve-inaau 
+finger: maie 
+finger: manapaikabea 
+finger: menapaikabea 
+finger: moi-nikiki 
+fingernail: kaboa | kaboa	kalivi	maikabua	moi-kariwi 
+fingernail: kalivi | kaboa	kalivi	maikabua	moi-kariwi 
+fingernail: maikabua | kaboa	kalivi	maikabua	moi-kariwi 
+fingernail: moi-kariwi | kaboa	kalivi	maikabua	moi-kariwi 
+fire: ila | ila	ila-	ira 
+fire: ila- | ila	ila-	ira 
+fire: ira | ila	ila-	ira 
+fish: mauka | mauka	mewa	muka 
+fish: mewa | mauka	mewa	muka 
+fish: muka | mauka	mewa	muka 
+flower: ikara | ikara	kabadi-kabadi	urigaro 
+flower: kabadi-kabadi | ikara	kabadi-kabadi	urigaro 
+flower: urigaro | ikara	kabadi-kabadi	urigaro 
+fly (n.): amadu 
+fly (n.): guapo 
+fly (n.): guapu 
+fly (v.): apuivi 
+fly (v.): apuiwi 
+foot: ai-dabu | ai-dabu	ai-guana	e-guana	ei	ɛi 
+foot: ai-guana | ai-dabu	ai-guana	e-guana	ei	ɛi 
+foot: egasima | ai-dabu	ai-guana	e-guana	ei	ɛi 
+foot: eguana | ai-dabu	ai-guana	e-guana	ei	ɛi 
+foot: e-guana | ai-dabu	ai-guana	e-guana	ei	ɛi 
+foot: ei | ai-dabu	ai-guana	e-guana	ei	ɛi 
+foot: ɛi | ai-dabu	ai-guana	e-guana	ei	ɛi 
+foot: eigasima | ai-dabu	ai-guana	e-guana	ei	ɛi 
+foot: eiguana | ai-dabu	ai-guana	e-guana	ei	ɛi 
+foot: -guana | ai-dabu	ai-guana	e-guana	ei	ɛi 
+forehead: deku 
+forehead: dogo 
+forehead: dɔgɔ 
+four: saki-saki | sakisaki 
+fruit: adamu | adamu	gonomiti	irapira	rapira 
+fruit: gonomiti | adamu	gonomiti	irapira	rapira 
+fruit: irapira | adamu	gonomiti	irapira	rapira 
+fruit: rapira | adamu	gonomiti	irapira	rapira 
+full: atawa | atawa	atawave	taobega	taubega 
+full: atawave | atawa	atawave	taobega	taubega 
+full: taobega | atawa	atawave	taobega	taubega 
+full: tau(bega) | atawa	atawave	taobega	taubega 
+girl: aiminagi(-kokoabe) 
+girl: aminage 
+girl: aminagi 
+girl: busi-kokoabe 
+girl: suakoabi 
+girl: sua-koabi 
+girl: suakomi 
+girl: sua-komi 
+girl: sua-sigi 
+girl: susiagi 
+girl: su-singi 
+give: -ata- | -ata-	mamakaka	miditi 
+give: mamakaka | -ata-	mamakaka	miditi 
+give: me- | -ata-	mamakaka	miditi 
+give: miditi | -ata-	mamakaka	miditi 
+give: s-asa | -ata-	mamakaka	miditi 
+give: ve | -ata-	mamakaka	miditi 
+good: sälenapa | sare-bega	sarebega 
+good: sarebega | sare-bega	sarebega 
+good: sare-bega | sare-bega	sarebega 
+good: sare-beja | sare-bega	sarebega 
+grass: garogo | garogo	kaikaigurugu	kakakamina	karikarigoro 
+grass: kaikaigurugu | garogo	kaikaigurugu	kakakamina	karikarigoro 
+grass: kakakamina | garogo	kaikaigurugu	kakakamina	karikarigoro 
+grass: karikarigoro | garogo	kaikaigurugu	kakakamina	karikarigoro 
+green: kikirinapa 
+guts: kese | maradi	maragi 
+guts: maradi | maradi	maragi 
+guts: maradi ~ maragi | maradi	maragi 
+guts: maragi | maradi	maragi 
+hair: bona | tita 
+hair: kona | tita 
+hair: tita 
+hair: ti:ta | tita 
+hand: kueta kueta | kueta kueta	kueta-kueta	mai	mai-guana 
+hand: kueta-kueta | kueta kueta	kueta-kueta	mai	mai-guana 
+hand: mai | kueta kueta	kueta-kueta	mai	mai-guana 
+hand: (mai)-guana | kueta kueta	kueta-kueta	mai	mai-guana 
+hand: mai-guana | kueta kueta	kueta-kueta	mai	mai-guana 
+head: ganabi 
+hear: ainimaweta | ainimaweta	enama	enamadera 
+hear: aperero | ainimaweta	enama	enamadera 
+hear: enama | ainimaweta	enama	enamadera 
+hear: enama- | ainimaweta	enama	enamadera 
+hear: enamadera | ainimaweta	enama	enamadera 
+heart: alibu | aripo	aripu	titi 
+heart: aripo | aripo	aripu	titi 
+heart: aripu | aripo	aripu	titi 
+heart: titi | aripo	aripu	titi 
+heavy: mena-bega | mena-bega	mene-bega	mene-bɛga	menebega 
+heavy: mene- | mena-bega	mene-bega	mene-bɛga	menebega 
+heavy: menebega | mena-bega	mene-bega	mene-bɛga	menebega 
+heavy: mene-bega | mena-bega	mene-bega	mene-bɛga	menebega 
+heavy: mene-(bega) | mena-bega	mene-bega	mene-bɛga	menebega 
+heavy: mene-bɛga | mena-bega	mene-bega	mene-bɛga	menebega 
+heel: egasima 
+heel: e(i)gasima 
+here: mema 
+he/she: abo 
+he/she: e 
+he/she: edoware 
+he/she: edowari 
+he/she: -lelo 
+he/she: -ø- 
+he/she: oba 
+he/she: yama 
+hit: givera | rapode	urapada 
+hit: giwera | rapode	urapada 
+hit: giweri | rapode	urapada 
+hit: rapode | rapode	urapada 
+hit: rapororo | rapode	urapada 
+hit: urapada | rapode	urapada 
+hold: ege 
+house: gegenama 
+house: genama 
+house: genama/gegenama 
+house: genamo 
+how: a: | aː 
+how: aː 
+how: atepia | aː 
+hunt: sima 
+husband: daragi 
+I: -loa | na	ne	nepe	nɛ 
+I: na | na	ne	nepe	nɛ 
+I: nä | na	ne	nepe	nɛ 
+I: nadoware | na	ne	nepe	nɛ 
+I: nadowari | na	ne	nepe	nɛ 
+I: näpe | na	ne	nepe	nɛ 
+I: ne | na	ne	nepe	nɛ 
+I: -ne- | na	ne	nepe	nɛ 
+I: nɛ | na	ne	nepe	nɛ 
+I: -nɛ | na	ne	nepe	nɛ 
+I: nedowari | na	ne	nepe	nɛ 
+I: nepe | na	ne	nepe	nɛ 
+jaw: kige 
+jaw: liga 
+jaw: rige 
+kill: akoe | akoe	rapo	rapo-da	rapode 
+kill: rapo | akoe	rapo	rapo-da	rapode 
+kill: rapo-da | akoe	rapo	rapo-da	rapode 
+kill: rapode | akoe	rapo	rapo-da	rapode 
+kill: rapo-de | akoe	rapo	rapo-da	rapode 
+knee: asiawa | asiawa	asimisi	ɑsmisi 
+knee: asimisi | asiawa	asimisi	ɑsmisi 
+knee: asi-misi | asiawa	asimisi	ɑsmisi 
+knee: asimisi-manonoa | asiawa	asimisi	ɑsmisi 
+knee: ɑsmisi | asiawa	asimisi	ɑsmisi 
+know: itaua | itaua	itawa 
+know: itawa | itaua	itawa 
+lake: wasewa 
+laugh: iareroa | iareroa	iereo	ierero	iereroa	igiamaroro 
+laugh: iereo | iareroa	iereo	ierero	iereroa	igiamaroro 
+laugh: ierero | iareroa	iereo	ierero	iereroa	igiamaroro 
+laugh: iereroa | iareroa	iereo	ierero	iereroa	igiamaroro 
+laugh: iererua | iareroa	iereo	ierero	iereroa	igiamaroro 
+laugh: igiamaroro | iareroa	iereo	ierero	iereroa	igiamaroro 
+laugh: irero | iareroa	iereo	ierero	iereroa	igiamaroro 
+laugh: rereo | iareroa	iereo	ierero	iereroa	igiamaroro 
+leaf: bagi | bagi	ei-baga	i-sapa	ibagi 
+leaf: ei-baga | bagi	ei-baga	i-sapa	ibagi 
+leaf: ibagi | bagi	ei-baga	i-sapa	ibagi 
+leaf: i-bagi | bagi	ei-baga	i-sapa	ibagi 
+leaf: i-sapa | bagi	ei-baga	i-sapa	ibagi 
+left: ewagiadi | pereʼedi 
+left: pere-edi | pereʼedi 
+left: pere\edi | pereʼedi 
+leg: ai | ai	ei	kaka	ɛi 
+leg: ei | ai	ei	kaka	ɛi 
+leg: ɛi | ai	ei	kaka	ɛi 
+leg: kaka | ai	ei	kaka	ɛi 
+lie: depe-tene-merite | tene	tenerero | ime-rarero	sewata 
+lie: tene | tene	tenerero | ime-rarero	sewata 
+lie: tenerero | tene	tenerero | ime-rarero	sewata 
+lie: tene-rero | tene	tenerero | ime-rarero	sewata 
+lie: tene(rero) | tene	tenerero | ime-rarero	sewata 
+lightning: paieterero 
+lightning: paːiːterero 
+lightning: peka-peka 
+lightning: pevi 
+lip: magatapi 
+lip: magata-pi 
+live: e- | e-	kanikeworo 
+live: kanikeworo | e-	kanikeworo 
+live: mana | e-	kanikeworo 
+liver: gauna | gauna	guana	gwana 
+liver: guana | gauna	guana	gwana 
+liver: gwana | gauna	guana	gwana 
+long: gigisa-bɛga | leobɛga	rewa-bega 
+long: gigise(bega) | leobɛga	rewa-bega 
+long: leobɛga | leobɛga	rewa-bega 
+long: rewa-bega | leobɛga	rewa-bega 
+louse: ami 
+man: dala | luma 
+man: dalagi | luma 
+man: dala-gi/dala | luma 
+man: daragi | luma 
+man: dara-gi | luma 
+many: waira- | wairabega	ware-bega 
+many: wairabega | wairabega	ware-bega 
+many: ware-bega | wairabega	ware-bega 
+meat: obe | obe	sɛpɔ 
+meat: sepo | obe | obe	sɛpɔ 
+meat: sɛpɔ | obe | obe	sɛpɔ 
+moon: samosa | samosa	samoso 
+moon: samoso | samosa	samoso 
+moon: samoso-akauana | samosa	samoso 
+moon: samoso-kabigibega | samosa	samoso 
+morning: ibasege 
+mosquito: gunipi 
+mother: agi 
+mountain: gigisa | gigisa	podo	pɔdɔ	saka	saka-sidi-bega 
+mountain: podo | gigisa	podo	pɔdɔ	saka	saka-sidi-bega 
+mountain: pɔdɔ | gigisa	podo	pɔdɔ	saka	saka-sidi-bega 
+mountain: saka | gigisa	podo	pɔdɔ	saka	saka-sidi-bega 
+mountain: sakasidibega | gigisa	podo	pɔdɔ	saka	saka-sidi-bega 
+mountain: saka-sidi-bega | gigisa	podo	pɔdɔ	saka	saka-sidi-bega 
+mouth: magata | magata	magata-dawada	mageta 
+mouth: magata-dawada | magata	magata-dawada	mageta 
+mouth: mageta | magata	magata-dawada	mageta 
+name: gagi | gagi	gagi- 
+name: gagi- | gagi	gagi- 
+navel: kamadidi 
+navel: kanadibi 
+navel: kandibi 
+neck: mada | mada	naduduri 
+neck: naduduri | mada	naduduri 
+new: kanike | kanika	kanike	kanikɛ	kɑnixinapa 
+new: kanikɛ | kanika	kanike	kanikɛ	kɑnixinapa 
+new: kaniki | kanika	kanike	kanikɛ	kɑnixinapa 
+new: kanixinapa | kanika	kanike	kanikɛ	kɑnixinapa 
+new: kɑnixinapa | kanika	kanike	kanikɛ	kɑnixinapa 
+night: debe | debe	isa	itarare	iti	waːitivi	waːtivi 
+night: isa | debe	isa	itarare	iti	waːitivi	waːtivi 
+night: itarare | debe	isa	itarare	iti	waːitivi	waːtivi 
+night: iti | debe	isa	itarare	iti	waːitivi	waːtivi 
+night: sibasigi | debe	isa	itarare	iti	waːitivi	waːtivi 
+night: waaitivi | debe	isa	itarare	iti	waːitivi	waːtivi 
+night: wa:tivi | debe	isa	itarare	iti	waːitivi	waːtivi 
+nose: mina | mina	mine 
+nose: mine | mina	mine 
+not: bini 
+old: aedebaga 
+old: aede-bega 
+old: amata-bega 
+old: kadere 
+old: pakara 
+one: menagi 
+other: eta 
+person: luma 
+play: ia | ia	iade 
+play: iade | ia	iade 
+pull: atigemi 
+pull: atigiem 
+pull: atigimi 
+pull: siriemi 
+pull: sirimi 
+rain: goi | goi	gui	gwi 
+rain: gui | goi	gui	gwi 
+rain: gwi | goi	gui	gwi 
+rat: totode 
+rat: totodo 
+red: wasa | wasa	wasa-napa 
+red: wasa-napa | wasa	wasa-napa 
+right: mimiti | kueta kueta	kueta-kueta	mai	mai-guana | mimiti	mimitiade	mimitiadi 
+right: mimiti(ade) | kueta kueta	kueta-kueta	mai	mai-guana | mimiti	mimitiade	mimitiadi 
+right: mimitiadi | kueta kueta	kueta-kueta	mai	mai-guana | mimiti	mimitiade	mimitiadi 
+ripe: mukusa 
+river: kabigega-tara | kabigega-tara	tara	ture-kabiki 
+river: tara | kabigega-tara	tara	ture-kabiki 
+river: ture-kabiki | kabigega-tara	tara	ture-kabiki 
+river: wasewa | kabigega-tara	tara	ture-kabiki 
+road: nabidi 
+root: sasa 
+rope: tao | tao	tauwo 
+rope: tauwo | tao	tauwo 
+salt: sasaubega | sasaubega	wasiobi 
+salt: wasiobi | sasaubega	wasiobi 
+sand: osama | osama	sasasa 
+sand: sasasa | osama	sasasa 
+say: ana | la | osama	sasasa 
+say: au-magate | la | osama	sasasa 
+say: girara | la | osama	sasasa 
+say: girarero | la | osama	sasasa 
+say: la | osama	sasasa 
+say: lala | osama	sasasa 
+scratch: gigiriemi | gigiriemi	kakata-saodiri 
+scratch: kakata-saodiri | gigiriemi	kakata-saodiri 
+sea: gaura-bega 
+sea: geniri 
+sea: vikabigibega 
+sea: wasewavi 
+see: atiramora | -ti-	atiramora	ti	tirama 
+seed: gumiti 
+see: ti | -ti-	atiramora	ti	tirama 
+see: -ti- | -ti-	atiramora	ti	tirama 
+see: ti- | -ti-	atiramora	ti	tirama 
+see: tirama | -ti-	atiramora	ti	tirama 
+short: parakusapura | parakusapura	parakutapura 
+short: parakutapura | parakusapura	parakutapura 
+short: parapura | parakusapura	parakutapura 
+shoulder: paro 
+shoulder: paro-gosa 
+sing: diri | diri	diri-guarerero ɳ 
+sing: diri-guarerero | diri	diri-guarerero ɳ 
+sister: ietegwara 
+sister: naniata 
+sister: napegora 
+sister: naya 
+sister: nepisaware 
+sister: omien 
+sister: sawari 
+sit: au-mana | au-mana	mana	nanawa 
+sit: mana | au-mana	mana	nanawa 
+sit: nanawa | au-mana	mana	nanawa 
+skin: ikaka | ikaka	kaka	kaːka 
+skin: (i)kaka | ikaka	kaka	kaːka 
+skin: kaka | ikaka	kaka	kaːka 
+skin: kaːka | ikaka	kaka	kaːka 
+sky: iboa | iboa	iti	kadepa 
+sky: iti | iboa	iti	kadepa 
+sky: kadepa | iboa	iti	kadepa 
+sleep: au-tene | au-tene	imoa	tene	tenerero 
+sleep: imoa | au-tene	imoa	tene	tenerero 
+sleep: tene | au-tene	imoa	tene	tenerero 
+sleep: tene(-lo) | au-tene	imoa	tene	tenerero 
+sleep: tenerero | au-tene	imoa	tene	tenerero 
+sleep: tene-rero | au-tene	imoa	tene	tenerero 
+small: -koabi | -koabi	kobi-pura	kobipura	kokoabi 
+small: kobipura | -koabi	kobi-pura	kobipura	kokoabi 
+small: kobi-pura | -koabi	kobi-pura	kobipura	kokoabi 
+small: kokoabi | -koabi	kobi-pura	kobipura	kokoabi 
+smell: iporu | iporu	ipowa	ipowaro 
+smell: ipowaro | iporu	ipowa	ipowaro 
+smell: ipoworo | iporu	ipowa	ipowaro 
+smoke: idinapa | ila-kaka	kaka	wo	wou	woːu 
+smoke: (ila-)kaka | ila-kaka	kaka	wo	wou	woːu 
+smoke: sakopa-nide | ila-kaka	kaka	wo	wou	woːu 
+smoke: sakopa-nido | ila-kaka	kaka	wo	wou	woːu 
+smoke: tatari | ila-kaka	kaka	wo	wou	woːu 
+smoke: wo | ila-kaka	kaka	wo	wou	woːu 
+smoke: wou | ila-kaka	kaka	wo	wou	woːu 
+smoke: woːu | ila-kaka	kaka	wo	wou	woːu 
+snake: marebe | marebe	marebi 
+snake: marebi | marebe	marebi 
+son: diri 
+son: kobipura 
+son: mata 
+sour: sokamaewe 
+sour: sokamerero 
+sour: sokame-rero 
+spit: ditiwi | ditiwa	getu	getu-ditiwa 
+spit: getu | ditiwa	getu	getu-ditiwa 
+spit: getu-ditiwa | ditiwa	getu	getu-ditiwa 
+stand: pata 
+stand: pata-wa 
+star: erara | erara	ibina	ipini 
+star: ibina | erara	ibina	ipini 
+star: ipini | erara	ibina	ipini 
+stone: bakere | bakere	beere	bere	gewa	me 
+stone: beere | bakere	beere	bere	gewa	me 
+stone: gewa | bakere	beere	bere	gewa	me 
+stone: kere | bakere	beere	bere	gewa	me 
+stone: me | bakere	beere	bere	gewa	me 
+straight: serere | serere	sogorapa 
+straight: sogorapa | serere	sogorapa 
+sun: darigi | darigi	gadepa	kadepa	kadɛpa 
+sun: gadepa | darigi	gadepa	kadepa	kadɛpa 
+sun: kadepa | darigi	gadepa	kadepa	kadɛpa 
+sun: kadɛpa | darigi	gadepa	kadepa	kadɛpa 
+sweet: seripara 
+swim: uarerero | uarerero	uri	uriroro	uriroːroːwa	witara 
+swim: uri | uarerero	uri	uriroro	uriroːroːwa	witara 
+swim: uriroro | uarerero	uri	uriroro	uriroːroːwa	witara 
+swim: urirorowa | uarerero	uri	uriroro	uriroːroːwa	witara 
+swim: uriroːroːwa | uarerero	uri	uriroro	uriroːroːwa	witara 
+swim: witara | uarerero	uri	uriroro	uriroːroːwa	witara 
+tail: uani | uani	wani	wiawa 
+tail: wani | uani	wani	wiawa 
+tail: wiawa | uani	wani	wiawa 
+take: ege 
+take: igi 
+take: iri 
+take: iriri 
+that: ama | ama	iɛma	ɛma | menagi 
+that: ɛma | ama	iɛma	ɛma | menagi 
+that: ema/iema | ama	iɛma	ɛma | menagi 
+that: iɛma | ama	iɛma	ɛma | menagi 
+there: ema | ema	mama 
+there: mama | ema	mama 
+they: abwi | daː	de	ubi- 
+they: da | daː	de	ubi- 
+they: da: | daː	de	ubi- 
+they: de | daː	de	ubi- 
+they: -de- | daː	de	ubi- 
+they: -dɛ | daː	de	ubi- 
+they: emo | daː	de	ubi- 
+they two: -delo 
+they: ub | daː	de	ubi- 
+they: ubi- | daː	de	ubi- 
+thick: kabigi- | kabigibega 
+thick: kabigibega 
+thigh: ima 
+thigh: sepo 
+thigh: sepu 
+thigh: tuba 
+thin: isapanapa | isapanapa	kobipura	ropa	uramobini 
+think: enama | enama	iware 
+think: iware | enama	iware 
+thin: kobipura | isapanapa	kobipura	ropa	uramobini 
+thin: ropa | isapanapa	kobipura	ropa	uramobini 
+thin: uramobini | isapanapa	kobipura	ropa	uramobini 
+this: ima | ima	mɛma 
+this: mema | ima	mɛma 
+this: mɛma | ima	mɛma 
+thorn: eai 
+thou: ä | 3	a	da	e	eː	se	ɛ 
+thou: dɛ | 3	a	da	e	eː	se	ɛ 
+thou: -dɛ | 3	a	da	e	eː	se	ɛ 
+thou: e | 3	a	da	e	eː	se	ɛ 
+thou: e: | 3	a	da	e	eː	se	ɛ 
+thou: ɛ | 3	a	da	e	eː	se	ɛ 
+thou: edoware | 3	a	da	e	eː	se	ɛ 
+thou: edowari | 3	a	da	e	eː	se	ɛ 
+thou: -ø- | 3	a	da	e	eː	se	ɛ 
+thou: se | 3	a	da	e	eː	se	ɛ 
+three: sarikiriwa 
+throat: mada-mudi 
+throat: nanadudi 
+throat: nandudi 
+throat: rapira 
+throw: babemi 
+throw: koremi 
+throw: wombembem 
+thunder: gigila 
+thunder: gitagigiro 
+tie: kubeme | kubeme	papami	pasami 
+tie: papami | kubeme	papami	pasami 
+tie: pasami | kubeme	papami	pasami 
+tomorrow: geda 
+tomorrow: gede 
+tomorrow: gedɛ 
+tongue: melepila | malapila	melepila	merepira	meripire	mɛlɛpila 
+tongue: mɛlɛpila | malapila	melepila	merepira	meripire	mɛlɛpila 
+tongue: merepira | malapila	melepila	merepira	meripire	mɛlɛpila 
+tongue: meripire | malapila	melepila	merepira	meripire	mɛlɛpila 
+tongue: meropire | malapila	melepila	merepira	meripire	mɛlɛpila 
+tooth: karita | porso	pos3	poso	pòso	pɔsɔ 
+tooth: porso | porso	pos3	poso	pòso	pɔsɔ 
+tooth: po:sï | porso	pos3	poso	pòso	pɔsɔ 
+tooth: poso | porso	pos3	poso	pòso	pɔsɔ 
+tooth: pòso | porso	pos3	poso	pòso	pɔsɔ 
+tooth: pɔsɔ | porso	pos3	poso	pòso	pɔsɔ 
+tree: ei 
+tree: i 
+tree: i: 
+tree: iː 
+tree: soba 
+two: sake | sake	saki	sakoi 
+two: saki | sake	saki	sakoi 
+two: sakoi | sake	saki	sakoi 
+vagina: ai 
+vomit: taride | taride	tarira 
+vomit: tarira | taride	tarira 
+walk: gigira | nade	wamo	weramerero	werero 
+walk: nade | nade	wamo	weramerero	werero 
+walk: nuauwerero | nade	wamo	weramerero	werero 
+walk: ve | nade	wamo	weramerero	werero 
+walk: wamo | nade	wamo	weramerero	werero 
+walk: waveraro | nade	wamo	weramerero	werero 
+walk: weramerero | nade	wamo	weramerero	werero 
+walk: weramorero | nade	wamo	weramerero	werero 
+walk: werero | nade	wamo	weramerero	werero 
+wallaby: gauba 
+wallaby: gouba 
+warm: gira | gira	ilabɛga 
+warm: ilabɛga | gira	ilabɛga 
+warm: oronevi | gira	ilabɛga 
+wash: vitauo | wi-ami	wi-tara	witara	witou 
+wash: vitoo | wi-ami	wi-tara	witara	witou 
+wash: wi-ami | wi-ami	wi-tara	witara	witou 
+wash: witai | wi-ami	wi-tara	witara	witou 
+wash: witara | wi-ami	wi-tara	witara	witou 
+wash: wi-tara | wi-ami	wi-tara	witara	witou 
+wash: wi-toa | wi-ami	wi-tara	witara	witou 
+wash: witou | wi-ami	wi-tara	witara	witou 
+water: iboa | iboa	ivi	vi	wi	wi-sare-bega 
+water: ivi | iboa	ivi	vi	wi	wi-sare-bega 
+water: vi | iboa	ivi	vi	wi	wi-sare-bega 
+water: wi | iboa	ivi	vi	wi	wi-sare-bega 
+water: wima | iboa	ivi	vi	wi	wi-sare-bega 
+water: wi-sare-bega | iboa	ivi	vi	wi	wi-sare-bega 
+weep: adimadoro 
+weep: saberero 
+weep: sabi 
+weep: sabo 
+we (incl.): se 
+we: -lele | s3	se 
+we: sä | s3	se 
+we: sae | s3	se 
+we: se | s3	se 
+we: -se- | s3	se 
+we: se: | s3	se 
+we: sɛ | s3	se 
+we: -sɛ | s3	se 
+we: sedowari | s3	se 
+we: seperopara | s3	se 
+wet: bibira | bibira	bibiro bega	sosaubega 
+wet: bibiro- | bibira	bibiro bega	sosaubega 
+wet: bibiro bega | bibira	bibiro bega	sosaubega 
+wet: sosau- | bibira	bibiro bega	sosaubega 
+wet: sosaubega | bibira	bibiro bega	sosaubega 
+we two: -dele 
+we two (incl.): desake 
+we two (incl.): sesake 
+what: a | a	awatapai	poa 
+what: awatapai | a	awatapai	poa 
+what: etepinapaia | a	awatapai	poa 
+what: poa | a	awatapai	poa 
+what: po(w)a | a	awatapai	poa 
+where: be | be	epuwatia 
+where: epuwatia | be	epuwatia 
+white: abiro | abiro	abironapa	sekewa-napa 
+white: abironapa | abiro	abironapa	sekewa-napa 
+white: abiro-napa | abiro	abironapa	sekewa-napa 
+white: sekewa-napa | abiro	abironapa	sekewa-napa 
+who: poate | poate	powatea 
+who: powatea | poate	powatea 
+wife: susagi | susagi	susege 
+wife: susege | susagi	susege 
+wind: bitununa | bitununa	ibua	omina 
+wind: ibua | bitununa	ibua	omina 
+wind: omina | bitununa	ibua	omina 
+wind: umína | bitununa	ibua	omina 
+wing: ita 
+with: da 
+woman: ato | ato	busi	susagi	susege	susɛgi 
+woman: busi | ato	busi	susagi	susege	susɛgi 
+woman: susagi | ato	busi	susagi	susege	susɛgi 
+woman: susege | ato	busi	susagi	susege	susɛgi 
+woman: susɛgi | ato	busi	susagi	susege	susɛgi 
+woman: susegi/ato | ato	busi	susagi	susege	susɛgi 
+woman: susiagi | ato	busi	susagi	susege	susɛgi 
+wood: i 
+year: gɔgɔ 
+yellow: maranapa | mara-napa	maranapa 
+yellow: mara-napa | mara-napa	maranapa 
+yellow: wasa | mara-napa	maranapa 
+yesterday: amapura 
+yesterday: anapa 
+you: de | 3	a	da	e	eː	se	ɛ | dɛ	eː	se 
+you: -de- | 3	a	da	e	eː	se	ɛ | dɛ	eː	se 
+you: e: | 3	a	da	e	eː	se	ɛ | dɛ	eː	se 
+you two: -delo 
+every: daragiri	wairebega	werebega 
+ash: ila-puru	puru	ukuru 
+abdomen: goana	guana	kese	mi 
+bigness: kabigi-bega	kabigi-napa	kabigibega 
+large: kabigi-bega	kabigi-napa	kabigibega 
+breasts: mi	omo 
+nail: maikabua 
+talon: maikabua 
+come from: mateperero	pe	peia	pep3 
+be dead: agoi	akaue-na	akauena	kau	rewari-wagoi	rewariwa 
+dead: agoi	akaue-na	akauena	kau	rewari-wagoi	rewariwa 
+fly: apuivi	apuiwi 
+fly v.: apuivi	apuiwi 
+left hand: kueta kueta	kueta-kueta	mai	mai-guana 
+1 sg.: na	ne	nepe	nɛ 
+be knowledgeable: itaua	itawa 
+lie down: tene	tenerero 
+head louse: ami 
+male: dalagi	dara-gi	daragi 
+much: wairabega	ware-bega 
+multiple: wairabega	ware-bega 
+several: wairabega	ware-bega 
+flesh: obe 
+hill: gigisa	podo	pɔdɔ	saka	saka-sidi-bega 
+title: gagi	gagi- 
+nighttime: debe	isa	itarare	iti	waːitivi	waːtivi 
+adulterous: menagi 
+single: menagi 
+the: menagi 
+unprincipled: menagi 
+human: luma 
+human being: luma 
+rainy weather: goi	gui	gwi 
+path: nabidi 
+route: nabidi 
+hide: ikaka	kaka	kaːka 
+little: -koabi	kobi-pura	kobipura	kokoabi 
+smallness: -koabi	kobi-pura	kobipura	kokoabi 
+rock: bakere	beere	bere	gewa	me 
+2 sg: 3	a	da	e	eː	se	ɛ 
+grind: sake	saki	sakoi 
+go: nade	wamo	weramerero	werero 
+hot: gira	ilabɛga 
+1 pl. inc.: s3	se 
+we₁: s3	se 
+whiteness: abiro	abironapa	sekewa-napa 
+who?: poate	powatea 
+female: ato	busi	susagi	susege	susɛgi 
+distant: wamatabega	wamate-bega 
+dull: mena-bega	mene-bega	mene-bɛga	menebega 
+serious: mena-bega	mene-bega	mene-bɛga	menebega 
+3 sg.: e	oba	yama 
+he: e	oba	yama 
+she: e	oba	yama 
+2 pl.: dɛ	eː	se 
+ye: dɛ	eː	se 
+you all: dɛ	eː	se 
+3 pl.: daː	de	ubi- 
+where?: be	epuwatia 
+how?: aː 
+five: naitagura 
+fat: kabigibega 
+principal wife: susagi	susege 
+his mother: agi 
+my mother: agi 
+his father: wawa 
+my father: wawa 
+stick: itara	tala	tara	tata	tatabagi 
+cord: tao	tauwo 
+gut: maradi	maragi 
+insides: maradi	maragi 
+intestine: maradi	maragi 
+intestines: maradi	maragi 
+laughter: iareroa	iereo	ierero	iereroa	igiamaroro 
+cogitate: enama	iware 
+reflect: enama	iware 
+sniff: iporu	ipowa	ipowaro 
+afraid: emorero 
+be afraid: emorero 
+fright: emorero 
+alive: e-	kanikeworo 
+be alive: e-	kanikeworo 
+life: e-	kanikeworo 
+living: e-	kanikeworo 
+beat: rapode	urapada 
+strike: rapode	urapada 
+hack: tami	temi 
+tell lies: ime-rarero	sewata 
+drop: adiraui	dira	dirave	dirawa 
+wash clothes: wi-ami	wi-tara	witara	witou 
+bind: kubeme	papami	pasami 
+fasten: kubeme	papami	pasami 
+tie up: kubeme	papami	pasami 
+have fun: ia	iade 
+brook: kabigega-tara	tara	ture-kabiki 
+stream: kabigega-tara	tara	ture-kabiki 
+blaze: oro 
+daylight: kadepa	kadepa-rurira	kadepe-kabigi 
+daytime: kadepa	kadepa-rurira	kadepe-kabigi 
+evil: saue-saue	savi-savi	savisavi	sosaubega	sosausebega 
+filthy: kakapa 
+soiled: kakapa 
+damp: bibira	bibiro bega	sosaubega 
+right side: mimiti	mimitiade	mimitiadi 

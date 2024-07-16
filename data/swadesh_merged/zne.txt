@@ -1,0 +1,652 @@
+all: du͂ | dunduko	dù	dũ	pepe 
+all: dunduko | dunduko	dù	dũ	pepe 
+all: pepe | dunduko	dù	dũ	pepe 
+and: a | na 
+and: awo | na 
+and: na 
+animal: ɲa 
+ankle: ŋbariŋa 
+ankle: ŋuku ndue 
+arm: be 
+arrow: siːda 
+ashes: furuga we | kuke	kukè 
+ashes: kiŋiri we | kuke	kukè 
+ashes: kuke | kuke	kukè 
+back: batiŋbaŋba | batiŋbaŋba	gise 
+back: gise | batiŋbaŋba	gise 
+back: meme ŋoŋo | batiŋbaŋba	gise 
+bad: gbegbere͂ | gbegberẽ	gber- 
+bark: fuge | fuge	fúgé	kpoto	sisi 
+bark: kpoto | fuge	fúgé	kpoto	sisi 
+bark: sisi | fuge	fúgé	kpoto	sisi 
+because: bambiko 
+belly: beberese | beberese	vuru	vuse 
+belly: kundu | beberese	vuru	vuse 
+belly: simbi | beberese	vuru	vuse 
+belly: vuse | beberese	vuru	vuse 
+belly: vusu | beberese	vuru	vuse 
+big: bakere | bakere	bàkere	ki	kikii 
+big: kikii | bakere	bàkere	ki	kikii 
+bird: zire | zire	zirè 
+bite: furusa | rund-	runda	runduka 
+bite: kpuruka | rund-	runda	runduka 
+bite: runda | rund-	runda	runduka 
+bite: runduka | rund-	runda	runduka 
+bite: sa wura | rund-	runda	runduka 
+bitter: ii 
+bitter: nira͂nira͂ 
+black: bi | bi	bibiri	bir- 
+black: bibiri | bi	bibiri	bir- 
+blood: andoː | andoː	kure 
+blood: kure | andoː	kure 
+blood: kure ga | andoː	kure 
+blow: utuda | utud-	utuda	vu 
+blow: vu | utud-	utuda	vu 
+bone: pemba | meme	pemba 
+boy: gude 
+boy: kumba gude 
+branch: bengua | bengua	pangua 
+branch: pangua | bengua	pangua 
+breast: mamuse | mamu	mamuse	momuse 
+breast: momuse | mamu	mamuse	momuse 
+breathe: ome | ong-	oŋa 
+breathe: oŋa | ong-	oŋa 
+brother: kawiri 
+brother: tame 
+brother: unvuru 
+burn: gbi | gbi	ŋaria 
+burn: ikpira | gbi	ŋaria 
+burn: ŋaria | gbi	ŋaria 
+burn: zo | gbi	ŋaria 
+burn: zokoda | gbi	ŋaria 
+butterfly: fufurafu 
+calf: dumo 
+calf: ŋbakasa 
+cheek: bagase 
+cheek: paŋba 
+chest: ŋbaduse 
+child: fogogude | gude	gùde	wiri	wírí 
+child: gude | gude	gùde	wiri	wírí 
+child: wiri | gude	gùde	wiri	wírí 
+chin: tiːŋba 
+claw: bamo | bamo	sisi	wiriŋzaga | nzaga	sisiaga 
+claw: wiriŋzaga | bamo	sisi	wiriŋzaga | nzaga	sisiaga 
+cloud: dubo | dubo	mai 
+cloud: mai | dubo	mai 
+cold: zera | zer-	zera 
+come: ye | ya	ye 
+correct: ruru 
+count: geda | ged-	geda	gida 
+count: gida | ged-	geda	gida 
+crocodile: ŋondi 
+cut: de | de	yer- 
+cut: gba | de	yer- 
+cut: gbaka | de	yer- 
+cut: kora | de	yer- 
+cut: pia | de	yer- 
+cut: ru | de	yer- 
+cut: ruka | de	yer- 
+cut: rukpa | de	yer- 
+cut: so | de	yer- 
+dark: bi 
+dark: bibiri 
+dark: biribiri 
+daughter: wiri 
+day: rago | uru 
+day: rame | uru 
+day: uru 
+die: kpi | kpi	kp~i*	ona 
+die: kpikpi | kpi	kp~i*	ona 
+die: kpio | kpi	kp~i*	ona 
+die: ona | kpi	kp~i*	ona 
+die: onoːno | kpi	kp~i*	ona 
+dig: bukia | bukia	ge	geteka 
+dig: ge | bukia	ge	geteka 
+dig: geteka | bukia	ge	geteka 
+dig: kpisida | bukia	ge	geteka 
+dirty: bibiriko 
+dog: aŋo | ang~o	aŋo	ángó 
+drink: gbara͂ | gbarã	mbir	mbira	mb~ir	ɲot-	ɲota 
+drink: mbira | gbarã	mbir	mbira	mb~ir	ɲot-	ɲota 
+drink: ɲota | gbarã	mbir	mbira	mb~ir	ɲot-	ɲota 
+dry: aː | aː	ug-	uguːgu 
+dry: uguːgu | aː	ug-	uguːgu 
+dust: mvutu | mvutu	turubu 
+dust: turubu | mvutu	turubu 
+earth: sende 
+ear: tue | tu	tue 
+eat: ri | ri	rita 
+eat: rita | ri	rita 
+egg: para 
+egg: sisi | para 
+elbow: mburu be 
+elbow: ŋbaŋoro be 
+eye: baŋirise | bang~iri	bangìri	baŋirise 
+eye: maŋi baŋirise | bang~iri	bangìri	baŋirise 
+eye: ŋakai | bang~iri	bangìri	baŋirise 
+eye: puku baŋirise | bang~iri	bangìri	baŋirise 
+face: kpokpuse 
+fall: ti 
+far: tuturu͂ | tuturũ 
+father: ba 
+fat (n.): kpai 
+fat (n.): kpamu 
+fat (n.): nzeme 
+fear: gunde | gunde	gúndé 
+fear: kiga | gunde	gúndé 
+fear: zigba | gunde	gúndé 
+feather: maŋe | maŋe	sue 
+feather: sue | maŋe	sue 
+few: ni umba... 
+fight: so vura | so vura	ta kpata 
+fight: ta kpata | so vura	ta kpata 
+finger: bawirinzaga 
+fingernail: sisiaga | nzaga	sisiaga 
+finger: ŋbariŋa wirinzaga 
+finger: wirindue 
+finger: wirinzaga 
+fire: mira͂ we | nzeŋere	we	wé 
+fire: nzeŋere | nzeŋere	we	wé 
+fire: nzerre | nzeŋere	we	wé 
+fire: we | nzeŋere	we	wé 
+fish: zia (zi) tio | tia	tià	zia tio 
+five: bisue | bisue	bisùè 
+float: tiŋima | tiŋima	waŋima	ya 
+float: waŋima | tiŋima	waŋima	ya 
+float: ya | tiŋima	waŋima	ya 
+flower: mbumbo 
+flow: fu | fu	ga 
+flow: ga | fu	ga 
+fly (n.): zi 
+fly (v.): gu 
+fog: dubo | dubo	ndurõ	ndùrâ 
+fog: nduro͂ | dubo	ndurõ	ndùrâ 
+foot: gido | kpendue	ndu	ndue 
+foot: kpandue | kpendue	ndu	ndue 
+foot: kpendue | kpendue	ndu	ndue 
+foot: ndue | kpendue	ndu	ndue 
+forehead: kpokpuse 
+forest: bere | bere	bire	gbuku 
+forest: bire | bere	bire	gbuku 
+forest: gbuku | bere	bire	gbuku 
+four: biama | biama	biamà	biangì	biaŋi 
+four: biaŋi | biama	biamà	biangì	biaŋi 
+fruit: ndika | rindiŋuə	zuzue 
+fruit: rindiŋua | rindiŋuə	zuzue 
+fruit: rindiŋuə | rindiŋuə	zuzue 
+fruit: zuzue | rindiŋuə	zuzue 
+full: i͂ː | i	mbimbi	ĩː 
+full: i͂sa | i	mbimbi	ĩː 
+full: mbimbi | i	mbimbi	ĩː 
+girl: degude 
+girl: deregude 
+give: fu | fu	gama 
+give: gama | fu	gama 
+good: wene | ngba	wene 
+grass: mvua | mvua	mvúá 
+green: iwa 
+guts: re | ne	re 
+hair: maŋe 
+hair: maŋi ɲa | maŋe 
+hand: be | be	kpatabe 
+hand: kpabe | be	kpatabe 
+hand: kpatabe | be	kpatabe 
+hand: maŋbondo | be	kpatabe 
+hand: minamina be | be	kpatabe 
+head: ri | ri	ríì 
+hear: dega tue | gi-	gia 
+hear: gia | gi-	gia 
+heart: bagunda | bagunda	ngba du 
+heavy: ro͂ro͂i | ro-	rõrõi 
+here: ere͂ | erẽ 
+he/she: a 
+he/she: e 
+he/she: gako 
+he/she: gani 
+he/she: gau 
+he/she: ko 
+he/she: ni 
+he/she: o 
+he/she: ri 
+he/she: ru 
+he/she: si 
+he/she: ti 
+he/she: u 
+hit: fo | fo	nara	ta	yawa 
+hit: nara | fo	nara	ta	yawa 
+hit: ta | fo	nara	ta	yawa 
+hit: taka | fo	nara	ta	yawa 
+hit: yawa | fo	nara	ta	yawa 
+hold: tuka | zada	zia 
+hold: zada | zada	zia 
+hold: zia | zada	zia 
+hole: due 
+hole: si 
+hole: yaro 
+horn: gbaŋa | gbaŋa	gb~ang~a	gbángà 
+house: bambu 
+house: dimo 
+how: ka | ka	ki	na 
+how: ki | ka	ki	na 
+how: na | ka	ki	na 
+hunt: danda | danda	do	wa tua 
+hunt: do | danda	do	wa tua 
+hunt: wa tua | danda	do	wa tua 
+husband: kumba 
+ice: rororo 
+if: ka | ka	ka ŋia	si ŋia 
+if: ka ŋia | ka	ka ŋia	si ŋia 
+if: si ŋia | ka	ka ŋia	si ŋia 
+I: gi | mi	mì 
+I: gimi | mi	mì 
+I: mi | mi	mì 
+in: rogo | rogo	ti	vuru … yo 
+in: ti | rogo	ti	vuru … yo 
+in: vuru... yo | rogo	ti	vuru … yo 
+I: re | mi	mì 
+jaw: biriŋaŋba 
+kill: imo | im-	imo 
+knee: rukusue | rukusue	rukùsi 
+know: ina | in-	ina	inida 
+know: inida | in-	ina	inida 
+lake: baime | baime	ŋirimo 
+lake: muŋa | baime	ŋirimo 
+lake: ŋirimo | baime	ŋirimo 
+laugh: moma | mom-	moma	mong- 
+leaf: kpe | kpe	kpé	tuŋua 
+leaf: tuŋua | kpe	kpé	tuŋua 
+left: gare | gare	gàrè 
+leg: ndue 
+lie: dasa | dasa	pi | gumba zire 
+lie: pi | dasa	pi | gumba zire 
+lightning: ikpira 
+lip: kpotoŋba 
+live: du ni uŋa 
+liver: ende 
+long: gbaŋa | ggbanga	gigiza	giza 
+long: gigiza | ggbanga	gigiza	giza 
+louse: kaŋada 
+louse: ogbo 
+louse: zəri 
+man: ba | boro	bòrò	zande 
+man: bara | boro	bòrò	zande 
+man: boro | boro	bòrò	zande 
+man: kumba | boro	bòrò	zande 
+many: baru | baru	dungu	duŋu	nge	tititi 
+many: duŋu | baru	dungu	duŋu	nge	tititi 
+many: tititi | baru	dungu	duŋu	nge	tititi 
+meat: kawa | pasia	pásíá 
+meat: pasia | kawa | pasia	pásíá 
+moon: diwi | diwi	díwí 
+morning: girarago 
+morning: uru 
+morning: wiso 
+mosquito: ŋuŋu 
+mother: na | na	nina 
+mother: nina | na	nina 
+mountain: gaŋara | gang~ara	gàngàrà	mbia 
+mountain: mbia | gang~ara	gàngàrà	mbia 
+mouth: ŋba | ngba	ŋba 
+name: rimo | rima	rimo	ruma	runa 
+nape: mburutakose 
+nape: takose 
+narrow: paŋipaŋi 
+navel: mbukuse 
+near: mbembedi 
+neck: goro | goro	gorò	gose 
+neck: gose | goro	gorò	gose 
+new: fogo | vovo	vovò 
+new: foʔo | vovo	vovò 
+new: vovo | vovo	vovò 
+night: ɲemu | yuru	yúrú 
+night: yuru | yuru	yúrú 
+not: te | ngà … té	te	ya 
+not: ya | ngà … té	te	ya 
+old: gbinza 
+old: kpata 
+old: kuru 
+one: bambata | sa	sá 
+one: mbata | sa	sá 
+one: sa | sa	sá 
+other: kura 
+person: boro | boro	bòrò	zande 
+person: zande | boro	bòrò	zande 
+play: ŋi | paraŋa	zoga	ŋi 
+play: paraŋa | paraŋa	zoga	ŋi 
+play: zoga | paraŋa	zoga	ŋi 
+pull: gbe 
+pull: mo 
+pull: yora 
+push: tura͂ 
+rain: mai 
+rain: na | mai 
+rain: nada | mai 
+rat: kuri 
+red: zamba | zam-	zamba 
+right: kobe | be	kpatabe | kobe	kumbabe	kúmbá be 
+right: kumbabe | be	kpatabe | kobe	kumbabe	kúmbá be 
+ripe: zamuzamu 
+river: di | di	dí	ime 
+river: ime | di	dí	ime 
+river: wiridi | di	dí	ime 
+road: gene | gine 
+road: gine 
+root: ndu | ndu	tara 
+root: tara | ndu	tara 
+rope: bambia | bambia	gire 
+rope: gire | bambia	gire 
+round: gidigidi | gidigidi	wiriwiri 
+round: wiriwiri | gidigidi	wiriwiri 
+rub: kpuruka | kpuruka	tirã 
+rub: tira͂ | kpuruka	tirã 
+salt: kutasi | kutasi	tíkpó 
+sand: ŋume | ngúmé	ŋume 
+say: gumba | gumba	pe	ya | ngúmé	ŋume 
+say: pe | gumba	pe	ya | ngúmé	ŋume 
+say: ya | gumba	pe	ya | ngúmé	ŋume 
+scratch: ara | gba	kpama 
+scratch: bakaya | gba	kpama 
+scratch: gba | gba	kpama 
+scratch: kpama | gba	kpama 
+scratch: kpe | gba	kpama 
+scratch: kpera | gba	kpama 
+sea: baime 
+sea: ŋambi 
+sea: suŋbura 
+see: bi | bi	bɨ	ŋera 
+seed: ndika | ndika	ríndé	tuŋa	zende 
+seed: tuŋa | ndika	ríndé	tuŋa	zende 
+seed: zende | ndika	ríndé	tuŋa	zende 
+see: ŋera | bi	bɨ	ŋera 
+sew: kaː | ru	ruŋa 
+sew: ru | ru	ruŋa 
+sew: ruŋa | ru	ruŋa 
+sew: ta | ru	ruŋa 
+sharp: saksaka | saksaka	ti	titi 
+sharp: titi | saksaka	ti	titi 
+short: guguru 
+shoulder: pafube 
+sing: bi | bi	bika 
+sing: bika | bi	bika 
+sister: dawiri 
+sit: domia | domia	sung-	suŋa	ɲe 
+sit: suŋa | domia	sung-	suŋa	ɲe 
+skin: kpoto | kpoto	kp~oto	sisi	umu	̀kpòtò 
+skin: sisi | kpoto	kp~oto	sisi	umu	̀kpòtò 
+skin: umu | kpoto	kp~oto	sisi	umu	̀kpòtò 
+skin: urube | kpoto	kp~oto	sisi	umu	̀kpòtò 
+skin: yuka | kpoto	kp~oto	sisi	umu	̀kpòtò 
+sky: ŋbaŋbaturu͂ | ŋbaŋbaturũ 
+sleep: ra | ra	raka 
+sleep: raka | ra	raka 
+small: toni | toni	umba	wiri	wírí 
+small: umba | toni	umba	wiri	wírí 
+small: wiri | toni	umba	wiri	wírí 
+smell: fu | gia fu 
+smell: fu͂ gbadə | gia fu 
+smell: fu͂ guzuguzu | gia fu 
+smell: fuo | gia fu 
+smell: kati | gia fu 
+smoke: mbiro | ngime	ŋime 
+smoke: ŋime | ngime	ŋime 
+smooth: zereŋezereŋe 
+snake: wo 
+snow: morogumba 
+son: wiri 
+sour: kakai 
+sour: kundəkundə 
+spit: kora | suk-	suka	sukuda 
+spit: sure | suk-	suka	sukuda 
+split: kaga | kaga	sapa	sar-	sara 
+split: sapa | kaga	sapa	sar-	sara 
+split: sara | kaga	sapa	sar-	sara 
+squeeze: gbiŋbida | gbiŋbida	sera 
+squeeze: sera | gbiŋbida	sera 
+stand: dara | dara	ru 
+stand: ru | dara	ru 
+star: kerekuru | kerekuru	kerekùrú 
+stone: zumo | mb~ia	mbíá	zumo 
+straight: rukuruku | rukuruku	ruru 
+straight: ruru | rukuruku	ruru 
+suck: aga | urə	ɲor-	ɲora 
+suck: ɲora | urə	ɲor-	ɲora 
+suck: urə | urə	ɲor-	ɲora 
+sun: uru | uru	urù 
+sweet: aɲege 
+swell: i͂ 
+swell: i͂sa 
+swim: wagia | wagia	waŋima 
+swim: waŋima | wagia	waŋima 
+tail: sa 
+take: di͂ 
+take: dia 
+take: roga 
+take: zada 
+that: agu... re | gu … re	gure	gù … ré	yò | sa	sá 
+that: gure | gu … re	gure	gù … ré	yò | sa	sá 
+that: gu... re | gu … re	gure	gù … ré	yò | sa	sá 
+there: yo | yo	yore 
+there: yore | yo	yore 
+they: a | i	àmí 
+they: e | i	àmí 
+they: gaːmi | i	àmí 
+they: gayo | i	àmí 
+they: i | i	àmí 
+they: ni | i	àmí 
+they: o | i	àmí 
+they: ra | i	àmí 
+they: yo | i	àmí 
+thick: kpududu 
+thigh: mboso 
+think: bera͂ | berã 
+thin: nzaranzara 
+this: agere | gere	gì … ré	nò 
+this: agi... re | gere	gì … ré	nò 
+this: gere | gere	gì … ré	nò 
+thorn: kewe 
+thorn: kiwe 
+thou: mo | mo	mò 
+three: biata | biata	bíátá 
+three: gu biata | biata	bíátá 
+throat: goro 
+throat: gose 
+throw: ba | ba	bafa	mer- 
+throw: bafa | ba	bafa	mer- 
+thunder: gumba 
+tie: vo | vo	voda 
+tie: voda | vo	voda 
+today: areme 
+tomorrow: gba 
+tongue: mira͂ | mira	mirã 
+tooth: gburuka | rinde	rind~e 
+tooth: meme | rinde	rind~e 
+tooth: rinde | rinde	rind~e 
+tree: ŋua | ng~ua 
+turn: sa 
+turn: saka 
+two: gu ue | ue	úé 
+two: ue | ue	úé 
+unripe: iwa 
+vagina: dnakpuse 
+vagina: neŋe 
+vagina: ŋoto 
+vomit: gara | gara	suk-	suka	sukuda 
+vomit: suka | gara	suk-	suka	sukuda 
+vomit: sukuda | gara	suk-	suka	sukuda 
+walk: ga | merã	ndu	ta 
+walk: guari | merã	ndu	ta 
+walk: mera͂ | merã	ndu	ta 
+walk: ndu | merã	ndu	ta 
+walk: ora | merã	ndu	ta 
+walk: ota | merã	ndu	ta 
+walk: ta | merã	ndu	ta 
+warm: fafoi 
+wash: mbeda | mbeda	zund-	zunda 
+wash: zunda | mbeda	zund-	zunda 
+water: guga | ime	imè 
+water: gugaːbi | ime	imè 
+water: ime | ime	imè 
+we: ani 
+weep: aume 
+weep: kpara 
+we: gaːni 
+we: rani 
+wet: du ni ime 
+what: gini | gini	gìnè 
+when: ni gini rago 
+where: wari 
+white: pusi | pusi	pìsí	vur-	vuvuru 
+white: vuvuru | pusi	pìsí	vur-	vuvuru 
+who: da | da	dà 
+wide: kpakafu 
+wife: da | da	dia 
+wife: dia | da	dia 
+wind: wege | wege	yuge 
+wind: yuge | wege	yuge 
+wing: maŋe | maŋe	pupo	pòpò 
+wing: pupo | maŋe	pupo	pòpò 
+wipe: di͂a | dĩa	wega	zura 
+wipe: wega | dĩa	wega	zura 
+wipe: zura | dĩa	wega	zura 
+with: fu 
+with: na 
+with: ni 
+woman: de 
+woman: na˗ | de 
+woman: nara | de 
+wood: kpudu 
+wood: ŋua 
+wood: tepe 
+worm: sikpə | sikpə	soːro 
+worm: soːro | sikpə	soːro 
+year: gara͂ | garã	gárá 
+yellow: gbau | gbau	ŋbuteŋbute 
+yellow: ŋbuteŋbute | gbau	ŋbuteŋbute 
+yesterday: gba 
+you: gaoni | mo	mò | oni	ànì 
+you: oni | mo	mò | oni	ànì 
+you: roni | mo	mò | oni	ànì 
+every: dunduko	dù	dũ	pepe 
+ash: kuke	kukè 
+abdomen: beberese	vuru	vuse 
+bigness: bakere	bàkere	ki	kikii 
+large: bakere	bàkere	ki	kikii 
+breasts: mamu	mamuse	momuse 
+nail: bamo	sisi	wiriŋzaga 
+talon: bamo	sisi	wiriŋzaga 
+come from: ya	ye 
+be dead: kpi	kp~i*	ona 
+dead: kpi	kp~i*	ona 
+fly: gu 
+fly v.: gu 
+left hand: be	kpatabe 
+1 sg.: mi	mì 
+be knowledgeable: in-	ina	inida 
+lie down: dasa	pi 
+male: boro	kúmbá 
+much: baru	dungu	duŋu	nge	tititi 
+multiple: baru	dungu	duŋu	nge	tititi 
+several: baru	dungu	duŋu	nge	tititi 
+flesh: kawa 
+hill: gang~ara	gàngàrà	mbia 
+title: rima	rimo	ruma	runa 
+nighttime: yuru	yúrú 
+nose: ho	o	õse 
+adulterous: sa	sá 
+single: sa	sá 
+the: sa	sá 
+unprincipled: sa	sá 
+human: boro	bòrò	zande 
+human being: boro	bòrò	zande 
+rainy weather: mai 
+path: gine 
+route: gine 
+hide: kpoto	kp~oto	sisi	umu	̀kpòtò 
+little: toni	umba	wiri	wírí 
+smallness: toni	umba	wiri	wírí 
+rock: mb~ia	mbíá	zumo 
+2 sg: mo	mò 
+grind: ue	úé 
+go: merã	ndu	ta 
+hot: fafoi 
+whiteness: pusi	pìsí	vur-	vuvuru 
+who?: da	dà 
+female: de 
+distant: tuturũ 
+dull: ro-	rõrõi 
+serious: ro-	rõrõi 
+close: mbembedi 
+ner: mbembedi 
+earthworm: sikpə	soːro 
+3 sg.: ko 
+he: ko 
+she: ko 
+2 pl.: oni	ànì 
+ye: oni	ànì 
+you all: oni	ànì 
+3 pl.: i	àmí 
+where?: wari 
+when?: ni gini rago 
+how?: ka	ki	na 
+few: ni umba 
+broad: kpakafu 
+wideness: kpakafu 
+fat: kpai	kpamu	nzeme	nzémé 
+principal wife: da	dia 
+his mother: na	nina 
+my mother: na	nina 
+his father: ba 
+my father: ba 
+woods: bere	bire	gbuku 
+stick: bengua	pangua 
+cord: bambia	gire 
+grease: kpai	kpamu	nzeme	nzémé 
+gut: ne	re 
+insides: ne	re 
+intestine: ne	re 
+intestines: ne	re 
+breath: ong-	oŋa 
+laughter: mom-	moma	mong- 
+cogitate: berã 
+reflect: berã 
+sniff: gia fu 
+afraid: gunde	gúndé 
+be afraid: gunde	gúndé 
+fright: gunde	gúndé 
+alive: du ni uŋa 
+be alive: du ni uŋa 
+life: du ni uŋa 
+living: du ni uŋa 
+beat: fo	nara	ta	yawa 
+strike: fo	nara	ta	yawa 
+hack: de	yer- 
+cut open: kaga	sapa	sar-	sara 
+pierce: ru	ruka	so 
+stab: ru	ruka	so 
+tell lies: gumba zire 
+drop: ti 
+grasp: zada	zia 
+hold in arm: zada	zia 
+wring: gbiŋbida	sera 
+wash clothes: mbeda	zund-	zunda 
+bind: vo	voda 
+fasten: vo	voda 
+tie up: vo	voda 
+enumerate: ged-	geda	gida 
+number: ged-	geda	gida 
+tally: ged-	geda	gida 
+have fun: paraŋa	zoga	ŋi 
+brook: di	dí	ime 
+stream: di	dí	ime 
+blaze: gbi	ŋaria 
+daylight: uru 
+daytime: uru 
+evil: gbegberẽ	gber- 
+rot: zir- 
+rotten: zir- 
+filthy: bibiriko 
+soiled: bibiriko 
+blunt: kpurəkpurə	ritiriti 
+damp: du ni ime 
+right side: kobe	kumbabe	kúmbá be 
+inside: rogo	ti	vuru … yo 

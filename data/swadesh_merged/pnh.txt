@@ -1,0 +1,132 @@
+all: katoa 
+every: katoa 
+ash: rehu 
+ashes: rehu 
+abdomen: kona	koopuu	manava 
+belly: kona	koopuu	manava 
+big: nuä	rahi 
+bigness: nuä	rahi 
+large: nuä	rahi 
+bird: manu 
+bite: ka/kati 
+black: kere/kere	uri 
+blood: toto 
+bone: ivi 
+breast: uu 
+breasts: uu 
+burn: tahu 
+burn tr.: tahu 
+cloud: oo 
+cold: anu	makariri 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: kuri	kurii 
+drink: inu 
+dry: masa 
+ear: tariNa	taringa 
+eat: kai 
+egg: hua 
+eye: mata 
+feather: huru 
+fire: ahi 
+fish: ika 
+fly: rere 
+fly v.: rere 
+good: maitaki	reka	suumaringa 
+green: matie 
+hair: huru/huru 
+hand: rima 
+left hand: rima 
+right: rima 
+head: upoko 
+hear: roNo	rongo 
+1 sg.: au 
+I: au 
+kill: taa 
+be knowledgeable: kite 
+know: kite 
+leaf: rau 
+lie: takoto 
+lie down: takoto 
+liver: ate 
+long: roa 
+head louse: kutu 
+louse: kutu 
+male: taane 
+man: taNata	tangata 
+moon: marama 
+mouth: vaha 
+name: iNoa	ingoa 
+title: iNoa	ingoa 
+neck: kakii 
+new: hoou	hou 
+night: po	poo 
+nighttime: po	poo 
+nose: isu 
+adulterous: tahi 
+one: tahi 
+single: tahi 
+that: taua 
+the: tahi 
+unprincipled: tahi 
+human: taNata	tangata 
+human being: taNata	tangata 
+person: taNata	tangata 
+rain: ua 
+rainy weather: ua 
+red: kura 
+path: ara 
+road: ara 
+route: ara 
+root: aka 
+sand: one 
+say: one 
+sit: noho 
+hide: kiri 
+skin: kiri 
+sleep: moe 
+little: iti	poto 
+small: iti	poto 
+smallness: iti	poto 
+smoke: au	auahi 
+star: hetu	hetuu 
+rock: one	pohatu	poohatu 
+stone: one	pohatu	poohatu 
+swim: kau 
+tail: siku 
+this: teeia 
+2 sg: koe 
+thou: koe 
+you: koe 
+tongue: arero 
+tooth: niho 
+tree: rakau 
+grind: rua 
+two: rua 
+go: saere 
+walk: saere 
+hot: mahana(hana) 
+warm: mahana(hana) 
+water: vai 
+what: aha 
+white: tea 
+whiteness: tea 
+who: v/ai 
+who?: v/ai 
+female: -hine	vahine 
+woman: -hine	vahine 
+yellow: rengarenga 
+distant: momoo 
+far: momoo 
+dull: tai/mafa	taimaha 
+heavy: tai/mafa	taimaha 
+serious: tai/mafa	taimaha 
+close: vai/tata/ 
+near: vai/tata/ 
+ner: vai/tata/ 
+short: poto	sakasaka 
+wind: matangi	sau 
+earthworm: toke 
+worm: toke 
+year: matahiti 

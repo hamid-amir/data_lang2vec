@@ -1,0 +1,487 @@
+all: pʷiči | ŋoʔaaʔami 
+all: tiʔidu | ŋoʔaaʔami 
+and: kan | wau 
+and: wawu | wau 
+animal: [binātaŋi] 
+ashes: mas-iav | wahu 
+ashes: wahu 
+back: maⁿdʳö-n | wuleya 
+back: wuleya 
+bad: mo-lēto | mo-leeto 
+bad: sa{m}b | mo-leeto 
+bark: ʔalipo ʔayu 
+bark: nüru-xai 
+because: raⁿba 
+because: [sababu] 
+belly: {m}baxav | ʔomboŋo 
+belly: ʔoⁿ+boŋo | ʔomboŋo 
+bird: [būruŋi] | buuruŋi 
+bird: na-man | buuruŋi 
+bite: mo-deŋeto | mo-deŋoto 
+bite: xač-i | mo-deŋoto 
+black: {m}brömör | mo-yitomo 
+black: mo-yitomo 
+blood: duhu 
+blood: na-ⁿdʳe | duhu 
+blow: mo-hīpo | hii-hiipo 
+blow: vuvʷ-i | hii-hiipo 
+bone: ⁿbuleⁿbul | tulalo 
+bone: tulalo 
+breast: lixaixai | tutu 
+breast: tutu 
+breathe: ŋaⁿbos | mo-hilawo 
+breathe: yilawo | mo-hilawo 
+burn: kuⁿ bos-i | mo-mobu 
+burn: momobu | mo-mobu 
+child: na-ruarr 
+child: tā ʔu kikiʔo 
+cloud: ⁿbanuⁿban | heeŋo 
+cloud: hēŋo | heeŋo 
+cold: mo-huhulo 
+cold: süsüs | mo-huhulo 
+come: mo-o-naʔo | me duNg~a	mee duŋga 
+come: vanima | me duNg~a	mee duŋga 
+correct: [banari] 
+correct: nör 
+count: mo-[rēkeni] | mo-reekeni 
+count: pe-i | mo-reekeni 
+cut: čav-i | mo-mutu 
+cut: momoⁿdodu | mo-mutu 
+die: mač | mate 
+die: mate 
+dig: moŋaʔudu | mo-ŋali 
+dig: xirna-ⁿbur | mo-ŋali 
+dirty: mo-toⁿdolomu | kootoro 
+dirty: paⁿgačoŋ | kootoro 
+dog: ʔapula | apula	ʔapula 
+dog: lipax | apula	ʔapula 
+drink: moŋilu | Nilu	mo-ŋilu 
+drink: mün | Nilu	mo-ŋilu 
+dry: mamas | mo-heŋu 
+dry: mo-heŋu 
+dull: ⁿbut | mo-bu-buheto | mo-hulaŋo 
+dull: mo-hulaŋo | mo-bu-buheto 
+dust: ⁿgoⁿgor | pe|yahuʔo 
+dust: peyahuʔo | pe|yahuʔo 
+ear: buloŋa | buloNa	buloŋa 
+ear: ⁿdariŋan | buloNa	buloŋa 
+earth: huta 
+earth: na-ran 
+egg: putito | putite 
+empty: ⁿdʳøⁿdʳ 
+empty: [kōsoŋi] 
+eye: mara-n | mato 
+eye: mato 
+fall: kubũ | mo-dehu 
+fall: xʷɛ̃̄ | mo-dehu 
+far: amo | molamiŋo 
+far: to ʔu mo-lamiŋo | molamiŋo 
+father: tata | tiyano 
+father: ti-yamo | tiyano 
+fat (n.): naö 
+fat (n.): tabo 
+fear: limelo | mo-ohe 
+fear: marax | mo-ohe 
+few: čikčikai 
+few: ŋo-ʔidi 
+fingernail: ima gobor 
+fingernail: raⁿgač a vea-n 
+fire: āi | tulu 
+fire: tulu 
+fish: na-ix | uponula	ʔuponula 
+fish: ʔu ponula | uponula	ʔuponula 
+five: erim | limo 
+five: limo 
+float: kos 
+float: laⁿdu-laⁿduŋo 
+flow: če | tolo-tolohu 
+flower: hulaʔo 
+flower: püsa-xai | hulaʔo 
+flow: tolo-tolohu 
+fly (v.): ku{m}bax 
+fly (v.): t-um-o{m}boto 
+fog: mavukas | wambulo [embun] 
+fog: wolomo | wambulo [embun] 
+foot: nala rie-n 
+foot: ʔoʔato 
+forest: lixaixai | ʔo-ʔayuwa 
+forest: ʔo-ʔayu-wa | ʔo-ʔayuwa 
+four: evač | opato	wopato 
+four: wopato | opato	wopato 
+frog: mexoⁿb sa xaⁿbat 
+frog: tuⁿbihe 
+fruit: huŋo 
+full: mo-polu 
+full: pü 
+give: moŋohi 
+give: pisax 
+good: mo-piyohu 
+good: voi | mo-piyohu 
+grass: huʔoyoto | huyoʔoto 
+grass: meⁿdʳov | huyoʔoto 
+green: kinkinač | mo-yidu 
+green: ʔu yidu | mo-yidu 
+guts: čine-n | toniya 
+guts: toniya 
+hair: huwoʔo 
+hair: ru-xer a ⁿbain | huwoʔo 
+hand: ʔoluʔu | ulu7u	ʔuluʔu 
+hand: vea-n | ulu7u	ʔuluʔu 
+head: ⁿbai-n | luŋgoŋo 
+head: luⁿgoŋo | luŋgoŋo 
+hear: loŋon-i | duNuhu	mo-duŋuhu 
+hear: mo-ʔo-duŋohu | duNuhu	mo-duŋuhu 
+heart: ⁿdʳama{ŋ}g 
+heart: waⁿdohu 
+heavy: meač | mo-bu-buheto 
+heavy: mo-bu-buheto 
+he: nai 
+he: tiyo 
+hit: mohuⁿbadu | mo-mubohu 
+hit: tamʷis-i | mo-mubohu 
+horn: marixai 
+horn: tuŋe 
+how: e{ŋ}ge{m}be | woloolo 
+how: wolōlo | woloolo 
+hunt: moŋalupo | mo-ŋalupo 
+hunt: vakao | mo-ŋalupo 
+husband: [peyituwa] | dile	hiyalo 
+husband: söa-n siⁿbeu | dile	hiyalo 
+ice: [ʔesi] 
+if: ⁿbʷgⁿa | wonu 
+if: wonu 
+I: inau | waatiya	watiya 
+in: leim | to delomio 
+in: to delomo | to delomio 
+I: waʔu | waatiya	watiya 
+kill: čanax | mo-mate 
+kill: mo-mate 
+knee: huʔu 
+knee: koⁿb rie-n 
+know: lⁿbai | ʔo-taawa 
+know: ʔo-tā-wa | ʔo-taawa 
+lake: bulalo 
+large: daʔa | damaŋo 
+large: {m}bao | damaŋo 
+laugh: man | mo-ʔiʔi 
+laugh: mo-ʔiʔi 
+leaf: dūŋo | duNo	duuŋo 
+leaf: nu-xer | duNo	duuŋo 
+left: ʔoioyihi | ʔoloyihi 
+left: vaxi-xer tömaer | ʔoloyihi 
+leg: ʔoʔato 
+leg: rie-n 
+lie: awak | mo-ti-balato 
+lie: pač | mo-ti-balato 
+live: maur | tumu-tumulo 
+liver: nama{m}b | wandohu	wand~ohu 
+liver: ʔoyile | wandohu	wand~ohu 
+live: t-um-umulo | tumu-tumulo 
+long: ⁿbeⁿbeav | haya-hayaʔo 
+long: hayaʔo | haya-hayaʔo 
+louse: na-xur | utu	ʔutu 
+louse: tumo | utu	ʔutu 
+man: arar | tawu 
+man: tā lo-laʔi | tawu 
+many: eŋas 
+many: ŋo-huⁿdu-wa 
+meat: tapu 
+meat: visox | tapu 
+moon: ⁿbači | hulalo 
+moon: hulalo 
+mother: nana | tiilo 
+mother: ti-ilo | tiilo 
+mountain: huʔidu 
+mountain: vuxux 
+mouth: {m}baŋo-n | ŋaŋo 
+mouth: tuⁿgilo | ŋaŋo 
+name: naxis | taNg~ulo	taŋgulo 
+name: taⁿgulo | taNg~ulo	taŋgulo 
+narrow: ⁿguⁿgun | meepito 
+narrow: mo-totolo | meepito 
+near: pariča{ŋ}g | meembidu 
+near: toʔu mē{m}bidu | meembidu 
+neck: buloʔo 
+neck: xunua-n | buloʔo 
+new: bohu 
+new: veveu | bohu 
+night: huwi | huyi 
+night: mari{ŋ}g | huyi 
+nose: wuliŋo | wuliNo	wuliŋo 
+nose: xunüsü-n | wuliNo	wuliŋo 
+old: mi-hīhewo 
+old: xivux 
+one: čika | oinda	tuwewu 
+one: tuwawu | oinda	tuwewu 
+person: arar | tawu 
+person: tawu 
+play: mo-yitohu 
+play: ramramʷe 
+pull: momaⁿdaŋo 
+pull: pilev 
+push: kov san i 
+push: mohuⁿdulo 
+rain: didi 
+rain: na-us | didi 
+red: ⁿbisiⁿbis | meela 
+red: me-elamo | meela 
+right: ʔolowala | ulu7u	ʔuluʔu 
+right: vaxi-xertavoi | ulu7u	ʔuluʔu | ʔolowala 
+river: dutula 
+river: n-öai 
+road: dalalo 
+road: puse | dalalo 
+root: čri-xai | wuwaʔato 
+root: wu-waʔato | wuwaʔato 
+rope: [lesi] | buwatulo 
+rope: na-xo | buwatulo 
+rotten: mem | mo-hutodu 
+rotten: mo-hutodu 
+round: hulu-hululo 
+round: kandrpupu 
+rub: čle-i 
+rub: mohededu 
+salt: na-ras | watiŋo 
+salt: watiŋo 
+sand: huŋayo 
+sand: na-on | huŋayo 
+say: kae | mo-loʔiya | huŋayo 
+say: mo-loʔiya | huŋayo 
+sea: deheto 
+sea: na-ras | deheto 
+seed: bili 
+seed: kru-xer 
+sew: mo-detu 
+sew: saⁿdʳø | mo-detu 
+sharp: kan | mo-lalite 
+sharp: mo-lalito | mo-lalite 
+short: kodo-kodoʔo | limbu-limbuʔo 
+short: miⁿdʳö | limbu-limbuʔo 
+sing: kakai 
+sing: mo-mañañi 
+sit: moti-hulo?o | mo-tihuloʔo 
+sit: taⁿdʳ | mo-tihuloʔo 
+skin: ʔalipo | alipo	ʔalipo 
+skin: nü-ru-xer | alipo	ʔalipo 
+sky: huluŋo 
+sky: na-mav | huluŋo 
+sleep: mo-tuluhu 
+sleep: pač | mo-tuluhu 
+small: keke | kikiʔo 
+small: kikiʔo 
+smell: e-loŋon-i a | mo-diilo 
+smell: mo-ʔōbo | mo-diilo 
+smoke: ⁿbasu-xaⁿb | poloʔo 
+smoke: poloʔo 
+smooth: [ʔāruti] 
+smooth: sasalil 
+snake: na-mar | tulidu 
+snake: tulidu 
+some: iⁿdʳes 
+some: ŋo-olo 
+spit: mo-huwa | mo-nula 
+spit: pʷe | mo-nula 
+split: momotaʔo | mo-mutaʔe 
+split: pepai | mo-mutaʔe 
+stab: molobuʔo | mo-mituʔo 
+stand: mo-ti-tihulo | t-im-ihulo 
+stand: tül | t-im-ihulo 
+star: mačoi | poliyama 
+star: poliyama 
+stick: toŋon | taŋo 
+stick: tūⁿgudu | taŋo 
+straight: nör 
+suck: čumʷi | mo-ŋindopo 
+suck: mohinupo | mo-ŋindopo 
+sun: mato lo dulahu 
+sun: n-iö 
+tail: ⁿge-xer | patahu 
+tail: patahu 
+they: timoŋoliyo 
+they: xate | timoŋoliyo 
+thick: marürü | mo-hulodu 
+thick: mo-hulodu 
+think:  -ətaləŋin | mo-mikiilaŋi 
+think: momikīraŋi [pikir] | mo-mikiilaŋi 
+thin: manviniv | mo-lipa 
+thin: mo-lipa 
+thou: timoŋoli | yi7o	yiʔo 
+thou: xaiⁿg | yi7o	yiʔo 
+thou: xamite | yi7o	yiʔo 
+thou: yiʔo | yi7o	yiʔo 
+three: eröi | tolu	totolu 
+three: to-tolu | tolu	totolu 
+throw: momaʔi | mo-po-mahulo 
+throw: pʷirič-in-i | mo-po-mahulo 
+tie: molihuto | mo-lihuto 
+tie: tax-in-i | mo-lihuto 
+tongue: dila 
+tongue: memen | dila 
+tooth: duŋito | duNito	duŋito 
+tooth: rivon | duNito	duŋito 
+tree: buŋo 
+tree: na-xai 
+turn: gantiʔ-aŋ 
+turn: kov san-i 
+two: du-luwo | duluo	duluwo 
+two: eü | duluo	duluwo 
+vomit: lü | mo-tuʔo 
+vomit: mo-tuʔo 
+warm: kaⁿb | mo-patu 
+warm: mo-patu 
+wet: mo-bata | mo-batu 
+wet: na-ⁿbö | mo-batu 
+what: nisava | wolo 
+what: wolo 
+when: ŋais | ʔomoluwa 
+when: ʔomo-ʔomolu | ʔomoluwa 
+which: tōnu 
+which: xiⁿbi 
+white: mo-putiʔo 
+white: paxapux | mo-putiʔo 
+who: tā tōnu | taa toonu 
+who: xase | taa toonu 
+why: moŋola 
+why: raⁿbanisava 
+wide: ⁿgaⁿgarin e-ⁿbao | mo-taŋgalo 
+wide: mo-taⁿgalo | mo-taŋgalo 
+wife: [meyituwa] | dile	hiyalo 
+wife: söa-n | dile	hiyalo 
+wind: dupoto 
+wind: n-ean | dupoto 
+wing: koⁿb vea-n | polipiʔo 
+wing: polipiʔo 
+woman: r{m}baix | taa buwa 
+woman: tā buwa | taa buwa 
+worm: taⁿgulač | luwandi 
+worm: wulodu | luwandi 
+wrong: e-sba-nör 
+wrong: mo-to-tala 
+year: na-ⁿdʳam | taawunu 
+year: [tāwunu] | taawunu 
+yellow: mo-lalahu 
+yellow: ŋöaŋ | mo-lalahu 
+every: ŋoʔaaʔami 
+ash: wahu 
+abdomen: ʔomboŋo 
+big: damaŋo 
+bigness: damaŋo 
+breasts: tutu 
+burn tr.: mo-mobu 
+come from: me duNg~a	mee duŋga 
+be dead: mate 
+dead: mate 
+eat: moŋa 
+feather: layi 
+fly: t-um-omboto 
+fly v.: t-um-omboto 
+left hand: ulu7u	ʔuluʔu 
+1 sg.: waatiya	watiya 
+be knowledgeable: ʔo-taawa 
+lie down: mo-ti-balato 
+head louse: utu	ʔutu 
+male: taa lolaʔi 
+title: taNg~ulo	taŋgulo 
+nighttime: huyi 
+adulterous: oinda	tuwewu 
+single: oinda	tuwewu 
+that: ʔuyito 
+the: oinda	tuwewu 
+unprincipled: oinda	tuwewu 
+human: tawu 
+human being: tawu 
+rainy weather: didi 
+path: dalalo 
+route: dalalo 
+see: milohu	mo-milohu 
+hide: alipo	ʔalipo 
+little: kikiʔo 
+smallness: kikiʔo 
+rock: botu 
+stone: botu 
+swim: mo-lolaŋi 
+this: ʔutiye 
+2 sg: yi7o	yiʔo 
+you: yi7o	yiʔo 
+grind: duluo	duluwo 
+go: naʔo-naʔo 
+walk: naʔo-naʔo 
+hot: mo-patu 
+water: taluhu 
+1 pl. inc.: ito	ʔami	ʔito 
+we: ito	ʔami	ʔito 
+we₁: ito	ʔami	ʔito 
+whiteness: mo-putiʔo 
+who?: taa toonu 
+female: taa buwa 
+distant: molamiŋo 
+serious: mo-bu-buheto 
+close: meembidu 
+ner: meembidu 
+earthworm: luwandi 
+2 pl.: timoŋoli 
+ye: timoŋoli 
+you all: timoŋoli 
+3 pl.: timoŋoliyo 
+where: toʔutoonu 
+where?: toʔutoonu 
+when?: ʔomoluwa 
+how?: woloolo 
+other: ʔu weewe 
+broad: mo-taŋgalo 
+wideness: mo-taŋgalo 
+fat: tabo 
+principal wife: dile	hiyalo 
+his mother: tiilo 
+my mother: tiilo 
+his father: tiyano 
+my father: tiyano 
+woods: ʔo-ʔayuwa 
+branch: taŋo 
+cord: buwatulo 
+flesh: tapu 
+grease: tabo 
+gut: toniya 
+insides: toniya 
+intestine: toniya 
+intestines: toniya 
+breath: mo-hilawo 
+laughter: mo-ʔiʔi 
+cogitate: mo-mikiilaŋi 
+reflect: mo-mikiilaŋi 
+sniff: mo-diilo 
+afraid: mo-ohe 
+be afraid: mo-ohe 
+fright: mo-ohe 
+alive: tumu-tumulo 
+be alive: tumu-tumulo 
+life: tumu-tumulo 
+living: tumu-tumulo 
+beat: mo-mubohu 
+strike: mo-mubohu 
+hack: mo-mutu 
+cut open: mo-mutaʔe 
+pierce: mo-mituʔo 
+scratch: mo-ŋahu 
+drop: mo-dehu 
+grasp: mo-dihu 
+hold: mo-dihu 
+hold in arm: mo-dihu 
+squeeze: mo-mitodu 
+wring: mo-mitodu 
+bind: mo-lihuto 
+fasten: mo-lihuto 
+tie up: mo-lihuto 
+enumerate: mo-reekeni 
+number: mo-reekeni 
+tally: mo-reekeni 
+ocean: deheto 
+evil: mo-leeto 
+rot: mo-hutodu 
+filthy: kootoro 
+soiled: kootoro 
+blunt: mo-hulaŋo 
+damp: mo-batu 
+right side: ʔolowala 
+at: to 
+inside: to delomio 

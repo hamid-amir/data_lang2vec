@@ -1,0 +1,194 @@
+all: pilili | perere	pilili 
+arm: ki 
+ashes: emo | emo	emɔ 
+ashes: emɔ | emo	emɔ 
+back: kana 
+bark: lowa puru | lɔwa puru	puru	towa puru 
+bark: lɔwa puru | lɔwa puru	puru	towa puru 
+belly: takane | sakane	takane 
+big: puka 
+bird: heka | eka	heka 
+bite: neyana | neyana	noː 
+black: midu | mendu	midu 
+blood: kuyila | kuyila	yasa 
+bone: kuni 
+breast: abu | abu	ado	adu 
+breast: adu | abu	ado	adu 
+burn: kiliana 
+cassowary: ukura 
+claw: hòdene | eka kidipa	hɔdene	kidipa 
+claw: hɔdene | eka kidipa	hɔdene	kidipa 
+cloud: popo 
+cold: lakale | lakale	takareko 
+come: heyana | hea	heyana	orana 
+come: he(y)ana | hea	heyana	orana 
+die: konena | keno	konena 
+dog: yawi 
+drink: yu neyana | anaka no	ka no	yu neyana 
+dry: ila͂o͂ | ilãõ	liao 
+dry: liao | ilãõ	liao 
+ear: kòhane | kohane	konane	kɔnane 
+ear: kɔhane | kohane	konane	kɔnane 
+ear: konane | kohane	konane	kɔnane 
+earth: lidi 
+eat: neyana 
+egg: hapa | apa	hapa 
+emu: ukura 
+eye: le | le	teː 
+father: ana 
+fat (n.): hai 
+feather: hini | eka ini	hini	ini 
+fire: lowa kiliana | agaro	kiliana	lɔwa kiliana	towa agaro 
+fire: lɔwa kiliana | agaro	kiliana	lɔwa kiliana	towa agaro 
+fish: wena 
+fly (v.): pakana 
+full: din | di	din 
+give: ugwana | anaka no gu	ka no gu	ugwana 
+good: peli 
+green: toninipurubo | inipuruko	towa inipuruko	tɔninipurubɔ 
+green: tɔninipurubɔ | inipuruko	towa inipuruko	tɔninipurubɔ 
+hair: hini | hini	ini 
+head: kuni 
+heart: kupalini 
+hear: wakina | anaka wakiu	ka wakiu	waki	wakina 
+horn: ne | dokopa	ne 
+I: no | no	nɔ 
+I: nɔ | no	nɔ 
+kill: feikina | soʼo	teikina 
+kill: teikina | soʼo	teikina 
+knee: mokone | mokone	mɔkɔne 
+knee: mɔkɔne | mokone	mɔkɔne 
+know: konei | anaka kono	ka kono	kɔnei 
+know: kɔnei | anaka kono	ka kono	kɔnei 
+leaf: hini | hini	ini 
+leg: tia 
+lie: wana 
+liver: ini 
+long: ugwa | ugwa	uka 
+louse: tete 
+man: anoa | anoa	ima anoa 
+man: anɔa | anoa	ima anoa 
+many: rokwa | rɔkwa	toka 
+many: rɔkwa | rɔkwa	toka 
+meat: ?piëi 
+meat: pini 
+moon: eke | eke	ekeː 
+mother: agia 
+mountain: kali | kali	kari 
+mouth: habu | habu	obu-asia 
+name: yaka 
+neck: ma 
+new: koni | koni	kɔni 
+new: kɔni | koni	kɔni 
+night: akurua | akura	akurua 
+nose: kuma 
+not: neya | neya	nia 
+one: du 
+rain: yu | talua	yu	yu talua 
+red: yetao | yesaporo	yetaɔ 
+red: yetaɔ | yesaporo	yetaɔ 
+road: hata 
+root: lako | lakɔ	tako 
+root: lakɔ | lakɔ	tako 
+round: wapeo | mapuʼu	wapeo 
+sand: yumu 
+say: luwana | anaka ru	ka ru 
+seed: eke | eke	kone	towa kone 
+see: kena | anaka keo	ka keo	ke	kena 
+shoulder: paia 
+sit: leina | leina	taopa 
+skin: pulu | pulu	puru 
+sleep: wana | uʼu	wana 
+small: kete | kese	kete 
+smoke: hawe | awa	hawe 
+stand: kei 
+star: yalekayi | yalekayi	yatekaia 
+stone: kana | eke	kuna 
+stone: kuna | eke	kuna 
+sun: hewa | ewa	hewa 
+swim: lana | lana	toʼopa	yu toʼopa 
+tail: lana | lana	tana 
+that: hana | epana	hana 
+this: huna | huna	unia 
+thou: ko | ko	kɔ 
+thou: kɔ | ko	kɔ 
+tongue: ogone | ogone	ɔgɔne 
+tongue: ɔgɔne | ogone	ɔgɔne 
+tooth: ne 
+tree: lowa 
+tree: lɔwa | lowa 
+two: yapa | yaba	yapa 
+walk: gana | gana	sepa 
+warm: lolo 
+warm: lɔlɔ 
+water: yu 
+we (incl.): inu 
+we: inu 
+what: aki 
+white: peo | peo	peɔ 
+white: peɔ | peo	peɔ 
+who: ai 
+wing: iki 
+woman: ima | ima	ima- 
+woman: ima- | ima	ima- 
+yellow: abwao | abwaɔ	ambuao 
+yellow: abwaɔ | abwaɔ	ambuao 
+every: perere	pilili 
+ash: emo	emɔ 
+abdomen: sakane	takane 
+bigness: puka 
+large: puka 
+breasts: abu	ado	adu 
+nail: eka kidipa	hɔdene	kidipa 
+talon: eka kidipa	hɔdene	kidipa 
+come from: hea	heyana	orana 
+be dead: keno	konena 
+dead: keno	konena 
+ground: lidi 
+land: lidi 
+soil: lidi 
+fly: pakana	pakapa 
+fly v.: pakana	pakapa 
+foot: sia 
+hand: ki 
+left hand: ki 
+right: ki 
+1 sg.: no	nɔ 
+be knowledgeable: anaka kono	ka kono	kɔnei 
+lie down: wana 
+head louse: tete 
+male: anoa	anɔa 
+much: rɔkwa	toka 
+multiple: rɔkwa	toka 
+several: rɔkwa	toka 
+hill: kali	kari 
+title: yaka 
+nighttime: akura	akurua 
+adulterous: du 
+single: du 
+the: du 
+unprincipled: du 
+human: anoa	ima anoa 
+human being: anoa	ima anoa 
+person: anoa	ima anoa 
+rainy weather: talua	yu	yu talua 
+path: hata 
+route: hata 
+hide: pulu	puru 
+little: kese	kete 
+smallness: kese	kete 
+rock: eke	kuna 
+2 sg: ko	kɔ 
+you: ko	kɔ 
+grind: yaba	yapa 
+go: gana	sepa 
+1 pl. inc.: inu 
+we₁: inu 
+whiteness: peo	peɔ 
+who?: ai 
+female: ima	ima- 
+dull: kedao 
+heavy: kedao 
+serious: kedao 
+snake: puya 
+wind: pupu 

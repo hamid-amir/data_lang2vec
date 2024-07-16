@@ -1,0 +1,288 @@
+all: gubiin	gubin 
+every: gubiin	gubin 
+ash: awat	qawaat 
+ashes: awat	qawaat 
+bark: keru7 
+abdomen: nEg	nae-g	yi-n	yin 
+belly: nEg	nae-g	yi-n	yin 
+big: [gaq]gaaq	ga7 
+bigness: [gaq]gaaq	ga7 
+large: [gaq]gaaq	ga7 
+bird: arC37	qarcheaq 
+bite: girgiriy	kʼaad 
+black: kol	ruNdu7	ruŋduq 
+blood: %raCa7	rachaq 
+bone: yil 
+breast: 8u8	thuth 
+breasts: 8u8	thuth 
+burn: qurfeeg	qörfeeg 
+burn tr.: qurfeeg	qörfeeg 
+claw: k"uyuN 
+nail: k"uyuN 
+talon: k"uyuN 
+cloud: mEguleN	maagooleŋ	magoleN 
+cold: gärbeab	qulum	ulum 
+come: yib 
+come from: yib 
+be dead: l3l	yiimʼ	yim" 
+dead: l3l	yiimʼ	yim" 
+die: l3l	yiimʼ	yim" 
+dog: %kus	%pilis	kuus	pilis 
+drink: qunum	quun	un	unum 
+dry: malik"	malikʼ 
+ear: lig	lii-g	teel	tel 
+earth: but" 
+ground: but" 
+land: but" 
+soil: but" 
+eat: damunmun	kaay	qabiich 
+egg: faak	fak	tamaNo 
+eye: miit	mit	qawochean 
+fat: mam 
+fat n.: mam 
+grease: mam 
+lubricant: mam 
+oil: mam 
+feather: wul 
+fire: nifiy 
+fish: nig	niig 
+fly: CaNeg	chaŋëg 
+fly v.: CaNeg	chaŋëg 
+foot: ay	rifrif 
+full: sug 
+give: pi7 
+good: fealʼ	fel"	mEnigil	maenigiil 
+green: giriin	girin 
+hair: piy 
+hand: paaq	rifrif 
+left hand: paaq	rifrif 
+right: paaq	rifrif 
+head: Cug	chug	lalug 
+hear: ruN7ag	ruŋqag 
+heart: gum"irCa7 
+horn: gagey 
+1 sg.: geg	gu	g|aeg 
+I: geg	gu	g|aeg 
+kill: li7	liiq 
+knee: bug 
+be knowledgeable: naN	naaŋ 
+know: naN	naaŋ 
+leaf: yuuw	yuw 
+lie: bEn 
+lie down: bEn 
+liver: Ed	qaed 
+long: n"uw	nʼuw 
+head louse: thiil 
+louse: thiil 
+male: moqon	pumo7on 
+man: Ca7	giidiiq	giirdiiq 
+many: bo7or	bukum 
+much: bo7or	bukum 
+multiple: bo7or	bukum 
+several: bo7or	bukum 
+flesh: ufin 
+meat: ufin 
+moon: pul	puul 
+hill: birey	burey 
+mountain: birey	burey 
+mouth: l"igan	laNan	laŋaa-n	lʼigi-n	lʼugu-n 
+name: NaCol	NuCol	ŋachol	ŋuchol 
+title: NaCol	NuCol	ŋachol	ŋuchol 
+neck: Nur37	ŋuroeq 
+new: %bi7eC	biqech 
+night: nEp"	neapʼ 
+nighttime: nEp"	neapʼ 
+nose: p"e8Nun	pʼeethŋuu-n 
+not: daNay 
+adulterous: reb	reeb	rep	ta7ab	taqreeb 
+one: reb	reeb	rep	ta7ab	taqreeb 
+single: reb	reeb	rep	ta7ab	taqreeb 
+that: neam	niir 
+the: reb	reeb	rep	ta7ab	taqreeb 
+unprincipled: reb	reeb	rep	ta7ab	taqreeb 
+human: Ca7	giidiiq	giirdiiq 
+human being: Ca7	giidiiq	giirdiiq 
+person: Ca7	giidiiq	giirdiiq 
+rain: n"uw	nʼuw 
+rainy weather: n"uw	nʼuw 
+red: roowroow	row 
+path: wo7	woq 
+road: wo7	woq 
+route: wo7	woq 
+root: likʼ 
+round: lulbuy 
+sand: yaanʼ 
+say: y3g	yoeg 
+see: guy 
+seed: awoC	laka8 
+sit: pEr	paer 
+hide: doew	yalaC	yalach	yaroC	yarooch 
+skin: doew	yalaC	yalach	yaroC	yarooch 
+sleep: mol	mool 
+little: aCiCig	qachiig 
+small: aCiCig	qachiig 
+smallness: aCiCig	qachiig 
+smoke: a8	qaath 
+stand: sak"iy 
+star: t"uf	tʼuuf 
+rock: limun	malaaŋ 
+stone: limun	malaaŋ 
+sun: yal" 
+swim: n3N	noeŋ 
+tail: buk"	buukʼ	paCan 
+this: biney	neey 
+2 sg: ga	guur	mu 
+thou: ga	guur	mu 
+you: ga	guur	mu 
+tongue: balwo8	balwoth	yimnon	yimnoon 
+tooth: %Nuwol	ŋuwol 
+grind: l"agruw	lʼagruw	ru	ruw 
+two: l"agruw	lʼagruw	ru	ruw 
+go: yEn	yaen 
+walk: yEn	yaen 
+water: daay	rEn	rawn 
+1 pl. inc.: da	gad|ow	gam|ow	gu 
+we: da	gad|ow	gam|ow	gu 
+we₁: da	gad|ow	gam|ow	gu 
+what: maN	maaŋ 
+white: wEC	weachweach 
+whiteness: wEC	weachweach 
+who: mini7	miniiq 
+who?: mini7	miniiq 
+female: [b]piin	bpin 
+woman: [b]piin	bpin 
+yellow: mEgC3l	maegchoel 
+distant: maalʼaaf	qureel 
+far: maalʼaaf	qureel 
+dull: toomaal 
+heavy: toomaal 
+serious: toomaal 
+close: chuuchguur 
+near: chuuchguur 
+ner: chuuchguur 
+salt: sool 
+short: [ŋoch]ŋooch 
+snake: parchooyog 
+thin: guu|lfith 
+wind: nifeeŋ 
+earthworm: qäloelaey 
+worm: qäloelaey 
+year: duw 
+2 pl.: gimeew 
+ye: gimeew 
+you all: gimeew 
+3 pl.: yow 
+they: yow 
+where: quw 
+where?: quw 
+when: wiqin	wuqin 
+when?: wiqin	wuqin 
+how: bidqiy 
+how?: bidqiy 
+other: [thil]thiil 
+three: dalip	delip 
+four: eniŋek	qanŋeeg 
+five: lal	lalʼ 
+broad: raad 
+wide: raad 
+wideness: raad 
+thick: dibqäg 
+narrow: wiqinqin	wuqinqin 
+principal wife: lëq 
+wife: lëq 
+husband: figir 
+his mother: chii-tin-ŋiin 
+mother: chii-tin-ŋiin 
+my mother: chii-tin-ŋiin 
+father: chii-tam-ŋiin 
+his father: chii-tam-ŋiin 
+my father: chii-tam-ŋiin 
+forest: lawaay 
+woods: lawaay 
+branch: paaq 
+stick: paaq 
+fruit: [wa]qamŋii-n 
+flower: makʼuuf 
+grass: paan 
+cord: gof	tael 
+rope: gof	tael 
+gut: tʼaay 
+guts: tʼaay 
+insides: tʼaay 
+intestine: tʼaay 
+intestines: tʼaay 
+back: keeruq 
+suck: [pin]piniŋ	fil[fil] 
+spit: thuw[aeg] 
+vomit: suullʼugun 
+blow: thoow 
+breath: pagoofaan 
+breathe: pagoofaan 
+laugh: minmin 
+laughter: minmin 
+cogitate: leam 
+reflect: leam 
+think: leam 
+smell: faraay 
+sniff: faraay 
+afraid: magar	rus 
+be afraid: magar	rus 
+fear: magar	rus 
+fright: magar	rus 
+alive: fas 
+be alive: fas 
+life: fas 
+live: fas 
+living: fas 
+beat: guul 
+hit: guul 
+strike: guul 
+cut: doedöy 
+hack: doedöy 
+cut open: masëy 
+split: masëy 
+pierce: rugöy 
+stab: rugöy 
+scratch: (ker)keer	guruuy 
+dig: [ker]keer 
+drop: muul 
+fall: muul 
+grasp: koel 
+hold: koel 
+hold in arm: koel 
+squeeze: qudiy 
+wring: qudiy 
+throw: muun	paag 
+bind: mʼaag 
+fasten: mʼaag 
+tie: mʼaag 
+tie up: mʼaag 
+sew: yipʼ 
+count: maathqëg 
+enumerate: maathqëg 
+number: maathqëg 
+tally: maathqëg 
+flow: luulʼ 
+lake: lipäth	lupäth 
+ocean: madaay	riguur 
+sea: madaay	riguur 
+dust: qaab 
+sky: laaŋ 
+blaze: erfeg	yik" 
+bad: kireeb 
+evil: kireeb 
+rot: buuyʼ	meal 
+rotten: buuyʼ	meal 
+dirty: qaliit 
+filthy: qaliit 
+soiled: qaliit 
+sharp: [mʼuth] mʼuuth 
+blunt: boqogol	muqgug 
+damp: gardaq	meyguq	mäyguq 
+wet: gardaq	meyguq	mäyguq 
+right side: matʼaaw 
+left: gilaeyʼ 
+in: laan 
+inside: laan 
+and: ma	ngea 
+if: faqan	fäqän 

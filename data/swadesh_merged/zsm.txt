@@ -1,0 +1,335 @@
+all: semua 
+every: semua 
+ash: abu	debu 
+ashes: abu	debu 
+bark: kulit kayu 
+abdomen: perut 
+belly: perut 
+big: besar 
+bigness: besar 
+large: besar 
+bird: burung 
+bite: gigit 
+black: hitam 
+blood: darah 
+bone: tulang 
+breast: buah dada	payudara	susu	tetek 
+breasts: buah dada	payudara	susu	tetek 
+burn: bakar 
+burn tr.: bakar 
+cloud: awan 
+cold: dingin	sejuk 
+come: datang	mari 
+come from: datang	mari 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: anjing 
+drink: minum 
+dry: kering 
+ear: telinga 
+earth: darat	tanah 
+ground: darat	tanah 
+land: darat	tanah 
+soil: darat	tanah 
+eat: makan 
+egg: telur 
+eye: mata 
+feather: bulu 
+fire: api 
+fish: ikan 
+fly: terbang 
+fly v.: terbang 
+foot: kaki 
+full: penuh 
+give: bagi	beri 
+good: bagus	baik 
+green: hijau 
+hair: bulu	rambut	ramput 
+hand: tangan 
+left hand: tangan 
+right: tangan 
+head: hulu	kepala 
+hear: dengar	mendengar 
+heart: jantung 
+horn: tanduk 
+1 sg.: aku	saya 
+I: aku	saya 
+kill: bunuh	membunuh 
+knee: lutut 
+be knowledgeable: berpengetahuan	mengetahui	tahu 
+know: berpengetahuan	mengetahui	tahu 
+leaf: daun 
+lie: baring	berbaring 
+lie down: baring	berbaring 
+liver: hati 
+long: panjang 
+head louse: kutu	pijat 
+louse: kutu	pijat 
+male: lelaki 
+man: manusia	orang 
+many: banyak 
+much: banyak 
+multiple: banyak 
+several: banyak 
+moon: bulan 
+hill: gunung	puncak 
+mountain: gunung	puncak 
+mouth: mulut 
+name: nama 
+title: nama 
+neck: leher 
+new: baharu	baru 
+night: malam 
+nighttime: malam 
+nose: hidung 
+not: bukan	tidak 
+adulterous: esa	satu	se 
+one: esa	satu	se 
+single: esa	satu	se 
+that: itu	yang itu 
+the: esa	satu	se 
+unprincipled: esa	satu	se 
+human: manusia	orang 
+human being: manusia	orang 
+person: manusia	orang 
+rain: hujan 
+rainy weather: hujan 
+red: merah 
+path: jalan 
+road: jalan 
+route: jalan 
+root: akar 
+round: bulat	bundar 
+sand: pasir 
+say: cakap	kata 
+see: lihat	nampak	tengok 
+seed: benih	biji 
+sit: duduk 
+hide: kulit 
+skin: kulit 
+sleep: tidur 
+little: kecil 
+small: kecil 
+smallness: kecil 
+smoke: asap 
+star: bintang 
+rock: batu 
+stone: batu 
+sun: matahari 
+swim: berenang	renang 
+tail: ekor 
+this: ini	yang ini 
+2 sg: anda	engkau	kamu	saudara	saudari 
+thou: anda	engkau	kamu	saudara	saudari 
+you: anda	engkau	kamu	saudara	saudari 
+tongue: lidah 
+tooth: gigi 
+tree: pohon	pokok 
+grind: dua 
+two: dua 
+go: jalan	jalan kaki 
+walk: jalan	jalan kaki 
+hot: hangat	panas	suam 
+warm: hangat	panas	suam 
+water: air 
+1 pl. inc.: kami	kita 
+we: kami	kita 
+we₁: kami	kita 
+what: apa 
+white: putih 
+whiteness: putih 
+who: siapa 
+who?: siapa 
+female: perempuan 
+woman: perempuan 
+yellow: kuning 
+distant: jauh 
+far: jauh 
+dull: berat 
+heavy: berat 
+serious: berat 
+close: dekat	hampir 
+near: dekat	hampir 
+ner: dekat	hampir 
+salt: garam	masin 
+short: pendek 
+snake: ular 
+thin: nipis	tipis 
+wind: angin 
+earthworm: ulat 
+worm: ulat 
+year: tahun 
+3 sg.: dia 
+he: dia 
+she: dia 
+2 pl.: engkau	kalian 
+ye: engkau	kalian 
+you all: engkau	kalian 
+3 pl.: mereka 
+they: mereka 
+here: di sini	sini 
+there: di sana	di situ	sana	situ 
+where: di mana	mana 
+where?: di mana	mana 
+when: apabila	bila	kapan 
+when?: apabila	bila	kapan 
+how: bagaimana 
+how?: bagaimana 
+some: beberapa 
+few: sedikit 
+other: lain	lain-lain 
+three: tiga 
+four: empat 
+five: delima	lima 
+broad: lebar	luas 
+wide: lebar	luas 
+wideness: lebar	luas 
+fat: gemuk	lemak	minyak 
+thick: tebal 
+narrow: sempit 
+child: anak	kanak 
+principal wife: isteri 
+wife: isteri 
+husband: suami 
+his mother: emak	ibu 
+mother: emak	ibu 
+my mother: emak	ibu 
+father: ayah	bapa 
+his father: ayah	bapa 
+my father: ayah	bapa 
+animal: binatang	haiwan 
+forest: hutan	kayu 
+woods: hutan	kayu 
+branch: batang	kayu	tongkat 
+stick: batang	kayu	tongkat 
+fruit: buah	buah-buah 
+flower: bunga 
+grass: rumput 
+cord: ikat	tali 
+rope: ikat	tali 
+flesh: daging 
+meat: daging 
+grease: gemuk	lemak	minyak 
+claw: kuku 
+fingernail: kuku 
+nail: kuku 
+leg: kaki 
+arm: tangan 
+wing: kepak	sayap 
+gut: tali perut	usus 
+guts: tali perut	usus 
+insides: tali perut	usus 
+intestine: tali perut	usus 
+intestines: tali perut	usus 
+back: belakang	punggung 
+suck: hisap 
+spit: ludah	meludah 
+vomit: muntah 
+blow: hembus	meniup	tiup 
+breath: bernafas	hirup	nafas 
+breathe: bernafas	hirup	nafas 
+laugh: ketawa	tawa 
+laughter: ketawa	tawa 
+cogitate: fikir	rasa 
+reflect: fikir	rasa 
+think: fikir	rasa 
+smell: bau	hidu 
+sniff: bau	hidu 
+afraid: takut 
+be afraid: takut 
+fear: takut 
+fright: takut 
+alive: hidup	lahir 
+be alive: hidup	lahir 
+life: hidup	lahir 
+live: hidup	lahir 
+living: hidup	lahir 
+fight: gaduh	juang	kelahi	lawan	tarung 
+hunt: buru	memburu 
+beat: ketuk	memukul	pukul 
+hit: ketuk	memukul	pukul 
+strike: ketuk	memukul	pukul 
+cut: mengunting	potong 
+hack: mengunting	potong 
+cut open: bahagi	belah	mempecahkan	pisah 
+split: bahagi	belah	mempecahkan	pisah 
+pierce: menikam	tikam 
+stab: menikam	tikam 
+scratch: cakar	garu	gores	menggaru 
+dig: gali	korek	menggorek 
+tell lies: baring	bentang 
+stand: berdiri	diri 
+turn: belok	pusing 
+turn around: belok	pusing 
+turn round: belok	pusing 
+drop: jatuh 
+fall: jatuh 
+grasp: mengankat	pegang 
+hold: mengankat	pegang 
+hold in arm: mengankat	pegang 
+squeeze: memerah	memicit	peras 
+wring: memerah	memicit	peras 
+rub: gosok	sapu 
+wipe: lap	sapu 
+wash: basuh	cuci 
+wash clothes: basuh	cuci 
+pull: tarik 
+push: tolak 
+shove: tolak 
+throw: baling	buang	campak	lempar 
+bind: ikat	mengikat 
+fasten: ikat	mengikat 
+tie: ikat	mengikat 
+tie up: ikat	mengikat 
+sew: jahit	menjahit 
+count: bilang	hitung	kira 
+enumerate: bilang	hitung	kira 
+number: bilang	hitung	kira 
+tally: bilang	hitung	kira 
+sing: nyanyi 
+have fun: main 
+play: main 
+float: apung 
+flow: alir	alur	mengalir 
+freeze: beku 
+swell: bengkak 
+brook: batang	sungai 
+river: batang	sungai 
+stream: batang	sungai 
+lake: danau	kolam	tasik 
+ocean: laut 
+sea: laut 
+dust: debu	habuk 
+fog: kabus	kabut 
+sky: cakerawala	langit 
+snow: salji	salju 
+ice: ais	es 
+blaze: bakar 
+day: siang 
+daylight: siang 
+daytime: siang 
+old: lama 
+bad: buruk	jahat	teruk 
+evil: buruk	jahat	teruk 
+rot: busuk	reput 
+rotten: busuk	reput 
+dirty: kotor 
+filthy: kotor 
+soiled: kotor 
+straight: lurus	terus 
+sharp: tajam 
+blunt: tumpul 
+smooth: licin	mulus 
+damp: basah 
+wet: basah 
+correct: benar	betul 
+right side: kanan 
+left: kiri 
+at: di 
+in: dalam	di	di dalam 
+inside: dalam	di	di dalam 
+with: bersama	dengan 
+and: dan	serta 
+if: apabila	jika	kalau 
+because: karena	kerana	sebab 

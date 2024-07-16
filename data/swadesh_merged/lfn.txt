@@ -1,0 +1,331 @@
+all: tota 
+every: tota 
+ash: sene 
+ashes: sene 
+bark: cortex 
+abdomen: ventre 
+belly: ventre 
+big: grande 
+bigness: grande 
+large: grande 
+bird: avia 
+bite: morde 
+black: negra 
+blood: sangue 
+bone: oso 
+breast: seno 
+breasts: seno 
+cloud: nube 
+cold: fria 
+come: veni 
+come from: veni 
+be dead: mori 
+dead: mori 
+die: mori 
+dog: can 
+drink: bevi 
+dry: seca 
+ear: orea 
+earth: tera 
+ground: tera 
+land: tera 
+soil: tera 
+eat: come 
+egg: ovo 
+eye: oio 
+feather: pluma 
+fire: foco 
+fish: pex 
+fly: vola 
+fly v.: vola 
+foot: pede 
+full: plen 
+give: dona 
+good: bon 
+green: verde 
+hair: capel 
+head: testa 
+hear: oia 
+heart: cor 
+horn: corno 
+1 sg.: me 
+I: me 
+kill: mata 
+knee: jeno 
+be knowledgeable: conose	sabe 
+know: conose	sabe 
+leaf: folia 
+liver: figato 
+long: longa 
+head louse: pioio 
+louse: pioio 
+male: om 
+man: umana 
+many: multe 
+much: multe 
+multiple: multe 
+several: multe 
+moon: luna 
+hill: montania 
+mountain: montania 
+mouth: boca 
+name: nom 
+title: nom 
+neck: colo 
+new: nova 
+night: note 
+nighttime: note 
+nose: nas 
+not: no 
+adulterous: un 
+one: un 
+single: un 
+that: acel 
+the: un 
+unprincipled: un 
+human: umana 
+human being: umana 
+person: umana 
+rain: pluve 
+rainy weather: pluve 
+red: roja 
+path: rua 
+road: rua 
+route: rua 
+root: radis 
+round: ronda 
+sand: arena 
+say: dise 
+see: vide 
+seed: seme 
+sit: senta 
+hide: pel 
+skin: pel 
+sleep: dormi 
+little: peti 
+small: peti 
+smallness: peti 
+smoke: fuma 
+star: stela 
+rock: petra 
+stone: petra 
+sun: sol 
+swim: nada 
+tail: coda 
+this: esta 
+2 sg: tu 
+thou: tu 
+you: tu 
+tongue: lingua 
+tooth: dente 
+tree: arbor 
+grind: du 
+two: du 
+go: pasea 
+walk: pasea 
+hot: calda 
+warm: calda 
+water: acua 
+1 pl. inc.: nos 
+we: nos 
+we₁: nos 
+what: ce 
+white: blanca 
+whiteness: blanca 
+who: ci 
+who?: ci 
+female: fem 
+woman: fem 
+yellow: jala 
+distant: distante 
+far: distante 
+dull: pesos 
+heavy: pesos 
+serious: pesos 
+close: prosima 
+near: prosima 
+ner: prosima 
+salt: sal 
+short: corta 
+snake: serpente 
+thin: magra 
+wind: venta 
+earthworm: verme 
+worm: verme 
+year: anio 
+3 sg.: el 
+he: el 
+she: el 
+2 pl.: vos 
+ye: vos 
+you all: vos 
+3 pl.: los 
+they: los 
+here: asi 
+there: ala 
+where: do 
+where?: do 
+when: cuando 
+when?: cuando 
+how: como 
+how?: como 
+some: alga 
+few: poca 
+other: otra 
+three: tre 
+four: cuatro 
+five: sinco 
+broad: larga 
+wide: larga 
+wideness: larga 
+fat: gras 
+thick: spesa 
+narrow: streta 
+child: enfante 
+principal wife: sposa 
+wife: sposa 
+husband: sposo 
+his mother: madre 
+mother: madre 
+my mother: madre 
+father: padre 
+his father: padre 
+my father: padre 
+animal: animal 
+forest: foresta 
+woods: foresta 
+branch: basto 
+stick: basto 
+fruit: fruta 
+flower: flor 
+grass: erba 
+cord: corda 
+rope: corda 
+flesh: carne 
+meat: carne 
+grease: gras 
+claw: ungia 
+fingernail: ungia 
+nail: ungia 
+leg: gama 
+arm: mano 
+hand: mano 
+wing: ala 
+gut: intestin 
+guts: intestin 
+insides: intestin 
+intestine: intestin 
+intestines: intestin 
+back: dorso 
+suck: suca 
+spit: sputa 
+vomit: vomita 
+blow: sofla 
+breath: respira 
+breathe: respira 
+laugh: rie 
+laughter: rie 
+cogitate: pensa 
+reflect: pensa 
+think: pensa 
+smell: ole 
+sniff: ole 
+afraid: teme 
+be afraid: teme 
+fear: teme 
+fright: teme 
+alive: vive 
+be alive: vive 
+life: vive 
+live: vive 
+living: vive 
+fight: combata 
+hunt: xasa 
+beat: colpa 
+hit: colpa 
+strike: colpa 
+cut: corti 
+hack: corti 
+cut open: fende 
+split: fende 
+pierce: punia 
+stab: punia 
+scratch: rasca 
+dig: cava 
+lie: reclina 
+lie down: reclina 
+tell lies: reclina 
+stand: sta 
+turn: jira	turna	verje 
+turn around: jira	turna	verje 
+turn round: jira	turna	verje 
+drop: cade 
+fall: cade 
+grasp: teni 
+hold: teni 
+hold in arm: teni 
+squeeze: presa 
+wring: presa 
+rub: frica 
+wipe: frota 
+wash: lava 
+wash clothes: lava 
+pull: tira 
+push: presa 
+shove: presa 
+throw: lansa 
+bind: lia 
+fasten: lia 
+tie: lia 
+tie up: lia 
+sew: cose 
+count: conta 
+enumerate: conta 
+number: conta 
+tally: conta 
+sing: canta 
+have fun: jua 
+play: jua 
+float: flota 
+flow: flue 
+freeze: jela 
+swell: infla 
+brook: rio 
+river: rio 
+stream: rio 
+lake: lago 
+ocean: mar 
+sea: mar 
+dust: polvo 
+fog: nebla 
+sky: sielo 
+snow: neva 
+ice: jelo 
+blaze: arde 
+burn: arde 
+day: dia 
+daylight: dia 
+daytime: dia 
+old: vea 
+bad: mal 
+evil: mal 
+rot: putrida 
+rotten: putrida 
+dirty: susia 
+filthy: susia 
+soiled: susia 
+straight: reta 
+sharp: agu	punta 
+blunt: nonagu 
+smooth: lisa 
+damp: moiada	umida 
+wet: moiada	umida 
+correct: coreta 
+right: destra 
+right side: destra 
+left: sinistra 
+in: en 
+inside: en 
+with: con 
+if: si 
+because: car 

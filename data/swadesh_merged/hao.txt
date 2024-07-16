@@ -1,0 +1,130 @@
+all: rori hoboto 
+every: rori hoboto 
+ash: kuahu 
+ashes: kuahu 
+abdomen: u tor 
+belly: u tor 
+big: kapan 
+bigness: kapan 
+large: kapan 
+bird: a kala 
+bite: e kamu 
+black: ruruhana 
+blood: rahaciN	rahatsing 
+bone: silo 
+breast: asusu	paspasu	susu 
+breasts: asusu	paspasu	susu 
+burn: kulupu	ngotona 
+burn tr.: kulupu	ngotona 
+cloud: kuasi 
+cold: bot-mumula 
+come: lanama 
+come from: lanama 
+be dead: mete 
+dead: mete 
+die: mete 
+dog: muki 
+drink: e wana	wana 
+dry: u-palaka 
+ear: taliNa	talinga 
+eat: e nanina 
+egg: u nata 
+eye: mata	umata 
+feather: a kuha 
+fire: Noto	ngoto 
+fish: a yana	yana 
+fly: e tapa 
+fly v.: e tapa 
+good: a luma a niga 
+green: bibil 
+hair: ultutu 
+hand: u walima	walima 
+left hand: u walima	walima 
+right: u walima	walima 
+head: baku 
+hear: e longolona	loNolona 
+1 sg.: aku 
+I: aku 
+kill: yatung 
+be knowledgeable: e ati 
+know: e ati 
+leaf: ulun 
+lie: e-nopuna 
+lie down: e-nopuna 
+liver: poso 
+long: ngangaha 
+head louse: aklutu	klutu 
+louse: aklutu	klutu 
+male: tamata 
+man: akatun 
+moon: tsihau 
+mouth: run̄g 
+name: solo 
+title: solo 
+neck: u liou 
+new: a luma a tsimus	luma a cimus 
+night: boN	bong 
+nighttime: boN	bong 
+nose: uyas 
+adulterous: alam i lapisa	toa 
+one: alam i lapisa	toa 
+single: alam i lapisa	toa 
+that: i-tina	tina 
+the: alam i lapisa	toa 
+unprincipled: alam i lapisa	toa 
+human: akatun 
+human being: akatun 
+person: akatun 
+rain: langits 
+rainy weather: langits 
+red: marara 
+path: maroro 
+road: maroro 
+route: maroro 
+root: poloso 
+sand: kotolana 
+say: e ranga 
+see: e tarana	tarana 
+sit: e tapa-ha 
+hide: pikpiku 
+skin: pikpiku 
+sleep: e sohona	e-sohona 
+little: teroko 
+small: teroko 
+smallness: teroko 
+smoke: ruhu 
+star: pito-pito	pitopito 
+rock: palau 
+stone: palau 
+swim: nepe 
+tail: u hisi 
+this: reke 
+tongue: mea	u mea 
+tooth: liho	ngi	n̄gi	u liho 
+grind: tol 
+two: tol 
+go: elala	la 
+walk: elala	la 
+hot: hiski 
+warm: hiski 
+water: ramun 
+1 pl. inc.: aga	aga hoboto	aga i lapisa	aga i lisolana	alam	alam i lapisa 
+we: aga	aga hoboto	aga i lapisa	aga i lisolana	alam	alam i lapisa 
+we₁: aga	aga hoboto	aga i lapisa	aga i lisolana	alam	alam i lapisa 
+what: aha 
+white: poka 
+whiteness: poka 
+who: ese 
+who?: ese 
+female: kawu 
+woman: kawu 
+yellow: ngongoana 
+distant: lamanana 
+far: lamanana 
+salt: u-tis 
+short: kukuranu 
+snake: a-kukuts 
+wind: lomō-lomo 
+earthworm: kakabelekua 
+worm: kakabelekua 
+year: hin̄gal 

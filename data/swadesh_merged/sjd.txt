@@ -1,0 +1,327 @@
+all: пугк 
+every: пугк 
+ash: кунн 
+ashes: кунн 
+bark: кэ̄рр	па̄ҏҏк	пе̄ссь 
+abdomen: чуэййв 
+belly: чуэййв 
+big: шӯрр 
+bigness: шӯрр 
+large: шӯрр 
+bird: лоаннҍт 
+bite: ка̄ццькэ 
+black: чоаһпэ 
+blood: ver	вэ̄рр 
+bone: taxy~t	та̄ххьт 
+breast: ninC	ra5t	ниннч	раннҍт 
+breasts: ninC	ra5t	ниннч	раннҍт 
+claw: кэ̄ннц 
+nail: кэ̄ннц 
+talon: кэ̄ннц 
+cloud: пэ̄ввл 
+cold: кэлмас 
+come: %puedte	пуэдтӭ 
+come from: %puedte	пуэдтӭ 
+be dead: yoame	ёамме 
+dead: yoame	ёамме 
+die: yoame	ёамме 
+dog: penE	пе̄ннэ 
+drink: %yugke	югкэ 
+dry: коашькэсь 
+ear: peLy~	pely~y	пе̄лльй 
+earth: е̄ммьне 
+ground: е̄ммьне 
+land: е̄ммьне 
+soil: е̄ммьне 
+eat: по̄ррэ 
+egg: маннҍ 
+eye: CaLm	Caly~m	чалльм 
+feather: по̄ннц 
+fire: tol	то̄лл 
+fish: kuL	kuly~	кӯлль 
+fly: кыррьтэ 
+fly v.: кыррьтэ 
+foot: ю̄лльк 
+full: tivt	те̄ввт 
+give: аннҍтэ 
+good: пӯррь	шӣг 
+green: руэнн 
+hair: вӯппт 
+hand: kidt	кӣдт 
+left hand: kidt	кӣдт 
+right: kidt	кӣдт 
+head: вуэййв 
+hear: kulE	куллэ 
+heart: кӯттьк	са̄ррьт 
+horn: %Cuerv	чуэррьв 
+1 sg.: mun	мунн 
+I: mun	мунн 
+kill: коаннҍтэ 
+knee: puvl	пӯввл 
+be knowledgeable: томмтэ	тӣдтэ 
+know: томмтэ	тӣдтэ 
+leaf: %lest	лэ̄сст 
+lie: луввэ 
+lie down: луввэ 
+liver: vuvas	вӯйвас 
+long: кукесь 
+head louse: t3ky~	тыһкь 
+louse: t3ky~	тыһкь 
+male: оалмолма 
+man: %olma	poalkas	олма 
+many: е̄ннэ 
+much: е̄ннэ 
+multiple: е̄ннэ 
+several: е̄ннэ 
+flesh: вуэннч 
+meat: вуэннч 
+moon: ма̄нн 
+hill: %pahk	пāһкь 
+mountain: %pahk	пāһкь 
+mouth: ня̄лльм 
+name: %nem	нэ̄мм 
+title: %nem	нэ̄мм 
+neck: ча̄пэх 
+new: odt	о̄дт 
+night: 3y	ыйй 
+nighttime: 3y	ыйй 
+nose: 5un5	5uny~	нюннҍ 
+not: э- 
+adulterous: et	э̄ххт 
+one: et	э̄ххт 
+single: et	э̄ххт 
+that: тудт	што 
+the: et	э̄ххт 
+unprincipled: et	э̄ххт 
+human: %olma	poalkas	олма 
+human being: %olma	poalkas	олма 
+person: %olma	poalkas	олма 
+rain: а̄ббьр 
+rainy weather: а̄ббьр 
+red: рӯппсэ 
+path: %yun 
+road: %yun 
+route: %yun 
+root: вуэнҍтэсь 
+round: ёррьпесь 
+sand: вӯнтас 
+say: це̄ӆӆькэ 
+see: %ujne	уййнэ 
+seed: се̄м 
+sit: ышштэ 
+hide: toLy~	toly~y	тӯлльй 
+skin: toLy~	toly~y	тӯлльй 
+sleep: вуэдтӭ	нагерь 
+little: удць 
+small: удць 
+smallness: удць 
+smoke: сӯвв 
+star: tasy~t	тāссьт 
+rock: kedy~k	ке̄ддҍк 
+stone: kedy~k	ке̄ддҍк 
+sun: pev	пе̄ййв 
+swim: вӯйе 
+tail: се̄ййп 
+this: тадт 
+2 sg: ton	то̄нн 
+thou: ton	то̄нн 
+you: ton	то̄нн 
+tongue: 5uCemy~	нюхчемь 
+tooth: pany~	па̄ннҍ 
+tree: mur 
+grind: kut	кӯһт 
+two: kut	кӯһт 
+go: ва̄ннҍцэ 
+walk: ва̄ннҍцэ 
+hot: поаһк 
+warm: поаһк 
+water: Cacy~	Cadzy~	ча̄дзь 
+1 pl. inc.: m3y 
+we: m3y 
+we₁: m3y 
+what: мэгк	мӣ 
+white: вӣллкэ 
+whiteness: вӣллкэ 
+who: ке̄	кегк 
+who?: ке̄	кегк 
+female: нызан 
+woman: нызан 
+yellow: руччкесь 
+distant: куһкенҍ 
+far: куһкенҍ 
+dull: ло̄ссесь 
+heavy: ло̄ссесь 
+serious: ло̄ссесь 
+close: алльт 
+near: алльт 
+ner: алльт 
+salt: сӯлль 
+short: оаньхесь 
+snake: кӯввьт 
+thin: се̄ӈькесь 
+wind: пӣӈӈк 
+earthworm: ма̄дт 
+worm: ма̄дт 
+year: ыгкь 
+2 pl.: тыйй 
+ye: тыйй 
+you all: тыйй 
+3 pl.: сыйй 
+they: сыйй 
+here: тэсьт 
+there: тамьпэ 
+where: касьт 
+where?: касьт 
+when: куэссь 
+when?: куэссь 
+how: ко̄ххт 
+how?: ко̄ххт 
+some: мугка-ве̄рьт 
+few: ва̄нас 
+other: мудта 
+three: ко̄ллм 
+four: не̄лльй 
+five: выдт 
+broad: ко̄ммьтэсь 
+wide: ко̄ммьтэсь 
+wideness: ко̄ммьтэсь 
+fat: пӯййт 
+thick: кэ̄сс 
+narrow: ке̄нҍцесь 
+child: па̄рнэнч 
+principal wife: а̄һкь	коаб 
+wife: а̄һкь	коаб 
+husband: кӯйй 
+his mother: е̄ннҍ 
+mother: е̄ннҍ 
+my mother: е̄ннҍ 
+father: аджь 
+his father: аджь 
+my father: аджь 
+animal: жыва 
+forest: ва̄ррь 
+woods: ва̄ррь 
+branch: вуэккьс	сӯррь 
+stick: вуэккьс	сӯррь 
+fruit: шаннт 
+flower: ра̄ссь 
+grass: ра̄ссь 
+cord: нӯррь 
+rope: нӯррь 
+grease: пӯййт 
+fingernail: кэ̄ннц 
+leg: ю̄лльк 
+wing: суэйй 
+gut: чуэлль 
+guts: чуэлль 
+insides: чуэлль 
+intestine: чуэлль 
+intestines: чуэлль 
+back: се̄лльк 
+suck: нюммэ 
+spit: чо̄ллкэ 
+vomit: вуккьсэ 
+blow: поассэ 
+breath: вӯййнэ 
+breathe: вӯййнэ 
+laugh: сӣййнэ	тӣшш 
+laughter: сӣййнэ	тӣшш 
+cogitate: юррьтэ 
+reflect: юррьтэ 
+think: юррьтэ 
+smell: аппьсэ 
+sniff: аппьсэ 
+afraid: пэ̄ллэ 
+be afraid: пэ̄ллэ 
+fear: пэ̄ллэ 
+fright: пэ̄ллэ 
+alive: е̄ллей 
+be alive: е̄ллей 
+life: е̄ллей 
+live: е̄ллей 
+living: е̄ллей 
+fight: туаррэ 
+hunt: ме̄һць 
+beat: васстэ 
+hit: васстэ 
+strike: васстэ 
+cut: вэ̄йе	чӯһпэ 
+hack: вэ̄йе	чӯһпэ 
+cut open: луэннҍтэ 
+split: луэннҍтэ 
+pierce: чо̄һкэ 
+stab: чо̄һкэ 
+scratch: суввэ 
+dig: куаййвэ 
+tell lies: ке̄лсэллэ 
+stand: чуэннчэ 
+turn: ле̄вхэ 
+turn around: ле̄вхэ 
+turn round: ле̄вхэ 
+drop: кэ̄һче 
+fall: кэ̄һче 
+grasp: оаннӭ 
+hold: оаннӭ 
+hold in arm: оаннӭ 
+squeeze: падже 
+wring: падже 
+rub: е̄ррэ 
+wipe: е̄ррэ 
+wash: пэ̄ссэ 
+wash clothes: пэ̄ссэ 
+push: оййкъе 
+shove: оййкъе 
+throw: чаццькэ 
+bind: ко̄ррэ 
+fasten: ко̄ррэ 
+tie: ко̄ррэ 
+tie up: ко̄ррэ 
+sew: куаррэ 
+count: ло̄гкэ 
+enumerate: ло̄гкэ 
+number: ло̄гкэ 
+tally: ло̄гкэ 
+sing: ла̄ввлэ 
+have fun: сӣррэ 
+play: сӣррэ 
+float: вӯйе 
+flow: ко̄ллкэ 
+freeze: калльмэ 
+brook: ё̄гк 
+river: ё̄гк 
+stream: ё̄гк 
+lake: я̄ввьр 
+ocean: ме̄рр 
+sea: ме̄рр 
+dust: пуэнн 
+fog: цӣгк 
+sky: алльм 
+snow: вэ̄дз 
+ice: ӣӈӈ 
+blaze: пӯлле 
+burn: пӯлле 
+day: пе̄ййв 
+daylight: пе̄ййв 
+daytime: пе̄ййв 
+bad: нюэссь 
+evil: нюэссь 
+rot: кӯдц 
+rotten: кӯдц 
+dirty: са̄ккьс 
+filthy: са̄ккьс 
+soiled: са̄ккьс 
+straight: нёллкэ 
+sharp: пассьтлэсь 
+blunt: ме̄ресь 
+smooth: нёллькесь 
+damp: ню̄цкас 
+wet: ню̄цкас 
+correct: вӯййк 
+right side: вуэлькесь 
+left: чинч 
+at: альн 
+in: сызьн 
+inside: сызьн 
+with: -энҍ	мӣлльтэ 
+if: коалэ 
+because: гуэйкэ 

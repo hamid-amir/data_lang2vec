@@ -1,0 +1,369 @@
+all: nggapara | ŋgapara 
+all: ŋgapara 
+arm: -koma 
+arrow: saŋgura 
+ashes: kwambi | kwambi	tukur 
+ashes: tukur | kwambi	tukur 
+back: -ßrɨŋga 
+back: -vrïngga 
+bad: indua 
+belly: -uru 
+belly: -uru sime 
+big: kwanër | kwanʌr 
+big: kwanʌr 
+bird: kapa 
+bite: -is- 
+black: mukum 
+blood: -nggum | -ŋgum	Ngum 
+blood: -ŋgum | -ŋgum	Ngum 
+blow: uß- 
+blow: uv- 
+bone: -kana | -kana	kana 
+boy: mogoi asam 
+breast: aməna | am3na	aməna 
+breast: amïna | am3na	aməna 
+brother: anow 
+brother: -as 
+brother: asëva 
+brother: asʌßa 
+burn: kr- 
+butterfly: apapure 
+calf: -nïsï 
+calf: -nɨsɨ 
+cassowary: waiva 
+chest: -kobs.kïrï 
+chest: -kobskɨrɨ 
+child: mogoi 
+chin: -kindʌ 
+chin: -kindë 
+cloud: fio | ɸio 
+cloud: φio | ɸio 
+cold: purmo 
+come: f- | ɸ- 
+come: φ- | ɸ- 
+crocodile: akəna 
+crocodile: akïna 
+cut: ika rot- 
+cut: ika wak 
+cut: ika wak- 
+cut: ikawak- 
+dance: saur- 
+day: kiutete 
+day: nimera 
+die: kum- | kum	kum- 
+dig: ëkum kaur- 
+dig: kaur- 
+dig: ʌkumkaur- 
+dirty: kupuru 
+dirty: ringgi 
+dirty: riŋgi 
+dog: uwʷa | uwura	uwᵘra 
+dog: uwura | uwura	uwᵘra 
+dry: rouke | rouke	ure 
+dry: ure | rouke	ure 
+ear: -kind | -kind	kind~ 
+earth: om 
+eat: n- 
+eat: nerumb- | n- 
+egg: nïsu | nɨsu 
+egg: nɨsu 
+elbow: gawar(ʉbʉ) 
+elbow: gawar(übü) 
+emu: waißa 
+excrement: so 
+eye: -tëmë | -tʌmʌ	t3m3 
+eye: -tʌmʌ | -tʌmʌ	t3m3 
+fall: ika-kev- 
+fall: pʉŋg- 
+fall: püngg- 
+fall: tarik- 
+far: kiti 
+father: awya 
+father: -kuna 
+fat (n.): -səmbʌrr 
+fat (n.): -sïmbër 
+few: nəŋgʌp 
+few: nïnggëp 
+fight: -iß- 
+finger: kata 
+fingernail: pindam 
+fingernail: simbʌ 
+fingernail: simbë 
+fire: ëwu | 3wu	ʌwu 
+fire: ʌwu | 3wu	ʌwu 
+fish: wayake 
+fly (n.): korumba 
+fly (v.): fumr- 
+fly (v.): φumr- 
+fog: fio 
+fog: φio 
+forest: suguwu 
+fruit: nïsïkrï 
+fruit: nɨsɨkrɨ 
+full: mute 
+full: reki- | mute 
+girl: mawʷda amʷara 
+girl: nawunda amunara 
+give: -mbi- 
+good: aŋgənim 
+good: anggïnim | aŋgənim 
+grass: mïnda 
+guts: -uru sime 
+hair: uruku 
+head: -ngata | -ŋata 
+head: -ŋata 
+head: nimi | -ŋata 
+hear: (-si)-arevi- | - doŋo -areβi	-si doŋo -areβi	siarebi 
+hear: -(si) doŋo -areßi | - doŋo -areβi	-si doŋo -areβi	siarebi 
+heavy: kußr | kuβr 
+heavy: kuvr | kuβr 
+here: ika 
+here: koiva 
+he/she: nʉ 
+he/she: nʉ- 
+he/she: nʉ-ku 
+he/she: nü 
+he/she: nü- 
+he/she: ø- 
+he/she: u- 
+hit: -iv- 
+hold: it- 
+house: ißu 
+house: ivu 
+how: anggap 
+in: wam 
+I: ya 
+I: ya- 
+I: ya-ku 
+kill: -iß- | -iβ- 
+kill: -iv- | -iβ- 
+knee: -gawar | -gawar	gawar 
+laugh: arəmind- 
+laugh: arïmind- 
+left: pesa 
+leg: -uya 
+liver: nətəsəkrɨ | n3tes3kr3	nətəsəkrɨ 
+liver: nïtïsïkrï | n3tes3kr3	nətəsəkrɨ 
+long: gara 
+louse: ima 
+man: kura 
+man: makono | kura 
+many: sakum 
+meat: fonggu 
+meat: φoŋgu 
+moon: taku 
+morning: kiunarama 
+morning: reinde 
+mosquito: kasi 
+mother: aniya 
+mother: -mungge 
+mother: -muŋgɛ 
+mountain: funda | pund~a	ɸunda 
+mountain: φunda | pund~a	ɸunda 
+mouth: sʉmbʷa | sʉmbᵘka 
+mouth: -sümbüka | sʉmbᵘka 
+name: ninimbe | ninimbe	ninimb~e 
+nape: -nanggu 
+nape: -naŋgu 
+navel: simburu 
+navel: sɪmburu 
+near: kinam 
+neck: -wonggu | -woŋgu 
+neck: -woŋgu 
+new: omʌ | om3	omʌ 
+new: omë | om3	omʌ 
+night: kiwur 
+nose: mota 
+not: kwe 
+old: gʷayam 
+old: gwayam 
+old: mindimis 
+one: pakuti 
+pull: manggr- 
+pull: maŋgr- 
+push: tayawar- 
+rain: anam 
+rat: mito 
+red: yanggumra | yaŋgumra 
+red: yaŋgumra 
+right: kënda 
+right: kʌnda 
+ripe: nuwaya 
+ripe: yanggumra 
+ripe: yaŋgumra 
+road: imre | imr3	kumb~u 
+road: imrɛ | imr3	kumb~u 
+road: kumbu | imr3	kumb~u 
+root: nikini 
+rope: yogori 
+salt: kʷanawa 
+salt: kwanawa | kʷanawa 
+sand: usuwa 
+say: amba + "give | amba -mbi- 
+say: amba -mbi- 
+say: guramb- | amba -mbi- 
+scratch: ŋgəß- 
+scratch: nggïv- 
+see: -rʉk- | -rʉk-	ruk 
+see: -ruk- | -rʉk-	ruk 
+see: ruk- | -rʉk-	ruk 
+sharp: nïngïnï 
+sharp: nɨŋənə 
+sharp: sik- 
+short: kwambat 
+shoulder: -këmbara 
+shoulder: -kʌmbara 
+sing: nikiaw- 
+sister: momunggo 
+sister: momuŋgo 
+sit: rumbram- 
+skin: -sangga | -saŋga	saNga 
+skin: -saŋga | -saŋga	saNga 
+sleep: akun- 
+small: ikwatët | ikwatʌt 
+small: ikwatʌt 
+smell: nïwura arukw- 
+smoke: miti 
+snake: sër | sʌr 
+snake: sʌr 
+spit: kʷemʌri 
+spit: kwemëri 
+spit: mut- 
+split: kombr- 
+split: porund- 
+split: pukuw- 
+stand: raŋgʷet- 
+stand: ranggwet- 
+star: ben 
+stick: mukumbu 
+stick: tum 
+stone: sanaß | sanab	sanaβ 
+stone: sanav | sanab	sanaβ 
+straight: sururu 
+sun: ërë | 3r3	ʌrʌ 
+sun: ʌrʌ | 3r3	ʌrʌ 
+swell: kokr- 
+tail: bitu | -tam 
+tail: -tam 
+take: it- 
+that: kitu 
+they: nʉ-ku 
+they: nʉ-nʉ 
+they: nʉ-nʉ- 
+they: nü- 
+they: nü-nü- 
+thigh: -kuto 
+this: kaka 
+thou: na 
+thou: na- 
+thou: na-ku 
+thou: na-nʉ 
+thou: na-nʉ- 
+throat: aunggu 
+throat: auŋgu 
+throw: keßi- 
+throw: kevi- 
+tie: manggr- 
+tie: maŋgr- 
+tomorrow: amar 
+tomorrow: aringgai 
+tongue: menïm | men3m	menɨm 
+tongue: menɨm | men3m	menɨm 
+tooth: mäka | m3ka	mʌka 
+tooth: mʌka | m3ka	mʌka 
+tree: arəkɨ | tar3 
+tree: nimia | tar3 
+tree: tarə | tar3 
+tree: tarï | tar3 
+two: aringga | ariNga	ariŋga 
+two: ariŋga | ariNga	ariŋga 
+vagina: muku 
+vomit: mɛŋr- 
+walk: kopr- | m- 
+walk: m- 
+walk: matam- 
+walk: matan- | m- 
+wallaby: ënggor 
+wallaby: ʌŋgor 
+warm: ëwunde 
+warm: ʌwunde 
+wash: -ram- 
+water: anam 
+we: a- | an3 
+we: a-ku | an3 
+we: a-nʉ | an3 
+we: a-nʉ- | an3 
+we: a-nü | an3 
+we: a-nü- | an3 
+weep: rik- 
+wet: kayaŋgɨ 
+wet: kayanggï 
+what: ëtï | ʌtɨ 
+what: ʌtɨ 
+where: mbʌʔ 
+where: mbë\ 
+white: kayaŋgɨ | kayaŋgɨ	koniri 
+white: kayanggï | kayaŋgɨ	koniri 
+white: koniri | kayaŋgɨ	koniri 
+who: ne 
+wind: kunum 
+wing: aw 
+woman: nduwa | nduwa	nom 
+woman: nom | nduwa	nom 
+wood: mukumbu 
+wood: tum 
+yellow: yawara 
+yes: io 
+yesterday: amari 
+yesterday: aringgai 
+you: na- 
+you: na-nü 
+you: na-nü- 
+every: ŋgapara 
+ash: kwambi	tukur 
+abdomen: -uru 
+bigness: kwanʌr 
+large: kwanʌr 
+breasts: am3na	aməna 
+come from: ɸ- 
+be dead: kum	kum- 
+dead: kum	kum- 
+ground: om 
+land: om 
+soil: om 
+fly: ɸumr- 
+fly v.: ɸumr- 
+1 sg.: ya 
+head louse: ima 
+male: kura 
+much: sakum 
+multiple: sakum 
+several: sakum 
+hill: pund~a	ɸunda 
+title: ninimbe	ninimb~e 
+nighttime: kiwur 
+adulterous: pakuti 
+single: pakuti 
+the: pakuti 
+unprincipled: pakuti 
+rainy weather: anam 
+path: imr3	kumb~u 
+route: imr3	kumb~u 
+hide: -saŋga	saNga 
+little: ikwatʌt 
+smallness: ikwatʌt 
+rock: sanab	sanaβ 
+2 sg: na 
+you: na 
+grind: ariNga	ariŋga 
+go: m- 
+1 pl. inc.: an3 
+we₁: an3 
+whiteness: kayaŋgɨ	koniri 
+who?: ne 
+female: nduwa	nom 
+distant: kiti 
+dull: kuβr 
+serious: kuβr 
+close: kinam 
+ner: kinam 

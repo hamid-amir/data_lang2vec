@@ -1,0 +1,266 @@
+all: iauiau-na 
+every: iauiau-na 
+ash: karikau 
+ashes: karikau 
+abdomen: gamwa-na	gamwada-na 
+belly: gamwa-na	gamwada-na 
+big: sinabwa-na 
+bigness: sinabwa-na 
+large: sinabwa-na 
+bird: manua 
+bite: ʼenina 
+black: gaigai-na 
+blood: rara 
+bone: lulu	lulu-na 
+breast: susu	susu-na 
+breasts: susu	susu-na 
+burn: ʼarasi 
+burn tr.: ʼarasi 
+cloud: poana 
+cold: gogai 
+come: u da ma	ʼu da ma 
+come from: u da ma	ʼu da ma 
+be dead: mwawasa	mw~awasa 
+dead: mwawasa	mw~awasa 
+die: mwawasa	mw~awasa 
+dog: kedewa 
+drink: numa 
+dry: iadaiada 
+ear: tena	tena-na 
+eat: eʼai 
+egg: pou 
+eye: mata	mata-na 
+feather: dagura 
+fire: awe	ʼawe 
+fish: iana 
+fly: taea 
+fly v.: taea 
+good: boboʼa-na 
+green: karakarawi-na 
+hair: ʼuiaʼuia-na 
+hand: nima	nima-na 
+left hand: nima	nima-na 
+right: nima	nima-na 
+head: deba-na 
+hear: nono 
+1 sg.: abo7agu	ʼaboʼagu 
+I: abo7agu	ʼaboʼagu 
+kill: ʼunu 
+be knowledgeable: panaita	sinapuna 
+know: panaita	sinapuna 
+leaf: iawa	iawa-na 
+lie: ʼenoʼeno 
+lie down: ʼenoʼeno 
+liver: ate	ʼate-na 
+long: dudura-na 
+head louse: utu	ʼutu 
+louse: utu	ʼutu 
+male: meʼoloto-na 
+man: tomota 
+moon: nawarae 
+mouth: ʼawa 
+name: esa	esa-na 
+title: esa	esa-na 
+neck: ʼoto-na 
+new: auau	auau-na 
+night: boiboi 
+nighttime: boiboi 
+nose: ubusu	ʼubusu-na 
+adulterous: bw~eu	ebweuna	ʼe bweu 
+one: bw~eu	ebweuna	ʼe bweu 
+single: bw~eu	ebweuna	ʼe bweu 
+that: nina 
+the: bw~eu	ebweuna	ʼe bweu 
+unprincipled: bw~eu	ebweuna	ʼe bweu 
+human: tomota 
+human being: tomota 
+person: tomota 
+rain: usana 
+rainy weather: usana 
+red: bweabweari-na 
+path: eda	ʼeda 
+road: eda	ʼeda 
+route: eda	ʼeda 
+root: ramu-na 
+sand: kaukau	nedila 
+say: gwae	ona 
+see: ita	ʼita 
+sit: miatoa 
+hide: bwara-na	bw~ara 
+skin: bwara-na	bw~ara 
+sleep: ʼeno 
+little: gidari-na 
+small: gidari-na 
+smallness: gidari-na 
+smoke: ʼasu 
+star: kwadima	kw~adima 
+rock: gurewa 
+stone: gurewa 
+swim: tube 
+tail: iuiu-na 
+this: gete 
+2 sg: oiu	ʼoiu 
+thou: oiu	ʼoiu 
+you: oiu	ʼoiu 
+tongue: meia	meia-na 
+tooth: sara	sara-na 
+grind: eluwa	rua	ʼe rua 
+two: eluwa	rua	ʼe rua 
+go: lopilidadana 
+walk: lopilidadana 
+hot: iaiiai 
+warm: iaiiai 
+water: boasi 
+1 pl. inc.: abo7ada	ʼaboʼada	ʼaboʼama 
+we: abo7ada	ʼaboʼada	ʼaboʼama 
+we₁: abo7ada	ʼaboʼada	ʼaboʼama 
+what: toase 
+white: burabura-na 
+whiteness: burabura-na 
+who: iaita 
+who?: iaita 
+female: mewaine-na 
+woman: mewaine-na 
+yellow: raurau-na 
+distant: ʼedidigura 
+far: ʼedidigura 
+dull: mwau 
+heavy: mwau 
+serious: mwau 
+close: deinaia	serabenaia 
+near: deinaia	serabenaia 
+ner: deinaia	serabenaia 
+salt: kalita 
+short: kukupa-na	tuna-na 
+snake: moata 
+thin: dedea-na 
+wind: iagila	mana 
+earthworm: didimwana 
+worm: didimwana 
+year: borimana	sesoi 
+2 pl.: ʼomi 
+ye: ʼomi 
+you all: ʼomi 
+3 pl.: taudi 
+they: taudi 
+where: mane	mwaʼo 
+where?: mane	mwaʼo 
+when: maisa 
+when?: maisa 
+how: mwaʼadega 
+how?: mwaʼadega 
+other: wate 
+three: etoi	ʼe to 
+four: ata	ʼe ata 
+five: nima 
+broad: bababa-na 
+wide: bababa-na 
+wideness: bababa-na 
+fat: iapa 
+thick: bado-na 
+narrow: gibwagibwa	gilele-na 
+principal wife: mwane-na 
+wife: mwane-na 
+husband: mwane-na 
+his mother: sina-na 
+mother: sina-na 
+my mother: sina-na 
+father: tama-na 
+his father: tama-na 
+my father: tama-na 
+forest: mitawa 
+woods: mitawa 
+branch: nari-na 
+stick: nari-na 
+fruit: ʼua-na 
+flower: seni-na 
+grass: nedu	pwatura 
+cord: barae 
+rope: barae 
+flesh: ʼesio-na 
+meat: ʼesio-na 
+grease: iapa 
+wing: pape-na 
+gut: dia-na 
+guts: dia-na 
+insides: dia-na 
+intestine: dia-na 
+intestines: dia-na 
+back: guau-na 
+suck: sususu 
+spit: giwara 
+vomit: maiwa 
+blow: toa 
+breath: iawasi-na 
+breathe: iawasi-na 
+laugh: edagi 
+laughter: edagi 
+cogitate: nuena 
+reflect: nuena 
+think: nuena 
+smell: mui 
+sniff: mui 
+afraid: matauta 
+be afraid: matauta 
+fear: matauta 
+fright: matauta 
+alive: boboʼa-na	maiawasi-na 
+be alive: boboʼa-na	maiawasi-na 
+life: boboʼa-na	maiawasi-na 
+live: boboʼa-na	maiawasi-na 
+living: boboʼa-na	maiawasi-na 
+hunt: tore 
+beat: ʼunu 
+hit: ʼunu 
+strike: ʼunu 
+cut: tara 
+hack: tara 
+cut open: tara siʼaa 
+split: tara siʼaa 
+pierce: badi 
+stab: badi 
+scratch: waro 
+dig: sala 
+stand: toro 
+drop: sagu 
+fall: sagu 
+grasp: giai 
+hold: giai 
+hold in arm: giai 
+squeeze: bibi 
+wring: bibi 
+throw: ʼule 
+bind: losipwa 
+fasten: losipwa 
+tie: losipwa 
+tie up: losipwa 
+sew: saisaila 
+count: iapu	sawa 
+enumerate: iapu	sawa 
+number: iapu	sawa 
+tally: iapu	sawa 
+flow: daudau 
+lake: sewasewa 
+ocean: ora 
+sea: ora 
+dust: kau 
+fog: umauma 
+sky: garewa 
+bad: toʼumali-na 
+evil: toʼumali-na 
+rot: daula 
+rotten: daula 
+dirty: baila 
+filthy: baila 
+soiled: baila 
+sharp: mamata-na 
+blunt: gugura	kuwa-na 
+damp: pwasa 
+wet: pwasa 
+right side: atai-na 
+left: gegeumi-na 
+at: ʼena 
+in: gamwanaia 
+inside: gamwanaia 
+and: be	ta 
+if: ʼabo 

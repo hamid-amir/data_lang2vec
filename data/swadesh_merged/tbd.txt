@@ -1,0 +1,470 @@
+all: himiri 
+ankle: φɛrɑ oko 
+arm: upu 
+arrow: hɑisɑ 
+arrow: kɑipɛʔɑ 
+arrow: φɑiɑ 
+ashes: umu 
+back: ɑpɑ 
+bad: φɛhɑrɑ 
+bark: bɛrɑʔɑ | bɛrɑʔɑ	oporo ruru 
+bark: oporo ruru | bɛrɑʔɑ	oporo ruru 
+belly: here | here	hɛrɛ 
+belly: hɛrɛ | here	hɛrɛ 
+big: hiʔibila | hiʔibila	hiʔiβira	βoriβori 
+big: hiʔißira | hiʔibila	hiʔiβira	βoriβori 
+big: hi\ivila | hiʔibila	hiʔiβira	βoriβori 
+big: ßorißori | hiʔibila	hiʔiβira	βoriβori 
+bird: mini 
+bite: nanamu\e | nanamuʔe	nɑnɑmu 
+bite: nanamuʔe | nanamuʔe	nɑnɑmu 
+bite: nɑnɑmu | nanamuʔe	nɑnɑmu 
+black: ɛporɛ | mela epore	ɛporɛ 
+black: mela epore | mela epore	ɛporɛ 
+blood: ißare | ivare	iβare	iβɑrɛ 
+blood: ißɑrɛ | ivare	iβare	iβɑrɛ 
+blood: ivare | ivare	iβare	iβɑrɛ 
+bone: uki 
+boy: mono 
+breast: ame | ame	ɑmɛ 
+breast: ɑmɛ | ame	ɑmɛ 
+brother: ɑhɑrɑ 
+brother: mɑʔo 
+brother: ororɑ 
+burn: aiye\i 
+burn: aiyeʔi iro-araha 
+burn: i͂ʔi͂ 
+burn: iro-araha 
+burn: ɑrɑ 
+butterfly: ßɑʔußɑʔu 
+calf: ɑimumu 
+calf: uʔumɑ 
+child: ɑpɑi 
+child: pɑkɑʔu 
+child: ɑuɑ 
+chin: u 
+claw: faha | inimu	ɸaha 
+claw: inimu | inimu	ɸaha 
+claw: φaha | inimu	ɸaha 
+cloud: mene-uru | mene-uru	mɛnɛ uru	uru 
+cloud: (mɛnɛ) uru | mene-uru	mɛnɛ uru	uru 
+cold: hɑhuʔu | hɑhuʔu	βelaʔakokoa 
+cold: ßelaʔakokoa | hɑhuʔu	βelaʔakokoa 
+cold: vela\akokoa | hɑhuʔu	βelaʔakokoa 
+come: mɑ | ma	mane	mɑ 
+come: mane | ma	mane	mɑ 
+crocodile: ɛnɑpɛ 
+cut: ɛʔɛ 
+cut: ɑhi 
+cut: homɑ 
+cut: hɑßɑ 
+cut: ɑsi(ɑ) 
+daughter: muru 
+day: lafifi 
+day: laiφuru 
+day: laφiφi 
+day: lɑrɛ 
+die: liɑßɛʔi | liavE7i	liɑβɛʔi	maʔa ha 
+die: ma\a ha | liavE7i	liɑβɛʔi	maʔa ha 
+die: maʔa ha | liavE7i	liɑβɛʔi	maʔa ha 
+die: ßɑʔɑ | liavE7i	liɑβɛʔi	maʔa ha 
+dig: ɛ͂ʔɛ͂ 
+dog: ɛßɛrɑ | evera	eβera	ɛβɛrɑ 
+dog: eßera | evera	eβera	ɛβɛrɑ 
+dog: evera | evera	eβera	ɛβɛrɑ 
+drink: haime muake | haime muake	mua	muɑ 
+drink: muɑ | haime muake	mua	muɑ 
+dry: hɑrɑʔo | hɑrɑʔo	naʔora 
+dry: na\ora | hɑrɑʔo	naʔora 
+dry: naʔora | hɑrɑʔo	naʔora 
+ear: oɛ | oE	oɛ	oʔi 
+ear: o\i | oE	oɛ	oʔi 
+ear: oʔi | oE	oɛ	oʔi 
+earth: ßɛɑroßɑɛkɑ | tau auru 
+earth: tau auru 
+eat: muake | muake	nɑ	ɑsɛnɑ 
+eat: nɑ | muake	nɑ	ɑsɛnɑ 
+eat: ɑsɛnɑ | muake	nɑ	ɑsɛnɑ 
+egg: mini numu | mini numu	mumu 
+egg: mumu | mini numu	mumu 
+elbow: upu oko 
+emu: lɑurɑ 
+eye: ere | ere	ini 
+eye: ini | ere	ini 
+fall: huru 
+fall: isi 
+far: ̞ | hɛkɑ 
+far: hɛkɑ 
+father: nɑpɑrɑ 
+fat (n.): melo 
+fat (n.): mɛro 
+fear: hɑuɑ 
+feather: mini onomo | mini onomo	onomo 
+feather: onomo | mini onomo	onomo 
+few: hoi 
+few: pirɑri 
+finger: ɛkɛ 
+finger: fera eke 
+fingernail: inimu 
+finger: norɑ 
+finger: φihi 
+fire: aiye\i | aiE7i	aiyeʔi	ɑiɛʔi 
+fire: aiyeʔi | aiE7i	aiyeʔi	ɑiɛʔi 
+fire: ɑiɛʔi | aiE7i	aiyeʔi	ɑiɛʔi 
+fish: nane | nane	nɑnɛ 
+fish: nɑnɛ | nane	nɑnɛ 
+five: upu okɑʔi 
+fly (n.): ɑrɛpo 
+fly (v.): ßuʔo 
+fly (v.): u\oha 
+fly (v.): uʔoha 
+fog: orohɑßu 
+foot: φɛrɑ | ɸɛrɑ 
+forehead: mɑiɛnɑ 
+forest: ɛpɑ 
+full: fu\iha | fu7iha	ɸuʔiha	ɸuʔihɑ 
+full: φuʔihɑ | fu7iha	ɸuʔiha	ɸuʔihɑ 
+full: φuʔiha | fu7iha	ɸuʔiha	ɸuʔihɑ 
+girl: moru 
+girl: muru 
+give: ini | ini	iniʔe 
+give: ini\e | ini	iniʔe 
+give: iniʔe | ini	iniʔe 
+good: namaivo | namaiya	nɑmɑiɑ 
+good: namaiya | namaiya	nɑmɑiɑ 
+good: nɑmɑiɑ | namaiya	nɑmɑiɑ 
+grass: loro 
+green: mela o\u-o\u | mela oʔu-oʔu	oʔu 
+green: mela oʔu-oʔu | mela oʔu-oʔu	oʔu 
+green: oʔu | mela oʔu-oʔu	oʔu 
+guts: hɛrɛɑnɛ 
+hair: onomo | uʔumo 
+hair: pupurɑ | uʔumo 
+hair: pupura | uʔumo 
+hair: u\umo | uʔumo 
+hair: uʔumo 
+hand: upu 
+hand: upu φɑhɑ 
+head: aro | aro	ɑro 
+head: aropure | aro	ɑro 
+head: ɑro | aro	ɑro 
+hear: moʔɛ | moʔe ha	pauamo7e	pɑuɑmoʔɛ	ukuri 
+hear: mo\e ha | moʔe ha	pauamo7e	pɑuɑmoʔɛ	ukuri 
+hear: moʔe ha | moʔe ha	pauamo7e	pɑuɑmoʔɛ	ukuri 
+hear: pɑuɑmoʔɛ | moʔe ha	pauamo7e	pɑuɑmoʔɛ	ukuri 
+heart: hohire | hohire	hohiri 
+heart: hohiri | hohire	hohiri 
+hear: ukuri | moʔe ha	pauamo7e	pɑuɑmoʔɛ	ukuri 
+heavy: mɛhɑu 
+here: nɛʔɛ 
+he/she: ɛrɑ 
+he/she: ɛrɑro 
+he/she: ɛrɑßɛrɛ 
+hit: ɑmɑ 
+hold: mɑri 
+horn: keya 
+house: ɛ͂ɑ 
+house: kɑu 
+hunt: oʔorɛ 
+husband: ɑnurɛ 
+I: nao | nao	nɑo	nɑro 
+in: luɛ 
+in: mɑ 
+I: nɑo | nao	nɑo	nɑro 
+I: noßɛrɛ | nao	nɑo	nɑro 
+I: nɑro | nao	nɑo	nɑro 
+kill: auha | auha	ɑu 
+kill: ɑu | auha	ɑu 
+knee: fera oko | ɸera oko	ɸɛrɑ oko 
+knee: φera oko | ɸera oko	ɸɛrɑ oko 
+knee: φɛrɑ oko | ɸera oko	ɸɛrɑ oko 
+know: orɛ | ore ha	orɛ 
+know: ore ha | ore ha	orɛ 
+laugh: ɑnɑ 
+leaf: opurore | opurore	ore	orɛ 
+leaf: orɛ | opurore	ore	orɛ 
+left: ɛɑni 
+leg: fera 
+leg: φɛrɑ 
+leg: φera 
+lie: dia 
+lip: anara poe 
+liver: ahena | ahena	ɑhɛnɑ 
+liver: ɑhɛnɑ | ahena	ɑhɛnɑ 
+long: baieße | baieβe	βɛiβɛi 
+long: baieve | baieβe	βɛiβɛi 
+long: ßɛißɛi | baieβe	βɛiβɛi 
+louse: ɑmuri | amuri 
+louse: saruta | amuri 
+man: aru | arauru	arua7u	ɑruɑʔu 
+man: ɑru | arauru	arua7u	ɑruɑʔu 
+many: himiri 
+meat: haißaiʔime 
+meat: haivai\ime 
+meat: urɑrɑ 
+moon: fuiya | ɸuiya	ɸuiɑ 
+moon: φuiɑ | ɸuiya	ɸuiɑ 
+moon: φuiya | ɸuiya	ɸuiɑ 
+morning: ißiʔirɑ 
+mosquito: iφiɑ 
+mother: nɑorɑ 
+mother: noura 
+mountain: uo | uo	uʔo 
+mountain: u\o | uo	uʔo 
+mountain: uʔo | uo	uʔo 
+mouth: anara | anara	ɑnɑrɑ 
+mouth: ɑnɑrɑ | anara	ɑnɑrɑ 
+name: iru | iru	uru 
+name: uru | iru	uru 
+nape: ɛhunɛ 
+near: mɑimɑ 
+neck: pani | pani	pɑni 
+neck: pɑni | pani	pɑni 
+new: o\ela | oera	oɛra	oʔela 
+new: oʔela | oera	oɛra	oʔela 
+new: oɛra | oera	oɛra	oʔela 
+night: hoʔorɑ | ho7ora	hoʔorɑ	laɸiɸi 
+night: lafifi | ho7ora	hoʔorɑ	laɸiɸi 
+night: laφiφi | ho7ora	hoʔorɑ	laɸiɸi 
+night: lɑφiφi | ho7ora	hoʔorɑ	laɸiɸi 
+nose: no\i | noE	noɛ	noʔi 
+not: korɛʔɛɑ | onɛ	oreʔea	orɛ 
+not: onɛ | onɛ	oreʔea	orɛ 
+not: orɛ | onɛ	oreʔea	orɛ 
+not: ore\ea | onɛ	oreʔea	orɛ 
+not: oreʔea | onɛ	oreʔea	orɛ 
+not: ßɑikɑ | onɛ	oreʔea	orɛ 
+old: moɛɑ 
+old: ɑni 
+old: ɑßɑʔißori 
+old: ɑʔußori 
+one: oki | oki	okiao 
+one: okiao | oki	okiao 
+person: arauru | arauru	arua7u	ɑruɑʔu 
+person: aru(aru) | arauru	arua7u	ɑruɑʔu 
+person: ɑruɑʔu | arauru	arua7u	ɑruɑʔu 
+pull: ßɛri 
+pull: φɛrɛɑ 
+push: homɑʔi 
+rain: upɑ | upa	upɑ 
+rain: upa | upa	upɑ 
+rat: haua 
+rat: hɑuɑ 
+red: mela milo | mela milo	βiro 
+red: ßiro | mela milo	βiro 
+right: hɑunɛ | upu 
+ripe: kinɛ 
+river: mai 
+river: ßɑi 
+road: kɛrɛʔɑ | kere7a 
+road: kere\a | kere7a 
+road: kereʔa | kere7a 
+root: mɛnɛ | mɛnɛ	oporo mene 
+root: oporo mene | mɛnɛ	oporo mene 
+rotten: pulula 
+round: lohoru 
+rub: muhu 
+sand: kekene | kekene	ɸae ɸoʔolo	ɸɑɛ 
+sand: φae φoʔolo | kekene	ɸae ɸoʔolo	ɸɑɛ 
+sand: φɑɛ | kekene	ɸae ɸoʔolo	ɸɑɛ 
+say: eme lamu\e | oʔĩ	ɑuʔi 
+say: eme lamuʔe | oʔĩ	ɑuʔi 
+say: ɛßɛrɑ | oʔĩ	ɑuʔi 
+say: oʔi͂ | oʔĩ	ɑuʔi 
+say: ɑuʔi | oʔĩ	ɑuʔi 
+seed: oharo puʔane | oharo puʔane	ɸuɑni 
+seed: ohoro pu\ane | oharo puʔane	ɸuɑni 
+seed: φuɑni | oharo puʔane	ɸuɑni 
+see: ɛrɛɑ | ere amuʔe	erea	ɛrɛɑ 
+see: ere amu\e | ere amuʔe	erea	ɛrɛɑ 
+see: ere amuʔe | ere amuʔe	erea	ɛrɛɑ 
+short: ɑu 
+shoulder: lɑro 
+sister: maʔomuru 
+sister: onɛrɑ 
+sit: hɑʔuhɑßɛʔi | hɑʔuhɑβɛʔi	meʔe	βɛʔi 
+sit: me\e | hɑʔuhɑβɛʔi	meʔe	βɛʔi 
+sit: meʔe | hɑʔuhɑβɛʔi	meʔe	βɛʔi 
+sit: ßɛʔi | hɑʔuhɑβɛʔi	meʔe	βɛʔi 
+skin: bɛrɑʔɑ | bere7a	bɛrɑʔɑ	meraʔa 
+skin: hɑhɛ | bere7a	bɛrɑʔɑ	meraʔa 
+skin: mera\a | bere7a	bɛrɑʔɑ	meraʔa 
+skin: meraʔa | bere7a	bɛrɑʔɑ	meraʔa 
+sky: mɛnɛ 
+sleep: diai enu | diai enu	li 
+sleep: li | diai enu	li 
+small: iʔi | iʔi	pakaʔu	pɑkɑʔu	ɸihi 
+small: pakaʔu | iʔi	pakaʔu	pɑkɑʔu	ɸihi 
+small: paka\u/pa upakau\u | iʔi	pakaʔu	pɑkɑʔu	ɸihi 
+small: pɑkɑʔu | iʔi	pakaʔu	pɑkɑʔu	ɸihi 
+small: φihi | iʔi	pakaʔu	pɑkɑʔu	ɸihi 
+smoke: aive\iuma | aiyeʔi-uma	umɑ 
+smoke: aiyeʔi-uma | aiyeʔi-uma	umɑ 
+smoke: umɑ | aiyeʔi-uma	umɑ 
+snake: mɛmɛrɛ 
+son: mono 
+spit: hɑʔuɛhumo 
+spit: ɑino 
+stand: lɛɑ 
+stand: u\eke 
+stand: uʔeke 
+star: bihuʔu | bihu7u	bihuʔu	mihuhu 
+star: mihuhu | bihu7u	bihuʔu	mihuhu 
+stone: ere | ere	ɛrɛ 
+stone: ɛrɛ | ere	ɛrɛ 
+straight: hɑukɑ 
+straight: noʔɑ 
+sun: lare | lare	lɑrɛ 
+sun: lɑrɛ | lare	lɑrɛ 
+swim: a\aka | aʔaka	lɛou 
+swim: aʔaka | aʔaka	lɛou 
+swim: lɛou | aʔaka	lɛou 
+tail: ororɑ | orora	ororɑ 
+tail: orora | orora	ororɑ 
+take: ɑʔɑ 
+take: oʔɑɛ 
+that: ɛ͂ʔɑ | eʔa	ɛ̃ʔɑ 
+that: e\a | eʔa	ɛ̃ʔɑ 
+that: eʔa | eʔa	ɛ̃ʔɑ 
+that: ßɛhɛʔɑ | eʔa	ɛ̃ʔɑ 
+there: ɛ͂ɑʔɛhɛʔɑ 
+there: ɛhɛ 
+they: ɛrɑhɛ 
+they: ɛrɑhɛßɛrɛ 
+they: ɛrɑhoro 
+they two: a\ura 
+thigh: hɑurɑiɑ 
+think: lɑʔɑ 
+this: nɛʔɛ | neʔea	nɛʔɛ 
+this: ne/ea | neʔea	nɛʔɛ 
+this: neʔea | neʔea	nɛʔɛ 
+thou: aro | ao	aro	ɑo	ɑro 
+thou: ɑo | ao	aro	ɑo	ɑro 
+thou: oßɛrɛ | ao	aro	ɑo	ɑro 
+thou: oφɛ | ao	aro	ɑo	ɑro 
+thou: oφɛßɛrɛ | ao	aro	ɑo	ɑro 
+thou: oφoro | ao	aro	ɑo	ɑro 
+thou: ɑro | ao	aro	ɑo	ɑro 
+three: u͂ʔu͂ka oki 
+throat: pokoʔu 
+throw: ɑri 
+tie: moʔorɛɑ 
+today: ɑikɑʔu 
+tomorrow: paniʔila lare 
+tomorrow: paniíla lare 
+tomorrow: pɑniʔirɑ 
+tongue: anara | anara	maiana	mɑiɑnɑ 
+tongue: mɑiɑnɑ | anara	maiana	mɑiɑnɑ 
+tooth: hu\u | hu7u	huʔu 
+tooth: huʔu | hu7u	huʔu 
+tree: ohɑro | oharo 
+tree: oporo | oharo 
+turn: ɛro 
+two: u͂ʔu͂ka | u7uka	uʔuruŋka	ü’üka	ũʔũka 
+two: u\ungka | u7uka	uʔuruŋka	ü’üka	ũʔũka 
+two: uʔuruŋka | u7uka	uʔuruŋka	ü’üka	ũʔũka 
+unripe: kɑorɑ 
+walk: ɑʔɛ | name mueha	ɑʔɛ 
+walk: name mueha | name mueha	ɑʔɛ 
+walk: naume mueha | name mueha	ɑʔɛ 
+walk: onɑ | name mueha	ɑʔɛ 
+walk: uriri | name mueha	ɑʔɛ 
+wallaby: haßadu 
+wallaby: havadu 
+wallaby: hɑßɑro 
+warm: hɑhɛʔɑ 
+warm: oro\oro | hɑhɛʔɑ 
+warm: oroʔoro | hɑhɛʔɑ 
+water: haime | aime	haime	ɑimɛ 
+water: ɑimɛ | aime	haime	ɑimɛ 
+weep: pɑuɑ 
+we (incl.): aufena 
+we (incl.): auφena nura 
+we (incl.): nura 
+we: nuro | auɸena nura	nu7u 
+we: nußɛrɛ | auɸena nura	nu7u 
+we: nuʔu | auɸena nura	nu7u 
+wet: φɑiʔɑφɑiʔɑ 
+what: enena\i | enenaʔi	ɛnɑʔi	ɛnɛnɑʔi 
+what: enenaʔi | enenaʔi	ɛnɑʔi	ɛnɛnɑʔi 
+what: ɛnɛnɑʔi | enenaʔi	ɛnɑʔi	ɛnɛnɑʔi 
+what: ɛnɑʔi | enenaʔi	ɛnɑʔi	ɛnɛnɑʔi 
+when: ɛnɑhɑʔu 
+where: kɑʔɑ-mɑ 
+white: ɛʔɛro | mela eʔelo	ɛʔɛro 
+white: mela e\elo | mela eʔelo	ɛʔɛro 
+white: mela eʔelo | mela eʔelo	ɛʔɛro 
+who: naiforo | naiɸoro	nɑɛro 
+who: naiφoro | naiɸoro	nɑɛro 
+who: nɑɛro | naiɸoro	nɑɛro 
+wind: bɛʔo 
+wing: ßɑho 
+woman: a\u | aʔu	ɑ̃ʔu 
+woman: aʔu | aʔu	ɑ̃ʔu 
+woman: ɑ͂ʔu | aʔu	ɑ̃ʔu 
+wood: oporo 
+wood: uri 
+year: sioro 
+yellow: mela nano | mela nano	nɑno 
+yellow: nɑno | mela nano	nɑno 
+yes: ɛ0hɛ͂ 
+yesterday: lafi lare 
+yesterday: laφi lare 
+yesterday: lɑφi 
+you two: a\ura 
+every: himiri 
+ash: umu 
+abdomen: here	hɛrɛ 
+bigness: hiʔibila	hiʔiβira	βoriβori 
+large: hiʔibila	hiʔiβira	βoriβori 
+breasts: ame	ɑmɛ 
+nail: inimu	ɸaha 
+talon: inimu	ɸaha 
+come from: ma	mane	mɑ 
+be dead: liavE7i	liɑβɛʔi	maʔa ha 
+dead: liavE7i	liɑβɛʔi	maʔa ha 
+ground: tau auru 
+land: tau auru 
+soil: tau auru 
+fly: uʔoha	βuʔo 
+fly v.: uʔoha	βuʔo 
+left hand: upu 
+1 sg.: nao	nɑo	nɑro 
+be knowledgeable: ore ha	orɛ 
+lie down: dia 
+head louse: amuri 
+male: aru	ɑru 
+much: himiri 
+multiple: himiri 
+several: himiri 
+hill: uo	uʔo 
+title: iru	uru 
+nighttime: ho7ora	hoʔorɑ	laɸiɸi 
+adulterous: oki	okiao 
+single: oki	okiao 
+the: oki	okiao 
+unprincipled: oki	okiao 
+human: arauru	arua7u	ɑruɑʔu 
+human being: arauru	arua7u	ɑruɑʔu 
+rainy weather: upa	upɑ 
+path: kere7a 
+route: kere7a 
+hide: bere7a	bɛrɑʔɑ	meraʔa 
+little: iʔi	pakaʔu	pɑkɑʔu	ɸihi 
+smallness: iʔi	pakaʔu	pɑkɑʔu	ɸihi 
+rock: ere	ɛrɛ 
+2 sg: ao	aro	ɑo	ɑro 
+you: ao	aro	ɑo	ɑro 
+grind: u7uka	uʔuruŋka	ü’üka	ũʔũka 
+go: name mueha	ɑʔɛ 
+hot: hɑhɛʔɑ 
+1 pl. inc.: auɸena nura	nu7u 
+we₁: auɸena nura	nu7u 
+whiteness: mela eʔelo	ɛʔɛro 
+who?: naiɸoro	nɑɛro 
+female: aʔu	ɑ̃ʔu 
+distant: hɛkɑ 
+dull: mɛhɑu 
+serious: mɛhɑu 
+close: mɑimɑ 
+ner: mɑimɑ 

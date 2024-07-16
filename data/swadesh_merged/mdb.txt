@@ -1,0 +1,263 @@
+all: awohemi 
+all: ripu | awohemi 
+arm: bena 
+arm: tu 
+back: foro-ku 
+bad: ubau-ba 
+bark: no\a tama | noʔa tama 
+bark: noʔa tama 
+belly: hiro 
+big: auo | awo 
+big: awo 
+bird: wobogu | wowogo 
+bird: wowogo 
+bite: oruho 
+bitter: gadi-tatoi-i 
+black: wibo wibo 
+black: wibu-wibu | wibo wibo 
+blood: savi 
+blood: sawi | savi 
+bone: holo 
+bone: horo | holo 
+breast: amo 
+brother: dada 
+burn: emadia 
+burn: ketai 
+calf: emo 
+child: mere-kaine 
+claw: gilibali 
+cloud: bubu | tuboro 
+cloud: tuboro 
+cold: u\uto | uʔuto 
+cold: uʔuto 
+come: doguru | o7ulo	oʔulo 
+come: o\ulo | o7ulo	oʔulo 
+come: oʔulo | o7ulo	oʔulo 
+cut: kahie 
+dance: gamaru 
+dark: uba 
+daughter: behere 
+day: hivio 
+die: koirihiai | olisiai 
+die: olisiai 
+dog: umu 
+drink: d-odiu | idio 
+drink: idio 
+dry: kololo 
+ear: hepate 
+ear: hepati | hepate 
+earth: hopu 
+eat: aha 
+eat: koruho | aha 
+egg: i\opu | iʔopu 
+egg: iʔopu 
+eye: idomari | itamali 
+eye: itamali 
+father: abera 
+fat (n.): gabe 
+feather: wowogo paha 
+fire: ela 
+fire: era | ela 
+fish: na 
+fly (v.): amai\ae 
+fly (v.): amaiʔae 
+foot: pata 
+forest: hipu 
+four: netoa-netoa 
+full: tawape\e | tawape7e	tawapeʔe 
+full: tawapeʔe | tawape7e	tawapeʔe 
+give: dowoha 
+give: oha 
+good: bisiaheme 
+good: meha | bisiaheme 
+green: orio | pitama 
+green: pitama 
+hair: epolu | epolu paha 
+hair: epolu paha 
+hair: hogobu | epolu paha 
+hand: to-pata 
+head: epolu 
+head: hepuru | epolu 
+hear: demeriwai | erevidio 
+hear: erevidio 
+heart: beru 
+heart: giopo | beru 
+heavy: miboi 
+hit: aimala 
+hit: boho 
+hit: hopia 
+horn: gilibali 
+house: moto 
+I: mo 
+I: moro 
+kill: d-opia 
+kill: opia 
+knee: popu 
+know: umolo 
+leaf: paha 
+leg: kota 
+lie: ololo 
+lie: utua | ololo 
+lightning: gemimio 
+live: kehiho 
+liver: beru | beu 
+liver: beu 
+long: tuturu 
+louse: nimo 
+man: dubu 
+many: godogodo 
+many: godo-godo | godogodo 
+many: nipu | godogodo 
+meat: nahi\o 
+meat: nahiʔo 
+moon: baʲa | baⁱla 
+moon: baila | baⁱla 
+moon: bala | baⁱla 
+mother: mamaru 
+mountain: akapu opi 
+mouth: maata | magota 
+mouth: magota 
+mouth: magoto | magota 
+name: paena 
+neck: gogodi 
+neck: mau-u | gogodi 
+new: olio 
+new: orio | olio 
+night: adino | duo 
+night: dua | duo 
+night: duo 
+nose: wadi | woədi 
+nose: woïdi | woədi 
+not: biahai | hiahai	puai 
+not: hiahai | hiahai	puai 
+not: puai | hiahai	puai 
+one: nao | na7o	naʔo 
+one: na\o | na7o	naʔo 
+one: naʔo | na7o	naʔo 
+person: dubu 
+rain: wihale 
+rain: wihari | wihale 
+red: wera-wera | werewere 
+red: werewere 
+river: damu 
+road: gabo 
+root: no\a hepi | noʔa hepi 
+root: noʔa hepi 
+round: ka\e\e | kaʔeʔe 
+round: kaʔeʔe 
+sand: wio 
+say: alogo | wio 
+say: darogo | wio 
+sea: goi-u 
+see: deuri | e7auli	eʔauli 
+seed: i\opu | iʔopu 
+seed: iʔopu 
+see: e\auli | e7auli	eʔauli 
+see: eʔauli | e7auli	eʔauli 
+short: kombe 
+shoulder: bena 
+shoulder: kania 
+sing: gama 
+sister: ni-rabu 
+sit: dokioi | omio 
+sit: omio 
+skin: tama 
+sky: hivio 
+sleep: dutua | uwo 
+sleep: uwo 
+small: kaina 
+small: mere-kaima | kaina 
+smell: tamanibo 
+smoke: ela gahoa 
+son: mere 
+stand: dotoi 
+stand: otopo 
+star: pida | pide 
+star: pide 
+stone: akabu | akapu 
+stone: akapu 
+sun: hivio 
+sweet: gadi 
+swim: olu\o | oluʔo 
+swim: oluʔo 
+tail: umu wapo 
+take: demidai 
+that: oilie 
+thigh: wagi 
+this: nolo 
+this: nouri | nolo 
+thou: io 
+thou: lo | io 
+thou: na-roi-i | io 
+three: ketoanao 
+tongue: wototopi | wototorope 
+tongue: wototorope 
+tooth: ibonara | ibonolo 
+tooth: ibonolo 
+tree: nitua-na-u | no7a 
+tree: no\a | no7a 
+tree: noʔa | no7a 
+two: netowa 
+two: netua | netowa 
+walk: ainou | ogu 
+walk: dou | ogu 
+walk: ogu 
+warm: ena ena 
+water: obo 
+we (incl.): nimo 
+we: nemo | nimo 
+we two: nimotoi 
+what: etunae 
+white: kasikasi 
+white: sowia | kasikasi 
+who: otue 
+wind: konobu 
+woman: olobo 
+woman: upi | olobo 
+yellow: gale meretamo 
+every: awohemi 
+abdomen: hiro 
+bigness: awo 
+large: awo 
+breasts: amo 
+come from: o7ulo	oʔulo 
+be dead: olisiai 
+dead: olisiai 
+ground: hopu 
+land: hopu 
+soil: hopu 
+fly: amaiʔae 
+fly v.: amaiʔae 
+1 sg.: mo 
+be knowledgeable: umolo 
+lie down: ololo 
+head louse: nimo 
+male: dubu 
+much: godogodo 
+multiple: godogodo 
+several: godogodo 
+hill: akapu opi 
+title: paena 
+nighttime: duo 
+adulterous: na7o	naʔo 
+single: na7o	naʔo 
+the: na7o	naʔo 
+unprincipled: na7o	naʔo 
+human: dubu 
+human being: dubu 
+rainy weather: wihale 
+path: gabo 
+route: gabo 
+hide: tama 
+little: kaina 
+smallness: kaina 
+rock: akapu 
+2 sg: io 
+you: io 
+grind: netowa 
+go: ogu 
+1 pl. inc.: nimo 
+we₁: nimo 
+whiteness: kasikasi 
+who?: otue 
+female: olobo 

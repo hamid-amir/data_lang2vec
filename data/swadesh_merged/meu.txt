@@ -1,0 +1,334 @@
+all: ibou-nai 
+and: bona | mai 
+animal: manu 
+ashes: kahu | rahurahu 
+back: doru-na 
+bad: dika 
+bark: kopi 
+because: badi-na be 
+belly: boga-na 
+bird: manu 
+bite: kori-a 
+black: korema | koremakorema 
+blood: rara-na 
+blow: hiriri-a | hiriria	toa 
+bone: turia-na 
+breast: rata-na 
+breathe: hahodi | laḡa 
+burn: ara-ia 
+child: natu-na 
+cloud: ori 
+cold: keru | keruma 
+come:  mai 
+correct: maoro 
+count: duahi-a 
+cut: iβa-ia | tara-ia 
+die: mase 
+dig: ɣei-a | ḡei-a 
+dirty: mai miro-na 
+dog: sisia 
+drink: inu-a | inu-a	inu7a	inua 
+dry: kaukau 
+dull: patutu | metau | buru 
+dust: kahu | k|ahu 
+ear: taia-na 
+earth: tano 
+empty: asi ani-na 
+eye: mata-na 
+fall: ʔəla | moru 
+far: daudau 
+father: tama-na 
+fat (n.): diɣara 
+fear: gari 
+few: sisi-na 
+fingernail: kahau-na 
+fire: nəŋam | lahi 
+fish: gʷarume | gwarume	gw~arume 
+five: ima 
+float: hure 
+flow: aru 
+flower: herahera | au bure-na 
+fly (v.): roho 
+fog: ɣinoβa | ninoa	ḡahu 
+foot: ae-na 
+forest: uda 
+four: hani 
+frog: raparapa 
+fruit: au huahua 
+full: honu 
+give: heni-a 
+good: namo 
+grass: rei | kudekude 
+green: Įgirini] | gadokagadoka 
+guts: bogaraurau-na 
+hair: hiu-na | hui 
+hand: ima-na 
+head: kʷara-na | kwara 
+hear: kamonai 
+heart: kudou-na 
+heavy: metau 
+he: ia 
+hit:   kʷadi-a | bota-ia 
+horn: doa-na 
+how: ede-heto ede....toma | edeheto 
+hunt:  labana 
+husband: adaβa-na | adava-na 
+ice: [ais] 
+if: bema | be|ma 
+I: Iau | lau 
+in: lalo-nai 
+kill: ala-ia 
+knee: tui-na 
+know: diba 
+lake: gohu 
+large: bada 
+laugh: kiri 
+leaf: rau 
+left: lauri 
+leg: ae-na 
+lie: he-kure | eno 
+live: mauri 
+liver: ase-na 
+long: lata 
+louse: utu 
+man: tau | tau	taunimanima 
+many: momo 
+meat: hidio-na 
+moon: hua 
+mother: sina-na 
+mountain: ororo 
+mouth: udu-na 
+name: lada 
+narrow: he-kahi | iora 
+near: kahira | kahirakahira 
+neck: aio-na 
+new: matamata 
+night: hanua-boi | hanua|boi 
+nose: udu baubau-na | udu	udu baubau 
+old:   guna 
+one: ta | ta	ta[mona] 
+person: taunimanima | tau	taunimanima 
+play:  gadara 
+pull: veri-a 
+push: dori-a 
+rain: medu 
+red: kakakaka 
+right: idiba | ima 
+river: sinaβai 
+road: dala 
+root: ramu | ramu-na 
+rope: kʷanau | kwanau 
+rotten: bodaɣa | pouka 
+round: kuborukuboru 
+rub: dahu-a 
+salt: damrna | damena 
+sand: miri | raria 
+say: gʷau | gwau	toma | raria 
+sea: daβara | davara 
+seed: uhe 
+sew: turi-a 
+sharp: mataka | gano 
+short: kʷadoɣi | kwadogi 
+sing: ane abi-a 
+sit: helai 
+skin: kopi-na 
+sky: guba 
+sleep: mahuta 
+small: maraɣi | maragi 
+smoke: kʷalahu | kwalahu 
+smooth: manada-manada 
+snake: gaigai 
+some: haida 
+spit: kanudi 
+split: ha-parara-ia | pola-ia 
+stab: gʷada-ia | gwadaia 
+stand: gini 
+star: hisiu 
+stick:  itotohi | rigi 
+straight: maoromaoro 
+suck: topo-a 
+sun: dina 
+tail: iu-na 
+they: idia 
+thick: uduna 
+think: lalo-a 
+thin: seβera | severasevera 
+thou: oi 
+thou: umui | oi 
+three: toi 
+throw: taho-a 
+tie: ɣui-a | mata-ia 
+tongue: mala-na 
+tree: au 
+turn: ombui 
+two: rua 
+vomit: mumuta 
+warm: siahu 
+wet: paripari 
+what: dahaka | daha|ka 
+when: ede-na-nega-i | edananegai 
+which: ede-na 
+white: kurokuro | kuro[kuro] 
+who: daika | dai|ka 
+why: badi-na dahaka 
+wide: lababa 
+wife: adaβa-na | adava-na 
+wind: lai | lahara	lai	laurabada 
+wing: hani-na 
+woman: hahine 
+worm: biluga 
+wrong: kerere 
+year: laɣani | laḡani 
+yellow: laboralabora 
+all: ibou- 
+every: ibou- 
+ash: rahurahu 
+abdomen: boga 
+belly: boga 
+big: bada 
+bigness: bada 
+blood: rara 
+bone: turia 
+breast: rata 
+breasts: rata 
+burn tr.: ara-ia 
+come: mai 
+come from: mai 
+be dead: mase 
+dead: mase 
+ear: taia 
+eat: ani-a 
+egg: gatoi 
+eye: mata 
+feather: hui 
+fly: roho 
+fly v.: roho 
+hand: ima 
+left hand: ima 
+horn: doa 
+1 sg.: lau 
+knee: tui 
+be knowledgeable: diba 
+lie down: eno 
+liver: ase 
+head louse: utu 
+male: marurane 
+hill: ororo 
+mouth: udu 
+title: lada 
+neck: aio 
+nighttime: hanua|boi 
+adulterous: ta	ta[mona] 
+single: ta	ta[mona] 
+that: ena	una 
+the: ta	ta[mona] 
+unprincipled: ta	ta[mona] 
+human: tau	taunimanima 
+human being: tau	taunimanima 
+rainy weather: medu 
+path: dala 
+route: dala 
+see: ita-ia	ita7ia	itaia 
+hide: kopi 
+skin: kopi 
+little: maragi 
+smallness: maragi 
+rock: nadi 
+stone: nadi 
+swim: nahu 
+tail: iu 
+this: ina 
+2 sg: oi 
+you: oi 
+tongue: mala 
+tooth: ise 
+grind: rua 
+go: raka 
+walk: raka 
+hot: siahu 
+water: ranu 
+1 pl. inc.: ai	ita 
+we: ai	ita 
+we₁: ai	ita 
+whiteness: kuro[kuro] 
+who?: dai|ka 
+female: hahine 
+distant: daudau 
+serious: metau 
+close: kahirakahira 
+ner: kahirakahira 
+earthworm: biluga 
+2 pl.: umui 
+ye: umui 
+you all: umui 
+3 pl.: idia 
+where: edesini 
+where?: edesini 
+when?: edananegai 
+how?: edeheto 
+other: idau 
+broad: lababa 
+wideness: lababa 
+fat: diḡara 
+principal wife: adava-na 
+his mother: sina-na 
+my mother: sina-na 
+his father: tama-na 
+my father: tama-na 
+woods: uda 
+branch: rigi 
+cord: kwanau 
+flesh: hidio 
+meat: hidio 
+grease: diḡara 
+wing: hani 
+gut: bogarau 
+guts: bogarau 
+insides: bogarau 
+intestine: bogarau 
+intestines: bogarau 
+back: doru 
+breath: laḡa 
+laughter: kiri 
+cogitate: lalo-a 
+reflect: lalo-a 
+smell: bona-ia 
+sniff: bona-ia 
+afraid: gari 
+be afraid: gari 
+fright: gari 
+alive: mauri 
+be alive: mauri 
+life: mauri 
+living: mauri 
+hunt: labana 
+beat: bota-ia 
+strike: bota-ia 
+hack: tara-ia 
+cut open: pola-ia 
+pierce: gwadaia 
+scratch: ḡaḡaro-a 
+drop: moru 
+grasp: kahu-a 
+hold: kahu-a 
+hold in arm: kahu-a 
+squeeze: gigi-a 
+wring: gigi-a 
+bind: mata-ia 
+fasten: mata-ia 
+tie up: mata-ia 
+sew: turi 
+enumerate: duahi-a 
+number: duahi-a 
+tally: duahi-a 
+ocean: davara 
+evil: dika 
+rot: pouka 
+dirty: miro 
+filthy: miro 
+soiled: miro 
+blunt: buru 
+damp: paripari 
+right side: idiba 
+at: ai 
+inside: lalo-nai 

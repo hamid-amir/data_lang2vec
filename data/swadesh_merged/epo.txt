@@ -1,0 +1,346 @@
+all: chio | tuta	tuto	ĉio	ĉiom	ĉiu	ĉiuj 
+and: kaj 
+animal: animalo | animalo	besto 
+ashes: cindro 
+at: che | ĉe 
+back: dorso 
+bad: malbona | aĉa	fia	malbona	malvirta 
+bark: shelo | arboŝelo	arbŝelo	ŝelo 
+because: char | ĉar 
+belly: ventro | abdomeno	ventro 
+big: granda 
+bird: birdo 
+bite: mordi 
+black: nigra 
+blood: sango 
+blow: blovi | blovi	venti 
+bone: osto 
+breast: brusto | brusto	mamo	mamoj 
+breast: mamo | brusto	mamo	mamoj 
+breathe: spiri 
+burn: bruli | bruligi 
+child: infano 
+cloud: nubo 
+cold: malvarma 
+come: veni 
+correct: ghusta | ĝusta 
+count: nombri | kalkuli	kiomo	nombri	nombro 
+cut: tranchi | haki	tondi 
+day: tago 
+die: morti 
+dig: fosi 
+dirty: malpura 
+dog: hundo 
+drink: trinki 
+dry: seka | seka	sekiĝi 
+dull: malakra | peza 
+dust: polvo 
+ear: orelo 
+earth: tero 
+eat: manghi | manĝi 
+egg: ovo 
+eye: okulo 
+fall: fali 
+far: for | for	malapud	malproksima	malproksime 
+father: patro 
+fat (n.): graso 
+fear: timi 
+feather: plumo 
+few: malmultaj 
+fight: batali 
+fingernail: ungo | ungego	ungo 
+fire: fajro 
+fish: fisho | fiSo	fiŝo 
+five: kvin 
+float: flosi 
+flower: floro 
+flow: flui 
+fly (v.): flugi 
+fog: nebulo 
+foot: piedo | kruro	piedo 
+forest: arbaro 
+four: kvar 
+freeze: glaciigi | frostigi	frostiĝi 
+fruit: frukto 
+full: plena 
+give: doni 
+good: bona 
+grass: herbo 
+green: verda 
+guts: intesto | intestaro 
+hair: hararo | hararo	haro 
+hair: haro | hararo	haro 
+hand: mano | brako	mano 
+head: kapo 
+hear: audi | aŭdi 
+heart: koro 
+heavy: peza 
+he: li 
+here: chi-tie | ĉi tie 
+hit: bati 
+hold: teni 
+horn: korno 
+how: kiel 
+hunt: chasi | ĉasi 
+husband: edzo 
+ice: glacio 
+if: se 
+I: mi 
+in: en | en	interne 
+kill: mortigi 
+knee: genuo 
+know: koni | scii 
+know: scii 
+lake: lago 
+laugh: ridi 
+leaf: folio 
+left: maldekstra 
+leg: gambo | kruro 
+lie: kushi | kuŝi 
+liver: hepato 
+live: vivi 
+long: longa 
+louse: homlauso | lawso	pediko 
+louse: pediko | lawso	pediko 
+man: viro | homo	persono 
+many: multaj | multa	multaj	plura	pluraj 
+meat: viando | karno	viando 
+moon: luno 
+mother: patrino 
+mountain: monto 
+mouth: busho | buŝo 
+name: nomo | nomo	titolo 
+narrow: mallargha | mallarĝa 
+near: proksime | apud	proksima	proksime 
+neck: kolo 
+new: nova 
+night: nokto 
+nose: nazo 
+not: ne 
+old: maljuna | malnova 
+one: unu 
+other: alia | alia	kroma 
+person: homo | homo	persono 
+play: ludi | amuzludi	ludi	sportludi 
+pull: tiri 
+push: pushi | puŝi 
+rain: pluvi | pluvo 
+red: rugha | ruĝa 
+right: dekstra | mano 
+river: rivero 
+road: vojo | pado	strato	vojo 
+root: radiko 
+rope: shnuro | ŝnuro 
+rotten: putra 
+round: ronda 
+rub: froti 
+salt: salo 
+sand: sablo 
+say: diri | sablo 
+scratch: grati 
+sea: maro 
+seed: semo 
+see: vidi 
+sew: kudri 
+sharp: akra 
+short: mallonga | malalta	mallonga 
+sing: kanti 
+sit: sidi 
+skin: hauto | hauto	haŭto 
+sky: chielo | ĉielo 
+sleep: dormi 
+small: malgranda | eta	malgranda 
+smell: flari 
+smoke: fumo 
+smooth: glata 
+snake: serpento 
+snow: negho | neĝo 
+some: iom | kelkaj 
+spit: krachi | kraĉi 
+split: fendi | dividi	fendi 
+squeeze: premi | elpremi	kunpremi	premi 
+stand: stari 
+star: stelo 
+stick: bastono | bastono	branĉo 
+stone: shtono | Stono	ŝtono 
+straight: rekta 
+suck: suchi | suĉi 
+sun: suno 
+swell: shveli | ŝveli	ŝveliĝi 
+swim: naghi | naĝi 
+tail: vosto 
+that: tiu | tio	tiu | unu 
+there: tie 
+they: ili 
+thick: dika 
+think: pensi 
+thin: maldika | maldika	mallarĝa 
+this: chi-tiu | jena	tiu ĉi	ĉi tio	ĉi tiu	ĉi-tiu 
+this: tiu chi | jena	tiu ĉi	ĉi tio	ĉi tiu	ĉi-tiu 
+thou: ci | ci	vi 
+three: tri 
+throw: lanchi | ĵeti 
+tie: ligi | bindi	ligi	nodi 
+tongue: lango 
+tooth: dento 
+tree: arbo 
+turn: turni 
+two: du 
+vomit: vomi 
+walk: piediri | marŝi 
+warm: varma 
+wash: lavi 
+water: akvo 
+we: ni 
+wet: malseka 
+what: kio 
+when: kiam 
+where: kie 
+white: blanka 
+who: kiu 
+wide: largha | larĝa 
+wife: edzino 
+wind: vento 
+wing: flugilo 
+wipe: vishi | viŝi 
+with: kun 
+woman: virino 
+worm: vermo 
+year: jaro 
+yellow: flava 
+you: vi | ci	vi 
+every: tuta	tuto	ĉio	ĉiom	ĉiu	ĉiuj 
+ash: cindro 
+abdomen: abdomeno	ventro 
+bigness: granda 
+large: granda 
+breasts: brusto	mamo	mamoj 
+burn tr.: bruligi 
+claw: ungego 
+nail: ungego 
+talon: ungego 
+come from: veni 
+be dead: morti 
+dead: morti 
+ground: tero 
+land: tero 
+soil: tero 
+fat: graso	oleo 
+fat n.: graso	oleo 
+grease: graso	oleo 
+lubricant: graso	oleo 
+oil: graso	oleo 
+fly: flugi 
+fly v.: flugi 
+left hand: mano 
+1 sg.: mi 
+be knowledgeable: scii 
+lie down: kuŝi 
+head louse: lawso	pediko 
+male: viro 
+much: multa	multaj	plura	pluraj 
+multiple: multa	multaj	plura	pluraj 
+several: multa	multaj	plura	pluraj 
+flesh: karno	viando 
+hill: monto 
+title: nomo	titolo 
+nighttime: nokto 
+adulterous: unu 
+single: unu 
+the: unu 
+unprincipled: unu 
+human: homo	persono 
+human being: homo	persono 
+rainy weather: pluvo 
+path: pado	strato	vojo 
+route: pado	strato	vojo 
+hide: hauto	haŭto 
+little: eta	malgranda 
+smallness: eta	malgranda 
+rock: Stono	ŝtono 
+2 sg: ci	vi 
+grind: du 
+go: marŝi 
+hot: varma 
+1 pl. inc.: ni 
+we₁: ni 
+whiteness: blanka 
+who?: kiu 
+female: virino 
+distant: for	malapud	malproksima	malproksime 
+serious: peza 
+close: apud	proksima	proksime 
+ner: apud	proksima	proksime 
+earthworm: vermo 
+3 sg.: li 
+she: li 
+2 pl.: vi 
+ye: vi 
+you all: vi 
+3 pl.: ili 
+where?: kie 
+when?: kiam 
+how?: kiel 
+broad: larĝa 
+wideness: larĝa 
+principal wife: edzino 
+his mother: patrino 
+my mother: patrino 
+his father: patro 
+my father: patro 
+woods: arbaro 
+branch: bastono	branĉo 
+cord: ŝnuro 
+arm: brako	mano 
+gut: intestaro 
+insides: intestaro 
+intestine: intestaro 
+intestines: intestaro 
+breath: spiri 
+laughter: ridi 
+cogitate: pensi 
+reflect: pensi 
+sniff: flari 
+afraid: timi 
+be afraid: timi 
+fright: timi 
+alive: vivi 
+be alive: vivi 
+life: vivi 
+living: vivi 
+beat: bati 
+strike: bati 
+hack: haki	tondi 
+cut open: dividi	fendi 
+pierce: mortpiki	piki 
+stab: mortpiki	piki 
+tell lies: kuŝi 
+turn around: turni 
+turn round: turni 
+drop: fali 
+grasp: teni 
+hold in arm: teni 
+wring: elpremi	kunpremi	premi 
+wash clothes: lavi 
+shove: puŝi 
+bind: bindi	ligi	nodi 
+fasten: bindi	ligi	nodi 
+tie up: bindi	ligi	nodi 
+enumerate: kalkuli	kiomo	nombri	nombro 
+number: kalkuli	kiomo	nombri	nombro 
+tally: kalkuli	kiomo	nombri	nombro 
+have fun: amuzludi	ludi	sportludi 
+brook: rivero 
+stream: rivero 
+ocean: maro 
+blaze: bruli 
+daylight: tago 
+daytime: tago 
+evil: aĉa	fia	malbona	malvirta 
+rot: putra 
+filthy: malpura 
+soiled: malpura 
+blunt: malakra 
+damp: malseka 
+right side: dekstra 
+inside: en	interne 

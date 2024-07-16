@@ -1,0 +1,143 @@
+all: noCi 
+every: noCi 
+ash: LakoneS 
+ashes: LakoneS 
+bark: yewayu 
+abdomen: xte 
+belly: xte 
+big: bieyi 
+bigness: bieyi 
+large: bieyi 
+bird: tutu 
+bite: Lakecoma	kikecoma 
+black: Liltik 
+blood: yes 
+bone: mimi 
+breast: Silak 
+breasts: Silak 
+claw: ste 
+nail: ste 
+talon: ste 
+cloud: meS 
+cold: ictik 
+come: ibic	w3la 
+come from: ibic	w3la 
+be dead: miki 
+dead: miki 
+die: miki 
+dog: CiCitu 
+drink: koni 
+dry: waxki 
+ear: nakas 
+earth: L3l	L3ltikpak 
+ground: L3l	L3ltikpak 
+land: L3l	L3ltikpak 
+soil: L3l	L3ltikpak 
+eat: Lakw~a	kikw~a 
+egg: tutol 
+eye: Stelolo 
+fire: Lecin 
+fish: miC 
+fly: patl3ni 
+fly v.: patl3ni 
+foot: kxi 
+full: tientika 
+give: maka	tiemaka 
+good: %bieno	kw~ali 
+green: SoSoktik 
+hair: co	toxme 
+hand: m3 
+left hand: m3 
+right: m3 
+head: conteko 
+hear: kaki 
+heart: yulox 
+1 sg.: naxa 
+I: naxa 
+kill: LaLotia	miktia 
+knee: Lankw~ate 
+be knowledgeable: mati 
+know: mati 
+leaf: Sib 
+lie: tietieka	tlaxkali 
+lie down: tietieka	tlaxkali 
+long: beyak 
+head louse: atim 
+louse: atim 
+male: %umbre	L3ka 
+man: L3ka	sowa 
+many: ara	meyak 
+much: ara	meyak 
+multiple: ara	meyak 
+several: ara	meyak 
+flesh: naka 
+meat: naka 
+moon: miec 
+hill: tepie 
+mountain: tepie 
+mouth: kamak 
+name: %numbre 
+title: %numbre 
+neck: keCkoCLa 
+new: yankw~ik 
+night: yeyowak	yowal 
+nighttime: yeyowak	yowal 
+nose: yekacol 
+not: amo 
+adulterous: sen	sie 
+one: sen	sie 
+single: sen	sie 
+that: inu nieka	niekaxu 
+the: sen	sie 
+unprincipled: sen	sie 
+human: L3ka	sowa 
+human being: L3ka	sowa 
+person: L3ka	sowa 
+rain: kiyab 
+rainy weather: kiyab 
+red: CiCiltik 
+path: ox	oxpicak 
+road: ox	oxpicak 
+route: ox	oxpicak 
+root: newa 
+round: malakaCtik	yewaltik 
+say: ixtoa 
+seed: SinoC 
+sit: L3lia 
+hide: kw~iLaS 
+skin: kw~iLaS 
+sleep: koCitia 
+little: cicikici 
+small: cicikici 
+smallness: cicikici 
+smoke: puk 
+stand: keca 
+star: sLal 
+rock: tietetu 
+stone: tietetu 
+sun: tunal 
+swim: m3bil3na 
+tail: kw~iLapil 
+this: ini	n3nka 
+2 sg: taxa	texuaci 
+thou: taxa	texuaci 
+you: taxa	texuaci 
+tongue: nenenpil 
+tooth: LankoC 
+tree: kw~ab 
+grind: ume	un 
+two: ume	un 
+go: moxfitia	nexnemi 
+walk: moxfitia	nexnemi 
+water: 3cin 
+1 pl. inc.: texua	texuante 
+we: texua	texuante 
+we₁: texua	texuante 
+what: Lininu	neli 
+white: Cip3wak	ist3k 
+whiteness: Cip3wak	ist3k 
+who: 3ki	3kinu 
+who?: 3ki	3kinu 
+female: sowa 
+woman: sowa 
+yellow: iSkostik 

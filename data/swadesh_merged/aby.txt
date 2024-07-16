@@ -1,0 +1,215 @@
+arm: vana 
+arm: wana 
+bird: ada 
+dog: oa | kʰua	oa	owa 
+dog: owa | kʰua	oa	owa 
+ear: ome | ome	ɔmɛ 
+eye: naisa 
+eye: niaba | naisa 
+face: ibo 
+face: iboi-naisa 
+face: niaba 
+father: babai 
+fire: ina | ina	inaʔa 
+fire: yo\u | ina	inaʔa 
+fish: dokebune | dokubune	tokubune	yɔkʰaʔi 
+fish: dokubune | dokubune	tokubune	yɔkʰaʔi 
+fish: tokubune | dokubune	tokubune	yɔkʰaʔi 
+five: adaudo 
+five: enimui 
+five: moiena 
+foot: buri-papa | buri-papa	doboro	umu 
+foot: doboro | buri-papa	doboro	umu 
+foot: fafa | buri-papa	doboro	umu 
+four: buba-dai 
+four: nanaudo 
+four: unari 
+hand: eni | fapa	vana	wana 
+hand: fapa | fapa	vana	wana 
+hand: vana | fapa	vana	wana 
+he/she: dava 
+he/she: davanu 
+he/she: dava(-nu) 
+he/she: na 
+he/she: -na 
+house: mari 
+house: uwala 
+I: -gu | na 
+I: na 
+I: nanu 
+I: N-gu | na 
+leg: buli 
+leg: buri 
+leg: doboro 
+man: badoa | imi 
+man: badoa (?) | imi 
+man: eme | imi 
+man: eme-aka | imi 
+man: eme-ake | imi 
+moon: manabe | manabe	manabi	manabɛ 
+moon: manabi | manabe	manabi	manabɛ 
+mother: amai 
+mother: amai\i 
+one: demui | demui	demuki	tamutai 
+one: tamutai | demui	demuki	tamutai 
+one: waišo | demui	demuki	tamutai 
+rain: obi | obi	ɔbi 
+river: io-oa 
+road: adipu 
+road: da\aba 
+stone: oma | oma	ɔma 
+sun: eveaka | eveaka	eweka	ɛwɛkʰa 
+sun: eweka | eveaka	eweka	ɛwɛkʰa 
+sun: weaka | eveaka	eweka	ɛwɛkʰa 
+they: emenu 
+they: emua 
+they: N-veri 
+they two: em-ua 
+they: -veri 
+thou: a 
+thou: anu 
+thou: -bo 
+thou: ia 
+thou: ianu 
+thou: -mu 
+thou: N-mu 
+three: buba 
+three: iai-iai 
+three: muraudo 
+tooth: nio | niɔ	niʼo	niʼu 
+tooth: ni\o | niɔ	niʼo	niʼu 
+tooth: ni\u | niɔ	niʼo	niʼu 
+two: lal | lal	lara	raʔarayai 
+two: lara | lal	lara	raʔarayai 
+two: yaine | lal	lara	raʔarayai 
+water: iowa | adua	iowa 
+water: ya\a | adua	iowa 
+we: ianu | abeha 
+we (incl.): abeha 
+we (incl.): ianu 
+we (incl.): -na 
+we: N-na | abeha 
+we two (excl.): ua 
+we two (incl.): vaine-ua 
+we two: ua 
+woman: aveka | aveka	aweka	awɛkʰa 
+woman: aweka | aveka	aweka	awɛkʰa 
+you: ia 
+you: ianu 
+you: N-bo 
+you two: iavane 
+you two: ia-vane 
+all: yaisina 
+every: yaisina 
+ash: ukha 
+ashes: ukha 
+bark: ana ɔɸɛ	ɔɸɛ 
+abdomen: bɔana 
+belly: bɔana 
+big: daʔiwɛrɛ 
+bigness: daʔiwɛrɛ 
+large: daʔiwɛrɛ 
+bite: akʰinu 
+black: duba 
+blood: iβa 
+bone: kai 
+breast: ama 
+breasts: ama 
+claw: raraga 
+nail: raraga 
+talon: raraga 
+cloud: ɔu 
+cold: iu 
+come: aʔarakʰu 
+come from: aʔarakʰu 
+be dead: fɛari 
+dead: fɛari 
+die: fɛari 
+drink: isaku 
+dry: alili 
+eat: isakʰu 
+egg: urimi 
+feather: idi 
+fly: wawanaka 
+fly v.: wawanaka 
+full: wakʰɛ ɸarinu 
+give: makʰinu 
+good: irau 
+hair: bokai idi	idi 
+left hand: fapa	vana	wana 
+right: fapa	vana	wana 
+head: bokai 
+hear: nauxaxu 
+heart: imukʰa 
+horn: yabɛra 
+1 sg.: na 
+kill: uraʔaxu 
+knee: iɸɔ 
+be knowledgeable: iwɔkʰa 
+know: iwɔkʰa 
+leaf: kʰakʰa 
+liver: kʰɔkʰɔ 
+long: yaɸawɛrɛ 
+male: eme	eme-aka	ɛmɛ 
+many: kʰɛuwere 
+much: kʰɛuwere 
+multiple: kʰɛuwere 
+several: kʰɛuwere 
+hill: ɔraʔara 
+mountain: ɔraʔara 
+mouth: wakʰɛ 
+name: ibi 
+title: ibi 
+neck: ubiri 
+new: awɔɛna 
+night: dumu 
+nighttime: dumu 
+nose: ibɔ 
+not: mɛ 
+adulterous: demui	demuki	tamutai 
+single: demui	demuki	tamutai 
+that: yɛxa 
+the: demui	demuki	tamutai 
+unprincipled: demui	demuki	tamutai 
+human: imi 
+human being: imi 
+person: imi 
+rainy weather: obi	ɔbi 
+red: kɔkɔi 
+root: iʔini 
+round: bouʔuda 
+sand: gibudi 
+say: βɛaku 
+see: ɛʔɛrakʰu 
+seed: yɔ 
+sit: yaurinu 
+hide: ɔɸɛ 
+skin: ɔɸɛ 
+sleep: ainibinu 
+little: ɔxɔanaxu 
+small: ɔxɔanaxu 
+smallness: ɔxɔanaxu 
+smoke: irɔ 
+star: muina 
+rock: oma	ɔma 
+swim: iyataku 
+tail: kɔrɔma 
+this: iɛβa 
+tongue: mɛana 
+grind: lal	lara	raʔarayai 
+go: anaku 
+walk: anaku 
+1 pl. inc.: abeha 
+we₁: abeha 
+what: anɛmɛ 
+white: inana 
+whiteness: inana 
+who: aina 
+who?: aina 
+female: aveka	aweka	awɛkʰa 
+yellow: bɔra 
+dull: unumu 
+heavy: unumu 
+serious: unumu 
+snake: waru 
+wind: ɔyau 

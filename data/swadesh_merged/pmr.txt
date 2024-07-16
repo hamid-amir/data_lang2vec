@@ -1,0 +1,423 @@
+all: gawarum 
+arm: brëm 
+arm: brʌm 
+arrow: nɨm 
+ashes: ipʉn 
+ashes: ipün | ipʉn 
+back: mande 
+back: mandɛ 
+bad: krïs 
+bad: krɨs 
+belly: amunʌ | amunaβsa 
+belly: amunaßsa | amunaβsa 
+belly: amunavsa | amunaβsa 
+belly: amunë | amunaβsa 
+big: arumandie | arumandiɛ 
+big: arumandiɛ 
+bird: guënbï | guʌnbɨ 
+bird: guʌnbɨ 
+bite: ʉgia- 
+bite: ügia- | ʉgia- 
+black: ginggi | giŋgi	itrr 
+black: giŋgi | giŋgi	itrr 
+black: itr | giŋgi	itrr 
+black: itrr | giŋgi	itrr 
+blood: amus 
+blow: ʉgra- 
+blow: ügra- 
+blow: wuwara- 
+blow: wuwasa- 
+bone: gri 
+boy: urum kimbinde 
+boy: urum kimbindɛ 
+breast: gïmbe | g3mb~E	gɨmbɛ 
+breast: gɨmbɛ | g3mb~E	gɨmbɛ 
+brother: namang 
+brother: namaŋ 
+brother: -nʉmp 
+brother: -nümp 
+brother: -ranʉmp 
+brother: -ranümp 
+brother: tasaŋ 
+brother: tësang 
+burn: ʉɣra- 
+burn: üghra- 
+butterfly: guanump 
+calf: tɨbɨ 
+calf: tïbï 
+cassowary: nïminda 
+chest: apangga 
+chest: apaŋga 
+child: igrɨ 
+child: igrï 
+chin: wayakatar 
+cloud: gaka 
+cold: gumrir- 
+come: ai(g)- | ai-	aig	aig- 
+crocodile: mʌburʌ 
+crocodile: mëburë 
+cut: aßuɣa- 
+cut: avugha- 
+dance: kairwu- 
+day: mira 
+day: murisi 
+die: gum- | gum	gum- 
+dig: aɲiŋga- 
+dig: aniggura- 
+dig: aningga- 
+dig: añingga- 
+dig: aniŋga- 
+dig: aniŋgura- 
+dig: ipmu- 
+dirty: tɨbɛtɨb 
+dirty: tïbetïb 
+dog: pri 
+dry: manët | manʌt 
+dry: manʌt 
+ear: kuß | kub	kuβ 
+ear: kuv | kub	kuβ 
+earth: manga | maŋa 
+earth: maŋa 
+eat: ɲa- 
+eat: ña- | ɲa- 
+eat: niamirasuw- | ɲa- 
+egg: muku 
+elbow: gupi 
+emu: nɨminda 
+excrement: gëkë 
+eye: amïnggamïñu | am3Ngam35u	amɨŋgamɨɲu 
+eye: amɨŋgamɨɲu | am3Ngam35u	amɨŋgamɨɲu 
+fall: avugha- 
+fall: awu- 
+far: urarum 
+father: awang 
+father: awaŋ 
+father: -wanʉmp 
+father: -wanümp 
+fat (n.): inëm 
+fat (n.): inʌm 
+fear: ngirïpma- 
+fear: ŋirɨpma- 
+few: mukuknakande 
+few: mukuknakandɛ 
+fight: (amb) iwa- 
+finger: arumande 
+finger: arumandɛ 
+fingernail: wusa 
+fire: tëte | t3tE	tʌtɛ 
+fire: tʌtɛ | t3tE	tʌtɛ 
+fish: ŋamʌn | N3m3n	ŋamʌn 
+fish: ngëmën | N3m3n	ŋamʌn 
+fly (n.): tïmumbu 
+fly (n.): tɨmumbu 
+fly (v.): puge- 
+fly (v.): pugɛ- 
+fog: inggïm 
+fog: iŋgɨm 
+forest: ueʌ 
+forest: ueë 
+fruit: muñu 
+fruit: muɲu 
+full: atram- | atram	atram- 
+full: isi- | atram	atram- 
+girl: nëndi kimbinde 
+girl: nʌndi kimbindɛ 
+give: inggu- | iŋgu- 
+give: iŋgu- 
+good: imbʉndɛ 
+good: imbünde | imbʉndɛ 
+grass: igim 
+green: yingg | yiŋg 
+green: yiŋg 
+guts: amunʌ 
+guts: amunë 
+hair: tïmbi | tɨmbi 
+hair: tɨmbi 
+head: mëp | mʌp 
+head: mimi | mʌp 
+head: mʌp 
+hear: mungatama- | muNatama	muŋatama- 
+hear: muŋatama- | muNatama	muŋatama- 
+heart: tïmangg | tɨmaŋg 
+heart: tɨmaŋg 
+heavy: gumri- 
+here: igënt 
+here: inʉmba 
+here: inümba 
+here: yamët 
+he/she: mba- 
+he/she: mba-nak 
+he/she: mba-wan 
+he/she: nʉ- 
+he/she: nü- 
+he/she: tʉni- 
+he/she: tüni- 
+hit: (amb) iwa- 
+hold: munga- 
+hold: muŋa- 
+house: pɨ 
+house: pï 
+how: bañas 
+in: ugumur 
+I: sa- | sa	sa-wan 
+I: sa-wan | sa	sa-wan 
+I: ya- | sa	sa-wan 
+I: ya-k | sa	sa-wan 
+kill: iwa sʉgu- 
+kill: iwa sügu- | iwa sʉgu- 
+knee: upi 
+laugh: anirum- 
+left: wakëy 
+left: wakʌy 
+leg: andëm 
+leg: andʌm 
+lightning: nakiak- 
+liver: mungguër | muNgu3r	muŋguʌr 
+liver: muŋguʌr | muNgu3r	muŋguʌr 
+long: wutibʉra 
+long: wutibüra | wutibʉra 
+louse: mangg | maNg 
+louse: maŋg | maNg 
+man: animu | animu	urum 
+man: muka | animu	urum 
+man: urum | animu	urum 
+many: gaßarum | gaβarum 
+many: gavarum | gaβarum 
+meat: tɨb 
+meat: tïb 
+moon: manggramïn | maŋgramɨn 
+moon: maŋgramɨn 
+morning: bamda 
+morning: mabda 
+morning: ngomkint 
+morning: ŋomkint 
+mosquito: bisïng 
+mother: amïng 
+mother: amɨŋ 
+mother: -mʉnʉmp 
+mother: -münümp 
+mountain: apër | ap3r	apʌr 
+mountain: apʌr | ap3r	apʌr 
+mouth: mukɨbʷa | mukɨbᵘsa 
+mouth: mukïbusa | mukɨbᵘsa 
+name: andëwi | and~3wi	andʌwi 
+name: andʌwi | and~3wi	andʌwi 
+nape: inggu 
+nape: iŋgu 
+navel: añïp 
+navel: aɲɨp 
+near: yambrand 
+neck: gamangg | gamaŋg 
+neck: gamaŋg 
+new: iëm | i3m	iʌm 
+new: iʌm | i3m	iʌm 
+night: ʉß ußu | ubu	ʉβ uβu 
+night: uvu | ubu	ʉβ uβu 
+nose: manza 
+not: manët 
+not: manʌt 
+old: klis 
+old: waind 
+one: wayatëk | wayat3k	wayatʌk 
+one: wayatʌk | wayat3k	wayatʌk 
+pull: tri- 
+pull: trri- 
+push: mundupar- 
+rat: sanga 
+rat: saŋa 
+red: amus 
+right: gandɨ 
+right: gandï 
+ripe: ubega 
+ripe: ubɛga 
+road: gïndambra | g3nd~amb~ra 
+road: gɨndambra | g3nd~amb~ra 
+root: rindïm | rindɨm 
+root: rindɨm 
+rope: mɨŋganda 
+salt: tïm | tɨm 
+salt: tɨm 
+sand: gës | gʌs 
+sand: gʌs 
+sand: lumba | gʌs 
+say: anaku- | ŋara 
+say: anuku- | ŋara 
+say: ngara- | ŋara 
+say: ŋara 
+scratch: angguw- 
+scratch: aŋguw- 
+sea: tïmiamba 
+sea: tɨmiamba 
+see: rʉku- | r3ku	rʉku- 
+see: ruku- | r3ku	rʉku- 
+see: rüku- | r3ku	rʉku- 
+sharp: abugas- 
+sharp: angguwa 
+sharp: mai 
+short: rumbatëk | rumbatʌk 
+short: rumbatʌk 
+shoulder: gaya 
+sing: gümangg kairwu- 
+sister: -amang 
+sister: -amaŋ 
+sit: pat- 
+skin: tʉbu | tʉbu	wus3 
+skin: wusë | tʉbu	wus3 
+sleep: maŋgaɲi 
+sleep: manggañ- | maŋgaɲi 
+small: giting | gitiŋ 
+small: gitiŋ 
+smell: irumbrama- 
+smoke: gïs | gɨs 
+smoke: gɨs 
+snake: akakïrïs | akakɨrɨs 
+snake: akakɨrɨs 
+spit: iguba 
+spit: knik ark- 
+split: mapma- 
+stand: anggram- 
+stand: aŋgram- 
+stand: ngitak- 
+star: wirimbir | wirimbir	wirimb~ir 
+stick: wand umbara 
+stone: akumans 
+straight: imbʉndawan 
+straight: imbündawan 
+sun: ingër | iN3r	iŋʌr 
+sun: iŋʌr | iN3r	iŋʌr 
+swell: kura- 
+tail: akutumïn | awagamb 
+tail: akutumɨn | awagamb 
+tail: awagamb 
+take: kamunga- 
+take: kamuŋa- 
+there: tiumba 
+they: mba-ra- 
+they: mba-ra ndə 
+they: mba-ra-wan 
+they: nʉ- 
+they: nü- 
+they: tʉn-(ipit)- 
+they: tün(ipit)- 
+thigh: wët 
+thigh: wʌt 
+think: kurama- 
+thou: ama- | ama	ama-wan 
+thou: ama-nak | ama	ama-wan 
+thou: ama-ra-ndə | ama	ama-wan 
+thou: ama-wan | ama	ama-wan 
+thou: na- | ama	ama-wan 
+thou: na-ra- | ama	ama-wan 
+thou: na-ra-wan | ama	ama-wan 
+throat: grɨ 
+throat: grï 
+throat: takuram 
+throw: apara- 
+thunder: amunggra- 
+thunder: amuŋgra- 
+tie: grawug- 
+tomorrow: amburʷ 
+tomorrow: amburus 
+tomorrow: añigring 
+tongue: mirßam | mirbam	mirβam 
+tongue: mirvam | mirbam	mirβam 
+tooth: ambur | amburr	amb~ur 
+tooth: amburr | amburr	amb~ur 
+tree: gayapa | wand~E 
+tree: umur | wand~E 
+tree: wande | wand~E 
+tree: wandɛ | wand~E 
+turn: kagimra- 
+turn: tumbugara- 
+two: aɲakay | a5akay	aɲakay 
+two: añakay | a5akay	aɲakay 
+vagina: akam 
+vomit: aigu- 
+walk: aŋra- | wu- 
+walk: wu | wu- 
+walk: wu- 
+wallaby: mawagasa 
+wash: pra- 
+wash: rama- 
+water: yamba | yamba	yamb~a 
+we: a- | ara 
+we: a-ra- | ara 
+we: a-ra-ndə | ara 
+we: a-ra-wan | ara 
+we: a-re- | ara 
+weep: irɣa- 
+weep: irgha- 
+wet: yambëranggam 
+wet: yambʌraŋgam 
+what: mata 
+where: baia 
+white: kuaik 
+who: ɲʉmba 
+who: ñümba | ɲʉmba 
+wind: akabi 
+wing: wambɨ 
+wing: wambï 
+woman: muŋgaɲa | nʌndi 
+woman: munggaña | nʌndi 
+woman: nëndi | nʌndi 
+woman: nʌndi 
+wood: rïmbï 
+wood: rɨmbɨ 
+wood: wand umbara 
+yellow: pasanggasra | pasaŋgasra 
+yellow: pasaŋgasra 
+yes: mata 
+yesterday: amɨɲi 
+yesterday: amïñi 
+yesterday: anigring 
+you: ama-ra- | ama	ama-wan 
+you: na- | ama	ama-wan 
+you: na-ra- | ama	ama-wan 
+you: na-ra-wan | ama	ama-wan 
+every: gawarum 
+ash: ipʉn 
+abdomen: amunaβsa 
+bigness: arumandiɛ 
+large: arumandiɛ 
+breasts: g3mb~E	gɨmbɛ 
+come from: ai-	aig	aig- 
+be dead: gum	gum- 
+dead: gum	gum- 
+ground: maŋa 
+land: maŋa 
+soil: maŋa 
+fly: pugɛ- 
+fly v.: pugɛ- 
+1 sg.: sa	sa-wan 
+head louse: maNg 
+male: animu	urum 
+much: gaβarum 
+multiple: gaβarum 
+several: gaβarum 
+hill: ap3r	apʌr 
+title: and~3wi	andʌwi 
+nighttime: ubu	ʉβ uβu 
+adulterous: wayat3k	wayatʌk 
+single: wayat3k	wayatʌk 
+that: wayat3k	wayatʌk 
+the: wayat3k	wayatʌk 
+unprincipled: wayat3k	wayatʌk 
+path: g3nd~amb~ra 
+route: g3nd~amb~ra 
+hide: tʉbu	wus3 
+little: gitiŋ 
+smallness: gitiŋ 
+rock: akumans 
+2 sg: ama	ama-wan 
+grind: a5akay	aɲakay 
+go: wu- 
+1 pl. inc.: ara 
+we₁: ara 
+whiteness: kuaik 
+who?: ɲʉmba 
+female: nʌndi 
+distant: urarum 
+dull: gumri- 
+serious: gumri- 
+close: yambrand 
+ner: yambrand 

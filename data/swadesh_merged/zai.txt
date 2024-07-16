@@ -1,0 +1,310 @@
+all: gui1du2bi1	gui1ráʼ2 
+every: gui1du2bi1	gui1ráʼ2 
+ash: dé 
+ashes: dé 
+bark: riga 
+abdomen: ndaaniʼ 
+belly: ndaaniʼ 
+big: ngo2la1	xiroobaʼ 
+bigness: ngo2la1	xiroobaʼ 
+large: ngo2la1	xiroobaʼ 
+bird: ma1ni3 huiiniʼ1 
+bite: ro yaa	ruquiichiʼ 
+black: nayaaseʼ 
+blood: rini 
+bone: dxita	jita 
+breast: Ziji	xidxi 
+breasts: Ziji	xidxi 
+cloud: za 
+cold: nananda 
+come: eda	ree1da2 
+come from: eda	ree1da2 
+be dead: ati	rati 
+dead: ati	rati 
+die: ati	rati 
+dog: biku7	biʼcuʼ 
+drink: e7	reʼ	ru1cuii1dxi2 
+dry: nabidxi 
+ear: diaga 
+earth: layú 
+ground: layú 
+land: layú 
+soil: layú 
+eat: ro 
+egg: dxita 
+eye: bezalú	bizalu	gielu 
+feather: duubiʼ 
+fire: gi	gui 
+fish: benda 
+foot: batañee 
+full: dxaʼ2	ja7	na1ze2	ze 
+give: rudii	rusigaʼdeʼ 
+good: na1chaʼ3huiʼ1	yo2 
+green: na1ber2de1 
+hair: guicha 
+hand: batana	na7 
+left hand: batana	na7 
+right: batana	na7 
+head: ique 
+hear: runa diaga	una diaga 
+heart: ladxidóʼ 
+horn: %kaCu	ca2chu1 
+1 sg.: na7	naa 
+I: na7	naa 
+kill: ruu1ti2 
+knee: Zibi	xibi 
+be knowledgeable: nan2na1 
+know: nan2na1 
+leaf: bandaga	band~aga	yaza 
+liver: laji7	laʼdxiʼ 
+long: na1yuʼ3laʼ1	naziuulaʼ 
+head louse: biCi 
+louse: biCi 
+male: ngola	nguiiu 
+man: bin1ni2	bini	guidxi 
+many: sta1le2 
+much: sta1le2 
+multiple: sta1le2 
+several: sta1le2 
+moon: beeu 
+hill: dani	giSi	guiʼxhiʼ 
+mountain: dani	giSi	guiʼxhiʼ 
+mouth: ruaa 
+name: la	lá 
+title: la	lá 
+neck: yanni 
+new: kubi	na1cu2bi1 
+night: Sini	gela	gueelaʼ	huaxhinni 
+nighttime: Sini	gela	gueelaʼ	huaxhinni 
+nose: Zi7	xii 
+not: nin 
+adulterous: ti	tobi 
+one: ti	tobi 
+single: ti	tobi 
+that: ca2 
+the: ti	tobi 
+unprincipled: ti	tobi 
+human: bin1ni2	bini	guidxi 
+human being: bin1ni2	bini	guidxi 
+person: bin1ni2	bini	guidxi 
+rain: nisa guie 
+rainy weather: nisa guie 
+red: na1xi1ñáʼ2 
+path: modu	neza 
+road: modu	neza 
+route: modu	neza 
+root: xcu 
+round: bi1tu1 xi3ga1 
+sand: yuxi 
+say: rabi 
+see: ru1si1ná2	ruuyaʼ	u7y~a7 
+seed: biidxiʼ 
+sit: ribí 
+hide: gidi	guidi	ladi 
+skin: gidi	guidi	ladi 
+sleep: rasi	rusisiaasiʼ 
+little: na1biu2xe2	nahuiiniʼ 
+small: na1biu2xe2	nahuiiniʼ 
+smallness: na1biu2xe2	nahuiiniʼ 
+smoke: guʼxhuʼ 
+star: belegi	beleguí 
+rock: gie	guie 
+stone: gie	guie 
+sun: gubidxa	gubija 
+swim: rixuubaʼ 
+this: riʼ3 
+2 sg: li7	lii 
+thou: li7	lii 
+you: li7	lii 
+tongue: diidxaʼ	dija	lud1xi2	luji 
+tooth: laya 
+tree: yaga 
+grind: Cupa	chu1pa2	chupa 
+two: Cupa	chu1pa2	chupa 
+go: rizá 
+walk: rizá 
+hot: nan1dáʼ3 
+warm: nan1dáʼ3 
+water: nisa 
+1 pl. inc.: laa1du2	laa1nu2	nu 
+we: laa1du2	laa1nu2	nu 
+we₁: laa1du2	laa1nu2	nu 
+what: gu1náʼ2 
+white: na1qui1chiʼ3 
+whiteness: na1qui1chiʼ3 
+who: tu2 
+who?: tu2 
+female: gunaa 
+woman: gunaa 
+yellow: naguchi 
+distant: zitu 
+far: zitu 
+close: gaxha 
+near: gaxha 
+ner: gaxha 
+salt: zidi 
+short: nachucu 
+snake: beendaʼ 
+thin: na1la1seʼ2 
+wind: bi 
+earthworm: bi1cu1tiʼ3 
+worm: bi1cu1tiʼ3 
+year: iza 
+3 sg.: laa1be2 
+he: laa1be2 
+she: laa1be2 
+2 pl.: laa1tu2 
+ye: laa1tu2 
+you all: laa1tu2 
+3 pl.: laa1ca1be2 
+they: laa1ca1be2 
+here: che1ríʼ2 
+there: che1ri1caʼ3 
+where: gu1náʼ2	ni	ra 
+where?: gu1náʼ2	ni	ra 
+when: ora	pad1xí3 
+when?: ora	pad1xí3 
+how: xi1 caasi2 
+how?: xi1 caasi2 
+few: caad1xi2	hua1xiéʼ3 
+other: sti3	sto3bi1 
+three: chon1na2	chonna 
+four: tapa 
+five: gaayuʼ	gaayu’ 
+broad: na1la2ga1	nabata 
+wide: na1la2ga1	nabata 
+wideness: na1la2ga1	nabata 
+fat: za 
+thick: na1na1na2 
+narrow: na1béʼ2 
+child: baʼduʼ	xiiñiʼ 
+his mother: jñaa2 
+mother: jñaa2 
+my mother: jñaa2 
+father: bixhoze 
+his father: bixhoze 
+my father: bixhoze 
+animal: ma1niʼ3 
+branch: yaga 
+stick: yaga 
+fruit: xuananaxhi 
+flower: guieʼ 
+grass: gaʼ3	guixi beuʼ2 
+cord: doo 
+rope: doo 
+flesh: bee1la2 
+meat: bee1la2 
+grease: za 
+claw: bi1xu1ga2 
+fingernail: bi1xu1ga2 
+nail: bi1xu1ga2 
+leg: batañee	bid1xi3ñee1 
+arm: ba1ta1náʼ2 
+wing: xhiaa 
+gut: doo xquiʼ 
+guts: doo xquiʼ 
+insides: doo xquiʼ 
+intestine: doo xquiʼ 
+intestines: doo xquiʼ 
+back: deche 
+suck: radxi	rin1dii2 
+spit: ruchá xhin1ni2 
+vomit: ridxiʼbaʼ 
+blow: ruchá bi	run1du1bi2 
+breath: ricaa1 bi3 
+breathe: ricaa1 bi3 
+laugh: ru1xid1xi2 
+laughter: ru1xid1xi2 
+cogitate: riní ique 
+reflect: riní ique 
+think: riní ique 
+smell: riguba xii	rindáʼ 
+sniff: riguba xii	rindáʼ 
+afraid: ridxibi 
+be afraid: ridxibi 
+fear: ridxibi 
+fright: ridxibi 
+alive: ri1be1za2 
+be alive: ri1be1za2 
+life: ri1be1za2 
+live: ri1be1za2 
+living: ri1be1za2 
+fight: ri1din1de2 
+hunt: rie guuzeʼ 
+beat: ri1ga1pa2	ri1gui1ñe2 
+hit: ri1ga1pa2	ri1gui1ñe2 
+strike: ri1ga1pa2	ri1gui1ñe2 
+cut: ruchuuguʼ	rugá 
+hack: ruchuuguʼ	rugá 
+cut open: ri1gui1che2	richeza 
+split: ri1gui1che2	richeza 
+scratch: ri1guu1ñe2	ruuza1 xhuga2 
+lie: raʼtaʼ	rixá 
+lie down: raʼtaʼ	rixá 
+tell lies: raʼtaʼ	rixá 
+stand: riasa 
+turn: ri1bi1gue1taʼ3 
+turn around: ri1bi1gue1taʼ3 
+turn round: ri1bi1gue1taʼ3 
+drop: riruche 
+fall: riruche 
+squeeze: riguié	rixii 
+wring: riguié	rixii 
+rub: rixubi 
+wipe: rixubi 
+wash: riguiibiʼ 
+wash clothes: riguiibiʼ 
+pull: riguʼbaʼ	ruruuxhaʼ 
+push: ri1lá2	rucaa1 náʼ2 
+shove: ri1lá2	rucaa1 náʼ2 
+throw: ruchá 
+bind: run1dii1bi2 
+fasten: run1dii1bi2 
+tie: run1dii1bi2 
+tie up: run1dii1bi2 
+sew: ri1gui1ba2 
+count: ru1ga1baʼ3 
+enumerate: ru1ga1baʼ3 
+number: ru1ga1baʼ3 
+tally: ru1ga1baʼ3 
+sing: rusiguundaʼ	ruundaʼ 
+have fun: riguite 
+play: riguite 
+float: rixuba1 laahua2 
+flow: ri1dá2	ruxooñeʼ 
+swell: ridxá	ruchá gui 
+brook: guiiguʼ 
+river: guiiguʼ 
+stream: guiiguʼ 
+lake: lagu 
+ocean: nisadóʼ 
+sea: nisadóʼ 
+dust: dé 
+fog: gupa 
+sky: guibáʼ	xaibáʼ 
+ice: ielu 
+blaze: riana 
+burn: riana 
+day: dxi 
+daylight: dxi 
+daytime: dxi 
+old: na1hue2la1 
+bad: na1dxa1baʼ3 
+evil: na1dxa1baʼ3 
+rot: nayuudxuʼ 
+rotten: nayuudxuʼ 
+dirty: nabiidiʼ	nachipa 
+filthy: nabiidiʼ	nachipa 
+soiled: nabiidiʼ	nachipa 
+sharp: na1du1xhuʼ3 
+blunt: natuumbuʼ 
+dull: natuumbuʼ 
+smooth: nadxiibiʼ 
+damp: nadxéʼ 
+wet: nadxéʼ 
+correct: jneza 
+left: bi1gaʼ3 
+with: né2 
+and: ne2 
+if: pa2 
+because: pur1tiʼ3 

@@ -1,0 +1,264 @@
+all: roven	toven 
+every: roven	toven 
+ash: daap 
+ashes: daap 
+abdomen: kic	kiya- 
+belly: kic	kiya- 
+big: hâk 
+bigness: hâk 
+large: hâk 
+bird: maalîc 
+bite: ceego 
+black: dadan 
+blood: da 
+bone: du 
+breast: thii-	th~i 
+breasts: thii-	th~i 
+burn: khîlî 
+burn tr.: khîlî 
+cloud: dan	duuc 
+cold: cabuk 
+come: ome	oo-me 
+come from: ome	oo-me 
+be dead: maak	mak 
+dead: maak	mak 
+die: maak	mak 
+dog: tavia 
+drink: ku*xu*	kûxû 
+dry: hare 
+ear: ki*la	kîîla- 
+eat: khuwo 
+egg: ogo 
+eye: idaamaa	idama 
+feather: pôn 
+fire: yaavic	yaviT 
+fish: nok 
+fly: fuk 
+fly v.: fuk 
+good: sho 
+green: bubuk	buk 
+hair: pôle- 
+hand: Si	shi- 
+left hand: Si	shi- 
+right: Si	shi- 
+head: bwa- 
+hear: ta*la*	tâlâ 
+1 sg.: na 
+I: na 
+kill: pa-maaxa 
+be knowledgeable: shêlâ 
+know: shêlâ 
+leaf: du	duu- 
+lie: kâlâp 
+lie down: kâlâp 
+liver: kaaxi-	kaxi 
+long: hmween 
+head louse: TixiT	cixic 
+louse: TixiT	cixic 
+male: ak 
+man: agu 
+moon: hmwalûk 
+mouth: joonua-	nua- 
+name: yaara-	yara 
+title: yaara-	yara 
+neck: noo- 
+new: ha*huk	hââhuuk 
+night: tan 
+nighttime: tan 
+nose: hmwadi-	mw~adi 
+adulterous: -giik	-xiik	gik 
+one: -giik	-xiik	gik 
+single: -giik	-xiik	gik 
+that: hooli	hoona 
+the: -giik	-xiik	gik 
+unprincipled: -giik	-xiik	gik 
+human: agu 
+human being: agu 
+person: agu 
+rain: kot 
+rainy weather: kot 
+red: ulo 
+path: da*la*	daan	dan	dââlâ- 
+road: da*la*	daan	dan	dââlâ- 
+route: da*la*	daan	dan	dââlâ- 
+root: waa- 
+sand: on 
+say: khabwe 
+see: axe 
+sit: taabwa 
+hide: cîî- 
+skin: cîî- 
+sleep: mago 
+little: pwamwayu 
+small: pwamwayu 
+smallness: pwamwayu 
+smoke: pum 
+star: piguk 
+rock: pa*na*t	pânâât 
+stone: pa*na*t	pânâât 
+swim: yha 
+tail: waoo- 
+this: hî 
+2 sg: To	co	yo 
+thou: To	co	yo 
+you: To	co	yo 
+tongue: kuma	kumaa- 
+tooth: panua	panua- 
+grind: -du	-lu	-ru	du 
+two: -du	-lu	-ru	du 
+go: wâlem 
+walk: wâlem 
+hot: hnu 
+warm: hnu 
+water: wi 
+1 pl. inc.: ha*	hâ	hî	ma	va 
+we: ha*	hâ	hî	ma	va 
+we₁: ha*	hâ	hî	ma	va 
+what: da 
+white: foro 
+whiteness: foro 
+who: ti 
+who?: ti 
+female: thaamwa 
+woman: thaamwa 
+yellow: kari 
+distant: hween 
+far: hween 
+dull: pwaaluk 
+heavy: pwaaluk 
+serious: pwaaluk 
+close: jeuk 
+near: jeuk 
+ner: jeuk 
+salt: shool 
+short: khuxum 
+snake: puri 
+thin: aava 
+wind: kuru 
+earthworm: be 
+worm: be 
+year: ka 
+2 pl.: mo	wa 
+ye: mo	wa 
+you all: mo	wa 
+3 pl.: hla	hli 
+they: hla	hli 
+where: pa 
+where?: pa 
+when: eneda 
+when?: eneda 
+how: kaamwa	shuva 
+how?: kaamwa	shuva 
+other: ava-t 
+three: -gan	-xan 
+four: -baak	-vaak 
+broad: hâk-avat 
+wide: hâk-avat 
+wideness: hâk-avat 
+fat: mwalak 
+thick: khugu 
+narrow: câc 
+principal wife: maawa- 
+wife: maawa- 
+husband: aroo- 
+his mother: axomoo- 
+mother: axomoo- 
+my mother: axomoo- 
+father: kââma- 
+his father: kââma- 
+my father: kââma- 
+forest: kak	pweyeu 
+woods: kak	pweyeu 
+branch: hada 
+stick: hada 
+fruit: pwa-t 
+flower: muuc 
+grass: thet 
+cord: kha 
+rope: kha 
+flesh: perak 
+meat: perak 
+grease: mwalak 
+wing: havayi- 
+gut: hauna-	puuna- 
+guts: hauna-	puuna- 
+insides: hauna-	puuna- 
+intestine: hauna-	puuna- 
+intestines: hauna-	puuna- 
+back: duaxa-t 
+suck: tet 
+spit: fwaxe 
+vomit: kôk 
+blow: fha	uvi 
+breath: uvaup 
+breathe: uvaup 
+laugh: ap 
+laughter: ap 
+cogitate: nanami 
+reflect: nanami 
+think: nanami 
+smell: tâlâ 
+sniff: tâlâ 
+afraid: haxexee 
+be afraid: haxexee 
+fear: haxexee 
+fright: haxexee 
+alive: malep 
+be alive: malep 
+life: malep 
+live: malep 
+living: malep 
+hunt: hân 
+beat: thi 
+hit: thi 
+strike: thi 
+cut: khibwaa 
+hack: khibwaa 
+cut open: khiidale 
+split: khiidale 
+pierce: tha 
+stab: tha 
+scratch: hiru 
+dig: yuura 
+stand: kuut 
+drop: nuk 
+fall: nuk 
+grasp: cimwi 
+hold: cimwi 
+hold in arm: cimwi 
+squeeze: ciuxa 
+wring: ciuxa 
+throw: khiiboxa 
+bind: hmage 
+fasten: hmage 
+tie: hmage 
+tie up: hmage 
+sew: thaxa 
+count: khomi 
+enumerate: khomi 
+number: khomi 
+tally: khomi 
+flow: tho 
+lake: khaa 
+ocean: wi-yaak 
+sea: wi-yaak 
+dust: pum 
+fog: fum	karek 
+sky: dan 
+bad: mwang 
+evil: mwang 
+rot: temwa	top 
+rotten: temwa	top 
+dirty: geek 
+filthy: geek 
+soiled: geek 
+sharp: caak 
+blunt: thaawaa 
+damp: been 
+wet: been 
+right side: bwa mwaaguk 
+left: hmau- 
+at: shi 
+in: na-t	ni 
+inside: na-t	ni 
+and: ka	ma	me	xa 

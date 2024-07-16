@@ -1,0 +1,632 @@
+all: gabul 
+and: (ŋaiga)nigininɟi 
+and: yiɲɟi 
+animal: ɹ̣ay 
+ankle: ŋoḍogoc 
+arm: guwanɟad 
+arm: waɲɟat 
+arm: wanɟad 
+ashes: buḷŋuʔ | buḷŋuʔ	gu-bulŋo 
+ashes: gubulŋo | buḷŋuʔ	gu-bulŋo 
+back: bolkoc | gu-ɟungo	ɟuṇgu 
+back: guɟungo | gu-ɟungo	ɟuṇgu 
+back: ɟuṇgu | gu-ɟungo	ɟuṇgu 
+bad: boḍewk | boḍewk	gɔːṛ 
+bad: gɔːṛ | boḍewk	gɔːṛ 
+bark: gonogowo ð | gonogowo ð	gula	yaḷkic 
+bark: gula | gonogowo ð	gula	yaḷkic 
+bark: yaḷkic | gonogowo ð	gula	yaḷkic 
+belly: guwar | worʔ 
+belly: ɟiŋ | worʔ 
+belly: worʔ 
+big: guḷagaḷ | guḷagaḷ	ŋolko	ŋolkoŋaɲin	ŋɔllgɔ 
+big: ŋolko(ŋaɲin) | guḷagaḷ	ŋolko	ŋolkoŋaɲin	ŋɔllgɔ 
+big: ŋɔllgɔ | guḷagaḷ	ŋolko	ŋolkoŋaɲin	ŋɔllgɔ 
+bird: ɟerk | ŋalbuṛ	ɟerk 
+bird: ŋalbuṛ | ŋalbuṛ	ɟerk 
+bite: be- | -bɛbɛ	be- 
+bite: -bɛbɛ | -bɛbɛ	be- 
+bitter: balggin 
+black: ŋoliyi | ŋoliyi	ŋuḷyiʔ 
+black: ŋuḷyiʔ | ŋoliyi	ŋuḷyiʔ 
+blood: gurac | guraT	gurac	guraiɟ	ma-guraiɟ 
+blood: guraiɟ | guraT	gurac	guraiɟ	ma-guraiɟ 
+blood: ma-guraiɟ | guraT	gurac	guraiɟ	ma-guraiɟ 
+blow: -bobo 
+blow: -ɟuruwɛn | -bobo 
+bone: maɹ̣aka | maraka	maɹ̣aka	ŋaɹ̣aga	ŋaṛaga 
+bone: ŋaɹ̣aga | maraka	maɹ̣aka	ŋaɹ̣aga	ŋaṛaga 
+bone: ŋaṛaga | maraka	maɹ̣aka	ŋaɹ̣aga	ŋaṛaga 
+boy: bandari 
+boy: boɹ̣yi 
+boy: miṛibara 
+branch: gubɛl\ | gubɛlʼ 
+breast: ɟeŋe | TeNe	ɟeŋe 
+breathe: -ŋɛṛ\ | -ŋɛṛʼ 
+brother: buypu 
+brother: gaka 
+brother: nubuibu 
+brother: nugoga 
+burn: ḍulʔ-ga- | wire gaguruʼru	ɹ̣u- 
+burn: -gudulgga- | wire gaguruʼru	ɹ̣u- 
+burn: ṇe- | wire gaguruʼru	ɹ̣u- 
+burn: ɹ̣u- | wire gaguruʼru	ɹ̣u- 
+burn: wire gaguru\ru | wire gaguruʼru	ɹ̣u- 
+butterfly: baṭbaḍa 
+butterfly: buṇba 
+calf: yalka 
+cheek: dagal 
+chest: bere 
+chest: gubɛrɛ 
+child: miɹ̣para 
+child: miribara | miɹ̣para 
+child: wɛlɛŋɛ | miɹ̣para 
+chin: guɟawarag 
+chin: ɹ̣oŋ 
+cloud: gunɔŋ | gunɔŋ	guṇuŋ 
+cloud: guṇuŋ | gunɔŋ	guṇuŋ 
+cold: -gŭɟäl | -gŭɟäl	guʔɟelʔ 
+cold: guʔɟelʔ | -gŭɟäl	guʔɟelʔ 
+come: -rabuɲi | -rabuɲi	wuL 
+correct: ŋinma\ | ŋinmaʼ 
+crocodile: naŋguru 
+crocodile: ṇaŋguru 
+cut: ḍac-ga- | -daiɟ	rodaiɟ	ḍac-ga- 
+cut: -daiɟ | -daiɟ	rodaiɟ	ḍac-ga- 
+cut: ḍerk- | -daiɟ	rodaiɟ	ḍac-ga- 
+cut: rodaiɟ | -daiɟ	rodaiɟ	ḍac-ga- 
+dark: gugɔnmɔgŋɔn 
+dark: muṇun 
+daughter: ɟugɛ 
+day: ɟaiɟabaraŋ | gaigubur 
+day: gaigubur 
+die: ɲaɹ̣ʔ- | 5ar	ɲaɹ̣ʔ-	ɲaṛʼ-min 
+die: ɲaṛ\min | 5ar	ɲaɹ̣ʔ-	ɲaṛʼ-min 
+die: -wɛṛiwɛ\ga- | 5ar	ɲaɹ̣ʔ-	ɲaṛʼ-min 
+dig: buriɲʔ- | -gugaḍan	-ɟɔlggugaḍan	ŋurumʔ- 
+dig: ŋurumʔ- | -gugaḍan	-ɟɔlggugaḍan	ŋurumʔ- 
+dig: -(ɟɔlg)gugaḍan | -gugaḍan	-ɟɔlggugaḍan	ŋurumʔ- 
+dig: yilk-bu | -gugaḍan	-ɟɔlggugaḍan	ŋurumʔ- 
+dirty: guɟalggɔlɔɾɛw | gu-ɟalggɔlɔɾɛw 
+dog: gaɟaʔ | gaTa7	gaiɟa	gaɟaʔ 
+dog: gaiɟa | gaTa7	gaiɟa	gaɟaʔ 
+drink: weʔ-ŋu- | -wɛʼ-ŋun	weNu	weʔ-ŋu- 
+drink: -wɛ\ŋun | -wɛʼ-ŋun	weNu	weʔ-ŋu- 
+dry: -gaburg- | -gaburg-	gapuɹ̣k	weɹ̣ʔdak 
+dry: gapuɹ̣k | -gaburg-	gapuɹ̣k	weɹ̣ʔdak 
+dry: weɹ̣ʔdak | -gaburg-	gapuɹ̣k	weɹ̣ʔdak 
+ear: ganam 
+earth: guɟɔlggɔ 
+earth: ɟolko 
+eat: -ŋu- | -ŋu-	ŋu- 
+eat: ŋu- | -ŋu-	ŋu- 
+egg: -lambag | ŋalbuṛ	ŋalpoɹ̣ 
+egg: ḷambak | ŋalbuṛ	ŋalpoɹ̣ 
+egg: ŋalbuṛ | ŋalbuṛ	ŋalpoɹ̣ 
+egg: ŋalpoɹ̣ | ŋalbuṛ	ŋalpoɹ̣ 
+elbow: gubɔn 
+elbow: waḷmor 
+emu: ŋurundɔiɟ 
+emu: ŋuruṇḍuc 
+eye: ɟamin | Na5TuLa	ŋanɟula 
+eye: ŋanɟula | Na5TuLa	ŋanɟula 
+face: ŋanɟula 
+face: ɹ̣oŋ 
+face: walama 
+fall: ḷer- | -ŋwɔrʼ-	ŋoɹ̣ʔ-	ḷer- 
+fall: ŋoɹ̣ʔ- | -ŋwɔrʼ-	ŋoɹ̣ʔ-	ḷer- 
+fall: -ŋwɔr\- | -ŋwɔrʼ-	ŋoɹ̣ʔ-	ḷer- 
+far: gakeŋ 
+father: mokol | mokol	nu-mɔgɔl 
+father: numɔgɔl | mokol	nu-mɔgɔl 
+fat (n.): mina 
+fat (n.): minaʔ 
+fear: -geːyanmin 
+fear: ŋeɹ̣ʔbarʔ- 
+feather: buḷuk | buḷuk 
+few: buruyar\mɔḷg | buruyarʼmɔḷg 
+fight: -buɟi- 
+finger: guɲamaŋ 
+finger: guŋarin 
+fingernail: biṇiɲ | biṇiɲ 
+fire: guŋwɛ | Noy	guŋwɛ	guŋwɛː	ŋoy 
+fire: guŋwɛː | Noy	guŋwɛ	guŋwɛː	ŋoy 
+fire: ŋoy | Noy	guŋwɛ	guŋwɛː	ŋoy 
+fish: ɟeɲ | Te5	ɟeɲ	ɟɛɲ 
+fish: ɟɛɲ | Te5	ɟeɲ	ɟɛɲ 
+flower: ŋoro 
+fly (n.): bɔd 
+fly (v.): -burugalu 
+fog: guyuyu | guyuyu	yimiliʔ 
+fog: yimiliʔ | guyuyu	yimiliʔ 
+foot: ɲamaŋ | gu-ɲamaŋ	ɲamaŋ 
+foot: guɲamaŋ | gu-ɲamaŋ	ɲamaŋ 
+forehead: walama 
+forest: gubɔd 
+full: ɟalawarca | TalawarTa	burkaɟi	ŋɔlgaɟumaŋa	ɟalawarca 
+full: burkaɟi | TalawarTa	burkaɟi	ŋɔlgaɟumaŋa	ɟalawarca 
+full: goɹ̣ci- | TalawarTa	burkaɟi	ŋɔlgaɟumaŋa	ɟalawarca 
+full: -miligɔṛiɟɔ | TalawarTa	burkaɟi	ŋɔlgaɟumaŋa	ɟalawarca 
+full: ŋɔlgaɟumaŋa | TalawarTa	burkaɟi	ŋɔlgaɟumaŋa	ɟalawarca 
+girl: mariɲ 
+girl: ɟu(marin) 
+girl: ɟumiṛibara 
+give: -wɔ- | -wɔ-	wu- 
+give: wu- | -wɔ-	wu- 
+good: ma(ː)ʔ | maʔ	maː	maːʔ 
+good: maː | maʔ	maː	maːʔ 
+grass: ṇoco | wɔrɔ	ṇoco 
+grass: wɔrɔ | wɔrɔ	ṇoco 
+green: wolobɛl ŋoliyi 
+guts: moɹ̣moɹ̣ | moɹ̣moɹ̣	ŋoʔ 
+guts: ŋoʔ | moɹ̣moɹ̣	ŋoʔ 
+hair: ɹ̣alʔ | mural	ɹ̣alʔ 
+hair: ɹ̣awʔ | mural	ɹ̣alʔ 
+hair: mural | mural	ɹ̣alʔ 
+hand: guŋarin | guŋarin	marTi	maɹ̣ɟi 
+hand: maɹ̣ɟi | guŋarin	marTi	maɹ̣ɟi 
+head: mira | mira	miːra 
+head: miːra | mira	miːra 
+hear: -babanara | -babanara	banar	banar- 
+hear: banar- | -babanara	banar	banar- 
+hear: ɟeṭ-ɟa- | -babanara	banar	banar- 
+heart: guŋɛṛ | guŋɛṛ	ŋeɹ̣ʔ 
+heart: ŋeɹ̣ʔ | guŋɛṛ	ŋeɹ̣ʔ 
+heavy: -ŋud 
+here: goʔye 
+he/she: ɟiɲɟaʔ 
+he/she: ɟiɲɟaṇiʔ-yiʔ 
+he/she: -ŋoɟi 
+he/she: niɲɟaʔ 
+he/she: ṇiɲɟaṇiʔ-yiʔ 
+he/she: -ṇowi 
+hit: -baɟɛ | -baɟɛ	bu- 
+hit: bu- | -baɟɛ	bu- 
+hold: -mɔd 
+hold: mụʔ- | -mɔd 
+hole: gubaḍeyeleːyi 
+hole: yele 
+horn: guṇḍaɹ̣oro | gundaroro	guṇḍaɹ̣oro 
+house: guɟulban 
+house: guwambi 
+hunt: ɟaŋ-ga- | -raban-	ɟaŋ-ga- 
+hunt: -raban- | -raban-	ɟaŋ-ga- 
+husband: gopo | gopo	nugɔbbɔ 
+husband: nugɔbbɔ | gopo	nugɔbbɔ 
+I: naiga | Nayka7	naiga	ŋaikaʔ 
+I: ŋaikaʔ | Nayka7	naiga	ŋaikaʔ 
+I: ŋaykaṇiʔ-yiʔ | Nayka7	naiga	ŋaikaʔ 
+I: -ŋini | Nayka7	naiga	ŋaikaʔ 
+jaw: ɹ̣eyʔme 
+kangaroo: goɲ 
+kangaroo: goːin 
+kangaroo: guin̪ 
+kill: bu- | -maṛɛ	bu- 
+kill: -maṛɛ | -maṛɛ	bu- 
+knee: gubɔn | bun	gubɔn	muḍuḍuʔ-ɟa- 
+knee: muḍuḍuʔ-ɟa- | bun	gubɔn	muḍuḍuʔ-ɟa- 
+know: burʔ-ṇa- | -gɔyi	burʔ-ṇa- 
+know: -gɔyi | -gɔyi	burʔ-ṇa- 
+lake: laŋga 
+laugh: -wag | -wag	wak- 
+laugh: wak- | -wag	wak- 
+leaf: beḷŋʔ | beḷŋʔ	gubɛlʼ 
+leaf: gubɛl\ | beḷŋʔ	gubɛlʼ 
+left: bala-ɟaku | bala-ɟaku	balabɔɾɛw 
+left: balabɔɾɛw | bala-ɟaku	balabɔɾɛw 
+leg: ɟarpic | gaṇḍa	gugurgur	ɟarpic 
+leg: gaṇḍa | gaṇḍa	gugurgur	ɟarpic 
+leg: gugurgur | gaṇḍa	gugurgur	ɟarpic 
+lie: -ɟɔŋguarmiɟan | -warb-	warp- 
+lightning: mai\ 
+lightning: min 
+lip: guɟaːla 
+live: -dura | -dura	ṇa- 
+live: ṇa- | -dura	ṇa- 
+liver: guɟiwi | Tiwi	gu-ɟiwi 
+long: geŋgeŋ | geŋ-geŋ	giyaŋ	wiriɟiʔ 
+long: giyaŋ | geŋ-geŋ	giyaŋ	wiriɟiʔ 
+long: ilunɟa | geŋ-geŋ	giyaŋ	wiriɟiʔ 
+long: wiriɟiʔ | geŋ-geŋ	giyaŋ	wiriɟiʔ 
+louse: meɹ̣k | miT 
+louse: mumid | miT 
+man: bigur 
+many: buruyara | buruyara	waḷamanʔ	yarʔ 
+many: waḷamanʔ | buruyara	waḷamanʔ	yarʔ 
+many: yarʔ | buruyara	waḷamanʔ	yarʔ 
+meat: ɟaŋgu | gu-daŋgu- | ɟaŋgu	ɹ̣ay 
+meat: ɹ̣ay | gu-daŋgu- | ɟaŋgu	ɹ̣ay 
+meat: gudaŋgu- | gu-daŋgu- | ɟaŋgu	ɹ̣ay 
+moon: gurŋa 
+morning: guɟɔḍɔḷ 
+morning: munamuniɲu 
+morning: ɟoḍowʔ- 
+mosquito: baḍi 
+mosquito: baṭiʔ 
+mother: manaŋ | manaŋ	ɟumanaŋ 
+mother: ɟumanaŋ | manaŋ	ɟumanaŋ 
+mountain: biṇ | Nayiwur	gala	gubiṇ	ŋayiwur 
+mountain: gala | Nayiwur	gala	gubiṇ	ŋayiwur 
+mountain: gubiṇ | Nayiwur	gala	gubiṇ	ŋayiwur 
+mountain: ŋayiwur | Nayiwur	gala	gubiṇ	ŋayiwur 
+mouth: ɟala | gu-ɟaːla	ɟala 
+mouth: guɟaːla | gu-ɟaːla	ɟala 
+name: guŋɛː | Ney	gu-ŋɛː	ŋey 
+name: ŋey | Ney	gu-ŋɛː	ŋey 
+nape: gunɛn 
+nape: ŋen 
+navel: ŋawolŋʔ 
+near: ɟaɹ̣uk | buruburuʼ	ɟaɹ̣uk 
+near: buruburu\ | buruburuʼ	ɟaɹ̣uk 
+neck: gunɛn | gu-nɛn	maŋa	ŋen 
+neck: maŋa | gu-nɛn	maŋa	ŋen 
+neck: ŋen | gu-nɛn	maŋa	ŋen 
+new: -gɔlgɔl | -gɔlgɔl	golkol 
+new: golkol | -gɔlgɔl	golkol 
+new: mar | -gɔlgɔl	golkol 
+night: guṇmuk | gunmuk	guṇmuk 
+not: gaiɟa 
+old: bɔlɔ 
+old: gapuɟi 
+old: -yugga 
+one: waŋgiɲ | waNgi5	waŋgin	waŋgiɲ	wòngin 
+one: waŋgin | waNgi5	waŋgin	waŋgiɲ	wòngin 
+other: -bɔn ɔyi 
+person: bigur 
+play: -galog | -galog	gaḷuk- 
+play: gaḷuk- | -galog	gaḷuk- 
+pull: ɟaḷap- 
+pull: ḍororʔ- 
+pull: gar-bu- 
+push: ɟuɟuḷ- 
+push: ɟuɟuyʔ- 
+rain: guɟiɟilg | guɟiɟilg	weʔ 
+rain: ɟilk- | guɟiɟilg	weʔ 
+rain: weʔ | guɟiɟilg	weʔ 
+rat: ɟirggin 
+red: ḍiɲɟalin | mayŋoʔ	ŋiriyiʔ	ŋiriŋiriyiʔ	ŋirŋirye	ḍiɲɟalin 
+red: mayŋoʔ | mayŋoʔ	ŋiriyiʔ	ŋiriŋiriyiʔ	ŋirŋirye	ḍiɲɟalin 
+red: (ŋiri)ŋiriyiʔ | mayŋoʔ	ŋiriyiʔ	ŋiriŋiriyiʔ	ŋirŋirye	ḍiɲɟalin 
+red: ŋirŋirye | mayŋoʔ	ŋiriyiʔ	ŋiriŋiriyiʔ	ŋirŋirye	ḍiɲɟalin 
+right: balama | guŋarin	marTi	maɹ̣ɟi | bala-maʔ-wala	balama 
+right: bala-maʔ-wala | guŋarin	marTi	maɹ̣ɟi | bala-maʔ-wala	balama 
+ripe: wɔlɔbin 
+river: bo | bo	gu-bɔː 
+river: bok | bo	gu-bɔː 
+river: gubɔː | bo	gu-bɔː 
+road: bolʔ | bol7 
+road: mubɔl | bol7 
+root: gubɔl 
+rope: balggu | balggu	balku 
+rope: balku | balggu	balku 
+rope: mubalggu | balggu	balku 
+rope: ɟorŋ- | balggu	balku 
+rotten: goɹ̣ʔ | -gɔṛʼmin	goɹ̣ʔ 
+rotten: -gɔṛ\min | -gɔṛʼmin	goɹ̣ʔ 
+round: dugbɔr | dugbɔr	woɟor 
+round: woɟor | dugbɔr	woɟor 
+rub: -bɔlma 
+salt: maḷuruḷuru | maḷuruḷuru	milibalkiɲ 
+salt: milibalkiɲ | maḷuruḷuru	milibalkiɲ 
+sand: ɟambuɹ̣ | gu-ɟambur	ɟambuɹ̣ 
+sand: guɟambur | gu-ɟambur	ɟambuɹ̣ 
+say: -ɲaug | gu-ɟambur	ɟambuɹ̣ 
+say: ɲawk- | gu-ɟambur	ɟambuɹ̣ 
+say: woga- | gu-ɟambur	ɟambuɹ̣ 
+scratch: -lilir- 
+sea: mɪlɪbaːṛŋ 
+see: baya- | -na-	gogon-bu-	na	ṇa- 
+seed: guŋanɟula | gu-ŋanɟula	ŋaɲɟuḷa 
+seed: ŋaɲɟuḷa | gu-ŋanɟula	ŋaɲɟuḷa 
+see: gogon-bu- | -na-	gogon-bu-	na	ṇa- 
+see: -na- | -na-	gogon-bu-	na	ṇa- 
+see: ṇa- | -na-	gogon-bu-	na	ṇa- 
+sharp: -mɛrɛ\ma | -mɛrɛʼma 
+short: ɟaṛug | ɟaɹ̣uk	ɟaṛug 
+short: ɟaɹ̣uk | ɟaɹ̣uk	ɟaṛug 
+shoulder: beɹ̣emelk 
+shoulder: gubirimil 
+shoulder: meḷepeʔ 
+shoulder: muṇɟum 
+sing: ɟulu-wa- | -wawagan	war-ga-	ɟulu-wa- 
+sing: war-ga- | -wawagan	war-ga-	ɟulu-wa- 
+sing: -wawagan | -wawagan	war-ga-	ɟulu-wa- 
+sister: gaka 
+sister: ɟúgaga 
+sister: ɟuyäbba 
+sister: yapa 
+sit: ḍuɹ̣ʔ- | -naŋa-	ḍuɹ̣ʔ-	ṇa- 
+sit: ṇa- | -naŋa-	ḍuɹ̣ʔ-	ṇa- 
+sit: -naŋa- | -naŋa-	ḍuɹ̣ʔ-	ṇa- 
+skin: ɹ̣awʔ | guLa7	gulaʼ	guḷaʔ	malk	ɹ̣awʔ 
+skin: bula\bun | guLa7	gulaʼ	guḷaʔ	malk	ɹ̣awʔ 
+skin: guḷaʔ | guLa7	gulaʼ	guḷaʔ	malk	ɹ̣awʔ 
+skin: gula\ | guLa7	gulaʼ	guḷaʔ	malk	ɹ̣awʔ 
+skin: malk | guLa7	gulaʼ	guḷaʔ	malk	ɹ̣awʔ 
+sky: gugɔnɔŋ | gu-gɔnɔŋ 
+sleep: ŋere | -yɔŋa-	yo-	ŋere 
+sleep: yo- | -yɔŋa-	yo-	ŋere 
+sleep: -yɔŋa- | -yɔŋa-	yo-	ŋere 
+small: mibara | mibara	moymoy	ṇoṇʔṇoṇʔ 
+small: moymoy | mibara	moymoy	ṇoṇʔṇoṇʔ 
+small: ṇoṇʔṇoṇʔ | mibara	moymoy	ṇoṇʔṇoṇʔ 
+smell: -bɔbna- | bop-ṇa- 
+smell: bop- | bop-ṇa- 
+smell: goɹ̣ʔ-bop | bop-ṇa- 
+smoke: guguwalbɛnɛ | guguwalbɛnɛ	guguwalbɛŋɛ	wol 
+smoke: guguwalbɛŋɛ | guguwalbɛnɛ	guguwalbɛŋɛ	wol 
+smoke: wol | guguwalbɛnɛ	guguwalbɛŋɛ	wol 
+smooth: -má | -má 
+snake: ɟamben | ɟamben	ɟambɛn 
+snake: ɟambɛn | ɟamben	ɟambɛn 
+son: nugɛː 
+spit: gol-ŋeɹ̣ʔ- | guŋal	ŋalwarʼmiɟin	ŋaḷ-warʔ-mi-ci- 
+spit: ŋaḷ | guŋal	ŋalwarʼmiɟin	ŋaḷ-warʔ-mi-ci- 
+spit: ɟuṇuɹ̣ʔ-bu- | guŋal	ŋalwarʼmiɟin	ŋaḷ-warʔ-mi-ci- 
+split: ḷak-bu- | ḷak-bu- 
+stand: ɟa- | -ɟaŋa-	ŋeyʔ	ɟa- 
+stand: -ɟaŋa- | -ɟaŋa-	ŋeyʔ	ɟa- 
+stand: ŋeyʔ | -ɟaŋa-	ŋeyʔ	ɟa- 
+star: ɟɛrmiḷmin | mi5gur	miŋur	miɲgur 
+star: miɲgur | mi5gur	miŋur	miɲgur 
+star: miŋur | mi5gur	miŋur	miɲgur 
+stone: biṇ | bin	biṇ	gubín 
+stone: gubín | bin	biṇ	gubín 
+stone: gubíṇ | bin	biṇ	gubín 
+straight: ɟoṇgoloʔ | ɟoṇgoloʔ	ɟungulo 
+straight: ɟungulo | ɟoṇgoloʔ	ɟungulo 
+suck: -bun̪\ | -bun̪ʼ 
+sun: ŋuwaɟi | waTi	waci	ŋuwaɟi 
+sun: waci | waTi	waci	ŋuwaɟi 
+sweet: ḍaḍa 
+sweet: mudaḍa 
+swim: -ŋɔi- | -ŋɔi-	ŋuy-ŋuy- 
+swim: ŋuyŋuy- | -ŋɔi-	ŋuy-ŋuy- 
+tail: ɟiːgur | ɟikur	ɟiːgur 
+tail: ɟikur | ɟikur	ɟiːgur 
+take: ga- 
+take: -mɛ\mɛ\ 
+take: woc-ma- 
+take: -wɔidmɛ- 
+that: gun-gunʔbiri ~ mun-gunʔbiri | gun-gunʔbiri	mun-gunʔbiri | waNgi5	waŋgin	waŋgiɲ	wòngin 
+that: gun- ~ mun-gunʔbiri-gunʔ | gun-gunʔbiri	mun-gunʔbiri | waNgi5	waŋgin	waŋgiɲ	wòngin 
+that: ṇu-gunʔbiri | gun-gunʔbiri	mun-gunʔbiri | waNgi5	waŋgin	waŋgiɲ	wòngin 
+that: ṇu-gunʔbiri-gunʔ | gun-gunʔbiri	mun-gunʔbiri | waNgi5	waŋgin	waŋgiɲ	wòngin 
+that: ɟu-gunʔbiri-gunʔ | gun-gunʔbiri	mun-gunʔbiri | waNgi5	waŋgin	waŋgiɲ	wòngin 
+there: goʔɟe 
+there: -gɔiyɛn | goʔɟe 
+they: -bore | burgagabbul	burka 
+they: burgagabbul | burgagabbul	burka 
+they: burka | burgagabbul	burka 
+they: burkaṇiʔ-yiʔ | burgagabbul	burka 
+they two: burka-bira 
+they two: burkaṇiʔ-biraʔ-yiʔ 
+thigh: ɟarpic 
+thigh: guɟäɾgbiɟ 
+thin: baɹ̣arac | -baraiɟ	baɹ̣arac 
+thin: -baraiɟ | -baraiɟ	baɹ̣arac 
+think: (bak)men-gol- | -gabanar	bakmen-gol-	men-gol-	miɲɟi- 
+think: -gabanar | -gabanar	bakmen-gol-	men-gol-	miɲɟi- 
+think: miɲɟi- | -gabanar	bakmen-gol-	men-gol-	miɲɟi- 
+this: gun-gaʔye(n) ~ mun-gaʔye(n) | gun-gaʔye	gun-gaʔyen	mun-gaʔyen 
+this: gun-gaykunʔ ~ mun-gaykunʔ | gun-gaʔye	gun-gaʔyen	mun-gaʔyen 
+this: ṇu-gaʔye ~ nu-gaʔyen | gun-gaʔye	gun-gaʔyen	mun-gaʔyen 
+this: ɟu-gaʔye(n) | gun-gaʔye	gun-gaʔyen	mun-gaʔyen 
+thou: ɲiɲɟaʔ | nTa	ɲiɲɟaʔ 
+thou: -ŋgi | nTa	ɲiɲɟaʔ 
+thou: ŋiɲɟaṇiʔ-yiʔ | nTa	ɲiɲɟaʔ 
+thou: norgagabbul | nTa	ɲiɲɟaʔ 
+thou: -ṇuŋgore | nTa	ɲiɲɟaʔ 
+thou: ṇurka | nTa	ɲiɲɟaʔ 
+thou: ṇurkaṇiʔ-yiʔ | nTa	ɲiɲɟaʔ 
+three: gulbur | gulbur	puramùrko 
+throat: gumaŋa 
+throat: maŋa 
+throw: -war\- | -warʼ-	warʔ- 
+throw: warʔ- | -warʼ-	warʔ- 
+thunder: maḷun 
+tie: ďerʔba-ga- | ḍerʔba-ga- 
+today: yiɲgon 
+today: yuŋgɔn 
+tomorrow: munduɲo 
+tomorrow: muṇuɲɟu 
+tongue: ɟaːlŋ | TelN	ɟaːlŋ	ɟaːḷŋ	ɟelŋ 
+tongue: ɟaːḷŋ | TelN	ɟaːlŋ	ɟaːḷŋ	ɟelŋ 
+tongue: ɟelŋ | TelN	ɟaːlŋ	ɟaːḷŋ	ɟelŋ 
+tooth: giyar | giyar	giyark 
+tooth: giyark | giyar	giyark 
+tree: ḍaṛʔ | dar 
+tree: gudar 
+turn: -du- 
+turn: -gɔbɛṛ\- 
+two: yabban | meiàppan	yabban	yapan7	yapanʔ 
+two: yapanʔ | meiàppan	yabban	yapan7	yapanʔ 
+vagina: -mugini 
+vomit: weɹ̣ʔ- | -wɛra	weɹ̣ʔ- 
+vomit: -wɛra | -wɛra	weɹ̣ʔ- 
+walk: ɹ̣abo- | ŋiɲaraburabuno 
+walk: bol-ma- | ŋiɲaraburabuno 
+walk: ŋiɲaraburabuno 
+walk: -ṛabana | ŋiɲaraburabuno 
+walk: -rarabu- | ŋiɲaraburabuno 
+walk: ɟuruwe- | ŋiɲaraburabuno 
+wallaby: ŋargo 
+warm: (ŋu)wɔṛɔŋgɔr 
+warm: waḷir 
+wash: -ŋarmiɟin | -ŋarmiɟin	ŋorʔ- 
+wash: ŋorʔ- | -ŋarmiɟin	ŋorʔ- 
+wash: -wuwulub | -ŋarmiɟin	ŋorʔ- 
+water: -biɲi- | -biɲi-	gu-wɛ	gu-wɛ́	we7	weʔ 
+water: guwɛ | -biɲi-	gu-wɛ	gu-wɛ́	we7	weʔ 
+water: guwɛ́ | -biɲi-	gu-wɛ	gu-wɛ́	we7	weʔ 
+water: guyɔrɔm | -biɲi-	gu-wɛ	gu-wɛ́	we7	weʔ 
+water: ŋacal | -biɲi-	gu-wɛ	gu-wɛ́	we7	weʔ 
+water: weʔ | -biɲi-	gu-wɛ	gu-wɛ́	we7	weʔ 
+weep: -ṛun 
+weep: ɹ̣u- 
+we (excl.): -yere 
+we (excl.): yirgagabbul 
+we (excl.): yirkaʔ 
+we (incl.): -ŋgore 
+we (incl.): ŋurgagabbul 
+we (incl.): ŋurkaʔ 
+we: ŋurkaṇiʔ-yiʔ | Nurka	ŋurgagabbul	ŋurkaʔ 
+wet: ɟeliʔ 
+we two (excl.): -yere 
+we two (excl.): yirgabira 
+we two (excl.): yirkaʔ-biraʔ 
+we two (excl.): yirkaṇiʔ-biraʔ-yiʔ 
+we two (incl.): ŋurgabira 
+we two (incl.): yikaʔ 
+we two (incl.): yikaṇiʔ-yiʔ 
+we two (incl.): -yiki 
+what: yana? | yana?	yanaʔ 
+what: yanaʔ | yana?	yanaʔ 
+when: yana\mala? | yanaʔmala	yanaʼmala? 
+when: yanaʔmala | yanaʔmala	yanaʼmala? 
+where: wereka | wereka	weriga? 
+where: weriga? | wereka	weriga? 
+white: bɛugyi | bewkiʔ	bim	bɛugyi 
+white: bewkiʔ | bewkiʔ	bim	bɛugyi 
+white: bim | bewkiʔ	bim	bɛugyi 
+who: nuwere? | -were	nuwere? 
+who: -were | -were	nuwere? 
+wide: bambiḷiwar | bambiḷiwar	bilpo	guḷagaḷ 
+wide: bilpo | bambiḷiwar	bilpo	guḷagaḷ 
+wide: guḷagaḷ | bambiḷiwar	bilpo	guḷagaḷ 
+wife: gopo | gopo	ɟubɔlɔbɔlɔ 
+wife: ɟubɔlɔbɔlɔ | gopo	ɟubɔlɔbɔlɔ 
+wind: biɟuḍu | biɟuḍu	ŋondo	ŋɔndɔ 
+wind: ŋondo | biɟuḍu	ŋondo	ŋɔndɔ 
+wind: ŋɔndɔ | biɟuḍu	ŋondo	ŋɔndɔ 
+wing: guwanɟad | gu-wanɟad	wel 
+wing: wel | gu-wanɟad	wel 
+woman: ɟänawa | boloʔbolo	bɔlɔbɔlɔ 
+woman: boloʔbolo | boloʔbolo	bɔlɔbɔlɔ 
+woman: bɔlɔbɔlɔ | boloʔbolo	bɔlɔbɔlɔ 
+woman: weleŋe | boloʔbolo	bɔlɔbɔlɔ 
+wood: ɟandaʔ 
+wood: ḍaṛʔ 
+wood: gulad 
+wood: gunwɛː 
+wood: ŋatum 
+woomera: boṇḍok 
+woomera: wa(?)rurgu 
+yellow: goloŋorʔ 
+yesterday: ɟaɟabaɹ̣ŋʔ 
+yes: yoː 
+you two: ṇurka-bira 
+you two: ṇurkaṇiʔ-biraʔ-yiʔ 
+every: gabul 
+ash: buḷŋuʔ	gu-bulŋo 
+abdomen: worʔ 
+bigness: guḷagaḷ	ŋolko	ŋolkoŋaɲin	ŋɔllgɔ 
+large: guḷagaḷ	ŋolko	ŋolkoŋaɲin	ŋɔllgɔ 
+breasts: TeNe	ɟeŋe 
+come from: -rabuɲi	wuL 
+be dead: 5ar	ɲaɹ̣ʔ-	ɲaṛʼ-min 
+dead: 5ar	ɲaɹ̣ʔ-	ɲaṛʼ-min 
+fly: -burugalu 
+fly v.: -burugalu 
+left hand: guŋarin	marTi	maɹ̣ɟi 
+1 sg.: Nayka7	naiga	ŋaikaʔ 
+be knowledgeable: -gɔyi	burʔ-ṇa- 
+lie down: -ɟɔŋguarmiɟan 
+head louse: miT 
+male: bigur 
+much: buruyara	waḷamanʔ	yarʔ 
+multiple: buruyara	waḷamanʔ	yarʔ 
+several: buruyara	waḷamanʔ	yarʔ 
+flesh: gu-daŋgu- 
+hill: Nayiwur	gala	gubiṇ	ŋayiwur 
+title: Ney	gu-ŋɛː	ŋey 
+nighttime: gunmuk	guṇmuk 
+nose: Te	gudɟeː	guɟɛː	ɟe 
+adulterous: waNgi5	waŋgin	waŋgiɲ	wòngin 
+single: waNgi5	waŋgin	waŋgiɲ	wòngin 
+the: waNgi5	waŋgin	waŋgiɲ	wòngin 
+unprincipled: waNgi5	waŋgin	waŋgiɲ	wòngin 
+human: bigur 
+human being: bigur 
+rainy weather: guɟiɟilg	weʔ 
+path: bol7 
+route: bol7 
+hide: guLa7	gulaʼ	guḷaʔ	malk	ɹ̣awʔ 
+little: mibara	moymoy	ṇoṇʔṇoṇʔ 
+smallness: mibara	moymoy	ṇoṇʔṇoṇʔ 
+rock: bin	biṇ	gubín 
+2 sg: nTa	ɲiɲɟaʔ 
+you: nTa	ɲiɲɟaʔ 
+grind: meiàppan	yabban	yapan7	yapanʔ 
+go: ŋiɲaraburabuno 
+1 pl. inc.: Nurka	ŋurgagabbul	ŋurkaʔ 
+we₁: Nurka	ŋurgagabbul	ŋurkaʔ 
+whiteness: bewkiʔ	bim	bɛugyi 
+who?: -were	nuwere? 
+female: boloʔbolo	bɔlɔbɔlɔ 
+distant: gakeŋ 
+dull: -ŋud 
+serious: -ŋud 
+close: buruburuʼ	ɟaɹ̣uk 
+ner: buruburuʼ	ɟaɹ̣uk 
+3 sg.: niɲɟaʔ 
+he: niɲɟaʔ 
+she: niɲɟaʔ 
+2 pl.: norgagabbul	ṇurka 
+ye: norgagabbul	ṇurka 
+you all: norgagabbul	ṇurka 
+3 pl.: burgagabbul	burka 
+where?: wereka	weriga? 
+when?: yanaʔmala	yanaʼmala? 
+four: yapàiapan 
+broad: bambiḷiwar	bilpo	guḷagaḷ 
+wideness: bambiḷiwar	bilpo	guḷagaḷ 
+principal wife: gopo	ɟubɔlɔbɔlɔ 
+his mother: manaŋ	ɟumanaŋ 
+my mother: manaŋ	ɟumanaŋ 
+his father: mokol	nu-mɔgɔl 
+my father: mokol	nu-mɔgɔl 
+woods: gubɔd 
+stick: gubɛlʼ 
+cord: balggu	balku 
+claw: biṇiɲ 
+nail: biṇiɲ 
+gut: moɹ̣moɹ̣	ŋoʔ 
+insides: moɹ̣moɹ̣	ŋoʔ 
+intestine: moɹ̣moɹ̣	ŋoʔ 
+intestines: moɹ̣moɹ̣	ŋoʔ 
+breath: -ŋɛṛʼ 
+laughter: -wag	wak- 
+cogitate: -gabanar	bakmen-gol-	men-gol-	miɲɟi- 
+reflect: -gabanar	bakmen-gol-	men-gol-	miɲɟi- 
+sniff: bop-ṇa- 
+alive: -dura	ṇa- 
+be alive: -dura	ṇa- 
+life: -dura	ṇa- 
+living: -dura	ṇa- 
+beat: -baɟɛ	bu- 
+strike: -baɟɛ	bu- 
+hack: -daiɟ	rodaiɟ	ḍac-ga- 
+cut open: ḷak-bu- 
+tell lies: -warb-	warp- 
+drop: -ŋwɔrʼ-	ŋoɹ̣ʔ-	ḷer- 
+grasp: -mɔd 
+hold in arm: -mɔd 
+wipe: -bɔlma 
+wash clothes: -ŋarmiɟin	ŋorʔ- 
+bind: ḍerʔba-ga- 
+fasten: ḍerʔba-ga- 
+tie up: ḍerʔba-ga- 
+have fun: -galog	gaḷuk- 
+brook: bo	gu-bɔː 
+stream: bo	gu-bɔː 
+blaze: wire gaguruʼru	ɹ̣u- 
+daylight: gaigubur 
+daytime: gaigubur 
+evil: boḍewk	gɔːṛ 
+rot: -gɔṛʼmin	goɹ̣ʔ 
+filthy: gu-ɟalggɔlɔɾɛw 
+soiled: gu-ɟalggɔlɔɾɛw 
+blunt: bɔdɛug 
+damp: ɟeliʔ 
+right side: bala-maʔ-wala	balama 

@@ -1,0 +1,324 @@
+all: кöндӱрe	ончо	ӱзе 
+every: кöндӱрe	ончо	ӱзе 
+ash: öлöн	кӱл 
+ashes: öлöн	кӱл 
+bark: чобра 
+abdomen: карын 
+belly: карын 
+big: jaan 
+bigness: jaan 
+large: jaan 
+bird: куш 
+bite: тиште 
+black: кара 
+blood: кан 
+bone: sak	сööк 
+breast: taS	эмчек 
+breasts: taS	эмчек 
+cloud: булут 
+cold: соок 
+come: кел 
+come from: кел 
+be dead: öл 
+dead: öл 
+die: öл 
+dog: it	ийт 
+drink: ич 
+dry: кургак 
+ear: qulaq	кулак 
+earth: тобрак 
+ground: тобрак 
+land: тобрак 
+soil: тобрак 
+eat: jи 
+egg: jымртка 
+eye: qaraq	кöс 
+feather: jун 
+fire: ot	от 
+fish: baluk	балык 
+fly: уч 
+fly v.: уч 
+foot: бут 
+full: толо 
+give: бер 
+good: jaкшы 
+green: jaжыл 
+hair: кыл	чач 
+hand: kol 
+left hand: kol 
+right: kol 
+head: баш 
+hear: ук 
+heart: jӱрек 
+horn: mis	мӱӱс 
+1 sg.: man	мен 
+I: man	мен 
+kill: öлтӱр 
+knee: тизе 
+be knowledgeable: бил 
+know: бил 
+leaf: Talburaq	бӱр	бӱри 
+liver: bur	баар	буур 
+long: узун 
+head louse: bit	бийт 
+louse: bit	бийт 
+male: эр кижи 
+man: kiZi	кижи 
+many: кöп 
+much: кöп 
+multiple: кöп 
+several: кöп 
+moon: ай 
+hill: кыр	тыы 
+mountain: кыр	тыы 
+mouth: оос 
+name: ат 
+title: ат 
+neck: мойын 
+new: TaNa	jaны 
+night: tin	тӱн 
+nighttime: tin	тӱн 
+nose: tumCuq	тумчук 
+not: jok	эмес 
+adulterous: бир 
+one: бир 
+single: бир 
+that: ол 
+the: бир 
+unprincipled: бир 
+human: kiZi	кижи 
+human being: kiZi	кижи 
+person: kiZi	кижи 
+rain: jaaш	jaнмыр 
+rainy weather: jaaш	jaнмыр 
+red: кызыл 
+path: Tol	jол 
+road: Tol	jол 
+route: Tol	jол 
+root: тазыл 
+round: болчок	тегерик 
+sand: кумак	сай 
+say: айт 
+see: кöр 
+seed: ӱрен 
+sit: отур 
+hide: tara	тере 
+skin: tara	тере 
+sleep: уйукта 
+little: кичинек	кичӱ 
+small: кичинек	кичӱ 
+smallness: кичинек	кичӱ 
+smoke: ыш 
+star: Tuldus	jылтыс 
+rock: taS	таш 
+stone: taS	таш 
+sun: kin	кӱн 
+swim: эжин 
+tail: куйрук 
+this: бул 
+2 sg: san	сен 
+thou: san	сен 
+you: san	сен 
+tongue: til	тил 
+tooth: тиш 
+tree: tarak	агаш 
+grind: aki	эки 
+two: aki	эки 
+go: бар 
+walk: бар 
+hot: jылу 
+warm: jылу 
+water: суу 
+1 pl. inc.: bis	бис 
+we: bis	бис 
+we₁: bis	бис 
+what: не	неме 
+white: ак 
+whiteness: ак 
+who: кем 
+who?: кем 
+female: эмеген	ӱй кижи 
+woman: эмеген	ӱй кижи 
+yellow: сары 
+distant: узак	ыраак 
+far: узак	ыраак 
+dull: уур 
+heavy: уур 
+serious: уур 
+close: jуук 
+near: jуук 
+ner: jуук 
+salt: тус 
+short: кыска 
+snake: jылан 
+thin: jука	чичке 
+wind: салкын	эзин 
+earthworm: курт 
+worm: курт 
+year: jыл 
+3 sg.: ол 
+he: ол 
+she: ол 
+2 pl.: слер 
+ye: слер 
+you all: слер 
+3 pl.: олор 
+they: олор 
+here: мында 
+there: анда 
+where: кайда 
+where?: кайда 
+when: качан 
+when?: качан 
+how: кандый 
+how?: кандый 
+some: бир канча 
+few: ас 
+other: башка 
+three: ӱч 
+four: тöрт 
+five: беш 
+broad: jалбак 
+wide: jалбак 
+wideness: jалбак 
+fat: ӱс 
+thick: jooн	калын 
+narrow: тар 
+child: бала 
+principal wife: эмегени	ӱй кижизи 
+wife: эмегени	ӱй кижизи 
+husband: öбöгöни	эр кижизи 
+his mother: эне 
+mother: эне 
+my mother: эне 
+father: ада 
+his father: ада 
+my father: ада 
+animal: ан	тынду 
+forest: агаш	арка 
+woods: агаш	арка 
+fruit: јилек	јискен 
+flower: чечек 
+grass: öлöн 
+cord: армакчы	буу 
+rope: армакчы	буу 
+flesh: эт 
+meat: эт 
+grease: ӱс 
+claw: тырмак 
+fingernail: тырмак 
+nail: тырмак 
+leg: бут 
+arm: кол 
+wing: канат 
+gut: ичеге 
+guts: ичеге 
+insides: ичеге 
+intestine: ичеге 
+intestines: ичеге 
+back: бел 
+suck: соор 
+spit: тӱкӱр 
+vomit: кус 
+blow: сок	ӱр 
+breath: тын	тынарга 
+breathe: тын	тынарга 
+laugh: каткыр 
+laughter: каткыр 
+cogitate: санан 
+reflect: санан 
+think: санан 
+afraid: коркы 
+be afraid: коркы 
+fear: коркы 
+fright: коркы 
+alive: jӱр 
+be alive: jӱр 
+life: jӱр 
+live: jӱр 
+living: jӱр 
+fight: jуулажар	кӱрежер	тартыжар 
+hunt: анда 
+beat: сок 
+hit: сок 
+strike: сок 
+cut: кес 
+hack: кес 
+cut open: jар	оот 
+split: jар	оот 
+pierce: сай	сайар 
+stab: сай	сайар 
+scratch: тырма 
+dig: кас 
+lie: jaт	jиадып jaт 
+lie down: jaт	jиадып jaт 
+tell lies: jaт	jиадып jaт 
+stand: тур 
+turn: бурыл 
+turn around: бурыл 
+turn round: бурыл 
+drop: дьыгыл	тюш 
+fall: дьыгыл	тюш 
+grasp: тут 
+hold: тут 
+hold in arm: тут 
+squeeze: кыза тудар	сыгар 
+wring: кыза тудар	сыгар 
+rub: дьыжип сыймаар 
+wipe: арлаар	арчып турар 
+wash: jун 
+wash clothes: jун 
+pull: тарт	чöй	чире 
+throw: ташта 
+bind: буулаа 
+fasten: буулаа 
+tie: буулаа 
+tie up: буулаа 
+sew: кöктö	шиде 
+count: тооло	чотто 
+enumerate: тооло	чотто 
+number: тооло	чотто 
+tally: тооло	чотто 
+sing: кожондо	сарында 
+have fun: ойно 
+play: ойно 
+float: јӱс 
+flow: ак 
+freeze: тон	чарча 
+brook: суу 
+river: суу 
+stream: суу 
+lake: кöл 
+ocean: талай 
+sea: талай 
+dust: тоозыны 
+fog: туман 
+sky: тенери 
+snow: кар 
+ice: тош 
+blaze: кӱй	кӱйер 
+burn: кӱй	кӱйер 
+day: кӱн 
+daylight: кӱн 
+daytime: кӱн 
+old: карган	эски 
+bad: jaман	комой 
+evil: jaман	комой 
+rot: калган	чирик 
+rotten: калган	чирик 
+dirty: кирлӱ 
+filthy: кирлӱ 
+soiled: кирлӱ 
+straight: тӱс	чике 
+sharp: курч 
+blunt: моко 
+smooth: килен	тӱс 
+damp: чыкту	ӱлӱш 
+wet: чыкту	ӱлӱш 
+correct: чын 
+right side: онʼ 
+left: сол 
+at: -де	-те 
+in: -де	-те 
+inside: -де	-те 
+with: -ду	-ту 

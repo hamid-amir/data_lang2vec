@@ -1,0 +1,129 @@
+all: initarataradia 
+every: initarataradia 
+ash: koau 
+ashes: koau 
+abdomen: tiala 
+belly: tiala 
+big: gesi 
+bigness: gesi 
+large: gesi 
+bird: mari 
+bite: karatia 
+black: sibisibi 
+blood: masini	masinina 
+bone: suma	sumala 
+breast: puma	susu 
+breasts: puma	susu 
+burn: gau	tatunu 
+burn tr.: gau	tatunu 
+cloud: kamou 
+cold: rorogoro 
+come: pae lauma 
+come from: pae lauma 
+be dead: io ma mate	ma mate 
+dead: io ma mate	ma mate 
+die: io ma mate	ma mate 
+dog: kaukau 
+drink: kokoa	loa 
+dry: sasaga 
+ear: tana	tanala 
+eat: aniani 
+egg: kiau 
+eye: mata	matala 
+feather: parola 
+fire: uda 
+fish: ia	iala 
+fly: ro 
+fly v.: ro 
+good: atorola 
+green: pepeaka 
+hair: pauna 
+hand: bae	baela	tua	tuala 
+left hand: bae	baela	tua	tuala 
+right: bae	baela	tua	tuala 
+head: pauna 
+hear: bola	ma bola 
+1 sg.: inau 
+I: inau 
+kill: a-mate-a 
+be knowledgeable: ataesalato 
+know: ataesalato 
+leaf: roe 
+long: maraela 
+head louse: mua 
+louse: mua 
+male: ala 
+man: tioni 
+moon: ibao 
+mouth: nonotola 
+name: esana	esanala 
+title: esana	esanala 
+neck: ruau 
+new: auru 
+night: boni 
+nighttime: boni 
+nose: isu	isuna 
+adulterous: idai	kasa 
+one: idai	kasa 
+single: idai	kasa 
+that: io 
+the: idai	kasa 
+unprincipled: idai	kasa 
+human: tioni 
+human being: tioni 
+person: tioni 
+rain: sua 
+rainy weather: sua 
+red: sirisirika 
+path: tauna 
+road: tauna 
+route: tauna 
+root: agarala 
+sand: kakana 
+say: atoato 
+see: ma toria	toria 
+sit: tuousalato 
+hide: uni	unina 
+skin: uni	unina 
+sleep: ma mausu 
+little: kikina 
+small: kikina 
+smallness: kikina 
+smoke: asu 
+star: wiwito 
+rock: pau 
+stone: pau 
+swim: pae su 
+tail: kunela 
+tongue: mea	meala 
+tooth: niotou 
+grind: erua 
+two: erua 
+go: ma lao	pae sobi 
+walk: ma lao	pae sobi 
+hot: pako 
+warm: pako 
+water: ate 
+1 pl. inc.: nida	nida dad taninarua	nidaia episa 
+we: nida	nida dad taninarua	nidaia episa 
+we₁: nida	nida dad taninarua	nidaia episa 
+what: na sa 
+white: kakata 
+whiteness: kakata 
+who: sea 
+who?: sea 
+female: baina 
+woman: baina 
+yellow: tomotomonu 
+distant: asauna-la 
+far: asauna-la 
+dull: nabutu 
+heavy: nabutu 
+serious: nabutu 
+close: batu-na 
+near: batu-na 
+ner: batu-na 
+salt: solo 
+short: papaia 
+snake: komukomu 
+wind: kiu 

@@ -1,0 +1,266 @@
+all: palay 
+every: palay 
+ash: leseng	liseŋ 
+ashes: leseng	liseŋ 
+abdomen: batek 
+belly: batek 
+big: bioʔ 
+bigness: bioʔ 
+large: bioʔ 
+bird: sui 
+bite: jemaʔet 
+black: saleŋ 
+blood: da7	daaʔ 
+bone: tulaN	tulaŋ 
+breast: iti	itéʔ 
+breasts: iti	itéʔ 
+burn: nutuŋ 
+burn tr.: nutuŋ 
+cloud: abun 
+cold: seŋim 
+come: enay 
+come from: enay 
+be dead: matay 
+dead: matay 
+die: matay 
+dog: asu 
+drink: nisep 
+dry: megaŋ 
+ear: teliNa	teliŋa 
+eat: uman 
+egg: tilo 
+eye: mata 
+feather: bulu 
+fire: luten 
+fish: atuk 
+fly: madaŋ 
+fly v.: madaŋ 
+good: tiga 
+green: bileŋ 
+hair: puk 
+hand: leku7an	lekuʔan 
+left hand: leku7an	lekuʔan 
+right: leku7an	lekuʔan 
+head: ulu 
+hear: kenaan	kenan 
+1 sg.: aki	akéʔ 
+I: aki	akéʔ 
+kill: lematay 
+be knowledgeable: tisen 
+know: tisen 
+leaf: tuN	tuŋ 
+lie: ŋelisa 
+lie down: ŋelisa 
+liver: atay bep 
+long: dadoʔ 
+head louse: kutu 
+louse: kutu 
+male: laki 
+man: kelunan 
+moon: bulan 
+mouth: paʔ 
+name: Nadan	ŋadan 
+title: Nadan	ŋadan 
+neck: batuk 
+new: madiN	madiŋ 
+night: alem 
+nighttime: alem 
+nose: enduŋ	end~uN 
+adulterous: Ca	Ta	ca	jah 
+one: Ca	Ta	ca	jah 
+single: Ca	Ta	ca	jah 
+that: ina 
+the: Ca	Ta	ca	jah 
+unprincipled: Ca	Ta	ca	jah 
+human: kelunan 
+human being: kelunan 
+person: kelunan 
+rain: ujan 
+rainy weather: ujan 
+red: bala 
+path: janan 
+road: janan 
+route: janan 
+root: pakat 
+sand: ait 
+say: pisiw 
+see: na7et	naʔet 
+sit: maduŋ 
+hide: anit 
+skin: anit 
+sleep: lundoʔ 
+little: iʔut 
+small: iʔut 
+smallness: iʔut 
+smoke: sap 
+star: betu7en	betuʔen 
+rock: batu 
+stone: batu 
+swim: ñatuŋ 
+tail: iko 
+this: ini 
+2 sg: iko7	ikoʔ 
+thou: iko7	ikoʔ 
+you: iko7	ikoʔ 
+tongue: jela7	jelaʔ 
+tooth: jipen 
+grind: dua	duah 
+two: dua	duah 
+go: masat 
+walk: masat 
+hot: pana 
+warm: pana 
+water: suNay	suŋay 
+1 pl. inc.: aḿeʔ	ilu 
+we: aḿeʔ	ilu 
+we₁: aḿeʔ	ilu 
+what: inuʔ 
+white: putéʔ 
+whiteness: putéʔ 
+who: aéʔ 
+who?: aéʔ 
+female: leto 
+woman: leto 
+yellow: bilaʔ 
+distant: coʔ 
+far: coʔ 
+dull: baat 
+heavy: baat 
+serious: baat 
+close: eñeŋ	kata 
+near: eñeŋ	kata 
+ner: eñeŋ	kata 
+salt: usen 
+short: buʔet 
+snake: enjuŋ ulay 
+thin: ñipé 
+wind: bayu 
+earthworm: uaŋ 
+worm: uaŋ 
+year: uman 
+2 pl.: ikem 
+ye: ikem 
+you all: ikem 
+3 pl.: ida 
+they: ida 
+where: kembi 
+where?: kembi 
+when: m|idan 
+when?: m|idan 
+how: kumbin 
+how?: kumbin 
+other: diaʔ ca 
+three: teleu’	telu 
+four: pat 
+five: lema	lemah 
+broad: bioʔ 
+wide: bioʔ 
+wideness: bioʔ 
+fat: eñak 
+thick: kapan 
+narrow: iʔut 
+principal wife: leto 
+wife: leto 
+husband: laki 
+his mother: uéʔ 
+mother: uéʔ 
+my mother: uéʔ 
+father: amay 
+his father: amay 
+my father: amay 
+forest: baʔi 
+woods: baʔi 
+branch: daʔan 
+stick: daʔan 
+fruit: buaʔ 
+flower: buŋaʔ 
+grass: udu 
+cord: tali 
+rope: tali 
+flesh: si|n 
+meat: si|n 
+grease: eñak 
+wing: kapit 
+gut: tenaʔi 
+guts: tenaʔi 
+insides: tenaʔi 
+intestine: tenaʔi 
+intestines: tenaʔi 
+back: likut 
+suck: meñindek 
+spit: ñemulaʔ 
+vomit: nutaʔ 
+blow: put 
+breath: ŋe-laset 
+breathe: ŋe-laset 
+laugh: petawa 
+laughter: petawa 
+cogitate: pe-kimet 
+reflect: pe-kimet 
+think: pe-kimet 
+smell: m-adek 
+sniff: m-adek 
+afraid: takut 
+be afraid: takut 
+fear: takut 
+fright: takut 
+alive: mudip 
+be alive: mudip 
+life: mudip 
+live: mudip 
+living: mudip 
+hunt: tay masat	ŋ-asu 
+beat: metuŋ 
+hit: metuŋ 
+strike: metuŋ 
+cut: lemutun 
+hack: lemutun 
+cut open: mepéʔ 
+split: mepéʔ 
+pierce: nebek	nemulo 
+stab: nebek	nemulo 
+scratch: ñemayaw 
+dig: mekat 
+stand: nekejeŋ 
+drop: laboʔ 
+fall: laboʔ 
+grasp: eman	seŋ|gem 
+hold: eman	seŋ|gem 
+hold in arm: eman	seŋ|gem 
+squeeze: memen 
+wring: memen 
+throw: nepaleŋ 
+bind: nemeka 
+fasten: nemeka 
+tie: nemeka 
+tie up: nemeka 
+sew: mimum 
+count: pecap 
+enumerate: pecap 
+number: pecap 
+tally: pecap 
+flow: ŋalo 
+lake: bawaŋ 
+ocean: baŋet 
+sea: baŋet 
+dust: abu 
+fog: abun 
+sky: laŋit 
+bad: jaʔet 
+evil: jaʔet 
+rot: madam 
+rotten: madam 
+dirty: mano 
+filthy: mano 
+soiled: mano 
+sharp: ñait 
+blunt: ŋajen 
+damp: basaʔ 
+wet: basaʔ 
+right side: taʔu 
+left: kabiŋ 
+at: kaʔ 
+in: kaʔ dalem 
+inside: kaʔ dalem 
+and: ŋan 
+if: man 

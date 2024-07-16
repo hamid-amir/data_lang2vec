@@ -1,0 +1,294 @@
+all: sapa	taḳi 
+every: sapa	taḳi 
+ash: ḳʰilʸa 
+ashes: ḳʰilʸa 
+big: xačˀa 
+bigness: xačˀa 
+large: xačˀa 
+bird: xamačˀi 
+bite: ačuḳa-ɲa 
+black: čˀiyara 
+blood: wila 
+bone: čˀakʰa 
+breast: ɲuɲu 
+breasts: ɲuɲu 
+cloud: ḳinaya 
+cold: alala	tʰaya 
+come: xuta-ɲa 
+come from: xuta-ɲa 
+be dead: xiwa-ɲa	xiwata 
+dead: xiwa-ɲa	xiwata 
+die: xiwa-ɲa	xiwata 
+dog: anu 
+drink: uma-ɲa 
+dry: waɲa 
+ear: xinču 
+earth: uraḳi 
+ground: uraḳi 
+land: uraḳi 
+soil: uraḳi 
+eat: manḳˀa-ɲa 
+egg: kˀawna 
+eye: nayra 
+feather: pʰuyu 
+fire: nina 
+fish: čawlʸa 
+fly: wiru-ɲa 
+fly v.: wiru-ɲa 
+foot: kayu 
+full: pʰuḳa 
+give: čura-ɲa 
+good: suma 
+green: čˀuχ-ɲa 
+hair: ɲikˀuta 
+hand: ampara 
+left hand: ampara 
+right: ampara 
+head: pˀiḳi 
+hear: istˀa-ɲa 
+heart: lʸuḳu 
+horn: waχra 
+1 sg.: naya 
+I: naya 
+kill: xiwaya-ɲa 
+knee: ḳunḳuri 
+be knowledgeable: yati-ɲa 
+know: yati-ɲa 
+leaf: lapʰi 
+lie: ikintχa-ɲa 
+lie down: ikintχa-ɲa 
+liver: kˀiwča 
+long: waru 
+head louse: lapˀa 
+louse: lapˀa 
+male: čača 
+man: xaḳi 
+many: anča 
+much: anča 
+multiple: anča 
+several: anča 
+flesh: ayča 
+meat: ayča 
+moon: pʰaxsi 
+hill: ḳulʸu 
+mountain: ḳulʸu 
+mouth: laka 
+name: suti 
+title: suti 
+neck: kunka 
+new: mačaḳa 
+night: aruma 
+nighttime: aruma 
+nose: nasa 
+adulterous: maya 
+one: maya 
+single: maya 
+that: maya 
+the: maya 
+unprincipled: maya 
+human: xaḳi 
+human being: xaḳi 
+person: xaḳi 
+rain: xalʸu 
+rainy weather: xalʸu 
+red: čupika 
+root: sapʰi 
+round: muruḳˀu 
+sand: čˀalʸa 
+say: sa-ɲa 
+see: uɲxa-ɲa 
+seed: xatʰa 
+sit: ḳuntˀa-ɲa	ḳunu-ɲa 
+hide: lipˀiči 
+skin: lipˀiči 
+sleep: iki-ɲa 
+little: xiskˀa 
+small: xiskˀa 
+smallness: xiskˀa 
+smoke: xiḳˀi 
+star: wara-wara 
+rock: ḳala	ḳarḳa 
+stone: ḳala	ḳarḳa 
+sun: inti	wilʸka 
+swim: tuyu-ɲa 
+tail: wičˀinkʰa 
+2 sg: xuma 
+thou: xuma 
+you: xuma 
+tongue: laχra 
+tooth: laka čˀakʰa 
+grind: paya 
+two: paya 
+go: sara-ɲa	čilʸḳi-ɲa 
+walk: sara-ɲa	čilʸḳi-ɲa 
+hot: ačʰixu 
+warm: ačʰixu 
+water: uma 
+1 pl. inc.: xiwasa 
+we: xiwasa 
+we₁: xiwasa 
+what: kunasa 
+white: xanḳˀu 
+whiteness: xanḳˀu 
+who: kʰitisa 
+who?: kʰitisa 
+female: warmi 
+woman: warmi 
+yellow: ḳˀilʸu 
+distant: xaya 
+far: xaya 
+dull: xatʰi 
+heavy: xatʰi 
+serious: xatʰi 
+close: xakˀa 
+near: xakˀa 
+ner: xakˀa 
+salt: xayu 
+snake: asiru 
+thin: xučˀusa 
+wind: tʰaya 
+earthworm: silʸḳˀu 
+worm: silʸḳˀu 
+year: mara 
+2 pl.: xumamaka 
+ye: xumamaka 
+you all: xumamaka 
+3 pl.: xupanaka 
+they: xupanaka 
+where: kawkinsa 
+where?: kawkinsa 
+when: kunarsa 
+when?: kunarsa 
+how: kumasa 
+how?: kumasa 
+some: walkʰa 
+few: xukˀa 
+three: kimsa	quimsa 
+four: pusi 
+five: phesqa	pʰisḳa 
+fat: tʰuru 
+thick: tʰuru 
+narrow: pˀisi 
+child: wawa 
+principal wife: warmi 
+wife: warmi 
+husband: čača 
+his mother: mama	tayka 
+mother: mama	tayka 
+my mother: mama	tayka 
+father: awki	tata 
+his father: awki	tata 
+my father: awki	tata 
+animal: uywa 
+forest: čˀumi 
+woods: čˀumi 
+branch: laymi 
+stick: laymi 
+fruit: muχsaaču 
+flower: panḳara 
+grass: ḳura 
+cord: wiska 
+rope: wiska 
+claw: silʸu 
+fingernail: silʸu 
+nail: silʸu 
+leg: čara 
+wing: čʰiḳʰa 
+gut: xipʰilʸa 
+guts: xipʰilʸa 
+insides: xipʰilʸa 
+intestine: xipʰilʸa 
+intestines: xipʰilʸa 
+back: ati 
+suck: čˀamu-ɲa 
+spit: tʰusa-ɲa 
+vomit: waḳˀaḳi-ɲa 
+blow: pʰusa-ɲa 
+laugh: laru-ɲa 
+laughter: laru-ɲa 
+cogitate: lupˀi-ɲa 
+reflect: lupˀi-ɲa 
+think: lupˀi-ɲa 
+afraid: aχsara-ɲa 
+be afraid: aχsara-ɲa 
+fear: aχsara-ɲa 
+fright: aχsara-ɲa 
+alive: xaka-ɲa 
+be alive: xaka-ɲa 
+life: xaka-ɲa 
+live: xaka-ɲa 
+living: xaka-ɲa 
+fight: nuwasi-ɲa 
+hunt: katu-ɲa 
+beat: liḳˀi-ɲa 
+hit: liḳˀi-ɲa 
+strike: liḳˀi-ɲa 
+cut: kʰarxa-ɲa	kʰučxa-ɲa 
+hack: kʰarxa-ɲa	kʰučxa-ɲa 
+cut open: xalxa-ɲa 
+split: xalxa-ɲa 
+dig: pʰatˀsu-ɲa 
+tell lies: kˀarisi-ɲa 
+stand: saytˀa-ɲa 
+turn: xaḳukipa-ɲa 
+turn around: xaḳukipa-ɲa 
+turn round: xaḳukipa-ɲa 
+drop: tinku-ɲa 
+fall: tinku-ɲa 
+squeeze: ḳˀaptʰapi-ɲa 
+wring: ḳˀaptʰapi-ɲa 
+rub: ḳaḳu-ɲa 
+wipe: ḳaḳu-ɲa 
+wash: xari-ɲa 
+wash clothes: xari-ɲa 
+push: nukʰu-ɲa 
+shove: nukʰu-ɲa 
+throw: warta-ɲa 
+bind: ɲačˀa-ɲa 
+fasten: ɲačˀa-ɲa 
+tie: ɲačˀa-ɲa 
+tie up: ɲačˀa-ɲa 
+sew: čˀuku-ɲa 
+count: wakʰu-ɲa	xakʰu-ɲa 
+enumerate: wakʰu-ɲa	xakʰu-ɲa 
+number: wakʰu-ɲa	xakʰu-ɲa 
+tally: wakʰu-ɲa	xakʰu-ɲa 
+sing: xaylʸi-ɲa 
+have fun: anata-ɲa 
+play: anata-ɲa 
+float: tuyu-ɲa 
+flow: xala-ɲa 
+brook: xawira 
+river: xawira 
+stream: xawira 
+lake: ḳuta 
+ocean: lamara 
+sea: lamara 
+dust: laḳˀa 
+fog: urpu 
+sky: alax-pača	laḳampu 
+snow: kʰunu 
+ice: čʰulʸunkʰiya 
+blaze: nakʰaɲa 
+burn: nakʰaɲa 
+day: uru 
+daylight: uru 
+daytime: uru 
+bad: ḳʰuru 
+evil: ḳʰuru 
+rot: ɲusata 
+rotten: ɲusata 
+dirty: ḳˀaɲu 
+filthy: ḳˀaɲu 
+soiled: ḳˀaɲu 
+straight: čiḳa	čiḳpa 
+sharp: ari 
+smooth: ḳuɲa 
+damp: čˀarana 
+wet: čˀarana 
+correct: čiḳa 
+right side: kupi 
+left: čˀiḳa 
+in: manḳʰa 
+inside: manḳʰa 
+and: -mpi 

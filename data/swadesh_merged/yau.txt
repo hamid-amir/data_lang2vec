@@ -1,0 +1,299 @@
+all: bwekʸa atei	bwekʸato	bwekʸatɨ 
+every: bwekʸa atei	bwekʸato	bwekʸatɨ 
+ash: ilẽho 
+ashes: ilẽho 
+bark: toto 
+big: uli 
+bigness: uli 
+large: uli 
+bird: iʰte 
+bite: a yẽɨ 
+black: waleiʰte 
+blood: hkw$o	kw3	ʰkʷo 
+bone: wa*wa*	wawa	wãwã 
+breast: be*wa*	mewa	ote	oteko 
+breasts: be*wa*	mewa	ote	oteko 
+claw: bõ ʰteʰla 
+nail: bõ ʰteʰla 
+talon: bõ ʰteʰla 
+cloud: bĩʰtu 
+cold: ʰkẽhõ 
+come: hl~u	ly~waite	ʰlu 
+come from: hl~u	ly~waite	ʰlu 
+be dead: bi*yeli	bĩyeli	kaly~uti 
+dead: bi*yeli	bĩyeli	kaly~uti 
+die: bi*yeli	bĩyeli	kaly~uti 
+dog: yewi 
+drink: woi	woite 
+dry: ʰkai 
+ear: ole*ka	oly~eka	olẽka 
+earth: ʰkʸo 
+ground: ʰkʸo 
+land: ʰkʸo 
+soil: ʰkʸo 
+eat: ʰkʷõ 
+egg: ɨke 
+eye: bule	muahtu 
+feather: ɨko 
+fire: hk~ule	kulya	ʰkule 
+fish: bo*ht~o*	bõʰtõ	mohto 
+fly: bõwe	ʰkeleibilĩ 
+fly v.: bõwe	ʰkeleibilĩ 
+foot: bẽʰlã 
+full: a bi*	a bĩ	ami 
+give: ʰka-ʰtɨ 
+good: bũʰkete 
+green: lũʰtibo 
+hair: ɨko 
+hand: bo*	bõ	m3wahwa 
+left hand: bo*	bõ	m3wahwa 
+right: bo*	bõ	m3wahwa 
+head: ʰtu 
+hear: a*ku	anku	ãku 
+heart: ʰkʷo hu 
+horn: ht~u ih~ti	xxx	ʰtu iʰti 
+1 sg.: hy~e	ya	ʰye 
+I: hy~e	ya	ʰye 
+kill: ʰkʷã lĩlĩ 
+knee: be*ko	bẽko	meko 
+be knowledgeable: ãku 
+know: ãku 
+leaf: hya	hy~a	ʰya 
+lie: ʰyali 
+lie down: ʰyali 
+liver: oteko	otete 
+long: ʰtabɨ̃ 
+head louse: ho*ho*	hõhõ	tukwai 
+louse: ho*ho*	hõhõ	tukwai 
+male: bãli 
+man: ho	hwod3 
+many: yã aiwa atei	yã aiwa to	yã ʼaiʰyatɨ 
+much: yã aiwa atei	yã aiwa to	yã ʼaiʰyatɨ 
+multiple: yã aiwa atei	yã aiwa to	yã ʼaiʰyatɨ 
+several: yã aiwa atei	yã aiwa to	yã ʼaiʰyatɨ 
+flesh: ilẽhai 
+meat: ilẽhai 
+moon: abĩyẽ 
+hill: ile*wa*	ilẽwã	inawa 
+mountain: ile*wa*	ilẽwã	inawa 
+name: k3hawa 
+title: k3hawa 
+neck: ʰkʷã ʰwɨ 
+new: baihya 
+night: ht~ihkw$etohkw$a	tikw3to	ʰtiʰkʷeto-ʰkʷa 
+nighttime: ht~ihkw$etohkw$a	tikw3to	ʰtiʰkʷeto-ʰkʷa 
+nose: 5io	i*yo*	ĩyõ 
+adulterous: hoteya	ht~iteky~a	yatoa	ya’toa 
+one: hoteya	ht~iteky~a	yatoa	ya’toa 
+single: hoteya	ht~iteky~a	yatoa	ya’toa 
+that: hoteya	ht~iteky~a	yatoa	ya’toa 
+the: hoteya	ht~iteky~a	yatoa	ya’toa 
+unprincipled: hoteya	ht~iteky~a	yatoa	ya’toa 
+human: ho	hwod3 
+human being: ho	hwod3 
+person: ho	hwod3 
+red: tuwẽlõ 
+path: ba*la*	mala	mana 
+road: ba*la*	mala	mana 
+route: ba*la*	mala	mana 
+root: ʰlaʰla 
+round: libute 
+sand: ʰkabaʰyu 
+say: ũtɨ 
+see: we	weteta 
+sit: towã 
+hide: he-toto	hetoto 
+skin: he-toto	hetoto 
+sleep: abuwi 
+little: halĩ 
+small: halĩ 
+smallness: halĩ 
+smoke: ʰkule bĩʰtu 
+star: ated3	atet3ha*	atetɨhã 
+rock: iht3	iht~o	iʰto 
+stone: iht3	iht~o	iʰto 
+sun: ht~ile*wa*	ti5ewa	ʰtilẽwã 
+swim: ʰkʷei-ai 
+tail: ilẽlã buke 
+2 sg: hk~e	ka	ʰke 
+thou: hk~e	ka	ʰke 
+you: hk~e	ka	ʰke 
+tongue: ale*le*	aly~ely~e	alẽlẽ 
+tooth: hk~u	uhku	ʰku 
+tree: ht~aw3	taw 
+grind: hwekyat3	hw~eky~ato	i hweka’ti	ʰwekʸa atei	ʰwekʸato	ʰwekʸatɨ 
+two: hwekyat3	hw~eky~ato	i hweka’ti	ʰwekʸa atei	ʰwekʸato	ʰwekʸatɨ 
+go: bɨke ũ 
+walk: bɨke ũ 
+hot: halĩwalã ʰtuweʰto 
+warm: halĩwalã ʰtuweʰto 
+water: au 
+1 pl. inc.: hy~e	hy~et3	tute	ʰye	ʰyetɨ 
+we: hy~e	hy~et3	tute	ʰye	ʰyetɨ 
+we₁: hy~e	hy~et3	tute	ʰye	ʰyetɨ 
+what: hibɨ 
+white: kʸabo 
+whiteness: kʸabo 
+who: ʰwoiyu	ʰwẽya 
+who?: ʰwoiyu	ʰwẽya 
+female: ãu 
+woman: ãu 
+yellow: kʸabo	tuwẽlõ 
+distant: yã ʰtoʰto 
+far: yã ʰtoʰto 
+dull: ʼbẽkito 
+heavy: ʼbẽkito 
+serious: ʼbẽkito 
+close: habẽilã 
+near: habẽilã 
+ner: habẽilã 
+salt: ʰyowã 
+short: aliʰkʷete 
+snake: iʰkʷo 
+thin: lãlẽ 
+wind: ʰkʸo 
+earthworm: ʰlẽi-ʰlõhã 
+worm: ʰlẽi-ʰlõhã 
+2 pl.: ʰke	ʰketɨ 
+ye: ʰke	ʰketɨ 
+you all: ʰke	ʰketɨ 
+3 pl.: hatiʼte	ʰkʸe 
+they: hatiʼte	ʰkʸe 
+where: ʼʰtebolã 
+where?: ʼʰtebolã 
+when: -tolã 
+when?: -tolã 
+how: hibɨ 
+how?: hibɨ 
+some: ʰwekʸa atei	ʰwekʸato	ʰwekʸatɨ 
+few: ʰwekʸa atei	ʰwekʸato	ʰwekʸatɨ 
+three: hweya’ti	ʰwekʸa atei	ʰwekʸato	ʰwekʸatɨ 
+four: aiha’ti	aiwa atei	aiwa to	ʼaiʰyatɨ 
+five: aiwa atei	aiwa to	ʼaiʰyatɨ 
+broad: bahtu 
+wide: bahtu 
+wideness: bahtu 
+fat: ʰkalawa 
+thick: bahtu 
+narrow: lãlẽ 
+child: hãli hã 
+principal wife: hayu	ʰlu 
+wife: hayu	ʰlu 
+husband: bãli 
+his mother: abã 
+mother: abã 
+my mother: abã 
+father: ai	ʰlai 
+his father: ai	ʰlai 
+my father: ai	ʰlai 
+animal: hã 
+forest: ʼyelito 
+woods: ʼyelito 
+branch: wãwã 
+stick: wãwã 
+fruit: atei	hu	tale 
+flower: bu 
+grass: ʼʰkʸẽlõ 
+cord: hu 
+rope: hu 
+grease: ʰkalawa 
+fingernail: ʰteʰla heʰta 
+leg: bẽʰlã 
+wing: bɨ̃au bɨ̃ʼeho 
+gut: ikʸo-ʰkʷa 
+guts: ikʸo-ʰkʷa 
+insides: ikʸo-ʰkʷa 
+intestine: ikʸo-ʰkʷa 
+intestines: ikʸo-ʰkʷa 
+back: ʰwɨ 
+suck: ʰluʰluwe 
+spit: hulebe 
+vomit: ʼʰteʰke 
+blow: hu	ʰkʸo ʰweɨ 
+breath: bẽyabekɨ 
+breathe: bẽyabekɨ 
+laugh: awokɨ 
+laughter: awokɨ 
+smell: bĩkĩwe 
+sniff: bĩkĩwe 
+afraid: itiwɨ 
+be afraid: itiwɨ 
+fear: itiwɨ 
+fright: itiwɨ 
+alive: ʼhoa bẽɨ 
+be alive: ʼhoa bẽɨ 
+life: ʼhoa bẽɨ 
+live: ʼhoa bẽɨ 
+living: ʼhoa bẽɨ 
+fight: ʰwau-ʼe 
+hunt: yewo-lɨ̃ toʰkʷe	ʰkʷayolɨ̃ huʰkʷe 
+beat: ʰwau 
+hit: ʰwau 
+strike: ʰwau 
+cut: ʰkʷai 
+hack: ʰkʷai 
+cut open: ʰkeɨ 
+split: ʰkeɨ 
+pierce: to-ʰkʷe 
+stab: to-ʰkʷe 
+dig: hu 
+tell lies: ĩlã ũ 
+stand: wã 
+turn: ʰka-bãlãlĩ 
+turn around: ʰka-bãlãlĩ 
+turn round: ʰka-bãlãlĩ 
+drop: ʰwi 
+fall: ʰwi 
+grasp: ʰtilẽ 
+hold: ʰtilẽ 
+hold in arm: ʰtilẽ 
+squeeze: bãlãtɨ eʰlowabei 
+wring: bãlãtɨ eʰlowabei 
+rub: ʰweɨ tuwi 
+wipe: ʰweɨ tuwi 
+wash: au tɨlɨ 
+wash clothes: au tɨlɨ 
+push: ʰyatɨ-ũ	ʰyatɨ-ʰkʷei 
+shove: ʰyatɨ-ũ	ʰyatɨ-ʰkʷei 
+throw: ʰka-lũ 
+bind: alɨ̃tɨ 
+fasten: alɨ̃tɨ 
+tie: alɨ̃tɨ 
+tie up: alɨ̃tɨ 
+sew: teɨ 
+sing: hobei 
+have fun: ahweo 
+play: ahweo 
+float: ʰka-wãlã 
+flow: helou 
+brook: heto 
+river: heto 
+stream: heto 
+lake: bãbo 
+dust: ʰlẽi 
+fog: bĩʰtu 
+sky: ʰkʸo 
+ice: ikʸeka au 
+blaze: ʰtɨlɨ 
+burn: ʰtɨlɨ 
+day: ʰkʸato 
+daylight: ʰkʸato 
+daytime: ʰkʸato 
+bad: yã-hai	yã-hã 
+evil: yã-hai	yã-hã 
+rot: wali-bu 
+rotten: wali-bu 
+dirty: waleiʰte 
+filthy: waleiʰte 
+soiled: waleiʰte 
+straight: ʰtɨboikʸa 
+sharp: aʰkuweʼte 
+blunt: ʰkuʰtai 
+smooth: ʰteiʰteiwa 
+damp: ʰkʷata 
+wet: ʰkʷata 
+correct: ʰtɨboiʰya 
+in: -ʰkʷa 
+inside: -ʰkʷa 
+if: -tolã 
+because: -ĩbɨ 

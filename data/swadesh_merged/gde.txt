@@ -1,0 +1,133 @@
+all: pát 
+every: pát 
+ash: ǹtúɗáká 
+ashes: ǹtúɗáká 
+bark: bàʔákí	àrbìbɩ́n 
+big: màɗùnɨ́kí 
+bigness: màɗùnɨ́kí 
+large: màɗùnɨ́kí 
+bird: ʔɨ̀gìná 
+bite: ʔɩ̀gɩč 
+black: màndúkí	ńdɨ́dùm 
+blood: idina	ʔɩ̀dɩ̀ná 
+bone: ila	ʔɩ̀llá 
+breast: wan	ʔwán 
+breasts: wan	ʔwán 
+cloud: kúráɓín	mɨ́dàŋkàyə́ 
+cold: ʔɨ̀rrá 
+come: Si	šɩč 
+come from: Si	šɩč 
+be dead: Nk~i	ŋkɩč 
+dead: Nk~i	ŋkɩč 
+die: Nk~i	ŋkɩč 
+dog: 3da	ʔɨ̀ddá 
+drink: Si	sîč 
+ear: limin	lɩ̀mɩ́n 
+earth: xàɲɩ́n 
+ground: xàɲɩ́n 
+land: xàɲɩ́n 
+soil: xàɲɩ́n 
+eat: ʔàgɩč 
+egg: ʔálɩ́n 
+eye: gin	gɩ́n 
+fire: gw~un	gwún 
+fish: xurfin	xúrrfɩ̀n 
+give: vɩč 
+good: ŋ̀gáʔ 
+green: nìɗɨ́nìdá	nɨ̀ɗɨ́nɨ̀dá 
+hair: šɩ́ŋkɩ́n 
+head: ná 
+hear: fi	fɩč 
+heart: mɔ́ɗúfà 
+horn: mapa	mápá 
+kill: ɓɨ̀lɨgɩ̀č 
+knee: ida	ʔìdá 
+be knowledgeable: šíč	šíčà 
+know: šíč	šíčà 
+leaf: ba7	báʔ 
+lie: bač 
+lie down: bač 
+liver: vurSin	vùrršɩ́n 
+long: màgɨ̀rrkí 
+head louse: juNk~ara 
+louse: juNk~ara 
+male: ŋ̀gúrá 
+man: nda	ǹdá 
+many: láŋ	ŋgáŋgà	ɓòzúš 
+much: láŋ	ŋgáŋgà	ɓòzúš 
+multiple: láŋ	ŋgáŋgà	ɓòzúš 
+several: láŋ	ŋgáŋgà	ɓòzúš 
+flesh: lùwá 
+meat: lùwá 
+moon: lɩ̀gìɗá 
+hill: gy~iNw~a	gyɩ́ŋwà 
+mountain: gy~iNw~a	gyɩ́ŋwà 
+mouth: má 
+name: l3ma	lɨ̀má 
+title: l3ma	lɨ̀má 
+neck: ùrá 
+new: kuraki	kúrákí 
+night: davuda	dávùɗ	dávùɗá	vuda	vùɗá 
+nighttime: davuda	dávùɗ	dávùɗá	vuda	vùɗá 
+nose: Sin37	šìnə́ʔ 
+adulterous: tan	tân 
+one: tan	tân 
+single: tan	tân 
+that: ʔə̀ttá 
+the: tan	tân 
+unprincipled: tan	tân 
+human: nda	ǹdá 
+human being: nda	ǹdá 
+person: nda	ǹdá 
+red: dɩ́z	ndɨ́ɓɨ̀z 
+path: rugw~a 
+road: rugw~a 
+route: rugw~a 
+sand: mánzɩ́n 
+say: mánzɩ́n 
+see: nEi	nɛ̀ɩč 
+seed: ɬɩ́kúrrn 
+sit: nzàč 
+hide: kuvu7un	kúvúʔún 
+skin: kuvu7un	kúvúʔún 
+sleep: ŋwùŋyɩ́n 
+little: màgìʔúš	ʔùnzúkí 
+small: màgìʔúš	ʔùnzúkí 
+smallness: màgìʔúš	ʔùnzúkí 
+smoke: màkèrɩ́n 
+star: t3kisa	tɨ́kísá 
+rock: fara	fárà 
+stone: fara	fárà 
+sun: gad3gy~i	usura	ʔùsúrá 
+tail: gə̀žá 
+this: ʔùnná	ʔùtsá 
+tongue: g3na	gə̀ná 
+tooth: liNin	lìŋɩ́n 
+tree: uNfw~a 
+grind: bra	bray	brá	bráy 
+two: bra	bray	brá	bráy 
+water: ma7in	máɩ̀n 
+what: m̀yá 
+white: m̀bwə́dádà 
+whiteness: m̀bwə́dádà 
+who: wà 
+who?: wà 
+female: mɩ́n 
+woman: mɩ́n 
+yellow: šɩ́šɩ́má-šɩ́šɩ́má 
+distant: dzáɗ 
+far: dzáɗ 
+dull: zɨ́zɨ̀k 
+heavy: zɨ́zɨ̀k 
+serious: zɨ́zɨ̀k 
+close: kɨ̀dɨ́x 
+near: kɨ̀dɨ́x 
+ner: kɨ̀dɨ́x 
+salt: žàtàná 
+short: gwús	màgwùskí 
+snake: rrúxún 
+thin: ɬáx 
+wind: mɨ́ɗá 
+earthworm: gɩ́ɗà	kàntúxúɗà	kàtúxúɗà	zòzɩɑnə́ 
+worm: gɩ́ɗà	kàntúxúɗà	kàtúxúɗà	zòzɩɑnə́ 
+year: fùzá 

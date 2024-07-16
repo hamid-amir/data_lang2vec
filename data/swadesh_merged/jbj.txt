@@ -1,0 +1,606 @@
+and: baru 
+arm: n-omboro 
+arm: obora 
+arm: ombori 
+arm: ómboro 
+arm: y-obora 
+arrow: kepena 
+ashes: botanomo | botanomo	botáno	botáno-mo 
+ashes: botáno(-mo) | botanomo	botáno	botáno-mo 
+ashes: udebi | botanomo	botáno	botáno-mo 
+ashes: u-debi | botanomo	botáno	botáno-mo 
+back: natipam 
+back: na-tipám 
+back: natipam toke 
+bad: wakori 
+bad: wákori 
+belly: akotena | na-koténe	nakotene 
+belly: kotena | na-koténe	nakotene 
+belly: nakotene | na-koténe	nakotene 
+belly: na-koténe | na-koténe	nakotene 
+big: atarae | atarae	ataráe 
+big: ataráe | atarae	ataráe 
+big: tinania | atarae	ataráe 
+bird: durewo | kaneno	kanéno 
+bird: kaneno | kaneno	kanéno 
+bird: kanéno | kaneno	kanéno 
+bird: kanenumo | kaneno	kanéno 
+bird: kenenu | kaneno	kanéno 
+bird: maniko | kaneno	kanéno 
+black: ibiti | ibiti	ribi-	ribí- 
+black: kibetia | ibiti	ribi-	ribí- 
+black: kibita | ibiti	ribi-	ribí- 
+black: ribi- | ibiti	ribi-	ribí- 
+black: ribí- | ibiti	ribi-	ribí- 
+blood: amata | apato	apáto damir	damir 
+blood: apata | apato	apáto damir	damir 
+blood: apato | apato	apáto damir	damir 
+blood: apáto damir | apato	apáto damir	damir 
+blood: apatomo | apato	apáto damir	damir 
+blood: apato-mo | apato	apáto damir	damir 
+blood: damir | apato	apáto damir	damir 
+blow: depu- 
+bone: kota | toke	tokeige	toké	tokéige 
+bone: toka | toke	tokeige	toké	tokéige 
+bone: tokaya | toke	tokeige	toké	tokéige 
+bone: toka(ya) | toke	tokeige	toké	tokéige 
+bone: toke | toke	tokeige	toké	tokéige 
+bone: tokeige | toke	tokeige	toké	tokéige 
+bone: toké(ige) | toke	tokeige	toké	tokéige 
+boy: akot rabin 
+boy: akót rabín 
+branch: metange 
+branch: metánge 
+breast: didu | dudo	dudó 
+breast: dudo | dudo	dudó 
+breast: dudó | dudo	dudó 
+brother: kombir 
+brother: kombír 
+brother: nani rabin 
+brother: náni rabín 
+burn: bobe- 
+burn: bubuelea 
+burn: kei- 
+burn: tarai 
+butterfly: mokakalo 
+butterfly: mokakaro 
+butterfly: mumuo 
+butterfly: múmuo 
+calf: notor imban 
+calf: notór imbán 
+cassowary: woríbo 
+chest: kambete 
+chest: kámbete 
+cloud: amana | amanabo kaite	amanábo káite 
+cloud: amanabo kaite | amanabo kaite	amanábo káite 
+cloud: amanábo káite | amanabo kaite	amanábo káite 
+cloud: amana-kate | amanabo kaite	amanábo káite 
+cold: lobokobaia | tiga	tiga-	tiga-tigáe 
+cold: tiga- | tiga	tiga-	tiga-tigáe 
+cold: tiga(-tigáe) | tiga	tiga-	tiga-tigáe 
+cold: tigatigaia | tiga	tiga-	tiga-tigáe 
+cold: tigatigaya | tiga	tiga-	tiga-tigáe 
+cold: tiga-tigaya | tiga	tiga-	tiga-tigáe 
+come: amia | mo	mo-	momae 
+come: amia (?) | mo	mo-	momae 
+come: ma-kabe | mo	mo-	momae 
+come: mo- | mo	mo-	momae 
+come: mo-e | mo	mo-	momae 
+come: momae | mo	mo-	momae 
+crocodile: tayade 
+crocodile: tayáde 
+day: ambintano 
+day: ambintáno 
+die: dimea | tau	tau- 
+die: tau- | tau	tau- 
+dog: dabore | dabore	dabóre 
+dog: dabóre | dabore	dabóre 
+drink: u- | u	u- 
+dry: melea | raraga- 
+dry: raraga- 
+dry: welea | raraga- 
+dry: werea | raraga- 
+ear: e-kelo | na-kerá	nakera 
+ear: e-kola | na-kerá	nakera 
+ear: nakera | na-kerá	nakera 
+ear: na-kerá | na-kerá	nakera 
+earth: boð | wo 
+earth: bodh | wo 
+earth: kabilo | wo 
+earth: kedhú | wo 
+earth: keðu | wo 
+earth: kereia | wo 
+earth: kereka | wo 
+earth: kereya | wo 
+earth: wíririé | wo 
+earth: wo 
+ear: yakera | na-kerá	nakera 
+ear: ya-kera | na-kerá	nakera 
+eat: naru- | naru-	ni- 
+eat: ni- | naru-	ni- 
+egg: ku | ku	kúo 
+egg: kúo | ku	kúo 
+egg: ukomo | ku	kúo 
+egg: uku-mo | ku	kúo 
+egg: uku(-mo) | ku	kúo 
+elbow: netugedo 
+elbow: ne-túgedo 
+emu: woribo 
+excrement: káyto 
+eye: amaga | i-mekan	imekan	na-emáɣo	naemago 
+eye: emage | i-mekan	imekan	na-emáɣo	naemago 
+eye: emagho | i-mekan	imekan	na-emáɣo	naemago 
+eye: emago | i-mekan	imekan	na-emáɣo	naemago 
+eye: imekan | i-mekan	imekan	na-emáɣo	naemago 
+eye: i-mekan | i-mekan	imekan	na-emáɣo	naemago 
+eye: na-emágho | i-mekan	imekan	na-emáɣo	naemago 
+eye: naemago | i-mekan	imekan	na-emáɣo	naemago 
+father: áet 
+fat (n.): gewa 
+fat (n.): kota 
+fat (n.): taboka 
+feather: kalalo-kaneno | kararo	kararó 
+feather: karara-maniko-mo | kararo	kararó 
+feather: kararo | kararo	kararó 
+feather: kararó | kararo	kararó 
+finger: memeŋgo 
+fingernail: nekepatiko 
+fingernail: nekeponiku 
+fingernail: no-mbometi 
+fingernail: obalaniku 
+fingernail: ombo-m-eti 
+fingernail: yekepa 
+finger: nombo 
+finger: no-mbo me-menggó 
+fire: ineta | inete	ineti	inéti 
+fire: inete | inete	ineti	inéti 
+fire: ineti | inete	ineti	inéti 
+fire: inéti | inete	ineti	inéti 
+fire: udebi | inete	ineti	inéti 
+fish: konaminia | taembake	taembáke 
+fish: kunamini | taembake	taembáke 
+fish: taembake | taembake	taembáke 
+fish: taembáke | taembake	taembáke 
+fish: uto | taembake	taembáke 
+five: radi 
+five: rádi 
+fly (n.): aleda 
+fly (n.): bowrae 
+fly (n.): kalalenu 
+fly (n.): karareno 
+fly (n.): kararéno 
+fly (n.): kararenu 
+fly (v.): diae 
+fly (v.): iao 
+fly (v.): ye- 
+foot: notor aŋgane | footʼ	notoru	otore	otóru 
+foot: notoru | footʼ	notoru	otore	otóru 
+foot: otola | footʼ	notoru	otore	otóru 
+foot: otora | footʼ	notoru	otore	otóru 
+foot: ótor anggáne | footʼ	notoru	otore	otóru 
+foot: otore | footʼ	notoru	otore	otóru 
+foot: otóru | footʼ	notoru	otore	otóru 
+four: idati 
+four: idáti 
+fruit: buko 
+fruit: bukó 
+give: hamema | me-	nameme 
+give: me- | me-	nameme 
+give: mebe | me-	nameme 
+give: nabe | me-	nameme 
+give: nameme | me-	nameme 
+give: yabe | me-	nameme 
+good: ininggei | iniŋgei	niŋge	niŋgé 
+good: iniŋgei | iniŋgei	niŋge	niŋgé 
+good: nigei | iniŋgei	niŋge	niŋgé 
+good: nigeia | iniŋgei	niŋge	niŋgé 
+good: niŋge | iniŋgei	niŋge	niŋgé 
+good: ninggé | iniŋgei	niŋge	niŋgé 
+green: ididilia 
+green: ididiria 
+hair: atunu | -tuno	n-ákab-atúno	warar 
+hair: karar | -tuno	n-ákab-atúno	warar 
+hair: karár | -tuno	n-ákab-atúno	warar 
+hair: n-ákab-atúno | -tuno	n-ákab-atúno	warar 
+hair: -tuno | -tuno	n-ákab-atúno	warar 
+hair: warar | -tuno	n-ákab-atúno	warar 
+hair: watunu(-mo) | -tuno	n-ákab-atúno	warar 
+hair: watunu(mo) | -tuno	n-ákab-atúno	warar 
+hand: n-omboro | handʼ	n-omboro	nomboro	ombori	ómboro 
+hand: obola | handʼ	n-omboro	nomboro	ombori	ómboro 
+hand: obora | handʼ	n-omboro	nomboro	ombori	ómboro 
+hand: ombori | handʼ	n-omboro	nomboro	ombori	ómboro 
+hand: ómboro | handʼ	n-omboro	nomboro	ombori	ómboro 
+hand: y-obora | handʼ	n-omboro	nomboro	ombori	ómboro 
+head: akab | akab	akáb	akábe	naːkabe 
+head: akaba | akab	akáb	akábe	naːkabe 
+head: akáb(e) | akab	akáb	akábe	naːkabe 
+head: akaboya | akab	akáb	akábe	naːkabe 
+head: akabo(ya) | akab	akáb	akábe	naːkabe 
+head: naːkabe | akab	akáb	akábe	naːkabe 
+head: nakabo | akab	akáb	akábe	naːkabe 
+hear: tobo- 
+hear: tobu 
+heavy: aramani | aramani	aramáni 
+heavy: aramáni | aramani	aramáni 
+here: miro 
+here: ʔmiro 
+here: ugeage 
+here: ugéage (?) 
+he/she: igela 
+he/she: maniago 
+he/she: mani-ágo 
+he/she: naiti 
+he/she: uma 
+house: keine 
+house: titar 
+house: títar 
+I: neiga | ne-ndi	nendi	neŋtigo 
+I: ne-iga | ne-ndi	nendi	neŋtigo 
+I: nendi | ne-ndi	nendi	neŋtigo 
+I: ne-ndi | ne-ndi	nendi	neŋtigo 
+I: neŋtigo | ne-ndi	nendi	neŋtigo 
+I: neygo | ne-ndi	nendi	neŋtigo 
+I: n-éygo | ne-ndi	nendi	neŋtigo 
+kill: taupu- 
+knee: nopine kap | nopine kap	opíne kap 
+knee: notora kawa | nopine kap	opíne kap 
+knee: obenika | nopine kap	opíne kap 
+knee: omi | nopine kap	opíne kap 
+knee: omiani | nopine kap	opíne kap 
+knee: opania | nopine kap	opíne kap 
+knee: opianu | nopine kap	opíne kap 
+knee: opíne kap | nopine kap	opíne kap 
+knee: otora-kawa | nopine kap	opíne kap 
+laugh: aratia- 
+laugh: arátia- 
+leaf: bánggo | baNgo	baŋgo	báŋgo 
+leaf: baŋgo | baNgo	baŋgo	báŋgo 
+leaf: nonia | baNgo	baŋgo	báŋgo 
+leaf: otirero | baNgo	baŋgo	báŋgo 
+leg: n-otoru 
+leg: otora 
+leg: otore 
+leg: otóru 
+long: ekaboi | ekambe	ekámbe 
+long: ekaboia | ekambe	ekámbe 
+long: ekambe | ekambe	ekámbe 
+long: ekámbe | ekambe	ekámbe 
+louse: kono 
+louse: kóno | kono 
+man: alotunia | danet	dánetʔdambándo 
+man: nabinia | danet	dánetʔdambándo 
+man: nubidomo | danet	dánetʔdambándo 
+man: nubido(mo) | danet	dánetʔdambándo 
+man: rabini | danet	dánetʔdambándo 
+many: kakamori | kakamori	kakamóri 
+many: kakamóri | kakamori	kakamóri 
+many: kaparaga | kakamori	kakamóri 
+many: udumia | kakamori	kakamóri 
+meat: babuki | fleshʼ ɳ	iŋgibuke	iŋgí-buké 
+meat: babukia | fleshʼ ɳ	iŋgibuke	iŋgí-buké 
+meat: iŋgibuke | fleshʼ ɳ	iŋgibuke	iŋgí-buké 
+meat: inggí-buké | fleshʼ ɳ	iŋgibuke	iŋgí-buké 
+moon: puluno | purino	puríno 
+moon: purino | purino	puríno 
+moon: puríno | purino	puríno 
+moon: purunu | purino	puríno 
+morning: medamo 
+morning: medamó 
+mosquito: kenamo 
+mosquito: kikibino 
+mosquito: kikibíno 
+mosquito: tibimalo 
+mother: yae 
+mountain: keini 
+mountain: tilio | keini 
+mountain: tiro | keini 
+mouth: anggane | aŋgane	naŋgane 
+mouth: etado | aŋgane	naŋgane 
+mouth: etadomo | aŋgane	naŋgane 
+mouth: etado-mo | aŋgane	naŋgane 
+mouth: naŋgane | aŋgane	naŋgane 
+mouth: otato | aŋgane	naŋgane 
+name: anai | anaide 
+name: anaia | anaide 
+name: anaide 
+navel: notae 
+navel: notáe 
+neck: j-otatajo 
+neck: otata 
+new: boiti | boyti	bóyti 
+new: boitia | boyti	bóyti 
+new: boituma | boyti	bóyti 
+new: boyti | boyti	bóyti 
+new: bóyti | boyti	bóyti 
+night: ewate 
+night: ititia | ewate 
+night: parierea | ewate 
+night: patieleo | ewate 
+night: patierea | ewate 
+nose: eyala | naindare	índare 
+nose: eyara | naindare	índare 
+nose: índare | naindare	índare 
+not: anda | anda	andá	menai 
+not: andá | anda	andá	menai 
+not: menai | anda	andá	menai 
+old: togoy 
+one: onate 
+one: onati | onate 
+one: onatia | onate 
+one: onati(a) | onate 
+person: danet | danet	dánetʔdambándo 
+person: dánet/dambándo | danet	dánetʔdambándo 
+rain: manina | uraŋge	uráŋge 
+rain: mánina | uraŋge	uráŋge 
+rain: ulagaya | uraŋge	uráŋge 
+rain: urángge | uraŋge	uráŋge 
+rain: uraŋge | uraŋge	uráŋge 
+rat: erebene 
+red: mukulia | mukuro	múkuro 
+red: mukuro | mukuro	múkuro 
+red: múkuro | mukuro	múkuro 
+river: eyabe 
+river: eyábe 
+road: ami 
+road: morai 
+road: moroi 
+road: omoi 
+road: (t)arate 
+root: ogato | utaro	utaro-mo	utaromo 
+root: ogatu | utaro	utaro-mo	utaromo 
+root: udaraya | utaro	utaro-mo	utaromo 
+root: utaro(-mo) | utaro	utaro-mo	utaromo 
+root: utaro(mo) | utaro	utaro-mo	utaromo 
+rope: akur 
+rope: warate 
+sand: kanebaka | kindai	kindái 
+sand: kebara | kindai	kindái 
+sand: kindai | kindai	kindái 
+sand: kindái | kindai	kindái 
+sand: mutao | kindai	kindái 
+sand: rebini | kindai	kindái 
+sea: daŋgamo 
+sea: tawake 
+sea: tawáke 
+seed: benai 
+seed: bunai 
+see: ete- | iti	iti-	iti-me 
+see: ete-ai | iti	iti-	iti-me 
+see: iti- | iti	iti-	iti-me 
+see: iti-me | iti	iti-	iti-me 
+short: bukumi | búkumi 
+short: búkumi 
+sister: nan kedeno 
+sister: nán kedéno 
+sit: amu- | naume	romu- 
+sit: amuba | naume	romu- 
+sit: naume | naume	romu- 
+sit: romu- | naume	romu- 
+skin: aginan-akai | akan	akán	akáni 
+skin: akai | akan	akán	akáni 
+skin: akan | akan	akán	akáni 
+skin: akán(i) | akan	akán	akáni 
+skin: iagina | akan	akán	akáni 
+skin: (yogina-)akai | akan	akán	akáni 
+sky: amanabe 
+sky: amanábe 
+sleep: emág | emág	kikíba-	na-	namname 
+sleep: kikíba- | emág	kikíba-	na-	namname 
+sleep: na- | emág	kikíba-	na-	namname 
+sleep: namname | emág	kikíba-	na-	namname 
+sleep: purai | emág	kikíba-	na-	namname 
+small: takonia | waratibi	wáratibí 
+small: tokuni | waratibi	wáratibí 
+small: tokuni(a) | waratibi	wáratibí 
+small: waratibi | waratibi	wáratibí 
+small: wáratibí | waratibi	wáratibí 
+smoke: kukubi | orotano	orotáno 
+smoke: kukubia | orotano	orotáno 
+smoke: orotano | orotano	orotáno 
+smoke: orotáno | orotano	orotáno 
+snake: gedi | yedege	yedége 
+snake: gedo | yedege	yedége 
+snake: kamano | yedege	yedége 
+snake: yedege | yedege	yedége 
+snake: yedége | yedege	yedége 
+spit: dondona- 
+stand: ide- 
+stand: idi- 
+star: anakai 
+star: anatai 
+star: tulubia 
+star: turubi 
+stone: uleku | urek	ureko 
+stone: urek | urek	ureko 
+stone: ureko | urek	ureko 
+straight: rembitotoy 
+sun: egedi | itaine 
+sun: itain | itaine 
+sun: itaine 
+sun: itane | itaine 
+sun: tainela | itaine 
+swim: ayae | kuku- 
+swim: debe- | kuku- 
+swim: kuku- 
+tail: eroai | urukae	uruke	urukáe 
+tail: urukae | urukae	uruke	urukáe 
+tail: urukáe | urukae	uruke	urukáe 
+tail: uruke | urukae	uruke	urukáe 
+that: mago | uma 
+that: mu | uma 
+that: uma 
+there: umeage 
+there: uméage 
+they: igama 
+they: igaomo 
+thigh: nakebina 
+thigh: ná-kebiná 
+this: momo | ogá	uga 
+this: mu | ogá	uga 
+this: nia | ogá	uga 
+this: ogá | ogá	uga 
+this: uga | ogá	uga 
+thorn: bigobo 
+thou: aiga | andi	andigo	á-ndi 
+thou: ai-ga | andi	andigo	á-ndi 
+thou: andi | andi	andigo	á-ndi 
+thou: á-ndi | andi	andigo	á-ndi 
+thou: andigo | andi	andigo	á-ndi 
+thou: aygo | andi	andigo	á-ndi 
+thou: áy-go | andi	andigo	á-ndi 
+thou: edi | andi	andigo	á-ndi 
+thou: umogo | andi	andigo	á-ndi 
+thou: yaygo | andi	andigo	á-ndi 
+thou: yendi | andi	andigo	á-ndi 
+three: alia 
+three: aria 
+three: aroy 
+three: aróy 
+throat: notatu 
+throat: n-otátu 
+throat: yotata 
+throat: y-otata 
+thunder: eke- 
+tomorrow: woyda 
+tomorrow: wóyda (?) 
+tongue: enini | na-anúne	nanune	naːnune 
+tongue: na-anúne | na-anúne	nanune	naːnune 
+tongue: naːnune | na-anúne	nanune	naːnune 
+tooth: eletinu | n-eretine	na-umér	naumer	neretine 
+tooth: eretinu(-mo) | n-eretine	na-umér	naumer	neretine 
+tooth: eretinu(mo) | n-eretine	na-umér	naumer	neretine 
+tooth: naumer | n-eretine	na-umér	naumer	neretine 
+tooth: na-umér | n-eretine	na-umér	naumer	neretine 
+tooth: neretine | n-eretine	na-umér	naumer	neretine 
+tooth: n-eretine | n-eretine	na-umér	naumer	neretine 
+tree: etamei | kemino 
+tree: kakenge | kemino 
+tree: kakeŋe | kemino 
+tree: keminia | kemino 
+tree: kemino 
+tree: kemíno | kemino 
+two: oɟa | ogi	ogí 
+two: ogi | ogi	ogí 
+two: ogí | ogi	ogí 
+two: ogia | ogi	ogí 
+two: oja | ogi	ogí 
+vagina: arie 
+vagina: árie 
+walk: natoa- | netoa- 
+walk: neta-nela | netoa- 
+walk: netoa- 
+walk: otoalabe | netoa- 
+walk: ototae | netoa- 
+warm: girini | giríni 
+warm: giríni 
+warm: udelea | giríni 
+warm: uderae | giríni 
+warm: udere | giríni 
+water: tai | taye	tayé	tayég 
+water: taia | taye	tayé	tayég 
+water: taye | taye	tayé	tayég 
+water: tayé(g) | taye	tayé	tayég 
+weep: nalabe 
+weep: naleya 
+weep: nara- 
+weep: raː- 
+weep: raa- 
+we (excl.): nidi 
+we (excl.): nindi 
+we: idi | yeNga	yeŋga 
+we: i-di | yeNga	yeŋga 
+we (incl.): iga 
+we (incl.): i-ga 
+we (incl.): yengga 
+we (incl.): yeŋga 
+we: indigo | yeNga	yeŋga 
+we: in-digo | yeNga	yeŋga 
+we: ni-di | yeNga	yeŋga 
+we: ni-ga | yeNga	yeŋga 
+we: nín-di | yeNga	yeŋga 
+wet: tiririe 
+wet: tirírie 
+what: igauma | nuŋgay	nuŋgáy 
+what: igaumo | nuŋgay	nuŋgáy 
+what: nuŋgay | nuŋgay	nuŋgáy 
+what: nunggáy | nuŋgay	nuŋgáy 
+where: gadi 
+where: gádi 
+white: kabia | papago	pápago 
+white: papago | papago	pápago 
+white: pápago | papago	pápago 
+who: imanala | nimare	nimáre 
+who: imanara | nimare	nimáre 
+who: nimare | nimare	nimáre 
+who: nimáre | nimare	nimáre 
+wind: aweneni | medide	medíde 
+wind: loboloboya | medide	medíde 
+wind: medide | medide	medíde 
+wind: medíde | medide	medíde 
+wing: metaramo 
+wing: metarámo 
+woman: kedeno | kedeno	kedéno 
+woman: kedéno | kedeno	kedéno 
+woman: lawao-mo | kedeno	kedéno 
+woman: rawao | kedeno	kedéno 
+wood: kerikomo 
+wood: keríkomo 
+yellow: kuni-kunia 
+yellow: kuni-kuniela 
+you: e-di(-ebiora) | andi	andigo	á-ndi 
+you: e-di-ebora | andi	andigo	á-ndi 
+you: ei-nga-ebiola | andi	andigo	á-ndi 
+you: umogo | andi	andigo	á-ndi 
+you: yáygo | andi	andigo	á-ndi 
+you: yé-ndi | andi	andigo	á-ndi 
+ash: botanomo	botáno	botáno-mo 
+abdomen: na-koténe	nakotene 
+bigness: atarae	ataráe 
+large: atarae	ataráe 
+breasts: dudo	dudó 
+come from: mo	mo-	momae 
+be dead: tau	tau- 
+dead: tau	tau- 
+ground: wo 
+land: wo 
+soil: wo 
+fly: ye- 
+fly v.: ye- 
+left hand: handʼ	n-omboro	nomboro	ombori	ómboro 
+right: handʼ	n-omboro	nomboro	ombori	ómboro 
+1 sg.: ne-ndi	nendi	neŋtigo 
+head louse: kono 
+male: rabini 
+much: kakamori	kakamóri 
+multiple: kakamori	kakamóri 
+several: kakamori	kakamóri 
+flesh: fleshʼ ɳ	iŋgibuke	iŋgí-buké 
+hill: keini 
+title: anaide 
+nighttime: ewate 
+adulterous: onate 
+single: onate 
+the: onate 
+unprincipled: onate 
+human: danet	dánetʔdambándo 
+human being: danet	dánetʔdambándo 
+rainy weather: uraŋge	uráŋge 
+say: kindai	kindái 
+hide: akan	akán	akáni 
+little: waratibi	wáratibí 
+smallness: waratibi	wáratibí 
+rock: urek	ureko 
+2 sg: andi	andigo	á-ndi 
+grind: ogi	ogí 
+go: netoa- 
+hot: giríni 
+1 pl. inc.: yeNga	yeŋga 
+we₁: yeNga	yeŋga 
+whiteness: papago	pápago 
+who?: nimare	nimáre 
+female: kedeno	kedéno 
+dull: aramani	aramáni 
+serious: aramani	aramáni 
+earthworm: káǯo 
+worm: káǯo 

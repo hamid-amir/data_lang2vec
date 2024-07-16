@@ -1,0 +1,299 @@
+all: go͂go͂ | gõgõ 
+all: gõgõ 
+arm: debe 
+arm: dòbògò 
+arm: dɔbɔgɔ 
+ashes: dasago | dasu	dasʌgɔ 
+ashes: dasëgo | dasu	dasʌgɔ 
+ashes: dasʌgɔ | dasu	dasʌgɔ 
+ashes: dasu | dasu	dasʌgɔ 
+back: sägi 
+back: sãgi 
+bark: biɔ 
+bark: bi(y)ò | biɔ 
+belly: gɔsiɔ 
+belly: gòsi(y)ò | gɔsiɔ 
+big: kau 
+bird: siyu 
+bird: si(y)u | siyu 
+bite: gaːiyo 
+bite: ga:i(y)ò | gaːiyo 
+black: bowogo | bowogo	buwɔkɔ 
+black: buwòkò | bowogo	buwɔkɔ 
+black: buwɔkɔ | bowogo	buwɔkɔ 
+blood: ayo 
+bone: diyo | dio	diyo 
+bone: di(y)o | dio	diyo 
+breast: bu 
+brother: a͂ya͂ 
+burn: hɔbeɔtɔiɔ 
+burn: hobeyotoiyo 
+burn: hòbe(y)òtòi(y)o 
+burn: si 
+cassowary: diuò 
+claw: (siu) kai | siu kai 
+claw: siu kai 
+cloud: ògabi | ɔgabi 
+cloud: ɔgabi 
+cold: ti͂ | tĩ 
+cold: tĩ | tĩ 
+come: hogwaiyo | hogwaiyo	hogw~a	hɔgwaɔ 
+come: hògwai(y)ò | hogwaiyo	hogw~a	hɔgwaɔ 
+come: hɔgwaɔ | hogwaiyo	hogw~a	hɔgwaɔ 
+die: toiyo 
+dog: sò | so	sɔ 
+dog: sɔ | so	sɔ 
+drink: hwi naiyo | hwĩ naiyo 
+drink: hwi͂ naiyo | hwĩ naiyo 
+dry: hafodo | hafõdo 
+dry: hafo͂do | hafõdo 
+ear: du | du	duli	duwew 
+ear: duli | du	duli	duwew 
+ear: duwew | du	duli	duwew 
+earth: òso | ɔso 
+earth: ɔso 
+eat: na | na	naiyo	naiɔ 
+eat: naiɔ | na	naiyo	naiɔ 
+eat: naiyo | na	naiyo	naiɔ 
+eat: nai(y)ò | na	naiyo	naiɔ 
+egg: hoː | hoː	soi ho 
+egg: (siu) ho(o) | hoː	soi ho 
+egg: soi ho | hoː	soi ho 
+emu: diuɔ 
+eye: diho͂ | diho*	dihõ	hĩɔwɔ 
+eye: dihõ | diho*	dihõ	hĩɔwɔ 
+eye: hi͂ɔwɔ | diho*	dihõ	hĩɔwɔ 
+father: ade 
+fat (n.): sofe 
+feather: (siu) toi | siu toi 
+feather: siu toi 
+fingernail: bia 
+fire: dòu | dou	dɔu 
+fire: dɔu | dou	dɔu 
+fish: diɔ | dio	diɔ 
+fish: di(y)ò | dio	diɔ 
+fly (v.): fuɔyɔ͂iɔ 
+fly (v.): fuwoyo͂iyo 
+fly (v.): fu(w)òyɔ̃i(y)ò 
+foot: aboga͂ | abogã 
+full: o͂me͂de | o*medE	õmẽde	ɔ̃meːdɛ 
+full: ɔ̃me:dè | o*medE	õmẽde	ɔ̃meːdɛ 
+full: ɔ͂meːdɛ | o*medE	õmẽde	ɔ̃meːdɛ 
+give: a neiyo | ã neiyo 
+give: a͂ neiyo | ã neiyo 
+give: neiò | ã neiyo 
+good: de 
+green: mòekò | mɔekɔ 
+green: mɔekɔ 
+green: mokeo | mɔekɔ 
+hair: tɔwɛ | tɔwɛ	ulʌgibi	wodiyo toi 
+hair: ulʌgibi | tɔwɛ	ulʌgibi	wodiyo toi 
+hair: wodi(y)o toi | tɔwɛ	ulʌgibi	wodiyo toi 
+hair: wodiyo toi | tɔwɛ	ulʌgibi	wodiyo toi 
+head: odiu | odiu	ulʌgibi	wodiyo 
+head: ulʌgibi | odiu	ulʌgibi	wodiyo 
+head: wodiyo | odiu	ulʌgibi	wodiyo 
+head: wodi(y)o | odiu	ulʌgibi	wodiyo 
+hear: duiyo | du	duiyo 
+hear: dui(y)ò | du	duiyo 
+heart: soː 
+heart: soo | soː 
+he/she: yə͂ 
+I: a͂ | a*	ã 
+I: ã | a*	ã 
+kill: toiɔ 
+kill: toi(y)ò | toiɔ 
+knee: iəbu | iəbu	yubu 
+knee: yubu | iəbu	yubu 
+know: tɔw͂aiɔ | tɔw̃aiɔ 
+know: towanh.i(y)ò | tɔw̃aiɔ 
+leaf: dubi 
+leg: aboga͂ 
+leg: òbògò 
+leg: ɔbɔgɔ 
+lie: tiadiɔ | tiadiɔ	tĩyãdiyo 
+lie: ti͂ya͂diyo | tiadiɔ	tĩyãdiyo 
+lie: ti(y)ad(y)ò | tiadiɔ	tĩyãdiyo 
+liver: koː 
+liver: koo | koː 
+long: kuga | kuga	sagɔ 
+long: sagò | kuga	sagɔ 
+long: sagɔ | kuga	sagɔ 
+louse: o͂u͂ | ou* 
+louse: oũ | ou* 
+man: o | o	oso 
+many: go͂go͂ | gõgõ 
+many: gõgõ 
+meat: huwi͂ 
+meat: huwĩ 
+moon: ogwʌ | ogwʌ	ugo 
+moon: ogwa | ogwʌ	ugo 
+moon: ogwë | ogwʌ	ugo 
+moon: ugo | ogwʌ	ugo 
+mother: dua 
+mountain: gòwufòda | gowufoda	gɔwufɔda	tõfõ 
+mountain: gɔwufɔda | gowufoda	gɔwufɔda	tõfõ 
+mountain: tofo | gowufoda	gɔwufɔda	tõfõ 
+mountain: to͂fo͂ | gowufoda	gɔwufɔda	tõfõ 
+mouth: moga | moga	mɔgaʔu 
+mouth: mogau | moga	mɔgaʔu 
+mouth: mòga\u | moga	mɔgaʔu 
+mouth: mɔgaʔu | moga	mɔgaʔu 
+name: hu͂ti | hu*ti	hũti 
+name: hũti | hu*ti	hũti 
+neck: gɔbaidiu | gɔbaidiu	mu 
+neck: gobaidiyu | gɔbaidiu	mu 
+neck: mu | gɔbaidiu	mu 
+new: doaw | doaw	dwau 
+new: dwau | doaw	dwau 
+night: go͂si͂ | go*si*	gõsĩ 
+night: gõsĩ | go*si*	gõsĩ 
+nose: mi | mi	mĩni 
+nose: mo | mi	mĩni 
+not: mòi | mɔi 
+not: mɔi 
+one: kane | sesa	tano	tanɔ 
+one: tanò | sesa	tano	tanɔ 
+one: tanɔ | sesa	tano	tanɔ 
+person: oso | o	oso 
+rain: hwĩ tòlòdò | hwĩ tɔlɔdɔ 
+rain: hwi͂ tɔlɔdɔ | hwĩ tɔlɔdɔ 
+red: osikò | osikɔ 
+red: osikɔ 
+road: ai 
+root: tòfè | tɔfɛ 
+root: tɔfɛ 
+sand: kowe | kowẽ 
+sand: kowe͂ | kowẽ 
+say: tɔbɔiɔ | kowẽ 
+say: tòbòi(y)ò | kowẽ 
+see: diguioy | diguloy	dugu	duguiɔ 
+see: diguloy | diguloy	dugu	duguiɔ 
+seed: koː 
+seed: ko(o) | koː 
+see: duguiò | diguloy	dugu	duguiɔ 
+see: duguiɔ | diguloy	dugu	duguiɔ 
+shoulder: òdòme 
+shoulder: ɔdɔme 
+sister: ɔ͂wɔ͂ 
+sit: diobodiɔ 
+sit: diyobodi(y)ò | diobodiɔ 
+skin: kòlò | kolo	kɔlɔ	kɔrɔ 
+skin: kɔlɔ | kolo	kɔlɔ	kɔrɔ 
+skin: koro | kolo	kɔlɔ	kɔrɔ 
+skin: kɔrɔ | kolo	kɔlɔ	kɔrɔ 
+sleep: taiɔ | taiɔ	tiyaiyo 
+sleep: tiyaiyo | taiɔ	tiyaiyo 
+sleep: ti(y)ai(y)ò | taiɔ	tiyaiyo 
+small: fa͂fi | fãfi 
+small: fãfi 
+smoke: dahai | dʌhaĩ 
+smoke: dëhaĩ | dʌhaĩ 
+smoke: dʌhai͂ | dʌhaĩ 
+spit: maha͂u͂ 
+stand: tɔfa͂diɔ 
+stand: tòfãdi(y)ò 
+star: gòsòmoi | gosomoi	gɔsɔmoi 
+star: gɔsɔmoi | gosomoi	gɔsɔmoi 
+stone: yò | yo	yɔ 
+stone: yɔ | yo	yɔ 
+sun: o͂so͂ | o*so*	õsõ 
+sun: õsõ | o*so*	õsõ 
+swim: hwi toiɔ 
+swim: (hwi) toi(y)ò | hwi toiɔ 
+tail: (sòfo) hobe | sɔ habe 
+tail: sɔ habe 
+that: ka 
+this: ke 
+thou: na͂ | na*	nã	nõ 
+thou: nã | na*	nã	nõ 
+thou: no | na*	nã	nõ 
+thou: no͂ | na*	nã	nõ 
+tie: tiga 
+tongue: i | i	iː 
+tongue: i: | i	iː 
+tongue: iː | i	iː 
+tooth: mòyò | moyo	mɔ̃yɔ 
+tooth: mɔ͂yɔ | moyo	mɔ̃yɔ 
+tree: hòme | home 
+tree: hɔme | home 
+two: be(y)aũ | beau*	beyãũ	sesamɔe 
+two: beya͂u͂ | beau*	beyãũ	sesamɔe 
+walk: duiyo | sudiɔ 
+walk: sudiò | sudiɔ 
+walk: sudiɔ 
+warm: dafi 
+warm: dòfi | dafi 
+warm: dɔfi | dafi 
+water: hwi͂ | hwi*	hwĩ 
+water: hwĩ | hwi*	hwĩ 
+we (incl.): oye 
+we: òye | oye 
+we: ɔye | oye 
+what: boda | boda	bɔʔɔba 
+what: bò\òba | boda	bɔʔɔba 
+what: bɔʔɔba | boda	bɔʔɔba 
+white: kòwòkò | kɔwɔkɔ 
+white: kɔwɔkɔ 
+who: hɔmaba | hɔmaba	komaba 
+who: komaba | hɔmaba	komaba 
+who: kòmaba | hɔmaba	komaba 
+wind: wafu 
+wing: òdafòdiò 
+wing: ɔfafɔdiɔ 
+woman: sòbò | sɔbɔ 
+woman: sɔbɔ 
+yellow: biekɔ 
+yellow: bi(y)ekò | biekɔ 
+every: gõgõ 
+ash: dasu	dasʌgɔ 
+abdomen: gɔsiɔ 
+bigness: kau 
+large: kau 
+breasts: bu 
+nail: siu kai 
+talon: siu kai 
+come from: hogwaiyo	hogw~a	hɔgwaɔ 
+be dead: toiyo 
+dead: toiyo 
+ground: ɔso 
+land: ɔso 
+soil: ɔso 
+fly: fuwoyõiyo	fuɔyɔ̃iɔ 
+fly v.: fuwoyõiyo	fuɔyɔ̃iɔ 
+hand: dobogo 
+left hand: dobogo 
+right: dobogo 
+1 sg.: a*	ã 
+be knowledgeable: tɔw̃aiɔ 
+lie down: tiadiɔ	tĩyãdiyo 
+head louse: ou* 
+much: gõgõ 
+multiple: gõgõ 
+several: gõgõ 
+hill: gowufoda	gɔwufɔda	tõfõ 
+title: hu*ti	hũti 
+nighttime: go*si*	gõsĩ 
+adulterous: sesa	tano	tanɔ 
+single: sesa	tano	tanɔ 
+the: sesa	tano	tanɔ 
+unprincipled: sesa	tano	tanɔ 
+human: o	oso 
+human being: o	oso 
+rainy weather: hwĩ tɔlɔdɔ 
+path: ai 
+route: ai 
+hide: kolo	kɔlɔ	kɔrɔ 
+little: fãfi 
+smallness: fãfi 
+rock: yo	yɔ 
+2 sg: na*	nã	nõ 
+you: na*	nã	nõ 
+grind: beau*	beyãũ	sesamɔe 
+go: sudiɔ 
+hot: dafi 
+1 pl. inc.: oye 
+we₁: oye 
+whiteness: kɔwɔkɔ 
+who?: hɔmaba	komaba 
+female: sɔbɔ 

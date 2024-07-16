@@ -1,0 +1,298 @@
+all: pësëkpep | p3s3kpep 
+and: mimbi 
+animal: dzi 
+arm: bʌt 
+ashes: dzita | cita	dzita	ko 
+ashes: ko | cita	dzita	ko 
+back: beset- 
+bark: sʌk 
+belly: tip- | tip	tip- 
+big: këit.n | k3itn	kⁱtn 
+big: kʲn | k3itn	kⁱtn 
+bird: lau 
+bite: ye- | ye	ye- 
+black: sëmbopm | s3mbopm	səmbopm 
+black: səmbopm | s3mbopm	səmbopm 
+blood: sip- | sip	sip- 
+blow: orati 
+blow: orati- 
+bone: sɛt | siet	sɛt 
+bone: siet- | siet	sɛt 
+breast: na͂ | nam	nam-	nã 
+breast: nam- | nam	nam-	nã 
+breathe: andaɣəsa 
+breathe: andaghësa 
+brother: dat 
+brother: dat- 
+burn: dzi- 
+claw: dzinggënggëng | ciNg3Ng3N	dziŋgəŋgəŋ 
+claw: dziŋgəŋgəŋ | ciNg3Ng3N	dziŋgəŋgəŋ 
+cloud: kumbu 
+cold: takëng | tak3N	takəŋ 
+cold: takəŋ | tak3N	takəŋ 
+come: ko- | ko	ko- 
+count: usun- 
+cut: lanti- 
+cut: v 
+die: gëki- | g3ki	gəki- 
+die: gəki- | g3ki	gəki- 
+dig: lo- 
+dog: ta͂ | ta	tã 
+dog: tã | ta	tã 
+dry: alanggë- | alaNg3	alaŋgə 
+dry: alaŋgə | alaNg3	alaŋgə 
+dust: wanawana 
+ear: bʌbʌsin | b3b3t	bəbət-	bʌbʌsin 
+ear: bëbët- | b3b3t	bəbət-	bʌbʌsin 
+ear: bəbət- | b3b3t	bəbət-	bʌbʌsin 
+earth: misa 
+eat: ni | ni	nin	nin- 
+eat: nin- | ni	nin	nin- 
+eye: dzi- | ci	dzi-	dzin 
+eye: dzin | ci	dzi-	dzin 
+fall: kao- 
+father: bip- 
+fat (n.): kerëk- 
+fat (n.): kerək- 
+fingernail: dziŋgʌgʌŋ 
+fire: tedzi 
+flower: dzolam 
+foot: kët- | k3t	kət-	kʌt 
+foot: kət- | k3t	kət-	kʌt 
+foot: kʌt | k3t	kət-	kʌt 
+fruit: kpën- 
+fruit: kpən- 
+full: dzʌdzʌgɔ | c3c3 ko	dzədzə ka-	dzʌdzʌgɔ 
+full: dzədzə ka- | c3c3 ko	dzədzə ka-	dzʌdzʌgɔ 
+full: dzëdzë ko- | c3c3 ko	dzədzə ka-	dzʌdzʌgɔ 
+give: naka- | naka	naka- 
+good: sanggam | saNgam	saŋgam 
+good: saŋgam | saNgam	saŋgam 
+green: kok.ng | kokN	kokŋ 
+green: kokŋ | kokN	kokŋ 
+hair: dzup- | cup	dzup- 
+hand: bët- | b3t	bət- 
+hand: bət- | b3t	bət- 
+head: doŋgon | doŋgon	nok	nok- 
+head: nok- | doŋgon	nok	nok- 
+heart: wembë kët- | wemb3 k3t	wembə kət- 
+heart: wembə kət- | wemb3 k3t	wembə kət- 
+he/she: lʌ 
+he/she: lë 
+he/she: lə 
+hit: kun- 
+hold: aŋga- 
+hold: wangga- 
+how: disi 
+I: nʌ | na	nã	nʌ 
+I: na͂ | na	nã	nʌ 
+I: nã | na	nã	nʌ 
+knee: kpekakpatë | kpekakpat3	kpetapat	pet 
+knee: kpetapat | kpekakpat3	kpetapat	pet 
+knee: pet | kpekakpat3	kpetapat	pet 
+know: ningge- | niNge	niŋge- 
+know: niŋge- | niNge	niŋge- 
+lake: lëm 
+lake: ləm 
+laugh: yëyën- 
+laugh: yəyən- 
+leaf: sin- | sin	sin- 
+left: kana 
+leg: kʌt 
+long: kep.m | kepm 
+louse: lëm | l3m 
+louse: ləm | l3m 
+louse: lʌm | l3m 
+man: a͂ | a*	ã 
+man: ã | a*	ã 
+many: kirisi 
+meat: mirik- 
+moon: ayoŋgo | 3yoNga	ayoŋgo	əyoŋga 
+moon: ëyongga | 3yoNga	ayoŋgo	əyoŋga 
+moon: əyoŋga | 3yoNga	ayoŋgo	əyoŋga 
+mother: mam- 
+mountain: kalang | kalaN	kalaŋ 
+mountain: kalaŋ | kalaN	kalaŋ 
+mouth: dzʌmbut 
+name: kot- | kot	kot-	kɔt 
+name: kɔt | kot	kot-	kɔt 
+neck: andeng- | andeN	andeŋ	toɣosan 
+neck: andeŋ | andeN	andeŋ	toɣosan 
+neck: toɣosan | andeN	andeŋ	toɣosan 
+new: alak | alak	gor3N	gorəŋ 
+new: gorëng | alak	gor3N	gorəŋ 
+new: gorəŋ | alak	gor3N	gorəŋ 
+night: mimba | mimba	mimb~a 
+nose: singgeng | siNg~eN	siŋgəŋ	siŋgɛŋ 
+not: këm | k3m	kəm 
+not: kəm | k3m	kəm 
+old: kpën 
+old: kpən 
+one: kpedzi | kpeci	kpedzi	kweji 
+play: dzëghodzë 
+play: dzəɣodzə 
+pull: menda- 
+push: ɔtəɣə- 
+push: otëgë- 
+rain: ma 
+red: kukn | kukN	kukn 
+red: kuk.ng | kukN	kukn 
+right: pana | b3t	bət- 
+road: kë | k3 
+road: kə | k3 
+road: kʌtʌrʌm | k3 
+root: kindiri- | kindiri	kindiri- 
+rope: tëk 
+rope: tək 
+round: waragën | warag3n	waragən 
+round: waragən | warag3n	waragən 
+sand: ganga | gaŋa	qʌŋʌ 
+sand: gaŋa | gaŋa	qʌŋʌ 
+sand: qʌŋʌ | gaŋa	qʌŋʌ 
+say: dzʌ | c3	dzə-	dzʌ 
+say: dzë- | c3	dzə-	dzʌ 
+say: dzə- | c3	dzə-	dzʌ 
+seed: kët- | k3t	kət- 
+seed: kət- | k3t	kət- 
+see: nəɣəi | n3x3i	nəɣəi 
+see: nëgëi- | n3x3i	nəɣəi 
+sew: osə- 
+short: dandzi 
+sister: lip 
+sister: lip- 
+sit: ta- | ta	ta- 
+skin: sëk- | s3k	sək-	sʌk 
+skin: sək- | s3k	sək-	sʌk 
+skin: sʌk | s3k	sək-	sʌk 
+sky: nombë 
+sky: nombə 
+sleep: we- | we	we- 
+small: namzi 
+smoke: dau | dau	k3s3	kəsə 
+smoke: kësë | dau	k3s3	kəsə 
+smoke: kəsə | dau	k3s3	kəsə 
+snake: asi͂ | asĩ 
+snake: asĩ | asĩ 
+some: but- 
+spit: dzëtupa- 
+spit: dzupati 
+stand: ta- 
+star: dzëmërindzë | c3m3rinc~3	dzəmərindzə	dzʌmʌrimd̩ʌŋ 
+star: dzəmərindzə | c3m3rinc~3	dzəmərindzə	dzʌmʌrimd̩ʌŋ 
+star: dzʌmʌrimd`ʌŋ | c3m3rinc~3	dzəmərindzə	dzʌmʌrimd̩ʌŋ 
+stick: onze 
+stone: nandza | nanc~a	nandza 
+straight: dʌndʌɣʌtn 
+suck: bësë- 
+suck: bəsə- 
+sun: kësu | k3su	kəsu	kʌsu 
+sun: kəsu | k3su	kəsu	kʌsu 
+sun: kʌsu | k3su	kəsu	kʌsu 
+swell: simen- 
+tail: dak- | dak	dak- 
+that: mei 
+there: inda 
+they: lene 
+this: wi 
+thou: gʌ | ga	gã	gʌ 
+thou: ga. | ga	gã	gʌ 
+thou: ga͂ | ga	gã	gʌ 
+thou: li | ga	gã	gʌ 
+thou: li͂ | ga	gã	gʌ 
+throw: këtipe- 
+throw: kətipe- 
+tie: dza 
+tongue: nambalang- | nambalaŋ	nambalaŋ-	namb~alaN 
+tongue: nambalaŋ | nambalaŋ	nambalaŋ-	namb~alaN 
+tongue: nambalaŋ- | nambalaŋ	nambalaŋ-	namb~alaN 
+tooth: dzët- | c3t	dzət-	dzʌt 
+tooth: dzət- | c3t	dzət-	dzʌt 
+tooth: dzʌt | c3t	dzət-	dzʌt 
+tree: të | t3 
+tree: tə | t3 
+turn: giridzë- 
+turn: giridzə- 
+two: dzeba | ceba	dzeba	jeba 
+vagina: kʌp 
+vomit: nua- 
+warm: kikipm | kikipm	kipkipm 
+warm: kipkipm | kikipm	kipkipm 
+warm: kipkip.m | kikipm	kipkipm 
+warm: tedzi | kikipm	kipkipm 
+wash: ëli- 
+wash: əli- 
+water: tu 
+weep: sisu- 
+we: ni 
+we: ni. 
+we: ni͂ 
+what: wana 
+where: dene 
+white: saghat.n | sagatn	səɣatn 
+white: səɣatn | sagatn	səɣatn 
+who: ala 
+wind: tʌɣʌ | təɣə	tʌɣʌ 
+wind: təɣə | təɣə	tʌɣʌ 
+wind: tëgë | təɣə	tʌɣʌ 
+wing: kpogho 
+wing: kpoɣo 
+wing: poɣom 
+woman: imbi 
+wood: onze 
+worm: go͂ | gõ 
+yellow: alang | alaN	alaŋ 
+yellow: alaŋ | alaN	alaŋ 
+you: lĩ | ga	gã	gʌ 
+every: p3s3kpep 
+ash: cita	dzita	ko 
+abdomen: tip	tip- 
+bigness: k3itn	kⁱtn 
+large: k3itn	kⁱtn 
+breasts: nam	nam-	nã 
+nail: ciNg3Ng3N	dziŋgəŋgəŋ 
+talon: ciNg3Ng3N	dziŋgəŋgəŋ 
+come from: ko	ko- 
+be dead: g3ki	gəki- 
+dead: g3ki	gəki- 
+ground: misa 
+land: misa 
+soil: misa 
+fat: ker3k 
+fat n.: ker3k 
+grease: ker3k 
+lubricant: ker3k 
+oil: ker3k 
+left hand: b3t	bət- 
+1 sg.: na	nã	nʌ 
+be knowledgeable: niNge	niŋge- 
+head louse: l3m 
+male: a*	ã 
+much: kirisi 
+multiple: kirisi 
+several: kirisi 
+flesh: mirik 
+meat: mirik 
+hill: kalaN	kalaŋ 
+title: kot	kot-	kɔt 
+nighttime: mimba	mimb~a 
+adulterous: kpeci	kpedzi	kweji 
+single: kpeci	kpedzi	kweji 
+the: kpeci	kpedzi	kweji 
+unprincipled: kpeci	kpedzi	kweji 
+rainy weather: ma 
+path: k3 
+route: k3 
+hide: s3k	sək-	sʌk 
+little: namzi 
+smallness: namzi 
+stand: ta 
+rock: nanc~a	nandza 
+2 sg: ga	gã	gʌ 
+grind: ceba	dzeba	jeba 
+hot: kikipm	kipkipm 
+1 pl. inc.: ni 
+we₁: ni 
+whiteness: sagatn	səɣatn 
+who?: ala 
+female: imbi 
+earthworm: gõ 

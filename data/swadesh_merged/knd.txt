@@ -1,0 +1,236 @@
+arm: erebu 
+ashes: tepa-nggini | tepa	tepa-ngini	tepa-ŋgini 
+ashes: tepa-ngini | tepa	tepa-ngini	tepa-ŋgini 
+back: tonggori 
+belly: de-torobu | de-torobu	detorro	turo 
+belly: toro | de-torobu	detorro	turo 
+belly: turo | de-torobu	detorro	turo 
+big: nogo 
+bird: baro | baro	baruwiberaŋiat	boro 
+bird: boro | baro	baruwiberaŋiat	boro 
+black: musuage | musege	musuage 
+blood: ua | ua	uwa 
+blood: uwa | ua	uwa 
+bone: toroni | digi torone	toroni 
+breast: sepuru | desu	sepuru	su 
+breast: su | desu	sepuru	su 
+burn: bubuta 
+butterfly: arinayo 
+cheek: de-waganemu 
+child: aboii 
+chin: apinamu 
+cloud: udjanamu | oɟenamu	udǯanamu 
+cold: abace | abače 
+come: imora | imora	imoro	imoró	imɔ 
+come: imoro | imora	imoro	imoró	imɔ 
+come: imoro! | imora	imoro	imoró	imɔ 
+cut: toronitoro! 
+day: banidjie 
+dog: aɟia | aTia	ayia	aǯia	aɟia 
+dog: ajia | aTia	ayia	aǯia	aɟia 
+drink: no! | no	noː	nó 
+drink: no(ː) | no	noː	nó 
+dry: syewu | sowo	šewu 
+ear: de-piwen | de-piwen	depiwen	depuerri	piyeri	piǯeri 
+ear: pijeri | de-piwen	depiwen	depuerri	piyeri	piǯeri 
+earth: ta 
+eat: no- | no	no-	noː 
+eat: no(ː) | no	no-	noː 
+egg: nipo | nipo	wu 
+egg: wu | nipo	wu 
+elbow: rebu-tutu 
+excrement: akobu 
+eye: di-buru | di	di-buru	diburu	enu	enu-buru	nu-buru	nuburu 
+eye: (e)nu-buru | di	di-buru	diburu	enu	enu-buru	nu-buru	nuburu 
+eye: nuburu | di	di-buru	diburu	enu	enu-buru	nu-buru	nuburu 
+far: tjoenie | coenie	tyunye 
+fat (n.): ameri 
+feather: gusu 
+finger: be-adedo 
+fingernail: afoi 
+finger: rebu-adedo 
+fire: ucia | ucia	ucua	učia	učua	ɟuwa 
+fire: ucua | ucia	ucua	učia	učua	ɟuwa 
+fire: učua | ucia	ucua	učia	učua	ɟuwa 
+fish: bano 
+five: derebuyeni 
+fly (n.): apeeto 
+fly (n.): aputo 
+fly (v.): babuo 
+foot: be | be	debe 
+foot: debe | be	debe 
+forehead: wesi-toroni 
+four: adenggosi 
+fruit: noi 
+give: erebunu | erebunu	rebunu 
+good: soboro | soboro	sɔbuno 
+green: hidjauge | hidǯauge 
+hair: de-wisi-nama | de-wisi-nama	dewesi namʌ	gusu	sinamu 
+hair: gusu | de-wisi-nama	dewesi namʌ	gusu	sinamu 
+hair: sinamu | de-wisi-nama	dewesi namʌ	gusu	sinamu 
+hand: rebu | derrebu	rebu 
+head: wesi | dewesi torone	wesi	wèsi 
+head: we~si | dewesi torone	wesi	wèsi 
+hear: tiro | meimacita	tiro 
+he/she: boi-gi 
+house: oba 
+I: ne-nggi | ne-ŋgi	neNgi	neŋgi 
+I: neŋgi | ne-ŋgi	neNgi	neŋgi 
+kill: oworo! | oworó	oʔwɔ 
+knee: be-tutu | be-tutu	betutu 
+leaf: weri | weri	werri 
+leg: be 
+lip: pa-meri 
+long: roparo | orropaⁱyo	roparo 
+louse: ano 
+man: riobo | yaben	yebeno	ǯaben 
+man: rioto (?) | yaben	yebeno	ǯaben 
+many: boroto | berretɔ	boroto 
+meat: banamu | diginyamuk̚ 
+moon: suro | suro	surro 
+mosquito: anine 
+mountain: botjo | baco	boco	botyo 
+mouth: pa | depʌ	pa 
+name: eronu | eronu	erunu	rrunu 
+name: erunu | eronu	erunu	rrunu 
+near: apere-ge | apere-ge	aɸerege 
+neck: de-soburu | de-soburu	desoburu 
+new: adio | adio	adipia 
+night: baburote | baburote	baburrute	baburte 
+night: baburte | baburote	baburrute	baburte 
+nose: de-mogai | de mogoⁱ	de-mogai	demogai	mogoi 
+nose: mogoi | de mogoⁱ	de-mogai	demogai	mogoi 
+nose: mogoi-gori | de mogoⁱ	de-mogai	demogai	mogoi 
+one: mutju | mucu	mutju	mutu	mutyu 
+one: mutyu | mucu	mutju	mutu	mutyu 
+person: jaben | yaben	yebeno	ǯaben 
+rain: adjaro | adǯaro	aɟarro 
+red: apage | apage	aɸage 
+root: besiri 
+sand: adj\anamu | adiya	adǯerini	adǯʔanamu 
+sand: adjerini | adiya	adǯerini	adǯʔanamu 
+say: susuane! | adiya	adǯerini	adǯʔanamu 
+seed: buru 
+see: tisi! | tisi	tisi-ro	tisiro	tisí 
+see: tisiro | tisi	tisi-ro	tisiro	tisí 
+see: tisi-ro | tisi	tisi-ro	tisiro	tisí 
+sit: nade 
+skin: giri | digigiri	giri 
+sleep: nare | nare	narre 
+small: geripia | geripia	picei	piceⁱye 
+small: pitjei | geripia	picei	piceⁱye 
+smoke: utjasa | cosat	ucasa 
+snake: uso | uso	usɔ 
+spit: pawo 
+stand: mende 
+stand: nende 
+star: garo 
+stone: patjuo | baco	pacuo	patyo	patyuo 
+stone: patyo | baco	pacuo	patyo	patyuo 
+straight: rembitótoy 
+sun: ci | ci	či 
+swim: suro 
+tail: rosora | rosora	rrosorra 
+that: otowo | oto	otowo 
+they: woi-gi 
+thigh: beadjianamu 
+this: ete | ete	mo 
+thorn: bigóbo 
+thou: adigi | adigi	e-ge	e-gi	ege	egi 
+thou: e-ge | adigi	e-ge	e-gi	ege	egi 
+thou: egi | adigi	e-ge	e-gi	ege	egi 
+thou: e-gi | adigi	e-ge	e-gi	ege	egi 
+three: oruege 
+tongue: runamu | derunamʌ	runamu 
+tooth: dinamu | di namʌ	dinamu	unamu 
+tooth: unamu | di namʌ	dinamu	unamu 
+tree: oxot-moro | oxotmoro	wi 
+tree: wi | oxotmoro	wi 
+two: irege | irege	irrege	rak 
+two: rak | irege	irrege	rak 
+walk: maniro | mani	maniro 
+walk: uworo | mani	maniro 
+warm: pasino 
+water: abia | abia	abuwʌ 
+weep: ijabija 
+weep: tjibiro 
+we (incl.): ma-digi 
+we: madigi | ma-digi	madigi 
+we: ma-digi | ma-digi	madigi 
+we two (incl.): madigi irege 
+we two: madigi irege 
+what: onomo | onomo	onopa	ɔnɔma 
+what: onopa | onomo	onopa	ɔnɔma 
+white: kerage | kerage	terrage 
+who: emedji | emedǯi	emegi 
+wind: bebatjo | babaco	bebaco 
+woman: aberi | aberi	abunoh	wa 
+woman: abunoh | aberi	abunoh	wa 
+wood: učia 
+wood: wi 
+yellow: kuninge | arriye	kuniŋe 
+you: a-digi | adigi	e-ge	e-gi	ege	egi 
+all: mademcerre 
+every: mademcerre 
+ash: tepa	tepa-ngini	tepa-ŋgini 
+abdomen: de-torobu	detorro	turo 
+bigness: nogo 
+large: nogo 
+bite: nesostʌ 
+breasts: desu	sepuru	su 
+come from: imora	imoro	imoró	imɔ 
+be dead: aɟua 
+dead: aɟua 
+die: aɟua 
+ground: ta 
+land: ta 
+soil: ta 
+fly: babuo 
+fly v.: babuo 
+full: apiče 
+left hand: derrebu	rebu 
+right: derrebu	rebu 
+heart: de aŋgaro 
+1 sg.: ne-ŋgi	neNgi	neŋgi 
+be knowledgeable: netiye 
+know: netiye 
+liver: desimiɲanamu 
+head louse: ano 
+male: riobo	rioto	sorrame 
+much: berretɔ	boroto 
+multiple: berretɔ	boroto 
+several: berretɔ	boroto 
+flesh: diginyamuk̚ 
+hill: baco	boco	botyo 
+title: eronu	erunu	rrunu 
+nighttime: baburote	baburrute	baburte 
+adulterous: mucu	mutju	mutu	mutyu 
+single: mucu	mutju	mutu	mutyu 
+the: mucu	mutju	mutu	mutyu 
+unprincipled: mucu	mutju	mutu	mutyu 
+human: yaben	yebeno	ǯaben 
+human being: yaben	yebeno	ǯaben 
+rainy weather: adǯaro	aɟarro 
+hide: digigiri	giri 
+little: geripia	picei	piceⁱye 
+smallness: geripia	picei	piceⁱye 
+rock: baco	pacuo	patyo	patyuo 
+2 sg: adigi	e-ge	e-gi	ege	egi 
+grind: irege	irrege	rak 
+go: mani	maniro 
+hot: pasino 
+1 pl. inc.: ma-digi	madigi 
+we₁: ma-digi	madigi 
+whiteness: kerage	terrage 
+who?: emedǯi	emegi 
+female: aberi	abunoh	wa 
+distant: coenie	tyunye 
+dull: berete 
+heavy: berete 
+serious: berete 
+close: apere-ge	aɸerege 
+ner: apere-ge	aɸerege 
+salt: abukorro 
+thin: arrarraⁱye 
+earthworm: sanaⁱto 
+worm: sanaⁱto 

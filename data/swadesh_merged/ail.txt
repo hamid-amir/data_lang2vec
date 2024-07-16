@@ -1,0 +1,203 @@
+all: tòbò | tɔbɔ 
+all: tɔbɔ 
+arm: debe 
+ashes: dòsò | dɔsɔ 
+ashes: dɔsɔ 
+back: fòsu 
+back: fɔsu 
+bark: ye kafe 
+belly: kufu 
+big: hɔ͂gala | hɔ̃gala 
+big: hɔ̃gala 
+bird: abò | abɔ 
+bird: abɔ 
+bite: agi kalia 
+black: dame͂la | damẽla 
+black: damẽla | damẽla 
+blood: omani 
+bone: ki 
+breast: bu: | bu	buː 
+breast: buː | bu	buː 
+burn: seba 
+cassowary: kòsuwa 
+claw: abò gòsene | abɔ gɔsene 
+claw: abɔ gɔsene 
+cloud: kilini 
+cold: kòmòlu | kɔmɔlu 
+cold: kɔmɔlu 
+come: yabe 
+dog: a͂gi | a*gi	ãgi 
+dog: ãgi | a*gi	ãgi 
+ear: keleni 
+earth: isa 
+eat: maya͂ | mayã 
+eat: mayã 
+egg: abò ushyu | abɔ uθu 
+egg: abɔ uθu 
+emu: kɔsuwa 
+eye: si 
+father: na 
+fat (n.): sabe 
+feather: abò fònò | abɔ fɔnɔ 
+feather: abɔ fɔnɔ 
+fire: di 
+fish: kòmòlu | komolu	kɔmɔlu 
+fish: kɔmɔlu | komolu	kɔmɔlu 
+fly (v.): abò tògòdia aneke 
+fly (v.): abɔ tɔgɔdia aneke 
+give: dimina͂ | diminã 
+give: diminã 
+good: ke͂le͂ga | kẽlẽga 
+good: kẽlẽga | kẽlẽga 
+green: imòhn.la | imɔ̃la 
+green: imɔ͂la | imɔ̃la 
+hair: mufa fònò | mufa fɔnɔ 
+hair: mufa fɔnɔ 
+head: mufa 
+hear: debama͂ | deba	debamã 
+hear: debamã | deba	debamã 
+I: ne 
+kill: sanema͂ | sanemã 
+kill: sanemã | sanemã 
+knee: gulu 
+know: hòlòke | hɔlɔke 
+know: hɔlɔke 
+leaf: ye-fò | yefo	yefɔ 
+leaf: yefɔ | yefo	yefɔ 
+leg: inebi 
+lie: alima͂ | alimã 
+lie: ali-mã | alimã 
+long: sada 
+louse: tede 
+man: kòlu | kolu 
+man: kɔlu | kolu 
+many: mòmeya | mɔmeya 
+many: mɔmeya 
+meat: hò 
+meat: hɔ 
+moon: ole 
+mother: nòluwelebe 
+mother: nɔluwelebe 
+mountain: dòma | doma	dɔma 
+mountain: dɔma | doma	dɔma 
+mouth: mògafɔ̃ | mɔgafɔ̃ 
+mouth: mɔgafɔ͂ | mɔgafɔ̃ 
+name: wi 
+neck: dògòle | dɔgɔle 
+neck: dɔgɔle 
+new: hi 
+night: sòlòdiyabe | solodiyabe	sɔlɔdiyabe 
+night: sɔlɔdiyabe | solodiyabe	sɔlɔdiyabe 
+nose: migi 
+not: igale nake 
+one: ageli | ageli	aɡɾɪ 
+rain: ha͂ni tine | hãni tine 
+rain: hãni tine 
+red: gia 
+road: tògòlò | togolo 
+road: tɔgɔlɔ | togolo 
+root: tebe tefe 
+root: yebe tefe | tebe tefe 
+say: tɔya͂ 
+say: tòyã 
+see: bɔbɔma͂ | bobo	bɔbɔmã 
+see: bòbò-mã | bobo	bɔbɔmã 
+seed: kòlu | kɔlu 
+seed: kɔlu 
+shoulder: kede 
+sit: meseya͂ | meseyã 
+sit: meseyã 
+skin: ka͂fu | ka*fu	kãfu 
+skin: kãfu | ka*fu	kãfu 
+sleep: alima͂ | alimã 
+sleep: alimã 
+small: hòdòsu | hɔdɔsu 
+small: hɔdɔsu 
+smoke: dòfu | dɔfu 
+smoke: dɔfu 
+stand: dasidɔma͂ 
+stand: dasidòmã 
+star: bilimu 
+stone: dòa | doa	dɔa 
+stone: dɔa | doa	dɔa 
+sun: ofò | ofo	ofɔ 
+sun: ofɔ | ofo	ofɔ 
+swim: hane hemefiya͂ | hane hemefiyã 
+swim: hane hemefiyã 
+tail: tufònò | tufɔnɔ 
+tail: tufɔnɔ 
+that: we͂ | wẽ 
+that: wẽ | wẽ 
+this: wekae 
+thou: ge 
+tongue: dabise͂ | dabise*	dabisẽ 
+tongue: dabisẽ | dabise*	dabisẽ 
+tooth: bisi 
+tree: yebe 
+two: ageleweli | ageleweli	aɡɾɪwɛɾi 
+walk: mala͂ | malã 
+walk: malã 
+warm: òfòla 
+warm: ɔfɔla 
+water: ha͂ni | ha*ni	hãni 
+water: hãni | ha*ni	hãni 
+we: ni 
+what: ? aiba 
+what: aiba (?) | ? aiba 
+white: hòla | hɔla 
+white: hɔla 
+who: aiba 
+wing: ine 
+woman: kaisale 
+yellow: wenala 
+every: tɔbɔ 
+ash: dɔsɔ 
+abdomen: kufu 
+bigness: hɔ̃gala 
+large: hɔ̃gala 
+breasts: bu	buː 
+nail: abɔ gɔsene 
+talon: abɔ gɔsene 
+come from: yabe 
+ground: isa 
+land: isa 
+soil: isa 
+fly: abɔ tɔgɔdia aneke 
+fly v.: abɔ tɔgɔdia aneke 
+hand: debe 
+left hand: debe 
+right: debe 
+1 sg.: ne 
+be knowledgeable: hɔlɔke 
+lie down: alimã 
+head louse: tede 
+male: kɔlu 
+much: mɔmeya 
+multiple: mɔmeya 
+several: mɔmeya 
+hill: doma	dɔma 
+title: wi 
+nighttime: solodiyabe	sɔlɔdiyabe 
+adulterous: ageli	aɡɾɪ 
+single: ageli	aɡɾɪ 
+the: ageli	aɡɾɪ 
+unprincipled: ageli	aɡɾɪ 
+human: kolu 
+human being: kolu 
+person: kolu 
+rainy weather: hãni tine 
+path: togolo 
+route: togolo 
+hide: ka*fu	kãfu 
+little: hɔdɔsu 
+smallness: hɔdɔsu 
+rock: doa	dɔa 
+2 sg: ge 
+you: ge 
+grind: ageleweli	aɡɾɪwɛɾi 
+go: malã 
+1 pl. inc.: ni 
+we₁: ni 
+whiteness: hɔla 
+who?: aiba 
+female: kaisale 

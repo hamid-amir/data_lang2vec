@@ -1,0 +1,342 @@
+all: všechno | každý	vše	všechen	všechno	všichni 
+ashes: popel 
+at: při | při	u 
+bad: zlý | zlý	špatný 
+bark: kůra 
+belly: břicho 
+big: velký | veliký	velký 
+bird: pták 
+bite: kousat | hryzat	hryzati	kousat	kousati 
+black: černý 
+blood: krev | krEf	krev 
+bone: kost 
+breast: prso | hruď	prs	ňadro 
+burn: hořet | hořet	hořeti	páliti	žhnouti 
+cloud: mrak | mrak	oblak 
+cold: studený | chladný	studený 
+come: pojd | priyit	přicházeti	přijít	přijíti 
+day: den 
+die: umřít | mrtvý	smrt	umírat	umříti	zEmrit 
+dog: pes | pEs	pes 
+drink: pít, pití | pit	pít	píti 
+dry: sucho, suché | suchý 
+earth: země, zem 
+ear: ucho | ucho	uxo 
+eat: jíst | jíst	jísti 
+egg: vejce 
+eye: oko 
+fat (n.): sádlo 
+feather: peří, péro | pero	péro 
+fingernail: nehet 
+fire: ohen | ohE5	oheň 
+fish: ryba | riba	ryba 
+five: pět 
+flower: květ | květ	květina 
+fly (v.): lítat 
+foot: chodidlo | chodidlo	noha	stopa 
+four: čtyři 
+full: plný | pl5i	plný 
+give: dát | dát	dáti 
+good: dobrý, dobře 
+green: zelený 
+hair: vlasy, vlas | vlas	vlasy 
+hand: ruka | dlaň	ruka 
+head: hlava 
+hear: slyšet | sliSEt	slyšet	slyšeti 
+heart: srdce 
+horn: roh 
+how: jak 
+I: já | já	ya 
+in: v | uvnitř	v	ve 
+kill: zabít | usmrtit	usmrtiti	zabít	zabíti 
+knee: koleno | kolEno	koleno 
+know: vědět | vědět	věděti	znát	znáti 
+leaf: list 
+lie: ležet | ležeti | lež	ležet	lháti 
+lie: lhát | ležeti | lež	ležet	lháti 
+liver: játra | játra	yatra 
+long: dlouhý 
+louse: veš | vES	veš 
+man: muž | osoba	člověk 
+many: mnoho, hodně | mnoho	moc 
+meat: maso 
+moon: měsíc | luna	měsíc 
+mountain: hora | hora	kopec	pahorek	vrch 
+mouth: pusa | pusa	ústa 
+name: jméno | jméno	titul	ymEno 
+neck: krk | krk	šíje 
+new: nový | novi	nový 
+night: nnoc 
+nose: nos 
+not: ne 
+old: starý 
+one: jeden, jedno | jeden	yEdno 
+other: jiný | druhý	jiný 
+person: člověk | osoba	člověk 
+rain: déšt | déšt’	déšť 
+red: červený 
+river: řeka | potok	tok	řeka 
+road: cesta, silnice | cesta	py~ESina	silnice 
+root: kořen 
+round: kulatý | kulatý	okrouhlý 
+sand: písek 
+say: říct, povědět | mluvit	pověděti	praviti	říci	říkat | písek 
+seed: semínko, semeno | semeno	sémě 
+see: vidět | viTEt	vidět	viděti 
+sit: sedět | sedět	seděti 
+skin: kůže | kuZE	kůže	pokožka 
+sleep: spát | spaní	spánek	spát	spátí 
+small: malý 
+smoke: kouřit, kouř | dým	kouř 
+snow: sníh 
+stand: stát | stát	státi 
+star: hvězda | hvy~Ezda	hvězda 
+stone: kámen | kamEn	kámen	skála 
+sun: slunce | sluncE	slunce 
+swim: plavat | plavat	plouti	plovati 
+tail: ocas | chvost	ocas	ohon 
+that: to, tamto | tamta	tamten	tamto | jeden	yEdno 
+this: tohle | tato	tento	toto 
+thou: oni | ti	ty 
+thou: ty | ti	ty 
+three: tři 
+tongue: jazyk | jazyk	yazik 
+tooth: zub | zub	zup 
+tree: strom 
+two: dva, dvě | dva	dvě 
+walk: chodit | chodit	choditi	jít	jíti	kráčet 
+warm: teplo | teplý 
+water: voda 
+we: my 
+what: co 
+where: kde 
+white: bílý 
+who: kdo 
+wind: vítr 
+with: s | s	se 
+woman: žena 
+year: rok 
+yellow: žlutý 
+every: každý	vše	všechen	všechno	všichni 
+ash: popel 
+abdomen: břicho 
+bigness: veliký	velký 
+large: veliký	velký 
+breasts: hruď	prs	ňadro 
+claw: dráp 
+nail: dráp 
+talon: dráp 
+come from: priyit	přicházeti	přijít	přijíti 
+be dead: mrtvý	smrt	umírat	umříti	zEmrit 
+dead: mrtvý	smrt	umírat	umříti	zEmrit 
+earth: země 
+ground: země 
+land: země 
+soil: země 
+fly: letět	letěti 
+fly v.: letět	letěti 
+good: dobrý 
+left hand: ruka 
+right: ruka 
+1 sg.: já	ya 
+be knowledgeable: vědět	věděti	znát	znáti 
+lie down: ležeti 
+head louse: vES	veš 
+male: muž 
+much: mnoho	moc 
+multiple: mnoho	moc 
+several: mnoho	moc 
+flesh: maso 
+hill: hora	kopec	pahorek	vrch 
+title: jméno	titul	ymEno 
+night: noc 
+nighttime: noc 
+adulterous: jeden	yEdno 
+single: jeden	yEdno 
+the: jeden	yEdno 
+unprincipled: jeden	yEdno 
+human: osoba	člověk 
+human being: osoba	člověk 
+rainy weather: déšt’	déšť 
+path: cesta	py~ESina	silnice 
+route: cesta	py~ESina	silnice 
+hide: kuZE	kůže	pokožka 
+little: malý 
+smallness: malý 
+rock: kamEn	kámen	skála 
+2 sg: ti	ty 
+you: ti	ty 
+grind: dva	dvě 
+go: chodit	choditi	jít	jíti	kráčet 
+hot: teplý 
+1 pl. inc.: my 
+we₁: my 
+whiteness: bílý 
+who?: kdo 
+female: žena 
+distant: daleko	daleký 
+far: daleko	daleký 
+dull: těžký 
+heavy: těžký 
+serious: těžký 
+close: blízko	blízký 
+near: blízko	blízký 
+ner: blízko	blízký 
+salt: sůl 
+short: krátký 
+snake: had 
+thin: tenký 
+earthworm: červ 
+worm: červ 
+3 sg.: on 
+he: on 
+she: on 
+2 pl.: vy 
+ye: vy 
+you all: vy 
+3 pl.: ona	oni	ony 
+they: ona	oni	ony 
+here: sem	tady	tu	zde 
+there: tam 
+where?: kde 
+when: kdy 
+when?: kdy 
+how?: jak 
+some: nějaký	několik	pár	trocha 
+few: málo	nemnoho 
+broad: široký 
+wide: široký 
+wideness: široký 
+fat: maz	sádlo	tuk 
+thick: hrubý	tlustý 
+narrow: těsný	úzký 
+child: dítě 
+principal wife: chot’	choť	manželka	žena 
+wife: chot’	choť	manželka	žena 
+husband: chot’	choť	manžel	muž 
+his mother: arch. mateř	matka	máma	máti 
+mother: arch. mateř	matka	máma	máti 
+my mother: arch. mateř	matka	máma	máti 
+father: otec 
+his father: otec 
+my father: otec 
+animal: zvíře	živočich 
+forest: les 
+woods: les 
+branch: haluz	hůl	klacek	kůl	prut	pálka	větev 
+stick: haluz	hůl	klacek	kůl	prut	pálka	větev 
+fruit: ovoce	plod 
+grass: tráva 
+cord: lano	provaz	šňůra 
+rope: lano	provaz	šňůra 
+grease: maz	sádlo	tuk 
+leg: noha 
+arm: dlaň	ruka 
+wing: křídlo 
+gut: střeva	střevo	vnitřnosti	útroby 
+guts: střeva	střevo	vnitřnosti	útroby 
+insides: střeva	střevo	vnitřnosti	útroby 
+intestine: střeva	střevo	vnitřnosti	útroby 
+intestines: střeva	střevo	vnitřnosti	útroby 
+back: hřbet	záda 
+suck: cucat	sát	sáti 
+spit: plivat	plivati 
+vomit: blít	blíti	dávit	dáviti	zvracet	zvraceti 
+blow: douti	foukat	vanout	váti	vít 
+breath: dech	dýchat	dýchati 
+breathe: dech	dýchat	dýchati 
+laugh: smát se	smáti se	usmívati se 
+laughter: smát se	smáti se	usmívati se 
+cogitate: dumat	myslet	mysliti 
+reflect: dumat	myslet	mysliti 
+think: dumat	myslet	mysliti 
+smell: cítit	páchnouti	voněti	čichat 
+sniff: cítit	páchnouti	voněti	čichat 
+afraid: bát se	bázeň	strach	strachovat se 
+be afraid: bát se	bázeň	strach	strachovat se 
+fear: bát se	bázeň	strach	strachovat se 
+fright: bát se	bázeň	strach	strachovat se 
+alive: život	živoucí	živý	žít	žíti 
+be alive: život	živoucí	živý	žít	žíti 
+life: život	živoucí	živý	žít	žíti 
+live: život	živoucí	živý	žít	žíti 
+living: život	živoucí	živý	žít	žíti 
+fight: bojovat	bojovati	bíti se	válčit 
+hunt: lovit	loviti 
+beat: bíti	tlouci	udeřit	udeřiti	uhoditi 
+hit: bíti	tlouci	udeřit	udeřiti	uhoditi 
+strike: bíti	tlouci	udeřit	udeřiti	uhoditi 
+cut: krájeti	sekati	síci	tnout	tít	řezat	řezati 
+hack: krájeti	sekati	síci	tnout	tít	řezat	řezati 
+cut open: rozdělit	štípati 
+split: rozdělit	štípati 
+pierce: bodnout	bodnouti	píchnout 
+stab: bodnout	bodnouti	píchnout 
+scratch: škrábat 
+dig: kopat	kopati	rýti 
+tell lies: lež	ležet	lháti 
+turn: kroutiti	obrátit	točiti	vrtěti 
+turn around: kroutiti	obrátit	točiti	vrtěti 
+turn round: kroutiti	obrátit	točiti	vrtěti 
+drop: padat	padnouti	upadnout 
+fall: padat	padnouti	upadnout 
+grasp: držet	držeti 
+hold: držet	držeti 
+hold in arm: držet	držeti 
+squeeze: mačkati	stisknout	stlačit	zmáčknout 
+wring: mačkati	stisknout	stlačit	zmáčknout 
+rub: třít	tříti 
+wipe: utírat 
+wash: mýt	mýti	práti	umývat 
+wash clothes: mýt	mýti	práti	umývat 
+pull: tahat 
+push: strkati	tlačit	šoupati 
+shove: strkati	tlačit	šoupati 
+throw: hoditi	házet	házeti	vrhnouti 
+bind: vázat	vázati 
+fasten: vázat	vázati 
+tie: vázat	vázati 
+tie up: vázat	vázati 
+sew: šít	šíti 
+count: počet	počítat	počítati 
+enumerate: počet	počítat	počítati 
+number: počet	počítat	počítati 
+tally: počet	počítat	počítati 
+sing: zpívat	zpívati 
+have fun: hrát	hrát si s 
+play: hrát	hrát si s 
+float: plout	plouti	plovati 
+flow: téci	téct 
+freeze: mrznout	zmrznout 
+swell: otékat 
+brook: potok	tok	řeka 
+stream: potok	tok	řeka 
+lake: jezero 
+ocean: moře 
+sea: moře 
+dust: prach 
+fog: mlha 
+sky: nebe	obloha 
+ice: led 
+blaze: hořet	hořeti	páliti	žhnouti 
+daylight: den 
+daytime: den 
+evil: zlý	špatný 
+rot: shnilý 
+rotten: shnilý 
+dirty: špinavý 
+filthy: špinavý 
+soiled: špinavý 
+straight: přímý	rovný 
+sharp: ostrý 
+blunt: tupý 
+smooth: hladký 
+damp: mokrý	vlhký 
+wet: mokrý	vlhký 
+correct: pravý	správný 
+right side: pravý 
+left: levý 
+inside: uvnitř	v	ve 
+and: a	i 
+if: jestli	jestliže	když 
+because: jelikož	poňěvadž	protože 

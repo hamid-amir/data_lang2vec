@@ -1,0 +1,362 @@
+all: Minden | mind	minden	mindenki	összes 
+and: és | s	és 
+animal: állat 
+ashes:  Hamu | hamu 
+at: -nàl, nél | -nál	-nél 
+back: hát 
+bad: rossz | rossz	roszsz 
+bark:  Kéreg | fakéreg	kéreg 
+because: mert | mert	mivel 
+belly:  Has | has 
+big:  Nagy | nagy 
+bird:  Madár | madár 
+bite: (Csípés) | harap	harapni 
+bite: (Falat) | harap	harapni 
+bite: harap | harap	harapni 
+black: fekete 
+blood:  Vér | vér 
+blow: fúj | fúj	fújni	fúy 
+bone:  Csont | csont	czont 
+breast:  Mell | emlő	kebel	mell 
+breathe: lélegzik | légelzik	légezés	lélegezni	lélegzik 
+burn:  Ég | ég	égni 
+child: gyerek | gyerek	gyermek 
+cloud:  Felhő | felhő 
+cold: hideg | hideg	hűs 
+come:  Jön | jön	jönni	kerül	megy	yön 
+correct: helyes (adjective) | helyes	igaz	igazságos 
+correct: javìt (verb) | helyes	igaz	igazságos 
+count: szàmol | számol	számolni 
+cut: vág | vág	vágni 
+day: nap 
+die:  Meghal | hal	halni	halott	meghal 
+dig: ás | ás	ásni 
+dirty: piszkos | koszos	mocskos	moczkos	piszkos 
+dog:  Kutya | eb	kutya 
+drink:  Inni | inni	iszik 
+drink:  Iszik | inni	iszik 
+drink: ital | inni	iszik 
+drink:  Ivás | inni	iszik 
+dry: száraz 
+ear:  Fül | fül 
+earth:  Föld | föld 
+eat: Enni | enni	eszik 
+eat:  Eszik | enni	eszik 
+eat: Evés | enni	eszik 
+egg:  Tojás | tojás	toyás 
+eye:  Szem | szem 
+fall: esik | esik	esni 
+far: messze, tàvol | messze	messzi	meszsze	távol 
+father: apa 
+fat (n.):  Zsír 
+fear: fél | fél	félelem	félni 
+feather:  Toll | madártoll	toll 
+few: néhàny, kevés | kevés	valami 
+fight: harcol | harcol	harcolni	küzd	küzöl 
+fingernail: köröm 
+fire:  Tűz | tűz 
+fish:  Hal | hal 
+five: öt 
+flower: virág 
+fly (v.):  Repül 
+foot:  Láb | láb	lábfej 
+forest: erdő 
+four: négy 
+fruit: gyümölcs | gyümölcs	gyümölcz 
+full: tele | tele	telt 
+give: Ad | ad	adni	yuttat 
+good: jó | helyes	jó	yó 
+grass: fű 
+green:  Zöld | zöld 
+guts: belek 
+hair:  Haj | haj	hay	hayszál 
+hand:  Kéz | kéz 
+head:  Fej | fej	fey	fő 
+hear:  Hall | hall	hallani 
+heart:  Szív | szív 
+heavy: nehéz 
+he: ő 
+here: itt 
+hit: üt | czap	megüt	ver	üt	ütni 
+hold: tart | fog	fogni	tart 
+horn:  Kürt | szarv 
+horn: Szarv | szarv 
+how: hogy(an) | ahogy	hogy 
+hunt: vadászik | vadászik	vadászni 
+husband: férj | férj	féry 
+ice: jég | jég	yég 
+I:  Én | én 
+if: ha | ha	hogyha 
+in: -ban, -ben | -ban	-ben	belseyében	bent 
+kill:  Öl | megöl	öl	ölni 
+knee:  Térd | térd 
+know:  Tud | ismer	tud	tudni 
+lake: tó 
+laugh: nevet | nevet	nevetni 
+leaf:  Levél | levél	lomb 
+left: bal 
+leg: láb 
+lie:  Fekszik | fekszik | fekszik	feküdni	hazudik 
+lie:  Hazudik | fekszik | fekszik	feküdni	hazudik 
+live: él | él	élet	élni	élő 
+live: lakik | él	élet	élni	élő 
+liver:  Máj | máj	máy 
+long:  Hosszú | hosszú	hoszszú 
+louse:  Tetű | tetű 
+man:  Férfi | egyén	ember 
+many:  Sok | sok 
+meat: (Hús) | hús 
+moon:  Hold | hold 
+mother: anya 
+mountain: hegy 
+mountain:  Hegység | hegy 
+mouth:  Száj | ajak	száj	száy 
+name:  Név | név 
+narrow: keskeny | keskeny	szűk 
+neck:  Nyak | nyak 
+new: új | új	úy 
+night: éjszaka | éj	éjszaka	éy 
+nose:  Orr | orr 
+not:  Nem | nem 
+old: öreg (people) | régi	vén	öreg 
+one:  Egy | egy 
+other: más 
+person:  Személy | egyén	ember 
+play: darab (substantive) | játszani	játszik	yátszik 
+play: jàtszik (verb) | játszani	játszik	yátszik 
+pull: hùz | húz	húzni	von 
+push: nyom | halaszt	lök	tol	tolni 
+rain:  Eső | eső 
+red:  Piros | piros	vörös 
+red:  Vörös | piros	vörös 
+right: jobb | kéz | jobb	yobb 
+river: folyó | folyam	folyo	folyó	patak	ár 
+road:  Út | út 
+root:  Gyökér | gyökér	tő 
+rope: kötél 
+round: gömbölyű | kerek 
+round: kerek 
+salt: só 
+sand:  Homok | homok 
+say: mond | mond	mondani	szól | homok 
+say: Mondd | mond	mondani	szól | homok 
+scratch: karcol | vakar	vakarni 
+scratch: vakar | vakar	vakarni 
+sea: tenger 
+seed:  Mag | mag 
+see: Lát | lát	látni 
+sew: varr | varr	varrni 
+sharp: éles 
+short: alacsony | rövid 
+short: rövid 
+sing: énekel | dalol	énekel	énekelni 
+sit:  Ül | ül	ülni 
+skin:  Bőr | bőr 
+sky: ég 
+sleep: Alszik | alszik	aludni 
+small:  Kicsi | kicsi	kiczi	kis 
+smell: szagol | szagol	szagolni 
+smoke:  Füst | füst 
+snake: kígyó 
+snow: hó 
+some: egy kis | egyes	néhány 
+some: néhány | egyes	néhány 
+spit: köp | köp	köpni 
+split: hasít | feloszt	hasad	hasogat	hasít	hasítani 
+squeeze: szorít | saytol	szorít	szorítani 
+stab: szúr | megkésel	szúr	szúrni 
+stand:  Áll | áll	állni 
+star:  Csillag | csillag	czillag 
+stick: bot | bot	ág 
+stone:  Kő | kő	szikla	szirt 
+stone:  Szikla | kő	szikla	szirt 
+straight: egyenes 
+suck: szopik | szopik	szopni	szív 
+sun:  Nap | nap 
+swim:  Úszik | úszik	úszni 
+tail:  Farok | farok 
+that: az | ama	az | egy 
+that:  Azt | ama	az | egy 
+there: ott 
+they: ők 
+thick: sűrű | vastag 
+thick: vastag 
+think: gondol | gondol	gondolkozik	gondolkozni	gondolni	vél 
+think: gondolkozik | gondol	gondolkozik	gondolkozni	gondolni	vél 
+thin: sovány | vékony 
+thin: vékony 
+this:  Ez | e	ez 
+thou:  Te | te 
+three: három | hárma-	három 
+throw: dob | dob	dobni	vet 
+tongue:  Nyelv | nyelv 
+tooth:  Fog | fog 
+tree:  Fa | fa 
+turn: fordít | fordul	fordulni	megfordít 
+turn: fordul | fordul	fordulni	megfordít 
+two:  Kettő | kettő	két 
+vomit: hány | hány	hányni	okádik 
+walk: Sétál | megy	menni	sétál	sétálni 
+warm: meleg | langyos	meleg 
+wash: mos | mos	mosdik	mosni 
+water:  Víz | víz 
+we:  Mi | mi 
+wet: nedves, vizes | nedves	nyirkos 
+what:  Mi | ami	mi 
+when: mikor | amikor	mikor 
+where: hol | ahol	hol 
+where: honnan | ahol	hol 
+where: hova | ahol	hol 
+white:  Fehér | fehér 
+who:  Ki | aki	ki 
+wide: széles 
+wife: feleség | feleség	nej 
+wind: szél 
+wing: szárny 
+with: -val, -vel | -val	-vel 
+woman:  Nő | asszony	aszszony	nő 
+worm: kukac | féreg	giliszta	kukac 
+year: év | esztendő	év 
+yellow:  Sárga | sárga 
+you: ti | te 
+every: mind	minden	mindenki	összes 
+ash: hamu 
+abdomen: has 
+bigness: nagy 
+large: nagy 
+breasts: emlő	kebel	mell 
+claw: karom 
+nail: karom 
+talon: karom 
+come from: jön	jönni	kerül	megy	yön 
+be dead: hal	halni	halott	meghal 
+dead: hal	halni	halott	meghal 
+ground: föld 
+land: föld 
+soil: föld 
+fly: repül	repülni 
+fly v.: repül	repülni 
+left hand: kéz 
+1 sg.: én 
+be knowledgeable: ismer	tud	tudni 
+lie down: fekszik 
+head louse: tetű 
+male: férfi 
+much: sok 
+multiple: sok 
+several: sok 
+flesh: hús 
+hill: hegy 
+title: név 
+nighttime: éj	éjszaka	éy 
+adulterous: egy 
+single: egy 
+the: egy 
+unprincipled: egy 
+human: egyén	ember 
+human being: egyén	ember 
+rainy weather: eső 
+path: út 
+route: út 
+hide: bőr 
+little: kicsi	kiczi	kis 
+smallness: kicsi	kiczi	kis 
+rock: kő	szikla	szirt 
+2 sg: te 
+grind: kettő	két 
+go: megy	menni	sétál	sétálni 
+hot: langyos	meleg 
+1 pl. inc.: mi 
+we₁: mi 
+whiteness: fehér 
+who?: aki	ki 
+female: asszony	aszszony	nő 
+distant: messze	messzi	meszsze	távol 
+dull: nehéz 
+serious: nehéz 
+close: közel 
+near: közel 
+ner: közel 
+earthworm: féreg	giliszta	kukac 
+2 pl.: ti 
+ye: ti 
+you all: ti 
+3 pl.: ők 
+where?: ahol	hol 
+when?: amikor	mikor 
+how?: ahogy	hogy 
+broad: széles 
+wideness: széles 
+fat: zsír 
+principal wife: feleség	nej 
+his mother: anya 
+my mother: anya 
+his father: apa 
+my father: apa 
+woods: erdő 
+branch: bot	ág 
+cord: kötél 
+grease: zsír 
+arm: kéz 
+gut: belek 
+insides: belek 
+intestine: belek 
+intestines: belek 
+breath: légelzik	légezés	lélegezni	lélegzik 
+laughter: nevet	nevetni 
+cogitate: gondol	gondolkozik	gondolkozni	gondolni	vél 
+reflect: gondol	gondolkozik	gondolkozni	gondolni	vél 
+sniff: szagol	szagolni 
+afraid: fél	félelem	félni 
+be afraid: fél	félelem	félni 
+fright: fél	félelem	félni 
+alive: él	élet	élni	élő 
+be alive: él	élet	élni	élő 
+life: él	élet	élni	élő 
+living: él	élet	élni	élő 
+beat: czap	megüt	ver	üt	ütni 
+strike: czap	megüt	ver	üt	ütni 
+hack: vág	vágni 
+cut open: feloszt	hasad	hasogat	hasít	hasítani 
+pierce: megkésel	szúr	szúrni 
+tell lies: fekszik	feküdni	hazudik 
+turn around: fordul	fordulni	megfordít 
+turn round: fordul	fordulni	megfordít 
+drop: esik	esni 
+grasp: fog	fogni	tart 
+hold in arm: fog	fogni	tart 
+wring: saytol	szorít	szorítani 
+rub: dörzsöl	dörzsölni	dörzöl 
+wipe: töröl	törölni 
+wash clothes: mos	mosdik	mosni 
+shove: halaszt	lök	tol	tolni 
+bind: köt	kötni 
+fasten: köt	kötni 
+tie: köt	kötni 
+tie up: köt	kötni 
+enumerate: számol	számolni 
+number: számol	számolni 
+tally: számol	számolni 
+have fun: játszani	játszik	yátszik 
+float: fürdik	lebeg	lebegni	úszik	úszni 
+flow: folyik	folyni	ömlik 
+freeze: fagy	fagyni 
+swell: dagad	dagadni	duzzad	duzzadni 
+brook: folyam	folyo	folyó	patak	ár 
+stream: folyam	folyo	folyó	patak	ár 
+ocean: tenger 
+dust: por 
+fog: köd 
+blaze: ég	égni 
+daylight: nap 
+daytime: nap 
+evil: rossz	roszsz 
+rot: korhadt	rothadt 
+rotten: korhadt	rothadt 
+filthy: koszos	mocskos	moczkos	piszkos 
+soiled: koszos	mocskos	moczkos	piszkos 
+blunt: tompa	életlen 
+smooth: sima 
+damp: nedves	nyirkos 
+right side: jobb	yobb 
+inside: -ban	-ben	belseyében	bent 

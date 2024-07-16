@@ -1,0 +1,260 @@
+all: kdeq	toloŋ 
+every: kdeq	toloŋ 
+ash: kɔhuq 
+ashes: kɔhuq 
+abdomen: blutut 
+belly: blutut 
+big: bɔng	bɔŋ 
+bigness: bɔng	bɔŋ 
+large: bɔng	bɔŋ 
+bird: qɔnuk kɔyuh 
+bite: meket 
+black: hitɨm	hɨtɨm 
+blood: lito7	litoq 
+bone: ti7ol	tiqɔl 
+breast: kfuh	tutu7	tutuq 
+breasts: kfuh	tutu7	tutuq 
+burn: mtɨm 
+burn tr.: mtɨm 
+cloud: lobun	lɔbun 
+cold: tnaw 
+come: mogow	mógów 
+come from: mogow	mógów 
+be dead: d3N matay	ding matay	dɨŋ matay 
+dead: d3N matay	ding matay	dɨŋ matay 
+die: d3N matay	ding matay	dɨŋ matay 
+dog: ohuh	qɔhuh 
+drink: minum 
+dry: hdaw	mekeng	mekeŋ 
+ear: kliNuh	klinguh	kliŋuh 
+eat: mkɨn 
+egg: naq qɔnuk	ngaq qɔnuk 
+eye: matah 
+feather: lakay 
+fire: ofih	ohu7	qɔfih	qɔhuq 
+fish: quton qel	uton	uton 7el 
+fly: moyong	moyoŋ 
+fly v.: moyong	moyoŋ 
+full: hnok 
+good: hyuh 
+green: lɨmnaw 
+hair: wɨk 
+hand: sig3l	sigtl	sigtl~	sigɨl 
+left hand: sig3l	sigtl	sigtl~	sigɨl 
+right: sig3l	sigtl	sigtl~	sigɨl 
+head: kuluh 
+hear: muNol	mungɔl	muŋɔl 
+1 sg.: gunun s3bla7	gunun sɨblaq	nu7 s3h	nuq sɨh	o7uh 
+I: gunun s3bla7	gunun sɨblaq	nu7 s3h	nuq sɨh	o7uh 
+kill: matay 
+knee: bukol 
+be knowledgeable: tngon	tʌŋón 
+know: tngon	tʌŋón 
+leaf: do7un	dɔqun 
+lie: hʌlilil 
+lie down: hʌlilil 
+liver: katay 
+long: mwarau	tahaq 
+head louse: kutuh 
+louse: kutuh 
+male: lɔgih 
+man: ta7uh	taquh 
+moon: bulon 
+hill: bulul 
+mountain: bulul 
+mouth: sumung	sumuŋ 
+name: boluy	bɔluy 
+title: boluy	bɔluy 
+neck: lihɔl 
+new: lomih	lɔmih 
+night: kifuh 
+nighttime: kifuh 
+nose: iluN	qilung	qiluŋ 
+adulterous: mso7	msoq	sotuh	sɔtuh 
+one: mso7	msoq	sotuh	sɔtuh 
+single: mso7	msoq	sotuh	sɔtuh 
+that: nih 
+the: mso7	msoq	sotuh	sɔtuh 
+unprincipled: mso7	msoq	sotuh	sɔtuh 
+human: ta7uh	taquh 
+human being: ta7uh	taquh 
+person: ta7uh	taquh 
+rain: kulon 
+rainy weather: kulon 
+red: huloq 
+path: lan 
+road: lan 
+route: lan 
+root: dɔlil 
+sand: hɨlɨk 
+say: mon	mɔn 
+see: mton	mtɔn 
+sit: myon 
+hide: kulit 
+skin: kulit 
+sleep: tungoq	tuŋoq 
+little: qudiq 
+small: qudiq 
+smallness: qudiq 
+smoke: kɨbɨl 
+star: blotik	blɔtik 
+rock: botuh	bɔtuh 
+stone: botuh	bɔtuh 
+swim: kmɔhung	kmɔhuŋ	smulif 
+tail: qikɔng	qikɔŋ 
+this: laqan 
+2 sg: o7uh	qɔquh	u7uh 
+thou: o7uh	qɔquh	u7uh 
+you: o7uh	qɔquh	u7uh 
+tongue: dilak 
+tooth: Nihih	nihih	ŋihih 
+tree: koyuh 
+grind: l3wuh	lɨwuh	sotuh	sɔtuh 
+two: l3wuh	lɨwuh	sotuh	sɔtuh 
+go: mogow	tmɔnɔk 
+walk: mogow	tmɔnɔk 
+hot: kiniq 
+warm: kiniq 
+water: el	qel 
+1 pl. inc.: duh	t3kuy 
+we: duh	t3kuy 
+we₁: duh	t3kuy 
+what: luh	tɨduh 
+white: bukay 
+whiteness: bukay 
+who: taqu duh	tɨduh 
+who?: taqu duh	tɨduh 
+female: libun 
+woman: libun 
+yellow: melel 
+distant: lɨmɔnih	mayuk	mɔnih 
+far: lɨmɔnih	mayuk	mɔnih 
+dull: blat 
+heavy: blat 
+serious: blat 
+close: mɔnih	yuh	yɔh 
+near: mɔnih	yuh	yɔh 
+ner: mɔnih	yuh	yɔh 
+salt: kahiq 
+short: laq tahaq	qukcl 
+snake: qulal 
+thin: lufih 
+wind: lɨnos 
+earthworm: kulɨd 
+worm: kulɨd 
+year: halay 
+2 pl.: mih	tɨkuy 
+ye: mih	tɨkuy 
+you all: mih	tɨkuy 
+3 pl.: yuh 
+they: yuh 
+where: mayuk	nuq sɨh 
+where?: mayuk	nuq sɨh 
+when: kilon 
+when?: kilon 
+how: hiluh	kɨ 
+how?: hiluh	kɨ 
+other: taqu duh	tolong 
+three: lɨwuh	tluh 
+four: fat	tluh 
+five: limuh 
+broad: lamang	lamaŋ 
+wide: lamang	lamaŋ 
+wideness: lamang	lamaŋ 
+fat: lanah	qabuq 
+thick: mfol 
+narrow: sikɨb 
+principal wife: yɨhɨn 
+wife: yɨhɨn 
+husband: yɨhɨn 
+his mother: yeq 
+mother: yeq 
+my mother: yeq 
+father: maq 
+his father: maq 
+my father: maq 
+forest: dlaq	numah 
+woods: dlaq	numah 
+branch: haŋa 
+stick: haŋa 
+fruit: bunguh	buŋuh 
+flower: bulok 
+grass: bʌnʌs 
+cord: tebed 
+rope: tebed 
+grease: lanah	qabuq 
+wing: hafak 
+gut: tnahih 
+guts: tnahih 
+insides: tnahih 
+intestine: tnahih 
+intestines: tnahih 
+back: kwang	kwaŋ 
+suck: msɨf	msɨfɬ 
+spit: dmulak	dɨmfut 
+vomit: lɨwol 
+blow: myuf 
+breath: mʌnawa 
+breathe: mʌnawa 
+laugh: kulih 
+laughter: kulih 
+cogitate: hʌndʌm 
+reflect: hʌndʌm 
+think: hʌndʌm 
+smell: mungɨf	muŋɨf 
+sniff: mungɨf	muŋɨf 
+afraid: likɔq 
+be afraid: likɔq 
+fear: likɔq 
+fright: likɔq 
+hunt: dmulok 
+cut: hʌlnʌk	tnilos 
+hack: hʌlnʌk	tnilos 
+cut open: mʌsô 
+split: mʌsô 
+pierce: tmibo 
+stab: tmibo 
+scratch: kitil	kmalus 
+dig: mɔkɔl 
+stand: mdaq 
+drop: btang	btaŋ 
+fall: btang	btaŋ 
+grasp: kuloŋ	mɔgɔt 
+hold: kuloŋ	mɔgɔt 
+hold in arm: kuloŋ	mɔgɔt 
+squeeze: kɨmmɨs 
+wring: kɨmmɨs 
+throw: tudaq 
+bind: mfet 
+fasten: mfet 
+tie: mfet 
+tie up: mfet 
+sew: tɨmbe 
+count: laq	msoq 
+enumerate: laq	msoq 
+number: laq	msoq 
+tally: laq	msoq 
+flow: mʌlʌl 
+lake: lanaw 
+ocean: mɔhin 
+sea: mɔhin 
+dust: kfung	kfuŋ 
+fog: lobun 
+sky: lɔngit	lɔŋit 
+bad: sidɨk 
+evil: sidɨk 
+rot: bɔlɔk 
+rotten: bɔlɔk 
+dirty: nusing	nusiŋ 
+filthy: nusing	nusiŋ 
+soiled: nusing	nusiŋ 
+sharp: tɨlɨm 
+blunt: laq tɨlɨm 
+damp: hefeq 
+wet: hefeq 
+right side: kwanan 
+left: qiwong	qiwoŋ 
+in: di 
+inside: di 
+and: gɔtuh	kdeq 
+if: kɨ	nʌ 

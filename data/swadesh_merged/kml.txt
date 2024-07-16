@@ -1,0 +1,333 @@
+all: amin	losan 
+every: amin	losan 
+ash: dapol 
+ashes: dapol 
+bark: uppak 
+abdomen: buwang 
+belly: buwang 
+big: dakol 
+bigness: dakol 
+large: dakol 
+bird: sissiwit 
+bite: kumtob 
+black: ngitit 
+blood: da8a	dala 
+bone: tuNa8	tung-al 
+breast: balukung 
+breasts: balukung 
+cloud: libuu 
+cold: antungnin 
+come: umali 
+come from: umali 
+be dead: natoy 
+dead: natoy 
+die: natoy 
+dog: asu 
+drink: uminum 
+dry: ammamaga 
+ear: iNa	inga 
+earth: luta 
+ground: luta 
+land: luta 
+soil: luta 
+eat: angan 
+egg: iplug 
+eye: ata 
+feather: dutdut 
+fire: apuy 
+fish: ugadiw 
+fly: tumayap 
+fly v.: tumayap 
+foot: dapan 
+full: napnu 
+give: itton 
+good: ambalu 
+green: lingsi 
+hair: buuk 
+hand: ima 
+left hand: ima 
+right: ima 
+head: ulu 
+hear: doNo8	dongol 
+heart: pusu 
+horn: sakkud 
+1 sg.: sakon 
+I: sakon 
+kill: gongaton 
+knee: powog 
+be knowledgeable: igammu 
+know: igammu 
+leaf: tubu 
+liver: agtoy 
+long: andu 
+head louse: kutu 
+louse: kutu 
+male: lalaki 
+man: tagu 
+many: adu 
+much: adu 
+multiple: adu 
+several: adu 
+moon: solag 
+hill: beleg 
+mountain: beleg 
+mouth: sungad 
+name: Nadan	ngadan 
+title: Nadan	ngadan 
+neck: bagang 
+new: kak-ala	kaka8a 
+night: labi 
+nighttime: labi 
+nose: oNo8	ongol 
+not: adipun	dakampun 
+adulterous: osa	osan	ossaan 
+one: osa	osan	ossaan 
+single: osa	osan	ossaan 
+that: andi 
+the: osa	osan	ossaan 
+unprincipled: osa	osan	ossaan 
+human: tagu 
+human being: tagu 
+person: tagu 
+rain: udan 
+rainy weather: udan 
+red: dilaag 
+path: ka8sa	kalsa 
+road: ka8sa	kalsa 
+route: ka8sa	kalsa 
+root: lamut 
+round: natibukol 
+sand: gallis 
+say: ibaga 
+see: ilan 
+seed: bukol 
+sit: tumukdu 
+hide: kublit 
+skin: kublit 
+sleep: nasuyop 
+little: ban-og 
+small: ban-og 
+smallness: ban-og 
+smoke: asok 
+star: bituwon 
+rock: batu 
+stone: batu 
+sun: init 
+swim: ankiyat 
+tail: ipus 
+this: anna 
+2 sg: sika 
+thou: sika 
+you: sika 
+tongue: dela 
+tooth: baba 
+tree: kayu 
+grind: duwa 
+two: duwa 
+go: anaddalan 
+walk: anaddalan 
+hot: an-attub 
+warm: an-attub 
+water: danum 
+1 pl. inc.: dikani	ditaku 
+we: dikani	ditaku 
+we₁: dikani	ditaku 
+what: ngai 
+white: itak 
+whiteness: itak 
+who: ngai 
+who?: ngai 
+female: bubai 
+woman: bubai 
+yellow: ngela 
+distant: adayu 
+far: adayu 
+dull: dagson	dam-ot 
+heavy: dagson	dam-ot 
+serious: dagson	dam-ot 
+close: adani 
+near: adani 
+ner: adani 
+salt: asin 
+short: abobba	ansokba 
+snake: ulog 
+thin: ayyapit	dagele 
+wind: bibbid 
+earthworm: batol 
+worm: batol 
+year: tawon 
+3 sg.: siya 
+he: siya 
+she: siya 
+2 pl.: dikayu 
+ye: dikayu 
+you all: dikayu 
+3 pl.: dida 
+they: dida 
+here: sina 
+there: sidi 
+where: dinu 
+where?: dinu 
+when: kamaan 
+when?: kamaan 
+how: inon 
+how?: inon 
+some: udum 
+few: akit	poos 
+other: udum 
+three: tulu 
+four: opat 
+five: lima 
+broad: alwa 
+wide: alwa 
+wideness: alwa 
+fat: taba 
+thick: kopal 
+narrow: ansulpit 
+child: abeng 
+principal wife: asawaʼe bubai 
+wife: asawaʼe bubai 
+husband: asawaʼe lalaki 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+animal: ayam 
+forest: ginubat 
+woods: ginubat 
+branch: lasang	tuu 
+stick: lasang	tuu 
+fruit: bua 
+flower: tabbak 
+grass: lumun 
+cord: kiddong	tali 
+rope: kiddong	tali 
+flesh: laman 
+meat: laman 
+grease: taba 
+claw: kukkulung 
+fingernail: kukkulung 
+nail: kukkulung 
+leg: uki 
+arm: ima 
+wing: payak 
+gut: botak 
+guts: botak 
+insides: botak 
+intestine: botak 
+intestines: botak 
+back: odog 
+suck: supsupan 
+spit: tumuppa 
+vomit: an-uta 
+blow: bumibbid 
+breath: umangos 
+breathe: umangos 
+laugh: mayokyok 
+laughter: mayokyok 
+cogitate: somsomok 
+reflect: somsomok 
+think: somsomok 
+smell: sungsungon 
+sniff: sungsungon 
+afraid: makimut 
+be afraid: makimut 
+fear: makimut 
+fright: makimut 
+alive: matagu 
+be alive: matagu 
+life: matagu 
+live: matagu 
+living: matagu 
+fight: ampatoy 
+hunt: anganup 
+beat: bikungon 
+hit: bikungon 
+strike: bikungon 
+cut: sugaton 
+hack: sugaton 
+cut open: bisakon 
+split: bisakon 
+pierce: duy-ukon 
+stab: duy-ukon 
+scratch: gug-u 
+dig: amboka 
+lie: umbog 
+lie down: umbog 
+tell lies: umbog 
+stand: sumikad 
+turn: amballigus 
+turn around: amballigus 
+turn round: amballigus 
+drop: naottag 
+fall: naottag 
+grasp: onnan 
+hold: onnan 
+hold in arm: onnan 
+squeeze: posposon 
+wring: posposon 
+rub: apuwap 
+wipe: punas 
+wash: kiwas 
+wash clothes: kiwas 
+pull: iyagwod 
+push: itukyud 
+shove: itukyud 
+throw: iballu 
+bind: itakod 
+fasten: itakod 
+tie: itakod 
+tie up: itakod 
+sew: dait 
+count: ambelang 
+enumerate: ambelang 
+number: ambelang 
+tally: ambelang 
+sing: ankanta 
+have fun: an-ay-ayam 
+play: an-ay-ayam 
+float: anappak 
+flow: an-ayus 
+freeze: bumatu 
+swell: lumtog 
+brook: tawwang 
+river: tawwang 
+stream: tawwang 
+lake: baybay 
+ocean: baybay 
+sea: baybay 
+dust: gabu	tapuk 
+fog: nopnop 
+sky: langit 
+snow: dalalu 
+ice: dalalu 
+blaze: nasgob	sogob 
+burn: nasgob	sogob 
+day: algaw 
+daylight: algaw 
+daytime: algaw 
+old: dadaan 
+bad: lawweng 
+evil: lawweng 
+rot: nalpos 
+rotten: nalpos 
+dirty: kaissaw 
+filthy: kaissaw 
+soiled: kaissaw 
+straight: nanggodong 
+sharp: antadom 
+blunt: bungdol 
+smooth: an-imnas 
+damp: ambabasa 
+wet: ambabasa 
+correct: ustu 
+right side: dawinan 
+left: dawigi 
+at: ad	atte 
+in: ad	atte 
+inside: ad	atte 
+and: kad	kan	wok	ya 
+if: nu 
+because: te 

@@ -1,0 +1,152 @@
+all: famoro 
+every: famoro 
+ash: baigix3 
+ashes: baigix3 
+bark: kume7u 
+abdomen: iba	xeb3 
+belly: iba	xeb3 
+big: gira 
+bigness: gira 
+large: gira 
+bird: xo3 
+bite: edu 
+black: k3vo 
+blood: t3xo7o 
+bone: bak3	bakk3 
+breast: m3fa5o	mipa5o 
+breasts: m3fa5o	mipa5o 
+claw: asi7usegaime7u 
+nail: asi7usegaime7u 
+talon: asi7usegaime7u 
+cloud: aimufai7u 
+cold: s3ku 
+come: sa 
+come from: sa 
+be dead: CEmE	gixEbE	gixeve 
+dead: CEmE	gixEbE	gixeve 
+die: CEmE	gixEbE	gixeve 
+dog: x3kku	x3ku 
+drink: adu 
+dry: figa5o 
+ear: n3x3mE7u	n3x3me7u 
+earth: xin3x3 
+ground: xin3x3 
+land: xin3x3 
+soil: xin3x3 
+eat: du 
+egg: iy3 
+eye: aZ373	aj3 
+fat: d3r3ba 
+fat n.: d3r3ba 
+grease: d3r3ba 
+lubricant: d3r3ba 
+oil: d3r3ba 
+feather: ixene 
+fire: k3x3gai	kusibai 
+fish: taba	tava 
+fly: ga7afe 
+fly v.: ga7afe 
+foot: t37ai 
+full: ga7afo 
+give: ak3 
+good: imi 
+green: aty~3va 
+hair: niga3xene 
+hand: usE	use 
+left hand: usE	use 
+right: usE	use 
+head: niga3 
+hear: gub u	gubu 
+heart: k3d3 
+horn: itu 
+1 sg.: uxo7o 
+I: uxo7o 
+kill: gixevesu 
+knee: memuba 
+be knowledgeable: gaxa 
+know: gaxa 
+leaf: amE	ame 
+lie: s3uk3n3bo 
+lie down: s3uk3n3bo 
+liver: iga	igano 
+long: kamovo 
+head louse: ga5i7u 
+louse: ga5i7u 
+male: gaifi 
+man: miyam3na 
+many: giramo	sit3 
+much: giramo	sit3 
+multiple: giramo	sit3 
+several: giramo	sit3 
+flesh: duxo7o	uku 
+meat: duxo7o	uku 
+moon: fukuo n373ba 
+hill: ba3	gax3 
+mountain: ba3	gax3 
+mouth: ix3 
+name: momo 
+title: momo 
+neck: koda7e 
+new: bo	bo7o	bo7ono	bu 
+night: fuku	pukku 
+nighttime: fuku	pukku 
+nose: t3x37u	t3x3u 
+not: Ca7ano	t3 
+adulterous: sa	sano	sááno 
+one: sa	sano	sááno 
+single: sa	sano	sááno 
+that: xo7ono 
+the: sa	sano	sááno 
+unprincipled: sa	sano	sááno 
+human: miyam3na 
+human being: miyam3na 
+person: miyam3na 
+rain: nixaba 
+rainy weather: nixaba 
+red: t3fai5o 
+path: x37ai 
+road: x37ai 
+route: x37ai 
+root: bako7oko	tano 
+round: fatiy3	okei 
+say: ne	x3bege7i 
+see: atty3mE	atty~3me	mEkk3 
+seed: basuta	nobaba 
+sit: g3k3n3 
+hide: mE7E	me7e 
+skin: mE7E	me7e 
+sleep: k3ga 
+little: numenene 
+small: numenene 
+smallness: numenene 
+smoke: aimufai7u 
+stand: xuZeve 
+star: mEk3r3gai	mek3r3gai 
+rock: gisiba 
+stone: gisiba 
+sun: kuxeo n373ba 
+swim: isi 
+tail: ibu7u 
+this: xino	xixe 
+2 sg: 3xo7o	am37ai 
+thou: 3xo7o	am37ai 
+you: 3xo7o	am37ai 
+tongue: nExEba	nexeba 
+tooth: igai 
+tree: 3mo7o 
+grind: minok3	minokk3	míínokkɨ 
+two: minok3	minokk3	míínokkɨ 
+go: 3ge 
+walk: 3ge 
+water: n3fai7i	n3fai7u	n3pai7u	pai7u 
+1 pl. inc.: m37ai	m3pE	m3si 
+we: m37ai	m3pE	m3si 
+we₁: m37ai	m3pE	m3si 
+what: xinexe 
+white: sesene 
+whiteness: sesene 
+who: kaxan3 
+who?: kaxan3 
+female: gaigo 
+woman: gaigo 
+yellow: gigiva 

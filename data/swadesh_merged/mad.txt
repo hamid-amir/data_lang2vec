@@ -1,0 +1,313 @@
+all: [kabbʱi] | kabbi 
+and: kalaban 
+animal: [kiban] 
+ashes: abu | loloŋ 
+back: təŋŋa | balakaŋ 
+bad: ǰʱubaʔ | jubaʔ 
+bark: kuliʔ-na kaǰu 
+because: [karana] 
+belly: tabuʔ 
+bird: manuʔ | manoʔ 
+bite: kikkiʔ | kekkeʔ 
+black: čəlləŋ | celleŋ 
+blood: ḍara | dhara	dh~ara 
+blow: sərrup | ñarepo 
+bone: tulaŋ | tolaN	tolaŋ 
+breast: susu | soso 
+breathe: ñaba | a-ñaba 
+burn: sulət | ñolet 
+child: naʔ-kanaʔ 
+cloud: undəm | ondhem 
+cold: čilləp | cellep 
+come: ḍatəŋ | dhateŋ	dh~ateN 
+correct: bəndər 
+count: ituŋ | metoŋ 
+cut: kəṭṭuk | ŋerraʔ 
+die: mati | mate 
+dig: maŋbaŋ ŋali(kali) 
+dirty: kutur | kotor 
+dog: patiʔ | pate7	pateʔ 
+drink: inum | Nemon	ŋemon 
+dry: kərriŋ | kerreŋ 
+dull: tumpul | berraʔ | tompol 
+dust: abu 
+ear: kupiŋ | %kopeN	kopeŋ 
+earth: [bumij 
+egg: təllur | tellor 
+empty: kusuŋ 
+eye: mata 
+fall: pʷawe | gaggar 
+far: ǰau | jau 
+father: əppaʔ | emmaʔ 
+fat (n.): gʱaǰʱi 
+fear: takuʔ | takoʔ 
+few: sakunίʔ 
+fingernail: bʷisi lime-n 
+fire: apuy | apoy 
+fish: ǰʱiukuʔ | jukoʔ	yuko7 
+five: limaʔ | lema’ 
+float: ŋambaŋ (kambaŋ) 
+flower: kəmbaŋ | kembaŋ 
+flow: gʱili | a-gili 
+fly (v.): abbʱər 
+fog: əbbʱun | embun 
+foot: suku 
+forest: alas 
+four: əmpaʔ | empaʔ	empa’ 
+frog: kataʔ 
+fruit: waʔ-buwaʔ-an 
+full: pussaʔ 
+give: bərrìʔ 
+good: bəččiʔ | bagus 
+grass: rəbbʱia | rebba 
+green: bʱiru | biru 
+guts: pərroʔ | perroʔ 
+hair: ubuʔ | obuʔ 
+hand: tanaŋ | tanaN	tanaŋ 
+head: čiṭaʔ | cethak 
+hear: ŋ-iḍiŋ | edh~iN	ŋ-edhiŋ 
+heart: ati 
+heavy: bərraʔ | berraʔ 
+he: dflibiʔ-na 
+hit: pukul | pokol 
+horn: tanduʔ 
+how: ḍəʔrəmmaʔ | baramma 
+hunt: a-bʱuru | a-buru 
+husband: laki | lake 
+ice: [es] 
+if: kalamun | [kala]mon 
+in: daləm | dhalem 
+I: siŋkuʔ | seNk~o7	seŋkoʔ 
+kill: patiʔ-i | mateʔe 
+knee: tuʔut 
+know: tau | tao 
+lake: [talaga] 
+large: raǰa | raja 
+laugh: a-gəllaʔ | a-gellaʔ 
+leaf: ḍaun | dhaun	dh~aun 
+left: kačir | kacer 
+leg: suku 
+lie: ḍuŋ-tiduŋ-an | dhuŋ tedhuyan 
+liver: ati | ate 
+live: udiʔ | odhiʔ 
+long: lañǰaŋ | jau 
+louse: kutu | koto 
+man: uriŋ lakiʔ | oreN	oreŋ 
+many: baññaʔ 
+meat: dʱagʱiŋ | dagiŋ 
+moon: bulan 
+mother: əmbuʔ | embuʔ 
+mountain: gʱunuŋ 
+mouth: čuluʔ | coloʔ 
+name: ñarna | 5ama	ñama 
+narrow: niŋkiʔ | copeʔ 
+near: sэmmaʔ | semmaʔ 
+neck: liʔir | leʔer 
+new: añar | %a5ar	añar 
+night: maləm | malem 
+nose: iluŋ | eloN	eloŋ 
+old: tuwa 
+one: sittuŋ | setoN	settong	settoŋ 
+person: uriŋ | oreN	oreŋ 
+play: main 
+pull: taǰaʔ 
+push: suruŋ 
+rain: uǰʱan | ojan 
+red:   mira | mera 
+right: kaŋan | tanaN	tanaŋ 
+river: suŋay 
+road: ǰʱalan | loroN	loroŋ 
+root: ramuʔ | ramoʔ 
+rope: tali | tale	tampar 
+rotten: buččuʔ | buccoʔ 
+round: buntər 
+rub: kusut 
+salt: buǰa | buja 
+sand: bəḍḍʱi | beddhi 
+say: ŋučaʔ (-učaʔ) | ŋocaʔ | beddhi 
+sea: tasiʔ | taseʔ 
+seed: [bʱibʱit] 
+sew: a-ǰʱaia | a-jaiʔ 
+sharp: taĵʱam | tajem 
+short: pinḍaʔ | pendhaʔ 
+sing: ñañi 
+sit: tuĵu? | tajuʔ 
+skin: kuliʔ | kole7	koleʔ 
+sky: laŋŋiʔ | laŋŋeʔ 
+sleep: tiduŋ | tedhuŋ 
+small: kiniʔ | keneʔ 
+smell: [čiyum] | ñeyom 
+smoke: kukus | kokos 
+smooth: alus 
+snake: ular | olar 
+snow: [salǰu] 
+some: sakuniʔ 
+spit: čupa | a-copa 
+split: puka | ñebaʔ 
+stab: čuŏču | ñoca 
+stand: mañǰəŋ | man|jeŋ 
+star: bintaŋ | bintaŋ	bint~aN 
+suck: isəp | ŋeññot 
+sun: mata ari | are 
+tail: buntuʔ | buntoʔ 
+they: dʱibiʔ-na kabbʱi | abaʔna kabbi 
+thick: kandʱəl | tebbel 
+think: [pikkir] | mekker 
+thin: tipis | tepes 
+thou: baʔna | bana	baʔna 
+thou: baʔna kabbfii | bana	baʔna 
+three: təlluʔ | telloʔ	tello’ 
+throw: tambu | ŋoteppagi 
+tie: pikut | naleʔe 
+tongue: ǰʱila | jila	yila 
+tooth: gʱįgʱi | gigi 
+tree: kaʔ-buŋkaʔ-an 
+turn: tuli 
+two: ḍuwaʔ | dhuwaʔ	dhy	dh~uwa7 
+vomit: uta | ŋota 
+warm: panas 
+we: siŋkuʔ | ban bana kabi	ban baʔna kabbi	seNk~o7	seŋkoʔ	seŋkoʔ kabbi 
+wet: bačča | bacca 
+what: apa 
+when: bila 
+which: si kəmma 
+white: puti | pote 
+who: [sapa] 
+why: arapa 
+wide: libar | lebar 
+wife: bini | bine 
+wind: aŋin | aŋen 
+wing: kalimbaŋ | baŋbaŋ 
+woman: uriŋ biniʔ | bineʔ 
+worm: čačiŋ | caceŋ 
+wrong: sala 
+year: taun | taon 
+yellow: kuniŋ | koneŋ 
+every: kabbi 
+ash: loloŋ 
+abdomen: tabuʔ 
+big: raja 
+bigness: raja 
+breasts: soso 
+burn tr.: ñolet 
+come from: dhateŋ	dh~ateN 
+be dead: mate 
+dead: mate 
+eat: ŋakan 
+feather: bulu 
+fly: ŋabber 
+fly v.: ŋabber 
+left hand: tanaN	tanaŋ 
+1 sg.: seNk~o7	seŋkoʔ 
+be knowledgeable: tao 
+lie down: dhuŋ tedhuyan 
+head louse: koto 
+male: lakeʔ 
+title: 5ama	ñama 
+nighttime: malem 
+adulterous: setoN	settong	settoŋ 
+single: setoN	settong	settoŋ 
+that: arowa	keʔissa 
+the: setoN	settong	settoŋ 
+unprincipled: setoN	settong	settoŋ 
+human: oreN	oreŋ 
+human being: oreN	oreŋ 
+rainy weather: ojan 
+path: loroN	loroŋ 
+route: loroN	loroŋ 
+see: Nanela	neNg~u	neŋgu	ŋanela 
+hide: kole7	koleʔ 
+little: keneʔ 
+smallness: keneʔ 
+rock: bato 
+stone: bato 
+swim: a-laŋŋoy 
+this: areya 
+2 sg: bana	baʔna 
+you: bana	baʔna 
+grind: dhuwaʔ	dhy	dh~uwa7 
+go: a-jalan 
+walk: a-jalan 
+hot: panas 
+water: aeN	aeŋ 
+1 pl. inc.: ban bana kabi	ban baʔna kabbi	seNk~o7	seŋkoʔ	seŋkoʔ kabbi 
+we₁: ban bana kabi	ban baʔna kabbi	seNk~o7	seŋkoʔ	seŋkoʔ kabbi 
+whiteness: pote 
+who: sapa 
+who?: sapa 
+female: bineʔ 
+distant: jau 
+serious: berraʔ 
+close: semmaʔ 
+ner: semmaʔ 
+earthworm: caceŋ 
+2 pl.: baʔna kabbi 
+ye: baʔna kabbi 
+you all: baʔna kabbi 
+3 pl.: abaʔna kabbi 
+where: edhimma 
+where?: edhimma 
+when?: bila 
+how?: baramma 
+other: laen 
+broad: lebar 
+wideness: lebar 
+fat: gaji 
+principal wife: bine 
+his mother: embuʔ 
+my mother: embuʔ 
+his father: emmaʔ 
+my father: emmaʔ 
+woods: alas 
+branch: rancaʔ 
+stick: rancaʔ 
+fruit: buwa 
+cord: tale	tampar 
+flesh: dagiŋ 
+grease: gaji 
+gut: perroʔ 
+insides: perroʔ 
+intestine: perroʔ 
+intestines: perroʔ 
+breath: a-ñaba 
+laughter: a-gellaʔ 
+cogitate: mekker 
+reflect: mekker 
+sniff: ñeyom 
+afraid: takoʔ 
+be afraid: takoʔ 
+fright: takoʔ 
+alive: odhiʔ 
+be alive: odhiʔ 
+life: odhiʔ 
+living: odhiʔ 
+beat: pokol 
+strike: pokol 
+hack: ŋerraʔ 
+cut open: ñebaʔ 
+pierce: ñoca 
+scratch: a-garu 
+dig: ŋali 
+drop: gaggar 
+grasp: tek|kem 
+hold: tek|kem 
+hold in arm: tek|kem 
+squeeze: ŋepeʔ 
+wring: ŋepeʔ 
+bind: naleʔe 
+fasten: naleʔe 
+tie up: naleʔe 
+enumerate: metoŋ 
+number: metoŋ 
+tally: metoŋ 
+lake: talaga 
+ocean: taseʔ 
+evil: jubaʔ 
+rot: buccoʔ 
+filthy: kotor 
+soiled: kotor 
+blunt: tompol 
+damp: bacca 
+right side: kaŋan 
+inside: dhalem 
+and: ban 

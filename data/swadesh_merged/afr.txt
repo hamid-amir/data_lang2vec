@@ -1,0 +1,460 @@
+all: aldie | alle 
+all: algar | alle 
+all: alle 
+all: alles 
+all: almal | alle 
+all: heeltemal | alle 
+all: ons | alle 
+all: totaal | alle 
+and: en 
+animal: dier 
+ashes: as 
+at: by 
+back: agterkant | rug 
+back: rug 
+back: terug 
+bad: sleg 
+bad: sleg, stout 
+bark: bark | bas 
+bark: bas 
+bark: blaf | bas 
+bark:  blaf | bas 
+bark: boot | bas 
+bark: skil | bas 
+because: daar | omdat 
+because: omdat 
+because: want | omdat 
+because: want, omrede | omdat 
+belly: buik | maag 
+belly: maag 
+big: groot 
+bird: voël 
+bite: byt 
+black: swart 
+blood: bloed | bloed	blut 
+blow: blaas | blaas	waai 
+blow: waai | blaas	waai 
+bone: been | been	ben 
+breast: boesem | bors 
+breast: bors 
+breathe: asem | asemhaal 
+breathe: asemhaal 
+burn: brand 
+burn: brandplek 
+burn:  brandplek 
+child: kind 
+cloud: wolk 
+cold: koud 
+come: kom 
+correct: korrek | korrek	reg 
+correct: korrek, reg | korrek	reg 
+correct: reg | korrek	reg 
+count: tel 
+cut: sny | knip	sny 
+cut: sny, knip | knip	sny 
+day: dag 
+die: doodgaan | doodgaan	dotx~an	stErf	sterf 
+die: sterf | doodgaan	dotx~an	stErf	sterf 
+dig: delf | grawe 
+dig: grawe 
+dig: grawe, grou 
+dig: grou | grawe 
+dig: spit | grawe 
+dirty: vuil 
+dog: hond | hond	hont 
+drink: drink | driNk	drink 
+drink: suip | driNk	drink 
+dry: dor | droog 
+dry: droog 
+dull: dom | swaar | stomp 
+dull: eentonig | swaar | stomp 
+dull: onnosel | swaar | stomp 
+dust: afstof 
+dust: stof 
+ear: oor | oor	or 
+earth: aarde | grond 
+earth: aarde, grond 
+eat: eet 
+egg: ei | ei	eier 
+egg: eier | ei	eier 
+eye: oog | oog	ox 
+fall: val 
+far: v&ecirc;r | ver 
+far: ver, vêr 
+father: pa | vader 
+father: vader 
+father: vader, pa 
+fat (n.): vet 
+fear: vrees | bangheid	vrees 
+feather: veer 
+few: min 
+few: \n paar | min 
+few: party | min 
+few: weinig | min 
+fight: baklei | veg 
+fight: geveg 
+fight: twis | veg 
+fight: veg 
+fingernail: vingernael | nael	vingernael 
+fire: brand | fur	vuur 
+fire: vuur | fur	vuur 
+fish: vis | fis	vis 
+five: vyf 
+float: dobber | dryf	sweef 
+float: dryf | dryf	sweef 
+float: floteer | dryf	sweef 
+flower: blom 
+flow: vloei 
+fly (v.): vlieg 
+fog: mis 
+foot: | voet 
+foot: poot | voet 
+foot: voet 
+forest: bos | bos	woud 
+forest: woud | bos	woud 
+four: vier 
+freeze: vries 
+fruit: vrug 
+fruit: vrugte 
+full: vol | fol	vol 
+give: gee 
+good: goed 
+grass: gras 
+green: groen 
+guts: ingewande 
+hair: hare | haar 
+hand: hand | hant 
+head: kop 
+head: kop, hoof 
+head: lei | kop 
+hear: hoor | hoor	hor 
+heart: hart 
+heavy: swaar 
+he: hy 
+here: hier 
+hit: slaan | slaan	tref 
+hold: hou 
+horn: horing | horiN	horing 
+how: hoe 
+hunt: jaag | jag 
+hunt: jag 
+husband: eggenoot | eggenoot	gade	man 
+husband: man | eggenoot	gade	man 
+ice: ys 
+I: ek | Ek	ek 
+if: as 
+if: indien | as 
+if: ingeval | as 
+I: my | Ek	ek 
+in: binne | binne	in 
+in: in | binne	in 
+kill: doodmaak 
+kill: doodslaan | doodmaak 
+knee: knie | kni	knie 
+knee: knie, knieg | kni	knie 
+know: ken | weet 
+know: weet 
+lake: meer 
+laugh: lag 
+leaf: blaar | blaar	blor 
+leaf: blad | blaar	blor 
+left: links 
+leg: been 
+lie: lê 
+lie: lieg | lê 
+live: lewe 
+live: lewendig 
+liver: lewer | lev3r	lewer 
+long: lang | lang	lank 
+long: lank | lang	lank 
+long: verlang | lang	lank 
+louse: luis | lEis	luis 
+man: man | mE*s	mens 
+many: baie | baie	vele 
+many: veel | baie	vele 
+meat: liggaam | vleis 
+meat: vleis 
+moon: maan 
+mother: ma | moeder 
+mother: moeder 
+mother: moeder, ma 
+mountain: berg | bErk	berg 
+mouth: mond 
+name: naam | naam	nam 
+narrow: nou | nou	smal 
+narrow: smal | nou	smal 
+near: naby 
+neck: hals | nek 
+neck: nek 
+new: nuut | nut	nuut	nuv3	nuwe 
+night: nag | nag	nax 
+nose: neus | nes	neus 
+not: nee | nie 
+not: nie 
+old: oud 
+one: een | een	en 
+other: ander 
+person: persoon | mE*s	mens 
+play: speel 
+pull: trek 
+push: stoot 
+rain: reën 
+red: rood | rooi 
+red: rooi 
+right: regs | hant 
+river: rivier 
+road: pad | pad	pat 
+root: wortel 
+rope: tou | koord	tou 
+rotten: verrot | vrot 
+rotten: vrot 
+round: rond 
+rub: vryf 
+salt: sout 
+sand: sand 
+say: sê | sand 
+scratch: krap 
+sea: see 
+seed: saad 
+seed: saad kiem 
+see: kyk | sien	sin 
+see: sien | sien	sin 
+sew: naai 
+sharp: skerp 
+short: kort 
+sing: sing 
+sit: sit 
+skin: vel | fEl	vel 
+sky: lug 
+sleep: slaap 
+small: klein 
+smell: geur | ruik 
+smell: reuk | ruik 
+smell: ruik 
+smell: ruik, reuk 
+smoke: rook 
+smooth: glad 
+snake: slang 
+snow: sneeu 
+some: party | party	sekere	sommige 
+some: sommige | party	sekere	sommige 
+spit: spoeg 
+spit: spuug | spoeg 
+split: bars | kloof 
+split: skeur | kloof 
+split: skeuring | kloof 
+split: splits | kloof 
+split: tweespalt | kloof 
+squeeze: druk 
+squeeze: uitpers | druk 
+stab: steek 
+stand: staan | opstaan	staan 
+star: ster | stEr	ster 
+stick: stok 
+stone: klip 
+stone: steen | klip 
+stone: steen, klip 
+straight: reguit 
+suck: suig 
+sun: son 
+swell: opswel 
+swell: swel 
+swell: swelsel 
+swim: swem 
+tail: stert 
+that: daardie | daardie	dat | een	en 
+that: daardie, dit | daardie	dat | een	en 
+that: dat | daardie	dat | een	en 
+that: dié | daardie	dat | een	en 
+that: sodat | daardie	dat | een	en 
+there: daar 
+they: hul | hulle 
+they: hulle 
+thick: dik 
+thin: dun 
+think: dink 
+thin: maer | dun 
+thin: skraal | dun 
+this: dit | dié	hierdie 
+this: hierdie | dié	hierdie 
+this: hierdie, dit | dié	hierdie 
+thou: jou | jy	u	y3i 
+thou: julle | jy	u	y3i 
+thou: jy | jy	u	y3i 
+thou: u | jy	u	y3i 
+three: drie 
+throw: gooi 
+tie: bind | bind	knoop 
+tongue: tong | toN	tong 
+tooth: tand | tand	tant 
+tree: boom | bom	boom 
+turn: draai 
+two: twee | twee	tw~e 
+vomit: braak | braak	kots	opgooi 
+vomit: kots | braak	kots	opgooi 
+vomit: opgooi | braak	kots	opgooi 
+walk: loop | loop	stap	wandel 
+walk: stap | loop	stap	wandel 
+walk: wandel | loop	stap	wandel 
+warm: heet 
+warm: verwarm 
+warm: warm 
+wash: was 
+water: water | vat3r	water 
+we: ons | o*s	ons 
+wet: nat 
+what: wat 
+what: wat? 
+when: waneer | wanneer 
+when: wanneer 
+where: waar 
+white: blank | wit 
+white: wit 
+who: wie 
+who: wie? 
+wide: wyd 
+wife: eggenote | eggenoot	gade	vrou 
+wife: vrou | eggenoot	gade	vrou 
+wind: wind | briesie	wind 
+wing: vlerk 
+wipe: afvee 
+wipe: vee 
+with: met 
+woman: vrou 
+woman: vroumens 
+worm: wurm 
+year: jaar 
+yellow: geel 
+you: jou | jy	u	y3i | julle	u 
+you: julle | jy	u	y3i | julle	u 
+you: jy | jy	u	y3i | julle	u 
+you: u | jy	u	y3i | julle	u 
+every: alle 
+ash: as 
+abdomen: maag 
+bigness: groot 
+large: groot 
+breasts: bors 
+come from: kom 
+be dead: doodgaan	dotx~an	stErf	sterf 
+dead: doodgaan	dotx~an	stErf	sterf 
+ground: grond 
+land: grond 
+soil: grond 
+fly: vlieg 
+fly v.: vlieg 
+left hand: hant 
+1 sg.: Ek	ek 
+be knowledgeable: weet 
+head louse: lEis	luis 
+male: man 
+much: baie	vele 
+multiple: baie	vele 
+several: baie	vele 
+hill: bErk	berg 
+title: naam	nam 
+nighttime: nag	nax 
+adulterous: een	en 
+single: een	en 
+the: een	en 
+unprincipled: een	en 
+human: mE*s	mens 
+human being: mE*s	mens 
+rainy weather: reën 
+path: pad	pat 
+route: pad	pat 
+hide: fEl	vel 
+little: klein 
+smallness: klein 
+rock: klip 
+2 sg: jy	u	y3i 
+grind: twee	tw~e 
+go: loop	stap	wandel 
+hot: warm 
+1 pl. inc.: o*s	ons 
+we₁: o*s	ons 
+whiteness: wit 
+who?: wie 
+female: vrou 
+distant: ver 
+serious: swaar 
+close: naby 
+ner: naby 
+earthworm: wurm 
+3 sg.: hy 
+she: hy 
+2 pl.: julle	u 
+ye: julle	u 
+you all: julle	u 
+3 pl.: hulle 
+where?: waar 
+when?: wanneer 
+how?: hoe 
+broad: wyd 
+wideness: wyd 
+fat: vet 
+principal wife: eggenoot	gade	vrou 
+his mother: moeder 
+my mother: moeder 
+his father: vader 
+my father: vader 
+woods: bos	woud 
+branch: stok 
+cord: koord	tou 
+flesh: vleis 
+grease: vet 
+claw: nael	vingernael 
+nail: nael	vingernael 
+arm: hand 
+gut: ingewande 
+insides: ingewande 
+intestine: ingewande 
+intestines: ingewande 
+breath: asemhaal 
+laughter: lag 
+cogitate: dink 
+reflect: dink 
+sniff: ruik 
+afraid: bangheid	vrees 
+be afraid: bangheid	vrees 
+fright: bangheid	vrees 
+alive: lewe 
+be alive: lewe 
+life: lewe 
+living: lewe 
+beat: slaan	tref 
+strike: slaan	tref 
+hack: knip	sny 
+cut open: kloof 
+pierce: steek 
+lie down: lê 
+tell lies: lê 
+turn around: draai 
+turn round: draai 
+drop: val 
+grasp: hou 
+hold in arm: hou 
+wring: druk 
+wash clothes: was 
+shove: stoot 
+bind: bind	knoop 
+fasten: bind	knoop 
+tie up: bind	knoop 
+enumerate: tel 
+number: tel 
+tally: tel 
+have fun: speel 
+brook: rivier 
+stream: rivier 
+ocean: see 
+blaze: brand 
+daylight: dag 
+daytime: dag 
+evil: sleg 
+rot: vrot 
+filthy: vuil 
+soiled: vuil 
+blunt: stomp 
+damp: nat 
+right side: regs 
+inside: binne	in 

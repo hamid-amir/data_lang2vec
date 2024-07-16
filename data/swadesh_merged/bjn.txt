@@ -1,0 +1,264 @@
+all: samuaan 
+every: samuaan 
+ash: habu 
+ashes: habu 
+abdomen: parut 
+belly: parut 
+big: ganal 
+bigness: ganal 
+large: ganal 
+bird: burung 
+bite: igut 
+black: hirang 
+blood: darah 
+bone: tulaN	tulang 
+breast: susu 
+breasts: susu 
+burn: banam 
+burn tr.: banam 
+cloud: awan 
+cold: dingin 
+come: dataN	datang 
+come from: dataN	datang 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: hadupan 
+drink: Ninum	nginum 
+dry: karing 
+ear: taliNa	talinga 
+eat: makan 
+egg: hintalu 
+eye: mata 
+feather: bulu 
+fire: api 
+fish: iwak 
+fly: tarabang 
+fly v.: tarabang 
+good: baik 
+green: hijau 
+hair: rambut 
+hand: taNan	tangan 
+left hand: taNan	tangan 
+right: taNan	tangan 
+head: kapala 
+hear: mandangar	mand~aNar 
+1 sg.: aku	ulun 
+I: aku	ulun 
+kill: bunuh 
+be knowledgeable: tahu 
+know: tahu 
+leaf: daun 
+lie: barabah 
+lie down: barabah 
+liver: hati 
+long: panjang 
+head louse: kutu 
+louse: kutu 
+male: lalakian 
+man: uraN	urang 
+moon: bulan 
+mouth: muntung 
+name: Naran	ngaran 
+title: Naran	ngaran 
+neck: gulu 
+new: ha5ar	hanyar 
+night: malam 
+nighttime: malam 
+nose: hiduN	hidung 
+adulterous: asa 
+one: asa 
+single: asa 
+that: itu 
+the: asa 
+unprincipled: asa 
+human: uraN	urang 
+human being: uraN	urang 
+person: uraN	urang 
+rain: hujan 
+rainy weather: hujan 
+red: habang 
+path: Talan	jalan 
+road: Talan	jalan 
+route: Talan	jalan 
+root: akar 
+sand: karangan 
+say: ujar 
+see: lihat 
+sit: duduk 
+hide: kulit 
+skin: kulit 
+sleep: guring 
+little: halus 
+small: halus 
+smallness: halus 
+smoke: asap 
+star: bintaN	bintang 
+rock: batu 
+stone: batu 
+swim: bakunyung 
+tail: buntut 
+this: ini 
+2 sg: bubuhan	bubuhan ikam	ikam 
+thou: bubuhan	bubuhan ikam	ikam 
+you: bubuhan	bubuhan ikam	ikam 
+tongue: ilat 
+tooth: gigi 
+grind: dua 
+two: dua 
+go: bajalan 
+walk: bajalan 
+hot: panas 
+warm: panas 
+water: %ba5u	banyu 
+1 pl. inc.: kami	kita 
+we: kami	kita 
+we₁: kami	kita 
+what: apaʔ 
+white: putih 
+whiteness: putih 
+who: siapaʔ 
+who?: siapaʔ 
+female: bibinian 
+woman: bibinian 
+yellow: kuning 
+distant: juah 
+far: juah 
+dull: barat 
+heavy: barat 
+serious: barat 
+close: parak 
+near: parak 
+ner: parak 
+salt: uyah 
+short: handap 
+snake: tadung	ular 
+thin: tipis 
+wind: angin 
+earthworm: cacing 
+worm: cacing 
+year: tahun 
+2 pl.: ikam 
+ye: ikam 
+you all: ikam 
+3 pl.: bubuhannya 
+they: bubuhannya 
+where: di mana 
+where?: di mana 
+when: bila 
+when?: bila 
+how: wayahapa 
+how?: wayahapa 
+other: nang lain 
+three: talu 
+four: ampat 
+five: lima 
+broad: libar 
+wide: libar 
+wideness: libar 
+fat: lamak 
+thick: kandal 
+narrow: kipit 
+principal wife: bini 
+wife: bini 
+husband: laki 
+his mother: uma 
+mother: uma 
+my mother: uma 
+father: bapa 
+his father: bapa 
+my father: bapa 
+forest: hutan 
+woods: hutan 
+fruit: buah 
+flower: kambang 
+grass: kumpai 
+cord: tali 
+rope: tali 
+flesh: daging 
+meat: daging 
+grease: lamak 
+wing: halar 
+gut: parutlilit	ucus 
+guts: parutlilit	ucus 
+insides: parutlilit	ucus 
+intestine: parutlilit	ucus 
+intestines: parutlilit	ucus 
+back: balakang 
+suck: taguk 
+spit: ludah 
+vomit: muak 
+blow: batiup 
+breath: hinak 
+breathe: hinak 
+laugh: tatawa 
+laughter: tatawa 
+cogitate: bapikir 
+reflect: bapikir 
+think: bapikir 
+smell: cium 
+sniff: cium 
+afraid: takutan 
+be afraid: takutan 
+fear: takutan 
+fright: takutan 
+alive: hidup 
+be alive: hidup 
+life: hidup 
+live: hidup 
+living: hidup 
+hunt: garit 
+beat: pukul 
+hit: pukul 
+strike: pukul 
+cut: tatak 
+hack: tatak 
+cut open: balah 
+split: balah 
+pierce: suduk 
+stab: suduk 
+scratch: garu 
+dig: tabuk 
+stand: badiri 
+drop: gugur 
+fall: gugur 
+grasp: pingkut 
+hold: pingkut 
+hold in arm: pingkut 
+squeeze: parah 
+wring: parah 
+throw: tawak 
+bind: jarat 
+fasten: jarat 
+tie: jarat 
+tie up: jarat 
+sew: jahit 
+count: itung 
+enumerate: itung 
+number: itung 
+tally: itung 
+flow: alir 
+lake: danau 
+ocean: laut 
+sea: laut 
+dust: dabu 
+fog: kabut 
+sky: langit 
+bad: buruk 
+evil: buruk 
+rot: buruk 
+rotten: buruk 
+dirty: rigat 
+filthy: rigat 
+soiled: rigat 
+sharp: landap 
+blunt: bungul 
+damp: basah 
+wet: basah 
+right side: kanan 
+left: kiwa 
+at: di 
+in: dalam 
+inside: dalam 
+and: dan 
+if: amun	jaka 

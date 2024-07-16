@@ -1,0 +1,335 @@
+all: amin 
+every: amin 
+ash: dapo 
+ashes: dapo 
+bark: ukis ti kayo 
+abdomen: tian 
+belly: tian 
+big: dakkel 
+bigness: dakkel 
+large: dakkel 
+bird: billit 
+bite: ag-kagat	kagat 
+black: na-ngisit	nangisit 
+blood: dara 
+bone: tulaN	tulang 
+breast: suso 
+breasts: suso 
+burn: uram 
+burn tr.: uram 
+cloud: ulep 
+cold: lamek	na-lamʔek 
+come: umay 
+come from: umay 
+be dead: matay 
+dead: matay 
+die: matay 
+dog: aso 
+drink: inom	um-inom 
+dry: maga	na-maga 
+ear: lapayag 
+earth: daga 
+ground: daga 
+land: daga 
+soil: daga 
+eat: mangan 
+egg: itlog 
+eye: mata 
+feather: dutdut 
+fire: apoy 
+fish: ikan	sida 
+fly: ag-tayab	tayab 
+fly v.: ag-tayab	tayab 
+foot: saka 
+full: napno 
+give: ited 
+good: imbag	na-imbag 
+green: na-ata	naata 
+hair: buok 
+hand: ima 
+left hand: ima 
+right: ima 
+head: ulo 
+hear: ag-dengngeg	deNeg	dengngeg 
+heart: puso 
+horn: sara 
+1 sg.: si-ak	siak 
+I: si-ak	siak 
+kill: mang-payay	mangpatay 
+knee: tumeng 
+be knowledgeable: ammo 
+know: ammo 
+leaf: buloN	bulong 
+lie: ag-idda 
+lie down: ag-idda 
+liver: dalem 
+long: a-tiddog	tiddog 
+head louse: kuto 
+louse: kuto 
+male: lalaki 
+man: tao 
+many: adu 
+much: adu 
+multiple: adu 
+several: adu 
+moon: bulan 
+hill: bantay 
+mountain: bantay 
+mouth: bibig 
+name: nagan 
+title: nagan 
+neck: tengnged 
+new: baro 
+night: rabi	rabii 
+nighttime: rabi	rabii 
+nose: agoN	agong 
+not: saan 
+adulterous: masa	maysa 
+one: masa	maysa 
+single: masa	maysa 
+that: daydiay	dayta 
+the: masa	maysa 
+unprincipled: masa	maysa 
+human: tao 
+human being: tao 
+person: tao 
+rain: tudo 
+rainy weather: tudo 
+red: na-labaga	nalabaga 
+path: dalan 
+road: dalan 
+route: dalan 
+root: ramut 
+round: nagbukel 
+sand: darat 
+say: ag-kuna	kuna 
+see: k-um-ita	kita 
+seed: bin-i 
+sit: ag-tugaw	tugaw 
+hide: kudil 
+skin: kudil 
+sleep: ma-turog	turog 
+little: bassit 
+small: bassit 
+smallness: bassit 
+smoke: asok 
+star: bituen 
+rock: bato 
+stone: bato 
+sun: init 
+swim: ag-langoy	langoy 
+tail: ipus 
+this: daytoy 
+2 sg: si-ka	sika 
+thou: si-ka	sika 
+you: si-ka	sika 
+tongue: dila 
+tooth: Nipen	ngipen 
+tree: kayo 
+grind: dua 
+two: dua 
+go: magna 
+walk: magna 
+hot: na-pudot	pudot 
+warm: na-pudot	pudot 
+water: danum 
+1 pl. inc.: da-kami	da-tayo	dakami	datayo 
+we: da-kami	da-tayo	dakami	datayo 
+we₁: da-kami	da-tayo	dakami	datayo 
+what: ania 
+white: puraw 
+whiteness: puraw 
+who: asino	sinno 
+who?: asino	sinno 
+female: babai	babao 
+woman: babai	babao 
+yellow: duyaw 
+distant: a-dayu	dayu 
+far: a-dayu	dayu 
+dull: dagsen	na-dagsen 
+heavy: dagsen	na-dagsen 
+serious: dagsen	na-dagsen 
+close: a-sideg	sideg 
+near: a-sideg	sideg 
+ner: a-sideg	sideg 
+salt: asin 
+short: a-baba	baba 
+snake: uleg 
+thin: ingpis	na-ingpis 
+wind: angin 
+earthworm: igges 
+worm: igges 
+year: tawen 
+3 sg.: isu 
+he: isu 
+she: isu 
+2 pl.: da-kayo	dakayo 
+ye: da-kayo	dakayo 
+you all: da-kayo	dakayo 
+3 pl.: da	isu-da	isuda 
+they: da	isu-da	isuda 
+here: ditoy 
+there: dita	sadiay 
+where: ayan	sa-dinno 
+where?: ayan	sa-dinno 
+when: ka-ano	kaano 
+when?: ka-ano	kaano 
+how: kasano 
+how?: kasano 
+some: dadduma 
+few: sumagmamano 
+other: sabali 
+three: tallo 
+four: uppat 
+five: lima 
+broad: lawa	na-lawa 
+wide: lawa	na-lawa 
+wideness: lawa	na-lawa 
+fat: taba 
+thick: na-puskol	puskol 
+narrow: a-kikid	kikid 
+child: anak 
+principal wife: asawa 
+wife: asawa 
+husband: asawa 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+animal: ayup 
+forest: ka-kayu-an	kakayuan 
+woods: ka-kayu-an	kakayuan 
+branch: kayo	sanga 
+stick: kayo	sanga 
+fruit: bunga 
+flower: sabong 
+grass: ruot 
+cord: tali 
+rope: tali 
+flesh: bagas 
+meat: bagas 
+grease: taba 
+claw: kuko 
+fingernail: kuko 
+nail: kuko 
+leg: gurong 
+arm: ima 
+wing: payak 
+gut: bagis 
+guts: bagis 
+insides: bagis 
+intestine: bagis 
+intestines: bagis 
+back: likod 
+suck: supsop 
+spit: ag-tupra	tupra 
+vomit: ag-uta	uta 
+blow: puyot 
+breath: ag-anges	anges 
+breathe: ag-anges	anges 
+laugh: ag-katawa	katawa 
+laughter: ag-katawa	katawa 
+cogitate: ag-panunot	panunot 
+reflect: ag-panunot	panunot 
+think: ag-panunot	panunot 
+smell: ag-angot	angot 
+sniff: ag-angot	angot 
+afraid: ag-kuteng	kuteng 
+be afraid: ag-kuteng	kuteng 
+fear: ag-kuteng	kuteng 
+fright: ag-kuteng	kuteng 
+alive: ag-biag	biag 
+be alive: ag-biag	biag 
+life: ag-biag	biag 
+live: ag-biag	biag 
+living: ag-biag	biag 
+fight: agapa 
+hunt: ag-anup	anup 
+beat: ag-pangʔor	pangor 
+hit: ag-pangʔor	pangor 
+strike: ag-pangʔor	pangor 
+cut: ag-balsig	balsig 
+hack: ag-balsig	balsig 
+cut open: bisak 
+split: bisak 
+pierce: dugsol	mang-dugsol 
+stab: dugsol	mang-dugsol 
+scratch: ag-kudkod	kudkod 
+dig: ag-kali	kali 
+tell lies: idda 
+stand: ag-takder	takder 
+turn: likko 
+turn around: likko 
+turn round: likko 
+drop: ag-tinnag	tinnag 
+fall: ag-tinnag	tinnag 
+grasp: mang-iggem	mangiggem 
+hold: mang-iggem	mangiggem 
+hold in arm: mang-iggem	mangiggem 
+squeeze: pespes 
+wring: pespes 
+rub: lidliden	radradan 
+wipe: nasnas	punas 
+wash: ugas 
+wash clothes: ugas 
+pull: guyod 
+push: duron 
+shove: duron 
+throw: belleng	i-bato	ibato 
+bind: igalot 
+fasten: igalot 
+tie: igalot 
+tie up: igalot 
+sew: ag-dait	dait 
+count: ag-bilang	bilang 
+enumerate: ag-bilang	bilang 
+number: ag-bilang	bilang 
+tally: ag-bilang	bilang 
+sing: agkanta 
+have fun: agay-ayam 
+play: agay-ayam 
+float: agtapaw 
+flow: ag-ayus	ayus 
+freeze: agyelo 
+swell: lumteg 
+brook: karayan 
+river: karayan 
+stream: karayan 
+lake: danaw 
+ocean: baybay	taaw 
+sea: baybay	taaw 
+dust: tapok 
+fog: angep 
+sky: langit 
+snow: niebe 
+ice: yelo 
+blaze: uram 
+day: aldaw 
+daylight: aldaw 
+daytime: aldaw 
+old: daan 
+bad: dakes 
+evil: dakes 
+rot: na-bangles	nabangles 
+rotten: na-bangles	nabangles 
+dirty: na-rugit	narugit 
+filthy: na-rugit	narugit 
+soiled: na-rugit	narugit 
+straight: nalinteg	natarus 
+sharp: na-tadem	natadem 
+blunt: na-mudel	namudel 
+smooth: nalamuyot	nasimpa 
+damp: basa	na-basa 
+wet: basa	na-basa 
+correct: payso 
+right side: kannawan 
+left: kannigid 
+at: diay	iti 
+in: iti	uneg 
+inside: iti	uneg 
+with: agraman	ken 
+and: ken	ket	ta 
+if: no 
+because: ta 

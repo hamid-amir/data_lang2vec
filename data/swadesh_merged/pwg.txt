@@ -1,0 +1,148 @@
+all: pearisi 
+every: pearisi 
+ash: tupitupi	tupitupi-na 
+ashes: tupitupi	tupitupi-na 
+abdomen: kamokamo	kamokamo- 
+belly: kamokamo	kamokamo- 
+big: xama	ɣama-na 
+bigness: xama	ɣama-na 
+large: xama	ɣama-na 
+bird: kiu 
+bite: kanikani 
+black: dhumadhuma-na	dh~umadh~uma 
+blood: tara	tara- 
+bone: tuiri	tuiri- 
+breast: susu	susu- 
+breasts: susu	susu- 
+burn: kapukapu-ni 
+burn tr.: kapukapu-ni 
+cloud: karekarewa 
+cold: nubhanubha-na	nubh~anubh~a 
+come: kepis 
+come from: kepis 
+be dead: rabobo 
+dead: rabobo 
+die: rabobo 
+dog: kukou 
+drink: ke-omai	keomai 
+dry: kanakana 
+ear: tini	tini- 
+earth: dh~oa	tano 
+ground: dh~oa	tano 
+land: dh~oa	tano 
+soil: dh~oa	tano 
+eat: kanikani 
+egg: [pou]pouna	poupouna 
+eye: mata	mata- 
+fat: monamona 
+fat n.: monamona 
+grease: monamona 
+lubricant: monamona 
+oil: monamona 
+feather: thawara	th~awara 
+fire: keama 
+fish: sia [iana]	sia iana 
+fly: rovorovo 
+fly v.: rovorovo 
+foot: kai 
+good: bwibwi-na	bw~ibw~i 
+hair: uyawi	uyawi- 
+hand: ima	ima- 
+left hand: ima	ima- 
+right: ima	ima- 
+head: ghayami	gh~ayami 
+hear: ke-vianei	kevianei 
+kill: kivunu 
+be knowledgeable: kovi 
+know: kovi 
+leaf: rugurugu	rugurugu-na 
+lie: ke-kena	kekena 
+lie down: ke-kena	kekena 
+liver: katekate	katekate- 
+long: guri	guri-na 
+head louse: tuma 
+louse: tuma 
+male: tau	tomoa	tomwaya 
+man: wawaya 
+flesh: vio 
+meat: vio 
+moon: nawaravi 
+mouth: kawa	kawa- 
+name: vava 
+title: vava 
+neck: iwa	iwa- 
+new: vu	vu-na 
+night: didibhara	didibh~ara 
+nighttime: didibhara	didibh~ara 
+nose: gia	gia- 
+not: ke 
+adulterous: sagho	sagh~o	sago 
+one: sagho	sagh~o	sago 
+single: sagho	sagh~o	sago 
+that: nan	nokon 
+the: sagho	sagh~o	sago 
+unprincipled: sagho	sagh~o	sago 
+human: wawaya 
+human being: wawaya 
+person: wawaya 
+rain: gharewa	gh~arewa 
+rainy weather: gharewa	gh~arewa 
+red: yebayebari	yebayebari-na 
+path: ketha	keth~a 
+road: ketha	keth~a 
+route: ketha	keth~a 
+root: ramram	ramram-na 
+sand: gonugonu 
+say: ke-visisia	kevisisia 
+see: ke-kita	kekita 
+sit: ke-makai	kemakai 
+hide: beka	beka- 
+skin: beka	beka- 
+sleep: ke-kena	kekena 
+little: gisi	gisi-na 
+small: gisi	gisi-na 
+smallness: gisi	gisi-na 
+smoke: bu 
+stand: kevomw~iri 
+star: gwamegwame	gw~amegw~ame 
+rock: wakima 
+stone: wakima 
+swim: ke-yeka	keyeka 
+tail: ghayamina	gh~ayamina 
+this: wen 
+2 sg: kakam	ku 
+thou: kakam	ku 
+you: kakam	ku 
+tongue: pepa	pepa- 
+tooth: oke	oke- 
+grind: rua	ruwa 
+two: rua	ruwa 
+go: bhabha	bh~abh~a 
+walk: bhabha	bh~abh~a 
+hot: muyamuya-na 
+warm: muyamuya-na 
+water: okoa 
+1 pl. inc.: ka	ta 
+we: ka	ta 
+we₁: ka	ta 
+what: aviavis 
+white: poipoi	poipoi-na 
+whiteness: poipoi	poipoi-na 
+who: i-ai 
+who?: i-ai 
+female: wavine 
+woman: wavine 
+distant: rabharabha 
+far: rabharabha 
+dull: vita-na 
+heavy: vita-na 
+serious: vita-na 
+close: ririmwai 
+near: ririmwai 
+ner: ririmwai 
+short: tupo-na 
+snake: motha 
+thin: nenanena-na 
+wind: yanunu 
+earthworm: mothamotha 
+worm: mothamotha 

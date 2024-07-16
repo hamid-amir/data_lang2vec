@@ -1,0 +1,257 @@
+all: waq 
+every: waq 
+ash: Lka*ka*	slkaka 
+ashes: Lka*ka*	slkaka 
+bark: qo*Sqe* 
+abdomen: pan 
+belly: pan 
+big: langa	lanka* 
+bigness: langa	lanka* 
+large: langa	lanka* 
+bird: spitu	spún 
+bite: Ska	skanán 
+black: ci*ca*qe	tsitsaka 
+blood: kagslni	qaLni 
+bone: lukut 
+breast: cikit	kuxmún	tsíkit 
+breasts: cikit	kuxmún	tsíkit 
+claw: si*xan 
+nail: si*xan 
+talon: si*xan 
+cloud: pu*kLni	pukslni 
+cold: ka*wiwi	kawitutá	lognún	lonqni 
+come: min 
+come from: min 
+be dead: ni	ní 
+dead: ni	ní 
+die: ni	ní 
+dog: CiCi	chicha 
+drink: kotnún	qo*t	qot 
+dry: skakni	skawawa 
+ear: liaqawan	taken	taqan	taqen 
+earth: ti*yat	tiyat 
+ground: ti*yat	tiyat 
+land: ti*yat	tiyat 
+soil: ti*yat	tiyat 
+eat: kuá	wa 
+egg: kaslwát	qa*Lwat 
+eye: lakastapu	laqastapu 
+fat: Ca*lat 
+fat n.: Ca*lat 
+grease: Ca*lat 
+lubricant: Ca*lat 
+oil: Ca*lat 
+feather: Ci*Sit 
+fire: Lkuyat	islkuyat 
+fish: skiti	tamaqni 
+fly: qos 
+fly v.: qos 
+foot: tujún	tuxun 
+full: cama	tatsamá 
+give: maSki*	mastá	maxkí 
+good: Lan	tlan 
+green: Stakni	stákga 
+hair: Ci*Sit	chíxit 
+hand: makan 
+left hand: makan 
+right: makan 
+head: akxaka	aqSaqa	xakxaka 
+hear: qaSmata 
+heart: naku*	nakú 
+horn: akalókot 
+1 sg.: akit	ik 
+I: akit	ik 
+kill: magní	maqni 
+knee: coqosni	tsokosni 
+be knowledgeable: katso 
+know: katso 
+leaf: tuwan 
+lie: ma 
+lie down: ma 
+liver: Lwakaka	slwakaka 
+long: Lman	laslmán	slmán 
+head louse: skata	skati 
+louse: skata	skati 
+male: Ci*Sku*	chiskú 
+man: %kristiano 
+many: Luwa	loko	snún 
+much: Luwa	loko	snún 
+multiple: Luwa	loko	snún 
+several: Luwa	loko	snún 
+flesh: liwa 
+meat: liwa 
+moon: papa	papá 
+hill: kasipitni	sipih 
+mountain: kasipitni	sipih 
+mouth: kiLni	kislni 
+name: takuwini	takuwiní	tukuwini 
+title: takuwini	takuwiní	tukuwini 
+neck: piSni	pixni 
+new: sasti 
+night: cisni	tsisní 
+nighttime: cisni	tsisní 
+nose: kinkan	kinkán 
+not: ni 
+adulterous: tum	túm 
+one: tum	túm 
+single: tum	túm 
+that: a	nama 
+the: tum	túm 
+unprincipled: tum	túm 
+human: %kristiano 
+human being: %kristiano 
+person: %kristiano 
+rain: sen	si*n 
+rainy weather: sen	si*n 
+red: cu*co*qo	spiníni	tsutsoko 
+path: tihia	tijia 
+road: tihia	tijia 
+route: tihia	tijia 
+root: tankaxák	tanqaSeq 
+round: st"lili	stilili 
+sand: muntsay 
+say: kuan	wan 
+see: akSila	ikxilá 
+seed: lichanat	taLci* 
+sit: tawilá	wi 
+hide: Suwa	xuwa 
+skin: Suwa	xuwa 
+sleep: asltatá	kaci 
+little: akcu	lagtsu 
+small: akcu	lagtsu 
+smallness: akcu	lagtsu 
+smoke: ikulí	xin 
+stand: ya 
+star: staku	stakú 
+rock: CiwiS	chiwix 
+stone: CiwiS	chiwix 
+sun: CiCini	chichiní 
+swim: Skiwatnan	ixkiwatnán 
+tail: staxan	taján 
+this: hae*	u 
+2 sg: -na	wiS	ʼ 
+thou: -na	wiS	ʼ 
+you: -na	wiS	ʼ 
+tongue: simakat	simaqat 
+tooth: tacan	tatsán 
+tree: kiwi 
+grind: tuy 
+two: tuy 
+go: La*wan 
+walk: La*wan 
+hot: chíchi 
+warm: chíchi 
+water: CuCut	chúchut 
+1 pl. inc.: akin 
+we: akin 
+we₁: akin 
+what: tu	tuku 
+white: sakaka	snapapa 
+whiteness: sakaka	snapapa 
+who: ti 
+who?: ti 
+female: puskat	puxkat 
+woman: puskat	puxkat 
+yellow: slmukúku	smukuku 
+distant: mákat 
+far: mákat 
+dull: trinka 
+heavy: trinka 
+serious: trinka 
+salt: mátsat 
+snake: luwa 
+thin: ketsú 
+wind: un 
+earthworm: luwa 
+worm: luwa 
+year: kata 
+there: aná 
+where: nikú 
+where?: nikú 
+when: ikxnicu 
+when?: ikxnicu 
+how: latayá 
+how?: latayá 
+few: agsú	tantsú 
+other: tunu 
+three: tutu 
+four: tati 
+five: kitsis 
+broad: pulanga	tilanga 
+wide: pulanga	tilanga 
+wideness: pulanga	tilanga 
+thick: kelanga 
+child: skata 
+principal wife: puskát 
+wife: puskát 
+husband: takoló 
+his mother: tsi 
+mother: tsi 
+my mother: tsi 
+father: tikú	tlat 
+his father: tikú	tlat 
+my father: tikú	tlat 
+animal: kitsistanka 
+branch: kiwi 
+stick: kiwi 
+fruit: xatawakatkiwi 
+flower: xánat 
+cord: tasiwi 
+rope: tasiwi 
+fingernail: siján 
+leg: tuntún 
+arm: makán 
+wing: pakán 
+back: agslchán 
+spit: isputnán 
+vomit: patlanán 
+cogitate: lagpuwan 
+reflect: lagpuwan 
+think: lagpuwan 
+smell: mukus 
+sniff: mukus 
+fight: taratlawá 
+hunt: talatnán 
+scratch: taxtí 
+tell lies: tamá 
+drop: sltuglí	yuja 
+fall: sltuglí	yuja 
+wash: chakenán 
+wash clothes: chakenán 
+push: tantlaglín 
+shove: tantlaglín 
+throw: makán 
+sew: lixtokó 
+have fun: akamanán 
+play: akamanán 
+brook: kasltuchoko 
+river: kasltuchoko 
+stream: kasltuchoko 
+lake: yacht 
+ocean: pupunú 
+sea: pupunú 
+dust: pokxni 
+sky: akapón 
+snow: longni 
+ice: miki 
+blaze: Lku	slkú 
+burn: Lku	slkú 
+day: kakuwiní 
+daylight: kakuwiní 
+daytime: kakuwiní 
+old: makám 
+bad: nitlán 
+evil: nitlán 
+rot: masnít 
+rotten: masnít 
+dirty: tsintsíli 
+filthy: tsintsíli 
+soiled: tsintsíli 
+straight: sluloko	tanes 
+damp: chítwa 
+wet: chítwa 
+right side: pagkanat 
+left: pakxuki 
+at: nag 
+with: ta 
+if: para 

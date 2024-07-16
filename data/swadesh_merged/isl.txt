@@ -1,0 +1,353 @@
+all: allt | allir	allt	allur	öll 
+all: Allt | allir	allt	allur	öll 
+all: allur | allir	allt	allur	öll 
+and: og 
+ashes: aska 
+at: að | hjá 
+back: bak 
+bad: vondur | slæmur	vondur 
+bark: börkur 
+bark: gelt | börkur 
+because: fyrir | því 
+belly: magi | kviður	magi 
+big: stór 
+bird: fugl 
+bite: bíta 
+black: svartur 
+blood: blóð | blóð	plou8 
+blow: blása 
+bone: bein | bein	pein 
+breast: Bringa | brjóst	pry~oust 
+breast: Brjóst | brjóst	pry~oust 
+burn: brenna 
+child: barn 
+cloud: ský 
+cold: kaldur 
+come: koma | kh~oma	koma 
+count: telja 
+cut: skera 
+day: dagur 
+die: deyja | deiya	deyja	teiya 
+dig: grafa 
+dirty: skítugur | skítugur	óhreinn 
+dog: hundur | hintir	hundur 
+drink: drekka | drekka	trEka 
+dry: þurr 
+ear: eyra | eira	eyra 
+earth: jörð 
+eat: borða | borða	éta 
+eat: éta | borða	éta 
+egg: egg 
+eye: auga | auga	eixa 
+fall: falla | detta	falla 
+far: langt | fjarlægur	langt 
+father: faðir 
+fat (n.): fita 
+feather: fjöður 
+fingernail: fingurnögl 
+fire: eldur | Eltir	eldur	paul 
+fish: fiskur | fiskir	fiskur 
+five: fimm 
+float: fljóta 
+flower: blóm 
+fly (v.): flúga 
+foot: fótur 
+forest: skógur 
+four: fjórir 
+freeze: frjósa 
+fruit: ávöxtur 
+full: fullur | fitlir	fullur 
+give: gefa 
+good: góður 
+grass: gras 
+green: grænn 
+hair: hár 
+hand: hönd | hEnt	hönd 
+head: höfuð 
+hear: heyra | heira	heyra 
+heart: hjarta 
+heavy: þungur 
+he: hann 
+here: hér 
+hit: slá | berja	slá 
+hold: halda 
+horn: Horn | horn	hortn~ 
+how: hvernig 
+hunt: veiða 
+ice: ís 
+I: ég | yEx	ég 
+if: ef 
+in: í 
+kill: drepa 
+knee: hné | hny~E	hné	kné 
+know: vita 
+laugh: hlæja 
+leaf: lauf | blað	pla8 
+left: vinstri 
+lie: leggja | liggja 
+live: lifa 
+liver: lifur | lifur	livir 
+long: langur 
+man: maður | manEsTa	maður 
+many: margir | margir	margur 
+meat: kjöt | ket	kjöt 
+moon: tungl 
+mother: móðir 
+mountain: fjall | fEtl	fjall	fyall	fy~atl 
+mouth: munnur 
+name: nafn | nafn	navn 
+narrow: þröngur | krappur	þröngur 
+near: nær | nálægur 
+neck: háls 
+new: nýr | nir	nýr 
+night: nótt | nout	nótt 
+nose: nef | nef	nev 
+not: ekki | eigi	ekki 
+old: gamall 
+one: einn | ein	einn	eitn~	eitt	sultum	svalt	sylti 
+other: annar | annar	annað 
+person: persóna | manEsTa	maður 
+rain: regna | rigna	rigning 
+red: rauður 
+right: hægri | hEnt	hönd 
+river: á 
+road: vegur | gata	kata	stixir	vegur 
+root: rót 
+round: hringlaga | kringlóttur 
+round: hringur | kringlóttur 
+say: segja | sandur 
+sea: sjór 
+seed: fræ 
+seed: sæði | fræ 
+see: sjá | sjá	sy~au 
+sing: syngja 
+sit: sitja 
+skin: húð | hu8	hörund	húð	sTin 
+skin: Skinn | hu8	hörund	húð	sTin 
+sky: himinn 
+sleep: sofa 
+small: lítill | lítill	smár 
+small: smár | lítill	smár 
+smoke: reykur 
+snow: snjór 
+some: sumir | nokkuð 
+stand: standa 
+star: stjarna | stjarna	sty~artn~a 
+stone: stein | steinn	steitn~ 
+suck: sjúga 
+sun: sól | soul	sól 
+swim: synda 
+tail: Hali | hali 
+tail: rófa | hali 
+tail: skott | hali 
+that: sá | hin	hinn	hitt | ein	einn	eitn~	eitt	sultum	svalt	sylti 
+that: þetta | hin	hinn	hitt | ein	einn	eitn~	eitt	sultum	svalt	sylti 
+there: þar 
+they: þeir | þau	þeir	þær 
+thick: þykkur 
+think: þykja | hugsa 
+this: þessi | þessi	þetta 
+this: þetta | þessi	þetta 
+thou: þér | 8u	þú 
+thou: þú | 8u	þú 
+three: þrír 
+throw: kasta | henda	kasta 
+tie: binda 
+tongue: tunga | th~uNka	tunga 
+tooth: tönn | th~En	tönn 
+tree: tré | th~ry~E	tré 
+two: tveir | th~veir	tveir 
+vomit: spýja | kasta upp	æla 
+walk: ganga | fara	ganga 
+warm: hlýr | heitur	hlýr 
+wash: þvo 
+water: vatn | vatn	vatn~ 
+wet: blautur 
+we: við | oss	vi8	við 
+what: hvað 
+when: hvenær 
+where: hvar 
+white: hvítur 
+who: hver 
+wind: vindur 
+with: með 
+woman: kona 
+year: ár 
+yellow: gulur 
+you: þið | 8u	þú 
+every: allir	allt	allur	öll 
+ash: aska 
+abdomen: kviður	magi 
+bigness: stór 
+large: stór 
+breasts: brjóst	pry~oust 
+burn tr.: brenna 
+claw: nögl 
+nail: nögl 
+talon: nögl 
+come from: kh~oma	koma 
+be dead: deiya	deyja	teiya 
+dead: deiya	deyja	teiya 
+ground: jörð 
+land: jörð 
+soil: jörð 
+fat: fita 
+fat n.: fita 
+grease: fita 
+lubricant: fita 
+oil: fita 
+fly: fljúga 
+fly v.: fljúga 
+left hand: hEnt	hönd 
+1 sg.: yEx	ég 
+be knowledgeable: vita 
+lie down: liggja 
+head louse: lus	lús 
+louse: lus	lús 
+male: karl	karlmaður 
+much: margir	margur 
+multiple: margir	margur 
+several: margir	margur 
+flesh: ket	kjöt 
+hill: fEtl	fjall	fyall	fy~atl 
+title: nafn	navn 
+nighttime: nout	nótt 
+adulterous: ein	einn	eitn~	eitt	sultum	svalt	sylti 
+single: ein	einn	eitn~	eitt	sultum	svalt	sylti 
+the: ein	einn	eitn~	eitt	sultum	svalt	sylti 
+unprincipled: ein	einn	eitn~	eitt	sultum	svalt	sylti 
+human: manEsTa	maður 
+human being: manEsTa	maður 
+rainy weather: rigna	rigning 
+path: gata	kata	stixir	vegur 
+route: gata	kata	stixir	vegur 
+sand: sandur 
+hide: hu8	hörund	húð	sTin 
+little: lítill	smár 
+smallness: lítill	smár 
+rock: steinn	steitn~ 
+2 sg: 8u	þú 
+grind: th~veir	tveir 
+go: fara	ganga 
+hot: heitur	hlýr 
+1 pl. inc.: oss	vi8	við 
+we₁: oss	vi8	við 
+whiteness: hvítur 
+who?: hver 
+female: kona 
+distant: fjarlægur	langt 
+dull: þungur 
+serious: þungur 
+close: nálægur 
+ner: nálægur 
+salt: salt 
+short: skammur	stuttur 
+snake: ormur	slanga	snákur 
+thin: þunnur 
+earthworm: maðkur	ormur 
+worm: maðkur	ormur 
+3 sg.: hann 
+she: hann 
+2 pl.: þið 
+ye: þið 
+you all: þið 
+3 pl.: þau	þeir	þær 
+where?: hvar 
+when?: hvenær 
+how?: hvernig 
+few: lítið 
+broad: breiður 
+wide: breiður 
+wideness: breiður 
+principal wife: eiginkona 
+wife: eiginkona 
+husband: eiginmaður 
+his mother: móðir 
+my mother: móðir 
+his father: faðir 
+my father: faðir 
+animal: dýr 
+woods: skógur 
+branch: stafur 
+stick: stafur 
+cord: reipi 
+rope: reipi 
+fingernail: nögl 
+leg: fótleggur 
+arm: hönd 
+wing: vængur 
+gut: innyfli 
+guts: innyfli 
+insides: innyfli 
+intestine: innyfli 
+intestines: innyfli 
+spit: skyrpa	spýta 
+breath: anda 
+breathe: anda 
+laughter: hlæja 
+cogitate: hugsa 
+reflect: hugsa 
+smell: lykta 
+sniff: lykta 
+afraid: óttast 
+be afraid: óttast 
+fear: óttast 
+fright: óttast 
+alive: lifa 
+be alive: lifa 
+life: lifa 
+living: lifa 
+fight: berjast	slást 
+beat: berja	slá 
+strike: berja	slá 
+hack: skera 
+cut open: kljúfa	skipta 
+split: kljúfa	skipta 
+pierce: stinga 
+stab: stinga 
+scratch: klóra 
+tell lies: liggja 
+turn: snúa 
+turn around: snúa 
+turn round: snúa 
+drop: detta	falla 
+grasp: halda 
+hold in arm: halda 
+squeeze: kreista 
+wring: kreista 
+rub: nudda	núa 
+wipe: þurrka 
+wash clothes: þvo 
+pull: draga	toga 
+push: ýta 
+shove: ýta 
+bind: binda 
+fasten: binda 
+tie up: binda 
+sew: sauma 
+enumerate: telja 
+number: telja 
+tally: telja 
+have fun: leika 
+play: leika 
+flow: renna	streyma 
+swell: bólgna	þrútna 
+lake: vatn 
+ocean: sjór 
+dust: ryk 
+fog: þoka 
+blaze: brenna 
+daylight: dagur 
+daytime: dagur 
+evil: slæmur	vondur 
+rot: fúinn 
+rotten: fúinn 
+filthy: skítugur	óhreinn 
+soiled: skítugur	óhreinn 
+straight: beinn 
+sharp: beittur 
+blunt: bitlaus 
+smooth: sleipur	sléttur 
+damp: blautur 
+correct: réttur 
+right side: hægri 

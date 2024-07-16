@@ -1,0 +1,365 @@
+all: kwaː | kuː 
+and: he 
+and: ǀna 
+animal: ǁkwe 
+ankle: ǀno tuː 
+arm: ǀk\\u 
+arrow: ǁkě ǁa 
+back: kaitu 
+back: ǁk\oɛː 
+bad: dza 
+bad: ǀk\ao 
+bark: ǃgo 
+because: a 
+belly: ǀk\ɔaː | !áu-tu 
+big: ǃgoː | !ui-ya 
+bird: ǀhiː | kxãnni 
+bird: ǀkwi | kxãnni 
+bite: ts\i | cʼːiː	cːíː 
+black: ǀgoː | !weːn	!wèŋ 
+black: ǃkweː | !weːn	!wèŋ 
+blood: ǁxau | !xaukn	ǀǀxau-ki	ǀǀxáu-ka	ǀǀxáu-kǝn	ǁxau-ki	ǁxáu-ka	ǁxáu-kən 
+blow: ts\uː 
+bone: ǁkaba | !kwa	!wá 
+breast: ǁke͂ː | !kwei!kwei	ǁ̃wain-tu	ɳǀǀwain-tu 
+breathe: ǀʌm s\a 
+brother: ǁka͂u͂ 
+burn: ǁka | ǀǀa	ǀǀaː	ǀǀeː	ǀǀà	ǁa	ǁaː	ǁeː	ǁà 
+burn: ǁke | ǀǀa	ǀǀaː	ǀǀeː	ǀǀà	ǁa	ǁaː	ǁeː	ǁà 
+burn: kukwú | ǀǀa	ǀǀaː	ǀǀeː	ǀǀà	ǁa	ǁaː	ǁeː	ǁà 
+calf: ǀkweː 
+cheek: ǃkɔnɔŋ 
+chest: ǁkaːtu 
+chest: ǁnweːntu 
+child: ǀgwa 
+chin: ǁnɔ& 
+cloud: ǃgum | ǀwa̰ː-gǝn	ǀwa̰ː-gən 
+cloud: tiŋːke | ǀwa̰ː-gǝn	ǀwa̰ː-gən 
+cold: kiaŋ ǀhuː | kxa̰o	kxáo 
+cold: si͂ya | kxa̰o	kxáo 
+come: saː | Si	s"e	s"i	sːe 
+come: se | Si	s"e	s"i	sːe 
+come: si | Si	s"e	s"i	sːe 
+cut: ǀgaː 
+cut: ǀke 
+cut: ǀko 
+day: ǁküri 
+day: ǃnau 
+die: ǀaː | !a	!kukn	ǀʼa	ǀʼà 
+dig: ǁk\au 
+dig: xuːŋ 
+dirty: ǁxane 
+dog: ǃkɯiŋ | !kwiN	!wíŋ	!úíŋ	!ʰwiŋ 
+drink: k\\a͂ | k"wa*	k"we*	kxwã	kxwĩː	kxwũː 
+drink: k\\e͂i | k"wa*	k"we*	kxwã	kxwĩː	kxwũː 
+dry: k\\oː | ǀǀoː	ǀǀò	ǀǀɔː	ǁoː	ǁò	ǁɔː 
+dust: ǃa͂u͂ 
+ear: ǃnweːntu | !nuntu	ǃ̃u-ntu	ǃ̃ú-ntu 
+earth: ǃa͂u͂ | !kʼãũ 
+eat: a͂ | haː	hãː 
+eat: e͂i͂ | haː	hãː 
+egg: ǃha͂u͂ | !kʼáúːwi	!àuwi	!áúi 
+eye: tsaxu | c"axau	caxáu 
+face: xuː 
+fall: ǃkuː 
+far: həru | ǀǀʰwé-tǝn	ǁʰwé-tən 
+far: ǃkweinya | ǀǀʰwé-tǝn	ǁʰwé-tən 
+father: ɛːŋki 
+fat (n.): s\üŋ 
+feather: ǀkhɯ | ǁ̰erre	ǁ̰árre	ɡǀǀerre	ɡǀǀárre 
+finger: ǀk\a 
+finger: ǀk\a ǀna 
+fingernail: ǁkuri 
+finger: ǁnaː˗ka ǀnɔ& 
+fire: ǀi | !i	ǀʼi 
+flower: ǃkweitn tuː 
+fly (n.): ǂguː 
+fly (n.): ǃoː 
+fly (v.): ǁkhou 
+foot: ǃkɔra | ǃ̃wa 
+foot: ǁnaː | ǃ̃wa 
+foot: ǁnaːxu | ǃ̃wa 
+forehead: xuː ǀgai 
+forest: ʘboː 
+fruit: ǀgara 
+fruit: ǀka͂ŋ 
+full: ǃxaŋ | !kauNa	!áúiŋ	!ãũːenyã	!ã́ṹiŋ 
+give: aː | a-a	a-ã	àː	áː	ãː 
+give: saː | a-a	a-ã	àː	áː	ãː 
+good: ǃha͂i͂ya | aː-kǝn	aː-kən	tːwáːi-ĩ	á-kkǝn	á-kkən 
+grass: ǀkeː 
+green: ǀkarowa | kːérru	kːér̀ru 
+green: ǀkxre | kːérru	kːér̀ru 
+hair: ǀkɯ | ǀú	ǀú-ken	ǀʰú	ǀʰú-kǝn	ǀʰú-kən 
+hand: ǀk\a | !k"a	ǀkxa 
+head: ǀnaː | ǀ̃a	ǀ̃aː	ǀ̃ãː	ɳǀa	ɳǀaː	ɳǀãː 
+heart: ǀga͂i͂ | ǀʼĩː 
+heart: ǀgeː | ǀʼĩː 
+hear: tuː | tu	tui	tum	tːu	tːúi 
+heavy: ǃna͂i | kːuéŋ	kːwéːŋ 
+here: a 
+here: ki 
+here: ki ɛː 
+he/she: ha 
+he/she: haha 
+he/she: ha˗ka 
+he/she: haŋ 
+he/she: ˗ya 
+hole: tuː 
+horn: ǁke͂i͂ | !ke*i*	ǀǀʰẽː	ǀǀʰẽ́iː	ǁʰẽː	ǁʰẽ́iː 
+house: ǁnei 
+hunt: ǁkʔwaː 
+hunt: ǁxwaː 
+husband: doː 
+husband: ǀkoː 
+I: a | N	ka	m	n	ŋ 
+if: ki 
+I: ˗ke | N	ka	m	n	ŋ 
+I: ˗ki | N	ka	m	n	ŋ 
+I: m | N	ka	m	n	ŋ 
+I: n | N	ka	m	n	ŋ 
+I: na | N	ka	m	n	ŋ 
+I: ŋ | N	ka	m	n	ŋ 
+I: ŋ˗ka | N	ka	m	n	ŋ 
+I: ni | N	ka	m	n	ŋ 
+kill: ǀaː | ǀiː	ǀá	ǀáː	ǀʰá	ǀʰáː 
+kill: ǀkaː | ǀiː	ǀá	ǀáː	ǀʰá	ǀʰáː 
+kill: ǀkiː | ǀiː	ǀá	ǀáː	ǀʰá	ǀʰáː 
+knee: ǀnɔ͂ | !noaN	ǀ̃ṍaŋ	ǀ̃ṹaŋ	ɳǀṍaŋ	ɳǀṹaŋ 
+know: ǁkhai | ǂʼenː-na	ǂʼeńn-ǂʼeńn	ǂʼeńna	ǂʼeńńː 
+laugh: k\a͂i͂˗a͂ 
+laugh: k\\a͂re 
+leaf: xero 
+leg: ǃkɔːgən 
+leg: ǃk\uːka 
+lie: keːŋ | taː	teːŋ	tːaː	tːeːn	tːeːn-tːeːn	tːeːŋ-ya	tːẽ 
+lie: kia | taː	teːŋ	tːaː	tːeːn	tːeːn-tːeːn	tːeːŋ-ya	tːẽ 
+lie: tia | taː	teːŋ	tːaː	tːeːn	tːeːn-tːeːn	tːeːŋ-ya	tːẽ 
+lie: tu | taː	teːŋ	tːaː	tːeːn	tːeːn-tːeːn	tːeːŋ-ya	tːẽ 
+lip: ǀkogən 
+live: ǀkaː 
+liver: ǁnaiŋ | !noaN	ǁ̃u̯áŋ	ǁ̃waŋ	ɳǀǀu̯áŋ	ɳǀǀwaŋ 
+long: ǀaː | !xóː-wa 
+long: ǃxoːwa | !xóː-wa 
+louse: ʘmoinja | !moEN	ɳʘu̯iŋ	ʘ̃u̯iŋ 
+man: tu͂ | !ku	!kwi	!u̯í	!u̯í-ya	!úi 
+many: ǃna͂i͂ | ǀkxwaiː-ya	ǀkxwáíː 
+many: ǃne | ǀkxwaiː-ya	ǀkxwáíː 
+meat: ʘpwao | eń	eŋ-eŋ-ya	ã̀ː	ã́ː	éŋ-éŋ 
+moon: ǃkɔro | !au!árro 
+mother: xɛːnki 
+mountain: ǃkau | !kau	!kou	!áo	!áo-gən	!óu 
+mountain: ǀnau | !kau	!kou	!áo	!áo-gən	!óu 
+mouth: tuː | tːú 
+name: ǀke͂ | !ke*	ǀẽ 
+navel: ǃneiŋ 
+near: ki | !ʼʰiːŋ	!ʼʰiːŋ-ya 
+near: ǁna | !ʼʰiːŋ	!ʼʰiːŋ-ya 
+neck: ǃkuː | !au	!eau	!ʰóu 
+new: ǂe͂ | !kaN	!kwe	ǀǀa̰ːŋ	ǁa̰ːŋ 
+new: ʘpwa | !kaN	!kwe	ǀǀa̰ːŋ	ǁa̰ːŋ 
+new: txeː | !kaN	!kwe	ǀǀa̰ːŋ	ǁa̰ːŋ 
+new: ǃxeː | !kaN	!kwe	ǀǀa̰ːŋ	ǁa̰ːŋ 
+night: ǁga | !ga	ǁ̰a	ǁ̰aː	ɡǀǀa	ɡǀǀaː 
+not: ǀna | kxáu-ki 
+not: ǀnɔ | kxáu-ki 
+old: ǀgaæ 
+old: ǃnaiŋ 
+one: ǁkwe | !kwai	!waːi	!wʼaːi	|koai 
+other: ko 
+other: koke 
+person: ǃkwa | !ku	!kwi	!u̯í	!u̯í-ya	!úi 
+play: ǃkɔra 
+rain: ka͂u͂ | !waː	!waː-gən	!ʰwaː	!ʰwaː-gən 
+rain: ǂkoː | !waː	!waː-gən	!ʰwaː	!ʰwaː-gən 
+red: xreː | !íː	!íː-ya	!ʰíː-ya 
+river: ǀk\e͂i͂ 
+road: tirau | !kaue	!xara	!xárra 
+round: kəkɛriŋ | kːuérre-kːuérre 
+rub: ǁeri 
+rub: ǀkuna ǀeː 
+rub: xeruː 
+say: ǁa͂la | ǂá-ggǝn	ǂá-ggən	ǂá-ka	ǂá-kka	ǂá-kkǝn	ǂá-kkən	ǂá-kǝn	ǂá-kən 
+say: ka | ǂá-ggǝn	ǂá-ggən	ǂá-ka	ǂá-kka	ǂá-kkǝn	ǂá-kkən	ǂá-kǝn	ǂá-kən 
+say: ǁkala˗a͂ | ǂá-ggǝn	ǂá-ggən	ǂá-ka	ǂá-kka	ǂá-kkǝn	ǂá-kkən	ǂá-kǝn	ǂá-kən 
+say: ǁkei | ǂá-ggǝn	ǂá-ggən	ǂá-ka	ǂá-kka	ǂá-kkǝn	ǂá-kkən	ǂá-kǝn	ǂá-kən 
+say: koaː | ǂá-ggǝn	ǂá-ggən	ǂá-ka	ǂá-kka	ǂá-kkǝn	ǂá-kkən	ǂá-kǝn	ǂá-kən 
+see: ǀkeːn | !k"oen	!na	!ni	ǀ̃aː	ǀ̃i	ǀ̃iː	ǀ̃ãː	ǀ̃ĩ	ǀ̃ĩː	ɳǀaː	ɳǀi	ɳǀiː	ɳǀãː	ɳǀĩ	ɳǀĩː 
+see: ǀnaː | !k"oen	!na	!ni	ǀ̃aː	ǀ̃i	ǀ̃iː	ǀ̃ãː	ǀ̃ĩ	ǀ̃ĩː	ɳǀaː	ɳǀi	ɳǀiː	ɳǀãː	ɳǀĩ	ɳǀĩː 
+see: ǀniː | !k"oen	!na	!ni	ǀ̃aː	ǀ̃i	ǀ̃iː	ǀ̃ãː	ǀ̃ĩ	ǀ̃ĩː	ɳǀaː	ɳǀi	ɳǀiː	ɳǀãː	ɳǀĩ	ɳǀĩː 
+sew: ǁe͂ːŋ 
+sew: ke͂i͂ŋ 
+sew: ǁkxame 
+shoulder: ǁkweːn tu 
+sing: ǂeːki 
+sing: ǀneː 
+sing: ǃwi 
+sister: ǁkaːxe 
+sit: s\ɔː | sːʼo	šːo 
+skin: ǀkou | !go	tu*	tːũŋ 
+skin: tu͂ː | !go	tu*	tːũŋ 
+sky: ǃkaːxu 
+sleep: kia | ʘu̯oin 
+sleep: ʘpwoiŋ | ʘu̯oin 
+small: ǂi͂ | ǂʼènniŋ	ǂʼɛɲɲi 
+small: ʘpwoinki | ǂʼènniŋ	ǂʼɛɲɲi 
+smoke: ǂkwi | ǁ̰ɔ́ː	ɡǀǀɔ́ː 
+snake: ǀk\aːse | ǀǀérri-tǝn tí	ǁérri-tən tí 
+snake: ǀk\au | ǀǀérri-tǝn tí	ǁérri-tən tí 
+spit: ǁɔ&ho& 
+stand: ǁna | !ʰeː	!ʰé 
+star: ǁkweisa | !kwat3n	ǀu̯á̰-ttǝn	ǀu̯á̰-ttən 
+stone: ǃkau | !au	!kau	!kou	!óu 
+stone: ǃku | !au	!kau	!kou	!óu 
+stone: ǃnei | !au	!kau	!kou	!óu 
+suck: ǀkaːke 
+sun: ǁko͂i | !ko*iN	ǀǀkxõĩŋ	ǁkxõĩŋ 
+sweet: ǃkau 
+tail: ǃkei | !ʰwí 
+take: ǀkau 
+take: ǀke 
+take: ǀki 
+take: ǀna 
+that: a | ǀe	ǀeː 
+that: he | ǀe	ǀeː 
+that: ǀne a | ǀe	ǀeː 
+there: keː 
+there: ki 
+there: kieː 
+there: ǁna 
+they: ha 
+they: he 
+they: hi 
+they: hi˗ka 
+they: hŋ 
+they: hɔ 
+think: ǂe͂ 
+think: ǂi͂ 
+this: a | a	aː 
+this: ǁna | a	aː 
+thou: a | a	a-á	aa	aken 
+thou: a˗ka | a	a-á	aa	aken 
+thou: ake | a	a-á	aa	aken 
+thou: u | a	a-á	aa	aken 
+thou: yu | a	a-á	aa	aken 
+three: ǃnwana 
+throat: ǁxreːtu 
+tie: ǃkai 
+tomorrow: ǃkiŋki 
+tomorrow: ǁko&i&˗kɔː 
+tongue: ǀe͂ | !eni	!eri	ǀʼénni	ǀʼér̃r̃i 
+tooth: ǁke͂i | !ke*i*	ǀǀʰẽːi	ǁʰẽːi 
+tree: ʘbo | !ho	ʘʼʰo 
+tree: ʘhoː | !ho	ʘʼʰo 
+turn: kaːo 
+two: ǃku | !ku	!úː	ǃku: 
+walk: ǁa | ǀǀʼa	ǀǀʼaŋ	ǀǀʼaː	ǀǀʼé	ǁʼa	ǁʼaŋ	ǁʼaː	ǁʼé 
+walk: ǁaː | ǀǀʼa	ǀǀʼaŋ	ǀǀʼaː	ǀǀʼé	ǁʼa	ǁʼaŋ	ǁʼaː	ǁʼé 
+walk: ǁana | ǀǀʼa	ǀǀʼaŋ	ǀǀʼaː	ǀǀʼé	ǁʼa	ǁʼaŋ	ǁʼaː	ǁʼé 
+walk: ǃkeǁa | ǀǀʼa	ǀǀʼaŋ	ǀǀʼaː	ǀǀʼé	ǁʼa	ǁʼaŋ	ǁʼaː	ǁʼé 
+walk: ǃkeja | ǀǀʼa	ǀǀʼaŋ	ǀǀʼaː	ǀǀʼé	ǁʼa	ǁʼaŋ	ǁʼaː	ǁʼé 
+walk: ǃnoeya | ǀǀʼa	ǀǀʼaŋ	ǀǀʼaː	ǀǀʼé	ǁʼa	ǁʼaŋ	ǁʼaː	ǁʼé 
+walk: tɑ͂i͂ | ǀǀʼa	ǀǀʼaŋ	ǀǀʼaː	ǀǀʼé	ǁʼa	ǁʼaŋ	ǁʼaː	ǁʼé 
+walk: tsuː | ǀǀʼa	ǀǀʼaŋ	ǀǀʼaː	ǀǀʼé	ǁʼa	ǁʼaŋ	ǁʼaː	ǁʼé 
+warm: hai˗i 
+warm: ǁkoːna 
+warm: ǃkwɔna 
+wash: ǁəri 
+water: ǃkhwaː | !khwa	!waː	!wá	!wã 
+weep: k\\a 
+we (excl.): si 
+we: i | i	ii	it3n	sːi	sːi-sːi 
+we (incl.): e 
+we (incl.): ˗hi 
+we (incl.): i 
+we: si | i	ii	it3n	sːi	sːi-sːi 
+wet: kauːke 
+what: dye | cʼa=de 
+what: kisi | cʼa=de 
+where: ti˗ɛ 
+white: ǀɔːwa | !úi-ta	!úi-tən 
+who: tu eki | !u=de 
+wife: ǀeːki 
+wind: ǃkhwe | !ʰwé 
+wing: k\aːka ǀkəreː 
+wipe: ǀiːkia 
+with: na 
+with: ǁna 
+with: ŋ 
+woman: ǀgaiki | ǀʼaːi-ti 
+woman: ǀkaŋ | ǀʼaːi-ti 
+wood: ǁkha 
+wood: ǃnwe 
+yellow: ǀkaǀa 
+yesterday: ǁko&e ǁwɛ ko 
+every: kuː 
+ash: !ùi	!úi 
+ashes: !ùi	!úi 
+abdomen: !áu-tu 
+bigness: !ui-ya 
+large: !ui-ya 
+breasts: !kwei!kwei	ǁ̃wain-tu	ɳǀǀwain-tu 
+burn tr.: ǀǀa	ǀǀaː	ǀǀeː	ǀǀà	ǁa	ǁaː	ǁeː	ǁà 
+claw: ǀǀurru	ǀǀúru	ǁurru	ǁúru 
+nail: ǀǀurru	ǀǀúru	ǁurru	ǁúru 
+talon: ǀǀurru	ǀǀúru	ǁurru	ǁúru 
+come from: Si	s"e	s"i	sːe 
+be dead: !a	!kukn	ǀʼa	ǀʼà 
+dead: !a	!kukn	ǀʼa	ǀʼà 
+ground: !kʼãũ 
+land: !kʼãũ 
+soil: !kʼãũ 
+fat: sːwéŋ 
+fat n.: sːwéŋ 
+grease: sːwéŋ 
+lubricant: sːwéŋ 
+oil: sːwéŋ 
+fly: ǀǀau	ǀǀaù	ǀǀaːuː	ǀǀxáu	ǀǀʰau	ǀǀʰóu	ǁau	ǁaù	ǁaːuː	ǁxáu	ǁʰau	ǁʰóu 
+fly v.: ǀǀau	ǀǀaù	ǀǀaːuː	ǀǀxáu	ǀǀʰau	ǀǀʰóu	ǁau	ǁaù	ǁaːuː	ǁxáu	ǁʰau	ǁʰóu 
+left hand: !k"a	ǀkxa 
+right: !k"a	ǀkxa 
+1 sg.: N	ka	m	n	ŋ 
+be knowledgeable: ǂʼenː-na	ǂʼeńn-ǂʼeńn	ǂʼeńna	ǂʼeńńː 
+lie down: taː	teːŋ	tːaː	tːeːn	tːeːn-tːeːn	tːeːŋ-ya	tːẽ 
+head louse: !moEN	ɳʘu̯iŋ	ʘ̃u̯iŋ 
+male: !wi=gwaiː 
+much: ǀkxwaiː-ya	ǀkxwáíː 
+multiple: ǀkxwaiː-ya	ǀkxwáíː 
+several: ǀkxwaiː-ya	ǀkxwáíː 
+flesh: eń	eŋ-eŋ-ya	ã̀ː	ã́ː	éŋ-éŋ 
+hill: !kau	!kou	!áo	!áo-gən	!óu 
+title: !ke*	ǀẽ 
+nighttime: !ga	ǁ̰a	ǁ̰aː	ɡǀǀa	ɡǀǀaː 
+nose: !nuru	ǀ̃ũnu	ɳǀũnu 
+adulterous: !kwai	!waːi	!wʼaːi	|koai 
+single: !kwai	!waːi	!wʼaːi	|koai 
+the: !kwai	!waːi	!wʼaːi	|koai 
+unprincipled: !kwai	!waːi	!wʼaːi	|koai 
+human: !ku	!kwi	!u̯í	!u̯í-ya	!úi 
+human being: !ku	!kwi	!u̯í	!u̯í-ya	!úi 
+rainy weather: !waː	!waː-gən	!ʰwaː	!ʰwaː-gən 
+path: !kaue	!xara	!xárra 
+route: !kaue	!xara	!xárra 
+sand: !kʼãũ 
+hide: !go	tu*	tːũŋ 
+little: ǂʼènniŋ	ǂʼɛɲɲi 
+smallness: ǂʼènniŋ	ǂʼɛɲɲi 
+rock: !au	!kau	!kou	!óu 
+swim: ʘxuː 
+2 sg: a	a-á	aa	aken 
+you: a	a-á	aa	aken 
+grind: !ku	!úː	ǃku: 
+go: ǀǀʼa	ǀǀʼaŋ	ǀǀʼaː	ǀǀʼé	ǁʼa	ǁʼaŋ	ǁʼaː	ǁʼé 
+1 pl. inc.: i	ii	it3n	sːi	sːi-sːi 
+we₁: i	ii	it3n	sːi	sːi-sːi 
+whiteness: !úi-ta	!úi-tən 
+who?: !u=de 
+female: ǀʼaːi-ti 
+distant: ǀǀʰwé-tǝn	ǁʰwé-tən 
+dull: kːuéŋ	kːwéːŋ 
+serious: kːuéŋ	kːwéːŋ 
+close: !ʼʰiːŋ	!ʼʰiːŋ-ya 
+ner: !ʼʰiːŋ	!ʼʰiːŋ-ya 
+salt: ǂkʼòː 
+short: ǀʼu̯erriː	ǀʼu̯írri 
+year: ǃ̃aː 

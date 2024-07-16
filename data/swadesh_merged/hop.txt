@@ -1,0 +1,334 @@
+all: sòosoy 
+every: sòosoy 
+ash: qötsvi 
+ashes: qötsvi 
+bark: tsìipuʼat 
+abdomen: pono 
+belly: pono 
+big: wuko-	wuuyoqʼa 
+bigness: wuko-	wuuyoqʼa 
+large: wuko-	wuuyoqʼa 
+bird: tsiro 
+bite: kuuki 
+black: qömvi 
+blood: cip3	ungwa 
+bone: oqa	ööqa 
+breast: pih3	piihu 
+breasts: pih3	piihu 
+cloud: ʼomaw 
+cold: iyohoʼo 
+come: pew	pit3 
+come from: pew	pit3 
+be dead: moki	mooki 
+dead: moki	mooki 
+die: moki	mooki 
+dog: poko	pòoko 
+drink: hiiko	hiko 
+dry: laaki 
+ear: naqv3	naqvu 
+earth: tutskwa 
+ground: tutskwa 
+land: tutskwa 
+soil: tutskwa 
+eat: nöösa 
+egg: nöhu 
+eye: poosi	posi 
+feather: homasa 
+fire: qoyohi	qööhi	uuwingw 
+fish: paakiw	pakiw 
+fly: puuyàlti 
+fly v.: puuyàlti 
+foot: kuku 
+full: opo	opo- 
+give: maqa 
+good: lolma	tuwyʼita 
+green: mokì 
+hair: höömi 
+hand: ma 
+left hand: ma 
+right: ma 
+head: qötö 
+hear: navota 
+heart: unangwa 
+horn: aala	ala 
+1 sg.: n37	nuy	nuʼ 
+I: n37	nuy	nuʼ 
+kill: niina 
+knee: tamo	tamö 
+be knowledgeable: tuwiʼyta 
+know: tuwiʼyta 
+leaf: napi	nàapi 
+liver: n3ma	nuuma 
+long: wuupa 
+head louse: at3	atu 
+louse: at3	atu 
+male: taaqa 
+man: hopi	sino 
+many: hìisaʼ 
+much: hìisaʼ 
+multiple: hìisaʼ 
+several: hìisaʼ 
+moon: muuyaw 
+hill: t3kw~a	tuukwi 
+mountain: t3kw~a	tuukwi 
+mouth: moʼa 
+name: t3Nw~i	tungwni 
+title: t3Nw~i	tungwni 
+neck: kwàapi 
+new: p3h3	puuhu 
+night: mihi	tookila 
+nighttime: mihi	tookila 
+nose: yaqa 
+not: qa 
+adulterous: s3ka	suukya	suukyaʼ	sy𝑢xke 
+one: s3ka	suukya	suukyaʼ	sy𝑢xke 
+single: s3ka	suukya	suukyaʼ	sy𝑢xke 
+that: pam 
+the: s3ka	suukya	suukyaʼ	sy𝑢xke 
+unprincipled: s3ka	suukya	suukyaʼ	sy𝑢xke 
+human: hopi	sino 
+human being: hopi	sino 
+person: hopi	sino 
+rain: yokva	yooyangwl 
+rainy weather: yokva	yooyangwl 
+red: paalà 
+path: poh3	pöhu 
+road: poh3	pöhu 
+route: poh3	pöhu 
+root: nga 
+round: póngokpu 
+sand: tuuwa 
+say: pàngqawu 
+see: tuwa	yori 
+seed: poosi	sivosi 
+sit: qatu 
+hide: 3Nw~a	puukya 
+skin: 3Nw~a	puukya 
+sleep: puuwi 
+little: -hoya	tsay 
+small: -hoya	tsay 
+smallness: -hoya	tsay 
+smoke: kwiitsingw 
+star: soh3	soohu 
+rock: owa 
+stone: owa 
+sun: taawa	tawa 
+swim: momori 
+tail: suru 
+this: iʼ 
+2 sg: 3m	ʼum	ʼung 
+thou: 3m	ʼum	ʼung 
+you: 3m	ʼum	ʼung 
+tongue: leNi	lengi 
+tooth: tama 
+tree: coki	himutski 
+grind: leiyi	loyom	lööyöʼ	løøyøm 
+two: leiyi	loyom	lööyöʼ	løøyøm 
+go: waynuma 
+walk: waynuma 
+hot: muki 
+warm: muki 
+water: kuuyi	paahu	pah3 
+1 pl. inc.: itam	ʼitam	ʼitamuy 
+we: itam	ʼitam	ʼitamuy 
+we₁: itam	ʼitam	ʼitamuy 
+what: himu 
+white: qöötsa 
+whiteness: qöötsa 
+who: hak 
+who?: hak 
+female: wùuti 
+woman: wùuti 
+yellow: sikyà 
+distant: haq 
+far: haq 
+dull: putu 
+heavy: putu 
+serious: putu 
+close: -qlaq 
+near: -qlaq 
+ner: -qlaq 
+salt: öönga 
+short: hìisava	tsaava 
+snake: taaho 
+thin: tsapöngala 
+wind: huukyangw 
+earthworm: aahu 
+worm: aahu 
+year: yàasangw 
+3 sg.: pam	put 
+he: pam	put 
+she: pam	put 
+2 pl.: ʼuma	ʼumuy 
+ye: ʼuma	ʼumuy 
+you all: ʼuma	ʼumuy 
+3 pl.: puma	pumuy 
+they: puma	pumuy 
+here: ep 
+there: pep 
+where: haqam 
+where?: haqam 
+when: hisat 
+when?: hisat 
+how: hin 
+how?: hin 
+some: hìisaʼ 
+few: hìisaʼhoya	tsaaʼ 
+other: ayamwat 
+three: pahyom	pàayoʼ	pãhio 
+four: naalöyöʼ	naaløyøm	nãleyi 
+five: tci𝑣𝑢t	tsivot 
+broad: puutsi 
+wide: puutsi 
+wideness: puutsi 
+fat: wihu 
+thick: pööngala 
+narrow: puutsi 
+child: tsay 
+principal wife: nööma 
+wife: nööma 
+husband: koongya 
+his mother: yu 
+mother: yu 
+my mother: yu 
+father: na 
+his father: na 
+my father: na 
+animal: himu 
+forest: -qlö 
+woods: -qlö 
+branch: koho 
+stick: koho 
+fruit: toko 
+flower: sihu 
+grass: tuusaqa 
+cord: wikpangwa 
+rope: wikpangwa 
+flesh: sikwi 
+meat: sikwi 
+grease: wihu 
+claw: malatssoki 
+fingernail: malatssoki 
+nail: malatssoki 
+leg: hokya 
+arm: maa 
+wing: masa 
+gut: siihu 
+guts: siihu 
+insides: siihu 
+intestine: siihu 
+intestines: siihu 
+back: hòota 
+suck: tsòotsona 
+spit: töha 
+vomit: naayöʼa 
+blow: hukba	poovoya 
+breath: hìikwista 
+breathe: hìikwista 
+laugh: tayati 
+laughter: tayati 
+cogitate: wuuwa 
+reflect: wuuwa 
+think: wuuwa 
+smell: hovaʼikwa 
+sniff: hovaʼikwa 
+afraid: màmqasi 
+be afraid: màmqasi 
+fear: màmqasi 
+fright: màmqasi 
+alive: qatu 
+be alive: qatu 
+life: qatu 
+live: qatu 
+living: qatu 
+fight: naayawi 
+hunt: maqto 
+beat: sávikna	wuvàata 
+hit: sávikna	wuvàata 
+strike: sávikna	wuvàata 
+cut: tuku 
+hack: tuku 
+cut open: saha 
+split: saha 
+pierce: sö`ökwikna 
+stab: sö`ökwikna 
+scratch: pélekna 
+dig: hangwa 
+lie: qaatsi 
+lie down: qaatsi 
+tell lies: qaatsi 
+stand: wunu 
+turn: ponìlti 
+turn around: ponìlti 
+turn round: ponìlti 
+drop: pòosi 
+fall: pòosi 
+grasp: nguʼyta	yawta 
+hold: nguʼyta	yawta 
+hold in arm: nguʼyta	yawta 
+squeeze: pootsa 
+wring: pootsa 
+rub: maamapri	ruurukwa 
+wipe: hööna 
+wash: vahoma 
+wash clothes: vahoma 
+pull: lölökinta 
+push: naʼatsqökna 
+shove: naʼatsqökna 
+throw: tuuva 
+bind: soma 
+fasten: soma 
+tie: soma 
+tie up: soma 
+sew: tuuʼiha 
+count: pòotoyla 
+enumerate: pòotoyla 
+number: pòotoyla 
+tally: pòotoyla 
+sing: kuyna	tawta 
+have fun: naataplawu 
+play: naataplawu 
+float: paayàlti 
+flow: muuna 
+freeze: tuusungwti 
+swell: pösti 
+brook: paayu 
+river: paayu 
+stream: paayu 
+lake: patupha 
+ocean: paatuwaqatsi 
+sea: paatuwaqatsi 
+dust: qöʼangw 
+fog: pamösi 
+sky: tokpela 
+snow: nuva 
+ice: patusngwa 
+blaze: qöyna 
+burn: qöyna 
+day: taala	taawa 
+daylight: taala	taawa 
+daytime: taala	taawa 
+old: wuy 
+bad: qa lolma 
+evil: qa lolma 
+rot: aavu	peekyewpu 
+rotten: aavu	peekyewpu 
+dirty: itseheʼe 
+filthy: itseheʼe 
+soiled: itseheʼe 
+straight: sutskwipu 
+sharp: qala 
+blunt: tsúkuplöti 
+smooth: suphìngpu 
+damp: mowaʼiwta 
+wet: mowaʼiwta 
+correct: súʼanta 
+right side: putve 
+left: suyvaqw 
+at: ep 
+in: -peq	-ve 
+inside: -peq	-ve 
+with: -mum	akw 
+and: -niqw 
+if: -kur 
+because: taq 

@@ -1,0 +1,266 @@
+all: bacan 
+every: bacan 
+ash: bedop 
+ashes: bedop 
+abdomen: dovo- 
+belly: dovo- 
+big: oroŋ 
+bigness: oroŋ 
+large: oroŋ 
+bird: uhnomu 
+bite: ahli 
+black: acumsu 
+blood: uŋga 
+bone: nowira- 
+breast: na- 
+breasts: na- 
+burn: ehni 
+burn tr.: ehni 
+cloud: nomwau 
+cold: urpon 
+come: enim	venim 
+come from: enim	venim 
+be dead: imis	mis 
+dead: imis	mis 
+die: imis	mis 
+dog: dinowe	nalinowe 
+drink: omni	wameni 
+dry: artacau 
+ear: delŋe-	nd~eliNe 
+eat: eni 
+egg: nahli- 
+eye: himi	nihmi 
+feather: novliŋe- 
+fire: nabaveŋ	win 
+fish: uhnomu	umomu 
+fly: erkep 
+fly v.: erkep 
+good: armai 
+green: delemda 
+hair: novliŋen-nobu- 
+hand: deŋe-	leNe	leŋe- 
+left hand: deŋe-	leNe	leŋe- 
+right: deŋe-	leNe	leŋe- 
+head: nobu- 
+hear: elŋi	erŋi	etiNi 
+1 sg.: yau 
+I: yau 
+kill: dahlini 
+be knowledgeable: ocori 
+know: ocori 
+leaf: delŋe-	mb~eliNen 
+lie: ahlei 
+lie down: ahlei 
+liver: maNk~ilemil	neŋgilmei 
+long: laupe 
+head louse: wit 
+louse: wit 
+male: yarmon 
+man: yerema 
+moon: irais 
+hill: unoNnamb~abin 
+mountain: unoNnamb~abin 
+mouth: nobun ŋgivi- 
+name: ban yau	niva- 
+title: ban yau	niva- 
+neck: borina-	na- 
+new: aribau	arvau 
+night: belmela	mb~aluwalip 
+nighttime: belmela	mb~aluwalip 
+nose: neli	neli- 
+adulterous: netai	sai 
+one: netai	sai 
+single: netai	sai 
+that: mori 
+the: netai	sai 
+unprincipled: netai	sai 
+human: yerema 
+human being: yerema 
+person: yerema 
+rain: nerevnip 
+rainy weather: nerevnip 
+red: ehlip 
+path: nelelam 
+road: nelelam 
+route: nelelam 
+root: nolŋe- 
+sand: nalvin 
+say: oco 
+see: ocsi	x3si 
+sit: arap 
+hide: da-	noclesda-	xodesind~an 
+skin: da-	noclesda-	xodesind~an 
+sleep: ahleiba 
+little: urkis 
+small: urkis 
+smallness: urkis 
+smoke: nuŋo-nobaveŋ 
+star: umse 
+rock: bat	nivat 
+stone: bat	nivat 
+sun: maNg~am 
+swim: alcai 
+tail: novlimce- 
+this: imo 
+2 sg: Ng~a	ŋga 
+thou: Ng~a	ŋga 
+you: Ng~a	ŋga 
+tongue: luame	nalwame- 
+tooth: Ng~ibi	ŋgivi- 
+grind: lu	qelu	ŋgelu 
+two: lu	qelu	ŋgelu 
+go: ovocor 
+walk: ovocor 
+hot: avŋaveŋ 
+warm: avŋaveŋ 
+water: ne 
+1 pl. inc.: Ng~is	ŋgim	ŋgis 
+we: Ng~is	ŋgim	ŋgis 
+we₁: Ng~is	ŋgim	ŋgis 
+what: da 
+white: arusva 
+whiteness: arusva 
+who: wi 
+who?: wi 
+female: yarvin 
+woman: yarvin 
+yellow: arumyaŋ 
+distant: isut 
+far: isut 
+dull: abas 
+heavy: abas 
+serious: abas 
+close: burbut 
+near: burbut 
+ner: burbut 
+salt: netukus 
+short: burbut 
+snake: neskil 
+thin: ivivirau 
+wind: wavlau 
+earthworm: umŋgeya 
+worm: umŋgeya 
+year: namŋgainil 
+2 pl.: ŋgimi 
+ye: ŋgimi 
+you all: ŋgimi 
+3 pl.: leil 
+they: leil 
+where: duwa 
+where?: duwa 
+when: niŋei 
+when?: niŋei 
+how: nocwa 
+how?: nocwa 
+other: erema 
+three: qehli	ŋgehli 
+four: lemelu 
+five: suworem 
+broad: aflei 
+wide: aflei 
+wideness: aflei 
+fat: nup 
+thick: ivivat 
+narrow: worcirci 
+principal wife: riva- 
+wife: riva- 
+husband: awi- 
+his mother: ehne- 
+mother: ehne- 
+my mother: ehne- 
+father: rimi- 
+his father: rimi- 
+my father: rimi- 
+forest: doburwai 
+woods: doburwai 
+branch: deŋeŋe-ni 
+stick: deŋeŋe-ni 
+fruit: nava- 
+flower: navani 
+grass: novlelmut 
+cord: nowe 
+rope: nowe 
+flesh: nalat 
+meat: nalat 
+grease: nup 
+wing: nevloco- 
+gut: nesousi- 
+guts: nesousi- 
+insides: nesousi- 
+intestine: nesousi- 
+intestines: nesousi- 
+back: da- 
+suck: aŋmu 
+spit: arvani 
+vomit: elwa 
+blow: eli	elumsi 
+breath: esomsak 
+breathe: esomsak 
+laugh: doŋgorwa 
+laughter: doŋgorwa 
+cogitate: daro 
+reflect: daro 
+think: daro 
+smell: iŋok 
+sniff: iŋok 
+afraid: ivani 
+be afraid: ivani 
+fear: ivani 
+fright: ivani 
+alive: omorop 
+be alive: omorop 
+life: omorop 
+live: omorop 
+living: omorop 
+beat: dai 
+hit: dai 
+strike: dai 
+cut: arvi 
+hack: arvi 
+cut open: arek 
+split: arek 
+pierce: ehli 
+stab: ehli 
+scratch: elei 
+dig: ocli 
+stand: wade 
+drop: ohmol 
+fall: ohmol 
+grasp: ovohlowi 
+hold: ovohlowi 
+hold in arm: ovohlowi 
+squeeze: avis 
+wring: avis 
+throw: davaŋi 
+bind: iri 
+fasten: iri 
+tie: iri 
+tie up: iri 
+sew: ehli 
+count: isbi 
+enumerate: isbi 
+number: isbi 
+tally: isbi 
+flow: arare 
+ocean: de 
+sea: de 
+fog: nelinbup 
+sky: bocup 
+bad: arwat 
+evil: arwat 
+rot: ibu 
+rotten: ibu 
+dirty: dahlei 
+filthy: dahlei 
+soiled: dahlei 
+sharp: aca 
+blunt: aruye 
+damp: omne 
+wet: omne 
+right side: arube 
+left: umesvi 
+at: ra 
+in: unbahnaŋ 
+inside: unbahnaŋ 
+and: im 
+if: naŋgo 

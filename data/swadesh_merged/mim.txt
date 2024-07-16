@@ -1,0 +1,317 @@
+all: ndiʼi 
+every: ndiʼi 
+ash: yaa 
+ashes: yaa 
+abdomen: chii 
+belly: chii 
+big: chee	kaʼun 
+bigness: chee	kaʼun 
+large: chee	kaʼun 
+bird: saa 
+bite: tɨɨn 
+black: nuu 
+blood: nɨñɨ 
+bone: yɨkɨ 
+breast: xika 
+breasts: xika 
+cloud: viko 
+cold: vɨxin 
+come: kixi 
+come from: kixi 
+be dead: kuvi 
+dead: kuvi 
+die: kuvi 
+dog: ina 
+drink: koʼo 
+dry: ichɨ 
+ear: soʼo 
+earth: ñuʼun 
+ground: ñuʼun 
+land: ñuʼun 
+soil: ñuʼun 
+eat: kaki 
+egg: ndɨvɨ 
+eye: rlij 
+feather: tuu 
+fire: ñuʼun 
+fish: chaka 
+fly: ndachi 
+fly v.: ndachi 
+foot: sɨʼɨn	xaʼa 
+full: sikuku 
+give: kuaʼa	taxi 
+good: vaʼa 
+green: kuii 
+hair: idi	ixi 
+head: yichj 
+hear: kuni soʼo 
+heart: añu	nɨma 
+horn: ndɨkɨ 
+1 sg.: na	ri 
+I: na	ri 
+kill: kaʼni 
+knee: yɨkɨ xɨtɨ 
+be knowledgeable: kuni 
+know: kuni 
+leaf: ndaʼa yuku 
+liver: staxaʼa 
+long: kani 
+head louse: chuku 
+louse: chuku 
+male: taa 
+man: ɨvɨ 
+many: kini	kuaʼa 
+much: kini	kuaʼa 
+multiple: kini	kuaʼa 
+several: kini	kuaʼa 
+moon: yoo 
+hill: yuku 
+mountain: yuku 
+mouth: yuʼu 
+name: kɨvɨ 
+title: kɨvɨ 
+neck: sukun 
+new: xaa 
+night: niñu 
+nighttime: niñu 
+nose: xɨtin 
+not: ko ansu	koto	tu 
+adulterous: ɨɨn 
+one: ɨɨn 
+single: ɨɨn 
+that: yukan 
+the: ɨɨn 
+unprincipled: ɨɨn 
+human: ɨvɨ 
+human being: ɨvɨ 
+person: ɨvɨ 
+rain: dau	sau	savi 
+rainy weather: dau	sau	savi 
+red: kuaʼa 
+path: ichi 
+road: ichi 
+route: ichi 
+root: yoʼo 
+round: tɨloo 
+sand: ñɨtɨ 
+say: kachi 
+see: koto	kuni 
+seed: ndɨkɨn 
+sit: nukoo 
+hide: ñɨɨ 
+skin: ñɨɨ 
+sleep: kusun 
+little: loʼo	lulu 
+small: loʼo	lulu 
+smallness: loʼo	lulu 
+smoke: kaʼmi 
+star: choxini 
+rock: yuu 
+stone: yuu 
+sun: kandii 
+swim: sucha 
+tail: ndoʼma	suʼma 
+this: xaʼa	yoʼo 
+2 sg: niʼin	roʼo 
+thou: niʼin	roʼo 
+you: niʼin	roʼo 
+tongue: yaa 
+tooth: unʼun 
+tree: yujnu	yutun 
+grind: uvi 
+two: uvi 
+go: kaka 
+walk: kaka 
+hot: iʼni 
+warm: iʼni 
+water: nducha 
+1 pl. inc.: ndeʼe	ri	yoʼo 
+we: ndeʼe	ri	yoʼo 
+we₁: ndeʼe	ri	yoʼo 
+what: nda	ndavi	unku 
+white: kuixin	xikɨyɨ 
+whiteness: kuixin	xikɨyɨ 
+who: navi	unku 
+who?: navi	unku 
+female: ña	ña ɨʼɨ 
+woman: ña	ña ɨʼɨ 
+yellow: kuaan 
+distant: kani	xika 
+far: kani	xika 
+dull: vee 
+heavy: vee 
+serious: vee 
+close: yati 
+near: yati 
+ner: yati 
+salt: ñɨɨ 
+short: lɨkɨ 
+snake: koo 
+thin: kuɨñɨ	leke	xii 
+wind: tachi 
+earthworm: tɨkashin	tɨndaku 
+worm: tɨkashin	tɨndaku 
+year: kuiya 
+3 sg.: ra	yɨ 
+he: ra	yɨ 
+she: ra	yɨ 
+2 pl.: ndo 
+ye: ndo 
+you all: ndo 
+3 pl.: nda 
+they: nda 
+here: xaʼa	yoʼo 
+there: kaa 
+where: nuu 
+where?: nuu 
+when: na	nama	nuu 
+when?: na	nama	nuu 
+how: nasaa 
+how?: nasaa 
+some: sava	uu 
+few: loʼo	tɨʼlɨ	xaku 
+other: ɨnka 
+three: uni 
+four: kuun 
+five: uʼun 
+broad: xicha 
+wide: xicha 
+wideness: xicha 
+fat: xaʼan 
+thick: kukun 
+narrow: tuu 
+child: lili	lulu 
+principal wife: sɨʼɨ 
+wife: sɨʼɨ 
+husband: ii 
+his mother: nana 
+mother: nana 
+my mother: nana 
+father: tata 
+his father: tata 
+my father: tata 
+animal: kɨtɨ 
+forest: nuyuxia 
+woods: nuyuxia 
+branch: vitun	yutun 
+stick: vitun	yutun 
+fruit: ndeʼe	vixi 
+flower: ita 
+grass: iva 
+cord: yoʼo 
+rope: yoʼo 
+flesh: neè 
+meat: neè 
+grease: xaʼan 
+claw: tiñu 
+fingernail: tiñu 
+nail: tiñu 
+leg: sanʼda 
+arm: ndaʼa 
+hand: ndaʼa 
+wing: ndɨxin 
+gut: xitɨ 
+guts: xitɨ 
+insides: xitɨ 
+intestine: xitɨ 
+intestines: xitɨ 
+back: sata	sɨkɨ 
+suck: tɨʼvɨ 
+spit: tiʼvi 
+vomit: nduña 
+blow: kaxa	tɨvɨ 
+breath: sita … tachi 
+breathe: sita … tachi 
+laugh: kuaku 
+laughter: kuaku 
+cogitate: ndoʼo … ini 
+reflect: ndoʼo … ini 
+think: ndoʼo … ini 
+smell: kuxaʼan	taʼmi 
+sniff: kuxaʼan	taʼmi 
+afraid: yuʼu 
+be afraid: yuʼu 
+fear: yuʼu 
+fright: yuʼu 
+alive: chakoo	koo 
+be alive: chakoo	koo 
+life: chakoo	koo 
+live: chakoo	koo 
+living: chakoo	koo 
+fight: kanaa	kinyɨɨ 
+hunt: kʼani 
+beat: chiʼi 
+hit: chiʼi 
+strike: chiʼi 
+cut: kaxa	kaʼncha 
+hack: kaxa	kaʼncha 
+cut open: tʼavi 
+split: tʼavi 
+pierce: kani 
+stab: kani 
+scratch: koyo 
+dig: kata 
+lie: nukava 
+lie down: nukava 
+tell lies: nukava 
+stand: kandichi 
+drop: ndikava 
+fall: ndikava 
+grasp: kutii 
+hold: kutii 
+hold in arm: kutii 
+wash: nakacha 
+wash clothes: nakacha 
+wipe: nditivi 
+pull: xisita 
+push: kakin	sikiʼin 
+shove: kakin	sikiʼin 
+throw: kakin	sikiʼin 
+sew: kiku 
+count: kaʼvi 
+enumerate: kaʼvi 
+number: kaʼvi 
+tally: kaʼvi 
+sing: kata 
+have fun: kusɨkɨ 
+play: kusɨkɨ 
+swell: xaa 
+brook: yuta 
+river: yuta 
+stream: yuta 
+lake: mini 
+ocean: nducha ñɨɨ 
+sea: nducha ñɨɨ 
+dust: tɨkacha 
+sky: andɨvɨ 
+snow: yuʼva 
+ice: yuʼva 
+blaze: kayu	kaʼmi 
+burn: kayu	kaʼmi 
+day: kɨvɨ 
+daylight: kɨvɨ 
+daytime: kɨvɨ 
+old: chee	yata 
+bad: kueʼe 
+evil: kueʼe 
+rot: kueʼe 
+rotten: kueʼe 
+dirty: ñaʼan 
+filthy: ñaʼan 
+soiled: ñaʼan 
+straight: ndoo 
+sharp: xaan 
+smooth: kama	lɨɨ 
+damp: vixa 
+wet: vixa 
+correct: ndaa 
+right: kuaʼa 
+right side: kuaʼa 
+left: sati 
+at: nuu 
+in: ini 
+inside: ini 
+with: xiin 
+and: ta	tin 
+if: vee 
+because: chi 

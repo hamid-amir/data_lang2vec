@@ -1,0 +1,133 @@
+all: dimuʼan	intiro	plos 
+every: dimuʼan	intiro	plos 
+ash: agbon 
+ashes: agbon 
+abdomen: battong +it+d1 
+belly: battong +it+d1 
+big: haway	haya 
+bigness: haway	haya 
+large: haway	haya 
+bird: manok +t+d1 
+bite: kibkib	pangʼit	paʼpaʼ 
+blood: laha7	lahaʼ 
+bone: ta7ulaN	taʼulang 
+breast: darakan 
+breasts: darakan 
+burn: sunog +t+d1	surit 
+burn tr.: sunog +t+d1	surit 
+cloud: panganod 
+cold: anni 
+come: da7ito	daʼito	pada	pada- 
+come from: da7ito	daʼito	pada	pada- 
+be dead: matay	pu7o	puʼo 
+dead: matay	pu7o	puʼo 
+die: matay	pu7o	puʼo 
+dog: ido7	idoʼ 
+drink: inom	tal7~ok	talʼok 
+dry: tuhoʼ 
+ear: taliNa	talinga 
+eat: kabos	kakan 
+egg: antallo 
+eye: mata	mata1 +t+d1 
+feather: barahibo 
+fire: api 
+fish: dayiN	daying 
+fly: layog 
+fly v.: layog 
+good: halap 
+green: grin 
+hair: barahibo 
+hand: kambag	kamb~ag	tamburoʼ	tamb~uro7 
+left hand: kambag	kamb~ag	tamburoʼ	tamb~uro7 
+right: kambag	kamb~ag	tamburoʼ	tamb~uro7 
+head: takulok 
+hear: kali	pakali 
+kill: bunoʼ +d1	matay	utas 
+be knowledgeable: alimagmag?	urup-urupan? 
+know: alimagmag?	urup-urupan? 
+leaf: dahon	dahon +t+d1 
+lie: libbak 
+lie down: libbak 
+liver: atay	atay +t+d1 
+head louse: kuspad	kuspad +d1 
+louse: kuspad	kuspad +d1 
+male: lalla 
+man: a7a	aʼa 
+moon: bulan +d1 
+mouth: bawaʼ 
+name: aron	bansag	bans~ag 
+title: aron	bansag	bans~ag 
+neck: kallong 
+new: bag7~o	bagʼo +d1 
+night: saNom	sangom 
+nighttime: saNom	sangom 
+nose: uroN	urong 
+adulterous: qadáq	un	uno 
+one: qadáq	un	uno 
+single: qadáq	un	uno 
+that: -naʼan	nay nan	nay ray 
+the: qadáq	un	uno 
+unprincipled: qadáq	un	uno 
+human: a7a	aʼa 
+human being: a7a	aʼa 
+person: a7a	aʼa 
+rain: uran +d1	usdat 
+rainy weather: uran +d1	usdat 
+red: piyat 
+path: lalan	tinampo	tinamp~o 
+road: lalan	tinampo	tinamp~o 
+route: lalan	tinampo	tinamp~o 
+root: gamot +d1 
+sand: baybay 
+say: palling	pinugad	sabi +t 
+see: bataw-bataw	batawbataw	kulaw	kulaw? 
+sit: tingkarag	tingkuloʼ 
+hide: anit	anit +d	panit	panit +d1 
+skin: anit	anit +d	panit	panit +d1 
+sleep: turi 
+little: dikiʼ 
+small: dikiʼ 
+smallness: dikiʼ 
+smoke: humbo 
+star: bitu7on	bituʼon +d1 
+rock: bato	bato +t+d1 
+stone: bato	bato +t+d1 
+swim: rangi 
+tail: ingko 
+this: nayto	sito	to	yayto 
+tongue: dala7	dallaʼ 
+tooth: impon	imp~on 
+grind: dos	dúwa 
+two: dos	dúwa 
+go: langngan 
+walk: langngan 
+hot: alusuʼos 
+warm: alusuʼos 
+water: buwahi7	buwahiʼ 
+1 pl. inc.: kami7	kamiʼ 
+we: kami7	kamiʼ 
+we₁: kami7	kamiʼ 
+what: ay 
+white: putiʼ +t+d1 
+whiteness: putiʼ +t+d1 
+who: say 
+who?: say 
+female: danda 
+woman: danda 
+yellow: dulaw +d1 
+distant: lantong	tabog1 
+far: lantong	tabog1 
+dull: buwat 
+heavy: buwat 
+serious: buwat 
+close: apiki	tapit	unay2 
+near: apiki	tapit	unay2 
+ner: apiki	tapit	unay2 
+salt: asiya 
+short: pundok 
+snake: sawa +d1 
+thin: husok 
+wind: bariyo 
+earthworm: ulot 
+worm: ulot 
+year: anyo 

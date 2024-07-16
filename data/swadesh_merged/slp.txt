@@ -1,0 +1,266 @@
+all: wakaŋkaé 
+every: wakaŋkaé 
+ash: kawuk 
+ashes: kawuk 
+abdomen: alén 
+belly: alén 
+big: bélé 
+bigness: bélé 
+large: bélé 
+bird: kolon 
+bite: giké 
+black: mitén 
+blood: mei	méi 
+bone: riuŋ	ruiN 
+breast: tuhon 
+breasts: tuhon 
+burn: tuno 
+burn tr.: tuno 
+cloud: kowa 
+cold: geleté 
+come: sega 
+come from: sega 
+be dead: mata 
+dead: mata 
+die: mata 
+dog: aho 
+drink: nenum	nénum 
+dry: mara 
+ear: tilun 
+eat: gan 
+egg: teluk 
+eye: matan 
+feather: rawuk 
+fire: ape 
+fish: ikan 
+fly: beka 
+fly v.: beka 
+good: maé 
+green: menuran 
+hair: ratan 
+hand: liman 
+left hand: liman 
+right: liman 
+head: kotén 
+hear: bain 
+1 sg.: go7e	goʔé 
+I: go7e	goʔé 
+kill: sebelé 
+be knowledgeable: noi 
+know: noi 
+leaf: lepan 
+lie: lédan 
+lie down: lédan 
+liver: aten	atén 
+long: belaha 
+head louse: kuto 
+louse: kuto 
+male: belakin	bəlakĩ 
+man: ata 
+moon: wulan 
+mouth: wewan 
+name: naran	narã 
+title: naran	narã 
+neck: wulin 
+new: wu7un	wuʔun 
+night: nokon 
+nighttime: nokon 
+nose: irun 
+adulterous: to7u	toʔu	to’u 
+one: to7u	toʔu	to’u 
+single: to7u	toʔu	to’u 
+that: péʔén 
+the: to7u	toʔu	to’u 
+unprincipled: to7u	toʔu	to’u 
+human: ata 
+human being: ata 
+person: ata 
+rain: uran 
+rainy weather: uran 
+red: méʔa 
+path: laran 
+road: laran 
+route: laran 
+root: amut 
+sand: wera 
+say: marin 
+see: tede	tedé 
+sit: tobo 
+hide: kamak	kulin 
+skin: kamak	kulin 
+sleep: turu 
+little: keni 
+small: keni 
+smallness: keni 
+smoke: nuhun 
+star: petala 
+rock: wato 
+stone: wato 
+swim: naŋé 
+tail: ikun 
+this: piʔin 
+2 sg: mio 
+thou: mio 
+you: mio 
+tongue: wewen	wéwén 
+tooth: ipen	ipén 
+tree: kajo 
+grind: rua	tua 
+two: rua	tua 
+go: pana 
+walk: pana 
+hot: pelaté 
+warm: pelaté 
+water: wai 
+1 pl. inc.: kame	kamé	tite	tité 
+we: kame	kamé	tite	tité 
+we₁: kame	kamé	tite	tité 
+white: buran 
+whiteness: buran 
+who: hégé 
+who?: hégé 
+female: berwain	bərwãĩ 
+woman: berwain	bərwãĩ 
+yellow: mwarau 
+distant: doan 
+far: doan 
+dull: baʔat 
+heavy: baʔat 
+serious: baʔat 
+close: dahé 
+near: dahé 
+ner: dahé 
+salt: siʔa 
+short: keru 
+snake: ulaʔ 
+thin: te|nipi|n 
+wind: aŋin 
+earthworm: kebéŋé 
+worm: kebéŋé 
+year: sun 
+2 pl.: mio wakaŋkaé 
+ye: mio wakaŋkaé 
+you all: mio wakaŋkaé 
+3 pl.: raʔé 
+they: raʔé 
+where: tega 
+where?: tega 
+when: nuan gaʔén 
+when?: nuan gaʔén 
+how: neŋga 
+how?: neŋga 
+other: géhan 
+three: telo	təlu 
+four: pat 
+five: lema	léma 
+broad: belapar 
+wide: belapar 
+wideness: belapar 
+fat: woran 
+thick: baté 
+narrow: sepit 
+principal wife: kewaé 
+wife: kewaé 
+husband: laké 
+his mother: ema 
+mother: ema 
+my mother: ema 
+father: bapa 
+his father: bapa 
+my father: bapa 
+forest: penét 
+woods: penét 
+branch: waŋén 
+stick: waŋén 
+fruit: wuan 
+flower: puhun 
+grass: luʼo 
+cord: talé 
+rope: talé 
+flesh: metan 
+meat: metan 
+grease: woran 
+wing: kepin 
+gut: tain kebotin 
+guts: tain kebotin 
+insides: tain kebotin 
+intestine: tain kebotin 
+intestines: tain kebotin 
+back: kolan 
+suck: isék 
+spit: perino 
+vomit: mutaʔ 
+blow: buʔ 
+breath: harin[nain] 
+breathe: harin[nain] 
+laugh: géka 
+laughter: géka 
+cogitate: pétén 
+reflect: pétén 
+think: pétén 
+smell: sion 
+sniff: sion 
+afraid: soʔot 
+be afraid: soʔot 
+fear: soʔot 
+fright: soʔot 
+alive: morit 
+be alive: morit 
+life: morit 
+live: morit 
+living: morit 
+hunt: héwan 
+beat: berin 
+hit: berin 
+strike: berin 
+cut: bélo 
+hack: bélo 
+cut open: wikak 
+split: wikak 
+pierce: tubak 
+stab: tubak 
+scratch: gaʼu 
+dig: gelin 
+stand: déʔi 
+drop: desaʔ 
+fall: desaʔ 
+grasp: péhén 
+hold: péhén 
+hold in arm: péhén 
+squeeze: piʔuk 
+wring: piʔuk 
+throw: gébaʔ 
+bind: puin	pũĩ 
+fasten: puin	pũĩ 
+tie: puin	pũĩ 
+tie up: puin	pũĩ 
+sew: hawu 
+count: gasik 
+enumerate: gasik 
+number: gasik 
+tally: gasik 
+flow: baʔ 
+lake: tasik 
+ocean: tahik 
+sea: tahik 
+dust: awo 
+fog: beruhun 
+sky: kelén 
+bad: date 
+evil: date 
+rot: dewan 
+rotten: dewan 
+dirty: milan 
+filthy: milan 
+soiled: milan 
+sharp: dekét 
+blunt: dat 
+damp: kedemu 
+wet: kedemu 
+right side: wanan 
+left: nékin 
+at: ta 
+in: ta oné 
+inside: ta oné 
+and: noʔon 
+if: kalu 

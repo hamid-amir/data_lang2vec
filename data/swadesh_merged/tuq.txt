@@ -1,0 +1,572 @@
+all: gənná | gənná 
+and: burso | ni … ni	ye	ye … ye 
+and: ni | ni … ni	ye	ye … ye 
+and: ni...ni | ni … ni	ye	ye … ye 
+and: ye | ni … ni	ye	ye … ye 
+and: ye...ye | ni … ni	ye	ye … ye 
+animal: káːkui | káːkui	ora 
+animal: ora | káːkui	ora 
+arm: kɛ 
+arm: ǯezo 
+ashes: ńneši | ńneši 
+back: kusér | kusér 
+bad: zuntú | zuntú 
+bark: afén | afén	héno 
+bark: héno | afén	héno 
+because: du 
+belly: kéši | kéši 
+big: bu 
+bird: čafori | kebri	čafori	čɔuri 
+bird: čɔuri | kebri	čafori	čɔuri 
+bird: kebri | kebri	čafori	čɔuri 
+bite: tei do ta 
+black: yásku | yásku	yɛ́sku 
+black: yɛ́sku | yásku	yɛ́sku 
+blood: gerɛ | gerE	gerɛ 
+blow: φu | ɸu 
+bone: súrki | surki	suru	súrki	súru 
+bone: súru | surki	suru	súrki	súru 
+branch: targazí | targazí	tərkəži 
+branch: tərkəži | targazí	tərkəži 
+breast: túgum(o) | kunji	tugum	túgum	túgumo 
+breathe: inši ter | inši ter 
+brother: dinbiri 
+child: ágga | odolu	yal	ágga	átai 
+child: átai | odolu	yal	ágga	átai 
+child: odolu | odolu	yal	ágga	átai 
+child: yal | odolu	yal	ágga	átai 
+chin: lehu 
+claw: turkáno | turkáno | turkón	turkõ	turkɔmé 
+cloud: bógu | bógu	kidi	kiri	kúti 
+cloud: kidi | bógu	kidi	kiri	kúti 
+cloud: kiri | bógu	kidi	kiri	kúti 
+cloud: kúti | bógu	kidi	kiri	kúti 
+cold: kiride | kiride	wɔu 
+cold: wɔu | kiride	wɔu 
+come: ɛ̀r | Er	ir	ɛ̀r 
+come: ir | Er	ir	ɛ̀r 
+correct: lau 
+count: bídɛn | bídɛn	hédiŋke 
+count: hédiŋke | bídɛn	hédiŋke 
+cut: yap 
+cut: yop 
+dark: yéskide 
+day: be(ne) 
+day: biː 
+day: dəski 
+day: yom 
+day: zɛː 
+die: nas | nas	nos	nus 
+die: nos | nas	nos	nus 
+die: nus | nas	nos	nus 
+dig: la | la	let	lo 
+dig: let | la	let	lo 
+dig: lo | la	let	lo 
+dirty: súsudeː | súsudeː	zódo	ǯɛné 
+dirty: zódo | súsudeː	zódo	ǯɛné 
+dirty: ǯɛné | súsudeː	zódo	ǯɛné 
+dog: kédi | kedi	kédi 
+drink: ya 
+dry: čɔrdu | nǯorde	čɔrdu 
+dry: nǯorde | nǯorde	čɔrdu 
+ear: si(ː) | Si	Sima	si	siː	sumo 
+ear: sumo | Si	Sima	si	siː	sumo 
+earth: besaːφo 
+earth: taφú 
+egg: kuli | kuli	ngúbelo	šili 
+egg: ngúbelo | kuli	ngúbelo	šili 
+egg: šili | kuli	ngúbelo	šili 
+eye: sa | sa	sao	somo	sómo 
+eye: sao | sa	sao	somo	sómo 
+eye: sómo | sa	sao	somo	sómo 
+fall: kɔr 
+far: dogú | dogú	doko 
+far: doko | dogú	doko 
+father: ábba | zebeː	zei	zeː	zuméi	ábba 
+father: zeː | zebeː	zei	zeː	zuméi	ábba 
+father: zebeː | zebeː	zei	zeː	zuméi	ábba 
+father: zei | zebeː	zei	zeː	zuméi	ábba 
+father: zuméi | zebeː	zei	zeː	zuméi	ábba 
+fear: náuši 
+fear: náuso 
+fear: noːši 
+feather: difiní | difiní	ehori	ɛfirí 
+feather: ɛfirí | difiní	ehori	ɛfirí 
+feather: ehori | difiní	ehori	ɛfirí 
+few: kono | kono	minti	mintɛ 
+few: mintɛ | kono	minti	mintɛ 
+few: minti | kono	minti	mintɛ 
+fight: goːi | goːi	gua 
+fight: gua | goːi	gua 
+finger: aːbei 
+finger: awɛ́ 
+finger: ebe 
+fingernail: turko͂ | turkón	turkõ	turkɔmé 
+fingernail: turkɔmé | turkón	turkõ	turkɔmé 
+fingernail: turkón | turkón	turkõ	turkɔmé 
+fire: wíni | wini	wueni	wuni	wuní	wíni	wúeni 
+fire: wúeni | wini	wueni	wuni	wuní	wíni	wúeni 
+fire: wuní | wini	wueni	wuni	wuní	wíni	wúeni 
+fish: bɔsú | bosu	bɔsú	fosu 
+five: φo | fā	ɸo 
+flower: boː | boː	ɸohori 
+flower: φohori | boː	ɸohori 
+flow: yak 
+fly (n.): sidèno 
+fly (n.): sosun 
+fly (n.): súdun 
+fly (v.): bur 
+fly (v.): hər 
+fly (v.): lele 
+fog: gúntu | gúntu 
+foot: dege | dege	sa	tulu	šiː 
+foot: sa | dege	sa	tulu	šiː 
+foot: šiː | dege	sa	tulu	šiː 
+foot: tulu | dege	sa	tulu	šiː 
+forest: óleni | óleni 
+four: tozo | tozo	tozō 
+fruit: nugóu | nugóu 
+full: čumpode | cumpode	tigumbide	tigumfede	tigumɸedeː	tígúmbideː	čumpode 
+full: tígúmbideː | cumpode	tigumbide	tigumfede	tigumɸedeː	tígúmbideː	čumpode 
+full: tigumφedeː | cumpode	tigumbide	tigumfede	tigumɸedeː	tígúmbideː	čumpode 
+give: yɛn 
+good: čosso | gale	gáli	laha	tiri	čosso 
+good: gale | gale	gáli	laha	tiri	čosso 
+good: gáli | gale	gáli	laha	tiri	čosso 
+good: laha | gale	gáli	laha	tiri	čosso 
+good: tiri | gale	gáli	laha	tiri	čosso 
+grass: braǯi | braǯi	le	li	ílli 
+grass: ílli | braǯi	le	li	ílli 
+grass: le | braǯi	le	li	ílli 
+grass: li | braǯi	le	li	ílli 
+green: zedé | zedo	zedé	ziːtu 
+green: zedo | zedo	zedé	ziːtu 
+green: ziːtu | zedo	zedé	ziːtu 
+guts: kešege | kešege 
+hair: diφiní | diɸiní	tonoso 
+hair: tonoso | diɸiní	tonoso 
+hand: kɛ | kE	kobei	kóbei	kɛ 
+hand: kóbei | kE	kobei	kóbei	kɛ 
+head: dahu | dahu	daú 
+head: daú | dahu	daú 
+hear: bas 
+heart: agór | agór	awar	awɔ́r 
+heart: awar | agór	awar	awɔ́r 
+heart: awɔ́r | agór	awar	awɔ́r 
+heavy: jɔːdɛː | jɔːdɛː	tékkede	yigedi 
+heavy: tékkede | jɔːdɛː	tékkede	yigedi 
+heavy: yigedi | jɔːdɛː	tékkede	yigedi 
+he/she: hən 
+he/she: m(v)re 
+he/she: nsən 
+he/she: sən 
+he/she: səŋgá˗ga 
+he/she: (ta)mure 
+he/she: ˗(w)umma 
+hit: bap 
+hole: búrru 
+hole: gibi 
+hole: kubo 
+hole: lúːli 
+horn: yai | yai	yayi	yayí 
+horn: yayí | yai	yayi	yayí 
+house: boː 
+house: yɛː 
+house: yeɔ 
+how: negai | negai	negəndú	nígedi 
+how: negəndú | negai	negəndú	nígedi 
+how: nígedi | negai	negəndú	nígedi 
+hunt: eùs | eùs	ganis 
+hunt: ganis | eùs	ganis 
+husband: amrri | amrri	omri 
+husband: omri | amrri	omri 
+I: ˗nər | tani	taní	tarE	tɔbre 
+I: taŋgá˗ga | tani	taní	tarE	tɔbre 
+I: taní | tani	taní	tarE	tɔbre 
+I: tɔbre | tani	taní	tarE	tɔbre 
+kill: yit 
+knee: tei | tei	ti	tiː	toya	toyá 
+knee: tiː | tei	ti	tiː	toya	toyá 
+knee: toyá | tei	ti	tiː	toya	toyá 
+know: he | he	mun	nànà 
+know: mun | he	mun	nànà 
+know: nànà | he	mun	nànà 
+lake: billí | billí	ɸódi 
+lake: φódi | billí	ɸódi 
+laugh: gas | gas	kas	kazz 
+laugh: kas | gas	kas	kazz 
+laugh: kazz | gas	kas	kazz 
+leaf: kolú | koli	kolú	ogur	si	siː	ógur 
+leaf: ógur | koli	kolú	ogur	si	siː	ógur 
+leaf: siː | koli	kolú	ogur	si	siː	ógur 
+left: ánegi | aŋki	ánegi 
+left: aŋki | aŋki	ánegi 
+leg: degé | degé	sai	šiɫ goro	šiː 
+leg: sai | degé	sai	šiɫ goro	šiː 
+leg: šiː | degé	sai	šiɫ goro	šiː 
+leg: šiɫ goro | degé	sai	šiɫ goro	šiː 
+lip: kauhedu 
+lip: kohudu 
+live: dak 
+liver: mahan | mahan	maheno	máheno 
+liver: máheno | mahan	maheno	máheno 
+long: drússu | drússu 
+louse: maːsko | masko 
+man: amrí | amma	amo 
+man: anyi | amma	amo 
+many: búdu | búdu	múntu 
+many: múntu | búdu	múntu 
+meat: yaːni | yaːni	yiní	ɸarkai | yiní	yáːni 
+meat: yáːni | yaːni	yiní	ɸarkai | yiní	yáːni 
+meat: yiní | yaːni	yiní	ɸarkai | yiní	yáːni 
+meat: φarkai | yaːni	yiní	ɸarkai | yiní	yáːni 
+moon: auri | auri	ɔurí 
+moon: ɔurí | auri	ɔurí 
+mother: aya | aya	de 
+mother: de | aya	de 
+mountain: ɛíː | Ei	Ei drusso	biji	emi	ɛiː drússo	ɛíː 
+mountain: ɛiː drússo | Ei	Ei drusso	biji	emi	ɛiː drússo	ɛíː 
+mountain: emi | Ei	Ei drusso	biji	emi	ɛiː drússo	ɛíː 
+mountain: ǯúliː | Ei	Ei drusso	biji	emi	ɛiː drússo	ɛíː 
+mouth: či | kai	kiː	či 
+mouth: kai | kai	kiː	či 
+mouth: kiː | kai	kiː	či 
+name: ču | cu	kyuː	ky~u	suro	suru	súro	ču 
+name: kyuː | cu	kyuː	ky~u	suro	suru	súro	ču 
+name: súro | cu	kyuː	ky~u	suro	suru	súro	ču 
+name: suru | cu	kyuː	ky~u	suro	suru	súro	ču 
+narrow: sónno | sónno 
+near: durkunde | durkunde	edin 
+near: edin | durkunde	edin 
+neck: tai 
+new: ɛ́ski | Eski	ɛ́ski 
+night: dugusú | dugusu	dugusú 
+not: ša | ša	ši 
+not: ši | ša	ši 
+old: birgədí 
+old: bui 
+old: čozze 
+one: tron | tron	trōn	turon 
+other: kudi 
+person: amma | amma	amo 
+person: amo | amma	amo 
+play: áːbi | áːbi 
+pull: kás 
+push: tər 
+rain: níŋgeli | níŋgeli	yi 
+rain: yi | níŋgeli	yi 
+red: máːdema | maːdo	máːdema 
+red: maːdo | maːdo	máːdema 
+right: beriː | kE	kobei	kóbei	kɛ | beriː	bre	briː 
+right: bre | kE	kobei	kóbei	kɛ | beriː	bre	briː 
+right: briː | kE	kobei	kóbei	kɛ | beriː	bre	briː 
+river: éneri | suri	éneri	ɸódi 
+river: suri | suri	éneri	ɸódi 
+river: φódi | suri	éneri	ɸódi 
+road: doro | doro	torgo	zulon	zurul 
+road: torgo | doro	torgo	zulon	zurul 
+road: zulon | doro	torgo	zulon	zurul 
+road: zurul | doro	torgo	zulon	zurul 
+root: dyulu | dyulu	džúlu	súrgi 
+root: džúlu | dyulu	džúlu	súrgi 
+root: súrgi | dyulu	džúlu	súrgi 
+rotten: φuφuk | ɸuɸuk 
+round: kúlidɪː | kúlidɪː 
+salt: ɛ́rɛː | gilin	greni	gálin	kupča	manda	ɛ́rɛː 
+salt: gálin | gilin	greni	gálin	kupča	manda	ɛ́rɛː 
+salt: gilin | gilin	greni	gálin	kupča	manda	ɛ́rɛː 
+salt: greni | gilin	greni	gálin	kupča	manda	ɛ́rɛː 
+salt: kupča | gilin	greni	gálin	kupča	manda	ɛ́rɛː 
+salt: manda | gilin	greni	gálin	kupča	manda	ɛ́rɛː 
+sand: aːniší | aːniší	bəsaːɸúː	kurni	taɸú 
+sand: bəsaːφúː | aːniší	bəsaːɸúː	kurni	taɸú 
+sand: kurni | aːniší	bəsaːɸúː	kurni	taɸú 
+sand: taφú | aːniší	bəsaːɸúː	kurni	taɸú 
+say: n˗ | n-	ɸat | aːniší	bəsaːɸúː	kurni	taɸú 
+say: nuk | n-	ɸat | aːniší	bəsaːɸúː	kurni	taɸú 
+say: φat | n-	ɸat | aːniší	bəsaːɸúː	kurni	taɸú 
+scratch: gam | gam	kɔ́gɔ́ 
+scratch: kɔ́gɔ́ | gam	kɔ́gɔ́ 
+see: dit | dit	dot	dut 
+seed: košeniː | košeniː	mušɪ́ni 
+seed: mušɪ́ni | košeniː	mušɪ́ni 
+see: dot | dit	dot	dut 
+see: dut | dit	dot	dut 
+sew: sɔk 
+sharp: girbí | girbí	kɔr 
+sharp: kɔr | girbí	kɔr 
+short: kɔ́rɛ | kwere	kwɔ́rɛi	kɔ́rɛ 
+short: kwere | kwere	kwɔ́rɛi	kɔ́rɛ 
+short: kwɔ́rɛi | kwere	kwɔ́rɛi	kɔ́rɛ 
+shoulder: aːφəri 
+shoulder: ɛfiri 
+shoulder: eheri 
+shoulder: φoːlomče 
+sing: doːna go 
+sister: deːbóbu 
+sister: dədib 
+skin: aší | aSye	asi	ašye	aší 
+skin: ašye | aSye	asi	ašye	aší 
+sky: áskeno | sáiː	áskeno 
+sky: sáiː | sáiː	áskeno 
+sleep: nyák | nyák 
+small: addɛ́ | addɛ́	kono	kuere	ténei 
+small: kono | addɛ́	kono	kuere	ténei 
+small: kuere | addɛ́	kono	kuere	ténei 
+small: ténei | addɛ́	kono	kuere	ténei 
+smoke: əzzi | ze	əzzi 
+smoke: ze | ze	əzzi 
+smooth: awar | awar	ču 
+smooth: ču | awar	ču 
+snake: ausú | ausú	duro	goli	liddi 
+snake: duro | ausú	duro	goli	liddi 
+snake: goli | ausú	duro	goli	liddi 
+snake: liddi | ausú	duro	goli	liddi 
+sour: čačao 
+split: rɛ́ | rɛ́	ɸar	ɸarɸar 
+split: φar | rɛ́	ɸar	ɸarɸar 
+split: φarφar | rɛ́	ɸar	ɸarɸar 
+squeeze: gòs | gòs 
+stand: tus 
+star: tɛski | tEski	tɛski 
+stone: ɛi | Ei	Eyi	fadai	tigi	toto	tuge	tugéː	tígi	tótoː	yi	ɛi	ɛyɪ́	ɸadaǯ 
+stone: ɛyɪ́ | Ei	Eyi	fadai	tigi	toto	tuge	tugéː	tígi	tótoː	yi	ɛi	ɛyɪ́	ɸadaǯ 
+stone: tígi | Ei	Eyi	fadai	tigi	toto	tuge	tugéː	tígi	tótoː	yi	ɛi	ɛyɪ́	ɸadaǯ 
+stone: tótoː | Ei	Eyi	fadai	tigi	toto	tuge	tugéː	tígi	tótoː	yi	ɛi	ɛyɪ́	ɸadaǯ 
+stone: tugéː | Ei	Eyi	fadai	tigi	toto	tuge	tugéː	tígi	tótoː	yi	ɛi	ɛyɪ́	ɸadaǯ 
+stone: yi | Ei	Eyi	fadai	tigi	toto	tuge	tugéː	tígi	tótoː	yi	ɛi	ɛyɪ́	ɸadaǯ 
+stone: φadaǯ | Ei	Eyi	fadai	tigi	toto	tuge	tugéː	tígi	tótoː	yi	ɛi	ɛyɪ́	ɸadaǯ 
+straight: dili | dili	dúli 
+straight: dúli | dili	dúli 
+suck: nančú | nančú	yap 
+suck: yap | nančú	yap 
+sun: ize | eze	ize	wzzé	zE	zɛ 
+sun: wzzé | eze	ize	wzzé	zE	zɛ 
+sun: zɛ | eze	ize	wzzé	zE	zɛ 
+sweet: abibiu 
+sweet: asal 
+sweet: eyemφi 
+sweet: gorči 
+swell: φu 
+swim: iyi | iyi	ma	muk 
+swim: ma | iyi	ma	muk 
+swim: muk | iyi	ma	muk 
+tail: héːdi | héːdi	kampúdu	ɸidiː	ɸiré	ɸúdi	ɸúdu 
+tail: kampúdu | héːdi	kampúdu	ɸidiː	ɸiré	ɸúdi	ɸúdu 
+tail: φidiː | héːdi	kampúdu	ɸidiː	ɸiré	ɸúdi	ɸúdu 
+tail: φiré | héːdi	kampúdu	ɸidiː	ɸiré	ɸúdi	ɸúdu 
+tail: φúdi | héːdi	kampúdu	ɸidiː	ɸiré	ɸúdi	ɸúdu 
+tail: φúdu | héːdi	kampúdu	ɸidiː	ɸiré	ɸúdi	ɸúdu 
+take: gɔ́ 
+that: tara | teiye | tron	trōn	turon 
+that: teiye | tron	trōn	turon 
+they: hənto | mura	səgəntá 
+they: mura | mura	səgəntá 
+they: səgəntá | mura	səgəntá 
+they: səgəntá˗ga | mura	səgəntá 
+they: ˗suntu | mura	səgəntá 
+they: yintu | mura	səgəntá 
+think: n˗ | n- 
+thin: tenei 
+this: dɛ 
+this: sa | dɛ 
+thou: m(u)ra | 3nda	3nta	narE	nore	nta	nubre 
+thou: ˗nəm | 3nda	3nta	narE	nore	nta	nubre 
+thou: nəntá˗ga | 3nda	3nta	narE	nore	nta	nubre 
+thou: nore | 3nda	3nta	narE	nore	nta	nubre 
+thou: nta | 3nda	3nta	narE	nore	nta	nubre 
+thou: ntá ga | 3nda	3nta	narE	nore	nta	nubre 
+thou: ˗ntum(a) | 3nda	3nta	narE	nore	nta	nubre 
+thou: nubra | 3nda	3nta	narE	nore	nta	nubre 
+thou: nubre | 3nda	3nta	narE	nore	nta	nubre 
+three: agozo | agozo	ágozō 
+throw: biyɛt | biyɛt	koso	kùsù 
+throw: koso | biyɛt	koso	kùsù 
+throw: kùsù | biyɛt	koso	kùsù 
+tie: tù | tù 
+tongue: tərhi | t3rSe	t3rhi	tirmesu	tirméːsu	triSi	triší	tərhi	tərše 
+tongue: tərše | t3rSe	t3rhi	tirmesu	tirméːsu	triSi	triší	tərhi	tərše 
+tongue: tirméːsu | t3rSe	t3rhi	tirmesu	tirméːsu	triSi	triší	tərhi	tərše 
+tongue: triší | t3rSe	t3rhi	tirmesu	tirméːsu	triSi	triší	tərhi	tərše 
+tooth: teː | te	tei	teiː	teː	tomai 
+tooth: teiː | te	tei	teiː	teː	tomai 
+tooth: tomai | te	tei	teiː	teː	tomai 
+tree: akkɛ́ | EkE	akE	idi 
+tree: ɛkɛ́ | EkE	akE	idi 
+tree: idi | EkE	akE	idi 
+turn: kurkuru 
+two: ču | cu	ky~u	tšū	ču 
+vagina: čilla 
+vagina: tantaŋkɛ́ 
+walk: ta | ta	təgand 
+walk: təgand | ta	təgand 
+walk: tɛːt | ta	təgand 
+warm: kiddɛ́ | úneki 
+warm: tənty | úneki 
+warm: uneki | úneki 
+warm: úneki | úneki 
+warm: waltedɛ | úneki 
+warm: winige | úneki 
+wash: keːz | keːz	tul	ǯam 
+wash: tul | keːz	tul	ǯam 
+wash: ǯam | keːz	tul	ǯam 
+water: i | i	iyi	yi 
+water: iyi | i	iyi	yi 
+water: yi | i	iyi	yi 
+we (excl.): təntá 
+we (incl.): nənta 
+we: ˗ntər | nənta	t3nda	t3nta	tanta	tantai	tara 
+wet: ɛnnɪ́ | nébtu	ɛnnɪ́ 
+we: tənta˗ga | nənta	t3nda	t3nta	tanta	tantai	tara 
+wet: nébtu | nébtu	ɛnnɪ́ 
+we: tɔbra | nənta	t3nda	t3nta	tanta	tantai	tara 
+what: ín(d)i | índi	íni 
+when: kənna | kína	kənna	wókena 
+when: kína | kína	kənna	wókena 
+when: wókena | kína	kənna	wókena 
+where: koː | kondoː	koː	kundɔdú	kwɔ	nókondo 
+where: kondoː | kondoː	koː	kundɔdú	kwɔ	nókondo 
+where: kundɔdú | kondoː	koː	kundɔdú	kwɔ	nókondo 
+where: kwɔ | kondoː	koː	kundɔdú	kwɔ	nókondo 
+where: nókondo | kondoː	koː	kundɔdú	kwɔ	nókondo 
+white: čoː | kyu	čoː	čógo	čŭː 
+white: čógo | kyu	čoː	čógo	čŭː 
+white: čŭː | kyu	čoː	čógo	čŭː 
+white: kyu | kyu	čoː	čógo	čŭː 
+who: nya(i) | nya	nyai 
+wide: dogú | dogú	doko 
+wide: doko | dogú	doko 
+wife: aččé bui | adé-i	aččé bui 
+wife: adé˗i | adé-i	aččé bui 
+wind: árei | awono	awɔn	awən	obono	woːre	árei 
+wind: awən | awono	awɔn	awən	obono	woːre	árei 
+wind: awɔn | awono	awɔn	awən	obono	woːre	árei 
+wind: awono | awono	awɔn	awən	obono	woːre	árei 
+wind: obono | awono	awɔn	awən	obono	woːre	árei 
+wind: woːre | awono	awɔn	awən	obono	woːre	árei 
+wing: éheri | éheri	ɛɸɪrɪ́ 
+wing: ɛφɪrɪ́ | éheri	ɛɸɪrɪ́ 
+woman: adé | adé	ádibi 
+woman: ádibi | adé	ádibi 
+wood: kolai 
+wood: kórkje 
+worm: kármi | kármi	kúli 
+worm: kúli | kármi	kúli 
+year: ɛbeː | empiː	saga	ŋele	ŋgéle	ɛbeː 
+year: empiː | empiː	saga	ŋele	ŋgéle	ɛbeː 
+year: ŋele | empiː	saga	ŋele	ŋgéle	ɛbeː 
+year: ŋgéle | empiː	saga	ŋele	ŋgéle	ɛbeː 
+year: saga | empiː	saga	ŋele	ŋgéle	ɛbeː 
+yellow: li | li	mini kirnáːko	saɸra	ŋgéni 
+yellow: mini kirnáːko | li	mini kirnáːko	saɸra	ŋgéni 
+yellow: ŋgéni | li	mini kirnáːko	saɸra	ŋgéni 
+yellow: saφra | li	mini kirnáːko	saɸra	ŋgéni 
+every: gənná 
+ash: ńneši 
+abdomen: kéši 
+bigness: bu 
+large: bu 
+breasts: kunji	tugum	túgum	túgumo 
+nail: turkáno 
+talon: turkáno 
+come from: Er	ir	ɛ̀r 
+be dead: nas	nos	nus 
+dead: nas	nos	nus 
+fly: bur	hər	lele 
+fly v.: bur	hər	lele 
+left hand: kE	kobei	kóbei	kɛ 
+1 sg.: tani	taní	tarE	tɔbre 
+be knowledgeable: he	mun	nànà 
+head louse: masko 
+male: amrí	anyi 
+much: búdu	múntu 
+multiple: búdu	múntu 
+several: búdu	múntu 
+flesh: yaːni	yiní	ɸarkai 
+hill: Ei	Ei drusso	biji	emi	ɛiː drússo	ɛíː 
+title: cu	kyuː	ky~u	suro	suru	súro	ču 
+nighttime: dugusu	dugusú 
+nose: ca	kya	ky~a	ča 
+adulterous: tron	trōn	turon 
+single: tron	trōn	turon 
+the: tron	trōn	turon 
+unprincipled: tron	trōn	turon 
+human: amma	amo 
+human being: amma	amo 
+rainy weather: níŋgeli	yi 
+path: doro	torgo	zulon	zurul 
+route: doro	torgo	zulon	zurul 
+hide: aSye	asi	ašye	aší 
+little: addɛ́	kono	kuere	ténei 
+smallness: addɛ́	kono	kuere	ténei 
+rock: Ei	Eyi	fadai	tigi	toto	tuge	tugéː	tígi	tótoː	yi	ɛi	ɛyɪ́	ɸadaǯ 
+2 sg: 3nda	3nta	narE	nore	nta	nubre 
+you: 3nda	3nta	narE	nore	nta	nubre 
+grind: cu	ky~u	tšū	ču 
+go: ta	təgand 
+hot: úneki 
+1 pl. inc.: nənta	t3nda	t3nta	tanta	tantai	tara 
+we₁: nənta	t3nda	t3nta	tanta	tantai	tara 
+whiteness: kyu	čoː	čógo	čŭː 
+who?: nya	nyai 
+female: adé	ádibi 
+distant: dogú	doko 
+dull: jɔːdɛː	tékkede	yigedi 
+serious: jɔːdɛː	tékkede	yigedi 
+close: durkunde	edin 
+ner: durkunde	edin 
+earthworm: kármi	kúli 
+2 pl.: mra	mura	nubra 
+ye: mra	mura	nubra 
+you all: mra	mura	nubra 
+3 pl.: mura	səgəntá 
+where?: kondoː	koː	kundɔdú	kwɔ	nókondo 
+when?: kína	kənna	wókena 
+how?: negai	negəndú	nígedi 
+broad: dogú	doko 
+wideness: dogú	doko 
+principal wife: adé-i	aččé bui 
+his mother: aya	de 
+my mother: aya	de 
+his father: zebeː	zei	zeː	zuméi	ábba 
+my father: zebeː	zei	zeː	zuméi	ábba 
+woods: óleni 
+stick: targazí	tərkəži 
+gut: kešege 
+insides: kešege 
+intestine: kešege 
+intestines: kešege 
+breath: inši ter 
+laughter: gas	kas	kazz 
+cogitate: n- 
+reflect: n- 
+smell: bas	šimi 
+sniff: bas	šimi 
+alive: dak 
+be alive: dak 
+life: dak 
+living: dak 
+beat: bap 
+strike: bap 
+cut open: rɛ́	ɸar	ɸarɸar 
+pierce: yap	yop 
+stab: yap	yop 
+drop: kɔr 
+wring: gòs 
+wash clothes: keːz	tul	ǯam 
+bind: tù 
+fasten: tù 
+tie up: tù 
+enumerate: bídɛn	hédiŋke 
+number: bídɛn	hédiŋke 
+tally: bídɛn	hédiŋke 
+have fun: áːbi 
+brook: suri	éneri	ɸódi 
+stream: suri	éneri	ɸódi 
+evil: zuntú 
+rot: ɸuɸuk 
+filthy: súsudeː	zódo	ǯɛné 
+soiled: súsudeː	zódo	ǯɛné 
+blunt: wokirši	ɑ́isoː 
+damp: nébtu	ɛnnɪ́ 
+right side: beriː	bre	briː 

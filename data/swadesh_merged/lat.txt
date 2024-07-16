@@ -1,0 +1,336 @@
+all: omnis | omnis	omnēs	quisque	totus	tōtus 
+and: et | -que	ac	atque	et 
+animal: animal | animal	bestia	ferus 
+ashes: cinis | cineres	cinis	favilla 
+at: ad | ad	in 
+back: tergum | dorsum	tergum 
+bad: malus 
+bark: cortex 
+because: quia | quia	quod	quoniam 
+belly: venter | abdōmen	venter 
+big: magnus | grandis	magnus 
+bird: avis | aucellus	avicellus	avis 
+bite: mordere | mordere	mordēre 
+black: niger | ater	fuscus	niger	āter 
+blood: sanguis | cruor	saNgw~is	sanguis 
+blow: aspirare | flare	flāre	sufflāre 
+bone: os 
+breast: mamma | mama	mamilla	mamma	pectus	pektus	sinus 
+breathe: halare | anima	respīrāre	spirare	spīritus	spīrāre 
+burn: flagrare | ardere	ardēre	cremāre	flagrāre	ārdēre 
+cloud: nebula | nimbus	nubes	nūbila	nūbēs 
+cold: frigidus | frigidus	frīgidus	gelidus 
+come: venire | venire	venīre	wenire 
+count: numerare | computāre	numerare	numerāre 
+cut: secare | caedere	curtāre	secare	secāre	taliāre 
+day: dies | dies	diurnum	diēs	dīes 
+die: mori | mori	morior	mors	mortuus	morī	nex 
+dig: fodere | cavāre	fodere 
+dog: canis | canis	kanis 
+drink: bibere 
+dry: aridus | siccus	āridus 
+dust: pulvis 
+ear: auris | auricula	auris 
+earth: terra | humus	tellūs	terra 
+eat: edere | comedere	edere	esse	mandūcāre 
+egg: ovum | ovum	ōvum 
+eye: oculus | oculus	okulus 
+fall: cadere 
+far: longinquus | distāns	laxius	longinquus	longitanus	longē	procul 
+father: pater | pater	tata 
+fear: timere | metus	pavor	terror	timere	timor	timēre 
+feather: penna | penna	plūma 
+fight: pugnere | luctor	proeliārī	pugnare	pugnāre 
+fingernail: unguis | unguis	ungula 
+fire: ignis | focus	iNnis	ignis 
+fish: piscis | piscis	piskis 
+five: quinque | quinque	quīnque 
+flower: flos | flos	flōs 
+flow: fluere | currere	fluere 
+fly (v.): volare 
+foot: pes | pedīculus	pes	pēs 
+forest: silva | boscus	foresta	silva 
+four: quattuor 
+freeze: gelare | gelare	gelāre	glaciāre 
+fruit: fructum | fructus	frūx	mālum	pōmum 
+full: plenus | plenus	plēnus 
+give: dare | dare	dōnāre 
+good: bonus 
+grass: gramen | grāmen	herba 
+green: viridis 
+hair: capillum | capillus	coma	crinis	crīnis	pilus 
+hand: manus 
+head: caput 
+hear: audire | audire	audīre	intendere 
+heart: cor 
+heavy: gravis 
+he: is | ea	ille	is 
+hold: tenere | tenere	tenēre 
+horn: cornu | cornu	cornū	kornu 
+how: quo modo | quam	quomodo	quārē	quōmodo	quōmodō 
+hunt: venari | sectārī	venari	vēnārī 
+husband: maritus | coniux	maritus	marītus	vir 
+ice: glacies | gelū	glacies	glaciēs	sclacies 
+I: ego 
+if: si | si	sī 
+in: in | in	intrā 
+kill: necare | captāre	interficere	necare	necāre	occidere	occīdere	vēnor 
+knee: genu | geniculum	genu	genū 
+know: scire | cognōscere	nōscere	sapere	scire	scīre 
+lake: lacus 
+laugh: ridere | ridere	rīdēre 
+leaf: folium | folium	foly~u* 
+left: sinister | laevus	scaevus	sinister 
+leg: crus | crus	crūs	perna 
+lie: cubare | cubāre	iacēre | iacere	iacēre	mendācium 
+liver: iecur | ficatum	fīcātum	iecur	yekur 
+live: vivere | vivere	vīta	vīvere	vīvus 
+long: longus 
+louse: pedis | pediculus	pedikulus	pedis	pedīculus	pēdis	pēdīculus 
+man: vir | homo	homō	hūmānum	persona 
+many: multi | multi	multus	multī 
+meat: caro | carō | caro	carō 
+moon: luna | luna	lūna 
+mother: mater | mamma	mater	māter 
+mountain: mons | clīvus	collis	mons	mōns 
+mouth: os | os	ōs 
+name: nomen | nomen	nōmen 
+narrow: angustus | angustus	strictus 
+near: propinquus | iuxtā	juxtā	prope	propinquus 
+neck: cervix | cervix	cervīx	collum	nucha 
+new: novus | novus	nowus 
+night: nox | noks	nox	nōx 
+nose: nasus | nasus	nāris	nāsus 
+not: non | non	nōn 
+old: vetus | vetulus	vetus 
+one: unus | unus	ūna	ūnus 
+other: alter | alius	alter	altera 
+person: homo | homo	homō	hūmānum	persona 
+play: ludere | iocor	ludere	lūdere 
+pull: trahere 
+push: pellere | impellere	impingere	impulsāre	pellere	pulsāre	trūdere	urgere 
+rain: pluvium | imber	pluvia 
+red: ruber | ruber	russus	rūfus	vermiculus 
+right: dexter | manus | dexter	directus 
+river: flumen | amnis	fluvius	flūmen	rivus	rīvus 
+road: via | strāta	via	viya 
+root: radix | radix	rādīx 
+rope: funis | chorda	funis	fūnis	restis 
+round: rotundus 
+salt: sal | sal	sāl 
+sand: arena | arena	arēna	sabulō 
+say: dicere | dicere	dīcere | arena	arēna	sabulō 
+scratch: eradere | radere	rasicāre	rādere	scabere	scalpere 
+sea: mare | aequor	mare 
+seed: semen | semen	sēmen 
+see: videre | videre	vidēre	widere 
+sew: suere | cōnsuere	serere	suere 
+sharp: acer | acer	acūtus	affiliatus	ācer 
+short: brevis | brevis	curtus 
+sing: cantare | canere	cantāre 
+sit: sidere | sedere	sedēre 
+skin: pellis | corium	cutis	kutis	pellis 
+sky: caelum 
+sleep: dormire | dormire	dormīre	somnus 
+small: parvus 
+smoke: fumus | fumus	fūmus 
+smooth: lenis | levis	lēvis 
+snake: anguis | anguis	colubra	colūbra	serpens	serpēns 
+snow: nix 
+some: aliquis | aliqui	aliquot	aliquī	paulum 
+split: scindere | dividere	findere	partior	partiri	scindere 
+squeeze: premere | comprimere	exprimere	premere	stringere 
+stand: stare | stare	stāre 
+star: stella | astrum	stela	stella	stēlla 
+stone: lapis | lapis	petra	saxum 
+sun: sol | sol	sōl 
+swell: tumere | inflare	tumere	īnflāre 
+swim: natare | natare	natāre	nāre 
+tail: cauda 
+that: ille | hic	ille	is	iste | unus	ūna	ūnus 
+there: ibi | ibi	ibī	illic 
+think: cogitare | cōgitāre	putare	putāre	pēnsāre 
+this: hoc | hic	is	ista	iste 
+thou: tu | tu	tū 
+three: tres | tres	trēs 
+throw: iacere | iacere	iactare	iactāre	lanceāre 
+tongue: lingua | liNgw~E	lingua 
+tooth: dens | dens	dēns 
+tree: arbor 
+turn: vertere | gȳrāre	tornāre	torquēre	vertere 
+two: duo | duae	duo 
+vomit: vomitare | vomere	vomitāre 
+walk: ambulare | ambulare	ambulāre	gradi	gradior	gradī	vādere 
+warm: tepidus | caldus	calidus 
+wash: lavare | lavare	lavāre 
+water: aqua | akw~a	aqua 
+we: nos | nos	nōs 
+what: quid | qui	quid	quis 
+when: quando | quando	quandō 
+where: ubi | ubi	unde 
+white: albus | albus	blancus	candidus 
+who: quis 
+wide: latus | amplus	largus	latus	lātus 
+wife: uxor | coniux	marīta	mulier	uxor 
+wind: ventus 
+with: cum | apud	cum 
+woman: femina | femina	fēmina	mulier 
+worm: vermis 
+year: annus 
+yellow: flavus | flavus	flāvus	galbinus	helvus 
+you: vos | tu	tū | vos	vōs 
+every: omnis	omnēs	quisque	totus	tōtus 
+ash: cineres	cinis	favilla 
+abdomen: abdōmen	venter 
+bigness: grandis	magnus 
+large: grandis	magnus 
+breasts: mama	mamilla	mamma	pectus	pektus	sinus 
+claw: unguis 
+nail: unguis 
+talon: unguis 
+come from: venire	venīre	wenire 
+be dead: mori	morior	mors	mortuus	morī	nex 
+dead: mori	morior	mors	mortuus	morī	nex 
+ground: humus	tellūs	terra 
+land: humus	tellūs	terra 
+soil: humus	tellūs	terra 
+fly: exvolāre	volare	volāre 
+fly v.: exvolāre	volare	volāre 
+left hand: manus 
+1 sg.: ego 
+be knowledgeable: cognōscere	nōscere	sapere	scire	scīre 
+lie down: cubāre	iacēre 
+head louse: pediculus	pedikulus	pedis	pedīculus	pēdis	pēdīculus 
+male: homō	vir 
+much: multi	multus	multī 
+multiple: multi	multus	multī 
+several: multi	multus	multī 
+flesh: carō 
+hill: clīvus	collis	mons	mōns 
+title: nomen	nōmen 
+nighttime: noks	nox	nōx 
+adulterous: unus	ūna	ūnus 
+single: unus	ūna	ūnus 
+the: unus	ūna	ūnus 
+unprincipled: unus	ūna	ūnus 
+human: homo	homō	hūmānum	persona 
+human being: homo	homō	hūmānum	persona 
+rainy weather: imber	pluvia 
+path: strāta	via	viya 
+route: strāta	via	viya 
+hide: corium	cutis	kutis	pellis 
+little: parvus 
+smallness: parvus 
+rock: lapis	petra	saxum 
+2 sg: tu	tū 
+grind: duae	duo 
+go: ambulare	ambulāre	gradi	gradior	gradī	vādere 
+hot: caldus	calidus 
+1 pl. inc.: nos	nōs 
+we₁: nos	nōs 
+whiteness: albus	blancus	candidus 
+who?: quis 
+female: femina	fēmina	mulier 
+distant: distāns	laxius	longinquus	longitanus	longē	procul 
+dull: gravis 
+serious: gravis 
+close: iuxtā	juxtā	prope	propinquus 
+ner: iuxtā	juxtā	prope	propinquus 
+thin: macer	subtīlis	tenuis 
+earthworm: vermis 
+3 sg.: ea	ille	is 
+she: ea	ille	is 
+2 pl.: vos	vōs 
+ye: vos	vōs 
+you all: vos	vōs 
+3 pl.: ea	eae	ei	ii	illa	illae	illī	iī 
+they: ea	eae	ei	ii	illa	illae	illī	iī 
+here: hic	hīc 
+where?: ubi	unde 
+when?: quando	quandō 
+how?: quam	quomodo	quārē	quōmodo	quōmodō 
+few: parvus	pauci	paucus	paucē 
+broad: amplus	largus	latus	lātus 
+wideness: amplus	largus	latus	lātus 
+fat: adeps	crassus	grassus	pingue 
+thick: crassus	creber	crēber	grossus	spissus 
+child: puer	puerī	īnfāns 
+principal wife: coniux	marīta	mulier	uxor 
+his mother: mamma	mater	māter 
+my mother: mamma	mater	māter 
+his father: pater	tata 
+my father: pater	tata 
+woods: boscus	foresta	silva 
+branch: baculum	fustis	rāmus 
+stick: baculum	fustis	rāmus 
+cord: chorda	funis	fūnis	restis 
+grease: adeps	crassus	grassus	pingue 
+arm: manus 
+wing: ala	penna	āla 
+gut: chorda	intestina	intestīna	intestīnum	viscera 
+guts: chorda	intestina	intestīna	intestīnum	viscera 
+insides: chorda	intestina	intestīna	intestīnum	viscera 
+intestine: chorda	intestina	intestīna	intestīnum	viscera 
+intestines: chorda	intestina	intestīna	intestīnum	viscera 
+suck: fēlāre	sugere	sūgere 
+spit: conspuere	exconspuere	spuere	sputare	spūtāre 
+breath: anima	respīrāre	spirare	spīritus	spīrāre 
+laughter: ridere	rīdēre 
+cogitate: cōgitāre	putare	putāre	pēnsāre 
+reflect: cōgitāre	putare	putāre	pēnsāre 
+smell: fragrāre	olere	olēre	sentīre 
+sniff: fragrāre	olere	olēre	sentīre 
+afraid: metus	pavor	terror	timere	timor	timēre 
+be afraid: metus	pavor	terror	timere	timor	timēre 
+fright: metus	pavor	terror	timere	timor	timēre 
+alive: vivere	vīta	vīvere	vīvus 
+be alive: vivere	vīta	vīvere	vīvus 
+life: vivere	vīta	vīvere	vīvus 
+living: vivere	vīta	vīvere	vīvus 
+beat: battuere	ferīre	pellere	percutere	pulsare 
+hit: battuere	ferīre	pellere	percutere	pulsare 
+strike: battuere	ferīre	pellere	percutere	pulsare 
+hack: caedere	curtāre	secare	secāre	taliāre 
+cut open: dividere	findere	partior	partiri	scindere 
+pierce: confodere	perforare	pungere	traicere 
+stab: confodere	perforare	pungere	traicere 
+tell lies: iacere	iacēre	mendācium 
+turn around: gȳrāre	tornāre	torquēre	vertere 
+turn round: gȳrāre	tornāre	torquēre	vertere 
+drop: cadere 
+grasp: tenere	tenēre 
+hold in arm: tenere	tenēre 
+wring: comprimere	exprimere	premere	stringere 
+rub: fricare	fricāre	terere 
+wipe: exsucāre	extergēre	tergere	tergēre 
+wash clothes: lavare	lavāre 
+shove: impellere	impingere	impulsāre	pellere	pulsāre	trūdere	urgere 
+bind: aptāre	ligare	ligāre	nectere	stringere	vincīre 
+fasten: aptāre	ligare	ligāre	nectere	stringere	vincīre 
+tie: aptāre	ligare	ligāre	nectere	stringere	vincīre 
+tie up: aptāre	ligare	ligāre	nectere	stringere	vincīre 
+enumerate: computāre	numerare	numerāre 
+number: computāre	numerare	numerāre 
+tally: computāre	numerare	numerāre 
+have fun: iocor	ludere	lūdere 
+float: fluctuare	fluitāre	natāre	nāre 
+brook: amnis	fluvius	flūmen	rivus	rīvus 
+stream: amnis	fluvius	flūmen	rivus	rīvus 
+ocean: aequor	mare 
+fog: caligo	cālīgō	nebula 
+blaze: ardere	ardēre	cremāre	flagrāre	ārdēre 
+daylight: dies	diurnum	diēs	dīes 
+daytime: dies	diurnum	diēs	dīes 
+evil: malus 
+rot: puter	putridus 
+rotten: puter	putridus 
+dirty: sordidus	squālidus 
+filthy: sordidus	squālidus 
+soiled: sordidus	squālidus 
+straight: dīrēctus	rectus	rēctus 
+blunt: brutus	hebes	obtūsus 
+damp: madidus	umidus	ūdus	ūmidus	ūvidus 
+wet: madidus	umidus	ūdus	ūmidus	ūvidus 
+correct: correctus	iūstus	rectus	rēctus 
+right side: dexter	directus 
+inside: in	intrā 

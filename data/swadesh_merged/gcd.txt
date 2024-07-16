@@ -1,0 +1,265 @@
+all: ŋuːrba 
+every: ŋuːrba 
+ash: ɟulguwa 
+ashes: ɟulguwa 
+bark: gaḷuwa 
+abdomen: baɹ̣aga	baḍaga 
+belly: baɹ̣aga	baḍaga 
+big: baldaŋu	baɹ̣aŋu	baḍaŋu 
+bigness: baldaŋu	baɹ̣aŋu	baḍaŋu 
+large: baldaŋu	baɹ̣aŋu	baḍaŋu 
+bird: buḷbuḷuḷu	guɟiɟi 
+bite: bad̪a	baːɟa 
+black: ŋumuwa 
+blood: ganduwa	gaṇḍuwa	kando	kant~uwa 
+bone: chulda	ty~ulta	ɟulda 
+breast: kunt~uNk~a	moonira	ŋamulu 
+breasts: kunt~uNk~a	moonira	ŋamulu 
+cloud: manan̪d̪a	wunda 
+cold: goorinda	ŋurinda	ŋurindiɟa 
+come: tali	wara 
+come from: tali	wara 
+be dead: bugawad̪a	pukawa	walirawa 
+dead: bugawad̪a	pukawa	walirawa 
+die: bugawad̪a	pukawa	walirawa 
+dog: Nawuwa	nawooa	ŋawa	ŋawuwa 
+drink: guḍama-	guḍamaɟa	guḍawa-	kutama 
+dry: buːmad̪a	ḷirgaṛa 
+ear: maralda	maralta 
+earth: doolga	dulga 
+ground: doolga	dulga 
+land: doolga	dulga 
+soil: doolga	dulga 
+eat: ḍiya-	ḍiyaɟa 
+egg: crowa	guṛuwa 
+eye: ginaŋara	miboolda	mibul	mibuḷda	mipuLta 
+feather: buḷbuḷḍa 
+fire: Nita	ngiada	ŋida	ŋira 
+fish: yaguli	yaguḷi	yakooli	yakuLi 
+fly: biḷbiḷiḷiwad̪a 
+fly v.: biḷbiḷiḷiwad̪a 
+foot: charna	d̪ara	ɟaṛa 
+full: buḷbanda	puLpa 
+give: wu-	wuːɟa	yiːɟa 
+good: mirara	miraṛa 
+hair: boolda	bulda	buld̪a 
+hand: maLta	mala	malda	maḷḍa 
+left hand: maLta	mala	malda	maḷḍa 
+right: maLta	mala	malda	maḷḍa 
+head: moolia	nalda 
+hear: mari-	mariɟa 
+heart: guḍuḷu 
+1 sg.: Nata	ŋada 
+I: Nata	ŋada 
+kill: balad̪a	bugalariɟa 
+knee: buŋgala	buŋgalda	puNk~alta 
+leaf: ty~int~iya	ɟiṇḍiya 
+lie: buḍiya-	miṇḍaḷiɟad̪a 
+lie down: buḍiya-	miṇḍaḷiɟad̪a 
+liver: garmida	karmita 
+long: yulmbura	yunbura 
+head louse: mita 
+louse: mita 
+male: choigno	ḍaŋgaṛa 
+man: daŋga	taNk~ara	wompoora 
+many: muda	mud̪aṛa 
+much: muda	mud̪aṛa 
+multiple: muda	mud̪aṛa 
+several: muda	mud̪aṛa 
+flesh: wuḍalɟi 
+meat: wuḍalɟi 
+moon: baḍu waldara	kooroba	waldara 
+hill: kamara 
+mountain: kamara 
+mouth: walara	waḷaṛa	wollara 
+name: nila	nita	ṇida 
+title: nila	nita	ṇida 
+neck: d̪awura 
+new: yanaNarpant~a	yanaŋarbanda 
+night: Nimiya	karwigi	ŋimiya 
+nighttime: Nimiya	karwigi	ŋimiya 
+nose: giga	girga	kirca	kirka 
+not: -t̪ari	-ɟari	walira 
+adulterous: chadra	d̪ada	ty~atara	tʸaθara	ɟad̪aṛa 
+one: chadra	d̪ada	ty~atara	tʸaθara	ɟad̪aṛa 
+single: chadra	d̪ada	ty~atara	tʸaθara	ɟad̪aṛa 
+that: dadinda	ḍad̪inda 
+the: chadra	d̪ada	ty~atara	tʸaθara	ɟad̪aṛa 
+unprincipled: chadra	d̪ada	ty~atara	tʸaθara	ɟad̪aṛa 
+human: daŋga	taNk~ara	wompoora 
+human being: daŋga	taNk~ara	wompoora 
+person: daŋga	taNk~ara	wompoora 
+rain: gaḷbuṛiŋgara	wun	wunda 
+rainy weather: gaḷbuṛiŋgara	wun	wunda 
+red: baḍiɟilili	gaṇḍugaṇḍu 
+path: wayini 
+road: wayini 
+route: wayini 
+root: ɟaṛuṛuŋga 
+round: dagalda 
+sand: gabanda 
+say: gabanda 
+see: guri-	guriɟa	kuri 
+sit: di-	wiḍi-	ḍiːɟa 
+hide: d̪araṛa	tarara 
+skin: d̪araṛa	tarara 
+sleep: bud̪iyaɟa	buḍiya- 
+little: gun̪amud̪a	gun̪ara 
+small: gun̪amud̪a	gun̪ara 
+smallness: gun̪amud̪a	gun̪ara 
+smoke: noorara	n̪uŋari	waduwa	waḍuwa	ɲuraṛa 
+star: guṛuba	koogigi	kurupa	waldara 
+rock: gamara	kamara 
+stone: gamara	kamara 
+sun: warguwa	warkooa	warkuwa 
+swim: biya-	biyaɟa	guli- 
+tail: maɟimaɟi 
+this: danda	ḍanda 
+2 sg: 5iNk~a	ɲiŋga 
+thou: 5iNk~a	ɲiŋga 
+you: 5iNk~a	ɲiŋga 
+tongue: d̪algana	tcharnganunga	ty~alNa4a	ɟalŋan̪a 
+tooth: damanda	tamant~a	tarmanda	ḍamanda 
+tree: tiwalta 
+grind: chiarnga	giyarŋga	giyaŋga	kiyarNk~a	kiyarngka 
+two: chiarnga	giyarŋga	giyaŋga	kiyarNk~a	kiyarngka 
+go: waraɟa 
+walk: waraɟa 
+hot: ŋarira 
+warm: ŋarira 
+water: Nukuwa	mookooa	yulu	yuluwa	ŋugu	ŋuguwa 
+1 pl. inc.: Nakulta	ŋagulda 
+we: Nakulta	ŋagulda 
+we₁: Nakulta	ŋagulda 
+what: ŋaga 
+white: balara	gambuṛa	ŋumu ŋumu 
+whiteness: balara	gambuṛa	ŋumu ŋumu 
+who: ŋaga 
+who?: ŋaga 
+female: magooa	maguwa 
+woman: magooa	maguwa 
+yellow: gambuṛa	gurayawuraya 
+dull: d̪aliya 
+heavy: d̪aliya 
+serious: d̪aliya 
+close: gira 
+near: gira 
+ner: gira 
+short: ḍamura 
+snake: dira	miyan	palangali	ḍira 
+thin: waṇḍiya 
+wind: warmaṛa	worngalda 
+year: wungi 
+2 pl.: gilda 
+ye: gilda 
+you all: gilda 
+3 pl.: bilda 
+they: bilda 
+here: danda	ḍan 
+there: dadinda	ḍad̪in 
+where: didinaŋga	ɟina 
+where?: didinaŋga	ɟina 
+when: ɟinamulinda 
+when?: ɟinamulinda 
+few: wawuḷḍa 
+other: ɟad̪aṛa 
+three: bulamura	buḷḍamura	tamgilda	tarntʸilta 
+broad: ḷarɟiya 
+wide: ḷarɟiya 
+wideness: ḷarɟiya 
+narrow: d̪un̪d̪uwa 
+child: gunawana	gunawuna 
+principal wife: gandi	gaṇḍiya 
+wife: gandi	gaṇḍiya 
+husband: ḍirguḷi 
+his mother: namado	ŋamad̪u 
+mother: namado	ŋamad̪u 
+my mother: namado	ŋamad̪u 
+father: candado	gan̪d̪ad̪u 
+his father: candado	gan̪d̪ad̪u 
+my father: candado	gan̪d̪ad̪u 
+fruit: yubuḷḍa 
+flower: buyaba 
+grass: boolda	gaṇḍa 
+claw: yilbilga 
+fingernail: yilbilga 
+nail: yilbilga 
+leg: buŋgal	guldura 
+gut: tulda	ɟililiɟilili 
+guts: tulda	ɟililiɟilili 
+insides: tulda	ɟililiɟilili 
+intestine: tulda	ɟililiɟilili 
+intestines: tulda	ɟililiɟilili 
+back: giḍilda 
+spit: bawuḷḍiɟa 
+vomit: gagiɟa 
+blow: buɲbad̪a 
+breath: ŋawiɟa 
+breathe: ŋawiɟa 
+laugh: yaduwi-	yaːd̪uɟa 
+laughter: yaduwi-	yaːd̪uɟa 
+smell: bamaḍa 
+sniff: bamaḍa 
+alive: wiḍiɟa 
+be alive: wiḍiɟa 
+life: wiḍiɟa 
+live: wiḍiɟa 
+living: wiḍiɟa 
+fight: balan̪d̪ud̪a 
+hunt: wambalmaɟa 
+beat: balad̪a 
+hit: balad̪a 
+strike: balad̪a 
+cut: gala-	miḷiyad̪a 
+hack: gala-	miḷiyad̪a 
+cut open: guḷalad̪a 
+split: guḷalad̪a 
+scratch: guluːɟa 
+dig: guluːguluːɟa	guluːɟa	ṇargiṛiɟa 
+tell lies: ŋaɲmad̪a 
+stand: daldi-	d̪aldiɟa 
+drop: baldi-	baḷɟiɟa 
+fall: baldi-	baḷɟiɟa 
+squeeze: ɟimiɟa 
+wring: ɟimiɟa 
+rub: buḷugulad̪a 
+wipe: gugulad̪a 
+wash: guliɟa 
+wash clothes: guliɟa 
+throw: ŋudiɟa 
+bind: guwad̪a 
+fasten: guwad̪a 
+tie: guwad̪a 
+tie up: guwad̪a 
+sew: ḷaːɟa 
+count: ṇinaɟa 
+enumerate: ṇinaɟa 
+number: ṇinaɟa 
+tally: ṇinaɟa 
+sing: waːɟa 
+have fun: wirga-	wirgaɟa 
+play: wirga-	wirgaɟa 
+float: bigaliɟa	yugiɟa 
+brook: gadar	gad̪ara 
+river: gadar	gad̪ara 
+stream: gadar	gad̪ara 
+dust: d̪uɹ̣uwa	ɟuḍuwa 
+sky: yaliya 
+blaze: ṇaːɟa 
+burn: ṇaːɟa 
+day: warguwa	yanda 
+daylight: warguwa	yanda 
+daytime: warguwa	yanda 
+bad: biḍiya 
+evil: biḍiya 
+rot: bugaṛa 
+rotten: bugaṛa 
+dirty: miḍaṛa	ḍuŋunḍuŋunda 
+filthy: miḍaṛa	ḍuŋunḍuŋunda 
+soiled: miḍaṛa	ḍuŋunḍuŋunda 
+straight: dilɟara 
+sharp: wuruwa 
+blunt: maṛuwa	ḍamiya 
+smooth: ḍiralda 
+right side: yurulida 
+left: d̪agulida 

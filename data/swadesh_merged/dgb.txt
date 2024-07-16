@@ -1,0 +1,141 @@
+all: sakay 
+every: sakay 
+ash: diwo 
+ashes: diwo 
+big: gulu 
+bigness: gulu 
+large: gulu 
+bird: ɲibe 
+bite: nunǯu 
+black: yɔːlɛ 
+blood: baga 
+bone: gay 
+breast: oje	oǯe 
+breasts: oje	oǯe 
+cloud: pundu 
+cold: toŋgole 
+come: ego 
+come from: ego 
+be dead: dowa 
+dead: dowa 
+die: dowa 
+dog: int~E	inǯɛ 
+drink: nnwa 
+ear: sugule 
+earth: bɔ̀rɔ́bɔ̀rɔ́ 
+ground: bɔ̀rɔ́bɔ̀rɔ́ 
+land: bɔ̀rɔ́bɔ̀rɔ́ 
+soil: bɔ̀rɔ́bɔ̀rɔ́ 
+eat: ǯinǯa 
+egg: pɔlɛŋgɛ 
+eye: gire 
+feather: kule 
+fire: gEni	gɛni 
+fish: dengeǯi	gumbi	gɔmɔ	kobo	kule	kɔgɔnarɛ	ngari	tálá	ɲɔŋgɔ 
+fly: pile 
+fly v.: pile 
+foot: tabɔ	še tabɔ 
+full: Sini	šini 
+give: tabu 
+good: dɛnǯa go 
+green: kɔǯikaǯi 
+hair: ko kule	kule 
+hand: kolaNg~e	kolaŋge 
+left hand: kolaNg~e	kolaŋge 
+right: kolaNg~e	kolaŋge 
+head: ko 
+hear: nunde	nund~e 
+horn: dilo 
+1 sg.: mi	mì 
+I: mi	mì 
+kill: géù 
+knee: kunj~uga	kunǯuga 
+be knowledgeable: iɲama 
+know: iɲama 
+leaf: be 
+long: gulu 
+male: nolo 
+man: sojo	sɔǯɔ 
+many: ǯaːmba 
+much: ǯaːmba 
+multiple: ǯaːmba 
+several: ǯaːmba 
+moon: ?ya 
+hill: soNg~o 
+mountain: soNg~o 
+mouth: toni 
+name: ini 
+title: ini 
+neck: kolaŋge 
+night: ?ya	ya 
+nighttime: ?ya	ya 
+nose: kina	kìná 
+not: ori 
+adulterous: ntoro	nt~oro 
+one: ntoro	nt~oro 
+single: ntoro	nt~oro 
+that: ntoro	nt~oro 
+the: ntoro	nt~oro 
+unprincipled: ntoro	nt~oro 
+human: sojo	sɔǯɔ 
+human being: sojo	sɔǯɔ 
+person: sojo	sɔǯɔ 
+rain: àyàgɔ́ 
+rainy weather: àyàgɔ́ 
+red: bow 
+path: oji 
+road: oji 
+route: oji 
+root: bušile 
+sand: suːnǯa 
+say: taga 
+see: tegu 
+sit: ɛbuŋgɛ 
+hide: gwi	gw~i 
+skin: gwi	gw~i 
+sleep: biyege 
+little: tumbu 
+small: tumbu 
+smallness: tumbu 
+smoke: kwiye 
+star: joNg~ulE	ǯɔŋgulɛ 
+rock: kini 
+stone: kini 
+sun: 5ENg~E	ɲɛŋgɛ 
+swim: mɛru 
+tail: dilɔ 
+tongue: dendebe	dend~ebe 
+tooth: in 
+tree: tiliNg~E 
+grind: ndega	nd~ega 
+two: ndega	nd~ega 
+go: oǯi 
+walk: oǯi 
+water: go	gɔ 
+1 pl. inc.: my~a 
+we: my~a 
+we₁: my~a 
+what: èbègè 
+white: šima 
+whiteness: šima 
+who: ay 
+who?: ay 
+female: yɔː 
+woman: yɔː 
+yellow: puripuna 
+distant: wagi 
+far: wagi 
+dull: niŋgi 
+heavy: niŋgi 
+serious: niŋgi 
+close: tuŋgu 
+near: tuŋgu 
+ner: tuŋgu 
+salt: kɔ̀mùnù 
+short: tumbu 
+snake: kwa	miri	namga	niŋgali	ɔlo ɔlo 
+thin: ɲɔŋgɔ 
+wind: yálè 
+earthworm: ši 
+worm: ši 
+year: waya 

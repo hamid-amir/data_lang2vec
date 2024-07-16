@@ -1,0 +1,372 @@
+all: všetko | každý	všetko 
+all: všteký | každý	všetko 
+and: a | a	i 
+animal: zviera | zviera	živočích 
+ashes: popol 
+at: pri 
+back: chrbát 
+bad: zlý 
+bark: kôra 
+because: lebo | lebo	pretože 
+belly: brucho 
+big: veľký 
+bird: vták 
+bite: hrízť | hrýzť	uhryznúť 
+black: čierny 
+blood: krv 
+blow: fúkať 
+bone: kosť | kosT	kosť 
+breast: prs | hruT	prsia 
+breast: prsník | hruT	prsia 
+breathe: dýchať 
+burn: páliť, horieť 
+child: dieťa 
+cloud: mrak | mrak	oblak 
+cloud: oblak | mrak	oblak 
+cold: zima | chladný	studený 
+come: prísť | dôjsť	pris	prísť 
+correct: správny 
+count: počítať | počet	počítať 
+cut: rezať | rezať	ťať 
+cut: sekať | rezať	ťať 
+day: deň 
+die: umrieť | umierať	zomrie 
+die: zomrieť | umierať	zomrie 
+dig: kopať 
+dig: ryť | kopať 
+dirty: špinavý 
+dog: pes 
+drink: piť | pi	piť 
+dry: suchý 
+dull: tupý | ťažký 
+dust: prach 
+earth: zem 
+ear: ucho | ucho	uxo 
+eat: jesť 
+egg: vajce 
+eye: oko 
+fall: padať 
+far: ďaleký 
+father: otec 
+fat (n.): tuk 
+fear: báť | báť sa 
+fear: báť sa 
+feather: pero 
+few: málo 
+fight: biť | bojovať	zápasiť 
+fight: bojovať | bojovať	zápasiť 
+fight: zápasiť | bojovať	zápasiť 
+fingernail: nechet | necht 
+fire: oheň | ohe5	oheň 
+fish: ryba | riba	ryba 
+five: päť | pät’	päť 
+float: vznášať sa | plávať 
+flower: kvet 
+flow: prúdiť | tiecť 
+flow: tiecť 
+fly (v.): letieť 
+fly (v.): lietať 
+fog: hmla 
+foot: noha | chodidlo 
+forest: les | hora	les 
+four: štyri 
+freeze: mrznúť 
+fruit: ovocie 
+fruit: plod | ovocie 
+full: plný | plni	plný 
+give: dať 
+good: dobrý 
+grass: tráva 
+green: zelený 
+guts: črevá | vnútornosti 
+guts: vnútornosti 
+hair: vlas | vlasy 
+hand: ruka 
+head: hlava 
+hear: počuť | mať sluch	poCu	počuť	čuť 
+heart: srdce 
+heavy: ťažký 
+he: on 
+here: tu | sem	tu 
+hit: trafiť | udrieť 
+hit: udrieť 
+hold: držať 
+horn: roh 
+how: ako 
+hunt: loviť | byť na love	loviť 
+hunt: poľovať | byť na love	loviť 
+husband: manžel 
+ice: ľad 
+if: ak 
+I: ja | ja	ya 
+in: v | v	vo 
+kill: zabiť | usmrtiť	zabiť 
+knee: koleno 
+know: vedieť 
+lake: jazero 
+laugh: smiať sa 
+leaf: list 
+left: vľavo | ľavý 
+leg: noha 
+lie: ležať 
+liver: pečeň | peCe5	pečeň 
+live: žiť 
+long: dlhý 
+louse: voš | voS	voš 
+man: muž | Clovek	osoba	človek 
+many: veľa | mnoho	veľa 
+meat: mäso 
+moon: mesiac 
+mother: matka | mama	matka 
+mountain: hora | hora	vrch	vrx~ 
+mouth: ústa 
+name: meno | meno	titul 
+narrow: úzky 
+near: blizký | blízky	neďaleký 
+neck: krk 
+new: nový | novi	nový 
+night: noc 
+nose: nos 
+not: nie 
+old: starý 
+one: jeden | jeden	yeden 
+other: iný | druhý	inakší	iný 
+person: človek | Clovek	osoba	človek 
+play: hrať 
+pull: ťahať 
+push: tlačiť 
+rain: dážď 
+rain: dážť | dážď 
+rain: pršať | dážď 
+red: červený 
+right: vpravo | ruka | pravý 
+river: rieka 
+road: cesta | cesta	xodnik 
+root: koreň 
+rope: lano | lano	povraz	šnúra 
+rotten: zhnitý | hnilý 
+round: oblý | guľatý	okrúhly 
+round: okrúhly | guľatý	okrúhly 
+rub: šúchať | trieť 
+rub: trieť 
+salt: soľ 
+sand: piesok 
+say: hovoriť | hovoriť	povedať | piesok 
+say: povedať | hovoriť	povedať | piesok 
+scratch: škrabať | škriabať 
+sea: more 
+seed: semeno 
+see: vidieť | vidie	vidieť 
+sew: šiť 
+sharp: ostrý 
+short: nizký | krátky 
+sing: spievať 
+sit: sedieť 
+skin: koža | koZa	koža 
+sky: obloha | nebo 
+sleep: spať 
+small: malý 
+smell: cítiť 
+smell: čuchať | cítiť 
+smoke: dym 
+smooth: hladký 
+snake: had 
+snow: sneh 
+some: niekoľko 
+spit: pľuť | pľuvať 
+spit: pľuvať 
+split: deliť 
+split: štiepiť | deliť 
+squeeze: stláčať | stlačiť	tlačiť 
+squeeze: zvierať | stlačiť	tlačiť 
+stab: bodnúť | bodať	bodnúť 
+stab: pichnúť | bodať	bodnúť 
+stand: stáť 
+star: hviezda 
+stick: palica | palica	tyč 
+stone: kameň | kame5	kameň 
+straight: priamy | priamy	rovný 
+straight: rovný | priamy	rovný 
+suck: cicať | cicať	sať 
+suck: sať | cicať	sať 
+sun: slnko 
+swell: nadúvať | opúchať 
+swell: opuchať | opúchať 
+swim: plávať 
+tail: chvost 
+that: ten (m.) | ten	to	tá | jeden	yeden 
+there: tam 
+they: oni | oni	ony 
+thick: tučný | tlstý	tučný 
+thin: chudý | tenký 
+think: myslieť 
+this: tento (m.) | tento	toto	táto 
+thou: ty | ti	ty 
+three: tri 
+throw: hádzať | hodiť	hádzať 
+throw: vrhať | hodiť	hádzať 
+tie: priviazať 
+tie: viazať 
+tie: zviazať 
+tongue: jazyk | jazyk	yazik 
+tooth: zub 
+tree: strom 
+turn: krútiť | otočiť 
+turn: točiť | otočiť 
+two: dva 
+vomit: dáviť | dáviť	spôsobiť dávenie	zvracať 
+vomit: zvracať | dáviť	spôsobiť dávenie	zvracať 
+walk: chodiť | chodiť	ísť 
+walk: kráčať | chodiť	ísť 
+warm: teplý 
+wash: umývať | umývať	zmyť 
+water: voda 
+we: my | mi	my 
+wet: vlhký | mokrý	vlhký 
+what: čo 
+when: keď | kedy 
+where: kde 
+white: biely 
+who: kto 
+wide: široký 
+wife: manželka | manželka	žena 
+wind: vietor 
+wing: krídlo 
+wipe: utierať 
+with: s | s	so 
+woman: žena 
+worm: červ | červ	červík 
+year: rok 
+yellow: žltý 
+you: ty | ti	ty | vy 
+you: vy | ti	ty 
+every: každý	všetko 
+ash: popol 
+abdomen: brucho 
+bigness: veľký 
+large: veľký 
+breasts: hruT	prsia 
+come from: dôjsť	pris	prísť 
+be dead: umierať	zomrie 
+dead: umierať	zomrie 
+ground: zem 
+land: zem 
+soil: zem 
+fly: letieť 
+fly v.: letieť 
+left hand: ruka 
+1 sg.: ja	ya 
+be knowledgeable: vedieť 
+head louse: voS	voš 
+male: muž 
+much: mnoho	veľa 
+multiple: mnoho	veľa 
+several: mnoho	veľa 
+hill: hora	vrch	vrx~ 
+title: meno	titul 
+nighttime: noc 
+adulterous: jeden	yeden 
+single: jeden	yeden 
+the: jeden	yeden 
+unprincipled: jeden	yeden 
+human: Clovek	osoba	človek 
+human being: Clovek	osoba	človek 
+rainy weather: dážď 
+path: cesta	xodnik 
+route: cesta	xodnik 
+hide: koZa	koža 
+little: malý 
+smallness: malý 
+rock: kame5	kameň 
+2 sg: ti	ty 
+grind: dva 
+go: chodiť	ísť 
+hot: teplý 
+1 pl. inc.: mi	my 
+we₁: mi	my 
+whiteness: biely 
+who?: kto 
+female: žena 
+distant: ďaleký 
+serious: ťažký 
+close: blízky	neďaleký 
+ner: blízky	neďaleký 
+earthworm: červ	červík 
+3 sg.: on 
+she: on 
+2 pl.: vy 
+ye: vy 
+you all: vy 
+3 pl.: oni	ony 
+where?: kde 
+when?: kedy 
+how?: ako 
+broad: široký 
+wideness: široký 
+fat: sadlo	tuk 
+principal wife: manželka	žena 
+his mother: mama	matka 
+my mother: mama	matka 
+his father: otec 
+my father: otec 
+woods: hora	les 
+branch: palica	tyč 
+cord: lano	povraz	šnúra 
+flesh: mäso 
+grease: sadlo	tuk 
+claw: necht 
+nail: necht 
+arm: ruka 
+gut: vnútornosti 
+insides: vnútornosti 
+intestine: vnútornosti 
+intestines: vnútornosti 
+breath: dýchať 
+laughter: smiať sa 
+cogitate: myslieť 
+reflect: myslieť 
+sniff: cítiť 
+afraid: báť sa 
+be afraid: báť sa 
+fright: báť sa 
+alive: žiť 
+be alive: žiť 
+life: žiť 
+living: žiť 
+beat: udrieť 
+strike: udrieť 
+hack: rezať	ťať 
+cut open: deliť 
+pierce: bodať	bodnúť 
+lie down: ležať 
+tell lies: ležať 
+turn around: otočiť 
+turn round: otočiť 
+drop: padať 
+grasp: držať 
+hold in arm: držať 
+wring: stlačiť	tlačiť 
+wash clothes: umývať	zmyť 
+shove: tlačiť 
+bind: viazať 
+fasten: viazať 
+tie up: viazať 
+enumerate: počet	počítať 
+number: počet	počítať 
+tally: počet	počítať 
+have fun: hrať 
+brook: rieka 
+stream: rieka 
+ocean: more 
+blaze: horieť 
+burn: horieť 
+daylight: deň 
+daytime: deň 
+evil: zlý 
+rot: hnilý 
+filthy: špinavý 
+soiled: špinavý 
+blunt: tupý 
+damp: mokrý	vlhký 
+right side: pravý 
+inside: v	vo 

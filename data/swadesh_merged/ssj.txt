@@ -1,0 +1,435 @@
+all: nu:pu | nuːpʰu 
+all: nuːpʰu 
+arm: wapi 
+arrow: lou 
+ashes: abasi | abasi	soumu 
+ashes: soumu | abasi	soumu 
+back: mede 
+back: mɛdɛ 
+back: seti 
+bad: waniabmo 
+bad: warikau 
+belly: puguru | puguru	sipi 
+belly: sipi | puguru	sipi 
+belly: sipi kë:muno | puguru	sipi 
+belly: sipi kʌːmuno | puguru	sipi 
+big: aitasa\a | aitasaʔa	ɛrɛn 
+big: aitasaʔa | aitasaʔa	ɛrɛn 
+big: eren | aitasaʔa	ɛrɛn 
+big: ɛrɛn | aitasaʔa	ɛrɛn 
+bird: yene | yɛnɛ 
+bird: yɛnɛ 
+bite: vai- 
+black: umidi 
+blood: batai 
+blow: fululu- 
+bone: i:asru | isru	iːsru 
+bone: iːsru | isru	iːsru 
+boy: wora amugo 
+breast: aene | aene	amene 
+breast: amene | aene	amene 
+brother: ai- 
+brother: non- 
+burn: we- 
+burn: wɛ- 
+butterfly: kawi kawi 
+calf: guru 
+cassowary: esre 
+chest: konu 
+child: wora-w nonu 
+chin: tetouno 
+chin: tetuono 
+cloud: asig ohu 
+cold: nare- | narɛ-	troːrowa 
+cold: narɛ- | narɛ-	troːrowa 
+cold: tro:rowa- | narɛ-	troːrowa 
+cold: troːrowa | narɛ-	troːrowa 
+come: ka- | ka	ka- 
+crocodile: yëmei 
+crocodile: yʌmei 
+cut: fay- 
+cut: isi- 
+cut: ton- 
+dance: gegre- 
+day: aubo sa 
+die: umi- | umi	umi- 
+dig: ore- 
+dig: orɛ- 
+dirty: bitiura 
+dog: kesa:mo | kesamo	kesaːmo 
+dog: kesaːmo | kesamo	kesaːmo 
+dry: fa\ënda | ɸaʔʌnda 
+dry: φaʔʌnda | ɸaʔʌnda 
+ear: kafere | kapErE	kaɸɛrɛ 
+ear: kaφɛrɛ | kapErE	kaɸɛrɛ 
+earth: keme | kɛmɛ	oβo 
+earth: kɛmɛ | kɛmɛ	oβo 
+earth: oßo | kɛmɛ	oβo 
+earth: ovo | kɛmɛ	oβo 
+eat: ne- | nɛ- 
+eat: nɛ- 
+eat: urun- | nɛ- 
+egg: sreno | srɛno 
+egg: srɛno 
+elbow: aporu 
+emu: ɛsrɛ 
+excrement: sipi 
+eye: ami 
+face: mou 
+fall: ere- 
+fall: ɛrɛ- 
+fall: fay- 
+far: sä:ran | säːrən 
+far: säːrən | säːrən 
+father: awi 
+fat (n.): itëmun 
+fat (n.): itʌmun 
+fear: eli- 
+fear: ɛli- 
+few: ediso 
+few: ɛdiso 
+fight: (k)wi dai- 
+fight: tiri- 
+fingernail: tegere 
+fingernail: tɛgɛrɛ 
+finger: sereno 
+finger: sɛrɛno 
+fire: \ebi | Ebi	pEgEni	pɛgɛni	ʔɛbi 
+fire: ʔɛbi | Ebi	pEgEni	pɛgɛni	ʔɛbi 
+fire: meawun | Ebi	pEgEni	pɛgɛni	ʔɛbi 
+fire: pegeni | Ebi	pEgEni	pɛgɛni	ʔɛbi 
+fire: pɛgɛni | Ebi	pEgEni	pɛgɛni	ʔɛbi 
+fish: aine 
+fly (n.): akëpo 
+fly (n.): akʌpo 
+fly (v.): bududu- 
+fog: gebduw 
+forehead: mou 
+forest: saumo 
+forest: tʌbne 
+forest: tëbne 
+fruit: ss.ren 
+full: one- | owi	owi- 
+full: onɛ- | owi	owi- 
+full: owi- | owi	owi- 
+girl: fana wafe 
+girl: φana waφɛ 
+give: du- 
+good: na\on | naʔon 
+good: naʔon 
+grass: eire 
+guts: sipi kë:muno 
+guts: sipi kʌːmuno 
+hair: ru 
+head: lobu- 
+head: tufu | lobu- 
+hear: isen- | isEn	isɛn- 
+hear: isɛn- | isEn	isɛn- 
+heart: winu meram | winu mɛram 
+heart: winu mɛram 
+heavy: ufurua | uɸurua 
+heavy: uφurua | uɸurua 
+here: abu 
+here: mop 
+he/she: -ine 
+he/she: ni 
+he/she: nu 
+he/she: nu- 
+he/she: -ø- 
+he/she: -r- 
+he/she: -u- 
+hit: (k)wi dai- 
+hit: tiri- 
+hold: ibʌ- 
+hold: ibë- 
+house: wedi 
+house: wɛdi 
+how: enaye 
+ice: §rɛn 
+I: i 
+I: -i(ma)mo 
+I: -i(ma)mo- 
+in: orup 
+I: y- 
+I: -(zi)s- 
+kill: ure 
+kill: ure- 
+knee: aboru 
+laugh: tisi- 
+left: etaiso 
+left: ɛtaiso 
+leg: kefi 
+leg: kɛφi 
+lightning: padayomane- 
+lightning: padayomanɛ- 
+liver: kamo 
+long: rʰobei(no) | rʰobei	rʰobeino 
+long: robei(no) | rʰobei	rʰobeino 
+louse: pae 
+man: ieno | tameitɛ 
+man: iɛno | tameitɛ 
+man: tameite | tameitɛ 
+man: tameitɛ 
+man: to:no | tameitɛ 
+man: toːno | tameitɛ 
+many: fomzi | zauzau	ɸomzi 
+many: zauzau | zauzau	ɸomzi 
+many: φomzi | zauzau	ɸomzi 
+meat: unor- 
+moon: asi 
+morning: sa bia(mo) 
+morning: sa bida(mo) 
+mosquito: kenëki 
+mosquito: kenʌki 
+mother: afi 
+mother: aφi 
+mountain: motoru 
+mountain: moturu | motoru 
+mouth: sebe | sɛbɛ	tama 
+mouth: sɛbɛ | sɛbɛ	tama 
+mouth: tama | sɛbɛ	tama 
+name: weni | wEni	wɛni 
+name: wɛni | wEni	wɛni 
+nape: tamau 
+navel: su 
+near: su\usrai | suʔusrai 
+near: suʔusrai 
+neck: patu | patu	pe 
+neck: pe | patu	pe 
+new: amogo 
+night: s umoru 
+nose: upu 
+not: yəmo 
+not: y mo 
+old: idebau 
+old: idɛbau 
+old: nab 
+old: sumurayo 
+old: wawi(ra) 
+one: ʌdrai | 3drai	ʌdrai 
+one: ëdrai | 3drai	ʌdrai 
+pull: evere- 
+pull: ɛvɛrɛ- 
+push: ezra- 
+push: ɛzra- 
+rain: yë naubo | yʌ naubo 
+rain: yʌ naubo 
+rat: sesi 
+rat: sɛsi 
+red: bëtayau | bətayu 
+red: bətayu 
+right: erisou 
+right: ɛrisou 
+ripe: fuap 
+ripe: φuapʷ 
+road: sabga 
+root: brïdemon | brrədɛmon	kinino 
+root: brrədɛmon | brrədɛmon	kinino 
+root: kinino | brrədɛmon	kinino 
+rope: kisi 
+rope: yɛrigoro 
+salt: sei 
+sand: usigri | usinei	vsigri 
+sand: usinei | usinei	vsigri 
+sand: vsigri | usinei	vsigri 
+say: saiver- | zaid- 
+say: saivɛr- | zaid- 
+say: zaid- 
+scratch: ra(ß)- 
+scratch: ra(v)- 
+sea: yʌ 
+sea: yë 
+see: päze- | pEzE	ɸäzɛ- 
+see: φäzɛ- | pEzE	ɸäzɛ- 
+see: φäzɛn- | pEzE	ɸäzɛ- 
+sharp: fai- 
+sharp: weine 
+sharp: wɛinɛ 
+short: fomun | ɸomun 
+short: φomun | ɸomun 
+shoulder: koëne 
+shoulder: koʌnɛ 
+sing: youvu de- 
+sister: naki- 
+sit: fubu(nu)- | fubu-	fubunu- 
+skin: mete | mEtE	mɛtɛ	touno 
+skin: mɛtɛ | mEtE	mɛtɛ	touno 
+skin: touno | mEtE	mɛtɛ	touno 
+sky: samala 
+sleep: ene- | ɛnɛ- 
+sleep: ɛnɛ- 
+small: uran | uran	urayari 
+small: urayari | uran	urayari 
+smell: diri- 
+smoke: ua 
+snake: neire | neirɛ 
+snake: neirɛ 
+spit: sifie 
+spit: siφiɛ 
+spit: tou- 
+split: tarau- 
+stand: pi- 
+stand: toubi- 
+star: konobie 
+stick: koda 
+stick: pede 
+stick: udu 
+stone: ibo | ibo	wauro 
+stone: wauro | ibo	wauro 
+straight: na\on 
+straight: naʔon 
+sun: were | wErE	wɛrɛ 
+sun: wɛrɛ | wErE	wɛrɛ 
+swell: sairɛ- 
+tail: tru:no | truːno 
+tail: truːno 
+take: ta- 
+that: ine | inɛ 
+that: inɛ 
+there: inop 
+they: -enag- 
+they: -ɛnag- 
+they: -na\- 
+they: -naʔ- 
+they: -naba 
+they: nan- 
+they: nene 
+they: nɛnɛ 
+thigh: moru 
+think: udunu- 
+this: mu(me.e) | mu	mumeɛ 
+this: mu(meɛ) | mu	mumeɛ 
+thou: -en- | nE	nɛ 
+thou: -ɛn- | nE	nɛ 
+thou: -ɛt- | nE	nɛ 
+thou: inamo | nE	nɛ 
+thou: -inamo | nE	nɛ 
+thou: m- | nE	nɛ 
+thou: n- | nE	nɛ 
+thou: ne | nE	nɛ 
+thou: nɛ | nE	nɛ 
+thou: -taʔ- | nE	nɛ 
+thou: -taba | nE	nɛ 
+thou: tan- | nE	nɛ 
+thou: tɛnɛ | nE	nɛ 
+throat: pɛ kukroßu 
+throat: pe kukrovu 
+throw: awe- 
+throw: awɛ- 
+thunder: parere- 
+thunder: parɛrɛ- 
+tie: äßrɛ- 
+tie: ävre- 
+tomorrow: ido 
+tomorrow: ido wa\mbo 
+tongue: tama mea | tama mEa	tama mɛa 
+tongue: tama mɛa | tama mEa	tama mɛa 
+tooth: wai 
+tree: kini | tiri 
+tree: nupuno | tiri 
+tree: tʌbono | tiri 
+tree: tiri 
+turn: warei- 
+turn: wariɛ- 
+two: aere 
+vagina: simi 
+walk: dai- 
+walk: yare- | dai- 
+walk: yarɛ- | dai- 
+walk: φidɛli- | dai- 
+wallaby: sitewe 
+wallaby: sitɛwɛ 
+warm: uy- 
+wash: vəs- 
+wash: vəsəv- 
+wash: vïs- 
+wash: vïsïv- 
+water: yʌ | y3	yʌ 
+water: yë | y3	yʌ 
+weep: fili- 
+weep: φili- 
+we: sene | sEnE 
+we: sɛnɛ | sEnE 
+we: -sigamo | sEnE 
+we: son- | sEnE 
+wet: ozai- 
+we: -(zi)zəg- | sEnE 
+we: -(zi)zVg- | sEnE 
+what: mamena | mamɛna 
+what: mamɛna 
+where: ani(ai) 
+white: eife | poa	poabo	ʔɛiɸɛ 
+white: ʔɛiφɛ | poa	poabo	ʔɛiɸɛ 
+white: poa(bo) | poa	poabo	ʔɛiɸɛ 
+who: miyede | miyɛdɛ 
+who: miyɛdɛ 
+wind: sidau | sidau	sosoa	βuβua 
+wind: sosoa | sidau	sosoa	βuβua 
+wind: ßußua | sidau	sosoa	βuβua 
+wind: vuvua | sidau	sosoa	βuβua 
+wing: tënp 
+wing: tʌnp 
+woman: fana | ɸana 
+woman: wë:ke | ɸana 
+woman: wʌːkɛ | ɸana 
+woman: φana | ɸana 
+wood: koda 
+wood: pɛdɛ 
+wood: tiri nupunomo 
+wood: udu 
+yes: oi 
+yes: ou 
+yesterday: fian 
+yesterday: fian zain 
+yesterday: φian 
+you: -et- | nE	nɛ 
+you: -ta\- | nE	nɛ 
+you: -taba | nE	nɛ 
+you: tan- | nE	nɛ 
+you: tene | nE	nɛ 
+every: nuːpʰu 
+ash: abasi	soumu 
+abdomen: puguru	sipi 
+bigness: aitasaʔa	ɛrɛn 
+large: aitasaʔa	ɛrɛn 
+breasts: aene	amene 
+come from: ka	ka- 
+be dead: umi	umi- 
+dead: umi	umi- 
+ground: kɛmɛ	oβo 
+land: kɛmɛ	oβo 
+soil: kɛmɛ	oβo 
+fly: bududu- 
+fly v.: bududu- 
+head louse: pae 
+male: tameitɛ 
+much: zauzau	ɸomzi 
+multiple: zauzau	ɸomzi 
+several: zauzau	ɸomzi 
+hill: motoru 
+title: wEni	wɛni 
+nighttime: s umoru 
+adulterous: 3drai	ʌdrai 
+single: 3drai	ʌdrai 
+the: 3drai	ʌdrai 
+unprincipled: 3drai	ʌdrai 
+rainy weather: yʌ naubo 
+path: sabga 
+route: sabga 
+hide: mEtE	mɛtɛ	touno 
+little: uran	urayari 
+smallness: uran	urayari 
+rock: ibo	wauro 
+2 sg: nE	nɛ 
+grind: aere 
+go: dai- 
+1 pl. inc.: sEnE 
+we₁: sEnE 
+whiteness: poa	poabo	ʔɛiɸɛ 
+who?: miyɛdɛ 
+female: ɸana 
+distant: säːrən 
+dull: uɸurua 
+serious: uɸurua 
+close: suʔusrai 
+ner: suʔusrai 

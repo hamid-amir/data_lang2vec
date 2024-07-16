@@ -1,0 +1,891 @@
+all: horengëndik | horeŋəndik	həɾeɾəndik	nɛrɛgɛndi	rukindi 
+all: roekindi | horeŋəndik	həɾeɾəndik	nɛrɛgɛndi	rukindi 
+all: rukindi | horeŋəndik	həɾeɾəndik	nɛrɛgɛndi	rukindi 
+animal: kot min neːba yua 
+arm: taan 
+arm: tan 
+arm: taːn 
+arrow: tunis 
+ashes: pon | paʊn	pon	poun	poːn 
+ashes: poːn | paʊn	pon	poun	poːn 
+ashes: poon | paʊn	pon	poun	poːn 
+ashes: poun | paʊn	pon	poun	poːn 
+back: ibu | ibu	ibu-wod 
+back: ibu togar | ibu	ibu-wod 
+back: ibu(-wod) | ibu	ibu-wod 
+bad: koter | koter	koteter	kotitir 
+bad: koteter | koter	koteter	kotitir 
+bad: kote(te)r | koter	koteter	kotitir 
+bad: kotitir | koter	koteter	kotitir 
+bark: adog-nggayn | adog-ŋgayn	adop ŋeːn	adop-ŋeːn	ŋgein 
+bark: adop-ngeen | adog-ŋgayn	adop ŋeːn	adop-ŋeːn	ŋgein 
+bark: adop ŋeːn | adog-ŋgayn	adop ŋeːn	adop-ŋeːn	ŋgein 
+bark: nggein | adog-ŋgayn	adop ŋeːn	adop-ŋeːn	ŋgein 
+belly: kod-kperi | kod-kperi	kor-peri	kot peri	kot-peri 
+belly: kor-peri | kod-kperi	kor-peri	kot peri	kot-peri 
+belly: kot peri | kod-kperi	kor-peri	kot peri	kot-peri 
+belly: kot-peri | kod-kperi	kor-peri	kot peri	kot-peri 
+belly: kot peri udi | kod-kperi	kor-peri	kot peri	kot-peri 
+big: djoei | harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+big: harawi | harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+big: harewi | harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+big: herewi | harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+big: kameng | harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+big: kinwi | harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+big: ng.gbang.gbangor | harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+big: serewie | harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+big: wera | harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+bird: dje | dǯe	ndie	nǯe	ǯe	ǯeh	ǯehe	ǯih	ɟe 
+bird: djë | dǯe	ndie	nǯe	ǯe	ǯeh	ǯehe	ǯih	ɟe 
+bird: ɟe | dǯe	ndie	nǯe	ǯe	ǯeh	ǯehe	ǯih	ɟe 
+bird: je | dǯe	ndie	nǯe	ǯe	ǯeh	ǯehe	ǯih	ɟe 
+bird: jehe | dǯe	ndie	nǯe	ǯe	ǯeh	ǯehe	ǯih	ɟe 
+bird: ndie | dǯe	ndie	nǯe	ǯe	ǯeh	ǯehe	ǯih	ɟe 
+bird: ǯe | dǯe	ndie	nǯe	ǯe	ǯeh	ǯehe	ǯih	ɟe 
+bite: wərekta | wərek	wərekta 
+bitter: merek 
+bitter: mërek 
+bitter: mərek 
+black: hënek-hënek | henekhenek	henekï	henik henik	hewek-henek-ma	hewek-henekma	hənek-hənek 
+black: hənek-hənek | henekhenek	henekï	henik henik	hewek-henek-ma	hewek-henekma	hənek-hənek 
+black: henekï | henekhenek	henekï	henik henik	hewek-henek-ma	hewek-henekma	hənek-hənek 
+black: hewek-henekma | henekhenek	henekï	henik henik	hewek-henek-ma	hewek-henekma	hənek-hənek 
+black: hewek-henek-ma | henekhenek	henekï	henik henik	hewek-henek-ma	hewek-henekma	hənek-hənek 
+blood: owir | owir	we	wek	weq	wer	ʊwek 
+blood: we | owir	we	wek	weq	wer	ʊwek 
+blood: wek | owir	we	wek	weq	wer	ʊwek 
+blood: weq | owir	we	wek	weq	wer	ʊwek 
+blood: wer | owir	we	wek	weq	wer	ʊwek 
+blow: pohoknia | pohoknia	ʔpohot 
+bone: ntogara | ntogara	toga	togar	togaɾ	tohɾa 
+bone: toga | ntogara	toga	togar	togaɾ	tohɾa 
+bone: togar | ntogara	toga	togar	togaɾ	tohɾa 
+branch: adep-kagat | adep-kagat	adop taŋen	adop-taŋen	honod 
+branch: adop-tangen | adep-kagat	adop taŋen	adop-taŋen	honod 
+branch: adop taŋen | adep-kagat	adop taŋen	adop-taŋen	honod 
+branch: honod | adep-kagat	adop taŋen	adop-taŋen	honod 
+breast: hon | hol	hon	kot padin 
+breast: hon kendep | hol	hon	kot padin 
+breast: kot padin | hol	hon	kot padin 
+breathe: kəda hoda 
+brother: ade 
+brother: kaka 
+brother: naga 
+brother: nen 
+burn: këria | kəria 
+burn: kəria 
+butterfly: papa-papapu 
+butterfly: papapu 
+calf: kok-puren 
+cassowary: mbë-gituari 
+cassowary: tobatërak 
+cheek: bager 
+cheek: kot-pawor 
+cheek: pager 
+chest: gere 
+chest: kot-pedien 
+chest: nggere 
+child: jë-ko | dukoʔ	mada	menda	žu-kok	ǯə-ko 
+child: jhu-kok | dukoʔ	mada	menda	žu-kok	ǯə-ko 
+child: mada | dukoʔ	mada	menda	žu-kok	ǯə-ko 
+child: menda | dukoʔ	mada	menda	žu-kok	ǯə-ko 
+chin: kake 
+chin: kaké 
+chin: menduk 
+chin: mundug 
+cloud: moro | moro	morob	morop	woŋ 
+cloud: morob | moro	morob	morop	woŋ 
+cloud: morop | moro	morob	morop	woŋ 
+cold: kembon | kembon	kombom	kombuŋ	kumbom	kəmbom 
+cold: kombom | kembon	kombom	kombuŋ	kumbom	kəmbom 
+come: hawoda | hawoda	hawor	howod	howot	howot-pede	kowit́ 
+come: hawor | hawoda	hawor	howod	howot	howot-pede	kowit́ 
+come: howod | hawoda	hawor	howod	howot	howot-pede	kowit́ 
+come: howot-pede | hawoda	hawor	howod	howot	howot-pede	kowit́ 
+come: kowit! | hawoda	hawor	howod	howot	howot-pede	kowit́ 
+correct: kendon | kendon	ʔpo 
+count: nenboda | nenboda	neŋbodaŋ 
+crocodile: piawa 
+cut: pora 
+cut: tuknia | pora 
+dance: mbrehai 
+dance: nahoerada 
+dark: dogop-dogop 
+day: winggwinggiha 
+die: kəmeru | kimya	kəmiri	kəmiɾik 
+die: kəmia | kimya	kəmiri	kəmiɾik 
+die: kəmiri | kimya	kəmiri	kəmiɾik 
+dig: tondi kəmia wapia | widǯa	wiǯa	wiǯɛb 
+dig: widja | widǯa	wiǯa	wiǯɛb 
+dig: wiǯa | widǯa	wiǯa	wiǯɛb 
+dirty: hugo-hugo | hugo-hugo	patpadi 
+dog: biar | biar	biaːr	kohuə	mbiar	mbiaɾ 
+dog: biaːr | biar	biaːr	kohuə	mbiar	mbiaɾ 
+dog: kohuë | biar	biaːr	kohuə	mbiar	mbiaɾ 
+dog: mbiar | biar	biaːr	kohuə	mbiar	mbiaɾ 
+drink: kəra nowa | aroh	kəra nowa	nauaŋgə	nowa	rohnoŋgə 
+drink: nauanggë | aroh	kəra nowa	nauaŋgə	nowa	rohnoŋgə 
+drink: nowa | aroh	kəra nowa	nauaŋgə	nowa	rohnoŋgə 
+drink: rohnonggë | aroh	kəra nowa	nauaŋgə	nowa	rohnoŋgə 
+dry: nbrotï | gəɾengəɾen	mbʊɾʊtmbʊɾʊt	nbrotï	ngeɾing ngeɾing	protï	ŋeriŋeda	ŋeriːŋeda	ŋgeŋgeriŋga	ŋgreŋgroŋ 
+dry: ngeringeda | gəɾengəɾen	mbʊɾʊtmbʊɾʊt	nbrotï	ngeɾing ngeɾing	protï	ŋeriŋeda	ŋeriːŋeda	ŋgeŋgeriŋga	ŋgreŋgroŋ 
+dry: ŋeriːŋeda | gəɾengəɾen	mbʊɾʊtmbʊɾʊt	nbrotï	ngeɾing ngeɾing	protï	ŋeriŋeda	ŋeriːŋeda	ŋgeŋgeriŋga	ŋgreŋgroŋ 
+dry: nggrenggrong | gəɾengəɾen	mbʊɾʊtmbʊɾʊt	nbrotï	ngeɾing ngeɾing	protï	ŋeriŋeda	ŋeriːŋeda	ŋgeŋgeriŋga	ŋgreŋgroŋ 
+dry: protï | gəɾengəɾen	mbʊɾʊtmbʊɾʊt	nbrotï	ngeɾing ngeɾing	protï	ŋeriŋeda	ŋeriːŋeda	ŋgeŋgeriŋga	ŋgreŋgroŋ 
+ear: kper | kper	per	peɾ	peɾengen	peːr	pɛr ŋgain 
+ear: per | kper	per	peɾ	peɾengen	peːr	pɛr ŋgain 
+ear: peːr | kper	per	peɾ	peɾengen	peːr	pɛr ŋgain 
+earth: hoor | pat	paːt 
+earth: paat | pat	paːt 
+earth: par | pat	paːt 
+earth: pat | pat	paːt 
+earth: paːt | pat	paːt 
+earth: poat-onanï | pat	paːt 
+eat: jeja | koret	kuɾetnəwenge	nauaŋgə	naw-	noaŋgə	nowa	nowange 
+eat: koret | koret	kuɾetnəwenge	nauaŋgə	naw-	noaŋgə	nowa	nowange 
+eat: nauanggë | koret	kuɾetnəwenge	nauaŋgə	naw-	noaŋgə	nowa	nowange 
+eat: naw- | koret	kuɾetnəwenge	nauaŋgə	naw-	noaŋgə	nowa	nowange 
+eat: noanggë | koret	kuɾetnəwenge	nauaŋgə	naw-	noaŋgə	nowa	nowange 
+eat: nowa | koret	kuɾetnəwenge	nauaŋgə	naw-	noaŋgə	nowa	nowange 
+egg: wun | wun	wund	wʊn 
+egg: wund | wun	wund	wʊn 
+elbow: taan-tombon 
+elbow: taan-tungun 
+elbow: taːn tombon 
+elbow: tan-tongbon 
+elbow: taːn tungun 
+emu: tobatərak 
+excrement: ko 
+eye: kendep | kendep	kendop	kəndip	kɛndɛp 
+eye: kendep ŋaha | kendep	kendop	kəndip	kɛndɛp 
+eye: kendep paːk | kendep	kendop	kəndip	kɛndɛp 
+eye: kendep puniŋi | kendep	kendop	kəndip	kɛndɛp 
+eye: kendop | kendep	kendop	kəndip	kɛndɛp 
+face: kamer 
+face: kamëri 
+face: kamiri 
+fall: hapoǯa | hapoǯa	hokbu 
+far: pie | pie	rokiadet	ʔpiet 
+far: rokiadet | pie	rokiadet	ʔpiet 
+father: ade | ade	nia	niaʔ 
+father: nia | ade	nia	niaʔ 
+fat (n.): harawi 
+fat (n.): kameng 
+fat (n.): kamin 
+fat (n.): main 
+fear: kot menik | kotminyet 
+fear: kot-meniuk | kotminyet 
+fear: mənik | kotminyet 
+feather: jeh-kejget | keŋget	kombot	kombotï	koŋ.gbod	ǯeh-keǯget 
+feather: kengget | keŋget	kombot	kombotï	koŋ.gbod	ǯeh-keǯget 
+feather: kombot | keŋget	kombot	kombotï	koŋ.gbod	ǯeh-keǯget 
+feather: kombotï | keŋget	kombot	kombotï	koŋ.gbod	ǯeh-keǯget 
+feather: kong.gbod | keŋget	kombot	kombotï	koŋ.gbod	ǯeh-keǯget 
+few: hoboːr 
+finger: kok-tuwer 
+finger: kouk tuber 
+fingernail: pe | pe	peh	tan peh	tan-peh	tan-peih	tan-tuber	yan-pek 
+fingernail: tan-peh | pe	peh	tan peh	tan-peh	tan-peih	tan-tuber	yan-pek 
+fingernail: tan-peih | pe	peh	tan peh	tan-peh	tan-peih	tan-tuber	yan-pek 
+fingernail: tan-tuber | pe	peh	tan peh	tan-peh	tan-peih	tan-tuber	yan-pek 
+fingernail: yan-pek | pe	peh	tan peh	tan-peh	tan-peih	tan-tuber	yan-pek 
+finger: taan-tuber 
+finger: taan-uwit 
+finger: taːn tuber 
+finger: tan-tubir 
+finger: tan-tuwer 
+finger: taːn uwit 
+fire: tom | tom	tomwon	toːm 
+fire: toːm | tom	tomwon	toːm 
+fire: toːm rep | tom	tomwon	toːm 
+fire: toom | tom	tomwon	toːm 
+fish: heir | hayɾ	heir	her	heyri	heɾ	uto 
+fish: her | hayɾ	heir	her	heyri	heɾ	uto 
+fish: heyri | hayɾ	heir	her	heyri	heɾ	uto 
+fish: uto | hayɾ	heir	her	heyri	heɾ	uto 
+five: həre-tambu | heretembu	heretumbu	heɾetəmbu	həre-tambu	istombuh	temba 
+five: heretembu | heretembu	heretumbu	heɾetəmbu	həre-tambu	istombuh	temba 
+five: heretumbu | heretembu	heretumbu	heɾetəmbu	həre-tambu	istombuh	temba 
+five: temba | heretembu	heretumbu	heɾetəmbu	həre-tambu	istombuh	temba 
+flower: binim | binim	biniːm	bunga	houwen 
+flower: biniːm | binim	biniːm	bunga	houwen 
+flower: houwen | binim	biniːm	bunga	houwen 
+fly (n.): bedabur 
+fly (n.): kambembëda 
+fly (n.): kambet bida 
+fly (n.): kambet-bida 
+fly (n.): mbedabur 
+fly (n.): mbedakar 
+fly (v.): burudanggë 
+fly (v.): kukudang 
+fly (v.): kurudang 
+fly (v.): pruda 
+foot: kok | kok	kouk pra	kow	koʔ	koʔuk-praːm	m 
+foot: kouk pigin | kok	kouk pra	kow	koʔ	koʔuk-praːm	m 
+foot: kouk pra | kok	kouk pra	kow	koʔ	koʔuk-praːm	m 
+foot: ko\uk-praam | kok	kouk pra	kow	koʔ	koʔuk-praːm	m 
+foot: kouk təna | kok	kouk pra	kow	koʔ	koʔuk-praːm	m 
+foot: kow | kok	kouk pra	kow	koʔ	koʔuk-praːm	m 
+foot: m | kok	kouk pra	kow	koʔ	koʔuk-praːm	m 
+forehead: kamer 
+forehead: kameri 
+forehead: kemeir 
+forest: bua | bua	buwak	bʊak	tewer	ʔpuak 
+forest: tewer | bua	buwak	bʊak	tewer	ʔpuak 
+four: həre-ŋara | herenggara	hereŋgaru	heɾingaɾa	həre-ŋara	isəngaɾah	ŋara 
+four: herenggaru | herenggara	hereŋgaru	heɾingaɾa	həre-ŋara	isəngaɾah	ŋara 
+four: ngara | herenggara	hereŋgaru	heɾingaɾa	həre-ŋara	isəngaɾah	ŋara 
+fruit: adaop kaharia | adaop kaharia	adop-keharia	ispo	keih	ladog-key 
+fruit: adop-keharia | adaop kaharia	adop-keharia	ispo	keih	ladog-key 
+fruit: keih | adaop kaharia	adop-keharia	ispo	keih	ladog-key 
+fruit: ladog-key | adaop kaharia	adop-keharia	ispo	keih	ladog-key 
+full: wekta | wehwek	wek	wekta 
+girl: jëkok-tombohaar 
+girl: yəkok tombohaːr 
+give: howo | howo	kon	koːnya	kwən 
+give: koːnya | howo	kon	koːnya	kwən 
+give: kwën | howo	kon	koːnya	kwən 
+give: kwən | howo	kon	koːnya	kwən 
+good: kpohi | bohi	kpohi	poh	pohi	puhi 
+good: pohi | bohi	kpohi	poh	pohi	puhi 
+good: puhi | bohi	kpohi	poh	pohi	puhi 
+grass: kaːhaːn | kambam	kambem	kaːhaːn	kehaːn	sapo 
+grass: kehaan | kambam	kambem	kaːhaːn	kehaːn	sapo 
+green: hobor | ho.gbor	hobor	kihko	kiŋkoŋ 
+green: ho.gbor | ho.gbor	hobor	kihko	kiŋkoŋ 
+green: kihko | ho.gbor	hobor	kihko	kiŋkoŋ 
+green: kingkong | ho.gbor	hobor	kihko	kiŋkoŋ 
+guts: -dudare | -dudare	kor-peri-dare	kumbun-tare	kumbuntare 
+guts: kor-peri-dare | -dudare	kor-peri-dare	kumbun-tare	kumbuntare 
+guts: kumbuntare | -dudare	kor-peri-dare	kumbun-tare	kumbuntare 
+guts: kumbun-tare | -dudare	kor-peri-dare	kumbun-tare	kumbuntare 
+hair: dju-kombot | kanda-den	kanda-der	kandaden	kandaːtən	kandʌtɛn	kenda-den	kendaden	kəndaten 
+hair: gro-kombot | kanda-den	kanda-der	kandaden	kandaːtən	kandʌtɛn	kenda-den	kendaden	kəndaten 
+hair: kanda-den | kanda-den	kanda-der	kandaden	kandaːtən	kandʌtɛn	kenda-den	kendaden	kəndaten 
+hair: kanda-der | kanda-den	kanda-der	kandaden	kandaːtən	kandʌtɛn	kenda-den	kendaden	kəndaten 
+hair: kandaːtən | kanda-den	kanda-der	kandaden	kandaːtən	kandʌtɛn	kenda-den	kendaden	kəndaten 
+hair: kendaden | kanda-den	kanda-der	kandaden	kandaːtən	kandʌtɛn	kenda-den	kendaden	kəndaten 
+hair: kenda-den | kanda-den	kanda-der	kandaden	kandaːtən	kandʌtɛn	kenda-den	kendaden	kəndaten 
+hair: konggot | kanda-den	kanda-der	kandaden	kandaːtən	kandʌtɛn	kenda-den	kendaden	kəndaten 
+hair: ǯu kombot | kanda-den	kanda-der	kandaden	kandaːtən	kandʌtɛn	kenda-den	kendaden	kəndaten 
+hand: kabernya | tan	taːn	tenam 
+hand: taan | tan	taːn	tenam 
+hand: tan | tan	taːn	tenam 
+hand: taːn | tan	taːn	tenam 
+hand: taːn uwet | tan	taːn	tenam 
+hand: tenam | tan	taːn	tenam 
+head: kanda | kanda	kanda-gpi	kandape	kandəbʷe	kenda	kenda-gpe	kunda	kənta 
+head: kanda-gpi | kanda	kanda-gpi	kandape	kandəbʷe	kenda	kenda-gpe	kunda	kənta 
+head: kenda | kanda	kanda-gpi	kandape	kandəbʷe	kenda	kenda-gpe	kunda	kənta 
+head: kenda-gpe | kanda	kanda-gpi	kandape	kandəbʷe	kenda	kenda-gpe	kunda	kənta 
+head: kunda | kanda	kanda-gpi	kandape	kandəbʷe	kenda	kenda-gpe	kunda	kənta 
+hear: komona | kendeyange	komon	komona	komonaŋgə	komoːna	kumon	pomonaŋgə 
+hear: komoːna | kendeyange	komon	komona	komonaŋgə	komoːna	kumon	pomonaŋgə 
+hear: komonanggë | kendeyange	komon	komona	komonaŋgə	komoːna	kumon	pomonaŋgə 
+hear: pomonanggë | kendeyange	komon	komona	komonaŋgə	komoːna	kumon	pomonaŋgə 
+heart: kodat | kodat	kot peŋke	kot-peŋke	kotpem 
+heart: kot-pengke | kodat	kot peŋke	kot-peŋke	kotpem 
+heart: kot peŋke | kodat	kot peŋke	kot-peŋke	kotpem 
+heavy: teŋer | tengeɾ	teŋer	teŋger 
+heavy: tengger | tengeɾ	teŋer	teŋger 
+here: jon | yoanen	you	ǯon	ǯou 
+here: jou | yoanen	you	ǯon	ǯou 
+here: pengpenggi | yoanen	you	ǯon	ǯou 
+here: yoanen | yoanen	you	ǯon	ǯou 
+here: you | yoanen	you	ǯon	ǯou 
+he/she: mi 
+he/she: mie 
+he/she: mu 
+hit: gohainja | gohainǯa	tokonǯa	ŋgobuni 
+hit: gohainya | gohainǯa	tokonǯa	ŋgobuni 
+hit: tokonja | gohainǯa	tokonǯa	ŋgobuni 
+hit: tokonya | gohainǯa	tokonǯa	ŋgobuni 
+hold: noruta | həgɛp 
+hole: kewi 
+hole: pe 
+hole: puku 
+hole: towo-towo-han 
+horn: huer 
+house: weri 
+house: wëri 
+house: wiri 
+house: wuri 
+how: nambate | namgonǯa	noŋbogamin 
+how: namgonǯa | namgonǯa	noŋbogamin 
+how: nunggwete | namgonǯa	noŋbogamin 
+how: tëniep | namgonǯa	noŋbogamin 
+husband: on makot ŋuni | on makot ŋuni	panomi 
+husband: panomi | on makot ŋuni	panomi 
+I: na- | -on	an	on 
+in: -na 
+I: on | -on	an	on 
+I: -on | -on	an	on 
+jaw: borongnia 
+knee: kok-tombon | kok tombon	kok təŋbon	kok-tombon	kok-toŋgbon	koktumbong	kouk tomboːn	kow-toŋ.gbwon	koʔuk-tomboːn	tombon	tumbong 
+knee: kok-tonggbon | kok tombon	kok təŋbon	kok-tombon	kok-toŋgbon	koktumbong	kouk tomboːn	kow-toŋ.gbwon	koʔuk-tomboːn	tombon	tumbong 
+knee: kouk tomboːn | kok tombon	kok təŋbon	kok-tombon	kok-toŋgbon	koktumbong	kouk tomboːn	kow-toŋ.gbwon	koʔuk-tomboːn	tombon	tumbong 
+knee: ko\uk-tomboon | kok tombon	kok təŋbon	kok-tombon	kok-toŋgbon	koktumbong	kouk tomboːn	kow-toŋ.gbwon	koʔuk-tomboːn	tombon	tumbong 
+knee: kow-tong.gbwon | kok tombon	kok təŋbon	kok-tombon	kok-toŋgbon	koktumbong	kouk tomboːn	kow-toŋ.gbwon	koʔuk-tomboːn	tombon	tumbong 
+know: bədede | kende 
+know: bədərik | kende 
+know: kende 
+lake: ham | ham	nam	payor	paǯor	yaːtaːk	ǯatek 
+lake: jatek | ham	nam	payor	paǯor	yaːtaːk	ǯatek 
+lake: pajor | ham	nam	payor	paǯor	yaːtaːk	ǯatek 
+lake: payor | ham	nam	payor	paǯor	yaːtaːk	ǯatek 
+lake: yaːtaːk | ham	nam	payor	paǯor	yaːtaːk	ǯatek 
+laugh: jeda | yeːda	yɛt	ǯeda 
+laugh: yeːda | yeːda	yɛt	ǯeda 
+leaf: adop ten | adop ten	adop-ten-wəhenten	en	ten	teyn	wəhenten 
+leaf: adop-ten-wëhenten | adop ten	adop-ten-wəhenten	en	ten	teyn	wəhenten 
+leaf: ten | adop ten	adop-ten-wəhenten	en	ten	teyn	wəhenten 
+leaf: wəhenten | adop ten	adop-ten-wəhenten	en	ten	teyn	wəhenten 
+left: pem | pem	pɛm 
+leg: kouk | kouk	kowk	koʼuk 
+leg: ko\uk | kouk	kowk	koʼuk 
+leg: kowk | kouk	kowk	koʼuk 
+lie: təmoda | ?kotke 
+lightning: wong-maning 
+lightning: won məniŋ-nia 
+lip: mëhien-geen 
+lip: məhin geːn 
+lip: mhing-geyn 
+live: hira | hira	hirtuda 
+live: hirtuda | hira	hirtuda 
+liver: kot-ngëre | kot ŋəre	kot-ŋəre 
+liver: kot ŋəre | kot ŋəre	kot-ŋəre 
+long: pareka | pareka	pereka	peɾeka	pəɾeka 
+long: pereka | pareka	pereka	peɾeka	pəɾeka 
+long: tweo | pareka	pereka	peɾeka	pəɾeka 
+louse: men 
+louse: mën 
+louse: mən 
+louse: meng 
+louse: meŋ 
+louse: meŋ wun 
+louse: nga-haruk 
+louse: ŋa haruk 
+man: nemeha | tondi 
+man: neméhaar | tondi 
+man: nemehaːr | tondi 
+man: nemenamer | tondi 
+man: nemenamir | tondi 
+man: neme:r | tondi 
+man: nemeːr | tondi 
+many: pukar | pukar	uear	uera	wera 
+many: uear | pukar	uear	uera	wera 
+many: uera | pukar	uear	uera	wera 
+many: wera | pukar	uear	uera	wera 
+meat: duka | kaɣ | duka	dukah	kah	kak	kaɣ 
+meat: dukah | kaɣ | duka	dukah	kah	kak	kaɣ 
+meat: kaɣ | duka	dukah	kah	kak	kaɣ 
+meat: kagh | kaɣ | duka	dukah	kah	kak	kaɣ 
+meat: kak | kaɣ | duka	dukah	kah	kak	kaɣ 
+moon: kaba | kaba	kabah	keba	koba 
+moon: keba | kaba	kabah	keba	koba 
+moon: koba | kaba	kabah	keba	koba 
+morning: hor-hora reda-reda 
+morning: kamer 
+morning: redaï 
+mosquito: kikiben 
+mosquito: kikibon 
+mosquito: kikiwun 
+mother: nou | nou	now	noʔ	noʔu	uwat	uwet 
+mother: no\u | nou	now	noʔ	noʔu	uwat	uwet 
+mother: now | nou	now	noʔ	noʔu	uwat	uwet 
+mother: uwat | nou	now	noʔ	noʔu	uwat	uwet 
+mother: uwet | nou	now	noʔ	noʔu	uwat	uwet 
+mountain: kemina | kemina	keminake	nɛme	tiri	tiɾi	tiɾɪ	təber 
+mountain: keminake | kemina	keminake	nɛme	tiri	tiɾi	tiɾɪ	təber 
+mountain: tëber | kemina	keminake	nɛme	tiri	tiɾi	tiɾɪ	təber 
+mountain: təber | kemina	keminake	nɛme	tiri	tiɾi	tiɾɪ	təber 
+mountain: tiri | kemina	keminake	nɛme	tiri	tiɾi	tiɾɪ	təber 
+mouth: mëhien | mehin	mihin	məhien	məhin 
+mouth: mehin | mehin	mihin	məhien	məhin 
+mouth: məhin | mehin	mihin	məhien	məhin 
+mouth: mihin | mehin	mihin	məhien	məhin 
+name: ne 
+nape: məhek 
+nape: mëhëk 
+nape: waandun 
+nape: waːndun 
+narrow: gëbeh | gəbeh	kodəp koʔ 
+narrow: gəbeh | gəbeh	kodəp koʔ 
+navel: heem 
+navel: heːm 
+navel: pusar 
+near: garanggenon | garaŋgenon	ŋgaraŋ	ŋgraŋ	ŋəraːn 
+near: ngëraan | garaŋgenon	ŋgaraŋ	ŋgraŋ	ŋəraːn 
+near: nggrang | garaŋgenon	ŋgaraŋ	ŋgraŋ	ŋəraːn 
+neck: mehe | mehe	mehek	metare	uanda	uandu 
+neck: mehek | mehe	mehek	metare	uanda	uandu 
+neck: metare | mehe	mehek	metare	uanda	uandu 
+neck: uanda | mehe	mehek	metare	uanda	uandu 
+neck: uandu | mehe	mehek	metare	uanda	uandu 
+new: kahawan | kahawan	kahowan	kahuan	kahwan	kahwaŋ 
+new: kahowan | kahawan	kahowan	kahuan	kahwan	kahwaŋ 
+new: kahuan | kahawan	kahowan	kahuan	kahwan	kahwaŋ 
+new: kahwan | kahawan	kahowan	kahuan	kahwan	kahwaŋ 
+new: kahwang | kahawan	kahowan	kahuan	kahwan	kahwaŋ 
+new: koheher | kahawan	kahowan	kahuan	kahwan	kahwaŋ 
+new: kpen-kpen | kahawan	kahowan	kahuan	kahwan	kahwaŋ 
+night: hahnaho | hahnaho	nahnah	nahnaha	wendoena	wendoːena 
+night: nahnaha | hahnaho	nahnah	nahnaha	wendoena	wendoːena 
+night: wendoena | hahnaho	nahnah	nahnaha	wendoena	wendoːena 
+night: wendoːena | hahnaho	nahnah	nahnaha	wendoena	wendoːena 
+nose: kanangga | kananba	kanaŋga	kanomba	kanoŋga	kanuŋa	kanəbap	kanəŋga	kenomwa 
+nose: kanëngga | kananba	kanaŋga	kanomba	kanoŋga	kanuŋa	kanəbap	kanəŋga	kenomwa 
+nose: kanomba | kananba	kanaŋga	kanomba	kanoŋga	kanuŋa	kanəbap	kanəŋga	kenomwa 
+nose: kanongga | kananba	kanaŋga	kanomba	kanoŋga	kanuŋa	kanəbap	kanəŋga	kenomwa 
+nose: kanunga | kananba	kanaŋga	kanomba	kanoŋga	kanuŋa	kanəbap	kanəŋga	kenomwa 
+nose: kenomwa | kananba	kanaŋga	kanomba	kanoŋga	kanuŋa	kanəbap	kanəŋga	kenomwa 
+not: bon-bohop | bon-bohop	nonop 
+not: nonop | bon-bohop	nonop 
+old: gbek 
+old: hetawandin 
+old: kot-bunburit 
+old: kot-nguni 
+old: kot ŋuni 
+old: towo-wandin 
+one: (hara) pona | hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+one: herewo | hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+one: here-wo | hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+one: həre-wo | hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+one: kwo | hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+one: ndadgob | hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+one: wo | hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+other: kohəre kohe 
+person: tondi 
+play: wegï | weg-weg	wegï 
+play: weg-weg | weg-weg	wegï 
+rain: kəri | kiri	kəri	kərie	kəɾi	ləɾi 
+rain: kërie | kiri	kəri	kərie	kəɾi	ləɾi 
+rain: kiri | kiri	kəri	kərie	kəɾi	ləɾi 
+rat: henggiri 
+rat: kobieta 
+rat: koweta 
+rat: kuwewat 
+red: duoong.ï-ma | duoːŋ.ï-ma	roruma	uonuonma	wonwon	wəngwʊng 
+red: roruma | duoːŋ.ï-ma	roruma	uonuonma	wonwon	wəngwʊng 
+red: uonuonma | duoːŋ.ï-ma	roruma	uonuonma	wonwon	wəngwʊng 
+right: humbo-humbo | tan	taːn	tenam | humbo-humbo	po	poh 
+right: po | tan	taːn	tenam | humbo-humbo	po	poh 
+right: poh | tan	taːn	tenam | humbo-humbo	po	poh 
+ripe: beq 
+ripe: ewek 
+river: kentari | kentari	kouh	kubah	kuhu	kuwah	uada	wadaɾ 
+river: kuhu | kentari	kouh	kubah	kuhu	kuwah	uada	wadaɾ 
+river: uada | kentari	kouh	kubah	kuhu	kuwah	uada	wadaɾ 
+road: ndjot 
+road: neot 
+road: njor 
+road: ntior 
+road: nǯot 
+root: pur 
+rope: tare | tare	taré 
+rope: taré | tare	taré 
+round: kowop-kowopma | kowop-kowopma	popaɾɾong	popoɾon 
+salt: hira 
+sand: hemeng | hemeŋ	hemin	nɛmeŋ 
+sand: hemin | hemeŋ	hemin	nɛmeŋ 
+sand: potietme | hemeŋ	hemin	nɛmeŋ 
+say: pareda | hemeŋ	hemin	nɛmeŋ 
+say: pret! mak-prat! | hemeŋ	hemin	nɛmeŋ 
+scratch: girienta | girienta	ŋgerieŋ 
+sea: kur 
+sea: peher 
+sea: yember 
+seed: keyh | keh	keyh	keⁱ 
+see: këna | ken-aŋge	kenawa	kenit	kondminaŋgə	konomiaŋga	konomiaŋgo	kəna	kənange	kənet 
+see: kəna | ken-aŋge	kenawa	kenit	kondminaŋgə	konomiaŋga	konomiaŋgo	kəna	kənange	kənet 
+see: ken-angge | ken-aŋge	kenawa	kenit	kondminaŋgə	konomiaŋga	konomiaŋgo	kəna	kənange	kənet 
+see: ken-aŋge | ken-aŋge	kenawa	kenit	kondminaŋgə	konomiaŋga	konomiaŋgo	kəna	kənange	kənet 
+see: kenawa | ken-aŋge	kenawa	kenit	kondminaŋgə	konomiaŋga	konomiaŋgo	kəna	kənange	kənet 
+see: kondminanggë | ken-aŋge	kenawa	kenit	kondminaŋgə	konomiaŋga	konomiaŋgo	kəna	kənange	kənet 
+see: konomiangga | ken-aŋge	kenawa	kenit	kondminaŋgə	konomiaŋga	konomiaŋgo	kəna	kənange	kənet 
+see: konomianggo | ken-aŋge	kenawa	kenit	kondminaŋgə	konomiaŋga	konomiaŋgo	kəna	kənange	kənet 
+see: nembuhna | ken-aŋge	kenawa	kenit	kondminaŋgə	konomiaŋga	konomiaŋgo	kəna	kənange	kənet 
+see: rihiːna | ken-aŋge	kenawa	kenit	kondminaŋgə	konomiaŋga	konomiaŋgo	kəna	kənange	kənet 
+sew: hiniya | ŋeitan	ŋgaet 
+sew: ŋeitan | ŋeitan	ŋgaet 
+sharp: tengap | kaŋgap	teŋap 
+sharp: teŋap | kaŋgap	teŋap 
+short: pe | pe	peŋgeh	pɛnge 
+short: penggeh | pe	peŋgeh	pɛnge 
+shoulder: mbeng 
+shoulder: nben 
+sing: məhera | mereh	merehwiyá	məhera	məreha	mɛre 
+sing: mereh | mereh	merehwiyá	məhera	məreha	mɛre 
+sing: mëreha | mereh	merehwiyá	məhera	məreha	mɛre 
+sing: merehwiya! | mereh	merehwiyá	məhera	məreha	mɛre 
+sister: nagatoro 
+sister: nagetoto 
+sister: nan 
+sit: mehen | mehen	mehena 
+sit: mehena | mehen	mehena 
+skin: ngeen | dungaⁱn	ngen	čungɛn	ŋein	ŋeːn	ŋgeyn 
+skin: ngein | dungaⁱn	ngen	čungɛn	ŋein	ŋeːn	ŋgeyn 
+skin: ŋein | dungaⁱn	ngen	čungɛn	ŋein	ŋeːn	ŋgeyn 
+skin: ŋeːn | dungaⁱn	ngen	čungɛn	ŋein	ŋeːn	ŋgeyn 
+skin: nggeyn | dungaⁱn	ngen	čungɛn	ŋein	ŋeːn	ŋgeyn 
+sky: pamani | pamani	won	woŋ 
+sky: wong | pamani	won	woŋ 
+sleep: temot-tokt | temot tok-tok	temot-tokt	tomod yaŋge	tomodaŋgə	tomot	tomurdange	tomut	təmudaŋgə 
+sleep: temot tok-tok | temot tok-tok	temot-tokt	tomod yaŋge	tomodaŋgə	tomot	tomurdange	tomut	təmudaŋgə 
+sleep: tëmudanggë | temot tok-tok	temot-tokt	tomod yaŋge	tomodaŋgə	tomot	tomurdange	tomut	təmudaŋgə 
+sleep: tomodanggë | temot tok-tok	temot-tokt	tomod yaŋge	tomodaŋgə	tomot	tomurdange	tomut	təmudaŋgə 
+sleep: tomod yangge | temot tok-tok	temot-tokt	tomod yaŋge	tomodaŋgə	tomot	tomurdange	tomut	təmudaŋgə 
+sleep: tomod yaŋge | temot tok-tok	temot-tokt	tomod yaŋge	tomodaŋgə	tomot	tomurdange	tomut	təmudaŋgə 
+small: heboor | heboːr	hobor	huboɾ	iskok	takok	ǯəkok 
+small: heboːr | heboːr	hobor	huboɾ	iskok	takok	ǯəkok 
+small: hobor | heboːr	hobor	huboɾ	iskok	takok	ǯəkok 
+small: jëkok | heboːr	hobor	huboɾ	iskok	takok	ǯəkok 
+small: takok | heboːr	hobor	huboɾ	iskok	takok	ǯəkok 
+smell: nəmur | baronia	mbaro 
+smoke: ntoxa | ntogaʔ	ntoxa	toːm doga	tuom-doga 
+smoke: toːm doga | ntogaʔ	ntoxa	toːm doga	tuom-doga 
+smoke: tuom-doga | ntogaʔ	ntoxa	toːm doga	tuom-doga 
+smooth: rahaː-rahama karaŋom ndorina 
+snake: ebang | abang	aβan	ebaŋ	ewan	ko	koh	koːf	koːfh 
+snake: ewan | abang	aβan	ebaŋ	ewan	ko	koh	koːf	koːfh 
+snake: ko | abang	aβan	ebaŋ	ewan	ko	koh	koːf	koːfh 
+snake: koːf | abang	aβan	ebaŋ	ewan	ko	koh	koːf	koːfh 
+snake: koofh | abang	aβan	ebaŋ	ewan	ko	koh	koːf	koːfh 
+sour: kimbida 
+sour: nembur 
+sour: nombur 
+sour: nongbur 
+spit: gember | top	topnia 
+spit: gembor | top	topnia 
+spit: kot-kembor | top	topnia 
+spit: puokta | top	topnia 
+split: temboknia 
+squeeze: kiǯa hiːna | kiǯa hiːna	papiha 
+squeeze: papiha | kiǯa hiːna	papiha 
+stand: hira | hira	nanden	nander	nandeɾ	nandor 
+stand: nanden | hira	nanden	nander	nandeɾ	nandor 
+stand: nander | hira	nanden	nander	nandeɾ	nandor 
+stand: nandor | hira	nanden	nander	nandeɾ	nandor 
+star: kahkiha | bintaŋ	kahkiha	kihkiha	kikiha	kikihah	mbab	mbaːb 
+star: kihkiha | bintaŋ	kahkiha	kihkiha	kikiha	kikihah	mbab	mbaːb 
+star: kikiha | bintaŋ	kahkiha	kihkiha	kikiha	kikihah	mbab	mbaːb 
+star: mbaab | bintaŋ	kahkiha	kihkiha	kikiha	kikihah	mbab	mbaːb 
+star: mbaːb | bintaŋ	kahkiha	kihkiha	kikiha	kikihah	mbab	mbaːb 
+stone: put | put	war	waɾ	waːr	ʔwar 
+stone: waar | put	war	waɾ	waːr	ʔwar 
+stone: war | put	war	waɾ	waːr	ʔwar 
+stone: waːr | put	war	waɾ	waːr	ʔwar 
+straight: po | po	ʔwahwoh 
+suck: doupnta | doupnta	mpeh	nopnia 
+suck: nopnia | doupnta	mpeh	nopnia 
+sun: këmina | keminake	keminakeh	kimina	kəmina	kɛminake	nama 
+sun: kəmina | keminake	keminakeh	kimina	kəmina	kɛminake	nama 
+sun: keminake | keminake	keminakeh	kimina	kəmina	kɛminake	nama 
+sun: kimina | keminake	keminakeh	kimina	kəmina	kɛminake	nama 
+sweet: kameng 
+sweet: keming 
+sweet: yanop taruk 
+swell: reba 
+swim: kuwe | kuwe	nerugo	nuruguda	nəluktange	nəro-taŋgə	nəroekta	nərukta	nəɾok 
+swim: nëroekta | kuwe	nerugo	nuruguda	nəluktange	nəro-taŋgə	nəroekta	nərukta	nəɾok 
+swim: nëro-tanggë | kuwe	nerugo	nuruguda	nəluktange	nəro-taŋgə	nəroekta	nərukta	nəɾok 
+swim: nerugo | kuwe	nerugo	nuruguda	nəluktange	nəro-taŋgə	nəroekta	nərukta	nəɾok 
+swim: nərukta | kuwe	nerugo	nuruguda	nəluktange	nəro-taŋgə	nəroekta	nərukta	nəɾok 
+swim: nuruguda | kuwe	nerugo	nuruguda	nəluktange	nəro-taŋgə	nəroekta	nərukta	nəɾok 
+tail: wor | wor	woɾ 
+take: kodowari 
+take: pinowa 
+take: wenja 
+take: wenya 
+that: gih-mo | gih-mo	kih-ime | hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+that: kih-ime | gih-mo	kih-ime | hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+there: bangor | baŋor	giah-men 
+there: giah-men | baŋor	giah-men 
+they: etermo | ki	mia wahede	mižunk-ndoe	ɾokmo 
+they: inwaartenggodonggo | ki	mia wahede	mižunk-ndoe	ɾokmo 
+they: ki | ki	mia wahede	mižunk-ndoe	ɾokmo 
+they: mijhunk-ndoe | ki	mia wahede	mižunk-ndoe	ɾokmo 
+they: rukno | ki	mia wahede	mižunk-ndoe	ɾokmo 
+they: waatmo | ki	mia wahede	mižunk-ndoe	ɾokmo 
+thick: baŋor | baŋor	mpaŋgol 
+thigh: kok-mbung 
+thigh: kok-nbun 
+thigh: ko\uk-mbun 
+thigh: kouk mbun 
+thin: giːhi-giːhi | giːhi-giːhi	kamakam 
+think: nënenoekta | nenuʔ	nənenoekta	nənenukta	nənoek-toada 
+think: nənenukta | nenuʔ	nənenoekta	nənenukta	nənoek-toada 
+think: nënoek-toada | nenuʔ	nənenoekta	nənenukta	nənoek-toada 
+this: giho | giho	kiho	me	ǯo 
+this: jo | giho	kiho	me	ǯo 
+this: kiho | giho	kiho	me	ǯo 
+this: me | giho	kiho	me	ǯo 
+thorn: rom-rom 
+thorn: tambe 
+thou: ki | ko	kow 
+thou: ko | ko	kow 
+thou: -ko | ko	kow 
+thou: kow | ko	kow 
+three: haratey | haratey	here-teri	hereteri	heretéri	heɾetiɾi	həre-teri	isteɾi	ndateri	terie 
+three: hereteri | haratey	here-teri	hereteri	heretéri	heɾetiɾi	həre-teri	isteɾi	ndateri	terie 
+three: here-teri | haratey	here-teri	hereteri	heretéri	heɾetiɾi	həre-teri	isteɾi	ndateri	terie 
+three: həre-teri | haratey	here-teri	hereteri	heretéri	heɾetiɾi	həre-teri	isteɾi	ndateri	terie 
+three: ndateri | haratey	here-teri	hereteri	heretéri	heɾetiɾi	həre-teri	isteɾi	ndateri	terie 
+three: terie | haratey	here-teri	hereteri	heretéri	heɾetiɾi	həre-teri	isteɾi	ndateri	terie 
+throat: mëhek 
+throat: məhek 
+thunder: pamani 
+thunder: pamanie 
+thunder: pandaripan 
+thunder: won 
+tie: ngorokna | nkorok	ŋorokna 
+today: gb.edi 
+today: wenggihoge 
+tomorrow: horhora 
+tomorrow: hor-hora 
+tomorrow: ohora 
+tomorrow: reinet 
+tongue: genabu | genabu	geŋabu	mgenumbʊk	ngengabʊ	ŋgegabu	ŋgembor	ŋgeŋ	ŋgeŋgawo 
+tongue: gengabu | genabu	geŋabu	mgenumbʊk	ngengabʊ	ŋgegabu	ŋgembor	ŋgeŋ	ŋgeŋgawo 
+tongue: nggembor | genabu	geŋabu	mgenumbʊk	ngengabʊ	ŋgegabu	ŋgembor	ŋgeŋ	ŋgeŋgawo 
+tongue: nggeng(gawo) | genabu	geŋabu	mgenumbʊk	ngengabʊ	ŋgegabu	ŋgembor	ŋgeŋ	ŋgeŋgawo 
+tooth: mëhien-tab | mihin-tap	mihintap	məhien-tab	məhim taːb 
+tooth: məhim taːb | mihin-tap	mihintap	məhien-tab	məhim taːb 
+tooth: məhin peha | mihin-tap	mihintap	məhien-tab	məhim taːb 
+tooth: mihin-tap | mihin-tap	mihintap	məhien-tab	məhim taːb 
+tree: adogbre 
+tree: ado:p 
+tree: adoːp 
+tree: adop paha 
+tree: adop-paha 
+tree: tom 
+two: harari | harari	he-rik	here-n	hereri	hererîk	heʀeʀik	həre-rik	ihɾik	ndadəri	riek	rik 
+two: here-n | harari	he-rik	here-n	hereri	hererîk	heʀeʀik	həre-rik	ihɾik	ndadəri	riek	rik 
+two: hereri | harari	he-rik	here-n	hereri	hererîk	heʀeʀik	həre-rik	ihɾik	ndadəri	riek	rik 
+two: həre-rik | harari	he-rik	here-n	hereri	hererîk	heʀeʀik	həre-rik	ihɾik	ndadəri	riek	rik 
+two: (he-)rik | harari	he-rik	here-n	hereri	hererîk	heʀeʀik	həre-rik	ihɾik	ndadəri	riek	rik 
+two: (he)rik | harari	he-rik	here-n	hereri	hererîk	heʀeʀik	həre-rik	ihɾik	ndadəri	riek	rik 
+two: ndadəri | harari	he-rik	here-n	hereri	hererîk	heʀeʀik	həre-rik	ihɾik	ndadəri	riek	rik 
+two: riek | harari	he-rik	here-n	hereri	hererîk	heʀeʀik	həre-rik	ihɾik	ndadəri	riek	rik 
+unripe: kpent 
+unripe: pen-pen 
+unripe: pent 
+vagina: kaar 
+vagina: kar 
+vagina: kaːr 
+vomit: wurukta | wuruk	wurukta 
+walk: hanggë | haŋgə	wahangi	wanaŋgə	wehet	wekodan	yenta 
+walk: waha | haŋgə	wahangi	wanaŋgə	wehet	wekodan	yenta 
+walk: wahaːŋe | haŋgə	wahangi	wanaŋgə	wehet	wekodan	yenta 
+walk: wakodan | haŋgə	wahangi	wanaŋgə	wehet	wekodan	yenta 
+walk: wananggë | haŋgə	wahangi	wanaŋgə	wehet	wekodan	yenta 
+walk: wekodan | haŋgə	wahangi	wanaŋgə	wehet	wekodan	yenta 
+walk: wohe! | haŋgə	wahangi	wanaŋgə	wehet	wekodan	yenta 
+walk: wohet | haŋgə	wahangi	wanaŋgə	wehet	wekodan	yenta 
+walk: yenta | haŋgə	wahangi	wanaŋgə	wehet	wekodan	yenta 
+warm: heip | heip	hekp	hep	seip 
+warm: hekp | heip	hekp	hep	seip 
+warm: hep | heip	hekp	hep	seip 
+warm: seip | heip	hekp	hep	seip 
+wash: berangja | beraŋta	beraŋya	beraŋǯa	pokta	poʔ 
+wash: berangta | beraŋta	beraŋya	beraŋǯa	pokta	poʔ 
+wash: beraŋya | beraŋta	beraŋya	beraŋǯa	pokta	poʔ 
+wash: kera peiriri | beraŋta	beraŋya	beraŋǯa	pokta	poʔ 
+wash: pokta | beraŋta	beraŋya	beraŋǯa	pokta	poʔ 
+water: kara | kara	karaʔ	kera	kra	kəra 
+water: kera | kara	karaʔ	kera	kra	kəra 
+water: këra | kara	karaʔ	kera	kra	kəra 
+water: kəra | kara	karaʔ	kera	kra	kəra 
+water: kəra kendep | kara	karaʔ	kera	kra	kəra 
+water: kəra nbuder | kara	karaʔ	kera	kra	kəra 
+water: kra | kara	karaʔ	kera	kra	kəra 
+we: bi | bi	in	iniɾegendɪk	mbi 
+weep: kod-kenewa 
+weep: kot-kenewa 
+weep: namatanggë 
+weep: nametanggë 
+weep: nëmata 
+weep: nəmata 
+weep: nemota 
+weep: nomad 
+we: in | bi	in	iniɾegendɪk	mbi 
+we (incl.): in 
+we: mbi | bi	in	iniɾegendɪk	mbi 
+we: mbien | bi	in	iniɾegendɪk	mbi 
+we: mbin | bi	in	iniɾegendɪk	mbi 
+we: mpi | bi	in	iniɾegendɪk	mbi 
+wet: ha | ha	hembokhomboge	hombokhomboga	kembor-kembora	kombo-kombor	kombokomboɾ 
+wet: kembor-kembora | ha	hembokhomboge	hombokhomboga	kembor-kembora	kombo-kombor	kombokomboɾ 
+wet: kombo-kombor | ha	hembokhomboge	hombokhomboga	kembor-kembora	kombo-kombor	kombokomboɾ 
+we two: ingke 
+we two: injhu-rik 
+what: nëmbunggja | no.gbonža	noŋbo	nuŋgwa.kpea	nəmbuŋgǯa	tabe 
+what: no.gbonjha | no.gbonža	noŋbo	nuŋgwa.kpea	nəmbuŋgǯa	tabe 
+what: nongbo | no.gbonža	noŋbo	nuŋgwa.kpea	nəmbuŋgǯa	tabe 
+what: noŋbo | no.gbonža	noŋbo	nuŋgwa.kpea	nəmbuŋgǯa	tabe 
+what: nunggwa.kpea | no.gbonža	noŋbo	nuŋgwa.kpea	nəmbuŋgǯa	tabe 
+where: tebon | tebon	tobonin	təbon 
+where: təbon | tebon	tobonin	təbon 
+white: bunbun | bunbun	bunt	buoŋt	mbiongmbiong	mbǯoŋmbǯong 
+white: bunt | bunbun	bunt	buoŋt	mbiongmbiong	mbǯoŋmbǯong 
+white: buongt | bunbun	bunt	buoŋt	mbiongmbiong	mbǯoŋmbǯong 
+who: donke | donke	kondo	konton	ndon 
+who: kondo | donke	kondo	konton	ndon 
+who: konton | donke	kondo	konton	ndon 
+who: ndon | donke	kondo	konton	ndon 
+wide: wera | kamï	lebar	wera	wudu-woda 
+wide: wudu-woda | kamï	lebar	wera	wudu-woda 
+wife: kekehik | kekehik	on ma pinde	pinde 
+wife: on ma pinde | kekehik	on ma pinde	pinde 
+wife: pinde | kekehik	on ma pinde	pinde 
+wind: kemboːm | kemboːm	kombom	kombon	konbong	moron 
+wind: kemboom | kemboːm	kombom	kombon	konbong	moron 
+wind: kombon | kemboːm	kombom	kombon	konbong	moron 
+wind: moron | kemboːm	kombom	kombon	konbong	moron 
+wing: kajbe\ | kamen-kawek	kamin	kaǯbeʔ	kɛbeʔ 
+wing: kamen-kawek | kamen-kawek	kamin	kaǯbeʔ	kɛbeʔ 
+wing: kamin | kamen-kawek	kamin	kaǯbeʔ	kɛbeʔ 
+with: gobərun 
+woman: tambahar | tambahae	tambahar	tembeha	tombohaːr	tondi təmbahar	totor	təmbahar 
+woman: tombohaar | tambahae	tambahar	tembeha	tombohaːr	tondi təmbahar	totor	təmbahar 
+woman: tombohaːr | tambahae	tambahar	tembeha	tombohaːr	tondi təmbahar	totor	təmbahar 
+woman: totor | tambahae	tambahar	tembeha	tombohaːr	tondi təmbahar	totor	təmbahar 
+wood: adop 
+wood: anop pihewo 
+year: yaːr 
+yellow: bug-bug-ma | bug-bug-ma	mbuk-mbuk	mbukï	ram-rame 
+yellow: mbukï | bug-bug-ma	mbuk-mbuk	mbukï	ram-rame 
+yellow: mbuk-mbuk | bug-bug-ma	mbuk-mbuk	mbukï	ram-rame 
+yellow: ram-rame | bug-bug-ma	mbuk-mbuk	mbukï	ram-rame 
+yesterday: kuembot 
+yesterday: piembot 
+yesterday: pimbot 
+you: ki | ko	kow | ki	kie	meru	oite 
+you: kie | ko	kow | ki	kie	meru	oite 
+you: meru | ko	kow | ki	kie	meru	oite 
+you: oite | ko	kow | ki	kie	meru	oite 
+you two: kijhu-rik 
+every: horeŋəndik	həɾeɾəndik	nɛrɛgɛndi	rukindi 
+ash: paʊn	pon	poun	poːn 
+abdomen: kod-kperi	kor-peri	kot peri	kot-peri 
+bigness: harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+large: harawi	harewi	herewi	heɾewi	isuwi	kinwi	wera 
+breasts: hol	hon	kot padin 
+come from: hawoda	hawor	howod	howot	howot-pede	kowit́ 
+be dead: kimya	kəmiri	kəmiɾik 
+dead: kimya	kəmiri	kəmiɾik 
+ground: pat	paːt 
+land: pat	paːt 
+soil: pat	paːt 
+fly: burudaŋgə	kukudaŋ	kurudaŋ	pruda	puruʔ 
+fly v.: burudaŋgə	kukudaŋ	kurudaŋ	pruda	puruʔ 
+left hand: tan	taːn	tenam 
+1 sg.: -on	an	on 
+kill: ponyang	tohkimi 
+be knowledgeable: kende 
+male: nameha	nemeha	nemehaːr	nemehue	nemenamer	nemenamir	nemeːr	neméhaːr	tondi nɛmehar 
+much: pukar	uear	uera	wera 
+multiple: pukar	uear	uera	wera 
+several: pukar	uear	uera	wera 
+flesh: kaɣ 
+hill: kemina	keminake	nɛme	tiri	tiɾi	tiɾɪ	təber 
+title: ne 
+nighttime: hahnaho	nahnah	nahnaha	wendoena	wendoːena 
+adulterous: hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+single: hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+the: hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+unprincipled: hara pona	here-wo	herewo	heréwo	heɾewʊ	həre-wo	isbo	kwo	ndadgob	pona	wo	ɾepona 
+human: tondi 
+human being: tondi 
+rainy weather: kiri	kəri	kərie	kəɾi	ləɾi 
+hide: dungaⁱn	ngen	čungɛn	ŋein	ŋeːn	ŋgeyn 
+little: heboːr	hobor	huboɾ	iskok	takok	ǯəkok 
+smallness: heboːr	hobor	huboɾ	iskok	takok	ǯəkok 
+rock: put	war	waɾ	waːr	ʔwar 
+2 sg: ko	kow 
+grind: harari	he-rik	here-n	hereri	hererîk	heʀeʀik	həre-rik	ihɾik	ndadəri	riek	rik 
+go: haŋgə	wahangi	wanaŋgə	wehet	wekodan	yenta 
+hot: heip	hekp	hep	seip 
+1 pl. inc.: bi	in	iniɾegendɪk	mbi 
+we₁: bi	in	iniɾegendɪk	mbi 
+whiteness: bunbun	bunt	buoŋt	mbiongmbiong	mbǯoŋmbǯong 
+who?: donke	kondo	konton	ndon 
+female: tambahae	tambahar	tembeha	tombohaːr	tondi təmbahar	totor	təmbahar 
+distant: pie	rokiadet	ʔpiet 
+dull: tengeɾ	teŋer	teŋger 
+serious: tengeɾ	teŋer	teŋger 
+close: garaŋgenon	ŋgaraŋ	ŋgraŋ	ŋəraːn 
+ner: garaŋgenon	ŋgaraŋ	ŋgraŋ	ŋəraːn 
+earthworm: ngoɾ	pat memeɾewa 
+worm: ngoɾ	pat memeɾewa 
+3 sg.: mi	mie	mu 
+he: mi	mie	mu 
+she: mi	mie	mu 
+2 pl.: ki	kie	meru	oite 
+ye: ki	kie	meru	oite 
+you all: ki	kie	meru	oite 
+3 pl.: ki	mia wahede	mižunk-ndoe	ɾokmo 
+where?: tebon	tobonin	təbon 
+how?: namgonǯa	noŋbogamin 
+broad: kamï	lebar	wera	wudu-woda 
+wideness: kamï	lebar	wera	wudu-woda 
+fat: baŋor	mpaŋgol 
+principal wife: kekehik	on ma pinde	pinde 
+his mother: nou	now	noʔ	noʔu	uwat	uwet 
+my mother: nou	now	noʔ	noʔu	uwat	uwet 
+his father: ade	nia	niaʔ 
+my father: ade	nia	niaʔ 
+woods: bua	buwak	bʊak	tewer	ʔpuak 
+stick: adep-kagat	adop taŋen	adop-taŋen	honod 
+cord: tare	taré 
+claw: pe	peh	tan peh	tan-peh	tan-peih	tan-tuber	yan-pek 
+nail: pe	peh	tan peh	tan-peh	tan-peih	tan-tuber	yan-pek 
+gut: -dudare	kor-peri-dare	kumbun-tare	kumbuntare 
+insides: -dudare	kor-peri-dare	kumbun-tare	kumbuntare 
+intestine: -dudare	kor-peri-dare	kumbun-tare	kumbuntare 
+intestines: -dudare	kor-peri-dare	kumbun-tare	kumbuntare 
+breath: kəda hoda 
+laughter: yeːda	yɛt	ǯeda 
+cogitate: nenuʔ	nənenoekta	nənenukta	nənoek-toada 
+reflect: nenuʔ	nənenoekta	nənenukta	nənoek-toada 
+sniff: baronia	mbaro 
+afraid: kotminyet 
+be afraid: kotminyet 
+fright: kotminyet 
+alive: hira	hirtuda 
+be alive: hira	hirtuda 
+life: hira	hirtuda 
+living: hira	hirtuda 
+fight: kənun 
+beat: gohainǯa	tokonǯa	ŋgobuni 
+strike: gohainǯa	tokonǯa	ŋgobuni 
+hack: pora 
+cut open: temboknia 
+pierce: tuknia 
+stab: tuknia 
+lie down: ?kotke 
+tell lies: ?kotke 
+drop: hapoǯa	hokbu 
+grasp: həgɛp 
+hold in arm: həgɛp 
+wring: kiǯa hiːna	papiha 
+wash clothes: beraŋta	beraŋya	beraŋǯa	pokta	poʔ 
+throw: waharukn 
+bind: nkorok	ŋorokna 
+fasten: nkorok	ŋorokna 
+tie up: nkorok	ŋorokna 
+enumerate: nenboda	neŋbodaŋ 
+number: nenboda	neŋbodaŋ 
+tally: nenboda	neŋbodaŋ 
+have fun: weg-weg	wegï 
+brook: kentari	kouh	kubah	kuhu	kuwah	uada	wadaɾ 
+stream: kentari	kouh	kubah	kuhu	kuwah	uada	wadaɾ 
+fog: mərop 
+blaze: kəria 
+evil: koter	koteter	kotitir 
+filthy: hugo-hugo	patpadi 
+soiled: hugo-hugo	patpadi 
+blunt: hɛkhega	ndəgit-ndəgit 
+damp: ha	hembokhomboge	hombokhomboga	kembor-kembora	kombo-kombor	kombokomboɾ 
+right side: humbo-humbo	po	poh 
+inside: -na 

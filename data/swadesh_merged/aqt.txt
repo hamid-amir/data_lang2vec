@@ -1,0 +1,309 @@
+all: akwankakhoho	akyokhoho 
+every: akwankakhoho	akyokhoho 
+ash: tahap 
+ashes: tahap 
+bark: yamit ayimpihik 
+big: akyawaia	awanhi 
+bigness: akyawaia	awanhi 
+large: akyawaia	awanhi 
+bird: nata 
+bite: aktakɬima	aptakɬima 
+black: -paisiyam 
+blood: ima 
+bone: aLkapok	apiLkapok	apiɬkapok	aɬkapok 
+breast: nimi 
+breasts: nimi 
+claw: aphiyok 
+nail: aphiyok 
+talon: aphiyok 
+cloud: yiphopaia nitiŋ 
+cold: amaɬkawoi 
+come: ankiLy~akmi	ankiɬyakmi	apkiLy~akmi	apkiɬyakmi 
+come from: ankiLy~akmi	ankiɬyakmi	apkiLy~akmi	apkiɬyakmi 
+be dead: ankitsipki	atkitsipki 
+dead: ankitsipki	atkitsipki 
+die: ankitsipki	atkitsipki 
+dog: atsimhin	atsimh~in 
+drink: anyinki	any~inki	apyinki	apy~inki 
+dry: anyima-awoi 
+ear: ahaikok 
+earth: ɬipop anak 
+ground: ɬipop anak 
+land: ɬipop anak 
+soil: ɬipop anak 
+eat: ap-taoki ap-toma 
+egg: apok 
+eye: aktik 
+feather: awa 
+fire: taLa	taɬa 
+fish: kilasma 
+fly: ankimpaayi 
+fly v.: ankimpaayi 
+foot: amnik	ap-minik 
+full: ampaksaski 
+give: ankanki	apkanki	askanki 
+good: antasi 
+green: akhanaktima 
+hair: awa 
+hand: a-mik	amik	ap-mik	apmik 
+left hand: a-mik	amik	ap-mik	apmik 
+right: a-mik	amik	ap-mik	apmik 
+head: apkatik 
+hear: apniNayi	apniŋayi 
+heart: akyiphima	apyiphima 
+horn: ankapit 
+1 sg.: ko	koo 
+I: ko	koo 
+kill: apkakhayi 
+knee: aptapnik	atapnik 
+be knowledgeable: apyasinkoi 
+know: apyasinkoi 
+leaf: awa 
+lie: apyitniyi 
+lie down: apyitniyi 
+liver: aihikhik	aihikh~ik	aphikhik	aph~ikh~ik 
+long: ahaoɬi	akwinaktima 
+head louse: pitim 
+louse: pitim 
+male: apkinawo	inɬit 
+man: inLit	ininLit	ininɬit	inɬit 
+many: anɬanyi 
+much: anɬanyi 
+multiple: anɬanyi 
+several: anɬanyi 
+flesh: iŋhapitik 
+meat: iŋhapitik 
+moon: piɬtin 
+hill: mitaimoN	mitaimoŋ 
+mountain: mitaimoN	mitaimoŋ 
+mouth: atoŋ 
+name: akwisaia	akw~isaia 
+title: akwisaia	akw~isaia 
+new: alipanki 
+night: piLasip	piɬasip 
+nighttime: piLasip	piɬasip 
+nose: awahik 
+adulterous: Lima	insˣipoèé 
+one: Lima	insˣipoèé 
+single: Lima	insˣipoèé 
+that: Lima	insˣipoèé 
+the: Lima	insˣipoèé 
+unprincipled: Lima	insˣipoèé 
+human: inLit	ininLit	ininɬit	inɬit 
+human being: inLit	ininLit	ininɬit	inɬit 
+person: inLit	ininLit	ininɬit	inɬit 
+rain: akmamaia 
+rainy weather: akmamaia 
+red: akyiswasima 
+path: amai 
+road: amai 
+route: amai 
+root: apkapminaok 
+round: akyakyima 
+sand: ɬipop anik 
+say: antahak	aptahak 
+see: akwitayi	akw~itayi 
+seed: aktik 
+sit: apniyi 
+hide: inyimpihik	iny~impihik 
+skin: inyimpihik	iny~impihik 
+sleep: aptiyanma 
+little: apkitkitsoi	apkitsoi 
+small: apkitkitsoi	apkitsoi 
+smallness: apkitkitsoi	apkitsoi 
+smoke: itiŋ 
+star: apyaoa	apy~aoa 
+rock: mitaimoN	mitaimoŋ 
+stone: mitaimoN	mitaimoŋ 
+sun: aknim 
+swim: akmama yimin 
+tail: aipakyik 
+2 sg: Liya	Liyap	ɬiya	ɬiyap 
+thou: Liya	Liyap	ɬiya	ɬiyap 
+you: Liya	Liyap	ɬiya	ɬiyap 
+tongue: aLkok	aɬkok 
+tooth: amaok 
+tree: yamit aohak 
+grind: akanit	apkanit	incanéᵢt 
+two: akanit	apkanit	incanéᵢt 
+go: anɬinki	apɬinki 
+walk: anɬinki	apɬinki 
+hot: mankomiɬnawoho 
+warm: mankomiɬnawoho 
+water: yimin 
+1 pl. inc.: ininko 
+we: ininko 
+we₁: ininko 
+what: inkai aktaha	sik...ki	siktoi 
+white: -mopaia 
+whiteness: -mopaia 
+who: sik inɬit ki 
+who?: sik inɬit ki 
+female: ankilwana 
+woman: ankilwana 
+yellow: akyitiktima 
+distant: mokhoi	tiyipi 
+far: mokhoi	tiyipi 
+dull: amopi 
+heavy: amopi 
+serious: amopi 
+close: ankitoi 
+near: ankitoi 
+ner: ankitoi 
+salt: yamayasik 
+short: anyakwatawoi 
+snake: akyiwa 
+thin: anyimhoi 
+wind: apyayaam 
+earthworm: kona-ɬipop 
+worm: kona-ɬipop 
+year: yantiɬkapa 
+2 pl.: ɬinka	ɬinkap 
+ye: ɬinka	ɬinkap 
+you all: ɬinka	ɬinkap 
+3 pl.: zero 
+they: zero 
+where: inkai 
+where?: inkai 
+when: inkai akwaam 
+when?: inkai akwaam 
+how: ikai aktaha 
+how?: ikai aktaha 
+few: ɬima-aktoi	ɬima-apaktoi 
+three: mickína-mijhmíc-moóc	mitki amiɬma mook 
+four: amiɬmankoi mook	islaˣ memeén-cawói 
+five: sˣimimmíc	ɬima imik 
+broad: awanhi 
+wide: awanhi 
+wideness: awanhi 
+fat: akpiɬmok 
+thick: anyintiɬit 
+narrow: anyima-awoi 
+child: apkitka 
+principal wife: ap-tawa 
+wife: ap-tawa 
+husband: a-tawa 
+his mother: ankin 
+mother: ankin 
+my mother: ankin 
+father: anyapoŋ	apyapoŋ 
+his father: anyapoŋ	apyapoŋ 
+my father: anyapoŋ	apyapoŋ 
+animal: antaa 
+forest: aɬma 
+woods: aɬma 
+branch: aktiaok	aktiŋaok 
+stick: aktiaok	aktiŋaok 
+fruit: panaktima akyiɬna 
+flower: panaktima aɬnimok 
+grass: paat 
+cord: tama 
+rope: tama 
+grease: akpiɬmok 
+fingernail: iyip-hihik 
+leg: apiɬkapok	aɬkapok 
+wing: apɬimpinik 
+gut: milaok 
+guts: milaok 
+insides: milaok 
+intestine: milaok 
+intestines: milaok 
+back: apkapok 
+suck: ankatakponki yimin 
+spit: ankiɬpaisiyi	apkiɬpaisiyi 
+vomit: akyikɬima	apyikɬima 
+blow: akwatipnapki	anwatipnapki 
+breath: ni-amnimama 
+breathe: ni-amnimama 
+laugh: ankaktimiyi 
+laughter: ankaktimiyi 
+cogitate: apɬinki akwaɬwok 
+reflect: apɬinki akwaɬwok 
+think: apɬinki akwaɬwok 
+smell: antikhanki 
+sniff: antikhanki 
+afraid: apkak-ayi 
+be afraid: apkak-ayi 
+fear: apkak-ayi 
+fright: apkak-ayi 
+alive: amokhamanki	apmokhamanki 
+be alive: amokhamanki	apmokhamanki 
+life: amokhamanki	apmokhamanki 
+live: amokhamanki	apmokhamanki 
+living: amokhamanki	apmokhamanki 
+fight: apkinapikpiyi	apkinapomaap 
+hunt: apkiɬpakwakmi 
+beat: antikponki	aptikponki 
+hit: antikponki	aptikponki 
+strike: antikponki	aptikponki 
+cut: ampiɬyikhaayi	apiɬyikhaayi 
+hack: ampiɬyikhaayi	apiɬyikhaayi 
+pierce: apkiɬyipɬaayi 
+stab: apkiɬyipɬaayi 
+dig: apmitmiyi 
+tell lies: apmokwanko 
+stand: apkitnimki nitiŋ 
+turn: -painkakpi 
+turn around: -painkakpi 
+turn round: -painkakpi 
+drop: antiyakmi	aptiyakmi 
+fall: antiyakmi	aptiyakmi 
+grasp: amanki	apmanki 
+hold: amanki	apmanki 
+hold in arm: amanki	apmanki 
+squeeze: ankiɬpiɬyankakmi 
+wring: ankiɬpiɬyankakmi 
+rub: ankiɬpiwiski	apkiɬpiwiski 
+wipe: ankiɬpiwiski	apkiɬpiwiski 
+wash: ankilaɬnaski 
+wash clothes: ankilaɬnaski 
+push: apyihinki 
+shove: apyihinki 
+throw: anyiyaoki	apyiyaoki 
+bind: antitki 
+fasten: antitki 
+tie: antitki 
+tie up: antitki 
+sew: nilyitnaia yitipipa 
+count: apkilyitsitki 
+enumerate: apkilyitsitki 
+number: apkilyitsitki 
+tally: apkilyitsitki 
+sing: apkaikmaski 
+float: ansawimaktakha 
+flow: akyiŋama 
+brook: watsom 
+river: watsom 
+stream: watsom 
+ocean: akpaihikamok yimin 
+sea: akpaihikamok yimin 
+dust: ɬipop ampaia 
+fog: timitiŋ 
+sky: nitiŋ 
+snow: apyayaam apok 
+ice: laklaimin 
+blaze: anmitki 
+burn: anmitki 
+day: aknim 
+daylight: aknim 
+daytime: aknim 
+bad: asonkoi 
+evil: asonkoi 
+rot: antahapki 
+rotten: antahapki 
+dirty: ankiɬpaisakmoi 
+filthy: ankiɬpaisakmoi 
+soiled: ankiɬpaisakmoi 
+straight: ampiwawoi 
+sharp: ahantoho 
+blunt: mitki ahantik 
+smooth: ankaɬnawoi 
+damp: alyinsimama	anyinsimoi 
+wet: alyinsimama	anyinsimoi 
+correct: nakhoi 
+right side: akyinakha 
+left: asankalwi 
+in: awaɬwok	koni 
+inside: awaɬwok	koni 
+and: anhan	nahan 
+if: laa 

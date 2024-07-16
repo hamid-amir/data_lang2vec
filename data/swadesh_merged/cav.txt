@@ -1,0 +1,312 @@
+all: doty~a	dotʸa	yota 
+every: doty~a	dotʸa	yota 
+ash: moro 
+ashes: moro 
+bark: akw~ibiti	e-biti 
+big: ari-da	ari-na	arida	ebari 
+bigness: ari-da	ari-na	arida	ebari 
+large: ari-da	ari-na	arida	ebari 
+bird: chai	čai 
+bite: karo	karo-ya 
+black: sebe	sewe-da 
+blood: ami 
+bone: cau	e-c̷ao	ecao 
+breast: acu	yakw~a	yakʷa 
+breasts: acu	yakw~a	yakʷa 
+claw: emeSoro 
+nail: emeSoro 
+talon: emeSoro 
+cloud: wani 
+cold: ba-da-ke	badake	bane- 
+come: he	he-ya	heti-ya	kabeti 
+come from: he	he-ya	heti-ya	kabeti 
+be dead: maho	maho-ya-ke	mahu 
+dead: maho	maho-ya-ke	mahu 
+die: maho	maho-ya-ke	mahu 
+dog: Capa	capa	čapa 
+drink: ihi	ihi-ya 
+dry: e-ora	eorake 
+ear: iha-ka	ihaka 
+earth: meChi	meči	yawa 
+ground: meChi	meči	yawa 
+land: meChi	meči	yawa 
+soil: meChi	meči	yawa 
+eat: ara	ara-ara-ya	ara-ya	arara 
+egg: e-ka	eka 
+eye: atuka	ya-to-ka	yatoka 
+fat: eceri 
+fat n.: eceri 
+grease: eceri 
+lubricant: eceri 
+oil: eceri 
+feather: e-kata	ekata	ododo 
+fire: e-ti-ki	etiki	tiki 
+fish: ha7e	hae 
+fly: heta-ya	hetaya 
+fly v.: heta-ya	hetaya 
+foot: e-wači	ewaCi 
+full: e-he-ke	eheke 
+give: ty~a	tʸa-ya 
+good: hida	hida-kʷita	hidakw~ita 
+green: sawa	sawa-da 
+hair: e-c̷aro	ecaro 
+hand: e-me-toko	emetoko	metuku 
+left hand: e-me-toko	emetoko	metuku 
+right: e-me-toko	emetoko	metuku 
+head: i-yo-ka	iyoka 
+hear: baka	baka-ya 
+heart: e-niho	eniho 
+horn: dana	e-dana	edana 
+1 sg.: i-ke	ike 
+I: i-ke	ike 
+kill: iye	iye-ya 
+knee: e-dana-ka	edanaka 
+be knowledgeable: babe	bawe-dʸa 
+know: babe	bawe-dʸa 
+leaf: e-haki	ehaki	haki 
+lie: ha-ra-ya 
+lie down: ha-ra-ya 
+liver: e-takʷa	etakw~a	takw~a 
+long: hono-da	honoda 
+head louse: bia 
+louse: bia 
+male: deka	ekw~ita 
+man: e-kʷita	ekw~ita	kisty~anu 
+many: hetiama	oma-da	omado 
+much: hetiama	oma-da	omado 
+multiple: hetiama	oma-da	omado 
+several: hetiama	oma-da	omado 
+flesh: e-rami	erami 
+meat: e-rami	erami 
+moon: badi 
+hill: emata	owa-kʷemoso 
+mountain: emata	owa-kʷemoso 
+mouth: e-kʷac̷a	ekw~aca 
+name: bakani	e-ba-ka-ni	ebakani 
+title: bakani	e-ba-ka-ni	ebakani 
+neck: e-piti	epiti 
+new: i-akʷa-ke	iyakw~ake	nana 
+night: apuna	cine	meta 
+nighttime: apuna	cine	meta 
+nose: e-wi	ebi	wikani 
+not: aihama 
+adulterous: peadya	peady~a 
+one: peadya	peady~a 
+single: peadya	peady~a 
+that: yomeke 
+the: peadya	peady~a 
+unprincipled: peadya	peady~a 
+human: e-kʷita	ekw~ita	kisty~anu 
+human being: e-kʷita	ekw~ita	kisty~anu 
+person: e-kʷita	ekw~ita	kisty~anu 
+rain: nei 
+rainy weather: nei 
+red: pode	pode-da 
+path: diyi	ekari 
+road: diyi	ekari 
+route: diyi	ekari 
+root: e-tiri	etiri 
+round: kw~areroda	kʷarero-da 
+sand: mehihi 
+say: a	a-ya	kw~eha	kʷeha-ya 
+see: ba	ba-ya 
+seed: e-kaka	ekaka 
+sit: ani-bote-ya	anibote 
+hide: biti	e-biti	ebiti 
+skin: biti	e-biti	ebiti 
+sleep: tabi	tawi-ya 
+little: aCaC	ačača 
+small: aCaC	ačača 
+smallness: aCaC	ačača 
+smoke: wani 
+star: porari 
+rock: duci	makane	tomo 
+stone: duci	makane	tomo 
+sun: iheti 
+swim: beca	bec̷a-ya 
+tail: iwa 
+this: he7eke	rike 
+2 sg: mi	mi-ke	mike 
+thou: mi	mi-ke	mike 
+you: mi	mi-ke	mike 
+tongue: ana	yana 
+tooth: ce	e-c̷e	ece 
+tree: akw~i 
+grind: beta 
+two: beta 
+go: ahe	ahe-ya	honeni 
+walk: ahe	ahe-ya	honeni 
+hot: oke-da 
+warm: oke-da 
+water: e-na	ena	na 
+1 pl. inc.: ekw~ana 
+we: ekw~ana 
+we₁: ekw~ana 
+what: a7i	ai	ehe 
+white: paha	paha-da 
+whiteness: paha	paha-da 
+who: e-he-ke	eheki 
+who?: e-he-ke	eheki 
+female: e-pona	epona	wane 
+woman: e-pona	epona	wane 
+yellow: hawa	hawa-da 
+distant: hapa-da 
+far: hapa-da 
+dull: bikʷe-da 
+heavy: bikʷe-da 
+serious: bikʷe-da 
+close: hapa-da-ma 
+near: hapa-da-ma 
+ner: hapa-da-ma 
+salt: bano 
+short: hono-da-ma 
+snake: bakʷa 
+thin: ari-da-ma 
+wind: kʷehihi 
+earthworm: ec̷ena 
+worm: ec̷ena 
+year: mara 
+2 pl.: mi-kʷana 
+ye: mi-kʷana 
+you all: mi-kʷana 
+3 pl.: to-na 
+they: to-na 
+where: eho 
+where?: eho 
+when: ehe-c̷ono 
+when?: ehe-c̷ono 
+how: ai 
+how?: ai 
+some: peadʸa peadʸa 
+few: -pihi 
+three: kimisha	kimiša 
+four: poši	pushi 
+five: pishika	pišika 
+broad: kini-da 
+wide: kini-da 
+wideness: kini-da 
+thick: ari-da 
+narrow: kini-da-ma 
+child: e-bakʷa-ke 
+principal wife: e-wane-ke 
+wife: e-wane-ke 
+husband: e-awe	yawi-ke 
+his mother: e-kʷa-ke 
+mother: e-kʷa-ke 
+my mother: e-kʷa-ke 
+father: tata 
+his father: tata 
+my father: tata 
+animal: kʷanobi	oo 
+forest: e-ki-ke 
+woods: e-ki-ke 
+branch: yaa 
+stick: yaa 
+fruit: akʷiho 
+flower: šaša 
+grass: noc̷a 
+fingernail: e-me-šoro 
+leg: e-c̷a-ka 
+wing: yahapa-ra 
+gut: e-sere 
+guts: e-sere 
+insides: e-sere 
+intestine: e-sere 
+intestines: e-sere 
+back: e-bebakʷa 
+suck: soso-ya 
+spit: e-kʷedi-ra-a-ya 
+vomit: ka-poša-ti-ya 
+blow: hoha-ya 
+breath: kana-heti-ya 
+breathe: kana-heti-ya 
+laugh: c̷a-ya 
+laughter: c̷a-ya 
+cogitate: inime-topo-ya 
+reflect: inime-topo-ya 
+think: inime-topo-ya 
+smell: wani 
+sniff: wani 
+afraid: bahi-da 
+be afraid: bahi-da 
+fear: bahi-da 
+fright: bahi-da 
+alive: ani-ya 
+be alive: ani-ya 
+life: ani-ya 
+live: ani-ya 
+living: ani-ya 
+fight: kati-ya 
+hunt: babi-ra 
+beat: a-ya	miri-ya 
+hit: a-ya	miri-ya 
+strike: a-ya	miri-ya 
+cut: hikʷi-ya 
+hack: hikʷi-ya 
+cut open: bori-ya 
+split: bori-ya 
+pierce: sakʷa-ya 
+stab: sakʷa-ya 
+dig: poro-ya 
+tell lies: yana-kana 
+stand: mehihi	neti-ya 
+turn: tipirotana-ya 
+turn around: tipirotana-ya 
+turn round: tipirotana-ya 
+drop: ribi-ya 
+fall: ribi-ya 
+squeeze: tisi-ya 
+wring: tisi-ya 
+rub: popi-	tedi- 
+wipe: popi-	tedi- 
+wash: oc̷a-ya 
+wash clothes: oc̷a-ya 
+push: itoša-ya 
+shove: itoša-ya 
+throw: mare-ya 
+bind: kaka-	risi-ya 
+fasten: kaka-	risi-ya 
+tie: kaka-	risi-ya 
+tie up: kaka-	risi-ya 
+sew: toc̷o-ya 
+count: pieba-ya 
+enumerate: pieba-ya 
+number: pieba-ya 
+tally: pieba-ya 
+sing: hero-ya 
+have fun: ihawe-ho-ya 
+play: ihawe-ho-ya 
+float: heta-ya 
+flow: hori-ya 
+brook: kʷe-ri 
+river: kʷe-ri 
+stream: kʷe-ri 
+lake: bei 
+dust: moro 
+fog: apo-apo 
+sky: bare-pa 
+ice: e-tadataša-ke ena 
+blaze: hoho	hoho-ya	tiro 
+burn: hoho	hoho-ya	tiro 
+day: wekaka 
+daylight: wekaka 
+daytime: wekaka 
+bad: hida-ma 
+evil: hida-ma 
+rot: e-riri 
+rotten: e-riri 
+dirty: asika-da-ke 
+filthy: asika-da-ke 
+soiled: asika-da-ke 
+straight: toyo 
+sharp: kʷero-da 
+blunt: kʷero-da-ma 
+smooth: momi-ya 
+damp: naka-da 
+wet: naka-da 
+right side: hida-e-ke 
+left: hani 
+in: -ho	e-doko-ho 
+inside: -ho	e-doko-ho 
+and: hadʸa 
+because: eheboča-hoac̷o 

@@ -1,0 +1,563 @@
+all: ทั้ง | ทั้งหมด 
+all: thang55 | ทั้งหมด 
+and: และ 
+and: læ55 | และ 
+animal: สัตว์ 
+animal: sat22 | สัตว์ 
+ashes: khi:41thau41 | เถ้า 
+ashes: ¢ÕéàéÒ | เถ้า 
+at: ที่ 
+at: thi:41 | ที่ 
+back: หลัง 
+back: lang24 | หลัง 
+bad: ชั่ว | ชั่ว	ร้้าย	เลว 
+bad: chua41 | ชั่ว	ร้้าย	เลว 
+bark: เปลือค | ผิว	เปลือก 
+bark: plyak41 | ผิว	เปลือก 
+because: เพราะว่า | ด้วย	เพราะ 
+because: phrå55wa:41 | ด้วย	เพราะ 
+belly: ท้อง | พุง 
+belly: thå:ng55 | พุง 
+big: ใหญ่ | โต	ใหญ่ 
+big: jai22 | โต	ใหญ่ 
+bird: นก | นก	บุหรง	วิหค	สกุณา 
+bird: nok55 | นก	บุหรง	วิหค	สกุณา 
+bite: กัด | กัด	ขบ 
+bite: kat22 | กัด	ขบ 
+black: ดำ 
+black: dam33 | ดำ 
+blood: โลหิต | l3at	เลือด	โลหิต 
+blood: เลือด | l3at	เลือด	โลหิต 
+blood: lo:33hit22 | l3at	เลือด	โลหิต 
+blow: พัด 
+blow: phat55 | พัด 
+bone: กระดูก | kraduk	กระดูก	ก้าง 
+bone: kra22du:k22 | kraduk	กระดูก	ก้าง 
+breast: อก | ok	ถัน	นม 
+breast: ok22 | ok	ถัน	นม 
+breathe: หายใจ 
+breathe: ha:i24cai33 | หายใจ 
+burn: เผา | เผา	ไหม้ 
+burn: phau24 | เผา	ไหม้ 
+child: ลูก | ศิศุ	เด็ก 
+child: เด็ก | ศิศุ	เด็ก 
+child: dek22 | ศิศุ	เด็ก 
+cloud: เมฆ 
+cloud: me:k41 | เมฆ 
+cold: หนาว | หนาว	เซ็ง 
+cold: เย็น | หนาว	เซ็ง 
+cold: na:u24 | หนาว	เซ็ง 
+come: มา | ma	มา 
+come: ma:33 | ma	มา 
+correct: ถูก | ถูก	แท้	แม่น 
+correct: thu:k22 | ถูก	แท้	แม่น 
+count: นับ 
+count: nap55 | นับ 
+cut: ตัด | ตัด	บาด 
+cut: tat22 | ตัด	บาด 
+day: วัน | กลางวัน 
+day: กลางวัน 
+day: wan33 | กลางวัน 
+die: ตาย | tay	ตักษัย	ตาย	บรรลัย	มรณะ	วาย	อนิจกรรม	อาสัญ	เสีย 
+die: ta:i33 | tay	ตักษัย	ตาย	บรรลัย	มรณะ	วาย	อนิจกรรม	อาสัญ	เสีย 
+dig: ขุด 
+dig: khut22 | ขุด 
+dirty: สกปรก 
+dirty: so22ka22prok22 | สกปรก 
+dog: สุนัข | ma	สุนัข	สุวาน	หมา 
+dog: su22nak55 | ma	สุนัข	สุวาน	หมา 
+drink: ดืม | กิน	ดื่ม 
+drink: dy:m1 | กิน	ดื่ม 
+dry: แห้ง 
+dry: hæ:ng41 | แห้ง 
+dull: ทื่อ | หนัก | ทื่อ	ทู่ 
+dull: thy:41 | หนัก | ทื่อ	ทู่ 
+dust: ฝุ่น | ธุลี	ผง	ฝุ่น	ละออง 
+dust: fun22 | ธุลี	ผง	ฝุ่น	ละออง 
+ear: หู | hu	กรรณ	หู 
+ear: hu:24 | hu	กรรณ	หู 
+earth: (พื้น)ดิน | ดิน	บก 
+earth: phy:n55din33 | ดิน	บก 
+eat: กิน 
+eat: kin33 | กิน 
+egg: ไข่ 
+egg: khai22 | ไข่ 
+eye: ตา | ta	ตา	เนตร 
+eye: ta:33 | ta	ตา	เนตร 
+fall: ตก | ตก	หล่น 
+fall: tok22 | ตก	หล่น 
+far: ไกล 
+far: klai33 | ไกล 
+father: พ่อ | ชนก	บิดร	บิดา	พ่อ 
+father: phå:3 | ชนก	บิดร	บิดา	พ่อ 
+fat (n.): ไขมั่น 
+fat (n.): khai24man41 
+fear: กลัว | กลัว	ยั่น 
+fear: klua33 | กลัว	ยั่น 
+feather: ขนนก 
+feather: khon24nok55 | ขน 
+few: น้อย | สองสาม 
+few: nå:i55 | สองสาม 
+fight: สู้ | รบ	สู้ 
+fight: su:41 | รบ	สู้ 
+fingernail: เล็บ | นขา	เล็บ 
+fingernail: lep55 | นขา	เล็บ 
+fire: ไฟ | fay	อัคนี	ไฟ 
+fire: fai33 | fay	อัคนี	ไฟ 
+fish: ปลา | pla	ปลา	มัจฉา	มัสยา 
+fish: pla:33 | pla	ปลา	มัจฉา	มัสยา 
+five: ห้า | ปัญจ	ห้า	เบญจ 
+five: ha:41 | ปัญจ	ห้า	เบญจ 
+float: ลอย 
+float: lå:i33 | ลอย 
+flow: ไหล 
+flower: ดอกไม้ | ดอก	ปลี 
+flower: då:k22mai41 | ดอก	ปลี 
+flow: lai24 | ไหล 
+fly (v.): บิน 
+fly (v.): bin33 
+fog: หมอก 
+fog: må:k22 | หมอก 
+foot: เท้า | ตีน	บาท	บาทา	เชิง	เท้า 
+foot: thau55 | ตีน	บาท	บาทา	เชิง	เท้า 
+forest: ป่า | ดง	ป่า	ไพร 
+forest: pa:22 | ดง	ป่า	ไพร 
+four: สี่ | จตุ	จตุร	สี่ 
+four: si:22 | จตุ	จตุร	สี่ 
+freeze: กลายเป็นนำแขง | แข็ง 
+freeze: kla:i33pen33nam55khæ:ng24 | แข็ง 
+fruit: ผล(ไม้) | ผลไม้	หมาก 
+fruit: phon24la44mai55 | ผลไม้	หมาก 
+full: เต็ม | tem	อิ่ม	เต็ม 
+full: tem33 | tem	อิ่ม	เต็ม 
+give: ให้ 
+give: hai41 | ให้ 
+good: ดี 
+good: di:33 | ดี 
+grass: หญ้า | ตฤณ	หญ้า 
+grass: ja:41 | ตฤณ	หญ้า 
+green: เขียว 
+green: khiau24 | เขียว 
+guts: ไส้ 
+guts: sai41 | ไส้ 
+hair: ผม 
+hair: phom24 | ผม 
+hand: มือ | m3	กร	มือ	หัตถ์	ได 
+hand: my:1 | m3	กร	มือ	หัตถ์	ได 
+he: เขา | มัน	อิ	เขา	เธอ 
+head: หัว | กะบาล	ศิระ	ศึรษะ	หัว 
+head: hua24 | กะบาล	ศิระ	ศึรษะ	หัว 
+hear: ฟัง | ฟัง	ยิน	สดับ 
+hear: ได้ยิน | ฟัง	ยิน	สดับ 
+hear: fang33 | ฟัง	ยิน	สดับ 
+heart: ใจ | มน	มนัส	มโน	ฤดี	ฤทัย	หทัย	หฤทัย	หัวใจ	แด	ใจ 
+heart: cai33 | มน	มนัส	มโน	ฤดี	ฤทัย	หทัย	หฤทัย	หัวใจ	แด	ใจ 
+heavy: หนัก 
+heavy: nak22 | หนัก 
+he: khau24 | มัน	อิ	เขา	เธอ 
+here: ที่นี่ 
+here: thi:41ni:41 | ที่นี่ 
+hit: ตี่ 
+hit: ti:22 | ตี 
+hold: ถือ | อุ้ม 
+hold: thy:24 | อุ้ม 
+horn: เขา | kh~aw	เขา 
+horn: khau24 | kh~aw	เขา 
+how: อย่างไร 
+how: ja:ng22rai33 | อย่างไร 
+hunt: ล่า 
+hunt: la:41 | ล่า 
+husband: ผัว | ผัว	สวามี	สามี 
+husband: phua24 | ผัว	สวามี	สามี 
+I: ผม | กระผม	กัน	กู	ข้า	ข้าพเจ้า	ฉัน	ดิฉัน	ตู	ผม	เรา 
+I: กู | กระผม	กัน	กู	ข้า	ข้าพเจ้า	ฉัน	ดิฉัน	ตู	ผม	เรา 
+I: ฉัน | กระผม	กัน	กู	ข้า	ข้าพเจ้า	ฉัน	ดิฉัน	ตู	ผม	เรา 
+ice: น้ำแขง | น้ำแข็ง 
+ice: nam55khæ:ng24 | น้ำแข็ง 
+I: chan24 | กระผม	กัน	กู	ข้า	ข้าพเจ้า	ฉัน	ดิฉัน	ตู	ผม	เรา 
+if: ถ้า | ถ้า	เผื่อ 
+if: tha:41 | ถ้า	เผื่อ 
+in: ใน 
+in: nai33 | ใน 
+kill: ฆ่า | ฆ่า	มล้าง 
+kill: kha:41 | ฆ่า	มล้าง 
+knee: เข่า | kh~aw	เข่า 
+knee: khau22 | kh~aw	เข่า 
+know: รู้ 
+know: ru:55 | รู้ 
+lake: ทะเลสาบ 
+lake: tha55le:33sa:p22 | ทะเลสาบ 
+laugh: หัวเราะ | หัว	หัวเราะ 
+laugh: hua24rå55 | หัว	หัวเราะ 
+leaf: ใบ(ไม้) | bay	ใบ 
+leaf: bai33mai55 | bay	ใบ 
+left: ซ้าย 
+left: sa:i55 | ซ้าย 
+leg: ขา | ขา	เพลา 
+leg: kha:24 | ขา	เพลา 
+lie: นอน | นอน	ปด	โกหก 
+lie: nå:n33 | นอน | นอน	ปด	โกหก 
+live: มีชีวิต | อยู่	อาศัย	เป็น 
+live: mi:33chi:33wit55 | อยู่	อาศัย	เป็น 
+liver: ตับ | tap	ตับ 
+liver: tap22 | tap	ตับ 
+long: ยาว 
+long: ja:u33 | ยาว 
+louse: เหา | haw	len	เล็น	เหา 
+louse: hau24 | haw	len	เล็น	เหา 
+man: ผู้ชาย | kh~on	คน	ผู้ 
+man: phu:41cha:i33 | kh~on	คน	ผู้ 
+many: มาก | หลาย 
+many: ma:k41 | หลาย 
+meat: เนื้อ | มังสา	เนื้อ 
+meat: nya55 | มังสา	เนื้อ 
+moon: จันทร์ | บุหลัน	พระจันทร์	เดือน	แข 
+moon: can33 | บุหลัน	พระจันทร์	เดือน	แข 
+mother: แม่ | ชนนี	มารดา	แม่ 
+mother: mæ:41 | ชนนี	มารดา	แม่ 
+mountain: ภูเขา | คิริ	ดอย	ภู	ภูเขา	เขา	โคก 
+mountain: phu:33khau24 | คิริ	ดอย	ภู	ภูเขา	เขา	โคก 
+mouth: ปาก | ปาก	มุข	โอษฐ์ 
+mouth: pa:k22 | ปาก	มุข	โอษฐ์ 
+name: ชื่อ | Ch~3	ชื่อ	เรียก 
+name: chy:41 | Ch~3	ชื่อ	เรียก 
+narrow: แคบ 
+narrow: khæ:p41 | แคบ 
+near: ใกล้ 
+near: klai41 | ใกล้ 
+neck: คอ | คอ	ศอ 
+neck: khå:33 | คอ	ศอ 
+new: ใหม่ | may	ใหม่ 
+new: mai22 | may	ใหม่ 
+night: คืน | kh~3n	กลางคืน	รัตติกาล	ราตรี 
+night: ky:n33 | kh~3n	กลางคืน	รัตติกาล	ราตรี 
+nose: จมูก 
+nose: ca22mu:k41 | จมูก 
+not: ไม่ | มิ	เปล่า	ไป่	ไม่ 
+not: mai41 | มิ	เปล่า	ไป่	ไม่ 
+old: แก่ | เฒ่า	แก่ 
+old: เก่า | เฒ่า	แก่ 
+old: kau23 | เฒ่า	แก่ 
+one: หนึ่ง | หนึ่ง	เอก	เอ็ด 
+one: nyng22 | หนึ่ง	เอก	เอ็ด 
+other: อื่น 
+other: y:n22 | อื่น 
+person: คน | kh~on	คน	ผู้ 
+person: khon33 | kh~on	คน	ผู้ 
+play: เล่น 
+play: len41 | เล่น 
+pull: ดึง | ดึง	ลาก 
+pull: dyng33 | ดึง	ลาก 
+push: ผลัก 
+push: phlak22 | ผลัก 
+rain: ฝน 
+rain: fon24 | ฝน 
+red: แดง 
+red: dæ:ng1 | แดง 
+right: ขวา | m3	กร	มือ	หัตถ์	ได 
+right: khwa:24 | m3	กร	มือ	หัตถ์	ได | ขวา 
+river: แม่น้ำ | นที	แม่น้ำ 
+river: mæ:3nam4 | นที	แม่น้ำ 
+road: ถนน | hon	ทาง	หน 
+road: tha22non24 | hon	ทาง	หน 
+root: ราก | ราก	เหง้า 
+root: ra:k41 | ราก	เหง้า 
+rope: เชือก 
+rope: chyak41 | เชือก 
+rotten: เน่า 
+rotten: nau41 | เน่า 
+round: กลม | กลม	มน 
+round: glom33 | กลม	มน 
+rub: ถู | ถู	นวด	สี 
+rub: thu:24 | ถู	นวด	สี 
+salt: เกลือ 
+salt: klya33 | เกลือ 
+sand: ทราย 
+sand: sa:i33 | ทราย 
+say: พูด | บอก	พูด | ทราย 
+say: phu:t41 | บอก	พูด | ทราย 
+scratch: ข่วน | เกา 
+scratch: khuan22 | เกา 
+sea: ทะเล | ทะเล	มหาสมุทร 
+sea: tha4le:1 | ทะเล	มหาสมุทร 
+see: เห็น 
+seed: เมล็ด | เมล็ด	เม็ด 
+seed: ma55let24 | เมล็ด	เม็ด 
+see: hen24 | เห็น 
+sew: เย็บ 
+sew: jep55 | เย็บ 
+sharp: คม 
+sharp: แหลม | คม 
+sharp: læ:m24 | คม 
+short: สั้น | ต่ำ	สั้น	เตี้ย 
+short: san41 | ต่ำ	สั้น	เตี้ย 
+sing: รอ้งเพลง | ร้อง 
+sing: rå:ng55phle:ng33 | ร้อง 
+sit: นั่ง 
+sit: nang41 | นั่ง 
+skin: หนัง | naN	หนัง 
+skin: nang24 | naN	หนัง 
+sky: ฟ้า | นภา	ฟ้า 
+sky: fa:55 | นภา	ฟ้า 
+sleep: หลับ | นอน	นิทรา	บรรทม	ไสยา 
+sleep: lap22 | นอน	นิทรา	บรรทม	ไสยา 
+small: เล็ก | จ้อย	นิด	น้อย	เล็ก 
+small: lek55 | จ้อย	นิด	น้อย	เล็ก 
+smell: กลิ่น | มีกลิ่น	ได้กลิ่น 
+smell: เหม็น | มีกลิ่น	ได้กลิ่น 
+smell: klin22 | มีกลิ่น	ได้กลิ่น 
+smoke: ควัน 
+smoke: khwan33 | ควัน 
+smoke: khwon55 | ควัน 
+smooth: เกลี้ยง | ละมุน 
+smooth: kliang41 | ละมุน 
+snake: งู | งู	อสรพิษ 
+snake: ngu:33 | งู	อสรพิษ 
+snow: หิมะ 
+snow: hi22ma55 | หิมะ 
+some: บาง | บ้าง 
+some: บ้าง 
+some: ba:ng33 | บ้าง 
+spit: ถ่มน้ำลาย | คาย	ถ่ม 
+spit: thom22nam42la:i33 | คาย	ถ่ม 
+split: แตก | ผ่า 
+split: tæ:k22 | ผ่า 
+squeeze: บีบ | คั้น 
+squeeze: bi:p22 | คั้น 
+stab: แทง | เสียบ	แทง 
+stab: thæ:ng33 | เสียบ	แทง 
+stand: ยืน 
+stand: jy:n33 | ยืน 
+star: ดาว | daw	ดารา	ดาว 
+star: da:u33 | daw	ดารา	ดาว 
+stick: ไม้ | กิ่ง 
+stick: mai55 | กิ่ง 
+stone: หิน | hin	หิน 
+stone: hin24 | hin	หิน 
+straight: ตรง | ดิ่ง	ตรง 
+straight: trong33 | ดิ่ง	ตรง 
+suck: ดูด 
+suck: du:t22 | ดูด 
+sun: อาทิตย์ | ตะวัน	ทินกร	พระอาทิตย์	สุริยา	ไถง 
+sun: a:33thit55 | ตะวัน	ทินกร	พระอาทิตย์	สุริยา	ไถง 
+swell: บวม | ตุ่ม 
+swell: buam33 | ตุ่ม 
+swim: ว่ายน้ำ 
+swim: wa:i41na:m55 | ว่าย 
+tail: หาง 
+tail: ha:ng24 | หาง 
+that: นั้น | นั่น | หนึ่ง	เอก	เอ็ด 
+that: nan55 | นั่น | หนึ่ง	เอก	เอ็ด 
+there: ที่นั่น 
+there: thi:41nan41 | ที่นั่น 
+they: เขา | พวกเขา 
+they: khau24 | พวกเขา 
+thick: หนา 
+thick: na:24 | หนา 
+thin: ผอม | บาง 
+thin: บาง 
+think: คิด 
+think: khit55 | คิด 
+thin: phå:m24 | บาง 
+this: นี้ | นิ้ 
+this: ni:55 | นิ้ 
+thou: สู | m3N	คุณ	ท่าน	นาย	มึง	สู	เจ้า	เธอ 
+thou: คุณ | m3N	คุณ	ท่าน	นาย	มึง	สู	เจ้า	เธอ 
+thou: เธอ | m3N	คุณ	ท่าน	นาย	มึง	สู	เจ้า	เธอ 
+thou: ท่าน | m3N	คุณ	ท่าน	นาย	มึง	สู	เจ้า	เธอ 
+thou: khun33 | m3N	คุณ	ท่าน	นาย	มึง	สู	เจ้า	เธอ 
+three: สาม | ตรัย	ตรี	สาม 
+three: sa:m24 | ตรัย	ตรี	สาม 
+throw: ขวาง | ขว้าง	ปา 
+throw: khwa:ng24 | ขว้าง	ปา 
+tie: ผูก | ผูก	ล่าม 
+tie: phu:k22 | ผูก	ล่าม 
+tongue: ลิ้น | lin	ชิวหา	ลิ้น 
+tongue: lin55 | lin	ชิวหา	ลิ้น 
+tooth: ฟัน | fan	kh~iaw	ทนต์	ทันตะ	ฟัน 
+tooth: fan33 | fan	kh~iaw	ทนต์	ทันตะ	ฟัน 
+tree: สาม | may	ไม้ 
+tree: ton22mai55 | may	ไม้ 
+turn: หัน 
+turn: han24 | หัน 
+two: สอง | %soN	ยี่	สอง	โท 
+two: så:ng24 | %soN	ยี่	สอง	โท 
+vomit: อวก | ราก	อาเจียน	อ้วก 
+vomit: uak22 | ราก	อาเจียน	อ้วก 
+walk: เดิน 
+walk: dø:n1 | เดิน 
+warm: อบอุ่น | ร้อน	อุ่น 
+warm: ob22un22 | ร้อน	อุ่น 
+wash: ล้าง 
+wash: la:ng55 | ล้าง 
+water: น้ำ | nam	ชล	ธารา	นำ้	น้ำ	อุทก 
+water: na:m55 | nam	ชล	ธารา	นำ้	น้ำ	อุทก 
+we: เรา | raw	เรา 
+we: rau33 | raw	เรา 
+wet: เปียก 
+wet: piak22 | เปียก 
+what: อะไร 
+what: a22rai33 | อะไร 
+when: เมื่อไร | เมื่อใด	เมื่อไร 
+when: เมื่อไหร ่ | เมื่อใด	เมื่อไร 
+when: mya41rai33 | เมื่อใด	เมื่อไร 
+where: ที่ไหน | ที่ใด	ที่่ไหน 
+where: thi:41nai24 | ที่ใด	ที่่ไหน 
+white: ขาว 
+white: kha:u24 | ขาว 
+who: ใคร | ผู้ใด	ใคร	ไผ 
+who: krai33 | ผู้ใด	ใคร	ไผ 
+wide: กล้าง | กว้าง 
+wide: kla:ng41 | กว้าง 
+wife: เมีย | ภรรยา	ภริยา	เมีย 
+wife: mia33 | ภรรยา	ภริยา	เมีย 
+wind: ลม | ลม	วาตะ 
+wind: lom33 | ลม	วาตะ 
+wing: บืก | ปิก 
+wing: by:k2 | ปิก 
+wipe: เช็ด 
+wipe: chet55 | เช็ด 
+with: กับ | กับ	ด้วย 
+with: kap22 | กับ	ด้วย 
+woman: ผู้หญิง | ผู้หญิง	สตรี	หญิง	อิตถี	อิสตรี 
+woman: phu:41ying24 | ผู้หญิง	สตรี	หญิง	อิตถี	อิสตรี 
+worm: หนอน 
+worm: nå:n24 | หนอน 
+year: ปี | ขวบ	ปี 
+year: pi:33 | ขวบ	ปี 
+yellow: หลือง | เหลือง 
+yellow: lyang24 | เหลือง 
+you: คุณ | m3N	คุณ	ท่าน	นาย	มึง	สู	เจ้า	เธอ | พวกคุณ 
+you: เธอ | m3N	คุณ	ท่าน	นาย	มึง	สู	เจ้า	เธอ | พวกคุณ 
+you: ท่าน | m3N	คุณ	ท่าน	นาย	มึง	สู	เจ้า	เธอ | พวกคุณ 
+you: khun33 | m3N	คุณ	ท่าน	นาย	มึง	สู	เจ้า	เธอ | พวกคุณ 
+every: ทั้งหมด 
+ash: เถ้า 
+abdomen: พุง 
+bigness: โต	ใหญ่ 
+large: โต	ใหญ่ 
+breasts: ok	ถัน	นม 
+claw: เล็บ 
+nail: เล็บ 
+talon: เล็บ 
+come from: ma	มา 
+be dead: tay	ตักษัย	ตาย	บรรลัย	มรณะ	วาย	อนิจกรรม	อาสัญ	เสีย 
+dead: tay	ตักษัย	ตาย	บรรลัย	มรณะ	วาย	อนิจกรรม	อาสัญ	เสีย 
+ground: ดิน	บก 
+land: ดิน	บก 
+soil: ดิน	บก 
+fly: บิน 
+fly v.: บิน 
+left hand: m3	กร	มือ	หัตถ์	ได 
+1 sg.: กระผม	กัน	กู	ข้า	ข้าพเจ้า	ฉัน	ดิฉัน	ตู	ผม	เรา 
+be knowledgeable: รู้ 
+lie down: นอน 
+head louse: haw	len	เล็น	เหา 
+male: ชาย	ผู้ชาย 
+much: หลาย 
+multiple: หลาย 
+several: หลาย 
+flesh: มังสา	เนื้อ 
+hill: คิริ	ดอย	ภู	ภูเขา	เขา	โคก 
+title: Ch~3	ชื่อ	เรียก 
+nighttime: kh~3n	กลางคืน	รัตติกาล	ราตรี 
+adulterous: หนึ่ง	เอก	เอ็ด 
+single: หนึ่ง	เอก	เอ็ด 
+the: หนึ่ง	เอก	เอ็ด 
+unprincipled: หนึ่ง	เอก	เอ็ด 
+human: kh~on	คน	ผู้ 
+human being: kh~on	คน	ผู้ 
+rainy weather: ฝน 
+path: hon	ทาง	หน 
+route: hon	ทาง	หน 
+hide: naN	หนัง 
+little: จ้อย	นิด	น้อย	เล็ก 
+smallness: จ้อย	นิด	น้อย	เล็ก 
+rock: hin	หิน 
+2 sg: m3N	คุณ	ท่าน	นาย	มึง	สู	เจ้า	เธอ 
+grind: %soN	ยี่	สอง	โท 
+go: เดิน 
+hot: ร้อน	อุ่น 
+1 pl. inc.: raw	เรา 
+we₁: raw	เรา 
+whiteness: ขาว 
+who?: ผู้ใด	ใคร	ไผ 
+female: ผู้หญิง	สตรี	หญิง	อิตถี	อิสตรี 
+distant: ไกล 
+serious: หนัก 
+close: ใกล้ 
+ner: ใกล้ 
+earthworm: หนอน 
+3 sg.: มัน	อิ	เขา	เธอ 
+she: มัน	อิ	เขา	เธอ 
+2 pl.: พวกคุณ 
+ye: พวกคุณ 
+you all: พวกคุณ 
+3 pl.: พวกเขา 
+where?: ที่ใด	ที่่ไหน 
+when?: เมื่อใด	เมื่อไร 
+how?: อย่างไร 
+broad: กว้าง 
+wideness: กว้าง 
+fat: มัน 
+principal wife: ภรรยา	ภริยา	เมีย 
+his mother: ชนนี	มารดา	แม่ 
+my mother: ชนนี	มารดา	แม่ 
+his father: ชนก	บิดร	บิดา	พ่อ 
+my father: ชนก	บิดร	บิดา	พ่อ 
+woods: ดง	ป่า	ไพร 
+branch: กิ่ง 
+cord: เชือก 
+grease: มัน 
+arm: มือ 
+gut: ไส้ 
+insides: ไส้ 
+intestine: ไส้ 
+intestines: ไส้ 
+breath: หายใจ 
+laughter: หัว	หัวเราะ 
+cogitate: คิด 
+reflect: คิด 
+sniff: มีกลิ่น	ได้กลิ่น 
+afraid: กลัว	ยั่น 
+be afraid: กลัว	ยั่น 
+fright: กลัว	ยั่น 
+alive: อยู่	อาศัย	เป็น 
+be alive: อยู่	อาศัย	เป็น 
+life: อยู่	อาศัย	เป็น 
+living: อยู่	อาศัย	เป็น 
+beat: ตี 
+strike: ตี 
+hack: ตัด	บาด 
+cut open: ผ่า 
+pierce: เสียบ	แทง 
+tell lies: นอน	ปด	โกหก 
+turn around: หัน 
+turn round: หัน 
+drop: ตก	หล่น 
+grasp: อุ้ม 
+hold in arm: อุ้ม 
+wring: คั้น 
+wash clothes: ล้าง 
+shove: ผลัก 
+bind: ผูก	ล่าม 
+fasten: ผูก	ล่าม 
+tie up: ผูก	ล่าม 
+enumerate: นับ 
+number: นับ 
+tally: นับ 
+have fun: เล่น 
+brook: นที	แม่น้ำ 
+stream: นที	แม่น้ำ 
+ocean: ทะเล	มหาสมุทร 
+blaze: เผา	ไหม้ 
+daylight: กลางวัน 
+daytime: กลางวัน 
+evil: ชั่ว	ร้้าย	เลว 
+rot: เน่า 
+filthy: สกปรก 
+soiled: สกปรก 
+blunt: ทื่อ	ทู่ 
+damp: เปียก 
+right side: ขวา 
+inside: ใน 

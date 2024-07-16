@@ -1,0 +1,338 @@
+all: tamN	គ្រប់ 
+every: tamN	គ្រប់ 
+ash: ph~Eh	កំញម	ផេះ 
+ashes: ph~Eh	កំញម	ផេះ 
+bark: s3mbak	សំបក 
+abdomen: boh	ពោះ 
+belly: boh	ពោះ 
+big: dh~om	ធំ 
+bigness: dh~om	ធំ 
+large: dh~om	ធំ 
+bird: sat slap	បក្សី 
+bite: kh~am	ចឹក 
+black: kh~3maw	ខ្មៅ 
+blood: Zh~am	ឈាម 
+bone: Ch7$3N	ឆ្អឹង 
+breast: toh	ដោះ 
+breasts: toh	ដោះ 
+claw: kr3Cok 
+nail: kr3Cok 
+talon: kr3Cok 
+cloud: b3bok	ពពក 
+cold: tr~3Zak	ត្រជាក់ 
+come: mok	មក 
+come from: mok	មក 
+be dead: slap	តាយ 
+dead: slap	តាយ 
+die: slap	តាយ 
+dog: Ch~3kE	ឆ្កែ 
+drink: ph~3k	ផឹក 
+dry: sNu3t	ក្រៀម	ប្រាំង	សង្វិត 
+ear: tr~3Ch~i3k	ត្រចៀក 
+earth: ti	ដី 
+ground: ti	ដី 
+land: ti	ដី 
+soil: ti	ដី 
+eat: 5am	ស៊ី 
+egg: boN	ពង 
+eye: bh~3n3k	ភ្នែក 
+fat: kh~la5 
+fat n.: kh~la5 
+grease: kh~la5 
+lubricant: kh~la5 
+oil: kh~la5 
+feather: slap	រោម 
+fire: bh~la3N	ភ្លើង 
+fish: tr~i	ត្រី 
+fly: ha3r	ហើរ 
+fly v.: ha3r	ហើរ 
+foot: Za3N	ជើង 
+full: b3n	ពេញ 
+give: oy	ឲ្យ 
+good: l37o	ល្អ 
+green: paytaN	បៃតង 
+hair: sok	សក់ 
+hand: tay 
+left hand: tay 
+right: tay 
+head: k3pal	ក្បាល 
+hear: l3	ឮ 
+heart: p3ht~uN	បេះដូង 
+horn: s3nEN	ស្នែង 
+1 sg.: kh~3nom	ខ្ញុំ 
+I: kh~3nom	ខ្ញុំ 
+kill: s3mlap	សម្លាប់ 
+knee: Z3NgaN	ជង្គង់ 
+be knowledgeable: t3N	ចេះ 
+know: t3N	ចេះ 
+leaf: s3l3k	ស្លឹក 
+lie: g3N 
+lie down: g3N 
+liver: th~la3m	ថ្លើម 
+long: vEN	វែ 
+head louse: Cay	ចៃ 
+louse: Cay	ចៃ 
+male: purah	បុរស	ប្រុស 
+man: %manus	ជន	មនុស្ស 
+many: Cr~a3n	ច្រើន 
+much: Cr~a3n	ច្រើន 
+multiple: Cr~a3n	ច្រើន 
+several: Cr~a3n	ច្រើន 
+flesh: saC 
+meat: saC 
+moon: kh~E	ខែ 
+hill: bh~3nom	ភ្នំ 
+mountain: bh~3nom	ភ្នំ 
+mouth: mat	មាត់	ឱស្ឋ 
+name: Zh~3maoh	ឈ្មោះ 
+title: Zh~3maoh	ឈ្មោះ 
+neck: ko	ក 
+new: th~mi	ថ្មី 
+night: yop	យប់ 
+nighttime: yop	យប់ 
+nose: Cr~3muh	ច្រមុះ 
+not: min	ទេ 
+adulterous: muey	មួយ 
+one: muey	មួយ 
+single: muey	មួយ 
+that: noh	នោះ 
+the: muey	មួយ 
+unprincipled: muey	មួយ 
+human: %manus	ជន	មនុស្ស 
+human being: %manus	ជន	មនុស្ស 
+person: %manus	ជន	មនុស្ស 
+rain: bh~li3N	ភ្លៀង 
+rainy weather: bh~li3N	ភ្លៀង 
+red: kr3ham	ក្រហម 
+path: Z3luw th~3nal	ផ្លូវ 
+road: Z3luw th~3nal	ផ្លូវ 
+route: Z3luw th~3nal	ផ្លូវ 
+root: r3k	ឫស 
+round: mul	មូល 
+sand: ខ្សាច់ 
+say: sr3ti	ថា 
+see: ma3l	ឃើញ 
+seed: grap	ពូជ 
+sit: 3Nguy	អង្គុយ 
+hide: s3pEk	ស្បែក 
+skin: s3pEk	ស្បែក 
+sleep: t3k	ដេក 
+little: tuC	តូច 
+small: tuC	តូច 
+smallness: tuC	តូច 
+smoke: ph~3sEN	ផ្សែង 
+stand: Zh~ar 
+star: ph~3kay	ផ្កាយ 
+rock: th~3mo	ថ្ម 
+stone: th~3mo	ថ្ម 
+sun: th~3Nay	ថ្ងៃ 
+swim: hel	ហែល 
+tail: k3nd~uy	កន្ទុយ 
+this: n3h	នេះ 
+2 sg: EN	លោក	អ្នក 
+thou: EN	លោក	អ្នក 
+you: EN	លោក	អ្នក 
+tongue: 3ntak	អណ្ដាត 
+tooth: dh~3m3n	ធ្មេញ 
+tree: ta3m Zh~a3	ដើមឈើ 
+grind: bir	ពីរ 
+two: bir	ពីរ 
+go: ta3r	ដើរ 
+walk: ta3r	ដើរ 
+hot: ក្ដៅ 
+warm: ក្ដៅ 
+water: d3k	ទឹក 
+1 pl. inc.: ya3N	យើង 
+we: ya3N	យើង 
+we₁: ya3N	យើង 
+what: evi	អ្វី 
+white: so	ស 
+whiteness: so	ស 
+who: kh~3nao	នរណា	អ្នកណា 
+who?: kh~3nao	នរណា	អ្នកណា 
+female: stri	ស្រី 
+woman: stri	ស្រី 
+yellow: l3N	លឿង 
+distant: ឆ្ងាយ 
+far: ឆ្ងាយ 
+dull: ធ្ងន់ 
+heavy: ធ្ងន់ 
+serious: ធ្ងន់ 
+close: ជិត 
+near: ជិត 
+ner: ជិត 
+salt: អំបិល 
+short: ខ្លី 
+snake: ពស់	អហិ 
+thin: ស្ដើង 
+wind: ខ្យល់ 
+earthworm: ដង្កូវ 
+worm: ដង្កូវ 
+year: ឆ្នាំ 
+3 sg.: គាត់	គេ 
+he: គាត់	គេ 
+she: គាត់	គេ 
+2 pl.: ពួកអ្នក 
+ye: ពួកអ្នក 
+you all: ពួកអ្នក 
+3 pl.: ពួកគេ 
+they: ពួកគេ 
+here: អាយ 
+there: នាយ 
+where: នៅឯណា 
+where?: នៅឯណា 
+when: អង្កាល់ 
+when?: អង្កាល់ 
+how: ម្ដេច	យ៉ាងដូចម្តេច 
+how?: ម្ដេច	យ៉ាងដូចម្តេច 
+some: ខ្លះ 
+few: តិច 
+other: ដទៃ	ទៀត 
+three: បី 
+four: បួន 
+five: ប្រាំ 
+broad: ល្ហ	ស្រឡះ 
+wide: ល្ហ	ស្រឡះ 
+wideness: ល្ហ	ស្រឡះ 
+thick: ក្រាស់	ជុក 
+narrow: ចង្អៀត 
+child: កូន 
+principal wife: ប្រពន្ធ 
+wife: ប្រពន្ធ 
+husband: ប្តី 
+his mother: ម៉ែ 
+mother: ម៉ែ 
+my mother: ម៉ែ 
+father: ឳពុក 
+his father: ឳពុក 
+my father: ឳពុក 
+animal: សត្វ 
+forest: ព្រៃ 
+woods: ព្រៃ 
+branch: ឈើ	រំពាត់ 
+stick: ឈើ	រំពាត់ 
+fruit: ផល	ផ្លែ 
+flower: ផ្កា 
+grass: ស្មៅ 
+cord: ខ្សែ 
+rope: ខ្សែ 
+fingernail: ក្រចកដៃ 
+leg: ជើង 
+arm: ដៃ 
+wing: ស្លាប 
+gut: ពោះវៀនពោះតាំង 
+guts: ពោះវៀនពោះតាំង 
+insides: ពោះវៀនពោះតាំង 
+intestine: ពោះវៀនពោះតាំង 
+intestines: ពោះវៀនពោះតាំង 
+back: ខ្នង 
+suck: ជញ្ជក់ 
+spit: ស្ដោះ 
+vomit: ក្អួត 
+blow: ផាត់	ផ្លុំ 
+breath: ដកដង្ហើម 
+breathe: ដកដង្ហើម 
+laugh: សើច 
+laughter: សើច 
+cogitate: គិត 
+reflect: គិត 
+think: គិត 
+smell: ក្លិន	ហិត 
+sniff: ក្លិន	ហិត 
+afraid: ក្រែង 
+be afraid: ក្រែង 
+fear: ក្រែង 
+fright: ក្រែង 
+alive: រស់ 
+be alive: រស់ 
+life: រស់ 
+live: រស់ 
+living: រស់ 
+fight: ជល់ 
+hunt: បាញ់សត្វ 
+beat: ជល់ 
+hit: ជល់ 
+strike: ជល់ 
+cut: កាប់ 
+hack: កាប់ 
+cut open: ពុះ 
+split: ពុះ 
+pierce: ចាក់ 
+stab: ចាក់ 
+scratch: កេះ 
+dig: ជីក 
+tell lies: ដេក 
+turn: ងាក	បត់ 
+turn around: ងាក	បត់ 
+turn round: ងាក	បត់ 
+drop: ចុះ	ដួល 
+fall: ចុះ	ដួល 
+grasp: កាន់ 
+hold: កាន់ 
+hold in arm: កាន់ 
+squeeze: ច្របាច់	រឹត 
+wring: ច្របាច់	រឹត 
+rub: ខាត់ 
+wipe: ជូត 
+wash: កក់ 
+wash clothes: កក់ 
+pull: ដក 
+push: រុញ 
+shove: រុញ 
+throw: គប់	ចោល 
+bind: ចង 
+fasten: ចង 
+tie: ចង 
+tie up: ចង 
+sew: ដេរ 
+count: រាប់ 
+enumerate: រាប់ 
+number: រាប់ 
+tally: រាប់ 
+sing: ច្រៀង 
+have fun: លេង 
+play: លេង 
+float: អណ្ដែត 
+flow: ហូរ 
+freeze: កក 
+swell: ប៉ោង	ហើម 
+brook: ទន្លេ 
+river: ទន្លេ 
+stream: ទន្លេ 
+lake: បឹង 
+ocean: សមុទ្រ 
+sea: សមុទ្រ 
+dust: ធូលី 
+fog: អ័ភ្រ 
+sky: មេឃ 
+snow: ហិមៈ 
+ice: ទឹកកក 
+blaze: tut	ឆេះ 
+burn: tut	ឆេះ 
+day: ថ្ងៃ 
+daylight: ថ្ងៃ 
+daytime: ថ្ងៃ 
+old: ចាស់ 
+bad: អាក្រក់ 
+evil: អាក្រក់ 
+rot: កំពុក	រលួយ 
+rotten: កំពុក	រលួយ 
+dirty: គគ្រិះ	ប្រឡូស 
+filthy: គគ្រិះ	ប្រឡូស 
+soiled: គគ្រិះ	ប្រឡូស 
+straight: ត្រង់ 
+sharp: មុត 
+blunt: រឹល 
+smooth: រាប 
+damp: ជាំ	ទទឹក 
+wet: ជាំ	ទទឹក 
+correct: មែន 
+right side: ស្ដាំ 
+left: ឆ្វេង 
+at: នៅ 
+in: ក្នុង 
+inside: ក្នុង 
+with: ជាមួយ 
+and: និង 
+if: បើ 
+because: ពីព្រោះ 

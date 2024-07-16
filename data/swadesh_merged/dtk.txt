@@ -1,0 +1,259 @@
+all: pu	sɑ̃ː	wɔiypuː 
+every: pu	sɑ̃ː	wɔiypuː 
+ash: doɲen	doːwɛ̃ 
+ashes: doɲen	doːwɛ̃ 
+bark: koko 
+abdomen: bini 
+belly: bini 
+big: gɑɾɑ	mɑnɑ 
+bigness: gɑɾɑ	mɑnɑ 
+large: gɑɾɑ	mɑnɑ 
+bird: saǯu	sɑǯu 
+bite: kɛɾɛ 
+black: gew	gɛ̃ 
+blood: ni	nɛ 
+bone: kinrin	kĩː 
+breast: iɾi	iɾu 
+breasts: iɾi	iɾu 
+claw: kuwokɔni 
+nail: kuwokɔni 
+talon: kuwokɔni 
+cloud: korobara	ɑnɑkumo 
+cold: kɩɾɩlu 
+come: yɛɾɛ 
+come from: yɛɾɛ 
+be dead: noː	nuː 
+dead: noː	nuː 
+die: noː	nuː 
+dog: isi 
+drink: nɔː 
+dry: mɑːŋɑ 
+ear: sugu	suguɾu 
+earth: osoɾo	ɲan	ɲɑːntɑ 
+ground: osoɾo	ɲan	ɲɑːntɑ 
+land: osoɾo	ɲan	ɲɑːntɑ 
+soil: osoɾo	ɲan	ɲɑːntɑ 
+eat: ĩ	ɲiː 
+egg: ta	tɑɾu 
+eye: giri	giɾe 
+feather: kuɾɔ 
+fire: 5i	yɑŋu	ɲe	ɲi 
+fish: kogErE	kɔgɛrɛ	kɔkɔɾɔ 
+fly: kiɾe	kiɾiye 
+fly v.: kiɾe	kiɾiye 
+foot: kuwɑtɑgɑ	kuwɔ 
+full: ǯoː 
+give: ono	onu 
+good: seu	sɛn	sɛ̃ 
+green: wɛɾu	yɛɾu 
+hair: kuŋkuɾo 
+hand: numo 
+left hand: numo 
+right: numo 
+head: kunogoɾo	kuogoro 
+hear: ɛgɛ 
+heart: kɛnɛǯogo	kɛnɛǯoǯoǯaga 
+horn: kiɾɛ 
+kill: dɑ	dɑnɑ 
+knee: nENerekun	nɛŋerekun	yuŋɔnɔ 
+be knowledgeable: ĩwiyɛ 
+know: ĩwiyɛ 
+leaf: kuro	kurɔ	kuɾo 
+lie: ɑuwoɾu 
+lie down: ɑuwoɾu 
+liver: kɛnɛːɑlɑgɑ 
+long: guɾu 
+male: an	ɑ̃ɾɑn 
+man: nɛŋɛ	nːɑ 
+many: gɑɾɑː. ǯoː 
+much: gɑɾɑː. ǯoː 
+multiple: gɑɾɑː. ǯoː 
+several: gɑɾɑː. ǯoː 
+moon: ɔ	ɔː 
+hill: gomu 
+mountain: gomu 
+mouth: kan	kɑ̃	ɑŋɑ 
+name: boː	bõ	inrinbon	tigɛ 
+title: boː	bõ	inrinbon	tigɛ 
+neck: kɔrɔ	kɔɾɔ 
+night: daga	daʼaga	yɑŋɑ	ɲɑːŋɑ 
+nighttime: daga	daʼaga	yɑŋɑ	ɲɑːŋɑ 
+nose: kirin	kɩnu	ɩni 
+adulterous: tiː	turu 
+one: tiː	turu 
+single: tiː	turu 
+that: yɔ 
+the: tiː	turu 
+unprincipled: tiː	turu 
+human: nɛŋɛ	nːɑ 
+human being: nɛŋɛ	nːɑ 
+person: nɛŋɛ	nːɑ 
+rain: anrn	ɑnɑdi 
+rainy weather: anrn	ɑnɑdi 
+red: ban	bɑ̃	bɑ̃nu 
+path: oju 
+road: oju 
+route: oju 
+root: bɔrɔdu	bɔɾɔdũ	dũdũ 
+sand: sonson	sɔnɔ	sɔsɔnɔ 
+say: ginu	giːyɛ 
+seed: in	inɔu	inɔum	sɑ̃	ĩ 
+sit: deŋiː	dɑdɑɲɑ 
+hide: giyeguǯu 
+skin: giyeguǯu 
+sleep: ginɛ	ginʌnɔwɛ̃	ginʌnɔɛ̃	giɾɩyoɾu 
+little: dɑgu	dɑgɑ	uǯu 
+small: dɑgu	dɑgɑ	uǯu 
+smallness: dɑgu	dɑgɑ	uǯu 
+smoke: kukumo	kunkumo 
+star: toro	toɾo 
+rock: tu	tuwɔ	tuː 
+stone: tu	tuwɔ	tuː 
+sun: nunumu	nɑnɑ 
+swim: bɛːnɛ	wɛːnɛ 
+tail: durɔ	duɾɔ 
+this: nuŋɔ	ŋɔː 
+tongue: nEnE	nɛnɛ 
+tooth: inrin	mi	mu 
+tree: timE 
+grind: loy	lɔiy	lɔy 
+two: loy	lɔiy	lɔy 
+go: yeyɑː 
+walk: yeyɑː 
+water: di	diː 
+what: iŋe	iŋge 
+white: piʼi	pɩɾi	pɩɾu 
+whiteness: piʼi	pɩɾi	pɩɾu 
+who: a	ɑː 
+who?: a	ɑː 
+female: ɲɑ	ɲɛ̃ 
+woman: ɲɑ	ɲɛ̃ 
+yellow: yɔɾɔpuŋu 
+distant: wagɛ	wɑgɑ 
+far: wagɛ	wɑgɑ 
+dull: dogu 
+heavy: dogu 
+serious: dogu 
+salt: mɛn	mɛ̃ː 
+short: dege 
+snake: luro	yuːɾo 
+thin: doŋu	komo	uǯiː 
+wind: oɲe	oːɲɔ	ɔːnǯu 
+earthworm: susuŋ 
+worm: susuŋ 
+year: ɑnɑkuǯu 
+here: ni	nɛ	ĩ 
+there: yiː 
+where: ya	yɑ 
+where?: ya	yɑ 
+when: yadoguru	ɲyɑnɑ 
+when?: yadoguru	ɲyɑnɑ 
+how: yɑŋ	yɑŋʌyɑŋʌ 
+how?: yɑŋ	yɑŋʌyɑŋʌ 
+some: gama	nɛŋɛtunɔ 
+few: aŋara	dɑgɑː 
+other: pɛgɛ 
+three: taʼanu	tɑːn 
+four: nanhi	nɑiy 
+five: nune	nunɛ 
+broad: wɑː 
+wide: wɑː 
+wideness: wɑː 
+fat: nɑ̃wɑdogu 
+thick: nɑ̃wɑdogu 
+narrow: emi	emu 
+child: in 
+principal wife: ɲɑː	ɲɛː 
+wife: ɲɑː	ɲɛː 
+husband: ege	ɛgɛyɑ 
+his mother: mɑnɑ	mɛnɛ	na	nɑː 
+mother: mɑnɑ	mɛnɛ	na	nɑː 
+my mother: mɑnɑ	mɛnɛ	na	nɑː 
+father: bõː	dede	mɑnɑ	mɛnɛ 
+his father: bõː	dede	mɑnɑ	mɛnɛ 
+my father: bõː	dede	mɑnɑ	mɛnɛ 
+animal: asrɛgɛ	bɛɾu	ɑɾɑsɛgɛ 
+forest: unu 
+woods: unu 
+branch: numowẽy	nuoĩ 
+stick: numowẽy	nuoĩ 
+flower: piye	puyo 
+grass: guguɾu	gunu	keɾu 
+cord: suŋu 
+rope: suŋu 
+flesh: nanwan	nːɑuwɑ̃ 
+meat: nanwan	nːɑuwɑ̃ 
+fingernail: kɔɲu	numo-kɔɲu 
+leg: kuwɔ 
+wing: gaɲa	gɑɲɑ 
+gut: kɔ̃ɾĩ 
+guts: kɔ̃ɾĩ 
+insides: kɔ̃ɾĩ 
+intestine: kɔ̃ɾĩ 
+intestines: kɔ̃ɾĩ 
+back: dogo	dogokɛnɛ 
+suck: ɑɾɑ	ɔɲyɔ 
+spit: buɾɔ	tuɾɔ 
+vomit: guɾɔ 
+breath: ɲɩnɛ 
+breathe: ɲɩnɛ 
+laugh: moː 
+laughter: moː 
+cogitate: mɑnɑgɑ 
+reflect: mɑnɑgɑ 
+think: mɑnɑgɑ 
+smell: ǯiŋʌ ɛgɛ	ɛgɛ 
+sniff: ǯiŋʌ ɛgɛ	ɛgɛ 
+fight: kɔmɔ	ǯɑiye 
+hunt: dana	dɑnɑ 
+beat: dɔɲyɔ	lɑgɑ 
+hit: dɔɲyɔ	lɑgɑ 
+strike: dɔɲyɔ	lɑgɑ 
+cut: kɛǯɛ 
+hack: kɛǯɛ 
+scratch: kɔǯɔ	wɔːgɔ 
+dig: wɑɲyɑ	wɑɾɑ	ǯiɑː 
+tell lies: bɩnɛkɛyɛkɛyɛ	bɩnɛkɛǯɛ	kɑndɔnɔ	kɔɾu 
+stand: ige 
+drop: bɑgɑ	numbo 
+fall: bɑgɑ	numbo 
+rub: suɲyɔ 
+wipe: suɲyɔ 
+wash: sumɔ 
+wash clothes: sumɔ 
+throw: kɑmɑ	ǯumo 
+bind: digɛ	kɔmɔ	pɑgɑ 
+fasten: digɛ	kɔmɔ	pɑgɑ 
+tie: digɛ	kɔmɔ	pɑgɑ 
+tie up: digɛ	kɔmɔ	pɑgɑ 
+sew: lɔː	ɑǯɑɾɑ 
+count: lugu 
+enumerate: lugu 
+number: lugu 
+tally: lugu 
+sing: nuŋɔ 
+have fun: dugɔɾɔ	kɛɾɛkɛnɛ 
+play: dugɔɾɔ	kɛɾɛkɛnɛ 
+brook: goɾo	goɾu 
+river: goɾo	goɾu 
+stream: goɾo	goɾu 
+dust: puɾuguŋ 
+fog: bɑːpuɾugu 
+sky: arakara	ɑɾɑhɑɾɑ 
+day: isigeː	ni 
+daylight: isigeː	ni 
+daytime: isigeː	ni 
+bad: mɔnǯu	mɔɲu 
+evil: mɔnǯu	mɔɲu 
+rot: ɔmu	ɔmɔ 
+rotten: ɔmu	ɔmɔ 
+dirty: gɛ̃	nɛwɛ 
+filthy: gɛ̃	nɛwɛ 
+soiled: gɛ̃	nɛwɛ 
+damp: ɔɾɛ 
+wet: ɔɾɛ 
+correct: tɔŋɔnɔbɛɾɛ 
+right side: ɲyaː 
+left: nɑnɑ 
+in: bɩnɛkũ	bɩnɛtɔ 
+inside: bɩnɛkũ	bɩnɛtɔ 

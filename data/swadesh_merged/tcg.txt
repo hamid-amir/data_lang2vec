@@ -1,0 +1,225 @@
+all: oraratap 
+arm: yep 
+ashes: erep | erep	ererep 
+ashes: ererep | erep	ererep 
+belly: kaap | kaːp 
+belly: kaːp 
+big: pokura 
+bird: towpam | towpam	tupam 
+bird: tupam | towpam	tupam 
+black: takum | takum	tsakum 
+black: tsakum | takum	tsakum 
+blood: yet 
+bone: nomop 
+breast: erem 
+cassowary: kuyo 
+cloud: taam | tahamgopup	taːm 
+cloud: tahamgopup | tahamgopup	taːm 
+cloud: taːm | tahamgopup	taːm 
+cold: namu 
+come: gaman | gaman	kae 
+come: kae | gaman	kae 
+die: gatrepe 
+dog: epe 
+drink: ogom-yuri 
+dry: ogom-kanagan | ogom-kanagan ogom ɳ	taptəken 
+dry: taptëken | ogom-kanagan ogom ɳ	taptəken 
+dry: taptəken | ogom-kanagan ogom ɳ	taptəken 
+ear: ipiram | ipiram	iripam 
+ear: iripam | ipiram	iripam 
+earth: bep | mep 
+earth: mep 
+earth: pep | mep 
+eat: bagam-gapre | bagam-gapre	kapri 
+eat: kapri | bagam-gapre	kapri 
+egg: bap-iagam | bap-iagam	map-iakam 
+egg: mapiakam | bap-iagam	map-iakam 
+egg: map-iakam | bap-iagam	map-iakam 
+emu: kuyo 
+excrement: ane 
+eye: sakam | saka-m	sakam	tsaga-m 
+eye: saka-m | saka-m	sakam	tsaga-m 
+eye: tsaga-m | saka-m	sakam	tsaga-m 
+far: karumkos | karumkos	wasu 
+far: wasu | karumkos	wasu 
+father: ay 
+fat (n.): kup 
+feather: tupam-upm 
+fingernail: enop 
+fingernail: ye-wop 
+fire: aru 
+fish: yakam 
+fly (n.): more 
+fly (n.): purre 
+foot: apir 
+fruit: yakam 
+full: kaimataur 
+give: garrepe | garrepe	kai- 
+give: kai- | garrepe	kai- 
+good: bogai | bogai	roxae 
+good: roxae | bogai	roxae 
+green: tsakum 
+hair: upm 
+hand: yep 
+head: togom | togom	tokom 
+head: tokom | togom	tokom 
+heart: umur 
+hear: yirëkap | yir3kap	yirəkap 
+hear: yirəkap | yir3kap	yirəkap 
+heavy: karim 
+he/she: ek 
+he/she: enem 
+hole: pokop 
+house: wowk 
+I: -e | -e	nak 
+I: nak | -e	nak 
+I: nakanem | -e	nak 
+I: nem | -e	nak 
+knee: kupiakam | kup-iqam	kupiakam 
+knee: kup-iakam | kup-iqam	kupiakam 
+knee: kup-iqam | kup-iqam	kupiakam 
+leaf: gap | gap	kap 
+leaf: kap | gap	kap 
+leg: apir 
+long: maneat 
+man: nim | yo 
+man: yo 
+many: oraratap | oraratap	oratap 
+many: oratap | oraratap	oratap 
+meat: wokom 
+meat: woroggom 
+moon: gaggeram | gaggeram	kakaram 
+moon: kakaram | gaggeram	kakaram 
+mosquito: ni 
+mother: owp 
+mouth: bop | bop	mowp 
+mouth: mowp | bop	mowp 
+name: ra 
+neck: biriakam | bir-iakam	gapin 
+neck: bir-iakam | bir-iakam	gapin 
+neck: gapin | bir-iakam	gapin 
+new: wam | wam	wam-atap	wamatap 
+new: wamatap | wam	wam-atap	wamatap 
+night: ete mowp | ete mowp	etemup 
+night: etemup | ete mowp	etemup 
+nose: yup 
+old: owatap 
+one: pakamok 
+rain: muna 
+red: imikaup | imikaup	pipəre 
+red: pipëre | imikaup	pipəre 
+red: pipəre | imikaup	pipəre 
+road: gamin | kame 
+road: kame 
+root: gorup 
+rope: orom 
+sand: tiniberen | tiniberen	tinip 
+sand: tinip | tiniberen	tinip 
+say: keep | keːp 
+say: keːp 
+say: urok parm- | keːp 
+sea: tsagape 
+seed: tup 
+see: takape | taka-pe	takape 
+see: taka-pe | taka-pe	takape 
+sit: tei- 
+skin: pip 
+sleep: apun 
+small: tapëreak | tapəreak	tsareaq	tsarep 
+small: tapəreak | tapəreak	tsareaq	tsarep 
+small: tsareaq (...g?) | tapəreak	tsareaq	tsarep 
+small: tsarep | tapəreak	tsareaq	tsarep 
+smoke: aruarip | aru-arip	aru-puagam 
+smoke: aru-arip | aru-arip	aru-puagam 
+smoke: aru-puagam | aru-arip	aru-puagam 
+snake: ekor | ekor	ye 
+snake: ye | ekor	ye 
+stand: wai-yukwop 
+stand: wapi-erum 
+star: manep | manep	tupup 
+star: tupup | manep	tupup 
+stone: baitn | baitn	maitu 
+stone: maitu | baitn	maitu 
+sun: taam | taham	tam	taːm 
+sun: taham | taham	tam	taːm 
+sun: taːm | taham	tam	taːm 
+swim: kipkup 
+tail: kapm | kapm	tip 
+tail: tip | kapm	tip 
+that: omar 
+they: wene 
+they: wep 
+they: wepkom 
+thou: ak 
+thou: akan- 
+thou: anam | ak 
+thou: ikim | ak 
+tongue: barap | barap	marap 
+tongue: marap | barap	marap 
+tooth: aogom | aogom	ukom 
+tooth: ukom | aogom	ukom 
+tree: wom 
+tree: wum | wom 
+two: totigi 
+walk: inema | inema	onom 
+walk: onom | inema	onom 
+water: ogom | ogom	okom 
+water: okom | ogom	okom 
+weep: deir-pipyop 
+weep: neir 
+we: nep 
+we: nokom | nep 
+what: takane 
+white: koprap 
+who: min 
+wind: gapugup 
+woman: onop 
+yellow: berem 
+you: akan(ek) 
+every: oraratap 
+ash: erep	ererep 
+abdomen: kaːp 
+bigness: pokura 
+large: pokura 
+breasts: erem 
+come from: gaman	kae 
+be dead: gatrepe 
+dead: gatrepe 
+ground: mep 
+land: mep 
+soil: mep 
+left hand: yep 
+right: yep 
+1 sg.: -e	nak 
+male: nim	yo 
+much: oraratap	oratap 
+multiple: oraratap	oratap 
+several: oraratap	oratap 
+title: ra 
+nighttime: ete mowp	etemup 
+adulterous: pakamok 
+single: pakamok 
+the: pakamok 
+unprincipled: pakamok 
+human: yo 
+human being: yo 
+person: yo 
+rainy weather: muna 
+path: kame 
+route: kame 
+hide: pip 
+little: tapəreak	tsareaq	tsarep 
+smallness: tapəreak	tsareaq	tsarep 
+rock: baitn	maitu 
+2 sg: ak 
+you: ak 
+grind: totigi 
+go: inema	onom 
+1 pl. inc.: nep 
+we₁: nep 
+whiteness: koprap 
+who?: min 
+female: onop 
+distant: karumkos	wasu 
+dull: karim 
+serious: karim 

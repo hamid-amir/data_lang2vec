@@ -1,0 +1,265 @@
+all: gamagali	nasaŋ 
+every: gamagali	nasaŋ 
+ash: au	ʔahu 
+ashes: au	ʔahu 
+abdomen: baʔteŋ	boga- 
+belly: baʔteŋ	boga- 
+big: kapua	laʔilaʔi 
+bigness: kapua	laʔilaʔi 
+large: kapua	laʔilaʔi 
+bird: manu	manuk manuk 
+bite: kekeʔ	letai 
+black: dubaduba	ma-lotoŋ 
+blood: rara	ʔosina- 
+bone: buku	siada- 
+breast: susu	susu- 
+breasts: susu	susu- 
+burn: gabu	tunu 
+burn tr.: gabu	tunu 
+cloud: salebuʔ	yada	yaloi 
+cold: gogoma waʔoʔo	ma-sakkaʔ 
+come: laoma	sae 
+come from: laoma	sae 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: asu	kedewa 
+drink: iru7	iruʔ	nom 
+dry: ma-reŋko	pitali 
+ear: bea-	taliNa	taliŋa 
+eat: k-um-ande	ʔaiʔai 
+egg: kasino	pou	talloʔ 
+eye: mata	mata- 
+feather: bulu	goi- 
+fire: api	ʔoyagi alasi- 
+fish: bale	yama 
+fly: ie lo|i	tiaʔ 
+fly v.: ie lo|i	tiaʔ 
+good: lolo	ma-pia	melo 
+green: ma-ido	ʔalaʔalawa 
+hair: beluak	ʔulu maiawa- 
+hand: lima	nima- 
+left hand: lima	nima- 
+right: lima	nima- 
+head: ulu	ʔulu 
+hear: ataiei	raNi	raŋi 
+1 sg.: aku	yau 
+I: aku	yau 
+kill: buno	poŋko	unu|i 
+be knowledgeable: issan	ʔata 
+know: issan	ʔata 
+leaf: daun	lugu- 
+lie: mammaʔ	ʔeno 
+lie down: mammaʔ	ʔeno 
+liver: ate	ʔate 
+long: kalando	lohaloha 
+head louse: kutu	tuma 
+louse: kutu	tuma 
+male: muane	tau 
+man: doga	tau 
+moon: bulan 
+mouth: moʔa	sadaŋ	ʔawa 
+name: [h]esa-	saNa	saŋa 
+title: [h]esa-	saNa	saŋa 
+neck: baroko	gado- 
+new: baru	baʔru	halihaliu- 
+night: boNi	boŋi	maiona 
+nighttime: boNi	boŋi	maiona 
+nose: illoŋ	iloN	isu 
+adulterous: misa7	missaʔ	ʔesega 
+one: misa7	missaʔ	ʔesega 
+single: misa7	missaʔ	ʔesega 
+that: ia-to	ia-tu	neʔi 
+the: misa7	missaʔ	ʔesega 
+unprincipled: misa7	missaʔ	ʔesega 
+human: doga	tau 
+human being: doga	tau 
+person: doga	tau 
+rain: nabu	uran 
+rainy weather: nabu	uran 
+red: buyabuya	ma-raraŋ 
+path: dobila	lalan 
+road: dobila	lalan 
+route: dobila	lalan 
+root: akaʔ	lam- 
+sand: buŋin	gelegele 
+say: liba	po-kada 
+see: tiro	ʔita 
+sit: bawa	noʔkoʔ 
+hide: kuli7	kuliʔ	ʔopi 
+skin: kuli7	kuliʔ	ʔopi 
+sleep: mammaʔ	ʔeno 
+little: bittiʔ	gagili- 
+small: bittiʔ	gagili- 
+smallness: bittiʔ	gagili- 
+smoke: asu	rambu 
+star: bintoën	bint~o3n	ʔipola 
+rock: batu	weʔu 
+stone: batu	weʔu 
+swim: dui	oroŋ	tuba 
+tail: dele-	ikkoʔ 
+this: ia-te	ina 
+2 sg: iko	oa 
+thou: iko	oa 
+you: iko	oa 
+tongue: lila	memena 
+tooth: isi	ʔawa 
+grind: dua	labuʔi 
+two: dua	labuʔi 
+go: laulau	liŋka 
+walk: laulau	liŋka 
+hot: gigiboli	ma-lassu 
+warm: gigiboli	ma-lassu 
+water: goila	wai 
+1 pl. inc.: kami	kita	ʔai	ʔita 
+we: kami	kita	ʔai	ʔita 
+we₁: kami	kita	ʔai	ʔita 
+what: apa	saha 
+white: ma-busa	posiposi 
+whiteness: ma-busa	posiposi 
+who: [m]inda	yai 
+who?: [m]inda	yai 
+female: baine	sine 
+woman: baine	sine 
+yellow: ma-riri	yogeyoge 
+distant: bela	lohaloha 
+far: bela	lohaloha 
+dull: ma-gasa	polohe 
+heavy: ma-gasa	polohe 
+serious: ma-gasa	polohe 
+close: dappiʔ	gegesina	hanahanau 
+near: dappiʔ	gegesina	hanahanau 
+ner: dappiʔ	gegesina	hanahanau 
+salt: sia	ʔalita 
+short: kondiʔ	kuʔukuʔu 
+snake: mota	ulaʔ 
+thin: ma-nipiʔ	yaloyalo 
+wind: aŋin	mana 
+earthworm: kalintiŋ	niʔoi 
+worm: kalintiŋ	niʔoi 
+year: bolimai	taun 
+2 pl.: kamu	ʔomi 
+ye: kamu	ʔomi 
+you all: kamu	ʔomi 
+3 pl.: ia	isi 
+they: ia	isi 
+where: saha yai	umba nii 
+where?: saha yai	umba nii 
+when: auyana	piran 
+when?: auyana	piran 
+how: edoha	umba na-kua 
+how?: edoha	umba na-kua 
+other: esau	seŋaʔ 
+three: haiona	tallu 
+four: aʔpaʔ	hasi 
+broad: saŋkaʔ	tabataba 
+wide: saŋkaʔ	tabataba 
+wideness: saŋkaʔ	tabataba 
+fat: lompo	momona- 
+thick: ma-kamban	potopoto 
+narrow: mosisi	siʔpiʔ 
+principal wife: baine	mone sine 
+wife: baine	mone sine 
+husband: mone tau	muane 
+his mother: indoʔ	sina- 
+mother: indoʔ	sina- 
+my mother: indoʔ	sina- 
+father: ambeʔ	tama- 
+his father: ambeʔ	tama- 
+my father: ambeʔ	tama- 
+forest: [paŋ]alaʔ	nuʔula gunuala 
+woods: [paŋ]alaʔ	nuʔula gunuala 
+branch: laga-	taŋke 
+stick: laga-	taŋke 
+fruit: bua	ua-ua 
+flower: buŋa	pasa 
+grass: lagau	riu 
+cord: ulaŋ 
+rope: ulaŋ 
+flesh: buluma	issi 
+meat: buluma	issi 
+grease: lompo	momona- 
+wing: bala-	paniʔ 
+gut: sinae	tambuk 
+guts: sinae	tambuk 
+insides: sinae	tambuk 
+intestine: sinae	tambuk 
+intestines: sinae	tambuk 
+back: bokoʔ	dagila- 
+suck: madoi	sussuʔ 
+spit: met-tudu 
+vomit: lua	maliwe 
+blow: pamurruʔ	yuhi 
+breath: naa	yahua 
+breathe: naa	yahua 
+laugh: maluhi	taa 
+laughter: maluhi	taa 
+cogitate: nuatui	taŋaʔ 
+reflect: nuatui	taŋaʔ 
+think: nuatui	taŋaʔ 
+smell: uduk 
+sniff: uduk 
+afraid: matausi	takuʔ 
+be afraid: matausi	takuʔ 
+fear: matausi	takuʔ 
+fright: matausi	takuʔ 
+alive: mauli	tuo 
+be alive: mauli	tuo 
+life: mauli	tuo 
+live: mauli	tuo 
+living: mauli	tuo 
+hunt: he-kedewa	lola 
+beat: bamba	lubi 
+hit: bamba	lubi 
+strike: bamba	lubi 
+cut: ibo	tara	tom 
+hack: ibo	tara	tom 
+cut open: bakka	igali	piak 
+split: bakka	igali	piak 
+pierce: goli	tobok 
+stab: goli	tobok 
+scratch: gahili	kayok 
+dig: kali	sala 
+stand: bendan	tolo 
+drop: beʔu	tobaŋ 
+fall: beʔu	tobaŋ 
+grasp: tue	ʔabi 
+hold: tue	ʔabi 
+hold in arm: tue	ʔabi 
+squeeze: hihi	parra	tam 
+wring: hihi	parra	tam 
+throw: tibe	tu 
+bind: pori	ʔau 
+fasten: pori	ʔau 
+tie: pori	ʔau 
+tie up: pori	ʔau 
+sew: bodi	dasiʔ 
+count: bilaŋ	hasili 
+enumerate: bilaŋ	hasili 
+number: bilaŋ	hasili 
+tally: bilaŋ	hasili 
+flow: ie didi	loloŋ 
+lake: pulu	tapparan 
+ocean: gabogabo	tasik 
+sea: gabogabo	tasik 
+dust: au	huhua	muʔamuʔa 
+fog: goula	rambu roya 
+sky: galewa	laŋiʔ 
+bad: baʔaya	kadake 
+evil: baʔaya	kadake 
+rot: bosi	posa- 
+rotten: bosi	posa- 
+dirty: biʔi	koʔdoʔ 
+filthy: biʔi	koʔdoʔ 
+soiled: biʔi	koʔdoʔ 
+sharp: ma-taran	mata 
+blunt: bou	ma-pumpu 
+damp: bonak	buta 
+wet: bonak	buta 
+right side: kanan	tutu 
+left: kairi	seuseuli 
+at: di	yai 
+in: lan	ʔalo-na yai 
+inside: lan	ʔalo-na yai 
+and: na	yo 
+if: iake	taba 

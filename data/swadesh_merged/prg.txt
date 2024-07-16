@@ -1,0 +1,266 @@
+all: erains	wisāi 
+every: erains	wisāi 
+ash: pelanē 
+ashes: pelanē 
+bark: sakstis 
+abdomen: wēdērs 
+belly: wēdērs 
+big: debīkan 
+bigness: debīkan 
+large: debīkan 
+bird: pepelis	pipelis	pipelkā 
+black: kirsnan	kīrsnan 
+blood: kraujā	kravia	krāujā 
+bone: kaulan	kaūlan 
+breast: kraclan	kreklan 
+breasts: kraclan	kreklan 
+claw: nagutis 
+nail: nagutis 
+talon: nagutis 
+cloud: upʼan	wupyan 
+cold: salta	saltan 
+come: pErEit	peréit 
+come from: pErEit	peréit 
+be dead: aulaut	aulʼaút 
+dead: aulaut	aulʼaút 
+die: aulaut	aulʼaút 
+dog: sunis 
+drink: pout	puton	pōtwēi	pūtvei 
+dry: sausan 
+ear: ausins 
+earth: seme	zemē 
+ground: seme	zemē 
+land: seme	zemē 
+soil: seme	zemē 
+eat: ēst	ēstwen	īst 
+egg: paute 
+eye: ackis	akis	akīs 
+feather: plāugzdā 
+fire: pannō	pano	panā 
+fish: suckans	suckis	zukis	zuks 
+foot: nagē	pēdā 
+full: pilnan 
+give: dāt	dātwei 
+good: labs 
+green: zaljan	zalʼan 
+hair: skebelis	skebelīs 
+hand: raNkan	rankan	rankā 
+left hand: raNkan	rankan	rankā 
+right: raNkan	rankan	rankā 
+head: galvā	galwā 
+hear: kirdEiti	kirdē̈t	klausītun 
+heart: sēr	sēris 
+horn: ragis 
+1 sg.: Es	as 
+I: Es	as 
+kill: galintvei 
+knee: klupstis 
+be knowledgeable: vaist	waīsten 
+know: vaist	waīsten 
+leaf: lapan 
+liver: agno	jakna	yagno	yaknā 
+long: ilga	ilgāi 
+male: vīrs	wīrikan 
+man: smonEnavis	smunEnts	zmānenawins	zmānens 
+many: tūlan 
+much: tūlan 
+multiple: tūlan 
+several: tūlan 
+flesh: mensā 
+meat: mensā 
+moon: mēniks	mēnikīs 
+hill: garbis	grabis 
+mountain: garbis	grabis 
+mouth: austa	austā 
+name: EmEns	imens	wirdan	wīrdan	ēmen	ēmens 
+title: EmEns	imens	wirdan	wīrdan	ēmen	ēmens 
+neck: vinzus	winzus 
+new: nauns	navans 
+night: nacktien	naktin	naktis 
+nighttime: nacktien	naktin	naktis 
+nose: noz3	nozy	nāsī 
+not: ni 
+adulterous: ains	aīns 
+one: ains	aīns 
+single: ains	aīns 
+that: stas 
+the: ains	aīns 
+unprincipled: ains	aīns 
+human: smonEnavis	smunEnts	zmānenawins	zmānens 
+human being: smonEnavis	smunEnts	zmānenawins	zmānens 
+person: smonEnavis	smunEnts	zmānenawins	zmānens 
+rain: aglā	aglō 
+rainy weather: aglā	aglō 
+red: varminan 
+path: pintis 
+road: pintis 
+route: pintis 
+root: saknis 
+sand: zigzdā 
+say: bilēt	tārt 
+see: vidai	vidā	vidē 
+seed: sēmen 
+sit: sindans 
+hide: kEuto	kʼautā	skārdā 
+skin: kEuto	kʼautā	skārdā 
+sleep: gulētun	meikti 
+little: likuts	līkuts 
+small: likuts	līkuts 
+smallness: likuts	līkuts 
+smoke: dūmis	dūms 
+star: lauksnās	launos 
+rock: stabis	stabs 
+stone: stabis	stabs 
+sun: saulE	saulē	saūlē 
+tail: stags 
+this: šis 
+2 sg: tou	tū 
+thou: tou	tū 
+you: tou	tū 
+tongue: insuvis	inzuvis	inzuwis 
+tooth: dantis 
+tree: garian 
+grind: dvai	dwai	dwāi 
+two: dvai	dwai	dwāi 
+go: eit	neikaut	zengt 
+walk: eit	neikaut	zengt 
+water: undas	unds	vundan	wundan 
+1 pl. inc.: mes 
+we: mes 
+we₁: mes 
+what: ka	kawīds 
+white: gailis 
+whiteness: gailis 
+who: kas 
+who?: kas 
+female: gena	genā	wīrina 
+woman: gena	genā	wīrina 
+yellow: geltainan	gēltāinan 
+dull: brendus 
+heavy: brendus 
+serious: brendus 
+salt: sali	sālis 
+short: īnsan 
+snake: angis 
+wind: vētrā	wētra 
+earthworm: kirmis	kīrmis 
+worm: kirmis	kīrmis 
+year: meta	metan 
+3 sg.: tāns 
+he: tāns 
+she: tāns 
+2 pl.: jūs	yūs 
+ye: jūs	yūs 
+you all: jūs	yūs 
+3 pl.: tanai	tanans	tenei 
+they: tanai	tanans	tenei 
+here: stwi 
+there: stwen 
+where: kvei	kwēi 
+where?: kvei	kwēi 
+when: kadan 
+when?: kadan 
+how: kai	kāi 
+how?: kai	kāi 
+some: deli 
+other: kitan 
+three: trijan 
+four: keturjāi 
+five: pēnkjāi 
+broad: platus 
+wide: platus 
+wideness: platus 
+child: malnīks	mālnīkiks	mālnīks 
+principal wife: gena	salūban 
+wife: gena	salūban 
+husband: Sallūbaiwīrins	grandan 
+his mother: mātē 
+mother: mātē 
+my mother: mātē 
+father: tāvas	tāws 
+his father: tāvas	tāws 
+my father: tāvas	tāws 
+animal: alnē	zvērins	zwērins 
+forest: medjan	medʼan 
+woods: medjan	medʼan 
+branch: lagzdē	vipis 
+stick: lagzdē	vipis 
+fruit: véisin 
+grass: zālis	zālīs 
+cord: virbē	wīrbē 
+rope: virbē	wīrbē 
+fat: taūks 
+grease: taūks 
+fingernail: nagutis	nagutīs 
+leg: aulinis	nagē 
+arm: rānkā 
+wing: skreīlīs 
+gut: grābis 
+guts: grābis 
+insides: grābis 
+intestine: grābis 
+intestines: grābis 
+back: ritiznan	rītīznan 
+spit: vimbis	wemtweī 
+vomit: sjaūtweī 
+cogitate: pamērīt 
+reflect: pamērīt 
+think: pamērīt 
+afraid: bijāsnan	biāsnan 
+be afraid: bijāsnan	biāsnan 
+fear: bijāsnan	biāsnan 
+fright: bijāsnan	biāsnan 
+alive: gijwans	gīvas 
+be alive: gijwans	gīvas 
+life: gijwans	gīvas 
+live: gijwans	gīvas 
+living: gijwans	gīvas 
+fight: wālint 
+hunt: mediyas	medjānē 
+beat: bruktēt 
+hit: bruktēt 
+strike: bruktēt 
+cut: wartint 
+hack: wartint 
+pierce: bādīnt 
+stab: bādīnt 
+lie: gulētun	méntʼama 
+lie down: gulētun	méntʼama 
+tell lies: gulētun	méntʼama 
+stand: stalēt 
+drop: krūt 
+fall: krūt 
+grasp: lāikāitē 
+hold: lāikāitē 
+hold in arm: lāikāitē 
+bind: perréist 
+fasten: perréist 
+tie: perréist 
+tie up: perréist 
+sing: grīmuns 
+brook: ape	apē 
+river: ape	apē 
+stream: ape	apē 
+lake: assaran	azaran 
+ocean: jūrjāi	yūren 
+sea: jūrjāi	yūren 
+fog: kūpsins	migla 
+sky: dangus	dāngus 
+snow: snaigis	snāigs 
+ice: ladis	leds 
+day: deinan 
+daylight: deinan 
+daytime: deinan 
+old: wārs 
+bad: vargs 
+evil: vargs 
+damp: mārks 
+wet: mārks 
+correct: tikrāmiskan	tikārs 
+at: prēi 
+in: en 
+inside: en 
+with: sa	san 
+and: be	ir 
+if: ikai 
+because: begi 

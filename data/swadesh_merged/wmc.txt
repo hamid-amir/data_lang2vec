@@ -1,0 +1,414 @@
+all: abubunita 
+arm: ave- 
+arm: avɛ- 
+arrow: ʌːgri 
+ashes: giagi | giagi	pamu 
+ashes: pamu | giagi	pamu 
+back: segeme- 
+back: sɛgɛmɛ- 
+bad: nʌː 
+bad: në: 
+belly: oa- 
+belly: si | oa- 
+big: me | mɛ 
+big: mɛ 
+bird: ʌ | y	ʌ 
+bird: a:i | y	ʌ 
+bird: y | y	ʌ 
+bite: kɛye- 
+bite: keye-/ke- | kɛye- 
+black: pëmu | pʌmu 
+black: pʌmu 
+blood: ti | ti	ti- 
+blood: ti- | ti	ti- 
+blow: foti- 
+bone: fahulu- | fahulu	fahulu- 
+boy: na kuma 
+breast: au 
+brother: aßa- 
+brother: aun- 
+brother: ava- 
+brother: kamun- 
+burn: malar- 
+butterfly: bubur 
+butterfly: pageri:bu 
+butterfly: pagɛriːbu 
+calf: dau 
+cassowary: du:wau 
+cassowary: kiwë:ri 
+chest: kogomu- 
+chest: kogumu- 
+child: na 
+chin: mai- 
+cloud: saßɛ mɛgu | saβɛ mɛgu	saβɛ onʌmo 
+cloud: saßɛ onʌmo | saβɛ mɛgu	saβɛ onʌmo 
+cloud: save megu | saβɛ mɛgu	saβɛ onʌmo 
+cloud: save onëmo | saβɛ mɛgu	saβɛ onʌmo 
+cold: pau | pau	suhu 
+cold: suhu | pau	suhu 
+come: so- | so	so- 
+crocodile: oni 
+crocodile: yamëy 
+crocodile: yamʌy 
+cut: katur- 
+cut: ko- 
+day: suhabë:g 
+day: suhabʌːg 
+die: ma- | ma	ma- 
+dig: kar- 
+dig: mo- 
+dirty: duge horor 
+dirty: duge hɔrɔr 
+dog: pëi | p3i	pʌi 
+dog: pʌi | p3i	pʌi 
+dry: moëmau | moʌmau 
+dry: moʌmau 
+ear: dav- | dav	dav- 
+earth: wane 
+eat: za- 
+eat: zaifug- | za- 
+egg: hegu | hɛgu 
+egg: hɛgu 
+elbow: sunë(r)- fahu 
+elbow: sunʌ(r)- fahu 
+emu: duːwau 
+emu: kiwʌːri 
+excrement: si 
+eye: ami 
+eye: ami- 
+face: ura- 
+fall: ba- 
+fall: ko- 
+far: batʌː 
+far: batë: | batʌː 
+father: mama- 
+fat (n.): sumu 
+fear: vanëg- 
+fear: vanʌg- 
+few: fogʌ 
+few: fogë 
+fight: marʌ- 
+finger: aßia 
+finger: avia 
+fingernail: kë:ru 
+fingernail: kʌːru 
+fire: ëre | 3rE	ʌrɛ 
+fire: ʌrɛ | 3rE	ʌrɛ 
+fish: marawa:ri | marawari	marawaːri 
+fish: marawaːri | marawari	marawaːri 
+fly (n.): buhë:ge 
+fly (n.): buhʌːgɛ 
+fly (v.): talikaha- 
+fog: të:gu 
+fog: tʌːgu 
+forehead: ura- 
+forest: kuru 
+fruit: ë:gu 
+fruit: ʌːgu 
+full: ë:mug how | 3mug how	ʌːmug how 
+full: ʌːmug how | 3mug how	ʌːmug how 
+full: wete- | 3mug how	ʌːmug how 
+full: wetɛ- | 3mug how	ʌːmug how 
+girl: nahe 
+girl: nahɛ 
+give: ža- | ža- 
+give: zha/me-/mo- | ža- 
+good: kië:gi | kiʌːgi	tɛiwotʌ 
+good: kiʌːgi | kiʌːgi	tɛiwotʌ 
+good: tɛiwotʌ | kiʌːgi	tɛiwotʌ 
+good: teiwotë | kiʌːgi	tɛiwotʌ 
+grass: seb 
+guts: si 
+hair: ßili | βili 
+hair: vili | βili 
+head: kimu | tavi- karu 
+head: tavi- karu 
+hear: do- | do	do- 
+heart: ti guta:u | ti gutaːu 
+heart: ti gutaːu 
+heavy: ku:a | kuːa 
+heavy: kuːa 
+here: ame 
+here: amɛ 
+here: geame 
+he/she: -d- 
+he/she: -əg 
+he/she: nugo 
+he/she: -ø 
+he/she: -ø- 
+he/she: -u 
+he/she: -Vg 
+hit: marë- 
+hold: ët- 
+hold: ʌt- 
+house: ɟʌ 
+house: jë 
+how: katata 
+I: -a | sa 
+I: -e | sa 
+I: -ɛ | sa 
+I: -i | sa 
+in: zëbo 
+I: -r- | sa 
+I: sa 
+kill: marëre ma- | marʌrɛ ma- 
+kill: marʌrɛ ma- 
+knee: tavar- ëmu | tavar 3mu	tavar- ʌmu 
+knee: tavar- ʌmu | tavar 3mu	tavar- ʌmu 
+laugh: kahe imo- 
+left: nanimo 
+leg: bëtëri- 
+leg: bʌtʌri- 
+lightning: amem ahi- 
+lightning: amɛm ahi- 
+liver: game- | gamE	gamɛ- 
+liver: gamɛ- | gamE	gamɛ- 
+long: wouta 
+louse: mi 
+man: dana 
+man: gabo | dana 
+many: kageni | kagɛni	wagidɛ 
+many: kagɛni | kagɛni	wagidɛ 
+many: wagide | kagɛni	wagidɛ 
+many: wagidɛ | kagɛni	wagidɛ 
+meat: dau 
+moon: noai 
+morning: tumërege 
+morning: tumʌrɛgɛ 
+morning: wanekilu 
+morning: wanɛkilu 
+mosquito: makene 
+mosquito: makɛnɛ 
+mother: ana- 
+mountain: bori 
+mouth: kauru- 
+name: bina- | bina	bina- 
+nape: nu- a:mu 
+nape: nu- aːmu 
+navel: sumuli- 
+near: bi 
+neck: gomore | gomorɛ 
+neck: gomorɛ 
+new: kauta | kauta	vouva 
+new: vouva | kauta	vouva 
+night: tumahimou | tamahimou	tumahimou 
+nose: nowi- | nowi	nowi- 
+not: pi 
+old: gedeme 
+old: sagu 
+one: nonogota | nonogota	nonogɔta 
+one: nonogɔta | nonogota	nonogɔta 
+pull: aha- 
+rain: vo | vɔ 
+rain: vɔ 
+rat: pë:huna 
+rat: pʌːhuna 
+red: tita 
+right: teibo 
+right: tɛibo 
+ripe: bele 
+ripe: bɛlɛ 
+road: i:bu | ibu 
+road: iːbu | ibu 
+root: sig 
+rope: kɔːre 
+salt: së:mu | sʌːmu 
+salt: sʌːmu 
+sand: kehë:re | kɛhʌːrɛ 
+sand: kɛhʌːrɛ 
+sand: tasin | kɛhʌːrɛ 
+say: ai + "give | ai ža- 
+say: ai ža- | ai ža- 
+say: nin \pa- | ai ža- 
+say: nin ʔpa- | ai ža- 
+scratch: ger- 
+scratch: gɛr- 
+sea: gagi 
+see: aboyɛ- | abo	aboyE	aboyɛ-	aβ-	aβo- 
+see: aß(o)- | abo	aboyE	aboyɛ-	aβ-	aβo- 
+see: av(o)-/aboye- | abo	aboyE	aboyɛ-	aβ-	aβo- 
+see: diʔpo- | abo	aboyE	aboyɛ-	aβ-	aβo- 
+sharp: ë:guta: 
+sharp: ʌːgutaː 
+sharp: mete- 
+short: tu: | tuː 
+short: tuː 
+shoulder: paya fahu 
+sing: kahu ver- 
+sister: kaßin- 
+sister: kaßin- inahita 
+sister: kavin- 
+sister: kavin- inahita 
+sit: kin- 
+skin: gara- | gara	gara- 
+sleep: nig- 
+small: nëheta | nʌhɛta 
+small: nʌhɛta 
+smell: muhu aido- 
+smoke: muhi 
+snake: mat 
+spit: daurɛ- 
+spit: sonoma 
+split: sabilio- 
+stand: bata- 
+stand: tari kah- 
+star: bi:hi | bihi	biːhi 
+star: biːhi | bihi	biːhi 
+stick: bënore 
+stone: ki 
+straight: mua 
+sun: bihi 
+swell: ibid- 
+tail: mëlu | mʌlu 
+tail: mʌlu 
+tail: sihëru | mʌlu 
+tail: sihʌru | mʌlu 
+take: ʌ- 
+take: ë- 
+that: baːtʌ 
+that: ba:të | baːtʌ 
+there: wa 
+they: -ad- 
+they: -gar 
+they two: -at- 
+they two: -ay 
+they two: ay arita 
+they: zou naga 
+thigh: fo- 
+thigh: fɔ- 
+think: dava mo- 
+this: biːtʌ | biːtʌ	ɛ 
+this: bi:të | biːtʌ	ɛ 
+this: e | biːtʌ	ɛ 
+this: ɛ | biːtʌ	ɛ 
+thou: -ad- | nagE	nagɛ 
+thou: -ah- | nagE	nagɛ 
+thou: -eh- | nagE	nagɛ 
+thou: -ɛh- | nagE	nagɛ 
+thou: -gar | nagE	nagɛ 
+thou: ʌgɛ | nagE	nagɛ 
+thou: -n | nagE	nagɛ 
+thou: -na | nagE	nagɛ 
+thou: nage | nagE	nagɛ 
+thou: nagɛ | nagE	nagɛ 
+thou: -te | nagE	nagɛ 
+thou: -tɛ | nagE	nagɛ 
+throat: gomore- ëgu 
+throat: gomorɛ- ʌgu 
+throw: fo- 
+thunder: sabe po- 
+thunder: sabɛ po- 
+tie: kaha- 
+tomorrow: kilu: 
+tomorrow: kiluː 
+tomorrow: ya:hige 
+tongue: merë:ru- | mEr3ru	mɛrʌːru 
+tongue: mɛrʌːru | mEr3ru	mɛrʌːru 
+tooth: ʌ- 
+tooth: ë- | ʌ- 
+tree: kaimo 
+tree: muː | kaimo 
+tree: taba | kaimo 
+turn: bilinʌ- 
+turn: bilinë- 
+two: ëritë | 3rit3	ʌritʌ 
+two: ʌritʌ | 3rit3	ʌritʌ 
+vagina: bua- 
+vomit: fah- 
+walk: batini kug- 
+walk: kug- 
+wallaby: bede 
+wallaby: bɛdɛ 
+warm: arëtë 
+warm: arʌtʌ 
+wash: jhi za- 
+wash: za ya- 
+wash: za ya-/zau- 
+wash: ǯi za- 
+water: zhi | Zi	ži 
+water: ži | Zi	ži 
+weep: bia- 
+we: -ig | zogo 
+we: -ig- | zogo 
+we two: -it 
+we two: -it- 
+we two: zo arita 
+wet: zhi tau 
+wet: ži tau 
+we: zogo 
+what: kata 
+where: aramo 
+white: kië:gi | kiʌːgi 
+white: kiʌːgi 
+who: wene | wɛnɛ 
+who: wɛnɛ 
+wind: warahi 
+wing: garʌ 
+wing: garë 
+woman: ahe | ahɛ 
+woman: ahɛ 
+woman: anau | ahɛ 
+wood: bʌnorə 
+wood: fogʌ 
+wood: fogë 
+wood: tu 
+yellow: sohobere | sohobɛrɛ 
+yellow: sohobɛrɛ 
+yesterday: toëhe 
+yesterday: tu 
+yesterday: tʰu 
+yes: ʔuʔu 
+yes: u\u 
+you: -ad- | nagE	nagɛ 
+you: ëge | nagE	nagɛ 
+you: -gar | nagE	nagɛ 
+you two: -at- 
+you two: -ay 
+you two: aye arita 
+every: abubunita 
+ash: giagi	pamu 
+abdomen: oa- 
+bigness: mɛ 
+large: mɛ 
+breasts: au 
+come from: so	so- 
+be dead: ma	ma- 
+dead: ma	ma- 
+ground: wane 
+land: wane 
+soil: wane 
+fly: ?talikaha- 
+fly v.: ?talikaha- 
+1 sg.: sa 
+head louse: mi 
+male: dana 
+much: kagɛni	wagidɛ 
+multiple: kagɛni	wagidɛ 
+several: kagɛni	wagidɛ 
+hill: bori 
+title: bina	bina- 
+nighttime: tamahimou	tumahimou 
+adulterous: nonogota	nonogɔta 
+single: nonogota	nonogɔta 
+the: nonogota	nonogɔta 
+unprincipled: nonogota	nonogɔta 
+rainy weather: vɔ 
+path: ibu 
+route: ibu 
+hide: gara	gara- 
+little: nʌhɛta 
+smallness: nʌhɛta 
+rock: ki 
+2 sg: nagE	nagɛ 
+grind: 3rit3	ʌritʌ 
+go: kug- 
+1 pl. inc.: zogo 
+we₁: zogo 
+whiteness: kiʌːgi 
+who?: wɛnɛ 
+female: ahɛ 
+distant: batʌː 
+dull: kuːa 
+serious: kuːa 
+close: bi 
+ner: bi 

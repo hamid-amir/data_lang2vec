@@ -1,0 +1,559 @@
+all: ɹ̣ɔwug | rig	ɹ̣ɔwug 
+all: rig | rig	ɹ̣ɔwug 
+and: ɟa 
+and: ṛɛṛi | ɟa 
+animal: mayʔ 
+ankle: gunbuṇ 
+arm: gunbɛndɛ 
+arm: gunbiḷ 
+ashes: garawugaŋ | garawugaŋ	kun-bule 
+back: bɔdmɛ | bɔdmɛ	gunbɔdmɛ 
+back: g. muruŋ | bɔdmɛ	gunbɔdmɛ 
+back: gunbɔdmɛ | bɔdmɛ	gunbɔdmɛ 
+bad: -rɔwɛ- | -rɔwɛ-	-warɛ	kaware	naware 
+bad: -warɛ | -rɔwɛ-	-warɛ	kaware	naware 
+bark: gungɔŋ | gungɔŋ	man-kuḷaʔ 
+because: ɟa 
+belly: guɲam 
+belly: gun-ɲam 
+big: -gimug | -gimug	nakimuk 
+bird: mai\ | maiʼ	makːakːur	mayʔ 
+bird: mayʔ | maiʼ	makːakːur	mayʔ 
+bite: -baiɛ- | -baiɛ-	-bayɛ	baye 
+bite: -bayɛ | -baiɛ-	-bayɛ	baye 
+bitter: -man̪ware 
+black: -bulɛːri | -bulɛːri	buleri	bulɛːri 
+black: bulɛːri | -bulɛːri	buleri	bulɛːri 
+blood: gungulba | gun-guḷba	gungulba	guḷba	kun-kuḷba	kunkulba 
+blood: (gun-)guḷba | gun-guḷba	gungulba	guḷba	kun-kuḷba	kunkulba 
+blow: -bumɛ 
+blow: -wɔl\wɔl\me | -bumɛ 
+bone: gunmurŋ | gun-muruŋ	gun-murŋ	kun-murŋ	kunmurN 
+bone: gunmuruŋ | gun-muruŋ	gun-murŋ	kun-murŋ	kunmurN 
+boy: laid\guruŋu 
+boy: wuḍ 
+boy: yawuriɲ 
+branch: gun-gaːlaŋ | gun-gaːlaŋ	manduḷgyɛndɛ 
+branch: manduḷgyɛndɛ | gun-gaːlaŋ	manduḷgyɛndɛ 
+breathe: gun-ŋɔlɛg | -nɔlɛg-ŋɛmɛ	gunwaleg ŋaʼme? 
+breathe: gunwaleg ŋa\me | -nɔlɛg-ŋɛmɛ	gunwaleg ŋaʼme? 
+breathe: -nɔlɛg-ŋɛmɛ | -nɔlɛg-ŋɛmɛ	gunwaleg ŋaʼme? 
+brother: ḍaḍa 
+brother: gɔgɔg 
+brother: ŋanidaŋin 
+burn: ŋagiɲe | ŋagiɲe	ŋawulge	ɹ̣uŋ 
+burn: ŋawulge | ŋagiɲe	ŋawulge	ɹ̣uŋ 
+burn: -ɹ̣u | ŋagiɲe	ŋawulge	ɹ̣uŋ 
+burn: -wargmɛ- | ŋagiɲe	ŋawulge	ɹ̣uŋ 
+butterfly: galamanban 
+cheek: gunŋalabag 
+chest: gunbirɛgalg 
+child: wuɟaw | wuɟaw	wuḍ-yaw 
+child: wud | wuɟaw	wuḍ-yaw 
+child: wuḍ-yaw | wuɟaw	wuḍ-yaw 
+chin: daŋmaḍ 
+cloud: gunŋɔl | gunŋɔl	kun-ŋol 
+cold: -bɔṇɟɛg | -bɔṇɟɛg 
+come: -mṛɛ | -mṛɛ 
+correct: -mag 
+crocodile: giŋa 
+crocodile: gɔlɔmɔmɔ 
+cut: -ɟalgmiwa | -ɟalgmiwa	-ɟob-gɛ	-ṛaidʼgɛ	daɟke	ɟobke 
+cut: -dulubu | -ɟalgmiwa	-ɟob-gɛ	-ṛaidʼgɛ	daɟke	ɟobke 
+cut: -ɟob-gɛ | -ɟalgmiwa	-ɟob-gɛ	-ṛaidʼgɛ	daɟke	ɟobke 
+cut: -ṛaid\gɛ | -ɟalgmiwa	-ɟob-gɛ	-ṛaidʼgɛ	daɟke	ɟobke 
+cut: -raynbu | -ɟalgmiwa	-ɟob-gɛ	-ṛaidʼgɛ	daɟke	ɟobke 
+dark: gumunun 
+daughter: ŋaʎawyaw 
+daughter: ŋal-bɛywud 
+daughter: ŋal yawurin 
+day: banaŋare | banaŋare	gun-gɔɟgɛ 
+day: gun-baṇaŋara | banaŋare	gun-gɔɟgɛ 
+day: gun-gɔɟgɛ | banaŋare	gun-gɔɟgɛ 
+day: wɔlɛwɔlɛ | banaŋare	gun-gɔɟgɛ 
+die: -dɔːwɛ | -dɔwɛ-	-dɔːwɛ	dowen 
+die: -dɔwɛ- | -dɔwɛ-	-dɔːwɛ	dowen 
+die: dɔwɛn | -dɔwɛ-	-dɔːwɛ	dowen 
+die: -gebŋamɛn | -dɔwɛ-	-dɔːwɛ	dowen 
+dig: -gaṛun | -gaɹ̣u	-gaṛun 
+dig: -gaɹ̣u | -gaɹ̣u	-gaṛun 
+dirty: -bulɛri 
+dog: duṛug | dalkːen	duruk	duɹ̣ug	duṛug	n̞-	ŋal-woydo 
+dog: duɹ̣ug | dalkːen	duruk	duɹ̣ug	duṛug	n̞-	ŋal-woydo 
+drink: -bɔːŋu | -bɔːŋu	-ŋu- 
+drink: -ŋu- | -bɔːŋu	-ŋu- 
+dry: -bogmin | -bogmin	ka-buk 
+dust: gun-ɟulŋ 
+ear: gunganɛm | gunganɛm	kun-kanem	kunkanem 
+earth: gun-guʎg | kun-kuḷk 
+earth: gun-ɹ̣orɛ | kun-kuḷk 
+earth: gunṛoṛe | kun-kuḷk 
+eat: -ŋu | -ŋu	-ŋu-	ŋun 
+eat: -ŋu- | -ŋu	-ŋu-	ŋun 
+egg: ŋalŋ | wilarg	wiḷark 
+egg: wilarg | wilarg	wiḷark 
+elbow: gunnɛ 
+emu: garagaɟi 
+emu: gurugaiyu 
+eye: gunmim | gun-mim	gunmim	kun-mim	kunmim 
+eye: gun-mim | gun-mim	gunmim	kun-mim	kunmim 
+eye: gunmim ɟamud | gun-mim	gunmim	kun-mim	kunmim 
+eye: gun-mim-gulaʔ | gun-mim	gunmim	kun-mim	kunmim 
+eye: gun-mim-mud | gun-mim	gunmim	kun-mim	kunmim 
+eye: yunmim gunbug | gun-mim	gunmim	kun-mim	kunmim 
+face: -gɛb 
+face: gungɛb 
+fall: manga- | -maŋa	manga-	mankan 
+fall: -maŋa | -maŋa	manga-	mankan 
+father: -bɔṇan | -bɔṇan	gɔṇgɔ	ŋabad	ŋabaḍ	ŋabːaḍ 
+father: gɔṇgɔ | -bɔṇan	gɔṇgɔ	ŋabad	ŋabaḍ	ŋabːaḍ 
+father: ŋabad | -bɔṇan	gɔṇgɔ	ŋabad	ŋabaḍ	ŋabːaḍ 
+father: ŋabaḍ | -bɔṇan	gɔṇgɔ	ŋabad	ŋabaḍ	ŋabːaḍ 
+fat (n.): gunbalin 
+fear: gɛle | guŋɛlɛ 
+fear: -gɛŋɛmɛ | guŋɛlɛ 
+fear: guŋɛlɛ 
+feather: miɟeg 
+few: biriya\wud | biriyaʼwud 
+fight: -buɾen 
+finger: -daŋe 
+finger: gunbid 
+fire: gunag | gun-nag	gun-ɹ̣ag	gunag	kunak 
+fire: gun-ɹ̣ag | gun-nag	gun-ɹ̣ag	gunag	kunak 
+fire: gun-nag | gun-nag	gun-ɹ̣ag	gunag	kunak 
+fire: walɟɛn | gun-nag	gun-ɹ̣ag	gunag	kunak 
+fish: ɟɛɲ | dy~e5	ɟeɲ	ɟɛɲ 
+flow: -bɔː-ɹ̣ɛ 
+flower: man-ŋuwi 
+fly (n.): bɔːd 
+fly (v.): -wagbu- 
+fog: gaṇḍum | gaṇḍum 
+foot: gundɛŋɛ | gun-dɛŋɛ	gundɛŋɛ	kun-deŋe 
+foot: gun-dɛŋɛ | gun-dɛŋɛ	gundɛŋɛ	kun-deŋe 
+foot: gun-dɛŋɛ-mirg | gun-dɛŋɛ	gundɛŋɛ	kun-deŋe 
+forehead: gunmil 
+forehead: gunmilʔ 
+forest: manbɛrg 
+full: baḷmɛn | -wɔrg	baḷmɛn 
+full: ŋabom̪ʌ | -wɔrg	baḷmɛn 
+full: -wɔrg | -wɔrg	baḷmɛn 
+girl: ŋalyaug 
+give: -wɔ | -wɔ	-wɔː-	won 
+give: -wɔː- | -wɔ	-wɔː-	won 
+good: -mag | -mag	kamak	namak 
+grass: gundalg | gun-dalg	kun-dalk 
+green: -gawɔː 
+hair: gun-mud | gun-mud	gun-ŋabɛg	kun-ŋabed	kun-ŋabek 
+hair: gunŋabɛg | gun-mud	gun-ŋabɛg	kun-ŋabed	kun-ŋabek 
+hand: -bid | -bid	gun-bid	kun-bid	kunbid 
+hand: gunbid | -bid	gun-bid	kun-bid	kunbid 
+head: gungɔiɟ | gun-gɔiɟ	gun-gɔyɟ	kun-koɟ 
+head: gun-gɔyɟ | gun-gɔiɟ	gun-gɔyɟ	kun-koɟ 
+hear: -bɛga- | -bɛga-	-bɛgga	bekan	bekːan	marngalahme 
+hear: -bɛgga | -bɛga-	-bɛgga	bekan	bekːan	marngalahme 
+hear: -bɛgga- | -bɛga-	-bɛgga	bekan	bekːan	marngalahme 
+hear: bɛŋ-yiri | -bɛga-	-bɛgga	bekan	bekːan	marngalahme 
+heart: gun-ḍuḍu | gun-ḍuḍu	gurudu	guṇḍuḍu	kun-duḍːu 
+heart: guṇḍuḍu | gun-ḍuḍu	gurudu	guṇḍuḍu	kun-duḍːu 
+heart: gurudu | gun-ḍuḍu	gurudu	guṇḍuḍu	kun-duḍːu 
+heavy: dulmug | dulmug	dulmuk 
+here: gɔnda | gɔnda	konʔda 
+he/she: ŋalɛŋ 
+he/she: -ŋalɛŋ 
+he/she: ŋarɛ 
+he/she: nuŋa 
+he/she: -nuŋga 
+he/she: nuyɛ 
+hit: -bu | -bu	-da-	bun 
+hit: -da- | -bu	-da-	bun 
+hold: -garmɛ | -garmɛ	-ma- 
+hold: -ma- | -garmɛ	-ma- 
+hole: gaṛuṛg 
+hole: gun-ɟɔːlɔg 
+hole: gun-ɹ̣urg 
+house: gunṛuṛg 
+house: gun-ɹ̣urg 
+how: balɛʔ | baleʔ kayime	balɛʔ 
+hunt: -waḷbu | -waḷbu	-yawa- 
+hunt: -yawa- | -waḷbu	-yawa- 
+husband: nabuniŋgobeŋ | na-galiyi	nabuniŋgobeŋ 
+husband: na-galiyi | na-galiyi	nabuniŋgobeŋ 
+if: bu 
+I: ŋadug | Naye	ŋayɛ	ŋaːyɛ 
+I: ŋayɛ | Naye	ŋayɛ	ŋaːyɛ 
+I: -ŋayɛ | Naye	ŋayɛ	ŋaːyɛ 
+I: ŋaːyɛ | Naye	ŋayɛ	ŋaːyɛ 
+kangaroo: goṇobolo 
+kangaroo: guɲ 
+kangaroo: guin 
+kangaroo: gundagi 
+kill: -bu- | -bu-	bun 
+knee: baḍ | baḍ	gunbad	kun-baḍ	kunbad 
+knee: gunbad | baḍ	gunbad	kun-baḍ	kunbad 
+know: -bɛŋga- | -burabu	-bɛŋga- 
+know: -burabu | -burabu	-bɛŋga- 
+lake: gun-labbaḷ | manlabaḷ 
+lake: gun-ŋad | manlabaḷ 
+lake: manlabaḷ | manlabaḷ 
+laugh: -ɟɛgmɛ 
+leaf: gunwar | gunwar	gunwɔr	kun-maḷawor	kunmalawor 
+leaf: gunwɔr | gunwar	gunwɔr	kun-maḷawor	kunmalawor 
+left: gunɟagun 
+leg: gun-dad | gun-dad	gungareyälgan	kun-dad 
+leg: gungareyälgan | gun-dad	gungareyälgan	kun-dad 
+lie: -geyo | -geyo	-yɔ | -gɔːwɛ	yigurɛn 
+lie: -yɔ | -geyo	-yɔ | -gɔːwɛ	yigurɛn 
+lightning: namaragɔːn 
+lip: -maːye 
+live: -mimbi | -mimbi	-yɔ 
+liver: gundiyu | gun-diyu	kun-diw	kundiw 
+live: -yɔ | -mimbi	-yɔ 
+long: -gimug | nakuyeŋ	nä-guyɛn 
+long: gɔrɔgɔ | nakuyeŋ	nä-guyɛn 
+long: -guyɛn | nakuyeŋ	nä-guyɛn 
+long: näguyɛn | nakuyeŋ	nä-guyɛn 
+louse: dɔːd 
+louse: dɔːḍ 
+man: biniɲ | bini5	binin	biniɲ 
+man: binin | bini5	binin	biniɲ 
+many: -wɛṇ | -wɛṇ	naweṇ	wɛyn 
+many: wɛyn | -wɛṇ	naweṇ	wɛyn 
+meat: -burg | -burg	guŋayn	kun-kaɲ | gun-gan̪	gun-gaɲ	kun-kaɲ 
+meat: gungan̪ | -burg	guŋayn	kun-kaɲ | gun-gan̪	gun-gaɲ	kun-kaɲ 
+meat: guŋayn | -burg	guŋayn	kun-kaɲ | gun-gan̪	gun-gaɲ	kun-kaɲ 
+moon: ḍid | diːḍ	diḍ	karakbaḷ	ḍid 
+moon: diːḍ | diːḍ	diḍ	karakbaḷ	ḍid 
+morning: gugabel 
+morning: gugaːbɛl 
+morning: gun-gabɛl 
+mosquito: bindu 
+mosquito: biːndu 
+mother: garab | garab	garaŋ	garaḍ	ŋal-bayɟan 
+mother: garaŋ | garab	garaŋ	garaḍ	ŋal-bayɟan 
+mother: ŋal-bayɟan | garab	garaŋ	garaḍ	ŋal-bayɟan 
+mountain: -gunwaḍe | gun-waḍɛ 
+mountain: gunwaḍɛ | gun-waḍɛ 
+mouth: gundaŋ | gun-daŋ	kun-daŋ 
+mouth: gun-daŋ | gun-daŋ	kun-daŋ 
+name: -ŋeyo | -ŋeyo	kun-bid 
+nape: gunɟud 
+navel: gunŋugaṇ 
+near: daṇgi | daṇgi	daṇkiʔ	daṇʔ- 
+neck: gungɔm | gun-gɔm	guŋɔm	kun-kom 
+neck: guŋɔm | gun-gɔm	guŋɔm	kun-kom 
+new: -gɛrɛŋɛ 
+new: yawɔriɲ | -gɛrɛŋɛ 
+night: gun-gag 
+not: burgyaːg | mi	miɲ 
+not: miɲ | mi	miɲ 
+not: yuwun | mi	miɲ 
+old: -gaṛe 
+old: -garɛ 
+old: gɔʔbayn 
+old: ŋoɣɔbban̪ 
+one: -guɟi | -guɟi	nakudji	nakudy~i	nakuɟi 
+one: rɛrɛŋɛ-gɛn | -guɟi	nakudji	nakudy~i	nakuɟi 
+other: yiga 
+person: binin | bini5	binin	biniɲ 
+play: -diri | -diri	-diṛi 
+play: -diṛi | -diri	-diṛi 
+pull: -rɔrɔr-gɛ 
+rain: -ɟaːgdu | man-ɟewk	manɟewg 
+rain: manɟewg | man-ɟewk	manɟewg 
+rat: bigu 
+red: -gulba | -gulba	kun-ɹ̣oɟbe 
+right: gungun | -bid	gun-bid	kun-bid	kunbid 
+ripe: -ɟɔlɛŋmin 
+river: gun-gaːbɔ | gun-waɲɟad	man-kabo	mangabo 
+river: gun-waɲɟad | gun-waɲɟad	man-kabo	mangabo 
+river: mangabo | gun-waɲɟad	man-kabo	mangabo 
+road: gun-bɔl 
+road: manbɔl 
+root: mandulgdad | mandulgdad	ŋa-deɟ 
+rope: guɲal | guɲal	yaʎ 
+rope: guɲäl | guɲal	yaʎ 
+rope: yaʎ | guɲal	yaʎ 
+rotten: -nudmin | -nudmin	nud	nudmen 
+round: -ɟuruyuru 
+rub: -ŋaugmen 
+sand: gungaialan | gun-gaialan	kun-kaṇalaɲ 
+say: -wogdi- | -yima	yime | gun-gaialan	kun-kaṇalaɲ 
+say: wɔgdi | -yima	yime | gun-gaialan	kun-kaṇalaɲ 
+say: -yima | -yima	yime | gun-gaialan	kun-kaṇalaɲ 
+scratch: -lirbmɛ | -lirbmɛ	-lirbmɛ-rɛ	-lirigʼmɛ- 
+scratch: -lirbmɛ-rɛ | -lirbmɛ	-lirbmɛ-rɛ	-lirigʼmɛ- 
+scratch: -lirig\mɛ- | -lirbmɛ	-lirbmɛ-rɛ	-lirigʼmɛ- 
+sea: gun-gurula 
+sea: gurula 
+sea: wɛːn gawɛ 
+seed: manmim 
+see: -na | -na	-na- 
+see: -na- | -na	-na- 
+see: -yawa | -na	-na- 
+sharp: mirʔ-bu | -ɟur-bu	mirʔ-bu	ɟurumag 
+sharp: -ɟur-bu | -ɟur-bu	mirʔ-bu	ɟurumag 
+sharp: ɟurumag | -ɟur-bu	mirʔ-bu	ɟurumag 
+short: dɛɟumbuŋ | dɛɟumbuŋ	umbuŋ 
+shoulder: gaḷan 
+shoulder: -mɔnɛ 
+sing: -waiinni | -waiinni	-wayini 
+sing: -wayini | -waiinni	-wayini 
+sister: ŋal-walawag 
+sister: ŋalwenwaṛe 
+sister: yanbog 
+sit: -baːŋdi | -baːŋdi	-ni	-ni-	ni 
+sit: -ni | -baːŋdi	-ni	-ni-	ni 
+sit: -ni- | -baːŋdi	-ni	-ni-	ni 
+skin: -gula\yilgbu | gungula	kun-kuḷaʔ	kunkulah 
+skin: gungula | gungula	kun-kuḷaʔ	kunkulah 
+skin: -yilgbu | gungula	kun-kuḷaʔ	kunkulah 
+sky: gadum | gadum	gaduwoʼga 
+sky: gaduwo\ga | gadum	gaduwoʼga 
+sleep: -geyo- | -geyo-	-gɛyɔ 
+sleep: -gɛyɔ | -geyo-	-gɛyɔ 
+small: -yaw | -yaw	-yaʼwud	nayaʔwuḍ 
+small: -ya\wud | -yaw	-yaʼwud	nayaʔwuḍ 
+smell: -nɔːmɛ- | nome 
+smoke: gundɔlŋ | gun-dɔlŋ	kun-dolŋ 
+smoke: gun-dɔlŋ | gun-dɔlŋ	kun-dolŋ 
+smooth: -yireg 
+snake: nayin 
+son: beiwud 
+son: -bɔːṇaŋ 
+son: yau 
+split: -ɟalgma 
+stand: -di | -di	-di-	-dɔlga 
+stand: -di- | -di	-di-	-dɔlga 
+stand: -dɔlga | -di	-di-	-dɔlga 
+star: mangin\gin | ki4gi4	kinʔkinʔ	manginʼgin	mangoːgarŋ 
+star: mangoːgarŋ | ki4gi4	kinʔkinʔ	manginʼgin	mangoːgarŋ 
+star: ŋamɔrɔḍɔ | ki4gi4	kinʔkinʔ	manginʼgin	mangoːgarŋ 
+stone: gunwaḍe | gun-waḍe	gun-waḍɛ	kun-waḍːe	kunwade 
+stone: gun-waḍɛ | gun-waḍe	gun-waḍɛ	kun-waḍːe	kunwade 
+stone: gunwaḍɛ | gun-waḍe	gun-waḍɛ	kun-waḍːe	kunwade 
+straight: ɟaɟad 
+suck: -biɟigaŋun 
+sun: gunduŋ | gunduŋ	kun-duŋ	kun-ɟaɹ̣ala	kunduN	ŋal-ɟaɹ̣ala	ŋalbɛnbe 
+sun: ŋalbɛnbe [muralidban] | gunduŋ	kun-duŋ	kun-ɟaɹ̣ala	kunduN	ŋal-ɟaɹ̣ala	ŋalbɛnbe 
+sweet: maːnguŋ 
+sweet: man-guŋ 
+swell: -luḷ-mɛ 
+swim: -wulebme 
+tail: gunbɛd | gun-bɛd	kun-beḍ 
+take: -ga 
+take: -ga- 
+take: -ɟidma- 
+there: buːga | gɔnda 
+there: gɔnda 
+there: gumɛgbe | gɔnda 
+they: -bɛḍa | bɛḍa 
+they: bɛḍa | bɛḍa 
+they: bɛdbɛrɛ | bɛḍa 
+they two: -bɛḍa 
+they two: bɛḍa 
+they two: bɛrɛwɔnɛŋ 
+thigh: gundad 
+think: -burubu- 
+thin: -ware 
+thou: gɛ | Nuda	ŋuḍa 
+thou: -ŋuḍa | Nuda	ŋuḍa 
+thou: ŋuḍa | Nuda	ŋuḍa 
+thou: `ŋudbɛrɛ | Nuda	ŋuḍa 
+three: -dan̪big | -dan̪big	danjbik	daɲbik 
+throat: gungɔmɔlɔrg 
+throw: buriwɛ | buriwɛ	relme 
+thunder: gungaruŋilme 
+today: bolggime 
+today: bolggimɛ 
+tomorrow: malaiwi 
+tomorrow: malaywi 
+tongue: gunɟen | gunɟen	gunɟɛn	kun-ɟen	kundy~en 
+tongue: gunɟɛn | gunɟen	gunɟɛn	kun-ɟen	kundy~en 
+tooth: guɲidme | guɲidme	kun-yidme	kunyidme 
+tree: gundulg | kundulk 
+tree: gun-dulg | kundulk 
+turn: -baluŋmɛ- 
+turn: -mirdi 
+two: bɛnɛ | -bɔːgɛn	bogan	boken	bɛnɛ 
+two: bogan | -bɔːgɛn	bogan	boken	bɛnɛ 
+two: -bɔːgɛn | -bɔːgɛn	bogan	boken	bɛnɛ 
+two: -bɔːgɛn-ga | -bɔːgɛn	bogan	boken	bɛnɛ 
+vomit: -we\me- | -weʼme- 
+walk: -ɹ̣ɛ | -wɔʼɾɛ	ɹ̣e 
+walk: -lɔbmɛ | -wɔʼɾɛ	ɹ̣e 
+walk: -ḷɔbmɛ | -wɔʼɾɛ	ɹ̣e 
+walk: -ṛɛ- | -wɔʼɾɛ	ɹ̣e 
+walk: -wɔ\ɾɛ | -wɔʼɾɛ	ɹ̣e 
+wallaby: gɔṇɔbɔlɔ 
+warm: -wul\wul\mi 
+wash: -ɟiriɟbu- 
+wash: -ɟirid\bu- | -ɟiriɟbu- 
+water: gogo | gogo	gugu	gun-bɔː	gunɹ̣ɔːn̪	kuku	kukːu 
+water: gugu | gogo	gugu	gun-bɔː	gunɹ̣ɔːn̪	kuku	kukːu 
+water: gun-bɔː | gogo	gugu	gun-bɔː	gunɹ̣ɔːn̪	kuku	kukːu 
+water: gunɹ̣ɔːn̪ [muralidban] | gogo	gugu	gun-bɔː	gunɹ̣ɔːn̪	kuku	kukːu 
+water: ɲilmi | gogo	gugu	gun-bɔː	gunɹ̣ɔːn̪	kuku	kukːu 
+water: -ŋad | gogo	gugu	gun-bɔː	gunɹ̣ɔːn̪	kuku	kukːu 
+weep: -nalgbu- 
+we (excl.): ŋadbɛrɛ 
+we (incl.): gadbɛrɛ 
+we: ŋaḍ 
+we: -nuŋga 
+we two (incl.): garɛwɔnɛŋ 
+we two (incl.): -ŋaḍ 
+we two (incl.): ŋaḍ 
+what: ɲale | bale	ɲale	ɲalɛ 
+what: ɲalɛ | bale	ɲale	ɲalɛ 
+what: bale | bale	ɲale	ɲalɛ 
+when: balɛʔ | bale gayime	baleʔ kayime	balɛʔ 
+when: bale gayime | bale gayime	baleʔ kayime	balɛʔ 
+where: bale | bale	baleʔ	balɛʔ 
+where: balɛʔ | bale	baleʔ	balɛʔ 
+white: bɛlɛ | -bɛlɛ	bɛlɛ	kun-bele 
+white: -bɛlɛ | -bɛlɛ	bɛlɛ	kun-bele 
+who: naŋale? | naŋale?	naŋalɛ	ŋale 
+who: naŋalɛ | naŋale?	naŋalɛ	ŋale 
+wife: dalug | dalug	ŋal-biniɲ-gɔːbɛŋ 
+wife: ŋal-biniɲ-gɔːbɛŋ | dalug	ŋal-biniɲ-gɔːbɛŋ 
+wind: gunmaiyorg | gun-mayɔrg	gunmaiyorg	kun-mayork 
+wind: gun-mayɔrg | gun-mayɔrg	gunmaiyorg	kun-mayork 
+wing: gunwil | gunwil	kun-beḷ	mɛɟɛg 
+wing: mɛɟɛg | gunwil	kun-beḷ	mɛɟɛg 
+woman: dalug | dalug	daluk	muli muliŋ	ŋal-wareːrulg 
+woman: muli muliŋ | dalug	daluk	muli muliŋ	ŋal-wareːrulg 
+woman: ŋaldalug | dalug	daluk	muli muliŋ	ŋal-wareːrulg 
+woman: ŋal-dalug | dalug	daluk	muli muliŋ	ŋal-wareːrulg 
+woman: ŋalwareːrulg [muralidban] | dalug	daluk	muli muliŋ	ŋal-wareːrulg 
+wood: ɹ̣ɛrŋ 
+wood: gundulg 
+wood: gunrɛlŋ 
+wood: yaːyay 
+wood: yerŋ 
+woomera: manbaṇba 
+yellow: galba | galba	kaḷba 
+yesterday: gu-gag 
+yes: yoː 
+you two: ŋɔnɛwɔnɛŋ 
+you two: -ŋuḍa 
+you two: ŋuḍa 
+you two: ŋurɛwɔnɛŋ 
+every: rig	ɹ̣ɔwug 
+ash: garawugaŋ	kun-bule 
+bigness: -gimug	nakimuk 
+large: -gimug	nakimuk 
+breast: kun-ɟikːa	kundy~ika 
+breasts: kun-ɟikːa	kundy~ika 
+come from: -mṛɛ 
+be dead: -dɔwɛ-	-dɔːwɛ	dowen 
+dead: -dɔwɛ-	-dɔːwɛ	dowen 
+ground: kun-kuḷk 
+land: kun-kuḷk 
+soil: kun-kuḷk 
+fly: -wagbu- 
+fly v.: -wagbu- 
+left hand: -bid	gun-bid	kun-bid	kunbid 
+1 sg.: Naye	ŋayɛ	ŋaːyɛ 
+be knowledgeable: -burabu	-bɛŋga- 
+lie down: -geyo	-yɔ 
+male: binin	biniɲ 
+much: -wɛṇ	naweṇ	wɛyn 
+multiple: -wɛṇ	naweṇ	wɛyn 
+several: -wɛṇ	naweṇ	wɛyn 
+flesh: -burg	guŋayn	kun-kaɲ 
+hill: gun-waḍɛ 
+title: -ŋeyo	kun-bid 
+nighttime: gun-gag 
+nose: gungɛb	kun-keb	kunkeb 
+adulterous: -guɟi	nakudji	nakudy~i	nakuɟi 
+single: -guɟi	nakudji	nakudy~i	nakuɟi 
+that: -guɟi	nakudji	nakudy~i	nakuɟi 
+the: -guɟi	nakudji	nakudy~i	nakuɟi 
+unprincipled: -guɟi	nakudji	nakudy~i	nakuɟi 
+human: bini5	binin	biniɲ 
+human being: bini5	binin	biniɲ 
+rainy weather: man-ɟewk	manɟewg 
+hide: gungula	kun-kuḷaʔ	kunkulah 
+little: -yaw	-yaʼwud	nayaʔwuḍ 
+smallness: -yaw	-yaʼwud	nayaʔwuḍ 
+rock: gun-waḍe	gun-waḍɛ	kun-waḍːe	kunwade 
+2 sg: Nuda	ŋuḍa 
+you: Nuda	ŋuḍa 
+grind: -bɔːgɛn	bogan	boken	bɛnɛ 
+go: -wɔʼɾɛ	ɹ̣e 
+whiteness: -bɛlɛ	bɛlɛ	kun-bele 
+who?: naŋale?	naŋalɛ	ŋale 
+female: dalug	daluk	muli muliŋ	ŋal-wareːrulg 
+distant: ɟareʔ 
+far: ɟareʔ 
+dull: dulmug	dulmuk 
+serious: dulmug	dulmuk 
+close: daṇgi	daṇkiʔ	daṇʔ- 
+ner: daṇgi	daṇkiʔ	daṇʔ- 
+3 sg.: nuŋa 
+he: nuŋa 
+she: nuŋa 
+2 pl.: ŋuḍa 
+ye: ŋuḍa 
+you all: ŋuḍa 
+3 pl.: bɛḍa 
+where?: bale	baleʔ	balɛʔ 
+when?: bale gayime	baleʔ kayime	balɛʔ 
+how?: baleʔ kayime	balɛʔ 
+four: kun-karrng-bakmeng 
+five: kun-bid-gudji 
+principal wife: dalug	ŋal-biniɲ-gɔːbɛŋ 
+his mother: garab	garaŋ	garaḍ	ŋal-bayɟan 
+my mother: garab	garaŋ	garaḍ	ŋal-bayɟan 
+his father: -bɔṇan	gɔṇgɔ	ŋabad	ŋabaḍ	ŋabːaḍ 
+my father: -bɔṇan	gɔṇgɔ	ŋabad	ŋabaḍ	ŋabːaḍ 
+woods: manbɛrg 
+stick: gun-gaːlaŋ	manduḷgyɛndɛ 
+fruit: man-mim 
+cord: guɲal	yaʎ 
+fat: kun-balem 
+grease: kun-balem 
+claw: kun-bid-ŋalŋ 
+fingernail: kun-bid-ŋalŋ 
+nail: kun-bid-ŋalŋ 
+gut: kun-ɲam 
+guts: kun-ɲam 
+insides: kun-ɲam 
+intestine: kun-ɲam 
+intestines: kun-ɲam 
+spit: gunnɔin	ŋanɔindmɛ 
+breath: -nɔlɛg-ŋɛmɛ	gunwaleg ŋaʼme? 
+laughter: -ɟɛgmɛ 
+cogitate: -burubu- 
+reflect: -burubu- 
+sniff: nome 
+afraid: guŋɛlɛ 
+be afraid: guŋɛlɛ 
+fright: guŋɛlɛ 
+alive: -mimbi	-yɔ 
+be alive: -mimbi	-yɔ 
+life: -mimbi	-yɔ 
+living: -mimbi	-yɔ 
+beat: -bu	-da-	bun 
+strike: -bu	-da-	bun 
+hack: -ɟalgmiwa	-ɟob-gɛ	-ṛaidʼgɛ	daɟke	ɟobke 
+cut open: -ɟalgma 
+pierce: -raynbu 
+stab: -raynbu 
+tell lies: -gɔːwɛ	yigurɛn 
+drop: -maŋa	manga-	mankan 
+grasp: -garmɛ	-ma- 
+hold in arm: -garmɛ	-ma- 
+wipe: -ŋaugmen 
+wash clothes: -ɟiriɟbu- 
+have fun: -diri	-diṛi 
+brook: gun-waɲɟad	man-kabo	mangabo 
+stream: gun-waɲɟad	man-kabo	mangabo 
+blaze: ŋagiɲe	ŋawulge	ɹ̣uŋ 
+daylight: banaŋare	gun-gɔɟgɛ 
+daytime: banaŋare	gun-gɔɟgɛ 
+evil: -rɔwɛ-	-warɛ	kaware	naware 
+rot: -nudmin	nud	nudmen 
+filthy: -bulɛri 
+soiled: -bulɛri 
+blunt: -ɟuruware 
+right side: gungun 

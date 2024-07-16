@@ -1,0 +1,351 @@
+all: kulu 
+and: dɛ | dɛ	nda 
+and: nda | dɛ	nda 
+animal: ɟɛndi˗ham | ɟɛndi-ham 
+ankle: ʈie˗mɔː 
+arm: kmba 
+arrow: hangaw 
+ashes: bosu 
+back: banda 
+bad: lala | lala	ši bara 
+bad: ši bara | lala	ši bara 
+bark: turi bandɛ 
+because: ¶ama | ɖama 
+belly: gunde 
+big: worgo 
+bird: ciraw 
+bite: kaːma | nama 
+bite: nama 
+bitter: fottu 
+black: bi 
+blood: kuri 
+blow: funsu 
+bone: biri 
+branch: turikambɛ 
+breast: fafa ˈˈmamelle\ | fafe	fafu 
+breast: fafu | fafe	fafu 
+breathe: mɛhaw 
+brother: bɛːrɛ 
+brother: harmɛ 
+brother: kaynɛ 
+burn: ton 
+cheek: garba 
+child: kotia | kotia	zanka 
+child: zanka | kotia	zanka 
+chin: kaːbɛ 
+claw: ʈiamsɛ | kambɛ-ʈiamsɛ 
+cloud: buru 
+cold: yɛy 
+come: ka 
+correct: kayantɛ 
+count: kabu 
+cut: dumbu 
+dark: kubay 
+daughter: wɛndio 
+day: dirbi | dirbi	han 
+day: han | dirbi	han 
+die: bu 
+die: buyɛn 
+dig: fanši | fanši 
+dirty: žibi | žibi 
+dog: ansi | ansi	hansi 
+drink: haŋ | haN	haŋ 
+dry: koː | koː	koːgu 
+dry: koːgu | koː	koːgu 
+dust: kusà | kusà 
+ear: hanga 
+earth: labu 
+eat: nua 
+egg: gunguri 
+eye: mɔː | mo	mɔː 
+eye: mɔː˗ɟina˗hamni | mo	mɔː 
+fall: kaŋ 
+far: moːra 
+father: baba 
+fat (n.): maːni 
+feather: hamni 
+fight: tangam 
+finger: kamba˗ngɛ 
+finger: kambɛ˗hi¶ɛ 
+fingernail: kambɛ˗ʈiamsɛ | kambɛ-ʈiamsɛ 
+fish: isa ham | hamisa	isa ham 
+five: igu | iggu	igu 
+flow: dori 
+flower: boːsi 
+fly (n.): bimbim 
+fly (n.): hamni 
+fly (v.): deːsi 
+fog: kusa 
+foot: ciɛkondo | ʈiɛ 
+foot: ciɛ˗tɛkisɛ | ʈiɛ 
+foot: ʈiɛ 
+four: taːʈi | itaaci	itaci	taːʈi 
+fruit: turi˗hi¶ɛ | turi-hiɖɛ 
+full: to 
+full: tonandi 
+girl: wɛndio 
+give: non 
+good: bono | bono	hɛnna	kaːna 
+good: hɛnna | bono	hɛnna	kaːna 
+good: kaːna | bono	hɛnna	kaːna 
+grass: subu 
+green: bogu 
+hair: hamni 
+hand: kamba | kamba	kambe 
+head: boŋ 
+hear: ma 
+heart: bina 
+heavy: tin 
+here: ne 
+he/she: a 
+hit: kar 
+hole: funi 
+horn: hilli | hili	hilli 
+house: fu 
+how: matɛ 
+husband: kurɲæ 
+I: ay 
+ice: digi 
+if: nda | nda	wala 
+if: wala | nda	wala 
+in: gan 
+kill: wi 
+knee: kanga | kanga	kange 
+know: bay 
+leaf: kopto | kobto	kopto 
+left: (kambu) wou | kambu wou	wou 
+leg: tanɟɛ 
+lip: mæ bena 
+lip: mæ ganda 
+live: funa 
+liver: hamɛ | hamɛ	tasa 
+long: ku | ku	kuku 
+long: kuku | ku	kuku 
+louse: gani 
+louse: kuma | gani 
+man: boro | alboro 
+man: haru | alboro 
+many: ba | ba	bobo 
+many: bobo | ba	bobo 
+meat: ham 
+moon: handu 
+mother: ɲa 
+mouth: mɛ 
+nape: čin 
+navel: ma 
+near: mana 
+neck: ¶indɛ | ɖindɛ 
+new: haruasu | taTi	tagi 
+new: tagi | taTi	tagi 
+night: kondo | cini	kondo 
+not: si˗ | si- 
+old: arkusu 
+other: a fo 
+play: dili | dili	tɛtɛ 
+play: tɛtɛ | dili	tɛtɛ 
+pull: cɛndi 
+rain: hari 
+rat: tian 
+red: cirɛy 
+right: (kambay)nuari | kamba	kambe | kambaynuari	nuari 
+river: isa 
+road: fonda | fondo 
+root: kaː¶i | kaːɖi 
+rope: karfu 
+rub: ¶iri | ɖiri 
+salt: ciri 
+sand: laːbu 
+say: ʈi | ne	ʈi | laːbu 
+say: ne | ne	ʈi | laːbu 
+say: salan | ne	ʈi | laːbu 
+seed: guːrɛ 
+see: di 
+sew: ta 
+sharp: dɛnɛ 
+short: dungurio 
+sing: don 
+sister: wɛyma 
+sit: goro 
+skin: kuru 
+sky: bɛnɛ 
+sleep: ¶irbi | ɖirbi 
+small: kɛyna 
+smoke: dullu 
+snake: gondi 
+snow: gaːri 
+son: hiɟɛ 
+sour: moːra 
+spit: koto | tufa 
+spit: yolo | tufa 
+split: farsi 
+stand: tun 
+stone: tondi dori | tondi	tondi dori 
+suck: sunsum 
+sun: wɛyna | wayno	wɛyna 
+sweet: yu 
+swim: ¶i | ɖi 
+take: sambu 
+take: ta 
+there: yongo 
+they: i 
+they: ngɛy 
+thick: tɛfɛy 
+thin: ˗fabu | -fabu 
+think: fonga 
+thou: aran | ni 
+thou: ni 
+thou: war | ni 
+three: hin¶a | hinɖa	ihinza 
+throat: karrɛ 
+thunder: dundu 
+tie: hau 
+today: hunkuna 
+tomorrow: suba 
+tongue: dɛne | dene	dɛne 
+tooth: hin¶iɛ | hinɖiɛ	ninTe 
+tree: turi | turinya 
+turn: bɛrɛ 
+two: hinka | hinka	ihinka 
+vagina: butɛ 
+vagina: dafɛ 
+vagina: ni¶ɛ 
+vomit: yɛri 
+walk: dira 
+walk: ko(y) | dira 
+walk: ¶uru | dira 
+warm: dungu 
+wash: ɲun 
+water: hari 
+weep: hæ 
+weep: mundi 
+we: ir | iri 
+we: iri 
+wet: tay 
+what: hi fo 
+when: kaŋ | kaŋ	wati kaŋ 
+when: wati kaŋ | kaŋ	wati kaŋ 
+where: man 
+white: koarɛ 
+who: may 
+wide: hay | hay	tafay 
+wide: tafay | hay	tafay 
+wife: wɛndɛ 
+wing: fata 
+wipe: tuːsu 
+with: nda 
+woman: wɛy | wɛy-boro 
+woman: wɛy˗boro | wɛy-boro 
+wood: gobu 
+wood: turi 
+worm: noni 
+year: ¶iri | ɖiri 
+yellow: sɛy 
+yesterday: bi 
+every: kulu 
+ash: bosu 
+abdomen: gunde 
+bigness: worgo 
+large: worgo 
+breasts: fafe	fafu 
+nail: ʈiamsɛ 
+talon: ʈiamsɛ 
+come from: ka 
+be dead: bu 
+dead: bu 
+fire: danTi 
+fly: deːsi 
+fly v.: deːsi 
+left hand: kamba	kambe 
+1 sg.: ay 
+be knowledgeable: bay 
+head louse: gani 
+male: boro 
+much: ba	bobo 
+multiple: ba	bobo 
+several: ba	bobo 
+flesh: ham 
+name: ma 
+title: ma 
+nighttime: cini	kondo 
+nose: nina	nine 
+adulterous: afa	afo	fo 
+one: afa	afo	fo 
+single: afa	afo	fo 
+that: afa	afo	fo 
+the: afa	afo	fo 
+unprincipled: afa	afo	fo 
+human: alboro 
+human being: alboro 
+person: alboro 
+rainy weather: hari 
+path: fondo 
+route: fondo 
+hide: kuru 
+little: kɛyna 
+smallness: kɛyna 
+star: handarayze 
+rock: tondi	tondi dori 
+2 sg: ni 
+you: ni 
+grind: hinka	ihinka 
+go: dira 
+hot: dungu 
+1 pl. inc.: iri 
+we₁: iri 
+whiteness: koarɛ 
+who?: may 
+female: wɛy-boro 
+distant: moːra 
+dull: tin 
+serious: tin 
+close: mana 
+ner: mana 
+earthworm: noni 
+2 pl.: aran 
+ye: aran 
+you all: aran 
+where?: man 
+when?: kaŋ	wati kaŋ 
+how?: matɛ 
+broad: hay	tafay 
+wideness: hay	tafay 
+fat: maːni 
+principal wife: wɛndɛ 
+his mother: ɲa 
+my mother: ɲa 
+his father: baba 
+my father: baba 
+stick: turikambɛ 
+cord: karfu 
+grease: maːni 
+cogitate: fonga 
+reflect: fonga 
+smell: mani 
+sniff: mani 
+alive: funa 
+be alive: funa 
+life: funa 
+living: funa 
+beat: kar 
+strike: kar 
+hack: dumbu 
+cut open: farsi 
+drop: kaŋ 
+wash clothes: ɲun 
+bind: hau 
+fasten: hau 
+tie up: hau 
+enumerate: kabu 
+number: kabu 
+tally: kabu 
+have fun: dili	tɛtɛ 
+brook: isa 
+stream: isa 
+daylight: dirbi	han 
+daytime: dirbi	han 
+evil: lala	ši bara 
+filthy: žibi 
+soiled: žibi 
+damp: tay 
+right side: kambaynuari	nuari 
+inside: gan 

@@ -1,0 +1,454 @@
+all: endogoi | ɛndogoi 
+all: ɛndogoi 
+arm: pe- 
+arm: pɛ- 
+arrow: uŋgiʌra 
+ashes: gausi | gausi	kumusira 
+ashes: kumusira | gausi	kumusira 
+back: arewora 
+back: arɛwora 
+back: sema- 
+back: sɛma- 
+bad: naugu 
+belly: e- mbongga | ɛ- mboŋga 
+belly: ɛ- mboŋga 
+belly: enasi | ɛ- mboŋga 
+belly: ɛnasi | ɛ- mboŋga 
+belly: si | ɛ- mboŋga 
+big: mi:gi | miːgi 
+big: miːgi 
+bird: wu 
+bite: nggere- | ŋgil-	ŋgɛrɛ- 
+bite: ŋgɛrɛ- | ŋgil-	ŋgɛrɛ- 
+bite: nggil- | ŋgil-	ŋgɛrɛ- 
+bite: ŋgil- | ŋgil-	ŋgɛrɛ- 
+black: sugumbʌba 
+black: sugumbëba | sugumbʌba 
+blood: urëw | ur3w	urʌw 
+blood: urʌw | ur3w	urʌw 
+blow: pugëm- 
+blow: pugʌm- 
+bone: pasë:ga | pas3ga	pasʌːga 
+bone: pasʌːga | pas3ga	pasʌːga 
+boy: nukomba 
+boy: nukɔmba 
+breast: o:y | oy	oːy 
+breast: oːy | oy	oːy 
+brother: kama- 
+brother: kamën- 
+brother: kamʌn- 
+brother: wʌ 
+brother: wë- 
+brother: wëni 
+brother: wʌni 
+burn: inër- 
+burn: inʌr- 
+butterfly: purupuru 
+calf: ë:ta 
+calf: ʌːta 
+cassowary: më:gwa 
+chest: gerewa- 
+chest: gɛrɛwa- 
+child: nikola 
+child: nokora 
+chin: sembe- 
+chin: sɛmbɛ- 
+cloud: së:mba | sugumbʌba	sʌːmba 
+cloud: sʌːmba | sugumbʌba	sʌːmba 
+cloud: sugumbʌba | sugumbʌba	sʌːmba 
+cloud: sugumbëba | sugumbʌba	sʌːmba 
+cold: enggamonggu- | ɛŋgamoŋgu- 
+cold: ɛŋgamoŋgu- 
+come: so- | so	so- 
+crocodile: yamëy 
+crocodile: yamʌy 
+cut: o- 
+dance: ila- 
+day: liwika 
+day: uru migi 
+die: mai- | mai	mai- 
+dig: ambël- 
+dig: ambʌl- 
+dig: kël- 
+dig: kʌl- 
+dig: me- 
+dirty: dunggëzizi 
+dirty: duŋgʌzizi 
+dog: kui 
+dry: aprakiama | aprakiama	gararʌma 
+dry: gararëma | aprakiama	gararʌma 
+dry: gararʌma | aprakiama	gararʌma 
+ear: domb- | domb-	domb~ 
+earth: ë:na | ʌːna 
+earth: ʌːna 
+eat: anggën- | kiga-	za- 
+eat: kiga- | kiga-	za- 
+eat: za- | kiga-	za- 
+egg: sombëga | sombʌga 
+egg: sombʌga 
+elbow: gosiba 
+elbow: gosiva 
+emu: mʌːgwa 
+excrement: si 
+eye: omo- | omo	omo- 
+face: oroßa- 
+face: orova- 
+fall: kabara- 
+fall: o- 
+far: be:ndi | beːndi 
+far: beːndi 
+father: mëi- 
+father: mʌi- 
+father: momo- 
+fat (n.): sonda 
+fat (n.): sɔnda 
+fear: bo- 
+few: anggëndi 
+few: aŋgʌndi 
+fight: aga- 
+fingernail: kë:ru 
+fingernail: kʌːru 
+finger: nemena gumëga 
+finger: nɛmɛna gumʌga 
+fire: o:nda | ond~a	ɔːnda 
+fire: ɔːnda | ond~a	ɔːnda 
+fish: mërasa | m3rasa	mʌrasa 
+fish: mʌrasa | m3rasa	mʌrasa 
+fly (n.): kigiwë:si 
+fly (n.): kigiwʌːsi 
+fly (v.): merego- 
+fly (v.): mɛrɛgo- 
+fog: toŋgoisʌ 
+fog: tonggoisë 
+forehead: orova- 
+forest: anggiday 
+forest: aŋgiday 
+fruit: oːgʌ 
+fruit: o:gë 
+full: ele- | omoNgasima	omɔŋgasima 
+full: ɛlɛ- | omoNgasima	omɔŋgasima 
+full: omonggasima | omoNgasima	omɔŋgasima 
+full: omɔŋgasima | omoNgasima	omɔŋgasima 
+girl: unëina 
+girl: unʌina 
+give: me- | mɛ- 
+give: mɛ- 
+good: kesa | kɛsa 
+good: kɛsa 
+grass: siëmbë 
+green: kisuwonggasinggi | kisuwoŋgasiŋgi 
+green: kisuwoŋgasiŋgi 
+guts: enasi 
+guts: ɛnasi 
+guts: si 
+hair: yë:ra | yʌːra 
+hair: yʌːra 
+head: benda | bɛnda	kendʌːga	kowo 
+head: bɛnda | bɛnda	kendʌːga	kowo 
+head: irogu | bɛnda	kendʌːga	kowo 
+head: kendë:ga | bɛnda	kendʌːga	kowo 
+head: kendʌːga | bɛnda	kendʌːga	kowo 
+head: kowo | bɛnda	kendʌːga	kowo 
+head: kowo- | bɛnda	kendʌːga	kowo 
+hear: dewe- | dEwE	dɛwɛ- 
+hear: dɛwɛ- | dEwE	dɛwɛ- 
+heavy: kuwuga 
+here: ei 
+here: gi 
+he/she: -a 
+he/she: -ba 
+he/she: -d- 
+he/she: ei 
+he/she: nongga 
+he/she: noŋga 
+he/she: -ø 
+he/she: -ø- 
+he/she: -ungga 
+he/she: -uŋga 
+hit: aga- 
+hold: por- 
+hold: pɔr- 
+house: yagʌːbu 
+house: yagë:bu 
+how: kagë:ruga 
+I: -i | su 
+I: -il- | su 
+in: abongga 
+I: su 
+I: -ya | su 
+I: ya- | su 
+kill: mungg- | muŋg- 
+kill: muŋg- 
+knee: umëuma | um3uma	unʌuma 
+knee: unʌuma | um3uma	unʌuma 
+laugh: emo- 
+left: eneina 
+left: ɛnɛina 
+leg: bogo- 
+leg: kesire- 
+lightning: pililia- 
+liver: koura 
+long: duwunggu | duwuŋgu 
+long: duwuŋgu 
+louse: mi 
+man: dau 
+man: nggëmba | dau 
+man: ŋgʌmba | dau 
+many: ipenggu | ipeŋgu 
+many: ipeŋgu 
+meat: diːßa 
+meat: di:va 
+moon: naway 
+morning: anigiluma 
+morning: sunggarëri 
+morning: suŋgarʌri 
+mosquito: maranusi 
+mother: ana 
+mother: nʌ- 
+mother: nan- 
+mother: në- 
+mountain: anayugu | anayugu	orog3ri	orogʌri 
+mountain: orogëri | anayugu	orog3ri	orogʌri 
+mountain: orogʌri | anayugu	orog3ri	orogʌri 
+mouth: kase- 
+name: seme- | semE	semɛ- 
+name: semɛ- | semE	semɛ- 
+nape: goromʌ- 
+nape: goromë- 
+navel: simurugo 
+near: bigëmba | bigʌmba 
+near: bigʌmba 
+neck: boro- 
+new: gasigi 
+night: anorima 
+nose: neme- | nEme	nemɛ- 
+not: i: 
+not: iː 
+old: deweku 
+old: dɛwɛku 
+old: sëgura 
+old: sënggëva 
+old: sʌgura 
+old: sʌŋgʌßa 
+one: sumbrëmba | sumbrʌmba	sumb~r3mb~a 
+one: sumbrʌmba | sumbrʌmba	sumb~r3mb~a 
+pull: gura- 
+push: sel- 
+push: sɛl- 
+rain: ëna | ʌna 
+rain: ʌna 
+rat: kusëwuna 
+rat: kusʌwuna 
+red: urauroga | uraurɔga 
+red: uraurɔga 
+right: kesa 
+right: kɛsa 
+ripe: abë:ra 
+ripe: abʌːra 
+road: i:mbu | imb~u 
+road: iːmbu | imb~u 
+root: singgi | siŋgi 
+root: siŋgi 
+rope: iɛra 
+salt: siëwa | siʌwa 
+salt: siʌwa 
+sand: e:sigi | ɛːsigi 
+sand: ɛːsigi 
+sand: kondea | ɛːsigi 
+say: \a | ʔa 
+say: ʔa 
+say: aga- | ʔa 
+scratch: nanamb- 
+sea: simo:si 
+sea: simoːsi 
+see: amb(u)- | ambu-	ambun-	amb~u 
+see: ambu(n)- | ambu-	ambun-	amb~u 
+see: oma mɛ- | ambu-	ambun-	amb~u 
+sharp: sel- 
+sharp: ugʌbu 
+sharp: ugëbu 
+short: utupa 
+shoulder: pasamora 
+shoulder: pasamɔra 
+sing: kambi e- 
+sister: ë:va- 
+sister: monggo- 
+sister: mɔŋgo- 
+sister: ʌːßa- 
+sit: sigën- | sigʌn- 
+sit: sigʌn- 
+skin: dë:ru | d3ru	dʌːru	to7o	toʔo 
+skin: dʌːru | d3ru	dʌːru	to7o	toʔo 
+skin: to\o | d3ru	dʌːru	to7o	toʔo 
+skin: toʔo | d3ru	dʌːru	to7o	toʔo 
+sky: kumugumu 
+sleep: ningg- | niŋg- 
+sleep: niŋg- 
+small: nagënda | nagʌnda 
+small: nagʌnda 
+smell: nemene gum- 
+smoke: mië:sa | miʌːsa 
+smoke: miʌːsa 
+snake: su:ru | suːru 
+snake: suːru 
+spit: dagʌl- 
+spit: sondoma 
+split: pewën- 
+split: pɛwʌn- 
+stand: korokair- 
+stand: towind(og)- 
+star: aringgi | ariNgi	ariŋgi	bizi 
+star: ariŋgi | ariNgi	ariŋgi	bizi 
+star: bizi | ariNgi	ariŋgi	bizi 
+stick: kaima pasë:ga 
+stone: dë:giri | d3giri	dʌːgiri 
+stone: dʌːgiri | d3giri	dʌːgiri 
+straight: tubukië:ka 
+straight: tubukiʌːka 
+sun: anë:za | an3za	anʌːza 
+sun: anʌːza | an3za	anʌːza 
+swell: omend- 
+tail: o:sa | ɔːsa 
+tail: ɔːsa 
+tail: si:rugu | ɔːsa 
+tail: siːrugu | ɔːsa 
+take: ub- 
+take: uv- 
+that: yaisa 
+there: ogë:na 
+there: ogʌːna 
+they: -a(i) 
+they: -rond- 
+they two: keru 
+they: -unggu 
+they: -uŋgu 
+they: -(z)angga 
+they: (z)aŋga 
+thigh: manumba 
+think: dande mo- 
+think: dandɛ mo- 
+this: usu 
+thou: -a(i) | nu 
+thou: -as- | nu 
+thou: -na | nu 
+thou: -ngga | nu 
+thou: -ŋga- | nu 
+thou: nu 
+thou: -rond- | nu 
+thou: -uŋgu | nu 
+thou: wu | nu 
+throat: boro- yugu 
+throw: pewa- 
+throw: pɛwa- 
+thunder: samba- 
+thunder: sanggara- 
+thunder: saŋgara- 
+tie: gor(a)- 
+tomorrow: kira 
+tomorrow: yëgu 
+tongue: mambrëmba | mambrʌmba	mamb~r3mb~a 
+tongue: mambrʌmba | mambrʌmba	mamb~r3mb~a 
+tooth: ogo- | ogo	ogo- 
+tree: kaima | kalma 
+tree: mbigi | kalma 
+tree: tʌmbu | kalma 
+turn: iliga- 
+two: iridigi 
+vagina: bo- 
+vomit: pasa- 
+walk: pumbawa- 
+walk: wa- 
+wallaby: urinday 
+warm: kiki(a)- 
+warm: kiki(a]- 
+wash: zhi idago- 
+wash: zhi idagu- 
+wash: ži idago- 
+wash: ži idagu- 
+water: zhi: | Zi	žiː 
+water: žiː | Zi	žiː 
+weep: ko- 
+we: -ind- | sa	ya 
+we: -inda | sa	ya 
+we: sa | sa	ya 
+we two: za-amba 
+wet: zhi wuma 
+wet: ži wuma 
+we: ya | sa	ya 
+we: za | sa	ya 
+what: këra | kʌra 
+what: kʌra 
+where: dega 
+where: dɛga 
+white: uyësi | uyʌsi 
+white: uyʌsi 
+who: ewama | ɛwama 
+who: ɛwama 
+wind: oroga | orɔga 
+wind: orɔga 
+wing: sora 
+wing: sɔra 
+woman: engemu | ɛŋɛmu 
+woman: ɛŋɛmu 
+woman: ënungga | ɛŋɛmu 
+woman: ʌnuŋga | ɛŋɛmu 
+wood: kaima pasʌːga 
+wood: tugu 
+yellow: kasëna | kasʌna 
+yellow: kasʌna 
+yes: oya 
+yesterday: suega 
+yesterday: suɛga 
+yesterday: të:gu 
+you: -a(i) | nu 
+you: -rond- | nu 
+you two: wu-mba 
+you: -unggu | nu 
+you: wu | nu 
+every: ɛndogoi 
+ash: gausi	kumusira 
+abdomen: ɛ- mboŋga 
+bigness: miːgi 
+large: miːgi 
+breasts: oy	oːy 
+come from: so	so- 
+be dead: mai	mai- 
+dead: mai	mai- 
+ground: ʌːna 
+land: ʌːna 
+soil: ʌːna 
+fly: mɛrɛgo- 
+fly v.: mɛrɛgo- 
+1 sg.: su 
+head louse: mi 
+male: dau 
+much: ipeŋgu 
+multiple: ipeŋgu 
+several: ipeŋgu 
+hill: anayugu	orog3ri	orogʌri 
+title: semE	semɛ- 
+nighttime: anorima 
+adulterous: sumbrʌmba	sumb~r3mb~a 
+single: sumbrʌmba	sumb~r3mb~a 
+the: sumbrʌmba	sumb~r3mb~a 
+unprincipled: sumbrʌmba	sumb~r3mb~a 
+rainy weather: ʌna 
+path: imb~u 
+route: imb~u 
+hide: d3ru	dʌːru	to7o	toʔo 
+little: nagʌnda 
+smallness: nagʌnda 
+rock: d3giri	dʌːgiri 
+2 sg: nu 
+grind: iridigi 
+go: wa- 
+1 pl. inc.: sa	ya 
+we₁: sa	ya 
+whiteness: uyʌsi 
+who?: ɛwama 
+female: ɛŋɛmu 
+distant: beːndi 
+dull: kuwuga 
+serious: kuwuga 
+close: bigʌmba 
+ner: bigʌmba 

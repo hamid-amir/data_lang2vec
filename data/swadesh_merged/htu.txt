@@ -1,0 +1,263 @@
+all: usi 
+every: usi 
+ash: hatai 
+ashes: hatai 
+abdomen: tia 
+belly: tia 
+big: nela 
+bigness: nela 
+large: nela 
+bird: manu 
+bite: oro 
+black: mete 
+blood: lala 
+bone: luli 
+breast: susu 
+breasts: susu 
+burn: tunu 
+burn tr.: tunu 
+cloud: sahut 
+cold: pariki 
+come: lai 
+come from: lai 
+be dead: mata 
+dead: mata 
+die: mata 
+dog: asu 
+drink: inu 
+dry: aroto 
+ear: tarina 
+egg: teru 
+eye: mata 
+feather: hulu 
+fire: au 
+fish: ian 
+fly: tihu 
+fly v.: tihu 
+good: moso 
+green: male 
+hair: keul 
+hand: lima 
+left hand: lima 
+right: lima 
+head: ulu hatu 
+hear: pahanene 
+1 sg.: yau 
+I: yau 
+kill: pamate 
+be knowledgeable: tewa 
+know: tewa 
+leaf: lau	lau- 
+lie: loli 
+lie down: loli 
+liver: hatua 
+long: sta 
+head louse: utu 
+louse: utu 
+male: malono 
+man: %manusia	manusia 
+moon: nulanitai 
+mouth: hihi 
+name: nala 
+title: nala 
+neck: enu 
+new: helu 
+night: atolu 
+nighttime: atolu 
+nose: ilu	ilu- 
+adulterous: esa7	esaʔ	sa 
+one: esa7	esaʔ	sa 
+single: esa7	esaʔ	sa 
+that: ɲa 
+the: esa7	esaʔ	sa 
+unprincipled: esa7	esaʔ	sa 
+human: %manusia	manusia 
+human being: %manusia	manusia 
+person: %manusia	manusia 
+rain: ulan 
+rainy weather: ulan 
+red: kau 
+path: lalan 
+road: lalan 
+route: lalan 
+root: waʔat 
+sand: ume 
+say: patahia 
+see: palahe 
+sit: tolo 
+hide: uli 
+skin: uli 
+sleep: tele 
+little: tuʔi 
+small: tuʔi 
+smallness: tuʔi 
+smoke: au hoat 
+star: nalin 
+rock: hatu 
+stone: hatu 
+swim: nanu 
+tail: aru- 
+this: nde 
+2 sg: ale 
+thou: ale 
+you: ale 
+tongue: mei 
+tooth: niki 
+grind: lua	lúa 
+two: lua	lúa 
+go: oi 
+walk: oi 
+hot: loto 
+warm: loto 
+water: wael 
+1 pl. inc.: ite	yami 
+we: ite	yami 
+we₁: ite	yami 
+what: sale 
+white: puti 
+whiteness: puti 
+who: sia 
+who?: sia 
+female: mahina 
+woman: mahina 
+yellow: polo 
+distant: lau 
+far: lau 
+close: masu 
+near: masu 
+ner: masu 
+salt: uasi 
+short: poro 
+snake: nia 
+thin: maniʔi 
+wind: anin 
+earthworm: ladi 
+worm: ladi 
+year: nala 
+2 pl.: imi 
+ye: imi 
+you all: imi 
+3 pl.: sile 
+they: sile 
+where: iŋ waʔo 
+where?: iŋ waʔo 
+when: petu ila 
+when?: petu ila 
+how: iŋ haʔo 
+how?: iŋ haʔo 
+other: sahane 
+three: telu	télu 
+four: hata	háta 
+five: líma 
+broad: sisiŋ ela 
+wide: sisiŋ ela 
+wideness: sisiŋ ela 
+fat: mina 
+thick: hatelu 
+narrow: asepeʔe 
+principal wife: mahina 
+wife: mahina 
+husband: malono 
+his mother: ina- 
+mother: ina- 
+my mother: ina- 
+father: papa- 
+his father: papa- 
+my father: papa- 
+forest: wasi 
+woods: wasi 
+branch: sana- 
+stick: sana- 
+fruit: hua- 
+flower: paʔut 
+grass: huta 
+cord: walit 
+rope: walit 
+flesh: isi 
+meat: isi 
+grease: mina 
+wing: ihat 
+gut: hatua walit 
+guts: hatua walit 
+insides: hatua walit 
+intestine: hatua walit 
+intestines: hatua walit 
+back: muli 
+suck: momo 
+spit: tahula 
+vomit: mamuta 
+blow: huseʔ 
+breath: lihi napas 
+breathe: lihi napas 
+laugh: malaʔa 
+laughter: malaʔa 
+cogitate: pikir 
+reflect: pikir 
+think: pikir 
+smell: pahanisu 
+sniff: pahanisu 
+afraid: kele- 
+be afraid: kele- 
+fear: kele- 
+fright: kele- 
+alive: mahai 
+be alive: mahai 
+life: mahai 
+live: mahai 
+living: mahai 
+hunt: leʔe 
+beat: hia 
+hit: hia 
+strike: hia 
+cut: heta 
+hack: heta 
+cut open: haʔe 
+split: haʔe 
+pierce: sipa 
+stab: sipa 
+scratch: aʔi 
+dig: haʔi 
+stand: ele 
+drop: manahu 
+fall: manahu 
+grasp: taʔi 
+hold: taʔi 
+hold in arm: taʔi 
+squeeze: lati 
+wring: lati 
+throw: teri 
+bind: heʔe 
+fasten: heʔe 
+tie: heʔe 
+tie up: heʔe 
+sew: pasanai 
+count: rekeŋ 
+enumerate: rekeŋ 
+number: rekeŋ 
+tally: rekeŋ 
+flow: kala 
+lake: talaga 
+ocean: meite 
+sea: meite 
+dust: tona tain 
+fog: sahut 
+sky: lanit 
+bad: jahat 
+evil: jahat 
+rot: ahia 
+rotten: ahia 
+dirty: paʔatone 
+filthy: paʔatone 
+soiled: paʔatone 
+sharp: kapa 
+blunt: paʔatoi 
+dull: paʔatoi 
+damp: pata 
+wet: pata 
+right side: pahuwana 
+left: pahuweʔe 
+at: le 
+in: le|lale-li 
+inside: le|lale-li 
+and: kula 
+if: kalo 

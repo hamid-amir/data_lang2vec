@@ -1,0 +1,148 @@
+all: omalka 
+every: omalka 
+ash: iso 
+ashes: iso 
+abdomen: naLki 
+belly: naLki 
+big: Laki 
+bigness: Laki 
+large: Laki 
+bird: foswa 
+bite: akita 
+black: lasti 
+blood: Cati 
+bone: ifoni 
+breast: hokpi 
+breasts: hokpi 
+claw: ilinkososwa 
+nail: ilinkososwa 
+talon: ilinkososwa 
+cloud: aholoCi 
+cold: kasapi 
+come: atita 
+come from: atita 
+be dead: ilita 
+dead: ilita 
+die: ilita 
+dog: ifa 
+drink: iskita 
+dry: kaLpi 
+ear: hokCo 
+earth: ikana 
+ground: ikana 
+land: ikana 
+soil: ikana 
+eat: hompita 
+egg: Costaki 
+eye: toLwa 
+fat: niha 
+fat n.: niha 
+grease: niha 
+lubricant: niha 
+oil: niha 
+fire: totka 
+fish: LaLo 
+fly: tamkita 
+fly v.: tamkita 
+foot: ili 
+full: faCkita 
+give: imita 
+good: hiLi 
+green: lani 
+hair: isi 
+hand: inki 
+left hand: inki 
+right: inki 
+head: ika 
+hear: pohita 
+heart: fiki 
+horn: yapi 
+1 sg.: ani 
+I: ani 
+kill: iliCita 
+knee: toLkowa 
+be knowledgeable: kiLita 
+know: kiLita 
+lie: wakita 
+lie down: wakita 
+liver: lopi 
+long: Capki 
+head louse: iCka 
+louse: iCka 
+male: honanwa 
+man: isti 
+many: solki 
+much: solki 
+multiple: solki 
+several: solki 
+flesh: apiswa 
+meat: apiswa 
+hill: ikanh~alwi 
+mountain: ikanh~alwi 
+mouth: Cokw~a 
+name: hoCifka 
+title: hoCifka 
+neck: nokwa 
+new: moCasi 
+night: niLaki 
+nighttime: niLaki 
+nose: yopo 
+not: monka 
+adulterous: hamkin	hámgin 
+one: hamkin	hámgin 
+single: hamkin	hámgin 
+that: ma 
+the: hamkin	hámgin 
+unprincipled: hamkin	hámgin 
+human: isti 
+human being: isti 
+person: isti 
+rain: oskita 
+rainy weather: oskita 
+red: Cati 
+path: nini 
+road: nini 
+route: nini 
+root: yalomka 
+round: poloki 
+say: makita 
+see: hiCita 
+seed: niLka 
+sit: lekita 
+hide: haLpi 
+skin: haLpi 
+sleep: noCita 
+little: Cotki 
+small: Cotki 
+smallness: Cotki 
+smoke: ikoCi 
+stand: hoLita 
+star: koCaCampa 
+rock: Cato 
+stone: Cato 
+sun: hasi 
+swim: omeyita 
+tail: haCi 
+this: ya 
+2 sg: Cim 
+thou: Cim 
+you: Cim 
+tongue: tolaswa 
+tooth: noti 
+tree: ito 
+grind: hokolin	hokólin 
+two: hokolin	hokólin 
+go: yakapita 
+walk: yakapita 
+water: oywa 
+1 pl. inc.: pomi 
+we: pomi 
+we₁: pomi 
+what: naki 
+white: hatki 
+whiteness: hatki 
+who: istema 
+who?: istema 
+female: hokti 
+woman: hokti 
+yellow: lani 

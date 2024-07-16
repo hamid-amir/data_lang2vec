@@ -1,0 +1,338 @@
+all: bɯlda	bˈɨlʸda	bˈɨlʸdɛ	быльдэ 
+every: bɯlda	bˈɨlʸda	bˈɨlʸdɛ	быльдэ 
+ash: qolan	qˈɔlan	qˈɔlən	qˈɔlɨn	қолан	қоллан 
+ashes: qolan	qˈɔlan	qˈɔlən	qˈɔlɨn	қолан	қоллан 
+bark: iŋolt	ɨːn	ыын 
+abdomen: hɨˑy	hɯ̄j	хый 
+belly: hɨˑy	hɯ̄j	хый 
+big: qaˀ	qä̂	қя 
+bigness: qaˀ	qä̂	қя 
+large: qaˀ	qä̂	қя 
+bird: keŋassel	kˈe-ŋ-asʸːelʸ	кеӈассель 
+bite: laptaq	lˈap-t-aq	lˈap-t-ɔq	лаптақ 
+black: tuˑm-sʸ	tūm	тумсь 
+blood: sul	sūl	sʸuˑlʸ	сюль 
+bone: at	aʔt	aˀt	аʼт 
+breast: mam	maˀm	tˈɜɣa	тъга 
+breasts: mam	maˀm	tˈɜɣa	тъга 
+burn: =dut	диврот 
+burn tr.: =dut	диврот 
+claw: ìn	înʸ	инь 
+nail: ìn	înʸ	инь 
+talon: ìn	înʸ	инь 
+cloud: espul	ˈasʸpulʸ	асьпуль 
+cold: qaqtɯm	taʔy	таʼй 
+come: igbEs	igbes	ˈi-g-besʸ	игбесь 
+come from: igbEs	igbes	ˈi-g-besʸ	игбесь 
+be dead: qorEN	qoreŋ	qɔ-rʸaŋ	qɔ-rʸeŋ	қораӈ	қореӈ 
+dead: qorEN	qoreŋ	qɔ-rʸaŋ	qɔ-rʸeŋ	қораӈ	қореӈ 
+die: qorEN	qoreŋ	qɔ-rʸaŋ	qɔ-rʸeŋ	қораӈ	қореӈ 
+dog: tip	tiˑp	tīp	тип 
+drink: dop	u=rˈɔ	ulʸ=dˈɔ	ульдо	уро 
+dry: toʁojiŋ	toˑyiŋ-sʸ	tɔʁˈɔyiŋ-sʸ	тоґоиӈсь 
+ear: ogd	ogde	ˈɔgdɛ	огдэ 
+earth: baʔŋ	baˀŋ	баʼӈ 
+ground: baʔŋ	baˀŋ	баʼӈ 
+land: baʔŋ	baˀŋ	баʼӈ 
+soil: baʔŋ	baˀŋ	баʼӈ 
+eat: =0	=a	=∅	sìj	sʸî	sʸîy	сий 
+egg: eˀj	ɛʔy	эʼй 
+eye: des	deˑsʸ	dēs	десь 
+fat: kɨʔt	кыʼт 
+fat n.: kɨʔt	кыʼт 
+grease: kɨʔt	кыʼт 
+lubricant: kɨʔt	кыʼт 
+oil: kɨʔt	кыʼт 
+feather: às	âsʸ	ась 
+fire: bok	boˀk	bɔʔk	боʼк 
+fish: is	iˑsʸ	īs	ись 
+fly: dòq	dɔ̂q	доқ 
+fly v.: dòq	dɔ̂q	доқ 
+foot: buˑlʸ	kiˀs	буль 
+full: qō	ut	uˑt	ут 
+give: aq	n=…=o	qəreŋ	ақ 
+good: aqta	ˈaqta-sʸ	ақтась 
+green: qəlaj	sʸɜnʸ-sʸ	съньсь 
+hair: təˑŋ	tə̄ŋ	тǝӈ 
+hand: h3Nn	hɜŋn	laŋat	lʸaʔŋ	ляʼӈ	хъӈн 
+left hand: h3Nn	hɜŋn	laŋat	lʸaʔŋ	ляʼӈ	хъӈн 
+right: h3Nn	hɜŋn	laŋat	lʸaʔŋ	ляʼӈ	хъӈн 
+head: kəjga	kˈɜyga	къйгэ 
+hear: =da	=дэ	Eksaq	eqsaq 
+heart: huu	huˑ	ху	хуу 
+horn: qo7	qoˀ	qɔʔ	қоʼ 
+1 sg.: at	āt	ат 
+I: at	āt	ат 
+kill: èj	ɛ̂y	ей	эй 
+knee: batpul	bˈat-pulʸ	батпуль 
+be knowledgeable: it - am	ˈit-ey	ит- 
+know: it - am	ˈit-ey	ит- 
+leaf: 3n	əə	ɜː	ъъ 
+lie: t-tn	t=…=qot 
+lie down: t-tn	t=…=qot 
+liver: seN	sēŋ	sʸeˑŋ	сеӈ 
+long: ugde	ˈugde-sʸ	угдэсь 
+head louse: 3x	ə̀ɣ	ɜ̂ɣ	ъг	ъх 
+louse: 3x	ə̀ɣ	ɜ̂ɣ	ъг	ъх 
+male: hiˑɣ	hīɣ	keˀt	хиг 
+man: deng	ket	keˀt	kɛʔt	кеʼт 
+many: oˀn	ɔ̂nʸ	онь 
+much: oˀn	ɔ̂nʸ	онь 
+multiple: oˀn	ɔ̂nʸ	онь 
+several: oˀn	ɔ̂nʸ	онь 
+flesh: iˑsʸ	kīt	ись 
+meat: iˑsʸ	kīt	ись 
+moon: qiˑp	qīp	қип 
+hill: qay	qaʔy	qaˀj	қаʼй 
+mountain: qay	qaʔy	qaˀj	қаʼй 
+mouth: qoˑ	qō	қө 
+name: iˑ	ī	и 
+title: iˑ	ī	и 
+neck: kəˑqt	kəˑqtə	kə̄qt	кǝқт	кǝқтэ 
+new: ki7	kiˀ	kî-sʸ	кись 
+night: si	sī	sʸiˑ	си 
+nighttime: si	sī	sʸiˑ	си 
+nose: oln	olən	ˈɔlən	ˈɔlɨn	олан	олын 
+not: bənʸ	bə̄n	бǝнь 
+adulterous: qogd’	qok	qoˀk	qu-sʸ	qus	qūs	qɔʔ-k 
+one: qogd’	qok	qoˀk	qu-sʸ	qus	qūs	qɔʔ-k 
+single: qogd’	qok	qoˀk	qu-sʸ	qus	qūs	qɔʔ-k 
+that: q=aˑ	qare	t=uˑ	ture	ту	қа 
+the: qogd’	qok	qoˀk	qu-sʸ	qus	qūs	qɔʔ-k 
+unprincipled: qogd’	qok	qoˀk	qu-sʸ	qus	qūs	qɔʔ-k 
+human: deng	ket	keˀt	kɛʔt	кеʼт 
+human being: deng	ket	keˀt	kɛʔt	кеʼт 
+person: deng	ket	keˀt	kɛʔt	кеʼт 
+rain: qòʁ	ules	ˈulʸ-esʸ	улесь 
+rainy weather: qòʁ	ules	ˈulʸ-esʸ	улесь 
+red: sulej	sʸˈulʸ-am-sʸ	sʸˈulʸ-em-sʸ	сюлемсь 
+path: kulte	qoˀt	qɔʔt	qɨˑk	қоʼт	қык 
+road: kulte	qoˀt	qɔʔt	qɨˑk	қоʼт	қык 
+route: kulte	qoˀt	qɔʔt	qɨˑk	қоʼт	қык 
+root: tìr	tîrʸ	тирь 
+round: kruglaj	krˈuglʸay-sʸ	кругляйсь 
+sand: hənaŋ	hˈɜnʸaŋ	hˈɜnʸeŋ	хънаӈ	хъняӈ 
+say: =ma	saɣabet	sˈaɣ-a-bet	сагабет 
+see: ditoN	t=oŋ	t=uŋ	tōŋ	төӈ 
+seed: īm 
+sit: sʸˈɛsʸ-ta	ūŋ	сесьтэ 
+hide: iNolt	iŋolt	îˑ	и 
+skin: iNolt	iŋolt	îˑ	и 
+sleep: t=…=qot	usen 
+little: həna	hˈɜnʸa	хъня 
+small: həna	hˈɜnʸa	хъня 
+smallness: həna	hˈɜnʸa	хъня 
+smoke: duʔ	duˀ	дуʼ 
+stand: iˑnʸ	инь 
+star: qoX	qòʁ	qɔʔ	қоʼ	қоґ 
+rock: t3s	təˀs	tɨʔsʸ	тыʼсь 
+stone: t3s	təˀs	tɨʔsʸ	тыʼсь 
+sun: iˑ	ī	и 
+swim: sùj	sʸuy	сюй 
+tail: hiˀs	horap	huut	huːt	хуут 
+this: k=iˑ	kire	ки 
+2 sg: u	uˑ	ū	у 
+thou: u	uˑ	ū	у 
+you: u	uˑ	ū	у 
+tongue: ey	eˑy	ēj	ей 
+tooth: it	ìt	ît	ит 
+tree: oks	oˑksʸ	ōks	өксь 
+grind: un	ɨn	ɪn’aŋ	ɯ̄n	ын 
+two: un	ɨn	ɪn’aŋ	ɯ̄n	ын 
+go: =tnʸ	=тнь	ejiŋ	ˈe-iŋ	ˈey-iŋ	еиӈ 
+walk: =tnʸ	=тнь	ejiŋ	ˈe-iŋ	ˈey-iŋ	еиӈ 
+hot: uˑsʸ	ūs	усь 
+warm: uˑsʸ	ūs	усь 
+water: ul	uˑlʸ	ūl	уль 
+1 pl. inc.: 3tn	ǝт	ǝтн	ət	ət-n	ə̄t 
+we: 3tn	ǝт	ǝтн	ət	ət-n	ə̄t 
+we₁: 3tn	ǝт	ǝтн	ət	ət-n	ə̄t 
+what: aksʸ	akus	ˈakusʸ	аксь	акусь 
+white: taɣam	tˈaɣ-ɨm	тагым 
+whiteness: taɣam	tˈaɣ-ɨm	тагым 
+who: ana	besa	bitsa	bɛsʸa	bˈitsʸe	ˈana	ˈanät	анет	аня 
+who?: ana	besa	bitsa	bɛsʸa	bˈitsʸe	ˈana	ˈanät	анет	аня 
+female: qiˑm	qīm	қим 
+woman: qiˑm	qīm	қим 
+yellow: qəlaj	qˈɜlʸ-ay-sʸ	қъляйсь 
+distant: bìl	bîlʸ	биль 
+far: bìl	bîlʸ	биль 
+dull: səə	sʸɜː-sʸ	съъсь 
+heavy: səə	sʸɜː-sʸ	съъсь 
+serious: səə	sʸɜː-sʸ	съъсь 
+close: ɯlga	ˈutisʸ	утись 
+near: ɯlga	ˈutisʸ	утись 
+ner: ɯlga	ˈutisʸ	утись 
+salt: təˀ	tɜʔ	тъʼ 
+short: hitim	holat	hɔlʸ-sʸ	хольсь 
+snake: tìɣ	tîɣ	тиг	тих 
+thin: haksem	hˈaksʸe-m	hˈaksʸi-m	toʁoj	tɔʁa	tɔ̂ʁ	тоґ	тоґа	хаксем 
+wind: beˑy	bēj	бей 
+earthworm: utiɣ	utˈiɣ	uˈtix	утих 
+worm: utiɣ	utˈiɣ	uˈtix	утих 
+year: sɯɯ	sʸɨː	сыы 
+3 sg.: bū 
+he: bū 
+she: bū 
+2 pl.: ə̄k 
+ye: ə̄k 
+you all: ə̄k 
+3 pl.: būŋ 
+they: būŋ 
+here: kiseŋ 
+there: qaseŋ 
+where: biles	biltan	biseŋ 
+where?: biles	biltan	biseŋ 
+when: aska 
+when?: aska 
+how: bila 
+how?: bila 
+some: samla 
+few: qomat 
+other: bīk 
+three: doˀŋ	dōŋ 
+four: sīk	sīŋ 
+five: qāk	qāŋ 
+broad: qiil 
+wide: qiil 
+wideness: qiil 
+thick: boˀl	bəsl	sūk 
+narrow: tòʁ 
+child: dɯ̄l 
+principal wife: qīm 
+wife: qīm 
+husband: tēt 
+his mother: ām 
+mother: ām 
+my mother: ām 
+father: ōp 
+his father: ōp 
+my father: ōp 
+animal: assel 
+forest: areŋ	hɯssej	les 
+woods: areŋ	hɯssej	les 
+branch: ə̄ɣ 
+stick: ə̄ɣ 
+flower: aqta daan 
+grass: daan 
+cord: àŋ 
+rope: àŋ 
+fingernail: ìn 
+leg: būl	qopqu	qopqul 
+arm: laŋat 
+wing: keˀs 
+gut: tùl 
+guts: tùl 
+insides: tùl 
+intestine: tùl 
+intestines: tùl 
+back: qovet 
+suck: ut 
+spit: ultij 
+vomit: kɯˀŋ 
+blow: bēj 
+breath: ilbet 
+breathe: ilbet 
+laugh: dàʁ 
+laughter: dàʁ 
+cogitate: anbet	aniŋbet 
+reflect: anbet	aniŋbet 
+think: anbet	aniŋbet 
+smell: īt 
+sniff: īt 
+afraid: qoran 
+be afraid: qoran 
+fear: qoran 
+fright: qoran 
+alive: dəˀq 
+be alive: dəˀq 
+life: dəˀq 
+live: dəˀq 
+living: dəˀq 
+fight: kàl 
+hunt: assano 
+beat: tàr 
+hit: tàr 
+strike: tàr 
+cut: doo 
+hack: doo 
+cut open: untet 
+split: untet 
+pierce: dontet 
+stab: dontet 
+scratch: inkit 
+dig: qɯ̀r 
+tell lies: kəmberiŋ	t-tn 
+turn: ta - kil 
+turn around: ta - kil 
+turn round: ta - kil 
+drop: dəqŋ 
+fall: dəqŋ 
+grasp: utoq 
+hold: utoq 
+hold in arm: utoq 
+squeeze: hataŋbet 
+wring: hataŋbet 
+rub: kīt 
+wipe: abbet 
+wash: ulgaŋ 
+wash clothes: ulgaŋ 
+pull: tàŋ 
+push: telaŋij 
+shove: telaŋij 
+throw: esdaq 
+bind: aŋej 
+fasten: aŋej 
+tie: aŋej 
+tie up: aŋej 
+sew: həlsej 
+count: dèr 
+enumerate: dèr 
+number: dèr 
+tally: dèr 
+sing: iˀl 
+have fun: aniŋbet 
+play: aniŋbet 
+float: doqŋ 
+flow: qɯ̄n 
+freeze: təəl 
+swell: hɯˀŋ 
+brook: qōks	sēs 
+river: qōks	sēs 
+stream: qōks	sēs 
+lake: deˀ 
+ocean: mora 
+sea: mora 
+dust: huˀs 
+fog: ulij 
+sky: ēs 
+snow: beˀt 
+ice: qō 
+blaze: duut	inoʁat 
+day: iˀ 
+daylight: iˀ 
+daytime: iˀ 
+old: sīn 
+bad: sēl 
+evil: sēl 
+rot: sīn 
+rotten: sīn 
+dirty: sintu 
+filthy: sintu 
+soiled: sintu 
+straight: tatiŋ 
+sharp: ēt 
+blunt: salan 
+smooth: uul 
+damp: ultu 
+wet: ultu 
+correct: baˀt 
+right side: boɣot 
+left: tūl 
+at: ka 
+in: hɯ̄jga	ka 
+inside: hɯ̄jga	ka 
+with: -as 
+and: a	haj	i 
+if: sīm	ū 
+because: -diŋta	doʁot 

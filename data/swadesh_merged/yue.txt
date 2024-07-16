@@ -1,0 +1,223 @@
+all: gogo dou	全部	都 
+every: gogo dou	全部	都 
+ash: fui	灰 
+ashes: fui	灰 
+bark: sy~uh peih	樹皮 
+abdomen: touh	肚 
+belly: touh	肚 
+big: daih	大 
+bigness: daih	大 
+large: daih	大 
+bird: jeuk jain	雀 
+bite: Nauh	咬 
+black: hak sik ge	黑 
+blood: hy~ut	血 
+bone: gw~at	骨 
+breast: naih	nin	胸 
+breasts: naih	nin	胸 
+claw: jau 
+nail: jau 
+talon: jau 
+cloud: wan	雲 
+cold: duN	laN	凍 
+come: laih	leih	嚟 
+come from: laih	leih	嚟 
+be dead: sei	死 
+dead: sei	死 
+die: sei	死 
+dog: gau	狗 
+drink: yam	飲 
+dry: gon	乾 
+ear: yih jai	耳仔 
+earth: deih	土	地球 
+ground: deih	土	地球 
+land: deih	土	地球 
+soil: deih	土	地球 
+eat: sik	食 
+egg: dan	蛋 
+eye: Nan	眼 
+fat: seuN yau	yauh 
+fat n.: seuN yau	yauh 
+grease: seuN yau	yauh 
+lubricant: seuN yau	yauh 
+oil: seuN yau	yauh 
+feather: jeuk mouh	羽毛 
+fire: fo juk	火 
+fish: yu	魚 
+fly: fei	飛 
+fly v.: fei	飛 
+foot: geuk	腳 
+full: fou dy~u fou hsih	滿 
+give: bei	畀 
+good: hou	好 
+green: CeN ge	luk ge	綠 
+hair: tauh fat	毛	髮 
+hand: sau 
+left hand: sau 
+right: sau 
+head: tauh hok	頭 
+hear: teN gin	聽 
+heart: sam joN	心 
+horn: gok	角 
+1 sg.: Noh	我 
+I: Noh	我 
+kill: da sei	jiN sei	殺 
+knee: sat tauh go	膝頭 
+be knowledgeable: ji dou	知 
+know: ji dou	知 
+leaf: sy~uh yip	葉 
+lie: fan dai	fan hai 
+lie down: fan dai	fan hai 
+liver: gon	yeun	肝 
+long: CeuN	長 
+head louse: sat na	蝨 
+louse: sat na	蝨 
+male: namyan	男 
+man: yan	人 
+many: hou do	多 
+much: hou do	多 
+multiple: hou do	多 
+several: hou do	多 
+flesh: yuk 
+meat: yuk 
+moon: yut gw~oN	月亮 
+hill: san	山 
+mountain: san	山 
+mouth: hau	jeui	口	嘴 
+name: meN	名 
+title: meN	名 
+neck: geN	頸 
+new: san ge	新 
+night: hak	yeh man	夜晚 
+nighttime: hak	yeh man	夜晚 
+nose: beih go	鼻 
+not: mh	冇	唔係 
+adulterous: yat	一	幺	毐	衿 
+one: yat	一	幺	毐	衿 
+single: yat	一	幺	毐	衿 
+that: go go	嗰 
+the: yat	一	幺	毐	衿 
+unprincipled: yat	一	幺	毐	衿 
+human: yan	人 
+human being: yan	人 
+person: yan	人 
+rain: yuh	雨 
+rainy weather: yuh	雨 
+red: huN sik	紅 
+path: louh jai	路	道 
+road: louh jai	路	道 
+route: louh jai	路	道 
+root: gan	根 
+round: yun	圓 
+say: goN	wah	講 
+see: tai	睇	見 
+seed: juN ji	種子 
+sit: Coh	坐 
+hide: peih fu	皮 
+skin: peih fu	皮 
+sleep: fan gau	瞓 
+little: sai	小 
+small: sai	小 
+smallness: sai	小 
+smoke: yin	煙 
+stand: keih 
+star: siN	星 
+rock: sek	石 
+stone: sek	石 
+sun: tai yeuN	yat tau	太陽	日頭 
+swim: yauh seui	游水 
+tail: meih	尾巴 
+this: nigo	呢 
+2 sg: neih deih	你 
+thou: neih deih	你 
+you: neih deih	你 
+tongue: leih	脷 
+tooth: Nah	牙 
+tree: sy~uh	樹 
+grind: yih	二	兩	貳 
+two: yih	二	兩	貳 
+go: haN	行 
+walk: haN	行 
+water: seui	水 
+1 pl. inc.: Nh deih	我哋 
+we: Nh deih	我哋 
+we₁: Nh deih	我哋 
+what: mat yeh	me yeh	乜 
+white: bak	白 
+whiteness: bak	白 
+who: bin go	邊個 
+who?: bin go	邊個 
+female: neuih yan	女 
+woman: neuih yan	女 
+yellow: woN sik	黄 
+earthworm: 蚯蚓 
+worm: 蚯蚓 
+2 pl.: 你哋 
+ye: 你哋 
+you all: 你哋 
+3 pl.: 佢哋 
+they: 佢哋 
+here: 呢度 
+there: 嗰度 
+where: 邊度 
+where?: 邊度 
+when: 幾時 
+when?: 幾時 
+how: 如何	點樣 
+how?: 如何	點樣 
+other: 其他 
+three: 三	參	叄 
+child: 細佬 
+principal wife: 老婆 
+wife: 老婆 
+husband: 老公 
+his mother: 阿媽 
+mother: 阿媽 
+my mother: 阿媽 
+father: 阿爸 
+his father: 阿爸 
+my father: 阿爸 
+animal: 動物 
+forest: 森林 
+woods: 森林 
+fruit: 生果 
+fingernail: 指甲 
+gut: 内臟 
+guts: 内臟 
+insides: 内臟 
+intestine: 内臟 
+intestines: 内臟 
+suck: 吸	啜 
+spit: 𦧲	吐 
+breath: 呼吸 
+breathe: 呼吸 
+afraid: 怕	驚 
+be afraid: 怕	驚 
+fear: 怕	驚 
+fright: 怕	驚 
+hunt: 打猎 
+cut: 切	剪 
+hack: 切	剪 
+cut open: 劈開 
+split: 劈開 
+pull: 拉	掹 
+push: 噰	推 
+shove: 噰	推 
+throw: 抌	掉 
+freeze: 結冰 
+brook: 江	河 
+river: 江	河 
+stream: 江	河 
+blaze: siu	燒 
+burn: siu	燒 
+day: 日頭 
+daylight: 日頭 
+daytime: 日頭 
+dirty: 汚糟 
+filthy: 汚糟 
+soiled: 汚糟 
+in: 入面	裏面 
+inside: 入面	裏面 
+and: 同	與 
+if: 如果 
+because: 因爲 

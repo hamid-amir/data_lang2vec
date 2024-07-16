@@ -1,0 +1,342 @@
+all: kendial | kɛndial 
+all: kɛndial 
+and: kene 
+animal: ley 
+ashes: ngeth | pʰokʰ 
+ashes: pʰokʰ 
+back: jok 
+bad: jiaak 
+bark: kʰʊm 
+bark: kom/ guey | kʰʊm 
+because: ke hoo 
+belly: bap/ bap duor ka | ǯɪc 
+belly: ǯɪc | ǯɪc 
+big: mɪːdiːtʰ 
+big: mi diit | mɪːdiːtʰ 
+bird: dit | ditʰ 
+bird: ditʰ 
+bite: kac | kʰɛo 
+bite: kʰɛo 
+black: ˗čarr | -čarr 
+black: mi car | -čarr 
+blood: riem | riyEm	rriyɛm 
+blood: rriyɛm | riyEm	rriyɛm 
+blow: piny 
+bone: cʊaː | Cua	Tua	cʊaː 
+bone: coa | Cua	Tua	cʊaː 
+breast: kaw 
+breast: thin | kaw 
+breathe: yiee 
+burn: wang 
+burn: wa̰ŋ 
+child: gat 
+claw: rriʊp 
+cloud: pʷa̰rr 
+cloud: puaar/ wuon | pʷa̰rr 
+cold: kʰɔč˗kʰoč | kʰɔč-kʰoč 
+cold: koc/thonythony | kʰɔč-kʰoč 
+come: ber | bir	bɪrr 
+come: bɪrr | bir	bɪrr 
+correct: cunge/ 
+count: kuen 
+cut: nguok 
+day: cang 
+die: lia | liyah 
+die: liyah 
+dig: tet 
+dirty: niet 
+dog: jiok | jiukh~	ǯiukʰ 
+dog: ǯiukʰ | jiukh~	ǯiukʰ 
+drink: math | mat8~	matθ 
+drink: matθ | mat8~	matθ 
+dry: koot/mi koot | kʰʊːtʰ 
+dry: kʰʊːtʰ 
+dull: mi puolpuol 
+dust: tur 
+ear: jith | jith8$	ǯitʰθ 
+earth: wicmuon/piny 
+ear: ǯitʰθ | jith8$	ǯitʰθ 
+eat: čam | čam 
+eat: mieth | čam 
+egg: tuong | tʰuɔŋ 
+egg: tʰuɔŋ 
+eye: wang | wEN	wɛŋ 
+eye: wɛŋ | wEN	wɛŋ 
+fall: pean 
+far: nan 
+father: guan 
+father: qurr 
+fat (n.): cuath/thiol 
+fat (n.): tθiol 
+fear: dual 
+feather: juat 
+few: titot/tidakdaak 
+fight: kor 
+fingernail: riop yietka 
+fire: mac | maC	mač 
+fire: mač | maC	mač 
+fish: rec | rEC	rrɛč 
+fish: rrɛč | rEC	rrɛč 
+five: dhiech 
+float: thoar/ mithaar 
+flower: gaak/ gaak jiath 
+flow: lony 
+fly (n.): luaŋ 
+fly (v.): par/mi par ke nhial 
+fog: rur 
+foot: pat ciok | pʰɛtʰčioᵘkʰɛ 
+foot: pʰɛtʰčioʷʰɛ | pʰɛtʰčioᵘkʰɛ 
+forest: rup 
+four: nguaan 
+freeze: liet/mi ci liit ke koc 
+fruit: dojiaath 
+full: thiaang/mi ci thiaang 
+give: muoc/thop | tθopʰ 
+give: tθopʰ 
+good: gʷaʔɛ 
+good: gooy | gʷaʔɛ 
+grass: juaac 
+grass: ǯwaːč 
+green: toc /mi toc 
+guts: jiaac 
+hair: niyɛ̰m 
+hand: tet | th~ith~	tʰɪtʰ 
+hand: tʰɪtʰ | th~ith~	tʰɪtʰ 
+head: wɪč | wɪč 
+head: wic | wɪč 
+hear: lieng | lingE	lɪːngɛ 
+hear: lɪːngɛ | lingE	lɪːngɛ 
+heart: loc | lɔːč 
+heart: lɔːč | lɔːč 
+heavy: thiekthiek 
+he: jen wut 
+here: guame 
+hit: piem 
+hold: rom 
+horn: tʊŋ | tuN	tʊŋ 
+horn: tung | tuN	tʊŋ 
+how: hidi 
+hunt: kak 
+husband: cou 
+if: mi 
+I: han | hEn	hɛn 
+I: hɛn | hEn	hɛn 
+in: rey 
+kill: nak | nɛkʰ 
+kill: nɛkʰ 
+knee: muol | moL	nɛč 
+knee: nɛč | moL	nɛč 
+know: mɔːlʲ 
+know: ngac | mɔːlʲ 
+lake: bar 
+laugh: tok 
+leaf: jith jiath | jit8~	ǯɪtθ- 
+leaf: ǯɪtθ˗ | jit8~	ǯɪtθ- 
+left: cam 
+leg: ciok 
+lie: kac 
+liver: čʷɛn | Cw~En	čʷɛn 
+liver: cuany | Cw~En	čʷɛn 
+live: tek 
+long: bar | berr-bɛrr 
+long: berr˗bɛrr | berr-bɛrr 
+louse: nyaːkʰ | 5akh~ 
+man: rrɛn | rEn 
+man: wut | rEn 
+many: ti nguan | tʰɪŋ-wan 
+many: tʰɪŋ˗wan | tʰɪŋ-wan 
+meat: ring 
+meat: rrɪŋ 
+moon: pay | pʰaːy 
+moon: pʰaːy 
+mother: man 
+mountain: pam midiit | ph~Em	pʰɛm 
+mountain: pʰɛm | ph~Em	pʰɛm 
+mouth: thok | tθɔːkʰ 
+mouth: tθɔːkʰ 
+name: ciot | Cuth~	Cuuth~	čuᵘtʰ 
+name: čuʷʰ | Cuth~	Cuuth~	čuᵘtʰ 
+narrow: mi ciwciu 
+near: thiak 
+neck: ŋʷɔːk 
+neck: nguak | ŋʷɔːk 
+new: mi paytuook | mipajEkh~	miːpaːyǯɛkʰ 
+new: miːpaːyǯɛkʰ | mipajEkh~	miːpaːyǯɛkʰ 
+night: waar | wEr	wæ̰ːrr 
+night: wæ̰ːrr | wEr	wæ̰ːrr 
+nose: wum | wum	wʊm 
+not: cie jen 
+old: doang 
+one: kel | kel	kh~El	kʰɛl 
+one: kʰɛl | kel	kh~El	kʰɛl 
+other: dodien 
+other: mi˗dodiːyɛn 
+person: raan | rEn 
+play: ngar 
+pull: thot/ yoac 
+push: hook 
+rain: nhiaal | niyaːl 
+rain: niyaːl 
+red: lual | -lwal 
+red: ˗lwal | -lwal 
+right: cuec | th~ith~	tʰɪtʰ 
+river: kir / yier 
+road: duop | duph~ 
+road: duʔpʰ | duph~ 
+root: mei˗ | mei- 
+root: mie jiath/ciok jiath | mei- 
+rope: rok 
+rotten: nguoth 
+round: gulgul 
+rub: mony/ cuoth 
+salt: kate 
+sand: lʲɛtʰ 
+sand: liet | lʲɛtʰ 
+say: lare | larre 
+say: larre 
+scratch: jony 
+sea: bar 
+seed: kʷai 
+seed: kuee | kʷai 
+see: nen/ guec | nEni	nɛːni 
+see: nɛːni | nEni	nɛːni 
+sew: koc 
+sharp: mothmoth 
+short: ciekciek 
+sing: ket 
+sit: nyuur | ɲuːri 
+sit: ɲuːri 
+skin: guop | kEl	kɛl 
+skin: kɛl | kEl	kɛl 
+sky: nhial 
+sleep: nien | niyɛn 
+sleep: niyɛn 
+small: mi tot | -tʰɔtʰ 
+small: ˗tʰɔtʰ | -tʰɔtʰ 
+smell: nguany 
+smoke: tol | tʰol 
+smoke: tʰol 
+smooth: puothpuoth 
+snake: thol | tθɔl 
+snake: tθɔl 
+some: thande/thandien 
+spit: nguol 
+split: daak 
+squeeze: nhiec 
+stab: yieth 
+stand: čʊŋni 
+stand: cuong 
+star: kuel/ cier | kw~El	kwɛl 
+star: kwɛl | kw~El	kwɛl 
+stick: keet 
+stone: dolpaam | ph~Em	pʰɛm 
+stone: pʰɛm | ph~Em	pʰɛm 
+straight: cungcung 
+suck: lueth 
+sun: cang | CEN	čɛŋ 
+sun: čɛŋ | CEN	čɛŋ 
+swell: nguac 
+swim: ket | kʰɪtʰ 
+swim: kʰɪtʰ 
+tail: jual | ǯuɛl 
+tail: ǯuɛl | ǯuɛl 
+that: mimi | kel	kh~El	kʰɛl 
+there: guamo 
+they: ken 
+thick: thiak/ deel 
+thin: cieu | čiw-čiw 
+thin: čiw˗čiw | čiw-čiw 
+think: car 
+this: meme | nɪmɪh 
+this: nɪmɪh 
+thou: yɛn | jin	ǯɪːn 
+thou: yien/ jin | jin	ǯɪːn 
+thou: ǯɪːn | jin	ǯɪːn 
+three: dʲekʰ 
+three: diok 
+throw: yor/ yori je 
+tie: yien 
+tongue: lep | LEph~	l̥ɛph 
+tongue: l̥ɛph | LEph~	l̥ɛph 
+tooth: l̥e | Le	Lei	l̥eˡ 
+tooth: leykel lec reu | Le	Lei	l̥eˡ 
+tree: jiath | jiat8~ 
+tree: ǯiatθ | jiat8~ 
+turn: riat/luoc/ ce loc 
+two: reu | rEu	reu	rrɛu 
+two: rrɛu | rEu	reu	rrɛu 
+vomit: ngok 
+walk: jal 
+walk: wirr 
+warm: mor mor | mɔr-mɔr 
+warm: mɔr˗mɔr | mɔr-mɔr 
+wash: lak 
+water: pʰiː | ph~i	pʰiː 
+water: pi /piu | ph~i	pʰiː 
+we: kʰɔn | kh~on 
+we: kon/ko | kh~on 
+wet: hoac/mi hoac 
+wet: waːč 
+what: ɛŋuh 
+what: ngu | ɛŋuh 
+when: ney 
+where: ni /winith 
+white: boor/mi boor | -bɔrr 
+white: ˗bɔrr | -bɔrr 
+who: ɛŋah 
+who: nga | ɛŋah 
+wide: hephep 
+wife: ciek mi cikueen 
+wind: jiom 
+wing: gok/ kot 
+wipe: puoc/yieny 
+with: ke 
+woman: čɛkʰ | čɛkʰ 
+woman: ciek | čɛkʰ 
+worm: naar muon 
+year: ruoon 
+yellow: yian/ mi yian 
+you: jin | jin	ǯɪːn 
+every: kɛndial 
+ash: pʰokʰ 
+abdomen: ǯɪc 
+bigness: mɪːdiːtʰ 
+large: mɪːdiːtʰ 
+breasts: kaw 
+nail: rriʊp 
+talon: rriʊp 
+come from: bir	bɪrr 
+be dead: liyah 
+dead: liyah 
+left hand: th~ith~	tʰɪtʰ 
+1 sg.: hEn	hɛn 
+be knowledgeable: mɔːlʲ 
+head louse: 5akh~ 
+male: rrɛn 
+much: tʰɪŋ-wan 
+multiple: tʰɪŋ-wan 
+several: tʰɪŋ-wan 
+hill: ph~Em	pʰɛm 
+title: Cuth~	Cuuth~	čuᵘtʰ 
+nighttime: wEr	wæ̰ːrr 
+adulterous: kel	kh~El	kʰɛl 
+single: kel	kh~El	kʰɛl 
+the: kel	kh~El	kʰɛl 
+unprincipled: kel	kh~El	kʰɛl 
+human: rEn 
+human being: rEn 
+rainy weather: niyaːl 
+path: duph~ 
+route: duph~ 
+hide: kEl	kɛl 
+little: -tʰɔtʰ 
+smallness: -tʰɔtʰ 
+rock: ph~Em	pʰɛm 
+2 sg: jin	ǯɪːn 
+grind: rEu	reu	rrɛu 
+hot: mɔr-mɔr 
+1 pl. inc.: kh~on 
+we₁: kh~on 
+whiteness: -bɔrr 
+who?: ɛŋah 
+female: čɛkʰ 

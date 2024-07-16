@@ -1,0 +1,332 @@
+all: ҳама 
+every: ҳама 
+ash: хокистар 
+ashes: хокистар 
+bark: пӯсти дарахт 
+abdomen: шикам 
+belly: шикам 
+big: бузург 
+bigness: бузург 
+large: бузург 
+bird: парранда 
+bite: газидан 
+black: сиёҳ 
+blood: хун 
+bone: устухон 
+breast: сина 
+breasts: сина 
+cloud: абр 
+cold: сард 
+come: омадан 
+come from: омадан 
+be dead: мурдан 
+dead: мурдан 
+die: мурдан 
+dog: саг 
+drink: нӯшидан 
+dry: хушк 
+ear: гӯш 
+earth: замин 
+ground: замин 
+land: замин 
+soil: замин 
+eat: хӯрдан 
+egg: тухм 
+eye: чашм 
+feather: пар 
+fire: оташ 
+fish: моҳӣ 
+fly: паридан 
+fly v.: паридан 
+foot: по 
+full: пур 
+give: додан 
+good: хуб 
+green: сабз 
+hair: мӯ 
+head: сар 
+hear: шунидан 
+heart: дил 
+horn: шох 
+1 sg.: ман 
+I: ман 
+kill: куштан 
+knee: зону 
+be knowledgeable: донистан 
+know: донистан 
+leaf: барг 
+liver: ҷигар 
+long: дароз 
+head louse: шапиш 
+louse: шапиш 
+male: мард 
+man: нафар 
+many: бисёр 
+much: бисёр 
+multiple: бисёр 
+several: бисёр 
+moon: моҳ 
+hill: кӯҳ 
+mountain: кӯҳ 
+mouth: даҳон 
+name: ном 
+title: ном 
+neck: гардан 
+new: нав 
+night: шаб 
+nighttime: шаб 
+not: не 
+adulterous: як 
+one: як 
+single: як 
+that: он 
+the: як 
+unprincipled: як 
+human: нафар 
+human being: нафар 
+person: нафар 
+rain: борон 
+rainy weather: борон 
+red: сурх 
+path: роҳ 
+road: роҳ 
+route: роҳ 
+root: реша 
+round: гирд 
+sand: рег 
+say: гуфтан 
+see: дидан 
+seed: тухм 
+sit: нишастан 
+hide: пӯст 
+skin: пӯст 
+sleep: хобидан 
+little: хурд 
+small: хурд 
+smallness: хурд 
+smoke: дуд 
+star: ситора 
+rock: санг 
+stone: санг 
+sun: офтоб 
+swim: шино кардан 
+tail: дум 
+this: ин 
+2 sg: ту 
+thou: ту 
+you: ту 
+tongue: забон 
+tooth: дандон 
+tree: дарахт 
+grind: ду 
+two: ду 
+go: роҳ рафтан 
+walk: роҳ рафтан 
+hot: гарм 
+warm: гарм 
+water: об 
+1 pl. inc.: мо 
+we: мо 
+we₁: мо 
+what: чӣ 
+white: сафед 
+whiteness: сафед 
+who: кӣ 
+who?: кӣ 
+female: зан 
+woman: зан 
+yellow: зард 
+distant: дур 
+far: дур 
+dull: вазнин 
+heavy: вазнин 
+serious: вазнин 
+close: наздик 
+near: наздик 
+ner: наздик 
+salt: намак 
+short: кӯтоҳ 
+snake: мор 
+thin: нозук 
+wind: шамол 
+earthworm: кирм 
+worm: кирм 
+year: сол 
+3 sg.: вай 
+he: вай 
+she: вай 
+2 pl.: шумо 
+ye: шумо 
+you all: шумо 
+3 pl.: онҳо 
+they: онҳо 
+here: инҷо 
+there: онҷо 
+where: куҷо 
+where?: куҷо 
+when: кай 
+when?: кай 
+how: чӣ тавр 
+how?: чӣ тавр 
+some: бархе 
+few: андак 
+other: дигар 
+three: се 
+four: чаҳор 
+five: панҷ 
+broad: васеъ 
+wide: васеъ 
+wideness: васеъ 
+fat: равған 
+thick: ғафс 
+narrow: танг 
+child: бача 
+principal wife: зан 
+wife: зан 
+husband: шавҳар 
+his mother: модар 
+mother: модар 
+my mother: модар 
+father: падар 
+his father: падар 
+my father: падар 
+animal: ҷонвар 
+forest: ҷангал 
+woods: ҷангал 
+branch: чомоқ 
+stick: чомоқ 
+fruit: мева 
+flower: гул 
+grass: алаф 
+cord: таноб 
+rope: таноб 
+flesh: гӯшт 
+meat: гӯшт 
+grease: равған 
+claw: нохун 
+fingernail: нохун 
+nail: нохун 
+leg: линг 
+arm: даст 
+hand: даст 
+wing: бол 
+gut: рӯда 
+guts: рӯда 
+insides: рӯда 
+intestine: рӯда 
+intestines: рӯда 
+back: пушт 
+suck: макидан 
+spit: туф кардан 
+vomit: қай кардан 
+blow: вазидан 
+breath: нафас кашидан 
+breathe: нафас кашидан 
+laugh: хандидан 
+laughter: хандидан 
+cogitate: андешидан 
+reflect: андешидан 
+think: андешидан 
+smell: бӯидан 
+sniff: бӯидан 
+afraid: тарсидан 
+be afraid: тарсидан 
+fear: тарсидан 
+fright: тарсидан 
+alive: зистан 
+be alive: зистан 
+life: зистан 
+live: зистан 
+living: зистан 
+fight: ҷангидан 
+hunt: шикор кардан 
+beat: задан 
+hit: задан 
+strike: задан 
+cut: буридан 
+hack: буридан 
+cut open: ҷудо кардан 
+split: ҷудо кардан 
+pierce: захм задан 
+stab: захм задан 
+scratch: харошидан 
+dig: ҳафр задан 
+lie: дароз кашидан	хобидан 
+lie down: дароз кашидан	хобидан 
+tell lies: дароз кашидан	хобидан 
+stand: истодан 
+turn: гардидан 
+turn around: гардидан 
+turn round: гардидан 
+drop: афтидан 
+fall: афтидан 
+grasp: нигоҳ доштан 
+hold: нигоҳ доштан 
+hold in arm: нигоҳ доштан 
+squeeze: фишурдан 
+wring: фишурдан 
+rub: молидан 
+wipe: пок кардан 
+wash: шустан 
+wash clothes: шустан 
+pull: кашидан 
+push: фишор додан 
+shove: фишор додан 
+throw: андохтан 
+bind: гиреҳ задан 
+fasten: гиреҳ задан 
+tie: гиреҳ задан 
+tie up: гиреҳ задан 
+sew: дӯхтан 
+count: шумурдан 
+enumerate: шумурдан 
+number: шумурдан 
+tally: шумурдан 
+sing: хондан 
+have fun: бозӣ кардан 
+play: бозӣ кардан 
+float: истодан 
+flow: шӯридан 
+freeze: ях шудан 
+swell: бод кардан 
+brook: дарё 
+river: дарё 
+stream: дарё 
+lake: кӯл 
+ocean: баҳр 
+sea: баҳр 
+dust: чанг 
+fog: тира 
+sky: осмон 
+snow: барф 
+ice: ях 
+blaze: сӯхтан 
+burn: сӯхтан 
+day: рӯз 
+daylight: рӯз 
+daytime: рӯз 
+old: кӯҳна 
+bad: бад 
+evil: бад 
+rot: пӯсида 
+rotten: пӯсида 
+dirty: чиркин 
+filthy: чиркин 
+soiled: чиркин 
+straight: рост 
+sharp: тез 
+blunt: кунд 
+smooth: ҳамвор 
+damp: тар 
+wet: тар 
+correct: дуруст 
+right: рост 
+right side: рост 
+left: чап 
+at: дар 
+in: дар 
+inside: дар 
+with: бо 
+and: ва 
+if: агар 
+because: зеро 

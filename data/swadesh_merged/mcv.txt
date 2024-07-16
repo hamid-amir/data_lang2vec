@@ -1,0 +1,215 @@
+all: botakumi 
+arm: ipini 
+arm: pipini 
+ashes: fanifo 
+ashes: φaniφo 
+bark: de kiapana 
+bark: dɛ kiapana 
+belly: kuti 
+belly: tuburo 
+big: gamiso 
+bird: eßeso 
+bird: eveso 
+bird: metau 
+bite: tabuto 
+black: soguro 
+blood: nikana 
+blood: nikana-au 
+bone: anu 
+bone: fia 
+bone: φia 
+branch: agariu 
+breast: metufu 
+breast: nono 
+breast: nunu 
+brother: name 
+burn: erprota 
+butterfly: goweio 
+cassowary: koiboau 
+child: omoni 
+claw: evesatirikie 
+cloud: bubu 
+cold: kigio 
+come: ego bamo 
+crocodile: nukau 
+day: sifio 
+die: no 
+dog: gahoi 
+dog: gaso 
+drink: ede mio 
+drink: ɛde mio 
+dry: petioi 
+ear: dera 
+earth: boti 
+earth: sabo 
+ear: tokuso 
+eat: idie 
+egg: usu 
+egg: utuau 
+elbow: inu 
+eye: kufino 
+eye: kupina 
+eye: kuφino 
+face: pauwoto 
+father: oi 
+fat (n.): gadi 
+feather: egeni 
+feather: eßeso inutu 
+feather: eveso inutu 
+finger: wakumu 
+finger: wakumu-sanani 
+fire: mafi 
+fire: mofamofa 
+fire: mofamofa ~ mafi 
+fish: ebiame 
+fish: ebi-ame 
+fish: sibua 
+five: bugihari 
+flower: oguia 
+fly (n.): tabubi 
+fly (v.): evesate rokito 
+foot: obosonia 
+forest: buti 
+four: dewikome 
+full: muwabo 
+give: enagu 
+good: daroe 
+green: ahonikapi 
+green: pahonikapi 
+hair: inuta 
+hair: inutu 
+hand: soniabumoko 
+head: giau 
+head: gio 
+hear: eugio 
+heart: guguwao 
+he/she: eti 
+hit: bohe 
+horn: kieto 
+house: dalimo 
+house: darimo 
+I: no 
+kill: edu 
+knee: kiwonu 
+know: imihaum 
+know: φodavugi 
+leaf: paho 
+leaf: pasipasoa 
+leg: dete 
+leg: idini 
+lie: emoi 
+lip: itobo 
+liver: liva 
+long: gorivo 
+louse: kopuri 
+louse: nimo 
+man: ama 
+man: amagemo 
+many: gomisoi 
+meat: aiinu 
+meat: aiːnu 
+moon: bube 
+moon: siviau 
+mosquito: nunutia 
+mother: unuau 
+mountain: ifia 
+mountain: sumuri 
+mouth: momoto 
+mouth: momout 
+name: digo 
+name: digɔ 
+navel: dukuhau 
+neck: foko 
+neck: ma-u 
+new: darimokasie 
+night: likau 
+night: riiko 
+night: riːko 
+nose: dese 
+nose: desi 
+not: kahari 
+one: noraigi 
+one: raiegio 
+rain: darefo 
+rain: dareφo 
+rain: larefo 
+rat: menawuau 
+red: mafibogue 
+river: go-u 
+river: iatio 
+road: dige 
+road: puriha 
+root: de daroi 
+root: dɛ daroi 
+root: kukukutuau 
+sand: miri 
+say: tekiatekioe 
+sea: siwoi-a 
+seed: asa 
+see: kaiefo 
+see: kaieφo 
+shoulder: beno 
+sister: name 
+sit: em(o)e 
+skin: nikopi 
+skin: nukupiau 
+sky: guwa 
+sleep: ete 
+small: kopaiino 
+small: kopaiːno 
+smoke: kofuto 
+smoke: kohoto 
+snake: kokea 
+spit: kotauho 
+stand: kuidobo 
+stand: ta(u)kui dobo 
+star: gugi 
+star: iki 
+stone: hanavi 
+stone: nadi 
+sun: siviau 
+sun: sivio 
+swim: koroi 
+tail: wasiri 
+that: wotoiya 
+they: eti 
+they two: ?eti 
+they two: eti (?) 
+this: wotoiya 
+thou: ndo 
+thou: nggo 
+thou: nó 
+thou: no͂Ú ~ nɔ͂Ú 
+three: raigerato 
+throat: foko 
+tongue: goda 
+tongue: koda 
+tooth: ta 
+tooth: tou 
+tree: de 
+tree: dɛ 
+tree: debaru 
+two: masi 
+two: umagi 
+walk: ewobao 
+wallaby: tebe 
+warm: papatoe 
+water: ao 
+water: bu-u 
+we (incl.): ni 
+we: ni 
+we two (incl.): ?ni 
+we two: ni (?) 
+what: augeə 
+what: augeï 
+white: sevia 
+who: woteː 
+who: wotee 
+wife: lokifai 
+wind: konobo 
+woman: kifa 
+woman: kifau 
+woman: kiφa 
+you: ndo 
+you two: ?ndo 
+you two: ndo (?) 

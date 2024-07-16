@@ -1,0 +1,344 @@
+all: ամբողջը | բոլոր 
+and: եւ | եւ	ու 
+animal: կենդանի 
+at: մօտը | -ին	-ում 
+bad: գէշ or վատ 
+bark: կեղեւ 
+because: որովհետեւ 
+belly: por | փոր 
+big: մեծ 
+bite: ktzel, khatzel | կծել 
+blood: aryun | արյուն 
+bone: voskor | ոսկոր 
+breast: Goortsk | կուրծք 
+come: caal | գալ 
+come: yegoor | գալ 
+die: mernel, mahanal | մեռնել 
+dog: shun | շուն 
+drink: khmel | խմել 
+drink: mbel | խմել 
+drink: mbelik | խմել 
+ear: akanj | ականջ 
+eat: utel | ուտել 
+egg: dzu | ձու 
+eye: achk | աչք 
+fingernail: yeghung | եղունգ 
+fire: krak | կրակ	հուր 
+fish: dzuk | ձուկ 
+five: հինգ hing 
+fly (v.): trchel 
+foot: votk | ոտք 
+hair: maz(er) | մազ 
+hand: dzerk | ձեռք 
+head: glukh | գլուխ 
+hear: lsel | լսել 
+heart: sirt | սիրտ 
+I: ես 
+kill: spanel | սպանել 
+knee: tzunk | ծունկ 
+know: gitenal | գիտենալ	իմանալ 
+know: keed(em) | գիտենալ	իմանալ 
+leaf: terev | տերեւ 
+liver: lyard | լյարդ 
+long: yerkar | երկար 
+meat: mis | միս 
+moon: looseen | լուսին 
+mouth: beran | բերան 
+name: anoon | անուն 
+neck: viz | վիզ 
+new: nor | նոր 
+nose: kit | քիթ 
+one: մէկ | մեկ 
+person: aants | մարդ 
+root: armat | արմատ 
+seed: serm | սերմ 
+see: tesnel | տեսնել 
+skin: mort | կաշի	մաշկ 
+skin: mortel | կաշի	մաշկ 
+sleep: knel | քնել 
+smoke: mookh | ծուխ 
+star: asdgh | աստղ 
+sun: arev | արեւ 
+swim: loghanal | լողալ 
+tail: poch | պոչ 
+this: ³Ûë | այս 
+thou: du | դու 
+three: erek‘ | երեք 
+three: երեք 
+tongue: lezu | լեզու 
+tooth: atam | ատամ 
+tree: dzaar | ծառ 
+two: yergoo | երկու 
+walk: kaylel | քայլել 
+warm: cherm | տաք 
+water: choor | ջուր 
+we: menk | մենք 
+we: Ù»Ýù | մենք 
+what: eench | ինչ 
+white: jermaag | սպիտակ 
+white: spitak | սպիտակ 
+who: ov | ով 
+woman: geen | կին 
+every: բոլոր 
+ash: մոխիր 
+ashes: մոխիր 
+abdomen: փոր 
+bigness: մեծ 
+large: մեծ 
+bird: թռչուն 
+black: սեւ 
+breasts: կուրծք 
+cloud: ամպ 
+cold: ցուրտ 
+come from: գալ 
+be dead: մեռնել 
+dead: մեռնել 
+dry: չոր 
+earth: հող 
+ground: հող 
+land: հող 
+soil: հող 
+feather: փետուր 
+fly: թռչել 
+fly v.: թռչել 
+full: լիքը 
+give: տալ 
+good: լավ 
+green: կանաչ 
+horn: եղջյուր	պոզ 
+1 sg.: ես 
+be knowledgeable: գիտենալ	իմանալ 
+head louse: ոջիլ 
+louse: ոջիլ 
+male: տղամարդ 
+man: մարդ 
+many: շատ 
+much: շատ 
+multiple: շատ 
+several: շատ 
+hill: լեռ	սար 
+mountain: լեռ	սար 
+title: անուն 
+night: գիշեր 
+nighttime: գիշեր 
+not: ոչ	չ- 
+adulterous: մեկ 
+single: մեկ 
+that: այն 
+the: մեկ 
+unprincipled: մեկ 
+human: մարդ 
+human being: մարդ 
+rain: անձրեւ 
+rainy weather: անձրեւ 
+red: կարմիր 
+path: ճամփա	ճանապարհ 
+road: ճամփա	ճանապարհ 
+route: ճամփա	ճանապարհ 
+round: կլոր 
+sand: ավազ 
+say: ասել 
+sit: նստել 
+hide: կաշի	մաշկ 
+little: փոքր 
+small: փոքր 
+smallness: փոքր 
+rock: քար 
+stone: քար 
+2 sg: դու 
+you: դու 
+grind: երկու 
+go: քայլել 
+hot: տաք 
+1 pl. inc.: մենք 
+we₁: մենք 
+whiteness: սպիտակ 
+who?: ով 
+female: կին 
+yellow: դեղին 
+distant: հեռու 
+far: հեռու 
+dull: ծանր 
+heavy: ծանր 
+serious: ծանր 
+close: մոտ 
+near: մոտ 
+ner: մոտ 
+salt: աղ 
+short: կարճ 
+snake: օձ 
+thin: բարակ 
+wind: քամի 
+earthworm: ճիճու 
+worm: ճիճու 
+year: տարի 
+3 sg.: նա 
+he: նա 
+she: նա 
+2 pl.: դուք 
+ye: դուք 
+you all: դուք 
+3 pl.: նրանք 
+they: նրանք 
+here: այստեղ 
+there: այնտեղ 
+where: որտեղ	ուր 
+where?: որտեղ	ուր 
+when: երբ 
+when?: երբ 
+how: ինչպես 
+how?: ինչպես 
+some: որոշ 
+few: քիչ 
+other: այլ	ուրիշ 
+four: չորս 
+five: հինգ 
+broad: լայն 
+wide: լայն 
+wideness: լայն 
+fat: ճարպ 
+thick: հաստ 
+narrow: նեղ 
+child: երեխա 
+principal wife: կին 
+wife: կին 
+husband: ամուսին 
+his mother: մայր 
+mother: մայր 
+my mother: մայր 
+father: հայր 
+his father: հայր 
+my father: հայր 
+forest: անտառ 
+woods: անտառ 
+branch: փայտ 
+stick: փայտ 
+fruit: պտուղ 
+flower: ծաղիկ 
+grass: խոտ 
+cord: պարան 
+rope: պարան 
+flesh: միս 
+grease: ճարպ 
+claw: եղունգ 
+nail: եղունգ 
+leg: ոտք 
+arm: ձեռք 
+wing: թեւ 
+gut: աղիք	փորոտիք 
+guts: աղիք	փորոտիք 
+insides: աղիք	փորոտիք 
+intestine: աղիք	փորոտիք 
+intestines: աղիք	փորոտիք 
+back: մեջք 
+suck: ծծել 
+spit: թքել 
+vomit: ործկալ 
+blow: փչել 
+breath: շնչել 
+breathe: շնչել 
+laugh: ծիծաղել 
+laughter: ծիծաղել 
+cogitate: մտածել 
+reflect: մտածել 
+think: մտածել 
+smell: հոտ զգալ 
+sniff: հոտ զգալ 
+afraid: վախենալ 
+be afraid: վախենալ 
+fear: վախենալ 
+fright: վախենալ 
+alive: ապրել 
+be alive: ապրել 
+life: ապրել 
+live: ապրել 
+living: ապրել 
+fight: կռվել 
+hunt: որսալ 
+beat: խփել	հարվածել 
+hit: խփել	հարվածել 
+strike: խփել	հարվածել 
+cut: կտրել 
+hack: կտրել 
+cut open: բաժանել 
+split: բաժանել 
+pierce: խոցել 
+stab: խոցել 
+scratch: քերծել	քորել 
+dig: փորել 
+lie: պառկել 
+lie down: պառկել 
+tell lies: պառկել 
+stand: կանգնել 
+turn: շրջվել 
+turn around: շրջվել 
+turn round: շրջվել 
+drop: ընկնել 
+fall: ընկնել 
+grasp: բռնել	պահել 
+hold: բռնել	պահել 
+hold in arm: բռնել	պահել 
+squeeze: սեղմել 
+wring: սեղմել 
+rub: շփել 
+wipe: սրբել 
+wash: լվալ 
+wash clothes: լվալ 
+pull: ձգել	քաշել 
+push: հրել 
+shove: հրել 
+throw: նետել 
+bind: կապել 
+fasten: կապել 
+tie: կապել 
+tie up: կապել 
+sew: կարել 
+count: հաշվել 
+enumerate: հաշվել 
+number: հաշվել 
+tally: հաշվել 
+sing: երգել 
+have fun: խաղալ 
+play: խաղալ 
+float: լողալ 
+flow: հոսել 
+freeze: սառչել 
+swell: ուռել 
+brook: գետ 
+river: գետ 
+stream: գետ 
+lake: լիճ 
+ocean: ծով 
+sea: ծով 
+dust: փոշի 
+fog: մառախուղ	մշուշ 
+sky: երկինք 
+snow: ձյուն 
+ice: սառույց 
+blaze: այրվել	վառվել 
+burn: այրվել	վառվել 
+day: օր 
+daylight: օր 
+daytime: օր 
+old: հին 
+bad: վատ 
+evil: վատ 
+rot: փտած 
+rotten: փտած 
+dirty: կեղտոտ 
+filthy: կեղտոտ 
+soiled: կեղտոտ 
+straight: ուղիղ 
+sharp: սուր 
+blunt: բութ 
+smooth: հարթ 
+damp: թաց 
+wet: թաց 
+correct: ճիշտ 
+right: աջ 
+right side: աջ 
+left: ձախ 
+in: -ում	մեջ 
+inside: -ում	մեջ 
+with: հետ 
+if: եթե 

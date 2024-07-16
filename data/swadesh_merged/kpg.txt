@@ -1,0 +1,142 @@
+all: hua/kotoa/	huakatoa	huo/godoo/ 
+every: hua/kotoa/	huakatoa	huo/godoo/ 
+ash: lehu	rehu 
+ashes: lehu	rehu 
+bark: kiri 
+abdomen: kona	tinai 
+belly: kona	tinai 
+big: tamana 
+bigness: tamana 
+large: tamana 
+bird: manu 
+bite: kati 
+black: luli	uli 
+blood: dodo	toto 
+bone: iwi 
+breast: uu 
+breasts: uu 
+burn: dudu	tungi 
+burn tr.: dudu	tungi 
+cloud: kororangi 
+cold: makariri 
+come: haelemai	hani 
+come from: haelemai	hani 
+be dead: made	mate 
+dead: made	mate 
+die: made	mate 
+dog: pana	tipana 
+drink: inu 
+dry: maNo 
+ear: dalinga	tariNa	taringa 
+eat: gai	kai	miami 
+egg: ngoko 
+eye: golo/mada/	kolomata	mata 
+feather: Nahuru 
+fire: ahi 
+fish: iga	ika 
+fly: maNi	maangi 
+fly v.: maNi	maangi 
+give: waNa 
+good: humalia	malia	maria 
+hair: Nahuru	hulu 
+hand: lima	papalima	rima 
+left hand: lima	papalima	rima 
+right: lima	papalima	rima 
+head: libogo	lipoko 
+hear: longo	roNo	rongo 
+heart: manawa 
+1 sg.: au 
+I: au 
+kill: taliki 
+be knowledgeable: iloo	iroa 
+know: iloo	iroa 
+leaf: lau	rau	rou 
+lie: moe 
+lie down: moe 
+liver: ade	ate 
+long: l/loo/	loa	lolo	loo 
+head louse: gudu	kutu 
+louse: gudu	kutu 
+male: daane	taane	tane 
+man: dangada	taNata	tangata 
+many: roko 
+much: roko 
+multiple: roko 
+several: roko 
+moon: maahina	mahina	marama 
+hill: kontu 
+mountain: kontu 
+mouth: Nutu	haha	ngudu	ngutu 
+name: iNoa	ingoo 
+title: iNoa	ingoo 
+neck: ua 
+new: hoou	hou 
+night: boo	po 
+nighttime: boo	po 
+nose: uhi	uuhiu 
+not: hakare	teai 
+adulterous: dahi	tahi 
+one: dahi	tahi 
+single: dahi	tahi 
+that: tera 
+the: dahi	tahi 
+unprincipled: dahi	tahi 
+human: dangada	taNata	tangata 
+human being: dangada	taNata	tangata 
+person: dangada	taNata	tangata 
+rain: ua 
+rainy weather: ua 
+red: mhe	mhee	mmee 
+path: ala	ara 
+road: ala	ara 
+route: ala	ara 
+root: aga	aka 
+sand: one/one 
+say: herekhai	tapa 
+see: mada	mhata 
+sit: noho 
+hide: gili	kiri 
+skin: gili	kiri 
+sleep: khi 
+little: bodo	tama 
+small: bodo	tama 
+smallness: bodo	tama 
+smoke: au/seahi	huiahi 
+stand: tu 
+star: heduu	hetu	hetuu 
+rock: hadu	hatu 
+stone: hadu	hatu 
+sun: ra 
+swim: kau 
+tail: huku 
+this: tenei 
+2 sg: goe	kotou 
+thou: goe	kotou 
+you: goe	kotou 
+tongue: %torore	horore 
+tooth: niha 
+tree: lakau 
+grind: lua	rua 
+two: lua	rua 
+go: haele	haere	hehe	taahao 
+walk: haele	haere	hehe	taahao 
+hot: mahana 
+warm: mahana 
+water: wai 
+1 pl. inc.: gida/dou	gida/ua	kimatou 
+we: gida/dou	gida/ua	kimatou 
+we₁: gida/dou	gida/ua	kimatou 
+what: aha 
+white: kene 
+whiteness: kene 
+who: ai 
+who?: ai 
+female: ahina	ahine 
+woman: ahina	ahine 
+yellow: laupuke 
+dull: daa/maha/	taa/maha/ 
+heavy: daa/maha/	taa/maha/ 
+serious: daa/maha/	taa/maha/ 
+short: bodo	poto 
+wind: madangi	matangi 
+year: tau 

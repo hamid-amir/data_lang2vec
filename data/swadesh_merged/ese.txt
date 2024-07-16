@@ -1,0 +1,301 @@
+all: oxania	oxaɲa	wasee 
+every: oxania	oxaɲa	wasee 
+ash: kuakui maxo	kʷaki-maxo	kʷaki-powi 
+ashes: kuakui maxo	kʷaki-maxo	kʷaki-powi 
+bark: eʼhe	noxawa 
+abdomen: emape	emaxi 
+belly: emape	emaxi 
+big: -kemo	kia7ai	kiatemo 
+bigness: -kemo	kia7ai	kiatemo 
+large: -kemo	kia7ai	kiatemo 
+bird: ano wiwi	kʷičoxi 
+bite: Soi	šowika- 
+black: -tewe	cewe 
+blood: ena	eʼna 
+bone: esa	eʼsaʔ 
+breast: ese7o	tooxo 
+breasts: ese7o	tooxo 
+cloud: -haʔa	bo	ɓo 
+cold: -ɓoe	eeno	kiawe 
+come: pe	poe- 
+come from: pe	poe- 
+be dead: mano	mano-ʔyo- 
+dead: mano	mano-ʔyo- 
+die: mano	mano-ʔyo- 
+dog: inia wewa	iɲaewa 
+drink: iSi	iši-ka- 
+dry: ehoʼkaʔ	kiahabo 
+ear: e-ša-xa	eSaxa 
+earth: meSi	meši 
+ground: meSi	meši 
+land: meSi	meši 
+soil: meSi	meši 
+eat: ixia	ixia- 
+egg: exa 
+eye: e-ko-xa	etoxa 
+fat: esei 
+fat n.: esei 
+grease: esei 
+lubricant: esei 
+oil: esei 
+feather: e-kʷičo	ekuiCo	enia	eɲa	ɓoʔɓa 
+fire: kuakui	kʷa-ki 
+fish: hai 
+fly: ba7esowati	ɓaʔe-sowa--ki- 
+fly v.: ba7esowati	ɓaʔe-sowa--ki- 
+foot: e-hioxi	ehioxi 
+full: kʷio-ka- 
+give: kia	kia-	čemo 
+good: -kixene	-ɓame	hayaya 
+green: cawa	e-tawa 
+hair: e-iɲa	e-woxaɲa	enia 
+hand: e-me	eme 
+left hand: e-me	eme 
+right: e-me	eme 
+head: e-sapa	e-woxa	esapa 
+hear: Saxa7axa 
+heart: e-kihixi	etihixi 
+horn: ešiana 
+1 sg.: eaya	eya 
+I: eaya	eya 
+kill: kekʷa-	tekua 
+knee: e-kʷio-šaxa	ekui7o 
+be knowledgeable: xaSawabati	ɓa-nahe 
+know: xaSawabati	ɓa-nahe 
+leaf: akui inia	iɲa 
+lie: haa- 
+lie down: haa- 
+liver: e-kakʷa	e-takʷa	etakua 
+long: -ʔao	kia7ao 
+head louse: bia	ɓiʼaʔ 
+louse: bia	ɓiʼaʔ 
+male: e-ɗexa 
+man: -dexa	-pona	eCi 
+many: -moo	-wiso	kiawisone 
+much: -moo	-wiso	kiawisone 
+multiple: -moo	-wiso	kiawisone 
+several: -moo	-wiso	kiawisone 
+flesh: e-eyami	noe 
+meat: e-eyami	noe 
+moon: ba7i	eSe poxa	ɓaʔi 
+hill: eiyo	emato	epawa 
+mountain: eiyo	emato	epawa 
+mouth: e-naɓa	ena 
+name: aʔɓaxa-ni	baxani 
+title: aʔɓaxa-ni	baxani 
+neck: e-piki	epiti 
+new: e-yakʷa	eiakua 
+night: mekaxe	metaxe 
+nighttime: mekaxe	metaxe 
+nose: ewi	eʼwiʔ 
+not: mea	paha 
+adulterous: owe poxi	oɪ 
+one: owe poxi	oɪ 
+single: owe poxi	oɪ 
+that: hoia	homa 
+the: owe poxi	oɪ 
+unprincipled: owe poxi	oɪ 
+human: -dexa	-pona	eCi 
+human being: -dexa	-pona	eCi 
+person: -dexa	-pona	eCi 
+rain: ena 
+rainy weather: ena 
+red: -woʔo	io7o 
+path: ehioxi 
+road: ehioxi 
+route: ehioxi 
+root: akui saxa	e-saxa	ɓisiʔikʷi 
+round: ehekʷixaxa	kopo-kopo 
+sand: meši-hahi 
+say: a-ka-	po-a- 
+see: ba	ɓa-nahe 
+seed: eso	eʼsoʔ 
+sit: ani	ani-oke- 
+hide: e-heei	ehe	eʼhe 
+skin: e-heei	ehe	eʼhe 
+sleep: kawe-ani	kawi-	tawi 
+little: -sisi	-ɓiso	sisi 
+small: -sisi	-ɓiso	sisi 
+smallness: -sisi	-ɓiso	sisi 
+smoke: wiCa Ca	wičača 
+stand: epi neti	neti soa 
+star: CiCe	mahameta 
+rock: emei	mei	saso 
+stone: emei	mei	saso 
+sun: eSeti	ešeki	išeki 
+swim: šokʷi-šokʷi- 
+tail: e-waʔo	ewa7o 
+this: hikio 
+2 sg: mia	miaia	miyaya 
+thou: mia	miaia	miyaya 
+you: mia	miaia	miyaya 
+tongue: e-ana	iana 
+tooth: ese	eʼseʔ 
+tree: akui 
+grind: beka	beta	bia we	ɓeka 
+two: beka	beta	bia we	ɓeka 
+go: aseke	heo-	poʔaekieki 
+walk: aseke	heo-	poʔaekieki 
+water: ena	ena7axo 
+what: ae	hai	iaxa 
+white: -oše	oSe 
+whiteness: -oše	oSe 
+who: a7ia	ae	aʔya 
+who?: a7ia	ae	aʔya 
+female: e-pona	e-wanasia 
+woman: e-pona	e-wanasia 
+yellow: -hawa	kiahawa 
+distant: -ki	-weeša 
+far: -ki	-weeša 
+dull: -ɓikia 
+heavy: -ɓikia 
+serious: -ɓikia 
+close: -čipi	wešaʔama 
+near: -čipi	wešaʔama 
+ner: -čipi	wešaʔama 
+short: -kepe	-čiʔa 
+snake: -ɓakʷa-	peeyo 
+thin: -ɓehe	-ɓiso	šiwi 
+wind: ɓeni 
+earthworm: kono	koxokʷaši 
+worm: kono	koxokʷaši 
+year: ešeki-aha	kʷiao-še 
+2 pl.: mekeanaya	mikiana 
+ye: mekeanaya	mikiana 
+you all: mekeanaya	mikiana 
+3 pl.: okʷana	oyakʷana 
+they: okʷana	oyakʷana 
+where: ačakʷa	ačeho 
+where?: ačakʷa	ačeho 
+when: -ho	ačešono 
+when?: -ho	ačešono 
+how: ačaxa	yaxa 
+how?: ačaxa	yaxa 
+some: e-ɓeka-kʷana 
+few: oepoxi 
+three: e-ɓeʼka-peeximaʔ	pea-beka-pee xima 
+four: e-beka-pea-pea ai	e-ɓeʼka-ɓeepeaai 
+five: me-oe-xi 
+broad: -kemo 
+wide: -kemo 
+wideness: -kemo 
+thick: -ʼmo 
+narrow: -ɓiso 
+child: e-šoʔinee	e-ɓakʷa 
+principal wife: e-wanase	činani 
+wife: e-wanase	činani 
+husband: e-yawe	e-yawi 
+his mother: nae 
+mother: nae 
+my mother: nae 
+father: kaka 
+his father: kaka 
+my father: kaka 
+animal: ixiakaxi 
+forest: eɓio 
+woods: eɓio 
+branch: e-yaa	i-yaa 
+stick: e-yaa	i-yaa 
+fruit: e-xaxa 
+flower: šaaša 
+grass: sipone	tata tiyani 
+cord: xono 
+rope: xono 
+claw: e-me-kiši 
+fingernail: e-me-kiši 
+nail: e-me-kiši 
+leg: e-ahoho	e-kise 
+wing: e-kʷičo 
+gut: e-see	see-sisi 
+guts: e-see	see-sisi 
+insides: e-see	see-sisi 
+intestine: e-see	see-sisi 
+intestines: e-see	see-sisi 
+back: e-hakaxa 
+suck: toxo-	toxo-iši- 
+spit: kʷičo-hea- 
+vomit: ɓowi- 
+blow: sipo-	woha- 
+breath: wosi-wosi-	šexa-šexa- 
+breathe: wosi-wosi-	šexa-šexa- 
+laugh: soa- 
+laughter: soa- 
+cogitate: xašawaɓaki-	šawaɓaɲaki- 
+reflect: xašawaɓaki-	šawaɓaɲaki- 
+think: xašawaɓaki-	šawaɓaɲaki- 
+afraid: -mete	-ʔaxa 
+be afraid: -mete	-ʔaxa 
+fear: -mete	-ʔaxa 
+fright: -mete	-ʔaxa 
+alive: baʔe-	eše- 
+be alive: baʔe-	eše- 
+life: baʔe-	eše- 
+live: baʔe-	eše- 
+living: baʔe-	eše- 
+fight: xakekʷaki-	xakʷiaki- 
+hunt: kekʷa- 
+beat: kʷea-nahe 
+hit: kʷea-nahe 
+strike: kʷea-nahe 
+cut: hewi-	ixiasexameeka- 
+hack: hewi-	ixiasexameeka- 
+cut open: poho-nahe 
+split: poho-nahe 
+pierce: kekʷa	yakʷa- 
+stab: kekʷa	yakʷa- 
+dig: kišišaɓa-	teo- 
+tell lies: siaxe 
+turn: poeoʔoya- 
+turn around: poeoʔoya- 
+turn round: poeoʔoya- 
+drop: haaɓičakiani	oke- 
+fall: haaɓičakiani	oke- 
+squeeze: iɲapowi	iɲaxasayo- 
+wring: iɲapowi	iɲaxasayo- 
+rub: šehaxi-	šexahi- 
+wipe: šehaxi-	šexahi- 
+wash: taxa-	topo-	šakʷa- 
+wash clothes: taxa-	topo-	šakʷa- 
+push: heakʷi	yiyehea- 
+shove: heakʷi	yiyehea- 
+throw: wanaokea- 
+bind: heyo- 
+fasten: heyo- 
+tie: heyo- 
+tie up: heyo- 
+sew: soko- 
+count: siko- 
+enumerate: siko- 
+number: siko- 
+tally: siko- 
+sing: sowikʷaya- 
+have fun: keɓanee poa-	xaɓekaiki- 
+play: keɓanee poa-	xaɓekaiki- 
+brook: ena	ena-oxo	kʷei 
+river: ena	ena-oxo	kʷei 
+stream: ena	ena-oxo	kʷei 
+lake: ɓai 
+dust: meši-hahi 
+fog: wohaɓo 
+sky: eya 
+blaze: dawa	hihi- 
+burn: dawa	hihi- 
+day: epoxa 
+daylight: epoxa 
+daytime: epoxa 
+bad: kea-mase	kea-šoʔitai 
+evil: kea-mase	kea-šoʔitai 
+rot: -tai	-ʔiwi 
+rotten: -tai	-ʔiwi 
+dirty: -hewi	-šexe 
+filthy: -hewi	-šexe 
+soiled: -hewi	-šexe 
+straight: -pi	epinee 
+sharp: -šexi	išio- 
+damp: -nahaxi	-čoe 
+wet: -nahaxi	-čoe 
+right side: ebianee 
+left: šani 
+in: e-ɗoxoho 
+inside: e-ɗoxoho 
+if: -ho 

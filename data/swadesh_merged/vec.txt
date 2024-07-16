@@ -1,0 +1,315 @@
+all: tuto 
+every: tuto 
+bark: scorza 
+abdomen: panza 
+belly: panza 
+big: grando 
+bigness: grando 
+large: grando 
+bird: usel 
+bite: morsigar 
+black: negro 
+blood: sangue 
+bone: oso 
+breast: peto	teta 
+breasts: peto	teta 
+cloud: nuvola 
+cold: fredo 
+come: vegnir 
+come from: vegnir 
+be dead: crepar	morir 
+dead: crepar	morir 
+die: crepar	morir 
+dog: can 
+drink: bever 
+dry: seco 
+ear: recia 
+earth: tera 
+ground: tera 
+land: tera 
+soil: tera 
+eat: magnar 
+egg: ovo 
+eye: ocio 
+feather: pena 
+fire: fogo 
+fish: pese 
+fly: svolar 
+fly v.: svolar 
+foot: pie 
+full: pien 
+give: dar 
+good: bon 
+green: verde 
+hair: cavel 
+head: crapa	testa 
+hear: sentir 
+heart: cor 
+horn: corno 
+1 sg.: mi 
+I: mi 
+kill: copar	mazar 
+knee: genocio 
+be knowledgeable: saver 
+know: saver 
+leaf: foja 
+liver: fedigo 
+long: longo 
+head louse: pedocio 
+louse: pedocio 
+male: omo 
+man: omo 
+many: sai 
+much: sai 
+multiple: sai 
+several: sai 
+moon: luna 
+hill: monte 
+mountain: monte 
+mouth: boca 
+name: nome 
+title: nome 
+neck: colo 
+new: novo 
+night: note 
+nighttime: note 
+nose: naso 
+not: no 
+adulterous: on	un 
+one: on	un 
+single: on	un 
+that: sto la 
+the: on	un 
+unprincipled: on	un 
+human: omo 
+human being: omo 
+person: omo 
+rain: piova 
+rainy weather: piova 
+path: strada	via 
+road: strada	via 
+route: strada	via 
+root: radise 
+round: tondo 
+sand: rena 
+say: diser 
+see: veder 
+seed: seme 
+sit: sentar 
+hide: pele 
+skin: pele 
+sleep: dormir 
+little: picio 
+small: picio 
+smallness: picio 
+smoke: fumo 
+star: stela 
+rock: piera 
+stone: piera 
+sun: sol 
+swim: nuotar 
+tail: coda 
+this: sto qua 
+2 sg: ti 
+thou: ti 
+you: ti 
+tongue: lingua 
+tooth: dente 
+tree: pianta 
+grind: do 
+two: do 
+go: caminar 
+walk: caminar 
+hot: caldo 
+warm: caldo 
+water: acua 
+1 pl. inc.: nui 
+we: nui 
+we₁: nui 
+what: cossa	coss’ 
+white: bianco 
+whiteness: bianco 
+who: chi 
+who?: chi 
+female: baba	dona 
+woman: baba	dona 
+yellow: gialo 
+distant: lontan 
+far: lontan 
+dull: pesanto 
+heavy: pesanto 
+serious: pesanto 
+close: vizin 
+near: vizin 
+ner: vizin 
+salt: sal 
+short: corto 
+snake: bisa 
+thin: magro 
+wind: vento 
+earthworm: verme 
+worm: verme 
+year: ano 
+3 sg.: el	lu 
+he: el	lu 
+she: el	lu 
+2 pl.: vui 
+ye: vui 
+you all: vui 
+3 pl.: i	lori 
+they: i	lori 
+here: qua 
+there: là 
+where: ndove 
+where?: ndove 
+when: cuando 
+when?: cuando 
+how: come 
+how?: come 
+some: cualche 
+few: poco 
+other: altro 
+three: tre	tri 
+four: cuatro 
+five: sinque	zinque 
+broad: largo 
+wide: largo 
+wideness: largo 
+fat: graso 
+thick: groso 
+narrow: strento 
+child: mulo	putel 
+principal wife: mujer 
+wife: mujer 
+husband: omo 
+his mother: mare 
+mother: mare 
+my mother: mare 
+father: pare 
+his father: pare 
+my father: pare 
+animal: bestia 
+forest: bosco 
+woods: bosco 
+branch: baston 
+stick: baston 
+fruit: fruto 
+flower: fior 
+grass: erba 
+cord: corda 
+rope: corda 
+flesh: carne 
+meat: carne 
+grease: graso 
+claw: ongia 
+fingernail: ongia 
+nail: ongia 
+leg: gamba 
+arm: man 
+hand: man 
+wing: ala 
+gut: budela 
+guts: budela 
+insides: budela 
+intestine: budela 
+intestines: budela 
+back: schena 
+suck: ciuciar 
+spit: spudar 
+vomit: vometar 
+blow: sofiar 
+breath: respirar 
+breathe: respirar 
+laugh: rider 
+laughter: rider 
+cogitate: creder 
+reflect: creder 
+think: creder 
+smell: spuzar 
+sniff: spuzar 
+afraid: gaver paura 
+be afraid: gaver paura 
+fear: gaver paura 
+fright: gaver paura 
+alive: viver 
+be alive: viver 
+life: viver 
+live: viver 
+living: viver 
+beat: bater 
+hit: bater 
+strike: bater 
+cut: tajar 
+hack: tajar 
+cut open: divider 
+split: divider 
+pierce: sbusar 
+stab: sbusar 
+dig: scavar 
+stand: star 
+turn: girar 
+turn around: girar 
+turn round: girar 
+drop: cascar 
+fall: cascar 
+grasp: tener 
+hold: tener 
+hold in arm: tener 
+squeeze: strucar 
+wring: strucar 
+rub: fregar 
+wipe: netar	sugar 
+wash: lavar 
+wash clothes: lavar 
+pull: tirar 
+push: spinger 
+shove: spinger 
+throw: butar	tirar 
+bind: ligar 
+fasten: ligar 
+tie: ligar 
+tie up: ligar 
+sew: seminar 
+count: contar 
+enumerate: contar 
+number: contar 
+tally: contar 
+sing: cantar 
+have fun: zogar 
+play: zogar 
+flow: scolar 
+freeze: jazar 
+swell: sgionfar 
+brook: fiume 
+river: fiume 
+stream: fiume 
+lake: lago 
+ocean: mar 
+sea: mar 
+dust: polvere 
+fog: caligine 
+sky: cel 
+snow: neve 
+ice: jazo 
+blaze: brusar 
+burn: brusar 
+day: giorno 
+daylight: giorno 
+daytime: giorno 
+old: vecio 
+bad: cativo 
+evil: cativo 
+straight: drito 
+sharp: spizo 
+smooth: lisier 
+damp: bagnà 
+wet: bagnà 
+correct: giusto 
+right: destro 
+right side: destro 
+left: sinistro 
+in: in 
+inside: in 
+with: con 
+if: se 
+because: parché 

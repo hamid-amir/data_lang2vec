@@ -1,0 +1,261 @@
+all: engalek | eNalek 
+and: wamu 
+animal: yaŋ 
+arm: mʌri 
+ashes: kama 
+back: gemat- 
+bark: sʌbʌl 
+belly: kerap- | kerap	kerap- 
+big: baia 
+bird: ni 
+bite: ki- | ki	ki- 
+black: dzapala | capala	dzapala 
+blood: sap- | sap	sap- 
+blow: hi- 
+bone: aihit- | aihit-	sihit	siɣit 
+bone: sihit- | aihit-	sihit	siɣit 
+bone: siɣit | aihit-	sihit	siɣit 
+breast: namo- | namo	namo-	namu 
+breast: namu | namo	namo-	namu 
+breathe: wesi- 
+brother: dat 
+brother: dat- 
+burn: dze- 
+claw: kawân- | kawon	kawɑn- 
+claw: kawɑn- | kawon	kawɑn- 
+cloud: kosu 
+cold: sanggeng | saNgeN	saŋgeŋ 
+cold: saŋgeŋ | saNgeN	saŋgeŋ 
+come: ka- | ka	ka- 
+count: oyon- 
+cut: kâri- 
+cut: kɑri- 
+die: kâmu- | komu	kɑmu- 
+die: kɑmu- | komu	kɑmu- 
+dig: asɑ- 
+dig: asâ- 
+dog: kiam 
+dry: dzipkɑ- | cipko	dzipkɑ- 
+dry: dzipkâ- | cipko	dzipkɑ- 
+dust: iwai 
+ear: kesap- | kesap	kesap-	ketsap 
+ear: ketsap | kesap	kesap-	ketsap 
+earth: bait 
+eat: ne- | ne	ne- 
+eye: kip | kip	kpat-	kp~at 
+eye: kpat- | kip	kpat-	kp~at 
+fall: ma- 
+father: mam- 
+fat (n.): kalak- 
+fingernail: silep 
+fire: girip 
+flower: dzuri- 
+foot: hɨni | hɨni	kani	kani- 
+foot: kani- | hɨni	kani	kani- 
+fruit: hal- 
+full: kâia kpe- | koia kp~e	kɑia kpe- 
+full: kɑia kpe- | koia kp~e	kɑia kpe- 
+give: nem- | nem	nem- 
+good: eha 
+green: asonga | asoNa	asoŋa 
+green: asoŋa | asoNa	asoŋa 
+hair: dzu- | cu	dzu- 
+hand: mârâ- | moro	mɑrɑ- 
+hand: mɑrɑ- | moro	mɑrɑ- 
+head: norok- | norok	norok-	noruk 
+head: noruk | norok	norok-	noruk 
+heart: wel bât- | wel bot	wel bɑt- 
+heart: wel bɑt- | wel bot	wel bɑt- 
+he/she: i 
+hit: kpe- 
+hold: kasa- 
+how: dasong 
+how: dasoŋ 
+I: ni 
+knee: simin- | simin	simin- 
+know: nin- | nin	nin- 
+lake: dzokâm 
+lake: dzokɑm 
+laugh: gisihi- 
+leaf: karem- | karem	karem- 
+left: kpana 
+leg: hɨni 
+long: kârua | korua	kʌrua 
+long: kʌrua | korua	kʌrua 
+louse: imin 
+man: ip 
+many: sesia 
+meat: busi- 
+moon: kain | kain	kombol 
+moon: kombol | kain	kombol 
+mother: nanggi- 
+mother: naŋgi- 
+mountain: bohonga | bohoNa	bohoŋa 
+mountain: bohoŋa | bohoNa	bohoŋa 
+mouth: koa 
+name: kiwa | kiwa	kpat 
+name: kpat | kiwa	kpat 
+neck: dzel- | cel	dzel-	dzʌl 
+neck: dzʌl | cel	dzel-	dzʌl 
+new: gbilik | gbilik	gbilik-gbilik	gb~ilik 
+new: gbilik-gbilik | gbilik	gbilik-gbilik	gb~ilik 
+night: singiaha | siNiaha	siŋiaha 
+night: siŋiaha | siNiaha	siŋiaha 
+nose: sâhâri- | sohori	sɑhɑri-	sʌɣʌra 
+not: mândâ | mondo	mɑndɑ 
+not: mɑndɑ | mondo	mɑndɑ 
+old: walaha 
+one: mohok | mogok	mohok 
+play: ariat 
+play: ariat- 
+pull: mâsâl- 
+pull: mɑsɑl- 
+push: kpeati- 
+rain: kia 
+red: pâsâha | posoha	pɑsɑha 
+red: pɑsɑha | posoha	pɑsɑha 
+right: hâla | moro	mɑrɑ- 
+right: hɑla | moro	mɑrɑ- 
+road: kâna | kona 
+road: kɑna | kona 
+road: kʌna | kona 
+root: ânde- | onde	ɑnde- 
+root: ɑnde- | onde	ɑnde- 
+rope: sâhap 
+rope: sɑhap 
+round: korong korong | koroN koroN	koroŋ koroŋ 
+round: koroŋ koroŋ | koroN koroN	koroŋ koroŋ 
+sand: sak 
+say: dze | ci	dze	dzi- 
+say: dzi- | ci	dze	dzi- 
+seed: gopi- | gopi	gopi- 
+see: nen- | nen	nen- 
+sew: kpali- 
+short: katong | katoŋ 
+short: katoŋ 
+sister: naɔŋ 
+sister: naung- 
+sister: nauŋ- 
+sit: ta- | ta	ta- 
+skin: sâwâl- | sowol	sɑwɑl-	sʌbʌl 
+skin: sʌbʌl | sowol	sɑwɑl-	sʌbʌl 
+skin: sɑwɑl- | sowol	sɑwɑl-	sʌbʌl 
+sky: kuremen 
+sleep: gâohe- | goohe	gɑohe-	he 
+sleep: gɑohe- | goohe	gɑohe-	he 
+sleep: he | goohe	gɑohe-	he 
+small: komora 
+smoke: kasak | kasak	kʌβak 
+smoke: kʌßak | kasak	kʌβak 
+snake: kemala 
+some: tosat- 
+spit: sotkân- 
+spit: sʌßat 
+stand: nan- 
+star: sekelau | sekelau	sekelo 
+star: sekelo | sekelau	sekelo 
+stick: bim 
+stone: banga | baNa	baŋa 
+stone: baŋa | baNa	baŋa 
+straight: dindiŋa 
+suck: bitsi- 
+sun: kaiße | kaiwe	kaiβe 
+sun: kaiwe | kaiwe	kaiβe 
+swell: bunggu- 
+swell: buŋgu- 
+tail: dzi- | ci	dzi- 
+that: mi 
+there: ere 
+they: ini 
+this: mu 
+thou: gi 
+thou: i | gi 
+thou: ini | gi 
+throw: wai- 
+tie: dziki 
+tongue: edzelâm- | ecelom	edzelɑm-	etselam 
+tongue: edzelɑm- | ecelom	edzelɑm-	etselam 
+tongue: etselam | ecelom	edzelɑm-	etselam 
+tooth: dzât- | cot	dzɑt-	dzɪt 
+tooth: dzɪt | cot	dzɑt-	dzɪt 
+tooth: dzɑt- | cot	dzɑt-	dzɪt 
+tree: ip 
+turn: meleng- 
+turn: meleŋ- 
+two: râhât | reget	rohot	rɑhɑt 
+two: rɑhɑt | reget	rohot	rɑhɑt 
+vomit: lon- 
+warm: girua | komotia 
+warm: komotia 
+wash: dzua- 
+water: duku 
+weep: sia- 
+we: ni | nini 
+we: nini 
+what: nâmat | nomat	nɑmat 
+what: nɑmat | nomat	nɑmat 
+where: dumua 
+white: lalap 
+who: mâng | moN	mɑŋ 
+who: mɑŋ | moN	mɑŋ 
+wind: luhut | luhut	luɣut 
+wind: luɣut | luhut	luɣut 
+wing: kpegam- 
+woman: embat 
+wood: bim 
+worm: gusu 
+yellow: gbaot gbaot | gbaot gbaot	gb~aot gb~aot 
+you: ini | gi 
+every: eNalek 
+ash: kama 
+abdomen: kerap	kerap- 
+bigness: baia 
+large: baia 
+breasts: namo	namo-	namu 
+nail: kawon	kawɑn- 
+talon: kawon	kawɑn- 
+come from: ka	ka- 
+be dead: komu	kɑmu- 
+dead: komu	kɑmu- 
+ground: bait 
+land: bait 
+soil: bait 
+fat: kalak 
+fat n.: kalak 
+grease: kalak 
+lubricant: kalak 
+oil: kalak 
+left hand: moro	mɑrɑ- 
+1 sg.: ni 
+be knowledgeable: nin	nin- 
+head louse: imin 
+male: ip 
+much: sesia 
+multiple: sesia 
+several: sesia 
+flesh: busi 
+meat: busi 
+hill: bohoNa	bohoŋa 
+title: kiwa	kpat 
+nighttime: siNiaha	siŋiaha 
+adulterous: mogok	mohok 
+single: mogok	mohok 
+the: mogok	mohok 
+unprincipled: mogok	mohok 
+rainy weather: kia 
+path: kona 
+route: kona 
+hide: sowol	sɑwɑl-	sʌbʌl 
+little: komora 
+smallness: komora 
+stand: nan 
+rock: baNa	baŋa 
+2 sg: gi 
+grind: reget	rohot	rɑhɑt 
+hot: komotia 
+1 pl. inc.: nini 
+we₁: nini 
+whiteness: lalap 
+who?: moN	mɑŋ 
+female: embat 
+earthworm: gusu 

@@ -1,0 +1,315 @@
+all: -ke	-ʔoge 
+every: -ke	-ʔoge 
+ash: lo 
+ashes: lo 
+bark: le-so 
+big: lo 
+bigness: lo 
+large: lo 
+bird: ayo	ḳoʔo 
+bite: y-aʔk-aa-ɲi 
+black: l-awer-aʁaik	n-aweʔ 
+blood: ewo7	l-ewoʔ 
+bone: l-piʔnek	pinek 
+breast: l-oʔweete	o7w~ete 
+breasts: l-oʔweete	o7w~ete 
+claw: le-nat 
+nail: le-nat 
+talon: le-nat 
+cloud: n-awege-lek 
+cold: ʔoom 
+come: anak	n-anak 
+come from: anak	n-anak 
+be dead: lew-aʁaik	lewaXaik 
+dead: lew-aʁaik	lewaXaik 
+die: lew-aʁaik	lewaXaik 
+dog: pioq	pioḳ 
+drink: et	ne-ʔet 
+dry: r-ašiwi-ta	ʔim 
+ear: kela	l-keʔla 
+earth: ʔlawa 
+ground: ʔlawa 
+land: ʔlawa 
+soil: ʔlawa 
+eat: keʔe	y-aʔik 
+egg: l-koʔweʔ 
+eye: n-ḳote	qote 
+feather: l-awe 
+fire: norek 
+fish: naLin	naly~in	nalʸin 
+fly: yo 
+fly v.: yo 
+foot: l-apiaʔ 
+full: n-oʔḳaat-a	oqata 
+give: y-aan 
+good: n-oʔwen	ʔmaʁa-raik 
+green: l-adala	r-adala 
+hair: l-awe 
+hand: l-ḳaiʔlaʁat	qailaXat 
+left hand: l-ḳaiʔlaʁat	qailaXat 
+right: l-ḳaiʔlaʁat	qailaXat 
+head: l-ḳahik 
+hear: qa	ʔḳaa 
+heart: le-ʔtaʁanata 
+horn: asote	l-asote 
+1 sg.: ayim	yim 
+I: ayim	yim 
+kill: y-alawat 
+knee: kota	le-ʔkoota 
+be knowledgeable: y-aʔden 
+know: y-aʔden 
+leaf: la-we	we 
+lie: ne-nan-ɲi 
+lie down: ne-nan-ɲi 
+liver: l-olamek	olamek 
+long: ladok 
+head louse: apaXat	l-apa-ʁat 
+louse: apaXat	l-apa-ʁat 
+male: yale 
+man: qom lase	qom le7ek	ḳom le-ʔek 
+many: ʔʁoik 
+much: ʔʁoik 
+multiple: ʔʁoik 
+several: ʔʁoik 
+flesh: l-aʔat 
+meat: l-aʔat 
+moon: širaigo 
+hill: soXonaXa	soʁonaʁa 
+mountain: soXonaXa	soʁonaʁa 
+mouth: l-ap 
+name: enaXat	l-eenaʁat 
+title: enaXat	l-eenaʁat 
+neck: l-ḳosot 
+new: dala	dala-ʁaik 
+night: pe 
+nighttime: pe 
+nose: li-mik	mik 
+adulterous: iñiateda 
+one: iñiateda 
+single: iñiateda 
+that: iñiateda 
+the: iñiateda 
+unprincipled: iñiateda 
+human: qom lase	qom le7ek	ḳom le-ʔek 
+human being: qom lase	qom le7ek	ḳom le-ʔek 
+person: qom lase	qom le7ek	ḳom le-ʔek 
+rain: yaʁat 
+rainy weather: yaʁat 
+red: le-tog-aʁaik	tok 
+path: ajik	ik 
+road: ajik	ik 
+route: ajik	ik 
+root: l-paʔaʔ 
+sand: l-oʔwaʁan-aʁa 
+say: y-aʔʁat 
+see: awanCigi5i	n-awan-či-giɲi 
+seed: l-a 
+sit: n-ḳaʔʁan-ɲi 
+hide: l-ošikmaʁa	oSikmaXa 
+skin: l-ošikmaʁa	oSikmaXa 
+sleep: ∅-laḳ 
+little: sḳa lo 
+small: sḳa lo 
+smallness: sḳa lo 
+smoke: ne-salaʁaʔ 
+star: waqa5i	waḳahɲi 
+rock: qa7	ḳaʔ 
+stone: qa7	ḳaʔ 
+sun: ra7asa	raʔaasa 
+swim: y-oʔʁon-ta 
+tail: l-ḳaiʔit 
+2 sg: qami7	ḳamiʔ 
+thou: qami7	ḳamiʔ 
+you: qami7	ḳamiʔ 
+tongue: l-oʔleg-aʁan-aʁat	olegaXanaXat 
+tooth: l-owe	owe 
+tree: qopaq 
+grind: -olḳaiʔ	iñabako 
+two: -olḳaiʔ	iñabako 
+go: ḳawa 
+walk: ḳawa 
+hot: paʔii-gi 
+warm: paʔii-gi 
+water: waXayak	waʁayaḳ 
+1 pl. inc.: qomi7 
+we: qomi7 
+we₁: qomi7 
+what: negeʔ 
+white: y-alagaḳ 
+whiteness: y-alagaḳ 
+who: negeʔ 
+who?: negeʔ 
+female: ʔaalo 
+woman: ʔaalo 
+yellow: ḳoɲi 
+distant: ḳoyoḳo-ʔta 
+far: ḳoyoḳo-ʔta 
+dull: re-salʸi 
+heavy: re-salʸi 
+serious: re-salʸi 
+close: s-ḳoyoḳ-ake 
+near: s-ḳoyoḳ-ake 
+ner: s-ḳoyoḳ-ake 
+salt: ʔwe 
+short: se ladok 
+snake: nan-aik 
+wind: nonot 
+earthworm: ǰi pit 
+worm: ǰi pit 
+year: ɲaaʁa 
+2 pl.: ḳamii	ḳamiri 
+ye: ḳamii	ḳamiri 
+you all: ḳamii	ḳamiri 
+3 pl.: -ʔmaʁare 
+they: -ʔmaʁare 
+where: w-a-ʔge 
+where?: w-a-ʔge 
+when: lagi 
+when?: lagi 
+how: negeʔ 
+how?: negeʔ 
+some: sḳa lo	sḳo witeʔ 
+few: sḳo witeʔ 
+three: -olḳaiʔ 
+four: -olḳaiʔ 
+five: -olḳaiʔ 
+broad: le-ka-giɲi	le-ka-ʔge 
+wide: le-ka-giɲi	le-ka-ʔge 
+wideness: le-ka-giɲi	le-ka-ʔge 
+fat: l-oʔyo	le-ʔwegaʁa 
+thick: ḳoyoḳo-či-giɲi 
+narrow: sḳa logi 
+child: nokt-okiʔ 
+principal wife: l-owa 
+wife: l-owa 
+husband: l-owa 
+his mother: l-ateʔe 
+mother: l-ateʔe 
+my mother: l-ateʔe 
+father: le-taʔa 
+his father: le-taʔa 
+my father: le-taʔa 
+animal: isekyak 
+forest: ʔooči 
+woods: ʔooči 
+branch: l-asote 
+stick: l-asote 
+fruit: l-a 
+flower: le-noy-aʁai 
+grass: ʔwaḳa-pi 
+cord: l-aɲik 
+rope: l-aɲik 
+grease: l-oʔyo	le-ʔwegaʁa 
+fingernail: le-nat 
+leg: li-či 
+wing: l-awa 
+gut: la-wele-seʔ 
+guts: la-wele-seʔ 
+insides: la-wele-seʔ 
+intestine: la-wele-seʔ 
+intestines: la-wele-seʔ 
+back: l-apalatetari	le-laḳ 
+suck: n-ḳoʔgoʁo-git 
+spit: n-atoḳ 
+vomit: ne-sal 
+blow: peʔet 
+breath: l-akat 
+breathe: l-akat 
+laugh: r-ayalegere 
+laughter: r-ayalegere 
+cogitate: r-aʔdeen-ataʁan 
+reflect: r-aʔdeen-ataʁan 
+think: r-aʔdeen-ataʁan 
+smell: i-ta 
+sniff: i-ta 
+afraid: n-oʔči 
+be afraid: n-oʔči 
+fear: n-oʔči 
+fright: n-oʔči 
+alive: n-kaʔl-ewek 
+be alive: n-kaʔl-ewek 
+life: n-kaʔl-ewek 
+live: n-kaʔl-ewek 
+living: n-kaʔl-ewek 
+fight: n-owaʁan 
+hunt: l-aʔaḳ	re-par-aʁan 
+beat: y-owaʁan 
+hit: y-owaʁan 
+strike: y-owaʁan 
+cut: i-čaʁa-wek 
+hack: i-čaʁa-wek 
+cut open: r-opoḳo-gi 
+split: r-opoḳo-gi 
+pierce: y-aʔd-aak 
+stab: y-aʔd-aak 
+dig: n-iʔya 
+tell lies: n-aʔmahan 
+stand: n-ačah-ɲi 
+turn: pil-eʔt-ot 
+turn around: pil-eʔt-ot 
+turn round: pil-eʔt-ot 
+drop: w-aa-ɲi 
+fall: w-aa-ɲi 
+grasp: l-oʔḳoo-ta-ʔa 
+hold: l-oʔḳoo-ta-ʔa 
+hold in arm: l-oʔḳoo-ta-ʔa 
+squeeze: ne-lam 
+wring: ne-lam 
+rub: i-šila 
+wipe: i-šila 
+wash: kiyo 
+wash clothes: kiyo 
+push: n-pataḳ	pataḳ 
+shove: n-pataḳ	pataḳ 
+throw: i-naḳ 
+bind: koɲiʔ 
+fasten: koɲiʔ 
+tie: koɲiʔ 
+tie up: koɲiʔ 
+sew: ne-wah-taʔ 
+count: n-alo-ḳočin 
+enumerate: n-alo-ḳočin 
+number: n-alo-ḳočin 
+tally: n-alo-ḳočin 
+sing: y-oʔwen 
+have fun: re-walaʁawe	ri-šiki 
+play: re-walaʁawe	ri-šiki 
+float: n-ayoʁon-ta-šigim 
+flow: i-ʔpaʁan-ek 
+brook: lačiwge 
+river: lačiwge 
+stream: lačiwge 
+lake: latogot lateʔogeʔ 
+ocean: waaʁai 
+sea: waaʁai 
+dust: n-amoʁo-yaʁa 
+fog: neweʔ 
+sky: pigim 
+snow: loɲi 
+ice: loɲi 
+blaze: y-awik 
+burn: y-awik 
+day: naʔʁaʔa 
+daylight: naʔʁaʔa 
+daytime: naʔʁaʔa 
+bad: sḳa ʔmaʁa-raik 
+evil: sḳa ʔmaʁa-raik 
+rot: ni-čigaʔ 
+rotten: ni-čigaʔ 
+dirty: n-apioʔo 
+filthy: n-apioʔo 
+soiled: n-apioʔo 
+straight: y-alamaḳ 
+sharp: y-aʁar-aik 
+blunt: sḳai y-aʁar-aik 
+smooth: n-alo-ʔoh-taʔ 
+damp: y-akit 
+wet: y-akit 
+correct: y-aʔmaḳa-či-giɲi 
+right side: l-oik 
+left: ne-maḳ 
+in: wee-ta-wgi 
+inside: wee-ta-wgi 
+and: čaḳai 
+if: kiǰim 
+because: maʔ 

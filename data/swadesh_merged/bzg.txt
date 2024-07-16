@@ -1,0 +1,152 @@
+all: rummo	tapos 
+every: rummo	tapos 
+ash: abo 
+ashes: abo 
+abdomen: Can	cháan 
+belly: Can	cháan 
+big: mato 
+bigness: mato 
+large: mato 
+bird: mampa 
+bite: magkagh	magkagh~ 
+black: makosum	marruan 
+blood: taga 
+bone: oot	ot 
+breast: zido 
+breasts: zido 
+burn: chummar 
+burn tr.: chummar 
+cloud: rabbo 
+cold: maaru	maru	masumak 
+come: mai 
+come from: mai 
+be dead: maCa	macha 
+dead: maCa	macha 
+die: maCa	macha 
+dog: mado	zito 
+drink: miCam	micham 
+dry: maCa	macha 
+ear: Carrina	charrina 
+earth: ta	taos ata 
+ground: ta	taos ata 
+land: ta	taos ata 
+soil: ta	taos ata 
+eat: man	miCam	micham 
+egg: rini 
+eye: maCa	macha	magCa	magcha 
+fat: hema 
+fat n.: hema 
+grease: hema 
+lubricant: hema 
+oil: hema 
+feather: Car	chaar 
+fire: Cau	chau	onad 
+fish: ci	tsi 
+fly: mabart 
+fly v.: mabart 
+foot: asiel 
+good: mario	mataso	micho 
+green: mataCa	matacha	mkaC	mkach 
+hair: ratta	tau 
+hand: addas	rima 
+left hand: addas	rima 
+right: addas	rima 
+head: oeno 
+hear: masini 
+1 sg.: ina 
+I: ina 
+kill: paCa	pacha 
+be knowledgeable: maba 
+know: maba 
+leaf: Callam	bia	biá	challam 
+lie: summara 
+lie down: summara 
+liver: amorra 
+long: ma-asoso	macilo	masoso	matsilo 
+head louse: aCo	acho	oCo	ocho 
+louse: aCo	acho	oCo	ocho 
+male: Sam	sham 
+man: Co	babosa	cho 
+flesh: boa 
+meat: boa 
+moon: idas 
+mouth: ranied	sabbaCa	sabbacha 
+name: naan	nan 
+title: naan	nan 
+neck: arribórribon	bokkir	ri 
+new: bao 
+night: bi-ini	bini	maodum 
+nighttime: bi-ini	bini	maodum 
+nose: not 
+adulterous: natta 
+one: natta 
+single: natta 
+that: natta 
+the: natta 
+unprincipled: natta 
+human: Co	babosa	cho 
+human being: Co	babosa	cho 
+person: Co	babosa	cho 
+rain: oetas 
+rainy weather: oetas 
+red: makakan	makakas 
+path: tarran 
+road: tarran 
+route: tarran 
+root: bossor 
+sand: bonnad 
+say: magCo	magcho	pala 
+see: mita 
+sit: mero-os	meros 
+hide: maram 
+skin: maram 
+sleep: matorro 
+little: gummo	maromorromo	qua 
+small: gummo	maromorromo	qua 
+smallness: gummo	maromorromo	qua 
+smoke: Catto	chatto 
+stand: maseas	mbarri 
+star: aisenas	aisennas	baboan 
+rock: bato 
+stone: bato 
+swim: summaso 
+tail: kier 
+this: ai	inzini 
+2 sg: ijo	ima 
+thou: ijo	ima 
+you: ijo	ima 
+tongue: tacira	tatsira 
+tooth: raos	sjien 
+grind: roa 
+two: roa 
+go: moas 
+walk: moas 
+hot: tadach 
+warm: tadach 
+water: to 
+1 pl. inc.: namo	torro	totto 
+we: namo	torro	totto 
+we₁: namo	torro	totto 
+what: numma 
+white: mabukkas	mausi	osi 
+whiteness: mabukkas	mausi	osi 
+who: indema	tomma 
+who?: indema	tomma 
+female: mamali 
+woman: mamali 
+yellow: mkaC	mkach 
+distant: maro	ro 
+far: maro	ro 
+dull: mataoch 
+heavy: mataoch 
+serious: mataoch 
+close: machaddak	midardar 
+near: machaddak	midardar 
+ner: machaddak	midardar 
+salt: sassi 
+short: mapappa 
+snake: ibien 
+thin: makied 
+wind: barri 
+earthworm: kilal 
+worm: kilal 

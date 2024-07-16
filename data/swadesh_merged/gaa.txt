@@ -1,0 +1,313 @@
+all: fẽ 
+every: fẽ 
+ash: lamlu 
+ashes: lamlu 
+bark: he toto	čo he toto 
+abdomen: mũsũ 
+belly: mũsũ 
+big: agbo	da	ewulu	kpeteŋkple	kple 
+bigness: agbo	da	ewulu	kpeteŋkple	kple 
+large: agbo	da	ewulu	kpeteŋkple	kple 
+bird: loflõ	lofoǯi 
+bite: kpé	kõ	pĩ	wa he 
+black: diŋ	diǯi	ediŋ	tũtũːntũ	tũː 
+blood: lE	lá 
+bone: loːwú	wu	wú 
+breast: fufɔ	miːnaː	čiči	čui 
+breasts: fufɔ	miːnaː	čiči	čui 
+claw: kolo lo loflõ waonaː 
+nail: kolo lo loflõ waonaː 
+talon: kolo lo loflõ waonaː 
+cloud: atatu	oblɔtu 
+cold: fẽi	wuruduː	ŋãniː 
+come: bE	ba 
+come from: bE	ba 
+be dead: bu naː	gbo	ǯe mli 
+dead: bu naː	gbo	ǯe mli 
+die: bu naː	gbo	ǯe mli 
+dog: gbe	gbéː	šiflõ 
+drink: nu	nu* 
+dry: gbĩ	noni egbĩ 
+ear: toi 
+earth: šikpoŋ 
+ground: šikpoŋ 
+land: šikpoŋ 
+soil: šikpoŋ 
+eat: kpe	ye	ye niʼi 
+egg: wuɔwɔlɔ	wuɔwɔǯi	wɔlɔ 
+eye: hiNmEi	hiŋmɛi	hĩŋmɛi 
+feather: čɛrɛ 
+fire: lE	la 
+fish: lo	loː	nuŋloː	wuo 
+fly: fliki 
+fly v.: fliki 
+foot: nane	naǯi 
+full: obõ	tɔtɔːtɔ	yi obõ	yi tɔ 
+give: hã	ke	kɛ … hã	ŋõ … ha 
+good: ekpakpa	eǯurõ	hi	kpakpa	noni hĩ 
+green: eŋmoŋ	eŋɔli 
+hair: hečɔi	yičɔi 
+hand: dEN	de	dẽ	nine	niǯi 
+left hand: dEN	de	dẽ	nine	niǯi 
+right: dEN	de	dẽ	nine	niǯi 
+head: yi	yičo	yičoŋ	yičoŋoŋo 
+hear: nu	nu* 
+heart: čui 
+horn: aklonto	kòŋ 
+1 sg.: mi	mi* 
+I: mi	mi* 
+kill: gbe 
+knee: nE*kuco	nakučo 
+be knowledgeable: le	yo	yɔse 
+know: le	yo	yɔse 
+leaf: ba	baː	čo yi baː 
+lie: ši 
+lie down: ši 
+liver: mlɛbo 
+long: kɛ	noni kɛ 
+male: gbomo	hiʼi	nuː	ádesã 
+man: gbomo	mo 
+many: babao	babaoː	piː 
+much: babao	babaoː	piː 
+multiple: babao	babaoː	piː 
+several: babao	babaoː	piː 
+flesh: loː 
+meat: loː 
+moon: nyoŋ	nyoŋčere 
+hill: goŋ 
+mountain: goŋ 
+mouth: daː	daːŋ	naː	naːbu 
+name: gbEi	gbɛi 
+title: gbEi	gbɛi 
+neck: kuɛ 
+new: eheː	heː 
+night: duŋ	nyon	nyoːŋ 
+nighttime: duŋ	nyon	nyoːŋ 
+nose: gugo*	gugõ 
+not: ǯeʼe 
+adulterous: ekome	kòmé	ékò	ékòmé	ékó 
+one: ekome	kòmé	ékò	ékòmé	ékó 
+single: ekome	kòmé	ékò	ékòmé	ékó 
+that: no 
+the: ekome	kòmé	ékò	ékòmé	ékó 
+unprincipled: ekome	kòmé	ékò	ékòmé	ékó 
+human: gbomo	mo 
+human being: gbomo	mo 
+person: gbomo	mo 
+rain: nyoŋmɔ nɛmɔ	nyoŋmɔnɛmɔ 
+rainy weather: nyoŋmɔ nɛmɔ	nyoŋmɔnɛmɔ 
+red: ečuru	čuru 
+path: gbE 
+road: gbE 
+route: gbE 
+root: fã	šišifã 
+round: kokloː 
+sand: šia 
+say: kɛː 
+see: kwɛ	nE*	na 
+seed: čoyibiʼi mli wu 
+sit: tá	tá ši 
+hide: he wolo	helo 
+skin: he wolo	helo 
+sleep: wɔ 
+little: bibio	fioː	kpokpaoː 
+small: bibio	fioː	kpokpaoː 
+smallness: bibio	fioː	kpokpaoː 
+smoke: lasũ 
+star: ŋulami 
+rock: tE	tɛ 
+stone: tE	tɛ 
+sun: hu*lu*	hulu	hũlũ 
+swim: sere 
+tail: lei	leiši 
+this: -nɛ	monɛ 
+2 sg: bo	o	o- 
+thou: bo	o	o- 
+you: bo	o	o- 
+tongue: lilEi	lilɛi 
+tooth: kolo čóŋ	nyEny~oN	nyanyoŋ	nyanyoǯi	nyãnyõŋ 
+tree: co 
+grind: enyo*	enyɔ	ényõ̀	ényɔ̀ 
+two: enyo*	enyɔ	ényõ̀	ényɔ̀ 
+go: nyie	šera ši 
+walk: nyie	šera ši 
+hot: heleŋŋ	klakla 
+warm: heleŋŋ	klakla 
+water: nu	nu* 
+1 pl. inc.: wo 
+we: wo 
+we₁: wo 
+what: meni	mẽ 
+white: eyɛ́ŋ	noni yɛ́ɔ	ní	yɛ́ŋ 
+whiteness: eyɛ́ŋ	noni yɛ́ɔ	ní	yɛ́ŋ 
+who: namei	namo 
+who?: namei	namo 
+female: yei	yoː 
+woman: yei	yoː 
+yellow: abonua-čuru su	wuɔfɔ su 
+distant: šoŋŋ	ǯekɛ 
+far: šoŋŋ	ǯekɛ 
+dull: noni čiː	čiː 
+heavy: noni čiː	čiː 
+serious: noni čiː	čiː 
+close: he	noni bɛŋkɛ 
+near: he	noni bɛŋkɛ 
+ner: he	noni bɛŋkɛ 
+salt: ŋoː 
+short: kpitioː	kuku	tɛkɛː 
+snake: onũfũ	šikpã	šinõ 
+thin: bloblo	fɛtɛfɛtɛ 
+wind: kɔːyɔ 
+earthworm: gõgõmi 
+worm: gõgõmi 
+year: afi 
+2 pl.: nye	o 
+ye: nye	o 
+you all: nye	o 
+3 pl.: amɛ 
+they: amɛ 
+here: biɛ 
+there: ǯɛi 
+where: negbɛ	nẽ	nẽgbɛ 
+where?: negbɛ	nẽ	nẽgbɛ 
+when: mebe	mẽ be mli 
+when?: mebe	mẽ be mli 
+how: té … teːŋ 
+how?: té … teːŋ 
+few: fioː	kpokpaoː. enyɔoː ko 
+other: ekroko	kroko 
+three: etẽ	étɛ̃ʏ̈	étɛ̃̀ 
+four: eǯʷɛ	édzwὲ	éǯwɛ̀ 
+five: enumɔ	énùmɔ	énũ´ mɔ̃ 
+broad: lɛkɛtɛː	lɛː	noni lɛː	tɛtrɛː 
+wide: lɛkɛtɛː	lɛː	noni lɛː	tɛtrɛː 
+wideness: lɛkɛtɛː	lɛː	noni lɛː	tɛtrɛː 
+fat: fɔ	mũ 
+thick: noni ti	titriː 
+narrow: fintõː 
+child: -biʼi	bi	gbekẽ 
+principal wife: -mei	ŋa	ŋã 
+wife: -mei	ŋa	ŋã 
+husband: -mei	biʼiačɛ	wù 
+his mother: biʼianye	nye 
+mother: biʼianye	nye 
+my mother: biʼianye	nye 
+father: ataː	biʼiačɛ	čɛ 
+his father: ataː	biʼiačɛ	čɛ 
+my father: ataː	biʼiačɛ	čɛ 
+animal: kolo 
+forest: koː 
+woods: koː 
+branch: nine	niǯi	čo nine	čonine 
+stick: nine	niǯi	čo nine	čonine 
+fruit: aduawa	nibaniʼi	yibiʼi 
+flower: afofro	fɔfɔi 
+grass: ǯʷɛi 
+cord: tãŋkpeː 
+rope: tãŋkpeː 
+grease: fɔ	mũ 
+fingernail: lami 
+leg: nane	naǯi 
+wing: fĩne 
+gut: mliniʼi	mũsũŋkotoku 
+guts: mliniʼi	mũsũŋkotoku 
+insides: mliniʼi	mũsũŋkotoku 
+intestine: mliniʼi	mũsũŋkotoku 
+intestines: mliniʼi	mũsũŋkotoku 
+back: kotosɛ	sɛ 
+suck: šʷɔ 
+spit: fẽʏ̈ 
+vomit: šʷe 
+breath: mũ 
+breathe: mũ 
+laugh: ŋmõ 
+laughter: ŋmõ 
+cogitate: susu	ǯweŋ	ǯʷẽŋ 
+reflect: susu	ǯweŋ	ǯʷẽŋ 
+think: susu	ǯweŋ	ǯʷẽŋ 
+smell: nu … fũ 
+sniff: nu … fũ 
+afraid: gbeyei	šemɔ 
+be afraid: gbeyei	šemɔ 
+fear: gbeyei	šemɔ 
+fright: gbeyei	šemɔ 
+alive: hi	hĩ ši	hĩe kã	na wala 
+be alive: hi	hĩ ši	hĩe kã	na wala 
+life: hi	hĩ ši	hĩe kã	na wala 
+live: hi	hĩ ši	hĩe kã	na wala 
+living: hi	hĩ ši	hĩe kã	na wala 
+fight: bé	nõ	taː naː	wu ta 
+hunt: gbɔbi	mĩ 
+beat: mõ	sa he	čʷa 
+hit: mõ	sa he	čʷa 
+strike: mõ	sa he	čʷa 
+cut: bã	fo	toː 
+hack: bã	fo	toː 
+cut open: gbá 
+split: gbá 
+pierce: dũ	gbu	ču 
+stab: dũ	gbu	ču 
+scratch: tĩ	ŋmlã 
+dig: hũi	ča	ča š 
+tell lies: male 
+stand: -ši	damɔ	mã 
+drop: ba-	gbeː ši	nyõ- 
+fall: ba-	gbeː ši	nyõ- 
+grasp: hie	hĩe mli	mõ mli 
+hold: hie	hĩe mli	mõ mli 
+hold in arm: hie	hĩe mli	mõ mli 
+squeeze: fifĩa	mĩa 
+wring: fifĩa	mĩa 
+rub: šɔ	šʷišʷia 
+wipe: kpla	čumɔ 
+wash: fɔ	fɔ he	fɔ … he	ǯu … he 
+wash clothes: fɔ	fɔ he	fɔ … he	ǯu … he 
+throw: fõ	čwa	šɛ 
+bind: fĩ 
+fasten: fĩ 
+tie: fĩ 
+tie up: fĩ 
+sew: kpɛ	kpɛ niʼi 
+count: bu	bu naː	kane 
+enumerate: bu	bu naː	kane 
+number: bu	bu naː	kane 
+tally: bu	bu naː	kane 
+sing: la 
+have fun: šʷɛ 
+play: šʷɛ 
+float: sɛŋ kɔːyɔ mli	tɛo nu hĩe 
+flow: ho 
+freeze: fĩ kɛ fẽi 
+brook: faː	nsutẽŋ 
+river: faː	nsutẽŋ 
+stream: faː	nsutẽŋ 
+lake: kpaːkpo 
+dust: mlu 
+fog: afua	futufuli 
+sky: atatu	ŋwei 
+blaze: čo	šã 
+burn: čo	šã 
+day: gbi	šʷane	ǯečɛremɔ 
+daylight: gbi	šʷane	ǯečɛremɔ 
+daytime: gbi	šʷane	ǯečɛremɔ 
+bad: efõŋ	foŋ	fõǯi	noni ehĩʼĩ 
+evil: efõŋ	foŋ	fõǯi	noni ehĩʼĩ 
+rot: noni ešara 
+rotten: noni ešara 
+dirty: noni ewo mũǯi 
+filthy: noni ewo mũǯi 
+soiled: noni ewo mũǯi 
+straight: trõmõː 
+sharp: noni naː ba	šõšõšõ 
+blunt: gbe … naː	hã … naː gbo 
+smooth: trotro	trõŋtrõŋ 
+damp: flõnõː	noni efɔ 
+wet: flõnõː	noni efɔ 
+correct: noni ǯa 
+right side: nineǯurõ	ǯurõ 
+left: abɛku 
+in: mli	yɛ … mli	ŋ 
+inside: mli	yɛ … mli	ŋ 
+and: kɛ	ni 
+if: kɛǯi	kɛ́ 
+because: eǯakɛ 

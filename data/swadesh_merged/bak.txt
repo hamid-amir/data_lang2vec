@@ -1,0 +1,334 @@
+all: бөтә 
+every: бөтә 
+ash: көл 
+ashes: көл 
+bark: ҡабыҡ	ҡайыр 
+abdomen: эч	ҡарын	ҡорһаҡ 
+belly: эч	ҡарын	ҡорһаҡ 
+big: бөйөк	ҙур	өлкән 
+bigness: бөйөк	ҙур	өлкән 
+large: бөйөк	ҙур	өлкән 
+bird: ҡош 
+bite: тешләү 
+black: ҡара 
+blood: qan	ҡан 
+bone: heyEk	һөйәк 
+breast: kikrEk	имсәк	күкрәк	түш 
+breasts: kikrEk	имсәк	күкрәк	түш 
+cloud: болот 
+cold: һыуыҡ 
+come: kilei	килеү 
+come from: kilei	килеү 
+be dead: ilei	үлеү 
+dead: ilei	үлеү 
+die: ilei	үлеү 
+dog: et	эт 
+drink: esei	эсеү 
+dry: ҡоро 
+ear: qolaq	ҡолаҡ 
+earth: тупраҡ 
+ground: тупраҡ 
+land: тупраҡ 
+soil: тупраҡ 
+eat: ашау 
+egg: йомортҡа 
+eye: ki8	күҙ 
+feather: ҡаурый	ҡауырһын 
+fire: ut	ут 
+fish: baluq	балыҡ 
+fly: осоу 
+fly v.: осоу 
+foot: аяҡ	табан 
+full: tulu	тулы 
+give: биреү 
+good: яҡшы 
+green: йәшел 
+hair: сәс	ҡыл 
+hand: qul 
+left hand: qul 
+right: qul 
+head: баш 
+hear: iSetei	ишетеү 
+heart: йөрәк 
+horn: mege8	мөгөҙ 
+1 sg.: min	мин 
+I: min	мин 
+kill: үлтереү 
+knee: tubuq	тубыҡ 
+be knowledgeable: белеү 
+know: белеү 
+leaf: yalpaq	япраҡ 
+liver: baur	bawur	бауыр 
+long: оҙон 
+head louse: bet	бет 
+louse: bet	бет 
+male: ир 
+man: %E8Em	keSe	кеше	әҙәм 
+many: күп 
+much: күп 
+multiple: күп 
+several: күп 
+moon: ай 
+hill: tau	taw	тау 
+mountain: tau	taw	тау 
+mouth: ауыҙ 
+name: isem	исем 
+title: isem	исем 
+neck: муйын 
+new: yaNu	яңы 
+night: ten	төн 
+nighttime: ten	төн 
+nose: tanau	tanaw	морон	танау 
+not: түгел 
+adulterous: ber	бер 
+one: ber	бер 
+single: ber	бер 
+that: теге 
+the: ber	бер 
+unprincipled: ber	бер 
+human: %E8Em	keSe	кеше	әҙәм 
+human being: %E8Em	keSe	кеше	әҙәм 
+person: %E8Em	keSe	кеше	әҙәм 
+rain: ямгыр	ямғыр 
+rainy weather: ямгыр	ямғыр 
+red: ҡыҙыл 
+path: yul	юл 
+road: yul	юл 
+route: yul	юл 
+root: тамыр 
+round: йоморо	түңәрәк 
+sand: ҡом 
+say: әйтеү 
+see: kirei	күреү 
+seed: орлоҡ 
+sit: ултырыу 
+hide: tire	тире 
+skin: tire	тире 
+sleep: йоҡлау 
+little: бәләкәй	кесе 
+small: бәләкәй	кесе 
+smallness: бәләкәй	кесе 
+smoke: төтөн 
+star: yondo8	йондоҙ 
+rock: taS	таш 
+stone: taS	таш 
+sun: qoyaS	ҡояш 
+swim: йөҙөү 
+tail: ҡойроҡ 
+this: был 
+2 sg: hin	һин 
+thou: hin	һин 
+you: hin	һин 
+tongue: tel	тел 
+tooth: teS	теш 
+tree: axas	ағас 
+grind: ike	ике 
+two: ike	ике 
+go: атлау	йөрөү 
+walk: атлау	йөрөү 
+hot: йылы 
+warm: йылы 
+water: hu	huw	һыу 
+1 pl. inc.: be8	беҙ 
+we: be8	беҙ 
+we₁: be8	беҙ 
+what: нимә 
+white: аҡ 
+whiteness: аҡ 
+who: кем 
+who?: кем 
+female: ҡатын 
+woman: ҡатын 
+yellow: һары 
+distant: алыҫ	йыраҡ 
+far: алыҫ	йыраҡ 
+dull: ауыр 
+heavy: ауыр 
+serious: ауыр 
+close: яҡын 
+near: яҡын 
+ner: яҡын 
+salt: тоҙ 
+short: ҡыҫҡа 
+snake: йылан 
+thin: нәҙек 
+wind: ел 
+earthworm: ҡорт 
+worm: ҡорт 
+year: йыл 
+3 sg.: ул 
+he: ул 
+she: ул 
+2 pl.: һеҙ 
+ye: һеҙ 
+you all: һеҙ 
+3 pl.: улар 
+they: улар 
+here: бында	ошонда 
+there: тегендә	унда	шунда 
+where: ҡайҙа 
+where?: ҡайҙа 
+when: ҡасан 
+when?: ҡасан 
+how: нисек	ҡалай 
+how?: нисек	ҡалай 
+some: бер нисә 
+few: аҙ 
+other: башҡа 
+three: өс 
+four: дүрт 
+five: биш 
+broad: киң 
+wide: киң 
+wideness: киң 
+fat: май 
+thick: йыуан	ҡалын 
+narrow: тар 
+child: caбый	бала 
+principal wife: ҡатын 
+wife: ҡатын 
+husband: ир 
+his mother: әсә 
+mother: әсә 
+my mother: әсә 
+father: ата 
+his father: ата 
+my father: ата 
+animal: йәнлек	хайван	хайуан 
+forest: урман 
+woods: урман 
+branch: ботаҡ	сыбыҡ	таяҡ 
+stick: ботаҡ	сыбыҡ	таяҡ 
+fruit: емеш 
+flower: сәскә	сәсәк 
+grass: үлән 
+cord: бау 
+rope: бау 
+flesh: ит 
+meat: ит 
+grease: май 
+claw: тырнаҡ 
+fingernail: тырнаҡ 
+nail: тырнаҡ 
+leg: аяҡ	бот 
+arm: ҡул 
+wing: ҡанат 
+gut: эсәк 
+guts: эсәк 
+insides: эсәк 
+intestine: эсәк 
+intestines: эсәк 
+back: арҡа 
+suck: имеү 
+spit: төкөрөү 
+vomit: ҡоҫоу 
+blow: өрөү 
+breath: тын алыу	һулау 
+breathe: тын алыу	һулау 
+laugh: көлөү 
+laughter: көлөү 
+cogitate: уйлау 
+reflect: уйлау 
+think: уйлау 
+smell: еҫкәү 
+sniff: еҫкәү 
+afraid: ҡурҡыу 
+be afraid: ҡурҡыу 
+fear: ҡурҡыу 
+fright: ҡурҡыу 
+alive: йәшәү 
+be alive: йәшәү 
+life: йәшәү 
+live: йәшәү 
+living: йәшәү 
+fight: һуғышыу 
+hunt: аулау 
+beat: ороу	һуғыу 
+hit: ороу	һуғыу 
+strike: ороу	һуғыу 
+cut: киҫеү	ҡырҡыу 
+hack: киҫеү	ҡырҡыу 
+cut open: бүлеү	ярыу 
+split: бүлеү	ярыу 
+pierce: сәнсеү	ҡаҙау 
+stab: сәнсеү	ҡаҙау 
+scratch: тырнау 
+dig: ҡаҙыу 
+lie: ятыу 
+lie down: ятыу 
+tell lies: ятыу 
+stand: тороу 
+turn: боролоу	бороу 
+turn around: боролоу	бороу 
+turn round: боролоу	бороу 
+drop: төшөү 
+fall: төшөү 
+grasp: тотоу 
+hold: тотоу 
+hold in arm: тотоу 
+squeeze: ҡыҫыу 
+wring: ҡыҫыу 
+rub: ышҡыу 
+wipe: һөртөү 
+wash: йыуыу 
+wash clothes: йыуыу 
+pull: тартыу 
+push: этеү	этәреү 
+shove: этеү	этәреү 
+throw: ташлау 
+bind: бәйләү 
+fasten: бәйләү 
+tie: бәйләү 
+tie up: бәйләү 
+sew: тегеү 
+count: һанау 
+enumerate: һанау 
+number: һанау 
+tally: һанау 
+sing: йырлау 
+have fun: уйнау 
+play: уйнау 
+float: йөҙөү 
+flow: ағыу 
+freeze: туңыу	өшөү 
+swell: шешеү 
+brook: йылға 
+river: йылға 
+stream: йылға 
+lake: күл 
+ocean: диңгеҙ 
+sea: диңгеҙ 
+dust: саң	туҙан 
+fog: томан 
+sky: күк 
+snow: ҡар 
+ice: боҙ 
+blaze: яныу 
+burn: яныу 
+day: көн 
+daylight: көн 
+daytime: көн 
+old: иҫке	ҡарт 
+bad: насар	яман 
+evil: насар	яман 
+rot: серек 
+rotten: серек 
+dirty: бысраҡ 
+filthy: бысраҡ 
+soiled: бысраҡ 
+straight: тура 
+sharp: үткер 
+blunt: үтмәҫ 
+smooth: шыма 
+damp: дымлы	йеүеш 
+wet: дымлы	йеүеш 
+correct: дөрөҫ 
+right side: уң 
+left: һул 
+at: -да	-дә	.	өҫтөндә 
+in: -да	-дә	эсендә 
+inside: -да	-дә	эсендә 
+with: -менән	менән 
+and: да	дә	ла	лә	һәм 
+if: -һа	-һә	әгәр 
+because: сөнки 

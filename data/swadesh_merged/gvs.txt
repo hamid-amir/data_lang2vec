@@ -1,0 +1,266 @@
+all: madabokina 
+every: madabokina 
+ash: selekau 
+ashes: selekau 
+abdomen: gamona 
+belly: gamona 
+big: gagaina 
+bigness: gagaina 
+large: gagaina 
+bird: manuwo 
+bite: kani 
+black: kalaakovina 
+blood: ikaika 
+bone: lulu 
+breast: nunu 
+breasts: nunu 
+burn: gabu 
+burn tr.: gabu 
+cloud: gaota 
+cold: gogouituna 
+come: ma	wo 
+come from: ma	wo 
+be dead: kamasa	xamasa 
+dead: kamasa	xamasa 
+die: kamasa	xamasa 
+dog: weiniya	woiniya 
+drink: nim 
+dry: yabuyabu	yao 
+ear: taiyana 
+eat: kaika 
+egg: pelelemotu	pelelotu 
+eye: mata	matana 
+feather: dagula 
+fire: yeu 
+fish: iyana 
+fly: yova 
+fly v.: yova 
+full: kayaoda	xayaoda 
+good: bogo 
+green: vakalakalaoina 
+hair: kununa 
+hand: nimana 
+left hand: nimana 
+right: nimana 
+head: bulubulu 
+hear: nowo 
+horn: siula 
+1 sg.: yau 
+I: yau 
+kill: kaumata 
+knee: aetutu 
+be knowledgeable: yagoi 
+know: yagoi 
+leaf: vaga 
+lie: masisi 
+lie down: masisi 
+liver: ate 
+long: maanawena 
+head louse: kutu	xutu 
+louse: kutu	xutu 
+male: koroto 
+man: tomota 
+moon: tukowana 
+hill: koya	xoya 
+mountain: koya	xoya 
+mouth: tobuna 
+name: yoina	you 
+title: yoina	you 
+neck: nukotona 
+new: vau 
+night: sabamgo 
+nighttime: sabamgo 
+nose: kubuna	xubuna 
+adulterous: taya	taya-mo	tayamo 
+one: taya	taya-mo	tayamo 
+single: taya	taya-mo	tayamo 
+that: amo	moe 
+the: taya	taya-mo	tayamo 
+unprincipled: taya	taya-mo	tayamo 
+human: tomota 
+human being: tomota 
+person: tomota 
+rain: kuwana 
+rainy weather: kuwana 
+red: kayakayaina 
+path: enao	kenao 
+road: enao	kenao 
+route: enao	kenao 
+root: lam 
+sand: ediedila 
+say: digo 
+see: gita 
+sit: tusobu 
+hide: sakava	saxava 
+skin: sakava	saxava 
+sleep: masisi 
+little: giyaina 
+small: giyaina 
+smallness: giyaina 
+smoke: aubowo 
+star: utuna 
+rock: gurewa	lusa 
+stone: gurewa	lusa 
+sun: niyala 
+swim: kaya 
+tail: yuyu 
+this: ame 
+2 sg: kom	xom 
+thou: kom	xom 
+you: kom	xom 
+tongue: maena 
+tooth: sala	salana 
+tree: alova 
+grind: ai-yuwo	aiyuwo	yuwo 
+two: ai-yuwo	aiyuwo	yuwo 
+go: ketoiya 
+walk: ketoiya 
+hot: yaiyai 
+warm: yaiyai 
+water: bwae	bw~ae 
+1 pl. inc.: kai	kita 
+we: kai	kita 
+we₁: kai	kita 
+what: kaga 
+white: powouna 
+whiteness: powouna 
+who: avatau 
+who?: avatau 
+female: vavina 
+woman: vavina 
+yellow: yaoyaoina 
+distant: aduwanau 
+far: aduwanau 
+dull: mou 
+heavy: mou 
+serious: mou 
+close: yomana 
+near: yomana 
+ner: yomana 
+salt: negonegosina 
+short: kaakupina 
+snake: moteta 
+thin: kakaraiyaina 
+wind: yagira	yaina 
+earthworm: dimonana 
+worm: dimonana 
+year: tala 
+2 pl.: komi 
+ye: komi 
+you all: komi 
+3 pl.: kidi 
+they: kidi 
+where: nako 
+where?: nako 
+when: avatuta 
+when?: avatuta 
+how: manakaena 
+how?: manakaena 
+three: ai-to	toi 
+four: ai-vasi	vasi 
+five: ai-nima	nima 
+fat: sabali 
+thick: kalabadabadaina 
+principal wife: monena 
+wife: monena 
+husband: monena 
+his mother: sinana 
+mother: sinana 
+my mother: sinana 
+father: tamana 
+his father: tamana 
+my father: tamana 
+forest: udodana 
+woods: udodana 
+branch: laonina	lawana 
+stick: laonina	lawana 
+fruit: keuwo 
+flower: belolo 
+grass: limou 
+cord: buyala 
+rope: buyala 
+flesh: iwaya	iwoina 
+meat: iwaya	iwoina 
+grease: sabali 
+wing: panepanena 
+gut: beva 
+guts: beva 
+insides: beva 
+intestine: beva 
+intestines: beva 
+back: toluna 
+spit: giwala 
+vomit: lagoba 
+blow: towo	uwa 
+breath: lisi 
+breathe: lisi 
+laugh: vanama 
+laughter: vanama 
+cogitate: nuwonuwana 
+reflect: nuwonuwana 
+think: nuwonuwana 
+smell: samkone 
+sniff: samkone 
+afraid: matoita 
+be afraid: matoita 
+fear: matoita 
+fright: matoita 
+alive: ma yawoina 
+be alive: ma yawoina 
+life: ma yawoina 
+live: ma yawoina 
+living: ma yawoina 
+hunt: vakauko 
+beat: lauwo 
+hit: lauwo 
+strike: lauwo 
+cut: gesi 
+hack: gesi 
+cut open: tasesala	taseseli 
+split: tasesala	taseseli 
+pierce: ginubaku 
+stab: ginubaku 
+scratch: valu 
+dig: eli 
+stand: taoya 
+drop: mauwo 
+fall: mauwo 
+grasp: yoisi	yoita 
+hold: yoisi	yoita 
+hold in arm: yoisi	yoita 
+squeeze: bibi 
+wring: bibi 
+throw: lave	lova 
+bind: yowana 
+fasten: yowana 
+tie: yowana 
+tie up: yowana 
+sew: giluma 
+count: katuyaivina 
+enumerate: katuyaivina 
+number: katuyaivina 
+tally: katuyaivina 
+flow: dau 
+ocean: negwasa 
+sea: negwasa 
+dust: kaukau 
+fog: gaugau 
+sky: osasa	yabana 
+bad: goyo 
+evil: goyo 
+rot: boma 
+rotten: boma 
+dirty: baailina 
+filthy: baailina 
+soiled: baailina 
+sharp: saimata	saimate 
+blunt: kikiwala 
+damp: kanapoiwo 
+wet: kanapoiwo 
+right side: kakatai 
+left: kekeli 
+at: goi 
+in: sinaena 
+inside: sinaena 
+and: be 
+if: neta 

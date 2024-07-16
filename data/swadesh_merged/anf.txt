@@ -1,0 +1,281 @@
+all: ɔfɛɛ 
+every: ɔfɛɛ 
+ash: atɩtarɩ 
+ashes: atɩtarɩ 
+bark: kyii awa 
+abdomen: dubuu 
+belly: dubuu 
+big: munkpaa 
+bigness: munkpaa 
+large: munkpaa 
+bird: furubi 
+bite: dʋe 
+black: titi 
+blood: daN	ndan 
+bone: dikako	kako7 
+breast: 5E7	dɩnyɛ 
+breasts: 5E7	dɩnyɛ 
+claw: dɩfarɩ 
+nail: dɩfarɩ 
+talon: dɩfarɩ 
+cloud: awa 
+cold: ɔtarɩ 
+come: bE	bɛ 
+come from: bE	bɛ 
+be dead: Cw~i7	kyui 
+dead: Cw~i7	kyui 
+die: Cw~i7	kyui 
+dog: bibi	bibii 
+drink: No7	ŋɔ 
+dry: ɔkpaa 
+ear: 5uN	gunyun 
+earth: gɩnya 
+ground: gɩnya 
+land: gɩnya 
+soil: gɩnya 
+eat: di 
+egg: furusie 
+eye: animi	nimi 
+fat: aban 
+fat n.: aban 
+grease: aban 
+lubricant: aban 
+oil: aban 
+feather: gʋdɔ 
+fire: na 
+fish: so*	sɔn 
+fly: yi 
+fly v.: yi 
+foot: dɩkparɩ 
+full: li	oli 
+give: fakee 
+good: ɔmɔ 
+green: awɔkɔ 
+hair: ayʋdɔ 
+hand: 5ota	nyɔtaa 
+left hand: 5ota	nyɔtaa 
+right: 5ota	nyɔtaa 
+head: duyu 
+hear: 5u	nyun 
+heart: ɔgɩlanga 
+horn: Te	ayie 
+1 sg.: mmʋ	mu 
+I: mmʋ	mu 
+kill: wie 
+knee: dululon	lulo 
+be knowledgeable: kye 
+know: kye 
+leaf: awɔ	wo7 
+lie: sʋɛkpɛrɩ 
+lie down: sʋɛkpɛrɩ 
+liver: ruko	ɔrɩkɔɔ 
+long: okonu 
+male: tayɩn	taɩn 
+man: 5imise7	nyimise 
+many: ginyikpe 
+much: ginyikpe 
+multiple: ginyikpe 
+several: ginyikpe 
+flesh: kɩka 
+meat: kɩka 
+moon: kutaa 
+hill: tu	tuu 
+mountain: tu	tuu 
+mouth: nnyɔ 
+name: Na	dɩŋa 
+title: Na	dɩŋa 
+neck: ɔdɔnkyɩ 
+new: Cefw~e7	kyefue 
+night: nima5a7	nɩmagya 
+nighttime: nima5a7	nɩmagya 
+nose: 5aNkp$a	nyankpan 
+not: ŋawɛ 
+adulterous: di*7	dɩn 
+one: di*7	dɩn 
+single: di*7	dɩn 
+that: berifɛ 
+the: di*7	dɩn 
+unprincipled: di*7	dɩn 
+human: 5imise7	nyimise 
+human being: 5imise7	nyimise 
+person: 5imise7	nyimise 
+rain: tɛrɩ 
+rainy weather: tɛrɩ 
+red: kyemere 
+path: koN	kɔn 
+road: koN	kɔn 
+route: koN	kɔn 
+root: kulu 
+round: ɔsɩnaku 
+say: daa 
+see: tE	tɛ 
+seed: dibi	kyiidibi 
+sit: tiri 
+hide: 5w~efie	wiefien 
+skin: 5w~efie	wiefien 
+sleep: kpɛrɩ 
+little: nyamaa 
+small: nyamaa 
+smallness: nyamaa 
+smoke: dʋnyɔ 
+stand: yɛyɛrɩ 
+star: dɩmɔmɔbi	momabi 
+rock: du7	dudu 
+stone: du7	dudu 
+sun: Cuko*	kyʋkɔn 
+swim: yi 
+tail: efii 
+this: wɛ 
+2 sg: wo	wò 
+thou: wo	wò 
+you: wo	wò 
+tongue: domf~i	donfii 
+tooth: adon	doN 
+tree: Ci7	kyii 
+grind: Ti7	ɛyi 
+two: Ti7	ɛyi 
+water: 5i7	anyii 
+1 pl. inc.: wo 
+we: wo 
+we₁: wo 
+white: kyukyua 
+whiteness: kyukyua 
+who: ala 
+who?: ala 
+female: wien 
+woman: wien 
+yellow: furu aban 
+distant: okonu 
+far: okonu 
+dull: olemyuru 
+heavy: olemyuru 
+serious: olemyuru 
+close: ɔdɛrɩ 
+near: ɔdɛrɩ 
+ner: ɔdɛrɩ 
+salt: aŋarɩ 
+short: onekonu 
+snake: kaateri 
+thin: onfomgite 
+wind: duwu 
+earthworm: kaatarɩ 
+worm: kaatarɩ 
+year: nnyɔ 
+3 sg.: ye 
+he: ye 
+she: ye 
+2 pl.: yɩ 
+ye: yɩ 
+you all: yɩ 
+3 pl.: bɛ 
+they: bɛ 
+here: amʋ 
+there: defe 
+where: dike 
+where?: dike 
+when: dakye 
+when?: dakye 
+how: nɛnɛ 
+how?: nɛnɛ 
+few: debii 
+other: dɩn 
+three: ata 
+four: anyɛɛ 
+five: aton 
+broad: owieri 
+wide: owieri 
+wideness: owieri 
+thick: olemgite 
+narrow: ɔban 
+child: blabɩ 
+principal wife: wiekyani 
+wife: wiekyani 
+husband: diatie 
+his mother: miyo 
+mother: miyo 
+my mother: miyo 
+father: nta 
+his father: nta 
+my father: nta 
+fruit: kyii dibi 
+grass: dɩbwɔ 
+cord: ken 
+rope: ken 
+gut: irifuntum 
+guts: irifuntum 
+insides: irifuntum 
+intestine: irifuntum 
+intestines: irifuntum 
+back: gɩma 
+suck: kyʋkyʋwɛ 
+vomit: dɛlɩ 
+blow: te 
+cogitate: kyɔdaka 
+reflect: kyɔdaka 
+think: kyɔdaka 
+smell: lɛrikye 
+sniff: lɛrikye 
+afraid: dufu 
+be afraid: dufu 
+fear: dufu 
+fright: dufu 
+alive: ɔkparatɩyɛ 
+be alive: ɔkparatɩyɛ 
+life: ɔkparatɩyɛ 
+live: ɔkparatɩyɛ 
+living: ɔkparatɩyɛ 
+beat: kyawɛ 
+hit: kyawɛ 
+strike: kyawɛ 
+cut: se 
+hack: se 
+cut open: ŋa 
+split: ŋa 
+dig: nyi 
+drop: diatɔ 
+fall: diatɔ 
+rub: twii 
+wipe: twii 
+wash: dɩyan 
+wash clothes: dɩyan 
+push: nyɛwɛ 
+shove: nyɛwɛ 
+throw: te 
+bind: barɩ 
+fasten: barɩ 
+tie: barɩ 
+tie up: barɩ 
+sew: nɩnka 
+sing: nyɔ 
+swell: okyukyue 
+lake: dibete 
+ocean: mpo 
+sea: mpo 
+dust: dʋyɔrɩ 
+sky: duŋunu 
+ice: diŋuru aŋarɩ 
+blaze: yɔ 
+burn: yɔ 
+day: nkyukɔkʋ 
+daylight: nkyukɔkʋ 
+daytime: nkyukɔkʋ 
+old: one kukumu 
+bad: ɔnamɔ 
+evil: ɔnamɔ 
+rot: ofue 
+rotten: ofue 
+dirty: ɔnandɩyan 
+filthy: ɔnandɩyan 
+soiled: ɔnandɩyan 
+straight: okuo 
+sharp: olemkpa 
+blunt: onfomkpa 
+smooth: ɔkyale 
+damp: ɔfɔ 
+wet: ɔfɔ 
+right side: nyodi 
+left: nyɛban 
+in: dɩmɩɛ 
+inside: dɩmɩɛ 
+with: ma 
+if: ma 

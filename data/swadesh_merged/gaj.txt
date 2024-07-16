@@ -1,0 +1,270 @@
+all: masiqdemi	masiʔdemi 
+every: masiqdemi	masiʔdemi 
+ash: yuni	yùnî 
+ashes: yuni	yùnî 
+bark: aqkami	aʔkaːmi	yagwami	ʌkami 
+abdomen: amuqi	amuʔi	arai	arapi 
+belly: amuqi	amuʔi	arai	arapi 
+big: inoqna	inoʔna	yena 
+bigness: inoqna	inoʔna	yena 
+large: inoqna	inoʔna	yena 
+bird: nume	numi 
+bite: unkano 
+black: ayupume	kasiqi	kasiʔi 
+blood: nare	narei	naːrei	uwoi 
+bone: aiyampa	ayampai 
+breast: name	nami	nan	naːmi 
+breasts: name	nami	nan	naːmi 
+claw: opaqi	opaʔi 
+nail: opaqi	opaʔi 
+talon: opaqi	opaʔi 
+cloud: ayoni	konama 
+cold: ironemi 
+come: ere	yeno 
+come from: ere	yeno 
+be dead: pukono	puria 
+dead: pukono	puria 
+die: pukono	puria 
+dog: iya	iyame	iyami	iyan	iyʌmi 
+drink: nano	naːno	nona 
+dry: kasaguke	kasagukel	oyama 
+ear: ahtaren	akami	akaː	akʌm	aːkami	tatari 
+earth: maka	makai 
+ground: maka	makai 
+land: maka	makai 
+soil: maka	makai 
+eat: nano	nap	naːno 
+egg: amuqi	amuʔi 
+eye: au	okami	okaː 
+fat: basapemi 
+fat n.: basapemi 
+grease: basapemi 
+lubricant: basapemi 
+oil: basapemi 
+feather: ayoi	enapoi	poi 
+fire: ikai	ira 
+fish: kauya	noyana 
+fly: akemi	baqdini 
+fly v.: akemi	baqdini 
+foot: akani	akarakumi	kane 
+full: ubikemi 
+give: ameno 
+good: abokuqi	abokuʔi	awokoʔe 
+green: yanamanai 
+hair: -nyoi	-ǯo	ny~oi	ɑʔnonǯoi 
+hand: ayami	aːyaːmi	ya	yan	yanakume 
+left hand: ayami	aːyaːmi	ya	yan	yanakume 
+right: ayami	aːyaːmi	ya	yan	yanakume 
+head: -no	aqnomi	aːʔnomi 
+hear: indequ	indeʔu	iniya	taindeʔo 
+heart: amukuni	amuʔuni 
+1 sg.: i	te	teni	ti 
+I: i	te	teni	ti 
+kill: areqi	areʔi 
+knee: akona	akoraumi	amapon	koːne	ro 
+be knowledgeable: indequ	indeʔu 
+know: indequ	indeʔu 
+leaf: ainoyariya	anai	ya yanai 
+liver: amapon	anonomi 
+long: iyaqi	iyaːʔi 
+head louse: numi	nun 
+louse: numi	nun 
+male: banta	waːnte 
+man: akaːmi 
+many: amuqna	amuʔna 
+much: amuqna	amuʔna 
+multiple: amuqna	amuʔna 
+several: amuqna	amuʔna 
+flesh: amaqi 
+meat: amaqi 
+moon: ikona	nura 
+hill: akaʔe	anui	anuyo 
+mountain: akaʔe	anui	anuyo 
+mouth: -oː	abani	oɸɛmi 
+name: abiqi	abiʔi	awi	bi	wie 
+title: abiqi	abiʔi	awi	bi	wie 
+neck: anokami 
+new: onana	oyami	oyʌmi 
+night: ayukwame	ayupumi	inura	nuambaqi	nurambaʔi 
+nighttime: ayukwame	ayupumi	inura	nuambaqi	nurambaʔi 
+nose: -tiːʔi	asiqi	asiʔi	ati7	ci	ɑxiʔi 
+not: iye 
+adulterous: mana	manaa	manaː 
+one: mana	manaa	manaː 
+single: mana	manaa	manaː 
+that: mini 
+the: mana	manaa	manaː 
+unprincipled: mana	manaa	manaː 
+human: akaːmi 
+human being: akaːmi 
+person: akaːmi 
+rain: aqi	aʔe	aʔi 
+rainy weather: aqi	aʔe	aʔi 
+red: korami	narei	naːrei	uwoːmanai 
+path: ami	ani	asa	paripari 
+road: ami	ani	asa	paripari 
+route: ami	ani	asa	paripari 
+root: anuqi	anuʔi 
+round: amuʔi 
+sand: epayauni 
+say: sequ	seʔu 
+see: onano	onaːno	one	woneʔo 
+seed: ayumi 
+sit: kumandeno	kumand~eno 
+hide: anda	and~a 
+skin: anda	and~a 
+sleep: barano 
+little: titoʔe	tsitoq	tsitoʔ 
+small: titoʔe	tsitoq	tsitoʔ 
+smallness: titoʔe	tsitoq	tsitoʔ 
+smoke: inumuni	iqkuni	iʔkuni 
+stand: ukukano 
+star: bayo	ofu	wayo 
+rock: o	oni	oːne 
+stone: o	oni	oːne 
+sun: ao	ikona	waya 
+tail: ameni	ɑmɛni 
+this: mana 
+2 sg: ant	eni	i	ènî 
+thou: ant	eni	i	ènî 
+you: ant	eni	i	ènî 
+tongue: amapin	anapini	aːpini	mapi 
+tooth: abakuni	biantu 
+tree: da	ya	yani 
+grind: kaantani	kantani	kaːntani	maNkana 
+two: kaantani	kantani	kaːntani	maNkana 
+go: bono 
+walk: bono 
+water: nomi	non 
+1 pl. inc.: tetinti	yikenama 
+we: tetinti	yikenama 
+we₁: tetinti	yikenama 
+what: nepi 
+white: epani	kaponarime 
+whiteness: epani	kaponarime 
+who: yepe 
+who?: yepe 
+female: anati	anatsi	anaːtsi 
+woman: anati	anatsi	anaːtsi 
+yellow: miqyunawanemi	miʔyunawanemi 
+distant: iyakaʔi 
+far: iyakaʔi 
+dull: umaniremi 
+heavy: umaniremi 
+serious: umaniremi 
+close: aʔdekaʔi 
+near: aʔdekaʔi 
+ner: aʔdekaʔi 
+salt: uni 
+short: baːkaʔi	wakaʔi 
+snake: memani 
+thin: aʔyamana 
+wind: tisobaːni 
+earthworm: ini 
+worm: ini 
+2 pl.: eke	ekene 
+ye: eke	ekene 
+you all: eke	ekene 
+few: kamore 
+other: ena 
+three: kamore	komore 
+four: eribami 
+five: manaayaaq-mani	manaːyaːʔmani 
+thick: amakoʔi 
+narrow: kaʔkaʔmukemi 
+child: aːmi 
+principal wife: -naʔe	enanaʔi	naʔi 
+wife: -naʔe	enanaʔi	naʔi 
+husband: -wapu	enawapui	wapui 
+his mother: -noe	ananoi	noi 
+mother: -noe	ananoi	noi 
+my mother: -noe	ananoi	noi 
+father: -poe	enapoi	poi 
+his father: -poe	enapoi	poi 
+my father: -poe	enapoi	poi 
+forest: apʌʔi	uʔpaʔi	wuʔe 
+woods: apʌʔi	uʔpaʔi	wuʔe 
+branch: ayaːmani 
+stick: ayaːmani 
+fruit: akami	ya yamake 
+grass: namiʔi	owana	ʌtʌni 
+cord: nʌn 
+rope: nʌn 
+fingernail: opaʔi 
+leg: akani 
+wing: ayʌmi	aːyami 
+gut: araʔi 
+guts: araʔi 
+insides: araʔi 
+intestine: araʔi 
+intestines: araʔi 
+suck: umpiʔpiʔseʔu 
+spit: tikaːnoi 
+vomit: biseno 
+blow: puʔtemi 
+breath: aumi 
+breathe: aumi 
+laugh: inteno 
+laughter: inteno 
+cogitate: indideʔu 
+reflect: indideʔu 
+think: indideʔu 
+smell: amunkuʔi 
+sniff: amunkuʔi 
+beat: areʔo 
+hit: areʔo 
+strike: areʔo 
+cut: aʔkaːno 
+hack: aʔkaːno 
+cut open: dupameʔu 
+split: dupameʔu 
+pierce: ankakeʔu 
+stab: ankakeʔu 
+dig: upono 
+drop: yandono 
+fall: yandono 
+grasp: andorono 
+hold: andorono 
+hold in arm: andorono 
+rub: yotsiʔtsiʔ naːno 
+wipe: dauyono 
+wash: nonokeʔu 
+wash clothes: nonokeʔu 
+throw: aʔneʔu 
+bind: intuyono 
+fasten: intuyono 
+tie: intuyono 
+tie up: intuyono 
+sew: anduʔkono 
+count: yaːndaːno 
+enumerate: yaːndaːno 
+number: yaːndaːno 
+tally: yaːndaːno 
+have fun: iyararono 
+play: iyararono 
+float: nonadupaʔi 
+brook: noːme kumeine 
+river: noːme kumeine 
+stream: noːme kumeine 
+lake: abarumi 
+fog: konʌmi 
+sky: inaru 
+blaze: ikankemi 
+burn: ikankemi 
+day: aʔkarani	wayame 
+daylight: aʔkarani	wayame 
+daytime: aʔkarani	wayame 
+bad: mandaukane	oraha	tampiʔmemi 
+evil: mandaukane	oraha	tampiʔmemi 
+rot: ampimi	ʌmpimi 
+rotten: ampimi	ʌmpimi 
+dirty: pani 
+filthy: pani 
+soiled: pani 
+straight: antekemi 
+sharp: mandayamuʔ 
+smooth: bandirukamemi 
+damp: noniʔmemi 
+wet: noniʔmemi 
+right side: ?bempapaʔi 
+left: ?ayanopaʔ 

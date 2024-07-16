@@ -1,0 +1,331 @@
+all: barcha	butun	xamma 
+every: barcha	butun	xamma 
+ash: kul 
+ashes: kul 
+bark: qobiq	qobuq 
+abdomen: qorin 
+belly: qorin 
+big: buyuk	katta	yirik 
+bigness: buyuk	katta	yirik 
+large: buyuk	katta	yirik 
+bird: qush 
+bite: tishlamoq 
+black: qora	siyoh 
+blood: qon 
+bone: suyak 
+breast: emchak	kokrak	koks	koʻkrak	koʻksi	toʻsh 
+breasts: emchak	kokrak	koks	koʻkrak	koʻksi	toʻsh 
+cloud: bulut 
+cold: sovuq 
+come: kel	kelmoq 
+come from: kel	kelmoq 
+be dead: ol	oʻlmoq 
+dead: ol	oʻlmoq 
+die: ol	oʻlmoq 
+dog: it 
+drink: iC	ichmoq 
+dry: qurgʻoq	quruq 
+ear: quloq 
+earth: tuproq 
+ground: tuproq 
+land: tuproq 
+soil: tuproq 
+eat: yemoq 
+egg: tuxum 
+eye: koz	koʻz 
+feather: pat 
+fire: olov	ot	otaS	otash	oʻt 
+fish: baliq 
+fly: uchmoq 
+fly v.: uchmoq 
+foot: oyoq 
+full: tola	toq	toʻla	toʻq 
+give: bermoq 
+good: yaxshi 
+green: yashil 
+hair: qil	soch 
+hand: qol 
+left hand: qol 
+right: qol 
+head: bosh 
+hear: eSit	eshitmoq 
+heart: yurak 
+horn: muguz	шох 
+1 sg.: men 
+I: men 
+kill: oʻldirmoq 
+knee: tiza	tizza 
+be knowledgeable: bilmoq 
+know: bilmoq 
+leaf: yaproq 
+liver: baXir	bagʻir	jigar 
+long: uzun 
+head louse: bit 
+louse: bit 
+male: erkak 
+man: inson	kishi	odam 
+many: koʻp 
+much: koʻp 
+multiple: koʻp 
+several: koʻp 
+moon: oy 
+hill: toX	togʻ 
+mountain: toX	togʻ 
+mouth: ogʻiz 
+name: ism	nom	ot 
+title: ism	nom	ot 
+neck: boʻyin 
+new: yaNi	yangi 
+night: keCa	kecha	tun 
+nighttime: keCa	kecha	tun 
+nose: burun 
+not: emas 
+adulterous: bir 
+one: bir 
+single: bir 
+that: shu 
+the: bir 
+unprincipled: bir 
+human: inson	kishi	odam 
+human being: inson	kishi	odam 
+person: inson	kishi	odam 
+rain: yomgʻir 
+rainy weather: yomgʻir 
+red: qizil 
+path: yol	yoʻl 
+road: yol	yoʻl 
+route: yol	yoʻl 
+root: ildiz	tomir 
+round: dumaloq	yumaloq 
+sand: qum 
+say: aytmoq	demoq 
+see: kor	koʻrmoq 
+seed: urugʻ 
+sit: oʻtirmoq 
+hide: teri 
+skin: teri 
+sleep: uxlamoq 
+little: kichik	kichkina 
+small: kichik	kichkina 
+smallness: kichik	kichkina 
+smoke: tutun 
+star: yulduz 
+rock: toS	tosh 
+stone: toS	tosh 
+sun: kun	quyosh 
+swim: suzmoq 
+tail: dum	quyruq 
+this: bu 
+2 sg: sen 
+thou: sen 
+you: sen 
+tongue: til 
+tooth: tiS	tish 
+tree: darat	daraxt	yogʻoch 
+grind: iki	ikki 
+two: iki	ikki 
+go: bormoq	kezmoq	yurmoq 
+walk: bormoq	kezmoq	yurmoq 
+hot: iliq 
+warm: iliq 
+water: suv 
+1 pl. inc.: biz 
+we: biz 
+we₁: biz 
+what: nima 
+white: oq 
+whiteness: oq 
+who: kim 
+who?: kim 
+female: ayol	xotin 
+woman: ayol	xotin 
+yellow: sariq 
+distant: olis	uzoq	yiroq 
+far: olis	uzoq	yiroq 
+dull: ogʻir 
+heavy: ogʻir 
+serious: ogʻir 
+close: yaqin 
+near: yaqin 
+ner: yaqin 
+salt: tuz 
+short: qisqa 
+snake: ilon 
+thin: ozgʻin	yupqa 
+wind: yel 
+earthworm: qurt 
+worm: qurt 
+year: yil 
+2 pl.: siz 
+ye: siz 
+you all: siz 
+3 pl.: ular 
+they: ular 
+here: bu yerda	buyoq 
+there: u yerda 
+where: qayerda 
+where?: qayerda 
+when: qachon 
+when?: qachon 
+how: qanday 
+how?: qanday 
+some: bazi	bir necha	bir qancha 
+few: oz 
+other: boshqa 
+three: uch 
+four: toʻrt	to’rt 
+five: besh 
+broad: keng 
+wide: keng 
+wideness: keng 
+fat: moy	yogʻ 
+thick: qalin 
+narrow: tor 
+child: bola 
+principal wife: ayol	xotin 
+wife: ayol	xotin 
+husband: er	xoʻjayin 
+his mother: ona 
+mother: ona 
+my mother: ona 
+father: ota 
+his father: ota 
+my father: ota 
+animal: hayvon 
+forest: oʻrmon 
+woods: oʻrmon 
+branch: kaltak	tayoq	yogʻoch 
+stick: kaltak	tayoq	yogʻoch 
+fruit: meva 
+flower: chechak	gul 
+grass: oʻt 
+cord: arqon 
+rope: arqon 
+flesh: et	goʻsht 
+meat: et	goʻsht 
+grease: moy	yogʻ 
+claw: tirnoq 
+fingernail: tirnoq 
+nail: tirnoq 
+leg: oyoq 
+arm: qoʻl 
+wing: qanot 
+gut: ichak 
+guts: ichak 
+insides: ichak 
+intestine: ichak 
+intestines: ichak 
+back: orqa 
+suck: emmoq	soʻrmoq 
+spit: tuplamoq 
+vomit: qusmoq 
+blow: esmoq 
+breath: dam chiqalmoq	nafas olmoq 
+breathe: dam chiqalmoq	nafas olmoq 
+laugh: kulmoq 
+laughter: kulmoq 
+cogitate: oʻylamoq 
+reflect: oʻylamoq 
+think: oʻylamoq 
+smell: isqamoq 
+sniff: isqamoq 
+afraid: qoʻrqmoq 
+be afraid: qoʻrqmoq 
+fear: qoʻrqmoq 
+fright: qoʻrqmoq 
+alive: yashamoq 
+be alive: yashamoq 
+life: yashamoq 
+live: yashamoq 
+living: yashamoq 
+fight: qurashmoq	urushmoq 
+hunt: ovlamoq 
+beat: urmoq 
+hit: urmoq 
+strike: urmoq 
+cut: kesmoq 
+hack: kesmoq 
+cut open: yormoq 
+split: yormoq 
+pierce: qadamoq	sanchmoq	tiqmoq 
+stab: qadamoq	sanchmoq	tiqmoq 
+scratch: tirnamoq 
+dig: qazimoq 
+lie: yotmoq 
+lie down: yotmoq 
+tell lies: yotmoq 
+stand: turmoq 
+turn: burmoq 
+turn around: burmoq 
+turn round: burmoq 
+drop: tushmoq	yiqilmoq 
+fall: tushmoq	yiqilmoq 
+grasp: tutmoq 
+hold: tutmoq 
+hold in arm: tutmoq 
+squeeze: qismoq	siqmoq 
+wring: qismoq	siqmoq 
+rub: ishqalamoq	surkamoq	surtmoq 
+wipe: artmoq	surtmoq 
+wash: yuvmoq 
+wash clothes: yuvmoq 
+pull: choʻzmoq	tortmoq 
+push: itarmoq	turtmoq 
+shove: itarmoq	turtmoq 
+throw: otmoq	tashlamoq 
+bind: bogʻlamoq	boylamoq 
+fasten: bogʻlamoq	boylamoq 
+tie: bogʻlamoq	boylamoq 
+tie up: bogʻlamoq	boylamoq 
+sew: tikmoq 
+count: sanamoq 
+enumerate: sanamoq 
+number: sanamoq 
+tally: sanamoq 
+sing: ashula aytmoq	aytmoq	kuylamoq 
+have fun: oʻynamoq 
+play: oʻynamoq 
+float: suzmoq	yuzmoq 
+flow: oqmoq 
+freeze: muzlamoq	toʻngmoq	yaxlamoq 
+swell: shishmoq 
+brook: daryo 
+river: daryo 
+stream: daryo 
+lake: koʻl 
+ocean: dengiz 
+sea: dengiz 
+dust: chang	gʻubor	toʻzon 
+fog: tuman 
+sky: koʻk	osmon 
+snow: qor 
+ice: muz 
+blaze: yonmoq 
+burn: yonmoq 
+day: kun	kunduz 
+daylight: kun	kunduz 
+daytime: kun	kunduz 
+old: eski	qari 
+bad: yomon 
+evil: yomon 
+rot: chirik	chirirk 
+rotten: chirik	chirirk 
+dirty: kir 
+filthy: kir 
+soiled: kir 
+straight: tik	toʻgʻri 
+sharp: oʻtkir 
+blunt: oʻtmas	toʻmtoq 
+smooth: silliq	tekis 
+damp: hoʻl	nam 
+wet: hoʻl	nam 
+correct: durust	toʻgʻri 
+right side: oʻng 
+left: chap	soʻl 
+at: -da 
+in: -da 
+inside: -da 
+with: bilan 
+and: va 
+if: agar 
+because: chunki 

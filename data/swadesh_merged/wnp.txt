@@ -1,0 +1,180 @@
+arm: pam 
+bad: këngkrak 
+bad: kəŋkrak 
+belly: ka\af | kaʔaf	kʌʔʌβ 
+belly: kaʔaf | kaʔaf	kʌʔʌβ 
+bird: kal | kal	kʌl 
+black: koposëf | koposəf	kɔpɔːsʉw 
+black: koposəf | koposəf	kɔpɔːsʉw 
+blood: komkok | komkok	kɔːmɔŋgɔk 
+blood: komkom | komkok	kɔːmɔŋgɔk 
+bone: lekël | lekəl	leːkl	leːkəl 
+bone: lekəl | lekəl	leːkl	leːkəl 
+breast: yimangkëf | nyʊmʌːŋgʉw	yimaŋkəf 
+breast: yimaŋkəf | nyʊmʌːŋgʉw	yimaŋkəf 
+child: weruweru 
+come: ta | nʌtʌː	ta 
+dog: yimpa | nyɪmbʌ	yimpa 
+ear: nungkul | nuŋgul	nuŋkul 
+ear: nuŋkul | nuŋgul	nuŋkul 
+earth: kep 
+egg: yiplop | yiplop	yiwlɔp	yiwəlɔp 
+eye: yilp | yilp	yɪlp 
+father: minyal 
+fire: nif | nif	niw	niβ 
+give: war | nʌβʌ wʌr	war 
+good: me:ët | meːtʰ	meːət 
+good: meːət | meːtʰ	meːət 
+head: pelëf | peləf	pɛːlʉw 
+head: peləf | peləf	pɛːlʉw 
+he/she: n- 
+he/she: të-no 
+he/she: təno 
+he/she: w- 
+I: kë-m-ex | kmeː	kəmex	kɤmeː	m- 
+I: kəmex | kmeː	kəmex	kɤmeː	m- 
+I: m- | kmeː	kəmex	kɤmeː	m- 
+leg: kelfek 
+louse: yimël 
+louse: yiməl 
+man: nyingkilpën | nyiŋkilpən	nyɪŋgrwʉn 
+man: nyiŋkilpən | nyiŋkilpən	nyɪŋgrwʉn 
+moon: ke:nyif | keːnyif	kɛːnyʊw 
+moon: keːnyif | keːnyif	kɛːnyʊw 
+mother: mikan 
+nose: tëlom | tlɔm	təlom	təlɔm 
+rain: ku: | kuː 
+rain: kuː 
+red: komkoto | komkoto	kɔmɔŋgɔːlɔ 
+see: erk | erk	nɛˡryɔ 
+skin: saf | saf	sʌβ 
+smoke: yipar | niβ yɪwʌ	yipar	yɪwʌ 
+star: sëmprong | knduːl	kənduːl	səmproŋ	sɛeimbrɔŋ 
+star: səmproŋ | knduːl	kənduːl	səmproŋ	sɛeimbrɔŋ 
+stone: kipru | kipru	kɛːwʉlk 
+sun: kentief | kentief	kɛːndiyɛβ 
+they: të-mo 
+they: təmo 
+they: y- 
+thou: k- | k-	kiyox	kɪːyɔː 
+thou: kimox | k-	kiyox	kɪːyɔː 
+thou: kiyox | k-	kiyox	kɪːyɔː 
+thou: kiy-ox | k-	kiyox	kɪːyɔː 
+thou: y- | k-	kiyox	kɪːyɔː 
+tongue: kë:lëp | kəːləp	kɛːləp 
+tongue: kəːləp | kəːləp	kɛːləp 
+tooth: nef | nef	nɛːβ 
+tree: nimp 
+two: poyomp | poyomp	pɔyɔm 
+walk: lëk | nʌːlk	nʌːlək 
+walk: lək | nʌːlk	nʌːlək 
+water: ku: | kuː 
+water: kuː 
+we: kupox 
+we: k-up-ox 
+we: p- 
+we two (incl.): p- 
+white: tongkorëf | toŋkorəf	tɔŋgɔrʉw 
+white: toŋkorəf | toŋkorəf	tɔŋgɔrʉw 
+wind: këferk | kəferk	kʉwerk 
+wind: kəferk | kəferk	kʉwerk 
+woman: kekëntë | kekəntə	nyɪŋgrwʉ 
+woman: kekəntə | kekəntə	nyɪŋgrwʉ 
+you: ki-m-ox | k-	kiyox	kɪːyɔː 
+all: mɛⁱ mɛⁱ 
+every: mɛⁱ mɛⁱ 
+ash: lpiyɛw	niβ kəlpiyɛw 
+ashes: lpiyɛw	niβ kəlpiyɛw 
+bark: nɪmb sʌw	sʌw 
+abdomen: kaʔaf	kʌʔʌβ 
+big: wʌːndʉk 
+bigness: wʌːndʉk 
+large: wʌːndʉk 
+bite: wʌnmbʉk	wʌnəmbʉk 
+breasts: nyʊmʌːŋgʉw	yimaŋkəf 
+claw: wɔndrʉk 
+nail: wɔndrʉk 
+talon: wɔndrʉk 
+cloud: wulsʌᵘw 
+cold: pɔrɔ 
+come from: nʌtʌː	ta 
+be dead: tuwunɪβ 
+dead: tuwunɪβ 
+die: tuwunɪβ 
+drink: nɛːɣɪ yɔ 
+dry: klʌndʉ	kəlʌndʉ 
+ground: kep 
+land: kep 
+soil: kep 
+eat: nɛyiː 
+feather: k	kʌl peːlək 
+fish: kɛːwʉl 
+fly: wʌŋgʌwe ʌwʌlɨk 
+fly v.: wʌŋgʌwe ʌwʌlɨk 
+foot: kɛlβɛk 
+full: pert	pertɨ 
+green: kuŋgɔmnyounyou 
+hair: pɛːlʉw wʌḷuw	wʌḷuw 
+hand: pʌm 
+left hand: pʌm 
+right: pʌm 
+hear: mʌːtnuŋ 
+heart: pɪm 
+1 sg.: kmeː	kəmex	kɤmeː	m- 
+kill: nʌːɣʉmbʉk wɔŋgɔwuk 
+knee: mɛkʰ 
+be knowledgeable: mɛːryɔ mʌnɔŋgwɔ 
+know: mɛːryɔ mʌnɔŋgwɔ 
+leaf: wɛⁱsɪw 
+liver: kʌːrpŋ	kʌːrpəŋ 
+long: peːɣyik	peːɣɪyik 
+male: nyiŋkilpən	nyɪŋgrwʉn 
+many: wurɔŋ 
+much: wurɔŋ 
+multiple: wurɔŋ 
+several: wurɔŋ 
+hill: tʌːkilim	tʌːklim 
+mountain: tʌːkilim	tʌːklim 
+mouth: nʌːmb 
+name: nyʌu 
+title: nyʌu 
+neck: kndɔŋ	kəndɔŋ 
+new: nyʌmʌsɤ 
+night: pʌː 
+nighttime: pʌː 
+not: kʌːyɪk 
+adulterous: kɔɣɔŋgrk	kɔɣɔŋgərk 
+one: kɔɣɔŋgrk	kɔɣɔŋgərk 
+single: kɔɣɔŋgrk	kɔɣɔŋgərk 
+that: rʌⁱwɤ 
+the: kɔɣɔŋgrk	kɔɣɔŋgərk 
+unprincipled: kɔɣɔŋgrk	kɔɣɔŋgərk 
+rainy weather: kuː 
+root: nɪmb yɔklɔː	yɔklɔː 
+round: wɔwɛⁱwɔ 
+sand: siɣirɛβ 
+say: nʌnʌk 
+seed: nimb nɛːβ	nɛːβ 
+sit: nʌmyɔŋək 
+hide: saf	sʌβ 
+sleep: nɛːⁱk 
+little: skʌːtʉk	sɨkʌːtʉk 
+small: skʌːtʉk	sɨkʌːtʉk 
+smallness: skʌːtʉk	sɨkʌːtʉk 
+rock: kipru	kɛːwʉlk 
+swim: nʌːlɔkɔ 
+tail: nyɔːwʉsʉw 
+this: ɛʔɛⁱwɤ 
+2 sg: k-	kiyox	kɪːyɔː 
+grind: poyomp	pɔyɔm 
+go: nʌːlk	nʌːlək 
+what: mɔlkʰ 
+whiteness: toŋkorəf	tɔŋgɔrʉw 
+who: yɔmɔːnɔk 
+who?: yɔmɔːnɔk 
+female: kekəntə	nyɪŋgrwʉ 
+yellow: kʌmʌ kʌmʌ 
+dull: swʉk	sʉwʉk 
+heavy: swʉk	sʉwʉk 
+serious: swʉk	sʉwʉk 
+snake: pl	pəl 

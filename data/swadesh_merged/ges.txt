@@ -1,0 +1,264 @@
+all: ababis 
+every: ababis 
+ash: au tái 
+ashes: au tái 
+abdomen: toa 
+belly: toa 
+big: bobak 
+bigness: bobak 
+large: bobak 
+bird: manuk 
+bite: karat 
+black: metan 
+blood: rara 
+bone: ruri 
+breast: susu 
+breasts: susu 
+burn: tumu 
+burn tr.: tumu 
+cloud: aŋin tái 
+cold: rifi 
+come: ratan 
+come from: ratan 
+be dead: mata 
+dead: mata 
+die: mata 
+dog: kafuna 
+drink: inu 
+dry: kiri|mas 
+ear: tiliNa	tiliŋa 
+eat: ŋga faŋa 
+egg: tolu 
+eye: mata 
+feather: wilíu 
+fire: afi 
+fish: ikan 
+fly: tiu 
+fly v.: tiu 
+good: babán	gafin 
+green: biri 
+hair: uk 
+hand: ma 
+left hand: ma 
+right: ma 
+head: lu 
+hear: roNan	roŋan 
+1 sg.: aku 
+I: aku 
+kill: tara 
+be knowledgeable: ruk 
+know: ruk 
+leaf: ru 
+lie: bula-bula 
+lie down: bula-bula 
+liver: at 
+long: malás 
+head louse: kutu 
+louse: kutu 
+male: urana 
+man: %manC~ia	mančia 
+moon: ulan 
+mouth: lo 
+name: Nasan	ŋasan 
+title: Nasan	ŋasan 
+neck: totolan 
+new: wouwou 
+night: garan 
+nighttime: garan 
+nose: so 
+adulterous: sa 
+one: sa 
+single: sa 
+that: ira 
+the: sa 
+unprincipled: sa 
+human: %manC~ia	mančia 
+human being: %manC~ia	mančia 
+person: %manC~ia	mančia 
+rain: uran 
+rainy weather: uran 
+red: mera 
+path: lalano 
+road: lalano 
+route: lalano 
+root: akar 
+sand: ena 
+say: kuk 
+see: mekan 
+sit: matoran 
+hide: likit 
+skin: likit 
+sleep: kifit 
+little: tutuin 
+small: tutuin 
+smallness: tutuin 
+smoke: kubuŋ 
+star: fituin 
+rock: watu 
+stone: watu 
+swim: naŋu 
+tail: kaku 
+this: ira 
+2 sg: kau 
+thou: kau 
+you: kau 
+tongue: kel 
+tooth: Nisik	ŋisik 
+grind: roti	tóti 
+two: roti	tóti 
+go: taŋgi 
+walk: taŋgi 
+hot: mfanas 
+warm: mfanas 
+water: ar 
+1 pl. inc.: kam	kita 
+we: kam	kita 
+we₁: kam	kita 
+what: la 
+white: futi 
+whiteness: futi 
+who: sei 
+who?: sei 
+female: wawina 
+woman: wawina 
+yellow: kuniŋ 
+distant: rau 
+far: rau 
+dull: maleman 
+heavy: maleman 
+serious: maleman 
+close: ranik	rapat 
+near: ranik	rapat 
+ner: ranik	rapat 
+short: kubut 
+snake: tekis 
+thin: banifis 
+wind: aŋin 
+earthworm: ena kutu 
+worm: ena kutu 
+year: ŋarak 
+2 pl.: kumu 
+ye: kumu 
+you all: kumu 
+3 pl.: sidi 
+they: sidi 
+where: na-iŋgí 
+where?: na-iŋgí 
+when: doan fis 
+when?: doan fis 
+how: manlá 
+how?: manlá 
+other: wown 
+three: tolu 
+four: fa:t	fat 
+five: lim 
+broad: ga|lawa 
+wide: ga|lawa 
+wideness: ga|lawa 
+fat: wodal 
+thick: batolu 
+narrow: korok 
+principal wife: wawina 
+wife: wawina 
+husband: rana 
+his mother: n|ina 
+mother: n|ina 
+my mother: n|ina 
+father: baba 
+his father: baba 
+my father: baba 
+forest: imak	liba 
+woods: imak	liba 
+branch: saŋ 
+stick: saŋ 
+fruit: woi 
+flower: fus 
+grass: imak 
+cord: tali 
+rope: tali 
+flesh: sisia 
+meat: sisia 
+grease: wodal 
+wing: wakị 
+gut: utuk 
+guts: utuk 
+insides: utuk 
+intestine: utuk 
+intestines: utuk 
+back: kotan 
+suck: bus	sorat 
+spit: ginisuk 
+vomit: luak 
+blow: utun 
+breath: fai ŋak 
+breathe: fai ŋak 
+laugh: malif 
+laughter: malif 
+cogitate: hiʔir 
+reflect: hiʔir 
+think: hiʔir 
+smell: fimusi 
+sniff: fimusi 
+afraid: matakut 
+be afraid: matakut 
+fear: matakut 
+fright: matakut 
+alive: liu 
+be alive: liu 
+life: liu 
+live: liu 
+living: liu 
+hunt: leus	musir 
+beat: sakur 
+hit: sakur 
+strike: sakur 
+cut: lait 
+hack: lait 
+cut open: tola 
+split: tola 
+pierce: tewat 
+stab: tewat 
+scratch: fikori 
+dig: kayk 
+stand: mariri 
+drop: ŋgek 
+fall: ŋgek 
+grasp: dahan 
+hold: dahan 
+hold in arm: dahan 
+squeeze: siŋgatan 
+wring: siŋgatan 
+throw: fola 
+bind: wokas 
+fasten: wokas 
+tie: wokas 
+tie up: wokas 
+sew: fi|rait 
+count: reʔen 
+enumerate: reʔen 
+number: reʔen 
+tally: reʔen 
+flow: tauk 
+lake: louk 
+ocean: tasik 
+sea: tasik 
+dust: ubas 
+fog: sawan 
+sky: laŋit 
+bad: garata 
+evil: garata 
+rot: ŋgofak 
+rotten: ŋgofak 
+dirty: galotak 
+filthy: galotak 
+soiled: galotak 
+sharp: matarih 
+blunt: baba 
+damp: kiribotan 
+wet: kiribotan 
+right side: kuanen 
+left: kubalit 
+at: bua 
+in: bua lomin 
+inside: bua lomin 
+and: tura 

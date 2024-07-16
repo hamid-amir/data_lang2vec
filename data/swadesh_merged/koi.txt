@@ -1,0 +1,139 @@
+all: быд 
+every: быд 
+abdomen: кынöм 
+belly: кынöм 
+big: ыджыд 
+bigness: ыджыд 
+large: ыджыд 
+bird: кай 
+bite: курчны 
+black: сьöд 
+blood: vir	вир 
+bone: li	лы 
+breast: mores	морöс 
+breasts: mores	морöс 
+cloud: кымöр 
+cold: кöдзыд 
+come: lok	локны 
+come from: lok	локны 
+be dead: kuv	кувны 
+dead: kuv	кувны 
+die: kuv	кувны 
+dog: pon	пон 
+drink: %yu	юны 
+dry: кос 
+ear: peL	pely~	пель 
+earth: мусяр 
+ground: мусяр 
+land: мусяр 
+soil: мусяр 
+eat: сёйны 
+egg: кольк 
+eye: sin	син 
+feather: гöн 
+fire: bi	би 
+fish: Ceri	чери 
+fly: лэбавны 
+fly v.: лэбавны 
+foot: кок 
+give: сетны 
+good: бур 
+green: турун виж 
+hair: юрси 
+hand: ki 
+left hand: ki 
+right: ki 
+head: юр 
+hear: kiv	кывны 
+heart: сьöлöм 
+horn: %sy~ur	сюр 
+1 sg.: my~e	ме 
+I: my~e	ме 
+knee: pices	pidz~es	пыдзöс 
+be knowledgeable: тöдны 
+know: тöдны 
+leaf: kor	кор 
+liver: mus	мус 
+long: кузь 
+male: айлов 
+man: %mort	морт 
+many: уна 
+much: уна 
+multiple: уна 
+several: уна 
+moon: тöлысь 
+hill: gera	гöра 
+mountain: gera	гöра 
+mouth: вом 
+name: %nim	ним 
+title: %nim	ним 
+new: vi5	vily~	выль 
+night: voy	вой 
+nighttime: voy	вой 
+nose: nir	ныр 
+not: ог 
+adulterous: eti	öти 
+one: eti	öти 
+single: eti	öти 
+that: eti	öти 
+the: eti	öти 
+unprincipled: eti	öти 
+human: %mort	морт 
+human being: %mort	морт 
+person: %mort	морт 
+rain: зэр 
+rainy weather: зэр 
+red: гöрд 
+path: tuy	туй 
+road: tuy	туй 
+route: tuy	туй 
+root: вуж 
+sand: лы 
+say: шуны 
+see: aci	adz~i	аддзыны 
+seed: кöйдыс 
+sit: пукавны 
+hide: кучик 
+skin: кучик 
+sleep: узьны 
+little: дзолыд 
+small: дзолыд 
+smallness: дзолыд 
+smoke: тшын 
+star: kocuv	kodz~uv	кодзув 
+rock: iz	из 
+stone: iz	из 
+swim: уявны 
+tail: бöж 
+this: тайö 
+2 sg: te	тэ 
+thou: te	тэ 
+you: te	тэ 
+tongue: kiv	кыв 
+tooth: pi5	piny~	пинь 
+tree: pu	пу 
+grind: kik	кык 
+two: kik	кык 
+water: va	ва 
+1 pl. inc.: mi	ми 
+we: mi	ми 
+we₁: mi	ми 
+what: мый 
+white: еджыд 
+whiteness: еджыд 
+who: кин	коді 
+who?: кин	коді 
+female: ань 
+woman: ань 
+yellow: кольк виж 
+dull: сьöкыд 
+heavy: сьöкыд 
+serious: сьöкыд 
+close: матын 
+near: матын 
+ner: матын 
+salt: сов 
+short: дзеныд 
+thin: вöснит 
+wind: тöв 
+year: во 

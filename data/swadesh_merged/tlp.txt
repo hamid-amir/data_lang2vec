@@ -1,0 +1,147 @@
+all: putim 
+every: putim 
+ash: Lkaka 
+ashes: Lkaka 
+bark: maqoSqe 
+abdomen: pan 
+belly: pan 
+big: lanka* 
+bigness: lanka* 
+large: lanka* 
+bird: spun 
+bite: Ska 
+black: titeqe 
+blood: qaLni 
+bone: lukutl 
+breast: cikitl 
+breasts: cikitl 
+cloud: pukLni 
+cold: lonqni 
+come: min 
+come from: min 
+be dead: ni 
+dead: ni 
+die: ni 
+dog: CiCi 
+drink: qot 
+dry: skawawa 
+ear: taqen 
+earth: tiyati 
+ground: tiyati 
+land: tiyati 
+soil: tiyati 
+eat: wa 
+egg: qaLwati 
+eye: laqastapu 
+fat: litsilin 
+fat n.: litsilin 
+grease: litsilin 
+lubricant: litsilin 
+oil: litsilin 
+feather: peqe* 
+fire: Lkuyatl 
+fish: skitl 
+fly: qos 
+fly v.: qos 
+foot: tantun 
+full: cama 
+give: miSki 
+good: ce 
+green: Skayiwa* 
+hair: CiSiti 
+hand: makan 
+left hand: makan 
+right: makan 
+head: aqSaqa 
+hear: qaSmat 
+heart: naku 
+horn: aqaloqotl 
+1 sg.: ikitl 
+I: ikitl 
+kill: maqni 
+knee: coqosni 
+be knowledgeable: katsi 
+know: katsi 
+leaf: paLma 
+lie: ma 
+lie down: ma 
+liver: Lwakaka 
+long: Lman 
+head louse: skatl 
+louse: skatl 
+male: Cisku* 
+man: %karastianu 
+many: luLuwa* 
+much: luLuwa* 
+multiple: luLuwa* 
+several: luLuwa* 
+flesh: liwan 
+meat: liwan 
+moon: papa* 
+hill: sipi 
+mountain: sipi 
+mouth: kiLni 
+name: tapakuwitl 
+title: tapakuwitl 
+neck: piSni 
+new: sasti 
+night: cisni 
+nighttime: cisni 
+nose: kinkan 
+not: ni 
+adulterous: tim 
+one: tim 
+single: tim 
+that: cama 
+the: tim 
+unprincipled: tim 
+human: %karastianu 
+human being: %karastianu 
+person: %karastianu 
+rain: sa7in 
+rainy weather: sa7in 
+red: cicoqo 
+path: tixni 
+road: tixni 
+route: tixni 
+root: tanqaSeq 
+say: wan 
+see: laqcin 
+seed: taLc 
+sit: wi 
+hide: mak 
+skin: mak 
+sleep: Ltata 
+little: cinc	tinax 
+small: cinc	tinax 
+smallness: cinc	tinax 
+smoke: xini 
+stand: ya 
+star: staku 
+rock: CiwiS 
+stone: CiwiS 
+sun: CiCini 
+tail: staxan 
+this: ama 
+2 sg: wiS 
+thou: wiS 
+you: wiS 
+tongue: simaqatl 
+tooth: tacan 
+tree: kiwi 
+grind: to 
+two: to 
+go: Lawan 
+walk: Lawan 
+water: CutCutl 
+1 pl. inc.: ikinan 
+we: ikinan 
+we₁: ikinan 
+what: tu 
+white: snapapa 
+whiteness: snapapa 
+who: ti 
+who?: ti 
+female: puskati 
+woman: puskati 
+yellow: smukuku 

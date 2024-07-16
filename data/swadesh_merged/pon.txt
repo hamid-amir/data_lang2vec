@@ -1,0 +1,308 @@
+all: kɔros | koaros 
+and: ō | oh 
+animal: mān 
+ashes: pēs | pehs 
+back: sowe | [pohn] sowe 
+bad: sakanakan | sakanakan	suwed 
+bark: kīl 
+because: pʷe 
+belly: etin mʷeŋe | kapehd 
+bird: menpīr | men|pihr 
+bite: ke | ke	ŋalis 
+black: ṭɔηṭɔi | toantoal 
+blood: nṭa | nta	nt~a 
+blow: peuk | ipihp 
+bone: ṭĩ | tih 
+breast: tīti | didi	dihdi 
+breathe: esiŋek 
+burn: isik 
+child: seri 
+cloud: tepʷek | depwek 
+cold: pou | kopou 
+come: koto | koh	koh- 
+correct: pʷuŋ 
+count: watek | wadek 
+cut: sepe 
+die: mē-la | meh	meh|la 
+dig: teik | weir 
+dirty: pʷelipʷel | pwelipwel 
+dog: kiti | kidi 
+drink: nim 
+dry: mat | mad 
+dull: kons | toutou 
+dust: pʷelipar | pwelipar 
+ear: saleŋ | saleN	saleŋ 
+earth: sampā 
+empty: ṭen 
+eye: pʷoarenmas | mas	pwoaren|mas	pw~oarenmas 
+fall: e-ʔua-lai | lempehdi	pwupw 
+far: to | doh 
+father: sām | pahpa	sahm 
+fat (n.): wī 
+fear: masak 
+few: mʷur 
+fingernail: kikin pē 
+fire: na-xaⁿb | ahi 
+fish: mʷāmʷ | mwahmw	mw~amw~ 
+five: limau 
+float: pei 
+flower: kapʷaţ | kapwat 
+flow: pʷil | pwil 
+fly (v.): pīr 
+fog: ṭɔkoi | toahkoi 
+foot: paṭēn nē 
+forest: nanwel | namwel	wahl 
+four: pāieu | pahieu	pahpa 
+frog: [kairu] 
+fruit: wā | wah 
+full: tir 
+give: kīeŋ 
+good: mʷāu | mwahu 
+grass: tīpʷ | dihpw	reh 
+green: pōntipʷ | pohndipw 
+guts: macŋal | kepwe	pwise 
+hair: piṭenmɔŋ | pitenmoaŋ 
+hand: pē | lime 
+head: mɔ̄ŋ | moahŋ 
+hear: roŋ | roN	roŋ 
+heart: mōŋioŋ 
+heavy: ṭouṭou | toutou 
+he: e 
+hit: pɔkih | keme 
+horn: kote 
+how: ia tuwen | dahduwe 
+husband: pʷout | pwoud 
+if: ma 
+I: ŋēi | Nehi	ŋehi 
+in: nan | loale 
+kill: kamēla | kemehla 
+knee: pʷukie 
+know: ese 
+lake: lē | leh 
+large: laut | laud 
+laugh: kourūr | kouruhr 
+leaf: ṭē | teh 
+left: palimeiŋ 
+leg: nē 
+lie: wenti | wohnohn 
+live: mour 
+liver: ē | eh 
+long: reirei | aŋed	reirei 
+louse: likarak 
+man: ōl | aramas 
+many: ṭōṭō 
+meat: utuk | uduk 
+moon: maram | maram	sounpwoŋ 
+mother: ĩn | ihn	nohno 
+mountain: nāna 
+mouth: āu | ahu 
+name: at | ad	ahd 
+narrow: ṭēṭik | teh|tik 
+near: keren 
+neck: were | [tepin]were 
+new: kapw | kapw	kapw~ 
+night: Pʷōŋ | pwohŋ	pw~oN 
+nose: ṭumʷe | tumwe	tumw~e 
+old: laut 
+one: ēu | ed	ehd	ehu 
+person: aṛamas | aramas 
+play: mʷatoŋ 
+pull: waik 
+push: [pʷūs] 
+rain: keṭeu | keteu 
+red: weiṭāṭa | weitahta 
+right: maun | lime | palimaun 
+river: pillap 
+road: āl | ahl	al 
+root: kaleu | kaleu	kalo 
+rope: sāl | sahl 
+rotten: mat | mat	mwokuhr 
+round: pʷonopʷon 
+rub: iris 
+salt: [sɔ̄l] | soahl 
+sand: pīk | pihk 
+say: nta | dene	nda | pihk 
+sea: sēt | sehd 
+seed: weren ṭūke 
+sew: tēk | dehk	deidei 
+sharp: keŋ 
+short: mʷoṭomʷoṭ | mwotomwot 
+sing: koul 
+sit: mʷõt | mwohd 
+skin: kīl | kihl	kil 
+sky: lāŋ | lahŋ 
+sleep: meir 
+small: ṭikiṭik | pwidikidik 
+smell: iŋir | ned 
+smoke: [adi] 
+smooth: metentel 
+snake: [sinek] 
+some: ekei 
+spit: kentip | kendip 
+split: pʷaik | pwaik 
+stab: tɔkɔ | doakoa	katuk 
+stand: ū | kesihnen	uh 
+star: usu 
+stick: sokon | rah 
+straight: inen 
+suck: mīk | kuhl 
+sun: sou 
+tail: iki | iki	pwaidai 
+they: īr | ihr 
+thick: mosul 
+think: metewe | madamadau 
+thin: menipinip 
+thou: ke | kow	kowe 
+thou: kumʷa | kow	kowe 
+three: silū | siluh 
+throw: kese 
+tie: pire | pire	salih 
+tongue: lāu | lahu	loh 
+tooth: ŋī | Nih	ŋih 
+turn: welik 
+two: riau | ria-u	riau 
+vomit: mmʷus | mmwus 
+warm: karakar 
+wet: wisekesek 
+what: tā | dah 
+when: iāt | iahd 
+which: mēnia 
+white: pʷeṭepʷeṭ | pwetepwet 
+who: īs | ihs 
+why: menta 
+wide: ṭēlap | teh|lap 
+wind: āŋ | ahŋ 
+wing: p℮ | peh 
+woman: lī | lih 
+worm: kamʷeḍel | kamwetel 
+wrong: sapʷuŋ 
+year: sounpar | [soun]pahr 
+yellow: ɔŋɔ̄ŋ | oaŋoahŋ 
+every: koaros 
+ash: pehs 
+abdomen: kapehd 
+big: laud 
+bigness: laud 
+breasts: didi	dihdi 
+burn tr.: isik 
+come from: koh	koh- 
+be dead: meh	meh|la 
+dead: meh	meh|la 
+eat: kaŋ 
+egg: damaŋo	kutohr 
+feather: wine 
+fly: pihr 
+fly v.: pihr 
+left hand: lime 
+1 sg.: Nehi	ŋehi 
+be knowledgeable: ese 
+lie down: wohnohn 
+head louse: likarak 
+male: ohl 
+title: ad	ahd 
+nighttime: pwohŋ	pw~oN 
+adulterous: ed	ehd	ehu 
+single: ed	ehd	ehu 
+that: -o	en 
+the: ed	ehd	ehu 
+unprincipled: ed	ehd	ehu 
+human: aramas 
+human being: aramas 
+rainy weather: keteu 
+path: ahl	al 
+route: ahl	al 
+see: kilaN	kilaŋ 
+hide: kihl	kil 
+little: pwidikidik 
+smallness: pwidikidik 
+smoke: adi 
+rock: takai 
+stone: takai 
+swim: pap 
+this: e[t] 
+2 sg: kow	kowe 
+you: kow	kowe 
+grind: ria-u	riau 
+go: alu 
+walk: alu 
+hot: karakar 
+water: pihl	pil 
+1 pl. inc.: kiht	kit 
+we: kiht	kit 
+we₁: kiht	kit 
+whiteness: pwetepwet 
+who?: ihs 
+female: lih 
+distant: doh 
+serious: toutou 
+close: keren 
+ner: keren 
+snake: sinek 
+earthworm: kamwetel 
+2 pl.: kumwail 
+ye: kumwail 
+you all: kumwail 
+3 pl.: ihr 
+where: iawasa 
+where?: iawasa 
+when?: iahd 
+how?: dahduwe 
+other: tei 
+broad: teh|lap 
+wideness: teh|lap 
+fat: wih 
+principal wife: pwoud 
+wife: pwoud 
+his mother: ihn	nohno 
+my mother: ihn	nohno 
+his father: pahpa	sahm 
+my father: pahpa	sahm 
+woods: namwel	wahl 
+branch: rah 
+cord: sahl 
+flesh: uduk 
+grease: wih 
+gut: kepwe	pwise 
+insides: kepwe	pwise 
+intestine: kepwe	pwise 
+intestines: kepwe	pwise 
+breath: esiŋek 
+laughter: kouruhr 
+cogitate: madamadau 
+reflect: madamadau 
+sniff: ned 
+afraid: masak 
+be afraid: masak 
+fright: masak 
+alive: mour 
+be alive: mour 
+life: mour 
+living: mour 
+beat: keme 
+strike: keme 
+hack: sepe 
+cut open: pwaik 
+pierce: doakoa	katuk 
+scratch: karipwude 
+drop: lempehdi	pwupw 
+grasp: kol 
+hold: kol 
+hold in arm: kol 
+squeeze: iŋidpene	weŋid 
+wring: iŋidpene	weŋid 
+bind: pire	salih 
+fasten: pire	salih 
+tie up: pire	salih 
+enumerate: wadek 
+number: wadek 
+tally: wadek 
+ocean: sehd 
+evil: sakanakan	suwed 
+rot: mat	mwokuhr 
+filthy: pwelipwel 
+soiled: pwelipwel 
+blunt: kons 
+damp: wisekesek 
+right side: palimaun 
+at: ni[n] 
+inside: loale 

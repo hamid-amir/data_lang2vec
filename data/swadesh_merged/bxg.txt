@@ -1,0 +1,325 @@
+all: nyɔ́sɔ 
+every: nyɔ́sɔ 
+ash: liburú	putrú	putulú 
+ashes: liburú	putrú	putulú 
+bark: kpɔtɔ	pɔsɔ 
+abdomen: liɓumu	sɔpɔ́ 
+belly: liɓumu	sɔpɔ́ 
+big: mukrú	mukúrú	mulaí	munɛ́nɛ	mɔnɛ́nɛ 
+bigness: mukrú	mukúrú	mulaí	munɛ́nɛ	mɔnɛ́nɛ 
+large: mukrú	mukúrú	mulaí	munɛ́nɛ	mɔnɛ́nɛ 
+bird: ndɛkɛ 
+bite: kukáta	kulúma	kusuá 
+black: dígídígí	muíndo	muíndu	ɓépí 
+blood: makila	makilá	makira	makíra 
+bone: mukua	mukúa 
+breast: pEnj~E	panz~i	panzí	pɛ́njɛ́ 
+breasts: pEnj~E	panz~i	panzí	pɛ́njɛ́ 
+cloud: mapata 
+cold: pío	píu 
+come: bia	kubia	kuía	kuúta	uta 
+come from: bia	kubia	kuía	kuúta	uta 
+be dead: kufa	kukáta mɔtɛ́ma	kukúfa 
+dead: kufa	kukáta mɔtɛ́ma	kukúfa 
+die: kufa	kukáta mɔtɛ́ma	kukúfa 
+dog: Embw$a	gb~ogb~o	gbógbó	ɛ́mbwa 
+drink: kumila	kumɛla	mEla	mila 
+dry: kukauka 
+ear: masikiyo	masikíyo 
+earth: maɓelé 
+ground: maɓelé 
+land: maɓelé 
+soil: maɓelé 
+eat: kulía 
+egg: makiá	mayáya	párákɔ́ndɔ́ 
+eye: miso	misu	míso	mísu 
+feather: mayáni 
+fire: moto	mɔ́tɔ 
+fish: mb~isi	mbísi	samaki	samáki 
+fly: kupumbwa 
+fly v.: kupumbwa 
+foot: gbagaza	magulu	magɔrɔ 
+full: mEkE	ma	má	mɛkɛ́ 
+give: kugaba	kupɛ́sa 
+good: malámu	muzúri	ngóni 
+green: mogugu	moɓísi 
+hair: súki 
+hand: maboko 
+left hand: maboko 
+right: maboko 
+head: mutú 
+hear: kuúka	uka 
+heart: mɔtɛ́ma 
+horn: gb~aNg~a	gbǎngá	lisEkE	lisɛ́kɛ́ 
+1 sg.: Ng~ai	ngái 
+I: Ng~ai	ngái 
+kill: kuɓuma	kuɓúngula 
+knee: digb~a	digbá	maboloNg~o	maɓɔ́lɔ́ngɔ́ 
+be knowledgeable: kuzába	kuíba 
+know: kuzába	kuíba 
+leaf: kasa	kásá 
+liver: fokofoko	fɔkɔfɔkɔ	lifw~a	lifwǎ	moɓáli 
+long: mulaí 
+head louse: sili 
+louse: sili 
+male: molómé 
+man: mutu 
+many: míngi 
+much: míngi 
+multiple: míngi 
+several: míngi 
+moon: sánzá	sɛ́nzá 
+hill: Ng~umb~a	gaNg~ala	gangalá	ngúmbá	ngɔ́mbá 
+mountain: Ng~umb~a	gaNg~ala	gangalá	ngúmbá	ngɔ́mbá 
+mouth: munɔkɔ	mɔnɔkɔ 
+name: komb~o	kɔ́mbɔ́ 
+title: komb~o	kɔ́mbɔ́ 
+neck: kíngó 
+new: sika 
+night: bitima	butu	bítímá	ɓutú 
+nighttime: bitima	butu	bítímá	ɓutú 
+nose: soNg~o	sɔ́ngɔ́ 
+not: … tɛ́ 
+adulterous: moko	mɔ́kɔ́ 
+one: moko	mɔ́kɔ́ 
+single: moko	mɔ́kɔ́ 
+that: wâná 
+the: moko	mɔ́kɔ́ 
+unprincipled: moko	mɔ́kɔ́ 
+human: mutu 
+human being: mutu 
+person: mutu 
+rain: mbúla 
+rainy weather: mbúla 
+red: mutání 
+path: balabala	barabára	zero	zeró	ɓalaɓála 
+road: balabala	barabára	zero	zeró	ɓalaɓála 
+route: balabala	barabára	zero	zeró	ɓalaɓála 
+root: mosisá	tína 
+round: kílíkílí 
+sand: kɛ́nzɛ	mbúmɛ́	zélo 
+say: kuluɓa 
+see: kumúna	kumɔ́na	kumɛ́na	mEna	muna 
+seed: nyǎ	telía	tilía	tiría 
+sit: kufánda	kukisa	kuvánda 
+hide: kp~oto	kpɔtɔ	poso	pɔsɔ 
+skin: kp~oto	kpɔtɔ	poso	pɔsɔ 
+sleep: kulála 
+little: békúsé	fíkífíkí	mukɛ́	mɔkɛ́ 
+small: békúsé	fíkífíkí	mukɛ́	mɔkɛ́ 
+smallness: békúsé	fíkífíkí	mukɛ́	mɔkɛ́ 
+smoke: múlinga 
+star: minz~oto	minzóto	nyongi	nyɔ́ta	yoNg~i	yongi 
+rock: libaNg~a	libugu	liɓogó	liɓugú	liɓángá 
+stone: libaNg~a	libugu	liɓogó	liɓugú	liɓángá 
+sun: mui	muni	móní	múi	múní 
+swim: kunyanya	kuwágia 
+tail: kɔndɔ́	mokíla	mɔkɔndɔ́ 
+this: óyo 
+2 sg: yo	yó 
+thou: yo	yó 
+you: yo	yó 
+tongue: Edada	dada	ɗáɗá	ɛɗáɗá 
+tooth: mEno	mɛ́nɔ	pEmbE	pɛ́mbɛ́ 
+tree: ndeté	nd~ete	nzeté	nz~ete 
+grind: de	dé	mibali	míɓalí 
+two: de	dé	mibali	míɓalí 
+go: kutámbula 
+walk: kutámbula 
+hot: kuzúnga 
+warm: kuzúnga 
+water: mai	maliba	maliɓa	mái 
+1 pl. inc.: bisu	bísú 
+we: bisu	bísú 
+we₁: bisu	bísú 
+what: níni 
+white: kɛ́sɛ́kɛ́sɛ́	pɛ́	pɛ́mbɛ́ 
+whiteness: kɛ́sɛ́kɛ́sɛ́	pɛ́	pɛ́mbɛ́ 
+who: náni 
+who?: náni 
+female: mukárí	mwásí 
+woman: mukárí	mwásí 
+yellow: manzánɔ 
+distant: musíká 
+far: musíká 
+dull: kiló	molito	mulito	muzíto	tóni 
+heavy: kiló	molito	mulito	muzíto	tóni 
+serious: kiló	molito	mulito	muzíto	tóni 
+close: pembéni	pɛnɛ	pɛnɛpɛnɛ 
+near: pembéni	pɛnɛ	pɛnɛpɛnɛ 
+ner: pembéni	pɛnɛ	pɛnɛpɛnɛ 
+salt: munaná	munɛnɛ́	múngba	tíkpɔ́ 
+short: békúsé	mukúsé 
+snake: nyɔ́ka 
+thin: bɛlɛbɛlɛ	fíkífíkí	fɛkɛfɛkɛ	kangékangé 
+wind: mupɛpɛ 
+earthworm: kpɔ́tɔ 
+worm: kpɔ́tɔ 
+year: ané	mbúla 
+3 sg.: yé 
+he: yé 
+she: yé 
+2 pl.: bínú 
+ye: bínú 
+you all: bínú 
+3 pl.: bangó 
+they: bangó 
+here: áwa 
+there: kúná	wâná 
+where: wápi 
+where?: wápi 
+when: tángo	tángu 
+when?: tángo	tángu 
+how: ɓóníɓóní	ɓúníɓúní 
+how?: ɓóníɓóní	ɓúníɓúní 
+few: mukɛ́	mɔkɛ́ 
+other: musúsu 
+three: mísáto 
+four: kátrɛ	míne 
+five: mítáno	páta 
+broad: mulaí 
+wide: mulaí 
+wideness: mulaí 
+fat: mafúta 
+thick: búsúbusu	kpákí	munɛ́nɛ	mɔnɛ́nɛ 
+narrow: mukɛ́	mɔkɛ́ 
+child: mutɔ́tɔ	mwǎna 
+principal wife: bolóngani	mukárí	mwási 
+wife: bolóngani	mukárí	mwási 
+husband: bolóngani	muɓáli 
+his mother: mamá 
+mother: mamá 
+my mother: mamá 
+father: babá	papá	tatá 
+his father: babá	papá	tatá 
+my father: babá	papá	tatá 
+animal: nyama 
+forest: zámba 
+woods: zámba 
+branch: ndeté	nzeté 
+stick: ndeté	nzeté 
+fruit: mbuma 
+flower: feléle 
+grass: matíti	mayáni 
+cord: kámba	manyɔrɔ́rɔ	mugbɛ́lɛ́	munyɔlɔ́lɔ	singa 
+rope: kámba	manyɔrɔ́rɔ	mugbɛ́lɛ́	munyɔlɔ́lɔ	singa 
+flesh: musuni	nyama 
+meat: musuni	nyama 
+grease: mafúta 
+claw: manjáka	manzáka	nzɔ́ngɔ́lɔ́nzɔ́ 
+fingernail: manjáka	manzáka	nzɔ́ngɔ́lɔ́nzɔ́ 
+nail: manjáka	manzáka	nzɔ́ngɔ́lɔ́nzɔ́ 
+leg: magulu	magɔrɔ 
+arm: maɓɔ́kɔ 
+wing: mapapá	mapapú 
+gut: sɔpɔ́ 
+guts: sɔpɔ́ 
+insides: sɔpɔ́ 
+intestine: sɔpɔ́ 
+intestines: sɔpɔ́ 
+back: gongú	magɔngɔ	mɔkɔngɔ 
+suck: kuɗanda 
+spit: kutupa 
+vomit: kusánza 
+blow: kupulisa	kupɛpa 
+breath: kupima 
+breathe: kupima 
+laugh: kusika	kusɛka 
+laughter: kusika	kusɛka 
+cogitate: kukanisa	kuɓánza 
+reflect: kukanisa	kuɓánza 
+think: kukanisa	kuɓánza 
+smell: kunúsa 
+sniff: kunúsa 
+afraid: kuɓánga 
+be afraid: kuɓánga 
+fear: kuɓánga 
+fright: kuɓánga 
+alive: kuvánda 
+be alive: kuvánda 
+life: kuvánda 
+live: kuvánda 
+living: kuvánda 
+fight: kupikana	kuɓunda 
+beat: kupika	kuɓúla	kuɓɛ́ta 
+hit: kupika	kuɓúla	kuɓɛ́ta 
+strike: kupika	kuɓúla	kuɓɛ́ta 
+cut: kukákata	kukáta 
+hack: kukákata	kukáta 
+cut open: kupasula 
+split: kupasula 
+scratch: kukpɛra	kuvɔta 
+dig: kutímula 
+lie: kulálisana 
+lie down: kulálisana 
+tell lies: kulálisana 
+stand: kulamuka	kusimama	kutílima	kutɛ́lɛma 
+turn: kupindɔla 
+turn around: kupindɔla 
+turn round: kupindɔla 
+drop: kukpía 
+fall: kukpía 
+grasp: kukamata 
+hold: kukamata 
+hold in arm: kukamata 
+squeeze: kukangisa 
+wring: kukangisa 
+wash: kusukula 
+wash clothes: kusukula 
+wipe: kupangisa	kupangusa 
+pull: kubinda	kukɔkɔta 
+push: kusukuma	kutíndika 
+shove: kusukuma	kutíndika 
+throw: kuɓwáka 
+bind: kuwámbisa 
+fasten: kuwámbisa 
+tie: kuwámbisa 
+tie up: kuwámbisa 
+sew: kusuna	kusɔna 
+count: kutánga 
+enumerate: kutánga 
+number: kutánga 
+tally: kutánga 
+sing: kunzɛ́mba	kuyémba 
+have fun: kusakana	kusana 
+play: kusakana	kusana 
+float: kuwágia 
+swell: kuvímba 
+brook: maliɓa	mái 
+river: maliɓa	mái 
+stream: maliɓa	mái 
+lake: tanganíka 
+ocean: etíma	mbu 
+sea: etíma	mbu 
+dust: putrú	putulú 
+fog: kungúku	matútú 
+sky: lɔ́ra 
+blaze: kupila	kupɛla	kuzíga	kuzíka 
+burn: kupila	kupɛla	kuzíga	kuzíka 
+day: mukɔlɔ	mukɔrɔ	móní	múi	múní	zúru 
+daylight: mukɔlɔ	mukɔrɔ	móní	múi	múní	zúru 
+daytime: mukɔlɔ	mukɔrɔ	móní	múi	múní	zúru 
+old: kala	zamáni 
+bad: mabé 
+evil: mabé 
+rot: kumbanga	kupula	kupɔla 
+rotten: kumbanga	kupula	kupɔla 
+dirty: kukpaɗa	kupɔta 
+filthy: kukpaɗa	kupɔta 
+soiled: kukpaɗa	kupɔta 
+straight: alimá	sawasáwa 
+sharp: kupila	kupɛla 
+blunt: gbututu 
+smooth: landalanda	lɛndɛlɛndɛ 
+damp: kupula	kupɔla 
+wet: kupula	kupɔla 
+correct: alimá	sawasáwa 
+right side: dwáte	ya lobóko ya mobáli 
+left: gósi	ya lobóko ya mwási 
+at: na	o 
+in: na	o 
+inside: na	o 
+with: na 
+and: na	pé 
+if: sɔ́kí	sɔ́kɔ́ 
+because: zambí 

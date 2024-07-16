@@ -1,0 +1,265 @@
+all: tanan 
+every: tanan 
+ash: abo 
+ashes: abo 
+abdomen: tijan 
+belly: tijan 
+big: daku 
+bigness: daku 
+large: daku 
+bird: langam 
+bite: banga 
+black: itom 
+blood: dugo7	dugò 
+bone: bukog 
+breast: dub-dub	dubdub	suso 
+breasts: dub-dub	dubdub	suso 
+burn: sunog 
+burn tr.: sunog 
+cloud: gabon	panganud 
+cold: tignaw 
+come: dali7	dalì	kare	mokare	mukanhe 
+come from: dali7	dalì	kare	mokare	mukanhe 
+be dead: patay 
+dead: patay 
+die: patay 
+dog: ido	tito 
+drink: inom 
+dry: maya 
+ear: taliNa	talinga 
+eat: kaon	tuyun 
+egg: itlog 
+eye: mata 
+feather: balhibo	barhibo 
+fire: kayajo	layit	siga 
+fish: isda 
+fly: lupad 
+fly v.: lupad 
+good: maradjao 
+green: grin 
+hair: bohok 
+hand: alima	kumagko 
+left hand: alima	kumagko 
+right: alima	kumagko 
+head: oyo 
+hear: duNog	dungog	kabati 
+1 sg.: ako 
+I: ako 
+kill: patjun 
+be knowledgeable: kabayo	kahibayo 
+know: kabayo	kahibayo 
+leaf: dahon	dàhon 
+lie: higda 
+lie down: higda 
+liver: atay 
+long: laba	taas 
+head louse: kuto	kuyamad	lusa 
+louse: kuto	kuyamad	lusa 
+male: layake 
+man: tawo 
+moon: buyan 
+mouth: bà-bà 
+name: Nayan	ngayan 
+title: Nayan	ngayan 
+neck: liog 
+new: bag-o	bag7~o	bago 
+night: duyom 
+nighttime: duyom 
+nose: iloN	ilong 
+adulterous: isa	qəsa- 
+one: isa	qəsa- 
+single: isa	qəsa- 
+that: iton 
+the: isa	qəsa- 
+unprincipled: isa	qəsa- 
+human: tawo 
+human being: tawo 
+person: tawo 
+rain: uyan 
+rainy weather: uyan 
+red: puya 
+path: dayan	karsada 
+road: dayan	karsada 
+route: dayan	karsada 
+root: gamot 
+sand: buhangin 
+say: lang-on	laong	sulti 
+see: kita 
+sit: inkod 
+hide: panit 
+skin: panit 
+sleep: tagtuyog	tuyog 
+little: gamay 
+small: gamay 
+smallness: gamay 
+smoke: aso 
+star: bito-on	bito7on	biton 
+rock: bato 
+stone: bato 
+swim: molangóy 
+tail: ikog 
+this: ini 
+2 sg: ikaw 
+thou: ikaw 
+you: ikaw 
+tongue: dila	tila 
+tooth: Nipon	ngipon 
+grind: duha	duhá- 
+two: duha	duhá- 
+go: mupanaw	panaw	panaw-panaw 
+walk: mupanaw	panaw	panaw-panaw 
+hot: init	pasu 
+warm: init	pasu 
+water: tubig 
+1 pl. inc.: kita 
+we: kita 
+we₁: kita 
+what: ono 
+white: puti 
+whiteness: puti 
+who: sin-o 
+who?: sin-o 
+female: babaje 
+woman: babaje 
+distant: lajo 
+far: lajo 
+dull: bug-at 
+heavy: bug-at 
+serious: bug-at 
+close: su-od 
+near: su-od 
+ner: su-od 
+salt: asin 
+short: mobo 
+snake: hayas	sawa 
+thin: gamay	nipis	niwang 
+wind: hangin 
+earthworm: uyod 
+worm: uyod 
+year: tu-ig 
+2 pl.: kamo 
+ye: kamo 
+you all: kamo 
+3 pl.: sila 
+they: sila 
+where: ha-in	haman 
+where?: ha-in	haman 
+when: kanus-a	kon-o 
+when?: kanus-a	kon-o 
+how: unhun	unsaon 
+how?: unhun	unsaon 
+other: isa	la-in 
+three: tuyo	tuyú- 
+four: qəpát	upat 
+five: lima	limá- 
+broad: hawag	luwag 
+wide: hawag	luwag 
+wideness: hawag	luwag 
+fat: taba 
+thick: baga	damo 
+narrow: hu-ot 
+principal wife: asawa 
+wife: asawa 
+husband: bana 
+his mother: nanay 
+mother: nanay 
+my mother: nanay 
+father: tatay 
+his father: tatay 
+my father: tatay 
+forest: guyangan	kakahojan 
+woods: guyangan	kakahojan 
+branch: sanga 
+stick: sanga 
+fruit: bunga 
+flower: búyak 
+grass: sagbut 
+cord: pisi 
+rope: pisi 
+flesh: carne	unod 
+meat: carne	unod 
+grease: taba 
+wing: ampak 
+gut: tinà-i 
+guts: tinà-i 
+insides: tinà-i 
+intestine: tinà-i 
+intestines: tinà-i 
+back: likod 
+suck: sojop	sup-sup 
+spit: luda 
+vomit: suka 
+blow: hujop 
+breath: ginhawa 
+breathe: ginhawa 
+laugh: katawa 
+laughter: katawa 
+cogitate: huna-huna 
+reflect: huna-huna 
+think: huna-huna 
+smell: simhut 
+sniff: simhut 
+afraid: hadluk	kahadlok 
+be afraid: hadluk	kahadlok 
+fear: hadluk	kahadlok 
+fright: hadluk	kahadlok 
+alive: buhi 
+be alive: buhi 
+life: buhi 
+live: buhi 
+living: buhi 
+hunt: manganup	tiro 
+beat: bunajan	bunay	sumbag	suntok 
+hit: bunajan	bunay	sumbag	suntok 
+strike: bunajan	bunay	sumbag	suntok 
+cut: hiwa	putdon	putod	tigbas 
+hack: hiwa	putdon	putod	tigbas 
+cut open: bok-on	buyaagon	pikason 
+split: bok-on	buyaagon	pikason 
+pierce: buno 
+stab: buno 
+scratch: dukag	kayut 
+dig: bangag	kabot	lungag	lungagi 
+stand: tindog 
+drop: huyog	mawagak 
+fall: huyog	mawagak 
+grasp: gunit	kaput	koput 
+hold: gunit	kaput	koput 
+hold in arm: gunit	kaput	koput 
+squeeze: piga 
+wring: piga 
+throw: labak 
+bind: bugkot	hikot 
+fasten: bugkot	hikot 
+tie: bugkot	hikot 
+tie up: bugkot	hikot 
+sew: tahi 
+count: bilang	magbilang 
+enumerate: bilang	magbilang 
+number: bilang	magbilang 
+tally: bilang	magbilang 
+flow: aagas 
+lake: suba 
+ocean: dagat	lawud 
+sea: dagat	lawud 
+dust: abug 
+fog: gabon-gabon	tunog 
+sky: langit 
+bad: da-utan	maya-ut 
+evil: da-utan	maya-ut 
+rot: gabuk	pan-us 
+rotten: gabuk	pan-us 
+dirty: lipa 
+filthy: lipa 
+soiled: lipa 
+sharp: hait 
+blunt: siwang 
+damp: basa 
+wet: basa 
+right side: túo 
+left: waya 
+at: sa 
+in: sa suyud 
+inside: sa suyud 
+and: og 
+if: kon 

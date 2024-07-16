@@ -1,0 +1,334 @@
+all: alle	allegear 
+every: alle	allegear 
+ash: jiske 
+ashes: jiske 
+bark: bast 
+abdomen: búk 
+belly: búk 
+big: grut 
+bigness: grut 
+large: grut 
+bird: fûgel 
+bite: bite 
+black: swart 
+blood: bloed	blu3t 
+bone: boNk3	bonke 
+breast: bast	bo3st	boarst 
+breasts: bast	bo3st	boarst 
+cloud: wolk 
+cold: kâld 
+come: kom3	komme 
+come from: kom3	komme 
+be dead: deagean	di3gi3n	stjerre	sty~Er3 
+dead: deagean	di3gi3n	stjerre	sty~Er3 
+die: deagean	di3gi3n	stjerre	sty~Er3 
+dog: hun	hûn 
+drink: driNk3	drinke 
+dry: droech 
+ear: ear	i3r 
+earth: ierde 
+ground: ierde 
+land: ierde 
+soil: ierde 
+eat: ite 
+egg: aai 
+eye: each	i3x 
+feather: fear 
+fire: fjoer	fy~u3r 
+fish: fisk 
+fly: fleane 
+fly v.: fleane 
+foot: foet 
+full: fol 
+give: jaan 
+good: goed 
+green: grien 
+hair: hier 
+hand: hon 
+left hand: hon 
+right: hon 
+head: holle 
+hear: hearre	hi3r3	hy~Er3 
+heart: hert 
+horn: ho3n	hoarn	hw~an 
+1 sg.: ik 
+I: ik 
+kill: deadwaan	deadzje 
+knee: knib3l	knibbel 
+be knowledgeable: witte 
+know: witte 
+leaf: blEt	blêd	loaf 
+liver: lever	lew3r 
+long: lang 
+head louse: biter	lis	lús 
+louse: biter	lis	lús 
+male: man 
+man: mi*nsk	minske 
+many: gâns	in protte	in soad	mannich 
+much: gâns	in protte	in soad	mannich 
+multiple: gâns	in protte	in soad	mannich 
+several: gâns	in protte	in soad	mannich 
+moon: moanne 
+hill: bErx	berch 
+mountain: bErx	berch 
+mouth: mûle 
+name: nam3	namme 
+title: nam3	namme 
+neck: nekke 
+new: nEi	nEy	nij 
+night: nacht	nat 
+nighttime: nacht	nat 
+nose: nas3	nes	noas 
+not: net 
+adulterous: i3n	ien	yin 
+one: i3n	ien	yin 
+single: i3n	ien	yin 
+that: dat 
+the: i3n	ien	yin 
+unprincipled: i3n	ien	yin 
+human: mi*nsk	minske 
+human being: mi*nsk	minske 
+person: mi*nsk	minske 
+rain: reine 
+rainy weather: reine 
+red: read 
+path: dEik	dik	dyk	reed	wei 
+road: dEik	dik	dyk	reed	wei 
+route: dEik	dik	dyk	reed	wei 
+root: woartel 
+round: rûn 
+sand: sân 
+say: sizze 
+see: sjen	sy~En 
+seed: sied 
+sit: sitte 
+hide: hut	hûd 
+skin: hut	hûd 
+sleep: sliepe 
+little: lyts 
+small: lyts 
+smallness: lyts 
+smoke: smoke 
+star: stjer	sty~Er 
+rock: sti3n	stien 
+stone: sti3n	stien 
+sun: sin3	sinne 
+swim: swimme 
+tail: sturt 
+this: dit	dizze 
+2 sg: do	jo	yo 
+thou: do	jo	yo 
+you: do	jo	yo 
+tongue: toN3	toNg3	tonge 
+tooth: tosk 
+tree: beam	bi3m	by~Em 
+grind: tva	twa	tw~a 
+two: tva	twa	tw~a 
+go: rinne 
+walk: rinne 
+hot: waarm 
+warm: waarm 
+water: vEt3r	wetter 
+1 pl. inc.: vEi	wy 
+we: vEi	wy 
+we₁: vEi	wy 
+what: wat 
+white: wyt 
+whiteness: wyt 
+who: wa 
+who?: wa 
+female: frou 
+woman: frou 
+yellow: giel 
+distant: fier 
+far: fier 
+dull: swier 
+heavy: swier 
+serious: swier 
+close: tichteby 
+near: tichteby 
+ner: tichteby 
+salt: sâlt 
+short: koart 
+snake: slang 
+thin: tin 
+wind: wyn 
+earthworm: wjirm 
+worm: wjirm 
+year: jier 
+3 sg.: er	hy 
+he: er	hy 
+she: er	hy 
+2 pl.: jimme	me 
+ye: jimme	me 
+you all: jimme	me 
+3 pl.: hja	sy 
+they: hja	sy 
+here: hjir 
+there: dêr 
+where: wêr 
+where?: wêr 
+when: hoenear	wannear 
+when?: hoenear	wannear 
+how: hoe 
+how?: hoe 
+some: guon	sommige 
+few: inkele 
+other: oare 
+three: trije 
+four: fjouwer 
+five: fiif 
+broad: breed	wiid 
+wide: breed	wiid 
+wideness: breed	wiid 
+fat: fet 
+thick: dik 
+narrow: smel 
+child: bern 
+principal wife: frou	wiif 
+wife: frou	wiif 
+husband: man 
+his mother: mem 
+mother: mem 
+my mother: mem 
+father: heit 
+his father: heit 
+my father: heit 
+animal: bist 
+forest: wâld 
+woods: wâld 
+branch: stok 
+stick: stok 
+fruit: fruit 
+flower: blom 
+grass: gers 
+cord: tou 
+rope: tou 
+flesh: fleis 
+meat: fleis 
+grease: fet 
+claw: fingerneil	neille 
+fingernail: fingerneil	neille 
+nail: fingerneil	neille 
+leg: skonk 
+arm: hân 
+wing: flerk	wjuk 
+gut: termen 
+guts: termen 
+insides: termen 
+intestine: termen 
+intestines: termen 
+back: rêch	tebek 
+suck: sûchje 
+spit: spuie 
+vomit: kotse	oerjaan 
+blow: blaze 
+breath: asemje	sykhelje 
+breathe: asemje	sykhelje 
+laugh: laitsje 
+laughter: laitsje 
+cogitate: tinke 
+reflect: tinke 
+think: tinke 
+smell: rûke 
+sniff: rûke 
+afraid: bang wêze 
+be afraid: bang wêze 
+fear: bang wêze 
+fright: bang wêze 
+alive: libje 
+be alive: libje 
+life: libje 
+live: libje 
+living: libje 
+fight: fjochtsje 
+hunt: jeie 
+beat: reitsje	slaan 
+hit: reitsje	slaan 
+strike: reitsje	slaan 
+cut: snije 
+hack: snije 
+cut open: splite 
+split: splite 
+pierce: stekke 
+stab: stekke 
+scratch: skraabje 
+dig: grave 
+lie: lizze 
+lie down: lizze 
+tell lies: lizze 
+stand: stean 
+turn: draaie 
+turn around: draaie 
+turn round: draaie 
+drop: falle 
+fall: falle 
+grasp: hâlde 
+hold: hâlde 
+hold in arm: hâlde 
+squeeze: knipe 
+wring: knipe 
+rub: rosse 
+wipe: feie 
+wash: waskje 
+wash clothes: waskje 
+pull: lûke 
+push: triuwe 
+shove: triuwe 
+throw: goaie 
+bind: bine 
+fasten: bine 
+tie: bine 
+tie up: bine 
+sew: naaie 
+count: telle 
+enumerate: telle 
+number: telle 
+tally: telle 
+sing: sjonge 
+have fun: boartsje	spylje 
+play: boartsje	spylje 
+float: driuwe 
+flow: floeie 
+freeze: frieze 
+swell: swolgje 
+brook: rivier 
+river: rivier 
+stream: rivier 
+lake: mar 
+ocean: see 
+sea: see 
+dust: stof 
+fog: dize 
+sky: loft 
+snow: snie 
+ice: iis 
+blaze: bârne 
+burn: bârne 
+day: dei 
+daylight: dei 
+daytime: dei 
+old: âld 
+bad: min 
+evil: min 
+rot: ferrotte 
+rotten: ferrotte 
+dirty: smoarch 
+filthy: smoarch 
+soiled: smoarch 
+straight: rjocht 
+sharp: skerp 
+blunt: stomp 
+smooth: glêd 
+damp: wiet 
+wet: wiet 
+correct: korrekt 
+right side: rjochts 
+left: lofts 
+at: iet 
+in: yn 
+inside: yn 
+with: mei 
+and: en 
+if: at 
+because: omdat 

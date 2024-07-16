@@ -1,0 +1,483 @@
+all: huruane | soiyãõ 
+all: huru(ane) | soiyãõ 
+all: soiyaa | soiyãõ 
+all: soiya͂o͂ | soiyãõ 
+all: susubatɔ | soiyãõ 
+arm: daboga͂ 
+arm: kari 
+arm: koto 
+arm: nabu 
+arm: nʌbɔ 
+arrow: tati 
+ashes: dasubu 
+ashes: nisipu | dasubu 
+back: bëligi 
+back: bʌligi 
+back: pagi 
+back: pa-ki 
+back: para-ki 
+back: pari-ki 
+bad: watere-(y) 
+bark: ifa kadofo 
+bark: (ifa) kadòfò | ifa kadofo 
+bark: kadɔfɔ | ifa kadofo 
+bark: kɔfɔtɔ͂ | ifa kadofo 
+belly: hago͂mo | hagõmo 
+belly: hagòmɔ̃ | hagõmo 
+belly: hagɔ͂mɔ͂ | hagõmo 
+belly: pɔlɛ | hagõmo 
+big: bagade 
+big: bògade | bagade 
+big: bɔgade | bagade 
+big: edefʌde | bagade 
+bird: hayʌ | hega	mäni 
+bird: hega | hega	mäni 
+bird: mäni | hega	mäni 
+bird: mäni | hega	mäni 
+bite: kasuma | kasume- 
+bite: kasume- 
+bite: mihɪ͂sippɛ͂ | kasume- 
+black: amunï-bui | bunumai 
+black: bunumai 
+black: nasɔbe | bunumai 
+black: suä | bunumai 
+black: yʌbui | bunumai 
+blood: häːle | heale 
+blood: hä:le | heale 
+blood: heale 
+blood: hiʌle | heale 
+blow: fura- 
+blow: φura- 
+bone: kasa 
+bone: -ki | kasa 
+bone: kiwiː | kasa 
+bone: koso | kasa 
+breast: toto 
+breast: tòtò | toto 
+breast: tɔtɔ | toto 
+brother: orɛ 
+brother: sama 
+burn: gbe 
+burn: kobe- 
+burn: nelo:be 
+burn: neloːbe 
+burn: nulukuʌ 
+cassowary: wida 
+cheek: pä 
+cheek: pä 
+child: mãlõ 
+child: mãnõ 
+child: ma͂ro͂ ~ ma͂no͂ 
+chin: pakato 
+claw: ifi | ifĩ 
+claw: ifi͂ | ifĩ 
+cloud: kene | muː 
+cloud: mu: | muː 
+cloud: muː 
+cold: anego͂ːgi | anegõːgi 
+cold: anegò:gi | anegõːgi 
+cold: anegɔːgi | anegõːgi 
+cold: anegoogi | anegõːgi 
+cold: kɔgi͂ | anegõːgi 
+come: ma-/mi- | ma	mi 
+come: maːsipe | ma	mi 
+come: mi ~ ma | ma	mi 
+come: misa | ma	mi 
+die: bogo- | bogo	bogo- 
+dog: ɔgɔnɔ | w3mi	wämi 
+dog: wäːme | w3mi	wämi 
+dog: wä:me | w3mi	wämi 
+dog: wämi | w3mi	wämi 
+dog: wämi | w3mi	wämi 
+dog: wɛːme | w3mi	wämi 
+drink: halo na- | halo* na	halõ- na- 
+drink: halo͂- na- | halo* na	halõ- na- 
+dry: hougisi 
+ear: ke͂ | ka*	kẽ 
+ear: kẽ | ka*	kẽ 
+ear: kɛhe | ka*	kẽ 
+earth: naka | osobo 
+earth: osobo 
+earth: òsòbò | osobo 
+earth: ɔsɔbɔ | osobo 
+eat: mo- | na-imo- 
+eat: na | na-imo- 
+eat: na- | na-imo- 
+eat: naha | na-imo- 
+eat: naha͂ː | na-imo- 
+eat: na-imo- 
+egg: isɔ | oso 
+egg: oso 
+egg: òsò | oso 
+egg: ɔsɔ | oso 
+elbow: -kumu 
+emu: widʌ 
+emu: wida 
+eye: si | si	siː 
+eye: siː | si	siː 
+eye: si(i) | si	siː 
+father: ada 
+father: ata 
+father: nʌtɔ 
+fat (n.): sa͂fe͂ 
+fat (n.): se͂fe͂ 
+fat (n.): sẽfẽ 
+feather: abɔ | hinaːbo 
+feather: heli͂ | hinaːbo 
+feather: (hina-)abò | hinaːbo 
+feather: hinaːbo 
+feather: wit-apo | hinaːbo 
+fingernail: ifi͂ 
+fire: dalu 
+fire: daru | dalu 
+fire: nalu | dalu 
+fire: nulu | dalu 
+fish: ai | minabu 
+fish: minabu 
+fish: seme | minabu 
+fly (n.): kakopä 
+fly (n.): kakopä 
+fly (v.): awabe 
+fly (v.): awgia dabe 
+fly (v.): hakila 
+foot: emo 
+full: naba 
+full: wa͂la͂sube | naba 
+give: i- 
+give: ima | i- 
+give: i-(ma) 
+give: imɔ͂ | i- 
+good: hedebi | tefeya 
+good: tefeya 
+green: gamurubu | moladugwõ 
+green: me͂labui | moladugwõ 
+green: moladugwo | moladugwõ 
+green: moladugwo͂ | moladugwõ 
+hair: busʌ ~ pusʌ heni | hinabo 
+hair: hinabo 
+hair: hin-abo | hinabo 
+hair: hinabu | hinabo 
+hair: hin-abu | hinabo 
+hair: hin-ãpo | hinabo 
+hair: osa | hinabo 
+head: busʌ ~ pusʌ | taluba 
+head: taluba 
+head: tialuna | taluba 
+head: tiaruma | taluba 
+hear: ba- | ba	ba- 
+hear: bä- | ba	ba- 
+hear: nabama | ba	ba- 
+hear: nabʌba | ba	ba- 
+heart: togo 
+he/she: e 
+he/she: ya 
+hole: kerapo 
+I: na 
+I: na/namo 
+I: ne | na 
+jaw: pakato 
+jaw: toto 
+kill: bògò | fã- 
+kill: bɔgɔ | fã- 
+kill: fa͂- | fã- 
+kill: fã- 
+kill: pakɔwi | fã- 
+knee: emɔgumu | imugu 
+knee: imugu 
+knee: imu-gumu | imugu 
+knee: muguni | imugu 
+know: tawa | tawa- 
+know: tawa- 
+leaf: ipau | lubi 
+leaf: lubi 
+leaf: rubi | lubi 
+leg: emo 
+leg: emɔ 
+lie: kola- 
+lie: mita | kola- 
+lie: mitiɛ͂ | kola- 
+liver: toko 
+long: sada | setaga 
+long: sata | setaga 
+long: sedade | setaga 
+long: setaga 
+long: sotake | setaga 
+louse: imu 
+louse: imu͂ 
+man: tɔnɔ | tunũ 
+man: tunu | tunũ 
+man: tunu͂ | tunũ 
+many: òsei | oseyey 
+many: ɔsei | oseyey 
+many: oseyey 
+many: yʌfiɛ | oseyey 
+meat: hu 
+meat: hu͂ 
+meat: hũ 
+moon: aube | awbi 
+moon: aubi | awbi 
+moon: awbi 
+mother: ame 
+mother: äme 
+mother: äme 
+mother: nɛme 
+mountain: kau i 
+mountain: kaumi | kau i 
+mountain: segebi | kau i 
+mouth: laafi | laːfi 
+mouth: laːfi 
+mouth: läːfi | laːfi 
+mouth: lä:fi | laːfi 
+mouth: magato | laːfi 
+mouth: nafi | laːfi 
+name: dio 
+name: diò | dio 
+name: diõ | dio 
+name: diɔ | dio 
+name: diɔ͂ | dio 
+name: dyõ | dio 
+name: e͂i | dio 
+navel: otatipu 
+navel: simukofo 
+navel: simukoφo 
+neck: kalʌbagɔ | osõgõwa 
+neck: kalugwa | osõgõwa 
+neck: konomagi | osõgõwa 
+neck: osogowa | osõgõwa 
+neck: oso͂go͂wa | osõgõwa 
+new: gaheãbõrõ | gahea*bo*ro*	gaheãbɔ̃rɔ̃ 
+new: gahea͂bɔ͂rɔ͂ | gahea*bo*ro*	gaheãbɔ̃rɔ̃ 
+new: gahebe | gahea*bo*ro*	gaheãbɔ̃rɔ̃ 
+new: gaheve | gahea*bo*ro*	gaheãbɔ̃rɔ̃ 
+new: kahe͂ | gahea*bo*ro*	gaheãbɔ̃rɔ̃ 
+night: kasi 
+night: kasigi 
+nose: mi 
+not: habɔi | name 
+not: hame | name 
+not: name 
+one: afai | afa*i*	afãĩ	age 
+one: afa͂i͂ | afa*i*	afãĩ	age 
+one: afãtefã | afa*i*	afãĩ	age 
+one: age | afa*i*	afãĩ	age 
+one: aφa͂teφa͂ | afa*i*	afãĩ	age 
+rain: kibu | kiːbu 
+rain: kiːbu 
+rain: ki(i)bu | kiːbu 
+rain: sege | kiːbu 
+red: bɛi ~ pɛi | obusi	urasu 
+red: obusi | obusi	urasu 
+red: òbusi | obusi	urasu 
+red: ɔbusi | obusi	urasu 
+red: urasu | obusi	urasu 
+road: idi | iti	logo 
+road: iti | iti	logo 
+road: loːgo | iti	logo 
+road: lògò | iti	logo 
+road: lɔgɔ | iti	logo 
+road: loogo | iti	logo 
+road: nɔgo | iti	logo 
+road: roko | iti	logo 
+root: tifi | tĩfĩ 
+root: ti͂ːfi | tĩfĩ 
+root: ti͂fi͂ | tĩfĩ 
+root: ti:nh.fi | tĩfĩ 
+rope: momoke 
+rotten: tosa-(y) 
+round: ganuga͂ma | ganugãma 
+round: ganugãma 
+sand: bosukai 
+sand: posekai | bosukai 
+sand: sol | bosukai 
+say: saima | bosukai 
+say: sa͂sibe | bosukai 
+say: sia- | bosukai 
+say: sia ta- | bosukai 
+seed: ikʌgʌ | oso 
+seed: oso 
+seed: tulu | oso 
+see: pala 
+see: pama ~ bama | pala 
+see: p≈bama | pala 
+see: peyaha | pala 
+shoulder: kidagi 
+shoulder: kida-gi 
+shoulder: kita͂ 
+shoulder: kita-ki 
+sing: kesa͂mi 
+sing: kesãmi 
+sit: fi- 
+sit: fima | fi- 
+sit: fi-ma 
+sit: miye͂ | fi- 
+skin: kadefo | kadofo 
+skin: kadofo 
+skin: kadòfò | kadofo 
+skin: kadɔfɔ | kadofo 
+skin: katofo | kadofo 
+skin: kʌdɔfɔ | kadofo 
+sleep: kòrama | mita- 
+sleep: kɔrama | mita- 
+sleep: mita | mita- 
+sleep: mita- 
+sleep: tia | mita- 
+sleep: tiʌha͂ | mita- 
+small: fonobohadi | fõnõbohadi 
+small: fo͂no͂bohadi | fõnõbohadi 
+small: fòròbònadi | fõnõbohadi 
+small: fɔrɔbɔnadi | fõnõbohadi 
+small: nɛ͂fʌni | fõnõbohadi 
+smoke: giha | kinã 
+smoke: hɔ͂ba͂ | kinã 
+smoke: kina͂ | kinã 
+smoke: kinã 
+spit: kafu 
+spit: tefo 
+spit: teφo 
+stand: le- 
+stand: nɔwemɔ 
+stand: rere- 
+stand: wama 
+star: gasumuni | gosomuni 
+star: gosomuni 
+star: kasumuni | gosomuni 
+star: sikabi | gosomuni 
+stone: igi | kele 
+stone: iki | kele 
+stone: kele 
+sun: eso 
+sun: esɔ | eso 
+swim: halo ub- | halõ ub- 
+swim: halo͂ ub- | halõ ub- 
+swim: tadisigai | halõ ub- 
+swim: tasedaba | halõ ub- 
+swim: tasedabe | halõ ub- 
+tail: houpe | lago	näko 
+tail: lago | lago	näko 
+tail: nagò | lago	näko 
+tail: nagɔ | lago	näko 
+tail: näko | lago	näko 
+tail: näko | lago	näko 
+that: i kɔwe | kwe 
+that: kwe 
+they: iri 
+thigh: masere 
+thigh: pesere 
+this: gòwe | ko 
+this: gɔwe | ko 
+this: ko 
+this: kɔwe | ko 
+thou: ti 
+thou: tiː 
+thou: tiri 
+thunder: ku kere- 
+tie: degi 
+tie: dɛgi 
+tongue: änh.ri | kona*su	konãsu 
+tongue: eli | kona*su	konãsu 
+tongue: eri | kona*su	konãsu 
+tongue: konasu | kona*su	konãsu 
+tongue: kona͂su | kona*su	konãsu 
+tongue: kònènh.su | kona*su	konãsu 
+tongue: kɔnɛ͂su | kona*su	konãsu 
+tooth: pese 
+tooth: pe͂se͂ | pese 
+tooth: pẽsẽ | pese 
+tooth: pese ~ bese 
+tree: i | ifa 
+tree: ifa 
+two: aduna | aduna	ageadu 
+two: aduna͂ | aduna	ageadu 
+two: adunã | aduna	ageadu 
+two: agedu | aduna	ageadu 
+walk: ahwa-fasi | ahwa-fasi- 
+walk: ahwa-fasi- 
+walk: mɔsʌ | ahwa-fasi- 
+walk: mòsë | ahwa-fasi- 
+walk: mɔsɔ͂ | ahwa-fasi- 
+warm: hau 
+warm: he͂igi͂ 
+warm: kiyayi 
+water: ha͂lo | ha*lo	hãlo 
+water: hãlò | ha*lo	hãlo 
+water: ha͂lɔ | ha*lo	hãlo 
+water: haro͂ | ha*lo	hãlo 
+water: hãrõ | ha*lo	hãlo 
+water: ɔ͂ta͂ | ha*lo	hãlo 
+weep: tiː- 
+weep: tii- 
+we (incl.): nini 
+we (incl.): ni͂ni͂ 
+we: nini | ni*ni*	nĩnĩ 
+we: ni͂ni͂ | ni*ni*	nĩnĩ 
+we: nĩnĩ | ni*ni*	nĩnĩ 
+what: adi 
+what: etɔ suha͂ | adi 
+white: ahiya 
+white: fare-(y) | ahiya 
+white: fʌlei | ahiya 
+white: nasòbe | ahiya 
+white: suä | ahiya 
+who: etɔ | nãwã 
+who: na͂wa͂ | nãwã 
+who: nãwã 
+wind: fo | ɸo 
+wind: φo | ɸo 
+wing: augiʌ 
+wing: augia 
+wing: awkia 
+wing: hafugai 
+woman: uda 
+woman: udla | uda 
+yellow: bua | buã 
+yellow: bua͂ | buã 
+yellow: puä | buã 
+yellow: puä | buã 
+yellow: wʌnɔi | buã 
+every: soiyãõ 
+ash: dasubu 
+abdomen: hagõmo 
+bigness: bagade 
+large: bagade 
+breasts: toto 
+nail: ifĩ 
+talon: ifĩ 
+come from: ma	mi 
+be dead: bogo	bogo- 
+dead: bogo	bogo- 
+ground: osobo 
+land: osobo 
+soil: osobo 
+fly: awgia dabe 
+fly v.: awgia dabe 
+1 sg.: na 
+be knowledgeable: tawa- 
+lie down: kola- 
+head louse: imu 
+male: tunũ 
+much: oseyey 
+multiple: oseyey 
+several: oseyey 
+hill: kau i 
+title: dio 
+nighttime: kasi 
+adulterous: afa*i*	afãĩ	age 
+single: afa*i*	afãĩ	age 
+the: afa*i*	afãĩ	age 
+unprincipled: afa*i*	afãĩ	age 
+rainy weather: kiːbu 
+path: iti	logo 
+route: iti	logo 
+hide: kadofo 
+little: fõnõbohadi 
+smallness: fõnõbohadi 
+rock: kele 
+2 sg: ti 
+you: ti 
+grind: aduna	ageadu 
+go: ahwa-fasi- 
+1 pl. inc.: ni*ni*	nĩnĩ 
+we₁: ni*ni*	nĩnĩ 
+whiteness: ahiya 
+who?: nãwã 
+female: uda 

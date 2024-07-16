@@ -1,0 +1,264 @@
+all: akamáy 
+every: akamáy 
+ash: waku 
+ashes: waku 
+abdomen: tubi 
+belly: tubi 
+big: baŋi 
+bigness: baŋi 
+large: baŋi 
+bird: waitaw 
+bite: a-jaŋ 
+black: aŋametam 
+blood: udu 
+bone: tul 
+breast: fola 
+breasts: fola 
+burn: au 
+burn tr.: au 
+cloud: kafkafal 
+cold: jóin 
+come: ma 
+come from: ma 
+be dead: towi 
+dead: towi 
+die: towi 
+dog: fo7	foʔ 
+drink: nenam 
+dry: mai-mai 
+ear: taki 
+eat: a-manam 
+egg: tuli 
+eye: ...ata	ata 
+feather: fuki 
+fire: je 
+fish: ika 
+fly: anis 
+fly v.: anis 
+good: loki 
+green: birubiru 
+hair: wil fuki 
+hand: lima 
+left hand: lima 
+right: lima 
+head: wil tabi 
+hear: a-reŋ|ay	reN 
+1 sg.: ak 
+I: ak 
+kill: a-fun 
+be knowledgeable: a-koljaka 
+know: a-koljaka 
+leaf: rawin 
+lie: a-kalola-na 
+lie down: a-kalola-na 
+liver: ata 
+long: nar 
+head louse: kut 
+louse: kut 
+male: sáelet 
+man: tamata 
+moon: fulan 
+mouth: fefa 
+name: Nin	ŋéen 
+title: Nin	ŋéen 
+neck: liwaŋi 
+new: tubay 
+night: fit 
+nighttime: fit 
+nose: juin 
+adulterous: set 
+one: set 
+single: set 
+that: nilil 
+the: set 
+unprincipled: set 
+human: tamata 
+human being: tamata 
+person: tamata 
+rain: úan 
+rainy weather: úan 
+red: koyko.. 
+path: jala 
+road: jala 
+route: jala 
+root: waki 
+sand: kola kola 
+say: a-fayŋayn 
+see: a-to	to 
+sit: a-tal|ay 
+hide: kali 
+skin: kali 
+sleep: a-nen 
+little: tuay 
+small: tuay 
+smallness: tuay 
+smoke: kabun 
+star: taun	tá:un 
+rock: fat 
+stone: fat 
+swim: ai-nen 
+tail: wadai 
+this: nila 
+2 sg: ka7	kaʔ 
+thou: ka7	kaʔ 
+you: ka7	kaʔ 
+tongue: kabii	kabéli 
+tooth: nen	neyn	nin	néin 
+grind: rua	rúa 
+two: rua	rúa 
+go: bana bana 
+walk: bana bana 
+hot: rariŋ 
+warm: rariŋ 
+water: way 
+1 pl. inc.: kama	tita 
+we: kama	tita 
+we₁: kama	tita 
+what: misaʔ 
+white: sa:en 
+whiteness: sa:en 
+who: sia 
+who?: sia 
+female: kóday 
+woman: kóday 
+distant: barkála 
+far: barkála 
+dull: din 
+heavy: din 
+serious: din 
+close: ren	ren-ren 
+near: ren	ren-ren 
+ner: ren	ren-ren 
+short: suful 
+snake: sáwa 
+thin: mańiʔ 
+wind: anin 
+earthworm: dailaŋən fafa 
+worm: dailaŋən fafa 
+year: na:k 
+2 pl.: tem 
+ye: tem 
+you all: tem 
+3 pl.: sira 
+they: sira 
+where: ana bá 
+where?: ana bá 
+when: jau bá: 
+when?: jau bá: 
+how: anam koy bá 
+how?: anam koy bá 
+other: sufuk-na 
+three: láti 
+four: ka	ká 
+five: líma 
+broad: lafi 
+wide: lafi 
+wideness: lafi 
+fat: mila 
+thick: funit 
+narrow: a:takoal 
+principal wife: sa: 
+wife: sa: 
+husband: sa: saelet 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ema 
+his father: ema 
+my father: ema 
+forest: ra: 
+woods: ra: 
+branch: ran 
+stick: ran 
+fruit: fuai 
+flower: wofi 
+grass: ur 
+cord: tel 
+rope: tel 
+flesh: táma 
+meat: táma 
+grease: mila 
+wing: dawil 
+gut: tubi kay waŋwaŋi 
+guts: tubi kay waŋwaŋi 
+insides: tubi kay waŋwaŋi 
+intestine: tubi kay waŋwaŋi 
+intestines: tubi kay waŋwaŋi 
+back: tulikáy 
+suck: a-utuk 
+spit: a-niʔ 
+vomit: a-mamuta 
+blow: a-juʔ 
+breath: a-fe da jeri 
+breathe: a-fe da jeri 
+laugh: a-mel 
+laughter: a-mel 
+cogitate: kina 
+reflect: kina 
+think: kina 
+smell: afau 
+sniff: afau 
+afraid: bebay 
+be afraid: bebay 
+fear: bebay 
+fright: bebay 
+alive: jeri 
+be alive: jeri 
+life: jeri 
+live: jeri 
+living: jeri 
+hunt: ai so:kai 
+beat: dibal 
+hit: dibal 
+strike: dibal 
+cut: a-sawi 
+hack: a-sawi 
+cut open: a-feta 
+split: a-feta 
+pierce: a-tafak 
+stab: a-tafak 
+scratch: a-kətíʔ 
+dig: a-fasi 
+stand: a-tamari 
+drop: a-fan 
+fall: a-fan 
+grasp: nedi 
+hold: nedi 
+hold in arm: nedi 
+squeeze: a-katam 
+wring: a-katam 
+throw: aijel 
+bind: akaw|ay 
+fasten: akaw|ay 
+tie: akaw|ay 
+tie up: akaw|ay 
+sew: m|jéy 
+count: a-rekan 
+enumerate: a-rekan 
+number: a-rekan 
+tally: a-rekan 
+flow: ai-tai 
+lake: juf 
+ocean: wali 
+sea: wali 
+dust: waku suʔ 
+fog: saun 
+sky: laŋit 
+bad: kareray-na 
+evil: kareray-na 
+rot: boborik 
+rotten: boborik 
+dirty: es 
+filthy: es 
+soiled: es 
+sharp: maŋin 
+blunt: tubak 
+damp: ai-tof 
+wet: ai-tof 
+right side: sei lima lima 
+left: sei ŋafa nafa 
+at: mina 
+in: ana abil 
+inside: ana abil 
+and: atafel 
+if: noko 

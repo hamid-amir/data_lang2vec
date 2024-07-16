@@ -1,0 +1,328 @@
+all: 2tʃʰaraŋ 
+every: 2tʃʰaraŋ 
+ash: 4mjepʰɾa 
+ashes: 4mjepʰɾa 
+bark: 1pʰjoko 
+abdomen: 1pʰo 
+belly: 1pʰo 
+big: 1tʰjʌ 
+bigness: 1tʰjʌ 
+large: 1tʰjʌ 
+bird: 1ŋima 
+bite: 2tʃʰe 
+black: 1mleŋkja 
+blood: 2ka	ka 
+bone: 2nokrẽ	nokre* 
+breast: 3ŋjokɾo	Ny~okro 
+breasts: 3ŋjokɾo	Ny~okro 
+claw: 1jaʃiŋ luŋ-pʌ 
+nail: 1jaʃiŋ luŋ-pʌ 
+talon: 1jaʃiŋ luŋ-pʌ 
+cloud: mukpʌ 
+cold: 2kʰʌŋ 
+come: 1kʰʌ	kh~o 
+come from: 1kʰʌ	kh~o 
+be dead: 1ʃi	Si 
+dead: 1ʃi	Si 
+die: 1ʃi	Si 
+dog: 1nʌkju	noky~u 
+drink: 2tʰuŋ	th~uN 
+dry: 1kʰarkjʌ 
+ear: 1ŋima	Nima 
+earth: 1sʌ 
+ground: 1sʌ 
+land: 1sʌ 
+soil: 1sʌ 
+eat: 1tsʌ 
+egg: 2pʰuŋ 
+eye: 2mi	mi 
+feather: 1ŋima 2mʷi 
+fire: 1mje	my~e 
+fish: 2tʌrŋe	torNe 
+fly: 2pʰaŋ 
+fly v.: 2pʰaŋ 
+foot: 3pʌle 
+full: 3naŋ	naN 
+give: 1pĩ 
+good: 3sʌ 
+green: 3tʃaŋku 
+hair: 1krʌ 
+hand: 1ja	ya 
+left hand: 1ja	ya 
+right: 1ja	ya 
+head: 1pʰakli 
+hear: 4tʰe	th~e 
+heart: 1tĩ 
+horn: 4ʂu	Su 
+1 sg.: 1ŋʌ	No 
+I: 1ŋʌ	No 
+kill: 1se 
+knee: 2pʌtsi	poci 
+be knowledgeable: 2ʃi 
+know: 2ʃi 
+leaf: 3pa	pa 
+lie: 4nu 
+lie down: 4nu 
+liver: ch~imp~o	tsʰimpʌ 
+long: 3ruŋ 
+head louse: 2ʃe	Se 
+louse: 2ʃe	Se 
+male: 1pʰo	1pʰo 2mi 
+man: 2mi	mi 
+many: 2peʔ 
+much: 2peʔ 
+multiple: 2peʔ 
+several: 2peʔ 
+flesh: 1ʃʌ 
+meat: 1ʃʌ 
+moon: 3liŋi 
+hill: 2kaŋ	4pʰra	kaN	pokto 
+mountain: 2kaŋ	4pʰra	kaN	pokto 
+mouth: 1suŋ 
+name: 1miŋ	1miŋ ~ 1mĩ	1mĩ	mi*	miN 
+title: 1miŋ	1miŋ ~ 1mĩ	1mĩ	mi*	miN 
+neck: 1kʰʌr 
+new: 1tsaŋ	caN 
+night: 2muntse	munc~e 
+nighttime: 2muntse	munc~e 
+nose: 1nʌ	no 
+not: a	a- 
+adulterous: 4ʃi	Si	griʔ4 
+one: 4ʃi	Si	griʔ4 
+single: 4ʃi	Si	griʔ4 
+that: 1u 
+the: 4ʃi	Si	griʔ4 
+unprincipled: 4ʃi	Si	griʔ4 
+human: 2mi	mi 
+human being: 2mi	mi 
+person: 2mi	mi 
+rain: 3mo 
+rainy weather: 3mo 
+red: 1olkja 
+path: 4kʰjẽ	mi ph~ropo khy$e* 
+road: 4kʰjẽ	mi ph~ropo khy$e* 
+route: 4kʰjẽ	mi ph~ropo khy$e* 
+root: 1lje 
+round: 2kikil 
+sand: pjuma 
+say: 3pi 
+see: 1mraŋ	ph~lu 
+seed: 4pʰlu 
+sit: 1ʈu 
+hide: 3ʈi	ti 
+skin: 3ʈi	ti 
+sleep: 4nu 
+little: 1tʃã 
+small: 1tʃã 
+smallness: 1tʃã 
+smoke: 1mjukju 
+star: 2sʌɾ	sor 
+rock: 2juŋpe 4pʰra	yuNpe ph~ra 
+stone: 2juŋpe 4pʰra	yuNpe ph~ra 
+sun: 1tiŋi	tiNi 
+swim: 2kju-ri 1kjaŋ	2kju=ri 1kjaŋ 
+tail: 1mẽ 
+this: 2tsu	2tsu ~ 2tso=ko 
+2 sg: 3kjʌ	ky~o 
+thou: 3kjʌ	ky~o 
+you: 3kjʌ	ky~o 
+tongue: 2lẽ	le* 
+tooth: 1sʌ	so 
+tree: 2ʃiŋ 3tuŋ	SiN tuN 
+grind: 4ŋi	Ni 
+two: 4ŋi	Ni 
+go: 4pʰro 
+walk: 4pʰro 
+hot: 1le 
+warm: 1le 
+water: 2kju	ky~u 
+1 pl. inc.: 1ŋjaŋ	1ŋjaŋ 2tsʰaraŋ	Ny~aN 
+we: 1ŋjaŋ	1ŋjaŋ 2tsʰaraŋ	Ny~aN 
+we₁: 1ŋjaŋ	1ŋjaŋ 2tsʰaraŋ	Ny~aN 
+what: 2ta 
+white: 1tʌrkja 
+whiteness: 1tʌrkja 
+who: 2su 
+who?: 2su 
+female: 3mʷo	3mʷo 2mi 
+woman: 3mʷo	3mʷo 2mi 
+yellow: 1urkja 
+distant: 2ta 2ruŋ 
+far: 2ta 2ruŋ 
+dull: 3li 
+heavy: 3li 
+serious: 3li 
+close: 2nepʌ	2ti-ri	2ti=ri 
+near: 2nepʌ	2ti-ri	2ti=ri 
+ner: 2nepʌ	2ti-ri	2ti=ri 
+salt: 1tsʌtsʌ 
+short: 2tʰuŋpʌ 
+snake: 2pukri 
+thin: 2pʰɾʌ 
+wind: 4lo 
+earthworm: napli 
+worm: napli 
+year: 3lo 
+3 sg.: 1kʰi 
+he: 1kʰi 
+she: 1kʰi 
+2 pl.: 1kimi 
+ye: 1kimi 
+you all: 1kimi 
+3 pl.: 1kʰimi 
+they: 1kʰimi 
+here: 2tsu-ri	2tsu=ri 
+there: 1u-ri	1u=ri 
+where: hani 
+where?: hani 
+when: 4hajuŋ 
+when?: 4hajuŋ 
+how: ha coŋpʌ 
+how?: ha coŋpʌ 
+some: 2tore	lʌle 
+few: njeta 
+other: ʃaŋko 
+three: 2sẽ	seN1 
+four: 4pʰli 
+five: 4ŋʌ	ŋə 
+broad: 2tʰuŋpʌ 
+wide: 2tʰuŋpʌ 
+wideness: 2tʰuŋpʌ 
+fat: 2tʃʰi 
+thick: 2ʂuŋ 
+narrow: 4kʰje to 
+child: 1kola 
+principal wife: 1pje 
+wife: 1pje 
+husband: 1pʰʌ 
+his mother: 2amʌ 
+mother: 2amʌ 
+my mother: 2amʌ 
+father: 1apʌ 
+his father: 1apʌ 
+my father: 1apʌ 
+animal: ʃita 
+forest: 3na 2huŋ 
+woods: 3na 2huŋ 
+branch: 2pʰerka	jʌlka 
+stick: 2pʰerka	jʌlka 
+fruit: 2ʃiŋto 
+flower: minto 
+grass: 1tʃʰi 
+cord: 1tsʰo 
+rope: 1tsʰo 
+grease: 2tʃʰi 
+fingernail: 1ja 2ʃiŋ 
+leg: 3pʌle 
+arm: 1ja 
+wing: 1ŋima 1ʃʌpʌ 
+gut: kuruŋ 
+guts: kuruŋ 
+insides: kuruŋ 
+intestine: kuruŋ 
+intestines: kuruŋ 
+back: 3supʌ 2litse 
+suck: 3mul 
+spit: tʰuk tʰu 
+vomit: 2ʂi 
+blow: 2pʰjaŋ 
+breath: mʷo 
+breathe: mʷo 
+laugh: 2ŋi 
+laughter: 2ŋi 
+cogitate: naŋtse toŋ 
+reflect: naŋtse toŋ 
+think: naŋtse toŋ 
+smell: 3te 4tʰaŋ 1kʰʌ 
+sniff: 3te 4tʰaŋ 1kʰʌ 
+alive: 1aʃi-pʌ 
+be alive: 1aʃi-pʌ 
+life: 1aʃi-pʌ 
+live: 1aʃi-pʌ 
+living: 1aʃi-pʌ 
+fight: 2tʃʰe 
+hunt: 1kirap 
+beat: kuntu 2pɾĩ 
+hit: kuntu 2pɾĩ 
+strike: kuntu 2pɾĩ 
+cut: 2tʰa 
+hack: 2tʰa 
+cut open: tete tete 2tʰa 
+split: tete tete 2tʰa 
+pierce: kʰja 
+stab: kʰja 
+scratch: 2ʂi 
+dig: 2te 
+tell lies: 1kjaʃo 3pi	4nu 
+stand: 1ʂe 
+turn: 2kor	mur 
+turn around: 2kor	mur 
+turn round: 2kor	mur 
+drop: 1te 
+fall: 1te 
+squeeze: mor 2ti 
+wring: mor 2ti 
+rub: 1pʰja 
+wipe: 1pʰja 
+wash: 2ʃu 
+wash clothes: 2ʃu 
+pull: 3ti 
+push: 4kʰer 
+shove: 4kʰer 
+throw: 1kʰja 
+bind: 3tẽ 
+fasten: 3tẽ 
+tie: 3tẽ 
+tie up: 3tẽ 
+sew: 4ʈʰu 
+count: 2tʃʰa 
+enumerate: 2tʃʰa 
+number: 2tʃʰa 
+tally: 2tʃʰa 
+sing: 4kʷʰe 2pɾĩ 
+have fun: 1kjaŋ 
+play: 1kjaŋ 
+float: 2pʰi-ri 1ʈu	2pʰi=ri 1ʈu 
+flow: 2kju 4ju 
+freeze: kʰja 
+swell: 1taŋpʌ 
+brook: maʃaŋ 2kju 
+river: maʃaŋ 2kju 
+stream: maʃaŋ 2kju 
+lake: 2kju 1tsʰo 
+ocean: samundra 
+sea: samundra 
+dust: 4pʰɾa 
+fog: mukpʌ 
+sky: 3mo 
+snow: 4kʰiŋ 
+ice: 1tʌŋkjaŋ 
+blaze: 2mɾẽ 
+burn: 2mɾẽ 
+day: 1tiŋi 
+daylight: 1tiŋi 
+daytime: 1tiŋi 
+old: 1kʰjokor 
+bad: 3a-sʌ 
+evil: 3a-sʌ 
+rot: 1ɲe 
+rotten: 1ɲe 
+dirty: 1a-tsaŋ 
+filthy: 1a-tsaŋ 
+soiled: 1a-tsaŋ 
+straight: 2picaŋ	3tsok 
+sharp: 4tʃʰeɾ 
+blunt: 4a-tʃʰer 
+smooth: tʃã 
+damp: 2ʃu 1tʌ 
+wet: 2ʃu 1tʌ 
+correct: 1tʌ	3ŋoto 
+right side: 1kjetse 
+left: tortse 
+at: -ri	=ri 
+in: -ri	3huŋ=ri	3naŋ=ri 
+inside: -ri	3huŋ=ri	3naŋ=ri 
+with: -juŋ	=juŋ 
+and: rʌ	tẽ 
+if: kjʌ nʌ 
+because: 2ta 3pi-tse 3pi	2ta 3pitse 3pi 

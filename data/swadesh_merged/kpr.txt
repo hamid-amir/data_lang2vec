@@ -1,0 +1,272 @@
+all: isambu 
+arm: uŋgo 
+ashes: aßeɣa | aβeɣa 
+ashes: avegha | aβeɣa 
+back: ambo-da 
+bad: eko 
+bark: -anoso 
+belly: gomo | gomo	tini 
+belly: tini | gomo	tini 
+big: mi͂daφu | mĩdaɸu 
+big: mindafo | mĩdaɸu 
+bird: lioka | lioka	riəkʰa 
+bird: li-oka | lioka	riəkʰa 
+bird: riəkʰa | lioka	riəkʰa 
+bite: dand- | gamb- 
+bite: gamb- 
+black: iŋgago 
+blood: ororo 
+bone: etu 
+boy: mandi 
+breast: ami 
+brother: koro 
+burn: aß- 
+burn: du͂ge 
+butterfly: koːri 
+child: sasingu 
+chin: eɣoßo 
+cloud: poroga 
+come: oǯ | oǯ	purari	ɸ- 
+come: φ- | oǯ	purari	ɸ- 
+count: tegut- 
+crocodile: nombura 
+cut: gaφu- 
+cut: sar 
+day: isoŋga 
+day: iǯi 
+day: siφo 
+day: uŋgobu 
+die: amb- | a*bari	amb- 
+dig: gaφ- 
+dog: sino 
+ear: denggoro | de*goro	deŋgoro 
+ear: deŋgoro | de*goro	deŋgoro 
+earth: enda | enda	ǯuɣu 
+earth: ǯuɣu | enda	ǯuɣu 
+eat: mind 
+egg: munǯu | munǯu 
+emu: boke 
+eye: diti 
+face: dombu 
+fall: du- 
+fall: dur- 
+father: aφa 
+feather: buroro 
+fire: aßaraka | abaraka	aβaraka 
+fire: avara-ka | abaraka	aβaraka 
+fish: ʔoka | oka	ʔoka 
+fly (n.): soini 
+fly (v.): ɣumb- 
+foot: ata 
+foot: (ata) ǯoɣa 
+forest: taima 
+fruit: ßuǯi 
+girl: gagara 
+good: eßeßa | eβeβa 
+grass: kikisa 
+hair: beo | beo	bio 
+hair: bio | beo	bio 
+hand: unggo | u*go	uŋgo 
+hand: uŋgo | u*go	uŋgo 
+head: giφua | giɸua	ziro	ǯiro 
+head: ziro | giɸua	ziro	ǯiro 
+head: ǯiro | giɸua	ziro	ǯiro 
+heavy: boußu | bouβu 
+here: eminda 
+he/she: nu 
+hole: bako 
+hole: toka 
+house: nati 
+husband: nußu 
+I: na 
+knee: kaubo 
+know: bun 
+laugh: geɣa 
+leaf: ia gi | ia gi	igi 
+leaf: igi | ia gi	igi 
+leg: ata 
+long: ɣousa 
+man: genembo | e*bo	embo 
+many: digari 
+moon: inua | inua	tambuno 
+moon: tambuno | inua	tambuno 
+mosquito: denda 
+mother: aya 
+mountain: doriri 
+mouth: beaka | beaka	beka 
+mouth: beka | beaka	beka 
+mouth: be-ka | beaka	beka 
+name: ǯaßo | jabo	ǯaβo 
+neck: dubo 
+new: seka 
+night: tumba | tu*bE	tumba 
+nose: mendo | me*do	mendo 
+not: era | ǯo 
+not: ǯo | ǯo 
+old: embako 
+old: eßetako 
+one: dabako 
+person: embo | e*bo	embo 
+play: yaru 
+pull: ǯumb- 
+rain: boriǯa | boriǯa	burizi 
+rain: buri(d)zi | boriǯa	burizi 
+rain: burizi | boriǯa	burizi 
+rain: di- | boriǯa	burizi 
+rat: agari 
+red: kokoigo 
+ripe: saφuφu 
+road: begata | begata	e*boro 
+road: emboro | begata	e*boro 
+root: be sisi 
+rope: asi 
+round: domba 
+sand: ßeg | βeg 
+say: s- | s-	sari 
+say: sari | s-	sari 
+sea: eßa 
+sea: karaǯe 
+see: g- | g-	gari	gos 
+see: gos | g-	gari	gos 
+shoulder: saga 
+shoulder: φumbu 
+sing: diß- 
+sister: aki 
+sister: ɣasoßu 
+sit: anumb- 
+skin: tamo | anoso	tamo	tamõ 
+skin: tamo͂ | anoso	tamo	tamõ 
+skin: tamõ | anoso	tamo	tamõ 
+sleep: -aß- | -aβ- 
+small: koitako 
+smell: ma͂sa 
+smoke: imbosi 
+snake: ǯiŋgabu | ǯiŋgabu 
+spit: ekona 
+squeeze: safe 
+stand: φete 
+star: damana 
+stone: ɣamana | mindaʌo	xamana	ɣamana 
+stone: aroro | mindaʌo	xamana	ɣamana 
+stone: ghamana | mindaʌo	xamana	ɣamana 
+stone: mindaʌo | mindaʌo	xamana	ɣamana 
+sun: i(d)zi | iji	izi	iǯi 
+sun: izi | iji	izi	iǯi 
+sun: iǯi | iji	izi	iǯi 
+tail: ǯimbi | ǯimbi 
+take: bagia 
+that: a | a	amo 
+that: amo | a	amo 
+that: o | a	amo 
+that: omo | a	amo 
+there: aminda 
+there: ominda 
+they: ne (digari) 
+they: ne (nemonde) 
+they two: nengae 
+they two: nen.gae 
+think: koti- 
+this: e | e	emo 
+this: emo | e	emo 
+thou: ne (nemonde) | ni 
+thou: ni 
+thou: ninh 
+throat: ǯanǯe 
+throw: φuge- 
+throw: φugut 
+today: oroko 
+tomorrow: siφode 
+tongue: aßißa | abiba	aβiβa 
+tongue: aviva | abiba	aβiβa 
+tooth: diaka | diaka	dika 
+tooth: di-aka | diaka	dika 
+tooth: dika | diaka	dika 
+tree: iaka | ika 
+tree: i-aka | ika 
+tree: ika 
+two: etoto 
+walk: sumb- 
+walk: y- 
+wallaby: egi 
+warm: ßeßera 
+wash: seɣ- 
+water: ußu | ubu	uβu 
+water: uvu | ubu	uβu 
+weep: sorara 
+weep: ǯißu 
+we (excl.): namane 
+we (incl.): namon(d)e 
+we: namane | namo*de	namonde	namone 
+we two (excl.): nu nangae 
+we two (incl.): ni nangae 
+we two: nanggae 
+what: ni͂gi | re- 
+what: re- 
+where: re-da 
+white: φoyago | ɸoyago 
+who: maße | maβe 
+wife: nearo 
+wife: noaro 
+wind: yaura 
+wing: ɣabu 
+woman: eßetu | eβetu 
+woman: evetu | eβetu 
+wood: φaraɣo 
+year: ɣaeko 
+yesterday: siφe 
+you: ne | ni 
+you two: nengae 
+you two: nen.gae 
+every: isambu 
+ash: aβeɣa 
+abdomen: gomo	tini 
+bigness: mĩdaɸu 
+large: mĩdaɸu 
+breasts: ami 
+come from: oǯ	purari	ɸ- 
+be dead: a*bari	amb- 
+dead: a*bari	amb- 
+drink: mi*dari 
+ground: enda	ǯuɣu 
+land: enda	ǯuɣu 
+soil: enda	ǯuɣu 
+fly: ɣumb- 
+fly v.: ɣumb- 
+full: bedo 
+left hand: u*go	uŋgo 
+right: u*go	uŋgo 
+hear: ni*gari 
+horn: tabuya 
+1 sg.: na 
+liver: ju*gari xamo 
+head louse: jixi 
+louse: jixi 
+male: genembo 
+much: digari 
+multiple: digari 
+several: digari 
+hill: doriri 
+title: jabo	ǯaβo 
+nighttime: tu*bE	tumba 
+adulterous: dabako 
+single: dabako 
+the: dabako 
+unprincipled: dabako 
+human: e*bo	embo 
+human being: e*bo	embo 
+rainy weather: boriǯa	burizi 
+path: begata	e*boro 
+route: begata	e*boro 
+hide: anoso	tamo	tamõ 
+little: koitako 
+smallness: koitako 
+rock: mindaʌo	xamana	ɣamana 
+2 sg: ni 
+grind: etoto 
+1 pl. inc.: namo*de	namonde	namone 
+we₁: namo*de	namonde	namone 
+whiteness: ɸoyago 
+who?: maβe 
+female: eβetu 
+dull: bouβu 
+serious: bouβu 

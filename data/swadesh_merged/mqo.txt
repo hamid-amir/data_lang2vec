@@ -1,0 +1,444 @@
+all: moi moi 
+all: odomu 
+and: de 
+animal: o aiwani 
+ankle: popuːŋ 
+arm: bete\ono 
+arm: giama 
+arrow: ma ŋoɑ 
+ashes: a\awo 
+ashes: ma ŋaboho 
+ashes: o aːwo 
+back: duduŋu 
+back: dudunu 
+bad: tiiha 
+bad: tikaʔu 
+bark: ma\ai titigono 
+belly: ohu 
+belly: po\o 
+belly: poʔo 
+belly: pɔ\ɔ 
+big: amo\o 
+big: amoʔo 
+big: ha\i 
+big: i amo\o 
+big: lalagomo 
+big: utuwulu 
+bird: namo 
+bird: o namo 
+bitter: i mali 
+black: bibihi 
+black: i bibihi 
+black: taromo 
+blood: aueno 
+blood: auenu 
+blood: aunu 
+bone: ɔboŋo 
+boy: ngale-ngale 
+boy: ŋale-ŋale 
+branch: o gota ma ǯoga 
+breast: susu 
+breathe: omaha 
+breathe: pomaha 
+brother: ilanga 
+brother: ilaŋa 
+brother: lina-dɔdɔto 
+burn: i uʔi 
+burn: i uʔu 
+calf: namo ma gahi 
+calf: unihi 
+cheek: gotoa 
+cheek: gotɔa 
+chest: gogono 
+child: ma ŋɔa 
+child: ngoa 
+child: ŋoa 
+chin: o\o\o 
+chin: oʔoʔo 
+claw: ma gitiwili 
+cloud: o hamu 
+cold: i mata 
+come: boa 
+count: doi\imi 
+crocodile: go-homanga 
+crocodile: gohomaŋa 
+crocodile: o gohamaŋa 
+cut: boru 
+cut: topoʔo 
+daughter: owa 
+day: inita 
+day: o waŋe 
+die: haili 
+die: honenge 
+die: hoŋene 
+dig: paiti 
+dig: yo libaiti 
+dog: aho 
+dog: o aho 
+drink: oele 
+drink: ɔɛʔle 
+drink: okele 
+dry: duduŋo 
+dry: ma duduŋu 
+dry: woile 
+ear: naua 
+ear: ngau\u 
+ear: ŋauʔu 
+eat: odomo 
+egg: gohi 
+egg: o gohi 
+elbow: papanga 
+elbow: papaŋa 
+elbow: pogaŋa 
+excrement: io\o 
+eye: dadawi 
+eye: grɔwutu 
+eye: la\o 
+eye: laʔo 
+face: biuna 
+fall: luba 
+fall: tiwa 
+far: i sulu 
+father: dea 
+father: ŋoa ŋowea 
+fat (n.): i otuwulu 
+feather: o gogo 
+few: i lepewa 
+finger: giama ma ehe 
+finger: hagaara 
+finger: haga\ara 
+finger: hogarara 
+fingernail: gitiwili 
+fire: hoɑʔai 
+fire: u\u 
+fire: uʔu 
+fish: nao\o 
+fish: nau\o 
+fish: nauʔo 
+fish: o nauo 
+five: motoa 
+flower: o pɑe 
+flower: pa\e 
+flower: paʔe 
+fly (n.): guule 
+fly (n.): gu\ulu 
+fly (v.): hoho 
+fog: hauramo 
+foot: dou 
+foot: doːu ma hoata 
+foot: hohoʔo 
+forest: alo 
+forest: bongana 
+forest: o boŋana 
+four: hoata 
+four: soata 
+fruit: howo\o 
+fruit: howoʔo 
+fruit: ma hɔwoː 
+full: i omoŋa 
+girl: holehe 
+girl: ?ŋoa ŋowea 
+give: po ʔula 
+give: ula 
+good: ma aua 
+good: oa 
+grass: ǯela 
+green: iǯo 
+guts: wali 
+hair: utu 
+hand: giam 
+hand: giama 
+hand: iling 
+hand: iliŋ 
+hand: in ma honta 
+head: hai 
+head: o hai ɛ 
+hear: ihene 
+hear: po ihene 
+heart: gateː 
+heart: puo 
+here: nena 
+he/she: muna 
+he/she: una 
+hit: paasana 
+hit: pa daine 
+hit: pa poha 
+hit: poha 
+hold: rihi\i 
+house: atu 
+house: waʔa 
+house: wo(\)a 
+house: wou 
+how: oiyau dodoa 
+husband: oʔata 
+husband: we\ata 
+I: ai 
+I: ngoi 
+I: ŋoi 
+in: ma goroneʔa 
+kill: toma 
+knee: bubu\u 
+knee: bubuʔu 
+know: nao 
+know: naʔo 
+lake: talaga 
+laugh: ɛːtɛ 
+leaf: o hoa 
+left: gubali 
+left: o gubadi 
+leg: dou 
+leg: doːu 
+lie: iduidu 
+lip: ulu maːi 
+live: ŋaŋa 
+liver: gate 
+liver: pʊo 
+live: waŋo 
+long: deʔaʔa 
+long: gauru 
+long: i tareu 
+long: i ɑulu 
+louse: o gaːne 
+man: naulu 
+man: nauru 
+man: roʔata 
+many: i lepe 
+many: lepe 
+meat: aemi 
+meat: a\emi 
+meat: aʔemi 
+moon: o wede 
+mosquito: o gomama 
+mother: eha 
+mother: esa 
+mother: yai eha 
+mountain: de\u 
+mountain: deʔu 
+mountain: o deu 
+mountain: o deʔu 
+mouth: aulu 
+name: roŋa 
+name: roŋo 
+narrow: peeto 
+narrow: pe\eto 
+navel: potiti 
+near: i hori hori 
+neck: ŋomaha 
+neck: toma 
+neck: tomo 
+new: giau 
+new: ma giau 
+new: ma huŋi 
+night: wuta 
+night: wutu 
+nose: ngunu 
+not: buʔan uʔa 
+not: oua 
+old: bere\i 
+old: i perei 
+old: i tau tau 
+one: moi 
+person: gomatelɛ 
+person: nyawa 
+play: gogule 
+rain: beha 
+rain: o beha 
+rat: o parɔgi 
+rat: o parogi i amoː 
+rat: porigi 
+rat: porogi 
+rat: reno 
+red: i teterebeo 
+red: terebo\o 
+red: to\a-to\ara 
+right: goidaː 
+right: guida 
+right: hakimi 
+right: o aua 
+ripe: i omuː 
+ripe: omuʔu 
+river: ngaili 
+river: o aide 
+road: nge\omo 
+road: ŋeʔomo 
+road: o tɑpaʔa 
+root: ma ŋutu\u 
+root: ngutu\u 
+root: ŋutuʔu 
+rope: gumini 
+rope: o guːmi 
+round: i pɔlulu 
+salt: o gahi 
+sand: ahane 
+sand: nikaru 
+sand: o dowoŋi 
+say: bičara 
+say: tehongo 
+say: tehoŋo 
+say: temo 
+sea: holoi 
+sea: ngooto 
+sea: ŋo\oto 
+sea: o gahi 
+sea: o mɔʔu 
+seed: o mui 
+see: ngoli 
+see: ŋoliʔi 
+see: pa mae 
+see: po tutumu 
+see: taila\o 
+sew: po toriː 
+sew: uliti 
+sharp: doto 
+sharp: idolo 
+short: didipo\o 
+short: i tauahi 
+short: i tipo\o 
+short: tipo\o 
+short: tipoʔo 
+shoulder: laliwi 
+sing: ule sabiti 
+sister: (b)ilanga 
+sister: bilaŋa 
+sister: lina-dɔdɔto 
+sit: goːgele 
+sit: gogeleu 
+sit: tame 
+skin: ai 
+skin: ʔai 
+sky: dipa 
+sky: diwanga 
+sky: diwaŋa 
+sky: o diwaŋa 
+sleep: idu 
+sleep: nihu\u 
+sleep: nisuʔu 
+small: eteete\e 
+small: i ete\e 
+smell: ame 
+smell: mela 
+smoke: dowo 
+smoke: ma dowo 
+snake: ngia 
+snake: ŋia 
+snake: o ŋia 
+sour: čuʔa 
+sour: i čua 
+sour: kiopiki 
+sour: opiʔi 
+spit: ibiti 
+spit: kibiti 
+spit: tiʔiti 
+spit: tüti 
+split: otaʔa 
+squeeze: yo ipiti 
+squeeze: yo i tiwili 
+stand: o\o 
+star: mamanga 
+star: mamaŋa 
+star: ŋaŋama 
+star: o mamaŋa 
+stone: o heleo 
+stone: seleo 
+straight: i tiai 
+sun: o waŋe 
+swell: doboho 
+swim: ho 
+swim: ma hoː 
+tail: bi\ini 
+tail: ma buːmi 
+take: po ehe 
+take: tohi\i 
+take: tohiʔi 
+that: gena 
+there: gena 
+they: ona 
+thigh: ugulu 
+thin: i palelaʔa 
+think: furitiboŋ 
+thin: palelaʔa 
+thin: pelelaka 
+this: nena 
+thorn: beleleʔe 
+thorn: sisika 
+thou: ŋini 
+thou: ngona 
+thou: ŋona 
+three: haŋe 
+three: saange 
+three: saŋe 
+throat: ngomaha 
+throat: ŋɔmaha 
+thunder: i oruːhu 
+thunder: taarata 
+thunder: ta\arata 
+tie: likutu 
+tie: pa puhu u 
+today: o dewela 
+tomorrow: dewala 
+tomorrow: o dewela 
+tongue: ahiahili 
+tongue: haihiri 
+tongue: hiahiri 
+tooth: ilingi 
+tooth: iliŋi 
+tree: o gɔta 
+two: modidi 
+two: mudidi 
+unripe: o umuː ahi 
+vagina: tela 
+vagina: tele 
+vomit: wuneŋe 
+walk: ŋanono 
+walk: tagi 
+warm: hihi 
+warm: i sauʔu 
+warm: sau\u 
+warm: sauʔu 
+wash: ohiʔi 
+wash: osi i 
+wash: poka 
+wash: wo\a 
+water: aele 
+water: o aele 
+water: o ǯobubu 
+weep: ali 
+weep: ali ali 
+weep: ʔoŋo 
+we (incl.): ŋomi 
+we (incl.): ngone 
+we (incl.): ŋone 
+we (incl.): po 
+we: ngomi 
+wet: i pehua 
+wet: peha\a 
+what: o\ia 
+what: oʔiyo 
+when: o waulu iyaː 
+where: i ɑː 
+where: ia\a 
+white: arearehe 
+white: i arearete 
+who: nagoɔna 
+wide: ŋoata 
+wife: wea͂ː 
+wife: we\ata 
+wife: weʔata 
+wind: o itɑdo\o 
+wind: tado\o 
+wind: tadoʔo 
+wing: o gaːtu u 
+wing: rewe 
+with: de 
+woman: ngewe\a 
+woman: ŋeweʔa 
+woman: ŋowea 
+wood: gota 
+wood: o goto 
+worm: o pipiti 
+year: pariama 
+yellow: i uːrati 
+yellow: o\urati 
+yes: iyo 
+yesterday: o augonia 
+you: ngini 

@@ -1,0 +1,173 @@
+all: goyɬa	goyɬa-č 
+every: goyɬa	goyɬa-č 
+ash: yũƛu 
+ashes: yũƛu 
+bark: qʼʷel 
+abdomen: ãχ 
+belly: ãχ 
+big: class=uqʼ-u	class=uqʼː-u 
+bigness: class=uqʼ-u	class=uqʼː-u 
+large: class=uqʼ-u	class=uqʼː-u 
+bird: kʼeca 
+bite: ħan 
+black: kaba 
+blood: e*q"X~o	iqʼʷa	ĩqʼʷa 
+bone: tL~ozol	ƛazal 
+breast: koko	ħele-lokʼʷa 
+breasts: koko	ħele-lokʼʷa 
+burn: class=akʼʷ	class=akʼʷa-χ 
+burn tr.: class=akʼʷ	class=akʼʷa-χ 
+claw: muɬu 
+nail: muɬu 
+talon: muɬu 
+cloud: as 
+cold: class=uycʼ-a 
+come: class=atʼiqʼ	class=iχʷ	ok"a 
+come from: class=atʼiqʼ	class=iχʷ	ok"a 
+be dead: class=ih	uha 
+dead: class=ih	uha 
+die: class=ih	uha 
+dog: XXw$E	ʁʷe 
+drink: c"oda	χi-ƛa 
+dry: quq-a 
+ear: a*hX~a	ãhi 
+earth: čʼida 
+ground: čʼida 
+land: čʼida 
+soil: čʼida 
+eat: class=acʼ	kuka 
+egg: kʼemečʼ 
+eye: Ezol	ezal 
+fat: mu 
+fat n.: mu 
+grease: mu 
+lubricant: mu 
+oil: mu 
+feather: ħuli 
+fire: c"o	cʼa 
+fish: CuXa	čoʕa	čuʕa 
+fly: etʷ 
+fly v.: etʷ 
+foot: lola 
+full: class=eycʼ-a	lec"u 
+give: iƛ	tiƛ 
+good: class=ag-u 
+green: ƛib-la-yɬ-i 
+hair: čoda 
+hand: leƛʼa	litL"a 
+left hand: leƛʼa	litL"a 
+right: leƛʼa	litL"a 
+head: qʼem 
+hear: tiq-a-χ	tuqX~a 
+heart: lokʼʷa 
+horn: SEly~u	šeru 
+1 sg.: da	do 
+I: da	do 
+kill: class=ihaχ	class=iyaχ 
+knee: gurtu	qʼontu 
+be knowledgeable: class=iqʼe 
+know: class=iqʼe 
+leaf: tL~ib	ƛib 
+lie: class=aq 
+lie down: class=aq 
+liver: Zubu	žiba	žuba 
+long: class=eχola 
+head louse: noc"o	nuca 
+louse: noc"o	nuca 
+male: žikʼʷa 
+man: %Xadam	žikʼʷa 
+many: ʕeyzaʕan	ʕeziʕan 
+much: ʕeyzaʕan	ʕeziʕan 
+multiple: ʕeyzaʕan	ʕeziʕan 
+several: ʕeyzaʕan	ʕeziʕan 
+flesh: liƛ 
+meat: liƛ 
+moon: buca 
+hill: hu*n	hun 
+mountain: hu*n	hun 
+mouth: hutʼ	hũtʼ 
+name: ca	co	cã 
+title: ca	co	cã 
+neck: mičʼ 
+new: ecʼn-u	uc"nu 
+night: rELa	reɬa 
+nighttime: rELa	reɬa 
+nose: ma*ni	mani 
+not: =ate	=ay 
+adulterous: has	hos 
+one: has	hos 
+single: has	hos 
+that: o-class-žu	o=class=žu 
+the: has	hos 
+unprincipled: has	hos 
+human: %Xadam	žikʼʷa 
+human being: %Xadam	žikʼʷa 
+person: %Xadam	žikʼʷa 
+rain: qema 
+rainy weather: qema 
+red: utʼe-y 
+path: hu*nE	huni 
+road: hu*nE	huni 
+route: hu*nE	huni 
+root: rokʼʷa 
+round: kʼorkʼolu 
+sand: gebu 
+say: iƛ 
+see: aka	class=akʷa 
+seed: ƛʼetʼu 
+sit: qʼudu class=eč 
+hide: qX~al	qoƛu 
+skin: qX~al	qoƛu 
+sleep: ƛes 
+little: akʼey 
+small: akʼey 
+smallness: akʼey 
+smoke: gutʼ 
+stand: class=ah-a class=eč 
+star: ca 
+rock: Xur	ʁur 
+stone: Xur	ʁur 
+sun: buq	buqXX$ 
+swim: kʷani l=uw 
+tail: mihi	mihĩ 
+this: a-class-du	a=class=du 
+2 sg: de-b-	ma	mo 
+thou: de-b-	ma	mo 
+you: de-b-	ma	mo 
+tongue: mec	muc 
+tooth: s3l	sel 
+tree: Xon	ʁʷan 
+grind: qw"X$inE	qʼuni	q̣ɪwene 
+two: qw"X$inE	qʼuni	q̣ɪwene 
+go: class=ĩƛʼa 
+walk: class=ĩƛʼa 
+hot: class=eχː-u 
+warm: class=eχː-u 
+water: Lo	ɬa	ɬã 
+1 pl. inc.: ila	ilo	ilʸa 
+we: ila	ilo	ilʸa 
+we₁: ila	ilo	ilʸa 
+what: hiba 
+white: alu-kʼa 
+whiteness: alu-kʼa 
+who: hiba 
+who?: hiba 
+female: ʁini 
+woman: ʁini 
+yellow: čʼeyčʼ-u 
+distant: miqe 
+far: miqe 
+dull: class=uytʼ-u 
+heavy: class=uytʼ-u 
+serious: class=uytʼ-u 
+close: ago 
+near: ago 
+ner: ago 
+salt: ciyõ 
+short: kʼoyt-u 
+snake: bečola 
+thin: nišː-u	zeyz-u 
+wind: ɬaca 
+earthworm: bečola 
+worm: bečola 
+year: ƛib 

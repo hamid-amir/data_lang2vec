@@ -1,0 +1,333 @@
+all: اِلْكُلْ 
+every: اِلْكُلْ 
+ash: رْمَادْ 
+ashes: رْمَادْ 
+bark: قِشْرَة 
+abdomen: كِرْشْ 
+belly: كِرْشْ 
+big: كْبِيرْ 
+bigness: كْبِيرْ 
+large: كْبِيرْ 
+bird: عَصْفُورْ 
+bite: ڤْدِمْ 
+black: اَكْحِلْ 
+blood: dEm	دَمْ 
+bone: 8am	عْظَمْ 
+breast: bazzulE	صْدِرْ 
+breasts: bazzulE	صْدِرْ 
+cloud: سْحَابْ 
+cold: بَارِدْ 
+come: iZE	جَا 
+come from: iZE	جَا 
+be dead: mut	مَاتْ 
+dead: mut	مَاتْ 
+die: mut	مَاتْ 
+dog: kElb	كَلْبْ 
+drink: uSrub	شْرَبْ 
+dry: شَايَحْ 
+ear: w8in	وْذِنْ 
+earth: تْرَابْ 
+ground: تْرَابْ 
+land: تْرَابْ 
+soil: تْرَابْ 
+eat: كْلَا 
+egg: عَظْمَة 
+eye: in	عِينْ 
+feather: رِيشَة 
+fire: nar	نَارْ 
+fish: Xut	حُوتَة 
+fly: طار 
+fly v.: طار 
+foot: سَاقْ 
+full: mibbi	مْعِبِّي 
+give: عْطَا 
+good: بَاهِي 
+green: اَخْضِرْ 
+hair: شْعَرْ 
+hand: yid 
+left hand: yid 
+right: yid 
+head: رَاسْ 
+hear: EsmE7	سْمَعْ 
+heart: قَلْبْ 
+horn: garn	ڤَرْنْ 
+1 sg.: EnE	آنَا 
+I: EnE	آنَا 
+kill: قْتَلْ 
+knee: rukbE	رُكْبَة 
+be knowledgeable: عْرَفْ 
+know: عْرَفْ 
+leaf: warqa	وَرْقَة 
+liver: kibdE	كِبْدَة 
+long: طْوِيلْ 
+head louse: qamlE	قَمْلَة 
+louse: qamlE	قَمْلَة 
+male: رَاجِلْ 
+man: Saxs	بْنَادِمْ 
+many: بَرْشَ 
+much: بَرْشَ 
+multiple: بَرْشَ 
+several: بَرْشَ 
+moon: ڤَمْرَة 
+hill: ZbEl	جْبَلْ 
+mountain: ZbEl	جْبَلْ 
+mouth: فُمْ 
+name: ism	اِسْمْ 
+title: ism	اِسْمْ 
+neck: عُنْقْ 
+new: Zdid	جْدِيدْ 
+night: lil	لِيلْ 
+nighttime: lil	لِيلْ 
+nose: xSEm	خْشَمْ 
+not: مُوشْ 
+adulterous: wEXid	وَاحِدْ 
+one: wEXid	وَاحِدْ 
+single: wEXid	وَاحِدْ 
+that: هَاذَاكَ 
+the: wEXid	وَاحِدْ 
+unprincipled: wEXid	وَاحِدْ 
+human: Saxs	بْنَادِمْ 
+human being: Saxs	بْنَادِمْ 
+person: Saxs	بْنَادِمْ 
+rain: شْتَا 
+rainy weather: شْتَا 
+red: اَحْمَرْ 
+path: mEmSE	طْرِيقْ 
+road: mEmSE	طْرِيقْ 
+route: mEmSE	طْرِيقْ 
+root: عِرْقْ 
+round: مْدَوِّرْ 
+sand: رْمَلْ 
+say: قَالْ 
+see: Suf	شَافْ 
+seed: زُرِّيعَة 
+sit: قْعَدْ 
+hide: Zild	جِلْدَة 
+skin: Zild	جِلْدَة 
+sleep: رْقَدْ 
+little: صْغِيرْ 
+small: صْغِيرْ 
+smallness: صْغِيرْ 
+smoke: دُخّانْ 
+star: niZmE	نِجْمَة 
+rock: XaZra	حَجْرَة 
+stone: XaZra	حَجْرَة 
+sun: SEms	شَمْسْ 
+swim: عاَمْ 
+tail: بَعْبُوصْ 
+this: هَاذَا 
+2 sg: intumE	اِنْتِ 
+thou: intumE	اِنْتِ 
+you: intumE	اِنْتِ 
+tongue: lsEn	لْسَانْ 
+tooth: sinnE	سِنَّة 
+tree: SZar	شُجْرَة 
+grind: 8nin	ثْنِينْ 
+two: 8nin	ثْنِينْ 
+go: مْشَا 
+walk: مْشَا 
+hot: دَافِي 
+warm: دَافِي 
+water: mE	مَا 
+1 pl. inc.: EXnE	اَحْنَا 
+we: EXnE	اَحْنَا 
+we₁: EXnE	اَحْنَا 
+what: شْنُوَّ 
+white: اَبْيِضْ 
+whiteness: اَبْيِضْ 
+who: شْكُونْ 
+who?: شْكُونْ 
+female: مْرَة 
+woman: مْرَة 
+yellow: اَصْفِرْ 
+distant: بْعِيدْ 
+far: بْعِيدْ 
+dull: ثْقِيلْ 
+heavy: ثْقِيلْ 
+serious: ثْقِيلْ 
+close: قْرِيبْ 
+near: قْرِيبْ 
+ner: قْرِيبْ 
+salt: مِلْحْ 
+short: قْصِيرْ 
+snake: حْنَشْ 
+thin: رْقِيقْ 
+wind: رِيحْ 
+earthworm: دُودَة 
+worm: دُودَة 
+year: عَامْ 
+3 sg.: هُوَّ 
+he: هُوَّ 
+she: هُوَّ 
+2 pl.: اِنْتُومَا 
+ye: اِنْتُومَا 
+you all: اِنْتُومَا 
+3 pl.: هُومَا 
+they: هُومَا 
+here: هُونِي	هْنَا 
+there: غَادِي 
+where: فِينْ	وِينْ 
+where?: فِينْ	وِينْ 
+when: وَقْتَاشْ 
+when?: وَقْتَاشْ 
+how: كِيفَاشْ 
+how?: كِيفَاشْ 
+some: بَعْضْ	شْوَيَّ 
+few: بَعْضْ	شْوَيَّ 
+other: آخِرْ 
+three: ثْلَاثَة 
+four: اَرْبْعَة 
+five: خَمْسَة 
+broad: وَاسِعْ 
+wide: وَاسِعْ 
+wideness: وَاسِعْ 
+fat: شْحَمْ 
+thick: خْشِينْ 
+narrow: ضِيِّقْ 
+child: طْفُلْ 
+principal wife: مْرَة 
+wife: مْرَة 
+husband: رَاجِلْ 
+his mother: اُمْ 
+mother: اُمْ 
+my mother: اُمْ 
+father: بُو 
+his father: بُو 
+my father: بُو 
+animal: حَيَوَانْ 
+forest: غَابَة 
+woods: غَابَة 
+branch: عْصَا 
+stick: عْصَا 
+fruit: غَلَّة 
+flower: نَوَّارَة 
+grass: حْشِيشْ 
+cord: حْبَلْ 
+rope: حْبَلْ 
+flesh: لْحَمْ 
+meat: لْحَمْ 
+grease: شْحَمْ 
+claw: ظْفَرْ 
+fingernail: ظْفَرْ 
+nail: ظْفَرْ 
+leg: رْجِلْ 
+arm: يِدْ 
+wing: جْنَاحْ 
+gut: مْصَارِنْ 
+guts: مْصَارِنْ 
+insides: مْصَارِنْ 
+intestine: مْصَارِنْ 
+intestines: مْصَارِنْ 
+back: ظْهَرْ 
+suck: رْضَعْ 
+spit: بْزَقْ 
+vomit: رَدْ 
+blow: نْفَخْ 
+breath: تْنَفِّسْ 
+breathe: تْنَفِّسْ 
+laugh: ضْحَكْ 
+laughter: ضْحَكْ 
+cogitate: خَمِّمْ 
+reflect: خَمِّمْ 
+think: خَمِّمْ 
+smell: شَمْ 
+sniff: شَمْ 
+afraid: خَافْ 
+be afraid: خَافْ 
+fear: خَافْ 
+fright: خَافْ 
+alive: عَاشْ 
+be alive: عَاشْ 
+life: عَاشْ 
+live: عَاشْ 
+living: عَاشْ 
+fight: تْعَارِكْ 
+hunt: اِصْطَادْ 
+beat: ضْرَبْ 
+hit: ضْرَبْ 
+strike: ضْرَبْ 
+cut: قَصْ 
+hack: قَصْ 
+cut open: قْسَمْ 
+split: قْسَمْ 
+pierce: دْغَرْ 
+stab: دْغَرْ 
+scratch: حَكْ 
+dig: حْفَرْ 
+lie: تْمَدْ 
+lie down: تْمَدْ 
+tell lies: تْمَدْ 
+stand: وْقِفْ 
+turn: دَارْ 
+turn around: دَارْ 
+turn round: دَارْ 
+drop: طَاحْ 
+fall: طَاحْ 
+grasp: شَدْ 
+hold: شَدْ 
+hold in arm: شَدْ 
+squeeze: عْصَرْ 
+wring: عْصَرْ 
+rub: حَكْ 
+wipe: مْسَحْ 
+wash: غْسَلْ 
+wash clothes: غْسَلْ 
+pull: جْبِدْ 
+push: دَزْ 
+shove: دَزْ 
+throw: رْمَا 
+bind: رْبَطْ 
+fasten: رْبَطْ 
+tie: رْبَطْ 
+tie up: رْبَطْ 
+sew: خَيِّطْ 
+count: حْسِبْ 
+enumerate: حْسِبْ 
+number: حْسِبْ 
+tally: حْسِبْ 
+sing: غَنَّا 
+have fun: لْعَبْ 
+play: لْعَبْ 
+float: عَامْ 
+flow: جْرَا 
+freeze: جْمِدْ 
+swell: تِنْفَخْ 
+brook: وَادْ 
+river: وَادْ 
+stream: وَادْ 
+lake: سَبْخَة 
+ocean: بْحَرْ 
+sea: بْحَرْ 
+dust: غَبْرَة 
+fog: ضْبَابْ 
+sky: سْمَا 
+snow: ثِلْجْ 
+ice: ثِلْجْ 
+blaze: حْرَقْ 
+burn: حْرَقْ 
+day: نْهَارْ 
+daylight: نْهَارْ 
+daytime: نْهَارْ 
+old: قْدِيمْ 
+bad: خَايِبْ 
+evil: خَايِبْ 
+rot: خامج 
+rotten: خامج 
+dirty: مَّسِّخْ 
+filthy: مَّسِّخْ 
+soiled: مَّسِّخْ 
+straight: طُولْ 
+sharp: مَاضِي 
+blunt: حَافِي 
+smooth: اَرْطِبْ 
+damp: مَبْلُولْ 
+wet: مَبْلُولْ 
+correct: صْحِيحْ 
+right side: لِيمِينْ 
+left: لِيسَارْ 
+at: عَنْدْ 
+in: فِي 
+inside: فِي 
+with: مْعَا 
+if: اِذَا 
+because: عْلَى خَاطِرْ 

@@ -1,0 +1,272 @@
+all: fomi	tomi 
+every: fomi	tomi 
+ash: buburo	la pupuso 
+ashes: buburo	la pupuso 
+abdomen: la fiala	tia 
+belly: la fiala	tia 
+big: auru	uru 
+bigness: auru	uru 
+large: auru	uru 
+bird: la malu	malu 
+bite: ala	ale	gari	gati	koro	lamata la fogo le voto	tolo 
+black: kuru	para kuru	parakukuru	parakuru 
+blood: kasoso	kasosola	la kasoso la 
+bone: la fua la	tuha	tuhala 
+breast: la magoro la	la sus la	lasusu	susu 
+breasts: la magoro la	la sus la	lasusu	susu 
+burn: ea selu	goho	goo	karere	tulu 
+burn tr.: ea selu	goho	goo	karere	tulu 
+cloud: gauku	la veto	mori	tuluvu-l... 
+cold: maigi 
+come: ea gomaimai	go-mai	gomai 
+come from: ea gomaimai	go-mai	gomai 
+be dead: ea peo	pEho	peho 
+dead: ea peo	pEho	peho 
+die: ea peo	pEho	peho 
+dog: la paia	lapaia	paia 
+drink: ea liuliu	liu 
+dry: masag...	masaga	taga...	tagara 
+ear: gavusa	la gavusa la	lagabusala 
+eat: alali	ali	ani 
+egg: hatotolu	la hatotolu 
+eye: la mata la	lamatala	mata 
+feather: ivu	kokoma	la kokoma 
+fire: havi	la hari	lahabi 
+fish: ia	la ia 
+fly: lovo	lovolovo 
+fly v.: lovo	lovolovo 
+full: blou 
+good: farfigi	taritigi	tigi 
+green: ka kesa	kakesa	lamalivoloo 
+hair: ivu	la ivula oata la gamala 
+hand: la lima la	lalimala	lima	lima la 
+left hand: la lima la	lalimala	lima	lima la 
+right: la lima la	lalimala	lima	lima la 
+head: gaho	gama	la gamala 
+hear: ea lololo	lolo	loloa 
+1 sg.: Eau	Na	eau	e|au	ŋa (eau) 
+I: Eau	Na	eau	e|au	ŋa (eau) 
+kill: bili	ea bilia 
+knee: latutula 
+be knowledgeable: ea rovia	mari	rovi 
+know: ea rovia	mari	rovi 
+leaf: galalao	galalau	gala|lau	la galagala 
+lie: mavuta	totopaha 
+lie down: mavuta	totopaha 
+liver: hatEla	hate	la hate la 
+long: malau 
+head louse: la ufu	lautu	utu 
+louse: la ufu	lautu	utu 
+male: hatamale	la famale	tahalo 
+man: la fa-halo	malE	tau 
+moon: la faio	taio 
+hill: gobE 
+mountain: gobE 
+mouth: hare	la are la 
+name: isa	isala	la isa la 
+title: isa	isala	la isa la 
+neck: la loho la	loho 
+new: a la ba	halaba 
+night: la logo	laligi	logo 
+nighttime: la logo	laligi	logo 
+nose: la maisu la	lamaisula	maisu	ma|isu 
+adulterous: -saa	-sasa	isa	isasa	sa	sasa 
+one: -saa	-sasa	isa	isasa	sa	sasa 
+single: -saa	-sasa	isa	isasa	sa	sasa 
+that: alele	aleo	alo	ele 
+the: -saa	-sasa	isa	isasa	sa	sasa 
+unprincipled: -saa	-sasa	isa	isasa	sa	sasa 
+human: la fa-halo	malE	tau 
+human being: la fa-halo	malE	tau 
+person: la fa-halo	malE	tau 
+rain: hura	la hura 
+rainy weather: hura	la hura 
+red: mage gese	magegese 
+path: gauru	la gauru	lagauru 
+road: gauru	la gauru	lagauru 
+route: gauru	la gauru	lagauru 
+root: la vala	ua 
+sand: la magasa	magasa	magasa-la-mago 
+say: ea vakara kara	mago	vai	vei 
+see: ea iloilo	hilo	hiloa 
+sit: ea pou pou	pou 
+hide: kulikuli	la vovola	labobola	vovo 
+skin: kulikuli	la vovola	labobola	vovo 
+sleep: ea mamavuta	mavuta 
+little: baisi	bisi 
+small: baisi	bisi 
+smallness: baisi	bisi 
+smoke: la sosobu	sosobu 
+star: la mafaufabu	matatabu 
+rock: la vati	labati	uati 
+stone: la vati	labati	uati 
+sun: laharo 
+swim: ea pupuru	puru 
+tail: kiu	la kiula 
+this: -le	akei	ale 
+2 sg: EmE	eme	e|me 
+thou: EmE	eme	e|me 
+you: EmE	eme	e|me 
+tongue: kalamea	la ka lamea la	lakalamEala 
+tooth: la fogo la	la tego galigali la	lalibola	livo	togo 
+tree: obu 
+grind: -lua	ilua	lua 
+two: -lua	ilua	lua 
+go: ea fa fuga	ea fuga	tuga 
+walk: ea fa fuga	ea fuga	tuga 
+hot: fivura	tivura 
+warm: fivura	tivura 
+water: la lalu	lalu 
+1 pl. inc.: amik	amite tao tolu	amiteu	ami|teu	amula	e tato tao tolu	etatou	eta|tou	fala	talua 
+we: amik	amite tao tolu	amiteu	ami|teu	amula	e tato tao tolu	etatou	eta|tou	fala	talua 
+we₁: amik	amite tao tolu	amiteu	ami|teu	amula	e tato tao tolu	etatou	eta|tou	fala	talua 
+what: (la)-rova	la rova	lava	l|ava 
+white: ka kea	kakea 
+whiteness: ka kea	kakea 
+who: ere	ere(i)	e|re 
+who?: ere	ere(i)	e|re 
+female: hatavile	la farik	tavile 
+woman: hatavile	la farik	tavile 
+yellow: geogeo	ialalo 
+distant: malau 
+far: malau 
+dull: tikumu 
+heavy: tikumu 
+serious: tikumu 
+close: hagavi 
+near: hagavi 
+ner: hagavi 
+salt: la peksu	mimila 
+short: boboto	boto 
+snake: faive	pase	taive 
+thin: malauga	taitavi	tavi 
+wind: la lolovi	lolovi 
+earthworm: e mitigilo	kirere	pakeso 
+worm: e mitigilo	kirere	pakeso 
+year: la lavea la	leavala 
+2 pl.: amula	amuto taotolu	amutou	amu|tou	eme 
+ye: amula	amuto taotolu	amutou	amu|tou	eme 
+you all: amula	amuto taotolu	amutou	amu|tou	eme 
+3 pl.: egira	egite	egite taotolu	egiteu	egi|teu 
+they: egira	egite	egite taotolu	egiteu	egi|teu 
+where: o-io-ve	o-ve	oio-ve 
+where?: o-io-ve	o-ve	oio-ve 
+when: alaisa	alisa	gaisa	ga|isa 
+when?: alaisa	alisa	gaisa	ga|isa 
+how: ilava	mave 
+how?: ilava	mave 
+other: isa-polo	isapolo 
+three: -tolu	ifolu	itolu 
+four: -vaa	iva-a	ivaa 
+five: ilima 
+broad: bola	bola-ha	uru 
+wide: bola	bola-ha	uru 
+wideness: bola	bola-ha	uru 
+fat: la kabili la	molamola	molamolala 
+thick: bitolu	uru 
+narrow: baisi	bisi	kapilikia	pepepea 
+principal wife: e rufula	rutu 
+wife: e rufula	rutu 
+husband: e aruala	harua 
+his mother: fila la	tila 
+mother: fila la	tila 
+my mother: fila la	tila 
+father: famala	tama 
+his father: famala	tama 
+my father: famala	tama 
+forest: hohoi	la fibulubulu	tibulu 
+woods: hohoi	la fibulubulu	tibulu 
+branch: hala	halala	la la ha la obu 
+stick: hala	halala	la la ha la obu 
+fruit: vavua	va|vua|la 
+flower: la purpuru	sese	sesee 
+grass: gaeke	garasi	rako 
+cord: la ropi	mota 
+rope: la ropi	mota 
+flesh: kalia	la maili la	la mailila	maili 
+meat: kalia	la maili la	la mailila	maili 
+grease: la kabili la	molamola	molamolala 
+wing: pa lapala	palapala	palapalala 
+gut: la famusi la	tamusi 
+guts: la famusi la	tamusi 
+insides: la famusi la	tamusi 
+intestine: la famusi la	tamusi 
+intestines: la famusi la	tamusi 
+back: la poke la	poga	poke 
+suck: kamu	susu	sususu	tomu 
+spit: kafupe	kapute	kavarasi	kavurasi 
+vomit: (ea) kala lua	kalalua 
+blow: lololovi	pusu	vahi	vai 
+breath: la-hate	lala	lalahate 
+breathe: la-hate	lala	lalahate 
+laugh: lege	lege lege 
+laughter: lege	lege lege 
+cogitate: gabu-tatala	gabutatala 
+reflect: gabu-tatala	gabutatala 
+think: gabu-tatala	gabutatala 
+smell: asaso	aso 
+sniff: asaso	aso 
+afraid: fafaga	matau	taga 
+be afraid: fafaga	matau	taga 
+fear: fafaga	matau	taga 
+fright: fafaga	matau	taga 
+alive: mahuli	maulu-uli	oio 
+be alive: mahuli	maulu-uli	oio 
+life: mahuli	maulu-uli	oio 
+live: mahuli	maulu-uli	oio 
+living: mahuli	maulu-uli	oio 
+hunt: mamata	vamusi 
+beat: kue	vaikokue 
+hit: kue	vaikokue 
+strike: kue	vaikokue 
+cut: ololo	tolo	tubi	vari 
+hack: ololo	tolo	tubi	vari 
+cut open: gali	sulu	sulu po la 
+split: gali	sulu	sulu po la 
+pierce: ea fagu	tagu	ubi 
+stab: ea fagu	tagu	ubi 
+scratch: (ea) kaikasi (la vovola)	ea makasilia	kasi 
+dig: oli 
+stand: ea magirigiri	magiri 
+drop: boru	paru 
+fall: boru	paru 
+grasp: abi	sau	sau-...	saufola 
+hold: abi	sau	sau-...	saufola 
+hold in arm: abi	sau	sau-...	saufola 
+squeeze: bebe	pulopulo 
+wring: bebe	pulopulo 
+throw: laba	pigi 
+bind: kisi	solo	vuu 
+fasten: kisi	solo	vuu 
+tie: kisi	solo	vuu 
+tie up: kisi	solo	vuu 
+sew: sahi	saisai 
+count: gigi	gigigi 
+enumerate: gigi	gigigi 
+number: gigi	gigigi 
+tally: gigi	gigigi 
+flow: sali 
+lake: mago-lilo 
+ocean: la mago	mago 
+sea: la mago	mago 
+dust: la pupuso	magasa-pupusi	pusi 
+fog: gahuku	gauku	la mavoko	veto 
+sky: la mori	lage	lagi	mori 
+bad: kama kokora	kama-kokora	komakoko ra 
+evil: kama kokora	kama-kokora	komakoko ra 
+rot: mavulu	mavulu-ti	parara	pupusa	pusa 
+rotten: mavulu	mavulu-ti	parara	pupusa	pusa 
+dirty: mumugu 
+filthy: mumugu 
+soiled: mumugu 
+sharp: kara	mata 
+blunt: magege	matatupo 
+damp: beta 
+wet: beta 
+right side: e gata	gata	labalaba 
+left: e meru	meru 
+at: o-io	oio te 
+in: i-ilo	o-ilo 
+inside: i-ilo	o-ilo 
+and: me 
+if: mai 

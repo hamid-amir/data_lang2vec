@@ -1,0 +1,459 @@
+all: bilaman | bilʌman 
+all: biləman | bilʌman 
+all: bilïman | bilʌman 
+all: bilʌman 
+all: blaman | bilʌman 
+arm: tang 
+arm: tʰaŋ 
+arm: t.han 
+arm: t.hang 
+ashes: bulu | uɹpʰipʰup 
+ashes: uɹpʰipʰ | uɹpʰipʰup 
+ashes: uɹpʰipʰup 
+ashes: urrphiph | uɹpʰipʰup 
+ashes: urrphiphuph | uɹpʰipʰup 
+bark: kʷan | kuam 
+bark: kuam 
+bark: kuan | kuam 
+bark: kwan | kuam 
+belly: bikam | bikʰam 
+belly: bikʰam 
+belly: bikëm | bikʰam 
+belly: bikəm | bikʰam 
+belly: bikham | bikʰam 
+big: wiɹi 
+big: wiri | wiɹi 
+bird: pʰəyay | pʰöyɑy 
+bird: phëyay | pʰöyɑy 
+bird: phöyay | pʰöyɑy 
+bird: poiai | pʰöyɑy 
+bird: pʰöyɑy | pʰöyɑy 
+bite: a-balangda | wa baləŋda 
+bite: abalʌŋda | wa baləŋda 
+bite: balëngda | wa baləŋda 
+bite: wa baləŋda 
+black: phug | pʰug 
+black: pʰug 
+blood: ai | 3i	əi 
+blood: əe | 3i	əi 
+blood: əi | 3i	əi 
+blood: ïe | 3i	əi 
+blood: ïi | 3i	əi 
+bone: khus | khus	kh~us	kʰus 
+bone: kuja | khus	kh~us	kʰus 
+bone: kʰus | khus	kh~us	kʰus 
+branch: tujir 
+breast: dal-gup | Num	ngum	ŋum 
+breast: gomai | Num	ngum	ŋum 
+breast: ŋɨam | Num	ngum	ŋum 
+breast: ngiam | Num	ngum	ŋum 
+breast: ŋiam | Num	ngum	ŋum 
+breast: ngïam | Num	ngum	ŋum 
+breast: ngum | Num	ngum	ŋum 
+breast: ŋum | Num	ngum	ŋum 
+burn: baybda 
+burn: wabaybda 
+burn: wa baybda 
+butterfly: kapal 
+cassowary: dirima 
+child: orlam 
+claw: azir | əzir 
+claw: ëzir | əzir 
+claw: əzir 
+claw: ʌzir | əzir 
+cloud: pulpul 
+cloud: pul-pul | pulpul 
+cold: gɨːb 
+cold: gï:b | gɨːb 
+come: t.ha:me | hame	wa th~ame	wa tʰaːme 
+come: wa tʰaːme | hame	wa th~ame	wa tʰaːme 
+crocodile: kuri 
+die: wa budɨla | wa bud3la	wa budɨla 
+die: wa budɨlɨm | wa bud3la	wa budɨla 
+dog: umae | umay 
+dog: umay 
+dog: ume | umay 
+dog: umʌe | umay 
+drink: ananda | ananda	wa ananda	waː ananda 
+drink: waː ananda | ananda	wa ananda	waː ananda 
+dry: mələg | mələga 
+dry: mələga 
+dry: nələg | mələga 
+ear: gɨblaŋ | gublaN	gublang	gublaŋ 
+ear: gïblang | gublaN	gublang	gublaŋ 
+ear: gubilang | gublaN	gublang	gublaŋ 
+ear: gublam | gublaN	gublang	gublaŋ 
+ear: gublang | gublaN	gublang	gublaŋ 
+ear: gublaŋ | gublaN	gublang	gublaŋ 
+earth: buaba | tʰɨːpʰ 
+earth: t.hï:p | tʰɨːpʰ 
+earth: t.hï:ph | tʰɨːpʰ 
+earth: tʰɨːp | tʰɨːpʰ 
+earth: tʰɨːpʰ 
+eat: aloda | waː aloda 
+eat: waː aloda 
+egg: urgup | urgupʰ 
+egg: u´r-gup | urgupʰ 
+egg: urgupʰ 
+egg: ur-guph | urgupʰ 
+egg: uru-gup | urgupʰ 
+elbow: kuirka 
+eye: ilkʰəp | 3lkh3kh3p	3lkh~3kh~3p	ɨlkʰəkʰɨp 
+eye: il-khëp | 3lkh3kh3p	3lkh~3kh~3p	ɨlkʰəkʰɨp 
+eye: ïl-khï-khïp | 3lkh3kh3p	3lkh~3kh~3p	ɨlkʰəkʰɨp 
+eye: il-khïph | 3lkh3kh3p	3lkh~3kh~3p	ɨlkʰəkʰɨp 
+eye: ilkʰɨpʰ | 3lkh3kh3p	3lkh~3kh~3p	ɨlkʰəkʰɨp 
+eye: il-ku-kup | 3lkh3kh3p	3lkh~3kh~3p	ɨlkʰəkʰɨp 
+eye: ɨlkʰəkʰɨp | 3lkh3kh3p	3lkh~3kh~3p	ɨlkʰəkʰɨp 
+face: ob-jek 
+father: ba 
+fat (n.): olgol 
+feather: ngïn | ŋun 
+feather: ŋɨn | ŋun 
+feather: ngun | ŋun 
+feather: ŋun 
+feather: ngunya | ŋun 
+finger: kumirima 
+finger: tampiam 
+fire: u:r | ur	uːr 
+fire: uːr | ur	uːr 
+fire: ura | ur	uːr 
+fish: waphi | waphuy	waph~uy	wapʰuy 
+fish: waphuy | waphuy	waph~uy	wapʰuy 
+fish: wapi | waphuy	waph~uy	wapʰuy 
+fish: wapʰi | waphuy	waph~uy	wapʰuy 
+fish: wapʰuy | waphuy	waph~uy	wapʰuy 
+five: dirgitong 
+flower: arrmulda 
+flower: arrmurda 
+flower: busoda 
+flower: kuirpa 
+fly (n.): owan 
+fly (v.): wa aɹmulda 
+fly (v.): wa aɹmurda 
+fly (v.): wa busoda 
+foot: abul 
+forest: bun 
+four: tokom 
+full: buku | ib	iːb 
+full: i:b | ib	iːb 
+full: iːb | ib	iːb 
+give: age-nda | wa agenda 
+give: gë.ï-lda | wa agenda 
+give: gï-lda | wa agenda 
+give: wa agenda 
+give: wa gəɨlda | wa agenda 
+give: wa gɨlda | wa agenda 
+good: moroal 
+green: piesopai 
+hair: ara-ngainyer | erŋen 
+hair: er-ngen | erŋen 
+hair: erŋen 
+hair: ərŋen | erŋen 
+hair: er-ngën | erŋen 
+hand: or 
+head: singël | siŋəl 
+head: siŋəl 
+head: singïl | siŋəl 
+head: siŋɨl | siŋəl 
+head: singul | siŋəl 
+hear: arrkurruda | arrkurruda	wa aXkuXuda	wa aɹkuɹuda 
+heart: mopho-khëph | mopʰokʰəpʰ 
+heart: mopho-khïph | mopʰokʰəpʰ 
+heart: mopʰokʰəpʰ 
+heart: mopʰokʰɨpʰ | mopʰokʰəpʰ 
+hear: wa aɹkuɹuda | arrkurruda	wa aXkuXuda	wa aɹkuɹuda 
+hit: gaijair 
+horn: ga:r | gar	gaːr 
+horn: gaːr | gar	gaːr 
+house: muirta 
+I: kata | katha	koth~o	kʌtʰʌ 
+I: kat.ha | katha	koth~o	kʌtʰʌ 
+I: kətʰ | katha	koth~o	kʌtʰʌ 
+I: kətʰə | katha	koth~o	kʌtʰʌ 
+I: kët.h | katha	koth~o	kʌtʰʌ 
+I: kët.hë | katha	koth~o	kʌtʰʌ 
+I: kʌtʰʌ | katha	koth~o	kʌtʰʌ 
+kill: amkhalda | wa amkʰalda 
+kill: wa amkʰalda 
+knee: wagasiŋəl | wagasiN3l	wagasing3l	wagasiŋəl 
+knee: wagasingïl | wagasiN3l	wagasing3l	wagasiŋəl 
+knee: wagəsiŋɨl | wagasiN3l	wagasing3l	wagasiŋəl 
+knee: wagïsingïl | wagasiN3l	wagasing3l	wagasiŋəl 
+knee: wagusingïl | wagasiN3l	wagasing3l	wagasiŋəl 
+knee: wagusiŋɨl | wagasiN3l	wagasing3l	wagasiŋəl 
+know: umëla | wa uməlda 
+know: umëlda | wa uməlda 
+know: wa uməla | wa uməlda 
+know: wa uməlda 
+leaf: pʰərgae | ph3rgae	ph~3rgae	praNay	prangay	praŋay	pʰərgae 
+leaf: pʰərŋae | ph3rgae	ph~3rgae	praNay	prangay	praŋay	pʰərgae 
+leaf: phïrgae | ph3rgae	ph~3rgae	praNay	prangay	praŋay	pʰərgae 
+leaf: phïrngae | ph3rgae	ph~3rgae	praNay	prangay	praŋay	pʰərgae 
+leaf: poringai | ph3rgae	ph~3rgae	praNay	prangay	praŋay	pʰərgae 
+leaf: prangay | ph3rgae	ph~3rgae	praNay	prangay	praŋay	pʰərgae 
+leaf: praŋay | ph3rgae	ph~3rgae	praNay	prangay	praŋay	pʰərgae 
+leaf: prerngae | ph3rgae	ph~3rgae	praNay	prangay	praŋay	pʰərgae 
+leaf: prərŋae | ph3rgae	ph~3rgae	praNay	prangay	praŋay	pʰərgae 
+leg: wapʰaɹ 
+leg: wapʰəɹ 
+leg: waphar 
+leg: waphïr 
+leg: wau 
+lip: tai 
+liver: khon-khon | khonkhon puringai	kh~onkh~on puriNai	kʰonkʰon puriŋai 
+liver: khon-khon puringai | khonkhon puringai	kh~onkh~on puriNai	kʰonkʰon puriŋai 
+liver: kʰonkʰon | khonkhon puringai	kh~onkh~on puriNai	kʰonkʰon puriŋai 
+liver: kʰonkʰon puriŋai | khonkhon puringai	kh~onkh~on puriNai	kʰonkʰon puriŋai 
+liver: opoko | khonkhon puringai	kh~onkh~on puriNai	kʰonkʰon puriŋai 
+long: khokoraph | kʰokʰorapʰ 
+long: kʰokʰorapʰ 
+louse: nəm | N33m	ng33m 
+louse: ngam | N33m	ng33m 
+louse: ngëm | N33m	ng33m 
+louse: ŋɨəm | N33m	ng33m 
+louse: ngïëm | N33m	ng33m 
+man: dirpar-pam | pham	ph~am	pʰam 
+man: pʰam | pham	ph~am	pʰam 
+man: pham | pham	ph~am	pʰam 
+many: abin | abun 
+many: abɪn | abun 
+many: abun 
+many: ʌbun | abun 
+meat: muːɹ 
+meat: mu:r 
+moon: malpal | melpal 
+moon: melpal 
+moon: mɛlpal | melpal 
+mosquito: buja 
+mother: bai-i 
+mountain: doro | ph~odo	pʰodo 
+mountain: pʰodo | ph~odo	pʰodo 
+mouth: tʰae 
+mouth: tʰai | tʰae 
+mouth: taipir | tʰae 
+mouth: t.hae | tʰae 
+mouth: t.hai | tʰae 
+name: ngi | Nui	ngui	ŋui 
+name: ŋi | Nui	ngui	ŋui 
+name: ngui | Nui	ngui	ŋui 
+name: ŋui | Nui	ngui	ŋui 
+name: ni | Nui	ngui	ŋui 
+navel: kopul 
+neck: gäpkho | gepkʰo 
+neck: gäpkʰo | gepkʰo 
+neck: gepkho | gepkʰo 
+neck: gepko | gepkʰo 
+neck: gepkʰo 
+new: kësil | k3sil	kəsil 
+new: kəsil | k3sil	kəsil 
+new: kïsil | k3sil	kəsil 
+new: kïsïl | k3sil	kəsil 
+new: kɨsil | k3sil	kəsil 
+new: kɨsɨl | k3sil	kəsil 
+night: iɹɨb | iXib	irrib	iɹib 
+night: iɹib | iXib	irrib	iɹib 
+night: iriwir | iXib	irrib	iɹib 
+night: irrib | iXib	irrib	iɹib 
+night: irrïb | iXib	irrib	iɹib 
+night: irrub | iXib	irrib	iɹib 
+night: iɹub | iXib	irrib	iɹib 
+nose: chiaka | si3kh	siəkʰ 
+nose: siëkh | si3kh	siəkʰ 
+not: khokhe | kʰokʰoe 
+not: khòkhe | kʰokʰoe 
+not: khokhoe | kʰokʰoe 
+not: k¯okʰe | kʰokʰoe 
+not: kʰɔkʰe | kʰokʰoe 
+not: kʰokʰoe 
+one: dəɹpʰan | d3Xph~an	d3rrphan	dəřpʰa:n	dəɹpʰaːn 
+one: dəɹpʰaːn | d3Xph~an	d3rrphan	dəřpʰa:n	dəɹpʰaːn 
+one: dërrphan | d3Xph~an	d3rrphan	dəřpʰa:n	dəɹpʰaːn 
+one: dërrpha:n | d3Xph~an	d3rrphan	dəřpʰa:n	dəɹpʰaːn 
+one: dirpan | d3Xph~an	d3rrphan	dəřpʰa:n	dəɹpʰaːn 
+person: pʰam | pham	ph~am	pʰam 
+person: pham | pham	ph~am	pʰam 
+rain: mupa | ŋup 
+rain: ngup | ŋup 
+rain: ŋup 
+rat: makeda 
+red: aiai 
+red: ai-ai | aiai 
+red: ʌiʌi | aiai 
+river: sauge 
+river: towa 
+road: kʰʷatʰ | khuat	kh~uath~ 
+road: khuat.h | khuat	kh~uath~ 
+road: khwat.h | khuat	kh~uath~ 
+road: kʰuatʰ | khuat	kh~uath~ 
+road: kuata | khuat	kh~uath~ 
+root: jitil | sɨmkən 
+root: sïmkën | sɨmkən 
+root: sïmkin | sɨmkən 
+root: sɨmkən 
+root: sɨmkɪn | sɨmkən 
+round: bumalek | bumalək 
+round: bumalək 
+sand: nales 
+sand: nəɹes | nales 
+sand: nërres | nales 
+say: bëkëtanda | nales 
+say: bëktanda | nales 
+say: bëkt.handa | nales 
+say: wa bəkətanda | nales 
+say: wa bəktanda | nales 
+say: wa bəktʰanda | nales 
+sea: malu 
+seed: khï:p | kʰɨːp 
+seed: kʰɨːp 
+see: esene | esene	wa esene	waː esene 
+see: wa esene | esene	wa esene	waː esene 
+see: waː esene | esene	wa esene	waː esene 
+shoulder: tupo 
+sit: mëranda | wa məranda 
+sit: wa məranda 
+skin: ngunia | sopai 
+skin: sopae | sopai 
+skin: sopai 
+skin: sopʰai | sopai 
+skin: sophai | sopai 
+sleep: u:dëta | waː uːdəta 
+sleep: utëda | waː uːdəta 
+sleep: waː uːdəta 
+sleep: wa utəda | waː uːdəta 
+small: kʰaɹi 
+small: kharri | kʰaɹi 
+smoke: nokam 
+smoke: nokum | nokam 
+spit: guir 
+stand: dzhamalda 
+stand: zamëlda 
+stand: zamngëlda 
+star: ingilgup | wimuX	wimurr	wimuɹ 
+star: wimuɹ | wimuX	wimurr	wimuɹ 
+star: wimur | wimuX	wimurr	wimuɹ 
+star: wimurr | wimuX	wimurr	wimuɹ 
+stone: inglkhïp | iNlkh~urph~	inglkhurph	iŋlkʰurpʰ 
+stone: inglkhup | iNlkh~urph~	inglkhurph	iŋlkʰurpʰ 
+stone: inglkhurph | iNlkh~urph~	inglkhurph	iŋlkʰurpʰ 
+stone: iŋlkʰɨp | iNlkh~urph~	inglkhurph	iŋlkʰurpʰ 
+stone: iŋlkʰup | iNlkh~urph~	inglkhurph	iŋlkʰurpʰ 
+stone: iŋlkʰurpʰ | iNlkh~urph~	inglkhurph	iŋlkʰurpʰ 
+sun: abis | abis	abɪs 
+sun: abïs | abis	abɪs 
+sun: abɪs | abis	abɪs 
+sun: abwichir | abis	abɪs 
+sun: əbɨs | abis	abɪs 
+swim: apërrda | wa apəɹda 
+swim: wa apəɹda 
+tail: uːpʰ 
+tail: u:ph | uːpʰ 
+that: ene | one 
+that: əne | one 
+that: one 
+this: ini 
+thou: ma | mata	mato	matʌ 
+thou: matʌ | mata	mato	matʌ 
+thou: ma-ta | mata	mato	matʌ 
+thou: ma-të | mata	mato	matʌ 
+thou: matə | mata	mato	matʌ 
+three: au-udu 
+tongue: uːlitʰ | ulit	ulith~	ulitʰ 
+tongue: ulitʰ | ulit	ulith~	ulitʰ 
+tongue: ulita | ulit	ulith~	ulitʰ 
+tongue: u:lit.h | ulit	ulith~	ulitʰ 
+tongue: ulit.h | ulit	ulith~	ulitʰ 
+tooth: jir-gup | zirgup	zirrgup 
+tooth: zirgɨpʰ | zirgup	zirrgup 
+tooth: zirgup | zirgup	zirrgup 
+tooth: zirr-gïph | zirgup	zirrgup 
+tooth: zirr-gup | zirgup	zirrgup 
+tree: nugup 
+two: nigir | ni:s	nis	niːs 
+two: ni:s | ni:s	nis	niːs 
+two: niːs | ni:s	nis	niːs 
+walk: agëlda | wa tʰətʰədaise 
+walk: t.hët.hëda | wa tʰətʰədaise 
+walk: t.hët.hëdaise | wa tʰətʰədaise 
+walk: wa agəlda | wa tʰətʰədaise 
+walk: wa tʰətʰəda | wa tʰətʰədaise 
+walk: wa tʰətʰədaise 
+wallaby: torla 
+warm: urur 
+water: nae | naiy 
+water: nai | naiy 
+water: naiy 
+we (excl.): kʰiː 
+we (incl.): mi 
+we: khi: | mi 
+what: laːrə 
+white: gabulpuli | ŋarui 
+white: ngarui | ŋarui 
+white: ŋarui 
+white: ngëri | ŋarui 
+white: ŋəri | ŋarui 
+who: nat.hë | nətʰə 
+who: nëtë | nətʰə 
+who: nətə | nətʰə 
+who: nətʰə 
+who: nët.hë | nətʰə 
+who: nʌtʰə | nətʰə 
+wife: kula-kola 
+woman: dirpan-kol | kʰol 
+woman: khol | kʰol 
+woman: kho:l | kʰol 
+woman: kʰol 
+woman: kʰoːl | kʰol 
+yellow: aɹɪɹkʰɨpʰ | izari 
+yellow: arrirr-khïph | izari 
+yellow: izari 
+yellow: tʰʌgali | izari 
+yellow: t.hagali | izari 
+every: bilʌman 
+ash: uɹpʰipʰup 
+abdomen: bikʰam 
+bigness: wiɹi 
+large: wiɹi 
+breasts: Num	ngum	ŋum 
+nail: əzir 
+talon: əzir 
+come from: hame	wa th~ame	wa tʰaːme 
+be dead: wa bud3la	wa budɨla 
+dead: wa bud3la	wa budɨla 
+ground: tʰɨːpʰ 
+land: tʰɨːpʰ 
+soil: tʰɨːpʰ 
+fly: wa aɹmulda 
+fly v.: wa aɹmulda 
+1 sg.: katha	koth~o	kʌtʰʌ 
+be knowledgeable: wa uməlda 
+head louse: N33m	ng33m 
+male: pʰam 
+much: abun 
+multiple: abun 
+several: abun 
+hill: ph~odo	pʰodo 
+title: Nui	ngui	ŋui 
+nighttime: iXib	irrib	iɹib 
+adulterous: d3Xph~an	d3rrphan	dəřpʰa:n	dəɹpʰaːn 
+single: d3Xph~an	d3rrphan	dəřpʰa:n	dəɹpʰaːn 
+the: d3Xph~an	d3rrphan	dəřpʰa:n	dəɹpʰaːn 
+unprincipled: d3Xph~an	d3rrphan	dəřpʰa:n	dəɹpʰaːn 
+human: pham	ph~am	pʰam 
+human being: pham	ph~am	pʰam 
+rainy weather: ŋup 
+path: khuat	kh~uath~ 
+route: khuat	kh~uath~ 
+hide: sopai 
+little: kʰaɹi 
+smallness: kʰaɹi 
+rock: iNlkh~urph~	inglkhurph	iŋlkʰurpʰ 
+2 sg: mata	mato	matʌ 
+you: mata	mato	matʌ 
+grind: ni:s	nis	niːs 
+go: wa tʰətʰədaise 
+1 pl. inc.: mi 
+we₁: mi 
+whiteness: ŋarui 
+who?: nətʰə 
+female: kʰol 

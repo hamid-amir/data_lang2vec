@@ -1,0 +1,140 @@
+all: ʼqalan 
+every: ʼqalan 
+ash: ʼqabu 
+ashes: ʼqabu 
+abdomen: ɨgɨtɨk 
+belly: ɨgɨtɨk 
+big: qaʼdagi 
+bigness: qaʼdagi 
+large: qaʼdagi 
+bird: ʼtagbis 
+bite: ʼkagat 
+black: ʼqitɨm 
+blood: lang3sa	laʼngɨsa 
+bone: tul7an	ʼtulqan 
+breast: susu	ʼkagpa	ʼsusu 
+breasts: susu	ʼkagpa	ʼsusu 
+burn: ʼbigsul 
+burn tr.: ʼbigsul 
+cloud: ʼgabun 
+cold: ʼtinuq 
+be dead: ʼpatay 
+dead: ʼpatay 
+die: ʼpatay 
+dog: asu	ʼqasu 
+drink: inum	ʼqinum 
+dry: ʼbilad	ʼmada 
+ear: taliNa	taʼlinga 
+eat: ʼkaqɨn 
+egg: ʼqimpis 
+eye: mata	ʼmata 
+feather: ʼlawi 
+fire: hapuy	ʼhapuy 
+fish: s3da7	ʼsɨdaq 
+fly: ʼlanguy 
+fly v.: ʼlanguy 
+full: punu7 
+good: ʼqayad 
+green: ʼhilaw 
+hair: ʼbuhuk 
+hand: alima	qaʼlima 
+left hand: alima	qaʼlima 
+right: alima	qaʼlima 
+head: ʼqulu 
+hear: paliman	paʼliman 
+1 sg.: si7ak 
+I: si7ak 
+kill: hiʼmatay 
+knee: bu73l 
+be knowledgeable: kiʼlala 
+know: kiʼlala 
+leaf: dahun	ʼdahun 
+liver: atay	ʼqatay 
+long: ʼlayat 
+head louse: tuma	ʼtuma 
+louse: tuma	ʼtuma 
+male: maʼqama 
+man: 3taw	ʼqɨtaw 
+moon: ʼbulan 
+hill: bubuNan 
+mountain: bubuNan 
+mouth: ʼbaqʼbaq 
+name: Nadan	ʼngadan 
+title: Nadan	ʼngadan 
+neck: ʼliqɨg 
+new: bag7u	ʼbagqu 
+night: dal3man	daʼlɨman 
+nighttime: dal3man	daʼlɨman 
+nose: iduN	ʼqidung 
+adulterous: sabuwa	sabúwa	saʼbuwa 
+one: sabuwa	sabúwa	saʼbuwa 
+single: sabuwa	sabúwa	saʼbuwa 
+that: sabuwa	sabúwa	saʼbuwa 
+the: sabuwa	sabúwa	saʼbuwa 
+unprincipled: sabuwa	sabúwa	saʼbuwa 
+human: 3taw	ʼqɨtaw 
+human being: 3taw	ʼqɨtaw 
+person: 3taw	ʼqɨtaw 
+rain: ʼqudan 
+rainy weather: ʼqudan 
+red: ʼligaq 
+path: dalan 
+road: dalan 
+route: dalan 
+root: ʼgamut 
+sand: baʼyɨkʼbɨk 
+say: ʼkagi 
+see: aha7	qaʼhaq 
+sit: ʼpinuqu 
+hide: langgit	ʼlanggit 
+skin: langgit	ʼlanggit 
+sleep: tiʼduga 
+little: qaʼtiyuq 
+small: qaʼtiyuq 
+smallness: qaʼtiyuq 
+smoke: ʼqɨbɨl 
+star: bitu73n	ʼbituqɨn 
+rock: batu	ʼbatu 
+stone: batu	ʼbatu 
+swim: ʼlanguy 
+tail: ʼqikug 
+2 sg: sikaw 
+thou: sikaw 
+you: sikaw 
+tongue: dila7	ʼdilaq 
+tooth: Nip3n	ʼngipin 
+tree: kayu 
+grind: daduwa	dadúwa	ʼdaduwa 
+two: daduwa	dadúwa	ʼdaduwa 
+go: hiʼpanaw 
+walk: hiʼpanaw 
+hot: ʼpasuq 
+warm: ʼpasuq 
+water: wahig	ʼwahig 
+1 pl. inc.: sikuy 
+we: sikuy 
+we₁: sikuy 
+what: ʼqinu 
+white: ʼputiq 
+whiteness: ʼputiq 
+who: ʼsinqu 
+who?: ʼsinqu 
+female: ʼbahi 
+woman: ʼbahi 
+yellow: makaʼlawag 
+distant: ʼdiyuq 
+far: ʼdiyuq 
+dull: ʼbɨgat 
+heavy: ʼbɨgat 
+serious: ʼbɨgat 
+close: ʼqubay 
+near: ʼqubay 
+ner: ʼqubay 
+salt: ʼqasin 
+short: ʼbaba 
+snake: ʼbunsaʼlagan 
+thin: ʼnipis 
+wind: kaʼlamag 
+earthworm: kaliʼmanggɨd 
+worm: kaliʼmanggɨd 
+year: ʼtuqig 

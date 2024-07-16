@@ -1,0 +1,338 @@
+all: derrig | дерриг	массо 
+ashes: juq\ | чим	юкъ 
+bark: kewstig | кевстиг 
+belly: čuo | гē	гай 
+big: doqqa | доккха 
+bird: olχazar | олхазар 
+bite: joχka | цергаш йохка 
+black: ʕӓrža | Iаьржа	Іаьржа 
+blood: ċij | цIий	цІий 
+bone: dӓʕaχk | даьIахк	даьІахк 
+breast: naqa | нāкха	накха 
+burn tr.: dago | дāгō 
+claw (nail: mʕara 
+cloud: marχa | марха 
+cold: šijla | шийла	шила 
+come: dan | дāн	да̅н	схьада̅н	схьакхача 
+die: dala | дІада̅ла	дала	делла 
+dog: žʕӓla | жIаьла	жІаьла	жӀала	пхьу 
+drink: mijla | мала	мийла 
+dry: deʠa | дакъаделла	декъа 
+ear: lerg | лерг 
+earth: latta | дуьне	латта	мохк 
+earth: moχk | дуьне	латта	мохк 
+eat: jaʔa | даа 
+egg: hoa | хIоа	хІоа 
+eye: bʕӓrg | бIаьрг	бІаьрг	бӀаьрг 
+far: genara | гена	генара	генахь 
+fat n.: moħ | мохь 
+feather: pelag | пēлаг	пелаг 
+fire: ċe | алу	цIе	цІе 
+fish: ḉara | чIāра	чІара	чӀара 
+fly v.: lela | лēла	лела	эха 
+foot: kog | ког	коган кІело 
+full: d\fczna | дуьззина	дуьзна 
+give: dala | дала 
+good: dika | дика	диканиг	тайна 
+green: bӓccara | баьццара 
+hair: čo | мас	чо 
+hand: k\fcg | ка	куьг	тІа̅ра 
+head: korta | корта 
+heart: dog | дог 
+hear: χaza | хаза	хезаш хила 
+heavy: d-eza | деза 
+horn: kur | маIа	маІа 
+horn: maʕa | маIа	маІа 
+I: so | со 
+kill: den | дēн	ден 
+knee: gola | гōла	гола 
+know: χaʔa | хаа 
+leaf: ʁa | гIа	гІа	патар 
+lie: ʕilla | Iилла	дижа	охьадижа | пуьчаш ботта	харц лен 
+liver: doʕaχ | доIах	доІах 
+long: deχa | деха 
+louse: meza | меза 
+man: stag | адам	стаг 
+many: duqa | дукха 
+meat: žižig | дегІ	жижиг 
+moon: butt | бутт 
+mountain: lam | барз	гу	лам	лама	ш̅у 
+mouth: baga | бага 
+name: ċe | цIе	цІе	цӀе 
+near: gergara | гергара	йуххехь	уллохь 
+neck: vorta | ворта 
+new: ċina | керла	цІена 
+night: b\fcjsa | буьйса 
+nose: mara | мара 
+not: ca | ма	ца 
+one: cħaʔ | цхьаъ 
+person: stag | адам	стаг 
+rain: doʁa | догIа	догІа	догӀа 
+red: ċen | цIēн	цІен 
+road: neʠ | некъ 
+root: oram | ōрам	орам 
+round: gorga | горга 
+salt: t\fcχa | туха	туьха 
+sand: ʁum | гIум	гІум 
+say: len | āла	ала	дистхила | гIум	гІум 
+seed: hu | хIу	хІу	хӀу 
+see: gan | ган 
+short: d-ōca | дōца	доца	йоца	лоца 
+sit: ʕen | Іан	хиъна Iан 
+sit: χaʔa | Іан	хиъна Iан 
+skin: ċoka | неI	цIōка	цІока 
+sleep: jan | дижина хила	наб йан	наб ян 
+small: žima | жима 
+smoke: ḳur | кIур	кІур 
+snake: lӓħa | лаьхьа	текхарг 
+stand: latta | латта | ирахь хила	латта 
+star: seda | сēда	седа 
+stone: qera | тIулг	тІулг	тарх 
+sun: malχ | малх 
+swim: dan | нēка дан	нека дан 
+tail: ċoga | цIога	цІога 
+that: dʕora | дIāра	дӀора	дӀораниг | цхьаъ 
+thin: d-uṭʠa | дуткъа	юьткъа 
+this: hara | и	хIа-ра 
+this: i(-za) | и	хIа-ра 
+thou: ħo | хьо	шу 
+tongue: mott | мотт 
+tooth: cerg | церг 
+tree: ditt | дитт 
+two: šiʔ | шиъ 
+walk (go): daχa 
+warm: mela | довха	мела 
+water: χi | хи 
+we: tχo | вай	тхо 
+we: vaj | вай	тхо 
+what: hun | хIун	хІун	хӀун 
+white: ḳajn | кIайн	кІайн	кӀайн 
+who: mila | мила 
+wind: moχ | мох 
+woman: zuda | зуда 
+worm: nʕӓna | нIаьна	нІаьна	нӀаьна 
+year: šo | шо 
+yellow: moža | мōжа	можа 
+every: дерриг	массо 
+ash: чим	юкъ 
+abdomen: гē	гай 
+bigness: доккха 
+large: доккха 
+breasts: нāкха	накха 
+burn: дāгō 
+claw: мIāра	мІара	маIар 
+nail: мIāра	мІара	маIар 
+talon: мIāра	мІара	маIар 
+come from: дāн	да̅н	схьада̅н	схьакхача 
+be dead: дІада̅ла	дала	делла 
+dead: дІада̅ла	дала	делла 
+ground: дуьне	латта	мохк 
+land: дуьне	латта	мохк 
+soil: дуьне	латта	мохк 
+fat: мохь 
+grease: мохь 
+lubricant: мохь 
+oil: мохь 
+fly: лēла	лела	эха 
+left hand: ка	куьг	тІа̅ра 
+right: ка	куьг	тІа̅ра 
+1 sg.: со 
+be knowledgeable: хаа 
+lie down: Iилла	дижа	охьадижа 
+head louse: меза 
+male: боьрша стаг	стаг 
+much: дукха 
+multiple: дукха 
+several: дукха 
+flesh: дегІ	жижиг 
+hill: барз	гу	лам	лама	ш̅у 
+title: цIе	цІе	цӀе 
+nighttime: буьйса 
+adulterous: цхьаъ 
+single: цхьаъ 
+the: цхьаъ 
+unprincipled: цхьаъ 
+human: адам	стаг 
+human being: адам	стаг 
+rainy weather: догIа	догІа	догӀа 
+path: некъ 
+route: некъ 
+hide: неI	цIōка	цІока 
+little: жима 
+smallness: жима 
+rock: тIулг	тІулг	тарх 
+2 sg: хьо	шу 
+you: хьо	шу 
+grind: шиъ 
+go: даха	лела 
+walk: даха	лела 
+hot: довха	мела 
+1 pl. inc.: вай	тхо 
+we₁: вай	тхо 
+whiteness: кIайн	кІайн	кӀайн 
+who?: мила 
+female: зуда 
+distant: гена	генара	генахь 
+dull: деза 
+serious: деза 
+close: гергара	йуххехь	уллохь 
+ner: гергара	йуххехь	уллохь 
+earthworm: нIаьна	нІаьна	нӀаьна 
+3 sg.: и	иза 
+he: и	иза 
+she: и	иза 
+2 pl.: шу 
+ye: шу 
+you all: шу 
+3 pl.: уьзаш	уьзуш	уьш 
+they: уьзаш	уьзуш	уьш 
+here: кхузахь 
+there: цигахь 
+where: мича 
+where?: мича 
+when: маца 
+when?: маца 
+how: муха 
+how?: муха 
+some: масех	масийтта 
+few: жимма	кІезиг 
+other: кхин 
+three: кхоъ 
+four: диъ 
+five: пхиъ 
+broad: шуьйра 
+wide: шуьйра 
+wideness: шуьйра 
+thick: стомма 
+narrow: готта 
+child: бер 
+principal wife: зуда 
+wife: зуда 
+husband: майра 
+his mother: нана 
+mother: нана 
+my mother: нана 
+father: да 
+his father: да 
+my father: да 
+animal: акхаро	дийнат 
+forest: хьун 
+woods: хьун 
+branch: га	дечиг 
+stick: га	дечиг 
+fruit: стом 
+flower: зезаг 
+grass: буц 
+cord: муш	тӀийриг	чуха 
+rope: муш	тӀийриг	чуха 
+fingernail: мІара 
+leg: ког 
+wing: тІам	тӀам 
+gut: чуьйраш 
+guts: чуьйраш 
+insides: чуьйраш 
+intestine: чуьйраш 
+intestines: чуьйраш 
+back: букъ	ги 
+suck: дакха	цІубдан	чухудадала 
+spit: туй	шет 
+vomit: Іетто 
+blow: дуса	хьекха 
+breath: садеІа 
+breathe: садеІа 
+laugh: дела 
+laughter: дела 
+cogitate: ойла йан 
+reflect: ойла йан 
+think: ойла йан 
+smell: хьожа йаха 
+sniff: хьожа йаха 
+afraid: кхерам	кхерар 
+be afraid: кхерам	кхерар 
+fear: кхерам	кхерар 
+fright: кхерам	кхерар 
+alive: да̅ха	да̅хар	даха	дийна 
+be alive: да̅ха	да̅хар	даха	дийна 
+life: да̅ха	да̅хар	даха	дийна 
+live: да̅ха	да̅хар	даха	дийна 
+living: да̅ха	да̅хар	даха	дийна 
+fight: ле̅та 
+hunt: талла эха 
+beat: детта	етта 
+hit: детта	етта 
+strike: детта	етта 
+cut: хедо 
+hack: хедо 
+cut open: ата	дакъа	дохо	кагдан 
+split: ата	дакъа	дохо	кагдан 
+pierce: ден 
+stab: ден 
+dig: лашадала	леда	эга 
+tell lies: пуьчаш ботта	харц лен 
+turn: дІадаржа	схьадаржо 
+turn around: дІадаржа	схьадаржо 
+turn round: дІадаржа	схьадаржо 
+drop: охьаэга	херца 
+fall: охьаэга	херца 
+grasp: латто 
+hold: латто 
+hold in arm: латто 
+squeeze: Іовда 
+wring: Іовда 
+rub: дІадайа	дІадаккха 
+wipe: дІадайа	дІадаккха 
+wash: дила 
+wash clothes: дила 
+push: татта 
+shove: татта 
+throw: кхийса 
+bind: дІадехка 
+fasten: дІадехка 
+tie: дІадехка 
+tie up: дІадехка 
+sew: тега 
+count: дагардан	лара 
+enumerate: дагардан	лара 
+number: дагардан	лара 
+tally: дагардан	лара 
+sing: ала	дека	лекха 
+have fun: ловза 
+play: ловза 
+flow: эха 
+brook: Іовраш	доьди хи	татол	хи 
+river: Іовраш	доьди хи	татол	хи 
+stream: Іовраш	доьди хи	татол	хи 
+lake: Іам 
+ocean: хІорд 
+sea: хІорд 
+dust: чан 
+fog: дохк 
+sky: стигал	стигла 
+snow: ло 
+ice: ша	ша хьакхар 
+blaze: дага	догуш хила 
+day: де 
+daylight: де 
+daytime: де 
+old: шира 
+bad: вон 
+evil: вон 
+rot: дахкаделла 
+rotten: дахкаделла 
+dirty: боьха 
+filthy: боьха 
+soiled: боьха 
+straight: дуьххьал	нийса 
+sharp: ира 
+blunt: аьрта 
+smooth: шера 
+damp: тІеда 
+wet: тІеда 
+correct: нийса 
+right side: аьтту агІо 
+left: аьрру агІо 
+in: йуккъехь	чу 
+inside: йуккъехь	чу 
+and: а	а - а 
+if: нагахь	нагахь санна 
+because: хӀунда аьлча	цундела 

@@ -1,0 +1,335 @@
+arm: gairi 
+ashes: bo\ano | boʔana	boʔano	boʔanu	tepagini 
+ashes: boʔano | boʔana	boʔano	boʔanu	tepagini 
+ashes: bo\anu | boʔana	boʔano	boʔanu	tepagini 
+ashes: tepagini | boʔana	boʔano	boʔanu	tepagini 
+back: ibai | ebaʔi	ibai	namegu 
+bark: emini-atai 
+belly: iwo | eibo	eβi	iwo	naeiβi 
+big: gewa | maga 
+big: maga 
+bird: kaneni | kaneni	kanini	kanino	kanyinyi 
+bird: kanino | kaneni	kanini	kanino	kanyinyi 
+black: bi\ebi\eni | biebieni	biʔabiʔaⁱnⁱ	biʔebiʔeni	viʔebiʔeni 
+black: biʔebiʔeni | biebieni	biʔabiʔaⁱnⁱ	biʔebiʔeni	viʔebiʔeni 
+black: vi\ebi\eni | biebieni	biʔabiʔaⁱnⁱ	biʔebiʔeni	viʔebiʔeni 
+blood: apa\a | apa7a	apao	apaʔa	apaʔu 
+blood: apaʔa | apa7a	apao	apaʔa	apaʔu 
+bone: koto-ma | koto-ma	koto-mo	kotoma	kotomo	natiɸotoma 
+bone: kotomo | koto-ma	koto-mo	kotoma	kotomo	natiɸotoma 
+bone: koto-mo | koto-ma	koto-mo	kotoma	kotomo	natiɸotoma 
+branch: siaka | meʔagaʔ	siaka	siyaka 
+breast: kabema | didu	dio	diʔi	kabema	riro 
+breast: riro | didu	dio	diʔi	kabema	riro 
+cheek: baubu 
+child: edai | aβara	edai 
+chin: waoma 
+cloud: manino | manini	manino	maɲino 
+cold: rowo\ui | roboʔo	roboʔu	rowoʔui	roβo 
+come: mawe | ma-we	mawe	maβe 
+come: ma-we | ma-we	mawe	maβe 
+crocodile: awajhaga 
+day: bereano | bereano	bereanomo 
+dog: roga | roga	rogaʔ 
+drink: u-rewe | u-rewe	urewe	ureβe 
+dry: kakeri | kakaⁱriŋ	kakeri 
+earth: bodono 
+earth: erawu | bodono 
+eat: ni- | ni-	niɣe 
+egg: ubuko | ubuko	wuko	βuko 
+egg: wuko | ubuko	wuko	βuko 
+elbow: meugedu 
+excrement: kaeo 
+eye: imago | imaga	imago	imagu 
+eye: imagu | imaga	imago	imagu 
+far: ouwa | ouwa	oβa 
+feather: kumi 
+finger: ideboru-gigiaro 
+fingernail: eboro-si-danu | eboro-si-danu	ege-si-danu	egesanu	egesidanu	negesanusidano	siːdan 
+fingernail: egesidanu | eboro-si-danu	ege-si-danu	egesanu	egesidanu	negesanusidano	siːdan 
+fingernail: ege-si-danu | eboro-si-danu	ege-si-danu	egesanu	egesidanu	negesanusidano	siːdan 
+fire: ajhiwa | adiwa	ayhiwa	ažiwa	kadiwa	kadiβa 
+fire: kadiwa | adiwa	ayhiwa	ažiwa	kadiwa	kadiβa 
+fish: bibe\a | bibe7a	bibea	bibeʔa 
+five: neboraida | neboraida	neɸauraⁱta	niboraida 
+fly (n.): mourai 
+fly (v.): wie-we 
+foot: e\oru | euru	eʔora	eʔoro	eʔoru	neora 
+foot: euru | euru	eʔora	eʔoro	eʔoru	neora 
+forehead: iorawa 
+forest: mogo | maᵘgo	mogi	mogo 
+four: ougeï | oge oge	ouge-ouge	ougeï	ougyouge	oːgroge 
+fruit: bu\ | aba	buʔ	oge 
+give: na\e | meⁱɣe	naʔe 
+give: naʔe | meⁱɣe	naʔe 
+good: nasio | nasio	naši 
+green: manetuni | iǯoʔa	manetuni 
+hair: awainu | awainu	karara	waini	waʔini	waʔino 
+hair: karara | awainu	karara	waini	waʔini	waʔino 
+hair: wa\ini | awainu	karara	waini	waʔini	waʔino 
+hand: gairi | eʔigairi	gairi	nebɔra 
+head: ko\iwi | koibi	koiwɔ	koiβi	koʔiwi 
+head: koʔiwi | koibi	koiwɔ	koiβi	koʔiwi 
+hear: obo- | obo	obo-	oboʔani 
+he/she: ni(n)de 
+hole: a-\uni 
+house: eina 
+I: nedi | -βo	ne-di	nedi	nei 
+I: ne-di | -βo	ne-di	nedi	nei 
+I: nei | -βo	ne-di	nedi	nei 
+kill: taufuweira! | koβe	taufuweirá 
+knee: omienu 
+leaf: oroni | beroni	oroni	roni 
+leg: eʔori | eʔori	eʔoru 
+leg: e\oru | eʔori	eʔoru 
+lightning: mekerere 
+lip: iano 
+long: meri | meri	merio 
+louse: kono 
+man: dune-irabini | danei	daneʔi	dune 
+man: rabini | danei	daneʔi	dune 
+many: muro | muro	muromo 
+meat: ama | amabui	amaʔ	nitinamaɸui 
+moon: maninago | ago	maninago	maninaxo	maɲinago 
+mosquito: komomo 
+mountain: paito | betoʔo	paito	sirio	siriyo 
+mouth: aiba | aebo	aiba	aibʌ	iʔanu 
+mouth: i\anu | aebo	aiba	aibʌ	iʔanu 
+name: naidi | naidi	naⁱti	raiyhi	raiži 
+name: raijhi | naidi	naⁱti	raiyhi	raiži 
+near: borä | borä	namebora 
+neck: oa\a | oaʔa	soburu	wawɔ	waʔa 
+neck: soburu | oaʔa	soburu	wawɔ	waʔa 
+new: ito 
+night: muareni | muareni	muarini	muera	mwareno	mʷareni 
+night: muera | muareni	muarini	muera	mwareno	mʷareni 
+nose: mi\obi | mi7obi	miobi	miɔbi	miʔobi 
+nose: miobi-agano | mi7obi	miobi	miɔbi	miʔobi 
+one: mo-\onada | mo-ʔonada	mo7onada	monada	moonada	moʔonada	moʔonata 
+one: moʔonada | mo-ʔonada	mo7onada	monada	moonada	moʔonada	moʔonata 
+person: danei | danei	daneʔi	dune 
+person: dune | danei	daneʔi	dune 
+rain: parato | parati	parato 
+rat: ajhi\i 
+rat: nikai\o 
+red: namuri | mumuri	məmuri	namuri 
+river: owejhi | oweži 
+road: aumo 
+root: gowoni 
+rope: ugi | keri	kori	ugi 
+sand: miono | mioni	miono	miyoni	myoni 
+sea: tuano 
+seed: uguni 
+see: we\e | we7e	weʔe	βeʔani 
+see: weʔe | we7e	weʔe	βeʔani 
+sit: amuge | amu-ge	amuge 
+sit: amu-ge | amu-ge	amuge 
+skin: atai | atai	atao	ataⁱ	idadini	nadinataⁱ 
+skin: idadini | atai	atao	ataⁱ	idadini	nadinataⁱ 
+sky: manino | manino	maɲino 
+sleep: ina-we | ina-we	inaβe	rai rabawe	rairabawe 
+sleep: rairabawe | ina-we	inaβe	rai rabawe	rairabawe 
+sleep: rai rabawe | ina-we	inaβe	rai rabawe	rairabawe 
+small: ki\itai | keʔitai	kiʔitai	kiʔitaⁱ 
+smoke: kukubi | bukubi	kukubi	kukubo 
+snake: gijhu | geidi	geⁱdi	gižu 
+spit: podea | bodeʔa 
+stand: ide-we | ide-we	ideβe 
+star: mobeni 
+stone: be\ono | be7ono	beono	beʔono 
+stone: beʔono | be7ono	beono	beʔono 
+sun: egedi | egedi	egeyhi	egeži 
+sun: egejhi | egedi	egeyhi	egeži 
+tail: ipapo (?) | ipapo	mobutu	rebuaw	reguwaⁱ	rewai	rewuai	reβaⁱ 
+tail: mobutu | ipapo	mobutu	rebuaw	reguwaⁱ	rewai	rewuai	reβaⁱ 
+tail: rebuaw | ipapo	mobutu	rebuaw	reguwaⁱ	rewai	rewuai	reβaⁱ 
+tail: rewuai | ipapo	mobutu	rebuaw	reguwaⁱ	rewai	rewuai	reβaⁱ 
+that: da\uga | dauʔa	daʔuga	daⁱʔika	duwaʔaβe | mo-ʔonada	mo7onada	monada	moonada	moʔonada	moʔonata 
+they: nidau | -numu	nidau 
+thigh: ara 
+this: nggoi\a | gaⁱya	gaⁱʔa	goiʔa	ŋgoiʔa 
+thou: edi | e-di	e-ʔi	e7i	edi 
+thou: e-di | e-di	e-ʔi	e7i	edi 
+thou: e-\i | e-di	e-ʔi	e7i	edi 
+three: arue | arue	aruwe	arué	aruβe 
+tongue: idamui | idamui	iʔani	iʔaɲi	nuni 
+tongue: nuni | idamui	iʔani	iʔaɲi	nuni 
+tooth: amanu | amano	amanu 
+tree: emino 
+two: owge | oge	ouge	owge	oːge 
+walk: oweiru | riaβamu	riʔawe 
+walk: ri\awe | riaβamu	riʔawe 
+warm: tatei 
+water: adona | adona	adono	atona 
+water: adono | adona	adono	atona 
+weep: imago-adomo 
+weep: kauwe 
+we: ididi | ndani 
+we: i-di(di) | ndani 
+we (incl.): ndani 
+we: ni-djidji | ndani 
+we two (incl.): nidani onge 
+we two: nidjidji onge 
+what: niga\ino | nigaʔino	nigaʔinu 
+white: ehinggo | ehiŋgo	keoni	keʔoni	keʔoɲi 
+white: ke\oni | ehiŋgo	keoni	keʔoni	keʔoɲi 
+who: imae | imae	imaⁱ 
+wind: amepuru | amepuro	amepuru	amipuri	maerpuno 
+wing: metoru | kumi	metoru 
+woman: dune-uorawo | dune-uorawo	raβo 
+wood: ugeri 
+you: i-djidji | e-di	e-ʔi	e7i	edi | i-dǯidǯi	i-žiži 
+you: i-jhijhi | e-di	e-ʔi	e7i	edi | i-dǯidǯi	i-žiži 
+all: eʔemua	eʔemuʔa	karemono 
+every: eʔemua	eʔemuʔa	karemono 
+ash: boʔana	boʔano	boʔanu	tepagini 
+abdomen: eibo	eβi	iwo	naeiβi 
+bigness: maga 
+large: maga 
+bite: ageanedo	ageve	nameʔageane 
+breasts: didu	dio	diʔi	kabema	riro 
+come from: ma-we	mawe	maβe 
+be dead: tauanedo 
+dead: tauanedo 
+die: tauanedo 
+ear: erabu	erawa 
+ground: bodono 
+land: bodono 
+soil: bodono 
+fly: vieanero	wie-we	βierane 
+fly v.: vieanero	wie-we	βierane 
+full: dobueʔanomo	dobwerabanu 
+left hand: eʔigairi	gairi	nebɔra 
+right: eʔigairi	gairi	nebɔra 
+heart: abiyodi	byauri	nabiauri 
+1 sg.: -βo	ne-di	nedi	nei 
+be knowledgeable: totoraʔan 
+know: totoraʔan 
+liver: aubo	aubu	mamau 
+head louse: kono 
+male: dune-irabini	rabini	raβini 
+much: muro	muromo 
+multiple: muro	muromo 
+several: muro	muromo 
+flesh: amabui	amaʔ	nitinamaɸui 
+hill: betoʔo	paito	sirio	siriyo 
+title: naidi	naⁱti	raiyhi	raiži 
+nighttime: muareni	muarini	muera	mwareno	mʷareni 
+adulterous: mo-ʔonada	mo7onada	monada	moonada	moʔonada	moʔonata 
+single: mo-ʔonada	mo7onada	monada	moonada	moʔonada	moʔonata 
+the: mo-ʔonada	mo7onada	monada	moonada	moʔonada	moʔonata 
+unprincipled: mo-ʔonada	mo7onada	monada	moonada	moʔonada	moʔonata 
+human: danei	daneʔi	dune 
+human being: danei	daneʔi	dune 
+rainy weather: parati	parato 
+path: aumo 
+route: aumo 
+say: mioni	miono	miyoni	myoni 
+hide: atai	atao	ataⁱ	idadini	nadinataⁱ 
+little: keʔitai	kiʔitai	kiʔitaⁱ 
+smallness: keʔitai	kiʔitai	kiʔitaⁱ 
+rock: be7ono	beono	beʔono 
+2 sg: e-di	e-ʔi	e7i	edi 
+grind: oge	ouge	owge	oːge 
+go: riaβamu	riʔawe 
+hot: tatei 
+1 pl. inc.: ndani 
+we₁: ndani 
+whiteness: ehiŋgo	keoni	keʔoni	keʔoɲi 
+who?: imae	imaⁱ 
+female: dune-uorawo	raβo 
+yellow: gugama	gugamaʔ 
+distant: ouwa	oβa 
+dull: raber rano	raberano	rabetutuo 
+heavy: raber rano	raberano	rabetutuo 
+serious: raber rano	raberano	rabetutuo 
+close: borä	namebora 
+ner: borä	namebora 
+salt: kaiʔo	merano	muofono 
+thin: nereʔi	reresi	rereʔi 
+earthworm: aroini	hanɔʔiri 
+worm: aroini	hanɔʔiri 
+3 sg.: nide	ninde 
+he: nide	ninde 
+she: nide	ninde 
+2 pl.: i-dǯidǯi	i-žiži 
+ye: i-dǯidǯi	i-žiži 
+you all: i-dǯidǯi	i-žiži 
+3 pl.: -numu	nidau 
+few: kekeu	kekeʔu 
+broad: mago 
+wide: mago 
+wideness: mago 
+fat: amauʔauʔ	amouo	amoʔi 
+thick: amauʔauʔ	amouo	amoʔi 
+narrow: genani 
+principal wife: amagodi 
+wife: amagodi 
+husband: amago 
+his mother: atoʔo 
+mother: atoʔo 
+my mother: atoʔo 
+father: adeʔe 
+his father: adeʔe 
+my father: adeʔe 
+woods: maᵘgo	mogi	mogo 
+stick: meʔagaʔ	siaka	siyaka 
+grass: ukuwa 
+cord: keri	kori	ugi 
+claw: eboro-si-danu	ege-si-danu	egesanu	egesidanu	negesanusidano	siːdan 
+nail: eboro-si-danu	ege-si-danu	egesanu	egesidanu	negesanusidano	siːdan 
+suck: uragaβe 
+vomit: βiorabaʔe 
+blow: wepaβe 
+breath: nemumigarauβo 
+breathe: nemumigarauβo 
+cut: tarabe	terarani 
+hack: tarabe	terarani 
+pierce: keraβe 
+stab: keraβe 
+scratch: βolge 
+dig: aβeⁱ aβeⁱ 
+drop: abuʔani 
+fall: abuʔani 
+grasp: ginoβe 
+hold: ginoβe 
+hold in arm: ginoβe 
+rub: iʔige 
+wipe: iʔige 
+wash: rogorabo 
+wash clothes: rogorabo 
+bind: bawe	baβe 
+fasten: bawe	baβe 
+tie: bawe	baβe 
+tie up: bawe	baβe 
+count: rakapuβeⁱ 
+enumerate: rakapuβeⁱ 
+number: rakapuβeⁱ 
+tally: rakapuβeⁱ 
+sing: obena 
+have fun: diraʔo 
+play: diraʔo 
+flow: adanadebeirani	amuda deberano	kerarano 
+brook: oweži 
+stream: oweži 
+lake: aβiagono	maragano 
+dust: vivio	βiβio 
+fog: kukubi	tapano 
+daylight: bereano	bereanomo 
+daytime: bereano	bereanomo 
+bad: tesi 
+evil: tesi 
+rot: miʔai	miʔao 
+rotten: miʔai	miʔao 
+dirty: kakapiro	kamoⁱanitu	kamuaini 
+filthy: kakapiro	kamoⁱanitu	kamuaini 
+soiled: kakapiro	kamoⁱanitu	kamuaini 
+straight: kebebi	kekebi	kekebio 
+sharp: ageuo	ageʔui	ageʔwi 
+blunt: topio	topiʔi	topiʔo 
+smooth: wateteʔan	wateteⁱan	wɔteteano 
+damp: rupi	rupo 
+wet: rupi	rupo 
+correct: tuteʔi 
+right side: beʔuni 
+left: didora 

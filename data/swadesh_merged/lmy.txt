@@ -1,0 +1,259 @@
+all: tangadha 
+every: tangadha 
+ash: karaka 
+ashes: karaka 
+abdomen: tí 
+belly: tí 
+big: madàka 
+bigness: madàka 
+large: madàka 
+bird: kawurna 
+bite: katiy 
+black: matna 
+blood: ra 
+bone: ri	rí 
+breast: suhu 
+breasts: suhu 
+burn: tunu 
+burn tr.: tunu 
+cloud: karàba 
+cold: mayaggala 
+come: amini	àmini 
+come from: amini	àmini 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: bh~aga	bhàga 
+drink: enu 
+dry: mayara 
+ear: katilu 
+eat: ya 
+egg: tàl	tàlu 
+eye: mata 
+feather: wul	wulu 
+fire: lati	làti 
+fish: kaboko 
+fly: wurna 
+fly v.: wurna 
+good: daha 
+green: moro 
+hair: wú 
+hand: lima 
+left hand: lima 
+right: lima 
+head: katàku 
+hear: raNe	rànge 
+1 sg.: nauwa 
+I: nauwa 
+kill: hamate 
+be knowledgeable: tada 
+know: tada 
+leaf: ro 
+liver: ate 
+long: malau 
+head louse: ut	utu 
+louse: ut	utu 
+male: kabhani 
+man: ata 
+moon: wula 
+mouth: bhá 
+name: Nara	ngara 
+title: Nara	ngara 
+neck: bhuku 
+new: ber	beru 
+night: gadi	gàdi 
+nighttime: gadi	gàdi 
+nose: karu	kàru 
+adulterous: 8iha	dhiha	dh~iha	diha 
+one: 8iha	dhiha	dh~iha	diha 
+single: 8iha	dhiha	dh~iha	diha 
+that: nàdho 
+the: 8iha	dhiha	dh~iha	diha 
+unprincipled: 8iha	dhiha	dh~iha	diha 
+human: ata 
+human being: ata 
+person: ata 
+rain: ura 
+rainy weather: ura 
+red: màl	màli 
+path: lara 
+road: lara 
+route: lara 
+root: kalarta 
+sand: pahalai 
+say: hanewe 
+see: etay 
+sit: ngodho 
+hide: kalita	kalíta 
+skin: kalita	kalíta 
+sleep: dura 
+little: maraha 
+small: maraha 
+smallness: maraha 
+smoke: hàm	hàmu 
+star: madu	madú 
+rock: watu 
+stone: watu 
+swim: nang	nangi 
+tail: kikna	kiku 
+this: nàdhe 
+2 sg: yauw 
+thou: yauw 
+you: yauw 
+tongue: lama	làma 
+tooth: Nudu	ngudu 
+grind: 8u8a	dhudha	dh~udh~a	duda 
+two: 8u8a	dhudha	dh~udh~a	duda 
+go: kako 
+walk: kako 
+hot: ngangaha 
+warm: ngangaha 
+water: we 
+1 pl. inc.: yita 
+we: yita 
+we₁: yita 
+what: agai 
+white: kaka 
+whiteness: kaka 
+who: iyaw	iyay 
+who?: iyaw	iyay 
+female: lawai 
+woman: lawai 
+yellow: kunta 
+distant: marau 
+far: marau 
+dull: bhíta 
+heavy: bhíta 
+serious: bhíta 
+close: habara 
+near: habara 
+ner: habara 
+salt: màhi 
+short: padaka 
+snake: nipe 
+thin: manipha 
+wind: rereha 
+earthworm: lot	loti 
+worm: lot	loti 
+year: dau 
+3 pl.: yida 
+they: yida 
+where: gini 
+where?: gini 
+when: piraho 
+when?: piraho 
+how: aga lina dha 
+how?: aga lina dha 
+other: hekai 
+three: tauda	taudha 
+four: pata 
+five: lima	limma 
+broad: lura 
+wide: lura 
+wideness: lura 
+fat: habana	màru 
+thick: makala 
+narrow: dingota 
+principal wife: ole uma 
+wife: ole uma 
+husband: lai 
+his mother: inya 
+mother: inya 
+my mother: inya 
+father: ama 
+his father: ama 
+my father: ama 
+forest: ram	rami 
+woods: ram	rami 
+fruit: wú 
+flower: wàla 
+grass: ruta 
+cord: kalàri 
+rope: kalàri 
+flesh: kana 
+meat: kana 
+grease: habana	màru 
+wing: kapa 
+gut: tanai 
+guts: tanai 
+insides: tanai 
+intestine: tanai 
+intestines: tanai 
+back: kabèdo 
+suck: kabihka 
+spit: tarumna 
+vomit: muta 
+blow: ha-upu 
+breath: ngahu 
+breathe: ngahu 
+laugh: malha 
+laughter: malha 
+cogitate: hangàdha-ge 
+reflect: hangàdha-ge 
+think: hangàdha-ge 
+smell: ngaʼha 
+sniff: ngaʼha 
+afraid: madauta 
+be afraid: madauta 
+fear: madauta 
+fright: madauta 
+alive: morha 
+be alive: morha 
+life: morha 
+live: morha 
+living: morha 
+hunt: kalola 
+beat: pal	palu 
+hit: pal	palu 
+strike: pal	palu 
+cut: katari	katupla 
+hack: katari	katupla 
+cut open: wikara 
+split: wikara 
+pierce: duh-hu 
+stab: duh-hu 
+scratch: kau 
+dig: hàka 
+stand: dede 
+drop: mon	monu 
+fall: mon	monu 
+grasp: nàtona 
+hold: nàtona 
+hold in arm: nàtona 
+squeeze: pahla 
+wring: pahla 
+throw: tuk	tuku 
+bind: katna 
+fasten: katna 
+tie: katna 
+tie up: katna 
+sew: kàti 
+count: yapna 
+enumerate: yapna 
+number: yapna 
+tally: yapna 
+flow: lalo 
+lake: hoba 
+ocean: we bànu 
+sea: we bànu 
+dust: kabka 
+fog: habung 
+sky: langta 
+bad: bhokala 
+evil: bhokala 
+rot: bhau 
+rotten: bhau 
+dirty: matna 
+filthy: matna 
+soiled: matna 
+sharp: tama 
+blunt: karonga 
+damp: magla 
+wet: magla 
+right side: kawana 
+left: kalí 
+at: ta 
+in: nèdho lari 
+inside: nèdho lari 
+and: lòpo 
+if: nyika we 

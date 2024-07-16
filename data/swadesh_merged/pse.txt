@@ -1,0 +1,263 @@
+all: galə 
+every: galə 
+ash: abu 
+ashes: abu 
+abdomen: pəxut 
+belly: pəxut 
+big: bəsaʔ 
+bigness: bəsaʔ 
+large: bəsaʔ 
+bird: buruŋ 
+bite: ŋgigit 
+black: itam 
+blood: daxah 
+bone: tulaŋ 
+breast: susu 
+breasts: susu 
+burn: nunu 
+burn tr.: nunu 
+cloud: aban 
+cold: diŋin 
+come: dataŋ 
+come from: dataŋ 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: anjiŋ 
+drink: minum 
+dry: kəxiŋ 
+ear: čupiŋ 
+eat: makan 
+egg: təlux 
+eye: matə 
+feather: bulu 
+fire: api 
+fish: ikan 
+fly: məxəbaŋ 
+fly v.: məxəbaŋ 
+good: iluk 
+green: ijau 
+hair: gumbaʔ 
+hand: taŋan 
+left hand: taŋan 
+right: taŋan 
+head: palaʔ 
+hear: ŋaniŋ 
+1 sg.: aku 
+I: aku 
+kill: mbunuh 
+be knowledgeable: tau 
+know: tau 
+leaf: daun 
+lie: tidux 
+lie down: tidux 
+liver: ati 
+long: panjaŋ 
+head louse: kutu 
+louse: kutu 
+male: jantan 
+man: jəmə 
+moon: bulan 
+mouth: mulut 
+name: namə 
+title: namə 
+neck: liax̥ 
+new: əmpai 
+night: malam 
+nighttime: malam 
+nose: iduŋ 
+adulterous: sijat 
+one: sijat 
+single: sijat 
+that: itu 
+the: sijat 
+unprincipled: sijat 
+human: jəmə 
+human being: jəmə 
+person: jəmə 
+rain: ujan 
+rainy weather: ujan 
+red: mixah 
+path: jalan 
+road: jalan 
+route: jalan 
+root: akax 
+sand: buŋin 
+say: ŋumuŋ 
+see: ŋinaʔ 
+sit: duduʔ 
+hide: kulit 
+skin: kulit 
+sleep: tidux 
+little: kəciʔ 
+small: kəciʔ 
+smallness: kəciʔ 
+smoke: asap 
+star: bintaŋ 
+rock: batu 
+stone: batu 
+swim: bədənaŋ 
+tail: ikuʔ 
+this: ini 
+2 sg: ŋan 
+thou: ŋan 
+you: ŋan 
+tongue: lidah 
+tooth: gigi 
+grind: duə 
+two: duə 
+go: bəjalan 
+walk: bəjalan 
+hot: paras 
+warm: paras 
+water: ayax 
+1 pl. inc.: kami	kitə 
+we: kami	kitə 
+we₁: kami	kitə 
+what: apə 
+white: putih 
+whiteness: putih 
+who: sapə 
+who?: sapə 
+female: bətinə 
+woman: bətinə 
+yellow: kuniŋ 
+distant: jauh 
+far: jauh 
+dull: bəxat 
+heavy: bəxat 
+serious: bəxat 
+close: paraʔ 
+near: paraʔ 
+ner: paraʔ 
+salt: gaxam 
+short: pandaʔ 
+snake: ulax 
+thin: nipis 
+wind: aŋin 
+earthworm: caʔciŋ 
+worm: caʔciŋ 
+year: taun 
+2 pl.: kamu 
+ye: kamu 
+you all: kamu 
+where: dimanə 
+where?: dimanə 
+when: kəbilə 
+when?: kəbilə 
+how: maʔmanə 
+how?: maʔmanə 
+other: lain 
+three: tigə 
+four: əmpat 
+broad: libax 
+wide: libax 
+wideness: libax 
+fat: gəmuʔ 
+thick: kandal 
+narrow: kəciʔ 
+principal wife: bini 
+wife: bini 
+husband: laki 
+his mother: umaʔ 
+mother: umaʔ 
+my mother: umaʔ 
+father: bapaʔ 
+his father: bapaʔ 
+my father: bapaʔ 
+forest: utan 
+woods: utan 
+branch: dahan 
+stick: dahan 
+fruit: buabuahan 
+flower: buŋə 
+grass: xumput 
+cord: tali 
+rope: tali 
+flesh: dagiŋ 
+meat: dagiŋ 
+grease: gəmuʔ 
+wing: sayap 
+gut: pəxut 
+guts: pəxut 
+insides: pəxut 
+intestine: pəxut 
+intestines: pəxut 
+back: puŋguŋ 
+suck: ŋisap 
+spit: məliux 
+vomit: təmutah 
+blow: niup 
+breath: napas 
+breathe: napas 
+laugh: tətawə 
+laughter: tətawə 
+cogitate: bəpikir 
+reflect: bəpikir 
+think: bəpikir 
+smell: m̃ium 
+sniff: m̃ium 
+afraid: takut 
+be afraid: takut 
+fear: takut 
+fright: takut 
+alive: idup 
+be alive: idup 
+life: idup 
+live: idup 
+living: idup 
+hunt: bəburu 
+beat: mukul 
+hit: mukul 
+strike: mukul 
+cut: nətaʔ 
+hack: nətaʔ 
+cut open: mbəlah 
+split: mbəlah 
+pierce: nujah 
+stab: nujah 
+scratch: ŋgaxu 
+dig: ŋali 
+stand: bəxaŋkat 
+drop: titiʔ 
+fall: titiʔ 
+grasp: ŋəcaʔ 
+hold: ŋəcaʔ 
+hold in arm: ŋəcaʔ 
+squeeze: məxah 
+wring: məxah 
+throw: ŋumbai 
+bind: ŋaxut 
+fasten: ŋaxut 
+tie: ŋaxut 
+tie up: ŋaxut 
+sew: njait 
+count: ŋituŋ 
+enumerate: ŋituŋ 
+number: ŋituŋ 
+tally: ŋituŋ 
+flow: an̄ut 
+lake: danau 
+ocean: laut 
+sea: laut 
+dust: abu 
+fog: kabut 
+sky: laŋit 
+bad: jàhat 
+evil: jàhat 
+rot: busuk 
+rotten: busuk 
+dirty: kamah 
+filthy: kamah 
+soiled: kamah 
+sharp: landap 
+blunt: tumpul 
+damp: basah 
+wet: basah 
+right side: kanan 
+left: kiri 
+at: di 
+in: dalam 
+inside: dalam 
+and: awan 
+if: kalu 

@@ -1,0 +1,502 @@
+all: al | al	alle	elk	ieder 
+all: al, ales | al	alle	elk	ieder 
+all: alle | al	alle	elk	ieder 
+and: en 
+animal: beest | beest	dier 
+animal: bîest | beest	dier 
+ashes: as, asen 
+ashes: as, assen 
+at: op | aan	bij	in	op	te 
+at: up, bâ | aan	bij	in	op	te 
+back: terug | rug	terug 
+back: trüch | rug	terug 
+bad: shlecht | erg	kwaad	slecht 
+bad: slecht | erg	kwaad	slecht 
+bark: blafe(n) | bast	schors 
+bark: blaffen | bast	schors 
+because: omdat | dewijl	omdat 
+because: umda(t) | dewijl	omdat 
+belly: bûek | buik	maag 
+belly: buik | buik	maag 
+big: dik,ghrûet | groot 
+big: groot, dik 
+bird: vogel 
+bird: vôghel | vogel 
+bite: bâite(n) | bijten 
+bite: bijten 
+black: zwart 
+black: zwet | zwart 
+blood: blôd | bloed	blut 
+blood: bloed | bloed	blut 
+blow: blazen | blazen	waaien 
+bone: been | been	ben	bot	knekel	knook 
+bone: bîen | been	ben	bot	knekel	knook 
+breast: borst 
+breast: tète(n), borste(n) 
+breathe: ademen | adem	ademen 
+breathe: ôdeme(n) | adem	ademen 
+burn: branden 
+burn: brande(n) | branden 
+child: kind 
+child: kind, klâene 
+cloud: wolk 
+cloud: wolke(n) 
+cold: kâd | koud 
+cold: koud 
+come: komen | kom3n	komen 
+come: kôme(n) | kom3n	komen 
+correct: juist | correct	juist	richtig 
+correct: jüst,corect | correct	juist	richtig 
+count: tèle(n) | tellen 
+count: tellen, rekenen 
+cut: snâie(n) | doorsnijden	houwen	knippen	snijden 
+cut: snijden | doorsnijden	houwen	knippen	snijden 
+day: dach | dag 
+day: dag 
+die: stèreve(n) | dood	stErv3n	sterven 
+die: sterven | dood	stErv3n	sterven 
+dig: graven | delven	graven 
+dirty: vûel, dèghutant | smerig	vies	vuil 
+dirty: vuil | smerig	vies	vuil 
+dog: hond | hond	hont 
+dog: ont | hond	hont 
+drink: drinken | driNk3n	drinken 
+drink: drinke(n) | driNk3n	drinken 
+dry: droog 
+dry: drûegh | droog 
+dull: bot | zwaar | bot	stomp 
+dull: dof | zwaar | bot	stomp 
+dull: saai | zwaar | bot	stomp 
+dust: stof 
+earth: aarde | aarde	land 
+earth: ôrde | aarde	land 
+ear: ûer | oor	or 
+ear: (v.) horen, (n.) oor | oor	or 
+eat: eten 
+eat: ête(n) | eten 
+egg: â | ei 
+egg: ei 
+eye: oog | oX	oog 
+eye: ûegh | oX	oog 
+fall: vale(n) | vallen 
+fall: vallen 
+far: ver 
+far: vèr | ver 
+father: vader | pappa	vader 
+father: vôder, pa, papa | pappa	vader 
+fat (n.): vet 
+fat (n.): vèt 
+fear: angst | angst	schrik	vrees	vrezen 
+fear: benât zèn | angst	schrik	vrees	vrezen 
+fear: vrees | angst	schrik	vrees	vrezen 
+feather: plûem | veder	veer 
+feather: pluim | veder	veer 
+feather: veer | veder	veer 
+few: ènkele | weinig 
+few: weinig 
+fight: vechten | kampen	strijden	vechten 
+fight: vèchte(n) | kampen	strijden	vechten 
+fingernail: nagel | nagel	vingernagel 
+fingernail: nôghel | nagel	vingernagel 
+fire: vör | vir	vuur 
+fire: vuur (v.) vuren | vir	vuur 
+fish: vis 
+five: vâef | vijf 
+five: vijf 
+float: drijven | drijven	vlieten	zweven 
+flower: bloem 
+flower: blum | bloem 
+flow: vloeden | stromen	vlieten	vloeien 
+fly (v.): vlééghe(n) 
+fly (v.): vliegen 
+fog: mist | mist	nevel 
+foot: voet 
+foot: vôt | voet 
+forest: bos | bos	woud 
+four: véér | vier 
+four: vier 
+freeze: vrééze(n), vrîeze(n) | bevriezen	vriezen 
+freeze: vriezen | bevriezen	vriezen 
+fruit: freet | fruit	vrucht 
+fruit: fruit | fruit	vrucht 
+full: vol 
+give: geven 
+give: ghêve(n) | geven 
+good: gôd | goed 
+good: goed 
+grass: ghras 
+grass: gras 
+green: groen 
+green: grôn | groen 
+guts: darmen | darmen	ingewanden 
+hair: haar 
+hair: ôr | haar 
+hand: and, ant | hand	hant 
+hand: hand | hand	hant 
+head: kop | hoofd	kop 
+head: kop, hoofd | hoofd	kop 
+hear: horen | hor3n	horen 
+hear: hûere(n) | hor3n	horen 
+heart: èt, art | hart 
+heart: hart 
+heavy: zwaar 
+heavy: zwôr | zwaar 
+he: hâe, hê | hij 
+he: hij 
+here: éé | hier 
+here: hier 
+hit: raken | raken	slaan	treffen 
+hit: rôke(n) | raken	slaan	treffen 
+hold: âde(n) | houden	vasthouden 
+hold: houden | houden	vasthouden 
+horn: hoorn | hoorn	horn 
+horn: ûern | hoorn	horn 
+how: hoe 
+how: ô | hoe 
+hunt: jagen 
+hunt: jôghe, shasêre(n) | jagen 
+husband: man | echtgenoot	gade	man 
+husband: man, echtgenote | echtgenoot	gade	man 
+ice: âes | ijs 
+ice: ijs 
+if: indéén, as | als	indien 
+if: indien, als | als	indien 
+I: ik 
+in: in | binnen	in 
+kill: vermoorden | doden 
+kill: vermûerde(n) | doden 
+knee: knéé | kni	knie 
+knee: knie | kni	knie 
+know: weten | kennen	weten 
+know: wête(n) | kennen	weten 
+lake: lac | meer 
+lake: meer 
+laugh: lachen 
+laugh: lache(n) | lachen 
+leaf: blad | blad	blat	loof	lover 
+left: links | linker	links 
+leg: been 
+leg: bîen | been 
+lie: liggen | gaan liggen	liggen | leugen	liegen	liggen 
+lie: lighe(n) | gaan liggen	liggen | leugen	liegen	liggen 
+live: leven | in leven	leven	levend 
+live: lêve(n) | in leven	leven	levend 
+liver: lever | lev3r	lever 
+liver: lêver | lev3r	lever 
+long: lang 
+louse: lûes | hoofdluis	l3is	luis 
+louse: luis | hoofdluis	l3is	luis 
+man: man | %pErson	mEns	mens	persoon 
+many: veel | menig	menige	veel	vele 
+meat: vlees 
+meat: vlîes | vlees 
+moon: maan 
+moon: môn | maan 
+mother: moeder | mamma	moeder 
+mother: mooder | mamma	moeder 
+mountain: beregh | bErx	berg	heuvel 
+mountain: berg | bErx	berg	heuvel 
+mouth: mond | mond	muil 
+name: naam | naam	nam 
+name: nôm | naam	nam 
+narrow: smal | eng	krap	nauw	smal 
+near: dichtbij | dichtbij	nabij 
+near: nefest | dichtbij	nabij 
+neck: nek | hals	nek 
+new: nieuw | nieuw	niu 
+new: nö | nieuw	niu 
+night: nacht | nacht	nat 
+nose: nees | nes	neus 
+nose: neus | nes	neus 
+not: ni | niet 
+not: niet 
+old: âv, âd | oud 
+old: oud 
+one: een | een	en 
+one: îen | een	en 
+other: ander | ander	andere 
+person: persoon | %pErson	mEns	mens	persoon 
+person: persûen, mèns | %pErson	mEns	mens	persoon 
+play: spelen 
+play: spêle(n) | spelen 
+pull: trèke(n) | trekken 
+pull: trekken 
+push: duwen 
+push: düwe(n) | duwen 
+rain: regen 
+rain: rêghe(n) | regen 
+red: rood 
+red: rûed | rood 
+right: rechts | hand	hant | rechter	rechts 
+river: rivéér, bêk | beek	rivier	stroom 
+river: rivier | beek	rivier	stroom 
+road: strôt, wegh, Rü | pat	vEx	weg 
+road: weg | pat	vEx	weg 
+root: wortel 
+rope: koord, touw | koord	reep	snoer	touw	zeel 
+rope: kôrd | koord	reep	snoer	touw	zeel 
+rotten: rot | rot	verrot 
+round: rond 
+rub: wrijven | wissen	wrijven 
+salt: zât | zout 
+salt: zout 
+sand: zand 
+say: zeggen | zand 
+say: zeghe(n) | zeggen | zand 
+scratch: kras, scratch | krabben 
+sea: zee 
+sea: zéén | zee 
+seed: zaad 
+seed: zôd | zaad 
+see: zîe | zien	zin 
+see: zien | zien	zin 
+sew: naaien 
+sharp: scherp 
+short: ket | kort 
+short: kort 
+sing: zingen 
+sing: zinge(n) | zingen 
+sit: zite(n), nê zete | zetten	zitten 
+sit: zitten | zetten	zitten 
+skin: huid | h3id	huid	vEl	vel 
+skin: vel | h3id	huid	vEl	vel 
+sky: hemel | hemel	lucht	zwerk 
+sky: hêmel | hemel	lucht	zwerk 
+sleep: slapen | slaap	slapen 
+sleep: slôpe(n) | slaap	slapen 
+small: klein | klein	luttel 
+small: smal | klein	luttel 
+smell: rieken | ruiken 
+smell: rîke(n) | ruiken 
+smell: ruiken 
+smoke: fuméé; | rook 
+smoke: roken | rook 
+smooth: zacht | effen	glad 
+snake: slang 
+snow: sneeuw 
+snow: snîe | sneeuw 
+some: em bètshe | beetje	enige	enkele	sommige 
+some: sommige, een beetje | beetje	enige	enkele	sommige 
+spit: spike(n) | spugen	spuwen 
+spit: spuit | spugen	spuwen 
+split: delen | kloven	splijten 
+squeeze: knijpen | drukken	klemmen	knijpen	uitpersen	wringen 
+squeeze: persen | drukken	klemmen	knijpen	uitpersen	wringen 
+stab: steek | steken 
+stand: staan 
+stand: stôn | staan 
+star: ster 
+stick: steken | staaf	stok	tak 
+stone: steen | rots	steen	sten 
+stone: stîen | rots	steen	sten 
+straight: direct | recht 
+straight: recht 
+suck: zûeghe | zuigen 
+suck: zuigen 
+sun: zon 
+swell: zwellen 
+swell: zwole(n) | zwellen 
+swim: zweme(n) | zwemmen 
+swim: zwemmen 
+tail: staart 
+tail: stôrt | staart 
+that: da, date, dade | dat	die | een	en 
+that: dat, die | dat	die | een	en 
+there: daar | daar	der 
+there: dô | daar	der 
+they: zâe | ze	zij 
+they: zij | ze	zij 
+thick: dik 
+thin: dun 
+think: denken 
+think: pâze(n) | denken 
+this: da, dad éé | deze	dit 
+this: dit, deze | deze	dit 
+thou: ghâe, ghe | U	gij	je	jij	u	y3	yEi 
+thou: jij, je | U	gij	je	jij	u	y3	yEi 
+three: drâ | drie 
+three: drie 
+throw: werpen | gooien	werpen 
+tie: binden | binden	knopen 
+tongue: tong | toN	tong 
+tooth: tand | tand	tant 
+tree: boom | bom	boom 
+tree: bûem | bom	boom 
+turn: draaien | draaien	omdraaien	zich omdraaien 
+turn: drôie(n) | draaien	omdraaien	zich omdraaien 
+two: twee | tve	twee 
+two: twîe | tve	twee 
+vomit: braaksel | braken	kotsen	overgeven	spugen 
+vomit: kotse(n) | braken	kotsen	overgeven	spugen 
+walk: gaan | gaan	lopen	stappen	wandelen 
+walk: lopen | gaan	lopen	stappen	wandelen 
+walk: marchêre(n) | gaan	lopen	stappen	wandelen 
+warm: warm | lauw	warm 
+warm: wèrem | lauw	warm 
+wash: wase(n) | wassen 
+wash: wassen 
+water: water | vat3r	water 
+water: wôter | vat3r	water 
+wet: nat | nat	vochtig 
+we: wâ,wâele | v3	vEi	we	wij 
+we: wij | v3	vEi	we	wij 
+what: wat 
+what: wa, wat, wadde 
+when: wanîer | wanneer 
+when: wanneer 
+where: waar 
+where: wô | waar 
+white: wit 
+who: wéé | wie 
+who: wie 
+wide: breed | breed	wijd 
+wide: brîed | breed	wijd 
+wife: vrouw, echtgenote, bruid | echtgenote	gade	vrouw	wijf 
+wife: wâef, vrâ | echtgenote	gade	vrouw	wijf 
+wind: wind 
+wing: vleeghel | vlerk	vleugel 
+wing: vleugel | vlerk	vleugel 
+wipe: efasêre(n) | afvegen	vegen 
+wipe: wissen | afvegen	vegen 
+with: met 
+with: mè(t) | met 
+woman: vrâ, moke | vrouw 
+woman: vrouw 
+worm: worm 
+year: jaar 
+year: yôr | jaar 
+yellow: geel 
+yellow: ghêl | geel 
+you: ghae | U	gij	je	jij	u	y3	yEi | gij	jullie	jullie u	u 
+you: u | U	gij	je	jij	u	y3	yEi | gij	jullie	jullie u	u 
+every: al	alle	elk	ieder 
+ash: as 
+ashes: as 
+abdomen: buik	maag 
+bigness: groot 
+large: groot 
+breasts: borst 
+claw: klauw 
+nail: klauw 
+talon: klauw 
+come from: kom3n	komen 
+be dead: dood	stErv3n	sterven 
+dead: dood	stErv3n	sterven 
+ground: aarde	land 
+land: aarde	land 
+soil: aarde	land 
+fly: vliegen 
+fly v.: vliegen 
+left hand: hand	hant 
+1 sg.: ik 
+be knowledgeable: kennen	weten 
+lie down: gaan liggen	liggen 
+head louse: hoofdluis	l3is	luis 
+male: man 
+much: menig	menige	veel	vele 
+multiple: menig	menige	veel	vele 
+several: menig	menige	veel	vele 
+flesh: vlees 
+hill: bErx	berg	heuvel 
+title: naam	nam 
+nighttime: nacht	nat 
+adulterous: een	en 
+single: een	en 
+the: een	en 
+unprincipled: een	en 
+human: %pErson	mEns	mens	persoon 
+human being: %pErson	mEns	mens	persoon 
+rainy weather: regen 
+path: pat	vEx	weg 
+route: pat	vEx	weg 
+hide: h3id	huid	vEl	vel 
+little: klein	luttel 
+smallness: klein	luttel 
+rock: rots	steen	sten 
+2 sg: U	gij	je	jij	u	y3	yEi 
+grind: tve	twee 
+go: gaan	lopen	stappen	wandelen 
+hot: lauw	warm 
+1 pl. inc.: v3	vEi	we	wij 
+we₁: v3	vEi	we	wij 
+whiteness: wit 
+who?: wie 
+female: vrouw 
+distant: ver 
+serious: zwaar 
+close: dichtbij	nabij 
+ner: dichtbij	nabij 
+earthworm: worm 
+3 sg.: hij 
+she: hij 
+2 pl.: gij	jullie	jullie u	u 
+ye: gij	jullie	jullie u	u 
+you all: gij	jullie	jullie u	u 
+3 pl.: ze	zij 
+where?: waar 
+when?: wanneer 
+how?: hoe 
+broad: breed	wijd 
+wideness: breed	wijd 
+fat: vet 
+principal wife: echtgenote	gade	vrouw	wijf 
+his mother: mamma	moeder 
+my mother: mamma	moeder 
+his father: pappa	vader 
+my father: pappa	vader 
+woods: bos	woud 
+branch: staaf	stok	tak 
+cord: koord	reep	snoer	touw	zeel 
+grease: vet 
+arm: hand 
+gut: darmen	ingewanden 
+insides: darmen	ingewanden 
+intestine: darmen	ingewanden 
+intestines: darmen	ingewanden 
+breath: adem	ademen 
+laughter: lachen 
+cogitate: denken 
+reflect: denken 
+sniff: ruiken 
+afraid: angst	schrik	vrees	vrezen 
+be afraid: angst	schrik	vrees	vrezen 
+fright: angst	schrik	vrees	vrezen 
+alive: in leven	leven	levend 
+be alive: in leven	leven	levend 
+life: in leven	leven	levend 
+living: in leven	leven	levend 
+beat: raken	slaan	treffen 
+strike: raken	slaan	treffen 
+hack: doorsnijden	houwen	knippen	snijden 
+cut open: kloven	splijten 
+pierce: steken 
+tell lies: leugen	liegen	liggen 
+turn around: draaien	omdraaien	zich omdraaien 
+turn round: draaien	omdraaien	zich omdraaien 
+drop: vallen 
+grasp: houden	vasthouden 
+hold in arm: houden	vasthouden 
+wring: drukken	klemmen	knijpen	uitpersen	wringen 
+wash clothes: wassen 
+shove: duwen 
+bind: binden	knopen 
+fasten: binden	knopen 
+tie up: binden	knopen 
+enumerate: tellen 
+number: tellen 
+tally: tellen 
+have fun: spelen 
+brook: beek	rivier	stroom 
+stream: beek	rivier	stroom 
+ocean: zee 
+blaze: branden 
+daylight: dag 
+daytime: dag 
+evil: erg	kwaad	slecht 
+rot: rot	verrot 
+filthy: smerig	vies	vuil 
+soiled: smerig	vies	vuil 
+blunt: bot	stomp 
+damp: nat	vochtig 
+right side: rechter	rechts 
+inside: binnen	in 

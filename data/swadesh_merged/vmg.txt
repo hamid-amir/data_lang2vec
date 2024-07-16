@@ -1,0 +1,126 @@
+all: iamui parukaka 
+every: iamui parukaka 
+ash: a tabunusa 
+ashes: a tabunusa 
+abdomen: a balana 
+belly: a balana 
+big: ngala 
+bigness: ngala 
+large: ngala 
+bird: a beso 
+bite: i varivarikarat 
+black: i kavulu 
+blood: a gapuna	gapu 
+bone: a suruna	suru 
+breast: a susuna	boNaboNo	bongabongo	susu 
+breasts: a susuna	boNaboNo	bongabongo	susu 
+burn: i soso	tunia 
+burn tr.: i soso	tunia 
+cloud: gavul 
+cold: i mudiani 
+come: i le vana utl 
+come from: i le vana utl 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: a papi	papi 
+drink: i momo	momo 
+dry: buanga 
+ear: a talingana	taliNa 
+eat: i eani 
+egg: a kiau 
+eye: mata	matana 
+feather: a lakua 
+fire: a iavi	iavi 
+fish: a eni	eni 
+fly: pururung 
+fly v.: pururung 
+good: i bosi 
+green: lumut 
+hair: a pepe na uluna 
+hand: a lima	lima	lima(na) 
+left hand: a lima	lima	lima(na) 
+right: a lima	lima	lima(na) 
+head: auluna 
+hear: voloNoro	volongoro 
+1 sg.: iau 
+I: iau 
+kill: doko 
+be knowledgeable: nukusure 
+know: nukusure 
+leaf: a mapinai	mapinai 
+lie: diavu palari 
+lie down: diavu palari 
+long: lolovina 
+head louse: utu 
+louse: utu 
+male: tutnana 
+man: gunani tuna 
+moon: gai 
+mouth: a livono 
+name: acana	atsana 
+title: acana	atsana 
+neck: a kokongina 
+new: i kalamana	kalamana 
+night: marumu	maurumu 
+nighttime: marumu	maurumu 
+nose: a bilausuna	bilausu 
+adulterous: datalu	tikai 
+one: datalu	tikai 
+single: datalu	tikai 
+that: iana	nogo 
+the: datalu	tikai 
+unprincipled: datalu	tikai 
+human: gunani tuna 
+human being: gunani tuna 
+person: gunani tuna 
+rain: bata 
+rainy weather: bata 
+red: i mema 
+root: a okorina 
+sand: a ono 
+say: vitiri 
+see: gire 
+sit: i kisikisi 
+hide: a pilakuluna	pilakulu 
+skin: a pilakuluna	pilakulu 
+sleep: diavu	i diavu 
+little: sikiliki 
+small: sikiliki 
+smallness: sikiliki 
+smoke: a misi 
+star: tagulu 
+rock: a vatu	vatu 
+stone: a vatu	vatu 
+swim: i salari 
+tail: a taukuna 
+this: noni 
+tongue: a karameana	karamea 
+tooth: a pala livong	pala livoN	palalivon 
+grind: aurua 
+two: aurua 
+go: i le vana	i vanavana 
+walk: i le vana	i vanavana 
+hot: i malamalapangi 
+warm: i malamalapangi 
+water: tava 
+1 pl. inc.: dori	ia datalu	ia mitalu	ia-da	ia-dori	ia-mamami	ia-miru 
+we: dori	ia datalu	ia mitalu	ia-da	ia-dori	ia-mamami	ia-miru 
+we₁: dori	ia datalu	ia mitalu	ia-da	ia-dori	ia-mamami	ia-miru 
+what: asa 
+white: i puasa 
+whiteness: i puasa 
+who: sia 
+who?: sia 
+female: vavina 
+woman: vavina 
+yellow: i lavari 
+distant: vavailiki 
+far: vavailiki 
+salt: tasi 
+short: kudu	kuiri 
+snake: sui 
+wind: vuvusu 
+earthworm: kalolo 
+worm: kalolo 
+year: kilala 

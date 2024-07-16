@@ -1,0 +1,799 @@
+all: amapa\a | amapaqa	amapaʔa 
+all: amapaʔa | amapaqa	amapaʔa 
+and: -wada\ 
+ankle: aisaumba 
+arm: ayaa-mba 
+arm: ayaːmba 
+arm: já:napa 
+arm: ǯaːnapa 
+arrow: paroima 
+arrow: soviyaːn 
+ashes: kanama 
+ashes: kana-ma | kanama 
+at: -da\ 
+at: -ka\ 
+at: -paQ 
+back: arosamba 
+bad: sawi\a | sawiʔa	tampiʔmemi	tsaviʔanurai 
+bad: sawiʔa | sawiʔa	tampiʔmemi	tsaviʔanurai 
+bad: tampiʔmemi | sawiʔa	tampiʔmemi	tsaviʔanurai 
+bad: tsavi\anurai | sawiʔa	tampiʔmemi	tsaviʔanurai 
+bad: tsaviʔanurai | sawiʔa	tampiʔmemi	tsaviʔanurai 
+bark: aamaamaba | amamaba	aːmaːmaba 
+bark: aimba | amamaba	aːmaːmaba 
+bark: aːmaːmaba | amamaba	aːmaːmaba 
+bark: (k)waa\a | amamaba	aːmaːmaba 
+belly: amu\a | amuqa	amuʔa	tsimuʔa 
+belly: amuʔa | amuqa	amuʔa	tsimuʔa 
+belly: tsimu\a | amuqa	amuʔa	tsimuʔa 
+belly: tsimuʔa | amuqa	amuʔa	tsimuʔa 
+big: anomba | anomba	uraʔa 
+big: uraʔa | anomba	uraʔa 
+bird: numama | numama	waː 
+bird: numa(-ma) | numama	waː 
+bird: numaV | numama	waː 
+bird: wa: | numama	waː 
+bird: waː | numama	waː 
+bite: ankara | ankara	unkara 
+bite: unkaʔna | ankara	unkara 
+bite: unkara | ankara	unkara 
+black: aubutamba | aubutamba	auutamba	paputa 
+black: paputa | aubutamba	auutamba	paputa 
+blood: naema | naema	naime 
+blood: nàè´má | naema	naime 
+blood: naime | naema	naime 
+blood: naíme | naema	naime 
+blow: tubaya 
+blow: uposinai | tubaya 
+bone: ayaantamba | ayantamba	ayaːntamba	yaʼaːta 
+bone: ayaːntamba | ayantamba	ayaːntamba	yaʼaːta 
+bone: ya\aːta | ayantamba	ayaːntamba	yaʼaːta 
+bone: yaá:ta | ayantamba	ayaːntamba	yaʼaːta 
+boy: ifoaʔa 
+boy: ifoa\ai 
+boy: iyampo 
+boy: iyampoi 
+branch: am(a)ima | amaima	amima 
+breast: naamba | namba	naːm	naːmba 
+breast: na:m | namba	naːm	naːmba 
+breast: naːm | namba	naːm	naːmba 
+breast: naːmba | namba	naːm	naːmba 
+breast: ´ná:mbà | namba	naːm	naːmba 
+breathe: aama | aːma 
+breathe: aːma 
+brother: (a-)bakoama 
+brother: (a)bakoama 
+brother: ábá´komà 
+brother: a-baQ 
+brother: (a)waoma 
+brother: àwà´ómá 
+brother: -u: 
+brother: -uː 
+brother: -uwa 
+burn: iya nagao | kwegai	kw~egai 
+burn: kwegai | kwegai	kw~egai 
+burn: utai | kwegai	kw~egai 
+butterfly: parebaremba 
+butterfly: parebare-mba 
+calf: amaima 
+calf: neːta 
+calf: ue:ta 
+cassowary: augwaima 
+cassowary: auwa:n 
+cheek: o\mau-ma 
+cheek: oʔmauma 
+chest: (a)intama 
+chest: kufaːfai 
+chest: kufá:fai 
+child: iyampoi 
+child: umaramba | iyampoi 
+chin: amaimba 
+claw: aisabu\a | aisabuqa	aisabuʔa | ayaːnofiʔa 
+claw: aisabuʔa | aisabuqa	aisabuʔa | ayaːnofiʔa 
+cloud: ainamba 
+cloud: ài´námbá | ainamba 
+cold: taugwi\a | taugwiʔa	taugw~iqa 
+cold: taugwiʔa | taugwiʔa	taugw~iqa 
+come: tiyo 
+come: tiyó | tiyo 
+count: torausu 
+cut: airare | kare 
+cut: aresi | kare 
+cut: asai | kare 
+cut: kare 
+dance: araimara 
+dark: tunkura 
+daughter: ayamuko 
+daughter: a´yámùko 
+daughter: -ya:mu 
+daughter: yaːmu 
+day: aabau-ma | aːbauma 
+day: aːbauma 
+day: eninka\a | aːbauma 
+day: eninkaʔa | aːbauma 
+day: sankarai | aːbauma 
+day: waiwai | aːbauma 
+die: pukai 
+dig: oyaami | ufuo 
+dig: taaritaima | ufuo 
+dig: ufuo 
+dig: utai | ufuo 
+dirty: pirikai 
+dog: iyamba | iyamba	ya 
+dog: iya-mba | iyamba	ya 
+dog: i´yá-mbá | iyamba	ya 
+dog: iyaN | iyamba	ya 
+dog: ya | iyamba	ya 
+drink: nare 
+dry: kasa\nagwi | kasaqnagw~i	kasaʔnagwi 
+dry: kasaʔnagwi | kasaqnagw~i	kasaʔnagwi 
+ear: a\a | -tsaʔa	aqa	aʔa 
+ear: aʔa | -tsaʔa	aqa	aʔa 
+ear: ´á:\à | -tsaʔa	aqa	aʔa 
+earth: marama 
+earth: màrà´má | marama 
+earth: toima | marama 
+ear: -tsa\a | -tsaʔa	aqa	aʔa 
+ear: -tsaʔa | -tsaʔa	aqa	aʔa 
+eat: na- | na-	nare 
+eat: nare | na-	nare 
+eat: nawikai | na-	nare 
+eat: unka\na | na-	nare 
+egg: auma 
+egg: au-ma | auma 
+elbow: aumba 
+elbow: ayaan-aumba 
+elbow: ayaːnaumba 
+emu: augwainma 
+emu: auwaːn 
+excrement: ayamba 
+eye: auramba | auramba	uːra 
+eye: auwanantauma | auramba	uːra 
+eye: auwanantau-ma | auramba	uːra 
+eye: awananta\a | auramba	uːra 
+eye: -udamba | auramba	uːra 
+eye: u:ra | auramba	uːra 
+eye: uːra | auramba	uːra 
+face: oi\a 
+face: oiʔa 
+fall: kuntimba 
+fall: kuntimbu | kuntimba 
+far: nempa\a | nempaʔa 
+far: nempaʔa 
+father: (a)bowama | -po	abowama	bowama 
+father: (a)bowa-ma | -po	abowama	bowama 
+father: abo´wámá | -po	abowama	bowama 
+father: -po | -po	abowama	bowama 
+fat (n.): masawemba 
+fat (n.): masawémbe 
+fat (n.): -nun 
+fear: inkaisi 
+feather: ayauma | abowama	ayauma 
+feather: ayau-ma | abowama	ayauma 
+few: kabi\a | kabiʔa 
+few: kabiʔa 
+few: sebaka\a | kabiʔa 
+finger: ayanabomba 
+fingernail: ayaanofi\a | ayaːnofiʔa 
+fingernail: ayaːnofiʔa 
+fire: irama | irama	iyaba	izama 
+fire: ira-ma | irama	iyaba	izama 
+fire: ira-´má | irama	iyaba	izama 
+fire: iyaba | irama	iyaba	izama 
+fire: iya nagao | irama	iyaba	izama 
+fire: izama | irama	iyaba	izama 
+fish: kuma | kuma	noyaqa	noyaːʔa 
+fish: noyaːʔa | kuma	noyaqa	noyaːʔa 
+fish: noyaa\a | kuma	noyaqa	noyaːʔa 
+five: eba\aasi | ebaʔaːsi 
+five: ebaʔaːsi 
+float: mayaʔmaena 
+fly (n.): kwasimba 
+fly (v.): ararabena kore 
+foot: aisamima | aisamima	tsiʔsa 
+foot: -samaima | aisamima	tsiʔsa 
+foot: tsiʔsa | aisamima	tsiʔsa 
+foot: tsisá | aisamima	tsiʔsa 
+forehead: auweyaa-mba 
+forehead: auweyaːmba 
+forehead: wea 
+forest: u:mi | umipaʔa	uːmi 
+forest: uːmi | umipaʔa	uːmi 
+forest: umi-pa\a | umipaʔa	uːmi 
+forest: umipaʔa | umipaʔa	uːmi 
+four: eiyaiN | eyimba 
+four: eyimba 
+four: eyi-mba | eyimba 
+fruit: aramba | aramba	tai ira 
+fruit: ara-mba | aramba	tai ira 
+fruit: ara-mbá | aramba	tai ira 
+fruit: tai ira | aramba	tai ira 
+full: ema kubero | ogwitarai	ogw~itarai 
+full: ogwitarai | ogwitarai	ogw~itarai 
+girl: arasi 
+girl: na:maru 
+girl: naːmaru 
+give: ami | ami	neyen-banamu 
+give: neyen-banamu | ami	neyen-banamu 
+give: neyenbánamu | ami	neyen-banamu 
+good: kauweiʔei | kauweiʔei	kawiqa	kawiʔa 
+good: kauwéi\ei | kauweiʔei	kawiqa	kawiʔa 
+good: kaweQ | kauweiʔei	kawiqa	kawiʔa 
+good: kawi\a | kauweiʔei	kawiqa	kawiʔa 
+good: kawiʔa | kauweiʔei	kawiqa	kawiʔa 
+grass: owaima 
+grass: ufa\a | owaima 
+green: sokomba 
+guts: aya\a | ayaʔa 
+guts: ayaʔa 
+hair: aayara | -tauma	ayara	tauma	yaːra 
+hair: -tauma | -tauma	ayara	tauma	yaːra 
+hair: ya:ra | -tauma	ayara	tauma	yaːra 
+hair: yaːra | -tauma	ayara	tauma	yaːra 
+hand: áyáa-mba | ayamba	ayaːmba	ǯaːnaviʔa 
+hand: ayaːmba | ayamba	ayaːmba	ǯaːnaviʔa 
+hand: ayanarumba | ayamba	ayaːmba	ǯaːnaviʔa 
+hand: aya-narumba | ayamba	ayaːmba	ǯaːnaviʔa 
+hand: ayanepaga | ayamba	ayaːmba	ǯaːnaviʔa 
+hand: já:navi\a | ayamba	ayaːmba	ǯaːnaviʔa 
+hand: -mbapa\a | ayamba	ayaːmba	ǯaːnaviʔa 
+hand: ǯaːnaviʔa | ayamba	ayaːmba	ǯaːnaviʔa 
+head: a\nomba | aqnomba	aʔnomba	nomba 
+head: aʔnomba | aqnomba	aʔnomba	nomba 
+head: a\nómbá | aqnomba	aʔnomba	nomba 
+head: awamu\a | aqnomba	aʔnomba	nomba 
+head: (a)wimba | aqnomba	aʔnomba	nomba 
+head: nomba | aqnomba	aʔnomba	nomba 
+hear: enisa | enisa	sau 
+hear: sau | enisa	sau 
+heart: amaaboomba | amabomba	amaːboːmba 
+heart: amaːboːmba | amabomba	amaːboːmba 
+heavy: umbaintai 
+he/she: a- 
+he/she: ano\- 
+he/she: -ay 
+he/she: -i 
+he/she: kwema 
+he/she: kwe´má 
+he/she: miwe(-ne) 
+he/she: miwe(ne) 
+he/she: o- 
+hit: aisamba kwesei | batufuneʔe 
+hit: batufune\e | batufuneʔe 
+hit: batufuneʔe 
+hit: taetora | batufuneʔe 
+hit: tufuo | batufuneʔe 
+hit: tuwatuwa\a | batufuneʔe 
+hit: uwaama | batufuneʔe 
+hold: tabimea | tatora 
+hold: tatora 
+hole: aba\a 
+hole: abaʔa 
+house: ma\a 
+house: maʔa 
+house: naa-mba 
+house: naaN 
+house: naːmba 
+house: n:a-m´bá 
+how: norame\ 
+husband: (a)waiko | awaiko	wai ʔa	waiko 
+husband: awai´ko | awaiko	wai ʔa	waiko 
+husband: wai ʔa | awaiko	wai ʔa	waiko 
+husband: wai \á | awaiko	wai ʔa	waiko 
+I: kema | ke	kema	kene 
+I: ke(-ne) | ke	kema	kene 
+I: ke(ne) | ke	kema	kene 
+in: -pin 
+I: s- | ke	kema	kene 
+I: si- | ke	kema	kene 
+I: su- | ke	kema	kene 
+I: tsi\- | ke	kema	kene 
+I: -u | ke	kema	kene 
+kangaroo: kwaːmba 
+kill: tufuo 
+knee: arauma | arauma	reːŋgwa 
+knee: arau-ma | arauma	reːŋgwa 
+knee: àràum´ba | arauma	reːŋgwa 
+knee: ra:nggwa | arauma	reːŋgwa 
+knee: reːŋgwa | arauma	reːŋgwa 
+know: enisa 
+lake: kayumba 
+laugh: wiyaima 
+leaf: anama | anama	tai na 
+leaf: ana-ma | anama	tai na 
+leaf: tai na | anama	tai na 
+left: ayanepaga | ?ayanepaga 
+leg: aisamima 
+lie: aunkwai 
+lie: kampa\a 
+lie: komusu 
+lightning: apayauma 
+lip: oyawima 
+lip: tso:winyen 
+lip: tsoːwinyen 
+live: merai 
+liver: aruma 
+liver: aru-ma | aruma 
+liver: -dumba | aruma 
+long: ayaata\a | ayataqa	ayaːtaʔa 
+long: ayaːtaʔa | ayataqa	ayaːtaʔa 
+long: yata\a | ayataqa	ayaːtaʔa 
+louse: numba 
+louse: nuːmba | numba 
+louse: nùm´bá | numba 
+louse: nuumba | numba 
+man: awagwaasi | kwaːsima 
+man: kwaima | kwaːsima 
+man: kwài´má | kwaːsima 
+man: va\azi | kwaːsima 
+man: vaázi | kwaːsima 
+many: a\ani | nesuqa	nesuʔa	suwifaqa	suwifaʔa 
+many: nesu\a | nesuqa	nesuʔa	suwifaqa	suwifaʔa 
+many: nesuʔa | nesuqa	nesuʔa	suwifaqa	suwifaʔa 
+many: suwifa\a | nesuqa	nesuʔa	suwifaqa	suwifaʔa 
+many: suwifaʔa | nesuqa	nesuʔa	suwifaqa	suwifaʔa 
+meat: ama\a | amaqa | amaʔa	sarare 
+meat: amaʔa | amaqa | amaʔa	sarare 
+meat: àmà\á | amaqa | amaʔa	sarare 
+meat: sarare | amaqa | amaʔa	sarare 
+meat: sárare | amaqa | amaʔa	sarare 
+moon: (k)wiyomba | kwiyomba	kw~iyomba	wiyomba	wiyoː 
+moon: (k)wiyo-mba | kwiyomba	kw~iyomba	wiyomba	wiyoː 
+moon: wiyo: | kwiyomba	kw~iyomba	wiyomba	wiyoː 
+moon: wiyoː | kwiyomba	kw~iyomba	wiyomba	wiyoː 
+morning: aabeama 
+morning: abanusei 
+morning: aːbeama 
+mosquito: kaama 
+mosquito: kaːma 
+mother: a-no | -no	anowama	nowama 
+mother: (a-)nowa-ma | -no	anowama	nowama 
+mother: (a)nowama | -no	anowama	nowama 
+mother: -no | -no	anowama	nowama 
+mountain: omaːʔa | omaqa	omaːʔa	oraʔa 
+mountain: omaa\a | omaqa	omaːʔa	oraʔa 
+mountain: ora\a | omaqa	omaːʔa	oraʔa 
+mountain: oraʔa | omaqa	omaːʔa	oraʔa 
+mouth: andampa\ | andampaʔ	and~ampaq	soiʔa 
+mouth: andampaʔ | andampaʔ	and~ampaq	soiʔa 
+mouth: -oi\a | andampaʔ	and~ampaq	soiʔa 
+mouth: soi\a | andampaʔ	and~ampaq	soiʔa 
+mouth: soiʔa | andampaʔ	and~ampaq	soiʔa 
+name: awi\a | -wiʔa	awiqa	awiʔa 
+name: awiʔa | -wiʔa	awiqa	awiʔa 
+name: á´wí\a | -wiʔa	awiqa	awiʔa 
+name: -wi\a | -wiʔa	awiqa	awiʔa 
+name: -wiʔa | -wiʔa	awiqa	awiʔa 
+nape: nugwara 
+navel: amobi\ 
+navel: amobiʔ 
+near: ewaa\a | weaːʔa 
+near: weaːʔa 
+neck: anuwaramba | anuwaramba	awaima 
+neck: awaima | anuwaramba	awaima 
+new: aunama 
+night: noqwamba | noqwamba	noqw~amba	penaː-ǯimeti 
+night: no\wamba | noqwamba	noqw~amba	penaː-ǯimeti 
+night: pená:jimeti | noqwamba	noqw~amba	penaː-ǯimeti 
+night: penaː-ǯimeti | noqwamba	noqw~amba	penaː-ǯimeti 
+nose: (a-)i\á | -tsiʔa	aiqa	aiʔa 
+nose: aibemba | -tsiʔa	aiqa	aiʔa 
+nose: -tsi\a | -tsiʔa	aiqa	aiʔa 
+not: a\au | imani 
+not: aʔau | imani 
+not: imani 
+not: uwoi | imani 
+old: aaedaaN 
+old: airamba 
+old: aira-mba 
+old: anonu\maima 
+old: anonuʔmainma 
+old: araankamba 
+old: araːnkamba 
+old: nao\a 
+one: aiba\a | morama 
+one: aibaʔa | morama 
+one: modaV | morama 
+one: morama 
+one: mora-ma | morama 
+one: mò´rá-mà | morama 
+other: o\omba | oʔomba 
+other: oʔomba 
+person: kwaasi-ma | kwaːsima 
+person: kwaːsima 
+play: aabema | aːbema 
+play: aːbema 
+pull: kantoma 
+pull: sapi\a 
+pull: tabisi 
+push: abusu 
+push: taabasena 
+rain: a\a | aqa	aʔa	aːʔa 
+rain: aʔa | aqa	aʔa	aːʔa 
+rain: aːʔa | aqa	aʔa	aːʔa 
+rain: à:\á | aqa	aʔa	aːʔa 
+rain: aa\a | aqa	aʔa	aːʔa 
+rat: (k)waima 
+red: karogaromba | karogaromba	naema	naime 
+red: naema | karogaromba	naema	naime 
+red: naime | karogaromba	naema	naime 
+right:  -mbapaʔa | ayamba	ayaːmba	ǯaːnaviʔa | ? -mbapaʔa 
+ripe: abuma 
+ripe: abu-ma 
+river: nomba kwegumi | noːmpa kumiye 
+river: no:mpa kumiye | noːmpa kumiye 
+river: noːmpa kumiye 
+road: aambá | ambi 
+road: aambi 
+road: aːmbi | ambi 
+road: a:(mpani) | ambi 
+road: aː(mpani) | ambi 
+root: anu\a | anuqa	anuʔa 
+root: anuʔa | anuqa	anuʔa 
+root: á´nú\à | anuqa	anuʔa 
+rope: andama 
+rope: apiɲ 
+rope: kaːfima 
+rope: tokwi 
+rotten: anku\a | ankuʔa 
+rotten: ankuʔa 
+round: kokutauko | monumba 
+round: monumba 
+rub: agoyaama | agoyaːma 
+rub: agoyaːma 
+salt: uwi 
+sand: aipa\a | amai	araiya 
+sand: amai | amai	araiya 
+sand: araiya | amai	araiya 
+say: siyo | amai	araiya 
+say: sunani | siyo | amai	araiya 
+see: ʔana- | awanao	ʔana- 
+see: ana- | awanao	ʔana- 
+see: auranten kararai | awanao	ʔana- 
+see: awanao | awanao	ʔana- 
+see: awano | awanao	ʔana- 
+seed: aramba | aramba	auma 
+seed: àrà-mba | aramba	auma 
+seed: auma | aramba	auma 
+seed: aumá | aramba	auma 
+see: taparai | awanao	ʔana- 
+sew: aru 
+sharp: aima 
+sharp: awiba\a 
+sharp: ontoaa\a 
+sharp: wai-ma 
+short: akima | akima	ampaː 
+short: aki(-ma) | akima	ampaː 
+short: akiV | akima	ampaː 
+short: ampa: | akima	ampaː 
+short: ampaː | akima	ampaː 
+shoulder: ayoima 
+shoulder: àyóimá 
+shoulder: juoin 
+shoulder: ǯuoin 
+sing: ima | sene 
+sing: sene 
+sister: (a)nanoa 
+sister: (a)nanora 
+sister: aunko 
+sister: -ngwe 
+sister: -ŋwe 
+sit: mara-ambene | mara-ambene	maraqmai	maraʔmai 
+sit: mara\ambene | mara-ambene	maraqmai	maraʔmai 
+sit: mara\mai | mara-ambene	maraqmai	maraʔmai 
+sit: maraʔmai | mara-ambene	maraqmai	maraʔmai 
+skin: awarasima 
+sky: arupi\a | arupiʔa	kwiyompaʔa	wiyoː 
+sky: arupiʔa | arupiʔa	kwiyompaʔa	wiyoː 
+sky: kwiyompa\a | arupiʔa	kwiyompaʔa	wiyoː 
+sky: kwiyompaʔa | arupiʔa	kwiyompaʔa	wiyoː 
+sky: wiyo: | arupiʔa	kwiyompaʔa	wiyoː 
+sky: wiyoː | arupiʔa	kwiyompaʔa	wiyoː 
+sleep: augafa\a | aunkwai	aunkw~ai 
+sleep: aunkwai | aunkwai	aunkw~ai 
+sleep: kabonama | aunkwai	aunkw~ai 
+sleep: (k)we(g)wai | aunkwai	aunkw~ai 
+small: kito\a | kitoqa	kitoʔa	yataʔa 
+small: kitoʔa | kitoqa	kitoʔa	yataʔa 
+small: yata\a | kitoqa	kitoʔa	yataʔa 
+small: yataʔa | kitoqa	kitoʔa	yataʔa 
+smell: ankuʔa | kwiyumba 
+smell: kwiyumba 
+smoke: umumba 
+smoke: ú´mú-mba | umumba 
+smooth: aukwarima 
+smooth: aukwari-ma | aukwarima 
+smooth: nagai | aukwarima 
+snake: osimba 
+some: sebaka\a 
+son: aaninko 
+son: aːninko 
+son: -ra\a 
+son: -raʔa 
+spit: (a)untamba | awiraima 
+spit: awiraima 
+split: pasao 
+stab: airare 
+stand: sau\ane | usasina | amai	araiya	sauʔane	usasina 
+stand: sauʔane | usasina | amai	araiya	sauʔane	usasina 
+stand: usasina | amai	araiya	sauʔane	usasina 
+star: o\a | oqa	oʔa	uʔa 
+star: oʔa | oqa	oʔa	uʔa 
+star: u\a | oqa	oʔa	uʔa 
+star: uʔa | oqa	oʔa	uʔa 
+stick: taamba | amaima	amima 
+stick: tau | amaima	amima 
+stick: taumba | amaima	amima 
+stone: o:nta | ontamba	oːnta 
+stone: oːnta | ontamba	oːnta 
+stone: ontamba | ontamba	oːnta 
+stone: onta-mba | ontamba	oːnta 
+stone: ontaN | ontamba	oːnta 
+straight: arupima 
+straight: arupi-ma | arupima 
+straight: arupi-nurai | arupima 
+suck: kwegwampienei 
+sun: aabauma | abauma	apo	aːbauma	aːbuma 
+sun: aːbauma | abauma	apo	aːbauma	aːbuma 
+sun: aːbuma | abauma	apo	aːbauma	aːbuma 
+sun: apo | abauma	apo	aːbauma	aːbuma 
+swell: kwentorai 
+swim: maya\maena 
+tail: ameraamba | ameramba	ameraːmba 
+tail: ameraːmba | ameramba	ameraːmba 
+tail: à´méra:-mba | ameramba	ameraːmba 
+take: maya\o 
+take: mayaʔo 
+take: ma:yewai 
+take: maːyewai 
+take: memben-onaʔi 
+take: membenona\i 
+take: umemba 
+that: mindama | mindama	mind~ama | morama 
+that: minda-ma | mindama	mind~ama | morama 
+that: mi:ndá-mà | mindama	mind~ama | morama 
+there: mekui 
+they: -a | miwa	miwane 
+they: mindadawa\a | miwa	miwane 
+they: miwa(ne) | miwa	miwane 
+they: miwe(-ne) | miwa	miwane 
+they two: -ay 
+they two: mindadaima 
+they two: mindadauma 
+they two: mintara 
+thick: amoko\a | amokoʔa 
+thick: amokoʔa 
+thigh: aruʔa 
+thigh: árú\a 
+thigh: ru\ani 
+thigh: ruʔani 
+thin: amantaima 
+thin: amantai-ma | amantaima 
+think: imayaan | imayaːn 
+think: imayaːn 
+this: maanda | mand~a	maːnda 
+this: maːnda | mand~a	maːnda 
+this: mà:ndá-ma | mand~a	maːnda 
+thorn: awima 
+thorn: karamaka 
+thou: a- | ema	embe	embene 
+thou: -an | ema	embe	embene 
+thou: ema | ema	embe	embene 
+thou: embe(-ne) | ema	embe	embene 
+thou: embe(ne) | ema	embe	embene 
+thou: ena\- | ema	embe	embene 
+thou: kenti(ne) | ema	embe	embene 
+thou: o- | ema	embe	embene 
+three: kamboma 
+three: kambomo | kamboma 
+throat: amosamba 
+throat: (a-)mosa-mba 
+throat: (a-)mosaN 
+throat: mo:sau 
+throat: moːsau 
+throw: metua 
+thunder: wiyonaima 
+tie: intutue | kararu 
+tie: kararu 
+tomorrow: apaya 
+tongue: amaabi | amabi	amaːbi	naʔafinyen 
+tongue: amaːbi | amabi	amaːbi	naʔafinyen 
+tongue: àmá:bí | amabi	amaːbi	naʔafinyen 
+tongue: na\afinyen | amabi	amaːbi	naʔafinyen 
+tongue: naʔafinyen | amabi	amaːbi	naʔafinyen 
+tooth: awairunkwai | awaiyaːmba	awiyamba	rsywea 
+tooth: awaiyaamba | awaiyaːmba	awiyamba	rsywea 
+tooth: awaiyaːmba | awaiyaːmba	awiyamba	rsywea 
+tooth: rsywea | awaiyaːmba	awiyamba	rsywea 
+tooth: tsúwea | awaiyaːmba	awiyamba	rsywea 
+tree: (a)boima | taima 
+tree: aramba | taima 
+tree: aruma | taima 
+tree: kobima | taima 
+tree: ta:i | taima 
+tree: taːi | taima 
+tree: taima 
+tree: tài-´má | taima 
+turn: ufama 
+turn: waera 
+two: kaeQ | kaiqa	kaiʔa 
+two: kai\a | kaiqa	kaiʔa 
+two: kaiʔa | kaiqa	kaiʔa 
+vagina: afa\a 
+vagina: afaʔa 
+vomit: mima 
+walk: isaisi | koro 
+walk: koro 
+walk: sauta | koro 
+walk: we\o | koro 
+walk: weʔo | koro 
+wallaby: kawima 
+warm: koko\a 
+warm: kokoʔa 
+wash: kankamba | pera 
+wash: pera 
+water: no: | nomba 
+water: nomba 
+water: nòmbá | nomba 
+weep: a\numa 
+weep: aʔnuma 
+weep: ibi\ante 
+weep: ibiʔante 
+weep: ipi\antane\e 
+weep: ipiʔantaneʔe 
+we: keentasi | kesama 
+we: kesa(a)ma | kesama 
+we: kesama 
+we: kesiwe | kesama 
+we: kwentasi | kesama 
+we: s- | kesama 
+we: si- | kesama 
+we: su- | kesama 
+wet: tasiasi 
+we two (incl.): keirai 
+we two: kedaima 
+we two: keirai 
+we two: -uy 
+we: -un | kesama 
+what: none\i | noneqi	noneʔi 
+what: noneʔi | noneqi	noneʔi 
+white: wai | wai	waiemba 
+white: waiemba | wai	waiemba 
+white: waie-mba | wai	waiemba 
+who: nawa\i | nawaqi	nawaʔi 
+who: nawaʔi | nawaqi	nawaʔi 
+wife: àwài´nínkó | awaninko	waninko	waːnyi 
+wife: (a)waninko | awaninko	waninko	waːnyi 
+wife: wa:nyi | awaninko	waninko	waːnyi 
+wife: waːnyi | awaninko	waninko	waːnyi 
+wind: taukwiya | tauwiʔa	unduma 
+wind: tauwiʔa | tauwiʔa	unduma 
+wind: ùndá-mà | tauwiʔa	unduma 
+wind: unduma | tauwiʔa	unduma 
+wing: aiyoima 
+wing: aiyoi-ma | aiyoima 
+wipe: kankamba 
+with: -kwadaQ 
+with: -nei 
+woman: arema | arema	aːri 
+woman: are-ma | arema	aːri 
+woman: a:ri | arema	aːri 
+woman: aːri | arema	aːri 
+wood: taːmba 
+wood: yataʔa 
+worm: kuʔarema 
+yellow: sebomba 
+yes: owe 
+yesterday: apaya 
+you: -a | ema	embe	embene | kenti	kentine 
+you: kenadawa\a | ema	embe	embene | kenti	kentine 
+you: kenti(-ne) | ema	embe	embene | kenti	kentine 
+you two: -ay 
+you two: kenadaima 
+you two: kenadauma 
+every: amapaqa	amapaʔa 
+ash: kanama 
+abdomen: amuqa	amuʔa	tsimuʔa 
+bigness: anomba	uraʔa 
+large: anomba	uraʔa 
+breasts: namba	naːm	naːmba 
+nail: aisabuqa	aisabuʔa 
+talon: aisabuqa	aisabuʔa 
+come from: tiyo 
+be dead: pukai 
+dead: pukai 
+ground: marama 
+land: marama 
+soil: marama 
+fat: masawemba 
+fat n.: masawemba 
+grease: masawemba 
+lubricant: masawemba 
+oil: masawemba 
+fly: ararabena kore	kw~asimba 
+fly v.: ararabena kore	kw~asimba 
+left hand: ayamba	ayaːmba	ǯaːnaviʔa 
+1 sg.: ke	kema	kene 
+be knowledgeable: enisa 
+head louse: numba 
+male: kwaima	kw~aima	vaʼazi 
+much: nesuqa	nesuʔa	suwifaqa	suwifaʔa 
+multiple: nesuqa	nesuʔa	suwifaqa	suwifaʔa 
+several: nesuqa	nesuʔa	suwifaqa	suwifaʔa 
+flesh: amaqa 
+hill: omaqa	omaːʔa	oraʔa 
+title: -wiʔa	awiqa	awiʔa 
+nighttime: noqwamba	noqw~amba	penaː-ǯimeti 
+adulterous: morama 
+single: morama 
+the: morama 
+unprincipled: morama 
+human: kwaːsima 
+human being: kwaːsima 
+rainy weather: aqa	aʔa	aːʔa 
+path: ambi 
+route: ambi 
+hide: awarasima 
+little: kitoqa	kitoʔa	yataʔa 
+smallness: kitoqa	kitoʔa	yataʔa 
+rock: ontamba	oːnta 
+2 sg: ema	embe	embene 
+grind: kaiqa	kaiʔa 
+go: koro 
+1 pl. inc.: kesama 
+we₁: kesama 
+whiteness: wai	waiemba 
+who?: nawaqi	nawaʔi 
+female: arema	aːri 
+distant: nempaʔa 
+dull: umbaintai 
+serious: umbaintai 
+close: weaːʔa 
+ner: weaːʔa 
+earthworm: kuʔarema 
+2 pl.: kenti	kentine 
+ye: kenti	kentine 
+you all: kenti	kentine 
+3 pl.: miwa	miwane 
+principal wife: awaninko	waninko	waːnyi 
+his mother: -no	anowama	nowama 
+my mother: -no	anowama	nowama 
+his father: -po	abowama	bowama 
+my father: -po	abowama	bowama 
+woods: umipaʔa	uːmi 
+gut: ayaʔa 
+insides: ayaʔa 
+intestine: ayaʔa 
+intestines: ayaʔa 
+breath: aːma 
+laughter: wiyaima 
+cogitate: imayaːn 
+reflect: imayaːn 
+sniff: kwiyumba 
+beat: batufuneʔe 
+strike: batufuneʔe 
+hack: kare 
+cut open: pasao 
+pierce: airare 
+drop: kuntimba 
+grasp: tatora 
+hold in arm: tatora 
+wash clothes: pera 
+bind: kararu 
+fasten: kararu 
+tie up: kararu 
+enumerate: torausu 
+number: torausu 
+tally: torausu 
+have fun: aːbema 
+brook: noːmpa kumiye 
+stream: noːmpa kumiye 
+blaze: kwegai	kw~egai 
+daylight: aːbauma 
+daytime: aːbauma 
+evil: sawiʔa	tampiʔmemi	tsaviʔanurai 
+rot: ankuʔa 
+filthy: pirikai 
+soiled: pirikai 
+damp: tasiasi 
+right side: ? -mbapaʔa 

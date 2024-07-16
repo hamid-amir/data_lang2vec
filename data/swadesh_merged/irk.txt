@@ -1,0 +1,622 @@
+all: ɬemɛró | sleemeero	slemero	umúu	ɬemɛró 
+all: wataka | sleemeero	slemero	umúu	ɬemɛró 
+animal: dumok | makaa	makitôʼo 
+animal: makitô\o | makaa	makitôʼo 
+ankle: mugura 
+arm: dâwa 
+arm: mongok 
+arrow: mâhaŋ 
+arrow: mat 
+ashes: daʕara | da/ara	daXara	daʕara	siχa 
+ashes: siχa | da/ara	daXara	daʕara	siχa 
+ashes: wurato | da/ara	daXara	daʕara	siχa 
+back: danda | daanda	danda 
+bad: akwa | tlaakw	tlakw 
+bad: tlakw | tlaakw	tlakw 
+bark: qafa | k"afi	qafa	qafi 
+belly: gûra | gura7	guraʔ	guraʼ	guraʼa 
+belly: guraʔ | gura7	guraʔ	guraʼ	guraʼa 
+belly: gura\a | gura7	guraʔ	guraʼ	guraʼa 
+belly: waia | gura7	guraʔ	guraʼ	guraʼa 
+big: ur | ur	ùre	ùren 
+big: ùre(n) | ur	ùre	ùren 
+big: ˗ǯira | ur	ùre	ùren 
+bird: širaʔa | sʼirʔo	t"ir7i	tsir'i	tsîrʕi 
+bird: s\irʔo | sʼirʔo	t"ir7i	tsir'i	tsîrʕi 
+bird: tsîrʕi | sʼirʔo	t"ir7i	tsir'i	tsîrʕi 
+bite: kiħ˗ | kiX	kiihh	kiħ-	kiħa 
+bite: kiħa | kiX	kiihh	kiħ-	kiħa 
+bite: tluː˗ | kiX	kiihh	kiħ-	kiħa 
+bite: ǯalas˗ | kiX	kiihh	kiħ-	kiħa 
+bitter: qarqad 
+bitter: qarqaray 
+black: ˗biasa | boX	boo/	borʔ	boə́	boʕa 
+black: boʕa | boX	boo/	borʔ	boə́	boʕa 
+black: boə́ | boX	boo/	borʔ	boə́	boʕa 
+black: borʔ | boX	boo/	borʔ	boə́	boʕa 
+blood: saʔaka | sEre	sʼɛre	t"ere	tseeree	tséːre 
+blood: s\ɛre | sEre	sʼɛre	t"ere	tseeree	tséːre 
+blood: tséːre | sEre	sʼɛre	t"ere	tseeree	tséːre 
+blow: ʔuf˗ | ufaahh	ufuf- 
+blow: ufuf˗ | ufaahh	ufuf- 
+bone: falaː˗to | fara	fâra 
+bone: fâra | fara	fâra 
+bone: farit | fara	fâra 
+boy: weku 
+branch: halmi 
+breast: isamo | isaNw~	isaangw	isamo	isaŋ 
+breast: isaŋ | isaNw~	isaangw	isamo	isaŋ 
+breast: isank | isaNw~	isaangw	isamo	isaŋ 
+breathe: hinhl | hiinsl	hinhl 
+brother: híːya 
+burn: daʔ˗ | daX	oh	oh-	ooh 
+burn: daʕ˗ | daX	oh	oh-	ooh 
+burn: daːʕ\˗ | daX	oh	oh-	ooh 
+burn: oh˗ | daX	oh	oh-	ooh 
+calf: tsiʕi 
+cheek: rigida 
+cheek: tlangarmo 
+chest: dá\ʕêwa 
+chest: liba 
+child: nâʕay | na/aay	nâʕay 
+child: uo | na/aay	nâʕay 
+chin: wakri 
+claw: foqɛni | foqɛni	fuk"uno	fuqno	fuquno | fuquno	fúqûno 
+claw: fuqno | foqɛni	fuk"uno	fuqno	fuquno | fuquno	fúqûno 
+cloud: buʕurita | hunkay	huunkáy	tlaŋgu	tlǔwaj 
+cloud: tlaŋgu | hunkay	huunkáy	tlaŋgu	tlǔwaj 
+cloud: tlǔwaj | hunkay	huunkáy	tlaŋgu	tlǔwaj 
+cold: s\aqwa | sʼaqwa	t"a7	tsa'	tsaʔ 
+cold: tsaʔ | sʼaqwa	t"a7	tsa'	tsaʔ 
+come: dah˗ | naharda	xaw	xaw- 
+come: naharda | naharda	xaw	xaw- 
+come: xaw˗ | naharda	xaw	xaw- 
+count: far˗ | faar	far- 
+cut: dasim˗ | siiq	tlaq	tsaat 
+cut: nu\um˗ | siiq	tlaq	tsaat 
+cut: tlaq | siiq	tlaq	tsaat 
+day: aǯi˗t | bal	deelo	tasʼa 
+day: déːlo | bal	deelo	tasʼa 
+day: tas\a | bal	deelo	tasʼa 
+die: agwaʔ | agwaʔ	agw~a7	gwaa'	gwaː-	gw~a7 
+die: ga˗ | agwaʔ	agw~a7	gwaa'	gwaː-	gw~a7 
+die: gawa | agwaʔ	agw~a7	gwaa'	gwaː-	gw~a7 
+die: gwaː˗ | agwaʔ	agw~a7	gwaa'	gwaː-	gw~a7 
+dig: foːl | fool	foːl 
+dirty: ɬaɬ\ar | slasla/aar	ɬaɬʼar 
+dog: kite | se7ai	se7ay	see'aay	seʔai 
+dog: seʔai | se7ai	se7ay	see'aay	seʔai 
+drink: gawa | gawa	wah	wah- 
+drink: wah˗ | gawa	wah	wah- 
+drink: wat˗ | gawa	wah	wah- 
+dry: akat | akat	kaahaar	kahar	kat 
+dry: kat | akat	kaahaar	kahar	kat 
+dry: ˗rakaš | akat	kaahaar	kahar	kat 
+dust: téːri | teeri	téːri 
+ear: eʔi | e7a	eʔi	i7a	ii'a	íːʼa 
+ear: íː\a | e7a	eʔi	i7a	ii'a	íːʼa 
+earth: ɦâpe | Xape	hhapee 
+earth: haǯat | Xape	hhapee 
+ear: wata˗ta | e7a	eʔi	i7a	ii'a	íːʼa 
+ear: yatara | e7a	eʔi	i7a	ii'a	íːʼa 
+eat: ʔag˗ | /aay	Xay	ħape	ʕaj-	ʕajiːm- 
+eat: ʔagim˗ | /aay	Xay	ħape	ʕaj-	ʕajiːm- 
+eat: ʕaj(iːm)˗ | /aay	Xay	ħape	ʕaj-	ʕajiːm- 
+eat: ħape | /aay	Xay	ħape	ʕaj-	ʕajiːm- 
+egg: ʠánɦì | k"anXi	qanhhi	qənħi	ʠánɦì 
+egg: qənħi | k"anXi	qanhhi	qənħi	ʠánɦì 
+elbow: goŋgoxi 
+eye: ila 
+eye: ilat 
+eye: ili˗dó | ila 
+face: gitsaʕa 
+fall: duʔum˗ | huu'	huː- 
+fall: huː˗ | huu'	huː- 
+far: sagu˗mo | saaw	saw 
+far: sanga | saaw	saw 
+far: saw | saaw	saw 
+father: ara˗g | baabá	babu 
+father: baba | baabá	babu 
+father: babu | baabá	babu 
+fat (n.): díʕì 
+fat (n.): ʔoreʔek 
+fat (n.): waħna 
+fear: daimit | da'ayee 
+feather: hayi 
+feather: seʔemuk | hayi 
+fight: mux˗ | giliim	muux	mux-	slaaqw 
+finger: díːtsa 
+finger: dugno 
+finger: kongolaʔe 
+fingernail: fúqûno | fuquno	fúqûno 
+fingernail: senget | fuquno	fúqûno 
+finger: seŋge˗tok 
+finger: seng˗la 
+fire: aɬa | ala	asla	aɬa 
+fire: ha\o | ala	asla	aɬa 
+fire: jogot | ala	asla	aɬa 
+fire: xao | ala	asla	aɬa 
+fish: simo | siiyó	simo	siyo	siyyo 
+fish: singiri | siiyó	simo	siyo	siyyo 
+fish: siyyo | siiyó	simo	siyo	siyyo 
+five: koʔan | koo'án	koo’án	koʔan 
+five: koane | koo'án	koo’án	koʔan 
+five: mut | koo'án	koo’án	koʔan 
+flower: lu\r | /ayo	luʼr 
+fly (n.): ba\armo 
+fly (v.): ʕaqmit˗ 
+fly (v.): ǯiʔit˗ 
+fog: tlangi | tlangi	tlangí 
+foot: kɔlo | ya'ee	ya7e	yaʔa 
+foot: yaʔa | ya'ee	ya7e	yaʔa 
+foot: yeːh | ya'ee	ya7e	yaʔa 
+forehead: gíːtsâ\ʕa 
+forest: gara 
+four: hak | tsiyáahh	tsiyáhh	tsiːyaħ 
+four: tsiːyaħ | tsiyáahh	tsiyáhh	tsiːyaħ 
+full: haš˗ | haats	hat"	hats- 
+full: hats˗ | haats	hat"	hats- 
+full: hatsiːs˗ | haats	hat"	hats- 
+girl: dasi 
+girl: weto 
+give: haniːs˗ | haniis	hanis	hanisa	haniːs- 
+give: hanisa | haniis	hanis	hanisa	haniːs- 
+give: nge | haniis	hanis	hanisa	haniːs- 
+good: ħoema | Xo7	hhoo'	ħoema	ɦoːɦoː 
+good: ˗ʔila | Xo7	hhoo'	ħoema	ɦoːɦoː 
+good: ɦoːɦoː | Xo7	hhoo'	ħoema	ɦoːɦoː 
+grass: gie\o | gieʼo	gitsoo 
+green: ˗dʒareta | k"ant"ar	qantsar	qântsar 
+green: qântsar | k"ant"ar	qantsar	qântsar 
+guts: waya | waqát 
+hair: ʕiraŋ | se'eengw	se7eNw~	seʔemi	seʔéːŋw 
+hair: seʔemi | se'eengw	se7eNw~	seʔemi	seʔéːŋw 
+hair: seʔemuk | se'eengw	se7eNw~	seʔemi	seʔéːŋw 
+hair: seʔéːŋw | se'eengw	se7eNw~	seʔemi	seʔéːŋw 
+hand: dawa | dawa	sai	sʼaːi 
+hand: kundai | dawa	sai	sʼaːi 
+hand: s\aːi | dawa	sai	sʼaːi 
+hand: seng˗la | dawa	sai	sʼaːi 
+head: sâga | saga	sâga	səgɔ 
+head: səgɔ | saga	sâga	səgɔ 
+head: sogok | saga	sâga	səgɔ 
+hear: axaːs˗ | axaas	axas	axasa	axaːs- 
+hear: axasa | axaas	axas	axasa	axaːs- 
+hear: has˗ | axaas	axas	axasa	axaːs- 
+heart: mona | mona	muna	muuná 
+heart: monok | mona	muna	muuná 
+heart: muna | mona	muna	muuná 
+heart: munako | mona	muna	muuná 
+hear: yot˗ | axaas	axas	axasa	axaːs- 
+heavy: daʔara | iilo'	ílò 
+heavy: ílò | iilo'	ílò 
+here: diri | diirí	diri 
+he/she: inós 
+he/she: inús 
+he/she: os 
+hit: usax | law	taahh	usax 
+hole: bohoŋ 
+horn: hadoŋ | xaarmo	xaraŋ	xarmo 
+horn: xaraŋ | xaarmo	xaraŋ	xarmo 
+horn: xarmo | xaarmo	xaraŋ	xarmo 
+house: do 
+house: dug\ 
+hunt: ɬakat˗ | slakaat	ɬakat- 
+husband: ɦáwâta | hhawata	ɦáwâta 
+I: án | ani	aniN	aníng	àní	án 
+I: ana | ani	aniN	aníng	àní	án 
+I: àní | ani	aniN	aníng	àní	án 
+I: eː | ani	aniN	aníng	àní	án 
+jaw: taqesamo 
+kill: gaːs˗ | gaas	gas	gaːs-	qasa 
+kill: gas˗ | gaas	gas	gaːs-	qasa 
+kill: qasa | gaas	gas	gaːs-	qasa 
+knee: guruŋgura | guruNgura	guruNg~ura	gurungura	guruŋgura 
+knee: ŋuluet | guruNgura	guruNg~ura	gurungura	guruŋgura 
+knee: uguno | guruNgura	guruNg~ura	gurungura	guruŋgura 
+know: šah˗ | xu7	xuu'	xuː-	xuːti 
+know: xuː˗ | xu7	xuu'	xuː-	xuːti 
+know: xuːti | xu7	xuu'	xuː-	xuːti 
+lake: tlawi 
+laugh: ʔasom˗ | qaseem	qaseːm- 
+laugh: qaseːm˗ | qaseem	qaseːm- 
+leaf: debiya | lo7o	loXi	loo/i	loʔo	loʕi 
+leaf: loʕi | lo7o	loXi	loo/i	loʔo	loʕi 
+leaf: loʔo | lo7o	loXi	loo/i	loʔo	loʕi 
+left: basat | basa	basay 
+left: basay | basa	basay 
+leg: yaʔe | ya'ee	yaʔe 
+leg: yeʕe | ya'ee	yaʔe 
+lie: ʔat˗ | k"at	qaat	qat- | al/aay 
+lie: qat˗ | k"at	qaat	qat- | al/aay 
+lightning: mangata 
+lightning: mankari 
+lip: sufi 
+lip: ɬufí 
+liver: dá\âye | da'aye	da7aye	de7e	deʔe	dáʼâye 
+liver: deʔe | da'aye	da7aye	de7e	deʔe	dáʼâye 
+liver: dowo | da'aye	da7aye	de7e	deʔe	dáʼâye 
+long: tlenam | Ler	tleer	tlenam	tleːr 
+long: tleːr | Ler	tleer	tlenam	tleːr 
+long: tléːr | Ler	tleer	tlenam	tleːr 
+long: ˗ǯada | Ler	tleer	tlenam	tleːr 
+louse: ʔita | itirmu	itna	itnaa 
+louse: itirmu | itirmu	itna	itnaa 
+man: hatuk | he	hee 
+man: ħawata | he	hee 
+man: he | he	hee 
+man: héː | he	hee 
+many: ˗šaʔi | maga7	ur	yaariir	yarema	yarir	yaːrir 
+many: yarema | maga7	ur	yaariir	yarema	yarir	yaːrir 
+many: yaːrir | maga7	ur	yaariir	yarema	yarir	yaːrir 
+meat: ʔaga | fu'unay	fu7unay | fu'naay	fuʔuni 
+meat: fuʔuni | fu'unay	fu7unay | fu'naay	fuʔuni 
+moon: ɬâhaŋ | slaXaNw~	slahhaangw	tlahaŋ	ɬâhaŋ 
+moon: lehek | slaXaNw~	slahhaangw	tlahaŋ	ɬâhaŋ 
+moon: tlahaŋ | slaXaNw~	slahhaangw	tlahaŋ	ɬâhaŋ 
+mother: áːma | aayo	ayó	áːma 
+mother: amama | aayo	ayó	áːma 
+mother: ayó | aayo	ayó	áːma 
+mother: yego | aayo	ayó	áːma 
+mountain: deʔok | Loma	tL~oma	tloma	tlooma 
+mountain: tloma | Loma	tL~oma	tloma	tlooma 
+mountain: tlôma | Loma	tL~oma	tloma	tlooma 
+mouth: afa 
+mouth: afok | afa 
+mouth: afu˗ko | afa 
+name: ʔimok | uma	ʼûma 
+name: uma | uma	ʼûma 
+name: ûma | uma	ʼûma 
+narrow: qoyaŋ | iiraakw	qoyaŋ 
+navel: gúnûʕuʕ 
+navel: ʔofolonk 
+near: šaya | tseew	tsew 
+near: tsew | tseew	tsew 
+neck: isa 
+neck: isat 
+neck: mirut | isa 
+new: ʕabɛn | /aben	XabEn	Xaben	ʕabɛn 
+new: ˗ʔamba | /aben	XabEn	Xaben	ʕabɛn 
+night: eramesa | xweera	xwera	xweːra	xw~era 
+night: xwera | xweera	xwera	xweːra	xw~era 
+night: xweːra | xweera	xwera	xweːra	xw~era 
+not: (e)ekə́ | eekə́	ekə́ 
+old: ar\ad 
+one: kinde | w3k	wak	wák	wäk	wək 
+one: wäk | w3k	wak	wák	wäk	wək 
+one: wək | w3k	wak	wák	wäk	wək 
+person: hee | he	hee 
+person: ʔiduk | he	hee 
+person: mu | he	hee 
+play: nyenyemit˗ | neet 
+pull: ʔuǯ˗ 
+push: tliwi | tliwii/ 
+rain: miyok | luway	tluway	tlûway 
+rain: miǯok | luway	tluway	tlûway 
+rain: tlûway | luway	tluway	tlûway 
+red: daʕat | daXat	daa/aat	daʕat	dáâten 
+red: dáâten | daXat	daa/aat	daʕat	dáâten 
+red: ˗huma | daXat	daa/aat	daʕat	dáâten 
+right: ʕoyay | dawa	sai	sʼaːi | /iiyay	ʕoyay 
+river: dotu | ya'ee	yaʼe 
+river: ya\e | ya'ee	yaʼe 
+road: lohi | irwa	lohi 
+road: šimut | irwa	lohi 
+root: deʕarmo | deXar	dee/ár	deʕarmo 
+root: mogengera | deXar	dee/ár	deʕarmo 
+rope: wéːli | hima	wéːli 
+rotten: ˗daka | dix 
+rotten: dix 
+salt: dîwi | diwi	dîwi 
+sand: ħasam | hasaŋ	hhasaangw	ħasam 
+sand: hasaŋ | hasaŋ	hhasaangw	ħasam 
+sand: haǯat | hasaŋ	hhasaangw	ħasam 
+say: o˗ | o-	o7	oo'	oʔa | hasaŋ	hhasaangw	ħasam 
+say: oʔa | o-	o7	oo'	oʔa | hasaŋ	hhasaangw	ħasam 
+say: šah˗ | o-	o7	oo'	oʔa | hasaŋ	hhasaangw	ħasam 
+see: ʔadam˗ | ar	ar-	ara	ga/aw 
+see: ar˗ | ar	ar-	ara	ga/aw 
+see: ara | ar	ar-	ara	ga/aw 
+seed: dahasiŋ | dahasiNw~	dahasiingw	dahasiŋ	waraangw 
+see: nuʔuset | ar	ar-	ara	ga/aw 
+sew: herit˗ | herit-	hiriit	hirit- 
+sew: hirit˗ | herit-	hiriit	hirit- 
+short: qoq\mar | qoqʼmar	ququmaar 
+short: ʔumara | qoqʼmar	ququmaar 
+shoulder: isax 
+shoulder: suma 
+sing: daʔ˗ | daa'	daʔ- 
+sing: raʔat˗ | daa'	daʔ- 
+sister: he\o 
+sit: ʔamim | iutanaŋ	iwiit	iwit	iwiːt- 
+sit: iutanaŋ | iutanaŋ	iwiit	iwit	iwiːt- 
+sit: iwiːt˗ | iutanaŋ	iwiit	iwit	iwiːt- 
+skin: kahari 
+sky: ʔadʒa | doori	dori 
+sky: dori | doori	dori 
+sleep: guʔut˗ | gu7	guu'	guʔut-	qata 
+sleep: qata | gu7	guu'	guʔut-	qata 
+sleep: raʔ˗ | gu7	guu'	guʔut-	qata 
+small: ʔara | niina	nina	niːna 
+small: nina | niina	nina	niːna 
+small: niːna | niina	nina	niːna 
+smoke: quʔi | k"u7i	quuʼi	quʔi	ɣui 
+smoke: toʔusayok | k"u7i	quuʼi	quʔi	ɣui 
+smoke: ɣui | k"u7i	quuʼi	quʔi	ɣui 
+smooth: natsatsa | motsotsooq	natsatsa 
+snake: ʔasik | dayshimo	dáyšâmo 
+snake: dáyšâmo | dayshimo	dáyšâmo 
+son: msumba˗tog 
+spit: šebeʔela | feːɦ	tsuq-	tsuuq 
+spit: suga | feːɦ	tsuq-	tsuuq 
+spit: tsuŋk\a | feːɦ	tsuq-	tsuuq 
+squeeze: tleq˗ | tleq-	tsoo/ 
+stand: hut˗ | siXit | XasaNw~	seɦiːt-	sihhiit	siħtano 
+stand: seɦiːt˗ | siXit | XasaNw~	seɦiːt-	sihhiit	siħtano 
+stand: siħtano | siXit | XasaNw~	seɦiːt-	sihhiit	siħtano 
+star: ʔalalaya | seseX	t"at"aX	tsatsa/	tsátséːʼʕi 
+star: tsátséː\ʕi | seseX	t"at"aX	tsatsa/	tsátséːʼʕi 
+stone: deʔok | LaXa	tL~aXanu	tlaa/a	tláʼʕâno 
+stone: tlá\ʕâno | LaXa	tL~aXanu	tlaa/a	tláʼʕâno 
+sun: ʔaǯi˗d | lo7a	loo'aa	loʔa	tséːʼâma 
+sun: loʔa | lo7a	loo'aa	loʔa	tséːʼâma 
+sun: tséː\âma | lo7a	loo'aa	loʔa	tséːʼâma 
+sweet: aguŋg 
+sweet: danu 
+sweet: naɬa 
+swell: ɬuf˗ 
+swim: warħɛma | tumbiim	tumbim	warħɛma 
+tail: ɦáyso | Xayso	hhayso	ħaiso	ɦáyso 
+tail: ħaiso | Xayso	hhayso	ħaiso	ɦáyso 
+tail: hesa | Xayso	hhayso	ħaiso	ɦáyso 
+that: siŋ | w3k	wak	wák	wäk	wək 
+there: are | are	diidáʼ 
+they: in | inoo'ín	ìnòʔín 
+they: ìnòʔín | inoo'ín	ìnòʔín 
+this: ˗ti 
+this: ˗wi 
+thou: ki(ŋ) | kiN	kuN	kuNga7	kuŋ	kíing	kúung 
+thou: kuŋ | kiN	kuN	kuNga7	kuŋ	kíing	kúung 
+thou: kú(ŋ) | kiN	kuN	kuNga7	kuŋ	kíing	kúung 
+three: samak | tam	tám 
+three: tam | tam	tám 
+throat: gugi 
+throat: heha 
+throat: kaʔabut 
+throw: kwaɦ˗ | kwaɦ-	tlaquut	tsaxaar 
+thunder: kuguda 
+thunder: lukwakwára 
+today: láːri 
+today: letula 
+tomorrow: lape 
+tomorrow: mâtlo 
+tongue: šeferank | sifraN	sʼifraŋ	t"ifraNw~	tsifraangw	tsífiraŋ 
+tongue: s\ifraŋ | sifraN	sʼifraŋ	t"ifraNw~	tsifraangw	tsífiraŋ 
+tongue: tsífiraŋ | sifraN	sʼifraŋ	t"ifraNw~	tsifraangw	tsífiraŋ 
+tooth: liga | siXino	sihhino	sino	siħno	síhʔnò 
+tooth: síhʔnò | siXino	sihhino	sino	siħno	síhʔnò 
+tooth: siħno | siXino	sihhino	sino	siħno	síhʔnò 
+tree: kaʃiŋ | xano	xatL~no 
+tree: xá\âno | xano	xatL~no 
+tree: xatlno | xano	xatL~no 
+two: ɬam | sar	sʼar	t"ar	tsar	tsár 
+two: s\ar | sar	sʼar	t"ar	tsar	tsár 
+two: tsar | sar	sʼar	t"ar	tsar	tsár 
+vagina: ganí 
+vagina: gwelai 
+vagina: gwɛlai 
+vomit: waʕ˗ | waa/	waʕ- 
+walk: adi | hi'iit	hi7it 
+walk: daqaw˗ | hi'iit	hi7it 
+walk: nde | hi'iit	hi7it 
+walk: ti\i\iːm˗ | hi'iit	hi7it 
+walk: tlaw | hi'iit	hi7it 
+warm: axunai | axunai	haam 
+warm: da\an | axunai	haam 
+warm: hareta | axunai	haam 
+wash: ħunts | hamaatl	hhuunts	ħunts 
+water: maʔa | ma'ay	ma7ai	ma7ay	máʔày 
+water: máʔày | ma'ay	ma7ai	ma7ay	máʔày 
+water: maya | ma'ay	ma7ai	ma7ay	máʔày 
+we: át | atEn	aten 
+we: àtén | atEn	aten 
+we: eŋ | atEn	aten 
+weep: ʔelelema 
+weep: heʔ˗ 
+weep: ɦɪrɦeri 
+wet: naʕaro | naa/	naʕaro 
+what: amiĺá | amiĺá	mila	milá 
+where: amá | amá	gaːla 
+where: gaːla | amá	gaːla 
+white: ˗abaka | /awaak	Xawak	awaːk	ʕawakw 
+white: awaːk | /awaak	Xawak	awaːk	ʕawakw 
+white: ʕawakw | /awaak	Xawak	awaːk	ʕawakw 
+who: ahɛma | ahɛma	ameːhá	heemá	hema 
+who: ameːhá | ahɛma	ameːhá	heemá	hema 
+wife: ħare | haree	ħare 
+wind: fûr\a | fur'aa	fûrʼa 
+wind: šoʔok | fur'aa	fûrʼa 
+wing: ħampa | hhampa	ħampa 
+woman: ̩àmèní | /ameeni	Xameni	amɛni	̩àmèní 
+woman: amɛni | /ameeni	Xameni	amɛni	̩àmèní 
+woman: majito | /ameeni	Xameni	amɛni	̩àmèní 
+wood: hara 
+wood: hašok 
+year: doʔomok | kuru	kúrù 
+year: kúrù | kuru	kúrù 
+yellow: ˗diliʔi | t"eXat	tsee/aat	tseːʔat 
+yellow: tseːʔat | t"eXat	tsee/aat	tseːʔat 
+yesterday: areš 
+yesterday: ʔari 
+yesterday: îsaʕ 
+you: huŋ | kiN	kuN	kuNga7	kuŋ	kíing	kúung | kuungá' 
+you: kìŋgá | kiN	kuN	kuNga7	kuŋ	kíing	kúung | kuungá' 
+you: kùŋgá | kiN	kuN	kuNga7	kuŋ	kíing	kúung | kuungá' 
+every: sleemeero	slemero	umúu	ɬemɛró 
+ash: da/ara	daXara	daʕara	siχa 
+abdomen: gura7	guraʔ	guraʼ	guraʼa 
+bigness: ur	ùre	ùren 
+large: ur	ùre	ùren 
+breasts: isaNw~	isaangw	isamo	isaŋ 
+nail: foqɛni	fuk"uno	fuqno	fuquno 
+talon: foqɛni	fuk"uno	fuqno	fuquno 
+come from: naharda	xaw	xaw- 
+be dead: agwaʔ	agw~a7	gwaa'	gwaː-	gw~a7 
+dead: agwaʔ	agw~a7	gwaa'	gwaː-	gw~a7 
+ground: Xape	hhapee 
+land: Xape	hhapee 
+soil: Xape	hhapee 
+fat: diXi 
+fat n.: diXi 
+grease: diXi 
+lubricant: diXi 
+oil: diXi 
+fly: /akuut	Xakut	ʕaqmit- 
+fly v.: /akuut	Xakut	ʕaqmit- 
+left hand: dawa	sai	sʼaːi 
+1 sg.: ani	aniN	aníng	àní	án 
+be knowledgeable: xu7	xuu'	xuː-	xuːti 
+lie down: k"at	qaat	qat- 
+head louse: itirmu	itna	itnaa 
+male: Xawata	he	hhawata	héː	ħawata 
+much: maga7	ur	yaariir	yarema	yarir	yaːrir 
+multiple: maga7	ur	yaariir	yarema	yarir	yaːrir 
+several: maga7	ur	yaariir	yarema	yarir	yaːrir 
+flesh: fu'unay	fu7unay 
+hill: Loma	tL~oma	tloma	tlooma 
+title: uma	ʼûma 
+nighttime: xweera	xwera	xweːra	xw~era 
+nose: duNa7	duNg~a7	dunga	duunga'	duŋgaʔ 
+adulterous: w3k	wak	wák	wäk	wək 
+single: w3k	wak	wák	wäk	wək 
+the: w3k	wak	wák	wäk	wək 
+unprincipled: w3k	wak	wák	wäk	wək 
+human: he	hee 
+human being: he	hee 
+rainy weather: luway	tluway	tlûway 
+path: irwa	lohi 
+route: irwa	lohi 
+round: gumbalalaX	gumbalalahh 
+hide: kahari 
+little: niina	nina	niːna 
+smallness: niina	nina	niːna 
+rock: LaXa	tL~aXanu	tlaa/a	tláʼʕâno 
+2 sg: kiN	kuN	kuNga7	kuŋ	kíing	kúung 
+grind: sar	sʼar	t"ar	tsar	tsár 
+go: hi'iit	hi7it 
+hot: axunai	haam 
+1 pl. inc.: atEn	aten 
+we₁: atEn	aten 
+whiteness: /awaak	Xawak	awaːk	ʕawakw 
+who?: ahɛma	ameːhá	heemá	hema 
+female: /ameeni	Xameni	amɛni	̩àmèní 
+distant: saaw	saw 
+dull: iilo'	ílò 
+serious: iilo'	ílò 
+close: tseew	tsew 
+ner: tseew	tsew 
+thin: diqi niina 
+earthworm: girirík 
+worm: girirík 
+3 sg.: inós 
+he: inós 
+she: inós 
+2 pl.: kuungá' 
+ye: kuungá' 
+you all: kuungá' 
+3 pl.: inoo'ín	ìnòʔín 
+where?: amá	gaːla 
+when: xaylá 
+when?: xaylá 
+how: idoomá 
+how?: idoomá 
+few: peeráy 
+other: hatlaʼ 
+broad: intlaaxw 
+wide: intlaaxw 
+wideness: intlaaxw 
+thick: diqi ur 
+principal wife: haree	ħare 
+his mother: aayo	ayó	áːma 
+my mother: aayo	ayó	áːma 
+his father: baabá	babu 
+my father: baabá	babu 
+woods: gara 
+stick: halmi 
+fruit: ma/andú	maama 
+cord: hima	wéːli 
+gut: waqát 
+insides: waqát 
+intestine: waqát 
+intestines: waqát 
+suck: du'uum 
+breath: hiinsl	hinhl 
+laughter: qaseem	qaseːm- 
+cogitate: alqaytsiit	qeerus 
+reflect: alqaytsiit	qeerus 
+think: alqaytsiit	qeerus 
+smell: tsaa'	tsaʔ- 
+sniff: tsaa'	tsaʔ- 
+afraid: da'ayee 
+be afraid: da'ayee 
+fright: da'ayee 
+alive: hoot 
+be alive: hoot 
+life: hoot 
+live: hoot 
+living: hoot 
+beat: law	taahh	usax 
+strike: law	taahh	usax 
+hack: siiq	tlaq	tsaat 
+cut open: fehhiis	qasiis 
+split: fehhiis	qasiis 
+pierce: muut 
+stab: muut 
+scratch: gweehh 
+tell lies: al/aay 
+turn: waaqees 
+turn around: waaqees 
+turn round: waaqees 
+drop: huu'	huː- 
+grasp: ooh 
+hold: ooh 
+hold in arm: ooh 
+wring: tleq-	tsoo/ 
+rub: slipiis 
+wipe: fiits 
+wash clothes: hamaatl	hhuunts	ħunts 
+shove: tliwii/ 
+bind: tseeg 
+fasten: tseeg 
+tie: tseeg 
+tie up: tseeg 
+enumerate: faar	far- 
+number: faar	far- 
+tally: faar	far- 
+have fun: neet 
+float: tlambebe/iit 
+flow: waa/ 
+brook: ya'ee	yaʼe 
+stream: ya'ee	yaʼe 
+ocean: bahari 
+sea: bahari 
+ice: barafu	daqtamó 
+blaze: daX	oh	oh-	ooh 
+daylight: bal	deelo	tasʼa 
+daytime: bal	deelo	tasʼa 
+evil: tlaakw	tlakw 
+rot: dix 
+filthy: slasla/aar	ɬaɬʼar 
+soiled: slasla/aar	ɬaɬʼar 
+straight: ganaa' 
+sharp: wer'i 
+blunt: muski 
+damp: naa/	naʕaro 
+correct: qoon 
+right side: /iiyay	ʕoyay 
+in: baráa	yaamú 
+inside: baráa	yaamú 
+with: nee 
+and: nee 
+if: bara 
+because: gídabá 

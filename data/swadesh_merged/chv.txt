@@ -1,0 +1,334 @@
+all: пĕтĕм	пур	пурте 
+every: пĕтĕм	пур	пурте 
+ash: кĕл 
+ashes: кĕл 
+bark: хуйǎр	хуп	хупǎ 
+abdomen: хырăм 
+belly: хырăм 
+big: мăн	пысăк 
+bigness: мăн	пысăк 
+large: мăн	пысăк 
+bird: кайăк 
+bite: çыртма 
+black: хура 
+blood: yun	юн 
+bone: S3m3	шăмă 
+breast: k3g3r	кăкăр	чĕжĕ	чĕчĕ 
+breasts: k3g3r	кăкăр	чĕжĕ	чĕчĕ 
+cloud: пĕлĕт 
+cold: сивĕ 
+come: ky~ily~	кильме 
+come from: ky~ily~	кильме 
+be dead: vily~	вильме 
+dead: vily~	вильме 
+die: vily~	вильме 
+dog: yud3	йытă 
+drink: 3S	ĕçме 
+dry: типĕ 
+ear: x3lxa	хăлха 
+earth: çĕр	тăпра 
+ground: çĕр	тăпра 
+land: çĕр	тăпра 
+soil: çĕр	тăпра 
+eat: çиме 
+egg: çăмарта 
+eye: kuS	куç 
+feather: тĕк 
+fire: vut	вут 
+fish: pul3	пулă 
+fly: вĕçме 
+fly v.: вĕçме 
+foot: ура 
+full: tul3	туллы 
+give: пама 
+good: лайăх 
+green: ешĕль	симĕс 
+hair: çӱç	çӳç 
+hand: al3 
+left hand: al3 
+right: al3 
+head: пуç 
+hear: ily~ty~	илтме 
+heart: чĕре 
+horn: m3raga	мăйрака 
+1 sg.: eb3	эпĕ	эпӗ 
+I: eb3	эпĕ	эпӗ 
+kill: вĕлерме 
+knee: C3rguSi	чĕр куççи 
+be knowledgeable: пĕлме 
+know: пĕлме 
+leaf: Suly~Z3	çулçă 
+liver: p3ver	пĕвер 
+long: вăрăм 
+head louse: pud3	пыйтă 
+louse: pud3	пыйтă 
+male: ар 
+man: Sun	çын	эдем 
+many: нумай 
+much: нумай 
+multiple: нумай 
+several: нумай 
+moon: уйăх 
+hill: tu	ту 
+mountain: tu	ту 
+mouth: çăвар 
+name: yat	ят 
+title: yat	ят 
+neck: мăй 
+new: çĕнĕ 
+night: kaS	каç 
+nighttime: kaS	каç 
+nose: s3mza	сăмса 
+not: мар 
+adulterous: p3r	пĕрре 
+one: p3r	пĕрре 
+single: p3r	пĕрре 
+that: вǎл	леш 
+the: p3r	пĕрре 
+unprincipled: p3r	пĕрре 
+human: Sun	çын	эдем 
+human being: Sun	çын	эдем 
+person: Sun	çын	эдем 
+rain: çăмăр 
+rainy weather: çăмăр 
+red: хĕрлĕ 
+path: Sul	çул 
+road: Sul	çул 
+route: Sul	çул 
+root: тымар 
+round: çаврака	чǎмǎр 
+sand: хăйăр 
+say: калама	теме 
+see: kur	курма 
+seed: вăрлăх	вǎрǎ 
+sit: ларма 
+hide: tir	тир 
+skin: tir	тир 
+sleep: çăвăрма 
+little: пĕчĕк 
+small: пĕчĕк 
+smallness: пĕчĕк 
+smoke: тĕтĕм 
+star: S3ld3r	çăлтăр 
+rock: Cul	чул 
+stone: Cul	чул 
+sun: xy~3vely~	хĕвел 
+swim: ишме 
+tail: хӱре	хӳре 
+this: ку 
+2 sg: ez3	эсĕ	эсӗ 
+thou: ez3	эсĕ	эсӗ 
+you: ez3	эсĕ	эсӗ 
+tongue: C3ly~xy~e	чĕлхе 
+tooth: S3l	шăл 
+tree: yuv3S	йывăç 
+grind: iky~3	иккĕ 
+two: iky~3	иккĕ 
+go: çӱреме	çӳреме	пырма	утма 
+walk: çӱреме	çӳреме	пырма	утма 
+hot: ăшă 
+warm: ăшă 
+water: Suv	шуу	шыв 
+1 pl. inc.: ebir	эпир 
+we: ebir	эпир 
+we₁: ebir	эпир 
+what: мĕн 
+white: шурă 
+whiteness: шурă 
+who: кам 
+who?: кам 
+female: хĕрарăм 
+woman: хĕрарăм 
+yellow: сарă 
+distant: инçе	инче 
+far: инçе	инче 
+dull: йывăр 
+heavy: йывăр 
+serious: йывăр 
+close: çывăх 
+near: çывăх 
+ner: çывăх 
+salt: тăвар 
+short: кĕске 
+snake: çĕлен 
+thin: çинче	çӱхе	çӳхе 
+wind: çил 
+earthworm: хурт	ӑман 
+worm: хурт	ӑман 
+year: çул 
+3 sg.: вăл	вӑл	у 
+he: вăл	вӑл	у 
+she: вăл	вӑл	у 
+2 pl.: эсир 
+ye: эсир 
+you all: эсир 
+3 pl.: вĕсем	вӗсем 
+they: вĕсем	вӗсем 
+here: кунта 
+there: унта 
+where: ăçта 
+where?: ăçта 
+when: хăçан 
+when?: хăçан 
+how: мĕнле 
+how?: мĕнле 
+some: темиçе	хăш	хăш-пер 
+few: кăшт	сахал 
+other: урăх 
+three: виççĕ 
+four: тăваттă 
+five: пиллĕк 
+broad: анлǎ	сарлака	шалпар 
+wide: анлǎ	сарлака	шалпар 
+wideness: анлǎ	сарлака	шалпар 
+fat: çу 
+thick: хулăн 
+narrow: ансăр	тǎвǎр 
+child: ача 
+principal wife: арăм 
+wife: арăм 
+husband: упăшка 
+his mother: абай	аби	анне 
+mother: абай	аби	анне 
+my mother: абай	аби	анне 
+father: ади	атте 
+his father: ади	атте 
+my father: ади	атте 
+animal: выльăх	кайǎк	чĕр чун 
+forest: вăрман 
+woods: вăрман 
+branch: патак	туя 
+stick: патак	туя 
+fruit: улма 
+flower: çеçке	чечек 
+grass: курăк 
+cord: вĕрен 
+rope: вĕрен 
+flesh: аш	какай 
+meat: аш	какай 
+grease: çу 
+claw: чĕрне 
+fingernail: чĕрне 
+nail: чĕрне 
+leg: пĕçĕ 
+arm: алă 
+wing: çунат 
+gut: пыршă 
+guts: пыршă 
+insides: пыршă 
+intestine: пыршă 
+intestines: пыршă 
+back: çурăм 
+suck: ĕмме 
+spit: сурма 
+vomit: хĕсме 
+blow: вĕрме 
+breath: сывлама 
+breathe: сывлама 
+laugh: кулма 
+laughter: кулма 
+cogitate: шутлама	шухǎшлама 
+reflect: шутлама	шухǎшлама 
+think: шутлама	шухǎшлама 
+smell: шăшлама 
+sniff: шăшлама 
+afraid: хăрама 
+be afraid: хăрама 
+fear: хăрама 
+fright: хăрама 
+alive: пурăнма 
+be alive: пурăнма 
+life: пурăнма 
+live: пурăнма 
+living: пурăнма 
+fight: çапǎç	вăрçма	кĕреш 
+hunt: тытма çÿре	тытма?? 
+beat: çапма	шаккама 
+hit: çапма	шаккама 
+strike: çапма	шаккама 
+cut: касма 
+hack: касма 
+cut open: çур	пайлама	чĕл 
+split: çур	пайлама	чĕл 
+pierce: тирме	чикме 
+stab: тирме	чикме 
+scratch: чǎрмала	чав	шăйăрма 
+dig: хусǎклама	чавма 
+lie: выртма 
+lie down: выртма 
+tell lies: выртма 
+stand: тăма 
+turn: çавăрма	пăрма 
+turn around: çавăрма	пăрма 
+turn round: çавăрма	пăрма 
+drop: тÿнме	такǎнма	ӱкме	ӳкме 
+fall: тÿнме	такǎнма	ӱкме	ӳкме 
+grasp: тытма 
+hold: тытма 
+hold in arm: тытма 
+squeeze: пǎчǎрта	хĕсме	чăмăртма 
+wring: пǎчǎрта	хĕсме	чăмăртма 
+rub: сăтăрма	сĕрме 
+wipe: шăлма	шăлсама 
+wash: çума 
+wash clothes: çума 
+pull: сĕтĕр	туртма 
+push: тĕкме	тĕртме 
+shove: тĕкме	тĕртме 
+throw: пăрахма	перме	ывǎтма 
+bind: çыхма	кǎкарма	сыпма 
+fasten: çыхма	кǎкарма	сыпма 
+tie: çыхма	кǎкарма	сыпма 
+tie up: çыхма	кǎкарма	сыпма 
+sew: çĕлеме	тĕрлеме 
+count: шутлама 
+enumerate: шутлама 
+number: шутлама 
+tally: шутлама 
+sing: юрлама 
+have fun: вылляма 
+play: вылляма 
+float: ишме 
+flow: юхма 
+freeze: шăнма 
+swell: шыçма 
+brook: çирма	шыв 
+river: çирма	шыв 
+stream: çирма	шыв 
+lake: кӱлĕ	кӳлĕ 
+ocean: тинĕс 
+sea: тинĕс 
+dust: тусан 
+fog: тĕтре 
+sky: тӱпе	тӳпе 
+snow: юр 
+ice: пăр 
+blaze: çунма 
+burn: çунма 
+day: кун 
+daylight: кун 
+daytime: кун 
+old: ватă	кивĕ 
+bad: начар	япăх 
+evil: начар	япăх 
+rot: çĕрĕк 
+rotten: çĕрĕк 
+dirty: çÿплĕ	лапраллă	пыльчăклă	хура 
+filthy: çÿплĕ	лапраллă	пыльчăклă	хура 
+soiled: çÿплĕ	лапраллă	пыльчăклă	хура 
+straight: тикĕс	тӱрĕ	тӳрĕ 
+sharp: çивĕч	вичкĕн 
+blunt: мăка 
+smooth: тÿрĕ	такǎр	яка 
+damp: исленчĕк	йĕпе	нÿрĕ 
+wet: исленчĕк	йĕпе	нÿрĕ 
+correct: тĕрĕс	чǎн 
+right side: сылтăм 
+left: сулахай 
+at: -та	-те 
+in: -та	-те 
+inside: -та	-те 
+with: -па	-пе 
+and: та	тата	те 
+if: эхер 
+because: пирки 

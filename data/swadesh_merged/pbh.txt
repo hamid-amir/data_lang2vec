@@ -1,0 +1,314 @@
+all: atawən 
+every: atawən 
+ash: tukəənə 
+ashes: tukəənə 
+bark: iye pi-hpə 
+big: tosan-pe	tosen-pe 
+bigness: tosan-pe	tosen-pe 
+large: tosan-pe	tosen-pe 
+bird: tunko 
+bite: -ɨnə-n 
+black: tɨ-puru-ke 
+blood: meiCu7	meičuʔ 
+bone: -yəhpə	y3p3 
+breast: mak 
+breasts: mak 
+claw: -ihta yɨpun 
+nail: -ihta yɨpun 
+talon: -ihta yɨpun 
+cloud: keʔɲato 
+cold: t-ɨʔnatə-ke 
+come: -uwəpɨn	3pi	uw3p3n	əpi-)	əpɨ- 
+come from: -uwəpɨn	3pi	uw3p3n	əpi-)	əpɨ- 
+be dead: usuka	y-usuka-n 
+dead: usuka	y-usuka-n 
+die: usuka	y-usuka-n 
+dog: k3r3n3p3n	kərənəpən 
+drink: nɨkorooman 
+dry: t-ukočike-če 
+ear: -pana-	pana 
+earth: ano 
+ground: ano 
+land: ano 
+soil: ano 
+eat: yu-č-erema-n 
+egg: ... moe 
+eye: -y-o-n	o	on	yon 
+feather: -iʔ-pok 
+fire: wahto	wato 
+fish: kana 
+fly: yu-tə-n kawə 
+fly v.: yu-tə-n kawə 
+foot: pata	y-ihta- 
+full: tuke 
+give: y-uʔ 
+good: ayape 
+green: t-akuʔya-ke 
+hair: -iʔ-pok 
+hand: -eɲa-	e5a 
+left hand: -eɲa-	e5a 
+right: -eɲa-	e5a 
+head: -pu-n 
+hear: -itya-	ity~a 
+heart: iɲə	t-yawa 
+horn: pana s3k3n	pana səkən 
+1 sg.: yu 
+I: yu 
+kill: -uwə- 
+knee: -čeʔmu-	Cemu 
+be knowledgeable: t-inča 
+know: t-inča 
+leaf: -yan	yan 
+lie: -uwiɲa- 
+lie down: -uwiɲa- 
+liver: -y-inki-	inki 
+long: t-ankəča-ke 
+head louse: s3p3n	sɨhpən 
+louse: s3p3n	sɨhpən 
+male: apok 
+man: e5apa	eʔɲapa 
+many: kure 
+much: kure 
+multiple: kure 
+several: kure 
+flesh: -puʔ 
+meat: -puʔ 
+moon: wanə 
+hill: iʔ 
+mountain: iʔ 
+mouth: -ənta-	ta 
+name: -ičeik	enaXat 
+title: -ičeik	enaXat 
+neck: -pɨmɨ- 
+new: pik	y-an-se 
+night: s3paw3	sɨpaawə 
+nighttime: s3paw3	sɨpaawə 
+nose: -əəwa-	3wa 
+adulterous: tyityasa	ty~ity~asa 
+one: tyityasa	ty~ity~asa 
+single: tyityasa	ty~ity~asa 
+that: tyityasa	ty~ity~asa 
+the: tyityasa	ty~ity~asa 
+unprincipled: tyityasa	ty~ity~asa 
+human: e5apa	eʔɲapa 
+human being: e5apa	eʔɲapa 
+person: e5apa	eʔɲapa 
+rain: kanoʔ 
+rainy weather: kanoʔ 
+red: t-ukin-ke 
+path: C3ma 
+road: C3ma 
+route: C3ma 
+root: -yimik 
+round: tɨ-muruhku-ke 
+sand: mičin 
+say: ka- 
+see: -iɲei-	i5ei 
+seed: -yahpə 
+sit: -os-amaika- 
+hide: -pi-hpə	pip3 
+skin: -pi-hpə	pip3 
+sleep: -okuetyi-n 
+little: ari-pɨɨča	pɨɨča 
+small: ari-pɨɨča	pɨɨča 
+smallness: ari-pɨɨča	pɨɨča 
+smoke: wahto ičik 
+star: ka7 yak3n	kaʔ yakɨn 
+rock: to7	toʔ 
+stone: to7	toʔ 
+sun: ehCerekun	ehčerekun 
+swim: akueʔ 
+tail: -yɨtɨkɨn 
+2 sg: am3n	amən 
+thou: am3n	amən 
+you: am3n	amən 
+tongue: -iɲo-	i5o 
+tooth: y3	yə- 
+tree: iye	yo 
+grind: asac	asak 
+two: asac	asak 
+go: -ataraama- 
+walk: -ataraama- 
+water: t3na	tɨna 
+1 pl. inc.: ana	weʔɲəkon	yuto-kon	yutokon 
+we: ana	weʔɲəkon	yuto-kon	yutokon 
+we₁: ana	weʔɲəkon	yuto-kon	yutokon 
+what: nəhpa 
+white: tamuʔɲe 
+whiteness: tamuʔɲe 
+who: nək 
+who?: nək 
+female: wɨnkɨk 
+woman: wɨnkɨk 
+yellow: t-ukin-ke 
+distant: ɲenča 
+far: ɲenča 
+dull: taməʔɲe 
+heavy: taməʔɲe 
+serious: taməʔɲe 
+close: ɲenča ehke 
+near: ɲenča ehke 
+ner: ɲenča ehke 
+salt: paamə 
+short: kawə ehke 
+snake: ake 
+thin: pityaka-sa 
+wind: tyapapači 
+earthworm: winiči 
+worm: winiči 
+year: onkoma riʔma- 
+2 pl.: aɲimonton 
+ye: aɲimonton 
+you all: aɲimonton 
+3 pl.: kamonton 
+they: kamonton 
+where: əhtə	əhtə-na	əhtɨ-no 
+where?: əhtə	əhtə-na	əhtɨ-no 
+when: sɨnka-ya-wo	sɨnkae-ya 
+when?: sɨnka-ya-wo	sɨnkae-ya 
+how: sɨnkae 
+how?: sɨnkae 
+some: kura pɨkapɨ 
+few: kure ehke ča 
+three: asonwa 
+four: asaʔnan	asa’nan 
+five: eñacätoome	eɲa-katoome 
+broad: t-ankəča-ke 
+wide: t-ankəča-ke 
+wideness: t-ankəča-ke 
+fat: ...-kaʔ	karapa 
+thick: asɨɨ-pe 
+narrow: t-ankəča-ke ehke 
+child: -ken 
+principal wife: pɨk 
+wife: pɨk 
+husband: tamu-n 
+his mother: -anə	y-anə 
+mother: -anə	y-anə 
+my mother: -anə	y-anə 
+father: yɨm 
+his father: yɨm 
+my father: yɨm 
+animal: nəʔna 
+forest: ih-ya	ihča 
+woods: ih-ya	ihča 
+branch: iye y-apə-n 
+stick: iye y-apə-n 
+fruit: -yempan 
+flower: -yipin	ehčipipin 
+grass: wanaʔ yɨ-pu-n 
+cord: awa	warara 
+rope: awa	warara 
+grease: ...-kaʔ	karapa 
+fingernail: -eɲa-n yɨ-pu-n y-o-n 
+wing: -apə 
+gut: -pačeik	pače 
+guts: -pačeik	pače 
+insides: -pačeik	pače 
+intestine: -pačeik	pače 
+intestines: -pačeik	pače 
+back: -mpae 
+suck: -ɨkamuhkə- 
+spit: y-ɨtyaku-n yama- 
+vomit: -uwəčiɲompətɨ-n 
+blow: -apeʔma-	ɨpapeiʔma- 
+breath: -yači- 
+breathe: -yači- 
+laugh: -os-onoʔ 
+laughter: -os-onoʔ 
+cogitate: -uč-inča-ma- 
+reflect: -uč-inča-ma- 
+think: -uč-inča-ma- 
+smell: -eʔmu- 
+sniff: -eʔmu- 
+afraid: yɨnkasɨ 
+be afraid: yɨnkasɨ 
+fear: yɨnkasɨ 
+fright: yɨnkasɨ 
+alive: onkono	onkono-pe 
+be alive: onkono	onkono-pe 
+life: onkono	onkono-pe 
+live: onkono	onkono-pe 
+living: onkono	onkono-pe 
+fight: -us-ənə- 
+hunt: ataraama- 
+beat: -ɨpuʔmo- 
+hit: -ɨpuʔmo- 
+strike: -ɨpuʔmo- 
+cut: -ɨkɨtə- 
+hack: -ɨkɨtə- 
+cut open: -ɨpetyaka- 
+split: -ɨpetyaka- 
+pierce: -uwə- 
+stab: -uwə- 
+dig: ano ka-n 
+tell lies: asu	t-ičemaʔ-ke 
+stand: -osan pika 
+turn: -oponaka-	-os-oponaka- 
+turn around: -oponaka-	-os-oponaka- 
+turn round: -oponaka-	-os-oponaka- 
+drop: -uwiɲa- 
+fall: -uwiɲa- 
+grasp: yapəʔ 
+hold: yapəʔ 
+hold in arm: yapəʔ 
+squeeze: -ɨpiʔ 
+wring: -ɨpiʔ 
+rub: -ɨpanawaʔ 
+wipe: -ɨpanawaʔ 
+wash: -ukoka- 
+wash clothes: -ukoka- 
+push: -ompayii-ma- 
+shove: -ompayii-ma- 
+throw: -ama- 
+bind: -ɨpɨrɨn 
+fasten: -ɨpɨrɨn 
+tie: -ɨpɨrɨn 
+tie up: -ɨpɨrɨn 
+sew: -ɨpɨtɨpə- 
+count: yuʔ 
+enumerate: yuʔ 
+number: yuʔ 
+tally: yuʔ 
+sing: waare 
+have fun: -os-amaɲi 
+play: -os-amaɲi 
+float: əmɨʔka 
+flow: -uwəhtə- 
+brook: tɨna 
+river: tɨna 
+stream: tɨna 
+lake: tɨna yɨm 
+ocean: tɨna yɨm 
+sea: tɨna yɨm 
+dust: ano ičik 
+fog: kanoʔ ičik 
+sky: kaʔ 
+snow: tɨʔnatəke mən 
+ice: tɨʔnatəke mən 
+blaze: -ti)	aʔ	yuwaatɨn 
+burn: -ti)	aʔ	yuwaatɨn 
+day: wataweikasa 
+daylight: wataweikasa 
+daytime: wataweikasa 
+bad: arʸɨpɨ-pe 
+evil: arʸɨpɨ-pe 
+rot: y-usuka-sa 
+rotten: y-usuka-sa 
+dirty: tɨpuru-ke 
+filthy: tɨpuru-ke 
+soiled: tɨpuru-ke 
+straight: təhsan 
+sharp: t-ɨyɨh-ke 
+blunt: t-ɨyɨ-ke ehke 
+smooth: t-ɨkarin-ke 
+damp: t-ərəmə-če 
+wet: t-ərəmə-če 
+correct: t-ah-se ehke 
+right side: arʸe yaka 
+left: poe yaka 
+in: t-ya 
+inside: t-ya 
+and: -yako	yaʔkən	yaʔnən 
+if: -npan	-npək 
+because: -npan	-npək 

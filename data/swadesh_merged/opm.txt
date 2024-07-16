@@ -1,0 +1,413 @@
+all: gonap | gonap	gonsi 
+all: gonsi | gonap	gonsi 
+ankle: gargor 
+arm: bes(aa) 
+arm: besoɣ 
+arrow: ban 
+arrow: ɣənat 
+ashes: kup(aa) | kup	kupaː	tamoɣ	tʰama 
+ashes: taam(aa) | kup	kupaː	tamoɣ	tʰama 
+ashes: tamoɣ | kup	kupaː	tamoɣ	tʰama 
+at: -nong 
+at: tai 
+back: kom(aa) 
+back: kom taan 
+back: kopi-tam 
+bad: er 
+bad: er(aa) 
+bad: er gap 
+bad: sain 
+bark: watax(aa) | iɹät wʌtax	watax	wataxaː	wətaɣ	wʌtax	xim	ximaː	yaim	yaimaː 
+bark: wətaɣ | iɹät wʌtax	watax	wataxaː	wətaɣ	wʌtax	xim	ximaː	yaim	yaimaː 
+bark: xim(aa) | iɹät wʌtax	watax	wataxaː	wətaɣ	wʌtax	xim	ximaː	yaim	yaimaː 
+bark: yaim(aa) | iɹät wʌtax	watax	wataxaː	wətaɣ	wʌtax	xim	ximaː	yaim	yaimaː 
+belly: aake | aːke	aβra 
+belly: airaap(aa) | aːke	aβra 
+belly: ake | aːke	aβra 
+big: isip | isip	isipɸ	kai 
+big: kai | isip	isipɸ	kai 
+bird: ner | ner	nera	neraː 
+bird: ner(aa) | ner	nera	neraː 
+bite: dataar- | gaː ar-	gaː dut por-	xänip suβät 
+bite: gaa ar- | gaː ar-	gaː dut por-	xänip suβät 
+bite: gaa dut por- | gaː ar-	gaː dut por-	xänip suβät 
+bite: gaa xaptor por- | gaː ar-	gaː dut por-	xänip suβät 
+bite: goxo- | gaː ar-	gaː dut por-	xänip suβät 
+bitter: atpai 
+bitter: naang 
+bitter: xaax(aa) 
+bitter: xaax-si 
+black: kwi 
+blood: koxaar | hʌima	koxaːr	x3ima	xaim	xaimaː 
+blood: xaim(aa) | hʌima	koxaːr	x3ima	xaim	xaimaː 
+blow: en-dai- 
+blow: pukaan-dai- 
+bone: soxor(aa) | soxor	soxoraː	tam	tamaː	tʰʌma 
+bone: tam(aa) | soxor	soxoraː	tam	tamaː	tʰʌma 
+branch: te 
+breast: non(aa) | non	nona	nonaː 
+breathe: nax(aa) 
+breathe: nax darxer- 
+brother: mon(aa) 
+brother: naap(aa) 
+brother: naap-ir 
+brother: nanggaa 
+brother: nanin(-ir) 
+brother: nanip(-ir) 
+burn: andor- 
+burn: taatxa- 
+burn: taaur- 
+burn: tandor- 
+burn: ten-dai- 
+burn: xaar(aa) 
+burn: xaar xa- 
+burn: xaas xa- 
+butterfly: kapkap(aa) 
+cassowary: ner-sup 
+cassowary: piong 
+cassowary: putur 
+cassowary: suaap(aa) 
+cheek: daak(aa) 
+chest: kamaa taan(aa) 
+chest: rangrang(aa) 
+chest: xawaa 
+child: barip(aa) 
+child: bəreroɣ 
+child: brer 
+child: brer(aa) 
+child: ixsen 
+child: mutux tax 
+child: wanang(aa) 
+claw: taxaax(aa) | taxaːx	taxaːxaː	tʰʌxaxa 
+cloud: awgapar | awgapar	riaːn	riaːnaː	tisor-	ʌriäna 
+cloud: riaan(aa) | awgapar	riaːn	riaːnaː	tisor-	ʌriäna 
+cloud: tisor- | awgapar	riaːn	riaːnaː	tisor-	ʌriäna 
+cold: cool) | dame	dame-si	girir-si	tixix-si	tʰixixa 
+cold: dame(-si) | dame	dame-si	girir-si	tixix-si	tʰixixa 
+cold: girir-si | dame	dame-si	girir-si	tixix-si	tʰixixa 
+cold: ø | dame	dame-si	girir-si	tixix-si	tʰixixa 
+cold: tixix-si (anim. | dame	dame-si	girir-si	tixix-si	tʰixixa 
+come: a-pri-S | a-pri-ʃ	mande-	mara-	t3ma	wanda-	əpri	ʌβriβät 
+come: əpri | a-pri-ʃ	mande-	mara-	t3ma	wanda-	əpri	ʌβriβät 
+come: mande- | a-pri-ʃ	mande-	mara-	t3ma	wanda-	əpri	ʌβriβät 
+come: mara- | a-pri-ʃ	mande-	mara-	t3ma	wanda-	əpri	ʌβriβät 
+come: wanda- | a-pri-ʃ	mande-	mara-	t3ma	wanda-	əpri	ʌβriβät 
+count: saapaat 
+cut: aarxur- 
+cut: aikaar- 
+cut: baak-dai- 
+cut: barak(aa) 
+cut: bopok-dai- 
+cut: darke- 
+cut: gar-dai- 
+cut: gat-dai- 
+cut: gater- 
+cut: gatong por- 
+cut: kondai- 
+cut: kwer- 
+cut: peng-dai- 
+cut: pusu por- 
+cut: rumbup-dai- 
+cut: taang por- 
+cut: uriaan-dai- 
+cut: xraar-dai 
+dance: birxi- 
+dark: kwi 
+dark: kwi xa- 
+die: ɣəputpa | hapu-ʀ	həpu	xʌβurβät 
+die: hapu-R | hapu-ʀ	həpu	xʌβurβät 
+die: həpu | hapu-ʀ	həpu	xʌβurβät 
+earth: dokong | dokoŋ	moŋ	moŋ dakaːr	moŋ dakaːraː	moŋorhoraː 
+earth: moŋ | dokoŋ	moŋ	moŋ dakaːr	moŋ dakaːraː	moŋorhoraː 
+earth: mong dakaar(aa) | dokoŋ	moŋ	moŋ dakaːr	moŋ dakaːraː	moŋorhoraː 
+earth: mongorhoraa | dokoŋ	moŋ	moŋ dakaːr	moŋ dakaːraː	moŋorhoraː 
+eat: da | da	da-M	dʌβät 
+eat: da-M | da	da-M	dʌβät 
+elbow: kimin 
+elbow: kimin tam 
+fear: kas-aa dai- 
+fear: kas xa- 
+fear: kəs 
+fire: irat | irat	irat xas	irata	iräta 
+fish: aniŋ | 3niNa	aniŋ	ʌniŋa 
+fog: riaan(aa) 
+fog: sox(aa) 
+foot: toŋ | toŋ	toŋa 
+foot: tong wu | toŋ	toŋa 
+forest: kot(aa) 
+forest: puutem 
+forest: xaa 
+give: aa-pri-S | apri	aː-pri-ʃ	näβriβät 
+give: apri | apri	aː-pri-ʃ	näβriβät 
+good: yah | yah	yəɣa	yʌxa 
+good: yəɣa | yah	yəɣa	yʌxa 
+hand: besoɣ | bes t3m	besa	besoɣ	xan t3m 
+head: kaak(aa) | kakmoɣ	kaːk	kaːkaː	kʰaka 
+head: kaak-dus(aa) | kakmoɣ	kaːk	kaːkaː	kʰaka 
+head: kakmoɣ | kakmoɣ	kaːk	kaːkaː	kʰaka 
+here: mandex 
+here: mixan 
+he/she: oɣ 
+he/she: oxe/orxe 
+he/she: ox/orxor/orxaap 
+he/she: uɣ 
+he/she: uxe/urxe 
+he/she: ux/urxor/urxaap 
+hit: indai- 
+hit: nuntux taha- 
+hit: su-M 
+hole: tem 
+house: aap 
+house: ap 
+how: kin 
+I: noɣ | norxaːp	norxor	nox	noxa	noɣ	noɣa 
+I: norxaap | norxaːp	norxor	nox	noxa	noɣ	noɣa 
+I: norxor | norxaːp	norxor	nox	noxa	noɣ	noɣa 
+I: nox | norxaːp	norxor	nox	noxa	noɣ	noɣa 
+I: noxe/norxe | norxaːp	norxor	nox	noxa	noɣ	noɣa 
+jaw: ga 
+kill: su | su	su-M	suβät 
+kill: su-M | su	su-M	suβät 
+lake: xru 
+leaf: əpin | apina	rina	əpin	ʌrin 
+lie: tima-M | timə 
+lie: timə 
+live: p- 
+live: p-M 
+long: dok | dapsi 
+man: han(ip) | han	hanip	xana	xanip	xaːn	xänip 
+man: xaan(aa) | han	hanip	xana	xanip	xaːn	xänip 
+man: xaanip | han	hanip	xana	xanip	xaːn	xänip 
+morning: kutwi 
+mouth: gaa | ʌtem 
+name: winoɣ | wina	winoɣ 
+near: kaak-duup(aa) | kaːk-duːp	kaːk-duːpaː 
+not: na | -bʌs	-na	na 
+old: ixsen 
+old: paser 
+old: pəser 
+one: tit | tip3na	tipan	tit	tita	tiβʌna 
+person: han(ip) | han	hanip	xana	xanip	xaːn	xänip 
+person: xaan | han	hanip	xana	xanip	xaːn	xänip 
+pull: pe 
+rain: awgwe | tom	tʰoma 
+rain: tom | tom	tʰoma 
+rat: tərminoɣ 
+river: kep(aa) 
+river: puptai 
+river: tom eng 
+river: tom kut 
+road: məndap | m3dap 
+round: xoxyaap(aa) | miŋ	xoxyaːp	xoxyaːpaː 
+salt: sər 
+say: meng- | menɹiβät	po	po-ʀ	ri	ri-M 
+say: po | menɹiβät	po	po-ʀ	ri	ri-M 
+say: po-R | menɹiβät	po	po-ʀ	ri	ri-M 
+say: ri | menɹiβät	po	po-ʀ	ri	ri-M 
+say: ri-M | menɹiβät	po	po-ʀ	ri	ri-M 
+shoulder: bar tam 
+shoulder: kaat(aa) 
+shoulder: kaat tam 
+shoulder: kiki tam 
+shoulder: xarkaak(aa)- 
+sister: naap(aa) 
+sister: naap-ir 
+sister: nanggaa 
+sit: gaxaar- | gaxaːr-	gaxaːt	taːrgaːr-	toŋna-M	toŋnə	tʰoŋnʌt βät 
+sit: gaxaat | gaxaːr-	gaxaːt	taːrgaːr-	toŋna-M	toŋnə	tʰoŋnʌt βät 
+sit: taargaar- | gaxaːr-	gaxaːt	taːrgaːr-	toŋna-M	toŋnə	tʰoŋnʌt βät 
+sit: tongna-M | gaxaːr-	gaxaːt	taːrgaːr-	toŋna-M	toŋnə	tʰoŋnʌt βät 
+sit: toŋnə | gaxaːr-	gaxaːt	taːrgaːr-	toŋna-M	toŋnə	tʰoŋnʌt βät 
+sleep: tima-M | tima-M	timə	tʰimʌn ɸät 
+sleep: timə | tima-M	timə	tʰimʌn ɸät 
+small: garpox | garpox	gaɹpok 
+smell: gapqwe 
+son: mon(aa) 
+split: be cut by axe or kn. 
+split: bok-dai- (cut lengthwise 
+split: crack nut) 
+split: crack or split by itself 
+split: gater- 
+split: in two 
+split: karkarer- 
+split: kwer- 
+split: off 
+split: split 
+split: tuker- 
+split: vine in two 
+split: xen-dai- 
+stone: kwai | kwai	kw~3i	kwʌi 
+suck: non pande- 
+take: da-R 
+take: də 
+that: amaa | amaː	ox 
+there: andex 
+there: a-tai 
+they: iɣir 
+they: iraair 
+they: iraarxe 
+they: ire/iraaire 
+they: ite/itaaite 
+they: ixir 
+they two: itaait 
+they two: itaarxe 
+they two: ixit 
+think: aper- 
+think: daandaa xa- 
+thou: go | go	gorxaːp	gorxor	gur 
+thou: gorxaap | go	gorxaːp	gorxor	gur 
+thou: gorxor | go	gorxaːp	gorxor	gur 
+thou: gwe/gorxe | go	gorxaːp	gorxor	gur 
+tie: tamder- 
+tomorrow: kimsi 
+tooth: ambaax(aa) | ga	gaː 
+tooth: gaa | ga	gaː 
+tree: bek | irata 
+tree: iraat | irata 
+two: yot | tignerip	tipnerip	yot	yota 
+walk: sə | sʌβät 
+walk: s/h-S | sʌβät 
+walk: s/p-S | sʌβät 
+warm: ator(aa) | ator	atoraː	xaːr	xaːr-si	xaːraː 
+warm: mumun | ator	atoraː	xaːr	xaːr-si	xaːraː 
+warm: xaar(aa) | ator	atoraː	xaːr	xaːr-si	xaːraː 
+warm: xaar-si | ator	atoraː	xaːr	xaːr-si	xaːraː 
+wash: tir- 
+water: tom | tom	tota	tʰoma 
+we: die | dita	nuraːnur	nuraːrxe	nuxur	nuxura 
+we: diraadir | dita	nuraːnur	nuraːrxe	nuxur	nuxura 
+we: dirarxe | dita	nuraːnur	nuraːrxe	nuxur	nuxura 
+we: dire/diraadire | dita	nuraːnur	nuraːrxe	nuxur	nuxura 
+we: dite/ditaadite | dita	nuraːnur	nuraːrxe	nuxur	nuxura 
+weep: ngangaar- 
+weep: payima- 
+weep: ronxa- 
+weep: yima- 
+weep: yimə 
+we (excl.): nuɣur 
+we (incl.): nuraanur 
+we (incl.): nuraarxe 
+we (incl.): nuxur 
+we: nure/nuraanure | dita	nuraːnur	nuraːrxe	nuxur	nuxura 
+we: nute/nutaanute | dita	nuraːnur	nuraːrxe	nuxur	nuxura 
+we two: dit 
+we two: ditaadit 
+we two: ditaarxe 
+we two (incl.): nutaanut 
+we two (incl.): nutaarxe 
+we two (incl.): nuxut 
+wife: inəp 
+wind: pupukaa | inima	pupukaː 
+with: daaptai 
+with: -si 
+woman: kʊ | kuː	kʊ	kʰʊ 
+woman: kuu | kuː	kʊ	kʰʊ 
+wood: iraat 
+wood: irat 
+yes: -waa 
+you: gur | go	gorxaːp	gorxor	gur 
+you: guraagur | go	gorxaːp	gorxor	gur 
+you: guraarxe | go	gorxaːp	gorxor	gur 
+you: gure/guraagure | go	gorxaːp	gorxor	gur 
+you: gute/gutaagute | go	gorxaːp	gorxor	gur 
+you two: gut 
+you two: gutaagyt 
+you two: gutaarxe 
+every: gonap	gonsi 
+ash: kup	kupaː	tamoɣ	tʰama 
+abdomen: aːke	aβra 
+bigness: isip	isipɸ	kai 
+large: isip	isipɸ	kai 
+breasts: non	nona	nonaː 
+nail: taxaːx	taxaːxaː	tʰʌxaxa 
+talon: taxaːx	taxaːxaː	tʰʌxaxa 
+come from: a-pri-ʃ	mande-	mara-	t3ma	wanda-	əpri	ʌβriβät 
+be dead: hapu-ʀ	həpu	xʌβurβät 
+dead: hapu-ʀ	həpu	xʌβurβät 
+dog: miana 
+drink: dʌβät	tʰom dʌβät 
+dry: xʌxʌtin 
+ear: nata 
+ground: dokoŋ	moŋ	moŋ dakaːr	moŋ dakaːraː	moŋorhoraː 
+land: dokoŋ	moŋ	moŋ dakaːr	moŋ dakaːraː	moŋorhoraː 
+soil: dokoŋ	moŋ	moŋ dakaːr	moŋ dakaːraː	moŋorhoraː 
+egg: gwe	ner gwe 
+eye: kina	kʰina 
+feather: bʌta	ner bʌta 
+fly: sʌβät 
+fly v.: sʌβät 
+full: t3ip	tʰʌip 
+green: xaβen wʌtaxa 
+hair: bʌta	kʰak bʌta 
+left hand: bes t3m	besa	besoɣ	xan t3m 
+right: bes t3m	besa	besoɣ	xan t3m 
+hear: ʌmräβät 
+heart: bʌβoɹa 
+horn: 3mb~axa	ʌmbaxa 
+1 sg.: norxaːp	norxor	nox	noxa	noɣ	noɣa 
+knee: k3tina	kʰʌtina 
+be knowledgeable: ʌma 
+know: ʌma 
+lie down: timə 
+liver: oma 
+head louse: kaksup 
+louse: kaksup 
+male: han	hanip	xana	xaːn	xaːnaː	xaːnip 
+many: tʌruna 
+much: tʌruna 
+multiple: tʌruna 
+several: tʌruna 
+moon: hʌyop 
+hill: yi	yʌi 
+mountain: yi	yʌi 
+title: wina	winoɣ 
+neck: gwer 
+new: kapenoxe	kopenoxe	kʌβen oxwe 
+night: kutem	kwitemax	kw~item 
+nighttime: kutem	kwitemax	kw~item 
+nose: ruma 
+adulterous: tip3na	tipan	tit	tita	tiβʌna 
+single: tip3na	tipan	tit	tita	tiβʌna 
+the: tip3na	tipan	tit	tita	tiβʌna 
+unprincipled: tip3na	tipan	tit	tita	tiβʌna 
+human: han	hanip	xana	xanip	xaːn	xänip 
+human being: han	hanip	xana	xanip	xaːn	xänip 
+rainy weather: tom	tʰoma 
+red: giɣa 
+path: m3dap 
+route: m3dap 
+root: kʰʌker 
+sand: tom dinin 
+see: wandʌiβät 
+seed: gwe	iɹät gwe 
+hide: w3t3xa	wʌtʌɣa	xima 
+skin: w3t3xa	wʌtʌɣa	xima 
+little: garpox	gaɹpok 
+smallness: garpox	gaɹpok 
+smoke: tʰuguβa 
+star: 3wroxon	merum	meruma 
+rock: kwai	kw~3i	kwʌi 
+sun: 3tana	ʌt̪äna 
+swim: mʌndʊ sʌβät 
+tail: wʌima 
+this: mox 
+2 sg: go	gorxaːp	gorxor	gur 
+tongue: paNa	paŋa 
+grind: tignerip	tipnerip	yot	yota 
+go: sʌβät 
+hot: ator	atoraː	xaːr	xaːr-si	xaːraː 
+1 pl. inc.: dita	nuraːnur	nuraːrxe	nuxur	nuxura 
+we₁: dita	nuraːnur	nuraːrxe	nuxur	nuxura 
+what: kʰiänxäna	kʰiänʌn 
+white: xaza 
+whiteness: xaza 
+who: nixa 
+who?: nixa 
+female: kuː	kʊ	kʰʊ 
+yellow: xopɸ 
+dull: ruma 
+heavy: ruma 
+serious: ruma 
+close: kaːk-duːp	kaːk-duːpaː 
+ner: kaːk-duːp	kaːk-duːpaː 
+snake: xʌziäβa 

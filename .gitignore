@@ -9,3 +9,5 @@ feats*.pickle
 .vscode
 .venv
 result
+swadesh data
+panlex_swadesh

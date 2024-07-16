@@ -1,0 +1,265 @@
+all: ginsan	tanan 
+every: ginsan	tanan 
+ash: abo 
+ashes: abo 
+abdomen: berebewang	beteng 
+belly: berebewang	beteng 
+big: kelaʼ 
+bigness: kelaʼ 
+large: kelaʼ 
+bird: begit 
+bite: kagat	kumagat 
+black: meitem 
+blood: dugo7	dugoʼ 
+bone: tulaN	tulang 
+breast: dudo7	dudoʼ 
+breasts: dudo7	dudoʼ 
+burn: deket	dektan	tumutong	tutong 
+burn tr.: deket	dektan	tumutong	tutong 
+cloud: inarak 
+cold: meramig	meramig-ramig 
+come: ato7	atoʼ	matoʼ 
+come from: ato7	atoʼ	matoʼ 
+be dead: matey	patey 
+dead: matey	patey 
+die: matey	patey 
+dog: ideN	ideng 
+drink: inom	minom 
+dry: ipetoog	toog	tumoog 
+ear: teliNa	telinga 
+eat: kaan	kumaan	mengaan 
+egg: tilog 
+eye: mata 
+feather: bulbol 
+fire: apoy 
+fish: seda7	sedaʼ 
+fly: lepad	lumpad 
+fly v.: lepad	lumpad 
+good: menunga 
+green: melunew 
+hair: buek 
+hand: elima 
+left hand: elima 
+right: elima 
+head: ulo 
+hear: kiNeg	kingeg	kumingeg	pekingeg 
+1 sg.: ako	ko 
+I: ako	ko 
+kill: imatey	mengimatey	mimatey 
+be knowledgeable: keseudan	meseudan	seod 
+know: keseudan	meseudan	seod 
+leaf: deon 
+lie: buntol	pebuntol 
+lie down: buntol	pebuntol 
+liver: atey 
+long: melemboʼ 
+head louse: kuto 
+louse: kuto 
+male: lelaki 
+man: taaw	taw 
+moon: bulan 
+mouth: babaʼ	munong 
+name: Naran	ngaran 
+title: Naran	ngaran 
+neck: lieg 
+new: bago 
+night: gebi	gebii 
+nighttime: gebi	gebii 
+nose: edoN	edong 
+adulterous: isa7	isaʼ 
+one: isa7	isaʼ 
+single: isa7	isaʼ 
+that: yatin 
+the: isa7	isaʼ 
+unprincipled: isa7	isaʼ 
+human: taaw	taw 
+human being: taaw	taw 
+person: taaw	taw 
+rain: delek 
+rainy weather: delek 
+red: mepula 
+path: dalan 
+road: dalan 
+route: dalan 
+root: gamot 
+sand: egis 
+say: beres	meres 
+see: biri7	biriʼ	mebiriʼ 
+sit: adong	madong	peadong 
+hide: kulit 
+skin: kulit 
+sleep: igaʼ	migaʼ 
+little: ibon-ibon	merinek 
+small: ibon-ibon	merinek 
+smallness: ibon-ibon	merinek 
+smoke: tabok 
+star: bituen 
+rock: bato 
+stone: bato 
+swim: langoy	lumangoy	meglangoy 
+tail: melangkew 
+this: itoʼ 
+2 sg: ikew	ke 
+thou: ikew	ke 
+you: ikew	ke 
+tongue: dila7	dilaʼ 
+tooth: bigaN	bigang	nipen	tango 
+grind: dua 
+two: dua 
+go: manew	panew 
+walk: manew	panew 
+hot: meinit	meinit-init 
+warm: meinit	meinit-init 
+water: danom 
+1 pl. inc.: kami	kay 
+we: kami	kay 
+we₁: kami	kay 
+what: eno 
+white: meputiʼ 
+whiteness: meputiʼ 
+who: sino 
+who?: sino 
+female: libon 
+woman: libon 
+yellow: mekunit 
+distant: merayoʼ 
+far: merayoʼ 
+dull: mebegat 
+heavy: mebegat 
+serious: mebegat 
+close: mekabiʼ 
+near: mekabiʼ 
+ner: mekabiʼ 
+salt: asin 
+short: mebabaʼ	mepandak 
+snake: seli 
+thin: menipis	merinek 
+wind: deres 
+earthworm: lungati 
+worm: lungati 
+year: teʼon 
+2 pl.: kemuyo	kew 
+ye: kemuyo	kew 
+you all: kemuyo	kew 
+3 pl.: diye 
+they: diye 
+where: embe 
+where?: embe 
+when: kengiran	ngiran 
+when?: kengiran	ngiran 
+how: enukuan 
+how?: enukuan 
+other: iba	leʼin 
+three: telo 
+four: epat 
+five: lima 
+broad: mebkang	melawak 
+wide: mebkang	melawak 
+wideness: mebkang	melawak 
+fat: tabaʼ 
+thick: measlag	mekapal 
+narrow: mekitib	mekpit 
+principal wife: esawa	esawa naʼ libon 
+wife: esawa	esawa naʼ libon 
+husband: esawa	esawa naʼ lelaki 
+his mother: indoʼ 
+mother: indoʼ 
+my mother: indoʼ 
+father: amaʼ 
+his father: amaʼ 
+my father: amaʼ 
+forest: bengley	gebaʼ	talon 
+woods: bengley	gebaʼ	talon 
+branch: sanga 
+stick: sanga 
+fruit: buaʼ 
+flower: burak-burak 
+grass: kenit-kenit 
+cord: siget	tali 
+rope: siget	tali 
+flesh: uned 
+meat: uned 
+grease: tabaʼ 
+wing: elad 
+gut: bituka	tineʼi 
+guts: bituka	tineʼi 
+insides: bituka	tineʼi 
+intestine: bituka	tineʼi 
+intestines: bituka	tineʼi 
+back: likod 
+suck: megsepsep	sepsep 
+spit: ibeg	mibeg 
+vomit: kesuda	suka	sumuka 
+blow: dumres	tepig	tepiog	tumepig	tumepiog 
+breath: ginawa	megginawa 
+breathe: ginawa	megginawa 
+laugh: kesit	kumsit 
+laughter: kesit	kumsit 
+cogitate: memikir	pikir 
+reflect: memikir	pikir 
+think: memikir	pikir 
+smell: arek	erkan	marek 
+sniff: arek	erkan	marek 
+afraid: takot	tumakot 
+be afraid: takot	tumakot 
+fear: takot	tumakot 
+fright: takot	tumakot 
+alive: biag	megbiag 
+be alive: biag	megbiag 
+life: biag	megbiag 
+live: biag	megbiag 
+living: biag	megbiag 
+hunt: menubok	subok 
+beat: lipak	lumipak	meglipak 
+hit: lipak	lumipak	meglipak 
+strike: lipak	lumipak	meglipak 
+cut: tigbas	tumigbas 
+hack: tigbas	tumigbas 
+cut open: belaʼ	megbelaʼ	randang	ridis 
+split: belaʼ	megbelaʼ	randang	ridis 
+pierce: seksak	sumeksak 
+stab: seksak	sumeksak 
+scratch: kumutkot	kutkot	mengutkot 
+dig: kali	megkali 
+stand: teyeg	tumyeg 
+drop: degdag	dumegdag	medegdag 
+fall: degdag	dumegdag	medegdag 
+grasp: kepet	kumpet 
+hold: kepet	kumpet 
+hold in arm: kepet	kumpet 
+squeeze: megpega	pega 
+wring: megpega	pega 
+throw: bakal	megbakal 
+bind: siget	sigtan	sumiget 
+fasten: siget	sigtan	sumiget 
+tie: siget	sigtan	sumiget 
+tie up: siget	sigtan	sumiget 
+sew: tehiʼ	tumehiʼ 
+count: itong 
+enumerate: itong 
+number: itong 
+tally: itong 
+flow: burbor	murbor 
+ocean: dagat	lawed 
+sea: dagat	lawed 
+dust: elikabok 
+fog: habong 
+sky: langit	lengew-legnew 
+bad: meraat	meyaat 
+evil: meraat	meyaat 
+rot: burok	meburok 
+rotten: burok	meburok 
+dirty: meridiʼ 
+filthy: meridiʼ 
+soiled: meridiʼ 
+sharp: metarem 
+blunt: megaddel 
+damp: basaʼ 
+wet: basaʼ 
+right side: kewanan 
+left: gibang 
+at: atot	doot	eset 
+in: seled 
+inside: seled 
+and: boʼ 
+if: baʼ 

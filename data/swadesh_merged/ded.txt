@@ -1,0 +1,276 @@
+all: sasawa 
+and: ama 
+animal: yaŋ 
+arm: mari 
+ashes: defe | defe	hama 
+ashes: hama | defe	hama 
+back: nade- 
+bark: seber | ?seber 
+belly: kera- | kera	kera- 
+big: kuneng | kuneN	kuneŋ 
+big: kuneŋ | kuneN	kuneŋ 
+bird: neng | neN	neŋ 
+bird: neŋ | neN	neŋ 
+bite: ki- | ki	ki- 
+black: dzadzu | cacu	dzadzu 
+blood: sawa 
+blow: fifi- 
+bone: sir | sir	sir- 
+bone: sir- | sir	sir- 
+breast: namu | namu	namu- 
+breast: namu- | namu	namu- 
+breathe: naka- 
+brother: dae 
+brother: dar- 
+burn: dza- 
+burn: dze 
+claw: bong- | boN	boŋ- 
+claw: boŋ- | boN	boŋ- 
+cloud: kurumeng | kurumeN	kurumeŋ 
+cloud: kurumeŋ | kurumeN	kurumeŋ 
+cold: motenga | moteNa	moteŋa 
+cold: moteŋa | moteNa	moteŋa 
+come: ere- | ere	ere- 
+count: âso- 
+count: ɑso- 
+cut: herege- 
+die: home- | home	home- 
+dig: usu- 
+dog: kasi 
+dry: kereng- | kereN	kereŋ- 
+dry: kereŋ- | kereN	kereŋ- 
+dust: wondok 
+ear: hedza- | heca	hedza-	kedzaʔ 
+ear: kedzaʔ | heca	hedza-	kedzaʔ 
+earth: bangek | baNek 
+earth: baŋek | baNek 
+eat: ne | ne	ne- 
+eat: ne- | ne	ne- 
+eye: kiwa- | kiwa	kiwa- 
+fall: ma- 
+father: mam- 
+fat (n.): wokemang- 
+fat (n.): wokemaŋ- 
+fingernail: sori 
+fire: gere 
+flower: ori- 
+foot: hani | hani	hani- 
+foot: hani- | hani	hani- 
+fruit: forak- 
+full: wake | wake	wake- 
+full: wake- | wake	wake- 
+give: nen- | nen	nen- 
+good: gombunga | gombuNa	gombuŋa 
+good: gombuŋa | gombuNa	gombuŋa 
+green: ârângbârik | oroNborik	ɑrɑŋbɑrik 
+green: ɑrɑŋbɑrik | oroNborik	ɑrɑŋbɑrik 
+hair: dzoi | cowe	dzoi	dzowe- 
+hair: dzowe- | cowe	dzoi	dzowe- 
+hand: mari 
+hand: mari- 
+head: fufu- | fufu	fufu-	fufuʔ 
+head: fufuʔ | fufu	fufu-	fufuʔ 
+heart: woso hondung- | woso honduN	woso honduŋ- 
+heart: woso honduŋ- | woso honduN	woso honduŋ- 
+he/she: -a\ 
+he/she: ye 
+hit: kpe- 
+hold: me- 
+how: dafi 
+I: ni 
+I: -ua | ni 
+knee: fakurung- | fakuruN	fakuruŋ 
+knee: fakuruŋ | fakuruN	fakuruŋ 
+know: negen- | negen	negen- 
+lake: dzokong 
+lake: dzokoŋ 
+laugh: dzomore- 
+leaf: mari | mari	mari- 
+leaf: mari- | mari	mari- 
+left: kana 
+leg: hani 
+long: herea 
+louse: yoming | yomiN 
+louse: yomiŋ | yomiN 
+man: ngik | Nik	ŋik 
+man: ŋik | Nik	ŋik 
+many: homak 
+meat: fusi- 
+moon: afo 
+mother: nenggak- 
+mother: neŋgak- 
+mother: noŋgeʔ 
+mountain: tiki 
+mouth: enaʔ 
+name: kiwa | kiwa	kpar 
+name: kpar | kiwa	kpar 
+neck: ube | ube	ube-	upe 
+neck: ube- | ube	ube-	upe 
+new: gbori | gbori	gboria	gb~oria 
+new: gboria | gbori	gboria	gb~oria 
+night: tofonak 
+nose: soge- | segala	soge	soge- 
+not: mi 
+old: esea 
+one: mokgu | mocgu	mokgu 
+play: ariak 
+play: ariak- 
+pull: tae- 
+push: tungge- 
+push: tuŋge- 
+rain: kia 
+red: sak sak 
+right: foi | mari 
+road: sing | siN 
+road: siŋ | siN 
+root: gode- | gode	gode- 
+rope: witik 
+round: orâng | oroN	orɑŋ 
+round: orɑŋ | oroN	orɑŋ 
+sand: monggeng | moŋgeŋ	ziŋiŋ 
+sand: moŋgeŋ | moŋgeŋ	ziŋiŋ 
+sand: ziŋiŋ | moŋgeŋ	ziŋiŋ 
+say: de- | de	de-	mi 
+say: mi | de	de-	mi 
+seed: hondung- | honduN	honduŋ- 
+seed: honduŋ- | honduN	honduŋ- 
+see: nen 
+see: nen- 
+sew: kpebi- 
+short: wedeʔ | wedeʔ	wegen 
+short: wegen | wedeʔ	wegen 
+sister: nawin 
+sister: nawing- 
+sister: nawiŋ- 
+sit: tak- | tak	tak- 
+skin: seber | ?seber	sebi	sebi- 
+skin: sebi- | ?seber	sebi	sebi- 
+sky: kurumeng 
+sky: kurumeŋ 
+sleep: fe- | fe	fe- 
+small: kapia 
+smoke: hosuʔ | hosuʔ	husuk 
+smoke: husuk | hosuʔ	husuk 
+snake: bâidzok | bɑidzok 
+snake: bɑidzok 
+some: go- 
+spit: sofoʔ 
+spit: sofok- 
+stand: nan- 
+star: asomeŋ | asomeŋ	bopiN	bɑpiŋ 
+star: bâping | asomeŋ	bopiN	bɑpiŋ 
+star: bɑpiŋ | asomeŋ	bopiN	bɑpiŋ 
+stick: gbaru 
+stone: hok 
+straight: sroŋa 
+suck: abere- 
+sun: wenaʔ | wenaʔ	wonak 
+sun: wonak | wenaʔ	wonak 
+swell: siwiŋ- 
+swell: siwinge- 
+tail: dzi- | ci	dzi- 
+that: yo 
+there: edi 
+they: -au 
+they two: -ao\ 
+they: yeni 
+this: i 
+thou: ge 
+thou: ŋe | ge 
+thou: ŋeni | ge 
+throw: wa- 
+tie: dzege 
+tongue: nameng- | nameN	nameŋ-	nedzeraŋ 
+tongue: nameŋ- | nameN	nameŋ-	nedzeraŋ 
+tongue: nedzeraŋ | nameN	nameŋ-	nedzeraŋ 
+tooth: enaʔ | enar	enar-	enaʔ 
+tooth: enar- | enar	enar-	enaʔ 
+tree: ik 
+turn: meren- 
+two: yohokang | johockaŋ	yohokaN	yohokaŋ 
+two: yohokaŋ | johockaŋ	yohokaN	yohokaŋ 
+vomit: urun- 
+warm: gerea | gerea	hɑrona 
+warm: gerek | gerea	hɑrona 
+warm: hâronga | gerea	hɑrona 
+warm: hɑrona | gerea	hɑrona 
+wash: dzuak- 
+water: doku 
+weep: kiak- 
+we: -ing | nini 
+we: ne | nini 
+we: nini 
+we two: -i\ 
+what: dafi 
+where: dahae 
+white: kongak | koNak	koŋak 
+white: koŋak | koNak	koŋak 
+who: mong | moN	moŋ 
+who: moŋ | moN	moŋ 
+wind: fiaŋ | fiaŋ	firaŋ 
+wind: firang | fiaŋ	firaŋ 
+wind: firaŋ | fiaŋ	firaŋ 
+wing: kpegang- 
+wing: kpegaŋ 
+wing: kpegaŋ- 
+woman: ngak | Nak	ŋak 
+woman: ŋak | Nak	ŋak 
+wood: gbaru 
+worm: gbosu 
+yellow: dzagea | cagea	dzagea 
+you: -au | ge 
+you: ngeni 
+you two: -ao\ 
+every: sasawa 
+ash: defe	hama 
+abdomen: kera	kera- 
+bigness: kuneN	kuneŋ 
+large: kuneN	kuneŋ 
+breasts: namu	namu- 
+nail: boN	boŋ- 
+talon: boN	boŋ- 
+come from: ere	ere- 
+be dead: home	home- 
+dead: home	home- 
+ground: baNek 
+land: baNek 
+soil: baNek 
+fat: wokemaN 
+fat n.: wokemaN 
+grease: wokemaN 
+lubricant: wokemaN 
+oil: wokemaN 
+left hand: mari 
+1 sg.: ni 
+be knowledgeable: negen	negen- 
+head louse: yomiN 
+male: Nik	ŋik 
+much: homak 
+multiple: homak 
+several: homak 
+flesh: fusi 
+meat: fusi 
+hill: tiki 
+title: kiwa	kpar 
+nighttime: tofonak 
+adulterous: mocgu	mokgu 
+single: mocgu	mokgu 
+the: mocgu	mokgu 
+unprincipled: mocgu	mokgu 
+rainy weather: kia 
+path: siN 
+route: siN 
+hide: ?seber	sebi	sebi- 
+little: kapia 
+smallness: kapia 
+stand: nan 
+rock: hok 
+2 sg: ge 
+grind: johockaŋ	yohokaN	yohokaŋ 
+hot: gerea	hɑrona 
+1 pl. inc.: nini 
+we₁: nini 
+whiteness: koNak	koŋak 
+who?: moN	moŋ 
+female: Nak	ŋak 
+earthworm: gbosu 

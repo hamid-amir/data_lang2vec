@@ -1,0 +1,301 @@
+all: weweg 
+ankle: maraiwilm 
+arm: induḷb 
+arm: yiwurul 
+ashes: ubulul 
+back: mägaḷg 
+bad: ŋangir 
+bark: munbau 
+belly: abeṛweṛe 
+belly: abeɹ̣weɹ̣e 
+big: ŋangol 
+bird: ŋarginɟ 
+bite: imewemb 
+bitter: yagilwenɟ 
+black: uguluiwirm 
+blood: maneŋulm | maneŋulm	maniNgul 
+blow: ŋaiyibem 
+blow: uwɛwɛḷ 
+bone: iyerm 
+boy: laiguruŋ 
+boy: ŋalɛbɛmb 
+branch: manmuɣu 
+breathe: amɛmigenɟ 
+breathe: eleŋoind 
+brother: ŋanelenɟ 
+brother: ŋaniwau 
+burn: awögenɛg 
+burn: uguyɛl 
+burn: umaɣániːn 
+butterfly: murumbuṛŋg 
+cheek: iened 
+chest: uleŋg 
+child: meːmer 
+chin: iɛnɛd 
+cloud: miṛiṛm | miṛiṛm 
+cold: yirug 
+come: ŋamɛṛgbir | ŋamɛṛgbir 
+correct: ara nowː 
+crocodile: wuraŋangiṛū 
+cut: -ŋaɣainbaḷ 
+dark: indɛgeber 
+daughter: ŋeŋilɛmb 
+day: ɟimerŋun 
+die: yagul | Nakurl	yagul 
+die: yaṇinguwaɣ | Nakurl	yagul 
+die: yäwul | Nakurl	yagul 
+dig: ŋawöngi 
+dirty: woiyag gune ɲimer 
+dog: boːmb | boːmb	bumb 
+drink: umöɟ | u5ey	umöɟ 
+dry: uweɟem 
+ear: éːnaŋg | yinaNk	éːnaŋg 
+earth: uṇɔib 
+eat: memeɟ 
+egg: iŋalɛrg | yunɟuḷg 
+egg: yunɟuḷg | yunɟuḷg 
+elbow: mawiɟuḷg 
+emu: iwiɟiiw 
+emu: wiwiyüw 
+eye: ibimbiur | iːm	yim 
+eye: iːm | iːm	yim 
+eye: malaralar | iːm	yim 
+face: yangolm 
+fall: ŋamaliŋ 
+father: abaŋgun 
+fat (n.): ulumäŋg 
+fear: ŋalimam 
+fear: yamiraːm 
+feather: imeɟed 
+few: mɛl maḷ miyön uŋönd\ 
+fight: miɲaŋargun 
+finger: umaṇḍ 
+finger: yunmiyör 
+fire: wiṛumgarm | wiɹ̣umgarm	wiṛumgarm	wurinkarm 
+fire: wiɹ̣umgarm | wiɹ̣umgarm	wiṛumgarm	wurinkarm 
+fish: ɟiɟid | dy~idy~id	ɟiɟid 
+fly (n.): muṇimuṇi 
+fly (v.): yayarg 
+fog: wurawalyam 
+foot: unmaṇḍ | unmaṇḍ 
+forehead: yiligaḷ 
+forest: arawaḷm 
+full: amamab mamaḷiŋ | mandy~aliyiN	manɟaliŋara 
+full: manɟaliŋara | mandy~aliyiN	manɟaliŋara 
+girl: alwururg 
+girl: iːlebemb 
+give: imiyuḍbel | imiyuḍbel 
+good: -ambiyamulal 
+grass: maŋunŋun 
+green: ugaḷgun | ugaḷgun 
+hair: aṇawirm | aṇawirm 
+hand: yuṇmiyuṛ | yunmiyoerr	yuṇmiyuṛ 
+head: wiliŋerm 
+hear: ŋagilanɟ | muhila5k	ŋagilanɟ 
+heart: imuḷmuḷ | imuḷmuḷ 
+heavy: ŋangayaŋam 
+he/she: ŋaiɟ 
+he/she: noːg 
+hit: imilb 
+hold: yamab 
+hole: oːwodbu 
+house: oŋar 
+hunt: umaɣaiyai 
+husband: wurilg 
+I: ŋaːb | Nab	ŋaːb 
+kangaroo: oiɟbaɣar 
+kangaroo: ɔiɟbaɣar 
+kill: imawaḷ | imawaḷ 
+knee: ŋangaḍ | Nankad	ŋangaḍ 
+know: uɣil 
+lake: igaḍ 
+laugh: ŋamawöbel 
+leaf: mayaḷb | mayalb	mayaḷb 
+left: waɲaŋ 
+leg: aŋgeŋgal 
+lie: ŋamely urŋuɲag 
+lightning: yumbarbar 
+lip: yagir 
+live: ŋawirgul 
+liver: algid\ | algidʼ	alkik 
+long: ŋangadamar 
+long: unberg | ŋangadamar 
+louse: ɔːn | wuwun 
+man: wurilg 
+many: maːḷ | maːḷ 
+meat: ŋangangeḷ | ŋangangeḷ 
+meat: ŋangan̪gɛl | ŋangangeḷ 
+moon: yäragal | yäragal	yäragäl 
+moon: yäragäl | yäragal	yäragäl 
+morning: gulugɔiyɛmɛr 
+morning: imgulugoiyemer 
+mosquito: manug 
+mother: irawaːg 
+mountain: alaiŋam | ulaiŋam 
+mountain: ulaiŋam 
+mouth: yagir 
+name: walŋeigönö | walNik	walŋeigönö 
+nape: yuŋaḷmuḍ 
+navel: yörɟ 
+near: uyörg | uyörg 
+neck: yuŋaḷmuḍ | yuŋaḷmuḍ 
+new: anguluwug | Nankuluwuk	anguluwug 
+not: aṛiwel 
+old: angunbɛr 
+old: ɔnbul 
+one: iyawaːm | iyama:m	iyawaːm	mayawam 
+other: iyau 
+person: wurilg 
+play: amaːmömi 
+rain: iɲäl | iɲäl 
+rat: guldag 
+red: maniŋul 
+right: uguː | yunmiyoerr	yuṇmiyuṛ 
+ripe: ŋeːnm 
+river: iɣarara 
+river: igararag 
+road: wungaŋ | wunkaN 
+root: wurggiriɟ 
+rotten: yewend\ 
+round: ŋalaigulugul 
+rub: imuŋör 
+sand: yaḷŋ | yaḷŋ 
+say: -naŋg | yaḷŋ 
+scratch: mamemeɟbierɣ 
+sea: manguwil 
+seed: waːrg 
+see: yaṇa | yana	yaṇa 
+sharp: ŋanmangalg 
+short: aniŋgurb | -gurb	aniŋgurb 
+short: -gurb | -gurb	aniŋgurb 
+shoulder: muḍangar 
+sing: mememeŋ 
+sister: ŋaŋawan 
+sister: ŋerelenɟ 
+sit: ŋamen 
+skin: angirg | angirg	unkirk 
+skin: imuwuluwaḷ | angirg	unkirk 
+sky: igaŋg 
+sleep: yimiɣul ŋɔːɲag 
+small: ŋalebemb 
+smell: yawi 
+smoke: wuŋeŋg | wuŋeŋg	wuŋɛŋg 
+smoke: wuŋɛŋg | wuŋeŋg	wuŋɛŋg 
+smooth: unbɛlɛnɟɛrgemer 
+snake: yamulargun 
+son: ŋanelemb 
+stand: -yanɟ 
+star: inɟogog | indy~ukuk	inɟogog 
+star: yimbarbar | indy~ukuk	inɟogog 
+stone: ulaiŋam | ulaiŋam	wula4Nam 
+straight: ɟormud 
+suck: uɲei 
+sun: muɣaːliŋ | muhalN	muɣaːliŋ 
+sweet: ugaṛyag 
+swim: -ninɟurb 
+tail: iːmul 
+take: imaiyagab 
+take: imiḷg 
+there: ŋaɟul 
+they two: miniminuwumun 
+thigh: yarbau 
+think: uɣil 
+thou: iniminu | noːw	nuwu 
+thou: miniminu | noːw	nuwu 
+thou: noːw | noːw	nuwu 
+three: uŋoind\ 
+throat: mawɔrɟab 
+throw: ŋimandawurb 
+thunder: inɟeṛṇḍeg 
+today: mɛmɛr 
+tomorrow: ungulugɔiyener 
+tongue: niɲɟaɟ | nindy~ar	ninɟaɟ	niɲɟaɟ 
+tongue: ninɟaɟ | nindy~ar	ninɟaɟ	niɲɟaɟ 
+tooth: yirwalig | lirwalik	yirwalig 
+tree: wungaŋ | manmuhu 
+turn: aŋalarb 
+turn: ŋamaɣɛɲɛm 
+two: uŋgegerg | uNkekek	uŋgegerg	uŋgergerg 
+vomit: ŋamɛmigɛrid\ 
+walk: -maḷɟ | mamarengeg 
+walk: mamarengeg 
+walk: ŋamaḷy | mamarengeg 
+walk: -nimag | mamarengeg 
+wallaby: ɔiɟbaɣar 
+warm: alambaṛag 
+wash: mandaiyinmag 
+wash: mandaiyunmag 
+water: ogog | ogog	wukuk 
+weep: ŋamameleyu 
+we (excl.): ŋaneminu 
+we (incl.): ŋarga 
+we two (excl.): ŋaneminuwumun 
+we two (incl.): ŋargaminuwumun 
+what: mibele 
+when: alad\ 
+where: alad\ 
+white: yawailagawere 
+who: idag 
+wife: ŋeːn 
+wind: malwaid 
+wing: imaɟad 
+woman: ŋeːn 
+wood: menɟawul 
+wood: urɛŋgar 
+woomera: murgan 
+yellow: magambaḷb | magambaḷb 
+yes: oge 
+you two: iniminuwumun 
+every: weweg 
+ash: ubulul 
+bigness: ŋangol 
+large: ŋangol 
+breast: nady~uk 
+breasts: nady~uk 
+come from: ŋamɛṛgbir 
+be dead: Nakurl	yagul 
+dead: Nakurl	yagul 
+fly: yayarg 
+fly v.: yayarg 
+left hand: yunmiyoerr	yuṇmiyuṛ 
+1 sg.: Nab	ŋaːb 
+lie down: ŋamely urŋuɲag 
+head louse: wuwun 
+male: wurilg 
+much: maːḷ 
+multiple: maːḷ 
+several: maːḷ 
+flesh: ŋangangeḷ 
+hill: ulaiŋam 
+title: walNik	walŋeigönö 
+night: indeheber 
+nighttime: indeheber 
+nose: inkulb	yengolm	yingolm 
+adulterous: iyama:m	iyawaːm	mayawam 
+single: iyama:m	iyawaːm	mayawam 
+that: iyama:m	iyawaːm	mayawam 
+the: iyama:m	iyawaːm	mayawam 
+unprincipled: iyama:m	iyawaːm	mayawam 
+human: wurilg 
+human being: wurilg 
+rainy weather: iɲäl 
+path: wunkaN 
+route: wunkaN 
+hide: angirg	unkirk 
+little: ŋalebemb 
+smallness: ŋalebemb 
+rock: ulaiŋam	wula4Nam 
+2 sg: noːw	nuwu 
+you: noːw	nuwu 
+grind: uNkekek	uŋgegerg	uŋgergerg 
+go: mamarengeg 
+1 pl. inc.: NanemEnEw	Narh	ŋarga 
+we: NanemEnEw	Narh	ŋarga 
+we₁: NanemEnEw	Narh	ŋarga 
+whiteness: yawailagawere 
+who?: idag 
+female: ŋeːn 
+dull: ŋangayaŋam 
+serious: ŋangayaŋam 
+close: uyörg 
+ner: uyörg 

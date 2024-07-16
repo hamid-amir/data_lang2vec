@@ -1,0 +1,353 @@
+all: kul | ܟܠ 
+arm: dəraːʔa | ܐܝܕܐ 
+cut: gəzar | ܓܕܡ	ܩܛܥ 
+dog: diːßaː | ܟܠܒܐ 
+father: ʔaßaː | ܐܒܐ 
+finger: ʂeßʔəθaː 
+fingernail: teφraː | ܛܦܪܐ 
+five: ħammeš | ܚܡܫ	ܚܡܫܐ 
+four: ʔarbaʔ | ܐܪܒܥ	ܐܪܒܥܐ 
+good: taːßa | ܛܒܐ 
+he/she: ˗aːh 
+he/she: ˗eʁ 
+he/she: hiː 
+he/she: huː 
+he/she: ˗(u)hi 
+how: ʔajχaː | ܐܝܟܢ	ܐܝܟܢܐ 
+I: ʔenaː | ܐܢܐ 
+if: ʔen | ܐܢ 
+I: ˗n(iː) | ܐܢܐ 
+laugh: gəħeχ | ܓܚܟ 
+louse: burguːt̪ | ܩܠܡܐ 
+moon: sahraː | ܣܗܪܐ 
+mother: ʔemmaː | ܐܡܐ 
+name: šəmaː | ܫܡܐ 
+night: lelyaː | ܠܠܝܐ 
+one: hað | ܚܕ	ܚܕܐ 
+small: ʂəʔiːra | ܙܥܘܪܐ 
+stand: qaːm | ܬܪܨ 
+star: kawχəßaː | ܟܘܟܒܐ 
+sun: šemšaː | ܫܡܫܐ 
+sweet: deßšaː 
+there: tammaːn | ܬܡܢ 
+they: henneyn | ܗܢܘܢ	ܗܢܝܢ 
+they: hennoːn | ܗܢܘܢ	ܗܢܝܢ 
+they: ˗heyn | ܗܢܘܢ	ܗܢܝܢ 
+they: ˗hoːn | ܗܢܘܢ	ܗܢܝܢ 
+this: haːðaː | ܗܕܐ	ܗܢܐ 
+this: haːleyn | ܗܕܐ	ܗܢܐ 
+thou: ʔatt | ܐܢܬ	ܐܢܬܝ 
+thou: ʔatt(iː) | ܐܢܬ	ܐܢܬܝ 
+thou: ˗(aː)χ | ܐܢܬ	ܐܢܬܝ 
+thou: ˗(eː)χ(iː) | ܐܢܬ	ܐܢܬܝ 
+three: tlaːθ | ܬܠܬ	ܬܠܬܐ 
+tongue: leššaːna | ܠܫܢܐ 
+two: tərəjn | ܬܪܝܢ	ܬܪܬܝܢ 
+warm: laː | ܫܚܝܢܐ 
+we: ˗a(n) | ܐܢܚܢܢ	ܚܢܢ 
+we: (ʔana)ħnan | ܐܢܚܢܢ	ܚܢܢ 
+weep: bəχaː 
+what: maːʁ | ܡܐ	ܡܘܢ	ܡܢ	ܡܢܐ 
+when: ʔemmaθ | ܐܡܬܝ 
+where: ʔajχaː | ܐܝܟܐ 
+who: maːn(a) | ܡܢ 
+you: ʔatteyn | ܐܢܬ	ܐܢܬܝ | ܐܢܬܘܢ	ܐܢܬܝܢ 
+you: ʔattoːn | ܐܢܬ	ܐܢܬܝ | ܐܢܬܘܢ	ܐܢܬܝܢ 
+you: ˗χeyn | ܐܢܬ	ܐܢܬܝ | ܐܢܬܘܢ	ܐܢܬܝܢ 
+you: ˗χoːn | ܐܢܬ	ܐܢܬܝ | ܐܢܬܘܢ	ܐܢܬܝܢ 
+every: ܟܠ 
+ash: ܩܛܡܐ 
+ashes: ܩܛܡܐ 
+bark: ܩܠܦܬܐ 
+abdomen: ܒܛܢܐ	ܟܪܣܐ 
+belly: ܒܛܢܐ	ܟܪܣܐ 
+big: ܟܒܝܪܐ	ܪܒܐ 
+bigness: ܟܒܝܪܐ	ܪܒܐ 
+large: ܟܒܝܪܐ	ܪܒܐ 
+bird: ܛܝܪܐ	ܨܦܪܐ 
+bite: ܢܟܬ 
+black: ܐܘܟܡܐ 
+blood: ܕܡܐ 
+bone: ܓܪܡܐ 
+breast: ܚܕܝܐ 
+breasts: ܚܕܝܐ 
+cloud: ܥܝܒܐ	ܥܝܡܐ	ܥܢܢܐ 
+cold: ܩܪܝܪܐ 
+come: ܐܬܐ 
+come from: ܐܬܐ 
+be dead: ܡܝܬ 
+dead: ܡܝܬ 
+die: ܡܝܬ 
+drink: ܫܬܐ 
+dry: ܝܒܝܫܐ 
+ear: ܐܕܢܐ 
+earth: ܐܪܥܐ 
+ground: ܐܪܥܐ 
+land: ܐܪܥܐ 
+soil: ܐܪܥܐ 
+eat: ܐܟܠ 
+egg: ܒܝܥܬܐ 
+eye: ܥܝܢܐ 
+feather: ܐܒܪܐ 
+fire: ܐܫܬܐ	ܢܘܪܐ 
+fish: ܢܘܢܐ 
+fly: ܦܪܚ 
+fly v.: ܦܪܚ 
+foot: ܥܩܠܐ 
+full: ܡܠܝܐ 
+give: ܝܗܒ	ܢܬܠ 
+green: ܝܘܪܩܐ 
+hair: ܣܥܪܐ 
+head: ܪܝܫܐ 
+hear: ܫܡܥ 
+heart: ܠܒܐ 
+horn: ܩܪܢܐ 
+1 sg.: ܐܢܐ 
+kill: ܩܛܠ 
+knee: ܒܘܪܟܐ 
+be knowledgeable: ܝܕܥ 
+know: ܝܕܥ 
+leaf: ܛܪܦܐ 
+liver: ܟܒܕܐ 
+long: ܐܪܝܟܐ 
+head louse: ܩܠܡܐ 
+male: ܓܒܪܐ 
+man: ܐܢܫܐ 
+many: ܣܓܝ 
+much: ܣܓܝ 
+multiple: ܣܓܝ 
+several: ܣܓܝ 
+hill: ܛܘܪܐ 
+mountain: ܛܘܪܐ 
+mouth: ܦܘܡܐ 
+title: ܫܡܐ 
+neck: ܨܘܪܐ	ܩܕܠܐ 
+new: ܚܕܬܐ 
+nighttime: ܠܠܝܐ 
+nose: ܢܚܝܪܐ 
+not: ܠܐ 
+adulterous: ܚܕ	ܚܕܐ 
+single: ܚܕ	ܚܕܐ 
+that: ܗܘ	ܗܝ 
+the: ܚܕ	ܚܕܐ 
+unprincipled: ܚܕ	ܚܕܐ 
+human: ܐܢܫܐ 
+human being: ܐܢܫܐ 
+person: ܐܢܫܐ 
+rain: ܡܛܪܐ 
+rainy weather: ܡܛܪܐ 
+red: ܣܘܡܩܐ 
+path: ܐܘܪܚܐ 
+road: ܐܘܪܚܐ 
+route: ܐܘܪܚܐ 
+root: ܫܪܫܐ 
+round: ܚܘܕܪܢܝܐ 
+sand: ܚܠܐ 
+say: ܐܡܪ 
+see: ܚܙܐ 
+seed: ܙܪܥܐ 
+sit: ܝܬܒ 
+hide: ܓܠܕܐ 
+skin: ܓܠܕܐ 
+sleep: ܕܡܟ 
+little: ܙܥܘܪܐ 
+smallness: ܙܥܘܪܐ 
+smoke: ܬܢܢܐ 
+rock: ܐܒܢܐ	ܟܐܦܐ	ܫܘܥܐ 
+stone: ܐܒܢܐ	ܟܐܦܐ	ܫܘܥܐ 
+swim: ܣܚܐ 
+tail: ܕܘܢܒܐ 
+2 sg: ܐܢܬ	ܐܢܬܝ 
+tooth: ܟܟܐ	ܫܢܐ 
+tree: ܐܝܠܢܐ 
+grind: ܬܪܝܢ	ܬܪܬܝܢ 
+go: ܗܠܟ 
+walk: ܗܠܟ 
+hot: ܫܚܝܢܐ 
+water: ܡܝܐ 
+1 pl. inc.: ܐܢܚܢܢ	ܚܢܢ 
+we₁: ܐܢܚܢܢ	ܚܢܢ 
+white: ܚܘܪܐ 
+whiteness: ܚܘܪܐ 
+who?: ܡܢ 
+female: ܐܢܬܬܐ 
+woman: ܐܢܬܬܐ 
+yellow: ܫܥܘܬܐ 
+distant: ܪܚܝܩܐ 
+far: ܪܚܝܩܐ 
+dull: ܝܩܘܪܐ	ܢܛܝܠܐ 
+heavy: ܝܩܘܪܐ	ܢܛܝܠܐ 
+serious: ܝܩܘܪܐ	ܢܛܝܠܐ 
+close: ܩܪܝܒܐ 
+near: ܩܪܝܒܐ 
+ner: ܩܪܝܒܐ 
+salt: ܡܠܚܐ 
+short: ܟܪܝܐ 
+snake: ܚܘܝܐ 
+thin: ܛܠܝܚܐ	ܪܩܝܩܐ 
+wind: ܪܘܚܐ 
+earthworm: ܬܘܠܥܐ 
+worm: ܬܘܠܥܐ 
+year: ܫܢܬܐ 
+3 sg.: ܗܘ 
+he: ܗܘ 
+she: ܗܘ 
+2 pl.: ܐܢܬܘܢ	ܐܢܬܝܢ 
+ye: ܐܢܬܘܢ	ܐܢܬܝܢ 
+you all: ܐܢܬܘܢ	ܐܢܬܝܢ 
+3 pl.: ܗܢܘܢ	ܗܢܝܢ 
+here: ܗܪܟܐ 
+where?: ܐܝܟܐ 
+when?: ܐܡܬܝ 
+how?: ܐܝܟܢ	ܐܝܟܢܐ 
+some: ܟܡܐ 
+few: ܒܨܝܪܐ 
+other: ܐܚܪܢܐ	ܐܚܪܬܐ 
+broad: ܦܬܝܐ	ܪܘܝܚܐ 
+wide: ܦܬܝܐ	ܪܘܝܚܐ 
+wideness: ܦܬܝܐ	ܪܘܝܚܐ 
+fat: ܕܗܢܐ	ܫܘܡܢܐ 
+thick: ܥܒܝܛܐ 
+narrow: ܥܝܩܐ 
+child: ܝܠܘܕܐ 
+principal wife: ܐܢܬܬܐ 
+wife: ܐܢܬܬܐ 
+husband: ܒܥܠܐ 
+his mother: ܐܡܐ 
+my mother: ܐܡܐ 
+his father: ܐܒܐ 
+my father: ܐܒܐ 
+animal: ܚܝܘܬܐ 
+forest: ܥܒܐ 
+woods: ܥܒܐ 
+branch: ܩܝܣܐ 
+stick: ܩܝܣܐ 
+fruit: ܦܐܪܐ 
+flower: ܗܒܒܐ 
+grass: ܓܠܐ 
+cord: ܚܒܠܐ 
+rope: ܚܒܠܐ 
+flesh: ܒܣܪܐ 
+meat: ܒܣܪܐ 
+grease: ܕܗܢܐ	ܫܘܡܢܐ 
+claw: ܛܦܪܐ 
+nail: ܛܦܪܐ 
+leg: ܪܓܠܐ 
+hand: ܐܝܕܐ 
+wing: ܟܢܦܐ 
+gut: ܓܘܐ	ܡܥܝܐ 
+guts: ܓܘܐ	ܡܥܝܐ 
+insides: ܓܘܐ	ܡܥܝܐ 
+intestine: ܓܘܐ	ܡܥܝܐ 
+intestines: ܓܘܐ	ܡܥܝܐ 
+back: ܒܣܬܪܐ	ܚܨܐ 
+suck: ܡܨ 
+spit: ܪܩ 
+vomit: ܓܥܛ 
+blow: ܢܦܚ 
+breath: ܢܦܫ	ܢܫܡ 
+breathe: ܢܦܫ	ܢܫܡ 
+laughter: ܓܚܟ 
+cogitate: ܚܫܒ 
+reflect: ܚܫܒ 
+think: ܚܫܒ 
+smell: ܡܚ	ܣܩ 
+sniff: ܡܚ	ܣܩ 
+afraid: ܕܚܠ	ܟܘܪ 
+be afraid: ܕܚܠ	ܟܘܪ 
+fear: ܕܚܠ	ܟܘܪ 
+fright: ܕܚܠ	ܟܘܪ 
+alive: ܚܝܐ 
+be alive: ܚܝܐ 
+life: ܚܝܐ 
+live: ܚܝܐ 
+living: ܚܝܐ 
+fight: ܟܬܫ 
+hunt: ܨܝܕ 
+beat: ܡܚܐ	ܢܩܫ 
+hit: ܡܚܐ	ܢܩܫ 
+strike: ܡܚܐ	ܢܩܫ 
+hack: ܓܕܡ	ܩܛܥ 
+cut open: ܦܕܥ	ܦܪܬ	ܫܪܩ 
+split: ܦܕܥ	ܦܪܬ	ܫܪܩ 
+pierce: ܕܓܫ 
+stab: ܕܓܫ 
+scratch: ܚܟ	ܣܪܛ 
+dig: ܚܦܪ 
+lie: ܡܟ	ܫܟܒ 
+lie down: ܡܟ	ܫܟܒ 
+tell lies: ܡܟ	ܫܟܒ 
+turn: ܥܛܦ	ܦܢܐ 
+turn around: ܥܛܦ	ܦܢܐ 
+turn round: ܥܛܦ	ܦܢܐ 
+drop: ܢܦܠ 
+fall: ܢܦܠ 
+grasp: ܐܚܕ 
+hold: ܐܚܕ 
+hold in arm: ܐܚܕ 
+squeeze: ܥܨܪ	ܩܡܛ 
+wring: ܥܨܪ	ܩܡܛ 
+rub: ܚܟ	ܫܦ 
+wipe: ܟܦܪ 
+wash: ܚܠܠ	ܦܝܥ 
+wash clothes: ܚܠܠ	ܦܝܥ 
+pull: ܓܪܫ 
+push: ܙܥܦ 
+shove: ܙܥܦ 
+throw: ܪܡܐ 
+bind: ܐܣܪ	ܩܛܪ 
+fasten: ܐܣܪ	ܩܛܪ 
+tie: ܐܣܪ	ܩܛܪ 
+tie up: ܐܣܪ	ܩܛܪ 
+sew: ܚܝܛ 
+count: ܡܢܐ 
+enumerate: ܡܢܐ 
+number: ܡܢܐ 
+tally: ܡܢܐ 
+sing: ܙܡܪ 
+have fun: ܫܥܐ 
+play: ܫܥܐ 
+float: ܛܦ 
+flow: ܪܣܡ	ܫܚܠ 
+freeze: ܓܠܕ	ܩܪܫ 
+swell: ܙܘܐ	ܥܒܐ 
+brook: ܢܗܪܐ 
+river: ܢܗܪܐ 
+stream: ܢܗܪܐ 
+lake: ܝܡܬܐ 
+ocean: ܝܡܐ 
+sea: ܝܡܐ 
+dust: ܐܒܩܐ	ܕܩܬܐ 
+fog: ܥܪܦܠܐ 
+sky: ܫܡܝܐ 
+snow: ܬܠܓܐ 
+ice: ܓܠܝܕܐ 
+blaze: ܝܩܕ 
+burn: ܝܩܕ 
+day: ܝܘܡܐ 
+daylight: ܝܘܡܐ 
+daytime: ܝܘܡܐ 
+old: ܥܬܝܩܐ 
+bad: ܒܝܫܐ 
+evil: ܒܝܫܐ 
+rot: ܒܩܝܩܐ ܚܪܝܒܐ 
+rotten: ܒܩܝܩܐ ܚܪܝܒܐ 
+dirty: ܫܘܚܬܢܐ 
+filthy: ܫܘܚܬܢܐ 
+soiled: ܫܘܚܬܢܐ 
+straight: ܬܪܝܨܐ 
+sharp: ܚܪܝܦܐ 
+blunt: ܩܗܝܐ 
+smooth: ܦܫܝܩܐ 
+damp: ܪܛܝܒܐ	ܬܠܝܠܐ 
+wet: ܪܛܝܒܐ	ܬܠܝܠܐ 
+correct: ܬܪܝܨܐ 
+right: ܝܡܝܢܐ 
+right side: ܝܡܝܢܐ 
+left: ܣܡܠܐ 
+at: -ܒ	ܠܘܬ 
+in: -ܒ 
+inside: -ܒ 
+with: -ܒ	ܥܡ 
+and: -ܘ 
+because: -ܡܛܠ ܕ	ܒܥܠܬ 

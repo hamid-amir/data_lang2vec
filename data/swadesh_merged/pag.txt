@@ -1,0 +1,383 @@
+all: amín | amin	amín 
+and: tan | insan	tan 
+animal: áyep | ayep 
+ashes: dápol | dapol	dapul 
+at: ed | dia	ed 
+back: benég | beneg 
+bad: maogés | aliwa	maoges	mauges 
+bark: obák | obak 
+because: ta | kasi	lapu ed	ta 
+belly: egés | eges 
+big: báleg | baleg	báleg 
+bird: manók | ayep	manok	taras 
+bite: ketkét | ketket	quetquet	quetqueten 
+black: andekét | andeket	deket 
+blood: dalá | dala 
+blow: sibók | sibok	sibukan 
+bone: pokél | pokel 
+breast: pagew | pagew	suso 
+breathe: añgés | anges	dongap	engas	ingas	linawa 
+breathe: linawá | anges	dongap	engas	ingas	linawa 
+burn: poól | puolan | pool	silab	sinit 
+child: anák | anak	ogaw 
+child: ogáw | anak	ogaw 
+cloud: lorém | lorem	lurem 
+cold: ambetél | ambetel	betel 
+come: la | gala	laka	onna	sabi	unla 
+correct: sústo | duga	maong	tua 
+count: biláñg | bilang 
+cut: potót | batang	manbisil	putot	tegteg 
+day: ágew | agew 
+die: patéy (on- ) | inatey	onpatey	patey	unpatey 
+dig: kótkot | kotkot	kutkot	mankutkot 
+dirty: maríñgot | dingot	dutak	maringot	marutak 
+dirty: maruták | dingot	dutak	maringot	marutak 
+dog: asó | aso 
+drink: inóm | inom	uninom 
+dry: amagá | amaga	maga 
+dull: epél | ambelat	belat | epel	mangmang 
+dust: dabók | dabok	dutak 
+dust: sapók | dabok	dutak 
+ear: layág | layag 
+earth: dálin | dalin 
+eat: kan | akan	kamot	mangan 
+egg: iknól | iknol	itnol 
+eye: matá | mata 
+fall: paktak | napattak	napelag	pattak	pelag	tumba 
+fall: pelág | napattak	napelag	pattak	pelag	tumba 
+far: arawí | arawi	biek taew 
+father: amá | ama 
+fat (n.): matabá 
+fear: takót | antakot	takot 
+feather: bagó | bago 
+few: daisét | daiset 
+fight: lában | bakal	kolkol	laban 
+fingernail: kukó, kuku | kuko 
+fire: apóy | apoy	dalang	po-ol	po7ol	pool 
+fish: sirá | sira 
+five: limá | lima	limara	limaʼra	limá 
+float: létaw | letaw 
+flow: ágos | agos 
+flower: bolaklák | bulaklak	rosas 
+flower: rósas | bulaklak	rosas 
+fly (v.): tekiáb 
+fog: kélpa | kelpa	malinaew	mankekelpa 
+foot: salí | sali 
+forest: takel; kakieoan | cakyewan	kakiewan	katakelan 
+four: apát | apat	apatira	apát 
+freeze: ketél | kigtel 
+fruit: boñgá | bunga	prutas 
+fruit: prutas | bunga	prutas 
+full: napno | naksel	napno 
+give: íter | itdan	iter 
+good: maábig | abig	duga	maong 
+good: maóñg | abig	duga	maong 
+grass: diká | dika 
+green: bérde | ampasiseng	maeta	verde 
+green: bírdi | ampasiseng	maeta	verde 
+guts: paít | bituka	pait 
+hair: buék | buek 
+hand: limá | lima | gamet	lima 
+head: oló | ulo 
+hear: deñgél | deNuel	dengel	denguel	denguelen 
+heart: púso | puso 
+heavy: ambelát | ambelat	belat 
+he: Ø | si	sikato	to 
+here: diá | dia 
+he: sikató | si	sikato	to 
+hit: kená | nakna	pekpek	tira	tiraen 
+hold: bénben | benben	imben	imbenan 
+hold: pekét | benben	imben	imbenan 
+horn: saklur; saklór | saklor 
+how: panon | pano	panon	panon to 
+how?: pánon | pano	panon	panon to 
+hunt: anóp | anop	managnop	manpaltog	manpana 
+husband: asawá | asawa	kaamong	masiken	masiquen 
+I: ak | ak	siak	siák 
+ice: yélo | pakigtel 
+if: no 
+in: ed | ed	wala ed 
+I: siák | ak	siak	siák 
+kill: patéy, ( -en) | mamatey	manpatey	patey 
+knee: pueg 
+know: amtá | amta	kabat 
+lake: loók | ilog	look 
+laugh: elék | elek	unelek 
+leaf: bolóñg | buloN	bulong 
+left: kawigí | caoigi	kawigi 
+leg: bíkkiñg | bikking 
+leg: ólpo | bikking 
+leg: salí | bikking 
+lie: dokól | ducol	unducol | dokol 
+live: biláy | abilay	bilay	nabilay 
+live: manbiláy | abilay	bilay	nabilay 
+liver: áltey | altey 
+long: andotéy | andokéy	anduquey 
+louse: kotó | cuto	kuto 
+man: lakí | to	too 
+man: toó | to	too 
+many: dakél | amayamay	dakél 
+meat: karni | carne	iyan	katat	laman 
+moon: bulan 
+mother: iná | ina 
+mountain: palandéy | buntok	palandey 
+mouth: sañgí | sangi 
+mouth: soñgót | sangi 
+name: ñgarán | Naran	ngaran 
+narrow: maíñget | mainget 
+near: asíñgger | abay	asinger	asingger 
+near: kárne | abay	asinger	asingger 
+neck: béklew | beklew	tenger 
+new: bálo | balo 
+night: lábi | ketket	labi 
+nose: eléñg | eleN	eleng 
+not: ag | ag	aleg	aliwá	andí 
+not: aliwán | ag	aleg	aliwá	andí 
+not: andí | ag	aleg	aliwá	andí 
+old: daán | daan 
+old: matákken | daan 
+one: isá | isá	metung	sakey	sakéy 
+one: sakéy | isá	metung	sakey	sakéy 
+other: aróm | arom	arum 
+person: toó | to	too 
+play: galáw | galaw	manay-ayam 
+pull: goyór | guyor 
+push: tolák | tulak 
+rain: orán | uran 
+red: abalañgá | ambalanga 
+right: kawanán | lima | caoanan	kawanan 
+river: ílog | ilog 
+road: dalán | basbas	carsada	dalan	lansangan 
+road: karsáda | basbas	carsada	dalan	lansangan 
+root: lamót | lamot	ulat 
+root: señgég | lamot	ulat 
+rope: lobír | lubir	singer 
+rotten: anolók | abolok	abulok	bolok	nabubulok 
+round: malimpek | limpek	malimpek	telek 
+rub: górgor | gurgor	kuskos 
+salt: asín | asin 
+sand: buér | buer 
+say: bagá | baga	balikas	ibaga	tongtong | buer 
+scratch: gúgu | gugo	gugoen	kiki 
+sea: dáyat | dayat 
+seed: bokél | bokel 
+see: neñgnéñg | mata	neNneN	nengneng	nengnengen 
+sew: dáit | dait	idait 
+sharp: mákdem | macdem	matdem	tarem 
+short: antikéy | abeba	antikey	kulang	melag 
+sing: kansión | togtog 
+sing: kánta | togtog 
+sit: iróñg | irong	unirong	yorong 
+sit: yorung | irong	unirong	yorong 
+skin: báog | balat	baog	katat 
+sky: táwen | banua	tawen 
+sleep: ogíp | ogep	ogip	unogep 
+small: kelág | melag	melanting	tingot 
+small: melág | melag	melanting	tingot 
+smell: añgób | amoy	angob 
+smoke: aséwek | asewek	ashoot	asiwek 
+smooth: palánas | palanas	patad 
+smooth: píno | palanas	patad 
+snake: olég | oleg	uleg 
+snow: linéw | linew 
+some: aróm | piga	pigara 
+spit: lópda | lutda	unlutda 
+split: palduá | paldua	palduaen	pisag	puter 
+split: piság | paldua	palduaen	pisag	puter 
+squeeze: pespés | mesmes	pespes	pespesan 
+squeeze: serét | mesmes	pespes	pespesan 
+stab: sáksak | doyok	saksak	saksaken 
+stand: alagéy | alagey	laguey	unlaguey 
+star: bitéwen | biteuen	bitewen	bitoen 
+star: bitóen | biteuen	bitewen	bitoen 
+stick: bíslak | bislak	sanga 
+stone: bató | bato 
+straight: máktek | maptek	petek 
+suck: sópsop | supsop	supsopen	supsup	suso 
+sun: ágew | agew	banua	ugto 
+swell: larág | larag 
+swim: lañgóy | langoy 
+tail: ikól | icol	ikol 
+that: man | aman	atan	man	tan | isá	metung	sakey	sakéy 
+that: tan | aman	atan	man	tan | isá	metung	sakey	sakéy 
+there: dimán | diman	ditan 
+there: ditán | diman	ditan 
+they: irá | ra	sikara 
+they: sikará | ra	sikara 
+thick: makapál | kapal	makapal	mataba 
+think: nónot | isip	nonot	nunot 
+thin: mabéñg | mabeng	maimpis 
+thin: maímpis | mabeng	maimpis 
+this: ya | aya	ya 
+thou: ka | ka	sika	siká 
+thou: siká | ka	sika	siká 
+three: taló | atlu	talo	taloʼra	talura	taló 
+throw: bóntok | bantak	itupac	topak	tupac 
+throw: tópak | bantak	itupac	topak	tupac 
+tie: siñgér | isinger	singer 
+tongue: dilá | dila 
+tooth: ñgipén | Nipen	ngipen 
+tree: kiéw | kiew	tanem 
+turn: likó | liko	telek 
+two: dua; dua\ra | adwa	dua	duara	duaʼra	duára 
+vomit: otá | unuta	uta 
+walk: okár | acar	akar 
+warm: ampetáñg | ampetang	imeng	petang	sinit 
+wash: orás | oras 
+water: danóm | danom	danum 
+we: itá | kamí	katá	sikami 
+we: itayó | kamí	katá	sikami 
+we: kamí | kamí	katá	sikami 
+we: sikamí | kamí	katá	sikami 
+we: sikatá | kamí	katá	sikami 
+we: sikatayó | kamí	katá	sikami 
+wet: ambasá | ambasa	basa 
+what: antó | anto	antó 
+when: kapigan | kapigan	pigan 
+when?: kapigán | kapigan	pigan 
+where: ined; iner 
+where?: inér | iner 
+white: amputí | amputi	puti 
+who: siopá | opa	siopa	siopá 
+wide: maawáñg | maawang	malapar 
+wide: malápar | maawang	malapar 
+wife: asawá | aculao	akolaw	asawa	kaamong 
+wind: dagém | alamag	dagem 
+wing: payák | pakpak	payak 
+wipe: ponás | punas 
+with: ed | iba	mi- 
+with: tan | iba	mi- 
+woman: bií | bii	bií 
+woods: takél | cakyewan	kakiewan	katakelan 
+worm: bigís | alumbayar	biges 
+year: taón | taon 
+ye: kayó | kayo	sikara (plural)	sikayo	yo 
+yellow: duyáw | duyaw 
+ye: sikayó | kayo	sikara (plural)	sikayo	yo 
+you: sika | ka	sika	siká | kayo	sikara (plural)	sikayo	yo 
+every: amin	amín 
+ash: dapol	dapul 
+abdomen: eges 
+bigness: baleg	báleg 
+large: baleg	báleg 
+breasts: pagew	suso 
+burn tr.: puolan 
+come from: gala	laka	onna	sabi	unla 
+be dead: inatey	onpatey	patey	unpatey 
+dead: inatey	onpatey	patey	unpatey 
+ground: dalin 
+land: dalin 
+soil: dalin 
+fly: tekyab	tikyab	untikyab 
+fly v.: tekyab	tikyab	untikyab 
+left hand: lima 
+1 sg.: ak	siak	siák 
+be knowledgeable: amta	kabat 
+lie down: ducol	unducol 
+head louse: cuto	kuto 
+male: bolog	laki 
+much: amayamay	dakél 
+multiple: amayamay	dakél 
+several: amayamay	dakél 
+hill: buntok	palandey 
+title: Naran	ngaran 
+nighttime: ketket	labi 
+adulterous: isá	metung	sakey	sakéy 
+single: isá	metung	sakey	sakéy 
+the: isá	metung	sakey	sakéy 
+unprincipled: isá	metung	sakey	sakéy 
+human: to	too 
+human being: to	too 
+rainy weather: uran 
+path: basbas	carsada	dalan	lansangan 
+route: basbas	carsada	dalan	lansangan 
+hide: balat	baog	katat 
+little: melag	melanting	tingot 
+smallness: melag	melanting	tingot 
+rock: bato 
+2 sg: ka	sika	siká 
+grind: adwa	dua	duara	duaʼra	duára 
+go: acar	akar 
+hot: ampetang	imeng	petang	sinit 
+1 pl. inc.: kamí	katá	sikami 
+we₁: kamí	katá	sikami 
+whiteness: amputi	puti 
+who?: opa	siopa	siopá 
+female: bii	bií 
+distant: arawi	biek taew 
+serious: ambelat	belat 
+close: abay	asinger	asingger 
+ner: abay	asinger	asingger 
+earthworm: alumbayar	biges 
+3 sg.: si	sikato	to 
+she: si	sikato	to 
+2 pl.: kayo	sikara (plural)	sikayo	yo 
+you all: kayo	sikara (plural)	sikayo	yo 
+3 pl.: ra	sikara 
+where: iner 
+broad: maawang	malapar 
+wideness: maawang	malapar 
+fat: mataba	taba 
+principal wife: aculao	akolaw	asawa	kaamong 
+his mother: ina 
+my mother: ina 
+his father: ama 
+my father: ama 
+branch: bislak	sanga 
+cord: lubir	singer 
+flesh: carne	iyan	katat	laman 
+grease: mataba	taba 
+claw: kuko 
+nail: kuko 
+arm: gamet	lima 
+gut: bituka	pait 
+insides: bituka	pait 
+intestine: bituka	pait 
+intestines: bituka	pait 
+breath: anges	dongap	engas	ingas	linawa 
+laughter: elek	unelek 
+cogitate: isip	nonot	nunot 
+reflect: isip	nonot	nunot 
+sniff: amoy	angob 
+afraid: antakot	takot 
+be afraid: antakot	takot 
+fright: antakot	takot 
+alive: abilay	bilay	nabilay 
+be alive: abilay	bilay	nabilay 
+life: abilay	bilay	nabilay 
+living: abilay	bilay	nabilay 
+beat: nakna	pekpek	tira	tiraen 
+strike: nakna	pekpek	tira	tiraen 
+hack: batang	manbisil	putot	tegteg 
+cut open: paldua	palduaen	pisag	puter 
+pierce: doyok	saksak	saksaken 
+tell lies: dokol 
+turn around: liko	telek 
+turn round: liko	telek 
+drop: napattak	napelag	pattak	pelag	tumba 
+grasp: benben	imben	imbenan 
+hold in arm: benben	imben	imbenan 
+wring: mesmes	pespes	pespesan 
+wash clothes: oras 
+shove: tulak 
+bind: isinger	singer 
+fasten: isinger	singer 
+tie up: isinger	singer 
+enumerate: bilang 
+number: bilang 
+tally: bilang 
+have fun: galaw	manay-ayam 
+brook: ilog 
+stream: ilog 
+ocean: dayat 
+blaze: pool	silab	sinit 
+daylight: agew 
+daytime: agew 
+evil: aliwa	maoges	mauges 
+rot: abolok	abulok	bolok	nabubulok 
+filthy: dingot	dutak	maringot	marutak 
+soiled: dingot	dutak	maringot	marutak 
+blunt: epel	mangmang 
+damp: ambasa	basa 
+right side: caoanan	kawanan 
+inside: ed	wala ed 

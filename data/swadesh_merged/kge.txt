@@ -1,0 +1,266 @@
+all: kaʔuɲɪn 
+every: kaʔuɲɪn 
+ash: habu 
+ashes: habu 
+abdomen: tanihi̱ 
+belly: tanihi̱ 
+big: balakʼ 
+bigness: balakʼ 
+large: balakʼ 
+bird: buruŋ	manʉʔ 
+bite: ŋoʁoh 
+black: halom 
+blood: Xah	rah	ʁah 
+bone: tuhlạn	tulan 
+breast: titi7	titɪʔ 
+breasts: titi7	titɪʔ 
+burn: mʉlpul 
+burn tr.: mʉlpul 
+cloud: awan 
+cold: ŋison 
+come: XatoN	ratoN	ʁatoŋ 
+come from: XatoN	ratoN	ʁatoŋ 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: asu 
+drink: Ninum	ŋinum 
+dry: ŋoluh 
+ear: CupiN	cupɪŋ 
+eat: moŋan 
+egg: tọhluy	tọhly 
+eye: mata 
+feather: bulu 
+fire: ap3y	apʉy 
+fish: iwa7	iwaʔ 
+fly: toʁbaŋ 
+fly v.: toʁbaŋ 
+good: holaw 
+green: hujaw 
+hair: buọʔ 
+hand: puNu	puŋu 
+left hand: puNu	puŋu 
+right: puNu	puŋu 
+head: hulu 
+hear: andoŋi	and~oNi 
+1 sg.: 5a7	ɲaʔ 
+I: 5a7	ɲaʔ 
+kill: ŋəmatiko 
+be knowledgeable: panday 
+know: panday 
+leaf: bulN	buluŋ	bulŋ 
+lie: aŋgulɪkʼ 
+lie down: aŋgulɪkʼ 
+liver: hati 
+long: tọjaŋ 
+head louse: kutu 
+louse: kutu 
+male: bakas	ṃbakas 
+man: jolma 
+moon: bulan 
+mouth: baŋuk	baŋuʔ	baŋʉ̱ʔ 
+name: golaX	golar	golaʁ 
+title: golaX	golar	golaʁ 
+neck: galah 
+new: ampay	ompay	omp~ay 
+night: dibiNi	dibiŋi 
+nighttime: dibiNi	dibiŋi 
+nose: iXuN	iruN	iʁuŋ 
+adulterous: sara	say 
+one: sara	say 
+single: sara	say 
+that: sina 
+the: sara	say 
+unprincipled: sara	say 
+human: jolma 
+human being: jolma 
+person: jolma 
+rain: hujan 
+rainy weather: hujan 
+red: siaw 
+path: XaNXaya	raNraya	ʁaŋgaya	ʁaŋʁaya 
+road: XaNXaya	raNraya	ʁaŋgaya	ʁaŋʁaya 
+route: XaNXaya	raNraya	ʁaŋgaya	ʁaŋʁaya 
+root: bakaʔ 
+sand: honi 
+say: cawa 
+see: lia7	liaʔ 
+sit: mojoŋ 
+hide: bawa7	bawaʔ 
+skin: bawa7	bawaʔ 
+sleep: tuʁuy 
+little: ʁoniʔ 
+small: ʁoniʔ 
+smallness: ʁoniʔ 
+smoke: hasoʔ 
+star: %bint~aN	bintaŋ 
+rock: batu 
+stone: batu 
+swim: bukalaŋuy	bulaŋuy 
+tail: gundaŋ 
+this: sija 
+2 sg: niku 
+thou: niku 
+you: niku 
+tongue: ma	ṃa 
+tooth: ipon 
+grind: Xua	roa	rua	ʁua 
+two: Xua	roa	rua	ʁua 
+go: lapah 
+walk: lapah 
+hot: panas 
+warm: panas 
+water: uay 
+1 pl. inc.: kita	sikam 
+we: kita	sikam 
+we₁: kita	sikam 
+what: api 
+white: handaʔ 
+whiteness: handaʔ 
+who: sapa 
+who?: sapa 
+female: bay 
+woman: bay 
+yellow: kunɪŋ 
+distant: jawọh 
+far: jawọh 
+dull: biaʔ 
+heavy: biaʔ 
+serious: biaʔ 
+close: podokʼ 
+near: podokʼ 
+ner: podokʼ 
+salt: sia 
+short: buntaʔ 
+snake: ulay 
+thin: nipis 
+wind: aŋin 
+earthworm: goloŋg̱ 
+worm: goloŋg̱ 
+year: tahun 
+2 pl.: kuti 
+ye: kuti 
+you all: kuti 
+3 pl.: tian 
+they: tian 
+where: di pa 
+where?: di pa 
+when: idan 
+when?: idan 
+how: sanopa 
+how?: sanopa 
+other: layon 
+three: tolu	tọlu 
+four: p:aʔ	pak 
+five: lima 
+broad: boʁaʔ 
+wide: boʁaʔ 
+wideness: boʁaʔ 
+fat: baŋiʔ 
+thick: kodol 
+narrow: sosokʼ 
+principal wife: aŋgoman 
+wife: aŋgoman 
+husband: laki 
+his mother: umaʔ 
+mother: umaʔ 
+my mother: umaʔ 
+father: ubaʔ 
+his father: ubaʔ 
+my father: ubaʔ 
+forest: pulan 
+woods: pulan 
+branch: paŋpaŋ 
+stick: paŋpaŋ 
+fruit: buah 
+flower: buŋa 
+grass: jʉkuʔ 
+cord: tali 
+rope: tali 
+flesh: dagɪŋ 
+meat: dagɪŋ 
+grease: baŋiʔ 
+wing: kọpi 
+gut: isaw 
+guts: isaw 
+insides: isaw 
+intestine: isaw 
+intestines: isaw 
+back: kaʁuyuŋ 
+suck: hisọp 
+spit: mahalotọʔ	muhalotọʔ 
+vomit: mutah 
+blow: ɲobu 
+breath: muhoŋas	məhoŋas 
+breathe: muhoŋas	məhoŋas 
+laugh: maha 
+laughter: maha 
+cogitate: bupikiʁ 
+reflect: bupikiʁ 
+think: bupikiʁ 
+smell: sium 
+sniff: sium 
+afraid: ʁabay 
+be afraid: ʁabay 
+fear: ʁabay 
+fright: ʁabay 
+alive: huʁiʔ 
+be alive: huʁiʔ 
+life: huʁiʔ 
+live: huʁiʔ 
+living: huʁiʔ 
+hunt: ambuʁu 
+beat: aŋgucuh	togom 
+hit: aŋgucuh	togom 
+strike: aŋgucuh	togom 
+cut: toʔtoʔ 
+hack: toʔtoʔ 
+cut open: bolah 
+split: bolah 
+pierce: nujah	pagas 
+stab: nujah	pagas 
+scratch: ŋʉykʉy 
+dig: ŋali 
+stand: minjaʔ	togaʔ 
+drop: tiaʔ 
+fall: tiaʔ 
+grasp: ambokọm	katiŋ 
+hold: ambokọm	katiŋ 
+hold in arm: ambokọm	katiŋ 
+squeeze: pioh 
+wring: pioh 
+throw: ŋumbanko 
+bind: kaʁuʔ 
+fasten: kaʁuʔ 
+tie: kaʁuʔ 
+tie up: kaʁuʔ 
+sew: ɲoʁuʔ 
+count: ŋahituŋ	ŋambilaŋ 
+enumerate: ŋahituŋ	ŋambilaŋ 
+number: ŋahituŋ	ŋambilaŋ 
+tally: ŋahituŋ	ŋambilaŋ 
+flow: ŋaliʁ 
+lake: danao͡	danau 
+ocean: lawoʔ 
+sea: lawoʔ 
+dust: hambuaʔ 
+fog: kaboʁ 
+sky: laŋiʔ 
+bad: jahat	maʔhalọʔ 
+evil: jahat	maʔhalọʔ 
+rot: busuʔ 
+rotten: busuʔ 
+dirty: kutuʁ 
+filthy: kutuʁ 
+soiled: kutuʁ 
+sharp: tajom 
+blunt: kudul 
+damp: basoh 
+wet: basoh 
+right side: kanan 
+left: kiʁi 
+at: di 
+in: di lọm 
+inside: di lọm 
+and: ʁiʔ 
+if: amon 

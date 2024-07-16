@@ -1,0 +1,307 @@
+all: pamapa 
+every: pamapa 
+ash: e-timo	etimu 
+ashes: e-timo	etimu 
+bark: aki biti	ebiti 
+abdomen: ede	etu 
+belly: ede	etu 
+big: aida	aða	boc̷ama 
+bigness: aida	aða	boc̷ama 
+large: aida	aða	boc̷ama 
+bird: jia	ď̶ia 
+bite: cui	c̷oi- 
+black: dabida	devena	ðabi-da	ðewe-na 
+blood: ami 
+bone: e-c̷ao	ecau 
+breast: acu 
+breasts: acu 
+claw: emetiji 
+nail: emetiji 
+talon: emetiji 
+cloud: boðo	budu	hodo 
+cold: vinada	wina-da 
+come: poe-	pwe 
+come from: poe-	pwe 
+be dead: mano-	manu 
+dead: mano-	manu 
+die: mano-	manu 
+dog: oči	uCi 
+drink: -iď̶i- 
+dry: e-sara	esara	mori-da	murida 
+ear: e-iď̶aha	eijaha 
+earth: meji	meď̶i	yawa 
+ground: meji	meď̶i	yawa 
+land: meji	meď̶i	yawa 
+soil: meji	meď̶i	yawa 
+eat: dia	dia- 
+egg: eha 
+eye: e-toa	etua 
+feather: e-ina	eina 
+fire: -ti	kw~ati dareda 
+fish: se 
+fly: kw~abeca	kʷabec̷a- 
+fly v.: kw~abeca	kʷabec̷a- 
+foot: e-c̷aha	e-wac̷i	ewaci 
+full: e-sehe	esehe	sehe-a- 
+give: tia	tia- 
+good: sai-da	saida 
+green: edawa	ðawa-ne	čina 
+hair: e-čoa e-ina	eCua eina	eCuaina	ečoaina 
+hand: eme 
+left hand: eme 
+right: eme 
+head: e-čoa	eCua 
+hear: ijaba	iď̶aba- 
+heart: moesomo	muesumu 
+horn: e-dana	edana 
+1 sg.: ema	yama 
+I: ema	yama 
+kill: mano-a-me-	manuame 
+knee: e-ma-da-čoa	emadaCua 
+be knowledgeable: a	ba-we	boe 
+know: a	ba-we	boe 
+leaf: e-ina	eina 
+lie: -sa	sa-na	sa-ti-	sati 
+lie down: -sa	sa-na	sa-ti-	sati 
+liver: e-takʷa	etkw~a 
+long: bao-da	bauda 
+head louse: bia 
+louse: bia 
+male: deha 
+man: deha 
+many: doe-hi	dohi eni	kʷana 
+much: doe-hi	dohi eni	kʷana 
+multiple: doe-hi	dohi eni	kʷana 
+several: doe-hi	dohi eni	kʷana 
+flesh: aiCa	aiča	yami 
+meat: aiCa	aiča	yami 
+moon: badi 
+hill: e-mata	emata	moroko 
+mountain: e-mata	emata	moroko 
+mouth: e-kʷac̷a	ekw~aca 
+name: e-bani	ebani 
+title: e-bani	ebani 
+neck: e-naha	enaha 
+new: e-nana	eiCakw~a	eičakʷa 
+night: dida	ðiða 
+nighttime: dida	ðiða 
+nose: evi	ewi 
+not: mave 
+adulterous: pia-da	piada 
+one: pia-da	piada 
+single: pia-da	piada 
+that: hiCu 
+the: pia-da	piada 
+unprincipled: pia-da	piada 
+rain: nai 
+rainy weather: nai 
+red: derena	hoti-da	ðere-na 
+path: ediji 
+road: ediji 
+route: ediji 
+root: ejau	eď̶ao 
+round: perorota	peruruta 
+sand: hoto-hoto 
+say: po- 
+see: ba	ba- 
+seed: ehaha 
+sit: -ani-	ani-ote-	aniute 
+hide: e-biti	ebiti 
+skin: e-biti	ebiti 
+sleep: tawi- 
+little: konini	waiCidi	waičidi	čidi 
+small: konini	waiCidi	waičidi	čidi 
+smallness: konini	waiCidi	waičidi	čidi 
+smoke: hodo	hudu 
+star: atohai 
+rock: tomo	tumu 
+stone: tomo	tumu 
+sun: ijeti	iď̶eti 
+swim: beca	bec̷a- 
+tail: e-tima	e-tiða	etida 
+this: ye 
+2 sg: miada	mida	mike 
+thou: miada	mida	mike 
+you: miada	mida	mike 
+tongue: yana 
+tooth: e-c̷e	ece 
+tree: aki 
+grind: beta 
+two: beta 
+go: ase	ase- 
+walk: ase	ase- 
+hot: kʷasese-da	sina-da 
+warm: kʷasese-da	sina-da 
+water: yavi	yawi 
+1 pl. inc.: eceda	ekw~aneda	ekʷaneda 
+we: eceda	ekw~aneda	ekʷaneda 
+we₁: eceda	ekw~aneda	ekʷaneda 
+what: ai	ai ni da 
+white: pasa-ne	pasane 
+whiteness: pasa-ne	pasane 
+who: ai-ya	ai-ðe	aide	aiya 
+who?: ai-ya	ai-ðe	aide	aiya 
+female: e-po-na	epuna 
+woman: e-po-na	epuna 
+yellow: masavi	masawi	tijina	tiď̶ina 
+distant: oke-da 
+far: oke-da 
+dull: bike-da 
+heavy: bike-da 
+serious: bike-da 
+close: e-naha-so	nari	weðoe 
+near: e-naha-so	nari	weðoe 
+ner: e-naha-so	nari	weðoe 
+salt: bano 
+short: o-bao-čidi 
+snake: bakʷa 
+thin: ma wai-čidi	ošori	wiri-wiri 
+wind: beni 
+earthworm: c̷ena	soc̷o 
+worm: c̷ena	soc̷o 
+year: mara 
+2 pl.: mikʷaneda 
+ye: mikʷaneda 
+you all: mikʷaneda 
+3 pl.: toneda 
+they: toneda 
+where: hoke	ke pia 
+where?: hoke	ke pia 
+when: kec̷ono ni da 
+when?: kec̷ono ni da 
+how: kʷa ni da	kʷaha 
+how?: kʷa ni da	kʷaha 
+few: keokʷa-čidi	wai čidi 
+three: kimiša 
+four: poši	puši 
+five: pišika 
+broad: pa ai-da 
+wide: pa ai-da 
+wideness: pa ai-da 
+fat: e-c̷ei 
+thick: maaida	pamoda 
+narrow: o-paʔai-čidi 
+child: yanana 
+principal wife: e-wane 
+wife: e-wane 
+husband: yawe 
+his mother: kʷara	mama 
+mother: kʷara	mama 
+my mother: kʷara	mama 
+father: tata 
+his father: tata 
+my father: tata 
+animal: animalo 
+forest: ehihe 
+woods: ehihe 
+branch: eča 
+stick: eča 
+fruit: ehaha 
+flower: šaša 
+grass: iď̶ene	noc̷a 
+cord: tawa miða 
+rope: tawa miða 
+grease: e-c̷ei 
+fingernail: eme-tiď̶i 
+leg: e-tidada 
+wing: enabai 
+gut: e-c̷ama 
+guts: e-c̷ama 
+insides: e-c̷ama 
+intestine: e-c̷ama 
+intestines: e-c̷ama 
+back: biši 
+suck: ðibi-	čočo-ke 
+spit: e-kedi	kitoa- 
+vomit: batasio- 
+blow: ho-	hoho- 
+breath: haanata- 
+breathe: haanata- 
+laugh: haiď̶ebati- 
+laughter: haiď̶ebati- 
+cogitate: piba- 
+reflect: piba- 
+think: piba- 
+smell: waniba- 
+sniff: waniba- 
+afraid: iyo-ame	iyoba- 
+be afraid: iyo-ame	iyoba- 
+fear: iyo-ame	iyoba- 
+fright: iyo-ame	iyoba- 
+alive: eiď̶e 
+be alive: eiď̶e 
+life: eiď̶e 
+live: eiď̶e 
+living: eiď̶e 
+fight: ha-iče-ti- 
+hunt: aseaseti- 
+beat: iče-	ðapo-ha 
+hit: iče-	ðapo-ha 
+strike: iče-	ðapo-ha 
+cut: boď̶eď̶e-	raha-	siki-	ðaða- 
+hack: boď̶eď̶e-	raha-	siki-	ðaða- 
+cut open: boðeðe-	peď̶o- 
+split: boðeðe-	peď̶o- 
+pierce: ď̶akʷa- 
+stab: ď̶akʷa- 
+dig: bere-	peda- 
+tell lies: biď̶o-mimi 
+stand: hutuhutu	neti- 
+turn: -barere-a- 
+turn around: -barere-a- 
+turn round: -barere-a- 
+drop: dahaha- 
+fall: dahaha- 
+squeeze: na-podo-ke	na-wac̷o-ke 
+wring: na-podo-ke	na-wac̷o-ke 
+rub: c̷ic̷i- 
+wipe: c̷ic̷i- 
+wash: popo-	rokʷa- 
+wash clothes: popo-	rokʷa- 
+push: nono- 
+shove: nono- 
+throw: sana- 
+bind: risi-	ď̶eke- 
+fasten: risi-	ď̶eke- 
+tie: risi-	ď̶eke- 
+tie up: risi-	ď̶eke- 
+sew: roso- 
+count: idada- 
+enumerate: idada- 
+number: idada- 
+tally: idada- 
+sing: sac̷o- 
+have fun: ha-sito-ti- 
+play: ha-sito-ti- 
+float: -beď̶a- 
+flow: wiðoi- 
+brook: ena	ena-baki 
+river: ena	ena-baki 
+stream: ena	ena-baki 
+lake: bai 
+dust: epamo 
+sky: boepa 
+ice: oyaro 
+blaze: jaja	kʷati-toro-	oc̷oa-	tio-	čotepe- 
+burn: jaja	kʷati-toro-	oc̷oa-	tio-	čotepe- 
+day: c̷ine 
+daylight: c̷ine 
+daytime: c̷ine 
+bad: ate	maða-da we 
+evil: ate	maða-da we 
+rot: horo-horo	iwi-da- 
+rotten: horo-horo	iwi-da- 
+dirty: aði-da	ači 
+filthy: aði-da	ači 
+soiled: aði-da	ači 
+straight: boc̷epi 
+sharp: keho-da 
+smooth: kʷapi-kʷapi	noc̷a-da 
+damp: c̷abi-da	čara-da 
+wet: c̷abi-da	čara-da 
+correct: boc̷epi 
+left: ď̶ani bai bene 
+in: e-dome-he 
+inside: e-dome-he 
+if: awa...so 
+because: hokʷaso	kʷaso 

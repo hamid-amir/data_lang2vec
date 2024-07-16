@@ -1,0 +1,406 @@
+all: láːzak | láːzak	sɔ́n 
+all: sɔ́n | láːzak	sɔ́n 
+and: ʔbɔ | go	nɛ	tɛ 
+and: go | go	nɛ	tɛ 
+and: nɛ | go	nɛ	tɛ 
+and: ŋmgbáŋ | go	nɛ	tɛ 
+and: tɛ | go	nɛ	tɛ 
+animal: saʔde 
+arm: ʔbaka 
+arm: ér˗ 
+arrow: kura 
+ashes: búː˗wey | búː-wey 
+back: ʔdoŋ | kɔ́r-	ʔdoŋ 
+back: kɔ́r˗ | kɔ́r-	ʔdoŋ 
+bad: ʔnáŋ | ʔnáŋ 
+bark: fyo 
+because: wen 
+belly: súʔbé | zaŋ 
+belly: zaŋ 
+big: ga͂́sá | gã́sá	zɔm 
+big: zɔm | gã́sá	zɔm 
+bird: ŋgeri(á) | yɔ̃ŋ-á	ŋgeri	ŋgeriá 
+bird: yɔ͂ŋ˗á | yɔ̃ŋ-á	ŋgeri	ŋgeriá 
+bite: nɔ͂́y | nɔ̃́y 
+bite: yɔ͂ŋ˗á | nɔ̃́y 
+black: tu͂˗ɔ́ | tũ-ɔ́ 
+blood: tɔ͂k | to*k	tɔ̃k 
+blow: dɔm˗á | dɔm-á	yu-ó 
+blow: yu˗ó | dɔm-á	yu-ó 
+bone: gba͂ra | gb~a*ra*	gbãra 
+breast: bere 
+breathe: ɔm˗á | ɔm-á 
+brother: ya͂́˗wéey 
+burn: ber˗á | ber-á 
+burn: dɔ˗á | ber-á 
+chest: ŋguʔdú 
+child: bé˗ | bé-	béem 
+child: béem | bé-	béem 
+chin: zaʔda 
+cloud: bú˗záan | bú-záan 
+cloud: kóro | bú-záan 
+cold: gɛ͂ɛ́ | gɛ̃ɛ́ 
+come: tɛ˗á | tE	tɛ-á 
+correct: ɔ́ nɛ́ ʔdoŋ˗wáraː | ɔ́ nɛ́ ʔdoŋ-wáraː 
+count: tɔ͂r˗á | tɔ̃r-á 
+cut: du͂m˗ɔ́ | gɔn-á 
+cut: gɔn˗á | gɔn-á 
+cut: sɛ͂k˗á | gɔn-á 
+cut: tok˗á | gɔn-á 
+dark: tu͂˗ɔ́ 
+daughter: bé˗kóo 
+day: wesé | wesé 
+die: fe˗á | fe	fe-á 
+die: fey | fe	fe-á 
+dig: gu͂n˗ɔ́ | zã-á 
+dig: za͂˗á | zã-á 
+dirty: ndíiŋ | ndíiŋ 
+dog: toró | toro	toró 
+drink: nɔ˗á | no	nɔ-á 
+dry: bɛrɛ 
+dust: fire˗nu | fire-nu 
+earth: nu 
+ear: zɛra | zEra	zɛra 
+eat: yɔ͂ŋ˗á | yɔ̃ŋ-á 
+egg: kúri | kúri 
+eye: ríp | ri	ríp 
+face: ríp 
+fall: aya˗á | aya-á	rĩk nu	tek-á 
+fall: ri͂k nu | aya-á	rĩk nu	tek-á 
+fall: tek˗á | aya-á	rĩk nu	tek-á 
+far: yɛ͂r˗á | yɛ̃r-á 
+father: yám | yám 
+fat (n.): nɔ 
+fear: kéey | kéey 
+feather: vúmɔ́˗nɔ́y | vúmɔ́-nɔ́y 
+few: ndéː | ndéː 
+fight: bi biro 
+finger: eŕ˗ 
+fingernail: ŋgɔ́k˗éː | ŋgɔ́k-éː 
+fire: wey | wei	wey 
+fish: zoro 
+five: mɔ͂ːrɔ́ | mɔ̃ːrɔ́ 
+flower: dóá te | dóá te 
+flow: fok˗á | fok-á 
+fly (n.): zi͂́ 
+fly (v.): bu͂ri(ɔ́) 
+fog: kutú | kutú 
+foot: náŋ | náŋ 
+forehead: dɔ͂́ɔ́tí 
+four: na͂́á | nã́á 
+fruit: wáyá | wáyá 
+girl: bé˗kóo 
+give: ha˗á | ha-á 
+good: dé | dé	déʔdé 
+good: déʔdé | dé	déʔdé 
+grass: zɔ͂́ | zɔ̃́ 
+guts: ya͂k˗zaŋ | yãk-zaŋ 
+hair: vúmɔ́ | vúmɔ́ 
+hand: ér˗ | ere	ér- 
+head: tan | tan	zu 
+head: zu | tan	zu 
+heart: ʔbúrúŋgú | ʔbúrúŋgú 
+hear: zer˗á | zer-á 
+hear: zeː wen | zer-á 
+heavy: di͂˗rɔ́ | dĩ-rɔ́	dĩti	dĩtiɔ́ 
+heavy: di͂ti(ɔ́) | dĩ-rɔ́	dĩti	dĩtiɔ́ 
+here: di͂́i | dĩ́i	na 
+here: na | dĩ́i	na 
+he/she: a͂ 
+hit: ri͂k˗ɔ́ | ro-á 
+hit: ro˗á | ro-á 
+hold: ka͂si(á) 
+hole: kɔ͂ 
+hole: woro 
+horn: zak 
+house: tuwa 
+how: ʔdoŋ˗wáː | ʔdoŋ-wáː 
+hunt: kiʔdi saʔde 
+husband: wéey | wéey 
+if: gán | gán 
+I: mbí | mbí 
+in: dɔr˗ | dɔr-	kɔ̃ 
+in: kɔ͂ | dɔr-	kɔ̃ 
+kill: gbɛ˗á | gbɛ-á 
+knee: zu˗goro | zu-goro 
+know: i͂ŋ˗ɔ́ | ĩŋ-ɔ́ 
+laugh: mam˗á | mam-á 
+leaf: wa͂́ | wã́ 
+left: gale 
+leg: kú | kú 
+lie: ɔ nu 
+lightning: pi͂́ɔ́ kóro 
+lip: wéːy˗nú 
+live: du͂ŋ˗ɔ́ | dũŋ-ɔ́	kpasi	kpasiá 
+live: kpasi(á) | dũŋ-ɔ́	kpasi	kpasiá 
+liver: sɛra 
+long: dur˗ó | dur-ó 
+man: wéey | wire	wí-	wí-ré 
+many: dɔ́ka | dɔ́ka 
+meat: kiri˗tɛ | kiri-tɛ	saʔde-tɛ | mũr-	saʔde 
+meat: mu͂r˗ | kiri-tɛ	saʔde-tɛ | mũr-	saʔde 
+meat: saʔde | kiri-tɛ	saʔde-tɛ | mũr-	saʔde 
+meat: saʔde˗tɛ | kiri-tɛ	saʔde-tɛ | mũr-	saʔde 
+moon: ze 
+morning: fara ʔbaː 
+morning: ture 
+mother: naː 
+mountain: kara 
+mouth: nú | nú 
+name: yín | 5in	yín 
+near: dɔ͂́ɔ́ | dɔ̃́ɔ́ 
+neck: gɛ́r˗ | gɛ́r- 
+new: mbé | mbé 
+night: ga͂́á fara | zE	zɛ 
+night: mbóro | zE	zɛ 
+night: zɛ | zE	zɛ 
+not: gan... ná | gan … ná 
+old: a͂́ 
+old: sɔ́kái 
+one: kpém | kp~em	kpém 
+one: tí | kp~em	kpém 
+person: wí˗ | wire	wí-	wí-ré 
+person: wí˗ré | wire	wí-	wí-ré 
+play: dɛ˗saː | dɛ-saː 
+pull: gbur˗ó 
+pull: yɔy˗á 
+push: ir˗ó 
+push: ʔnɔŋ 
+rain: kóro | kóro 
+red: gbɛ͂˗á | gbɛ̃-á 
+right: wáː˗wéey | ere	ér- | wáː-wéey 
+river: bé˗ri 
+river: ri 
+road: ʔdoŋ˗wáː | wa	war 
+road: wár˗ | wa	war 
+root: yín | yín 
+rope: pɛ́r˗ | pɛ́r- 
+rotten: mbɔr˗á | mbɔr-á 
+round: kokoroŋ | kokoroŋ	kor 
+round: kor | kokoroŋ	kor 
+rub: ho͂ŋ˗á | hõŋ-á	nũr-ɔ́ 
+rub: nu͂r˗ɔ́ | hõŋ-á	nũr-ɔ́ 
+salt: tɔ́ŋ | tɔ́ŋ 
+sand: rɛ͂mɛ | rɛ̃mɛ 
+say: tɔ͂˗á | tɔ̃-á | rɛ̃mɛ 
+say: tɔ͂ wen | tɔ̃-á | rɛ̃mɛ 
+seed: gba͂ra | gbãra 
+see: kɛ͂r˗á ~ kɛ͂ɛ | zok	zɔk-á 
+see: zɔk˗á | zok	zɔk-á 
+sew: fu͂r˗ɔ́ | fũr-ɔ́	kɔk-á	tok-á 
+sew: kɔk˗á | fũr-ɔ́	kɔk-á	tok-á 
+sew: tok˗á | fũr-ɔ́	kɔk-á	tok-á 
+sharp: tɔ˗á | tɔ-á 
+short: dɔ͂́ɔ́ | dɔ̃́ɔ́ 
+shoulder: zu˗ʔbaka 
+sing: sa gima 
+sister: ya͂́ 
+sister: ya͂́˗kóo 
+sit: du͂ŋ˗ɔ́ | dũŋ-ɔ́	soy-á 
+sit: soy˗á | dũŋ-ɔ́	soy-á 
+skin: ʔbor˗á | yo 
+skin: yɔ | yo 
+sky: ríp˗záan | ríp-záan 
+sleep: yara 
+small: bé˗ | bé-	gɛk 
+small: gɛk | bé-	gɛk 
+smoke: zɛ͂́˗wey | zɛ̃́-wey 
+smooth: rɔk˗á | rɔk-á 
+snake: gɔ́k | gɔ́k 
+snow: mu͂́rú 
+son: bé˗ŋgay 
+son: bé˗wéey 
+sour: kpa͂y˗á 
+spit: kɔli(á) | a sã́p 
+split: mbaŋ˗á | mbaŋ-á 
+stand: yor˗á | yor-á 
+star: sɔ́rá | sora	sɔ́rá 
+stone: ta 
+straight: tan˗á | tan-á 
+suck: am˗á 
+sun: wesé | wese	wesé 
+sweet: nɔ́˗gɔ͂rɔ 
+sweet: ri˗gɔ͂rɔ 
+swim: zoy ri 
+tail: ti͂r˗ | tĩr- 
+take: ba˗á 
+take: kay˗á 
+take: zu˗ó 
+that: i͂́í | ĩ́í | kp~em	kpém 
+there: aáyɛ | iyɛ	mɛ 
+there: fyɛ | iyɛ	mɛ 
+there: iyɛ | iyɛ	mɛ 
+there: mɛ | iyɛ	mɛ 
+they: wa 
+thick: ndoti(á) | ndoti	ndotiá 
+think: saː sɛ́k | saː sɛ́k 
+this: ɛ͂ɛ́ | ŋɔ́ɔ	ɛ̃ɛ́ 
+this: ŋɔ́ɔ | ŋɔ́ɔ	ɛ̃ɛ́ 
+thou: mɛ́ | mɛ́ 
+three: taː | tar-	taː 
+three: tar˗ | tar-	taː 
+throat: gɛ́r˗ 
+throw: a˗á | a-á	e-á	pĩ-ɔ́ 
+throw: e˗á | a-á	e-á	pĩ-ɔ́ 
+throw: pi͂˗ɔ́ | a-á	e-á	pĩ-ɔ́ 
+thunder: kóro dik 
+tie: hɛ͂r˗á | hɛ̃r-á	kpo-á 
+tie: kpo˗á | hɛ̃r-á	kpo-á 
+today: sɔ́ɔ 
+tongue: lép | lebe	lep	lép 
+tooth: gogo | 5in	yín 
+tooth: yín | 5in	yín 
+tree: te 
+turn: gam tɛ 
+turn: kip tɛ 
+two: ríːto | rito	ríːto 
+vagina: mɔ˗foyo 
+vagina: ton 
+vomit: ɔ͂y˗á | ɔ̃y-á 
+walk: nɛ˗á | nɛ nɔ	yar-á 
+walk: nɛ nɔ | nɛ nɔ	yar-á 
+walk: yar˗á | nɛ nɔ	yar-á 
+walk: zaʔdi yui | nɛ nɔ	yar-á 
+warm: gbɛŋ˗á 
+wash: fɔr˗á | fɔr-á 
+wash: zoy ri | fɔr-á 
+water: ri 
+weep: hey kɔ͂wá 
+weep: mu͂́rú˗kɔ͂wá 
+we: ɛ́rɛ́ 
+wet: ŋma˗á | ŋma-á 
+what: ge 
+when: ge wesé˗ge | ge wesé-ge 
+where: íye | íye 
+white: bú | bú	zólóló 
+white: zólóló | bú	zólóló 
+who: ge wí˗ge ndé | ge wí-ge ndé	o 
+who: o | ge wí-ge ndé	o 
+wide: pesi(á) | pesi	pesiá 
+wife: kóo | kóo 
+wind: búk | búk 
+wing: ʔbaka 
+with: ín 
+with: nɛ́ 
+woman: kó˗ | kóo	zɔ́ŋá 
+woman: kóo | kóo	zɔ́ŋá 
+woman: zɔ́ŋá | kóo	zɔ́ŋá 
+wood: bé˗te 
+wood: te 
+year: pɛ 
+yesterday: zɛ́ɛ 
+you: wí | mɛ́ | wí 
+every: láːzak	sɔ́n 
+ash: búː-wey 
+abdomen: zaŋ 
+bigness: gã́sá	zɔm 
+large: gã́sá	zɔm 
+breasts: bere 
+come from: tE	tɛ-á 
+be dead: fe	fe-á 
+dead: fe	fe-á 
+fly: bũri	bũriɔ́ 
+fly v.: bũri	bũriɔ́ 
+left hand: ere	ér- 
+1 sg.: mbí 
+be knowledgeable: ĩŋ-ɔ́ 
+lie down: ɔ nu 
+head louse: bisE 
+louse: bisE 
+male: wéey 
+much: dɔ́ka 
+multiple: dɔ́ka 
+several: dɔ́ka 
+flesh: kiri-tɛ	saʔde-tɛ 
+hill: kara 
+title: 5in	yín 
+nighttime: zE	zɛ 
+nose: zo*p	zɔ̃p 
+adulterous: kp~em	kpém 
+single: kp~em	kpém 
+the: kp~em	kpém 
+unprincipled: kp~em	kpém 
+human: wire	wí-	wí-ré 
+human being: wire	wí-	wí-ré 
+rainy weather: kóro 
+path: wa	war 
+route: wa	war 
+hide: yo 
+little: bé-	gɛk 
+smallness: bé-	gɛk 
+rock: ta 
+2 sg: mɛ́ 
+grind: rito	ríːto 
+go: nɛ nɔ	yar-á 
+whiteness: bú	zólóló 
+who?: ge wí-ge ndé	o 
+female: kóo	zɔ́ŋá 
+distant: yɛ̃r-á 
+dull: dĩ-rɔ́	dĩti	dĩtiɔ́ 
+serious: dĩ-rɔ́	dĩti	dĩtiɔ́ 
+close: dɔ̃́ɔ́ 
+ner: dɔ̃́ɔ́ 
+2 pl.: wí 
+ye: wí 
+you all: wí 
+3 pl.: wa 
+where?: íye 
+when?: ge wesé-ge 
+how?: ʔdoŋ-wáː 
+broad: pesi	pesiá 
+wideness: pesi	pesiá 
+fat: nɔ 
+principal wife: kóo 
+his mother: naː 
+my mother: naː 
+his father: yám 
+my father: yám 
+cord: pɛ́r- 
+grease: nɔ 
+claw: ŋgɔ́k-éː 
+nail: ŋgɔ́k-éː 
+gut: yãk-zaŋ 
+insides: yãk-zaŋ 
+intestine: yãk-zaŋ 
+intestines: yãk-zaŋ 
+breath: ɔm-á 
+laughter: mam-á 
+cogitate: saː sɛ́k 
+reflect: saː sɛ́k 
+smell: nũn-ɔ́ 
+sniff: nũn-ɔ́ 
+afraid: kéey 
+be afraid: kéey 
+fright: kéey 
+alive: dũŋ-ɔ́	kpasi	kpasiá 
+be alive: dũŋ-ɔ́	kpasi	kpasiá 
+life: dũŋ-ɔ́	kpasi	kpasiá 
+living: dũŋ-ɔ́	kpasi	kpasiá 
+beat: ro-á 
+strike: ro-á 
+hack: gɔn-á 
+cut open: mbaŋ-á 
+pierce: dũm-ɔ́ 
+stab: dũm-ɔ́ 
+drop: aya-á	rĩk nu	tek-á 
+wipe: hõŋ-á	nũr-ɔ́ 
+wash clothes: fɔr-á 
+bind: hɛ̃r-á	kpo-á 
+fasten: hɛ̃r-á	kpo-á 
+tie up: hɛ̃r-á	kpo-á 
+enumerate: tɔ̃r-á 
+number: tɔ̃r-á 
+tally: tɔ̃r-á 
+have fun: dɛ-saː 
+brook: ri 
+stream: ri 
+blaze: ber-á 
+daylight: wesé 
+daytime: wesé 
+evil: ʔnáŋ 
+rot: mbɔr-á 
+filthy: ndíiŋ 
+soiled: ndíiŋ 
+damp: ŋma-á 
+right side: wáː-wéey 
+inside: dɔr-	kɔ̃ 

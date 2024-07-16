@@ -1,0 +1,333 @@
+all: akina 
+every: akina 
+ash: bingwi 
+ashes: bingwi 
+bark: wanagek 
+abdomen: misad 
+belly: misad 
+big: gichi-	michaa 
+bigness: gichi-	michaa 
+large: gichi-	michaa 
+bird: bineshiinh	binesi 
+bite: dakwam 
+black: makade 
+blood: miskeo	miskwi 
+bone: kan	okum 
+breast: doodoosh	gekagagun 
+breasts: doodoosh	gekagagun 
+cloud: aanakod 
+cold: gisinaa 
+come: mabesZ~an	onjibaa 
+come from: mabesZ~an	onjibaa 
+be dead: nibo 
+dead: nibo 
+die: nibo 
+dog: anim	animosh 
+drink: minekw~ay	minikwe 
+dry: baaso 
+ear: getase	tawag 
+earth: aki 
+ground: aki 
+land: aki 
+soil: aki 
+eat: wiisini 
+egg: waawan 
+eye: shkiinzhig 
+feather: miigwan 
+fire: iSloday	ishkode 
+fish: giigoonh	kegon	namens 
+fly: babaamibide 
+fly v.: babaamibide 
+foot: zid 
+full: moSkonay	mooshkine 
+give: miizh 
+good: mino- 
+green: ozhaawashko 
+hair: wiinizis 
+hand: geninsZ~ 
+left hand: geninsZ~ 
+right: geninsZ~ 
+head: shtigwaan 
+hear: genondum	noondam 
+heart: deʼ 
+horn: eshkan	odayeSkun 
+1 sg.: nen	niin 
+I: nen	niin 
+kill: nishi 
+knee: gidig 
+be knowledgeable: gikenim 
+know: gikenim 
+leaf: ahnebeS	aniibiish 
+liver: kon	okon 
+long: ginoozi 
+head louse: ikwa 
+louse: ikwa 
+male: inini 
+man: anishinaabe	bamadisijik	bemaadizid 
+many: niibowa 
+much: niibowa 
+multiple: niibowa 
+several: niibowa 
+moon: dibik-giizis 
+hill: bikwadinaa	wago 
+mountain: bikwadinaa	wago 
+mouth: doon 
+name: esZ~enekasowin	wiinzh 
+title: esZ~enekasowin	wiinzh 
+neck: kwegan 
+new: oSkeie	oshki- 
+night: debekut	dibik 
+nighttime: debekut	dibik 
+nose: geyage	jaanzh 
+not: gaawiin 
+adulterous: baSig	bezhig	ningod 
+one: baSig	bezhig	ningod 
+single: baSig	bezhig	ningod 
+that: iʼiw 
+the: baSig	bezhig	ningod 
+unprincipled: baSig	bezhig	ningod 
+human: anishinaabe	bamadisijik	bemaadizid 
+human being: anishinaabe	bamadisijik	bemaadizid 
+person: anishinaabe	bamadisijik	bemaadizid 
+rain: gimiwan 
+rainy weather: gimiwan 
+red: misko 
+path: mekanah	mikana 
+road: mekanah	mikana 
+route: mekanah	mikana 
+root: ojiibik 
+round: waawiyeyaa 
+sand: negaw 
+say: ikido 
+see: waabi 
+seed: miinikaan 
+sit: abi 
+hide: geSagahie	zhagaʼay 
+skin: geSagahie	zhagaʼay 
+sleep: nibaa 
+little: agaasaa 
+small: agaasaa 
+smallness: agaasaa 
+smoke: bakwene 
+star: ahnuN	anang 
+rock: ahsin	asin 
+stone: ahsin	asin 
+sun: gezis	giizis 
+swim: gabaashimo 
+tail: zow 
+this: oʼow 
+2 sg: gen	giin 
+thou: gen	giin 
+you: gen	giin 
+tongue: denaniw	gedananeo 
+tooth: gebid	wiibit 
+tree: mitig 
+grind: nesZ~	niizh 
+two: nesZ~	niizh 
+go: bimose 
+walk: bimose 
+hot: aabawaa 
+warm: aabawaa 
+water: nebe	nibi 
+1 pl. inc.: gehanw~int	giinawind	niinawind 
+we: gehanw~int	giinawind	niinawind 
+we₁: gehanw~int	giinawind	niinawind 
+what: wegonen 
+white: waabishki 
+whiteness: waabishki 
+who: awenen 
+who?: awenen 
+female: ikwe 
+woman: ikwe 
+yellow: ozaawi 
+distant: waasa 
+far: waasa 
+dull: gozigwan 
+heavy: gozigwan 
+serious: gozigwan 
+close: besho 
+near: besho 
+ner: besho 
+salt: zhiiwit 
+short: dakoozi 
+snake: ginebig 
+thin: bibagaa 
+wind: noodin 
+earthworm: moose 
+worm: moose 
+year: gikinoonowin 
+3 sg.: wiin 
+he: wiin 
+she: wiin 
+2 pl.: giinawaa 
+ye: giinawaa 
+you all: giinawaa 
+3 pl.: wiinawaa 
+they: wiinawaa 
+here: omaa 
+there: imaa 
+where: aandi 
+where?: aandi 
+when: apil 
+when?: apil 
+how: aaniin 
+how?: aaniin 
+some: aanind 
+few: bangii 
+other: agaami- 
+three: niswi 
+four: new	niiwin 
+five: naanan 
+broad: mangadeyaa 
+wide: mangadeyaa 
+wideness: mangadeyaa 
+fat: bimide 
+thick: gipagaa 
+narrow: agaasadeyaa 
+child: abinoojiinh 
+principal wife: wiiw 
+wife: wiiw 
+husband: ninaabem 
+his mother: ga	maamaa 
+mother: ga	maamaa 
+my mother: ga	maamaa 
+father: baabaa	dede	oos 
+his father: baabaa	dede	oos 
+my father: baabaa	dede	oos 
+animal: awakaan	awesiinh 
+forest: mitigwaki 
+woods: mitigwaki 
+branch: mitig 
+stick: mitig 
+fruit: maaniwang 
+flower: waabigwan 
+grass: mashkosiw 
+cord: biiminakwaan 
+rope: biiminakwaan 
+flesh: wiiyaas 
+meat: wiiyaas 
+grease: bimide 
+claw: shkanzh 
+fingernail: shkanzh 
+nail: shkanzh 
+leg: kaad 
+arm: ninj 
+wing: ningwiigan 
+gut: nagizh 
+guts: nagizh 
+insides: nagizh 
+intestine: nagizh 
+intestines: nagizh 
+back: pikwan 
+suck: wiikwam 
+spit: ziko 
+vomit: zhigagowe 
+blow: boodaazh 
+breath: bagidanaamo 
+breathe: bagidanaamo 
+laugh: baapi 
+laughter: baapi 
+cogitate: maaminonendam 
+reflect: maaminonendam 
+think: maaminonendam 
+smell: biijimaam 
+sniff: biijimaam 
+afraid: goshi 
+be afraid: goshi 
+fear: goshi 
+fright: goshi 
+alive: bimaadizi 
+be alive: bimaadizi 
+life: bimaadizi 
+live: bimaadizi 
+living: bimaadizi 
+fight: miigaazo 
+hunt: giiwose 
+beat: bakiteʼ 
+hit: bakiteʼ 
+strike: bakiteʼ 
+cut: giishkizhige 
+hack: giishkizhige 
+cut open: daashki- 
+split: daashki- 
+pierce: bazhibaʼo 
+stab: bazhibaʼo 
+scratch: baazagobizhiwe 
+dig: waanike 
+lie: bimishin 
+lie down: bimishin 
+tell lies: bimishin 
+stand: gaabawi	niibawi 
+turn: gwekii 
+turn around: gwekii 
+turn round: gwekii 
+drop: bangishin 
+fall: bangishin 
+grasp: dakon 
+hold: dakon 
+hold in arm: dakon 
+squeeze: maagobizh 
+wring: maagobizh 
+rub: zinigon 
+wipe: giziin 
+wash: giziibiigii 
+wash clothes: giziibiigii 
+pull: wiikobizh 
+push: gaandin 
+shove: gaandin 
+throw: apagizh 
+bind: dakobizh 
+fasten: dakobizh 
+tie: dakobizh 
+tie up: dakobizh 
+sew: gashkigwaaso 
+count: agim	agindaaso 
+enumerate: agim	agindaaso 
+number: agim	agindaaso 
+tally: agim	agindaaso 
+sing: nagamo 
+have fun: odamino 
+play: odamino 
+float: agomo 
+flow: bimitigweyaa 
+freeze: mashkawadin 
+swell: baagishi 
+brook: ziibi 
+river: ziibi 
+stream: ziibi 
+lake: zaagaʼigan 
+ocean: gichigamii 
+sea: gichigamii 
+dust: bingwi 
+fog: awan 
+sky: giizhig 
+snow: goon	zoogipo 
+ice: mikwam 
+blaze: zakide 
+burn: zakide 
+day: giizhik 
+daylight: giizhik 
+daytime: giizhik 
+old: gete- 
+bad: maazhi-	maji- 
+evil: maazhi-	maji- 
+rot: bigishkani- 
+rotten: bigishkani- 
+dirty: wiinad 
+filthy: wiinad 
+soiled: wiinad 
+straight: gwayak 
+sharp: giinaa 
+blunt: azhiwaa 
+smooth: zhooshkozi 
+damp: nibiiwan 
+wet: nibiiwan 
+correct: gwayak 
+right side: gichinik 
+left: namanjinik 
+in: biinde 
+inside: biinde 
+with: wiiji- 
+and: dash	gaye	ge	miina 
+if: giishpin 
+because: onji- 

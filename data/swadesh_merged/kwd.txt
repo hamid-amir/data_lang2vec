@@ -1,0 +1,265 @@
+all: ʔafuta-na 
+every: ʔafuta-na 
+ash: makola 
+ashes: makola 
+abdomen: oga-na 
+belly: oga-na 
+big: baʔita 
+bigness: baʔita 
+large: baʔita 
+bird: laŋasi 
+bite: ʔala[si-a] 
+black: bobolaʔa 
+blood: abu	ʔabu 
+bone: suli	suli-na 
+breast: susu	susu-na 
+breasts: susu	susu-na 
+burn: gofu-a 
+burn tr.: gofu-a 
+cloud: kofa 
+cold: gwali 
+come: leka mai 
+come from: leka mai 
+be dead: mae 
+dead: mae 
+die: mae 
+dog: ku7ito	kuʔito 
+drink: go7ufi7a	goʔufiʔa 
+dry: laŋa 
+ear: aliNa	aliŋa-na 
+eat: oso 
+egg: fakalu-na 
+eye: ma	maa-na 
+feather: ifiifu-na 
+fire: ele 
+fish: i7a	iʔa 
+fly: lofo 
+fly v.: lofo 
+good: leʔa 
+green: malakwa 
+hair: ifiifu-na 
+hand: nima	nima-na 
+left hand: nima	nima-na 
+right: nima	nima-na 
+head: gou-na 
+hear: loNa	loŋa-a 
+1 sg.: nau 
+I: nau 
+kill: kwaʔi-a 
+be knowledgeable: suʔai 
+know: suʔai 
+leaf: ga7e	gaʔe-na 
+lie: eno 
+lie down: eno 
+liver: lae	lae-na 
+long: lalau 
+head louse: u	ʔuu 
+louse: u	ʔuu 
+male: wane 
+man: ai 
+moon: siŋali 
+mouth: foka-na 
+name: lata	lata-na 
+title: lata	lata-na 
+neck: onoma-na 
+new: folu	foolu 
+night: gania7i	ganiaʔi 
+nighttime: gania7i	ganiaʔi 
+nose: gwaŋo-na	gw~aNo 
+adulterous: te7e	teʔe	ɛta 
+one: te7e	teʔe	ɛta 
+single: te7e	teʔe	ɛta 
+that: lokoʔu 
+the: te7e	teʔe	ɛta 
+unprincipled: te7e	teʔe	ɛta 
+human: ai 
+human being: ai 
+person: ai 
+rain: neʔu 
+rainy weather: neʔu 
+red: meku 
+path: tala 
+road: tala 
+route: tala 
+root: lali-na 
+sand: one 
+say: ili-a 
+see: agasi	agasi-a 
+sit: toʔolu 
+hide: susuNa	suusuŋa-na 
+skin: susuNa	suusuŋa-na 
+sleep: eno 
+little: sikaʔu 
+small: sikaʔu 
+smallness: sikaʔu 
+smoke: daa 
+star: bulubulu 
+rock: fou 
+stone: fou 
+swim: balaʔau 
+tail: ʔiʔi-na 
+this: loʔoo 
+2 sg: o	ʔoo 
+thou: o	ʔoo 
+you: o	ʔoo 
+tongue: mea	mea-na 
+tooth: nifo	nifo-na 
+grind: lua	rua 
+two: lua	rua 
+go: leeleka 
+walk: leeleka 
+hot: ʔagoʔago 
+warm: ʔagoʔago 
+water: talufa7e	talufaʔe 
+1 pl. inc.: daulu	da|ulu	me|elu 
+we: daulu	da|ulu	me|elu 
+we₁: daulu	da|ulu	me|elu 
+what: taataga 
+white: kwaakwaoʔa 
+whiteness: kwaakwaoʔa 
+who: dai 
+who?: dai 
+female: noni 
+woman: noni 
+yellow: ʔataʔatakwaʔa 
+distant: lalau 
+far: lalau 
+dull: gelo 
+heavy: gelo 
+serious: gelo 
+close: galani-a 
+near: galani-a 
+ner: galani-a 
+salt: asi 
+short: koʔosu 
+snake: waa 
+thin: lebalebaʔa 
+wind: ilu 
+earthworm: waa 
+worm: waa 
+year: falisi 
+2 pl.: mo|olu 
+ye: mo|olu 
+you all: mo|olu 
+3 pl.: g|ila 
+they: g|ila 
+where: fai 
+where?: fai 
+when: naanita 
+when?: naanita 
+how: ʔuutaa 
+how?: ʔuutaa 
+other: matali 
+three: olu	ɔ̄ru 
+four: fai 
+five: nima 
+broad: afola 
+wide: afola 
+wideness: afola 
+fat: niiniu-na 
+thick: fonu 
+narrow: sisitai 
+principal wife: ʔafe 
+wife: ʔafe 
+husband: kwai- 
+his mother: gaʔi 
+mother: gaʔi 
+my mother: gaʔi 
+father: maʔa 
+his father: maʔa 
+my father: maʔa 
+forest: kaloŋa 
+woods: kaloŋa 
+branch: lema	ulu 
+stick: lema	ulu 
+fruit: feʔe 
+flower: taataga 
+grass: falisi 
+cord: kwalo 
+rope: kwalo 
+flesh: fasiʔo-na 
+meat: fasiʔo-na 
+grease: niiniu-na 
+wing: ʔabaʔaba-na 
+gut: oga-na 
+guts: oga-na 
+insides: oga-na 
+intestine: oga-na 
+intestines: oga-na 
+back: bobou-na 
+suck: modoa 
+spit: ŋisu 
+vomit: moa 
+blow: fulu 
+breath: maŋo 
+breathe: maŋo 
+laugh: ʔosa 
+laughter: ʔosa 
+cogitate: madafi-a 
+reflect: madafi-a 
+think: madafi-a 
+smell: mokofi-a 
+sniff: mokofi-a 
+afraid: maʔu 
+be afraid: maʔu 
+fear: maʔu 
+fright: maʔu 
+alive: toʔolu 
+be alive: toʔolu 
+life: toʔolu 
+live: toʔolu 
+living: toʔolu 
+hunt: fana 
+beat: kwaʔi-a 
+hit: kwaʔi-a 
+strike: kwaʔi-a 
+cut: tofu-a 
+hack: tofu-a 
+cut open: gaafitalia 
+split: gaafitalia 
+pierce: ʔotomi-a 
+stab: ʔotomi-a 
+scratch: fai-a 
+dig: takwe-a 
+stand: ula 
+drop: ʔesia 
+fall: ʔesia 
+grasp: dau 
+hold: dau 
+hold in arm: dau 
+squeeze: filo-a 
+wring: filo-a 
+throw: ʔui-a 
+bind: gaua 
+fasten: gaua 
+tie: gaua 
+tie up: gaua 
+sew: tai-a 
+count: idumi-a 
+enumerate: idumi-a 
+number: idumi-a 
+tally: idumi-a 
+flow: afe 
+lake: namo 
+ocean: ʔosi 
+sea: ʔosi 
+dust: fuufulu-na 
+fog: gwafo 
+sky: lalo 
+bad: lia 
+evil: lia 
+rot: nuga 
+rotten: nuga 
+dirty: bibibiliʔa 
+filthy: bibibiliʔa 
+soiled: bibibiliʔa 
+sharp: ŋau 
+blunt: gomu 
+damp: wasiu 
+wet: wasiu 
+right side: leʔa 
+left: moori 
+in: ʔubu-na 
+inside: ʔubu-na 
+and: ma 
+if: lauta 

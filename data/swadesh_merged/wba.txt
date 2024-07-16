@@ -1,0 +1,199 @@
+all: kokotuka 
+ashes: huhu-hoko | hekohuhu 
+bark: dau ahoro 
+belly: ubono | obono 
+big: (er)ida | irija 
+big: uri- | irija 
+bird: domu 
+bird: romu | domu 
+bite: abu-n- | basia 
+black: ana | anera 
+blood: hoto | hotu 
+blood: hotu 
+bone: müehüe | muhu 
+bone: -muhu 
+breast: kameho | ami 
+burn: doku 
+burn: hota- 
+cloud: kohe | nahamutu 
+cold: daida | daitera	dehorohera 
+cold: raira | daitera	dehorohera 
+come: nabaka- | nauza 
+come: naru- | nauza 
+come: oa- | nauza 
+come: yaro | nauza 
+die: wapa- | wabaza 
+dog: behoro | beroro 
+dog: beroro 
+drink: hobí- | takatakaza 
+drink: kora | takatakaza 
+dry: waha | nauwaha 
+ear: -kohoko 
+earth: hobahi 
+earth: hota | hobahi 
+eat: nahoro- | nahoroza 
+egg: -hi | ahi 
+eye: -mu 
+fat (n.): -toi 
+feather: huhi 
+fire: hekunu 
+fish: homakapa | homakaba 
+fly (v.): ? 
+foot: -omo | omu 
+foot: -omu 
+give: mo(a)- | muaza 
+give: mo(a)· | muaza 
+give: mõãũ | muaza 
+good: yakera | zakera 
+green: ? | hebura 
+hair: -hi | hio 
+hair: -hio 
+hand: -mõhõ | moho 
+head: -kʷa | kw~a 
+hear: noko- | nokoza 
+heart: kobe 
+horn: hĩõhi | akw~ahoi 
+I: iné | ine 
+kill: kuba- | naza 
+kill: na- | naza 
+knee: -muku | mukuru 
+know: namina- | naminaza 
+leaf: -roko | dau aroko 
+lie: tona- | zahia 
+lie: yahi- | zahia 
+liver: ? | mahi 
+long: kawa- | bumija 
+long: (w)ari | bumija 
+louse: ami 
+man: -nipora/-nebora | warau 
+many: era 
+many: -sebe | era 
+meat: -toma/tuma 
+moon: waniku 
+mountain: hota(-kʷaira) | hotakw~ai 
+mouth: -roko | doko 
+name: -wai 
+neck: ? | do 
+new: ahidama | hijo 
+night: -ima 
+nose: -kari | hikoto 
+not: -na(ka) 
+not: -yana 
+one: hisaka | hishaka	isaka 
+person: -rao | warau 
+rain: naha 
+red: simo | simo* 
+road: omonoko | hohisi 
+road: sisi | hohisi 
+root: -hokonamu 
+round: kopo- | kobera 
+sand: waha 
+say: dibu-n- 
+seed: -mo | amu 
+seed: namuna 
+see: mi- | mia 
+sit: duhu-n- | duhuya 
+skin: -horo 
+sleep: upa- | ubaza 
+small: sanuka 
+smoke: hehuku 
+stand: karamu | kanamuya 
+star: -kura 
+stone: hoyo | hozo 
+sun: hokohi | za 
+sun: ya | za 
+swim: nako | soitia 
+tail: ahu 
+tail: -hu | ahu 
+that: amaha | tai 
+that: tai 
+this: tamaha 
+thou: ihé | zatu 
+thou: ihi | zatu 
+tongue: -hono 
+tooth: -i 
+tree: -dau 
+tree: -rau | dau 
+two: manamo | mana-mo	manamu 
+walk: koho- | naria	za*tia 
+walk: yã- | naria	za*tia 
+warm: ihi(da) 
+water: -ho 
+we: oko 
+what: bitu 
+what: ka(tukane) | bitu 
+white: hoko | hokera 
+who: kasika | sina 
+who: sina 
+woman: tida | tija 
+yellow: hehehe | johene	simosimo 
+every: kokotuka 
+ash: hekohuhu 
+bark: ahoro 
+abdomen: obono 
+bigness: irija 
+large: irija 
+breasts: ami 
+claw: kahanobo	mohusi 
+nail: kahanobo	mohusi 
+talon: kahanobo	mohusi 
+come from: nauza 
+be dead: wabaza 
+dead: wabaza 
+ear: kohoko 
+ground: hobahi 
+land: hobahi 
+soil: hobahi 
+eye: mu 
+fat: toi 
+fat n.: toi 
+grease: toi 
+lubricant: toi 
+oil: toi 
+fly: nebiria 
+fly v.: nebiria 
+full: kw~atai 
+left hand: moho 
+right: moho 
+1 sg.: ine 
+be knowledgeable: naminaza 
+lie down: zahia 
+head louse: ami 
+male: nibora 
+much: era 
+multiple: era 
+several: era 
+flesh: toma 
+meat: toma 
+hill: hotakw~ai 
+name: wai 
+title: wai 
+night: ima 
+nighttime: ima 
+adulterous: hishaka	isaka 
+single: hishaka	isaka 
+the: hishaka	isaka 
+unprincipled: hishaka	isaka 
+human: warau 
+human being: warau 
+rainy weather: naha 
+path: hohisi 
+route: hohisi 
+say: dibu 
+hide: horo 
+skin: horo 
+little: sanuka 
+smallness: sanuka 
+star: kura 
+rock: hozo 
+2 sg: zatu 
+you: zatu 
+tongue: hono 
+grind: mana-mo	manamu 
+go: naria	za*tia 
+water: ho 
+1 pl. inc.: oko 
+we₁: oko 
+whiteness: hokera 
+who?: sina 
+female: tija 

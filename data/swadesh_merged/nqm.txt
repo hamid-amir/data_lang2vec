@@ -1,0 +1,472 @@
+all: enterfin | enterfin	niː	ɛntɛrfin 
+all: ɛntɛrfin | enterfin	niː	ɛntɛrfin 
+ankle: tur unɛr 
+arm: kram{t 
+arm: taːn 
+arrow: sitaxa 
+ashes: wotin | wotin	wət̪in 
+back: in | inxar	iŋhar 
+back: inghar | inxar	iŋhar 
+back: inxar | inxar	iŋhar 
+bad: yaxur | yaxur	yeremön	yerɛmœn	yɛrɛmun 
+bad: yerɛm{n | yaxur	yeremön	yerɛmœn	yɛrɛmun 
+bad: yeremön | yaxur	yeremön	yerɛmœn	yɛrɛmun 
+bark: krikir | kirkir	krikir	ⁿdʉrkirkir 
+belly: mör | mör	mœr 
+belly: m{r | mör	mœr 
+big: nortebögh | taruma	tərmɔ 
+big: taruma | taruma	tərmɔ 
+bird: nembôrfe | nembôrfe	nembœrfɛ	nɛmbʉr 
+bird: nemb{rfɛ | nembôrfe	nembœrfɛ	nɛmbʉr 
+bite: tre:gh | treːɣ	trəː	trɛːx 
+bite: trɛːx | treːɣ	trəː	trɛːx 
+bitter: tuburi 
+black: thurtobogh | thurtoboɣ	tʰurtobox	θur 
+black: tʰurtobox | thurtoboɣ	tʰurtobox	θur 
+blood: atʰ | ath~	atʰ	et	eth	et̪	äθ 
+blood: et̪ | ath~	atʰ	et	eth	et̪	äθ 
+blood: eth | ath~	atʰ	et	eth	et̪	äθ 
+bone: in | in	yin 
+boy: nɛrni 
+branch: ghoran | xoran	ɣoran 
+branch: xoran | xoran	ɣoran 
+breast: mam | mam	mɑm 
+breathe: ifafar 
+burn: ufeyan | ufeyan	θɐʔɐr 
+burn: uyɛfan | ufeyan	θɐʔɐr 
+calf: faːn 
+calf: trin 
+cheek: ghab 
+cheek: xab 
+chest: ntom 
+chest: tnom 
+child: ni | ni	nɐni	yaka 
+child: yaka | ni	nɐni	yaka 
+chin: awi 
+cold: yat | yat	yɐtʰ 
+come: aman | aman	mɐːni 
+correct: usirmɛfa 
+crocodile: xaraːma 
+cut: b{r | bœr 
+dark: ert 
+dark: ɛrt 
+day: ru 
+die: ghains | xains	ɛnč	ɣains 
+die: xains | xains	ɛnč	ɣains 
+die: xains anen | xains	ɛnč	ɣains 
+dig: t{b{r | töbör	tœbœr	čɛr 
+dig: töbör | töbör	tœbœr	čɛr 
+dog: wawant | nowɔnt̪	wawan-wawan	wawant 
+dog: wawan-wawan | nowɔnt̪	wawan-wawan	wawant 
+drink: ghot | wⁱɛroinɐnɐr	xot	ɣot 
+drink: xot | wⁱɛroinɐnɐr	xot	ɣot 
+dry: uyar | uyar	ətrin 
+ear: munumb 
+earth: nit 
+earth: wut | nit 
+eat: ghot | uːtʰ	xot	ɣot 
+eat: xot | uːtʰ	xot	ɣot 
+egg: tan-mumu | wax	wɑ 
+egg: wax | wax	wɑ 
+elbow: taːn mumu 
+emu: awi 
+excrement: re:gh 
+eye: uno manmen | tunɛr	ununor 
+eye: ununor | tunɛr	ununor 
+face: athuf 
+face: at̪uf 
+far: utagharo | utaxarɛ	utaɣaro	utɐʔrɛ 
+far: utaxarɛ | utaxarɛ	utaɣaro	utɐʔrɛ 
+father: ye | nɑyɛ	ye	yɛ 
+father: yɛ | nɑyɛ	ye	yɛ 
+fat (n.): nor 
+feather: mwen | mwen	mwɛn 
+feather: mwɛn | mwen	mwɛn 
+finger: kra munumb 
+finger: kra-munumb 
+finger: mwe 
+fingernail: nixat | nixat	rɐniʔɐt 
+finger: tor munumb 
+fire: u | u	uː 
+fish: yawghana | yawxana	yawɣana	ənɐ 
+fish: yawxana | yawxana	yawɣana	ənɐ 
+five: meregh | mereɣ	märɛ	mɛrɛx 
+five: mɛrɛx | mereɣ	märɛ	mɛrɛx 
+flower: fasin | fasin	fɛsin 
+flower: fɛsin | fasin	fɛsin 
+fly (n.): worwer 
+fly (v.): anam 
+foot: futör | tor	tur 
+foot: tor | tor	tur 
+foot: tur | tor	tur 
+foot: tur fut{r | tor	tur 
+foot: tur xant | tor	tur 
+forehead: tir 
+forest: t̪ɛnt{r | munund	thentər	t̪ɛntœr 
+forest: thentër | munund	thentər	t̪ɛntœr 
+four: thonith | thonith	t̪onit̪	θʷəniθ 
+four: t̪onit̪ | thonith	t̪onit̪	θʷəniθ 
+fruit: fesin | fesin	fɛsin 
+fruit: fɛsin | fesin	fɛsin 
+full: xataxatɛryar | xataxataryar	xataxatɛryar 
+girl: if nerni 
+give: kenand | bɐʔčɛ	kenand	kɛnand 
+give: kɛnand | bɐʔčɛ	kenand	kɛnand 
+good: ghafre | xafrɛ	əfrɛ	ɣafre 
+good: xafrɛ | xafrɛ	əfrɛ	ɣafre 
+guts: t̪ax | thaɣ	t̪ax 
+guts: thagh | thaɣ	t̪ax 
+hair: men | to-mwen	tomwɛn	tumän 
+hair: mɛːn | to-mwen	tomwɛn	tumän 
+hair: to-mwen | to-mwen	tomwɛn	tumän 
+hair: tomwɛn | to-mwen	tomwɛn	tumän 
+hand: tan | tan	taːn 
+hand: taːn | tan	taːn 
+head: ret | ret	rɛt̪ʰ	rɛːt 
+head: rɛːt | ret	rɛt̪ʰ	rɛːt 
+hear: mu 
+heart: waghabur | waxabur	waɣabur 
+heart: waxabur | waxabur	waɣabur 
+heavy: it̪ent{r | ithentör	it̪entœr 
+heavy: ithentör | ithentör	it̪entœr 
+here: waten-mba | kʷɐṛɛ 
+he/she: ef 
+he/she: efe 
+he/she: ef/efe 
+hit: mörsi | bɤbɐ	mörsi	mœrsi 
+hit: m{rsi | bɤbɐ	mörsi	mœrsi 
+hold: xra | rɐː 
+house: urendör 
+house: urend{r 
+husband: namun | fɛnɔmun	namun 
+I: na | ne	nɛ 
+I: ne | ne	nɛ 
+I: ne/nante | ne	nɛ 
+kangaroo: saxu 
+kill: ent{n | entön	entœn	ⁿdɐndɐr 
+kill: entön | entön	entœn	ⁿdɐndɐr 
+knee: kit̪ | kit	kith	kit̪	kiθ 
+knee: kith | kit	kith	kit̪	kiθ 
+know: nughwa | nuo	nuxwa	nuɣwa 
+know: nuxwa | nuo	nuxwa	nuɣwa 
+laugh: mdesar | mdesar	mdəčɐr	mdɛsar 
+laugh: mdɛsar | mdesar	mdəčɐr	mdɛsar 
+leaf: waghar | waxar	waɣar	wɑːɐr 
+leaf: waxar | waxar	waɣar	wɑːɐr 
+leg: in (?) | ?in	tur	tuːr 
+leg: tur | ?in	tur	tuːr 
+lie: yaf{n | yafön | utsir 
+lie: yafön | utsir 
+lightning: wandjir 
+lightning: wanǯir 
+lip: afakir 
+lip: afɛ~kir 
+liver: wat | iː	wat 
+live: t̪arin | tharun	t̪arin 
+live: tharun | tharun	t̪arin 
+long: yet̪ɛ | yethe	yet̪ɛ	yɛθɛ 
+long: yethe | yethe	yet̪ɛ	yɛθɛ 
+louse: nɛːm{n | namn 
+louse: nemön | namn 
+man: gharefe-tanaf | ref	rɛf 
+man: xarefe tʰeref | ref	rɛf 
+many: sisere | sisere	sisɛrɛ	čičɛrɛ 
+many: sisɛrɛ | sisere	sisɛrɛ	čičɛrɛ 
+meat: maːnumb | maːnumb	mɐnɐmb | munumb 
+meat: munumb | maːnumb	mɐnɐmb 
+moon: ghuban | ubɐnɐ	xubana	ɣuban 
+moon: xubana | ubɐnɐ	xubana	ɣuban 
+morning: nif t{rt{r 
+mosquito: net̪{n 
+mother: ma | ma	nɐmɐ 
+mountain: t̪aːmot | tamot	thamot	t̪aːmot 
+mountain: thamot | tamot	thamot	t̪aːmot 
+mouth: nda | rantœr	rɐntʉr 
+mouth: rant{r | rantœr	rɐntʉr 
+name: nar | nar	nɐːr 
+nape: möt 
+nape: m{t 
+navel: irghufar 
+navel: irxofar 
+near: čarɛtam | caretam	čarɛtam	čɐrɛtɐm 
+near: tjaretam | caretam	čarɛtam	čɐrɛtɐm 
+neck: t̪aːxbot | thaɣbot	t̪aːxbot 
+neck: thaghbot | thaɣbot	t̪aːxbot 
+new: nerni | naryar	neryar	nɛryar	nɛryɐr 
+new: nɛrni | naryar	neryar	nɛryar	nɛryɐr 
+new: neryar | naryar	neryar	nɛryar	nɛryɐr 
+new: nɛryar | naryar	neryar	nɛryar	nɛryɐr 
+night: ert | art	ert	ɛrt	ɛrtʰ 
+night: ɛrt | art	ert	ɛrt	ɛrtʰ 
+nose: ferent | ferent	fɛrend̪ 
+nose: remt{r | ferent	fɛrend̪ 
+old: kiɛb{r 
+old: kinamun 
+old: tegheyar 
+old: tɛxɛyar 
+one: sas | sas	čɐč 
+person: ref | ref	rɛf 
+pull: tabɛrɛ 
+rain: mwar | muər	mwar 
+rat: fwos 
+rat: gharof 
+rat: xarof 
+red: et-wateyar | et-wateyar	əðʷɐtɛryɐr	ɛtwatɛyar 
+red: ɛtwatɛyar | et-wateyar	əðʷɐtɛryɐr	ɛtwatɛyar 
+ripe: fur 
+river: yerama | yerama	yɛrama	yɛrɑmɑ 
+river: yɛrama | yerama	yɛrama	yɛrɑmɑ 
+road: re 
+root: ghata | xata	əθɐ	ɣata 
+root: xata | xata	əθɐ	ɣata 
+rope: negh | nez	neɣ	nä 
+rope: nez | nez	neɣ	nä 
+sand: thöthör | thöthör	t̪œt̪œr	ðʊðʊr 
+sand: t̪{t̪{r | thöthör	t̪œt̪œr	ðʊðʊr 
+say: botbot | mte	mtɛ | thöthör	t̪œt̪œr	ðʊðʊr 
+say: bot-bot | mte	mtɛ | thöthör	t̪œt̪œr	ðʊðʊr 
+say: mte | mte	mtɛ | thöthör	t̪œt̪œr	ðʊðʊr 
+say: mtɛ | mte	mtɛ | thöthör	t̪œt̪œr	ðʊðʊr 
+see: uthör | uthör	utr	ut̪œr	ɛθur 
+see: ut̪{r | uthör	utr	ut̪œr	ɛθur 
+sew: t̪ubar owo 
+sharp: trɛːx xatɛyar | trəɛθɛriar	trɛːx xatɛyar 
+short: mat̪eb{r | mathebör	mat̪ebœr	mɐθiyɛbʉr 
+short: mathebör | mathebör	mat̪ebœr	mɐθiyɛbʉr 
+shoulder: rawaret 
+shoulder: rawarɛt 
+sing: neghathagere | nexat̪agarɛ	neɣathagere 
+sing: nexat̪agarɛ | nexat̪agarɛ	neɣathagere 
+sit: anathön | anathön	anatʰön	anat̪œn	nɛnɐθʉr 
+sit: anat̪{n | anathön	anatʰön	anat̪œn	nɛnɐθʉr 
+sit: anatʰön | anathön	anatʰön	anat̪œn	nɛnɐθʉr 
+skin: krikir | kirkir	krikir 
+sleep: yafön | yafön	yiθ 
+small: mat̪efe | mathefe	mat̪efe	məðiɛfɛ 
+small: mathefe | mathefe	mat̪efe	məðiɛfɛ 
+smell: ɛsif | unef-esif	unɛf ɛsif 
+smell: unef-esif | unef-esif	unɛf ɛsif 
+smoke: wotagh | wotax	wotaɣ	wəðä 
+smoke: wotax | wotax	wotaɣ	wəðä 
+smooth: mitimitɛrɛyar 
+sour: yeyegheryar 
+sour: yeyɛxoryar 
+spit: fwir 
+spit: sɛrsɛr | fwir 
+stand: t{b{rɛ | tham	töböre	tœbœrɛ	tʊbrɛ 
+stand: tham | tham	töböre	tœbœrɛ	tʊbrɛ 
+stand: töböre | tham	töböre	tœbœrɛ	tʊbrɛ 
+star: berem | baram	berem	bɛrɛm 
+star: bɛrɛm | baram	berem	bɛrɛm 
+stone: met | mat	met	mätʰ	mɛːt 
+stone: mɛːt | mat	met	mätʰ	mɛːt 
+straight: t{brɛyar | tœbrɛyar 
+suck: sresre 
+sun: wen | wen	wɛnt 
+sweet: ghafrasas 
+swim: krayaf | brɛ	krayaf 
+tail: ghorub | urub	xorub	ɣorub 
+tail: xorub | urub	xorub	ɣorub 
+take: ghra 
+take: tom 
+take: yofaraton 
+they: ent | ent	änd 
+they: enta | ent	änd 
+they: ent/entefa | ent	änd 
+thick: ghatròm | xatrom	ɣatròm 
+thick: xatrom | xatrom	ɣatròm 
+thigh: werndör 
+thigh: wernd{r 
+thin: ghatfiar | kafri	xatfiar	ɣatfiar 
+thin: kafri | kafri	xatfiar	ɣatfiar 
+think: t̪aːx afar 
+thin: xatfiar | kafri	xatfiar	ɣatfiar 
+thorn: me 
+thorn: mɛː 
+thou: gha | ki	xe	ɛː	ɣe 
+thou: ghe/ghante | ki	xe	ɛː	ɣe 
+thou: ki | ki	xe	ɛː	ɣe 
+thou: xe | ki	xe	ɛː	ɣe 
+three: ithin | ithin	it̪in	yiðin 
+three: it̪in | ithin	it̪in	yiðin 
+throw: tu 
+thunder: t̪ruar 
+tie: mör | mör	mür	mœr 
+tie: m{r | mör	mür	mœr 
+tomorrow: rawra 
+tomorrow: rawrɛ 
+tongue: mefrer | mefrer	mɛfrɛr 
+tooth: tregh | trax	treɣ	trɛːx	tərə 
+tooth: trɛːx | trax	treɣ	trɛːx	tərə 
+tree: ndör | ndr 
+tree: nd{r | ndr 
+two: tʰef | taf	thef	th~ef	tʰef	t̪ɛf	θɛf 
+two: t̪ɛf | taf	thef	th~ef	tʰef	t̪ɛf	θɛf 
+two: thef | taf	thef	th~ef	tʰef	t̪ɛf	θɛf 
+unripe: bur 
+vagina: nor trɛːx 
+vagina: nor-trogh 
+vomit: murmur | mur-mur	murmur 
+walk: arborbor | arborbor	nitɛrɛf 
+warm: waghe | waxɛ	waɣe 
+warm: waxɛ | waxɛ	waɣe 
+wash: thithi | uthuthuf	uθuf 
+wash: t̪it̪i | uthuthuf	uθuf 
+wash: uthuthuf | uthuthuf	uθuf 
+water: wer | wer	wɛːr 
+weep: nex 
+weep: uno-neref 
+weep: uno nerɛf 
+we: ni 
+we: ni/ninte 
+white: maghoateyar | maxoatɛyar	maɣoateyar	mɐʔwətɛryɐr 
+white: maxoatɛyar | maxoatɛyar	maɣoateyar	mɐʔwətɛryɐr 
+wide: yɛt̪ɛ | mathömathör	yɛt̪ɛ 
+wife: yebör | nɐyɛbur	yebör	yebœr 
+wife: yeb{r | nɐyɛbur	yebör	yebœr 
+wind: thrui | thrui	t̪rui	θuru 
+wind: t̪rui | thrui	t̪rui	θuru 
+wing: ghafam | xafam	əfɑm	ɣafam 
+wing: xafam | xafam	əfɑm	ɣafam 
+woman: if 
+wood: nd{r 
+wood: xat 
+yesterday: ertere 
+yesterday: ɛrtɛrɛ 
+you: kante | ki	xe	ɛː	ɣe 
+you: ki/kinte | ki	xe	ɛː	ɣe 
+every: enterfin	niː	ɛntɛrfin 
+ash: wotin	wət̪in 
+abdomen: mör	mœr 
+bigness: taruma	tərmɔ 
+large: taruma	tərmɔ 
+breasts: mam	mɑm 
+cloud: ɐʔri 
+come from: aman	mɐːni 
+be dead: xains	ɛnč	ɣains 
+dead: xains	ɛnč	ɣains 
+ground: nit 
+land: nit 
+soil: nit 
+fly: anam	nənɐmbɐr 
+fly v.: anam	nənɐmbɐr 
+left hand: tan	taːn 
+right: tan	taːn 
+1 sg.: ne	nɛ 
+be knowledgeable: nuo	nuxwa	nuɣwa 
+lie down: yafön 
+head louse: namn 
+male: xarefe tʰeref	ɛrɛθɛrɛf	ɣarefe-tanaf 
+much: sisere	sisɛrɛ	čičɛrɛ 
+multiple: sisere	sisɛrɛ	čičɛrɛ 
+several: sisere	sisɛrɛ	čičɛrɛ 
+flesh: maːnumb	mɐnɐmb 
+hill: tamot	thamot	t̪aːmot 
+title: nar	nɐːr 
+nighttime: art	ert	ɛrt	ɛrtʰ 
+not: äfə 
+adulterous: sas	čɐč 
+single: sas	čɐč 
+that: əti 
+the: sas	čɐč 
+unprincipled: sas	čɐč 
+human: ref	rɛf 
+human being: ref	rɛf 
+rainy weather: muər	mwar 
+path: re 
+route: re 
+seed: fɛčin 
+hide: kirkir	krikir 
+little: mathefe	mat̪efe	məðiɛfɛ 
+smallness: mathefe	mat̪efe	məðiɛfɛ 
+rock: mat	met	mätʰ	mɛːt 
+this: mɐː 
+2 sg: ki	xe	ɛː	ɣe 
+grind: taf	thef	th~ef	tʰef	t̪ɛf	θɛf 
+go: arborbor	nitɛrɛf 
+hot: waxɛ	waɣe 
+1 pl. inc.: ni 
+we₁: ni 
+what: ɛnɪf 
+whiteness: maxoatɛyar	maɣoateyar	mɐʔwətɛryɐr 
+who: nɛm 
+who?: nɛm 
+female: if 
+distant: utaxarɛ	utaɣaro	utɐʔrɛ 
+dull: ithentör	it̪entœr 
+serious: ithentör	it̪entœr 
+close: caretam	čarɛtam	čɐrɛtɐm 
+ner: caretam	čarɛtam	čɐrɛtɐm 
+salt: mɐrɐŋgʰ 
+snake: mərəwi 
+earthworm: čɐːʔrnur 
+worm: čɐːʔrnur 
+3 sg.: ef 
+he: ef 
+she: ef 
+2 pl.: ki 
+ye: ki 
+you all: ki 
+3 pl.: ent	änd 
+there: rːɛ 
+where: wɐnčɛ 
+where?: wɐnčɛ 
+when: ⁿdɛmdɑrɛ 
+when?: ⁿdɛmdɑrɛ 
+broad: mathömathör	yɛt̪ɛ 
+wideness: mathömathör	yɛt̪ɛ 
+fat: xatrom	ɣatròm 
+principal wife: nɐyɛbur	yebör	yebœr 
+his mother: ma	nɐmɐ 
+my mother: ma	nɐmɐ 
+his father: nɑyɛ	ye	yɛ 
+my father: nɑyɛ	ye	yɛ 
+woods: munund	thentər	t̪ɛntœr 
+stick: xoran	ɣoran 
+cord: nez	neɣ	nä 
+claw: nixat	rɐniʔɐt 
+nail: nixat	rɐniʔɐt 
+gut: thaɣ	t̪ax 
+insides: thaɣ	t̪ax 
+intestine: thaɣ	t̪ax 
+intestines: thaɣ	t̪ax 
+blow: fɛnɛnwɐr 
+breath: ifafar 
+laughter: mdesar	mdəčɐr	mdɛsar 
+cogitate: t̪aːx afar 
+reflect: t̪aːx afar 
+sniff: unef-esif	unɛf ɛsif 
+alive: tharun	t̪arin 
+be alive: tharun	t̪arin 
+life: tharun	t̪arin 
+living: tharun	t̪arin 
+beat: bɤbɐ	mörsi	mœrsi 
+strike: bɤbɐ	mörsi	mœrsi 
+hack: bœr 
+cut open: ri 
+split: ri 
+pierce: tɐʔtər 
+stab: tɐʔtər 
+scratch: muəðin 
+tell lies: utsir 
+drop: rɐtərɐ 
+fall: rɐtərɐ 
+grasp: rɐː 
+hold in arm: rɐː 
+wash clothes: uthuthuf	uθuf 
+bind: mör	mür	mœr 
+fasten: mör	mür	mœr 
+tie up: mör	mür	mœr 
+brook: yerama	yɛrama	yɛrɑmɑ 
+stream: yerama	yɛrama	yɛrɑmɑ 
+lake: yɛrɑmɑ 
+sky: mɑːʔri 
+blaze: ufeyan	θɐʔɐr 
+daylight: ru 
+daytime: ru 
+evil: yaxur	yeremön	yerɛmœn	yɛrɛmun 
+blunt: mʉrči	trɛːx fiar 
+damp: mbⁱʉr 
+wet: mbⁱʉr 
+right side: tiyɛn 
+left: bərint̪ 

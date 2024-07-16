@@ -1,0 +1,305 @@
+all: hatita	tɨkɨta 
+every: hatita	tɨkɨta 
+ash: čiʔi-mišpo 
+ashes: čiʔi-mišpo 
+bark: βiči	ṣ̌aʼkata 
+big: -wa	čaʔita-ṣ̌ɨni 
+bigness: -wa	čaʔita-ṣ̌ɨni 
+large: -wa	čaʔita-ṣ̌ɨni 
+bird: isa-ka 
+bite: tɨṣ̌a- 
+black: čɨkɨ 
+blood: himi 
+bone: Sao	ṣ̌ao 
+breast: Soma	ṣ̌oma 
+breasts: Soma	ṣ̌oma 
+claw: mɨ-c̷isi 
+nail: mɨ-c̷isi 
+talon: mɨ-c̷isi 
+cloud: c̷ɨmo 
+cold: mac̷i	ṣ̌opi 
+come: b3ka	ho	ho-	βɨka- 
+come from: b3ka	ho	ho-	βɨka- 
+be dead: na	na-	r3so	rɨ-so- 
+dead: na	na-	r3so	rɨ-so- 
+die: na	na-	r3so	rɨ-so- 
+dog: ina	ina-ka	inaka 
+drink: a- 
+dry: hano-	šina- 
+ear: pa7oki	paʔoki 
+earth: mai 
+ground: mai 
+land: mai 
+soil: mai 
+eat: pi- 
+egg: βači 
+eye: b3ro	w3ro	wɨro	βɨ-ro 
+feather: pɨ-ʔi 
+fire: Ci7i	čiʔi 
+fish: Sa3	sani-no	sanino	ṣ̌aɨ 
+fly: noya- 
+fly v.: noya- 
+foot: ta-ʔɨ 
+full: r3am3	rɨamɨ	s3ya	sɨya- 
+give: a-	mɨ-a- 
+good: hia	hiaṣ̌ɨni	hɨnima 
+green: niaβa 
+hair: βoo 
+hand: m3	m3k3n3	mɨ	mɨ-kɨ-nɨ 
+left hand: m3	m3k3n3	mɨ	mɨ-kɨ-nɨ 
+right: m3	m3k3n3	mɨ	mɨ-kɨ-nɨ 
+head: ma-po 
+hear: nika	nika- 
+heart: hoiti 
+horn: mawi 
+1 sg.: ɨ	ɨa 
+I: ɨ	ɨa 
+kill: a-	kaka-	tɨpas- 
+knee: ra-poto	rapoto 
+be knowledgeable: kaʔɨ- 
+know: kaʔɨ- 
+leaf: mani	p37i	pɨ-ʔi 
+lie: raka- 
+lie down: raka- 
+liver: taka 
+long: tɨtɨka 
+head louse: ia 
+louse: ia 
+male: honi 
+man: no7iria	noʔiria 
+many: wɨstima 
+much: wɨstima 
+multiple: wɨstima 
+several: wɨstima 
+flesh: nami 
+meat: nami 
+moon: oṣ̌ɨ 
+hill: mai-tɨmači	mait3maCi	makana 
+mountain: mai-tɨmači	mait3maCi	makana 
+mouth: ha-na 
+name: han3	hanɨ 
+title: han3	hanɨ 
+neck: tɨ-poko 
+new: paSa	paṣ̌a 
+night: bakiCa	βakiča 
+nighttime: bakiCa	βakiča 
+nose: r3Saki	r3to	rɨ-ṣ̌aki 
+adulterous: vúistita	w3stita 
+one: vúistita	w3stita 
+single: vúistita	w3stita 
+that: vúistita	w3stita 
+the: vúistita	w3stita 
+unprincipled: vúistita	w3stita 
+human: no7iria	noʔiria 
+human being: no7iria	noʔiria 
+person: no7iria	noʔiria 
+rain: oi 
+rainy weather: oi 
+red: piši	šini 
+path: ba7i 
+road: ba7i 
+route: ba7i 
+root: kano	tapono 
+round: yɨβa 
+sand: maṣ̌ɨnɨ	mišpo 
+say: i-	i-kina 
+see: his	his- 
+seed: βɨro 
+sit: c̷aʔo- 
+hide: biCi	βiči 
+skin: biCi	βiči 
+sleep: oṣ̌a- 
+little: mišni	pistia 
+small: mišni	pistia 
+smallness: mišni	pistia 
+smoke: koʔini 
+star: wiStima	wištima 
+rock: maSaSa	man3k3noti 
+stone: maSaSa	man3k3noti 
+sun: bari	βari 
+swim: aši-	nono- 
+tail: hina 
+2 sg: mi-a	mia 
+thou: mi-a	mia 
+you: mi-a	mia 
+tongue: ha	ha-	ha-na	hana 
+tooth: S3ta	ṣ̌ɨ-ta 
+tree: hiwi 
+grind: dávita	rab3ta	raβɨta 
+two: dávita	rab3ta	raβɨta 
+go: ko-	koko-	βoʔona- 
+walk: ko-	koko-	βoʔona- 
+hot: waʔa- 
+warm: waʔa- 
+water: h3n3	hɨ-nɨ 
+1 pl. inc.: no	noa 
+we: no	noa 
+we₁: no	noa 
+what: hawɨ	hawɨ-ni 
+white: hoṣ̌o 
+whiteness: hoṣ̌o 
+who: c̷owɨ-ni	c̷oʔo 
+who?: c̷owɨ-ni	c̷oʔo 
+female: yoṣ̌a 
+woman: yoṣ̌a 
+yellow: šini 
+distant: nɨama	βasi 
+far: nɨama	βasi 
+dull: iwi-sɨni	iwɨ 
+heavy: iwi-sɨni	iwɨ 
+serious: iwi-sɨni	iwɨ 
+close: βasi-ma 
+near: βasi-ma 
+ner: βasi-ma 
+salt: čopara 
+short: namano	čitɨ-pistia 
+snake: rono 
+thin: siwiki 
+wind: yošini 
+earthworm: ṣ̌ɨna 
+worm: ṣ̌ɨna 
+year: ṣ̌ɨnipa 
+2 pl.: ka- 
+ye: ka- 
+you all: ka- 
+3 pl.: hato	ka- 
+they: hato	ka- 
+where: hawɨnia	haʔa	haʔɨniani 
+where?: hawɨnia	haʔa	haʔɨniani 
+when: hɨ-nino 
+when?: hɨ-nino 
+how: hɨ-nawa 
+how?: hɨ-nawa 
+few: iča-ria-ma	ičara-ma 
+three: térešen 
+broad: čaʔita-ṣ̌ɨni 
+wide: čaʔita-ṣ̌ɨni 
+wideness: čaʔita-ṣ̌ɨni 
+fat: ṣ̌ɨni 
+thick: oti 
+narrow: yamaria-pistia 
+child: βakɨ	ṣ̌oko-βo 
+principal wife: awi-ni 
+wife: awi-ni 
+husband: βɨnɨ 
+his mother: haʔiwa 
+mother: haʔiwa 
+my mother: haʔiwa 
+father: papa	ɨpa 
+his father: papa	ɨpa 
+my father: papa	ɨpa 
+animal: yoʼʔina 
+forest: niʔi 
+woods: niʔi 
+branch: hiwi poyamɨ 
+stick: hiwi poyamɨ 
+fruit: βimi 
+flower: hoa	niʔi hoa 
+grass: wasi 
+cord: niši 
+rope: niši 
+grease: ṣ̌ɨni 
+fingernail: mɨ-c̷isi 
+leg: wiko 
+wing: pɨ-ʔi 
+gut: poko 
+guts: poko 
+insides: poko 
+intestine: poko 
+intestines: poko 
+back: ka-tɨ 
+suck: c̷opaʔa- 
+spit: kɨyono 
+vomit: hana- 
+blow: ṣ̌ooʔa	ṣ̌oʔakana 
+breath: ṣ̌aka-	ṣ̌ɨo- 
+breathe: ṣ̌aka-	ṣ̌ɨo- 
+laugh: c̷iri-	osa- 
+laughter: c̷iri-	osa- 
+cogitate: šina- 
+reflect: šina- 
+think: šina- 
+smell: ṣ̌ɨtɨ- 
+sniff: ṣ̌ɨtɨ- 
+afraid: rakɨ-	ratɨ- 
+be afraid: rakɨ-	ratɨ- 
+fear: rakɨ-	ratɨ- 
+fright: rakɨ-	ratɨ- 
+alive: βɨso 
+be alive: βɨso 
+life: βɨso 
+live: βɨso 
+living: βɨso 
+fight: ikina-	niana-ʔana 
+hunt: paso- 
+beat: pɨc̷a-	čaka- 
+hit: pɨc̷a-	čaka- 
+strike: pɨc̷a-	čaka- 
+cut: c̷ɨiʔawɨ	pɨrɨṣ̌a- 
+hack: c̷ɨiʔawɨ	pɨrɨṣ̌a- 
+cut open: matoṣ̌- 
+split: matoṣ̌- 
+pierce: c̷aka- 
+stab: c̷aka- 
+dig: wɨyo- 
+tell lies: kia- 
+stand: ni-	nii- 
+turn: βopi-	βopina- 
+turn around: βopi-	βopina- 
+turn round: βopi-	βopina- 
+drop: pakɨ-	poṣ̌o- 
+fall: pakɨ-	poṣ̌o- 
+grasp: ača-	iko- 
+hold: ača-	iko- 
+hold in arm: ača-	iko- 
+squeeze: c̷iakana	nɨc̷i- 
+wring: c̷iakana	nɨc̷i- 
+rub: masa-	sino- 
+wipe: masa-	sino- 
+wash: čoko-	čoko-ʔa 
+wash clothes: čoko-	čoko-ʔa 
+push: či-mati- 
+shove: či-mati- 
+throw: nia- 
+bind: nɨa-	nɨʔa- 
+fasten: nɨa-	nɨʔa- 
+tie: nɨa-	nɨʔa- 
+tie up: nɨa-	nɨʔa- 
+sew: kɨṣ̌a- 
+sing: kɨkɨ 
+have fun: kaṣ̌a- 
+play: kaṣ̌a- 
+float: nono- 
+flow: wawa- 
+brook: ani 
+river: ani 
+stream: ani 
+lake: ia-nɨ 
+dust: mišpo 
+fog: koro 
+sky: nai-pa 
+blaze: mɨṣ̌o- 
+burn: mɨṣ̌o- 
+day: βɨaʔaina 
+daylight: βɨaʔaina 
+daytime: βɨaʔaina 
+bad: kaṣ̌aṣ̌ɨni 
+evil: kaṣ̌aṣ̌ɨni 
+rot: pisi	βoaṣ̌a 
+rotten: pisi	βoaṣ̌a 
+dirty: čɨkɨ 
+filthy: čɨkɨ 
+soiled: čɨkɨ 
+straight: mɨstɨ	siti-ṣ̌ɨni 
+sharp: kɨno	kɨno-sɨni 
+blunt: či-	čipo 
+smooth: para 
+damp: moosa-	čaaṣ̌-a 
+wet: moosa-	čaaṣ̌-a 
+correct: haʔano 
+right side: mɨ-nɨkaya 
+left: mɨ-ṣ̌oho 
+in: na-	no	ṣ̌a- 
+inside: na-	no	ṣ̌a- 
+if: roʔaṣ̌o 
+because: hakɨšpi 

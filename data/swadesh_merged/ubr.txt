@@ -1,0 +1,135 @@
+all: eŋgon 
+every: eŋgon 
+ash: itum 
+ashes: itum 
+abdomen: ja|n 
+belly: ja|n 
+big: gagami|n 
+bigness: gagami|n 
+large: gagami|n 
+bird: kiwiu 
+bite: i|gi 
+black: guguri|n 
+blood: antara	ant~ara 
+bone: anrarik 
+breast: susu	susu|n 
+breasts: susu	susu|n 
+burn: e|jojor 
+burn tr.: e|jojor 
+cloud: kasa kasa 
+cold: yagur 
+come: e|nat	nat 
+come from: e|nat	nat 
+be dead: i|rabob	rabob 
+dead: i|rabob	rabob 
+die: i|rabob	rabob 
+dog: kuke 
+drink: e|toma|n	toma 
+dry: rarani|n 
+ear: taina	taina|n 
+eat: i|ani|n 
+egg: foufou|n 
+eye: mata	mata|n 
+feather: bubuni|n 
+fire: wairaf	wakig 
+fish: ian 
+fly: e|robob 
+fly v.: e|robob 
+good: obi|n 
+green: guguri|n 
+hair: tefa|n 
+hand: ima	ima|n 
+left hand: ima	ima|n 
+right: ima	ima|n 
+head: uni|n 
+hear: e|tatain	tatain 
+1 sg.: yau 
+I: yau 
+kill: i|as|bun 
+be knowledgeable: i|sagob 
+know: i|sagob 
+leaf: roro	roro|n 
+lie: i|en|rir 
+lie down: i|en|rir 
+liver: ate	ate|n 
+long: weromi|n 
+head louse: kuta 
+louse: kuta 
+male: orot 
+man: sabu 
+moon: roke 
+mouth: awa|n 
+name: wabi	wabi|n 
+title: wabi	wabi|n 
+neck: anjo|n 
+new: boubou	boubou|n 
+night: fom 
+nighttime: fom 
+nose: aburu	aburu|n 
+adulterous: kaitamom	kaitamon 
+one: kaitamom	kaitamon 
+single: kaitamom	kaitamon 
+that: ato	nan 
+the: kaitamom	kaitamon 
+unprincipled: kaitamom	kaitamon 
+human: sabu 
+human being: sabu 
+person: sabu 
+rain: usan 
+rainy weather: usan 
+red: murori|n 
+path: eta 
+road: eta 
+route: eta 
+root: averoro|n 
+sand: gasa 
+say: e|bikafon 
+see: e|ite|n	ite 
+sit: i|mair 
+hide: usi	usi|n 
+skin: usi	usi|n 
+sleep: i|enbubur 
+little: kafakakai|n 
+small: kafakakai|n 
+smallness: kafakakai|n 
+smoke: bakur 
+star: siribod 
+rock: agim 
+stone: agim 
+swim: e|yeib 
+tail: gi|n 
+this: nin 
+2 sg: oni 
+thou: oni 
+you: oni 
+tongue: fafe	fafe|n 
+tooth: wa	wa|n 
+grind: rua	ruam	rua|m 
+two: rua	ruam	rua|m 
+go: e|bibib 
+walk: e|bibib 
+hot: forabi|n 
+warm: forabi|n 
+water: sareo 
+1 pl. inc.: ivei	ot 
+we: ivei	ot 
+we₁: ivei	ot 
+what: aifan 
+white: kakai|n 
+whiteness: kakai|n 
+who: iyafan 
+who?: iyafan 
+female: jever 
+woman: jever 
+yellow: janoioi|n 
+close: bisi|nai 
+near: bisi|nai 
+ner: bisi|nai 
+salt: kamit 
+short: dibo|n 
+snake: mota 
+thin: sisiru|n 
+wind: yabat 
+earthworm: momot 
+worm: momot 
+year: kwanda 

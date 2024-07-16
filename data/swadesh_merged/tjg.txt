@@ -1,0 +1,264 @@
+all: səmua 
+every: səmua 
+ash: ahuʔ 
+ashes: ahuʔ 
+abdomen: naiʔ 
+belly: naiʔ 
+big: hajaʔ 
+bigness: hajaʔ 
+large: hajaʔ 
+bird: əmpuluʔ 
+bite: ŋeket 
+black: pərəmaʔ 
+blood: raha7	rahaʔ 
+bone: lah 
+burn: nutuŋ 
+burn tr.: nutuŋ 
+cloud: awan 
+cold: pərəŋin 
+come: moot	mot 
+come from: moot	mot 
+be dead: matE7	mateʔ 
+dead: matE7	mateʔ 
+die: matE7	mateʔ 
+dog: koko7	kokoʔ 
+drink: muru7	muruʔ 
+dry: keheŋ 
+ear: nEnEN	neneŋ 
+eat: kuman 
+egg: talo 
+eye: uE	uee 
+feather: buluʔ 
+fire: apui	apuy 
+fish: motu7	mətuʔ 
+fly: tərbaŋ 
+fly v.: tərbaŋ 
+good: pajik 
+green: nahum 
+hair: alaw 
+hand: aNa7	aŋaʔ 
+left hand: aNa7	aŋaʔ 
+right: aNa7	aŋaʔ 
+head: kuhuŋ 
+hear: kohEnEN	kəheneŋ 
+1 sg.: ap 
+I: ap 
+kill: pakateʔ 
+be knowledgeable: togaʔ 
+know: togaʔ 
+leaf: roun 
+lie: tempoŋ 
+lie down: tempoŋ 
+liver: limpa	limp~a 
+long: moʔ 
+head louse: kutu7	kutuʔ 
+louse: kutu7	kutuʔ 
+male: lihaʔ 
+man: ulun 
+hill: gunuN 
+mountain: gunuN 
+mouth: oncoŋ 
+name: %nama	nama 
+title: %nama	nama 
+neck: lohoŋ 
+new: isai	isay 
+night: kalam 
+nighttime: kalam 
+nose: uruN	uruŋ 
+adulterous: Ca7	caʔ	ča’ 
+one: Ca7	caʔ	ča’ 
+single: Ca7	caʔ	ča’ 
+that: aneh 
+the: Ca7	caʔ	ča’ 
+unprincipled: Ca7	caʔ	ča’ 
+human: ulun 
+human being: ulun 
+person: ulun 
+rain: ucan 
+rainy weather: ucan 
+red: putiʔ 
+path: loroN	loroŋ 
+road: loroN	loroŋ 
+route: loroN	loroŋ 
+root: akar 
+sand: pasir 
+say: bagahaʔ 
+see: nEau	neaw 
+sit: dacuŋ 
+hide: kulit 
+skin: kulit 
+sleep: tiro 
+little: itit 
+small: itit 
+smallness: itit 
+smoke: əncun 
+star: bintaŋ	bint~aN 
+rock: batu7	batuʔ 
+stone: batu7	batuʔ 
+sun: uEnau 
+swim: karaŋoy 
+tail: iŋkot 
+this: itih 
+2 sg: ko7	koʔ 
+thou: ko7	koʔ 
+you: ko7	koʔ 
+tongue: CEla7	celaʔ 
+tooth: kosiN	kəsiŋ 
+tree: loNan kaju 
+grind: roga7	rəgaʔ	rʌga’ 
+two: roga7	rəgaʔ	rʌga’ 
+go: calan 
+walk: calan 
+hot: pəraŋ 
+warm: pəraŋ 
+water: anum 
+1 pl. inc.: kamiʔ	tai	tay 
+we: kamiʔ	tai	tay 
+we₁: kamiʔ	tai	tay 
+what: ñama 
+white: bohoŋ 
+whiteness: bohoŋ 
+who: uña 
+who?: uña 
+female: waweʔ 
+woman: waweʔ 
+yellow: kuniŋ 
+distant: əncoʔ 
+far: əncoʔ 
+dull: bahat 
+heavy: bahat 
+serious: bahat 
+close: totoʔ 
+near: totoʔ 
+ner: totoʔ 
+salt: cehaʔ 
+short: idok 
+snake: nipaʔ 
+thin: tipi 
+wind: waheo 
+earthworm: halaŋ 
+worm: halaŋ 
+year: taun 
+2 pl.: kam 
+ye: kam 
+you all: kam 
+3 pl.: araʔ ɑneh 
+they: araʔ ɑneh 
+where: diña 
+where?: diña 
+when: pinan 
+when?: pinan 
+how: ŋameña 
+how?: ŋameña 
+other: lain 
+three: təlu	tʌlu 
+four: paat	pat 
+five: lima’ 
+broad: lajah 
+wide: lajah 
+wideness: lajah 
+fat: loaʔ 
+thick: kapar 
+narrow: səmpit 
+principal wife: sagan 
+wife: sagan 
+husband: wanaʔ 
+his mother: meʔ 
+mother: meʔ 
+my mother: meʔ 
+father: maʔ 
+his father: maʔ 
+my father: maʔ 
+forest: talun 
+woods: talun 
+fruit: ugan 
+flower: uŋan 
+grass: uruʔ 
+cord: taliʔ 
+rope: taliʔ 
+flesh: usiʔ 
+meat: usiʔ 
+grease: loaʔ 
+wing: ekap 
+gut: usiʔ ŋaiʔ 
+guts: usiʔ ŋaiʔ 
+insides: usiʔ ŋaiʔ 
+intestine: usiʔ ŋaiʔ 
+intestines: usiʔ ŋaiʔ 
+back: puŋuŋ 
+suck: mosoʔ 
+spit: məcuh 
+vomit: notaʔ 
+blow: bərtiup 
+breath: ŋasaŋ 
+breathe: ŋasaŋ 
+laugh: tagaʔ 
+laughter: tagaʔ 
+cogitate: pikir 
+reflect: pikir 
+think: pikir 
+smell: karak 
+sniff: karak 
+afraid: bihin 
+be afraid: bihin 
+fear: bihin 
+fright: bihin 
+alive: bəlum 
+be alive: bəlum 
+life: bəlum 
+live: bəlum 
+living: bəlum 
+hunt: mahaw 
+beat: bajagur 
+hit: bajagur 
+strike: bajagur 
+cut: motok 
+hack: motok 
+cut open: məkaʔ 
+split: məkaʔ 
+pierce: mancak 
+stab: mancak 
+scratch: ŋərogot 
+dig: ŋaliʔ 
+stand: tege 
+drop: tatuy 
+fall: tatuy 
+grasp: neŋkat 
+hold: neŋkat 
+hold in arm: neŋkat 
+squeeze: pəras 
+wring: pəras 
+throw: noak 
+bind: məcat 
+fasten: məcat 
+tie: məcat 
+tie up: məcat 
+sew: ŋabet 
+count: milaŋ 
+enumerate: milaŋ 
+number: milaŋ 
+tally: milaŋ 
+lake: kənohan 
+ocean: launt 
+sea: launt 
+dust: dəbu 
+fog: əmun 
+sky: laŋit 
+bad: kaheʔ pajik 
+evil: kaheʔ pajik 
+rot: buruk 
+rotten: buruk 
+dirty: marotaʔ 
+filthy: marotaʔ 
+soiled: marotaʔ 
+sharp: masuk 
+blunt: kacar 
+damp: bisaʔ 
+wet: bisaʔ 
+right side: tauʔ 
+left: ulay 
+at: deʔ 
+in: deʔ lam 
+inside: deʔ lam 
+and: dan 
+if: kalaw 

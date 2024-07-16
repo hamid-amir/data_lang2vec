@@ -1,0 +1,273 @@
+all: kuuya 
+and: ano 
+animal: osoŋ 
+arm: boro 
+ashes: toːk | toʼoʔ	toːk 
+ashes: to\oʔ | toʼoʔ	toːk 
+ashes: took | toʼoʔ	toːk 
+back: gemasit- 
+bark: sele 
+belly: keri- 
+big: somata 
+bird: koːŋ 
+bird: koong | koːŋ 
+bite: ki- 
+black: indzanga | indzaŋa 
+black: indzaŋa 
+blood: saya | sa	saya- 
+blood: saya- | sa	saya- 
+blow: uː- 
+blow: uu- 
+bone: siita- | si	silʔ	siːta- 
+bone: silʔ | si	silʔ	siːta- 
+bone: siːta- | si	silʔ	siːta- 
+breast: adzu- | adzu-	toto 
+breathe: osonggong- 
+breathe: osoŋgoŋ 
+brother: dat 
+brother: dat- 
+burn: dze- 
+claw: kosi- 
+cloud: koosuk | koːsuk 
+cloud: koːsuk 
+cold: olonga | oloŋa 
+cold: oloŋa 
+come: waː- | ka	waː- 
+come: waa- | ka	waː- 
+count: weenggo- 
+count: weːŋgo- 
+cut: koto- 
+die: komu- | komu	komu- 
+dig: togungken- 
+dig: toguŋken- 
+dog: kasu | kasu	kasuk 
+dog: kasuk | kasu	kasuk 
+dry: tobori- 
+dust: ilawela 
+ear: gedza- | geca	gedza-	gedzi 
+ear: gedzi | geca	gedza-	gedzi 
+earth: namok 
+eat: ne- 
+eye: dzaː- | ca	dzaː- 
+eye: dzaa- | ca	dzaː- 
+fall: kamaː- 
+fall: kamaa- 
+father: nemung- 
+father: nemuŋ- 
+fat (n.): kelega 
+fat (n.): kelega- 
+fingernail: kosoʔ 
+fire: gereʔ | gera	gereʔ 
+flower: dzura- 
+foot: kani- 
+fruit: ong- 
+fruit: oŋ- 
+full: saa kpe- | sa	saʼapke	saːkpe- 
+full: sa\apke | sa	saʼapke	saːkpe- 
+full: saːkpe- | sa	saʼapke	saːkpe- 
+give: non- 
+good: auaː 
+good: auaa | auaː 
+green: asong asong | asoŋ asoŋ 
+green: asoŋ asoŋ 
+hair: dzu | dzu	dzui- 
+hair: dzui- | dzu	dzui- 
+hand: borok | boro	borok 
+head: osoga | osoga-	waŋ 
+head: osoga- | osoga-	waŋ 
+head: waŋ | osoga-	waŋ 
+heart: bakota 
+he/she: e 
+he/she: i 
+hit: kpe- 
+hold: me- 
+how: nomaing 
+how: nomaiŋ 
+I: ni 
+knee: siming- | simiN	simiŋ- 
+knee: simiŋ- | simiN	simiŋ- 
+know: mo- 
+lake: anggong 
+lake: aŋgoŋ 
+laugh: dzomo- 
+leaf: seng- | seŋ-	siN	siŋ 
+leaf: seŋ- | seŋ-	siN	siŋ 
+leaf: siŋ | seŋ-	siN	siŋ 
+left: kanik 
+left: kpani 
+leg: kani 
+long: koriga 
+louse: imong | imeN 
+louse: imoŋ | imeN 
+louse: imɔŋ | imeN 
+man: edzak | ecemb~a 
+many: mamagu 
+meat: busi- 
+moon: koing | koiŋ 
+moon: koiŋ 
+mother: mang- 
+mother: maŋ- 
+mother: namo 
+mountain: baanga | baNa	baːŋa 
+mountain: baːŋa | baNa	baːŋa 
+mouth: kpa\a | kpaʼa 
+name: dzakota | dzakota	kpat	kp~a 
+name: kpat | dzakota	kpat	kp~a 
+neck: are- 
+new: gbili | gbili	gbilia	gb~ilia 
+new: gbilia | gbili	gbilia	gb~ilia 
+night: ketek | gomantiNa	ketek 
+nose: sewang- | nendu	sewaN	sewaŋ- 
+not: mende 
+old: kerugaha 
+one: motoːŋgok | motoNg~o	motongo	motoːŋgok 
+one: motoonggok | motoNg~o	motongo	motoːŋgok 
+play: aonggolok 
+play: aoŋgolok 
+pull: oro- 
+push: kpetanoke- 
+rain: kong | koŋ 
+rain: koŋ 
+red: osoga 
+right: orowak | boro	borok 
+road: kana 
+road: kanak 
+root: tiita- | tiːta- 
+root: tiːta- 
+rope: dzowak 
+round: lilik lilik 
+sand: sakasing | sakasiŋ 
+sand: sakasiŋ 
+say: dzo- 
+seed: kota- 
+see: niː- | i	niː- 
+see: nii- | i	niː- 
+sew: euŋme- 
+short: torodaamong | torodaːmoŋ 
+short: torodaːmoŋ 
+sister: naang- 
+sister: naːŋ- 
+sister: naɔŋ 
+sit: ra- 
+skin: sele- | sele	sele- 
+sky: siwek 
+sleep: e- 
+small: meraak | meraːk 
+small: meraːk 
+smoke: ha\asoʔ | haʼasoʔ	kaːsok 
+smoke: kaasok | haʼasoʔ	kaːsok 
+smoke: kaːsok | haʼasoʔ	kaːsok 
+snake: mokoleng | mokoleŋ 
+snake: mokoleŋ 
+some: tosi- 
+spit: sula\aʔ 
+spit: sulaak- 
+stand: nan- 
+star: senggeeu | seNg~elao	sɛŋgelau 
+star: sɛŋgelau | seNg~elao	sɛŋgelau 
+stick: taak 
+stone: dzamok | camo	dzamok 
+straight: dindiŋa 
+suck: bugo- 
+sun: weeng | weN	weːŋ 
+sun: weːŋ | weN	weːŋ 
+swell: somaro- 
+tail: dai 
+tail: dai- 
+that: lo 
+there: endu 
+they: iongongong 
+they: ioŋoŋoŋ 
+this: i 
+thou: gi 
+thou: i | gi 
+thou: oŋo | gi 
+throw: mesao- 
+tie: somoŋgo 
+tongue: neselang- | neselaN	neselaŋ- 
+tongue: neselaŋ- | neselaN	neselaŋ- 
+tooth: dzot- | co	dzot- 
+tree: ik | karoN	karowoN 
+turn: meleen- 
+turn: meneːn- 
+two: woik | woi	woic	woik 
+vomit: lon- 
+warm: gerek | geriawok 
+warm: geriawok 
+wash: songbang- 
+wash: soŋgbaŋ- 
+water: apuk | apu	apuk	o 
+water: o | apu	apuk	o 
+weep: saː- 
+weep: saa- 
+we: nɔ | nono 
+we: nono 
+what: namungak | namuŋak 
+what: namuŋak 
+where: daangeng 
+where: daːŋeŋ 
+white: tataangkota | tataːŋkota 
+white: tataːŋkota 
+who: mong | moŋ 
+who: moŋ 
+wind: ha\amoʔ | haʼamoʔ	haːmok 
+wind: haamok | haʼamoʔ	haːmok 
+wind: haːmok | haʼamoʔ	haːmok 
+wing: aŋgaŋ 
+wing: enggang- 
+wing: eŋgaŋ- 
+woman: embak 
+wood: taːk 
+worm: genambeŋ 
+yellow: gogoːkota 
+yellow: gogookota | gogoːkota 
+you: ongo | gi 
+ash: toʼoʔ	toːk 
+abdomen: keri- 
+bigness: somata 
+large: somata 
+breasts: adzu-	toto 
+nail: kosi- 
+talon: kosi- 
+come from: ka	waː- 
+be dead: komu	komu- 
+dead: komu	komu- 
+drink: ne 
+fish: sora 
+left hand: boro	borok 
+hear: mo 
+horn: ili 
+1 sg.: ni 
+be knowledgeable: mo- 
+liver: ba 
+head louse: imeN 
+male: edzak 
+much: mamagu 
+multiple: mamagu 
+several: mamagu 
+hill: baNa	baːŋa 
+title: dzakota	kpat	kp~a 
+nighttime: gomantiNa	ketek 
+adulterous: motoNg~o	motongo	motoːŋgok 
+single: motoNg~o	motongo	motoːŋgok 
+the: motoNg~o	motongo	motoːŋgok 
+unprincipled: motoNg~o	motongo	motoːŋgok 
+human: ecemb~a 
+human being: ecemb~a 
+person: ecemb~a 
+rainy weather: koŋ 
+path: kana 
+route: kana 
+hide: sele	sele- 
+little: meraːk 
+smallness: meraːk 
+rock: camo	dzamok 
+2 sg: gi 
+grind: woi	woic	woik 
+hot: geriawok 
+1 pl. inc.: nono 
+we₁: nono 
+whiteness: tataːŋkota 
+who?: moŋ 
+female: embak 
+earthworm: genambeŋ 

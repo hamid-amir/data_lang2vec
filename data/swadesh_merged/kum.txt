@@ -1,0 +1,308 @@
+all: бары да 
+every: бары да 
+ash: кюл 
+ashes: кюл 
+bark: къабукъ 
+big: уллу 
+bigness: уллу 
+large: уллу 
+bird: жан	къуш 
+bite: хапмакъ 
+black: къара 
+blood: qan	къан 
+bone: siek	сюек 
+breast: emCek	kekirek	кёкюрек	эмчек 
+breasts: emCek	kekirek	кёкюрек	эмчек 
+claw: тырнакъ 
+nail: тырнакъ 
+talon: тырнакъ 
+cloud: булут 
+cold: сувукъ 
+come: gel	гелмек 
+come from: gel	гелмек 
+be dead: el	битлик	гечинмек	оьлмек	оьлю 
+dead: el	битлик	гечинмек	оьлмек	оьлю 
+die: el	битлик	гечинмек	оьлмек	оьлю 
+dog: it	ит 
+drink: iC	ичмек 
+dry: къуру 
+ear: qulaq	къулакъ 
+earth: ер	уьлке 
+ground: ер	уьлке 
+land: ер	уьлке 
+soil: ер	уьлке 
+eat: ашамакъ 
+egg: йымырткъа 
+eye: gez	гёз 
+feather: къанат 
+fire: ot	от 
+fish: Cabaq	bal3q	балыкъ	чабакъ 
+fly: учмакъ 
+fly v.: учмакъ 
+foot: аякъны тюбю 
+full: tolu	толу 
+give: бермек 
+good: арив	яхшы 
+green: яшыл 
+hair: чач 
+hand: qol	къол 
+left hand: qol	къол 
+right: qol	къол 
+head: баш 
+hear: eSit	эшитмек 
+heart: юрек 
+horn: miyiz	miz	мююз 
+1 sg.: men	мен 
+I: men	мен 
+kill: оьлтюрмек 
+knee: tobuq	тобукъ 
+be knowledgeable: билмек 
+know: билмек 
+leaf: yap3raq	япыракъ 
+lie: ятмакъ 
+lie down: ятмакъ 
+liver: bavur	бавур 
+long: узун 
+head louse: bit	бит 
+louse: bit	бит 
+male: эргиши	эркек 
+man: giSi	адам	гиши	инсан 
+many: кёп 
+much: кёп 
+multiple: кёп 
+several: кёп 
+flesh: къаркъара 
+meat: къаркъара 
+moon: ай 
+hill: tav	tebe	тав	тёбе 
+mountain: tav	tebe	тав	тёбе 
+mouth: авуз 
+name: at	ат 
+title: at	ат 
+neck: боюн 
+new: yaN3	yang3	янгы 
+night: geCe	гече 
+nighttime: geCe	гече 
+nose: burun	бурун 
+adulterous: bir 
+one: bir 
+single: bir 
+that: bir 
+the: bir 
+unprincipled: bir 
+human: giSi	адам	гиши	инсан 
+human being: giSi	адам	гиши	инсан 
+person: giSi	адам	гиши	инсан 
+rain: явун	янгур 
+rainy weather: явун	янгур 
+red: къызыл 
+path: soqmaq 
+road: soqmaq 
+route: soqmaq 
+root: тамур 
+round: дёгерек 
+sand: къайыр	хум 
+say: айтмакъ 
+see: ger	гёрмек 
+seed: урлукъ 
+sit: олтурмакъ 
+hide: teri	тери 
+skin: teri	тери 
+sleep: юхламакъ 
+little: гиччи 
+small: гиччи 
+smallness: гиччи 
+smoke: тютюн 
+star: yulduz	юлдуз 
+rock: qaya	taS	къая	таш 
+stone: qaya	taS	къая	таш 
+sun: gin	gineS	гюн	гюнеш 
+swim: юзмек 
+tail: къуйрукъ 
+2 sg: siz	сиз 
+thou: siz	сиз 
+you: siz	сиз 
+tongue: til	тил 
+tooth: tiS	тиш 
+tree: terek 
+grind: eki	эки 
+two: eki	эки 
+go: юрюмек 
+walk: юрюмек 
+hot: йылы 
+warm: йылы 
+water: suv	сув 
+1 pl. inc.: biz	биз 
+we: biz	биз 
+we₁: biz	биз 
+white: акъ 
+whiteness: акъ 
+female: къатынгиши	тиштайпа 
+woman: къатынгиши	тиштайпа 
+yellow: сари 
+distant: йыракъ 
+far: йыракъ 
+dull: авур 
+heavy: авур 
+serious: авур 
+close: къырыйда	янаша 
+near: къырыйда	янаша 
+ner: къырыйда	янаша 
+salt: туз 
+short: къысгъа 
+snake: йылан 
+thin: инче	назик 
+wind: ел 
+earthworm: хурт 
+worm: хурт 
+year: йыл 
+2 pl.: сиз 
+ye: сиз 
+you all: сиз 
+3 pl.: олар 
+they: олар 
+some: бир нече 
+few: аз 
+three: уьч 
+four: дёрт 
+five: беш 
+broad: генг 
+wide: генг 
+wideness: генг 
+fat: май	яв 
+thick: базыкъ 
+narrow: инче	назик	тар 
+child: бала	сабий	яш 
+principal wife: къатын 
+wife: къатын 
+husband: эр 
+his mother: ана 
+mother: ана 
+my mother: ана 
+father: ата 
+his father: ата 
+my father: ата 
+animal: гьайван	жан 
+forest: агъачлыкъ	орманлыкъ 
+woods: агъачлыкъ	орманлыкъ 
+branch: бутакъ 
+stick: бутакъ 
+fruit: емиш 
+flower: чечек 
+grass: от	халта 
+cord: йип 
+rope: йип 
+grease: май	яв 
+fingernail: тырнакъ 
+leg: аякъ 
+wing: къанат 
+gut: ичеклер 
+guts: ичеклер 
+insides: ичеклер 
+intestine: ичеклер 
+intestines: ичеклер 
+back: аркъа	сырт 
+suck: ичине сингдирмек	сормакъ 
+spit: тюкюрмек	тюкюрюк 
+vomit: къусугъу гелмек 
+blow: уьфюрмек 
+breath: тыныш алмакъ 
+breathe: тыныш алмакъ 
+laugh: кюлемек 
+laughter: кюлемек 
+cogitate: ойлашмакъ 
+reflect: ойлашмакъ 
+think: ойлашмакъ 
+smell: ийислемек 
+sniff: ийислемек 
+afraid: къоркъув 
+be afraid: къоркъув 
+fear: къоркъув 
+fright: къоркъув 
+alive: сав	яшав	яшамакъ 
+be alive: сав	яшав	яшамакъ 
+life: сав	яшав	яшамакъ 
+live: сав	яшав	яшамакъ 
+living: сав	яшав	яшамакъ 
+fight: дав этмек	ябушмакъ 
+hunt: гьав этмек 
+beat: урмакъ 
+hit: урмакъ 
+strike: урмакъ 
+cut: гесмек 
+hack: гесмек 
+cut open: ярмакъ 
+split: ярмакъ 
+pierce: чанчып оьлтюрмек 
+stab: чанчып оьлтюрмек 
+dig: тамдырмакъ 
+tell lies: ялгъан айтмакъ 
+stand: эретурмакъ 
+turn: ачып	чечмек	яймакъ 
+turn around: ачып	чечмек	яймакъ 
+turn round: ачып	чечмек	яймакъ 
+drop: авмакъ	йыгъылмакъ	тюшмек 
+fall: авмакъ	йыгъылмакъ	тюшмек 
+grasp: тутмакъ 
+hold: тутмакъ 
+hold in arm: тутмакъ 
+squeeze: сыкъмакъ 
+wring: сыкъмакъ 
+rub: ишып иайдырмакъ	сибирмек 
+wipe: ишып иайдырмакъ	сибирмек 
+wash: жувмакъ 
+wash clothes: жувмакъ 
+push: тебермек 
+shove: тебермек 
+throw: атмакъ	ташламакъ 
+bind: байламакъ 
+fasten: байламакъ 
+tie: байламакъ 
+tie up: байламакъ 
+sew: тикмек 
+count: санамакъ 
+enumerate: санамакъ 
+number: санамакъ 
+tally: санамакъ 
+sing: йырламакъ 
+have fun: ойнамакъ 
+play: ойнамакъ 
+float: юзмек 
+flow: къуюлмакъ	тёгюлмек 
+brook: оьзек	оьзен	ташгъын 
+river: оьзек	оьзен	ташгъын 
+stream: оьзек	оьзен	ташгъын 
+lake: кёл 
+ocean: денгиз 
+sea: денгиз 
+dust: чанг 
+fog: туман 
+sky: кёк 
+snow: къар 
+ice: буз	бузлавукъ 
+blaze: янмакъ 
+burn: янмакъ 
+day: гюн 
+daylight: гюн 
+daytime: гюн 
+bad: яман 
+evil: яман 
+rot: чирик 
+rotten: чирик 
+dirty: нас 
+filthy: нас 
+soiled: нас 
+straight: тувра	тюз 
+sharp: итти 
+blunt: англавсуз	томакъ	топас 
+smooth: тегиш	тюз 
+damp: бавукъ	дым	изгъар	сув 
+wet: бавукъ	дым	изгъар	сув 
+correct: герти	тюз 
+right side: онг 
+left: сол 
+in: ичинде 
+inside: ичинде 
+and: ва 
+if: эгер 
+because: неге тюгюл 

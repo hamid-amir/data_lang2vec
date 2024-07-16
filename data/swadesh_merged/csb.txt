@@ -1,0 +1,330 @@
+all: kòżdi 
+every: kòżdi 
+ash: pòpiół 
+ashes: pòpiół 
+bark: kóra 
+abdomen: brzëch	żot 
+belly: brzëch	żot 
+big: wiôldżi 
+bigness: wiôldżi 
+large: wiôldżi 
+bird: ptôch 
+bite: grëzc 
+black: czôrny 
+blood: krEv	krew 
+bone: gnôt 
+breast: piers 
+breasts: piers 
+cloud: blóna 
+cold: zëmny 
+come: nadE5c	przëchôdac 
+come from: nadE5c	przëchôdac 
+be dead: mry~ec	ùmierac 
+dead: mry~ec	ùmierac 
+die: mry~ec	ùmierac 
+dog: pies	py~Es 
+drink: pic 
+dry: sëchi 
+ear: wuxwo	ùchò 
+earth: zemia 
+ground: zemia 
+land: zemia 
+soil: zemia 
+eat: jesc 
+egg: jajco 
+eye: wokwo	òkò 
+feather: pióro 
+fire: wojin	òdżin 
+fish: r3ba	rëba 
+fly: lôtac 
+fly v.: lôtac 
+foot: stopa 
+full: fùl	pEwEn 
+give: dôwac 
+good: dobri 
+green: zelony 
+hair: włosë 
+hand: garsc	ra*ka 
+left hand: garsc	ra*ka 
+right: garsc	ra*ka 
+head: głowa 
+hear: czëc 
+heart: serce 
+horn: rog	róg 
+1 sg.: jô	ya 
+I: jô	ya 
+kill: zabijac 
+knee: kòlano 
+be knowledgeable: wiedzec 
+know: wiedzec 
+leaf: lëst 
+liver: wątroba 
+long: dłudżi 
+head louse: wsza 
+louse: wsza 
+male: chłop 
+man: człowiek 
+many: wiele 
+much: wiele 
+multiple: wiele 
+several: wiele 
+moon: miesądz 
+hill: Zma	góra 
+mountain: Zma	góra 
+mouth: flaba	gãba	munia 
+name: miono	yimy~a*	yimy~ono 
+title: miono	yimy~a*	yimy~ono 
+neck: szëja 
+new: novi	nowi 
+night: noc 
+nighttime: noc 
+nose: cnik	nos 
+not: ni	nie	nié 
+adulterous: jeden	yEdEn 
+one: jeden	yEdEn 
+single: jeden	yEdEn 
+that: tam ta	tam ten	tam to 
+the: jeden	yEdEn 
+unprincipled: jeden	yEdEn 
+human: człowiek 
+human being: człowiek 
+person: człowiek 
+rain: deszcz 
+rainy weather: deszcz 
+red: czerwòny 
+path: darga	droga	stEgna 
+road: darga	droga	stEgna 
+route: darga	droga	stEgna 
+root: kòrzéń	kùrdzel 
+round: òkrãgłi 
+sand: piôsk 
+say: gôdac 
+see: widzec 
+seed: semiã	semiónkò 
+sit: sadac 
+hide: skóra 
+skin: skóra 
+sleep: spac 
+little: môłi 
+small: môłi 
+smallness: môłi 
+smoke: dim 
+star: gwiôzda 
+rock: kam 
+stone: kam 
+sun: swu5cE	słuńce 
+swim: płëwac 
+tail: trëpa	ògón 
+this: ta	ten	to 
+2 sg: t3	të	wë 
+thou: t3	të	wë 
+you: t3	të	wë 
+tongue: jãzëk 
+tooth: ząb 
+tree: dry~Evwo	drzéwiã 
+grind: dva	dwa 
+two: dva	dwa 
+go: jic 
+walk: jic 
+hot: cepłi 
+warm: cepłi 
+water: woda	wòda 
+1 pl. inc.: m3	ma	më 
+we: m3	ma	më 
+we₁: m3	ma	më 
+what: co 
+white: biôłi 
+whiteness: biôłi 
+who: chto 
+who?: chto 
+female: białka 
+woman: białka 
+yellow: żôłti 
+distant: daleczi 
+far: daleczi 
+dull: cãżczi 
+heavy: cãżczi 
+serious: cãżczi 
+close: blisczi	blëżny	krótczi 
+near: blisczi	blëżny	krótczi 
+ner: blisczi	blëżny	krótczi 
+salt: sól 
+short: krótczi 
+snake: wąż 
+thin: cenczi 
+wind: wiater 
+earthworm: robôk 
+worm: robôk 
+year: rok 
+3 sg.: òn 
+he: òn 
+she: òn 
+2 pl.: wa	wë 
+ye: wa	wë 
+you all: wa	wë 
+3 pl.: òni 
+they: òni 
+here: tu 
+there: tam 
+where: dze 
+where?: dze 
+when: czedë 
+when?: czedë 
+how: jak 
+how?: jak 
+some: czile 
+few: mało 
+other: jinszi	jiny 
+three: trzë	třë 
+four: sztërë	štërë 
+five: piãc	pjińc 
+broad: szeroczi 
+wide: szeroczi 
+wideness: szeroczi 
+fat: sadło	tłëst 
+thick: gãsti 
+narrow: wąsczi 
+child: dzeckò 
+principal wife: białka	slëbnô 
+wife: białka	slëbnô 
+husband: chłop	slëbny 
+his mother: mëma 
+mother: mëma 
+my mother: mëma 
+father: òjc 
+his father: òjc 
+my father: òjc 
+animal: zwiérz 
+forest: las 
+woods: las 
+branch: czij 
+stick: czij 
+fruit: brzôd 
+flower: kwiat 
+grass: trôwa 
+cord: lina	sznur 
+rope: lina	sznur 
+flesh: miãso 
+meat: miãso 
+grease: sadło	tłëst 
+claw: nokc	paznokc 
+fingernail: nokc	paznokc 
+nail: nokc	paznokc 
+leg: noga 
+arm: rãka 
+wing: skrzidło 
+gut: brzëchòwina	flaczi	wątpia 
+guts: brzëchòwina	flaczi	wątpia 
+insides: brzëchòwina	flaczi	wątpia 
+intestine: brzëchòwina	flaczi	wątpia 
+intestines: brzëchòwina	flaczi	wątpia 
+back: plecë 
+suck: cëcac 
+spit: plëwac 
+vomit: blékac	wonôtowac	wracac 
+blow: dic 
+breath: òddichac 
+breathe: òddichac 
+laugh: smiac sã 
+laughter: smiac sã 
+cogitate: dëdac	mëslëc 
+reflect: dëdac	mëslëc 
+think: dëdac	mëslëc 
+smell: cknąc 
+sniff: cknąc 
+afraid: bòjec sã 
+be afraid: bòjec sã 
+fear: bòjec sã 
+fright: bòjec sã 
+alive: żëc 
+be alive: żëc 
+life: żëc 
+live: żëc 
+living: żëc 
+fight: biôtkòwac 
+hunt: jachtowac 
+beat: ùderzëc 
+hit: ùderzëc 
+strike: ùderzëc 
+cut: cyc	cąc	rznąc	sekac 
+hack: cyc	cąc	rznąc	sekac 
+cut open: rozdzelac	rozparłãczac 
+split: rozdzelac	rozparłãczac 
+pierce: kolnąc	pchnąc	seknąc 
+stab: kolnąc	pchnąc	seknąc 
+scratch: drapac	skrobac 
+dig: kòpac	rëc 
+lie: leżec 
+lie down: leżec 
+tell lies: leżec 
+stand: wstawac 
+turn: skrãcac 
+turn around: skrãcac 
+turn round: skrãcac 
+drop: pôdac 
+fall: pôdac 
+grasp: trzëmac 
+hold: trzëmac 
+hold in arm: trzëmac 
+squeeze: scëskac 
+wring: scëskac 
+rub: trzéc 
+wipe: wëcerac 
+wash: mëc 
+wash clothes: mëc 
+pull: cygnąc 
+push: pchac 
+shove: pchac 
+throw: cëskac 
+bind: rzeszëc 
+fasten: rzeszëc 
+tie: rzeszëc 
+tie up: rzeszëc 
+sew: szëc 
+count: rechòwac 
+enumerate: rechòwac 
+number: rechòwac 
+tally: rechòwac 
+sing: spiéwac 
+have fun: grac 
+play: grac 
+float: płëwac 
+flow: płënąc 
+freeze: miarznąc 
+swell: pùchnąc 
+brook: rzéka 
+river: rzéka 
+stream: rzéka 
+lake: jezero 
+ocean: mòrze 
+sea: mòrze 
+dust: pich 
+fog: dôka 
+sky: niebò 
+snow: sniég 
+ice: lód 
+blaze: pôlëc 
+burn: pôlëc 
+day: dzéń 
+daylight: dzéń 
+daytime: dzéń 
+old: stôri 
+bad: lëchi	złi 
+evil: lëchi	złi 
+rot: zgniti 
+rotten: zgniti 
+dirty: brëdny	nielusy 
+filthy: brëdny	nielusy 
+soiled: brëdny	nielusy 
+straight: prosti 
+sharp: òstri 
+blunt: tãpi 
+smooth: głôdczi	równy 
+damp: mòkri 
+wet: mòkri 
+correct: bezzmiłkòwi 
+right side: prawi 
+left: lewi 
+at: kòl	kòle	przë 
+if: jeżlë	żelë 
+because: bò	ga	kò 

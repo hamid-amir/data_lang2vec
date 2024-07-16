@@ -1,0 +1,493 @@
+all: bugmag 
+and: rapa 
+ankle: ɟininibele 
+arm: maṇḍaɟiri 
+ashes: balug 
+back: baːnugnuyu | bimaɟiri 
+back: bim | bimaɟiri 
+back: bimaɟiri 
+bad: angiɾɛdɛ | angiɾɛdɛ	mun-nera	nera 
+bad: (mun-)nera | angiɾɛdɛ	mun-nera	nera 
+bark: anmaliyire 
+because: ŋaḍawa | ŋaḍawa 
+belly: gɔiɟila | goɟula 
+belly: gɔiɟila- | goɟula 
+belly: goɟula 
+belly: ŋaburba | goɟula 
+big: anmuṇo | anmuṇo	wana 
+big: wana | anmuṇo	wana 
+bird: minɟag 
+bite: ɟaḷɟaḷɟa | girire ŋana 
+bite: girire ŋana 
+bite: ɟilamɟa | girire ŋana 
+bitter: ŋabaːneriɟiŋa 
+black: anguŋunɟu 
+blood: ɟawa | mangaraba	maniNan	maniŋan	maṇiŋan 
+blood: mangaraba | mangaraba	maniNan	maniŋan	maṇiŋan 
+blood: maniŋan | mangaraba	maniNan	maniŋan	maṇiŋan 
+blood: maṇiŋan | mangaraba	maniNan	maniŋan	maṇiŋan 
+blow: gunuguyɔɟɔ | -maimbɔ 
+blow: -maimbɔ 
+bone: munmaːma | ToLa //	mama	munmaːma	nunmama	ŋumana 
+bone: ŋumana | ToLa //	mama	munmaːma	nunmama	ŋumana 
+bone: nunmama | ToLa //	mama	munmaːma	nunmama	ŋumana 
+boy: angɔlenbɔ 
+boy: yawurin 
+branch: miṇagaɟiri | miṇagaɟiri 
+breast: ŋamaŋama | NamaNama	ŋamaŋama 
+breathe: ŋɛgna 
+brother: ɟapa 
+brother: ŋanguroːno 
+brother: ŋanuwala 
+brother: woḷa 
+burn: ŋanuwɔ | ra	ŋanuwɔ 
+burn: nuŋuɟo | ra	ŋanuwɔ 
+burn: ra | ra	ŋanuwɔ 
+burn: yalpa | ra	ŋanuwɔ 
+butterfly: buṇbe 
+calf: banda 
+cheek: reːma- 
+chest: murba- 
+child: angɔlinbɔ | delipa	ŋalaŋa 
+child: delipa | delipa	ŋalaŋa 
+child: ŋalaŋa | delipa	ŋalaŋa 
+chin: ɟabara- 
+cloud: ŋɔbbaru 
+cold: ɟiŋa | mɛṇ ŋumungurubar-	ɟiŋa? 
+cold: mɛṇ ŋumungurubar- | mɛṇ ŋumungurubar-	ɟiŋa? 
+come: -boːya | -boːya	boy 
+correct: -ɛɟinuwa 
+crocodile: marɟila 
+cut: -gɔːndɔ | -gɔːndɔ	goṇḍu 
+cut: goṇḍu | -gɔːndɔ	goṇḍu 
+cut: goṇḍu-ṇḍa | -gɔːndɔ	goṇḍu 
+dark: anamuɲa 
+dark: munya 
+daughter: ŋaniɲaɲa 
+daughter: walkuɹ̣ 
+day: balŋga | reŋareŋa	ɟigarariɟe 
+day: ɟigarariɟe | reŋareŋa	ɟigarariɟe 
+day: reŋareŋa | reŋareŋa	ɟigarariɟe 
+die: awɛrimiye | -wɛrimi-	Tuwa	ɟuwa 
+die: minabáwuno | -wɛrimi-	Tuwa	ɟuwa 
+die: ɟuwa | -wɛrimi-	Tuwa	ɟuwa 
+die: -wɛrimi- | -wɛrimi-	Tuwa	ɟuwa 
+dig: gapaɟa | -garmuŋa	gapaɟa 
+dig: -garmuŋa | -garmuŋa	gapaɟa 
+dig: ɟunumba | -garmuŋa	gapaɟa 
+dirty: anguŋunɟu | an-guŋunɟu	buṇiɲa 
+dirty: buṇiɲa | an-guŋunɟu	buṇiɲa 
+dog: gulukula | gulukula	gulukula //	watuNa	waḍaŋa 
+dog: waḍaŋa | gulukula	gulukula //	watuNa	waḍaŋa 
+drink: -ba- | -ba-	bay // bay	wuLTa 
+dry: anmɔlmɔ 
+ear: bɔŋura | bɔŋura	gelama 
+ear: gelama | bɔŋura	gelama 
+earth: ɟel 
+earth: ɟɛl 
+eat: -ba- | -ba-	bay 
+eat: bay | -ba-	bay 
+egg: gaburo | mangiya 
+egg: mangiya 
+elbow: ɟinmibili 
+emu: wurbaṇ 
+eye: galgiɲ | Nambul	galgiɲ	mipila //	miːbele	munbara //	nambala 
+eye: miːbele | Nambul	galgiɲ	mipila //	miːbele	munbara //	nambala 
+eye: minmigeri | Nambul	galgiɲ	mipila //	miːbele	munbara //	nambala 
+eye: munbarɛ | Nambul	galgiɲ	mipila //	miːbele	munbara //	nambala 
+eye: nambala | Nambul	galgiɲ	mipila //	miːbele	munbara //	nambala 
+face: bugule 
+fall: buŋga | -buŋgu-	buŋga 
+fall: -buŋgu- | -buŋgu-	buŋga 
+far: bulay 
+father: anya | anya	ŋanaɲa	ŋanyapa 
+father: ŋanaɲa | anya	ŋanaɲa	ŋanyapa 
+father: ŋanyapa | anya	ŋanaɲa	ŋanyapa 
+fat (n.): buḷɔḷɔ 
+fear: guɹkuɟa 
+fear: -guṛuguɟu 
+fear: -guṛuguɟu- 
+feather: anmurugɔː 
+few: gale anɟuriŋa 
+fight: araiɟiɟiye | araiɟiɟiye	baɟa 
+fight: baɟa | araiɟiɟiye	baɟa 
+finger: muṇai- 
+finger: rɛbara- 
+fire: bɔːl | bol	bɔːl 
+fish: guḍiɟara | TiTiTa	guriɟara	guḍiɟara 
+fish: guriɟara | TiTiTa	guriɟara	guḍiɟara 
+float: waywa 
+flow: werwerɟa 
+fly (n.): mɔːya 
+fly (n.): yumuḍbi 
+fly (v.): -gaḷmina 
+fog: gunugol 
+foot: rɛbara | repaɹ̣a	rɛbara 
+foot: repaɹ̣a | repaɹ̣a	rɛbara 
+forehead: bugula- 
+forehead: bukula 
+forest: manŋa | manŋa	ɟɔːrinɟuro 
+forest: ɟɔːrinɟuro | manŋa	ɟɔːrinɟuro 
+full: ŋanamaye | dutTa	ŋanamaye 
+full: ŋiɟeriɟeriɟa | dutTa	ŋanamaye 
+girl: ɟinmaḍawi 
+girl: yugoyugo 
+give: -wɔ- | -wɔ-	wu 
+give: wu | -wɔ-	wu 
+good: -mɔlɔ 
+grass: gorŋuɲa | gorŋuɲa	gɔruŋuɲa 
+grass: gɔruŋuɲa | gorŋuɲa	gɔruŋuɲa 
+hair: mulai- 
+hand: muṇa | muna	muṇa	muṇai 
+hand: muṇai | muna	muṇa	muṇai 
+head: ɟawarga | bama	baːma-	ɟawarga 
+head: bama | bama	baːma-	ɟawarga 
+head: baːma- | bama	baːma-	ɟawarga 
+hear: galiya | -galiyire	galiya 
+hear: -galiyire | -galiyire	galiya 
+hear: -gaḷiyire | -galiyire	galiya 
+heart: munmɔlmɔ 
+heavy: -gungun 
+here: ŋuɲuṭa | ŋuɲuṭa 
+he/she: aɟa 
+he/she: nipa 
+he/she: nuya 
+hit: bu | -giremu-	bu 
+hit: -giremu- | -giremu-	bu 
+hold: -birimaːbule | -birimaːbule	rima 
+hold: rima | -birimaːbule	rima 
+hole: milag 
+house: bala 
+how: -guyinmiya 
+hunt: -galgalŋɟiŋa | -galgalŋɟiŋa	woɹipa 
+hunt: woɹipa | -galgalŋɟiŋa	woɹipa 
+husband: yɛrmbɛ 
+I: apa | Nayapa	ŋaibe	ŋayba 
+if: miɲa 
+I: ŋaibe | Nayapa	ŋaibe	ŋayba 
+I: ŋayba | Nayapa	ŋaibe	ŋayba 
+kangaroo: gandeyala 
+kangaroo: gɔnɔbɔlɔ 
+kill: -bɔ- | -bɔ-	-run 
+kill: -run | -bɔ-	-run 
+knee: mɛlma- | menama	mɛlma- 
+know: -girälɟo | maṇgi ni 
+know: maṇgi ni | maṇgi ni 
+lake: gɔiɟiligiɟire 
+laugh: -girɛɟi- | -girɛɟi-	guḍaɟa 
+laugh: guḍaɟa | -girɛɟi-	guḍaɟa 
+leaf: wulur 
+left: ɲäiga | ɲäiga 
+leg: banda | banda	meɾemeɾe 
+leg: meɾemeɾe | banda	meɾemeɾe 
+lie: -yuro- 
+lightning: anmiḷgɟiŋa 
+lip: aumaḷeyire 
+live: -mɔlɔ 
+liver: anbiḷiḷe | anbiḷiḷe	biLiLa //	dumbulk 
+long: -baigarágara | -baigarágara	baygaḍa 
+long: bamand | -baigarágara	baygaḍa 
+long: baygaḍa | -baigarágara	baygaḍa 
+louse: ŋanmangire | meNgir 
+man: angigaliye | an-gigöliye	gugaliya 
+man: wur | an-gigöliye	gugaliya 
+many: anɟarŋe | anɟarŋe	bulawa	gun-ɟaɹ̣aŋa	ɟaɹ̣aŋa 
+many: bulawa | anɟarŋe	bulawa	gun-ɟaɹ̣aŋa	ɟaɹ̣aŋa 
+many: (gun-)ɟaɹ̣aŋa | anɟarŋe	bulawa	gun-ɟaɹ̣aŋa	ɟaɹ̣aŋa 
+meat: angaːḷ | angaːḷ	gaḷa | angaːḷe 
+meat: angaːḷe | angaːḷ	gaḷa | angaːḷe 
+meat: gaḷa | angaːḷ	gaḷa | angaːḷe 
+moon: ɹan-gu | ŋanɟireḍa	ɹan-gu	ṛangu 
+moon: ŋanɟireḍa | ŋanɟireḍa	ɹan-gu	ṛangu 
+moon: ṛangu | ŋanɟireḍa	ɹan-gu	ṛangu 
+morning: animiɲugabu 
+morning: gɔwarara 
+morning: ŋulam 
+mosquito: giṇamirŋa 
+mosquito: gunamiriŋa 
+mother: ama | ama	mampa	ŋaiɟama 
+mother: mampa | ama	mampa	ŋaiɟama 
+mother: ŋaiɟama | ama	mampa	ŋaiɟama 
+mountain: bugula giɟire | bugula giɟire	gingereme	gurema 
+mountain: gingereme | bugula giɟire	gingereme	gurema 
+mouth: ŋana | ŋana	ŋana- 
+mouth: ŋana- | ŋana	ŋana- 
+name: anɛlĭŋgɛ | anɛlĭŋgɛ	welaNga 
+nape: mɔbula- 
+navel: anɟɔɾiŋga 
+near: yigirɛbɛ | yi-gurepa	yigirɛbɛ 
+near: yi-gurepa | yi-gurepa	yigirɛbɛ 
+neck: mɔbula- 
+new: -gɛːgɛ | -gɛːgɛ	geka	gun-geka 
+new: gun-geka | -gɛːgɛ	geka	gun-geka 
+night: ana-munya | ana-munya	mu5a 
+night: yi-rana | ana-munya	mu5a 
+not: gala 
+not: galɛ | gala 
+old: anɟaraḷ 
+old: -ɟaraḷ 
+old: bambay 
+one: anŋarabe | Nadapa	anŋarabe 
+one: mu-guya | Nadapa	anŋarabe 
+other: anɛrɛŋɛ | anɛrɛŋɛ	wraŋa 
+other: wraŋa | anɛrɛŋɛ	wraŋa 
+person: angigöliye | an-gigöliye	gugaliya 
+play: ɟaɟaɟamiya | ridaːwuriɟuŋo	ɟawarɟa	ɟaɟaɟamiya 
+play: ɟawarɟa | ridaːwuriɟuŋo	ɟawarɟa	ɟaɟaɟamiya 
+play: ridaːwuriɟuŋo | ridaːwuriɟuŋo	ɟawarɟa	ɟaɟaɟamiya 
+push: -gaga 
+rain: yor | yor	yɔːr 
+rain: yɔːr | yor	yɔːr 
+rat: ɟungɔmbɔlɔ 
+red: bɛrbɛ | -mugulum	bɛrbɛ 
+red: -mugulum | -mugulum	bɛrbɛ 
+right: ɲärinɟiŋa | muna	muṇa	muṇai | ɲärinɟiŋa 
+ripe: -muḷo 
+river: anɟawa ginɟabaṇa | ganɟabaṇa 
+river: ganɟabaṇa | ganɟabaṇa 
+road: ɟalagar 
+road: ɟaḷakar 
+root: ɟaːlagar 
+rope: munduṇ | munduṇ 
+rotten: -gulɔl | -gulɔl	gulolmi-ya 
+rotten: gulolmi-ya | -gulɔl	gulolmi-ya 
+round: -baínbulebulé | -baínbulebulé	gomariya 
+round: gomariya | -baínbulebulé	gomariya 
+rub: -wɛbiyɛ 
+sand: ɟaraŋu 
+say: weŋga | yinda | ɟaraŋu 
+say: -wɛya | yinda | ɟaraŋu 
+say: yinda | ɟaraŋu 
+scratch: -wirinɟi- | -wirinɟi-	wirka 
+scratch: wirka | -wirinɟi-	wirka 
+sea: balaiɟar 
+seed: nambal 
+see: na | -na-	na 
+see: -na- | -na-	na 
+sharp: dairardga 
+short: an-balm-bara | -balmbari	an-balm-bara 
+short: -balmbari | -balmbari	an-balm-bara 
+shoulder: wagaːrba 
+sing: -ɟalundu- | -ɟalundu-	ɟapaṇḍiya 
+sing: ɟapaṇḍiya | -ɟalundu-	ɟapaṇḍiya 
+sister: ɟala 
+sister: ŋaiɟɪɟale 
+sit: ɹaka | -ni	ɹaka 
+sit: -ni | -ni	ɹaka 
+skin: aːgidɛrbɛ | anmalīra	maliyara 
+skin: anmalīra | anmalīra	maliyara 
+sky: daid 
+sleep: -yuro 
+small: -gɔlmbɔ 
+smell: ŋolkuɟa | numa 
+smell: -numu-ŋa | numa 
+smoke: ɟolŋo | ɟolŋo	ɟɔlŋo 
+smoke: ɟɔlŋo | ɟolŋo	ɟɔlŋo 
+smooth: girinɟereɟere 
+snake: ŋɔibulo | ŋuyumbula	ŋɔibulo 
+snake: ŋuyumbula | ŋuyumbula	ŋɔibulo 
+son: ŋaniɲaɲa 
+stand: -ɟire 
+star: manŋa | manŋa	yirimin 
+star: maṛámaṛa | manŋa	yirimin 
+stone: gingéreme | Tanra	gingéreme	gun 
+stone: gingɛrɛmɛ | Tanra	gingéreme	gun 
+stone: gun | Tanra	gingéreme	gun 
+suck: buɲa 
+sun: manŋa | manNa	manŋa	maṇŋa 
+sun: maṇŋa | manNa	manŋa	maṇŋa 
+sweet: wɔmu 
+swim: -waiwiŋa | -waiwiŋa	waywa 
+swim: waywa | -waiwiŋa	waywa 
+tail: banda- 
+take: ga 
+take: -ma- 
+take: -ŋumuḍo 
+that: -gaba | Nadapa	anŋarabe 
+that: -gapa | -gaba | Nadapa	anŋarabe 
+there: gaba | gata 
+there: gapa | gata 
+there: gata 
+there: gawaḍe | gata 
+they: biripa 
+they: bura | biripa 
+they two: biriɲipa 
+they two: bitipa 
+they two: buriɲa 
+they two: buta 
+thigh: raṇba 
+thigh: ranba- 
+think: baruwuɟa 
+this: -gunaga 
+thou: ana-gorbura | Ni5ipa	ŋinyipa 
+thou: ana-goyburpa | Ni5ipa	ŋinyipa 
+thou: ŋgu | Ni5ipa	ŋinyipa 
+thou: ŋinyipa | Ni5ipa	ŋinyipa 
+three: two plus one | abirigiliruga anŋarabe 
+throat: ɟawa- 
+throw: -yarinɟiŋa 
+thunder: aḍuriɟiŋa 
+thunder: bokalɟa 
+thunder: durɟa 
+tie: biɟa 
+today: gɛːgɛ 
+today: geka 
+tomorrow: ŋulam 
+tomorrow: nuwuro 
+tongue: ŋaḷ(a) | NaL	ŋaḷ	ŋaḷa	ŋaḷa- 
+tongue: ŋaḷa- | NaL	ŋaḷ	ŋaḷa	ŋaḷa- 
+tooth: rira- | rira	rira- 
+tree: gunɟɔŋ | ToN 
+turn: ɟeː wariye 
+turn: -gurinɟiŋa 
+two: abirigiliruga | abirigiliruga	abirigilirwirka 
+vomit: guḷɟa | -gulɟiŋa	guḷɟa 
+vomit: -gulɟiŋa | -gulɟiŋa	guḷɟa 
+walk: boy 
+walk: -gaḷmine- 
+walk: -wirɟe 
+walk: yurca 
+walk: yurtɟa 
+wallaby: goṇabola 
+wallaby: gɔnɔbɔlɔ 
+warm: murbɔlɔrɟuŋɔ 
+wash: ŋulubdiŋa | -wulubdiŋa	wepa 
+wash: wepa | -wulubdiŋa	wepa 
+wash: wepiya | -wulubdiŋa	wepa 
+wash: -wulubdiŋa | -wulubdiŋa	wepa 
+water: bugula | TiTuruk	bugula	bugula //	bugulɔ	ɟiɟurog 
+water: bugulɔ | TiTuruk	bugula	bugula //	bugulɔ	ɟiɟurog 
+water: ɟiɟurog | TiTuruk	bugula	bugula //	bugulɔ	ɟiɟurog 
+we: arbura | Nayburpa 
+weep: -rɔwuɟɔ 
+we: ŋayburpa | Nayburpa 
+we two (excl.): ariɲa 
+we two (excl.): ata 
+we two (excl.): ŋariɲip 
+we two (excl.): ŋatipa 
+we two (incl.): arku 
+we two (incl.): ŋaripa 
+what: an-ŋa | an-ŋa	ayindi? 
+what: ayindi? | an-ŋa	ayindi? 
+when: giːĭnbe? | giːĭnbe?	gu-yinpa 
+when: gu-yinpa | giːĭnbe?	gu-yinpa 
+where: yina | yina	yinagaiyi? 
+where: yinagaiyi? | yina	yinagaiyi? 
+white: -giŋalɟe 
+who: ana-ŋa | ana-ŋa	anŋe? 
+who: anŋe? | ana-ŋa	anŋe? 
+wife: meŋga | meŋga	ŋaɟimɛŋgɛ 
+wife: ŋaɟimɛŋgɛ | meŋga	ŋaɟimɛŋgɛ 
+wind: balmarg | balmarg	baḷmark 
+wind: baḷmark | balmarg	baḷmark 
+wing: -murugu 
+woman: gamu 
+wood: bɔːl 
+wood: ɟoŋ 
+woomera: birɛ́bira 
+yellow: -gɔlubuḍɒ | -gɔlubuḍɒ 
+yes: ŋau 
+yesterday: yi-rawa 
+yes: yau 
+you two: ana-goriɲa 
+you two: ana-goriɲipa 
+you two: ana-gota 
+you two: ana-gotipa 
+every: bugmag 
+ash: balug 
+abdomen: goɟula 
+bigness: anmuṇo	wana 
+large: anmuṇo	wana 
+breasts: NamaNama	ŋamaŋama 
+come from: -boːya	boy 
+be dead: -wɛrimi-	Tuwa	ɟuwa 
+dead: -wɛrimi-	Tuwa	ɟuwa 
+fly: -gaḷmina 
+fly v.: -gaḷmina 
+left hand: muna	muṇa	muṇai 
+horn: gelama 
+1 sg.: Nayapa	ŋaibe	ŋayba 
+be knowledgeable: maṇgi ni 
+lie down: -yuro- 
+head louse: meNgir 
+male: an-gigaliye	wur 
+much: anɟarŋe	bulawa	gun-ɟaɹ̣aŋa	ɟaɹ̣aŋa 
+multiple: anɟarŋe	bulawa	gun-ɟaɹ̣aŋa	ɟaɹ̣aŋa 
+several: anɟarŋe	bulawa	gun-ɟaɹ̣aŋa	ɟaɹ̣aŋa 
+flesh: angaːḷ	gaḷa 
+hill: bugula giɟire	gingereme	gurema 
+title: anɛlĭŋgɛ	welaNga 
+nighttime: ana-munya	mu5a 
+nose: Nuyura	guya	guya //	ŋoira	ŋɔira- 
+adulterous: Nadapa	anŋarabe 
+single: Nadapa	anŋarabe 
+the: Nadapa	anŋarabe 
+unprincipled: Nadapa	anŋarabe 
+human: an-gigöliye	gugaliya 
+human being: an-gigöliye	gugaliya 
+rainy weather: yor	yɔːr 
+hide: anmalīra	maliyara 
+little: -gɔlmbɔ 
+smallness: -gɔlmbɔ 
+rock: Tanra	gingéreme	gun 
+2 sg: Ni5ipa	ŋinyipa 
+you: Ni5ipa	ŋinyipa 
+grind: abirigiliruga	abirigilirwirka 
+1 pl. inc.: Nayburpa 
+we₁: Nayburpa 
+whiteness: -giŋalɟe 
+who?: ana-ŋa	anŋe? 
+female: gamu 
+distant: bulay 
+dull: -gungun 
+serious: -gungun 
+close: yi-gurepa	yigirɛbɛ 
+ner: yi-gurepa	yigirɛbɛ 
+2 pl.: ana-goyburpa 
+ye: ana-goyburpa 
+you all: ana-goyburpa 
+3 pl.: biripa 
+where?: yina	yinagaiyi? 
+when?: giːĭnbe?	gu-yinpa 
+how?: -guyinmiya 
+principal wife: meŋga	ŋaɟimɛŋgɛ 
+his mother: ama	mampa	ŋaiɟama 
+my mother: ama	mampa	ŋaiɟama 
+his father: anya	ŋanaɲa	ŋanyapa 
+my father: anya	ŋanaɲa	ŋanyapa 
+woods: manŋa	ɟɔːrinɟuro 
+stick: miṇagaɟiri 
+cord: munduṇ 
+spit: -guṛguṛ 
+breath: ŋɛgna 
+laughter: -girɛɟi-	guḍaɟa 
+cogitate: baruwuɟa 
+reflect: baruwuɟa 
+sniff: numa 
+alive: -mɔlɔ 
+be alive: -mɔlɔ 
+life: -mɔlɔ 
+living: -mɔlɔ 
+beat: -giremu-	bu 
+strike: -giremu-	bu 
+hack: -gɔːndɔ	goṇḍu 
+drop: -buŋgu-	buŋga 
+grasp: -birimaːbule	rima 
+hold in arm: -birimaːbule	rima 
+wipe: -wɛbiyɛ 
+wash clothes: -wulubdiŋa	wepa 
+bind: biɟa 
+fasten: biɟa 
+tie up: biɟa 
+have fun: ridaːwuriɟuŋo	ɟawarɟa	ɟaɟaɟamiya 
+brook: ganɟabaṇa 
+stream: ganɟabaṇa 
+blaze: ra	ŋanuwɔ 
+daylight: reŋareŋa	ɟigarariɟe 
+daytime: reŋareŋa	ɟigarariɟe 
+evil: angiɾɛdɛ	mun-nera	nera 
+rot: -gulɔl	gulolmi-ya 
+filthy: an-guŋunɟu	buṇiɲa 
+soiled: an-guŋunɟu	buṇiɲa 
+blunt: andirgala 
+right side: ɲärinɟiŋa 

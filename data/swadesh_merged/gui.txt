@@ -1,0 +1,312 @@
+all: opa	ɲãwo 
+every: opa	ɲãwo 
+ash: taniᵐbu 
+ashes: taniᵐbu 
+bark: ɨʼwɨra ʼpire 
+big: gʷasu	tuiča 
+bigness: gʷasu	tuiča 
+large: gʷasu	tuiča 
+bird: gʷɨra	wɨra 
+bite: suu	čuu 
+black: -hũu 
+blood: h-uwɨ	r-uwɨ	t-uwɨ	tugw~i 
+bone: kagw~e	kãʷe	ukagw~e 
+breast: -kaᵐbɨ	ika	nkita 
+breasts: -kaᵐbɨ	ika	nkita 
+claw: -pãpe	po-ãpe 
+nail: -pãpe	po-ãpe 
+talon: -pãpe	po-ãpe 
+cloud: ãma	ãma pɨ̃tu 
+cold: roɨ	rõɨsa 
+come: yu	ǰu 
+come from: yu	ǰu 
+be dead: mano	mãno	yeki 
+dead: mano	mãno	yeki 
+die: mano	mãno	yeki 
+dog: -h-ɨᵐba	-r-ɨᵐba	y-ɨᵐba	yeimb~a 
+drink: -u	kau 
+dry: tĩni 
+ear: namb~i	naᵐbi 
+earth: ɨwɨ 
+ground: ɨwɨ 
+land: ɨwɨ 
+soil: ɨwɨ 
+eat: -karu	-u 
+egg: hupia	rupia 
+eye: h-esa	r-esa	tesa 
+feather: -a	-h-aa	-r-aa 
+fire: tata 
+fish: pira 
+fly: wewe 
+fly v.: wewe 
+foot: pɨ 
+full: tenne	tinnie	tɨ-nẽe 
+give: mẽẽ 
+good: katu	kawi 
+green: howɨ 
+hair: -a	-h-aa	-r-aa 
+hand: po 
+left hand: po 
+right: po 
+head: ãka 
+hear: eⁿdu	hend~u 
+heart: -pɨa 
+horn: h-ãti	hanti	r-ãti	t-ãti 
+1 sg.: Ce	se	če 
+I: Ce	se	če 
+kill: ǰuka 
+knee: henepia	renɨ̃pɨa	renẽpɨa	tova 
+be knowledgeable: kʷaa 
+know: kʷaa 
+leaf: h-okɨ	hoki	hoʔo	roo 
+lie: ǰapakʷa 
+lie down: ǰapakʷa 
+liver: pi*avevi	pɨa 
+long: puku 
+head louse: iki	kɨ	kɨɨ 
+louse: iki	kɨ	kɨɨ 
+male: kuiᵐbae 
+man: karai	ᵐbɨa 
+many: h-eta 
+much: h-eta 
+multiple: h-eta 
+several: h-eta 
+flesh: -h-oo	-r-oo	s-oo 
+meat: -h-oo	-r-oo	s-oo 
+moon: ǰasɨ 
+hill: igw~iti	ɨwɨtɨ 
+mountain: igw~iti	ɨwɨtɨ 
+mouth: ǰuru 
+name: h-ee	te 
+title: h-ee	te 
+neck: aǰu	i-aǰu 
+new: pihau	pɨau 
+night: pihare	pintu	pɨ̃tu 
+nighttime: pihare	pintu	pɨ̃tu 
+nose: nti	tĩ 
+adulterous: pent~i	pẽti 
+one: pent~i	pẽti 
+single: pent~i	pẽti 
+that: pent~i	pẽti 
+the: pent~i	pẽti 
+unprincipled: pent~i	pẽti 
+human: karai	ᵐbɨa 
+human being: karai	ᵐbɨa 
+person: karai	ᵐbɨa 
+rain: ãma 
+rainy weather: ãma 
+red: pɨ̃ta 
+path: tape 
+road: tape 
+route: tape 
+root: h-ʼapo	r-ʼapo 
+round: apua 
+sand: ɨwɨ-kʷĩti 
+say: -e	-i 
+see: esa	eča	heCa 
+seed: hãɨ	temĩ-tɨ 
+sit: gʷapɨ 
+hide: pire 
+skin: pire 
+sleep: ke 
+little: miči 
+small: miči 
+smallness: miči 
+smoke: tatã-ti 
+star: yastata	ǰasɨ tata 
+rock: ita 
+stone: ita 
+sun: kuarasi	kʷarasɨ	kʷaraɨ 
+swim: ɨta 
+tail: -h-uwai 
+2 sg: nd~e	ⁿde 
+thou: nd~e	ⁿde 
+you: nd~e	ⁿde 
+tongue: ku	kũu	nku 
+tooth: -r-ãi	hai	hãi	t-ãi 
+tree: igw~ira 
+grind: mokui	mõkoi 
+two: mokui	mõkoi 
+go: wata 
+walk: wata 
+hot: h-aku 
+warm: h-aku 
+1 pl. inc.: ore	yande	yaⁿde 
+we: ore	yande	yaⁿde 
+we₁: ore	yande	yaⁿde 
+what: ᵐbae-pa 
+white: tĩi 
+whiteness: tĩi 
+who: kea-pa 
+who?: kea-pa 
+female: kũɲa 
+woman: kũɲa 
+yellow: iǰu	ǰu 
+distant: moᵐbɨrɨ 
+far: moᵐbɨrɨ 
+dull: poɨ 
+heavy: poɨ 
+serious: poɨ 
+close: ko	kõ-ɲõ	kõi 
+near: ko	kõ-ɲõ	kõi 
+ner: ko	kõ-ɲõ	kõi 
+salt: ǰukɨ 
+short: čutu 
+snake: ᵐboi 
+thin: piru	poi 
+wind: ɨwɨ-tu 
+earthworm: sewoi 
+worm: sewoi 
+year: ʼara	ʼroɨ 
+2 pl.: pee	peⁿde 
+ye: pee	peⁿde 
+you all: pee	peⁿde 
+3 pl.: hae-reta 
+they: hae-reta 
+where: kea-pe-pa 
+where?: kea-pe-pa 
+when: kerẽi-ɲãwe-pa 
+when?: kerẽi-ɲãwe-pa 
+how: kerẽi-pa 
+how?: kerẽi-pa 
+some: ᵐbae 
+few: miči 
+three: mbápɨ	ᵐbapɨ 
+four: iruⁿdɨ	irúndɨ 
+five: pa-ⁿde-po	pandépo 
+broad: pɨwasu 
+wide: pɨwasu 
+wideness: pɨwasu 
+fat: kɨra 
+thick: poʼwasu 
+narrow: pɨraɨ 
+child: meᵐbɨ	mĩčia 
+principal wife: h-eᵐbi-reko	r-eᵐbi-reko 
+wife: h-eᵐbi-reko	r-eᵐbi-reko 
+husband: me 
+his mother: ičɨ	sɨ 
+mother: ičɨ	sɨ 
+my mother: ičɨ	sɨ 
+father: ru	t-u	t-uu 
+his father: ru	t-u	t-uu 
+my father: ru	t-u	t-uu 
+animal: mɨᵐba	ᵐbae-mɨᵐba 
+forest: kaa-gwasu	ɲãna 
+woods: kaa-gwasu	ɲãna 
+branch: h-ãka	r-ãka 
+stick: h-ãka	r-ãka 
+fruit: aa	ia 
+flower: ʼpotɨ 
+grass: kapii 
+cord: sã	tɨmãsa 
+rope: sã	tɨmãsa 
+grease: kɨra 
+fingernail: -po-ãpe	pãpe 
+leg: tɨmãka	tɨ̃ma 
+wing: pepo 
+gut: ičuri	t-ɨe	čuri 
+guts: ičuri	t-ɨe	čuri 
+insides: ičuri	t-ɨe	čuri 
+intestine: ičuri	t-ɨe	čuri 
+intestines: ičuri	t-ɨe	čuri 
+back: kupe 
+suck: -pɨte	ere 
+spit: ⁿdɨwɨ 
+vomit: wẽe 
+blow: peǰu 
+breath: -pɨtũe 
+breathe: -pɨtũe 
+laugh: puka 
+laughter: puka 
+cogitate: ǰe-moᵑgeta 
+reflect: ǰe-moᵑgeta 
+think: ǰe-moᵑgeta 
+smell: ẽtu 
+sniff: ẽtu 
+afraid: kɨǰe 
+be afraid: kɨǰe 
+fear: kɨǰe 
+fright: kɨǰe 
+alive: -ikowe	t-ekowe 
+be alive: -ikowe	t-ekowe 
+life: -ikowe	t-ekowe 
+live: -ikowe	t-ekowe 
+living: -ikowe	t-ekowe 
+fight: ɲorãro 
+hunt: ᵐbae-ǰuka 
+beat: nũpa 
+hit: nũpa 
+strike: nũpa 
+cut: kɨ̃ti 
+hack: kɨ̃ti 
+cut open: ᵐbo-wo 
+split: ᵐbo-wo 
+pierce: kutu 
+stab: kutu 
+dig: ʼǰoo 
+tell lies: apu 
+stand: ǰeᵐboɨ	ᵐbo-ǰeᵐboɨ 
+turn: ᵐbo-ǰere 
+turn around: ᵐbo-ǰere 
+turn round: ᵐbo-ǰere 
+grasp: nõi	pɨsɨ 
+hold: nõi	pɨsɨ 
+hold in arm: nõi	pɨsɨ 
+squeeze: akaᵐbɨ	tami 
+wring: akaᵐbɨ	tami 
+rub: kɨtɨ 
+wipe: kɨtɨ 
+wash: ǰoe 
+wash clothes: ǰoe 
+push: moãɲa	mãɲa 
+shove: moãɲa	mãɲa 
+throw: moᵐbo 
+bind: mõiča	ǰokʷa 
+fasten: mõiča	ǰokʷa 
+tie: mõiča	ǰokʷa 
+tie up: mõiča	ǰokʷa 
+sew: ᵐbowɨwɨ 
+count: papa 
+enumerate: papa 
+number: papa 
+tally: papa 
+sing: purae 
+have fun: ǰuaᵑga 
+play: ǰuaᵑga 
+float: ʼwewi 
+flow: hɨrɨ	sɨrɨ 
+brook: ɨ-ãka 
+river: ɨ-ãka 
+stream: ɨ-ãka 
+lake: ɨ-pa 
+ocean: ɨ wasu 
+sea: ɨ wasu 
+dust: ɨwɨ-kui	ɨwɨ-kʷĩti 
+fog: ɨwɨ̃-ti 
+sky: ara 
+snow: ɨwɨ̃-ti 
+ice: roɨ tipia	roɨpia 
+blaze: kai 
+burn: kai 
+day: ʼara 
+daylight: ʼara 
+daytime: ʼara 
+bad: katũ-a	kawĩ-a 
+evil: katũ-a	kawĩ-a 
+rot: -h-ũu 
+rotten: -h-ũu 
+dirty: kɨʔa 
+filthy: kɨʔa 
+soiled: kɨʔa 
+straight: sɨmi	sɨmi-kawi 
+sharp: haiᵐbe 
+smooth: sĩi	ĩ-či 
+damp: iɲãkɨ	ãkɨ 
+wet: iɲãkɨ	ãkɨ 
+right side: akaʼtua 
+left: asu 
+in: ha-pɨpe 
+inside: ha-pɨpe 
+and: ha 
+if: -ramo 
+because: -ramo 

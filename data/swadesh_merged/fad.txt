@@ -1,0 +1,410 @@
+all: kunu 
+arm: ewe- 
+arm: ɛwɛ- 
+arrow: dʌgʌl 
+ashes: amër | amʌr	usur 
+ashes: amʌr | amʌr	usur 
+ashes: usur | amʌr	usur 
+back: gumi- 
+bad: nau 
+belly: bi- | o- 
+belly: o- 
+big: nëri | nʌri 
+big: nʌri 
+bird: äː | äː 
+bird: ä: | äː 
+bite: kem- | kɛm- 
+bite: kɛm- 
+black: geremu | gɛrɛmu 
+black: gɛrɛmu 
+blood: karë- | kar3	karrʌ- 
+blood: karrʌ- | kar3	karrʌ- 
+blow: yal- 
+bone: kefsi- | kEfsi	kɛfsi- 
+bone: kɛfsi- | kEfsi	kɛfsi- 
+boy: geir 
+breast: auma 
+brother: awʌ- 
+brother: awë- 
+brother: këmë- 
+brother: kʌmʌ- 
+burn: mën- 
+burn: mʌn- 
+butterfly: bobor 
+calf: mëtfu- 
+calf: mʌtfu- 
+cassowary: kiwër 
+chest: damko- 
+child: na- 
+child: nir 
+chin: siwe- 
+chin: siwɛ- 
+cloud: sëv | sʌβ 
+cloud: sʌß | sʌβ 
+cold: aug 
+come: uri- | uri	uri- 
+crocodile: wagä 
+crocodile: wagä 
+cut: kubil- 
+dance: denis m- 
+day: ar 
+day: tuef 
+day: tuɛf 
+die: mous- | mous	mous- 
+dig: fu- 
+dig: fufum- 
+dig: w- 
+dirty: dufrifi 
+dog: päː | pE	päː 
+dog: pä: | pE	päː 
+dry: meir- 
+ear: dau- | dau	dau- 
+earth: wan 
+eat: le- | lɛ- 
+eat: lɛ- 
+eat: unub- | lɛ- 
+egg: ov 
+elbow: sukune- 
+elbow: sukunɛ- 
+emu: kiwʌr 
+excrement: bi- 
+eye: ame- | amE	amɛ- 
+eye: amɛ- | amE	amɛ- 
+face: urʌ- 
+face: urë- 
+fall: bi- 
+fall: kwë- 
+far: unʌ 
+far: unë | unʌ 
+father: mem 
+father: mɛm 
+father: mɛmɛ- 
+father: m?me- 
+fat (n.): kid 
+fear: far- 
+few: laus 
+fight: kor- 
+fight: s- 
+fingernail: godef 
+fingernail: godɛf 
+finger: tënig 
+finger: tʌnig 
+fire: käß | kEb	käβ 
+fire: käv | kEb	käβ 
+fish: do:r | dor	dɔːr	kakE	kakɛ 
+fish: dɔːr | dor	dɔːr	kakE	kakɛ 
+fish: kake | dor	dɔːr	kakE	kakɛ 
+fish: kakɛ | dor	dɔːr	kakE	kakɛ 
+fly (n.): bëf 
+fly (n.): bʌf 
+fly (v.): tël- 
+fly (v.): tʌl- 
+fog: lombi 
+forehead: urë- 
+forest: atupa 
+forest: dumba 
+fruit: mou 
+full: ambe | amb~E	ambɛ 
+full: ambɛ | amb~E	ambɛ 
+full: goger- | amb~E	ambɛ 
+full: gogɛr- | amb~E	ambɛ 
+girl: magun 
+give: m- 
+good: kena 
+grass: pasëk 
+green: lanfau 
+guts: bi- 
+hair: tawag | tawag	urig 
+hair: urig | tawag	urig 
+head: kuri- 
+head: mugi- | kuri- 
+hear: du | du	du- 
+hear: du- | du	du- 
+heart: kirigur 
+heavy: kug 
+here: ewa 
+here: ɛwa 
+here: gei 
+he/she: -(ə)g 
+he/she: -f 
+he/she: nug 
+he/she: -ø 
+he/she: -ø- 
+he/she: -ur- 
+he/she: -(V)g 
+hit: kor- 
+hit: s- 
+hold: ora- 
+house: lo 
+how: gëne 
+I: da 
+I: -il- | da 
+I: -ili- | da 
+I: -l | da 
+in: owa 
+kill: p- 
+knee: gate- | gatE	gatɛ- 
+knee: gatɛ- | gatE	gatɛ- 
+laugh: im- 
+left: naneti 
+left: nanɛti 
+leg: fe(i)- 
+leg: fɛ(i)- 
+lightning: ampir w- 
+liver: kuru- gagrag | kuru gagrag	kuru- gagrag 
+long: welëf | wɛlʌf 
+long: wɛlʌf 
+louse: mi 
+man: danëf | danʌf 
+man: danʌf 
+man: dawe | danʌf 
+man: dawɛ | danʌf 
+many: kurum 
+meat: täf 
+meat: täf 
+moon: kalëm | kalʌm 
+moon: kalʌm 
+morning: furua 
+morning: kogowar 
+morning: kogowarëk 
+morning: kogowarʌk 
+mosquito: ibis 
+mother: ani- 
+mountain: boku 
+mouth: kore- | korɛ- 
+mouth: korɛ- 
+name: weni- | wEni	wɛni- 
+name: wɛni- | wEni	wɛni- 
+nape: du- 
+navel: sivri- 
+navel: sivrri- 
+near: unëka | unʌka 
+near: unʌka 
+neck: fʌ- 
+neck: fë- | fʌ- 
+new: faug 
+night: tupën mane | tup3n manE	tupʌn manɛ 
+night: tupʌn manɛ | tup3n manE	tupʌn manɛ 
+nose: no- | no	no- 
+not: kawa 
+old: alëg 
+old: alʌg 
+old: keima 
+old: kɛima 
+one: usif | usif	usis 
+pull: beru- 
+pull: bɛru- 
+push: dutun- 
+rain: gu 
+rat: täːg 
+rat: tä:g 
+red: karëg | karʌg 
+red: karʌg 
+right: kenëri 
+right: kɛnʌri 
+ripe: lepme- 
+ripe: lɛpme- 
+road: if 
+root: dir 
+rope: kɔːr 
+salt: i:b | iːb 
+salt: iːb 
+sand: äːsi | äːsi 
+sand: ä:si | äːsi 
+sand: eran | äːsi 
+say: an- 
+scratch: pëgël- 
+scratch: pʌgʌl- 
+sea: iːß 
+sea: i:v 
+see: amin- | pE	pi	pi-	pɛ- 
+see: pe- | pE	pi	pi-	pɛ- 
+see: pɛ- | pE	pi	pi-	pɛ- 
+see: pi- | pE	pi	pi-	pɛ- 
+sharp: met- 
+sharp: ole 
+sharp: olɛ 
+short: kutuf 
+shoulder: gubʌ- 
+shoulder: gubë- 
+sing: kasi r- 
+sister: apʌ- 
+sister: apë- 
+sister: kewina- 
+sister: kɛwina 
+sit: di- 
+skin: gone- | gonE	gonɛ- 
+skin: gonɛ- | gonE	gonɛ- 
+sky: sëv 
+sky: sʌß 
+sleep: usni- 
+small: nakok 
+smell: kulig m- 
+smoke: kës | kʌs 
+smoke: kʌs 
+snake: mët | mʌt 
+snake: mʌt 
+spit: daur- 
+spit: sifuru- 
+split: biebieb n- 
+split: biɛbiɛb n- 
+stand: as- 
+stand: sir- 
+star: sorwe | sorwE	sorwɛ 
+star: sorwɛ | sorwE	sorwɛ 
+stick: soket 
+stone: bër | b3r	bʌr 
+stone: bʌr | b3r	bʌr 
+straight: mangu 
+straight: man.gu 
+sun: kem | kEm	kɛm 
+sun: kɛm | kEm	kɛm 
+swell: ditil- 
+tail: fäf | fäːf 
+tail: fäːf | fäːf 
+tail: fäf | fäːf 
+tail: fä:f | fäːf 
+take: w- 
+that: huni 
+there: uwa 
+they: -lag 
+they: -(l)ar- 
+they: pe 
+they: pɛ 
+they two: -las 
+they two: -(t)at- 
+they two: uni ërit 
+they: uni 
+thigh: turi- 
+think: dahu m- 
+this: ene | ɛnɛ 
+this: ɛnɛ 
+thou: ag | na 
+thou: -ir- | na 
+thou: -lag | na 
+thou: -(l)ar- | na 
+thou: -m | na 
+thou: -n | na 
+thou: na 
+thou: -p | na 
+thou: -t | na 
+throat: garfëg 
+throat: garfʌg 
+throw: taur- 
+thunder: sagër pi- 
+thunder: sagʌr pi- 
+tie: tior- 
+tomorrow: erui 
+tomorrow: kereb 
+tomorrow: kerɛb 
+tongue: lemru- | lEmru	lɛmru- 
+tongue: lɛmru- | lEmru	lɛmru- 
+tooth: e(i)- | ɛ-	ɛi- 
+tooth: ɛ(i)- | ɛ-	ɛi- 
+tree: dig | k3r 
+tree: ke:r | k3r 
+tree: kɛːr | k3r 
+tree: um | k3r 
+turn: buli- 
+two: ërit | 3rit	arit	ʌrit 
+two: ʌrit | 3rit	arit	ʌrit 
+vagina: fu- 
+vomit: pes- 
+walk: ant- | wei- 
+walk: guko ant- | wei- 
+walk: wan- | wei- 
+walk: wei- 
+wallaby: weib 
+warm: gagere 
+warm: gagɛrɛ 
+wash: le la- 
+wash: lɛ la- 
+wash: lu- 
+water: le | lE	lɛ 
+water: lɛ | lE	lɛ 
+weep: kwan- 
+we: ig 
+we: -ig- 
+we: -nig 
+wet: baurëk 
+wet: baurʌk 
+we two: i 
+we two: -it- 
+we two: -nit 
+what: ker | kɛr 
+what: kɛr 
+where: arën 
+where: arewa 
+where: arʌn 
+white: sagëf | sagʌf 
+white: sagʌf 
+who: aun 
+wind: ulas 
+wing: sau 
+woman: anig | ʌs 
+woman: ës | ʌs 
+woman: ʌs 
+wood: sokɛt 
+wood: tutu 
+wood: ungu 
+wood: uŋu 
+yellow: lënlën | lʌnlʌn 
+yellow: lʌnlʌn 
+yes: oe 
+yes: oɛ 
+yesterday: ire 
+yesterday: tume 
+yesterday: tumɛ 
+you: ag | na 
+you: -lag | na 
+you: -(l)ar- | na 
+you two: a 
+you two: -las 
+you two: -(t)at- 
+every: kunu 
+ash: amʌr	usur 
+abdomen: o- 
+bigness: nʌri 
+large: nʌri 
+breasts: auma 
+come from: uri	uri- 
+be dead: mous	mous- 
+dead: mous	mous- 
+ground: wan 
+land: wan 
+soil: wan 
+fly: tʌl- 
+fly v.: tʌl- 
+1 sg.: da 
+head louse: mi 
+male: danʌf 
+much: kurum 
+multiple: kurum 
+several: kurum 
+hill: boku 
+title: wEni	wɛni- 
+nighttime: tup3n manE	tupʌn manɛ 
+adulterous: usif	usis 
+single: usif	usis 
+the: usif	usis 
+unprincipled: usif	usis 
+rainy weather: gu 
+path: if 
+route: if 
+hide: gonE	gonɛ- 
+little: nakok 
+smallness: nakok 
+rock: b3r	bʌr 
+2 sg: na 
+grind: 3rit	arit	ʌrit 
+go: wei- 
+1 pl. inc.: ig 
+we₁: ig 
+whiteness: sagʌf 
+who?: aun 
+female: ʌs 
+distant: unʌ 
+dull: kug 
+serious: kug 
+close: unʌka 
+ner: unʌka 

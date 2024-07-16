@@ -1,0 +1,337 @@
+all: fill	fily~	kom 
+every: fill	fily~	kom 
+ash: liq kuyüm	trufken	tr~ufen	ṭ͡ʀufken 
+ashes: liq kuyüm	trufken	tr~ufen	ṭ͡ʀufken 
+bark: trolüf	tr~awa l3kun	ṭ͡ʀolɨf 
+abdomen: p3tr~a	pw~e	pütra 
+belly: p3tr~a	pw~e	pütra 
+big: buka	buta	f3Ca	fucha	futa	fütra	fɨta 
+bigness: buka	buta	f3Ca	fucha	futa	fütra	fɨta 
+large: buka	buta	f3Ca	fucha	futa	fütra	fɨta 
+bird: 35n3m	isüm	üñüm	ɣɨɲɨm 
+bite: 3nan	3natun	ünan	ünatun	ɣɨnatu 
+black: kur3	kurü	kurɨ 
+blood: moLfu5	mollfüñ	moly~f35	molʸfɨɲ 
+bone: foro 
+breast: k3rpu	moyo	ruku 
+breasts: k3rpu	moyo	ruku 
+claw: n3pey3m	namun	wili 
+nail: n3pey3m	namun	wili 
+talon: n3pey3m	namun	wili 
+cloud: tromü	tr~om3	ṭ͡ʀomɨ 
+cold: aṭ͡ʀeɣ	fürkü	w3tr~e	wütre	wɨṭ͡ʀe	čiθ 
+come: k3pan	k3pun	küpan	kɨpa 
+come from: k3pan	k3pun	küpan	kɨpa 
+be dead: %faltay	faltay	lan	lay	l̯a	ḻay	ḻaṉ 
+dead: %faltay	faltay	lan	lay	l̯a	ḻay	ḻaṉ 
+die: %faltay	faltay	lan	lay	l̯a	ḻay	ḻaṉ 
+dog: trewa	tr~ewa	ṭ͡ʀewa 
+drink: p3tun	putu	putun	pütun	pɨto-ko 
+dry: 5if	piwn	piwün	piwɨn 
+ear: pilun	piluṉ 
+earth: mapu	nagmapu 
+ground: mapu	nagmapu 
+land: mapu	nagmapu 
+soil: mapu	nagmapu 
+eat: i	in 
+egg: kuram 
+eye: Ne	nge	ŋe 
+fat: iwi5	yiwi5 
+fat n.: iwi5	yiwi5 
+grease: iwi5	yiwi5 
+lubricant: iwi5	yiwi5 
+oil: iwi5	yiwi5 
+feather: piCu5	pichun	pichuñ	pičuɲ 
+fire: k3tral	k3tr~al	kütral	kɨṭ͡ʀal 
+fish: %CaLwa	%Caly~wa	challwa	čalʸwa 
+fly: m3p3iawn	m3p3tun	müpün	mɨpɨ 
+fly v.: m3p3iawn	m3p3tun	müpün	mɨpɨ 
+foot: namun	n̯amun̯	ṉamuṉ 
+full: apo	apon	apun 
+give: elu	ruln	ulɨ	w3ln	wülün 
+good: k3me	küme	kɨme 
+green: kar3	karü	karɨ 
+hair: kal	kaḻ longko	loNko	longko	loŋko 
+hand: kug	kuw	kuw3	kuwü	kuwɨ 
+left hand: kug	kuw	kuw3	kuwü	kuwɨ 
+right: kug	kuw	kuw3	kuwü	kuwɨ 
+head: loNko	longko	loŋko 
+hear: aLk3n	allkün	aly~k3n	alʸkɨ 
+heart: piuke	piwke 
+horn: m3ta	müta	mɨta 
+1 sg.: i5Ce	in-če	iñche 
+I: i5Ce	in-če	iñche 
+kill: laN3mn	l̯aŋɨmɨ	ḻangümün 
+knee: luku 
+be knowledgeable: kimn	kimün	kimɨ 
+know: kimn	kimün	kimɨ 
+leaf: tap3l	tapül	tapɨl̯ 
+lie: kudun	kudutun	kuzun	kuθu	tranawün	ṭ͡ʀana-kɨnu-wɨ 
+lie down: kudun	kudutun	kuzun	kuθu	tranawün	ṭ͡ʀana-kɨnu-wɨ 
+liver: ke	p3tun 
+long: alütuw	al̯ɨ-amu-n	f3Ca	wif 
+head louse: p3tr~ar	t3n	tun	tün	tüṉ	t̯ɨn̯ 
+louse: p3tr~ar	t3n	tun	tün	tüṉ	t̯ɨn̯ 
+male: wentru	wentr~u	wenṭ͡ʀu 
+man: Ce	che	wentru	če 
+many: al3n	alüṉ	fenten	fentren	fentr~en	fenṭ͡ʀen	rume 
+much: al3n	alüṉ	fenten	fentren	fentr~en	fenṭ͡ʀen	rume 
+multiple: al3n	alüṉ	fenten	fentren	fentr~en	fenṭ͡ʀen	rume 
+several: al3n	alüṉ	fenten	fentren	fentr~en	fenṭ͡ʀen	rume 
+flesh: füṉ	fɨn̯-kalɨl	ilo 
+meat: füṉ	fɨn̯-kalɨl	ilo 
+moon: k3yen	küyeṉ	kɨyen̯ 
+hill: %kalel	kalel	mawida	mawiza	wiNkul	wingkul	wiŋkul mapu 
+mountain: %kalel	kalel	mawida	mawiza	wiNkul	wingkul	wiŋkul mapu 
+mouth: w3n	wüṉ	wɨn̯ 
+name: 3i	üi	üy	ɨy 
+title: 3i	üi	üy	ɨy 
+neck: pel	pel̯	peḻ	topel	topeḻ 
+new: we 
+night: pun	pun̯	puṉ	trafuya	tr~afuya 
+nighttime: pun	pun̯	puṉ	trafuya	tr~afuya 
+nose: y3u	yu 
+not: -la 
+adulterous: ki5e	kiñe 
+one: ki5e	kiñe 
+single: ki5e	kiñe 
+that: fei	feychi	t3feiCi	tüfeychi	tüyechi 
+the: ki5e	kiñe 
+unprincipled: ki5e	kiñe 
+human: Ce	che	wentru	če 
+human being: Ce	che	wentru	če 
+person: Ce	che	wentru	če 
+rain: maw	maw3n	mawüṉ	mawɨn̯ 
+rainy weather: maw	maw3n	mawüṉ	mawɨn̯ 
+red: kel3	kelü	kelɨ 
+path: r3p3	rüpü 
+road: r3p3	rüpü 
+route: r3p3	rüpü 
+root: folil 
+round: CiNk3d	chüngküz	moNkol	moŋkol	čɨnkɨθ 
+sand: achef kuyüm	kuyum	kuyüm	kuyɨm 
+say: feipin	feypi	pin 
+see: kintun	p3kintun	pe	pelon	pen 
+seed: f3n	fün	füṉ	koNi	kongi	koŋi	semilla	tuku-n 
+sit: an3nagn	anün	anɨ 
+hide: trawa	tr~awa	ṭ͡ʀɨlke 
+skin: trawa	tr~awa	ṭ͡ʀɨlke 
+sleep: umagn	umautu	umautun	umawtun 
+little: p3C3	piCi	pichi	piči 
+small: p3C3	piCi	pichi	piči 
+smallness: p3C3	piCi	pichi	piči 
+smoke: fitrun	fitr~u5	fitr~u5k3tr~al	fiṭ͡ʀun 
+stand: lukutun	witr~an 
+star: waN3len	waNulen	wangülen	wangüḻen	waŋɨlen̯ 
+rock: kura	lil 
+stone: kura	lil 
+sun: %ant3	antü	an̯tɨ	aṉṯü 
+swim: weyeln	weyelün	weyel̯ɨ 
+tail: k3len	külen	kɨlen 
+this: fa	fachi	fei	t3faCi	tüfachi	{{l|arn|fachi|fachi 
+2 sg: eimi	eymi 
+thou: eimi	eymi 
+you: eimi	eymi 
+tongue: kew3n	kewen	kewun	kewüṉ	kewɨn̯ 
+tooth: 3lNa	foro	w3nforo 
+tree: aliwen	aliweṉ	mam3ly~	mamill	mamüll 
+grind: epu 
+two: epu 
+go: amulen	marchay	trekan	tr~ekatun	ṭ͡ʀeka 
+walk: amulen	marchay	trekan	tr~ekatun	ṭ͡ʀeka 
+hot: are	eɲum 
+warm: are	eɲum 
+water: ko 
+1 pl. inc.: i5Ci5	i5Cin	i5Ciw	inčiɲ	iñchiw	iñchiñ 
+we: i5Ci5	i5Cin	i5Ciw	inčiɲ	iñchiw	iñchiñ 
+we₁: i5Ci5	i5Cin	i5Ciw	inčiɲ	iñchiw	iñchiñ 
+what: Cem	chem	¿chem?	čem 
+white: fülang	lig	liq	liu	liɣ	lüg	plan 
+whiteness: fülang	lig	liq	liu	liɣ	lüg	plan 
+who: ineirume	iney	iñey	iɲey	tuCirume	¿iney? 
+who?: ineirume	iney	iñey	iɲey	tuCirume	¿iney? 
+female: domo	malen	zomo	üllcha domo	θomo 
+woman: domo	malen	zomo	üllcha domo	θomo 
+yellow: chod	choz	podkura	polkura	čoθ 
+distant: kamapu 
+far: kamapu 
+dull: fane 
+heavy: fane 
+serious: fane 
+close: pülle	pɨlʸe 
+near: pülle	pɨlʸe 
+ner: pülle	pɨlʸe 
+salt: chadi	chazi	čaθi 
+short: pichi	pichituw	piči	piči pɨra	pütru 
+snake: filu	vilu 
+thin: pichirume	pichirupa	piči-rume 
+wind: kürüf	kɨrɨf 
+earthworm: piru	züllwi 
+worm: piru	züllwi 
+year: tripantu	tripaṉṯü	ṭ͡ʀipantu 
+3 sg.: fey 
+he: fey 
+she: fey 
+2 pl.: eymu	eymün	eymɨn 
+ye: eymu	eymün	eymɨn 
+you all: eymu	eymün	eymɨn 
+3 pl.: feyengu	feyengün	feyeŋɨn 
+they: feyengu	feyengün	feyeŋɨn 
+here: faw	tüfamew 
+there: eye	tiyemew	tüyemu	uye eyew	üyew 
+where: chew	¿chew?	čew 
+where?: chew	¿chew?	čew 
+when: chumül	¿chumül?	čumɨl 
+when?: chumül	¿chumül?	čumɨl 
+how: chum	¿chumngechi?	čumweči 
+how?: chum	¿chumngechi?	čumweči 
+some: kiñeke	kiɲe-ke 
+few: pichi	pichin	piči 
+other: kangelu 
+three: küla	kɨla 
+four: meli 
+five: kechu	keču 
+broad: fücharume	fücharupa	fütrarupa	fɨta-rupa 
+wide: fücharume	fücharupa	fütrarupa	fɨta-rupa 
+wideness: fücharume	fücharupa	fütrarupa	fɨta-rupa 
+thick: fücharume	fücharupa	fütrarume	fɨta-rume 
+narrow: pichirume	pichirupa	piči-rupa 
+child: pichi domo	pichi wentru	pichi zomo	piči-če 
+principal wife: fillka	kure	püñmo	ñadu	ümwe	θomo 
+wife: fillka	kure	püñmo	ñadu	ümwe	θomo 
+husband: chedkuy	füta	fɨta	kurum	ngillañ	ngillañwentru	wenṭ͡ʀu 
+his mother: chuchu	kuku	llalla	ñuke	ɲuke 
+mother: chuchu	kuku	llalla	ñuke	ɲuke 
+my mother: chuchu	kuku	llalla	ñuke	ɲuke 
+father: chao	chaw	cheche	chedkuy	čaw	ḻaku 
+his father: chao	chaw	cheche	chedkuy	čaw	ḻaku 
+my father: chao	chaw	cheche	chedkuy	čaw	ḻaku 
+animal: kulliñ	kulʸiɲ 
+forest: lemu	mawiθa 
+woods: lemu	mawiθa 
+branch: mamüll	row	ṭ͡ʀaŋɨlʸ 
+stick: mamüll	row	ṭ͡ʀaŋɨlʸ 
+fruit: füṉ anümka	füṉmamüll	fɨn̯ 
+flower: fülor	rayen 
+grass: kachu	kaču 
+cord: lʸasu	zef 
+rope: lʸasu	zef 
+fingernail: wili 
+leg: chang	čaŋ 
+arm: küwü 
+wing: müpü	mɨpɨ 
+gut: küllche	kɨlče 
+guts: küllche	kɨlče 
+insides: küllche	kɨlče 
+intestine: küllche	kɨlče 
+intestines: küllche	kɨlče 
+back: furi 
+suck: fochizün	fochüdün	fočiθɨ 
+spit: tofkün	tofkɨ 
+vomit: rapi	rapin 
+blow: pimu	pimun 
+breath: n̯eyen̯	ṉeyün 
+breathe: n̯eyen̯	ṉeyün 
+laugh: aye	aye-kawɨ	ayen 
+laughter: aye	aye-kawɨ	ayen 
+cogitate: raki-θuamɨ	rakiduamün	rakizuamün 
+reflect: raki-θuamɨ	rakiduamün	rakizuamün 
+think: raki-θuamɨ	rakiduamün	rakizuamün 
+smell: nümün	n̯ɨmɨ-tu	ṉümütun 
+sniff: nümün	n̯ɨmɨ-tu	ṉümütun 
+afraid: llükan	lʸika-n 
+be afraid: llükan	lʸika-n 
+fear: llükan	lʸika-n 
+fright: llükan	lʸika-n 
+alive: mongelen	moŋen 
+be alive: mongelen	moŋen 
+life: mongelen	moŋen 
+live: mongelen	moŋen 
+living: mongelen	moŋen 
+fight: kewa	kewan 
+hunt: nün	tun	wiṭ͡ʀutu-n ɣɨɲɨm 
+beat: kupafɨ	mütrongün	palolpaloltun 
+hit: kupafɨ	mütrongün	palolpaloltun 
+strike: kupafɨ	mütrongün	palolpaloltun 
+cut: katrün	kaṭ͡ʀɨ 
+hack: katrün	kaṭ͡ʀɨ 
+cut open: triran	waṭ͡ʀo-ka	ṭ͡ʀafo-ka 
+split: triran	waṭ͡ʀo-ka	ṭ͡ʀafo-ka 
+pierce: chüngarün	čɨŋarɨ 
+stab: chüngarün	čɨŋarɨ 
+scratch: ünan 
+dig: rüngan	rɨŋa 
+tell lies: koylatun	koyl̯a-tu	kuzun	tranawün 
+turn: chüwüzün	wiɲo-kintu 
+turn around: chüwüzün	wiɲo-kintu 
+turn round: chüwüzün	wiɲo-kintu 
+drop: ütrünaqün	ɨṭ͡ʀɨf-naɣɨ	ṭ͡ʀanɨ 
+fall: ütrünaqün	ɨṭ͡ʀɨf-naɣɨ	ṭ͡ʀanɨ 
+grasp: nünien	nɨ-nie 
+hold: nünien	nɨ-nie 
+hold in arm: nünien	nɨ-nie 
+squeeze: kütrün	kɨṭ͡ʀɨ	ngütrarün 
+wring: kütrün	kɨṭ͡ʀɨ	ngütrarün 
+rub: ngüllfün	pilʸŋɨθɨ	ŋɨlʸuθɨ 
+wipe: lipümün 
+wash: küchan	kɨča 
+wash clothes: küchan	kɨča 
+pull: witran 
+push: rültren	ɨlṭ͡ʀe 
+shove: rültren	ɨlṭ͡ʀe 
+throw: ütrüfentun	ɨṭ͡ʀɨfɨ 
+bind: trarin	ṭ͡ʀari 
+fasten: trarin	ṭ͡ʀari 
+tie: trarin	ṭ͡ʀari 
+tie up: trarin	ṭ͡ʀari 
+sew: ñüzüfün	ɲɨθɨf-tu 
+count: raki	rakin 
+enumerate: raki	rakin 
+number: raki	rakin 
+tally: raki	rakin 
+sing: üḻkantun	ɨlkan-tu 
+have fun: awkantu	awkantun 
+play: awkantu	awkantun 
+float: kɨn̯ayɨ	zeñoyün 
+flow: witrun	wiṭ͡ʀu 
+freeze: trangliñün 
+swell: iñchalen	ponkwin 
+brook: lewfü	l̯ewfɨ	witrun ko	ḻewfü 
+river: lewfü	l̯ewfɨ	witrun ko	ḻewfü 
+stream: lewfü	l̯ewfɨ	witrun ko	ḻewfü 
+lake: l̯afken̯	pichiḻafkeṉ	ḻafkeṉ 
+ocean: l̯afken̯	ḻafkeṉ 
+sea: l̯afken̯	ḻafkeṉ 
+dust: trufken	trufür	ṭ͡ʀufɨr 
+fog: trukur	trukür	ṭ͡ʀukur 
+sky: kallfü wenu	wenu	wenu mapu 
+snow: pire	üñi 
+ice: trangliñ	ṭ͡ʀaŋliɲ 
+blaze: l3p3mn	lüpümün	lɨpɨmɨ-wɨ	p3tr~etun	pütren	üyün 
+burn: l3p3mn	lüpümün	lɨpɨmɨ-wɨ	p3tr~etun	pütren	üyün 
+day: antü	an̯tɨ	aṉṯu 
+daylight: antü	an̯tɨ	aṉṯu 
+daytime: antü	an̯tɨ	aṉṯu 
+old: fücha	kuse 
+bad: weda	weza	weθa	üñfi 
+evil: weda	weza	weθa	üñfi 
+rot: funa	funa-n	fuṉa 
+rotten: funa	funa-n	fuṉa 
+dirty: pod	poz	poθ 
+filthy: pod	poz	poθ 
+soiled: pod	poz	poθ 
+straight: itro	nor	üngkü	ɨnkɨ 
+sharp: yungelen	yuŋe 
+blunt: moṭ͡ʀo 
+smooth: pañush	paɲus 
+damp: kültraf	kɨlčaf	narfen 
+wet: kültraf	kɨlčaf	narfen 
+correct: kɨme	nor	nor che	rüf 
+right side: man 
+left: wele 
+at: mew 
+in: mew	ponwi	pu 
+inside: mew	ponwi	pu 
+with: engu	mew 
+and: eŋu	eŋɨn	ka 
+because: fey-mew	porke 

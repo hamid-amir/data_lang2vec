@@ -1,0 +1,277 @@
+all: baini 
+every: baini 
+ash: tchili 
+ashes: tchili 
+bark: chac-ach-astur	tchack-tchas-tur	tchacktchastur 
+abdomen: ckani 
+belly: ckani 
+big: cka-pur	ckapur 
+bigness: cka-pur	ckapur 
+large: cka-pur	ckapur 
+bird: laachir	lacira	latchir 
+bite: beck-na-tur 
+black: atchi	haatchi 
+blood: laari	lari	lay-ir	layir 
+bone: mulur 
+breast: aytiackatnu	ckatnu	katnu	pibur	pivur 
+breasts: aytiackatnu	ckatnu	katnu	pibur	pivur 
+cloud: molle	molte	molti 
+cold: serar	te-car	teckar	tse-rar 
+come: hau	hau-tur	hautur 
+come from: hau	hau-tur	hautur 
+be dead: moc-kor	mok	muc-kar	mul-sin-tur	mulsin 
+dead: moc-kor	mok	muc-kar	mul-sin-tur	mulsin 
+die: moc-kor	mok	muc-kar	mul-sin-tur	mulsin 
+dog: locjma	lockma	lojma	lokma	loxma 
+drink: ckacktur	hai-tur	haita	haita-tur	haitatur	kak 
+dry: ckein-cha	ckein-tcha 
+ear: aicke	aike	ckai-ckai	ckaickai	kaikai 
+earth: hoi-re	hoyri 
+ground: hoi-re	hoyri 
+land: hoi-re	hoyri 
+soil: hoi-re	hoyri 
+eat: holm-tur	holmʼ tur	ohlm-tur 
+egg: ckanti	ckauti 
+eye: ckepe	ckepi	ikhepe	kepi	qquepe 
+feather: ack-iu	hackeu	hackiu 
+fire: ckelar	ho-hónima	hohonima	humur	kelar 
+fish: ckacktchi	kakCi 
+fly: heu-tur 
+fly v.: heu-tur 
+foot: ckutchir	cuchi	khoche 
+full: cks	ke	ks 
+give: ckan-tur	ckantur	hanc-ku-sa-tur 
+good: cayáhia	ckack-tchi	ckackchi	ckacktchir	ckaya	ckaâya	khaya 
+green: ckaari	ckaâri 
+hair: musa	mussur 
+hand: suy-i	suyi 
+left hand: suy-i	suyi 
+right: suy-i	suyi 
+head: hjlacse	hlacse	lacksi 
+hear: ye-bi-tur	yebi	yébitur 
+heart: haiti	tchitack 
+horn: backra 
+1 sg.: ackcka	acsa	aka	akia	aksa 
+I: ackcka	acsa	aka	akia	aksa 
+kill: lat-an-tur	lat-ta-tur	lattatur 
+knee: ckolck-ul	colcʼul	kolkul	pocklo	poklo 
+be knowledgeable: ttu-ick-tur 
+know: ttu-ick-tur 
+leaf: cata	ckatta	kata 
+lie: ckac-ka-sin-tur 
+lie down: ckac-ka-sin-tur 
+liver: himri 
+head louse: hebir	horckan 
+louse: hebir	horckan 
+male: sim-ma	sima 
+man: sim-ma	sima 
+many: cke	ho-honar	ho-nar 
+much: cke	ho-honar	ho-nar 
+multiple: cke	ho-honar	ho-nar 
+several: cke	ho-honar	ho-nar 
+moon: ckamur	cáhmor 
+hill: caur	ckabur	kabur	kaur 
+mountain: caur	ckabur	kabur	kaur 
+mouth: ckaipi	khaipe	quaipi 
+name: Cei	tchei	yaclo	yaklo 
+title: Cei	tchei	yaclo	yaklo 
+neck: ccati	ckati	ckooyo 
+new: ca-ri	ckari	kari 
+night: atan	atán	ttul-ti	tul	tul-tur 
+nighttime: atan	atán	ttul-ti	tul	tul-tur 
+nose: sep-pi	sepe	sepi	seppi 
+adulterous: sema	semma 
+one: sema	semma 
+single: sema	semma 
+that: sema	semma 
+the: sema	semma 
+unprincipled: sema	semma 
+rain: saire	sairi	zaire 
+rainy weather: saire	sairi	zaire 
+red: lari 
+path: beter	peter 
+road: beter	peter 
+route: beter	peter 
+root: ckapar 
+round: loy-mur 
+sand: horckte	si-tche-re 
+say: ham-ma-tur	hammatur	nib-tur 
+see: mi-ni-tur	minck-tur	mini	mink 
+seed: mu-hu	tan-ti 
+sit: back-ni-tur 
+hide: cka-tir	ckati	kati	katir 
+skin: cka-tir	ckati	kati	katir 
+sleep: ttul-tur	tu-lur 
+little: ckack-tchi	pe-ni 
+small: ckack-tchi	pe-ni 
+smallness: ckack-tchi	pe-ni 
+smoke: ttoy-ur 
+star: ahlar	alar	haalar	halar 
+rock: cai-chi	ckaitchi	kaiCi	toknar 
+stone: cai-chi	ckaitchi	kaiCi	toknar 
+sun: caapin	ckapin	ckaâpin	hapin	kapin 
+tail: peckay 
+this: anta	aâya 
+2 sg: Cema	chema	tchema 
+thou: Cema	chema	tchema 
+you: Cema	chema	tchema 
+tongue: hakamur	las-kar	las-si	lasi 
+tooth: ckénia	cune	kenia	kune 
+tree: yai	yali 
+grind: poya	ppo-ya	ppoya 
+two: poya	ppo-ya	ppoya 
+go: cku-tchin-tur	lan-tur 
+walk: cku-tchin-tur	lan-tur 
+hot: hatur	tama	ttami 
+warm: hatur	tama	ttami 
+water: ack	puri	puy	puye	yacko 
+1 pl. inc.: ckun	kuna 
+we: ckun	kuna 
+we₁: ckun	kuna 
+what: irintacku 
+white: ta-ra	tarar	tatar	tta-rar 
+whiteness: ta-ra	tarar	tatar	tta-rar 
+who: itic	iticku	itiquiá 
+who?: itic	iticku	itiquiá 
+female: lickau	liqʼcau 
+woman: lickau	liqʼcau 
+yellow: ckaala 
+distant: ckeleya	que-le-ya 
+far: ckeleya	que-le-ya 
+dull: mu-nir	nu-nir 
+heavy: mu-nir	nu-nir 
+serious: mu-nir	nu-nir 
+close: ais-pur-iá	cko-yu	túckuba 
+near: ais-pur-iá	cko-yu	túckuba 
+ner: ais-pur-iá	cko-yu	túckuba 
+salt: ckut-ta	ckuta	ckutta 
+thin: picka	ttipan 
+wind: ckuri	khuri	khuro 
+earthworm: tock-mar	ttockomar 
+worm: tock-mar	ttockomar 
+year: cketi	quet-ti 
+2 pl.: chime	tchími 
+ye: chime	tchími 
+you all: chime	tchími 
+3 pl.: ickota	kʼhota-cota	ícota 
+they: ickota	kʼhota-cota	ícota 
+here: aiss	ap-ps 
+where: antiquiá	entickiá 
+where?: antiquiá	entickiá 
+when: pin-tchick	pinch-có 
+when?: pin-tchick	pinch-có 
+few: it-chu-pur	itchpur 
+three: pa-la-ma	ppa-la-ma	ppálama	p’alama 
+four: chalpa	chchal-pa 
+five: muts-ma	mutsma	mutusma	mutzma 
+broad: ckac-kar	ckackar 
+wide: ckac-kar	ckackar 
+wideness: ckac-kar	ckackar 
+fat: suitchi 
+thick: mossi	muray-nir 
+narrow: pickan	pikʼan 
+child: panck-ti	pauna 
+principal wife: kiqui	licki 
+wife: kiqui	licki 
+husband: sim-ma	sima 
+his mother: patta	patʼta 
+mother: patta	patʼta 
+my mother: patta	patʼta 
+father: tickan	ticʼhan 
+his father: tickan	ticʼhan 
+my father: tickan	ticʼhan 
+branch: tackos 
+stick: tackos 
+flower: pu-chur	pucher	putchur	tticka 
+grass: ckautcha 
+cord: misckar 
+rope: misckar 
+flesh: sábur 
+meat: sábur 
+grease: suitchi 
+claw: cken-ni	ckenni	khin	khʼin 
+fingernail: cken-ni	ckenni	khin	khʼin 
+nail: cken-ni	ckenni	khin	khʼin 
+leg: nan 
+arm: suy-i 
+wing: ack-iu 
+gut: lali	lalir 
+guts: lali	lalir 
+insides: lali	lalir 
+intestine: lali	lalir 
+intestines: lali	lalir 
+back: chocklo	choclo 
+suck: tchoc-kop-tur 
+spit: tu-tu 
+vomit: ppo-tun-tur	ppotuntur 
+blow: ppupu-tur	ppúputur 
+breath: haa-ru	haabu	hatckatchatur	hatratchatur 
+breathe: haa-ru	haabu	hatckatchatur	hatratchatur 
+laugh: les-tur	letch-tur 
+laughter: les-tur	letch-tur 
+afraid: cko-na-tur	cku-na-tur 
+be afraid: cko-na-tur	cku-na-tur 
+fear: cko-na-tur	cku-na-tur 
+fright: cko-na-tur	cku-na-tur 
+alive: ckau-sa-tur	ckauscku 
+be alive: ckau-sa-tur	ckauscku 
+life: ckau-sa-tur	ckauscku 
+live: ckau-sa-tur	ckauscku 
+living: ckau-sa-tur	ckauscku 
+fight: cki-i-tur 
+beat: tchick-nar 
+hit: tchick-nar 
+strike: tchick-nar 
+cut: cka-ra-tur	cka-rac-kar-tur 
+hack: cka-ra-tur	cka-rac-kar-tur 
+dig: baa-la-tur 
+tell lies: hee-la-ta	hel-la	se-li-ma 
+stand: ckes-tur 
+turn: sac-ka-tur 
+turn around: sac-ka-tur 
+turn round: sac-ka-tur 
+drop: ckolck-tur	colc-tur 
+fall: ckolck-tur	colc-tur 
+grasp: tchauck-tur 
+hold: tchauck-tur 
+hold in arm: tchauck-tur 
+squeeze: te-pi-tur 
+wring: te-pi-tur 
+wash: cka-bu-tur	tchec-ka-tin-tur 
+wash clothes: cka-bu-tur	tchec-ka-tin-tur 
+push: ho-ni-tur 
+shove: ho-ni-tur 
+throw: so-ru-tur	yoc-ke-tur 
+bind: ckoi-yo-tur	lac-kal-tur 
+fasten: ckoi-yo-tur	lac-kal-tur 
+tie: ckoi-yo-tur	lac-kal-tur 
+tie up: ckoi-yo-tur	lac-kal-tur 
+sing: herck-tur 
+have fun: letch-tur 
+play: letch-tur 
+flow: che-rej-ner	che-res-nir 
+brook: back-cka	vac-ka 
+river: back-cka	vac-ka 
+stream: back-cka	vac-ka 
+dust: pockor 
+fog: molle	molte 
+snow: tchi-mir	tsimir 
+blaze: lock-tur	tu-mai-na-tur 
+burn: lock-tur	tu-mai-na-tur 
+day: cap-pin	ckaapin	ckaâpin	huasina 
+daylight: cap-pin	ckaapin	ckaâpin	huasina 
+daytime: cap-pin	ckaapin	ckaâpin	huasina 
+bad: bal-tchar	hualcher	válchar 
+evil: bal-tchar	hualcher	válchar 
+rot: becktchi	ckai-mai-ɲir	ckaimaiñir 
+rotten: becktchi	ckai-mai-ɲir	ckaimaiñir 
+dirty: tchicka	ttanutacke 
+filthy: tchicka	ttanutacke 
+soiled: tchicka	ttanutacke 
+damp: lac-kar	lackar 
+wet: lac-kar	lackar 
+right side: ckonnir	com-pas 
+left: ca-pi-ra	cka-pir	ckaapir	ckapir 
+in: ay 
+inside: ay 
+with: ckol 

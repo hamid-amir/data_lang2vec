@@ -1,0 +1,141 @@
+all: cullu	culu 
+every: cullu	culu 
+ash: yipa	yiːp 
+ashes: yipa	yiːp 
+abdomen: puŋa	ŋaḷu 
+belly: puŋa	ŋaḷu 
+big: mirka 
+bigness: mirka 
+large: mirka 
+bird: muḷa 
+bite: piʎa- 
+black: waru 
+blood: mard~a	maṭa 
+bone: kuTi	kuci 
+breast: pipi 
+breasts: pipi 
+claw: mintiri 
+nail: mintiri 
+talon: mintiri 
+cold: mut̪u-mut̪u	muːt̪u 
+come: kugai	kukai 
+come from: kugai	kukai 
+dog: wanT~a	wanca	waɲca	yoguru	yuku.ru	yukuru 
+drink: muca-	pinT~a	pinca-	piɲca- 
+dry: picu	piːcu 
+ear: kulga	kulku	kuḷka 
+earth: n̪aṇu 
+ground: n̪aṇu 
+land: n̪aṇu 
+soil: n̪aṇu 
+eat: paca-	paci- 
+egg: cimpu 
+eye: 8ola	t̪ola	t̪uḷ̣a 
+feather: paṭu 
+fire: kala	kalla	t̪ama 
+fish: pi	piː	wagari	waka.ɹi	wakaɹi 
+foot: cina 
+full: wi5a	wiɲa 
+give: yu.ŋku-	yuŋku- 
+good: munka	wapa 
+green: palara	pal̪a.ra	pat̪ara 
+hair: kulkura	kuḷku.ɹa 
+hand: mara	maɹa 
+left hand: mara	maɹa 
+right: mara	maɹa 
+head: yuḷka 
+hear: wanabari	waɲapa.ri-	waɲapari- 
+heart: pula.ṭa	pullaṭa 
+horn: panagari	panakari 
+1 sg.: Nai	ŋa.yi	ŋayi 
+I: Nai	ŋa.yi	ŋayi 
+knee: maṇpur 
+leaf: parka	parr~ga 
+lie: ŋari- 
+lie down: ŋari- 
+liver: Namarr~i	ŋama.ɹi	ŋamari 
+long: maka.nu 
+head louse: kulu 
+louse: kulu 
+many: maɹu 
+much: maɹu 
+multiple: maɹu 
+several: maɹu 
+flesh: paḷku 
+meat: paḷku 
+moon: wila.ra	wilara 
+mouth: t̪aya 
+name: cukari	yini	yinni	yiːni 
+title: cukari	yini	yinni	yiːni 
+neck: ŋaʎi 
+new: yica-ŋu	yicaŋu 
+night: 8un8~u	t̪unt̪u 
+nighttime: 8un8~u	t̪unt̪u 
+nose: mult̪a	mul̪a 
+not: mitta	miṭa 
+adulterous: gunyji	kunT~iri	kunciri	kuɲci.ri 
+one: gunyji	kunT~iri	kunciri	kuɲci.ri 
+single: gunyji	kunT~iri	kunciri	kuɲci.ri 
+that: naːla	palu	ŋuṇa 
+the: gunyji	kunT~iri	kunciri	kuɲci.ri 
+unprincipled: gunyji	kunT~iri	kunciri	kuɲci.ri 
+human: maiaga	mayaka	ŋaṭa 
+human being: maiaga	mayaka	ŋaṭa 
+man: maiaga	mayaka	ŋaṭa 
+person: maiaga	mayaka	ŋaṭa 
+rain: yuŋu	yuɹŋu 
+rainy weather: yuŋu	yuɹŋu 
+red: maṭa-maṭa	maṭamaṭa	piʎa.ra 
+path: yird~ia 
+road: yird~ia 
+route: yird~ia 
+root: cila	kancamara 
+sand: naṇu 
+say: waɹŋa- 
+see: nagu	naku-	n̪a.ku- 
+seed: kuɹu 
+sit: paṇi- 
+hide: kabun	kapun	kapuṇ 
+skin: kabun	kapun	kapuṇ 
+little: kulu	kupica 
+small: kulu	kupica 
+smallness: kulu	kupica 
+smoke: cucu	puḷkuṇ 
+star: pirnd$iri	piṇṭi.ri	piṇṭiri	ŋuku 
+rock: mapaṇ	marnd$a	maṇṭa 
+stone: mapaṇ	marnd$a	maṇṭa 
+sun: yarnd~a	yaṇṭa	yura	yuːra 
+swim: kayiri-	pun̪t̪a- 
+tail: kanti	waṇṭi 
+this: nulla 
+2 sg: niNu	ɲin.ta	ɲinku 
+thou: niNu	ɲin.ta	ɲinku 
+you: niNu	ɲin.ta	ɲinku 
+tongue: 8ali	t̪ali	yalura	yaluɹu	yal̪u.ɹu 
+tooth: yira	yiːra 
+grind: gudharra	ku8ara	kut̪a.ra	kut̪ara 
+two: gudharra	ku8ara	kut̪a.ra	kut̪ara 
+water: paba	papa 
+1 pl. inc.: Nali 
+we: Nali 
+we₁: Nali 
+what: naːla 
+who: ŋana	ŋaːna 
+who?: ŋana	ŋaːna 
+female: maŋa 
+woman: maŋa 
+distant: warpa 
+far: warpa 
+dull: ŋuŋku-maṇṭa 
+heavy: ŋuŋku-maṇṭa 
+serious: ŋuŋku-maṇṭa 
+close: muṇa 
+near: muṇa 
+ner: muṇa 
+salt: cint̪ar	kaɹi 
+short: kampu	kuta 
+snake: t̪uru	waḷu 
+thin: paʎa 
+wind: t̪oṭa	t̪uṭa 
+earthworm: ɲiːncɲa 
+worm: ɲiːncɲa 

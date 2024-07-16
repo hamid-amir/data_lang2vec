@@ -1,0 +1,307 @@
+all: noči	noči-n	seh-se 
+every: noči	noči-n	seh-se 
+ash: kʷow-neš 
+ashes: kʷow-neš 
+bark: ewa-t 
+big: weyi 
+bigness: weyi 
+large: weyi 
+bird: toto-c̷in 
+bite: ki-kehc̷oma 
+black: til-ti-k 
+blood: es-ti	es-yoh	kw~etaSi 
+bone: omi	omi-t 
+breast: CiCiwal	i-čiči-wal 
+breasts: CiCiwal	i-čiči-wal 
+cloud: miš-ti 
+cold: sese-k 
+come: wala-	wica	wic̷a	wiki 
+come from: wala-	wica	wic̷a	wiki 
+be dead: -miki-tii	miki 
+dead: -miki-tii	miki 
+die: -miki-tii	miki 
+dog: ickw~in	ic̷kʷin-ti 
+drink: ati	tayi 
+dry: ki-wac̷a	waki	wayi-k 
+ear: i-nakas	nakas 
+earth: tal 
+ground: tal 
+land: tal 
+soil: tal 
+eat: ta-kʷa	ta-kʷa-a 
+egg: pio-te-t 
+eye: i-iš-tololo	iStololo 
+feather: ihwi-t 
+fire: ti	ti-t 
+fish: miC	miči	miči-n 
+fly: pata-ni 
+fly v.: pata-ni 
+foot: i-mec̷ 
+full: peSontok	pešon-tok 
+give: ki-maka	ki-te-maka 
+good: kʷal-i	kʷali yetok 
+green: šošok-ti-k 
+hair: c̷oon-ti	i-c̷on 
+hand: -maa	i-ma-y	mah	may 
+left hand: -maa	i-ma-y	mah	may 
+right: -maa	i-ma-y	mah	may 
+head: i-c̷on-tekon	i-kʷa-ko 
+hear: kaki 
+heart: i-yolo	yool 
+1 sg.: neh	neh-wa	ni- 
+I: neh	neh-wa	ni- 
+kill: -miki-tii	ki-mik-ti-a 
+knee: i-tan-kʷa-y	tankw~ay 
+be knowledgeable: ki-mati 
+know: ki-mati 
+leaf: aSiw	šiwi-t 
+lie: ki-teka	wec̷-tok 
+lie down: ki-teka	wec̷-tok 
+long: weya-k 
+head louse: tekolo	tekolo-t 
+louse: tekolo	tekolo-t 
+male: taga-t	taka-t 
+man: taka 
+many: kači	miak	nel	simi 
+much: kači	miak	nel	simi 
+multiple: kači	miak	nel	simi 
+several: kači	miak	nel	simi 
+flesh: i-naka-yo-h 
+meat: i-naka-yo-h 
+moon: mec̷-ti 
+hill: tatekiloni	tepe-t 
+mountain: tatekiloni	tepe-t 
+mouth: i-kamak	i-ten	teem- 
+name: ki-tenewa	tokay 
+title: ki-tenewa	tokay 
+neck: i-keč 
+new: yangik	yanwi-k 
+night: yowa-l	yowal 
+nighttime: yowa-l	yowal 
+nose: i-yekac̷ol	yeka	yekacol 
+adulterous: se	se: 
+one: se	se: 
+single: se	se: 
+that: se	se: 
+the: se	se: 
+unprincipled: se	se: 
+human: taka 
+human being: taka 
+person: taka 
+rain: kiowa-t	kiowi-t 
+rainy weather: kiowa-t	kiowi-t 
+red: či-či-l-ti-k	čii-čii- 
+root: nalwa-t 
+round: yowa-l-ti-k 
+sand: šal 
+say: k-ihto-a	k-ili-a	tahtoo 
+see: ita	k-ita	mo-ta 
+seed: šinač 
+sit: ki-tokoc̷-tali-a	mo-tali-a 
+hide: es	i-ewa-yo	i-kʷetaš-io	kʷetaš 
+skin: es	i-ewa-yo	i-kʷetaš-io	kʷetaš 
+sleep: -koh-koči	koči 
+little: c̷ik-c̷in	c̷iki-c̷in 
+small: c̷ik-c̷in	c̷iki-c̷in 
+smallness: c̷ik-c̷in	c̷iki-c̷in 
+smoke: pok-ti 
+star: sital	sitalin 
+rock: te	te-t 
+stone: te	te-t 
+sun: tona-l	tonal 
+swim: ahkʷi 
+tail: i-kʷita-pil 
+2 sg: teh	teh-wa	ti- 
+thou: teh	teh-wa	ti- 
+you: teh	teh-wa	ti- 
+tongue: i-nene-pil	nenepil 
+tooth: i-tan	tan 
+tree: kw~ow 
+grind: ome 
+two: ome 
+go: -nehnen	-nemi	-nen	neh-nemi 
+walk: -nehnen	-nemi	-nen	neh-nemi 
+hot: ki-kawanti-a	ki-to-toni-a 
+warm: ki-kawanti-a	ki-to-toni-a 
+water: a	a-t 
+1 pl. inc.: newan 
+we: newan 
+we₁: newan 
+what: koš	toni	še 
+white: ista-k	počik-ti-k 
+whiteness: ista-k	počik-ti-k 
+who: akoni	naken 
+who?: akoni	naken 
+female: siwa-t 
+woman: siwa-t 
+yellow: kos-ti-k 
+distant: wehka 
+far: wehka 
+dull: eti-k 
+heavy: eti-k 
+serious: eti-k 
+close: amo wehka	i-nakas-tan	inawak 
+near: amo wehka	i-nakas-tan	inawak 
+ner: amo wehka	i-nakas-tan	inawak 
+salt: ista-t 
+short: amo wehkapan	c̷ik-c̷in	nohnel	tokoc̷ 
+snake: koa-t 
+thin: kakal-ti-k	kakalač-ti-k	pic̷awa-k 
+wind: eheka-t 
+earthworm: okʷil-c̷in	tal-ihkočin	tal-kʷetaš-kol 
+worm: okʷil-c̷in	tal-ihkočin	tal-kʷetaš-kol 
+year: šiw-	šiwi-t 
+2 pl.: -eh	nameh-wa-n	nan-	ta-...-h 
+ye: -eh	nameh-wa-n	nan-	ta-...-h 
+you all: -eh	nameh-wa-n	nan-	ta-...-h 
+3 pl.: yeh-wa-n	∅-...-h 
+they: yeh-wa-n	∅-...-h 
+where: kam-pa	kan	kanika	kansika 
+where?: kam-pa	kan	kanika	kansika 
+when: keman 
+when?: keman 
+how: kini-w	kinin 
+how?: kini-w	kinin 
+some: aken	akin	aksaa	tehsa 
+few: kači tipi-c̷in 
+three: e:yi	eyi 
+four: nawi 
+five: ma-kʷi-l	ma:kʷil 
+broad: koyawa-k	patawa-k 
+wide: koyawa-k	patawa-k 
+wideness: koyawa-k	patawa-k 
+fat: tomawa-k	čawa-k 
+thick: tilawa-k	tomawa-k 
+narrow: kopic̷-ti-k	pic̷awa-k 
+child: kone-t	pili	swaa-pil 
+principal wife: i-siwa-w	i-swa-c̷in 
+wife: i-siwa-w	i-swa-c̷in 
+husband: i-okič	i-taka-w 
+his mother: i-nan-c̷in 
+mother: i-nan-c̷in 
+my mother: i-nan-c̷in 
+father: i-tah-c̷in	te-tat 
+his father: i-tah-c̷in	te-tat 
+my father: i-tah-c̷in	te-tat 
+animal: okʷil-in 
+forest: kʷow-tah	kʷow-yoh 
+woods: kʷow-tah	kʷow-yoh 
+branch: i-ma-yo 
+stick: i-ma-yo 
+fruit: šoko-t 
+flower: šoči-t 
+grass: saka-t	šiwi-t 
+cord: meka-t 
+rope: meka-t 
+grease: tomawa-k	čawa-k 
+claw: isti 
+fingernail: isti 
+nail: isti 
+leg: i-kes	i-mec̷ 
+wing: ahtapal 
+gut: i-ihti-yo	i-kʷit-kowan 
+guts: i-ihti-yo	i-kʷit-kowan 
+insides: i-ihti-yo	i-kʷit-kowan 
+intestine: i-ihti-yo	i-kʷit-kowan 
+intestines: i-ihti-yo	i-kʷit-kowan 
+back: i-kampa	i-kan	i-kʷita-pan 
+suck: ki-pipi-c̷o-a	ki-pipi-na 
+spit: i-ten-a-yo	i-čihči	ki-čihča 
+vomit: mo-ihsota	mo-yoliš-kepa	ta-kepa 
+blow: ki-pi-pic̷a	ki-pic̷a 
+breath: i-iyo-yo	ihsika	iihyoyo 
+breathe: i-iyo-yo	ihsika	iihyoyo 
+laugh: -wec̷ka	we-wec̷ka	wec̷ka-lis 
+laughter: -wec̷ka	we-wec̷ka	wec̷ka-lis 
+cogitate: ta-nemi-li-a 
+reflect: ta-nemi-li-a 
+think: ta-nemi-li-a 
+smell: ahwiaya	ahwiayalis	ahwiyak 
+sniff: ahwiaya	ahwiayalis	ahwiyak 
+afraid: ki-mow-ti-a	mo-wi-lis	mow-kayot 
+be afraid: ki-mow-ti-a	mo-wi-lis	mow-kayot 
+fear: ki-mow-ti-a	mo-wi-lis	mow-kayot 
+fright: ki-mow-ti-a	mo-wi-lis	mow-kayot 
+alive: nemi	yol-tok 
+be alive: nemi	yol-tok 
+life: nemi	yol-tok 
+live: nemi	yol-tok 
+living: nemi	yol-tok 
+fight: ta-tewi-a 
+hunt: tamota 
+beat: -mah-maga	ki-maga 
+hit: -mah-maga	ki-maga 
+strike: -mah-maga	ki-maga 
+cut: ki-kotona	ki-teki 
+hack: ki-kotona	ki-teki 
+cut open: ki-tapana 
+split: ki-tapana 
+pierce: ki-tihtikʷina-lti-a	tihtikʷini 
+stab: ki-tihtikʷina-lti-a	tihtikʷini 
+dig: -koyoo-ni	kičkʷa	ta-koyoo-ni 
+tell lies: takahkayawa	šolopih-ti 
+stand: ihka-tok	ihka-tok melawak	kec̷a 
+turn: ki-kepa	mo-kepa	mo-malaka-čo-a 
+turn around: ki-kepa	mo-kepa	mo-malaka-čo-a 
+turn round: ki-kepa	mo-kepa	mo-malaka-čo-a 
+drop: -wec̷o	wec̷i 
+fall: -wec̷o	wec̷i 
+grasp: ki-kic̷ki-a 
+hold: ki-kic̷ki-a 
+hold in arm: ki-kic̷ki-a 
+squeeze: ki-pac̷ka	ki-pac̷o-a 
+wring: ki-pac̷ka	ki-pac̷o-a 
+rub: ki-šakʷalo-a 
+wipe: ki-šakʷalo-a 
+wash: ki-paka 
+wash clothes: ki-paka 
+throw: ki-ta-mota 
+bind: ilpi-tok	k-ilpi-a 
+fasten: ilpi-tok	k-ilpi-a 
+tie: ilpi-tok	k-ilpi-a 
+tie up: ilpi-tok	k-ilpi-a 
+sew: tahc̷oma 
+count: ta-po-a 
+enumerate: ta-po-a 
+number: ta-po-a 
+tally: ta-po-a 
+sing: o-a 
+have fun: awil	awil-ti	mawil-ti-a 
+play: awil	awil-ti	mawil-ti-a 
+float: nemi a-iš-ko 
+brook: a-pic̷ak-ti	apic̷ak	weyi-a-t 
+river: a-pic̷ak-ti	apic̷ak	weyi-a-t 
+stream: a-pic̷ak-ti	apic̷ak	weyi-a-t 
+lake: kampa tektok a-t 
+ocean: weyi a-t 
+sea: weyi a-t 
+dust: taal-neeš-yo	tal-neš 
+fog: miš-ti	ta-miš-tentok 
+sky: elwiak 
+snow: sek-ti	ta-sek wec̷i 
+ice: a-sek	sek-ti 
+blaze: tata	tone-wi 
+burn: tata	tone-wi 
+day: tona-l 
+daylight: tona-l 
+daytime: tona-l 
+bad: amo-kʷali 
+evil: amo-kʷali 
+rot: ihtakawi	kihtakʷa	palak-ti-k 
+rotten: ihtakawi	kihtakʷa	palak-ti-k 
+dirty: c̷ohkʷil-ti-k	pic̷o-ti-k	yayak-ti-k 
+filthy: c̷ohkʷil-ti-k	pic̷o-ti-k	yayak-ti-k 
+soiled: c̷ohkʷil-ti-k	pic̷o-ti-k	yayak-ti-k 
+straight: melawa-k	naal-	yeek 
+sharp: ki-tentia 
+smooth: alaš-ti-k	yemaš-c̷in 
+damp: a-tac̷-ti-k	kʷečawa-k	pal-ti-k 
+wet: a-tac̷-ti-k	kʷečawa-k	pal-ti-k 
+correct: kʷali yetok 
+right side: i-yek-ma-y 
+left: opoč-ti 
+in: -ko	aktok	ihti-k	ta-ihti-k 
+inside: -ko	aktok	ihti-k	ta-ihti-k 
+and: wan 
+if: ta	ša 
+because: porin 

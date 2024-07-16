@@ -1,0 +1,137 @@
+all: tema	ʼpuhi 
+every: tema	ʼpuhi 
+ash: ra(ra)	ʼkrahu 
+ashes: ra(ra)	ʼkrahu 
+abdomen: kapun	ʼkapuŋ 
+belly: kapun	ʼkapuŋ 
+big: air 
+bigness: air 
+large: air 
+bird: manu	ʼmanu 
+bite: kosa	ʼkosa 
+black: meta(m)	ʼmetaŋ 
+blood: rara(n)	raraN	ʼraraŋ 
+bone: ruriN	rurin	ʼruriŋ 
+breast: susu	ʼsusu 
+breasts: susu	ʼsusu 
+burn: suni 
+burn tr.: suni 
+cloud: natas	ʼnata 
+cold: cirin	ʼtʃiriŋ 
+come: ma	ʼma 
+come from: ma	ʼma 
+be dead: mate	ʼmate 
+dead: mate	ʼmate 
+die: mate	ʼmate 
+dog: asu	ʼasu 
+drink: enu	rinu	ʼrinu 
+dry: mea	ʼmea	ʼrese 
+ear: kini	kini(n)	ʼkini 
+eat: na	ʼmua 
+egg: manuʼtslu 
+eye: mata(n)	mataN	ʼmataŋ 
+feather: hulu(n) 
+fire: ai	aimori	aiʼmori 
+fish: mEti	meti	ʼmɛti 
+fly: lari	naʼpalia 
+fly v.: lari	naʼpalia 
+good: hau(n)	ʼraja 
+green: moson	ʼmosuŋ 
+hair: kuru(n)	ʼkurun 
+hand: lima	ʼlima 
+left hand: lima	ʼlima 
+right: lima	ʼlima 
+head: kaʼratuŋ	kuru(n) 
+hear: liu	ʼliu 
+1 sg.: ao	au	ʼau 
+I: ao	au	ʼau 
+kill: eja	ʼeʤa 
+be knowledgeable: nau(n)	naʼnau 
+know: nau(n)	naʼnau 
+leaf: airo	aiʼro	ron 
+lie: lole 
+lie down: lole 
+liver: ate(n)	ateN	ʼateŋ 
+long: aru	mecu	poha	ʼpoha 
+head louse: utu	utu(n)	ʼutu 
+louse: utu	utu(n)	ʼutu 
+male: mamane	maʼmane 
+man: (i)to(n)	hatu	ʼhatu 
+moon: hulan	ʼhulan 
+mouth: kahan	ʼkaha 
+name: nEa	nean	ʼnɛa 
+title: nEa	nean	ʼnɛa 
+neck: poin	poka	ʼgɛnuŋ 
+new: ha|herun 
+night: hene(n)	heni	ʼheni 
+nighttime: hene(n)	heni	ʼheni 
+nose: kunai	kuru(n)	ʼkunai 
+adulterous: eha	ʼeha 
+one: eha	ʼeha 
+single: eha	ʼeha 
+that: go	ʼgo 
+the: eha	ʼeha 
+unprincipled: eha	ʼeha 
+human: (i)to(n)	hatu	ʼhatu 
+human being: (i)to(n)	hatu	ʼhatu 
+person: (i)to(n)	hatu	ʼhatu 
+rain: usan	ʼhusan 
+rainy weather: usan	ʼhusan 
+red: mera	ʼmera 
+path: ralowa	raʼlowa	sala(n) 
+road: ralowa	raʼlowa	sala(n) 
+route: ralowa	raʼlowa	sala(n) 
+root: aiʼaka	akar 
+sand: moin	ʼmoi 
+say: aru	tapa 
+see: oCo	oco	ʼotʃo 
+sit: pasu(k)	ʼpasu 
+hide: uli	ulik	ʼuli 
+skin: uli	ulik	ʼuli 
+sleep: apu	ʼrapur 
+little: ana(n) 
+small: ana(n) 
+smallness: ana(n) 
+smoke: aimahun	aiʼmauhu 
+star: tu	ʼtu 
+rock: hatu	ʼhatu 
+stone: hatu	ʼhatu 
+swim: nani	ʼnani 
+tail: iku	ʼiku 
+this: ge	ʼge 
+tongue: na	naŋ	ʼna 
+tooth: agi	nesu	ni	ʼni 
+grind: harua	haʼrua	rua 
+two: harua	haʼrua	rua 
+go: la	ʼraloa 
+walk: la	ʼraloa 
+hot: panas	ʼpana 
+warm: panas	ʼpana 
+water: e	ēr	ʼe 
+1 pl. inc.: ami	ita	ʼami 
+we: ami	ita	ʼami 
+we₁: ami	ita	ʼami 
+what: hala	haʼla 
+white: meso	puti	ʼputi 
+whiteness: meso	puti	ʼputi 
+who: hari	haʼri 
+who?: hari	haʼri 
+female: hahata	haʼhata 
+woman: hahata	haʼhata 
+yellow: pola	ʼpula 
+distant: so	ʼso 
+far: so	ʼso 
+dull: herak 
+heavy: herak 
+serious: herak 
+close: heren	ranik	ʼrani 
+near: heren	ranik	ʼrani 
+ner: heren	ranik	ʼrani 
+salt: masi(n)	ʼmasiŋ 
+short: puir 
+snake: sau(tali)	ula	ʼsao 
+thin: mes	ʼmi 
+wind: ani(n)	ʼanni 
+earthworm: cama 
+worm: cama 
+year: ton 

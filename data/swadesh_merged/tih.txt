@@ -1,0 +1,266 @@
+all: ŋqiq-ŋaiq 
+every: ŋqiq-ŋaiq 
+ash: kaaw	k|au 
+ashes: kaaw	k|au 
+abdomen: tinaiq 
+belly: tinaiq 
+big: -[g]ayo 
+bigness: -[g]ayo 
+large: -[g]ayo 
+bird: susuit 
+bite: iit	kokot	tinduk 
+black: -itom 
+blood: dada7	dadaaq 
+bone: tulaN	tulaŋ 
+breast: titi7	titiq 
+breasts: titi7	titiq 
+burn: -solob 
+burn tr.: -solob 
+cloud: gaun 
+cold: -simuq 
+come: -datoŋ	datoN 
+come from: -datoŋ	datoN 
+be dead: -patoy	patoy 
+dead: -patoy	patoy 
+die: -patoy	patoy 
+dog: uku7	ukuq 
+drink: -inum	inum 
+dry: -puaq 
+ear: taliNo	taliŋo 
+eat: -akan 
+egg: taluq 
+eye: mato 
+feather: bulu 
+fire: apuy 
+fish: papait 
+fly: -siab 
+fly v.: -siab 
+good: -[b]ansoy 
+green: -sansam 
+hair: abuk 
+hand: kalinduq	kalind~u7	loNon	loŋon	palad 
+left hand: kalinduq	kalind~u7	loNon	loŋon	palad 
+right: kalinduq	kalind~u7	loNon	loŋon	palad 
+head: ulu 
+hear: -doŋog	doNog 
+1 sg.: aku	daklq	ku 
+I: aku	daklq	ku 
+kill: -patoy 
+be knowledgeable: -panday 
+know: -panday 
+leaf: daun 
+lie: -luyaq 
+lie down: -luyaq 
+liver: aNk~ayaw	aŋkayaw 
+long: -[g]awad 
+head louse: kutu 
+louse: kutu 
+male: uŋkuyon 
+man: ulun 
+moon: bulan 
+mouth: kabaŋ 
+name: galan	iŋg|galan 
+title: galan	iŋg|galan 
+neck: liog 
+new: -[b]agu	agu	bagu 
+night: dondom	dond~om 
+nighttime: dondom	dond~om 
+nose: aduN	aduŋ 
+adulterous: akay	ditakaw	dondoq	saa[q]	sinan 
+one: akay	ditakaw	dondoq	saa[q]	sinan 
+single: akay	ditakaw	dondoq	saa[q]	sinan 
+that: gili	ginio 
+the: akay	ditakaw	dondoq	saa[q]	sinan 
+unprincipled: akay	ditakaw	dondoq	saa[q]	sinan 
+human: ulun 
+human being: ulun 
+person: ulun 
+rain: dasam 
+rainy weather: dasam 
+red: -liaq 
+path: dalan 
+road: dalan 
+route: dalan 
+root: bakat 
+sand: agis 
+say: -indagu	koon nu 
+see: -kito	kito 
+sit: -tuduŋ 
+hide: kuNk~uN	kuŋkuŋ 
+skin: kuNk~uN	kuŋkuŋ 
+sleep: -boloŋ 
+little: bobodok 
+small: bobodok 
+smallness: bobodok 
+smoke: lisun 
+star: butitin 
+rock: batu 
+stone: batu 
+swim: -saduy 
+tail: ikuq 
+this: gitio 
+2 sg: [o]kow	didun	kow	mu	okow 
+thou: [o]kow	didun	kow	mu	okow 
+you: [o]kow	didun	kow	mu	okow 
+tongue: dila7	dilaq 
+tooth: dipon 
+grind: dond~o7	duo	duɔ 
+two: dond~o7	duo	duɔ 
+go: oŋoy	ugad 
+walk: oŋoy	ugad 
+hot: -lasuq 
+warm: -lasuq 
+water: timug 
+1 pl. inc.: [i] to	[i]takaw	akay	damon	ditakaw	dito	ito	may	takaw	to 
+we: [i] to	[i]takaw	akay	damon	ditakaw	dito	ito	may	takaw	to 
+we₁: [i] to	[i]takaw	akay	damon	ditakaw	dito	ito	may	takaw	to 
+what: atan 
+white: -pulak 
+whiteness: -pulak 
+who: osoy 
+who?: osoy 
+female: duandoq 
+woman: duandoq 
+yellow: -silow 
+distant: -[g]alud 
+far: -[g]alud 
+dull: -[b]agat 
+heavy: -[b]agat 
+serious: -[b]agat 
+close: -maad 
+near: -maad 
+ner: -maad 
+salt: -[b]asin	usiq 
+short: -ganaq	diwaq 
+snake: kukuo 
+thin: -nipis 
+wind: aŋin 
+earthworm: liŋguaŋ 
+worm: liŋguaŋ 
+year: bilod 
+2 pl.: [a]kaw	da|muyu|n	min 
+ye: [a]kaw	da|muyu|n	min 
+you all: [a]kaw	da|muyu|n	min 
+3 pl.: disilo	ilo	nilo 
+they: disilo	ilo	nilo 
+where: ati 
+where?: ati 
+when: saŋg|ilan 
+when?: saŋg|ilan 
+how: ati kulaan	ati kuson 
+how?: ati kulaan	ati kuson 
+other: bokon 
+three: talu	tálu 
+four: apat	ʔapatʔ 
+five: limɔʔ 
+broad: -pilaq 
+wide: -pilaq 
+wideness: -pilaq 
+fat: lomok 
+thick: -kapal 
+narrow: -pisok 
+principal wife: anduq 
+wife: anduq 
+husband: dalaki 
+his mother: inaq 
+mother: inaq 
+my mother: inaq 
+father: amaq 
+his father: amaq 
+my father: amaq 
+forest: kataunan 
+woods: kataunan 
+branch: daan 
+stick: daan 
+fruit: kawaq 
+flower: busak 
+grass: sakot 
+cord: tali 
+rope: tali 
+flesh: umas 
+meat: umas 
+grease: lomok 
+wing: kawo 
+gut: tinaiq 
+guts: tinaiq 
+insides: tinaiq 
+intestine: tinaiq 
+intestines: tinaiq 
+back: bakuluŋ 
+suck: -tiop 
+spit: -tiwog 
+vomit: -luaq 
+blow: -sampuy 
+breath: -painawo 
+breathe: -painawo 
+laugh: -kudit 
+laughter: -kudit 
+cogitate: -kadaq 
+reflect: -kadaq 
+think: -kadaq 
+smell: -alok 
+sniff: -alok 
+afraid: -laaq 
+be afraid: -laaq 
+fear: -laaq 
+fright: -laaq 
+alive: -biag 
+be alive: -biag 
+life: -biag 
+live: -biag 
+living: -biag 
+hunt: -lulaq 
+beat: -lambaq 
+hit: -lambaq 
+strike: -lambaq 
+cut: -putul 
+hack: -putul 
+cut open: -lapaq 
+split: -lapaq 
+pierce: -tobok 
+stab: -tobok 
+scratch: -kukut 
+dig: -kali 
+stand: -bigod 
+drop: -datuq 
+fall: -datuq 
+grasp: -oŋgom 
+hold: -oŋgom 
+hold in arm: -oŋgom 
+squeeze: -pagaq 
+wring: -pagaq 
+throw: -bobol 
+bind: -dukug 
+fasten: -dukug 
+tie: -dukug 
+tie up: -dukug 
+sew: -pikit 
+count: -untob 
+enumerate: -untob 
+number: -untob 
+tally: -untob 
+flow: -taas 
+lake: luogon 
+ocean: daat 
+sea: daat 
+dust: jamol 
+fog: gaun 
+sky: dasawat 
+bad: -laat 
+evil: -laat 
+rot: -[b]otoŋ 
+rotten: -[b]otoŋ 
+dirty: -jamol 
+filthy: -jamol 
+soiled: -jamol 
+sharp: -ladom 
+blunt: -ŋaŋol 
+damp: -[b]asaq 
+wet: -[b]asaq 
+right side: pamiris 
+left: kait 
+at: da 
+in: da [lalom] 
+inside: da [lalom] 
+and: om 
+if: amun	nu 

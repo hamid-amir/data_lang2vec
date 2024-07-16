@@ -1,0 +1,901 @@
+all: (a)takas | atakas	mitakas	takas 
+all: mitakas | atakas	mitakas	takas 
+all: takas | atakas	mitakas	takas 
+ankle: koman(e) 
+ankle: kome 
+ankle: komon 
+ankle: kumin 
+arm: mahan 
+arm: man 
+arm: mane 
+arm: man(e) 
+arm: manmo 
+arm: man-mo 
+arm: mapen 
+arm: ma-pen 
+arm: mapin 
+arm: ma-pin 
+arm: mban 
+arm: sap 
+arm: sep 
+arm: sop 
+arm: so(p)mak 
+arm: sop(-mak) 
+arrow: ces 
+arrow: cəs 
+arrow: sene 
+arrow: soane 
+arrow: sön 
+arrow: tas 
+arrow: tes 
+ashes: mak | yamit	yemir	yowomic 
+ashes: yamit | yamit	yemir	yowomic 
+ashes: ya-mit | yamit	yemir	yowomic 
+ashes: yemir | yamit	yemir	yowomic 
+ashes: yi-mere | yamit	yemir	yowomic 
+ashes: yowmbic | yamit	yemir	yowomic 
+ashes: yowomic | yamit	yemir	yowomic 
+ashes: yowo-mic | yamit	yemir	yowomic 
+ashes: zo\omit | yamit	yemir	yowomic 
+back: maek 
+back: ma(e)k 
+back: makama 
+back: makmak 
+back: mak(-mak) 
+back: maksa 
+back: mek 
+bad: pacak 
+bad: pëcak 
+bad: pəcak 
+bad: perakas 
+bad: pota 
+bad: puicak 
+bark: picin 
+belly: yak | yak	yeke 
+belly: yeke | yak	yeke 
+big: asuw | asuw	aur	aut	awut 
+big: aur | asuw	aur	aut	awut 
+big: auru | asuw	aur	aut	awut 
+big: aut | asuw	aur	aut	awut 
+big: awut | asuw	aur	aut	awut 
+bird: sak(o) | sak	sako	sakuː	sok	soko 
+bird: sak(u) | sak	sako	sakuː	sok	soko 
+bird: sakuː | sak	sako	sakuː	sok	soko 
+bird: sok | sak	sako	sakuː	sok	soko 
+bird: sok(o) | sak	sako	sakuː	sok	soko 
+bird: sok(u) | sak	sako	sakuː	sok	soko 
+black: sasak | sasak	sosaka	səsək 
+black: sesak | sasak	sosaka	səsək 
+black: sësak | sasak	sosaka	səsək 
+black: sosaka | sasak	sosaka	səsək 
+black: szəsək | sasak	sosaka	səsək 
+blood: es | es	ese 
+blood: es(e) | es	ese 
+bone: emak | emak	emake 
+bone: emak(e) | emak	emake 
+bone: embak | emak	emake 
+branch: ao 
+branch: áo 
+branch: awa 
+branch: oa 
+branch: óo 
+branch: pa 
+breast: ao | ao	au	aw 
+breast: aó | ao	au	aw 
+breast: au | ao	au	aw 
+breast: aú | ao	au	aw 
+breast: aw | ao	au	aw 
+breast: aw men | ao	au	aw 
+brother: aoc 
+brother: -apuc 
+brother: -eot 
+brother: -epec 
+brother: epeč 
+brother: -epot 
+brother: -epuc 
+brother: epuč 
+brother: -ewec 
+brother: -ewot 
+brother: -ewuc 
+brother: -or 
+brother: -per 
+burn: ses 
+burn: sɔs 
+butterfly: far 
+butterfly: fat 
+butterfly: foc 
+butterfly: for(o) 
+calf: emenmak 
+calf: emen-mak 
+calf: emen-mo (nesa) 
+calf: emenmo nesa 
+calf: emi(n) 
+calf: emin(mak) 
+calf: imanmos 
+calf: imen-mo 
+calf: menmo 
+cassowary: pi 
+cheek: aka 
+cheek: ak(e) 
+chest: au 
+chest: aw fak 
+chest: awi 
+chest: awu 
+chest: yamam 
+chest: yamom 
+child: yií 
+child: yií 
+child: yiwi 
+child: yü\ü 
+child: yüü 
+cloud: onam | onam	wanam	wanamo	wenem 
+cloud: wanam(o) | onam	wanam	wanamo	wenem 
+cloud: wenem | onam	wanam	wanamo	wenem 
+cold: yif(e) | yif	yife	yufo	yufu 
+cold: yifo | yif	yife	yufo	yufu 
+cold: yofo | yif	yife	yufo	yufu 
+cold: yufo | yif	yife	yufo	yufu 
+cold: yufo(-k) | yif	yife	yufo	yufu 
+cold: yufu | yif	yife	yufo	yufu 
+come: -enao- | enaw	enaw-	sayes 
+come: enaw- | enaw	enaw-	sayes 
+crocodile: e 
+crocodile: ee 
+crocodile: e\e 
+crocodile: ew 
+crocodile: ö\ö 
+crocodile: öö 
+cut: ci- 
+cut: faw- 
+cut: mo- 
+cut: sakam- 
+cut: ti- 
+dance: ni ni- 
+dark: yit 
+dark: yiwic 
+dark: yür 
+dark: yü\ütu 
+daughter: parais 
+daughter: parayüs 
+daughter: parwes 
+daughter: pereis 
+daughter: porais 
+daughter: pores 
+day: mar 
+day: mer 
+day: poro 
+day: porow 
+day: puː 
+day: yok 
+day: yopak 
+day: yopeke 
+day: yopok(e) 
+die: namir | yis 
+die: nimir | yis 
+dig: si 
+dig: si- 
+dirty: ponow 
+dog: yo | yu	yuur	yuwur	yúuri 
+dog: yu | yu	yuur	yuwur	yúuri 
+dog: yúuri | yu	yuur	yuwur	yúuri 
+dog: yuur(i) | yu	yuur	yuwur	yúuri 
+dog: yuwur | yu	yuur	yuwur	yúuri 
+dog: yu(w)ur | yu	yuur	yuwur	yúuri 
+dog: zuwur | yu	yuur	yuwur	yúuri 
+dry: sa | sa	soso 
+dry: soso | sa	soso 
+earth: capinbi | capinmi	takmi	tepenemi 
+earth: capinmi | capinmi	takmi	tepenemi 
+earth: capin-mi | capinmi	takmi	tepenemi 
+earth: se | capinmi	takmi	tepenemi 
+earth: takmi | capinmi	takmi	tepenemi 
+earth: tapini-mi | capinmi	takmi	tepenemi 
+earth: tepenemi | capinmi	takmi	tepenemi 
+earth: tepin(i)-mi | capinmi	takmi	tepenemi 
+ear: yahan | yahan	yan	yanmak	yen	yenmak 
+ear: yan | yahan	yan	yanmak	yen	yenmak 
+ear: yane | yahan	yan	yanmak	yen	yenmak 
+ear: yanmak | yahan	yan	yanmak	yen	yenmak 
+ear: yan(-mak) | yahan	yan	yanmak	yen	yenmak 
+ear: yen | yahan	yan	yanmak	yen	yenmak 
+ear: zane | yahan	yan	yanmak	yen	yenmak 
+eat: -an ~ na- | na-	ne- 
+eat: na- | na-	ne- 
+eat: ne- | na-	ne- 
+egg: ok | ok	oka	sa 
+egg: ok(a) | ok	oka	sa 
+egg: sa | ok	oka	sa 
+egg: upu | ok	oka	sa 
+elbow: senane 
+elbow: senene 
+elbow: senmak 
+elbow: sen-mak 
+elbow: sonan 
+elbow: sonone 
+elbow: sonon(e) 
+emu: pi 
+excrement: as(a) 
+excrement: ase 
+eye: manak(a) | man-mak	mana-mok	manak	manaka	manmak 
+eye: manamok | man-mak	mana-mok	manak	manaka	manmak 
+eye: mana-mok | man-mak	mana-mok	manak	manaka	manmak 
+eye: manmak | man-mak	mana-mok	manak	manaka	manmak 
+eye: man-mak | man-mak	mana-mok	manak	manaka	manmak 
+fall: now- 
+fall: nu 
+father: -ar 
+father: -icipic 
+father: -ic-ipic 
+father: -it-ipic 
+father: -itipit 
+father: -ot 
+father: -wic 
+fat (n.): om 
+fat (n.): oma 
+fat (n.): om(a) 
+fear: omar 
+fear: omare 
+fear: omer 
+fear: sone 
+feather: fa-p-mot 
+feather: -mot 
+finger: ef(e) 
+finger: metet 
+finger: mitüt 
+finger: mitüt 
+fingernail: faro 
+fingernail: fic 
+fingernail: fič 
+fingernail: fic(i) 
+fingernail: firi 
+fingernail: fit 
+fire: ya-muk | ismak	yis	yismak	yüsmak 
+fire: yis | ismak	yis	yismak	yüsmak 
+fire: yismak | ismak	yis	yismak	yüsmak 
+fire: (y)ismak | ismak	yis	yismak	yüsmak 
+fire: (y)is-mak | ismak	yis	yismak	yüsmak 
+fire: yo\osa | ismak	yis	yismak	yüsmak 
+fire: yosa | ismak	yis	yismak	yüsmak 
+fire: yowse | ismak	yis	yismak	yüsmak 
+fire: yüsmak | ismak	yis	yismak	yüsmak 
+fire: yüs-mak | ismak	yis	yismak	yüsmak 
+fish: enam(o) | enam	enamo	enəmo	onem 
+fish: enëmo | enam	enamo	enəmo	onem 
+fish: enəmo | enam	enamo	enəmo	onem 
+fish: onem | enam	enamo	enəmo	onem 
+flower: ciwew 
+fly (n.): opat 
+fly (n.): opot 
+fly (n.): upir 
+fly (n.): upur 
+fly (v.): ôpi- 
+fly (v.): pi- 
+foot: cimi | may	mayi	me	mew	mey 
+foot: cumi | may	mayi	me	mew	mey 
+foot: mai | may	mayi	me	mew	mey 
+foot: may(i) | may	mayi	me	mew	mey 
+foot: mew | may	mayi	me	mew	mey 
+foot: me(y) | may	mayi	me	mew	mey 
+foot: míi | may	mayi	me	mew	mey 
+foot: tim(i) | may	mayi	me	mew	mey 
+forehead: manapin 
+forehead: maná-pin 
+forehead: manpin 
+forehead: minipin 
+forehead: mini-pin 
+forehead: munipin 
+forehead: muni-pin 
+forest: wa 
+forest: wasan 
+forest: wa-san 
+forest: wasen 
+forest: wa-sen 
+forest: we 
+fruit: eak 
+fruit: e(a)k 
+fruit: ek 
+full: imi | imi	imunakap	pir	piti	umunakap 
+full: imunakap | imi	imunakap	pir	piti	umunakap 
+full: pir | imi	imunakap	pir	piti	umunakap 
+full: piti | imi	imunakap	pir	piti	umunakap 
+full: umunakap | imi	imunakap	pir	piti	umunakap 
+give: tam- | tam-	tatam-	tetam- 
+give: tatam- | tam-	tatam-	tetam- 
+give: -tetam- | tam-	tatam-	tetam- 
+give: tetam- | tam-	tatam-	tetam- 
+give: te-tam/ta-tam | tam-	tatam-	tetam- 
+good: akat | akat	akot 
+good: akot | akat	akot 
+grass: fimin 
+grass: fimini 
+grass: finumu 
+grass: fomin 
+grass: fomn 
+grass: fumin 
+guts: asow 
+hair: fin | fina	fini	ufun 
+hair: fina | fina	fini	ufun 
+hair: fini | fina	fini	ufun 
+hair: ufun | fina	fini	ufun 
+hair: u-fun | fina	fini	ufun 
+hand: mahan | mahan	man	mane 
+hand: man | mahan	man	mane 
+hand: mane | mahan	man	mane 
+hand: man(e) | mahan	man	mane 
+head: ku-(i)s | kuis	kus	kuʼus 
+head: ku(i)s | kuis	kus	kuʼus 
+head: kuːs | kuis	kus	kuʼus 
+head: kus cënam | kuis	kus	kuʼus 
+head: ku-us | kuis	kus	kuʼus 
+head: ku\us | kuis	kus	kuʼus 
+head: kuwis | kuis	kus	kuʼus 
+head: kuwus | kuis	kus	kuʼus 
+heart: eak(tan) | eak	eaktan	ekcan	sokcen 
+heart: eák(-tan) | eak	eaktan	ekcan	sokcen 
+heart: eák-ten | eak	eaktan	ekcan	sokcen 
+heart: ekcan | eak	eaktan	ekcan	sokcen 
+heart: ek-can | eak	eaktan	ekcan	sokcen 
+heart: sokcen | eak	eaktan	ekcan	sokcen 
+heart: sok-cen | eak	eaktan	ekcan	sokcen 
+heavy: wuturu | wuturu	yitur	yutur 
+heavy: yitur | wuturu	yitur	yutur 
+heavy: yutur | wuturu	yitur	yutur 
+heel: cimi 
+heel: cumi 
+heel: timi 
+heel: tümi 
+he/she: a 
+he/she: ar 
+he/she: ar(-e) 
+he/she: ar(e) 
+hit: toaf- 
+hit: towof- 
+hole: yaf(a) 
+hole: yip 
+hole: yof 
+hole: yof(o) 
+horn: okos(e) | fu 
+horn: okse | fu 
+house: cem 
+house: tam 
+house: tame 
+house: tem(e) 
+house: yaw 
+husband: -mipic 
+husband: miwis 
+husband: -mo 
+husband: -mo(wir) 
+husband: -ome 
+husband: -(u)mu 
+in: aman 
+I: ndor | ne	ner	nor 
+I: ne(-r) | ne	ner	nor 
+I: ne(r) | ne	ner	nor 
+I: no | ne	ner	nor 
+I: no- | ne	ner	nor 
+I: nor | ne	ner	nor 
+I: no(-r) | ne	ner	nor 
+jaw: oko-n(e) 
+jaw: okon(e) 
+kill: ca- | ca-	sonow em-	sənao emo	ta-	te-	toaf-	towof- 
+kill: sanao | ca-	sonow em-	sənao emo	ta-	te-	toaf-	towof- 
+kill: sənao emo | ca-	sonow em-	sənao emo	ta-	te-	toaf-	towof- 
+kill: sonow | ca-	sonow em-	sənao emo	ta-	te-	toaf-	towof- 
+kill: sonow em- | ca-	sonow em-	sənao emo	ta-	te-	toaf-	towof- 
+kill: ta- | ca-	sonow em-	sənao emo	ta-	te-	toaf-	towof- 
+kill: te- | ca-	sonow em-	sənao emo	ta-	te-	toaf-	towof- 
+kill: toaf- | ca-	sonow em-	sənao emo	ta-	te-	toaf-	towof- 
+kill: towof- | ca-	sonow em-	sənao emo	ta-	te-	toaf-	towof- 
+knee: yina | yina	yine	yini 
+knee: yinaa | yina	yine	yini 
+knee: yina-fu | yina	yine	yini 
+knee: yine | yina	yine	yini 
+knee: yini | yina	yine	yini 
+knee: zini | yina	yine	yini 
+laugh: uci oc- 
+laugh: uc oc- 
+laugh: wiri wir- 
+laugh: wuti wot- 
+leaf: e | e	ea	ey	eʼe	tere 
+leaf: ea | e	ea	ey	eʼe	tere 
+leaf: e\e | e	ea	ey	eʼe	tere 
+leaf: e(é) | e	ea	ey	eʼe	tere 
+leaf: esena | e	ea	ey	eʼe	tere 
+leaf: etan | e	ea	ey	eʼe	tere 
+leaf: ey | e	ea	ey	eʼe	tere 
+left: tama 
+left: tamo 
+leg: mai 
+leg: may(i) 
+leg: mbay 
+leg: mew 
+leg: me(y) 
+leg: míi 
+lie: ames- | ames-	amis- 
+lie: amis- | ames-	amis- 
+lightning: mar 
+lightning: masa-maro 
+lightning: masa-mer 
+lightning: mer 
+lightning: wa\ak 
+lightning: warak 
+lightning: werak 
+lip: e 
+lip: ewen 
+lip: ewe-n 
+lip: ipni 
+lip: ip-ni 
+lip: iwini 
+lip: iwi-ni 
+lip: ünü 
+lip: ü-nü 
+liver: wa | wa	wo 
+liver: wo | wa	wo 
+long: kowe | yurow	yuruw	yəro 
+long: yao | yurow	yuruw	yəro 
+long: yəro | yurow	yuruw	yəro 
+long: yirao | yurow	yuruw	yəro 
+long: yurow | yurow	yuruw	yəro 
+long: yuruw | yurow	yuruw	yəro 
+louse: wam(o) | womak 
+louse: wombak | womak 
+louse: wom(o) | womak 
+man: -ipic | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+man: -ipit | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+many: arke 
+man: yipic | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+man: yipir | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+man: yipit | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+meat: nasa | nas	nasa	nes	nesa 
+meat: nas(a) | nas	nasa	nes	nesa 
+meat: nes(a) | nas	nasa	nes	nesa 
+moon: pii | pir	pira	piʼi 
+moon: pi\i | pir	pira	piʼi 
+moon: pir | pir	pira	piʼi 
+moon: pir(a) | pir	pira	piʼi 
+morning: taham 
+morning: tama 
+morning: tam(a) 
+morning: tom 
+mosquito: is(i) 
+mother: enew 
+mother: ene(w) 
+mother: -oso\oc 
+mother: -osowuc 
+mother: -osowuc-so(\o)r 
+mother: -soor 
+mother: -(w)os 
+mouth: ma | ma	me	mea	mia 
+mouth: me | ma	me	mea	mia 
+mouth: me(a) | ma	me	mea	mia 
+mouth: mia | ma	me	mea	mia 
+name: yoos | yos	yoʼos	yuas	yuwus 
+name: yo(\o)s | yos	yoʼos	yuas	yuwus 
+name: yuas | yos	yoʼos	yuas	yuwus 
+name: yuwas | yos	yoʼos	yuas	yuwus 
+name: yuwus | yos	yoʼos	yuas	yuwus 
+name: zoas | yos	yoʼos	yuas	yuwus 
+narrow: kiki 
+navel: mokoper 
+navel: mokope(r) 
+navel: mope 
+neck: famak | femuk	fimak	fomak	fəmak 
+neck: femak | femuk	fimak	fomak	fəmak 
+neck: fəmak | femuk	fimak	fomak	fəmak 
+neck: femuk | femuk	fimak	fomak	fəmak 
+neck: fimak | femuk	fimak	fomak	fəmak 
+neck: fomak | femuk	fimak	fomak	fəmak 
+neck: yimas | femuk	fimak	fomak	fəmak 
+neck: yumus | femuk	fimak	fomak	fəmak 
+new: ay | ay	ayi 
+new: ayas | ay	ayi 
+new: ay(i) | ay	ayi 
+night: eram | eram	erem	uam	uiam	yiram 
+night: erem | eram	erem	uam	uiam	yiram 
+night: u(i)am | eram	erem	uam	uiam	yiram 
+night: yiram | eram	erem	uam	uiam	yiram 
+nose: mi(-mak) | mi	mimak	mimuk 
+nose: mi-muk | mi	mimak	mimuk 
+not: min | min	opak	opok	wap 
+not: opak | min	opak	opok	wap 
+not: opok | min	opak	opok	wap 
+not: wap | min	opak	opok	wap 
+old: akamat 
+old: ak(a)mat 
+old: akamer 
+old: tare(y) 
+old: tari 
+old: tiri 
+one: cowak | Towak	cowak	cowok	take	toko 
+one: cowok | Towak	cowak	cowok	take	toko 
+one: take | Towak	cowak	cowok	take	toko 
+one: toko | Towak	cowak	cowok	take	toko 
+other: wen 
+other: wun 
+person: kae | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+person: kawey | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+person: kawi | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+person: ke\e | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+person: ow(e) | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+person: uú | asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+pull: yim- 
+rain: te 
+rat: paro 
+rat: perëto 
+rat: per(o) 
+rat: peros 
+rat: përot 
+rat: pir(a)o 
+red: esakam | esakam	eskam 
+red: eskam | esakam	eskam 
+ripe: pi 
+ripe: pií 
+ripe: piwi 
+ripe: pü 
+river: yi 
+river: yo 
+river: yu(k) 
+road: maiyof 
+road: matot 
+root: mim(i) | mim	mimi	tamo	tamow	tamu	tamuw 
+root: tamo(w) | mim	mimi	tamo	tamow	tamu	tamuw 
+root: tamu(w) | mim	mimi	tamo	tamow	tamu	tamuw 
+rope: amam 
+rope: amum 
+rope: sëmen 
+rope: səmen 
+rope: soman(e) 
+rope: somen 
+rope: sumnu 
+rotten: ofak 
+rotten: of(o) 
+rub: aram- 
+salt: yema | yema	yeme 
+salt: yeme | yema	yeme 
+sand: misin | misin	misun	misün 
+sand: misun | misin	misun	misün 
+sand: misün | misin	misun	misün 
+sand: misün | misin	misun	misün 
+sand: ti | misin	misun	misün 
+sea: piri 
+sea: wa 
+sea: wo 
+seed: apak 
+seed: apok 
+see: pa- | por	porem 
+see: per- | por	porem 
+see: po\o- | por	porem 
+see: -por- | por	porem 
+see: po(r)- | por	porem 
+see: por- | por	porem 
+see: pow- | por	porem 
+sew: si- 
+sharp: faro(t) 
+sharp: fere 
+sharp: fero 
+sharp: foro 
+short: fane-nakap | faninakap	fanip	fayenakap 
+short: faninakap | faninakap	fanip	fayenakap 
+short: fani-nakap | faninakap	fanip	fayenakap 
+short: fanip | faninakap	fanip	fayenakap 
+short: fayenakap | faninakap	fanip	fayenakap 
+shoulder: pama 
+shoulder: pemo 
+shoulder: poma 
+shoulder: saya 
+shoulder: sayi 
+shoulder: sey 
+shoulder: sikop 
+shoulder: sitemo 
+sing: so 
+sister: -amos 
+sister: --amos 
+sister: -emsi 
+sister: epic 
+sister: -epic 
+sister: -ipic 
+sister: -(i)pir 
+sister: -ipit 
+sister: -omas 
+sister: -omes 
+sister: -omos 
+sister: -upic 
+sit: -ap- | ap-	yap- 
+sit: (y)ap- | ap-	yap- 
+skin: picin | piTin	picin	pirin	piti	pitin	pitni 
+skin: pirin | piTin	picin	pirin	piti	pitin	pitni 
+skin: piti(n) | piTin	picin	pirin	piti	pitin	pitni 
+skin: pitni | piTin	picin	pirin	piti	pitin	pitni 
+sky: onam 
+sky: onom 
+sky: wanam 
+sky: wanam(o) 
+sky: wenem 
+sky: wonamo 
+sky: wonomo 
+sleep: ese | ese	esi	is	isi 
+sleep: ese es- | ese	esi	is	isi 
+sleep: esi | ese	esi	is	isi 
+sleep: is | ese	esi	is	isi 
+sleep: isi | ese	esi	is	isi 
+sleep: is(i) | ese	esi	is	isi 
+sleep: isi es- | ese	esi	is	isi 
+smell: pinim 
+smell: pinum 
+smoke: (y)isamen | isamen	yisamun 
+smoke: (y)isamin | isamen	yisamun 
+smoke: (y)is-amin | isamen	yisamun 
+smoke: yisamun | isamen	yisamun 
+smoke: (y)is-amun | isamen	yisamun 
+smoke: ǯis amun | isamen	yisamun 
+snake: ame | ame	amer	amernak 
+snake: amer | ame	amer	amernak 
+snake: amer(nak) | ame	amer	amernak 
+son: tii 
+son: ti\i 
+son: tiw 
+son: tu 
+son: tü(\ü) 
+son: tüü 
+spit: masa 
+spit: maso 
+spit: mesa(p) 
+spit: mesep 
+spit: os 
+split: terem- 
+split: terem(e)- 
+stand: am- 
+stand: em- 
+star: maet | maet	mait	mak	mawit	mayüt 
+star: maét | maet	mait	mak	mawit	mayüt 
+star: mait | maet	mait	mak	mawit	mayüt 
+star: maít | maet	mait	mak	mawit	mayüt 
+star: mak | maet	mait	mak	mawit	mayüt 
+star: mawar | maet	mait	mak	mawit	mayüt 
+star: mawit | maet	mait	mak	mawit	mayüt 
+star: mayüt | maet	mait	mak	mawit	mayüt 
+star: mayüt | maet	mait	mak	mawit	mayüt 
+star: mewer | maet	mait	mak	mawit	mayüt 
+star: mewor | maet	mait	mak	mawit	mayüt 
+stick: ef(e) 
+stick: om(o) 
+stone: ek | ek	eka	eke	ika 
+stone: ek(a) | ek	eka	eke	ika 
+stone: eke | ek	eka	eke	ika 
+stone: ika | ek	eka	eke	ika 
+straight: emer(o) 
+straight: emtow 
+straight: omtow 
+straight: orom- 
+straight: toro\ot 
+straight: toror 
+straight: torwot 
+sun: yawi | yo	yo cənam	yoe	yow	yoʼo 
+sun: yo cənam | yo	yo cənam	yoe	yow	yoʼo 
+sun: yoe | yo	yo cənam	yoe	yow	yoʼo 
+sun: yo(e) | yo	yo cənam	yoe	yow	yoʼo 
+sun: yo\o | yo	yo cənam	yoe	yow	yoʼo 
+sun: yo-paka | yo	yo cənam	yoe	yow	yoʼo 
+sun: yo-pok(e) | yo	yo cənam	yoe	yow	yoʼo 
+sun: yow | yo	yo cənam	yoe	yow	yoʼo 
+sun: yow (cënam) | yo	yo cənam	yoe	yow	yoʼo 
+sun: zoe | yo	yo cənam	yoe	yow	yoʼo 
+swim: cici- | cici-	cucu-	ti-	tu-	tütü- 
+swim: cucu- | cici-	cucu-	ti-	tu-	tütü- 
+swim: ti- | cici-	cucu-	ti-	tu-	tütü- 
+swim: tu- | cici-	cucu-	ti-	tu-	tütü- 
+swim: tütü- | cici-	cucu-	ti-	tu-	tütü- 
+swim: tütü- | cici-	cucu-	ti-	tu-	tütü- 
+tail: ep | ep	epe	epemak	epmak 
+tail: ep(e) | ep	epe	epemak	epmak 
+tail: epemak | ep	epe	epemak	epmak 
+tail: ep(e)(-mak) | ep	epe	epemak	epmak 
+tail: epmak | ep	epe	epemak	epmak 
+take: osom- 
+take: t(a)e- 
+take: te\er- 
+take: ter 
+take: tew- 
+take: tew-/taw- 
+take: wasem- 
+they: a(-r) 
+thigh: aá 
+thigh: ae 
+thigh: a(é) 
+thigh: éa 
+thigh: e(á) 
+thigh: emak 
+thigh: ia 
+thigh: sap 
+thigh: sep 
+thigh: sop(-mak) 
+thin: faco | faco	fato	foco	foro 
+thin: fato | faco	fato	foco	foro 
+thin: foco | faco	fato	foco	foro 
+thin: foro | faco	fato	foco	foro 
+think: minip 
+think: minip pim- 
+think: minip pum- 
+this: a | a	ar	ara	are 
+this: a(ra) | a	ar	ara	are 
+this: ar(a) | a	ar	ara	are 
+this: are | a	ar	ara	are 
+thorn: fa 
+thorn: ic(i) 
+thorn: (i)iri 
+thorn: iri 
+thorn: iti 
+thou: ca | or	wer	wo	wor 
+thou: car | or	wer	wo	wor 
+thou: o | or	wer	wo	wor 
+thou: o- | or	wer	wo	wor 
+thou: or | or	wer	wo	wor 
+thou: ta | or	wer	wo	wor 
+thou: tar | or	wer	wo	wor 
+thou: wer | or	wer	wo	wor 
+thou: (w)o(-r) | or	wer	wo	wor 
+thou: wo(r) | or	wer	wo	wor 
+throat: famak 
+throat: femak 
+throat: fəmak 
+throat: fem-fu 
+throat: femuk 
+throat: fimak 
+throat: fomak 
+thunder: wir 
+thunder: wur 
+thunder: wur(u) 
+tie: mot- 
+tie: yik 
+tie: yik- 
+tie: zik 
+today: waw 
+today: wo(w) 
+tomorrow: to 
+tongue: koman | koman	komen	komn	komne 
+tongue: komen | koman	komen	komn	komne 
+tongue: komn(e) | koman	komen	komn	komne 
+tooth: okos(e) | sis	sisi 
+tooth: okse | sis	sisi 
+tooth: sis | sis	sisi 
+tooth: sis(i) | sis	sisi 
+tree: mapan | os 
+tree: mapn | os 
+tree: mopon | os 
+tree: os 
+tree: wes | os 
+tree: (w)os 
+turn: pay- 
+two: amënuk | imnuk	kapom	yamnok	yamnuk 
+two: imnuk | imnuk	kapom	yamnok	yamnuk 
+two: kapom | imnuk	kapom	yamnok	yamnuk 
+two: yamnok | imnuk	kapom	yamnok	yamnuk 
+two: yamnuk | imnuk	kapom	yamnok	yamnuk 
+unripe: ofo 
+vagina: can 
+vagina: cen 
+vagina: cən 
+vagina: per 
+vagina: tani 
+vagina: tene 
+vagina: tini 
+vomit: mo- 
+walk: ya(r)- | ya-	yar- 
+warm: amam 
+warm: amop 
+warm: amup 
+wash: mi mu- 
+wash: mui mui- 
+wash: mu mu- 
+water: mbu | mi	mu	mui	muy 
+water: mi | mi	mu	mui	muy 
+water: mu | mi	mu	mui	muy 
+water: mui | mi	mu	mui	muy 
+water: mu(í) | mi	mu	mui	muy 
+water: muy | mi	mu	mui	muy 
+weep: mate mate- 
+weep: mere mere- 
+weep: moc moc- 
+weep: mor mor- 
+weep: muru muru- 
+we: na | nar 
+we: nar 
+we: na(-r) | nar 
+we: ndar | nar 
+wet: maro 
+wet: moco 
+wet: morok 
+where: ucar 
+white: fasak | fasak	fasar	fase	fesak	fesaka	napi	nipi 
+white: fasar | fasak	fasar	fase	fesak	fesaka	napi	nipi 
+white: fase | fasak	fasar	fase	fesak	fesaka	napi	nipi 
+white: fesak(a) | fasak	fasar	fase	fesak	fesaka	napi	nipi 
+white: napi | fasak	fasar	fase	fesak	fesaka	napi	nipi 
+white: nipi | fasak	fasar	fase	fesak	fesaka	napi	nipi 
+white: seec | fasak	fasar	fase	fesak	fesaka	napi	nipi 
+white: seret | fasak	fasar	fase	fesak	fesaka	napi	nipi 
+white: sëro | fasak	fasar	fase	fesak	fesaka	napi	nipi 
+who: ca | ca	car	ta 
+who: car | ca	car	ta 
+who: ca(r) | ca	car	ta 
+who: ta | ca	car	ta 
+wife: cëpes 
+wife: -em 
+wife: -emo 
+wife: -em(o) 
+wife: -mo 
+wind: fo 
+wing: yaoro 
+wing: ya(o)ro 
+wing: yaro 
+wing: yera 
+wing: yero 
+wing: yəro 
+wing: yora 
+wing: yoro 
+wing: yoru 
+woman: cawuc | cawuc	cowuc	taot	toʼor 
+woman: cëpes | cawuc	cowuc	taot	toʼor 
+woman: cəpes | cawuc	cowuc	taot	toʼor 
+woman: cowoc | cawuc	cowuc	taot	toʼor 
+woman: cowuc | cawuc	cowuc	taot	toʼor 
+woman: taot | cawuc	cowuc	taot	toʼor 
+woman: tapes | cawuc	cowuc	taot	toʼor 
+woman: tepes | cawuc	cowuc	taot	toʼor 
+woman: to\or | cawuc	cowuc	taot	toʼor 
+wood: (y)is 
+wood: yüs 
+wood: yüs 
+wrist: koman(e) 
+wrist: kumin 
+yesterday: to 
+you: ca(-r) | or	wer	wo	wor 
+you: ta(-r) | or	wer	wo	wor 
+every: atakas	mitakas	takas 
+ash: yamit	yemir	yowomic 
+abdomen: yak	yeke 
+bigness: asuw	aur	aut	awut 
+large: asuw	aur	aut	awut 
+breasts: ao	au	aw 
+come from: enaw	enaw-	sayes 
+be dead: yis 
+dead: yis 
+drink: mu 
+ground: capinmi	takmi	tepenemi 
+land: capinmi	takmi	tepenemi 
+soil: capinmi	takmi	tepenemi 
+fly: pi- 
+fly v.: pi- 
+left hand: mahan	man	mane 
+right: mahan	man	mane 
+hear: por 
+1 sg.: ne	ner	nor 
+be knowledgeable: -misom	-msom 
+know: -misom	-msom 
+lie down: ames-	amis- 
+head louse: womak 
+male: yipic	yipir	yipit 
+flesh: nas	nasa	nes	nesa 
+title: yos	yoʼos	yuas	yuwus 
+nighttime: eram	erem	uam	uiam	yiram 
+adulterous: Towak	cowak	cowok	take	toko 
+single: Towak	cowak	cowok	take	toko 
+that: Towak	cowak	cowok	take	toko 
+the: Towak	cowak	cowok	take	toko 
+unprincipled: Towak	cowak	cowok	take	toko 
+human: asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+human being: asmat	kae	kawenak	kawey	kawi	keʼe	ow pl.	owe pl. 
+rainy weather: te 
+say: misin	misun	misün 
+hide: piTin	picin	pirin	piti	pitin	pitni 
+rock: ek	eka	eke	ika 
+2 sg: or	wer	wo	wor 
+grind: imnuk	kapom	yamnok	yamnuk 
+go: ya-	yar- 
+1 pl. inc.: nar 
+we₁: nar 
+whiteness: fasak	fasar	fase	fesak	fesaka	napi	nipi 
+who?: ca	car	ta 
+female: cawuc	cowuc	taot	toʼor 
+dull: wuturu	yitur	yutur 
+serious: wuturu	yitur	yutur 

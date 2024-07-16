@@ -1,0 +1,271 @@
+all: peleng	piriʼ	waya 
+every: peleng	piriʼ	waya 
+ash: awu 
+ashes: awu 
+abdomen: poʼot	tian 
+belly: poʼot	tian 
+big: sela	wangko 
+bigness: sela	wangko 
+large: sela	wangko 
+bird: koʼkoʼ 
+bite: kumiki 
+black: didem 
+blood: da7	daaʼ	seding 
+bone: dui 
+breast: totoʼ	wed-wed 
+breasts: totoʼ	wed-wed 
+burn: rumangket	rumengis	tumunu 
+burn tr.: rumangket	rumengis	tumunu 
+cloud: engur 
+cold: dateʼ 
+come: ey	eye	maʼai 
+come from: ey	eye	maʼai 
+be dead: mate	pate 
+dead: mate	pate 
+die: mate	pate 
+dog: asu 
+drink: melep 
+dry: pera 
+ear: dunteng 
+eat: kuman 
+egg: etedu 
+eye: b3r3n	weren 
+feather: wutwut 
+fire: api	layas 
+fish: peʼen	s3da7 
+fly: sumendow	tumelew 
+fly v.: sumendow	tumelew 
+full: b3su	pudiN 
+good: leʼos 
+green: mataʼ 
+hair: wuʼuk 
+hand: d3N3n	dengen 
+left hand: d3N3n	dengen 
+right: d3N3n	dengen 
+head: udu 
+hear: tadiNa	tumadinga	tumerang 
+horn: suNe 
+1 sg.: aku	ni aku	nyaku 
+I: aku	ni aku	nyaku 
+kill: mapate	mate tou 
+knee: buku 
+be knowledgeable: mataʼu 
+know: mataʼu 
+leaf: dadiʼna 
+lie: kumoloʼ 
+lie down: kumoloʼ 
+liver: ate 
+long: dabo	damboʼ 
+head louse: kokoanseng	kutu	pelotung 
+louse: kokoanseng	kutu	pelotung 
+male: tuama 
+man: tou 
+moon: leloʼon 
+mouth: semut	suma 
+name: Naran	ngaran 
+title: Naran	ngaran 
+neck: deeʼ 
+new: b3ru	weru 
+night: b3Ni	wengi 
+nighttime: b3Ni	wengi 
+nose: NiruN	ngirung 
+adulterous: 3sa	esa	əsa 
+one: 3sa	esa	əsa 
+single: 3sa	esa	əsa 
+that: niʼitu 
+the: 3sa	esa	əsa 
+unprincipled: 3sa	esa	əsa 
+human: tou 
+human being: tou 
+person: tou 
+rain: udan 
+rainy weather: udan 
+red: rundang 
+path: lalan 
+road: lalan 
+route: lalan 
+root: amut 
+sand: eris 
+say: dumakut	tumarnem	tumudu 
+see: maʼelek	melek 
+sit: mempoʼ	mumpeʼ 
+hide: dunus	kudit 
+skin: dunus	kudit 
+sleep: tumekel 
+little: kokiʼ	rintek 
+small: kokiʼ	rintek 
+smallness: kokiʼ	rintek 
+smoke: terbur 
+star: totiʼ 
+rock: batu	watu 
+stone: batu	watu 
+sun: 3nd~o 
+swim: maʼoyouw 
+tail: ipus 
+this: nyiʼai 
+2 sg: ko	ni ko	niko 
+thou: ko	ni ko	niko 
+you: ko	ni ko	niko 
+tongue: dida7	didaʼ 
+tooth: ba7aN	waʼang 
+tree: kayu 
+grind: dua 
+two: dua 
+go: kumelang 
+walk: kumelang 
+hot: pasuʼ 
+warm: pasuʼ 
+water: dano	doud 
+1 pl. inc.: kita	ngkami	ni kami 
+we: kita	ngkami	ni kami 
+we₁: kita	ngkami	ni kami 
+what: epa	nepa 
+white: putiʼ 
+whiteness: putiʼ 
+who: sipa 
+who?: sipa 
+female: wewene 
+woman: wewene 
+yellow: ririi 
+distant: douʼ 
+far: douʼ 
+dull: wuted 
+heavy: wuted 
+serious: wuted 
+close: rempeʼ	rende 
+near: rempeʼ	rende 
+ner: rempeʼ	rende 
+salt: asin 
+short: poghar	potoʼ 
+snake: sawa	udeʼ 
+thin: tawis 
+wind: reghes 
+earthworm: loloati 
+worm: loloati 
+year: taon 
+2 pl.: ngko	niko 
+ye: ngko	niko 
+you all: ngko	niko 
+3 pl.: ni sera	nsera 
+they: ni sera	nsera 
+where: wisa 
+where?: wisa 
+when: ngkawisa	sawisa 
+when?: ngkawisa	sawisa 
+how: kura 
+how?: kura 
+other: wadina 
+three: tedu	tədu 
+four: epat	əpat 
+five: dima 
+broad: doang	lesa 
+wide: doang	lesa 
+wideness: doang	lesa 
+fat: tawaʼ	werewes 
+thick: dempad 
+narrow: peset 
+principal wife: karia	kaʼawu 
+wife: karia	kaʼawu 
+husband: kaʼawu 
+his mother: inaʼ 
+mother: inaʼ 
+my mother: inaʼ 
+father: amaʼ 
+his father: amaʼ 
+my father: amaʼ 
+forest: tadun 
+woods: tadun 
+branch: panga 
+stick: panga 
+fruit: wuaʼ	wuaʼna 
+flower: seput	seputna 
+grass: dukut 
+cord: tadi 
+rope: tadi 
+flesh: dadeina 
+meat: dadeina 
+grease: tawaʼ	werewes 
+wing: tetelew 
+gut: tinaʼi 
+guts: tinaʼi 
+insides: tinaʼi 
+intestine: tinaʼi 
+intestines: tinaʼi 
+back: ruʼur 
+suck: sumepsep 
+spit: dumudaʼ 
+vomit: dumuaʼ 
+blow: sumengo 
+breath: maʼaseng 
+breathe: maʼaseng 
+laugh: kumeʼke 
+laughter: kumeʼke 
+cogitate: ghumenang	maghenang 
+reflect: ghumenang	maghenang 
+think: ghumenang	maghenang 
+smell: mawou	rumindek 
+sniff: mawou	rumindek 
+afraid: maʼinde 
+be afraid: maʼinde 
+fear: maʼinde 
+fright: maʼinde 
+alive: matou	tumou 
+be alive: matou	tumou 
+life: matou	tumou 
+live: matou	tumou 
+living: matou	tumou 
+hunt: mapaleleʼ 
+beat: mapentek	mawewe 
+hit: mapentek	mawewe 
+strike: mapentek	mawewe 
+cut: kumetor 
+hack: kumetor 
+cut open: mapekang	maweteng 
+split: mapekang	maweteng 
+pierce: rumuki	rumundek	sumuit 
+stab: rumuki	rumundek	sumuit 
+scratch: kumorkor 
+dig: kumiar 
+stand: rumondor 
+drop: maraghos 
+fall: maraghos 
+grasp: mingkaʼ 
+hold: mingkaʼ 
+hold in arm: mingkaʼ 
+squeeze: mapuus	rumoʼmbes 
+wring: mapuus	rumoʼmbes 
+throw: dumomboʼ	mawaleng 
+bind: waduden	waʼkesen 
+fasten: waduden	waʼkesen 
+tie: waduden	waʼkesen 
+tie up: waduden	waʼkesen 
+sew: mawilit 
+count: mareken	rumeken 
+enumerate: mareken	rumeken 
+number: mareken	rumeken 
+tally: mareken	rumeken 
+flow: maʼaduy 
+lake: dano	tambuʼ 
+ocean: tasik 
+sea: tasik 
+dust: awu 
+fog: lalemdem 
+sky: dangit 
+bad: lewoʼ 
+evil: lewoʼ 
+rot: wuʼut 
+rotten: wuʼut 
+dirty: rerek 
+filthy: rerek 
+soiled: rerek 
+sharp: tadem	tewel 
+blunt: tumpul 
+damp: dembes	piʼpiʼ 
+wet: dembes	piʼpiʼ 
+right side: kenawan 
+left: kawii	kiday 
+at: aki	mena 
+in: aki roro	roro	witu roro 
+inside: aki roro	roro	witu roro 
+and: karia	wo 
+if: sa 

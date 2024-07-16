@@ -1,0 +1,261 @@
+all: basa 
+every: basa 
+ash: afu 
+ashes: afu 
+abdomen: tei 
+belly: tei 
+big: matua 
+bigness: matua 
+large: matua 
+bird: manu-pui 
+bite: ka 
+black: ngèo 
+blood: da	da[k] 
+bone: dui	dui[k] 
+breast: su7u	suʔu 
+breasts: su7u	suʔu 
+burn: tunu 
+burn tr.: tunu 
+cloud: koʔa 
+cold: makalini 
+come: mai 
+come from: mai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: busa 
+drink: inu	n|inu 
+dry: tuk 
+ear: di7i do	diʔi do[k] 
+eat: na|ʔa 
+egg: tolo 
+eye: mata 
+feather: bulu 
+fire: a7i	h|aʔi 
+fish: i7a	iʔa|k 
+fly: la 
+fly v.: la 
+good: malole 
+green: modo 
+hair: laŋa do[k] 
+hand: lima 
+left hand: lima 
+right: lima 
+head: laŋa 
+hear: nene 
+1 sg.: au 
+I: au 
+kill: dodo 
+be knowledgeable: buluk	lelak 
+know: buluk	lelak 
+leaf: do	do[k] 
+lie: loli-loli 
+lie down: loli-loli 
+liver: ate 
+long: manalu 
+head louse: utu 
+louse: utu 
+male: mane 
+man: hataholi 
+moon: bula 
+mouth: bafa[k] 
+name: nade	nade[k] 
+title: nade	nade[k] 
+neck: lesu[k] 
+new: beu	beu[k] 
+night: le7odaek	leʔodaek 
+nighttime: le7odaek	leʔodaek 
+nose: pana 
+adulterous: esa 
+one: esa 
+single: esa 
+that: ndia 
+the: esa 
+unprincipled: esa 
+human: hataholi 
+human being: hataholi 
+person: hataholi 
+rain: uda 
+rainy weather: uda 
+red: pila[s] 
+path: eno	eno[k] 
+road: eno	eno[k] 
+route: eno	eno[k] 
+root: oka	samu 
+sand: solokae[k] 
+say: nae 
+see: ita	n|ita 
+sit: naŋatutu 
+hide: lou	louk 
+skin: lou	louk 
+sleep: suŋu 
+little: ana[k] 
+small: ana[k] 
+smallness: ana[k] 
+smoke: m|asu 
+star: nduk	nd~uk 
+rock: batu 
+stone: batu 
+swim: aŋe 
+tail: iko 
+this: ia 
+tongue: ma	ma[k] 
+tooth: nisi	nisi[k] 
+grind: dua 
+two: dua 
+go: laʔo 
+walk: laʔo 
+hot: hanas 
+warm: hanas 
+water: oe 
+1 pl. inc.: ami	ita 
+we: ami	ita 
+we₁: ami	ita 
+what: hata	lèo-bè 
+white: fula[k] 
+whiteness: fula[k] 
+who: se 
+who?: se 
+female: ina 
+woman: ina 
+yellow: modo 
+distant: do[k] 
+far: do[k] 
+dull: bela 
+heavy: bela 
+serious: bela 
+close: nai mata ia 
+near: nai mata ia 
+ner: nai mata ia 
+salt: masi 
+short: keʔu 
+snake: meŋe 
+thin: niʔi 
+wind: ani 
+earthworm: kalati|k 
+worm: kalati|k 
+year: teu|k 
+2 pl.: emi 
+ye: emi 
+you: emi 
+you all: emi 
+3 pl.: sila 
+they: sila 
+where: bè 
+where?: bè 
+when: fai hida 
+when?: fai hida 
+how: leʔe 
+how?: leʔe 
+other: feʔek 
+three: telu 
+four: ha 
+five: lima 
+broad: loa[k] 
+wide: loa[k] 
+wideness: loa[k] 
+fat: minak 
+thick: makate[k] 
+narrow: biʔa[k] 
+principal wife: saok 
+wife: saok 
+husband: saok 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+forest: lasi 
+woods: lasi 
+branch: baʔe[k]	ndana 
+stick: baʔe[k]	ndana 
+fruit: boa 
+flower: buna 
+grass: naʔu 
+cord: tali 
+rope: tali 
+flesh: isi	pa 
+meat: isi	pa 
+grease: minak 
+wing: lida[k] 
+gut: tei 
+guts: tei 
+insides: tei 
+intestine: tei 
+intestines: tei 
+back: dea 
+suck: musi 
+spit: tidi 
+vomit: muta 
+blow: fu 
+breath: hae 
+breathe: hae 
+laugh: hika 
+laughter: hika 
+cogitate: afi	do 
+reflect: afi	do 
+think: afi	do 
+afraid: bi	taʔu 
+be afraid: bi	taʔu 
+fear: bi	taʔu 
+fright: bi	taʔu 
+alive: moli 
+be alive: moli 
+life: moli 
+live: moli 
+living: moli 
+hunt: daŋa	sopa 
+beat: tutu 
+hit: tutu 
+strike: tutu 
+cut: tata	tete 
+hack: tata	tete 
+cut open: tata 
+split: tata 
+pierce: pau 
+stab: pau 
+scratch: kakalu 
+dig: kali 
+stand: dei 
+drop: tuda 
+fall: tuda 
+grasp: tai 
+hold: tai 
+hold in arm: tai 
+squeeze: he 
+wring: he 
+throw: pia	tapa 
+bind: tuti 
+fasten: tuti 
+tie: tuti 
+tie up: tuti 
+sew: seu 
+count: lèke 
+enumerate: lèke 
+number: lèke 
+tally: lèke 
+flow: fa 
+lake: dano 
+ocean: tasi 
+sea: tasi 
+dust: afu 
+sky: lai 
+bad: maŋalau 
+evil: maŋalau 
+rot: maŋalau 
+rotten: maŋalau 
+dirty: ŋgeŋgèo 
+filthy: ŋgeŋgèo 
+soiled: ŋgeŋgèo 
+sharp: tane 
+blunt: paʔa 
+damp: dòe 
+wet: dòe 
+right side: kona 
+left: ki 
+at: lai	nai 
+in: dale[k] 
+inside: dale[k] 
+and: ma 
+if: lèo 

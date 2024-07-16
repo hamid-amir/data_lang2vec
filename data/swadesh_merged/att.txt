@@ -1,0 +1,140 @@
+all: nga:min 
+every: nga:min 
+ash: abu: 
+ashes: abu: 
+abdomen: sa:n 
+belly: sa:n 
+big: dakal 
+bigness: dakal 
+large: dakal 
+bird: mamma:nug 
+bite: mangaga:q 
+black: ngisiq 
+blood: da:ga	daga 
+bone: tula:ng	tulaN 
+breast: ga:kaw	ga:taq	gata7 
+breasts: ga:kaw	ga:taq	gata7 
+burn: tuggian 
+burn tr.: tuggian 
+cloud: kunam 
+cold: nalummin 
+be dead: natay 
+dead: natay 
+die: natay 
+dog: i:tu	itu 
+drink: amminum 
+dry: bilaga:n	namaga: 
+ear: taliNa	talinga: 
+eat: kuma:n 
+egg: illuk 
+eye: mata	mata: 
+feather: lawi 
+fire: api	api: 
+fish: sira	sira: 
+fly: makkaya:k 
+fly v.: makkaya:k 
+full: napannu 
+good: mapia: 
+green: be:rdi 
+hair: dudduq 
+hand: lima	lima: 
+left hand: lima	lima: 
+right: lima	lima: 
+head: ulu 
+hear: maginna	maginna: 
+1 sg.: sikan 
+I: sikan 
+kill: papata:yan 
+knee: duluN 
+be knowledgeable: ammu 
+know: ammu 
+leaf: don 
+liver: agal 
+long: apaddu: 
+head louse: kutu 
+louse: kutu 
+male: lala:ki 
+man: to:lay	tolay 
+moon: bula:n 
+hill: puddul 
+mountain: puddul 
+mouth: simuq 
+name: Nagan	nga:gan 
+title: Nagan	nga:gan 
+neck: bullaw 
+new: bagu 
+night: gabi 
+nighttime: gabi 
+nose: iguN	igung 
+adulterous: itteʔ	ta:dday	tadday 
+one: itteʔ	ta:dday	tadday 
+single: itteʔ	ta:dday	tadday 
+that: itteʔ	ta:dday	tadday 
+the: itteʔ	ta:dday	tadday 
+unprincipled: itteʔ	ta:dday	tadday 
+human: to:lay	tolay 
+human being: to:lay	tolay 
+person: to:lay	tolay 
+rain: ura:n 
+rainy weather: ura:n 
+red: ujjo:jin 
+path: dalan 
+road: dalan 
+route: dalan 
+root: gamuq 
+sand: da:ga:q 
+say: ubobugan 
+see: masiNan	masingan 
+sit: magitubang 
+hide: tabbi7	tabbiq 
+skin: tabbi7	tabbiq 
+sleep: makkaturuk 
+little: baddiq 
+small: baddiq 
+smallness: baddiq 
+smoke: atuq 
+star: bituan 
+rock: batu 
+stone: batu 
+swim: mannunnuk 
+tail: ipuq 
+2 sg: sikaw 
+thou: sikaw 
+you: sikaw 
+tongue: jila	jila: 
+tooth: Nipan	ngipan 
+tree: kayu 
+grind: dua	dua: 
+two: dua	dua: 
+go: mallaka:k 
+walk: mallaka:k 
+hot: ininiq 
+warm: ininiq 
+water: danum 
+1 pl. inc.: sittam 
+we: sittam 
+we₁: sittam 
+what: anni 
+white: puraw 
+whiteness: puraw 
+who: asinni 
+who?: asinni 
+female: babay 
+woman: babay 
+yellow: ngila: 
+distant: arayyu 
+far: arayyu 
+dull: putu 
+heavy: putu 
+serious: putu 
+close: aranni 
+near: aranni 
+ner: aranni 
+salt: asin 
+short: ababba:	alinna:q 
+snake: ira:w 
+thin: neppiq 
+wind: padda:k 
+earthworm: alukki:nak 
+worm: alukki:nak 
+year: dagu:n 

@@ -1,0 +1,794 @@
+all: i:viri | iːvri 
+all: iːvri 
+and: eta | eːta	oro 
+and: eːta | eːta	oro 
+and: ɛːta | eːta	oro 
+and: oro | eːta	oro 
+arm: na oːmbi 
+arm: o:bi 
+arm: oːbi 
+arm: ombi 
+arm: ɔmbi 
+arrow: toko 
+ashes: bufɔ | bufɔ	tumbutumbu 
+ashes: (m)bufo | bufɔ	tumbutumbu 
+ashes: tumbutumbu | bufɔ	tumbutumbu 
+back: hiri | zo hiri 
+back: zo hiri 
+bad: rivo(-ta) | rivoːta	rivɔ	rivɔta 
+bad: rivoːta | rivoːta	rivɔ	rivɔta 
+bad: rivɔ(ta) | rivoːta	rivɔ	rivɔta 
+bark: ɔːlɔzuɔ | zuo	zuɔ-na 
+bark: zuo | zuo	zuɔ-na 
+bark: zuɔ-na | zuo	zuɔ-na 
+bark: zuo-na (n1) | zuo	zuɔ-na 
+because: ene 
+because: ɛne | ene 
+belly: rae 
+belly: rai | rae 
+big: tebo(ta) | tebo	tebota	tembota 
+big: tembota | tebo	tebota	tembota 
+big: teːmbota | tebo	tebota	tembota 
+big: tembo(-ta) | tebo	tebota	tembota 
+bird: arove manozo | arove manozo	mano-zo 
+bird: arovo-manongo | arove manozo	mano-zo 
+bird: mano(go) | arove manozo	mano-zo 
+bird: maːnozo | arove manozo	mano-zo 
+bird: mano-zo | arove manozo	mano-zo 
+bird: mano(-zo) | arove manozo	mano-zo 
+bite: arafa | arafa	aːra-va 
+bite: a:ra-va | arafa	aːra-va 
+bite: aːra-va | arafa	aːra-va 
+black: i:nggi-ta | iːŋgita	iːŋi	iːŋita 
+black: iŋgita | iːŋgita	iːŋi	iːŋita 
+black: iːŋgita | iːŋgita	iːŋi	iːŋita 
+black: iːŋi(ta) | iːŋgita	iːŋi	iːŋita 
+blood: no vo | no vo	vo 
+blood: vo | no vo	vo 
+blow: vuːa 
+bone: minu 
+branch: hae ~ haeme | hae	haeme 
+branch: haeme | hae	haeme 
+breast: husu | susu	susu-na	teɔ 
+breast: susu | susu	susu-na	teɔ 
+breast: susu-na | susu	susu-na	teɔ 
+breast: teo | susu	susu-na	teɔ 
+breast: teɔ | susu	susu-na	teɔ 
+breathe: zonua | zoːnua 
+breathe: zoːnua 
+brother: ⁿdare 
+brother: misiti 
+brother: sitir 
+burn: itofa | itʰofa	iːtofa 
+burn: i:tofa | itʰofa	iːtofa 
+burn: iːtofa | itʰofa	iːtofa 
+burn: itʰofa | itʰofa	iːtofa 
+burn: nɔitɔe | itʰofa	iːtofa 
+butterfly: fefere 
+butterfly: urefefe 
+butterfly: uripepe 
+cheek: bao 
+child: (ei)haː | ha	nanu 
+child: ha | ha	nanu 
+child: nanu | ha	nanu 
+chin: zime 
+cloud: hohora | hohora	hoːroː 
+cloud: hoːhora | hohora	hoːroː 
+cloud: hoːroː | hohora	hoːroː 
+cloud: lumu | hohora	hoːroː 
+cold: beo-ta | beɔ	beɔta	mbeuta 
+cold: beɔ(ta) | beɔ	beɔta	mbeuta 
+cold: irinara | beɔ	beɔta	mbeuta 
+cold: mbeota | beɔ	beɔta	mbeuta 
+cold: (m)beu-gougou | beɔ	beɔta	mbeuta 
+cold: mbeuta | beɔ	beɔta	mbeuta 
+come: hofea | hofe-a	hofea	naNgo	naŋgo 
+come: hofe-a | hofe-a	hofea	naNgo	naŋgo 
+come: naŋgo | hofe-a	hofea	naNgo	naŋgo 
+come: oze | hofe-a	hofea	naNgo	naŋgo 
+correct: oːveta 
+count: aːmboa 
+count: nɔamboe | aːmboa 
+crocodile: horoso 
+crocodile: seoto 
+crocodile: sioto 
+crocodile: soro 
+cut: eⁿda ~ esa | mahoa	uria 
+cut: heheho | mahoa	uria 
+cut: maho | mahoa	uria 
+cut: mahoa | mahoa	uria 
+cut: suma | mahoa	uria 
+cut: uria | mahoa	uria 
+dark: kutu 
+daughter: ha 
+day: anuforo | anuforo	mucɔ-na	musona 
+day: mbisi | anuforo	mucɔ-na	musona 
+day: mucɔ-na | anuforo	mucɔ-na	musona 
+day: musona | anuforo	mucɔ-na	musona 
+day: mutso-na | anuforo	mucɔ-na	musona 
+die: moto | uza	uːza 
+die: muto | uza	uːza 
+die: uza | uza	uːza 
+die: u(:)za | uza	uːza 
+die: uːza | uza	uːza 
+dig: ɣeria 
+dirty: hefota 
+dirty: hemu-hemu | hefota 
+dirty: i:gi | hefota 
+dirty: iːŋgita | hefota 
+dog: lipe | sie 
+dog: sie 
+drink: fioua | fioua	fiouːa 
+drink: fio-ua | fioua	fiouːa 
+drink: fiouːa | fioua	fiouːa 
+dry: ɣaosora | gaɔso	gaɔsora	ɣaosora 
+dry: gaoso(ra) | gaɔso	gaɔsora	ɣaosora 
+dry: gaɔso(ra) | gaɔso	gaɔsora	ɣaosora 
+dust: bugo 
+dust: mbufɔ 
+ear: onggoto | oNgota	oɣoto	oːŋgoto 
+ear: oːŋgoto | oNgota	oɣoto	oːŋgoto 
+ear: oɣoto | oNgota	oɣoto	oːŋgoto 
+earth: fecu 
+earth: fensu | fecu 
+earth: fesu | fecu 
+earth: feːsuo | fecu 
+earth: fetsu | fecu 
+earth: fetsu (n1) | fecu 
+earth: one | fecu 
+earth: pensu | fecu 
+eat: aːzafa | aːzafa	uːa	uːaː 
+eat: azafe | aːzafa	uːa	uːaː 
+eat: ua | aːzafa	uːa	uːaː 
+eat: uːa | aːzafa	uːa	uːaː 
+eat: uːaː | aːzafa	uːa	uːaː 
+egg: aːde-na | aːde-na	aːndena 
+egg: a:de-na (n1) | aːde-na	aːndena 
+egg: adenga | aːde-na	aːndena 
+egg: a(n)dena | aːde-na	aːndena 
+egg: aːndena | aːde-na	aːndena 
+eye: bero | bero	mbero	mberoː 
+eye: mate | bero	mbero	mberoː 
+eye: (m)bero | bero	mbero	mberoː 
+eye: mberoː | bero	mbero	mberoː 
+face: rovena 
+face: roveni 
+fall: ⁿduoa 
+far: hoːŋo | hoːta	hoːŋo 
+far: hoːta | hoːta	hoːŋo 
+father: aːe | ai	aːe	mama 
+father: ai | ai	aːe	mama 
+father: mama | ai	aːe	mama 
+fat (n.): haguru-cɔ 
+fat (n.): haguru-tso 
+fat (n.): haŋguluso 
+fat (n.): haŋgurufa 
+fear: mbuouza 
+fear: sasasasa | mbuouza 
+feather: manuzufu | manuzufuna	zufu-na 
+feather: manuzufuna | manuzufuna	zufu-na 
+feather: zufu-na | manuzufuna	zufu-na 
+feather: zufu-na (n1) | manuzufuna	zufu-na 
+fight: lumba | lumba	rumba 
+fight: lumba ~ rumba | lumba	rumba 
+finger: ɔːci 
+finger: onji 
+finger: o:tsi 
+fire: hiro | hiro	hirɔ 
+fire: hirɔ | hiro	hirɔ 
+fire: hiro (n1) | hiro	hirɔ 
+fire: vuvuru | hiro	hirɔ 
+fire: vuvurufa | hiro	hirɔ 
+fire: zotia | hiro	hirɔ 
+fish: iːɣana | ixana	iːgana	iːɣana 
+fish: i(:)gana | ixana	iːgana	iːɣana 
+fish: iːgana | ixana	iːgana	iːɣana 
+five: sodu | sodu	soⁿdu 
+five: soⁿdu | sodu	soⁿdu 
+five: so(n)du | sodu	soⁿdu 
+float: aːrea 
+flower: havoro | havoro	ɔːzɔ 
+flower: o:zo | havoro	ɔːzɔ 
+flower: ɔːzɔ | havoro	ɔːzɔ 
+flow: totoro | totoro	vehia 
+flow: vehia | totoro	vehia 
+flow: veiha | totoro	vehia 
+fly (n.): urusu 
+fly (n.): uːrusu 
+fly (v.): a:ro-va 
+fly (v.): aːrova 
+fly (v.): aːro-va 
+fog: lovu | manege	maneɣe	rovu 
+fog: maneɣe | manege	maneɣe	rovu 
+fog: manege | manege	maneɣe	rovu 
+fog: rovu | manege	maneɣe	rovu 
+foot: oe 
+foot: oe(-evona) 
+foot: piteleme | oe 
+forehead: ae:te 
+forehead: aeːte 
+four: avo | avo	aːvo 
+four: a:vo | avo	aːvo 
+four: aːvo | avo	aːvo 
+fruit: ɔlɔuvu | uve	uːvu 
+fruit: orou ve(su) | uve	uːvu 
+fruit: uve | uve	uːvu 
+fruit: uːvu | uve	uːvu 
+full: singi(a) | siŋi	siŋia 
+full: siŋia | siŋi	siŋia 
+full: siŋi(a) | siŋi	siŋia 
+girl: sorasate 
+give: aⁿde | aⁿde	hia	teo 
+give: hia | aⁿde	hia	teo 
+give: teo | aⁿde	hia	teo 
+give: teo aⁿde | aⁿde	hia	teo 
+good: ni(ta) | ni	nita	niːta 
+good: niːta | ni	nita	niːta 
+grass: hero | herɔ	keroː 
+grass: herɔ | herɔ	keroː 
+grass: keroː | herɔ	keroː 
+green: hiuta | hiu	hiuta 
+green: hiu(ta) | hiu	hiuta 
+guts: hingu | sifiti 
+guts: sifiti 
+hair: (uo-)zufu 
+hair: zufu 
+hand: ɔbi | naombi	ɔbi 
+hand: ombi(-evona) | naombi	ɔbi 
+head: uo | uo	uombo	uɔ 
+head: u\o | uo	uombo	uɔ 
+head: uɔ | uo	uombo	uɔ 
+head: uo ~ uombo | uo	uombo	uɔ 
+hear: aːmaŋga | orona	oːroːna	ɔːrɔ-na 
+hear: o:ro-na | orona	oːroːna	ɔːrɔ-na 
+hear: oːroːna | orona	oːroːna	ɔːrɔ-na 
+hear: ɔːrɔ-na | orona	oːroːna	ɔːrɔ-na 
+heart: vonggovonggo | voŋgovoŋgona	voɣovoɣo 
+heart: voŋgovoŋgona | voŋgovoŋgona	voɣovoɣo 
+heart: voɣovoɣo | voŋgovoŋgona	voɣovoɣo 
+heavy: momota 
+here: naŋgo 
+he/she: -a 
+he/she: adj. agree) 
+he/she: -ma 
+he/she: -na (free n.1/n.2 
+he/she: na/ngo 
+he/she: -ra 
+he/she: -va 
+he/she: vo 
+he/she: V obj. 
+he/she: zo 
+he/she: -zo 
+hit: isa | isa	tuma-na 
+hit: tuma-na | isa	tuma-na 
+hit: zo iⁿde | isa	tuma-na 
+hold: ea 
+hold: ŋo erɔ | ea 
+house: va 
+how: o:nia | oːnia	uavi	ɔːnia 
+how: oːnia | oːnia	uavi	ɔːnia 
+how: ɔːnia | oːnia	uavi	ɔːnia 
+how: oːnia ~ oa | oːnia	uavi	ɔːnia 
+how: rero | oːnia	uavi	ɔːnia 
+how: uavi | oːnia	uavi	ɔːnia 
+hunt: suːa 
+I: e:i | ei	ero	eːi	eːl	eːro 
+I: eːi | ei	ero	eːi	eːl	eːro 
+I: eːi ~ eːro | ei	ero	eːi	eːl	eːro 
+I: eːl | ei	ero	eːi	eːl	eːro 
+I: e:ro | ei	ero	eːi	eːl	eːro 
+if: arovo | arovo	atiri 
+if: atiri | arovo	atiri 
+if: irɔnɔŋgo | arovo	atiri 
+I: -na | ei	ero	eːi	eːl	eːro 
+in: eⁿdoː 
+in: ɛⁿdɔ | eⁿdoː 
+jaw: zime 
+kill: maniuze | variuza 
+kill: variuza 
+knee: i:dio | iːdio	iːndio 
+knee: iːdio | iːdio	iːndio 
+knee: iːndio | iːdio	iːndio 
+know: nia | oːvea	ɔve-na 
+know: ovea | oːvea	ɔve-na 
+know: oːvea | oːvea	ɔve-na 
+know: ove-na | oːvea	ɔve-na 
+know: ɔve-na | oːvea	ɔve-na 
+laugh: heːra 
+leaf: evo | evona	eːvo-na	eːvona 
+leaf: eːvɔ | evona	eːvo-na	eːvona 
+leaf: e:vo-na | evona	eːvo-na	eːvona 
+leaf: eːvona | evona	eːvo-na	eːvona 
+leaf: eːvo-na | evona	eːvo-na	eːvona 
+left: ɣeⁿde vaha 
+left: ɣɛⁿde vaha | ɣeⁿde vaha 
+left: gede | ɣeⁿde vaha 
+leg: oe | oe	oːe 
+leg: o:e | oe	oːe 
+leg: oːe | oe	oːe 
+leg: ɔe | oe	oːe 
+leg: pite | oe	oːe 
+lie: oa | oːa	rehea 
+lie: o:a | oːa	rehea 
+lie: oːa | oːa	rehea 
+lie: rehea | oːa	rehea 
+lightning: ivoːri 
+lightning: ivɔri 
+liver: hosa | na oe	na oːe	oːe 
+liver: na oːe | na oe	na oːe	oːe 
+liver: o:e | na oe	na oːe	oːe 
+liver: oːe | na oe	na oːe	oːe 
+liver: ɔe | na oe	na oːe	oːe 
+live: tovea 
+live: tɔvea 
+long: hofuta | hofu	hofuta 
+long: hofu(ta) | hofu	hofuta 
+louse: gutu | vutu	xutu 
+louse: lisa | vutu	xutu 
+louse: risa | vutu	xutu 
+louse: vutu ~ ɣutu | vutu	xutu 
+man: fingo-zo | finona	finozo	finɔ-zo 
+man: fino-zo | finona	finozo	finɔ-zo 
+man: finɔ-zo | finona	finozo	finɔ-zo 
+man: finɔzɔ | finona	finozo	finɔ-zo 
+man: harimba | finona	finozo	finɔ-zo 
+man: pinoso | finona	finozo	finɔ-zo 
+many: lavoso | raro	ravoːta 
+many: raro | raro	ravoːta 
+many: ravoːta | raro	ravoːta 
+meat: fafaso | fafaso	fafo 
+meat: fafo | fafaso	fafo 
+meat: fafongo | fafaso	fafo 
+meat: fafo(ngo) | fafaso	fafo 
+meat: pafono | fafaso	fafo 
+meat: papo | fafaso	fafo 
+moon: idi | iːdi	iːⁿdi 
+moon: iːdi | iːdi	iːⁿdi 
+moon: iːⁿdi | iːdi	iːⁿdi 
+moon: iti | iːdi	iːⁿdi 
+morning: zeaŋga 
+morning: ze e:ta 
+morning: ze eːta 
+morning: zeːta 
+mosquito: i(:)musu 
+mosquito: iːmusu 
+mosquito: kerokero 
+mosquito: ronggo 
+mother: ina | iːna 
+mother: i:na | iːna 
+mother: iːna 
+mother: nina | iːna 
+mountain: boro | toa 
+mountain: liropo | toa 
+mountain: toa 
+mouth: a: | aː 
+mouth: aː 
+name: nini 
+navel: mahio 
+navel: mahiːo 
+navel: pito 
+near: neita | eni	neita 
+near: neita ~ eni | eni	neita 
+neck: fiɣa | fiŋga	fiɣa 
+neck: finga | fiŋga	fiɣa 
+neck: fiŋga | fiŋga	fiɣa 
+new: aroro-ta | aroro-ta	avorota 
+new: avorota | aroro-ta	avorota 
+night: hiu 
+night: timutara | hiu 
+nose: emo | emo	emoː	emɔ 
+not: au | au	sia 
+not: sia | au	sia 
+old: fizo 
+old: fizu 
+old: fizu finaza 
+old: hefoːta 
+old: hɛfɔta 
+one: aːrŋo | ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+one: aro | ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+one: aro(ŋo) | ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+one: a-zao | ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+one: tufi | ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+one: tʰufi | ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+one: tufi (?) | ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+person: finɔmɔ | finona	finozo	finɔ-zo 
+person: finona ~ finozo | finona	finozo	finɔ-zo 
+person: fino-zo | finona	finozo	finɔ-zo 
+person: finɔ-zo | finona	finozo	finɔ-zo 
+play: hoːrua 
+play: hɔrua | hoːrua 
+pull: aia 
+push: soroa 
+push: tuea 
+rain: oro | oroː	ɔrɔ 
+rain: oroː | oroː	ɔrɔ 
+rain: ɔrɔ | oroː	ɔrɔ 
+rain: rivo | oroː	ɔrɔ 
+rat: ruji 
+rat: siro 
+red: a:ro(-a) | aːro	aːroa 
+red: aːroa | aːro	aːroa 
+red: aːro(a) | aːro	aːroa 
+red: (ni-)aro-a | aːro	aːroa 
+right: finøtoro (check source) | naombi	ɔbi | finotoro vahaː 
+right: finotoro vahaː | naombi	ɔbi 
+right: finɔtɔtɔ vaha | naombi	ɔbi | finotoro vahaː 
+river: vuto 
+river: vutɔ | vuto 
+road: e 
+road: e (n1) 
+root: aboso-na | aboso-na	ambosona 
+root: aboso(-na) | aboso-na	ambosona 
+root: amboso | aboso-na	ambosona 
+root: ambosona | aboso-na	ambosona 
+rope: fahi | fahi	huŋgina 
+rope: huɣi | fahi	huŋgina 
+rope: hunggi | fahi	huŋgina 
+rope: huŋgi | fahi	huŋgina 
+rope: huŋgina | fahi	huŋgina 
+rotten: fufutumara | musia	yurova 
+rotten: musia | musia	yurova 
+rotten: yurova | musia	yurova 
+round: buku | bukutu	bukutura 
+round: bukutu(ra) | bukutu	bukutura 
+rub: ɛmbɔrɔⁿdotia | zaŋga	zotia 
+rub: zaŋga | zaŋga	zotia 
+rub: zotia | zaŋga	zotia 
+salt: mana 
+sand: o:ne | oːne 
+sand: oːne 
+sand: peniu | oːne 
+sand: sava | oːne 
+say: hana | hana	hau-a	haːua | oːne 
+say: haːua | hana	hau-a	haːua | oːne 
+say: hau-a | hana	hau-a	haːua | oːne 
+say: zoteohauː | hana	hau-a	haːua | oːne 
+scratch: aːŋia | aŋiːa 
+scratch: aŋiːa 
+sea: fei 
+sea: fio 
+sea: orongo 
+sea: pio 
+see: area | area	nodo-ra	nondoa 
+seed: nene | uve	uventso 
+seed: uve | uve	uventso 
+seed: uve ~ uventso | uve	uventso 
+seed: uvu | uve	uventso 
+see: noⁿdoa | area	nodo-ra	nondoa 
+see: nodo-ra | area	nodo-ra	nondoa 
+sew: vavora 
+sew: vavɔra | vavora 
+sharp: ɣoɣofa 
+sharp: ɣɔɣɔfa | ɣoɣofa 
+short: foŋgota 
+short: sato | foŋgota 
+short: zato | foŋgota 
+shoulder: boe 
+sing: gizo | ŋgizo 
+sing: ŋgizo 
+sing: ŋgizoa 
+sister: mimo 
+sister: mimɔ 
+sit: fofu | fofu	fofua 
+sit: fofua | fofu	fofua 
+skin: zuo(-na) | zuona	zuoːna	zuɔna 
+skin: zuoːna | zuona	zuoːna	zuɔna 
+skin: zuɔna | zuona	zuoːna	zuɔna 
+sky: rasese | uːzia 
+sky: uzia | uːzia 
+sky: uːzia 
+sky: u:zia (n1) | uːzia 
+sleep: iːsia | isi-a	iːnsia	iːsia 
+sleep: isi-a | isi-a	iːnsia	iːsia 
+sleep: iːsia ~ iːnsia | isi-a	iːnsia	iːsia 
+small: isingo | isi	isita 
+small: isita | isi	isita 
+small: isi(ta) | isi	isita 
+smell: ei | ei	eia	eːrota 
+smoke: hia 
+smoke: hia (n1) 
+smooth: arota | arota	ɣeɣozo 
+smooth: ɣeɣozo | arota	ɣeɣozo 
+snake: noi 
+son: ha 
+spit: so | sofa	soːra 
+split: isambaera | mbaera	vahara 
+split: mbaera | mbaera	vahara 
+split: vahara | mbaera	vahara 
+squeeze: embia | embia	iːzufa 
+squeeze: ɛːmbia | embia	iːzufa 
+squeeze: iːzufa | embia	iːzufa 
+stand: a: | aː 
+stand: aː 
+star: finofino 
+star: finɔfinɔ | finofino 
+stone: heɣa | heNga	heŋga	heɣa	vo 
+stone: hengga | heNga	heŋga	heɣa	vo 
+stone: heŋga | heNga	heŋga	heɣa	vo 
+stone: kato | heNga	heŋga	heɣa	vo 
+stone: vo | heNga	heŋga	heɣa	vo 
+straight: oːveta 
+straight: oːvɛta | oːveta 
+suck: hofa | hofa	susua 
+suck: nahoːfe | hofa	susua 
+suck: susua | hofa	susua 
+sun: ui 
+sweet: imata 
+sweet: imota 
+swell: utoːza 
+swell: utɔza 
+swim: malalama | ri-a	vazoa 
+swim: ra-a | ri-a	vazoa 
+swim: ria | ri-a	vazoa 
+swim: ri-a | ri-a	vazoa 
+swim: vazoa | ri-a	vazoa 
+tail: hifona | hifona	hifoso	hifɔ-na 
+tail: hifɔ-na | hifona	hifoso	hifɔ-na 
+tail: hifo-na (n1) | hifona	hifoso	hifɔ-na 
+tail: hifoso | hifona	hifoso	hifɔ-na 
+take: o:ro 
+take: oːrɔ 
+take: sioa 
+that: zo | ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+there: ŋɔŋɔ | naŋo	noːŋgo 
+there: noːŋgo ~ naŋo | naŋo	noːŋgo 
+they: -ma/-a | moː	nɔ 
+they: mo | moː	nɔ 
+they: moː | moː	nɔ 
+they: mɔ | moː	nɔ 
+they: nɔ | moː	nɔ 
+they two: nomo/numo/nafi 
+they two: -ra 
+they two: rede 
+they two: robe(f) 
+they two: zere 
+they two: zere/robe/rede 
+thick: eːzuta 
+thick: ɛzuta | eːzuta 
+thick: ingingi | eːzuta 
+thin: evasara | eːvasara 
+thin: eːvasara 
+think: ŋgana 
+this: demi | ⁿdeno	ⁿdezo 
+this: dezo | ⁿdeno	ⁿdezo 
+this: ⁿdezo ~ ⁿdeno | ⁿdeno	ⁿdezo 
+this: de-zo/mi/na/ngo/mo/no | ⁿdeno	ⁿdezo 
+this: ge--zo/mi/na/ngo/mo/no | ⁿdeno	ⁿdezo 
+this: ŋɔⁿdɛŋɔ | ⁿdeno	ⁿdezo 
+thou: mɛmboː | noe	noː	noːe 
+thou: mɛmbɔ | noe	noː	noːe 
+thou: -na | noe	noː	noːe 
+thou: no: | noe	noː	noːe 
+thou: noe | noe	noː	noːe 
+thou: noːe ~ noː | noe	noː	noːe 
+three: hie 
+thunder: aːro 
+thunder: u:zia 
+thunder: uːzia 
+thunder: uːzia aːro 
+tie: nebi-vea | nebi-vea	nembia 
+tie: nebi(-vea) | nebi-vea	nembia 
+tie: nembia | nebi-vea	nembia 
+today: enava 
+today: mbazo ~ nei 
+tomorrow: zera 
+tomorrow: zɛra 
+tongue: ani | ani	aːni 
+tongue: a:ni | ani	aːni 
+tongue: aːni | ani	aːni 
+tooth: nane | nane	vo nane 
+tooth: naːne | nane	vo nane 
+tooth: nani | nane	vo nane 
+tooth: vo nane | nane	vo nane 
+tree: oro 
+tree: o:ro-ngo 
+tree: oːroŋo 
+tree: ɔːrɔ-ŋɔ 
+tree: ɔrɔ(ŋɔ) 
+turn: ⁿdeːfe 
+turn: rofea 
+turn: viria 
+two: eri | eri	eːri 
+two: e:ri | eri	eːri 
+two: eːri | eri	eːri 
+vagina: i 
+vomit: mbaofa | mbaːofa 
+vomit: mbaːofa 
+walk: a:tia | aːtia	ⁿdoria 
+walk: aːtia | aːtia	ⁿdoria 
+walk: ⁿdoria | aːtia	ⁿdoria 
+walk: leua | aːtia	ⁿdoria 
+walk: reua | aːtia	ⁿdoria 
+walk: rovo | aːtia	ⁿdoria 
+walk: tez-a | aːtia	ⁿdoria 
+warm: minggo(ta) | miŋgoːta 
+warm: miŋgota | miŋgoːta 
+warm: miŋgoːta 
+warm: minggoto | miŋgoːta 
+warm: miɣɔ(ta) | miŋgoːta 
+wash: kokora 
+wash: ombiriaia 
+wash: ria 
+water: fi | fio	fioː	fiɔ 
+water: fioː | fio	fioː	fiɔ 
+water: fiɔ | fio	fioː	fiɔ 
+water: fio (n3) | fio	fioː	fiɔ 
+water: pio | fio	fioː	fiɔ 
+water: piono | fio	fioː	fiɔ 
+we: e:-bo | memo	memɔ	neːmo 
+weep: iːaiːa 
+weep: iaiaː 
+weep: iaiya 
+we (excl.): eːbo 
+we (excl.): eːmbo 
+we (excl.): eːmbɔ 
+we (incl.): memo 
+we (incl.): meːmo 
+we (incl.): memɔ 
+we (incl.): -na 
+we (incl.): neːmo 
+we: -na | memo	memɔ	neːmo 
+wet: tumuva 
+we two: e:-beno/e:-benu 
+we two: e:-re/e:-re-be 
+we two (excl.): ere 
+we two (excl.): eːre(be) 
+we two (excl.): ere ~ erembe 
+we two (incl.): be(be) 
+we two (incl.): be/be-be 
+we two (incl.): mbe 
+we two (incl.): mbe ~ mbembe 
+we two (incl.): meno/menu 
+we two (incl.): -na 
+we two: -na 
+what: oːnia ~ oa | oːnia	oːno	ɔː-nɔ 
+what: oːnia ~ oːno | oːnia	oːno	ɔː-nɔ 
+what: o:no | oːnia	oːno	ɔː-nɔ 
+what: ɔː-nɔ | oːnia	oːno	ɔː-nɔ 
+when: levɔ | revoː 
+when: revoː 
+where: aːe | aːe	aːŋo 
+where: aeno | aːe	aːŋo 
+where: aːŋo | aːe	aːŋo 
+white: tuɣava | tuga	tugava	tuɣava 
+white: tuga(va) | tuga	tugava	tuɣava 
+who: uo | uːoː	uːɔː 
+who: u:o: | uːoː	uːɔː 
+who: uːoː | uːoː	uːɔː 
+who: uːɔː | uːoː	uːɔː 
+who: vo | uːoː	uːɔː 
+wind: zu | ziu	zu 
+wind: zu ~ ziu | ziu	zu 
+wing: gofona | ŋgofona 
+wing: ŋgofona 
+wing: ŋgɔfɔna | ŋgofona 
+wipe: fuha 
+wipe: fuhaia 
+woman: gohe | gohe	ŋgohe 
+woman: ŋgohe | gohe	ŋgohe 
+wood: oro 
+year: ovozo | oːvozo 
+year: oːvozo 
+yellow: taːmara | tama	tamava	taːmara 
+yellow: tama(va) | tama	tamava	taːmara 
+yellow: taːmɔra | tama	tamava	taːmara 
+yes: io 
+yes: iːo ~ oː 
+yesterday: hinaⁿdi 
+you: me-bo | noe	noː	noːe | mɛmboː 
+you: -na | noe	noː	noːe | mɛmboː 
+you two: bere/bere-be 
+you two: mbɛre 
+you two: mbere ~ mberembe 
+you two: me-beno/me-benu 
+every: iːvri 
+ash: bufɔ	tumbutumbu 
+abdomen: rae 
+bigness: tebo	tebota	tembota 
+large: tebo	tebota	tembota 
+breasts: susu	susu-na	teɔ 
+come from: hofe-a	hofea	naNgo	naŋgo 
+be dead: uza	uːza 
+dead: uza	uːza 
+ground: fecu 
+land: fecu 
+soil: fecu 
+fly: aːro-va	aːrova 
+fly v.: aːro-va	aːrova 
+left hand: naombi	ɔbi 
+1 sg.: ei	ero	eːi	eːl	eːro 
+be knowledgeable: oːvea	ɔve-na 
+lie down: oːa	rehea 
+head louse: vutu	xutu 
+male: finɔ-zo	harimba 
+much: raro	ravoːta 
+multiple: raro	ravoːta 
+several: raro	ravoːta 
+flesh: fafaso	fafo 
+hill: toa 
+title: nini 
+nighttime: hiu 
+adulterous: ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+single: ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+the: ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+unprincipled: ?tufi	aro	aroŋo	eri	thufi	tufi	tʰufi 
+human: finona	finozo	finɔ-zo 
+human being: finona	finozo	finɔ-zo 
+rainy weather: oroː	ɔrɔ 
+hide: zuona	zuoːna	zuɔna 
+little: isi	isita 
+smallness: isi	isita 
+rock: heNga	heŋga	heɣa	vo 
+2 sg: noe	noː	noːe 
+grind: eri	eːri 
+go: aːtia	ⁿdoria 
+hot: miŋgoːta 
+1 pl. inc.: memo	memɔ	neːmo 
+we₁: memo	memɔ	neːmo 
+whiteness: tuga	tugava	tuɣava 
+who?: uːoː	uːɔː 
+female: gohe	ŋgohe 
+distant: hoːta	hoːŋo 
+dull: momota 
+serious: momota 
+close: eni	neita 
+ner: eni	neita 
+3 sg.: zo 
+he: zo 
+she: zo 
+2 pl.: mɛmboː 
+ye: mɛmboː 
+you all: mɛmboː 
+3 pl.: moː	nɔ 
+where?: aːe	aːŋo 
+when?: revoː 
+how?: oːnia	uavi	ɔːnia 
+fat: eːzuta 
+his mother: iːna 
+my mother: iːna 
+his father: ai	aːe	mama 
+my father: ai	aːe	mama 
+stick: hae	haeme 
+cord: fahi	huŋgina 
+gut: sifiti 
+insides: sifiti 
+intestine: sifiti 
+intestines: sifiti 
+breath: zoːnua 
+laughter: heːra 
+cogitate: ŋgana 
+reflect: ŋgana 
+sniff: ei	eia	eːrota 
+afraid: mbuouza 
+be afraid: mbuouza 
+fright: mbuouza 
+beat: isa	tuma-na 
+strike: isa	tuma-na 
+hack: mahoa	uria 
+cut open: mbaera	vahara 
+pierce: suma 
+stab: suma 
+drop: ⁿduoa 
+grasp: ea 
+hold in arm: ea 
+wring: embia	iːzufa 
+bind: nebi-vea	nembia 
+fasten: nebi-vea	nembia 
+tie up: nebi-vea	nembia 
+enumerate: aːmboa 
+number: aːmboa 
+tally: aːmboa 
+have fun: hoːrua 
+brook: vuto 
+stream: vuto 
+blaze: itʰofa	iːtofa 
+daylight: anuforo	mucɔ-na	musona 
+daytime: anuforo	mucɔ-na	musona 
+evil: rivoːta	rivɔ	rivɔta 
+rot: musia	yurova 
+filthy: hefota 
+soiled: hefota 
+blunt: feŋgeta 
+damp: tumuva 
+right side: finotoro vahaː 
+inside: eⁿdoː 

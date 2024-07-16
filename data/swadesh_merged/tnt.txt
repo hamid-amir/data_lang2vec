@@ -1,0 +1,266 @@
+all: pakasa 
+every: pakasa 
+ash: awu 
+ashes: awu 
+abdomen: poʔot 
+belly: poʔot 
+big: wankər 
+bigness: wankər 
+large: wankər 
+bird: lum lempar 
+bite: kumeret 
+black: wuriŋ 
+blood: 3nd~a7	əndaʔ 
+bone: ru7i	ruʔi 
+breast: susu 
+breasts: susu 
+burn: maʔtunuʔ 
+burn tr.: maʔtunuʔ 
+cloud: kambuŋ 
+cold: utiŋ 
+come: a7i	ay	maʔai 
+come from: a7i	ay	maʔai 
+be dead: mate	pate 
+dead: mate	pate 
+die: mate	pate 
+dog: asu 
+drink: 3l3p	mələp 
+dry: pəra 
+ear: luntəng 
+eat: kuman 
+egg: wulina 
+eye: sumere	w3l3N	w3r3n 
+feather: wuʔuk 
+fire: api 
+fish: s3da7	s3ra7	səraʔ 
+fly: tumələw 
+fly v.: tumələw 
+full: wuta 
+good: samaʔ 
+green: mataʔ 
+hair: wuʔuk 
+hand: kama 
+left hand: kama 
+right: kama 
+head: roʔkos 
+hear: lumingan 
+horn: suNe 
+1 sg.: aku	yaku 
+I: aku	yaku 
+kill: mapaten 
+knee: wuku 
+be knowledgeable: keləkan 
+know: keləkan 
+leaf: laleyna 
+lie: mangipiʔ 
+lie down: mangipiʔ 
+liver: ate 
+long: lambot 
+head louse: kutu 
+louse: kutu 
+male: tuama 
+man: tou	tow 
+moon: sərap 
+mouth: waʔbaʔ 
+name: Naran	ŋaran 
+title: Naran	ŋaran 
+neck: kanat 
+new: w3ru	weru 
+night: w3Ni	waŋi 
+nighttime: w3Ni	waŋi 
+nose: NiluN	NiruN	ŋiruŋ 
+adulterous: 3sa	esa	əsa 
+one: 3sa	esa	əsa 
+single: 3sa	esa	əsa 
+that: siitu 
+the: 3sa	esa	əsa 
+unprincipled: 3sa	esa	əsa 
+human: tou	tow 
+human being: tou	tow 
+person: tou	tow 
+rain: muran 
+rainy weather: muran 
+red: raindaŋ 
+path: lalaN	lalan 
+road: lalaN	lalan 
+route: lalaN	lalan 
+root: amut 
+sand: raŋiʔis 
+say: maroma 
+see: maʔtəkəlo 
+sit: lemukut 
+hide: kulit	kuliʔ 
+skin: kulit	kuliʔ 
+sleep: meʔkel 
+little: təkeʔ 
+small: təkeʔ 
+smallness: təkeʔ 
+smoke: tembur 
+star: suməsəndot 
+rock: watu 
+stone: watu 
+sun: 3nd~o 
+swim: keŋkeŋ 
+tail: ipus 
+this: anio 
+2 sg: kamu	ko 
+thou: kamu	ko 
+you: kamu	ko 
+tongue: lila7	lilaʔ 
+tooth: ip3n	wa7aN	waʔaŋ 
+tree: kayu 
+grind: rua	r̃ua 
+two: rua	r̃ua 
+go: mawayaʔ 
+walk: mawayaʔ 
+hot: pasoʔ 
+warm: pasoʔ 
+water: rano 
+1 pl. inc.: cami	cita	kita 
+we: cami	cita	kita 
+we₁: cami	cita	kita 
+what: sapa 
+white: kuloʔ 
+whiteness: kuloʔ 
+who: sisey 
+who?: sisey 
+female: wewene 
+woman: wewene 
+yellow: kuniʔ 
+distant: tayaŋ 
+far: tayaŋ 
+dull: utər 
+heavy: utər 
+serious: utər 
+close: tawi 
+near: tawi 
+ner: tawi 
+salt: asiŋ 
+short: kolək 
+snake: ulaʔ 
+thin: nipis 
+wind: rəgəs 
+earthworm: caciŋ 
+worm: caciŋ 
+year: taun 
+2 pl.: kamu pakasa 
+ye: kamu pakasa 
+you all: kamu pakasa 
+3 pl.: sera 
+they: sera 
+where: ambisa 
+where?: ambisa 
+when: kawisa 
+when?: kawisa 
+how: tambisa 
+how?: tambisa 
+other: walina 
+three: təlu 
+four: əpat 
+five: lima 
+broad: welar 
+wide: welar 
+wideness: welar 
+fat: tawaʔ 
+thick: kuraʔber 
+narrow: pəsut 
+principal wife: penanaan 
+wife: penanaan 
+husband: penanaan 
+his mother: ina [ŋ] 
+mother: ina [ŋ] 
+my mother: ina [ŋ] 
+father: ama[ŋ] 
+his father: ama[ŋ] 
+my father: ama[ŋ] 
+forest: utan 
+woods: utan 
+branch: cabaŋ 
+stick: cabaŋ 
+fruit: buaʔ 
+flower: buŋaŋ 
+grass: rumput 
+cord: wawaʔkes 
+rope: wawaʔkes 
+flesh: samaʔna 
+meat: samaʔna 
+grease: tawaʔ 
+wing: tətələw 
+gut: tinaʔi 
+guts: tinaʔi 
+insides: tinaʔi 
+intestine: tinaʔi 
+intestines: tinaʔi 
+back: licur 
+suck: suməsəp 
+spit: rumuraʔ 
+vomit: məluaʔ 
+blow: maʔrəgəs 
+breath: mʔasəng 
+breathe: mʔasəng 
+laugh: maʔkeʔkeʔ 
+laughter: maʔkeʔkeʔ 
+cogitate: magənang 
+reflect: magənang 
+think: magənang 
+afraid: mainde 
+be afraid: mainde 
+fear: mainde 
+fright: mainde 
+alive: mənounou 
+be alive: mənounou 
+life: mənounou 
+live: mənounou 
+living: mənounou 
+beat: maʔpankur 
+hit: maʔpankur 
+strike: maʔpankur 
+cut: toŋkey 
+hack: toŋkey 
+cut open: maʔkimbeŋ 
+split: maʔkimbeŋ 
+pierce: tumopok 
+stab: tumopok 
+scratch: maʔkoʔməs 
+dig: kaʔil 
+stand: tumulu 
+drop: lumətup 
+fall: lumətup 
+grasp: tumimboy 
+hold: tumimboy 
+hold in arm: tumimboy 
+throw: maʔwankil 
+bind: waʔkəsən 
+fasten: waʔkəsən 
+tie: waʔkəsən 
+tie up: waʔkəsən 
+sew: mawilit 
+count: maʔreken 
+enumerate: maʔreken 
+number: maʔreken 
+tally: maʔreken 
+flow: mawayaʔ 
+lake: tasis 
+ocean: tasis 
+sea: tasis 
+dust: awu 
+fog: lalaindəŋ 
+sky: laŋit 
+bad: lewoʔ 
+evil: lewoʔ 
+rot: maʔwou 
+rotten: maʔwou 
+dirty: kotor 
+filthy: kotor 
+soiled: kotor 
+sharp: telew 
+blunt: umpət 
+damp: raməs 
+wet: raməs 
+right side: kanan 
+left: kaʔbiri 
+at: an 
+in: anuntəp 
+inside: anuntəp 
+and: wo 
+if: so 

@@ -1,0 +1,136 @@
+all: hatesol 
+every: hatesol 
+ash: paloŋ 
+ashes: paloŋ 
+abdomen: tia-n 
+belly: tia-n 
+big: lalap 
+bigness: lalap 
+large: lalap 
+bird: manexux 
+bite: atalahi 
+black: polun 
+blood: kaka 
+bone: kui	kui-n 
+breast: susu	susu-n 
+breasts: susu	susu-n 
+burn: lui 
+burn tr.: lui 
+cloud: maun 
+cold: makian 
+come: nahi* ma	nahĩ ma 
+come from: nahi* ma	nahĩ ma 
+be dead: mat 
+dead: mat 
+die: mat 
+dog: sinen 
+drink: un 
+dry: paxepaxen 
+ear: taxiNa	taxiŋa-n 
+eat: aŋ 
+egg: atol 
+eye: pula	pula-n 
+feather: ole-n 
+fire: ah 
+fish: xixi 
+fly: ŋoŋ 
+fly v.: ŋoŋ 
+good: solian 
+green: koki 
+hair: uku-n 
+hand: mina	mina-n 
+left hand: mina	mina-n 
+right: mina	mina-n 
+head: patu-n 
+hear: hoN	hoŋ 
+1 sg.: Na	ŋ|a 
+I: Na	ŋ|a 
+kill: telei 
+be knowledgeable: tioi 
+know: tioi 
+leaf: kay pata 
+lie: eŋ 
+lie down: eŋ 
+liver: ate	ate-n 
+long: weluwelun 
+head louse: lil 
+louse: lil 
+male: wawan 
+man: seilon 
+moon: paŋapaŋ 
+mouth: awa-n 
+name: axa	axa-n 
+title: axa	axa-n 
+neck: kinawe-n 
+new: haun 
+night: i|poŋ	poN 
+nighttime: i|poŋ	poN 
+nose: ixu	we|ixu-n 
+adulterous: te	tehu 
+one: te	tehu 
+single: te	tehu 
+that: ien	io 
+the: te	tehu 
+unprincipled: te	tehu 
+human: seilon 
+human being: seilon 
+person: seilon 
+rain: akah 
+rainy weather: akah 
+red: kakan 
+path: awey sal 
+road: awey sal 
+route: awey sal 
+root: wahã-n 
+sand: pekeun 
+say: kakak 
+see: paxai 
+sit: to 
+hide: uli	uli-n 
+skin: uli	uli-n 
+sleep: mati 
+little: kokol 
+small: kokol 
+smallness: kokol 
+smoke: axu[an] 
+star: kohot 
+rock: hat 
+stone: hat 
+swim: nunu 
+tail: koloh 
+this: ie 
+tongue: leho	leho-n 
+tooth: nisu	nisu-n 
+grind: hu*o*hu	huo	huo*hu	hũõhu 
+two: hu*o*hu	huo	huo*hu	hũõhu 
+go: nahĩ 
+walk: nahĩ 
+hot: kekean 
+warm: kekean 
+water: kan 
+1 pl. inc.: amite	kako 
+we: amite	kako 
+we₁: amite	kako 
+what: la 
+white: papaxaxun 
+whiteness: papaxaxun 
+who: aita 
+who?: aita 
+female: hehin 
+woman: hehin 
+yellow: aŋoaŋon 
+distant: xauxauan 
+far: xauxauan 
+dull: kawatan 
+heavy: kawatan 
+serious: kawatan 
+close: xoixohin 
+near: xoixohin 
+ner: xoixohin 
+short: kukunan 
+snake: weiko 
+thin: maelu 
+wind: aupol 
+earthworm: wããt 
+worm: wããt 
+year: ahaŋ 

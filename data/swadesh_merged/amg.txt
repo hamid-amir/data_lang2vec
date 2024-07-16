@@ -1,0 +1,285 @@
+all: yadbayuwulu 
+ankle: waːḷ 
+arm: galaɲun 
+arm: widu 
+ashes: ruga 
+back: argangu 
+back: argan̪gu 
+bark: wulgulga 
+belly: aḍigu 
+big: wadagubbagim 
+bird: burgaburga 
+bite: -golu 
+bitter: iwaragamain 
+black: maŋaṛar | maŋaṛar 
+blood: maniŋul | maniNul	maniŋul 
+blow: amaruguɟu 
+blow: arargmanuŋgu 
+bone: igada | igada	ikada 
+boy: gonururg 
+boy: gwaranɟi 
+branch: widu aḷir 
+breathe: aŋag 
+breathe: aŋuburguŋag 
+brother: walagubanu 
+brother: yaŋai widbada 
+burn: amanɟalgu 
+burn: amaruganga lu 
+burn: umoɣuː 
+butterfly: inalindali 
+cheek: imurgu 
+chest: ŋaldamaru 
+child: yinan̪ 
+cloud: wurunɟul 
+cold: alewug 
+come: aburugan | aburugan	rimin 
+correct: barbar 
+crocodile: biribiri 
+crocodile: maɟalelo 
+cut: anɟuwulu 
+dark: naŋud\ 
+daughter: reŋei 
+day: yirggia 
+die: abildadgaḷu | abildadgaḷu	yunan 
+die: anɟaliguwura | abildadgaḷu	yunan 
+die: waiyunan | abildadgaḷu	yunan 
+dig: wiɟa wanaŋgaḷu 
+dirty: maŋarar 
+dog: nagi | nagi	naki 
+drink: amanɟaṛagaṛag | amanɟaṛagaṛag	ya 
+dry: wawunalggan 
+earth: warbbar 
+ear: wiaid | raT	wiaid 
+eat: anɟu 
+egg: iḷḍadu | iḷḍadu 
+egg: malgarga | iḷḍadu 
+elbow: waːḷ 
+emu: ganguɹ̣g 
+emu: gaṇgurg 
+eye: imunbu | waLiwu	waliwu 
+eye: irmanɟa | waLiwu	waliwu 
+eye: waliwu | waLiwu	waliwu 
+face: wiːl 
+fall: waːbilu 
+father: arabai 
+fat (n.): murgaid\ 
+fear: almara ŋaiyunan 
+fear: almaraŋra 
+feather: imadiyag 
+few: midbala 
+fight: wariayaggin 
+finger: imaṛa 
+finger: wiaŋa 
+fire: guɟali | guɟali	guɟäli	uTali 
+fire: guɟäli | guɟali	guɟäli	uTali 
+fish: algaid\ | algaidʼ	alkaT 
+fly (n.): mulgulg 
+fly (n.): muḷguḷg 
+fly (v.): amareiman 
+fog: rurnun 
+foot: wiaŋa 
+forehead: wili 
+forest: arabia 
+full: amanɟinbun | mambal 
+full: mambal 
+girl: waralg 
+give: amabu 
+good: gulɟag 
+grass: wuɟai 
+green: guŋan̪ 
+hair: irmanɟa 
+hand: imaṛa | imaṛa	mara 
+head: iwuʎa | iwulya	iwuʎa 
+head: iwulya | iwulya	iwuʎa 
+hear: aligi | aldiki5	aligi 
+heart: mugamuga 
+heavy: iwiɟag 
+he/she: wanɟag 
+he/she: wi- 
+hit: amanbaḷu 
+hold: amarigaḷu 
+hole: gaḷdurgaḷdur 
+house: almar 
+hunt: amunmiälgun 
+husband: mariŋbalu 
+I: ŋa- | Nayiwa	ŋaiu	ŋaiuwa 
+I: ŋaiu | Nayiwa	ŋaiu	ŋaiuwa 
+I: ŋaiuwa | Nayiwa	ŋaiu	ŋaiuwa 
+kangaroo: malaiyuwar 
+kill: ambaḷu | ambaḷu 
+knee: imiri | imiri	miri 
+know: ŋambaligun 
+lake: wuṛalwuṛ 
+laugh: anaṛḍagun 
+leaf: malder | malder	marar 
+left: yaɟad 
+leg: aɟidbu 
+lie: anɟu 
+lightning: ŋungarba 
+lip: abuyaṛa 
+live: anuraggagaṛa 
+liver: galŋgid\ | galŋgidʼ	kalNkit 
+long: maluwar 
+long: wildäṛan | maluwar 
+louse: ŋurgu 
+man: awuḷaḷu | awaḷaḷu	awuLu 
+meat: ɟiradad 
+moon: gurana 
+morning: waiɟbalg 
+morning: waid\baḷgadu 
+mosquito: muɲa 
+mother: aḷuma 
+mountain: malue | walaŋada mabo	walaŋada mabo? 
+mountain: walaŋada | walaŋada mabo	walaŋada mabo? 
+mountain: walaŋada mabo | walaŋada mabo	walaŋada mabo? 
+mouth: wiiŋara 
+name: anuwuŋid\bu | NiT	anuwuŋidʼbu 
+nape: wiḷig 
+navel: iwanduṛiɟ 
+near: alwagi 
+neck: wiḷig | wiḷig 
+new: wuranag | watanak	wuranag 
+not: aḷḍau 
+old: gamumu 
+old: guraiyawu 
+old: nulgu 
+one: yabaran | jabaran	yabaran 
+other: aralaid 
+person: awaḷaḷu | awaḷaḷu	awuLu 
+play: abamaldaba 
+rain: yidar 
+rat: wuldara 
+red: maniŋulmibin 
+right: maːṛuid\ | imaṛa	mara 
+ripe: wiraid\ 
+river: aruid\ 
+road: adamuŋgun 
+root: weːḷi | weːḷi 
+rope: malɟamuru 
+rotten: guŋug 
+round: wulaid\guŋ | wulaidʼguŋ 
+rub: ŋaŋanɟawan 
+sand: yirmbaṛ | yirmbaṛ 
+say: -ŋanga | yirmbaṛ 
+scratch: amininɟir 
+sea: maŋguwil 
+see: aṛagambu | aṛagambu	rakan 
+seed: waliwu 
+sharp: ŋarainɟal 
+short: imbugar 
+shoulder: imuŋu 
+sing: aŋulda 
+sister: aiɟaman 
+sister: yalgumu 
+sit: anani 
+skin: amanɟulu wiŋiri | wiNiri	wiŋiri 
+skin: wiŋiri | wiNiri	wiŋiri 
+sky: warrag 
+sleep: ganuru ŋurid\ | ganuru ŋuridʼ 
+small: miḍbalda | miḍbalda 
+smell: awiɟun 
+smoke: gunan̪ | gunan̪	guŋan̪ 
+smoke: guŋan̪ | gunan̪	guŋan̪ 
+smooth: waraid\baran̪ 
+snake: ŋambid\ | ŋambidʼ 
+son: bidbalda 
+son: maragareg 
+stand: analami 
+star: maribiwi | maradbiwiyi	maribiwi 
+star: nuŋgarbar | maradbiwiyi	maribiwi 
+stone: walaŋada | waLaNada	walaŋada 
+stone: walaŋade | waLaNada	walaŋada 
+straight: yaɟad 
+suck: anuwiyawanbu 
+sun: maɲiɟ | ma5iT	maɲidʼ	maɲiɟ 
+sun: maɲid\ | ma5iT	maɲidʼ	maɲiɟ 
+sweet: maŋgu 
+swim: aniɟbun 
+tail: wiälgu | wiälgu 
+take: amarmagwami 
+take: aralabu 
+there: gamani 
+they: wiru- 
+they: yirimbag 
+thigh: yuwana 
+think: waraidbaragaḷu 
+thou: ŋu- | wamba 
+thou: ŋurawa | wamba 
+thou: wamba 
+three: alaburug 
+throat: imaŋa 
+throw: amargudbi 
+today: gai\irg 
+tomorrow: aŋaɟunuid\ 
+tongue: wiŋaril | Naril	wiŋaril 
+tooth: wiŋinɟäl | Ni5Tal	wiŋinɟäl 
+tree: aḷir | aLir 
+two: ilibulug | ilibulug	iluburuk 
+walk: amaṛa | amaṛa mandaiɟu 
+walk: amaṛa mandaiɟu | amaṛa mandaiɟu 
+walk: amara maŋawara | amaṛa mandaiɟu 
+warm: alambarag 
+wash: amanbiri 
+wash: anbilgin 
+water: aḍawid | arakarak	aḍawud	aḍaːwud 
+water: aḍawud | arakarak	aḍawud	aḍaːwud 
+water: aḍaːwud | arakarak	aḍawud	aḍaːwud 
+weep: aŋaṛid\bin 
+we: ŋarawa | Narawa 
+we: ŋuruŋu- | Narawa 
+what: iŋamaiɟa 
+when: mangaiɟu 
+where: iŋgia 
+white: milibin 
+who: yigu 
+wind: manuŋga 
+wing: iḷḍadu 
+woman: waralg | wuraidbaru	wuraidʼbaru 
+woman: wuraidbaru | wuraidbaru	wuraidʼbaru 
+woman: wuraid\baru | wuraidbaru	wuraidʼbaru 
+wood: guɟäli 
+yellow: yiliḷg | yiliḷg 
+every: yadbayuwulu 
+ash: ruga 
+bigness: wadagubbagim 
+large: wadagubbagim 
+come from: aburugan	rimin 
+be dead: abildadgaḷu	yunan 
+dead: abildadgaḷu	yunan 
+fly: amareiman 
+fly v.: amareiman 
+left hand: imaṛa	mara 
+1 sg.: Nayiwa	ŋaiu	ŋaiuwa 
+lie down: anɟu 
+male: awuḷaḷu 
+flesh: ɟiradad 
+hill: walaŋada mabo	walaŋada mabo? 
+title: NiT	anuwuŋidʼbu 
+night: naNuT 
+nighttime: naNuT 
+nose: wiːl	yuL 
+adulterous: jabaran	yabaran 
+single: jabaran	yabaran 
+that: jabaran	yabaran 
+the: jabaran	yabaran 
+unprincipled: jabaran	yabaran 
+human: awaḷaḷu	awuLu 
+human being: awaḷaḷu	awuLu 
+rainy weather: yidar 
+hide: wiNiri	wiŋiri 
+little: miḍbalda 
+smallness: miḍbalda 
+rock: waLaNada	walaŋada 
+2 sg: wamba 
+you: wamba 
+grind: ilibulug	iluburuk 
+go: amaṛa mandaiɟu 
+1 pl. inc.: Narawa 
+we₁: Narawa 
+whiteness: milibin 
+who?: yigu 
+female: wuraidbaru	wuraidʼbaru 
+dull: iwiɟag 
+serious: iwiɟag 
+close: alwagi 
+ner: alwagi 

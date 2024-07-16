@@ -1,0 +1,313 @@
+all: kátã́ 
+every: kátã́ 
+ash: dzòmèfí	àfí 
+ashes: dzòmèfí	àfí 
+bark: tsró	àtítsró 
+abdomen: dɔ̀	dɔ̀mè	ɸò	ɸòdò 
+belly: dɔ̀	dɔ̀mè	ɸò	ɸòdò 
+big: gã́	lòlò 
+bigness: gã́	lòlò 
+large: gã́	lòlò 
+bird: xè	xèví 
+bite: ḍù 
+black: yìbɔ̀ 
+blood: ebu	βù 
+bone: epu	ɸú 
+breast: nó 
+breasts: nó 
+claw: fè 
+nail: fè 
+talon: fè 
+cloud: àlílí 
+cold: fá	wɔ̀ 
+come: gbɔ̀	va	vá 
+come from: gbɔ̀	va	vá 
+be dead: ku	kú 
+dead: ku	kú 
+die: ku	kú 
+dog: avu	àvŭ 
+drink: nu	nò 
+dry: ɸúɸú 
+ear: eto	tó 
+earth: àɲí 
+ground: àɲí 
+land: àɲí 
+soil: àɲí 
+eat: ḍù 
+egg: àzì 
+eye: Nku	ŋ̀kú 
+feather: fú 
+fire: dzò	ezo 
+fish: akpa	tɔ̀mèlãʏ̈	àkpà 
+fly: dzò 
+fly v.: dzò 
+foot: àfɔ̀ 
+full: yɔ́	ḍɔ́ 
+give: ná	tsɔ́ … ná 
+good: ɲó 
+green: dé àmà 
+hair: ḍà 
+hand: alo	asi	àlɔ̀	àsí 
+left hand: alo	asi	àlɔ̀	àsí 
+right: alo	asi	àlɔ̀	àsí 
+head: tà 
+hear: s3	sè 
+heart: dzì 
+horn: dzò 
+1 sg.: e5e	ɲeé	ɲè 
+I: e5e	ɲeé	ɲè 
+kill: wù 
+knee: eklo	klò 
+be knowledgeable: núɲáɲá 
+know: núɲáɲá 
+leaf: àmàkpà 
+lie: ḍó xɔ̀ 
+lie down: ḍó xɔ̀ 
+liver: àklãʏ̈ 
+long: dìdì 
+male: ŋútsù 
+man: àmè 
+many: sɔ̀gbɔ̀	àlégbègbè	ŋútɔ́ 
+much: sɔ̀gbɔ̀	àlégbègbè	ŋútɔ́ 
+multiple: sɔ̀gbɔ̀	àlégbègbè	ŋútɔ́ 
+several: sɔ̀gbɔ̀	àlégbègbè	ŋútɔ́ 
+flesh: lãʏ̈ 
+meat: lãʏ̈ 
+moon: ɥlètí 
+hill: tó 
+mountain: tó 
+mouth: nù 
+name: Nko	ŋ́kɔ́ 
+title: Nko	ŋ́kɔ́ 
+neck: kɔ̀ 
+new: yéyĕ 
+night: eza	zã́ 
+nighttime: eza	zã́ 
+nose: Noti	ŋɔ̀tí 
+not: mé- … ò 
+adulterous: deka	ed3	èká	ḍeka	ḍèká	ḍé 
+one: deka	ed3	èká	ḍeka	ḍèká	ḍé 
+single: deka	ed3	èká	ḍeka	ḍèká	ḍé 
+that: ekema	kemã	mã	émá 
+the: deka	ed3	èká	ḍeka	ḍèká	ḍé 
+unprincipled: deka	ed3	èká	ḍeka	ḍèká	ḍé 
+human: àmè 
+human being: àmè 
+person: àmè 
+rain: tsì	tsìdzàdzà 
+rainy weather: tsì	tsìdzàdzà 
+red: lè dziẽʏ̈	nɔ̀ dziẽʏ̈ 
+path: emo 
+road: emo 
+route: emo 
+root: kè 
+round: nògò 
+sand: ké 
+say: gblɔ̀ 
+see: kpo	kpɔ́ 
+seed: kú	nútsétsé 
+sit: nɔ̀ àɲí 
+hide: Ntiyi	ayi	àgbàdzè	ŋútí 
+skin: Ntiyi	ayi	àgbàdzè	ŋútí 
+sleep: dɔ́ àlɔ̃̀ 
+little: -ví	suè 
+small: -ví	suè 
+smallness: -ví	suè 
+smoke: dzùdzɔ̀	àdzùdzɔ̀ 
+star: ɥlètíví 
+rock: ekpe	kpé 
+stone: ekpe	kpé 
+sun: Ndokusu	ɥè 
+swim: ɸútsì 
+tail: àsíké 
+this: sia	sià	èsia	ésià 
+2 sg: ewo	woé	yi	è- 
+thou: ewo	woé	yi	è- 
+you: ewo	woé	yi	è- 
+tongue: ade	àḍè 
+tooth: adu	àḍŭ 
+tree: ati 
+grind: eve	èvè 
+two: eve	èvè 
+go: zɔ̀ 
+walk: zɔ̀ 
+water: esi	tsì 
+1 pl. inc.: mia wo 
+we: mia wo 
+we₁: mia wo 
+what: nuka	núkà 
+white: fù	fù ɥíé 
+whiteness: fù	fù ɥíé 
+who: àmékà 
+who?: àmékà 
+female: ɲɔ́nù 
+woman: ɲɔ́nù 
+yellow: àŋgbàḍìḍì	ŋùtíḍìḍì 
+distant: dìdì 
+far: dìdì 
+dull: kpè 
+heavy: kpè 
+serious: kpè 
+close: tsɔ̀ … gbɔ́ 
+near: tsɔ̀ … gbɔ́ 
+ner: tsɔ̀ … gbɔ́ 
+salt: dzè 
+short: kpuì 
+snake: dà 
+thin: trálɛ́ 
+wind: yà 
+earthworm: vɔ̆	vɔ̆kluì 
+worm: vɔ̆	vɔ̆kluì 
+year: ɸè 
+3 sg.: eyae	wò-	yé	é- 
+he: eyae	wò-	yé	é- 
+she: eyae	wò-	yé	é- 
+2 pl.: mì-awo	mìè- 
+ye: mì-awo	mìè- 
+you all: mì-awo	mìè- 
+3 pl.: wó-	wó-awo 
+they: wó-	wó-awo 
+here: àfiì	àfísià 
+there: àfímá 
+where: afika	àfíkà 
+where?: afika	àfíkà 
+when: ɥekaɥi	ɥèkàɥì 
+when?: ɥekaɥi	ɥèkàɥì 
+how: aleke	áléké 
+how?: aleke	áléké 
+few: ví áḍé 
+other: búbŭ	kèmɛ̀	ḍétɔ́ 
+three: etɔ	etɔ̃	ètɔ̃ʏ̈ 
+four: ene	ènè 
+five: atɔ̃	atṍ	àtɔ̃́ 
+broad: kèkè 
+wide: kèkè 
+wideness: kèkè 
+fat: àmì 
+thick: trì 
+narrow: xáxá	xáxɛ́ 
+child: ḍèví 
+principal wife: srɔ̃ʏ̈-ɲɔ́nù	àsì	ɲɔ́nù 
+wife: srɔ̃ʏ̈-ɲɔ́nù	àsì	ɲɔ́nù 
+husband: srɔ̃ʏ̈-ŋútsù	ŋútsù 
+his mother: dà	nɔ̀ 
+mother: dà	nɔ̀ 
+my mother: dà	nɔ̀ 
+father: fòfó	tɔ́ 
+his father: fòfó	tɔ́ 
+my father: fòfó	tɔ́ 
+animal: lãʏ̈ 
+forest: àtívé	àvĕkɔé 
+woods: àtívé	àvĕkɔé 
+branch: lɔ̀	àtílɔ̀ 
+stick: lɔ̀	àtílɔ̀ 
+fruit: kútsétsé	àtíkútsétsé 
+flower: séɸòɸò 
+grass: gbĕ 
+cord: kà 
+rope: kà 
+grease: àmì 
+fingernail: fè	fètsú 
+leg: àfɔ̀tí	àtá 
+wing: àβàlá 
+gut: dɔ̀ 
+guts: dɔ̀ 
+insides: dɔ̀ 
+intestine: dɔ̀ 
+intestines: dɔ̀ 
+back: mègbé 
+suck: gbúgbɔ́	ɲí 
+vomit: trú	ḍè nú	ḍè xè 
+blow: ḍó ɸúɸú 
+breath: gbɔ̀ 
+breathe: gbɔ̀ 
+laugh: kò nú 
+laughter: kò nú 
+cogitate: bù tàmè 
+reflect: bù tàmè 
+think: bù tàmè 
+smell: sè 
+sniff: sè 
+afraid: vɔ̀vɔ̃́ 
+be afraid: vɔ̀vɔ̃́ 
+fear: vɔ̀vɔ̃́ 
+fright: vɔ̀vɔ̃́ 
+alive: lè àgbè	nɔ̀ àgbè 
+be alive: lè àgbè	nɔ̀ àgbè 
+life: lè àgbè	nɔ̀ àgbè 
+live: lè àgbè	nɔ̀ àgbè 
+living: lè àgbè	nɔ̀ àgbè 
+fight: wɔ̀ àβà 
+hunt: dà àdè	wù àdèlãʏ̈ 
+beat: ɸò 
+hit: ɸò 
+strike: ɸò 
+cut: kpà	sì	tsò 
+hack: kpà	sì	tsò 
+cut open: dzè	fé 
+split: dzè	fé 
+pierce: tɔ́ hɛ̆	tɔ́ àdàkpuì 
+stab: tɔ́ hɛ̆	tɔ́ àdàkpuì 
+scratch: klíkó 
+tell lies: blè àmè	ká àβàtsó 
+stand: lè tsìtrè	nɔ̀ tsìtrè 
+drop: mù 
+fall: mù 
+grasp: lé 
+hold: lé 
+hold in arm: lé 
+squeeze: miá 
+wring: miá 
+rub: lìlì	tùgù 
+wipe: tútú 
+wash: klɔ́ 
+wash clothes: klɔ́ 
+push: tùtù 
+shove: tùtù 
+throw: dà 
+bind: blá	dé kà 
+fasten: blá	dé kà 
+tie: blá	dé kà 
+tie up: blá	dé kà 
+sew: tɔ̀ 
+count: bù	bù àkɔ́ntà 
+enumerate: bù	bù àkɔ́ntà 
+number: bù	bù àkɔ́ntà 
+tally: bù	bù àkɔ́ntà 
+sing: dzì ɣà 
+have fun: fé	fé fé 
+play: fé	fé fé 
+float: tsí tsì dzí 
+flow: sí 
+freeze: fá 
+brook: tɔ̀	tɔ̀sísí 
+river: tɔ̀	tɔ̀sísí 
+stream: tɔ̀	tɔ̀sísí 
+lake: tá 
+dust: βùβù	βùβùdédí 
+fog: àfù	àɣṹ 
+sky: dzíŋ̀gɔ̀	dzíŋ̀gɔ̀lì	yàmè 
+ice: tsìkpé 
+blaze: bì	bì dzò 
+burn: bì	bì dzò 
+day: kélì 
+daylight: kélì 
+daytime: kélì 
+bad: vɔ̃́ 
+evil: vɔ̃́ 
+rot: vó	vóvó 
+rotten: vó	vóvó 
+dirty: ɸò ḍĭ 
+filthy: ɸò ḍĭ 
+soiled: ɸò ḍĭ 
+sharp: ḍáḍɛ́ 
+blunt: kpò	tsí 
+smooth: zrɔ̃ʏ̈ 
+damp: ɸò tsì 
+wet: ɸò tsì 
+correct: dè 
+right side: dzɔ̀dzɔè 
+left: miàmè 
+and: kplé 
+if: né	né ḍĕ 
+because: àmètsɔ́βú 

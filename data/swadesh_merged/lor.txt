@@ -1,0 +1,138 @@
+all: few 
+every: few 
+ash: dʊsaka	dʊsawɔ 
+ashes: dʊsaka	dʊsawɔ 
+abdomen: pʔolomo	pʔolõgo 
+belly: pʔolomo	pʔolõgo 
+big: gbal 
+bigness: gbal 
+large: gbal 
+bird: limi	limu 
+bite: dumo	dũ 
+black: bĩro 
+blood: tobo	tɔbaː	tɔbɔ 
+bone: gb~oloko	ʔpoloko	ʔpolowo 
+breast: yɔʷ 
+breasts: yɔʷ 
+claw: xɪ̃laka	xɪ̃lɔ 
+nail: xɪ̃laka	xɪ̃lɔ 
+talon: xɪ̃laka	xɪ̃lɔ 
+cloud: bʊrʊwɔ	bʊtɔ 
+cold: tobe 
+come: yi 
+come from: yi 
+be dead: pir	pɪː	pɪːrɔ 
+dead: pir	pɪː	pɪːrɔ 
+die: pir	pɪː	pɪːrɔ 
+dog: Nmami	ŋmamɪ	ŋmamʊ 
+drink: ni	nĩ	nĩw 
+dry: xɔ̃y 
+ear: tenike	tenu 
+eat: xoʼo 
+egg: folo	fuluwo 
+eye: himb~iye	hĩbiye	hĩbu 
+feather: fumo	fũgo 
+fire: daha	daw	daxɔ	daʼa 
+fish: busaN	bʊsã	bʊsãbɔ 
+fly: fer	fero 
+fly v.: fer	fero 
+foot: naw	naɣa	nä 
+full: kãr 
+give: ha	haw 
+good: dʊ̃ 
+hair: fumo	fũgo 
+hand: nugo	nũw	nũwo 
+left hand: nugo	nũw	nũwo 
+right: nugo	nũw	nũwo 
+head: ta-wɔ	taha	taɣa	taʼa 
+hear: kanowe	kanɔ	kã 
+horn: unike	unu 
+1 sg.: me	mi	mɪ 
+I: me	mi	mɪ 
+kill: kʊ 
+knee: togb~ulaka 
+be knowledgeable: gi 
+know: gi 
+leaf: gusuko	gusuwo 
+lie: dɛː 
+lie down: dɛː 
+long: sosor 
+male: xɪna	xɪnabɔ 
+man: ɲʊbɔ	ɲʊ̃ 
+moon: fɪ̃w	fɪ̃yɛ 
+hill: gbɔkɔ	gbɔwɔ 
+mountain: gbɔkɔ	gbɔwɔ 
+mouth: nʊfɪ-ya	nʊfɪ-yɔ 
+name: hɪraː	hɪrɔ	iraNo 
+title: hɪraː	hɪrɔ	iraNo 
+new: kɪla 
+night: dumaka	dʊmaka	dʊmɔ 
+nighttime: dumaka	dʊmaka	dʊmɔ 
+nose: miteaka	mɪtɪyaka	mɪtɪyɔ 
+not: a … wa 
+adulterous: tani	tanɪ	tánɪ 
+one: tani	tanɪ	tánɪ 
+single: tani	tanɪ	tánɪ 
+that: lɔxɔ 
+the: tani	tanɪ	tánɪ 
+unprincipled: tani	tanɪ	tánɪ 
+human: ɲʊbɔ	ɲʊ̃ 
+human being: ɲʊbɔ	ɲʊ̃ 
+person: ɲʊbɔ	ɲʊ̃ 
+rain: ɔkɔ	ɔwɔ̩ 
+rainy weather: ɔkɔ	ɔwɔ̩ 
+red: bamɔ 
+path: bulaha 
+road: bulaha 
+route: bulaha 
+root: na	naga	naw	naxɔ 
+round: gəlɛ̃kɛ 
+sand: butiburko 
+say: la	sɛːr 
+see: douwe	nɪ	nɪw 
+sit: ɪsɪ	ɪsɪsɪ 
+hide: togo	tɔgbɔrʊwɔ	tɔgbɔtɔ 
+skin: togo	tɔgbɔrʊwɔ	tɔgbɔtɔ 
+sleep: dɛː 
+little: tɪrɪpɪ 
+small: tɪrɪpɪ 
+smallness: tɪrɪpɪ 
+smoke: dãdɛ ele	dãdɛ elebo 
+star: kpatɪyɛ	kpatʊ 
+rock: nereke	nerike 
+stone: nereke	nerike 
+sun: gra	gɪra	gɪraga 
+tail: xɪlaga	xɪlaː	xɪlɔ 
+2 sg: ga	u	ʊ 
+thou: ga	u	ʊ 
+you: ga	u	ʊ 
+tongue: deliNg~e	delẽbo	delẽge 
+tooth: kamaka	kaːmu 
+tree: diaha 
+grind: 5or	njo:r̃	ɲor 
+two: 5or	njo:r̃	ɲor 
+go: yaːlɔ	yaːlɛ 
+walk: yaːlɔ	yaːlɛ 
+water: oko	ɔkɔ 
+1 pl. inc.: bo* 
+we: bo* 
+we₁: bo* 
+what: bɛkɛ 
+white: bũwo 
+whiteness: bũwo 
+who: ãkɔ 
+who?: ãkɔ 
+female: yɪra	yɪrabɔ 
+woman: yɪra	yɪrabɔ 
+distant: ley 
+far: ley 
+dull: pʊnɔ 
+heavy: pʊnɔ 
+serious: pʊnɔ 
+close: kɛy na 
+near: kɛy na 
+ner: kɛy na 
+salt: nafʊlãbɔ	nafʊlãga 
+short: lʊ̃ 
+snake: kpãkpo	kpãkpobo 
+year: diw	dʊyɛ 

@@ -1,0 +1,332 @@
+all: كل 
+every: كل 
+ash: رماد 
+ashes: رماد 
+bark: قشرة 
+abdomen: بطن 
+belly: بطن 
+big: كبير 
+bigness: كبير 
+large: كبير 
+bird: عصفورة 
+bite: عض	يعض 
+black: اسود 
+blood: دم 
+bone: عضمة 
+breast: بز	صدر 
+breasts: بز	صدر 
+cloud: سحاب	غيمة 
+cold: برد	ساقع 
+come: جا	ييجي 
+come from: جا	ييجي 
+be dead: مات	يموت 
+dead: مات	يموت 
+die: مات	يموت 
+dog: كلب 
+drink: شرب	يشرب 
+dry: ناشف 
+ear: دان 
+earth: ارض 
+ground: ارض 
+land: ارض 
+soil: ارض 
+eat: اكل	كل	ياكل 
+egg: بيضة 
+eye: عين 
+feather: ريشة 
+fire: نار 
+fish: سمكة 
+fly: طار	يطير 
+fly v.: طار	يطير 
+foot: اجر 
+full: مليان 
+give: عطى	يعطي 
+good: طيب	كويس 
+green: اخضر 
+hair: شعرة 
+head: راس 
+hear: سمع	يسمع 
+heart: قلب 
+horn: قرن 
+1 sg.: انا 
+I: انا 
+kill: قتل	موّت	يقتل	يموّت 
+knee: ركبة 
+be knowledgeable: عرف	يعرف 
+know: عرف	يعرف 
+leaf: ورقة 
+liver: كبدة 
+long: طويل 
+head louse: قملة 
+louse: قملة 
+male: رجال	رجل 
+man: انسان 
+many: كتير 
+much: كتير 
+multiple: كتير 
+several: كتير 
+moon: قمر 
+hill: جبل 
+mountain: جبل 
+mouth: تم 
+name: اسم 
+title: اسم 
+neck: رقبة 
+new: جديد 
+night: ليلة 
+nighttime: ليلة 
+nose: منخار 
+not: مش 
+adulterous: واحد	واحدة 
+one: واحد	واحدة 
+single: واحد	واحدة 
+that: هداك	هدولك	هديك 
+the: واحد	واحدة 
+unprincipled: واحد	واحدة 
+human: انسان 
+human being: انسان 
+person: انسان 
+rain: مطر 
+rainy weather: مطر 
+red: احمر 
+path: سكة	طريق 
+road: سكة	طريق 
+route: سكة	طريق 
+root: شرش 
+round: مدور 
+sand: رمل 
+say: قال	يقول 
+see: شاف	يشوف 
+seed: بذرة	حبة 
+sit: قعد	يقعد 
+hide: جلد 
+skin: جلد 
+sleep: نام	ينام 
+little: صغير 
+small: صغير 
+smallness: صغير 
+smoke: دخان 
+star: نجمة 
+rock: حجر	طوبة 
+stone: حجر	طوبة 
+sun: شمس 
+swim: قام	يقوم 
+tail: دنب 
+this: هاي	هدا	هدول 
+2 sg: انت	انتي 
+thou: انت	انتي 
+you: انت	انتي 
+tongue: لسان 
+tooth: سن 
+tree: سجرة 
+grind: اتنين 
+two: اتنين 
+go: مشي	يمشي 
+walk: مشي	يمشي 
+hot: دافي 
+warm: دافي 
+water: مية 
+1 pl. inc.: احنا 
+we: احنا 
+we₁: احنا 
+what: ايش	شو 
+white: ابيض 
+whiteness: ابيض 
+who: مين 
+who?: مين 
+female: مرة 
+woman: مرة 
+yellow: اصفر 
+distant: بعيد 
+far: بعيد 
+dull: تقيل 
+heavy: تقيل 
+serious: تقيل 
+close: قريّب 
+near: قريّب 
+ner: قريّب 
+salt: ملح 
+short: قصير 
+snake: حية 
+thin: رفيع 
+wind: هوا 
+earthworm: دودة 
+worm: دودة 
+year: سنة 
+3 sg.: هو 
+he: هو 
+she: هو 
+2 pl.: انتو 
+ye: انتو 
+you all: انتو 
+3 pl.: هم 
+they: هم 
+here: هون 
+there: هناك 
+where: وين 
+where?: وين 
+when: ايمتى 
+when?: ايمتى 
+how: كيف 
+how?: كيف 
+some: كم من 
+few: شوية 
+other: تاني 
+three: تلاتة 
+four: اربعة 
+five: خمسة 
+broad: واسع 
+wide: واسع 
+wideness: واسع 
+fat: شحم 
+thick: خميل 
+narrow: ضيّق 
+child: طفل	ولد 
+principal wife: مرة 
+wife: مرة 
+husband: جوز 
+his mother: ام 
+mother: ام 
+my mother: ام 
+father: اب	ابو 
+his father: اب	ابو 
+my father: اب	ابو 
+animal: حيوان 
+forest: حرش	غابة 
+woods: حرش	غابة 
+branch: عصاي 
+stick: عصاي 
+fruit: فاكهة 
+flower: {زهرة 
+grass: حشيش	عشب 
+cord: حبل 
+rope: حبل 
+flesh: لحمة 
+meat: لحمة 
+grease: شحم 
+claw: اضفر 
+fingernail: اضفر 
+nail: اضفر 
+leg: ساق 
+arm: ايد 
+hand: ايد 
+wing: جناح 
+gut: مصران 
+guts: مصران 
+insides: مصران 
+intestine: مصران 
+intestines: مصران 
+back: ضهر 
+suck: مص	يمص 
+spit: تف	يتف 
+vomit: رجّع	يرجّع 
+blow: نفخ	ينفخ 
+breath: اتنفس	يتنفس 
+breathe: اتنفس	يتنفس 
+laugh: ضحك	يضحك 
+laughter: ضحك	يضحك 
+cogitate: افتكر	يفتكر 
+reflect: افتكر	يفتكر 
+think: افتكر	يفتكر 
+smell: شم	يشم 
+sniff: شم	يشم 
+afraid: خاف	يخاف 
+be afraid: خاف	يخاف 
+fear: خاف	يخاف 
+fright: خاف	يخاف 
+alive: عاش	يعيش 
+be alive: عاش	يعيش 
+life: عاش	يعيش 
+live: عاش	يعيش 
+living: عاش	يعيش 
+fight: اتخانق	يتخانق 
+hunt: اصطاد	يصطاد 
+beat: ضرب	يضرب 
+hit: ضرب	يضرب 
+strike: ضرب	يضرب 
+cut: قطع	يقطع 
+hack: قطع	يقطع 
+cut open: شق	يشق 
+split: شق	يشق 
+pierce: طعن	يطعن 
+stab: طعن	يطعن 
+scratch: خربش	يخربش 
+dig: حفر	يحفر 
+lie: نام	ينام 
+lie down: نام	ينام 
+tell lies: نام	ينام 
+stand: وقف	يقف 
+turn: لف	يلف 
+turn around: لف	يلف 
+turn round: لف	يلف 
+drop: وقع	يقع 
+fall: وقع	يقع 
+grasp: مسك	يمسك 
+hold: مسك	يمسك 
+hold in arm: مسك	يمسك 
+squeeze: عصر	يعصر 
+wring: عصر	يعصر 
+rub: فرك	يفرك 
+wipe: مسح	يمسح 
+wash: غسل	يغسل 
+wash clothes: غسل	يغسل 
+pull: شد	يشد 
+push: زق	يزق 
+shove: زق	يزق 
+throw: رمى	يرمي 
+bind: ربط	يربط 
+fasten: ربط	يربط 
+tie: ربط	يربط 
+tie up: ربط	يربط 
+sew: خيّط	يخيّط 
+count: عد	يعد 
+enumerate: عد	يعد 
+number: عد	يعد 
+tally: عد	يعد 
+sing: غنّى	يغنّي 
+have fun: لعب	يلعب 
+play: لعب	يلعب 
+float: عام	يعوم 
+flow: جري	يجري 
+freeze: تلّج	جمّد	يتلّج	يجمّد 
+swell: ورم	يورم 
+brook: بحر	نهر 
+river: بحر	نهر 
+stream: بحر	نهر 
+lake: بحيرة	بركة 
+ocean: بحر 
+sea: بحر 
+dust: تراب 
+fog: شبورة	ضباب 
+sky: سما 
+snow: تلج 
+ice: تلج 
+blaze: حرق	يحرق 
+burn: حرق	يحرق 
+day: نهار	يوم 
+daylight: نهار	يوم 
+daytime: نهار	يوم 
+old: قديم 
+bad: وحش 
+evil: وحش 
+rot: معفن 
+rotten: معفن 
+dirty: وسخ 
+filthy: وسخ 
+soiled: وسخ 
+straight: عدل 
+sharp: حامي 
+blunt: بارد	تلم 
+smooth: ناعم 
+damp: مبلول 
+wet: مبلول 
+correct: صح 
+right: يمين 
+right side: يمين 
+left: شمال 
+at: عند 
+in: في 
+inside: في 
+with: ب	مع 
+if: اذا	ان	لو 
+because: عشان	علعشان 

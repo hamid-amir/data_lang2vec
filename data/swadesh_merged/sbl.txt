@@ -1,0 +1,261 @@
+all: kaganaʼwan 
+every: kaganaʼwan 
+ash: qaʼbo 
+ashes: qaʼbo 
+abdomen: tiʼan 
+belly: tiʼan 
+big: hɨʼlay 
+bigness: hɨʼlay 
+large: hɨʼlay 
+bird: maʼnok 
+bite: kaʼyat	mangʼyat 
+black: maʼngitit 
+blood: daya7	ʼdayaq 
+bone: bot7o	botʼqo 
+breast: nono7	ʼnibnib	ʼnonoq 
+breasts: nono7	ʼnibnib	ʼnonoq 
+burn: ʼqolam 
+burn tr.: ʼqolam 
+cloud: ʼlɨɨm 
+cold: malayʼqɨp 
+come: luʼmaʼteng 
+come from: luʼmaʼteng 
+be dead: naʼti	paʼti 
+dead: naʼti	paʼti 
+die: naʼti	paʼti 
+dog: aho7	ʼqahoq 
+drink: inom	minom	miʼnom 
+dry: nakʼlang	ʼkilang	ʼqipaqalʼlo 
+ear: toli	toʼli 
+eat: maʼngan	qɨʼkan 
+egg: qoʼkoy 
+eye: mata	ʼmata 
+feather: ʼpoal 
+fire: apoy	qaʼpoy 
+fish: ikan	qiʼkan 
+fly: lomʼpad	lɨʼpad 
+fly v.: lomʼpad	lɨʼpad 
+full: napno7	pono7 
+good: mahamʼpat 
+green: ʼbirdi 
+hair: haʼbot 
+hand: gam3t	gaʼmɨt 
+left hand: gam3t	gaʼmɨt 
+right: gam3t	gaʼmɨt 
+head: ʼqolo 
+hear: mal3N37	malɨʼngɨq 
+1 sg.: hiko 
+I: hiko 
+kill: paʼtiɨn 
+knee: to7ol 
+be knowledgeable: ʼbalay 
+know: ʼbalay 
+leaf: boloN	boʼlong 
+lie: maʼngiraʼira 
+lie down: maʼngiraʼira 
+liver: agtay	ʼqagtay 
+long: maʼkaraq 
+head louse: koto	ʼkoto 
+louse: koto	ʼkoto 
+male: laʼlaki 
+man: tao	ʼtao 
+moon: ʼboan 
+hill: bakil 
+mountain: bakil 
+mouth: bɨʼbɨy 
+name: Nalan	ngaʼlan 
+title: Nalan	ngaʼlan 
+neck: ʼlɨqɨy 
+new: bayo	ʼbayo 
+night: yabi	yaʼbi 
+nighttime: yabi	yaʼbi 
+nose: baloNo	baʼlongo 
+adulterous: miha	miʼha	mi’ha 
+one: miha	miʼha	mi’ha 
+single: miha	miʼha	mi’ha 
+that: haʼbayʼto	haʼto 
+the: miha	miʼha	mi’ha 
+unprincipled: miha	miʼha	mi’ha 
+human: tao	ʼtao 
+human being: tao	ʼtao 
+person: tao	ʼtao 
+rain: qoʼran 
+rainy weather: qoʼran 
+red: maqoʼrit 
+path: daan	daʼan 
+road: daan	daʼan 
+route: daan	daʼan 
+root: yaʼmot 
+sand: kapaʼtiqan 
+say: ʼqilgo 
+see: makit	maʼkit 
+sit: mikʼnoq	qikʼnoq 
+hide: katat	ʼkatat 
+skin: katat	ʼkatat 
+sleep: maʼtoloy 
+little: maʼyamopq 
+small: maʼyamopq 
+smallness: maʼyamopq 
+smoke: qʼhok 
+star: bito73n	biʼtoqɨn 
+rock: bato	baʼto 
+stone: bato	baʼto 
+swim: manaʼngoy	taʼngoy 
+tail: ʼqikoy 
+this: haʼti 
+2 sg: hika 
+thou: hika 
+you: hika 
+tongue: dila7	ʼdilaq 
+tooth: Nip3n	ʼngipin 
+tree: kayo 
+grind: loa	loʼa	lo’a 
+two: loa	loʼa	lo’a 
+go: ʼbitaq	ʼmitaq 
+walk: ʼbitaq	ʼmitaq 
+hot: maqaʼmot 
+warm: maqaʼmot 
+water: lanom	laʼnom 
+1 pl. inc.: hitamo	hiʼtaʼmo 
+we: hitamo	hiʼtaʼmo 
+we₁: hitamo	hiʼtaʼmo 
+what: ʼqanya 
+white: mapoʼtiq 
+whiteness: mapoʼtiq 
+who: ʼhino 
+who?: ʼhino 
+female: baʼbai 
+woman: baʼbai 
+yellow: maholʼyaw 
+distant: daʼyoq	maraʼyoq 
+far: daʼyoq	maraʼyoq 
+dull: mabiʼat 
+heavy: mabiʼat 
+serious: mabiʼat 
+close: daʼni	maraʼni 
+near: daʼni	maraʼni 
+ner: daʼni	maraʼni 
+salt: qaʼhin 
+short: maqiʼpik	maʼqaypaq 
+snake: ʼqotan 
+thin: maniʼpi 
+wind: ʼqangin 
+earthworm: ʼqoɨl 
+worm: ʼqoɨl 
+year: taʼqon 
+2 pl.: hiʼka 
+ye: hiʼka 
+you all: hiʼka 
+3 pl.: hiʼla 
+they: hiʼla 
+where: qayʼri 
+where?: qayʼri 
+when: maʼkano 
+when?: maʼkano 
+how: ʼqongno 
+how?: ʼqongno 
+other: kahalaʼko 
+three: tatʼlo	tat’lo 
+four: ʼqapat	‘qapat 
+five: liʼma	li’ma 
+broad: maʼlawang 
+wide: maʼlawang 
+wideness: maʼlawang 
+fat: taʼbaq 
+thick: makogʼpaw 
+narrow: kiʼpit	makʼpit 
+principal wife: baʼkɨt 
+wife: baʼkɨt 
+husband: laʼkay 
+his mother: qinʼdoq 
+mother: qinʼdoq 
+my mother: qinʼdoq 
+father: ʼtatay 
+his father: ʼtatay 
+my father: ʼtatay 
+forest: bagʼbag 
+woods: bagʼbag 
+fruit: ʼbonga 
+flower: boʼlaklak 
+grass: diʼkot 
+cord: ʼyobil 
+rope: ʼyobil 
+grease: taʼbaq 
+wing: ʼpakpak 
+gut: biʼtoka 
+guts: biʼtoka 
+insides: biʼtoka 
+intestine: biʼtoka 
+intestines: biʼtoka 
+back: ʼbokot 
+suck: hɨphʼpɨn 
+spit: mandoʼlaq 
+vomit: ʼhoka 
+blow: payhɨʼpan 
+breath: maʼngiʼnanaʼwa 
+breathe: maʼngiʼnanaʼwa 
+laugh: mangkaʼqili 
+laughter: mangkaʼqili 
+cogitate: maʼngiʼhip 
+reflect: maʼngiʼhip 
+think: maʼngiʼhip 
+smell: daʼqɨp	maraʼqɨp 
+sniff: daʼqɨp	maraʼqɨp 
+afraid: maʼlimo 
+be afraid: maʼlimo 
+fear: maʼlimo 
+fright: maʼlimo 
+alive: luʼmigʼha	maʼbiʼyay 
+be alive: luʼmigʼha	maʼbiʼyay 
+life: luʼmigʼha	maʼbiʼyay 
+live: luʼmigʼha	maʼbiʼyay 
+living: luʼmigʼha	maʼbiʼyay 
+hunt: maʼngaho	ʼqaho 
+cut: qiʼwaqɨn 
+hack: qiʼwaqɨn 
+cut open: aʼtaʼgen 
+split: aʼtaʼgen 
+pierce: saksaʼkɨn 
+stab: saksaʼkɨn 
+scratch: gɨʼgatɨn	magaʼtiq 
+dig: maʼngotkot	ʼkotkot 
+stand: ʼmɨring	ʼqɨring 
+drop: maʼraboq	ʼdaboq 
+fall: maʼraboq	ʼdaboq 
+grasp: qoligtaʼnan 
+hold: qoligtaʼnan 
+hold in arm: qoligtaʼnan 
+squeeze: pɨhpɨʼhɨn 
+wring: pɨhpɨʼhɨn 
+throw: qiʼsopo 
+bind: qiʼlawig 
+fasten: qiʼlawig 
+tie: qiʼlawig 
+tie up: qiʼlawig 
+sew: manaʼiq	taʼiq 
+count: biʼlangɨn 
+enumerate: biʼlangɨn 
+number: biʼlangɨn 
+tally: biʼlangɨn 
+lake: ʼdagat 
+ocean: ʼdagat 
+sea: ʼdagat 
+dust: gaʼbok 
+sky: ʼlangit 
+bad: daʼwak	maraʼwak 
+evil: daʼwak	maraʼwak 
+rot: boʼlok 
+rotten: boʼlok 
+dirty: maʼyangat 
+filthy: maʼyangat 
+soiled: maʼyangat 
+sharp: mataʼrɨm 
+blunt: poʼrol 
+damp: mabaʼhaq 
+wet: mabaʼhaq 
+right side: waʼnan 
+left: ʼqoki 
+in: laʼlè 
+inside: laʼlè 
+and: buy 
+if: no 

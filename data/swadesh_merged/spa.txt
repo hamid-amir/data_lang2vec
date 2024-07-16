@@ -1,0 +1,394 @@
+all: todos | cada	cada uno	todo 
+and: y | e	y 
+animal: animal 
+ashes: ceniza | ceniza	cenizas 
+at: a | a	ante	en 
+at: apuñalar | a	ante	en 
+back: espalda | espalda	lomo 
+bad: malo | mal	malo 
+bark: corteza 
+because: porque 
+belly: barriga | barriga	panza	vientre 
+belly: vientre | barriga	panza	vientre 
+big: grande 
+bird: ave | ave	pájaro 
+bird: pájaro | ave	pájaro 
+bite: morder 
+black: negro 
+blood: sangre 
+blow: soplar 
+bone: hueso 
+breast: mama | pecho	seno 
+breast: pecho | pecho	seno 
+breast: seno | pecho	seno 
+breast: teta | pecho	seno 
+breathe: respirar | aliento	respirar 
+burn: arder | arder	quemar	quemarse 
+burn: quemar | arder	quemar	quemarse 
+child: crío | niña	niño 
+child: niño | niña	niño 
+cloud: nube 
+cold: frío 
+come: venir 
+correct: correcto 
+count: contar | contar	número 
+cut: cortar 
+day: dia | día 
+die: morir | morir	muerto 
+dig: cavar | cavar	excavar 
+dirty: sucio 
+dog: perro | can	perro 
+drink: beber | beber	tomar 
+dry: seco 
+dull: desafilado | pesado | desafilado	embotado	romo 
+dull: embotado | pesado | desafilado	embotado	romo 
+dull: romo | pesado | desafilado	embotado	romo 
+dust: polvo 
+ear: oreja | oreja	oído 
+earth: tierra 
+eat: comer 
+egg: huevo 
+eye: ojo 
+fall: caer 
+far: lejos | distante	lejano	lejos 
+father: padre 
+fat (n.): grasa 
+fear: miedo | miedo	temer 
+feather: pluma 
+few: pocos 
+fight: lucha | luchar	pelear 
+fingernail: garra | uña 
+fingernail: uña 
+fire: fuego 
+fish: pescado | pescado	pez 
+fish: pez | pescado	pez 
+five: cinco 
+float: flotar 
+flower: flor 
+flow: flujo | correr	fluir 
+fly (v.): volar 
+fog: niebla | neblina	niebla 
+foot: pie 
+forest: bosque | bosque	floresta	selva 
+four: cuatro 
+freeze: congelar | congelar	helar 
+freeze: helar | congelar	helar 
+fruit: fruta | fruta	fruto 
+full: lleno 
+give: dar 
+good: bueno 
+grass: hierba | hierba	pasto 
+green: verde 
+guts: tripas | entrañas	intestinos	tripas 
+hair: cabello | cabello	pelo 
+hair: pelo | cabello	pelo 
+hand: mano 
+head: cabeza 
+hear: oír 
+heart: corazón 
+heavy: pesado 
+he: él 
+here: aqui | acá	aquí 
+hit: golpear | batir	golpear 
+hit: pegar | batir	golpear 
+horn: cuerno 
+how: como | como	cómo 
+hunt: cazar 
+husband: esposo | esposo	marido 
+husband: marido | esposo	marido 
+ice: hielo 
+if: si 
+in: en | adentro	dentro	en 
+I: yo 
+kill: matar | cazar	matar 
+knee: rodilla | hinojo	rodilla 
+know: conocer | saber 
+know: saber 
+lake: lago 
+laugh: reír 
+leaf: hoja 
+left: izquierda | izquierda	izquierdo 
+leg: pata | pata	pierna 
+leg: pierna | pata	pierna 
+lie: echarse | acostarse	echarse | acostarse	echarse	mentir	tenderse	yacer 
+lie: estar acostado | acostarse	echarse | acostarse	echarse	mentir	tenderse	yacer 
+lie: yacer | acostarse	echarse | acostarse	echarse	mentir	tenderse	yacer 
+liver: hígado 
+live: vivir | vida	vivir	vivo 
+long: largo | largo	luengo 
+louse: piojo 
+man: hombre | hombre	humano	persona 
+man: varón | hombre	humano	persona 
+many: muchos | mucho	muchos 
+meat: carne 
+moon: luna 
+mother: madre 
+mountain: cerro | cerro	loma	montaña	monte 
+mountain: montaña | cerro	loma	montaña	monte 
+mouth: boca 
+name: nombre | nombre	título 
+narrow: estrecho | angosto	estrecho 
+near: cerca | cerca	próximo 
+neck: cuello | cuello	nuca 
+new: nuevo 
+night: noche 
+nose: nariz 
+not: no 
+old: viejo 
+one: uno | un	una	uno 
+other: otro | otra	otro 
+person: gente | hombre	humano	persona 
+person: persona | hombre	humano	persona 
+play: jugar 
+play: representar | jugar 
+play: tocar | jugar 
+push: empujar 
+rain: lluvia 
+red: rojo 
+right: derecha | mano | derecha	derecho 
+river: rio | arroyo	corriente	río 
+river: río | arroyo	corriente	río 
+road: camino | calle	camino	vía 
+road: carretera | calle	camino	vía 
+root: raíz 
+rope: cuerda | cuerda	soga 
+rotten: podrido 
+round: redondo 
+rub: frotar | enjugar	fregar	frotar	restregar 
+salt: sal 
+sand: arena 
+say: decir | arena 
+scratch: rascar | arañar	rascar	raspar 
+sea: mar 
+seed: semilla 
+see: ver 
+sew: coser 
+sharp: afilado | afilado	agudo	aguzado	filoso 
+short: bajo | corto 
+short: breve | corto 
+short: corto 
+sing: cantar 
+sit: estar sentado | sentar	sentarse 
+sit: sentarse | sentar	sentarse 
+skin: piel | cutis	pellejo	piel 
+sky: cielo 
+sky: firmamento | cielo 
+sleep: dormir 
+small: chico | chico	pequeño 
+small: pequeño | chico	pequeño 
+smell: older | oler	olfatear 
+smoke: humo 
+smooth: suave | liso	suave 
+snake: serpiente | colubra	culebra	serpiente	sierpe	sierpente 
+snow: nieve 
+some: algo | algo	alguno	algunos	un poco	unos 
+spit: escupir 
+split: hendir | dividir	hender	partir 
+stab: apuñalar 
+stand: estar de pie | estar	estar de pie	poner de pie	ponerse de pie 
+stand: estar parado | estar	estar de pie	poner de pie	ponerse de pie 
+star: estrella 
+stick: palillo | bastón	palo	rama	vara 
+stick: palo | bastón	palo	rama	vara 
+stone: piedra | piedra	roca 
+straight: derecho | derecho	recto 
+straight: recto | derecho	recto 
+suck: chupar 
+suck: mamar | chupar 
+suck: succionar | chupar 
+sun: sol 
+swell: hincharse | hinchar	hincharse	inflar 
+swim: nadar 
+tail: cola | cola	rabo 
+tail: rabo | cola	rabo 
+that: aquel | aquel	aquél	aquélla	ese	ésa	ése | un	una	uno 
+that: aquella | aquel	aquél	aquélla	ese	ésa	ése | un	una	uno 
+that: aquello | aquel	aquél	aquélla	ese	ésa	ése | un	una	uno 
+that: esa | aquel	aquél	aquélla	ese	ésa	ése | un	una	uno 
+that: ese | aquel	aquél	aquélla	ese	ésa	ése | un	una	uno 
+that: eso | aquel	aquél	aquélla	ese	ésa	ése | un	una	uno 
+there: ahí | ahí	allá	allí 
+there: allí | ahí	allá	allí 
+they: ellas | ellas	ellos 
+they: ellos | ellas	ellos 
+thick: grueso 
+thin: delgado | delgado	fino	flaco 
+thin: fino | delgado	fino	flaco 
+think: creer | pensar 
+think: pensar 
+this: este | este	ésta	éste 
+thou: tú | tú	usted 
+thou: vos | tú	usted 
+three: tres 
+throw: arrojar | arrojar	echar	lanzar	tirar 
+tie: atar | amarrar	atar 
+tongue: lengua 
+tooth: diente 
+tree: árbol 
+turn: girar | dar vuelta	girar	voltear 
+two: dos 
+vomit: devolver | vomitar 
+vomit: vomitar 
+walk: andar | andar	caminar 
+warm: caliente | caliente	cálido	tibio 
+wash: lavar 
+water: agua 
+we: nosotras | nosotras	nosotros 
+we: nosotros | nosotras	nosotros 
+wet: húmedo | mojado 
+wet: mojado 
+what: qué? | que	qué 
+when: cuando | cuando	cuándo 
+when: cuándo | cuando	cuándo 
+where: donde | donde	dónde 
+white: blanco 
+who: quién? | quien	quién	quiénes 
+wide: ancho | amplio	ancho 
+wife: cónyuge | esposa	mujer 
+wife: esposa | esposa	mujer 
+wife: mujer | esposa	mujer 
+wind: viento 
+wing: ala 
+wipe: enjugar | enjugar	limpiar 
+with: con 
+woman: mujer 
+worm: gusano | gusano	lombriz	verme 
+year: año 
+yellow: amarillo 
+you: usted | tú	usted | ustedes	vosotras	vosotros 
+you: ustedes | tú	usted | ustedes	vosotras	vosotros 
+you: vosotros | tú	usted | ustedes	vosotras	vosotros 
+every: cada	cada uno	todo 
+ash: ceniza	cenizas 
+abdomen: barriga	panza	vientre 
+bigness: grande 
+large: grande 
+breasts: pecho	seno 
+claw: garra 
+nail: garra 
+talon: garra 
+come from: venir 
+be dead: morir	muerto 
+dead: morir	muerto 
+ground: tierra 
+land: tierra 
+soil: tierra 
+fly: volar 
+fly v.: volar 
+left hand: mano 
+1 sg.: yo 
+be knowledgeable: saber 
+lie down: acostarse	echarse 
+head louse: piojo 
+male: hombre	varón 
+much: mucho	muchos 
+multiple: mucho	muchos 
+several: mucho	muchos 
+flesh: carne 
+hill: cerro	loma	montaña	monte 
+title: nombre	título 
+nighttime: noche 
+adulterous: un	una	uno 
+single: un	una	uno 
+the: un	una	uno 
+unprincipled: un	una	uno 
+human: hombre	humano	persona 
+human being: hombre	humano	persona 
+rainy weather: lluvia 
+path: calle	camino	vía 
+route: calle	camino	vía 
+hide: cutis	pellejo	piel 
+little: chico	pequeño 
+smallness: chico	pequeño 
+rock: piedra	roca 
+2 sg: tú	usted 
+grind: dos 
+go: andar	caminar 
+hot: caliente	cálido	tibio 
+1 pl. inc.: nosotras	nosotros 
+we₁: nosotras	nosotros 
+whiteness: blanco 
+who?: quien	quién	quiénes 
+female: mujer 
+distant: distante	lejano	lejos 
+serious: pesado 
+close: cerca	próximo 
+ner: cerca	próximo 
+earthworm: gusano	lombriz	verme 
+3 sg.: él 
+she: él 
+2 pl.: ustedes	vosotras	vosotros 
+ye: ustedes	vosotras	vosotros 
+you all: ustedes	vosotras	vosotros 
+3 pl.: ellas	ellos 
+where?: donde	dónde 
+when?: cuando	cuándo 
+how?: como	cómo 
+few: poco 
+broad: amplio	ancho 
+wideness: amplio	ancho 
+fat: grasa 
+principal wife: esposa	mujer 
+his mother: madre 
+my mother: madre 
+his father: padre 
+my father: padre 
+woods: bosque	floresta	selva 
+branch: bastón	palo	rama	vara 
+cord: cuerda	soga 
+grease: grasa 
+arm: mano 
+gut: entrañas	intestinos	tripas 
+insides: entrañas	intestinos	tripas 
+intestine: entrañas	intestinos	tripas 
+intestines: entrañas	intestinos	tripas 
+breath: aliento	respirar 
+laughter: reír 
+cogitate: pensar 
+reflect: pensar 
+sniff: oler	olfatear 
+afraid: miedo	temer 
+be afraid: miedo	temer 
+fright: miedo	temer 
+alive: vida	vivir	vivo 
+be alive: vida	vivir	vivo 
+life: vida	vivir	vivo 
+living: vida	vivir	vivo 
+beat: batir	golpear 
+strike: batir	golpear 
+hack: cortar 
+cut open: dividir	hender	partir 
+pierce: apuñalar 
+tell lies: acostarse	echarse	mentir	tenderse	yacer 
+turn around: dar vuelta	girar	voltear 
+turn round: dar vuelta	girar	voltear 
+drop: caer 
+grasp: apoyar	asir	sostener	tener 
+hold: apoyar	asir	sostener	tener 
+hold in arm: apoyar	asir	sostener	tener 
+squeeze: apretar	comprimir	estrujar	exprimir 
+wring: apretar	comprimir	estrujar	exprimir 
+wash clothes: lavar 
+pull: tirar 
+shove: empujar 
+bind: amarrar	atar 
+fasten: amarrar	atar 
+tie up: amarrar	atar 
+enumerate: contar	número 
+number: contar	número 
+tally: contar	número 
+have fun: jugar 
+brook: arroyo	corriente	río 
+stream: arroyo	corriente	río 
+ocean: mar 
+blaze: arder	quemar	quemarse 
+daylight: día 
+daytime: día 
+evil: mal	malo 
+rot: podrido 
+filthy: sucio 
+soiled: sucio 
+blunt: desafilado	embotado	romo 
+damp: mojado 
+right side: derecha	derecho 
+inside: adentro	dentro	en 

@@ -1,0 +1,335 @@
+all: toàn bộ	tất cả 
+every: toàn bộ	tất cả 
+ash: Co	tro 
+ashes: Co	tro 
+bark: vo kay	vỏ 
+abdomen: bụng 
+belly: bụng 
+big: bự	lon	lớn	to	to lớn 
+bigness: bự	lon	lớn	to	to lớn 
+large: bự	lon	lớn	to	to lớn 
+bird: chim	tim 
+bite: cắn 
+black: den	đen 
+blood: mau	máu 
+bone: SuoN	xương 
+breast: NuT	Nuk	ngực	vú 
+breasts: NuT	Nuk	ngực	vú 
+claw: moN	vuốt 
+nail: moN	vuốt 
+talon: moN	vuốt 
+cloud: maj	mây 
+cold: la5	lạnh 
+come: den	lai	lại	đến 
+come from: den	lai	lại	đến 
+be dead: Thet	chết	tet 
+dead: Thet	chết	tet 
+die: Thet	chết	tet 
+dog: Th~o	chó	to 
+drink: uoN	uống 
+dry: khô	kx~o 
+ear: tai 
+earth: dat	đất 
+ground: dat	đất 
+land: dat	đất 
+soil: dat	đất 
+eat: an	ăn 
+egg: CuN	trứng 
+eye: mat	mắt 
+feather: loN tim	lông	lông chim 
+fire: lua	lửa 
+fish: Ta	cá	ka 
+fly: bay 
+fly v.: bay 
+foot: bàn chân	tan 
+full: day	đầy 
+give: cho	to	tặng 
+good: giỏi	hay	ngon	tot	tốt 
+green: lục	xanh lá cây 
+hair: tok	tóc 
+hand: tay 
+left hand: tay 
+right: tay 
+head: dau	đầu 
+hear: Nhe	nghe 
+heart: Cai tim	tim	trái tim 
+horn: suN	sừng 
+1 sg.: tao	toi	tôi 
+I: tao	toi	tôi 
+kill: giet	giết 
+knee: dau goi	đầu gối 
+be knowledgeable: biet	biết 
+know: biet	biết 
+leaf: la	lá 
+lie: Nu	nam	nằm 
+lie down: Nu	nam	nằm 
+liver: %gan	gan 
+long: Zai	dài 
+head louse: Th~ay	chấy	rận	ti 
+louse: Th~ay	chấy	rận	ti 
+male: trai	đàn ông 
+man: Nuoi	nguoi	người 
+many: 5ieu	nhiều 
+much: 5ieu	nhiều 
+multiple: 5ieu	nhiều 
+several: 5ieu	nhiều 
+flesh: 8it	thịt 
+meat: 8it	thịt 
+moon: CaN	mặt trăng	trăng 
+hill: doi	nui	núi	đồi 
+mountain: doi	nui	núi	đồi 
+mouth: mieN	miệng	mồm 
+name: ten	tên 
+title: ten	tên 
+neck: cổ	ko 
+new: moi	mới 
+night: ban đêm	dem	tối	đêm 
+nighttime: ban đêm	dem	tối	đêm 
+nose: mui	mũi 
+not: không	kx~oN 
+adulterous: mot	một	mộ̣t	nhất 
+one: mot	một	mộ̣t	nhất 
+single: mot	một	mộ̣t	nhất 
+that: cái ấy	việc ấy	đó 
+the: mot	một	mộ̣t	nhất 
+unprincipled: mot	một	mộ̣t	nhất 
+human: Nuoi	nguoi	người 
+human being: Nuoi	nguoi	người 
+person: Nuoi	nguoi	người 
+rain: mua	mưa 
+rainy weather: mua	mưa 
+red: do	đỏ 
+path: duoN	duoN nho	đường 
+road: duoN	duoN nho	đường 
+route: duoN	duoN nho	đường 
+root: re	rễ 
+round: tròn 
+sand: cát 
+say: nói	raN 
+see: %8ay	%th~ay	nhìn	thấy	trông 
+seed: hot	hạt 
+sit: Noi	ngồi 
+hide: Za	da 
+skin: Za	da 
+sleep: ngủ 
+little: 5o	bé	nhỏ 
+small: 5o	bé	nhỏ 
+smallness: 5o	bé	nhỏ 
+smoke: khói	kx~oi 
+stand: duN Zay 
+star: %sao	Noi sao	ngôi sao	sao 
+rock: da	đá 
+stone: da	đá 
+sun: mat Coi	mat troi	mặt trời 
+swim: bơi	lội 
+tail: Zuoi	đuôi	đuổi 
+this: cái này	này	việc này 
+2 sg: anh	may	mày	ti	ông * 
+thou: anh	may	mày	ti	ông * 
+you: anh	may	mày	ti	ông * 
+tongue: luoi	lưỡi 
+tooth: raN	răng 
+tree: Tay	cây	kay 
+grind: hai	lưỡng	nhi	nhì	nhị 
+two: hai	lưỡng	nhi	nhì	nhị 
+go: bước	di	đi	đi bộ 
+walk: bước	di	đi	đi bộ 
+hot: nóng	ấm 
+warm: nóng	ấm 
+water: nuoT	nuok	nước 
+1 pl. inc.: chúng ta	chúng tôi	mi5	ta 
+we: chúng ta	chúng tôi	mi5	ta 
+we₁: chúng ta	chúng tôi	mi5	ta 
+what: cái chi	gì	kai gi 
+white: CaN	trắng 
+whiteness: CaN	trắng 
+who: ai 
+who?: ai 
+female: phụ nữ	đàn bà 
+woman: phụ nữ	đàn bà 
+yellow: vaN	vàng 
+distant: xa 
+far: xa 
+dull: nặng 
+heavy: nặng 
+serious: nặng 
+close: gần 
+near: gần 
+ner: gần 
+salt: muối 
+short: ngắn 
+snake: rắn 
+thin: mỏng 
+wind: gió	gío 
+earthworm: giun	giòi	sâu	trùng 
+worm: giun	giòi	sâu	trùng 
+year: năm 
+3 sg.: anh ấy	hắn	ông ấy * 
+he: anh ấy	hắn	ông ấy * 
+she: anh ấy	hắn	ông ấy * 
+2 pl.: các anh	các mày	các ông * 
+ye: các anh	các mày	các ông * 
+you all: các anh	các mày	các ông * 
+3 pl.: chúng	các anh ấy	các ông ấy *	họ 
+they: chúng	các anh ấy	các ông ấy *	họ 
+here: đây 
+there: kia	đó 
+where: đâu	ở̛ đâu 
+where?: đâu	ở̛ đâu 
+when: khi nào 
+when?: khi nào 
+how: sao 
+how?: sao 
+some: mấy	một vài 
+few: ít 
+other: khác 
+three: ba	tam	tham 
+four: bốn	tứ 
+five: ngũ	năm 
+broad: rộng 
+wide: rộng 
+wideness: rộng 
+fat: mỡ 
+thick: dày 
+narrow: chặt	hẹp 
+child: con 
+principal wife: vợ 
+wife: vợ 
+husband: chồng 
+his mother: mẹ 
+mother: mẹ 
+my mother: mẹ 
+father: bố	cha 
+his father: bố	cha 
+my father: bố	cha 
+animal: thú	động mật 
+forest: rừng 
+woods: rừng 
+branch: cành	cây	gậy	gổ 
+stick: cành	cây	gậy	gổ 
+fruit: quả	trái 
+flower: bông	hoa 
+grass: cỏ 
+cord: dây 
+rope: dây 
+grease: mỡ 
+fingernail: móng	móng tay 
+leg: chân	cẳng chân 
+arm: bàn tay 
+wing: cánh 
+gut: lòng	ruột 
+guts: lòng	ruột 
+insides: lòng	ruột 
+intestine: lòng	ruột 
+intestines: lòng	ruột 
+back: lưng 
+suck: bú	hút	mút 
+spit: khạc	nhổ 
+vomit: mửa	nôn mửa	thổ	ối 
+blow: thổi 
+breath: hô hấp	thở 
+breathe: hô hấp	thở 
+laugh: cười 
+laughter: cười 
+cogitate: nghĩ	suy nghĩ 
+reflect: nghĩ	suy nghĩ 
+think: nghĩ	suy nghĩ 
+smell: ngửi 
+sniff: ngửi 
+afraid: sợ	sự sợ 
+be afraid: sợ	sự sợ 
+fear: sợ	sự sợ 
+fright: sợ	sự sợ 
+alive: sống 
+be alive: sống 
+life: sống 
+live: sống 
+living: sống 
+fight: chiến đấu 
+hunt: săn 
+beat: đánh 
+hit: đánh 
+strike: đánh 
+cut: cắt 
+hack: cắt 
+cut open: chẻ 
+split: chẻ 
+pierce: đâm	đâm dao găm 
+stab: đâm	đâm dao găm 
+scratch: cào	cạo	gãi 
+dig: đào 
+tell lies: nói dối	nằm ra 
+turn: quay	quay vòng 
+turn around: quay	quay vòng 
+turn round: quay	quay vòng 
+drop: ngã	rơi 
+fall: ngã	rơi 
+grasp: cầm 
+hold: cầm 
+hold in arm: cầm 
+squeeze: nắm chặt	siết chặt	ép 
+wring: nắm chặt	siết chặt	ép 
+rub: chà	chà xát	cọ xát	xát 
+wipe: chùi	lau 
+wash: giặt	rửa 
+wash clothes: giặt	rửa 
+pull: kéo 
+push: xô	đẩy 
+shove: xô	đẩy 
+throw: chọi	ném	vứt 
+bind: buộc	bó	trói 
+fasten: buộc	bó	trói 
+tie: buộc	bó	trói 
+tie up: buộc	bó	trói 
+sew: khâu	may 
+count: đếm 
+enumerate: đếm 
+number: đếm 
+tally: đếm 
+sing: hát 
+have fun: chơi 
+play: chơi 
+float: nổi 
+flow: chảy 
+freeze: đóng băng	đông lại 
+swell: sưng lên 
+brook: sông 
+river: sông 
+stream: sông 
+lake: hồ 
+ocean: biển 
+sea: biển 
+dust: bụi 
+fog: sương mù 
+sky: trời 
+snow: tuyết 
+ice: băng	nước đá	đá 
+blaze: cháy	tay 
+burn: cháy	tay 
+day: ban ngày 
+daylight: ban ngày 
+daytime: ban ngày 
+old: cũ	cổ 
+bad: dở	kém	tồi	xấu 
+evil: dở	kém	tồi	xấu 
+rot: mục	mủn	thối	ủng 
+rotten: mục	mủn	thối	ủng 
+dirty: bẩn	dơ 
+filthy: bẩn	dơ 
+soiled: bẩn	dơ 
+straight: thẳng 
+sharp: bén	sắc 
+blunt: cùn	mòn 
+smooth: nhẵn 
+damp: ướt 
+wet: ướt 
+correct: đúng 
+right side: phải 
+left: trái 
+at: tại	ở 
+in: trong 
+inside: trong 
+with: với 
+and: và 
+if: nếu 
+because: bởi vì	tại	vì 

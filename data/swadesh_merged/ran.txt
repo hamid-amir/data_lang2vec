@@ -1,0 +1,466 @@
+all: tar{ | dɑdɑβə	tarö	tarœ 
+all: tarö | dɑdɑβə	tarö	tarœ 
+ankle: mavoč{ 
+arm: taːvat 
+arrow: kida 
+ashes: tinana | tinana	tiː 
+back: dintu | diro	divo 
+back: diro | diro	divo 
+back: divo | diro	divo 
+bad: dodo | dodo	rʍɑkəčəbə 
+bark: kwika | kwika	kʷikɛ	ⁿduakʷikɛ 
+belly: divo 
+big: ante | andä	ante	antɛ 
+big: antɛ | andä	ante	antɛ 
+big: kwamoti | andä	ante	antɛ 
+bird: ne | ne	nɛy 
+bite: turaneva | turaneva	turɑnibä 
+bitter: čačati 
+bitter: tjatjati 
+black: rudatari | rudatari	ruː 
+blood: yerana | yerana	yəː 
+bone: nduka | nduka	ⁿdukɑ 
+boy: mɛːŋarati 
+branch: d{ka | döka	dœka 
+branch: döka | döka	dœka 
+breast: mu | mu	muː 
+breast: mu kwa | mu	muː 
+breathe: d{d{mba | dœdœmba 
+brother: ndaka 
+burn: buye | buye	rɑwərɑwə 
+burn: drawar | buye	rɑwərɑwə 
+butterfly: ku 
+calf: mokovea 
+calf: ter{ 
+calf: terö 
+cheek: čamatat 
+cheek: tjamata 
+chest: dač{ 
+chest: datjö 
+child: aghavö | aka	aɣavö	dataβə 
+child: aka | aka	aɣavö	dataβə 
+chin: kamada 
+cold: r{mada | romata	rœmada	rːəmɑdɑ 
+cold: romata | romata	rœmada	rːəmɑdɑ 
+come: eda | eda	idi 
+correct: mburi 
+crocodile: kaba 
+cut: mb{rar{ | mbœrarœ 
+dark: ver{mb{ 
+dark: verömbö 
+daughter: noa 
+day: röti | rœti 
+day: r{ti | rœti 
+die: doak{mbo | doakmbo	doakömbo	doakœmbo	dʷɑkumbə 
+die: doakömbo | doakmbo	doakömbo	doakœmbo	dʷɑkumbə 
+die: ria doak{mbo | doakmbo	doakömbo	doakœmbo	dʷɑkumbə 
+dig: teroba | teroba	təruβɑ	tɛroba 
+dig: tɛroba | teroba	təruβɑ	tɛroba 
+dog: nia | nia	niya 
+drink: r{ mora | r mora	rö-mora	rœ mora	rəmərɑ 
+drink: rö-mora | r mora	rö-mora	rœ mora	rəmərɑ 
+dry: töpanyan | töpaɲan	tœpanyɛn	təpɑ 
+dry: t{panyɛn | töpaɲan	tœpanyɛn	təpɑ 
+ear: ruake | ruaka	ruake	ruakɛ	ruwakɛ 
+ear: ruakɛ | ruaka	ruake	ruakɛ	ruwakɛ 
+earth: pitatat | römbi	rœmbœ 
+earth: potatat | römbi	rœmbœ 
+earth: r{mb{ | römbi	rœmbœ 
+earth: römbi | römbi	rœmbœ 
+eat: mora | mora	mʷərɑ 
+egg: win{mba(na) | weynəmβə	winombana	winœmba	winœmbana 
+egg: winombana | weynəmβə	winombana	winœmba	winœmbana 
+elbow: tud{ 
+elbow: tudö 
+emu: awi 
+excrement: dika 
+eye: akwika | anmb	anömbö	anœmbœ	anəmbə 
+eye: an{mb{ | anmb	anömbö	anœmbœ	anəmbə 
+eye: anömbö | anmb	anömbö	anœmbœ	anəmbə 
+face: ač{ 
+face: atyö 
+far: veta | veta	vɛta	wätɑ 
+far: vɛta | veta	vɛta	wätɑ 
+father: nč{ka | mukatariya	ncöka	nčœka 
+father: ntjöka | mukatariya	ncöka	nčœka 
+fat (n.): dowadana 
+feather: nekera 
+finger: kaːd{mb 
+fingernail: wembɛːč{ | wembɛːčœ	wämbačə 
+finger: taː n{mbo 
+finger: ta-nömbo 
+finger: tive taːn{mbo 
+fire: dr{ | dr	drö	drœ	drːə 
+fire: drö | dr	drö	drœ	drːə 
+fish: dia | dia	dⁱa 
+five: mata 
+flower: indja | indǯa	inǯa 
+flower: inǯa | indǯa	inǯa 
+fly (n.): ebung 
+fly (n.): ebuŋ 
+fly (v.): nomba 
+foot: kaːv{ | teː	té 
+foot: kawačöpɛːt | teː	té 
+foot: teː | teː	té 
+foot: té | teː	té 
+forehead: ti 
+forest: nduamo | mə	nduamo 
+four: wɛːnd{ | wendö	wändə	wɛːndœ 
+four: wendö | wendö	wändə	wɛːndœ 
+fruit: nduakwa 
+full: komyɛti | komyati	komyɛti 
+girl: mɛːme 
+give: i: | iː	yə 
+give: iː | iː	yə 
+good: mburi | dɑwɛmɑ	mburi 
+guts: rusakaka 
+hair: rurana | rutiro	rutivœ	rutiβə 
+hair: rutiro | rutiro	rutivœ	rutiβə 
+hair: rutiv{ | rutiro	rutivœ	rutiβə 
+hand: tarat (?tavat) | tarat	tavat	taːvat 
+hand: taːvat | tarat	tavat	taːvat 
+head: modo | modo	modə 
+hear: roabar | roabar	rʷɑβərə 
+heart: čan{mb{ | carömbö	čanœmbœ 
+heart: tjarömbö | carömbö	čanœmbœ 
+heavy: yɛr{ | yerö	yɛrœ 
+heavy: yerö | yerö	yɛrœ 
+heel: kavö 
+here: ati | enəkɛ 
+he/she: ntö 
+he/she: y{ 
+he/she: yö/enta 
+hit: awvura | awvura	owvura	uβʷərɑ 
+hit: owvura | awvura	owvura	uβʷərɑ 
+hold: amban{na | mbɑnənɛy 
+house: töramö 
+house: t{raːm{ 
+husband: mi | mi	namʷi 
+I: na | na	ne 
+I: na/ne | na	ne 
+kangaroo: no 
+kill: an{na | anöna	anœna	ɑnənɑ 
+kill: anöna | anöna	anœna	ɑnənɑ 
+knee: č{ | C	cö	ču	čœ 
+knee: tjö | C	cö	ču	čœ 
+know: kaːkɛ | kaːkɛ	nake	nɑkɛ 
+know: nake | kaːkɛ	nake	nɑkɛ 
+laugh: titi | titi	tiː 
+leaf: kebed{mbo | kebedmbo	kebedombo	kebedœmbo	kɛdədɨmbə 
+leaf: kebedombo | kebedmbo	kebedombo	kebedœmbo	kɛdədɨmbə 
+leg: nduka (?) | nduka	tɛː	tɛːi 
+leg: tɛː | nduka	tɛː	tɛːi 
+lie: minandiwa | roakawar 
+lie: minaːndiwa | minandiwa | roakawar 
+lightning: wandjo 
+lightning: wanǯ{ 
+lip: čat{ 
+lip: tjati 
+live: d{n{na | dönöna	dœnœna 
+live: dönöna | dönöna	dœnœna 
+liver: yövava | paːtə	yvava	yövava	yœvava 
+liver: y{vava | paːtə	yvava	yövava	yœvava 
+long: pivo | pivo	pʷiwɑ 
+louse: nöme | nema 
+louse: nömɛ | nema 
+man: rianoana | ria	riya 
+man: riá-noana | ria	riya 
+many: tar{ | tarö	tarœ	tarə 
+many: tarö | tarö	tarœ	tarə 
+meat: mɛːrat{ | mɛːratœ	mʷɛirɑ | merato 
+meat: merato | mɛːratœ	mʷɛirɑ 
+moon: manta | manta	mɑndɑ 
+morning: v{r{nambɛra 
+mosquito: tuː 
+mother: maka | maka	mukanɛwa 
+mountain: karkača | karkaCa	karkaca	karkača 
+mountain: karkatja | karkaCa	karkaca	karkača 
+mouth: dota | dota	motə 
+mouth: ni | dota	motə 
+name: ria | naː	ria 
+nape: mwaka 
+navel: mbeč{ 
+navel: mbetjö 
+near: kaːk{mba | kakömba	kaːkœmba	kɑkumbɑ 
+near: kakömba | kakömba	kaːkœmba	kɑkumbɑ 
+neck: kwak{ | kwakö	kwakœ 
+neck: kwakö | kwakö	kwakœ 
+new: noana | noana	rədɑ	rːdɑ 
+night: ver{mb{ | vermb	verömbö	verœmbœ	wərəmbə 
+night: verömbö | vermb	verömbö	verœmbœ	wərəmbə 
+nose: butö | budəmbə	butö	butœ 
+nose: but{ to | budəmbə	butö	butœ 
+old: ewa 
+old: tana 
+old: tarea 
+old: taria 
+old: teta 
+one: mɛːb{ | mab	mebö	mäβə	mɛːbœ 
+one: mebö | mab	mebö	mäβə	mɛːbœ 
+person: ria | ria	riya 
+pull: nantar{ra 
+rain: mi | mi	mʷɛy 
+rat: kwörö 
+rat: kwov{ 
+rat: poar 
+red: weča | weca	weča	yug 
+red: wetja | weca	weča	yug 
+ripe: padjena 
+ripe: poǯɛna 
+river: to | to	tö	təː 
+river: tö | to	tö	təː 
+road: kabat{bot | kabatbot 
+root: kwaran{mba | kwara-nömba	kwaranœmba	kʷərə 
+root: kwara-nömba | kwara-nömba	kwaranœmba	kʷərə 
+rope: naː | naː	nã	nɑː 
+rope: nã | naː	nã	nɑː 
+sand: r{či | röci	rœči	rː 
+sand: rötji | röci	rœči	rː 
+say: eta | eta	ɛta | röci	rœči	rː 
+say: ɛta | eta	ɛta | röci	rœči	rː 
+say: tr{atr{a | eta	ɛta | röci	rœči	rː 
+say: tröa-tröa | eta	ɛta | röci	rœči	rː 
+see: aːvo | avo	avu	aːvo	aβʷə 
+see: avu | avo	avu	aːvo	aβʷə 
+sew: er{ra 
+sharp: turivuta | turivuta	tuː 
+short: mb{ka | mböka	mbœka	mbʷərəkɑ 
+short: mböka | mböka	mbœka	mbʷərəkɑ 
+shoulder: awa 
+sing: waːč{p{ | wacöpö	waːčœpœ 
+sing: watjöpö | wacöpö	waːčœpœ 
+sister: ndaka 
+sit: nend{nd{rɛ | nendöndöre	nendœndœrɛ	nindrɑ 
+sit: nendöndöre | nendöndöre	nendœndœrɛ	nindrɑ 
+skin: kwiba | kwiba	kwika	kwikɛ	kw~ika 
+skin: kwika | kwiba	kwika	kwikɛ	kw~ika 
+sky: mendjowya | kʊmbətɑtə	mendǯowya	nanǯowya 
+sky: nanǯowya | kʊmbətɑtə	mendǯowya	nanǯowya 
+sleep: minaːndiwa | minaːndiwa	wⁱɛtrɑ 
+small: kwöryabo | kwöryabo	kwœryabo	kʷəriyɑβə 
+small: kw{ryabo | kwöryabo	kwœryabo	kʷəriyɑβə 
+smell: du 
+smoke: did{kw{ | didökwö	didœkwœ	didəkʷə 
+smoke: didökwö | didökwö	didœkwœ	didəkʷə 
+smooth: ndomandiwa 
+snake: ka | ka	kaː 
+son: noa 
+son: nönadövabi 
+sour: cacati 
+sour: čačati 
+spit: čača | yœ tœ 
+spit: yörana | yœ tœ 
+spit: y{rana | yœ tœ 
+stand: dinian{na | dinianoma	dinianœna	dinɑndⁱɑnɑ 
+stand: dinianoma | dinianoma	dinianœna	dinɑndⁱɑnɑ 
+stand: nesöbö | dinianoma	dinianœna	dinɑndⁱɑnɑ 
+star: noːč{ | noC	noco	noːčœ	nɑwəčə 
+star: notjo | noC	noco	noːčœ	nɑwəčə 
+stone: mɛt{ | mat	metö	məčə	mɛtœ 
+stone: metö | mat	metö	məčə	mɛtœ 
+straight: t{mb{ra | tœmbœra 
+suck: tamkum{ra | tamkumœra 
+sun: menongwa | manoNwa	menoŋwa	mɛywɑntŋgʷɑ	mɛːnoŋwa 
+sun: mɛːnoŋwa | manoNwa	menoŋwa	mɛywɑntŋgʷɑ	mɛːnoŋwa 
+sweet: tjitjö-petjeri 
+swim: tatab{ | tatabö	tatabœ	tɑtɑbi 
+swim: tatabö | tatabö	tatabœ	tɑtɑbi 
+tail: čamb{ | cambö	čambœ	čambə 
+tail: tjambö | cambö	čambœ	čambə 
+take: mdivö 
+take: ndivo 
+take: omba 
+take: ombayofarat{n 
+they: ya~kwo | yakwo	yakʷə	yàkwo 
+they: yakwötö | yakwo	yakʷə	yàkwo 
+they: yakwo/yawko...? | yakwo	yakʷə	yàkwo 
+thick: ad{č{bɛda | adöcöbeda	adœčœbɛda 
+thick: adötjöbeda | adöcöbeda	adœčœbɛda 
+thigh: verimo 
+thigh: vermo 
+think: roakado 
+thin: merevi | merevi	merɛvi	tatadivat	tatavidat 
+thin: merɛvi | merevi	merɛvi	tatadivat	tatavidat 
+thin: tatadivat | merevi	merɛvi	tatadivat	tatavidat 
+thin: tatavidat | merevi	merɛvi	tatadivat	tatavidat 
+thorn: kwontana 
+thou: nč{ | Ng	nC	ŋge	ŋgœ	ŋgə 
+thou: ŋg{ | Ng	nC	ŋge	ŋgœ	ŋgə 
+thou: ngga | Ng	nC	ŋge	ŋgœ	ŋgə 
+thou: nggö/ngge | Ng	nC	ŋge	ŋgœ	ŋgə 
+three: pɛnd{ | pendö	pəndə	pɛndœ 
+three: pendö | pendö	pəndə	pɛndœ 
+throw: nar{ma | narœma 
+thunder: č{d{ 
+tie: mia | mia	miː 
+tomorrow: pɛːnd{ 
+tongue: mavödembo | mavödembo	mevdombo	mevœdombo	mäβəčə 
+tongue: mev{dombo | mavödembo	mevdombo	mevœdombo	mäβəčə 
+tooth: tud{mbo | tudmbo	tudömbo	tudœmbo	tudəmbana 
+tooth: tudömbo | tudmbo	tudömbo	tudœmbo	tudəmbana 
+tree: ndua 
+two: enava | enava	inɑβɑ 
+unripe: y{rara 
+vagina: to 
+vagina: tö 
+vomit: mor{-mor{ | morö-morö	morœ-morœ 
+walk: adad | adad	kɑwənerɑ 
+warm: drowač{ | drowacö	drowačœ 
+warm: drowatjö | drowacö	drowačœ 
+wash: mbari | mbari	čičəmbɑːri 
+wash: rira | mbari	čičəmbɑːri 
+water: r{ | r	rœ	rə 
+weep: niːr{ 
+weep: nirö 
+weep: ni{v{r{ 
+we: ni 
+we: ni/nie 
+wet: mɛč{ | mecö	mɛčœ	rəβɑβənɑ 
+wet: metjö | mecö	mɛčœ	rəβɑβənɑ 
+white: weča | kɑrəwi	weca	weča 
+white: wetja | kɑrəwi	weca	weča 
+wife: ndoavo | nandʷaβə	ndoavo	ndoaːvo 
+wife: ndoaːvo | nandʷaβə	ndoavo	ndoaːvo 
+wind: noambo | noambo	nʷɑmbə 
+wing: ava | ava	aβʷačə 
+woman: duavo | duavo	dʷaβə 
+wood: č{tana 
+wood: ndua 
+yesterday: n{n{ 
+yesterday: nönö 
+you: ntjö | Ng	nC	ŋge	ŋgœ	ŋgə | ncö	nčœ	ⁿǯʷə 
+you: ntjö/ntje | Ng	nC	ŋge	ŋgœ	ŋgə | ncö	nčœ	ⁿǯʷə 
+every: dɑdɑβə	tarö	tarœ 
+ash: tinana	tiː 
+abdomen: divo 
+bigness: andä	ante	antɛ 
+large: andä	ante	antɛ 
+breasts: mu	muː 
+cloud: ɑwədɛdə 
+come from: eda	idi 
+be dead: doakmbo	doakömbo	doakœmbo	dʷɑkumbə 
+dead: doakmbo	doakömbo	doakœmbo	dʷɑkumbə 
+ground: römbi	rœmbœ 
+land: römbi	rœmbœ 
+soil: römbi	rœmbœ 
+fly: nomba	numbɑ 
+fly v.: nomba	numbɑ 
+left hand: tarat	tavat	taːvat 
+right: tarat	tavat	taːvat 
+1 sg.: na	ne 
+be knowledgeable: kaːkɛ	nake	nɑkɛ 
+lie down: minandiwa 
+head louse: nema 
+male: rianoana	riyanwana	riá-noana 
+much: tarö	tarœ	tarə 
+multiple: tarö	tarœ	tarə 
+several: tarö	tarœ	tarə 
+flesh: mɛːratœ	mʷɛirɑ 
+hill: karkaCa	karkaca	karkača 
+title: naː	ria 
+nighttime: vermb	verömbö	verœmbœ	wərəmbə 
+not: mɑwə 
+adulterous: mab	mebö	mäβə	mɛːbœ 
+single: mab	mebö	mäβə	mɛːbœ 
+that: ɛnimou 
+the: mab	mebö	mäβə	mɛːbœ 
+unprincipled: mab	mebö	mäβə	mɛːbœ 
+human: ria	riya 
+human being: ria	riya 
+rainy weather: mi	mʷɛy 
+path: kabatbot 
+route: kabatbot 
+seed: kwa 
+hide: kwiba	kwika	kwikɛ	kw~ika 
+little: kwöryabo	kwœryabo	kʷəriyɑβə 
+smallness: kwöryabo	kwœryabo	kʷəriyɑβə 
+rock: mat	metö	məčə	mɛtœ 
+this: ɛnɑmɑ 
+2 sg: Ng	nC	ŋge	ŋgœ	ŋgə 
+grind: enava	inɑβɑ 
+go: adad	kɑwənerɑ 
+hot: drowacö	drowačœ 
+1 pl. inc.: ni 
+we₁: ni 
+what: ɑduwɑ 
+whiteness: kɑrəwi	weca	weča 
+who: nɑnɑ 
+who?: nɑnɑ 
+female: duavo	dʷaβə 
+yellow: wɑmɑ 
+distant: veta	vɛta	wätɑ 
+dull: yerö	yɛrœ 
+serious: yerö	yɛrœ 
+close: kakömba	kaːkœmba	kɑkumbɑ 
+ner: kakömba	kaːkœmba	kɑkumbɑ 
+salt: kawərə 
+earthworm: rʷakəčambə 
+worm: rʷakəčambə 
+3 sg.: yö 
+he: yö 
+she: yö 
+2 pl.: ncö	nčœ	ⁿǯʷə 
+ye: ncö	nčœ	ⁿǯʷə 
+you all: ncö	nčœ	ⁿǯʷə 
+3 pl.: yakwo	yakʷə	yàkwo 
+there: yɑkɛ 
+where: ⁿdɑkɛnɑ	ⁿdɛnɑ 
+where?: ⁿdɑkɛnɑ	ⁿdɛnɑ 
+when: ⁿdɑrwɑ 
+when?: ⁿdɑrwɑ 
+broad: vereveri 
+wide: vereveri 
+wideness: vereveri 
+fat: adöcöbeda	adœčœbɛda 
+principal wife: nandʷaβə	ndoavo	ndoaːvo 
+his mother: maka	mukanɛwa 
+my mother: maka	mukanɛwa 
+his father: mukatariya	ncöka	nčœka 
+my father: mukatariya	ncöka	nčœka 
+woods: mə	nduamo 
+stick: döka	dœka 
+cord: naː	nã	nɑː 
+claw: wembɛːčœ	wämbačə 
+nail: wembɛːčœ	wämbačə 
+gut: rusakaka 
+insides: rusakaka 
+intestine: rusakaka 
+intestines: rusakaka 
+blow: pɛy 
+breath: dœdœmba 
+laughter: titi	tiː 
+cogitate: roakado 
+reflect: roakado 
+sniff: du 
+alive: dönöna	dœnœna 
+be alive: dönöna	dœnœna 
+life: dönöna	dœnœna 
+living: dönöna	dœnœna 
+beat: awvura	owvura	uβʷərɑ 
+strike: awvura	owvura	uβʷərɑ 
+hack: mbœrarœ 
+cut open: ⁿdudəkɑwɑ 
+split: ⁿdudəkɑwɑ 
+pierce: mindrɑ 
+stab: mindrɑ 
+scratch: čɑčɑ 
+tell lies: roakawar 
+drop: pʷətⁱɑrə 
+fall: pʷətⁱɑrə 
+grasp: mbɑnənɛy 
+hold in arm: mbɑnənɛy 
+wash clothes: mbari	čičəmbɑːri 
+bind: mia	miː 
+fasten: mia	miː 
+tie up: mia	miː 
+brook: to	tö	təː 
+stream: to	tö	təː 
+lake: təː 
+blaze: buye	rɑwərɑwə 
+daylight: rœti 
+daytime: rœti 
+evil: dodo	rʍɑkəčəbə 
+blunt: tu virœntœ	tuβərəndə 
+damp: mecö	mɛčœ	rəβɑβənɑ 
+right side: tä 
+left: mbɑbɑ 

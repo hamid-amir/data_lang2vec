@@ -1,0 +1,132 @@
+all: madagoa	sasaan	ymmut 
+every: madagoa	sasaan	ymmut 
+ash: avo 
+ashes: avo 
+abdomen: vauyl	vouil 
+belly: vauyl	vouil 
+big: isang	maizang 
+bigness: isang	maizang 
+large: isang	maizang 
+bird: aiam	ajajam	ayam 
+black: maoudim	æudim 
+blood: amax	gama	gamach	àmagh 
+bone: toural	tural 
+breast: oho 
+breasts: oho 
+burn: magiskag	marabong 
+burn tr.: magiskag	marabong 
+cloud: pourarey	rabu	vullum 
+cold: maharmil	mahaumung 
+come: mapil	mapunakuli	mouqua 
+come from: mapil	mapunakuli	mouqua 
+be dead: kapatei	mapatey 
+dead: kapatei	mapatey 
+die: kapatei	mapatey 
+dog: assou	asu 
+drink: miit	mit	mudadaraN	mudadarang 
+dry: maskag 
+ear: taNela	taNira	tangela	tangira 
+eat: input	kmang	mavock 
+egg: popak	popgag 
+eye: mata	matta 
+feather: ilil	ribing 
+fire: apoy	apui 
+fish: dhyng	tgiN	tging	thing	thung	tug 
+good: magani	maganig	mariang 
+green: madossiang 
+hair: bukaun	vaukugh	voukig 
+hand: dadukam	rima 
+left hand: dadukam	rima 
+right: dadukam	rima 
+head: bungu	uho	vaungo	vongo 
+hear: gmiliNig	gmilingig	pouramang	puramaN 
+1 sg.: ya-u	yao 
+I: ya-u	yao 
+kill: papakey 
+be knowledgeable: mouvana 
+know: mouvana 
+leaf: haba	hapa 
+lie: magoutoucong	mariku 
+lie down: magoutoucong	mariku 
+liver: dapliN	dapling	mauwach	mauwax 
+long: mahadat	mahangdag 
+head louse: couto	kuto 
+louse: couto	kuto 
+male: amama	cagoulong	kaxuloung 
+man: sidaia	ta7u	taʼu 
+moon: buran	vaural	vourel 
+mouth: motaus	moutous	mulut 
+name: nanana 
+title: nanana 
+neck: kuduak	lalo	ruch	taang 
+new: vahEu	vaho	vahæu 
+night: auvan	vi5anaN	vignanang	àuvan 
+nighttime: auvan	vi5anaN	vignanang	àuvan 
+nose: goNos	gogos	gongos	gungus	togunut 
+adulterous: saat	sasaab	sasat	sat 
+one: saat	sasaab	sasat	sat 
+single: saat	sasaab	sasat	sat 
+that: ana 
+the: saat	sasaab	sasat	sat 
+unprincipled: saat	sasaab	sasat	sat 
+human: sidaia	ta7u	taʼu 
+human being: sidaia	ta7u	taʼu 
+person: sidaia	ta7u	taʼu 
+rain: audal	oudal	udau 
+rainy weather: audal	oudal	udau 
+red: meip-hang	mipgang 
+path: daraN	darang 
+road: daraN	darang 
+route: daraN	darang 
+root: patar 
+sand: lapun	ligig	liʼigh 
+say: mararamig	masasuu	massousou	vanavana 
+see: kmita	kmitta 
+sit: miraong 
+hide: validt	validt~ 
+skin: validt	validt~ 
+sleep: mesip 
+little: ausyng	mackousing	mausing 
+small: ausyng	mackousing	mausing 
+smallness: ausyng	mackousing	mausing 
+smoke: ahto	labu 
+star: atatiN akai	atatiliNagey	atating akai	attatillingagey 
+rock: wattu	watu 
+stone: wattu	watu 
+swim: lmangoy 
+tail: ikog 
+this: ata 
+2 sg: inuhu 
+thou: inuhu 
+you: inuhu 
+tongue: dadila	dadilah 
+tooth: waNan	wali	walig	walit	wangan 
+grind: duha	rauha 
+two: duha	rauha 
+go: marisip	mounounang 
+walk: marisip	mounounang 
+hot: madalat 
+warm: madalat 
+water: dalum	ralaum	rarum	salom 
+what: camang 
+white: -pule	mapoule 
+whiteness: -pule	mapoule 
+who: timang 
+who?: timang 
+female: ina	inina 
+woman: ina	inina 
+yellow: makouliang 
+dull: mackdoung 
+heavy: mackdoung 
+serious: mackdoung 
+close: tamang 
+near: tamang 
+ner: tamang 
+salt: machat	vaija	veia 
+short: makusing 
+snake: bulai	vaulei	voulei	vouly 
+thin: pulipig 
+wind: vare 
+earthworm: qalo:qót 
+worm: qalo:qót 
+year: tawil 

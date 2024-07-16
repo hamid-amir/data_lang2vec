@@ -1,0 +1,328 @@
+all: бүгү	дөгере	хамык	шупту 
+every: бүгү	дөгере	хамык	шупту 
+ash: хүл 
+ashes: хүл 
+bark: чөвүрээ 
+abdomen: ижин	хырын 
+belly: ижин	хырын 
+big: улуг 
+bigness: улуг 
+large: улуг 
+bird: куш 
+bite: туткулаар	ызырар 
+black: кара 
+blood: qan	хан 
+bone: sak	сөөк 
+breast: taS	эмиг 
+breasts: taS	эмиг 
+cloud: булут 
+cold: соок 
+come: kelir	келир 
+come from: kelir	келир 
+be dead: alir	өлүр 
+dead: alir	өлүр 
+die: alir	өлүр 
+dog: 3t	ыт 
+drink: iZer	ижер 
+dry: кургаг 
+ear: qulaq	кулак 
+earth: довурак	хөрзүн 
+ground: довурак	хөрзүн 
+land: довурак	хөрзүн 
+soil: довурак	хөрзүн 
+eat: чиир 
+egg: чуурга 
+eye: qaraq	карак 
+feather: чүг 
+fire: ot	от 
+fish: bal3q	балык 
+fly: ужар 
+fly v.: ужар 
+foot: бут 
+full: dolu	долу 
+give: бээр 
+good: эки 
+green: ногаан 
+hair: дүк	хыл 
+hand: xol 
+left hand: xol 
+right: xol 
+head: баш 
+hear: d3Nnar	дыңнаар 
+heart: чүрек 
+horn: m3y3s	мыйыс 
+1 sg.: men	мен 
+I: men	мен 
+kill: өлүрер 
+knee: diskek	дискек 
+be knowledgeable: билир 
+know: билир 
+leaf: biri	бүрү 
+liver: bar	баар 
+long: узун 
+head louse: b3t	быт 
+louse: b3t	быт 
+male: эр 
+man: kiSi	кижи 
+many: көвей	хөй 
+much: көвей	хөй 
+multiple: көвей	хөй 
+several: көвей	хөй 
+moon: ай 
+hill: dax	даг 
+mountain: dax	даг 
+mouth: аас 
+name: at	ат 
+title: at	ат 
+neck: моюн 
+new: ja	чаа 
+night: dina	дүн 
+nighttime: dina	дүн 
+nose: xai	думчук 
+not: чок	эвес 
+adulterous: bir	бир 
+one: bir	бир 
+single: bir	бир 
+that: ол 
+the: bir	бир 
+unprincipled: bir	бир 
+human: kiSi	кижи 
+human being: kiSi	кижи 
+person: kiSi	кижи 
+rain: чаъс 
+rainy weather: чаъс 
+red: кызыл 
+path: oruq	орук 
+road: oruq	орук 
+route: oruq	орук 
+root: дазыл 
+round: тырыкы	төгерик 
+sand: кум	элезин 
+say: дээр	сөглээр	чугаалар 
+see: kar	көөр 
+seed: үрезин 
+sit: олур 
+hide: keS	алгы	кеш 
+skin: keS	алгы	кеш 
+sleep: удуур 
+little: биче 
+small: биче 
+smallness: биче 
+smoke: ыш 
+star: s3ld3s	сылдыс 
+rock: daS	даш 
+stone: daS	даш 
+sun: xin	хүн 
+swim: эштир 
+tail: кудурук 
+this: бо 
+2 sg: sen	сен 
+thou: sen	сен 
+you: sen	сен 
+tongue: d3l	дыл 
+tooth: dis	диш 
+tree: iS	ыяш 
+grind: iyi	ийи 
+two: iyi	ийи 
+go: баар	чоруур 
+walk: баар	чоруур 
+hot: чылыг 
+warm: чылыг 
+water: sux	суг 
+1 pl. inc.: bis	бис 
+we: bis	бис 
+we₁: bis	бис 
+what: чүү 
+white: ак 
+whiteness: ак 
+who: кым 
+who?: кым 
+female: херээжен 
+woman: херээжен 
+yellow: сарыг 
+distant: ырак 
+far: ырак 
+dull: аар 
+heavy: аар 
+serious: аар 
+close: чоок 
+near: чоок 
+ner: чоок 
+salt: дус 
+short: кыска	чолдак 
+snake: чылан 
+thin: чиңге	чуга 
+wind: хат 
+earthworm: курт 
+worm: курт 
+year: чыл 
+3 sg.: ол 
+he: ол 
+she: ол 
+2 pl.: силер 
+ye: силер 
+you all: силер 
+3 pl.: олар 
+they: олар 
+here: мында 
+there: аңаа 
+where: кайда 
+where?: кайда 
+when: кажан 
+when?: кажан 
+how: кандыг 
+how?: кандыг 
+some: каш	кашкыйна	шала 
+few: ас	бичии	эвээш 
+other: башка	ыынды	өске 
+three: үш 
+four: дөрт 
+five: беш 
+broad: алгыг	делгем	калбак 
+wide: алгыг	делгем	калбак 
+wideness: алгыг	делгем	калбак 
+fat: чаг	үс 
+thick: кылын 
+narrow: кызыы	тар 
+child: уруг 
+principal wife: амдыы кижи	кадай 
+wife: амдыы кижи	кадай 
+husband: ашак	эр 
+his mother: ава	ие 
+mother: ава	ие 
+my mother: ава	ие 
+father: ада	ача 
+his father: ада	ача 
+my father: ада	ача 
+animal: аң 
+forest: арга	арыг	эзим 
+woods: арга	арыг	эзим 
+fruit: чимис 
+flower: чечек 
+grass: оът 
+cord: аркан	хендир	чеп 
+rope: аркан	хендир	чеп 
+flesh: эът 
+meat: эът 
+grease: чаг	үс 
+claw: дырбак 
+fingernail: дырбак 
+nail: дырбак 
+leg: бут 
+arm: хол 
+wing: чалгын 
+gut: шөйүндү 
+guts: шөйүндү 
+insides: шөйүндү 
+intestine: шөйүндү 
+intestines: шөйүндү 
+back: оорга 
+suck: сорар	эмер 
+spit: дүкпүрер 
+vomit: куску 
+blow: хадыыр	үрер 
+breath: тынар 
+breathe: тынар 
+laugh: каткы 
+laughter: каткы 
+cogitate: бодаар	сагышсыраар 
+reflect: бодаар	сагышсыраар 
+think: бодаар	сагышсыраар 
+smell: чыттаар 
+sniff: чыттаар 
+afraid: коргары 
+be afraid: коргары 
+fear: коргары 
+fright: коргары 
+alive: чурттаар 
+be alive: чурттаар 
+life: чурттаар 
+live: чурттаар 
+living: чурттаар 
+fight: дайылдажыр	демисежир	чаалажар 
+hunt: аңнаар	аңныыр 
+beat: кагар	согар	шанчар 
+hit: кагар	согар	шанчар 
+strike: кагар	согар	шанчар 
+cut: кезер 
+hack: кезер 
+cut open: оондактаар	чарар 
+split: оондактаар	чарар 
+pierce: бижектээр	шанчар	шиштээр 
+stab: бижектээр	шанчар	шиштээр 
+scratch: дырбак 
+dig: казар 
+lie: чыдар 
+lie down: чыдар 
+tell lies: чыдар 
+stand: турар 
+turn: эргилдирер	ээр 
+turn around: эргилдирер	ээр 
+turn round: эргилдирер	ээр 
+drop: дүжер 
+fall: дүжер 
+grasp: тудар 
+hold: тудар 
+hold in arm: тудар 
+squeeze: кызар 
+wring: кызар 
+rub: дүрбүүр	өгээр 
+wipe: аштаар	чодар 
+wash: чуур 
+wash clothes: чуур 
+pull: тыртар 
+push: идер 
+shove: идер 
+throw: дажаар	октаар 
+bind: баглаар 
+fasten: баглаар 
+tie: баглаар 
+tie up: баглаар 
+sew: даараар 
+count: санаар 
+enumerate: санаар 
+number: санаар 
+tally: санаар 
+sing: ырлаар 
+have fun: ойнаар 
+play: ойнаар 
+float: салдаар 
+flow: агар	төктүр 
+freeze: доңар 
+swell: дөртеер	хапыяр	ыжар 
+brook: хем 
+river: хем 
+stream: хем 
+lake: хөл 
+ocean: далай 
+sea: далай 
+dust: доозун 
+fog: туман 
+sky: дээр 
+snow: хар 
+ice: дош 
+blaze: кывар 
+burn: кывар 
+day: хүн 
+daylight: хүн 
+daytime: хүн 
+old: кырган	эрги 
+bad: бaк	багай 
+evil: бaк	багай 
+rot: ирик	чыдыг 
+rotten: ирик	чыдыг 
+dirty: боктуг	хирлиг 
+filthy: боктуг	хирлиг 
+soiled: боктуг	хирлиг 
+straight: дорт	хөнү 
+sharp: чидиг	өткүр 
+blunt: дөгей	мугур	шапты 
+smooth: дески	тас 
+damp: мөөн	шал	өл 
+wet: мөөн	шал	өл 
+correct: шын	ылаптыг 
+right side: оң 
+left: солагай 
+and: -биле	болгаш 
+if: илебесте 
+because: ооңужун 

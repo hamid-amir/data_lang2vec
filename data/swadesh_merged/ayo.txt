@@ -1,0 +1,307 @@
+all: ʼn̥eeseʔ 
+every: ʼn̥eeseʔ 
+ash: ʼuučuk-uʼru-i 
+ashes: ʼuučuk-uʼru-i 
+bark: poor-aʼooi 
+big: keʼruu-a	keʼruu-i 
+bigness: keʼruu-a	keʼruu-i 
+large: keʼruu-a	keʼruu-i 
+bird: čuʼŋuperẽ 
+bite: iʼgaaseʔ 
+black: utaʼta	utaʼta-i 
+blood: ijo	ijoj	iyoi	iʼyoi 
+bone: anokei	anokej	anokek	an̥okeei 
+breast: ina	iʼn̥a 
+breasts: ina	iʼn̥a 
+claw: ʼuusugurui 
+nail: ʼuusugurui 
+talon: ʼuusugurui 
+cloud: geei 
+cold: teʼn̥uu-i	teʼn̥uu-ŋe 
+come: di	ibagi	iʼbagi 
+come from: di	ibagi	iʼbagi 
+be dead: itoj	toge	toi	tooi 
+dead: itoj	toge	toi	tooi 
+die: itoj	toge	toi	tooi 
+dog: %tamokoj	tamokoi	tamoʼkoi 
+drink: ohi	ohi7	ʼoohiʔ 
+dry: kaʼn̥or-e	kaʼn̥or-i 
+ear: aNorone	aʼŋorone 
+earth: p-ačami-ʼni 
+ground: p-ačami-ʼni 
+land: p-ačami-ʼni 
+soil: p-ačami-ʼni 
+eat: aʼgu	ʼakeʔ 
+egg: kũʼreei 
+eye: edo	eʼdo 
+feather: ãraʼma 
+fire: piiʼo-i	pioi	pioj	piok 
+fish: ojidi	ojit	oyidi	oʼyidi 
+fly: iiʼyoʔ 
+fly v.: iiʼyoʔ 
+foot: ʼgiidaai 
+full: iragu	iragua	iraguj	iʼragu-a	iʼragu-i 
+give: iiʼsi-omeʔ	iiʼsiʔ 
+good: aʼre-ge	aʼre-i 
+green: ʼsarẽ	ʼsarẽ-i 
+hair: gaaʼterero 
+hand: manaj	manay	m̥aʼnaay 
+left hand: manaj	manay	m̥aʼnaay 
+right: manaj	manay	m̥aʼnaay 
+head: gaaʼtoi 
+hear: udute	udute7	uʼduteʔ 
+heart: iʼyo-bie 
+horn: ubuCuj	ubuCuk	uʼei 
+1 sg.: ju	uju	uuʼyu	uyu	yu 
+I: ju	uju	uuʼyu	uyu	yu 
+kill: uʼheeʔ 
+knee: kaataʼde	katade 
+be knowledgeable: iʼmoʔ 
+know: iʼmoʔ 
+leaf: akara*j	akara*k	poor-ãakaʼraai	pora*akarai 
+lie: iʼm̥ar-ahaʔ 
+lie down: iʼm̥ar-ahaʔ 
+liver: abito	abiʼto 
+long: yoʼiiko	yoʼiiko-i 
+head louse: nare	narenai	nari	nari*	n̥are keʼde-n̥ai	n̥aʼrĩ 
+louse: nare	narenai	nari	nari*	n̥are keʼde-n̥ai	n̥aʼrĩ 
+male: ayoʼre-i 
+man: ajore	ajorej	ayore	ayoʼr-e 
+many: uʼaase-n̥a	uʼaasẽ-n̥ã-i 
+much: uʼaase-n̥a	uʼaasẽ-n̥ã-i 
+multiple: uʼaase-n̥a	uʼaasẽ-n̥ã-i 
+several: uʼaase-n̥a	uʼaasẽ-n̥ã-i 
+flesh: aʼooi	aʼragaɲ̥ua 
+meat: aʼooi	aʼragaɲ̥ua 
+moon: geedoʼsi-deʔ 
+hill: kukarani	kukarat	oroko	oroʼko-daaʼte 
+mountain: kukarani	kukarat	oroko	oroʼko-daaʼte 
+mouth: pin̥aʼni 
+name: i	ii 
+title: i	ii 
+neck: eetaʼbi 
+new: iCa	iCaj	iiča	iiča-i	urieNe	uriʼei	uriʼeŋe 
+night: dehai	dehaj	dehak	deʼhaai 
+nighttime: dehai	dehaj	dehak	deʼhaai 
+nose: ko*raCui	koraCuj	koraCuk	kõraʼčuui 
+adulterous: Co*ma*ra*7	Comara	chomarã’ 
+one: Co*ma*ra*7	Comara	chomarã’ 
+single: Co*ma*ra*7	Comara	chomarã’ 
+that: Co*ma*ra*7	Comara	chomarã’ 
+the: Co*ma*ra*7	Comara	chomarã’ 
+unprincipled: Co*ma*ra*7	Comara	chomarã’ 
+human: ajore	ajorej	ayore	ayoʼr-e 
+human being: ajore	ajorej	ayore	ayoʼr-e 
+person: ajore	ajorej	ayore	ayoʼr-e 
+rain: geei 
+rainy weather: geei 
+red: kara-ʼtaai	kara-ʼtee 
+path: dahej	dahek	gabi	pihoi 
+road: dahej	dahek	gabi	pihoi 
+route: dahej	dahek	gabi	pihoi 
+root: taʼposi 
+round: kataʼde	kataʼde-i 
+sand: uʼn̥a 
+say: ikateʼkarĩ	ikateʼkarẽʔ 
+see: imo	imo7	iʼmoʔ 
+seed: aʼɲ̥u-a 
+sit: ʼakar-ihiʔ 
+hide: aro	aroj	aʼooi 
+skin: aro	aroj	aʼooi 
+sleep: iʼmoʔ 
+little: aaʼtiami	aaʼtiami-a 
+small: aaʼtiami	aaʼtiami-a 
+smallness: aaʼtiami	aaʼtiami-a 
+smoke: iiʼoti 
+star: gedo	ʼgeedo 
+rock: kukarane	kukarani	kukaraʼne 
+stone: kukarane	kukarani	kukaraʼne 
+sun: gede	gede7	gee-ʼdeʔ 
+swim: iʼhi tutuʼne 
+tail: kaʼri 
+2 sg: ua	uwa	wa 
+thou: ua	uwa	wa 
+you: ua	uwa	wa 
+tongue: arei	arek	aʼreei 
+tooth: pa*tara*ai	pa*taraj	pa*tarak	pãʼtarãai 
+tree: pori	poria 
+grind: gare	gare7	garej	gare’	ʼgareʔ 
+two: gare	gare7	garej	gare’	ʼgareʔ 
+go: iʼka-hiʔ	iʼka-iʔ	ĩiʼrikeʔ 
+walk: iʼka-hiʔ	iʼka-iʔ	ĩiʼrikeʔ 
+water: jodi	jot	yodi	yooʼdi 
+1 pl. inc.: jok	uyoke7	yoke7 
+we: jok	uyoke7	yoke7 
+we₁: jok	uyoke7	yoke7 
+what: gooʼtike e	gooʼtoraʼkee 
+white: ʼpororo	ʼpororo-i 
+whiteness: ʼpororo	ʼpororo-i 
+who: gooʼsi te e	gooʼto te e 
+who?: gooʼsi te e	gooʼto te e 
+female: ayoʼre 
+woman: ayoʼre 
+yellow: ʼsarẽ	ʼsarẽ-i 
+distant: iʼda-haʔ 
+far: iʼda-haʔ 
+dull: ʼpeenu-a	ʼpeenu-i 
+heavy: ʼpeenu-a	ʼpeenu-i 
+serious: ʼpeenu-a	ʼpeenu-i 
+close: iʼdogosiʔ 
+near: iʼdogosiʔ 
+ner: iʼdogosiʔ 
+salt: eʼčo-i 
+short: kataʼde	kataʼde-i 
+snake: uʼgaai 
+thin: godoo-ʼge	goʼdoo-i 
+wind: eeʼmi 
+earthworm: uhuʼri 
+worm: uhuʼri 
+year: seʼkeere 
+2 pl.: uak	ʼuakeʔ 
+ye: uak	ʼuakeʔ 
+you all: uak	ʼuakeʔ 
+3 pl.: oʼreeʔ 
+they: oʼreeʔ 
+where: ʼdee-hi ʼrike e	ʼtia 
+where?: ʼdee-hi ʼrike e	ʼtia 
+how: iisoʼkaarike 
+how?: iisoʼkaarike 
+some: uguʼru-a	uguʼru-i 
+few: gaʼroosi	gaʼroosi-a 
+three: gadiʼo-ge	gadiʼo-i	gadiʼok	gādioc 
+four: gaʼgan̥i	gaʼgan̥i-a	gaʼgan̥iʔ	gāgáni’ 
+five: chēna̍yimanâĩ	čeeʼn̥a yim̥aʼnaa-y 
+broad: dakoode	daʼkoode-i 
+wide: dakoode	daʼkoode-i 
+wideness: dakoode	daʼkoode-i 
+fat: ii	ʼkučaa ʼii-odeʔ 
+thick: daɲooʼree	daɲooʼree-i 
+narrow: aʼhaami	aʼhaami-a 
+child: diis-aʼbi 
+principal wife: akoʼte 
+wife: akoʼte 
+husband: aʼbay 
+his mother: daa-ʼte 
+mother: daa-ʼte 
+my mother: daa-ʼte 
+father: daa-ʼye 
+his father: daa-ʼye 
+my father: daa-ʼye 
+animal: kučiiʼsooi 
+forest: eʼrami 
+woods: eʼrami 
+branch: m̥aʼnekaai 
+stick: m̥aʼnekaai 
+fruit: aa 
+flower: aʼsige 
+grass: n̥aakaʼraai 
+cord: čaʼge-n̥ai	ʼenuei 
+rope: čaʼge-n̥ai	ʼenuei 
+grease: ii	ʼkučaa ʼii-odeʔ 
+fingernail: ʼuusugurui 
+leg: ootaʼdi 
+wing: uʼn̥ooi 
+gut: uʼčaai 
+guts: uʼčaai 
+insides: uʼčaai 
+intestine: uʼčaai 
+intestines: uʼčaai 
+back: giidoʼbooi 
+suck: uʼkuʔ 
+spit: ũʼtira-haʔ 
+vomit: ʼipogaai 
+blow: uʼbuču 
+breath: uɲ̥aʼri 
+breathe: uɲ̥aʼri 
+laugh: daʼgoi 
+laughter: daʼgoi 
+cogitate: oo ʼyaayugu 
+reflect: oo ʼyaayugu 
+think: oo ʼyaayugu 
+smell: oʼhareʔ 
+sniff: oʼhareʔ 
+afraid: isadoʼde-riŋai	itodoo-tiʼgai 
+be afraid: isadoʼde-riŋai	itodoo-tiʼgai 
+fear: isadoʼde-riŋai	itodoo-tiʼgai 
+fright: isadoʼde-riŋai	itodoo-tiʼgai 
+alive: eeʼkai	ueʼkai 
+be alive: eeʼkai	ueʼkai 
+life: eeʼkai	ueʼkai 
+live: eeʼkai	ueʼkai 
+living: eeʼkai	ueʼkai 
+fight: oo yihokaniʼŋaʔ 
+hunt: niiʼso-rãai	niʼsorẽe 
+beat: uʼheeʔ 
+hit: uʼheeʔ 
+strike: uʼheeʔ 
+cut: akesuʔ 
+hack: akesuʔ 
+cut open: aʼhukeʔ	ĩpooʼčereʔ 
+split: aʼhukeʔ	ĩpooʼčereʔ 
+dig: iʼhoočaʔ 
+tell lies: oo yuruupaʼtaa-riŋaʔ 
+stand: iʼyageʔ 
+turn: aaʼn̥i-hiʔ	aaʼn̥iʔ 
+turn around: aaʼn̥i-hiʔ	aaʼn̥iʔ 
+turn round: aaʼn̥i-hiʔ	aaʼn̥iʔ 
+drop: ĩiʼkoorãʔ 
+fall: ĩiʼkoorãʔ 
+grasp: iʼsaaʔ 
+hold: iʼsaaʔ 
+hold in arm: iʼsaaʔ 
+squeeze: idoʼta	ĩʼrie 
+wring: idoʼta	ĩʼrie 
+rub: iporiʼgaseʔ 
+wipe: iporiʼgaseʔ 
+wash: uʼruu 
+wash clothes: uʼruu 
+push: ukuʼaseʔ	uruʼguseʔ 
+shove: ukuʼaseʔ	uruʼguseʔ 
+throw: atiʼŋaareʔ	aʼtareʔ 
+bind: igaʼru 
+fasten: igaʼru 
+tie: igaʼru 
+tie up: igaʼru 
+sew: uʼgaaʔ 
+count: ĩseeʼkarũ 
+enumerate: ĩseeʼkarũ 
+number: ĩseeʼkarũ 
+tally: ĩseeʼkarũ 
+sing: iɲ̥eʼkãreʔ 
+have fun: iŋaʼnareʔ	iŋaʼnaʔ 
+play: iŋaʼnareʔ	iŋaʼnaʔ 
+flow: čaaʼyoʔ 
+brook: tiiʼe 
+river: tiiʼe 
+stream: tiiʼe 
+lake: gaaʼɲ̥oo 
+ocean: yoote keʼde-n̥ai 
+sea: yoote keʼde-n̥ai 
+dust: uʼru-i 
+fog: heeʼsi 
+sky: gaaʼteei 
+ice: ʼeebee-dieʔ 
+day: diiʼri 
+daylight: diiʼri 
+daytime: diiʼri 
+bad: siin̥aa-ʼŋe	siiʼn̥aa-i 
+evil: siin̥aa-ʼŋe	siiʼn̥aa-i 
+rot: taraʼtaa-ge	taraʼtaa-i 
+rotten: taraʼtaa-ge	taraʼtaa-i 
+dirty: ooʼpoii	ooʼpoii-a 
+filthy: ooʼpoii	ooʼpoii-a 
+soiled: ooʼpoii	ooʼpoii-a 
+straight: iʼčaputa-hiʔ 
+sharp: aasiiʼko	aasiiʼko-i 
+blunt: paʼkaa	paʼkaa-i 
+smooth: karu-n̥a-i	karu-n̥a-ŋe 
+damp: teʼtaa-ge	teʼtaa-i 
+wet: teʼtaa-ge	teʼtaa-i 
+correct: ipeeʼsute aʼrei 
+right side: ãraʼčuu-a	ãraʼčuu-i 
+left: araʼse	araʼse-i 
+in: -hiʔ	-ihiʔ	aʼheei	ihiʔ	tihiʔ 
+inside: -hiʔ	-ihiʔ	aʼheei	ihiʔ	tihiʔ 
+and: ga	ŋa	ʼeŋa 
+if: eeʼti	uʼheeta	ʼheeta 
+because: guu	uʼheeʔ 

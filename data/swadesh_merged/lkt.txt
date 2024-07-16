@@ -1,0 +1,333 @@
+all: iyúha	oyásʼiŋ 
+every: iyúha	oyásʼiŋ 
+ash: Ch~aXota	čhaȟóta 
+ashes: Ch~aXota	čhaȟóta 
+bark: čhaŋhá 
+abdomen: ikpí	thezí	th~ezi 
+belly: ikpí	thezí	th~ezi 
+big: th~a*ka	tȟáŋka 
+bigness: th~a*ka	tȟáŋka 
+large: th~a*ka	tȟáŋka 
+bird: zi*tkala	ziŋtkála 
+bite: wayáȟtakA	yaXtaka	yaȟtákA 
+black: sapa	sápA 
+blood: we	wé 
+bone: hohu	hohú	huhu 
+breast: aze	makh~u	makhú 
+breasts: aze	makh~u	makhú 
+claw: Sake 
+nail: Sake 
+talon: Sake 
+cloud: maXpiya	maȟpíya 
+cold: Ch~uwita	osní 
+come: gli	glí	hi	hí	kú	u	ú 
+come from: gli	glí	hi	hí	kú	u	ú 
+be dead: t"a	t7a	tʼÁ 
+dead: t"a	t7a	tʼÁ 
+die: t"a	t7a	tʼÁ 
+dog: Su*ka	SuNka	šúŋka 
+drink: wayátkAŋ	yatka	yatkaN	yatkÁŋ	yaȟépA 
+dry: púzA	saka 
+ear: nakpá	nuNge	nuXe	núŋǧe 
+earth: makh~a	makȟá 
+ground: makh~a	makȟá 
+land: makh~a	makȟá 
+soil: makh~a	makȟá 
+eat: tȟebyÁ	watȟébyA	wótA	yuta	yútA 
+egg: witka	wítka 
+eye: iSta	ištá 
+fat: wigli 
+fat n.: wigli 
+grease: wigli 
+lubricant: wigli 
+oil: wigli 
+feather: wiyaka	wíyake 
+fire: ph~eta	pxeta	pȟéta 
+fish: hoXa*	horaN	hoǧáŋ 
+fly: ki*ya*	kiŋyÁŋ 
+fly v.: ki*ya*	kiŋyÁŋ 
+foot: si	sí 
+full: oZula	ožúla 
+give: k"u	kʼú 
+good: waSte	wašté 
+green: th~o	tȟó	tȟózi	ziyátȟo 
+hair: híŋ	ph~ehi*	pȟehíŋ 
+hand: nape 
+left hand: nape 
+right: nape 
+head: nata	natá	ph~a	pȟá 
+hear: naX7u*	nax7uN	naȟʼúŋ 
+heart: Ch~a*te	čhaŋté 
+horn: he	hé 
+1 sg.: bl	bl-	m	m-	ma	ma-	miS	miye	miyeS	miyé	míš	wa	wa-	wé- 
+I: bl	bl-	m	m-	ma	ma-	miS	miye	miyeS	miyé	míš	wa	wa-	wé- 
+kill: kte	kté 
+knee: Ch~a*kpe	Ch~aNkpe	čhaŋkpé 
+be knowledgeable: slolya	slolyÁ 
+know: slolya	slolyÁ 
+leaf: waXpe	waxpe	waȟpé	wápe 
+lie: Xpaya	yu*ka 
+lie down: Xpaya	yu*ka 
+liver: ph~i	phí 
+long: háŋska 
+head louse: heya	héya 
+louse: heya	héya 
+male: wiCh~aSa	wičháša 
+man: tuwa	tuwe waN	wičháša akáŋtula 
+many: óta 
+much: óta 
+multiple: óta 
+several: óta 
+flesh: th~alo 
+meat: th~alo 
+moon: haŋwí	wi 
+hill: Xe	xe	ȟé 
+mountain: Xe	xe	ȟé 
+mouth: i	í 
+name: Ch~aZe	čhažé 
+title: Ch~aZe	čhažé 
+neck: tȟahú 
+new: th~eCa	txeCa	tȟéča 
+night: ha*hepi	haNhepi	haŋhépi 
+nighttime: ha*hepi	haNhepi	haŋhépi 
+nose: ph~asu	pxasu	pȟasú 
+not: šni 
+adulterous: wa*Ci	waNCi	waNZi	wanji	waŋží 
+one: wa*Ci	waNCi	waNZi	wanji	waŋží 
+single: wa*Ci	waNCi	waNZi	wanji	waŋží 
+that: he	hé	ká 
+the: wa*Ci	waNCi	waNZi	wanji	waŋží 
+unprincipled: wa*Ci	waNCi	waNZi	wanji	waŋží 
+human: tuwa	tuwe waN	wičháša akáŋtula 
+human being: tuwa	tuwe waN	wičháša akáŋtula 
+person: tuwa	tuwe waN	wičháša akáŋtula 
+rain: maXaZu	maǧážu 
+rainy weather: maXaZu	maǧážu 
+red: Sa	šá 
+path: Ch~aNku	čhaŋkú 
+road: Ch~aNku	čhaŋkú 
+route: Ch~aNku	čhaŋkú 
+root: huta	čhaŋhútkȟaŋ 
+round: gmigméla 
+sand: čhasmú 
+say: eya	eyÁ 
+see: wa*ya*ka	waNyaNka	waŋyáŋkA 
+seed: sú 
+sit: ya*ka	yaŋkÁ 
+hide: ha	há	waha 
+skin: ha	há	waha 
+sleep: iStima	ištíŋmA 
+little: Cik"ala	Cistila	číkʼala 
+small: Cik"ala	Cistila	číkʼala 
+smallness: Cik"ala	Cistila	číkʼala 
+smoke: Sota	šóta 
+stand: naZi* 
+star: wiCh~aXpi	wiCh~axpi	wičháȟpi 
+rock: i*ya*	iNyaN	iX7e	íŋyaŋ 
+stone: i*ya*	iNyaN	iX7e	íŋyaŋ 
+sun: aŋpétu wí	wi	wí 
+swim: nuwa	nuŋwÁŋ 
+tail: si*te	siŋté 
+this: le	lé 
+2 sg: l	l-	n	n-	ni	ni-	niS	niye	niyeS	niyé	níš	ya	ya-	yé- 
+thou: l	l-	n	n-	ni	ni-	niS	niye	niyeS	niyé	níš	ya	ya-	yé- 
+you: l	l-	n	n-	ni	ni-	niS	niye	niyeS	niyé	níš	ya	ya-	yé- 
+tongue: Ch~eZi	čheží 
+tooth: hi	hí 
+tree: Ch~a*	Ch~aN	čháŋ 
+grind: nuNpa	num	nupa	núŋpa 
+two: nuNpa	num	nupa	núŋpa 
+go: mani	máni 
+walk: mani	máni 
+hot: okȟátA 
+warm: okȟátA 
+water: mni	mní 
+1 pl. inc.: u*ki*S	u*kiye	uN	uNkiS	uNkiye	uŋ-	uŋk-	uŋkíye	uŋkʼ- 
+we: u*ki*S	u*kiye	uN	uNkiS	uNkiye	uŋ-	uŋk-	uŋkíye	uŋkʼ- 
+we₁: u*ki*S	u*kiye	uN	uNkiS	uNkiye	uŋ-	uŋk-	uŋkíye	uŋkʼ- 
+what: táku 
+white: sa*	ska	ská	sáŋ 
+whiteness: sa*	ska	ská	sáŋ 
+who: tuwá 
+who?: tuwá 
+female: wi*ya	wíŋyaŋ 
+woman: wi*ya	wíŋyaŋ 
+yellow: zi	zí 
+distant: tȟéhaŋl 
+far: tȟéhaŋl 
+dull: tké 
+heavy: tké 
+serious: tké 
+close: khiyéla 
+near: khiyéla 
+ner: khiyéla 
+salt: mniskúya 
+short: ptéčela 
+snake: zuzéča 
+thin: zizípela 
+wind: tȟaté 
+earthworm: waglúla 
+worm: waglúla 
+year: waníyetu	ómakȟa 
+2 pl.: l-…-pi	n-…-pi	ni-…-pi	niyé	níš	ya-…pi	yé-…-pi 
+ye: l-…-pi	n-…-pi	ni-…-pi	niyé	níš	ya-…pi	yé-…-pi 
+you all: l-…-pi	n-…-pi	ni-…-pi	niyé	níš	ya-…pi	yé-…-pi 
+here: lél	léčhiya 
+there: hé	héčhiya	kákhiya	kál 
+where: tuktél	tókhiya 
+where?: tuktél	tókhiya 
+when: toháŋl	tóhaŋ 
+when?: toháŋl	tóhaŋ 
+how: tókhel	tókheškhe 
+how?: tókhel	tókheškhe 
+some: eyá	húŋȟ 
+few: čónala 
+other: uŋmá 
+three: yamni	yámni 
+four: topa	tópa 
+five: zaptan	záptaŋ 
+broad: otȟáŋkaya 
+wide: otȟáŋkaya 
+wideness: otȟáŋkaya 
+thick: šóka 
+narrow: očíkʼayela 
+child: wakȟáŋyeža 
+principal wife: tȟawíču 
+wife: tȟawíču 
+husband: hiŋgnáku 
+his mother: iná 
+mother: iná 
+my mother: iná 
+father: até 
+his father: até 
+my father: até 
+animal: wamákȟaškaŋ 
+forest: čhúŋtheȟike	čhúŋšoke 
+woods: čhúŋtheȟike	čhúŋšoke 
+branch: čháŋ 
+stick: čháŋ 
+fruit: waskúyeča	watȟókeča 
+flower: wanáȟča	waȟčá 
+grass: pȟeží 
+cord: wíkȟaŋ 
+rope: wíkȟaŋ 
+fingernail: napšáke	wičhášake 
+leg: hú 
+arm: napé 
+wing: ȟupáhu 
+gut: šupé 
+guts: šupé 
+insides: šupé 
+intestine: šupé 
+intestines: šupé 
+back: čhuwí 
+suck: yaǧópA 
+spit: tȟaǧóša 
+vomit: glépA 
+blow: tȟaté 
+breath: niyÁ 
+breathe: niyÁ 
+laugh: iȟátʼA 
+laughter: iȟátʼA 
+cogitate: awíyukčaŋ	ečhíŋ	iyúkčaŋ	kéčhiŋ 
+reflect: awíyukčaŋ	ečhíŋ	iyúkčaŋ	kéčhiŋ 
+think: awíyukčaŋ	ečhíŋ	iyúkčaŋ	kéčhiŋ 
+smell: ómna 
+sniff: ómna 
+afraid: kȟokípȟA 
+be afraid: kȟokípȟA 
+fear: kȟokípȟA 
+fright: kȟokípȟA 
+alive: ní 
+be alive: ní 
+life: ní 
+live: ní 
+living: ní 
+fight: khízA 
+hunt: tȟátȟe	wakhúl yÁ	wayé 
+beat: apȟÁ	ó 
+hit: apȟÁ	ó 
+strike: apȟÁ	ó 
+cut: kaksÁ	paksÁ	waksÁ	yuksÁ 
+hack: kaksÁ	paksÁ	waksÁ	yuksÁ 
+cut open: kasléčA 
+split: kasléčA 
+pierce: čhapȟÁ 
+stab: čhapȟÁ 
+scratch: yukʼéǧA 
+dig: kʼÁ 
+tell lies: yuŋkÁ	ȟpáyA 
+turn: kawíŋǧA 
+turn around: kawíŋǧA 
+turn round: kawíŋǧA 
+drop: hiŋȟpáyA 
+fall: hiŋȟpáyA 
+grasp: oyúspA 
+hold: oyúspA 
+hold in arm: oyúspA 
+squeeze: -škičA	yušlí 
+wring: -škičA	yušlí 
+rub: pawíŋtA 
+wipe: pakhíŋtA 
+wash: yužáža 
+wash clothes: yužáža 
+pull: yutítaŋ 
+push: patítaŋ 
+shove: patítaŋ 
+throw: kaȟʼól 
+bind: kaškÁ 
+fasten: kaškÁ 
+tie: kaškÁ 
+tie up: kaškÁ 
+sew: kaǧéǧe 
+count: yawá 
+enumerate: yawá 
+number: yawá 
+tally: yawá 
+sing: lowáŋ 
+have fun: škátA 
+play: škátA 
+float: okáǧA 
+flow: kalúzA 
+freeze: osní šíčA 
+swell: pó 
+brook: wakpá 
+river: wakpá 
+stream: wakpá 
+lake: blé 
+ocean: mniwáŋča 
+sea: mniwáŋča 
+dust: makȟáblu 
+fog: pʼó 
+sky: maȟpíya	maȟpíya tȟó 
+snow: wá 
+ice: čháǧa 
+blaze: ile	ilé 
+burn: ile	ilé 
+day: aŋpétu 
+daylight: aŋpétu 
+daytime: aŋpétu 
+old: káŋ	tȟaŋníla 
+bad: šíčA 
+evil: šíčA 
+rot: puŋpúŋ 
+rotten: puŋpúŋ 
+dirty: šápA 
+filthy: šápA 
+soiled: šápA 
+straight: owótȟaŋla 
+sharp: pȟé 
+blunt: tʼózA 
+smooth: stoyéla 
+damp: spáyA 
+wet: spáyA 
+correct: wíčákȟA 
+right side: išláyataŋhaŋ 
+left: čhatkáyataŋhaŋ 
+at: ektá	él 
+in: mahél	ogná 
+inside: mahél	ogná 
+with: kičhí	ób 
+and: na 
+if: háŋtaŋš	héči 
+because: ičhíŋ 

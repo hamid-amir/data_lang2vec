@@ -1,0 +1,378 @@
+all: kalili 
+arm: upi 
+arrow: waya tono 
+ashes: owea | owɛa 
+ashes: owɛa 
+back: kusa 
+back: muku 
+bad: inou 
+belly: kamau | uku 
+belly: uku 
+big: atupë:lo | atupʌːlo 
+big: atupʌːlo 
+bird: nei 
+bite: puda- 
+black: ɟikʌpa 
+black: jikëpa | ɟikʌpa 
+blood: ëgi | 3ji	ʌɟi 
+blood: ʌɟi | 3ji	ʌɟi 
+blow: po- 
+bone: nudu | nudo	nudu 
+boy: aka wala 
+breast: e:me | EmE	ɛːmɛ 
+breast: ɛːmɛ | EmE	ɛːmɛ 
+brother: awa ilumu 
+brother: pepe 
+brother: waupe 
+burn: pedu- 
+butterfly: paypay 
+calf: taugu 
+cassowary: aruay 
+chest: oumʌ 
+chest: oumëki 
+child: aka 
+chin: mou ɟaka 
+chin: mou jaka 
+cloud: lëng | saubi 
+cloud: saubi 
+cold: nalaië(pa) | nalalʌ	nalalʌpa 
+cold: nalalʌ(pa) | nalalʌ	nalalʌpa 
+come: me- | me	me- 
+crocodile: soru 
+crocodile: wagai 
+cut: keti- 
+cut: ti- 
+dance: epi- 
+day: wesuëpa 
+day: wesuʌpa 
+die: pau- | pau	pau- 
+dig: koro- 
+dig: ol- 
+dirty: ɟikʌpa 
+dirty: jikëpa 
+dog: ma:mu | mamu	maːmu 
+dog: maːmu | mamu	maːmu 
+dry: irita 
+ear: agi raw | agi raw	agi rraw 
+ear: agi rraw | agi raw	agi rraw 
+earth: tei 
+eat: ni- 
+eat: nugulage- | ni- 
+egg: utu 
+elbow: toligou 
+emu: aruay 
+excrement: si:pu 
+eye: age:mu | 3ku	agemu	ageːmu	ʌku 
+eye: ageːmu | 3ku	agemu	ageːmu	ʌku 
+eye: ëku | 3ku	agemu	ageːmu	ʌku 
+eye: ʌku | 3ku	agemu	ageːmu	ʌku 
+face: moa 
+fall: pidi- 
+fall: ti- 
+far: sëi | sʌi 
+far: sʌi 
+father: awa 
+fat (n.): lalua 
+fear: imigi- 
+few: ilo:si 
+few: ilɔːsi 
+fight: oro- 
+fingernail: atëra 
+fingernail: atʌra 
+finger: waga 
+fire: ëku | epi	eːpi 
+fire: e:pi | epi	eːpi 
+fire: eːpi | epi	eːpi 
+fish: samuɲa | samu5a	samuɲa 
+fish: samunya | samu5a	samuɲa 
+fly (n.): kamugiri 
+fly (n.): meme:du 
+fly (n.): mɛmɛːdu 
+fly (v.): pududu- 
+fog: pudu 
+forehead: moa 
+forest: taumo 
+fruit: utu 
+full: pulëta | pul3ta	pulʌta 
+full: pulʌta | pul3ta	pulʌta 
+full: uni- | pul3ta	pulʌta 
+girl: mamugo silaki 
+give: si- 
+give: si-/t- 
+good: melitono 
+grass: jili 
+green: umuso(ba) | umuso	umusoba 
+guts: kamau 
+hair: kala 
+head: ita:nu | itaw 
+head: itaw 
+hear: esi- | esi	esi- 
+heart: wi:ni | wiːni 
+heart: wiːni 
+heavy: uːpʌ 
+heavy: u:pë | uːpʌ 
+here: iru 
+here: moi 
+he/she: nono- 
+he/she: nu 
+he/she: -ø- 
+he/she: -u- 
+hit: oro- 
+hold: tetega- 
+house: tauro 
+house: taurro 
+how: e:do 
+ice: utu 
+I: i | i	ji	ɟi 
+I: -i- | i	ji	ɟi 
+I: ɟi | i	ji	ɟi 
+I: iy- | i	ji	ɟi 
+I: (j)i | i	ji	ɟi 
+in: kamaue 
+kill: oli- 
+knee: si:gou | sigou	siːgou 
+knee: siːgou | sigou	siːgou 
+laugh: turi- 
+left: nina 
+leg: ë:u 
+leg: ʌːu 
+lightning: së:ku ya- 
+lightning: sʌːku ya- 
+lightning: --u 
+liver: kamamu 
+long: wëpë | wʌpʌ 
+long: wʌpʌ 
+louse: minyow | mi5ow 
+louse: niɲow | mi5ow 
+man: ë:i | ʌːi 
+man: ʌːi 
+man: ʌːl | ʌːi 
+many: nauwëlo | nauwʌlo 
+many: nauwʌlo 
+meat: daup 
+moon: ilama 
+morning: olibi 
+mosquito: a:si 
+mosquito: aːsi 
+mother: nay 
+mountain: nanëre | nan3re	nanʌrre	saitau 
+mountain: nanʌrre | nan3re	nanʌrre	saitau 
+mountain: saitau | nan3re	nanʌrre	saitau 
+mouth: tumaɪ 
+mouth: tumaï | tumaɪ 
+name: we:ni | wEni	wɛːni 
+name: wɛːni | wEni	wɛːni 
+nape: tu:may 
+nape: tuːmay 
+navel: suyu 
+near: tunɛn 
+neck: poːrru 
+neck: po:ru | poːrru 
+new: sëma | s3ma	sʌma 
+new: sʌma | s3ma	sʌma 
+night: sapau 
+nose: nutu 
+not: kai 
+not: kei 
+old: ibigay 
+old: imaːɟi 
+old: ima:ji 
+one: itono 
+pull: gu- 
+push: su- 
+rat: ɟiul 
+rat: jiul 
+rat: zʌbu 
+rat: zëbu 
+red: ëjipa | ʌɟipa 
+red: ʌɟipa 
+right: meli 
+ripe: aw- 
+road: jhë:lo | j3lo 
+road: ɟʌːlo | j3lo 
+root: pou 
+rope: buna 
+rope: tauno 
+salt: joi | ɟoi 
+salt: ɟoi 
+sand: alele | ulumɛɟi 
+sand: ulumɛɟi 
+sand: ulumeji | ulumɛɟi 
+say: le- | lɛ- 
+say: lɛ- 
+say: tëyo- | lɛ- 
+say: tʌyo- | lɛ- 
+scratch: oro- 
+sea: siri 
+see: ita- | o- 
+see: o- 
+sharp: manë:(pa) 
+sharp: manʌː(pa) 
+sharp: uli- 
+short: aginëki | aginʌki 
+short: aginʌki 
+shoulder: polau 
+shoulder: sakilau 
+sing: mas de- 
+sister: imamuko 
+sister: imamuko orepore 
+sit: ɟabɛl- 
+sit: jabel- | ɟabɛl- 
+skin: kauakana | kauakana	kozagau	kuakana 
+skin: kozagau | kauakana	kozagau	kuakana 
+skin: kuakana | kauakana	kozagau	kuakana 
+sky: samalu 
+sleep: iɲ- 
+sleep: iny- | iɲ- 
+small: orepore | orrepɔrre 
+small: orrepɔrre 
+smell: koi- 
+smoke: putu 
+snake: më:ni | mʌːni 
+snake: mʌːni 
+spit: doʷɛ- 
+spit: se:wi 
+spit: seːwi 
+spit: toːtɛ- 
+split: bididi- 
+stand: oto- 
+stand: pata- 
+star: pay 
+stick: bugan 
+stone: naniba 
+straight: tikini 
+sun: takaya 
+swell: nʌlu- 
+tail: mala 
+take: ti- 
+that: isa 
+there: osu 
+they: -nigi- 
+they: nili 
+they: nilil- 
+thigh: totaugu 
+think: nanusi te- 
+this: mʌ 
+this: më | mʌ 
+thou: -n- | ni 
+thou: nen- | ni 
+thou: ni 
+thou: -nigi- 
+thou: sili | ni 
+thou: sisil- | ni 
+throat: ke:riu 
+throat: keːrriu 
+throw: pite- 
+throw: pitɛ- 
+thunder: karu 
+thunder: samulu polo- 
+tie: gu- 
+tomorrow: akëma 
+tomorrow: ipoe 
+tomorrow: ipɔɛ 
+tongue: me | mE	mɛ	sileya 
+tongue: mɛ | mE	mɛ	sileya 
+tongue: sileya | mE	mɛ	sileya 
+tooth: mʌ | m3	mʌ 
+tooth: më | m3	mʌ 
+tree: e:pi | epi 
+tree: eːpi | epi 
+tree: kamuku | epi 
+tree: kata | epi 
+tree: potura | epi 
+turn: pulge- 
+two: nënaino | n3naino	nʌnaino 
+two: nʌnaino | n3naino	nʌnaino 
+vagina: oyonoy 
+walk: kidikidi oi- 
+walk: oi- 
+wallaby: supada 
+warm: putë(pa) 
+warm: putʌ(pa) 
+wash: esom- 
+wash: ɛsom- 
+wash: (uyay)es- 
+wash: (uyay)ɛs- 
+water: uyay 
+weep: meli- 
+we: -sigi- | sini 
+we: sini 
+we: -sisi- | sini 
+we: sisin- | sini 
+wet: uyë:jita 
+wet: uyʌːɟita 
+what: adea | adɛa 
+what: adɛa 
+where: anaye 
+where: anayɛ 
+white: wiëji | wiʌɟi 
+white: wiʌɟi 
+who: ëyu | ʌyu 
+who: ʌyu 
+wind: ɟagu | yauka	ɟagu 
+wind: jagua | yauka	ɟagu 
+wind: yauka | yauka	ɟagu 
+wing: ada 
+wing: zëu 
+wing: zʌu 
+woman: ɟali | oyow 
+woman: jali | oyow 
+woman: oyow 
+wood: bugan 
+wood: maɟa 
+wood: maja 
+yellow: laitʌba 
+yellow: laitëba | laitʌba 
+yesterday: aike 
+yesterday: ioke 
+yesterday: iokɛ 
+yes: you 
+you: -nigi- 
+you: sili | ni 
+you: sisil- | ni 
+every: kalili 
+ash: owɛa 
+abdomen: uku 
+bigness: atupʌːlo 
+large: atupʌːlo 
+breasts: EmE	ɛːmɛ 
+come from: me	me- 
+be dead: pau	pau- 
+dead: pau	pau- 
+ground: tei 
+land: tei 
+soil: tei 
+fly: pududu- 
+fly v.: pududu- 
+1 sg.: i	ji	ɟi 
+head louse: mi5ow 
+male: ʌːi 
+much: nauwʌlo 
+multiple: nauwʌlo 
+several: nauwʌlo 
+hill: nan3re	nanʌrre	saitau 
+title: wEni	wɛːni 
+nighttime: sapau 
+adulterous: itono 
+single: itono 
+the: itono 
+unprincipled: itono 
+path: j3lo 
+route: j3lo 
+hide: kauakana	kozagau	kuakana 
+little: orrepɔrre 
+smallness: orrepɔrre 
+rock: naniba 
+2 sg: ni 
+grind: n3naino	nʌnaino 
+go: oi- 
+1 pl. inc.: sini 
+we₁: sini 
+whiteness: wiʌɟi 
+who?: ʌyu 
+female: oyow 
+distant: sʌi 
+dull: uːpʌ 
+serious: uːpʌ 
+close: tunɛn 
+ner: tunɛn 

@@ -1,0 +1,333 @@
+all: tháŋmòt 
+every: tháŋmòt 
+ash: thâo 
+ashes: thâo 
+bark: phǐw	plʉ̀ak 
+abdomen: phuŋ 
+belly: phuŋ 
+big: too	yày 
+bigness: too	yày 
+large: too	yày 
+bird: nók	wíhòk 
+bite: kàt 
+black: dam 
+blood: loohìt	lʉ̂at 
+bone: kradùuk	kâaŋ 
+breast: nom 
+breasts: nom 
+cloud: mêek 
+cold: nǎaw	sen 
+come: maa 
+come from: maa 
+be dead: taay	waay 
+dead: taay	waay 
+die: taay	waay 
+dog: mǎa	sùnák 
+drink: dʉ̀ʉm 
+dry: hâeaeŋ 
+ear: hǔu 
+earth: din 
+ground: din 
+land: din 
+soil: din 
+eat: kin 
+egg: khày 
+eye: taa 
+feather: khǒn 
+fire: akkhanii	fay 
+fish: plaa 
+fly: bin 
+fly v.: bin 
+foot: tháaw	tiin 
+full: tem 
+give: hây 
+good: dii 
+green: khǐaw 
+hair: phǒm 
+head: hǔa 
+hear: faŋ	yin 
+heart: cay 
+horn: khǎo 
+1 sg.: chǎn	kuu 
+I: chǎn	kuu 
+kill: khâa	maláaŋ 
+knee: khào 
+be knowledgeable: rúu 
+know: rúu 
+leaf: bay 
+liver: tàp 
+long: yaaw 
+head louse: hǎo	len 
+louse: hǎo	len 
+male: chaay 
+man: khon	phûu 
+many: lǎay 
+much: lǎay 
+multiple: lǎay 
+several: lǎay 
+moon: dʉan	phrácan 
+hill: dɔɔy	khìrì	khǎo	phuu 
+mountain: dɔɔy	khìrì	khǎo	phuu 
+mouth: pàak 
+name: chʉ̂ʉ	rîak 
+title: chʉ̂ʉ	rîak 
+neck: khɔɔ	sɔ̌ɔ 
+new: mày 
+night: klaaŋkhʉʉn 
+nighttime: klaaŋkhʉʉn 
+nose: camùuk 
+not: mây 
+adulterous: nʉ̀ŋ 
+one: nʉ̀ŋ 
+single: nʉ̀ŋ 
+that: nán 
+the: nʉ̀ŋ 
+unprincipled: nʉ̀ŋ 
+human: khon	phûu 
+human being: khon	phûu 
+person: khon	phûu 
+rain: fǒn 
+rainy weather: fǒn 
+red: daeaeŋ 
+path: hǒn	thaaŋ 
+road: hǒn	thaaŋ 
+route: hǒn	thaaŋ 
+root: râak 
+round: klom	mon 
+sand: saay 
+say: bɔ̀ɔk	phûut 
+see: hěn 
+seed: mét 
+sit: nâŋ 
+hide: nǎŋ 
+skin: nǎŋ 
+sleep: nɔɔn 
+little: lék	nɔ́ɔy 
+small: lék	nɔ́ɔy 
+smallness: lék	nɔ́ɔy 
+smoke: khwan 
+star: daaraa	daaw 
+rock: hǐn 
+stone: hǐn 
+sun: phrá?aathít	tawan 
+swim: wâay 
+tail: hǎaŋ 
+this: níi 
+2 sg: mʉŋ	thəə 
+thou: mʉŋ	thəə 
+you: mʉŋ	thəə 
+tongue: lín 
+tooth: fan 
+tree: máay 
+grind: sɔ̌ɔŋ 
+two: sɔ̌ɔŋ 
+go: dəən 
+walk: dəən 
+hot: ?ùn	rɔ́ɔn 
+warm: ?ùn	rɔ́ɔn 
+water: chon	náam 
+1 pl. inc.: rao 
+we: rao 
+we₁: rao 
+what: ?aray 
+white: khǎaw 
+whiteness: khǎaw 
+who: phûuday 
+who?: phûuday 
+female: yǐŋ 
+woman: yǐŋ 
+yellow: lʉ̌aŋ 
+distant: klay 
+far: klay 
+dull: nàk 
+heavy: nàk 
+serious: nàk 
+close: klây 
+near: klây 
+ner: klây 
+salt: klʉa 
+short: sân	tîa 
+snake: ŋuu 
+thin: baaŋ 
+wind: lom 
+earthworm: nɔ̌ɔn 
+worm: nɔ̌ɔn 
+year: khùap	pii 
+3 sg.: kháo 
+he: kháo 
+she: kháo 
+2 pl.: phûakkhun 
+ye: phûakkhun 
+you all: phûakkhun 
+3 pl.: phûakkháo 
+they: phûakkháo 
+here: thîinîi 
+there: thîinân 
+where: thîiday 
+where?: thîiday 
+when: mʉ̂aday 
+when?: mʉ̂aday 
+how: yàaŋray 
+how?: yàaŋray 
+some: bâaŋ 
+few: sɔ̌ɔŋsǎam 
+other: ?ʉ̀ʉn 
+three: sǎam 
+four: sìi 
+five: hâa 
+broad: kwâaŋ 
+wide: kwâaŋ 
+wideness: kwâaŋ 
+fat: man 
+thick: nǎa 
+narrow: khâeaep 
+child: dèk	sìsù 
+principal wife: mia	phanrayaa 
+wife: mia	phanrayaa 
+husband: phǔa	sǎamii 
+his mother: mâeae 
+mother: mâeae 
+my mother: mâeae 
+father: bìdaa	phɔ̂ɔ 
+his father: bìdaa	phɔ̂ɔ 
+my father: bìdaa	phɔ̂ɔ 
+animal: sàt 
+forest: doŋ	pàa 
+woods: doŋ	pàa 
+branch: kìŋ 
+stick: kìŋ 
+fruit: màak 
+flower: dɔ̀ɔk	plii 
+grass: yâa 
+cord: chʉ̂ak 
+rope: chʉ̂ak 
+flesh: nʉ́a 
+meat: nʉ́a 
+grease: man 
+claw: lép 
+fingernail: lép 
+nail: lép 
+leg: khǎa 
+arm: mʉʉ 
+hand: mʉʉ 
+wing: pìik 
+gut: sây 
+guts: sây 
+insides: sây 
+intestine: sây 
+intestines: sây 
+back: lǎŋ 
+suck: dùut 
+spit: khaay	thòm 
+vomit: ?aacian	?ûak 
+blow: phát 
+breath: hǎaycay 
+breathe: hǎaycay 
+laugh: hǔarɔ́ 
+laughter: hǔarɔ́ 
+cogitate: ?àan	khít 
+reflect: ?àan	khít 
+think: ?àan	khít 
+smell: miiklìn 
+sniff: miiklìn 
+afraid: klua	yân 
+be afraid: klua	yân 
+fear: klua	yân 
+fright: klua	yân 
+alive: ?aasǎi	yùu 
+be alive: ?aasǎi	yùu 
+life: ?aasǎi	yùu 
+live: ?aasǎi	yùu 
+living: ?aasǎi	yùu 
+fight: róp	sûu 
+hunt: lâa 
+beat: tii 
+hit: tii 
+strike: tii 
+cut: bàat	tàt 
+hack: bàat	tàt 
+cut open: phàa 
+split: phàa 
+pierce: sìap	thaeaeŋ 
+stab: sìap	thaeaeŋ 
+scratch: kao 
+dig: khùt 
+lie: nɔɔn 
+lie down: nɔɔn 
+tell lies: nɔɔn 
+stand: yʉʉn 
+turn: hǎn 
+turn around: hǎn 
+turn round: hǎn 
+drop: lòn	tòk 
+fall: lòn	tòk 
+grasp: ?ûm 
+hold: ?ûm 
+hold in arm: ?ûm 
+squeeze: khán 
+wring: khán 
+rub: nûat	thǔu 
+wipe: chét 
+wash: láaŋ 
+wash clothes: láaŋ 
+pull: dʉŋ	lâak 
+push: phlàk 
+shove: phlàk 
+throw: khwâaŋ	paa 
+bind: lâam	phùuk 
+fasten: lâam	phùuk 
+tie: lâam	phùuk 
+tie up: lâam	phùuk 
+sew: yép 
+count: náp 
+enumerate: náp 
+number: náp 
+tally: náp 
+sing: khàp	rɔ́ɔŋ 
+have fun: lên 
+play: lên 
+float: lɔɔy 
+flow: lǎy 
+freeze: khǎeŋ 
+swell: tùm 
+brook: mâenáam	náthii 
+river: mâenáam	náthii 
+stream: mâenáam	náthii 
+lake: thaleesàap 
+ocean: mahǎasamùt	thalee 
+sea: mahǎasamùt	thalee 
+dust: fùn	thúlii 
+fog: mɔ̀ɔk 
+sky: fáa	napā 
+snow: himá 
+ice: náamkhǎeŋ 
+blaze: phǎo 
+burn: phǎo 
+day: klaaŋwan 
+daylight: klaaŋwan 
+daytime: klaaŋwan 
+old: kàeae	thâo 
+bad: leew	ráay 
+evil: leew	ráay 
+rot: nâo 
+rotten: nâo 
+dirty: sòkkapròk 
+filthy: sòkkapròk 
+soiled: sòkkapròk 
+straight: dìŋ	troŋ 
+sharp: khom 
+blunt: thʉ̂ʉ 
+smooth: lamun 
+damp: pìak 
+wet: pìak 
+correct: mâeaen	tháeae 
+right: khwǎa 
+right side: khwǎa 
+left: sáay 
+at: thîi 
+in: nay 
+inside: nay 
+with: dûay	kàp 
+and: láe 
+if: phʉ̀a	thâa 
+because: dûay	phrɔ́ 

@@ -1,0 +1,360 @@
+all: konufënma | kɔnufʌnma	pafele 
+all: kɔnufʌnma | kɔnufʌnma	pafele 
+all: pafele | kɔnufʌnma	pafele 
+arm: enaː 
+arm: enaa 
+arm: enën 
+arm: enʌn 
+ashes: mi͂mi | mimu	mĩmi 
+ashes: mimu | mimu	mĩmi 
+back: fëin 
+back: fʌin 
+bark: fulu | fulu	tɔua fulu 
+bark: (tòua) fulu | fulu	tɔua fulu 
+bark: tɔua gulu | fulu	tɔua fulu 
+belly: saga | saga	sʌɣʌn 
+belly: sëghën | saga	sʌɣʌn 
+belly: sʌɣʌn | saga	sʌɣʌn 
+big: gosin | gɔsin	suni 
+big: gɔsin | gɔsin	suni 
+big: suni | gɔsin	suni 
+bird: aka | aka	pitʌkʌ 
+bird: pitëkë | aka	pitʌkʌ 
+bird: pitʌkʌ | aka	pitʌkʌ 
+bite: hiliuò | hiliuɔ	kalesi 
+bite: hiliuɔ | hiliuɔ	kalesi 
+bite: kalesi | hiliuɔ	kalesi 
+black: omisi | omisi	ɔmusin 
+black: omusin | omisi	ɔmusin 
+black: ɔmusin | omisi	ɔmusin 
+blood: sokoya | sokoya	yeso	yesʌ 
+blood: yesʌ | sokoya	yeso	yesʌ 
+blood: yesë | sokoya	yeso	yesʌ 
+bone: hakale | hakale	hoxoLe	hʌɣʌle 
+bone: hëghële | hakale	hoxoLe	hʌɣʌle 
+bone: hʌɣʌle | hakale	hoxoLe	hʌɣʌle 
+breast: alu | alu	oLu	ʌlu 
+breast: ëlu | alu	oLu	ʌlu 
+breast: ʌlu | alu	oLu	ʌlu 
+burn: touë të 
+burn: touʌ tʌ 
+burn: towa tosi 
+cassowary: uguruë 
+claw: kipa | kipa	pitʌkʌ kipʌ 
+claw: pitëkë kip(a) | kipa	pitʌkʌ kipʌ 
+claw: pitʌkʌ kipʌ | kipa	pitʌkʌ kipʌ 
+cloud: ginu | ginu	niguwi 
+cloud: niguwi | ginu	niguwi 
+cold: asolo | asolo	ʌsɔrɔ 
+cold: ësoro | asolo	ʌsɔrɔ 
+cold: ʌsɔrɔ | asolo	ʌsɔrɔ 
+come: fai | fai	fosi 
+come: fosi | fai	fosi 
+die: ola | olã 
+die: ola͂ | olã 
+dog: òghòpi | oxopi	yau	ɔɣɔpi 
+dog: ɔɣɔpi | oxopi	yau	ɔɣɔpi 
+dog: yau | oxopi	yau	ɔɣɔpi 
+drink: baiyukuno sona 
+drink: baiyukuno sono | baiyukuno sona 
+dry: himeipa 
+dry: liao | himeipa 
+ear: hona | hona	honon	hɔnʌn 
+ear: honën | hona	honon	hɔnʌn 
+ear: hɔnʌn | hona	honon	hɔnʌn 
+earth: yumguën | yumukã	yũmuʌ̃n 
+earth: yumuka | yumukã	yũmuʌ̃n 
+earth: yumuka͂ | yumukã	yũmuʌ̃n 
+earth: yu͂muʌ͂n | yumukã	yũmuʌ̃n 
+eat: na͂ | nosiː	nã 
+eat: nã | nosiː	nã 
+eat: nosiː | nosiː	nã 
+eat: nosii | nosiː	nã 
+egg: oːndi | oːndi	pitʌkʌ ɔ̃udi 
+egg: oondi | oːndi	pitʌkʌ ɔ̃udi 
+egg: pitëkë òunh.di | oːndi	pitʌkʌ ɔ̃udi 
+egg: pitʌkʌ ɔ͂udi | oːndi	pitʌkʌ ɔ̃udi 
+emu: uguruʌ 
+eye: kina | kina	kinon	kiːnʌn 
+eye: ki:nën | kina	kinon	kiːnʌn 
+eye: kiːnʌn | kina	kinon	kiːnʌn 
+father: ëtë 
+father: ʌtʌ 
+fat (n.): mun.guën 
+fat (n.): munguʌn 
+fat (n.): telapa 
+feather: heepi | heːpi	pitʌkʌ elika 
+feather: heːpi | heːpi	pitʌkʌ elika 
+feather: pitëkë elika | heːpi	pitʌkʌ elika 
+feather: pitʌkʌ elika | heːpi	pitʌkʌ elika 
+fire: dowada | dowa-da	toun	tɔu-n 
+fire: tòun | dowa-da	toun	tɔu-n 
+fire: tɔun | dowa-da	toun	tɔu-n 
+fish: hei | hEi	hei	hɛi 
+fish: hèi | hEi	hei	hɛi 
+fish: hɛi | hEi	hei	hɛi 
+fly (v.): pitëkë mogh 
+fly (v.): pitʌkʌ mɔɣɔsi 
+fly (v.): sele mokosi 
+full: kolungwila | kolungwila	pekenNau	pekenŋʌu 
+full: peken.ngëu | kolungwila	pekenNau	pekenŋʌu 
+full: pekenŋʌu | kolungwila	pekenNau	pekenŋʌu 
+give: neimaka | neimaka	sifʌ 
+give: sifʌ | neimaka	sifʌ 
+give: sifë | neimaka	sifʌ 
+good: homako | homako	hɔmʌgʌnumun 
+good: homëgënumun | homako	hɔmʌgʌnumun 
+good: hɔmʌgʌnumun | homako	hɔmʌgʌnumun 
+green: garën | garʌn	kakala 
+green: garʌn | garʌn	kakala 
+green: kakala | garʌn	kakala 
+hair: heepi | heːpi	yelʌ elika 
+hair: heːpi | heːpi	yelʌ elika 
+hair: yelë elika | heːpi	yelʌ elika 
+hair: yelʌ elika | heːpi	yelʌ elika 
+head: yelʌ | yela	yelʌ 
+head: yela | yela	yelʌ 
+head: yelä | yela	yelʌ 
+heart: ikingoi 
+hear: wakisi | wakisi	wokeisi	wʌkeisi 
+hear: wëkeisi | wakisi	wokeisi	wʌkeisi 
+hear: wʌkeisi | wakisi	wokeisi	wʌkeisi 
+I: no | no	nɔ 
+I: nò | no	nɔ 
+I: nɔ | no	nɔ 
+kill: folusaka | folusakã	hɔlukenɔ 
+kill: folusaka͂ | folusakã	hɔlukenɔ 
+kill: holukeno | folusakã	hɔlukenɔ 
+kill: hɔlukenɔ | folusakã	hɔlukenɔ 
+knee: omëmukun | omomukun	owamogo	ɔmʌmukun 
+knee: ɔmʌmukun | omomukun	owamogo	ɔmʌmukun 
+knee: owamogo | omomukun	owamogo	ɔmʌmukun 
+know: houn | houn	waː 
+know: waː | houn	waː 
+know: waa | houn	waː 
+leaf: heepi | heːpi	iLiko	tɔuʌ ilikʌ 
+leaf: heːpi | heːpi	iLiko	tɔuʌ ilikʌ 
+leaf: touë ilikë | heːpi	iLiko	tɔuʌ ilikʌ 
+leaf: tɔuʌ ilikʌ | heːpi	iLiko	tɔuʌ ilikʌ 
+leg: yahei 
+leg: yehei 
+leg: yehëi 
+leg: yehʌi 
+lie: holupa | holu-pa	houlu-bʌ 
+lie: holu-pa | holu-pa	houlu-bʌ 
+lie: houlubʌ | holu-pa	houlu-bʌ 
+lie: houlu-bë | holu-pa	houlu-bʌ 
+liver: eeni | eːni 
+liver: eːni 
+long: ulua 
+louse: fando | fiLo 
+louse: filʌ | fiLo 
+louse: filë | fiLo 
+man: ami | omi*	tou 
+man: ëminh | omi*	tou 
+man: ʌmi͂ | omi*	tou 
+many: ka:sinumën | kaːsinumʌn	suninama 
+many: kaːsinumʌn | kaːsinumʌn	suninama 
+many: suninama | kaːsinumʌn	suninama 
+meat: pini 
+meat: pi͂ni 
+meat: poka 
+moon: kaiyuː | kaiyuː	kʌiu 
+moon: kaiyuu | kaiyuː	kʌiu 
+moon: këiu | kaiyuː	kʌiu 
+moon: kʌlu | kaiyuː	kʌiu 
+mother: emʌ 
+mother: emë 
+mountain: kalia | kalia	korio	kʌriʌ 
+mountain: kërië | kalia	korio	kʌriʌ 
+mountain: kʌriʌ | kalia	korio	kʌriʌ 
+mouth: minɣa | minɣa	siːla 
+mouth: min.gha | minɣa	siːla 
+mouth: siili | minɣa	siːla 
+mouth: siːla | minɣa	siːla 
+name: ëmin | omi*n	yaga	ʌmĩn 
+name: ʌmi͂n | omi*n	yaga	ʌmĩn 
+name: yaga | omi*n	yaga	ʌmĩn 
+neck: daafa | daːfã	tʌfãn 
+neck: daːfa͂ | daːfã	tʌfãn 
+neck: tëfãn | daːfã	tʌfãn 
+neck: tʌfa͂n | daːfã	tʌfãn 
+new: sëghën | sokõũ	soxon	sʌɣʌn 
+new: sʌɣʌn | sokõũ	soxon	sʌɣʌn 
+new: sokou | sokõũ	soxon	sʌɣʌn 
+new: soko͂u͂ | sokõũ	soxon	sʌɣʌn 
+night: ɔ͂mɔtɔkɔn | o*motokon	omutogoː	ɔ̃mɔtɔkɔn 
+night: omutogoː | o*motokon	omutogoː	ɔ̃mɔtɔkɔn 
+night: omutogoo | o*motokon	omutogoː	ɔ̃mɔtɔkɔn 
+night: ònh.mòtòkòn | o*motokon	omutogoː	ɔ̃mɔtɔkɔn 
+nose: kuuma | kuːma	pfouLu	pfoulu 
+nose: pfoulu | kuːma	pfouLu	pfoulu 
+not: e͂heː | mɛ	ẽheː 
+not: ehee | mɛ	ẽheː 
+not: mè | mɛ	ẽheː 
+not: mɛ | mɛ	ẽheː 
+one: mosë kòmë | moso	moso komo	mɔsʌ kɔmʌ 
+one: mɔsʌ kɔmʌ | moso	moso komo	mɔsʌ kɔmʌ 
+one: moso | moso	moso komo	mɔsʌ kɔmʌ 
+person: tou | omi*	tou 
+rain: paiyuku | paiyuku	pʌiuku-fɔsi 
+rain: pëiuku-fòsi | paiyuku	pʌiuku-fɔsi 
+rain: pʌiukufɔsi | paiyuku	pʌiuku-fɔsi 
+red: gërën | gʌrʌn	sokoya 
+red: gʌrʌn | gʌrʌn	sokoya 
+red: sokoya | gʌrʌn	sokoya 
+road: hoːna | ho*na 
+road: hòna | ho*na 
+road: hɔ͂na | ho*na 
+road: hoona | ho*na 
+root: dako | dako	tɔuʌ tʌɣɔ 
+root: dalo | dako	tɔuʌ tʌɣɔ 
+root: tòuë tëghò | dako	tɔuʌ tʌɣɔ 
+root: tɔuʌ tʌɣɔ | dako	tɔuʌ tʌɣɔ 
+round: sitete 
+say: nʌtɔsi 
+say: tosona 
+say: tosona , nëtosi 
+seed: touë ondi | tɔuʌ ɔndi	yukupa 
+seed: tɔuʌ ɔndi | tɔuʌ ɔndi	yukupa 
+seed: yukupa | tɔuʌ ɔndi	yukupa 
+see: haka sina | haka sina	hoxo	hʌɣʌ-bʌ 
+see: hʌɣʌbʌ | haka sina	hoxo	hʌɣʌ-bʌ 
+see: hëghë-bë | haka sina	hoxo	hʌɣʌ-bʌ 
+shoulder: peni 
+sit: soːga | soːga	sɔɣɔ-bʌ 
+sit: sòghò-bë | soːga	sɔɣɔ-bʌ 
+sit: sɔɣɔbʌ | soːga	sɔɣɔ-bʌ 
+sit: sooga | soːga	sɔɣɔ-bʌ 
+skin: hugwa | hugwa	hukuon	hukuʌn 
+skin: hukuën | hugwa	hukuon	hukuʌn 
+skin: hukuʌn | hugwa	hukuon	hukuʌn 
+skin: hukwan | hugwa	hukuon	hukuʌn 
+sleep: holua | holua	houlu-bʌ 
+sleep: houlubʌ | holua	houlu-bʌ 
+sleep: houlu-bë | holua	houlu-bʌ 
+small: hitipʌ | hitipa	hitipʌ 
+small: hitipa | hitipa	hitipʌ 
+small: hitipë | hitipa	hitipʌ 
+smoke: suku | suku	sukupʌ 
+smoke: sukupʌ | suku	sukupʌ 
+smoke: suku(pë) | suku	sukupʌ 
+stand: selʌbʌ 
+stand: selëbë 
+stand: yei 
+star: yelegaya | yelegaya	yoLogoi*o	yʌlʌgʌĩʌ 
+star: yëlëgëië | yelegaya	yoLogoi*o	yʌlʌgʌĩʌ 
+star: yʌlʌgʌi͂ʌ | yelegaya	yoLogoi*o	yʌlʌgʌĩʌ 
+stone: haana | haːna	hono	hʌnʌ 
+stone: haːna | haːna	hono	hʌnʌ 
+stone: hënë | haːna	hono	hʌnʌ 
+stone: hʌnʌ | haːna	hono	hʌnʌ 
+sun: owa | owa	ɔwa 
+sun: òwa | owa	ɔwa 
+sun: ɔwa | owa	ɔwa 
+swim: enou wënmëghë | enou wʌnmʌɣʌ	paiyuku 
+swim: enou wʌnmʌɣʌ | enou wʌnmʌɣʌ	paiyuku 
+swim: paiyuku | enou wʌnmʌɣʌ	paiyuku 
+tail: houe | houe	pila hakale 
+tail: pia hakale | houe	pila hakale 
+tail: pila hakale | houe	pila hakale 
+that: ahoː | ahoː	duhu 
+that: ahoo | ahoː	duhu 
+that: duhu | ahoː	duhu 
+this: duhu | duhu	uː 
+this: uː | duhu	uː 
+this: uu | duhu	uː 
+thou: ko | ko	kɔ 
+thou: kɔ | ko	kɔ 
+tongue: iki(n) | ikin	kiki	ɪkn 
+tongue: kiki | ikin	kiki	ɪkn 
+tongue: ɪkn | ikin	kiki	ɪkn 
+tooth: yagai | yagai	yokoi	yʌkʌki 
+tooth: yëkëi | yagai	yokoi	yʌkʌki 
+tooth: yʌkʌki | yagai	yokoi	yʌkʌki 
+tree: dowa | touo 
+tree: tɔuʌ | touo 
+tree: tòuë | touo 
+two: efën | efon	efʌn	yeefa	yeːfa 
+two: efʌn | efon	efʌn	yeefa	yeːfa 
+two: yeefa | efon	efʌn	yeefa	yeːfa 
+two: yeːfa | efon	efʌn	yeefa	yeːfa 
+walk: mʌɣʌ | mʌɣʌ	wagainaga 
+walk: mëghë | mʌɣʌ	wagainaga 
+walk: wagainaga | mʌɣʌ	wagainaga 
+warm: to 
+warm: toro 
+warm: tɔrɔ 
+water: paiyuku | paiyuku	poiuku	pʌiuku 
+water: pëiuku | paiyuku	poiuku	pʌiuku 
+water: pʌluku | paiyuku	poiuku	pʌiuku 
+we: enu | enu	inu 
+we (incl.): inu 
+what: gemena | gemena	kemenʌ 
+what: kemenʌ | gemena	kemenʌ 
+what: kemenë | gemena	kemenʌ 
+white: hwulun | hwulun	kakala 
+white: kakala | hwulun	kakala 
+who: kɔpʌ | kɔpʌ	pa 
+who: kòpë | kɔpʌ	pa 
+who: pa | kɔpʌ	pa 
+wing: pitëkë fël 
+wing: pitʌkʌ fʌlʌn 
+woman: i͂miʌ | imya	ĩmiʌ 
+woman: imya | imya	ĩmiʌ 
+woman: inh.mië | imya	ĩmiʌ 
+yellow: fëwun | fʌwun	kakala 
+yellow: fʌwun | fʌwun	kakala 
+yellow: kakala | fʌwun	kakala 
+every: kɔnufʌnma	pafele 
+ash: mimu	mĩmi 
+abdomen: saga	sʌɣʌn 
+bigness: gɔsin	suni 
+large: gɔsin	suni 
+breasts: alu	oLu	ʌlu 
+nail: kipa	pitʌkʌ kipʌ 
+talon: kipa	pitʌkʌ kipʌ 
+come from: fai	fosi 
+be dead: olã 
+dead: olã 
+ground: yumukã	yũmuʌ̃n 
+land: yumukã	yũmuʌ̃n 
+soil: yumukã	yũmuʌ̃n 
+fly: pitʌkʌ mɔɣɔsi	sele mokosi 
+fly v.: pitʌkʌ mɔɣɔsi	sele mokosi 
+hand: enon 
+left hand: enon 
+right: enon 
+1 sg.: no	nɔ 
+be knowledgeable: houn	waː 
+lie down: holu-pa	houlu-bʌ 
+head louse: fiLo 
+male: ami	ʌmĩ 
+much: kaːsinumʌn	suninama 
+multiple: kaːsinumʌn	suninama 
+several: kaːsinumʌn	suninama 
+hill: kalia	korio	kʌriʌ 
+title: omi*n	yaga	ʌmĩn 
+nighttime: o*motokon	omutogoː	ɔ̃mɔtɔkɔn 
+adulterous: moso	moso komo	mɔsʌ kɔmʌ 
+single: moso	moso komo	mɔsʌ kɔmʌ 
+the: moso	moso komo	mɔsʌ kɔmʌ 
+unprincipled: moso	moso komo	mɔsʌ kɔmʌ 
+human: omi*	tou 
+human being: omi*	tou 
+rainy weather: paiyuku	pʌiuku-fɔsi 
+path: ho*na 
+route: ho*na 
+hide: hugwa	hukuon	hukuʌn 
+little: hitipa	hitipʌ 
+smallness: hitipa	hitipʌ 
+rock: haːna	hono	hʌnʌ 
+2 sg: ko	kɔ 
+you: ko	kɔ 
+grind: efon	efʌn	yeefa	yeːfa 
+go: mʌɣʌ	wagainaga 
+1 pl. inc.: enu	inu 
+we₁: enu	inu 
+whiteness: hwulun	kakala 
+who?: kɔpʌ	pa 
+female: imya	ĩmiʌ 

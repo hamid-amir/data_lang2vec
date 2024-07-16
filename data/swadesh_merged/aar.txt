@@ -1,0 +1,324 @@
+all: kul\li | kulʼli	tə́ː-lä-máːraː	ɪnki 
+all: ɪnki | kulʼli	tə́ː-lä-máːraː	ɪnki 
+animal: a\li | aʼli	laː 
+ashes: gomúd | gomúd	gəmbóːd 
+bark: ʕallóː | ängiróː	ʕallóː 
+belly: bə́gu | bágəː	bə́gu	garbá	gədä́ː 
+big: kaɗ\ɗa | adar	kaɗʼɗa	nab 
+bird: kimmiro | kimbiróː	kimmiro 
+bite: aréh | ar	aréh	kam 
+black: dətá | dat	dətá 
+blood: abə́la | X3b3l	Xabal	ab3la	abáːlaː	abə́la 
+bone: la\fa | l3f3	l3fa	lafa	lafáː	laʼfa	ləfá 
+bone: ləfá | l3f3	l3fa	lafa	lafáː	laʼfa	ləfá 
+breast: angú | 3Ng~u	agaboːytá-t angəːg	angu	angú 
+burn: harar˗isé | ər 
+child: awka | awʼka	də̂kaː	ʼawka 
+child: aw\ka | awʼka	də̂kaː	ʼawka 
+claw: lifíʕi | lifíʕ	lifíʕi 
+cloud: ʕammuréː | ambərä́	darə́ːr	ʕammuréː 
+cold: waħ | báːridä	waħ 
+come: emeːt | EmEt	emete	emeːt	ma	masoː	mat	matar 
+cut: irgi\ʕe | garaʕ	irgiʼʕe	kataf 
+day: li\Go 
+die: rab | r3b	r3be	rab	raːb	y-emeté 
+die: raba | r3b	r3be	rab	raːb	y-emeté 
+die: y˗emeté | r3b	r3be	rab	raːb	y-emeté 
+dig: da\g | dag	daʼg 
+dog: kúta | kut3	kuta	kúta	kə́ːtaː 
+drink: y˗oʕobé | 3Xub	aXub	fəʕ	oXobe	y-oʕobé	ʕab 
+dry: kəfini | kəfini	lay hiːn	yəbə́ːs 
+ear: aytí | 3ti	ati	aytí	áyti 
+eat: okom | bäː-t	kam	okom	y-okomé 
+eat: y˗okomé | bäː-t	kam	okom	y-okomé 
+egg: gələló | gələló	lanáː	lälím 
+eye: intíː | int~i	intíː 
+father: ábba | ábba	ábbaː 
+fat (n.): gəbuːlu 
+fire: gera | gera	gir3	gira	gíːraː	gɪra 
+fire: gɪra | gera	gir3	gira	gíːraː	gɪra 
+fish: kullún˗ta | kullún-ta	kulun	kulunt~3	kulunt~a	kə́lləm 
+five: koː\na | konóy-u	koːno˞ːwəː	koːʼna 
+fly (n.): kaʕáy˗to 
+foot: iba | iba	lak	íːba 
+four: affa\ra | affaʼra	firéy-i	färä́y 
+give: y˗eħe | y-eħe 
+good: meʕé | meʕé	meʼɢe	mäʕä́	äʕä́ː 
+good: me\Ge | meʕé	meʼɢe	mäʕä́	äʕä́ː 
+grass: ʕaysóː | aysóː	makál	ʕaysóː 
+hair: də́guːru | də́guːru	táːgoːr 
+hand: a\mogəbáː | aʼmogəbáː	g3b3	g3ba	gaba	gabáː 
+head: amoː | amoː	amóː	amə́ː	hángal 
+hear: oːbb | ab	obe	obiy	oːbb	y-obbé 
+heart: a\lilaliːli | afʕadóː	aʼlilaliːli	báːgə	garbáː	wadanáː 
+hear: y˗obbé | ab	obe	obiy	oːbb	y-obbé 
+he/she: is 
+he/she: ka 
+he/she: kay 
+he/she: \tet 
+he/she: tet(eː) 
+he/she: usuk 
+hit: o\gor | gar	kaːħ	oʼgor	tak	ʕayd 
+horn: gayse | g3s3	gasa	gase	gaysaː	gayse 
+I: anú | 3nu	anu	anú	anə́ː	ínniː 
+I: ji | 3nu	anu	anú	anə́ː	ínniː 
+I: yo | 3nu	anu	anú	anə́ː	ínniː 
+kill: agga\f  (ʔ) | aggaʼf	gadaf	gar	ʕayd	ʕäːd 
+know: eːdeg | däʕ	eːdeg	y-adʼɪgé	ḍaʕ 
+know: y˗ad\ɪgé | däʕ	eːdeg	y-adʼɪgé	ḍaʕ 
+laugh: usuːl | sahaq	usuːl 
+leaf: ayuf | 3yuft3	ayuf	ayufta	dálaː	soroːbilä́ː 
+liver: ti\ro | tiraə̂	tiro	tiróː	tiʼro 
+liver: tiróː | tiraə̂	tiro	tiróː	tiʼro 
+long: der | adar	dʼerí	kalad	ḍäḷ 
+long: d\erí | adar	dʼerí	kalad	ḍäḷ 
+louse: ɪnk̩ʕ(˗tá) | iNk~3XE	inkaX	inkaXE 
+man: num | häyóːtəː	s3X3d3tu	saXadatu	sihadatu 
+man: siha˗dáytu | häyóːtəː	s3X3d3tu	saXadatu	sihadatu 
+many: məngó | kib	käb	mang	məngó 
+meat: ħad\oː | hadóː	ħadʼoː 
+moon: alsá | alsá	álsaː 
+mountain: ʕaléː | X3lE	XalE	Xale	alä́ː	ɢaʼle	ʕaléː 
+mountain: Ga\le | X3lE	XalE	Xale	alä́ː	ɢaʼle	ʕaléː 
+mountain: Gis\si | X3lE	XalE	Xale	alä́ː	ɢaʼle	ʕaléː 
+mouth: áf | af	áf 
+name: mígaʕ | mig3X3	migaX	migaXa	migáːʕ	mígaʕ 
+neck: filla | filla	fíllaː 
+new: Gus\ba | Xusb3	Xusba	Xusiba	hadíːs	ɢusʼba	ʕusɪbá 
+new: ʕusɪbá | Xusb3	Xusba	Xusiba	hadíːs	ɢusʼba	ʕusɪbá 
+night: bara | b3r	b3ra	bar	baːr	bəra	ʼbara 
+night: bəra | b3r	b3ra	bar	baːr	bəra	ʼbara 
+one: ɪnéki | iNk~i	ineki	inki	iník	iník-i	ɪnki	ɪnéki 
+one: ɪnki | iNk~i	ineki	inki	iník	iník-i	ɪnki	ɪnéki 
+other: rob | akíː	rob 
+rain: rob | rob	roːb 
+red: ʕasa | as	ɢaʼsa	ʕasa 
+red: Ga\sa | as	ɢaʼsa	ʕasa 
+road: gíta | git3	gita 
+root: rəmíddu | rimíd	rəmíddu 
+sand: ʕiddé | rámili	ʕiddé 
+say: eɗhiyyéh | a	eɗhiyyéh	iː	ḍah | rámili	ʕiddé 
+seed: zə́rɪʔi | zə́rɪʔi 
+see: u\bɪ (ʔ) | 3bul	abul	bal	ubule	uʼbɪ	y-ubulé 
+see: y˗ubulé | 3bul	abul	bal	ubule	uʼbɪ	y-ubulé 
+sit: dəfé | dafäy	dəfé 
+skin: gəlbó | 3r3b	arab	g3lbo	galabóː	gəlbó	qarbóː	áräbaː 
+sleep: inaʕité | diːn	inaʕité	ḍiːn 
+small: Gun\d | undá	ənd	ɢunʼd	ʕəṇḍ 
+small: undá | undá	ənd	ɢunʼd	ʕəṇḍ 
+smoke: ʕér | ʕä́ːriː	ʕér 
+snake: bad\ot˗ala | abäsáː	badʼot-ala	wárrəː	álaː 
+stand: soː\l | daə̂	solé	soːl	soːʼl 
+stand: solé | daə̂	solé	soːl	soːʼl 
+star: ħutúkta | Xutuk	Xutukta	hɔtə́ːk	ħutúkta 
+stone: d\a | Ta	d3	da	dʼa	ḍaː 
+sun: ayroː | 3ro	aro	ayroː	ayróː 
+swim: gíːr˗ise | gíːr-ise 
+tail: géra | gä́raː	géra	sáraː 
+they: ken | óssoːn	ə́ssəːn	ʼoson 
+they: oson | óssoːn	ə́ssəːn	ʼoson 
+thigh: lak 
+thin: ʕundá | ʕundá 
+this: ah | ah	amáː	ay	aː	tamá	taː	áha-m 
+this: áha˗m | ah	amáː	ay	aː	tamá	taː	áha-m 
+thou: átu | 3tu	atu	atə́ː	átu 
+three: fɨré | fɨré	sidiʼɦa	sidóx-u	sidəhəː 
+three: sidi\ɦa | fɨré	sidiʼɦa	sidóx-u	sidəhəː 
+tongue: arrabáː | 3r3b3	araba	arrabá	arrabáː 
+tooth: moddina | ikóː	moddina	modin3	modina 
+tree: ħad\a | XaTa	h3d3	hada 
+two: nam\ma | l3m3y	lamay	namaya	nammáy-a	namáːyaː	namʼma	námmaya 
+two: námmaya | l3m3y	lamay	namaya	nammáy-a	namáːyaː	namʼma	námmaya 
+walk: geɗ 
+walk: gəd\é 
+warm: niʕiní | laʕ	niʕiní 
+water: lé | lE	le	läy	lé 
+we: ine | n3nu	nanu 
+we: nanú | n3nu	nanu 
+we: ni | n3nu	nanu 
+wet: winí | winí 
+what: maħá | aː	maháː	maħá 
+white: ʕado | adoːy	ɢaʼdo	ʕado 
+white: Ga\do | adoːy	ɢaʼdo	ʕado 
+who: iyyay | iyyay	maː	íːyaː	ʼiyya-y 
+who: iyya˗y | iyyay	maː	íːyaː	ʼiyya-y 
+woman: barrá | agaboːytáː	barrá 
+you: isin | 3tu	atu	atə́ː	átu | isin	ìssiːníː	íssiːn 
+you: sin | 3tu	atu	atə́ː	átu | isin	ìssiːníː	íssiːn 
+every: kulʼli	tə́ː-lä-máːraː	ɪnki 
+ash: gomúd	gəmbóːd 
+abdomen: bágəː	bə́gu	garbá	gədä́ː 
+bigness: adar	kaɗʼɗa	nab 
+large: adar	kaɗʼɗa	nab 
+breasts: 3Ng~u	agaboːytá-t angəːg	angu	angú 
+nail: lifíʕ	lifíʕi 
+talon: lifíʕ	lifíʕi 
+come from: EmEt	emete	emeːt	ma	masoː	mat	matar 
+be dead: r3b	r3be	rab	raːb	y-emeté 
+dead: r3b	r3be	rab	raːb	y-emeté 
+feather: taːgóːr-taː 
+full: mang 
+left hand: aʼmogəbáː	g3b3	g3ba	gaba	gabáː 
+right: aʼmogəbáː	g3b3	g3ba	gaba	gabáː 
+1 sg.: 3nu	anu	anú	anə́ː	ínniː 
+knee: gulub	gələ́n 
+be knowledgeable: däʕ	eːdeg	y-adʼɪgé	ḍaʕ 
+head louse: iNk~3XE	inkaX	inkaXE 
+male: laba-háː-ytəː	nəːm	siha-dáytu	ʼnum 
+much: kib	käb	mang	məngó 
+multiple: kib	käb	mang	məngó 
+several: kib	käb	mang	məngó 
+hill: X3lE	XalE	Xale	alä́ː	ɢaʼle	ʕaléː 
+title: mig3X3	migaX	migaXa	migáːʕ	mígaʕ 
+nighttime: b3r	b3ra	bar	baːr	bəra	ʼbara 
+nose: s3n	s3na	san	ɪnéki 
+not: -in	maː- 
+adulterous: iNk~i	ineki	inki	iník	iník-i	ɪnki	ɪnéki 
+single: iNk~i	ineki	inki	iník	iník-i	ɪnki	ɪnéki 
+that: oː	toː	woː 
+the: iNk~i	ineki	inki	iník	iník-i	ɪnki	ɪnéki 
+unprincipled: iNk~i	ineki	inki	iník	iník-i	ɪnki	ɪnéki 
+human: häyóːtəː	s3X3d3tu	saXadatu	sihadatu 
+human being: häyóːtəː	s3X3d3tu	saXadatu	sihadatu 
+person: häyóːtəː	s3X3d3tu	saXadatu	sihadatu 
+rainy weather: rob	roːb 
+path: git3	gita 
+route: git3	gita 
+hide: 3r3b	arab	g3lbo	galabóː	gəlbó	qarbóː	áräbaː 
+little: undá	ənd	ɢunʼd	ʕəṇḍ 
+smallness: undá	ənd	ɢunʼd	ʕəṇḍ 
+rock: Ta	d3	da	dʼa	ḍaː 
+2 sg: 3tu	atu	atə́ː	átu 
+grind: l3m3y	lamay	namaya	nammáy-a	namáːyaː	namʼma	námmaya 
+hot: laʕ	niʕiní 
+1 pl. inc.: n3nu	nanu 
+we₁: n3nu	nanu 
+whiteness: adoːy	ɢaʼdo	ʕado 
+who?: iyyay	maː	íːyaː	ʼiyya-y 
+female: agaboːytáː	barrá 
+yellow: wəybóː-ytaː	əybín 
+distant: adar	ḍäl 
+far: adar	ḍäl 
+dull: gabad	ʕalas 
+heavy: gabad	ʕalas 
+serious: gabad	ʕalas 
+close: dáy-tiː	dä́ː-tiː 
+near: dáy-tiː	dä́ː-tiː 
+ner: dáy-tiː	dä́ː-tiː 
+salt: asbóː	məlähə́ː 
+wind: harə́ːr 
+year: dadáː	sanát	ägíːdaː 
+3 sg.: ə̀ssəːkə́	ʼusuk 
+he: ə̀ssəːkə́	ʼusuk 
+she: ə̀ssəːkə́	ʼusuk 
+2 pl.: isin	ìssiːníː	íssiːn 
+ye: isin	ìssiːníː	íssiːn 
+you all: isin	ìssiːníː	íssiːn 
+3 pl.: óssoːn	ə́ssəːn	ʼoson 
+here: tamáːkäː	tákäː 
+there: woː iːká 
+where: àːnikä́ː	ánkäː 
+where?: àːnikä́ː	ánkäː 
+when: maː laʕóː	maː sáːkəː 
+when?: maː laʕóː	maː sáːkəː 
+how: maːháː	máːʕnnaː 
+how?: maːháː	máːʕnnaː 
+few: tagə́ː-m 
+principal wife: agaboːytáː 
+wife: agaboːytáː 
+husband: báːʕälaː 
+his mother: ináː 
+mother: ináː 
+my mother: ináː 
+his father: ábba	ábbaː 
+my father: ábba	ábbaː 
+forest: də́ːbəː 
+woods: də́ːbəː 
+branch: hak 
+stick: hak 
+fruit: garəːfáː	mírə̂ 
+flower: ambáb 
+cord: akád 
+rope: akád 
+flesh: hadóː	ħadʼoː 
+fat: gəbuːlu	qabəl-lä́-tíː 
+grease: gəbuːlu	qabəl-lä́-tíː 
+fingernail: lifíʕ 
+leg: aroʕóː 
+wing: gal 
+gut: ələ́ːʕ 
+guts: ələ́ːʕ 
+insides: ələ́ːʕ 
+intestine: ələ́ːʕ 
+intestines: ələ́ːʕ 
+back: adáː	dárri	iróː 
+suck: dəw 
+blow: fəʕ 
+laughter: sahaq	usuːl 
+cogitate: iː	ḍah 
+reflect: iː	ḍah 
+think: iː	ḍah 
+afraid: maysíː 
+be afraid: maysíː 
+fear: maysíː 
+fright: maysíː 
+alive: hay	maːr	raːʕ 
+be alive: hay	maːr	raːʕ 
+life: hay	maːr	raːʕ 
+live: hay	maːr	raːʕ 
+living: hay	maːr	raːʕ 
+fight: alalä́ː 
+hunt: adm-is 
+beat: gar	kaːħ	oʼgor	tak	ʕayd 
+strike: gar	kaːħ	oʼgor	tak	ʕayd 
+hack: garaʕ	irgiʼʕe	kataf 
+cut open: and-is 
+split: and-is 
+pierce: ar	kataf	məːd 
+stab: ar	kataf	məːd 
+scratch: həkək 
+lie: diraːb-it 
+lie down: diraːb-it 
+tell lies: diraːb-it 
+drop: dabb is	hal-it	raːd	wagg-it 
+fall: dabb is	hal-it	raːd	wagg-it 
+grasp: baḷ	liː 
+hold: baḷ	liː 
+hold in arm: baḷ	liː 
+wash: kaʕal-is 
+wash clothes: kaʕal-is 
+throw: hal	ʕayd 
+bind: laə̂	ʕaqar 
+fasten: laə̂	ʕaqar 
+tie: laə̂	ʕaqar 
+tie up: laə̂	ʕaqar 
+sew: kayyat	raf	rib	tartar 
+count: ləw 
+enumerate: ləw 
+number: ləw 
+tally: ləw 
+sing: hoːrr-is 
+have fun: abaːl	wafaroː-sit 
+play: abaːl	wafaroː-sit 
+brook: baːd 
+river: baːd 
+stream: baːd 
+lake: baːd 
+dust: baːrə́ːd	hoːsáː 
+fog: ambərä́ː 
+sky: arán 
+blaze: ər 
+bad: am	əm 
+evil: am	əm 
+dirty: əskók 
+filthy: əskók 
+soiled: əskók 
+sharp: äḷaḷ 
+damp: winí 
+right side: midgáː 
+left: gəráː 
+in: -d	-l	addá-d 
+inside: -d	-l	addá-d 
+and: ka 
+if: -k 
+because: -k 

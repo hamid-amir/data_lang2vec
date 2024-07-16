@@ -1,0 +1,316 @@
+all: b"ara	peLeLe	ɓa-ra 
+every: b"ara	peLeLe	ɓa-ra 
+ash: ve7evus	βeʔe-βus 
+ashes: ve7evus	βeʔe-βus 
+bark: momoLkw~a	to-ɓen̉-kʷa	tob"en"kw~a 
+abdomen: d"imb"a 
+belly: d"imb"a 
+big: mere7e	mereʔe 
+bigness: mere7e	mereʔe 
+large: mere7e	mereʔe 
+bird: home	hoʔme 
+bite: lam"na	lam̉-na 
+black: tun-ni	tunni 
+blood: d"on7i	ɗonʔi 
+bone: nun7i	nunʔi 
+breast: Cakw~a	čah-kʷa 
+breasts: Cakw~a	čah-kʷa 
+claw: Corimpa	Corimpoh 
+nail: Corimpa	Corimpoh 
+talon: Corimpa	Corimpoh 
+cloud: b"eyas	ɓe-yas 
+cold: hilo	hilo-ka 
+come: hi-wawa	hiwawa 
+come from: hi-wawa	hiwawa 
+be dead: Conte7e	kai-ni	kaini 
+dead: Conte7e	kai-ni	kaini 
+die: Conte7e	kai-ni	kaini 
+dog: pako 
+drink: ya-lo-we	yalowe 
+dry: we-rel-ni	werelni 
+ear: lon̉-toto	lotot 
+earth: Lakam"b"a	vuskw~a 
+ground: Lakam"b"a	vuskw~a 
+land: Lakam"b"a	vuskw~a 
+soil: Lakam"b"a	vuskw~a 
+eat: kai-kai	kaikai 
+egg: holkw~a	hoɬ-kʷa 
+eye: Cora	čo-ra 
+feather: mumun"kw~a	mumun̉-kʷa 
+fire: ve7e	βeʔe 
+fish: b"ilau	ɓi-lau 
+fly: ha-βuh-ɓuʔu	havub"u7u 
+fly v.: ha-βuh-ɓuʔu	havub"u7u 
+foot: b"ari	ɓari-kʷa 
+full: d"olra	ɗol-ra 
+give: kaya-ɬe	kayale	kw~ana 
+good: d"okoi	ɗo-koi 
+green: nona	noʔna 
+hair: risa-kʷa	risakw~a 
+hand: Copa	čopa 
+left hand: Copa	čopa 
+right: Copa	čopa 
+head: b"akw~akw~a	ba-kʷakʷa 
+hear: pa-loto	pawaneLe 
+heart: hasLawanra	hasɬa-wanra 
+horn: Cankw~a	čan-kʷa 
+1 sg.: inLa	inɬa 
+I: inLa	inɬa 
+kill: tikoi-na	tikoina 
+knee: b"amo	ɓamo-kʷa 
+be knowledgeable: o-na-ra-na	onarana 
+know: o-na-ra-na	onarana 
+leaf: loran-kʷa	lorankw~a 
+lie: d"eCeL	ɗe-čeɬ 
+lie down: d"eCeL	ɗe-čeɬ 
+liver: sond"o	sonɗo 
+long: ku-ra	kupin"	kura 
+head louse: d"am7i	ɗamʔi 
+louse: d"am7i	ɗamʔi 
+male: iti-la-kʷa	itilakw~a 
+man: huye-ni 
+many: kau-ra 
+much: kau-ra 
+multiple: kau-ra 
+several: kau-ra 
+flesh: waka	waka tord"a 
+meat: waka	waka tord"a 
+moon: yeCo	yeh-čo 
+hill: ɗuɗuʔ-kʷa 
+mountain: ɗuɗuʔ-kʷa 
+mouth: kw~ana	kʷana-kʷa 
+name: eLa7us	eɬe 
+title: eLa7us	eɬe 
+neck: woro7o	worokeL	woroʔo 
+new: pola-ra	polara 
+night: i-mai-ni	imaini 
+nighttime: i-mai-ni	imaini 
+nose: b"aCi	ɓači-kʷa 
+not: ka7i	kah 
+adulterous: sotara	sotaʔ- 
+one: sotara	sotaʔ- 
+single: sotara	sotaʔ- 
+that: sotara	sotaʔ- 
+the: sotara	sotaʔ- 
+unprincipled: sotara	sotaʔ- 
+human: huye-ni 
+human being: huye-ni 
+person: huye-ni 
+rain: lulu7u	luʔluʔu 
+rainy weather: lulu7u	luʔluʔu 
+red: rapal 
+path: towaneL 
+road: towaneL 
+route: towaneL 
+root: d"ud"ulkw~a	ɗuɗuɬ-kʷa 
+round: ha-pil	hapil 
+sand: wiʔwis 
+say: han-kʷa	iL hankw~a 
+see: d"ewakw~i	ɗe-wah-na 
+seed: d"id"inkw~a	ɗiɗin-kʷa 
+sit: as-čeɬ	asCeL 
+hide: to-ɓen̉-kʷakʷa	tob"en"kw~akw~a 
+skin: to-ɓen̉-kʷakʷa	tob"en"kw~akw~a 
+sleep: horo-kʷa	horokw~a 
+little: to-čiʔi	toCi7i 
+small: to-čiʔi	toCi7i 
+smallness: to-čiʔi	toCi7i 
+smoke: b"uru	ɓuh-ru 
+star: ɗiɗin-kʷa 
+rock: Campa	čam-pa 
+stone: Campa	čam-pa 
+sun: tinno 
+swim: ko-ma-lo	komalo 
+tail: b"aLeukw~a	ɓa-ɬeu-kʷa 
+2 sg: ul-kʷan̉ 
+thou: ul-kʷan̉ 
+you: ul-kʷan̉ 
+tongue: rulkw~a	ruɬ-kʷa 
+tooth: soi-ɬa	soiLa 
+tree: ko7o 
+grind: oi-ra	oira	oy- 
+two: oi-ra	oira	oy- 
+go: i-lo-ni 
+walk: i-lo-ni 
+hot: tayo-ka 
+warm: tayo-ka 
+water: tomi 
+1 pl. inc.: i-ɗe	i7Li	id"e 
+we: i-ɗe	i7Li	id"e 
+we₁: i-ɗe	i7Li	id"e 
+what: eɬe-ɬaʔa 
+white: ta-βoh	tavoh 
+whiteness: ta-βoh	tavoh 
+who: eLe	han-ne	hanne7a 
+who?: eLe	han-ne	hanne7a 
+female: kw~eya	kʷeya 
+woman: kw~eya	kʷeya 
+yellow: sere	sereh 
+distant: kiʔ-lah 
+far: kiʔ-lah 
+dull: ɗinoʔ-ni 
+heavy: ɗinoʔ-ni 
+serious: ɗinoʔ-ni 
+close: su-we 
+near: su-we 
+ner: su-we 
+salt: ɗoyon̉ 
+short: te-ɗes 
+snake: mimiɗi 
+thin: so-roi-ni 
+wind: pou-muh 
+earthworm: rumʔi 
+worm: rumʔi 
+year: tinno-naʔa 
+2 pl.: i-ɓi 
+ye: i-ɓi 
+you all: i-ɓi 
+3 pl.: is-ko 
+they: is-ko 
+where: nay-aʔa 
+where?: nay-aʔa 
+when: eɬ-lomah 
+when?: eɬ-lomah 
+how: han-win̉ 
+how?: han-win̉ 
+some: kaka-ra 
+few: ɓei-ra 
+three: tas-	tas-ra 
+four: oi-ka-ra	oyka- 
+five: sinko 
+broad: pou-čo 
+wide: pou-čo 
+wideness: pou-čo 
+fat: mes-kʷa 
+thick: ɗu-yuʔu 
+narrow: to-čiʔ-čo 
+child: ɗiči-ye 
+principal wife: al-wah 
+wife: al-wah 
+husband: al-wah 
+his mother: maʔa 
+mother: maʔa 
+my mother: maʔa 
+father: paʔa 
+his father: paʔa 
+my father: paʔa 
+animal: popoi-kʷa 
+forest: čaʔ-mo 
+woods: čaʔ-mo 
+branch: toleh-kʷa 
+stick: toleh-kʷa 
+fruit: ɓaɓa-kʷa 
+flower: morin-kʷa 
+grass: ɗi-mas 
+cord: ɗaβul-čo-ɗi 
+rope: ɗaβul-čo-ɗi 
+grease: mes-kʷa 
+fingernail: čo-rimpa 
+leg: ɬari-kʷa 
+wing: toβai-kʷa 
+gut: čirus-kʷa 
+guts: čirus-kʷa 
+insides: čirus-kʷa 
+intestine: čirus-kʷa 
+intestines: čirus-kʷa 
+back: ɗuɗu-kʷa 
+suck: čulum-na 
+spit: ɗoton̉-ɬa 
+vomit: lel-kʷa 
+blow: ha-βuɬ-na 
+breath: ɬou-ka-teʔe 
+breathe: ɬou-ka-teʔe 
+laugh: ho-si-čeɬ 
+laughter: ho-si-čeɬ 
+cogitate: i-ɓaičo-βaɬ-na 
+reflect: i-ɓaičo-βaɬ-na 
+think: i-ɓaičo-βaɬ-na 
+smell: pa-yes-na 
+sniff: pa-yes-na 
+afraid: tino-ka 
+be afraid: tino-ka 
+fear: tino-ka 
+fright: tino-ka 
+alive: i-teʔ-ni 
+be alive: i-teʔ-ni 
+life: i-teʔ-ni 
+live: i-teʔ-ni 
+living: i-teʔ-ni 
+fight: haraɬ 
+hunt: ɓay-eɬ 
+beat: ɓai-na 
+hit: ɓai-na 
+strike: ɓai-na 
+cut: ɗaha-čo-na 
+hack: ɗaha-čo-na 
+cut open: oi-ka-pin̉ 
+split: oi-ka-pin̉ 
+pierce: čaʔ-na 
+stab: čaʔ-na 
+dig: woʔ-na 
+tell lies: tiha-si 
+stand: en-čeɬ	wiwis 
+turn: ɗa-pil-na 
+turn around: ɗa-pil-na 
+turn round: ɗa-pil-na 
+drop: tam̉-βos-eɬ 
+fall: tam̉-βos-eɬ 
+grasp: eu-na 
+hold: eu-na 
+hold in arm: eu-na 
+squeeze: roma-lo 
+wring: roma-lo 
+rub: hus-na 
+wipe: hus-na 
+wash: loh-na 
+wash clothes: loh-na 
+push: use-ɬe 
+shove: use-ɬe 
+throw: haran̉-na 
+bind: hama-ɬe 
+fasten: hama-ɬe 
+tie: hama-ɬe 
+tie up: hama-ɬe 
+sew: sita-ʔoh 
+count: paʔ-na 
+enumerate: paʔ-na 
+number: paʔ-na 
+tally: paʔ-na 
+sing: leu-leu 
+have fun: kʷina-naʔa 
+play: kʷina-naʔa 
+float: pam̉-pam̉ 
+flow: sa-βau-tiʔi 
+brook: in̉-wa 
+river: in̉-wa 
+stream: in̉-wa 
+lake: pou-lo 
+dust: βus-kʷa 
+fog: βu-ɓuh-ni 
+sky: ɓen̉-ra 
+blaze: iseLe	ta-leles 
+burn: iseLe	ta-leles 
+day: he-mes 
+daylight: he-mes 
+daytime: he-mes 
+bad: um̉-ɓe 
+evil: um̉-ɓe 
+rot: ɗon̉-ra-ni 
+rotten: ɗon̉-ra-ni 
+dirty: čo-es-ni 
+filthy: čo-es-ni 
+soiled: čo-es-ni 
+straight: čon-lo 
+sharp: pe-res-ni 
+blunt: pe-res-ɬeʔe 
+smooth: ti-ɬoi-ni 
+damp: luʔ-ɗai-ni 
+wet: luʔ-ɗai-ni 
+correct: čon-lo 
+right side: čo-ni 
+left: ho-li 
+in: čo-ɗowi 
+inside: čo-ɗowi 
+and: če 
+if: ɗiʔ 
+because: ɓo 

@@ -1,0 +1,671 @@
+all: čʰia | čʰíâ 
+all: tsia | čʰíâ 
+and: ha 
+and: ni 
+animal: čuː 
+animal: tsʰʊʊ́ 
+ankle: kʰixisa 
+ankle: kʰurukʰuru 
+arm: indiso 
+arm: tl\uŋ 
+arrow: dlani 
+arrow: dlaniŋ 
+arrow: kasama 
+ashes: ts\uts\un | !ʼúpʰá 
+ashes: ǃ\upa | !ʼúpʰá 
+ashes: ǂʔupʰa | !ʼúpʰá 
+back: dloʔi ~ dlo̰ʔi 
+back: dzán(d)zà 
+back: mugoŋgo 
+back: ǯanǯa 
+back: ǯanǯa ǂi 
+bad: xa 
+bad: χa 
+bark: (ǁŋo) | ƛâ 
+bark: tl\a | ƛâ 
+bark: tlá | ƛâ 
+belly: k\udu | ƛʼàbísó 
+belly: mʊ́ | ƛʼàbísó 
+belly: t̪\abiso | ƛʼàbísó 
+belly: tl\abiso | ƛʼàbísó 
+belly: tl\abisoː | ƛʼàbísó 
+belly: tl\abisoː ~ tl\a̰bisoː | ƛʼàbísó 
+big: ba\ase | bàʔé 
+big: ba̰ʔe | bàʔé 
+big: mé | bàʔé 
+bird: tʰui | tʰwǐː 
+bird: tʰwi | tʰwǐː 
+bird: twiʔi | tʰwǐː 
+bite: ǀʔiŋ\kʰe | ǀʼìŋké 
+bite: ǀʔinke | ǀʼìŋké 
+bitter: tl\weː 
+bitter: tl\wéː 
+black: kaŋk\ara˗s(i) | kʼáŋkʼárâ 
+blood: ǀ\ek\a | !"ek"a	ǀǀʼékʼâ	ǁʼékʼâ 
+blood: ǁʔek\a | !"ek"a	ǀǀʼékʼâ	ǁʼékʼâ 
+blood: ǂʔek\a tuk(u) | !"ek"a	ǀǀʼékʼâ	ǁʼékʼâ 
+blow: nǀúpʰɔ(ʔɔ) 
+blow: wekʰeŋ 
+bone: ǂi | !i	!î 
+bone: ǃ\i | !i	!î 
+bone: ǃɪŋ | !i	!î 
+boy: k\ar˗é 
+boy: k\areː 
+boy: ǂno˗e 
+branch: aleː 
+breast: ǀʔina | !"ina	sákâ 
+breast: ǀʔinaǂnum | !"ina	sákâ 
+breast: ǀʔina ǂⁿum | !"ina	sákâ 
+breast: saka ǀʔina | !"ina	sákâ 
+breathe: hiːpas(i) 
+brother: ǂⁿaːɬe˗e 
+brother: nuːnu 
+brother: tsoːts\e ba̰ʔa˗seŋ 
+brother: tsoːts\e˗e 
+brother: tsoːts\e ts\oː˗uŋ 
+burn: ǂⁿats\(i) | kámâ 
+burn: kana | kámâ 
+burn: na | kámâ 
+burn: naʔ | kámâ 
+burn: ts\wíʔyà | kámâ 
+butterfly: karapupu 
+calf: magwela 
+calf: semembi 
+calf: suŋkuto 
+cheek: kamak(u) 
+chest: saka 
+child: ǁŋoko 
+child: ǁⁿo(ː) 
+child: ǁⁿoː ts\iːntʰe 
+child: ts\oː˗uŋ 
+chin: dḛru 
+chin: warʔkaka 
+claw: ǀnoá | cʼʷáʔá 
+claw: ts\waʔa | cʼʷáʔá 
+cloud: t̪l\uŋgu | ƛʼùŋgȕ 
+cloud: tl\uŋgu | ƛʼùŋgȕ 
+cold: čʰawa | tiŋka 
+cold: ku\e\ | tiŋka 
+cold: tiŋ\ka | tiŋka 
+come: ǀⁿati . | ǀí 
+come: i | ǀí 
+come: iǀ\i | ǀí 
+come: ǀnati (pl.). i | ǀí 
+correct: sa 
+correct: sao 
+correct: sawe 
+count: ǁheme 
+count: teː 
+crocodile: maámba 
+crocodile: mamba 
+cut: ǀⁿeː 
+cut: ǀ\inke 
+cut: ǀneː 
+cut: ɬobe 
+cut: ǁʔoŋge 
+cut: tl\axe 
+cut: tl\it(ʰ)e 
+dark: tʰun 
+daughter: tʰames(i) ǁⁿo˗s(u) 
+day: ǂⁿe(ː) 
+day: k\ime˗te 
+day: ǃŋɛ 
+die: ɬaʔte | jias"o	tl~as	ƛǎːsi̥ 
+die: miːmba | jias"o	tl~as	ƛǎːsi̥ 
+die: t̪asi | jias"o	tl~as	ƛǎːsi̥ 
+die: tlaás | jias"o	tl~as	ƛǎːsi̥ 
+die: tlaːs(i) | jias"o	tl~as	ƛǎːsi̥ 
+die: tlaːs(i) sg. | jias"o	tl~as	ƛǎːsi̥ 
+dig: ɬakaʔ˗se 
+dig: t̪\oŋgé 
+dig: twa 
+dirty: hweː˗s(i) 
+dog: gaga | k"w~EN	káːkâ 
+dog: gwečʰe | k"w~EN	káːkâ 
+dog: kaːka | k"w~EN	káːkâ 
+dog: káːkà | k"w~EN	káːkâ 
+dog: monǯo | k"w~EN	káːkâ 
+drink: ts\eː | c"e	cʼéː 
+drink: xom(u)se | c"e	cʼéː 
+dry: ǀⁿiŋ\k\e | sìmé 
+dry: nara | sìmé 
+dry: nara˗suk(u) | sìmé 
+dust: k\uŋk\ura 
+dust: tl\araŋ 
+dust: tl\araŋ(gu) 
+ear: kek | keke	kéké 
+ear: kéké | keke	kéké 
+ear: kek\e | keke	kéké 
+earth: ǀ\iná | ǀʼíná 
+earth: ǃuma | ǀʼíná 
+earth: ǂʔuma | ǀʼíná 
+eat: mančʰa | mánčʰâ 
+eat: mantsa | mánčʰâ 
+egg: diʔa | dìʔá 
+egg: dḭʔa | dìʔá 
+egg: ts\è | dìʔá 
+elbow: kogura 
+elbow: kʰoŋkora 
+emu: saʔuta 
+emu: saʔuta ~ sa̰ʔuta 
+eye: či ǀoe ~ či ǀwe | !w~e	ǀʷěː 
+eye: ǀoe | !w~e	ǀʷěː 
+eye: ǀwɛː˗ǃ\ɪ͂ | !w~e	ǀʷěː 
+eye: ǀwe ~ gǀweé | !w~e	ǀʷěː 
+face: kàlěː 
+face: ǀoe˗ta 
+face: ǀwe˗ta 
+fall: ǀ\a 
+fall: ǂʔawe 
+fall: ǃhóː(ʔò) 
+far: ʔitʰa | ʔítʰâ 
+far: itʰa | ʔítʰâ 
+far: itʰa ~ ʔitʰa | ʔítʰâ 
+father: hets\e 
+father: tata 
+fat (n.): ča͂ 
+fat (n.): čʰaŋ˗ki 
+fat (n.): tsaŋ 
+fear: ǀnɔ 
+fear: ǀⁿoː 
+fear: ǀⁿoː ~ ǀⁿoʔo 
+feather: ǃ\ù | !ʼû 
+feather: ǃ\u͂ | !ʼû 
+fight: ǁʔaŋki 
+fight: ǁ\ue 
+fingernail: ts\waʔa 
+fingernail: ts\wáʔá 
+finger: ǁŋoko 
+finger: tl\uŋ ǁⁿo˗e 
+finger: t\uŋ 
+fire: ǁʔiŋ | !"iN	!7~e	ǀǀʼĩ̂ː	ǁʼĩ̂ː 
+fire: kiba | !"iN	!7~e	ǀǀʼĩ̂ː	ǁʼĩ̂ː 
+fish: sɔmba | somba	sómbá 
+five: kuǀ\ana 
+five: kwaʔná 
+flower: kʰoeː ~ kʰweː 
+flower: kue 
+flower: kwape 
+flower: maua 
+fly (n.): ǀ\antima 
+fly (n.): antʰima 
+fly (v.): tʰa 
+fly (v.): tho 
+fly (v.): ts\oku 
+fog: hʊmaʔɛ 
+fog: ts\umbu 
+foot: ǂʰata | ǀǀʰàtá	ǁʰàtá 
+foot: ǁʰata | ǀǀʰàtá	ǁʰàtá 
+foot: ǁhata | ǀǀʰàtá	ǁʰàtá 
+foot: kedendeː | ǀǀʰàtá	ǁʰàtá 
+foot: ma | ǀǀʰàtá	ǁʰàtá 
+forehead: ho͂ǂʔo͂ 
+forehead: ho͂ǂo͂ 
+forehead: mokondo 
+four: haka˗χ 
+fruit: tʰeː ǁno˗s(u) 
+full: ǂoːme | !ón-cʼâː 
+full: ǂoːŋ˗ts\i | !ón-cʼâː 
+girl: k\aré˗su 
+girl: tʰames(i) 
+girl: tʰames(i) ǁno˗s(u) 
+give: ie(ː) | í- 
+good: ɬawe˗teː | ɬáû 
+good: sá | ɬáû 
+grass: ǀaː 
+grass: ɬuba 
+green: dzángà | ʓaːŋga 
+green: ǯaːŋga | ʓaːŋga 
+guts: tl\abisoː ǁno˗ko 
+hair: čeː ǂʔu | cʼê 
+hair: kelemba | cʼê 
+hair: k\udu ǂʔu | cʼê 
+hair: ts\e | cʼê 
+hair: ǃ\u | cʼê 
+hair: ǂʔu | cʼê 
+hand: (ŋ)gumi | !u*N	ƛʼũ̂ː 
+hand: tl\uŋ | !u*N	ƛʼũ̂ː 
+hand: tl\uŋ ǂʔawa | !u*N	ƛʼũ̂ː 
+head: čeː | čěː 
+head: tl\oma | čěː 
+head: tsʰéː | čěː 
+hear: kʰeʔe | kʰéʔé 
+hear: ke\e | kʰéʔé 
+heart: dzigida | ǯìgídâ 
+heart: ǯigida | ǯìgídâ 
+heavy: ǀeːka | ǀěːká-sê 
+here: ne 
+here: o 
+here: oʔ 
+he/she: a 
+he/she: ˗a 
+he/she: ˗o 
+he/she: ˗sa 
+he/she: we 
+he/she: ye 
+hit: ka 
+hit: k\waʔ 
+hit: t\aχe 
+hit: tl\ape 
+hit: tl\apʰo 
+hit: ǁu 
+hold: ǂⁿaː 
+hold: tike 
+hole: bani 
+hole: bun 
+hole: ǂʰoe~ ǃʰwe(ː) 
+hole: ǃ\wá 
+horn: tlana | ƛáná 
+horn: tláná | ƛáná 
+house: kʰoː 
+house: númbà 
+how: hiki 
+hunt: ǂʔine 
+husband: maxeː 
+I: či | ci	čí 
+in: ˗ta 
+I: tsa | ci	čí 
+I: tsɪn | ci	čí 
+kill: k\oe(ː) ~ k\we(ː) | wákʼāː 
+kill: wak\a | wákʼāː 
+knee: ke | kEN	kẽ̂ː 
+knee: ke͂ | kEN	kẽ̂ː 
+know: dzua | mànǎː 
+know: manaː | mànǎː 
+lake: ǂʔeː 
+lake: ǃ\wáː 
+laugh: ǂⁿeː 
+laugh: ǃŋe 
+laugh: ǃŋo 
+leaf: ǀ\a | !a	ǀǎː 
+leaf: ǀaː | !a	ǀǎː 
+leaf: gʢaː | !a	ǀǎː 
+left: ǁʔek\anana 
+leg: ǁʰata 
+leg: ǁhata 
+lie: ǁⁿina | ǁ̃íné	ɳǀǀíné 
+lie: ǁnina | ǁ̃íné	ɳǀǀíné 
+lightning: ǂⁿereŋ 
+lightning: ǂnereŋ 
+lip: duŋ 
+lip: ǂnum 
+lip: ǂⁿum 
+live: ǀʔeː 
+live: e(ː) 
+live: ie(ː) 
+live: ne 
+liver: tʰas(i)noː | th~aLno	tʰási̥nóː 
+liver: thasno | th~aLno	tʰási̥nóː 
+liver: tlasʔno | th~aLno	tʰási̥nóː 
+long: maganǯa | mágánǯá-sê 
+long: mugandzase | mágánǯá-sê 
+louse: kerebu | ma!"a	máːǀʼâ 
+louse: kuːnde | ma!"a	máːǀʼâ 
+louse: ma͂ǀ\a | ma!"a	máːǀʼâ 
+louse: manǀ\a | ma!"a	máːǀʼâ 
+louse: maːŋǀʔa | ma!"a	máːǀʼâ 
+louse: ma͂ːts\a͂ | ma!"a	máːǀʼâ 
+man: k\amba | maxaye	ǀ̃èméséː	ɳǀèméséː 
+man: maχa | maxaye	ǀ̃èméséː	ɳǀèméséː 
+man: ǀⁿomese | maxaye	ǀ̃èméséː	ɳǀèméséː 
+many: de | děː-tʰēː 
+many: deː | děː-tʰēː 
+meat: ǀⁿin | ǀ̃ĩ̌ː	ɳǀĩ̌ː 
+meat: ǀni | ǀ̃ĩ̌ː	ɳǀĩ̌ː 
+meat: ǀnin | ǀ̃ĩ̌ː	ɳǀĩ̌ː 
+moon: ǃ\abiso | !â	!ǎː-sō 
+moon: ǂaːp(u)so | !â	!ǎː-sō 
+morning: koko ʔime 
+morning: tl\ik(i) 
+mosquito: ts\imaŋ 
+mother: ʔiyo 
+mother: iyoː 
+mother: masu 
+mother: mesu 
+mountain: gabumbu | gawa	gáwâ 
+mountain: gawa | gawa	gáwâ 
+mountain: gáwà | gawa	gáwâ 
+mouth: ha͂a͂ | ǃ̃ũ̂ː 
+mouth: ǂnum | ǃ̃ũ̂ː 
+mouth: ǂⁿum | ǃ̃ũ̂ː 
+name: ǁ\ɔa | !w~a	ǀǀʷâ	ǁʷâ 
+name: ǁwa | !w~a	ǀǀʷâ	ǁʷâ 
+nape: haǂa 
+nape: ǂwa ieː 
+narrow: swama 
+navel: ts\umbu 
+near: beːba | béːbâ 
+near: bɛːba | béːbâ 
+neck: k\oeŋ | kʼʷẽ̂ː 
+neck: k\wé | kʼʷẽ̂ː 
+new: ǁ\ae | !ae	ǀǀàěː	ǁàěː 
+new: ǁae(ː) | !ae	ǀǀàěː	ǁàěː 
+new: omikoe | !ae	ǀǀàěː	ǁàěː 
+night: goloba | tw~e	tʷěː 
+night: golobà | tw~e	tʷěː 
+night: golobese | tw~e	tʷěː 
+night: tu(w)e | tw~e	tʷěː 
+night: tweː | tw~e	tʷěː 
+not: aʔa | =čʰì 
+not: ˗ts\e | =čʰì 
+not: tsɛ | =čʰì 
+old: ǀʔaːm 
+old: dikse 
+old: dḭʔseː 
+old: dḭʔseː˗su 
+one: ts\exe | c"EX	cʼéxê	ts’exe 
+one: ts\eχ | c"EX	cʼéxê	ts’exe 
+other: hiŋ\ge 
+other: te 
+other: teʔ 
+person: ǀnomese | maxaye	ǀ̃èméséː	ɳǀèméséː 
+person: ǀⁿomese | maxaye	ǀ̃èméséː	ɳǀèméséː 
+play: ǂⁿame 
+play: ǁʔu˗waŋki 
+pull: (da) táné 
+pull: tane 
+push: tulaʔe 
+push: xotl\o 
+rain: ǁoː | ƛʼʷã̂ː 
+rain: ǁ\ɔ | ƛʼʷã̂ː 
+rain: tl\oa | ƛʼʷã̂ː 
+rain: tl\oa͂ | ƛʼʷã̂ː 
+rain: tl\wá | ƛʼʷã̂ː 
+rain: tl\waŋ | ƛʼʷã̂ː 
+rat: aːkʰ(u) 
+rat: bur(i) 
+rat: ntoli 
+red: but | búƛʼi̥ 
+red: butl\ | búƛʼi̥ 
+red: butl\(i) | búƛʼi̥ 
+right: ɬaːu | !u*N	ƛʼũ̂ː 
+right: sa | !u*N	ƛʼũ̂ː 
+right: sao | !u*N	ƛʼũ̂ː 
+right: sawe | !u*N	ƛʼũ̂ː 
+ripe: ǁʔine 
+river: ǃŋoá 
+river: ǂnua 
+river: nǃwa 
+river: ǂⁿua ts\oːŋ˗to 
+river: ǂⁿua ~ ǂⁿwa 
+road: dage | !o	ǀǀǒː	ǁǒː 
+road: ǁoː | !o	ǀǀǒː	ǁǒː 
+road: ǁ\ɔ | !o	ǀǀǒː	ǁǒː 
+root: ǂⁿiːŋ | ǃ̃ĩ̌ː 
+root: ǃŋiŋ | ǃ̃ĩ̌ː 
+rope: ɬinto 
+rope: kʊ́ 
+rope: ku 
+rotten: ǯixe 
+rub: ts\e(ː)we(ː) 
+rub: ts\eːweː 
+salt: magadi | ʔǔːɬíː 
+salt: uːɬi | ʔǔːɬíː 
+salt: usi | ʔǔːɬíː 
+sand: ǀ\iná | ǀʼíná 
+sand: ǀʔina˗ts\(i) | ǀʼíná 
+sand: xoxo͂ | ǀʼíná 
+say: ga | bô	ʔímbô 
+say: sayo | bô	ʔímbô 
+say: tl\ape | bô	ʔímbô 
+scratch: pʰarare 
+scratch: ɬwa 
+see: ǀ\a | ǀʼěː 
+see: ǀ\a\ | ǀʼěː 
+see: ǀaŋ | ǀʼěː 
+seed: boyoː | bóyó 
+seed: tètera | bóyó 
+see: ǀʔeː | ǀʼěː 
+see: ǀ\e͂ː ~ ǀ\ɛ͂ːʔɔ̀ | ǀʼěː 
+sew: tʰine 
+sew: tline 
+sharp: ǂʰeŋ\k(i) 
+sharp: ǃŋinse 
+short: tʰuŋka | tʰúŋkâ 
+short: tʰuŋka(˗se) | tʰúŋkâ 
+shoulder: koa 
+shoulder: kwai 
+shoulder: kwaʔi 
+sing: ǀhime 
+sing: ǀʰime 
+sister: hlinsu 
+sister: ɬinsu 
+sister: nuːnu 
+sister: t\oʔosu 
+sister: t\oʔsu 
+sit: hakets | hǎːkícʼi̥ 
+sit: haːkits\(i) | hǎːkícʼi̥ 
+skin: ǁɛ͂ː | !ʷê 
+skin: ǁʔeː(˗ǁʔe͂) | !ʷê 
+skin: kelemba | !ʷê 
+skin: kelembu | !ʷê 
+skin: ts\ade | !ʷê 
+skin: ǃwé | !ʷê 
+sky: tl\uŋgu 
+sleep: ǁʔo | ǀǀʼo	ǁʼo 
+sleep: ǁʔɔ͂ | ǀǀʼo	ǁʼo 
+small: ts\ò | cʼǒːʔ-tō 
+small: ts\oːŋ˗to | cʼǒːʔ-tō 
+smell: hime 
+smell: himo˗o 
+smoke: ts\uka | cʼúkʼâ 
+smoke: ts\uk\a | cʼúkʼâ 
+snake: ǀ\i | ǀʼĩ̌ː 
+snake: ǀʔiŋ | ǀʼĩ̌ː 
+son: (maxa) ǁⁿo(ː)˗e 
+son: ǁno(ː)˗e 
+sour: k\awa(ʔ)e 
+sour: k\awaʔe 
+spit: tʰuk\a 
+spit: tuk\a 
+spit: uʔǁʰu 
+split: ɬanɬa 
+split: ge 
+split: sere 
+squeeze: tl\ibaʔe 
+stand: ǁnume | ǁ̃ume	ɳǀǀume 
+stand: ǁⁿume | ǁ̃ume	ɳǀǀume 
+star: ǀnowa͂ | hí=ǀ̃áwã́ː	hí=ɳǀáwã́ː 
+star: ǀnowaŋ | hí=ǀ̃áwã́ː	hí=ɳǀáwã́ː 
+star: ǂʔočʰol(i) | hí=ǀ̃áwã́ː	hí=ɳǀáwã́ː 
+star: ǀⁿpwaŋ | hí=ǀ̃áwã́ː	hí=ɳǀáwã́ː 
+stone: din | dĩ̌ː 
+stone: di(ː)n | dĩ̌ː 
+stone: diːn | dĩ̌ː 
+straight: ts\exe˗na 
+suck: ǀʔina˗k(u) 
+suck: k\óː 
+suck: (ǀ\uku) 
+suck: ǀʔuǀʔu˗mse 
+sun: ǁ\agasu ~ ǁ\akásu | !"akasu	ǀǀʼàkásu̥	ǁʼàkásu̥ 
+sun: ǁʔakas(u) | !"akasu	ǀǀʼàkásu̥	ǁʼàkásu̥ 
+sweet: čʰiŋ 
+sweet: is\na 
+sweet: tsiŋ 
+swell: swaːku 
+swell: swăkwì 
+swim: pʰuduse | pʰudu-se 
+tail: tsowa | cʼʷǎː 
+tail: ts\waː | cʼʷǎː 
+take: e 
+take: ʔisa 
+take: sie˗e 
+that: haː˗so | hĩ̌-	hǎː- 
+that: haː˗soe | hĩ̌-	hǎː- 
+that: haː˗u | hĩ̌-	hǎː- 
+there: heʔ 
+there: na 
+there: waʔ 
+they: ˗sa 
+they: so 
+they: wa 
+they: ˗we 
+thick: boʔe 
+thick: χut̪aχut̪ 
+thigh: dzipʰa 
+thigh: ǯipʰa 
+think: kwese(ʔ)ga 
+thin: swamaʔ | gàndȁ 
+this: heː˗su | hěː- 
+this: he˗u | hěː- 
+this: heː˗u | hěː- 
+this: heː˗xoe | hěː- 
+thorn: nǀwɛ͂ 
+thorn: ǀⁿweː 
+thou: hapa | hapu	hàpú 
+thou: ˗si | hapu	hàpú 
+three: somikeχ 
+three: som(u)ki˗x(i) 
+throat: ǁ\aʔa˗sa 
+throat: ǁ\o͂ 
+throat: ǁ\oa 
+throat: ǁʔoŋ 
+throw: k\waka 
+throw: k\waka ~ k\oaka 
+thunder: ǂⁿereŋ 
+thunder: ǂnereŋ 
+tie: hi͂ǀʔa͂ 
+tie: inǀ\a 
+tie: taː 
+today: (i)swe 
+today: ǂne˗ŋ 
+tomorrow: pʰeː 
+tongue: ǂʰeŋ | !h~eN	!ʰẽ̂ː 
+tongue: ǃkɛŋ | !h~eN	!ʰẽ̂ː 
+tooth: ǃ\akaŋ | !"akaN	!hw$arkakaN	!ʼàkʰã̌ː 
+tooth: ǂʔakʰaŋ | !"akaN	!hw$arkakaN	!ʼàkʰã̌ː 
+tooth: ha | !"akaN	!hw$arkakaN	!ʼàkʰã̌ː 
+tooth: ǀⁿoa tlana | !"akaN	!hw$arkakaN	!ʼàkʰã̌ː 
+tooth: ǂwarakaka | !"akaN	!hw$arkakaN	!ʼàkʰã̌ː 
+tree: tʰeː | th~e	tʰěː 
+tree: tʰeː čʰina | th~e	tʰěː 
+turn: pʰiǂʔi 
+turn: pʰiǂʔi˗seː 
+two: kiso˗x(o) | kiso-x	kisoX	kísô-xi̥ 
+two: kisoχ | kiso-x	kisoX	kísô-xi̥ 
+vagina: mure 
+vagina: ts\oŋk\o 
+vomit: waŋǁʔa͂ 
+walk: hik\ | híkʼi̥ 
+walk: hik\(i) | híkʼi̥ 
+walk: tʰa | híkʼi̥ 
+walk: thaː | híkʼi̥ 
+walk: were | híkʼi̥ 
+warm: hi͂ǁʔi͂ | híǀǀʼĩ́ː	híǁʼĩ́ː 
+warm: hiǁ\ise | híǀǀʼĩ́ː	híǁʼĩ́ː 
+warm: hok\a | híǀǀʼĩ́ː	híǁʼĩ́ː 
+wash: ǁⁿkoto˗ts\i 
+wash: ǁŋɔ́ku 
+wash: ǁnoko 
+water: ǁ\aá | c"a	cʼâ 
+water: ǁʔaːŋ | c"a	cʼâ 
+water: ts\aː | c"a	cʼâ 
+weep: čʰaː 
+weep: k\eː 
+weep: k\ɛ́ː(ʔɔ̀) 
+weep: tsà 
+we: ˗so | su*	sṹː 
+wet: hats\a˗ 
+what: hawe˗ŋ | hó-bê	hó-čōː 
+what: hočoː | hó-bê	hó-čōː 
+when: ha̰ʔsu ~ haʔsu 
+when: ha̰ʔsu ~ haʔs(u) 
+where: haku 
+white: pho | pʰóː 
+white: pʰoː | pʰóː 
+white: pʰóː | pʰóː 
+white: zeruzeru | pʰóː 
+who: ho(ː) | hô 
+who: ho(o) | hô 
+wife: ǀnumusu 
+wife: ǀⁿumusu 
+wind: tsawa | wékʰẽ́ː 
+wind: wekʰɛː | wékʰẽ́ː 
+wind: wekeŋ | wékʰẽ́ː 
+wind: wekʰeŋ | wékʰẽ́ː 
+wing: goba 
+wing: koba 
+wipe: hama 
+with: ˗ki 
+woman: nǀomósù | tʰáméčʰū 
+woman: ǀⁿomesu | tʰáméčʰū 
+woman: tʰamiču | tʰáméčʰū 
+wood: dzwa 
+wood: hubeŋ 
+wood: tʰeː čʰina 
+wood: ts\akundeː 
+wood: wákʰa 
+wood: wakʰaː 
+wood: wákwa 
+worm: noŋgolo 
+year: maːka | maːka	maːkʰa 
+year: maːk(ʰ)a | maːka	maːkʰa 
+yellow: manǯano | manʓano 
+yes: aːre 
+yes: eː 
+yesterday: ute ~ ʔute 
+every: čʰíâ 
+ash: !ʼúpʰá 
+abdomen: ƛʼàbísó 
+bigness: bàʔé 
+large: bàʔé 
+breasts: !"ina	sákâ 
+burn tr.: kámâ 
+nail: cʼʷáʔá 
+talon: cʼʷáʔá 
+come from: ǀí 
+be dead: jias"o	tl~as	ƛǎːsi̥ 
+dead: jias"o	tl~as	ƛǎːsi̥ 
+ground: ǀʼíná 
+land: ǀʼíná 
+soil: ǀʼíná 
+fat: čʰã̂ː 
+fat n.: čʰã̂ː 
+grease: čʰã̂ː 
+lubricant: čʰã̂ː 
+oil: čʰã̂ː 
+fly: cʼóki̥ 
+fly v.: cʼóki̥ 
+left hand: !u*N	ƛʼũ̂ː 
+1 sg.: ci	čí 
+be knowledgeable: mànǎː 
+lie down: ǁ̃íné	ɳǀǀíné 
+head louse: ma!"a	máːǀʼâ 
+male: ǀ̃èméséː	ɳǀèméséː 
+much: děː-tʰēː 
+multiple: děː-tʰēː 
+several: děː-tʰēː 
+flesh: ǀ̃ĩ̌ː	ɳǀĩ̌ː 
+hill: gawa	gáwâ 
+title: !w~a	ǀǀʷâ	ǁʷâ 
+nighttime: tw~e	tʷěː 
+nose: n!~atiN	ǀ̃áti̥	ɳǀáti̥ 
+adulterous: c"EX	cʼéxê	ts’exe 
+single: c"EX	cʼéxê	ts’exe 
+the: c"EX	cʼéxê	ts’exe 
+unprincipled: c"EX	cʼéxê	ts’exe 
+human: maxaye	ǀ̃èméséː	ɳǀèméséː 
+human being: maxaye	ǀ̃èméséː	ɳǀèméséː 
+rainy weather: ƛʼʷã̂ː 
+path: !o	ǀǀǒː	ǁǒː 
+route: !o	ǀǀǒː	ǁǒː 
+hide: !ʷê 
+little: cʼǒːʔ-tō 
+smallness: cʼǒːʔ-tō 
+rock: dĩ̌ː 
+2 sg: hapu	hàpú 
+you: hapu	hàpú 
+grind: kiso-x	kisoX	kísô-xi̥ 
+go: híkʼi̥ 
+hot: híǀǀʼĩ́ː	híǁʼĩ́ː 
+1 pl. inc.: su*	sṹː 
+we₁: su*	sṹː 
+whiteness: pʰóː 
+who?: hô 
+female: tʰáméčʰū 
+distant: ʔítʰâ 
+dull: ǀěːká-sê 
+serious: ǀěːká-sê 
+close: béːbâ 
+ner: béːbâ 
+earthworm: noŋgolo 

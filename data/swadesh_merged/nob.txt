@@ -1,0 +1,337 @@
+all: all	alle	alt	hver 
+every: all	alle	alt	hver 
+ash: aske 
+ashes: aske 
+bark: bark	never 
+abdomen: buk	mage 
+belly: buk	mage 
+big: stor 
+bigness: stor 
+large: stor 
+bird: fugl 
+bite: bite 
+black: svart 
+blood: blod	blud 
+bone: bEin	bein	ben 
+breast: briN3	brist	bryst 
+breasts: briN3	brist	bryst 
+burn: brenne 
+burn tr.: brenne 
+claw: negl 
+nail: negl 
+talon: negl 
+cloud: sky 
+cold: kald 
+come: kom3	kome	komme 
+come from: kom3	kome	komme 
+be dead: de	dø 
+dead: de	dø 
+die: de	dø 
+dog: h3nd	hund 
+drink: drik3	drike	drikke 
+dry: tørr 
+ear: er3	ere	øre 
+earth: jord 
+ground: jord 
+land: jord 
+soil: jord 
+eat: ete	spise 
+egg: egg 
+eye: ey3	eye	øye 
+fat: fett 
+fat n.: fett 
+grease: fett 
+lubricant: fett 
+oil: fett 
+feather: fjær	fjør 
+fire: ild	varme 
+fish: fisk 
+fly: fly 
+fly v.: fly 
+foot: fot 
+full: f3l	f3lt	full 
+give: gi 
+good: bra	god 
+green: grønn 
+hair: hår 
+hand: hond	hånd 
+left hand: hond	hånd 
+right: hond	hånd 
+head: hode	hue 
+hear: her3	here	høre	lit3 
+heart: hjerte 
+horn: hon	horn 
+1 sg.: jeg	yEi	yeg 
+I: jeg	yEi	yeg 
+kill: drepe 
+knee: kne 
+be knowledgeable: vite 
+know: vite 
+leaf: blad	blod	lauv	løv 
+lie: ligge 
+lie down: ligge 
+liver: lev3r	lever 
+long: lang 
+head louse: l3s	lus 
+louse: l3s	lus 
+male: kar	mann 
+man: mEnesk3	meneske	menneske	person 
+many: flere	mange 
+much: flere	mange 
+multiple: flere	mange 
+several: flere	mange 
+flesh: kjøtt 
+meat: kjøtt 
+moon: måne 
+hill: bErg	fjell	fyel	fy~El 
+mountain: bErg	fjell	fyel	fy~El 
+mouth: munn 
+name: navn	tittel 
+title: navn	tittel 
+neck: hals	nakke 
+new: ni	ny 
+night: nat	natt	not 
+nighttime: nat	natt	not 
+nose: nes3	nese 
+not: ei	ikke 
+adulterous: En	Et	ei	en	ett 
+one: En	Et	ei	en	ett 
+single: En	Et	ei	en	ett 
+that: den	det 
+the: En	Et	ei	en	ett 
+unprincipled: En	Et	ei	en	ett 
+human: mEnesk3	meneske	menneske	person 
+human being: mEnesk3	meneske	menneske	person 
+person: mEnesk3	meneske	menneske	person 
+rain: regn	regne 
+rainy weather: regn	regne 
+red: rød 
+path: sti	vEi	vei 
+road: sti	vEi	vei 
+route: sti	vEi	vei 
+root: rot 
+round: rund 
+sand: sand 
+say: si 
+see: se 
+seed: frø	sæd 
+sit: sitte 
+hide: Sin	h3d	hud	skinn 
+skin: Sin	h3d	hud	skinn 
+sleep: sove 
+little: lille	liten	små 
+small: lille	liten	små 
+smallness: lille	liten	små 
+smoke: røyk 
+stand: stå 
+star: sCErn3	stjerne	styerna	styerne	sty~Ern3 
+rock: stEin	stein	sten 
+stone: stEin	stein	sten 
+sun: sol 
+swim: svømme 
+tail: hale	svans 
+this: denne	dette	disse 
+2 sg: d3	du 
+thou: d3	du 
+you: d3	du 
+tongue: t3N3	tuNe	tunge 
+tooth: tan	tann	ton 
+tree: tre 
+grind: to	tu 
+two: to	tu 
+go: gå 
+walk: gå 
+hot: lun	varm 
+warm: lun	varm 
+water: van	vann	von 
+1 pl. inc.: oss	vi 
+we: oss	vi 
+we₁: oss	vi 
+what: hva 
+white: hvit 
+whiteness: hvit 
+who: hvem 
+who?: hvem 
+female: kvinne	kvinnfolk 
+woman: kvinne	kvinnfolk 
+yellow: gul 
+distant: fjern	langt 
+far: fjern	langt 
+dull: tung 
+heavy: tung 
+serious: tung 
+close: nær	nære	nærme 
+near: nær	nære	nærme 
+ner: nær	nære	nærme 
+salt: salt 
+short: kort	stutt 
+snake: orm	slange 
+thin: tynn 
+wind: vind 
+earthworm: makk	mark	orm 
+worm: makk	mark	orm 
+year: år 
+3 sg.: han 
+he: han 
+she: han 
+2 pl.: dere 
+ye: dere 
+you all: dere 
+3 pl.: de 
+they: de 
+here: her 
+there: der 
+where: hvor 
+where?: hvor 
+when: når 
+when?: når 
+how: hvordan	åssen 
+how?: hvordan	åssen 
+some: noe 
+few: få 
+other: andre	annen	annet 
+three: tre 
+four: fire 
+five: fem 
+broad: bred	brei	vid 
+wide: bred	brei	vid 
+wideness: bred	brei	vid 
+thick: tjukk	tykk 
+narrow: smal	trang 
+child: barn	unge 
+principal wife: kone 
+wife: kone 
+husband: husbond	mann 
+his mother: moder	mor 
+mother: moder	mor 
+my mother: moder	mor 
+father: fader	far 
+his father: fader	far 
+my father: fader	far 
+animal: dyr 
+forest: skau	skog 
+woods: skau	skog 
+branch: kjepp	kvist	pinne 
+stick: kjepp	kvist	pinne 
+fruit: frukt 
+flower: blomst 
+grass: gras	gress 
+cord: rep	tau 
+rope: rep	tau 
+fingernail: negl 
+leg: bein	legg 
+arm: hand	hånd 
+wing: vinge 
+gut: innvoller 
+guts: innvoller 
+insides: innvoller 
+intestine: innvoller 
+intestines: innvoller 
+back: rygg 
+suck: suge 
+spit: spytte 
+vomit: kaste opp	spy 
+blow: blåse 
+breath: puste	ånde 
+breathe: puste	ånde 
+laugh: le 
+laughter: le 
+cogitate: tenke 
+reflect: tenke 
+think: tenke 
+smell: lukte 
+sniff: lukte 
+afraid: frykte	være redd for 
+be afraid: frykte	være redd for 
+fear: frykte	være redd for 
+fright: frykte	være redd for 
+alive: leve 
+be alive: leve 
+life: leve 
+live: leve 
+living: leve 
+fight: slåss 
+hunt: jage	jakte 
+beat: slå 
+hit: slå 
+strike: slå 
+cut: kutte	skjære 
+hack: kutte	skjære 
+cut open: dele	kløyve	skille 
+split: dele	kløyve	skille 
+pierce: stikke 
+stab: stikke 
+scratch: klore	klø 
+dig: grave 
+tell lies: ligge 
+turn: snu	vende 
+turn around: snu	vende 
+turn round: snu	vende 
+drop: dette	falle 
+fall: dette	falle 
+grasp: holde 
+hold: holde 
+hold in arm: holde 
+squeeze: klemme	presse	trykke 
+wring: klemme	presse	trykke 
+rub: gni	gnu 
+wipe: tørke 
+wash: vaske 
+wash clothes: vaske 
+pull: dra	trekke 
+push: dytte	skyve 
+shove: dytte	skyve 
+throw: hive	kaste	slenge 
+bind: binde	knyte 
+fasten: binde	knyte 
+tie: binde	knyte 
+tie up: binde	knyte 
+sew: sy 
+count: antall	tall	telle 
+enumerate: antall	tall	telle 
+number: antall	tall	telle 
+tally: antall	tall	telle 
+sing: synge 
+have fun: leike	leke 
+play: leike	leke 
+float: flyte 
+flow: flomme	flyte	renne	strømme 
+freeze: fryse 
+swell: hovne	svelle	svulme 
+brook: elv 
+river: elv 
+stream: elv 
+lake: innsjø	tjern	vann 
+ocean: hav	sjø 
+sea: hav	sjø 
+dust: bøss	støv 
+fog: tåke 
+sky: himmel 
+snow: snø 
+ice: is 
+blaze: brenne 
+day: dag 
+daylight: dag 
+daytime: dag 
+old: gammal	gammel 
+bad: dårlig	ille	vond 
+evil: dårlig	ille	vond 
+rot: råtten 
+rotten: råtten 
+dirty: skitten 
+filthy: skitten 
+soiled: skitten 
+straight: rett 
+sharp: skarp 
+blunt: sløv 
+smooth: glatt	jevn	slett 
+damp: bløt	våt 
+wet: bløt	våt 
+correct: rett 
+right side: høyre 
+left: venstre 
+at: hos	på 
+with: med 
+and: og 
+if: hvis	om 
+because: fordi	på grunn av at 

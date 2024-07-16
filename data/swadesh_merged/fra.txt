@@ -1,0 +1,400 @@
+all: tous | chaque	tous	tout 
+all: tout | chaque	tous	tout 
+and: et 
+animal: bête, animal | animal	bête 
+ashes: cendre | cendre	cendres 
+ashes: cendres | cendre	cendres 
+at: à | en	à 
+back: dos 
+bad: mauvais | mal	mauvais 
+bad: pas bien | mal	mauvais 
+bark:  écorce 
+because: parce que 
+belly: ventre | abdomen	estomac	ventre 
+big: grand | grand	grandeur de taille	gros 
+big: gros | grand	grandeur de taille	gros 
+bird: oiseau 
+bite: mordre 
+black: noir | noir	noircir 
+blood: sang 
+blow: souffler (v.) 
+bone: os 
+breast: poitrine | mamelle	poitrine	sein 
+breast: sein | mamelle	poitrine	sein 
+breathe: respirer (v.) | haleine	respirer 
+burn: brûler | brûler	flamber	se brûler 
+child: enfant 
+cloud: nuage | nuage	nue 
+cold: froid | avoir froid	froid 
+come: venir | venir	venir de 
+count: compter (v.) | compter	nombre 
+cut: couper (v.) 
+day: jour | jour	journée 
+day: journée | jour	journée 
+die: crever | mort	mourir 
+die: mourir | mort	mourir 
+dig: creuser (v.) | creuser	piocher 
+dirty: sale | crasseux	sale 
+dog: chien 
+drink: boire 
+drink: (n.) boisson | boire 
+dry: sec 
+dry: (v.) sécher | sec 
+dust: poussière 
+ear: oreille 
+earth: terre | sol	terre 
+eat: manger 
+egg: oeuf | oeuf	œuf 
+eye: oeil | oeil	œil 
+fall: tomber (v.) 
+far: loin | distant	loin	lointain	éloigné 
+father: père | mon père	père	son père	ton père 
+fat (n.): graisse 
+fat (n.): (le) gras (e.g. "du jambon" : of ham 
+fear: peur | avoir peur	craindre	crainte	peur 
+feather: plume 
+few: peu de 
+fight: bagarre | combattre	lutter	se battre 
+fingernail: griffe | griffe	ongle 
+fingernail: ongle | griffe	ongle 
+fire: feu 
+fish: poisson 
+fish: (v.) pêcher | poisson 
+five: cinq 
+float: flotter (v.) 
+flow: circulation | couler 
+flower: fleur 
+fly (v.): voler 
+fog: brouillard | brouillard	brume 
+fog: (le) fog | brouillard	brume 
+foot: pied 
+forest: forêt | bois	forêt	sylve 
+four: quatre 
+freeze: geler (v.) 
+fruit: fruit 
+full: plein 
+give: donner 
+good: bon 
+good: (n.) (le) bien | bon 
+grass: herbe 
+green: vert 
+guts: entrailles | boyaux	entrailles	intestin	intestins	tripes 
+hair: cheveu | cheveu	cheveux	poil 
+hair: cheveux | cheveu	cheveux	poil 
+hair: poil | cheveu	cheveux	poil 
+hand: main | droit	main	main gauche | bras	main 
+head: tête | chef	tête 
+hear: entendre | entendre	ouïr 
+heart: coeur | coeur	cœur 
+heavy: lourd 
+he: lui,il 
+here: ici 
+hit: frapper (v.) | battre	donner un coup	frapper 
+hold: tenir (v.) 
+horn: corne 
+how: Comment | comment 
+hunt: chasser (v.) 
+husband: mari, époux | mari	époux 
+ice: glace | glace	verglas 
+if: si 
+I: je | je	moi 
+in: dans | dans	dedans	en	à l’intérieur 
+kill: tuer | chasser	tuer 
+knee: genou 
+know: savoir | connaître	savoir 
+lake: lac 
+laugh: rire (v.) 
+leaf: feuille 
+left: gauche | gauche	à gauche 
+leg: jambe 
+lie: être couché | se coucher | gésir	mensonge	mentir	s’étendre 
+lie: se coucher | gésir	mensonge	mentir	s’étendre 
+lie: s\étendre | se coucher | gésir	mensonge	mentir	s’étendre 
+liver: foie 
+live: vivre (v.) | en vie	vie	vivant	vivre 
+long: long | langue	long 
+louse: pou 
+man: homme | homme	humain	personne	être humain 
+many: beaucoup | beaucoup	maint	plusieurs 
+many: nombre (de) | beaucoup	maint	plusieurs 
+meat: chair | chair	viande 
+meat: viande | chair | chair	viande 
+moon: lune 
+mother: mère, maman | ma mère	mère	sa mère	ta mère 
+mountain: montagne | colline	mont	montagne 
+mouth: bouche 
+name: nom | nom	titre 
+name: (v.) nommer | nom	titre 
+narrow: étroit 
+near: proche | proche	près 
+neck: cou | cou	nuque 
+new: nouveau | neuf	nouveau 
+night: nuit 
+nose: nez 
+not: ne… pas | ne pas	ne…pas 
+not: pas (in "not here" : "pas là" | ne pas	ne…pas 
+old: agé | ancien	vieux 
+old: ancien | ancien	vieux 
+old: vieil | ancien	vieux 
+old: vieux | ancien	vieux 
+one: un | un	une 
+one: une | un	une 
+other: autre | autre	d’autres 
+person: personne | homme	humain	personne	être humain 
+play: jouer (v.) | jouer	s’amuser 
+pull: tirez | tirer 
+push: poussez (v.) | pousser 
+rain: averse | pluie 
+rain: pluie 
+rain: (v.) pleuvoir | pluie 
+red: rouge | faire rouge	rouge 
+right: droite | droit	main	main gauche | droit	droite	à droite 
+river: fleuve | cours d’eau	fleuve	rivière	ruisseau 
+river: rivière | cours d’eau	fleuve	rivière	ruisseau 
+road: chemin | chemin	route 
+road: "on the roaf" : "en route" | chemin	route 
+road: route | chemin	route 
+road: rue | chemin	route 
+root: racine 
+rope: corde 
+rotten: pourri | gâté	pourri	pourriture 
+round: rond | rond	ronde 
+rub: frotter (v.) | essuyer	frayer	frotter 
+salt: sel 
+sand: sable | sabble	sable 
+say: dire | sabble	sable 
+scratch: gratter (v.) 
+sea: mer | mer	océan 
+seed: graine | grain	graine	semence 
+seed: semence | grain	graine	semence 
+see: voir 
+sew: coudre 
+short: petit | court	devenir court 
+sing: chanter (v.) | chanson	chant	chanter 
+sit: être assis | s’asseoir 
+sit: s\asseoir | s’asseoir 
+skin: écorcher (verb to skin) | cuir	peau 
+skin: peau | cuir	peau 
+sky: ciel 
+sleep: dormir 
+small: petit | petit	petitesse 
+smell: sentir (v.) | odeur	sentir 
+smoke: fumée 
+smoke: (v) fumer | fumée 
+snake: serpent | couleuvre	serpent 
+snow: neige 
+some: quelque, quelques | quelque	quelques	un peu 
+spit: cracher (v.) 
+split: fente=split wood | diviser	fendre	ouvrir avec un couteau 
+squeeze: serrer (v.) | comprimer	presser	serrer 
+stab: coup de couteau (n.) | poignarder 
+stand: être debout | debout	se lever	se tenir debout	être 
+stand: rester | debout	se lever	se tenir debout	être 
+stand: se tenir | debout	se lever	se tenir debout	être 
+star: étoile 
+star: (une) star | étoile 
+stick: bâton | branche	bâton	rameau 
+stone: pierre | pierre	roc	rocher 
+suck: sucer (v.) 
+sun: soleil 
+swim: nager 
+tail: queue 
+that: ce...là (that bird : "cet oiseau-là"; cela. | ce	ce-là	cela	celui-là	cet	cette | un	une 
+that: celui-là | ce	ce-là	cela	celui-là	cet	cette | un	une 
+there: là | là	là-bas 
+they: ils | elles	eux	ils 
+thick: gros | gras	gros	grossier	épais	épaisse 
+think: penser (v.) | penser	savoir 
+thin: mince | maigre	mince 
+this: celui-ci | ce	ce -ci	ceci	cet	cette 
+this: ce (this bird) cette (id. fem.), ceci (this thing here) | ce	ce -ci	ceci	cet	cette 
+thou: tu | tu	vous 
+thou: vous | tu	vous 
+three: trois 
+throw: jeter, lancer | jeter	lancer 
+tie: attacher (v.) | attacher	lier 
+tongue: langue 
+tooth: dent 
+tree: arbre 
+turn: tourner | culbuter	retourner	se retourner	tourner 
+two: deux 
+vomit: vomir (v.) 
+walk: marcher | marcher	se promener 
+warm: chaud | assez chaud	chaud	tiède 
+wash: laver (v.) 
+water: eau 
+we: nous 
+wet: mouillé | humide	mouillé 
+what: que | quoi 
+what: quoi? 
+when: quand 
+where: Où...? | où 
+white: blanc | blanc	blancheur	blanchir 
+who: qui 
+who: qui? 
+wide: large | large	largeur 
+wife: épouse | femme	première femme	épouse 
+wind: vent 
+wing: aile 
+wipe: essuyer (v.) 
+with: avec 
+woman: femme 
+worm: ver | ver	ver de terre 
+year: an | an	année 
+year: année | an	année 
+yellow: jaune 
+you: vous | tu	vous 
+you: vouz | tu	vous 
+every: chaque	tous	tout 
+ash: cendre	cendres 
+bark: écorce 
+abdomen: abdomen	estomac	ventre 
+bigness: grand	grandeur de taille	gros 
+large: grand	grandeur de taille	gros 
+breasts: mamelle	poitrine	sein 
+claw: griffe 
+nail: griffe 
+talon: griffe 
+come from: venir	venir de 
+be dead: mort	mourir 
+dead: mort	mourir 
+ground: sol	terre 
+land: sol	terre 
+soil: sol	terre 
+fly: voler 
+fly v.: voler 
+left hand: droit	main	main gauche 
+1 sg.: je	moi 
+be knowledgeable: connaître	savoir 
+lie down: se coucher 
+head louse: pou 
+male: homme 
+much: beaucoup	maint	plusieurs 
+multiple: beaucoup	maint	plusieurs 
+several: beaucoup	maint	plusieurs 
+flesh: chair 
+hill: colline	mont	montagne 
+title: nom	titre 
+nighttime: nuit 
+adulterous: un	une 
+single: un	une 
+the: un	une 
+unprincipled: un	une 
+human: homme	humain	personne	être humain 
+human being: homme	humain	personne	être humain 
+rainy weather: pluie 
+path: chemin	route 
+route: chemin	route 
+hide: cuir	peau 
+little: petit	petitesse 
+smallness: petit	petitesse 
+rock: pierre	roc	rocher 
+2 sg: tu	vous 
+grind: deux 
+go: marcher	se promener 
+hot: assez chaud	chaud	tiède 
+1 pl. inc.: nous 
+we₁: nous 
+whiteness: blanc	blancheur	blanchir 
+who?: qui 
+female: femme 
+distant: distant	loin	lointain	éloigné 
+dull: lourd 
+serious: lourd 
+close: proche	près 
+ner: proche	près 
+earthworm: ver	ver de terre 
+3 sg.: il 
+he: il 
+she: il 
+2 pl.: vous 
+ye: vous 
+you all: vous 
+3 pl.: elles	eux	ils 
+where?: où 
+when?: quand 
+how?: comment 
+few: peu 
+broad: large	largeur 
+wideness: large	largeur 
+fat: graisse	gras	le gras 
+principal wife: femme	première femme	épouse 
+his mother: ma mère	mère	sa mère	ta mère 
+my mother: ma mère	mère	sa mère	ta mère 
+his father: mon père	père	son père	ton père 
+my father: mon père	père	son père	ton père 
+woods: bois	forêt	sylve 
+branch: branche	bâton	rameau 
+cord: corde 
+grease: graisse	gras	le gras 
+arm: bras	main 
+gut: boyaux	entrailles	intestin	intestins	tripes 
+insides: boyaux	entrailles	intestin	intestins	tripes 
+intestine: boyaux	entrailles	intestin	intestins	tripes 
+intestines: boyaux	entrailles	intestin	intestins	tripes 
+suck: sucer 
+spit: cracher 
+vomit: vomir 
+blow: souffler 
+breath: haleine	respirer 
+laugh: rire 
+laughter: rire 
+cogitate: penser	savoir 
+reflect: penser	savoir 
+sniff: odeur	sentir 
+afraid: avoir peur	craindre	crainte	peur 
+be afraid: avoir peur	craindre	crainte	peur 
+fright: avoir peur	craindre	crainte	peur 
+alive: en vie	vie	vivant	vivre 
+be alive: en vie	vie	vivant	vivre 
+life: en vie	vie	vivant	vivre 
+living: en vie	vie	vivant	vivre 
+hunt: chasser 
+beat: battre	donner un coup	frapper 
+strike: battre	donner un coup	frapper 
+cut: couper 
+hack: couper 
+cut open: diviser	fendre	ouvrir avec un couteau 
+pierce: poignarder 
+scratch: gratter 
+tell lies: gésir	mensonge	mentir	s’étendre 
+turn around: culbuter	retourner	se retourner	tourner 
+turn round: culbuter	retourner	se retourner	tourner 
+drop: tomber 
+fall: tomber 
+grasp: tenir 
+hold: tenir 
+hold in arm: tenir 
+wring: comprimer	presser	serrer 
+wipe: essuyer 
+wash: laver 
+wash clothes: laver 
+shove: pousser 
+bind: attacher	lier 
+fasten: attacher	lier 
+tie up: attacher	lier 
+enumerate: compter	nombre 
+number: compter	nombre 
+tally: compter	nombre 
+have fun: jouer	s’amuser 
+float: flotter 
+freeze: geler 
+swell: enfler	gonfler	se gonfler 
+brook: cours d’eau	fleuve	rivière	ruisseau 
+stream: cours d’eau	fleuve	rivière	ruisseau 
+ocean: mer	océan 
+blaze: brûler	flamber	se brûler 
+daylight: jour	journée 
+daytime: jour	journée 
+evil: mal	mauvais 
+rot: gâté	pourri	pourriture 
+filthy: crasseux	sale 
+soiled: crasseux	sale 
+straight: droit 
+sharp: affilé	aigu	aiguisé	devenir tranchant	pointu	tranchant	trenchant 
+blunt: moins aigue	moins tranchant	émoussé 
+smooth: lisse	uni 
+damp: humide	mouillé 
+correct: correct	juste	raison 
+right side: droit	droite	à droite 
+inside: dans	dedans	en	à l’intérieur 

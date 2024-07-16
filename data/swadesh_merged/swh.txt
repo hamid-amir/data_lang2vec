@@ -1,0 +1,338 @@
+all: -ote	ote 
+every: -ote	ote 
+ash: jivu	majivu 
+ashes: jivu	majivu 
+bark: gamba	gamb~a	gome 
+abdomen: tumbo	tumb~o 
+belly: tumbo	tumb~o 
+big: -kubwa	ku 
+bigness: -kubwa	ku 
+large: -kubwa	ku 
+bird: ndege	nd~ege 
+bite: -donoa	-uma	donoa 
+black: -eusi	eusi 
+blood: %damu	damu 
+bone: mfupa 
+breast: kifua	titi	ziwa 
+breasts: kifua	titi	ziwa 
+claw: ukuCa	ukucha 
+nail: ukuCa	ukucha 
+talon: ukuCa	ukucha 
+cloud: wiNu	wingu 
+cold: baridi 
+come: -ja	ja 
+come from: -ja	ja 
+be dead: -fa	fa 
+dead: -fa	fa 
+die: -fa	fa 
+dog: mbwa	mb~wa 
+drink: -nywa	5w~a 
+dry: -kauka	-kavu	kavu 
+ear: sikio 
+earth: ardhi	ardh~i	nchi kavu 
+ground: ardhi	ardh~i	nchi kavu 
+land: ardhi	ardh~i	nchi kavu 
+soil: ardhi	ardh~i	nchi kavu 
+eat: -la	la 
+egg: yai 
+eye: jiCo	jicho 
+fat: mori 
+fat n.: mori 
+grease: mori 
+lubricant: mori 
+oil: mori 
+feather: u5oya	unyoya 
+fire: moto 
+fish: %samaki	samaki 
+fly: -paa	-ruka	pa 
+fly v.: -paa	-ruka	pa 
+foot: mgu	mguu 
+full: -jaa	-nene	nene 
+give: -pa	-toa	pa 
+good: -ema	ema 
+green: kijani 
+hair: 5w~ele	nywele 
+hand: mkono 
+left hand: mkono 
+right: mkono 
+head: kiCwa	kichwa 
+hear: -sikia	sikia 
+heart: moyo 
+horn: pembe	pemb~e	upembe 
+1 sg.: mimi 
+I: mimi 
+kill: -ua	ua 
+knee: goti 
+be knowledgeable: -fahamu	-jua	fahamu 
+know: -fahamu	-jua	fahamu 
+leaf: jani 
+lie: -lala	gona 
+lie down: -lala	gona 
+liver: ini	maini 
+long: -refu	refu 
+head louse: Cawa	chawa 
+louse: Cawa	chawa 
+male: mwanamume	mw~anamume 
+man: mtu 
+many: -ingi	iNi	sana 
+much: -ingi	iNi	sana 
+multiple: -ingi	iNi	sana 
+several: -ingi	iNi	sana 
+flesh: 5ama	nyama 
+meat: 5ama	nyama 
+moon: mwezi	mw~ezi 
+hill: kilima	mlima 
+mountain: kilima	mlima 
+mouth: ki5wa	kinywa	mdomo 
+name: jina 
+title: jina 
+neck: SiNo	shingo 
+new: -pya	py~a 
+night: usiku 
+nighttime: usiku 
+nose: pua 
+not: -si-	ha-	si 
+adulterous: -moja	moja 
+one: -moja	moja 
+single: -moja	moja 
+that: ile	kile	lile	ule	yule 
+the: -moja	moja 
+unprincipled: -moja	moja 
+human: mtu 
+human being: mtu 
+person: mtu 
+rain: mvua	mv~ua 
+rainy weather: mvua	mv~ua 
+red: -ekundu	ekund~u 
+path: 5j~ia	barabara	njia 
+road: 5j~ia	barabara	njia 
+route: 5j~ia	barabara	njia 
+root: mzizi 
+round: duara	mviringo 
+sand: mchanga 
+say: -ambia	-sema	sema 
+see: -ona	ona 
+seed: mbegu	mb~egu 
+sit: -kaa	keti 
+hide: Nozi	ngozi 
+skin: Nozi	ngozi 
+sleep: -lala	lala 
+little: -dogo	dogo 
+small: -dogo	dogo 
+smallness: -dogo	dogo 
+smoke: moSi	moshi 
+stand: amka 
+star: 5ota	nyota 
+rock: jiwe 
+stone: jiwe 
+sun: jua 
+swim: -ogelea	ogelea 
+tail: mkia 
+this: hii	hiki	hili	huu	huyu	lile	ule 
+2 sg: 5i5i	wewe 
+thou: 5i5i	wewe 
+you: 5i5i	wewe 
+tongue: ulimi 
+tooth: jino 
+tree: mti 
+grind: -wili	mbili	mb~ili 
+two: -wili	mbili	mb~ili 
+go: -enda kwa miguu	-tembea	temb~ea 
+walk: -enda kwa miguu	-tembea	temb~ea 
+hot: joto	moto 
+warm: joto	moto 
+water: maji 
+1 pl. inc.: sisi 
+we: sisi 
+we₁: sisi 
+what: nini 
+white: -eupe	eupe 
+whiteness: -eupe	eupe 
+who: nani 
+who?: nani 
+female: bibi	gaSi	gashi	mwanamke 
+woman: bibi	gaSi	gashi	mwanamke 
+yellow: ma5j~ano	manjano 
+distant: mbali 
+far: mbali 
+dull: -zito 
+heavy: -zito 
+serious: -zito 
+close: karibu 
+near: karibu 
+ner: karibu 
+salt: chumvi 
+short: -fupi 
+snake: nyoka 
+thin: -anana	-embamba 
+wind: homu	upepo 
+earthworm: funza	mnyoo	uchango 
+worm: funza	mnyoo	uchango 
+year: mwaka 
+3 sg.: yeye 
+he: yeye 
+she: yeye 
+2 pl.: ninyi	nyinyi 
+ye: ninyi	nyinyi 
+you all: ninyi	nyinyi 
+3 pl.: wao 
+they: wao 
+here: hapa 
+there: kule	pale 
+where: wapi 
+where?: wapi 
+when: lini 
+when?: lini 
+how: -je	vipi 
+how?: -je	vipi 
+some: baadhi ya	chache 
+few: -chache	kidogo 
+other: -ingine 
+three: -tatu	tatu 
+four: -ne	nne 
+five: -tano	tano 
+broad: -pana 
+wide: -pana 
+wideness: -pana 
+thick: -nene 
+narrow: -embamba 
+child: mtoto 
+principal wife: mke 
+wife: mke 
+husband: mume 
+his mother: mama 
+mother: mama 
+my mother: mama 
+father: baba 
+his father: baba 
+my father: baba 
+animal: mnyama 
+forest: msitu	mwitu 
+woods: msitu	mwitu 
+branch: fimbo	tawi 
+stick: fimbo	tawi 
+fruit: tunda 
+flower: ua 
+grass: jani	nyasi 
+cord: kamba 
+rope: kamba 
+fingernail: ukucha 
+leg: mguu 
+arm: mkono 
+wing: bawa	ubawa 
+gut: utumbo 
+guts: utumbo 
+insides: utumbo 
+intestine: utumbo 
+intestines: utumbo 
+back: mgongo 
+suck: -amwa	-nyonya 
+spit: -tema	-tema 2 mate	-tema mate 
+vomit: -tapika 
+blow: -puliza	-vuma 
+breath: -pumua 
+breathe: -pumua 
+laugh: -cheka 
+laughter: -cheka 
+cogitate: -dhani	-fikiri	-waza 
+reflect: -dhani	-fikiri	-waza 
+think: -dhani	-fikiri	-waza 
+smell: -nukilia	-nusa	harufu 
+sniff: -nukilia	-nusa	harufu 
+afraid: -ogopa	hofu	woga 
+be afraid: -ogopa	hofu	woga 
+fear: -ogopa	hofu	woga 
+fright: -ogopa	hofu	woga 
+alive: -ishi	hai 
+be alive: -ishi	hai 
+life: -ishi	hai 
+live: -ishi	hai 
+living: -ishi	hai 
+fight: -pigana 
+hunt: -winda 
+beat: -gonga	-piga 
+hit: -gonga	-piga 
+strike: -gonga	-piga 
+cut: -kata 
+hack: -kata 
+cut open: -pasua 
+split: -pasua 
+pierce: -choma 
+stab: -choma 
+scratch: -kuna	-parua 
+dig: -chimba 
+tell lies: -gona	uwongo 
+turn: -geuka	-pindua	-pinduka 
+turn around: -geuka	-pindua	-pinduka 
+turn round: -geuka	-pindua	-pinduka 
+drop: -anguka 
+fall: -anguka 
+grasp: -shika 
+hold: -shika 
+hold in arm: -shika 
+squeeze: -kaba	-kama	-kamua	-minya	-songa 
+wring: -kaba	-kama	-kamua	-minya	-songa 
+rub: -chua	-fikicha	-sugua 
+wipe: -futa	-pangusa 
+wash: -fua	-nawa	-oga	-osha	-safisha 
+wash clothes: -fua	-nawa	-oga	-osha	-safisha 
+pull: -vuta 
+push: -guta	-sukuma 
+shove: -guta	-sukuma 
+throw: -rusha	-tupa 
+bind: -funga 
+fasten: -funga 
+tie: -funga 
+tie up: -funga 
+sew: -shona 
+count: -hesabu 
+enumerate: -hesabu 
+number: -hesabu 
+tally: -hesabu 
+sing: -imba 
+have fun: -cheza 
+play: -cheza 
+float: -elea 
+flow: -tiririka 
+freeze: -ganda 
+swell: -fura 
+brook: mto 
+river: mto 
+stream: mto 
+lake: ziwa 
+ocean: bahari 
+sea: bahari 
+dust: vumbi 
+fog: ukungu 
+sky: anga	mbingu 
+snow: theluji 
+ice: barafu 
+blaze: -ungua	-waka	waka 
+burn: -ungua	-waka	waka 
+day: mchana	siku 
+daylight: mchana	siku 
+daytime: mchana	siku 
+old: -zee 
+bad: -baya	-ovu 
+evil: -baya	-ovu 
+rot: -bovu 
+rotten: -bovu 
+dirty: -chafu 
+filthy: -chafu 
+soiled: -chafu 
+straight: -nyooka	nyofu 
+sharp: -kali	chungu 
+blunt: butu 
+smooth: -ororo	laini 
+damp: -lowana	chepechepe	kimaji	majimaji 
+wet: -lowana	chepechepe	kimaji	majimaji 
+correct: barabara	sahihi	sawa 
+right side: kulia	kuume 
+left: kushoto 
+at: -ni	pa 
+in: bi	fi	ndani 
+inside: bi	fi	ndani 
+with: kwa	na 
+and: na 
+if: -ki-	-ngali-	-nge-	ikiwa	iwapo	kama 
+because: kwa sababu	sababu 

@@ -1,0 +1,289 @@
+all: ʼwelm 
+every: ʼwelm 
+ash: ʼhep 
+ashes: ʼhep 
+bark: ʼpˀat 
+big: ʼčˀay- 
+bigness: ʼčˀay- 
+large: ʼčˀay- 
+bird: ʼčˀeʔ 
+bite: ʼšō- 
+black: ʼpˀol- 
+blood: Sau	ʼšaʔw 
+bone: aur	ʼkˀoʔ 
+breast: naka	ʼhēn 
+breasts: naka	ʼhēn 
+claw: ʼḳačwl 
+nail: ʼḳačwl 
+talon: ʼḳačwl 
+cloud: ʼpaʔwn 
+cold: ʼhoš-	ʼpoʔtar- 
+come: yieSgot	ʼhēwt-	ʼā- 
+come from: yieSgot	ʼhēwt-	ʼā- 
+be dead: itkairSko	itkamenSko	ʼham- 
+dead: itkairSko	itkamenSko	ʼham- 
+die: itkairSko	itkamenSko	ʼham- 
+dog: Samenue	kelenue	ʼwačn 
+drink: e ʼleʔ-	itkumhamirSko	k mʼleʔ- 
+dry: ʼār- 
+ear: San	ʼšān 
+eat: ʼhatˀ-ye-	ʼpˀaʔen	ʼwetˀ- 
+egg: ʼseʔn	ʼōm 
+eye: otl	ʼaykˀoy	ʼotl 
+feather: ʼawr 
+fire: yaik	ʼyayk 
+fish: goin	ḳʼoyen 
+fly: hāše-	ʼheʔn-	ʼwāleš- 
+fly v.: hāše-	ʼheʔn-	ʼwāleš- 
+foot: ʼkˀaw 
+full: Sarene	ʼšār- 
+give: ʼe- 
+good: k ʼomkˀenk	ʼkˀet-	ʼtol ʼkˀet- 
+green: ʼxeštˀltˀe- 
+hair: ʼgotˀ 
+hand: kcen	ʼčˀen 
+left hand: kcen	ʼčˀen 
+right: kcen	ʼčˀen 
+head: ʼčˀeʔtr 
+hear: ity~oSko	ʼyoy- 
+heart: ʼkoyenkˀn	ʼšeh 
+horn: ʼtˀāš 
+1 sg.: i-	y-	ya	ʼyā 
+I: i-	y-	ya	ʼyā 
+kill: eʼma- 
+knee: tepen	ʼtepˀn	ʼtˀeml	ʼtˀepˀn 
+be knowledgeable: ʼōmkˀ- 
+know: ʼōmkˀ- 
+leaf: San 
+lie: eʼhā-	eʼšē- 
+lie down: eʼhā-	eʼšē- 
+liver: ʼčˀew 
+long: ʼter- 
+head louse: cero	ʼčˀeroʔ 
+louse: cero	ʼčˀeroʔ 
+male: ʼaln 
+man: ʼaln 
+many: eʼsew-	ʼalt	ʼčˀayto 
+much: eʼsew-	ʼalt	ʼčˀayto 
+multiple: eʼsew-	ʼalt	ʼčˀayto 
+several: eʼsew-	ʼalt	ʼčˀayto 
+flesh: ʼyepˀr 
+meat: ʼyepˀr 
+moon: ʼḳēngenkon 
+hill: yirun	ʼgēwt 
+mountain: yirun	ʼgēwt 
+mouth: ʼkˀonkˀn 
+name: ʼyā 
+title: ʼyā 
+neck: ʼerwerkˀn 
+new: mago	ʼmaʔkˀo 
+night: ktenon	ʼtˀēnš 
+nighttime: ktenon	ʼtˀēnš 
+nose: or	ʼor 
+adulterous: CoCe	chochieg 
+one: CoCe	chochieg 
+single: CoCe	chochieg 
+that: CoCe	chochieg 
+the: CoCe	chochieg 
+unprincipled: CoCe	chochieg 
+rain: ʼtˀēw 
+rainy weather: ʼtˀēw 
+red: ʼḳˀāpˀ-	ʼḳˀāpˀ-n-k 
+root: ʼtˀapr 
+round: ʼkōrtˀer- 
+sand: ʼtēm 
+say: ʼaʔla-	ʼey- 
+see: eʼkˀē-	itgeSko	ʼe- 
+sit: ʼoyeʔ-	ʼpe- 
+hide: cek	ʼpˀat 
+skin: cek	ʼpˀat 
+sleep: eʼšeʔne-	ʼkˀōtˀ- 
+little: ʼočˀ- 
+small: ʼočˀ- 
+smallness: ʼočˀ- 
+smoke: ʼpˀaʔn 
+star: kterke	ʼtˀerḳeʔ 
+rock: yaten	ʼyatn 
+stone: yaten	ʼyatn 
+sun: kenikenken	ʼḳēngenkn 
+swim: ʼšāg-he- 
+tail: ʼtˀēr 
+2 sg: m-	wa	wukw~a	ʼmàa	ʼmā 
+thou: m-	wa	wukw~a	ʼmàa	ʼmā 
+you: m-	wa	wukw~a	ʼmàa	ʼmā 
+tongue: ktal	ʼtˀal 
+tooth: hor	ʼor	ʼōr 
+grind: h’áuke	wame	ʼhawke 
+two: h’áuke	wame	ʼhawke 
+go: eʼrē- 
+walk: eʼrē- 
+hot: ʼpōš 
+warm: ʼpōš 
+water: hamin	le	ʼleʔ 
+1 pl. inc.: uSw~a	ukw~a 
+we: uSw~a	ukw~a 
+we₁: uSw~a	ukw~a 
+what: ʼket 
+white: ʼor- 
+whiteness: ʼor- 
+who: ʼhem 
+who?: ʼhem 
+female: ʼkārkn 
+woman: ʼkārkn 
+yellow: ʼwāytˀ- 
+distant: eʼwn 
+far: eʼwn 
+dull: ʼpoʔgney- 
+heavy: ʼpoʔgney- 
+serious: ʼpoʔgney- 
+close: ʼ-or	ʼekˀl	ʼene-kˀ	ʼorh 
+near: ʼ-or	ʼekˀl	ʼene-kˀ	ʼorh 
+ner: ʼ-or	ʼekˀl	ʼene-kˀ	ʼorh 
+salt: ʼhečn	ʼčˀagaʔ 
+short: ʼlapč	ʼčˀam- 
+thin: eʼhatr-	ʼkˀelmn 
+wind: ʼhošn 
+earthworm: ʼšāymr 
+worm: ʼšāymr 
+year: ʼsōr 
+2 pl.: mk	mš 
+ye: mk	mš 
+you all: mk	mš 
+3 pl.: t-	zero	ʼtā 
+they: t-	zero	ʼtā 
+where: ʼken-ay	ʼken-ay-kˀo	ʼken-ay-kˀr 
+where?: ʼken-ay	ʼken-ay-kˀo	ʼken-ay-kˀr 
+when: ʼkenoš < 
+when?: ʼkenoš < 
+how: ʼkenkˀ 
+how?: ʼkenkˀ 
+few: ʼončˀo	ʼyokˀnk 
+three: ká’ash	ʼḳaʔš 
+four: kague	ʼḳāge 
+five: k’tsáen	ḳ ʼtˀen 
+broad: eʼdaw- 
+wide: eʼdaw- 
+wideness: eʼdaw- 
+fat: ʼol	ʼām 
+thick: eʼdaw- 
+narrow: eʼhatr- 
+child: ʼtˀaleʔnk 
+principal wife: ʼšē 
+wife: ʼšē 
+husband: ʼšē 
+his mother: ʼy-ān 
+mother: ʼy-ān 
+my mother: ʼy-ān 
+father: ʼy-ānkˀo 
+his father: ʼy-ānkˀo 
+my father: ʼy-ānkˀo 
+forest: ʼḳaroʔ 
+woods: ʼḳaroʔ 
+fruit: ʼḳōn	ʼḳˀoʔn 
+grass: ʼkˀōr 
+cord: ʼkawn	ʼkˀāčˀ	ʼnontegen 
+rope: ʼkawn	ʼkˀāčˀ	ʼnontegen 
+grease: ʼol	ʼām 
+fingernail: ʼḳačwl 
+leg: ʼno 
+wing: ʼčˀār 
+gut: ʼlē 
+guts: ʼlē 
+insides: ʼlē 
+intestine: ʼlē 
+intestines: ʼlē 
+back: ʼok 
+spit: ʼtēp 
+vomit: ʼwayg̣n-	ʼʔwtˀon-	ʼḳoʔrn- 
+blow: eʼšāpˀ- 
+breath: ʼhoh- 
+breathe: ʼhoh- 
+laugh: eyʼwē	ʼēyo- 
+laughter: eyʼwē	ʼēyo- 
+cogitate: ʼhō-	ʼpošm- 
+reflect: ʼhō-	ʼpošm- 
+think: ʼhō-	ʼpošm- 
+smell: ʼhēl- 
+sniff: ʼhēl- 
+afraid: eʼyon- 
+be afraid: eʼyon- 
+fear: eʼyon- 
+fright: eʼyon- 
+alive: ʼaykˀ- 
+be alive: ʼaykˀ- 
+life: ʼaykˀ- 
+live: ʼaykˀ- 
+living: ʼaykˀ- 
+fight: y ʼwor- 
+hunt: ʼāwkˀ-	ʼāwkˀ-en-k 
+beat: ʼ-ah-y-e-	ʼ-ahe- 
+hit: ʼ-ah-y-e-	ʼ-ahe- 
+strike: ʼ-ah-y-e-	ʼ-ahe- 
+cut: eḳˀnk	ʼtˀa	ʼwepˀlpˀ-	ʼčˀer- 
+hack: eḳˀnk	ʼtˀa	ʼwepˀlpˀ-	ʼčˀer- 
+pierce: ʼ-āmx-	ʼčˀaʔteš- 
+stab: ʼ-āmx-	ʼčˀaʔteš- 
+dig: m ʼsēwe-	ʼ-aʔy- 
+tell lies: ʼtˀār- 
+stand: ʼaʔyn- 
+drop: ʼw-ahe-	ʼw-at- 
+fall: ʼw-ahe-	ʼw-at- 
+grasp: ʼaʔy- 
+hold: ʼaʔy- 
+hold in arm: ʼaʔy- 
+rub: ʼ-āyho-	ʼhaloʔ- 
+wipe: ʼ-āyho-	ʼhaloʔ- 
+wash: eʼčˀe-	ʼčˀaʔ-	ʼčˀaʔ-mčˀ 
+wash clothes: eʼčˀe-	ʼčˀaʔ-	ʼčˀaʔ-mčˀ 
+push: m ʼwake-	ʼ-amneʔ-	ʼwor- 
+shove: m ʼwake-	ʼ-amneʔ-	ʼwor- 
+throw: ʼ-ayt-	ʼpˀaweʔ 
+bind: ʼ-oʔx- 
+fasten: ʼ-oʔx- 
+tie: ʼ-oʔx- 
+tie up: ʼ-oʔx- 
+sew: m ʼwākˀekˀe-	ʼhol- 
+count: ʼ-āym- 
+enumerate: ʼ-āym- 
+number: ʼ-āym- 
+tally: ʼ-āym- 
+sing: k ʼmaʔy-	k ʼwor- 
+have fun: ʼnāyen-	ʼxočˀr 
+play: ʼnāyen-	ʼxočˀr 
+brook: ʼkˀōn 
+river: ʼkˀōn 
+stream: ʼkˀōn 
+lake: ʼḳoy 
+ocean: ʼxōno 
+sea: ʼxōno 
+dust: ʼtēm-hn 
+fog: ʼaʔhoʔen 
+sky: ʼkˀōč 
+snow: ʼyēʔw 
+ice: ʼtaʔr 
+blaze: ʼw-āʔ-	ʼḳˀēḳ- 
+burn: ʼw-āʔ-	ʼḳˀēḳ- 
+day: ʼḳēngenkn 
+daylight: ʼḳēngenkn 
+daytime: ʼḳēngenkn 
+bad: ʼeʔnk	ʼgānknk	ʼtˀer-	ʼtˀero- 
+evil: ʼeʔnk	ʼgānknk	ʼtˀer-	ʼtˀero- 
+rot: ʼposḳnk 
+rotten: ʼposḳnk 
+dirty: ʼtˀārtˀš- 
+filthy: ʼtˀārtˀš- 
+soiled: ʼtˀārtˀš- 
+straight: ʼkokˀr-šo 
+sharp: ʼor ʼter- 
+blunt: ʼor ʼōltˀel- 
+smooth: ʼtolḳˀ- 
+damp: km ʼčahe-	ʼeʔne- 
+wet: km ʼčahe-	ʼeʔne- 
+correct: ʼkˀet- 
+right side: ʼkokˀr 
+left: oʼčānekˀr 
+in: ʼaš	ʼomš	ʼēmš 
+inside: ʼaš	ʼomš	ʼēmš 
+and: ʼāwe 
+if: or 
+because: ʼgelčo 

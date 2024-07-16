@@ -1,0 +1,150 @@
+all: ega 
+arm: haa(mugo) 
+ashes: wataaya(vogo) | wɑtaya	wɑtayaβogo 
+bark: (isa)paa\i | isa pɑʔi	pɑʔi 
+belly: aawa(ma) | ɑwa	ɑwama 
+big: naamu | nɑmu 
+bird: manïwa | manəwa 
+bite: sïyaavu | səyɑβu 
+black: yagwama 
+blood: kwe 
+bone: yakina 
+breast: aanya | anya	sanya 
+burn: ta\amavïwesio 
+claw: saapïnga | sɑpəŋa 
+cloud: kogwa 
+cold: wemanga | wemaŋa 
+come: mp-iyo | mpi	mpi-yo 
+die: piya\ma nkiyo | piya7ma nkiyo	piyaʔma nkiyo 
+dog: suya 
+drink: maa-na-manu | mɑ-na-manu	na 
+dry: yia 
+ear: kata\a | kata7a	kataʔa 
+earth: kwaka 
+eat: inyo 
+egg: hi\imïya | hiʔiməya 
+eye: tuma 
+fat (n.): aawa(\ma) 
+feather: haa | hɑ 
+fire: ta\a | ta7a	taʔa 
+fish: boipuyá | boipu7ya	boipuʔya 
+fly (v.): manumanuo\oyo 
+full: tataa | tata	tatɑ 
+give: simaanu | simɑnu 
+good: maanga | mɑŋa 
+green: i\isa | iʔisa 
+hair: njisa | nǯisa 
+head: magïna | magəna 
+hear: nyiaa-gatau-manu | gatau	nyiɑ-gatau-manu 
+heart: kwiyakina 
+horn: kaani | kani	kɑni 
+I: nyi(ko) | nyi	nyiko 
+kill: piya(navazavïnda) 
+knee: kwonga | kwonga	kwoŋa 
+know: nyukuaawianu | nykɳukuɑwianu 
+leaf: (isa)kïwa | isa kəwa	k3wa	kəwa 
+leg: sugwa 
+lie: se manu 
+liver: ke 
+long: saagwa | sɑgwa 
+louse: iya 
+man: kwe\wa | a7me	aʔme 
+many: tatau 
+meat: saagimïmo 
+moon: ki\yapa | kiʔyapa 
+mountain: kwaaya | kwaya	kwɑya 
+mouth: maanga | mɑŋa 
+name: nyanyaawo | nyanyawo	nyanyɑwo 
+neck: sukwaanga | sukwɑŋa 
+new: saanga | sanga	sɑŋa 
+night: kaaya | kaya	kɑya 
+nose: sipata 
+not: maa- | mɑ- 
+one: hunanïnko | hunan3nko	hunaninko	hunanənko 
+person: a\me | a7me	aʔme 
+rain: pi\ya | piʔya 
+red: aa\ya | ɑʔya 
+road: fia 
+root: pavapa(vogo) | paβapa	paβapaβogo 
+round: igameno 
+sand: (tega)waa\ya | tegawɑʔya	wɑʔya 
+say: nyiaa-ta-manu | tegawɑʔya	wɑʔya 
+seed: (isa)haama | hɑma	isahɑma 
+see: tïma kaan-amanu | kan	təma kɑn-amanu 
+sit: kawenu 
+skin: pa\a(me) | pa7a	paʔa	paʔame 
+sleep: semanu 
+small: waanyane (vogo) | wɑnyane-	wɑnyane-βogo 
+smoke: sugape(vogo) | sugape	sugapeβogo 
+stand: ka-waat-amanu 
+star: ema 
+stone: tega 
+sun: mape 
+swim: nankwaayo | nankwɑyo 
+tail: sïwana | səwana 
+that: wogo 
+this: titaaiyo | titɑyio 
+thou: si(go) | si	sigo 
+tongue: tewa 
+tooth: maanga | manga	mɑŋa 
+tree: isa 
+two: hukwego 
+walk: waatawaayo | wɑtawɑyo 
+warm: itinyaana 
+water: kwe(\ma) | kwe	kweʔma 
+we (incl.): naa(go) 
+what: pi\you | piʔyou 
+white: kwehu 
+who: tïgwakego | təgwakego 
+woman: amaa | amɑ 
+every: ega 
+ash: wɑtaya	wɑtayaβogo 
+abdomen: ɑwa	ɑwama 
+bigness: nɑmu 
+large: nɑmu 
+breasts: anya	sanya 
+nail: sɑpəŋa 
+talon: sɑpəŋa 
+come from: mpi	mpi-yo 
+be dead: piya7ma nkiyo	piyaʔma nkiyo 
+dead: piya7ma nkiyo	piyaʔma nkiyo 
+ground: kwaka 
+land: kwaka 
+soil: kwaka 
+fly: manumanuoʔoyo 
+fly v.: manumanuoʔoyo 
+1 sg.: nyi	nyiko 
+kill: piya 
+be knowledgeable: nykɳukuɑwianu 
+lie down: se manu 
+head louse: iya 
+male: kweʔwe 
+much: tatau 
+multiple: tatau 
+several: tatau 
+hill: kwaya	kwɑya 
+title: nyanyawo	nyanyɑwo 
+nighttime: kaya	kɑya 
+adulterous: hunan3nko	hunaninko	hunanənko 
+single: hunan3nko	hunaninko	hunanənko 
+the: hunan3nko	hunaninko	hunanənko 
+unprincipled: hunan3nko	hunaninko	hunanənko 
+human: a7me	aʔme 
+human being: a7me	aʔme 
+rainy weather: piʔya 
+path: fia 
+route: fia 
+hide: pa7a	paʔa	paʔame 
+little: wɑnyane-	wɑnyane-βogo 
+smallness: wɑnyane-	wɑnyane-βogo 
+rock: tega 
+2 sg: si	sigo 
+you: si	sigo 
+grind: hukwego 
+go: wɑtawɑyo 
+1 pl. inc.: na	nɑ	nɑgo 
+we: na	nɑ	nɑgo 
+we₁: na	nɑ	nɑgo 
+whiteness: kwehu 
+who?: təgwakego 
+female: amɑ 

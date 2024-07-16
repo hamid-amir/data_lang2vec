@@ -1,0 +1,264 @@
+all: wasif 
+every: wasif 
+ash: pāp 
+ashes: pāp 
+abdomen: gwaŋon 
+belly: gwaŋon 
+big: fariŋ 
+bigness: fariŋ 
+large: fariŋ 
+bird: [ŋ]kaŋ 
+bite: gair	geaŋ	ār 
+black: fose 
+blood: bi7	wi 
+bone: walo	waro 
+breast: sEson	seso	seso-n	sos 
+breasts: sEson	seso	seso-n	sos 
+burn: doŋ	naŋ 
+burn tr.: doŋ	naŋ 
+cloud: mūf 
+cold: tefetof 
+come: yoma7	yʌmaʔ 
+come from: yoma7	yʌmaʔ 
+be dead: emar	mar 
+dead: emar	mar 
+die: emar	mar 
+dog: icum	idzum	ijum 
+drink: nom	num 
+dry: reŋes	tsets	ŋraŋ 
+ear: nae	nae-n	nagEmpon 
+eat: wantaŋ	ān 
+egg: rowe	ŋarumur 
+eye: mara	mara-n	maranijin 
+feather: sani 
+fire: cif	dzif 
+fish: ci	dzi 
+fly: dzif 
+fly v.: dzif 
+full: isum 
+good: ŋarobiŋin 
+green: paraparats 
+hair: fofo-n 
+hand: baNi	baŋi-n	boNEn 
+left hand: baNi	baŋi-n	boNEn 
+right: baNi	baŋi-n	boNEn 
+head: ono waro 
+hear: rero 
+1 sg.: eca	eca7	edza 
+I: eca	eca7	edza 
+kill: its 
+knee: ononantut 
+be knowledgeable: jatin 
+know: jatin 
+leaf: jafan	yafaN 
+lie: [n]ta	i 
+lie down: [n]ta	i 
+liver: mimi	nu	nun	nū-n 
+long: fariŋ 
+head louse: gol	gor 
+louse: gol	gor 
+male: maro	ŋaemaro 
+man: NaeN	Nain	garagab	ŋaeŋ 
+moon: ŋantam 
+hill: momoa 
+mountain: momoa 
+mouth: mu-n 
+name: beNan	biNan	biŋan 
+title: beNan	biNan	biŋan 
+neck: ū-n 
+new: wafo	wafu 
+night: sefo 
+nighttime: sefo 
+nose: so	so nanCon	so-n 
+adulterous: oroc	orots	oroz 
+one: oroc	orots	oroz 
+single: oroc	orots	oroz 
+that: kai 
+the: oroc	orots	oroz 
+unprincipled: oroc	orots	oroz 
+human: NaeN	Nain	garagab	ŋaeŋ 
+human being: NaeN	Nain	garagab	ŋaeŋ 
+person: NaeN	Nain	garagab	ŋaeŋ 
+rain: jami 
+rainy weather: jami 
+red: wi 
+path: moaci	moadzi	moaji 
+road: moaci	moadzi	moaji 
+route: moaci	moadzi	moaji 
+root: wanats 
+sand: mag	simis 
+say: dzin	rere 
+see: etao	tao 
+sit: buri 
+hide: enegaNkan	gaNk~an	gaŋkan	rene	rene-n 
+skin: enegaNkan	gaNk~an	gaŋkan	rene	rene-n 
+little: enek 
+small: enek 
+smallness: enek 
+smoke: wason 
+star: Naromarec	ŋaromaredz 
+rock: caru	salu	tsaru 
+stone: caru	salu	tsaru 
+sun: su 
+swim: gamu	moab 
+tail: gots 
+this: kani 
+2 sg: jai	yei7 
+thou: jai	yei7 
+you: jai	yei7 
+tongue: ma	ma-n	man 
+tooth: ganti	gant~i	gontiwalo7 
+tree: orok 
+grind: selok	serok 
+two: selok	serok 
+go: [m]pom 
+walk: [m]pom 
+hot: watsots 
+warm: watsots 
+water: [m]po	goreg	mp~o	po7	saNen	saŋen 
+1 pl. inc.: jaer	jaga	yagai 
+we: jaer	jaga	yagai 
+we₁: jaer	jaga	yagai 
+what: rasera 
+white: [m]puf	sid 
+whiteness: [m]puf	sid 
+who: sera 
+who?: sera 
+female: afi 
+woman: afi 
+yellow: fim 
+dull: tsiri 
+heavy: tsiri 
+serious: tsiri 
+close: [n]tsig	ante 
+near: [n]tsig	ante 
+ner: [n]tsig	ante 
+salt: ŋi 
+short: [ŋ]koats 
+snake: mur 
+thin: nabanab 
+wind: [m]pas 
+year: jar 
+2 pl.: num 
+ye: num 
+you all: num 
+3 pl.: ges 
+they: ges 
+where: kana 
+where?: kana 
+when: iri kana 
+when?: iri kana 
+how: efakana 
+how?: efakana 
+other: fun	oŋan 
+three: serok orots	serok oroz 
+four: serok a serok 
+five: bangid oroz 
+broad: bubuŋ 
+wide: bubuŋ 
+wideness: bubuŋ 
+fat: jadz	noferan 
+thick: banaŋ 
+narrow: ruruf	tsumu 
+husband: sū-n 
+his mother: rena-n 
+mother: rena-n 
+my mother: rena-n 
+father: rama-n 
+his father: rama-n 
+my father: rama-n 
+forest: dau 
+woods: dau 
+branch: baŋi-n 
+stick: baŋi-n 
+fruit: furun	nidzin 
+flower: boap	ogean 
+grass: rero 
+cord: kuts	ŋufuŋuf 
+rope: kuts	ŋufuŋuf 
+flesh: dzi	pasre 
+meat: dzi	pasre 
+grease: jadz	noferan 
+wing: pī-n 
+gut: rai teret 
+guts: rai teret 
+insides: rai teret 
+intestine: rai teret 
+intestines: rai teret 
+back: baro-n 
+suck: sos	tsitsuf 
+spit: fid 
+vomit: no	tsup 
+blow: fuŋ	tsifi 
+breath: [n]taf en	mamar 
+breathe: [n]taf en	mamar 
+laugh: fane 
+laughter: fane 
+cogitate: rots	sem 
+reflect: rots	sem 
+think: rots	sem 
+smell: toŋes 
+sniff: toŋes 
+afraid: gafagef 
+be afraid: gafagef 
+fear: gafagef 
+fright: gafagef 
+alive: parats 
+be alive: parats 
+life: parats 
+live: parats 
+living: parats 
+hunt: daro	tsetso 
+beat: denteŋ	its	joto 
+hit: denteŋ	its	joto 
+strike: denteŋ	its	joto 
+cut: ra	tae 
+hack: ra	tae 
+cut open: boaŋar	poropoa 
+split: boaŋar	poropoa 
+pierce: [n]tan	jare	pu	sarot 
+stab: [n]tan	jare	pu	sarot 
+scratch: gafar 
+dig: raf	sef	so 
+stand: fāŋ 
+drop: moatsro	tum 
+fall: moatsro	tum 
+grasp: gofom 
+hold: gofom 
+hold in arm: gofom 
+squeeze: bini	fug 
+wring: bini	fug 
+throw: tum 
+bind: [n]tsi	faro	fentso 
+fasten: [n]tsi	faro	fentso 
+tie: [n]tsi	faro	fentso 
+tie up: [n]tsi	faro	fentso 
+count: fariŋ	siŋis 
+enumerate: fariŋ	siŋis 
+number: fariŋ	siŋis 
+tally: fariŋ	siŋis 
+flow: fiririŋ	rid 
+lake: [m]po ton 
+ocean: ruts 
+sea: ruts 
+dust: bobof	poŋompoŋ 
+fog: moagaf	mūf 
+sky: [ŋ]konoŋkon 
+bad: tsats 
+evil: tsats 
+rot: boafob	moarar 
+rotten: boafob	moarar 
+dirty: gaogao	motat 
+filthy: gaogao	motat 
+soiled: gaogao	motat 
+sharp: mun 
+blunt: tofot 
+damp: boampon en 
+wet: boampon en 
+right side: moaru 
+left: aidz 
+at: en 
+in: besen	ofo 
+inside: besen	ofo 
+and: ma 
+if: bid	bād 

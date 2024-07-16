@@ -1,0 +1,334 @@
+all: kõik 
+every: kõik 
+ash: tuhk 
+ashes: tuhk 
+bark: kuur 
+abdomen: kõtt 
+belly: kõtt 
+big: suur 
+bigness: suur 
+large: suur 
+bird: tsirk 
+bite: haukama	purõma 
+black: must 
+blood: veri 
+bone: lu	luu 
+breast: ront	rõnd 
+breasts: ront	rõnd 
+cloud: pilv 
+cold: külm 
+come: tulomo	tulõma 
+come from: tulomo	tulõma 
+be dead: kulmo	kuulma 
+dead: kulmo	kuulma 
+die: kulmo	kuulma 
+dog: pini 
+drink: juuma	yumo 
+dry: kuiv 
+ear: korv	kõrv 
+earth: maa 
+ground: maa 
+land: maa 
+soil: maa 
+eat: süümä 
+egg: muna 
+eye: silm 
+feather: sulg 
+fire: tuli 
+fish: kala	kolo 
+fly: lindama 
+fly v.: lindama 
+foot: jalg 
+full: tEis	täüs 
+give: andma 
+good: hää	hüä 
+green: haĺas	rohilinõ 
+hair: hius	karv 
+hand: kEsi 
+left hand: kEsi 
+right: kEsi 
+head: pää 
+hear: kultmo	kuuldma 
+heart: süä 
+horn: %sorv	sarv 
+1 sg.: maq	mo7 
+I: maq	mo7 
+kill: tapma 
+knee: %polv	põlv 
+be knowledgeable: tiidmä 
+know: tiidmä 
+leaf: %let	leht 
+liver: mass	mos 
+long: pikk 
+head louse: tEi	täi 
+louse: tEi	täi 
+male: miis 
+man: inemine 
+many: mitu	palĺo 
+much: mitu	palĺo 
+multiple: mitu	palĺo 
+several: mitu	palĺo 
+moon: kuu 
+hill: mEki	mägi 
+mountain: mEki	mägi 
+mouth: suu 
+name: %nimi	nimi 
+title: %nimi	nimi 
+neck: kaal 
+new: vahtsõnõ	votsono 
+night: üü 
+nighttime: üü 
+nose: nono	nõna 
+not: ei	joht 
+adulterous: its	üts 
+one: its	üts 
+single: its	üts 
+that: tuu 
+the: its	üts 
+unprincipled: its	üts 
+human: inemine 
+human being: inemine 
+person: inemine 
+rain: vihm 
+rainy weather: vihm 
+red: verrev 
+path: ti	tii 
+road: ti	tii 
+route: ti	tii 
+root: juur 
+round: höörik	tsõõrik	ümärik 
+sand: liiv 
+say: ütlemä 
+see: nEkemE	nägemä 
+seed: seemeq 
+sit: istma 
+hide: iho	nahk	nok 
+skin: iho	nahk	nok 
+sleep: magahama	magama 
+little: väiku 
+small: väiku 
+smallness: väiku 
+smoke: sau 
+star: tEt	täht 
+rock: kivi 
+stone: kivi 
+sun: pEiv	päiv 
+swim: oidma	ujoma 
+tail: hand 
+this: seo 
+2 sg: saq	so7 
+thou: saq	so7 
+you: saq	so7 
+tongue: kiil	kil 
+tooth: hammas	homos 
+tree: pu	puu 
+grind: kats	kots 
+two: kats	kots 
+go: käümä	kõndma 
+walk: käümä	kõndma 
+hot: lämmi 
+warm: lämmi 
+water: vesi 
+1 pl. inc.: mi7	miiq 
+we: mi7	miiq 
+we₁: mi7	miiq 
+what: miä 
+white: valgõ 
+whiteness: valgõ 
+who: kiä 
+who?: kiä 
+female: naanõ 
+woman: naanõ 
+yellow: kõllanõ	vahanõ 
+distant: kavvõn 
+far: kavvõn 
+dull: rassõ 
+heavy: rassõ 
+serious: rassõ 
+close: lähkün 
+near: lähkün 
+ner: lähkün 
+salt: suul 
+short: lühükene	lühüq 
+snake: huss	siug 
+thin: ohku	ohuq	piinü 
+wind: tuul 
+earthworm: huss	vagõl 
+worm: huss	vagõl 
+year: aastak 
+3 sg.: timä 
+he: timä 
+she: timä 
+2 pl.: tiiq 
+ye: tiiq 
+you all: tiiq 
+3 pl.: nimäq 
+they: nimäq 
+here: tan 
+there: sääl 
+where: kon 
+where?: kon 
+when: kuna 
+when?: kuna 
+how: kui 
+how?: kui 
+some: mõni	mõnõq 
+few: veidüq 
+other: muu	tõõnõ 
+three: kolm 
+four: neli	nelli 
+five: viis 
+broad: laǵa 
+wide: laǵa 
+wideness: laǵa 
+fat: rasõv 
+thick: paks 
+narrow: ahtagõnõ 
+child: lats 
+principal wife: naanõ 
+wife: naanõ 
+husband: miis 
+his mother: imä 
+mother: imä 
+my mother: imä 
+father: esä 
+his father: esä 
+my father: esä 
+animal: elläi 
+forest: mõts 
+woods: mõts 
+branch: kepp 
+stick: kepp 
+fruit: vili 
+flower: häelm	häidseq	lill 
+grass: hain 
+cord: köüds 
+rope: köüds 
+flesh: liha 
+meat: liha 
+grease: rasõv 
+claw: küüds 
+fingernail: küüds 
+nail: küüds 
+leg: siir 
+arm: käsi 
+wing: siib 
+gut: sooliguq 
+guts: sooliguq 
+insides: sooliguq 
+intestine: sooliguq 
+intestines: sooliguq 
+back: sälg 
+suck: imemä	nudsima 
+spit: sülgämä 
+vomit: ossõndama 
+blow: puhkma 
+breath: hengämä 
+breathe: hengämä 
+laugh: naardma 
+laughter: naardma 
+cogitate: märkmä	mõtlõma 
+reflect: märkmä	mõtlõma 
+think: märkmä	mõtlõma 
+smell: haisu tundma 
+sniff: haisu tundma 
+afraid: pelgämä 
+be afraid: pelgämä 
+fear: pelgämä 
+fright: pelgämä 
+alive: elämä 
+be alive: elämä 
+life: elämä 
+live: elämä 
+living: elämä 
+fight: taplõma 
+hunt: jahtma 
+beat: lüümä 
+hit: lüümä 
+strike: lüümä 
+cut: lõikama 
+hack: lõikama 
+cut open: lahki ajama 
+split: lahki ajama 
+pierce: tsuskama 
+stab: tsuskama 
+scratch: kraapma 
+dig: kaibma 
+lie: võlsma 
+lie down: võlsma 
+tell lies: võlsma 
+stand: saisma 
+turn: käändmä	püürdmä 
+turn around: käändmä	püürdmä 
+turn round: käändmä	püürdmä 
+drop: sadama 
+fall: sadama 
+grasp: hoitma	pidämä 
+hold: hoitma	pidämä 
+hold in arm: hoitma	pidämä 
+squeeze: pitsitämä	presmä	surbma 
+wring: pitsitämä	presmä	surbma 
+rub: hõõrdma 
+wipe: pühkmä 
+wash: mõskma 
+wash clothes: mõskma 
+pull: tõmbama	vidämä 
+push: kukkama	toukama 
+shove: kukkama	toukama 
+throw: hiitmä 
+bind: köütmä 
+fasten: köütmä 
+tie: köütmä 
+tie up: köütmä 
+sew: umblõma 
+count: lugõma 
+enumerate: lugõma 
+number: lugõma 
+tally: lugõma 
+sing: laulma 
+have fun: mängmä 
+play: mängmä 
+float: hõĺoma 
+flow: juuskma 
+freeze: külmämä 
+swell: paistuma 
+brook: jõgi 
+river: jõgi 
+stream: jõgi 
+lake: järv 
+ocean: meri 
+sea: meri 
+dust: tolm 
+fog: undsõq 
+sky: taivas 
+snow: lumi 
+ice: ijä 
+blaze: palama 
+burn: palama 
+day: päiv 
+daylight: päiv 
+daytime: päiv 
+old: vana 
+bad: halv 
+evil: halv 
+rot: mädä	määnüq 
+rotten: mädä	määnüq 
+dirty: mustõnuq 
+filthy: mustõnuq 
+soiled: mustõnuq 
+straight: õgõv 
+sharp: terräv	vaib 
+blunt: nühr 
+smooth: sille 
+damp: likõ 
+wet: likõ 
+correct: õigõ 
+right side: hää	hüä 
+left: kura 
+at: man 
+in: seen	sisen 
+inside: seen	sisen 
+with: üten 
+and: ja 
+if: ku 
+because: selle et 

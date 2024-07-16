@@ -1,0 +1,406 @@
+all: tapuria 
+arm: ubata 
+arrow: galidiama 
+ashes: nini 
+back: mikwëta 
+back: mikwʌta 
+bad: youba 
+belly: ilëma | kuda 
+belly: ilʌma | kuda 
+belly: kuda 
+big: wë:ma | wʌːma 
+big: wʌːma 
+bird: ibëla | ibʌla 
+bird: ibʌla 
+bite: -gua- 
+black: uma 
+blood: kʌda | k3da	kʌda 
+blood: këda | k3da	kʌda 
+blow: ugum- 
+bone: kwote | kwotɛ	kw~otE 
+bone: kwotɛ | kwotɛ	kw~otE 
+boy: wa tamana 
+breast: niaw 
+brother: baini 
+brother: baßo 
+brother: bavo 
+brother: enëmona 
+brother: ɛnʌmona 
+brother: umiëk 
+brother: umiʌk 
+brother: umon 
+burn: bigiat- 
+butterfly: kabisala 
+calf: kapa kuda 
+cassowary: ikuwëy 
+chest: sekwata 
+chest: sɛkwata 
+child: waw 
+chin: paragula 
+cloud: ekanëma | ɛkanʌma 
+cloud: ɛkanʌma 
+cold: guguma 
+come: ab | ab	kar	kar- 
+come: kar- | ab	kar	kar- 
+crocodile: yamëy 
+crocodile: yamʌy 
+cut: kikwa- 
+dance: w- 
+day: ipu 
+day: itulumaikan 
+die: um- | um	um- 
+dig: bugu- 
+dig: gwën 
+dig: gwʌn- 
+dig: ulipiëm- 
+dig: ulipiʌm- 
+dirty: ununua 
+dog: ikʌ | ik3	ikʌ 
+dog: ikë | ik3	ikʌ 
+dry: agë:ra | agʌːra 
+dry: agʌːra 
+ear: kowënia | kow3nia	kowʌnia 
+ear: kowʌnia | kow3nia	kowʌnia 
+earth: yë:ko | yʌːko 
+earth: yʌːko 
+eat: mungg-iam- | ni- 
+eat: ni- 
+egg: nia 
+elbow: mʌsinɛ 
+elbow: tumuno 
+elbow: ubusinuwa 
+emu: ikuwʌy 
+excrement: ivia 
+eye: makita 
+face: marakëna 
+face: marakʌna 
+fall: akwat- 
+fall: dukwat- 
+fall: kikw- 
+far: otëta | otʌta 
+far: otʌta 
+father: tëi 
+father: teini 
+father: tʌi 
+father: uda 
+fat (n.): ida 
+fear: apatae- 
+few: kamunia 
+fight: yokom- 
+fight: yorobigi- 
+finger: aunëna 
+finger: aunʌna 
+fingernail: (nabi)këra 
+fingernail: (nabi)kʌra 
+fire: muru 
+fish: malyaden | malyadɛn	maly~adEn 
+fish: malyadɛn | malyadɛn	maly~adEn 
+fly (n.): kudulu 
+fly (v.): bunggia id- 
+fly (v.): buŋgia id- 
+fog: yaumo 
+forest: matë:no 
+forest: matʌːno 
+fruit: kuda 
+full: dikër | dik3r	dikʌr 
+full: dikʌr | dik3r	dikʌr 
+full: un- | dik3r	dikʌr 
+girl: iruba ka:rina(gra) 
+girl: iruba kaːrina(gra) 
+give: -ba- 
+good: bëra | bʌra 
+good: bʌra 
+grass: ipasia 
+green: igëma | igʌma 
+green: igʌma 
+guts: ilëma 
+guts: ilʌma 
+hair: munia 
+head: kuma | trikʌla 
+head: trikëla | trikʌla 
+head: trikʌla 
+hear: ig- | ig	ig- 
+heart: mumud ilëm | mumud ilʌm 
+heart: mumud ilʌm 
+heavy: binata 
+here: sëta 
+here: sʌta 
+he/she: ø- 
+he/she: wa- 
+he/she: wa-na 
+hit: yokom- 
+hit: yorobigi- 
+hold: bukwa- 
+house: mono 
+house: mɔno 
+how: maiwan 
+I: e- | ya-na	yana 
+I: ɛ- | ya-na	yana 
+I: ɛ-n- | ya-na	yana 
+I: e-n-/-r- | ya-na	yana 
+in: ikën 
+I: ya-na | ya-na	yana 
+kill: abul- 
+knee: kataruo 
+laugh: igarik- 
+left: konane 
+left: konanɛ 
+leg: kota 
+leg: nebitʌ 
+leg: nebitë 
+lightning: bagana mbugu- 
+liver: unaana | unana	unaːna 
+liver: unaːna | unana	unaːna 
+long: dogëna | dogʌna 
+long: dogʌna 
+louse: gunua 
+man: mëra | munʌm 
+man: mʌra | munʌm 
+man: munëm | munʌm 
+man: munʌm 
+many: topuriaka 
+meat: kitunɛa 
+meat: kitunia 
+moon: takwi 
+morning: itumayaka 
+morning: itum-ayaka 
+morning: uligaramor 
+morning: uligaramɔr 
+mosquito: kaina 
+mosquito: malnasia 
+mother: naini 
+mother: nëi 
+mother: nʌi 
+mother: unʌd 
+mother: unëd 
+mountain: tatëpa | tat3pa	tatʌpa 
+mountain: tatʌpa | tat3pa	tatʌpa 
+mouth: kabukwata 
+name: unima 
+nape: kumë kwëta 
+nape: kumʌ kwʌta 
+navel: yesia 
+navel: yɛsia 
+near: mikangka | mikaŋka 
+near: mikaŋka 
+neck: kumë:na | kumʌːna 
+neck: kumʌːna 
+new: igëma | ig3ma	igʌma	tam3na	tamʌna 
+new: igʌma | ig3ma	igʌma	tam3na	tamʌna 
+new: tamëna | ig3ma	igʌma	tam3na	tamʌna 
+new: tamʌna | ig3ma	igʌma	tam3na	tamʌna 
+night: itumo 
+nose: mëragulo | m3ragulo	m3run3na	mʌragulo	mʌrunʌna 
+nose: mërunëna | m3ragulo	m3run3na	mʌragulo	mʌrunʌna 
+not: wek 
+not: wɛk 
+old: kokoaran 
+old: kole 
+one: kasika 
+pull: buka nad- 
+push: kali kus-iam- 
+push: kali kusiam- 
+rain: yë:ga | yʌːga 
+rain: yʌːga 
+rat: oidua 
+red: kauɲa 
+red: kauña | kauɲa 
+right: dogon tumun | trik3la 
+ripe: mundulima 
+road: yëku-mano | y3kamuno 
+road: yʌkamuno | y3kamuno 
+root: uduna 
+rope: imʌpa 
+salt: ibol | ibol	iwʌra 
+salt: iwëra | ibol	iwʌra 
+salt: iwʌra | ibol	iwʌra 
+sand: arowa 
+sand: kuruma | arowa 
+say: kabuk- | tana- 
+say: tana- 
+say: tana-/-batana- (kamunggw-) 
+scratch: koko- 
+sea: ibol yëga 
+sea: ibol yʌga 
+sea: yur-iëga 
+sea: yuriʌga 
+see: akuram- | -ogo-	ga	ogo 
+see: -ogo- | -ogo-	ga	ogo 
+see: -ogo-/-ga-/-iguw- | -ogo-	ga	ogo 
+sharp: kasia 
+sharp: siliga- 
+short: te 
+shoulder: mamaginëma 
+shoulder: mamaginʌma 
+sing: uru war- 
+sister: ɛmɛnikɛ onaidɛ 
+sister: emenike onainde 
+sister: emenike wamete 
+sister: ɛmɛnikɛ wamɛtɛ 
+sit: bugulëm- | bugulʌm- 
+sit: bugulʌm- 
+skin: guana 
+sky: sino 
+sleep: in- 
+small: wanay 
+smell: kagan igu- 
+smoke: ikëpa | ikʌpa 
+smoke: ikʌpa 
+snake: yë:la | yʌːla 
+snake: yʌːla 
+spit: dukunim 
+spit: mukʌ 
+spit: mukë 
+split: sakil-iam 
+split: sakiliam- 
+stand: daman- 
+stand: nagabul- 
+star: babë:ra | bab3ra	babʌːra	walisi 
+star: babʌːra | bab3ra	babʌːra	walisi 
+star: walisi | bab3ra	babʌːra	walisi 
+stick: namu 
+stick: walia 
+stone: naman tëria | naman t3ria	naman tʌria 
+stone: naman tʌria | naman t3ria	naman tʌria 
+straight: tagantuma 
+sun: udeama | udEama	udɛama 
+sun: udɛama | udEama	udɛama 
+swell: karim- 
+tail: arua 
+tail: ibita | arua 
+take: bukon- 
+that: etukwa | ɛtukwa 
+that: ɛtukwa 
+there: aitukwa 
+there: iluza 
+they: ø-/-ad- 
+they: wad- 
+they: wad-ana 
+thigh: manëma 
+thigh: manʌma 
+think: aremeam- 
+think: arɛmɛam- 
+this: sëta | sʌta 
+this: sʌta 
+thou: an- | na-na	nana 
+thou: an-ana | na-na	nana 
+thou: -n- | na-na	nana 
+thou: na- | na-na	nana 
+thou: na-n- | na-na	nana 
+thou: na-na | na-na	nana 
+throat: marinëma 
+throat: marinʌma 
+throw: araliɲam- 
+throw: araliñam- 
+thunder: yekanama lëm- 
+thunder: yɛkanama lʌm- 
+tie: punggugun-iam- 
+tie: puŋguguniam- 
+tomorrow: balimo 
+tomorrow: inubliala 
+tongue: yebisa | yEbisa	yɛbisa 
+tongue: yɛbisa | yEbisa	yɛbisa 
+tooth: nenakura | nEnakura	nɛnakura 
+tooth: nɛnakura | nEnakura	nɛnakura 
+tree: kamuna | n3ma 
+tree: në:ma | n3ma 
+tree: nʌːma | n3ma 
+tree: trikʌra | n3ma 
+turn: bilikiadam- 
+two: brekaka | brEkaka	brɛkaka 
+two: brɛkaka | brEkaka	brɛkaka 
+vagina: tënay 
+vagina: tʌnay 
+vomit: malil- 
+walk: id- 
+walk: tutuɲa id- 
+wallaby: wei dagë:na 
+wallaby: wei dagʌːna 
+warm: nanʌ 
+warm: nanë 
+wash: ɛtabo- 
+wash: etabo-/-itabar- 
+wash: yag etet- 
+water: yë:ga | y3ga	yʌːga 
+water: yʌːga | y3ga	yʌːga 
+weep: em- 
+we: i- | inana 
+we: i-/-ad- | inana 
+we: in- | inana 
+we: in-ana | inana 
+we: ini- | inana 
+wet: egata 
+wet: ɛgata 
+what: mama 
+where: maizëk 
+where: maizʌk 
+white: këra | kʌra 
+white: kʌra 
+who: unia 
+wind: kwaitala | kwaitala	niːya 
+wind: n:iya | kwaitala	niːya 
+wind: niːya | kwaitala	niːya 
+wing: bua 
+woman: ilußa | iluβa 
+woman: iluva | iluβa 
+woman: unarikwata | iluβa 
+wood: mokua 
+wood: namu 
+wood: walia 
+yellow: guëla | guʌla 
+yellow: guʌla 
+yesterday: dapinan 
+yesterday: inukon 
+yes: yua 
+you: an- | na-na	nana 
+you: an-/-ad- | na-na	nana 
+you: an-ana | na-na	nana 
+every: tapuria 
+ash: nini 
+abdomen: kuda 
+bigness: wʌːma 
+large: wʌːma 
+breasts: niaw 
+come from: ab	kar	kar- 
+be dead: um	um- 
+dead: um	um- 
+ground: yʌːko 
+land: yʌːko 
+soil: yʌːko 
+fly: buŋgia id- 
+fly v.: buŋgia id- 
+hand: trik3la 
+left hand: trik3la 
+1 sg.: ya-na	yana 
+head louse: gunua 
+male: munʌm 
+much: topuriaka 
+multiple: topuriaka 
+several: topuriaka 
+hill: tat3pa	tatʌpa 
+title: unima 
+nighttime: itumo 
+adulterous: kasika 
+single: kasika 
+the: kasika 
+unprincipled: kasika 
+rainy weather: yʌːga 
+path: y3kamuno 
+route: y3kamuno 
+hide: guana 
+little: wanay 
+smallness: wanay 
+rock: naman t3ria	naman tʌria 
+2 sg: na-na	nana 
+grind: brEkaka	brɛkaka 
+go: id- 
+1 pl. inc.: inana 
+we₁: inana 
+whiteness: kʌra 
+who?: unia 
+female: iluβa 
+distant: otʌta 
+dull: binata 
+serious: binata 
+close: mikaŋka 
+ner: mikaŋka 

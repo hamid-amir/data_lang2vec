@@ -1,0 +1,505 @@
+all: zam | dazam	dzam	meǯam	zam 
+all: zam/zaa | dazam	dzam	meǯam	zam 
+and: vura 
+animal: suk 
+ankle: kang-mbor 
+ankle: kaŋ-mbor 
+arm: aga(r) 
+arm: agarpəni 
+arm: fatutti 
+arm: fautʰi 
+arm: φatute 
+arrow: tə 
+back: akə 
+back: gra-hon ~ kəra-kon 
+back: gra-kon 
+back: këra-kon 
+bad: baʔatəki 
+bad: mbatuk 
+bad: mbatuk/mbatugi 
+belly: da | da	davuk	daβda	nap	ndap	tap 
+belly: daßda | da	davuk	daβda	nap	ndap	tap 
+belly: ndap | da	davuk	daβda	nap	ndap	tap 
+big: aruomaʔa | aruomaʔa	bakume	bakɨm 
+big: babam/babaa | aruomaʔa	bakume	bakɨm 
+big: bakume | aruomaʔa	bakume	bakɨm 
+big: këbgi | aruomaʔa	bakume	bakɨm 
+bird: kuará | kora	kuarak	kuará	kura	kworaʔ	kʷorʌ 
+bird: kuarak | kora	kuarak	kuará	kura	kworaʔ	kʷorʌ 
+bird: kwarak | kora	kuarak	kuará	kura	kworaʔ	kʷorʌ 
+bird: kwora\ | kora	kuarak	kuará	kura	kworaʔ	kʷorʌ 
+bird: kworaʔ | kora	kuarak	kuará	kura	kworaʔ	kʷorʌ 
+bite: si | bigi	si	ʔapi 
+bite: s-i | bigi	si	ʔapi 
+black: pək | puk	pək	pəki	pɨkʰ 
+black: pəki | puk	pək	pəki	pɨkʰ 
+black: pëk/pëgi | puk	pək	pəki	pɨkʰ 
+blood: ßesen | viǯun	vusan	vusun	vɨžɨn	βesen 
+blood: vusun | viǯun	vusan	vusun	vɨžɨn	βesen 
+bone: agá(r) | agá	agár	ahad	har	hat	ɣarr 
+bone: ahad | agá	agár	ahad	har	hat	ɣarr 
+bone: har | agá	agár	ahad	har	hat	ɣarr 
+boy: ata(r) 
+breast: atamaʔa | atamaʔa	biptatani	ta	tani	taʰ 
+breast: ta | atamaʔa	biptatani	ta	tani	taʰ 
+brother: ngguk/nggugi/ngguguni 
+butterfly: fomone 
+butterfly: φomune 
+calf: swa 
+cassowary: pponu/pponi/pponuni 
+cheek: kkop/kkovoni 
+cheek: kʰop 
+chest: feŋ 
+child: ŋu 
+child: tar 
+child: tat/tari/tarani 
+chin: iφieφeʔe 
+cloud: beyaß | beyaβ	biap	biyip	buip	buivahuri	bwip 
+cloud: bwip | beyaβ	biap	biyip	buip	buivahuri	bwip 
+cloud: bwip ~ biap | beyaβ	biap	biyip	buip	buivahuri	bwip 
+cold: araki | araki	mbualantuk	raugi	ruɣɨgegi 
+come: ßi | zi	žɨ	βi 
+come: zi | zi	žɨ	βi 
+come: z-i | zi	žɨ	βi 
+crocodile: kum 
+cut: dagi 
+cut: gwori 
+cut: gwor-i 
+cut: ttu-gi 
+cut: tʰugi 
+dark: gəŋgəŋgi 
+day: arao 
+day: ŋgotuk 
+day: tuk 
+die: arimiki | arimiki	arɨmtaʔambu	limiki	rimgi 
+die: rimgi | arimiki	arɨmtaʔambu	limiki	rimgi 
+die: rim-gi | arimiki	arɨmtaʔambu	limiki	rimgi 
+dog: fyaŋ | fengi	fia	fiã	fyaN	fyang	fyaŋ	ɸia 
+dog: fyang/fengi/fengeni | fengi	fia	fiã	fyaN	fyang	fyaŋ	ɸia 
+dog: φia | fengi	fia	fiã	fyaN	fyang	fyaŋ	ɸia 
+drink: pi | bupi	mb3	mbupi	pi	ɨ̃pi 
+drink: pi/mbë | bupi	mb3	mbupi	pi	ɨ̃pi 
+dry: dangdang-gi | ndandangi	saguidandai	βʌvɣʌrəɣi 
+ear: koat | koat	kua	kuar	kuaral	kwar	kw~ar	kwɨrɛ̃ 
+ear: kua | koat	kua	kuar	kuaral	kwar	kw~ar	kwɨrɛ̃ 
+ear: kwar | koat	kua	kuar	kuaral	kwar	kw~ar	kwɨrɛ̃ 
+earth: nwia\an | nwiaʔan 
+earth: nwiaʔan 
+earth: uŋiaʔan | nwiaʔan 
+earth: zangzang/zangzangi | nwiaʔan 
+eat: api | api	pi 
+eat: pi | api	pi 
+eat: pi/mbë | api	pi 
+egg: rer | ler	rer	rrɛrr 
+elbow: sëgar 
+elbow: səgar 
+elbow: seŋaŋko 
+emu: pʰonu 
+excrement: bwari 
+eye: aremaʔatu | lamatuk	ruma7ath~uk	ruma7attuk	rumani	rumaʔatʰuk	rəmatuk 
+eye: ruma\-asa\ | lamatuk	ruma7ath~uk	ruma7attuk	rumani	rumaʔatʰuk	rəmatuk 
+eye: rumaʔasaʔ | lamatuk	ruma7ath~uk	ruma7attuk	rumani	rumaʔatʰuk	rəmatuk 
+eye: ruma\-attuk | lamatuk	ruma7ath~uk	ruma7attuk	rumani	rumaʔatʰuk	rəmatuk 
+eye: rumaʔatʰuk | lamatuk	ruma7ath~uk	ruma7attuk	rumani	rumaʔatʰuk	rəmatuk 
+face: kom 
+face: kwom 
+fall: iri 
+father: dzia 
+father: ndia/ndegi/ndiani 
+fat (n.): ver 
+fear: rivi 
+fear: riv-i 
+feather: φlamune | kora rugun	kwuraʔgɨn	rugi	rugun	ɸlamune 
+few: teʔenane 
+finger: amə 
+finger: far 
+finger: kaŋ 
+finger: kang/kaari/kangani 
+finger: meː 
+finger: mee 
+fingernail: far-ppuk 
+fingernail: (far-)pʰuk 
+finger: φe 
+fire: aßáß | aβáβ	fap	vap	vuap 
+fire: vap | aβáβ	fap	vap	vuap 
+fish: mbəgam | mb3ga	mb3gam	mbgam	mbukam	mbəgam	mbʌɣam 
+fish: mbëgam/mbëgaa/mbëgamani | mb3ga	mb3gam	mbgam	mbukam	mbəgam	mbʌɣam 
+five: meː 
+five: ppunini-ppuni-kagine 
+flower: kʰəmar 
+flower: kkëmar 
+fly (n.): pəgən 
+fly (n.): pëgën/pëgi 
+foot: kaari-ve | garave	garwe	karvɛrr	kaːrive	sua 
+foot: kaːrive | garave	garwe	karvɛrr	kaːrive	sua 
+foot: sua | garave	garwe	karvɛrr	kaːrive	sua 
+forehead: niß 
+forehead: nivkur 
+forest: rwang 
+forest: rwaŋ 
+four: feː 
+four: ppunini-ppuninin 
+fruit: kʰan-vuk 
+fruit: kkan-vuk 
+full: givigi | givegi	givigi	giviɣi 
+full: givi-gi | givegi	givigi	giviɣi 
+give: ndë-i | nanui	nanuki	narrnɨ	ndəi 
+give: ndəi | nanui	nanuki	narrnɨ	ndəi 
+good: aßuŋki | aβuŋki	vu	vuŋ	võː	ǯirara 
+good: vuŋ | aβuŋki	vu	vuŋ	võː	ǯirara 
+good: vung/vungi | aβuŋki	vu	vuŋ	võː	ǯirara 
+grass: tug 
+grass: zeken 
+grass: zugun 
+grass: zugun/zugi 
+green: kar | garu	garuw	kar	nguntɨŋ 
+guts: imbu 
+hair: areki | areki	pan	pana rugi	rugi	rugu 
+hair: rugu | areki	pan	pana rugi	rugi	rugu 
+hair: rugun/rugi | areki	pan	pana rugi	rugi	rugu 
+hand: ahat | ahat	farive	faruve	farve	ɣar	ɸar	ɸárweʔe 
+hand: farve | ahat	farive	faruve	farve	ɣar	ɸar	ɸárweʔe 
+hand: far-ve | ahat	farive	faruve	farve	ɣar	ɸar	ɸárweʔe 
+hand: φar | ahat	farive	faruve	farve	ɣar	ɸar	ɸárweʔe 
+hand: φárweʔe | ahat	farive	faruve	farve	ɣar	ɸar	ɸárweʔe 
+head: apa | apa	pan	prãntuãn 
+head: pan | apa	pan	prãntuãn 
+hear: mbararagi | dubərərʌ	mbararagi	mburagi	muraragi 
+hear: mbarara-gi | dubərərʌ	mbararagi	mburagi	muraragi 
+heart: go | go	gor	gorr 
+heart: gor | go	gor	gorr 
+heavy: simgi | simgi	simiki 
+he/she: a 
+he/she: aman 
+he/she: ana 
+he/she: a(na)/ana-n 
+hit: sogi 
+hit: so-gi 
+hold: swiri 
+hole: tʰoŋ 
+hole: ttong/ttori/ttongoni 
+house: pen 
+house: vun 
+how: rarara 
+how: tekenmaʔa 
+husband: ma 
+I: gu | go	gu	na	nan	ŋo	ŋu 
+I: gu/na/na-n | go	gu	na	nan	ŋo	ŋu 
+I: na | go	gu	na	nan	ŋo	ŋu 
+I: nan | go	gu	na	nan	ŋo	ŋu 
+I: ŋo | go	gu	na	nan	ŋo	ŋu 
+I: ŋu | go	gu	na	nan	ŋo	ŋu 
+in: ven 
+kangaroo: ige 
+knee: teßapa | so-tupanani	teβapa	th~up	ttup	tupan	tɨp	tʰup 
+knee: ttup | so-tupanani	teβapa	th~up	ttup	tupan	tɨp	tʰup 
+knee: tʰup | so-tupanani	teβapa	th~up	ttup	tupan	tɨp	tʰup 
+know: kaŋgi | kangi	kaŋgi	kãːŋgi 
+lake: nuam 
+laugh: ki 
+laugh: k-i 
+leaf: agəφ | agəɸ	far	farr	gap	kam far	kanfal 
+leaf: gap | agəɸ	far	farr	gap	kam far	kanfal 
+left: ikə 
+left: ŋgə 
+leg: ruu 
+leg: swa 
+lip: tʰənkum ~ tʰəŋe 
+lip: ttënkum 
+live: ŋamene 
+liver: pernggam | bergam	mberikave	perNgam	pernggam	perŋgam	pɛrɛnkam 
+liver: perŋgam | bergam	mberikave	perNgam	pernggam	perŋgam	pɛrɛnkam 
+long: peʔepé | bembe	mpɛmpɛ	peŋpeŋ 
+long: pengpeng | bembe	mpɛmpɛ	peŋpeŋ 
+long: peŋpeŋ | bembe	mpɛmpɛ	peŋpeŋ 
+louse: pira 
+man: apu(r) | guma	gumiŋki	zɨžam 
+man: guma | guma	gumiŋki	zɨžam 
+man: guma/gum-igi/guma-ni | guma	gumiŋki	zɨžam 
+man: gumba | guma	gumiŋki	zɨžam 
+many: vurve | furwe	vurave	vurve	βʌrakɨvɣi 
+meat: suk 
+moon: keni | keni	kuni	kəniŋ	kənĩ 
+moon: këning | keni	kuni	kəniŋ	kənĩ 
+moon: kəniŋ | keni	kuni	kəniŋ	kənĩ 
+morning: manena 
+morning: maneːra 
+mosquito: ke 
+mosquito: ker 
+mosquito: ket/kira 
+mother: amə 
+mother: miaʔamə 
+mother: nia-mung/ndegi-mbuuri 
+mountain: mbëksëm | mb3ks3m	mbukasum	mbúgesem	mbəksəm	mbɨkəsɨm	rua 
+mountain: mbəksəm | mb3ks3m	mbukasum	mbúgesem	mbəksəm	mbɨkəsɨm	rua 
+mountain: mbúgesem | mb3ks3m	mbukasum	mbúgesem	mbəksəm	mbɨkəsɨm	rua 
+mouth: kamtoŋ | kam-tʰoŋ	kamato	kamtoŋ	kamtõ 
+mouth: kam-tʰoŋ | kam-tʰoŋ	kamato	kamtoŋ	kamtõ 
+mouth: kam-ttong | kam-tʰoŋ	kamato	kamtoŋ	kamtõ 
+name: dzi | dzi	z3	zin	zu	zɨ	ži	ǯuǯ 
+name: zɨ | dzi	z3	zin	zu	zɨ	ži	ǯuǯ 
+name: zï | dzi	z3	zin	zu	zɨ	ži	ǯuǯ 
+name: zin | dzi	z3	zin	zu	zɨ	ži	ǯuǯ 
+nape: bur 
+nape: φɔ 
+navel: be\ 
+navel: beʔ 
+navel: mbe 
+near: han 
+neck: kuaʔare | ful	furt	kuaʔare	ɸəl̪ 
+new: kam 
+new: kam/kaa 
+new: tok/togi | kam 
+night: goarteken | ma gris	maN	mageŋeŋki	magunki	mang	maŋ	maː	mbari 
+night: mageŋeŋki | ma gris	maN	mageŋeŋki	magunki	mang	maŋ	maː	mbari 
+night: maŋ | ma gris	maN	mageŋeŋki	magunki	mang	maŋ	maː	mbari 
+night: mang/mbaari/mangani | ma gris	maN	mageŋeŋki	magunki	mang	maŋ	maː	mbari 
+nose: kwom | kom	kwom	kw~om	nim	nimaɸe	nufu	nɨfi 
+nose: nim | kom	kwom	kw~om	nim	nimaɸe	nufu	nɨfi 
+nose: nim-tʰoŋ | kom	kwom	kw~om	nim	nimaɸe	nufu	nɨfi 
+not: ako | fu	fuvra	tari 
+not: fu | fu	fuvra	tari 
+not: fuvra | fu	fuvra	tari 
+not: φuwraʔa | fu	fuvra	tari 
+old: rum/rua 
+old: sang/zaari 
+old: vur 
+old: vut/vuri 
+one: gere | bavira	bebila	bɛvirɨ	gere	ibabira 
+one: ibabira | bavira	bebila	bɛvirɨ	gere	ibabira 
+other: iharigi 
+person: gumiŋki | guma	gumiŋki	zɨžam 
+play: suri 
+rain: mbe | mbe	mbok	mboʔ	mog	mpok 
+rain: mbok | mbe	mbok	mboʔ	mog	mpok 
+rat: kuari 
+rat: kwarik 
+red: hëp | hup	huv	həp	ɣɨp 
+red: həp | hup	huv	həp	ɣɨp 
+right: gup | ahat	farive	faruve	farve	ɣar	ɸar	ɸárweʔe 
+ripe: dzire 
+ripe: ndiruk 
+river: irursa 
+road: twap 
+root: kʰan-ber | ber	ka ber	kangɛrr	kʰan-ber	turi	tʰok 
+root: kkan ber | ber	ka ber	kangɛrr	kʰan-ber	turi	tʰok 
+root: tʰok | ber	ka ber	kangɛrr	kʰan-ber	turi	tʰok 
+root: ttok | ber	ka ber	kangɛrr	kʰan-ber	turi	tʰok 
+rope: mberaʔ 
+rope: pa 
+sand: këën | kun	kɨŋɨn 
+say: amiki | dušuwa	girai	kaunsuai 
+say: nengi | dušuwa	girai	kaunsuai 
+say: swai | dušuwa	girai	kaunsuai 
+say: swa-i/swang-gi | dušuwa	girai	kaunsuai 
+scratch: kʰeri 
+scratch: ndiː 
+sea: aßura 
+sea: mbasuk 
+see: gaŋki | agangi	gan	ganigi	gari	gaŋki 
+see: gari | agangi	gan	ganigi	gari	gaŋki 
+see: gar-i/gan-igi | agangi	gan	ganigi	gari	gaŋki 
+sharp: mbéwiki 
+short: atəß | atəβ	tibigi 
+short: tibigi | atəβ	tibigi 
+shoulder: pʰək 
+shoulder: ppëk 
+sing: ihi 
+sing: ih-i 
+sit: perigi | peregi	perigi	pɛrəgi 
+sit: per-igi | peregi	perigi	pɛrəgi 
+skin: fap | fap	nder	ndet	ner 
+skin: nder | fap	nder	ndet	ner 
+sky: beyaß 
+sleep: kwi | kui	kwi	əkwi 
+sleep: kw-i | kui	kwi	əkwi 
+small: bisane | bisane	gisane	kenenaʔa	pisan̪e	toketu 
+small: kenenaʔa | bisane	gisane	kenenaʔa	pisan̪e	toketu 
+small: toketu | bisane	gisane	kenenaʔa	pisan̪e	toketu 
+smoke: gartu | atul	fap tur	garatur	gartu	gartur	tur	vuap atul 
+smoke: gartur | atul	fap tur	garatur	gartu	gartur	tur	vuap atul 
+snake: kuruk | kuruk	kuruʔ 
+spit: kʰiː 
+stand: kav-i 
+stand: tʰəgi 
+stand: ttë-gi 
+star: ikám | ikám	kam 
+star: kam | ikám	kam 
+stone: akəm | akəm	k3a	k3m	kum	kəm	kɨmkɨm 
+stone: kəm | akəm	k3a	k3m	kum	kəm	kɨmkɨm 
+stone: këm/këa/këmëni | akəm	k3a	k3m	kum	kəm	kɨmkɨm 
+sun: arao | arao	ra	rʌ 
+sun: ra | arao	ra	rʌ 
+sweet: gumgireri 
+swim: diː | diː	du	mbuadi	ədziʰ 
+swim: di-i | diː	du	mbuadi	ədziʰ 
+tail: pʰiŋ | pin	piː	pʰiŋ	pʰĩ	tʰəve 
+tail: pping | pin	piː	pʰiŋ	pʰĩ	tʰəve 
+tail: tʰəve | pin	piː	pʰiŋ	pʰĩ	tʰəve 
+tail: ttëve | pin	piː	pʰiŋ	pʰĩ	tʰəve 
+take: kəmgi 
+take: ndi 
+that: ma | ma	mba	mbule	mbʊreʔʌ	murevi 
+that: mba | ma	mba	mbule	mbʊreʔʌ	murevi 
+that: m(b)a | ma	mba	mbule	mbʊreʔʌ	murevi 
+that: mbu | ma	mba	mbule	mbʊreʔʌ	murevi 
+that: m(b)u | ma	mba	mbule	mbʊreʔʌ	murevi 
+that: mu | ma	mba	mbule	mbʊreʔʌ	murevi 
+they: mbe 
+they: mbɛ 
+they: mbe/ta/men 
+they: men 
+they: ta 
+they two: mani 
+they two: mani/mani-n 
+they two: manin 
+thigh: ruː 
+this: ka | ke	kevi	kule	kəre 
+this: ke | ke	kevi	kule	kəre 
+thorn: ko 
+thou: du | du	nde	ndu	nduʰ	nu 
+thou: nde | du	nde	ndu	nduʰ	nu 
+thou: ndu | du	nde	ndu	nduʰ	nu 
+thou: nen | du	nde	ndu	nduʰ	nu 
+thou: nun | du	nde	ndu	nduʰ	nu 
+thou: nu-n | du	nde	ndu	nduʰ	nu 
+three: ppuni-kagine 
+three: pʰuni-kagine 
+three: viʔbare 
+throat: kwa\ar 
+throat: kwaʔar 
+thunder: nimbarigi 
+today: tigera 
+today: timena 
+tomorrow: gurmun 
+tomorrow: guru 
+tongue: ze | ze	zɛ	ǯeː 
+tooth: ata | ata	talβɛ	tarve	tat 
+tree: ka | kh~a	kka	kkira 
+tree: kʰa | kh~a	kka	kkira 
+tree: kira | kh~a	kka	kkira 
+tree: kka/kkira | kh~a	kka	kkira 
+two: gere-han | gere-han	gerehan	ph~unini	ppunini	puni	punini	põnõni	pʰunini	swi 
+two: ppunini | gere-han	gerehan	ph~unini	ppunini	puni	punini	põnõni	pʰunini	swi 
+two: pʰunini | gere-han	gerehan	ph~unini	ppunini	puni	punini	põnõni	pʰunini	swi 
+two: swi | gere-han	gerehan	ph~unini	ppunini	puni	punini	põnõni	pʰunini	swi 
+vagina: kan 
+vagina: nsi 
+walk: areki | bʷi	nui	vui 
+walk: kʰəvi | bʷi	nui	vui 
+walk: ßi | bʷi	nui	vui 
+walk: ßuki | bʷi	nui	vui 
+walk: vwi | bʷi	nui	vui 
+walk: vw-i/nggu | bʷi	nui	vui 
+wallaby: ihum 
+warm: gurgurgi 
+warm: gurgur-gi 
+wash: rwai 
+water: mbe | mb3	mbe	mbu	mbə	mbɨ 
+water: mbë | mb3	mbe	mbu	mbə	mbɨ 
+water: mbə | mb3	mbe	mbu	mbə	mbɨ 
+we: asa | za	zan 
+weep: zë-i 
+weep: ziː 
+weep: zi-i 
+we: ga-n | za	zan 
+we two: ga 
+we two (incl.): ga 
+we two (incl.): gan 
+we: za | za	zan 
+we: ža | za	zan 
+we: zan | za	zan 
+we: za/za-n | za	zan 
+what: tʰagun | mbreʔʌ	tagun	tʰagun 
+what: ttagun/ram | mbreʔʌ	tagun	tʰagun 
+where: mba 
+white: agurmaʔa | agurmaʔa	hul	hur	tuan 
+white: hur | agurmaʔa	hul	hur	tuan 
+white: hut/huri | agurmaʔa	hul	hur	tuan 
+who: tʰe | tevi	témaʔa	tɛvi	tʰe 
+who: témaʔa | tevi	témaʔa	tɛvi	tʰe 
+who: tte | tevi	témaʔa	tɛvi	tʰe 
+wife: amu 
+wife: muŋ 
+wife: mung/mbuuri/munguni 
+wind: mbëmbë | bubu	mbəmbə	mumbu	vovo	βoβa 
+wind: mbəmbə | bubu	mbəmbə	mumbu	vovo	βoβa 
+wind: ßoßa | bubu	mbəmbə	mumbu	vovo	βoβa 
+wing: aßəkə 
+with: porga 
+with: porgup 
+woman: ambiki | ambiki	mbigi	mbik	mig 
+woman: ame | ambiki	mbigi	mbik	mig 
+woman: mbik | ambiki	mbigi	mbik	mig 
+woman: meː | ambiki	mbigi	mbik	mig 
+woman: mee/mei | ambiki	mbigi	mbik	mig 
+wood: azira 
+wood: mbi 
+wrist: mbor 
+yellow: ŋguruŋ | gulu	karɨn	nguru	ŋguruŋ 
+yellow: nggurung/nggurungi | gulu	karɨn	nguru	ŋguruŋ 
+yes: aom 
+yes: ore 
+yesterday: gurmun 
+you: nde/ne-n | du	nde	ndu	nduʰ	nu 
+you: ne-n/go-n | du	nde	ndu	nduʰ	nu 
+you two: go 
+you two: gon 
+every: dazam	dzam	meǯam	zam 
+ash: asinu	verun	vuap asinu	vɛrɨn 
+ashes: asinu	verun	vuap asinu	vɛrɨn 
+bark: ka ndet	kaner	kʌndɛr	ndet	ner 
+abdomen: da	davuk	daβda	nap	ndap	tap 
+bigness: aruomaʔa	bakume	bakɨm 
+large: aruomaʔa	bakume	bakɨm 
+breasts: atamaʔa	biptatani	ta	tani	taʰ 
+claw: farapuki	fari-pugi	forəpuk 
+nail: farapuki	fari-pugi	forəpuk 
+talon: farapuki	fari-pugi	forəpuk 
+come from: zi	žɨ	βi 
+be dead: arimiki	arɨmtaʔambu	limiki	rimgi 
+dead: arimiki	arɨmtaʔambu	limiki	rimgi 
+ground: nwiaʔan 
+land: nwiaʔan 
+soil: nwiaʔan 
+fly: gegavuki	gigavui	gɪgɨvui 
+fly v.: gegavuki	gigavui	gɪgɨvui 
+left hand: ahat	farive	faruve	farve	ɣar	ɸar	ɸárweʔe 
+horn: kom 
+1 sg.: go	gu	na	nan	ŋo	ŋu 
+kill: asogialimiki	sogi	soʔogi rɪmgɪ 
+be knowledgeable: kangi	kaŋgi	kãːŋgi 
+male: guma	gumba 
+much: furwe	vurave	vurve	βʌrakɨvɣi 
+multiple: furwe	vurave	vurve	βʌrakɨvɣi 
+several: furwe	vurave	vurve	βʌrakɨvɣi 
+hill: mb3ks3m	mbukasum	mbúgesem	mbəksəm	mbɨkəsɨm	rua 
+title: dzi	z3	zin	zu	zɨ	ži	ǯuǯ 
+nighttime: ma gris	maN	mageŋeŋki	magunki	mang	maŋ	maː	mbari 
+adulterous: bavira	bebila	bɛvirɨ	gere	ibabira 
+single: bavira	bebila	bɛvirɨ	gere	ibabira 
+the: bavira	bebila	bɛvirɨ	gere	ibabira 
+unprincipled: bavira	bebila	bɛvirɨ	gere	ibabira 
+human: guma	gumiŋki	zɨžam 
+human being: guma	gumiŋki	zɨžam 
+rainy weather: mbe	mbok	mboʔ	mog	mpok 
+path: twap 
+route: twap 
+round: behugi	fufuʔugi	huigi 
+seed: kauvup	kʌnəβək	parugakifiki 
+hide: fap	nder	ndet	ner 
+little: bisane	gisane	kenenaʔa	pisan̪e	toketu 
+smallness: bisane	gisane	kenenaʔa	pisan̪e	toketu 
+rock: akəm	k3a	k3m	kum	kəm	kɨmkɨm 
+2 sg: du	nde	ndu	nduʰ	nu 
+grind: gere-han	gerehan	ph~unini	ppunini	puni	punini	põnõni	pʰunini	swi 
+go: bʷi	nui	vui 
+1 pl. inc.: za	zan 
+we₁: za	zan 
+whiteness: agurmaʔa	hul	hur	tuan 
+who?: tevi	témaʔa	tɛvi	tʰe 
+female: ambiki	mbigi	mbik	mig 
+dull: simgi	simiki 
+serious: simgi	simiki 
+close: han 
+ner: han 

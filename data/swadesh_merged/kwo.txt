@@ -1,0 +1,357 @@
+all: kopëpwoi\ | korəpwoɪʔ 
+all: korəpwoɪʔ 
+arrow: wopiʔ 
+ashes: i-tokwi\ | i-tokwiʔ 
+ashes: i-tokwiʔ 
+back: kunë\ 
+back: kunəʔ 
+bad: nëmbëra\ 
+bad: nəmbəraʔ 
+bark: kawulira 
+bark: kawu-lira | kawulira 
+belly: arie\ | arieʔ	ariəʔ 
+belly: arië\ | arieʔ	ariəʔ 
+belly: arieʔ ~ ariəʔ | arieʔ	ariəʔ 
+big: rangë\ | rangəʔ 
+big: rangəʔ 
+bird: tatë\ | tatəʔ 
+bird: tatəʔ 
+bite: bäräri | bäräri 
+bite: bäräri 
+black: mëgidu\ | məgiduʔ 
+black: məgiduʔ 
+blood: wëliro\ | pui	wəliroʔ 
+blood: wəliroʔ | pui	wəliroʔ 
+bone: kwëdidu\ | kolilu	kwədiduʔ 
+bone: kwədiduʔ | kolilu	kwədiduʔ 
+boy: aredu\ 
+boy: areduʔ 
+breast: tutu\ | tutuʔ 
+breast: tutuʔ 
+brother: apë\ 
+brother: apəʔ 
+burn: irinilëli 
+burn: irɪniləlɪ 
+cassowary: kwa(y)l\ 
+child: aritëkwira\ 
+child: aritəkwiraʔ 
+chin: rakətorɪʔ 
+chin: rakë-tori\ 
+claw: (tatë) kërëpola\ | kərəpolaʔ	tatəkərəpolaʔ 
+claw: (tatə)kərəpolaʔ | kərəpolaʔ	tatəkərəpolaʔ 
+cloud: nase(mo\) | nase	nasemoʔ 
+cloud: nase(moʔ) | nase	nasemoʔ 
+cold: mëwo\ | məwoʔ 
+cold: məwoʔ 
+come: ritario\ | ri3	ritarioʔ 
+come: ritarioʔ | ri3	ritarioʔ 
+dance: sëwë\ 
+day: paipərɪ 
+day: papëri 
+die: tapwitərɪʔ | tafila	tapwitərɪʔ 
+die: tapwitëri\ | tafila	tapwitərɪʔ 
+dog: mëwu\ | kLipu	məwuʔ 
+dog: məwuʔ | kLipu	məwuʔ 
+drink: pwio | fu	pwio 
+dry: fufuri | ɸuɸuri 
+dry: φuφuri | ɸuɸuri 
+ear: putäni | putEni	putäni 
+ear: putäni | putEni	putäni 
+earth: bukwae\ 
+earth: bukwaeʔ 
+eat: taiyälio | taiyälioʔ	taiyärioʔ 
+eat: taiyärio | taiyälioʔ	taiyärioʔ 
+eat: taiyärioʔ ~ taiyälioʔ | taiyälioʔ	taiyärioʔ 
+egg: tuwëro | tuwəroʔ 
+egg: tuwəroʔ 
+elbow: amukëro\ 
+elbow: amukəroʔ 
+emu: kwa(y)lʔ 
+eye: u\ | u	uʔ 
+eye: uʔ | u	uʔ 
+fall: geperarëlio 
+fall: geperarəlɪo 
+father: ayäʔ 
+father: ayä\ 
+fat (n.): wëliëro\ 
+fat (n.): wəliəroʔ 
+feather: tipiru\ | tɪpiruʔ 
+feather: tɪpiruʔ 
+finger: amekëbu\ 
+finger: amekëpu\ 
+finger: amekəpuʔ ~ amekəbuʔ 
+fire: i\ | i	iʔ 
+fire: iʔ | i	iʔ 
+fish: rëwi | rori	rəwi 
+fish: rəwi | rori	rəwi 
+five: ifu\ 
+five: iφuʔ 
+fly (v.): pərarəlɪ 
+fly (v.): përarëli 
+foot: kuri 
+forehead: këli\ 
+forehead: kəliʔ 
+four: knwuwari\ 
+four: knwuwariʔ 
+full: mui\ | muiʔ 
+full: muiʔ 
+girl: ëtamodu\ 
+girl: ətamoduʔ 
+give: fana(y)o\ | ɸanaoʔ	ɸanayoʔ 
+give: φana(y)oʔ | ɸanaoʔ	ɸanayoʔ 
+good: wërira\ | wəriraʔ 
+good: wəriraʔ 
+green: (w)usèridu\ | usɛriduʔ	wusɛriduʔ 
+green: (w)usɛriduʔ | usɛriduʔ	wusɛriduʔ 
+hair: wutißi | wutiβi 
+hair: wutivi | wutiβi 
+hand: ame\ | ameʔ 
+hand: ameʔ 
+head: ipora 
+heart: inëku\ | inəkuʔ 
+heart: inəkuʔ 
+heavy: ritira\ | rɪtiraʔ 
+heavy: rɪtiraʔ 
+he/she: itë 
+he/she: itə 
+hit: funërio 
+hit: φunərɪo 
+house: itɪʔ 
+house: iti\ 
+I: ine\ | ineʔ	m3n3 
+I: ineʔ | ineʔ	m3n3 
+kill: balälio | balälio 
+kill: balälio 
+knee: tëmairo\ | təmairoʔ 
+knee: təmairoʔ 
+know: ramèdio | ramɛdio	ramɛlio 
+know: ramɛdio ~ ramɛlio | ramɛdio	ramɛlio 
+know: ramèlio | ramɛdio	ramɛlio 
+laugh: gëreo 
+laugh: gəreo 
+leaf: dëfu\ | dəɸuʔ	fulu 
+leaf: dəφuʔ | dəɸuʔ	fulu 
+leg: kwënëpo\ 
+leg: kwənəpoʔ 
+lie: durara\ 
+lie: turare\ 
+lie: turareʔ ~ duraräʔ 
+liver: ridu\ | riLu	riduʔ 
+liver: riduʔ | riLu	riduʔ 
+long: wëmëru\ | wəməruʔ 
+long: wəməruʔ 
+louse: yäpiʔ 
+louse: yäpi\ 
+man: dopwai\ | dəpwaiʔ 
+man: lopwai\ | dəpwaiʔ 
+man: lopwaiʔ ~ dopwaiʔ | dəpwaiʔ 
+man: ndupway | dəpwaiʔ 
+many: masëmbi | masəmbi 
+many: masəmbi 
+meat: rëmorë\ 
+meat: rəmorəʔ 
+moon: wësi | wəsi 
+moon: wəsi 
+morning: dëputa 
+morning: dəputa ~ ləputa 
+morning: lëputa 
+mother: miyäʔ 
+mother: miyä\ 
+mountain: apunè\ | apunɛʔ 
+mountain: apunɛʔ 
+mouth: rako\ | rakoʔ 
+mouth: rakoʔ 
+neck: aikwo\ | aikwoʔ 
+neck: aikwoʔ 
+new: riɪʔ ~  riyɪʔ | riyɪʔ	riɪʔ 
+new: ri(y)i\ | riyɪʔ	riɪʔ 
+night: kəriɪʔ | kri3	kəriɪʔ 
+night: kërii\ | kri3	kəriɪʔ 
+nose: tipu\ | tipuʔ	tupu 
+not: kafani\ | kaɸanɪʔ 
+not: kaφanɪʔ | kaɸanɪʔ 
+not: kəriɪʔ | kaɸanɪʔ 
+not: kërii\ | kaɸanɪʔ 
+old: inësake\ 
+old: inəsakeʔ 
+old: mëti\ 
+old: mətiʔ 
+old: muma\ 
+old: mumaʔ 
+old: nëpwë-sake\ 
+old: nəpwəsakeʔ 
+one: mëmo\ | muamoLE	məmoʔ 
+one: məmoʔ | muamoLE	məmoʔ 
+person: dëpwai\ | dəpwaiʔ 
+person: dəpwaiʔ 
+rain: aro\ | aroʔ 
+rain: aroʔ 
+rat: uräʔ 
+rat: urä\ 
+red: məßipəʔ widu | məβipəʔ widu 
+red: mëvipë\ widu | məβipəʔ widu 
+road: usädi 
+road: usädi ~ usäli 
+road: usäli 
+root: (këwë)n.giya | kəwəngiya	ngiya 
+root: (kəwə)ngiya | kəwəngiya	ngiya 
+round: wëpinè\ (?) | wəpinɛʔ 
+round: wəpinɛʔ 
+sand: wëpinè\ (?) | wəpinɛʔ 
+sand: wəpinɛʔ 
+say: unëkëkëneo | unəkəkəneo 
+say: unəkəkəneo 
+seed: kəwuwarɪʔ 
+seed: këwu-warï\ | kəwuwarɪʔ 
+see: ßɪta(y)oʔ | p3ta	βɪtaoʔ	βɪtayoʔ 
+see: vita(y)o\ | p3ta	βɪtaoʔ	βɪtayoʔ 
+short: tarira\ 
+short: turira\ 
+short: turɪraʔ ~ tarɪraʔ 
+shoulder: ambëti\ 
+shoulder: ambətiʔ 
+sister: atëda\ 
+sister: atədaʔ ~ atəlaʔ 
+sister: atëla\ 
+sit: damäri | damäri	lamäri 
+sit: damäri ~ lamäri | damäri	lamäri 
+sit: lamäri | damäri	lamäri 
+skin: lido\ | lidoʔ	liloʔ	ri 
+skin: lilo\ | lidoʔ	liloʔ	ri 
+skin: liloʔ ~ lidoʔ | lidoʔ	liloʔ	ri 
+sleep: duraio\ | duraioʔ 
+sleep: duraioʔ 
+small: tëkwiro\ | təkwiroʔ 
+small: təkwiroʔ 
+smoke: upu\ | upuʔ	yi 
+smoke: upuʔ | upuʔ	yi 
+smoke: yi | upuʔ	yi 
+snake: ti(y)aßeʔ | tiaβeʔ	tiyaβeʔ 
+snake: ti(y)ave\ | tiaβeʔ	tiyaβeʔ 
+spit: tuφuruo 
+stand: puləʔräri 
+stand: pulë\räri 
+star: limafu\ | limaɸuʔ 
+star: limaφuʔ | limaɸuʔ 
+stick: kafani\ 
+stone: ti\ | ti	tiʔ 
+stone: tiʔ | ti	tiʔ 
+sun: liyë\ | li3	liyəʔ	liyɪʔ 
+sun: liyəʔ ~ liyɪʔ | li3	liyəʔ	liyɪʔ 
+sun: liyi\ | li3	liyəʔ	liyɪʔ 
+swim: dəpualɪo 
+tail: kumoru\ | kumoruʔ 
+tail: kumoruʔ 
+take: bäräelio 
+that: piso\ | pisoʔ 
+that: pisoʔ 
+they: gipopë\ 
+they: gipopəʔ 
+they two: munëo\ 
+they two: munəoʔ 
+this: tëmënggo | təməŋgo 
+this: təməŋgo 
+thou: itəpəoʔ | onəʔ	une 
+thou: onë\ | onəʔ	une 
+thou: onəʔ | onəʔ	une 
+three: kawulira 
+tomorrow: këtu\ 
+tomorrow: kətuʔ 
+tongue: dië\ | Li	diyɪʔ	diəʔ 
+tongue: diəʔ ~ diyɪʔ | Li	diyɪʔ	diəʔ 
+tongue: diyi\ | Li	diyɪʔ	diəʔ 
+tooth: nënë\ | nənəʔ	nɪnɪʔ 
+tooth: nini\ | nənəʔ	nɪnɪʔ 
+tooth: nɪnɪʔ ~ nənəʔ | nənəʔ	nɪnɪʔ 
+tree: këwu\ | ka 
+tree: kəwuʔ | ka 
+two: arë\ | are	arəʔ 
+two: arəʔ | are	arəʔ 
+walk: wəraräʔ | wəraräʔ 
+walk: wërarä\ | wəraräʔ 
+walk: φɪφinənərɪo | wəraräʔ 
+wallaby: wëifo\ 
+wallaby: wəiφoʔ 
+warm: ikipa\ 
+warm: ikipaʔ 
+water: wëli | m3Li	wəli 
+water: wəli | m3Li	wəli 
+we (excl.): inəpəäʔ 
+we: inëpëä\ | m3na 
+wet: apunè\ 
+wet: apunɛʔ 
+we two (excl.): unəwnipəoʔ 
+we two: unëwnipëo\ 
+what: wopi\ | wopiʔ 
+what: wopiʔ 
+when: itɪʔ 
+when: iti\ 
+where: bukwae\ 
+where: bukwaeʔ 
+white: konambëru | konambəru 
+white: konambəru 
+who: aikëpa\ | aikəpaʔ 
+who: aikəpaʔ 
+wind: fufuri | ɸuɸuri 
+wind: φuφuri | ɸuɸuri 
+wing: (tatë)tipira\ 
+wing: (tatə)tɪpiraʔ 
+woman: enari 
+wood: kaφanɪʔ 
+yellow: sukwëridu\ | sukwəriduʔ 
+yellow: sukwəriduʔ 
+yes: paipərɪ 
+yes: paipëri 
+yesterday: təworɪʔ 
+yesterday: tëwori\ 
+you: itëpëo\ | onəʔ	une 
+you two: ërëo\ 
+you two: ərəoʔ 
+every: korəpwoɪʔ 
+ash: i-tokwiʔ 
+abdomen: arieʔ	ariəʔ 
+bigness: rangəʔ 
+large: rangəʔ 
+breasts: tutuʔ 
+nail: kərəpolaʔ	tatəkərəpolaʔ 
+talon: kərəpolaʔ	tatəkərəpolaʔ 
+come from: ri3	ritarioʔ 
+be dead: tafila	tapwitərɪʔ 
+dead: tafila	tapwitərɪʔ 
+fly: pərarəlɪ 
+fly v.: pərarəlɪ 
+left hand: ameʔ 
+right: ameʔ 
+hear: fi3 
+horn: fifiri 
+1 sg.: ineʔ	m3n3 
+be knowledgeable: ramɛdio	ramɛlio 
+male: dopwaiʔ	lopwaiʔ 
+much: masəmbi 
+multiple: masəmbi 
+several: masəmbi 
+hill: apunɛʔ 
+name: biLu 
+title: biLu 
+nighttime: kri3	kəriɪʔ 
+adulterous: muamoLE	məmoʔ 
+single: muamoLE	məmoʔ 
+the: muamoLE	məmoʔ 
+unprincipled: muamoLE	məmoʔ 
+human: dəpwaiʔ 
+human being: dəpwaiʔ 
+rainy weather: aroʔ 
+hide: lidoʔ	liloʔ	ri 
+little: təkwiroʔ 
+smallness: təkwiroʔ 
+rock: ti	tiʔ 
+2 sg: onəʔ	une 
+grind: are	arəʔ 
+go: wəraräʔ 
+1 pl. inc.: m3na 
+we₁: m3na 
+whiteness: konambəru 
+who?: aikəpaʔ 
+female: enari 
+dull: rɪtiraʔ 
+serious: rɪtiraʔ 

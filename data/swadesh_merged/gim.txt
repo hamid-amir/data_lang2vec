@@ -1,0 +1,220 @@
+all: hagoʔ 
+arrow: iri 
+ashes: rase 
+back: (a)kai 
+bad: kokureʔ 
+bark: ari 
+belly: (a)da | ada	da 
+big: anosa 
+bird: nimi 
+bite: (a)ona(ize) | aonaize 
+black: utunuʔ 
+blood: koraʔ | kora7	koraʔ 
+bone: (a)zapu | azapu	zapu 
+boy: ariʔ 
+boy: maiʔ 
+breast: ame | ame	ami 
+breast: ami | ame	ami 
+brother: (a)kau(babo) 
+burn: ra(ize) 
+child: muru araʔ 
+chin: (a)mamiʔ 
+claw: (a)bezoʔ | abezoʔ	bezoʔ 
+cloud: biki | biki	onuʔ 
+cloud: onuʔ | biki	onuʔ 
+cold: rane(tanena) | rane	ranetanena 
+come: kana(ize) | kana	kanaize 
+day: nugiʔ 
+die: ida(ize) | ida	idaize 
+dog: kura 
+drink: na(ize) | na	naize 
+dry: azi(ize) | azi	aziize 
+ear: (a)geta | ageta	geta 
+earth: ma 
+eat: na(ize) | na	naize 
+egg: amuʔ 
+elbow: (azu)suʔ 
+emu: amananiʔ 
+eye: (a)o | ao	o 
+fall: heka(ize) 
+father: (a)ba(babo) 
+fat (n.): (aiʔ)ake 
+feather: (a)zaʔ | azaʔ	zaʔ 
+finger: (a)beu 
+finger: mozo(baʔ) 
+fire: kukuʔ | kuku7	kukuʔ 
+fish: mado 
+fly (v.): habete ba(ize) 
+foot: (a)gesuʔ | agesuʔ	gesuʔ	isuʔ 
+foot: (a)isuʔ | agesuʔ	gesuʔ	isuʔ 
+forehead: (a)di 
+full: ibiri(ize) | ibiri	ibiriize	ibirize 
+girl: rakanaʔ 
+give: (ne)me(ize) | nemeize 
+good: bidaʔ | bidaʔ	sokoʔ 
+good: sokoʔ | bidaʔ	sokoʔ 
+green: zasikakaʔ 
+hair: (a)zaʔ | azaʔ	zaʔ 
+hand: (a)zaʔ | aza7	azaʔ	zaʔ 
+head: (a)bidoʔ | abidoʔ	bidoʔ 
+hear: he(ize) | he	heize 
+heart: rumopa(baʔ) | rumopa	rumopabaʔ 
+heavy: kudi 
+he/she: a(ge) 
+he/she: -i 
+hit: ha(ize) 
+horn: rakazana(baʔ) | rakazana	rakazanaba7	rakazanabaʔ 
+house: namaʔ 
+I: ne(ge) | ne	nege	u 
+I: -u | ne	nege	u 
+kill: (ha)ne idaize) | hane idaize 
+knee: (a)rae | arae	rae 
+know: he(ize) | he	heize 
+laugh: koki(ize) 
+leaf: asiʔ | asi7	asiʔ 
+leg: (a)gesuʔ 
+lie: be(ize) 
+liver: (a)uʔ | au7	auʔ	uʔ 
+long: eʔeʔ 
+louse: nimi 
+man: bana | ina7	inaʔ 
+many: hagoʔ 
+meat: (a)bese 
+moon: kiʔ 
+morning: igibeʔ 
+mother: (a)no(babo) 
+mountain: abiʔ | abi7	abiʔ 
+mouth: (a)sa | asa	sa 
+name: (a)keke | akeke	keke 
+neck: (a)goma | ahae	goma	hae 
+neck: (a)hae | ahae	goma	hae 
+new: esa 
+night: utuna(biʔ) | utuna	utunabi7	utunabiʔ 
+not: kakare 
+old: ata 
+old: edaʔ 
+old: orada 
+one: kikaʔ | kika7	kikaʔ	kika’ 
+person: inaʔ | ina7	inaʔ 
+rain: kau 
+rat: atumi 
+red: agoʔ | agoʔ	bidaʔ	nakuʔ 
+red: bidaʔ | agoʔ	bidaʔ	nakuʔ 
+red: nakuʔ | agoʔ	bidaʔ	nakuʔ 
+road: keʔ | ke7 
+root: abi | abi	ami 
+root: ami | abi	ami 
+round: omukoko 
+sand: kepa 
+say: kaina(ize) | kaina	kainaize 
+see: (a)ga(ize) | agaize 
+seed: azu(ina) | azu	azuina 
+short: aukikaʔ 
+shoulder: (a)kozaʔ 
+sister: (a)si(babo) 
+sit: (mata) miri(ize) | mata miriize 
+skin: (a)reuʔ | areu7	areuʔ	reuʔ 
+sleep: be(ize) | be	beize 
+small: habana 
+smoke: udi 
+snake: kuri 
+spit: kotu(ize) 
+stand: ari(ize) 
+star: obu 
+stone: i | i	iyamu 
+stone: iyamu | i	iyamu 
+sun: ho 
+swim: nokosa(pe aroize) | nokosa	nokosape aroize 
+tail: (a)be | abe	be 
+that: komaʔ 
+they: -a 
+they: i(gi) 
+they two: -ar 
+they two: i(gi)ri 
+this: kamaʔ 
+thou: -an | en	ka	kage 
+thou: ka(ge) | en	ka	kage 
+thou: ri(gi) | en	ka	kage 
+three: rarega kikaʔ 
+tomorrow: aikaʔ 
+tongue: (a)dabinaʔ | adabina7	adabinaʔ	anaita	dabinaʔ	naita 
+tongue: (a)naita | adabina7	adabinaʔ	anaita	dabinaʔ	naita 
+tooth: (a)baʔ | aba7	abaʔ	baʔ 
+tree: za 
+two: rare 
+walk: karu(ize) | nese	neseize 
+walk: nese(ize) | nese	neseize 
+wallaby: beza 
+warm: muka(na) 
+water: beneʔ | bene7	beneʔ	one7	oneʔ 
+water: oneʔ | bene7	beneʔ	one7	oneʔ 
+we: re(ge) | rege	un 
+wet: kazi(ize) 
+we two (incl.): re(ge)re 
+we two: -ur 
+we: -un | rege	un 
+what: era(bena) | era	erabena 
+when: aekabi 
+where: ae(tai) 
+white: bezeʔ 
+who: keka 
+wind: zasina 
+wing: (a)kaka(za) 
+woman: bazaʔ 
+wood: zamuʔ 
+yellow: komoru 
+yes: eː 
+yes: ehe 
+yesterday: aikaʔ 
+you: -a | en	ka	kage 
+you two: -ar 
+you two: ri(gi)ri 
+every: hagoʔ 
+ash: rase 
+abdomen: ada	da 
+bigness: anosa 
+large: anosa 
+breasts: ame	ami 
+nail: abezoʔ	bezoʔ 
+talon: abezoʔ	bezoʔ 
+come from: kana	kanaize 
+be dead: ida	idaize 
+dead: ida	idaize 
+fly: habete ba	habete baize 
+fly v.: habete ba	habete baize 
+left hand: aza7	azaʔ	zaʔ 
+right: aza7	azaʔ	zaʔ 
+1 sg.: ne	nege	u 
+be knowledgeable: he	heize 
+head louse: nimi 
+male: bana 
+much: hagoʔ 
+multiple: hagoʔ 
+several: hagoʔ 
+hill: abi7	abiʔ 
+title: akeke	keke 
+nighttime: utuna	utunabi7	utunabiʔ 
+nose: asigiʔ	sigiʔ 
+adulterous: kika7	kikaʔ	kika’ 
+single: kika7	kikaʔ	kika’ 
+the: kika7	kikaʔ	kika’ 
+unprincipled: kika7	kikaʔ	kika’ 
+human: ina7	inaʔ 
+human being: ina7	inaʔ 
+rainy weather: kau 
+path: ke7 
+route: ke7 
+hide: areu7	areuʔ	reuʔ 
+little: habana 
+smallness: habana 
+rock: i	iyamu 
+2 sg: en	ka	kage 
+grind: rare 
+go: nese	neseize 
+1 pl. inc.: rege	un 
+we₁: rege	un 
+whiteness: bezeʔ 
+who?: keka 
+female: bazaʔ 
+dull: kudi 
+serious: kudi 

@@ -1,0 +1,333 @@
+all: kaikki 
+every: kaikki 
+ash: tuhka 
+ashes: tuhka 
+bark: kuori 
+abdomen: maha	vačča 
+belly: maha	vačča 
+big: suuri	šuuri 
+bigness: suuri	šuuri 
+large: suuri	šuuri 
+bird: lindu	lintu 
+bite: purra 
+black: musta	mustu 
+blood: veri 
+bone: lu	luu 
+breast: rinda	rindo	rinta 
+breasts: rinda	rindo	rinta 
+cloud: pilvi 
+cold: kylmy	kylmä	vilu 
+come: tulla	tulo 
+come from: tulla	tulo 
+be dead: kuolla	kuolo 
+dead: kuolla	kuolo 
+die: kuolla	kuolo 
+dog: koira	koiro 
+drink: %yuodo	%yuvo	juoda	juoo	juuva	juuvva 
+dry: kuiva	kuivu 
+ear: korva	korvo 
+earth: mua 
+ground: mua 
+land: mua 
+soil: mua 
+eat: syyvvä	syyvä 
+egg: muna 
+eye: silmE	silmä	šilmä 
+feather: sulga 
+fire: tuli 
+fish: kala	kolo 
+fly: lendiä	lentyä 
+fly v.: lendiä	lentyä 
+foot: jalga	jalgu	jalka	jallanpohja 
+full: tEizi	täysi	täyzi 
+give: andua	antua 
+good: hyvä 
+green: vihandu	vihrie 
+hair: hivus	karva	tukka 
+hand: kEzi 
+left hand: kEzi 
+right: kEzi 
+head: piä 
+hear: kulo	kuulla 
+heart: syväin 
+horn: %sorvi	sarvi 
+1 sg.: mie	minä 
+I: mie	minä 
+kill: tappua 
+knee: %polvi	polvi 
+be knowledgeable: tiediä	tietyä 
+know: tiediä	tietyä 
+leaf: %leti	lehti 
+liver: maksa	mokso 
+long: pitky	pitkä 
+head louse: tEi	täi 
+louse: tEi	täi 
+male: mies	mieš	mužikka 
+man: ihmine	ihmini	imine	inehmine	mies	ristikanza	ristikanža 
+many: monet	äijä	äijän	äijät 
+much: monet	äijä	äijän	äijät 
+multiple: monet	äijä	äijän	äijät 
+several: monet	äijä	äijän	äijät 
+moon: kuu 
+hill: mEgi	mägi	vuara 
+mountain: mEgi	mägi	vuara 
+mouth: suu 
+name: %nimi	nimi 
+title: %nimi	nimi 
+neck: kagla	kakla 
+new: uusi	uuzi	uuši	uzi 
+night: yö 
+nighttime: yö 
+nose: nenE	nenä 
+not: ei 
+adulterous: iksi	yksi 
+one: iksi	yksi 
+single: iksi	yksi 
+that: neče	tuo 
+the: iksi	yksi 
+unprincipled: iksi	yksi 
+human: ihmine	ihmini	imine	inehmine	mies	ristikanza	ristikanža 
+human being: ihmine	ihmini	imine	inehmine	mies	ristikanza	ristikanža 
+person: ihmine	ihmini	imine	inehmine	mies	ristikanza	ristikanža 
+rain: vihmu	vihmuo	viima 
+rainy weather: vihmu	vihmuo	viima 
+red: ruskei	ruskie 
+path: tie 
+road: tie 
+route: tie 
+root: juuri 
+round: pyörie	pyörya	pyöryžä 
+sand: liede	lieto	čuuru 
+say: sanuo 
+see: nEhE	nägyö	nähtä	nähä 
+seed: siemen 
+sit: istuo 
+hide: hibja	nahka	noko 
+skin: hibja	nahka	noko 
+sleep: magua	muata	nukkua 
+little: pieni	pikkaraine	väčykkäine 
+small: pieni	pikkaraine	väčykkäine 
+smallness: pieni	pikkaraine	väčykkäine 
+smoke: savu 
+star: tEti	tähti 
+rock: kivi 
+stone: kivi 
+sun: pEivEine	päiväine	päiväne 
+swim: uidua	uija 
+tail: händä	häntä 
+this: tämä 
+2 sg: sie	sinä 
+thou: sie	sinä 
+you: sie	sinä 
+tongue: kieli 
+tooth: hammas	hammaš	homos 
+tree: pu	puu 
+grind: kaksi	kakši	koksi 
+two: kaksi	kakši	koksi 
+go: kävellä 
+walk: kävellä 
+hot: lämbimä	lämmin	sundo 
+warm: lämbimä	lämmin	sundo 
+water: vesi	vezi 
+1 pl. inc.: mie	myö 
+we: mie	myö 
+we₁: mie	myö 
+what: mi	midä	mie 
+white: valgei	valgie	valkie 
+whiteness: valgei	valgie	valkie 
+who: ken 
+who?: ken 
+female: naine 
+woman: naine 
+yellow: keldaine	keltani 
+distant: edäh	edähäkse	edähäksi	etähänä	loitos	loitton 
+far: edäh	edähäkse	edähäksi	etähänä	loitos	loitton 
+dull: jygie	jykie	painai 
+heavy: jygie	jykie	painai 
+serious: jygie	jykie	painai 
+close: lähellä	lähän	lässä 
+near: lähellä	lähän	lässä 
+ner: lähellä	lähän	lässä 
+salt: suola 
+short: lyhyt 
+snake: kiärmis	mado 
+thin: hoikkaine	lätty 
+wind: tuuli 
+earthworm: mado	madoine	uottö 
+worm: mado	madoine	uottö 
+year: vuosi	vuozi 
+3 sg.: hiän 
+he: hiän 
+she: hiän 
+2 pl.: työ 
+ye: työ 
+you all: työ 
+3 pl.: hyö 
+they: hyö 
+here: täs	tässä	täššä 
+there: siel	siellä	sielä 
+where: kus	kussa	missä 
+where?: kus	kussa	missä 
+when: gu	konsa	konza	konzu	konša	kun 
+when?: gu	konsa	konza	konzu	konša	kun 
+how: kui	kuin	milleh 
+how?: kui	kuin	milleh 
+some: kuda-ken	kuda-ket 
+few: vähäine 
+other: muu	toine	toini 
+three: kolme	kolmi 
+four: nelli	nellä	neä	ńel’l’ä 
+five: viisi	viizi	viiži 
+broad: levie 
+wide: levie 
+wideness: levie 
+fat: razva 
+thick: paksu	pakšu	sangie 
+narrow: ahtas	kaida	kaidu 
+child: lapsi 
+principal wife: akka	muččo 
+wife: akka	muččo 
+husband: mies	mužikka	nukko	ukko	šulahane 
+his mother: emä	muamo 
+mother: emä	muamo 
+my mother: emä	muamo 
+father: ižä	tuato	tuatto 
+his father: ižä	tuato	tuatto 
+my father: ižä	tuato	tuatto 
+animal: elätti	žiivatta	žiivattu 
+forest: mečča	meččä 
+woods: mečča	meččä 
+branch: balikko	keppi	savakko 
+stick: balikko	keppi	savakko 
+flower: kukka 
+grass: heinä 
+cord: nuora 
+rope: nuora 
+flesh: liha 
+meat: liha 
+grease: razva 
+claw: kynsi	kynzi 
+fingernail: kynsi	kynzi 
+nail: kynsi	kynzi 
+leg: jalga	siäri 
+arm: käsi	käzi 
+wing: siibi 
+gut: suonet 
+guts: suonet 
+insides: suonet 
+intestine: suonet 
+intestines: suonet 
+back: selgä	selkä 
+suck: imie 
+spit: sylgie	šlötätä 
+vomit: oksendua 
+blow: puhaldua	puhuo 
+breath: hengitiä 
+breathe: hengitiä 
+laugh: nagrua	nakrua 
+laughter: nagrua	nakrua 
+cogitate: ajatella	duumaija	miettie	tuumamaija 
+reflect: ajatella	duumaija	miettie	tuumamaija 
+think: ajatella	duumaija	miettie	tuumamaija 
+smell: haizuo	haižuo	hengätä 
+sniff: haizuo	haižuo	hengätä 
+afraid: varat	varata 
+be afraid: varat	varata 
+fear: varat	varata 
+fright: varat	varata 
+alive: elie	eliä 
+be alive: elie	eliä 
+life: elie	eliä 
+live: elie	eliä 
+living: elie	eliä 
+fight: torua 
+hunt: meččua	meččästyä 
+beat: iškie	lyyvvä	lyyvä 
+hit: iškie	lyyvvä	lyyvä 
+strike: iškie	lyyvvä	lyyvä 
+cut: leikata 
+hack: leikata 
+cut open: hallata 
+split: hallata 
+pierce: pistiä	pystellä	pystiä	čökätä 
+stab: pistiä	pystellä	pystiä	čökätä 
+scratch: krabista	kyndžie	riibuo 
+dig: kaivua 
+lie: muata	venyö	virua 
+lie down: muata	venyö	virua 
+tell lies: muata	venyö	virua 
+stand: seižuo 
+turn: kiändiä	pyörie 
+turn around: kiändiä	pyörie 
+turn round: kiändiä	pyörie 
+drop: kikota	kirvota	kuaduo	langeta 
+fall: kikota	kirvota	kuaduo	langeta 
+grasp: pidiä	pitiä	pityä 
+hold: pidiä	pitiä	pityä 
+hold in arm: pidiä	pitiä	pityä 
+squeeze: ličata	puristua	purištua 
+wring: ličata	puristua	purištua 
+rub: hierua	hieruo 
+wipe: pyhkie 
+wash: pessä	pestä	peššä 
+wash clothes: pessä	pestä	peššä 
+pull: taššie	vediä	vetyä 
+push: lylkää	tungie	töykätä 
+shove: lylkää	tungie	töykätä 
+throw: bringata	heittiä	lykkie	viškuo 
+bind: niegluo	siduo	situo	solmie 
+fasten: niegluo	siduo	situo	solmie 
+tie: niegluo	siduo	situo	solmie 
+tie up: niegluo	siduo	situo	solmie 
+sew: nieglua	ommella 
+count: laskie	lugie 
+enumerate: laskie	lugie 
+number: laskie	lugie 
+tally: laskie	lugie 
+sing: laulua	pajattua 
+have fun: elostua	kizata	kižata	soittua 
+play: elostua	kizata	kižata	soittua 
+float: keiluo	uittua 
+flow: juosta	virrata 
+freeze: jiädyö	jiändyö	kylmiä 
+swell: paizota	turvota 
+brook: jogi 
+river: jogi 
+stream: jogi 
+lake: järvi 
+ocean: meri 
+sea: meri 
+dust: pöly	tomu 
+fog: udu 
+sky: taivas 
+snow: lumi 
+ice: jiä	jää 
+blaze: paluo 
+burn: paluo 
+day: päivy	päivä 
+daylight: päivy	päivä 
+daytime: päivy	päivä 
+old: vahna	vahnu	vanha 
+bad: huono	paha	pahaaini 
+evil: huono	paha	pahaaini 
+rot: hapannuh	laho	lahonnuh 
+rotten: hapannuh	laho	lahonnuh 
+dirty: ligahine	reduhiine 
+filthy: ligahine	reduhiine 
+soiled: ligahine	reduhiine 
+straight: oigie	šorie	šuorie 
+sharp: terävä 
+blunt: tupičču	tylčä	tylččä 
+smooth: lačču	silie	tazaine 
+damp: mägrä	märgä 
+wet: mägrä	märgä 
+correct: oigei	oigie	oikie 
+right side: oigei	oigie	oikie 
+left: hura	hurai	hurua	važen 
+at: -l	-lla	-llä 
+in: -s	-ssa	-ssä 
+inside: -s	-ssa	-ssä 
+with: -nke	-nkera	kellä	kera 
+and: da	ta 
+if: -ko	gu	ku	kuin 
+because: konsa	sendäh	sentän	žentäh	žentän	žentän što 

@@ -1,0 +1,267 @@
+all: xaxúa 
+every: xaxúa 
+abdomen: eelá	íishpuua 
+belly: eelá	íishpuua 
+big: isáa 
+bigness: isáa 
+large: isáa 
+bird: dakáaka 
+bite: dáapxi	dáashia 
+black: shipíta 
+blood: ire	íili 
+bone: huli	hulí	hurE 
+breast: aCi	áache 
+breasts: aCi	áache 
+cloud: ahpaaxá 
+cold: chilía 
+come: hu	huk	húu 
+come from: hu	huk	húu 
+be dead: Se 
+dead: Se 
+die: Se 
+dog: biSgy~e	biSka	bishká 
+drink: iSi	isshíi 
+dry: úuchi 
+ear: ahpá	akuxa	ape 
+earth: awá 
+ground: awá 
+land: awá 
+soil: awá 
+eat: duushí 
+egg: ihká 
+eye: iSta	iSte	ishtá 
+fire: alápee	bila	biláa	birE 
+fish: buá 
+foot: ichí 
+full: iaxpasSi	iaxpáshi	iruci 
+give: kuú 
+good: ítche 
+green: bimmaáhchiia 
+hair: isshií 
+hand: iSCi	iSci 
+left hand: iSCi	iSci 
+right: iSCi	iSci 
+head: aashúu 
+hear: iikukkú	ikukku	iky~uku 
+heart: daasá 
+horn: aSua	pa 
+1 sg.: bi	bii 
+I: bi	bii 
+kill: dappeé 
+knee: iSuSe	ishúushi 
+be knowledgeable: éhche 
+know: éhche 
+leaf: apa	ape	áapa 
+liver: apte	apté 
+long: háchka 
+head louse: aSpEbE	beé 
+louse: aSpEbE	beé 
+male: bacheé	macheém 
+man: bilapaka	bilaxpáak	bir3bake 
+many: ahú 
+much: ahú 
+multiple: ahú 
+several: ahú 
+moon: bilítaachiia 
+hill: awaxaawé	awaxawe 
+mountain: awaxaawé	awaxawe 
+mouth: íi 
+name: daSe	das	dáashi 
+title: daSe	das	dáashi 
+neck: ahpá	áapa 
+new: hira 
+night: oCia	oci3 
+nighttime: oCia	oci3 
+nose: apE	apa	apá 
+not: ssaa 
+adulterous: hawata	hawate	hawáta 
+one: hawata	hawate	hawáta 
+single: hawata	hawate	hawáta 
+that: éehk	íahk	íilak 
+the: hawata	hawate	hawáta 
+unprincipled: hawata	hawate	hawáta 
+human: bilapaka	bilaxpáak	bir3bake 
+human being: bilapaka	bilaxpáak	bir3bake 
+person: bilapaka	bilaxpáak	bir3bake 
+rain: xalaá 
+rainy weather: xalaá 
+red: híssha 
+path: alía	ariande	bande 
+road: alía	ariande	bande 
+route: alía	ariande	bande 
+round: chichiáxi 
+say: he	sheé 
+see: ika	iky~a	íkaa 
+sit: awáachi 
+hide: dapE	dape	daxxípi 
+skin: dapE	dape	daxxípi 
+sleep: iháwi 
+little: iá 
+small: iá 
+smallness: iá 
+smoke: alákkuaa 
+star: igy~E	igy~e	ihká 
+rock: baáhpa	bi	bi3	bií 
+stone: baáhpa	bi	bi3	bií 
+sun: axaSe	áxxaashe 
+swim: bíiwi 
+tail: chíisa 
+this: hinné 
+2 sg: di	dii 
+thou: di	dii 
+you: di	dii 
+tongue: deSe	déeshi 
+tooth: iht~a	ií 
+tree: bala	balapáale	bare 
+grind: dúupa	nupE 
+two: dúupa	nupE 
+go: dée	díili 
+walk: dée	díili 
+hot: tawée 
+warm: tawée 
+water: bili	bilí	bire 
+1 pl. inc.: bare	biru	bíilu 
+we: bare	biru	bíilu 
+we₁: bare	biru	bíilu 
+what: sáapa 
+white: chía 
+whiteness: chía 
+who: sapée 
+who?: sapée 
+female: bía 
+woman: bía 
+yellow: shíila 
+distant: awateé 
+far: awateé 
+dull: dashtachí 
+heavy: dashtachí 
+serious: dashtachí 
+close: áhta 
+near: áhta 
+ner: áhta 
+salt: awa-xóosa 
+short: pummí 
+snake: iáxassaa 
+3 sg.: ii	koo	ku 
+he: ii	koo	ku 
+she: ii	koo	ku 
+2 pl.: díilu 
+ye: díilu 
+you all: díilu 
+3 pl.: íilu 
+they: íilu 
+here: hileén 
+there: éehkoon	íahkoon	íilakaan 
+where: shóo 
+where?: shóo 
+when: shóottaleesh 
+when?: shóottaleesh 
+how: shóota 
+how?: shóota 
+some: hawá 
+few: kooshtá 
+other: hawáta 
+three: dáawii 
+four: shoopá	shoópa 
+five: chiaxxú	chíaxxu 
+broad: dappachí 
+wide: dappachí 
+wideness: dappachí 
+narrow: chuá 
+child: dáaka 
+principal wife: uá 
+wife: uá 
+husband: chiláa 
+his mother: ihkáa	isahká 
+mother: ihkáa	isahká 
+my mother: ihkáa	isahká 
+father: axée	iilápxe 
+his father: axée	iilápxe 
+my father: axée	iilápxe 
+animal: bíhka 
+grass: bikkáa 
+cord: dasshía 
+rope: dasshía 
+flesh: aluulí	ilúk 
+meat: aluulí	ilúk 
+fat: taláa 
+grease: taláa 
+claw: itáxpuu 
+fingernail: itáxpuu 
+nail: itáxpuu 
+leg: dáata	iihulí 
+arm: isché 
+wing: iáxpa 
+gut: shíipa 
+guts: shíipa 
+insides: shíipa 
+intestine: shíipa 
+intestines: shíipa 
+back: dúule 
+suck: dáaxuchi 
+spit: shuá 
+vomit: kalée 
+laugh: káa 
+laughter: káa 
+cogitate: hiliachi 
+reflect: hiliachi 
+think: hiliachi 
+alive: bilaxpáake 
+be alive: bilaxpáake 
+life: bilaxpáake 
+live: bilaxpáake 
+living: bilaxpáake 
+beat: dichí 
+hit: dichí 
+strike: dichí 
+cut: páshku 
+hack: páshku 
+cut open: dappaxí	dútatchi 
+split: dappaxí	dútatchi 
+scratch: dúhkapi	dúukaaxi 
+dig: dappaxí 
+lie: iluxxúa	xapí 
+lie down: iluxxúa	xapí 
+tell lies: iluxxúa	xapí 
+stand: iluú 
+rub: áxxaxxi 
+wipe: áxxaxxi 
+wash: íisshuwi 
+wash clothes: íisshuwi 
+pull: dakaá 
+push: páachile 
+shove: páachile 
+bind: daxchí 
+fasten: daxchí 
+tie: daxchí 
+tie up: daxchí 
+sew: chikáachi 
+count: chimmí 
+enumerate: chimmí 
+number: chimmí 
+tally: chimmí 
+sing: baláxi	dáawee 
+have fun: iiwaannía 
+play: iiwaannía 
+brook: áashi 
+river: áashi 
+stream: áashi 
+dust: puxxké 
+snow: bíia 
+ice: bulúxa 
+blaze: kahuurik 
+burn: kahuurik 
+day: baapí	maapá 
+daylight: baapí	maapá 
+daytime: baapí	maapá 
+old: xaalía 
+dirty: íaxxaaxii 
+filthy: íaxxaaxii 
+soiled: íaxxaaxii 
+sharp: attá 
+smooth: xáapi 
+correct: kaáshi	táali 
+at: chiisaa	htée	ko	n 
+with: aák 
+and: laa 
+because: dassheen	ii 

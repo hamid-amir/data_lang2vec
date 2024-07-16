@@ -1,0 +1,329 @@
+all: wše 
+every: wše 
+ash: popjeł 
+ashes: popjeł 
+bark: škóra 
+abdomen: brjuch 
+belly: brjuch 
+big: wjeliki 
+bigness: wjeliki 
+large: wjeliki 
+bird: ptašk 
+bite: kusaś 
+black: carny 
+blood: kSEj	kSEy	kšej 
+bone: %knoxa	knocha	kosC	kósć 
+breast: gruZ	nadro 
+breasts: gruZ	nadro 
+claw: parnocht	pazora 
+nail: parnocht	pazora 
+talon: parnocht	pazora 
+cloud: mrok 
+cold: zymny 
+come: h3S	pSiS	pśiś 
+come from: h3S	pSiS	pśiś 
+be dead: mreS	wumreS	wumrěś 
+dead: mreS	wumreS	wumrěś 
+die: mreS	wumreS	wumrěś 
+dog: pjas	pyas	py~as 
+drink: piS	piś 
+dry: suchy 
+ear: vuXo	wucho	wuxo 
+earth: kraj	land 
+ground: kraj	land 
+land: kraj	land 
+soil: kraj	land 
+eat: jěsć 
+egg: jajo 
+eye: voko	woko 
+feather: pjero 
+fire: vogE5	wogE5	wogeń 
+fish: r3ba	ryba 
+fly: lětaś 
+fly v.: lětaś 
+foot: noga 
+full: pown3	połny 
+give: daś 
+good: dobry 
+green: zeleny 
+hair: włos 
+hand: ruka 
+left hand: ruka 
+right: ruka 
+head: głowa 
+hear: sw3SaS	sw~3SaS	słyšaś 
+heart: wutšoba 
+horn: rog 
+1 sg.: ja	ya 
+I: ja	ya 
+kill: zabiś 
+knee: kolEno	kóleno 
+be knowledgeable: wěźeś 
+know: wěźeś 
+leaf: wopyEno	wopy~Eno	łopjeno 
+lie: lagnuś se 
+lie down: lagnuś se 
+liver: jětša	yetSa 
+long: dłujki 
+head louse: vES	wES	weš 
+louse: vES	wES	weš 
+male: muski	muž 
+man: %parSona	%vosoba	%wosoba	paršona	wósoba 
+many: wjele 
+much: wjele 
+multiple: wjele 
+several: wjele 
+flesh: měso 
+meat: měso 
+moon: mjasec 
+hill: gora	góra 
+mountain: gora	góra 
+mouth: guba 
+name: me	mij	mě 
+title: me	mij	mě 
+neck: šyja 
+new: nov3	now3	nowy 
+night: noc 
+nighttime: noc 
+nose: nos 
+not: nic	nje- 
+adulterous: jaden	yadEn 
+one: jaden	yadEn 
+single: jaden	yadEn 
+that: tamny	wóny 
+the: jaden	yadEn 
+unprincipled: jaden	yadEn 
+human: %parSona	%vosoba	%wosoba	paršona	wósoba 
+human being: %parSona	%vosoba	%wosoba	paršona	wósoba 
+person: %parSona	%vosoba	%wosoba	paršona	wósoba 
+rain: dešć 
+rainy weather: dešć 
+red: cerwjeny 
+path: droga	sCaZka 
+road: droga	sCaZka 
+route: droga	sCaZka 
+root: kórjen 
+round: kulowaty 
+sand: pěsk 
+say: groniś 
+see: viSeS	wiZeS	wiźeś 
+seed: semje 
+sit: sejźeś 
+hide: koZa	kóža 
+skin: koZa	kóža 
+sleep: spaś 
+little: mały 
+small: mały 
+smallness: mały 
+smoke: dym	kuŕ 
+star: gvezda	gweZda	gwežda 
+rock: kamjeń	kamyE5	kamy~E5 
+stone: kamjeń	kamyE5	kamy~E5 
+sun: sw35co	sw~35co	słyńco 
+swim: plěś 
+tail: wogon 
+this: ten 
+2 sg: t3	ty 
+thou: t3	ty 
+you: t3	ty 
+tongue: jězyk	yez3k 
+tooth: zub 
+tree: %bom 
+grind: dva	dwa 
+two: dva	dwa 
+go: chójźiś 
+walk: chójźiś 
+hot: śopły 
+warm: śopły 
+water: voda	woda	wóda 
+1 pl. inc.: m3	my 
+we: m3	my 
+we₁: m3	my 
+what: co? 
+white: běły 
+whiteness: běły 
+who: chto? 
+who?: chto? 
+female: žeńska 
+woman: žeńska 
+yellow: žołty 
+distant: daloko 
+far: daloko 
+dull: śěžki 
+heavy: śěžki 
+serious: śěžki 
+close: blisko 
+near: blisko 
+ner: blisko 
+salt: sol 
+short: krotki 
+snake: wuž 
+thin: śańki 
+wind: wětš 
+earthworm: cerw	wužeńc 
+worm: cerw	wužeńc 
+year: lěto 
+3 sg.: wón 
+he: wón 
+she: wón 
+2 pl.: wy 
+ye: wy 
+you all: wy 
+3 pl.: wóni 
+they: wóni 
+here: how	tudy 
+there: tam 
+where: źo? 
+where?: źo? 
+when: ga? 
+when?: ga? 
+how: kak? 
+how?: kak? 
+some: někotare	pór 
+few: mało 
+other: drugi 
+three: tśi	tśo 
+four: styri	styrjo 
+five: pěś 
+broad: šyroki 
+wide: šyroki 
+wideness: šyroki 
+fat: tucne 
+thick: tłusty 
+narrow: wuski 
+child: góle 
+principal wife: žeńska 
+wife: žeńska 
+husband: cłowjek 
+his mother: mama	maś	muter	muterka 
+mother: mama	maś	muter	muterka 
+my mother: mama	maś	muter	muterka 
+father: foter	nan 
+his father: foter	nan 
+my father: foter	nan 
+animal: zwěrje 
+forest: góla 
+woods: góla 
+branch: gałuz	gałuzka 
+stick: gałuz	gałuzka 
+fruit: płod 
+flower: kwět	kwětk	štrus 
+grass: tšawa 
+cord: powrjoz 
+rope: powrjoz 
+grease: tucne 
+fingernail: nokś 
+leg: noga 
+wing: kśidło 
+gut: crjowa 
+guts: crjowa 
+insides: crjowa 
+intestine: crjowa 
+intestines: crjowa 
+back: kśebjat 
+suck: cycaś 
+spit: pluwaś 
+vomit: bluwaś 
+blow: duś 
+breath: dychaś 
+breathe: dychaś 
+laugh: smjaś se 
+laughter: smjaś se 
+cogitate: mysliś 
+reflect: mysliś 
+think: mysliś 
+smell: cuś 
+sniff: cuś 
+afraid: tšach 
+be afraid: tšach 
+fear: tšach 
+fright: tšach 
+alive: labowaś	žywy byś 
+be alive: labowaś	žywy byś 
+life: labowaś	žywy byś 
+live: labowaś	žywy byś 
+living: labowaś	žywy byś 
+fight: wójowaś 
+hunt: góńtwowaś 
+beat: biś 
+hit: biś 
+strike: biś 
+cut: rězaś 
+hack: rězaś 
+cut open: kłojś 
+split: kłojś 
+pierce: štapiś 
+stab: štapiś 
+scratch: drapaś 
+dig: ryś 
+tell lies: łdgaś 
+stand: stojaś 
+turn: wobrośiś se 
+turn around: wobrośiś se 
+turn round: wobrośiś se 
+drop: padaś 
+fall: padaś 
+grasp: źaržaś 
+hold: źaržaś 
+hold in arm: źaržaś 
+squeeze: prasowaś	tłocyś 
+wring: prasowaś	tłocyś 
+rub: šurowaś 
+wipe: trěś 
+wash: myś	pałkaś 
+wash clothes: myś	pałkaś 
+push: starcyś 
+shove: starcyś 
+throw: chyśiś 
+bind: wězaś 
+fasten: wězaś 
+tie: wězaś 
+tie up: wězaś 
+sew: šyś 
+count: licyś 
+enumerate: licyś 
+number: licyś 
+tally: licyś 
+sing: spiwaś 
+have fun: graś 
+play: graś 
+float: pławiś 
+flow: běžaś 
+freeze: zamarznuś 
+brook: rěka 
+river: rěka 
+stream: rěka 
+lake: jazor	jazoro 
+ocean: mórjo 
+sea: mórjo 
+dust: kuŕ	proch 
+fog: kurjawa 
+sky: njebjo 
+snow: sněg 
+ice: lod 
+blaze: paliś se 
+burn: paliś se 
+day: źeń 
+daylight: źeń 
+daytime: źeń 
+bad: zły	špatny 
+evil: zły	špatny 
+rot: zgnity 
+rotten: zgnity 
+dirty: brudny	njerěšny 
+filthy: brudny	njerěšny 
+soiled: brudny	njerěšny 
+straight: rowny 
+sharp: wótšy 
+blunt: tupy 
+smooth: rowny 
+damp: mokšy 
+wet: mokšy 
+correct: pšawy 
+right side: pšawy 
+left: lěwy 
+at: pla	pśi 
+in: nutśi 
+inside: nutśi 
+if: gaž 
+because: dokulaž 

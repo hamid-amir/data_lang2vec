@@ -1,0 +1,266 @@
+all: asŋa 
+every: asŋa 
+ash: nop̃p̃a 
+ashes: nop̃p̃a 
+abdomen: nipjinetŋa- 
+belly: nipjinetŋa- 
+big: alp̃as 
+bigness: alp̃as 
+large: alp̃as 
+bird: in|man 
+bite: aɤes 
+black: apeñ	apiñ 
+blood: inja	inya 
+bone: ne8uo	neθuo- 
+breast: ne8e8	neθeθ 
+breasts: ne8e8	neθeθ 
+burn: a|tn|amoθ 
+burn tr.: a|tn|amoθ 
+cloud: nap̃at 
+cold: iwiu 
+come: apam 
+come from: apam 
+be dead: mas 
+dead: mas 
+die: mas 
+dog: %kuri	kuri 
+drink: am5i	amñii 
+dry: mesei 
+ear: intiNa	intijŋa- 
+eat: ɤiñ 
+egg: nowan-man 
+eye: nesNanne!mta	nesŋan-ne|mta- 
+feather: nalau 
+fire: inxap	inɤap̃ 
+fish: nomu 
+fly: ae 
+fly v.: ae 
+good: upnii 
+green: emelmat 
+hair: numri-nitjini- 
+hand: nijma-	nima 
+left hand: nijma-	nima 
+right: nijma-	nima 
+head: nitjini- 
+hear: iNi	iŋii 
+1 sg.: a5ak	añak 
+I: a5ak	añak 
+kill: atŋii 
+be knowledgeable: atou 
+know: atou 
+leaf: neri	neri- 
+lie: asjeɤ 
+lie down: asjeɤ 
+liver: inmopo	inmop̃o- 
+long: opra 
+head louse: nexet	neɤet 
+louse: nexet	neɤet 
+male: natam̃añ 
+man: natimi 
+moon: inmohoɤ 
+mouth: nepje-ne|ɤse- 
+name: ni8a	niθa- 
+title: ni8a	niθa- 
+neck: nawunwa- 
+new: mat 
+night: ne!pe5	ne|peñ 
+nighttime: ne!pe5	ne|peñ 
+nose: inNotye	inŋotje- 
+adulterous: ithi	ithii	iti 
+one: ithi	ithii	iti 
+single: ithi	ithii	iti 
+that: naikou 
+the: ithi	ithii	iti 
+unprincipled: ithi	ithii	iti 
+human: natimi 
+human being: natimi 
+person: natimi 
+rain: inɤop|θa 
+rainy weather: inɤop|θa 
+red: ɤap̃ 
+path: nefala5	nefalañ 
+road: nefala5	nefalañ 
+route: nefala5	nefalañ 
+root: neɤva- 
+sand: nom̃anjap̃ 
+say: asañ 
+see: e!xet	e|ɤet 
+sit: ateɤ 
+hide: narase	narase- 
+skin: narase	narase- 
+sleep: amjeŋ 
+little: haklin 
+small: haklin 
+smallness: haklin 
+smoke: naθra- 
+star: inomyev	inom̃jev 
+rock: in!hat	in|hat 
+stone: in!hat	in|hat 
+swim: aŋaŋ 
+tail: nilowo-	niɤe- 
+this: niñki 
+2 sg: aak	ak 
+thou: aak	ak 
+you: aak	ak 
+tongue: %toN	tooŋ 
+tooth: niho	nijho- 
+grind: erou 
+two: erou 
+go: atŋa 
+walk: atŋa 
+hot: iri 
+warm: iri 
+water: in!wai	in|wai 
+1 pl. inc.: akaja	akaya	a|jam|a 
+we: akaja	akaya	a|jam|a 
+we₁: akaja	akaya	a|jam|a 
+what: inhe 
+white: ahii 
+whiteness: ahii 
+who: θi 
+who?: θi 
+female: intaketha 
+woman: intaketha 
+yellow: yaŋ 
+distant: itaɤ 
+far: itaɤ 
+dull: op̃oɤ 
+heavy: op̃oɤ 
+serious: op̃oɤ 
+close: ohp̃otb̃otet 
+near: ohp̃otb̃otet 
+ner: ohp̃otb̃otet 
+salt: inmowanjap̃ 
+short: epjeθepjeθ 
+snake: nimñiv 
+thin: aɤreaɤre 
+wind: nelehel 
+earthworm: nimijan 
+worm: nimijan 
+year: inmeseise 
+2 pl.: ajowa 
+ye: ajowa 
+you all: ajowa 
+3 pl.: a|ar|a 
+they: a|ar|a 
+where: eθa 
+where?: eθa 
+when: anuhup̃an 
+when?: anuhup̃an 
+how: eɤhameɤha 
+how?: eɤhameɤha 
+other: eɤhei 
+three: esej	eseč 
+four: emanohowan	mičman 
+five: meleθ	mijman 
+broad: aukal 
+wide: aukal 
+wideness: aukal 
+fat: naɤla- 
+thick: amesej 
+narrow: erouerou 
+principal wife: eŋa- 
+wife: eŋa- 
+husband: natam̃ñ- 
+his mother: ri|si- 
+mother: ri|si- 
+my mother: ri|si- 
+father: etma- 
+his father: etma- 
+my father: etma- 
+forest: nesei 
+woods: nesei 
+branch: inra- 
+stick: inra- 
+fruit: nowa- 
+flower: intesia 
+grass: nefelelɤai 
+cord: inwou 
+rope: inwou 
+flesh: nohoθɤe- 
+meat: nohoθɤe- 
+grease: naɤla- 
+wing: neppa- 
+gut: nawiiti- 
+guts: nawiiti- 
+insides: nawiiti- 
+intestine: nawiiti- 
+intestines: nawiiti- 
+back: inɤehe- 
+suck: e|θeθ 
+spit: elwaŋeθ 
+vomit: alou 
+blow: alai	elehel 
+breath: aθejhañ 
+breathe: aθejhañ 
+laugh: lav 
+laughter: lav 
+cogitate: ataktai 
+reflect: ataktai 
+think: ataktai 
+smell: ipñii 
+sniff: ipñii 
+afraid: emtaɤ 
+be afraid: emtaɤ 
+fear: emtaɤ 
+fright: emtaɤ 
+alive: umu 
+be alive: umu 
+life: umu 
+live: umu 
+living: umu 
+hunt: eθua 
+beat: awoθ 
+hit: awoθ 
+strike: awoθ 
+cut: atɤam̃oθ 
+hack: atɤam̃oθ 
+cut open: ahtakwai 
+split: ahtakwai 
+pierce: aɤai 
+stab: aɤai 
+scratch: aɤeɤei 
+dig: aɤjii 
+stand: aji 
+drop: ijis 
+fall: ijis 
+grasp: avaktit 
+hold: avaktit 
+hold in arm: avaktit 
+squeeze: avii 
+wring: avii 
+throw: asjii 
+bind: ahtit 
+fasten: ahtit 
+tie: ahtit 
+tie up: ahtit 
+sew: etjei 
+count: isvii 
+enumerate: isvii 
+number: isvii 
+tally: isvii 
+flow: areθraθ 
+lake: narenwai 
+ocean: injap̃ 
+sea: injap̃ 
+dust: inm̃a 
+fog: inm̃oso 
+sky: nouhataŋ 
+bad: has 
+evil: has 
+rot: moh|tan 
+rotten: moh|tan 
+dirty: emeñ 
+filthy: emeñ 
+soiled: emeñ 
+sharp: ariñ 
+blunt: uwut 
+damp: iθin 
+wet: iθin 
+right side: inmata- 
+left: inm̃awu- 
+at: an 
+in: anlii- 
+inside: anlii- 
+and: am	im 
+if: elet 

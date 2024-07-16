@@ -1,0 +1,302 @@
+all: вьсь	кождъ 
+every: вьсь	кождъ 
+bark: кора 
+big: вєликъ 
+bigness: вєликъ 
+large: вєликъ 
+bird: пътица 
+bite: хапати 
+black: чрънъ 
+blood: kruvi	крꙑ	руда 
+bone: kosti	кость 
+breast: susici	susu	прьси 
+breasts: susici	susu	прьси 
+cloud: облакъ 
+cold: стѹдєнъ	хладьнъ 
+come: gre*detu	pridetu 
+come from: gre*detu	pridetu 
+be dead: miretu	umiretu	ѹмрѣти 
+dead: miretu	umiretu	ѹмрѣти 
+die: miretu	umiretu	ѹмрѣти 
+dog: pisu	пьсъ 
+drink: piyetu	пити 
+dry: сѹхъ 
+ear: uxo	ѹхо 
+earth: зємлꙗ 
+ground: зємлꙗ 
+land: зємлꙗ 
+soil: зємлꙗ 
+eat: ꙗсти 
+egg: аицє 
+eye: oko	око 
+feather: перїе 
+fire: ogni	огнь 
+fish: riba	рꙑба 
+fly: лєтѣти 
+fly v.: лєтѣти 
+foot: стопа 
+full: isplunu	испльнь 
+give: дати	даяти 
+good: добръ 
+green: зєлєнъ 
+hair: власъ 
+hand: ro*ka 
+left hand: ro*ka 
+right: ro*ka 
+head: глава 
+hear: sliSitu	слꙑшати 
+heart: срьдьцє 
+horn: rogu	рогъ 
+1 sg.: azu	азъ 
+I: azu	азъ 
+kill: ѹбити 
+knee: koly~eno	колѣно 
+be knowledgeable: вѣдѣти	знати 
+know: вѣдѣти	знати 
+leaf: listu	листъ 
+liver: ye*tro 
+long: дльгъ 
+head louse: въшь 
+louse: въшь 
+male: мѫжь 
+man: Clovy~eku	чловѣкъ 
+many: мъногъ 
+much: мъногъ 
+multiple: мъногъ 
+several: мъногъ 
+moon: лѹна	мѣсѧць 
+hill: gora	гора 
+mountain: gora	гора 
+mouth: ѹста 
+name: ime*	имѧ	титъло 
+title: ime*	имѧ	титъло 
+neck: шїѧ 
+new: novu	новъ	новꙑи 
+night: noSti	нощь 
+nighttime: noSti	нощь 
+nose: nosu	носъ 
+not: нє 
+adulterous: yedinu	ѥдинъ 
+one: yedinu	ѥдинъ 
+single: yedinu	ѥдинъ 
+that: та	то	тъ 
+the: yedinu	ѥдинъ 
+unprincipled: yedinu	ѥдинъ 
+human: Clovy~eku	чловѣкъ 
+human being: Clovy~eku	чловѣкъ 
+person: Clovy~eku	чловѣкъ 
+rain: дъждь 
+rainy weather: дъждь 
+red: чръвєнъ 
+path: po*ti	пѫть 
+road: po*ti	пѫть 
+route: po*ti	пѫть 
+root: корєнь 
+sand: пѣсъкъ 
+say: рєщи 
+see: viditu	видѣти 
+seed: сѣмѧ 
+sit: сѣдѣти 
+hide: koZa	кожа 
+skin: koZa	кожа 
+sleep: съпати 
+little: малъ 
+small: малъ 
+smallness: малъ 
+smoke: дꙑмъ 
+star: zvy~ezda	звѣзда 
+rock: kami	камꙑ 
+stone: kami	камꙑ 
+sun: slunice	слъньцє 
+swim: плавати 
+tail: опашъ	хвостъ 
+this: овъ	сь 
+2 sg: ti	тъі	тꙑ 
+thou: ti	тъі	тꙑ 
+you: ti	тъі	тꙑ 
+tongue: ye*ziku	ѩзꙑкъ 
+tooth: zo*bu	зѫбъ 
+tree: do*bu	dry~evo	дрѣво 
+grind: duva	дъва 
+two: duva	дъва 
+go: ходити 
+walk: ходити 
+hot: топлъ 
+warm: топлъ 
+water: voda	вода 
+1 pl. inc.: mi	мꙑ 
+we: mi	мꙑ 
+we₁: mi	мꙑ 
+what: чьто 
+white: бѣлъ 
+whiteness: бѣлъ 
+who: къто 
+who?: къто 
+female: жєна 
+woman: жєна 
+distant: дальнии	дальнъ 
+far: дальнии	дальнъ 
+dull: тѧжъкъ 
+heavy: тѧжъкъ 
+serious: тѧжъкъ 
+close: близъ 
+near: близъ 
+ner: близъ 
+salt: соль 
+short: кратъкъ 
+snake: змиꙗ 
+thin: тьнъкъ 
+wind: вѣтръ 
+earthworm: чрьвь 
+worm: чрьвь 
+year: годъ	лѣто 
+3 sg.: онъ 
+he: онъ 
+she: онъ 
+2 pl.: вꙑ 
+ye: вꙑ 
+you all: вꙑ 
+3 pl.: они 
+they: они 
+here: овъдє	сьдє 
+there: онъдє	тѹ 
+where: къдє 
+where?: къдє 
+when: къгда 
+when?: къгда 
+how: како	ꙗко 
+how?: како	ꙗко 
+some: нѣколико 
+few: малꙑ 
+other: инъ 
+three: триѥ 
+four: чєтꙑрє 
+five: пѧть 
+broad: широкъ 
+wide: широкъ 
+wideness: широкъ 
+fat: тѹкъ 
+thick: дєбєлъ 
+narrow: ѫзъкъ 
+child: дѣть	отрокъ 
+principal wife: жєна 
+wife: жєна 
+husband: мѫжь 
+his mother: мати 
+mother: мати 
+my mother: мати 
+father: отьць 
+his father: отьць 
+my father: отьць 
+animal: звѣрь 
+forest: лѣсъ 
+woods: лѣсъ 
+branch: палица 
+stick: палица 
+fruit: овощє 
+flower: цвѣтъ 
+grass: трава 
+cord: вервь 
+rope: вервь 
+flesh: мѧсо 
+meat: мѧсо 
+grease: тѹкъ 
+claw: ногъть 
+fingernail: ногъть 
+nail: ногъть 
+leg: нога 
+arm: рѫка 
+wing: крило 
+gut: чрѣво	ѫтроба 
+guts: чрѣво	ѫтроба 
+insides: чрѣво	ѫтроба 
+intestine: чрѣво	ѫтроба 
+intestines: чрѣво	ѫтроба 
+back: хребетъ 
+suck: съсати 
+spit: пльвати 
+vomit: бльвати 
+blow: дѹхати 
+breath: дꙑхати 
+breathe: дꙑхати 
+laugh: смияти 
+laughter: смияти 
+cogitate: мꙑслити 
+reflect: мꙑслити 
+think: мꙑслити 
+afraid: боꙗти 
+be afraid: боꙗти 
+fear: боꙗти 
+fright: боꙗти 
+alive: жити 
+be alive: жити 
+life: жити 
+live: жити 
+living: жити 
+fight: брати 
+hunt: ловити 
+beat: ѹдарити 
+hit: ѹдарити 
+strike: ѹдарити 
+cut: рѣзати	сѣщи 
+hack: рѣзати	сѣщи 
+pierce: бости 
+stab: бости 
+scratch: чєсати 
+dig: копати 
+lie: лєжати 
+lie down: лєжати 
+tell lies: лєжати 
+stand: стати 
+drop: падати	пасти 
+fall: падати	пасти 
+grasp: дрьжати 
+hold: дрьжати 
+hold in arm: дрьжати 
+rub: трьти 
+wipe: трьти 
+wash: мꙑти 
+wash clothes: мꙑти 
+bind: вѧзати 
+fasten: вѧзати 
+tie: вѧзати 
+tie up: вѧзати 
+count: начєтъ 
+enumerate: начєтъ 
+number: начєтъ 
+tally: начєтъ 
+sing: пѣти 
+flow: тєшти 
+freeze: помръзнѫти 
+brook: рѣка 
+river: рѣка 
+stream: рѣка 
+lake: ѥзєръ 
+ocean: морѥ 
+sea: морѥ 
+dust: прахъ 
+sky: нєбо 
+snow: снѣгъ 
+ice: лєдъ 
+blaze: горѣти 
+burn: горѣти 
+day: дьнь 
+daylight: дьнь 
+daytime: дьнь 
+old: старъ 
+bad: зълъ	лошь 
+evil: зълъ	лошь 
+straight: правъ	равьнъ 
+sharp: остръ 
+smooth: гладъкъ 
+damp: мокръ 
+wet: мокръ 
+correct: правъ 
+right side: дєснъ	правъ 
+left: лѣвъ 
+at: при	ѹ 
+in: въ 
+inside: въ 
+with: съ 
+if: ащє 
+because: пон҄єжє 

@@ -1,0 +1,333 @@
+all: pam 
+and: kəni | kəni	məne 
+animal: nari muru 
+ashes: nəmrakʷ | nəmrakw 
+back: takuta- | taku|ta- 
+bad:  -eraha 
+bark: tekə- 
+because: tə nari in nah 
+belly: təpu- 
+bird: menu 
+bite:  -ahi 
+black:  -pitow | pitov 
+blood: neta | neta	nəte- 
+blow:  -əse | ekwi	əsəsau 
+bone: nəkakri- 
+breast: nanhə- | nanhə-	nas 
+breathe:  -eiahaŋ 
+burn: -ahi 
+child: iakun 
+cloud: napua 
+cold:  -akʷiei | akwiei 
+come:  -uw | ave|he 
+correct:  -atukʷatukʷ 
+count: -awsini | avsini 
+cut:  -arai 
+die:  -emha 
+dig:  -eri 
+dirty:  -arukʷas | əmkermək 
+dog: kuri 
+drink:  -anumʷi | anumwi 
+dry: -awahak | avahak	maha 
+dull:  -ɸa | f(w)am	p(w)am | fa 
+dust: makʷrur | nəmakwrur 
+ear: nəɸreŋə- | nəf|reŋə- 
+earth: təna 
+empty:  -uku 
+eye: nenime- 
+fall:  -ù (tauŋ) | asas	mwei 
+far: isupʷən | isu|pwən 
+father: tata | remu- 
+fat (n.): nərpʷa 
+fear:  -əhekər 
+few:  -ouihi 
+fingernail: nəpəspəs 
+fire: loo | napw 
+fish: nəmu 
+five: kərirum | kərirum	kərirəm 
+float:  -eai 
+flow: -arəs 
+flower: tihi- 
+fly (v.):  -eai 
+fog: namahakʷien | n-amahakw-ien 
+foot: nəsu- 
+forest: nəmai nari | rumunan 
+four: keɸa | ke-fa	kefa 
+fruit: nəkʷa- | nəkwa- 
+full:  -kuar 
+give:  -wahi pehe 
+good:  -amasan 
+grass: nurhi 
+green:  -amrəmera 
+guts: naninha 
+hair: numri nukʷane- | numwherə- 
+hand: rəŋi- | rəŋə- 
+head: kapʷa | kapwa 
+hear:  -reŋi 
+heart: nəkenaku 
+heavy:  -ɸam | f(w)am	p(w)am 
+he: in 
+hit:  -os (i) 
+horn: nəpati- 
+how:  -əɸa | əf- 
+hunt:  -eɸaiuk | ef|aiuk 
+husband: ierman 
+if: ka | tukwa 
+I: iou 
+in: ianakʷa- | reri- 
+kill:  -os(i) apune | os apune 
+knee: nukuru- 
+know:  -rukurən | (ru)kurən 
+lake: nэsiui | nəsiui 
+large:  -asori 
+laugh:  -arəs 
+leaf: nəma- 
+left: mour 
+leg: nəsu- 
+lie:  -amak 
+live:  -muru 
+liver: nakanmapʷu- | nakan|mapwu- 
+long:  -apomus 
+louse: ur 
+man: ierman | iermama 
+many:  -puk 
+meat: nəsa- 
+moon: makʷa | makwa 
+mother: mama | ri|nhə- 
+mountain: takʷər 
+mouth: nakwa- | nakwa-	tərhu- 
+name: ηaŋhu- | nahaŋ	naŋhu- 
+narrow:  -awirəŋ | avirəŋ 
+near: ipaka 
+neck: nua- 
+new:  -wi | vi 
+night: nэpən | nəpən 
+nose: nəpaseŋi- | nəpa|seŋi- 
+old:  -akʷas 
+one: riti | kwatia	rəti 
+person: iermama 
+play:  -apur 
+pull: -ewi 
+push:  -arər 
+rain: nesən 
+red:  -aruweruw | aruveruv 
+right: mʷatuk | rəŋə- | mwatuk 
+river: nui arəs 
+road: suatuk 
+root: nua- 
+rope: nakʷus | kwa-nakwus 
+rotten:  -akʷase | mərər 
+round: -rupu 
+rub:  -ahakʷ(i) 
+salt: nəŋar 
+sand: nəməkər | nəpəkər 
+say: -ni | nəpəkər 
+sea: təsə | təsi 
+seed: nuni- 
+sew:  -atiri 
+sharp:  -ahia 
+short:  -kʷakʷa | kwakwa 
+sing: -oskaɸa 
+sit:  -akure 
+skin: tekə- 
+sky: neai 
+sleep:  -apri 
+small:  -ouihi | akəku 
+smell:  -ato | eŋis	peŋhi 
+smoke: nəsei napʷ | nəse- 
+smooth:  -pʷia 
+snake: ŋata 
+some: nepʷun 
+spit:  -araŋawus | araŋavus 
+split:  -oskriŋi 
+stab:  -əp(i) 
+stand:  -arer 
+star: kumhau 
+stick: kaskən | rəŋi- 
+straight:  -atukʷatukʷ 
+suck:  -akʷmʷi | tumwi 
+sun:  meri 
+tail: nəpiki- 
+they: irau | iraha 
+thick:  -kumkum | asori 
+thin:  -əŋeəŋe | əkərakiri 
+think: ñiñami | arhi 
+thou: ik 
+thou: kəmirau | ik 
+three: kahar 
+throw:  -arak(i) | rukwi 
+tie:  -akʷ (i) | arihi 
+tongue: naramə- 
+tooth: rewu- | revu- 
+tree: nei 
+turn:  -uwsini 
+two: kəru | ka-ru	kəru 
+vomit:  -rua | eua 
+warm:  -apʷan (apʷan) | areuan 
+wet:  -əputəŋ | əmtəmət 
+what: nəɸe | nəfe 
+when: nesən 
+which: nəɸe 
+white:  -apsan 
+who: si | si	sin 
+why: rəɸo 
+wide:  -asori 
+wife: pran | rukwe- 
+wind: nəmataŋi 
+wing: rəŋi- 
+woman: pran 
+worm: mʷətikaro | mwətikaro 
+wrong:  -eraha 
+year: nuk 
+yellow:  -akʷeis | akweis 
+every: pam 
+ash: nəmrakw 
+abdomen: təpu- 
+big: asori 
+bigness: asori 
+large: asori 
+bite: ahi 
+breasts: nanhə-	nas 
+burn: ahi 
+burn tr.: ahi 
+come from: ave|he 
+be dead: emha 
+dead: emha 
+die: emha 
+eat: ani 
+egg: kwan|are- 
+feather: numwherə- 
+fly: iva 
+fly v.: iva 
+good: amasan 
+green: amrəmera 
+left hand: rəŋə- 
+hear: reŋi 
+1 sg.: iou 
+be knowledgeable: (ru)kurən 
+lie: amak 
+lie down: amak 
+long: apomus 
+head louse: ur 
+male: ierman 
+title: nahaŋ	naŋhu- 
+nighttime: nəpən 
+adulterous: kwatia	rəti 
+single: kwatia	rəti 
+that: fwe 
+the: kwatia	rəti 
+unprincipled: kwatia	rəti 
+human: iermama 
+human being: iermama 
+rainy weather: nesən 
+path: suatuk 
+route: suatuk 
+see: ata 
+sit: akure 
+hide: tekə- 
+sleep: apri 
+little: akəku 
+smallness: akəku 
+rock: kəpwier 
+stone: kəpwier 
+swim: aiu 
+2 sg: ik 
+you: ik 
+grind: ka-ru	kəru 
+go: an 
+walk: an 
+hot: areuan 
+water: nui 
+1 pl. inc.: kəmaha	kətaha 
+we: kəmaha	kətaha 
+we₁: kəmaha	kətaha 
+white: apsan 
+whiteness: apsan 
+who?: si	sin 
+female: pran 
+distant: isu|pwən 
+serious: f(w)am	p(w)am 
+close: ipaka 
+ner: ipaka 
+earthworm: mwətikaro 
+2 pl.: kəmiaha 
+ye: kəmiaha 
+you all: kəmiaha 
+3 pl.: iraha 
+where: pa|ku 
+where?: pa|ku 
+when?: nesən 
+how?: əf- 
+other: apa 
+broad: asori 
+wide: asori 
+wideness: asori 
+fat: nərpwa 
+principal wife: rukwe- 
+his mother: ri|nhə- 
+my mother: ri|nhə- 
+his father: remu- 
+my father: remu- 
+woods: rumunan 
+branch: rəŋi- 
+cord: kwa-nakwus 
+flesh: nəsa- 
+grease: nərpwa 
+gut: naninha 
+insides: naninha 
+intestine: naninha 
+intestines: naninha 
+breath: eiahaŋ 
+breathe: eiahaŋ 
+laugh: arəs 
+laughter: arəs 
+cogitate: arhi 
+reflect: arhi 
+sniff: eŋis	peŋhi 
+afraid: əhekər 
+be afraid: əhekər 
+fear: əhekər 
+fright: əhekər 
+alive: muru 
+be alive: muru 
+life: muru 
+live: muru 
+living: muru 
+beat: os 
+hit: os 
+strike: os 
+cut: arai 
+hack: arai 
+cut open: oskriŋi 
+split: oskriŋi 
+pierce: əp 
+stab: əp 
+scratch: əki 
+dig: eri 
+stand: arer 
+drop: asas	mwei 
+grasp: avahi 
+hold: avahi 
+hold in arm: avahi 
+squeeze: akwriŋi 
+wring: akwriŋi 
+bind: arihi 
+fasten: arihi 
+tie up: arihi 
+sew: atiri 
+enumerate: avsini 
+number: avsini 
+tally: avsini 
+flow: arəs 
+ocean: təsi 
+bad: eraha 
+evil: eraha 
+rot: mərər 
+filthy: əmkermək 
+soiled: əmkermək 
+sharp: ahia 
+blunt: fa 
+damp: əmtəmət 
+right side: mwatuk 
+at: fwe 
+inside: reri- 

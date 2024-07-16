@@ -1,0 +1,335 @@
+all: hunda(m) | guʔma	hunda	hundam 
+ashes: ˗bʊča | -bʊča	iʔl-bučča 
+bark: ho\bara | hobara	hoʼbara 
+belly: go\dɛbo | godabo	goʼdɛbo 
+big: loːb˗ | lob	lobane	loːb- 
+big: lobane | lob	lobane	loːb- 
+bird: č\iːʔa | čʔiːʔ-iččo	čʼiːʔa 
+bite: gaʔmʲ | duːkʔe	gaʔm-	gaʔmⁱ	gɛʔme 
+bite: gɛʔme | duːkʔe	gaʔm-	gaʔmⁱ	gɛʔme 
+black: heː\m˗ | heːmačča	heːʼm- 
+black: heːmačča | heːmačča	heːʼm- 
+blood: t\iːga | t"iga	tʔːga	tʼiːga 
+bone: mik\e | mik"e	mikʔe	mikʼe 
+boy: beːto 
+boy: oːso 
+breast: anuːna | anuna	anuːna 
+burn: šokiːse | appʔ-	šokk- 
+child: beːt | beːt	čʔiːl-iččo 
+claw: t\u\rɛːnk\a | tʔuranka	tʔuraʔa	tʼuʼrɛːnkʼa 
+cloud: duːba 
+cold: k\iːda | kʔiːda	kʼiːda 
+come: waːre | war	ware	waːr-	waːre 
+die: lehe | bayit	bayit-	leh	leh-	lehe 
+dog: wiššiččo | waSiCo	waš-iččo-	wiššiččo	wuS	wʊʼš- 
+dog: wʊ\š˗ | waSiCo	waš-iččo-	wiššiččo	wuS	wʊʼš- 
+drink: age | ag	ag-	age 
+dry: goge | gogalla	goge 
+ear: mɛč\eː | mEC"e	maC"e	maččʔe	mɛčʼeː 
+eat: ite | it-	ite 
+egg: k\uːnk\a | kʔuːnkʔa	kʼuːnkʼa 
+eye: ille | ile	ille 
+father: anna 
+fat (n.): di\ʔira 
+fire: giːra | gira	giːra 
+fish: k\urtu\meʔe | k"urt"ume7e	k"urtume7	k"urtume7e	kʔurtʔumeʔe	kʼurtuʼmeʔe 
+five: onto 
+fly (n.): biːmbeʔe 
+foot: lokko 
+four: soːro | sooro	soːro 
+full: woʔm˗ | woma	woʔma 
+give: ʔuːwe | uww-	ʔuːwe 
+good: dɛnaːm˗ | dan-aːmo	dɛnaːm-	erane	eːr 
+good: eːr | dan-aːmo	dɛnaːm-	erane	eːr 
+grass: hit\eː | hitʔe	hitʼeː 
+hair: od\daː | horoːre	odʼdaː 
+hand: anga | aNa	anga 
+head: ho\roːre | horoːre	hoʼroːre 
+hear: mɛ\č\eːse | mEC"ese	maC"es	maččʔes-	mɛʼčʼeːse 
+heart: wɛ\dɛno | wadano	wɛʼdɛno 
+he/she: is˗ 
+he/she: isi 
+he/she: it(t)\˗ 
+he/she: itt\i 
+he/she: itt\o 
+horn: buːdo | budo	buːdo 
+house: mine 
+how: hinka | hinka	hinkid 
+I: ane | ane	ani 
+I: ani | ane	ani 
+I: e(ː)s | ane	ani 
+I: i˗ | ane	ani 
+kill: šiːhe | š-	šiːhe 
+knee: gu˗t\ub | gu-tʼub	gurubbo	gurubo	gut"ub 
+know: leʔe | kʔoːss-	laʔ-	leʔe 
+leaf: buyya | buya	buyya 
+live: heːʔ˗ | heːʔ- 
+liver: afɛre | afEre	afare	afɛre 
+long: k\eː\raʔl | kʔeːraːʔla	kʼeːʼraʔl 
+louse: i\biːba | ibiba 
+man: mɛn˗ | mEn	man-čo	manCo 
+many: lobakata | lob-akata	lobakata 
+meat: maːra 
+moon: a\gɛna | agana	aʼgɛna 
+mountain: duːna | duna	duːna 
+mouth: suːme 
+name: summa | suma	summa 
+neck: gaːnǯe | gaːnǯe 
+new: haːreč(o) | hareC	hareCo	haːre-ččo	haːreč	haːrečo 
+night: hiːmo | himo	hiːmo 
+one: mɛto | mEto	mato	mɛto 
+other: mull˗ | mull-	mulleka 
+rain: t\eːna | tʔeːna	tʼeːna 
+red: kɛ\šaːr(a) | kášara	kɛʼšaːr	kɛʼšaːra	laraːša 
+road: goːgo | gogo 
+root: ɲɪgga | nigga	ɲɪgga 
+rope: usa | heːčco	usa	wadaroʔo 
+sand: sɛšɛra | sɛšɛra	šaššara 
+say: yi\he | y-	yiʼhe | sɛšɛra	šaššara 
+seed: wiːt\o | witʔo	wiːtʼo	ǯaretta 
+see: moːʔe | mo7	mo7e	moʔ-	moːʔ-	moːʔe	sid	siːd- 
+short: gunda 
+sister: aːya 
+sit: a\fuːre | afuːr-	aʼfuːre 
+skin: oːmɛːčo | omEco	omaCo	omaččo	oːmɛːčo 
+sky: iːmane 
+sleep: di\riːre | diʼriːre	giːʔm-	iːnseʔ- 
+small: hoffane | goːtto … o	hoffane 
+smoke: wɪ\riːra | wuriːra	wɪʼriːra 
+snake: haː\mɛš˗ | hamašša	haːʼmɛš- 
+stand: ʔulle | uːll-	ʔulle 
+star: bol\lanka | bolaNka	bolank	bolanka	bolʼlanka	boːlanka 
+stone: kina 
+sun: eː\liːn˗ | elin	elinCo	ellin-čo	eːʼliːn- 
+swim: waːče | waːče	waːčč- 
+tail: šeːrimo | šeːrima	šeːrimo 
+take: mass˗ 
+that: eːk | mEto	mato	mɛto 
+that: o(k) | eːk | mEto	mato	mɛto 
+they: issu | issuw	ittʔuw 
+they: issu˗ | issuw	ittʔuw 
+they: itt\u | issuw	ittʔuw 
+they: itt\u˗ | issuw	ittʔuw 
+thin: wič\ | kʕačʔaːlla	wičʔa	wičʼ 
+this: ku(k) | kuːki 
+this: kuːki 
+this: tu(t) | kuːki 
+thou: ate | ate	ati	kiʔne 
+thou: ati | ate	ati	kiʔne 
+three: saso | saso	sɛso 
+three: sɛso | saso	sɛso 
+tongue: al\lɛbo | alEbo	alabo	allabo	alʼlɛbo 
+tooth: ɪnk\e | iNk"e	ink"e	inkʔe	ɪnkʼe 
+tree: hak\a | hak"a 
+two: lamo | lEmu	lamo	lɛmu 
+two: lɛmu | lEmu	lamo	lɛmu 
+walk: mɛre | taːkk-eʔ- 
+warm: iːb\bal˗ | iːbba	iːbballa	iːbʼbal- 
+wash: danš | aːnš-	danš 
+water: woʔo | wo7o	woʔo 
+we: ne(ː)s | nese 
+we: neːse | nese 
+we: ni˗ | nese 
+wet: aːšal | aːšal	aːšalla 
+what: maha 
+where: hanno | hanno	haːnno 
+white: k\ɛ\dal˗ | kʔadaːlla	kʼɛʼdal- 
+who: aːyye | aːyye	oyye 
+woman: mɛːnt˗ | mento	mɛːnt- 
+you: kiʔn | ate	ati	kiʔne | ati	kiʼʔne 
+you: kiʔn˗ | ate	ati	kiʔne | ati	kiʼʔne 
+you: ki\ʔne | ate	ati	kiʔne | ati	kiʼʔne 
+every: guʔma	hunda	hundam 
+ash: -bʊča	iʔl-bučča 
+abdomen: godabo	goʼdɛbo 
+bigness: lob	lobane	loːb- 
+large: lob	lobane	loːb- 
+breasts: anuna	anuːna 
+nail: tʔuranka	tʔuraʔa	tʼuʼrɛːnkʼa 
+talon: tʔuranka	tʔuraʔa	tʼuʼrɛːnkʼa 
+come from: war	ware	waːr-	waːre 
+be dead: bayit	bayit-	leh	leh-	lehe 
+dead: bayit	bayit-	leh	leh-	lehe 
+feather: lada	lado 
+fly: barar- 
+fly v.: barar- 
+green: šaːnoʔo 
+left hand: aNa	anga 
+right: aNa	anga 
+1 sg.: ane	ani 
+be knowledgeable: kʔoːss-	laʔ-	leʔe 
+lie: daːbaːyy-	lappʔ- 
+lie down: daːbaːyy-	lappʔ- 
+head louse: ibiba 
+male: man-čo	mɛn- 
+much: lob-akata	lobakata 
+multiple: lob-akata	lobakata 
+several: lob-akata	lobakata 
+hill: duna	duːna 
+title: suma	summa 
+nighttime: himo	hiːmo 
+nose: sEne	sane	sɛne 
+adulterous: mEto	mato	mɛto 
+single: mEto	mato	mɛto 
+the: mEto	mato	mɛto 
+unprincipled: mEto	mato	mɛto 
+human: mEn	man-čo	manCo 
+human being: mEn	man-čo	manCo 
+person: mEn	man-čo	manCo 
+rainy weather: tʔeːna	tʼeːna 
+path: gogo 
+route: gogo 
+round: kʔuːnkʔamma 
+hide: omEco	omaCo	omaččo	oːmɛːčo 
+little: goːtto … o	hoffane 
+smallness: goːtto … o	hoffane 
+rock: kina 
+2 sg: ate	ati	kiʔne 
+grind: lEmu	lamo	lɛmu 
+go: taːkk-eʔ- 
+hot: iːbba	iːbballa	iːbʼbal- 
+1 pl. inc.: nese 
+we₁: nese 
+whiteness: kʔadaːlla	kʼɛʼdal- 
+who?: aːyye	oyye 
+female: mento	mɛːnt- 
+yellow: aǯaːra 
+distant: bášila 
+far: bášila 
+dull: keːʔm- 
+heavy: keːʔm- 
+serious: keːʔm- 
+close: abbiso 
+near: abbiso 
+ner: abbiso 
+salt: soːkʔide 
+wind: hafǎča 
+earthworm: dakʔuččo 
+worm: dakʔuččo 
+year: hiːnčo 
+3 sg.: ittʼo	itʔo 
+he: ittʼo	itʔo 
+she: ittʼo	itʔo 
+2 pl.: ati	kiʼʔne 
+ye: ati	kiʼʔne 
+you all: ati	kiʼʔne 
+3 pl.: issuw	ittʔuw 
+here: kayye	keyye	keːyye 
+there: ekkeʔe 
+where?: hanno	haːnno 
+when: hink-ammane 
+when?: hink-ammane 
+how?: hinka	hinkid 
+broad: haraːra 
+wide: haraːra 
+wideness: haraːra 
+narrow: tʔukkʔa 
+principal wife: are 
+wife: are 
+husband: aroʔo 
+his mother: ama 
+mother: ama 
+my mother: ama 
+his father: anna 
+my father: anna 
+forest: hakkʔ-oro 
+woods: hakkʔ-oro 
+fruit: laːra 
+flower: fiːta 
+cord: heːčco	usa	wadaroʔo 
+flesh: maːra 
+fat: diʼʔira 
+grease: diʼʔira 
+fingernail: tʔuranka	tʔuraʔa 
+leg: lokko 
+wing: lada 
+gut: hillenna 
+guts: hillenna 
+insides: hillenna 
+intestine: hillenna 
+intestines: hillenna 
+back: afare 
+suck: mutʔ- 
+spit: tuf- 
+vomit: uww-eʔ- 
+blow: fug-am-	ufaʔ- 
+breath: foːš-eʔ- 
+breathe: foːš-eʔ- 
+laugh: osar- 
+laughter: osar- 
+cogitate: saww- 
+reflect: saww- 
+think: saww- 
+smell: hansuːs-	hoːf- 
+sniff: hansuːs-	hoːf- 
+afraid: baddimma	baːčča 
+be afraid: baddimma	baːčča 
+fear: baddimma	baːčča 
+fright: baddimma	baːčča 
+alive: heːʔ- 
+be alive: heːʔ- 
+life: heːʔ- 
+living: heːʔ- 
+fight: gan-am- 
+hunt: hočč- 
+beat: appʔ-is-	gan- 
+hit: appʔ-is-	gan- 
+strike: appʔ-is-	gan- 
+cut: mur- 
+hack: mur- 
+cut open: an-	bočʔ- 
+split: an-	bočʔ- 
+scratch: haːr-	haːr-eʔ- 
+dig: hin- 
+tell lies: kʔoppʔan- 
+drop: ub- 
+fall: ub- 
+grasp: amad- 
+hold: amad- 
+hold in arm: amad- 
+squeeze: čʔiːn-s- 
+wring: čʔiːn-s- 
+rub: fur-š-	čʔukk- 
+wipe: fur-š-	čʔukk- 
+wash clothes: aːnš-	danš 
+throw: huːš- 
+bind: kar- 
+fasten: kar- 
+tie: kar- 
+tie up: kar- 
+sew: gob- 
+count: tʔig- 
+enumerate: tʔig- 
+number: tʔig- 
+tally: tʔig- 
+sing: kad- 
+have fun: lell- 
+play: lell- 
+float: čʔabb- 
+brook: daːǯǯa 
+river: daːǯǯa 
+stream: daːǯǯa 
+dust: dira 
+fog: humbuʔla 
+blaze: appʔ-	šokk- 
+day: balla 
+daylight: balla 
+daytime: balla 
+bad: ǯora 
+evil: ǯora 
+rot: šama 
+rotten: šama 
+dirty: tʔur- 
+filthy: tʔur- 
+soiled: tʔur- 
+straight: goǯǯ- 
+sharp: mutura 
+blunt: ǯuːǯ- 
+smooth: kʔačʔaːlla	liːʔla	liːʔlalla 
+damp: aːšal	aːšalla 
+right side: makka 
+left: kʔedda 
+in: -n	-nni	waro 
+inside: -n	-nni	waro 
+if: -aʔlens	-taʔn	las 
+because: -annin 

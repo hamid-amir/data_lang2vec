@@ -1,0 +1,328 @@
+all: ixquichtzin	moche 
+every: ixquichtzin	moche 
+ash: nextli 
+ashes: nextli 
+bark: ehuayotl 
+abdomen: ihtitl 
+belly: ihtitl 
+big: huey 
+bigness: huey 
+large: huey 
+bird: tototl 
+bite: tetequi	tlancua 
+black: cacatzactli	tliltic 
+blood: es	eztli 
+bone: omi	omitl 
+breast: CiCiwal	elpantli 
+breasts: CiCiwal	elpantli 
+cloud: mixtli 
+cold: cecec	itztic 
+come: huala	walla	wic 
+come from: huala	walla	wic 
+be dead: mik	miqui 
+dead: mik	miqui 
+die: mik	miqui 
+dog: CiCi	chichi	ickw~in	itzcuintli 
+drink: coni	tlai 
+dry: huac 
+ear: nacaztli	nakas 
+earth: tlali 
+ground: tlali 
+land: tlali 
+soil: tlali 
+eat: cua 
+egg: atetl 
+eye: iS	ixpolotl	ixtelolohtli	ixtli 
+feather: ilhuitl 
+fire: Le	tletl 
+fish: miC	michin 
+fly: patlani 
+fly v.: patlani 
+foot: icxitl 
+full: tenqui 
+give: maca 
+good: cuali 
+green: xoxoctic 
+hair: tzontli 
+hand: ma	ma7 
+left hand: ma	ma7 
+right: ma	ma7 
+head: cuaitl	tzontecomatl 
+hear: caqui	kaki 
+heart: yolotli 
+horn: cuacuahuitl	kw~akw~aw 
+1 sg.: ne	newa	no- 
+I: ne	newa	no- 
+kill: mictia 
+knee: tetepon	tetepontli	tlankw~a 
+be knowledgeable: tlamati 
+know: tlamati 
+leaf: aLapal	xiuitl 
+liver: el	eli	eltapaC	eltapachtli 
+long: huihuiyac	piaztic 
+head louse: atem	atemitl 
+louse: atem	atemitl 
+male: oquichtli 
+man: Laka	tlacatl 
+many: miectin	miequin 
+much: miectin	miequin 
+multiple: miectin	miequin 
+several: miectin	miequin 
+moon: metztli 
+hill: tepe	tepetl 
+mountain: tepe	tepetl 
+mouth: camalotl	camatl 
+name: tocaitl	toka 
+title: tocaitl	toka 
+neck: quecholi 
+new: yancuic	yankw~ik 
+night: yohualli	yowal 
+nighttime: yohualli	yowal 
+nose: yacatl	yaka 
+not: me 
+adulterous: ce	cē	se 
+one: ce	cē	se 
+single: ce	cē	se 
+that: inon 
+the: ce	cē	se 
+unprincipled: ce	cē	se 
+human: Laka	tlacatl 
+human being: Laka	tlacatl 
+person: Laka	tlacatl 
+rain: quiahuitl 
+rainy weather: quiahuitl 
+red: chichiltic 
+path: o7	ohtli 
+road: o7	ohtli 
+route: o7	ohtli 
+root: nelhuayotl 
+round: ololtic 
+sand: xalli 
+say: ihtoa	iluia 
+see: itta	tlachia 
+seed: xinachtli 
+sit: mocehui 
+hide: cuetlaxtli	ewa 
+skin: cuetlaxtli	ewa 
+sleep: cochi 
+little: tepitzin 
+small: tepitzin 
+smallness: tepitzin 
+smoke: poctli 
+star: citlalin	siLal 
+rock: te	tetl 
+stone: te	tetl 
+sun: tona	tonatiw 
+swim: acui	tlamaneloa 
+tail: cuitlapilli 
+this: inin 
+2 sg: mo-	te	tewa 
+thou: mo-	te	tewa 
+you: mo-	te	tewa 
+tongue: nenepil	nenepili 
+tooth: Lan	tlantli 
+tree: cuauitl	kw~aw 
+grind: ome	ōme 
+two: ome	ōme 
+go: yau 
+walk: yau 
+hot: totonqui	yamanqui 
+warm: totonqui	yamanqui 
+water: a	atl 
+1 pl. inc.: tehuantin	tewan	to- 
+we: tehuantin	tewan	to- 
+we₁: tehuantin	tewan	to- 
+what: tleh	tlen 
+white: iztac 
+whiteness: iztac 
+who: aquin 
+who?: aquin 
+female: cihuatl 
+woman: cihuatl 
+yellow: coztic 
+distant: huehca 
+far: huehca 
+dull: hetic 
+heavy: hetic 
+serious: hetic 
+close: nahuac 
+near: nahuac 
+ner: nahuac 
+salt: iztatl 
+short: achihueyac	tichtic 
+snake: coatl 
+thin: canahuac	pitztic 
+wind: ehecatl 
+earthworm: ocuili 
+worm: ocuili 
+year: xihuitl 
+3 sg.: i-	yehuatl 
+he: i-	yehuatl 
+she: i-	yehuatl 
+2 pl.: amehuantin	anmo- 
+ye: amehuantin	anmo- 
+you all: amehuantin	anmo- 
+3 pl.: i-	yehuantin 
+they: i-	yehuantin 
+here: nican 
+there: ompa 
+where: oncan 
+where?: oncan 
+when: ihcuac 
+when?: ihcuac 
+how: quenin 
+how?: quenin 
+some: aca	cequinti 
+few: achitzitzin 
+other: oc 
+three: yei	ēyi 
+four: nahui	nāhui 
+five: macuilli	mācuilli 
+broad: cocoyactic	patlachiuhqui 
+wide: cocoyactic	patlachiuhqui 
+wideness: cocoyactic	patlachiuhqui 
+fat: chiahuitli	pochquiotl 
+thick: poli	tilahuacayo 
+narrow: tzoltic 
+child: conetl	pilli 
+principal wife: zohuatl 
+wife: zohuatl 
+husband: cihuahua	namictli 
+his mother: nantli 
+mother: nantli 
+my mother: nantli 
+father: tahtli 
+his father: tahtli 
+my father: tahtli 
+animal: yolcatl 
+forest: cuauhtla 
+woods: cuauhtla 
+branch: tlacotl 
+stick: tlacotl 
+fruit: xocotl 
+flower: xochitl 
+grass: zacatontli 
+cord: mecatl 
+rope: mecatl 
+flesh: nacatl 
+meat: nacatl 
+grease: chiahuitli	pochquiotl 
+claw: iztitl 
+fingernail: iztitl 
+nail: iztitl 
+leg: xotl 
+arm: maitl 
+wing: atlapalli	aztli 
+gut: cuitlaxcoli 
+guts: cuitlaxcoli 
+insides: cuitlaxcoli 
+intestine: cuitlaxcoli 
+intestines: cuitlaxcoli 
+back: elcomali	tepotzli 
+suck: chichina 
+spit: chichi 
+vomit: tetzotla	xochitia 
+blow: tlalpitza	tlapatza 
+breath: ihiyotia 
+breathe: ihiyotia 
+laugh: huetzca 
+laughter: huetzca 
+cogitate: ayequilua	nenemilia 
+reflect: ayequilua	nenemilia 
+think: ayequilua	nenemilia 
+smell: necui 
+sniff: necui 
+afraid: mauhca 
+be afraid: mauhca 
+fear: mauhca 
+fright: mauhca 
+alive: yoli 
+be alive: yoli 
+life: yoli 
+live: yoli 
+living: yoli 
+fight: tlaicalia 
+hunt: ami 
+beat: pachilia	tlatzotzona 
+hit: pachilia	tlatzotzona 
+strike: pachilia	tlatzotzona 
+cut: tlacotona	tlatequi	xima 
+hack: tlacotona	tlatequi	xima 
+cut open: maxaltic 
+split: maxaltic 
+scratch: tlatzatzayana 
+lie: colihui	moteca 
+lie down: colihui	moteca 
+tell lies: colihui	moteca 
+turn: cuepa 
+turn around: cuepa 
+turn round: cuepa 
+drop: huetzi	temo 
+fall: huetzi	temo 
+grasp: tlatzitzquia 
+hold: tlatzitzquia 
+hold in arm: tlatzitzquia 
+squeeze: patzoa	tilinia 
+wring: patzoa	tilinia 
+rub: xaxacualoa 
+wipe: chipahua 
+wash: tlapaca 
+wash clothes: tlapaca 
+pull: tilana 
+push: tlamatepeua 
+shove: tlamatepeua 
+throw: tlamayahui	tlatlaza 
+bind: ilpia 
+fasten: ilpia 
+tie: ilpia 
+tie up: ilpia 
+sew: iquiti	tzoma 
+count: tlanonotza 
+enumerate: tlanonotza 
+number: tlanonotza 
+tally: tlanonotza 
+sing: cuica 
+have fun: mahuiltia 
+play: mahuiltia 
+flow: yeyeco 
+freeze: cehuetzi 
+swell: poxauti 
+brook: atoyaatl 
+river: atoyaatl 
+stream: atoyaatl 
+lake: atezcatl 
+ocean: hueyatl	ilhuicaatl 
+sea: hueyatl	ilhuicaatl 
+dust: teuhtli 
+fog: ayahuitl 
+sky: iluicaltl 
+snow: cepayahuitl 
+ice: cetl 
+blaze: tlania 
+burn: tlania 
+day: ilhuitl	tonali 
+daylight: ilhuitl	tonali 
+daytime: ilhuitl	tonali 
+old: huehue 
+bad: amocuali 
+evil: amocuali 
+rot: palactic	palanqui 
+rotten: palactic	palanqui 
+dirty: catzactix 
+filthy: catzactix 
+soiled: catzactix 
+straight: memelahuac 
+sharp: tenitztic 
+smooth: alactic	xipetztli 
+damp: ciahuac	paltic 
+wet: ciahuac	paltic 
+correct: melahuac	neli 
+right side: yeccapan 
+left: opochtli 
+at: -pan 
+in: -ihtic 
+inside: -ihtic 
+with: ica 
+and: iuan 
+if: tla 
+because: ica 

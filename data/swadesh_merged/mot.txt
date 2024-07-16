@@ -1,0 +1,277 @@
+all: ĩĩški 
+every: ĩĩški 
+ash: ibuungdyi 
+ashes: ibuungdyi 
+bark: aɨgšuu 
+big: aabii 
+bigness: aabii 
+large: aabii 
+bird: daarikbi 
+bite: baḳosõõ 
+black: bɨɨh 
+blood: aabi	abi 
+bone: ahkara	kara 
+breast: tu	twaa 
+breasts: tu	twaa 
+claw: ašitdo 
+nail: ašitdo 
+talon: ašitdo 
+cloud: nindihkɨ 
+cold: tɨɨšini 
+come: abãi	ki 
+come from: abãi	ki 
+be dead: Sid3rikbaykay	širɨ̃ aḳbaikãng 
+dead: Sid3rikbaykay	širɨ̃ aḳbaikãng 
+die: Sid3rikbaykay	širɨ̃ aḳbaikãng 
+dog: dudab3	ḍuraaba 
+drink: aygsay	aɨkseɨba	da 
+dry: buruuni 
+ear: kokCi	koḳčii 
+earth: ihtãã 
+ground: ihtãã 
+land: ihtãã 
+soil: ihtãã 
+eat: karabaseɨba 
+egg: ãã 
+eye: oSi	oo	oošubi 
+feather: ããčĩĩ 
+fire: kaaḍɨ	kad3 
+fish: baSiku	katutu	tay 
+fly: boohboo oḳadyĩ 
+fly v.: boohboo oḳadyĩ 
+foot: kihtuu 
+full: booḳbarik	iSid3so 
+give: iiran 
+good: sabaini	sasaaini 
+green: bireikara 
+hair: kãatũũ 
+hand: akdu	axdu	aḳduu 
+left hand: akdu	axdu	aḳduu 
+right: akdu	axdu	aḳduu 
+head: asaakbah	asaɨg 
+hear: anaySu	anaɨgkãng 
+heart: aḳbadyĩĩ 
+horn: abuiroḳdo	ačikbi 
+1 sg.: nay	nãi 
+I: nay	nãi 
+kill: sobãã 
+knee: obãã 
+be knowledgeable: kaama 
+know: kaama 
+leaf: ahḳaadu	t383 
+liver: aabingba 
+head louse: ku	kuu 
+louse: ku	kuu 
+male: la 
+man: b3di	barī 
+many: škikbeh 
+much: škikbeh 
+multiple: škikbeh 
+several: škikbeh 
+flesh: šungbāa 
+meat: šungbāa 
+moon: čibaɨg 
+hill: Sib3	dy~3r3	dyɨra 
+mountain: Sib3	dy~3r3	dyɨra 
+mouth: kaḳšuu 
+name: aa 
+title: aa 
+neck: aboo	aboo aidyi 
+new: baCini	oḳdo 
+night: bagdani	sɨ̃ɨ̃ 
+nighttime: bagdani	sɨ̃ɨ̃ 
+nose: mis3	ḍiisa 
+adulterous: ito	itóp 
+one: ito	itóp 
+single: ito	itóp 
+that: ito	itóp 
+the: ito	itóp 
+unprincipled: ito	itóp 
+human: b3di	barī 
+human being: b3di	barī 
+person: b3di	barī 
+rain: dihkaɨg 
+rainy weather: dihkaɨg 
+red: bohḳaraa 
+path: sk3 
+road: sk3 
+route: sk3 
+root: ašišĩĩ 
+round: biroorwai 
+sand: ũũngda 
+say: iibaḳan 
+see: maadyi	may 
+seed: ahḳooḳbah 
+sit: kaani 
+hide: a3gSu	aɨgšuu 
+skin: a3gSu	aɨgšuu 
+sleep: kabukãng	ooškɨkʔ 
+little: baakaĩ	ihtoo 
+small: baakaĩ	ihtoo 
+smallness: baakaĩ	ihtoo 
+smoke: iiraḳbah 
+star: tootubi	totubi 
+rock: ay	aɨna	ããng 
+stone: ay	aɨna	ããng 
+sun: nyaa	ya* 
+swim: arubisaḳããng 
+tail: arihku 
+2 sg: bai 
+thou: bai 
+you: bai 
+tongue: kob3	kobẽ 
+tooth: dudu	ḍuḍu 
+tree: ka* 
+grind: isami	issámi	ĩĩsaami 
+two: isami	issámi	ĩĩsaami 
+go: nyũ 
+walk: nyũ 
+water: Sim3	šiima 
+what: aybi	aybidou 
+white: bačii	bačiini 
+whiteness: bačii	bačiini 
+who: ããmai 
+who?: ããmai 
+female: byoo 
+woman: byoo 
+yellow: karikã ašungdu 
+distant: iitčikiri 
+far: iitčikiri 
+dull: aabari 
+heavy: aabari 
+serious: aabari 
+close: muungdani 
+near: muungdani 
+ner: muungdani 
+salt: saabĩ 
+short: ooḳbarekʔ 
+snake: čiidu 
+thin: ihtoo 
+wind: saaba 
+earthworm: iširabaa 
+worm: iširabaa 
+year: asoḳbari 
+2 pl.: bidyi 
+ye: bidyi 
+you all: bidyi 
+3 pl.: oračidyi 
+they: oračidyi 
+where: abããhã 
+where?: abããhã 
+when: aaibi 
+when?: aaibi 
+how: aangka 
+how?: aangka 
+few: kobahkaaĩ 
+three: bitentoḳou	biténtkou	tentoḳou 
+four: asaaridgẽ	intó akóu 
+five: aḳdu inški	kobá 
+broad: yookari 
+wide: yookari 
+wideness: yookari 
+fat: ahtooto 
+thick: aabi 
+narrow: bwaikaan 
+child: asaaši 
+principal wife: a-byoo-bai 
+wife: a-byoo-bai 
+husband: aataida 
+his mother: abaama 
+mother: abaama 
+my mother: abaama 
+father: aataida 
+his father: aataida 
+my father: aataida 
+animal: rugčī 
+forest: itenči 
+woods: itenči 
+fruit: kaaraba 
+flower: tootubi 
+grass: ši 
+cord: bwaisaɨg	kaaḳšibu 
+rope: bwaisaɨg	kaaḳšibu 
+grease: ahtooto 
+fingernail: šdooh 
+leg: kain 
+wing: ãčĩĩ 
+gut: aaiši 
+guts: aaiši 
+insides: aaiši 
+intestine: aaiši 
+intestines: aaiši 
+back: kwĩ 
+suck: dada	tuu aɨgsadyĩ 
+spit: kurukduu 
+vomit: boɨgsɨ 
+blow: buubãã 
+breath: bosobuku 
+breathe: bosobuku 
+cogitate: yaamitdoḳaani 
+reflect: yaamitdoḳaani 
+think: yaamitdoḳaani 
+afraid: doḳtosõn 
+be afraid: doḳtosõn 
+fear: doḳtosõn 
+fright: doḳtosõn 
+alive: baɨgbari	dobaɨgbari 
+be alive: baɨgbari	dobaɨgbari 
+life: baɨgbari	dobaɨgbari 
+live: baɨgbari	dobaɨgbari 
+living: baɨgbari	dobaɨgbari 
+beat: buukši	dõõ 
+hit: buukši	dõõ 
+strike: buukši	dõõ 
+cut: aɨgdaḳan 
+hack: aɨgdaḳan 
+cut open: aɨgdon 
+split: aɨgdon 
+dig: okdyikããn 
+lie: aakčirokwã 
+lie down: aakčirokwã 
+tell lies: aakčirokwã 
+stand: bikigbisaa 
+drop: baɨgkirakbã 
+fall: baɨgkirakbã 
+squeeze: saɨng-saing 
+wring: saɨng-saing 
+rub: dyuug-dyug 
+wipe: dyuug-dyug 
+wash: dukan 
+wash clothes: dukan 
+push: iroḳdaḳaan 
+shove: iroḳdaḳaan 
+bind: yuukããn 
+fasten: yuukããn 
+tie: yuukããn 
+tie up: yuukããn 
+sew: oḳdyikããn 
+sing: čibaa 
+flow: širurũ otaḳbari 
+brook: bohgī 
+river: bohgī 
+stream: bohgī 
+lake: badõo 
+dust: ihtan-bruki 
+fog: boraaba 
+sky: baḍũ 
+ice: sasaung-šiima 
+day: barikari 
+daylight: barikari 
+daytime: barikari 
+bad: arongbɨšini	atraḳaari 
+evil: arongbɨšini	atraḳaari 
+rot: ããnta 
+rotten: ããnta 
+dirty: baidaani 
+filthy: baidaani 
+soiled: baidaani 
+straight: biiki 
+sharp: ihkobaaini 
+smooth: dyibakaari 
+damp: atɨšini 
+wet: atɨšini 
+correct: ããkai 
+right side: ããkai 
+left: miikã 
+in: -ro 
+inside: -ro 

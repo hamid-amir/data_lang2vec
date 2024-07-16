@@ -1,0 +1,335 @@
+all: tut 
+every: tut 
+ash: cinushe	scrum	činúșe 
+ashes: cinushe	scrum	činúșe 
+bark: coáje	shcoarci 
+abdomen: buric	foale	pîˊntic 
+belly: buric	foale	pîˊntic 
+big: mare	máre 
+bigness: mare	máre 
+large: mare	máre 
+bird: pulju	puľĭŭ 
+bite: mushcu	mușcu	mãshcu	mî́șcu 
+black: laĭŭ	negru 
+blood: sinca	sãndze	sî́ndze 
+bone: os 
+breast: cheptu	keptu	képtu 
+breasts: cheptu	keptu	képtu 
+burn: árdu 
+burn tr.: árdu 
+claw: úngľe 
+nail: úngľe 
+talon: úngľe 
+cloud: nior	niór	nor	nãur 
+cold: aratse	aráţe	frigã 
+come: gini	yin	yinu	ɣin 
+come from: gini	yin	yinu	ɣin 
+be dead: mor	moru 
+dead: mor	moru 
+die: mor	moru 
+dog: cãne	cî́ne 
+drink: abea	beau	beaun	beáŭ	midu 
+dry: uscat	uscát 
+ear: ureaclje	ureácľe	uriacli 
+earth: pimintu	ţáră 
+ground: pimintu	ţáră 
+land: pimintu	ţáră 
+soil: pimintu	ţáră 
+eat: mãc	mîc 
+egg: ou	oŭ 
+eye: oclju	okklu	ócľĭu 
+fat: grăsíme 
+fat n.: grăsíme 
+grease: grăsíme 
+lubricant: grăsíme 
+oil: grăsíme 
+feather: peanã	peánă 
+fire: foc	foku 
+fish: peashte	pescu	pesku	péscu 
+fly: asboáir	azboair 
+fly v.: asboáir	azboair 
+foot: cicior	čičór 
+full: mplin	mplinu	plin	ãmplinu 
+give: dau	daŭ 
+good: bun 
+green: vearde	veárde 
+hair: per 
+hand: mina	mî́nă 
+left hand: mina	mî́nă 
+right: mina	mî́nă 
+head: cap 
+hear: andu	aseultu	avdu	ávdu 
+heart: inimã	ínimă 
+horn: cornu	córnu 
+1 sg.: eu	io	mine	siNuru	ĭo 
+I: eu	io	mine	siNuru	ĭo 
+kill: nec	tsid	vatãm	vátăm 
+knee: cinuklu	dzenuclju	dzinúcľŭ 
+be knowledgeable: shciu	știŭ 
+know: shciu	știŭ 
+leaf: frãndzã	frî́ndză 
+lie: dzac 
+lie down: dzac 
+liver: hicat	hicát	ihcát 
+long: lungu	lúngu 
+head louse: piduclju	pidúcľĭu 
+louse: piduclju	pidúcľĭu 
+male: bãrbat	bărbát	mascur 
+man: birbatu	om	omu 
+many: multsã	múltu 
+much: multsã	múltu 
+multiple: multsã	múltu 
+several: multsã	múltu 
+flesh: cárne 
+meat: cárne 
+moon: lunã	lúnă 
+hill: jana	mundi	munte	múnte 
+mountain: jana	mundi	munte	múnte 
+mouth: gurã	gúră 
+name: numa	nume	numã	númă 
+title: numa	nume	numã	númă 
+neck: gushi	gúșe 
+new: nou	noŭ	não 
+night: lopti	napte	noapte	noápte	nuapti 
+nighttime: lopti	napte	noapte	noápte	nuapti 
+nose: nare	náre 
+not: nu 
+adulterous: un	una	unu 
+one: un	una	unu 
+single: un	una	unu 
+that: atsel	aţél 
+the: un	una	unu 
+unprincipled: un	una	unu 
+human: birbatu	om	omu 
+human being: birbatu	om	omu 
+person: birbatu	om	omu 
+rain: ploae	ploáĭe 
+rainy weather: ploae	ploáĭe 
+red: arosh	aróșŭ 
+path: cale	cále 
+road: cale	cále 
+route: cale	cále 
+root: arădăţínă	zãrtsinã 
+round: arucutós	gurguljat	gurguľeát 
+sand: arinã	arínă 
+say: aspún	dzãc	dzîc	spun 
+see: ved	vedu 
+seed: simintsã	simínţă 
+sit: mi-ashedz	shed	șed 
+hide: chiale	coajã	keále	kiali 
+skin: chiale	coajã	keále	kiali 
+sleep: dormu	dórmu 
+little: njic	nʼic 
+small: njic	nʼic 
+smallness: njic	nʼic 
+smoke: fum 
+stand: șed mpróstu 
+star: steao	steauo	steáo	stiaua 
+rock: cheatrã	chiatrã	gena	keátră	kiatra	osu 
+stone: cheatrã	chiatrã	gena	keátră	kiatra	osu 
+sun: soare	soáre	suari 
+swim: anot	anót	not 
+tail: coadã	coádă 
+this: aestu	aistu	aéstu 
+2 sg: tine	tini 
+thou: tine	tini 
+you: tine	tini 
+tongue: limba	limbã	límbă 
+tooth: dinte	dinti	dínte 
+tree: arbor	arbure	pomu	árbur 
+grind: doi	doua	doĭ	dui 
+two: doi	doua	doĭ	dui 
+go: imnu	ímnu	ńérgu 
+walk: imnu	ímnu	ńérgu 
+hot: caldu	cáldu 
+warm: caldu	cáldu 
+water: apa	apã	ápă 
+1 pl. inc.: noi	noĭ 
+we: noi	noĭ 
+we₁: noi	noĭ 
+what: tsi	ţe 
+white: albu	álbu 
+whiteness: albu	álbu 
+who: cai	cari	cáre 
+who?: cai	cari	cáre 
+female: muljare	muľeáre 
+woman: muljare	muľeáre 
+yellow: galbin	gálbin 
+distant: diparte	dipárte	lárgu 
+far: diparte	dipárte	lárgu 
+dull: greu	greŭ 
+heavy: greu	greŭ 
+serious: greu	greŭ 
+close: aproape	aproápe	prochiatã 
+near: aproape	aproápe	prochiatã 
+ner: aproape	aproápe	prochiatã 
+salt: sare 
+short: scúrtu	shcurtu 
+snake: sharpe	șárpe 
+thin: subtsãre	supţî́re 
+wind: vimtu	vímtu 
+earthworm: yermu	ɣermu 
+worm: yermu	ɣermu 
+year: an 
+3 sg.: elu	nãs 
+he: elu	nãs 
+she: elu	nãs 
+2 pl.: voi 
+ye: voi 
+you all: voi 
+3 pl.: nãsh 
+they: nãsh 
+here: aoa	atsia 
+there: aclo 
+where: iu 
+where?: iu 
+when: cãndu 
+when?: cãndu 
+how: cum 
+how?: cum 
+some: nishti 
+few: putsãn 
+other: altu 
+three: trei	treĭ 
+four: patru 
+five: tsintsi	ţinţi 
+broad: largu 
+wide: largu 
+wideness: largu 
+thick: gros 
+narrow: ngustu	strãmtu 
+child: ficior	ficiorle 
+principal wife: ãnveastã 
+wife: ãnveastã 
+husband: bãrbat 
+his mother: mamã 
+mother: mamã 
+my mother: mamã 
+father: tatã 
+his father: tatã 
+my father: tatã 
+animal: prãvdã 
+forest: pãdure 
+woods: pãdure 
+branch: virdzeao	virdzeauã 
+stick: virdzeao	virdzeauã 
+fruit: fructu	frutã 
+flower: floare 
+grass: iarbã 
+cord: fune 
+rope: fune 
+fingernail: unglje 
+leg: cicior 
+arm: mãnã 
+wing: arpã 
+gut: matsã 
+guts: matsã 
+insides: matsã 
+intestine: matsã 
+intestines: matsã 
+back: spatã 
+suck: sug 
+spit: ascuchiu 
+vomit: vomu 
+blow: suflu 
+laugh: arãdu 
+laughter: arãdu 
+cogitate: minduiescu 
+reflect: minduiescu 
+think: minduiescu 
+smell: anjurdzescu 
+sniff: anjurdzescu 
+afraid: mi fricuescu 
+be afraid: mi fricuescu 
+fear: mi fricuescu 
+fright: mi fricuescu 
+alive: bãnedz 
+be alive: bãnedz 
+life: bãnedz 
+live: bãnedz 
+living: bãnedz 
+fight: alumtu	mi batu 
+hunt: avin 
+beat: agudescu 
+hit: agudescu 
+strike: agudescu 
+cut: talju 
+hack: talju 
+cut open: deschic	desic 
+split: deschic	desic 
+pierce: pung 
+stab: pung 
+scratch: scarchinu 
+dig: sapu 
+tell lies: mi culcu	stau cãlcatã 
+turn: mi anvãrtescu 
+turn around: mi anvãrtescu 
+turn round: mi anvãrtescu 
+drop: cad 
+fall: cad 
+grasp: tsãn 
+hold: tsãn 
+hold in arm: tsãn 
+squeeze: stringu 
+wring: stringu 
+rub: frec 
+wipe: ashcergu 
+wash: aspel	spel 
+wash clothes: aspel	spel 
+pull: trag 
+push: pingu 
+shove: pingu 
+throw: aruc 
+bind: leg 
+fasten: leg 
+tie: leg 
+tie up: leg 
+sew: cos 
+count: numir 
+enumerate: numir 
+number: numir 
+tally: numir 
+sing: cãntu 
+have fun: gioc 
+play: gioc 
+float: mplãtescu 
+flow: cur 
+freeze: ãngljets 
+swell: mi umflu 
+brook: arãu 
+river: arãu 
+stream: arãu 
+lake: lac 
+ocean: amare 
+sea: amare 
+dust: pulbire 
+fog: cãtãhnii	eamã 
+sky: tser 
+snow: neao 
+ice: gljets 
+blaze: ardu 
+day: dzuã 
+daylight: dzuã 
+daytime: dzuã 
+old: veclju 
+bad: arãu 
+evil: arãu 
+rot: putrid 
+rotten: putrid 
+dirty: murdar 
+filthy: murdar 
+soiled: murdar 
+straight: ãndreptu 
+sharp: sumigos	tãljãtos 
+smooth: buimatcu 
+damp: ud 
+wet: ud 
+right side: ãndreptu 
+left: stãngu 
+at: la 
+in: tru	ãn 
+inside: tru	ãn 
+with: cu 
+and: shi 
+if: disi 
+because: cã 

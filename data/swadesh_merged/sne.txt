@@ -1,0 +1,261 @@
+all: suĕ porug 
+every: suĕ porug 
+ash: abux 
+ashes: abux 
+abdomen: tain 
+belly: tain 
+big: ayux 
+bigness: ayux 
+large: ayux 
+bird: manuk 
+bite: kuut	siŋüt 
+black: suŋut 
+blood: doya 
+bone: turaN	turaŋ 
+breast: sadu3	saduë 
+breasts: sadu3	saduë 
+burn: ninux	ñaux 
+burn tr.: ninux	ñaux 
+cloud: abun 
+cold: madud	mobus 
+come: nug 
+come from: nug 
+be dead: kobus 
+dead: kobus 
+die: kobus 
+dog: kosoN	kosoŋ 
+drink: nuoh 
+dry: bodux 
+ear: kojit 
+eat: man 
+egg: turuoŋ 
+eye: botun 
+feather: burun 
+fire: opui 
+fish: [i]kien	ikien	kien 
+fly: bikabur	timirib 
+fly v.: bikabur	timirib 
+good: konak	pagux 
+green: idip 
+hair: boek 
+hand: toNan	toŋan 
+left hand: toNan	toŋan 
+right: toNan	toŋan 
+head: bak 
+hear: kidiNah	kidiŋah 
+1 sg.: aku 
+I: aku 
+kill: ñüu	ŋabus 
+be knowledgeable: puan 
+know: puan 
+leaf: dawun 
+lie: biroñoŋ	guriŋ 
+lie down: biroñoŋ	guriŋ 
+liver: atin 
+long: omu 
+head louse: gitux 
+louse: gitux 
+male: dari 
+man: dayah 
+moon: buran 
+mouth: boba 
+name: adun 
+title: adun 
+neck: tuŋoĕ 
+new: baux 
+night: Narom	ŋarom 
+nighttime: Narom	ŋarom 
+nose: nuN	nuŋ 
+adulterous: ni	nikan 
+one: ni	nikan 
+single: ni	nikan 
+that: inu 
+the: ni	nikan 
+unprincipled: ni	nikan 
+human: dayah 
+human being: dayah 
+person: dayah 
+rain: [i]jan 
+rainy weather: [i]jan 
+red: biriĕ 
+path: aran 
+road: aran 
+route: aran 
+root: at	bokah 
+sand: pasir	sumat 
+say: naŋ	tanen 
+see: kirin 
+sit: guru 
+hide: kurit 
+skin: kurit 
+sleep: boĕs 
+little: monik	sit 
+small: monik	sit 
+smallness: monik	sit 
+smoke: asux 
+star: bitaN	bitaŋ 
+rock: batux 
+stone: batux 
+swim: naŋuy 
+tail: [u]kon	ukuĕ 
+this: itis̟ð̙̞̞ 
+2 sg: iNan	iŋan	muu 
+thou: iNan	iŋan	muu 
+you: iNan	iŋan	muu 
+tongue: jorah 
+tooth: jupen 
+grind: duex	duoh 
+two: duex	duoh 
+go: ponu 
+walk: ponu 
+hot: boŋuh	putiak 
+warm: boŋuh	putiak 
+water: piin	pin 
+1 pl. inc.: ate	attĕ	kais 
+we: ate	attĕ	kais 
+we₁: ate	attĕ	kais 
+what: oni 
+white: budah	mopuk 
+whiteness: budah	mopuk 
+who: osi 
+who?: osi 
+female: dayuŋ 
+woman: dayuŋ 
+yellow: sia 
+distant: juĕ 
+far: juĕ 
+dull: baat 
+heavy: baat 
+serious: baat 
+close: sinuk 
+near: sinuk 
+ner: sinuk 
+salt: garoĕ 
+short: kodit	kodĕ 
+snake: dipux 
+thin: ridiĕ 
+wind: sobak 
+earthworm: ratuŋ	tomux 
+worm: ratuŋ	tomux 
+year: sowa 
+2 pl.: iŋan 
+ye: iŋan 
+you all: iŋan 
+3 pl.: iyox 
+they: iyox 
+where: tiŋ ki 
+where?: tiŋ ki 
+when: siniĕ 
+when?: siniĕ 
+how: onimun 
+how?: onimun 
+other: [a]kun 
+three: taruh	tarux 
+four: pat 
+five: rimoh 
+broad: dar 
+wide: dar 
+wideness: dar 
+fat: puak 
+thick: tabar 
+narrow: sapit	sikitok 
+principal wife: sowen 
+wife: sowen 
+husband: bonun 
+his mother: sinĕ 
+mother: sinĕ 
+my mother: sinĕ 
+father: sama 
+his father: sama 
+my father: sama 
+forest: torun 
+woods: torun 
+branch: daan 
+stick: daan 
+fruit: bua 
+flower: sara	suat 
+grass: dux 
+cord: taris 
+rope: taris 
+flesh: asin 
+meat: asin 
+grease: puak 
+wing: [i]rad 
+back: dug 
+suck: ñuop	ŋisap 
+spit: ŋujah 
+vomit: ŋutah 
+blow: yup 
+breath: masuŋ 
+breathe: masuŋ 
+laugh: tauwix 
+laughter: tauwix 
+cogitate: saka ŋasuŋ 
+reflect: saka ŋasuŋ 
+think: saka ŋasuŋ 
+smell: koduk 
+sniff: koduk 
+afraid: toru 
+be afraid: toru 
+fear: toru 
+fright: toru 
+alive: idip 
+be alive: idip 
+life: idip 
+live: idip 
+living: idip 
+hunt: ñipa	ŋokaŋ 
+beat: obox 
+hit: obox 
+strike: obox 
+cut: ñopa 
+hack: ñopa 
+cut open: birieh 
+split: birieh 
+pierce: nijub 
+stab: nijub 
+scratch: gayu 
+dig: karis 
+stand: mojug 
+drop: rabu 
+fall: rabu 
+grasp: bikaguŋ 
+hold: bikaguŋ 
+hold in arm: bikaguŋ 
+squeeze: miset	ŋapit 
+wring: miset	ŋapit 
+throw: mout	ñokad 
+bind: mökes 
+fasten: mökes 
+tie: mökes 
+tie up: mökes 
+sew: nopuŋ 
+count: bibiraŋ	niap 
+enumerate: bibiraŋ	niap 
+number: bibiraŋ	niap 
+tally: bibiraŋ	niap 
+flow: siriet 
+lake: danu 
+ocean: raut 
+sea: raut 
+dust: abux	sapok 
+fog: abun 
+sky: roŋit 
+bad: jaat 
+evil: jaat 
+rot: maduĕ	modam 
+rotten: maduĕ	modam 
+dirty: kais	sirida 
+filthy: kais	sirida 
+soiled: kais	sirida 
+sharp: roya 
+blunt: papu	tajü 
+damp: bisah 
+wet: bisah 
+right side: toux 
+left: bait 
+at: daaŋ 
+in: daaŋ 
+inside: daaŋ 
+and: duech	toban 
+if: komu 

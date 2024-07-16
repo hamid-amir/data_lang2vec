@@ -1,0 +1,232 @@
+all: dár | dár	kú	kúrβâl	pɛ́r 
+all: kú | dár	kú	kúrβâl	pɛ́r 
+all: kúrßâl | dár	kú	kúrβâl	pɛ́r 
+all: pɛ́r | dár	kú	kúrβâl	pɛ́r 
+arm: g˗ʊi 
+arm: ŋw˗ 
+ashes: ŋw˗arú | ŋw-arú 
+bark: ŋw˗ | t̪-íyú	ŋw- 
+bark: t̪˗íyú | t̪-íyú	ŋw- 
+belly: l˗aːri | l-aːri	ŋw- 
+belly: ŋw˗ | l-aːri	ŋw- 
+big: kɯ́ | -ppá	kɯ́	yí- 
+big: ˗ppá | -ppá	kɯ́	yí- 
+big: yí˗ | -ppá	kɯ́	yí- 
+bird: k˗ə́ṛá | k-ə́ṛá	y- 
+bird: y˗ | k-ə́ṛá	y- 
+bite: itt˗ú ŋwad̪unɛ | itt-ú ŋwad̪unɛ 
+black: g˗ | -úmna	g-	y- 
+black: ˗úmna | -úmna	g-	y- 
+black: y˗ | -úmna	g-	y- 
+blood: y˗íːn | y-íːn	yin 
+bone: g˗yjá | g-yjá	guya	ŋ-uya 
+bone: ŋ˗uya | g-yjá	guya	ŋ-uya 
+breast: l˗ʌ́du | l-ʌ́du	lodu	ŋw- 
+breast: ŋw˗ | l-ʌ́du	lodu	ŋw- 
+breathe: t̪˗uwa 
+burn: ˗uːd˗ 
+cloud: k˗ɛrɛ | k-ɛrɛ	y- 
+cloud: y˗ | k-ɛrɛ	y- 
+cold: ˗iǯíːlu | -iǯíːlu	k-	y- 
+cold: k˗ | -iǯíːlu	k-	y- 
+cold: y˗ | -iǯíːlu	k-	y- 
+come: ɪl˗aǃ | il	ɪl-a! 
+die: gwu˗m˗ay | gwu-m-ay	gw~um 
+dog: kə˗ɲɛn | k35En	kə-ɲɛn	yi 
+dog: yi | k35En	kə-ɲɛn	yi 
+drink: iyy˗uǃ | iyy-u!	iyyu 
+dry: k˗ | -úndu	k- 
+dry: ˗úndu | -úndu	k- 
+ear: l˗ɛ́ːni | l-ɛ́ːni	lEni	ŋw- 
+ear: ŋw˗ | l-ɛ́ːni	lEni	ŋw- 
+earth: t̪˗íaŋ 
+eat: itt˗íǃ | itt-í! 
+egg: k˗ɔːɲɔ | k-ɔːɲɔ	y- 
+egg: y˗ | k-ɔːɲɔ	y- 
+eye: l˗ɛ̂y | l-ɛ̂y	lEy	ŋw-ɔ̂y 
+eye: ŋw˗ɔ̂y | l-ɛ̂y	lEy	ŋw-ɔ̂y 
+fat (n.): y˗aːlú 
+fat (n.): y˗ɪ́ːla 
+feather: ŋú˗ | tí-ṛwá	ŋú- 
+feather: tí˗ṛwá | tí-ṛwá	ŋú- 
+finger: k˗ɔːmun 
+finger: y˗ 
+fire: l˗iːgá | l-iːgá	liga 
+fish: ŋ˗ | tum	t̪-úm	ŋ- 
+fish: t̪˗úm | tum	t̪-úm	ŋ- 
+five: t̪ud̪iní 
+fly (v.): k˗índ˗í kɛːṛala 
+four: kɔṛɔŋɔ 
+full: k˗ɔ́ŋǯád̪u | k-ɔ́ŋǯád̪u	ko5Tadu 
+give: d̪ɛ˗d̪íǃ | d̪ɛ-d̪í!	gw-íːd̪-á 
+give: gw˗íːd̪˗á | d̪ɛ-d̪í!	gw-íːd̪-á 
+good: jí˗ | -ǯâw	jí-	kí-	ŋù- 
+good: kí˗ | -ǯâw	jí-	kí-	ŋù- 
+good: ŋù˗ | -ǯâw	jí-	kí-	ŋù- 
+good: ˗ǯâw | -ǯâw	jí-	kí-	ŋù- 
+green: ˗iɣíɲa | -iɣíɲa	k-	y- 
+green: k˗ | -iɣíɲa	k-	y- 
+green: y˗ | -iɣíɲa	k-	y- 
+hair: l˗ʌ́ṛu | l-ʌ́ṛu	ŋw- 
+hair: ŋw˗ | l-ʌ́ṛu	ŋw- 
+hand: g˗ʊi | g-ʊi	gui	ŋw- 
+hand: ŋw˗ | g-ʊi	gui	ŋw- 
+head: kə́˗ṛa | kə́-ṛa	yí- 
+head: yí˗ | kə́-ṛa	yí- 
+hear: d̪iŋ˗inúǃ | diN	d̪iŋ-inú! 
+heart: l˗úgɔ́r | l-úgɔ́r	y-	ŋ- 
+heart: ŋ˗ ~ y˗ | l-úgɔ́r	y-	ŋ- 
+he/she: ŋíndɛ 
+horn: g˗il | g-il	gil	ŋw- 
+horn: ŋw˗ | g-il	gil	ŋw- 
+house: d̪˗on 
+house: ŋ˗ 
+I: ɛɲ | E5	ɛɲ 
+kill: gʊ˗ma˗liɲ˗ɛ́ | gʊ-ma-liɲ-ɛ́ 
+knee: kə́˗rkɔ́ | k3rko	kə́-rkɔ́	yí- 
+knee: yí˗ | k3rko	kə́-rkɔ́	yí- 
+know: gwú˗líŋ˗íːd̪i | gwú-líŋ-íːd̪i 
+leaf: ŋ˗ | lEni	t̪-ʊ́ːṛíɲ	ŋ- 
+leaf: t̪˗ʊ́ːṛíɲ | lEni	t̪-ʊ́ːṛíɲ	ŋ- 
+leg: k˗ɔːrá 
+leg: ŋ˗ 
+lie: ǹdr˗úǃ | ǹdr-ú! 
+lip: l˗iɲú 
+liver: l˗áy | l-áy	lay 
+long: k˗ | -ɔ́ːla	k-	y- 
+long: ˗ɔ́ːla | -ɔ́ːla	k-	y- 
+long: y˗ | -ɔ́ːla	k-	y- 
+louse: t̪ə́˗ndɛ́gəl | t3nd~Eg3l 
+louse: yí˗ ~ ŋwʊ́˗ | t3nd~Eg3l 
+man: ŋ˗ | tiTi	t̪-íǯi	ŋw- 
+man: t̪˗ur | tiTi	t̪-íǯi	ŋw- 
+many: ŋw˗ | -ɔ́nǯád̪u	ŋw- 
+many: ˗ɔ́nǯád̪u | -ɔ́nǯád̪u	ŋw- 
+meat: ŋúd̪í 
+moon: ŋ˗ | t̪-úwá	ŋ- 
+moon: t̪˗úwá | t̪-úwá	ŋ- 
+mountain: k˗ɛːnu | k-ɛːnu	kEnu	y- 
+mountain: y˗ | k-ɛːnu	kEnu	y- 
+mouth: ŋw˗íɲú | ŋw-íɲú 
+name: ŋú˗riɲ | Nuri5	ŋú-riɲ 
+near: gw˗ | -ɔbədáŋ gaːnu	gw- 
+near: ˗ɔbədáŋ gaːnu | -ɔbədáŋ gaːnu	gw- 
+neck: l˗úgṛɔ́ | l-úgṛɔ́	y-	ŋ- 
+neck: ŋ˗ ~ y˗ | l-úgṛɔ́	y-	ŋ- 
+new: k˗ | k-	yaN	yáŋ	ŋʊ- 
+new: ŋʊ˗ | k-	yaN	yáŋ	ŋʊ- 
+new: yáŋ | k-	yaN	yáŋ	ŋʊ- 
+night: t̪˗úlun | tuluN	t̪-úlun 
+one: gwɛttɛ | gw~EttE	gwɛttɛ 
+person: ŋw˗ | tiTi	t̪-íǯi	ŋw- 
+person: t̪˗íǯi | tiTi	t̪-íǯi	ŋw- 
+rain: kə́ṛáɲ | kə́ṛáɲ 
+red: k˗ | -úːri	k-	y- 
+red: ˗úːri | -úːri	k-	y- 
+red: y˗ | -úːri	k-	y- 
+road: k˗ay | kay 
+road: ŋw˗ | kay 
+root: g˗úwá | g-úwá	ŋ- 
+root: ŋ˗ | g-úwá	ŋ- 
+sand: t̪˗īdʒíččír | t̪-īdʒíččír 
+say: abuŋ˗úǃ | aːr-u! 
+say: aːr˗uǃ | aːr-u! 
+say: gw˗and˗áǯú | aːr-u! 
+see: aŋg˗ɛdíǃ | aNg~	aŋg-ɛdí!	omb~ 
+seed: k˗ʊ́ːlá | k-ʊ́ːlá	y- 
+seed: y˗ | k-ʊ́ːlá	y- 
+sit: ɪǯ˗áːluǃ | ɪǯ-áːlu! 
+skin: ŋú˗ | t3rna	t̪ə́-rná	ŋú- 
+skin: t̪ə́˗rná | t3rna	t̪ə́-rná	ŋú- 
+sleep: ǹdṛ˗úǃ | ǹdṛ-ú! 
+small: k˗ | -ɔ́ːkø	k-	y- 
+small: ˗ɔ́ːkø | -ɔ́ːkø	k-	y- 
+small: y˗ | -ɔ́ːkø	k-	y- 
+smoke: ŋ˗ | t̪-úlu	ŋ- 
+smoke: t̪˗úlu | t̪-úlu	ŋ- 
+stand: d̪un˗ad̪íǃ 
+star: k˗úrɔm | k-úrɔm	kurom	y- 
+star: y˗ | k-úrɔm	kurom	y- 
+stone: k˗ɔ́r | k-ɔ́r	kor	y- 
+stone: y˗ | k-ɔ́r	kor	y- 
+sun: l˗íŋɛn | l-íŋɛn	liNEn 
+swim: apərkúdúǃ | apərkúdú! 
+tail: l˗iya | l-iya	ŋw- 
+tail: ŋw˗ | l-iya	ŋw- 
+they: níndɛ́ŋá̀~níndáŋá 
+thou: ŋa | Na	ŋa 
+thou: ŋáːŋa | Na	ŋa 
+three: t̪ɛṛil 
+throat: t̪˗ullu 
+tongue: lí˗ŋɛ́lá | liNEla	lí-ŋɛ́lá	ŋú- 
+tongue: ŋú˗ | liNEla	lí-ŋɛ́lá	ŋú- 
+tooth: líŋat̪ | liNat	líŋat̪	ŋwât̪ 
+tooth: ŋwât̪ | liNat	líŋat̪	ŋwât̪ 
+tree: ŋw˗ | tari 
+tree: t̪˗aːṛi | tari 
+two: rɔ́m | rom	rɔ́m 
+walk: gú˗m˗ɛːl˗ɛ | gú-m-ɛːl-ɛ 
+walk: ind˗íǃ | gú-m-ɛːl-ɛ 
+warm: k˗ | -úβúːd̪u	k-	y- 
+warm: ˗úßúːd̪u | -úβúːd̪u	k-	y- 
+warm: y˗ | -úβúːd̪u	k-	y- 
+water: y˗aw | y-aw	yaw 
+we: aláːŋa | alaNa 
+what: aŋɛ́ | aŋɛ́ 
+white: ˗íbíːd̪u | -íbíːd̪u	k-	y- 
+white: k˗ | -íbíːd̪u	k-	y- 
+white: y˗ | -íbíːd̪u	k-	y- 
+who: yɛ́ːrú | yɛ́ːrú 
+woman: ŋw˗ | t̪-âw	ŋw- 
+woman: t̪˗âw | t̪-âw	ŋw- 
+every: dár	kú	kúrβâl	pɛ́r 
+ash: ŋw-arú 
+abdomen: l-aːri	ŋw- 
+bigness: -ppá	kɯ́	yí- 
+large: -ppá	kɯ́	yí- 
+breasts: l-ʌ́du	lodu	ŋw- 
+come from: il	ɪl-a! 
+be dead: gwu-m-ay	gw~um 
+dead: gwu-m-ay	gw~um 
+fly: k-índ-í kɛːṛala 
+fly v.: k-índ-í kɛːṛala 
+left hand: g-ʊi	gui	ŋw- 
+right: g-ʊi	gui	ŋw- 
+1 sg.: E5	ɛɲ 
+be knowledgeable: gwú-líŋ-íːd̪i 
+lie down: ǹdr-ú! 
+head louse: t3nd~Eg3l 
+male: t̪-ur	ŋ- 
+much: -ɔ́nǯád̪u	ŋw- 
+multiple: -ɔ́nǯád̪u	ŋw- 
+several: -ɔ́nǯád̪u	ŋw- 
+hill: k-ɛːnu	kEnu	y- 
+title: Nuri5	ŋú-riɲ 
+nighttime: tuluN	t̪-úlun 
+nose: k-aːd̪il	kadil	y- 
+adulterous: gw~EttE	gwɛttɛ 
+single: gw~EttE	gwɛttɛ 
+that: gw~EttE	gwɛttɛ 
+the: gw~EttE	gwɛttɛ 
+unprincipled: gw~EttE	gwɛttɛ 
+human: tiTi	t̪-íǯi	ŋw- 
+human being: tiTi	t̪-íǯi	ŋw- 
+rainy weather: kə́ṛáɲ 
+path: kay 
+route: kay 
+hide: t3rna	t̪ə́-rná	ŋú- 
+little: -ɔ́ːkø	k-	y- 
+smallness: -ɔ́ːkø	k-	y- 
+rock: k-ɔ́r	kor	y- 
+2 sg: Na	ŋa 
+you: Na	ŋa 
+grind: rom	rɔ́m 
+go: gú-m-ɛːl-ɛ 
+hot: -úβúːd̪u	k-	y- 
+1 pl. inc.: alaNa 
+we₁: alaNa 
+whiteness: -íbíːd̪u	k-	y- 
+who?: yɛ́ːrú 
+female: t̪-âw	ŋw- 
+close: -ɔbədáŋ gaːnu	gw- 
+ner: -ɔbədáŋ gaːnu	gw- 

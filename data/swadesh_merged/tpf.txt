@@ -1,0 +1,263 @@
+all: pol maon 
+every: pol maon 
+ash: da 
+ashes: da 
+abdomen: makuri- 
+belly: makuri- 
+big: sambum 
+bigness: sambum 
+large: sambum 
+bird: man 
+bite: kar -aʔpor 
+black: baʔta 
+blood: narka 
+bone: tarme 
+breast: su 
+breasts: su 
+burn: arbi 
+burn tr.: arbi 
+cloud: kakdo 
+cold: taper	tarpe 
+come: -mai	mai 
+come from: -mai	mai 
+be dead: -per	per 
+dead: -per	per 
+die: -per	per 
+dog: kareu 
+drink: -ain	ain 
+dry: amaʔ 
+ear: tarni	tarni- 
+eat: -aŋkiŋ 
+egg: pano 
+eye: kani	mapu	mapu- kani- 
+feather: puru 
+fire: yap 
+fish: pano 
+fly: yap|rop 
+fly v.: yap|rop 
+good: pi 
+green: kaijiu kamka 
+hair: pri-k dau 
+hand: mi	mi- 
+left hand: mi	mi- 
+right: mi	mi- 
+head: pri-k-op 
+hear: -rnek	rnek 
+1 sg.: d|uk	uk 
+I: d|uk	uk 
+kill: -pun 
+be knowledgeable: -arnek 
+know: -arnek 
+leaf: dau 
+lie: nari -aiñen 
+lie down: nari -aiñen 
+liver: yate	yate- 
+long: marasi 
+head louse: ku7	kuʔ 
+louse: ku7	kuʔ 
+male: tamuʔ 
+man: tamu7	tamuʔ 
+moon: muʔ 
+mouth: seʔmo-k 
+name: taya	taya- 
+title: taya	taya- 
+neck: banto-k waro 
+new: nakani	pipiu 
+night: miriu 
+nighttime: miriu 
+nose: siwi	siwi-k 
+adulterous: suksè	suwse 
+one: suksè	suwse 
+single: suksè	suwse 
+that: dapen 
+the: suksè	suwse 
+unprincipled: suksè	suwse 
+human: tamu7	tamuʔ 
+human being: tamu7	tamuʔ 
+person: tamu7	tamuʔ 
+rain: madup 
+rainy weather: madup 
+red: mer 
+path: dar 
+road: dar 
+route: dar 
+root: waka 
+sand: wen 
+say: -aktak 
+see: -amram	amram 
+sit: -to 
+hide: kuru 
+skin: kuru 
+sleep: mun -aien 
+little: karpou 
+small: karpou 
+smallness: karpou 
+smoke: yap kadu 
+star: taurap 
+rock: paya7	payaʔ 
+stone: paya7	payaʔ 
+swim: neʔrur 
+tail: ku 
+this: den 
+2 sg: ik 
+thou: ik 
+you: ik 
+tongue: nama	nama-k 
+tooth: n3po	nəpo-k 
+grind: arko 
+two: arko 
+go: -auku 
+walk: -auku 
+hot: mamro	rapaiki 
+warm: mamro	rapaiki 
+water: dan 
+1 pl. inc.: dik	dim 
+we: dik	dim 
+we₁: dik	dim 
+what: tani 
+white: kerne 
+whiteness: kerne 
+who: sira	sitaici 
+who?: sira	sitaici 
+female: mupin 
+woman: mupin 
+yellow: ma.puʔ 
+distant: marasi	suk 
+far: marasi	suk 
+dull: paʔpisi 
+heavy: paʔpisi 
+serious: paʔpisi 
+close: sini 
+near: sini 
+ner: sini 
+salt: kiuri 
+short: didu 
+snake: niŋwaro 
+thin: tapaʔpu 
+wind: mor 
+earthworm: dareʔ 
+worm: dareʔ 
+year: tahun 
+2 pl.: kam 
+ye: kam 
+you all: kam 
+3 pl.: di 
+they: di 
+where: sakrai 
+where?: sakrai 
+when: tane hari 
+when?: tane hari 
+how: sakamen 
+how?: sakamen 
+other: maʔte 
+three: tor 
+four: pau 
+five: rim 
+broad: mampa 
+wide: mampa 
+wideness: mampa 
+fat: manu 
+thick: aduki 
+narrow: kapko 
+principal wife: mupin 
+wife: mupin 
+husband: tawa 
+his mother: nani 
+mother: nani 
+my mother: nani 
+father: tama 
+his father: tama 
+my father: tama 
+forest: dakno 
+woods: dakno 
+fruit: pawa 
+flower: siwipuru 
+grass: tapaŋ 
+cord: war 
+rope: war 
+flesh: kani 
+meat: kani 
+grease: manu 
+wing: pau 
+gut: makok waro 
+guts: makok waro 
+insides: makok waro 
+intestine: makok waro 
+intestines: makok waro 
+back: batar 
+suck: -eʔmuʔ 
+spit: -puroʔwa	mərep dani 
+vomit: pei 
+blow: arbaʔ 
+breath: -tekmapa 
+breathe: -tekmapa 
+laugh: -kem 
+laughter: -kem 
+cogitate: -takbaʔ atausiu 
+reflect: -takbaʔ atausiu 
+think: -takbaʔ atausiu 
+smell: -wi 
+sniff: -wi 
+afraid: -marke-k 
+be afraid: -marke-k 
+fear: -marke-k 
+fright: -marke-k 
+alive: -toʔ 
+be alive: -toʔ 
+life: -toʔ 
+live: -toʔ 
+living: -toʔ 
+hunt: nawa 
+beat: -ke 
+hit: -ke 
+strike: -ke 
+cut: nobomte -ke 
+hack: nobomte -ke 
+cut open: yader 
+split: yader 
+pierce: -sok 
+stab: -sok 
+scratch: -nur 
+dig: -tar 
+stand: -duk 
+drop: -ro 
+fall: -ro 
+grasp: -tapur 
+hold: -tapur 
+hold in arm: -tapur 
+squeeze: y-eʔsu 
+wring: y-eʔsu 
+throw: -sok 
+bind: -iupiu 
+fasten: -iupiu 
+tie: -iupiu 
+tie up: -iupiu 
+sew: -tai 
+count: yakir 
+enumerate: yakir 
+number: yakir 
+tally: yakir 
+flow: arpor 
+lake: boʔda	kasi 
+ocean: pip 
+sea: pip 
+dust: bapu 
+fog: bapu 
+sky: kawan 
+bad: wero 
+evil: wero 
+rot: sinipu 
+rotten: sinipu 
+dirty: soso 
+filthy: soso 
+soiled: soso 
+sharp: mata 
+blunt: buku 
+damp: dani 
+wet: dani 
+right side: maom 
+left: teure 
+at: -taw 
+in: raro|i 
+inside: raro|i 
+and: pe 

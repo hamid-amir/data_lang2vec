@@ -1,0 +1,266 @@
+all: tabu 
+every: tabu 
+ash: kau 
+ashes: kau 
+abdomen: mana-	sea 
+belly: mana-	sea 
+big: pœu	pɨu 
+bigness: pœu	pɨu 
+large: pœu	pɨu 
+bird: roróko	rɔrɔkɔ 
+bite: kakiti	lube	lɔmbe 
+black: pito	pòtopóto	ŋgisɔ 
+blood: mandaka-	mádakae 
+bone: punda-	pàndáe 
+breast: sea	sosua	susu- 
+breasts: sea	sosua	susu- 
+burn: katu	seibe	sumbi 
+burn tr.: katu	seibe	sumbi 
+cloud: tomba	tɔmba 
+cold: lulumu	lulúmu 
+come: me	me[i] 
+come from: me	me[i] 
+be dead: le	li 
+dead: le	li 
+die: le	li 
+dog: seki	vasi 
+drink: ɤœkimbi	ɨke 
+dry: kava	keiva 
+ear: taleŋe-	tálangáe 
+eat: aki	ɤœki 
+egg: niŋga-	nɨqa 
+eye: mate-	màtáe 
+feather: sava 
+fire: nako	náko 
+fish: kuate	kóete 
+fly: kiri	reri	riki 
+fly v.: kiri	reri	riki 
+good: næe	nɨi 
+green: tutu 
+hair: vàranáe 
+hand: körisía	kœrisi- 
+left hand: körisía	kœrisi- 
+right: körisía	kœrisi- 
+head: bɨtúa	mbœti 
+hear: ase	vanata	ɤate 
+1 sg.: ra	áro 
+I: ra	áro 
+kill: vuivale	vöévále 
+be knowledgeable: vutini	útini 
+know: vutini	útini 
+leaf: vuraŋa	vɨraŋae 
+lie: bokolo	mbikɔlo 
+lie down: bokolo	mbikɔlo 
+liver: kɔla	mœmœni	popomae 
+long: náva	ŋava 
+head louse: vutu	vótu 
+louse: vutu	vótu 
+male: leike	leke	like 
+man: bósi	mbɔse 
+moon: vɔkene	ókene 
+mouth: njope	zopáe 
+name: taritonóa	zitɔŋɔ 
+title: taritonóa	zitɔŋɔ 
+neck: kukunu	kòkunùa 
+new: varuŋga	varóqa 
+night: kose	kuse 
+nighttime: kose	kuse 
+nose: zeŋóa	ziŋɔ 
+adulterous: kike	kəke	kəkə 
+one: kike	kəke	kəkə 
+single: kike	kəke	kəkə 
+that: pande ɣi	ta 
+the: kike	kəke	kəkə 
+unprincipled: kike	kəke	kəkə 
+human: bósi	mbɔse 
+human being: bósi	mbɔse 
+person: bósi	mbɔse 
+rain: miŋga	mɨqa 
+rainy weather: miŋga	mɨqa 
+red: mesara	mésivi 
+path: dzóka	zuka 
+road: dzóka	zuka 
+route: dzóka	zuka 
+root: löŋgoto	ləŋgətə 
+sand: karakone	karak|ɔne 
+say: pinjɔ	sasei	ŋióro 
+see: mimí	ndɔndoro	ri 
+sit: tonunu	tuŋunu 
+hide: köpae	kœpa 
+skin: köpae	kœpa 
+sleep: pamu	pawi	tutuda 
+little: soi	vasiki 
+small: soi	vasiki 
+smallness: soi	vasiki 
+smoke: kahu	kanu 
+star: sisiriputu	sisiripútu 
+rock: katura	katóra 
+stone: katura	katóra 
+swim: síqe	ŋgavelo 
+tail: pipiti	péputu 
+this: ieti	ɣöti	ɤati 
+2 sg: re 
+thou: re 
+you: re 
+tongue: lome-	lùlemé 
+tooth: kekere-	kogotökae	kìkeréa 
+grind: kere	kéri 
+two: kere	kéri 
+go: zozó	zó	zɔzɔ 
+walk: zozó	zó	zɔzɔ 
+hot: vila	vəla 
+warm: vila	vəla 
+water: bi	mbisi 
+1 pl. inc.: ita taratulu	rami mami	rami taratulu	zita mata 
+we: ita taratulu	rami mami	rami taratulu	zita mata 
+we₁: ita taratulu	rami mami	rami taratulu	zita mata 
+what: anda	ava 
+white: sele	sile 
+whiteness: sele	sile 
+who: anda	ande 
+who?: anda	ande 
+female: gule	ŋgɔle kanji 
+woman: gule	ŋgɔle kanji 
+yellow: dùrudúru	nduru 
+distant: köu	kœu 
+far: köu	kœu 
+dull: niŋgata	nəgata 
+heavy: niŋgata	nəgata 
+serious: niŋgata	nəgata 
+close: vataŋa 
+near: vataŋa 
+ner: vataŋa 
+salt: sua 
+short: toko	tuko 
+snake: ndúle	ndɔle 
+thin: vivino	zezemba 
+wind: vovosúle	vuvusele 
+earthworm: ndondole 
+worm: ndondole 
+year: ave	ɤave 
+2 pl.: ram taratulu	ramu mamu 
+ye: ram taratulu	ramu mamu 
+you all: ram taratulu	ramu mamu 
+3 pl.: zira mara	öra taratulu 
+they: zira mara	öra taratulu 
+where: mbiŋœni 
+where?: mbiŋœni 
+when: be sada	mbisanda 
+when?: be sada	mbisanda 
+how: ava sɔ sei 
+how?: ava sɔ sei 
+other: kavia vele sö 
+three: tulu 
+four: vati 
+five: lima	lɨma 
+broad: depa 
+wide: depa 
+wideness: depa 
+fat: voae	vua-e 
+thick: loloba	tatamba 
+narrow: zizio 
+principal wife: balara 
+wife: balara 
+husband: valaka 
+his mother: sináe	tina-e 
+mother: sináe	tina-e 
+my mother: sináe	tina-e 
+father: tama-e	tamáe 
+his father: tama-e	tamáe 
+my father: tama-e	tamáe 
+forest: siniŋga	sinɨqa 
+woods: siniŋga	sinɨqa 
+branch: vöqe azu	vəŋge 
+stick: vöqe azu	vəŋge 
+fruit: mbœlia 
+flower: böböli	mbœmbœli 
+grass: sisiu	sisíu 
+cord: nokoso	nɔkɔso	suni 
+rope: nokoso	nɔkɔso	suni 
+flesh: zio	ziɔ 
+meat: zio	ziɔ 
+grease: voae	vua-e 
+wing: bɨlúkuru	mbələkiria 
+gut: kobae	kɔmba-e 
+guts: kobae	kɔmba-e 
+insides: kobae	kɔmba-e 
+intestine: kobae	kɔmba-e 
+intestines: kobae	kɔmba-e 
+back: totaka-	tòtakae 
+suck: nurepe	nuripi 
+spit: kukusu 
+vomit: ndula	ndɔla 
+blow: vusili 
+breath: nasapuae	ŋasapua 
+breathe: nasapuae	ŋasapua 
+laugh: bére	mbere 
+laughter: bére	mbere 
+cogitate: nanana	nœni 
+reflect: nanana	nœni 
+think: nanana	nœni 
+smell: nœmbœ	nəmbo 
+sniff: nœmbœ	nəmbo 
+afraid: isini	zisi 
+be afraid: isini	zisi 
+fear: isini	zisi 
+fright: isini	zisi 
+alive: tu 
+be alive: tu 
+life: tu 
+live: tu 
+living: tu 
+hunt: qaqa roroko	saraka 
+beat: sima	vui	vəi sɨma 
+hit: sima	vui	vəi sɨma 
+strike: sima	vui	vəi sɨma 
+cut: ndɨle	ŋgeto 
+hack: ndɨle	ŋgeto 
+cut open: iseke	lipiki	taŋga 
+split: iseke	lipiki	taŋga 
+pierce: ndɨle	pœŋgœ 
+stab: ndɨle	pœŋgœ 
+scratch: kikiraka	tandʒáluku 
+dig: para	pára 
+stand: dire	ndere 
+drop: suru 
+fall: suru 
+grasp: lia	paletœrœ 
+hold: lia	paletœrœ 
+hold in arm: lia	paletœrœ 
+squeeze: mɔnjo	poqo	puŋgo 
+wring: mɔnjo	poqo	puŋgo 
+throw: vavana 
+bind: nekese	nukese	nukisi	pukiti 
+fasten: nekese	nukese	nukisi	pukiti 
+tie: nekese	nukese	nukisi	pukiti 
+tie up: nekese	nukese	nukisi	pukiti 
+sew: sira	sə́ra 
+count: [ki] kia	nea 
+enumerate: [ki] kia	nea 
+number: [ki] kia	nea 
+tally: [ki] kia	nea 
+flow: njarara	vuka 
+lake: babatena 
+ocean: masi	tikava 
+sea: masi	tikava 
+dust: kau	nguloere 
+fog: kasuku	ŋgaŋgau 
+sky: mœlœkana	mɨlɨkana	rani 
+bad: roka	rɔka 
+evil: roka	rɔka 
+rot: mva	nambu 
+rotten: mva	nambu 
+dirty: pito	poto 
+filthy: pito	poto 
+soiled: pito	poto 
+sharp: lato roso	riso 
+blunt: volumu	vulumu 
+damp: muŋgutu	mógutu 
+wet: muŋgutu	mógutu 
+right side: kɨrisi dékanae	njoŋa 
+left: kɨrisi mɨria	mœrœ 
+at: kɔ	ta 
+in: lɔmbɔrɔe 
+inside: lɔmbɔrɔe 
+and: nɔ 
+if: mbi	sanda 

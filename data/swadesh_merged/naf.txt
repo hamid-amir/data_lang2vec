@@ -1,0 +1,142 @@
+all: ilinsakpep 
+every: ilinsakpep 
+ash: kou	kɔ	kɔu 
+ashes: kou	kɔ	kɔu 
+bark: sʌk 
+abdomen: tip	tip- 
+belly: tip	tip- 
+big: taemba 
+bigness: taemba 
+large: taemba 
+bird: aga 
+bite: i	i- 
+black: sopm3N	sopməŋ 
+blood: sip	sip- 
+bone: kanc~iN	kandzit	kaset	siet- 
+breast: nam	nam- 
+breasts: nam	nam- 
+claw: p3luk	pəluk- 
+nail: p3luk	pəluk- 
+talon: p3luk	pəluk- 
+cloud: canca	dzandza 
+cold: bakN3N	bakŋəŋ 
+come: kpe	kpe- 
+come from: kpe	kpe- 
+be dead: g3ki	gəki- 
+dead: g3ki	gəki- 
+die: g3ki	gəki- 
+dog: tam 
+dry: ko	ko- 
+ear: wak	wak- 
+earth: misat 
+ground: misat 
+land: misat 
+soil: misat 
+eat: ni	ni- 
+eye: ci	dzi- 
+fat: kerak 
+fat n.: kerak 
+grease: kerak 
+lubricant: kerak 
+oil: kerak 
+fire: tep 
+foot: set	set- 
+full: cece kpe	dzedze kpe-	dzɛdzɛt 
+give: nai	nai- 
+good: kpembenəŋ	kp~emben3N 
+green: araN3N	araŋəŋ 
+hair: cup	dzup- 
+hand: bet	bet- 
+left hand: bet	bet- 
+right: bet	bet- 
+head: Nokanci	ŋokandzi- 
+heart: gum k3t	gum kət- 
+1 sg.: n3N	nəŋ	nʌ 
+I: n3N	nəŋ	nʌ 
+knee: kpet	pet 
+be knowledgeable: noi	nɔi 
+know: noi	nɔi 
+leaf: sin	sin- 
+long: tepm3N 
+head louse: emin 
+louse: emin 
+male: an 
+man: an 
+many: kilisik 
+much: kilisik 
+multiple: kilisik 
+several: kilisik 
+flesh: s3sumbaN 
+meat: s3sumbaN 
+moon: ayoŋga	eyoNge	eyoŋge 
+hill: kal3N	kaləŋ 
+mountain: kal3N	kaləŋ 
+mouth: dʌpsʌk 
+name: cik3t	dzikət	kwit 
+title: cik3t	dzikət	kwit 
+neck: Nande	gandu	ŋande- 
+new: arak	arakN3N	arakŋəŋ 
+night: t3mb~uyat	təmbuyat 
+nighttime: t3mb~uyat	təmbuyat 
+nose: NiN3N	ŋiŋəŋ	ŋɛŋ 
+not: ku 
+adulterous: kpep	kwep 
+one: kpep	kwep 
+single: kpep	kwep 
+that: ke 
+the: kpep	kwep 
+unprincipled: kpep	kwep 
+rain: map 
+rainy weather: map 
+red: Nam3N	ŋaməŋ 
+path: set 
+road: set 
+route: set 
+root: kindi	kindi- 
+round: kililiN	kililiŋ 
+sand: gambibik	gambibit 
+say: cei	dze	dzei- 
+see: ni	ni- 
+seed: k3t	kət- 
+sit: ta	ta- 
+hide: s3k	sək-	sʌk 
+skin: s3k	sək-	sʌk 
+sleep: we	we- 
+little: isikN3n	isikŋən 
+small: isikN3n	isikŋən 
+smallness: isikN3n	isikŋən 
+smoke: k3s3k	kəsək	kʌsʌk 
+stand: ta 
+star: wendzim	wenzim 
+rock: nanc~3N	nandzəŋ 
+stone: nanc~3N	nandzəŋ 
+sun: k3suk	kəsuk	kʌsup 
+tail: dak	dak- 
+this: kapi 
+2 sg: g3N	gəŋ	gʌŋ 
+thou: g3N	gəŋ	gʌŋ 
+you: g3N	gəŋ	gʌŋ 
+tongue: nambalam	nambaram-	namb~arem 
+tooth: cet	dzet-	dzɛt 
+tree: t3p 
+grind: cut	dzut	zut 
+two: cut	dzut	zut 
+hot: kipməŋ	kipmʌŋ 
+warm: kipməŋ	kipmʌŋ 
+water: tu 
+1 pl. inc.: nin 
+we: nin 
+we₁: nin 
+what: pitne 
+white: satn3N	satəŋ 
+whiteness: satn3N	satəŋ 
+who: kureki 
+who?: kureki 
+female: imbi 
+woman: imbi 
+yellow: araraN	araraŋ 
+short: kutuməŋ 
+snake: nombe 
+wind: tɔgɔ	tɔɣɔ 
+earthworm: gbik 
+worm: gbik 

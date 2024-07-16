@@ -1,0 +1,321 @@
+all: kotol	labal 
+every: kotol	labal 
+ash: tan 
+ashes: tan 
+bark: patil 
+abdomen: tzukut 
+belly: tzukut 
+big: mukʼ 
+bigness: mukʼ 
+large: mukʼ 
+bird: mut 
+bite: ti7	tzak 
+black: 7ikʼ 
+blood: T"iT"	chʼchʼelil	chʼichʼ	sankre 
+bone: bak	bakelil 
+breast: chu7il 
+breasts: chu7il 
+claw: 7ichʼakil 
+nail: 7ichʼakil 
+talon: 7ichʼakil 
+cloud: tok 
+cold: sik 
+come: tal 
+come from: tal 
+be dead: Tam	cham 
+dead: Tam	cham 
+die: Tam	cham 
+dog: C"i7	tzʼi7 
+drink: 7uchʼ	uT" 
+dry: takin 
+ear: chikinil 
+earth: 7osil	balamil 
+ground: 7osil	balamil 
+land: 7osil	balamil 
+soil: 7osil	balamil 
+eat: 7ochan	lahes	ti7 
+egg: tanal	ton 
+eye: satil	yashavo7 
+feather: kʼukʼumal 
+fire: kʼokʼ 
+fish: choy 
+fly: vil 
+fly v.: vil 
+foot: 7okol 
+full: noh 
+give: 7akʼ 
+good: 7utz	lek	pino 
+green: yosh 
+hair: tzatzal	tzotz 
+hand: k"obil	kʼabal	kʼobol 
+left hand: k"obil	kʼabal	kʼobol 
+right: k"obil	kʼabal	kʼobol 
+head: holol 
+hear: 7a7i	a7i 
+heart: 7o7onil 
+horn: shulub 
+kill: chames	mil	milvan 
+knee: hol 7akan	holov 7akan	kʼuhav 
+be knowledgeable: 7ohtikin	na7	tzʼak 
+know: 7ohtikin	na7	tzʼak 
+leaf: 7anal 
+lie: puchʼetah 
+lie down: puchʼetah 
+liver: sekub 
+long: bitzbitz	natil	tintin	tzʼupul 
+head louse: 7uchʼ	uC" 
+louse: 7uchʼ	uC" 
+male: mol	vinik 
+man: krishchnano	kristy~anu	vinik 
+many: 7ep 
+much: 7ep 
+multiple: 7ep 
+several: 7ep 
+flesh: bekʼtal 
+meat: bekʼtal 
+moon: 7u	luna 
+hill: vitz	wiC 
+mountain: vitz	wiC 
+mouth: 7eal 
+name: biil 
+title: biil 
+neck: bikil	nukʼil	tzo7 
+new: 7achʼ	aT" 
+night: 7akʼubal	7ikʼ7osil	ak"ubal 
+nighttime: 7akʼubal	7ikʼ7osil	ak"ubal 
+nose: ni7 
+not: mu 
+adulterous: hun	jun 
+one: hun	jun 
+single: hun	jun 
+that: tah	ti 
+the: hun	jun 
+unprincipled: hun	jun 
+human: krishchnano	kristy~anu	vinik 
+human being: krishchnano	kristy~anu	vinik 
+person: krishchnano	kristy~anu	vinik 
+rain: vo7 
+rainy weather: vo7 
+red: chak-	tzoh 
+path: be 
+road: be 
+route: be 
+root: 7ibel	7isimil 
+round: setset 
+sand: yi'	yiʼ 
+say: 7al 
+see: 7il	7ilbe sat	k"el	kʼot sat 
+seed: bekʼ 
+sit: tzuni 
+hide: nukul	nukulal 
+skin: nukul	nukulal 
+sleep: bat chʼulel	vay 
+little: bikʼit 
+small: bikʼit 
+smallness: bikʼit 
+smoke: chʼail 
+star: kʼanal 
+rock: ton 
+stone: ton 
+sun: T"ul k"ak"al	k'ak'al	kʼakʼal 
+swim: nushih 
+tail: neil 
+this: li7 
+2 sg: vo7ot 
+thou: vo7ot 
+you: vo7ot 
+tongue: 7okʼ 
+tooth: 7eal	tan	tanal 7eal 
+tree: te7 
+grind: Tib	cha7	chib 
+two: Tib	cha7	chib 
+go: shanav 
+walk: shanav 
+hot: kʼisin	kʼokʼ 
+warm: kʼisin	kʼokʼ 
+water: 7a'al	7aʼal	ho7	vo'	voʼ 
+1 pl. inc.: vo7otik	vo7otikotik 
+we: vo7otik	vo7otikotik 
+we₁: vo7otik	vo7otikotik 
+what: kʼu 
+white: meko	sak 
+whiteness: meko	sak 
+who: buchʼu	kʼu cha7al 
+who?: buchʼu	kʼu cha7al 
+female: 7antz 
+woman: 7antz 
+yellow: kʼon 
+distant: nom 
+far: nom 
+dull: 7ol 
+heavy: 7ol 
+serious: 7ol 
+close: nopol 
+near: nopol 
+ner: nopol 
+salt: 7atzʼam 
+short: tzapo 
+snake: chon 
+thin: hoy 
+wind: 7ikʼ 
+earthworm: shuit 
+worm: shuit 
+year: habil 
+2 pl.: vo7oshuk 
+ye: vo7oshuk 
+you all: vo7oshuk 
+here: li7 
+there: le7	tah	te 
+where: bu 
+where?: bu 
+when: kʼu 7ora 
+when?: kʼu 7ora 
+how: kʼu cha7al 
+how?: kʼu cha7al 
+few: hay 
+other: yantik 
+three: 7osh	ꞌoxib 
+four: chan	chanib 
+five: vo7	voꞌob 
+broad: hamal	shemel 
+wide: hamal	shemel 
+wideness: hamal	shemel 
+fat: hupʼel	sheru 
+thick: pim 
+narrow: japajtik 
+child: 7olol 
+principal wife: 7ahnilal	7ahval na	7antzilal 
+wife: 7ahnilal	7ahval na	7antzilal 
+husband: malalil	mol 
+his mother: me7il 
+mother: me7il 
+my mother: me7il 
+father: totil 
+his father: totil 
+my father: totil 
+animal: 7animal	chanulil	chon 
+forest: 7osil	te7tik 
+woods: 7osil	te7tik 
+branch: kʼobol 
+stick: kʼobol 
+fruit: satil 
+flower: nich 
+grass: hobel 
+cord: laso 
+rope: laso 
+grease: hupʼel	sheru 
+fingernail: ni7 7ichʼakil 
+leg: 7akanil	7okol 
+arm: kʼabal 
+wing: shikʼ 
+gut: bikil	tzo7 
+guts: bikil	tzo7 
+insides: bikil	tzo7 
+intestine: bikil	tzo7 
+intestines: bikil	tzo7 
+back: patil 
+suck: tzʼutzʼ 
+spit: tubah 
+vomit: shen 
+breath: 7ichʼ 7ikʼ 
+breathe: 7ichʼ 7ikʼ 
+laugh: tze7in 
+laughter: tze7in 
+cogitate: 7a7i	na7	nop 
+reflect: 7a7i	na7	nop 
+think: 7a7i	na7	nop 
+smell: 7a7ibe 7ikʼ 
+sniff: 7a7ibe 7ikʼ 
+afraid: shi7el ba 
+be afraid: shi7el ba 
+fear: shi7el ba 
+fright: shi7el ba 
+alive: kushul	naki 
+be alive: kushul	naki 
+life: kushul	naki 
+live: kushul	naki 
+living: kushul	naki 
+fight: pas baik ta preva	tahin	tzak bail 
+beat: bah	mah 
+hit: bah	mah 
+strike: bah	mah 
+cut: boh	tuchʼ 
+hack: boh	tuchʼ 
+cut open: hav	tʼah 
+split: hav	tʼah 
+pierce: pahbe 
+stab: pahbe 
+scratch: hotʼ 
+dig: chʼoh	hokʼ 
+tell lies: nop kʼop	puchʼetah	tzuk	yech pas 
+stand: noch'	nochʼ 
+turn: 7akʼ bwelta	hoyihes 
+turn around: 7akʼ bwelta	hoyihes 
+turn round: 7akʼ bwelta	hoyihes 
+drop: pʼah	tishkʼuh 
+fall: pʼah	tishkʼuh 
+grasp: tom 
+hold: tom 
+hold in arm: tom 
+squeeze: pitzʼ 
+wring: pitzʼ 
+rub: biulan 
+wipe: kus 
+wash: chukʼ	pok 
+wash clothes: chukʼ	pok 
+pull: nit 
+push: netʼ	shuh 
+shove: netʼ	shuh 
+throw: hip	ten 
+bind: timan 
+fasten: timan 
+tie: timan 
+tie up: timan 
+sew: tzʼis 
+count: pas kwenta 
+enumerate: pas kwenta 
+number: pas kwenta 
+tally: pas kwenta 
+sing: kʼevuhin 
+have fun: tahin 
+play: tahin 
+float: kahi 
+swell: situbel 
+brook: 7ukʼum	nab 
+river: 7ukʼum	nab 
+stream: 7ukʼum	nab 
+lake: nab 
+ocean: nab 
+sea: nab 
+dust: 7ik'ubal	7ikʼubal	pukuk 
+fog: lumal tok 
+sky: vinahel 
+snow: bot 
+ice: bot	taiv 
+blaze: chikʼ	kʼakʼ 
+burn: chikʼ	kʼakʼ 
+day: 7osil	kʼakʼal 
+daylight: 7osil	kʼakʼal 
+daytime: 7osil	kʼakʼal 
+old: kʼa7 
+bad: chopol 
+evil: chopol 
+rot: kʼa7al	kʼo7	pukʼulik 
+rotten: kʼa7al	kʼo7	pukʼulik 
+dirty: 7ikʼ 
+filthy: 7ikʼ 
+soiled: 7ikʼ 
+straight: tukʼ 
+smooth: chʼulul	lichʼichʼ 
+damp: tʼushul 
+wet: tʼushul 
+correct: melel 
+right side: batz'i k'obol	batzʼi kʼobol 
+left: surto	tzʼet 
+at: ta 
+in: `util	kʼal 
+inside: `util	kʼal 
+with: chi7uk	tohol 
+and: 7i 
+if: mi 
+because: kʼu ti	porke 

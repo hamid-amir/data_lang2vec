@@ -1,0 +1,266 @@
+all: lēisawē 
+every: lēisawē 
+ash: awu 
+ashes: awu 
+abdomen: tuka 
+belly: tuka 
+big: ria 
+bigness: ria 
+large: ria 
+bird: ulē 
+bite: toki 
+black: mité 
+blood: ra 
+bone: toko 
+breast: susu 
+breasts: susu 
+burn: jəŋi 
+burn tr.: jəŋi 
+cloud: rubu 
+cold: kəta 
+come: mai 
+come from: mai 
+be dead: mata 
+dead: mata 
+die: mata 
+dog: lako 
+drink: minu 
+dry: tuʔu 
+ear: hiNa	hiŋa 
+eat: ka 
+egg: təlo 
+eye: mata 
+feather: bua 
+fire: api 
+fish: ika 
+fly: léla 
+fly v.: léla 
+good: bhəri 
+green: məta 
+hair: fu 
+hand: lima 
+left hand: lima 
+right: lima 
+head: holo 
+hear: lele	lēlē 
+1 sg.: aku 
+I: aku 
+kill: roré 
+be knowledgeable: mbeʔo 
+know: mbeʔo 
+leaf: wunu 
+lie: éru 
+lie down: éru 
+liver: ate 
+long: béwa 
+head louse: kutu 
+louse: kutu 
+male: ata haki 
+man: ata 
+moon: wula 
+mouth: wiwi 
+name: naja 
+title: naja 
+neck: təŋu 
+new: muri 
+night: kobe	kobé 
+nighttime: kobe	kobé 
+nose: iju 
+adulterous: sa	ěsa 
+one: sa	ěsa 
+single: sa	ěsa 
+that: gharu	ghēa 
+the: sa	ěsa 
+unprincipled: sa	ěsa 
+human: ata 
+human being: ata 
+person: ata 
+rain: uja 
+rainy weather: uja 
+red: méra 
+path: jala 
+road: jala 
+route: jala 
+root: hamu 
+sand: əna 
+say: garé	nosi 
+see: kile	kilé	tolo 
+sit: məra 
+hide: 8ula	dhula	dh~ula 
+skin: 8ula	dhula	dh~ula 
+sleep: roké 
+little: loʔo 
+small: loʔo 
+smallness: loʔo 
+smoke: nu 
+star: dara 
+rock: watu 
+stone: watu 
+swim: naŋu 
+tail: éko 
+this: ina 
+2 sg: miu 
+thou: miu 
+you: miu 
+tongue: l3ma	ləma 
+tooth: Ni7i	ŋiʔɪ 
+tree: kaju 
+grind: rua 
+two: rua 
+go: mbana 
+walk: mbana 
+hot: pətu 
+warm: pətu 
+water: aē 
+1 pl. inc.: kami	kita 
+we: kami	kita 
+we₁: kami	kita 
+what: apa 
+white: bara 
+whiteness: bara 
+who: sai 
+who?: sai 
+female: ata fai 
+woman: ata fai 
+yellow: kuné 
+distant: béu 
+far: béu 
+dull: ndaté 
+heavy: ndaté 
+serious: ndaté 
+close: wēʔē 
+near: wēʔē 
+ner: wēʔē 
+salt: məsi	siʔé 
+short: boko 
+snake: nipa 
+thin: nəpi 
+wind: aŋi 
+earthworm: hati	hisé 
+worm: hati	hisé 
+year: hiwa 
+2 pl.: miu lēisawē 
+ye: miu lēisawē 
+you all: miu lēisawē 
+3 pl.: əbē 
+they: əbē 
+where: ləka əmba 
+where?: ləka əmba 
+when: wəŋi 
+when?: wəŋi 
+how: ŋērēəmba 
+how?: ŋērēəmba 
+other: rēwo 
+three: tělu	təlu 
+four: sutu 
+five: lima 
+broad: iŋga 
+wide: iŋga 
+wideness: iŋga 
+fat: ura 
+thick: kapa 
+narrow: məre 
+principal wife: fai 
+wife: fai 
+husband: haki 
+his mother: iné 
+mother: iné 
+my mother: iné 
+father: əma 
+his father: əma 
+my father: əma 
+forest: ŋəbo 
+woods: ŋəbo 
+branch: ŋgaʔa 
+stick: ŋgaʔa 
+fruit: mbokoəsa 
+flower: woŋa 
+grass: kuru 
+cord: ajé 
+rope: ajé 
+flesh: naké 
+meat: naké 
+grease: ura 
+wing: bəlé 
+gut: isi tuka 
+guts: isi tuka 
+insides: isi tuka 
+intestine: isi tuka 
+intestines: isi tuka 
+back: loŋqo 
+suck: m|usu 
+spit: nijo 
+vomit: muta 
+breath: ŋai 
+breathe: ŋai 
+laugh: tawa 
+laughter: tawa 
+cogitate: piki 
+reflect: piki 
+think: piki 
+smell: ŋoŋo 
+sniff: ŋoŋo 
+afraid: taʔu 
+be afraid: taʔu 
+fear: taʔu 
+fright: taʔu 
+alive: muri 
+be alive: muri 
+life: muri 
+live: muri 
+living: muri 
+hunt: uri 
+beat: tébo 
+hit: tébo 
+strike: tébo 
+cut: gəté 
+hack: gəté 
+cut open: kəla 
+split: kəla 
+pierce: səka 
+stab: səka 
+scratch: sasi 
+dig: koé 
+stand: dari 
+drop: məsu 
+fall: məsu 
+grasp: déo 
+hold: déo 
+hold in arm: déo 
+squeeze: posi 
+wring: posi 
+throw: lēbo 
+bind: riké 
+fasten: riké 
+tie: riké 
+tie up: riké 
+sew: reʔi 
+count: rēkē 
+enumerate: rēkē 
+number: rēkē 
+tally: rēkē 
+flow: bērē 
+lake: rana 
+ocean: məsi 
+sea: məsi 
+dust: awu 
+fog: rubu 
+sky: liru 
+bad: həmu 
+evil: həmu 
+rot: moso 
+rotten: moso 
+dirty: raki 
+filthy: raki 
+soiled: raki 
+sharp: léʔé 
+blunt: dubu 
+damp: modha	ndəmo 
+wet: modha	ndəmo 
+right side: ŋgana 
+left: ngéu 
+at: ghéa	ləka 
+in: ghale one 
+inside: ghale one 
+and: noʔo 
+if: dəmi 

@@ -1,0 +1,573 @@
+all: alble | alble	alblɛ	nuwe 
+all: alblɛ | alble	alblɛ	nuwe 
+all: nuwe | alble	alblɛ	nuwe 
+ankle: boto 
+arm: orpu 
+arm: wai 
+arm: wayége 
+arm: wayegɛ 
+arrow: kida 
+ashes: gu | gu	köb 
+ashes: köb | gu	köb 
+ashes: köb | gu	köb 
+back: pubelam 
+back: pubɛlam 
+back: wele 
+back: wélé 
+bad: karkopa 
+bad: yalet 
+bad: yalɛt 
+bark: ge | ge	gɛ 
+bark: gɛ | ge	gɛ 
+belly: bap | bap	wog 
+belly: wog | bap	wog 
+big: bui | bui	mbalak 
+big: mbalak | bui	mbalak 
+big: mbelek | bui	mbalak 
+bird: teteli | teteli	tötöli 
+bird: tötöli | teteli	tötöli 
+bird: tötöli | teteli	tötöli 
+bite: kul | kul	ŋomko- 
+bite: ngomko- | kul	ŋomko- 
+bite: ŋomko- | kul	ŋomko- 
+bitter: ipa 
+black: kokol | kokol	temit 
+black: temit | kokol	temit 
+blood: elweke | alweke	elweke	elwéké	ɛlweke 
+blood: ɛlweke | alweke	elweke	elwéké	ɛlweke 
+blood: elwéké | alweke	elweke	elwéké	ɛlweke 
+bone: poe | poe	pu	tepe 
+bone: pu | poe	pu	tepe 
+boy: noanem 
+boy: noaném 
+branch: kaka 
+branch: köka 
+branch: köka 
+breast: momo | el3	er3popoi	momo	tatto 
+breast: momo-opo | el3	er3popoi	momo	tatto 
+breast: tatto | el3	er3popoi	momo	tatto 
+breathe: waku lap- 
+brother: nalia 
+brother: nana 
+brother: wobia 
+burn: nogo 
+burn: ulo 
+burn: ulo- 
+butterfly: kawe 
+calf: melma 
+calf: nü 
+calf: nü 
+calf: po 
+calf: pu 
+cassowary: owi 
+cheek: aboka 
+cheek: omoto 
+chest: ele 
+chest: élé 
+chest: tatto 
+child: honahon 
+child: yak 
+child: yang 
+chin: omoto 
+cloud: omom 
+cold: yam | yam	yogow 
+cold: yogow | yam	yogow 
+come: man | man	we	wemo	wemo-	wè 
+come: wè | man	we	wemo	wemo-	wè 
+come: wemo- | man	we	wemo	wemo-	wè 
+correct: alil 
+crocodile: kiwanem 
+crocodile: kiwaném 
+cut: még- 
+cut: mop 
+dance: gadzi 
+dance: negewe 
+dark: dewi 
+dark: déwi 
+daughter: yang mémi-nek 
+daughter: yaŋ meminɛk 
+day: owo 
+day: yöaple 
+die: bogho | bogho	boɣo	bugol pokwa	gul-	maku	maku- 
+die: bugol pokwa | bogho	boɣo	bugol pokwa	gul-	maku	maku- 
+die: gul- | bogho	boɣo	bugol pokwa	gul-	maku	maku- 
+die: maku- | bogho	boɣo	bugol pokwa	gul-	maku	maku- 
+dig: gubi-gubi 
+dig: kowak 
+dig: lol 
+dig: tol- 
+dog: agoa | agoa	num	um 
+dog: num | agoa	num	um 
+dog: um | agoa	num	um 
+drink: ŋe- | Ne	yaNu	yangu	yaŋu	ŋe-	ŋé- 
+drink: ngé- | Ne	yaNu	yangu	yaŋu	ŋe-	ŋé- 
+drink: yangu | Ne	yaNu	yangu	yaŋu	ŋe-	ŋé- 
+dry: ki | ki	wa 
+dry: wa | ki	wa 
+ear: oida | oida	opo-klo	opoklo 
+ear: oida-gaw | oida	opo-klo	opoklo 
+ear: opo-klo | oida	opo-klo	opoklo 
+earth: tamtemi | uko 
+earth: uko 
+earth: woko | uko 
+eat: nga- | oŋa	ŋa- 
+eat: ŋa- | oŋa	ŋa- 
+eat: onga | oŋa	ŋa- 
+egg: alo 
+elbow: able 
+elbow: ablɛ 
+elbow: kai 
+emu: owi 
+excrement: biaw- 
+excrement: de 
+excrement: gaw 
+eye: opo | opo	opo-gɛ 
+eye: opo-ge | opo	opo-gɛ 
+eye: opo-gɛ | opo	opo-gɛ 
+eye: opo-k | opo	opo-gɛ 
+eye: opo-yeyu | opo	opo-gɛ 
+eye: opo-yi | opo	opo-gɛ 
+face: beme 
+face: bumma 
+fall: mop mé- 
+fall: nopleo 
+far: atiw | atiw	kama-kuiké	pank-waiké 
+far: kama-kuiké | atiw	kama-kuiké	pank-waiké 
+far: pank-waiké | atiw	kama-kuiké	pank-waiké 
+father: bia 
+father: ida 
+fat (n.): ako 
+fat (n.): di 
+fear: oyo 
+feather: pöpö | pup	pöpö 
+feather: pöpö | pup	pöpö 
+feather: pup | pup	pöpö 
+finger: al 
+finger: égéknek 
+finger: egeknɛk 
+fingernail: al 
+fingernail: ole 
+fingernail: or 
+finger: ol-kaka 
+finger: wotnek 
+fire: ete | ete	te	été 
+fire: été | ete	te	été 
+fire: te | ete	te	été 
+fish: döm | dem	dum	döm 
+fish: döm | dem	dum	döm 
+fish: dum | dem	dum	döm 
+five: kednkapo 
+flower: wi 
+fly (n.): kölpitin 
+fly (n.): kölpitin 
+fly (n.): woli 
+fly (v.): mu- 
+fly (v.): teteli 
+foot: eŋaŋu | wodo 
+foot: wodo 
+foot: wodo-ge 
+forehead: tule 
+forehead: tulé 
+forest: golu 
+forest: ngor 
+four: ebedina 
+four: ébédina 
+fruit: noma 
+full: wo 
+girl: meme 
+girl: mémé 
+give: igongli | igoŋli	li- 
+give: li- | igoŋli	li- 
+good: bömök | bömök	namiŋké	ŋömök 
+good: namingké | bömök	namiŋké	ŋömök 
+good: ŋömök | bömök	namiŋké	ŋömök 
+grass: tip 
+grass: wonga-kel 
+guts: banad 
+guts: icitin 
+guts: ičitin 
+guts: itjitin 
+hair: jhi | yeyu	yéyu	ži 
+hair: yeyu | yeyu	yéyu	ži 
+hair: yeyü | yeyu	yéyu	ži 
+hair: yéyu | yeyu	yéyu	ži 
+hair: yéyü | yeyu	yéyu	ži 
+hand: alpo | olpo	wai 
+hand: olpo | olpo	wai 
+hand: wai | olpo	wai 
+head: bemo | bemo	boimo 
+head: boimo | bemo	boimo 
+hear: iŋe- | iNe	iNewe	ingewe	iŋe-	iŋé-	iŋéwe 
+hear: ingé- | iNe	iNewe	ingewe	iŋe-	iŋé-	iŋéwe 
+hear: ingéwe | iNe	iNewe	ingewe	iŋe-	iŋé-	iŋéwe 
+heart: bulo 
+heavy: webe | webe	wébé 
+heavy: wébé | webe	wébé 
+heel: boto 
+heel: éngangu 
+he/she: ɛbi 
+he/she: eu 
+he/she: éw 
+he/she: ɛw 
+he/she: goegomo 
+he/she: ib 
+he/she: yugumu 
+hit: döp 
+hit: pliang 
+hit: pliaŋ- 
+hit: tartoyo (?Yey) 
+hole: kalo 
+house: buwe 
+house: ebi 
+house: ébi 
+husband: ebaiwub 
+husband: emɛlnɛk 
+I: nar | Nal	Nel	nar	ŋal	ŋöl 
+I: ngal | Nal	Nel	nar	ŋal	ŋöl 
+I: ŋöl | Nal	Nel	nar	ŋal	ŋöl 
+I: ngöl | Nal	Nel	nar	ŋal	ŋöl 
+I: ŋölɛl | Nal	Nel	nar	ŋal	ŋöl 
+kangaroo: doki 
+kill: gul- | gul-	peliagé 
+kill: peliagé | gul-	peliagé 
+knee: ew | aw	ew	ɛw 
+knee: ɛw | aw	ew	ɛw 
+know: wokwan 
+lake: weav 
+lake: wedu 
+laugh: ngu- 
+laugh: ŋu- 
+laugh: teng 
+leaf: makarpiap (?) | makarpiap	makarpiap ɳ ʏey	op 
+leaf: op | makarpiap	makarpiap ɳ ʏey	op 
+leg: tepé 
+leg: wodo 
+lie: oplë 
+lie: wiok ku- 
+lie: yaka 
+lightning: melm 
+lightning: merm 
+lip: wo 
+lip: wo-ge 
+lip: wo-gɛ 
+live: ŋaleb- 
+live: ngaléb- 
+long: tipu | kotaːr	tipu	tipuk 
+long: tipuk | kotaːr	tipu	tipuk 
+louse: agoa-kel | dobna	domla 
+louse: dobna | dobna	domla 
+louse: domla | dobna	domla 
+man: émel-nek | nuwwa	nwa	omgo 
+man: emɛlnɛk | nuwwa	nwa	omgo 
+man: gomnek | nuwwa	nwa	omgo 
+man: gom-nek | nuwwa	nwa	omgo 
+man: nuwwa | nuwwa	nwa	omgo 
+many: dandam | dandam	pötpöt	wologu 
+many: pötpöt | dandam	pötpöt	wologu 
+many: pötpöt | dandam	pötpöt	wologu 
+many: wologu | dandam	pötpöt	wologu 
+meat: mogo 
+moon: wangya | waŋya	weŋ 
+moon: waŋya | waŋya	weŋ 
+moon: weng | waŋya	weŋ 
+morning: wigle 
+morning: wiglɛ 
+mosquito: wogumo 
+mother: bia 
+mother: mëna 
+mountain: womal 
+mouth: wo 
+name: nadel | Nadel	nadel	ŋadöl 
+name: ŋadöl | Nadel	nadel	ŋadöl 
+name: ngadöl | Nadel	nadel	ŋadöl 
+nape: aba 
+nape: beku 
+navel: wip 
+navel: wipu 
+near: atimala | atimala	kalplaike	kelmolek 
+near: kalplaike | atimala	kalplaike	kelmolek 
+near: kelmolek | atimala	kalplaike	kelmolek 
+neck: wol | wol	wöl 
+neck: wöl | wol	wöl 
+neck: wöl | wol	wöl 
+new: ngolwok | Nelwok	Nolwok	ngolwok	ŋolwok	ŋölwok 
+new: ŋölwok | Nelwok	Nolwok	ngolwok	ŋolwok	ŋölwok 
+new: ngölwok | Nelwok	Nolwok	ngolwok	ŋolwok	ŋölwok 
+new: noanem | Nelwok	Nolwok	ngolwok	ŋolwok	ŋölwok 
+new: noaném | Nelwok	Nolwok	ngolwok	ŋolwok	ŋölwok 
+night: alim-alim | pumo	wi	wih 
+night: pumo | pumo	wi	wih 
+night: wi | pumo	wi	wih 
+night: wih | pumo	wi	wih 
+nose: buma | buma	bume	bumé 
+nose: bumé | buma	bume	bumé 
+old: kinamun 
+old: metago 
+old: métago 
+old: metwago 
+old: métwago 
+old: ngeliwepak 
+old: potok 
+old: yua metago 
+old: yua métago 
+one: mepala | Nklala	mepala	ngklala	ukala	ŋklala 
+one: ngklala | Nklala	mepala	ngklala	ukala	ŋklala 
+one: ŋklala | Nklala	mepala	ngklala	ukala	ŋklala 
+one: ukala | Nklala	mepala	ngklala	ukala	ŋklala 
+person: nuwwa | nuwwa	nwa	omgo 
+person: omgo | nuwwa	nwa	omgo 
+play: waŋaŋayo- 
+push: emringe 
+rain: mang | maŋ	meŋ 
+rain: maŋ | maŋ	meŋ 
+rain: meng | maŋ	meŋ 
+rat: bayam 
+rat: eiweke 
+rat: tuban 
+rat: yoli 
+red: ato | ato	elweke-padar 
+red: elweke-padar | ato	elweke-padar 
+ripe: emaimok 
+ripe: imaim 
+ripe: imàim 
+ripe: ngewe 
+river: tebe 
+river: wel 
+river: wél 
+road: tamé | tame 
+root: mappa | mappa	mopa 
+root: mopa | mappa	mopa 
+rope: ngunga 
+rope: ŋuŋa 
+sand: olembatë | olembatə	olobati	yuwa 
+sand: olobati | olembatə	olobati	yuwa 
+sand: yuwa | olembatə	olobati	yuwa 
+say: be- | be-	bɛ-	gaga-ipei 
+say: bɛ- | be-	bɛ-	gaga-ipei 
+say: gaga-ipei | be-	bɛ-	gaga-ipei 
+sea: yéwé-kéwé 
+see: beː- | be	beː-	beː́-	ha 
+see: beé- | be	beː-	beː́-	ha 
+see: ha | be	beː-	beː́-	ha 
+sew: ŋo- 
+sharp: kölido 
+sharp: kölido 
+short: tammak | tammak	tömök 
+short: tömök | tammak	tömök 
+short: tömök | tammak	tömök 
+shoulder: pale 
+shoulder: taple 
+shoulder: tolko 
+shoulder: towilo 
+sing: negewe 
+sing: wol- 
+sister: nan 
+sister: nana 
+sister: wobia 
+sit: man | man	mön- 
+sit: mön- | man	mön- 
+sit: mön- | man	mön- 
+skin: ge | Neye	ga	ge	gɛ	ngeye	ŋeye 
+skin: gɛ | Neye	ga	ge	gɛ	ngeye	ŋeye 
+skin: ngeye | Neye	ga	ge	gɛ	ngeye	ŋeye 
+sky: alemu 
+sky: alému 
+sky: ariw-megé 
+sleep: ku- | ku-	ople 
+sleep: ople | ku-	ople 
+small: watuk | watuk	wotoːk	wotök 
+small: wotoːk | watuk	wotoːk	wotök 
+small: wotök | watuk	wotoːk	wotök 
+smell: aw- 
+smell: wolma maw- 
+smoke: ataya 
+snake: gumolo | gumolo	malowyo 
+snake: malowyo | gumolo	malowyo 
+son: yad 
+son: yang gomnek 
+son: yaŋ gomnɛk 
+sour: abol 
+spit: ŋot- 
+spit: wulo 
+spit: wulo hallo 
+spit: wulo ka- 
+split: maŋe- 
+split: yek- 
+stand: dang 
+stand: ŋalep 
+stand: ngalép 
+stand: ngékwam- 
+star: opadio | opaZo	opadio	opadǯo	opaǯo 
+star: opadjo | opaZo	opadio	opadǯo	opaǯo 
+star: opaǯo | opaZo	opadio	opadǯo	opaǯo 
+stick: apol 
+stone: adio | adio	mata	mate 
+stone: mata | adio	mata	mate 
+straight: amom 
+suck: angé- 
+suck: awe- 
+suck: lokay- 
+suck: wol- 
+sun: alemu | alemu	alim	alému 
+sun: alému | alemu	alim	alému 
+sun: alim | alemu	alim	alému 
+sweet: élé 
+sweet: kelabol 
+swim: tu | tu	tü ŋékém- 
+swim: tü ngékém- | tu	tü ŋékém- 
+tail: deke | deke	eleme	pal	ubi	übi 
+tail: eleme | deke	eleme	pal	ubi	übi 
+tail: pal | deke	eleme	pal	ubi	übi 
+tail: ubi | deke	eleme	pal	ubi	übi 
+tail: übi | deke	eleme	pal	ubi	übi 
+take: angep 
+take: ingeli 
+take: ipu 
+take: ipu- 
+take: yele 
+they: ém 
+they: ɛm 
+they: imlɛl 
+they: ukala 
+thick: balo 
+thigh: ogom 
+thin: dapi | dapi	wulilo 
+think: wek 
+think: wɛk 
+thin: wulilo | dapi	wulilo 
+thorn: keydo 
+thorn: kéydo 
+thou: ag | ag	al	au	aw 
+thou: alɛl | ag	al	au	aw 
+thou: au | ag	al	au	aw 
+thou: aw | ag	al	au	aw 
+thou: awöl | ag	al	au	aw 
+thou: ɛl | ag	al	au	aw 
+three: mudem 
+three: mudém 
+throat: bila 
+throat: bilege 
+throw: éké 
+throw: yawal 
+thunder: gege 
+thunder: gégé 
+tie: iböl 
+tie: iböl 
+tie: kok 
+today: ngopma 
+tomorrow: yopöl 
+tomorrow: yopöl 
+tongue: napla | napla	naple	naplɛ 
+tongue: naple | napla	naple	naplɛ 
+tongue: naplɛ | napla	naple	naplɛ 
+tooth: kel | kel	köl 
+tooth: köl | kel	köl 
+tooth: köl | kel	köl 
+tree: doyo 
+tree: kan | doyo 
+two: ina | ina	inah 
+two: inah | ina	inah 
+unripe: blima 
+unripe: blimla 
+vagina: kuma 
+vomit: lap- 
+walk: imeweyap | wapu- 
+walk: wapu- 
+walk: wolk | wapu- 
+wallaby: doki 
+warm: dömo | dömo	gugu 
+warm: dömo | dömo	gugu 
+warm: gugu | dömo	gugu 
+wash: -ngog- 
+wash: ŋog- 
+wash: ngowo-ngowo 
+wash: wu- 
+wash: yala 
+water: yeli | yeli	yu 
+water: yu | yeli	yu 
+weep: ne 
+weep: ngom- 
+weep: ŋom- 
+weep: opne 
+we: ngag | Nag	Naleiman	ngaleimen 
+we: ŋag | Nag	Naleiman	ngaleimen 
+we: ŋagol | Nag	Naleiman	ngaleimen 
+we: ngaleimén | Nag	Naleiman	ngaleimen 
+wet: yam 
+white: malino-pa | malino-pa	temi	témi 
+white: temi | malino-pa	temi	témi 
+white: témi | malino-pa	temi	témi 
+wide: tömak 
+wife: keipinge 
+wife: yuanɛk 
+wind: yeyüyü | yeyüyü	yu	yéyüyü 
+wind: yéyüyü | yeyüyü	yu	yéyüyü 
+wind: yu | yeyüyü	yu	yéyüyü 
+wing: mama 
+wing: maya 
+woman: yua | yua	yuwa 
+woman: yua-nek | yua	yuwa 
+woman: yuanɛk | yua	yuwa 
+woman: yuwa | yua	yuwa 
+wood: doyo 
+wood: ete 
+wood: été 
+yesterday: ngopin 
+yesterday: wekehe 
+yesterday: wékéké 
+you: èl | ag	al	au	aw 
+you: ngo | ag	al	au	aw 
+every: alble	alblɛ	nuwe 
+ash: gu	köb 
+abdomen: bap	wog 
+bigness: bui	mbalak 
+large: bui	mbalak 
+breasts: el3	er3popoi	momo	tatto 
+come from: man	we	wemo	wemo-	wè 
+be dead: bogho	boɣo	bugol pokwa	gul-	maku	maku- 
+dead: bogho	boɣo	bugol pokwa	gul-	maku	maku- 
+ground: uko 
+land: uko 
+soil: uko 
+fly: mu-	teteli 
+fly v.: mu-	teteli 
+left hand: olpo	wai 
+right: olpo	wai 
+1 sg.: Nal	Nel	nar	ŋal	ŋöl 
+be knowledgeable: wokwan 
+head louse: dobna	domla 
+male: gom-nek	gomnek	nwa 
+much: dandam	pötpöt	wologu 
+multiple: dandam	pötpöt	wologu 
+several: dandam	pötpöt	wologu 
+flesh: mogo 
+hill: womal 
+title: Nadel	nadel	ŋadöl 
+nighttime: pumo	wi	wih 
+adulterous: Nklala	mepala	ngklala	ukala	ŋklala 
+single: Nklala	mepala	ngklala	ukala	ŋklala 
+that: Nklala	mepala	ngklala	ukala	ŋklala 
+the: Nklala	mepala	ngklala	ukala	ŋklala 
+unprincipled: Nklala	mepala	ngklala	ukala	ŋklala 
+human: nuwwa	nwa	omgo 
+human being: nuwwa	nwa	omgo 
+rainy weather: maŋ	meŋ 
+path: tame 
+route: tame 
+hide: Neye	ga	ge	gɛ	ngeye	ŋeye 
+little: watuk	wotoːk	wotök 
+smallness: watuk	wotoːk	wotök 
+rock: adio	mata	mate 
+2 sg: ag	al	au	aw 
+grind: ina	inah 
+go: wapu- 
+hot: dömo	gugu 
+1 pl. inc.: Nag	Naleiman	ngaleimen 
+we₁: Nag	Naleiman	ngaleimen 
+whiteness: malino-pa	temi	témi 
+female: yua	yuwa 
+distant: atiw	kama-kuiké	pank-waiké 
+dull: webe	wébé 
+serious: webe	wébé 
+close: atimala	kalplaike	kelmolek 
+ner: atimala	kalplaike	kelmolek 

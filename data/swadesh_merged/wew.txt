@@ -1,0 +1,261 @@
+all: ngara duka 
+every: ngara duka 
+ash: rabuka 
+ashes: rabuka 
+abdomen: tiʼa 
+belly: tiʼa 
+big: kalada 
+bigness: kalada 
+large: kalada 
+bird: keila 
+bite: kati 
+black: mète 
+blood: ra7a	raʼa 
+bone: ri	rí 
+breast: zuzu 
+breasts: zuzu 
+burn: tunu 
+burn tr.: tunu 
+cloud: karobanga 
+cold: kalika	manggobola	maringi 
+come: mai 
+come from: mai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: baga	bàga 
+drink: enu 
+dry: marokota 
+ear: katilu 
+eat: ngaʼa 
+egg: telu (e pepet) 
+eye: mata 
+feather: ghulu 
+fire: api 
+fish: igha	ixa 
+fly: lera 
+fly v.: lera 
+good: dua 
+green: moro 
+hair: loge 
+hand: lima 
+left hand: lima 
+right: lima 
+head: katowa 
+hear: reNe	renge 
+1 sg.: zauwa 
+I: zauwa 
+kill: pamate 
+be knowledgeable: pàde 
+know: pàde 
+leaf: ro7o	roʼo 
+liver: ate 
+long: malou 
+head louse: utu 
+louse: utu 
+male: kabani 
+man: ata 
+moon: ghula 
+mouth: nganda 
+name: Nara	ngara 
+title: Nara	ngara 
+neck: buku 
+new: baru 
+night: gede	gède 
+nighttime: gede	gède 
+nose: kuru 
+adulterous: iya	iza 
+one: iya	iza 
+single: iya	iza 
+that: nàti 
+the: iya	iza 
+unprincipled: iya	iza 
+human: ata 
+human being: ata 
+person: ata 
+rain: ura 
+rainy weather: ura 
+red: rara 
+path: lara 
+road: lara 
+route: lara 
+root: kalàrita 
+sand: la.ingo 
+say: paneghe 
+see: eta 
+sit: mandiʼi 
+hide: kalita	kalíta 
+skin: kalita	kalíta 
+sleep: beika 
+little: kiʼi 
+small: kiʼi 
+smallness: kiʼi 
+smoke: mau 
+star: manduʼu	mand~u7u 
+rock: togo 
+stone: togo 
+swim: ngani 
+tail: kiku 
+this: neghe 
+2 sg: ghou	xou 
+thou: ghou	xou 
+you: ghou	xou 
+tongue: loma	lòma 
+tooth: Nund~u	ngundu 
+grind: duada 
+two: duada 
+go: kako 
+walk: kako 
+hot: wadala 
+warm: wadala 
+water: we7e	weʼe 
+1 pl. inc.: ghita	xita	zàme 
+we: ghita	xita	zàme 
+we₁: ghita	xita	zàme 
+what: àpa nai 
+white: kaka 
+whiteness: kaka 
+who: gàrai 
+who?: gàrai 
+female: mawine 
+woman: mawine 
+yellow: kúninga 
+distant: màro 
+far: màro 
+dull: boto 
+heavy: boto 
+serious: boto 
+close: bera (e pepet) 
+near: bera (e pepet) 
+ner: bera (e pepet) 
+salt: mei 
+short: a. padaka 
+snake: luka 
+thin: manipita 
+wind: paringi 
+earthworm: loti 
+worm: loti 
+year: ndou 
+2 pl.: ghèmi 
+ye: ghèmi 
+you all: ghèmi 
+3 pl.: ghida 
+they: ghida 
+where: gege 
+where?: gege 
+when: pirage 
+when?: pirage 
+how: peinawe 
+how?: peinawe 
+other: eka 
+three: touda 
+four: pata 
+five: limma 
+broad: bèleka 
+wide: bèleka 
+wideness: bèleka 
+fat: muro 
+thick: makèbela 
+narrow: kapido 
+principal wife: ole uma 
+wife: ole uma 
+husband: laʼi 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+forest: kangulu 
+woods: kangulu 
+fruit: wua 
+flower: wela-na (e pepet) 
+grass: ruta 
+cord: kalère 
+rope: kalère 
+flesh: kanaʼa 
+meat: kanaʼa 
+grease: muro 
+wing: kapa 
+gut: tanaiko 
+guts: tanaiko 
+insides: tanaiko 
+intestine: tanaiko 
+intestines: tanaiko 
+back: bèndo 
+suck: kaberuta 
+spit: paniʼi 
+vomit: muta 
+blow: poghi 
+breath: ngau 
+breathe: ngau 
+laugh: madita 
+laughter: madita 
+cogitate: pangèda 
+reflect: pangèda 
+think: pangèda 
+smell: bhou 
+sniff: bhou 
+afraid: mandauta 
+be afraid: mandauta 
+fear: mandauta 
+fright: mandauta 
+alive: moripa 
+be alive: moripa 
+life: moripa 
+live: moripa 
+living: moripa 
+hunt: kalola 
+beat: palu 
+hit: palu 
+strike: palu 
+cut: lòpu 
+hack: lòpu 
+cut open: beka (e pepet) 
+split: beka (e pepet) 
+pierce: tàwe 
+stab: tàwe 
+scratch: kaʼu 
+dig: koda 
+stand: dede 
+drop: waraka 
+fall: waraka 
+grasp: tère 
+hold: tère 
+hold in arm: tère 
+squeeze: pàzu 
+wring: pàzu 
+throw: kapeti	leto 
+bind: kète 
+fasten: kète 
+tie: kète 
+tie up: kète 
+sew: kutu 
+count: reke 
+enumerate: reke 
+number: reke 
+tally: reke 
+flow: kòkora	loro 
+lake: oba 
+ocean: WP: bònu	bènu 
+sea: WP: bònu	bènu 
+dust: kòbura 
+fog: kaghúta 
+sky: langita 
+bad: bokala 
+evil: bokala 
+rot: bogho 
+rotten: bogho 
+dirty: mète-na 
+filthy: mète-na 
+soiled: mète-na 
+sharp: dàkota 
+blunt: karubi 
+damp: doreka 
+wet: doreka 
+right side: kawano 
+left: ghèlo 
+in: dana 
+inside: dana 
+and: mòno 
+if: nyeka 

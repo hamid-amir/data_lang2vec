@@ -1,0 +1,281 @@
+all: katoa	katoatoa 
+every: katoa	katoatoa 
+ash: re7u	rèu 
+ashes: re7u	rèu 
+bark: pakiri 
+abdomen: kona	koopuu	kopu	manava 
+belly: kona	koopuu	kopu	manava 
+big: katakata	ma7ata	maʻata	maʻatamaʻata	ngao	ākā	āmaʻatamaʻata	ʻakamatū 
+bigness: katakata	ma7ata	maʻata	maʻatamaʻata	ngao	ākā	āmaʻatamaʻata	ʻakamatū 
+large: katakata	ma7ata	maʻata	maʻatamaʻata	ngao	ākā	āmaʻatamaʻata	ʻakamatū 
+bird: manu	manu rere	manu/rere 
+bite: eti	kakati	kati 
+black: kere	kerekere	uri	ìva 
+blood: toto 
+bone: ivi 
+breast: tahu	u	uu 
+breasts: tahu	u	uu 
+burn: ta`u	tutungi 
+burn tr.: ta`u	tutungi 
+cloud: tiao	tumurangi	tūrangi 
+cold: anu	anu toketoke 
+come: aeremai	tata7i	tātāʻi 
+come from: aeremai	tata7i	tātāʻi 
+be dead: mate	po7e	po`e 
+dead: mate	po7e	po`e 
+die: mate	po7e	po`e 
+dog: kuri	kurii	puakaua 
+drink: inu 
+dry: maro	maroo 
+ear: tariNa	taringa 
+earth: one 
+ground: one 
+land: one 
+soil: one 
+eat: kai	kai-nga 
+egg: ua	uamoa 
+eye: kanoi	kanoì	mata 
+feather: uru	ʻuru	ʻuruʻuru 
+fire: a7i	ai	aì 
+fish: ika 
+fly: rere 
+fly v.: rere 
+foot: tapuwae 
+give: oroNa 
+good: meitaki	reka 
+green: matie	tāmatie	ʻakamatie 
+hair: `uru	rauru 
+hand: kapu	rima 
+left hand: kapu	rima 
+right: kapu	rima 
+head: katu	upoko 
+hear: roNo	rongo 
+heart: puku7atu 
+1 sg.: -ku	au 
+I: -ku	au 
+kill: kikini	putu	tamate	tā	tāmate	tāmatemate 
+be knowledgeable: kite	maatau 
+know: kite	maatau 
+leaf: rau 
+lie: moe	takato	ʻakatakoto	ʻakatīpapa 
+lie down: moe	takato	ʻakatakoto	ʻakatīpapa 
+liver: ate 
+long: roa 
+head louse: kutu	kutu papa 
+louse: kutu	kutu papa 
+male: taane	tamaroa	tane 
+man: taNata	tangata 
+moon: marama 
+hill: mauNa 
+mountain: mauNa 
+mouth: vaà	wa7a 
+name: iNoa	ingoa 
+title: iNoa	ingoa 
+neck: kaki	kakii 
+new: `oou	ou 
+night: po	poo 
+nighttime: po	poo 
+nose: i7u	putaN	putaNi7o	putaang/iqu/ 
+not: kare 
+adulterous: ta7i	tai	taì	ta’i 
+one: ta7i	tai	taì	ta’i 
+single: ta7i	tai	taì	ta’i 
+that: aua	taua	tera 
+the: ta7i	tai	taì	ta’i 
+unprincipled: ta7i	tai	taì	ta’i 
+human: taNata	tangata 
+human being: taNata	tangata 
+person: taNata	tangata 
+rain: ua 
+rainy weather: ua 
+red: `ute	kura	muramura 
+path: ara 
+road: ara 
+route: ara 
+root: aka	paki-aka 
+sand: one 
+say: araara	karanga	kōrero	tuatua 
+see: kite 
+seed: ua 
+sit: no7o	no`o 
+hide: kiri	pakiri 
+skin: kiri	pakiri 
+sleep: moe 
+little: iti	meaNiti	poto	riki	àka(ri)riki/ 
+small: iti	meaNiti	poto	riki	àka(ri)riki/ 
+smallness: iti	meaNiti	poto	riki	àka(ri)riki/ 
+smoke: au	aua7i	auaì 
+stand: tu 
+star: `eetuu	etu 
+rock: poatu	pooàtu	toka 
+stone: poatu	pooàtu	toka 
+sun: ra 
+swim: kau 
+tail: iku	ìku 
+this: te(e)ia	teeia	teia 
+2 sg: koe	kotou 
+thou: koe	kotou 
+you: koe	kotou 
+tongue: arero 
+tooth: ni7o	ni`o 
+tree: purakau 
+grind: rua 
+two: rua 
+go: aere	àere 
+walk: aere	àere 
+hot: maàna 
+warm: maàna 
+water: vai	wai 
+1 pl. inc.: matou	mātou	tatou	tātou 
+we: matou	mātou	tatou	tātou 
+we₁: matou	mātou	tatou	tātou 
+what: aà	ea7a 
+white: tea	teatea 
+whiteness: tea	teatea 
+who: ko7ai	ài 
+who?: ko7ai	ài 
+female: vaìne	wa7ine	ìne 
+woman: vaìne	wa7ine	ìne 
+yellow: reNareNa	rengarenga 
+distant: mamao 
+far: mamao 
+dull: tai/maà/	tei/maà/	teimaà 
+heavy: tai/maà/	tei/maà/	teimaà 
+serious: tai/maà/	tei/maà/	teimaà 
+close: vai/tata/ 
+near: vai/tata/ 
+ner: vai/tata/ 
+salt: miti 
+short: poto 
+snake: ʻōuī 
+thin: angiangi	rairai 
+wind: matangi 
+earthworm: toke 
+worm: toke 
+year: mataìti	tau 
+2 pl.: koe	koorua	kootou 
+ye: koe	koorua	kootou 
+you all: koe	koorua	kootou 
+3 pl.: rātou	rāua 
+they: rātou	rāua 
+where: `ea 
+where?: `ea 
+when: aa`ea 
+when?: aa`ea 
+how: pèea 
+how?: pèea 
+other: kē	taʻi	tētaʻi 
+three: toru 
+four: àa	ā 
+five: rima 
+broad: ātea	ʻaʻano 
+wide: ātea	ʻaʻano 
+wideness: ātea	ʻaʻano 
+fat: ngako	ìnu 
+thick: maatoru 
+narrow: kōkota	kōpāpā	kōpū	oaoa	tākokota	tākōpāpā	ʻōiti 
+principal wife: vaʻine 
+wife: vaʻine 
+husband: taane 
+his mother: māmā 
+mother: māmā 
+my mother: māmā 
+father: metua	pā	pāpā 
+his father: metua	pā	pāpā 
+my father: metua	pā	pāpā 
+forest: ngaa/ngaaere/	uru/raakau	vao 
+woods: ngaa/ngaaere/	uru/raakau	vao 
+branch: raaraa 
+stick: raaraa 
+fruit: `ua 
+flower: pua 
+grass: matie(e)	mauku 
+cord: taura 
+rope: taura 
+flesh: kiko 
+meat: kiko 
+grease: ngako	ìnu 
+wing: peeàu 
+gut: ngaakau 
+guts: ngaakau 
+insides: ngaakau 
+intestine: ngaakau 
+intestines: ngaakau 
+back: mokotua 
+suck: -ìa	miti	ngote-a 
+spit: puaki	tu/tuà/ 
+vomit: puaki	rua/ki 
+blow: angi	puì	àrara 
+breath: ngaa 
+breathe: ngaa 
+laugh: kata 
+laughter: kata 
+cogitate: maàra 
+reflect: maàra 
+think: maàra 
+smell: `ongi 
+sniff: `ongi 
+afraid: iì	mataku 
+be afraid: iì	mataku 
+fear: iì	mataku 
+fright: iì	mataku 
+alive: mauri	ora 
+be alive: mauri	ora 
+life: mauri	ora 
+live: mauri	ora 
+living: mauri	ora 
+hunt: apuapu	kimi 
+beat: paakia	papaki	patu	ta-ia	taa	tuki 
+hit: paakia	papaki	patu	ta-ia	taa	tuki 
+strike: paakia	papaki	patu	ta-ia	taa	tuki 
+cut: kokoti	kootia	motu	tarai	vaaì/a 
+hack: kokoti	kootia	motu	tarai	vaaì/a 
+cut open: ngaàa	tapaì	vaaì 
+split: ngaàa	tapaì	vaaì 
+pierce: pātia	pātiatia	vero	verovero 
+stab: pātia	pātiatia	vero	verovero 
+scratch: raku(raku)	raraku 
+dig: keri 
+drop: makuru	marere	topa	ìnga 
+fall: makuru	marere	topa	ìnga 
+grasp: kuku-a	puke/na	tango 
+hold: kuku-a	puke/na	tango 
+hold in arm: kuku-a	puke/na	tango 
+squeeze: romi	tatau 
+wring: romi	tatau 
+throw: -ìa	maka	peeì-a	tii	tiri 
+bind: -na	-ìa	nati-a	rii	taapeka	ìitiki-a 
+fasten: -na	-ìa	nati-a	rii	taapeka	ìitiki-a 
+tie: -na	-ìa	nati-a	rii	taapeka	ìitiki-a 
+tie up: -na	-ìa	nati-a	rii	taapeka	ìitiki-a 
+sew: tui 
+count: tatau	tārē 
+enumerate: tatau	tārē 
+number: tatau	tārē 
+tally: tatau	tārē 
+flow: ta`e 
+lake: roto 
+ocean: moana	tai 
+sea: moana	tai 
+dust: puèu 
+fog: ko`u	maa`uu 
+sky: rangi 
+blaze: ka 
+bad: kino 
+evil: kino 
+rot: para	popo 
+rotten: para	popo 
+dirty: repo	àvaàva 
+filthy: repo	àvaàva 
+soiled: repo	àvaàva 
+sharp: koi 
+blunt: mania 
+damp: māʻū	māʻūʻū	tārari 
+wet: māʻū	māʻūʻū	tārari 
+right side: katau 
+left: kauvī	kauī	mauī 
+at: i	tei 
+in: roto 
+inside: roto 
+and: maa 
+if: me 

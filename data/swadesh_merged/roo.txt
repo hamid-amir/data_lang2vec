@@ -1,0 +1,395 @@
+all: ßara rutu | rutu	βara rutu 
+all: (vara) rutu | rutu	βara rutu 
+and: ora 
+and: ra 
+animal: kare 
+ashes: gaßuta | gaβuta	purukai 
+ashes: gavuta | gaβuta	purukai 
+ashes: purukai | gaβuta	purukai 
+at: -ia 
+at: iare 
+at: vo 
+bark: kakauoa | kakauoa	rakari rakari 
+bark: rakari | kakauoa	rakari rakari 
+bark: rakari rakari | kakauoa	rakari rakari 
+belly: siare 
+big: rei | rei	ririo	riro 
+big: ririo | rei	ririo	riro 
+big: riro | rei	ririo	riro 
+bird: kokioto 
+bird: kokio-to | kokioto 
+bite: aßu | aβu	kotu 
+bite: avu | aβu	kotu 
+bite: kotu | aβu	kotu 
+black: katokato | rupa	siga 
+black: rupa | rupa	siga 
+black: siga | rupa	siga 
+blood: reßasißa | bebEsibE	reβasiβa 
+blood: revasi-va | bebEsibE	reβasiβa 
+bone: keru | keduE	keru 
+breast: roroua | dodouE	roroua 
+brother: arao 
+burn: kasi 
+burn: piu 
+child: ovi 
+cloud: rukuta 
+cold: ßukusi | uteo	βukusi 
+cold: uteo | uteo	βukusi 
+cold: vukusi | uteo	βukusi 
+come: poußiro | bEge	bEge piE	pouβiro	udio	udo	urio 
+come: pouviro | bEge	bEge piE	pouβiro	udio	udo	urio 
+come: urio | bEge	bEge piE	pouβiro	udio	udo	urio 
+count: ßetaßetasia 
+count: vetavetasia 
+dance: pupi 
+dark: rupa 
+dark: tore 
+daughter: ovi-va 
+day: voki 
+die: kopi | bobou berE	kopi 
+dig: taßa 
+dog: kaakau | kEbidE	kEkEu	kaːkau 
+dog: kaːkau | kEbidE	kEkEu	kaːkau 
+drink: roroː | roroː	ukaio 
+drink: roroo | roroː	ukaio 
+drink: ukaio | roroː	ukaio 
+dry: posiposi | posiposi	raka 
+dry: raka | posiposi	raka 
+earth: rasito 
+ear: ußareoua | ubEdeouE	uβareoua 
+ear: uvareoua | ubEdeouE	uβareoua 
+eat: aio | aio	gata 
+eat: gata | aio	gata 
+egg: takura 
+egg: takura(-isi) 
+eye: osireito | osideito	osireito 
+eye: osirei-to | osideito	osireito 
+far: tauai 
+father: aite 
+fat (n.): sisiara 
+fat (n.): tuːga 
+fat (n.): tuuga 
+fear: uriri 
+feather: orupa 
+fight: up 
+fire: eraßa | eraβa	eto	eto kEsi	tuitui 
+fire: erava | eraβa	eto	eto kEsi	tuitui 
+fire: eto | eraβa	eto	eto kEsi	tuitui 
+fire: tuitui | eraβa	eto	eto kEsi	tuitui 
+fish: atari-to | EtEdito 
+five: ßoßaßae 
+five: vavae 
+fly (n.): avuru 
+fly (v.): papa 
+fly (v.): ßokapie 
+fly (v.): vokapie 
+foot: tasiua 
+foot: tasuia | tasiua 
+forest: ßegoaro 
+forest: vegoa 
+four: resiura 
+four: ßoresiura 
+full: agasi 
+give: roopie | roːpie	βate 
+give: roːpie | roːpie	βate 
+give: ßate | roːpie	βate 
+give: vate | roːpie	βate 
+good: rekoreko 
+good: vearo | rekoreko 
+grass: isisio 
+green: uriko 
+hair: orui | orui	purukou 
+hair: purukou | orui	purukou 
+hand: ßao | bEbEe	bubuko	βao	βaβae	βuβuko 
+hand: ßaßae | bEbEe	bubuko	βao	βaβae	βuβuko 
+hand: ßußuko | bEbEe	bubuko	βao	βaβae	βuβuko 
+hand: vavae | bEbEe	bubuko	βao	βaβae	βuβuko 
+hand: vuvuko | bEbEe	bubuko	βao	βaβae	βuβuko 
+head: kukueßa | kukueβa 
+head: kukueva | kukueβa 
+heart: ßoßouisi | βoβouisi 
+heart: vovouisi | βoβouisi 
+hear: uːßa | ubu	uːβa 
+hear: uuva | ubu	uːβa 
+heavy: vavata 
+here: ibo 
+here: vo 
+he/she: ira 
+he/she: iria 
+he/she: -ø 
+he/she: oa 
+he/she: oai 
+he/she: oaro 
+he/she: -o/-e 
+he/she: oira 
+he/she: oo 
+he/she: rera 
+he/she: -ro/-re 
+he/she: va 
+hit: tapa 
+house: kepa 
+how: apeisi 
+how: avoviroa 
+how: eake 
+how: ovirovu 
+how: roroa 
+hunt: tara 
+in: siopa-aro-ia 
+I: oaa | dEgEi	dEgoE	ragai	ragoa 
+I: -ra/-a | dEgEi	dEgoE	ragai	ragoa 
+I: ragai | dEgEi	dEgoE	ragai	ragoa 
+I: ragoa | dEgEi	dEgoE	ragai	ragoa 
+kill: kepi-pie | roveu 
+kill: roveu 
+knee: kotupiua | kotupiuE	kotupiua 
+know: tarai- | taraisia 
+know: taraisia 
+leaf: guruva | bEgEi	bEkiE	gudubE	βagai	βakia 
+leaf: ßagai | bEgEi	bEkiE	gudubE	βagai	βakia 
+leaf: ßakia | bEgEi	bEkiE	gudubE	βagai	βakia 
+leaf: vagai | bEgEi	bEkiE	gudubE	βagai	βakia 
+leaf: vakia | bEgEi	bEkiE	gudubE	βagai	βakia 
+lie: gere 
+liver: tokata | tokEtE	tokata 
+live: tootoo 
+long: -kae | kaekae	riro 
+long: kaekae | kaekae	riro 
+long: kae-kae | kaekae	riro 
+long: riro | kaekae	riro 
+louse: irui | idui 
+man: oirato | aβa	bEo	bEro	oiraβure 
+man: oira-to | aβa	bEo	bEro	oiraβure 
+man: ro | aβa	bEo	bEro	oiraβure 
+many: riroara 
+meat: siopeto 
+meat: siope-to 
+moon: kekira | kekira	utaβai 
+moon: utaßai | kekira	utaβai 
+moon: utavai | kekira	utaβai 
+mother: aako 
+mother: aigeiva 
+mountain: pukui | pukui	toisikoβa 
+mountain: toisikoßa | pukui	toisikoβa 
+mountain: toisikova | pukui	toisikoβa 
+mouth: gisipo 
+name: ßaisia | bEisiE	vEisi	βaisia 
+name: vaisi | bEisiE	vEisi	βaisia 
+name: vaisia | bEisiE	vEisi	βaisia 
+narrow: -ua 
+near: ruvara-ia 
+neck: kairo | kairo	kopairo 
+neck: kopairo | kairo	kopairo 
+new: airepa | Eide	EidepE	airepa 
+new: kakai | Eide	EidepE	airepa 
+night: rupa | bokiEro	dupE	rupa	βokairo 
+night: ßokairo | bokiEro	dupE	rupa	βokairo 
+night: vokiaro | bokiEro	dupE	rupa	βokairo 
+night: vokiarovi | bokiEro	dupE	rupa	βokairo 
+nose: iruvaoto | idubEoto	iruβaoto 
+not: -arapa | βiapau 
+not: aviova | βiapau 
+not: opeita | βiapau 
+not: ßiapau | βiapau 
+not: viapau | βiapau 
+old: avuka 
+one: katai | katEi	katai 
+other: -vu 
+person: aßa | aβa	bEo	bEro	oiraβure 
+person: oiraßure | aβa	bEo	bEro	oiraβure 
+person: oira-vure | aβa	bEo	bEro	oiraβure 
+pull: ißu 
+pull: ivu 
+rain: kokeßa | kokeβa	rauriβa 
+rain: kokeva | kokeβa	rauriβa 
+rain: raurißa | kokeβa	rauriβa 
+rain: rauriva | kokeβa	rauriβa 
+red: reßasi | reβasi	turuea 
+red: revasi | reβasi	turuea 
+red: turuea | reβasi	turuea 
+river: kara 
+road: raißa | dEibE 
+road: raiva | dEibE 
+root: ßaßarupa | βaβarupa 
+root: vavarupa | βaβarupa 
+rope: iroiroia 
+rope: viripa-to 
+round: -isi | kororoisi 
+round: kororoisi 
+round: -kuio | kororoisi 
+sand: rogara 
+sand: rogara-ua 
+say: pura | pura	taβi 
+say: taßi | pura	taβi 
+say: tavi | pura	taβi 
+sea: avaka-va 
+sea: rovua 
+seed: ßurua | βurua 
+seed: vurua | βurua 
+see: keke 
+short: poteku 
+sister: voau 
+sit: pau 
+skin: kakauoa | EdeiuE	kEkEuoE	kakauoa	rakari 
+skin: rakari | EdeiuE	kEkEuoE	kakauoa	rakari 
+sleep: uːsi 
+sleep: uusi | uːsi 
+small: gare | gare	kakai	kakapikoa 
+small: kakai | gare	kakai	kakapikoa 
+small: kakapikoa | gare	kakai	kakapikoa 
+small: -vi | gare	kakai	kakapikoa 
+smoke: kupare-to | kurapeto 
+smoke: kurapeto 
+snake: rakoru 
+son: ovi-to 
+stand: tore 
+star: aßiko | Eviko	aβiko	bisudiko	βisiuriko 
+star: aviko | Eviko	aβiko	bisudiko	βisiuriko 
+star: ßisiuriko | Eviko	aβiko	bisudiko	βisiuriko 
+star: visiuriko | Eviko	aβiko	bisudiko	βisiuriko 
+stick: evao-kae 
+stone: aßeke | Ebeke	aβeke 
+stone: aveke-va | Ebeke	aβeke 
+sun: raßireo | dEvidEo	raβireo 
+sun: ravireo | dEvidEo	raβireo 
+swim: aata | aːta 
+swim: aːta 
+tail: koːkoːpi | koːkoːpi	topetope 
+tail: kookoopi | koːkoːpi	topetope 
+tail: topetope | koːkoːpi	topetope 
+that: eßa | eβa 
+that: e-va | eβa 
+that: e-v-o- | eβa 
+there: evoa 
+there: vavo 
+there: voa 
+they: -a/-i 
+they: airo 
+they: airoa 
+they: oara 
+they: oea 
+they: oiave 
+they two: airea 
+they two: airea [f] 
+they two: aiterea 
+they two: aiterea [m] 
+they two: oarea 
+they two: -si/-ere 
+they: voea 
+think: rugorugo 
+this: o- | βao 
+this: ßao | βao 
+this: va-o | βao 
+this: v-o- | βao 
+thou: oara | bi	βi	βigoa 
+thou: ßi | bi	βi	βigoa 
+thou: ßigoa | bi	βi	βigoa 
+thou: ßisigoa | bi	βi	βigoa 
+thou: -u/-ri | bi	βi	βigoa 
+thou: vi | bi	βi	βigoa 
+three: peva 
+three: ßopeßa 
+tongue: areßuoto | Edebuoto	areβuoto 
+tongue: arevuoto | Edebuoto	areβuoto 
+tooth: ketatao | deuri	ketatao	reuri 
+tooth: ketato | deuri	ketatao	reuri 
+tooth: reuri | deuri	ketatao	reuri 
+tree: asiao | ebEobE 
+tree: asia-o | ebEobE 
+tree: eßaoßa | ebEobE 
+tree: evao-va | ebEobE 
+two: erao | -rei	edEo	erao 
+two: -rei | -rei	edEo	erao 
+walk: aßa | βoka 
+walk: ava | βoka 
+walk: ßoka | βoka 
+walk: voka | βoka 
+warm: kasirao 
+warm: kas-irao 
+wash: sisiu 
+water: ovi | ukoE	uːkoa 
+water: uːkoa | ukoE	uːkoa 
+water: uuko | ukoE	uːkoa 
+weep: gau 
+we (excl.): igoa 
+we: igei | bigoE	igei	βigei	βigoa 
+we (incl.): igei ~ ßigei 
+we (incl.): ßigoa 
+we (incl.): -vi(o) 
+we: -i(o) | bigoE	igei	βigei	βigoa 
+we: oaio | bigoE	igei	βigei	βigoa 
+wet: tupitupi 
+we two (incl.): ßegoa 
+we two (incl.): vegoa 
+we two: -ve ≈ -a- 
+we: vigei | bigoE	igei	βigei	βigoa 
+what: apeisi 
+what: eake | apeisi 
+when: ußa 
+where: ovu 
+where: ußa 
+where: uva 
+white: kaapo | kaːpo 
+white: kaːpo 
+white: popote | kaːpo 
+who: ira | ira	iroua 
+who: irou | ira	iroua 
+who: iroua | ira	iroua 
+with: topo(ro) 
+with: -va 
+woman: riako | riakoβa 
+woman: riakoßa | riakoβa 
+woman: riako-va | riakoβa 
+yellow: kesie 
+yes: ari 
+yes: aure 
+yes: iu 
+yes: o 
+yesterday: aruvea 
+you: -ta | bi	βi	βigoa 
+you two: -si/-ere 
+you two: ßeigoa 
+every: rutu	βara rutu 
+ash: gaβuta	purukai 
+abdomen: siare 
+bigness: rei	ririo	riro 
+large: rei	ririo	riro 
+breasts: dodouE	roroua 
+come from: bEge	bEge piE	pouβiro	udio	udo	urio 
+be dead: bobou berE	kopi 
+dead: bobou berE	kopi 
+fly: papa	βokapie 
+fly v.: papa	βokapie 
+left hand: bEbEe	bubuko	βao	βaβae	βuβuko 
+right: bEbEe	bubuko	βao	βaβae	βuβuko 
+1 sg.: dEgEi	dEgoE	ragai	ragoa 
+be knowledgeable: taraisia 
+lie down: gere 
+head louse: idui 
+male: oirato 
+much: riroara 
+multiple: riroara 
+several: riroara 
+hill: pukui	toisikoβa 
+title: bEisiE	vEisi	βaisia 
+nighttime: bokiEro	dupE	rupa	βokairo 
+adulterous: katEi	katai 
+single: katEi	katai 
+the: katEi	katai 
+unprincipled: katEi	katai 
+human: aβa	bEo	bEro	oiraβure 
+human being: aβa	bEo	bEro	oiraβure 
+rainy weather: kokeβa	rauriβa 
+path: dEibE 
+route: dEibE 
+hide: EdeiuE	kEkEuoE	kakauoa	rakari 
+little: gare	kakai	kakapikoa 
+smallness: gare	kakai	kakapikoa 
+rock: Ebeke	aβeke 
+2 sg: bi	βi	βigoa 
+grind: -rei	edEo	erao 
+go: βoka 
+1 pl. inc.: bigoE	igei	βigei	βigoa 
+we₁: bigoE	igei	βigei	βigoa 
+whiteness: kaːpo 
+who?: ira	iroua 
+female: riakoβa 

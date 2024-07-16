@@ -1,0 +1,291 @@
+all: soat 
+every: soat 
+ash: ka-ba-ʔo-rit 
+ashes: ka-ba-ʔo-rit 
+bark: i-be	y-op-šee 
+big: -boŋ	-oboŋ 
+bigness: -boŋ	-oboŋ 
+large: -boŋ	-oboŋ 
+bird: wasɨ̃-yɨ̃	wãsɨ̃ 
+bite: iaham 
+black: i-ok 
+blood: -d-oy	doi 
+bone: -dao	dao 
+breast: -kɨ̃m	iku*m 
+breasts: -kɨ̃m	iku*m 
+claw: -bɨ-nɨ 
+nail: -bɨ-nɨ 
+talon: -bɨ-nɨ 
+cloud: ka-bi-kere-reat 
+cold: -čɨk 
+come: dodon	don	dot	e-ǰot 
+come from: dodon	don	dot	e-ǰot 
+be dead: ǰeʔɨ̃ʔɨ̃m	ʔɨ̃ 
+dead: ǰeʔɨ̃ʔɨ̃m	ʔɨ̃ 
+die: ǰeʔɨ̃ʔɨ̃m	ʔɨ̃ 
+dog: ak3riTe	akiriče	akɨriče 
+drink: iʔom	kon	tikõn 
+dry: t-iap 
+ear: -a-ɲɨy-bɨ	iNuibu 
+earth: i-pi	iʔ-pi 
+ground: i-pi	iʔ-pi 
+land: i-pi	iʔ-pi 
+soil: i-pi	iʔ-pi 
+eat: iʔom	ǰe-kõn 
+egg: -d-op-sa	t-op-sa 
+eye: i-ta	ita 
+feather: d-ap	tap 
+fire: d-aša	daxa 
+fish: axima	ašima 
+fly: ǰepɨpɨpɨm 
+fly v.: ǰepɨpɨpɨm 
+foot: -i	sui 
+full: nopapu*n	topapɨ̃n	yanopapɨ̃n 
+give: iɨ̃mɨ̃m 
+good: šipat 
+green: -rem-rɨm 
+hair: ya-d-ap 
+hand: -bɨ̃-rɨ̃-ʔa	i-bɨ-nɨ̃ʔa	ibu 
+left hand: -bɨ̃-rɨ̃-ʔa	i-bɨ-nɨ̃ʔa	ibu 
+right: -bɨ̃-rɨ̃-ʔa	i-bɨ-nɨ̃ʔa	ibu 
+head: yaʔa	ʔa 
+hear: ia7o*picu*N	yaʔĩǰoǰom 
+heart: -a-ʔõ-ša-bi-da 
+horn: -a-karã-sɨ̃	akara*s3* 
+1 sg.: o5	õn 
+I: o5	õn 
+kill: yaokakam	yaokam 
+knee: -ɨ̃ŋ-ʔa	3*N7a	yɨ̃ɲ-ʔa 
+be knowledgeable: itaybit	wetaybit 
+know: itaybit	wetaybit 
+leaf: -d-ɨp	d3p 
+lie: po-ʔi 
+lie down: po-ʔi 
+liver: -i-p-sa	-k-sa	iopsa 
+long: -beren 
+head louse: kip 
+louse: kip 
+male: a-ɲo-kat-kat 
+man: wɨ̃y-ǰɨ-yɨ̃ 
+many: ade 
+much: ade 
+multiple: ade 
+several: ade 
+moon: ka-ši	ka-ši-a-ʔat 
+hill: co7a	čo-ʔa 
+mountain: co7a	čo-ʔa 
+mouth: i-bi 
+name: b3tit	i-bɨ-tet 
+title: b3tit	i-bɨ-tet 
+neck: -a-ɲo-bɨ 
+new: i-isɨ	is3 
+night: i-ši-ma	ixima 
+nighttime: i-ši-ma	ixima 
+nose: na-bɨ̃	tabu*	tã-bɨ 
+adulterous: p3N	pũg2 
+one: p3N	pũg2 
+single: p3N	pũg2 
+that: p3N	pũg2 
+the: p3N	pũg2 
+unprincipled: p3N	pũg2 
+human: wɨ̃y-ǰɨ-yɨ̃ 
+human being: wɨ̃y-ǰɨ-yɨ̃ 
+person: wɨ̃y-ǰɨ-yɨ̃ 
+rain: mɨ-ba-ʔat 
+rainy weather: mɨ-ba-ʔat 
+red: i-pak-pɨk	ipekpɨk 
+root: -na-bɨ	ka-na-bɨ 
+round: -doy dey 
+sand: ka-ʔo-ri-rit 
+say: ʔe 
+see: i-ǰo-ǰom	yoyo	ǰop 
+seed: -da	ta 
+sit: šik-ʔi 
+hide: -še-ʔe	xe 
+skin: -še-ʔe	xe 
+sleep: i-še	i-šet	šeše-n 
+little: -istma	-ĩtma 
+small: -istma	-ĩtma 
+smallness: -istma	-ĩtma 
+smoke: -diŋ	daša-diɲ 
+star: ka-sop-ta	kasopta 
+rock: wita-ʔa	wita7a 
+stone: wita-ʔa	wita7a 
+sun: ka-ši	kaxi 
+swim: ǰedoɲ	ǰekodododon 
+tail: -d-oay-bɨ 
+2 sg: e-	e5	ẽn 
+thou: e-	e5	ẽn 
+you: e-	e5	ẽn 
+tongue: -kõ	iko* 
+tooth: n-ɨ̃y	tu*y 
+tree: ip 
+grind: xep3xep2	xepxep	šep-šep 
+two: xep3xep2	xepxep	šep-šep 
+go: šĩŋ-šĩŋ 
+walk: šĩŋ-šĩŋ 
+hot: kašiepi	t-ašip	tidašip 
+warm: kašiepi	t-ašip	tidašip 
+water: i-di-bi	idibi 
+1 pl. inc.: w3iyi	wɨy-ǰɨ 
+we: w3iyi	wɨy-ǰɨ 
+we₁: w3iyi	wɨy-ǰɨ 
+white: i-rɨt 
+whiteness: i-rɨt 
+who: abɨ 
+who?: abɨ 
+female: a-yat-at 
+woman: a-yat-at 
+yellow: i-pekpɨk 
+distant: wɨ̃y 
+far: wɨ̃y 
+dull: i-poši	ta-poši 
+heavy: i-poši	ta-poši 
+serious: i-poši	ta-poši 
+close: četẽɲ ma	češe 
+near: četẽɲ ma	češe 
+ner: četẽɲ ma	češe 
+salt: kawta 
+short: tao-apĩn 
+snake: pɨy-bɨ 
+thin: -erɨ̃n 
+wind: ka-bi-do 
+earthworm: nasɨ̃ŋ-pɨ 
+worm: nasɨ̃ŋ-pɨ 
+year: koato 
+2 pl.: ey-ǰɨ 
+ye: ey-ǰɨ 
+you all: ey-ǰɨ 
+3 pl.: ite-yɨ̃	iše-yɨ̃ 
+they: ite-yɨ̃	iše-yɨ̃ 
+when: pɨǰe 
+when?: pɨǰe 
+how: apẽn 
+how?: apẽn 
+some: pɨ̃ŋ-pɨ̃ŋ 
+few: ade ɲɨ 
+three: e-ba-pɨ̃ŋ	e3ba2pũg2 
+four: e-ba-dip-dip	e3ba2dip3dip2 
+five: pũg1 põg3 bi2	pɨ̃ŋ põŋ-bi	pɨ̃ɲ põɲbi 
+broad: i-erɨnboɲat 
+wide: i-erɨnboɲat 
+wideness: i-erɨnboɲat 
+fat: i-šep 
+thick: -adišiŋ 
+narrow: -erɨ̃nĩtma 
+child: be-kit-at 
+principal wife: -t-ay-ši 
+wife: -t-ay-ši 
+husband: -ktop	-t-op 
+his mother: -ši 
+mother: -ši 
+my mother: -ši 
+father: bay 
+his father: bay 
+my father: bay 
+animal: tɨ-mɨ̃n 
+forest: kadaidaidaʔibit 
+woods: kadaidaidaʔibit 
+branch: takɨ̃	taypa 
+stick: takɨ̃	taypa 
+fruit: -ʔa	tɨ-mɨ̃n-ʔa-ʔa 
+flower: -dit	tit 
+grass: kapĩ-i-dip 
+cord: boro-bɨ	i-ši-bɨ 
+rope: boro-bɨ	i-ši-bɨ 
+flesh: -ẽn 
+meat: -ẽn 
+grease: i-šep 
+fingernail: ibɨ-nɨ̃ 
+leg: dao	tao 
+wing: č-eɲe-ba 
+gut: -nɨ̃n-pɨ	tɨ̃n-pɨ 
+guts: -nɨ̃n-pɨ	tɨ̃n-pɨ 
+insides: -nɨ̃n-pɨ	tɨ̃n-pɨ 
+intestine: -nɨ̃n-pɨ	tɨ̃n-pɨ 
+intestines: -nɨ̃n-pɨ	tɨ̃n-pɨ 
+suck: diʔoʔm 
+spit: -bi-di 
+vomit: ǰedadadan 
+blow: imɨpow-ɨpow 
+breath: ǰe-pido-wat-wan 
+breathe: ǰe-pido-wat-wan 
+laugh: ǰeway-way-way 
+laughter: ǰeway-way-way 
+cogitate: ǰewaɨ̃yɲɨy 
+reflect: ǰewaɨ̃yɲɨy 
+think: ǰewaɨ̃yɲɨy 
+afraid: iparara 
+be afraid: iparara 
+fear: iparara 
+fright: iparara 
+alive: itaʔit 
+be alive: itaʔit 
+life: itaʔit 
+live: itaʔit 
+living: itaʔit 
+fight: ǰewešikšiɲ 
+hunt: ǰe-orok-oroŋ 
+beat: imɨpãm 
+hit: imɨpãm 
+strike: imɨpãm 
+cut: t-akat-kan 
+hack: t-akat-kan 
+dig: i-kɨ̃y-kotkon 
+tell lies: dapši	napapaʔɨkat 
+stand: čɨ̃ŋ-ʔi 
+turn: yabitoro 
+turn around: yabitoro 
+turn round: yabitoro 
+drop: ʔat-ʔan 
+fall: ʔat-ʔan 
+grasp: eǰoʔišik	čoʔi	ǰat 
+hold: eǰoʔišik	čoʔi	ǰat 
+hold in arm: eǰoʔišik	čoʔi	ǰat 
+squeeze: iya-i-him 
+wring: iya-i-him 
+rub: imɨ-wesɨ-wesɨm 
+wipe: imɨ-wesɨ-wesɨm 
+wash: i-wɨy-wɨy 
+wash clothes: i-wɨy-wɨy 
+push: imɨwɨn-ɨwɨn 
+shove: imɨwɨn-ɨwɨn 
+throw: imɨ̃n-mɨ̃n 
+bind: imɨkɨŋ-ɨkɨŋ 
+fasten: imɨkɨŋ-ɨkɨŋ 
+tie: imɨkɨŋ-ɨkɨŋ 
+tie up: imɨkɨŋ-ɨkɨŋ 
+sew: i-inɨ̃m-nɨ̃m 
+sing: ǰebibododon 
+have fun: kay-pat-pan 
+play: kay-pat-pan 
+float: -ǰe-bok-bok 
+brook: i-di-bi 
+river: i-di-bi 
+stream: i-di-bi 
+ocean: t-i-boŋ-at-ti	t-i-boɲ-ati 
+sea: t-i-boŋ-at-ti	t-i-boɲ-ati 
+dust: ka-diŋ	kawi-diŋ 
+fog: ka-bi-diŋ 
+sky: ka-bi	kaʔ-bi 
+ice: -ʔa 
+blaze: i-pik 
+burn: i-pik 
+day: ka-bi-a 
+daylight: ka-bi-a 
+daytime: ka-bi-a 
+bad: šipat ɲɨ 
+evil: šipat ɲɨ 
+rot: -kẽrẽ 
+rotten: -kẽrẽ 
+dirty: -okok 
+filthy: -okok 
+soiled: -okok 
+straight: -čɨ̃ŋ 
+smooth: -korop	-sẽm 
+damp: -direm	iši 
+wet: -direm	iši 
+right side: i-baʔat	wɨybaat 
+left: -baʔĩŋ	wɨybaʔɨ̃ɲat 
+in: -pi 
+inside: -pi 

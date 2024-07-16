@@ -1,0 +1,307 @@
+all: -ɬamok-ɬoho 
+every: -ɬamok-ɬoho 
+ash: tahap 
+ashes: tahap 
+bark: yamit impehik 
+big: -yowea 
+bigness: -yowea 
+large: -yowea 
+bird: nata 
+bite: -takɬ-eyi 
+black: -pais-iam 
+blood: ema 
+bone: -ithčipuk 
+breast: namanku	nime 
+breasts: namanku	nime 
+claw: -aphehik 
+nail: -aphehik 
+talon: -aphehik 
+cloud: yiphopaiya 
+cold: -somaŋyi 
+come: -ky-ithy-ikme 
+come from: -ky-ithy-ikme 
+be dead: -kyitsip-kyi	ky~iciph~owu	ky~icipky~i 
+dead: -kyitsip-kyi	ky~iciph~owu	ky~icipky~i 
+die: -kyitsip-kyi	ky~iciph~owu	ky~icipky~i 
+dog: simhiN	simhiŋ 
+drink: -yin-či	yinCi 
+dry: -yimaka-iyi 
+ear: -haikuk	appaiku	haiku 
+earth: ɬapup 
+ground: ɬapup 
+land: ɬapup 
+soil: ɬapup 
+eat: -to-kyi 
+egg: -apuk 
+eye: -aktik	akta	akti 
+feather: -wa 
+fire: taɬa 
+fish: kilasma 
+fly: -ky-impa-iyi 
+fly v.: -ky-impa-iyi 
+foot: -minik 
+full: -lan-owu	ky~ipsasCi 
+give: -mes-či 
+good: -tas-ik 
+green: yapakmate 
+hair: -wa 
+hand: -mik	ame	iNmi 
+left hand: -mik	ame	iNmi 
+right: -mik	ame	iNmi 
+head: -patik 
+hear: -liŋa-iyi	liNgaiyi 
+heart: wanneya 
+horn: -kyipitik	inky~etik	inky~ibitak 
+1 sg.: emehe	koo 
+I: emehe	koo 
+kill: -ky-akha-iyi 
+knee: -tapnik	tapni 
+be knowledgeable: -yasiŋko 
+know: -yasiŋko 
+leaf: a-wa	awa	yantawa 
+lie: -yitn-eyi 
+lie down: -yitn-eyi 
+liver: -hik-hik	hikh~i	iNhikh~i 
+long: -winnakte 
+head louse: petim 
+louse: petim 
+male: enɬit 
+man: aksak	enɬit 
+many: -ɬamok 
+much: -ɬamok 
+multiple: -ɬamok 
+several: -ɬamok 
+flesh: -apitik 
+meat: -apitik 
+moon: piltin 
+hill: inkyiɬe	inky~i8le 
+mountain: inkyiɬe	inky~i8le 
+mouth: -atoŋ 
+name: -wisaia	wisaia 
+title: -wisaia	wisaia 
+neck: -yispuk 
+new: -athnankuk	ha8nankuk 
+night: a8ta	athtaa 
+nighttime: a8ta	athtaa 
+nose: -waihik	iNwaihi	waihi 
+adulterous: 8lama	thlama 
+one: 8lama	thlama 
+single: 8lama	thlama 
+that: 8lama	thlama 
+the: 8lama	thlama 
+unprincipled: 8lama	thlama 
+human: aksak	enɬit 
+human being: aksak	enɬit 
+person: aksak	enɬit 
+rain: mameyi 
+rainy weather: mameyi 
+red: -yithwas-e 
+path: amai 
+road: amai 
+route: amai 
+root: -kyip-minik 
+round: -yakye 
+sand: yinkamith 
+say: -taha 
+see: -wita-iyi	witaiyi 
+seed: aktik 
+sit: -h-eyi 
+hide: -empehik	iNyimpehik 
+skin: -empehik	iNyimpehik 
+sleep: -tin-kyi 
+little: -kyitsi 
+small: -kyitsi 
+smallness: -kyitsi 
+smoke: etin 
+star: ap-yowa 
+rock: mitaimaN	mitaimaŋ 
+stone: mitaimaN	mitaimaŋ 
+sun: him	ikhim 
+swim: -m-eyi yiŋmin 
+tail: epakyik 
+2 sg: i8Cip	ky~el8liNky~ip	ɬiyi	ɬiyi-p 
+thou: i8Cip	ky~el8liNky~ip	ɬiyi	ɬiyi-p 
+you: i8Cip	ky~el8liNky~ip	ɬiyi	ɬiyi-p 
+tongue: -athkuk	a8ku	aha8ku 
+tooth: -maak	iNma	ma 
+tree: yamit 
+grind: -anit	anit	kanit 
+two: -anit	anit	kanit 
+go: -ɬiŋ-kyi 
+walk: -ɬiŋ-kyi 
+hot: yama miɬan-ma 
+warm: yama miɬan-ma 
+water: yiNmin	yiŋmin 
+1 pl. inc.: iNmehe	inniNko 
+we: iNmehe	inniNko 
+we₁: iNmehe	inniNko 
+what: yaksa 
+white: -mopa-iya 
+whiteness: -mopa-iya 
+female: kilana 
+woman: kilana 
+yellow: -yatiktama 
+distant: tiyepe 
+far: tiyepe 
+dull: -yintiɬi 
+heavy: -yintiɬi 
+serious: -yintiɬi 
+close: kyito 
+near: kyito 
+ner: kyito 
+salt: yasik 
+short: -yakwate 
+snake: yewa 
+thin: -ky-ithyo-kyi 
+wind: ap-yiam	ithky-aha-iam 
+earthworm: koniŋmaktik apto 
+worm: koniŋmaktik apto 
+year: ap-yiam 
+2 pl.: kyelɬiŋkyi-p 
+ye: kyelɬiŋkyi-p 
+you all: kyelɬiŋkyi-p 
+where: hathko 
+where?: hathko 
+how: hathko 
+how?: hathko 
+some: n--kha 
+few: kyits-o 
+three: -antan-ɬama	antanthlama 
+four: howugnikha	howuk-n--kha 
+five: thlamemik	ɬam-e-mik 
+broad: paihe 
+wide: paihe 
+wideness: paihe 
+fat: pithmuk 
+thick: -yintiɬi 
+narrow: -tkuk 
+child: sakyaa 
+principal wife: -tawa 
+wife: -tawa 
+husband: -tawa 
+his mother: inkyin 
+mother: inkyin 
+my mother: inkyin 
+father: -yapam 
+his father: -yapam 
+my father: -yapam 
+animal: aksak nohak 
+forest: nathma 
+woods: nathma 
+branch: ektoŋ 
+stick: ektoŋ 
+fruit: ik-yithna 
+flower: panakte ithnamuk 
+grass: paat 
+cord: tama 
+rope: tama 
+grease: pithmuk 
+fingernail: ik-mopaia -aphehik 
+leg: -ithčipuk 
+wing: ɬimpinik 
+gut: nokathwa 
+guts: nokathwa 
+insides: nokathwa 
+intestine: nokathwa 
+intestines: nokathwa 
+back: -akpuk 
+suck: -petsis-či 
+spit: -ki-lpats-eyi -yimanaŋ 
+vomit: -yikɬ-eyi 
+blow: -watikhap-kyi 
+breath: -ky-inn-ama 
+breathe: -ky-inn-ama 
+laugh: -ky-iktiŋ-maha 
+laughter: -ky-iktiŋ-maha 
+cogitate: -ki-lkyitam-kyi--wathwuk 
+reflect: -ki-lkyitam-kyi--wathwuk 
+think: -ki-lkyitam-kyi--wathwuk 
+smell: -liŋa-iyi 
+sniff: -liŋa-iyi 
+afraid: -kyika-iyi 
+be afraid: -kyika-iyi 
+fear: -kyika-iyi 
+fright: -kyika-iyi 
+alive: yinnakte -neŋyak 
+be alive: yinnakte -neŋyak 
+life: yinnakte -neŋyak 
+live: yinnakte -neŋyak 
+living: yinnakte -neŋyak 
+fight: -ky-impakha-iyi 
+hunt: -mimpak-wukme 
+beat: -tikpoŋ-kyi 
+hit: -tikpoŋ-kyi 
+strike: -tikpoŋ-kyi 
+cut: -yakten-či 
+hack: -yakten-či 
+cut open: -ky-inw-eyi 
+split: -ky-inw-eyi 
+pierce: -ki-lyikɬak-yi 
+stab: -ki-lyikɬak-yi 
+dig: -mitm-eyi 
+tell lies: -wančik amyaa 
+stand: -kyakn-aha 
+turn: -ye-kis-či 
+turn around: -ye-kis-či 
+turn round: -ye-kis-či 
+drop: -tiŋ-kyi 
+fall: -tiŋ-kyi 
+grasp: -m-eyi 
+hold: -m-eyi 
+hold in arm: -m-eyi 
+squeeze: ki-lyitsomaŋ-kyi 
+wring: ki-lyitsomaŋ-kyi 
+rub: -tathnyias-eha 
+wipe: -tathnyias-eha 
+wash: -li-kyi yiŋmin 
+wash clothes: -li-kyi yiŋmin 
+push: -yiŋ-kyi 
+shove: -yiŋ-kyi 
+throw: -yikna-iyi 
+bind: -tit-kyi 
+fasten: -tit-kyi 
+tie: -tit-kyi 
+tie up: -tit-kyi 
+sew: -yitnak-yi 
+count: -ki-lyitsat-či 
+enumerate: -ki-lyitsat-či 
+number: -ki-lyitsat-či 
+tally: -ki-lyitsat-či 
+sing: -minaikmas-či 
+have fun: -new-eha 
+play: -new-eha 
+float: sokyi yiŋmin 
+flow: -ɬiŋ-kyi 
+brook: elwata	watsam 
+river: elwata	watsam 
+stream: elwata	watsam 
+lake: ik-yakyeŋ-waiam 
+dust: ɬapup anik 
+fog: tiyam etin 
+sky: netin 
+ice: yiam apuk 
+blaze: -mit-kyi 
+burn: -mit-kyi 
+day: ik-him 
+daylight: ik-him 
+daytime: ik-him 
+bad: -samčik 
+evil: -samčik 
+rot: -tahap-kyi 
+rotten: -tahap-kyi 
+dirty: -yitsi 
+filthy: -yitsi 
+soiled: -yitsi 
+straight: -pew-owu 
+sharp: -hamtik 
+blunt: meko a-hamtik 
+damp: -yes-owu 
+wet: -yes-owu 
+correct: -pew-owu 
+right side: -yinnakta-makɬa 
+left: -saŋkalwe 
+in: kanyi 
+inside: kanyi 
+and: anhan	hahan	kyinhan 
+if: ankuk 
+because: hakte 

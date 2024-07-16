@@ -1,0 +1,276 @@
+all: péd 
+every: péd 
+ash: də̀bə́r 
+ashes: də̀bə́r 
+bark: ɓogòón 
+abdomen: giǯam	gègən 
+belly: giǯam	gègən 
+big: kàǯ	ǯami 
+bigness: kàǯ	ǯami 
+large: kàǯ	ǯami 
+bird: bàraŋ	dɔ̀kɔ̀ṛiyà	gubay	màgə̀m-bə̀ə́ə̀m	žɔ̀mǯɔ̀m	ɗèrí 
+bite: gəd 
+black: dəlmìí	kole 
+blood: ba 
+bone: guy	gùuy	hu 
+breast: gaw	gwam	gàaw 
+breasts: gaw	gwam	gàaw 
+cloud: ubəy 
+cold: da 
+come: o	ò 
+come from: o	ò 
+be dead: ma 
+dead: ma 
+die: ma 
+dog: ga	gá 
+drink: he	hè	naihe 
+dry: òǯ 
+ear: hamam	him	lurə̀əɲ 
+eat: lagəm	wom	wəm	ɓóṛ 
+egg: ŋàá	ŋã 
+eye: tom	tuw3r	tùwə́ṛ 
+feather: gurə́ 
+fire: d3w	do	dəw 
+fish: do	doʼo	dòo 
+foot: dègə́l 
+full: an 
+give: tàːg 
+good: ele	éd 
+green: ɓə̀ə́w 
+hair: gudul 
+hand: ge5	geɲ	ginam 
+left hand: ge5	geɲ	ginam 
+right: ge5	geɲ	ginam 
+head: degum	dəg 
+hear: do	ɗo 
+heart: tùwə́ṛ 
+horn: badubo	bá-dùbò	dùbò 
+1 sg.: nə 
+I: nə 
+kill: naǯem	áǯ 
+knee: gub	gùb 
+be knowledgeable: hàn 
+know: hàn 
+leaf: awh3ma	àáw-həma 
+liver: telu	tèlú 
+long: ǯàmíì 
+head louse: ngirsa 
+louse: ngirsa 
+male: goón	num 
+man: gon	gun 
+many: ŋai	ŋáɲ 
+much: ŋai	ŋáɲ 
+multiple: ŋai	ŋáɲ 
+several: ŋai	ŋáɲ 
+flesh: dòn 
+meat: dòn 
+moon: dir	də́ṛ 
+hill: dei 
+mountain: dei 
+mouth: bugum	bə̀g 
+name: him 
+title: him 
+neck: geram	geéṛ 
+new: kam3n	kàmə́ə̀n 
+night: muni	mur3n	mùrə́ə̀n 
+nighttime: muni	mur3n	mùrə́ə̀n 
+nose: hoɲo	hun	hùn 
+not: ə̀ə́y 
+adulterous: m3n	man	mon	məə̀n 
+one: m3n	man	mon	məə̀n 
+single: m3n	man	mon	məə̀n 
+that: m3n	man	mon	məə̀n 
+the: m3n	man	mon	məə̀n 
+unprincipled: m3n	man	mon	məə̀n 
+human: gon	gun 
+human being: gon	gun 
+person: gon	gun 
+rain: belan	bə̀làn-og-dú	náːm-bə̀làn 
+rainy weather: belan	bə̀làn-og-dú	náːm-bə̀làn 
+red: pà 
+path: bom 
+road: bom 
+route: bom 
+root: həraw 
+sand: kəǯaŋ 
+say: ka 
+see: ka	kà 
+seed: bə́ṛ-ǯul-dú 
+sit: əɲ kə̀lé 
+hide: dar	daṛ	hum 
+skin: dar	daṛ	hum 
+sleep: nun	əɲ nùn 
+little: gòǯíì	mə̀níì 
+small: gòǯíì	mə̀níì 
+smallness: gòǯíì	mə̀níì 
+smoke: hàw 
+star: heru	herú 
+rock: d3y	də̀əy 
+stone: d3y	də̀əy 
+sun: deo	dew 
+swim: ŋgál 
+tail: bá muro	muro 
+tongue: duj	dùǯ 
+tooth: anam	hin	hìín 
+tree: aw 
+grind: ehe	hE	hɛɛ̀	ya 
+two: ehe	hE	hɛɛ̀	ya 
+water: nam	náːm 
+1 pl. inc.: dì 
+we: dì 
+we₁: dì 
+white: duráy 
+whiteness: duráy 
+female: dèem	dèm 
+woman: dèem	dèm 
+yellow: dàraɲ	màraɲ 
+distant: dê	kə̀yàw 
+far: dê	kə̀yàw 
+dull: nəg 
+heavy: nəg 
+serious: nəg 
+close: goi	gɔ̀ɔ́ɲ 
+near: goi	gɔ̀ɔ́ɲ 
+ner: goi	gɔ̀ɔ́ɲ 
+salt: kàag 
+short: gòǯíì 
+snake: dìləm	hirə	kàgə́èm	kɔ	máw	səə̀m	wə́-dè-wə̀ṛ	wə́-tèel	wə́-wàgwág 
+thin: larə́m 
+wind: gàːl 
+year: əlay 
+3 sg.: ɗaàn 
+he: ɗaàn 
+she: ɗaàn 
+2 pl.: nì 
+ye: nì 
+you: nì 
+you all: nì 
+3 pl.: kə 
+they: kə 
+three: sup	suùb 
+four: uri	woli	wəri 
+five: siñ	siɲ	usi	ùsìɲ 
+broad: ɓə̀l 
+wide: ɓə̀l 
+wideness: ɓə̀l 
+fat: hɔːn 
+thick: ɗóːṛ 
+narrow: míːṛ 
+child: moimene	mə̀əɲ 
+principal wife: ǯə̀mà 
+wife: ǯə̀mà 
+husband: dèemtə̀əə̀d	tə̀əə̀d 
+his mother: gun yó	yó 
+mother: gun yó	yó 
+my mother: gun yó	yó 
+father: gun ə̀wə̀ṛ	ə̀wə̀ṛ 
+his father: gun ə̀wə̀ṛ	ə̀wə̀ṛ 
+my father: gun ə̀wə̀ṛ	ə̀wə̀ṛ 
+animal: bá	pə̀lmí 
+forest: màm 
+woods: màm 
+branch: àáw-bə̀rà 
+stick: àáw-bə̀rà 
+fruit: də̀w 
+flower: huǯ 
+grass: aáǯ	aǯe 
+cord: ha 
+rope: ha 
+grease: hɔːn 
+claw: geɲ-pùlə́l-dú	pulo 
+fingernail: geɲ-pùlə́l-dú	pulo 
+nail: geɲ-pùlə́l-dú	pulo 
+leg: dègə́l	haŋanam 
+wing: pə̀rá	ɗèrí pə̀rá 
+gut: gun nùumdòó	nùumdòó 
+guts: gun nùumdòó	nùumdòó 
+insides: gun nùumdòó	nùumdòó 
+intestine: gun nùumdòó	nùumdòó 
+intestines: gun nùumdòó	nùumdòó 
+back: tèṛ 
+suck: lag 
+spit: ɓi 
+vomit: wabəl 
+blow: pò 
+breath: pə̀g-púl 
+breathe: pə̀g-púl 
+laugh: gaǯ 
+laughter: gaǯ 
+cogitate: ɗiməṛ 
+reflect: ɗiməṛ 
+think: ɗiməṛ 
+smell: hunən 
+sniff: hunən 
+afraid: laɲgàn 
+be afraid: laɲgàn 
+fear: laɲgàn 
+fright: laɲgàn 
+alive: əɲ 
+be alive: əɲ 
+life: əɲ 
+live: əɲ 
+living: əɲ 
+fight: aǯə́r	kə̀ràw 
+hunt: ǯàwə́ṛ 
+beat: lebu 
+hit: lebu 
+strike: lebu 
+cut: rég 
+hack: rég 
+cut open: gad 
+split: gad 
+dig: gál	hud	ɓə̀l 
+lie: bələ 
+lie down: bələ 
+tell lies: bələ 
+stand: əɲ wùlé 
+drop: pogel	àb 
+fall: pogel	àb 
+grasp: múg 
+hold: múg 
+hold in arm: múg 
+rub: lùud 
+wipe: hed 
+wash: pəl 
+wash clothes: pəl 
+push: tɔŋəl	ɓəd 
+shove: tɔŋəl	ɓəd 
+throw: ga 
+bind: gərəɲ	ǯə̀w 
+fasten: gərəɲ	ǯə̀w 
+tie: gərəɲ	ǯə̀w 
+tie up: gərəɲ	ǯə̀w 
+sew: kub 
+count: mboǯ 
+enumerate: mboǯ 
+number: mboǯ 
+tally: mboǯ 
+sing: kù də̀ṛ 
+have fun: terí 
+play: terí 
+brook: ba	kwan 
+river: ba	kwan 
+stream: ba	kwan 
+dust: də̀bə́r 
+fog: mə̀lmə́l 
+sky: bə̀làn	mán-wùlé 
+blaze: ṛuǯ 
+burn: ṛuǯ 
+day: lulu	ɲǯa 
+daylight: lulu	ɲǯa 
+daytime: lulu	ɲǯa 
+bad: dai	érə̀ə́ɲ 
+evil: dai	érə̀ə́ɲ 
+rot: loːṛ 
+rotten: loːṛ 
+dirty: gùɲə̀l 
+filthy: gùɲə̀l 
+soiled: gùɲə̀l 
+sharp: yə̀w 
+blunt: gəə̀m 
+damp: lawə̀ə́ṛ 
+wet: lawə̀ə́ṛ 
+correct: bòóm-dú 
+right side: golagən 
+left: kə̀yə̀gə̀n 
+with: kaàn 

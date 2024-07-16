@@ -1,0 +1,333 @@
+all: kollha 
+every: kollha 
+ash: rmied 
+ashes: rmied 
+bark: qoxra 
+abdomen: żaqq 
+belly: żaqq 
+big: kbir 
+bigness: kbir 
+large: kbir 
+bird: għasfur 
+bite: gidem 
+black: iswed 
+blood: dEm	demm 
+bone: Xadma	għadma 
+breast: ZeyZa	sidEr	sider	ħdan	ħodon	żejża 
+breasts: ZeyZa	sidEr	sider	ħdan	ħodon	żejża 
+cloud: sħaba 
+cold: kiesaħ 
+come: ji	tiji	ġie 
+come from: ji	tiji	ġie 
+be dead: miet	mit	tmut 
+dead: miet	mit	tmut 
+die: miet	mit	tmut 
+dog: kElp	kelb 
+drink: Sorob	Sorp	xorob 
+dry: xott	xotta 
+ear: widna 
+earth: ħamrija 
+ground: ħamrija 
+land: ħamrija 
+soil: ħamrija 
+eat: kiel 
+egg: bajda 
+eye: Xan	Xayn	għajn 
+feather: rixa 
+fire: nar 
+fish: Xuta	ħuta 
+fly: tar 
+fly v.: tar 
+foot: riġel	sieq 
+full: mimli	mimlija	smin 
+give: tal-	ta’ 
+good: tajjeb 
+green: aħdar 
+hair: xagħar 
+hand: id	it 
+left hand: id	it 
+right: id	it 
+head: ras 
+hear: sama7	sema’	tisma 
+heart: qalb 
+horn: 7arn	arn	qarn 
+1 sg.: jien	jiena	yiEnE	yin 
+I: jien	jiena	yiEnE	yin 
+kill: qatel 
+knee: irkoba	rkobba	rkoppa 
+be knowledgeable: għaf 
+know: għaf 
+leaf: wEr7a	wer7a	werqa 
+liver: fwiEt	fwid	fwied	ifwda 
+long: twil 
+head louse: 7amla	amla	qamla 
+louse: 7amla	amla	qamla 
+male: raġel 
+man: pErsuna	persuna	uman 
+many: ħafna 
+much: ħafna 
+multiple: ħafna 
+several: ħafna 
+moon: qamar 
+hill: għolja	muntanja	muntanya	muntany~a 
+mountain: għolja	muntanja	muntanya	muntany~a 
+mouth: ħalq 
+name: isEm	isem 
+title: isEm	isem 
+neck: għonq 
+new: gdida	jdid	jdit	ġdid 
+night: lEl	lejl	leyl 
+nighttime: lEl	lejl	leyl 
+nose: imniEXEr	imniXer	mnieħer 
+not: ma +x	mhux 
+adulterous: waħda	wiEXEt	wiXed	wieħed 
+one: waħda	wiEXEt	wiXed	wieħed 
+single: waħda	wiEXEt	wiXed	wieħed 
+that: dak	dawk	dik 
+the: waħda	wiEXEt	wiXed	wieħed 
+unprincipled: waħda	wiEXEt	wiXed	wieħed 
+human: pErsuna	persuna	uman 
+human being: pErsuna	persuna	uman 
+person: pErsuna	persuna	uman 
+rain: xita 
+rainy weather: xita 
+red: aħmar 
+path: modiya	tri7	triq 
+road: modiya	tri7	triq 
+route: modiya	tri7	triq 
+root: għerq	nisel 
+round: tond 
+sand: ramel 
+say: qal 
+see: ra 
+seed: żerriegħa 
+sit: poġġa 
+hide: jilda	oSra	ġilda 
+skin: jilda	oSra	ġilda 
+sleep: raqad 
+little: żgħir	żgħira 
+small: żgħir	żgħira 
+smallness: żgħir	żgħira 
+smoke: duħħan 
+star: kEwkba	kewba	kewkba	stilla 
+rock: Xajra	jebla	ġebla	ħaġra 
+stone: Xajra	jebla	ġebla	ħaġra 
+sun: SEmS	SemS	xemx 
+swim: għam 
+tail: demb 
+this: dan	dawn	din 
+2 sg: int	inti 
+thou: int	inti 
+you: int	inti 
+tongue: ilsiEn	ilsien	lsin 
+tooth: sina	sinna 
+tree: sijra	siġra 
+grind: tnEn	tnejn	tneyn 
+two: tnEn	tnejn	tneyn 
+go: mexa 
+walk: mexa 
+hot: sħun 
+warm: sħun 
+water: ilma 
+1 pl. inc.: aXna	aħna 
+we: aXna	aħna 
+we₁: aXna	aħna 
+what: xiex 
+white: abjad	bajda 
+whiteness: abjad	bajda 
+who: min 
+who?: min 
+female: mara 
+woman: mara 
+yellow: isfar 
+distant: bogħod 
+far: bogħod 
+dull: tqil tqila 
+heavy: tqil tqila 
+serious: tqil tqila 
+close: ħdejn 
+near: ħdejn 
+ner: ħdejn 
+salt: melħ 
+short: qasir	qasira 
+snake: serp 
+thin: rqiq	rqiqa 
+wind: riħ 
+earthworm: dudu 
+worm: dudu 
+year: sena 
+3 sg.: hu	huwa 
+he: hu	huwa 
+she: hu	huwa 
+2 pl.: intom 
+ye: intom 
+you all: intom 
+3 pl.: huma 
+they: huma 
+here: hawn 
+there: hemm 
+where: fejn 
+where?: fejn 
+when: meta 
+when?: meta 
+how: kif 
+how?: kif 
+some: xi 
+few: ftit 
+other: ieħor	oħra	oħrajn 
+three: tlieta 
+four: erbgħa 
+five: ħamsa 
+broad: wiesa’ 
+wide: wiesa’ 
+wideness: wiesa’ 
+fat: oħxon 
+thick: oħxon	ħoxna 
+narrow: dejjaq	dejqa 
+child: tifel	tifla 
+principal wife: mara 
+wife: mara 
+husband: raġel 
+his mother: omm 
+mother: omm 
+my mother: omm 
+father: missier 
+his father: missier 
+my father: missier 
+animal: annimal 
+forest: foresta 
+woods: foresta 
+branch: bastun	stikka	ħatar 
+stick: bastun	stikka	ħatar 
+fruit: frott 
+flower: fjura	warda 
+grass: ħaxix 
+cord: ħabel 
+rope: ħabel 
+flesh: laħam 
+meat: laħam 
+grease: oħxon 
+claw: difer 
+fingernail: difer 
+nail: difer 
+leg: riġel	sieq 
+arm: id 
+wing: ġewnaħ	ġwejnħa 
+gut: bajd	msaren	musrana 
+guts: bajd	msaren	musrana 
+insides: bajd	msaren	musrana 
+intestine: bajd	msaren	musrana 
+intestines: bajd	msaren	musrana 
+back: dahar 
+suck: reda’ 
+spit: beżaq 
+vomit: qala’	remetta 
+blow: nefah 
+breath: ħa nifs i.e. 
+breathe: ħa nifs i.e. 
+laugh: daħaq 
+laughter: daħaq 
+cogitate: ħaseb 
+reflect: ħaseb 
+think: ħaseb 
+smell: xamm 
+sniff: xamm 
+afraid: beża’ 
+be afraid: beża’ 
+fear: beża’ 
+fright: beża’ 
+alive: għex 
+be alive: għex 
+life: għex 
+live: għex 
+living: għex 
+fight: ġġieled 
+hunt: kaċċa 
+beat: laqat 
+hit: laqat 
+strike: laqat 
+cut: qata’ 
+hack: qata’ 
+cut open: qassam 
+split: qassam 
+pierce: sabbat 
+stab: sabbat 
+scratch: giref 
+dig: ħaffer 
+lie: ntelaq 
+lie down: ntelaq 
+tell lies: ntelaq 
+stand: qam bil-wieqfa 
+turn: dar 
+turn around: dar 
+turn round: dar 
+drop: waqa’ 
+fall: waqa’ 
+grasp: żżomm 
+hold: żżomm 
+hold in arm: żżomm 
+squeeze: tgħaffeġ 
+wring: tgħaffeġ 
+rub: tħakk 
+wipe: timsaħ 
+wash: taħsel 
+wash clothes: taħsel 
+pull: tiġbed 
+push: timbutta 
+shove: timbutta 
+throw: titfa’ 
+bind: qafel 
+fasten: qafel 
+tie: qafel 
+tie up: qafel 
+sew: hiet 
+count: għadd 
+enumerate: għadd 
+number: għadd 
+tally: għadd 
+sing: għana 
+have fun: tilgħab 
+play: tilgħab 
+float: żamm fil-wiċċ 
+flow: ġerra 
+freeze: tiksaħ 
+swell: tintefaħ 
+brook: xmara 
+river: xmara 
+stream: xmara 
+lake: għadira 
+ocean: baħar 
+sea: baħar 
+dust: trab 
+fog: ċpar 
+sky: sema’ 
+snow: silġ 
+ice: silġ 
+blaze: taħraq 
+burn: taħraq 
+day: nhar 
+daylight: nhar 
+daytime: nhar 
+old: antik	li għandhu ż-żmien	ta’ dari	ta’ żmien żemm żemm	xiħ 
+bad: ħażin 
+evil: ħażin 
+rot: mermer 
+rotten: mermer 
+dirty: maħmuġ 
+filthy: maħmuġ 
+soiled: maħmuġ 
+straight: dritt 
+sharp: taqta’ 
+blunt: ma taqtax 
+smooth: lixx	lixxa 
+damp: mxarrab 
+wet: mxarrab 
+correct: sewwa	sura	tajba	tajjeb 
+right side: lemin 
+left: xellug 
+at: sa	sal- 
+in: ġo	ġol- 
+inside: ġo	ġol- 
+with: ma	mal- 
+if: jekk 
+because: għax 

@@ -1,0 +1,341 @@
+all: όλα | όλοι	όλος 
+and: και 
+animal: ζώο 
+ashes: στάχτες | στάχτη 
+at: στο | σε 
+back: πλάτη 
+bad: κακό | κακός 
+bark: φλοιός 
+because: επειδή | γιατί	επειδή 
+belly: κοιλιά 
+big: μεγάλο | μεγάλος 
+bird: πουλί 
+bite: δαγκώνω 
+black: μαύρο | μαύρος 
+blood: αίμα 
+blow: φυσάω 
+bone: κόκκαλο | κόκαλο 
+breast: στήθος 
+breathe: αναπνέω | αναπνέω	ανασαίνω 
+burn: καίω 
+child: παιδί 
+cloud: σύννεφο 
+cold: κρύο | κρύος 
+come: έρχομαι | έρχομαι	ήρθα 
+correct: σωστό | σωστός 
+count: μετράω 
+cut: κόβω 
+day: μέρα 
+die: πεθαίνω 
+dig: σκάβω 
+dirty: βρώμικο | βρόμικος 
+dog: σκύλος 
+drink: πίνω 
+dry: στεγνό | ξερός	στεγνóς	στεγνός 
+dull: στομωμένο | βαρύς | στομωμένος 
+dust: σκόνη 
+earth: γη | γη	χώμα 
+ear: αφτί | αυτί	αφτί 
+eat: τρώω 
+egg: αυγό | αβγό	αυγό 
+eye: μάτι 
+fall: πέφτω 
+far: μακρυά | μακριά 
+father: πατέρας 
+fat (n.): λίπος 
+fear: φοβάμαι 
+feather: φτερό | πούπουλο	φτερό 
+few: λίγα | λίγοι 
+fight: πολεμώ | μαλώνω 
+fingernail: νύχι 
+fire: φωτιά 
+fish: ψάρι 
+five: πέντε 
+float: επιπλέω | επιπλέω	πλέω 
+flower: λουλούδι 
+flow: ρέω | τρέχω 
+fly (v.): πετάω 
+fog: ομίχλη 
+foot: πόδι 
+forest: δάσος 
+four: τέσσερα 
+freeze: παγώνω 
+fruit: φρούτο 
+full: γεμάτο | γεμάτος 
+give: δίνω 
+good: καλό | καλός 
+grass: γρασίδι | χορτάρι 
+green: πράσινο | πράσινος 
+guts: εντόσθια | εντόσθια	σπλάχνα 
+hair: τρίχα | μαλλιά	τρίχα 
+hand: χέρι 
+head: κεφάλι 
+heart: καρδιά 
+hear: ακούω 
+heavy: βαρύ | βαρύς 
+here: εδώ 
+he: αυτός 
+hit: χτυπάω | χτυπώ 
+hold: κρατώ | κρατάω 
+horn: κέρατο 
+how: πώς 
+hunt: κυνηγώ 
+husband: σύζυγος | άντρας	σύζυγος 
+ice: πάγος 
+if: αν | αν	εάν 
+in: μέσα 
+I: εγώ | εγώ	εμένα 
+kill: σκοτώνω 
+knee: γόνατο 
+know: ξέρω | γνωρίζω	ξέρω 
+lake: λίμνη 
+laugh: γελάω 
+leaf: φύλλο 
+left: αριστερά 
+leg: πόδι 
+lie: ξαπλώνω | ξάπλωνω	πέφτω | ξαπλώνω	πλαγιάζω 
+liver: συκώτι 
+live: ζω 
+long: μακρύ | μακρύς 
+louse: ψείρα 
+many: πολλά | πολλοί	πολύς 
+man: άντρας | άνθρωπος 
+meat: κρέας 
+moon: φεγγάρι | σελήνη	φεγγάρι 
+mother: μητέρα | μάνα	μητέρα 
+mountain: βουνό 
+mouth: στόμα 
+name: όνομα 
+narrow: στενό | στενός 
+near: κοντά 
+neck: λαιμός 
+new: καινούριο | καινούργιος	καινούριος	νέος 
+night: νύχτα 
+nose: μύτη 
+not: δεν | δε	δεν	μη 
+old: παλιό | παλιός 
+one: ένα | ένα	ένας 
+other: άλλα | άλλοι 
+person: άνθρωπος 
+play: παίζω 
+pull: τραβάω | τραβώ 
+push: σπρώχνω 
+rain: βροχή 
+red: κόκκινο | κόκκινος 
+right: δεξιά | χέρι 
+river: ποτάμι 
+road: δρόμος 
+root: ρίζα 
+rope: σχοινί 
+rotten: σάπιο | σάπιος 
+round: στρογγυλό | στρογγυλός 
+rub: τρίβω 
+salt: αλάτι 
+sand: άμμος 
+say: λέω | είπα	λέω | άμμος 
+scratch: ξύνω 
+sea: θάλασσα 
+seed: σπόρος 
+see: βλέπω 
+sew: ράβω 
+sharp: κοφτερό | κοφτερός 
+short: κοντό | κοντός 
+sing: τραγουδάω | τραγουδώ 
+sit: κάθομαι 
+skin: δέρμα 
+sky: ουρανός 
+sleep: κοιμάμαι 
+small: μικρό | μικρός 
+smell: μυρίζω 
+smoke: καπνός 
+smooth: λείο | λείος 
+snake: φίδι 
+snow: χιόνι 
+some: μερικά | μερικοί 
+spit: φτύνω 
+split: χωρίζω 
+squeeze: ζουλάω 
+stab: μαχαιρώνω 
+stand: στέκομαι 
+star: αστέρι | άστρο	αστέρι 
+stick: ραβδί | βέργα	ραβδί 
+stone: πέτρα 
+straight: ίσιο | ίσιος 
+suck: ρουφάω | ρουφώ 
+sun: ήλιος 
+swell: πρήζομαι | πρήζομαι	φουσκώνω 
+swim: κολυμπώ 
+tail: ουρά 
+that: εκείνο | εκείνο	εκείνος | ένα	ένας 
+there: εκεί 
+they: αυτοί 
+thick: χοντρό | παχύς	χοντρός 
+think: σκέφτομαι | νομίζω	σκέφτομαι 
+thin: λεπτό | λεπτός 
+this: αυτό | αυτό	αυτός 
+thou: εσύ | εσείς	εσύ 
+three: τρία 
+throw: πετάω | πετώ	ρίχνω 
+tie: δένω 
+tongue: γλώσσα 
+tooth: δόντι 
+tree: δέντρο 
+turn: γυρίζω 
+two: δύο 
+vomit: ξερνάω | ξερνώ 
+walk: περπατάω | πάω	περπατώ	πηγαίνω 
+warm: ζεστό | ζεστός 
+wash: πλένω 
+water: νερό 
+wet: υγρό | βρεγμένος	υγρός 
+we: εμείς 
+what: τι 
+when: πότε 
+where: πού 
+white: άσπρο | άσπρος	ασπρος 
+who: ποιος | ποιος	ποιός 
+wide: πλατύ | πλατύς	φαρδύς 
+wife: σύζυγος | γυναίκα	σύζυγος 
+wind: άνεμος | αέρας 
+wing: φτερό 
+wipe: σκουπίζω 
+with: με 
+woman: γυναίκα 
+worm: σκουλήκι 
+year: χρόνος 
+yellow: κίτρινο | κίτρινος 
+you: εσείς | εσείς	εσύ 
+every: όλοι	όλος 
+ash: στάχτη 
+abdomen: κοιλιά 
+bigness: μεγάλος 
+large: μεγάλος 
+breasts: στήθος 
+burn tr.: καίω 
+claw: νύχι 
+nail: νύχι 
+talon: νύχι 
+come from: έρχομαι	ήρθα 
+be dead: πεθαίνω 
+dead: πεθαίνω 
+ground: γη	χώμα 
+land: γη	χώμα 
+soil: γη	χώμα 
+fat: λίπος 
+fat n.: λίπος 
+grease: λίπος 
+lubricant: λίπος 
+oil: λίπος 
+fly: πετάω	πετώ 
+fly v.: πετάω	πετώ 
+left hand: χέρι 
+1 sg.: εγώ	εμένα 
+be knowledgeable: γνωρίζω	ξέρω 
+lie down: ξάπλωνω	πέφτω 
+head louse: ψείρα 
+male: άνδρας	άντρας 
+much: πολλοί	πολύς 
+multiple: πολλοί	πολύς 
+several: πολλοί	πολύς 
+flesh: κρέας 
+hill: βουνό 
+title: όνομα 
+nighttime: νύχτα 
+adulterous: ένα	ένας 
+single: ένα	ένας 
+the: ένα	ένας 
+unprincipled: ένα	ένας 
+human: άνθρωπος 
+human being: άνθρωπος 
+rainy weather: βροχή 
+path: δρόμος 
+route: δρόμος 
+hide: δέρμα 
+little: μικρός 
+smallness: μικρός 
+rock: πέτρα 
+2 sg: εσείς	εσύ 
+grind: δύο 
+go: πάω	περπατώ	πηγαίνω 
+hot: ζεστός 
+1 pl. inc.: εμείς 
+we₁: εμείς 
+whiteness: άσπρος	ασπρος 
+who?: ποιος	ποιός 
+female: γυναίκα 
+distant: μακριά 
+serious: βαρύς 
+close: κοντά 
+ner: κοντά 
+earthworm: σκουλήκι 
+3 sg.: αυτός 
+she: αυτός 
+2 pl.: εσείς 
+ye: εσείς 
+you all: εσείς 
+3 pl.: αυτοί 
+where?: πού 
+when?: πότε 
+how?: πώς 
+broad: πλατύς	φαρδύς 
+wideness: πλατύς	φαρδύς 
+principal wife: γυναίκα	σύζυγος 
+his mother: μάνα	μητέρα 
+my mother: μάνα	μητέρα 
+his father: πατέρας 
+my father: πατέρας 
+woods: δάσος 
+branch: βέργα	ραβδί 
+cord: σχοινί 
+arm: χέρι 
+gut: εντόσθια	σπλάχνα 
+insides: εντόσθια	σπλάχνα 
+intestine: εντόσθια	σπλάχνα 
+intestines: εντόσθια	σπλάχνα 
+breath: αναπνέω	ανασαίνω 
+laughter: γελάω 
+cogitate: νομίζω	σκέφτομαι 
+reflect: νομίζω	σκέφτομαι 
+sniff: μυρίζω 
+afraid: φοβάμαι 
+be afraid: φοβάμαι 
+fright: φοβάμαι 
+alive: ζω 
+be alive: ζω 
+life: ζω 
+living: ζω 
+beat: χτυπώ 
+strike: χτυπώ 
+hack: κόβω 
+cut open: χωρίζω 
+pierce: μαχαιρώνω 
+tell lies: ξαπλώνω	πλαγιάζω 
+turn around: γυρίζω 
+turn round: γυρίζω 
+drop: πέφτω 
+grasp: κρατάω 
+hold in arm: κρατάω 
+wring: ζουλάω 
+wash clothes: πλένω 
+shove: σπρώχνω 
+bind: δένω 
+fasten: δένω 
+tie up: δένω 
+enumerate: μετράω 
+number: μετράω 
+tally: μετράω 
+have fun: παίζω 
+brook: ποτάμι 
+stream: ποτάμι 
+ocean: θάλασσα 
+blaze: καίω 
+daylight: μέρα 
+daytime: μέρα 
+evil: κακός 
+rot: σάπιος 
+filthy: βρόμικος 
+soiled: βρόμικος 
+blunt: στομωμένος 
+damp: βρεγμένος	υγρός 
+right side: δεξιά 
+inside: μέσα 

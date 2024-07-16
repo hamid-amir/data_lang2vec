@@ -1,0 +1,147 @@
+all: kota 
+every: kota 
+ash: pona 
+ashes: pona 
+abdomen: kobi	kobi- 
+belly: kobi	kobi- 
+big: baNana	baŋana	gari 
+bigness: baNana	baŋana	gari 
+large: baNana	baŋana	gari 
+bird: manughu	manuxu 
+bite: kanata 
+black: naNiri	naŋiri	nunumini 
+blood: Naci	ŋatsi 
+bone: sipana	sipana- 
+breast: su	su- 
+breasts: su	su- 
+burn: [va]bu	vanaŋi 
+burn tr.: [va]bu	vanaŋi 
+cloud: kekao 
+cold: makobu	togo 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: bekeu 
+drink: ku	kuu 
+dry: vikomakareva 
+ear: taNina	taŋina- 
+earth: gomono 
+ground: gomono 
+land: gomono 
+soil: gomono 
+eat: bebau	tam 
+egg: panusu 
+eye: mata	mata- 
+fat: mariNi 
+fat n.: mariNi 
+grease: mariNi 
+lubricant: mariNi 
+oil: mariNi 
+feather: puata	puata- 
+fire: cai	dzai 
+fish: bosi 
+fly: burunu 
+fly v.: burunu 
+foot: rapina 
+good: daame	dame	komo 
+green: bubune 
+hair: punu	punu- 
+hand: numa	numa- 
+left hand: numa	numa- 
+right: numa	numa- 
+head: tope	tope- 
+hear: noNono	noŋono 
+1 sg.: na 
+I: na 
+kill: cuna	tsuna	vamate	venua 
+be knowledgeable: kuki	vonogu 
+know: kuki	vonogu 
+leaf: nana 
+liver: date	date- 
+long: gaarusu	garusu 
+head louse: ghutsu	xucu 
+louse: ghutsu	xucu 
+male: tamata 
+man: na	na-	tavana 
+flesh: kogana 
+meat: kogana 
+moon: madava 
+mouth: maNo	maŋo- 
+name: vasaNa	vasaŋa- 
+title: vasaNa	vasaŋa- 
+neck: kokoromo	kokoromo- 
+new: ghoom	xom 
+night: boNi	boŋi 
+nighttime: boNi	boŋi 
+nose: visu	visu-	vivici	vivitsi- 
+not: xinava 
+adulterous: kadaken	kedaken 
+one: kadaken	kedaken 
+single: kadaken	kedaken 
+that: nabo	nama	nana 
+the: kadaken	kedaken 
+unprincipled: kadaken	kedaken 
+human: na	na-	tavana 
+human being: na	na-	tavana 
+person: na	na-	tavana 
+rain: gharau	xarau 
+rainy weather: gharau	xarau 
+red: bubu	vivisiki 
+path: sanana 
+road: sanana 
+route: sanana 
+root: bagarana	vapopokana 
+sand: pitsi[ma] 
+say: dara	va 
+see: reghe	rexe 
+sit: gona	gonna 
+hide: kabunu	kabunu- 
+skin: kabunu	kabunu- 
+sleep: cerexe	macure	matsure	tsereghe 
+little: baki	kikinaki 
+small: baki	kikinaki 
+smallness: baki	kikinaki 
+smoke: daso 
+stand: cixom 
+star: pipito 
+rock: paraci	paratsi 
+stone: paraci	paratsi 
+swim: su	suu 
+tail: kokoreka 
+this: ie	nabee 
+2 sg: no	xam 
+thou: no	xam 
+you: no	xam 
+tongue: mea	mea- 
+tooth: nuki	nuki- 
+grind: tom	toom 
+two: tom	toom 
+go: vanavido 
+walk: vanavido 
+hot: vaipopore	visisiki 
+warm: vaipopore	visisiki 
+water: koromo 
+1 pl. inc.: gami	ghamam	ghata 
+we: gami	ghamam	ghata 
+we₁: gami	ghamam	ghata 
+what: hoa	sua 
+white: kekao 
+whiteness: kekao 
+who: hee	se	see 
+who?: hee	se	see 
+female: mono	moono 
+woman: mono	moono 
+yellow: kakarasa	temori 
+distant: mo gharusuna 
+far: mo gharusuna 
+dull: papataŋa 
+heavy: papataŋa 
+serious: papataŋa 
+salt: tsigo 
+short: kubunu	kukubuna[ki] 
+snake: koru 
+thin: to totogo 
+wind: puughuu 
+earthworm: koropita	mabo 
+worm: koropita	mabo 
+year: namare 

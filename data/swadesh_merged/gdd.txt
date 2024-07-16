@@ -1,0 +1,262 @@
+all: daŋán 
+every: daŋán 
+ash: taen 
+ashes: taen 
+abdomen: kazói	zazén 
+belly: kazói	zazén 
+big: mutén 
+bigness: mutén 
+large: mutén 
+bird: ma 
+bite: yaz|é	zutí 
+black: [mu]mum 
+blood: daz	daza	dazán 
+bone: dog	tiwon 
+breast: su	su: 
+breasts: su	su: 
+burn: memazí	nani	tun|i 
+burn tr.: memazí	nani	tun|i 
+cloud: tim|taen 
+cold: madíd	malás 
+come: iso	so 
+come from: iso	so 
+be dead: imat	mat 
+dead: imat	mat 
+die: imat	mat 
+dog: gaun 
+drink: imili	mili	milí 
+dry: dadág	dadúb	kazá	makaz 
+ear: taliNan	tiliNa	tiliŋan 
+eat: [y]aní 
+egg: ma patún 
+eye: mala	malan 
+feather: fufulún	sazón 
+fire: ja	ya 
+fish: iy	iy[e]	iye 
+fly: zou 
+fly v.: zou 
+full: fuam 
+good: gauái 
+green: bas 
+hair: zaun 
+hand: nima	niman	nimán 
+left hand: nima	niman	nimán 
+right: nima	niman	nimán 
+head: gatén 
+hear: iloN	loN	loŋ 
+1 sg.: Na	ŋa 
+I: Na	ŋa 
+kill: [su]fun|í	tezepasí 
+knee: dagun 
+be knowledgeable: loŋ 
+know: loŋ 
+leaf: zaun	zu	zun 
+lie: [y]en 
+lie down: [y]en 
+liver: aten	bubi	bubén 
+long: meláen 
+head louse: ut 
+louse: ut 
+male: tamol 
+man: tamol 
+moon: fuléi 
+hill: did 
+mountain: did 
+mouth: áwan 
+name: nean	ni	néan 
+title: nean	ni	néan 
+neck: biziwón	gudún	kelagún 
+new: faun 
+night: bo	tidom	tidóm 
+nighttime: bo	tidom	tidóm 
+nose: wi	win 
+adulterous: tai	taimon 
+one: tai	taimon 
+single: tai	taimon 
+that: a	me 
+the: tai	taimon 
+unprincipled: tai	taimon 
+human: tamol 
+human being: tamol 
+person: tamol 
+rain: ui 
+rainy weather: ui 
+red: dazán 
+path: dal 
+road: dal 
+route: dal 
+root: dabín	sisiún 
+sand: abúz	lul 
+say: bol	pai 
+see: nasi	nasí 
+sit: matál 
+hide: siliNo	siliNon	siliŋoń 
+skin: siliNo	siliNon	siliŋoń 
+sleep: doz 
+little: kamó	kiték 
+small: kamó	kiték 
+smallness: kamó	kiték 
+smoke: yá|kas 
+star: patui 
+rock: pat 
+stone: pat 
+sun: ad 
+swim: log 
+tail: win 
+tongue: balen	bali	balén 
+tooth: liwo	liwon 
+tree: ja 
+grind: azu	a|zú	zu 
+two: azu	a|zú	zu 
+go: la	toz 
+walk: la	toz 
+hot: fa	wa	wonanán 
+warm: fa	wa	wonanán 
+water: naz 
+1 pl. inc.: am	id 
+we: am	id 
+we₁: am	id 
+what: abáŋ	ait	te 
+white: kebazán 
+whiteness: kebazán 
+who: ítai 
+who?: ítai 
+female: pain 
+woman: pain 
+yellow: yaŋ 
+distant: makáiu 
+far: makáiu 
+dull: muzuán 
+heavy: muzuán 
+serious: muzuán 
+close: sisíz 
+near: sisíz 
+ner: sisíz 
+salt: sif 
+short: titúk	tukuzán 
+snake: mot 
+thin: zezáun 
+wind: tim 
+earthworm: gugui 
+worm: gugui 
+year: umáz 
+2 pl.: aŋ 
+ye: aŋ 
+you: aŋ 
+you all: aŋ 
+where: dómten	ŋan 
+where?: dómten	ŋan 
+when: saŋepte	saŋéptap 
+when?: saŋepte	saŋéptap 
+how: dodín 
+how?: dodín 
+other: ibén	ta 
+three: tol 
+four: pal 
+five: nimatai 
+broad: bebaŋán 
+wide: bebaŋán 
+wideness: bebaŋán 
+fat: numuzán 
+thick: metalún 
+narrow: sigisóg 
+principal wife: badám	iwón 
+wife: badám	iwón 
+husband: iwón 
+his mother: nen	tinán 
+mother: nen	tinán 
+my mother: nen	tinán 
+father: mam	tamán 
+his father: mam	tamán 
+my father: mam	tamán 
+forest: gazáŋ	pouz	yadám 
+woods: gazáŋ	pouz	yadám 
+branch: dagént	zá:en 
+stick: dagént	zá:en 
+fruit: patún 
+flower: moz 
+cord: mol 
+rope: mol 
+flesh: mudán 
+meat: mudán 
+grease: numuzán 
+wing: banín 
+gut: taen	teŋáen 
+guts: taen	teŋáen 
+insides: taen	teŋáen 
+intestine: taen	teŋáen 
+intestines: taen	teŋáen 
+back: mesapén 
+suck: musí 
+spit: yasú	yusuní 
+vomit: lu 
+blow: fazé	fu	pu	wi 
+breath: uz	yaeŋ 
+breathe: uz	yaeŋ 
+laugh: di 
+laughter: di 
+cogitate: kánkan 
+reflect: kánkan 
+think: kánkan 
+afraid: fúfu	zez	zut 
+be afraid: fúfu	zez	zut 
+fear: fúfu	zez	zut 
+fright: fúfu	zez	zut 
+alive: bas 
+be alive: bas 
+life: bas 
+live: bas 
+living: bas 
+hunt: bezaní 
+beat: funí	tebalí 
+hit: funí	tebalí 
+strike: funí	tebalí 
+cut: guguzí	lutí	pilití	talé	tiziŋiní	tuzu 
+hack: guguzí	lutí	pilití	talé	tiziŋiní	tuzu 
+cut open: falé	tezepalé 
+split: falé	tezepalé 
+pierce: belái	sae	tizái 
+stab: belái	sae	tizái 
+scratch: kekaz|é 
+dig: saze 
+stand: tiúz 
+drop: bal	du 
+fall: bal	du 
+grasp: butuní 
+hold: butuní 
+hold in arm: butuní 
+squeeze: bule	pipí 
+wring: bule	pipí 
+bind: pau	puzí	sasé 
+fasten: pau	puzí	sasé 
+tie: pau	puzí	sasé 
+tie up: pau	puzí	sasé 
+sew: wae	zikí 
+count: sutí 
+enumerate: sutí 
+number: sutí 
+tally: sutí 
+flow: palú	yau 
+lake: wililuk 
+ocean: lau	mas 
+sea: lau	mas 
+dust: gufugáf	sag|áf 
+fog: bug 
+sky: did 
+bad: alán 
+evil: alán 
+rot: mau	mufumáf 
+rotten: mau	mufumáf 
+dirty: ganáin	numunám	ŋuluŋál 
+filthy: ganáin	numunám	ŋuluŋál 
+soiled: ganáin	numunám	ŋuluŋál 
+sharp: malán 
+blunt: bok	boŋkái	kadafén 
+damp: sipín	siséz 
+wet: sipín	siséz 
+right side: waŋ 
+left: ŋas 
+at: -lak 
+in: ilo-n 
+inside: ilo-n 
+and: ma|i	ta 

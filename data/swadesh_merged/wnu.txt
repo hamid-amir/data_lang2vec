@@ -1,0 +1,418 @@
+all: awabi | awabi	gugum 
+all: gugum | awabi	gugum 
+arm: uben 
+arm: ubɛn 
+arrow: urep 
+ashes: wëmbin | wʌmbin 
+ashes: wʌmbin 
+back: mogir 
+bad: beru 
+bad: bɛru 
+belly: bëgun | uro 
+belly: bʌgun | uro 
+belly: iriëm | uro 
+belly: iriʌm | uro 
+belly: uro 
+big: u:rëib | uːrʌib 
+big: uːrʌib 
+bird: morogën | morogʌn 
+bird: morogʌn 
+bite: -go- 
+black: umaw 
+blood: eru | Eru	ɛru 
+blood: ɛru | Eru	ɛru 
+blow: gusim- 
+bone: ere | ErE	ɛrɛ 
+bone: ɛrɛ | ErE	ɛrɛ 
+boy: waw moya 
+breast: i:naw | inaw	iːnaw 
+breast: iːnaw | inaw	iːnaw 
+brother: bëin 
+brother: bʌin 
+brother: iːma 
+brother: i:më 
+brother: umum 
+burn: gum- 
+butterfly: ubuseri 
+butterfly: ubusɛri 
+calf: di:bur 
+calf: diːbur 
+cassowary: mëiben 
+cassowary: yubay 
+chest: tougum 
+child: waw 
+chin: neter 
+chin: nɛtɛr 
+cloud: wʌbɛr 
+cloud: wëber | wʌbɛr 
+cold: gugum 
+come: yër- | y3r	yʌr- 
+come: yʌr- | y3r	yʌr- 
+crocodile: yëmëy 
+crocodile: yʌmʌy 
+cut: soprm- 
+cut: su- 
+dance: uri wi- 
+day: aigʌbʷʌb 
+day: aigëbugëb 
+day: ërub 
+die: um(ur)- | um-	umur	umur- 
+dig: goan- 
+dig: tumun- 
+dirty: unun 
+dog: iëw | i3w	iʌw 
+dog: iʌw | i3w	iʌw 
+dry: sigen | sigɛn 
+dry: sigɛn 
+ear: i:rugos | irugos	iːrugos 
+ear: iːrugos | irugos	iːrugos 
+earth: ëy | ʌy 
+earth: ʌy 
+eat: mugim- | ni- 
+eat: ni- 
+egg: inëw | inʌw 
+egg: inʌw 
+elbow: moën 
+elbow: moʌn 
+emu: mʌibɛn 
+emu: yubay 
+excrement: ibi 
+eye: mëg | m3g	mʌg 
+eye: mʌg | m3g	mʌg 
+face: men 
+face: mɛn 
+fall: is- 
+fall: su- 
+far: mugon | mugon	pʌ 
+far: pʌ | mugon	pʌ 
+far: pë | mugon	pʌ 
+father: tëin 
+father: tʌin 
+father: ura 
+fat (n.): isën 
+fat (n.): isʌn 
+fear: yërim- 
+fear: yʌrim- 
+few: ei 
+few: emon 
+few: ɛmon 
+fight: yogr- 
+fingernail: ebir 
+fingernail: ɛbir 
+finger: unon 
+fire: mu:t | mut	muːt 
+fire: muːt | mut	muːt 
+fish: yëgway | y3gway	yʌgway 
+fish: yʌgway | y3gway	yʌgway 
+fly (n.): urur 
+fly (v.): purugrm- 
+fog: wʌbɛr 
+fog: wëber 
+forest: ëmug 
+forest: ʌmug 
+fruit: ur 
+fruit: urr 
+full: li- | li	li- 
+full: un- | li	li- 
+girl: yerow 
+girl: yɛrow 
+give: -s- 
+give: -s-/-ut-/-ar- 
+good: uber | ubɛr 
+good: ubɛr 
+grass: tu:b 
+green: igomnob 
+guts: bëgun 
+guts: bʌgun 
+guts: iriëm 
+guts: iriʌm 
+hair: i:m | iːm 
+hair: iːm 
+head: oum | tʌri 
+head: tëri | tʌri 
+head: tʌri 
+hear: -igit- | -igit-	gEt	igit 
+hear: -igit-/-get- | -igit-	gEt	igit 
+heart: uri 
+heavy: uguraw 
+here: mere 
+here: mɛrɛ 
+he/she: ø- 
+he/she: w- 
+he/she: wo 
+hit: yogr- 
+hold: bʌ- 
+hold: bë- 
+house: mon 
+how: mëymëy 
+I: y- | yE	yi	yɛ 
+I: ye | yE	yi	yɛ 
+I: yɛ | yE	yi	yɛ 
+I: yə- | yE	yi	yɛ 
+I: yi | yE	yi	yɛ 
+I: yV-/-ø- | yE	yi	yɛ 
+kill: ʌrʌmʌ um- 
+kill: wërëmë um- | ʌrʌmʌ um- 
+knee: geitëri | geit3ri	geitʌri 
+knee: geitʌri | geit3ri	geitʌri 
+laugh: igrig- 
+left: ë:gi 
+left: ʌːgi 
+leg: koten 
+leg: kotɛn 
+lightning: ay abisim- 
+liver: urunëw | urun3w	urunʌw 
+liver: urunʌw | urun3w	urunʌw 
+long: degen | dɛgɛn 
+long: dɛgɛn 
+louse: gu:n | gun 
+louse: guːn | gun 
+man: mëgët | munon	munɛ 
+man: mʌgʌt | munon	munɛ 
+man: mune | munon	munɛ 
+man: munɛ | munon	munɛ 
+man: munon | munon	munɛ 
+many: ehebi | iːrow	ɛhɛbi 
+many: ɛhɛbi | iːrow	ɛhɛbi 
+many: i:row | iːrow	ɛhɛbi 
+many: iːrow | iːrow	ɛhɛbi 
+meat: mi:n 
+meat: miːn 
+moon: inëun | inʌun 
+moon: inʌun 
+morning: itumut 
+morning: itumu-t 
+morning: urigrmʌ 
+morning: urigrmë 
+mosquito: misisir 
+mother: nëni 
+mother: nʌni 
+mother: unor 
+mother: unuor 
+mountain: ëyëur | 3y3ur	ʌyʌur 
+mountain: ʌyʌur | 3y3ur	ʌyʌur 
+mouth: ʌbɛri 
+mouth: ëberi | ʌbɛri 
+name: unum 
+nape: unggo 
+nape: uŋgo 
+navel: e:si 
+navel: ɛːsi 
+near: ë:ni | ʌːni 
+near: ʌːni 
+neck: umën | umʌn 
+neck: umʌn 
+new: temen | tEmEn	tɛmɛn 
+new: tɛmɛn | tEmEn	tɛmɛn 
+night: itum 
+nose: menuman | mEnuman	mɛnuman 
+not: ue 
+old: isi:k 
+old: isiːk 
+old: oë:n 
+old: oʌːn 
+one: gëri | g3ri	gâri	gʌri 
+one: gʌri | g3ri	gâri	gʌri 
+pull: ubimim- 
+pull: ubumim- 
+push: iringg- 
+push: iruŋg- 
+rain: yʌ 
+rain: yë | yʌ 
+rat: wëis 
+rat: wʌis 
+red: miën | miʌn 
+red: miʌn 
+right: ubregen | t3ri 
+right: ubrɛgɛn | t3ri 
+ripe: miën 
+ripe: miʌn 
+road: tëp | t3p 
+road: tʌp | t3p 
+root: durun 
+rope: omun 
+salt: tomon 
+sand: oro sow | oro sɔw 
+sand: oro sɔw 
+sand: urumut | oro sɔw 
+say: emer- | -nob- 
+say: ɛmɛr- | -nob- 
+say: -nob- 
+say: ur- | -nob- 
+scratch: puram- 
+sea: wier-ia 
+sea: wiɛria 
+see: asiɛm- | -g-	mb~ag 
+see: -g- | -g-	mb~ag 
+see: -g-/-mbag- | -g-	mb~ag 
+sharp: nanët 
+sharp: yëm- 
+short: piten 
+shoulder: gabën 
+shoulder: gabʌn 
+sing: ur wër- 
+sister: baiment 
+sister: baimɛnt 
+sister: imem 
+sister: imɛm 
+sister: umament 
+sister: umamɛnt 
+sit: bugom- 
+skin: goën | go3n	goʌn 
+skin: goʌn | go3n	goʌn 
+sky: tët 
+sky: tʌt 
+sleep: in- 
+small: amagë:s | amagʌːs	amout 
+small: amagʌːs | amagʌːs	amout 
+small: amout | amagʌːs	amout 
+smell: ogom ig- 
+smoke: iëp | iʌp 
+smoke: iʌp 
+snake: më:ni | mʌːni 
+snake: mʌːni 
+spit: dusi- 
+spit: mu 
+split: obrm- 
+stand: nëg- 
+stand: nʌg- 
+star: tëpëy | t3p3y	tʌpʌy 
+star: tʌpʌy | t3p3y	tʌpʌy 
+stick: kotëw 
+stone: nomon 
+straight: orogen 
+straight: orogɛn 
+sun: worom 
+swell: arim- 
+tail: bur 
+tail: burim 
+take: bëy- 
+take: bʌy- 
+that: umu 
+there: igiri 
+they: ø-/-ar- 
+they: uri 
+they: uri- 
+thigh: mutaw 
+this: enggu | ɛŋgu 
+this: ɛŋgu 
+thou: an | nE	ni	nɛ 
+thou: an- | nE	ni	nɛ 
+thou: n- | nE	ni	nɛ 
+thou: ne | nE	ni	nɛ 
+thou: nɛ | nE	ni	nɛ 
+thou: nə- | nE	ni	nɛ 
+thou: ni | nE	ni	nɛ 
+thou: nV-/-ø- | nE	ni	nɛ 
+throat: mindiram 
+throw: ëririm- 
+throw: ʌririm- 
+thunder: ay ur- 
+tie: ubumim- 
+tomorrow: barim 
+tomorrow: barim uri:gom 
+tongue: ʌbis | 3bis	ʌbis 
+tongue: ëbis | 3bis	ʌbis 
+tooth: nënur | n3nur	nʌnur 
+tooth: nʌnur | n3nur	nʌnur 
+tree: ɛn | n3m 
+tree: nëm | n3m 
+tree: ʌnʌm | n3m 
+tree: nʌm | n3m 
+turn: i:gesrm- 
+turn: iːgɛsrm- 
+two: ëmbur | 3mb~ur	ombur	ʌmbur 
+two: ʌmbur | 3mb~ur	ombur	ʌmbur 
+vagina: kut 
+vomit: mɛndir- 
+walk: is- 
+walk: wiʌbwiʌb is- 
+wallaby: wayayib 
+warm: nënaw 
+warm: nʌnaw 
+wash: uß- 
+wash: uß- -s- 
+wash: uv- 
+wash: uv- + "give 
+water: yʌ | y3	yʌ 
+water: yë | y3	yʌ 
+weep: e- 
+weep: ɛ- 
+we: in 
+we: in- 
+we: in-/-ar- 
+wet: tumbugur 
+what: meimi 
+where: erete 
+where: ɛrɛtɛ 
+white: oën | oʌn 
+white: oʌn 
+who: yëuro | yʌuro 
+who: yʌuro 
+wind: moin 
+wing: bu 
+woman: unor | yamʌŋgr 
+woman: unɔr | yamʌŋgr 
+woman: yamënggr | yamʌŋgr 
+woman: yamʌŋgr 
+wood: ʌbu tʌy 
+wood: ëbu tëy 
+wood: kɔtʌw 
+yellow: gunëy | gunʌy 
+yellow: gunʌy 
+yesterday: barim 
+yesterday: barim uri:gom 
+yes: uo 
+yes: uɔ 
+you: an | nE	ni	nɛ 
+you: an- | nE	ni	nɛ 
+you: an-/-ar- | nE	ni	nɛ 
+every: awabi	gugum 
+ash: wʌmbin 
+abdomen: uro 
+bigness: uːrʌib 
+large: uːrʌib 
+breasts: inaw	iːnaw 
+come from: y3r	yʌr- 
+be dead: um-	umur	umur- 
+dead: um-	umur	umur- 
+ground: ʌy 
+land: ʌy 
+soil: ʌy 
+fly: purugrm- 
+fly v.: purugrm- 
+hand: t3ri 
+left hand: t3ri 
+1 sg.: yE	yi	yɛ 
+head louse: gun 
+male: munon	munɛ 
+much: iːrow	ɛhɛbi 
+multiple: iːrow	ɛhɛbi 
+several: iːrow	ɛhɛbi 
+hill: 3y3ur	ʌyʌur 
+title: unum 
+nighttime: itum 
+adulterous: g3ri	gâri	gʌri 
+single: g3ri	gâri	gʌri 
+the: g3ri	gâri	gʌri 
+unprincipled: g3ri	gâri	gʌri 
+rainy weather: yʌ 
+path: t3p 
+route: t3p 
+hide: go3n	goʌn 
+little: amagʌːs	amout 
+smallness: amagʌːs	amout 
+rock: nomon 
+2 sg: nE	ni	nɛ 
+grind: 3mb~ur	ombur	ʌmbur 
+go: is- 
+1 pl. inc.: in 
+we₁: in 
+whiteness: oʌn 
+who?: yʌuro 
+female: yamʌŋgr 
+distant: mugon	pʌ 
+dull: uguraw 
+serious: uguraw 
+close: ʌːni 
+ner: ʌːni 

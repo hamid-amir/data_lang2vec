@@ -1,0 +1,263 @@
+all: ngaaiʔ 
+every: ngaaiʔ 
+ash: tauh 
+ashes: tauh 
+abdomen: tian 
+belly: tian 
+big: agayo 
+bigness: agayo 
+large: agayo 
+bird: tombolog 
+bite: kokot 
+black: oitom 
+blood: raha7	rahaʔ 
+bone: tulaN	tulang 
+breast: susu 
+breasts: susu 
+burn: tutud 
+burn tr.: tutud 
+cloud: houn 
+cold: osogit 
+come: rikot 
+come from: rikot 
+be dead: patai 
+dead: patai 
+die: patai 
+dog: tasu 
+drink: inum 
+dry: otuuh 
+ear: toliNo	tolingo 
+eat: akan 
+egg: tontoluʔ 
+eye: mato 
+feather: talad 
+fire: tapui 
+fish: sada7	sadaʔ 
+fly: tulud 
+fly v.: tulud 
+good: osonong 
+green: otomou 
+hair: tobuk 
+hand: loNon	longon 
+left hand: loNon	longon 
+right: loNon	longon 
+head: tulu 
+hear: roNou	rongou 
+1 sg.: ioho 
+I: ioho 
+kill: patai 
+be knowledgeable: ilo	koilo 
+know: ilo	koilo 
+leaf: roun 
+lie: latan 
+lie down: latan 
+liver: lusou 
+long: anaru 
+head louse: kutu 
+louse: kutu 
+male: kusai 
+man: tulun 
+moon: tulan 
+mouth: kabang 
+name: Naran	ngaran 
+title: Naran	ngaran 
+neck: liou 
+new: wagu 
+night: otuoN	otuong 
+nighttime: otuoN	otuong 
+nose: toduN	todung 
+adulterous: iso 
+one: iso 
+single: iso 
+that: ilo 
+the: iso 
+unprincipled: iso 
+human: tulun 
+human being: tulun 
+person: tulun 
+rain: rasam 
+rainy weather: rasam 
+red: aragang 
+path: dalan 
+road: dalan 
+route: dalan 
+root: gamut 
+say: boros 
+see: kito 
+sit: irikau 
+hide: kulit 
+skin: kulit 
+sleep: odop 
+little: okotoʔ 
+small: okotoʔ 
+smallness: okotoʔ 
+smoke: lisun 
+star: rombituon 
+rock: watu 
+stone: watu 
+swim: kaau 
+tail: tikiu 
+this: iti 
+2 sg: ia7	iaʔ 
+thou: ia7	iaʔ 
+you: ia7	iaʔ 
+tongue: dila7	dilaʔ 
+tooth: nipon 
+grind: duo	duöʰ 
+two: duo	duöʰ 
+go: panau 
+walk: panau 
+hot: alasuʔ 
+warm: alasuʔ 
+water: waig 
+1 pl. inc.: iahai	iato 
+we: iahai	iato 
+we₁: iahai	iato 
+what: nunu 
+white: opurak 
+whiteness: opurak 
+who: isai 
+who?: isai 
+female: tondu 
+woman: tondu 
+yellow: osilou 
+distant: sodu 
+far: sodu 
+dull: aagat 
+heavy: aagat 
+serious: aagat 
+close: somok 
+near: somok 
+ner: somok 
+salt: silaon 
+short: osiribaʔ 
+snake: tulanut 
+thin: onipis 
+wind: ribut 
+earthworm: tonggiluang 
+worm: tonggiluang 
+year: toun 
+2 pl.: iaʔ 
+ye: iaʔ 
+you all: iaʔ 
+3 pl.: ioloʔ 
+they: ioloʔ 
+where: hombo 
+where?: hombo 
+when: soira	songgira 
+when?: soira	songgira 
+how: poingkuro 
+how?: poingkuro 
+other: suai 
+three: tolu	tölu 
+four: apat 
+five: limo 
+broad: alaab 
+wide: alaab 
+wideness: alaab 
+fat: lunok	tumau 
+thick: akapal 
+narrow: okikip 
+principal wife: sao 
+wife: sao 
+husband: sao 
+his mother: tina 
+mother: tina 
+my mother: tina 
+father: tama 
+his father: tama 
+my father: tama 
+forest: gouton 
+woods: gouton 
+fruit: tuaʔ 
+flower: bungaʔ 
+grass: sakot 
+cord: tali 
+rope: tali 
+flesh: daging 
+meat: daging 
+grease: lunok	tumau 
+wing: palapaʔ 
+gut: tinaiʔ 
+guts: tinaiʔ 
+insides: tinaiʔ 
+intestine: tinaiʔ 
+intestines: tinaiʔ 
+back: likud 
+suck: siop 
+spit: dulaʔ 
+vomit: ilob 
+blow: obus	soogiʔ 
+breath: puhobo 
+breathe: puhobo 
+laugh: irak 
+laughter: irak 
+cogitate: sorou 
+reflect: sorou 
+think: sorou 
+smell: singud 
+sniff: singud 
+afraid: oris 
+be afraid: oris 
+fear: oris 
+fright: oris 
+alive: pasi 
+be alive: pasi 
+life: pasi 
+live: pasi 
+living: pasi 
+hunt: asu 
+beat: bobog 
+hit: bobog 
+strike: bobog 
+cut: tagad 
+hack: tagad 
+cut open: lapak 
+split: lapak 
+pierce: tokon 
+stab: tokon 
+scratch: kukut 
+dig: ukad 
+stand: ingkakat 
+drop: loho	ratuʼ 
+fall: loho	ratuʼ 
+grasp: igit 
+hold: igit 
+hold in arm: igit 
+squeeze: pagaʔ 
+wring: pagaʔ 
+throw: taam 
+bind: kagos	wongkos 
+fasten: kagos	wongkos 
+tie: kagos	wongkos 
+tie up: kagos	wongkos 
+sew: tombir 
+count: intob 
+enumerate: intob 
+number: intob 
+tally: intob 
+flow: luyung 
+lake: botung 
+ocean: rahat 
+sea: rahat 
+dust: abuk	lisohu 
+fog: houn 
+sky: taan 
+bad: araat 
+evil: araat 
+rot: momos 
+rotten: momos 
+dirty: romos 
+filthy: romos 
+soiled: romos 
+sharp: tarom 
+blunt: opodih 
+damp: oyopos 
+wet: oyopos 
+right side: wanan 
+left: gibang 
+at: id 
+in: id suang 
+inside: id suang 
+and: om 
+if: ondum 

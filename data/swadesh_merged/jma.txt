@@ -1,0 +1,176 @@
+arm: mabu-ba 
+arm: yanipi 
+bird: nere | mɛdiwari	nere 
+dog: kweo | kweo	kweyava	kwɛaea 
+dog: kweyava | kweo	kweyava	kwɛaea 
+ear: taine-ba | taina-ga	taine-ba	taine-pi 
+ear: taine-pi | taina-ga	taine-ba	taine-pi 
+eye: yame-bi | yama-ga	yame-bi	yamo-ba 
+eye: yamo-ba | yama-ga	yame-bi	yamo-ba 
+father: mamagadana 
+father: mame-bi 
+fire: ilarema | ilarema	irarema	ʔiyarɛma 
+fire: irarema | ilarema	irarema	ʔiyarɛma 
+fish: enagotoia | enagotoia	taiya	ʔɛnagataiya 
+fish: taiya | enagotoia	taiya	ʔɛnagataiya 
+five: yangudeni 
+five: yani-boin 
+foot: wa-bi | wa-bi	wa-gwanuga	wabi 
+foot: wa-gwanuga | wa-bi	wa-gwanuga	wabi 
+four: yawai-yuri 
+four: yuai-yuri 
+hand: gurepu | gurepu	mabu-ga	yaini-pi 
+hand: yaini-pi | gurepu	mabu-ga	yaini-pi 
+he/she: -ebi 
+he/she: -gebi 
+he/she: me 
+he/she: mebi 
+house: imata 
+I: -nama | ne	nebai	nɛ 
+I: -namo | ne	nebai	nɛ 
+I: ne | ne	nebai	nɛ 
+I: nebai | ne	nebai	nɛ 
+man: apana | ʔida 
+moon: dedi | dede	dedi 
+mother: inagadai-bi 
+mother: inagada-na 
+one: daida 
+rain: uana | uana	ʔuwana 
+road: yava 
+road: yawa 
+stone: akima | akima	gwada	ʔakima 
+stone: gwada | akima	gwada	ʔakima 
+sun: maigara | gabudara	maigara 
+they: -abu 
+they: -gabu 
+they: moa 
+thou: -gaba | ge	gɛ 
+thou: ge | ge	gɛ 
+thou: -guba | ge	gɛ 
+thou: ye | ge	gɛ 
+three: boboa 
+tooth: wari-pi | wari-ga	wari-pi	waru-ba 
+tooth: waru-ba | wari-ga	wari-pi	waru-ba 
+two: yuri 
+water: oa | oa	owa	ʔowa 
+water: owa | oa	owa	ʔowa 
+we: -gauba 
+we: no 
+we: noa 
+we: -oba 
+woman: iyorata | iyorata	wavine	wavinɛdaida 
+woman: wavine | iyorata	wavine	wavinɛdaida 
+all: minagadi 
+every: minagadi 
+ash: popou 
+ashes: popou 
+bark: ʔɛtoɛto 
+abdomen: bagu-ga 
+belly: bagu-ga 
+big: ratɛbi 
+bigness: ratɛbi 
+large: ratɛbi 
+bite: taraini 
+black: punubi 
+blood: tavɛyanɛ-bi 
+bone: rɛgurɛ-pi 
+breast: ʔama-ga 
+breasts: ʔama-ga 
+claw: -dipi 
+nail: -dipi 
+talon: -dipi 
+cloud: ʔoroguma 
+cold: nuturubi 
+come: ʔɛnadi 
+come from: ʔɛnadi 
+be dead: boɛni 
+dead: boɛni 
+die: boɛni 
+drink: nani 
+dry: ʔɛrɛpi 
+eat: nanaidi 
+egg: dodoʔ 
+feather: yaru 
+fly: roboidi 
+fly v.: roboidi 
+full: bunuwaini 
+give: wanagadi 
+good: yamaiba 
+green: kasikasigɛbi 
+hair: u-pi ʔugugumɛpi	ʔugugumɛpi 
+left hand: gurepu	mabu-ga	yaini-pi 
+right: gurepu	mabu-ga	yaini-pi 
+head: u-ga 
+hear: ʔasini 
+heart: budimagɛ-pi 
+horn: ragɛ-pi 
+1 sg.: ne	nebai	nɛ 
+kill: raibunuwaini 
+knee: doroma-ga 
+be knowledgeable: ʔasini 
+know: ʔasini 
+leaf: kwarɛpi 
+liver: gwanɛ-pi 
+long: rowaibi 
+male: apana	ʔapanadaida 
+many: ʔutumɛbi 
+much: ʔutumɛbi 
+multiple: ʔutumɛbi 
+several: ʔutumɛbi 
+hill: ʔoyapa 
+mountain: ʔoyapa 
+mouth: no-ga 
+name: ʔɛvani 
+title: ʔɛvani 
+neck: moga-ga 
+new: ʔaiyaibi 
+night: nuba 
+nighttime: nuba 
+nose: gua-ga 
+not: ʔiboi 
+adulterous: daida 
+single: daida 
+that: ʔiyagamɛ 
+the: daida 
+unprincipled: daida 
+human: ʔida 
+human being: ʔida 
+person: ʔida 
+rainy weather: uana	ʔuwana 
+red: dɛrɛpi 
+root: wipi 
+round: sipopobi 
+sand: buwaia 
+say: ʔanaini 
+see: yawadi 
+seed: ʔuwɛpi 
+sit: waidi 
+hide: ʔɛto-ga 
+skin: ʔɛto-ga 
+sleep: ʔinadi 
+little: mosikibi 
+small: mosikibi 
+smallness: mosikibi 
+smoke: ʔau 
+star: marabunua 
+rock: akima	gwada	ʔakima 
+tail: mɛdiwari-wɛdo-pi	wɛdo-pi 
+this: madi 
+2 sg: ge	gɛ 
+you: ge	gɛ 
+tongue: pepe-ga 
+grind: yuri 
+go: babaidi 
+walk: babaidi 
+what: dima 
+white: poɛb 
+whiteness: poɛb 
+who: ʔida 
+who?: ʔida 
+female: iyorata	wavine	wavinɛdaida 
+yellow: yanopi 
+dull: bita 
+heavy: bita 
+serious: bita 
+snake: kamɛgo	mota 
+wind: yanunu 

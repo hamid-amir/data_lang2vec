@@ -1,0 +1,269 @@
+all: camwisu 
+every: camwisu 
+ash: pentop 
+ashes: pentop 
+abdomen: netni-	nocletni- 
+belly: netni-	nocletni- 
+big: oroŋ 
+bigness: oroŋ 
+large: oroŋ 
+bird: menuc 
+bite: elintvi 
+black: acumsu 
+blood: nde	nd~e 
+bone: noura-	ura 
+breast: ni	ni- 
+breasts: ni	ni- 
+burn: tovni 
+burn tr.: tovni 
+cloud: nompwau 
+cold: etpond 
+come: belom	velam	velom 
+come from: belom	velam	velom 
+be dead: mah 
+dead: mah 
+die: mah 
+dog: kuri	nalinoh 
+drink: omonki 
+dry: lau 
+ear: ntelŋo-	telNu 
+eat: eni 
+egg: nalumam 
+eye: mto	nimtuŋ	nipmi 
+feather: novli-	novlira- 
+fire: nom	om 
+fish: nomu 
+fly: ocep 
+fly v.: ocep 
+good: armai 
+green: emte	telemte 
+hair: novlinompu- 
+hand: noru-	oru 
+left hand: noru-	oru 
+right: noru-	oru 
+head: nompu- 
+hear: orNi	orŋi 
+1 sg.: iau	yau 
+I: iau	yau 
+kill: taloŋi 
+knee: nopun netru 
+be knowledgeable: okili 
+know: okili 
+leaf: Nk~li nei	noŋkli-nei 
+lie: alei 
+lie down: alei 
+liver: mou 
+long: tantop 
+head louse: nocut	xut 
+louse: nocut	xut 
+male: natman 
+man: neteme 
+moon: itais 
+hill: mp~uo 
+mountain: mp~uo 
+mouth: navra- 
+name: N	ni- 
+title: N	ni- 
+neck: nowa- 
+new: bau	itvau 
+night: pumroc	pumrox 
+nighttime: pumroc	pumrox 
+nose: oroclaŋ	orola	oroŋlaŋ 
+adulterous: haiten	saimo 
+one: haiten	saimo 
+single: haiten	saimo 
+that: mori 
+the: haiten	saimo 
+unprincipled: haiten	saimo 
+human: neteme 
+human being: neteme 
+person: neteme 
+rain: nevip 
+rainy weather: nevip 
+red: avlar 
+path: nocuŋo	noxuNo	selat 
+road: nocuŋo	noxuNo	selat 
+route: nocuŋo	noxuNo	selat 
+root: nowatni- 
+sand: narvin 
+say: ocu 
+see: ochi	oxh~i	oxh~ipe 
+sit: etehep 
+hide: noclehnta-	nta-	ta 
+skin: noclehnta-	nta-	ta 
+sleep: aleipo 
+little: viroc 
+small: viroc 
+smallness: viroc 
+smoke: nuŋo|nom 
+star: mosi 
+rock: bat	nvat 
+stone: bat	nvat 
+sun: en 
+swim: oruc 
+tail: novlai|mpco- 
+this: iyi	iyih 
+2 sg: kik 
+thou: kik 
+you: kik 
+tongue: lw~ame	nelwame- 
+tooth: lbe	noŋu- 
+grind: nduru	ru 
+two: nduru	ru 
+go: avan 
+walk: avan 
+hot: au	awau 
+warm: au	awau 
+water: nu 
+1 pl. inc.: kam	koh 
+we: kam	koh 
+we₁: kam	koh 
+what: se 
+white: ehvo 
+whiteness: ehvo 
+who: mei 
+who?: mei 
+female: nahiven 
+woman: nahiven 
+yellow: melyaŋ 
+distant: isut 
+far: isut 
+dull: ompuc 
+heavy: ompuc 
+serious: ompuc 
+close: potcon	potpot 
+near: potcon	potpot 
+ner: potcon	potpot 
+salt: netukus 
+short: potcon 
+snake: nehkil 
+thin: avlis 
+wind: uvulyoru 
+earthworm: namet 
+worm: namet 
+year: nevi 
+2 pl.: kimi 
+ye: kimi 
+you all: kimi 
+3 pl.: iror 
+they: iror 
+where: iya 
+where?: iya 
+when: niŋoi 
+when?: niŋoi 
+how: hoŋku se 
+how?: hoŋku se 
+other: noŋkon 
+three: ndehel 
+four: ndvat 
+five: sukrim 
+broad: avlovlac 
+wide: avlovlac 
+wideness: avlovlac 
+fat: nup 
+thick: evivat 
+narrow: workirki 
+principal wife: retpo- 
+wife: retpo- 
+husband: ahwo- 
+his mother: ndinme- 
+mother: ndinme- 
+my mother: ndinme- 
+father: etme-	itme- 
+his father: etme-	itme- 
+my father: etme-	itme- 
+forest: ntompoi 
+woods: ntompoi 
+branch: ndoŋo- 
+stick: ndoŋo- 
+fruit: novŋu- 
+flower: tasisi 
+grass: ntopavo 
+cord: neleh 
+rope: neleh 
+flesh: nelat 
+meat: nelat 
+grease: nup 
+wing: nevloco- 
+gut: nousensi- 
+guts: nousensi- 
+insides: nousensi- 
+intestine: nousensi- 
+intestines: nousensi- 
+back: nelponta-	nta- 
+suck: aŋkmi 
+spit: etvani 
+vomit: elilwo	elwo 
+blow: naryovoyu 
+breath: esomsac 
+breathe: esomsac 
+laugh: tovop 
+laughter: tovop 
+cogitate: taru 
+reflect: taru 
+think: taru 
+smell: sumsum 
+sniff: sumsum 
+afraid: emtitoŋi 
+be afraid: emtitoŋi 
+fear: emtitoŋi 
+fright: emtitoŋi 
+alive: omurep 
+be alive: omurep 
+life: omurep 
+live: omurep 
+living: omurep 
+hunt: elehi 
+beat: tai 
+hit: tai 
+strike: tai 
+cut: etai 
+hack: etai 
+cut open: tavloŋi 
+split: tavloŋi 
+pierce: satri 
+stab: satri 
+scratch: orei 
+dig: ocli 
+stand: etur 
+drop: omol 
+fall: omol 
+grasp: elcavi 
+hold: elcavi 
+hold in arm: elcavi 
+squeeze: avsi 
+wring: avsi 
+throw: tauri 
+bind: eiti	elki 
+fasten: eiti	elki 
+tie: eiti	elki 
+tie up: eiti	elki 
+sew: etri 
+count: ehpi 
+enumerate: ehpi 
+number: ehpi 
+tally: ehpi 
+flow: orari 
+ocean: ntoc 
+sea: ntoc 
+dust: pentop 
+fog: mowap 
+sky: pocup 
+bad: ur 
+evil: ur 
+rot: empu 
+rotten: empu 
+dirty: emri 
+filthy: emri 
+soiled: emri 
+sharp: aco 
+blunt: ai 
+damp: omnuc 
+wet: omnuc 
+right side: meveh 
+left: mor 
+at: ra 
+in: unisoŋ 
+inside: unisoŋ 
+and: im 
+if: naŋku 

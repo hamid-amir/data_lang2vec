@@ -1,0 +1,139 @@
+all: ngamin 
+every: ngamin 
+ash: lʌppu 
+ashes: lʌppu 
+abdomen: sihat 
+belly: sihat 
+big: dʌkʌl 
+bigness: dʌkʌl 
+large: dʌkʌl 
+bird: mamanuk 
+bite: mʌgkʌgat 
+black: ngisit 
+blood: dogo	dʌgʌ 
+bone: tulaN	tulang 
+breast: hʌdang	susu 
+breasts: hʌdang	susu 
+burn: mʌgtonghad 
+burn tr.: mʌgtonghad 
+cloud: kulʌm 
+cold: mʌsʌnʌw 
+be dead: nʌsi 
+dead: nʌsi 
+die: nʌsi 
+dog: otu	qʌtu 
+drink: quminum	uminum 
+dry: mʌgsigʌy	mʌmagʌ 
+ear: boNboN	bʌngbʌng 
+eat: mʌngan 
+egg: qiklug 
+eye: moto	mʌtʌ 
+fire: opuy	qʌpuy 
+fish: ikan	qikan 
+fly: qimubʌh 
+fly v.: qimubʌh 
+full: moponnu 
+good: mʌpiʌ 
+green: matʌ 
+hair: huk 
+hand: komot	kʌmʌt 
+left hand: komot	kʌmʌt 
+right: komot	kʌmʌt 
+head: qulu 
+hear: modoNog	mʌdʌngʌg 
+1 sg.: iyok 
+I: iyok 
+kill: mʌgpʌpasi 
+knee: tud 
+be knowledgeable: qamu 
+know: qamu 
+leaf: don 
+liver: ogol	qʌgʌl 
+long: qʌdanuk 
+head louse: kutu 
+louse: kutu 
+male: lʌlʌki 
+man: toloy	tolʌy 
+moon: hulan 
+hill: bogetoy 
+mountain: bogetoy 
+mouth: simuk 
+name: Nogan	ngʌgan 
+title: Nogan	ngʌgan 
+neck: lig 
+new: bagu 
+night: hiklom	hiklʌm 
+nighttime: hiklom	hiklʌm 
+nose: iguN	qʌwan 
+adulterous: tatakdoy	tatakdʌy 
+one: tatakdoy	tatakdʌy 
+single: tatakdoy	tatakdʌy 
+that: tatakdoy	tatakdʌy 
+the: tatakdoy	tatakdʌy 
+unprincipled: tatakdoy	tatakdʌy 
+human: toloy	tolʌy 
+human being: toloy	tolʌy 
+person: toloy	tolʌy 
+rain: qudan 
+rainy weather: qudan 
+red: dʌhag 
+path: dolan 
+road: dolan 
+route: dolan 
+root: hʌmut 
+sand: ginʌt 
+say: qibah 
+see: mo7ito	mʌqitʌ 
+sit: mʌgtuttud 
+hide: tobbit	tʌbbit 
+skin: tobbit	tʌbbit 
+sleep: mʌsidug 
+little: qʌssʌng 
+small: qʌssʌng 
+smallness: qʌssʌng 
+smoke: qʌsok 
+star: bitwon	bitwʌn 
+rock: botu	bʌtu 
+stone: botu	bʌtu 
+swim: mʌglʌngoy 
+tail: qipput 
+2 sg: iko 
+thou: iko 
+you: iko 
+tongue: hilo	hilʌ 
+tooth: Nipon	ngipʌn 
+tree: koyu 
+grind: duwo	duwʌ 
+two: duwo	duwʌ 
+go: mʌgtugut 
+walk: mʌgtugut 
+hot: mʌpatu 
+warm: mʌpatu 
+water: donum	dʌnum 
+1 pl. inc.: ikitam 
+we: ikitam 
+we₁: ikitam 
+what: qʌnu 
+white: puhʌw 
+whiteness: puhʌw 
+who: qinyʌ 
+who?: qinyʌ 
+female: bʌbbʌy 
+woman: bʌbbʌy 
+yellow: ngilʌ 
+distant: qʌdayu 
+far: qʌdayu 
+dull: mʌdammʌt 
+heavy: mʌdammʌt 
+serious: mʌdammʌt 
+close: qʌbikʌn 
+near: qʌbikʌn 
+ner: qʌbikʌn 
+salt: qʌsin 
+short: qʌlinnʌk	qʌpisi 
+snake: qulʌg 
+thin: mʌlapit 
+wind: pʌddad 
+earthworm: qʌlikkʌwuʌd 
+worm: qʌlikkʌwuʌd 
+year: dʌhun 

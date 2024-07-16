@@ -1,0 +1,153 @@
+all: baroh 
+every: baroh 
+ash: dipei 
+ashes: dipei 
+bark: snep 
+abdomen: kipoh	kpoh 
+belly: kipoh	kpoh 
+big: ba khraw	kh~raw 
+bigness: ba khraw	kh~raw 
+large: ba khraw	kh~raw 
+bird: sim 
+bite: dait 
+black: ioN 
+blood: snam 
+bone: shyieng	sh~ieN 
+breast: shadem	sh~adem 
+breasts: shadem	sh~adem 
+claw: tirsim 
+nail: tirsim 
+talon: tirsim 
+cloud: ly~oh 
+cold: khr$eat 
+come: wan 
+come from: wan 
+be dead: iap	iap noh 
+dead: iap	iap noh 
+die: iap	iap noh 
+dog: ksew 
+drink: dih 
+dry: rikh~iaN 
+ear: lutur	shkor 
+earth: pirth~ei 
+ground: pirth~ei 
+land: pirth~ei 
+soil: pirth~ei 
+eat: Zom	bam 
+egg: pilleN	pylleng 
+eye: khmat	kh~imat 
+feather: sner 
+fire: diN 
+fish: dohkha	dohkh~a 
+fly: her 
+fly v.: her 
+foot: kinZat	kjat 
+full: dap 
+good: babha 
+hair: shniuh	sh~niuh 
+hand: kti 
+left hand: kti 
+right: kti 
+head: khlieh	kh~lih 
+hear: iohsngew	sNow	sngap 
+heart: kloN snam	klongsnam 
+horn: reN	reng 
+1 sg.: %Na	Na	nga 
+I: %Na	Na	nga 
+kill: piniap	pyniap 
+knee: khohsiew	kh~osiw 
+be knowledgeable: tip 
+know: tip 
+leaf: sla 
+lie: sh~aniah 
+lie down: sh~aniah 
+liver: ba im	dohnud 
+long: ZeroN	bajrong 
+head louse: jynrein	ksi 
+louse: jynrein	ksi 
+male: ai briw	rangbah 
+man: briew	briw 
+many: bun	shibun 
+much: bun	shibun 
+multiple: bun	shibun 
+several: bun	shibun 
+flesh: doh 
+meat: doh 
+moon: binai 
+hill: limbah 
+mountain: limbah 
+mouth: shyntur	sh~intur 
+name: kirteN 
+title: kirteN 
+neck: rindaN	ryndang 
+new: th~immai 
+night: miet 
+nighttime: miet 
+nose: khmut	kh~mut 
+not: em	ym 
+adulterous: wei	wey 
+one: wei	wey 
+single: wei	wey 
+that: ba	kato 
+the: wei	wey 
+unprincipled: wei	wey 
+human: briew	briw 
+human being: briew	briw 
+person: briew	briw 
+rain: slap 
+rainy weather: slap 
+red: saw 
+path: surok 
+road: surok 
+route: surok 
+root: tinrai	tynrai 
+round: pillun 
+say: oN 
+see: iohi	khmih	kh~imih 
+seed: sinai	symbai 
+sit: sh~oN 
+hide: kh~oh	sniehdoh 
+skin: kh~oh	sniehdoh 
+sleep: thiah	th~iah 
+little: ba rit	rit 
+small: ba rit	rit 
+smallness: ba rit	rit 
+smoke: nd~em 
+stand: ieN 
+star: kh~lur 
+rock: maw 
+stone: maw 
+sun: sNi 
+swim: ZiNi 
+tail: tdong	tidoN 
+this: kane	ne 
+2 sg: me	me pha	phi 
+thou: me	me pha	phi 
+you: me	me pha	phi 
+tongue: thylliej	th~illied 
+tooth: biniat	bniat 
+tree: dieN	dieng 
+grind: ar	ʔaar 
+two: ar	ʔaar 
+go: iaid 
+walk: iaid 
+water: um 
+1 pl. inc.: Ni	ngi 
+we: Ni	ngi 
+we₁: Ni	ngi 
+what: kaei 
+white: lih 
+whiteness: lih 
+who: uei 
+who?: uei 
+female: briw	kynthei 
+woman: briw	kynthei 
+yellow: stem 
+dull: ba khia 
+heavy: ba khia 
+serious: ba khia 
+short: ba lyngkot 
+snake: bsein 
+thin: ba stang 
+earthworm: wieh 
+worm: wieh 

@@ -1,0 +1,606 @@
+all: kull | marra 
+all: θussuθ | marra 
+animal: el haišet | lħayawan 
+ankle: taqaɦbet uḍaṛ 
+ankle: θašɦašθ udaː 
+arm: aɣil 
+arm: aɣir 
+ashes: igðen | iɣɣəđ 
+ashes: θnifest | iɣɣəđ 
+back: aɦrur | aʕrua 
+bad: aɦaffæn | aʕəffan	wā yəħři 
+bark: θhašit 
+belly: aɦaddis | aʕəddis 
+belly: ɦaddiš | aʕəddis 
+belly: axebbus | aʕəddis 
+belly: θaɦaddist | aʕəddis 
+big: akerdal | aməqqrʼan 
+bird: aǯð̣ið̣ | ažđʼiđʼ 
+bird: aǯðið̣ | ažđʼiđʼ 
+bite: berrem | mmāʼməš	zʕəf 
+bite: eddem | mmāʼməš	zʕəf 
+bite: effaẓ | mmāʼməš	zʕəf 
+bite: ezɦaf | mmāʼməš	zʕəf 
+bite: feẓẓ | mmāʼməš	zʕəf 
+bite: (t)effaẓ | mmāʼməš	zʕəf 
+bitter: amarzaɟ 
+bitter: amerzaɟ 
+black: aberçæn | aƀāršan 
+black: abercan | aƀāršan 
+blood: iðammen | iđammən 
+bone: iɣes | iɣəss 
+boy: afrux 
+branch: fiθu | fiŧu	řfāʕ	ŧasʼətʼtʼa 
+branch: refreaɦ | fiŧu	řfāʕ	ŧasʼətʼtʼa 
+breast: abbiš | ibbəš 
+breast: abebbiš | ibbəš 
+breast: enneɦd | ibbəš 
+breast: θaurirθ | ibbəš 
+breast: θaɦurt | ibbəš 
+burn: ehrak | ħāʼq	šməđʼ 
+burn: ekða | ħāʼq	šməđʼ 
+burn: eqmeð̣ | ħāʼq	šməđʼ 
+burn: seçmeð | ħāʼq	šməđʼ 
+calf: θaremmant uðar 
+calf: θiyiẓẓalt uɣanim uðar 
+cheek: aɟɟay 
+cheek: θaɟɟaiθ 
+chest: aðmæren 
+chest: iðmæ(r)en 
+child: afrux | aħənžia	řwašun	řƀəzʼzʼ 
+chin: θakesmarθ 
+cloud: aseɟnu | asiynu	řəɣmam	ŧažnawŧ 
+cloud: aseǯnu | asiynu	řəɣmam	ŧažnawŧ 
+cloud: asinu | asiynu	řəɣmam	ŧažnawŧ 
+cold: asemmið̣ | asəmmađʼ 
+come: as(ed) 
+cut: kḍaɦi | fři	qqəs 
+cut: keṣṣ | fři	qqəs 
+daughter: suiθ 
+day: æss | nnhā 
+day: nɦar | nnhā 
+die: əmmət | mməŧ	nnurʼi 
+die: emmeθ | mməŧ	nnurʼi 
+die: lmiyit | mməŧ	nnurʼi 
+dig: anḍer | ħfā	ɣəz 
+dig: emdal | ħfā	ɣəz 
+dig: ɣez | ħfā	ɣəz 
+dig: eɣz | ħfā	ɣəz 
+dog: aiði | ahəggā	aqzin	ayđi 
+dog: aið̣i | ahəggā	aqzin	ayđi 
+dust: el ɣebreθ | ŧaɣəbbāʼŧ	ŧaʕəžžašŧ 
+ear: amezzuɣ | aməzʼzʼuɣ	aməžžun 
+earth: šæl | ŧammuaʼŧ 
+earth: šær | ŧammuaʼŧ 
+eat: eč | šš 
+eat: ešš | šš 
+egg: θaɟfirθ | ŧaməǧǧač 
+elbow: θaɣemmarθ ufus 
+elbow: θaɣmarθ uɣil 
+eye: θimmi | ŧitʼtʼ 
+eye: θiṭ | ŧitʼtʼ 
+face: eʝʝihet 
+face: liʝet 
+face: luʝæɦ 
+face: (s)uðem 
+face: udem 
+face: θawarma 
+fall: huf | wđʼa 
+fall: uð̣a | wđʼa 
+father: bæba | ƀaƀa 
+father: ebbʷa | ƀaƀa 
+fat (n.): θaðunt 
+fear: uɟɟʷeð | ŧiggwđi 
+few: ðrus | đrus 
+few: šwaiθ | đrus 
+few: šwai(θ) | đrus 
+fight: menɣ | mmnəɣ 
+fight: šarr | mmnəɣ 
+finger: açraf 
+finger: ḍaḍ 
+fingernail: iššer | iššā 
+fish: aslem | asřəm 
+fish: asrem | asřəm 
+flow: azzel | azzəř 
+flow: azzer | azzəř 
+flower: aɣeddu | ŧanəwwašŧ 
+flower: aɣedǯu | ŧanəwwašŧ 
+fly (n.): izi 
+fly (v.): aðwa 
+fly (v.): afey 
+fog: θaɟuθ | ŧayyuŧ 
+fog: θayuθ | ŧayyuŧ 
+foot: ḍaː | đʼā 
+foot: ð̌ar | đʼā 
+foot: ð̣ar | đʼā 
+foot: inirez | đʼā 
+foot: inirz | đʼā 
+foot: inzerz | đʼā 
+foot: nuaːz | đʼā 
+forehead: ainæt 
+forehead: tawarna 
+forehead: θainaθ 
+forehead: θanerθ 
+forest: tizɟi | řɣaƀəŧ 
+girl: suiθ 
+give: uʰš | əwš 
+give: uš | əwš 
+good: ašebhan | sʼƀəħ	šən 
+good: ðelfen | sʼƀəħ	šən 
+good: dilfen | sʼƀəħ	šən 
+good: duṣbih | sʼƀəħ	šən 
+grass: erbiɦ | arrƀiʕ 
+green: azegza(u) | arrƀiʕi	aziyza 
+green: aziza | arrƀiʕi	aziyza 
+guts: adæn | ađan	ƀururu 
+hair: ašcuc | ašəwwaf	zʼətʼtʼu 
+hair: ašencuc | ašəwwaf	zʼətʼtʼu 
+hair: izzauɟɟʷan | ašəwwaf	zʼətʼtʼu 
+hair: izzauccʷan | ašəwwaf	zʼətʼtʼu 
+hand: fus 
+head: azedǯif | aqəyyua	azəǧǧif 
+head: azellif | aqəyyua	azəǧǧif 
+hear: sell | səř 
+hear: seǯ | səř 
+heart: ul | uř 
+heart: ur | uř 
+he/she: ennes 
+he/she: ines 
+he/she: netta 
+he/she: nettat(a) 
+he/she: nettaθ 
+he/she: ˗t 
+he/she: ˗θ 
+hit: aweθ | ssqəř	wwəŧ 
+hit: eweθ | ssqəř	wwəŧ 
+horn: išš | išš 
+horn: kišš | išš 
+house: θaddæ(r)θ 
+house: θiddærθ 
+how: mammec | maməš 
+how: mi sem | maməš 
+how: muc | maməš 
+hunt: aimaː | ymā 
+hunt: eimer | ymā 
+hunt: eɟmær | ymā 
+husband: arɟæz | āyaz 
+husband: aryæz | āyaz 
+husband: aːyæz | āyaz 
+if: ma dǯa | mařa 
+if: mailla | mařa 
+if: mara | mařa 
+I: ˗inu | nəšš 
+I: neč | nəšš 
+I: neš | nəšš 
+I: niš | nəšš 
+I: yi | nəšš 
+kill: enɣ | nəɣ 
+knee: fuð | fuđ 
+lake: ayelmæm | ařimam	ŧanda 
+lake: aǯermæm | ařimam	ŧanda 
+laugh: ḍhac | đʼħəš 
+laugh: ð̣hac | đʼħəš 
+laugh: ð̣haš | đʼħəš 
+leaf: tifriθ | ŧawrʼiqŧ	ŧifāšŧ 
+leaf: θifrikt | ŧawrʼiqŧ	ŧifāšŧ 
+left: h˗uzermað̣ | azʼəřmađʼ	zʼəřməđʼ 
+left: zelmað | azʼəřmađʼ	zʼəřməđʼ 
+left: zermað̣ | azʼəřmađʼ	zʼəřməđʼ 
+leg: ɣanim uḍar | đʼā 
+leg: θaksebt uð̣ar | đʼā 
+lip: aɟenfir 
+lip: aɟenšiš 
+lip: anšuš 
+lip: antur 
+live: edder | ddā 
+liver: tsa | ŧsa 
+liver: θašwit | ŧsa 
+liver: θessa | ŧsa 
+long: azeɟrær | aziyrā 
+long: aziraː | aziyrā 
+long: azizrær | aziyrā 
+louse: kθiθiššin | ŧiššəšŧ 
+louse: šurḍu | ŧiššəšŧ 
+louse: θišš | ŧiššəšŧ 
+louse: θiššiθ | ŧiššəšŧ 
+man: arɟæz | ƀnađəm 
+man: aryæz | ƀnađəm 
+man: auθem | ƀnađəm 
+man: aːyæz | ƀnađəm 
+many: attas | atʼtʼas 
+many: dunniθ | atʼtʼas 
+many: ierru | atʼtʼas 
+many: kbæla | atʼtʼas 
+many: kbæra | atʼtʼas 
+meat: açsum 
+meat: aiššum | açsum 
+meat: aisum | açsum 
+moon: yur | yua	ŧaziri 
+mother: imma | yəmma 
+mountain: adrær | ađmā	ađrā 
+mountain: θaɦrurt | ađmā	ađrā 
+mouth: aɟemmum | aqəmmum 
+mouth: bezza | aqəmmum 
+name: ism | isəm 
+nape: tammeǯarθ 
+nape: θiwa 
+navel: θaɦabbutt 
+navel: θmiṭṭ 
+neck: aǯarnið̣ | iri 
+new: ð˗eǯðið | žžđiđ 
+night: adǯirθ | ǧǧiřəŧ 
+night: eddirθ | ǧǧiřəŧ 
+night: ellilt | ǧǧiřəŧ 
+nose: θinzerθ | ŧinzā 
+not: la | wā 
+not: ur | wā 
+old: akdim 
+other: enniðen | nnəɣni 
+person: bnadem | ƀnađəm 
+play: aɦyar | irā 
+play: iraː | irā 
+play: irær | irā 
+pull: yibeð 
+rain: aːnzaːr | anzʼā 
+rat: taɣatðaiθ 
+rat: θaɟerðaiθ 
+rat: θaɣerðaiθ 
+red: azuɟɟʷaɣ | azəggwaɣ 
+right: iffus | afusi	yəffus 
+right: xufusi | afusi	yəffus 
+river: aɣza(r) | iɣzā 
+river: iɣzar | iɣzā 
+road: abrið 
+root: azwar | azʼwā 
+rope: asɣun | asɣun	iǧǧi	ŧamriaŧ 
+sand: armer | ižđi 
+sand: ižθi | ižđi 
+say: ini | ižđi 
+say: ʝummaɦ | ini | ižđi 
+see: wala | wařa	zʼā 
+see: wara | wařa	zʼā 
+see: zar | wařa	zʼā 
+see: zer | wařa	zʼā 
+short: abæɦðuð | aquđʼađʼ 
+short: akuḍaḍ | aquđʼađʼ 
+shoulder: θaɣruṭ 
+sing: šerreb | ɣənnəž 
+sister: učma 
+sister: ultma 
+sky: aʝenna | ažənna 
+small: abæɦðuð | aməzʼzʼyan	aməʕnan 
+snake: fiɣer | fiɣāʼ	ŧařəfsa	ƀusəkka 
+snake: tifiɣra | fiɣāʼ	ŧařəfsa	ƀusəkka 
+snake: θalefsa | fiɣāʼ	ŧařəfsa	ƀusəkka 
+snow: abrurres | ađfəř 
+snow: açaira | ađfəř 
+snow: aðfel | ađfəř 
+snow: aðfer | ađfəř 
+snow: ašara | ađfəř 
+son: afrux 
+sour: asemmæm 
+spit: icuffæn | ssusəf 
+spit: icufsæn | ssusəf 
+spit: usu | ssusəf 
+spit: θicufæs | ssusəf 
+spit: θicuffa | ssusəf 
+star: iθri | iŧri 
+stone: lcarṭ | azʼrʼu 
+stone: θayust | azʼrʼu 
+suck: asummey | tʼtʼəđʼ	zʼəmm 
+suck: summ | tʼtʼəđʼ	zʼəmm 
+suck: zumm | tʼtʼəđʼ	zʼəmm 
+sun: θfuiθ | ŧfušŧ 
+sun: θfukθ | ŧfušŧ 
+swell: suff 
+swim: efθæh | fđəħ	ʕum 
+tail: abeɦrur | akənnas	ŧanəwwāŧ	ŧazʼəntʼitʼ 
+tail: ašuɟɟʷað̣ | akənnas	ŧanəwwāŧ	ŧazʼəntʼitʼ 
+tail: θašeṭṭabθ | akənnas	ŧanəwwāŧ	ŧazʼəntʼitʼ 
+that: ein | =in	=ənni | ištən	iŷ	ižžən 
+that: win | =in	=ənni | ištən	iŷ	ižžən 
+that: yiyin | =in	=ənni | ištən	iŷ	ižžən 
+that: θinin | =in	=ənni | ištən	iŷ	ižžən 
+that: θiyin | =in	=ənni | ištən	iŷ	ižžən 
+they: ensen | nihni	nihənti 
+they: ensent | nihni	nihənti 
+they: netnint | nihni	nihənti 
+they: niteniti | nihni	nihənti 
+they: niθenti | nihni	nihənti 
+they: niθnin | nihni	nihənti 
+they: niθni(n) | nihni	nihənti 
+they: θen | nihni	nihənti 
+they: θent | nihni	nihənti 
+thigh: ameṣṣað 
+thin: anneḍɦuf | azđađ 
+thin: azðað | azđađ 
+this: wa | =a 
+this: wu | =a 
+this: θa | =a 
+this: θu | =a 
+thou: ç | šəkk	šəmm 
+thou: ennem | šəkk	šəmm 
+thou: enneq | šəkk	šəmm 
+thou: enneš | šəkk	šəmm 
+thou: inec | šəkk	šəmm 
+thou: inem | šəkk	šəmm 
+thou: š | šəkk	šəmm 
+thou: šec | šəkk	šəmm 
+thou: šem | šəkk	šəmm 
+throw: errami | ndʼā	səyyəƀ	ħri 
+thunder: aʝʝaʝ 
+thunder: aǯaʝ 
+tie: cars | qqən	šāf	šədd 
+tie: eqres | qqən	šāf	šədd 
+tie: šas | qqən	šāf	šədd 
+tie: šedd | qqən	šāf	šədd 
+today: iðu 
+today: nɦara 
+tomorrow: aiča 
+tomorrow: θiušša 
+tomorrow: θuðešša 
+tomorrow: θuðša 
+tongue: ils | iřəs 
+tongue: ires | iřəs 
+tongue: irs | iřəs 
+tooth: iɟmez | ŧiɣməsŧ 
+tooth: θiɣmest | ŧiɣməsŧ 
+turn: ezreɟ | nnəqřəƀ 
+turn: ezri | nnəqřəƀ 
+vagina: abečun 
+vagina: abeššun 
+vagina: amehcur 
+vagina: ašenšur 
+vagina: ašenɟur 
+vagina: ašenyar 
+vagina: azlul 
+walk: azzel | uyua 
+walk: azzer | uyua 
+walk: rah | uyua 
+walk: ruh | uyua 
+walk: tudu | uyua 
+wash: sireð | ssiađ	ssřiř	sʼəbbən 
+water: amæn | aman 
+we: anaɟ 
+we: anæɟ 
+we: aneɦ 
+we: ennaɣ 
+weep: ameṭṭa 
+weep: tru 
+we: nečin 
+we: nešni 
+we: nešnin 
+what: mi sem | min 
+when: fui waxθ | məřmi 
+when: melmi | məřmi 
+when: mermi | məřmi 
+white: amellæl | ašəmřař 
+white: ašemlæl | ašəmřař 
+white: ašemrar | ašəmřař 
+who: wi 
+wide: ð˗(a)miriu | miriw 
+wide: ð˗miriu | miriw 
+wife: elxalæt | ŧamɣāʼŧ 
+wife: twašunt | ŧamɣāʼŧ 
+wife: θaçna | ŧamɣāʼŧ 
+wind: aḍu | arriħ	asəmmiđʼ 
+wind: asemmið̣ | arriħ	asəmmiđʼ 
+wing: afaː | afriw 
+wing: affer | afriw 
+with: aɟ | akəđ 
+with: acið | akəđ 
+with: akeð | akəđ 
+with: akið | akəđ 
+with: i | akəđ 
+woman: elxalæt | ŧamətʼtʼuŧ	ŧamɣāʼŧ 
+wood: aɦaʷcʷæz 
+wood: kabu 
+worm: θayiča | ađan n tmuaŧ 
+worm: θayiθs(a) | ađan n tmuaŧ 
+year: asuɟɟʷæs | asəggwas 
+yellow: aurɣ | awrʼaɣ 
+yellow: auraɣ | awrʼaɣ 
+yesterday: ð ennaṭ 
+yesterday: ið ennað 
+you: cen | šəkk	šəmm | kənnint	kənniw 
+you: cennint | šəkk	šəmm | kənnint	kənniw 
+you: çenniu | šəkk	šəmm | kənnint	kənniw 
+you: encent | šəkk	šəmm | kənnint	kənniw 
+you: encum | šəkk	šəmm | kənnint	kənniw 
+you: enwen | šəkk	šəmm | kənnint	kənniw 
+you: enwent | šəkk	šəmm | kənnint	kənniw 
+you: kent | šəkk	šəmm | kənnint	kənniw 
+you: qemt | šəkk	šəmm | kənnint	kənniw 
+you: qen | šəkk	šəmm | kənnint	kənniw 
+you: qeniemt | šəkk	šəmm | kənnint	kənniw 
+you: qent | šəkk	šəmm | kənnint	kənniw 
+you: škemt | šəkk	šəmm | kənnint	kənniw 
+you: šwem | šəkk	šəmm | kənnint	kənniw 
+every: marra 
+ash: iɣɣəđ 
+abdomen: aʕəddis 
+bigness: aməqqrʼan 
+large: aməqqrʼan 
+breasts: ibbəš 
+come: as 
+come from: as 
+be dead: mməŧ	nnurʼi 
+dead: mməŧ	nnurʼi 
+drink: su	ħřu 
+dry: azəɣ 
+ground: ŧammuaʼŧ 
+land: ŧammuaʼŧ 
+soil: ŧammuaʼŧ 
+feather: afā	arriš 
+fire: ŧiməssi 
+fly: fāfā	đʼu 
+fly v.: fāfā	đʼu 
+full: ššua	ʕəmmāʼ 
+left hand: fus 
+1 sg.: nəšš 
+be knowledgeable: ssən 
+know: ssən 
+lie: bbuzzəř	zzəř 
+lie down: bbuzzəř	zzəř 
+head louse: ŧiššəšŧ 
+male: aŧarras	āyaz 
+much: atʼtʼas 
+multiple: atʼtʼas 
+several: atʼtʼas 
+flesh: açsum 
+hill: ađmā	ađrā 
+title: isəm 
+nighttime: ǧǧiřəŧ 
+adulterous: ištən	iŷ	ižžən 
+one: ištən	iŷ	ižžən 
+single: ištən	iŷ	ižžən 
+the: ištən	iŷ	ižžən 
+unprincipled: ištən	iŷ	ižžən 
+human: ƀnađəm 
+human being: ƀnađəm 
+rainy weather: anzʼā 
+round: aquřay 
+seed: řħəbb 
+sit: qqim 
+hide: ŧiřməšŧ 
+skin: ŧiřməšŧ 
+sleep: tʼtʼəs 
+little: aməzʼzʼyan	aməʕnan 
+smallness: aməzʼzʼyan	aməʕnan 
+smoke: ddəxxan 
+rock: azʼrʼu 
+2 sg: šəkk	šəmm 
+grind: zenaim	ŧnayən 
+two: zenaim	ŧnayən 
+go: uyua 
+hot: ħma 
+warm: ħma 
+whiteness: ašəmřař 
+who?: wi 
+female: ŧamətʼtʼuŧ	ŧamɣāʼŧ 
+distant: ggwəž 
+far: ggwəž 
+dull: đqəř 
+heavy: đqəř 
+serious: đqəř 
+close: ađəs 
+near: ađəs 
+ner: ađəs 
+salt: ŧaməǧǧaħŧ 
+earthworm: ađan n tmuaŧ 
+3 sg.: nətta 
+he: nətta 
+she: nətta 
+2 pl.: kənnint	kənniw 
+ye: kənnint	kənniw 
+you all: kənnint	kənniw 
+3 pl.: nihni	nihənti 
+here: đa 
+there: đin 
+where: mani 
+where?: mani 
+when?: məřmi 
+how?: maməš 
+some: ša	ša n 
+three: zer`aza	ŧřaŧa 
+four: erbâa	āƀʕa 
+five: jemsa	xəmsa 
+broad: miriw 
+wideness: miriw 
+fat: ŧađunt 
+thick: gđā 
+narrow: ħsā 
+principal wife: ŧamɣāʼŧ 
+his mother: yəmma 
+my mother: yəmma 
+his father: ƀaƀa 
+my father: ƀaƀa 
+woods: řɣaƀəŧ 
+stick: fiŧu	řfāʕ	ŧasʼətʼtʼa 
+fruit: řxuđʼāŧ 
+cord: asɣun	iǧǧi	ŧamriaŧ 
+grease: ŧađunt 
+claw: iššā 
+nail: iššā 
+gut: ađan	ƀururu 
+insides: ađan	ƀururu 
+intestine: ađan	ƀururu 
+intestines: ađan	ƀururu 
+vomit: arr	nsʼəř	ʕuqq 
+blow: ssuđʼ 
+breath: arr nnəfs 
+breathe: arr nnəfs 
+laughter: đʼħəš 
+cogitate: pinsʼā	xarrəs	xəmməm 
+reflect: pinsʼā	xarrəs	xəmməm 
+think: pinsʼā	xarrəs	xəmməm 
+smell: gg arriħŧ	šəmm 
+sniff: gg arriħŧ	šəmm 
+afraid: ŧiggwđi 
+be afraid: ŧiggwđi 
+fright: ŧiggwđi 
+alive: ddā 
+be alive: ddā 
+life: ddā 
+living: ddā 
+beat: ssqəř	wwəŧ 
+strike: ssqəř	wwəŧ 
+hack: fři	qqəs 
+cut open: ƀđʼa 
+split: ƀđʼa 
+pierce: pikā	qqəs	wwəŧ s řmus 
+stab: pikā	qqəs	wwəŧ s řmus 
+scratch: šməz 
+tell lies: ssxarʼrʼəq 
+stand: ƀədd 
+turn around: nnəqřəƀ 
+turn round: nnəqřəƀ 
+drop: wđʼa 
+grasp: šəbbā 
+hold: šəbbā 
+hold in arm: šəbbā 
+squeeze: zʼəmm 
+wring: zʼəmm 
+rub: nħəđ	ħəkk 
+wipe: msəħ 
+wash clothes: ssiađ	ssřiř	sʼəbbən 
+push: ʕān 
+shove: ʕān 
+bind: qqən	šāf	šədd 
+fasten: qqən	šāf	šədd 
+tie up: qqən	šāf	šədd 
+sew: xəyyəđʼ 
+count: ħsəƀ 
+enumerate: ħsəƀ 
+number: ħsəƀ 
+tally: ħsəƀ 
+have fun: irā 
+float: fđəħ 
+freeze: žməđ	žās 
+brook: iɣzā 
+stream: iɣzā 
+ocean: řəƀħā 
+sea: řəƀħā 
+ice: ažris 
+blaze: ħāʼq	šməđʼ 
+daylight: nnhā 
+daytime: nnhā 
+evil: aʕəffan	wā yəħři 
+rot: xsʼā 
+rotten: xsʼā 
+dirty: marrəɣ	wəssəx 
+filthy: marrəɣ	wəssəx 
+soiled: marrəɣ	wəssəx 
+straight: nišan 
+sharp: qđʼəʕ 
+blunt: ħfa 
+smooth: ařəqqaɣ 
+damp: uff 
+wet: uff 
+correct: nišan 
+right side: afusi	yəffus 
+at: ɣā 
+in: đi 
+inside: đi 
+and: u	đ 
+because: lʼaxatʼā	puřʼki	s minzi 

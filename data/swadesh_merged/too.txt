@@ -1,0 +1,146 @@
+all: waq 
+every: waq 
+ash: Lkakan 
+ashes: Lkakan 
+abdomen: pan 
+belly: pan 
+big: qaLa 
+bigness: qaLa 
+large: qaLa 
+bird: spun 
+bite: Ska 
+black: ciceqe 
+blood: qaLni 
+bone: lukut 
+breast: cikit 
+breasts: cikit 
+claw: maqsin 
+nail: maqsin 
+talon: maqsin 
+cloud: poqLnu 
+cold: qewiwi 
+come: min 
+come from: min 
+be dead: ni 
+dead: ni 
+die: ni 
+dog: CiCi 
+drink: qot 
+dry: wa 
+ear: aqaSqoL 
+earth: tiyat 
+ground: tiyat 
+land: tiyat 
+soil: tiyat 
+eat: wa 
+egg: qaLwat 
+eye: laqastapun 
+feather: CiSit 
+fire: makskut 
+fish: skiti 
+fly: qosnun 
+fly v.: qosnun 
+foot: toxon 
+full: cuma 
+give: maSki 
+good: cey 
+green: skayawa 
+hair: yax 
+hand: makan 
+left hand: makan 
+right: makan 
+head: aqSaq 
+hear: qaSmat 
+heart: akL kunuk 
+horn: aqaloqot 
+1 sg.: kit 
+I: kit 
+kill: maqni 
+knee: coqosni 
+be knowledgeable: kaci 
+know: kaci 
+leaf: Citin 
+lie: ma 
+lie down: ma 
+liver: makLwaka 
+long: Lman 
+head louse: skata 
+louse: skata 
+male: CiSku 
+man: %kristiano 
+many: Luwa 
+much: Luwa 
+multiple: Luwa 
+several: Luwa 
+flesh: kinit 
+meat: kinit 
+moon: maLkuyu 
+hill: qestin 
+mountain: qestin 
+mouth: kiLni 
+name: takwini 
+title: takwini 
+neck: piSni 
+new: sasti 
+night: cisa 
+nighttime: cisa 
+nose: kini 
+not: tu 
+adulterous: tin 
+one: tin 
+single: tin 
+that: manma 
+the: tin 
+unprincipled: tin 
+human: %kristiano 
+human being: %kristiano 
+person: %kristiano 
+rain: puSunu	tasain 
+rainy weather: puSunu	tasain 
+red: spinenqe 
+path: tex 
+road: tex 
+route: tex 
+root: tanqaSeq 
+round: stilili 
+say: wan 
+see: laqcin 
+seed: taLci 
+sit: la 
+hide: qoSqa 
+skin: qoSqa 
+sleep: Ltata 
+little: makcinax 
+small: makcinax 
+smallness: makcinax 
+smoke: xini 
+stand: ya 
+star: staku 
+rock: CiwiS 
+stone: CiwiS 
+sun: CiCini 
+swim: Sikiwatnan 
+tail: staxan 
+this: wama 
+2 sg: wiS 
+thou: wiS 
+you: wiS 
+tongue: simaqat 
+tooth: tacan 
+tree: kiwi 
+grind: tu 
+two: tu 
+go: Lawan 
+walk: Lawan 
+water: Skan 
+1 pl. inc.: kinan 
+we: kinan 
+we₁: kinan 
+what: tuCu 
+white: saqaqa 
+whiteness: saqaqa 
+who: ti 
+who?: ti 
+female: puskat 
+woman: puskat 
+yellow: Lmukuku 

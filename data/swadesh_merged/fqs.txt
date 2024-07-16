@@ -1,0 +1,368 @@
+all: koßo | koβo 
+all: kovo | koβo 
+arrow: φoφəkua 
+ashes: kamësoa | kaməsoa 
+ashes: kaməsoa 
+back: wamëgu 
+back: waməgu 
+bad: misëvu 
+bad: mɪsəßu 
+bark: awu 
+belly: ninu | nɪnu 
+belly: nɪnu 
+big: andëu | andəu 
+big: andəu 
+bird: si 
+bite: usaimèu | usaimɛu 
+bite: usaimɛu 
+black: mo:ta | moːta 
+black: moːta 
+blood: kosu 
+bone: afa | aɸa	əfa 
+bone: aφa ~ əfa | aɸa	əfa 
+bone: ëfa | aɸa	əfa 
+boy: ßasoantəa 
+boy: vasoantëa 
+breast: fi | fey	ɸi 
+breast: φi | fey	ɸi 
+brother: apë 
+brother: apə 
+burn: -koësu 
+burn: -koəsu 
+burn: su 
+cassowary: mui 
+child: fa 
+child: ßasobəro 
+child: vasobëro 
+chin: yakëfo 
+chin: yakəfo 
+claw: èfësi | ɛɸəsi 
+claw: ɛφəsi | ɛɸəsi 
+cloud: kami 
+cold: mèka | mɛka 
+cold: mɛka 
+come: fuènèfë | puɛnɛɸə 
+come: nabwën | puɛnɛɸə 
+come: puɛnɛφə | puɛnɛɸə 
+cut: ow 
+cut: oy 
+cut: tëpu 
+cut: tëpwo 
+dance: piruwënua 
+day: fidiavu 
+day: φɪdiaßu 
+die: -sènua | -sɛnua	sehn 
+die: -sɛnua | -sɛnua	sehn 
+dog: usu | osu	usu 
+drink: ina | -kowia 
+drink: -kowia 
+dry: ko 
+ear: mwëena | muEna	mwəena 
+ear: mwəena | muEna	mwəena 
+ear: mweënë | muEna	mwəena 
+ear: mwena | muEna	mwəena 
+earth: akua 
+earth: akwa 
+earth: akwo 
+eat: kësi | kiaɸə 
+eat: këty | kiaɸə 
+eat: këtya | kiaɸə 
+eat: kiafë | kiaɸə 
+eat: kiaφə | kiaɸə 
+egg: siako 
+elbow: okuno 
+emu: mui 
+excrement: fa 
+excrement: fe 
+eye: koi | koi	koy 
+eye: k(w)oi | koi	koy 
+fall: -tuasènua 
+fall: -tuasɛnua 
+father: ai(y)ëu 
+father: ai(y)əu 
+fat (n.): sɛßa 
+fat (n.): sèva 
+feather: si-kwë | sikwə 
+feather: sikwə 
+finger: kai-foka 
+finger: kaiφoka 
+fire: koë | koo	koə 
+fire: koə | koo	koə 
+fire: kuë | koo	koə 
+fish: iè | iɛ 
+fish: iɛ 
+five: kaifufamo 
+five: kaiφuφamo 
+flower: so 
+fly (v.): -finia 
+fly (v.): -φinia 
+foot: èfësi | ɛɸəsi 
+foot: ɛφəsi | ɛɸəsi 
+forehead: monua 
+four: tiənəßəm tiənəßəm 
+four: tiënëvëm tiënëvëm 
+full: aneida 
+girl: moaitamo 
+give: naufë | nauɸə 
+give: nauφə | nauɸə 
+good: èmiso | ɛmiso 
+good: ɛmiso 
+good: nap | ɛmiso 
+green: moku 
+hair: bbu-sngu | pəsəkar 
+hair: kwa | pəsəkar 
+hair: pë-sëkar | pəsəkar 
+hair: pəsəkar 
+hand: kei | kEy	kəi 
+hand: këi | kEy	kəi 
+hand: kəi | kEy	kəi 
+head: bbëfu | pəɸa 
+head: pëfa | pəɸa 
+head: pəφa | pəɸa 
+heart: foku | ɸoku	βoku 
+heart: voku | ɸoku	βoku 
+heart: φoku ~ ßoku | ɸoku	βoku 
+hear: xiə ßunia | xiə βunia 
+hear: xië vunia | xiə βunia 
+heavy: uilta | uilta	wilta 
+heavy: uilta ~ wilta | uilta	wilta 
+heavy: wilta | uilta	wilta 
+he/she: aroërea 
+he/she: aroərea 
+hit: -tènuya 
+hit: -tɛnuya 
+hold: safu 
+hold: sëfwo 
+horn: kaifoka | kaiɸoka 
+horn: kaiφoka | kaiɸoka 
+house: fik 
+house: φɪk 
+I: ana | tE	te	teyə 
+I: te(yë) | tE	te	teyə 
+I: te(yə) | tE	te	teyə 
+kill: natènua | natɛnua 
+kill: natɛnua 
+knee: okano 
+know: -kamèvèë | -kamɛɸɛə 
+know: -kamɛφɛə | -kamɛɸɛə 
+laugh: -yinua 
+laugh: -yɪnua 
+leaf: fa | ab3kw~o	koa-sukua	ɸa 
+leaf: koa-sukua | ab3kw~o	koa-sukua	ɸa 
+leaf: koa-süküa | ab3kw~o	koa-sukua	ɸa 
+leaf: φa | ab3kw~o	koa-sukua	ɸa 
+leg: èpësi 
+leg: ɛpəsi 
+lie: kuasëno 
+lie: kuasəno 
+liver: tita | tɪta 
+liver: tɪta 
+long: fafo | ɸaɸo 
+long: φaφo | ɸaɸo 
+louse: mənəßa | monbu 
+louse: mënëva | monbu 
+man: imèni | imɛna 
+man: imɛni | imɛna 
+man: inapro | imɛna 
+many: andëu | andəu 
+many: andəu 
+meat: amèno 
+meat: amɛno 
+meat: nèfo 
+meat: nɛφo 
+moon: uès | uɛs 
+moon: uɛs 
+morning: kafo 
+morning: kaφo 
+mother: mè(y)ëu 
+mother: mɛ(y)əu 
+mountain: akuaßoφa | akuaβoɸa	akw~obofow 
+mountain: akua-vofa | akuaβoɸa	akw~obofow 
+mouth: meyëu | meyəu 
+mouth: meyəu 
+mouth: \yakëfo | meyəu 
+name: aßaʔ | abow	aβaʔ 
+name: ava\ | abow	aβaʔ 
+neck: wësino | wəsino 
+neck: wəsino 
+new: na(\a) | Ekow	na	naʔa 
+new: na ~ naʔa | Ekow	na	naʔa 
+night: nufi(a)nu | nuɸianu	nuɸinu 
+night: nuφi(a)nu | nuɸianu	nuɸinu 
+nose: sifëti | s3bte	sɪpəti	sɪɸəti 
+nose: sipëti | s3bte	sɪpəti	sɪɸəti 
+not: mom | yəgəsa 
+not: yëgësa | yəgəsa 
+not: yəgəsa 
+old: imèn-diya 
+old: imɛndiya 
+old: mènu 
+old: mɛnu 
+old: modiya 
+old: mo-diya 
+one: fasëkëndëi | fasney	ɸasəkəndəi 
+one: φasəkəndəi | fasney	ɸasəkəndəi 
+person: imèna | imɛna 
+person: imɛna 
+rain: më(w)u | məu	məwu 
+rain: mə(w)u | məu	məwu 
+rat: onèi 
+rat: onɛi 
+red: këtu | kətu 
+red: kətu 
+road: kos 
+root: koa-ßəgu | koa-βəgu 
+root: koa-vëgu | koa-βəgu 
+round: nuku 
+sand: fisa | ɸisa 
+sand: φisa | ɸisa 
+say: wəßieno | wəβieno 
+say: wëvieno | wəβieno 
+seed: koau 
+see: wënèfë | wənɛɸə 
+see: wənɛφə | wənɛɸə 
+short: èkiu 
+short: ɛkiu 
+shoulder: makëfo 
+shoulder: makəfo 
+sister: apë 
+sister: apə 
+sit: otano 
+skin: a(w)u | au	awu	hao 
+sleep: këse | -nokuwia 
+sleep: kët | -nokuwia 
+sleep: këta | -nokuwia 
+sleep: -nokuwia 
+small: përiko | pərɪko 
+small: pərɪko 
+smoke: kokwakëfi | kokwakəɸi 
+smoke: kokwakəφi | kokwakəɸi 
+snake: mini | mɪni	tokwiaβɛ 
+snake: mɪni | mɪni	tokwiaβɛ 
+snake: tokwiaßɛ | mɪni	tokwiaβɛ 
+snake: tokwiavè | mɪni	tokwiaβɛ 
+spit: -nua 
+stand: pofëgano 
+stand: poφəgano 
+star: mɛßɪkɛ | mEb3kE	mɛβɪkɛ 
+star: mèvikè | mEb3kE	mɛβɪkɛ 
+stick: nowë 
+stone: ?lunè | lunɛ	wonE 
+stone: lunɛ | lunɛ	wonE 
+stone: wune | lunɛ	wonE 
+sun: yəkəßə | yoni	yəkəβə 
+sun: yëkëvë | yoni	yəkəβə 
+swim: -kwokəputaua 
+tail: safo | saɸo 
+tail: saφo | saɸo 
+take: nae 
+take: -nèvëtoa 
+that: ero | yoko əro 
+that: yoko ëro | yoko əro 
+that: yoko əro 
+they: kwoßoa 
+they: kwovoa 
+they two: tiɛnəßəm 
+they two: tiènëvëm 
+this: ano 
+thou: ai(yë) | ai	aiyə	hay 
+thou: ai(yə) | ai	aiyə	hay 
+thou: aria | ai	aiyə	hay 
+three: tiənəßəmɪφ 
+three: tiënëvëm-if 
+tomorrow: kaßo 
+tomorrow: kavo 
+tongue: fonè | fonE	ɸonɛ 
+tongue: funi | fonE	ɸonɛ 
+tongue: φonɛ | fonE	ɸonɛ 
+tooth: mèi | mɛi 
+tooth: mɛi 
+tree: koa | koo 
+two: tiènëfëm | tiɛnəɸəm	ty~En3bEm 
+two: tiɛnəφəm | tiɛnəɸəm	ty~En3bEm 
+walk: pën | pɪno 
+walk: pëne! | pɪno 
+walk: pino | pɪno 
+walk: pɪno 
+walk: -φinu(φɪnua) | pɪno 
+wallaby: nindi 
+wallaby: nɪndi 
+wallaby: sëmua 
+wallaby: səmua 
+warm: ku 
+water: fi | fi	ɸi 
+water: φi | fi	ɸi 
+we (excl.): yɛria 
+wet: kəsəßa(ßaφo) 
+wet: kësëva(vafo) 
+we two (excl.): yɛnəßu(a) 
+we two: yènëvu(a) 
+we: yèria | yEr3bh~ow 
+what: ßiakua | βiakua 
+what: viakua | βiakua 
+when: man ßawedaφuφ 
+when: man vawedafuf 
+where: aiyëfeifuwë 
+where: aiyəφeiφuwə 
+white: siaßo | siaβo 
+white: siavo | siaβo 
+who: ai(y)aßua | aiaβua	aiyaβua 
+who: ai(y)avua | aiaβua	aiyaβua 
+wind: këmuiè | kəmuiɛ 
+wind: kəmuiɛ 
+wing: moma 
+woman: mo 
+wood: nowə 
+yellow: yau 
+yes: ßuo 
+yesterday: kußəti 
+yesterday: kuvëti 
+yes: vuo 
+you: aria | ai	aiyə	hay 
+you two: aria 
+every: koβo 
+ash: kaməsoa 
+abdomen: nɪnu 
+bigness: andəu 
+large: andəu 
+breasts: fey	ɸi 
+nail: ɛɸəsi 
+talon: ɛɸəsi 
+come from: puɛnɛɸə 
+be dead: -sɛnua	sehn 
+dead: -sɛnua	sehn 
+fly: -ɸinia 
+fly v.: -ɸinia 
+left hand: kEy	kəi 
+right: kEy	kəi 
+1 sg.: tE	te	teyə 
+be knowledgeable: -kamɛɸɛə 
+head louse: monbu 
+male: imɛni 
+much: andəu 
+multiple: andəu 
+several: andəu 
+hill: akuaβoɸa	akw~obofow 
+title: abow	aβaʔ 
+nighttime: nuɸianu	nuɸinu 
+adulterous: fasney	ɸasəkəndəi 
+single: fasney	ɸasəkəndəi 
+the: fasney	ɸasəkəndəi 
+unprincipled: fasney	ɸasəkəndəi 
+human: imɛna 
+human being: imɛna 
+rainy weather: məu	məwu 
+hide: au	awu	hao 
+little: pərɪko 
+smallness: pərɪko 
+rock: lunɛ	wonE 
+2 sg: ai	aiyə	hay 
+grind: tiɛnəɸəm	ty~En3bEm 
+go: pɪno 
+1 pl. inc.: yEr3bh~ow 
+we₁: yEr3bh~ow 
+whiteness: siaβo 
+who?: aiaβua	aiyaβua 
+female: mo 
+dull: uilta	wilta 
+serious: uilta	wilta 

@@ -1,0 +1,134 @@
+all: pátu 
+every: pátu 
+ash: bʊ́bɨ́rru 
+ashes: bʊ́bɨ́rru 
+bark: mɨ́lpʊbà 
+big: dɨgálú 
+bigness: dɨgálú 
+large: dɨgálú 
+bird: ʔyàgu 
+bite: ŋgàldì 
+black: kyɛkyɛrú 
+blood: maSi	mašì 
+bone: dixi	ɗɩ́xi 
+breast: u7w~a	ʔúʔwa 
+breasts: u7w~a	ʔúʔwa 
+cloud: ɮáma 
+cold: šɩšʊwú 
+come: Si	šɩ̀ldɩ̀ 
+come from: Si	šɩ̀ldɩ̀ 
+be dead: t3w	tə̀w 
+dead: t3w	tə̀w 
+die: t3w	tə̀w 
+dog: xy~a	xyá 
+drink: saxur	sáxʊ̀rr 
+ear: ximi	xímí 
+earth: ʔíʔí 
+ground: ʔíʔí 
+land: ʔíʔí 
+soil: ʔíʔí 
+eat: sʊ́ŋkʊ̀rr 
+egg: xíxì 
+eye: li	lî 
+fire: u7u	ʔúʔú 
+fish: kalfi	kálfi 
+give: nɨ́	nɨ́ŋyì 
+good: gʊ̀mà-gʊ̀mà	mɨnágu 
+green: túkyarr-túkyarru 
+hair: šíši 
+head: kɨ́rú 
+hear: Ng~a	ŋgárrdì 
+heart: ɗʊfú 
+horn: t3l3mu	tɨ́lɨ́mú 
+kill: tsìyà 
+knee: wund~i	wʊ̀ndì 
+be knowledgeable: sɩ̀nì 
+know: sɩ̀nì 
+leaf: xy~ali	xyáli 
+lie: pìdà 
+lie down: pìdà 
+liver: mbulú	mb~ula	mb~ulu	mbʊlà 
+long: dzʊgámú 
+head louse: jakar3w 
+louse: jakar3w 
+male: sàlú 
+man: ndu 
+many: gaŋú 
+much: gaŋú 
+multiple: gaŋú 
+several: gaŋú 
+flesh: kumú 
+meat: kumú 
+moon: xyá 
+hill: maw	máw 
+mountain: maw	máw 
+mouth: míya 
+name: L3mu	ɬɨmú 
+title: L3mu	ɬɨmú 
+neck: fʊ̀làŋu 
+new: mafily~3Nu	mafɩlyəŋú 
+night: vw~u7i	vwʊ́ʔi 
+nighttime: vw~u7i	vwʊ́ʔi 
+nose: Ciru	čírú 
+not: mə̀y 
+adulterous: ZaNuw	tayu	tàyú	žáŋúw 
+one: ZaNuw	tayu	tàyú	žáŋúw 
+single: ZaNuw	tayu	tàyú	žáŋúw 
+that: náǯátaná 
+the: ZaNuw	tayu	tàyú	žáŋúw 
+unprincipled: ZaNuw	tayu	tàyú	žáŋúw 
+human: ndu 
+human being: ndu 
+person: ndu 
+red: dɨzú 
+path: lagu 
+road: lagu 
+route: lagu 
+sand: mɩ́šʊ̀ʔwa 
+say: mɩ́šʊ̀ʔwa 
+see: la	làrrdí 
+seed: čʊ́li 
+sit: ŋgyà 
+hide: Ci	CiCi c3w	či	číx̌i dzə́w 
+skin: Ci	CiCi c3w	či	číx̌i dzə́w 
+sleep: xányi 
+little: kwʊ́ršú 
+small: kwʊ́ršú 
+smallness: kwʊ́ršú 
+smoke: ʔyàru 
+star: SaSilg3	šášɩ́lgə̀ 
+rock: cuka	tsʊ́kà 
+stone: cuka	tsʊ́kà 
+sun: puCi	pʊ́či 
+tail: šɨ́wú 
+this: náǯákʊŋ	náǯákʊŋa 
+tongue: ky~aru	kyárrú 
+tooth: xiru	xɩ́rrú 
+tree: wu 
+grind: m3Lu	mɨ́ɬu	s3dayu	sɨ́ɗàyu 
+two: m3Lu	mɨ́ɬu	s3dayu	sɨ́ɗàyu 
+water: yimi	ʔyɩ́mi 
+what: mì	mɩ̀ɗa 
+white: pʊ̀rrtú 
+whiteness: pʊ̀rrtú 
+who: wə̀ 
+who?: wə̀ 
+female: malà 
+woman: malà 
+yellow: mɨšíšímə-mišíšímə 
+distant: náɗú 
+far: náɗú 
+dull: tɨ́dɩɓu 
+heavy: tɨ́dɩɓu 
+serious: tɨ́dɩɓu 
+close: lɨ́xu 
+near: lɨ́xu 
+ner: lɨ́xu 
+salt: wʊ́nàw 
+short: tɩšú 
+snake: pábəw 
+thin: xyɛ́ɗú 
+wind: xyə́mbaɗu 
+earthworm: xyámɗí 
+worm: xyámɗí 
+year: fá 

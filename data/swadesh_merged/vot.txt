@@ -1,0 +1,265 @@
+all: kõikki 
+every: kõikki 
+ash: tuhka 
+ashes: tuhka 
+bark: koori 
+big: suuri 
+bigness: suuri 
+large: suuri 
+bird: lintu 
+bite: purõa 
+black: mussa 
+blood: veri 
+cloud: pilvi 
+come: tulõa 
+come from: tulõa 
+be dead: koolaa 
+dead: koolaa 
+die: koolaa 
+dog: koira 
+drink: joo 
+dry: kuiva 
+ear: kõrva 
+earth: maa? 
+ground: maa? 
+land: maa? 
+soil: maa? 
+eat: söö 
+egg: munõ 
+eye: silmä 
+feather: sulka 
+fire: tuuli 
+fish: kala 
+fly: lentää 
+fly v.: lentää 
+foot: jalka 
+full: täünää 
+give: annaa 
+good: üvä 
+hair: ivuz 
+head: pää 
+hear: kuullua 
+heart: süä 
+horn: sarvi 
+1 sg.: miä 
+I: miä 
+knee: põlvi 
+be knowledgeable: täätää 
+know: täätää 
+leaf: lehto 
+long: pittšä 
+head louse: täi 
+louse: täi 
+male: meez 
+man: injehmiin 
+many: mittoma	palljo 
+much: mittoma	palljo 
+multiple: mittoma	palljo 
+several: mittoma	palljo 
+moon: kuu 
+hill: mätši 
+mountain: mätši 
+mouth: suu 
+neck: kagla 
+new: uusi	vassumõin 
+night: öö 
+nighttime: öö 
+nose: nenä 
+not: ei 
+adulterous: ühsi 
+one: ühsi 
+single: ühsi 
+that: ühsi 
+the: ühsi 
+unprincipled: ühsi 
+human: injehmiin 
+human being: injehmiin 
+person: injehmiin 
+rain: sato 
+rainy weather: sato 
+red: kauniz 
+path: tee 
+road: tee 
+route: tee 
+root: juuri 
+sand: liiva 
+say: jutõllaa 
+see: nää 
+seed: seemee 
+sit: issua 
+hide: iho 
+skin: iho 
+sleep: makaa 
+little: peeni 
+small: peeni 
+smallness: peeni 
+star: tähti 
+rock: tšivi 
+stone: tšivi 
+sun: päivikko 
+swim: ujua 
+tail: äntä 
+this: se 
+2 sg: siä 
+thou: siä 
+you: siä 
+tongue: tšeeli 
+tooth: ammaz 
+tree: puu 
+grind: kahsi 
+two: kahsi 
+go: tšäümää 
+walk: tšäümää 
+water: vesi 
+1 pl. inc.: müü 
+we: müü 
+we₁: müü 
+what: mid 
+who: tšen 
+who?: tšen 
+female: nain	nainõ 
+woman: nain	nainõ 
+yellow: kõltain 
+distant: kaukalla 
+far: kaukalla 
+close: litši 
+near: litši 
+ner: litši 
+salt: sooli 
+short: lühüd 
+snake: gaada 
+thin: õhud 
+wind: tuuli 
+earthworm: mato 
+worm: mato 
+year: voosi 
+3 sg.: tämä 
+he: tämä 
+she: tämä 
+2 pl.: tüü 
+ye: tüü 
+you all: tüü 
+3 pl.: nämäd 
+they: nämäd 
+here: täällä 
+there: siinä 
+where: kuza 
+where?: kuza 
+when: ko	ku 
+when?: ko	ku 
+how: kui 
+how?: kui 
+some: mõni 
+few: vähää 
+other: muu 
+three: kõlmõ	kõlmõd 
+four: nellä 
+five: viiz 
+broad: laddja 
+wide: laddja 
+wideness: laddja 
+narrow: ahaz 
+child: lahsi 
+principal wife: nain 
+wife: nain 
+husband: meez 
+father: isä 
+his father: isä 
+my father: isä 
+animal: živõtta 
+forest: mettsä 
+woods: mettsä 
+branch: riuku 
+stick: riuku 
+flower: kukka 
+grass: einä? 
+cord: šnurka 
+rope: šnurka 
+flesh: liha 
+meat: liha 
+fat: razva 
+grease: razva 
+claw: tšüsi 
+fingernail: tšüsi 
+nail: tšüsi 
+leg: rihi 
+arm: tšäsi 
+hand: tšäsi 
+back: seltšä 
+vomit: õhsõnõa 
+blow: puhua 
+laugh: nagraa 
+laughter: nagraa 
+cogitate: arvottaa	duumaa 
+reflect: arvottaa	duumaa 
+think: arvottaa	duumaa 
+afraid: irmua 
+be afraid: irmua 
+fear: irmua 
+fright: irmua 
+alive: elää 
+be alive: elää 
+life: elää 
+live: elää 
+living: elää 
+fight: tappõa 
+beat: löö 
+hit: löö 
+strike: löö 
+dig: kaivaa 
+lie: lešeä 
+lie down: lešeä 
+tell lies: lešeä 
+stand: sõizoa 
+turn: tšääntää 
+turn around: tšääntää 
+turn round: tšääntää 
+grasp: pitää 
+hold: pitää 
+hold in arm: pitää 
+squeeze: lutisaa 
+wring: lutisaa 
+rub: õõrtaa 
+wipe: pühtšiä 
+wash: pezea	tšülvettää 
+wash clothes: pezea	tšülvettää 
+pull: tõmpaa	väittää 
+push: tõukkaa 
+shove: tõukkaa 
+throw: viskaa 
+bind: siottaa	situa 
+fasten: siottaa	situa 
+tie: siottaa	situa 
+tie up: siottaa	situa 
+sew: õmmõa 
+sing: laulua 
+have fun: mäntšiä 
+play: mäntšiä 
+freeze: jäätüä 
+brook: jõgi 
+river: jõgi 
+stream: jõgi 
+lake: jarvi 
+ocean: meri 
+sea: meri 
+fog: utu 
+sky: taiva 
+snow: lumi 
+ice: jää 
+day: päivä 
+daylight: päivä 
+daytime: päivä 
+old: vanha 
+bad: paha 
+evil: paha 
+smooth: lakka 
+right: õikõa 
+right side: õikõa 
+left: kurõaz 
+at: juurõzõ 
+in: tšehsi 
+inside: tšehsi 
+with: kaasa 
+and: ja 
+if: kui 
+because: senperässä	sillä 

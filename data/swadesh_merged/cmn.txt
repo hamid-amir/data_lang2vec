@@ -1,0 +1,318 @@
+all: 全部 | 全部	所有	都 
+ashes: 灰 | 灰	灰烬 
+bark: 树皮 | 树皮	樹皮 
+belly: 腹部 | 肚子	胃	腹	腹部 
+big: 大 
+bird: 鸟 | 鳥	鸟 
+bite: 咬 
+black: 黑 | 漆黑的	黑	黑的 
+blood: 血 | 血	血液 
+bone: 骨头 | 骨头	骨頭	骨骼 
+breast: 乳房 | 乳房	胸 
+burn: 点着 | 烧	着火 
+burn: 烧 | 烧	着火 
+cloud: 云 | 云	云彩	雲	雲彩 
+cold: 冷 | 冷	寒冷的 
+come: 来 | 來	来 
+die: 死 | 死	死亡 
+dog: 狗 
+drink: 喝 | 喝	饮 
+dry: 干 | 乾	干	干的 
+earth: 土地 | 土	土地	地球	大地	陆地 
+ear: 耳朵 
+eat: 吃 | 吃	吃饭	喫 
+egg: 蛋 | 蛋	雞蛋	鸡蛋 
+eye: 眼睛 
+fat (n.): 油脂 
+feather: 羽毛 
+fingernail: 指甲 
+fire: 火 
+fish: 鱼 | 魚	鱼 
+fly (v.): 飞 
+foot: 脚 | 脚	腳	足 
+full: 满 | 充满的	满	满的	滿 
+give: 给 | 給	给 
+good: 好 | 好	好的 
+green: 绿 | 綠	绿	绿的 
+hair: 头发 | 头发	毛	頭髮 
+hand: 手 
+head: 头 | 头	頭 
+heart: 心 | 心	心脏	心臟 
+hear: 听 | 听到	听见	聽到	聽見 
+horn: 卵 
+I: 我 
+kill: 杀 | 杀	杀掉	杀死	殺	殺掉	殺死	致死 
+knee: 膝部 | 膝	膝盖	膝蓋 
+know: 知道 | 知道	认识 
+leaf: 叶子 | 叶	叶子	葉子 
+lie: 躺 | 撒谎	说谎	躺	骗人 
+liver: 肝脏 | 肝	肝脏 
+long: 长 | 長	长 
+louse: 虱子 | 头虱	虱	虱子	頭虱	頭蝨 
+many: 许多 | 多	很多	许多 
+man: 男人 
+meat: 肉 
+moon: 月亮 
+mountain: 山 | 丘	丘岭	山	山岳 
+mouth: 口 | 口	嘴 
+name: 名字 | 名字	名称	姓名 
+neck: 脖子 | 脖子	頸	颈 
+new: 新 | 新	新的 
+night: 夜 | 夜	夜晚	夜间 
+nose: 鼻子 
+not: 不 | 不	没	没有 
+one: 一 | 一	毐	苯三酚	衿 
+person: 人 
+rain: 雨 | 雨	雨水 
+red: 红 | 紅	红	红的 
+road: 路 | 路	道路 
+root: 根 | 根	根子 
+round: 圆 | 圆	圆的	圓	球形 
+sand: 沙子 | 沙	沙子 
+say: 说 | 說	讲	说 | 沙	沙子 
+seed: 种子 | 种子	種子 
+see: 看 | 看	看到	看見	見 
+sit: 坐 | 坐	就座 
+skin: 皮肤 | 皮	皮肤	皮膚 
+sleep: 睡眠 | 睡	睡覺	睡觉 
+small: 小 
+smoke: 烟 | 烟	煙 
+stand: 站 | 立	站 
+star: 星 | 星	星星 
+stone: 石头 | 岩石	石头	石頭 
+sun: 太阳 | 太阳	太陽 
+swim: 游泳 | 游水	游泳 
+tail: 尾巴 | 尾	尾巴 
+that: 那 | 那	那个 | 一	毐	苯三酚	衿 
+this: 这 | 这	这个	這 
+thou:  你 | 你	您 
+tongue: 舌头 | 舌头	舌頭 
+tooth: 牙齿 | 牙	牙齒	牙齿	齿 
+tree: 树 | 树	樹 
+two: 二 | 两 兩	二	兩	苯三酚	贰 
+walk: 走 | 去	步行	走	走路 
+warm: 热 | 暖和	温和的	温暖的	热	熱 
+water: 水 
+we: 我们 | 咱们	咱們	我们	我們 
+what: 什么 | 什么	什麼 
+white: 白 | 白	白的	雪白的 
+who: 谁 | 誰	谁 
+woman: 女人 | 女人	女性	妇女	婦女 
+yellow: 黄 | 黃	黄	黄的 
+every: 全部	所有	都 
+ash: 灰	灰烬 
+abdomen: 肚子	胃	腹	腹部 
+breasts: 乳房	胸 
+claw: 利爪	指甲	爪	爪子 
+nail: 利爪	指甲	爪	爪子 
+talon: 利爪	指甲	爪	爪子 
+come from: 來	来 
+be dead: 死	死亡 
+dead: 死	死亡 
+ground: 土	土地	地球	大地	陆地 
+land: 土	土地	地球	大地	陆地 
+soil: 土	土地	地球	大地	陆地 
+fat: 脂肪 
+fat n.: 脂肪 
+grease: 脂肪 
+lubricant: 脂肪 
+oil: 脂肪 
+fly: 飛	飞	飞翔 
+fly v.: 飛	飞	飞翔 
+be knowledgeable: 知道	认识 
+head louse: 头虱	虱	虱子	頭虱	頭蝨 
+male: 男人 
+much: 多	很多	许多 
+multiple: 多	很多	许多 
+several: 多	很多	许多 
+hill: 丘	丘岭	山	山岳 
+title: 名字	名称	姓名 
+nighttime: 夜	夜晚	夜间 
+adulterous: 一	毐	苯三酚	衿 
+single: 一	毐	苯三酚	衿 
+the: 一	毐	苯三酚	衿 
+unprincipled: 一	毐	苯三酚	衿 
+rainy weather: 雨	雨水 
+path: 路	道路 
+route: 路	道路 
+hide: 皮	皮肤	皮膚 
+rock: 岩石	石头	石頭 
+2 sg: 你	您 
+you: 你	您 
+grind: 两 兩	二	兩	苯三酚	贰 
+go: 去	步行	走	走路 
+hot: 暖和	温和的	温暖的	热	熱 
+1 pl. inc.: 咱们	咱們	我们	我們 
+we₁: 咱们	咱們	我们	我們 
+whiteness: 白	白的	雪白的 
+who?: 誰	谁 
+female: 女人	女性	妇女	婦女 
+distant: 远	远的	遠 
+far: 远	远的	遠 
+dull: 沉	重	重的 
+heavy: 沉	重	重的 
+serious: 沉	重	重的 
+close: 近	近的 
+near: 近	近的 
+ner: 近	近的 
+salt: 盐	盐巴	食盐	鹽 
+short: 短	短暂的	短的 
+thin: 細	薄	薄的 
+wind: 風	风 
+earthworm: 蚯蚓	蠕虫 
+worm: 蚯蚓	蠕虫 
+2 pl.: 你们	您们 
+ye: 你们	您们 
+you all: 你们	您们 
+3 pl.: 他们	他门，她们，它门 
+they: 他们	他门，她们，它门 
+here: 这儿	这里	這裡 
+there: 那儿	那里 
+where: 哪里	在哪儿 
+where?: 哪里	在哪儿 
+when: 什么时候	几点 
+when?: 什么时候	几点 
+how: 如何	怎么	怎么样	怎样 
+how?: 如何	怎么	怎么样	怎样 
+some: 一些	几个	幾個 
+few: 少数的	很少 
+little: 少数的	很少 
+other: 另一个	另外的 
+three: 三	叁	参 
+broad: 宽	宽广的	寬	广	廣	闊	阔 
+wide: 宽	宽广的	寬	广	廣	闊	阔 
+wideness: 宽	宽广的	寬	广	廣	闊	阔 
+thick: 厚	厚的 
+narrow: 狭窄的	窄 
+child: 儿童	孩子	小孩 
+principal wife: 太太	妻	妻子	爱人 
+wife: 太太	妻	妻子	爱人 
+husband: 丈夫	爱人 
+his mother: 妈妈	母亲	母親 
+mother: 妈妈	母亲	母親 
+my mother: 妈妈	母亲	母親 
+father: 父亲	父親	爸爸 
+his father: 父亲	父親	爸爸 
+my father: 父亲	父親	爸爸 
+animal: 动物	動物 
+forest: 树林	森林 
+woods: 树林	森林 
+branch: 枝条	树枝	樹枝 
+stick: 枝条	树枝	樹枝 
+fruit: 水果 
+grass: 草	青草 
+cord: 粗绳	索	绳 
+rope: 粗绳	索	绳 
+wing: 翅膀	翼 
+gut: 内脏	肠子	脏	脏器	脏腑	腸子 
+guts: 内脏	肠子	脏	脏器	脏腑	腸子 
+insides: 内脏	肠子	脏	脏器	脏腑	腸子 
+intestine: 内脏	肠子	脏	脏器	脏腑	腸子 
+intestines: 内脏	肠子	脏	脏器	脏腑	腸子 
+back: 背	脊背 
+suck: 吮吸	吸	吸取	吸吮	啜 
+spit: 吐	吐唾沫	吐痰 
+vomit: 呕吐	嘔吐 
+blow: 刮（风）	吹 
+breath: 呼吸 
+breathe: 呼吸 
+laugh: 发笑	笑 
+laughter: 发笑	笑 
+cogitate: 思索	想 
+reflect: 思索	想 
+think: 思索	想 
+smell: 嗅出	聞到	闻到 
+sniff: 嗅出	聞到	闻到 
+afraid: 害怕	恐惧 
+be afraid: 害怕	恐惧 
+fear: 害怕	恐惧 
+fright: 害怕	恐惧 
+alive: 活	活生生	活的	生活 
+be alive: 活	活生生	活的	生活 
+life: 活	活生生	活的	生活 
+live: 活	活生生	活的	生活 
+living: 活	活生生	活的	生活 
+fight: 打	打仗	打架 
+hunt: 打猎	追逐 
+beat: 打	打击 
+hit: 打	打击 
+strike: 打	打击 
+cut: 切	切开	剪	割	割开 
+hack: 切	切开	剪	割	割开 
+cut open: 分开	劈开	裂开 
+split: 分开	劈开	裂开 
+pierce: 刺	刺伤	刺穿	扎 
+stab: 刺	刺伤	刺穿	扎 
+scratch: 划	抓	搔痒 
+dig: 挖	挖掘	掘 
+lie down: 撒谎	说谎	躺	骗人 
+tell lies: 撒谎	说谎	躺	骗人 
+turn: 旋转	转 
+turn around: 旋转	转 
+turn round: 旋转	转 
+drop: 掉	落下	跌落 
+fall: 掉	落下	跌落 
+grasp: 抱	拿	握 
+hold: 抱	拿	握 
+hold in arm: 抱	拿	握 
+squeeze: 压碎	挤	擠	榨 
+wring: 压碎	挤	擠	榨 
+rub: 搓	擦	磨 
+wipe: 揩	擦 
+wash: 洗	洗涤 
+wash clothes: 洗	洗涤 
+pull: 拉	拖 
+push: 推	推动 
+shove: 推	推动 
+throw: 扔	抛 
+bind: 係	扎	拴	捆	捆扎	系	結	綁	綑	縛	绑	结	缚 
+fasten: 係	扎	拴	捆	捆扎	系	結	綁	綑	縛	绑	结	缚 
+tie: 係	扎	拴	捆	捆扎	系	結	綁	綑	縛	绑	结	缚 
+tie up: 係	扎	拴	捆	捆扎	系	結	綁	綑	縛	绑	结	缚 
+sew: 縫	缝 
+count: 数	數	点 
+enumerate: 数	數	点 
+number: 数	數	点 
+tally: 数	數	点 
+sing: 唱	唱歌	歌唱 
+have fun: 游戏	玩	頑 
+play: 游戏	玩	頑 
+float: 浮	漂	漂浮 
+freeze: 冰冻	冻	冻冰	冻结	凍	凍冰	结冰 
+swell: 膨胀 
+brook: 川	江	河	溪 
+river: 川	江	河	溪 
+stream: 川	江	河	溪 
+lake: 湖	湖泊 
+ocean: 海	海洋 
+sea: 海	海洋 
+dust: 尘埃	灰尘	灰尘 灰塵 
+sky: 天	天空 
+blaze: 烧	着火 
+day: 天	白天	白昼 
+daylight: 天	白天	白昼 
+daytime: 天	白天	白昼 
+old: 陈旧的 
+bad: 低劣的	坏 
+evil: 低劣的	坏 
+rot: 烂	爤	腐烂的	腐败 
+rotten: 烂	爤	腐烂的	腐败 
+dirty: 脏	脏的	髒 
+filthy: 脏	脏的	髒 
+soiled: 脏	脏的	髒 
+straight: 直	直的	笔直的 
+sharp: 快	锋利	锋利的	锐利的 
+blunt: 鈍	钝	钝的 
+smooth: 光滑	光滑的	滑 
+damp: 湿	湿的	濕/溼 
+wet: 湿	湿的	濕/溼 
+correct: 对	對	正确的 
+right: 右	右边	右边的	右邊 
+right side: 右	右边	右边的	右邊 
+left: 左	左边	左边的	左邊 
+in: 在—里面	在…里面	里头	里面 
+inside: 在—里面	在…里面	里头	里面 
+with: 和	和—在一起	有	用	跟 
+and: 与	和	與 
+if: 假使	如果 
+because: 因为 

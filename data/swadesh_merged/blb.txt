@@ -1,0 +1,770 @@
+all: kiad-ama 
+and: ni | ni	tu 
+and: tu | ni	tu 
+arm: ɲase 
+arm: ngase 
+arm: ŋase 
+arrow: teɣe 
+ashes: pari 
+back: momo | mɔmɔ 
+back: mɔmɔ 
+bad: ruɣe-ama | ruŋge-ama	ruɣe-ama 
+bad: ruŋge | ruŋge-ama	ruɣe-ama 
+bad: rungge(-ama) | ruŋge-ama	ruɣe-ama 
+bad: ruŋge-ama | ruŋge-ama	ruɣe-ama 
+bark: oreko tupu 
+bark: tupu 
+because: ako | akɔ 
+because: akɔ 
+belly: siapa 
+big: matuma | matu-ma	matuma 
+big: matu-ma | matu-ma	matuma 
+big: matu(-ma) | matu-ma	matuma 
+bird: biaŋabiaŋa | biaŋabiaŋa	mbiaŋa 
+bird: mbiaŋa | biaŋabiaŋa	mbiaŋa 
+bird: mbianga mbianga | biaŋabiaŋa	mbiaŋa 
+bird: mbiaŋambiaŋa | biaŋabiaŋa	mbiaŋa 
+bite: nanae | nanae-lou	nanaelɔu 
+bite: nanae-lou | nanae-lou	nanaelɔu 
+bite: nanaelɔu | nanae-lou	nanaelɔu 
+bite: nana-to | nanae-lou	nanaelɔu 
+bitter: paza 
+black: shi(m)bi | sibia-ma	simba-ama 
+black: sibia-ma | sibia-ma	simba-ama 
+black: simba-ama | sibia-ma	simba-ama 
+black: simbi | sibia-ma	simba-ama 
+black: si(m)bi | sibia-ma	simba-ama 
+blood: dara | dara	ndara 
+blood: ndara | dara	ndara 
+blow: pueka | ururu 
+blow: ururu 
+bone: piza 
+branch: kata 
+breast: susu | buala	raqoraqo	susu	susumurio 
+breathe: kozato 
+brother: kaka 
+brother: visi 
+burn: baina | baina	siŋgato 
+burn: mbaina | baina	siŋgato 
+burn: siŋgae | baina	siŋgato 
+burn: siŋgato | baina	siŋgato 
+burn: singyaeka | baina	siŋgato 
+butterfly: luluk 
+butterfly: luluku 
+cheek: ari 
+child: menggora (m./f.) | meŋɔra	meɣora 
+child: mɛŋora | meŋɔra	meɣora 
+child: meŋɔra | meŋɔra	meɣora 
+child: meɣora | meŋɔra	meɣora 
+child: salua | meŋɔra	meɣora 
+chin: tana 
+cloud: kutukutu | lei 
+cloud: lei 
+cold: sanusanu | saroro	sarosaroro 
+cold: saroro | saroro	sarosaroro 
+cold: sarosaroro | saroro	sarosaroro 
+cold: saro-saroro | saroro	sarosaroro 
+come: amangga | kilo	ku-a	kua	ɣu- 
+come: amangge | kilo	ku-a	kua	ɣu- 
+come: kua | kilo	ku-a	kua	ɣu- 
+come: ku-a | kilo	ku-a	kua	ɣu- 
+come: ku-a ~ ɣu- | kilo	ku-a	kua	ɣu- 
+come: nggu-a | kilo	ku-a	kua	ɣu- 
+correct: uri | uri-ama 
+correct: uri-ama 
+count: ataito 
+crocodile: esoro 
+crocodile: ɛsɔro 
+crocodile: esɔrɔ 
+cut: kombue | paŋgoilo 
+cut: kombuto | paŋgoilo 
+cut: paŋgoe | paŋgoilo 
+cut: paŋgoilo 
+cut: seseka | paŋgoilo 
+cut: zatae | paŋgoilo 
+cut: ⁿǯokuto | paŋgoilo 
+dance: pekao 
+dark: ipuhali 
+dark: kutumana 
+daughter: menggora 
+daughter: meɣora 
+day: naɲu | naɲu	zakaremu	ŋaniu 
+day: nganiu | naɲu	zakaremu	ŋaniu 
+day: ŋaniu | naɲu	zakaremu	ŋaniu 
+day: pakoza | naɲu	zakaremu	ŋaniu 
+day: raisi raisi | naɲu	zakaremu	ŋaniu 
+day: zakaremu | naɲu	zakaremu	ŋaniu 
+die: vou 
+dig: buta-zato | telito 
+dig: talito | telito 
+dig: telite | telito 
+dig: telito 
+dirty: kuna 
+dog: siele 
+drink: jua-vuato | nozuta	nozuto	sapo	sapɔ	ⁿǯuvuatɔ 
+drink: nozuta | nozuta	nozuto	sapo	sapɔ	ⁿǯuvuatɔ 
+drink: nozuto | nozuta	nozuto	sapo	sapɔ	ⁿǯuvuatɔ 
+drink: nozutɔ | nozuta	nozuto	sapo	sapɔ	ⁿǯuvuatɔ 
+drink: sapo | nozuta	nozuto	sapo	sapɔ	ⁿǯuvuatɔ 
+drink: sapɔ | nozuta	nozuto	sapo	sapɔ	ⁿǯuvuatɔ 
+drink: tju | nozuta	nozuto	sapo	sapɔ	ⁿǯuvuatɔ 
+drink: zhu-vuata | nozuta	nozuto	sapo	sapɔ	ⁿǯuvuatɔ 
+drink: ⁿǯuvuatɔ | nozuta	nozuto	sapo	sapɔ	ⁿǯuvuatɔ 
+dry: tabatabari-ama | tabatabari-ama	tambaro 
+dry: tambaro | tabatabari-ama	tambaro 
+dry: ta(m)baro | tabatabari-ama	tambaro 
+dust: vuruvuru 
+ear: salinga | talina	taliŋa 
+ear: talinga | talina	taliŋa 
+ear: taliŋa | talina	taliŋa 
+earth: ara | midoku 
+earth: midoku 
+earth: miduku | midoku 
+earth: miⁿduku | midoku 
+earth: minduku | midoku 
+earth: muⁿduku | midoku 
+earth: peuru | midoku 
+eat: madoe | vuat-o	vuato	ɔkua 
+eat: o-ku-a | vuat-o	vuato	ɔkua 
+eat: ɔkua | vuat-o	vuato	ɔkua 
+eat: sa uwatu | vuat-o	vuato	ɔkua 
+eat: vuata | vuat-o	vuato	ɔkua 
+eat: vuato | vuat-o	vuato	ɔkua 
+eat: vuat-o | vuat-o	vuato	ɔkua 
+egg: toruru | toruru	tɔruru 
+egg: tɔruru | toruru	tɔruru 
+elbow: vati 
+excrement: sengga sengga 
+eye: loilo | vilu 
+eye: mata | vilu 
+eye: vilu 
+face: loilo 
+fall: pialo 
+far: aŋa 
+father: kalem | mama 
+father: mama 
+fat (n.): kasi 
+fear: ngalo | ŋalo 
+fear: ŋalo 
+feather: tou | zabu	zambu 
+feather: zabu | zabu	zambu 
+feather: zambu | zabu	zambu 
+fight: pazokiɲo 
+fingernail: tikilaa 
+fingernail: tikilau 
+finger: seseu 
+fire: uga | bainabaina	uza 
+fire: uruso | bainabaina	uza 
+fire: uza | bainabaina	uza 
+fish: jailao | niuniu	ɲuɲu 
+fish: niuniu | niuniu	ɲuɲu 
+fish: ñuñu | niuniu	ɲuɲu 
+fish: ɲuɲu | niuniu	ɲuɲu 
+five: sike 
+float: soleo 
+float: totu | soleo 
+flower: rurururu | sisusisu 
+flower: sisusisu 
+flow: ruⁿduⁿdu 
+fly (n.): salosalo 
+fly (n.): siⁿdiki 
+fly (v.): akazo 
+fog: koulama 
+foot: kiti 
+foot: kiti-saresare 
+forehead: kape 
+forest: kingguale 
+four: ariku 
+fruit: epa | epa	sisusisu-na	siusisuna 
+fruit: lebu | epa	sisusisu-na	siusisuna 
+fruit: ore mari | epa	sisusisu-na	siusisuna 
+fruit: pisuka | epa	sisusisu-na	siusisuna 
+fruit: sisusisu | epa	sisusisu-na	siusisuna 
+fruit: sisusisu-na | epa	sisusisu-na	siusisuna 
+fruit: siusisuna | epa	sisusisu-na	siusisuna 
+full: kotasukata | sukato	sukato-ama	zavorika 
+full: sukato | sukato	sukato-ama	zavorika 
+full: sukato-ama | sukato	sukato-ama	zavorika 
+girl: sinanggurusu 
+give: katila | kati-la	katila	puaro 
+give: kati-la | kati-la	katila	puaro 
+give: kati(-la | kati-la	katila	puaro 
+give: kativo | kati-la	katila	puaro 
+give: puaro | kati-la	katila	puaro 
+give: -zato) | kati-la	katila	puaro 
+good: uri | uri	uri-ama 
+good: uri(-ala/ama) | uri	uri-ama 
+good: uri-ama | uri	uri-ama 
+good: uriavo | uri	uri-ama 
+good: uriawu | uri	uri-ama 
+grass: selele | selele	seulele 
+grass: seulele | selele	seulele 
+green: lunggumu(-ama) | luŋgumu-ama	luɣumu-ama 
+green: luŋgumu-ama | luŋgumu-ama	luɣumu-ama 
+green: luɣumu-ama | luŋgumu-ama	luɣumu-ama 
+green: vanggo | luŋgumu-ama	luɣumu-ama 
+guts: magi 
+hair: fou 
+hair: ndou | fou 
+hair: tou | fou 
+hand: ngase | nase	ŋase 
+hand: ŋase | nase	ŋase 
+hand: ngase-saresare | nase	ŋase 
+hand: ngerungeru | nase	ŋase 
+head: lezu 
+head: luzu | lezu 
+heart: bulo | bulo	mbulɔ 
+heart: mbulɔ | bulo	mbulɔ 
+hear: vigo | vigo	viqo	viŋgo 
+hear: viŋgo | vigo	viqo	viŋgo 
+heavy: duki | ⁿduki 
+heavy: ⁿduki 
+here: koi 
+here: komi | koi 
+here: veirutu | koi 
+he/she: -k 
+he/she: k- 
+he/she: ko 
+he/she: ko- 
+he/she: o- 
+he/she: -v 
+he/she: v- 
+he/she: vo 
+he/she: voko 
+he/she: vɔ ~ kɔ 
+he/she: vo-ko/ko-ko 
+he/she: zo 
+hit: kana | pazoto	pazov-o	pazɔvɔ 
+hit: pazo | pazoto	pazov-o	pazɔvɔ 
+hit: pazo- | pazoto	pazov-o	pazɔvɔ 
+hit: pazovo | pazoto	pazov-o	pazɔvɔ 
+hit: pazov-o | pazoto	pazov-o	pazɔvɔ 
+hit: pazɔvɔ ~ pazoto | pazoto	pazov-o	pazɔvɔ 
+hold: kamaka | kamako 
+hold: kamako 
+hold: sa-lala/langa/la/ma/nggela/niongga/ngela/mela/me | kamako 
+house: pade 
+house: paⁿde 
+how: lateu | noini-o	noiɲɔ	noni 
+how: noini-o | noini-o	noiɲɔ	noni 
+how: noninio | noini-o	noiɲɔ	noni 
+how: noni ~ noiɲɔ | noini-o	noiɲɔ	noni 
+hunt: xaulao | zaulau 
+hunt: zaulau 
+I: a | ana	aŋa 
+I: a- | ana	aŋa 
+I: anga | ana	aŋa 
+I: aŋa | ana	aŋa 
+I: aŋako | ana	aŋa 
+I: anggai | ana	aŋa 
+I: aŋoko | ana	aŋa 
+if: esa 
+I: -l | ana	aŋa 
+I: l- | ana	aŋa 
+in: omele 
+in: omɛle | omele 
+jaw: tana 
+kill: papasirika | vouvaiva 
+kill: vouvaiva 
+kill: vouvato | vouvaiva 
+knee: iɣe | iqi	iŋge	iɣe 
+knee: ingge | iqi	iŋge	iɣe 
+knee: iŋge | iqi	iŋge	iɣe 
+know: ɲaɲo | ol-ai niania	ɲaɲo 
+know: (ol-ai) niania | ol-ai niania	ɲaɲo 
+know: ol-ai niania | ol-ai niania	ɲaɲo 
+laugh: kisiko | nureo 
+laugh: niureo | nureo 
+laugh: nureo 
+leaf: lekona | lekona	lekɔna 
+leaf: lekɔna | lekona	lekɔna 
+left: made | maⁿde 
+left: maⁿde 
+leg: kiti 
+lie: teku 
+lightning: kapi 
+lip: bauta 
+live: elo 
+liver: kola 
+live: saevo 
+live: saivo 
+long: rosi | rosi-ama 
+long: rosi-ama 
+long: rosi(-ama) | rosi-ama 
+louse: sipi 
+louse: tiŋgau | sipi 
+man: lasive rusu | maba	mamba 
+man: maba | maba	mamba 
+man: mamba | maba	mamba 
+man: sinaguama | maba	mamba 
+many: kubo | kubo	kumbo 
+many: kulio | kubo	kumbo 
+many: kumbo | kubo	kumbo 
+many: matu | kubo	kumbo 
+meat: marabau | marabau	marambau 
+meat: marambau | marabau	marambau 
+moon: kaboso | kaboso	kambɔsɔ 
+moon: kabusa | kaboso	kambɔsɔ 
+moon: kamboso | kaboso	kambɔsɔ 
+moon: kambɔsɔ | kaboso	kambɔsɔ 
+morning: vikale 
+mosquito: arasau 
+mosquito: kerokero (?) 
+mosquito: kɛrokɛro 
+mosquito: kerɔkerɔ 
+mother: ɲaɲa | niania	ɲaɲa 
+mother: niania | niania	ɲaɲa 
+mountain: sopu 
+mountain: tete | sopu 
+mouth: suto | suto	sutɔ 
+mouth: sutɔ | suto	sutɔ 
+name: ngi | ni	ŋi 
+name: ŋi | ni	ŋi 
+navel: leipa 
+near: sipole 
+neck: ⁿgɔnaⁿgɔna | ɣonaɣona	ⁿgɔnaⁿgɔna 
+neck: nggonanggona | ɣonaɣona	ⁿgɔnaⁿgɔna 
+neck: ŋgonaŋgona | ɣonaɣona	ⁿgɔnaⁿgɔna 
+neck: ɣonaɣona | ɣonaɣona	ⁿgɔnaⁿgɔna 
+new: vairu | vairu-ama	vairuama 
+new: vairu-ama | vairu-ama	vairuama 
+new: vairu(-ama) | vairu-ama	vairuama 
+night: ipu 
+night: ipu(kale) 
+night: raisiraisi | ipu 
+night: raisi(-raisi) | ipu 
+nose: nggame | qame	ziŋɔ	ŋgame	ɣame 
+not: pui | pui	puii-ama 
+not: puii-ama | pui	puii-ama 
+not: puli | pui	puii-ama 
+not: puli(-ala/ama) | pui	puii-ama 
+not: puli(-ama) | pui	puii-ama 
+old: gole 
+old: ŋgole 
+old: tam 
+old: tana 
+one: maⁿdeu | kalapado	omadeu	ɔmaⁿdeu 
+one: omadeu | kalapado	omadeu	ɔmaⁿdeu 
+one: ɔmaⁿdeu | kalapado	omadeu	ɔmaⁿdeu 
+person: maba | maba	mamba 
+person: mamba | maba	mamba 
+play: zurao | zurau 
+play: zurau 
+pull: tatae 
+pull: tatato 
+push: imato 
+push: imbae 
+rain: niauro | nioro	ɲoro 
+rain: nioro | nioro	ɲoro 
+rain: ɲoro | nioro	ɲoro 
+rat: ruji 
+rat: ruzi 
+rat: ruⁿǯi 
+rat: ruǯi 
+red: ⁿdiri | diri-ama	ⁿdiri-ama 
+red: ⁿdiri-ama | diri-ama	ⁿdiri-ama 
+red: diri-ama | diri-ama	ⁿdiri-ama 
+red: diri(-ama) | diri-ama	ⁿdiri-ama 
+right: palo | nase	ŋase 
+river: sukuru 
+road: keve 
+root: kataiɣili | kataiɣili	raki 
+root: kataikili | kataiɣili	raki 
+root: katainggili | kataiɣili	raki 
+root: raki | kataiɣili	raki 
+rope: gusini | siakona	vuaro 
+rope: ŋgusini | siakona	vuaro 
+rope: siakona | siakona	vuaro 
+rope: vuaro | siakona	vuaro 
+rotten: muɲomuɲori | sapeo 
+rotten: sape | sapeo 
+rotten: sapeo 
+round: torutoru-ama 
+rub: lazika | pusailo 
+rub: pusailo 
+salt: kava 
+sand: karokoni 
+sand: zavanga | karokoni 
+say: bazubazue | kiŋo-laevo	kiŋɔla	pesio | karokoni 
+say: kaseka | kiŋo-laevo	kiŋɔla	pesio | karokoni 
+say: kiŋɔla | kiŋo-laevo	kiŋɔla	pesio | karokoni 
+say: kingo-laevo | kiŋo-laevo	kiŋɔla	pesio | karokoni 
+say: kiŋo-laevo | kiŋo-laevo	kiŋɔla	pesio | karokoni 
+say: mbazumbazue | kiŋo-laevo	kiŋɔla	pesio | karokoni 
+say: nggaseka | kiŋo-laevo	kiŋɔla	pesio | karokoni 
+say: pesi | kiŋo-laevo	kiŋɔla	pesio | karokoni 
+say: pesio | kiŋo-laevo	kiŋɔla	pesio | karokoni 
+say: pesi(pesi) | kiŋo-laevo	kiŋɔla	pesio | karokoni 
+scratch: garito | pirakasa 
+scratch: kirikirito | pirakasa 
+scratch: pirakasa 
+sea: hiwere 
+sea: ivere 
+sea: kolo 
+see: alea | alea	kelo	v-ea 
+seed: nene | sisu 
+seed: pina | sisu 
+seed: sauro | sisu 
+seed: sisu 
+see: kea | alea	kelo	v-ea 
+see: kelo | alea	kelo	v-ea 
+see: ununu | alea	kelo	v-ea 
+see: (v-)ea | alea	kelo	v-ea 
+see: v-ea | alea	kelo	v-ea 
+sew: turue | turuto 
+sew: turuto 
+sharp: ivo 
+short: pu(n)juama | puⁿǯu 
+short: puⁿǯu | puⁿǯu 
+shoulder: vakare 
+sing: kerao 
+sing: kɛrao | kerao 
+sister: puliama 
+sister: saŋgi 
+sit: bap-i | pap-i	papi	papu 
+sit: papi | pap-i	papi	papu 
+sit: pap-i | pap-i	papi	papu 
+sit: papi ~ papu | pap-i	papi	papu 
+sit: papu | pap-i	papi	papu 
+skin: topu | topu	tupu 
+skin: tupu | topu	tupu 
+sky: au 
+sky: okale | au 
+sleep: marong-a | maroŋ-a	maroŋa	maroŋo 
+sleep: maroŋ-a | maroŋ-a	maroŋa	maroŋo 
+sleep: marongo | maroŋ-a	maroŋa	maroŋo 
+sleep: maroŋo | maroŋ-a	maroŋa	maroŋo 
+sleep: maroŋo ~ maroŋa | maroŋ-a	maroŋa	maroŋo 
+small: nari | sil-ama	silo-ama 
+small: sil | sil-ama	silo-ama 
+small: sil-ama | sil-ama	silo-ama 
+small: silo-ama | sil-ama	silo-ama 
+small: silo(-ama) | sil-ama	silo-ama 
+smell: duimi-ko | tuimi-ko	tuimikɔ	tuiɲo 
+smell: tuimi-ko | tuimi-ko	tuimikɔ	tuiɲo 
+smoke: kolu | kolu	kɔlu 
+smoke: kɔlu | kolu	kɔlu 
+smoke: kolu(kolu) | kolu	kɔlu 
+smooth: lauⁿǯiⁿǯi | levilevi 
+smooth: levilevi 
+snake: dole | dole	ⁿdɔle 
+snake: ⁿdole | dole	ⁿdɔle 
+snake: ⁿdɔle | dole	ⁿdɔle 
+some: kama 
+son: menggora 
+son: meɣora 
+sour: ngangi 
+sour: paza 
+spit: supasupa | supato 
+spit: supato 
+split: reseilo 
+split: seseto | reseilo 
+squeeze: žužue | zuzuto 
+squeeze: zuzuto 
+stand: lojo | loǯo	loⁿǯo 
+stand: loⁿǯo | loǯo	loⁿǯo 
+stand: loǯo | loǯo	loⁿǯo 
+star: pino | suti 
+star: suti 
+stick: turu | kata 
+stone: lado | lado	laⁿdo 
+stone: laⁿdo | lado	laⁿdo 
+straight: suama 
+straight: suana | suama 
+suck: kuzukuzuto | kuzutɔ 
+suck: kuzutɔ 
+sun: nganiu | naniu	ŋaniu	ŋaɲu 
+sun: ŋaniu | naniu	ŋaniu	ŋaɲu 
+sun: ŋaɲu | naniu	ŋaniu	ŋaɲu 
+sun: niaimi | naniu	ŋaniu	ŋaɲu 
+sweet: saroro 
+sweet: uriarogurogu 
+swell: tumbu 
+swim: ruaz-a | ruaz-a	ruazo 
+swim: ruazo | ruaz-a	ruazo 
+swim: totu | ruaz-a	ruazo 
+tail: picutu | sipuku 
+tail: sipuku 
+take: gua-la 
+take: koa-la 
+take: kuilo 
+take: kuilɔ 
+that: ko/vo/niongga/se | kalapado	omadeu	ɔmaⁿdeu 
+that: uko | kalapado	omadeu	ɔmaⁿdeu 
+that: vo | kalapado	omadeu	ɔmaⁿdeu 
+there: iko | sai 
+there: ko | sai 
+there: sai 
+they: ke- | se 
+they: -m | se 
+they: m- | se 
+they: se 
+they two: -k 
+they two: k- 
+they two: nggo- 
+they two: nioɣa 
+they two: niongga 
+they two: niɔŋga 
+they two: ɲoŋga 
+thick: ama | mota 
+thick: mota 
+thin: adadau | aⁿdakiri 
+thin: aⁿdaⁿdau | aⁿdakiri 
+thin: aⁿdakiri 
+think: kerukeruto 
+think: kɛrukɛruto | kerukeruto 
+this: komi 
+this: komia 
+this: komi/nei/ngiogi/ni 
+this: nea | komi 
+thou: me | no	ŋo	ŋɔ 
+thou: -ng | no	ŋo	ŋɔ 
+thou: ng- | no	ŋo	ŋɔ 
+thou: ngno | no	ŋo	ŋɔ 
+thou: ngo | no	ŋo	ŋɔ 
+thou: ŋo | no	ŋo	ŋɔ 
+thou: ŋɔ | no	ŋo	ŋɔ 
+thou: ngo-ko | no	ŋo	ŋɔ 
+thou: ŋoko | no	ŋo	ŋɔ 
+three: zouke 
+three: žouke | zouke 
+thunder: paka 
+tie: lupika 
+today: vairutu 
+today: vaitu 
+today: veirutu 
+tomorrow: lea 
+tomorrow: onggotinia 
+tomorrow: zoukenga 
+tongue: lenio | lenio	leɲo 
+tongue: leɲo | lenio	leɲo 
+tooth: livo | taka 
+tooth: taka 
+tree: ore 
+tree: ɔre | ore 
+turn: lilite 
+turn: vipulɔ 
+two: omuɣa | omuqa	omuɣa	ɔmuŋga 
+two: omungga | omuqa	omuɣa	ɔmuŋga 
+two: omuŋga | omuqa	omuɣa	ɔmuŋga 
+two: ɔmuŋga | omuqa	omuɣa	ɔmuŋga 
+vagina: nǯiri 
+vomit: sakoezo 
+walk: dalio | dalio	talio 
+walk: ola | dalio	talio 
+walk: ɔla | dalio	talio 
+walk: rere | dalio	talio 
+walk: tali | dalio	talio 
+walk: talio | dalio	talio 
+walk: talio ~ dalio | dalio	talio 
+warm: singgalala | vualavuala 
+warm: vualavuala 
+warm: vuala vuala | vualavuala 
+warm: vuavualak-ama | vualavuala 
+warm: vuavualak(-ama) | vualavuala 
+wash: mbusaekala 
+wash: pusae 
+wash: pusato 
+wash: sopu 
+water: ivere | ju	ǯu	ⁿǯu 
+water: jiu | ju	ǯu	ⁿǯu 
+water: ju | ju	ǯu	ⁿǯu 
+water: tju | ju	ǯu	ⁿǯu 
+water: ⁿǯu | ju	ǯu	ⁿǯu 
+water: ǯu | ju	ǯu	ⁿǯu 
+we: anime-ko 
+we: aningge-ko | anime 
+we: anivo | anime 
+we: enge | anime 
+we: enge-ko | anime 
+we: engge-ko | anime 
+weep: iguiguto 
+weep: zialo 
+we (excl.): eŋe 
+we (incl.): anime 
+we (incl.): anime ko 
+we (incl.): aning(g)e 
+we (incl.): me- 
+we (incl.): -mel 
+we (incl.): mel- 
+we: nge- | anime 
+we: -ngel | anime 
+we: ngel- | anime 
+wet: pessa | sitesite 
+wet: sitesite 
+wet: site site | sitesite 
+wet: siusiu | sitesite 
+we two: engge 
+we two (excl.): eɣe 
+we two (excl.): eŋge 
+we two (excl.): ɛŋge 
+we two (incl.): aniŋe 
+we two (incl.): aningge 
+we two (incl.): aniŋge 
+we two (incl.): aningo 
+we two (incl.): ngge- 
+we two (incl.): -nggel 
+we two (incl.): nggel- 
+we two: ngge- 
+we two: -nggel 
+we two: nggel- 
+what: la-la/ma/iniongga/ve | loma	noinio	noiɲɔ 
+what: loma | loma	noinio	noiɲɔ 
+what: noinio | loma	noinio	noiɲɔ 
+what: noiɲɔ | loma	noinio	noiɲɔ 
+what: noni | loma	noinio	noiɲɔ 
+when: noikeru | nɔnikeru 
+when: nɔnikeru 
+when: nonikɛru | nɔnikeru 
+where: lai 
+white: tapo | tapo	tapo-ama 
+white: tapo-ama | tapo	tapo-ama 
+white: tapo(-ama) | tapo	tapo-ama 
+white: zakaremu | tapo	tapo-ama 
+who: lala | lala	lalainio	lalaiɲɔ 
+who: lalainio | lala	lalainio	lalaiɲɔ 
+who: lala ~ lalaiɲɔ | lala	lalainio	lalaiɲɔ 
+who: la-la/ma/iniongga/ve | lala	lalainio	lalaiɲɔ 
+wife: sinanggu 
+wind: ururu 
+wing: zabu | zambu 
+wing: zambu 
+wipe: puŋgoe | puŋgoto 
+wipe: puŋgoto 
+woman: mangotta | reko 
+woman: reko 
+woman: reko (reko) 
+woman: sinanggu | reko 
+wood: luko 
+wood: ore 
+year: sambɛre 
+yellow: logo-sua | vaŋgo-ama	vaɣo-ama 
+yellow: lunggumu | vaŋgo-ama	vaɣo-ama 
+yellow: vaŋgo | vaŋgo-ama	vaɣo-ama 
+yellow: vanggo(-ama) | vaŋgo-ama	vaɣo-ama 
+yellow: vaŋgo-ama | vaŋgo-ama	vaɣo-ama 
+yellow: vaɣo-ama | vaŋgo-ama	vaɣo-ama 
+yesterday: onggotimala 
+yesterday: ravi 
+yesterday: raweh 
+yesterday: zouke limana 
+yes: uri 
+yes: zio 
+you: me | no	ŋo	ŋɔ 
+you: me- | no	ŋo	ŋɔ 
+you: me-ko | no	ŋo	ŋɔ 
+you: -mel | no	ŋo	ŋɔ 
+you: ngge-ko | no	ŋo	ŋɔ | me 
+you two: ngge 
+you two: ŋge 
+you two: -nggel 
+you two: nggel- 
+every: kiad-ama 
+ash: pari 
+abdomen: siapa 
+bigness: matu-ma	matuma 
+large: matu-ma	matuma 
+breasts: buala	raqoraqo	susu	susumurio 
+come from: kilo	ku-a	kua	ɣu- 
+be dead: vou 
+dead: vou 
+ground: midoku 
+land: midoku 
+soil: midoku 
+fly: akazo 
+fly v.: akazo 
+left hand: nase	ŋase 
+horn: sotasota 
+1 sg.: ana	aŋa 
+be knowledgeable: ol-ai niania	ɲaɲo 
+lie down: teku 
+head louse: sipi 
+male: maba	mamba 
+much: kubo	kumbo 
+multiple: kubo	kumbo 
+several: kubo	kumbo 
+flesh: marabau	marambau 
+hill: sopu 
+title: ni	ŋi 
+nighttime: ipu 
+adulterous: kalapado	omadeu	ɔmaⁿdeu 
+single: kalapado	omadeu	ɔmaⁿdeu 
+the: kalapado	omadeu	ɔmaⁿdeu 
+unprincipled: kalapado	omadeu	ɔmaⁿdeu 
+human: maba	mamba 
+human being: maba	mamba 
+rainy weather: nioro	ɲoro 
+path: keve 
+route: keve 
+hide: topu	tupu 
+little: sil-ama	silo-ama 
+smallness: sil-ama	silo-ama 
+rock: lado	laⁿdo 
+2 sg: no	ŋo	ŋɔ 
+grind: omuqa	omuɣa	ɔmuŋga 
+go: dalio	talio 
+hot: vualavuala 
+1 pl. inc.: anime 
+we₁: anime 
+whiteness: tapo	tapo-ama 
+who?: lala	lalainio	lalaiɲɔ 
+female: reko 
+distant: aŋa 
+dull: ⁿduki 
+serious: ⁿduki 
+close: sipole 
+ner: sipole 
+3 sg.: vo 
+he: vo 
+she: vo 
+2 pl.: me 
+ye: me 
+you all: me 
+3 pl.: se 
+where?: lai 
+when?: nɔnikeru 
+how?: noini-o	noiɲɔ	noni 
+fat: mota 
+his mother: niania	ɲaɲa 
+my mother: niania	ɲaɲa 
+his father: mama 
+my father: mama 
+cord: siakona	vuaro 
+breath: kozato 
+laughter: nureo 
+cogitate: kerukeruto 
+reflect: kerukeruto 
+sniff: tuimi-ko	tuimikɔ	tuiɲo 
+afraid: ŋalo 
+be afraid: ŋalo 
+fright: ŋalo 
+beat: pazoto	pazov-o	pazɔvɔ 
+strike: pazoto	pazov-o	pazɔvɔ 
+hack: paŋgoilo 
+cut open: reseilo 
+pierce: ⁿǯokuto 
+stab: ⁿǯokuto 
+drop: pialo 
+grasp: kamako 
+hold in arm: kamako 
+wring: zuzuto 
+bind: lupika 
+fasten: lupika 
+tie up: lupika 
+enumerate: ataito 
+number: ataito 
+tally: ataito 
+have fun: zurau 
+brook: sukuru 
+stream: sukuru 
+blaze: baina	siŋgato 
+daylight: naɲu	zakaremu	ŋaniu 
+daytime: naɲu	zakaremu	ŋaniu 
+evil: ruŋge-ama	ruɣe-ama 
+rot: sapeo 
+filthy: kuna 
+soiled: kuna 
+blunt: tutu 
+damp: sitesite 
+right side: palo 
+inside: omele 

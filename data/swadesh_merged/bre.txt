@@ -1,0 +1,335 @@
+all: oll	peb	toud 
+every: oll	peb	toud 
+ash: ludu	lusow 
+ashes: ludu	lusow 
+bark: pluskenn	rusk	ruskenn 
+abdomen: kroth	torr 
+belly: kroth	torr 
+big: bras	braz 
+bigness: bras	braz 
+large: bras	braz 
+bird: edhen	evn	labous 
+bite: densel	krigiɲ 
+black: du 
+blood: goes	gwad	gw~ad 
+bone: askorn 
+breast: bron	bronn 
+breasts: bron	bronn 
+claw: kraban 
+nail: kraban 
+talon: kraban 
+cloud: koabrenn	kommolenn	koumoulenn 
+cold: anoued	riou	yen	yeyn 
+come: dond	dont	dos 
+come from: dond	dont	dos 
+be dead: mErfEl	mErvEl	maro	mervel	merwel 
+dead: mErfEl	mErvEl	maro	mervel	merwel 
+die: mErfEl	mErvEl	maro	mervel	merwel 
+dog: ki 
+drink: Evo*	eva	evaɲ 
+dry: seh	sych 
+ear: skouarn	skovarn	skuarn 
+earth: dor	douar 
+ground: dor	douar 
+land: dor	douar 
+soil: dor	douar 
+eat: dibriɲ	drebi	dybri 
+egg: oy	u	vi 
+eye: lagad	lagas 
+feather: pluenn	pluvenn 
+fire: tan 
+fish: pEsk	pesk	pysk 
+fly: nijal 
+fly v.: nijal 
+foot: troad	troes 
+full: len	leun 
+give: reiɲ	ri 
+good: da	mad	mas 
+green: glaz	gwer	gwyrdh	ver 
+hair: bleo	blew 
+hand: dorn 
+left hand: dorn 
+right: dorn 
+head: penn 
+hear: klEfEt	klEvEt	kleved	klywes 
+heart: kalon	kolonn 
+horn: korn 
+1 sg.: mE	me	my 
+I: mE	me	my 
+kill: ladha	lahaɲ	lazaɲ 
+knee: glin 
+be knowledgeable: godhvos	gouzoud 
+know: godhvos	gouzoud 
+leaf: dElien	delenn	delienn 
+lie: gourvezaɲ 
+lie down: gourvezaɲ 
+liver: avi	avu	bara zegal 
+long: hir 
+head louse: laouenn	lau	lowenn 
+louse: laouenn	lau	lowenn 
+male: den	gour	gwas	gwaz	paotr 
+man: dEn	den 
+many: kalz	lies 
+much: kalz	lies 
+multiple: kalz	lies 
+several: kalz	lies 
+flesh: kig 
+meat: kig 
+moon: loar	loer 
+hill: krec’h	mEnEz	menez	menydh 
+mountain: krec’h	mEnEz	menez	menydh 
+mouth: beg	ganow	genou 
+name: anf	anv	hano	hanow 
+title: anf	anv	hano	hanow 
+neck: goug	gouzoug	konna 
+new: nEvEz	nevez	nowydh 
+night: nos	noz 
+nighttime: nos	noz 
+nose: fri	troen 
+not: ny 
+adulterous: inan	onan	unan 
+one: inan	onan	unan 
+single: inan	onan	unan 
+that: an … na 
+the: inan	onan	unan 
+unprincipled: inan	onan	unan 
+human: dEn	den 
+human being: dEn	den 
+person: dEn	den 
+rain: glao	glaw 
+rainy weather: glao	glaw 
+red: ru	rudh	ruz 
+path: fordh	hEnt 
+road: fordh	hEnt 
+route: fordh	hEnt 
+root: gwreydh	gwrizienn 
+round: krenn	rond 
+sand: sabl	tewes	traez 
+say: lared	lavared	leverel 
+see: gweled	gweles	gw~ElEt 
+seed: had	hasenn 
+sit: azezaɲ	esedha 
+hide: kroghen	krohen	kroxEn 
+skin: kroghen	krohen	kroxEn 
+sleep: koska	kousked 
+little: bihan	byghan 
+small: bihan	byghan 
+smallness: bihan	byghan 
+smoke: mog	moged 
+star: stErEdEn	steredenn	steren 
+rock: maen	men	roh	rohell 
+stone: maen	men	roh	rohell 
+sun: hel	heol	howl 
+swim: neuial	neuvya	neuɲvi 
+tail: lost 
+this: an … ma 
+2 sg: tE	te	ty 
+thou: tE	te	ty 
+you: tE	te	ty 
+tongue: lapenn	laɲchenn	taves	ted	teod 
+tooth: dans	dant 
+tree: gwydhenn	gw~EzEn 
+grind: daou	dau	dew	diou 
+two: daou	dau	dew	diou 
+go: bale	kerdhes	kerzed 
+walk: bale	kerdhes	kerzed 
+hot: klouar	toemm 
+warm: klouar	toemm 
+water: dour	dowr	dur 
+1 pl. inc.: ni 
+we: ni 
+we₁: ni 
+what: pyth 
+white: gwenn	gwynn 
+whiteness: gwenn	gwynn 
+who: piw 
+who?: piw 
+female: benyn	maouez	plah 
+woman: benyn	maouez	plah 
+yellow: melen	melyn 
+distant: pell 
+far: pell 
+dull: lourd	poes	ponner 
+heavy: lourd	poes	ponner 
+serious: lourd	poes	ponner 
+close: ogas	tost 
+near: ogas	tost 
+ner: ogas	tost 
+salt: c’hoalen	halen	hoelan	holen 
+short: berr 
+snake: aer	sarf 
+thin: moen	tano	tanow 
+wind: avel	gwyns 
+earthworm: buzugenn	preɲv	pryv 
+worm: buzugenn	preɲv	pryv 
+year: bloaz	blydhen 
+3 sg.: ev 
+he: ev 
+she: ev 
+2 pl.: c’hwi	hwi 
+ye: c’hwi	hwi 
+you all: c’hwi	hwi 
+3 pl.: i	int 
+they: i	int 
+here: omma 
+there: ena 
+where: ple 
+where?: ple 
+when: pʼeur 
+when?: pʼeur 
+how: fatell 
+how?: fatell 
+some: eun bannah	eun banne	eun tamm	nebes 
+few: nebes	nebeud 
+other: erell 
+three: teir	tri 
+four: peder	peswar	pevar	pewar 
+five: pemp	pymp 
+broad: ledan 
+wide: ledan 
+wideness: ledan 
+fat: blonek	druzoni 
+thick: teo	tew 
+narrow: kul	striz 
+child: bugel	flogh 
+principal wife: gwreg	pried 
+wife: gwreg	pried 
+husband: den	gour	gwaz	pried 
+his mother: mamm 
+mother: mamm 
+my mother: mamm 
+father: tad	tas 
+his father: tad	tas 
+my father: tad	tas 
+animal: aneval	enyval	loen 
+forest: koad	koeswik 
+woods: koad	koeswik 
+branch: barr	brank	lorgh 
+stick: barr	brank	lorgh 
+fruit: froeth	frouezenn 
+flower: bleujenn	bleunienn	boked	fleur 
+grass: geot	gwels	yeot 
+cord: fun	kordenn	lovan 
+rope: fun	kordenn	lovan 
+grease: blonek	druzoni 
+fingernail: ewin	ivin 
+leg: gar	garr 
+arm: dorn 
+wing: askell 
+gut: bouzellou	kolodhyon 
+guts: bouzellou	kolodhyon 
+insides: bouzellou	kolodhyon 
+intestine: bouzellou	kolodhyon 
+intestines: bouzellou	kolodhyon 
+back: kein	keyn 
+suck: dena	hutad	sugna	suna 
+spit: berya	krachad	skopad	trewa	tufad 
+vomit: bomisaɲ	dislonkaɲ	hwyja 
+blow: c’hwezaɲ	hwytha 
+breath: alan	alanad	anal	analad	anella 
+breathe: alan	alanad	anal	analad	anella 
+laugh: c’hoarzin	hwerthin 
+laughter: c’hoarzin	hwerthin 
+cogitate: prederi	soɲjal 
+reflect: prederi	soɲjal 
+think: prederi	soɲjal 
+smell: blasa	klywes	santoud c’hwez 
+sniff: blasa	klywes	santoud c’hwez 
+afraid: aon	doan	neh	perthi own 
+be afraid: aon	doan	neh	perthi own 
+fear: aon	doan	neh	perthi own 
+fright: aon	doan	neh	perthi own 
+alive: beo	bevaɲ	buhez	bywa 
+be alive: beo	bevaɲ	buhez	bywa 
+life: beo	bevaɲ	buhez	bywa 
+live: beo	bevaɲ	buhez	bywa 
+living: beo	bevaɲ	buhez	bywa 
+fight: en em gannaɲ	omladh 
+hunt: chaseal	helghya 
+beat: gweskel	skeiɲ	skoiɲ	skwatya 
+hit: gweskel	skeiɲ	skoiɲ	skwatya 
+strike: gweskel	skeiɲ	skoiɲ	skwatya 
+cut: treghi	trohaɲ 
+hack: treghi	trohaɲ 
+cut open: faoutaɲ	folsa 
+split: faoutaɲ	folsa 
+pierce: gwana	pyghya 
+stab: gwana	pyghya 
+scratch: kravas 
+dig: kleuziɲ	palas	pigellad 
+tell lies: gorwedhes	kontaɲ gevier 
+stand: sevel 
+turn: treiɲ	treylya 
+turn around: treiɲ	treylya 
+turn round: treiɲ	treylya 
+drop: koedha	kouezaɲ 
+fall: koedha	kouezaɲ 
+grasp: dalghenna	derhel krog	synsi 
+hold: dalghenna	derhel krog	synsi 
+hold in arm: dalghenna	derhel krog	synsi 
+squeeze: diwaskaɲ	gwaska	gwrynya	strotha 
+wring: diwaskaɲ	gwaska	gwrynya	strotha 
+rub: frotaɲ	rutya	torchaɲ 
+wipe: sygha 
+wash: golghi	gwalhiɲ	kannaɲ 
+wash clothes: golghi	gwalhiɲ	kannaɲ 
+pull: tenna 
+push: boutaɲ	herdhya	pokya	poulzaɲ 
+shove: boutaɲ	herdhya	pokya	poulzaɲ 
+throw: darhao	taol	teurel	tewlel 
+bind: eren	kelmi	stagaɲ 
+fasten: eren	kelmi	stagaɲ 
+tie: eren	kelmi	stagaɲ 
+tie up: eren	kelmi	stagaɲ 
+sew: gwriad	gwrias	sewya 
+count: akontya	amontya	kontaɲ	nivera 
+enumerate: akontya	amontya	kontaɲ	nivera 
+number: akontya	amontya	kontaɲ	nivera 
+tally: akontya	amontya	kontaɲ	nivera 
+sing: kana	kanaɲ 
+have fun: c’hoari	gwari 
+play: c’hoari	gwari 
+float: neuvella 
+flow: bera	dinewi	ruillal 
+freeze: rewi 
+swell: hwythfi 
+brook: avon	richer	riɲvier	ster 
+river: avon	richer	riɲvier	ster 
+stream: avon	richer	riɲvier	ster 
+lake: lenn	loc’h	lynn	stank 
+ocean: mor 
+sea: mor 
+dust: doust	polter	poucher	poultr 
+fog: brum	latar	lusenn	niwl 
+sky: ebrenn	neɲv	oabl 
+snow: ergh	erh 
+ice: rew	skorn 
+blaze: deviɲ	leski 
+burn: deviɲ	leski 
+day: deiz	dydh 
+daylight: deiz	dydh 
+daytime: deiz	dydh 
+old: hen	koth 
+bad: drog	droug	fall 
+evil: drog	droug	fall 
+rot: brein	breyn	poder 
+rotten: brein	breyn	poder 
+dirty: louz	plos 
+filthy: louz	plos 
+soiled: louz	plos 
+straight: eeun	ewn 
+sharp: lemm	lymm 
+blunt: dall 
+smooth: flour	gwastas	leven 
+damp: gleb	glyb	gwlygh	leiz	umid 
+wet: gleb	glyb	gwlygh	leiz	umid 
+correct: ewn	gwir	just 
+right side: deghow	dehou 
+left: kledh	kleiz 
+at: orth 
+in: ebarz	en	yn 
+inside: ebarz	en	yn 
+with: gans 
+and: ha	hag 
+if: ma	mar 
+because: abalamour	drefenn	peogwir 

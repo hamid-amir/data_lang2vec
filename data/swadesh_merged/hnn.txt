@@ -1,0 +1,276 @@
+all: tanan	tanán 
+every: tanan	tanán 
+ash: ayum	ayúm	dapúg 
+ashes: ayum	ayúm	dapúg 
+abdomen: tiyan	tiyán 
+belly: tiyan	tiyán 
+big: dada	daká	la7un	láʔun 
+bigness: dada	daká	la7un	láʔun 
+large: dada	daká	la7un	láʔun 
+bird: manuk	manúk 
+bite: kagat	kagát 
+black: agiwan	agíwan	ma-bíru	mabiru 
+blood: dugu7	dugúʔ 
+bone: but7ul	butʔúl 
+breast: susu	súsu 
+breasts: susu	súsu 
+burn: tútud 
+burn tr.: tútud 
+cloud: paNanud	paŋánud 
+cold: ma-ramíg	maramig 
+come: balik	balík 
+come from: balik	balík 
+be dead: matay	mátay 
+dead: matay	mátay 
+die: matay	mátay 
+dog: idu7	íduʔ 
+drink: um-inúm	uminum 
+dry: gaNu	gáŋu	layúŋ	uga	ugá 
+ear: tuli	túli 
+earth: daga7 
+ground: daga7 
+land: daga7 
+soil: daga7 
+eat: k-um-áʔun	kuma7un 
+egg: itlug	itlúg 
+eye: mata	matá 
+fat: taba7 
+fat n.: taba7 
+grease: taba7 
+lubricant: taba7 
+oil: taba7 
+feather: bulbul manuk	bulbúl manúk 
+fire: apuy	apúy 
+fish: isda7	isdáʔ 
+fly: l-um-áyaŋ	lumayaN 
+fly v.: l-um-áyaŋ	lumayaN 
+foot: raparapa 
+good: mayad	mayád 
+green: latuy	latúy 
+hair: buhúk	bukuk 
+hand: kamaN	kámang 
+left hand: kamaN	kámang 
+right: kamaN	kámang 
+head: ulu	úlu 
+hear: dunug	dunúg 
+1 sg.: aku	akú 
+I: aku	akú 
+kill: maty-ún	maty~un 
+be knowledgeable: [ka]-táʔu	alaman	magka	magka-ʔalam-an 
+know: [ka]-táʔu	alaman	magka	magka-ʔalam-an 
+leaf: labuN	lábuŋ 
+lie: huway	huwáy	igya7	igyáʔ	pa-huwáy 
+lie down: huway	huwáy	igya7	igyáʔ	pa-huwáy 
+liver: atay	atáy 
+long: aba	aba7	ʔába	ʔábaʔ 
+head louse: kutu	kútu 
+louse: kutu	kútu 
+male: lalaki	laláki 
+man: tawu	táwu 
+flesh: taguban	tuban 
+meat: taguban	tuban 
+moon: bulan	búlan 
+mouth: bibig	bibíg	sulaN	súlaŋ 
+name: Naran	ŋáran 
+title: Naran	ŋáran 
+neck: li7ug	líʔug 
+new: bad7u	bágʔu 
+night: yabi	yabí 
+nighttime: yabi	yabí 
+nose: iruN	irúŋ 
+not: balaw	bukun 
+adulterous: usa	usá 
+one: usa	usá 
+single: usa	usá 
+that: tida	tunda	túnda 
+the: usa	usá 
+unprincipled: usa	usá 
+human: tawu	táwu 
+human being: tawu	táwu 
+person: tawu	táwu 
+rain: uran	urán 
+rainy weather: uran	urán 
+red: ma-rará	marara 
+path: dalan	dálan 
+road: dalan	dálan 
+route: dalan	dálan 
+root: gamut	gamút 
+sand: barás 
+say: mag-kún	magkun 
+see: maka-kít	makakit 
+sit: kumukaw	t-um-úkaw 
+hide: lukub	lukúb	tarik	tárip 
+skin: lukub	lukúb	tarik	tárip 
+sleep: ma-túrug	maturug 
+little: di7it	diʔít 
+small: di7it	diʔít 
+smallness: di7it	diʔít 
+smoke: anus	sunuy	súnuy	ánus 
+stand: tumindug 
+star: pamgasan	pamgasán 
+rock: batu7	batú 
+stone: batu7	batú 
+swim: l-um-aŋuy	lumaNuy 
+tail: ikug	íkug 
+this: inda	índa 
+2 sg: kamu	kawu	káwu 
+thou: kamu	kawu	káwu 
+you: kamu	kawu	káwu 
+tongue: dila7	dílaʔ 
+tooth: Nipun	ŋípun 
+grind: duwa	duwá	dúwa 
+two: duwa	duwá	dúwa 
+go: l-um-ákaw	lumakaw 
+walk: l-um-ákaw	lumakaw 
+hot: ma-ʔínit 
+warm: ma-ʔínit 
+water: danum	danúm 
+1 pl. inc.: kami	kamí	kita	kitá 
+we: kami	kamí	kita	kitá 
+we₁: kami	kamí	kita	kitá 
+what: hintay	híntay 
+white: abukay	abúkay	ma-lagtí	malagti 
+whiteness: abukay	abúkay	ma-lagtí	malagti 
+who: sintay	síntay 
+who?: sintay	síntay 
+female: babayi	babáyi 
+woman: babayi	babáyi 
+yellow: dilaw	diláw 
+distant: aráyuʔ 
+far: aráyuʔ 
+dull: ma-buyát 
+heavy: ma-buyát 
+serious: ma-buyát 
+close: aráni 
+near: aráni 
+ner: aráni 
+salt: asín 
+short: abábaʔ	dagʔúd 
+snake: úlay 
+thin: ma-nipís 
+wind: aráhay	durús 
+earthworm: alukátiʔ 
+worm: alukátiʔ 
+year: abágat	turuŋún 
+2 pl.: kámu 
+ye: kámu 
+you all: kámu 
+3 pl.: sidá 
+they: sidá 
+where: naʔán 
+where?: naʔán 
+when: kapirá 
+when?: kapirá 
+how: (k)abitáy	abitáy 
+how?: (k)abitáy	abitáy 
+other: ibá 
+three: tulú	túlu 
+four: upát	úpat 
+five: líma 
+broad: daká 
+wide: daká 
+wideness: daká 
+thick: ma-dámul 
+narrow: diʔít 
+principal wife: asáwa 
+wife: asáwa 
+husband: asáwa 
+his mother: ínaʔ 
+mother: ínaʔ 
+my mother: ínaʔ 
+father: ámaʔ 
+his father: ámaʔ 
+my father: ámaʔ 
+forest: purúʔ	tálun 
+woods: purúʔ	tálun 
+branch: saŋá 
+stick: saŋá 
+fruit: búrak 
+flower: búsaŋ	rágaw 
+grass: ma-ríkut	ríkut 
+cord: lúbid 
+rope: lúbid 
+wing: pakpák 
+gut: bitúkaʔ	púnaʔ 
+guts: bitúkaʔ	púnaʔ 
+insides: bitúkaʔ	púnaʔ 
+intestine: bitúkaʔ	púnaʔ 
+intestines: bitúkaʔ	púnaʔ 
+back: dayú 
+suck: s-um-upsúp 
+spit: mag-búga 
+vomit: s-um-úka 
+blow: mag-ʔúyup 
+breath: arúp 
+breathe: arúp 
+laugh: akʔák	s-um-arí 
+laughter: akʔák	s-um-arí 
+cogitate: mag-dumán	um-ísip 
+reflect: mag-dumán	um-ísip 
+think: mag-dumán	um-ísip 
+smell: s-um-iŋhút 
+sniff: s-um-iŋhút 
+afraid: dálaʔ 
+be afraid: dálaʔ 
+fear: dálaʔ 
+fright: dálaʔ 
+alive: buhi 
+be alive: buhi 
+life: buhi 
+live: buhi 
+living: buhi 
+hunt: mang-idú 
+beat: hampák 
+hit: hampák 
+strike: hampák 
+cut: ma-nígbas 
+hack: ma-nígbas 
+cut open: báŋag 
+split: báŋag 
+pierce: hárug 
+stab: hárug 
+scratch: kágaw 
+dig: mag-kutkút 
+drop: ma-lagpák	rágdag 
+fall: ma-lagpák	rágdag 
+grasp: mag-hiyáput 
+hold: mag-hiyáput 
+hold in arm: mag-hiyáput 
+squeeze: pugáʔ 
+wring: pugáʔ 
+throw: pisík 
+bind: higút 
+fasten: higút 
+tie: higút 
+tie up: higút 
+sew: tahiʔ 
+count: ma-bílaŋ 
+enumerate: ma-bílaŋ 
+number: ma-bílaŋ 
+tally: ma-bílaŋ 
+flow: lagnás 
+lake: dánaw 
+ocean: dágat	lawúd 
+sea: dágat	lawúd 
+dust: gabúk	pukapúk 
+fog: alinyábuʔ 
+sky: láŋit 
+blaze: tutud 
+bad: daʔút 
+evil: daʔút 
+rot: buyúk	ma-ʔíbas 
+rotten: buyúk	ma-ʔíbas 
+dirty: ma-yagtíŋ	ma-ʔúriŋ 
+filthy: ma-yagtíŋ	ma-ʔúriŋ 
+soiled: ma-yagtíŋ	ma-ʔúriŋ 
+sharp: ma-tarúm 
+blunt: dúmpul	ma-púruʔ 
+damp: túpus 
+wet: túpus 
+right side: sikún 
+left: wála 
+at: sa 
+in: sa basád 
+inside: sa basád 
+and: [k]ag 
+if: nu 

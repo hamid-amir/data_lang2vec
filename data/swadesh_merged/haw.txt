@@ -1,0 +1,335 @@
+all: apao	apau	pau	pauloa	āpau 
+every: apao	apau	pau	pauloa	āpau 
+ash: lehu	lehu ahi	lehu ane 
+ashes: lehu	lehu ahi	lehu ane 
+bark: ili	ʔili	ʔili luna	ʔili lāʔau	ʻili 
+abdomen: opu	ʻōpū 
+belly: opu	ʻōpū 
+big: nui	nunui 
+bigness: nui	nunui 
+large: nui	nunui 
+bird: manu 
+bite: aki	nahu	nanahu	ʔaki	ʔakina	ʔaʔaki 
+black: ele7ele	hiwa	hiwa paʔa	pāʔele	pōʔele	uli-uli	ʔele	ʔele-ʔele	ʻeleʻele 
+blood: koko 
+bone: iwi 
+breast: poli	u	wai-ū	ū 
+breasts: poli	u	wai-ū	ū 
+burn: kuni	ʻā 
+burn tr.: kuni	ʻā 
+claw: maiʔao	miki7ao	mikiʔao	mikiʻao	mānea 
+nail: maiʔao	miki7ao	mikiʔao	mikiʻao	mānea 
+talon: maiʔao	miki7ao	mikiʔao	mikiʻao	mānea 
+cloud: ao	ʔōmalu-malu	ʔōpua 
+cold: anu	anu-anu	anuanu	huʔi-huʔi	koʔe-koʔe 
+come: [hele] mai	haele mai	hele mai	helemai	hiki mai	mai 
+come from: [hele] mai	haele mai	hele mai	helemai	hiki mai	mai 
+be dead: make	make loa	moe-lepo 
+dead: make	make loa	moe-lepo 
+die: make	make loa	moe-lepo 
+dog: ilio	ʔīlio	ʻīlio 
+drink: inu	inu-mia	pā 
+dry: malo7o	maloʔo	maloʻo 
+ear: pepeiao 
+earth: ao	honua	lepo	ʔāina	ʻāina 
+ground: ao	honua	lepo	ʔāina	ʻāina 
+land: ao	honua	lepo	ʔāina	ʻāina 
+soil: ao	honua	lepo	ʔāina	ʻāina 
+eat: ai	amu	ʔai	ʔai iho	ʻai 
+egg: hua	hua-moa	hua[moa] 
+eye: maka 
+fat: aila 
+fat n.: aila 
+grease: aila 
+lubricant: aila 
+oil: aila 
+feather: hulu 
+fire: ahi	pau ahi 
+fish: i7a	iʔa	iʻa 
+fly: lele 
+fly v.: lele 
+foot: wawae	wāwae 
+full: piha 
+give: ha7awi	hāʔawi	hāʻawi	hō 
+good: maika7i	maikaʔi	maikaʻi 
+green: maʔo-maʔo	maʻomaʻo	oma7oma7o	ʔōmaʔo	ʔōmaʔo-maʔo	ʻōmaʻomaʻo 
+hair: hulu	lau-oho	lauoho	oho 
+hand: lima	mana-mana 
+left hand: lima	mana-mana 
+right: lima	mana-mana 
+head: po7o	poʔo	poʔo kanaka	poʻo 
+hear: hoʔolono	hoʻolono	lohe 
+heart: pu7uwai	puʔuwai	puʻuwai 
+horn: hao	kiwi	pepeiaohao 
+1 sg.: [ʻo] au	au	wau 
+I: [ʻo] au	au	wau 
+kill: hana make	hoʔo-make	hoʻomake	make	pepehi	pepehi ā make	pepehiamake 
+knee: kuli 
+be knowledgeable: ike	ʔike	ʻike 
+know: ike	ʔike	ʻike 
+leaf: lau 
+lie: hina moe	kāmoe	moe	momoe 
+lie down: hina moe	kāmoe	moe	momoe 
+liver: ake	ake-paʔa 
+long: loa	loloa	lōʻihi 
+head louse: ona	uku	ʔuku	ʔuku liʔi	ʻuku 
+louse: ona	uku	ʔuku	ʔuku liʔi	ʻuku 
+male: kanaka	kane	kāne 
+man: kama	kanaka	lāhui kanaka	mea 
+many: kini	lau	lehu	mano	nui	nunui 
+much: kini	lau	lehu	mano	nui	nunui 
+multiple: kini	lau	lehu	mano	nui	nunui 
+several: kini	lau	lehu	mano	nui	nunui 
+flesh: i7o	ʔiʔo	ʻiʻo 
+meat: i7o	ʔiʔo	ʻiʻo 
+moon: mahina 
+hill: kuahiwi	mauna	puʔu 
+mountain: kuahiwi	mauna	puʔu 
+mouth: waha 
+name: inoa 
+title: inoa 
+neck: a7i	ʔāʔī	ʻāʻī 
+new: hou	malihini	mea-hou	ʔano hou 
+night: po	pō 
+nighttime: po	pō 
+nose: ihu 
+not: a7ole	ʻole 
+adulterous: ekahi	kahi	‘e-kahi 
+one: ekahi	kahi	‘e-kahi 
+single: ekahi	kahi	‘e-kahi 
+that: kela	kēlā	kēnā	la	na 
+the: ekahi	kahi	‘e-kahi 
+unprincipled: ekahi	kahi	‘e-kahi 
+human: kama	kanaka	lāhui kanaka	mea 
+human being: kama	kanaka	lāhui kanaka	mea 
+person: kama	kanaka	lāhui kanaka	mea 
+rain: ua 
+rainy weather: ua 
+red: ula	wena	ʔula	ʔula-ʔula	ʻula	ʻulaʻula 
+path: ala	alanui 
+road: ala	alanui 
+route: ala	alanui 
+root: a7a	aʔa	aʻa	mole	weli 
+round: kūpoe-poe	poe	poepoe	popohe 
+sand: one	one-one 
+say: haʔi	mea mai	olelo	pēlā	wahi a	ʔī	ʔōlelo	ʻōlelo 
+see: hiʔohiʔona	ike	maka	nānā	ʔike	ʻike 
+seed: ano7ano	hua	ʔano-ʔano	ʻanoʻano 
+sit: noho 
+hide: ili	ʔili	ʻili 
+skin: ili	ʔili	ʻili 
+sleep: hiamoe	moe	moe hoʔolana 
+little: iki	li7ili7i	liliʔi	liʔi	liʔi-liʔi	liʻi	liʻiliʻi	ʔuku	ʔuʔuku 
+small: iki	li7ili7i	liliʔi	liʔi	liʔi-liʔi	liʻi	liʻiliʻi	ʔuku	ʔuʔuku 
+smallness: iki	li7ili7i	liliʔi	liʔi	liʔi-liʔi	liʻi	liʻiliʻi	ʔuku	ʔuʔuku 
+smoke: auahi	uahi 
+stand: ku 
+star: hoku	hoku7u	hōkū 
+rock: haku	pohaku	pā-hoehoe	pōhaku	ʔalā	ʔaʔā	ʔili-ʔili	ʔā 
+stone: haku	pohaku	pā-hoehoe	pōhaku	ʔalā	ʔaʔā	ʔili-ʔili	ʔā 
+sun: la	lā 
+swim: au	ʔau	ʻau 
+tail: hi7u	hiʔu	huelo	pola	puapua	pupua 
+this: keia	kēia	nei 
+2 sg: oe	oukou	ʔoe	ʻoe 
+thou: oe	oukou	ʔoe	ʻoe 
+you: oe	oukou	ʔoe	ʻoe 
+tongue: alelo	elelo 
+tooth: niho 
+tree: kumula7au	la7au 
+grind: kualua	lua	ʔalua	ʔelua	‘e-lua 
+two: kualua	lua	ʔalua	ʔelua	‘e-lua 
+go: hele	hele wāwae 
+walk: hele	hele wāwae 
+hot: hahana	mahana	mehana	pumehana	wela 
+warm: hahana	mahana	mehana	pumehana	wela 
+water: wai 
+1 pl. inc.: kakou	kaua	kā-kou	kā-ua	kākou	kāua	makou	maua	mākou	māua 
+we: kakou	kaua	kā-kou	kā-ua	kākou	kāua	makou	maua	mākou	māua 
+we₁: kakou	kaua	kā-kou	kā-ua	kākou	kāua	makou	maua	mākou	māua 
+what: aha 
+white: ke7o	ke7oke7o	kea	keʔo-keʔo	keʻokeʻo 
+whiteness: ke7o	ke7oke7o	kea	keʔo-keʔo	keʻokeʻo 
+who: ai	wai 
+who?: ai	wai 
+female: haku wahine	wahine 
+woman: haku wahine	wahine 
+yellow: lena	mele	mele-mele	melemele	ʔōlena-lena 
+distant: lilo loa	mamao 
+far: lilo loa	mamao 
+dull: kaumaha	koʔi-koʔi 
+heavy: kaumaha	koʔi-koʔi 
+serious: kaumaha	koʔi-koʔi 
+close: kokoke	pili 
+near: kokoke	pili 
+ner: kokoke	pili 
+salt: paʔakai	paʻakai 
+short: mūʔekekeʔi	pōkole	ʔekekeʔi 
+snake: moʔo	naheka	nahesa 
+thin: emi	lahi	wīwī	ʔaua	ʔāʔaua	ʔōlala 
+wind: makani	papā	puhi	pā	pā makani 
+earthworm: ilo	koʔe	koʻe 
+worm: ilo	koʔe	koʻe 
+year: makahiki 
+3 sg.: ia 
+he: ia 
+she: ia 
+2 pl.: ʔo-lua	ʔou-kou	ʻolua	ʻoukou 
+ye: ʔo-lua	ʔou-kou	ʻolua	ʻoukou 
+you all: ʔo-lua	ʔou-kou	ʻolua	ʻoukou 
+3 pl.: lā-kou	lā-ua	lākou	lāua 
+they: lā-kou	lā-ua	lākou	lāua 
+here: ʻaneʻi 
+there: laila 
+where: aia i hea	hea 
+where?: aia i hea	hea 
+when: ināhea	āhea 
+when?: ināhea	āhea 
+how: pehea	pehea lā 
+how?: pehea	pehea lā 
+some: kekahi 
+few: kakaʔikahi	kakaʻikahi	kekahi	liʔi-liʔi	wahi	ʔuʔuku 
+other: kekāhi	ʻē aʻe 
+three: kolu	ʔakolu	ʔekolu	‘e-kolu 
+four: hā	kāuna	ʔahā	ʔehā	‘e-hā 
+five: lima	ʔalima	ʔelina	‘e-lima 
+broad: laulā	ākea 
+wide: laulā	ākea 
+wideness: laulā	ākea 
+thick: mākolukolu	mānoa	mānoa-noa 
+narrow: hoʔohāiki	hāiki	lāʔiki	lāʻiki 
+child: keiki 
+principal wife: wahine	wahine male 
+wife: wahine	wahine male 
+husband: kāne	pilikua 
+his mother: makuahine	māmā 
+mother: makuahine	māmā 
+my mother: makuahine	māmā 
+father: makua	makua kāne	makuakāne 
+his father: makua	makua kāne	makuakāne 
+my father: makua	makua kāne	makuakāne 
+animal: holo-holona	holoholona 
+forest: nahele	ulu lāʔau	ulu lāʻau	uluaōʔa	wao nahele 
+woods: nahele	ulu lāʔau	ulu lāʻau	uluaōʔa	wao nahele 
+branch: lālā	mana	ʔohā 
+stick: lālā	mana	ʔohā 
+fruit: hua	hua ʻai	hua-ʔai 
+flower: pua 
+grass: mauʔu	mauʻu	weu-weu 
+cord: kaula 
+rope: kaula 
+fingernail: maiʔao	mikiʔao	mikiʻao 
+leg: wāwae 
+wing: ʔēheu	ʻēheu 
+gut: naʔa-naʔau	naʔau	naʻau 
+guts: naʔa-naʔau	naʔau	naʻau 
+insides: naʔa-naʔau	naʔau	naʻau 
+intestine: naʔa-naʔau	naʔau	naʻau 
+intestines: naʔa-naʔau	naʔau	naʻau 
+back: hope	kua 
+suck: mūkī	omo	omōmo 
+spit: hāʔae	kuha	pupuhi	wale wai	ʔae 
+vomit: luaʔi	luaʻi	puaʔi 
+blow: puhi	pā 
+breath: aho	ea	eaea	hanu 
+breathe: aho	ea	eaea	hanu 
+laugh: ʔaka	ʔaka-ʔaka	ʻaka	ʻakaʻaka 
+laughter: ʔaka	ʔaka-ʔaka	ʻaka	ʻakaʻaka 
+cogitate: manaʔo	manaʻo	noʔo-noʔo	noʻonoʻo 
+reflect: manaʔo	manaʻo	noʔo-noʔo	noʻonoʻo 
+think: manaʔo	manaʻo	noʔo-noʔo	noʻonoʻo 
+smell: honi 
+sniff: honi 
+afraid: makaʔu	makaʻu	pūʔiwa	weli	weli-weli	wiwo	ʔeʔehia 
+be afraid: makaʔu	makaʻu	pūʔiwa	weli	weli-weli	wiwo	ʔeʔehia 
+fear: makaʔu	makaʻu	pūʔiwa	weli	weli-weli	wiwo	ʔeʔehia 
+fright: makaʔu	makaʻu	pūʔiwa	weli	weli-weli	wiwo	ʔeʔehia 
+alive: ola	ʔaoʔao 
+be alive: ola	ʔaoʔao 
+life: ola	ʔaoʔao 
+live: ola	ʔaoʔao 
+living: ola	ʔaoʔao 
+fight: hakakā	kaua	moko-moko	paio 
+hunt: alualu	hahai	hahai holo-holona	ʔimi 
+beat: hahau	kuʔi	kuʻi	kā	kū	paʔi	pepehi	pā 
+hit: hahau	kuʔi	kuʻi	kā	kū	paʔi	pepehi	pā 
+strike: hahau	kuʔi	kuʻi	kā	kū	paʔi	pepehi	pā 
+cut: hōʔoki	moku	mō	ʔoki	ʻoki 
+hack: hōʔoki	moku	mō	ʔoki	ʻoki 
+cut open: wahī	wāhi 
+split: wahī	wāhi 
+pierce: hou	puka	ʔō 
+stab: hou	puka	ʔō 
+scratch: walu	waʻu 
+dig: ʔeli	ʻeli 
+tell lies: hoʔo-puni-puni	hoʻopunipuni	waha wale	wahaheʔe 
+turn: huli	kaʔa	kaʔapuni	pōniu 
+turn around: huli	kaʔa	kaʔapuni	pōniu 
+turn round: huli	kaʔa	kaʔapuni	pōniu 
+drop: helelei	hāʔule	hāʻule 
+fall: helelei	hāʔule	hāʻule 
+grasp: hoʔopaʔa	hoʻoʻpaʻa	paʔa	paʻa 
+hold: hoʔopaʔa	hoʻoʻpaʻa	paʔa	paʻa 
+hold in arm: hoʔopaʔa	hoʻoʻpaʻa	paʔa	paʻa 
+squeeze: kaomi	lomi	ʔuwī	ʔōpā	ʔūmiʔi	ʻuwī	ʻuī 
+wring: kaomi	lomi	ʔuwī	ʔōpā	ʔūmiʔi	ʻuwī	ʻuī 
+rub: hoana	holoi	hāleu	kuai	kuolo	kāwele	lomi	ʔānai 
+wipe: kāwele 
+wash: holoi 
+wash clothes: holoi 
+push: pahu 
+shove: pahu 
+throw: hoʔolei	hoʻolei	kiloi	kiola	lū	nou	pehi 
+bind: hana paʔa	hele	hoa	hīkiʔi	hīkiʻi	hīpuʔu	lawa	nākiʻi	nīkiʔi	paʔi 
+fasten: hana paʔa	hele	hoa	hīkiʔi	hīkiʻi	hīpuʔu	lawa	nākiʻi	nīkiʔi	paʔi 
+tie: hana paʔa	hele	hoa	hīkiʔi	hīkiʻi	hīpuʔu	lawa	nākiʻi	nīkiʔi	paʔi 
+tie up: hana paʔa	hele	hoa	hīkiʔi	hīkiʻi	hīpuʔu	lawa	nākiʻi	nīkiʔi	paʔi 
+sew: hono	humu-humu	humuhumu	kuʔi 
+count: helu	helu-helu	heluna 
+enumerate: helu	helu-helu	heluna 
+number: helu	helu-helu	heluna 
+tally: helu	helu-helu	heluna 
+sing: kani	leo	mele	melokia 
+have fun: pāʔani	pāʻani 
+play: pāʔani	pāʻani 
+float: lana 
+flow: kahe 
+freeze: hoʻopaʻahau 
+brook: kaha-wai	kahawai	muli-wai	wai 
+river: kaha-wai	kahawai	muli-wai	wai 
+stream: kaha-wai	kahawai	muli-wai	wai 
+lake: loko	loko wai 
+ocean: kai	moana 
+sea: kai	moana 
+dust: ehu	ehu lepo	kuehu	lelehuna	lepo ʔaeʔae	uahi	ʔehu	ʻehu	ʻeʻa 
+fog: noe	ua noe	uhi-wai	ʔohu	ʻohu 
+sky: lani 
+snow: hau	hau kea 
+ice: hau 
+blaze: a	ʻā 
+day: ao	lā 
+daylight: ao	lā 
+daytime: ao	lā 
+bad: kolohe	maikai ʔole	maikaʻi ʻole	ʔino	ʻino 
+evil: kolohe	maikai ʔole	maikaʻi ʻole	ʔino	ʻino 
+rot: palahō	palahū	pilau	popopo	ʔino-ʔino 
+rotten: palahō	palahū	pilau	popopo	ʔino-ʔino 
+dirty: hoʔolepo	lepo 
+filthy: hoʔolepo	lepo 
+soiled: hoʔolepo	lepo 
+straight: kālole	pololei 
+sharp: ʔoi	ʔoiʔoi	ʔāwini	ʻoi 
+blunt: [kū]mūmū	kūmūmū	mūmū 
+smooth: malino	paheʔe	palaha 
+damp: hoʔo-maʔū	kawaū	koʔū	līhau	maʔū	paʔū	pulu	pulu pē	ʔelo 
+wet: hoʔo-maʔū	kawaū	koʔū	līhau	maʔū	paʔū	pulu	pulu pē	ʔelo 
+correct: pololei	pono 
+right side: ʔākau	ʻakau	ʻākau 
+left: hema 
+at: i	iā	ma 
+in: i	i loko	i luna	loko	lo|ko	ma	maloko	maluna	wālua 
+inside: i	i loko	i luna	loko	lo|ko	ma	maloko	maluna	wālua 
+with: me 
+and: a	a me	ā 
+if: aia nō	i	inā	ke 
+because: i	ma	ma o	no	no ka mea 

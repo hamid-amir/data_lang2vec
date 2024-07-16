@@ -1,0 +1,148 @@
+all: wataka 
+every: wataka 
+ash: wura-to	wurato 
+ashes: wura-to	wurato 
+abdomen: waia 
+belly: waia 
+big: -ǯira	=ǯira 
+bigness: -ǯira	=ǯira 
+large: -ǯira	=ǯira 
+bird: širaʔa 
+bite: ǯalas- 
+black: -biasa	=biasa 
+blood: saʔaka 
+bone: falaː-to	far-it	farit 
+breast: isank	liba 
+breasts: isank	liba 
+burn: daʔ- 
+burn tr.: daʔ- 
+claw: seŋ-et 
+nail: seŋ-et 
+talon: seŋ-et 
+cloud: buʕurita 
+come: dah- 
+come from: dah- 
+be dead: ga- 
+dead: ga- 
+die: ga- 
+dog: ki=te	kite 
+drink: wa-t-	wat- 
+dry: -rakaš	=rakaš 
+ear: wata-ta	yatara 
+earth: haǯa-t 
+ground: haǯa-t 
+land: haǯa-t 
+soil: haǯa-t 
+eat: ʔag-	ʔag-im-	ʔagim- 
+eye: ila-t	ilat	ili-dó 
+fat: ʔoreʔ-ek 
+fat n.: ʔoreʔ-ek 
+grease: ʔoreʔ-ek 
+lubricant: ʔoreʔ-ek 
+oil: ʔoreʔ-ek 
+feather: seʔem-uk	seʔemuk 
+fire: haʼo	jogot	xao	yogo-t 
+fish: singiri	siŋiri 
+fly: ǯiʔit- 
+fly v.: ǯiʔit- 
+foot: yeʔe	yeːh 
+full: haš- 
+give: nge 
+good: -ʔila	=ʔila 
+green: -dʒareta	=ǯareta 
+hair: seʔem-uk	seʔemuk 
+hand: moŋ-ok	seng-la 
+left hand: moŋ-ok	seng-la 
+right: moŋ-ok	seng-la 
+head: sog-ok	sogok 
+hear: has-	yot- 
+heart: mon-ok	monok	munako 
+horn: hadoŋ 
+1 sg.: ana 
+I: ana 
+kill: ga-s-	gas- 
+knee: uguno	ŋulu-et	ŋuluet 
+be knowledgeable: šah- 
+know: šah- 
+leaf: debiya 
+lie: ʔat- 
+lie down: ʔat- 
+liver: dowo 
+long: -ǯada	ǯada 
+head louse: ʔita 
+louse: ʔita 
+male: hat-uk	hatuk 
+man: ʔidu-k	ʔiduk 
+many: -šaʔi	=šaʔi 
+much: -šaʔi	=šaʔi 
+multiple: -šaʔi	=šaʔi 
+several: -šaʔi	=šaʔi 
+flesh: ʔaga 
+meat: ʔaga 
+moon: leh-ek	lehek 
+hill: deʔ-ok	deʔok 
+mountain: deʔ-ok	deʔok 
+mouth: af-ok	afok	afu-ko 
+name: ʔim-ok	ʔimok 
+title: ʔim-ok	ʔimok 
+neck: isat	mirut 
+new: -ʔamba	=ʔamba 
+night: eramesa 
+nighttime: eramesa 
+nose: etinga	iringa	iriŋa 
+adulterous: kinde 
+one: kinde 
+single: kinde 
+that: kinde 
+the: kinde 
+unprincipled: kinde 
+human: ʔidu-k	ʔiduk 
+human being: ʔidu-k	ʔiduk 
+person: ʔidu-k	ʔiduk 
+rain: miyok	miǯ-ok	miǯok 
+rainy weather: miyok	miǯ-ok	miǯok 
+red: -huma	=huma 
+path: šimu-t 
+road: šimu-t 
+route: šimu-t 
+root: mogengera	mogeŋera 
+sand: haǯa-t	haǯat 
+say: šah- 
+see: nuʔuset	ʔadam- 
+sit: ʔamim	ʔamim- 
+sleep: raʔ	raʔ- 
+little: ʔara 
+small: ʔara 
+smallness: ʔara 
+smoke: toʔusay-ok	toʔusayok 
+stand: hut- 
+star: ʔalalaya 
+rock: deʔ-ok	deʔok 
+stone: deʔ-ok	deʔok 
+sun: ʔaǯ-it	ʔaǯi-d 
+tail: hesa 
+tongue: šeferank 
+tooth: liga 
+tree: kašiŋ 
+grind: hlam	ɬam	ʎam	λam 
+two: hlam	ɬam	ʎam	λam 
+hot: hareta 
+warm: hareta 
+water: maya	maʔa 
+white: -abaka	=abaka 
+whiteness: -abaka	=abaka 
+female: majito	mayi-to 
+woman: majito	mayi-to 
+yellow: -diliʔi 
+distant: sagu-mo	sanga	saŋa 
+far: sagu-mo	sanga	saŋa 
+dull: daʔara 
+heavy: daʔara 
+serious: daʔara 
+close: šaya 
+near: šaya 
+ner: šaya 
+short: ʔumara 
+snake: ʔasik 
+wind: šoʔ-ok	šoʔok 
+year: doʔomok 

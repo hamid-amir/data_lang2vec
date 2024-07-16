@@ -1,0 +1,221 @@
+all: susubatò | susubatɔ 
+all: susubatɔ 
+arm: nʌbɔ 
+arm: núbò 
+ashes: nisipu 
+back: pagi 
+bark: kòfòtɔ̃ | kɔfɔtɔ̃ 
+bark: kɔfɔtɔ͂ | kɔfɔtɔ̃ 
+belly: pòlè | pɔlɛ 
+belly: pɔlɛ 
+big: edefʌde 
+big: edefëde | edefʌde 
+bird: hayʌ 
+bird: hayë | hayʌ 
+bite: mihĩsipènh | mihɪ̃sippɛ̃ 
+bite: mihɪ͂sippɛ͂ | mihɪ̃sippɛ̃ 
+black: fëlei | yʌbui 
+black: yʌbui 
+blood: hiële | hiole	hiʌle 
+blood: hiʌle | hiole	hiʌle 
+bone: kiwi(:) | kiwi	kiwiː 
+bone: kiwiː | kiwi	kiwiː 
+breast: tòtò | toto	tɔtɔ 
+breast: tɔtɔ | toto	tɔtɔ 
+burn: nulukuʌ 
+burn: nulukuë 
+cassowary: widë 
+claw: ifi 
+cloud: kene 
+cold: kògĩ | kɔgĩ 
+cold: kɔgi͂ | kɔgĩ 
+come: ma:sipe | masipe	maːsipe 
+come: maːsipe | masipe	maːsipe 
+dog: ògònò | ogono	ɔgɔnɔ 
+dog: ɔgɔnɔ | ogono	ɔgɔnɔ 
+ear: kèhe | kEhe	kɛhe 
+ear: kɛhe | kEhe	kɛhe 
+earth: naka 
+eat: naha͂ː | nahãː 
+eat: nahã: | nahãː 
+egg: isò | isɔ 
+egg: isɔ 
+emu: widʌ 
+eye: si 
+father: nëtò 
+father: nʌtɔ 
+fat (n.): sa͂fe͂ 
+fat (n.): sãfẽ 
+feather: heli͂ | helĩ 
+feather: helĩ | helĩ 
+fire: nulu | nuLu	nulu 
+fish: seme 
+fly (v.): hakila 
+full: wa͂la͂sube | wa*la*sube	wãlãsube 
+full: wãlãsube | wa*la*sube	wãlãsube 
+give: imɔ͂ | imɔ̃ 
+give: imɔ̃ 
+good: hedebi 
+green: me͂labui | mẽlabui 
+green: mẽlabui | mẽlabui 
+hair: b≈pusë heni | busʌ	pusʌ heni 
+hair: busʌ ~ pusʌ heni | busʌ	pusʌ heni 
+hair: hinĩ | busʌ	pusʌ heni 
+hair: hirĩ | busʌ	pusʌ heni 
+head: b≈pusë | busʌ	pusʌ 
+head: busʌ ~ pusʌ | busʌ	pusʌ 
+hear: nabʌba | naboba	nabʌba 
+hear: nabëba | naboba	nabʌba 
+I: ne 
+kill: pakòwi | pakɔwi 
+kill: pakɔwi 
+knee: emò-gumu | emogumu	emɔgumu 
+knee: emɔgumu | emogumu	emɔgumu 
+know: tawa 
+leaf: ipau 
+leg: emò 
+leg: emɔ 
+lie: mitiɛ͂ | mitiɛ̃ 
+lie: mitiènh | mitiɛ̃ 
+long: sedad | sedade 
+long: sedade 
+long: setate | sedade 
+louse: imu͂ | imu* 
+louse: imũ | imu* 
+man: tònò | tono 
+man: tɔnɔ | tono 
+many: yëfiè | yʌfiɛ 
+many: yʌfiɛ 
+meat: hu 
+moon: aube 
+mother: nème 
+mother: nɛme 
+mountain: segebi 
+mouth: nafi 
+name: e͂i | e*i	ẽi 
+name: eĩ | e*i	ẽi 
+navel: otatipu 
+neck: kalʌbagɔ 
+neck: kalëbagò | kalʌbagɔ 
+new: kahe͂ | kahe*	kahẽ 
+new: kahẽ | kahe*	kahẽ 
+night: kasigi 
+nose: migëni | migoni	migʌni 
+not: habòi | habɔi 
+not: habɔi 
+one: afãte | age 
+one: age 
+rain: sege 
+red: bɛi ~ pɛi | bɛi	pɛi 
+red: b≈pèi | bɛi	pɛi 
+road: idi 
+road: iti | idi 
+root: tifi 
+say: sa͂sibe 
+say: sãsibe 
+seed: ikëgë | ikʌgʌ 
+seed: ikʌgʌ 
+see: peyaha 
+shoulder: kita͂ 
+shoulder: kitã 
+sit: miye͂ | miyẽ 
+sit: miyẽ | miyẽ 
+skin: kafoto | kodofo	kʌdɔfɔ 
+skin: kʌdɔfɔ | kodofo	kʌdɔfɔ 
+skin: këdòfò | kodofo	kʌdɔfɔ 
+sleep: tiëhã | tiʌhã 
+sleep: tiʌha͂ | tiʌhã 
+small: nɛ͂fʌni | nɛ̃fʌni 
+small: nènh.fëni | nɛ̃fʌni 
+smoke: hɔ͂ba͂ | hɔ̃bã 
+smoke: hõbã | hɔ̃bã 
+spit: kahunh 
+stand: nòwemò 
+stand: nɔwemɔ 
+star: sikabi 
+stone: igi 
+sun: eso | eso	esɔ 
+sun: esɔ | eso	esɔ 
+swim: tadisigai 
+tail: houpe 
+that: i kòwe | i kɔwe 
+that: i kɔwe 
+this: kòwe | kɔwe 
+this: kɔwe 
+thou: ti: | ti	tiː 
+thou: tiː | ti	tiː 
+tongue: eli 
+tooth: p≈bese | bese	pese 
+tooth: pese ~ bese | bese	pese 
+tree: i 
+two: agedu 
+walk: mòsɔ̃ | mɔsɔ̃ 
+walk: mɔsɔ͂ | mɔsɔ̃ 
+warm: he͂igi͂ 
+warm: heĩgĩ 
+water: ɔ͂ta͂ | o*ta*	ɔ̃tã 
+water: ɔ̃tã | o*ta*	ɔ̃tã 
+we: nini 
+what: etɔ suha͂ | etɔ suhã 
+what: etò suhã | etɔ suhã 
+white: fʌlei 
+white: yëbui | fʌlei 
+who: etò | etɔ 
+who: etɔ 
+wing: augiʌ 
+wing: augië 
+woman: udia | udla 
+woman: udla 
+yellow: wënòi | wʌnɔi 
+yellow: wʌnɔi 
+every: susubatɔ 
+ash: nisipu 
+abdomen: pɔlɛ 
+bigness: edefʌde 
+large: edefʌde 
+breasts: toto	tɔtɔ 
+nail: ifi 
+talon: ifi 
+come from: masipe	maːsipe 
+ground: naka 
+land: naka 
+soil: naka 
+fly: hakila 
+fly v.: hakila 
+hand: nobo 
+left hand: nobo 
+right: nobo 
+1 sg.: ne 
+be knowledgeable: tawa 
+lie down: mitiɛ̃ 
+head louse: imu* 
+male: tɔnɔ 
+much: yʌfiɛ 
+multiple: yʌfiɛ 
+several: yʌfiɛ 
+hill: segebi 
+title: e*i	ẽi 
+nighttime: kasigi 
+adulterous: age 
+single: age 
+the: age 
+unprincipled: age 
+human: tono 
+human being: tono 
+person: tono 
+rainy weather: sege 
+path: idi 
+route: idi 
+hide: kodofo	kʌdɔfɔ 
+little: nɛ̃fʌni 
+smallness: nɛ̃fʌni 
+rock: igi 
+2 sg: ti	tiː 
+you: ti	tiː 
+grind: agedu 
+go: mɔsɔ̃ 
+1 pl. inc.: nini 
+we₁: nini 
+whiteness: fʌlei 
+who?: etɔ 
+female: udla 

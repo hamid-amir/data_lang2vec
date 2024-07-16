@@ -1,0 +1,218 @@
+all: areŋ 
+all: kummò 
+big: dudi | dùt	dùːt 
+big: duːt | dùt	dùːt 
+bird: wigi | wigi-t 
+bird: wigit | wigi-t 
+black: kitik | kidi-k 
+black: ŋòw | kidi-k 
+breast: ǯuːd | boːl	buːl 
+breast: ǯuːt | boːl	buːl 
+cloud: mʌrgut | muru-t 
+cloud: murut | muru-t 
+cold: sudi | ɲaːɲiŋ-ɛ 
+cold: ʒ̣awut | ɲaːɲiŋ-ɛ 
+come: ʔkɔǯɔk | k=on-oŋa	lo-i 
+come: lok | k=on-oŋa	lo-i 
+cut: kiʌk 
+cut: kitinek 
+die: iyà | iy-e 
+die: íyè | iy-e 
+dog: wuí | wɛː 
+dog: wus | wɛː 
+drink: liyo | liy-ɛ 
+drink: liǯo | liy-ɛ 
+ear: usut | usu-t 
+eat: ŋgʌn | ŋan-i 
+eat: ŋʌn | ŋan-i 
+egg: kiːt | kuyu-t 
+egg: kuyit | kuyu-t 
+eye: meti | mɛ-ti 
+eye: metti | mɛ-ti 
+fire: ú 
+fire: ùs 
+fly (n.): miɲik 
+fly (n.): miɲiti 
+foot: maːr | màr 
+foot: mʌr | màr 
+give: ti | sɛn-i	ti=ŋo 
+give: tin | sɛn-i	ti=ŋo 
+grass: terrí 
+grass: tidi 
+hand: auw | ao 
+hand: wiː | ao 
+head: ŋoːr | ŋor 
+head: ŋɔr | ŋor 
+hear: igɔi | igɛ 
+hear: ʔsugɔ | igɛ 
+heart: ʌmɔl | amul 
+heart: ʔsʌmil | amul 
+knee: kʌrgut | awrgu-t 
+knee: ɔrgut | awrgu-t 
+many: sɔŋ | terre-i 
+many: tereŋ | terre-i 
+meat: isa | ísá	ísáː	ɛssa 
+mouth: kul 
+night: waːr | war-dɛ 
+one: kʌn | kor	koɾ 
+one: kuːr | kor	koɾ 
+person: ari | at 
+person: ma | at 
+person: ʌt | at 
+road: taːr | tar 
+say: ǯaːn | ani	ʓan	ʓaːn 
+see: gil | g=on-ɛ 
+see: gɔna | g=on-ɛ 
+sit: ǯòká | ʓug-eː 
+sit: ǯukun | ʓug-eː 
+sleep: ʌmba | ŋar-i 
+sleep: ʌmbaːn | ŋar-i 
+small: ilidi | eli-t 
+small: miɲ | eli-t 
+snake: auw | ao 
+snake: mɔrsúk | ao 
+stand: gisa | orʓ-ɛ 
+stand: ɔrúkun | orʓ-ɛ 
+stone: kʌrna taːt | kada 
+stone: kʌt | kada 
+sun: arí | arì 
+sun: ʌ̀rí | arì 
+three: ičča 
+three: ityà 
+tongue: làːt | lat 
+tongue: leːt | lat 
+tooth: ɲisit | ɲísì-t 
+tooth: ŋɛsit | ɲísì-t 
+tree: gaːn | gàn 
+two: wʌrri | warri	waɾ 
+two: wurra | warri	waɾ 
+walk: kɔssa | lu-i	war-ŋa 
+walk: lɔss | lu-i	war-ŋa 
+walk: luː | lu-i	war-ŋa 
+warm: keddì | keːt 
+warm: kiːt | keːt 
+water: káal | kaːl 
+water: kaːl 
+white: ʔčénìk | eː-k 
+white: ɛiː | eː-k 
+woman: iː 
+woman: iì | iː 
+woman: pl idiŋ | iː 
+ash: oruŋo	orŋo 
+ashes: oruŋo	orŋo 
+bark: gifir 
+abdomen: tol 
+belly: tol 
+bigness: dùt	dùːt 
+large: dùt	dùːt 
+blood: áí 
+bone: kiŋa-ti 
+breasts: boːl	buːl 
+burn: duː yɛi 
+burn tr.: duː yɛi 
+claw: okoloŋ-ot 
+nail: okoloŋ-ot 
+talon: okoloŋ-ot 
+come from: k=on-oŋa	lo-i 
+be dead: iy-e 
+dead: iy-e 
+dry: labi-t 
+earth: ard 
+ground: ard 
+land: ard 
+soil: ard 
+fat: ɲima	ɲɛma 
+fat n.: ɲima	ɲɛma 
+grease: ɲima	ɲɛma 
+lubricant: ɲima	ɲɛma 
+oil: ɲima	ɲɛma 
+feather: sígì-t 
+fish: huːt 
+fly: farrɛ 
+fly v.: farrɛ 
+full: bíɲʓí-tí	bíɲʓí-tɛ 
+good: walni 
+green: širni-k 
+hair: sígì-t 
+left hand: ao 
+right: ao 
+horn: ŋoːtu 
+1 sg.: wa 
+I: wa 
+kill: šiːɲ-e 
+be knowledgeable: ɲálì 
+know: ɲálì 
+leaf: áfól 
+lie: amba ye 
+lie down: amba ye 
+liver: uttaw 
+long: la-i	laː-k 
+head louse: ši-ti 
+louse: ši-ti 
+male: má 
+man: at 
+much: terre-i 
+multiple: terre-i 
+several: terre-i 
+flesh: ísá	ísáː	ɛssa 
+moon: aiy-t 
+hill: kada 
+mountain: kada 
+name: ŋat 
+title: ŋat 
+neck: ewe-t 
+nighttime: war-dɛ 
+nose: miši 
+not: =aito	=to 
+adulterous: kor	koɾ 
+single: kor	koɾ 
+that: na-ŋ 
+the: kor	koɾ 
+unprincipled: kor	koɾ 
+human: at 
+human being: at 
+rain: ar 
+rainy weather: ar 
+red: árrá-k	árá-k 
+path: tar 
+route: tar 
+root: igi-t 
+sand: wùřú-k 
+seed: tai 
+hide: gɛr-a 
+skin: gɛr-a 
+little: eli-t 
+smallness: eli-t 
+smoke: marsu-k 
+star: miɲa 
+rock: kada 
+swim: buːr-ɛː 
+tail: buː-t 
+this: i-ŋ 
+grind: warri	waɾ 
+go: lu-i	war-ŋa 
+hot: keːt 
+1 pl. inc.: wɛi 
+we: wɛi 
+we₁: wɛi 
+what: namo-t	nomo-tɛ 
+whiteness: eː-k 
+who: na	na-rɛ 
+who?: na	na-rɛ 
+female: iː 
+yellow: asfara 
+distant: lao-ni 
+far: lao-ni 
+dull: kuːni 
+heavy: kuːni 
+serious: kuːni 
+close: tiːn-i 
+near: tiːn-i 
+ner: tiːn-i 
+salt: kiːbɛ 
+short: gul 
+thin: ɲáɽí 
+wind: sò-t	sòː-t 
+earthworm: wiː-t 
+worm: wiː-t 
+year: sana 

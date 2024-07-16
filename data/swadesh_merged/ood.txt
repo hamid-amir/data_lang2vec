@@ -1,0 +1,319 @@
+all: we:s 
+every: we:s 
+ash: matai 
+ashes: matai 
+bark: elidag 
+abdomen: wo:k 
+belly: wo:k 
+big: geʼe 
+bigness: geʼe 
+large: geʼe 
+bird: uʼuwhig 
+bite: keʼe 
+black: chuk 
+blood: 3lidag	e:ʼeḍ 
+bone: o7o	o:ʼo 
+breast: wipi	wipi: 
+breasts: wipi	wipi: 
+cloud: chewagi 
+cold: hehpi 
+come: Ziwia	ab him 
+come from: Ziwia	ab him 
+be dead: muhk	muki 
+dead: muhk	muki 
+die: muhk	muki 
+dog: gogs 
+drink: i7i	i:ʼe 
+dry: gaki 
+ear: na:k	nak 
+earth: chuthwua 
+ground: chuthwua 
+land: chuthwua 
+soil: chuthwua 
+eat: koʼa 
+egg: nonha 
+eye: wuhi 
+feather: aʼan 
+fire: nada	nahtha	tai 
+fish: watopi 
+fly: thaʼa 
+fly v.: thaʼa 
+foot: taḍ 
+full: Sud	kohwog	shuhthk	sud 
+give: mahk 
+good: ap	kehg 
+green: chehthagi 
+hair: moʼo 
+hand: nowi 
+left hand: nowi 
+right: nowi 
+head: moʼo 
+hear: chehg	ka	kah 
+heart: i:bdag 
+horn: a7ag	aʼag 
+1 sg.: -ni	a5i7i	any~i7i	ʼa:ñi 
+I: -ni	a5i7i	any~i7i	ʼa:ñi 
+kill: meʼa 
+knee: to:n	ton 
+be knowledgeable: mahch 
+know: mahch 
+leaf: ha:hag	hahag 
+liver: 53m	nemaj	ny~3m 
+long: cew 
+head louse: a7aC	a:ʼac 
+louse: a7aC	a:ʼac 
+male: ceoj 
+man: o7odh~am	oʼodham 
+many: muʼi 
+much: muʼi 
+multiple: muʼi 
+several: muʼi 
+moon: mashath 
+hill: du7ag	thoʼag 
+mountain: du7ag	thoʼag 
+mouth: ciñ 
+name: C3gig	chehgig 
+title: C3gig	chehgig 
+neck: a:d	kuswo 
+new: hemuchkam	w3CiZ	wechij 
+night: Cuhug	chuhug 
+nighttime: Cuhug	chuhug 
+nose: da:k	dak 
+not: pi 
+adulterous: h3mako	hema	hemako 
+one: h3mako	hema	hemako 
+single: h3mako	hema	hemako 
+that: hegai 
+the: h3mako	hema	hemako 
+unprincipled: h3mako	hema	hemako 
+human: o7odh~am	oʼodham 
+human being: o7odh~am	oʼodham 
+person: o7odh~am	oʼodham 
+rain: juhki 
+rainy weather: juhki 
+red: wegi 
+path: wog	wohg 
+road: wog	wohg 
+route: wog	wohg 
+root: tatk 
+round: sikol 
+sand: oʼohia 
+say: ahg 
+see: 53id	neith	ny~3id 
+seed: kai 
+sit: habadk 
+hide: 373d	elkon 
+skin: 373d	elkon 
+sleep: kohsig 
+little: cum 
+small: cum 
+smallness: cum 
+smoke: jehniktham 
+star: hu7u	huʼu 
+rock: hodai	hothai 
+stone: hodai	hothai 
+sun: taS	tas	tash 
+swim: wachchui 
+tail: bahi 
+this: i:da 
+2 sg: -m	api7i	ʼa:pi: 
+thou: -m	api7i	ʼa:pi: 
+you: -m	api7i	ʼa:pi: 
+tongue: 535	ny~3ny~	ñe:ñ 
+tooth: ta:tami	tatam 
+tree: u:s	us 
+grind: go:k	gok 
+two: go:k	gok 
+go: him 
+walk: him 
+hot: huhk 
+warm: huhk 
+water: Sudagi	shuhthagi	sudagi	waʼig 
+1 pl. inc.: -c	a:cim	aCim 
+we: -c	a:cim	aCim 
+we₁: -c	a:cim	aCim 
+what: hab 
+white: toha 
+whiteness: toha 
+who: heḍai 
+who?: heḍai 
+female: ogs 
+woman: ogs 
+yellow: oam 
+distant: mehkotham 
+far: mehkotham 
+dull: we:c 
+heavy: we:c 
+serious: we:c 
+close: mia 
+near: mia 
+ner: mia 
+salt: onmath 
+short: ṣopol 
+snake: wamaḍ 
+thin: aj	komal 
+wind: hewel 
+earthworm: watopi 
+worm: watopi 
+year: ahithag 
+3 sg.: i:da 
+he: i:da 
+she: i:da 
+2 pl.: a:pim 
+ye: a:pim 
+you all: a:pim 
+3 pl.: hegam	i:dam 
+they: hegam	i:dam 
+here: ihab 
+there: abai	ga:nai 
+where: hebai 
+where?: hebai 
+when: hekid 
+when?: hekid 
+how: has i masma 
+how?: has i masma 
+some: haʼi 
+other: aigo	goʼol 
+three: waik 
+four: giʼik	gi’ik 
+five: hetasp 
+broad: taḑan 
+wide: taḑan 
+wideness: taḑan 
+fat: gi:gi 
+thick: shawaḑ 
+narrow: kapijk 
+child: ali 
+principal wife: he:g 
+wife: he:g 
+husband: kun 
+his mother: jeʼe 
+mother: jeʼe 
+my mother: jeʼe 
+father: alid	ogol 
+his father: alid	ogol 
+my father: alid	ogol 
+branch: gakimcul 
+stick: gakimcul 
+fruit: bahi 
+flower: heosig 
+grass: waṣaʼi 
+cord: wu:lṣp	wu:ḍ 
+rope: wu:lṣp	wu:ḍ 
+flesh: cu:kug 
+meat: cu:kug 
+grease: gi:gi 
+leg: kahio 
+arm: ma:wua	nowi 
+wing: aʼan 
+gut: eḏawek	hihij 
+guts: eḏawek	hihij 
+insides: eḏawek	hihij 
+intestine: eḏawek	hihij 
+intestines: eḏawek	hihij 
+back: o: 
+suck: siʼi 
+spit: siswua 
+vomit: wihot 
+blow: hewed 
+breath: ihbheni 
+breathe: ihbheni 
+laugh: aʼas	hehem- 
+laughter: aʼas	hehem- 
+cogitate: chegito 
+reflect: chegito 
+think: chegito 
+smell: hewagith 
+sniff: hewagith 
+afraid: ehbith 
+be afraid: ehbith 
+fear: ehbith 
+fright: ehbith 
+alive: thaha 
+be alive: thaha 
+life: thaha 
+live: thaha 
+living: thaha 
+fight: cheggia 
+hunt: wia 
+beat: gewi- 
+hit: gewi- 
+strike: gewi- 
+cut: hihk 
+hack: hihk 
+cut open: tahpan 
+split: tahpan 
+scratch: huk- 
+dig: hiabog 
+lie: woʼiwua 
+lie down: woʼiwua 
+tell lies: woʼiwua 
+stand: kehk 
+turn: nod 
+turn around: nod 
+turn round: nod 
+drop: gehsh 
+fall: gehsh 
+squeeze: wakʼe 
+wring: wakʼe 
+rub: chelwin 
+wipe: thagion 
+wash: wakon 
+wash clothes: wakon 
+pull: wanimun 
+push: nuʼi 
+shove: nuʼi 
+throw: thaʼichuth 
+bind: wul 
+fasten: wul 
+tie: wul 
+tie up: wul 
+sew: shohm 
+count: kuint 
+enumerate: kuint 
+number: kuint 
+tally: kuint 
+sing: neʼe 
+have fun: chichwi 
+play: chichwi 
+flow: med 
+swell: kopoth	toskoni 
+brook: akimel 
+river: akimel 
+stream: akimel 
+lake: kahchk 
+ocean: kahchk 
+sea: kahchk 
+dust: kuhbsmath 
+fog: kohmhai 
+sky: thahm kahchim 
+snow: gew 
+ice: gew 
+blaze: mehith	mei 
+burn: mehith	mei 
+day: tash 
+daylight: tash 
+daytime: tash 
+old: geʼechu 
+bad: pad 
+evil: pad 
+rot: jew 
+rotten: jew 
+dirty: bihtagi	uam 
+filthy: bihtagi	uam 
+soiled: bihtagi	uam 
+straight: shelini 
+sharp: muʼuk 
+smooth: thahpk 
+damp: wadag	waʼu 
+wet: wadag	waʼu 
+correct: ap 
+right side: apko 
+left: ohgig 
+at: ab	am 
+in: -ko	eda 
+inside: -ko	eda 
+with: wehm 
+and: kch	ku- 
+if: -p	sha 
+because: hekaj 

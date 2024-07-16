@@ -1,0 +1,331 @@
+all: al	edes-līh	gi-līh	gi-wedar	iowe-līh	iowedar	manni-līh	we-līh 
+every: al	edes-līh	gi-līh	gi-wedar	iowe-līh	iowedar	manni-līh	we-līh 
+ash: asca 
+ashes: asca 
+bark: rinda	rinta 
+abdomen: bûh 
+belly: bûh 
+big: breit	drāti	filu	gi-nuogi	gi-nōti	grōz	guot	hevīg	hōh	kreftīg	manag	mihhil	mihil	māri	strengi	swāri	wīt 
+bigness: breit	drāti	filu	gi-nuogi	gi-nōti	grōz	guot	hevīg	hōh	kreftīg	manag	mihhil	mihil	māri	strengi	swāri	wīt 
+large: breit	drāti	filu	gi-nuogi	gi-nōti	grōz	guot	hevīg	hōh	kreftīg	manag	mihhil	mihil	māri	strengi	swāri	wīt 
+bird: fogal	fugal	fugeli 
+bite: bîzan	bīzan 
+black: swarz 
+blood: bloat	bluot	trōr 
+bone: bein	gi-beini 
+breast: brust	manzo 
+breasts: brust	manzo 
+claw: klâwa	klāwa	klōa	krāpfo 
+nail: klâwa	klāwa	klōa	krāpfo 
+talon: klâwa	klāwa	klōa	krāpfo 
+cloud: wolka	wolkan	wolko 
+cold: kalt	kuoli 
+come: az-queman	bi-queman	faran	gangan	gān	herasinnan	kw~eman	queman	sinnan	sīn	werdan	wesan	zuo-gangan	zuo-gān	zuo-wart sīn 
+come from: az-queman	bi-queman	faran	gangan	gān	herasinnan	kw~eman	queman	sinnan	sīn	werdan	wesan	zuo-gangan	zuo-gān	zuo-wart sīn 
+be dead: bi-līban	entōn	fallan	hina-faran	sterban	touwen	tōd)	tōdēn	tōt	tōt werdan 
+dead: bi-līban	entōn	fallan	hina-faran	sterban	touwen	tōd)	tōdēn	tōt	tōt werdan 
+die: bi-līban	entōn	fallan	hina-faran	sterban	touwen	tōd)	tōdēn	tōt	tōt werdan 
+dog: hunt 
+drink: sūfan	sūgan	triNkan	trinkan 
+dry: durri	ir-dorrēt	truchan	truckan	trukkan 
+ear: ore	ôra	ōra 
+earth: erda	ero	lan	lant	lenti	mittilgart	rīhi	wer-alt-lant 
+ground: erda	ero	lan	lant	lenti	mittilgart	rīhi	wer-alt-lant 
+land: erda	ero	lan	lant	lenti	mittilgart	rīhi	wer-alt-lant 
+soil: erda	ero	lan	lant	lenti	mittilgart	rīhi	wer-alt-lant 
+eat: ezan	ezzan	fuorōn	gi-fehōn	gi-āzzen	in-bīzan	wirtōn 
+egg: ei 
+eye: gi-siht	ouga 
+feather: fedara 
+fire: eit	fiur	fuir	loug 
+fish: fisc	fisko 
+fly: faran	fliogan	sciozan 
+fly v.: faran	fliogan	sciozan 
+foot: fuoz	spor 
+full: fol 
+give: bi-felahan	bringan	fir-geban	garwen	geban	geltan	gi-halōn	gi-holōn	gi-lāzan	gi-meinen	ir-geban	senten	tuon 
+good: guot	guot-willīg	guotigi-līh	redi-hafti	reht	reino	scōni	tuged-haft	tugedīg	wel	wola 
+green: gruoni 
+hair: fahs	hâr	hār	loc 
+hand: hant	munt 
+left hand: hant	munt 
+right: hant	munt 
+head: houbit	kopf	kupf 
+hear: fir-neman	gi-eiscōn	gihoren	horen	hugen	hôren	hōren	losēn 
+heart: brust	ferah	geis	gi-wizzi	herza	muot	sin	sēla 
+horn: horn 
+1 sg.: hik	ih	ix 
+I: hik	ih	ix 
+kill: bi-fellen	fir-dwesben	fliosan	gi-tōden	gi-tōt-haftigōn	ir-dwesben	ir-quellen	ir-sterben	ir-tōden	slahan	tôden	tōden	tōten) 
+knee: kneo	knio	kniu 
+be knowledgeable: ana-wart wesan	fir-stantan	ir-kennen	ir-knāen	kunnen	kunnēn	wizan	wizo wesan	wizzan 
+know: ana-wart wesan	fir-stantan	ir-kennen	ir-knāen	kunnen	kunnēn	wizan	wizo wesan	wizzan 
+leaf: blat	loub 
+lie: ligen	nidarlegen	nidarleggen 
+lie down: ligen	nidarlegen	nidarleggen 
+liver: lebara	lebra	libra 
+long: grōz	lang	manag	stark 
+head louse: lûs	lūs 
+louse: lûs	lūs 
+male: gom-man	gomo	helid	karl	man	wer 
+man: barn	gomo	man	menisco	mennisco	nemnida	stal	wiht 
+many: ferro	filu	gi-nuog	harto	manag	manag-sam	manageron	mihil 
+much: ferro	filu	gi-nuog	harto	manag	manag-sam	manageron	mihil 
+multiple: ferro	filu	gi-nuog	harto	manag	manag-sam	manageron	mihil 
+several: ferro	filu	gi-nuog	harto	manag	manag-sam	manageron	mihil 
+flesh: fleisc	līh 
+meat: fleisc	līh 
+moon: mâno	mānin	māno 
+hill: berg	buhil	houg	nol 
+mountain: berg	buhil	houg	nol 
+mouth: giumo	mund	mūl 
+name: namo 
+title: namo 
+neck: hals	nac 
+new: jung	niuwi 
+night: naht	nat 
+nighttime: naht	nat 
+nose: nasa 
+not: niowiht 
+adulterous: ein	eino 
+one: ein	eino 
+single: ein	eino 
+that: der 
+the: ein	eino 
+unprincipled: ein	eino 
+human: barn	gomo	man	menisco	mennisco	nemnida	stal	wiht 
+human being: barn	gomo	man	menisco	mennisco	nemnida	stal	wiht 
+person: barn	gomo	man	menisco	mennisco	nemnida	stal	wiht 
+rain: regan 
+rainy weather: regan 
+red: rôt	rōt 
+path: pad	weg 
+road: pad	weg 
+route: pad	weg 
+root: grunt	wurz	wurzala 
+round: sin-welb	sinwel 
+sand: grioz	sant 
+say: gi-heizan	gi-wahan	int-heizan	ir-sagēn	jehan	kunden	kōsōn	meinen	māren	nemnen	quedan	rahhōn	redina tuon	redinōn	redōn	ruofan	sagên	sagēn	sagōn	sprehan	ze worte habēn	zelen	zuo-quedan 
+see: ahtōn	ana-sehan	bi-scouwōn	gi-war werdan	ir-kennen	ir-luogēn	ir-scouwōn	ir-sehan	kapfēn	kiosan	scouwōn	sehan	wara tuon	wartēn 
+seed: fasel	korn	sâmo	sāmo	sāt 
+sit: sizen	sizzan 
+hide: *scind	fel	huti	hût	hūt 
+skin: *scind	fel	huti	hût	hūt 
+sleep: resten	slâfan	slāfan 
+little: echerōde	engi	kleini	luzil	luzzil	nidari	smal 
+small: echerōde	engi	kleini	luzil	luzzil	nidari	smal 
+smallness: echerōde	engi	kleini	luzil	luzzil	nidari	smal 
+smoke: doum	rouh	ruh 
+star: stern	sterro 
+rock: felis	fluoh	stein 
+stone: felis	fluoh	stein 
+sun: suna	sunna	sunno 
+swim: swebēn	swimman 
+tail: zagal 
+this: desêr 
+2 sg: du	dû	dū 
+thou: du	dû	dū 
+you: du	dû	dū 
+tongue: cuNa	zunga 
+tooth: cand	zan	zand 
+tree: lus 
+grind: cwei	zwei)	zwâ	zwêne (zwô	zwêne zwô	zwēne 
+two: cwei	zwei)	zwâ	zwêne (zwô	zwêne zwô	zwēne 
+go: faran	gangan	gi-wītan	gān	hloufan	loufan	pfadōn	scrītan	sinnan	tuon 
+walk: faran	gangan	gi-wītan	gān	hloufan	loufan	pfadōn	scrītan	sinnan	tuon 
+hot: warm 
+warm: warm 
+water: giozo	nazi	runs	wazar	wazzar 
+1 pl. inc.: wir 
+we: wir 
+we₁: wir 
+what: der	hwaz	sōwaz	waz	wedar 
+white: blanc	bleih	hwîz	wîz	wīz 
+whiteness: blanc	bleih	hwîz	wîz	wīz 
+who: der	hwer	sōwer	we-līh	wedar	wer 
+who?: der	hwer	sōwer	we-līh	wedar	wer 
+female: itis	quena	wîb	wīb 
+woman: itis	quena	wîb	wīb 
+yellow: elo	falo	gelo 
+distant: breit	dana	fer	ferro	fremidi	rūmo	wan	wīt-hende	wīto 
+far: breit	dana	fer	ferro	fremidi	rūmo	wan	wīt-hende	wīto 
+dull: drāti	hanteg	hevīg	kreftīg	swâri	swār	swār-līhho	tapfar	ubil 
+heavy: drāti	hanteg	hevīg	kreftīg	swâri	swār	swār-līhho	tapfar	ubil 
+serious: drāti	hanteg	hevīg	kreftīg	swâri	swār	swār-līhho	tapfar	ubil 
+close: nah	nâh	nāh 
+near: nah	nâh	nāh 
+ner: nah	nâh	nāh 
+salt: salz 
+short: ete-waz	kurz	luzil	murg	scem-līhho	scemmi	scurz	spuotīg	un-lang 
+snake: aspid	nātra	slango	unc	wurm 
+thin: dunni	sceter	smal 
+wind: wint 
+earthworm: mado	nesso	wurm 
+worm: mado	nesso	wurm 
+year: jâr	jār	wintar 
+3 sg.: er	ir 
+he: er	ir 
+she: er	ir 
+2 pl.: ir 
+ye: ir 
+you all: ir 
+3 pl.: sie	sie/sio/siu	sio	siu 
+they: sie	sie/sio/siu	sio	siu 
+here: hier 
+there: darot 
+where: dar	dara	dâr	dār	wanān	wār 
+where?: dar	dara	dâr	dār	wanān	wār 
+when: dane	hwanne	hwenne	in we-līhheru zīti	sō	wanne	wenne	wār 
+when?: dane	hwanne	hwenne	in we-līhheru zīti	sō	wanne	wenne	wār 
+how: al-so	al-sō	hweo	hwie	hwio	in we-līha wīsun	sama	sō	sō-s	wanān	waz	weo	wi	wie	wio	wuo	zi we-līhheru wīsun 
+how?: al-so	al-sō	hweo	hwie	hwio	in we-līha wīsun	sama	sō	sō-s	wanān	waz	weo	wi	wie	wio	wuo	zi we-līhheru wīsun 
+some: edeslīh	einîg	einīg	ete-waz	sih-we-līh	sum	suma-līh 
+few: fao	fôh	gōrag	luzil	un-manag	wēnag 
+other: ander 
+three: drî	drī 
+four: fior 
+five: fimf	finf 
+broad: breit	wīt 
+wide: breit	wīt 
+wideness: breit	wīt 
+fat: feizti	smero	spint	unsliht	unslit 
+thick: dick	dicki	grōz	ruh	ruoh	rūh 
+narrow: engi	gi-nōti	smal 
+child: barn	kin	zuht 
+principal wife: gi-mahala	gi-mahha	gi-māla	hīa	kwena	quena	winia	wirtun	wīb 
+wife: gi-mahala	gi-mahha	gi-māla	hīa	kwena	quena	winia	wirtun	wīb 
+husband: gi-mahalo	gom-man	gomman	hīo	karl	man	wirt 
+his mother: muoter 
+mother: muoter 
+my mother: muoter 
+father: fater	fordoro 
+his father: fater	fordoro 
+my father: fater	fordoro 
+animal: fihu	tior 
+forest: *tan	forst	holz	wald 
+woods: *tan	forst	holz	wald 
+branch: ast	gerta	rīs	zuog	zwī 
+stick: ast	gerta	rīs	zuog	zwī 
+fruit: fasel	fruht	obaz	wuohhar 
+flower: bluoma	bluomo	bluot 
+grass: gras	hewi	houwi	krūt 
+cord: seil	snar	snuor	strang	stric 
+rope: seil	snar	snuor	strang	stric 
+grease: feizti	smero	spint	unsliht	unslit 
+fingernail: nagal 
+leg: bein	gi-beini	gibeini 
+wing: feddah	federāh	fedāh	fetehho	fettach	fetāh 
+gut: darma	innuovilu	innōdi	tharm 
+guts: darma	innuovilu	innōdi	tharm 
+insides: darma	innuovilu	innōdi	tharm 
+intestine: darma	innuovilu	innōdi	tharm 
+intestines: darma	innuovilu	innōdi	tharm 
+back: bah	hruggi	rucki	ruggi 
+suck: sûgan	sūgan	tāen 
+spit: spîwan	spīan	spīgen 
+vomit: ir-spīan	spīan	ūz-spīan 
+blow: blāen	blāsan	singan	wâen	wâhen	wāen 
+breath: blāst	brādam	geis	gi-blāsen	âtamôn	ātamōn	ātum	ātumōn 
+breathe: blāst	brādam	geis	gi-blāsen	âtamôn	ātamōn	ātum	ātumōn 
+laugh: hlahhên	lahhên	lahhēn 
+laughter: hlahhên	lahhên	lahhēn 
+cogitate: ahtōn	bi-meinen	bi-trahtōn	dara-denken	denken	fir-stantan	hengen	hogazen	hugen	ir-denken	ir-hugen	rātan	suohen	trahtōn	wānen	zalōn 
+reflect: ahtōn	bi-meinen	bi-trahtōn	dara-denken	denken	fir-stantan	hengen	hogazen	hugen	ir-denken	ir-hugen	rātan	suohen	trahtōn	wānen	zalōn 
+think: ahtōn	bi-meinen	bi-trahtōn	dara-denken	denken	fir-stantan	hengen	hogazen	hugen	ir-denken	ir-hugen	rātan	suohen	trahtōn	wānen	zalōn 
+smell: riohhan 
+sniff: riohhan 
+afraid: angust	bruogo	bruti	egiso	egī	forta	freisa	nōt 
+be afraid: angust	bruogo	bruti	egiso	egī	forta	freisa	nōt 
+fear: angust	bruogo	bruti	egiso	egī	forta	freisa	nōt 
+fright: angust	bruogo	bruti	egiso	egī	forta	freisa	nōt 
+alive: būan	ferah	guot	leben	lebên	lebēn	lebēn-tīg	lebēnti	līb	līb-hafti	līh-hamōn fuoren	quec	sēla	sīn	werban	wesan	wist	wonēn 
+be alive: būan	ferah	guot	leben	lebên	lebēn	lebēn-tīg	lebēnti	līb	līb-hafti	līh-hamōn fuoren	quec	sēla	sīn	werban	wesan	wist	wonēn 
+life: būan	ferah	guot	leben	lebên	lebēn	lebēn-tīg	lebēnti	līb	līb-hafti	līh-hamōn fuoren	quec	sēla	sīn	werban	wesan	wist	wonēn 
+live: būan	ferah	guot	leben	lebên	lebēn	lebēn-tīg	lebēnti	līb	līb-hafti	līh-hamōn fuoren	quec	sēla	sīn	werban	wesan	wist	wonēn 
+living: būan	ferah	guot	leben	lebên	lebēn	lebēn-tīg	lebēnti	līb	līb-hafti	līh-hamōn fuoren	quec	sēla	sīn	werban	wesan	wist	wonēn 
+fight: fehtan	kemfen	ringan	sahan	sciozan	strītan 
+hunt: jagôn	jagōn	weidōn 
+beat: bi-slahan	bliuwan	bōzzan	fillen	hals-slagōn	houwan	klochōn	refsen	slagezen	slahan	slapfan 
+hit: bi-slahan	bliuwan	bōzzan	fillen	hals-slagōn	houwan	klochōn	refsen	slagezen	slahan	slapfan 
+strike: bi-slahan	bliuwan	bōzzan	fillen	hals-slagōn	houwan	klochōn	refsen	slagezen	slahan	slapfan 
+cut: *snizzen	in-ginnan	scrōtan	snîdan	snīdan 
+hack: *snizzen	in-ginnan	scrōtan	snîdan	snīdan 
+cut open: spaltan 
+split: spaltan 
+pierce: stehan	stehhan	stehhōn 
+stab: stehan	stehhan	stehhōn 
+scratch: krazzôn 
+dig: graban	wuolen 
+tell lies: in luginōn sīn	liogan 
+stand: stantan	stên	stān	sīn	umbi-stantan 
+turn: gi-wenten	kêren	sweibōn	walbōn	werban 
+turn around: gi-wenten	kêren	sweibōn	walbōn	werban 
+turn round: gi-wenten	kêren	sweibōn	walbōn	werban 
+drop: ana-fallan	bi-fallan	blesten	fallan	nidar-stīgan	rīsan	sturzen	touwen 
+fall: ana-fallan	bi-fallan	blesten	fallan	nidar-stīgan	rīsan	sturzen	touwen 
+grasp: bi-habēn	bi-haltan	eigan	fazzōn	folhaben	habēn	haltan	inhabēn 
+hold: bi-habēn	bi-haltan	eigan	fazzōn	folhaben	habēn	haltan	inhabēn 
+hold in arm: bi-habēn	bi-haltan	eigan	fazzōn	folhaben	habēn	haltan	inhabēn 
+squeeze: *pressōn	drucken	irringan 
+wring: *pressōn	drucken	irringan 
+rub: gnītan	rîban	rīban	wisken 
+wipe: wisken 
+wash: dana-dwahan	dwahan	flewen	ir-spuolen	luhhen	wascan 
+wash clothes: dana-dwahan	dwahan	flewen	ir-spuolen	luhhen	wascan 
+push: scaltan	scioban	skioban	stōzan	werfan 
+shove: scaltan	scioban	skioban	stōzan	werfan 
+throw: legen	tuon	werfan 
+bind: bintan	dingan	gi-screnken	gi-spannan	heften	knupfen	wintan 
+fasten: bintan	dingan	gi-screnken	gi-spannan	heften	knupfen	wintan 
+tie: bintan	dingan	gi-screnken	gi-spannan	heften	knupfen	wintan 
+tie up: bintan	dingan	gi-screnken	gi-spannan	heften	knupfen	wintan 
+sew: nâen	nāen	siuwen 
+count: bi-zelen	gi-rīman	ir-zelen	rīmen	zelen	zellen 
+enumerate: bi-zelen	gi-rīman	ir-zelen	rīmen	zelen	zellen 
+number: bi-zelen	gi-rīman	ir-zelen	rīmen	zelen	zellen 
+tally: bi-zelen	gi-rīman	ir-zelen	rīmen	zelen	zellen 
+sing: fore-singan	ir-singan	lūten	quedan	singan 
+have fun: singan	spilen	spilôn	spilēn	spilōn 
+play: singan	spilen	spilôn	spilēn	spilōn 
+float: fliuzan	swebên	trîban 
+flow: diezen	faran	fliozan	loufan	rinnan	springan 
+freeze: gifriosan 
+brook: aha	bah	fluz	flōz	giozo	klinga	klingo	runsa	stroum	strōm	wazar 
+river: aha	bah	fluz	flōz	giozo	klinga	klingo	runsa	stroum	strōm	wazar 
+stream: aha	bah	fluz	flōz	giozo	klinga	klingo	runsa	stroum	strōm	wazar 
+lake: giozo	sêo	sē	wāg 
+ocean: meri	sē 
+sea: meri	sē 
+dust: asca	herd	melm	molta	pulver	stoub	stubbi	stuppi 
+fog: nebul	nibulnissi 
+sky: himil	luft 
+snow: snêo	snē 
+ice: îs	īs 
+blaze: brinan	brinnan 
+burn: brinan	brinnan 
+day: tag 
+daylight: tag 
+daytime: tag 
+bad: abuh	arg	arma-līh	balwīg	fir-fluohhan	fir-tān	fra-tātīg	fravili	gi-nōti	guote-lōs	hevīgo	ir-fluohhan	leid	lōs	nīdīg	scadel	scant-līh	suhtīg	ubil	un-gi-war	un-guot	un-reht	zag	ā-kustīg	ā-werfīg	ā-wigge 
+evil: abuh	arg	arma-līh	balwīg	fir-fluohhan	fir-tān	fra-tātīg	fravili	gi-nōti	guote-lōs	hevīgo	ir-fluohhan	leid	lōs	nīdīg	scadel	scant-līh	suhtīg	ubil	un-gi-war	un-guot	un-reht	zag	ā-kustīg	ā-werfīg	ā-wigge 
+rot: fûl	fūl 
+rotten: fûl	fūl 
+dirty: salo	un-reini	un-sūbar 
+filthy: salo	un-reini	un-sūbar 
+soiled: salo	un-reini	un-sūbar 
+straight: eban	gi-rad	gireht	hina-rihtīg	in grihtī	in rihte	in rihti	in rihtī	reht 
+sharp: biter	bīzenti	eiver	hantego	sarf	scarf	scarfi	scarp	was 
+blunt: heis	stumpf	stumph	toub	trāg-līh 
+smooth: eban	ebani	lūtar	sleht 
+damp: fūhti	naz 
+wet: fūhti	naz 
+correct: in rihti	in rihtī	reht	reino	wola 
+right side: zesawa	zesawī	zeso 
+left: winistar	winstar 
+at: an	ana 
+in: an	az	in	in-in-halb	inan	innarûnhalb	innerūn-halb	mit	untar	zi	ūfan 
+inside: an	az	in	in-in-halb	inan	innarûnhalb	innerūn-halb	mit	untar	zi	ūfan 
+with: mit 
+and: anti	enti	int	inti	ja	ja ouh	jauh	joh	jā	odo	unti 
+if: al-so	al-sō	bi-diu	bī-diu	dane	dar	dār	ibu	in daz	in diu	sō	sō-s	sō-wanne	unz	want	wellen 
+because: bi-diu	bi-diu wanta	bī-diu	bī-diu wanta	dane	danta	daz	duruh daz	dō	fure daz	gagen des	in daz	in diu	mit diu	sīd	sō	want	wantâ 

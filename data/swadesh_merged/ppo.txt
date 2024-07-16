@@ -1,0 +1,795 @@
+all: adima 
+all: feya | adima 
+all: ta:pea | adima 
+all: taːpea | adima 
+all: φeya | adima 
+arm: na\ase 
+arm: naʔase 
+arm: na-asi 
+arm: na\asi 
+arm: na\azi 
+arm: naʔazi 
+arm: nasɪ 
+arm: nasi 
+arm: nate 
+arm: nazi 
+ashes: keri | sɪsu 
+ashes: kiri | sɪsu 
+ashes: kɪri | sɪsu 
+ashes: sedri | sɪsu 
+ashes: sɛdri | sɪsu 
+ashes: sedu | sɪsu 
+ashes: sisu | sɪsu 
+ashes: sɪsu 
+at: -pa 
+bark: ni a:se | sẽgãĩ 
+bark: ni aːse | sẽgãĩ 
+bark: ni segai | sẽgãĩ 
+bark: ni se͂ga͂i͂ | sẽgãĩ 
+bark: ni sɛ͂ga͂i͂ | sẽgãĩ 
+bark: segai | sẽgãĩ 
+bark: se͂ga͂i͂ | sẽgãĩ 
+belly: debe | dɛbe 
+belly: dɛbe 
+belly: mogo | dɛbe 
+belly: moko | dɛbe 
+belly: rebi | dɛbe 
+belly: tepe | dɛbe 
+belly: tibi | dɛbe 
+big: habe 
+big: wasi | habe 
+big: we | habe 
+bird: ba 
+bird: paa | ba 
+bird: puburu | ba 
+bite: nae | tigai 
+bite: nai | tigai 
+bite: sigana humai | tigai 
+bite: sigana humuai | tigai 
+bite: tigai 
+black: digiguri | dirigi elabo 
+black: dirigi elabo 
+black: dirigi (elabo) | dirigi elabo 
+black: drɪ͂gi͂ | dirigi elabo 
+black: drigi | dirigi elabo 
+black: leke rape | dirigi elabo 
+black: le͂ke rapu | dirigi elabo 
+blood: fage | samia	ɸage 
+blood: fe | samia	ɸage 
+blood: fɛ͂ | samia	ɸage 
+blood: nosu | samia	ɸage 
+blood: sei | samia	ɸage 
+blood: sogo | samia	ɸage 
+blood: wei | samia	ɸage 
+blood: wi | samia	ɸage 
+blood: φage | samia	ɸage 
+bone: dëri | diri	dʌri 
+bone: dili | diri	dʌri 
+bone: diri | diri	dʌri 
+bone: dɪli | diri	dʌri 
+bone: dʌri | diri	dʌri 
+bone: təri | diri	dʌri 
+bone: tiri | diri	dʌri 
+bone: tïri | diri	dʌri 
+bone: tuma | diri	dʌri 
+branch: nite 
+breast: ame | a*wa*	ãũwa 
+breast: ami | a*wa*	ãũwa 
+breast: auwa | a*wa*	ãũwa 
+breast: a͂u͂wa | a*wa*	ãũwa 
+breast: awa | a*wa*	ãũwa 
+breast: awa͂ | a*wa*	ãũwa 
+breast: bobe | a*wa*	ãũwa 
+breast: bobobe | a*wa*	ãũwa 
+breast: bopa | a*wa*	ãũwa 
+breast: emi-seru | a*wa*	ãũwa 
+breast: tigi | a*wa*	ãũwa 
+breast: tigi ai | a*wa*	ãũwa 
+burn: balae 
+burn: beriai 
+burn: bɛriai 
+burn: degiai 
+burn: dugidabo 
+butterfly: pa 
+butterfly: tsai-o 
+cassowary: denama 
+cassowary: fibe 
+cassowary: piri 
+cassowary: sibe 
+cassowary: ´wã 
+child: naheni 
+child: negiburabi 
+child: terege 
+child: tirige-somani 
+claw: na\ase | nazi 
+claw: naʔase | nazi 
+claw: nasi | nazi 
+claw: nazi 
+claw: segai | nazi 
+claw: sega͂i͂ | nazi 
+cloud: basugu | ebo 
+cloud: bese digi | ebo 
+cloud: bɛ͂sɛ͂ digi | ebo 
+cloud: ebo 
+cloud: koa | ebo 
+cloud: koaː | ebo 
+cold: seri tapu | siri 
+cold: siri 
+cold: sudori | siri 
+come: abe | abe	wa 
+come: ape | abe	wa 
+come: wowidabo | abe	wa 
+crocodile: ai-nama 
+crocodile: sibira 
+crocodile: tsuva 
+die: negaiarubo | sinanibo	suk 
+die: nɛgalarubo | sinanibo	suk 
+die: sinanibo | sinanibo	suk 
+die: sinugudabo | sinanibo	suk 
+die: sisnibo | sinanibo	suk 
+die: sukutapo | sinanibo	suk 
+die: sunugudabo | sinanibo	suk 
+dog: hamu | hãõ	yuwi 
+dog: hao | hãõ	yuwi 
+dog: ha͂o͂ | hãõ	yuwi 
+dog: hau | hãõ	yuwi 
+dog: ha͂u͂ | hãõ	yuwi 
+drink: ipi nae | nuku	wẽ nai 
+drink: we nai | nuku	wẽ nai 
+drink: we͂ nai | nuku	wẽ nai 
+drink: we͂ nigadabo | nuku	wẽ nai 
+drink: we nugidabo | nuku	wẽ nai 
+drink: wi nae | nuku	wẽ nai 
+drink: wi͂ nae | nuku	wẽ nai 
+dry: aro dabo | kagoro 
+dry: bazugowidab | kagoro 
+dry: bazugowidabo | kagoro 
+dry: kagoro 
+dry: kapu yalepo | kagoro 
+ear: oroge | usani	woseni 
+ear: orogi | usani	woseni 
+ear: osoni | usani	woseni 
+ear: ozini | usani	woseni 
+earth: hai 
+earth: hai-i 
+ear: usani | usani	woseni 
+ear: werigi | usani	woseni 
+ear: woleke | usani	woseni 
+eat: nae | nai 
+eat: nai 
+eat: nugidabo | nai 
+egg: ba ge 
+egg: ba-gi | ba ge 
+egg: ba ke | ba ge 
+egg: ke | ba ge 
+elbow: kenugi 
+elbow: keribi 
+elbow: na-asiki 
+elbow: nametiri 
+eye: gere | kele	kɪle 
+eye: karibi | kele	kɪle 
+eye: karubi | kele	kɪle 
+eye: kele | kele	kɪle 
+eye: kële | kele	kɪle 
+eye: keri | kele	kɪle 
+eye: kile | kele	kɪle 
+eye: kʌle | kele	kɪle 
+eye: kɪle | kele	kɪle 
+face: huridiri 
+face: keri-vaii 
+face: kurisi 
+face: kurufi 
+father: aia 
+father: ao 
+father: au 
+father: ia-apa 
+fat (n.): pake 
+fat (n.): sera 
+fat (n.): sera\a 
+fat (n.): seraʔa 
+fat (n.): sɛraʔa 
+feather: ba nigi 
+feather: ba niki | ba nigi 
+feather: bao bigi | ba nigi 
+feather: nigi | ba nigi 
+feather: pa-asi | ba nigi 
+feather: pa-nigi | ba nigi 
+feather: pupuru-nigi | ba nigi 
+finger: abu 
+finger: apo 
+finger: apu 
+finger: na-isita 
+finger: nasi-tong 
+finger: ru 
+finger: toung 
+fire: si 
+fire: siguia 
+fire: tsi-i 
+fish: ie | yia	yʌ 
+fish: iya | yia	yʌ 
+fish: nusima | yia	yʌ 
+fish: sugu | yia	yʌ 
+fish: su͂gu͂ | yia	yʌ 
+fish: yʌ | yia	yʌ 
+fish: ya | yia	yʌ 
+fish: ʲya | yia	yʌ 
+fish: yë | yia	yʌ 
+fish: yi | yia	yʌ 
+five: abo 
+five: avo-baragi 
+five: kemiari 
+five: tamio-pisidio 
+fly (n.): doguni 
+fly (n.): tomo 
+fly (n.): tuguri 
+fly (n.): tumbu 
+fly (v.): dogwahidabo 
+fly (v.): pelapo 
+fly (v.): roabo 
+fly (v.): siriai 
+foot: honoke 
+foot: hori 
+foot: kabakea 
+foot: ora-a 
+forest: beti 
+forest: bise 
+forest: oru 
+four: habararu 
+four: tamio-tamio 
+four: topi 
+four: tufidi 
+fruit: (ni) du 
+full: fa\e alepu | fa*	siga 
+full: fa͂ʔe͂ alepu | fa*	siga 
+full: faiyunubo | fa*	siga 
+full: odi horararubo | fa*	siga 
+full: siga | fa*	siga 
+full: φaiyanubo | fa*	siga 
+give: manai | mʌnai 
+give: menae | mʌnai 
+give: menai | mʌnai 
+give: mënai | mʌnai 
+give: mʌnai 
+good: usi | uzidabo 
+good: uzi | uzidabo 
+good: uzidabo 
+good: wese rapu | uzidabo 
+green: dega | diligi 
+green: dɛga | diligi 
+green: diligi 
+green: soaiguri | diligi 
+hair: dedu nigi | tobu nigi 
+hair: dobo nigi | tobu nigi 
+hair: nigi | tobu nigi 
+hair: tobo-nigi | tobu nigi 
+hair: tobu nigi 
+hair: tobu-niki | tobu nigi 
+hair: topo neki | tobu nigi 
+hair: tupu-niki | tobu nigi 
+hand: da | nase 
+hand: kia | nase 
+hand: naisita | nase 
+hand: nasi da\a | nase 
+head: dobo | tobo 
+head: tobo 
+head: toburu | tobo 
+head: tombu | tobo 
+head: topo | tobo 
+head: topu | tobo 
+head: tubu | tobo 
+hear: osai | ozai	wos 
+hear: ozai | ozai	wos 
+hear: ozodabo | ozai	wos 
+heart: douda | hozaʔa 
+heart: do͂u͂da | hozaʔa 
+heart: hoza\a | hozaʔa 
+heart: hozaʔa 
+heart: kosʔa | hozaʔa 
+heart: kosa\a | hozaʔa 
+heart: ni hosa | hozaʔa 
+hear: wasae | ozai	wos 
+he/she: ai 
+he/she: ãinnh 
+hit: boie 
+hit: bowebo 
+hit: pui 
+hit: uare 
+horn: segʌ͂ | sɛrege 
+horn: sega͂i͂ | sɛrege 
+horn: segë | sɛrege 
+horn: seka | sɛrege 
+horn: seka͂ | sɛrege 
+horn: serege | sɛrege 
+horn: sɛrege 
+horn: srgai | sɛrege 
+house: ari 
+house: aribi 
+house: be 
+house: bi 
+house: eribi 
+house: rabi 
+I: e | yano	ẽ 
+I: e͂ | yano	ẽ 
+I: ẽ | yano	ẽ 
+I: ebo | yano	ẽ 
+I: e/yano | yano	ẽ 
+kill: arai | dai 
+kill: dae | dai 
+kill: dai 
+kill: duidabo | dai 
+kill: dui-dabo | dai 
+knee: bogora | bugudri	bukutiri 
+knee: bokola | bugudri	bukutiri 
+knee: bokolaː | bugudri	bukutiri 
+knee: bugudri | bugudri	bukutiri 
+know: duedaba | wɛzedabo 
+know: du͂edaba | wɛzedabo 
+know: osai | wɛzedabo 
+know: toae rapo | wɛzedabo 
+know: wezedabo | wɛzedabo 
+know: wɛzedabo 
+leaf: ni-sagu | saku	sogu 
+leaf: ni saku | saku	sogu 
+leaf: sagu | saku	sogu 
+leaf: sogu | saku	sogu 
+leg: funi-diri 
+leg: ho 
+leg: ho͂ 
+leg: hɔ 
+leg: holeke 
+leg: hole͂ke 
+leg: horoge 
+leg: mi 
+leg: togoi 
+leg: tubi 
+lie: fini deberebo | ɸini deberebo 
+lie: fiyamunabo | ɸini deberebo 
+lie: haibo | ɸini deberebo 
+lie: haimo piae | ɸini deberebo 
+lie: φini deberebo | ɸini deberebo 
+lie: φiyamunabo | ɸini deberebo 
+lip: falabu 
+lip: farabu 
+lip: porube 
+lip: tuturu 
+liver: hoda | hosa	sɛgoruru 
+liver: hosa | hosa	sɛgoruru 
+liver: hotoru | hosa	sɛgoruru 
+liver: kiobu | hosa	sɛgoruru 
+liver: segoruru | hosa	sɛgoruru 
+liver: sɛgoruru | hosa	sɛgoruru 
+long: dui 
+long: figarabo | dui 
+long: nemi | dui 
+long: nɛmi | dui 
+long: pesi | dui 
+long: φigarabo | dui 
+louse: doi 
+louse: dui | doi 
+louse: kuro | doi 
+louse: nu | doi 
+louse: rui | doi 
+man: hoirabi | hwĩ	wi* 
+man: hwe | hwĩ	wi* 
+man: hwe͂ | hwĩ	wi* 
+man: hwi | hwĩ	wi* 
+man: hwi͂ | hwĩ	wi* 
+man: hwĩ | hwĩ	wi* 
+man: mui | hwĩ	wi* 
+man: ui | hwĩ	wi* 
+man: wei | hwĩ	wi* 
+many: hogoro | yo menabo 
+many: hu dabo | yo menabo 
+many: hu͂ dabo | yo menabo 
+many: tulopo | yo menabo 
+many: yo menabo 
+meat: mi 
+meat: tebia 
+moon: bafa | hãdi 
+moon: hadi | hãdi 
+moon: ha͂di | hãdi 
+moon: hari | hãdi 
+moon: kasiapu | hãdi 
+moon: koi | hãdi 
+moon: pawi | hãdi 
+moon: ro | hãdi 
+moon: tiriuna | hãdi 
+mosquito: ia 
+mosquito: iaa 
+mosquito: uanaserigi 
+mosquito: wanamu 
+mosquito: yá 
+mother: hai 
+mother: haio 
+mother: iamusi 
+mountain: dulipu | hasi	sazi 
+mountain: gabo ai | hasi	sazi 
+mountain: habagi | hasi	sazi 
+mountain: hadi | hasi	sazi 
+mountain: hedi | hasi	sazi 
+mountain: sazi | hasi	sazi 
+mouth: fonamu | ɸorabu 
+mouth: forabu | ɸorabu 
+mouth: hararo | ɸorabu 
+mouth: kono | ɸorabu 
+mouth: kono͂ | ɸorabu 
+mouth: konodo | ɸorabu 
+mouth: onosoru | ɸorabu 
+mouth: serigi | ɸorabu 
+mouth: φonamu | ɸorabu 
+mouth: φorabu | ɸorabu 
+name: diai | doi 
+name: doi 
+name: nimi | doi 
+navel: sawadure 
+navel: suburu 
+navel: sumburu 
+navel: tsuburu 
+neck: daba-digi | dɛba 
+neck: deba | dɛba 
+neck: dɛba 
+neck: depalu | dɛba 
+neck: doba | dɛba 
+neck: dobadigi | dɛba 
+neck: duba-tagi | dɛba 
+neck: reba | dɛba 
+new: gezi | gizi	kisi 
+new: gɛzi | gizi	kisi 
+new: gisi | gizi	kisi 
+new: gizi | gizi	kisi 
+new: gɪsi | gizi	kisi 
+new: kesipo | gizi	kisi 
+night: be digiadubo | be digidubo	be diliki 
+night: be digidubo | be digidubo	be diliki 
+night: be susigi | be digidubo	be diliki 
+night: birigiaribo | be digidubo	be diliki 
+night: digi | be digidubo	be diliki 
+night: digiro | be digidubo	be diliki 
+night: dirigi | be digidubo	be diliki 
+night: perekidapu | be digidubo	be diliki 
+night: rigi | be digidubo	be diliki 
+nose: foaai | popae	ɸobaʔai 
+nose: foba | popae	ɸobaʔai 
+nose: foba\ai | popae	ɸobaʔai 
+nose: fobai | popae	ɸobaʔai 
+nose: fopa ai | popae	ɸobaʔai 
+nose: gunumu | popae	ɸobaʔai 
+nose: gununu | popae	ɸobaʔai 
+not: maibo 
+not: me bo | maibo 
+not: muibe | maibo 
+not: mu͂ibe | maibo 
+one: beta | beta*	mɛzazibo	mɛ̃ 
+one: bisadi | beta*	mɛzazibo	mɛ̃ 
+one: bisandi | beta*	mɛzazibo	mɛ̃ 
+one: kori sali damo | beta*	mɛzazibo	mɛ̃ 
+one: me | beta*	mɛzazibo	mɛ̃ 
+one: mɛ͂ | beta*	mɛzazibo	mɛ̃ 
+one: me(-zazibo) | beta*	mɛzazibo	mɛ̃ 
+one: mɛzazibo | beta*	mɛzazibo	mɛ̃ 
+one: petati | beta*	mɛzazibo	mɛ̃ 
+one: peta͂ti | beta*	mɛzazibo	mɛ̃ 
+one: pisedi | beta*	mɛzazibo	mɛ̃ 
+person: hwi | hwĩ	wi* 
+person: hwi͂ | hwĩ	wi* 
+rain: hadi 
+rain: halepe | hadi 
+rain: hari | hadi 
+rain: hari ni | hadi 
+rain: heri | hadi 
+rain: huwa | hadi 
+rain: hwa | hadi 
+rat: beri 
+rat: pauu 
+rat: piri 
+rat: pore 
+red: dobu | seraʔa 
+red: sera\a | seraʔa 
+red: seraʔa 
+red: sezaiguri | seraʔa 
+red: sɛ͂za͂i͂guri | seraʔa 
+red: to\u rapu | seraʔa 
+red: toʔu rapu | seraʔa 
+right: turu | nase 
+river: aii 
+river: aii-habi 
+river: buna 
+river: ebe 
+road: du | tu* 
+road: du͂ | tu* 
+road: tu | tu* 
+road: tu͂ | tu* 
+root: nidai | ni dãĩ 
+root: ni da͂i͂ | ni dãĩ 
+root: ni feligi | ni dãĩ 
+root: nifirigi | ni dãĩ 
+root: ni φeligi | ni dãĩ 
+root: perege | ni dãĩ 
+root: pɛrɛge | ni dãĩ 
+round: bopae eratapu | sɛbi 
+round: bopae erataqpu | sɛbi 
+round: doguaiyai | sɛbi 
+round: kagubo | sɛbi 
+round: sebi | sɛbi 
+round: sɛbi 
+sand: adiga͂ | adigã 
+sand: adigo | adigã 
+sand: bo dou | adigã 
+sand: bo͂ do͂u͂ | adigã 
+sand: gegera | adigã 
+sand: gɛgɛra | adigã 
+sand: kekere | adigã 
+say: duidabo | adigã 
+say: fo wai | adigã 
+say: foya dibo | adigã 
+say: po yae | adigã 
+say: φo wai | adigã 
+say: φoyadibo | adigã 
+seed: digi | du 
+seed: du 
+seed: famani | du 
+seed: φamani | du 
+see: gulizidabo | kel	kerai 
+see: gulizi-dabo | kel	kerai 
+see: kalae | kel	kerai 
+see: kerai | kel	kerai 
+see: kɛrai | kel	kerai 
+see: su- | kel	kerai 
+shoulder: honu 
+shoulder: honu-natisi 
+shoulder: natiri 
+sit: berai 
+sit: bete͂i͂ teae | berai 
+sit: betei teae | berai 
+sit: diyai | berai 
+sit: di͂ya͂i͂ | berai 
+skin: aizi | seka*i	sɛ̃gãĩ 
+skin: asi | seka*i	sɛ̃gãĩ 
+skin: hame | seka*i	sɛ̃gãĩ 
+skin: hami | seka*i	sɛ̃gãĩ 
+skin: segai | seka*i	sɛ̃gãĩ 
+skin: sɛ͂ga͂i͂ | seka*i	sɛ̃gãĩ 
+skin: segãĩ | seka*i	sɛ̃gãĩ 
+skin: sikai | seka*i	sɛ̃gãĩ 
+skin: tiki | seka*i	sɛ̃gãĩ 
+sleep: feduidabo | ɸidabo 
+sleep: fidabo | ɸidabo 
+sleep: piae | ɸidabo 
+sleep: φeduidabo | ɸidabo 
+sleep: φidabo | ɸidabo 
+small: famini | nogu 
+small: makalamani | nogu 
+small: manigani | nogu 
+small: nogu 
+small: φamɪni | nogu 
+smoke: siguri | sugudi 
+smoke: si lokolapu | sugudi 
+smoke: sugudi 
+smoke: suguni | sugudi 
+smoke: suguri | sugudi 
+smoke: sukuri | sugudi 
+snake: hara 
+spit: heza 
+spit: putaa 
+spit: rago 
+spit: tago 
+stand: dari 
+stand: holabo 
+stand: ho͂labo 
+stand: orai 
+stand: tukuso holae 
+star: bese | hore	hɔ̃re 
+star: hamu | hore	hɔ̃re 
+star: hore | hore	hɔ̃re 
+star: hɔ͂re | hore	hɔ̃re 
+star: horobe | hore	hɔ̃re 
+star: huri | hore	hɔ̃re 
+star: kelemane | hore	hɔ̃re 
+star: ora manu | hore	hɔ̃re 
+star: sa | hore	hɔ̃re 
+stone: gabo | kapo	kʰani 
+stone: kabo | kapo	kʰani 
+stone: kabu | kapo	kʰani 
+stone: kani | kapo	kʰani 
+stone: kʰani | kapo	kʰani 
+stone: kapo | kapo	kʰani 
+stone: kapu | kapo	kʰani 
+sun: bete | sugua	suka 
+sun: fa | sugua	suka 
+sun: sano | sugua	suka 
+sun: suga | sugua	suka 
+sun: sugua | sugua	suka 
+sun: sukwa | sugua	suka 
+sun: suqʷa | sugua	suka 
+sun: tereuna | sugua	suka 
+sun: ye | sugua	suka 
+sun: ye͂ | sugua	suka 
+swim: ai ana fai | wẽĩ ana ãĩɸudabo 
+swim: a͂i͂ ana φai | wẽĩ ana ãĩɸudabo 
+swim: ipi ta\a pae | wẽĩ ana ãĩɸudabo 
+swim: ipi ta͂ʔa͂ pae | wẽĩ ana ãĩɸudabo 
+swim: wei ana aifudabo | wẽĩ ana ãĩɸudabo 
+swim: we͂i͂ ana a͂i͂φudabo | wẽĩ ana ãĩɸudabo 
+swim: we͂i͂ anazuidabo | wẽĩ ana ãĩɸudabo 
+swim: wei anazuidabo | wẽĩ ana ãĩɸudabo 
+tail: dizari | hãõ dizari 
+tail: hao | hãõ dizari 
+tail: ha͂o͂ dizari | hãõ dizari 
+tail: hao dizari | hãõ dizari 
+tail: tisale | hãõ dizari 
+that: o | beta*	mɛzazibo	mɛ̃ 
+that: saridona | beta*	mɛzazibo	mɛ̃ 
+that: u | beta*	mɛzazibo	mɛ̃ 
+that: uape | beta*	mɛzazibo	mɛ̃ 
+that: u-ape | beta*	mɛzazibo	mɛ̃ 
+thigh: faza 
+thigh: togoie 
+this: i 
+this: iape 
+this: i(-ape) 
+thou: aiwi | dã	nao	ya* 
+thou: da͂ | dã	nao	ya* 
+thou: na\ae | dã	nao	ya* 
+thou: naʔa͂ɛ | dã	nao	ya* 
+thou: nadea | dã	nao	ya* 
+thou: nai | dã	nao	ya* 
+thou: niei | dã	nao	ya* 
+thou: nĩyehn | dã	nao	ya* 
+thou: nte | dã	nao	ya* 
+thou: nyɪ͂ | dã	nao	ya* 
+thou: nye | dã	nao	ya* 
+thou: nyi | dã	nao	ya* 
+thou: ya | dã	nao	ya* 
+three: 2+1 
+three: damu beta 
+three: soré 
+three: suri 
+tomorrow: dua 
+tongue: gonoma | habe	hape 
+tongue: habe | habe	hape 
+tongue: habi | habe	hape 
+tongue: hape | habe	hape 
+tongue: hapi | habe	hape 
+tongue: koroma | habe	hape 
+tongue: nononoma | habe	hape 
+tooth: sega | sereke	sɛrɛge 
+tooth: sega͂ | sereke	sɛrɛge 
+tooth: serege | sereke	sɛrɛge 
+tooth: sɛrɛge | sereke	sɛrɛge 
+tooth: sereke | sereke	sɛrɛge 
+tooth: setreke | sereke	sɛrɛge 
+tooth: sirige | sereke	sɛrɛge 
+tooth: sirigi | sereke	sɛrɛge 
+tooth: sregi | sereke	sɛrɛge 
+tooth: tseka | sereke	sɛrɛge 
+tree: beti | ni 
+tree: ni 
+two: dabada damubo | dabada damubo	tamo	tamu 
+two: damo | dabada damubo	tamo	tamu 
+two: tambu | dabada damubo	tamo	tamu 
+two: tamu | dabada damubo	tamo	tamu 
+two: tapala tamo | dabada damubo	tamo	tamu 
+walk: beredabo | ɸoroaba 
+walk: bɛrɛdabo | ɸoroaba 
+walk: fa | ɸoroaba 
+walk: fai! | ɸoroaba 
+walk: foroabe | ɸoroaba 
+walk: pai! | ɸoroaba 
+walk: φoroaba | ɸoroaba 
+wallaby: sauwari 
+wallaby: soware 
+wallaby: suari 
+wallaby: tenama 
+warm: sobu 
+warm: soburu 
+warm: subu 
+warm: supu rapu 
+water: ãi | we*i	wẽĩ 
+water: aii | we*i	wẽĩ 
+water: aw | we*i	wẽĩ 
+water: ipi | we*i	wẽĩ 
+water: oii | we*i	wẽĩ 
+water: wei | we*i	wẽĩ 
+water: we͂i͂ | we*i	wẽĩ 
+water: wi | we*i	wẽĩ 
+water: wi͂ | we*i	wẽĩ 
+we: da | da*	yã 
+weep: iyei 
+we (incl.): da 
+we (incl.): da͂ 
+we (incl.): pʰeya 
+we (incl.): pheya 
+we (incl.): tä 
+we (incl.): tæ͂ 
+we (incl.): ya͂ 
+we two: da-bara damo 
+we two: da damo 
+what: nenai | nõũwãĩ 
+what: nɛnai | nõũwãĩ 
+what: neya | nõũwãĩ 
+what: noa honae | nõũwãĩ 
+what: nouwai | nõũwãĩ 
+what: no͂u͂wa͂i͂ | nõũwãĩ 
+white: age | ɸora dabo 
+white: age͂ | ɸora dabo 
+white: fora dabo | ɸora dabo 
+white: segerizi | ɸora dabo 
+white: sɛgerizi | ɸora dabo 
+white: te rapu | ɸora dabo 
+white: φora dabo | ɸora dabo 
+who: de | yadẽ 
+who: de͂ | yadẽ 
+who: deye | yadẽ 
+who: de-ye | yadẽ 
+who: hidie | yadẽ 
+who: hi͂die | yadẽ 
+who: yade | yadẽ 
+who: yade͂ | yadẽ 
+wife: naso 
+wife: niaso 
+wind: muri 
+wind: sa 
+wind: weri 
+woman: sho | sou 
+woman: sirabi | sou 
+woman: so | sou 
+woman: šo | sou 
+woman: sou 
+woman: sõ(u) | sou 
+yellow: ase | hwɛ̃ 
+yellow: a͂sɛ͂ | hwɛ̃ 
+yellow: hake rapu | hwɛ̃ 
+yellow: hwe | hwɛ̃ 
+yellow: hwɛ͂ | hwɛ̃ 
+yellow: soaguri | hwɛ̃ 
+yesterday: dua 
+you: tiyẽ | dã	nao	ya* 
+every: adima 
+ash: sɪsu 
+abdomen: dɛbe 
+bigness: habe 
+large: habe 
+breasts: a*wa*	ãũwa 
+nail: nazi 
+talon: nazi 
+come from: abe	wa 
+be dead: sinanibo	suk 
+dead: sinanibo	suk 
+ground: hai 
+land: hai 
+soil: hai 
+fly: siriai 
+fly v.: siriai 
+left hand: nase 
+1 sg.: yano	ẽ 
+be knowledgeable: wɛzedabo 
+lie down: ɸini deberebo 
+head louse: doi 
+male: hwĩ 
+much: yo menabo 
+multiple: yo menabo 
+several: yo menabo 
+hill: hasi	sazi 
+title: doi 
+nighttime: be digidubo	be diliki 
+adulterous: beta*	mɛzazibo	mɛ̃ 
+single: beta*	mɛzazibo	mɛ̃ 
+the: beta*	mɛzazibo	mɛ̃ 
+unprincipled: beta*	mɛzazibo	mɛ̃ 
+human: hwĩ	wi* 
+human being: hwĩ	wi* 
+rainy weather: hadi 
+path: tu* 
+route: tu* 
+hide: seka*i	sɛ̃gãĩ 
+little: nogu 
+smallness: nogu 
+rock: kapo	kʰani 
+2 sg: dã	nao	ya* 
+grind: dabada damubo	tamo	tamu 
+go: ɸoroaba 
+1 pl. inc.: da*	yã 
+we₁: da*	yã 
+whiteness: ɸora dabo 
+who?: yadẽ 
+female: sou 

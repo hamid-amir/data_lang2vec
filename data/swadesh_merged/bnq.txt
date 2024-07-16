@@ -1,0 +1,270 @@
+all: maya 
+every: maya 
+ash: ahi 
+ashes: ahi 
+abdomen: tiaŋ 
+belly: tiaŋ 
+big: bagay 
+bigness: bagay 
+large: bagay 
+bird: manuʔ 
+bite: kiki 
+black: ituŋ 
+blood: daha 
+bone: duhi 
+breast: susu 
+breasts: susu 
+burn: tutuŋ 
+burn tr.: tutuŋ 
+cloud: binaba 
+cold: d|al|indíŋ 
+come: mahi	siʼnai 
+come from: mahi	siʼnai 
+be dead: natey	patey 
+dead: natey	patey 
+die: natey	patey 
+dog: kapuna 
+drink: inuN	inuŋ 
+dry: mada 
+ear: tiNkahia	tiŋkahia 
+eat: kaŋ 
+egg: natúʔ 
+eye: mata 
+feather: bumbulu 
+fire: putuN	putuŋ 
+fish: kinasa7	kínasaʔ 
+fly: taláʔ 
+fly v.: taláʔ 
+good: pia 
+green: bidu nu Lrangi 
+hair: utaʔ 
+hand: lima	lrima 
+left hand: lima	lrima 
+right: lima	lrima 
+head: timbonaŋ 
+hear: dadiNihi7	díŋihiʔ 
+horn: suNey 
+1 sg.: ia7	iaʔ 
+I: ia7	iaʔ 
+kill: buno 
+knee: buku 
+be knowledgeable: tiho 
+know: tiho 
+leaf: dauN	dauŋ 
+lie: Lrumoka 
+lie down: Lrumoka 
+liver: atey 
+long: naiʔ 
+head louse: kutu 
+louse: kutu 
+male: mahuanei	mahuaney 
+man: toumata 
+moon: bulaŋ 
+mouth: mohoŋ 
+name: adeN	adeŋ 
+title: adeN	adeŋ 
+neck: eheʔ	lehe 
+new: buhu	buhú 
+night: hibi	hibí 
+nighttime: hibi	hibí 
+nose: iduN	iduŋ 
+adulterous: insauʔ	insaw	sa 
+one: insauʔ	insaw	sa 
+single: insauʔ	insaw	sa 
+that: eʔe 
+the: insauʔ	insaw	sa 
+unprincipled: insauʔ	insaw	sa 
+human: toumata 
+human being: toumata 
+person: toumata 
+rain: tahiti 
+rainy weather: tahiti 
+red: hendeŋ 
+path: boboko	daleN	daleŋ	dalren 
+road: boboko	daleN	daleŋ	dalren 
+route: boboko	daleN	daleŋ	dalren 
+root: hamuʔ 
+sand: labaney 
+say: uli 
+see: seley 
+sit: hompoŋ 
+hide: pisi 
+skin: pisi 
+sleep: tiki 
+little: kokónioʔ 
+small: kokónioʔ 
+smallness: kokónioʔ 
+smoke: tipu 
+star: malampitey 
+rock: batu 
+stone: batu 
+sun: low 
+swim: moyou 
+tail: papantey 
+this: ie 
+2 sg: ikaw	kau 
+thou: ikaw	kau 
+you: ikaw	kau 
+tongue: dila 
+tooth: isi 
+tree: kayu	puN 
+grind: dadua	dua 
+two: dadua	dua 
+go: Lrumampang	lampáŋ 
+walk: Lrumampang	lampáŋ 
+hot: ihaʔ 
+warm: ihaʔ 
+water: ake 
+1 pl. inc.: kami	kite 
+we: kami	kite 
+we₁: kami	kite 
+what: apa 
+white: bida 
+whiteness: bida 
+who: [i]say 
+who?: [i]say 
+female: babinei 
+woman: babinei 
+yellow: dídihiʔ 
+distant: daw 
+far: daw 
+dull: baháʔ 
+heavy: baháʔ 
+serious: baháʔ 
+close: lapáʔ 
+near: lapáʔ 
+ner: lapáʔ 
+salt: asiŋ 
+short: pédekeʔ	sana 
+snake: uleʔ 
+thin: nípisiʔ 
+wind: pípihiʔ 
+earthworm: loloati 
+worm: loloati 
+year: taoŋ 
+2 pl.: kumú 
+ye: kumú 
+you all: kumú 
+3 pl.: side 
+they: side 
+where: sunte 
+where?: sunte 
+when: kaŋ|edeŋ 
+when?: kaŋ|edeŋ 
+how: kakuda 
+how?: kakuda 
+other: baline 
+three: tatulru	tatulu	tatuɭu 
+four: paʔ 
+five: (lr)ima	ɭima 
+broad: lampadaʔ 
+wide: lampadaʔ 
+wideness: lampadaʔ 
+fat: lroŋo 
+thick: kapala 
+narrow: seséʔ 
+principal wife: [i]aŋkuŋ 
+wife: [i]aŋkuŋ 
+husband: [i]aŋkuŋ 
+his mother: [i]maʔ 
+mother: [i]maʔ 
+my mother: [i]maʔ 
+father: [i]amaʔ 
+his father: [i]amaʔ 
+my father: [i]amaʔ 
+forest: kakayuaŋ 
+woods: kakayuaŋ 
+branch: paŋat 
+stick: paŋat 
+fruit: bua 
+flower: buŋa|ŋ 
+grass: dukuʔ 
+cord: tali 
+rope: tali 
+flesh: léosoʔ 
+meat: léosoʔ 
+grease: lroŋo 
+wing: kalipíʔ	tatalra 
+gut: tináy 
+guts: tináy 
+insides: tináy 
+intestine: tináy 
+intestines: tináy 
+back: líkuduʔ 
+suck: sendoʔ 
+spit: udú 
+vomit: suka 
+blow: saŋó 
+breath: sindaʔ 
+breathe: sindaʔ 
+laugh: legéy 
+laughter: legéy 
+cogitate: mamikihi 
+reflect: mamikihi 
+think: mamikihi 
+smell: baw 
+sniff: baw 
+afraid: [ma]takuʔ	mataku 
+be afraid: [ma]takuʔ	mataku 
+fear: [ma]takuʔ	mataku 
+fright: [ma]takuʔ	mataku 
+alive: maʼnulrai	tulaw 
+be alive: maʼnulrai	tulaw 
+life: maʼnulrai	tulaw 
+live: maʼnulrai	tulaw 
+living: maʼnulrai	tulaw 
+hunt: anuʔ 
+beat: Mahumpaga or Manginsulu 
+hit: Mahumpaga or Manginsulu 
+strike: Mahumpaga or Manginsulu 
+cut: kotohoʔ 
+hack: kotohoʔ 
+cut open: baká 
+split: baká 
+pierce: sódokoʔ 
+stab: sódokoʔ 
+scratch: kukuduʔ 
+dig: kali 
+stand: teŋedeʔ 
+drop: nabo 
+fall: nabo 
+grasp: beleŋ 
+hold: beleŋ 
+hold in arm: beleŋ 
+squeeze: pahá 
+wring: pahá 
+throw: páhadaʔ 
+bind: ikiʔ 
+fasten: ikiʔ 
+tie: ikiʔ 
+tie up: ikiʔ 
+sew: dahuŋ 
+count: hekeŋ	tiaʔ 
+enumerate: hekeŋ	tiaʔ 
+number: hekeŋ	tiaʔ 
+tally: hekeŋ	tiaʔ 
+flow: míhihiʔ 
+lake: lóuhuʔ 
+ocean: tasiʔ 
+sea: tasiʔ 
+dust: síbukuʔ 
+fog: hibuʔ 
+sky: laŋiʔ 
+bad: dalaiʔ 
+evil: dalaiʔ 
+rot: bahiʔ 
+rotten: bahiʔ 
+dirty: suledo 
+filthy: suledo 
+soiled: suledo 
+sharp: hodow 
+blunt: tiŋkopeʔ 
+damp: labu 
+wet: labu 
+right side: kuaneŋ 
+left: kuihi 
+at: su 
+in: su huaŋ 
+inside: su huaŋ 
+and: bo 
+if: ada 

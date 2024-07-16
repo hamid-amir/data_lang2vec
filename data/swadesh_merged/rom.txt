@@ -1,0 +1,307 @@
+all: sa	savoʀe	savoʀo 
+every: sa	savoʀe	savoʀo 
+ash: vušar 
+ashes: vušar 
+bark: skoarc̷a 
+big: baro 
+bigness: baro 
+large: baro 
+bird: čirikli 
+bite: dandar- 
+black: kalo 
+blood: rat 
+bone: kokalo 
+breast: berk 
+breasts: berk 
+claw: vundžia 
+nail: vundžia 
+talon: vundžia 
+cloud: nuvero 
+cold: šilalo	šudro 
+come: av- 
+come from: av- 
+be dead: mer-	mulo 
+dead: mer-	mulo 
+die: mer-	mulo 
+dog: džukel	rikon 
+drink: pi- 
+dry: šuko 
+ear: kan 
+earth: pʰuv 
+ground: pʰuv 
+land: pʰuv 
+soil: pʰuv 
+eat: xa- 
+egg: anʀo 
+eye: yakʰ 
+feather: por 
+fire: yag 
+fish: mašʸo 
+fly: hury- 
+fly v.: hury- 
+foot: pinro	punro 
+full: pʰerdo 
+give: de- 
+good: lašʸo 
+green: zeleno 
+hair: bal 
+hand: vast 
+left hand: vast 
+right: vast 
+head: šero 
+hear: ašun- 
+heart: ilo 
+horn: šing 
+1 sg.: me 
+I: me 
+kill: mudar- 
+knee: koč	pʰabay	čang 
+be knowledgeable: žʸan- 
+know: žʸan- 
+leaf: patrin 
+lie: pašliuv- 
+lie down: pašliuv- 
+liver: buko kalo 
+long: lungo 
+head louse: žʸuv 
+louse: žʸuv 
+male: gažo	manuš	murš	ʀom 
+man: manuš 
+many: but 
+much: but 
+multiple: but 
+several: but 
+flesh: mas 
+meat: mas 
+moon: šʸon 
+hill: playin 
+mountain: playin 
+mouth: mui 
+name: anav 
+title: anav 
+neck: kor	men 
+new: nevo 
+night: riat 
+nighttime: riat 
+nose: nakʰ 
+human: manuš 
+human being: manuš 
+person: manuš 
+rain: brišind 
+rainy weather: brišind 
+red: lolo 
+root: redec̷ina	vina 
+round: oblo 
+sand: tisai 
+say: pʰen- 
+see: dikʰ- 
+seed: seminc̷a 
+sit: beš- 
+hide: morc̷i 
+skin: morc̷i 
+sleep: sov- 
+little: c̷igno	c̷ino 
+small: c̷igno	c̷ino 
+smallness: c̷igno	c̷ino 
+smoke: tʰuv 
+star: čerhai 
+rock: baʀ 
+stone: baʀ 
+sun: kʰam 
+swim: notisar- 
+tail: pori 
+2 sg: tu 
+thou: tu 
+you: tu 
+tongue: šʸib 
+tooth: dand 
+grind: dui 
+two: dui 
+go: pʰir- 
+walk: pʰir- 
+hot: tato 
+warm: tato 
+water: pai 
+1 pl. inc.: ame 
+we: ame 
+we₁: ame 
+what: so 
+white: parno 
+whiteness: parno 
+who: kon 
+who?: kon 
+female: gaži	manušni	žʸuvel	ʀomni 
+woman: gaži	manušni	žʸuvel	ʀomni 
+yellow: galbeno 
+distant: dur 
+far: dur 
+dull: pʰaro 
+heavy: pʰaro 
+serious: pʰaro 
+close: paše 
+near: paše 
+ner: paše 
+salt: lon 
+short: skurto 
+snake: sap 
+thin: kislo	sano 
+wind: balval 
+earthworm: kermo	rima 
+worm: kermo	rima 
+year: berš 
+2 pl.: tume 
+ye: tume 
+you all: tume 
+3 pl.: von 
+they: von 
+where: kai 
+where?: kai 
+when: kana 
+when?: kana 
+how: sar 
+how?: sar 
+some: c̷ira	kak	voare	vuni 
+few: c̷ira 
+three: trin 
+four: štar 
+five: pandž	panž 
+broad: buhlo 
+wide: buhlo 
+wideness: buhlo 
+fat: čiken 
+thick: tʰulo 
+narrow: tang 
+child: raklioʀi	rakloʀo	šʸavoʀi	šʸavoʀo	šʸei-oʀi 
+principal wife: gažʸi	ʀomni 
+wife: gažʸi	ʀomni 
+husband: gažʸo	ʀom 
+his mother: dei 
+mother: dei 
+my mother: dei 
+father: dad 
+his father: dad 
+my father: dad 
+animal: mahra	živina	živutno 
+forest: veš 
+woods: veš 
+branch: krianga	rai 
+stick: krianga	rai 
+fruit: legumi 
+flower: luludži 
+grass: čar 
+cord: šelo 
+rope: šelo 
+grease: čiken 
+fingernail: nai	vundžin 
+leg: heroi	pinro 
+wing: pakʰ 
+gut: poʀa 
+guts: poʀa 
+insides: poʀa 
+intestine: poʀa 
+intestines: poʀa 
+back: dumo	zeya 
+suck: c̷ird-	čaʀ- 
+spit: čungade- 
+vomit: šʸad 
+blow: pʰurd- 
+breath: aburo	c̷ird-	c̷irdimos	pʰurd- 
+breathe: aburo	c̷ird-	c̷irdimos	pʰurd- 
+laugh: asa- 
+laughter: asa- 
+cogitate: gindisar- 
+reflect: gindisar- 
+think: gindisar- 
+smell: šung- 
+sniff: šung- 
+afraid: daraimos 
+be afraid: daraimos 
+fear: daraimos 
+fright: daraimos 
+alive: traio	živ	živdo	živipen 
+be alive: traio	živ	živdo	živipen 
+life: traio	živ	živdo	živipen 
+live: traio	živ	živdo	živipen 
+living: traio	živ	živdo	živipen 
+fight: mar- 
+hunt: rod-	trad- 
+beat: mar- 
+hit: mar- 
+strike: mar- 
+cut: šʸin- 
+hack: šʸin- 
+cut open: pʰarav- 
+split: pʰarav- 
+pierce: pušav- 
+stab: pušav- 
+dig: hunav- 
+tell lies: xoxav- 
+stand: beš-	tʰer- 
+turn: ambold-	irin- 
+turn around: ambold-	irin- 
+turn round: ambold-	irin- 
+drop: per- 
+fall: per- 
+grasp: anker- 
+hold: anker- 
+hold in arm: anker- 
+squeeze: kʸid- 
+wring: kʸid- 
+rub: kʰos- 
+wipe: kʰos- 
+wash: tʰa- 
+wash clothes: tʰa- 
+push: spid- 
+shove: spid- 
+throw: šʸud- 
+bind: pʰand- 
+fasten: pʰand- 
+tie: pʰand- 
+tie up: pʰand- 
+sew: suv- 
+count: dʸin	gʸin 
+enumerate: dʸin	gʸin 
+number: dʸin	gʸin 
+tally: dʸin	gʸin 
+sing: gʸilaba- 
+have fun: kʰel- 
+play: kʰel- 
+float: flodi-	plivi-pe 
+flow: žʸa- 
+brook: deriav	doreavo	len 
+river: deriav	doreavo	len 
+stream: deriav	doreavo	len 
+lake: pai 
+ocean: deriav	marea 
+sea: deriav	marea 
+dust: poš 
+fog: bruma	magla	negura 
+sky: bolimos	del	čeri 
+snow: yiv 
+ice: buzo	paxo 
+blaze: pʰabuvav 
+burn: pʰabuvav 
+day: dies 
+daylight: dies 
+daytime: dies 
+bad: nasul 
+evil: nasul 
+rot: kerno 
+rotten: kerno 
+dirty: melalo 
+filthy: melalo 
+soiled: melalo 
+straight: vorta 
+sharp: skuc̷ome 
+blunt: bivoiako 
+smooth: kovlo 
+damp: kingo 
+wet: kingo 
+correct: čačo 
+right side: čačo 
+left: stingo 
+in: ande 
+inside: ande 
+and: hai	tʰai 
+if: te 
+because: finke	ke 

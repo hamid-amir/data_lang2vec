@@ -1,0 +1,173 @@
+all: tot	totu 
+every: tot	totu 
+ash: čerúșe 
+ashes: čerúșe 
+bark: córa 
+abdomen: târbúh 
+belly: târbúh 
+big: måre 
+bigness: måre 
+large: måre 
+bird: puľ 
+bite: mučcå 
+black: negru	négru 
+blood: sănze	sấnze 
+bone: os 
+breast: cľept 
+breasts: cľept 
+burn: palí 
+burn tr.: palí 
+claw: úngľe 
+nail: úngľe 
+talon: úngľe 
+cloud: oblåc 
+cold: råče 
+come: verí 
+come from: verí 
+be dead: murí 
+dead: murí 
+die: murí 
+dog: brec 
+drink: be	bę 
+dry: uscåt 
+ear: urę́cľe 
+earth: pemint	pemínt 
+ground: pemint	pemínt 
+land: pemint	pemínt 
+soil: pemint	pemínt 
+eat: mâncå	mâŋcå 
+egg: ov 
+eye: ócľu 
+fat: måst 
+fat n.: måst 
+grease: måst 
+lubricant: måst 
+oil: måst 
+feather: pę́na 
+fire: foc 
+fish: ríbę 
+fly: letí 
+fly v.: letí 
+foot: pićor	pičór 
+full: plir	pľir 
+give: då 
+good: bur 
+green: zelen	zelén 
+hair: per 
+hand: mâr 
+left hand: mâr 
+right: mâr 
+head: cåp 
+hear: avzí	åvzi 
+heart: i̯írimę 
+horn: corn 
+1 sg.: io	i̯ó	míre 
+I: io	i̯ó	míre 
+kill: učíde 
+knee: žerúŋcľu 
+be knowledgeable: ști 
+know: ști 
+leaf: fóľe 
+lie: začå 
+lie down: začå 
+liver: ficåţ 
+long: luŋg 
+head louse: pedúcľu 
+louse: pedúcľu 
+male: bărbåt	múșki 
+man: om 
+many: mai̯ múnt	čúda 
+much: mai̯ múnt	čúda 
+multiple: mai̯ múnt	čúda 
+several: mai̯ múnt	čúda 
+flesh: cårne 
+meat: cårne 
+moon: lúrę 
+hill: códru 
+mountain: códru 
+mouth: gúrę 
+name: lúme	nome 
+title: lúme	nome 
+neck: čerbíče 
+new: nóv 
+night: nópte 
+nighttime: nópte 
+nose: nås 
+not: nú 
+adulterous: ur 
+one: ur 
+single: ur 
+that: ačéla	ţel 
+the: ur 
+unprincipled: ur 
+human: om 
+human being: om 
+person: om 
+rain: plói̯e 
+rainy weather: plói̯e 
+red: rói̯su 
+path: cåle 
+road: cåle 
+route: cåle 
+root: córen 
+round: tond 
+sand: salbún 
+say: spure	zíče 
+see: vedę́ 
+seed: semínţę 
+sit: ședę́ 
+hide: cóze 
+skin: cóze 
+sleep: durmi	durmí 
+little: mic 
+small: mic 
+smallness: mic 
+smoke: dim 
+stand: stå 
+star: ste	stę 
+rock: ấrpa 
+stone: ấrpa 
+sun: sóre 
+swim: pliví 
+tail: códę 
+this: čésta	ţăsta 
+2 sg: tu	tú 
+thou: tu	tú 
+you: tu	tú 
+tongue: limbe	límbę 
+tooth: dínte 
+tree: lémân	årbure 
+grind: doi	doi̯ 
+two: doi	doi̯ 
+go: mę́re 
+walk: mę́re 
+hot: cåd 
+warm: cåd 
+water: åpe	åpę 
+1 pl. inc.: noi	noi̯ 
+we: noi	noi̯ 
+we₁: noi	noi̯ 
+what: če	ţe 
+white: åb 
+whiteness: åb 
+who: číre 
+who?: číre 
+female: žénskę 
+woman: žénskę 
+yellow: žut 
+distant: lårgo 
+far: lårgo 
+dull: grev 
+heavy: grev 
+serious: grev 
+close: aprope	prope	própe 
+near: aprope	prope	própe 
+ner: aprope	prope	própe 
+salt: såre 
+short: scurt 
+snake: şerp	șårpe 
+thin: supţíre 
+wind: bórę 
+earthworm: ľérmu	ɣľérmu 
+worm: ľérmu	ɣľérmu 
+year: ån 

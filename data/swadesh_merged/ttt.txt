@@ -1,0 +1,305 @@
+all: гьемме 
+every: гьемме 
+ash: хокистер 
+ashes: хокистер 
+bark: гъобугъ 
+big: келе 
+bigness: келе 
+large: келе 
+bird: паранде 
+bite: гІəнж гирде	канде 
+black: сиегь 
+blood: хун 
+bone: остгъу 
+breast: нене 
+breasts: нене 
+claw: гъəрмэгъ 
+nail: гъəрмэгъ 
+talon: гъəрмэгъ 
+cloud: булут 
+cold: хиник 
+come: оморе 
+come from: оморе 
+be dead: жукдоре	муьрде 
+dead: жукдоре	муьрде 
+die: жукдоре	муьрде 
+dog: сег 
+drink: гьенжире	хуьрде 
+dry: хуьшг 
+ear: гуш 
+earth: вилеет	хори 
+ground: вилеет	хори 
+land: вилеет	хори 
+soil: вилеет	хори 
+eat: хуьрде 
+egg: хос 
+eye: чум 
+feather: пар 
+fire: гІəтош 
+fish: жəгІ 
+fly: пар зере 
+fly v.: пар зере 
+foot: кун пой 
+full: пур 
+give: доре 
+good: хуб 
+green: савз 
+hair: муй 
+hand: дес 
+left hand: дес 
+right: дес 
+head: сер 
+hear: ши новусде 
+heart: дуьл 
+horn: суьрг 
+1 sg.: ме 
+I: ме 
+kill: куьшде 
+knee: сугърезани 
+be knowledgeable: дануьсде 
+know: дануьсде 
+leaf: велг 
+lie: де гешде 
+lie down: де гешде 
+liver: жигер 
+long: дураз 
+head louse: субуж 
+louse: субуж 
+male: мерд 
+man: инсон	одоми 
+many: омбар 
+much: омбар 
+multiple: омбар 
+several: омбар 
+flesh: жендек 
+meat: жендек 
+moon: менг 
+hill: догъ	тепеи 
+mountain: догъ	тепеи 
+mouth: лəгІə 
+name: нум	нумине 
+title: нум	нумине 
+neck: герде 
+new: тозе 
+night: шев 
+nighttime: шев 
+nose: вини 
+human: инсон	одоми 
+human being: инсон	одоми 
+person: инсон	одоми 
+rain: воруш	тегерг 
+rainy weather: воруш	тегерг 
+red: гъирмизи 
+root: рагъ 
+round: гъиргине 
+sand: гъум 
+say: гуфдире 
+see: дире 
+seed: тум 
+sit: нуьшде 
+hide: нуст 
+skin: нуст 
+sleep: хисире 
+little: гуькле 
+small: гуькле 
+smallness: гуькле 
+smoke: дуре 
+star: астара 
+rock: гъэле	сэнгъ	сэнгъ нукере 
+stone: гъэле	сэнгъ	сэнгъ нукере 
+sun: офтои	чуьшме 
+swim: симов зере 
+tail: дуьм 
+2 sg: ишму	туь 
+thou: ишму	туь 
+you: ишму	туь 
+tongue: зугьун 
+tooth: денду 
+grind: дуь-дуь 
+two: дуь-дуь 
+go: пой норе	чешде 
+walk: пой норе	чешде 
+hot: лоле 
+warm: лоле 
+water: гІов 
+1 pl. inc.: иму 
+we: иму 
+we₁: иму 
+what: чуь 
+white: сипи 
+whiteness: сипи 
+who: ки 
+who?: ки 
+female: зен 
+woman: зен 
+yellow: зерд 
+distant: дур 
+far: дур 
+dull: гурунд 
+heavy: гурунд 
+serious: гурунд 
+close: ә куьнун 
+near: ә куьнун 
+ner: ә куьнун 
+salt: муьнуьк 
+short: кут әхь 
+snake: мар 
+thin: назук 
+wind: кулок	шəхтэ 
+earthworm: куьрм 
+worm: куьрм 
+year: сал 
+2 pl.: ишму 
+ye: ишму 
+you all: ишму 
+3 pl.: угьо 
+they: угьо 
+where: эзже 
+where?: эзже 
+when: кей 
+when?: кей 
+how: чуьтам 
+how?: чуьтам 
+some: е ченд 
+few: кем 
+three: се-се 
+four: чор 
+five: пенж 
+broad: фи регь 
+wide: фи регь 
+wideness: фи регь 
+fat: кемте	пигь	ругъə 
+thick: гъолинд 
+narrow: тенг 
+child: гІəил 
+principal wife: зен 
+wife: зен 
+husband: щуьвер 
+his mother: деде 
+mother: деде 
+my mother: деде 
+father: бебе 
+his father: бебе 
+my father: бебе 
+animal: хьəйву 
+forest: више 
+woods: више 
+branch: луьге 
+stick: луьге 
+fruit: емуьш 
+flower: гуьл 
+grass: савзегел 
+cord: расе 
+rope: расе 
+grease: кемте	пигь	ругъə 
+fingernail: нəхуь 
+leg: пой 
+wing: пардуьш 
+gut: рури 
+guts: рури 
+insides: рури 
+intestine: рури 
+intestines: рури 
+back: кемор 
+suck: кешире 
+spit: туф шенде 
+vomit: верахшире 
+blow: пуф додоре	пуф зере 
+breath: нефес 
+breathe: нефес 
+laugh: хəхдуьсде 
+laughter: хəхдуьсде 
+cogitate: факир сохде 
+reflect: факир сохде 
+think: факир сохде 
+smell: буй кешире 
+sniff: буй кешире 
+afraid: сегьм	терс 
+be afraid: сегьм	терс 
+fear: сегьм	терс 
+fright: сегьм	терс 
+alive: зигьисде	зинде	зинде гуни 
+be alive: зигьисде	зинде	зинде гуни 
+life: зигьисде	зинде	зинде гуни 
+live: зигьисде	зинде	зинде гуни 
+living: зигьисде	зинде	зинде гуни 
+fight: гъовхо берде	женг сохде 
+hunt: ə ов рафде 
+beat: зере	куфде 
+hit: зере	куфде 
+strike: зере	куфде 
+cut: бурра 
+hack: бурра 
+cut open: лов бирей	лов сохте 
+split: лов бирей	лов сохте 
+pierce: вогъунде 
+stab: вогъунде 
+dig: бил зере 
+tell lies: фугъунде 
+stand: понсде 
+turn: чарунде 
+turn around: чарунде 
+turn round: чарунде 
+drop: офдоре 
+fall: офдоре 
+grasp: гирде 
+hold: гирде 
+hold in arm: гирде 
+squeeze: гъэль сохде 
+wring: гъэль сохде 
+rub: покурде 
+wipe: покурде 
+wash: шушде 
+wash clothes: шушде 
+push: гьуьл додоре 
+shove: гьуьл додоре 
+throw: шенде 
+bind: бесде 
+fasten: бесде 
+tie: бесде 
+tie up: бесде 
+sew: духде 
+count: хьисоб сохде 
+enumerate: хьисоб сохде 
+number: хьисоб сохде 
+tally: хьисоб сохде 
+sing: хунде 
+have fun: вози сохде 
+play: вози сохде 
+flow: рихде	сайлове хуно 
+brook: нуькере	чой 
+river: нуькере	чой 
+stream: нуькере	чой 
+ocean: дерьёгь 
+sea: дерьёгь 
+dust: туз 
+fog: думон 
+sky: асму 
+snow: верф 
+ice: киршо 
+blaze: сухде 
+burn: сухде 
+day: руз 
+daylight: руз 
+daytime: руз 
+bad: зобу 
+evil: зобу 
+rot: пусире 
+rotten: пусире 
+dirty: мурдал 
+filthy: мурдал 
+soiled: мурдал 
+straight: дуз 
+sharp: тиж	туьнд 
+blunt: куьл 
+smooth: шумол 
+damp: тар 
+wet: тар 
+correct: дуз 
+right side: расди 
+left: гени 
+in: ə гъəд	э гъəриш	ә дору 
+inside: ə гъəд	э гъəриш	ә дору 
+and: ве 
+if: эге 
+because: чуьнки 

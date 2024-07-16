@@ -1,0 +1,292 @@
+all: awawka 
+every: awawka 
+ash: tˀap-tˀap 
+ashes: tˀap-tˀap 
+bark: pˀɨlc̷an 
+big: dɨpɨt 
+bigness: dɨpɨt 
+large: dɨpɨt 
+bird: c̷ˀɨgɨ 
+bite: -mc̷ɨc̷kɨ 
+black: ayɨxgɨma 
+blood: genaw	muly~vu5 
+bone: boro	uxuc	uxɨc̷ 
+breast: awṣga	axuxu	puly~kuma	ruku	yawṣɨgɨ 
+breasts: awṣga	axuxu	puly~kuma	ruku	yawṣɨgɨ 
+claw: ankɨy 
+nail: ankɨy 
+talon: ankɨy 
+cloud: sagɨt 
+cold: kɨya 
+come: c̷awɨ	gepan	kupan	qanawu 
+come from: c̷awɨ	gepan	kupan	qanawu 
+be dead: -xkamɨ	lan	xkamu 
+dead: -xkamɨ	lan	xkamu 
+die: -xkamɨ	lan	xkamu 
+dog: dasu	dasɨ	th~ewa 
+drink: -guwɨ	gu	in	putun 
+dry: kasčɨ-k 
+ear: ac"ucuk	pilun	y-ac̷ˀɨc̷ɨk 
+earth: atek 
+ground: atek 
+land: atek 
+soil: atek 
+eat: -kɨnɨ 
+egg: gɨgɨ 
+eye: atetk	ge 
+feather: axaɬ 
+fire: axwakuk	axwakɨk	gutr~al 
+fish: Caly~wa	calwu	gutTol	gɨtc̷al 
+fly: -pɨtɨ 
+fly v.: -pɨtɨ 
+foot: ac̷kɨ	y-ac̷k 
+full: a-kubaɬɨ-k	qubaluk 
+give: -tɨ 
+good: xatkɨ 
+green: mɨskawgɨ 
+hair: axaɬ 
+hand: agaL	ku	y-agaɬ 
+left hand: agaL	ku	y-agaɬ 
+right: agaL	ku	y-agaɬ 
+head: y-aguxa 
+hear: -c̷ˀɨc̷kɨ-nɨ	aly~kun	xacuckuni 
+heart: ac̷ˀaxuw 
+horn: ahwalai	axwalay 
+1 sg.: inCe	k-wa	kia	koa 
+I: inCe	k-wa	kia	koa 
+kill: -wbanɨ 
+knee: acacu	atɨgɨm	luku 
+be knowledgeable: -ɬɨmtɨ 
+know: -ɬɨmtɨ 
+leaf: acuck	ac̷ˀɨc̷kɨ	tr~apul 
+lie: -kawkalkɨ 
+lie down: -kawkalkɨ 
+liver: agun	ke	y-agɨn 
+long: abaxay 
+head louse: Tutru	c̷ˀɨčɨ	puth~ar	th~un 
+louse: Tutru	c̷ˀɨčɨ	puth~ar	th~un 
+male: pasčay 
+man: Ce	gayaw	id	kɨnna	pastrami 
+many: c̷ˀɨpɨ 
+much: c̷ˀɨpɨ 
+multiple: c̷ˀɨpɨ 
+several: c̷ˀɨpɨ 
+moon: apyuxuk 
+hill: atek	mawida 
+mountain: atek	mawida 
+mouth: y-a-pɨl-k 
+name: atulo	gh~uy	y-atɨla 
+title: atulo	gh~uy	y-atɨla 
+neck: y-axkwal 
+new: akamɨsna	kamusno	we 
+night: pun	trumun	čɨmɨn 
+nighttime: pun	trumun	čɨmɨn 
+nose: anutr	anɨč	yu 
+adulterous: chia	cuyu	ki5e 
+one: chia	cuyu	ki5e 
+single: chia	cuyu	ki5e 
+that: chia	cuyu	ki5e 
+the: chia	cuyu	ki5e 
+unprincipled: chia	cuyu	ki5e 
+human: Ce	gayaw	id	kɨnna	pastrami 
+human being: Ce	gayaw	id	kɨnna	pastrami 
+person: Ce	gayaw	id	kɨnna	pastrami 
+rain: sɨnan 
+rainy weather: sɨnan 
+red: gɨlčɨ 
+path: jupatr	rupu 
+road: jupatr	rupu 
+route: jupatr	rupu 
+root: anam-c̷ɨc̷kɨ 
+round: kal-kal 
+sand: c̷ˀɨxɨy 
+say: -c̷aṣɨ 
+see: -kɬuwɨ	pelon	pen	xakLu 
+seed: ya-wc̷akc̷a-wɨč 
+sit: -mṣɨ 
+hide: alehluk	alexlɨk	th~ulke 
+skin: alehluk	alexlɨk	th~ulke 
+sleep: -pɬawɨ 
+little: gɨṣc̷ɨx 
+small: gɨṣc̷ɨx 
+smallness: gɨṣc̷ɨx 
+smoke: amtɨgɨx 
+star: caqalul	c̷ˀakalɨl	wakelen 
+rock: ciyu	c̷uyi	kura 
+stone: ciyu	c̷uyi	kura 
+sun: amaxa	amaxa apyuxuk	antu 
+swim: -wsaxɨ 
+2 sg: eymi	kumaw	kɨ-ma-w 
+thou: eymi	kumaw	kɨ-ma-w 
+you: eymi	kumaw	kɨ-ma-w 
+tongue: awunk	dugun	keun	y-a-wɨn-k 
+tooth: ahaxu	boroayeke	y-axayɨ 
+tree: Lupuk	mumuly~ 
+grind: bech	epu	p"uc	pˀɨc 
+two: bech	epu	p"uc	pˀɨc 
+go: -mpaxnɨ 
+walk: -mpaxnɨ 
+hot: -a-xɨm-xɨm-ɨ 
+warm: -a-xɨm-xɨm-ɨ 
+water: ko	yagup	yagɨp 
+1 pl. inc.: inCiu	kusan 
+we: inCiu	kusan 
+we₁: inCiu	kusan 
+what: kɨnc̷ɨ 
+white: kɨlɨx 
+whiteness: kɨlɨx 
+who: kawc̷ɨ 
+who?: kawc̷ɨ 
+female: yamkankɨ 
+woman: yamkankɨ 
+yellow: atuwaw 
+distant: xɨkɨ 
+far: xɨkɨ 
+dull: c̷ˀɨmnaw 
+heavy: c̷ˀɨmnaw 
+serious: c̷ˀɨmnaw 
+close: kata 
+near: kata 
+ner: kata 
+salt: xɨčan 
+short: atagɨ 
+snake: yasc̷a 
+thin: gɨs-gɨs 
+wind: ɨyeyɨ	ɨʼyey 
+earthworm: kaʔčɨ 
+worm: kaʔčɨ 
+year: yɨsawaw 
+2 pl.: kɨ-ma-n 
+ye: kɨ-ma-n 
+you all: kɨ-ma-n 
+3 pl.: ṣa-ṣa 
+they: ṣa-ṣa 
+where: mɨ-gɨnc̷ɨ 
+where?: mɨ-gɨnc̷ɨ 
+how: kɨṣɨ 
+how?: kɨṣɨ 
+few: gɨṣc̷ɨx 
+three: gech	gɨč 
+four: mala	maʔlɨ 
+five: damca	tank 
+broad: bat 
+wide: bat 
+wideness: bat 
+fat: iwank 
+thick: pɨy-pɨy 
+narrow: aṣečɨ 
+child: gɨsčɨx 
+principal wife: yamkankɨ	yamʼkank 
+wife: yamkankɨ	yamʼkank 
+husband: pasčay 
+his mother: mama 
+mother: mama 
+my mother: mama 
+father: yawʔge-xna 
+his father: yawʔge-xna 
+my father: yawʔge-xna 
+forest: ɨpuk 
+woods: ɨpuk 
+flower: sɨkɨt-kɨt 
+grass: yɨlɨ 
+cord: yalɨṣ 
+rope: yalɨṣ 
+flesh: pˀɨc̷wa 
+meat: pˀɨc̷wa 
+grease: iwank 
+fingernail: y-apaṣ 
+wing: axaʔnɨ 
+gut: axačwu 
+guts: axačwu 
+insides: axačwu 
+intestine: axačwu 
+intestines: axačwu 
+back: aʔc̷ˀɨx 
+spit: -kɨmtɨčɨ 
+blow: -pumc̷ɨkɨnɨ 
+breath: -sɨsɨ 
+breathe: -sɨsɨ 
+laugh: -xayɨxɨ 
+laughter: -xayɨxɨ 
+cogitate: -waɬc̷ɨ 
+reflect: -waɬc̷ɨ 
+think: -waɬc̷ɨ 
+smell: -yɨxɨ 
+sniff: -yɨxɨ 
+afraid: -wkṣɨ 
+be afraid: -wkṣɨ 
+fear: -wkṣɨ 
+fright: -wkṣɨ 
+alive: -xaxčɨ 
+be alive: -xaxčɨ 
+life: -xaxčɨ 
+live: -xaxčɨ 
+living: -xaxčɨ 
+fight: -gayɨ 
+hunt: -wbanɨ 
+beat: -gɨm-gɨm-kɨnɨ 
+hit: -gɨm-gɨm-kɨnɨ 
+strike: -gɨm-gɨm-kɨnɨ 
+cut: -kɨmtɨsc̷ɨ 
+hack: -kɨmtɨsc̷ɨ 
+pierce: -mxɨ 
+stab: -mxɨ 
+tell lies: -mtexɨ 
+stand: -ka-tɨnɨ 
+turn: -akɬuwu 
+turn around: -akɬuwu 
+turn round: -akɬuwu 
+drop: -kawkayɨ 
+fall: -kawkayɨ 
+grasp: -c̷kɨnɨ 
+hold: -c̷kɨnɨ 
+hold in arm: -c̷kɨnɨ 
+rub: -aṣɨnkac̷ɨ 
+wipe: -aṣɨnkac̷ɨ 
+wash: -paylaxanɨ 
+wash clothes: -paylaxanɨ 
+push: -sgɨ 
+shove: -sgɨ 
+throw: -wkaknɨ 
+bind: -xkac̷ɨ 
+fasten: -xkac̷ɨ 
+tie: -xkac̷ɨ 
+tie up: -xkac̷ɨ 
+sew: -tɨgɨ-c̷ɨ 
+count: -xnawgɨc̷ɨ 
+enumerate: -xnawgɨc̷ɨ 
+number: -xnawgɨc̷ɨ 
+tally: -xnawgɨc̷ɨ 
+sing: -m-lewɨ 
+have fun: -gɨlwɨ 
+play: -gɨlwɨ 
+flow: -xɨlnɨ 
+brook: aɬkac̷ 
+river: aɬkac̷ 
+stream: aɬkac̷ 
+lake: ɨyiken 
+ocean: kɨlɨla 
+sea: kɨlɨla 
+dust: gap-gap	xɨyɨm 
+fog: maṣc̷ɨn 
+sky: awxɨ 
+snow: yaxaw 
+ice: kumuwan 
+day: amaxa 
+daylight: amaxa 
+daytime: amaxa 
+bad: gɨpɨn 
+evil: gɨpɨn 
+dirty: pɨt-pɨt 
+filthy: pɨt-pɨt 
+soiled: pɨt-pɨt 
+sharp: -wɨṣkɨc̷ɨ 
+damp: bɨs-bɨs 
+wet: bɨs-bɨs 
+right side: watawk 
+left: gɨc̷ɨc̷wal 
+in: kakaṣ 
+inside: kakaṣ 
+and: c̷ɨk 
+if: alaw 
+because: wɨn 

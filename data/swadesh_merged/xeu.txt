@@ -1,0 +1,310 @@
+all: oaria 
+arm: mei 
+arm: méi 
+arm: méi 
+ashes: a-ehe | ahe 
+ashes: ahe 
+bark: kora iilu | kora maeapula 
+bark: kora lilu | kora maeapula 
+bark: kora maeapula 
+belly: morupe 
+big: laleʔa | laleha 
+big: laleá | laleha 
+big: laleha 
+bird: amoila 
+bird: aßoilo | amoila 
+bird: avoilo | amoila 
+bite: muloßa | muloβa 
+bite: mulova | muloβa 
+bite: mulovo | muloβa 
+black: aipo 
+black: maea uru | aipo 
+blood: apu | apu	opu 
+blood: opu | apu	opu 
+bone: ikiʔi | iki7i	uki 
+bone: ikií | iki7i	uki 
+bone: uki | iki7i	uki 
+breast: amaʔe | ama7e	mame 
+breast: amaé | ama7e	mame 
+breast: mame | ama7e	mame 
+burn: a hokoßoße 
+burn: a hokovove 
+claw: emi haro 
+claw: loʔa haro | emi haro 
+claw: meʔi haro | emi haro 
+claw: mei haro | emi haro 
+claw: meí haro | emi haro 
+claw: more haro | emi haro 
+cloud: mea uru | mea-uru 
+cloud: mea-uru 
+cold: mehere 
+come: eko | eko	heke 
+come: eko/heka | eko	heke 
+come: eko/heke | eko	heke 
+come: heka | eko	heke 
+come: heke | eko	heke 
+dark: muru 
+day: meahailaila 
+die: opoia 
+dog: aße | ave 
+dog: ave 
+drink: maʔa leʔe | ma leβaha	ma7a le7e 
+drink: maá leé | ma leβaha	ma7a le7e 
+drink: ma leßaha | ma leβaha	ma7a le7e 
+drink: ma levaha | ma leβaha	ma7a le7e 
+dry: koro 
+dry: korokoia 
+ear: moko 
+earth: mea 
+eat: le\e | leβaha 
+eat: leʔe | leβaha 
+eat: leßaha | leβaha 
+eat: levaha | leβaha 
+egg: aboilo  haʔe | amoila hae 
+egg: amoila hae 
+egg: avoilo haá | amoila hae 
+eye: oßohae | ovohae	oβohae 
+eye: ovohae | ovohae	oβohae 
+fat (n.): kepare 
+feather: amoila koro 
+feather: aßoilo koro | amoila koro 
+feather: avoilo koro | amoila koro 
+fire: a | a	kere 
+fire: kere | a	kere 
+fish: ekaka | ekaka	ela7au 
+fish: elaʔau | ekaka	ela7au 
+fish: elaáu | ekaka	ela7au 
+fly (v.): iußoße 
+fly (v.): iuvove 
+fly (v.): ßißila 
+fly (v.): vivila 
+full: ape loko lai | ape loko lai	loka elai 
+full: loka elai | ape loko lai	loka elai 
+girl: mori 
+give: eiora 
+give: elora | eiora 
+give: iora | eiora 
+good: ßeßeke | βeβeke 
+good: veveke | βeβeke 
+green: kairu 
+green: maea kairu 
+hair: harokoro 
+hair: haro koro | harokoro 
+head: haro 
+hear: iapa 
+heart: hißa | hiβa 
+heart: hiva | hiβa 
+heart: lauka hae | hiβa 
+horn: kea 
+I: ira | ora 
+I: ora 
+kill: heʔe 
+kill: heé | heʔe 
+kill: hila | heʔe 
+knee: loa ari | loa ari	more ari 
+knee: more ari | loa ari	more ari 
+know: ore loia 
+know: ore loiʔe | ore loia 
+know: ore loié | ore loia 
+leaf: korakoro 
+leg: loa 
+leg: more 
+lie: uaßai | uβa 
+lie: uavai | uβa 
+lie: ußa | uβa 
+lie: uva | uβa 
+liver: iki 
+long: heiei | hepi 
+long: heieʔi | hepi 
+long: hepi 
+louse: karukaru | karula 
+louse: karula 
+man: hilaßila | hoela 
+man: hilavila | hoela 
+man: ßilaia | hoela 
+man: vilaia | hoela 
+many: oaria | oarielei 
+many: oarielei 
+meat: mahala 
+meat: mohora 
+moon: papara | popare 
+moon: papare | popare 
+moon: popare 
+mountain: kela 
+mouth: ape 
+name: lare 
+neck: elapa 
+neck: loka | elapa 
+new: eleke | eleke	ereke 
+new: ereke | eleke	ereke 
+night: oroma | oroma	orovo 
+night: oroßo | oroma	orovo 
+night: orovo | oroma	orovo 
+nose: overa | oβera	ulolo 
+nose: ulolo | oβera	ulolo 
+not: ka 
+not: kaʔo 
+not: kaó 
+one: lohoreokore | lohoreokore	loriakori 
+one: loriakori | lohoreokore	loriakori 
+person: hoela 
+rain: lahi 
+rat: airi 
+red: keßare | keβare 
+red: kevare | keβare 
+red: maea keßare | keβare 
+red: maea kevare | keβare 
+road: hoi | okilale7a 
+road: okilaleʔa | okilale7a 
+road: okilaleá | okilale7a 
+root: elele 
+root: kora elele 
+round: helori 
+sand: mea kekele | mea kekele	miri holo 
+sand: mea kekelea | mea kekele	miri holo 
+sand: miri | mea kekele	miri holo 
+sand: miri holo | mea kekele	miri holo 
+sand: miri hoʔoro | mea kekele	miri holo 
+sand: miri hoóro | mea kekele	miri holo 
+say: oharo aia | mea kekele	miri holo 
+say: oharo oia | mea kekele	miri holo 
+seed: kora mere 
+seed: kore mere | kora mere 
+see: oßohae eaßa | ovohae eavoi	oβohae eaβa 
+see: oßohae eaßoi | ovohae eavoi	oβohae eaβa 
+see: ovohae eava | ovohae eavoi	oβohae eaβa 
+see: ovohae eavoi | ovohae eavoi	oβohae eaβa 
+sit: hoiaßa | hoiaβa 
+sit: hoiava | hoiaβa 
+sit: hoioßa | hoiaβa 
+sit: hoiova | hoiaβa 
+skin: maea iːlu | maea ilu	maea pura 
+skin: maea lilu | maea ilu	maea pura 
+skin: maea pura | maea ilu	maea pura 
+skin: maea puru | maea ilu	maea pura 
+sleep: muku uaßa | omuku uβa 
+sleep: muku uava | omuku uβa 
+sleep: omuku ußa | omuku uβa 
+sleep: omuku uva | omuku uβa 
+small: ehaelakore 
+small: keikaikore | ehaelakore 
+smoke: a-kokela | ekakela 
+smoke: ekakela 
+stand: urou 
+star: koʔou | ko7ou	kou 
+star: koóu | ko7ou	kou 
+star: kou | ko7ou	kou 
+stone: ohora | ohora	ohore 
+stone: ohore | ohora	ohore 
+sun: homare | homare	hovare 
+sun: hoßare | homare	hovare 
+sun: hovare | homare	hovare 
+swim: ma hara 
+swim: ma miʔihouou | ma hara 
+swim: ma miíhouou | ma hara 
+tail: eive 
+tail: euá | eive 
+tail: euʔe | eive 
+that: loleʔa | oma 
+that: loleá | oma 
+that: oma 
+this: moleʔa | ohore 
+this: moleá | ohore 
+this: ohore 
+thou: a | a	e7e 
+thou: e\e | a	e7e 
+thou: eʔe | a	e7e 
+tomorrow: opoa hoßare 
+tomorrow: opoa hovare 
+tomorrow: opo haßare 
+tomorrow: opo havare 
+tongue: eru | eru	hailu 
+tongue: hailu | eru	hailu 
+tooth: kao 
+tree: kora 
+two: lahoaha 
+walk: loa iußoßu | more meaβaha 
+walk: loa iuvovu | more meaβaha 
+walk: more meaßaha | more meaβaha 
+walk: more meavaha | more meaβaha 
+wallaby: haioru 
+wallaby: hoioru 
+warm: ahea 
+warm: aheʔa 
+warm: aheá 
+water: ma 
+we (incl.): elaßeiːa 
+we (incl.): elaveila 
+we (incl.): eleʔila 
+we (incl.): eleíla 
+what: leaá | leʔe 
+what: leʔe 
+what: leé | leʔe 
+white: maea houhu | ohu 
+white: ohu 
+who: hoila | leia 
+who: leia 
+wing: moko 
+woman: ußa | uβa 
+woman: uva | uβa 
+yellow: kairu 
+yellow: maea kairu 
+yes: e 
+yes: eʔa 
+yes: eá 
+yesterday: haila halea 
+yesterday: hoila haßare 
+yesterday: hoila havare 
+every: oaria 
+ash: ahe 
+abdomen: morupe 
+bigness: laleha 
+large: laleha 
+breasts: ama7e	mame 
+nail: emi haro 
+talon: emi haro 
+come from: eko	heke 
+be dead: opoia 
+dead: opoia 
+ground: mea 
+land: mea 
+soil: mea 
+fly: βiβila 
+fly v.: βiβila 
+hand: mei 
+left hand: mei 
+right: mei 
+1 sg.: ora 
+be knowledgeable: ore loia 
+lie down: uβa 
+head louse: karula 
+male: hilaβila 
+much: oarielei 
+multiple: oarielei 
+several: oarielei 
+hill: kela 
+title: lare 
+nighttime: oroma	orovo 
+adulterous: lohoreokore	loriakori 
+single: lohoreokore	loriakori 
+the: lohoreokore	loriakori 
+unprincipled: lohoreokore	loriakori 
+human: hoela 
+human being: hoela 
+rainy weather: lahi 
+path: okilale7a 
+route: okilale7a 
+hide: maea ilu	maea pura 
+little: ehaelakore 
+smallness: ehaelakore 
+rock: ohora	ohore 
+2 sg: a	e7e 
+you: a	e7e 
+grind: lahoaha 
+go: more meaβaha 
+1 pl. inc.: elaβeiːa	ele7ila 
+we: elaβeiːa	ele7ila 
+we₁: elaβeiːa	ele7ila 
+whiteness: ohu 
+who?: leia 
+female: uβa 

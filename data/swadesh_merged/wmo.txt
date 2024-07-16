@@ -1,0 +1,332 @@
+all: iata sebekenehei 
+arrow: pɛriŋgɛlɛ 
+arrow: singoumbo 
+ashes: nuhukeimbe | nuhukeimbe	nuhum geimbe 
+ashes: nuhum geimbe | nuhukeimbe	nuhum geimbe 
+back: arroʷbwa 
+back: erombo 
+back: rrombɛ 
+bad: ɛlkʰa 
+bad: kaihile 
+bark: (lowote) erkesi | erkesi	lowote erkesi 
+belly: sembe | sembe	sɛmbɛ 
+belly: sɛmbɛ | sembe	sɛmbɛ 
+big: umbahi | umbahi	umbaihinɛmɛ 
+big: umbaihinɛmɛ | umbahi	umbaihinɛmɛ 
+bird: altakalɛ | atekele	atɛkɛlɛ 
+bird: atekele | atekele	atɛkɛlɛ 
+bird: atɛkɛlɛ | atekele	atɛkɛlɛ 
+bite: ana | ana	nane 
+bite: nane | ana	nane 
+black: ninkerineme 
+blood: ʊmbalm | nimba5me	nimbalme	nimbaɬme	umbalm 
+blood: nimbalme | nimba5me	nimbalme	nimbaɬme	umbalm 
+blood: nimbañme | nimba5me	nimbalme	nimbaɬme	umbalm 
+blood: umbálmë | nimba5me	nimbalme	nimbaɬme	umbalm 
+bone: nangɛñe | naNgala	nanga5e	nangɛɬe	nengele 
+bone: nanggále | naNgala	nanga5e	nangɛɬe	nengele 
+bone: naŋgalɛ | naNgala	nanga5e	nangɛɬe	nengele 
+bone: nengele | naNgala	nanga5e	nangɛɬe	nengele 
+boy: ningal elmel 
+boy: niŋal ɛlmɛl 
+boy: nɪŋgal ɛlmɛl 
+breast: numandil | numandil	numantil 
+breast: numantil | numandil	numantil 
+brother: sʊmal 
+brother: warrhɪnɛʔ 
+brother: wilhɪnɛmɛ 
+brother: wirhineme 
+burn: setiele 
+child: ningal 
+child: nʊmbiaumo 
+chin: nonguñhe 
+chin: nunkelehe 
+claw: wɛtiŋge | wotinge	wɛtiŋge 
+claw: wotinge (altekele) | wotinge	wɛtiŋge 
+cloud: walel | walel	waliyɛl 
+cloud: waliyɛl | walel	waliyɛl 
+cold: numobo 
+come: hɛnɛ nalo | hana nalo	hɛnɛ nalo	nalo 
+come: nalo | hana nalo	hɛnɛ nalo	nalo 
+day: andieʲ 
+day: andiei 
+die: anetanu 
+dog: bɛtɛ | bata	pata	pete	pɛtɛ 
+dog: pete | bata	pata	pete	pɛtɛ 
+dog: pɛtɛ | bata	pata	pete	pɛtɛ 
+drink: nane 
+dry: kukurati 
+ear: atʰaha | ataha	ath~aha	etaha	ɛtaha 
+ear: atáha | ataha	ath~aha	etaha	ɛtaha 
+ear: etaha | ataha	ath~aha	etaha	ɛtaha 
+ear: ɛtaha | ataha	ath~aha	etaha	ɛtaha 
+earth: tuhalmbe 
+earth: tuhalmbɛ 
+eat: namine | namine	nane 
+eat: nane | namine	nane 
+egg: ihelmbe | i hɛlmbe	ihelmbe 
+egg: i hɛlmbe | i hɛlmbe	ihelmbe 
+elbow: ɛñhɛmbɛ 
+elbow: (talhu) emuke 
+emu: nambekele 
+emu: nambɛkɛlɛ 
+eye: barite | barrite	perite	perrite 
+eye: barrite | barrite	perite	perrite 
+eye: perite | barrite	perite	perrite 
+eye: perrite | barrite	perite	perrite 
+fall: netuke nai 
+father: akel 
+father: akɛñ 
+father: yakäl 
+fat (n.): bernute ambe 
+fat (n.): pɛrrmute 
+feather: elhe (altekele) | elhe	eɬhe 
+feather: eñhe | elhe	eɬhe 
+fingernail: tʰʌkɪlɪha 
+finger: nomuhɛ 
+finger: numuhe 
+finger: wʊtʰɪŋgɛ 
+fire: sutehe | sutaha	sutehe	sutɛhɛ 
+fire: sutɛhɛ | sutaha	sutehe	sutɛhɛ 
+fish: eʲɛ | eile	ela	elɛ	eya 
+fish: eile | eile	ela	elɛ	eya 
+fish: elɛ | eile	ela	elɛ	eya 
+fly (v.): nintetehule 
+foot: sahitɛ nangalɛ | sehite	seⁱhitɛ 
+foot: sehite | sehite	seⁱhitɛ 
+foot: seʲitɛ | sehite	seⁱhitɛ 
+forehead: ekke 
+forehead: sambaha 
+four: nʊtʰantalɛ 
+four: tetentele 
+full: naser 
+girl: ningawɪ ɛlmɛsiə 
+girl: ningawi elmesie 
+girl: nɪnawi ɛlmɛsiɛ 
+give: netihe ume | netihe ume	nɛti homo 
+give: nɛti homo | netihe ume	nɛti homo 
+good: bai 
+grass: wotɛ 
+green: sinamuneme 
+hair: walhel | walhel	walhil 
+hair: walhɛl | walhel	walhil 
+hair: walhil | walhel	walhil 
+hand: talhi | talhi	tali 
+hand: tali | talhi	tali 
+head: erke | erke	ɛrrke 
+head: ɛrrke | erke	ɛrrke 
+head: ɛrrkʰɛ | erke	ɛrrke 
+hear: nati 
+heart: elhe | elhe	ɛɬhɛ 
+heart: ɛñhɛ | elhe	ɛɬhɛ 
+heavy: manitehe 
+he/she: umei biel 
+hit: narhe 
+horn: erke palike | erke palike	paliNge	paliŋge 
+horn: paliŋge | erke palike	paliNge	paliŋge 
+house: enembele 
+house: nɛmbɛlɛ 
+I: ine 
+kill: namerehel 
+knee: ɛl hɛmbe | al hambe	elhembe	sehite elhembe	ɛl hɛmbe 
+knee: (sehite) elhembe | al hambe	elhembe	sehite elhembe	ɛl hɛmbe 
+know: nente 
+laugh: naluwe 
+leaf: sume 
+leg: sahitɛ 
+leg: sehite 
+leg: sɛhitɛ 
+lie: natehi 
+lie: natehi takemel 
+liver: elhe wonembe | at han ta5me	elhe wonembe	ɛt hɛn taɬme 
+liver: ɛt hɛn tañme | at han ta5me	elhe wonembe	ɛt hɛn taɬme 
+long: kolkolneme 
+louse: nʊmɛlɛ | numala	numele 
+louse: numele | numala	numele 
+man: elmel | samba	sambe	sambɛ 
+man: ɛlmɛl | samba	sambe	sambɛ 
+man: sambɛ | samba	sambe	sambɛ 
+many: wasineme 
+meat: maihite 
+meat: nahite 
+moon: anisi | anisi	hanisi 
+moon: hanisi | anisi	hanisi 
+morning: nʊwambɛl 
+morning: uhambel 
+mother: akɛñ 
+mother: ni 
+mountain: samʊŋgwɛ | samuNgwa	samunge	semunge	sɛmunge 
+mountain: semunge | samuNgwa	samunge	semunge	sɛmunge 
+mountain: sɛmunge | samuNgwa	samunge	semunge	sɛmunge 
+mountain: tahɛndɛ | samuNgwa	samunge	semunge	sɛmunge 
+mouth: eitumbwa | tumbe 
+mouth: eʲumbwa | tumbe 
+mouth: tumbe 
+name: nalel | na5e5	nalel	naɬeɬ 
+name: nañeñ | na5e5	nalel	naɬeɬ 
+neck: wangɛlɛ hil | wangɛlɛ hil	wankelehel 
+neck: wankelehel | wangɛlɛ hil	wankelehel 
+new: mulineme 
+night: hambel | hambal	hambel 
+night: hambɛl | hambal	hambel 
+nose: nyinggershi | ninkersi	niŋgɛrrsi 
+not: imbe 
+old: ɛlmɛsiə ʊlapɛ 
+old: sambɛ ʊlapɛ 
+old: sambeni ulape 
+old: sambe ulape 
+old: tɛlhinɛmɛ uñapɛ 
+old: tɛlhumu uñape 
+old: towekineme 
+one: isili | isili	nakanisili 
+one: (nakan)ɪsɪli | isili	nakanisili 
+person: sambe | samba	sambe	sambɛ 
+person: sambɛ | samba	sambe	sambɛ 
+rain: anɛhɛ | enehe	ɛnɛhɛ 
+rain: enehe | enehe	ɛnɛhɛ 
+rain: ɛnɛhɛ | enehe	ɛnɛhɛ 
+rat: mandehɛ 
+rat: mandɛhɛ 
+rat: mandeihe 
+rat: tɛlɛhɛ 
+red: naʷ | namo 
+red: namo 
+road: ahate 
+root: lɛpɛhɛ | lebehe	lowete lebehe	nambɛlɛ 
+root: (lowete) lebehe | lebehe	lowete lebehe	nambɛlɛ 
+root: nambɛlɛ | lebehe	lowete lebehe	nambɛlɛ 
+round: namenike 
+sand: sahal | sahal	sahaɬ 
+sand: sahañ | sahal	sahaɬ 
+say: nenatel 
+seed: (lowote) halhi | halhi	lowote halhi 
+see: netali | natali	netali	nɛtali 
+see: nɛtali | natali	netali	nɛtali 
+short: birihenem 
+shoulder: welhe 
+shoulder: wɛlhɛ 
+sister: erhumo 
+sister: ɛrrhumu 
+sit: nari takemel | nari takemel	rri 
+sit: rri | nari takemel	rri 
+skin: séndihe | sandiha	sentihe	sɛndihɛ 
+skin: sɛndihɛ | sandiha	sentihe	sɛndihɛ 
+skin: sentihe | sandiha	sentihe	sɛndihɛ 
+sleep: natehi 
+small: bitai | bitai	pitaⁱmo 
+small: pitaʲo | bitai	pitaⁱmo 
+smoke: nisul | nisul	nusut 
+smoke: nusun | nisul	nusut 
+smoke: nusut | nisul	nusut 
+snake: sʊmbʊnʊha | sumbunaha	sumbunahe 
+snake: sumbunaha | sumbunaha	sumbunahe 
+snake: sumbunahe | sumbunaha	sumbunahe 
+spit: nesuke 
+stand: nɛndantu 
+stand: netandu irauko 
+star: wasuwe 
+stone: amaha | amaha	ɛmaha 
+stone: ɛmaha | amaha	ɛmaha 
+sun: yal | yal	yaul	yaun 
+sun: yaʊn | yal	yaul	yaun 
+sun: yaul | yal	yaul	yaun 
+sun: yaun | yal	yaul	yaun 
+swim: naluwo irankeri 
+tail: einumo | einumo	ɛnʊmwɛ 
+tail: ɛnʊmwɛ | einumo	ɛnʊmwɛ 
+that: naha 
+they: nati nimbile 
+they two: uberi 
+this: nihi ke 
+thou: ehene | ehene	wanteheneme 
+thou: wanteheneme | ehene	wanteheneme 
+three: minei 
+three: mɪneʲ 
+tomorrow: namenke 
+tongue: elinde | allinde	elinde	ɛllinde 
+tongue: ɛllinde | allinde	elinde	ɛllinde 
+tooth: nalhi 
+tree: lawɛtɛ | lawata 
+tree: lewete | lawata 
+tree: lɛwɛtɛ | lawata 
+tree: lowete | lawata 
+two: biel | biel	nakanbial	pia5	piɛɬ 
+two: (nakan)biɛl | biel	nakanbial	pia5	piɛɬ 
+two: piɛñ | biel	nakanbial	pia5	piɛɬ 
+walk: nambise | nambise	nambisɛ 
+walk: nambisɛ | nambise	nambisɛ 
+walk: natekuhi | nambise	nambisɛ 
+wallaby: eimbel 
+wallaby: embɛñ 
+warm: ambeli 
+water: ambisi | ambisi	nambisil 
+water: ambɪsi | ambisi	nambisil 
+water: nambisil | ambisi	nambisil 
+we (excl.): ime 
+wet: nambisi 
+we two (excl.): ime biel 
+what: nemene 
+when: melime 
+where: iame 
+white: eʲdɛna | einteneme 
+white: einteneme 
+who: mie 
+wind: sahandiwɛ | sahandiwɛ	sahanduwo 
+wind: sahanduwo | sahandiwɛ	sahanduwo 
+wing: wɛlhe 
+wing: wolhe (altekele) 
+woman: elmesie | elmesie	ɛɬmɛsiɛ 
+woman: ɛlmɛšiə | elmesie	ɛɬmɛsiɛ 
+woman: ɛñmɛsiɛ | elmesie	ɛɬmɛsiɛ 
+wood: pangele 
+yellow: sirinbeneme 
+yes: auhe 
+yesterday: embuse 
+you two: ehi biel 
+every: iata sebekenehei 
+ash: nuhukeimbe	nuhum geimbe 
+abdomen: sembe	sɛmbɛ 
+bigness: umbahi	umbaihinɛmɛ 
+large: umbahi	umbaihinɛmɛ 
+breasts: numandil	numantil 
+nail: wotinge	wɛtiŋge 
+talon: wotinge	wɛtiŋge 
+come from: hana nalo	hɛnɛ nalo	nalo 
+be dead: anetanu 
+dead: anetanu 
+fly: nintetehule 
+fly v.: nintetehule 
+left hand: talhi	tali 
+right: talhi	tali 
+1 sg.: ine 
+be knowledgeable: nente 
+head louse: numala	numele 
+male: elmel	ɛlmɛl 
+much: wasineme 
+multiple: wasineme 
+several: wasineme 
+hill: samuNgwa	samunge	semunge	sɛmunge 
+title: na5e5	nalel	naɬeɬ 
+nighttime: hambal	hambel 
+adulterous: isili	nakanisili 
+single: isili	nakanisili 
+the: isili	nakanisili 
+unprincipled: isili	nakanisili 
+human: samba	sambe	sambɛ 
+human being: samba	sambe	sambɛ 
+rainy weather: enehe	ɛnɛhɛ 
+path: ahate 
+route: ahate 
+hide: sandiha	sentihe	sɛndihɛ 
+little: bitai	pitaⁱmo 
+smallness: bitai	pitaⁱmo 
+rock: amaha	ɛmaha 
+2 sg: ehene	wanteheneme 
+you: ehene	wanteheneme 
+grind: biel	nakanbial	pia5	piɛɬ 
+go: nambise	nambisɛ 
+whiteness: einteneme 
+who?: mie 
+female: elmesie	ɛɬmɛsiɛ 
+dull: manitehe 
+serious: manitehe 

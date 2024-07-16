@@ -1,0 +1,387 @@
+all: parɟaṇa | parɟaṇa 
+animal: ŋan̪t̪i 
+arm: ŋunʌ 
+arm: ŋuna 
+ashes: kaɲa | kaɲa	put̪a	put̪ʌ 
+ashes: put̪ʌ | kaɲa	put̪a	put̪ʌ 
+ashes: put̪a | kaɲa	put̪a	put̪ʌ 
+back: kulrru 
+back: t̪uku 
+bad: maʎaɲɟi 
+bark: pici | pici	piɟi 
+bark: piɟi | pici	piɟi 
+belly: manda 
+belly: mʌnrrʌ 
+big: piṇa | piṇa	pɪṇʌ 
+big: pɪṇʌ | piṇa	pɪṇʌ 
+bird: paya | paya	pʌyʌ 
+bird: pʌyʌ | paya	pʌyʌ 
+bite: mat̪a- 
+bitter: kʌlrrɪ 
+black: maɹ̣u | maɹ̣u	mʌɹ̣u 
+black: mʌɹ̣u | maɹ̣u	mʌɹ̣u 
+blood: kumadi | kumadi	muku 
+blow: ŋaka- 
+bone: muku 
+boy: kanku 
+boy: t̪aɹ̣i 
+breast: ɟilpi | Nama	Nomo	ŋama	ŋʌmʌ 
+breast: ŋama | Nama	Nomo	ŋama	ŋʌmʌ 
+breast: ŋʌmʌ | Nama	Nomo	ŋama	ŋʌmʌ 
+breathe: yäʊlʌ 
+brother: ŋat̪ata 
+brother: n̪iyi 
+burn: yapi- 
+burn: yarki- 
+calf: ŋuda 
+calf: t̪iʎɟa ~ ɟiʎɟa 
+cheek: ŋʌl̪ʌ 
+child: kupʌ 
+child: kupa 
+child: kupadu 
+cloud: paḷku | paḷku 
+cold: kilpʌ | kilpa	kilpʌ 
+cold: kilpa | kilpa	kilpʌ 
+come: wakaɹ̣a- | wakara	wakaɹ̣a- 
+correct: maḷaḷu 
+cut: ḍaka- 
+cut: ḍama- 
+dark: ŋalpudu 
+day: ḍiɟi 
+die: n̪ari | pali	pali-	poli	pʌli 
+die: n̪ʌri | pali	pali-	poli	pʌli 
+die: pali- | pali	pali-	poli	pʌli 
+die: palipali- | pali	pali-	poli	pʌli 
+die: pʌli | pali	pali-	poli	pʌli 
+dig: paku- 
+dig: t̪uti- 
+dog: kin̪t̪ala | ki4tala	kin̪t̪ala 
+drink: t̪apa- | tapa	t̪apa- 
+dry: muya | muya	mʊyʌ 
+dry: mʊyʌ | muya	mʊyʌ 
+dust: put̪udu 
+earth: mit̪ʌ | mit̪a 
+earth: mit̪a 
+ear: t̪ʌlpʌ | tolpo	t̪ʌlpʌ 
+eat: t̪ayi- 
+egg: kapi | kapi	kʌpi 
+egg: kʌpi | kapi	kʌpi 
+egg: kuri | kapi	kʌpi 
+eye: milki 
+face: mud̪ʌ 
+face: mul̪ʌ 
+face: mul̪a 
+fall: kuḍa- 
+fall: puri- 
+far: wadit̪a 
+father: ŋapiɹ̣i 
+fat (n.): maṇi 
+fear: yapa 
+feather: kuɟʌ 
+fight: t̪iri- 
+fight: t̪irri 
+finger: ŋʌḷki 
+fire: kʌɲʌ | kʌɲʌ	tudu	t̪udu 
+fire: t̪udu | kʌɲʌ	tudu	t̪udu 
+fish: padu 
+five: mandu mandu kuṇu 
+flower: t̪iwi 
+flow: ŋaka- 
+fly (n.): muɲɟu 
+fly (v.): t̪ada- 
+fog: kunmi 
+foot: t̪ina | t̪ina	t̪inʌ	t̪ɪdnʌ 
+foot: t̪inʌ ~ t̪ɪdnʌ | t̪ina	t̪inʌ	t̪ɪdnʌ 
+forehead: ŋʌlki 
+four: mandu mandu 
+fruit: t̪ʌnrrʌ 
+full: t̪anda- 
+girl: mankada 
+give: yiŋki- 
+good: maɲu | maɲu	ŋumu 
+good: ŋumu | maɲu	ŋumu 
+grass: kan̪t̪a 
+green: kuʎakuʎa 
+hair: para | para	pʌrʌ 
+hair: pʌrʌ | para	pʌrʌ 
+hair: ɲuḍu | para	pʌrʌ 
+hand: mʌɹ̣ʌ | mara	maɹ̣a	moro	mʌɹ̣ʌ 
+hand: maɹ̣a | mara	maɹ̣a	moro	mʌɹ̣ʌ 
+head: maŋaɟanda 
+heart: ŋaɹ̣ʌ 
+heavy: maḍi | maḍi 
+here: n̪iŋki 
+he/she: n̪an̪a 
+he/she: n̪andu 
+he/she: n̪awu 
+he/she: n̪in̪a 
+he/she: n̪ʌn̪ʌ 
+he/she: n̪ʌni 
+he/she: n̪ʌu 
+he/she: n̪ulu 
+hit: ḍanda- 
+hit: ṇanda- 
+hit: tɪʌṇʌ 
+hold: paḍa- 
+hold: pʌḍʌl 
+hole: kuḍu 
+hole: miŋka 
+hole: minkʌ 
+hole: wiḷpa 
+house: puŋʌ 
+house: puŋa 
+how: waḍaɹ̣u 
+husband: n̪uwʌ 
+ice: puru 
+I: ŋan̪i | Na4i	No4o	ŋan̪i	ŋat̪u 
+I: ŋat̪u | Na4i	No4o	ŋan̪i	ŋat̪u 
+I: ŋʌn̪ʌ | Na4i	No4o	ŋan̪i	ŋat̪u 
+kangaroo: ɟukudu 
+kill: ḍanda- | ḍanda-	ṇanda- 
+kill: ṇanda- | ḍanda-	ṇanda- 
+knee: paɲɟʌ | pa5Ta	pa5To	paɲɟa	paɲɟʌ 
+knee: paɲɟa | pa5Ta	pa5To	paɲɟa	paɲɟʌ 
+know: ŋuyama- 
+lake: pʌndu 
+laugh: kiŋka- 
+left: wadaŋaɲɟu 
+lie: t̪uraɹ̣a- 
+live: ŋama- 
+live: ŋʌmʌɪ 
+liver: kal̪u | kaLu	kal̪u	koLu	kʌl̪u 
+liver: kʌl̪u | kaLu	kal̪u	koLu	kʌl̪u 
+long: payidi 
+louse: ɲilpʌ | karo	kata 
+louse: kaɹ̣ʌ | karo	kata 
+louse: kata | karo	kata 
+louse: kʌtʌ | karo	kata 
+louse: n̪ilpa | karo	kata 
+many: marapu 
+meat: ŋan̪t̪i | paḷku 
+meat: ŋʌnt̪i | paḷku 
+meat: paḷku | paḷku 
+moon: kuḍʌ | piɹ̣a	piɹ̣ʌ 
+moon: piɹ̣ʌ | piɹ̣a	piɹ̣ʌ 
+moon: piɹ̣a | piɹ̣a	piɹ̣ʌ 
+morning: t̪aŋkut̪aŋkupaṇa 
+mosquito: kun̪t̪i 
+mother: ŋandi 
+mother: ŋʌnrri 
+mountain: maḍa | mada	wonpo 
+mountain: wʌnpʌ | mada	wonpo 
+mouth: maṇa | maṇa	mʌṇʌ 
+mouth: mʌṇʌ | maṇa	mʌṇʌ 
+name: ḍika- | tala	tolo	t̪aḷa	t̪ʌḷʌ 
+name: t̪aḷa | tala	tolo	t̪aḷa	t̪ʌḷʌ 
+name: t̪ʌḷʌ | tala	tolo	t̪aḷa	t̪ʌḷʌ 
+narrow: wʊlrru 
+narrow: wuldu 
+navel: piḍʌ 
+near: kaɹ̣akaɹ̣a 
+neck: wakada 
+new: mada | mada	morro	mʌrrʌ 
+new: mʌrrʌ | mada	morro	mʌrrʌ 
+new: wʌkʌ | mada	morro	mʌrrʌ 
+night: kalkawada | tinka	tinko	t̪inka	t̪inkʌ 
+night: t̪inkʌ | tinka	tinko	t̪inka	t̪inkʌ 
+night: t̪inka | tinka	tinko	t̪inka	t̪inkʌ 
+not: wata | wata	wʌtʌ 
+not: wʌtʌ | wata	wʌtʌ 
+old: pinadu 
+old: wil̪a-pina 
+one: kuṇʌ | kuno	kunu	kuṇu	kuṇʌ 
+one: kuṇu | kuno	kunu	kuṇu	kuṇʌ 
+one: ŋupaɹ̣a | kuno	kunu	kuṇu	kuṇʌ 
+person: kaṇa | kana	kaṇa	kono	kʌṇʌ 
+person: kʌṇʌ | kana	kaṇa	kono	kʌṇʌ 
+play: pirki- 
+pull: paduma- 
+rain: t̪alaɹ̣a 
+rat: n̪ɪl̪i 
+red: madaʎi 
+right: ŋuɲaɹ̣i | mara	maɹ̣a	moro	mʌɹ̣ʌ 
+ripe: panda 
+river: kaɹ̣idi 
+road: al̪t̪u | altu	paLtu 
+road: pal̪t̪u | altu	paLtu 
+rope: yinka 
+rotten: t̪uŋkʌ 
+salt: kaldi | kaldi	kʌlrri 
+salt: kʌlrri | kaldi	kʌlrri 
+say: yat̪a- 
+scratch: muduwa 
+seed: pawa | pawa	t̪anda 
+seed: t̪anda | pawa	t̪anda 
+see: n̪ʌɪ | 4ayi	4oi	n̪ayi-	n̪ʌɪ 
+see: n̪ayi- | 4ayi	4oi	n̪ayi-	n̪ʌɪ 
+see: yɛniʌ | 4ayi	4oi	n̪ayi-	n̪ʌɪ 
+sew: karpa- 
+short: waḍu | waḍu	wɒḍu 
+short: wɒḍu | waḍu	wɒḍu 
+sing: waŋka- 
+sister: kaku 
+sister: ŋat̪ata 
+sit: ŋama- 
+skin: ḍaḷa | 4inti	dala	tʌḷʌ	ḍaḷa 
+skin: n̪ɪnti | 4inti	dala	tʌḷʌ	ḍaḷa 
+skin: tʌḷʌ | 4inti	dala	tʌḷʌ	ḍaḷa 
+sleep: mukʌ | muka	mukʌ	t̪uraɹ̣a- 
+sleep: muka | muka	mukʌ	t̪uraɹ̣a- 
+sleep: t̪uraɹ̣a- | muka	mukʌ	t̪uraɹ̣a- 
+small: waka | waka	wʌkʌ 
+small: wʌkʌ | waka	wʌkʌ 
+smell: kuḷi 
+smell: pan̪t̪a- 
+smoke: t̪upu 
+snake: wanku | wanku	wɒmʌ 
+snake: wɒmʌ | wanku	wɒmʌ 
+spit: kundukundu 
+spit: ŋʌʎɟʌ 
+spit: ŋaʎɟa 
+split: palka- 
+stone: maḍa | mada	maḍa	modo	mʌḍʌ 
+stone: mʌḍʌ | mada	maḍa	modo	mʌḍʌ 
+straight: t̪alku 
+straight: t̪ʌlku 
+sun: ḍiɟi | diTi	tiTi	tiɟi	ḍiɟi 
+sun: tiɟi | diTi	tiTi	tiɟi	ḍiɟi 
+tail: n̪uɹ̣ʌ | n̪uɹ̣a	n̪uɹ̣ʌ 
+tail: n̪uɹ̣a | n̪uɹ̣a	n̪uɹ̣ʌ 
+take: mama- 
+take: paḍaka- 
+there: n̪aka 
+there: n̪ʌkʌ 
+there: yaɟu 
+they: tan̪a 
+they: t̪anali 
+they: t̪anan̪a 
+they two: pul̪ʌ 
+they two: pulali 
+they two: pulan̪a 
+thick: wʌnrrʌ 
+thigh: mɪlʌ 
+thigh: t̪ara 
+thigh: t̪ʌrʌ 
+think: ŋunda- 
+thorn: tilkʌ 
+thou: yini | yini	yundu	yura 
+thou: yundu | yini	yundu	yura 
+thou: yura | yini	yundu	yura 
+thou: yuran̪a | yini	yundu	yura 
+three: parkulu 
+throat: yarkaḷa 
+throw: wara- 
+tie: kada- 
+today: karaɹ̣i 
+today: kʌrʌɹ̣i 
+tomorrow: t̪aŋkupaṇa 
+tongue: t̪ʌḷi | toli	t̪ʌḷi 
+tree: waṭa | wata 
+turn: karɟi- 
+two: mandu | mandu	monrru	mʌnrru 
+two: mʌnrru | mandu	monrru	mʌnrru 
+unripe: kaṭi 
+unripe: pʊḍʌ 
+vagina: kiḷʌ 
+vagina: t̪anda 
+vomit: ŋuku 
+walk: kuḍiŋka- | wapa- 
+walk: mindi- | wapa- 
+walk: wapa- 
+wallaby: kantu 
+warm: t̪udut̪udu 
+warm: walda 
+warm: wɒlrrʌ 
+water: ŋapa | Napa	Nopo	ŋapa	ŋʌpʌ 
+water: ŋʌpʌ | Napa	Nopo	ŋapa	ŋʌpʌ 
+weep: yinda- 
+we (excl.): ŋayani 
+we (excl.): ŋʌɪʌni 
+we (incl.): ŋayana 
+we (incl.): ŋayanan̪a 
+we (incl.): ŋʌɪʌnʌ 
+we two (excl.): ŋalin̪a 
+we two (excl.): ŋʌli 
+we two (incl.): ŋalda 
+we two (incl.): ŋaldan̪a 
+we two (incl.): ŋʌlrrʌ 
+what: min̪a | min̪a	mɪn̪ʌ 
+what: mɪn̪ʌ | min̪a	mɪn̪ʌ 
+when: win̪t̪a 
+where: waḍayari 
+white: pʊḷu | pʊḷu	wadu	wʌrru 
+white: wadu | pʊḷu	wadu	wʌrru 
+white: wʌrru | pʊḷu	wadu	wʌrru 
+who: waɹ̣an̪a | waɹ̣an̪a	wʌḷi 
+who: wʌḷi | waɹ̣an̪a	wʌḷi 
+wide: madu 
+wide: mʌrru 
+wife: n̪uwʌ 
+wind: wat̪aɹ̣a 
+woman: wil̪a | wil̪a	wil̪ʌ	wɪd̪l̪ʌ 
+woman: wil̪ʌ ~ wɪd̪l̪ʌ | wil̪a	wil̪ʌ	wɪd̪l̪ʌ 
+wood: piṭʌ 
+wood: piṭa 
+wood: pɪṭʌ 
+wood: t̪udu 
+yellow: kuʎakuʎa 
+yesterday: waldawiɟi 
+you two: ylua 
+you two: yulan̪a 
+you two: yunrru 
+every: parɟaṇa 
+ash: kaɲa	put̪a	put̪ʌ 
+bigness: piṇa	pɪṇʌ 
+large: piṇa	pɪṇʌ 
+breasts: Nama	Nomo	ŋama	ŋʌmʌ 
+come from: wakara	wakaɹ̣a- 
+be dead: pali	pali-	poli	pʌli 
+dead: pali	pali-	poli	pʌli 
+ground: mit̪a 
+land: mit̪a 
+soil: mit̪a 
+fly: t̪ada- 
+fly v.: t̪ada- 
+left hand: mara	maɹ̣a	moro	mʌɹ̣ʌ 
+1 sg.: Na4i	No4o	ŋan̪i	ŋat̪u 
+be knowledgeable: ŋuyama- 
+lie down: t̪uraɹ̣a- 
+head louse: karo	kata 
+much: marapu 
+multiple: marapu 
+several: marapu 
+flesh: paḷku 
+hill: mada	wonpo 
+title: tala	tolo	t̪aḷa	t̪ʌḷʌ 
+nighttime: tinka	tinko	t̪inka	t̪inkʌ 
+nose: mul̪a 
+adulterous: kuno	kunu	kuṇu	kuṇʌ 
+single: kuno	kunu	kuṇu	kuṇʌ 
+that: kuno	kunu	kuṇu	kuṇʌ 
+the: kuno	kunu	kuṇu	kuṇʌ 
+unprincipled: kuno	kunu	kuṇu	kuṇʌ 
+human: kana	kaṇa	kono	kʌṇʌ 
+human being: kana	kaṇa	kono	kʌṇʌ 
+man: kana	kaṇa	kono	kʌṇʌ 
+rainy weather: t̪alaɹ̣a 
+path: altu	paLtu 
+route: altu	paLtu 
+hide: 4inti	dala	tʌḷʌ	ḍaḷa 
+little: waka	wʌkʌ 
+smallness: waka	wʌkʌ 
+rock: mada	maḍa	modo	mʌḍʌ 
+2 sg: yini	yundu	yura 
+you: yini	yundu	yura 
+grind: mandu	monrru	mʌnrru 
+go: wapa- 
+1 pl. inc.: Nayana	ŋayana	ŋʌɪʌnʌ 
+we: Nayana	ŋayana	ŋʌɪʌnʌ 
+we₁: Nayana	ŋayana	ŋʌɪʌnʌ 
+whiteness: pʊḷu	wadu	wʌrru 
+who?: waɹ̣an̪a	wʌḷi 
+female: wil̪a	wil̪ʌ	wɪd̪l̪ʌ 
+distant: wadit̪a 
+dull: maḍi 
+serious: maḍi 
+close: kaɹ̣akaɹ̣a 
+ner: kaɹ̣akaɹ̣a 

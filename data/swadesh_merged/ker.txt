@@ -1,0 +1,282 @@
+all: keɗe 
+every: keɗe 
+ash: kóráy 
+ashes: kóráy 
+bark: ɓə́lógí 
+abdomen: gìːdə̀ 
+belly: gìːdə̀ 
+big: bòbló 
+bigness: bòbló 
+large: bòbló 
+bird: kàskó 
+bite: hì 
+black: kisírkí 
+blood: kor 
+bone: k3sk3N	kə́skə́ŋ 
+breast: gaw	gàw 
+breasts: gaw	gàw 
+cloud: kamrá 
+cold: bə̀ arse-ársé 
+come: bi	bì	tugi	túːgí 
+come from: bi	bì	tugi	túːgí 
+be dead: bese	bèsé	me	mé 
+dead: bese	bèsé	me	mé 
+die: bese	bèsé	me	mé 
+dog: koya	kɔ́ːyá 
+drink: se	sé 
+dry: bə̀ hɛ̃ʏ̈ː-hẽʏ̈	kɛːŋe 
+ear: kosoN	kósóŋ 
+eat: hàmè 
+egg: kəčə́kí 
+eye: d3r	də̀r 
+feather: káːɗé 
+fire: Cewa	čə́wá 
+fish: aska	áská 
+foot: kámpá 
+full: b3 dode	bə̀ dɔ̀ːdè 
+give: áyé 
+good: písí 
+hair: kɑ́ːɗé gə̀ čə	čə 
+hand: kasi 
+left hand: kasi 
+right: kasi 
+head: čə 
+hear: 3ski	iski	ískí	ə́skí 
+heart: tɔ́ːná 
+horn: gaw	gàw 
+1 sg.: -n	ten 
+I: -n	ten 
+kill: áwé 
+knee: g3g3r	gə̀gə̀r 
+be knowledgeable: ásé 
+know: ásé 
+leaf: kosn3 k3paN	kósnə́ kə́pàŋ 
+lie: ís bə̀y	ís lam 
+lie down: ís bə̀y	ís lam 
+liver: salde	sálɗé 
+long: kimbílí 
+head louse: agĭdgìdí 
+louse: agĭdgìdí 
+male: hùlùm koŋkór 
+man: kɑː 
+many: gi̩l bàgŋ́	hàyàŋ	àblàw 
+much: gi̩l bàgŋ́	hàyàŋ	àblàw 
+multiple: gi̩l bàgŋ́	hàyàŋ	àblàw 
+several: gi̩l bàgŋ́	hàyàŋ	àblàw 
+flesh: kúsúkdə̀ 
+meat: kúsúkdə̀ 
+moon: kítír 
+hill: p3rki	pə́rkí 
+mountain: p3rki	pə́rkí 
+mouth: ku 
+name: sam	sám 
+title: sam	sám 
+neck: kur 
+new: kimirw~i	kimirwí 
+night: dùːgŋ́	hi	hì 
+nighttime: dùːgŋ́	hi	hì 
+nose: nin3	niːnə 
+adulterous: m3na	múna	mə̀nà	mə̀nàʔi 
+one: m3na	múna	mə̀nà	mə̀nàʔi 
+single: m3na	múna	mə̀nà	mə̀nàʔi 
+that: m3na	múna	mə̀nà	mə̀nàʔi 
+the: m3na	múna	mə̀nà	mə̀nàʔi 
+unprincipled: m3na	múna	mə̀nà	mə̀nàʔi 
+human: kɑː 
+human being: kɑː 
+person: kɑː 
+rain: pépêŋ 
+rainy weather: pépêŋ 
+red: kə̀ːlí 
+path: k3k3y 
+road: k3k3y 
+route: k3k3y 
+root: gùd	kə́sár 
+sand: àbə̀də̀sgə̀ 
+say: míní	wɑ́ːté 
+see: ásé 
+sit: ís ǯèʔì	ísí 
+hide: kuti	tir3	tiːre 
+skin: kuti	tir3	tiːre 
+sleep: áw kin 
+little: končé	kɔːčé 
+small: končé	kɔːčé 
+smallness: končé	kɔːčé 
+smoke: késé 
+star: seska	seská 
+rock: p3rki	pə́rkí 
+stone: p3rki	pə́rkí 
+sun: C3wa	čə́wá 
+swim: lɛ́ːlé 
+tail: də̀gnə̀ 
+2 sg: te 
+thou: te 
+you: te 
+tongue: k3s3l	kəsəl 
+tooth: k3s3N	kə́sə́ŋ 
+tree: k3paN 
+grind: basi	bási	ɓasi 
+two: basi	bási	ɓasi 
+water: kan 
+1 pl. inc.: -ʔáŋ	aN	áŋ 
+we: -ʔáŋ	aN	áŋ 
+we₁: -ʔáŋ	aN	áŋ 
+what: ma mó 
+white: gìbìrwí 
+whiteness: gìbìrwí 
+who: mìnití mó 
+who?: mìnití mó 
+female: hə̀lgə́ 
+woman: hə̀lgə́ 
+yellow: abòfì 
+distant: tɔːto 
+far: tɔːto 
+dull: bə̀ ɛ́ːlé 
+heavy: bə̀ ɛ́ːlé 
+serious: bə̀ ɛ́ːlé 
+close: maŋ	maŋ-maŋi 
+near: maŋ	maŋ-maŋi 
+ner: maŋ	maŋ-maŋi 
+salt: mántá 
+short: gòdògròy 
+snake: gə̀fòfò	hə̀nǯí 
+thin: bə̀ seŋre-séŋré	lɛ̀ːŋà 
+wind: kaŋkaw 
+earthworm: gɔ̀ːgò 
+worm: gɔ̀ːgò 
+year: lé 
+3 sg.: -u	tó	wə 
+he: -u	tó	wə 
+she: -u	tó	wə 
+2 pl.: -ŋ	aŋ 
+ye: -ŋ	aŋ 
+you all: -ŋ	aŋ 
+3 pl.: -i	té	ye 
+they: -i	té	ye 
+here: hàʔá	kə́na 
+where: ane mó 
+where?: ane mó 
+when: kótnà mó 
+when?: kótnà mó 
+how: hănɑ́ːnə́mó	nɑ́ːnə́mó 
+how?: hănɑ́ːnə́mó	nɑ́ːnə́mó 
+some: kàrmán 
+few: kemi	wəsegi 
+other: nɑ́ːyaw	ɑ́ːyaw 
+three: sógbe	sɔːpe 
+four: uāda	wɑːɗe 
+five: uīdu	wiːɗiw 
+broad: pə̀mpə̀rə̀ŋ 
+wide: pə̀mpə̀rə̀ŋ 
+wideness: pə̀mpə̀rə̀ŋ 
+fat: son 
+thick: sìmìgì 
+child: karmə	kémár 
+principal wife: mar 
+wife: mar 
+husband: gèdrè 
+his mother: nər 
+mother: nər 
+my mother: nər 
+father: bàr 
+his father: bàr 
+my father: bàr 
+branch: kas kə́pàŋ	kə́snə́ kə́pàŋ 
+stick: kas kə́pàŋ	kə́snə́ kə́pàŋ 
+fruit: wé	wé də̀ kə́pàŋ 
+flower: hùːfí 
+grass: kaɗəgáw	kɑːɗáw 
+cord: sɑːma 
+rope: sɑːma 
+grease: son 
+claw: gèlèr 
+fingernail: gèlèr 
+nail: gèlèr 
+leg: kámpá 
+wing: gə̀ràŋ 
+back: kerkə 
+suck: sóɓé 
+spit: túf kə̀ɗgí 
+vomit: hàrsé 
+blow: fúːlí 
+breath: mɑ́ːhé 
+breathe: mɑ́ːhé 
+laugh: áwté hin 
+laughter: áwté hin 
+cogitate: dígí 
+reflect: dígí 
+think: dígí 
+smell: síːsí 
+sniff: síːsí 
+afraid: wálgá 
+be afraid: wálgá 
+fear: wálgá 
+fright: wálgá 
+fight: dùːrí	kúːrí 
+hunt: ɓɛ́ːré 
+beat: lé	záldé 
+hit: lé	záldé 
+strike: lé	záldé 
+cut: ǯèmè 
+hack: ǯèmè 
+cut open: čérté 
+split: čérté 
+pierce: képé 
+stab: képé 
+scratch: pírkí	čirkí 
+dig: bìgí	bògɗé	fə̀rgí	ǯògɗé 
+tell lies: ŋét kel	ǯèm tété 
+stand: gil	sə́ kámpá	čaw 
+drop: áwé 
+fall: áwé 
+squeeze: čé́rɗé	čɛ́ːté 
+wring: čé́rɗé	čɛ́ːté 
+rub: hòrké	kóyé	kúrtí	pápré 
+wipe: sété	téfé 
+wash: bɑ̀ːdé 
+wash clothes: bɑ̀ːdé 
+push: sòké 
+shove: sòké 
+throw: gè	sì	vè 
+bind: ə́ntí 
+fasten: ə́ntí 
+tie: ə́ntí 
+tie up: ə́ntí 
+sew: zoɔ̀ːrè	ṍyé 
+count: ánké 
+enumerate: ánké 
+number: ánké 
+tally: ánké 
+sing: gè gùdùl 
+have fun: bɔ̀ːmè 
+play: bɔ̀ːmè 
+flow: ã́yé 
+brook: vòr 
+river: vòr 
+stream: vòr 
+lake: vòr 
+dust: tə́rwá 
+fog: kúbùsì 
+sky: tarmə pépéeŋ 
+blaze: kí 
+burn: kí 
+day: dɑ̀ːwày 
+daylight: dɑ̀ːwày 
+daytime: dɑ̀ːwày 
+bad: bàybélé	bàymélé 
+evil: bàybélé	bàymélé 
+rot: bìʔí	bùʔí	də̀ kòslòm	čímí 
+rotten: bìʔí	bùʔí	də̀ kòslòm	čímí 
+dirty: bə̀ sòɗ-sòɗì 
+filthy: bə̀ sòɗ-sòɗì 
+soiled: bə̀ sòɗ-sòɗì 
+sharp: də̀ kə́sə́ŋ 
+blunt: bày	kə́sə́ŋ 
+smooth: gàlɓàtì	kəleɗi	təfɑːdi 
+correct: ɓédí 
+right side: kemer 
+left: gùlà 
+in: gìːdə̀ 
+inside: gìːdə̀ 
+with: dɑ̀ːnà	də̀ 
+because: gùd míntí	kás míntí 

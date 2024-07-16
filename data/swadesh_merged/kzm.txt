@@ -1,0 +1,305 @@
+all: ifo 
+arm: embiko 
+arm: embi-ko 
+ashes: aka | aka	urubu 
+ashes: urubu | aka	urubu 
+back: repo 
+back: sugu 
+bad: menimo-mane 
+bark: feso 
+belly: na-mino | na-mino	ne-toro 
+belly: ne-toro | na-mino	ne-toro 
+big: maefoto | mafade	mafato 
+big: mafade | mafade	mafato 
+big: mafato | mafade	mafato 
+bird: karine | karine	karino 
+bird: karino | karine	karino 
+bitter: mesepo 
+black: bato | bato	rififine	zati 
+black: rififine | bato	rififine	zati 
+black: zati | bato	rififine	zati 
+blood: amaso 
+bone: toku | toku	utu 
+bone: utu | toku	utu 
+branch: menggaro 
+breast: musakibo | musakibo	onono 
+breast: onono | musakibo	onono 
+brother: aline 
+brother: namare 
+burn: bubuta 
+butterfly: momoka 
+cheek: baubu 
+chest: nafirare 
+child: amari 
+child: erema-kote 
+chin: andakuno 
+chin: nasino 
+cloud: amala | amala	vaŋgako 
+cloud: vanggako | amala	vaŋgako 
+cold: gemino | gemino	nigubatine 
+cold: nigubatine | gemino	nigubatine 
+come: mawe | ma-we	mawe 
+come: ma-we | ma-we	mawe 
+crocodile: mike 
+day: cho 
+day: tio 
+dog: rofo 
+drink: kuriba 
+dry: fiete | fiete	swai 
+dry: swai | fiete	swai 
+ear: na-kidabo | na-kidabo	nakidabo 
+earth: kereko 
+eat: ni- 
+egg: uku 
+elbow: me-tuguno 
+elbow: n-embiko-rapare 
+excrement: kato 
+eye: imagu | imagu	n-amagu	namagu 
+eye: n-amagu | imagu	n-amagu	namagu 
+face: nemeko 
+far: memo | memo	nanama 
+far: nanama | memo	nanama 
+father: aj 
+fat (n.): gewiwa 
+fat (n.): mafado 
+feather: karoro | karoro	mbra 
+feather: mbra | karoro	mbra 
+finger: menggaino 
+fingernail: membisiko 
+fingernail: m-embi-si-ko 
+fingernail: n-embi-gi 
+fingernail: n-embi-si-ko 
+finger: n-embiko-mo (?) 
+fire: cua | cua	geriko	čua 
+fire: geriko | cua	geriko	čua 
+fish: sakaro 
+five: rembikaisine 
+fly (n.): ereno 
+fly (v.): nej-bararo 
+fly (v.): urano 
+foot: ekepo 
+forehead: imbino 
+forest: tano 
+four: kaisifa 
+fruit: fuko 
+give: mingge | miŋge 
+give: miŋge 
+good: nimo | nimo	nimomo 
+good: nimo(mo) | nimo	nimomo 
+green: bat | bat	kinau 
+green: kinau | bat	kinau 
+hair: kararo | kararo	na-sinu	nasino 
+hair: nasino | kararo	na-sinu	nasino 
+hair: na-sinu | kararo	na-sinu	nasino 
+hand: n-embiko | n-embiko	n-ere	nembiko	nere 
+hand: n-ere | n-embiko	n-ere	nembiko	nere 
+head: akabo | akabo	n-akabo 
+head: (n-)akabo | akabo	n-akabo 
+hear: oda- | oda	oda- 
+heavy: mafade 
+here: indogogo 
+here: ndife 
+he/she: nde 
+hole: ebo 
+house: maro 
+how: esefamë 
+I: neri | ne-ri	neri 
+I: ne-ri | ne-ri	neri 
+kill: kogi! | kogí 
+knee: ekepo-rapara | ekepo-rapara	ekeporapara	iemandea 
+knee: iemandea | ekepo-rapara	ekeporapara	iemandea 
+leaf: eraino | eraino	runi 
+leaf: runi | eraino	runi 
+leg: ekepo 
+lightning: gereko 
+lip: misosono 
+lip: naesano 
+long: kupe 
+louse: kono 
+man: ordomi | kaeso	kaiso 
+man: rabine | kaeso	kaiso 
+man: rabino | kaeso	kaiso 
+many: mado 
+meat: babuge 
+moon: bugi | bugi	moke 
+moon: moke | bugi	moke 
+morning: aupete 
+mosquito: kinamo 
+mother: nau 
+mountain: koremo 
+mouth: epa | epa	n-aba-go 
+mouth: n-aba-go | epa	n-aba-go 
+name: eremo | eremo	n-irueŋ	nirueng	nyo	ɲo 
+name: n-irueng | eremo	n-irueŋ	nirueng	nyo	ɲo 
+name: nyo | eremo	n-irueŋ	nirueng	nyo	ɲo 
+navel: koro 
+near: efaito | efaito	ugeti 
+near: ugeti | efaito	ugeti 
+neck: otota-koro 
+new: iso | iso	nimomo 
+new: koto | iso	nimomo 
+new: nimomo | iso	nimomo 
+night: apu | apu	aupu 
+night: aupu | apu	aupu 
+nose: amitubu 
+not: ne 
+old: mafado 
+old: moni 
+one: onate 
+person: kaeso | kaeso	kaiso 
+person: kaiso | kaeso	kaiso 
+rain: parato | parato	tote 
+rain: tote | parato	tote 
+rat: korambi 
+red: kahumba | kahumba	mare	puane 
+red: mare | kahumba	mare	puane 
+red: puane | kahumba	mare	puane 
+right: doduri | n-embiko	n-ere	nembiko	nere 
+ripe: sosuru 
+river: sau 
+road: aumu 
+root: gugu | gugu	oate 
+root: oate | gugu	oate 
+rope: mako 
+rope: warato 
+rotten: mesepo 
+sand: egar | egar	kebai 
+sand: kebai | egar	kebai 
+sea: sau 
+see: bantaba | bantaba	ete	ete-	ete-we	gwanuke 
+seed: benai | benai	kufi 
+seed: kufi | benai	kufi 
+see: ete- | bantaba	ete	ete-	ete-we	gwanuke 
+see: ete-we | bantaba	ete	ete-	ete-we	gwanuke 
+see: gwanuke | bantaba	ete	ete-	ete-we	gwanuke 
+shoulder: kaeba 
+sister: anejno 
+sister: namare 
+sit: amu-ngge | amu-ŋge	amuŋge 
+sit: amuŋge | amu-ŋge	amuŋge 
+skin: kiro | kiro	nare	riko 
+skin: nare | kiro	nare	riko 
+skin: riko | kiro	nare	riko 
+sky: tanggako 
+sleep: laige | laige	reyfeyba 
+sleep: reyfeyba | laige	reyfeyba 
+small: akote 
+smoke: rosayno 
+snake: geyjhi | geyži	kamano 
+snake: kamano | geyži	kamano 
+sour: monitu 
+spit: mbotuno 
+spit: ndondono 
+stand: ire-we 
+star: geri 
+stone: faitu 
+sun: erueng | erueng	erueŋ	tefe 
+sun: tefe | erueng	erueŋ	tefe 
+sweet: nimotu 
+swim: rebeba | rebeba	ukafaibi 
+swim: ukafaibi | rebeba	ukafaibi 
+tail: rukao 
+that: (ind)ama | ama	indama 
+there: indama 
+there: mamerago 
+they: nda 
+thigh: kaifuru 
+thigh: nekepo-mafatu 
+this: indogogo | indogogo	ndo 
+this: ndo | indogogo	ndo 
+thou: eri | e-ri	eri	ideri 
+thou: e-ri | e-ri	eri	ideri 
+thou: ideri | e-ri	eri	ideri 
+three: ugosona 
+today: endi-gaga 
+tomorrow: fiede 
+tongue: mou | mou	naider	toko 
+tongue: naider | mou	naider	toko 
+tongue: toko | mou	naider	toko 
+tooth: eresino | eresino	neriso	unaŋ 
+tooth: neriso | eresino	neriso	unaŋ 
+tooth: unang | eresino	neriso	unaŋ 
+tree: keminu | keminu	komino 
+tree: komino | keminu	komino 
+two: uge 
+walk: kimindadi | kimindadi	saisiba 
+walk: orei-ba | kimindadi	saisiba 
+walk: owe | kimindadi	saisiba 
+walk: owe! | kimindadi	saisiba 
+walk: saisiba | kimindadi	saisiba 
+warm: duduno | duduno	nigigi 
+warm: nigigi | duduno	nigigi 
+water: sau | sa7u	sau	saʔu 
+water: sau ~ saʔu | sa7u	sau	saʔu 
+weep: senggindeybu 
+weep: sunggu-sau 
+we (incl.): i-di 
+we: indi | i-di	idi 
+we: in-di | i-di	idi 
+wet: gamanusu 
+we two (incl.): rainuge 
+we two: ndainuge 
+what: makemo | makemo	nakaromo 
+what: nakaromo | makemo	nakaromo 
+white: raat | raːt	teba 
+white: teba | raːt	teba 
+who: imandea | imandea	mandera 
+who: mandera | imandea	mandera 
+wind: woroï 
+wing: sadaro 
+woman: kaisandewinaro | kaisandewinaro	rafo 
+woman: rafo | kaisandewinaro	rafo 
+wood: keminu 
+yellow: kane(ng) | kane	kaneŋ 
+yesterday: cho-medo 
+you: i-deri | e-ri	eri	ideri 
+every: ifo 
+ash: aka	urubu 
+abdomen: na-mino	ne-toro 
+bigness: mafade	mafato 
+large: mafade	mafato 
+breasts: musakibo	onono 
+come from: ma-we	mawe 
+ground: kereko 
+land: kereko 
+soil: kereko 
+fly: neǯ-bararo	urano 
+fly v.: neǯ-bararo	urano 
+left hand: n-embiko	n-ere	nembiko	nere 
+1 sg.: ne-ri	neri 
+head louse: kono 
+male: ordomi	rabine	rabino 
+much: mado 
+multiple: mado 
+several: mado 
+hill: koremo 
+title: eremo	n-irueŋ	nirueng	nyo	ɲo 
+nighttime: apu	aupu 
+adulterous: onate 
+single: onate 
+the: onate 
+unprincipled: onate 
+human: kaeso	kaiso 
+human being: kaeso	kaiso 
+rainy weather: parato	tote 
+path: aumu 
+route: aumu 
+say: egar	kebai 
+hide: kiro	nare	riko 
+little: akote 
+smallness: akote 
+rock: faitu 
+2 sg: e-ri	eri	ideri 
+grind: uge 
+go: kimindadi	saisiba 
+hot: duduno	nigigi 
+1 pl. inc.: i-di	idi 
+we₁: i-di	idi 
+whiteness: raːt	teba 
+who?: imandea	mandera 
+female: kaisandewinaro	rafo 
+distant: memo	nanama 
+dull: mafade 
+serious: mafade 
+close: efaito	ugeti 
+ner: efaito	ugeti 

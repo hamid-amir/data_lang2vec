@@ -1,0 +1,273 @@
+all: payal 
+every: payal 
+ash: kuṇa	yal̪at̪ukuyal̪at̪uku	ŋari 
+ashes: kuṇa	yal̪at̪ukuyal̪at̪uku	ŋari 
+bark: t̪an̪t̪a	t̪at̪a 
+abdomen: t̪uli 
+belly: t̪uli 
+big: paṇka 
+bigness: paṇka 
+large: paṇka 
+bird: walaŋu	wal̪aŋu 
+bite: paca 
+black: kupari 
+blood: maṭa 
+bone: mampu 
+breast: yuɹu	yuɹu- 
+breasts: yuɹu	yuɹu- 
+cloud: pilaṇa 
+cold: puran̪ara 
+come: puna	wapa-	yana 
+come from: puna	wapa-	yana 
+be dead: wiṇṭu-ri 
+dead: wiṇṭu-ri 
+die: wiṇṭu-ri 
+dog: t̪ut̪u 
+drink: paca 
+dry: piyaṭa	piyaṭariya 
+ear: kuḷka 
+earth: paḷkara	yal̪a 
+ground: paḷkara	yal̪a 
+land: paḷkara	yal̪a 
+soil: paḷkara	yal̪a 
+eat: maṇi	maṇi- 
+egg: ciluɹu	ciḷuɹu 
+eye: kuɹu 
+feather: wampura	wapura 
+fire: kaḷa 
+fish: kanma 
+fly: kuṭapiɲan̪a-walaŋu 
+fly v.: kuṭapiɲan̪a-walaŋu 
+foot: t̪ina 
+full: paḷuɹa 
+give: wan̪t̪a-	yiɲa 
+good: pakaʎa 
+green: pirpal̪i 
+hair: wiɹin	wiɹiɲ 
+hand: maɹa 
+left hand: maɹa 
+right: maɹa 
+head: paṇa	yiʎa 
+hear: kuḷkayi	kuḷkayi- 
+heart: puṭarpa 
+horn: maraṭamiṭa 
+1 sg.: ŋat̪a 
+I: ŋat̪a 
+kill: wiṭupu 
+knee: muṭi 
+leaf: manta 
+liver: maɹuri 
+long: wanara 
+male: man̪t̪aṭa	maḷuci 
+man: man̪t̪aṭa 
+many: pici	wiripuka 
+much: pici	wiripuka 
+multiple: pici	wiripuka 
+several: pici	wiripuka 
+moon: curkiṭa 
+hill: paḷumiṭa 
+mountain: paḷumiṭa 
+mouth: t̪aː 
+name: yini 
+title: yini 
+neck: wurkal 
+new: pit̪i 
+night: kaṭacu 
+nighttime: kaṭacu 
+nose: mudla	mul̪a 
+not: wari 
+adulterous: kayanu 
+one: kayanu 
+single: kayanu 
+that: ŋun̪a 
+the: kayanu 
+unprincipled: kayanu 
+human: man̪t̪aṭa 
+human being: man̪t̪aṭa 
+person: man̪t̪aṭa 
+rain: yuŋu	yuŋuwaṇi 
+rainy weather: yuŋu	yuŋuwaṇi 
+red: pulaɹa 
+root: piḷiḷi 
+round: waḷakuɹi 
+sand: piyraṭayal̪a	pukaɹayal̪a	puŋkalka	yal̪a 
+say: waŋka 
+see: n̪aɲa 
+seed: parka 
+sit: kumpa	kumpa- 
+hide: micu	miɲcu 
+skin: micu	miɲcu 
+sleep: ŋuṇṭa	ŋuṇṭi 
+little: cumpa	muṭu 
+small: cumpa	muṭu 
+smallness: cumpa	muṭu 
+smoke: cukuṭu 
+star: kuɹupiri	wanakula 
+rock: paḷu 
+stone: paḷu 
+sun: cuɹu 
+swim: pun̪t̪a-	pun̪t̪i 
+tail: kun̪t̪aṭi 
+this: kala	yin̪a 
+2 sg: n̪ura 
+thou: n̪ura 
+you: n̪ura 
+tongue: t̪alaɲ	t̪alaɲma 
+tooth: yira 
+grind: -kud̪arala	kudlara	kutharra	kut̪ara 
+two: -kud̪arala	kudlara	kutharra	kut̪ara 
+water: kayulu 
+1 pl. inc.: ŋan̪ura	ŋan̪uru 
+we: ŋan̪ura	ŋan̪uru 
+we₁: ŋan̪ura	ŋan̪uru 
+what: n̪aː 
+who: ŋana 
+who?: ŋana 
+female: puraṭi 
+woman: puraṭi 
+yellow: pin̪t̪apin̪t̪a 
+distant: kat̪aɹa 
+far: kat̪aɹa 
+dull: man̪t̪aḷi 
+heavy: man̪t̪aḷi 
+serious: man̪t̪aḷi 
+close: n̪uku 
+near: n̪uku 
+ner: n̪uku 
+salt: ciyaḷa 
+short: t̪aṭa 
+snake: t̪uṇu 
+thin: cumpalkara 
+wind: yuwal	yuwal-pa 
+year: t̪aɹi-ŋka 
+2 pl.: n̪ura-kaɹa 
+ye: n̪ura-kaɹa 
+you all: n̪ura-kaɹa 
+3 pl.: piciŋun̪a 
+they: piciŋun̪a 
+where: t̪akala	wan̪t̪a 
+where?: t̪akala	wan̪t̪a 
+when: wan̪t̪aṭa 
+when?: wan̪t̪aṭa 
+how: t̪aka-la 
+how?: t̪aka-la 
+other: yaɲca	yaɲcamaṭu 
+three: carku	jarrku 
+four: pici 
+five: wurayi 
+broad: wiliɹi 
+wide: wiliɹi 
+wideness: wiliɹi 
+narrow: cumpa 
+child: cumpa	muṭu 
+principal wife: yakan	ŋanacupuraṭi 
+wife: yakan	ŋanacupuraṭi 
+husband: yakan 
+his mother: ŋaŋka 
+mother: ŋaŋka 
+my mother: ŋaŋka 
+father: maṇṭi	papu	papukuɹa 
+his father: maṇṭi	papu	papukuɹa 
+my father: maṇṭi	papu	papukuɹa 
+forest: waṭu 
+woods: waṭu 
+fruit: t̪uṇṭi 
+flower: wakapuṭ 
+grass: warapa 
+cord: warkaɹi 
+rope: warkaɹi 
+flesh: piru 
+meat: piru 
+fat: piṭiyara 
+grease: piṭiyara 
+claw: yilki	yiḷki 
+fingernail: yilki	yiḷki 
+nail: yilki	yiḷki 
+wing: wapura	wiḷka 
+gut: pucu	t̪uli 
+guts: pucu	t̪uli 
+insides: pucu	t̪uli 
+intestine: pucu	t̪uli 
+intestines: pucu	t̪uli 
+back: ciḷi	yuṭa 
+suck: puca 
+spit: wiki cuku- 
+vomit: pali	pali- 
+blow: puːʎa 
+breath: ŋaːɲ-ma	ŋaːɲma- 
+breathe: ŋaːɲ-ma	ŋaːɲma- 
+laugh: t̪uṇi	t̪uṇi- 
+laughter: t̪uṇi	t̪uṇi- 
+cogitate: kuḷkayukariŋu 
+reflect: kuḷkayukariŋu 
+think: kuḷkayukariŋu 
+smell: paṇṭi-	paṇṭidla 
+sniff: paṇṭi-	paṇṭidla 
+afraid: ciril 
+be afraid: ciril 
+fear: ciril 
+fright: ciril 
+fight: piɲa-ri- 
+hunt: maɲca-	ŋad̪apunakurpiḷi 
+beat: pat̪a-	pat̪a-wu ɹu-ŋku	put̪i- 
+hit: pat̪a-	pat̪a-wu ɹu-ŋku	put̪i- 
+strike: pat̪a-	pat̪a-wu ɹu-ŋku	put̪i- 
+cut: waṇi	waṇi-	yinka- 
+hack: waṇi	waṇi-	yinka- 
+cut open: waɹarka	waɹarka- 
+split: waɹarka	waɹarka- 
+pierce: t̪aṇṭapu 
+stab: t̪aṇṭapu 
+scratch: puŋka	puŋka- 
+dig: piɲa	piɲa- 
+lie: mil̪awaŋka-n̪u 
+lie down: mil̪awaŋka-n̪u 
+tell lies: mil̪awaŋka-n̪u 
+stand: yukari	yukari- 
+drop: waṇi	waṇi- 
+fall: waṇi	waṇi- 
+grasp: mama 
+hold: mama 
+hold in arm: mama 
+squeeze: t̪uɲi 
+wring: t̪uɲi 
+rub: mawiɲma	n̪aɹaɲma	ŋapa-ma ṭar 
+wipe: kuḷparama 
+wash: kuŋka	pun̪t̪a	pun̪t̪a- 
+wash clothes: kuŋka	pun̪t̪a	pun̪t̪a- 
+throw: cuku	cuku- 
+bind: caːnka-	karpi	karpi- 
+fasten: caːnka-	karpi	karpi- 
+tie: caːnka-	karpi	karpi- 
+tie up: caːnka-	karpi	karpi- 
+sing: wara 
+float: kut̪aɹalapapa-ŋka 
+flow: papaŋa	ŋaḷpu- 
+brook: yaṭi 
+river: yaṭi 
+stream: yaṭi 
+dust: kuḷpaɹu 
+fog: pun̪t̪ari 
+sky: ciṇṭi 
+ice: t̪aɹi 
+blaze: kampa-	pirpa 
+burn: kampa-	pirpa 
+day: cuɹuŋka 
+daylight: cuɹuŋka 
+daytime: cuɹuŋka 
+bad: puka	wal̪i 
+evil: puka	wal̪i 
+rot: puka 
+rotten: puka 
+dirty: ŋuːt̪araŋuːt̪ara 
+filthy: ŋuːt̪araŋuːt̪ara 
+soiled: ŋuːt̪araŋuːt̪ara 
+straight: muḷuru 
+sharp: yiɹi 
+blunt: paḷa 
+smooth: n̪aɹaɲma 
+damp: kampa-ca	wari-kampa-ca 
+wet: kampa-ca	wari-kampa-ca 
+correct: muka 
+right side: purupuru 
+left: ɲaṭu 

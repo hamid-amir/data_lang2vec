@@ -1,0 +1,308 @@
+all: asaga(ʔi) | asaga	asagaʔi 
+arm: fuyati 
+arm: roiferisati 
+arrow: mageʔe 
+arrow: mage(ʔi) 
+ashes: la(hi) | la	lahi 
+back: megesa(ʔa) 
+bad: foipa 
+bad: noɣavehe 
+bad: sivi 
+bark: akaluya(ʔa) | akaluya	akaluyaʔa 
+belly: ipati | ipati	mupa	mupaʔa 
+belly: mupa(ʔa) | ipati	mupa	mupaʔa 
+big: fela | fela	napa	sipi 
+big: napa | fela	napa	sipi 
+big: sipi | fela	napa	sipi 
+bird: nama 
+bite: (no)heni(ve) | nohenive 
+black: nupa(ʔna) | nupa	nupaʔna 
+black: nupaʔna | nupa	nupaʔna 
+blood: golaha(ʔa) | golaha	golahaʔa	korahi	xolahi 
+blood: korahi | golaha	golahaʔa	korahi	xolahi 
+bone: felisa(ʔa) | felisa	felisaʔa	ferisaʔa 
+bone: ferisaʔa | felisa	felisaʔa	ferisaʔa 
+boy: pana(ʔi) 
+boy: panaʔi ɣasoɣasi 
+breast: amiha(ʔa) | amiha	amihati	amihaʔa	amihi 
+breast: amihati | amiha	amihati	amihaʔa	amihi 
+brother: go(ʔafu) 
+brother: noɣonifo 
+brother: novonaʔni 
+burn: (no)la(ve) 
+calf: lakisa 
+chest: loʔvisa 
+child: inapu(hi) 
+chin: ima(ʔa) 
+claw: koʔna(ʔa) | koʔna	koʔnaʔa 
+cloud: sopo(hi) | sopo	sopohi 
+cold: ketipa (noive) 
+cold: yasi (nohive) | ketipa 
+come: (no)a(ve) | noave	ovo 
+come: ovo | noave	ovo 
+day: ute(hi) 
+die: firiʔei | fili	nofilive 
+die: (no)fili(ve) | fili	nofilive 
+dog: kala | kala	kəra 
+dog: kəra | kala	kəra 
+drink: (no)na(ve) | no	nonave	nuɣabi novo 
+drink: nuɣabi novo | no	nonave	nuɣabi novo 
+dry: lo(ʔehive) | lo	loʔehive 
+ear: ekesa(ʔa) | ekesa	ekesaʔa	rekesa 
+ear: rekesa | ekesa	ekesaʔa	rekesa 
+earth: me(ʔi) | meʔi 
+earth: meʔi 
+eat: (no)na(ve) | nonave	utu novo 
+eat: utu novo | nonave	utu novo 
+egg: mu(ʔa) | mu	muʔa 
+elbow: (ya) kupa(ʔa) 
+emu: giyedifa 
+emu: kiyaʔnefa 
+eye: bu(ʔa) | bu	bu7i	buʔa	rumuʔ 
+eye: rumuʔ | bu	bu7i	buʔa	rumuʔ 
+fall: ho (no)ka(ve) 
+father: afo(ʔafu) 
+father: afoʔnifo 
+fat (n.): giliva(ʔa) 
+fat (n.): sinuhati 
+feather: oka(ʔa) | oka	okaʔa 
+finger: napa(ʔa) 
+finger: yaha(ʔa) 
+fire: logo | logo	loxo	roʔgo 
+fire: roʔgo | logo	loxo	roʔgo 
+fish: fayaʔ | faya7i	fayaʔ 
+fly (v.): heloto (no)vi(ve) 
+foot: gigusa(ʔa) | gigusa	gigusaʔa	riusati 
+foot: riusati | gigusa	gigusaʔa	riusati 
+forehead: kokovisa(ʔa) 
+forehead: roɣovisati 
+forest: yafaruga 
+full: vai to(ʔehive) | nohi kikipa ho7ehibe	vai to	vai toʔehive 
+girl: pa(ʔi) 
+girl: paʔi ɣasoɣasi 
+give: (noni)m(ive) | nonimive 
+good: ba | ba	hetofa	hetofana	matiuto 
+good: hetofa | ba	hetofa	hetofana	matiuto 
+good: hetofana | ba	hetofa	hetofana	matiuto 
+good: matiuto | ba	hetofa	hetofana	matiuto 
+green: ago(ʔna) | ago	agoʔna	kifiya	kifiyaʔna 
+green: kifiya(ʔna) | ago	agoʔna	kifiya	kifiyaʔna 
+hair: oka(ʔa) | oka	okate	okaʔa 
+hair: okate | oka	okate	okaʔa 
+hand: reʔahiʔ | reʔahiʔ	yaha	yahaʔa 
+hand: yaha(ʔa) | reʔahiʔ	yaha	yahaʔa 
+head: lataha(ʔa) | lataha	latahaʔa	natai 
+head: natai | lataha	latahaʔa	natai 
+hear: hereʔo | hereʔo	nokehelibe 
+hear: (no)keheli(be) | hereʔo	nokehelibe 
+heart: lutumopa(ʔa) | lutumopa	lutumopaʔa 
+heavy: keta (huʔevihe) 
+he/she: a(g)i 
+he/she: a(i) 
+he/she: -i 
+hit: (no)ha(ve) 
+horn: komu(ʔa) | komu	komuʔa 
+house: nohi 
+house: no(hi) 
+I: nani | na	nani 
+I: na(ni) | na	nani 
+I: -u | na	nani 
+kill: ho(no filive) | ho	hono filive 
+knee: lapusa(ʔa) | lapusa	lapusaʔa	loupati 
+knee: loupati | lapusa	lapusaʔa	loupati 
+know: (no)keheli(ve) | nokehelive 
+laugh: giya (nohive) 
+leaf: haya (ʔa) | haya	haya7a	yafa ahaia 
+leaf: yafa ahaia | haya	haya7a	yafa ahaia 
+leg: gigusa(ʔa) 
+lie: (no)ka(ve) 
+lip: ramaɣa 
+liver: luhaya(ʔa) | luhaya	luhaya7a	luhayaʔa 
+long: yatama 
+louse: nama 
+man: bo | vona	vonaʔi 
+man: vo | vona	vonaʔi 
+many: babu | babu	sama	samahi 
+many: sama(hi) | babu	sama	samahi 
+meat: meme(ʔa) 
+moon: ikahi | ika	ikahi 
+moon: ika(hi) | ika	ikahi 
+morning: ete(hi) 
+mother: gitoʔnifo 
+mother: ito(ʔafu) 
+mountain: gosa | bohupohi	gosa	kosa	vohupo 
+mountain: kosa | bohupohi	gosa	kosa	vohupo 
+mountain: vohupo | bohupohi	gosa	kosa	vohupo 
+mouth: vaga(ʔa) | vaga	vagaʔa 
+name: gi(ʔa) | gi	giʔa	nigiʔni	xi7a 
+name: nigiʔni | gi	giʔa	nigiʔni	xi7a 
+nape: inupati 
+neck: giʔnupa(ʔa) | giʔnupa	giʔnupaʔa 
+new: kosava | kosava	yuhufa 
+new: yuhufa | kosava	yuhufa 
+night: folugu(ʔi) | folugu	foluguʔi 
+not: me- 
+not: oʔe | me- 
+old: litana(ʔi) 
+old: oyafa 
+old: tafa 
+one: mone | mone	móne 
+person: vona(ʔi) | vona	vonaʔi 
+rain: ko(ʔi) | ko	koʔi 
+rain: koʔi | ko	koʔi 
+rat: kafa 
+red: safa(ʔna) | safa	safaʔna	zafaʔna 
+red: zafaʔna | safa	safaʔna	zafaʔna 
+road: kapo 
+root: lufusa(ʔa) | lufusa	lufusaʔa 
+rope: menehi 
+round: tumo(ʔna) | tumo	tumoʔna 
+sand: kehe(ʔi) | kehe	keheʔi 
+say: kanori | nolive 
+say: (no)li(ve) | nolive 
+seed: viha(ʔa) | viha	vihaʔa 
+see: (no)ga(ve) | bu xo	nogave	vugoʔo 
+see: vugoʔo | bu xo	nogave	vugoʔo 
+short: hupa mone | hupa mone	uʔpasiso 
+short: uʔpasiso | hupa mone	uʔpasiso 
+shoulder: yake(ʔna) 
+sing: navariru 
+sister: ato(ʔafu) 
+sister: netariʔnifo 
+sit: luga (no)fi(ve) | luga	meto no	metorohi 
+sit: (meto no(mina(ve) | luga	meto no	metorohi 
+sit: metorohi | luga	meto no	metorohi 
+skin: gufa(ʔa) | gufa	gufaʔa	xufa7a 
+sky: okurumaʔi 
+sleep: (no)ka(ve) | nokave 
+small: kitiliʔasi | kitiliʔasi	lagaso	neɣasoaɣaso 
+small: lagaso | kitiliʔasi	lagaso	neɣasoaɣaso 
+small: neɣasoaɣaso | kitiliʔasi	lagaso	neɣasoaɣaso 
+smoke: (lo)kiya | kiya	lokiya 
+snake: osifa(ʔi) | osifa	osifaʔi 
+spit: kuhu (noive) 
+stand: ho (no)ti(ve) 
+stand: hotiʔe 
+star: sonofi(ʔi) | sonofi	sonofiʔi 
+star: sonofiʔi | sonofi	sonofiʔi 
+stone: efahi 
+sun: yege | yege	ǯege 
+sun: ǯege | yege	ǯege 
+swim: (nagami no)ka(ve) | nagami nokave 
+tail: kasa(ʔa) | kasa	kasaʔa 
+take: kuvidahoʔo 
+take: ritovivo 
+that: ana | ana	ya 
+that: ya | ana	ya 
+they: -a 
+they: en(ali) 
+they: roevo 
+they two: -a\i 
+they two: et(ali) 
+they two: etari 
+thigh: ruti 
+this: ma | ma	yaʔma 
+this: yaʔma | ma	yaʔma 
+thou: -an | ka	kai 
+thou: kai | ka	kai 
+thou: ka(i) | ka	kai 
+thou: len(ali) | ka	kai 
+thou: reraru | ka	kai 
+three: loe yagi mone yagi 
+throat: rumahati 
+tomorrow: yago 
+tongue: kenetufa(ʔa) | kenetufa	kenetufaʔa	teretufati 
+tongue: teretufati | kenetufa	kenetufaʔa	teretufati 
+tooth: ramaɣairo-oti | baxa	baxa yoxo7a	ramaɣairo-oti	yogo	yogoʔa 
+tooth: yogo(ʔa) | baxa	baxa yoxo7a	ramaɣairo-oti	yogo	yogoʔa 
+tree: yafa 
+two: loe | loe	loé 
+walk: buvo | nomalave 
+walk: hololu (nolive) | nomalave 
+walk: hororutovi | nomalave 
+walk: (no)mala(ve) | nomalave 
+wallaby: esa 
+warm: mukoho (nolive) 
+water: nagami(ʔi) | nagami	nagamiʔi	naxami7o 
+weep: ivinohu 
+we: la(li) | lali	le7ali 
+we: rarigi | lali	le7ali 
+wet: kefa (iʔehive) 
+we two (incl.): leʔ(ali) 
+we two (incl.): reari 
+we two: -u\i 
+we: -un | lali	le7ali 
+what: hena 
+when: hena kanagu 
+when: hiya kanagu 
+where: hiya(ga) 
+white: gizopana | gizopana	kigopa	koholina 
+white: kigopa | gizopana	kigopa	koholina 
+white: koholina | gizopana	kigopa	koholina 
+who: kiyafu 
+wind: yasi 
+wing: kekona(ʔa) 
+woman: aʔi 
+wood: osa(hi) 
+wood: yatavana 
+yellow: satu(na) | satu	satuna 
+yes: o 
+yes: oʔyo 
+yesterday: yago 
+you: -a | ka	kai 
+you two: -a\i 
+you two: let(ali) 
+you two: retari 
+every: asaga	asagaʔi 
+ash: la	lahi 
+abdomen: ipati	mupa	mupaʔa 
+bigness: fela	napa	sipi 
+large: fela	napa	sipi 
+breasts: amiha	amihati	amihaʔa	amihi 
+nail: koʔna	koʔnaʔa 
+talon: koʔna	koʔnaʔa 
+come from: noave	ovo 
+be dead: fili	nofilive 
+dead: fili	nofilive 
+ground: meʔi 
+land: meʔi 
+soil: meʔi 
+fly: heloto 
+fly v.: heloto 
+left hand: reʔahiʔ	yaha	yahaʔa 
+right: reʔahiʔ	yaha	yahaʔa 
+1 sg.: na	nani 
+be knowledgeable: nokehelive 
+head louse: nama 
+male: bo	vo 
+much: babu	sama	samahi 
+multiple: babu	sama	samahi 
+several: babu	sama	samahi 
+hill: bohupohi	gosa	kosa	vohupo 
+title: gi	giʔa	nigiʔni	xi7a 
+nighttime: folugu	foluguʔi 
+nose: golaga	golagaʔa	noɣoruɣa	xolaxa7a 
+adulterous: mone	móne 
+single: mone	móne 
+the: mone	móne 
+unprincipled: mone	móne 
+human: vona	vonaʔi 
+human being: vona	vonaʔi 
+rainy weather: ko	koʔi 
+path: kapo 
+route: kapo 
+hide: gufa	gufaʔa	xufa7a 
+little: kitiliʔasi	lagaso	neɣasoaɣaso 
+smallness: kitiliʔasi	lagaso	neɣasoaɣaso 
+rock: efahi 
+2 sg: ka	kai 
+grind: loe	loé 
+go: nomalave 
+1 pl. inc.: lali	le7ali 
+we₁: lali	le7ali 
+whiteness: gizopana	kigopa	koholina 
+who?: kiyafu 
+female: aʔi 
+dull: keta 
+heavy: keta 
+serious: keta 

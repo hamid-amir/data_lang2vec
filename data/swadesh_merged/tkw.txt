@@ -1,0 +1,266 @@
+all: uniunia 
+every: uniunia 
+ash: beniawo	mbe	viɔmɔrɔ 
+ashes: beniawo	mbe	viɔmɔrɔ 
+abdomen: sa	wasa/sa 
+belly: sa	wasa/sa 
+big: pine 
+bigness: pine 
+large: pine 
+bird: menuko	menukɔ 
+bite: -ke 
+black: boro	mbɔrɔ 
+blood: abo	ambɔ 
+bone: die	ndie 
+breast: ero	erɔ	masasa 
+breasts: ero	erɔ	masasa 
+burn: -voŋo 
+burn tr.: -voŋo 
+cloud: adawo	andawɔ 
+cold: medigo	mendiŋgo 
+come: -ka	ka 
+come from: -ka	ka 
+be dead: -bu	bu 
+dead: -bu	bu 
+die: -bu	bu 
+dog: %kuli	kuli 
+drink: -nu	nu 
+dry: kokoro	kɔkɔrɔ	mimiɔne 
+ear: tania	taña 
+eat: -e	-voŋo 
+egg: waluluo	waluluɔ 
+eye: mata 
+feather: via menu ko	viavia 
+fire: iawo	iawɔ 
+fish: namuko	namukɔ 
+fly: -ava 
+fly v.: -ava 
+good: wako	wakɔ 
+green: abuaŋa toloto	ambuaŋatɔlɔtɔ 
+hair: viavia	vie 
+hand: ma 
+left hand: ma 
+right: ma 
+head: basa	wambasa 
+hear: -leŋi	leNi 
+1 sg.: ene 
+I: ene 
+kill: -abu 
+be knowledgeable: -ovei 
+know: -ovei 
+leaf: uie vilo	uie vilɔ 
+lie: -wene 
+lie down: -wene 
+liver: owo	ɔwɔ 
+long: biouro	mbiɔurɔ 
+head louse: uko	ukɔ 
+louse: uko	ukɔ 
+male: mwalikote	mwalikɔte 
+man: mwaliko	mwalikɔ	mw~aliko 
+moon: metele 
+mouth: mua 
+name: eNa	eŋa 
+title: eNa	eŋa 
+neck: awa	wasawa 
+new: motoe	mɔtɔe 
+night: bogo	mbwɔŋgɔ	nendemɔ 
+nighttime: bogo	mbwɔŋgɔ	nendemɔ 
+nose: veseNele	veseŋele 
+adulterous: iune 
+one: iune 
+single: iune 
+that: ponu 
+the: iune 
+unprincipled: iune 
+human: mwaliko	mwalikɔ	mw~aliko 
+human being: mwaliko	mwalikɔ	mw~aliko 
+person: mwaliko	mwalikɔ	mw~aliko 
+rain: tebo	tembɔ 
+rainy weather: tebo	tembɔ 
+red: moloe	mɔlɔe 
+path: anoko	anɔkɔ 
+road: anoko	anɔkɔ 
+route: anoko	anɔkɔ 
+root: kara	kara vilɔ 
+sand: ole	ɔle 
+say: -ko 
+see: -romo	romo 
+sit: -te 
+hide: beLe	beɬe	mbele 
+skin: beLe	beɬe	mbele 
+sleep: -mokoio 
+little: apilaka	apiɬaka 
+small: apilaka	apiɬaka 
+smallness: apilaka	apiɬaka 
+smoke: kaiawo	kaiawɔ 
+star: kani moro	kanimɔrɔ 
+rock: fɔkɔ	voko 
+stone: fɔkɔ	voko 
+swim: -wou 
+tail: dekele	ndekele 
+this: ene	pwene 
+2 sg: eo 
+thou: eo 
+you: eo 
+tongue: memia 
+tooth: ije	inǰe 
+grind: lu	tilu	ti|lu 
+two: lu	tilu	ti|lu 
+go: -ɬe 
+walk: -ɬe 
+hot: pana 
+warm: pana 
+water: ero	erɔ 
+1 pl. inc.: kemba	kia	kia pa	ku pa 
+we: kemba	kia	kia pa	ku pa 
+we₁: kemba	kia	kia pa	ku pa 
+what: ŋanae 
+white: koro	kɔrɔ 
+whiteness: koro	kɔrɔ 
+who: ŋele 
+who?: ŋele 
+female: emele 
+woman: emele 
+yellow: ŋalukilo imodo	ŋalukilɔ 
+distant: somu	sɔmu 
+far: somu	sɔmu 
+dull: motoro 
+heavy: motoro 
+serious: motoro 
+close: fotoɔkɔ	vitoko 
+near: fotoɔkɔ	vitoko 
+ner: fotoɔkɔ	vitoko 
+salt: kidisa revo 
+short: kuledi	kulendi 
+snake: abilo	ambilɔ 
+thin: menieviro	meñevirɔ 
+wind: ŋiro	ŋirɔ 
+earthworm: mebele 
+worm: mebele 
+year: ebieve	embieve 
+2 pl.: eo	kai pa	kaipa	kela 
+ye: eo	kai pa	kaipa	kela 
+you all: eo	kai pa	kaipa	kela 
+3 pl.: da pa	nda 
+they: da pa	nda 
+where: vele 
+where?: vele 
+when: miŋa	pe naŋa 
+when?: miŋa	pe naŋa 
+how: ŋa pwae 
+how?: ŋa pwae 
+other: iote 
+three: tete	te|te 
+four: teva	te|va 
+five: tili 
+broad: mona 
+wide: mona 
+wideness: mona 
+fat: teia 
+thick: abia	ambiaini 
+narrow: mona tae 
+principal wife: emele 
+wife: emele 
+husband: mwalikote 
+his mother: ete 
+mother: ete 
+my mother: ete 
+father: aia 
+his father: aia 
+my father: aia 
+forest: atero	ŋogoro 
+woods: atero	ŋogoro 
+branch: ela vilo	ela vilɔ 
+stick: ela vilo	ela vilɔ 
+fruit: ua	ua vilɔ	wa 
+flower: mana	mana vilɔ 
+grass: abo	ambɔ 
+cord: veve 
+rope: veve 
+flesh: anise 
+meat: anise 
+grease: teia 
+wing: ava 
+gut: bea	mbea 
+guts: bea	mbea 
+insides: bea	mbea 
+intestine: bea	mbea 
+intestines: bea	mbea 
+back: uta	ute	utendie 
+suck: -katei 
+spit: -ravioe 
+vomit: -loro 
+blow: -aka 
+breath: -katei mevia 
+breathe: -katei mevia 
+laugh: -ekeke 
+laughter: -ekeke 
+cogitate: -vodo 
+reflect: -vodo 
+think: -vodo 
+smell: -leŋi mie 
+sniff: -leŋi mie 
+afraid: -madau 
+be afraid: -madau 
+fear: -madau 
+fright: -madau 
+alive: -maluo	imaluɔ	maluɔ 
+be alive: -maluo	imaluɔ	maluɔ 
+life: -maluo	imaluɔ	maluɔ 
+live: -maluo	imaluɔ	maluɔ 
+living: -maluo	imaluɔ	maluɔ 
+hunt: -vio 
+beat: -wete 
+hit: -wete 
+strike: -wete 
+cut: -toe 
+hack: -toe 
+cut open: -panade	-tevele 
+split: -panade	-tevele 
+pierce: -woi 
+stab: -woi 
+scratch: -akale 
+dig: -ae 
+stand: -vio 
+drop: -sabu 
+fall: -sabu 
+grasp: -labu 
+hold: -labu 
+hold in arm: -labu 
+squeeze: -epele 
+wring: -epele 
+throw: -laioi 
+bind: -nago 
+fasten: -nago 
+tie: -nago 
+tie up: -nago 
+sew: -a|sai 
+count: -wo 
+enumerate: -wo 
+number: -wo 
+tally: -wo 
+flow: -pu 
+lake: toloto ne ŋogoro 
+ocean: revo	revɔ 
+sea: revo	revɔ 
+dust: auniawɔ	awi niawa 
+fog: miawo	miawɔ 
+sky: meteliko	metelikɔ 
+bad: tamwaliko	tamwalikɔ 
+evil: tamwaliko	tamwalikɔ 
+rot: -mwaulu	imapu	imwaulu 
+rotten: -mwaulu	imapu	imwaulu 
+dirty: sukirɔ	sukuro 
+filthy: sukirɔ	sukuro 
+soiled: sukirɔ	sukuro 
+sharp: metene 
+blunt: basa	mbasa 
+damp: -dobuo	indɔmbuɔ 
+wet: -dobuo	indɔmbuɔ 
+right side: moso	mosɔ 
+left: mouro	mɔrɔ 
+at: ne 
+in: ne	ne lema	nelema 
+inside: ne	ne lema	nelema 
+and: ka 
+if: ŋa 

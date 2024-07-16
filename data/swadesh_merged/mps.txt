@@ -1,0 +1,226 @@
+all: tigidali 
+arm: nogo 
+ashes: kele | keli	kɛlɛ 
+ashes: kɛlɛ | keli	kɛlɛ 
+bark: ni wali | ni wadu	ni wali	wadu 
+belly: tabi 
+big: moni 
+bird: ba 
+bite: gau kelibo | gãũ kelebo	gãũ kɛlibo 
+bite: ga͂u͂ kɛlibo | gãũ kelebo	gãũ kɛlibo 
+black: sizi | sisi	sizi 
+blood: kanimi 
+bone: dili 
+breast: ami 
+burn: dabo 
+claw: dani 
+cloud: po | po	põ 
+cloud: po͂ | po	põ 
+cold: kerau | kedau	kɛrau 
+cold: kɛrau | kedau	kɛrau 
+come: az- | asibo	azibo 
+come: azibo | asibo	azibo 
+die: izibo | isibo	izibo 
+dog: yowi 
+drink: a͂i͂ tubo | a*i* tubo	tubo	ãĩ tubo 
+drink: ai tubo | a*i* tubo	tubo	ãĩ tubo 
+dry: wali | o	wali 
+ear: oro | odo	oro 
+earth: to | tɔ̃ 
+earth: tɔ͂ | tɔ̃ 
+eat: tubo 
+egg: ba ge | ba ge	ge 
+eye: gedu 
+fat (n.): ili 
+feather: ba nisi | ba nisi	ba nizi	nisi 
+feather: ba nizi | ba nisi	ba nizi	nisi 
+fire: sia 
+fish: sugu | su*gu*	sũgũ	toma 
+fish: su͂gu͂ | su*gu*	sũgũ	toma 
+fly (v.): bola pabo 
+full: paga | pa*ga*	pãgã 
+full: pa͂ga͂ | pa*ga*	pãgã 
+give: mabo | ena bolo mabo	mabo 
+good: dwagiai 
+green: ku | kũ 
+green: ku͂ | kũ 
+hair: tobudu nizi | nisi	tobudu nizi 
+head: tobudu | tobudu	tobulu 
+hear: orobo | odobo	orobo 
+heart: hobulu ge | hobolu	hobulu ge 
+he/she: a͂ga͂ 
+he/she: ãgã 
+he/she: ãgã/ãgãĩ 
+horn: keli | gãũ	kali	kɛli 
+horn: kɛli | gãũ	kali	kɛli 
+house: be 
+I: ena | ana	ano	ena	ɛna	ɛno 
+I: ena/eno | ana	ano	ena	ɛna	ɛno 
+I: ɛna ~ ɛno | ana	ano	ena	ɛna	ɛno 
+in: tomo 
+kill: elabo | elebo	ɛlabo 
+kill: ɛlabo | elebo	ɛlabo 
+knee: bogoli | bogoli	kidu 
+know: konebo 
+leaf: yabe | ni yabe	yabe 
+leg: saga 
+leg: sa͂ga͂ 
+lie: pilibo 
+liver: homu 
+long: bobobagi 
+louse: nou | no*u* 
+louse: no͂u͂ | no*u* 
+man: bidi 
+many: kizu | hauwa	kizu 
+meat: mi 
+moon: podua 
+mountain: bururu | budu bagi	bururu 
+mouth: gani 
+name: nogi 
+neck: dogoni 
+new: kezi | gesi	kazi	kɛzi 
+new: kɛzi | gesi	kazi	kɛzi 
+night: be huli | be huli	huli 
+nose: guni 
+not: meni | meni	mɛni 
+not: mɛni | meni	mɛni 
+one: deleli | dalali	deleli	dɛlɛli 
+one: dɛlɛli | dalali	deleli	dɛlɛli 
+one: me....me | dalali	deleli	dɛlɛli 
+other: me 
+person: bidi 
+rain: turubage | tudubagi	turubagi 
+rain: turubagi | tudubagi	turubagi 
+red: mama 
+road: tu | tu* 
+road: tu͂ | tu* 
+root: pedali | ni pedali	pedali	pɛdali 
+root: pɛdali | ni pedali	pedali	pɛdali 
+round: bobo gelazi | bobo gɛlazi	tomãgi 
+round: bobo gɛlazi | bobo gɛlazi	tomãgi 
+sand: kemi to | kemi tõ	kɛmi tɔ̃ 
+sand: kɛmi tɔ͂ | kemi tõ	kɛmi tɔ̃ 
+say: wabo 
+seed: ge 
+see: subo 
+see: su(-bo) | subo 
+sit: dulolubo | dulalubo	dulolubo 
+skin: tigiwali | tigiwali	wali 
+skin: tigi(-wali) | tigiwali	wali 
+sleep: pibo 
+small: dwaizanu | dwaisanu	dwaizanu 
+smoke: hano 
+split: pedao 
+stand: dolalubo 
+stand: dolaubo 
+star: ho | ho	ho*	hõ 
+star: ho͂ | ho	ho*	hõ 
+stone: mazigi | masigi	mazigi 
+sun: giliga 
+swim: nogo a͂i͂ togobo | nogo ãĩ togobo	ãĩ nogo pabo 
+swim: nogo oi togobo | nogo ãĩ togobo	ãĩ nogo pabo 
+tail: danu 
+that: te | dalali	deleli	dɛlɛli 
+that: u | dalali	deleli	dɛlɛli 
+there: a 
+they: augwa 
+they: augwadi 
+they: augwa-di/augwa-di-go 
+this: e 
+thou: dagi | dagi	nagi 
+thou: duga | dagi	nagi 
+thou: naga | dagi	nagi 
+thou: nagi | dagi	nagi 
+thou: na-gi/na-go | dagi	nagi 
+three: será 
+three: si dededi 
+tomorrow: do 
+tongue: hamiya | hamiya	hamiyahamiya 
+tooth: keli | kali	kele	kɛli 
+tooth: kɛli | kali	kele	kɛli 
+tree: ni 
+two: si 
+two: ti | si 
+walk: bilibo | bilibo	pabo 
+walk: -padi | bilibo	pabo 
+warm: pozoro 
+water: ãĩ | a*i*	wa*	wẽ	ãĩ 
+water: a͂i͂ ~ we͂ | a*i*	wa*	wẽ	ãĩ 
+water: wẽ | a*i*	wa*	wẽ	ãĩ 
+we: da/da-go 
+we: dena | da 
+weep: geda wabo 
+weep: yei 
+we (incl.): da 
+we two: da si/da si-go 
+what: magi 
+white: telela | nada	tɛlɛla 
+white: tɛlɛla | nada	tɛlɛla 
+who: de 
+who: de(-we) 
+woman: sou | we 
+woman: we 
+wood: ni 
+yellow: sewa | sɛ̃wã	sẽwa 
+yellow: sɛ͂wa͂ | sɛ̃wã	sẽwa 
+yesterday: do 
+you: dagi/dagi-go | dagi	nagi 
+you: duga | dagi	nagi 
+you two: dagi si/dagi si-go 
+every: tigidali 
+ash: keli	kɛlɛ 
+abdomen: tabi 
+bigness: moni 
+large: moni 
+breasts: ami 
+nail: dani 
+talon: dani 
+come from: asibo	azibo 
+be dead: isibo	izibo 
+dead: isibo	izibo 
+ground: tɔ̃ 
+land: tɔ̃ 
+soil: tɔ̃ 
+fly: bola pabo 
+fly v.: bola pabo 
+foot: sãgã 
+hand: nogo 
+left hand: nogo 
+right: nogo 
+1 sg.: ana	ano	ena	ɛna	ɛno 
+be knowledgeable: konebo 
+lie down: pilibo 
+head louse: no*u* 
+male: bidi 
+much: hauwa	kizu 
+multiple: hauwa	kizu 
+several: hauwa	kizu 
+hill: budu bagi	bururu 
+title: nogi 
+nighttime: be huli	huli 
+adulterous: dalali	deleli	dɛlɛli 
+single: dalali	deleli	dɛlɛli 
+the: dalali	deleli	dɛlɛli 
+unprincipled: dalali	deleli	dɛlɛli 
+human: bidi 
+human being: bidi 
+rainy weather: tudubagi	turubagi 
+path: tu* 
+route: tu* 
+hide: tigiwali	wali 
+little: dwaisanu	dwaizanu 
+smallness: dwaisanu	dwaizanu 
+rock: masigi	mazigi 
+2 sg: dagi	nagi 
+grind: si 
+go: bilibo	pabo 
+1 pl. inc.: da 
+we₁: da 
+whiteness: nada	tɛlɛla 
+who?: de 
+female: we 
+dull: sẽgẽ 
+heavy: sẽgẽ 
+serious: sẽgẽ 
+snake: gula	hasamani 
+wind: wadi 

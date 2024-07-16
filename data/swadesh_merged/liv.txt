@@ -1,0 +1,328 @@
+all: amaa | amā	tikkiž 
+big: suur | sūr 
+bird: lind 
+black: motsaa | mustā 
+come: tuulda | tulda	tūlda 
+dog: pin | pin	piņ 
+drink: juuoda | juodyo	jūodõ 
+earth: moo | mō 
+eat: siiedo | sīedõ 
+eye: siilma | sīlma 
+fat (n.): jamdo 
+fire: tul | tul	tuļ 
+fish: kalaa | kala	kalā 
+foot: jaalga | jālgalabā 
+give: aanda | andõ 
+good: jovaa | jõvā 
+hand: kezh | keic | piv 
+head: paa | pǟ 
+I: ma | ma	minama	minā 
+kill: tappo | tappõ 
+know: tiieda | tīedõ 
+long: pitkaa | pitkā 
+man: miiez | riStiN	rištīng 
+many: paagin | jennõ	pǟgiņ 
+mountain: mag | mEg	mäg 
+mouth: suu | sū 
+name: nim 
+new: nuuor | uc	ūž 
+night: iie | ie	īe 
+one: iksh | ikS	ikš 
+person: rishtiing | riStiN	rištīng 
+rain: sadaa | vīm 
+road: tiie | rekriek	riek 
+round: immor | immõr 
+say: kiito | kītõ | jõugõ 
+see: naado | nEdyo	nǟdõ 
+sleep: maggo | maggõ 
+small: pishki | piški 
+star: teedj | tēdj 
+stone: kiv | kiuvkiu	kiv 
+sun: paa | pEvaliki	pǟva 
+that: se | tā | ikS	ikš 
+this: se 
+thou: sa | sa	sinasa	sinā 
+tree: puu | pu	pū 
+two: kaksh | kakS	kakš 
+walk: kaado | lǟdo 
+water: vezh | veic	vež 
+we: meeg | meg	mēg 
+what: Kis/Mis | mis 
+white: vaalda | vālda 
+who: Kis | kis 
+woman: nai 
+every: amā	tikkiž 
+ash: tūgõ 
+ashes: tūgõ 
+bark: kūor 
+abdomen: mag 
+belly: mag 
+bigness: sūr 
+large: sūr 
+bite: jamstõ 
+blood: ver 
+bone: lyu	lū 
+breast: rinda	rīnda 
+breasts: rinda	rīnda 
+cloud: pīla 
+cold: kīlma 
+come from: tulda	tūlda 
+be dead: kuolyo	kūolõ 
+dead: kuolyo	kūolõ 
+die: kuolyo	kūolõ 
+dry: kūja 
+ear: kuora	kūora 
+ground: mō 
+land: mō 
+soil: mō 
+egg: munā 
+feather: kōra 
+fly: lindõ 
+fly v.: lindõ 
+full: tEuc	tävž 
+green: mõltsi	ōļaz 
+hair: ibūkst 
+left hand: keic 
+right: keic 
+hear: kūlō 
+heart: sidām 
+horn: sõra 
+1 sg.: ma	minama	minā 
+knee: puola	pūola 
+be knowledgeable: tīedõ 
+leaf: lyed	lēdj 
+liver: maksa	maksā 
+male: mīez 
+much: jennõ	pǟgiņ 
+multiple: jennõ	pǟgiņ 
+several: jennõ	pǟgiņ 
+moon: kū 
+hill: mEg	mäg 
+title: nim 
+neck: kaggõl 
+nighttime: ie	īe 
+nose: nana	nanā 
+not: äb 
+adulterous: ikS	ikš 
+single: ikS	ikš 
+the: ikS	ikš 
+unprincipled: ikS	ikš 
+human: riStiN	rištīng 
+human being: riStiN	rištīng 
+rainy weather: vīm 
+red: punni 
+path: rekriek	riek 
+route: rekriek	riek 
+root: jūŗ 
+sand: jõugõ 
+seed: sīemgõz 
+sit: istõ 
+hide: nogyo	nōgõ 
+skin: nogyo	nōgõ 
+little: piški 
+smallness: piški 
+smoke: sou 
+rock: kiuvkiu	kiv 
+swim: vȯigõ 
+tail: tabār 
+2 sg: sa	sinasa	sinā 
+you: sa	sinasa	sinā 
+tongue: kyel	kēļ 
+tooth: ambaz	āmbaz 
+grind: kakS	kakš 
+go: lǟdo 
+hot: lem 
+warm: lem 
+1 pl. inc.: meg	mēg 
+we₁: meg	mēg 
+whiteness: vālda 
+who?: kis 
+female: nai 
+yellow: vīri 
+distant: kougõn 
+far: kougõn 
+dull: lǟlam 
+heavy: lǟlam 
+serious: lǟlam 
+close: ležgõl 
+near: ležgõl 
+ner: ležgõl 
+salt: sūolõ 
+short: lītõ 
+snake: ūiska	ūška 
+thin: vȯiti 
+wind: tūļ 
+earthworm: bor 
+worm: bor 
+year: āigast 
+3 sg.: ta	tämā 
+he: ta	tämā 
+she: ta	tämā 
+2 pl.: tēg 
+ye: tēg 
+you all: tēg 
+3 pl.: ne 
+they: ne 
+here: täs 
+there: sǟl 
+where: kus 
+where?: kus 
+when: kunā 
+when?: kunā 
+how: kui 
+how?: kui 
+some: mūnda 
+few: veitõ 
+other: mū 
+three: kuolm 
+four: nēæa	nēļa 
+five: vīž 
+broad: laigā 
+wide: laigā 
+wideness: laigā 
+fat: razā 
+thick: jamdi 
+narrow: ōdõz 
+child: läpš 
+principal wife: nai 
+wife: nai 
+husband: mīez 
+his mother: jemā 
+mother: jemā 
+my mother: jemā 
+father: izā 
+his father: izā 
+my father: izā 
+animal: jelai 
+forest: mõtsā 
+woods: mõtsā 
+branch: taib 
+stick: taib 
+fruit: vīļa 
+flower: pusk	puţkõz 
+grass: āina 
+cord: kevž 
+rope: kevž 
+flesh: lejā	vȯzā 
+meat: lejā	vȯzā 
+grease: razā 
+claw: kīņtš 
+fingernail: kīņtš 
+nail: kīņtš 
+leg: jālga 
+arm: piv 
+wing: tībõz 
+back: sǟlga 
+suck: immõ 
+spit: siļgõ 
+vomit: oksnõ 
+blow: pūgõ 
+breath: jengõ 
+breathe: jengõ 
+laugh: nagrõ 
+laughter: nagrõ 
+cogitate: arrõ	mõtlõ 
+reflect: arrõ	mõtlõ 
+think: arrõ	mõtlõ 
+smell: nūškõ 
+sniff: nūškõ 
+afraid: ädāgõ 
+be afraid: ädāgõ 
+fear: ädāgõ 
+fright: ädāgõ 
+alive: jellõ 
+be alive: jellõ 
+life: jellõ 
+live: jellõ 
+living: jellõ 
+fight: taplõ 
+hunt: aij? 
+beat: rabbõ 
+hit: rabbõ 
+strike: rabbõ 
+cut: radļõ	īedõ 
+hack: radļõ	īedõ 
+cut open: lōkstõ 
+split: lōkstõ 
+pierce: siskõ 
+stab: siskõ 
+scratch: ȭrõ 
+dig: kuovõ 
+lie: maggõ 
+lie down: maggõ 
+tell lies: maggõ 
+stand: pīlõ 
+turn: kīerõ 
+turn around: kīerõ 
+turn round: kīerõ 
+drop: saddõ 
+fall: saddõ 
+grasp: piddõ 
+hold: piddõ 
+hold in arm: piddõ 
+squeeze: pīkstõ 
+wring: pīkstõ 
+rub: ȭrõ 
+wipe: pūstõ 
+wash: piezzõ 
+wash clothes: piezzõ 
+pull: tõmbõ	vieddõ 
+push: likkõ 
+shove: likkõ 
+throw: eitõ 
+bind: siddõ 
+fasten: siddõ 
+tie: siddõ 
+tie up: siddõ 
+sew: umblõ 
+count: lugg 
+enumerate: lugg 
+number: lugg 
+tally: lugg 
+sing: loulõ 
+have fun: mängõ 
+play: mängõ 
+float: plūokst 
+flow: jūokšõ 
+freeze: kilmõ 
+swell: paistõ 
+brook: jog	joug 
+river: jog	joug 
+stream: jog	joug 
+lake: jōra 
+ocean: mer 
+sea: mer 
+dust: põrm 
+fog: ud 
+sky: touvõs 
+snow: lum 
+ice: jeij 
+blaze: pallõ 
+burn: pallõ 
+day: pǟva 
+daylight: pǟva 
+daytime: pǟva 
+old: vanā 
+bad: äbjõvā 
+evil: äbjõvā 
+rot: märgõnd 
+rotten: märgõnd 
+dirty: leggi 
+filthy: leggi 
+soiled: leggi 
+straight: tazzi 
+sharp: vaimõ 
+blunt: toļp 
+smooth: tazzi 
+damp: kažži 
+wet: kažži 
+correct: õigi 
+right side: jõvā 
+left: kurā 
+at: jūr 
+in: sizzõl 
+inside: sizzõl 
+with: īdõkubbõ 
+and: ja	un 
+if: až 
+because: sie perāst 

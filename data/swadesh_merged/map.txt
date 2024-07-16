@@ -1,0 +1,277 @@
+all: *amin	*nsoko	*soko 
+every: *amin	*nsoko	*soko 
+ash: *apu	*qabu	n*dapu 
+ashes: *apu	*qabu	n*dapu 
+abdomen: *kete	*manaawa	*tia	*tiaN	*tian 
+belly: *kete	*manaawa	*tia	*tiaN	*tian 
+big: *ma-ʀaya	?*lapa 
+bigness: *ma-ʀaya	?*lapa 
+large: *ma-ʀaya	?*lapa 
+bird: *manuk	*qayam 
+bite: *gut	*karati	*kati	*kaʀat 
+black: *CeŋeN	?*loaloa 
+blood: *dara	*daraʔ	*daʀaq	*toto	axaq	ddaxaq 
+bone: *CuqelaN	*suri	*tu	*tudri	buku	suXi	zuXi 
+breast: *nsunsu	*su	*susu	dada	susu	zuzu 
+breasts: *nsunsu	*su	*susu	dada	susu	zuzu 
+burn: *cuNuh 
+burn tr.: *cuNuh 
+cloud: *lemlem 
+cold: ?*makadidi 
+come: *mai 
+come from: *mai 
+be dead: *m-aCay	*mate-	mate 
+dead: *m-aCay	*mate-	mate 
+die: *m-aCay	*mate-	mate 
+dog: *asu	*wasu	?*kuli	?*ŋkaun	asu 
+drink: *mimah	hixup	inum	unu 
+dry: *gaŋ	*ma-qaʀiw	*maja	*mansa	*masa 
+ear: *Caliŋa	*daliŋa	taliNa 
+earth: *tano	*tanoʔ 
+ground: *tano	*tanoʔ 
+land: *tano	*tanoʔ 
+soil: *tano	*tanoʔ 
+eat: *kaen	*kani 
+egg: *	*katolur	*mpou	*qiCeluʀ 
+eye: *maCa	*mata	liN	mata 
+feather: *pulu 
+fire: *Sapuy	*api	api	apuy 
+fish: *Sikan	*ikan	ika 
+fly: *layap	*ropo 
+fly v.: *layap	*ropo 
+full: *ponu	*ponuʔ	b3sux	bukay	p3nuq 
+give: *pani 
+good: *pia 
+green: *kadawa	*matakadawa	*mataq 
+hair: *bukeS	*ʔulu 
+hand: *(qa)lima	lima 
+left hand: *(qa)lima	lima 
+right: *(qa)lima	lima 
+head: *qulu	*ʔulu 
+hear: *doŋo	*neR	*tumaNa	*ŋeR	neX	roNo 
+heart: ?*manawa	?*nua 
+horn: tanduk 
+1 sg.: *au	*i-aku 
+I: *au	*i-aku 
+kill: *p-aCay	*paka-mate	*punu	*punuʔ 
+knee: *du	*dudr	tu7ud	turi	turu 
+be knowledgeable: *bajaq 
+know: *bajaq 
+leaf: *biʀaq	bele	dahun	rau 
+liver: *qaCay	qatay	qate 
+long: *inaduq	*lawas	*mpalap	*mpalapau 
+head louse: *kuCu	kutu	tuma 
+louse: *kuCu	kutu	tuma 
+male: *ma-ʀuqaNay	*mata	*tamoke	*tau	*taŋmate 
+man: *Cau	au	awu	ttau	ttawu 
+moon: *bulaN	*pula	*pulan	*qiNas 
+hill: *kor	*korao	*solo	apu	bulud 
+mountain: *kor	*korao	*solo	apu	bulud 
+mouth: *awaŋ	*maŋa	*ŋusu 
+name: *ajan	*ŋajan	*ʔansa	*ʔansan	agan	hiNoa	kapiki 
+title: *ajan	*ŋajan	*ʔansa	*ʔansan	agan	hiNoa	kapiki 
+neck: *kia	*liqeʀ 
+new: *ma-baqeʀu	*paʔoru	bahaxu	baqw3xu	baxu	paqoXu	vaqoXu 
+night: *beʀŋi	*mpoŋi	*poŋi	b3Ni	boNi	mp~oNi	p3taN 
+nighttime: *beʀŋi	*mpoŋi	*poŋi	b3Ni	boNi	mp~oNi	p3taN 
+nose: *isu	*isuŋ	*mujiŋ	*ŋus.	Nus	iguN	isu 
+adulterous: *esa	*isa	*ta	*tansa	*tasa	3sa	esa	isa	tila	za 
+one: *esa	*isa	*ta	*tansa	*tasa	3sa	esa	isa	tila	za 
+single: *esa	*isa	*ta	*tansa	*tasa	3sa	esa	isa	tila	za 
+that: *aena	*na 
+the: *esa	*isa	*ta	*tansa	*tasa	3sa	esa	isa	tila	za 
+unprincipled: *esa	*isa	*ta	*tansa	*tasa	3sa	esa	isa	tila	za 
+human: *Cau	au	awu	ttau	ttawu 
+human being: *Cau	au	awu	ttau	ttawu 
+person: *Cau	au	awu	ttau	ttawu 
+rain: *quzaN	*timu	*timur	*ʔunsa	*ʔunsan 
+rainy weather: *quzaN	*timu	*timur	*ʔunsa	*ʔunsan 
+red: *Raq	*ma-taNah	*mera 
+path: *zalan	dalan	jalan	zala 
+road: *zalan	dalan	jalan	zala 
+route: *zalan	dalan	jalan	zala 
+root: *ramu	*wakar	*ʀameC	*ʀamiS 
+sand: *bunaj	*qenay	*ʔone 
+say: *bunaj	*qenay	*ʔone 
+see: *kita	kita 
+hide: *kulit	*qaNiC	balulaN	kuli	kulit 
+skin: *kulit	*qaNiC	balulaN	kuli	kulit 
+sleep: *ma-puta	*matudu	*matudur	*nek	*tuduʀ 
+little: *kedi 
+small: *kedi 
+smallness: *kedi 
+smoke: *CebuN	*qebel	*ʔasu 
+star: *bituqen	*pituʔu	bituq3n	petuqu 
+rock: *batu	*patu	batu	patu 
+stone: *batu	*patu	batu	patu 
+sun: *siŋa	*siŋar	*ʔanso	adaw	algaw	andaw	haNgaw	hagaw	qazo 
+swim: *Naŋuy 
+tail: *ikuʀ 
+this: *aeni	*i-ni	*ni 
+2 sg: *i-kaSu	*i-ko	kaw 
+thou: *i-kaSu	*i-ko	kaw 
+you: *i-kaSu	*i-ko	kaw 
+tongue: *	*Sema	*aŋmea	*maya	dilaq	me	mea 
+tooth: *lipon	*nipen	*nipon	isi	nipo 
+tree: asi	kai 
+grind: *duSa	*dua	d3wha	duSa	dua	duwa	rua 
+two: *duSa	*dua	d3wha	duSa	dua	duwa	rua 
+go: *zak	Nakaw 
+walk: *zak	Nakaw 
+hot: *maafana 
+warm: *maafana 
+water: *daNum	*ndanu	*ndanum	*wai	*wair	wahix	wai	way3x 
+1 pl. inc.: *i-kita	*kami	*kinta	*kita	kami	kita 
+we: *i-kita	*kami	*kinta	*kita	kami	kita 
+we₁: *i-kita	*kami	*kinta	*kita	kami	kita 
+what: *n-anu	*nsapa	*sapa 
+white: *ma-puNi	*pula	*pulan 
+whiteness: *ma-puNi	*pula	*pulan 
+who: *nsai	*sai	*si-ima 
+who?: *nsai	*sai	*si-ima 
+female: *bahi	*papine	*pine	*tapine 
+woman: *bahi	*papine	*pine	*tapine 
+yellow: *aŋo	*yaŋoyaŋo 
+distant: *ma-dawiN	*nsau	*sau 
+far: *ma-dawiN	*nsau	*sau 
+dull: *mapa	*mpita	*məmapa	*pita 
+heavy: *mapa	*mpita	*məmapa	*pita 
+serious: *mapa	*mpita	*məmapa	*pita 
+close: *ma-azaNih	*tata 
+near: *ma-azaNih	*tata 
+ner: *ma-azaNih	*tata 
+salt: *ma-asi	*ma-asin	*qasiʀa	*tansi	*tansik	*timus 
+snake: *Sulaʀ	*ŋmata 
+thin: *ma-NiSepis	*pis 
+wind: *bali	*laŋi	*mataŋi 
+earthworm: *kulay 
+worm: *kulay 
+year: *kawaS 
+2 pl.: *i-kamu	*kamu 
+ye: *i-kamu	*kamu 
+you all: *i-kamu	*kamu 
+3 pl.: *ida 
+they: *ida 
+here: *aeni	*ni 
+where: *i-nu	*pai 
+where?: *i-nu	*pai 
+when: *ija	*ija-n 
+when?: *ija	*ija-n 
+how: *kuja	*numa 
+how?: *kuja	*numa 
+other: *duma 
+three: *telu	telu 
+four: *Sepat	Sepat 
+five: lima 
+broad: *ma-lawas 
+wide: *ma-lawas 
+wideness: *ma-lawas 
+fat: *Simaʀ 
+thick: *ma-kaSepal 
+child: *natu 
+his mother: *t-ina	*tina 
+mother: *t-ina	*tina 
+my mother: *t-ina	*tina 
+father: *t-ama	*tama 
+his father: *t-ama	*tama 
+my father: *t-ama	*tama 
+forest: *kaSiw-kaSiw-an	*wao	*wawo	*ʔuta	*ʔutan 
+woods: *kaSiw-kaSiw-an	*wao	*wawo	*ʔuta	*ʔutan 
+fruit: *buaq	*pua	*puaʔ 
+grass: *Cemel 
+cord: *CaliS 
+rope: *CaliS 
+flesh: *Sesi	*isi	*pinsiko	*pisiko 
+meat: *Sesi	*isi	*pinsiko	*pisiko 
+grease: *Simaʀ 
+claw: *kuku 
+fingernail: *kuku 
+nail: *kuku 
+leg: *waʔe 
+wing: *kapa	*kapak	*paNid	*pan	*pani 
+gut: *Cinaqi	*tinaʔ	*tinaʔei 
+guts: *Cinaqi	*tinaʔ	*tinaʔei 
+insides: *Cinaqi	*tinaʔ	*tinaʔei 
+intestine: *Cinaqi	*tinaʔ	*tinaʔei 
+intestines: *Cinaqi	*tinaʔ	*tinaʔei 
+back: *likud 
+suck: *sep	*sepsep 
+vomit: *lua	*muta	*mutaʔ	*utaq 
+blow: *Siup	*pus	*put 
+laugh: *Cawa	*kak	*kata	*katakata 
+laughter: *Cawa	*kak	*kata	*katakata 
+cogitate: *-ajem	*Dem	*nemnem 
+reflect: *-ajem	*Dem	*nemnem 
+think: *-ajem	*Dem	*nemnem 
+smell: *Sajek 
+sniff: *Sajek 
+afraid: *ma-takut 
+be afraid: *ma-takut 
+fear: *ma-takut 
+fright: *ma-takut 
+alive: *ma-qudip 
+be alive: *ma-qudip 
+life: *ma-qudip 
+live: *ma-qudip 
+living: *ma-qudip 
+hunt: *qaNup 
+beat: *bak	*bek	*bit	*pag	*palu	*teg 
+hit: *bak	*bek	*bit	*pag	*palu	*teg 
+strike: *bak	*bek	*bit	*pag	*palu	*teg 
+cut: *kati	*koso	*kosop	*salu	*soni	*tas	*taʀaq	*tektek 
+hack: *kati	*koso	*kosop	*salu	*soni	*tas	*taʀaq	*tektek 
+cut open: *kaq	*laq	*paʔas	*paʔasi	*sa	*saei 
+split: *kaq	*laq	*paʔas	*paʔasi	*sa	*saei 
+pierce: *sek 
+stab: *sek 
+scratch: *kari	*karis	*kaʀaw 
+dig: *kaeli	*kalih	*kli 
+lie: *lacu 
+lie down: *lacu 
+tell lies: *lacu 
+stand: *diʀi	*tuʔu	*tuʔud	*zeg 
+turn: *kub 
+turn around: *kub 
+turn round: *kub 
+drop: *buq	?*siŋa 
+fall: *buq	?*siŋa 
+grasp: *gemgem	*ka	*kampit	*tau	*taudr 
+hold: *gemgem	*ka	*kampit	*tau	*taudr 
+hold in arm: *gemgem	*ka	*kampit	*tau	*taudr 
+squeeze: *Det	*cit	*cut	*pes	*peʀeq 
+wring: *Det	*cit	*cut	*pes	*peʀeq 
+wash: *ɲaw 
+wash clothes: *ɲaw 
+bind: *paʔu	*pusi 
+fasten: *paʔu	*pusi 
+tie: *paʔu	*pusi 
+tie up: *paʔu	*pusi 
+sew: *taSiq 
+count: *Sipuʀ 
+enumerate: *Sipuʀ 
+number: *Sipuʀ 
+tally: *Sipuʀ 
+float: *puŋ	*taw 
+flow: *liR	*luR	*qaluʀ 
+lake: *danaw 
+ocean: *tenem 
+sea: *tenem 
+dust: *bu	*buk	*likeS	*puk 
+fog: *kampu	*kamput 
+sky: *laŋi	*laŋiC	*laŋit 
+bad: *kuya	*nsaʔat	*saʔat 
+evil: *kuya	*nsaʔat	*saʔat 
+rot: *ma-buʀaq 
+rotten: *ma-buʀaq 
+straight: *dusu	*dusuk	*ntonu 
+sharp: *Cazem 
+blunt: *pul 
+damp: *suru	*suruʔ 
+wet: *suru	*suruʔ 
+right side: *ka-wanaN	*ma-taʔu 
+left: *ka-wiʀi	*ma-uri	*ma-wiri 
+at: *di	*i 
+in: *i-dalem 
+inside: *i-dalem 
+and: *ka	*mah 
+if: *ka	*nu 

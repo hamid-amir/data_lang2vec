@@ -1,0 +1,439 @@
+all: haɓa | haɓa	ufebeč	weyeč	weč	wɛːytče	wɛːčʼ	yero	yinkapo	yiŋkapo 
+all: weyeč | haɓa	ufebeč	weyeč	weč	wɛːytče	wɛːčʼ	yero	yinkapo	yiŋkapo 
+all: yinkapo | haɓa	ufebeč	weyeč	weč	wɛːytče	wɛːčʼ	yero	yinkapo	yiŋkapo 
+animal: č\oːt\o | geta	čʼoːtʼo 
+animal: geta | geta	čʼoːtʼo 
+arm: kɛp 
+ashes: fuŋk\a | cimbo	fiŋka	fuŋkʼa	punkʼwa	puŋkʼwa 
+ashes: punk\wa | cimbo	fiŋka	fuŋkʼa	punkʼwa	puŋkʼwa 
+back: kutugun | kutugun	sak	sakki	šaːk 
+bad: kosa | kosa	koš	kɔːšša 
+bad: kɔːšša | kosa	koš	kɔːšša 
+bark: ork\an | orkʼan	šukuma 
+belly: ɓeːše | sukuma	šukʼuma	ǯukuma 
+belly: ǯukuma ~ sukuma | sukuma	šukʼuma	ǯukuma 
+big: hɛddi | hɛddi	kiddi	mat	matti 
+big: kiddi | hɛddi	kiddi	mat	matti 
+big: mat(ti) | hɛddi	kiddi	mat	matti 
+bird: holut | elette	holut	hulut 
+bite: ɓilla | kƙaw-ge	kʼaw	pʼiːda	tʼa	ƥilla	ƥiːda	ɓilla 
+bite: k\aw | kƙaw-ge	kʼaw	pʼiːda	tʼa	ƥilla	ƥiːda	ɓilla 
+bite: p\iːda | kƙaw-ge	kʼaw	pʼiːda	tʼa	ƥilla	ƥiːda	ɓilla 
+bite: p\ill(a) | kƙaw-ge	kʼaw	pʼiːda	tʼa	ƥilla	ƥiːda	ɓilla 
+bite: t\a | kƙaw-ge	kʼaw	pʼiːda	tʼa	ƥilla	ƥiːda	ɓilla 
+black: čiːn ~ čiːŋ | čiːn	čiːŋ	čʼin	čʼiːn	čʼiːŋ 
+blood: dammo ~ dɛmmo | dammo	domo	dɛmmo	yErom	yɛrom	čaːn 
+blood: yɛrom | dammo	domo	dɛmmo	yErom	yɛrom	čaːn 
+blow: fitti | fiffi	fitti 
+bone: ɛmenan ~ imaha | Emenan	imaha	ɛmenan	ɛmɛha 
+boy: č\o 
+boy: man 
+branch: roŋgi omd 
+breast: duh | du	duh	kowan 
+breast: kowan | du	duh	kowan 
+breathe: hoːpu | hoːppu	hoːpu 
+brother: hiyya 
+burn: gom 
+burn: got 
+calf: čeːlakan ~ šeːlakan 
+calf: šela 
+chest: huwwan 
+chest: kokoŋ 
+child: maso(i) | maso	masoi	toːn	čʼo	čʼoh	ƙufa	ƙufaː 
+child: sasale | maso	masoi	toːn	čʼo	čʼoh	ƙufa	ƙufaː 
+chin: k\aleːga 
+claw: čofolkoh | kiːk	sengi	seyŋse	čofolkoh	šengi	šeːči 
+claw: kiːk | kiːk	sengi	seyŋse	čofolkoh	šengi	šeːči 
+claw: šengi | kiːk	sengi	seyŋse	čofolkoh	šengi	šeːči 
+cloud: gumo | gumo	gupʼo	guːppo	guːƥo	wuri 
+cloud: gup\o | gumo	gupʼo	guːppo	guːƥo	wuri 
+cold: k\endi ~ kendi | kendi	kʼendi	ƙendi	ƙenɗi	ƙeːnɗe 
+come: (ʔ)am | am	am-če	amm	amo	ʔam 
+come: amo | am	am-če	amm	amo	ʔam 
+count: ihom | ihom	ikom 
+crocodile: ɗeːgo 
+crocodile: ugulke 
+cut: aƒura | ekɛːm	čot	čota	čʼota	ɛƙɛːm 
+cut: č\ota ~ čot | ekɛːm	čot	čota	čʼota	ɛƙɛːm 
+cut: ekɛːm | ekɛːm	čot	čota	čʼota	ɛƙɛːm 
+day: bʌs | bʌs	hayum 
+day: dindiŋa | bʌs	hayum 
+day: hayum | bʌs	hayum 
+die: ko | k"o	ko	kʼo 
+die: k\o | k"o	ko	kʼo 
+dog: kaʔal | ka7al	kan	kaʔal	kaːn	kaːni	ƙaːn 
+dog: kaːn | ka7al	kan	kaʔal	kaːn	kaːni	ƙaːn 
+drink: woh ~ wo ~ wuo | kewu	who	wo	woh	woː	wuo 
+dry: č\ofo | iči	sʼoto	čubu	čʼofo	čʼoːto 
+dry: čubu | iči	sʼoto	čubu	čʼofo	čʼoːto 
+dry: iči | iči	sʼoto	čubu	čʼofo	čʼoːto 
+dry: s\oto | iči	sʼoto	čubu	čʼofo	čʼoːto 
+dust: takafut | duːdur	takafut 
+ear: k\iti ~ kitʰi | k"iti	kitʰi	kʼiti	ƙiti	ƙitte	ƙitti	ƙitʰi 
+earth: boka 
+earth: bok\k\u 
+eat: t\a | tʼa	tʼag	tʼah 
+egg: tutukan | totokan	tutukan 
+eye: se ~ še ~ ʂe | se	še	ʂe 
+face: k\awk 
+fall: fù | fuː	fù 
+far: teːma 
+fat (n.): čiːme 
+fat (n.): s\ilam ~ s\ilaŋ 
+feather: č\eka ~ čeːk\a | čeːka	čeːkʼa	čʼeka 
+fight: apal ~ afal | afal	apal 
+finger: čopulkoi 
+finger: čɔpulkoi 
+fingernail: čofolkoh | kiːk	sengi	seyŋse	čofolkoh	šengi	šeːči 
+fingernail: šengi | kiːk	sengi	seyŋse	čofolkoh	šengi	šeːči 
+finger: pɔlpɔl 
+fire: čuwa ~ č\owa ~ šowa | Cuwa	čuwa	čuːwa	čʼowa	šowa 
+fish: čaŋa | C"aNa	čaŋa	čʼaŋa 
+five: tuːl | tul	tuul	tuːl 
+fly (n.): kayaŋ 
+fly (n.): tɛr 
+fly (n.): žeːfa ~ ǯeːfa 
+foot: bičča | biča	bičča	ɗuk 
+foot: ɗuk | biča	bičča	ɗuk 
+forehead: diːri 
+forest: čaːnt ~ čaːrt | čaːnt	čaːrt 
+four: aŋan | anan	angan	aŋan	aŋay 
+girl: kato 
+girl: koto 
+give: hanno 
+good: ɗaŋka 
+grass: č\aːmo | elt	elti	čamo	čʼaːmo 
+grass: (mantɛ) elt | elt	elti	čamo	čʼaːmo 
+hair: č\eːka ~ šek | ko-ǯeka	čeːka	čʼeːka	čʼeːƙa	šek	ƙoya 
+hand: epu ~ ifu | epu	eːtta	if	ifu	iːfu	oːrɛt 
+hand: eːtta | epu	eːtta	if	ifu	iːfu	oːrɛt 
+hand: oːrɛt | epu	eːtta	if	ifu	iːfu	oːrɛt 
+head: k\oyi | kʼoyi	ƙoi	ƙoy	ƙoyi 
+hear: (k)ɛčɛt | ECEt	atčɛte	kECEt	kɛčɛt	ɛčɛt	ʔotʼom 
+hear: ʔot\om | ECEt	atčɛte	kECEt	kɛčɛt	ɛčɛt	ʔotʼom 
+heart: luːnče | dogaše	lunduse	luːnče	tʼundet	ɗundɛt 
+heart: lunduse | dogaše	lunduse	luːnče	tʼundet	ɗundɛt 
+heart: t\undet | dogaše	lunduse	luːnče	tʼundet	ɗundɛt 
+heavy: guːla 
+here: manka 
+he/she: uŋa 
+he/she: uŋa˗kak 
+he/she: uŋ˗ke 
+he/she: yi 
+he/she: yi˗kak 
+he/she: yi˗ke 
+hit: boːle 
+hole: utui 
+horn: k\ar(r)e | kolbe	kulba	kwete	kʼare	kʼarre 
+horn: kolbe | kolbe	kulba	kwete	kʼare	kʼarre 
+horn: kwete | kolbe	kulba	kwete	kʼare	kʼarre 
+house: aha 
+house: basso 
+house: ɗok 
+house: kɛdɛp 
+hunt: čaːgd | luge	čaːgd 
+husband: ul | ul	ullu 
+ice: šaːpo ~ čapu | čapu	šaːpo 
+I: taŋa | taNa	tiN 
+I: taŋa˗kak | taNa	tiN 
+I: taŋa˗ke | taNa	tiN 
+I: tiŋ | taNa	tiN 
+I: tiŋ˗kak | taNa	tiN 
+I: tiŋ˗ke | taNa	tiN 
+kill: há ~ he ~ ka ~ xa | guːru	ha	haː	he	há	ka	xa	ŋahuma 
+kill: ŋahuma | guːru	ha	haː	he	há	ka	xa	ŋahuma 
+knee: hotu ~ hutu ~ kutti | hotu	huttu	hutu	kutti 
+know: ɗɛ | tiŋ ɗea	ɗe	ɗɛ 
+lake: čɔːkɛ | čɔːkɛ 
+laugh: salla 
+leaf: č\aːm(o) | C"am	C"amo	siyo	čaːm	čʼam	čʼaːm	čʼaːmo 
+leaf: siyo | C"am	C"amo	siyo	čaːm	čʼam	čʼaːm	čʼaːmo 
+left: hando ~ kando | hando	kando 
+leg: bičča | bičča 
+lightning: yatalal 
+lip: ɲaːr 
+lip: ŋgim 
+live: bɔdala 
+liver: ɓaɓu | Cukuma	čukuma	ɓaɓu 
+liver: čukuma | Cukuma	čukuma	ɓaɓu 
+long: ɗama | dama	ɗama	ɗaːma 
+louse: nɛnna | nEna 
+louse: utaːlet ~ utnalet | nEna 
+man: man | buŋgwar	iːnki	koːr	ma-ufa	man	ufa	upʰa 
+man: ulu | buŋgwar	iːnki	koːr	ma-ufa	man	ufa	upʰa 
+man: upa | buŋgwar	iːnki	koːr	ma-ufa	man	ufa	upʰa 
+many: habba ~ kaːba ~ xaːba | habba	haːba	haːbba	kaːba	xaːba 
+meat: hà(ː) | ha	haː	hà	hàː 
+moon: goːm(u) | goːm	goːmu	kasip	kasipu	kasupu	kačap	kašip 
+moon: kasupu ~ kašip | goːm	goːmu	kasip	kasipu	kasupu	kačap	kašip 
+morning: ǯabo 
+mosquito: miltit 
+mountain: gom ~ goŋ | gom	goŋ	goːm	goːmu	gɔːnt	gɔːrt 
+mountain: gɔːnt | gom	goŋ	goːm	goːmu	gɔːnt	gɔːrt 
+mouth: kaw(še) | kau-se	kaw	kawše	kʼawut	ƙawut 
+mouth: k\awut | kau-se	kaw	kawše	kʼawut	ƙawut 
+name: iŋkaye | iNkaye	iŋkaye	nekki	wuŋka 
+name: wuŋka | iNkaye	iŋkaye	nekki	wuŋka 
+narrow: č\unɗe | čʼunɗe 
+neck: dɛppu | dɛppu	nimma	numa-se	nɔːdo	nɔːdɔ	šonn	šonnse 
+neck: nimma | dɛppu	nimma	numa-se	nɔːdo	nɔːdɔ	šonn	šonnse 
+neck: nɔːdo | dɛppu	nimma	numa-se	nɔːdo	nɔːdɔ	šonn	šonnse 
+neck: šonn(se) | dɛppu	nimma	numa-se	nɔːdo	nɔːdɔ	šonn	šonnse 
+new: čo ~ tso | Co	co	kinančo	tso	čo 
+night: dippi ~ dippo ~ ɗiːφu | deppo	deppu	dip	dippi	dippo	ɗipu	ɗiːɸu 
+not: ˗be | -be 
+old: gutɛrɛ 
+one: iŋki | iNki	ingki	inki	iŋki	om	oŋa yiˡŋki	ɔm 
+other: maʔam | maʔam	upa	yuka	yuː 
+other: upa | maʔam	upa	yuka	yuː 
+other: yuː | maʔam	upa	yuka	yuː 
+person: man | buŋgwar	iːnki	koːr	ma-ufa	man	ufa	upʰa 
+person: (ma˗)ufa | buŋgwar	iːnki	koːr	ma-ufa	man	ufa	upʰa 
+person: upʰa | buŋgwar	iːnki	koːr	ma-ufa	man	ufa	upʰa 
+push: t\unk\un\č 
+rain: ɗim ~ ɗɪm | dim	ðiːmmi	čʼakan	ɗim	ɗɪm 
+rat: kilto 
+red: č\aːra | čaːra	čʼaːra 
+river: mirinko | mirinko	wo	woː	wuɗ	wuʌ 
+river: wo | mirinko	wo	woː	wuɗ	wuʌ 
+road: homa ~ koma | homa	koma 
+root: tilt\il | tiltʼil 
+rub: aŋɲan 
+salt: moi | moi	moːyi 
+sand: k\ɛwɛ | ?iːworʼ	kiːra	kʼɛwɛ	ƙɛwɛ 
+sand: kiːra | ?iːworʼ	kiːra	kʼɛwɛ	ƙɛwɛ 
+say: apʰo | apʰo	kimm-	kimmo	sum	sum-	čom | ?iːworʼ	kiːra	kʼɛwɛ	ƙɛwɛ 
+say: kimm˗ | apʰo	kimm-	kimmo	sum	sum-	čom | ?iːworʼ	kiːra	kʼɛwɛ	ƙɛwɛ 
+say: sum˗ | apʰo	kimm-	kimmo	sum	sum-	čom | ?iːworʼ	kiːra	kʼɛwɛ	ƙɛwɛ 
+seed: aweːk\a | aweːkʼa	aweːƙa	waikun	weykon	weykun 
+seed: waikun | aweːkʼa	aweːƙa	waikun	weykon	weykun 
+see: yinn ~ yes | miːmi	yes	yin	yinn	yiːno 
+see: yiːno | miːmi	yes	yin	yinn	yiːno 
+shoulder: kɛp 
+sit: mank˗ | mank-	maŋka	mo 
+sit: mo | mank-	maŋka	mo 
+skin: akuš | akuS	akuš	wa	wan	wann 
+skin: wa | akuS	akuš	wa	wan	wann 
+sky: hoːp\a | hoːpʼa	hoːƥa	poŋkt	poːnt 
+sky: poŋkt | hoːpʼa	hoːƥa	poŋkt	poːnt 
+sleep: haɓ˗ | haɓ-	haɓa	haɓafa	tʼolu	tʼolʔam 
+sleep: t\olu ~ t\olʔam | haɓ-	haɓa	haɓafa	tʼolu	tʼolʔam 
+small: hɛdɛbu | hedebu	hɛdɛb	hɛdɛbu	čʼumbu 
+smoke: čimbi | toːru	čimbi	čiːmbi	čʼimbi 
+smoke: toːru | toːru	čimbi	čiːmbi	čʼimbi 
+snake: paːr | paːr	pʰaːr 
+snow: wɛrɛ 
+spit: helenč ~ helenǯ 
+spit: k\onhu 
+stand: ɓaːla˗kit | hitta	poŋkaɓal	ɓaːla-kit 
+stand: hitta | hitta	poŋkaɓal	ɓaːla-kit 
+stand: poŋkaɓal | hitta	poŋkaɓal	ɓaːla-kit 
+star: marion | marion	roga	roːga 
+star: roːga | marion	roga	roːga 
+stone: manna ~ naːma | mana	manna	maːna	namma	naːma 
+sun: oha ~ oka ~ oxa | ?kačap	oha	oka	oxa	oːha 
+sweet: šina 
+swim: liyet | li-eːt	liy-eːt	liyet 
+tail: šoːša | sunɗum	čundum	šoːša	šundum	ʂoːʂa 
+tail: šundum | sunɗum	čundum	šoːša	šundum	ʂoːʂa 
+that: ŋa | ŋa	ŋa ̩u ŋati | iNki	ingki	inki	iŋki	om	oŋa yiˡŋki	ɔm 
+that: ŋa .... yero | ŋa	ŋa ̩u ŋati | iNki	ingki	inki	iŋki	om	oŋa yiˡŋki	ɔm 
+they: odda | kuka	otalak	sitalak	šitalak 
+they: odda˗kak | kuka	otalak	sitalak	šitalak 
+they: odda˗ke | kuka	otalak	sitalak	šitalak 
+they: otalak | kuka	otalak	sitalak	šitalak 
+they: otala˗kak | kuka	otalak	sitalak	šitalak 
+they: otala˗ke | kuka	otalak	sitalak	šitalak 
+thigh: biša 
+thin: hedebu | hedebu	hɛdɛbu	keːǯi	kɛːǯɛ	salsaln	salsan 
+thin: salsan | hedebu	hɛdɛbu	keːǯi	kɛːǯɛ	salsaln	salsan 
+this: ma | ma	maka	mano	maši 
+this: ma .... yero | ma	maka	mano	maši 
+thou: kuk˗ak | kuku	kungu 
+thou: ku˗ke | kuku	kungu 
+thou: kuku | kuku	kungu 
+thou: kuŋg˗ak | kuku	kungu 
+thou: kuŋ˗ke | kuku	kungu 
+thou: kungu | kuku	kungu 
+thou: sitalak | kuku	kungu 
+thou: sitala˗kak | kuku	kungu 
+thou: sitalak˗ke | kuku	kungu 
+thou: siyakk | kuku	kungu 
+thou: siyak˗kak | kuku	kungu 
+thou: siyak˗ke | kuku	kungu 
+thou: suba | kuku	kungu 
+thou: suba˗kak | kuku	kungu 
+thou: subak˗ke | kuku	kungu 
+three: ǯiːta | jiita	ǯitaː	ǯiːta 
+thunder: tikɛt 
+tongue: handa | handa	kʼadd	ƙadd 
+tongue: k\add | handa	kʼadd	ƙadd 
+tooth: k\aw | k"aw	kaw	kʼaw	ƙaw 
+tree: k\onna | k"ona 
+two: bap | bab	baba	babu	bap 
+vomit: tap\al | tappala	tapʼal 
+walk: kol\ | laːƙa 
+walk: no | laːƙa 
+warm: šub | tʼeːma	šub	šuːbu 
+warm: šuːbu ~ čobu | tʼeːma	šub	šuːbu 
+warm: t\eːma | tʼeːma	šub	šuːbu 
+water: wo ~ woʌ ~ wuɗ | wo	woʌ	woː	wuɗ 
+we: ann | an	yiN 
+we: ann˗kak | an	yiN 
+we: ann˗ke | an	yiN 
+wet: k\inna | kʼinna	mundi	mundu	ƙinna 
+wet: mundi | kʼinna	mundi	mundu	ƙinna 
+we: yiŋ | an	yiN 
+we: yiŋ˗kak | an	yiN 
+we: yiŋ˗ke | an	yiN 
+what: hamma | hamma	nambi 
+what: nambi | hamma	nambi 
+when: hambo | hambo	hambok 
+where: hamma | hamat	hamma 
+white: ɗada ~ ɗaːča | dada	ɗada	ɗaːča	ɗaːčʼa 
+who: naːfe ~ naːpe ~ neʔebe | naːfe	naːpe	neʔebe	neː 
+who: neː | naːfe	naːpe	neʔebe	neː 
+wide: boːši | boːsu	boːši 
+wind: yipo 
+wing: tobɔrt | tobɔrt	tɔbɔrt 
+woman: kort\o | aumɓa	kortʼo	koto	umba	umɓa	unɓa 
+woman: koto | aumɓa	kortʼo	koto	umba	umɓa	unɓa 
+woman: umɓa | aumɓa	kortʼo	koto	umba	umɓa	unɓa 
+wood: č\uwa 
+wood: gum 
+worm: lɛnt\it | lɛntʼit	munga	muŋga 
+worm: muŋga | lɛntʼit	munga	muŋga 
+year: takafut 
+yesterday: ǯaːl 
+every: haɓa	ufebeč	weyeč	weč	wɛːytče	wɛːčʼ	yero	yinkapo	yiŋkapo 
+ash: cimbo	fiŋka	fuŋkʼa	punkʼwa	puŋkʼwa 
+abdomen: sukuma	šukʼuma	ǯukuma 
+bigness: hɛddi	kiddi	mat	matti 
+large: hɛddi	kiddi	mat	matti 
+breasts: du	duh	kowan 
+nail: kiːk	sengi	seyŋse	čofolkoh	šengi	šeːči 
+talon: kiːk	sengi	seyŋse	čofolkoh	šengi	šeːči 
+come from: am	am-če	amm	amo	ʔam 
+be dead: k"o	ko	kʼo 
+dead: k"o	ko	kʼo 
+fly: kolʼi 
+fly v.: kolʼi 
+green: soːlo	čʼaːm 
+left hand: epu	eːtta	if	ifu	iːfu	oːrɛt 
+right: epu	eːtta	if	ifu	iːfu	oːrɛt 
+1 sg.: taNa	tiN 
+be knowledgeable: tiŋ ɗea	ɗe	ɗɛ 
+lie: haɓa 
+lie down: haɓa 
+head louse: nEna 
+male: boːloŋ	gutann	kotto	man	ufa	ufeː	ulu	upa 
+much: habba	haːba	haːbba	kaːba	xaːba 
+multiple: habba	haːba	haːbba	kaːba	xaːba 
+several: habba	haːba	haːbba	kaːba	xaːba 
+hill: gom	goŋ	goːm	goːmu	gɔːnt	gɔːrt 
+title: iNkaye	iŋkaye	nekki	wuŋka 
+nighttime: deppo	deppu	dip	dippi	dippo	ɗipu	ɗiːɸu 
+nose: koːmoš	sona	sonna	čona	šona	šɔna 
+adulterous: iNki	ingki	inki	iŋki	om	oŋa yiˡŋki	ɔm 
+single: iNki	ingki	inki	iŋki	om	oŋa yiˡŋki	ɔm 
+the: iNki	ingki	inki	iŋki	om	oŋa yiˡŋki	ɔm 
+unprincipled: iNki	ingki	inki	iŋki	om	oŋa yiˡŋki	ɔm 
+human: buŋgwar	iːnki	koːr	ma-ufa	man	ufa	upʰa 
+human being: buŋgwar	iːnki	koːr	ma-ufa	man	ufa	upʰa 
+rainy weather: dim	ðiːmmi	čʼakan	ɗim	ɗɪm 
+path: homa	koma 
+route: homa	koma 
+hide: akuS	akuš	wa	wan	wann 
+little: hedebu	hɛdɛb	hɛdɛbu	čʼumbu 
+smallness: hedebu	hɛdɛb	hɛdɛbu	čʼumbu 
+rock: mana	manna	maːna	namma	naːma 
+2 sg: kuku	kungu 
+you: kuku	kungu 
+grind: bab	baba	babu	bap 
+go: laːƙa 
+hot: tʼeːma	šub	šuːbu 
+1 pl. inc.: an	yiN 
+we₁: an	yiN 
+whiteness: dada	ɗada	ɗaːča	ɗaːčʼa 
+who?: naːfe	naːpe	neʔebe	neː 
+female: aumɓa	kortʼo	koto	umba	umɓa	unɓa 
+yellow: daːma	mukungul 
+distant: teːma 
+dull: guːla 
+serious: guːla 
+close: oːtu 
+near: oːtu 
+ner: oːtu 
+short: hikkira	kutʰakutʰ 
+earthworm: lɛntʼit	munga	muŋga 
+3 sg.: yi	yih	ŋa 
+he: yi	yih	ŋa 
+she: yi	yih	ŋa 
+2 pl.: ?suba	anč	peyɛro	utula	ŋaw 
+ye: ?suba	anč	peyɛro	utula	ŋaw 
+you all: ?suba	anč	peyɛro	utula	ŋaw 
+3 pl.: kuka	otalak	sitalak	šitalak 
+there: ŋanka 
+where?: hamat	hamma 
+when?: hambo	hambok 
+broad: boːsu	boːši 
+wideness: boːsu	boːši 
+fat: sʼilam	sʼilaŋ 
+thick: dondom	mat	ɓiːli 
+his mother: indiː	lɛtta 
+mother: indiː	lɛtta 
+my mother: indiː	lɛtta 
+father: babbe	maːti 
+his father: babbe	maːti 
+my father: babbe	maːti 
+woods: čaːnt	čaːrt 
+stick: roŋgi omd 
+flesh: ha	haː	hà	hàː 
+grease: sʼilam	sʼilaŋ 
+gut: lundu 
+guts: lundu 
+insides: lundu 
+intestine: lundu 
+intestines: lundu 
+suck: du 
+breath: hoːppu	hoːpu 
+laughter: salla 
+cogitate: inon 
+reflect: inon 
+think: inon 
+smell: sotoːmi 
+sniff: sotoːmi 
+beat: boːle 
+strike: boːle 
+hack: ekɛːm	čot	čota	čʼota	ɛƙɛːm 
+cut open: badda 
+split: badda 
+pierce: ŋa 
+stab: ŋa 
+scratch: ƙiƙƙo 
+dig: ƙečʼčʼa 
+tell lies: ?minčʼi 
+drop: fuː	fù 
+wipe: aŋɲan 
+bind: hiːppi 
+fasten: hiːppi 
+tie: hiːppi 
+tie up: hiːppi 
+sew: luːlu 
+enumerate: ihom	ikom 
+number: ihom	ikom 
+tally: ihom	ikom 
+sing: baːyo 
+have fun: čʼiŋŋa 
+play: čʼiŋŋa 
+brook: mirinko	wo	woː	wuɗ	wuʌ 
+stream: mirinko	wo	woː	wuɗ	wuʌ 
+fog: čʼiːŋita 
+daylight: bʌs	hayum 
+daytime: bʌs	hayum 
+evil: kosa	koš	kɔːšša 
+sharp: buːǯa 
+blunt: ?tʼoƥa 
+smooth: ruːčʼu 
+damp: kʼinna	mundi	mundu	ƙinna 
+right side: sisawo 

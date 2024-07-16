@@ -1,0 +1,318 @@
+all: aSi 
+every: aSi 
+ash: yuku	yuku* 
+ashes: yuku	yuku* 
+bark: saepe*	saɨʼpɨ 
+big: mun	muun 
+bigness: mun	muun 
+large: mun	muun 
+bird: Cinki	ʼpišak 
+bite: esa	ɨsat 
+black: Suwin	bukusea	buʼkusɨa	šuʼwin 
+blood: numpa 
+bone: ukunC	ukunCi	ukunč 
+breast: d3ts3p	muncu	munc̷u	pihan 
+breasts: d3ts3p	muncu	munc̷u	pihan 
+claw: kuntinu nančik-i	nanCik 
+nail: kuntinu nančik-i	nanCik 
+talon: kuntinu nančik-i	nanCik 
+cloud: yuhagkim	yuhankim 
+cold: cecek	c̷ɨc̷ɨk 
+come: mini	minit	tan	tat 
+come from: mini	minit	tan	tat 
+be dead: b3s3t	ha	hakau	hakɨʼhu	kihak 
+dead: b3s3t	ha	hakau	hakɨʼhu	kihak 
+die: b3s3t	ha	hakau	hakɨʼhu	kihak 
+dog: ya*wa*	yawa	yaʼwa 
+drink: umu	umut	ʼumu-t 
+dry: buku 
+ear: kuwiS	kuwiš 
+earth: nugka	nunka 
+ground: nugka	nunka 
+land: nugka	nunka 
+soil: nugka	nunka 
+eat: yu	ʼyuwamu 
+egg: nuhin	nuʼhin 
+eye: hi	hii	xi 
+fat: kuntuha*m 
+fat n.: kuntuha*m 
+grease: kuntuha*m 
+lubricant: kuntuha*m 
+oil: kuntuha*m 
+feather: u*he*	uhɨ 
+fire: hi	hii kɨɨʼku	xi 
+fish: namak	namaka 
+fly: nana-mat	nanama 
+fly v.: nana-mat	nanama 
+foot: dawe	dawɨ 
+full: bete	bɨtɨ	piyaku 
+give: ama	su	ʼsuwamu 
+good: esekou	penkeg	ʼpɨgkɨg 
+green: dagan	samekbou	saʼmɨk-bau 
+hair: intaS	intaš 
+hand: uw3x	uweh	uwɨ-h 
+left hand: uw3x	uweh	uwɨ-h 
+right: uw3x	uweh	uwɨ-h 
+head: buk	buuk 
+hear: an	antut	ʼantut 
+heart: anentai	anɨn-tai 
+horn: %kaCu	kaču 
+1 sg.: wi 
+I: wi 
+kill: maut	mou 
+knee: tikiS	tiʼkiš-mat 
+be knowledgeable: deka	yaCame*a	ʼdɨkat 
+know: deka	yaCame*a	ʼdɨkat 
+leaf: duka 
+lie: tepe	tɨpɨt 
+lie down: tepe	tɨpɨt 
+liver: akap 
+long: esaham	ɨʼsaham 
+head louse: t3ma	tema	tɨma 
+louse: t3ma	tema	tɨma 
+male: aiSman	ʼaišma-g 
+man: a3nc	aenc	aɨnc̷ 
+many: kuʼašat 
+much: kuʼašat 
+multiple: kuʼašat 
+several: kuʼašat 
+flesh: ne*he*	nɨhɨ 
+meat: ne*he*	nɨhɨ 
+moon: nantu 
+hill: ikam	muha cakahu	nain 
+mountain: ikam	muha cakahu	nain 
+mouth: wenu	wɨnu 
+name: da	daahi	dahi*	na 
+title: da	daahi	dahi*	na 
+neck: kuntuh	suwɨ 
+new: yamaham	yamaxam	yaʼma-ham 
+night: kaSi	kaši 
+nighttime: kaSi	kaši 
+nose: duxi	nixi	nuhi	nuhi* 
+not: aca 
+adulterous: bakiCik	makichík 
+one: bakiCik	makichík 
+single: bakiCik	makichík 
+that: au	awi*ya* 
+the: bakiCik	makichík 
+unprincipled: bakiCik	makichík 
+human: a3nc	aenc	aɨnc̷ 
+human being: a3nc	aenc	aɨnc̷ 
+person: a3nc	aenc	aɨnc̷ 
+rain: yumi 
+rainy weather: yumi 
+red: kapantu 
+path: hinta	xinta 
+road: hinta	xinta 
+route: hinta	xinta 
+root: kagkaʼpɨ	kankap 
+round: sukunmou	tɨntɨɨ 
+sand: kaʼamatak 
+say: tu	ɨʼčɨhut 
+see: di	dit	waina	wainat 
+seed: aha*k	ahakɨ 
+sit: ekema	ɨʼkɨ-mat 
+hide: duwap	duwap-ɨ pušihi 
+skin: duwap	duwap-ɨ pušihi 
+sleep: kanu	ʼkanut 
+little: manCuC	piipič	pipiC 
+small: manCuC	piipič	pipiC 
+smallness: manCuC	piipič	pipiC 
+smoke: bukuitut	c̷aag bukuʼitimu 
+star: yaya 
+rock: kaya 
+stone: kaya 
+sun: eca*	ɨc̷a 
+swim: yuku-mat	yukuma 
+tail: uhuk	uhuʼkɨ 
+this: hu*	hu*hu* 
+2 sg: am3	ame*	amɨ 
+thou: am3	ame*	amɨ 
+you: am3	ame*	amɨ 
+tongue: i-dai	idai 
+tooth: dai 
+tree: numi 
+grind: himan	jímag	ximaN	ʼhimag 
+two: himan	jímag	ximaN	ʼhimag 
+go: daʼwɨ ʼwɨ-amu	wekaga 
+walk: daʼwɨ ʼwɨ-amu	wekaga 
+hot: suku-ʼtin 
+warm: suku-ʼtin 
+water: yumi 
+1 pl. inc.: i	ii 
+we: i	ii 
+we₁: i	ii 
+what: wa*hi*	waʼhi 
+white: pucu	puhu	puhuptin 
+whiteness: pucu	puhu	puhuptin 
+who: ya	yaki 
+who?: ya	yaki 
+female: nu*wa	nuwa 
+woman: nu*wa	nuwa 
+yellow: yanku	šušui 
+distant: aʼtušat 
+far: aʼtušat 
+dull: kiʼhin 
+heavy: kiʼhin 
+serious: kiʼhin 
+close: tikihu 
+near: tikihu 
+ner: tikihu 
+salt: wɨɨ 
+short: ʼsutag 
+snake: dapi	ʼpasug 
+thin: c̷ɨ́hɨg 
+wind: dasɨ 
+earthworm: nampič 
+worm: nampič 
+year: miʼhan 
+2 pl.: huʼti 
+ye: huʼti 
+you all: huʼti 
+3 pl.: dita 
+they: dita 
+where: tuʼwi 
+where?: tuʼwi 
+when: wahuʼti 
+when?: wahuʼti 
+how: wahuk 
+how?: wahuk 
+some: ʼmačikiuč 
+few: ʼuhumak 
+three: kampátum	kamʼpatum 
+four: ipak ʼusumat	ipáksumat 
+five: makichík uwejá ámua	uwɨʼha amua 
+broad: wagʼkaham 
+wide: wagʼkaham 
+wideness: wagʼkaham 
+thick: kamʼpuham 
+narrow: c̷ɨ́hɨg	ʼmɨnaku 
+child: uči 
+principal wife: nuwa-tk-amu 
+wife: nuwa-tk-amu 
+husband: aiši 
+his mother: duku 
+mother: duku 
+my mother: duku 
+father: apa-g 
+his father: apa-g 
+my father: apa-g 
+animal: kuntin 
+forest: ʼikam 
+woods: ʼikam 
+branch: kanawɨ 
+stick: kanawɨ 
+fruit: yuhag 
+grass: dupa 
+cord: waʼsakɨa 
+rope: waʼsakɨa 
+fingernail: nančik 
+leg: kuhap 
+wing: nanapɨ 
+gut: ʼc̷ɨhɨg ʼampug 
+guts: ʼc̷ɨhɨg ʼampug 
+insides: ʼc̷ɨhɨg ʼampug 
+intestine: ʼc̷ɨhɨg ʼampug 
+intestines: ʼc̷ɨhɨg ʼampug 
+back: maya-tai	tuntup 
+suck: bukunat 
+spit: usukit 
+vomit: ʼimut 
+blow: umpuut 
+laugh: duʼši-amu 
+laughter: duʼši-amu 
+cogitate: anɨn-taʼi-mat 
+reflect: anɨn-taʼi-mat 
+think: anɨn-taʼi-mat 
+smell: dɨkapɨt 
+sniff: dɨkapɨt 
+afraid: ʼsapig 
+be afraid: ʼsapig 
+fear: ʼsapig 
+fright: ʼsapig 
+alive: puhut 
+be alive: puhut 
+life: puhut 
+live: puhut 
+living: puhut 
+fight: maʼanit 
+hunt: kuntin maut 
+beat: awatut 
+hit: awatut 
+strike: awatut 
+cut: puut	ʼc̷upit 
+hack: puut	ʼc̷upit 
+cut open: kagʼkuinu 
+split: kagʼkuinu 
+pierce: nawahai ʼihut 
+stab: nawahai ʼihut 
+dig: taʼu-mat 
+tell lies: waʼithut 
+stand: kayam	wah-amu 
+turn: ayanh-amu 
+turn around: ayanh-amu 
+turn round: ayanh-amu 
+drop: iyaut 
+fall: iyaut 
+grasp: aʼčiamu 
+hold: aʼčiamu 
+hold in arm: aʼčiamu 
+squeeze: čanuut 
+wring: čanuut 
+rub: kɨɨmat	yakat 
+wipe: kɨɨmat	yakat 
+wash: nihat 
+wash clothes: nihat 
+push: ʼšitat 
+shove: ʼšitat 
+throw: ɨgkɨt 
+bind: higkat 
+fasten: higkat 
+tie: higkat 
+tie up: higkat 
+sew: apihut 
+count: dɨʼkapat 
+enumerate: dɨʼkapat 
+number: dɨʼkapat 
+tally: dɨʼkapat 
+sing: mat 
+have fun: waʼsugka-mat 
+play: waʼsugka-mat 
+float: namaʼka ʼnana-mat 
+flow: yumi ʼpugkanu 
+brook: namak 
+river: namak 
+stream: namak 
+lake: kuča 
+ocean: ʼnayanc̷ 
+sea: ʼnayanc̷ 
+dust: yuʼkuukuntu 
+fog: yuhagkim uc̷anhau 
+sky: nayaim 
+snow: muha piši 
+ice: yumi nanahu 
+blaze: aese	kapou	kɨɨt 
+burn: aese	kapou	kɨɨt 
+day: c̷aʼwan 
+daylight: c̷aʼwan 
+daytime: c̷aʼwan 
+bad: ʼkac̷ɨk	ʼpɨgkɨg-čau 
+evil: ʼkac̷ɨk	ʼpɨgkɨg-čau 
+rot: kauʼhu 
+rotten: kauʼhu 
+dirty: c̷uwat 
+filthy: c̷uwat 
+soiled: c̷uwat 
+straight: tuʼtupit 
+sharp: ɨʼc̷ak-amu 
+blunt: suyuʼhu 
+smooth: pinu	čuʼwin 
+damp: čupiʼhu 
+wet: čupiʼhu 
+correct: bɨtɨk	dɨʼwakč-amu 
+right side: unc̷ug 
+left: mɨna 
+in: iʼnitak 
+inside: iʼnitak 
+if: ɨʼʔɨ 
+because: ʼwagkapa 

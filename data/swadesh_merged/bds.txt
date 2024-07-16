@@ -1,0 +1,239 @@
+all: goŋ 
+animal: makiyamo 
+arm: daba 
+arrow: fayu 
+ashes: ʕura 
+bark: qafa 
+belly: gura\a | guraʔa 
+belly: guraʔa 
+big: didir 
+bird: čiraʕa | čiraʕa 
+bite: kiħ˗ | kiħ- 
+bite: tluw˗ | kiħ- 
+bitter: qadayd 
+black: boʕi 
+blood: čeːde | Tede	čeːde 
+bone: fara 
+branch: alema 
+breast: isaŋ | 7saN	isaŋ 
+brother: naːnkoːri 
+burn: daʕ˗ 
+burn: oh˗ 
+calf: mičoko 
+cheek: ʕutla 
+chest: muːna 
+child: xwaylimo 
+child: yaʔay 
+chin: gamfa 
+claw: čarafu | čarafu 
+cloud: tlafiya 
+cold: čaqomo | čaqomo 
+come: xaw˗ | xaw-	xoTa 
+count: far˗ 
+cut: quːtl˗ 
+dark: kìduɣu 
+day: bala 
+day: balu 
+die: gwa˗ | gwa-	gwa7ara	hamara 
+dig: fol˗ 
+dog: gwehera 
+drink: kitaħ˗ | kidahu	kitaħ- 
+dry: karahadi 
+dust: čeče\iya 
+ear: eː\a | 7e7a	eːʼa 
+earth: ɦape 
+eat: ag(iːm)˗ | ag-	agiːm- 
+egg: qanaya 
+eye: ila | 7ila	ila 
+fall: hu˗ 
+far: segiŋ 
+father: taâta 
+fat (n.): du\ʕiya 
+feather: haya 
+finger: diːnča 
+finger: dugunino 
+fingernail: čarafu 
+fire: aɬa | 7ahla	aɬa 
+five: koʔan 
+fly (v.): tsaʕas 
+foot: dagara | dagara	jaʔe 
+foot: gobina | dagara	jaʔe 
+foot: jaʔe | dagara	jaʔe 
+forehead: paːnda 
+four: teigaɦ 
+full: hats˗ | haTara	hata 
+girl: hotu 
+give: hadiːs˗ | hadiːs- 
+good: ħo 
+green: qančeri | qančeri 
+hair: qubu 
+hand: daba 
+hand: sure | daba 
+head: saga 
+hear: axas˗ | 7axasara	axas- 
+heart: muna 
+heavy: dayloʔi 
+here: tiʔi 
+he/she: ina 
+he/she: ós(í́) 
+horn: xadaŋ | paranda	xadaN	xadaŋ 
+house: mara 
+hunt: ɬagad˗ 
+husband: ɦawate 
+I: ají | ana 
+I: ana 
+jaw: tlanqatu 
+kill: gaːs˗ | gaːs- 
+knee: gurugunda 
+know: xu˗ | xu- 
+lake: tlawa 
+laugh: qasaw˗ 
+leaf: lohiʕiya | hlufa	lohiʕiya	loxiya 
+left: basay 
+leg: yaːʔe 
+lie: qat˗ | qat- 
+lightning: mankariya 
+live: ɬaʔar 
+liver: da\aye | daʼaye	jxaye 
+long: tledi 
+louse: itno | 7ita 
+man: ħawata | hedi	heːdi 
+many: waʔa 
+meat: fuʔumay 
+moon: ɬeheŋ 
+mother: iyo 
+mountain: oŋ | 7oN	oŋ 
+mouth: aːfa 
+name: ûma | 7uma	ûma 
+narrow: čoʔaħi 
+navel: murungu 
+near: čia | čia 
+neck: isa 
+new: ʕabi | xabi	ʕabi 
+night: amasi | 7amasi	amasi 
+one: leŋ | leN	leŋ	wak 
+one: wak | leN	leŋ	wak 
+other: wak 
+person: heːdi | hedi	heːdi 
+rain: tlubey 
+red: daʕadi 
+river: sa\ama 
+road: amo | 7amo 
+rope: weːla 
+rotten: tlakwi 
+salt: munga 
+sand: seħenay 
+say: gimbus˗ | gimbus- 
+scratch: doħ 
+see: arim˗ | 7arima	arim-	haxari 
+sew: hiramamid˗ 
+short: ququmadi 
+shoulder: kizoga 
+shoulder: kwaɦa 
+sing: raʔam˗ 
+sit: ˗ibiːt˗ | -ibiːt- 
+sky: raw 
+sleep: qat˗ | qat- 
+small: čoko | čoko 
+smoke: eħa 
+snake: deːsu 
+spit: čabakare 
+split: kaʔas˗ 
+stand: qadid˗ 
+star: čitca\iya | tiTaxu	čitcaʼiya 
+stone: tlaː\ʕu | tla7a	tlaːʼʕu 
+suck: humbaʔad˗ 
+sun: letu 
+sweet: dinu 
+swell: ɬuf˗ 
+tail: ɦayso 
+take: leħis 
+that: ta\a | leN	leŋ	wak 
+there: taʔi 
+there: yade 
+they: iney 
+they: oʔin 
+this: ˗ki 
+this: ˗ti 
+thou: igi 
+thou: ugu 
+three: tam 
+throat: gwaʕaba 
+throw: kwaɦ˗ 
+today: leːtuti 
+tomorrow: heːtlaːle 
+tongue: čufara | TufaraN	čufara 
+tooth: aːtlimo | 7atlimo	aːtlimo 
+tree: xa\imo | xa7imo 
+two: čada | Tad	Tada	cada	čada 
+vagina: qendi 
+vomit: waʕ˗ 
+walk: hoč˗ | woč- 
+walk: hote˗ | woč- 
+walk: tu\ʕud˗ | woč- 
+walk: woč˗ | woč- 
+wash: ħunčid 
+water: ma\ay | ma7ay	maʼay 
+we: daːndire 
+we: oːr(í) 
+white: abaːqw 
+wife: ƒade 
+wind: kwa\eːli | kwaʼeːli	pupiʔija 
+wind: pupiʔija | kwaʼeːli	pupiʔija 
+woman: ɦade 
+year: korí | korí 
+yellow: jaʔadaʔadi 
+yesterday: saʕale 
+you: oːguná 
+you: unkuray 
+every: goŋ 
+ash: ʕura 
+abdomen: guraʔa 
+bigness: didir 
+large: didir 
+breasts: 7saN	isaŋ 
+nail: čarafu 
+talon: čarafu 
+come from: xaw-	xoTa 
+be dead: gwa-	gwa7ara	hamara 
+dead: gwa-	gwa7ara	hamara 
+fish: samaki 
+fly: tsaʕas 
+fly v.: tsaʕas 
+left hand: daba 
+right: daba 
+1 sg.: ana 
+be knowledgeable: xu- 
+lie down: qat- 
+head louse: 7ita 
+male: ħawata 
+much: waʔa 
+multiple: waʔa 
+several: waʔa 
+hill: 7oN	oŋ 
+title: 7uma	ûma 
+nighttime: 7amasi	amasi 
+nose: 7urunga	urunga 
+adulterous: leN	leŋ	wak 
+single: leN	leŋ	wak 
+the: leN	leŋ	wak 
+unprincipled: leN	leŋ	wak 
+human: hedi	heːdi 
+human being: hedi	heːdi 
+rainy weather: tlubey 
+path: 7amo 
+route: 7amo 
+hide: fala 
+skin: fala 
+little: čoko 
+smallness: čoko 
+rock: tla7a	tlaːʼʕu 
+grind: Tad	Tada	cada	čada 
+go: woč- 
+whiteness: abaːqw 
+female: ɦade 
+distant: segiŋ 
+dull: dayloʔi 
+serious: dayloʔi 
+close: čia 
+ner: čia 

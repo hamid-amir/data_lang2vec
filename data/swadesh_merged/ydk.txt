@@ -1,0 +1,420 @@
+all: bubuta 
+arm: abe- 
+arm: ave- 
+arrow: dagi 
+ashes: dehi 
+back: agëma- 
+back: agʌma- 
+bad: na\ 
+bad: naʔ 
+belly: u\u- | wo- sʌʔ 
+belly: uʔu- | wo- sʌʔ 
+belly: wo- sʌʔ 
+belly: wo- së\ | wo- sʌʔ 
+big: busa\ | busaʔ 
+big: busaʔ 
+bird: ye: | yɛː 
+bird: yɛː 
+bite: ia- | ia-	iɛ- 
+bite: ie- | ia-	iɛ- 
+bite: iɛ- | ia-	iɛ- 
+black: fäsiʔ | fäsiʔ 
+black: fäsi\ | fäsiʔ 
+blood: ʌdʌ- | 3d3	ʌdʌ- 
+blood: ëdë- | 3d3	ʌdʌ- 
+blow: fuw- 
+bone: pasi- | pasi	pasi- 
+boy: nahal pusa\ 
+boy: nahal pusaʔ 
+breast: susu- | susu	susu- 
+brother: ahʌ- 
+brother: ahë- 
+brother: ama- 
+burn: ma:g- 
+burn: maːg- 
+butterfly: balum 
+calf: mualdʌ- 
+calf: mualdë- 
+cassowary: asëu 
+chest: badi- 
+child: nahal 
+chin: sibe- 
+cloud: sap 
+cold: ute:k | utɛːk 
+cold: utɛːk 
+come: do- | do	do- 
+crocodile: ena\ 
+crocodile: ɛnaʔ 
+cut: tër- 
+cut: tʌr- 
+cut: tʌrr- 
+day: me:gu 
+day: tu:ëk 
+day: tuʌːk 
+die: muw- | muw	muw- 
+dig: bo\- 
+dig: boʔ- 
+dig: bo\m- 
+dig: boʔm- 
+dirty: luglugu\pa 
+dirty: lugluguʔpa 
+dog: pei | pEi	pɛi 
+dog: pɛi | pEi	pɛi 
+dry: žesʌːga | žesʌːga 
+dry: zhezë:ga | žesʌːga 
+ear: debu- | debu	debu- 
+earth: wan 
+eat: yafog- | za- 
+eat: za- 
+egg: koki 
+elbow: su:\nëk 
+elbow: suːʔnʌk 
+emu: asʌu 
+excrement: bi 
+eye: ama- | ama	ama- 
+face: ulʌ- 
+face: ulë- 
+fall: ba- 
+fall: tër- 
+far: bihä | bihä 
+far: bihä 
+father: mama- 
+fat (n.): munëg 
+fat (n.): munʌg 
+fear: wan- 
+few: fo:g 
+few: foːg 
+fight: uhɛl- 
+finger: anë:g 
+finger: anʌːg 
+fingernail: dilik 
+fire: ëlëh | 3l3h	ʌlʌh 
+fire: ʌlʌh | 3l3h	ʌlʌh 
+fish: aru 
+fly (n.): bariu 
+fly (n.): barriu 
+fly (n.): goëp 
+fly (n.): goʌp 
+fly (v.): mel- 
+fly (v.): mɛl- 
+fog: dë:g 
+fog: dʌːg 
+forehead: ulë- 
+forest: dup 
+fruit: aug 
+fruit: ëga 
+full: agab 
+full: we- | agab 
+full: wɛ- | agab 
+girl: yes magun 
+girl: yɛs magun 
+girl: yes pusa\ 
+girl: yɛs pusaʔ 
+give: ma- 
+good: näi | näi	näilʔ 
+good: näi | näi	näilʔ 
+good: näilʔ | näi	näilʔ 
+good: nä:li\ | näi	näilʔ 
+grass: kokos 
+green: rawedi 
+guts: u\u- 
+guts: uʔu- 
+hair: ulik 
+head: gʌba- 
+head: gëba- | gʌba- 
+head: tëbela- | gʌba- 
+hear: doh- | doh	doh-	duhu	duhu- 
+hear: duhu- | doh	doh-	duhu	duhu- 
+heart: nibuba- 
+heavy: uhu\ | uhuʔ 
+heavy: uhuʔ 
+here: gilä 
+here: igʌʔ 
+here: igë\ 
+he/she: -\ 
+he/she: -ʔ 
+he/she: -d- 
+he/she: go 
+he/she: -k 
+he/she: -ø- 
+he/she: wom 
+hit: uhel- 
+hold: at- 
+house: sau 
+how: gänim 
+I: dʌʔ | d37	dʌʔ 
+I: dë\ | d37	dʌʔ 
+I: -l- | d37	dʌʔ 
+in: u\ge 
+I: -y | d37	dʌʔ 
+kill: po- 
+knee: gatʌ- amak | gat3 amak	gatʌ- amak 
+knee: gatë- amak | gat3 amak	gatʌ- amak 
+laugh: im- 
+left: nanawa\ 
+left: nanawaʔ 
+leg: bo\- 
+leg: boʔ- 
+lightning: amir ës- 
+lightning: amirr ʌs- 
+liver: ulu- | ulu	ulu- 
+long: kabal 
+louse: mi 
+man: dal 
+man: gëp | dal 
+man: gʌp | dal 
+many: na\pa | naʔpa 
+many: naʔpa 
+meat: me:\ 
+meat: mɛːʔ 
+moon: kalëm | kalʌm 
+moon: kalʌm 
+morning: a:lu\ 
+morning: aːluʔ 
+morning: wanilou 
+mosquito: is 
+mother: ana- 
+mother: nen 
+mother: nɛn 
+mountain: samʌʔ | sam37	samʌʔ 
+mountain: samë\ | sam37	samʌʔ 
+mouth: agʌ- 
+mouth: agë- | agʌ- 
+name: weni- | wEni	wɛni- 
+name: wɛni- | wEni	wɛni- 
+nape: du- 
+navel: natmʌ- 
+navel: natmë- 
+near: adʌ 
+near: adë | adʌ 
+neck: ʌdmu- 
+neck: ëdmu- | ʌdmu- 
+new: awe\ | awe7	aweʔ 
+new: aweʔ | awe7	aweʔ 
+night: tokando | tokando	tokand~o 
+nose: no- | no	no- 
+not: pi 
+old: ahade\ 
+old: ahadeʔ 
+old: sagu\ 
+old: saguʔ 
+old: wagame 
+one: ya\ta | yata	yaʔta 
+one: yaʔta | yata	yaʔta 
+pull: wi\da\- 
+pull: wiʔdaʔ- 
+push: asi- 
+rain: wʌ 
+rain: wë | wʌ 
+rat: duaik 
+red: kaka\ | kakaʔ 
+red: kakaʔ 
+right: ʌbuʔ 
+right: ëbu\ 
+ripe: tagu\ 
+ripe: taguʔ 
+road: i:b | ib 
+road: iːp | ib 
+root: di:k | diːk 
+root: diːk 
+rope: ɔl 
+salt: gagi\ | gagoʔ	soːm 
+salt: gagoʔ | gagoʔ	soːm 
+salt: so:m | gagoʔ	soːm 
+salt: soːm | gagoʔ	soːm 
+sand: lanëg | wis 
+sand: wis 
+say: nin pʌ- | pa ma- 
+say: nin pë- | pa ma- 
+say: pa + "give | pa ma- 
+say: pa ma- 
+scratch: gel- 
+scratch: gɛl- 
+sea: gagi\ 
+sea: gagiʔ 
+see: fa\a- | fE7E	fa7a	faʔa-	fɛʔɛ- 
+see: faʔa- | fE7E	fa7a	faʔa-	fɛʔɛ- 
+see: fe\e- | fE7E	fa7a	faʔa-	fɛʔɛ- 
+see: fɛʔɛ- | fE7E	fa7a	faʔa-	fɛʔɛ- 
+see: ilei- | fE7E	fa7a	faʔa-	fɛʔɛ- 
+sharp: ë:g pa 
+sharp: ʌːg pa 
+sharp: met- 
+short: duini\ | duiniʔ 
+short: duiniʔ 
+shoulder: ima- 
+sing: dugum- 
+sister: iasi- busak 
+sister: iasi- nalʌʔ 
+sister: iasi- nalë\ 
+sit: dʌ- 
+sit: dë- | dʌ- 
+skin: sʌ- | s3	sʌ- 
+skin: së- | s3	sʌ- 
+sky: sap 
+sleep: nig- 
+small: në:la | nʌːla 
+small: nʌːla 
+smell: uru doh- 
+smoke: musi 
+snake: arërek | arʌrrɛk	kosman	muran 
+snake: arʌrrɛk | arʌrrɛk	kosman	muran 
+snake: kosman | arʌrrɛk	kosman	muran 
+snake: kosmän | arʌrrɛk	kosman	muran 
+snake: muran | arʌrrɛk	kosman	muran 
+spit: daluʔ- 
+spit: žɛʔ 
+spit: zhe\ 
+split: pasal- 
+split: tabura- 
+stand: se- 
+stand: se\ed- 
+stand: sɛʔɛd- 
+star: up 
+stick: yuk 
+stone: be | bE	bɛ 
+stone: bɛ | bE	bɛ 
+straight: səkʌʔ 
+straight: sïkë\ 
+sun: ʌː 
+sun: ë: | ʌː 
+swell: tirt- 
+tail: udik 
+take: au- 
+that: won 
+there: ugʌʔ 
+there: ugë\ 
+they: god 
+they two: on me-\ pa 
+they: won 
+they: -yad- 
+they: -yak 
+thigh: pisi- 
+think: dep me- 
+think: dep mɛ- 
+this: yen | yɛn 
+this: yɛn 
+thou: -di- | n3g	nʌg 
+thou: ʌg | n3g	nʌg 
+thou: -n | n3g	nʌg 
+thou: nëg | n3g	nʌg 
+thou: nʌg | n3g	nʌg 
+thou: -yad- | n3g	nʌg 
+thou: -yak | n3g	nʌg 
+throat: adugu- 
+throw: fe- 
+throw: fɛ- 
+thunder: sʌb po- 
+thunder: sëb po- 
+tie: wi\da- 
+tie: wiʔda- 
+tomorrow: ilë:p 
+tomorrow: tia\ 
+tomorrow: tiaʔ 
+tongue: milëlu- | mil3lu	milʌlu- 
+tongue: milʌlu- | mil3lu	milʌlu- 
+tooth: ʌʔʌ- | 373	ʌʔʌ- 
+tooth: ë\ë- | 373	ʌʔʌ- 
+tree: aːnuk | 3p 
+tree: ep | 3p 
+tree: ɛp | 3p 
+tree: muː | 3p 
+turn: pilau- 
+two: ail | ail	ailyaʔta	yEl	yɛl 
+two: ailyaʔta | ail	ailyaʔta	yEl	yɛl 
+two: yel | ail	ailyaʔta	yEl	yɛl 
+two: yɛl | ail	ailyaʔta	yEl	yɛl 
+vagina: bu- 
+vomit: pasi- 
+walk: ib- 
+walk: pali- | ib- 
+walk: wa- | ib- 
+wallaby: gë:t 
+wallaby: gʌːt 
+warm: dʌbak 
+warm: dëbak 
+wash: ia\- 
+wash: iaʔ- 
+wash: ia\a- 
+wash: iaʔa- 
+water: ilo: | ilo	iloː 
+water: iloː | ilo	iloː 
+weep: ai- 
+we: -t | yit 
+we: -t- | yit 
+we two: dë nëg pa (?) 
+wet: žeːʔpa 
+wet: zhe:\pa 
+we: yit 
+what: ya\ | yaʔ 
+what: yaʔ 
+where: adek 
+white: sasara 
+who: wän | wän 
+who: wän 
+wind: wet | wɛt 
+wind: wɛt 
+wing: ugu\ 
+wing: uguʔ 
+woman: anë:g | yɛs 
+woman: anʌːg | yɛs 
+woman: yes | yɛs 
+woman: yɛs 
+wood: du 
+wood: yuk 
+yellow: maliʌʔ 
+yellow: malië\ | maliʌʔ 
+yesterday: tuta 
+yesterday: umta 
+yes: uo 
+you: ëg | n3g	nʌg 
+you two: nëg me-n pa 
+you: -yad- | n3g	nʌg 
+you: -yak | n3g	nʌg 
+every: bubuta 
+ash: dehi 
+abdomen: wo- sʌʔ 
+bigness: busaʔ 
+large: busaʔ 
+breasts: susu	susu- 
+come from: do	do- 
+be dead: muw	muw- 
+dead: muw	muw- 
+ground: wan 
+land: wan 
+soil: wan 
+fly: mɛl- 
+fly v.: mɛl- 
+1 sg.: d37	dʌʔ 
+head louse: mi 
+male: dal 
+much: naʔpa 
+multiple: naʔpa 
+several: naʔpa 
+hill: sam37	samʌʔ 
+title: wEni	wɛni- 
+nighttime: tokando	tokand~o 
+adulterous: yata	yaʔta 
+single: yata	yaʔta 
+the: yata	yaʔta 
+unprincipled: yata	yaʔta 
+rainy weather: wʌ 
+path: ib 
+route: ib 
+hide: s3	sʌ- 
+little: nʌːla 
+smallness: nʌːla 
+rock: bE	bɛ 
+2 sg: n3g	nʌg 
+grind: ail	ailyaʔta	yEl	yɛl 
+go: ib- 
+1 pl. inc.: yit 
+we₁: yit 
+whiteness: sasara 
+who?: wän 
+female: yɛs 
+distant: bihä 
+dull: uhuʔ 
+serious: uhuʔ 
+close: adʌ 
+ner: adʌ 

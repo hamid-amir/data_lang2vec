@@ -1,0 +1,160 @@
+all: awoha 
+arm: si 
+ashes: dumu 
+bark: pavi kene 
+belly: kaburu 
+big: makuvu 
+bird: kae 
+bite: hae 
+black: su 
+blood: kei 
+bone: havo 
+breast: shu | Su	šu 
+breast: šu | Su	šu 
+burn: nafainau 
+claw: si mavo 
+cloud: urumu 
+cold: kimini 
+come: bine 
+die: aya kaskenabo | aya keskenabo 
+die: aya keskenabo 
+dog: kase 
+drink: movanae 
+drink: mowanae | movanae 
+dry: panakénainau | penekenainau 
+dry: penekenainau 
+ear: kovi 
+earth: boromo 
+eat: damanai 
+egg: mena hai 
+eye: isi 
+fat (n.): gadi 
+fat (n.): koho 
+feather: kae bolo 
+fire: kumu 
+fish: moi 
+fly (v.): bukawane 
+full: filikinanau 
+give: iniri ore 
+good: daro 
+green: noha 
+hair: mahabero 
+hair: maha-bero | mahabero 
+head: mawo 
+hear: aienau 
+heart: evi 
+horn: keseka 
+I: ina 
+kill: duwa tekenanau 
+knee: murame 
+know: ia koabe | la koabe 
+know: la koabe 
+leaf: ibolo 
+leaf: i-bolo | ibolo 
+leg: hai 
+lie: boromane bisa 
+liver: to\i to\i | to7i to7i	toʔi toʔi 
+liver: toʔi toʔi | to7i to7i	toʔi toʔi 
+long: koke\a | kokeʔa 
+long: kokeʔa 
+louse: kulamu 
+man: gamin 
+man: (o)gamin 
+many: uruwao 
+meat: mis 
+moon: baira 
+mountain: kama 
+mouth: kobo 
+name: nenena 
+neck: boko 
+new: mikasi 
+night: same 
+nose: sorowu 
+one: sakaina 
+rain: kavo 
+red: kumu 
+road: dike 
+round: biri 
+sand: wio 
+say: mina kene | wio 
+seed: kovai 
+see: toanau 
+sit: kevitire 
+skin: kebo 
+sleep: bisiniha 
+small: kateane 
+smoke: kumu sini 
+stand: hakurure 
+star: kuini 
+star: kuíni | kuini 
+stone: kamu 
+sun: soa 
+swim: mowatofe 
+tail: kase koʷ | kase koᵘ 
+tail: kase kou | kase koᵘ 
+that: asao 
+this: enao 
+thou: iyu 
+tongue: komene 
+tooth: kokame 
+tree: i 
+two: hatarari 
+walk: uwai 
+warm: evi 
+water: fae 
+we (incl.): awoha 
+we (incl.): nana 
+we (incl.): nana awoha 
+what: ba 
+white: sevea 
+who: aiyema 
+woman: bes 
+yellow: lara 
+every: awoha 
+ash: dumu 
+abdomen: kaburu 
+bigness: makuvu 
+large: makuvu 
+breasts: Su	šu 
+nail: si mavo 
+talon: si mavo 
+come from: bine 
+be dead: aya keskenabo 
+dead: aya keskenabo 
+ground: boromo 
+land: boromo 
+soil: boromo 
+fly: bukawane 
+fly v.: bukawane 
+1 sg.: ina 
+be knowledgeable: la koabe 
+lie down: boromane bisa 
+head louse: kulamu 
+male: gamin 
+much: uruwao 
+multiple: uruwao 
+several: uruwao 
+hill: kama 
+title: nenena 
+nighttime: same 
+adulterous: sakaina 
+single: sakaina 
+the: sakaina 
+unprincipled: sakaina 
+rainy weather: kavo 
+path: dike 
+route: dike 
+hide: kebo 
+little: kateane 
+smallness: kateane 
+rock: kamu 
+2 sg: iyu 
+you: iyu 
+grind: hatarari 
+go: uwai 
+1 pl. inc.: nana awoha 
+we: nana awoha 
+we₁: nana awoha 
+whiteness: sevea 
+who?: aiyema 
+female: bes 

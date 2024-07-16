@@ -1,0 +1,852 @@
+all: enomakanuma | enomakanuma	matawa 
+all: matawa | enomakanuma	matawa 
+ankle: tai akuma 
+ankle: taia kuma 
+arm: gombu 
+arm: ingo 
+arm: iŋo 
+arm: ipa 
+arm: ipa tutu 
+arrow: unini gi 
+ashes: aewa | aewa	aiwa	aβetu	ingotu 
+ashes: aiwa | aewa	aiwa	aβetu	ingotu 
+ashes: aßetu | aewa	aiwa	aβetu	ingotu 
+ashes: aßiga | aewa	aiwa	aβetu	ingotu 
+ashes: avetu | aewa	aiwa	aβetu	ingotu 
+ashes: aviga | aewa	aiwa	aβetu	ingotu 
+ashes: ingotu | aewa	aiwa	aβetu	ingotu 
+back: asiŋa | guŋ 
+back: guŋ 
+back: guŋ veto 
+bad: bebegae | bebegae	beiae	beyai 
+bad: beiae | bebegae	beiae	beyai 
+bad: beiai | bebegae	beiae	beyai 
+bad: beyai | bebegae	beiae	beyai 
+bark: ainto | ainto	ituka anito 
+bark: ituka anito | ainto	ituka anito 
+because: aiŋ 
+belly: gomo ogo | gomo ogo	minǯi	osi	ovivi tumbu	sini 
+belly: minǯi | gomo ogo	minǯi	osi	ovivi tumbu	sini 
+belly: omboge | gomo ogo	minǯi	osi	ovivi tumbu	sini 
+belly: osi | gomo ogo	minǯi	osi	ovivi tumbu	sini 
+belly: oti | gomo ogo	minǯi	osi	ovivi tumbu	sini 
+belly: ovivi tumbu | gomo ogo	minǯi	osi	ovivi tumbu	sini 
+belly: sini | gomo ogo	minǯi	osi	ovivi tumbu	sini 
+belly: vitumu | gomo ogo	minǯi	osi	ovivi tumbu	sini 
+big: ba(d)zina | bazina	siakabadae	čiyakabada 
+big: bazina | bazina	siakabadae	čiyakabada 
+big: čiyakabada | bazina	siakabadae	čiyakabada 
+big: ponoro | bazina	siakabadae	čiyakabada 
+big: siakabadae | bazina	siakabadae	čiyakabada 
+bird: di | ni 
+bird: ni 
+bite: gambare | gambare	gambarigambari 
+bite: gambari | gambare	gambarigambari 
+bite: gambarigambari | gambare	gambarigambari 
+bite: iatari | gambare	gambarigambari 
+bite: indari | gambare	gambarigambari 
+bite: toaki ari | gambare	gambarigambari 
+bitter: dokaka 
+black: ingatapari | ingatapari	munya	ogu 
+black: munya | ingatapari	munya	ogu 
+black: ogu | ingatapari	munya	ogu 
+blood: ororo 
+blood: ororomi 
+blow: putari 
+bone: undoru | undoru	vetu 
+bone: vetu | undoru	vetu 
+boy: mai 
+branch: bonga | bonga	papamo	patu 
+branch: papamo | bonga	papamo	patu 
+branch: patu | bonga	papamo	patu 
+breast: ami 
+breast: diǯi | ami 
+breast: emi | ami 
+breathe: odana | odana	opu ari 
+breathe: opu | odana	opu ari 
+breathe: opu ari | odana	opu ari 
+brother: baǯina 
+brother: namenǯi 
+brother: naminǯi 
+brother: siaka 
+burn: benibari 
+burn: duŋari 
+butterfly: baiwa 
+butterfly: koriwa 
+butterfly: uve 
+calf: taida-mu-ndu 
+calf: tai pamo 
+cheek: opu 
+chest: gomo 
+chest: opopo 
+child: gagara siaka | mai	naka 
+child: mai | mai	naka 
+child: mai/bebaegari | mai	naka 
+child: mai siaka | mai	naka 
+child: naka | mai	naka 
+chin: ototo 
+claw: daŋgisi | ingisi 
+cloud: gumbo | iŋa gaiyari	poraga	utu 
+cloud: iŋa gaiyari | iŋa gaiyari	poraga	utu 
+cloud: poraga | iŋa gaiyari	poraga	utu 
+cloud: utu | iŋa gaiyari	poraga	utu 
+cold: dademo | dademo	dademu	damodamo 
+cold: dademu | dademo	dademu	damodamo 
+cold: damodamo | dademo	dademu	damodamo 
+come: gumbari | gumbari	purari 
+come: purari | gumbari	purari 
+count: aǯigari | aǯigari 
+crocodile: gegera 
+crocodile: imbaga 
+crocodile: ingaba 
+cut: gatari | ǯugari 
+cut: ǯugari | ǯugari 
+dark: muɲa tumba 
+dark: munya 
+dark: tumba 
+daughter: gagara 
+daughter: mai ai 
+day: iɟi | iǯi 
+day: iji | iǯi 
+day: iǯi | iǯi 
+day: iǯi bedesia | iǯi 
+day: yoyoesia | iǯi 
+die: ambari | ambari	betari 
+die: betari | ambari	betari 
+die: kainyari | ambari	betari 
+die: patari | ambari	betari 
+dig: adegari | awaegari	bur-	durari 
+dig: awaegari | awaegari	bur-	durari 
+dig: bur- | awaegari	bur-	durari 
+dig: durari | awaegari	bur-	durari 
+dig: goiari | awaegari	bur-	durari 
+dig: goiyari | awaegari	bur-	durari 
+dig: mapari | awaegari	bur-	durari 
+dog: ino | sino 
+dog: sino 
+drink: indari | indari	uindari	uŋ indari 
+drink: uindari | indari	uindari	uŋ indari 
+drink: uŋ indari | indari	uindari	uŋ indari 
+dry: dumbari | dumbari	kia kaia 
+dry: kia kaia | dumbari	kia kaia 
+dry: paembari | dumbari	kia kaia 
+dry: tanambari | dumbari	kia kaia 
+dust: popo 
+ear: deng(g)oro | deNgoro	dengoro	deŋgoro	deŋoro 
+ear: deŋgoro | deNgoro	dengoro	deŋgoro	deŋoro 
+ear: dengoro | deNgoro	dengoro	deŋgoro	deŋoro 
+ear: deŋoro | deNgoro	dengoro	deŋgoro	deŋoro 
+ear: tangere | deNgoro	dengoro	deŋgoro	deŋoro 
+ear: tanggere | deNgoro	dengoro	deŋgoro	deŋoro 
+earth: buču | butu 
+earth: butu 
+eat: indari | ind-ari	indari 
+eat: ind-ari | ind-ari	indari 
+eat: indogari | ind-ari	indari 
+egg: goaŋ | mundu 
+egg: koira | mundu 
+egg: mu | mundu 
+egg: mundu 
+elbow: ipambugu 
+elbow: umbugo 
+emu: boke 
+emu: tomboru 
+eye: diǯi | diǯi	gisi moka	ǯisi	ɟisi 
+eye: gisi moka | diǯi	gisi moka	ǯisi	ɟisi 
+eye: ɟisi | diǯi	gisi moka	ǯisi	ɟisi 
+eye: jisi | diǯi	gisi moka	ǯisi	ɟisi 
+eye: kiti | diǯi	gisi moka	ǯisi	ɟisi 
+eye: ǯipatu | diǯi	gisi moka	ǯisi	ɟisi 
+eye: ǯisi | diǯi	gisi moka	ǯisi	ɟisi 
+eye: ǯisi papari | diǯi	gisi moka	ǯisi	ɟisi 
+eye: ǯisi patu | diǯi	gisi moka	ǯisi	ɟisi 
+eye: ǯisi poŋ | diǯi	gisi moka	ǯisi	ɟisi 
+eye: ǯisi tu | diǯi	gisi moka	ǯisi	ɟisi 
+eye: ǯiworu | diǯi	gisi moka	ǯisi	ɟisi 
+face: dombu 
+face: ǯisi moka 
+fall: durari | durari	kepu ari	teugari 
+fall: kepu ari | durari	kepu ari	teugari 
+fall: teugari | durari	kepu ari	teugari 
+far: aike | aike	betau 
+far: betau | aike	betau 
+father: mama | mama	mamo 
+father: mamaka | mama	mamo 
+father: mamo | mama	mamo 
+fat (n.): badari 
+fat (n.): gavi 
+fear: adu 
+fear: adu ari 
+fear: gomo badari | adu 
+fear: ioru ari | adu 
+feather: agu | agu	tu 
+feather: tu | agu	tu 
+few: endawae | endawae	enumae	enumai	kira ango 
+few: enumae | endawae	enumae	enumai	kira ango 
+few: enumai | endawae	enumae	enumai	kira ango 
+few: kira ango | endawae	enumae	enumai	kira ango 
+fight: mina darai 
+finger: ao 
+finger: gunguto 
+finger: iŋo čiŋo 
+finger: ipa-toro 
+fingernail: ingisi 
+finger: singu 
+finger: toro 
+fire: buiŋ | ni	niao	niyau 
+fire: (d)zi | ni	niao	niyau 
+fire: ngenge | ni	niao	niyau 
+fire: ni | ni	niao	niyau 
+fire: niao | ni	niao	niyau 
+fire: ni sisi | ni	niao	niyau 
+fire: niyau | ni	niao	niyau 
+fire: zi | ni	niao	niyau 
+fish: wo 
+five: iŋo da | ingo da	ipa da	iŋo da 
+five: ipa da | ingo da	ipa da	iŋo da 
+float: pekapeka ari | pekapeka ari	petaku	siwari 
+float: petaku | pekapeka ari	petaku	siwari 
+float: siwari | pekapeka ari	petaku	siwari 
+flower: be | be	uǯi 
+flower: uǯi | be	uǯi 
+fly (n.): tomeni 
+fly (v.): aito-simbari 
+fly (v.): obaoba 
+fly (v.): omari 
+fog: goči | gosi	goči	gumbo	vuvuru 
+fog: gosi | gosi	goči	gumbo	vuvuru 
+fog: gumbo | gosi	goči	gumbo	vuvuru 
+fog: vuvuru | gosi	goči	gumbo	vuvuru 
+foot: tai | tai	taido 
+foot: tai atu | tai	taido 
+foot: taido | tai	taido 
+foot: tai do | tai	taido 
+foot: tei | tai	taido 
+foot: tei ~ utu | tai	taido 
+foot: utu | tai	taido 
+forehead: beo 
+forest: poraga | poraga	taote 
+forest: taote | poraga	taote 
+four: ganǯida | ganǯida	ipa ao pasido	tamode da gagani 
+four: ipa ao pasido | ganǯida	ipa ao pasido	tamode da gagani 
+fruit: be 
+fruit: tao | be 
+full: adegari | beda	daimbari 
+full: beda | beda	daimbari 
+full: daimbari | beda	daimbari 
+girl: gagara 
+give: piari | pi-ari	piyari 
+give: pi-ari | pi-ari	piyari 
+give: piyari | pi-ari	piyari 
+good: beiamana | beiamana	ewa 
+good: ewa | beiamana	ewa 
+grass: iakara | iakara	manene	opema	yekena 
+grass: manene | iakara	manene	opema	yekena 
+grass: opema | iakara	manene	opema	yekena 
+grass: yekena | iakara	manene	opema	yekena 
+green: kokoro 
+guts: de | de kauŋ 
+guts: de kauŋ 
+hair: giči | giči	koporu tu	tu 
+hair: koporu tu | giči	koporu tu	tu 
+hair: (kopuru) tu | giči	koporu tu	tu 
+hair: ohoru | giči	koporu tu	tu 
+hair: tu | giči	koporu tu	tu 
+hand: ingo | ingo	ipa	iŋo 
+hand: iŋo | ingo	ipa	iŋo 
+hand: ipa | ingo	ipa	iŋo 
+hand: ipa do | ingo	ipa	iŋo 
+hand: umbuto | ingo	ipa	iŋo 
+head: iti tu | kopiri	koporu	kopuri	kopuru 
+head: kiti tu | kopiri	koporu	kopuri	kopuru 
+head: kopiri | kopiri	koporu	kopuri	kopuru 
+head: koporu | kopiri	koporu	kopuri	kopuru 
+head: kopuri | kopiri	koporu	kopuri	kopuru 
+head: kopuru | kopiri	koporu	kopuri	kopuru 
+hear: dengoromi gari | dengoromi gari	ingari	iŋena 
+hear: gari | dengoromi gari	ingari	iŋena 
+hear: ge gari | dengoromi gari	ingari	iŋena 
+hear: ingari | dengoromi gari	ingari	iŋena 
+hear: iŋena | dengoromi gari	ingari	iŋena 
+heart: ubowa 
+heavy: bouga | bouga	dunda 
+heavy: dunda | bouga	dunda 
+here: einda 
+he/she: aawa 
+he/she: awa/owa 
+he/she: da 
+he/she: ounda 
+he/she: owa 
+he/she: owawa 
+he/she: u-mo 
+hit: dari | mau endodari 
+hit: mau endodari 
+hole: kopu 
+hole: koto 
+hole: to 
+hole: uro 
+hole: uwari 
+horn: ǯi | Zi	ǯi 
+house: mando 
+house: oro 
+how: nomi 
+hunt: wovi ari 
+husband: iu | yu 
+husband: yu 
+I: na 
+I: nato 
+I: na-to 
+in: -da | -da	dou 
+in: dou | -da	dou 
+jaw: ototo 
+kill: wakokori-gi-topu | wakori gitopu 
+kill: wakori gitopu 
+knee: banggo | baNgo	baongo	baŋgo	baŋo 
+knee: baŋgo | baNgo	baongo	baŋgo	baŋo 
+knee: baŋo | baNgo	baongo	baŋgo	baŋo 
+knee: baongo | baNgo	baongo	baŋgo	baŋo 
+knee: baongo kouwa | baNgo	baongo	baŋgo	baŋo 
+knee: genǯiba | baNgo	baongo	baŋgo	baŋo 
+knee: koma | baNgo	baongo	baŋgo	baŋo 
+knee: pange | baNgo	baongo	baŋgo	baŋo 
+knee: pangge | baNgo	baongo	baŋgo	baŋo 
+know: awate | gari	iŋena 
+know: gari | gari	iŋena 
+know: iŋena | gari	iŋena 
+know: kotebari | gari	iŋena 
+lake: boma | ǯirora 
+lake: ǯirora | ǯirora 
+lake: ǯiǯoro | ǯirora 
+laugh: iro ari | iro ari	iru 
+laugh: iru | iro ari	iru 
+leaf: (d)zi iki | gi	giba	igi	niŋgi 
+leaf: gi | gi	giba	igi	niŋgi 
+leaf: giba | gi	giba	igi	niŋgi 
+leaf: gi(ba) | gi	giba	igi	niŋgi 
+leaf: igi | gi	giba	igi	niŋgi 
+leaf: ning-gi | gi	giba	igi	niŋgi 
+leaf: niŋgi | gi	giba	igi	niŋgi 
+leaf: zi iki | gi	giba	igi	niŋgi 
+left: anda 
+leg: tai | tai	udu 
+leg: udu | tai	udu 
+lie: awari | turo devari	ǯitao awari | ge pitawa tari	pitawa 
+lie: turo devari | turo devari	ǯitao awari | ge pitawa tari	pitawa 
+lie: ǯitao awari | turo devari	ǯitao awari | ge pitawa tari	pitawa 
+lightning: birigi 
+lightning: tarara 
+lip: begisi 
+lip: be gisi 
+lip: be-gisi 
+liver: gomo 
+live: wasiri 
+live: wasiri ari 
+long: koae | libori	ribori 
+long: libori | libori	ribori 
+long: ribori | libori	ribori 
+louse: jing 
+louse: nyoma | jing 
+louse: nyonga | jing 
+louse: toipa | jing 
+louse: ǯi | jing 
+louse: ǯiŋ | jing 
+louse: ǯi toma | jing 
+man: embo 
+man: jianda | embo 
+man: mai | embo 
+many: enuma | enuma	ǯiwadawai	ǯiwae 
+many: ǯiwadawai | enuma	ǯiwadawai	ǯiwae 
+many: ǯiwae | enuma	ǯiwadawai	ǯiwae 
+man: ǯianda | embo 
+meat: pisi | pisi	wo 
+meat: wo | pisi	wo 
+moon: hariga | kaliga	kariga 
+moon: kaliga | kaliga	kariga 
+moon: kariga | kaliga	kariga 
+moon: kariga aroro | kaliga	kariga 
+moon: kariga opito | kaliga	kariga 
+morning: čipo 
+morning: sipo 
+morning: sipo atari 
+mosquito: denda 
+mother: ai | ai	aiya 
+mother: aiya | ai	aiya 
+mountain: peji | peji	peǯi	ǯiri 
+mountain: peǯi | peji	peǯi	ǯiri 
+mountain: ǯiri | peji	peǯi	ǯiri 
+mouth: be 
+mouth: pe | be 
+name: aviri | aviri	dadu	dao	dawo	nombo 
+name: dadu | aviri	dadu	dao	dawo	nombo 
+name: dao | aviri	dadu	dao	dawo	nombo 
+name: dawo | aviri	dadu	dao	dawo	nombo 
+name: nombo | aviri	dadu	dao	dawo	nombo 
+nape: tumo tutu 
+narrow: atoae 
+navel: ovivi 
+near: aikae | aikae	aikai 
+near: aikai | aikae	aikai 
+neck: dubo | dubo	tumo	tumotutu 
+neck: tumo | dubo	tumo	tumotutu 
+neck: tumotutu | dubo	tumo	tumotutu 
+new: teka 
+night: muɲa | mu5a	muɲa	tumba 
+night: muña | mu5a	muɲa	tumba 
+night: tumba | mu5a	muɲa	tumba 
+night: turo | mu5a	muɲa	tumba 
+night: turo ǯirari | mu5a	muɲa	tumba 
+nose: mende | mendo	mendoto 
+nose: mendo to | mendo	mendoto 
+nose: mendo(-to) | mendo	mendoto 
+not: ae 
+old: ari owo 
+old: begogo 
+old: embo owo 
+old: kaua ari 
+old: matu 
+one: da | da	dakaki 
+one: dakaki | da	dakaki 
+one: gisini | da	dakaki 
+other: eve | eve	nei 
+other: nei | eve	nei 
+person: embo 
+play: tetenya ari 
+pull: ǯi 
+push: atugari | ǯiyari 
+push: mitari | ǯiyari 
+push: sindari | ǯiyari 
+push: ǯiyari | ǯiyari 
+rain: ba | wa 
+rain: ga | wa 
+rain: wa 
+rat: bundua 
+rat: gatara 
+rat: kandoro 
+rat: tona 
+red: manema | tari 
+red: tari 
+right: be | ingo	ipa	iŋo 
+ripe: čari 
+ripe: tari 
+river: kumusi | utou 
+river: uriri | utou 
+river: utou 
+road: begata 
+road: deitamo | begata 
+road: ebata | begata 
+root: (d)zi susu | nitai	tai 
+root: nitai | nitai	tai 
+root: (ni-)tai | nitai	tai 
+root: tai | nitai	tai 
+root: zi susu | nitai	tai 
+rope: ači | asi	bupuri	buri	goga 
+rope: asi | asi	bupuri	buri	goga 
+rope: bupuri | asi	bupuri	buri	goga 
+rope: buri | asi	bupuri	buri	goga 
+rope: goga | asi	bupuri	buri	goga 
+rotten: betari | betari	mumunia 
+rotten: buto | betari	mumunia 
+rotten: mumunia | betari	mumunia 
+rub: datari | datari	gaigari	gaimbari 
+rub: gaigari | datari	gaigari	gaimbari 
+rub: gaimbari | datari	gaigari	gaimbari 
+salt: kačo | kato	kačo 
+salt: kato | kato	kačo 
+sand: den | kora 
+sand: koita | kora 
+sand: kora 
+say: ge-tari | t-ari | kora 
+say: tari | t-ari | kora 
+say: t-ari | kora 
+scratch: adari 
+scratch: batari 
+scratch: mamboro ari 
+sea: čina 
+sea: evada 
+sea: ewa 
+sea: iawata 
+sea: sina 
+seed: ve 
+see: gari | gari	gena 
+see: gena | gari	gena 
+see: ǯisini ari | gari	gena 
+sew: arari | korikori	pirari 
+sew: gembari | korikori	pirari 
+sew: korikori | korikori	pirari 
+sew: kuoro ǯiari | korikori	pirari 
+sew: pirari | korikori	pirari 
+sew: tendari | korikori	pirari 
+sharp: ǯi | ǯi	ǯi ǯiwae 
+sharp: ǯi ǯiwae | ǯi	ǯi ǯiwae 
+short: tufo | tufo	tupo 
+short: tupo | tufo	tupo 
+shoulder: apapa 
+shoulder: apapa koira 
+shoulder: gapo 
+sing: čira | ia tari	čira 
+sing: ia tari | ia tari	čira 
+sister: lu 
+sister: ru 
+sit: anubari | anubari	anumbari 
+sit: anumbari | anubari	anumbari 
+skin: ain(g)to | aingto	ainto	anito	tama	tamo 
+skin: ainto | aingto	ainto	anito	tama	tamo 
+skin: ainto simbari | aingto	ainto	anito	tama	tamo 
+skin: anito | aingto	ainto	anito	tama	tamo 
+skin: larago | aingto	ainto	anito	tama	tamo 
+skin: tama | aingto	ainto	anito	tama	tamo 
+skin: tamo | aingto	ainto	anito	tama	tamo 
+sky: utu 
+sleep: jitao-awari | ǯitao awari 
+sleep: ǯitao awari | ǯitao awari 
+small: babainggae | siaka	čiyaka 
+small: čiyaka | siaka	čiyaka 
+small: isapa | siaka	čiyaka 
+small: siaka | siaka	čiyaka 
+smell: mata | mimbari	muneŋari 
+smell: muneŋari | mimbari	muneŋari 
+smell: munu | mimbari	muneŋari 
+smoke: ikotu | imbosi	imboči 
+smoke: imboči | imbosi	imboči 
+smoke: imbosi | imbosi	imboči 
+smoke: inga | imbosi	imboči 
+smoke: ipoi | imbosi	imboči 
+smooth: kokota 
+snake: jimango | žimaŋo	ǯimbago 
+snake: jimbago | žimaŋo	ǯimbago 
+snake: žimaŋo | žimaŋo	ǯimbago 
+snake: ǯimbago | žimaŋo	ǯimbago 
+son: mai 
+sour: buto 
+sour: jingani 
+sour: ǯingani 
+spit: arebo | kosiwa ari	kočiva 
+spit: kosiwa | kosiwa ari	kočiva 
+split: dari augari | dari augari	darigari	peyari 
+split: darigari | dari augari	darigari	peyari 
+split: peyari | dari augari	darigari	peyari 
+squeeze: papari | papari	tapotapo	tapotapo ari	tendari 
+squeeze: tapotapo | papari	tapotapo	tapotapo ari	tendari 
+squeeze: tapotapo ari | papari	tapotapo	tapotapo ari	tendari 
+squeeze: tendari | papari	tapotapo	tapotapo ari	tendari 
+stand: erari | petari 
+stand: petari 
+star: dabori | dabori	damana 
+star: damana | dabori	damana 
+star: dumaiŋ | dabori	damana 
+star: tapori | dabori	damana 
+stick: ukuta | bonga	papamo	patu 
+stone: atara | baNga	baŋa	baŋga	ganuma 
+stone: baŋa | baNga	baŋa	baŋga	ganuma 
+stone: bangga | baNga	baŋa	baŋga	ganuma 
+stone: baŋga | baNga	baŋa	baŋga	ganuma 
+stone: ganuma | baNga	baŋa	baŋga	ganuma 
+stone: ponoro | baNga	baŋa	baŋga	ganuma 
+straight: kokopi 
+suck: ami gaiari | dopu ari	dopudopu ari 
+suck: ami indari | dopu ari	dopudopu ari 
+suck: ami piari | dopu ari	dopudopu ari 
+suck: dopu ari | dopu ari	dopudopu ari 
+suck: dopudopu ari | dopu ari	dopudopu ari 
+sun: i(d)zi | iji	izi	iǯi	tani 
+sun: iji | iji	izi	iǯi	tani 
+sun: izi | iji	izi	iǯi	tani 
+sun: iǯi | iji	izi	iǯi	tani 
+sun: tani | iji	izi	iǯi	tani 
+sweet: be-damodamo 
+sweet: pika gama 
+swell: dongari 
+swim: dawari | dawari	uŋ dawari 
+swim: uŋ dawari | dawari	uŋ dawari 
+tail: agu | ǯimbi	ǯimi 
+tail: ma dawari | ǯimbi	ǯimi 
+tail: ǯimbi | ǯimbi	ǯimi 
+tail: ǯimi | ǯimbi	ǯimi 
+take: beono 
+take: beono ari 
+take: bundari 
+take: kumbari 
+that: eyava | eyava	owa | da	dakaki 
+that: owa | eyava	owa | da	dakaki 
+that: owamane | eyava	owa | da	dakaki 
+there: ainda | ainda	ounda 
+there: ounda | ainda	ounda 
+they: awamane | awamane	owawa 
+they: awa-mane | awamane	owawa 
+they: emboainda | awamane	owawa 
+they: owawa | awamane	owawa 
+they two: ima adade 
+they two: owa tote 
+they: u-nggo | awamane	owawa 
+thick: puruta 
+thigh: tope 
+thigh: udu 
+thin: čičinu | virarae	čičinu 
+thin: garoroari | virarae	čičinu 
+thin: jijinu | virarae	čičinu 
+think: katemb- | katemb-	kotebari 
+think: kotebari | katemb-	kotebari 
+thin: virarae | virarae	čičinu 
+this: eiwa 
+this: eiwamane 
+thorn: bebe 
+thou: imo | imo	imomane 
+thou: imomane | imo	imomane 
+thou: ito | imo	imomane 
+thou: i-to | imo	imomane 
+thou: itomane | imo	imomane 
+thou: mo | imo	imomane 
+thou: umo | imo	imomane 
+three: tamonde | tamode	tamonde	tamunde 
+three: tamunde | tamode	tamonde	tamunde 
+three: tote da gagane | tamode	tamonde	tamunde 
+throat: duba 
+throat: dubo 
+throat: dubo boru 
+throw: akiri ari | akiri ari	augana 
+throw: augana | akiri ari	augana 
+thunder: duberi 
+thunder: dunana 
+thunder: gururu 
+thunder: tarara 
+tie: kanǯigari | kanǯigari 
+tie: udari | kanǯigari 
+today: boroko 
+tomorrow: amema 
+tomorrow: turode 
+tongue: iɣiɣi | iveve	iwawa 
+tongue: iveve | iveve	iwawa 
+tongue: ivivi | iveve	iwawa 
+tongue: iwawa | iveve	iwawa 
+tooth: bono | di	ji	ǯi 
+tooth: di | di	ji	ǯi 
+tooth: ji | di	ji	ǯi 
+tooth: kore | di	ji	ǯi 
+tooth: ti | di	ji	ǯi 
+tooth: ǯi | di	ji	ǯi 
+tooth: ǯi eno | di	ji	ǯi 
+tooth: ǯi gugu | di	ji	ǯi 
+tooth: ǯi kore | di	ji	ǯi 
+tree: (d)ziuhu | maibe	ni 
+tree: ituka | maibe	ni 
+tree: maibe | maibe	ni 
+tree: ni | maibe	ni 
+tree: tutu | maibe	ni 
+tree: ziuhu | maibe	ni 
+turn: engenembari 
+two: da da gagane | tote 
+two: tote 
+unripe: gainya 
+unripe: ganya 
+vagina: a 
+vagina: pisi 
+vomit: bero turafi | bero turafi	beroturari 
+vomit: beroturari | bero turafi	beroturari 
+walk: bambari | emboda 
+walk: bamb-ari | emboda 
+walk: embari | emboda 
+walk: emboda 
+walk: tumari | emboda 
+walk: tumbari | emboda 
+wallaby: dambura 
+wallaby: dauru 
+warm: vevera 
+wash: teiari | teiari	teyari 
+wash: teyari | teiari	teyari 
+wash: uŋ gutari | teiari	teyari 
+water: boboku | kumuči	ou	u	u*	uŋ	ũ 
+water: kumuči | kumuči	ou	u	u*	uŋ	ũ 
+water: mambari | kumuči	ou	u	u*	uŋ	ũ 
+water: ou | kumuči	ou	u	u*	uŋ	ũ 
+water: ou ~ u͂ | kumuči	ou	u	u*	uŋ	ũ 
+water: u | kumuči	ou	u	u*	uŋ	ũ 
+water: u͂ | kumuči	ou	u	u*	uŋ	ũ 
+water: umo | kumuči	ou	u	u*	uŋ	ũ 
+water: ung | kumuči	ou	u	u*	uŋ	ũ 
+water: uŋ | kumuči	ou	u	u*	uŋ	ũ 
+water: unh | kumuči	ou	u	u*	uŋ	ũ 
+weep: ji 
+weep: ji-tari 
+weep: ǯi 
+weep: ǯiǯiu 
+we (excl.): nakare 
+we (excl.): natokare 
+we (incl.): kaena 
+we (incl.): kaenato 
+we: iŋe | kaena 
+we: kaenato 
+we: kaena(-to) 
+we: nakare | kaena 
+we: nako | kaena 
+wet: betari | betari	nukari	sikoko 
+wet: nukari | betari	nukari	sikoko 
+wet: sikoko | betari	nukari	sikoko 
+we two (excl.): nagenato 
+we two (excl.): nagena tote 
+we two (incl.): inge 
+we two (incl.): ingenato 
+we two (incl.): ingena tote 
+we two (incl.): nadade 
+we two: nadade 
+what: aßeri | aβeri	ro-	rori 
+what: indawa | aβeri	ro-	rori 
+what: ro- | aβeri	ro-	rori 
+what: rori | aβeri	ro-	rori 
+when: nanǯigo | nanǯigo 
+where: inda | inda	indari	nonda 
+where: indari | inda	indari	nonda 
+where: nonda | inda	indari	nonda 
+white: ainya | ainya	gaiɲa 
+white: gaiɲa | ainya	gaiɲa 
+who: aive | aive	ave-	rori 
+who: ave- | aive	ave-	rori 
+who: rori | aive	ave-	rori 
+wide: aro 
+wife: aro 
+wind: bisi 
+wing: wači | wasi	wači 
+wing: wasi | wasi	wači 
+wipe: dogaiyari | dogaiyari	gaigari	gaimbari 
+wipe: gaigari | dogaiyari	gaigari	gaimbari 
+wipe: gaimbari | dogaiyari	gaigari	gaimbari 
+with: -de 
+with: -mi 
+woman: ai | ari	eutu 
+woman: ari | ari	eutu 
+woman: eutu | ari	eutu 
+woman: pamine | ari	eutu 
+wood: godo 
+wood: ikuta 
+wood: ituka 
+wood: ni 
+wood: niao 
+wood: ni go 
+wood: ukuta 
+wood: unguta 
+worm: apoe | apoe	siworo 
+worm: siworo | apoe	siworo 
+yellow: awari | awari	gounya	iǯigari	oeta 
+yellow: gounya | awari	gounya	iǯigari	oeta 
+yellow: iǯigari | awari	gounya	iǯigari	oeta 
+yellow: oeta | awari	gounya	iǯigari	oeta 
+yes: a͂ʔa͂ 
+yes: ea 
+yesterday: matu 
+yesterday: sipe 
+you: imomae | imo	imomane | imomane	umo 
+you: imomane | imo	imomane | imomane	umo 
+you: inggo | imo	imomane | imomane	umo 
+you two: imo ete tote 
+you two: imotote 
+every: enomakanuma	matawa 
+ash: aewa	aiwa	aβetu	ingotu 
+abdomen: gomo ogo	minǯi	osi	ovivi tumbu	sini 
+bigness: bazina	siakabadae	čiyakabada 
+large: bazina	siakabadae	čiyakabada 
+breasts: ami 
+nail: daŋgisi 
+talon: daŋgisi 
+come from: gumbari	purari 
+be dead: ambari	betari 
+dead: ambari	betari 
+ground: butu 
+land: butu 
+soil: butu 
+fly: obaoba	omari 
+fly v.: obaoba	omari 
+left hand: ingo	ipa	iŋo 
+1 sg.: na 
+be knowledgeable: gari	iŋena 
+lie down: turo devari	ǯitao awari 
+head louse: jing 
+male: embo 
+much: enuma	ǯiwadawai	ǯiwae 
+multiple: enuma	ǯiwadawai	ǯiwae 
+several: enuma	ǯiwadawai	ǯiwae 
+flesh: pisi	wo 
+hill: peji	peǯi	ǯiri 
+title: aviri	dadu	dao	dawo	nombo 
+nighttime: mu5a	muɲa	tumba 
+adulterous: da	dakaki 
+single: da	dakaki 
+the: da	dakaki 
+unprincipled: da	dakaki 
+human: embo 
+human being: embo 
+rainy weather: wa 
+path: begata 
+route: begata 
+hide: aingto	ainto	anito	tama	tamo 
+little: siaka	čiyaka 
+smallness: siaka	čiyaka 
+rock: baNga	baŋa	baŋga	ganuma 
+2 sg: imo	imomane 
+grind: tote 
+go: emboda 
+hot: vevera 
+1 pl. inc.: kaena 
+we₁: kaena 
+whiteness: ainya	gaiɲa 
+who?: aive	ave-	rori 
+female: ari	eutu 
+distant: aike	betau 
+dull: bouga	dunda 
+serious: bouga	dunda 
+close: aikae	aikai 
+ner: aikae	aikai 
+earthworm: apoe	siworo 
+2 pl.: imomane	umo 
+ye: imomane	umo 
+you all: imomane	umo 
+3 pl.: awamane	owawa 
+where?: inda	indari	nonda 
+when?: nanǯigo 
+how?: nomi 
+broad: aro 
+wideness: aro 
+fat: puruta 
+principal wife: aro 
+his mother: ai	aiya 
+my mother: ai	aiya 
+his father: mama	mamo 
+my father: mama	mamo 
+woods: poraga	taote 
+cord: asi	bupuri	buri	goga 
+gut: de kauŋ 
+insides: de kauŋ 
+intestine: de kauŋ 
+intestines: de kauŋ 
+breath: odana	opu ari 
+laughter: iro ari	iru 
+cogitate: katemb-	kotebari 
+reflect: katemb-	kotebari 
+sniff: mimbari	muneŋari 
+afraid: adu 
+be afraid: adu 
+fright: adu 
+beat: mau endodari 
+strike: mau endodari 
+hack: ǯugari 
+cut open: dari augari	darigari	peyari 
+tell lies: ge pitawa tari	pitawa 
+drop: durari	kepu ari	teugari 
+wring: papari	tapotapo	tapotapo ari	tendari 
+wash clothes: teiari	teyari 
+shove: ǯiyari 
+bind: kanǯigari 
+fasten: kanǯigari 
+tie up: kanǯigari 
+enumerate: aǯigari 
+number: aǯigari 
+tally: aǯigari 
+have fun: tetenya ari 
+brook: utou 
+stream: utou 
+daylight: iǯi 
+daytime: iǯi 
+evil: bebegae	beiae	beyai 
+rot: betari	mumunia 
+blunt: meku	ǯi ae	ǯiai 
+damp: betari	nukari	sikoko 
+right side: be 
+inside: -da	dou 

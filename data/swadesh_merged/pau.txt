@@ -1,0 +1,265 @@
+all: el rokir 
+every: el rokir 
+ash: chab 
+ashes: chab 
+abdomen: díil 
+belly: díil 
+big: klóu 
+bigness: klóu 
+large: klóu 
+bird: suebek el charm 
+bite: bangch 
+black: chedelekélek 
+blood: rasE7	rásech 
+bone: chiúis	iuis 
+breast: tut 
+breasts: tut 
+burn: meléseb 
+burn tr.: meléseb 
+cloud: eábed 
+cold: kelekólt 
+come: mi	méi 
+come from: mi	méi 
+be dead: ma8	mad 
+dead: ma8	mad 
+die: ma8	mad 
+dog: bilis	bilís 
+drink: mElim	melím 
+dry: medírt 
+ear: 8iN	ding 
+eat: mengáng 
+egg: ngáis 
+eye: ma8	mad 
+feather: búsech 
+fire: Nau	ngáu 
+fish: NikEl	ngíkel 
+fly: suébek 
+fly v.: suébek 
+good: ungíl 
+green: bedengel a biib 
+hair: chúi 
+hand: chim	im 
+left hand: chim	im 
+right: chim	im 
+head: klidm 
+hear: origEs	orrénges 
+1 sg.: Nak	ngak 
+I: Nak	ngak 
+kill: meléb 
+be knowledgeable: medúch 
+know: medúch 
+leaf: lel	llel 
+lie: mechiuáiu 
+lie down: mechiuáiu 
+liver: a8	chad 
+long: kemánget 
+head louse: ku8	kud 
+louse: ku8	kud 
+male: sechál 
+man: a8	chad 
+moon: búil 
+mouth: ngor 
+name: Nakl	ngakl 
+title: Nakl	ngakl 
+neck: chikl 
+new: bE7i	bechés 
+night: klEbEsi	klebeséi 
+nighttime: klEbEsi	klebeséi 
+nose: yis	íis 
+adulterous: ta	taN	tang 
+one: ta	taN	tang 
+single: ta	taN	tang 
+that: séi	tilecháng 
+the: ta	taN	tang 
+unprincipled: ta	taN	tang 
+human: a8	chad 
+human being: a8	chad 
+person: a8	chad 
+rain: chull 
+rainy weather: chull 
+red: bekerkárd 
+path: raEl	ráel 
+road: raEl	ráel 
+route: raEl	ráel 
+root: ráis 
+sand: chelechól 
+say: dmung 
+see: omi	omés 
+sit: kiéi 
+hide: bu8El	budél 
+skin: bu8El	budél 
+sleep: durs 
+little: kekeréi 
+small: kekeréi 
+smallness: kekeréi 
+smoke: chat 
+star: btu7	btuch 
+rock: ba8	bad 
+stone: ba8	bad 
+sun: sils 
+swim: mengedúb 
+tail: kemúr 
+this: tiéi 
+2 sg: kau 
+thou: kau 
+you: kau 
+tongue: chur	ur 
+tooth: uiNEl	uíngel 
+grind: eru	o-rung	oruN 
+two: eru	o-rung	oruN 
+go: meráel 
+walk: meráel 
+hot: mekeáld 
+warm: mekeáld 
+water: 8aob	dáob	ralm 
+1 pl. inc.: kemám	ki8	kid 
+we: kemám	ki8	kid 
+we₁: kemám	ki8	kid 
+what: ngaráng 
+white: becheleléu 
+whiteness: becheleléu 
+who: techáng 
+who?: techáng 
+female: babíl 
+woman: babíl 
+yellow: mellíl 
+distant: cheróid 
+far: cheróid 
+dull: oberéod 
+heavy: oberéod 
+serious: oberéod 
+close: kméed 
+near: kméed 
+ner: kméed 
+salt: sar 
+short: kedéb 
+snake: bechéi	bersóech 
+thin: melilíut 
+wind: eólt 
+earthworm: chulád 
+worm: chulád 
+year: rak 
+2 pl.: kemíu 
+ye: kemíu 
+you all: kemíu 
+3 pl.: tir 
+they: tir 
+where: ker 
+where?: ker 
+when: oingaráng 
+when?: oingaráng 
+other: ngódech 
+three: ede	o-déi 
+four: eua	o-ang 
+five: eim	kleim 
+broad: metéu 
+wide: metéu 
+wideness: metéu 
+fat: láok 
+thick: okrókr 
+narrow: obútek 
+principal wife: buch 
+wife: buch 
+husband: buch 
+his mother: chedíl 
+mother: chedíl 
+my mother: chedíl 
+father: chedám 
+his father: chedám 
+my father: chedám 
+forest: oreómel 
+woods: oreómel 
+branch: ráchel 
+stick: ráchel 
+fruit: ródech 
+flower: buŋ 
+grass: chúdel 
+cord: chekíl 
+rope: chekíl 
+flesh: tech 
+meat: tech 
+grease: láok 
+wing: osébek 
+gut: delach 
+guts: delach 
+insides: delach 
+intestine: delach 
+intestines: delach 
+back: úulk 
+suck: melmótm 
+spit: melúb 
+vomit: múdech 
+blow: melóko 
+breath: outelíl 
+breathe: outelíl 
+laugh: ocherchúr 
+laughter: ocherchúr 
+cogitate: omdásu 
+reflect: omdásu 
+think: omdásu 
+smell: melúng[e]l 
+sniff: melúng[e]l 
+afraid: [me]dakt 
+be afraid: [me]dakt 
+fear: [me]dakt 
+fright: [me]dakt 
+alive: ngar 
+be alive: ngar 
+life: ngar 
+live: ngar 
+living: ngar 
+hunt: merrítel 
+beat: menglébed 
+hit: menglébed 
+strike: menglébed 
+cut: mengímd 
+hack: mengímd 
+cut open: melbótb 
+split: melbótb 
+pierce: merús 
+stab: merús 
+scratch: mengkás 
+dig: mengíis 
+stand: dechór 
+drop: orrébet 
+fall: orrébet 
+grasp: obáng 
+hold: obáng 
+hold in arm: obáng 
+squeeze: omét 
+wring: omét 
+throw: uétech 
+bind: mesáur 
+fasten: mesáur 
+tie: mesáur 
+tie up: mesáur 
+sew: merásm 
+count: omechúr 
+enumerate: omechúr 
+number: omechúr 
+tally: omechúr 
+flow: meráel 
+lake: omechuachel 
+ocean: chéi	dáob 
+sea: chéi	dáob 
+dust: hokorí 
+fog: chetechát 
+sky: eánged 
+bad: mekngít 
+evil: mekngít 
+rot: beémech 
+rotten: beémech 
+dirty: idókel 
+filthy: idókel 
+soiled: idókel 
+sharp: kedórem 
+blunt: ketóm 
+damp: dekímes 
+wet: dekímes 
+right side: kadíkm 
+left: katúr 
+at: er 
+in: chelsél 
+inside: chelsél 
+and: e	me 
+if: a	a kmu 

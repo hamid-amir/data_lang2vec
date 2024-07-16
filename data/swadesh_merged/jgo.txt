@@ -1,0 +1,254 @@
+all: tsúú 
+every: tsúú 
+bark: kup 
+big: kákóÜ	Šwáà 
+bigness: kákóÜ	Šwáà 
+large: kákóÜ	Šwáà 
+bird: móàshúàñ 
+bite: nànáàm 
+black: shïùshïù 
+blood: mEti 
+bone: cwi	tswýïùï 
+breast: nEp3 
+breasts: nEp3 
+cloud: máàlšàš 
+cold: fuàÜ1	fšàk 
+come: nt~o	nàtóà 
+come from: nt~o	nàtóà 
+be dead: mpf$u	môpfuà 
+dead: mpf$u	môpfuà 
+die: mpf$u	môpfuà 
+dog: momv~u	móêmvuà 
+drink: mômi nàdššnàdšš	nànóà náàá lúàm 
+dry: zuàunáà 
+ear: nEtutE	nátuàutáà 
+earth: tsáàtsšàÜ 
+ground: tsáàtsšàÜ 
+land: tsáàtsšàÜ 
+soil: tsáàtsšàÜ 
+eat: ñàkwáàt 
+egg: nápuu 
+eye: lik	lïùk 
+fire: muk	muàk 
+fish: Su	shuà 
+fly: nàtšt 
+fly v.: nàtšt 
+foot: ku 
+give: ñàŠšà 
+good: súàÜnáà 
+hair: mánuk	mánuk-tuà	nuk 
+hand: ntsšñ	po	póà1 
+left hand: ntsšñ	po	póà1 
+right: ntsšñ	po	póà1 
+head: tuà 
+hear: nz~u7	nàzuàÜ 
+heart: túàm 
+horn: nd~oN 
+kill: nàjüïù 
+knee: kwi7lEku 
+be knowledgeable: jïùnu	njïùnu 
+know: jïùnu	njïùnu 
+leaf: nEfu	náfu 
+liver: mb~E	mbá 
+long: sásš 
+head louse: nT~ot 
+louse: nT~ot 
+many: zšàšnáà 
+much: zšàšnáà 
+multiple: zšàšnáà 
+several: zšàšnáà 
+hill: nENk~o7 
+mountain: nENk~o7 
+mouth: ntsu 
+name: lik	lïùk 
+title: lik	lïùk 
+neck: lóàñ 
+new: fi	fïù 
+night: nEtu7	nátuàÜ 
+nighttime: nEtu7	nátuàÜ 
+nose: mElw~i	málwýïù 
+not: ñàkšà2 
+adulterous: páà 
+one: páà 
+single: páà 
+that: ni	yi 
+the: páà 
+unprincipled: páà 
+human: Nu	ñu 
+human being: Nu	ñu 
+man: Nu	ñu 
+person: Nu	ñu 
+red: pápšñ 
+path: nd~uN 
+road: nd~uN 
+route: nd~uN 
+root: ñšñ 
+sand: sšñsšàñ 
+say: nàcuà1	nàdšÜ 
+see: 53o	nàjúàó 
+seed: mbi-	mbi-yuàu 
+sit: nàtswáà 
+hide: Ng~up	ñŠup 
+skin: Ng~up	ñŠup 
+sleep: nàdáà 
+little: káàkúýóÜ	kúýóàknáà	móàyuàu 
+small: káàkúýóÜ	kúýóàknáà	móàyuàu 
+smallness: káàkúýóÜ	kúýóàknáà	móàyuàu 
+smoke: ndindi 
+star: To7saN	cóÜ-sšñ	cúÜó-sšñ 
+rock: Ng~o7	ñŠóÜ 
+stone: Ng~o7	ñŠóÜ 
+sun: monEm 
+swim: môbuàÜ ñki 
+tail: sšàñ	ñkuu 
+tongue: l3m	lúàm 
+tooth: nEsoN	násóñ 
+tree: t3	túà 
+go: nànán 
+walk: nànán 
+hot: nàduu 
+warm: nàduu 
+water: Nk~i	ñki 
+1 pl. inc.: puêu 
+we: puêu 
+we₁: puêu 
+what: ku 
+white: fuàfuà 
+whiteness: fuàfuà 
+who: wóâ 
+who?: wóâ 
+female: mšñŠáà 
+woman: mšñŠáà 
+distant: áàsšk 
+far: áàsšk 
+close: môbšàštáà 
+near: môbšàštáà 
+ner: môbšàštáà 
+salt: ñŠwšàñ 
+snake: nápuàpláà	nóà 
+thin: ñàŠïùktáà 
+wind: fáfúýót 
+year: ñŠuÜ 
+3 pl.: póàp 
+they: póàp 
+here: zšÜš 
+there: ziÜi	zuÜu 
+where: Šóà 
+where?: Šóà 
+when: shúànáà 
+when?: shúànáà 
+how: pšÜš	ñŠóâku 
+how?: pšÜš	ñŠóâku 
+some: mbóàntšÜ 
+other: ndáÜá 
+fat: máfóàó 
+thick: ñàŠwýáá náŠwán 
+narrow: kúàúpáànáà 
+child: móàó 
+principal wife: nzwáà 
+wife: nzwáà 
+husband: nduàu 
+his mother: mšàšmu	mšàšmuà 
+mother: mšàšmu	mšàšmuà 
+my mother: mšàšmu	mšàšmuà 
+father: tšât	tšâš 
+his father: tšât	tšâš 
+my father: tšât	tšâš 
+animal: nšš 
+branch: ñŠwšš 
+stick: ñŠwšš 
+fruit: tšàš1 
+flower: fluàwš	tóâótóâó 
+grass: náŠïùi	núÜ 
+flesh: mbšp 
+meat: mbšp 
+grease: máfóàó 
+wing: nápšp 
+back: ñkwán 
+suck: áàfïùitáà1 
+spit: nàtwýik 
+vomit: nàzáàÜ 
+blow: áàfúýót	áàfšàk 
+laugh: ñàŠwá 
+laughter: ñàŠwá 
+cogitate: ñàkwšñá 
+reflect: ñàkwšñá 
+think: ñàkwšñá 
+smell: jšàk 
+sniff: jšàk 
+afraid: môbóàk 
+be afraid: môbóàk 
+fear: môbóàk 
+fright: môbóàk 
+alive: nàduk2 
+be alive: nàduk2 
+life: nàduk2 
+live: nàduk2 
+living: nàduk2 
+fight: ñàkwánná 
+beat: môbuàÜ	nàzáp 
+hit: môbuàÜ	nàzáp 
+strike: môbuàÜ	nàzáp 
+cut: nàzšàÜ	ñàkúýóàÜ 
+hack: nàzšàÜ	ñàkúýóàÜ 
+cut open: môbšàñáà 
+split: môbšàñáà 
+pierce: nàdyát 
+stab: nàdyát 
+dig: nàtuàñ 
+lie: nàcóàtnu	nànóó 
+lie down: nàcóàtnu	nànóó 
+tell lies: nàcóàtnu	nànóó 
+stand: nàtúàú	nàtúàútúàúnáà 
+turn: áàshót vt	áàshótná vi 
+turn around: áàshót vt	áàshótná vi 
+turn round: áàshót vt	áàshótná vi 
+drop: áàfuñ sáà 
+fall: áàfuñ sáà 
+grasp: nàcóàñáà	ñàŠwýáá 
+hold: nàcóàñáà	ñàŠwýáá 
+hold in arm: nàcóàñáà	ñàŠwýáá 
+squeeze: áàsúú 
+wring: áàsúú 
+rub: ñàŠóàk 
+wipe: nàtsïùÜnáà 
+wash: áàsuk 
+wash clothes: áàsuk 
+pull: áàshuñ2 
+push: nàtsúàú 
+shove: nàtsúàú 
+throw: mômšÜ 
+bind: nàcúñá 
+fasten: nàcúñá 
+tie: nàcúñá 
+tie up: nàcúñá 
+sew: nàtáàm1	nàtšà 
+count: ñàkuàkáà 
+enumerate: ñàkuàkáà 
+number: ñàkuàkáà 
+tally: ñàkuàkáà 
+sing: nàzóp 
+have fun: ñàŠá máŠaàš 
+play: ñàŠá máŠaàš 
+float: nàtšttá 
+flow: ñàki 
+swell: mômuàÜtáà 
+dust: pápóp 
+sky: shúà-túà 
+blaze: áàshïù 
+burn: áàshïù 
+day: láàÜ 
+daylight: láàÜ 
+daytime: láàÜ 
+old: lánnáà	ndán 
+rot: lyóànáà 
+rotten: lyóànáà 
+dirty: nàdóàtïù 
+filthy: nàdóàtïù 
+soiled: nàdóàtïù 
+straight: ndúàñndúàñ 
+smooth: áàshïùláà v 
+in: tsát 
+inside: tsát 
+and: póàp 
+if: lšš1 

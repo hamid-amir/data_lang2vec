@@ -1,0 +1,539 @@
+all: cjal | всеки	всички	всичко	цял 
+all: цял | всеки	всички	всичко	цял 
+and: i 
+and: и 
+animal: životno | животно 
+animal: животно 
+ashes: pepel | пепел 
+ashes: пепел 
+at: do | в	до	на	при 
+at: до | в	до	на	при 
+back: gräb | гръб 
+back: гръб 
+bad: loš | зъл	лош 
+bad: лош | зъл	лош 
+bark: kora | кора 
+bark: кора 
+because: zaštoto | защото 
+because: защото 
+belly: korem | корем 
+belly: корем 
+big: goljam | голям 
+big: голям 
+bird: ptica | птица 
+bird: птица 
+bite: xapja | хапя 
+bite: хапя 
+black: čeren | черен 
+black: черен 
+blood: kräv | кръв 
+blood: кръв 
+blow: duxam | духам 
+blow: духам 
+bone: kokal | кокал	кост 
+bone: кокал | кокал	кост 
+breast: гръд 
+breathe: dišam | дишам 
+breathe: дишам 
+burn: gorja | горя 
+burn: горя 
+child: dete | дете 
+child: дете 
+cloud: oblak | облак 
+cloud: облак 
+cold: studen | студен	хладен 
+cold: студен | студен	хладен 
+come: idvam | идвам 
+come: идвам 
+correct: pravilen | правилен 
+correct: правилен 
+count: broja | броя	число 
+count: броя | броя	число 
+cut: reža | режа 
+cut: режа 
+day: den | ден 
+day: ден 
+die: umiram | умирам 
+die: умирам 
+dig: kopaja | копая 
+dig: копая 
+dirty: mräsen | мръсен	нечист 
+dirty: мръсен | мръсен	нечист 
+dog: kuče | куче	пес 
+dog: куче | куче	пес 
+drink: pija | пия 
+drink: пия 
+dry: sux | сух 
+dry: сух 
+dull: täp | тежък | тъп 
+dull: тъп | тежък 
+dust: prax | прах 
+dust: прах 
+earth: zemja | земя 
+earth: земя 
+ear: uxo | ухо 
+ear: ухо 
+eat: jam | храня се	ям 
+eat: ям | храня се	ям 
+egg: jajce | яйце 
+egg: яйце 
+eye: oko | око 
+eye: око 
+fall: padam | падам 
+fall: падам 
+far: daleče | далечен 
+far: далече | далечен 
+father: bašta | баща 
+father: баща 
+fat (n.): maznina 
+fat (n.): мазнина 
+fear: straxuvam se | боя се	страхувам се 
+fear: страхувам се | боя се	страхувам се 
+feather: pero | перо 
+feather: перо 
+few: malcina | малко	малцина 
+few: малцина | малко	малцина 
+fight: bija se | бия се 
+fight: бия се 
+fire: ogän | огън 
+fire: огън 
+fish: riba | риба 
+fish: риба 
+five: pet | пет 
+five: пет 
+float: plavam | плавам	плувам 
+float: плавам | плавам	плувам 
+flower: cvete | цвете 
+flower: цвете 
+flow: teka | тека 
+flow: тека 
+fly (v.): letja 
+fly (v.): летя 
+fog: mägla | мъгла 
+fog: мъгла 
+foot: krak | крак	стъпало 
+foot: крак | крак	стъпало 
+forest: gora | гора	лес	шума 
+forest: гора | гора	лес	шума 
+four: četiri | четири 
+four: четири 
+freeze: zamräzvam | замръзвам 
+freeze: замръзвам 
+fruit: plod | овошка	плод 
+fruit: плод | овошка	плод 
+full: пълен 
+give: davam | давам 
+give: давам 
+good: dobär | добър 
+good: добър 
+grass: treva | трева 
+grass: трева 
+green: zelen | зелен 
+green: зелен 
+guts: vätrešnosti | вътрешности 
+guts: вътрешности 
+hair: kosa | коса	косъм 
+hair: коса | коса	косъм 
+hand: räka | ръка 
+hand: ръка 
+head: glava | глава 
+head: глава 
+hear: čuvam | чувам 
+heart: särce | сърце 
+heart: сърце 
+hear: чувам 
+heavy: težak | тежък 
+heavy: тежък 
+here: tuk | тук 
+here: тук 
+he: toj | той 
+he: той 
+hit: udrjam | удрям 
+hit: удрям 
+hold: därža | държа 
+hold: държа 
+horn: рог 
+how: kak | как 
+how: как 
+hunt: lovuvam | ловувам 
+hunt: ловувам 
+husband: säprug | мъж	съпруг 
+husband: съпруг | мъж	съпруг 
+I: az | аз 
+ice: led | лед 
+ice: лед 
+if: ako | ако 
+if: ако 
+in: v | в	във 
+in: в | в	във 
+I: аз 
+kill: ubivam | убивам 
+kill: убивам 
+knee: коляно 
+know: znaja | зная 
+know: зная 
+lake: ezero | езеро 
+lake: езеро 
+laugh: smeja se | смея се 
+laugh: смея се 
+leaf: listo | лист 
+leaf: листо 
+left: ljav | ляв 
+left: ляв 
+leg: krak | крак 
+leg: крак 
+lie: leža | лежа 
+lie: лежа 
+liver: čeren drob | черен дроб 
+liver: черен дроб 
+live: živeja | живея 
+live: живея 
+long: däläg | дълъг 
+long: дълъг 
+louse: väška | въшка 
+louse: въшка 
+man: mäž | човек 
+many: mnogo | много 
+many: много 
+man: мъж | човек 
+meat: meso | месо 
+meat: месо 
+moon: luna | луна 
+moon: луна 
+mother: majka | майка 
+mother: майка 
+mountain: planina | планина 
+mountain: планина 
+mouth: usta | уста 
+mouth: уста 
+name: ime | заглавие	име 
+name: име | заглавие	име 
+narrow: tesen | тесен 
+narrow: тесен 
+near: blizo do | близък 
+near: близо до | близък 
+neck: vrat | врат	шия 
+neck: врат | врат	шия 
+new: nov | нов 
+new: нов 
+night: nošt | нощ 
+night: нощ 
+nose: nos | нос 
+nose: нос 
+not: ne | не 
+not: не 
+old: star | стар 
+old: стар 
+one: edin | един 
+one: един 
+other: drug | друг 
+other: друг 
+person: čovek | човек 
+person: човек 
+play: igraja | играя 
+play: играя 
+pull: därpam | дърпам 
+pull: дърпам 
+push: butam | бутам	натискам 
+push: бутам | бутам	натискам 
+rain: vali däžd | дъжд 
+rain: вали дъжд 
+red: červen | червен 
+red: червен 
+right: desen | десен 
+right: десен 
+river: reka | река 
+river: река 
+road: šose | път	шосе 
+road: шосе | път	шосе 
+root: koren | корен 
+root: корен 
+rope: väže | въже 
+rope: въже 
+rotten: gnil | гнил 
+rotten: гнил 
+rub: trija | трия 
+rub: трия 
+salt: sol | сол 
+salt: сол 
+sand: pjasäk | пясък 
+sand: пясък 
+say: kazvam | казвам | пясък 
+say: казвам | пясък 
+scratch: češa | чеша 
+scratch: чеша 
+sea: more | море 
+sea: море 
+seed: seme | семе 
+seed: семе 
+see: viždam | виждам 
+see: виждам 
+sew: šija | шия 
+sew: шия 
+sharp: ostär | остър 
+sharp: остър 
+short: käs | къс 
+short: къс 
+sing: peja | пея 
+sing: пея 
+sit: sedja | седя 
+sit: седя 
+skin: koža | кожа 
+skin: кожа 
+sky: nebe | небе 
+sky: небе 
+sleep: spja | спя 
+sleep: спя 
+small: maläk | малък 
+small: малък 
+smell: miriša | помирисвам 
+smell: мириша | помирисвам 
+smoke: pušek | дим	пушек 
+smoke: пушек | дим	пушек 
+smooth: gladäk | гладък 
+smooth: гладък 
+snake: zmija | змия 
+snake: змия 
+snow: snjag | сняг 
+snow: сняг 
+some: njakolko | няколко 
+some: няколко 
+spit: pljuja | плюя 
+spit: плюя 
+split: cepja | разделям	цепя 
+split: цепя | разделям	цепя 
+squeeze: izceždam | изцеждам	стискам 
+squeeze: изцеждам | изцеждам	стискам 
+stab: promušvam | промушвам 
+stab: промушвам 
+stand: stoja | стоя 
+stand: стоя 
+star: zvezda | звезда 
+star: звезда 
+stick: präčka | бастун	палка	пръчка 
+stick: пръчка | бастун	палка	пръчка 
+stone: kamäk | камък 
+stone: камък 
+straight: napravo | прав 
+straight: направо 
+suck: suča | смуча	суча 
+suck: суча | смуча	суча 
+sun: slänce | слънце 
+sun: слънце 
+swell: poduvam se | подувам се 
+swell: подувам се 
+swim: pluvam | плувам 
+swim: плувам 
+tail: opaška | опашка 
+tail: опашка 
+that: onova | онази	оная	онзи	онова	онуй	оня | един 
+that: онова | онази	оная	онзи	онова	онуй	оня | един 
+there: tam | там 
+there: там 
+they: te | те 
+they: те 
+thick: pläten | дебел 
+thick: плътен | дебел 
+think: mislja | мисля 
+think: мисля 
+thin: tänäk | тънък 
+thin: тънък 
+this: tova | тази	тая	това	този	тоя	туй 
+this: това | тази	тая	това	този	тоя	туй 
+thou: ti | ти 
+thou: vie | ти 
+thou: вие | ти 
+thou: ти 
+three: tri | три 
+three: три 
+throw: xvärljam | хвърлям 
+throw: хвърлям 
+tie: zavärzvam | връзвам 
+tie: завързвам | връзвам 
+tongue: ezik | език 
+tongue: език 
+tooth: zäb | зъб 
+tooth: зъб 
+tree: därvo | дърво 
+tree: дърво 
+turn: zavivam | завивам 
+turn: завивам 
+two: dve | два	две 
+two: две | два	две 
+vomit: povräštam | повръщам 
+vomit: повръщам 
+walk: värvja | вървя 
+walk: вървя 
+warm: topäl | топъл 
+warm: топъл 
+wash: mija | мия 
+wash: мия 
+water: voda | вода 
+water: вода 
+we: nie | ние 
+wet: mokär | мокър 
+wet: мокър 
+we: ние 
+what: kakäv | какво	какъв	що 
+what: какъв | какво	какъв	що 
+when: koga | кога 
+when: кога 
+where: käde | где	къде 
+where: къде | где	къде 
+white: bjal | бял 
+white: бял 
+who: koj | кой 
+who: кой 
+wide: širok | широк 
+wide: широк 
+wife: säpruga | жена	съпруга 
+wife: съпруга | жена	съпруга 
+wind: vjatär | вятър 
+wind: вятър 
+wing: krilo | крило 
+wing: крило 
+wipe: bärša | бърша 
+wipe: бърша 
+with: s | с	със 
+with: с | с	със 
+woman: žena | жена 
+woman: жена 
+worm: červej | червей 
+worm: червей 
+year: godina | година 
+year: година 
+yellow: žält | жълт 
+yellow: жълт 
+you: ti | ти | вие 
+you: вие | ти 
+you: ти | вие 
+every: всеки	всички	всичко	цял 
+ash: пепел 
+abdomen: корем 
+bigness: голям 
+large: голям 
+breasts: гръд 
+come from: идвам 
+be dead: умирам 
+dead: умирам 
+ground: земя 
+land: земя 
+soil: земя 
+fly: летя 
+fly v.: летя 
+1 sg.: аз 
+be knowledgeable: зная 
+head louse: въшка 
+male: мъж 
+much: много 
+multiple: много 
+several: много 
+hill: планина 
+title: заглавие	име 
+nighttime: нощ 
+adulterous: един 
+single: един 
+the: един 
+unprincipled: един 
+human: човек 
+human being: човек 
+rainy weather: дъжд 
+path: път	шосе 
+route: път	шосе 
+round: кръгъл 
+hide: кожа 
+little: малък 
+smallness: малък 
+rock: камък 
+2 sg: ти 
+grind: два	две 
+go: вървя 
+hot: топъл 
+1 pl. inc.: ние 
+we₁: ние 
+whiteness: бял 
+who?: кой 
+female: жена 
+distant: далечен 
+serious: тежък 
+close: близък 
+ner: близък 
+earthworm: червей 
+3 sg.: той 
+she: той 
+2 pl.: вие 
+ye: вие 
+you all: вие 
+3 pl.: те 
+where?: где	къде 
+when?: кога 
+how?: как 
+broad: широк 
+wideness: широк 
+fat: мазнина 
+principal wife: жена	съпруга 
+his mother: майка 
+my mother: майка 
+his father: баща 
+my father: баща 
+woods: гора	лес	шума 
+branch: бастун	палка	пръчка 
+cord: въже 
+flesh: месо 
+grease: мазнина 
+claw: нокът 
+fingernail: нокът 
+nail: нокът 
+arm: ръка 
+gut: вътрешности 
+insides: вътрешности 
+intestine: вътрешности 
+intestines: вътрешности 
+breath: дишам 
+laughter: смея се 
+cogitate: мисля 
+reflect: мисля 
+sniff: помирисвам 
+afraid: боя се	страхувам се 
+be afraid: боя се	страхувам се 
+fright: боя се	страхувам се 
+alive: живея 
+be alive: живея 
+life: живея 
+living: живея 
+beat: удрям 
+strike: удрям 
+hack: режа 
+cut open: разделям	цепя 
+pierce: промушвам 
+lie down: лежа 
+tell lies: лежа 
+turn around: завивам 
+turn round: завивам 
+drop: падам 
+grasp: държа 
+hold in arm: държа 
+wring: изцеждам	стискам 
+wash clothes: мия 
+shove: бутам	натискам 
+bind: връзвам 
+fasten: връзвам 
+tie up: връзвам 
+enumerate: броя	число 
+number: броя	число 
+tally: броя	число 
+have fun: играя 
+brook: река 
+stream: река 
+ocean: море 
+blaze: горя 
+daylight: ден 
+daytime: ден 
+evil: зъл	лош 
+rot: гнил 
+filthy: мръсен	нечист 
+soiled: мръсен	нечист 
+blunt: тъп 
+damp: мокър 
+right side: десен 
+inside: в	във 

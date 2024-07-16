@@ -1,0 +1,141 @@
+all: tanan 
+every: tanan 
+ash: qabu 
+ashes: qabu 
+abdomen: tinaqi 
+belly: tinaqi 
+big: dakulaq 
+bigness: dakulaq 
+large: dakulaq 
+bird: manmanuk 
+bite: bangkiq 
+black: maqilɨm 
+blood: tag3k	tagɨk 
+bone: tu7laN	tuqlang 
+breast: dibdib	dudu 
+breasts: dibdib	dudu 
+burn: dɨkɨt 
+burn tr.: dɨkɨt 
+cloud: panganud 
+cold: maramig 
+be dead: napatay	patay 
+dead: napatay	patay 
+die: napatay	patay 
+dog: k37d3N	k3gd3N	kɨqkɨng 
+drink: 7inum	inum	qinum 
+dry: bilad	mamaraq 
+ear: taliNa	talinga 
+eat: kaqɨn 
+egg: tiqlug 
+eye: mata 
+feather: lawi 
+fire: 7apuy	apuy	qapuy 
+fish: s3da7	sɨdaq 
+fly: layug 
+fly v.: layug 
+full: p3gp3g 
+good: magayɨn 
+green: madulaw 
+hair: buaq 
+hand: 7alima	alima	qalima 
+left hand: 7alima	alima	qalima 
+right: 7alima	alima	qalima 
+head: qulu 
+hear: bati7	batiq 
+1 sg.: 7aku	aku 
+I: 7aku	aku 
+kill: qimatay 
+knee: tuud 
+be knowledgeable: kilala 
+know: kilala 
+leaf: daun 
+liver: 7atay	atay	qatay 
+long: qabuat 
+head louse: kutu 
+louse: kutu 
+male: lalaki 
+man: taw 
+moon: bulan 
+hill: bulud 
+mountain: bulud 
+mouth: baqbaq 
+name: Naran	ngaran 
+title: Naran	ngaran 
+neck: liqɨg 
+new: ba7gu	baqgu 
+night: d3l3m	dɨlɨm 
+nighttime: d3l3m	dɨlɨm 
+nose: 7uruN	qurung	uruN 
+adulterous: 3sa	73sa	qɨsa	usá 
+one: 3sa	73sa	qɨsa	usá 
+single: 3sa	73sa	qɨsa	usá 
+that: 3sa	73sa	qɨsa	usá 
+the: 3sa	73sa	qɨsa	usá 
+unprincipled: 3sa	73sa	qɨsa	usá 
+human: taw 
+human being: taw 
+person: taw 
+rain: lɨbɨg 
+rainy weather: lɨbɨg 
+red: maskɨt (sɨkɨt) 
+path: dalan 
+road: dalan 
+route: dalan 
+root: gamut 
+sand: nɨknɨk 
+say: sugid 
+see: l37gan	liqgan 
+sit: rɨqɨd 
+hide: kulit 
+skin: kulit 
+sleep: qɨdɨp 
+little: gɨtiɨk 
+small: gɨtiɨk 
+smallness: gɨtiɨk 
+smoke: tabuk 
+star: panakunun 
+rock: batu 
+stone: batu 
+sun: 7aldaw 
+swim: gaman 
+tail: qikug 
+2 sg: ikaw 
+thou: ikaw 
+you: ikaw 
+tongue: dila7	dilaq 
+tooth: nip3n	nipin 
+tree: kayu 
+grind: dua	duwá 
+two: dua	duwá 
+go: panaw 
+walk: panaw 
+hot: marandang 
+warm: marandang 
+water: danum 
+1 pl. inc.: kami	kitami 
+we: kami	kitami 
+we₁: kami	kitami 
+what: qunu 
+white: malanti 
+whiteness: malanti 
+who: siqu 
+who?: siqu 
+female: babay 
+woman: babay 
+yellow: makalawag 
+distant: qalawid 
+far: qalawid 
+dull: mabɨqgat 
+heavy: mabɨqgat 
+serious: mabɨqgat 
+close: sabiq 
+near: sabiq 
+ner: sabiq 
+salt: budbud 
+short: diqput 
+snake: dukul 
+thin: manipis 
+wind: dɨrɨs 
+earthworm: luqluy 
+worm: luqluy 
+year: taqun 

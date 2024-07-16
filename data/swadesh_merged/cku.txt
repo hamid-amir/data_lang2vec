@@ -1,0 +1,150 @@
+all: ohya 
+every: ohya 
+ash: histo 
+ashes: histo 
+bark: afakCo 
+abdomen: ikfi 
+belly: ikfi 
+big: Coba 
+bigness: Coba 
+large: Coba 
+bird: fosi 
+bite: kaCaLLi 
+black: loCa 
+blood: Lakhana 
+bone: Cofkoni 
+breast: pisi 
+breasts: pisi 
+claw: ilbaksi	iyyakasi 
+nail: ilbaksi	iyyakasi 
+talon: ilbaksi	iyyakasi 
+cloud: olaCi 
+cold: kasatka 
+come: onti 
+come from: onti 
+be dead: illi 
+dead: illi 
+die: illi 
+dog: ifa 
+drink: isko 
+dry: soloka	solotka 
+ear: hakCo 
+earth: ihani	okLi 
+ground: ihani	okLi 
+land: ihani	okLi 
+soil: ihani	okLi 
+eat: ipa 
+egg: kolossoski 
+eye: ittiLi 
+fat: nihaCi 
+fat n.: nihaCi 
+grease: nihaCi 
+lubricant: nihaCi 
+oil: nihaCi 
+feather: foshissi 
+fire: tikba 
+fish: LaLo 
+fly: wayka 
+fly v.: wayka 
+foot: iyyi 
+full: alotka 
+give: anka 
+good: alila	kano 
+green: okCakko 
+hair: hissi 
+hand: ilbi 
+left hand: ilbi 
+right: ilbi 
+head: isbakki 
+hear: ihalo 
+heart: iCConoska 
+horn: lapi 
+kill: ibi 
+knee: ittoLpi 
+be knowledgeable: sobayli 
+know: sobayli 
+leaf: hissi 
+lie: talka	tallaka 
+lie down: talka	tallaka 
+liver: lopi 
+long: baskin 
+head louse: iCha 
+louse: iCha 
+male: nani 
+man: ati 
+many: hasayka 
+much: hasayka 
+multiple: hasayka 
+several: hasayka 
+flesh: nipo 
+meat: nipo 
+moon: niLahai 
+hill: Copoksi 
+mountain: Copoksi 
+mouth: iCokhalbi 
+name: holCifo 
+title: holCifo 
+neck: iCiksa 
+new: hapa 
+night: tamoka 
+nighttime: tamoka 
+nose: ibisani 
+not: inko 
+adulterous: Caffa	caffá 
+one: Caffa	caffá 
+single: Caffa	caffá 
+that: ma 
+the: Caffa	caffá 
+unprincipled: Caffa	caffá 
+human: ati 
+human being: ati 
+person: ati 
+rain: oyba 
+rainy weather: oyba 
+red: homma 
+path: hinosi 
+road: hinosi 
+route: hinosi 
+root: asikCi	hasikCi 
+round: tonoki 
+say: kaha 
+see: hiCa 
+seed: hiLi	poLi 
+sit: Cokkoli 
+hide: afakCo	hafakCo 
+skin: afakCo	hafakCo 
+sleep: atonapa 
+little: Cokibosi	lawista 
+small: Cokibosi	lawista 
+smallness: Cokibosi	lawista 
+smoke: iskoCi 
+stand: haCCali	hikkili 
+star: hoCili 
+rock: tali 
+stone: tali 
+sun: hasi 
+swim: ohapka 
+tail: haCi 
+this: ya 
+2 sg: ohaCiya 
+thou: ohaCiya 
+you: ohaCiya 
+tongue: iColaksi 
+tooth: innati	innoti 
+tree: itto 
+grind: toklon	tóklon 
+two: toklon	tóklon 
+go: Cayali 
+walk: Cayali 
+water: oki 
+1 pl. inc.: oliya 
+we: oliya 
+we₁: oliya 
+what: nasi 
+white: hatka 
+whiteness: hatka 
+who: nakso 
+who?: nakso 
+female: tayyi 
+woman: tayyi 
+yellow: lana 

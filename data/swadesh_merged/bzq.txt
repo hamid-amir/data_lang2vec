@@ -1,0 +1,269 @@
+all: dumi	fa-rumi	farumi 
+every: dumi	fa-rumi	farumi 
+ash: gigi ap	gigi|áp 
+ashes: gigi ap	gigi|áp 
+abdomen: h5ao	hñao 
+belly: h5ao	hñao 
+big: mamagal 
+bigness: mamagal 
+large: mamagal 
+bird: mani 
+bite: agel	agél	oN	oŋ 
+black: gogo	gogó 
+blood: laflaf 
+bone: loN	loŋ 
+breast: sus 
+breasts: sus 
+burn: mgini 
+burn tr.: mgini 
+cloud: met	mēt 
+cold: mairiN	mairiŋ 
+come: lafa	làfa 
+come from: lafa	làfa 
+be dead: mat 
+dead: mat 
+die: mat 
+dog: fun 
+drink: dom 
+dry: las	maN	māŋ 
+ear: ka5o	kaño 
+earth: rakrak 
+ground: rakrak 
+land: rakrak 
+soil: rakrak 
+eat: an	ān 
+egg: tal	tāl 
+eye: mta 
+fat: mna 
+fat n.: mna 
+grease: mna 
+lubricant: mna 
+oil: mna 
+feather: [mani] plu	mani plu 
+fire: yap 
+fish: ian 
+fly: opa 
+fly v.: opa 
+foot: fico 
+good: mafia 
+green: bisbis 
+hair: uta 
+hand: kakamo 
+left hand: kakamo 
+right: kakamo 
+head: boboko 
+hear: loNa	loŋa 
+1 sg.: ya 
+I: ya 
+kill: fa-mat	famat	pun 
+be knowledgeable: to	tō 
+know: to	tō 
+leaf: ulu	ulú 
+lie: ahleN	ahlēŋ	pakpak 
+lie down: ahleN	ahlēŋ	pakpak 
+liver: yatay 
+long: mlaNa	mlàŋa 
+head louse: ut 
+louse: ut 
+male: man	mān 
+man: smat 
+flesh: waNat 
+meat: waNat 
+moon: Na	ŋa 
+mouth: smo 
+name: Nasan	ŋasan 
+title: Nasan	ŋasan 
+neck: wao 
+new: po 
+night: doram	dòram 
+nighttime: doram	dòram 
+nose: guguo 
+not: pa	pene 
+adulterous: [a] sa/[i]sa	isa	pusa	sa 
+one: [a] sa/[i]sa	isa	pusa	sa 
+single: [a] sa/[i]sa	isa	pusa	sa 
+that: ca 
+the: [a] sa/[i]sa	isa	pusa	sa 
+unprincipled: [a] sa/[i]sa	isa	pusa	sa 
+human: smat 
+human being: smat 
+person: smat 
+rain: ulan 
+rainy weather: ulan 
+red: kakala	kakalā 
+path: laliN	laliŋ 
+road: laliN	laliŋ 
+route: laliN	laliŋ 
+root: wa	wā 
+sand: ñiñēn 
+say: ñiñēn 
+see: em	niNa	niŋa	ēm 
+sit: totolaN	totoláŋ 
+hide: gico 
+skin: gico 
+sleep: tuli 
+little: korikori	kòrikòri 
+small: korikori	kòrikòri 
+smallness: korikori	kòrikòri 
+smoke: mamayas	mamayás 
+stand: osal 
+star: aitotaf 
+rock: pat	pāt 
+stone: pat	pāt 
+swim: yas 
+tail: golo 
+this: taie 
+2 sg: au	meu 
+thou: au	meu 
+you: au	meu 
+tongue: papleo 
+tooth: smo 
+grind: [si] lu	pilu	si lu 
+two: [si] lu	pilu	si lu 
+go: fan	fān 
+walk: fan	fān 
+hot: mfànas 
+warm: mfànas 
+water: waya 
+1 pl. inc.: ame	ite 
+we: ame	ite 
+we₁: ame	ite 
+what: ahai 
+white: bubulaN	bubuláŋ 
+whiteness: bubulaN	bubuláŋ 
+who: ise 
+who?: ise 
+female: mapiN	mapíŋ 
+woman: mapiN	mapíŋ 
+yellow: banban 
+distant: lau 
+far: lau 
+dull: tēbtēb 
+heavy: tēbtēb 
+serious: tēbtēb 
+close: las 
+near: las 
+ner: las 
+salt: gasi 
+short: kokopē 
+snake: gu 
+thin: mlifis 
+wind: làtan 
+earthworm: gugulat 
+worm: gugulat 
+year: taun 
+2 pl.: meu 
+ye: meu 
+you all: meu 
+3 pl.: sil[e] 
+they: sil[e] 
+where: luā	mancā[wa] 
+where?: luā	mancā[wa] 
+when: ma-fis 
+when?: ma-fis 
+how: laisawa 
+how?: laisawa 
+other: nēsa 
+three: [si] tol	pitol 
+four: [si] fat	pifat 
+five: pilim 
+broad: [m]sai 
+wide: [m]sai 
+wideness: [m]sai 
+thick: kapcut 
+narrow: kos 
+principal wife: ŋolotá 
+wife: ŋolotá 
+husband: uattā 
+his mother: hñē 
+mother: hñē 
+my mother: hñē 
+father: hmā 
+his father: hmā 
+my father: hmā 
+forest: ailoló 
+woods: ailoló 
+branch: maglo 
+stick: maglo 
+fruit: [ai] pio 
+flower: saya 
+grass: wati 
+cord: wala 
+rope: wala 
+wing: faio 
+gut: hñai walwalo 
+guts: hñai walwalo 
+insides: hñai walwalo 
+intestine: hñai walwalo 
+intestines: hñai walwalo 
+back: tao 
+suck: soraf	sus 
+spit: apas[a] 
+vomit: muta 
+blow: uf[o] 
+breath: fawa 
+breathe: fawa 
+laugh: amlif 
+laughter: amlif 
+cogitate: lolam 
+reflect: lolam 
+think: lolam 
+smell: fatan 
+sniff: fatan 
+afraid: am-cait 
+be afraid: am-cait 
+fear: am-cait 
+fright: am-cait 
+alive: tub 
+be alive: tub 
+life: tub 
+live: tub 
+living: tub 
+hunt: fān ronda 
+beat: pun 
+hit: pun 
+strike: pun 
+cut: ab	oat	tekis 
+hack: ab	oat	tekis 
+cut open: segal 
+split: segal 
+pierce: sagu	tusa 
+stab: sagu	tusa 
+scratch: gāg 
+dig: tiu 
+drop: pawil 
+fall: pawil 
+squeeze: forār 
+wring: forār 
+throw: tig 
+bind: balat	pitan 
+fasten: balat	pitan 
+tie: balat	pitan 
+tie up: balat	pitan 
+sew: diŋ 
+count: etaŋ 
+enumerate: etaŋ 
+number: etaŋ 
+tally: etaŋ 
+flow: yoli 
+lake: lanlan 
+ocean: olat 
+sea: olat 
+dust: pipasā 
+sky: laŋit 
+blaze: mgini 
+bad: mayay 
+evil: mayay 
+rot: bili	pepē 
+rotten: bili	pepē 
+sharp: mdalim 
+blunt: puŋpuŋ 
+damp: sisòŋit 
+wet: sisòŋit 
+right side: wela 
+left: balit 
+at: mali 
+in: loló	mul 
+inside: loló	mul 
+and: re 
+if: gabe 

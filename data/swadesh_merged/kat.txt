@@ -1,0 +1,333 @@
+all: ყველაფერი 
+every: ყველაფერი 
+ash: ფერფლი 
+ashes: ფერფლი 
+bark: ქერქი 
+abdomen: მუცელი 
+belly: მუცელი 
+big: დიდი 
+bigness: დიდი 
+large: დიდი 
+bird: ჩიტი 
+bite: კბენა 
+black: შავი 
+blood: სისხლი 
+bone: ძვალი 
+breast: მკერდი 
+breasts: მკერდი 
+cloud: ღრუბელი 
+cold: ცივი 
+come: მოსვლა 
+come from: მოსვლა 
+be dead: მიცვალება 
+dead: მიცვალება 
+die: მიცვალება 
+dog: ძაღლი 
+drink: სმა 
+dry: მშრალი 
+ear: ყური 
+earth: მიწა 
+ground: მიწა 
+land: მიწა 
+soil: მიწა 
+eat: ჭამა 
+egg: კვერცხი 
+eye: თვალი 
+feather: ფრთა 
+fire: ცეცხლი	ხანძარი 
+fish: თევზი 
+fly: ფრენა 
+fly v.: ფრენა 
+foot: ტერფი 
+full: სავსე 
+give: მიცემა 
+good: კარგი 
+green: მწვანე 
+hair: თმა 
+head: თავი 
+hear: მოსმენა 
+heart: გული 
+horn: რქა 
+1 sg.: მე 
+I: მე 
+kill: კვლა 
+knee: მუხლი 
+be knowledgeable: ცოდნა 
+know: ცოდნა 
+leaf: ფოთოლი 
+liver: ღვიძლი 
+long: გრძელი 
+head louse: ტილი 
+louse: ტილი 
+male: კაცი 
+man: ადამიანი 
+many: ბევრი 
+much: ბევრი 
+multiple: ბევრი 
+several: ბევრი 
+moon: მთვარე 
+hill: მთა 
+mountain: მთა 
+mouth: პირი 
+name: გვარი	სახელი 
+title: გვარი	სახელი 
+neck: კისერი 
+new: ახალი 
+night: ღამე 
+nighttime: ღამე 
+nose: ცხვირი 
+not: არ 
+adulterous: ერთი 
+one: ერთი 
+single: ერთი 
+that: ის 
+the: ერთი 
+unprincipled: ერთი 
+human: ადამიანი 
+human being: ადამიანი 
+person: ადამიანი 
+rain: წვიმა 
+rainy weather: წვიმა 
+red: წითელი 
+path: გზა 
+road: გზა 
+route: გზა 
+root: ფესვი 
+round: მრგვალი 
+sand: სილა 
+say: თქმა 
+see: ნახვა 
+seed: თესლი 
+sit: ჯდომა 
+hide: კანი 
+skin: კანი 
+sleep: ძილი 
+little: პატარა 
+small: პატარა 
+smallness: პატარა 
+smoke: კვამლი 
+star: ვარსკვლავი 
+rock: ქვა 
+stone: ქვა 
+sun: მზე 
+swim: ცურვა 
+tail: კუდი 
+this: ეს 
+2 sg: შენ 
+thou: შენ 
+you: შენ 
+tongue: ენა 
+tooth: კბილი 
+tree: ხე 
+grind: ორი 
+two: ორი 
+go: სიარული 
+walk: სიარული 
+hot: თბილი 
+warm: თბილი 
+water: წყალი 
+1 pl. inc.: ჩვენ 
+we: ჩვენ 
+we₁: ჩვენ 
+what: რა 
+white: თეთრი 
+whiteness: თეთრი 
+who: ვინ 
+who?: ვინ 
+female: ქალი 
+woman: ქალი 
+yellow: ყვითელი 
+distant: შორს 
+far: შორს 
+dull: მძიმე 
+heavy: მძიმე 
+serious: მძიმე 
+close: ახლოს 
+near: ახლოს 
+ner: ახლოს 
+salt: მარილი 
+short: მოკლე 
+snake: გველი 
+thin: სხელი 
+wind: ქარი 
+earthworm: ჭია 
+worm: ჭია 
+year: წელი 
+3 sg.: ის 
+he: ის 
+she: ის 
+2 pl.: თქვენ 
+ye: თქვენ 
+you all: თქვენ 
+3 pl.: ისინი 
+they: ისინი 
+here: აქ 
+there: იქ 
+where: სად 
+where?: სად 
+when: როდის 
+when?: როდის 
+how: როგორ 
+how?: როგორ 
+some: რამდენიმე 
+few: ცოტა 
+other: სხვა 
+three: სამი 
+four: ოთხი 
+five: ხუთი 
+broad: განიერი	ფართო 
+wide: განიერი	ფართო 
+wideness: განიერი	ფართო 
+fat: ქონი	ცხიმი 
+thick: სქელი 
+narrow: ვიწრო 
+child: ბავშვი 
+principal wife: ცოლი 
+wife: ცოლი 
+husband: ქმარი 
+his mother: დედა 
+mother: დედა 
+my mother: დედა 
+father: მამა 
+his father: მამა 
+my father: მამა 
+animal: ცხოველი 
+forest: ტყე 
+woods: ტყე 
+branch: ჯოხი 
+stick: ჯოხი 
+fruit: ხილი 
+flower: ყვავილი 
+grass: ბალახი 
+cord: თოკი 
+rope: თოკი 
+flesh: ხორცი 
+meat: ხორცი 
+grease: ქონი	ცხიმი 
+claw: ფრჩხილი 
+fingernail: ფრჩხილი 
+nail: ფრჩხილი 
+leg: ფეხი 
+arm: ხელი 
+hand: ხელი 
+wing: ფრთა 
+gut: ნაწლავი 
+guts: ნაწლავი 
+insides: ნაწლავი 
+intestine: ნაწლავი 
+intestines: ნაწლავი 
+back: ზურგი 
+suck: წოვა 
+spit: გადაფურთხება 
+vomit: პირის ღებინება 
+blow: მობერვა 
+breath: სუნთქვა 
+breathe: სუნთქვა 
+laugh: სიცილი 
+laughter: სიცილი 
+cogitate: ფიქრი 
+reflect: ფიქრი 
+think: ფიქრი 
+smell: ყნოსვა 
+sniff: ყნოსვა 
+afraid: შიში 
+be afraid: შიში 
+fear: შიში 
+fright: შიში 
+alive: ცხოვრება 
+be alive: ცხოვრება 
+life: ცხოვრება 
+live: ცხოვრება 
+living: ცხოვრება 
+fight: ბრძოლა 
+hunt: ნადირობა 
+beat: რტყმა 
+hit: რტყმა 
+strike: რტყმა 
+cut: გაჭრა 
+hack: გაჭრა 
+cut open: მტვრევა 
+split: მტვრევა 
+pierce: ხანჯლის ჩარტყმა 
+stab: ხანჯლის ჩარტყმა 
+scratch: ფხაჭნა 
+dig: ბარვა 
+lie: წოლა 
+lie down: წოლა 
+tell lies: წოლა 
+stand: ადგომა	დგომა 
+turn: ტრიალი 
+turn around: ტრიალი 
+turn round: ტრიალი 
+drop: დაცემა 
+fall: დაცემა 
+grasp: ჭერა 
+hold: ჭერა 
+hold in arm: ჭერა 
+squeeze: დაწოლა 
+wring: დაწოლა 
+rub: წმენდა 
+wipe: გაწმენდა 
+wash: გარეცხვა 
+wash clothes: გარეცხვა 
+pull: გათრევა 
+push: ბიძგება 
+shove: ბიძგება 
+throw: გადაგდება 
+bind: შეხვევა 
+fasten: შეხვევა 
+tie: შეხვევა 
+tie up: შეხვევა 
+sew: კერვა 
+count: თვლა 
+enumerate: თვლა 
+number: თვლა 
+tally: თვლა 
+sing: მღერა 
+have fun: თამაშობა 
+play: თამაშობა 
+float: ცურვა 
+flow: დენა 
+freeze: გაყინვა 
+swell: გადიდება 
+brook: მდინარე 
+river: მდინარე 
+stream: მდინარე 
+lake: ტბა 
+ocean: ზღვა 
+sea: ზღვა 
+dust: მტვერი 
+fog: ნისლი 
+sky: ცა 
+snow: თოვლი 
+ice: ყინული 
+blaze: წვა 
+burn: წვა 
+day: დღე 
+daylight: დღე 
+daytime: დღე 
+old: ძველი 
+bad: ცუდი 
+evil: ცუდი 
+rot: გაფუჭებული	დამპალი 
+rotten: გაფუჭებული	დამპალი 
+dirty: ჭუჭყიანი 
+filthy: ჭუჭყიანი 
+soiled: ჭუჭყიანი 
+straight: პირდაპირი 
+sharp: ბასრი 
+blunt: ჩლუნგი 
+smooth: გლუვი 
+damp: სველი 
+wet: სველი 
+correct: ზუსტი 
+right: მარჯვენა 
+right side: მარჯვენა 
+left: მარცხენა 
+at: -ში 
+in: -ში 
+inside: -ში 
+with: -თან 
+and: და 
+if: თუ	რომ 
+because: რადგან 

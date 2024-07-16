@@ -1,0 +1,337 @@
+all: gɔ̃gɔ̃dò | gogonda	ɔ̃gɔ̃dɔ 
+all: gogonda | gogonda	ɔ̃gɔ̃dɔ 
+all: ɔ͂gɔ͂dɔ | gogonda	ɔ̃gɔ̃dɔ 
+arm: dabogo 
+arm: debëgɔ̃ 
+arm: debʌgɔ͂ 
+ashes: dahae | dahae	gesɔgɔ̃ 
+ashes: gesògɔ̃ | dahae	gesɔgɔ̃ 
+ashes: gesɔgɔ͂ | dahae	gesɔgɔ̃ 
+back: tò-diò 
+back: tɔdiɔ 
+bark: biya kòlò | biya kɔlɔ	habegolo 
+bark: biya kɔlɔ | biya kɔlɔ	habegolo 
+bark: habegolo | biya kɔlɔ	habegolo 
+bark: habe-golo | biya kɔlɔ	habegolo 
+belly: sasime | sasime	sasimi 
+belly: sasimi | sasime	sasimi 
+big: kaudaku͂ | kaudakũ	kouda 
+big: kaudakũ | kaudakũ	kouda 
+big: kouda | kaudakũ	kouda 
+bird: siu | siyɔ 
+bird: siyò | siyɔ 
+bird: siyɔ 
+bite: bofan | bofan	geyau 
+bite: geyau | bofan	geyau 
+black: bis.ho-digi | bišodigi	gɔsigɔ̃ 
+black: bišodigi | bišodigi	gɔsigɔ̃ 
+black: gòsigɔ̃ | bišodigi	gɔsigɔ̃ 
+black: gɔsigɔ͂ | bišodigi	gɔsigɔ̃ 
+blood: iyou | oyo	ɔyɔ 
+blood: òyò | oyo	ɔyɔ 
+blood: ɔyɔ | oyo	ɔyɔ 
+bone: diò | dio	diɔ 
+bone: diɔ | dio	diɔ 
+breast: bu | bu	nu 
+breast: nu | bu	nu 
+burn: dohugi 
+burn: duhugi 
+burn: tiyae 
+cassowary: diòwa 
+claw: gati | gati	siyɔ kati 
+claw: siyò kati | gati	siyɔ kati 
+claw: siyɔ kati | gati	siyɔ kati 
+cloud: ma͂bi | mbi	mãbi 
+cloud: mãbi | mbi	mãbi 
+cloud: mbi | mbi	mãbi 
+cold: deyò | deyɔ	ǯeo 
+cold: deyɔ | deyɔ	ǯeo 
+cold: djeo | deyɔ	ǯeo 
+cold: ǯeo | deyɔ	ǯeo 
+come: hugulu | hugu	hugulu	huguruyou 
+come: huguruyou | hugu	hugulu	huguruyou 
+come: huguru-you | hugu	hugulu	huguruyou 
+die: daladigil 
+dog: sò | so	sou	sɔ 
+dog: sɔ | so	sou	sɔ 
+dog: sou | so	sou	sɔ 
+drink: hwe namu | hwe nanu 
+drink: hwe nanu 
+dry: fofai 
+ear: du 
+earth: ëso | ʌsɔ 
+earth: oso | ʌsɔ 
+earth: ʌsɔ 
+eat: nale | nale	nɔlu 
+eat: nòlu | nale	nɔlu 
+eat: nɔlu | nale	nɔlu 
+egg: sio-ho | siyɔ hɔ 
+egg: siyò hò | siyɔ hɔ 
+egg: siyɔ hɔ 
+emu: diɔwa 
+eye: diho | d̪iho	giha*	gihã 
+eye: d̪iho | d̪iho	giha*	gihã 
+eye: giha͂ | d̪iho	giha*	gihã 
+eye: gihã | d̪iho	giha*	gihã 
+father: ai 
+fat (n.): sefu 
+fat (n.): sofe 
+feather: (siyò) dowe | siyɔ dowe 
+feather: siyɔ dowe 
+fire: dòu | dou	dɔu 
+fire: dɔu | dou	dɔu 
+fish: maye | moye*	mʌyẽ 
+fish: mëyẽ | moye*	mʌyẽ 
+fish: mʌye͂ | moye*	mʌyẽ 
+fly (v.): fuluma ali 
+fly (v.): gobayali 
+full: amai | amai	omonu	ʌmɔnu 
+full: ëmònu | amai	omonu	ʌmɔnu 
+full: ʌmɔnu | amai	omonu	ʌmɔnu 
+give: a neyou | a neyou	neida 
+give: neida | a neyou	neida 
+good: dè | dɛ 
+good: dɛ 
+green: biae | biae	mayʌ 
+green: mayʌ | biae	mayʌ 
+green: mayë | biae	mayʌ 
+hair: wigiduae | wigiduae	wɔdiɔ tɔwɔ 
+hair: wigi-duae | wigiduae	wɔdiɔ tɔwɔ 
+hair: wòdiò towo | wigiduae	wɔdiɔ tɔwɔ 
+hair: wɔdiɔ tɔwɔ | wigiduae	wɔdiɔ tɔwɔ 
+head: widua | widua	wɔdiɔ 
+head: wòdiò | widua	wɔdiɔ 
+head: wɔdiɔ | widua	wɔdiɔ 
+hear: andulu | andulu	du	duya 
+hear: an-dulu | andulu	du	duya 
+hear: duya | andulu	du	duya 
+heart: solo 
+I: ame 
+kill: gaba wala ngu | gaba wala ŋu	wiyɔtɔ̃ke 
+kill: gaba wala ŋu | gaba wala ŋu	wiyɔtɔ̃ke 
+kill: wiyòtɔ̃ke | gaba wala ŋu	wiyɔtɔ̃ke 
+kill: wiyɔtɔ͂ke | gaba wala ŋu	wiyɔtɔ̃ke 
+knee: ebutin | ebuton	hogowa	hɔgɔwa 
+knee: ebuton | ebuton	hogowa	hɔgɔwa 
+knee: hògòwa | ebuton	hogowa	hɔgɔwa 
+knee: hɔgɔwa | ebuton	hogowa	hɔgɔwa 
+know: atowe | atowe	tɔwe 
+know: (a)tòwe | atowe	tɔwe 
+know: tɔwe | atowe	tɔwe 
+leaf: habe ga | dibi	habe gua	hebẽ dibi 
+leaf: habe gua | dibi	habe gua	hebẽ dibi 
+leaf: hebe͂ dibi | dibi	habe gua	hebẽ dibi 
+leaf: hebẽ dibi | dibi	habe gua	hebẽ dibi 
+leg: abogo 
+leg: òbògɔ̃ 
+leg: ɔbɔgɔ͂ 
+lie: diaiae | diaiae	tiɔlu 
+lie: tiò-lu | diaiae	tiɔlu 
+lie: tiɔlu | diaiae	tiɔlu 
+liver: habe 
+long: sɔgɔ | sogowai	sɔgɔ 
+long: sogowai | sogowai	sɔgɔ 
+long: sògò(wai) | sogowai	sɔgɔ 
+louse: òũ | o*u 
+louse: ɔu͂ | o*u 
+man: o | o	or 
+man: or | o	or 
+man: o(r) | o	or 
+many: gògɔ̃ | gɔgɔ̃	kowi kowi 
+many: gɔgɔ͂ | gɔgɔ̃	kowi kowi 
+many: kowi kowi | gɔgɔ̃	kowi kowi 
+meat: hwi͂ 
+meat: hwĩ 
+moon: ëgwa | oguao	ʌgwa 
+moon: ʌgwa | oguao	ʌgwa 
+moon: oguao | oguao	ʌgwa 
+mother: ëmaya 
+mother: ʌmaya 
+mountain: bogahai | bogahai	gowule	gɔwule 
+mountain: gòwule | bogahai	gowule	gɔwule 
+mountain: gɔwule | bogahai	gowule	gɔwule 
+mouth: difogo | di fogo	mʌga 
+mouth: di fogo | di fogo	mʌga 
+mouth: mëga | di fogo	mʌga 
+mouth: mʌga | di fogo	mʌga 
+name: hu͂ | hu*	husolo	hũ 
+name: hũ | hu*	husolo	hũ 
+name: husolo | hu*	husolo	hũ 
+neck: gobagi | gobagi	ɔbaidiɔ 
+neck: gòbai-diò | gobagi	ɔbaidiɔ 
+neck: ɔbaidiɔ | gobagi	ɔbaidiɔ 
+new: aeyo | aeyo	dowado	dɔwadɔ 
+new: dòwadò | aeyo	dowado	dɔwadɔ 
+new: dɔwadɔ | aeyo	dowado	dɔwadɔ 
+night: bongongulu | bongongulu	gosio*go	gɔsiɔ̃go 
+night: gɔsiɔ͂go | bongongulu	gosio*go	gɔsiɔ̃go 
+night: gòsiɔ̃gò | bongongulu	gosio*go	gɔsiɔ̃go 
+nose: go | go	migiyao 
+nose: migiyao | go	migiyao 
+not: gelegelemi | gelegelemi	mɔi 
+not: gele-gelemi | gelegelemi	mɔi 
+not: mòi | gelegelemi	mɔi 
+not: mɔi | gelegelemi	mɔi 
+one: adno | adno	sisa*fe	sisafe	sisãfe 
+one: dano | adno	sisa*fe	sisafe	sisãfe 
+one: sisa͂fe | adno	sisa*fe	sisafe	sisãfe 
+one: sisãfe | adno	sisa*fe	sisafe	sisãfe 
+person: o 
+rain: hoidaru | hoidaru	hwɔẽ tɔlu 
+rain: hoi-daru | hoidaru	hwɔẽ tɔlu 
+rain: hwòẽ tòlu | hoidaru	hwɔẽ tɔlu 
+rain: hwɔe͂ tɔlu | hoidaru	hwɔẽ tɔlu 
+red: ayaw | ayaw	esĩ 
+red: esi͂ | ayaw	esĩ 
+red: esĩ | ayaw	esĩ 
+road: aili 
+road: (a)ili | aili 
+road: ili | aili 
+root: habe-dafe | hebẽ tefẽ 
+root: hebe͂ tefe͂ | hebẽ tefẽ 
+root: hebẽ tefẽ | hebẽ tefẽ 
+round: shinemgi | šinemgi 
+round: šinemgi | šinemgi 
+sand: hoifasiga 
+say: tɔ͂ | hoifasiga 
+say: tɔ̃ | hoifasiga 
+say: tobo | hoifasiga 
+see: anduguyou | anduguyou	digu	diguya 
+see: an-duguyou | anduguyou	digu	diguya 
+seed: habe fosage | habe fosage	kɔː 
+see: diguya | anduguyou	digu	diguya 
+see: digu-ya | anduguyou	digu	diguya 
+seed: kɔː | habe fosage	kɔː 
+seed: kòò | habe fosage	kɔː 
+shoulder: biyago 
+sit: biaiae | biaiae	biyɔu 
+sit: biyòu | biaiae	biyɔu 
+sit: biyɔu | biaiae	biyɔu 
+skin: golo | ko*fo*ya	kɔ̃fɔ̃ya golo 
+skin: kɔ̃fɔ̃ya | ko*fo*ya	kɔ̃fɔ̃ya golo 
+skin: kɔ͂fɔ͂ya golo | ko*fo*ya	kɔ̃fɔ̃ya golo 
+sleep: dialu | dialu	tiɔlu 
+sleep: tiòlu | dialu	tiɔlu 
+sleep: tiɔlu | dialu	tiɔlu 
+small: fòfekũ | fɔfekũ	yafe 
+small: fɔfeku͂ | fɔfekũ	yafe 
+small: yafe | fɔfekũ	yafe 
+smoke: dae | dae	dɔu dahaĩ 
+smoke: dòu dahaĩ | dae	dɔu dahaĩ 
+smoke: dɔu dahai͂ | dae	dɔu dahaĩ 
+stand: dofara 
+stand: tòfòlu 
+stand: tɔfɔlu 
+star: gudiaha | gudiaha	kwidiahɔ̃	kw~idiaho* 
+star: kwidiahɔ͂ | gudiaha	kwidiahɔ̃	kw~idiaho* 
+star: kwidiahɔ̃ | gudiaha	kwidiahɔ̃	kw~idiaho* 
+stone: yaw | yaw	you	yɔu 
+stone: yòu | yaw	you	yɔu 
+stone: yɔu | yaw	you	yɔu 
+sun: aso | oso*	ʌsɔ̃ 
+sun: ësɔ̃ | oso*	ʌsɔ̃ 
+sun: ʌsɔ͂ | oso*	ʌsɔ̃ 
+swim: hoyanuli | hoyanuli	hwɔẽ tɔlɔ ili 
+swim: hwɔe͂ tɔlɔ ili | hoyanuli	hwɔẽ tɔlɔ ili 
+tail: biao | biao	biyɔlu 
+tail: biyòlu | biao	biyɔlu 
+tail: biyɔlu | biao	biyɔlu 
+that: game | game	kumʌhẽ 
+that: kumëhẽ | game	kumʌhẽ 
+that: kumʌhe͂ | game	kumʌhẽ 
+this: gomedae | gomedae	kʌme 
+this: gome-dae | gomedae	kʌme 
+this: këme | gomedae	kʌme 
+this: kʌme | gomedae	kʌme 
+thou: name 
+tongue: e | e	i 
+tongue: i | e	i 
+tooth: maeow | maeow	meyo	meyɔ 
+tooth: meyò | maeow	meyo	meyɔ 
+tooth: meyɔ | maeow	meyo	meyɔ 
+tree: habe | hebe* 
+tree: hebe͂ | hebe* 
+tree: hebẽ | hebe* 
+two: balo | balo	sisa*ma	sisama	sisãma 
+two: sisama | balo	sisa*ma	sisama	sisãma 
+two: sisa͂ma | balo	sisa*ma	sisama	sisãma 
+walk: arli | arli	hűgwamɔi 
+walk: hu_gwamɔi | arli	hűgwamɔi 
+walk: hung.gwamòi | arli	hűgwamɔi 
+walk: orli | arli	hűgwamɔi 
+warm: defi 
+water: hoi | hoi	hw~o*e	hwɔẽ 
+water: hwòẽ | hoi	hw~o*e	hwɔẽ 
+water: hwɔe͂ | hoi	hw~o*e	hwɔẽ 
+we: eli | abe	eli 
+we: elig | abe	eli 
+we (incl.): abe 
+what: gamakae | gamekae	keiba 
+what: gamekae | gamekae	keiba 
+what: keiba | gamekae	keiba 
+white: adodigi | adodigi	ɔlɔwɔ 
+white: ado-digi | adodigi	ɔlɔwɔ 
+white: òlòwò | adodigi	ɔlɔwɔ 
+white: ɔlɔwɔ | adodigi	ɔlɔwɔ 
+who: gomeko | gomeko	kɔ 
+who: kò | gomeko	kɔ 
+who: kɔ | gomeko	kɔ 
+wing: siyò fuòi 
+wing: siyɔ fuɔi 
+woman: sʌbɔ sai͂ | sobas̪ie	sʌbɔ saĩ 
+woman: sëbò sãi | sobas̪ie	sʌbɔ saĩ 
+woman: soba-sie | sobas̪ie	sʌbɔ saĩ 
+woman: sobas̪ie | sobas̪ie	sʌbɔ saĩ 
+yellow: biyao | biyao	biyẽ 
+yellow: biye͂ | biyao	biyẽ 
+yellow: biyẽ | biyao	biyẽ 
+every: gogonda	ɔ̃gɔ̃dɔ 
+ash: dahae	gesɔgɔ̃ 
+abdomen: sasime	sasimi 
+bigness: kaudakũ	kouda 
+large: kaudakũ	kouda 
+breasts: bu	nu 
+nail: gati	siyɔ kati 
+talon: gati	siyɔ kati 
+come from: hugu	hugulu	huguruyou 
+be dead: daladigil 
+dead: daladigil 
+ground: ʌsɔ 
+land: ʌsɔ 
+soil: ʌsɔ 
+fly: fuluma ali	gobayali 
+fly v.: fuluma ali	gobayali 
+hand: debogo* 
+left hand: debogo* 
+right: debogo* 
+1 sg.: ame 
+be knowledgeable: atowe	tɔwe 
+lie down: diaiae	tiɔlu 
+head louse: o*u 
+male: o	or 
+much: gɔgɔ̃	kowi kowi 
+multiple: gɔgɔ̃	kowi kowi 
+several: gɔgɔ̃	kowi kowi 
+hill: bogahai	gowule	gɔwule 
+title: hu*	husolo	hũ 
+nighttime: bongongulu	gosio*go	gɔsiɔ̃go 
+adulterous: adno	sisa*fe	sisafe	sisãfe 
+single: adno	sisa*fe	sisafe	sisãfe 
+the: adno	sisa*fe	sisafe	sisãfe 
+unprincipled: adno	sisa*fe	sisafe	sisãfe 
+rainy weather: hoidaru	hwɔẽ tɔlu 
+path: aili 
+route: aili 
+hide: ko*fo*ya	kɔ̃fɔ̃ya golo 
+little: fɔfekũ	yafe 
+smallness: fɔfekũ	yafe 
+rock: yaw	you	yɔu 
+2 sg: name 
+you: name 
+grind: balo	sisa*ma	sisama	sisãma 
+go: arli	hűgwamɔi 
+1 pl. inc.: abe	eli 
+we₁: abe	eli 
+whiteness: adodigi	ɔlɔwɔ 
+who?: gomeko	kɔ 
+female: sobas̪ie	sʌbɔ saĩ 

@@ -1,0 +1,452 @@
+all: buno 
+and: i 
+animal: be 
+ashes: goxub 
+back: bligiŋ 
+bad: ǯilək | ǯilək 
+bark: kebesige 
+bark: palau-g-3 | kebesige 
+because: kanə 
+belly: ëtël-k-3 | pelŋe 
+belly: pelŋe 
+big: omba 
+bird: əknin 
+bird: ëknïn | əknin 
+bite: -ngai | uŋai 
+bite: uŋai 
+black: knex 
+black: kngïx | knex 
+blood: esin 
+blow: pənumənumba 
+bone: exe-k-3 | exe	rigiŋ 
+bone: rigiŋ | exe	rigiŋ 
+branch: dəbədigaŋ 
+breast: i-i-4 
+breathe: reramŋo 
+brother: aisəbat 
+burn: -pma-d-4 | ukəməm 
+burn: ukəməm 
+butterfly: saiel 
+child: kekele 
+claw: gi-s-1r | gisiŋ 
+cloud: olok | palgamnil 
+cloud: palgamnil 
+cold: epen 
+come: men | mon	omən 
+come: -mën | mon	omən 
+come: omən | mon	omən 
+correct: leim 
+count: usoŋku 
+crocodile: poia 
+cut: uknu 
+cut: utlu | uknu 
+day: arodeta 
+die: uǯik | lkul	uǯik	zik 
+die: -zik/-lkïl | lkul	uǯik	zik 
+dig: uies 
+dirty: oɣo 
+dog: kaewa | kaewa	kaua 
+dog: kaua | kaewa	kaua 
+drink: -ik | ik	uwi 
+drink: uwi | ik	uwi 
+dry: grəŋ 
+dry: pït | grəŋ 
+dust: oɣo 
+ear: gët-3 | got	gəti 
+ear: gəti | got	gəti 
+earth: eidi 
+earth: eidï 
+eat: -ø-4 | udə 
+eat: udə 
+egg: nil- -2 | nulɨŋo 
+egg: nulɨŋo 
+emu: əkeiŋ 
+eye: ei-l-1r | ei	eilu 
+eye: eilu | ei	eilu 
+fall: upəg 
+far: suo 
+father: ainai 
+fat (n.): ëmzëk 
+fat (n.): uǯiək 
+fear: akət 
+feather: ki-l-2r | tiloməknən 
+feather: tiloməknən 
+few: kapət 
+fight: ipalak 
+finger: alknom 
+fingernail: gisiŋ 
+finger: paowiŋ 
+fire: kmï | knu	pmɨ 
+fire: pmɨ | knu	pmɨ 
+fish: ia 
+five: əsi 
+five: êsî | əsi 
+float: umənməno 
+flower: aipurugu 
+flow: igrɨg 
+fly (n.): eniŋ 
+fly (v.): -ië 
+fly (v.): uiə 
+fog: ŋolup 
+foot: apaniŋ 
+foot: ti-g-3 | apaniŋ 
+forest: asiax 
+four: tanol 
+fruit: əbəlgaŋ 
+full: ëpëx | opox 
+give: -sn-1r | usnu 
+give: usnu 
+good: leim 
+grass: kalaslasi 
+green: bië | biə 
+green: biə 
+guts: ətelka 
+hair: emkis | kile 
+hair: ki-l-2r | kile 
+hair: kile 
+hand: tïm-n-1 | timnin	tum 
+hand: timnin | timnin	tum 
+head: og-l-2r | ogle 
+head: ogle 
+hear: -deging-k-3 | degiN	urəgiŋ 
+heart: dokam-k-3 | enikiŋ 
+heart: enikiŋ 
+hear: urəgiŋ | degiN	urəgiŋ 
+heavy: mɨ 
+here: let 
+he/she: de- 
+he/she: i-/dë- 
+he/she: lahan 
+he/she: o- 
+he/she: u-/do- 
+hit: ubɨ | uba	ubɨ 
+hit: uba | uba	ubɨ 
+hold: uealo 
+house: ene 
+how: gəmən 
+hunt: ali 
+husband: bəgatnai 
+I: a-/da- | ue	we 
+if: dogo 
+in: ailokn 
+I: ue | ue	we 
+I: we | ue	we 
+kill: -b-3/-pel-4 | ubɨ 
+kill: ubɨ 
+knee: bol-s-1r 
+know: -pun-1r | upunu 
+know: upunu 
+lake: obubu 
+laugh: ubaǯe | ubaǯe 
+leaf: ki-l-2r | ki	kilo 
+leaf: kilo | ki	kilo 
+left: gagala 
+leg: tigiŋ 
+lie: -gë-klëng 
+lie: -sëm/-tel 
+lie: usem 
+lightning: kamiti 
+lightning: ugəblək 
+lip: asigiŋ 
+liver: ël-k-3 | ol 
+live: usɨk 
+long: sëgël | səgəl 
+long: səgəl 
+louse: seim 
+man: axang | doxam	onu 
+man: dokam | doxam	onu 
+man: rokam | doxam	onu 
+many: buno 
+meat: be | kigl 
+meat: kigl 
+moon: klïng 
+morning: u-gë-pëkpëk 
+morning: u-gë-sëksëk 
+mosquito: kneli 
+mother: idenai 
+mountain: êbêt | ebət	obot 
+mountain: ebət | ebət	obot 
+mouth: bong-g-3 | boŋgi 
+mouth: boŋgi 
+name: engi-1r | eNi	eŋiŋ 
+name: eŋiŋ | eNi	eŋiŋ 
+narrow: ailu-boid-laŋ 
+navel: oboliŋ 
+near: lək 
+neck: agəmka 
+neck: agïm-k-3 | agəmka 
+new: aibədmasik | masik	masuk 
+new: masik | masik	masuk 
+new: masïk | masik	masuk 
+night: ŋib | nib	ŋib 
+night: nib | nib	ŋib 
+nose: pini-1r | piNi	piŋi 
+not: bɨs 
+not: mantu | bɨs 
+old: adɨg 
+one: mïdë | mudo	mîdê	udeta 
+one: udeta | mudo	mîdê	udeta 
+other: goblaŋ 
+person: doxam | doxam	onu 
+person: onu | doxam	onu 
+play: upage 
+pull: ununuku 
+push: usapgaku 
+rain: luo 
+rain: luomən 
+rat: kuruke 
+red: əɣiək 
+red: ëxiëk | əɣiək 
+right: sem | timnin	tum 
+river: apaokomu 
+river: les | apaokomu 
+river: zizil | apaokomu 
+road: lung | luN 
+road: luŋ | luN 
+root: zilngon-2 | ǯiŋono 
+root: ǯiŋono | ǯiŋono 
+rope: səg 
+rotten: əkɨs 
+round: puax 
+rub: ulumurit 
+salt: əninɨk 
+salt: masmasi | əninɨk 
+sand: labu 
+sand: pailenga | labu 
+say: -uai | ugə | labu 
+say: ugə | labu 
+scratch: ukrasit 
+sea: pesia 
+seed: lali-k-3 | lalikn 
+seed: lalikn 
+see: -kë-1-2r | ko	ukelnan 
+see: ukelnan | ko	ukelnan 
+sew: utuliagut 
+sharp: te 
+short: pwitik 
+shoulder: polgiŋ 
+sing: ulamuŋ 
+sister: siali 
+sit: -sïk/sïl | usɨk 
+sit: usɨk 
+skin: palaogiŋ | palau 
+skin: palau-g-3 
+sky: ailɨk 
+sleep: -sëm/-tel | usəŋgut 
+sleep: usəŋgut 
+small: boid 
+smell: gë-ngïsngïs | usorku 
+smoke: bïl | bɨl 
+smoke: bɨl 
+smooth: lil 
+snake: mota 
+split: upwakɨt 
+squeeze: ubibirit 
+stand: -lïk/-lul | ulɨ 
+stand: ulɨ 
+star: eili | eili	eilu 
+star: eilï | eili	eilu 
+stick: sigi | dəbədigaŋ 
+stone: pa 
+straight: -gë-plis | ugəplis 
+straight: ugəplis 
+suck: uti 
+sun: ado | ado	ando 
+sun: ando | ado	ando 
+swell: ulɨ 
+swim: -us | wus 
+swim: wus 
+tail: git-lêx | tabalaku 
+tail: taba- | tabalaku 
+tail: tabalaku 
+take: ukalakuok 
+that: goblaŋ | mudo	mîdê	udeta 
+that: lan/san | goblaŋ | mudo	mîdê	udeta 
+there: ogor 
+they: de- | lagan 
+they: do- | lagan 
+they: i-/dë- | lagan 
+they: lagan 
+thick: bətəm 
+thin: el 
+think: upunu 
+thin: toxtox | el 
+this: dəklen 
+this: ler/ser | dəklen 
+thou: na- | nin 
+thou: ne- | nin 
+thou: ŋɨŋ | nin 
+thou: nï- | nin 
+thou: nin 
+thou: ni-/në- | nin 
+thou: no- | nin 
+three: bîk | bɨk 
+three: bɨk 
+throw: uŋot 
+thunder: ŋaŋe 
+tie: mədaŋot 
+tongue: ëlëng-g-3 | oloN	unəŋga 
+tongue: unəŋga | oloN	unəŋga 
+tooth: lo-g-3 | lo	logə 
+tooth: logə | lo	logə 
+tree: ang | aN 
+tree: aŋ | aN 
+turn: uŋim 
+two: ŋiak | niak	ŋiak 
+two: niak | niak	ŋiak 
+vagina: bi 
+vomit: uglə 
+walk: ali 
+walk: -li | ali 
+walk: uɣrəg | ali 
+wallaby: natus 
+warm: ëngïl | uŋɨl 
+warm: uŋɨl 
+wash: uŋak 
+water: komu 
+weep: uki 
+we (excl.): miŋ 
+we (incl.): mən 
+we (incl.): ming 
+we: mîn | miN	mun	mən 
+wet: əkis 
+wet: êkîs | əkis 
+what: gïmën 
+when: imigə 
+where: wodao 
+white: lagu 
+who: mën | mənlan 
+who: mənlan 
+wide: ailuomba 
+wife: sapenai 
+wind: pən 
+wing: kenu 
+wipe: usapurit 
+with: dei 
+woman: dobalïng | dobaliŋ 
+woman: dobaliŋ 
+wood: oto 
+worm: tniba 
+year: grəŋ 
+yellow: iango | iaŋo 
+yellow: iaŋo 
+you: nge- | nin | ŋɨŋ 
+you: ngï- | nin | ŋɨŋ 
+you: ngi-/ngë- | nin | ŋɨŋ 
+you: ngo- | nin | ŋɨŋ 
+every: buno 
+abdomen: pelŋe 
+bigness: omba 
+large: omba 
+come from: mon	omən 
+be dead: lkul	uǯik	zik 
+dead: lkul	uǯik	zik 
+fly: uiə 
+fly v.: uiə 
+left hand: timnin	tum 
+1 sg.: ue	we 
+knee: bol 
+be knowledgeable: upunu 
+head louse: seim 
+male: dokam	rokam 
+much: buno 
+multiple: buno 
+several: buno 
+hill: ebət	obot 
+title: eNi	eŋiŋ 
+nighttime: nib	ŋib 
+adulterous: mudo	mîdê	udeta 
+single: mudo	mîdê	udeta 
+the: mudo	mîdê	udeta 
+unprincipled: mudo	mîdê	udeta 
+human: doxam	onu 
+human being: doxam	onu 
+path: luN 
+route: luN 
+hide: palau 
+little: boid 
+smallness: boid 
+rock: pa 
+2 sg: nin 
+grind: niak	ŋiak 
+go: ali 
+hot: uŋɨl 
+1 pl. inc.: miN	mun	mən 
+we₁: miN	mun	mən 
+whiteness: lagu 
+who?: mənlan 
+female: dobaliŋ 
+distant: suo 
+dull: mɨ 
+serious: mɨ 
+close: lək 
+ner: lək 
+earthworm: tniba 
+3 sg.: lahan 
+he: lahan 
+she: lahan 
+2 pl.: ŋɨŋ 
+ye: ŋɨŋ 
+you all: ŋɨŋ 
+3 pl.: lagan 
+where?: wodao 
+when?: imigə 
+how?: gəmən 
+broad: ailuomba 
+wideness: ailuomba 
+fat: uǯiək 
+principal wife: sapenai 
+his mother: idenai 
+my mother: idenai 
+his father: ainai 
+my father: ainai 
+woods: asiax 
+cord: səg 
+flesh: kigl 
+grease: uǯiək 
+nail: gisiŋ 
+gut: ətelka 
+insides: ətelka 
+intestine: ətelka 
+intestines: ətelka 
+spit: učiboid 
+breath: reramŋo 
+laughter: ubaǯe 
+cogitate: upunu 
+reflect: upunu 
+sniff: usorku 
+alive: usɨk 
+be alive: usɨk 
+life: usɨk 
+living: usɨk 
+beat: uba	ubɨ 
+strike: uba	ubɨ 
+hack: uknu 
+cut open: upwakɨt 
+pierce: utlu 
+stab: utlu 
+drop: upəg 
+grasp: uealo 
+hold in arm: uealo 
+wring: ubibirit 
+wash clothes: uŋak 
+bind: mədaŋot 
+fasten: mədaŋot 
+tie up: mədaŋot 
+enumerate: usoŋku 
+number: usoŋku 
+tally: usoŋku 
+have fun: upage 
+brook: apaokomu 
+stream: apaokomu 
+blaze: ukəməm 
+daylight: arodeta 
+daytime: arodeta 
+evil: ǯilək 
+rot: əkɨs 
+filthy: oɣo 
+soiled: oɣo 
+blunt: tul 
+damp: əkis 
+right side: sem 
+inside: ailokn 

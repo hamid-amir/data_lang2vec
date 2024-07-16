@@ -1,0 +1,270 @@
+all: [la] galow 
+every: [la] galow 
+ash: abew	abu 
+ashes: abew	abu 
+abdomen: pərawʔ	pərowt 
+belly: pərawʔ	pərowt 
+big: gduə 
+bigness: gduə 
+large: gduə 
+bird: burew	burun 
+bite: gigoyʔ	ŋigit	ŋigoyʔ 
+black: ita 
+blood: dah3h	dah3wh~	dahowh	dahowh~	dahuwh	dahuwh~ 
+bone: tul3N	tula	tulan 
+breast: dad3w	dadu3	susaw	susow 
+breasts: dad3w	dadu3	susaw	susow 
+burn: maŋga	maŋgan	paŋga 
+burn tr.: maŋga	maŋgan	paŋga 
+cloud: mban	mbown 
+cold: diŋoyn 
+come: dat3	daton	datə	tibu3 
+come from: dat3	daton	datə	tibu3 
+be dead: mat3y	matae	matay	matey	tiweh 
+dead: mat3y	matae	matay	matey	tiweh 
+die: mat3y	matae	matay	matey	tiweh 
+dog: anjaəʔ	anjeʔ	anj~3e7	anj~E7	anj~a37	anj~e7 
+drink: binen	min3N	minaN	minan	minun 
+dry: krayn 
+ear: taliNao	taliNo	taliŋao	taliŋo	triN3w7	triNo7 
+eat: bakuə	maka	makan 
+egg: təlao	təlow 
+eye: mat3o	matao	mato 
+feather: bulew	bulu 
+fire: ap3y	apae	apay	apey 
+fish: lah3o	laho7	lao7	laow7~	laowʔ	laoʔ 
+fly: tarbuə 
+fly v.: tarbuə 
+full: pn3oh	pnoh	sn3eh	sneh 
+good: ilaoʔ 
+green: ijuə 
+hair: ambawʔ	ambowt 
+hand: jah3y	jahoe	taN3n	taNa	tana	tanan 
+left hand: jah3y	jahoe	taN3n	taNa	tana	tanan 
+right: jah3y	jahoe	taN3n	taNa	tana	tanan 
+head: kapalao	kapalo 
+hear: N3o	dNu3	dŋuə	nNa	nŋa	nŋo 
+1 sg.: akao	akaw 
+I: akao	akaw 
+kill: buneəh	munaoh	munoh 
+knee: dNk3o	dNk3w	lut3k	lutak 
+be knowledgeable: taaw	taow 
+know: taaw	taow 
+leaf: daen	dah3N	dah3o	daun 
+lie: bagulon 
+lie down: bagulon 
+liver: atay	atey	hat3y	hatae 
+long: panja 
+head louse: kut3w	kutao	kutaw	kutow 
+louse: kut3w	kutao	kutaw	kutow 
+male: janton	jantuə 
+man: uh3N	uha	uhan 
+moon: bulon	buluə 
+hill: gun3N	gun3o 
+mountain: gun3N	gun3o 
+mouth: mulawʔ	mulowt 
+name: %nam3o	%namo	glo3	gloə	glu3	gluə 
+title: %nam3o	%namo	glo3	gloə	glu3	gluə 
+neck: liyaə	liyey 
+new: bahew	bar3o	bar3w 
+night: mal3N	mala 
+nighttime: mal3N	mala 
+nose: id3N	id3o	idew	idun 
+adulterous: sao	sat3w	satao	sataw 
+one: sao	sat3w	satao	sataw 
+single: sao	sat3w	satao	sataw 
+that: toh 
+the: sao	sat3w	satao	sataw 
+unprincipled: sao	sat3w	satao	sataw 
+human: uh3N	uha	uhan 
+human being: uh3N	uha	uhan 
+person: uh3N	uha	uhan 
+rain: ujon	ujuə 
+rainy weather: ujon	ujuə 
+red: abuə 
+path: jal3	jaloN	jalon	jalu3	jaluə 
+road: jal3	jaloN	jalon	jalu3	jaluə 
+route: jal3	jaloN	jalon	jalu3	jaluə 
+root: ako 
+sand: ksaəʔ	kseyʔ 
+say: ba-kicaəʔ 
+see: Nima7	kimo7	kimoʔ	kl3eh	klE	ŋimaʔ	ŋimoʔ 
+sit: dudewʔ 
+hide: kul3t	kulat	kulay7~	kulayʔ	kulet	kuleyt 
+skin: kul3t	kulat	kulay7~	kulayʔ	kulet	kuleyt 
+sleep: tidew 
+little: naəʔ 
+small: naəʔ 
+smallness: naəʔ 
+smoke: asat	asaʔ 
+star: binton	bintuə	bint~3	bint~oN	bint~on	bint~u3 
+rock: bat3o	bat3w	batew	batu 
+stone: bat3o	bat3w	batew	batu 
+sun: mat3ohar3y	mat3oharae 
+swim: ba-rənon	ba-rənuə 
+tail: ikew	ikow 
+this: neh 
+2 sg: ikao	kaaw	kayao	mpao	mpo 
+thou: ikao	kaaw	kayao	mpao	mpo 
+you: ikao	kaaw	kayao	mpao	mpo 
+tongue: lid3h	lid3wh~	lidowh	lidowh~	lidu3h	liduəh 
+tooth: gig3y	gigi	gigoe	gigoy 
+tree: bat3	batoN 
+grind: due3	dueə	duw3w	duwu3 
+two: due3	dueə	duw3w	duwu3 
+go: ba-jalon	ba-jaluə 
+walk: ba-jalon	ba-jaluə 
+hot: panaəh 
+warm: panaəh 
+water: ay3e7	ayE7	aya3	ayaə	ayey 
+1 pl. inc.: kamae	kamay	kitao	kito 
+we: kamae	kamay	kitao	kito 
+we₁: kamae	kamay	kitao	kito 
+what: apo 
+white: putaəh 
+whiteness: putaəh 
+who: sapo 
+who?: sapo 
+female: batinao	batino 
+woman: batinao	batino 
+yellow: kunayn 
+distant: jaewh 
+far: jaewh 
+dull: bruəʔ 
+heavy: bruəʔ 
+serious: bruəʔ 
+close: dkuəʔ 
+near: dkuəʔ 
+ner: dkuəʔ 
+salt: gahon	gahuə 
+short: pandaʔ 
+snake: ula	ulo 
+thin: tipayh 
+wind: aŋayn	aŋeyn 
+earthworm: cacayn	caceyn 
+worm: cacayn	caceyn 
+year: taan 
+2 pl.: ikao lagalow	kayao lagalow 
+ye: ikao lagalow	kayao lagalow 
+you all: ikao lagalow	kayao lagalow 
+3 pl.: uha toh 
+they: uha toh 
+where: anao 
+where?: anao 
+when: bileə 
+when?: bileə 
+how: manan 
+how?: manan 
+other: laan 
+three: tigeə 
+four: mpaʔ 
+broad: luwaəh 
+wide: luwaəh 
+wideness: luwaəh 
+fat: ləmaʔ	ləmoʔ 
+thick: təbuə 
+narrow: səmpayʔ 
+principal wife: bini	binoy 
+wife: bini	binoy 
+husband: lakay	lakey 
+his mother: indaoʔ	indow 
+mother: indaoʔ	indow 
+my mother: indaoʔ	indow 
+father: apowʔ	apuəʔ 
+his father: apowʔ	apuəʔ 
+my father: apowʔ	apuəʔ 
+forest: imbao	imbo 
+woods: imbao	imbo 
+branch: dahon 
+stick: dahon 
+flower: buŋeə	buŋu 
+grass: umpawʔ	umpowt 
+cord: talay	taley 
+rope: talay	taley 
+flesh: dagin	dagoyn 
+meat: dagin	dagoyn 
+grease: ləmaʔ	ləmoʔ 
+wing: karpoʔ 
+gut: kala	kalan 
+guts: kala	kalan 
+insides: kala	kalan 
+intestine: kala	kalan 
+intestines: kala	kalan 
+back: puŋgao	puŋgown 
+suck: isaʔ	ŋigit	ŋisaʔ 
+spit: ludowh	maludowh	maluduəh 
+vomit: mutah	mutoh 
+blow: ba-rəmbewh 
+breath: ba-ŋeəʔ	ba-ŋoʔ 
+breathe: ba-ŋeəʔ	ba-ŋoʔ 
+laugh: gluəʔ	ta-gluəʔ 
+laughter: gluəʔ	ta-gluəʔ 
+cogitate: ba-pikaə	pikey 
+reflect: ba-pikaə	pikey 
+think: ba-pikaə	pikey 
+smell: ciawn	ñiawn	ñiown 
+sniff: ciawn	ñiawn	ñiown 
+afraid: katakowt 
+be afraid: katakowt 
+fear: katakowt 
+fright: katakowt 
+alive: idewʔ	idut 
+be alive: idewʔ	idut 
+life: idewʔ	idut 
+live: idewʔ	idut 
+living: idewʔ	idut 
+hunt: baguhew	baguhu 
+beat: nukao	nukown	tukao 
+hit: nukao	nukown	tukao 
+strike: nukao	nukown	tukao 
+cut: mutao	muton	putao 
+hack: mutao	muton	putao 
+cut open: bəluəh	mlah	mloh 
+split: bəluəh	mlah	mloh 
+pierce: nika	nikan	tika 
+stab: nika	nikan	tika 
+scratch: gaewʔ	ŋaew	ŋaowt 
+dig: galoy	ŋalay	ŋaley 
+stand: tguəʔ 
+drop: jatewh 
+fall: jatewh 
+grasp: mgon	mguə	pguə 
+hold: mgon	mguə	pguə 
+hold in arm: mgon	mguə	pguə 
+squeeze: mraəh	mreh	praəh 
+wring: mraəh	mreh	praəh 
+throw: imbaəh	nimbaəh	ŋimbeh 
+bind: kbuəʔ	ŋbot	ŋbuəʔ 
+fasten: kbuəʔ	ŋbot	ŋbuəʔ 
+tie: kbuəʔ	ŋbot	ŋbuəʔ 
+tie up: kbuəʔ	ŋbot	ŋbuəʔ 
+sew: joayʔ	naeyt	njaoyʔ 
+count: itao	ŋitao	ŋitown 
+enumerate: itao	ŋitao	ŋitown 
+number: itao	ŋitao	ŋitown 
+tally: itao	ŋitao	ŋitown 
+flow: ŋalaə 
+lake: danu	danuə 
+ocean: laawʔ	laowt 
+sea: laawʔ	laowt 
+dust: dəbew	dəbu 
+fog: kabeyʔ	kabut 
+sky: laŋayʔ	laŋeyt 
+bad: jaawʔ 
+evil: jaawʔ 
+rot: busewʔ 
+rotten: busewʔ 
+dirty: kumaoh 
+filthy: kumaoh 
+soiled: kumaoh 
+sharp: tajuə 
+blunt: tumpao 
+damp: basuəh 
+wet: basuəh 
+right side: kana	kanan 
+left: kidow	kiduə 
+at: di 
+in: dalon 
+inside: dalon 
+and: ŋa 
+if: kalow 

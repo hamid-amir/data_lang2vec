@@ -1,0 +1,330 @@
+all: purrp 
+every: purrp 
+ash: puna 
+ashes: puna 
+bark: parnnga	paɲiri 
+abdomen: majul	munta 
+belly: majul	munta 
+big: jangkarni	ɟaŋkani 
+bigness: jangkarni	ɟaŋkani 
+large: jangkarni	ɟaŋkani 
+bird: jurlak	ɟulak	ɟuḷak 
+bite: katuḷ payanana	paya-	payawu 
+black: mimpuŋ	mumpung	mumpuŋ 
+blood: kuNulu	kungulu	kuŋulu 
+bone: kuyuwarn	kuɟi 
+breast: %Napurlu	ngapurlu	ŋapulu 
+breasts: %Napurlu	ngapurlu	ŋapulu 
+claw: lipi 
+nail: lipi 
+talon: lipi 
+cloud: maarn	maṭayi 
+cold: makurru	makuru 
+come: ya	ya-	yanana 
+come from: ya	ya-	yanana 
+be dead: %tampaN	tampang 
+dead: %tampaN	tampang 
+die: %tampaN	tampang 
+dog: warlaku	waḷaku	ŋurakin 
+drink: kukij paya	kukij paya-	kukiɟ payanana 
+dry: pulwar	pulwarr 
+ear: laNa	langa	laŋa 
+earth: janja	ngurra	yulu 
+ground: janja	ngurra	yulu 
+land: janja	ngurra	yulu 
+soil: janja	ngurra	yulu 
+eat: jaartkarra nga-	ɟaṭara ŋaṇana 
+egg: kampij	kampiɟ 
+eye: mila 
+feather: pinkir	pinkirr 
+fire: warlu	waḷu 
+fish: %yawu	yawu 
+fly: tiwu ya- 
+fly v.: tiwu ya- 
+foot: jamana	ɟamana 
+full: %timpak	timpak 
+give: jayi-	ɟayi-	ɟayiŋana 
+good: punyu	puɲu 
+green: wurrkawurrkal 
+hair: kartpi	kaṭpi 
+hand: wartarn	waṭan 
+left hand: wartarn	waṭan 
+right: wartarn	waṭan 
+head: ngarlaka	ŋaḷaka 
+hear: %kuru 5a	kurru nya-	kuru ɲaŋana	puɹ̣a ɲa- 
+heart: tulang	tuḷaŋ 
+horn: wirnturru	wirnturu 
+1 sg.: Nayu	ngayu	ŋayu 
+I: Nayu	ngayu	ŋayu 
+kill: pa-	panana	tampang pa- 
+knee: tiNari	tingarri	tiŋari 
+be knowledgeable: pina karri- 
+know: pina karri- 
+leaf: jalyi	ɟaʎi 
+lie: makin karri- 
+lie down: makin karri- 
+liver: %malumpa	malumpa	maḷumpa 
+long: juwal	ɟuwal 
+head louse: %wutu	wawuyany	wutu 
+louse: %wutu	wawuyany	wutu 
+male: malyju	maḷuka	ngumpit	ŋumpin 
+man: Numpit	ngumpit	ŋumpin 
+many: jarrwa	ɟarwa 
+much: jarrwa	ɟarwa 
+multiple: jarrwa	ɟarwa 
+several: jarrwa	ɟarwa 
+flesh: niyan 
+meat: niyan 
+moon: jakiliny	ɟakiliŋ	ɟakiliɲ 
+hill: %Narlaka	ngarlaka 
+mountain: %Narlaka	ngarlaka 
+mouth: kaŋanta	lirra 
+name: yini 
+title: yini 
+neck: ngirlkirri 
+new: jalayalaN	jalayalang	ɟalayalaŋ	ɟaʎilaŋ 
+night: %kaputa	kaputa 
+nighttime: %kaputa	kaputa 
+nose: jitji	ɟiɟi 
+not: kula	lawaɹ̣a 
+adulterous: jintaku	ɟintaku 
+one: jintaku	ɟintaku 
+single: jintaku	ɟintaku 
+that: kaṭi	nyila	ɲila 
+the: jintaku	ɟintaku 
+unprincipled: jintaku	ɟintaku 
+human: Numpit	ngumpit	ŋumpin 
+human being: Numpit	ngumpit	ŋumpin 
+person: Numpit	ngumpit	ŋumpin 
+rain: yipu 
+rainy weather: yipu 
+red: kikik	winkilying 
+path: warntari	warntarri 
+road: warntari	warntarri 
+route: warntari	warntarri 
+root: wintara	wirnturru 
+round: pirtakpari 
+sand: kiḷkiḷ	warrayarl	yirimiɹ̣i 
+say: ma-	yariyi ma- 
+see: karap 5a	karap ɲaŋana	karrap nya- 
+seed: timpi 
+sit: lurlu karri-	tak kariɲana 
+hide: wajawur	wajawurr 
+skin: wajawur	wajawurr 
+sleep: makin	makin kariɲana	makin karri- 
+little: yapakayi	yapakuɹ̣u	yapawurru	yapawuru	yapayapa 
+small: yapakayi	yapakuɹ̣u	yapawurru	yapawuru	yapayapa 
+smallness: yapakayi	yapakuɹ̣u	yapawurru	yapawuru	yapayapa 
+smoke: jungkart	ɟuŋkaṭ 
+star: %kiki	kiki 
+rock: %wumara	wumara	wumaɹ̣a 
+stone: %wumara	wumara	wumaɹ̣a 
+sun: %wurlNarn	wulŋan	wurlngarn 
+swim: lilaj ya-	lilaɟ yanana 
+tail: jawut	ɟawut 
+this: nyawa	ɲawa 
+2 sg: 5utu	nyuntu	ɲuntu 
+thou: 5utu	nyuntu	ɲuntu 
+you: 5utu	nyuntu	ɲuntu 
+tongue: jala5	jalany	ɟalaɲ 
+tooth: lira	lirra 
+tree: %karnti	karnti 
+grind: %kujara	kucara	kujara	kujarra 
+two: %kujara	kucara	kujara	kujarra 
+go: kalu ya-	kaḷu yanana 
+walk: kalu ya-	kaḷu yanana 
+hot: paɹ̣uŋa	tanyji 
+warm: paɹ̣uŋa	tanyji 
+water: Nawa	ngawa	ŋawa 
+1 pl. inc.: Nantipa	ngaliwa	ngantipa	ŋaliwa 
+we: Nantipa	ngaliwa	ngantipa	ŋaliwa 
+we₁: Nantipa	ngaliwa	ngantipa	ŋaliwa 
+what: nyampa	ɲampa 
+white: waki 
+whiteness: waki 
+who: ngana	ŋana	ŋantu 
+who?: ngana	ŋana	ŋantu 
+female: janka	nampiyita	ɟanka 
+woman: janka	nampiyita	ɟanka 
+yellow: karrikurn-karrikurn 
+distant: yikili 
+far: yikili 
+dull: ngarturr 
+heavy: ngarturr 
+serious: ngarturr 
+close: kajupari	witkupaɹ̣i 
+near: kajupari	witkupaɹ̣i 
+ner: kajupari	witkupaɹ̣i 
+salt: karang 
+short: lutu	luṭu 
+snake: kuljany	waɹ̣i 
+thin: tinkal 
+wind: purip	wumaj 
+year: parunga 
+3 sg.: nyantu 
+he: nyantu 
+she: nyantu 
+2 pl.: nurulu	nyurrulu 
+ye: nurulu	nyurrulu 
+you all: nurulu	nyurrulu 
+3 pl.: nyarrulu 
+they: nyarrulu 
+here: murlangka 
+there: yalangka 
+where: wanyjika	wanɟi	waɲɟika 
+where?: wanyjika	wanɟi	waɲɟika 
+when: nyangurla 
+when?: nyangurla 
+how: nyatpa 
+how?: nyatpa 
+some: -walija 
+few: murrkunpurru 
+other: -kari 
+three: murkuṇ	murrkun 
+four: kujarra-kujarra 
+five: ngarra 
+broad: payal 
+wide: payal 
+wideness: payal 
+fat: wararr 
+thick: junyju 
+narrow: kurrpu 
+child: karu	kaɹ̣u 
+principal wife: janka 
+wife: janka 
+husband: ngumparna 
+his mother: ngamayi 
+mother: ngamayi 
+my mother: ngamayi 
+father: ngaji	ŋaɟi 
+his father: ngaji	ŋaɟi 
+my father: ngaji	ŋaɟi 
+animal: ngarin 
+forest: manyja 
+woods: manyja 
+branch: jalyi	kiyarri 
+stick: jalyi	kiyarri 
+fruit: mangarri 
+flower: yirna	yiṇa 
+grass: yuka 
+cord: muntiri 
+rope: muntiri 
+grease: wararr 
+fingernail: lipi 
+leg: jamana	ɟamana 
+arm: wartarn 
+wing: pinkirr 
+gut: lupu 
+guts: lupu 
+insides: lupu 
+intestine: lupu 
+intestines: lupu 
+back: pantawaru	parntawurru 
+suck: nyuk paya- 
+spit: jupak yuwa- 
+vomit: kurlpak yuwa- 
+blow: purriip marn- 
+breath: ngayirrp ma- 
+breathe: ngayirrp ma- 
+laugh: yapip wani-	yayip ma- 
+laughter: yapip wani-	yayip ma- 
+cogitate: kirr ka- 
+reflect: kirr ka- 
+think: kirr ka- 
+smell: ngapuk ma-	ŋapuk manana 
+sniff: ngapuk ma-	ŋapuk manana 
+afraid: wukarra 
+be afraid: wukarra 
+fear: wukarra 
+fright: wukarra 
+alive: wanji 
+be alive: wanji 
+life: wanji 
+live: wanji 
+living: wanji 
+fight: kuii karri-	kuli 
+hunt: yangkarrp ya- 
+beat: pa-	panana 
+hit: pa-	panana 
+strike: pa-	panana 
+cut: kataj pa-	kataɟ panana 
+hack: kataj pa-	kataɟ panana 
+cut open: lak pa- 
+split: lak pa- 
+pierce: turrp pu- 
+stab: turrp pu- 
+scratch: yikarrp ma- 
+dig: kurrijkarra pu-	kuṭiɟ puŋana 
+tell lies: kuranykarra ma- 
+stand: kutij karri-	kuṭiɟ kariɲana 
+turn: wirrminy karri- 
+turn around: wirrminy karri- 
+turn round: wirrminy karri- 
+drop: paṭ waniɲana	wani- 
+fall: paṭ waniɲana	wani- 
+grasp: turt ma- 
+hold: turt ma- 
+hold in arm: turt ma- 
+squeeze: july ma- 
+wring: july ma- 
+rub: yurr ma- 
+wipe: kamang ma- 
+wash: wulyuk ma- 
+wash clothes: wulyuk ma- 
+push: jurlkap yuwa- 
+shove: jurlkap yuwa- 
+throw: waj wuya-	waɟ yuwanana 
+bind: tipit ma- 
+fasten: tipit ma- 
+tie: tipit ma- 
+tie up: tipit ma- 
+sew: mintim ma- 
+count: yurrk ma- 
+enumerate: yurrk ma- 
+number: yurrk ma- 
+tally: yurrk ma- 
+sing: yunpa- 
+have fun: wajarra karri- 
+play: wajarra karri- 
+float: wumpalp karri- 
+flow: warrayi ya- 
+freeze: murrupa-k karri- 
+brook: pinka 
+river: pinka 
+stream: pinka 
+lake: langkana 
+ocean: wangkuwala 
+sea: wangkuwala 
+dust: jurtu 
+fog: kaparru 
+sky: kulumarra	kunturu 
+snow: murrupa 
+ice: murrupa 
+blaze: jiya-	puṭuɟ ɟiyaṇana 
+burn: jiya-	puṭuɟ ɟiyaṇana 
+day: wurlngarn 
+daylight: wurlngarn 
+daytime: wurlngarn 
+old: kajirri 
+bad: wankaj	wankaɟ 
+evil: wankaj	wankaɟ 
+rot: puka 
+rotten: puka 
+dirty: nyunal 
+filthy: nyunal 
+soiled: nyunal 
+straight: jutu	ɟutu 
+sharp: kutukutu 
+blunt: tapu 
+smooth: kirinykiriny 
+damp: pantij	pantiɟ 
+wet: pantij	pantiɟ 
+correct: jutu	ɟutu 
+right side: jutu 
+left: jampukarra 
+at: ngka	ngka and allomorphs 
+in: walyak 
+inside: walyak 
+with: -kunyja 
+if: nyamu...nga 
+because: -paju 

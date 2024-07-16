@@ -1,0 +1,457 @@
+all: unu 
+arm: ebe- 
+arm: ɛbɛ- 
+arrow: ikir 
+ashes: bopin | bopin	omis	oris 
+ashes: omis | bopin	omis	oris 
+ashes: oris | bopin	omis	oris 
+back: kokodo- 
+bad: ë:ru 
+bad: ʌːru 
+belly: awi- 
+belly: bi- | awi- 
+belly: wawi- 
+big: be:non | beːnon 
+big: beːnon 
+bird: më:n | mʌːn 
+bird: mʌːn 
+bite: i- 
+black: ukuri 
+blood: eta- | Eta	ɛta- 
+blood: ɛta- | Eta	ɛta- 
+blow: hude- 
+blow: hudɛ- 
+bone: efai- | Efai	ɛfai- 
+bone: ɛfai- | Efai	ɛfai- 
+boy: mer haun 
+boy: mɛr haun 
+breast: su: | su	suː- 
+breast: suː- | su	suː- 
+brother: afa- 
+brother: make- 
+brother: makɛ- 
+burn: mane- 
+burn: manɛ- 
+butterfly: papërit 
+butterfly: papʌrit 
+calf: use- 
+calf: usɛ- 
+cassowary: eir 
+chest: muku- 
+child: me:r 
+child: mɛːr 
+chin: ibe- 
+chin: ibɛ- 
+cloud: ʌba tina 
+cloud: ëba tina | ʌba tina 
+cold: mahoan 
+come: so- | so	so- 
+crocodile: wakay 
+cut: ak- 
+cut: ako- 
+dance: parai du- 
+day: deiwa 
+day: io\ 
+die: arme- | armE	arrmɛ- 
+die: arrmɛ- | armE	arrmɛ- 
+dig: he:raise- 
+dig: hɛːraisɛ- 
+dig: hue- 
+dig: huɛ- 
+dirty: gegehin 
+dog: pëy | p3y	pʌy 
+dog: pʌy | p3y	pʌy 
+dry: kororean | kororɛan 
+dry: kororɛan 
+ear: dai- | dai	dai- 
+earth: mi:r | miːr 
+earth: miːr 
+eat: de- | dɛ- 
+eat: dɛ- 
+eat: deana no- | dɛ- 
+egg: musa 
+elbow: u:r 
+elbow: uːr 
+emu: eir 
+excrement: bi:- 
+eye: ame- | amE	amɛ- 
+eye: amɛ- | amE	amɛ- 
+face: orʌ- 
+face: orë- 
+fall: no- 
+fall: nu- 
+fall: u:ëte- 
+far: atëh | atʌh	uːrumɛ 
+far: atʌh | atʌh	uːrumɛ 
+far: u:rume | atʌh	uːrumɛ 
+far: uːrumɛ | atʌh	uːrumɛ 
+father: bʌbʌ 
+father: bëbë- 
+father: meme- 
+father: mɛmɛ- 
+fat (n.): ti:nu 
+fat (n.): tiːnu 
+fear: umune- 
+few: tunu\ 
+few: tunuʔ 
+fight: adɛ- 
+finger: mʌː 
+finger: më: 
+fingernail: siro\ 
+fingernail: siroʔ 
+fire: dë:y | d3y	dʌːy 
+fire: dʌːy | d3y	dʌːy 
+fish: u:r | ur	uːrr 
+fish: uːrr | ur	uːrr 
+fly (n.): guʌbur 
+fly (n.): guëbur 
+fly (v.): furrɛrrɛ- 
+fly (v.): furure- 
+fog: hud 
+forehead: orë- 
+forest: aran 
+fruit: ai\ 
+fruit: aiʔ 
+full: ʔoʔaran | o7aran	osuan	ʔosuan	ʔoʔaran 
+full: o\aran | o7aran	osuan	ʔosuan	ʔoʔaran 
+full: \osuan | o7aran	osuan	ʔosuan	ʔoʔaran 
+full: ʔosuan | o7aran	osuan	ʔosuan	ʔoʔaran 
+full: wete- | o7aran	osuan	ʔosuan	ʔoʔaran 
+full: wɛtɛ- | o7aran	osuan	ʔosuan	ʔoʔaran 
+girl: arë haun 
+girl: arʌ haun 
+give: ø-/ute- 
+give: ute- 
+good: me:ba\in | mɛːbaʔin 
+good: mɛːbaʔin 
+grass: i:nam 
+guts: bi- 
+hair: kosi | kosi	pʌki 
+hair: pëki | kosi	pʌki 
+hair: pʌki | kosi	pʌki 
+head: irërë- | irʌrʌ- 
+head: irʌrʌ- 
+head: nohu- | irʌrʌ- 
+hear: daum- | daum	daum- 
+heart: uru- 
+heavy: urumen | urumɛn 
+heavy: urumɛn 
+here: bë:ra 
+here: ei-kon 
+here: pi:ri 
+he/she: -\ 
+he/she: -ʔ 
+he/she: -ba 
+he/she: -ku 
+he/she: -ø 
+he/she: -ø- 
+he/she: u\pa 
+he/she: uʔpa 
+he/she: -ure- 
+he/she: -urɛ- 
+he/she: -ute 
+he/she: -utɛ- 
+hit: ade- 
+hold: fare- 
+hold: farɛ- 
+house: do: 
+house: doː 
+how: kani:\ëk 
+I: -i | isa 
+I: -(i)a | isa 
+I: isa 
+I: -ite- | isa 
+I: -l | isa 
+in: hamon 
+kill: be- | bɛ- 
+kill: bɛ- 
+knee: ihoro- | ihoro	ihoro-	k3t	kʌːt 
+knee: kë:t | ihoro	ihoro-	k3t	kʌːt 
+knee: kʌːt | ihoro	ihoro-	k3t	kʌːt 
+laugh: u:ba i:b- 
+laugh: uːba iːb- 
+left: nëkeva 
+left: nʌkɛva 
+leg: hai 
+lightning: amera fiay- 
+lightning: amɛra fiay- 
+liver: kema- | kEma	kema- 
+long: e\era | ɛʔɛra 
+long: ɛʔɛra 
+louse: mi 
+man: dana 
+man: manahër | dana 
+man: manahʌr | dana 
+many: ëro\p \in | ʌroʔp ʔin 
+many: ʌroʔp ʔin 
+meat: tehu\ 
+meat: tɛhuʔ 
+moon: da:ker | daːkɛr 
+moon: daːkɛr 
+morning: eteu 
+morning: ɛtɛu 
+morning: varainea 
+morning: varainɛa 
+mosquito: i:u 
+mosquito: iːu 
+mother: aːni- 
+mother: ani- 
+mother: aw 
+mountain: besi\ | EhEn	bEsi7	bɛsiʔ	ɛhen 
+mountain: bɛsiʔ | EhEn	bEsi7	bɛsiʔ	ɛhen 
+mountain: ehen | EhEn	bEsi7	bɛsiʔ	ɛhen 
+mountain: ɛhen | EhEn	bEsi7	bɛsiʔ	ɛhen 
+mouth: o- 
+name: veni- | vEni	vɛni- 
+name: vɛni- | vEni	vɛni- 
+nape: du- 
+navel: iri- 
+near: tunahur 
+neck: be:ri- | bɛːri- 
+neck: bɛːri- 
+new: ɛrʌʔ | Er37	ɛrʌʔ 
+new: erë\ | Er37	ɛrʌʔ 
+night: wi:ku | wiku	wiːku 
+night: wiːku | wiku	wiːku 
+nose: mede- | mEdE	mɛdɛ- 
+not: be:\i 
+not: beːʔi 
+old: bë\i 
+old: bʌʔi 
+old: si:ru 
+old: siːru 
+one: ora\it | ora7it	oraʔit 
+one: oraʔit | ora7it	oraʔit 
+pull: di:de- 
+pull: diːdɛ- 
+push: nude- 
+push: nudɛ- 
+rain: vanea | vanɛa 
+rain: vanɛa 
+rat: ko\i 
+rat: koʔi 
+red: e:da\ | ɛːdaʔ 
+red: ɛːdaʔ 
+right: meurava 
+right: mɛurava 
+ripe: bi:wa 
+ripe: biːwa 
+road: ahu 
+root: bebesiroin 
+rope: ɔrʌ 
+salt: siu 
+sand: esi\ | ɛsiʔ 
+sand: ɛsiʔ 
+sand: mir asawa | ɛsiʔ 
+say: ava me- | ma-	mar- 
+say: ava mɛ- | ma-	mar- 
+say: ma(r) | ma-	mar- 
+say: ma(r)- | ma-	mar- 
+scratch: kereude- 
+scratch: kɛrɛudɛ- 
+sea: ma\as 
+sea: maʔas 
+sea: malas 
+see: fe- | fe	fe-	of	of- 
+see: of- | fe	fe-	of	of- 
+see: ofɛ- | fe	fe-	of	of- 
+sharp: ëi\we\ 
+sharp: mati- 
+sharp: ʌɪʔwɛʔ 
+short: kotin 
+shoulder: abëra- 
+shoulder: abʌra- 
+sing: parai sire- 
+sister: ebi(na)- 
+sister: ɛbi(na)- 
+sister: ebi(na)- në\ëk 
+sister: ɛbi(na)- nʌʔʌk 
+sit: bide- 
+skin: ɛvʌ- | Ev3	kana	kana-	ɛvʌ- 
+skin: evë- | Ev3	kana	kana-	ɛvʌ- 
+skin: kana- | Ev3	kana	kana-	ɛvʌ- 
+sky: ʌba 
+sky: ëba 
+sleep: ni- 
+small: na\ak | naʔak 
+small: naʔak 
+smell: ahagud- 
+smoke: ahu\ | ahuʔ 
+smoke: ahuʔ 
+snake: më:ni | mʌːni 
+snake: mʌːni 
+spit: dɛʔuru be- 
+spit: ɛtorɛ 
+spit: i:n 
+spit: iːn 
+spit: sahara- 
+split: batëne- 
+split: batʌnɛ- 
+stand: aye- 
+stand: tave- 
+stand: tavɛ- 
+star: hëi | h3i	hʌi 
+star: hʌi | h3i	hʌi 
+stick: tutur 
+stone: me:n | mEn	mɛːn 
+stone: mɛːn | mEn	mɛːn 
+straight: tutu 
+sun: ë:ma | 3ma	3si7	ʌːma	ʌːsiʔ 
+sun: ë:si\ | 3ma	3si7	ʌːma	ʌːsiʔ 
+sun: ʌːma | 3ma	3si7	ʌːma	ʌːsiʔ 
+sun: ʌːsiʔ | 3ma	3si7	ʌːma	ʌːsiʔ 
+swell: waru(wɛ)- 
+tail: hoku 
+tail: pitu | hoku 
+take: o- 
+that: onu 
+there: oi-kon 
+there: oi- kon 
+they: -ate- 
+they: -atɛ- 
+they: -(i)ʌʔ 
+they: -(i)ë\ 
+they two: -are- 
+they two: -ë\ 
+they two: u\pa-re 
+they: u\pa-ke 
+they: uʔpa-kɛ 
+thigh: tu\uru- 
+thigh: tuʔuru- 
+think: iside- 
+think: isidɛ- 
+this: ene | ɛnɛ 
+this: ɛnɛ 
+thou: -a | ina 
+thou: -atɛ- | ina 
+thou: -(i)ʌʔ | ina 
+thou: ina 
+thou: -ise- | ina 
+thou: -isɛ- | ina 
+thou: ʌ-kɛ | ina 
+thou: -na | ina 
+throat: dodori 
+throw: here- 
+throw: hɛrɛ- 
+thunder: periapa pe- 
+thunder: pɛriapa pe- 
+tie: dide- 
+tie: didɛ- 
+tomorrow: erew 
+tomorrow: uʔbʌ 
+tomorrow: u\bë 
+tongue: belia- | bElia	bɛlia- 
+tongue: bɛlia- | bElia	bɛlia- 
+tooth: ai- 
+tree: kuːk | n3i 
+tree: nëi | n3i 
+tree: nʌi | n3i 
+tree: um | n3i 
+turn: faride- 
+turn: faridɛ- 
+two: erit | Erit	ɛrit 
+two: ɛrit | Erit	ɛrit 
+vagina: mina- 
+vomit: fɛru- 
+walk: kuʔurɛ- | obɛ- 
+walk: nu- | obɛ- 
+walk: obe- | obɛ- 
+walk: obɛ- 
+wallaby: utëma 
+wallaby: utʌma 
+warm: dain 
+wash: vado- 
+water: vʌ | v3	vʌ 
+water: vë | v3	vʌ 
+weep: bʌ- 
+weep: bë- 
+we: -ike | ikE 
+we: -ike- | ikE 
+we: i-ke | ikE 
+we: -ikɛ | ikE 
+we: -ikɛ- | ikE 
+we: i-kɛ | ikE 
+wet: wa:mean 
+wet: waːmɛan 
+we two: -ire 
+we two: -ire- 
+we two: i-re 
+what: era | ɛra 
+what: ɛra 
+where: a:ye 
+where: aːyɛ 
+where: ëku 
+where: ʌku 
+white: seneneka | sɛnɛnɛka 
+white: sɛnɛnɛka 
+who: i:n(e) | iːn	iːnɛ 
+who: iːn(ɛ) | iːn	iːnɛ 
+wind: uhe | uhɛ 
+wind: uhɛ 
+wing: aru\ 
+wing: aruʔ 
+woman: anëgu | ara 
+woman: anʌgu | ara 
+woman: ara 
+wood: pabuti 
+wood: tutu 
+wood: tutur 
+yellow: dë:n | dʌːn 
+yellow: dʌːn 
+yes: ois 
+yesterday: eren 
+yesterday: u:m 
+yesterday: uːm 
+you: -ate- | ina 
+you: ë-ke | ina 
+you: -(i)ë\ | ina 
+you two: -are- 
+you two: -ë\ 
+you two: ë-re 
+every: unu 
+ash: bopin	omis	oris 
+abdomen: awi- 
+bigness: beːnon 
+large: beːnon 
+breasts: su	suː- 
+come from: so	so- 
+be dead: armE	arrmɛ- 
+dead: armE	arrmɛ- 
+ground: miːr 
+land: miːr 
+soil: miːr 
+fly: furrɛrrɛ- 
+fly v.: furrɛrrɛ- 
+1 sg.: isa 
+head louse: mi 
+male: dana 
+much: ʌroʔp ʔin 
+multiple: ʌroʔp ʔin 
+several: ʌroʔp ʔin 
+hill: EhEn	bEsi7	bɛsiʔ	ɛhen 
+title: vEni	vɛni- 
+nighttime: wiku	wiːku 
+adulterous: ora7it	oraʔit 
+single: ora7it	oraʔit 
+the: ora7it	oraʔit 
+unprincipled: ora7it	oraʔit 
+rainy weather: vanɛa 
+path: ahu 
+route: ahu 
+hide: Ev3	kana	kana-	ɛvʌ- 
+little: naʔak 
+smallness: naʔak 
+rock: mEn	mɛːn 
+2 sg: ina 
+grind: Erit	ɛrit 
+go: obɛ- 
+1 pl. inc.: ikE 
+we₁: ikE 
+whiteness: sɛnɛnɛka 
+who?: iːn	iːnɛ 
+female: ara 
+distant: atʌh	uːrumɛ 
+dull: urumɛn 
+serious: urumɛn 
+close: tunahur 
+ner: tunahur 

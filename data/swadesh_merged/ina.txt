@@ -1,0 +1,333 @@
+all: tote 
+every: tote 
+ash: cineres 
+ashes: cineres 
+bark: cortice 
+abdomen: ventre 
+belly: ventre 
+big: grande 
+bigness: grande 
+large: grande 
+bird: ave 
+bite: morder 
+black: nigre 
+blood: sanguine 
+bone: oso	osso 
+breast: pectore	pektore	sino 
+breasts: pectore	pektore	sino 
+cloud: nube 
+cold: frigide 
+come: venir 
+come from: venir 
+be dead: morir 
+dead: morir 
+die: morir 
+dog: can	kan 
+drink: biber 
+dry: sic 
+ear: aure	auricula 
+earth: terra 
+ground: terra 
+land: terra 
+soil: terra 
+eat: eder	manducar	mangiar 
+egg: ovo 
+eye: oculo	okulo 
+feather: penna	pluma 
+fire: foco	foko	igne 
+fish: pisce 
+fly: volar 
+fly v.: volar 
+foot: pede 
+full: complete	plen 
+give: dar 
+good: bon 
+green: verde 
+hair: cabelo	pilo 
+hand: mano 
+left hand: mano 
+right: mano 
+head: capite	testa 
+hear: audir 
+heart: corde 
+horn: corno	korno 
+1 sg.: io 
+I: io 
+kill: occider 
+knee: geniculo	genu 
+be knowledgeable: saper 
+know: saper 
+leaf: folio 
+liver: ficato	fikato	hepate 
+long: longe 
+head louse: pediculo	pedikulo 
+louse: pediculo	pedikulo 
+male: homine 
+man: homine	persona 
+many: multe 
+much: multe 
+multiple: multe 
+several: multe 
+moon: luna 
+hill: montania	monte 
+mountain: montania	monte 
+mouth: bucca	ore 
+name: nomine 
+title: nomine 
+neck: collo 
+new: nove 
+night: nocte	nokte 
+nighttime: nocte	nokte 
+nose: naso	nazo 
+not: non 
+adulterous: un 
+one: un 
+single: un 
+that: aquelle	aquello	ille	illo 
+the: un 
+unprincipled: un 
+human: homine	persona 
+human being: homine	persona 
+person: homine	persona 
+rain: pluvia 
+rainy weather: pluvia 
+red: rubide	rubie	rubre 
+path: sentiero	strata 
+road: sentiero	strata 
+route: sentiero	strata 
+root: radice 
+round: ronde	rotunde 
+sand: arena	sablo 
+say: dicer 
+see: vider 
+seed: semine 
+sit: esser sedite	seder 
+hide: cute	kute	pele	pelle 
+skin: cute	kute	pele	pelle 
+sleep: dormir 
+little: micre	parve 
+small: micre	parve 
+smallness: micre	parve 
+smoke: fumo 
+star: astro	stela	stella 
+rock: lapide	petra 
+stone: lapide	petra 
+sun: sol 
+swim: natar 
+tail: cauda 
+this: iste	isto 
+2 sg: tu 
+thou: tu 
+you: tu 
+tongue: lingua 
+tooth: dente 
+tree: arbore 
+grind: duo 
+two: duo 
+go: ambular	camminar	promenar se 
+walk: ambular	camminar	promenar se 
+hot: calide 
+warm: calide 
+water: akva	akw~a	aqua 
+1 pl. inc.: nos 
+we: nos 
+we₁: nos 
+what: que 
+white: blanc 
+whiteness: blanc 
+who: qui 
+who?: qui 
+female: femina 
+woman: femina 
+yellow: jalne 
+distant: distante	longe 
+far: distante	longe 
+dull: pesante 
+heavy: pesante 
+serious: pesante 
+close: presso	proxime	proximo	vicin 
+near: presso	proxime	proximo	vicin 
+ner: presso	proxime	proximo	vicin 
+salt: sal 
+short: curte 
+snake: serpente 
+thin: magre	tenue 
+wind: vento 
+earthworm: verme 
+worm: verme 
+year: anno 
+3 sg.: ille 
+he: ille 
+she: ille 
+2 pl.: vos 
+ye: vos 
+you all: vos 
+3 pl.: illes 
+they: illes 
+here: aqui	hic 
+there: illac	la 
+where: ubi 
+where?: ubi 
+when: quando 
+when?: quando 
+how: como 
+how?: como 
+some: alcun	alicun 
+few: pauc	poc 
+other: altere 
+three: tres 
+four: quatro 
+five: cinque 
+broad: large 
+wide: large 
+wideness: large 
+fat: grassia 
+thick: grosse	spisse 
+narrow: stricte 
+child: infante 
+principal wife: marita	sponsa	sposa	uxor 
+wife: marita	sponsa	sposa	uxor 
+husband: marito	sponso	sposo 
+his mother: matre 
+mother: matre 
+my mother: matre 
+father: patre 
+his father: patre 
+my father: patre 
+animal: animal 
+forest: foreste 
+woods: foreste 
+branch: baston 
+stick: baston 
+fruit: fructo 
+flower: flor 
+grass: herba 
+cord: corda 
+rope: corda 
+flesh: carne 
+meat: carne 
+grease: grassia 
+claw: ungula 
+fingernail: ungula 
+nail: ungula 
+leg: gamba 
+arm: mano 
+wing: ala 
+gut: tripas 
+guts: tripas 
+insides: tripas 
+intestine: tripas 
+intestines: tripas 
+back: dorso 
+suck: suger 
+spit: sputar 
+vomit: vomir	vomitar 
+blow: sufflar 
+breath: respirar 
+breathe: respirar 
+laugh: rider 
+laughter: rider 
+cogitate: pensar 
+reflect: pensar 
+think: pensar 
+smell: oler 
+sniff: oler 
+afraid: timer 
+be afraid: timer 
+fear: timer 
+fright: timer 
+alive: viver 
+be alive: viver 
+life: viver 
+live: viver 
+living: viver 
+fight: luctar 
+hunt: chassar 
+beat: batter	colpar 
+hit: batter	colpar 
+strike: batter	colpar 
+cut: secar	taliar 
+hack: secar	taliar 
+cut open: finder 
+split: finder 
+pierce: dagar	pugnalar 
+stab: dagar	pugnalar 
+scratch: grattar	rader 
+dig: excavar	foder	fossar 
+lie: cubar	jacer 
+lie down: cubar	jacer 
+tell lies: cubar	jacer 
+stand: star 
+turn: girar	tornar 
+turn around: girar	tornar 
+turn round: girar	tornar 
+drop: cader 
+fall: cader 
+grasp: tener 
+hold: tener 
+hold in arm: tener 
+squeeze: comprimer	premer 
+wring: comprimer	premer 
+rub: fricar	frictionar 
+wipe: essugar 
+wash: lavar 
+wash clothes: lavar 
+pull: tirar	traher 
+push: pulsar 
+shove: pulsar 
+throw: jectar	lancear 
+bind: ligar 
+fasten: ligar 
+tie: ligar 
+tie up: ligar 
+sew: suer 
+count: contar 
+enumerate: contar 
+number: contar 
+tally: contar 
+sing: cantar 
+have fun: jocar 
+play: jocar 
+float: flottar 
+flow: fluer 
+freeze: gelar 
+swell: inflar	intumescer	tumer 
+brook: fluvio 
+river: fluvio 
+stream: fluvio 
+lake: laco 
+ocean: mar 
+sea: mar 
+dust: pulvere 
+fog: bruma	nebula 
+sky: celo 
+snow: nive 
+ice: glacie 
+blaze: arder 
+burn: arder 
+day: die 
+daylight: die 
+daytime: die 
+old: vetere	vetule 
+bad: mal 
+evil: mal 
+rot: corrupte 
+rotten: corrupte 
+dirty: immunde 
+filthy: immunde 
+soiled: immunde 
+straight: recte 
+sharp: acute	affilate 
+blunt: obtuse 
+smooth: lisie 
+damp: humide	molliate 
+wet: humide	molliate 
+correct: correcte 
+right side: dextere 
+left: sinistre 
+at: a	in 
+in: in 
+inside: in 
+with: con 
+if: si 
+because: proque 

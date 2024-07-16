@@ -1,0 +1,309 @@
+all: dapiya-	humant-	hūmantes	pangarit	pangariya-	panku- 
+every: dapiya-	humant-	hūmantes	pangarit	pangariya-	panku- 
+ash: has-	hās	hāss- 
+ashes: has-	hās	hāss- 
+abdomen: sarhuwanz 
+belly: sarhuwanz 
+big: salli- 
+bigness: salli- 
+large: salli- 
+bird: peri-	suwais 
+bite: wak-	wāki 
+black: dankuis	hanzanas	kappant- 
+blood: eShar	eshar	eshār 
+bone: hastai	hastai-	hastāi 
+breast: teta-	tētan 
+breasts: teta-	tētan 
+cloud: alpa-	alpās	kammara- 
+cold: ekuna-	ekunanz 
+come: ehu	uwa	uwa-	uēzzi 
+come from: ehu	uwa	uwa-	uēzzi 
+be dead: ak-	aki	akk	ek-	hark-	harkiya- 
+dead: ak-	aki	akk	ek-	hark-	harkiya- 
+die: ak-	aki	akk	ek-	hark-	harkiya- 
+dog: kuwas	suwana	suwanna- 
+drink: akw~	eku-	ekuzi	ekw~	hazzik-	nik-	sakruwai- 
+dry: hat-	hātanz 
+ear: istamana	istamana-	istāman 
+earth: tēkan	udne)	utne	utniyant- 
+ground: tēkan	udne)	utne	utniyant- 
+land: tēkan	udne)	utne	utniyant- 
+soil: tēkan	udne)	utne	utniyant- 
+eat: ed-	karap-	ēzzi 
+eye: sakuwa	sakuwa- 
+feather: pattar 
+fire: agniS	pahhur	pahhuwar 
+fish: suwais 
+foot: pata- 
+full: suu-	suus	suwaru- 
+give: hink-	iwaruwai-	maskan-	pai-	piyannai- 
+good: aassu-	ass-	lazzi-	āssus 
+green: hahhala	hahlawanz	i- 
+hair: isheni-	tetana-	tetanas 
+hand: kessar	kissar 
+left hand: kessar	kissar 
+right: kessar	kissar 
+head: harmahi-	harsanna-	harsar 
+hear: istamas-	istamass	istamaszi	sakk 
+heart: kard-	ker 
+horn: karawar	karāwar	surna 
+1 sg.: =mi-	=mu	ammuk	uga	uk	ūk 
+I: =mi-	=mu	ammuk	uga	uk	ūk 
+kill: kuen-	kuēnzi 
+knee: genu-	gienu	gēnu	kenu 
+be knowledgeable: sak- 
+know: sak- 
+leaf: hurpastas	lahurnuzzi-	parsdu	parsdu- 
+lie: ki- 
+lie down: ki- 
+liver: lesi-	lissa-	lissi 
+long: daluki-	dalukis 
+male: pesna-	ziti- 
+man: antuhha-	antuhsa-	antuhsas	atuhsas	danduki- 
+many: mekki-	mēkkies	pangarit 
+much: mekki-	mēkkies	pangarit 
+multiple: mekki-	mēkkies	pangarit 
+several: mekki-	mēkkies	pangarit 
+flesh: suppa-	uzi- 
+meat: suppa-	uzi- 
+moon: arma-	armas 
+hill: kalmara	kalmara- 
+mountain: kalmara	kalmara- 
+mouth: ais	iss- 
+name: atiman	laman 
+title: atiman	laman 
+neck: kuttar 
+new: newa	newa-	nēwas 
+night: ispant	ispant-	ispanz	nekuz 
+nighttime: ispant	ispant-	ispanz	nekuz 
+nose: kapru-	titita-	tititan 
+adulterous: *ās	1-EN	DIŠ	asma	ānt- 
+one: *ās	1-EN	DIŠ	asma	ānt- 
+single: *ās	1-EN	DIŠ	asma	ānt- 
+that: apās 
+the: *ās	1-EN	DIŠ	asma	ānt- 
+unprincipled: *ās	1-EN	DIŠ	asma	ānt- 
+human: antuhha-	antuhsa-	antuhsas	atuhsas	danduki- 
+human being: antuhha-	antuhsa-	antuhsas	atuhsas	danduki- 
+person: antuhha-	antuhsa-	antuhsas	atuhsas	danduki- 
+rain: heu-	hēus 
+rainy weather: heu-	hēus 
+red: eshaniya-	isharwant-	mita-	mitas 
+path: harawa 
+road: harawa 
+route: harawa 
+root: mudai-	surki-	sūrkas 
+say: tar-	te-	tēzzi 
+see: au-	aus	auszi	duq-	sakuwai-	us 
+seed: warwalan 
+sit: es-	ēsa 
+hide: esri-	kursa	kursa- 
+skin: esri-	kursa	kursa- 
+sleep: ses-	seszi	sup-	tesha- 
+little: ammiyan-	kappi-	kappis 
+small: ammiyan-	kappi-	kappis 
+smallness: ammiyan-	kappi-	kappis 
+smoke: kammara-	tuhhui-	tuhhuwai-	tuhhuwais 
+star: Sittar	haster-	hastērz 
+rock: aku-	akuwant-	passila- 
+stone: aku-	akuwant-	passila- 
+sun: astanu-	istanu-	istanus 
+tail: sisai 
+this: kās 
+2 sg: =ta	=ti-	sumes	tuk	zik	zīk 
+thou: =ta	=ti-	sumes	tuk	zik	zīk 
+you: =ta	=ti-	sumes	tuk	zik	zīk 
+tongue: lala	lala-	lalas 
+tooth: gaga-	gagas 
+tree: dar	tāru 
+grind: dā-	dān	ta	ta- 
+two: dā-	dān	ta	ta- 
+go: tiya- 
+walk: tiya- 
+hot: aa-	wantai-	ānz 
+warm: aa-	wantai-	ānz 
+water: watar	wetenaS	wetenas 
+1 pl. inc.: wes	wēs 
+we: wes	wēs 
+we₁: wes	wēs 
+what: kuit 
+white: harki-	harkis 
+whiteness: harki-	harkis 
+who: kuin	kuis 
+who?: kuin	kuis 
+female: *kuwanz	unatti-	wana- 
+woman: *kuwanz	unatti-	wana- 
+yellow: hahlawanz	haliwant- 
+distant: duwān	tuwa 
+far: duwān	tuwa 
+dull: dassu-	nakki-	suwārus	tukk- 
+heavy: dassu-	nakki-	suwārus	tukk- 
+serious: dassu-	nakki-	suwārus	tukk- 
+close: katta	maninkuwan	manninkuwanz 
+near: katta	maninkuwan	manninkuwanz 
+ner: katta	maninkuwan	manninkuwanz 
+short: maninkuwan-	manninkuwanz 
+snake: iluyanka- 
+thin: maklant-	maklanz 
+wind: huwant-	huwanz 
+earthworm: taknas huitnas 
+worm: taknas huitnas 
+year: wit-	wīz 
+3 sg.: -as 
+he: -as 
+she: -as 
+2 pl.: =smas	=smi-	anzel	sumes	sumēs 
+ye: =smas	=smi-	anzel	sumes	sumēs 
+you all: =smas	=smi-	anzel	sumes	sumēs 
+3 pl.: -e	=at	=smas	=smi-	=us 
+they: -e	=at	=smas	=smi-	=us 
+here: kā 
+there: apiya 
+where: kuedani pidi	kuwapi 
+where?: kuedani pidi	kuwapi 
+when: kuedani mehuni	kuwapi	mahhan	man 
+when?: kuedani mehuni	kuwapi	mahhan	man 
+how: mahhan	māhhan 
+how?: mahhan	māhhan 
+some: kappuwant-	kuiesqa	manka- 
+few: tepu-	tēpawes 
+other: damais 
+three: taryi-	teri-	tri-	tēries 
+four: meiu-	meu-	meyawes 
+five: panza- 
+broad: palhi- 
+wide: palhi- 
+wideness: palhi- 
+fat: sakan 
+thick: harsi- 
+narrow: hatkus 
+child: hāssas	pulla- 
+principal wife: *kuwanz	lada- 
+wife: *kuwanz	lada- 
+his mother: anna-	anni- 
+mother: anna-	anni- 
+my mother: anna-	anni- 
+father: atta-	papa- 
+his father: atta-	papa- 
+my father: atta-	papa- 
+animal: huitar	suppala-	suppalas 
+forest: tiessar	warhuessar 
+woods: tiessar	warhuessar 
+branch: alkista- 
+stick: alkista- 
+fruit: sesan 
+flower: alel-	alil 
+grass: uzuhri-	welku-	wēlku 
+cord: ishiman-	ishimas 
+rope: ishiman-	ishimas 
+grease: sakan 
+claw: kaddu 
+fingernail: kaddu 
+nail: kaddu 
+leg: egdu	egdu- 
+arm: kissar 
+wing: partauwa	pattar	pittar 
+gut: garates	karat- 
+guts: garates	karat- 
+insides: garates	karat- 
+intestine: garates	karat- 
+intestines: garates	karat- 
+back: iskis	iskis- 
+suck: *titiya-	uhzi 
+spit: allapahh-	allappahhi 
+blow: huwant-	papriya-	parai- 
+laugh: hahhars-	hahharsna-	halwammar 
+laughter: hahhars-	hahharsna-	halwammar 
+afraid: nahhan	nahsaratt-	nāhi 
+be afraid: nahhan	nahsaratt-	nāhi 
+fear: nahhan	nahsaratt-	nāhi 
+fright: nahhan	nahsaratt-	nāhi 
+alive: huis-	huisu-	huiszi 
+be alive: huis-	huisu-	huiszi 
+life: huis-	huisu-	huiszi 
+live: huis-	huisu-	huiszi 
+living: huis-	huisu-	huiszi 
+fight: hullezzi	sullai-	zahhiya- 
+hunt: hurna-	huwarniskezzi	parh- 
+beat: hattai-	hazzik-	hulla-	kuen-	walh-	walhzi 
+hit: hattai-	hazzik-	hulla-	kuen-	walh-	walhzi 
+strike: hattai-	hazzik-	hulla-	kuen-	walh-	walhzi 
+cut: kars-	kuer-	kuērzi 
+hack: kars-	kuer-	kuērzi 
+cut open: iskallai 
+split: iskallai 
+pierce: isgar-	iskāri 
+stab: isgar-	iskāri 
+scratch: *arrirrai 
+dig: mudai-	padda- 
+tell lies: kitta 
+stand: ar-	arta 
+turn: nēa	weh-	wehzi 
+turn around: nēa	weh-	wehzi 
+turn round: nēa	weh-	wehzi 
+drop: mauss-	mauszi 
+fall: mauss-	mauszi 
+grasp: hark-	harzi 
+hold: hark-	harzi 
+hold in arm: hark-	harzi 
+squeeze: sissa- 
+wring: sissa- 
+rub: ans-	isk- 
+wipe: fshin 
+wash: arra-	arriya-	warpzi	ārri 
+wash clothes: arra-	arriya-	warpzi	ārri 
+pull: huettiezzi 
+push: suwezzi 
+shove: suwezzi 
+throw: pessiya-	ūssiezzi 
+bind: asareski-	hamanki	hamenk-	ishai	ishiya- 
+fasten: asareski-	hamanki	hamenk-	ishai	ishiya- 
+tie: asareski-	hamanki	hamenk-	ishai	ishiya- 
+tie up: asareski-	hamanki	hamenk-	ishai	ishiya- 
+count: kappuezzi	kappuwai-	kappuwar 
+enumerate: kappuezzi	kappuwai-	kappuwar 
+number: kappuezzi	kappuwai-	kappuwar 
+tally: kappuezzi	kappuwai-	kappuwar 
+sing: ishamai	ishamiya-	mammalt- 
+have fun: duskzi	hazzik-	hinganiskezzi 
+play: duskzi	hazzik-	hinganiskezzi 
+flow: ars-	ārszi 
+freeze: ekāizzi 
+swell: suwattari 
+brook: hapa-	hapai-	hapas	hapati- 
+river: hapa-	hapai-	hapas	hapati- 
+stream: hapa-	hapai-	hapas	hapati- 
+lake: luli-	lulis 
+ocean: aruna-	arunas 
+sea: aruna-	arunas 
+fog: kammara-	kammaras 
+sky: nepis- 
+ice: eka-	ekan 
+blaze: urāni	war- 
+burn: urāni	war- 
+day: siwat-	sīwaz 
+daylight: siwat-	sīwaz 
+daytime: siwat-	sīwaz 
+old: miyahwanz 
+bad: huwappa-	idalu-	idālus 
+evil: huwappa-	idalu-	idālus 
+rot: harranz 
+rotten: harranz 
+dirty: iskunanz	iskuwant-	paprata	saknuwant- 
+filthy: iskunanz	iskuwant-	paprata	saknuwant- 
+soiled: iskunanz	iskuwant-	paprata	saknuwant- 
+straight: hatku- 
+sharp: alpus	dampu- 
+blunt: alpanz	alpu- 
+smooth: alpu-	mius 
+damp: hurniyanz 
+wet: hurniyanz 
+correct: aara-	sakuwassar-	āra 
+right side: kunna-	kunnas 
+left: kallar 
+in: andan	andurza	anturiya- 
+inside: andan	andurza	anturiya- 
+with: katti- 
+and: -Ca	-ya	=a 
+if: maan	takku 
+because: kuit 

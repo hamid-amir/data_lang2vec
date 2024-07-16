@@ -1,0 +1,358 @@
+all: (h)eganagana | laganus	lagánas	ngan 
+all: ngan | laganus	lagánas	ngan 
+ashes: abú | abu	abú 
+bark: balat (ning tanaman) | tangke 
+belly: átián | San	atian	á|tcan 
+big: maragul | ma-rágul	maragul 
+bird: ayup | ayup	áyup 
+bite: ketan | -ket	ket	ketan 
+bite: manget | -ket	ket	ketan 
+black: matuling | ma-tuliŋ	matuliN	matuling 
+blood: daya | daya	dáyaq 
+bone: butul | binyas	binyás	butul 
+breast: susu | susu	súsu 
+burn: siliban | silab 
+child: anak 
+cloud: alapap | biga	lula7	lúlaq	ulap 
+cloud: bigâ | biga	lula7	lúlaq	ulap 
+cloud: ulap | biga	lula7	lúlaq	ulap 
+cold: marimla | ma-rímla	marimla 
+come: datang | dataN	datang	dátaŋ	ume 
+come: ume | dataN	datang	dátaŋ	ume 
+die: maté | mate	maté	mete 
+dog: asu | asu	ásu 
+drink: minum | inum	inúm	minum 
+dry: malangî | ma-laŋíq	malangi	maliNi7 
+dust: alikabuk | alikabuk	alik|abuk	púlbus 
+ear: balugbug | balugbug	balugbúg 
+earth: gabún | gabun	yatu 
+eat: mangan | maNam	mangan	maŋam 
+egg: ebun | ebun	ébun 
+eye: mata | mata	matá 
+fat (n.): grasa 
+fat (n.): larû 
+feather: pakpak | bagyus	bagyús	bulbul 
+few: ditak | ditak	mapilan 
+fight: laban 
+fingernail: kuku 
+fire: apî | api	api7	apíq	silab 
+fish: asan | asan	asán 
+five: lima | lima	limá 
+flower: bulakkluk | sampaga	sampága 
+fly (v.): sulagpo 
+fly (v.): sulapo 
+foot: bitis 
+four: apat | apat	apát	ápat 
+full: mitmû | katmu	sapak 
+full: sapak | katmu	sapak 
+give: mamye | dinan	ibie 
+give: munye | dinan	ibie 
+good: mayap | ma-kayap	makayap	mayap 
+green: aluntyan | aluntian	bérde 
+hair: bwak | buak	bwak	bw~ak 
+hand: gamat | gamat	gamát 
+head: buntuk | buntuk	búntuk 
+hear: damdaman | damdam	damdaman	makiramdam 
+hear: makaramdam | damdam	damdaman	makiramdam 
+heart: púsû | pusu 
+heavy: mabayat | bayat	ma-báyat	mabayat 
+here: keni | keni	keti 
+he: ya | iya 
+horn: sagû | sagu 
+I: aku 
+ice: ielu | yelu 
+kill: makamaté | makamate	pate	paten	paté 
+knee: tud 
+know: balû, abalû | baluan	balwan 
+leaf: bulung | buluN	bulung	bulúŋ 
+lie: magkerâ | kera	kéra | magkera 
+liver: até | ate	áte 
+long: makaba | ma-kábaq	makaba 
+louse: kutu | kutu	kútu 
+man: lalaki | tau	taú 
+many: dakal 
+meat: laman | katawan | katawan	laman 
+moon: bulan | bulan	búlan 
+mountain: bunduk 
+mouth: asbuk | asbuk	asbúk	balungus 
+name: lagyû | lagiu	lagyu7	lagyúq 
+neck: batal | batal	bátal 
+new: báyu | bayu	báyu 
+night: bengi | bengi	beyi	béyi 
+nose: arung | aruN	arung	áruŋ 
+not: ali | ali	ali7 
+old: matua | laun	luma	matua 
+one: metung | isa	isâ	metuN	metung	métung	métuŋ 
+person: tau | tau	taú 
+rain: uran | muran	uran	urán 
+red: malutu | ma-lutúq	malutu 
+road: dalan | dalan	dálan 
+road: gasgas | dalan	dálan 
+root: uyat | emut	yamut	émut 
+root: yamut | emut	yamut	émut 
+round: mabilug 
+salt: ásin | asin	asín 
+sand: balas | balas	balás 
+say: sabyan | iagkas	sabi	sabian	sambiltan	sábi | balas	balás 
+seed: binî | butul 
+seed: butul 
+see: manakit | akit	ikit	lauen	íkit 
+sing: magcanta | tumaila 
+sit: lukluk | lukluk	luklúk 
+skin: balat | balat	balát 
+sky: banua | banua	bánwa 
+sleep: matudtud 
+small: malati | lati	ma-latíq	malati 
+smoke: asuk | asu	asuk	asú|k 
+stand: talakad | tikdo7 | balas	tikdo	tikdóq 
+stand: tikdo | tikdo7 | balas	tikdo	tikdóq 
+star: batwin | batuin	batwin	batwín 
+star: talâ | batuin	batwin	batwín 
+stone: batú | batu	batú 
+sun: aldo 
+swim: káwe | kaue	kawe	káwe 
+that: yan | ian	ita	itá	ián	yan | isa	isâ	metuN	metung	métung	métuŋ 
+there: karin | karin	keta 
+this: ini | ini	iní 
+thou: ika | ika	ikayu 
+three: atlu | ?atlu	atlu	atlú 
+tongue: dila | dila	dila7	dílaq 
+tooth: ipan | ipan	ípan 
+tree: tanaman 
+two: adua | ?adwá	adua	aduwáq	adwa7	adwáq 
+walk: lumacad | lakad	lumakad	lákad 
+warm: mapálî | ma-páliq	mapali 
+wash: uasan | manos	wasan 
+water: danúm | danum	danúm 
+we: ikatamu | ikami	ikamu	ikata	itamu 
+we: kami | ikami	ikamu	ikata	itamu 
+we: kata | ikami	ikamu	ikata	itamu 
+what: nanu | naN	nanaN	nanu	nanuŋ	naŋ 
+where: nukarin | anta	ante	nukarin	nukarín 
+white: maputi | ma-putíq	maputi	maputi7 
+who: ninu | ninu	nínu 
+wife: asawa | asawa	asáwa 
+woman: babai | babai	babái 
+yellow: dilo | dilo	diló 
+yellow: kulyawan | dilo	diló 
+you: ikayu | ika	ikayu 
+you: iku | ika	ikayu 
+every: laganus	lagánas	ngan 
+ash: abu	abú 
+abdomen: San	atian	á|tcan 
+bigness: ma-rágul	maragul 
+large: ma-rágul	maragul 
+breasts: susu	súsu 
+burn tr.: silab 
+come from: dataN	datang	dátaŋ	ume 
+be dead: mate	maté	mete 
+dead: mate	maté	mete 
+ground: gabun	yatu 
+land: gabun	yatu 
+soil: gabun	yatu 
+fat: taba7 
+fat n.: taba7 
+grease: taba7 
+lubricant: taba7 
+oil: taba7 
+fly: sulapo	sulápo 
+fly v.: sulapo	sulápo 
+left hand: gamat	gamát 
+right: gamat	gamát 
+1 sg.: aku 
+be knowledgeable: baluan	balwan 
+lie down: kera	kéra 
+head louse: kutu	kútu 
+male: lalaki	laláki 
+much: dakal 
+multiple: dakal 
+several: dakal 
+flesh: katawan 
+hill: bunduk 
+title: lagiu	lagyu7	lagyúq 
+nighttime: bengi	beyi	béyi 
+adulterous: isa	isâ	metuN	metung	métung	métuŋ 
+single: isa	isâ	metuN	metung	métung	métuŋ 
+the: isa	isâ	metuN	metung	métung	métuŋ 
+unprincipled: isa	isâ	metuN	metung	métung	métuŋ 
+human: tau	taú 
+human being: tau	taú 
+rainy weather: muran	uran	urán 
+path: dalan	dálan 
+route: dalan	dálan 
+hide: balat	balát 
+sleep: tudtud 
+little: lati	ma-latíq	malati 
+smallness: lati	ma-latíq	malati 
+rock: batu	batú 
+tail: iki	iki7	íkiq 
+2 sg: ika	ikayu 
+grind: ?adwá	adua	aduwáq	adwa7	adwáq 
+go: lakad	lumakad	lákad 
+hot: ma-páliq	mapali 
+1 pl. inc.: ikami	ikamu	ikata	itamu 
+we₁: ikami	ikamu	ikata	itamu 
+whiteness: ma-putíq	maputi	maputi7 
+who?: ninu	nínu 
+female: babai	babái 
+distant: ma-rayuq	marayu 
+far: ma-rayuq	marayu 
+dull: bayat	ma-báyat	mabayat 
+serious: bayat	ma-báyat	mabayat 
+close: malapit	sípiŋ 
+near: malapit	sípiŋ 
+ner: malapit	sípiŋ 
+short: kuyad	ma-kúyad	makuyad	pandak 
+snake: ubingan	ubíŋan 
+thin: impis	impís	maiimpis 
+wind: angin	áŋin 
+earthworm: bulati	bu|láti 
+worm: bulati	bu|láti 
+year: banua	bánwa 
+3 sg.: iya 
+she: iya 
+2 pl.: ika	ikayu 
+ye: ika	ikayu 
+you all: ika	ikayu 
+3 pl.: ila 
+they: ila 
+where?: anta	ante	nukarin	nukarín 
+when: kapilan	kap|ilán 
+when?: kapilan	kap|ilán 
+how: makananu	makanánu 
+how?: makananu	makanánu 
+some: mapilan 
+other: aliua	aliwaq 
+broad: lapad	ma-lápad	malapad 
+wide: lapad	ma-lápad	malapad 
+wideness: lapad	ma-lápad	malapad 
+thick: kapal	ma-kapál	makapal 
+narrow: kitid	ma-kíput	makitid 
+principal wife: asawa	asáwa 
+husband: asawa	asáwa 
+his mother: Ima	maq 
+mother: Ima	maq 
+my mother: Ima	maq 
+father: Tatang	núnuq 
+his father: Tatang	núnuq 
+my father: Tatang	núnuq 
+forest: gubat	gúbat	pulúq 
+woods: gubat	gúbat	pulúq 
+branch: saŋá	tingting 
+stick: saŋá	tingting 
+fruit: bunga	búŋa 
+grass: dikut	dikút 
+cord: lubid	lúbid 
+rope: lubid	lúbid 
+claw: kuku 
+nail: kuku 
+leg: bitis 
+arm: gamat 
+wing: pakpak 
+gut: bituka	bitúka 
+guts: bituka	bitúka 
+insides: bituka	bitúka 
+intestine: bituka	bitúka 
+intestines: bituka	bitúka 
+back: gulut	gúlut 
+suck: sipsip	sisipan 
+spit: luran	yapsa 
+vomit: manyuka	súkaq 
+blow: labul	labulan 
+breath: mangisnaua	maŋis|nawa 
+breathe: mangisnaua	maŋis|nawa 
+laugh: ilï	maili 
+laughter: ilï	maili 
+cogitate: isipan	ísip 
+reflect: isipan	ísip 
+think: isipan	ísip 
+smell: bauan	bawan 
+sniff: bauan	bawan 
+afraid: ma-takút	takut 
+be afraid: ma-takút	takut 
+fear: ma-takút	takut 
+fright: ma-takút	takut 
+alive: bie	kumabie	ma-biyé 
+be alive: bie	kumabie	ma-biyé 
+life: bie	kumabie	ma-biyé 
+live: bie	kumabie	ma-biyé 
+living: bie	kumabie	ma-biyé 
+hunt: man-ayup	man-áyup 
+beat: paldu	paturan	turan 
+hit: paldu	paturan	turan 
+strike: paldu	paturan	turan 
+cut: putut 
+hack: putut 
+cut open: baŋal	bika	pitnan 
+split: baŋal	bika	pitnan 
+pierce: akdakan	saksák	tandusan 
+stab: akdakan	saksák	tandusan 
+scratch: gamusan	kaskás 
+dig: kulkul	kulkulan	kulkúl 
+tell lies: magkera 
+turn: mildis 
+turn around: mildis 
+turn round: mildis 
+drop: ma-nábuq	manabu	mitomba 
+fall: ma-nábuq	manabu	mitomba 
+grasp: sakmál	talan	talnan 
+hold: sakmál	talan	talnan 
+hold in arm: sakmál	talan	talnan 
+squeeze: paslan	sakmalan 
+wring: paslan	sakmalan 
+rub: kaskasan 
+wipe: kuskusan	pulisan 
+wash clothes: manos	wasan 
+pull: gulyutan	igutan 
+push: isubung	itulak 
+shove: isubung	itulak 
+throw: atcáq	baronggan	iugse	iyatsa	pukúl-an 
+bind: itali	tali	talíq 
+fasten: itali	tali	talíq 
+tie: itali	tali	talíq 
+tie up: itali	tali	talíq 
+sew: tayan	tayí 
+count: bílaŋ	mamilang 
+enumerate: bílaŋ	mamilang 
+number: bílaŋ	mamilang 
+tally: bílaŋ	mamilang 
+have fun: mamyalung 
+play: mamyalung 
+float: gato 
+flow: magus	mam-agus 
+swell: mangalbag 
+brook: ilug 
+river: ilug 
+stream: ilug 
+lake: labák	lawa 
+ocean: dagat	dayat malat 
+sea: dagat	dayat malat 
+fog: ulap	úlap 
+snow: yelu 
+blaze: silab 
+day: aldo 
+daylight: aldo 
+daytime: aldo 
+bad: ma-rók	marok 
+evil: ma-rók	marok 
+rot: bugúk	buluk 
+rotten: bugúk	buluk 
+dirty: dinat	ma-rinát	marinat 
+filthy: dinat	ma-rinát	marinat 
+soiled: dinat	ma-rinát	marinat 
+straight: matulid	tulid 
+sharp: ma-tarám	mataram 
+blunt: ma-purul	mapurul 
+smooth: makinis	malinatnat 
+damp: basa	ma-basáq	mabasa 
+wet: basa	ma-basáq	mabasa 
+correct: mausta	ustu 
+right side: uanan	wánan 
+left: kaili	kaqilí 
+at: keta	kiŋ 
+in: atiu	kilub	lub 
+inside: atiu	kilub	lub 
+with: kambe	kayabe 
+and: ampong	ampó	anpón	at 
+if: nung	nuŋ 
+because: kasi	uling 

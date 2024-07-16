@@ -1,0 +1,295 @@
+all: kudduk 
+animal: orai 
+arm: and˗ 
+ashes: uskuč | uskuč 
+back: oŋ 
+bad: taːs 
+bark: kuɓundwič | kuɓundwič 
+belly: ɓileːk 
+big: ŋonde 
+bird: awad 
+bite: kas 
+black: ǯ\ul | ǯʼul 
+blood: taːmič | tamiT	taːmič 
+blow: uːsu 
+bone: ŋač | NaT	ŋač 
+boy: tabbaruk 
+breast: kidi | kidi	kidiǯu 
+breast: kidiǯu | kidi	kidiǯu 
+breathe: uːŋu 
+burn: duɲ 
+child: tabbaruk 
+claw: ɲix˗tə˗andwan | ɲix-tə-andwan 
+cloud: timgaːru 
+cold: tuddi 
+come: boǃ | bo	bo! 
+correct: tireniŋ 
+count: aŋgana 
+cut: kalu 
+cut: ŋasa | kalu 
+day: səŋge 
+die: ˗əxsə | -əxsə	3xsiT 
+dig: ɓoːs 
+dirty: ɲəbələk 
+dog: iːs | is	iːs 
+drink: awuxi | awuxi	ux 
+dry: kamaːsə 
+dust: ndukurudi 
+earth: zək 
+eat: asie 
+egg: gildič | gildič 
+eye: aun 
+fall: ˗delaŋ | -delaŋ 
+far: təzaˑŋ 
+father: appa 
+fat (n.): mwida 
+fear: ɲega 
+feather: abax 
+few: ɓila\ax | ɓilaʼax 
+fight: abogo 
+fingernail: ɲix˗tə˗andwan | ɲix-tə-andwan 
+finger: pəxə˗and˗ 
+fire: maːs | mas	maːs 
+fish: axsič | axsiT	axsič 
+five: mədak | mədak	mɛdak 
+float: ɓaːya 
+flower: dudulus 
+flow: koi 
+fly (n.): aŋaɣasič 
+fly (v.): saɲ 
+foot: exe˗ | exe- 
+four: tespet 
+full: kabəs 
+give: togiǃ | togi! 
+good: opoyo 
+grass: ɲaxič | ɲaxič 
+guts: kiǯalbugiɲ | kiǯalbugiɲ 
+hair: abaxtič | abaxtič 
+hand: and˗ | and-	and~ 
+head: zu 
+hear: ndəŋ | d3Ne	ndəŋ 
+heart: px˗ombəgaxsəge | px-ombəgaxsəge 
+heavy: tətəx 
+he/she: če 
+he/she: ma 
+hit: ɗadda 
+hole: axeɗok 
+horn: yaxtič | yaxtiT	yaxtič 
+hunt: tillak 
+I: ag 
+kill: paxa 
+knee: sond˗ | soNd~	sond- 
+know: ayəx 
+lake: luːku 
+laugh: aguːgu 
+leaf: wun˗g˗ett | wun-g-ett	wunget 
+left: ɲogol 
+leg: exe˗ | exe- 
+liver: ɲimeč | 5imeT	ɲimeč 
+long: lo\oi | loʼoi 
+louse: tiŋgəxsič | tiNg~3xsiT 
+man: abaŋ | kik	kiːk 
+many: maŋge 
+meat: yyə 
+moon: emsex 
+mother: ɓo 
+mountain: čabr | Tabr	čabr	ŋač 
+mountain: ŋač | Tabr	čabr	ŋač 
+mouth: ik 
+name: agge | aNg~e	agge 
+narrow: kəɗeǯewa | kəɗeǯewa 
+near: kəssač | kəssač 
+neck: ŋas 
+night: oŋut | oNut	oŋut 
+old: boxoːx 
+one: nuxu 
+person: kiːk | kik	kiːk 
+play: coxa 
+pull: ɲasa 
+push: azaǯ\e 
+rain: koxa 
+rat: ɲiŋəs 
+red: pr peː 
+right: abaːnič | and-	and~ | abaːnič 
+river: čoloŋgo | čoloŋgo 
+road: ˗sok | akosok 
+root: məx 
+rope: zitt 
+rotten: ŋoso 
+round: turu\us | turuʼus 
+rub: maːsa 
+salt: aŋguleke 
+sand: dilwič | dilwič 
+say: aŋade | aŋade	ləbe | dilwič 
+say: ləbe | aŋade	ləbe | dilwič 
+scratch: goxiŋ 
+seed: zəbsi 
+see: lala | lala	ox 
+see: ox | lala	ox 
+sew: axaː 
+sharp: wiei 
+short: tələŋ 
+sing: alaŋača | alaŋača 
+sit: ičča | ičča 
+skin: mmi | mi	mmi 
+sky: koxa 
+sleep: səŋda 
+small: bye\ei | byeʼei 
+smoke: ləkk 
+smooth: sirəzəri 
+snake: dol 
+spit: oluk | birsi 
+split: lare 
+squeeze: səkissa 
+stand: ŋasa 
+star: niɲwesič | ni5wesiT	niɲwesič 
+stone: čabr | NaT	čabr	ŋač 
+stone: ŋač | NaT	čabr	ŋač 
+suck: ban 
+sun: xoŋ | xoN	xoŋ 
+sweet: tumox 
+swell: kaː˗ɓəŋ 
+swim: ɓaːya 
+tail: iːb 
+take: ɓaga 
+they: sa 
+thick: tiǯax | tiǯax 
+thou: aŋgo | gi	giniŋ 
+thou: gi(niŋ) | gi	giniŋ 
+three: kodos 
+throw: gawi 
+tie: axse 
+tongue: ɲibur | 5ibur	ɲibur 
+tooth: ɲixt˗ | 5ixt	ɲixt- 
+tree: ett 
+turn: urtege 
+two: pədax | p3dax	pədax	pɛdax 
+vomit: aǯalage | aǯalage 
+walk: koi 
+walk: wede 
+warm: təbei 
+wash: ɗaːya 
+water: ma 
+we (excl.): ̱was 
+we (incl.): kok 
+wet: tuddi 
+what: wiaŋ 
+when: oʻgei | oʼgei 
+where: tiː 
+white: bou 
+who: xənaŋ 
+wind: megedde 
+wing: kuɓuktuč | kuɓuktuč 
+wipe: awaɲis 
+woman: uːx 
+wood: gax 
+worm: ox | ox	oːxič 
+worm: oːxič | ox	oːxič 
+year: oso 
+yellow: bu\bbəx | buʼbbəx 
+every: kudduk 
+ash: uskuč 
+abdomen: ɓileːk 
+bigness: ŋonde 
+large: ŋonde 
+breasts: kidi	kidiǯu 
+nail: ɲix-tə-andwan 
+talon: ɲix-tə-andwan 
+come from: bo	bo! 
+be dead: -əxsə	3xsiT 
+dead: -əxsə	3xsiT 
+ear: sag3n 
+fly: saɲ 
+fly v.: saɲ 
+left hand: and-	and~ 
+1 sg.: ag 
+be knowledgeable: ayəx 
+head louse: tiNg~3xsiT 
+male: abaŋ 
+much: maŋge 
+multiple: maŋge 
+several: maŋge 
+hill: Tabr	čabr	ŋač 
+title: aNg~e	agge 
+nighttime: oNut	oŋut 
+nose: mun~	muːn- 
+adulterous: nuxu 
+single: nuxu 
+that: nuxu 
+the: nuxu 
+unprincipled: nuxu 
+human: kik	kiːk 
+human being: kik	kiːk 
+rainy weather: koxa 
+path: akosok 
+route: akosok 
+hide: mi	mmi 
+little: byeʼei 
+smallness: byeʼei 
+rock: NaT	čabr	ŋač 
+2 sg: gi	giniŋ 
+you: gi	giniŋ 
+tree: et 
+grind: p3dax	pədax	pɛdax 
+1 pl. inc.: kok	was 
+we: kok	was 
+we₁: kok	was 
+whiteness: bou 
+who?: xənaŋ 
+female: uːx 
+distant: təzaˑŋ 
+dull: tətəx 
+serious: tətəx 
+close: kəssač 
+ner: kəssač 
+earthworm: ox	oːxič 
+3 sg.: ma 
+he: ma 
+she: ma 
+2 pl.: aŋgo 
+ye: aŋgo 
+you all: aŋgo 
+3 pl.: sa 
+where?: tiː 
+when?: oʼgei 
+fat: mwida 
+his mother: ɓo 
+my mother: ɓo 
+his father: appa 
+my father: appa 
+cord: zitt 
+flesh: yyə 
+grease: mwida 
+gut: kiǯalbugiɲ 
+insides: kiǯalbugiɲ 
+intestine: kiǯalbugiɲ 
+intestines: kiǯalbugiɲ 
+breath: uːŋu 
+laughter: aguːgu 
+smell: ŋoso 
+sniff: ŋoso 
+beat: ɗadda 
+strike: ɗadda 
+hack: kalu 
+cut open: lare 
+pierce: ŋasa 
+stab: ŋasa 
+drop: -delaŋ 
+wring: səkissa 
+wash clothes: ɗaːya 
+bind: axse 
+fasten: axse 
+tie up: axse 
+enumerate: aŋgana 
+number: aŋgana 
+tally: aŋgana 
+have fun: coxa 
+brook: čoloŋgo 
+stream: čoloŋgo 
+evil: taːs 
+rot: ŋoso 
+filthy: ɲəbələk 
+soiled: ɲəbələk 
+blunt: tumudumul 
+damp: tuddi 
+right side: abaːnič 

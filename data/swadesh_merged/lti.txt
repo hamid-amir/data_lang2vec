@@ -1,0 +1,137 @@
+all: tema 
+every: tema 
+ash: awu 
+ashes: awu 
+abdomen: apnu 
+belly: apnu 
+big: lawna 
+bigness: lawna 
+large: lawna 
+bird: manu 
+bite: kisi 
+black: metma 
+blood: rara 
+bone: ruri 
+breast: irsu	susu 
+breasts: irsu	susu 
+burn: tunu 
+burn tr.: tunu 
+cloud: umni 
+cold: woki 
+come: mai 
+come from: mai 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: asu 
+drink: emnu 
+dry: kerna 
+ear: tnina 
+eat: ana 
+egg: ternu 
+eye: mata 
+feather: wulu 
+fire: we*ai	w̃ai 
+fish: ina	īna 
+fly: nema 
+fly v.: nema 
+good: moka	swōna 
+green: mota 
+hair: mortu 
+hand: lima 
+left hand: lima 
+right: lima 
+head: w̃ata 
+hear: tali	tāli 
+1 sg.: au 
+I: au 
+kill: wunu 
+be knowledgeable: atu 
+know: atu 
+leaf: tawi 
+lie: lēni	nina 
+lie down: lēni	nina 
+liver: lanu	lānu 
+long: lawsa 
+head louse: utu 
+louse: utu 
+male: muani 
+man: ria 
+moon: wulla 
+mouth: nūru	wawa 
+name: nana	nāna 
+title: nana	nāna 
+neck: tieru 
+new: waru 
+night: kotma	mela 
+nighttime: kotma	mela 
+nose: irnu 
+adulterous: ida 
+one: ida 
+single: ida 
+that: de	do 
+the: ida 
+unprincipled: ida 
+human: ria 
+human being: ria 
+person: ria 
+rain: utna 
+rainy weather: utna 
+red: mera 
+path: tala	talla 
+road: tala	talla 
+route: tala	talla 
+root: w̃āra 
+sand: eni 
+say: wei 
+see: dona	dōna	takra	toli 
+sit: tietna 
+hide: ulti 
+skin: ulti 
+sleep: dudu 
+little: ana/kea/koi 
+small: ana/kea/koi 
+smallness: ana/kea/koi 
+smoke: mahü	mukla 
+star: ptuna 
+rock: watu 
+stone: watu 
+swim: nani 
+tail: ikru 
+this: di/sai 
+tongue: nama 
+tooth: nisa 
+grind: rua 
+two: rua 
+go: lā 
+walk: lā 
+hot: pansa 
+warm: pansa 
+water: we*era	w̃era 
+1 pl. inc.: ami	ita 
+we: ami	ita 
+we₁: ami	ita 
+what: isia 
+white: warsa 
+whiteness: warsa 
+who: sei 
+who?: sei 
+female: puata 
+woman: puata 
+yellow: mara 
+distant: olieta 
+far: olieta 
+dull: perta 
+heavy: perta 
+serious: perta 
+close: wakruani 
+near: wakruani 
+ner: wakruani 
+salt: sioa 
+short: puri 
+snake: nia 
+thin: nisa/sini 
+wind: anni 
+earthworm: urna 
+worm: urna 
+year: anni 

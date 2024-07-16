@@ -1,0 +1,148 @@
+all: moma 
+every: moma 
+ash: hotok 
+ashes: hotok 
+abdomen: itakoba7 
+belly: itakoba7 
+big: iSto 
+bigness: iSto 
+large: iSto 
+bird: foSi7 
+bite: kisili 
+black: losa 
+blood: isiS 
+bone: foni7 
+breast: ipi*Sik 
+breasts: ipi*Sik 
+claw: iyakCoS 
+nail: iyakCoS 
+talon: iyakCoS 
+cloud: hoSonti 
+cold: kapasa 
+come: minti 
+come from: minti 
+be dead: ili 
+dead: ili 
+die: ili 
+dog: ofi7 
+drink: iSko 
+dry: Sila 
+ear: haksibis 
+earth: yakni7 
+ground: yakni7 
+land: yakni7 
+soil: yakni7 
+eat: impa 
+egg: akankoSi7 
+eye: iSkin 
+fat: niha 
+fat n.: niha 
+grease: niha 
+lubricant: niha 
+oil: niha 
+fire: lowak 
+fish: nani7 
+fly: waka 
+fly v.: waka 
+foot: iyi7 
+full: kaya 
+give: ima 
+good: Cokma 
+green: okCamali 
+hair: hiSi7	pa*Si7 
+hand: ilbak 
+left hand: ilbak 
+right: ilbak 
+head: iSkobo7 
+hear: haNlo 
+heart: Co*kaS 
+horn: lapiS 
+1 sg.: ano7 
+I: ano7 
+kill: abi 
+knee: iyintoLka7 
+be knowledgeable: ith~ana 
+know: ith~ana 
+lie: tiwa 
+lie down: tiwa 
+liver: salakh~a 
+long: fala 
+head louse: isap 
+louse: isap 
+male: hatak nakni7 
+man: hatak 
+many: lawa 
+much: lawa 
+multiple: lawa 
+several: lawa 
+flesh: nipi7 
+meat: nipi7 
+hill: onCaba 
+mountain: onCaba 
+mouth: iti 
+name: hoLCifo 
+title: hoLCifo 
+neck: nokh~istap 
+new: himita 
+night: okLili7 
+nighttime: okLili7 
+nose: ibiCala7 
+not: kiyo 
+adulterous: Cafa	chaffa 
+one: Cafa	chaffa 
+single: Cafa	chaffa 
+that: yama 
+the: Cafa	chaffa 
+unprincipled: Cafa	chaffa 
+human: hatak 
+human being: hatak 
+person: hatak 
+rain: omba 
+rainy weather: omba 
+red: homa 
+path: hina7 
+road: hina7 
+route: hina7 
+root: haksiS 
+round: Libokta 
+say: aCi 
+see: pisa 
+seed: nihi7 
+sit: binili 
+hide: hakSop 
+skin: hakSop 
+sleep: nosi 
+little: iskanosi 
+small: iskanosi 
+smallness: iskanosi 
+smoke: SoboLi 
+stand: hikiya 
+star: foSik 
+rock: tali7 
+stone: tali7 
+sun: haSi7 
+swim: yopi 
+tail: hasimbiS 
+this: yapa 
+2 sg: iSno7 
+thou: iSno7 
+you: iSno7 
+tongue: iso*laS 
+tooth: noti7 
+tree: iti7 
+grind: toklo 
+two: toklo 
+go: no*wa 
+walk: no*wa 
+water: oka7 
+1 pl. inc.: poSno7 
+we: poSno7 
+we₁: poSno7 
+what: nanta 
+white: tobi 
+whiteness: tobi 
+who: kata 
+who?: kata 
+female: iho 
+woman: iho 
+yellow: lakna 

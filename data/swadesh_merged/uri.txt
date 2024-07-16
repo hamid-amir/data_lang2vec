@@ -1,0 +1,356 @@
+all: plalŋnten 
+arm: wamkʌrap 
+arm: wamp 
+arrow: wʊri 
+ashes: (waːk-)yəpan | waːk-yəpan	yəpan 
+back: yərokŋ 
+back: yʌrɔk 
+bad: paip 
+bad: paipm 
+bad: pait 
+bark: (yo)palk | palk	yopalk 
+belly: əpma | nikg	niːk	əpma 
+belly: ni:k | nikg	niːk	əpma 
+belly: niːk | nikg	niːk	əpma 
+belly: niːkŋ | nikg	niːk	əpma 
+big: wail 
+bird: wel | wel	wɛl 
+bird: wɛl | wel	wɛl 
+black: koŋket | kotoukiːt	koŋket 
+black: kotouki:t | kotoukiːt	koŋket 
+black: kotoukiːt | kotoukiːt	koŋket 
+blood: walembop | walmpopm	walmp~opm~	waləmpop	walɛmbɔp 
+blood: walɛmbɔp | walmpopm	walmp~opm~	waləmpop	walɛmbɔp 
+blood: walëmpop | walmpopm	walmp~opm~	waləmpop	walɛmbɔp 
+blood: waləmpop | walmpopm	walmp~opm~	waləmpop	walɛmbɔp 
+blood: walmpopm | walmpopm	walmp~opm~	waləmpop	walɛmbɔp 
+bone: tëpmungkut | tpm~uNk~ul	tupmʌngul	təpmuŋkut	tʊpmuŋkul 
+bone: təpmuŋkut | tpm~uNk~ul	tupmʌngul	təpmuŋkut	tʊpmuŋkul 
+bone: tʊpmuŋkul | tpm~uNk~ul	tupmʌngul	təpmuŋkut	tʊpmuŋkul 
+bone: tupmëngul | tpm~uNk~ul	tupmʌngul	təpmuŋkut	tʊpmuŋkul 
+bone: tupmʌngul | tpm~uNk~ul	tupmʌngul	təpmuŋkut	tʊpmuŋkul 
+boy: warim kəpman 
+boy: warin kʌmpan 
+breast: ma: | ma	maː 
+breast: maː | ma	maː 
+brother: baibmɛn 
+brother: nʌŋgwarɛn 
+brother: wailen 
+burn: naruk 
+child: warim 
+child: warim wasek 
+child: wariyimp 
+chin: məraiŋkil 
+claw: neːpmφuhoːr | neːpmɸuhoːr 
+cloud: waipmʊnu 
+cold: kʊpuːk | kʊpuːk	wʊrokŋen 
+cold: wʊrokŋen | kʊpuːk	wʊrokŋen 
+come: kul | kul	no	wuli 
+day: nʊŋkʊriːkŋ 
+day: nuŋgrit 
+die: amoː | amo	amoː	mo 
+dog: nëmpa | nmp~a	nəmpa	nʌmba 
+dog: nəmpa | nmp~a	nəmpa	nʌmba 
+dog: nʌmba | nmp~a	nəmpa	nʌmba 
+drink: aːl (huː) | al	aːl 
+dry: təŋkalak 
+ear: nungëlk | nuNk~ulkN~	nungʌlk	nuŋkul	nuŋkulkŋ 
+ear: nungkul | nuNk~ulkN~	nungʌlk	nuŋkul	nuŋkulkŋ 
+ear: nuŋkul | nuNk~ulkN~	nungʌlk	nuŋkul	nuŋkulkŋ 
+ear: nuŋkulkŋ | nuNk~ulkN~	nungʌlk	nuŋkul	nuŋkulkŋ 
+ear: nungʌlk | nuNk~ulkN~	nungʌlk	nuŋkul	nuŋkulkŋ 
+earth: kanokŋ | kənok	kʌnɔk 
+earth: kënok | kənok	kʌnɔk 
+earth: kənok | kənok	kʌnɔk 
+earth: kʌnɔk | kənok	kʌnɔk 
+eat: aːl | al	aːl 
+egg: elmpa | elmpa	haləmpar 
+egg: halëmpar | elmpa	haləmpar 
+egg: haləmpar | elmpa	haləmpar 
+elbow: kəlko 
+emu: liŋ 
+eye: i:kng | ikN~	iːkŋ	wʊlmpa	wʌlɛmba 
+eye: iːkŋ | ikN~	iːkŋ	wʊlmpa	wʌlɛmba 
+eye: wëlemba | ikN~	iːkŋ	wʊlmpa	wʌlɛmba 
+eye: wʌlɛmba | ikN~	iːkŋ	wʊlmpa	wʌlɛmba 
+eye: wʊlmpa | ikN~	iːkŋ	wʊlmpa	wʌlɛmba 
+fall: aŋko 
+father: yaːn 
+father: yandrəl 
+father: ya:nt 
+father: yaːnt 
+father: yayai 
+fat (n.): yəwa 
+feather: werk 
+finger: maːn 
+finger: waman 
+finger: wamapis 
+fire: wakk | wakN~	wakg	wakk	waːkŋ 
+fire: wa:kng | wakN~	wakg	wakk	waːkŋ 
+fire: waːkŋ | wakN~	wakg	wakk	waːkŋ 
+fish: yul | iul	yul	yuld 
+fish: yuld | iul	yul	yuld 
+five: ampomis 
+five: wʌm bʌmis 
+fly (v.): əntauːr 
+fly (v.): peːlŋ 
+foot: neːpm | nepm kʌmbaŋ	neːpm 
+foot: nepm kʌmbaŋ | nepm kʌmbaŋ	neːpm 
+forehead: iːkŋoːkŋ 
+four: wiːkŋwiːkŋ 
+four: wik wik 
+full: pik | nowli	pik 
+girl: warim kiːɲ 
+girl: warin kin 
+give: alkopm | al	al-kopm	okw 
+give: okw | al	al-kopm	okw 
+good: war | war	wor	woːr 
+good: wor | war	wor	woːr 
+good: woːr | war	wor	woːr 
+green: wanukŋis | maŋkon	wanukŋis 
+hair: tukënak-walëk | tukʌnak walʌk	walkŋ	walʌk 
+hair: (tukʌnak) walʌk | tukʌnak walʌk	walkŋ	walʌk 
+hair: walkŋ | tukʌnak walʌk	walkŋ	walʌk 
+hand: kɪkɪnhɔk | kɪkɪnhɔk	wam 
+hand: wam | kɪkɪnhɔk	wam 
+head: lëngkëp | ləŋkəp	tukunak	tukunakg	tukŋanakŋ 
+head: ləŋkəp | ləŋkəp	tukunak	tukunakg	tukŋanakŋ 
+head: tukŋanakŋ | ləŋkəp	tukunak	tukunakg	tukŋanakŋ 
+head: tukunak | ləŋkəp	tukunak	tukunakg	tukŋanakŋ 
+hear: atniŋ | atniŋ	atn~iN 
+heart: nol 
+heavy: kalkut ~ kaikut | kaikut	kalkut 
+here: ti 
+he/she: kil 
+hit: oːr 
+house: wan 
+I: kupm | kupm	kupm~	kuːpm 
+I: ku:-pm | kupm	kupm~	kuːpm 
+I: kuːpm | kupm	kupm~	kuːpm 
+kill: oːr amoː 
+knee: nepm kəlko | nepm kəlko	nepm~ glko 
+know: ariwe 
+laugh: nəmpa 
+leaf: (yo-)hipm | hipm	hipm~	yo-hipm 
+leg: ne:p 
+leg: neːp 
+leg: nepm 
+leg: neːpm 
+lie: ərmpa 
+liver: walpm | walpm	walpm~ 
+long: watinet 
+louse: nəmiɲ | nmin 
+louse: nëmin | nmin 
+louse: nəmin | nmin 
+man: këmel | melnum 
+man: kəməl | melnum 
+man: kəpman | melnum 
+man: kʌpman | melnum 
+many: wailet | wailet	waripmen	watipmen	wroŋ-wail 
+many: watipmen | wailet	waripmen	watipmen	wroŋ-wail 
+meat: yawoːr 
+moon: kaɲil | kainil	kanil	kanyil	kaɲil 
+moon: kanil | kainil	kanil	kanyil	kaɲil 
+moon: kanyil | kainil	kanil	kanyil	kaɲil 
+morning: koŋ 
+morning: kɔŋ 
+mother: mamam 
+mother: man 
+mother: maːn 
+mother: ma:nt 
+mother: maːnt 
+mountain: kroŋ | kroŋ	naŋɛn	tpm~niN	təpməniŋ 
+mountain: naŋɛn | kroŋ	naŋɛn	tpm~niN	təpməniŋ 
+mountain: təpməniŋ | kroŋ	naŋɛn	tpm~niN	təpməniŋ 
+mouth: o:k | oːk	ɔːk 
+mouth: oːk | oːk	ɔːk 
+mouth: ɔːk | oːk	ɔːk 
+name: naŋ | naN	naŋ 
+neck: meːŋ 
+new: weten | mahin	weten 
+night: məniŋ | mniN	məniŋ	mʌnɪŋ 
+night: mʌnɪŋ | mniN	məniŋ	mʌnɪŋ 
+nose: lem | lim	ləmp	lɛm	nim 
+nose: lëmp | lim	ləmp	lɛm	nim 
+not: ake | ake	kalpis 
+not: kalpis ~ kalpm | ake	kalpis 
+old: (kəpman) ʊroːr 
+old: (kiɲ) mayen 
+old: maʲɛn 
+old: nuŋkʊor 
+old: təŋkalaket 
+old: wʌrəl 
+one: ʊris | ur	wriy	wʌrɛs	ʊris 
+one: wʌrɛs | ur	wriy	wʌrɛs	ʊris 
+other: wom 
+person: melnum 
+rain: (huː) awei | huw	huʌwe 
+rain: huw | huw	huʌwe 
+rain: huʌwe | huw	huʌwe 
+rat: wambuŋ wanɛn 
+rat: wampuŋ 
+red: watet | watet	watɛt 
+red: watɛt | watet	watɛt 
+road: yaː 
+root: (yoː-)pakoː | pakoː	yoː-pakoː 
+root: (yoː-)yəpəko | pakoː	yoː-pakoː 
+round: karkoken 
+sand: nəŋkaraːpm 
+sand: wamping | nəŋkaraːpm 
+say: la 
+sea: hunongk 
+see: ari 
+seed: oːk 
+short: mʊtʊk 
+short: tʊkwok 
+shoulder: maleŋ 
+sister: muikŋmayen 
+sit: ərpma | arpma	ərpma 
+skin: palëk | palk	palək	palʌk 
+skin: palək | palk	palək	palʌk 
+skin: palk | palk	palək	palʌk 
+skin: palʌk | palk	palək	palʌk 
+sky: kutnaŋ 
+sleep: hokŋ 
+small: wɪsɔk | wasek	wɪsɔk	wʊsok 
+small: wʊsok ~ wasek | wasek	wɪsɔk	wʊsok 
+smoke: hëwak | həwak	napʌre	uhan	wak-napʌre	waːkŋ-uhan 
+smoke: həwak | həwak	napʌre	uhan	wak-napʌre	waːkŋ-uhan 
+smoke: (wak-)napʌre | həwak	napʌre	uhan	wak-napʌre	waːkŋ-uhan 
+smoke: (waːkŋ-)uhan | həwak	napʌre	uhan	wak-napʌre	waːkŋ-uhan 
+snake: hul | hul	huld 
+snake: huld | hul	huld 
+spit: aːl kromeːŋ 
+spit: aːl kroŋ 
+stand: ətna 
+star: kumeim ~ kormeim | kh~uNk~u	kormeim	kumeim	kumem	kuŋkumemp 
+star: kumem | kh~uNk~u	kormeim	kumeim	kumem	kuŋkumemp 
+star: kungkumemp | kh~uNk~u	kormeim	kumeim	kumem	kuŋkumemp 
+star: kuŋkumemp | kh~uNk~u	kormeim	kumeim	kumem	kuŋkumemp 
+stone: weit | weit	wes	wey	wɛs 
+stone: wes | weit	wes	wey	wɛs 
+stone: wɛs | weit	wes	wey	wɛs 
+sun: takëni | takN~ni	takgni	takŋni	takəni	takʌni 
+sun: takəni | takN~ni	takgni	takŋni	takəni	takʌni 
+sun: takŋni | takN~ni	takgni	takŋni	takəni	takʌni 
+sun: takʌni | takN~ni	takgni	takŋni	takəni	takʌni 
+swim: əlkŋa(h)aŋ | əlkŋaaŋ	əlkŋahaŋ 
+tail: wʊrom 
+that: pa 
+there: ai 
+they: tuː 
+they: tuw 
+they two: tuweːkŋ 
+this: kil | kil	ti 
+thou: kipm | kitn	kitn~	kiːtɲ 
+thou: kiːpm | kitn	kitn~	kiːtɲ 
+thou: kiːtɲ | kitn	kitn~	kiːtɲ 
+thou: kitn | kitn	kitn~	kiːtɲ 
+thou: ki:-tny | kitn	kitn~	kiːtɲ 
+three: rʌor 
+three: wurauːr 
+tomorrow: hiːkŋ(kil) 
+tongue: məlip | ek melip	milip	məlip 
+tongue: milip | ek melip	milip	məlip 
+tooth: e:k | ek wanikN~	eːk	telp 
+tooth: eːk | ek wanikN~	eːk	telp 
+tooth: telp | ek wanikN~	eːk	telp 
+tree: iyo 
+tree: yo: 
+tree: yoː 
+two: we:k | ekg	wekN~	wekg	wekk	weːk	weːkŋ 
+two: weːk | ekg	wekN~	wekg	wekk	weːk	weːkŋ 
+two: wekk | ekg	wekN~	wekg	wekk	weːk	weːkŋ 
+two: weːkŋ | ekg	wekN~	wekg	wekk	weːk	weːkŋ 
+walk: haːtn 
+walk: kay | haːtn 
+walk: pirŋ | haːtn 
+walk: pirpir | haːtn 
+walk: tulntul | haːtn 
+wallaby: mapok 
+wallaby: yəmpon 
+warm: waːkŋet 
+water: hu | hu	huw	huː 
+water: huː | hu	huw	huː 
+water: huw | hu	huw	huː 
+water: hu(w) | hu	huw	huː 
+we (excl.): men 
+we (incl.): mənto 
+we: ment | men-tepm	ment~o	mənto	tepm 
+wet: huwet 
+we two (excl.): menteːkŋ 
+what: kuɲa | kuina	kuɲa 
+when: waŋkarkeː 
+where: ka(h)i 
+white: taŋkoren | taŋkoren	toŋkorent	tʌgorɛn 
+white: tʌgorɛn | taŋkoren	toŋkorent	tʌgorɛn 
+white: tongkorent | taŋkoren	toŋkorent	tʌgorɛn 
+white: toŋkorent | taŋkoren	toŋkorent	tʌgorɛn 
+who: məla | mala	məla 
+wind: wʊripm | wuriːpm	wʊripm 
+wind: wuri:pm | wuriːpm	wʊripm 
+wind: wuriːpm | wuriːpm	wʊripm 
+wing: mətoŋ 
+woman: kiːɲ | kin	kiːn	kiːɲ 
+woman: kin | kin	kiːn	kiːɲ 
+woman: ki:n | kin	kiːn	kiːɲ 
+woman: kiːn | kin	kiːn	kiːɲ 
+wood: tuk 
+yellow: puŋkis 
+yes: eːʲ 
+yesterday: pəkeːkŋkil 
+you: ki:-pm | kitn	kitn~	kiːtɲ 
+you two: kipmeːkŋ 
+every: plalŋnten 
+ash: waːk-yəpan	yəpan 
+abdomen: nikg	niːk	əpma 
+bigness: wail 
+large: wail 
+bite: nam	nam-pel 
+breasts: ma	maː 
+nail: neːpmɸuhoːr 
+talon: neːpmɸuhoːr 
+come from: kul	no	wuli 
+be dead: amo	amoː	mo 
+dead: amo	amoː	mo 
+ground: kənok	kʌnɔk 
+land: kənok	kʌnɔk 
+soil: kənok	kʌnɔk 
+fly: peːlŋ	əntauːr 
+fly v.: peːlŋ	əntauːr 
+left hand: kɪkɪnhɔk	wam 
+right: kɪkɪnhɔk	wam 
+1 sg.: kupm	kupm~	kuːpm 
+be knowledgeable: ariwe 
+head louse: nmin 
+male: kapman	kəməl	kəpman	kʌpman	malnum 
+much: wailet	waripmen	watipmen	wroŋ-wail 
+multiple: wailet	waripmen	watipmen	wroŋ-wail 
+several: wailet	waripmen	watipmen	wroŋ-wail 
+hill: kroŋ	naŋɛn	tpm~niN	təpməniŋ 
+title: naN	naŋ 
+nighttime: mniN	məniŋ	mʌnɪŋ 
+adulterous: ur	wriy	wʌrɛs	ʊris 
+single: ur	wriy	wʌrɛs	ʊris 
+the: ur	wriy	wʌrɛs	ʊris 
+unprincipled: ur	wriy	wʌrɛs	ʊris 
+human: melnum 
+human being: melnum 
+rainy weather: huw	huʌwe 
+hide: palk	palək	palʌk 
+little: wasek	wɪsɔk	wʊsok 
+smallness: wasek	wɪsɔk	wʊsok 
+rock: weit	wes	wey	wɛs 
+2 sg: kitn	kitn~	kiːtɲ 
+grind: ekg	wekN~	wekg	wekk	weːk	weːkŋ 
+go: haːtn 
+1 pl. inc.: men-tepm	ment~o	mənto	tepm 
+we₁: men-tepm	ment~o	mənto	tepm 
+whiteness: taŋkoren	toŋkorent	tʌgorɛn 
+who?: mala	məla 
+female: kin	kiːn	kiːɲ 
+dull: kaikut	kalkut 
+serious: kaikut	kalkut 
+close: wururen 
+near: wururen 
+ner: wururen 

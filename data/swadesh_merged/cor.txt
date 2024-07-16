@@ -1,0 +1,333 @@
+all: holl	pob 
+every: holl	pob 
+ash: lludu 
+ashes: lludu 
+bark: rhisgl 
+abdomen: bol	bola 
+belly: bol	bola 
+big: mawr 
+bigness: mawr 
+large: mawr 
+bird: aderyn 
+bite: brathu	cnoi 
+black: du 
+blood: gos	gwaed 
+bone: Eskorn	asgwrn 
+breast: bron 
+breasts: bron 
+cloud: cwmwl 
+cold: oer 
+come: dod	dos 
+come from: dod	dos 
+be dead: marw	merw~el 
+dead: marw	merw~el 
+die: marw	merw~el 
+dog: ci	ki 
+drink: evE	yfed 
+dry: sych 
+ear: clust	skovErn 
+earth: daear 
+ground: daear 
+land: daear 
+soil: daear 
+eat: bwyta 
+egg: ŵy 
+eye: lEgEs	llygad 
+feather: pluen 
+fire: tEn	tân 
+fish: pisk	pysgodyn 
+fly: hedfan 
+fly v.: hedfan 
+foot: troed 
+full: liun	llawn 
+give: rhoi 
+good: da	mad 
+green: glas	gwyrdd 
+hair: blew	gwallt 
+hand: dorn	liu 
+left hand: dorn	liu 
+right: dorn	liu 
+head: pen 
+hear: clywed	kliues 
+heart: calon 
+horn: corn	korn 
+1 sg.: fi	mi 
+I: fi	mi 
+kill: lladd 
+knee: glin	pen-glin 
+be knowledgeable: gwybod 
+know: gwybod 
+leaf: deilen	delen 
+liver: Evi	afu	iau 
+long: hir 
+head louse: lleuen	lowen 
+louse: lleuen	lowen 
+male: dyn	gŵr 
+man: den	dyn 
+many: llawer 
+much: llawer 
+multiple: llawer 
+several: llawer 
+moon: lleuad	lloer 
+hill: meni8	mynydd 
+mountain: meni8	mynydd 
+mouth: ceg	genau 
+name: enw	hEnou 
+title: enw	hEnou 
+neck: gwddf	mwnwgl 
+new: newydd	nowi8 
+night: nos 
+nighttime: nos 
+nose: tron	trwyn 
+not: dim 
+adulterous: onEn	onan	un 
+one: onEn	onan	un 
+single: onEn	onan	un 
+that: hwnnw	y … yna 
+the: onEn	onan	un 
+unprincipled: onEn	onan	un 
+human: den	dyn 
+human being: den	dyn 
+person: den	dyn 
+rain: glaw 
+rainy weather: glaw 
+red: coch	rhudd 
+path: ffordd	hins	vor8 
+road: ffordd	hins	vor8 
+route: ffordd	hins	vor8 
+root: gwraidd 
+round: crwn 
+sand: tywod 
+say: siarad 
+see: gweld	gw~eles 
+seed: had 
+sit: eistedd 
+hide: croen	kroxen 
+skin: croen	kroxen 
+sleep: cysgu 
+little: bach	bychan 
+small: bach	bychan 
+smallness: bach	bychan 
+smoke: mwg 
+star: seren	steren 
+rock: carreg	maen	men 
+stone: carreg	maen	men 
+sun: haul	houl 
+swim: nofio 
+tail: cynffon	llost 
+this: hwn	y … yma 
+2 sg: ti 
+thou: ti 
+you: ti 
+tongue: tEves	tafod 
+tooth: dEns	dant 
+tree: coeden	colfen	gw~i8en	pren 
+grind: dau	dew	diu 
+two: dau	dew	diu 
+go: cerdded 
+walk: cerdded 
+hot: cynnes	twym 
+warm: cynnes	twym 
+water: dour	dŵr 
+1 pl. inc.: ni 
+we: ni 
+we₁: ni 
+what: beth 
+white: gwyn 
+whiteness: gwyn 
+who: pwy 
+who?: pwy 
+female: dynes	gwraig	menyw	merch 
+woman: dynes	gwraig	menyw	merch 
+yellow: melyn 
+distant: pell 
+far: pell 
+dull: trwm 
+heavy: trwm 
+serious: trwm 
+close: agos 
+near: agos 
+ner: agos 
+salt: halen 
+short: byr 
+snake: neidr	sarff 
+thin: tenau 
+wind: gwynt 
+earthworm: pryf 
+worm: pryf 
+year: blwyddyn 
+3 sg.: ef	fe	fo 
+he: ef	fe	fo 
+she: ef	fe	fo 
+2 pl.: chi	chwi 
+ye: chi	chwi 
+you all: chi	chwi 
+3 pl.: hwy	hwynt	nhw 
+they: hwy	hwynt	nhw 
+here: yma 
+there: yna 
+where: ble 
+where?: ble 
+when: pryd 
+when?: pryd 
+how: sut 
+how?: sut 
+some: rhai	rhyw 
+few: ychydig 
+other: arall 
+three: tri 
+four: pedwar	peswar 
+five: pump	pymp 
+broad: llydan 
+wide: llydan 
+wideness: llydan 
+fat: saim 
+thick: tew 
+narrow: cul 
+child: plentyn 
+principal wife: gwraig 
+wife: gwraig 
+husband: gŵr 
+his mother: mam 
+mother: mam 
+my mother: mam 
+father: tad 
+his father: tad 
+my father: tad 
+animal: anifail 
+forest: coedwig	fforest 
+woods: coedwig	fforest 
+branch: ffon 
+stick: ffon 
+fruit: ffrwyth 
+flower: blodyn 
+grass: gwellt 
+cord: rhaff 
+rope: rhaff 
+flesh: cig 
+meat: cig 
+grease: saim 
+claw: ewin 
+fingernail: ewin 
+nail: ewin 
+leg: coes 
+arm: llaw 
+wing: adenydd	asgell 
+gut: perfedd 
+guts: perfedd 
+insides: perfedd 
+intestine: perfedd 
+intestines: perfedd 
+back: cefn 
+suck: sugno 
+spit: poeri 
+vomit: chwydu 
+blow: chwythu 
+breath: anadlu 
+breathe: anadlu 
+laugh: chwerthin 
+laughter: chwerthin 
+cogitate: meddwl 
+reflect: meddwl 
+think: meddwl 
+smell: arogli	clywed arogl 
+sniff: arogli	clywed arogl 
+afraid: bod ag ofn	ofni 
+be afraid: bod ag ofn	ofni 
+fear: bod ag ofn	ofni 
+fright: bod ag ofn	ofni 
+alive: byw 
+be alive: byw 
+life: byw 
+live: byw 
+living: byw 
+fight: brwydro	ymladd 
+hunt: hela 
+beat: taro 
+hit: taro 
+strike: taro 
+cut: torri 
+hack: torri 
+cut open: hollti 
+split: hollti 
+pierce: gwanu	trywanu 
+stab: gwanu	trywanu 
+scratch: cosi 
+dig: cloddio	palu 
+lie: gorwedd 
+lie down: gorwedd 
+tell lies: gorwedd 
+stand: sefyll 
+turn: troi 
+turn around: troi 
+turn round: troi 
+drop: cwympo	disgyn	syrthio 
+fall: cwympo	disgyn	syrthio 
+grasp: dal	dala 
+hold: dal	dala 
+hold in arm: dal	dala 
+squeeze: gwasgu 
+wring: gwasgu 
+rub: rhwbio 
+wipe: sychu 
+wash: golchi 
+wash clothes: golchi 
+pull: tynnu 
+push: gwthio 
+shove: gwthio 
+throw: taflu 
+bind: clymu	rhwymo 
+fasten: clymu	rhwymo 
+tie: clymu	rhwymo 
+tie up: clymu	rhwymo 
+sew: gwnïo 
+count: rhifo 
+enumerate: rhifo 
+number: rhifo 
+tally: rhifo 
+sing: canu 
+have fun: chwarae 
+play: chwarae 
+float: nofio 
+flow: llifo 
+freeze: rhewi 
+swell: chwyddo 
+brook: afon 
+river: afon 
+stream: afon 
+lake: llyn 
+ocean: môr 
+sea: môr 
+dust: llwch 
+fog: niwl 
+sky: wybren 
+snow: eira 
+ice: iâ 
+blaze: llosgi 
+burn: llosgi 
+day: dydd 
+daylight: dydd 
+daytime: dydd 
+old: hen 
+bad: drwg 
+evil: drwg 
+rot: braen	pwdr 
+rotten: braen	pwdr 
+dirty: brwnt	budr 
+filthy: brwnt	budr 
+soiled: brwnt	budr 
+straight: syth 
+sharp: llym	miniog 
+blunt: pŵl 
+smooth: llyfn 
+damp: gwlyb 
+wet: gwlyb 
+correct: certh	cywir	iawn 
+right side: de 
+left: chwith 
+at: at	wrth 
+in: mewn	yn 
+inside: mewn	yn 
+with: efo	gan	gyda	â 
+if: os	pe 
+because: achos	oherwydd 

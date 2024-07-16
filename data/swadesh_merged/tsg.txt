@@ -1,0 +1,268 @@
+all: katan 
+every: katan 
+ash: qabuh 
+ashes: qabuh 
+abdomen: tian 
+belly: tian 
+big: dakulaq 
+bigness: dakulaq 
+large: dakulaq 
+bird: manukmanuk 
+bite: magkutkut 
+black: qitum 
+blood: dugu7	duguq 
+bone: bukug 
+breast: daghal	dagh~al	duru7	duruq 
+breasts: daghal	dagh~al	duru7	duruq 
+burn: sunug 
+burn tr.: sunug 
+cloud: gabun 
+cold: mahagpay 
+come: kari 
+come from: kari 
+be dead: patay 
+dead: patay 
+die: patay 
+dog: iru7	qiru7	qiruq 
+drink: inum	mag7inum	mag7~inum	magqinum 
+dry: patahayun	tahay 
+ear: taiNah	taingah 
+eat: magkaqun 
+egg: qiklug 
+eye: matah 
+feather: bulbul 
+fire: kaayuh	kaayuy	kayuy 
+fish: ista7	qistaq 
+fly: maglupad 
+fly v.: maglupad 
+full: hipu7 
+good: marayaw 
+green: gaddung 
+hair: buhuk 
+hand: limah 
+left hand: limah 
+right: limah 
+head: quuh 
+hear: duNug	magduNug	magdungug 
+1 sg.: aku	akuh 
+I: aku	akuh 
+kill: bunuq 
+knee: tuhud 
+be knowledgeable: tuhud 
+know: tuhud 
+leaf: dahun 
+liver: atay	qatay 
+long: mahabaq 
+head louse: kutuh 
+louse: kutuh 
+male: qusug 
+man: ta7uh	taquh 
+moon: bulan 
+hill: buud 
+mountain: buud 
+mouth: simud 
+name: Nan	ngan 
+title: Nan	ngan 
+neck: liqug 
+new: ba7guh	baguh	baqguh 
+night: dum	duum 
+nighttime: dum	duum 
+nose: iluN	qilung 
+adulterous: ?isa	hambu7uk	hambuquk	hamb~u7uk	isá 
+one: ?isa	hambu7uk	hambuquk	hamb~u7uk	isá 
+single: ?isa	hambu7uk	hambuquk	hamb~u7uk	isá 
+that: yan 
+the: ?isa	hambu7uk	hambuquk	hamb~u7uk	isá 
+unprincipled: ?isa	hambu7uk	hambuquk	hamb~u7uk	isá 
+human: ta7uh	taquh 
+human being: ta7uh	taquh 
+person: ta7uh	taquh 
+rain: qulan 
+rainy weather: qulan 
+red: pulah 
+path: daan	dan 
+road: daan	dan 
+route: daan	dan 
+root: gamut 
+sand: buhangin 
+say: qian 
+see: kimita7	kimitaq 
+sit: maglingkud 
+hide: pa7is	paqis 
+skin: pa7is	paqis 
+sleep: magtuug 
+little: qasibiq 
+small: qasibiq 
+smallness: qasibiq 
+smoke: qasuh 
+star: bitu7un	bituqun 
+rock: batu 
+stone: batu 
+swim: maglanguy 
+tail: qikug 
+this: ini 
+2 sg: ikaw	kaw 
+thou: ikaw	kaw 
+you: ikaw	kaw 
+tongue: dila7	dilaq 
+tooth: ipun	qipun 
+tree: kahuy 
+grind: duah	duwá	dúa 
+two: duah	duwá	dúa 
+go: magpanaw 
+walk: magpanaw 
+hot: mapasuq 
+warm: mapasuq 
+water: tubig 
+1 pl. inc.: kami	kita	kitaniuh 
+we: kami	kita	kitaniuh 
+we₁: kami	kita	kitaniuh 
+what: qunuh 
+white: putiq 
+whiteness: putiq 
+who: hisiuh 
+who?: hisiuh 
+female: babaqih 
+woman: babaqih 
+yellow: bianing 
+distant: malayuq 
+far: malayuq 
+dull: mabuqgat 
+heavy: mabuqgat 
+serious: mabuqgat 
+close: masuquk 
+near: masuquk 
+ner: masuquk 
+salt: qasin 
+short: mababaq	mapandak 
+snake: haas 
+thin: manipis 
+wind: hangin 
+earthworm: kalug lupaq 
+worm: kalug lupaq 
+year: tahun 
+2 pl.: kamu 
+ye: kamu 
+you all: kamu 
+3 pl.: nila	sila 
+they: nila	sila 
+where: hariqin 
+where?: hariqin 
+when: haqunuh	haunuh	kuqnuh 
+when?: haqunuh	haunuh	kuqnuh 
+how: pilah 
+how?: pilah 
+other: hambuquk 
+three: tuuh	túlu	túu 
+four: ?úpat	qupat	úpat 
+five: lima	limah	líma 
+broad: malakbang 
+wide: malakbang 
+wideness: malakbang 
+fat: lanah 
+thick: marakmul 
+narrow: masigpit 
+principal wife: qasawah 
+wife: qasawah 
+husband: banah 
+his mother: qinaq 
+mother: qinaq 
+my mother: qinaq 
+father: qamaq 
+his father: qamaq 
+my father: qamaq 
+forest: gulangan 
+woods: gulangan 
+branch: sanga 
+stick: sanga 
+fruit: bungah 
+flower: sumping 
+grass: dagnut 
+cord: lubid 
+rope: lubid 
+flesh: siyumbay 
+meat: siyumbay 
+grease: lanah 
+wing: pikpik 
+gut: luungunluungun 
+guts: luungunluungun 
+insides: luungunluungun 
+intestine: luungunluungun 
+intestines: luungunluungun 
+back: taikud 
+suck: supsup 
+spit: magluraq 
+vomit: suka 
+blow: huyup 
+breath: napas 
+breathe: napas 
+laugh: magkatawah 
+laughter: magkatawah 
+cogitate: magpikil 
+reflect: magpikil 
+think: magpikil 
+smell: hamutun 
+sniff: hamutun 
+afraid: bugaq 
+be afraid: bugaq 
+fear: bugaq 
+fright: bugaq 
+alive: buhi 
+be alive: buhi 
+life: buhi 
+live: buhi 
+living: buhi 
+hunt: maglawag 
+beat: dukduk 
+hit: dukduk 
+strike: dukduk 
+cut: huyaq 
+hack: huyaq 
+cut open: sipak 
+split: sipak 
+pierce: dugsuqan 
+stab: dugsuqan 
+scratch: magkamas	qugud 
+dig: magkaliq 
+stand: timindug 
+drop: mahulug 
+fall: mahulug 
+grasp: kumkumun 
+hold: kumkumun 
+hold in arm: kumkumun 
+squeeze: pugaqun 
+wring: pugaqun 
+throw: hitiluq 
+bind: hukut 
+fasten: hukut 
+tie: hukut 
+tie up: hukut 
+sew: magtahiq 
+count: qitung 
+enumerate: qitung 
+number: qitung 
+tally: qitung 
+flow: sug 
+lake: lanaw 
+ocean: dagat 
+sea: dagat 
+dust: bagunbun 
+sky: langit 
+bad: mangiq 
+evil: mangiq 
+rot: haluq 
+rotten: haluq 
+dirty: malummiq 
+filthy: malummiq 
+soiled: malummiq 
+sharp: mahaqit 
+blunt: dumpul 
+damp: basaq 
+wet: basaq 
+right side: ha tuquh 
+left: ha lawah 
+at: ha 
+in: suud 
+inside: suud 
+and: tag 
+if: bang 

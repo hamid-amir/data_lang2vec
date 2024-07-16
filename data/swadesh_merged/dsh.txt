@@ -1,0 +1,225 @@
+all: luːle 
+animal: binič 
+ashes: ɛːge 
+bad: ɗe˗u 
+bark: buːrte 
+belly: geːre 
+big: gudd˗u | gudd-u 
+bird: kimiddi | kimiddi	kɪmmɪde 
+bird: kɪmmɪde | kimiddi	kɪmmɪde 
+bite: gɪnɪne 
+black: (ʔ)oŋor | oŋor	ʔoŋor 
+blood: fəs | f3s	fas	fəs 
+blow: ʔuf 
+bone: lafite | laf-itti	lafite	lafiti 
+bone: laf˗itti | laf-itti	lafite	lafiti 
+breast: ɔðo | o8o	ozu	ɔðo	ʔot-t-u 
+breast: ʔot˗t˗u | o8o	ozu	ɔðo	ʔot-t-u 
+burn: d\unay 
+claw: ad\o | adʼo 
+cloud: irr̥ 
+cold: d\en | dʼen 
+come: jim˗ | imez	jim-	qayimi	qayɪmi 
+come: qayɪmi | imez	jim-	qayimi	qayɪmi 
+cut: mur˗ 
+die: kufe | kuf	kufe 
+dig: Got 
+dirty: digiric 
+dog: cer | Cir	Tir	cer	čɪːrr̥ 
+dog: čɪːrr̥ | Cir	Tir	cer	čɪːrr̥ 
+drink: ɪk | Tik	gik	ik	ɪk 
+dry: gogɔy 
+dust: gog˗iyyu 
+ear: nɛːte | nEte	neti	nnɛː	nɛːte 
+ear: nnɛː | nEte	neti	nnɛː	nɛːte 
+earth: lless 
+eat: qʷɔye 
+egg: g\oŋg\o | gʼoŋgʼo 
+eye: ʔil | il	iːl	ʔil 
+eye: iːl | il	iːl	ʔil 
+fall: lab 
+father: baːba 
+fat (n.): b\ɔde 
+feather: bál˗aːm | bál-aːm 
+fire: g\iɛtɛ | Tiete	giEte	giete	gʼiɛtɛ 
+fish: bɛːč | bEC	beT	beé	bɛːč 
+fish: beé | bEC	beT	beé	bɛːč 
+five: cen 
+flower: kalaɲ 
+fly (n.): kiːðin 
+foot: Gas | gʼɛs	ɢas 
+foot: g\ɛs | gʼɛs	ɢas 
+four: ʔaffur 
+give: šiyɛ | šiyɛ 
+good: mɪðəp | mizáb	mɪðəp 
+good: mizáb | mizáb	mɪðəp 
+grass: ʔiːš 
+grass: iːš 
+hair: zurr̥ 
+hand: gíl | gil	gíl 
+head: me | me	mɛː 
+head: mɛː | me	mɛː 
+hear: maːl | mal	male	maːl	maːle 
+hear: maːle | mal	male	maːl	maːle 
+heart: wəðɔne | wozinni	wəðɔne 
+heart: wozinni | wozinni	wəðɔne 
+heavy: hiliš | hiliš 
+he/she: hi 
+he/she: ˗li 
+horn: gaːso | gas	gaso	gaːso 
+hunt: bilbil 
+I: ˗ču | yu	yú 
+I: ye | yu	yú 
+I: yú | yu	yú 
+kill: y˗igdife | y-igdife	yɪs 
+kill: yɪs | y-igdife	yɪs 
+knee: kurr̥ | kur	kurr̥ 
+know: ɔk 
+laugh: kósol 
+leaf: nɛte | nEte	neti	nɛte 
+left: ɗaː yibac 
+leg: Gas 
+liver: ci | Cira	Tira	ci	čira 
+liver: čira | Cira	Tira	ci	čira 
+long: ɗirdɪrr 
+louse: izɪrr̥ | izidi	izir 
+man: máː | ma8Et	mu 
+man: maːðɛt | ma8Et	mu 
+many: burrnay 
+meat: só 
+moon: g\wi | gʼwi 
+mountain: gum | gum	gumiti	war	warr̥ 
+mountain: warr̥ | gum	gumiti	war	warr̥ 
+mouth: ʔaf | af	afo	ʔaf 
+mouth: af(o) | af	afo	ʔaf 
+name: maːya | maya	maːya	me 
+neck: luːte | luːte	luːtti 
+neck: luːtti | luːte	luːtti 
+new: kaːna | kana	kaːna 
+night: čuːri | Curi	Turi	cuːr-i	čuːri 
+night: cuːr˗i | Curi	Turi	cuːr-i	čuːri 
+old: karsic 
+one: tákač | takaT	taqaC	taqač	tákac	tákač 
+one: taqač | takaT	taqaC	taqač	tákac	tákač 
+other: taːxa 
+rain: ʔirr | ɪrr̥	ʔirr 
+rain: ɪrr̥ | ɪrr̥	ʔirr 
+red: bur | bur	burr̥ 
+red: burr̥ | bur	burr̥ 
+river: kolm 
+road: g\ʲeːrič | TieriT	gieriT	gy~eriC 
+root: (h)ɪð | hiz	ɪð 
+root: hiz | hiz	ɪð 
+round: lul˗u | lul-u 
+sand: jʊːč | juoc	jʊːč 
+sand: juoc | juoc	jʊːč 
+say: liːya 
+see: argiːyɛ | arg	argiyE	argiːyɛ	zagas	ʔarm 
+see: ʔarm | arg	argiyE	argiːyɛ	zagas	ʔarm 
+seed: r̥ruba 
+see: zagas | arg	argiyE	argiːyɛ	zagas	ʔarm 
+sew: zaːby 
+short: gaː˗u | gaː-u 
+sit: ɛledi 
+skin: tuːde | lokodi	tude	tuːde 
+sleep: d\ine | dʼine 
+small: nini | nini	niːni 
+small: niːni | nini	niːni 
+smoke: ɛrr̥ 
+snake: cár | cár	čarr̥ 
+snake: čarr̥ | cár	čarr̥ 
+sour: birrik 
+stand: aligɪdi 
+stand: keʔ 
+star: inzɪnte | inzɪnte	izint~e	izint~i 
+stone: waːr | war	waːr	waːrr̥ 
+stone: waːrr̥ | war	waːr	waːrr̥ 
+sun: aːzo | azo	azu	aːzo 
+swim: aðaːnða 
+tail: waːs 
+that: ˗la | -la 
+they: hi 
+they: ˗li 
+this: ela˗ | -la	ela- 
+this: ˗la | -la	ela- 
+thou: kúːni | kuni	kúːni 
+three: sɛddi 
+throw: laːm˗ 
+tongue: ɛre | Ere	ere	ɛre 
+tooth: qačo | kaTint~i	qaCo	qačo 
+tree: kurr̥ | Tor	gor	kur 
+tree: ˠor | Tor	gor	kur 
+two: naːma | naama	nama	naːma 
+walk: seðe 
+warm: mošoč | mošoč 
+wash: Giːa 
+water: bie | bie	biyE	biːyɛ 
+water: biːyɛ | bie	biyE	biːyɛ 
+we (excl.): múːni 
+we: ɲi | 5i5i	Tina	ɲíːni 
+we (incl.): ɲíːni 
+we: ˗kúnu | 5i5i	Tina	ɲíːni 
+wet: nyuraːn 
+wet: ɲur˗u 
+what: méːtte | meyte	méːtte 
+what: meyte | meyte	méːtte 
+when: ʔámeri 
+where: ʔáli 
+white: ɛð | ɛð	ʔez 
+white: ʔez | ɛð	ʔez 
+who: máːyamaːya | máːyamaːya 
+wind: waːnič | waːnič 
+woman: maːd\ɪðit | maːdʼɪðit	minni 
+woman: minni | maːdʼɪðit	minni 
+worm: kuːɗin 
+you: ʔitíni | kuni	kúːni 
+you: kíču | kuni	kúːni 
+every: luːle 
+ash: ɛːge 
+abdomen: geːre 
+bigness: gudd-u 
+large: gudd-u 
+breasts: o8o	ozu	ɔðo	ʔot-t-u 
+nail: adʼo 
+talon: adʼo 
+come from: imez	jim-	qayimi	qayɪmi 
+be dead: kuf	kufe 
+dead: kuf	kufe 
+left hand: gil	gíl 
+right: gil	gíl 
+1 sg.: yu	yú 
+be knowledgeable: ɔk 
+head louse: izidi	izir 
+male: maːðɛt	máː 
+much: burrnay 
+multiple: burrnay 
+several: burrnay 
+hill: gum	gumiti	war	warr̥ 
+title: maya	maːya	me 
+nighttime: Curi	Turi	cuːr-i	čuːri 
+nose: sono	soːnsɔːno 
+adulterous: takaT	taqaC	taqač	tákac	tákač 
+single: takaT	taqaC	taqač	tákac	tákač 
+the: takaT	taqaC	taqač	tákac	tákač 
+unprincipled: takaT	taqaC	taqač	tákac	tákač 
+human: ma8Et	mu 
+human being: ma8Et	mu 
+person: ma8Et	mu 
+rainy weather: ɪrr̥	ʔirr 
+path: TieriT	gieriT	gy~eriC 
+route: TieriT	gieriT	gy~eriC 
+hide: lokodi	tude	tuːde 
+little: nini	niːni 
+smallness: nini	niːni 
+rock: war	waːr	waːrr̥ 
+2 sg: kuni	kúːni 
+grind: naama	nama	naːma 
+hot: mošoč 
+1 pl. inc.: 5i5i	Tina	ɲíːni 
+we₁: 5i5i	Tina	ɲíːni 
+whiteness: ɛð	ʔez 
+who?: máːyamaːya 
+female: maːdʼɪðit	minni 
+dull: hiliš 
+serious: hiliš 
+earthworm: kuːɗin 

@@ -1,0 +1,272 @@
+all: ser 
+every: ser 
+ash: naton 
+ashes: naton 
+abdomen: nap̃el 
+belly: nap̃el 
+big: lep	̃pur 
+bigness: lep	̃pur 
+large: lep	̃pur 
+bird: man 
+bite: kat 
+black: got 
+blood: nra	nran 
+bone: ntawot	ntawotin 
+breast: nais	naisun 
+breasts: nais	naisun 
+burn: tp̃il 
+burn tr.: tp̃il 
+cloud: nmalko 
+cold: mlanr 
+come: mai 
+come from: mai 
+be dead: mat 
+dead: mat 
+die: mat 
+dog: kori	mw~ori 
+drink: min 
+dry: gar 
+ear: ntalgen	ntalig 
+eat: pam 
+egg: atol 
+eye: namet	namten 
+feather: nm̃au 
+fire: nkap 
+fish: naik	tkau 
+fly: nrir 
+fly v.: nrir 
+full: pw~ur 
+good: wi 
+green: ksakes 
+hair: nal 
+hand: nar 
+left hand: nar 
+right: nar 
+head: npau 
+hear: nrog 
+horn: npatin 
+1 sg.: kineu 
+I: kineu 
+kill: watpun 
+knee: napw~utuen 
+be knowledgeable: tae 
+know: tae 
+leaf: naul 
+lie: entan 
+lie down: entan 
+liver: ntankep 
+long: pram 
+head louse: kut	kutin 
+louse: kut	kutin 
+male: nanwei 
+man: nat	natamw~ol	natam̃ol 
+moon: atlag 
+hill: ntaf 
+mountain: ntaf 
+mouth: nakanr 
+name: nagi	nagien 
+title: nagi	nagien 
+neck: nanu 
+new: faum	foum 
+night: pw~og	p̃og 
+nighttime: pw~og	p̃og 
+nose: nago	nagorin 
+adulterous: iskei	skei 
+one: iskei	skei 
+single: iskei	skei 
+that: tenen 
+the: iskei	skei 
+unprincipled: iskei	skei 
+human: nat	natamw~ol	natam̃ol 
+human being: nat	natamw~ol	natam̃ol 
+person: nat	natamw~ol	natam̃ol 
+rain: us 
+rainy weather: us 
+red: miel 
+path: napu 
+road: napu 
+route: napu 
+root: nako 
+sand: nawen 
+say: til 
+see: alek	lek 
+sit: totan 
+hide: namlun	nasok 
+skin: namlun	nasok 
+sleep: matur 
+little: ses 
+small: ses 
+smallness: ses 
+smoke: nuasog 
+star: mw~asei	m̃asei 
+rock: fat 
+stone: fat 
+sun: al 
+swim: waf 
+tail: nam̃el	napu 
+this: tene 
+2 sg: ag 
+thou: ag 
+you: ag 
+tongue: namen	namnen 
+tooth: mpat	npat	npatin 
+tree: nkas 
+grind: inru	nru	rua 
+two: inru	nru	rua 
+go: siwer 
+walk: siwer 
+hot: ftin 
+warm: ftin 
+water: nai 
+1 pl. inc.: akit	komam 
+we: akit	komam 
+we₁: akit	komam 
+what: nafte 
+white: tar 
+whiteness: tar 
+who: fei 
+who?: fei 
+female: nmatu 
+woman: nmatu 
+yellow: m̃nam̃on 
+distant: em̃ae 
+far: em̃ae 
+dull: mten 
+heavy: mten 
+serious: mten 
+close: m̃eltig 
+near: m̃eltig 
+ner: m̃eltig 
+salt: ntas 
+short: m̃it 
+snake: m̃at 
+thin: mrara 
+wind: nlag 
+earthworm: aslot 
+worm: aslot 
+year: ntau 
+2 pl.: akam 
+ye: akam 
+you all: akam 
+3 pl.: gar 
+they: gar 
+where: esua 
+where?: esua 
+when: gas 
+when?: gas 
+how: tfale 
+how?: tfale 
+other: karu 
+three: itol	tolu 
+four: ipat	pat 
+five: ilim	lim 
+broad: p̃olp̃lo 
+wide: p̃olp̃lo 
+wideness: p̃olp̃lo 
+fat: p̃aru 
+thick: matol 
+principal wife: nmatu 
+wife: nmatu 
+husband: nanwei 
+his mother: rait 
+mother: rait 
+my mother: rait 
+father: tem 
+his father: tem 
+my father: tem 
+forest: namlaskos 
+woods: namlaskos 
+branch: nra nkas 
+stick: nra nkas 
+fruit: nua 
+flower: nafum̃ 
+grass: nam̃nam̃ 
+cord: nmarit 
+rope: nmarit 
+flesh: napkas 
+meat: napkas 
+grease: p̃aru 
+wing: nafar 
+gut: nmarit 
+guts: nmarit 
+insides: nmarit 
+intestine: nmarit 
+intestines: nmarit 
+back: ntak 
+suck: kom 
+spit: tanu 
+vomit: lu 
+blow: si 
+breath: mar 
+breathe: mar 
+laugh: mur 
+laughter: mur 
+cogitate: mro 
+reflect: mro 
+think: mro 
+smell: mar 
+sniff: mar 
+afraid: mtak 
+be afraid: mtak 
+fear: mtak 
+fright: mtak 
+alive: m̃ol 
+be alive: m̃ol 
+life: m̃ol 
+live: m̃ol 
+living: m̃ol 
+hunt: plakori 
+beat: wat 
+hit: wat 
+strike: wat 
+cut: tai 
+hack: tai 
+cut open: pkafu 
+split: pkafu 
+pierce: sup̃ 
+stab: sup̃ 
+scratch: kar 
+dig: kil 
+stand: tuleg 
+drop: tarup̃ 
+fall: tarup̃ 
+grasp: katsok 
+hold: katsok 
+hold in arm: katsok 
+squeeze: m̃ol 
+wring: m̃ol 
+throw: nep 
+bind: motsok 
+fasten: motsok 
+tie: motsok 
+tie up: motsok 
+sew: tur 
+count: fei 
+enumerate: fei 
+number: fei 
+tally: fei 
+flow: ser 
+lake: luk 
+ocean: elau	namos	ntas 
+sea: elau	namos	ntas 
+dust: nalo 
+fog: nmaf 
+sky: nsau 
+bad: sa 
+evil: sa 
+rot: p̃o 
+rotten: p̃o 
+dirty: milo 
+filthy: milo 
+soiled: milo 
+sharp: mukal 
+blunt: p̃ol 
+damp: lom 
+wet: lom 
+right side: matu 
+left: maur 
+at: to 
+in: em̃rom 
+inside: em̃rom 
+and: go	me 
+if: ifla	ifwel 

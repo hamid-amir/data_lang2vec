@@ -1,0 +1,326 @@
+all: सब	सारा 
+every: सब	सारा 
+ash: राख 
+ashes: राख 
+bark: छाल 
+abdomen: पेट 
+belly: पेट 
+big: बड़ा 
+bigness: बड़ा 
+large: बड़ा 
+bird: चिड़िया	पक्षी 
+bite: काटना 
+black: काला 
+blood: ख़ून	रक्त	लहू 
+bone: हड्डी 
+breast: छाती	सीना 
+breasts: छाती	सीना 
+cloud: बादल 
+cold: ठंडा 
+come: आना 
+come from: आना 
+be dead: मरना 
+dead: मरना 
+die: मरना 
+dog: कुत्ता 
+drink: पीना 
+dry: सूखा 
+ear: कान 
+earth: ज़मीन	भूमि 
+ground: ज़मीन	भूमि 
+land: ज़मीन	भूमि 
+soil: ज़मीन	भूमि 
+eat: खाना 
+egg: अंडा 
+eye: आँख 
+feather: पंख	पर 
+fire: अग्नि	आग 
+fish: मछ्ली 
+fly: उड़ना 
+fly v.: उड़ना 
+foot: पांव	पैर 
+full: पूरा 
+give: देना 
+good: अच्छा 
+green: हरा 
+hair: केश	बाल 
+head: सर 
+hear: सुनना 
+heart: दिल 
+horn: सींग 
+1 sg.: मैं 
+I: मैं 
+kill: मारना 
+knee: घुटना 
+be knowledgeable: जानना 
+know: जानना 
+leaf: पत्ती 
+liver: कलेजा 
+long: लम्बा 
+head louse: जूँ 
+louse: जूँ 
+male: आदमी	मर्द 
+man: इंसान	मनुष्य 
+many: ज़्यादा	बहुत 
+much: ज़्यादा	बहुत 
+multiple: ज़्यादा	बहुत 
+several: ज़्यादा	बहुत 
+moon: चांद 
+hill: पहाड़ 
+mountain: पहाड़ 
+mouth: मुख	मूँह 
+name: नाम 
+title: नाम 
+neck: गर्दन 
+new: नया 
+night: रात 
+nighttime: रात 
+nose: नाक 
+not: नहीं 
+adulterous: एक 
+one: एक 
+single: एक 
+that: वह 
+the: एक 
+unprincipled: एक 
+human: इंसान	मनुष्य 
+human being: इंसान	मनुष्य 
+person: इंसान	मनुष्य 
+rain: बारिश 
+rainy weather: बारिश 
+red: लाल 
+path: मार्ग	रास्ता	राह	सड़क 
+road: मार्ग	रास्ता	राह	सड़क 
+route: मार्ग	रास्ता	राह	सड़क 
+root: जड़ 
+round: गोल 
+sand: बालू	रेत 
+say: कहना	बोलना 
+see: देखना 
+seed: बीज 
+sit: बैठना 
+hide: चमड़ी 
+skin: चमड़ी 
+sleep: सोना 
+little: छोटा 
+small: छोटा 
+smallness: छोटा 
+smoke: धुंआ 
+star: तारा	सितारा 
+rock: पत्थर 
+stone: पत्थर 
+sun: सूरज 
+swim: तैरना 
+tail: पूँछ 
+this: यह 
+2 sg: आप	तुम	तू 
+thou: आप	तुम	तू 
+you: आप	तुम	तू 
+tongue: ज़बान	जीभ 
+tooth: दाँत 
+tree: पेड़ 
+grind: दो 
+two: दो 
+go: चलना	टहलना 
+walk: चलना	टहलना 
+hot: गर्म 
+warm: गर्म 
+water: पानी 
+1 pl. inc.: हम 
+we: हम 
+we₁: हम 
+what: क्या 
+white: सफ़ेद 
+whiteness: सफ़ेद 
+who: कौन 
+who?: कौन 
+female: औरत 
+woman: औरत 
+yellow: पीला 
+distant: दूर 
+far: दूर 
+dull: भारी 
+heavy: भारी 
+serious: भारी 
+close: क़रीब	के पास	नज़दीक 
+near: क़रीब	के पास	नज़दीक 
+ner: क़रीब	के पास	नज़दीक 
+salt: नमक 
+snake: साँप 
+thin: पतला 
+wind: हवा 
+earthworm: कीड़ा 
+worm: कीड़ा 
+year: बरस	साल 
+3 sg.: वह 
+he: वह 
+she: वह 
+2 pl.: आप	तुम	तू 
+ye: आप	तुम	तू 
+you all: आप	तुम	तू 
+3 pl.: वे 
+they: वे 
+here: यहाँ 
+there: वहाँ 
+where: कहाँ	किधर 
+where?: कहाँ	किधर 
+when: कब 
+when?: कब 
+how: कैसा 
+how?: कैसा 
+some: कुछ 
+few: थोड़ा 
+other: दूसरा 
+three: तीन 
+four: चार 
+five: पाँच 
+broad: चौड़ा 
+wide: चौड़ा 
+wideness: चौड़ा 
+fat: वसा 
+thick: गाढ़ा 
+narrow: तंग 
+child: बच्चा 
+principal wife: पत्नी	बीवी 
+wife: पत्नी	बीवी 
+husband: पती 
+his mother: माँ	माता 
+mother: माँ	माता 
+my mother: माँ	माता 
+father: पिता	बाप 
+his father: पिता	बाप 
+my father: पिता	बाप 
+animal: जानवर 
+forest: वन 
+woods: वन 
+branch: डंडा 
+stick: डंडा 
+fruit: फल 
+flower: फूल 
+grass: घास 
+cord: डोरी 
+rope: डोरी 
+flesh: गोश्त	मांस 
+meat: गोश्त	मांस 
+grease: वसा 
+claw: नाख़ुन 
+fingernail: नाख़ुन 
+nail: नाख़ुन 
+leg: टांग	पांव 
+arm: हाथ 
+hand: हाथ 
+wing: पंख 
+gut: अंतड़ी 
+guts: अंतड़ी 
+insides: अंतड़ी 
+intestine: अंतड़ी 
+intestines: अंतड़ी 
+back: पीठ 
+suck: चूसना 
+spit: थूक 
+blow: फूँक देना 
+breath: सांस लेना 
+breathe: सांस लेना 
+laugh: हँसना 
+laughter: हँसना 
+cogitate: सोचना 
+reflect: सोचना 
+think: सोचना 
+smell: सूंघना 
+sniff: सूंघना 
+afraid: डरना 
+be afraid: डरना 
+fear: डरना 
+fright: डरना 
+alive: जीना 
+be alive: जीना 
+life: जीना 
+live: जीना 
+living: जीना 
+fight: झगड़ना	लड़ना 
+hunt: शिकार करना 
+beat: मारना 
+hit: मारना 
+strike: मारना 
+cut: काटना 
+hack: काटना 
+pierce: भोंकना 
+stab: भोंकना 
+scratch: खरोंचना 
+dig: खोदना 
+lie: लेटना 
+lie down: लेटना 
+tell lies: लेटना 
+stand: खड़ा होना 
+turn: मुड़ना 
+turn around: मुड़ना 
+turn round: मुड़ना 
+drop: गिरना 
+fall: गिरना 
+grasp: पकड़ना 
+hold: पकड़ना 
+hold in arm: पकड़ना 
+rub: मलना	रगड़ना 
+wipe: पोंछना 
+wash: धोना 
+wash clothes: धोना 
+pull: खींचना 
+push: धक्का देना 
+shove: धक्का देना 
+throw: फेंकना 
+bind: बाँधना 
+fasten: बाँधना 
+tie: बाँधना 
+tie up: बाँधना 
+sew: सीना 
+count: गिनना 
+enumerate: गिनना 
+number: गिनना 
+tally: गिनना 
+sing: गाना 
+have fun: खेलना 
+play: खेलना 
+flow: बहना 
+freeze: जमना 
+swell: फूलना	सूजना 
+brook: नदी 
+river: नदी 
+stream: नदी 
+lake: झील 
+ocean: समंदर 
+sea: समंदर 
+dust: ख़ाक	धूल 
+fog: कोहरा 
+sky: आसमान 
+snow: बर्फ़ 
+ice: बर्फ़ 
+blaze: जलना 
+burn: जलना 
+day: दिन 
+daylight: दिन 
+daytime: दिन 
+old: पुराना 
+bad: ख़राब	बुरा 
+evil: ख़राब	बुरा 
+rot: सड़ा 
+rotten: सड़ा 
+dirty: गन्दा	मैला 
+filthy: गन्दा	मैला 
+soiled: गन्दा	मैला 
+straight: सीधा 
+sharp: तीखा 
+blunt: कुंद 
+smooth: चिकना 
+damp: ओदा	गीला 
+wet: ओदा	गीला 
+correct: ठीक 
+right: दाया 
+right side: दाया 
+left: बायां 
+at: पर	में 
+in: में 
+inside: में 
+with: के पास	के संग	के साथ	से 
+and: और 
+if: अगर 
+because: क्योंकि 

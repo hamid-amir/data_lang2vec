@@ -1,0 +1,339 @@
+all: æгас	æнǽхъæн	æппæт	алцы	алцытæ	иууылдæр	ӕппӕт 
+every: æгас	æнǽхъæн	æппæт	алцы	алцытæ	иууылдæр	ӕппӕт 
+ash: æртхутæг	фӕнык 
+ashes: æртхутæг	фӕнык 
+bark: цъар 
+abdomen: гуыбын 
+belly: гуыбын 
+big: æстыр	дынджыр	егъау	стыр 
+bigness: æстыр	дынджыр	егъау	стыр 
+large: æстыр	дынджыр	егъау	стыр 
+bird: маргъ	цъиу 
+bite: хæцын	хӕц-	хӕцыд- 
+black: сау 
+blood: туг 
+bone: стæг	стӕг	ыстӕг 
+breast: дзидзи	риу 
+breasts: дзидзи	риу 
+burn: судз-	сыгъд- 
+burn tr.: судз-	сыгъд- 
+claw: ных 
+nail: ных 
+talon: ных 
+cloud: æврагъ	ӕврагъ 
+cold: уазал 
+come: æрцæуын	цæуын	ӕрцыд-	ӕрцӕу- 
+come from: æрцæуын	цæуын	ӕрцыд-	ӕрцӕу- 
+be dead: мæлын	мард-	мӕл- 
+dead: мæлын	мард-	мӕл- 
+die: мæлын	мард-	мӕл- 
+dog: куыдз 
+drink: нуазын	нызт-	ныуаз- 
+dry: хус 
+ear: хъус 
+earth: зæхх	сыджыт 
+ground: зæхх	сыджыт 
+land: зæхх	сыджыт 
+soil: зæхх	сыджыт 
+eat: хæрын	хорд-	хӕр- 
+egg: айк 
+eye: цæст	цӕст 
+fat: фиу 
+fat n.: фиу 
+grease: фиу 
+lubricant: фиу 
+oil: фиу 
+feather: сис 
+fire: арт 
+fish: кæсаг	кæф	кӕсаг 
+fly: тæхын	тахт-	тӕх- 
+fly v.: тæхын	тахт-	тӕх- 
+foot: къах	фад 
+full: дзаг 
+give: дæттын	дӕтт-	лӕвӕрд-	рад-	ратт- 
+good: хорз 
+green: кӕрдӕгхуыз	цъæх	цъӕх 
+hair: хъис	хъуын 
+hand: къух 
+left hand: къух 
+right: къух 
+head: сæр	сӕр 
+hear: хъус-	хъусын	хъуыст- 
+heart: зæрдæ	зӕрдӕ 
+horn: сыкъа 
+1 sg.: æз	мӕн-	ӕз 
+I: æз	мӕн-	ӕз 
+kill: мар-	марын 
+knee: зоныг	уӕраг- 
+be knowledgeable: зон-	зонын	зыд- 
+know: зон-	зонын	зыд- 
+leaf: сыф 
+lie: хуысс-	хуыссыд- 
+lie down: хуысс-	хуыссыд- 
+liver: игæр	игӕр 
+long: даргъ 
+head louse: сыст 
+louse: сыст 
+male: лæг	лӕг	нæлгоймаг 
+man: адæймаг	адӕймаг	лæг	удгоймаг 
+many: бирæ	бирæтæ	бирӕ 
+much: бирæ	бирæтæ	бирӕ 
+multiple: бирæ	бирæтæ	бирӕ 
+several: бирæ	бирæтæ	бирӕ 
+flesh: дзидза 
+meat: дзидза 
+moon: мæй	мӕй 
+hill: къӕдзӕх	хох 
+mountain: къӕдзӕх	хох 
+mouth: дзых 
+name: ном 
+title: ном 
+neck: æфцæг	бӕрзӕй 
+new: нæуæг	ног	нӕуӕг 
+night: æхсæв	ӕхсӕв 
+nighttime: æхсæв	ӕхсӕв 
+nose: бырынкъ	фындз 
+not: нæ	нæтæ	нӕ 
+adulterous: иу 
+one: иу 
+single: иу 
+that: уй	уы-цы	уый	уыцы 
+the: иу 
+unprincipled: иу 
+human: адæймаг	адӕймаг	лæг	удгоймаг 
+human being: адæймаг	адӕймаг	лæг	удгоймаг 
+person: адæймаг	адӕймаг	лæг	удгоймаг 
+rain: къӕвда	уарын 
+rainy weather: къӕвда	уарын 
+red: сырх 
+path: балц	фæндаг	фӕндаг 
+road: балц	фæндаг	фӕндаг 
+route: балц	фæндаг	фӕндаг 
+root: уидаг 
+round: тымбыл 
+sand: змис 
+say: дзурын	загъд-	зӕгъ- 
+see: уыд-	уын-	уынын 
+seed: мыггаг	тауинаг 
+sit: бад-	бадын 
+hide: царм 
+skin: царм 
+sleep: фынӕй кӕн-	хуыссын 
+little: гыццыл	къаннæг	чысыл 
+small: гыццыл	къаннæг	чысыл 
+smallness: гыццыл	къаннæг	чысыл 
+smoke: фæздæг	фӕздӕг 
+stand: лӕуу- 
+star: стъалы 
+rock: дур 
+stone: дур 
+sun: хур 
+swim: ленк кæнын	ленк кӕн- 
+tail: дымæг	къӕдзил 
+this: а	ай	ацы 
+2 sg: ды	дӕу- 
+thou: ды	дӕу- 
+you: ды	дӕу- 
+tongue: æвзаг	ӕвзаг 
+tooth: дæндаг	дӕндаг 
+tree: бæлас	бӕлас 
+grind: дыууæ	дыууӕ 
+two: дыууæ	дыууӕ 
+go: цæуын	цыд-	цӕу- 
+walk: цæуын	цыд-	цӕу- 
+hot: хъарм 
+warm: хъарм 
+water: дон 
+1 pl. inc.: мах	махтæ 
+we: мах	махтæ 
+we₁: мах	махтæ 
+what: цы	цытæ 
+white: урс 
+whiteness: урс 
+who: чи	читæ 
+who?: чи	читæ 
+female: сылгоймаг	ус 
+woman: сылгоймаг	ус 
+yellow: бур 
+distant: дард 
+far: дард 
+dull: уæззау	уӕззау 
+heavy: уæззау	уӕззау 
+serious: уæззау	уӕззау 
+close: фарсмæ	хӕстӕг	цур 
+near: фарсмæ	хӕстӕг	цур 
+ner: фарсмæ	хӕстӕг	цур 
+salt: цæхх	цӕхх 
+short: цыбыр 
+snake: калм 
+thin: къæсхуыр	мæллæг	тæнæг	тӕнӕг	фыдхуыз	цола 
+wind: дымгӕ	уад 
+earthworm: зулкъ	калм	уаллон 
+worm: зулкъ	калм	уаллон 
+year: аз	афæдз 
+3 sg.: уй	уый 
+he: уй	уый 
+she: уй	уый 
+2 pl.: сымах	сымахтæ 
+ye: сымах	сымахтæ 
+you all: сымах	сымахтæ 
+3 pl.: уыдæттæ	уыдон	уыдонтæ 
+they: уыдæттæ	уыдон	уыдонтæ 
+here: ам	амыты 
+there: уым	уымыты 
+where: кæм	кæмыты 
+where?: кæм	кæмыты 
+when: кæд	куы 
+when?: кæд	куы 
+how: куыд	куыдтытæ 
+how?: куыд	куыдтытæ 
+some: цалдæр	цасдæр 
+few: гæзæмæ	цъус	чысыл 
+other: æндæр	иннæ 
+three: æртæ 
+four: цыппар 
+five: фондз 
+broad: уæрæх	фæтæн 
+wide: уæрæх	фæтæн 
+wideness: уæрæх	фæтæн 
+thick: бæзджын	ставд 
+narrow: нарæг	уынгæг 
+child: саби	сывæллон	хъæбул 
+principal wife: бинойнаг	ус 
+wife: бинойнаг	ус 
+husband: лæг	мой 
+his mother: мад 
+mother: мад 
+my mother: мад 
+father: фыд 
+his father: фыд 
+my father: фыд 
+animal: сырд	цæрæгой 
+forest: хъæд 
+woods: хъæд 
+branch: лæдзæг 
+stick: лæдзæг 
+fruit: дыргъ 
+flower: дидинæг 
+grass: кæрдæг 
+cord: бæндæн 
+rope: бæндæн 
+fingernail: ных 
+leg: къах 
+arm: къух 
+wing: базыр 
+gut: тъанг 
+guts: тъанг 
+insides: тъанг 
+intestine: тъанг 
+intestines: тъанг 
+back: фæсонтæ 
+suck: дæйын 
+spit: ту кæнын 
+vomit: омын 
+blow: дымын 
+breath: улæфын 
+breathe: улæфын 
+laugh: худын 
+laughter: худын 
+cogitate: хъуыды кæнын 
+reflect: хъуыды кæнын 
+think: хъуыды кæнын 
+smell: æмбудын 
+sniff: æмбудын 
+afraid: тæрсын 
+be afraid: тæрсын 
+fear: тæрсын 
+fright: тæрсын 
+alive: цæрын 
+be alive: цæрын 
+life: цæрын 
+live: цæрын 
+living: цæрын 
+fight: тох кæнын 
+hunt: цуан кæнын 
+beat: цæвын 
+hit: цæвын 
+strike: цæвын 
+cut: кæрдын 
+hack: кæрдын 
+cut open: уарын 
+split: уарын 
+pierce: садзын 
+stab: садзын 
+scratch: хыртт-хыртт кæнын 
+dig: къахын 
+tell lies: хуыссын 
+turn: здахын 
+turn around: здахын 
+turn round: здахын 
+drop: хауын 
+fall: хауын 
+grasp: дарын 
+hold: дарын 
+hold in arm: дарын 
+squeeze: æлхъивын 
+wring: æлхъивын 
+rub: хафын 
+wipe: сæрфын 
+wash: æхсын 
+wash clothes: æхсын 
+pull: ивазын 
+push: схойын 
+shove: схойын 
+throw: æппарын 
+bind: баттын 
+fasten: баттын 
+tie: баттын 
+tie up: баттын 
+sew: хуийын 
+count: нымайын 
+enumerate: нымайын 
+number: нымайын 
+tally: нымайын 
+sing: зарын 
+have fun: хъазын 
+play: хъазын 
+float: наудзу кæнын 
+flow: кæлын 
+freeze: сæлын 
+swell: дымын 
+brook: цæугæдон 
+river: цæугæдон 
+stream: цæугæдон 
+lake: цад 
+ocean: денджыз 
+sea: денджыз 
+dust: рыг 
+fog: мигъ 
+sky: арв 
+snow: мит 
+ice: их 
+blaze: судзын 
+day: бон 
+daylight: бон 
+daytime: бон 
+old: зæронд 
+bad: æвзæр 
+evil: æвзæр 
+rot: æмбыд 
+rotten: æмбыд 
+dirty: чъизи 
+filthy: чъизи 
+soiled: чъизи 
+straight: раст 
+sharp: цыргъ 
+blunt: къуымых 
+smooth: лæгъз 
+damp: хуылыдз 
+wet: хуылыдз 
+correct: раст 
+right side: раст 
+left: галиу 
+at: цур 
+in: -ы 
+inside: -ы 
+with: -имæ	æд 
+and: æмæ	дæр 
+if: куы 
+because: уымæ	уымæн 

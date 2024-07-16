@@ -1,0 +1,279 @@
+all: utuma 
+arm: yakada 
+ashes: oŋgómo | oŋgómo	ugu ŋgida 
+bark: ebada 
+belly: tina | sinato	tina 
+big: ebo | ebo	ibu	ibume 
+big: ibu | ebo	ibu	ibume 
+bird: bido 
+bite: ŋgamena | hego dana	waya tena	ŋgamena 
+bite: waya tena | hego dana	waya tena	ŋgamena 
+black: dinggi | diŋgi 
+black: diŋgi 
+blood: emo 
+bone: mitoː | mito	mitoː 
+bone: mitoo | mito	mitoː 
+breast: ama 
+cloud: tinu 
+cold: niŋga | hudibi	niŋga 
+come: me- | me-	mena 
+come: mena | me-	mena 
+dark: diŋgi 
+die: bokona 
+dog: kawino | kamino	kawino 
+drink: no | no	nona 
+drink: nona | no	nona 
+dry: kegogo tina | kegogo tina	ŋgo kina 
+ear: ŋgopada | gapada	ŋgopada 
+earth: makai 
+eat: no | no	nona 
+eat: nona | no	nona 
+egg: miti | misi	miti 
+eye: ema 
+fat (n.): bamba 
+feather: hižo | hižo 
+fire: bida 
+fly (v.): kadotaga 
+foot: bado | baboda	bado 
+full: patuka tina 
+give: kaindia | minina	namina	nenina 
+give: kaò | minina	namina	nenina 
+give: mènènè | minina	namina	nenina 
+give: namina | minina	namina	nenina 
+give: nenina | minina	namina	nenina 
+good: bala | bada	bala 
+green: hepa | daupo pada	hepa 
+hair: elo | edo	elo 
+hand: yakada | Zakada	yakada 
+head: moto | moto	moːto 
+head: moːto | moto	moːto 
+heart: digimba 
+hear: žu- | Zuna	žu-	žuna 
+hear: žuna | Zuna	žu-	žuna 
+here: kome 
+I: niː | ni	nime	niː	niːme 
+I: nii | ni	nime	niː	niːme 
+I: niːme | ni	nime	niː	niːme 
+kill: hug- | hug-	huguna	nagina 
+kill: huguna | hug-	huguna	nagina 
+kill: nagina | hug-	huguna	nagina 
+knee: kagu 
+know: ipi 
+leaf: iže | iZe	iyeda	iže 
+leg: bado 
+lip: agoː 
+louse: uka 
+man: me 
+many: iba | iba	obaki 
+meat: oi 
+moon: agoː | ago	agoː 
+mountain: dago 
+mouth: agoː | agoː	ebeto 
+name: ekada 
+neck: minaweda | minaweda	ogoda	oŋgoːto 
+neck: oŋgoːto | minaweda	ogoda	oŋgoːto 
+not: tau 
+one: naː | na	naː 
+one: naa | na	naː 
+person: me 
+rain: hidi 
+road: hi~ndá | hinda 
+root: mani 
+round: mbutugu 
+sand: tadida | iː makai	tadida 
+say: hen- | henena | iː makai	tadida 
+say: henena | iː makai	tadida 
+seed: ižo | ižo 
+see: duna 
+sit: animakana | animakana	anina 
+sit: anina | animakana	anina 
+skin: ebada 
+sleep: unu umina | unu umina	unu umuna 
+small: mbeːto | mbeto	mbeːto 
+smoke: ugi | ugi	undu 
+smoke: undu | ugi	undu 
+stand: žinina | yinegomakana	žinina 
+stone: huma | homa	huma 
+sun: dame | dame	kaba hembato 
+swim: uwo tina 
+tail: ŋgapuda | gapuda	ŋgapuda 
+that: ambe | ambe	kitame | na	naː 
+thou: akai 
+tongue: debegada 
+tooth: hego 
+tree: piya 
+two: ßiyá | wiya	βiyá 
+two: wiya | wiya	βiyá 
+walk: pig- | hinda pigina	pig-	pigina 
+walk: pigina | hinda pigina	pig-	pigina 
+warm: ndani 
+water: uwo 
+we: ini | ini	inime 
+we: inime | ini	inime 
+what: ma | ma	matoː 
+white: pokode 
+who: mi | mi	miː 
+woman: hambi 
+every: utuma 
+ash: oŋgómo	ugu ŋgida 
+abdomen: sinato	tina 
+bigness: ebo	ibu	ibume 
+large: ebo	ibu	ibume 
+breasts: ama 
+come from: me-	mena 
+be dead: bokona 
+dead: bokona 
+ground: makai 
+land: makai 
+soil: makai 
+fish: ikan 
+fly: kadotaga	mbugutena 
+fly v.: kadotaga	mbugutena 
+left hand: Zakada	yakada 
+right: Zakada	yakada 
+1 sg.: ni	nime	niː	niːme 
+be knowledgeable: ipi 
+liver: mame 
+long: waːka 
+head louse: uka 
+male: mbaeyaka	me 
+much: iba	obaki 
+multiple: iba	obaki 
+several: iba	obaki 
+flesh: oi 
+hill: dago 
+title: ekada 
+new: hepe 
+night: tukudeba 
+nighttime: tukudeba 
+nose: Zuma	yumato	žuma 
+adulterous: na	naː 
+single: na	naː 
+the: na	naː 
+unprincipled: na	naː 
+human: me 
+human being: me 
+rainy weather: hidi 
+red: dimo 
+path: hinda 
+route: hinda 
+hide: ebada 
+little: mbeto	mbeːto 
+smallness: mbeto	mbeːto 
+star: ukude 
+rock: homa	huma 
+this: kome 
+2 sg: akai 
+you: akai 
+grind: wiya	βiyá 
+go: hinda pigina	pig-	pigina 
+hot: ndani 
+1 pl. inc.: ini	inime 
+we₁: ini	inime 
+whiteness: pokode 
+who?: mi	miː 
+female: hambi 
+yellow: kena 
+distant: bende 
+far: bende 
+dull: idu 
+heavy: idu 
+serious: idu 
+close: paito 
+near: paito 
+ner: paito 
+salt: diga 
+snake: mbaina 
+thin: petoda 
+wind: pupuku 
+earthworm: toka 
+worm: toka 
+3 pl.: hiki 
+they: hiki 
+few: mbeto 
+three: wido 
+four: wui 
+five: idibi 
+fat: tabade 
+thick: tabade 
+narrow: simi 
+child: yokato 
+principal wife: hambito 
+wife: hambito 
+husband: yaime 
+his mother: niyo 
+mother: niyo 
+my mother: niyo 
+father: nama 
+his father: nama 
+my father: nama 
+forest: piya deba 
+woods: piya deba 
+branch: motoda 
+stick: motoda 
+fruit: poː 
+cord: one 
+rope: one 
+claw: kipoda 
+fingernail: kipoda 
+nail: kipoda 
+wing: keneŋgada 
+back: dokada 
+suck: yuguna 
+spit: ebedi tana 
+vomit: edena 
+blow: puːna 
+breath: heke ma 
+breathe: heke ma 
+cut: bo dana 
+hack: bo dana 
+pierce: naŋguguna 
+stab: naŋguguna 
+scratch: gigina 
+dig: ebena	kabena 
+drop: maka kina 
+fall: maka kina 
+grasp: yakamakana 
+hold: yakamakana 
+hold in arm: yakamakana 
+squeeze: wakabekona 
+wring: wakabekona 
+rub: wudimina 
+wipe: wudimemakana 
+wash: wusigina 
+wash clothes: wusigina 
+push: ndapuguna 
+shove: ndapuguna 
+throw: homa huguna	huguna 
+bind: pinina 
+fasten: pinina 
+tie: pinina 
+tie up: pinina 
+count: gugana 
+enumerate: gugana 
+number: gugana 
+tally: gugana 
+flow: uwo hindina 
+lake: witu 
+dust: heŋgo 
+fog: sinu 
+sky: opoeyada 
+day: dameka 
+daylight: dameka 
+daytime: dameka 
+bad: niŋga 
+evil: niŋga 
+dirty: diŋgi 
+filthy: diŋgi 
+soiled: diŋgi 
+straight: dodo 
+sharp: ŋgal 
+blunt: kundu 
+smooth: digine 
+damp: dibita 
+wet: dibita 
+correct: miyaki 
+right side: henegato 
+left: dokato 
+in: ambiyo 
+inside: ambiyo 

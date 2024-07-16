@@ -1,0 +1,329 @@
+all: nyɛ́	tû 
+every: nyɛ́	tû 
+ash: putulú 
+ashes: putulú 
+bark: lomposo 
+abdomen: libumu 
+belly: libumu 
+big: -nɛ́nɛ	monɛ́nɛ 
+bigness: -nɛ́nɛ	monɛ́nɛ 
+large: -nɛ́nɛ	monɛ́nɛ 
+bird: ndɛkɛ 
+bite: -swâ 
+black: -índo	molílí 
+blood: makila	makilá 
+bone: mikua	moNk~uwa	mokua	monkúwa 
+breast: libele	mabele	nt~olo	ntólo 
+breasts: libele	mabele	nt~olo	ntólo 
+cloud: lipata 
+cold: mpíɔ 
+come: -yáa	-yâ	-úta	uta	ya 
+come from: -yáa	-yâ	-úta	uta	ya 
+be dead: -kúfa	kufa 
+dead: -kúfa	kufa 
+die: -kúfa	kufa 
+dog: bambw$a	mbw$a	mbwá 
+drink: -mɛlɛ	mElE	mela 
+dry: -kauka 
+ear: litoi	litói	matoi 
+earth: mabelé 
+ground: mabelé 
+land: mabelé 
+soil: mabelé 
+eat: -lía 
+egg: likeí	líki 
+eye: liso	líso	miso 
+feather: lonsálá 
+fire: bamoto	moto	mɔ́tɔ 
+fish: bamb~isi	mb~isi	mbísi 
+fly: -pimbwa 
+fly v.: -pimbwa 
+foot: lokolo	mopendé 
+full: etondi	mEke	ma	má	mɛké 
+give: -kaba	-pésa 
+good: kitɔ́kɔ	malámu 
+green: -bésu 
+hair: nsúki 
+hand: likaka	loboko	makaka 
+left hand: likaka	loboko	makaka 
+right: likaka	loboko	makaka 
+head: motó 
+hear: -yóka	yoka 
+heart: motéma 
+horn: boseba	boséba	liseke	liséké	maseke 
+1 sg.: na	na-	ngáí 
+I: na	na-	ngáí 
+kill: -boma 
+knee: liboNg~o	liboloNg~o	libolongo	libɔ́lɔ́ngɔ́	libɔ́ngɔ́	mabolongo 
+be knowledgeable: -yéba 
+know: -yéba 
+leaf: Nk~asa	lokasa	makasa	nkásá 
+liver: libale	mabale 
+long: -laí	-nɛ́nɛ	monɛ́nɛ 
+head louse: basili	lonsili	lons~ili	sili 
+louse: basili	lonsili	lons~ili	sili 
+male: mobáli 
+man: moto 
+many: míngi 
+much: míngi 
+multiple: míngi 
+several: míngi 
+moon: sánzá 
+hill: Ng~omb~a	bangomba	ngomba	ngómbá 
+mountain: Ng~omb~a	bangomba	ngomba	ngómbá 
+mouth: mɔnɔkɔ 
+name: Nk~omb~o	bankombo	nkombo	nkómbó 
+title: Nk~omb~o	bankombo	nkombo	nkómbó 
+neck: nkíngó 
+new: sika	ya sika 
+night: babutu	butu	butú 
+nighttime: babutu	butu	butú 
+nose: banzolo	nz~olo	zolo	zólo 
+not: … tɛ́ 
+adulterous: -ɔ̌kɔ	moko	mɔ̌kɔ	oko 
+one: -ɔ̌kɔ	moko	mɔ̌kɔ	oko 
+single: -ɔ̌kɔ	moko	mɔ̌kɔ	oko 
+that: wâná 
+the: -ɔ̌kɔ	moko	mɔ̌kɔ	oko 
+unprincipled: -ɔ̌kɔ	moko	mɔ̌kɔ	oko 
+human: moto 
+human being: moto 
+person: moto 
+rain: mbúla 
+rainy weather: mbúla 
+red: -táné 
+path: balabala	balabála	banzela	nzela	nz~Ela	nzɛlá 
+road: balabala	balabála	banzela	nzela	nz~Ela	nzɛlá 
+route: balabala	balabála	banzela	nzela	nz~Ela	nzɛlá 
+root: ntína 
+round: kílíkílí 
+sand: zɛ́lɔ 
+say: -loba 
+see: -móna	-mɔ́nɔ	mona	mono 
+seed: bɔpɔ́	mbóto	nyǎ 
+sit: -kisa	-vánda 
+hide: lomposo	lomp~oso	mp~oso 
+skin: lomposo	lomp~oso	mp~oso 
+sleep: -lála 
+little: -kɛ́	mokɛ́ 
+small: -kɛ́	mokɛ́ 
+smallness: -kɛ́	mokɛ́ 
+smoke: mólinga 
+star: monz~oto	monzɔ́tɔ	mw~eti	my~eti 
+rock: libaNg~a	libángá 
+stone: libaNg~a	libángá 
+sun: moi	mói 
+swim: -nyanya	-túnga 
+tail: mokíla	mokɔndɔ́ 
+this: óyo 
+2 sg: o-	yɔ̌ 
+thou: o-	yɔ̌ 
+you: o-	yɔ̌ 
+tongue: lolemu	lolému	malemu 
+tooth: lino	líno	mino 
+tree: banzete	mweté	mw~ete	nzete	nzeté	nz~ete 
+grind: -íbalé	ibale	mibale	míbalé 
+two: -íbalé	ibale	mibale	míbalé 
+go: -támbola 
+walk: -támbola 
+hot: -tɔkɔ 
+warm: -tɔkɔ 
+water: mai	mái 
+1 pl. inc.: bísó	to	to- 
+we: bísó	to	to- 
+we₁: bísó	to	to- 
+what: níni 
+white: mpɛ́mbɛ 
+whiteness: mpɛ́mbɛ 
+who: náni 
+who?: náni 
+female: mwǎsí 
+woman: mwǎsí 
+yellow: -táne 
+distant: mosíká 
+far: mosíká 
+dull: bozitó	kiló	molito 
+heavy: bozitó	kiló	molito 
+serious: bozitó	kiló	molito 
+close: mpɛmbɛ́ni 
+near: mpɛmbɛ́ni 
+ner: mpɛmbɛ́ni 
+salt: mókpa	móngwa 
+short: -kúsé	mokúsé 
+snake: nyóka 
+thin: -kɛ́	mokɛ́ 
+wind: mompɛpɛ 
+earthworm: limpiká	mpambó	mósɔ́pi 
+worm: limpiká	mpambó	mósɔ́pi 
+year: mbúla	mobú 
+3 sg.: a-	e-	yě 
+he: a-	e-	yě 
+she: a-	e-	yě 
+2 pl.: bo-	bínó 
+ye: bo-	bínó 
+you all: bo-	bínó 
+3 pl.: <sup id=cite_ref-0 class=reference>1<	bangó	e-	i-	sup> ba- 
+they: <sup id=cite_ref-0 class=reference>1<	bangó	e-	i-	sup> ba- 
+here: áwa 
+there: kúná	wâná 
+where: wápi 
+where?: wápi 
+when: ntángo 
+when?: ntángo 
+how: bóní 
+how?: bóní 
+some: bɔ̌kɔ́ 
+few: mɔkɛ́mɔkɛ́ 
+other: -súsu	mosúsu 
+three: -ísáto	misato	mísáto 
+four: -ínei	minei	mínei 
+five: -ítánɔ	mitano	mpáta	mítánɔ 
+broad: -laí 
+wide: -laí 
+wideness: -laí 
+fat: mafúta 
+thick: -nɛ́nɛ	monɛ́nɛ 
+narrow: -kɛ́	mokɛ́ 
+child: mwǎna 
+principal wife: bolóngani	mwǎsí 
+wife: bolóngani	mwǎsí 
+husband: bolóngani	mobáli 
+his mother: mamá 
+mother: mamá 
+my mother: mamá 
+father: papá	tatá 
+his father: papá	tatá 
+my father: papá	tatá 
+animal: nyama 
+forest: zámba 
+woods: zámba 
+branch: nzeté 
+stick: nzeté 
+fruit: mbuma 
+flower: fulɛ́lɛ	lómbé 
+grass: litíti 
+cord: likósi	moniɔlɔ́lɔ	nsi nga 
+rope: likósi	moniɔlɔ́lɔ	nsi nga 
+flesh: monsuni 
+meat: monsuni 
+grease: mafúta 
+claw: linzáka 
+fingernail: linzáka 
+nail: linzáka 
+leg: lokolo 
+arm: lobɔ́kɔ 
+wing: lipapú 
+gut: nsɔpɔ́ 
+guts: nsɔpɔ́ 
+insides: nsɔpɔ́ 
+intestine: nsɔpɔ́ 
+intestines: nsɔpɔ́ 
+back: mokɔngɔ 
+suck: -nyúnya	-núnga 
+spit: -bwáka nsɔ́i 
+vomit: -sánza 
+blow: -pémela	-pɛpɛ 
+breath: -péma 
+breathe: -péma 
+laugh: -sɛkɛ 
+laughter: -sɛkɛ 
+cogitate: -bánza	-kanisa 
+reflect: -bánza	-kanisa 
+think: -bánza	-kanisa 
+smell: -núsa 
+sniff: -núsa 
+afraid: -bánga 
+be afraid: -bánga 
+fear: -bánga 
+fright: -bánga 
+alive: -vánda 
+be alive: -vánda 
+life: -vánda 
+live: -vánda 
+living: -vánda 
+fight: -bunda	-bɛ́tɛnɛ 
+hunt: -bengana 
+beat: -bɛ́tɛ 
+hit: -bɛ́tɛ 
+strike: -bɛ́tɛ 
+cut: -káta	-kátakata 
+hack: -káta	-kátakata 
+cut open: -pasola 
+split: -pasola 
+scratch: -kpaka	-kpala	-kóta	-nyaka 
+dig: -tímola 
+lie: -lálisana 
+lie down: -lálisana 
+tell lies: -lálisana 
+stand: -lamuka	-télema 
+turn: -balula 
+turn around: -balula 
+turn round: -balula 
+drop: -kpâ 
+fall: -kpâ 
+grasp: -kamata 
+hold: -kamata 
+hold in arm: -kamata 
+squeeze: -kangisa 
+wring: -kangisa 
+rub: -bísa 
+wipe: -pangwisa 
+wash: -sukola 
+wash clothes: -sukola 
+pull: -bénda 
+push: -tɔ 
+shove: -tɔ 
+throw: -bwáka 
+bind: -kanga	-línga	-zínga 
+fasten: -kanga	-línga	-zínga 
+tie: -kanga	-línga	-zínga 
+tie up: -kanga	-línga	-zínga 
+sew: -sɔnɔ 
+count: -tánga 
+enumerate: -tánga 
+number: -tánga 
+tally: -tánga 
+sing: -yémba 
+have fun: -sakana	-sana 
+play: -sakana	-sana 
+float: -tepa	-tetwa 
+flow: -támbola 
+swell: -vímba 
+brook: ebale	mái 
+river: ebale	mái 
+stream: ebale	mái 
+lake: etíma	nzálé 
+ocean: mbú 
+sea: mbú 
+dust: putulú 
+fog: londendé 
+sky: likoló 
+blaze: -pela	-zíka 
+burn: -pela	-zíka 
+day: mokɔlɔ	mói 
+daylight: mokɔlɔ	mói 
+daytime: mokɔlɔ	mói 
+old: kala 
+bad: mabé 
+evil: mabé 
+rot: -pɔlɔ 
+rotten: -pɔlɔ 
+dirty: -bébisa 
+filthy: -bébisa 
+soiled: -bébisa 
+straight: alimá 
+sharp: -pela 
+blunt: -túnú 
+smooth: patátálú	sɛ́lisɛ́li 
+damp: pɔlɔ 
+wet: pɔlɔ 
+correct: alimá	malongá	sémba	sɛló 
+right side: _a mobáli 
+left: _a mwásí 
+at: na	o 
+in: káti	na	o ntéi 
+inside: káti	na	o ntéi 
+with: na 
+and: mpé 
+if: sɔ́kí	sɔ́kɔ́ 
+because: zambí 

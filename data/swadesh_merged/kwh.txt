@@ -1,0 +1,263 @@
+all: nabúna 
+every: nabúna 
+ash: tuga 
+ashes: tuga 
+abdomen: ambun 
+belly: ambun 
+big: nabéti	ruwuwén 
+bigness: nabéti	ruwuwén 
+large: nabéti	ruwuwén 
+bird: mánuʼ 
+bite: -araʼ	-rofa 
+black: maétan 
+blood: rara 
+bone: rur 
+breast: sus 
+breasts: sus 
+burn: -taláf 
+burn tr.: -taláf 
+cloud: loftaí	lor-tai 
+cold: rídin 
+come: -faʼ	ba7	baʼ	fa7 
+come from: -faʼ	ba7	baʼ	fa7 
+be dead: -máta	mata 
+dead: -máta	mata 
+die: -máta	mata 
+dog: -afúna	afuna 
+drink: -in	in 
+dry: nama-ráwar 
+ear: teriga 
+eat: -ʼa yeta 
+egg: tóron 
+eye: matafut 
+feather: fur 
+fire: laf 
+fish: don 
+fly: -tif 
+fly v.: -tif 
+good: nágéf 
+green: mamáta 
+hair: umum fur 
+hand: nima 
+left hand: nima 
+right: nima 
+head: umun 
+hear: -fanonggar	banonggar	fanoNg~ar 
+1 sg.: la7	laʼ 
+I: la7	laʼ 
+kill: -fun i namáta 
+be knowledgeable: -ruʼ 
+know: -ruʼ 
+leaf: ary~o7	aryóʼ	rowCe	réwe	rówce 
+lie: -ʼenan 
+lie down: -ʼenan 
+liver: uta7	utaʼ 
+long: maráwas 
+head louse: ut 
+louse: ut 
+male: mu[ru]ána 
+man: tia	téma 
+moon: fúran 
+mouth: matafut rom 
+name: nia	nésa 
+title: nia	nésa 
+neck: garan 
+new: fowa	fówa 
+night: momat	mómat 
+nighttime: momat	mómat 
+nose: siai 
+adulterous: isa	isamós	isa|mós 
+one: isa	isamós	isa|mós 
+single: isa	isamós	isa|mós 
+that: ifá 
+the: isa	isamós	isa|mós 
+unprincipled: isa	isamós	isa|mós 
+human: tia	téma 
+human being: tia	téma 
+person: tia	téma 
+rain: óma 
+rainy weather: óma 
+red: wámbar 
+path: raran 
+road: raran 
+route: raran 
+root: rárin 
+sand: éna 
+say: -fiʼfart	-foʼot	boʼot 
+see: -sefa	-ʼit	it	sefa 
+sit: -matóran 
+hide: urit 
+skin: urit 
+sleep: -ʼenan 
+little: net	sififís 
+small: net	sififís 
+smallness: net	sififís 
+smoke: laf buba 
+star: oma-óma	oma7oma	omaoma 
+rock: lagia	lagéra 
+stone: lagia	lagéra 
+swim: -lagur 
+tail: eʼ 
+this: iná 
+2 sg: au 
+thou: au 
+you: au 
+tongue: yera 
+tooth: rifut 
+grind: [ru]wet	ruwet	wet 
+two: [ru]wet	ruwet	wet 
+go: -táng 
+walk: -táng 
+hot: ońggaf 
+warm: ońggaf 
+water: walar	wálar 
+1 pl. inc.: am	ita	íta 
+we: am	ita	íta 
+we₁: am	ita	íta 
+what: lafé 
+white: raʼa-ráʼa 
+whiteness: raʼa-ráʼa 
+who: se 
+who?: se 
+female: mafína 
+woman: mafína 
+yellow: ʼúning 
+distant: sor 
+far: sor 
+dull: uyéman 
+heavy: uyéman 
+serious: uyéman 
+close: nagésa 
+near: nagésa 
+ner: nagésa 
+salt: sira 
+short: tóba	émber 
+snake: arói 
+thin: manífin 
+wind: lor 
+earthworm: waʼarwáʼar 
+worm: waʼarwáʼar 
+year: úa 
+3 pl.: si 
+they: si 
+where: -ning	minaning 
+where?: -ning	minaning 
+when: waníng 
+when?: waníng 
+how: nugu-níng 
+how?: nugu-níng 
+other: ésa 
+three: tor 
+four: fat 
+five: rim 
+broad: garáfar 
+wide: garáfar 
+wideness: garáfar 
+fat: tatífar 
+thick: fatóron 
+narrow: nifiségat 
+principal wife: sóa mafíne 
+wife: sóa mafíne 
+husband: sóa muáne 
+his mother: n|ína	néna 
+mother: n|ína	néna 
+my mother: n|ína	néna 
+father: nyai	yai 
+his father: nyai	yai 
+my father: nyai	yai 
+forest: wes 
+woods: wes 
+branch: sang ai 
+stick: sang ai 
+fruit: afafói 
+flower: búnga 
+grass: maríut 
+cord: wáras 
+rope: wáras 
+flesh: ses 
+meat: ses 
+grease: tatífar 
+wing: furifur 
+gut: fitua waras 
+guts: fitua waras 
+insides: fitua waras 
+intestine: fitua waras 
+intestines: fitua waras 
+back: aʔera rur 
+suck: -fai tobaʼ 
+spit: naʔanis 
+vomit: -arweʼ 
+blow: -útun 
+breath: -saʼa laʼesa 
+breathe: -saʼa laʼesa 
+laugh: -marif 
+laughter: -marif 
+cogitate: -fiʼir 
+reflect: -fiʼir 
+think: -fiʼir 
+smell: -mus	-sagala 
+sniff: -mus	-sagala 
+afraid: -matatuʼ 
+be afraid: -matatuʼ 
+fear: -matatuʼ 
+fright: -matatuʼ 
+alive: rúga 
+be alive: rúga 
+life: rúga 
+live: rúga 
+living: rúga 
+hunt: -bégat 
+beat: -bábaʼ	-fun 
+hit: -bábaʼ	-fun 
+strike: -bábaʼ	-fun 
+cut: -goʼ 
+hack: -goʼ 
+cut open: -fáwas 
+split: -fáwas 
+pierce: -taʼ 
+stab: -taʼ 
+scratch: -áruʼ 
+dig: -ʼáriʼ 
+stand: -marír 
+drop: -dai 
+fall: -dai 
+grasp: -on 
+hold: -on 
+hold in arm: -on 
+squeeze: -óbas 
+wring: -óbas 
+throw: -faré 
+bind: -rébat	-sáut 
+fasten: -rébat	-sáut 
+tie: -rébat	-sáut 
+tie up: -rébat	-sáut 
+sew: -sígat 
+count: -reʼun 
+enumerate: -reʼun 
+number: -reʼun 
+tally: -reʼun 
+flow: -buswér 
+lake: gwángga 
+ocean: mot	rafúʼan rau 
+sea: mot	rafúʼan rau 
+dust: abu|ba 
+fog: afwara	sawana 
+sky: ránggit 
+bad: nogatéi	sumángga 
+evil: nogatéi	sumángga 
+rot: nama-sóat 
+rotten: nama-sóat 
+dirty: ʼotor 
+filthy: ʼotor 
+soiled: ʼotor 
+sharp: mánggan 
+blunt: manggúfar 
+damp: -ʼabótan 
+wet: -ʼabótan 
+right side: tuʼurom 
+left: lagai 
+at: -na 
+in: [-na] útaʼ 
+inside: [-na] útaʼ 
+and: náta	ía 
+if: kálu 

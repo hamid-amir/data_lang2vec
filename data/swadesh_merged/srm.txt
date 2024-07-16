@@ -1,0 +1,346 @@
+all: túu | híi	túu 
+ashes: síndja 
+bark: kákísa 
+belly: baíka (arch.) | bë́ë 
+belly: bêè | bë́ë 
+big: bígi | gaán 
+big: gaán 
+bird: fou | fóu 
+bite: nján 
+black: baáka 
+blood: akóni | %bu	%lasi bu	akoni	akóni	buúu	gadjabiá	nöngö́ 
+blood: buúu | %bu	%lasi bu	akoni	akóni	buúu	gadjabiá	nöngö́ 
+blood: gadjabia | %bu	%lasi bu	akoni	akóni	buúu	gadjabiá	nöngö́ 
+blood: nòngô | %bu	%lasi bu	akoni	akóni	buúu	gadjabiá	nöngö́ 
+blood: sangá | %bu	%lasi bu	akoni	akóni	buúu	gadjabiá	nöngö́ 
+bone: bónu | bonu	bónu 
+breast: bóbi | bobi	bóbi 
+burn: tjumá 
+cloud: líba(hoos) | wö́lúku 
+cloud: wóluku | wö́lúku 
+cold: kôtò | kö́tö 
+come: kó | %ta ko	ko	kó 
+die: dêdè | dede	dë́dë 
+dog: dágu | dagu	dágu 
+drink: bebé | %bebe	bebé 
+drink: diíngi | %bebe	bebé 
+dry: dèê | dëë́ 
+ear: jési | jési	yesi 
+earth: dóti | téla 
+eat: kòmê | nján 
+eat: nján 
+egg: (w)óbo 
+eye: (w)ójo | %woyo	wójo 
+fat (n.): fátu 
+feather: puúma 
+fire: fája | faya	fája 
+fire: vèvê | faya	fája 
+fish: físi | a	fisi	físi 
+fly (v.): buá 
+foot: fútu 
+full: fúu | %ku telu	fu	fúu 
+give: dá 
+good: búnu 
+green: giín ∼ guún | guúun 
+hair: wiwíi ∼ uwíi 
+hand: máu | %maun	máun 
+head: (h)édi | hédi 
+hear: jéi | %haika	%yei	jéi	yei 
+heart: (h)áti | háti 
+horn: tutú | tutu	tutú 
+I: mi 
+kill: kíi 
+knee: kiní | kini	kiní 
+know: sábi (cf. sá \can\) 
+leaf: wiwíi ∼ uwíi | %uwi u pau	uwi	uwíi 
+lie: kándi | lëgëdë 
+liver: lêbèn | lebe	leben	lë́bën 
+long: lánga 
+louse: lósu | losu	lósu 
+louse: piójo | losu	lósu 
+man: (w)ómi | libisemb~e	sembe	sëmbë	wan semb~e 
+many: hí(l)a | hía 
+meat: gbamba | mbéti 
+meat: mbéti 
+moon: liba | líba 
+mountain: kúnunu ∼ kúuun | gan hei kun	kununu	kúnunu 
+mouth: búka 
+name: nê | ne	në́ 
+neck: gangáa 
+new: njú-njú | njúnjun	nyunnyun	ny~uny~un 
+night: ndéti | ndeti	nd~eti	ndéti 
+nose: núsu | nusu	núsu 
+not: ná ∼ á 
+one: wán | wan	wán 
+person: sòmbè ∼ sèmbè | libisemb~e	sembe	sëmbë	wan semb~e 
+rain: tjúba 
+red: bè (cf. guunsi \purple, wine-red\) | bë 
+road: pási | futupasi	pasi	piki pasi 
+root: lútu 
+round: lóntu (logo) | logoo 
+sand: sándu 
+say: fan | táki | sándu 
+seed: síi 
+see: sí | %waty~i	si	sí 
+sit: sindó 
+skin: sinkí(n)i | %kakisa	buba	búba	kákísa 
+sleep: duumí 
+small: pikí | pikí	sumáa 
+smoke: súmúku | sumúku 
+stand: taámpu 
+stand: tán-a-pê | taámpu 
+star: teéa | %teya	teéja 
+stone: sitónu | sitonu	sitónu 
+sun: sónu | sonu	sónu 
+swim: sún 
+tail: lábu 
+that: díde | dí alá	dí dë́ | wan	wán 
+this: dísi | dí akí 
+thou: ju ∼ i | i	unu	yu 
+tongue: tôngò | toNo	tongo	tö́ngö 
+tooth: tánda | %tanda	%tand~a	tánda 
+tree: páu | %pau 
+two: tú | tu	tú 
+walk: wáka 
+warm: kéndi 
+water: wáta | wata	wáta 
+we: u | u	wi 
+white: wéti 
+who: ambê ∼ ámmè | ambë́ 
+woman: mujêè | mujë́ë 
+yellow: donú | kóóko 
+yellow: fòkò | kóóko 
+every: híi	túu 
+ash: síndja 
+abdomen: bë́ë 
+bigness: gaán 
+large: gaán 
+breasts: bobi	bóbi 
+claw: húnjan 
+nail: húnjan 
+talon: húnjan 
+come from: %ta ko	ko	kó 
+be dead: dede	dë́dë 
+dead: dede	dë́dë 
+ground: téla 
+land: téla 
+soil: téla 
+egg: óbo 
+fly: buwá 
+fly v.: buwá 
+hair: uwíi 
+left hand: %maun	máun 
+right: %maun	máun 
+1 sg.: mi 
+be knowledgeable: sábi 
+know: sábi 
+lie down: kándi 
+head louse: losu	lósu 
+male: wómi 
+much: hía 
+multiple: hía 
+several: hía 
+flesh: mbéti 
+hill: gan hei kun	kununu	kúnunu 
+title: ne	në́ 
+nighttime: ndeti	nd~eti	ndéti 
+not: ná 
+adulterous: wan	wán 
+single: wan	wán 
+the: wan	wán 
+unprincipled: wan	wán 
+human: libisemb~e	sembe	sëmbë	wan semb~e 
+human being: libisemb~e	sembe	sëmbë	wan semb~e 
+rainy weather: tjúba 
+path: futupasi	pasi	piki pasi 
+route: futupasi	pasi	piki pasi 
+hide: %kakisa	buba	búba	kákísa 
+little: pikí	sumáa 
+smallness: pikí	sumáa 
+rock: sitonu	sitónu 
+2 sg: i	unu	yu 
+you: i	unu	yu 
+grind: tu	tú 
+go: wáka 
+hot: kéndi 
+1 pl. inc.: u	wi 
+we₁: u	wi 
+what: andí 
+whiteness: wéti 
+who?: ambë́ 
+female: mujë́ë 
+distant: lóngi 
+far: lóngi 
+dull: hébi 
+heavy: hébi 
+serious: hébi 
+close: zúntu 
+near: zúntu 
+ner: zúntu 
+salt: sátu 
+short: sáti 
+snake: sindéki 
+thin: fínu	mángu 
+wind: vë́ntu 
+earthworm: bítju 
+worm: bítju 
+year: jáa 
+3 sg.: a	ë́n 
+he: a	ë́n 
+she: a	ë́n 
+2 pl.: un 
+ye: un 
+you all: un 
+3 pl.: de 
+they: de 
+here: akí 
+there: alá 
+where: na unsë́ 
+where?: na unsë́ 
+when: na únten 
+when?: na únten 
+how: unfá 
+how?: unfá 
+some: wánlö 
+few: wántú 
+other: óto 
+three: dií 
+four: fö́ 
+five: feífi	féífi 
+broad: baái 
+wide: baái 
+wideness: baái 
+fat: fátu 
+thick: dégi 
+narrow: fitjá 
+child: mií 
+principal wife: koósuma 
+wife: koósuma 
+husband: mánu 
+his mother: mamá 
+mother: mamá 
+my mother: mamá 
+father: taatá 
+his father: taatá 
+my father: taatá 
+animal: mbéti 
+forest: mátu 
+woods: mátu 
+branch: máun 
+stick: máun 
+fruit: fuúta 
+flower: foló 
+grass: gaási 
+cord: tatái 
+rope: tatái 
+grease: fátu 
+fingernail: húnjan 
+leg: fútu 
+wing: hánza 
+gut: tiípa 
+guts: tiípa 
+insides: tiípa 
+intestine: tiípa 
+intestines: tiípa 
+back: báka 
+suck: tjupá 
+spit: tuntá 
+vomit: baláki	djukú	gumbitá	pió 
+blow: böö́ 
+breath: hái böö́ 
+breathe: hái böö́ 
+laugh: láfu 
+laughter: láfu 
+cogitate: pakiséi 
+reflect: pakiséi 
+think: pakiséi 
+smell: sumë́ë 
+sniff: sumë́ë 
+afraid: fëë́ë 
+be afraid: fëë́ë 
+fear: fëë́ë 
+fright: fëë́ë 
+alive: vívo 
+be alive: vívo 
+life: vívo 
+live: vívo 
+living: vívo 
+fight: féti 
+hunt: hö́ndi 
+beat: náki 
+hit: náki 
+strike: náki 
+cut: kóti 
+hack: kóti 
+cut open: latjá 
+split: latjá 
+pierce: tjökö́ 
+stab: tjökö́ 
+scratch: kaábu	kaási 
+dig: díki 
+tell lies: lëgëdë 
+turn: biá 
+turn around: biá 
+turn round: biá 
+drop: kaí 
+fall: kaí 
+grasp: hói	panjá 
+hold: hói	panjá 
+hold in arm: hói	panjá 
+squeeze: kwíndji	peetá	zín 
+wring: kwíndji	peetá	zín 
+rub: feegá	lóbi 
+wipe: féki 
+wash: wási 
+wash clothes: wási 
+push: tuúsi	tö́tö 
+shove: tuúsi	tö́tö 
+throw: híti 
+bind: tái 
+fasten: tái 
+tie: tái 
+tie up: tái 
+sew: nái 
+count: kondá 
+enumerate: kondá 
+number: kondá 
+tally: kondá 
+sing: kandá 
+have fun: pëë́ 
+play: pëë́ 
+float: diípi 
+flow: kulé 
+brook: lío 
+river: lío 
+stream: lío 
+lake: zé 
+ocean: zé 
+sea: zé 
+dust: gudugúdu	súndju 
+fog: bundji 
+sky: gaángádu 
+ice: ë́ísi 
+blaze: tjumá 
+day: didía 
+daylight: didía 
+daytime: didía 
+bad: hógi	pói	taku 
+evil: hógi	pói	taku 
+rot: póndi 
+rotten: póndi 
+dirty: nási 
+filthy: nási 
+soiled: nási 
+sharp: saápu 
+smooth: línzo 
+damp: munján 
+wet: munján 
+correct: léti 
+right side: léti 
+left: töö́tö 
+in: déndu 
+inside: déndu 
+with: ku 
+and: ku 
+if: ée 
+because: bíga	fu dí 

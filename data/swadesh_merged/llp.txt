@@ -1,0 +1,267 @@
+all: mamauputi 
+every: mamauputi 
+ash: natano 
+ashes: natano 
+abdomen: nap̃ele 
+belly: nap̃ele 
+big: warua 
+bigness: warua 
+large: warua 
+bird: manu 
+bite: kati 
+black: loa 
+blood: da	nadā 
+bone: batu	navatu 
+breast: susu 
+breasts: susu 
+burn: aso 
+burn tr.: aso 
+cloud: napopouru 
+cold: malati 
+come: umai	u|mai 
+come from: umai	u|mai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: koria 
+drink: munu	m|unu 
+dry: garagara 
+ear: daliNa	nataliga 
+eat: ganikani 
+egg: atolu 
+eye: mata	namata 
+feather: nam̃au 
+fire: kapu	nakapu 
+fish: ika	naika 
+fly: tiri 
+fly v.: tiri 
+good: wia 
+green: mamalakesa 
+hair: nalolu 
+hand: aru	nam̃elearu 
+left hand: aru	nam̃elearu 
+right: aru	nam̃elearu 
+head: nap̃au 
+hear: doNo	togo 
+1 sg.: a	kinau	ki|nau 
+I: a	kinau	ki|nau 
+kill: mari|punu|e 
+knee: pw~atua 
+be knowledgeable: atae 
+know: atae 
+leaf: naulu	ulu 
+lie: one 
+lie down: one 
+liver: danikapu	natanikapu 
+long: parau 
+head louse: kutu 
+louse: kutu 
+male: naanoai 
+man: naatam̄oli	natamw~oli 
+moon: atelagi 
+hill: taba 
+mountain: taba 
+mouth: nawoka 
+name: Nisa	nagisa 
+title: Nisa	nagisa 
+neck: nanoa 
+new: bau	vāu 
+night: pw~oNi	p̃ogi 
+nighttime: pw~oNi	p̃ogi 
+nose: Nusu	nagusu 
+adulterous: sikai 
+one: sikai 
+single: sikai 
+that: wa|ina 
+the: sikai 
+unprincipled: sikai 
+human: naatam̄oli	natamw~oli 
+human being: naatam̄oli	natamw~oli 
+person: naatam̄oli	natamw~oli 
+rain: usa 
+rainy weather: usa 
+red: miala 
+path: napua	pua 
+road: napua	pua 
+route: napua	pua 
+root: nakoa 
+sand: naworauni 
+say: noa 
+see: punusi 
+sit: tāsake 
+hide: nawili	wili 
+skin: nawili	wili 
+sleep: maturu 
+little: kiki 
+small: kiki 
+smallness: kiki 
+smoke: nasua 
+star: mw~asoe	m̃asoe 
+rock: batu	vātu 
+stone: batu	vātu 
+sun: elo 
+swim: loloso 
+tail: napue 
+this: wa|ia 
+2 sg: ku	niNo	nīgo 
+thou: ku	niNo	nīgo 
+you: ku	niNo	nīgo 
+tongue: mena	namena 
+tooth: napati	pati 
+tree: kau 
+grind: dua	ndua 
+two: dua	ndua 
+go: surata 
+walk: surata 
+hot: pivitinu 
+warm: pivitinu 
+water: noai 
+1 pl. inc.: [t]aro	[t]au	kinami	niNida	nigita	toro	tu 
+we: [t]aro	[t]au	kinami	niNida	nigita	toro	tu 
+we₁: [t]aro	[t]au	kinami	niNida	nigita	toro	tu 
+what: nasava 
+white: tare 
+whiteness: tare 
+who: sei 
+who?: sei 
+female: nagoroi 
+woman: nagoroi 
+yellow: m̃iloloa	m̃onom̃ono 
+distant: ufea 
+far: ufea 
+dull: mataga 
+heavy: mataga 
+serious: mataga 
+close: malatigi 
+near: malatigi 
+ner: malatigi 
+salt: natasimena 
+short: puru 
+snake: m̃ata 
+thin: manivenive 
+wind: nal|agi 
+earthworm: ula 
+worm: ula 
+year: natau 
+2 pl.: koro	ku	nimu 
+ye: koro	ku	nimu 
+you all: koro	ku	nimu 
+3 pl.: [t]ero	[t]eu	[t]ou	nara 
+they: [t]ero	[t]eu	[t]ou	nara 
+where: esava	wai 
+where?: esava	wai 
+how: dapala nasava 
+how?: dapala nasava 
+other: pota 
+three: ndolu	tolu 
+four: pati 
+five: lima 
+broad: p̃elewelea 
+wide: p̃elewelea 
+wideness: p̃elewelea 
+fat: natavarevare 
+thick: matolu 
+narrow: napalasa 
+principal wife: anagoroi 
+wife: anagoroi 
+husband: anawota 
+his mother: p̃ila 
+mother: p̃ila 
+my mother: p̃ila 
+father: tama 
+his father: tama 
+my father: tama 
+forest: namalasi 
+woods: namalasi 
+fruit: nawā 
+flower: napum̃a 
+grass: nam̃enau 
+cord: natali 
+rope: natali 
+flesh: nap̃okasi 
+meat: nap̃okasi 
+grease: natavarevare 
+wing: nalivaru 
+gut: namarita 
+guts: namarita 
+insides: namarita 
+intestine: namarita 
+intestines: namarita 
+back: nataku 
+suck: susu 
+spit: puvurai	taniu 
+vomit: lua 
+blow: sau	sui 
+breath: maromaro 
+breathe: maromaro 
+laugh: muru 
+laughter: muru 
+cogitate: midoki 
+reflect: midoki 
+think: midoki 
+smell: dam̃o	nap̃o 
+sniff: dam̃o	nap̃o 
+afraid: mataku 
+be afraid: mataku 
+fear: mataku 
+fright: mataku 
+alive: mauri 
+be alive: mauri 
+life: mauri 
+live: mauri 
+living: mauri 
+hunt: palako 
+beat: tip̃a 
+hit: tip̃a 
+strike: tip̃a 
+cut: tai 
+hack: tai 
+cut open: mari|p̃ora|i 
+split: mari|p̃ora|i 
+pierce: puri 
+stab: puri 
+scratch: karuti 
+dig: kili 
+stand: lawodu 
+drop: towo 
+fall: towo 
+grasp: puasoki	tapesoki 
+hold: puasoki	tapesoki 
+hold in arm: puasoki	tapesoki 
+squeeze: molitawonaki	m̃im̃isoki 
+wring: molitawonaki	m̃im̃isoki 
+throw: nadi 
+bind: likoti	solisoki 
+fasten: likoti	solisoki 
+tie: likoti	solisoki 
+tie up: likoti	solisoki 
+sew: tuturi 
+count: peve 
+enumerate: peve 
+number: peve 
+tally: peve 
+flow: sara 
+lake: nama|rourou 
+ocean: natasi 
+sea: natasi 
+dust: nam̃otam̃ota 
+fog: namavu 
+sky: elagi	namalopa 
+bad: sā 
+evil: sā 
+rot: matata 
+rotten: matata 
+dirty: loa 
+filthy: loa 
+soiled: loa 
+sharp: makali 
+blunt: p̃olu 
+damp: memeu 
+wet: memeu 
+right side: matua 
+left: mawiri 
+at: e	toko 
+in: e kopu 
+inside: e kopu 
+and: go 
+if: pe 

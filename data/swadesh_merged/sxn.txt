@@ -1,0 +1,273 @@
+all: kĕbiʔ	kɨbiq 
+every: kĕbiʔ	kɨbiq 
+ash: awu	aβu 
+ashes: awu	aβu 
+abdomen: tiang	tiaŋ 
+belly: tiang	tiaŋ 
+big: guwaʔ	guβaq 
+bigness: guwaʔ	guβaq 
+large: guwaʔ	guβaq 
+bird: manuq	manuʔ 
+bite: kiki 
+black: ma-ituŋ	maitung 
+blood: daha	mal3nsa 
+bone: duhi 
+breast: doko	susu 
+breasts: doko	susu 
+burn: tutung	tutuŋ 
+burn tr.: tutung	tutuŋ 
+cloud: binawa	binaβa 
+cold: dalĕndiŋ	daḷɨnding 
+come: mahi 
+come from: mahi 
+be dead: mate	nate	pate 
+dead: mate	nate	pate 
+die: mate	nate	pate 
+dog: asu	kapuna7 
+drink: inuN	inung	inuŋ 
+dry: bati	ma-haŋu	mamara 
+ear: tuli	tuḷi 
+eat: k-um-aeŋ	kumaɨng 
+egg: tĕlluhĕʔ	tɨluhɨq 
+eye: mata 
+feather: bĕmbulu	bɨmbuḷu 
+fire: putuN	putung	putuŋ 
+fish: kina7	kinaq	kinaʔ 
+fly: tĕlaʔ	tɨlaq 
+fly v.: tĕlaʔ	tɨlaq 
+full: mapene7 
+good: ma-pia	mapia 
+green: biruq	ido 
+hair: utaq	utaʔ 
+hand: lima	takiah37	takiahɨq 
+left hand: lima	takiah37	takiahɨq 
+right: lima	takiah37	takiahɨq 
+head: tĕmboʔ	tɨmboq 
+hear: diNih37	dingihɨq	diŋiheʔ 
+horn: suNe 
+1 sg.: i aʔ	ia7 
+I: i aʔ	ia7 
+kill: pate 
+knee: buku 
+be knowledgeable: singkaq	siŋkaʔ 
+know: singkaq	siŋkaʔ 
+leaf: dauN	daung	dauŋ 
+lie: dĕmmaʔ 
+lie down: dĕmmaʔ 
+liver: ate 
+long: nandu 
+head louse: kutu	kutu7	kutuq 
+louse: kutu	kutu7	kutuq 
+male: eseq	eseʔ 
+man: tau	tau[mata]	taumata	taumataʌ 
+moon: bulaŋ	buḷang 
+hill: bukid37	bulude 
+mountain: bukid37	bulude 
+mouth: mohong	mohoŋ 
+name: areN	areng	areŋ 
+title: areN	areng	areŋ 
+neck: leheq	leheʔ 
+new: buhu 
+night: basa	h3bi 
+nighttime: basa	h3bi 
+nose: iruN	irung	iruŋ 
+adulterous: 3sa	ode	s3mbau7	səmbaw	sɨmbauq 
+one: 3sa	ode	s3mbau7	səmbaw	sɨmbauq 
+single: 3sa	ode	s3mbau7	səmbaw	sɨmbauq 
+that: ene 
+the: 3sa	ode	s3mbau7	səmbaw	sɨmbauq 
+unprincipled: 3sa	ode	s3mbau7	səmbaw	sɨmbauq 
+human: tau	tau[mata]	taumata	taumataʌ 
+human being: tau	tau[mata]	taumata	taumataʌ 
+person: tau	tau[mata]	taumata	taumataʌ 
+rain: tahiti 
+rainy weather: tahiti 
+red: ma-hamuʔ	mahamuq 
+path: daleN	daleŋ 
+road: daleN	daleŋ 
+route: daleN	daleŋ 
+root: hamuq	hamuʔ 
+sand: ĕne	ɨne 
+say: kuĕŋ	mɨqbera 
+see: silo 
+sit: maiang	maiaŋ 
+hide: pisi 
+skin: pisi 
+sleep: tikiq	tikiʔ 
+little: kadodoq	kadodoʔ 
+small: kadodoq	kadodoʔ 
+smallness: kadodoq	kadodoʔ 
+smoke: tipu 
+star: bituiN	bituin	bituing 
+rock: batu 
+stone: batu 
+sun: 3lo 
+swim: kalang	kalaŋ 
+tail: tole	toḷe 
+this: ini	iniq 
+2 sg: i kau	kau 
+thou: i kau	kau 
+you: i kau	kau 
+tongue: dila	lila 
+tooth: isi 
+tree: kalu 
+grind: darua	dar̃ua	dua 
+two: darua	dar̃ua	dua 
+go: d-um-aley	dumaḷeng 
+walk: d-um-aley	dumaḷeng 
+hot: titiq	tĕtiʔ 
+warm: titiq	tĕtiʔ 
+water: ake7	akeq	akeʔ 
+1 pl. inc.: i kami	i kite7	i kiteʔ	kite7 
+we: i kami	i kite7	i kiteʔ	kite7 
+we₁: i kami	i kite7	i kiteʔ	kite7 
+what: apa 
+white: ma-wira	maβira 
+whiteness: ma-wira	maβira 
+who: i sai 
+who?: i sai 
+female: bawine	baβine 
+woman: bawine	baβine 
+yellow: ma-ririhĕʔ	maririhɨq 
+distant: ma-rau	marau 
+far: ma-rau	marau 
+dull: behaʔ	maβɨhaq 
+heavy: behaʔ	maβɨhaq 
+serious: behaʔ	maβɨhaq 
+close: sandigĕʔ	sandigɨq 
+near: sandigĕʔ	sandigɨq 
+ner: sandigĕʔ	sandigɨq 
+salt: asing	asiŋ 
+short: ma-nibuʔ	manibuq	masanaq 
+snake: tĕmpu	tɨmpu 
+thin: manipiq	manipiʔ 
+wind: anging	aŋiŋ 
+earthworm: tĕmpu	tɨmpu (βinangunang) 
+worm: tĕmpu	tɨmpu (βinangunang) 
+year: taung	tauŋ 
+2 pl.: i kamene 
+ye: i kamene 
+you all: i kamene 
+3 pl.: i sire 
+they: i sire 
+where: su apa 
+where?: su apa 
+when: kangereq	kaŋereʔ 
+when?: kangereq	kaŋereʔ 
+how: kere	pira 
+how?: kere	pira 
+other: baline	baḷine 
+three: tatəlu	tatɨlu	tĕllu 
+four: epaʔ	əpaʔ	ɨpaq 
+five: lima 
+broad: ma-lamba	ma-loaŋ	maḷoang 
+wide: ma-lamba	ma-loaŋ	maḷoang 
+wideness: ma-lamba	ma-loaŋ	maḷoang 
+fat: lana 
+thick: ma-suenehĕʔ	masuenehɨq 
+narrow: hepoq	hepoʔ 
+principal wife: kawiŋ	kaβing 
+wife: kawiŋ	kaβing 
+husband: kawiŋ	kaβing 
+his mother: inang	inaŋ 
+mother: inang	inaŋ 
+my mother: inang	inaŋ 
+father: amang	amaŋ 
+his father: amang	amaŋ 
+my father: amang	amaŋ 
+forest: andeaŋ	kɨhu 
+woods: andeaŋ	kɨhu 
+branch: lelaŋ 
+stick: lelaŋ 
+fruit: bua 
+flower: bungang	buŋaŋ 
+grass: dukuʔ	kɬhoq 
+cord: tali	uḷang 
+rope: tali	uḷang 
+flesh: g|ĕsi	gɣsiq 
+meat: g|ĕsi	gɣsiq 
+grease: lana 
+wing: panidĕʔ	pɨmpanedɨq 
+gut: tinai 
+guts: tinai 
+insides: tinai 
+intestine: tinai 
+intestines: tinai 
+back: likudĕʔ	lɨkudɨq 
+suck: sĕsuʔ	sɨsuq 
+spit: maŋ-ĕdu	ɨdu 
+vomit: m-uta	muta 
+blow: tiuq	tiuʔ 
+breath: sindaʔ	suminda 
+breathe: sindaʔ	suminda 
+laugh: lĕge	lɨge 
+laughter: lĕge	lɨge 
+cogitate: maŋ-ĕnna	tinɤna 
+reflect: maŋ-ĕnna	tinɤna 
+think: maŋ-ĕnna	tinɤna 
+smell: imbu 
+sniff: imbu 
+afraid: takuq	takuʔ 
+be afraid: takuq	takuʔ 
+fear: takuq	takuʔ 
+fright: takuq	takuʔ 
+alive: biahĕʔ 
+be alive: biahĕʔ 
+life: biahĕʔ 
+live: biahĕʔ 
+living: biahĕʔ 
+hunt: mĕŋanuʔ	mɨnganuq 
+beat: pakahinoq	tutu 
+hit: pakahinoq	tutu 
+strike: pakahinoq	tutu 
+cut: aidɨq	ma-nariʔ 
+hack: aidɨq	ma-nariʔ 
+cut open: hĕŋeʔ 
+split: hĕŋeʔ 
+pierce: leang	susuʔ 
+stab: leang	susuʔ 
+scratch: kaho	katiq 
+dig: bangka	baŋka 
+stand: darisiq	darisiʔ	tigohĕʔ 
+drop: ma-nawo	tɨnaq 
+fall: ma-nawo	tɨnaq 
+grasp: meŋumbeleʔ	mɨngumbeleq 
+hold: meŋumbeleʔ	mɨngumbeleq 
+hold in arm: meŋumbeleʔ	mɨngumbeleq 
+squeeze: pĕha	pɨha 
+wring: pĕha	pɨha 
+throw: paloʔ	paḷoq 
+bind: ikiq	ikiʔ 
+fasten: ikiq	ikiʔ 
+tie: ikiq	ikiʔ 
+tie up: ikiq	ikiʔ 
+sew: gepeq	gepeʔ 
+count: dekeng	mĕ-tiaʔ 
+enumerate: dekeng	mĕ-tiaʔ 
+number: dekeng	mĕ-tiaʔ 
+tally: dekeng	mĕ-tiaʔ 
+flow: elehĕʔ	sɬgaq 
+lake: dano 
+ocean: sasiq	sasiʔ 
+sea: sasiq	sasiʔ 
+dust: awulĕʔ	aβuḷɨq 
+fog: buhawudĕʔ 
+sky: langiq	laŋiʔ 
+bad: dalakiʔ	daḷakiq 
+evil: dalakiʔ	daḷakiq 
+rot: heneq	heneʔ 
+rotten: heneq	heneʔ 
+dirty: kotorɨq	ma-labusanaŋ 
+filthy: kotorɨq	ma-labusanaŋ 
+soiled: kotorɨq	ma-labusanaŋ 
+sharp: maroro 
+blunt: malumu	maḷumu 
+damp: ma-nantaʔ	manantaq 
+wet: ma-nantaʔ	manantaq 
+right side: koaneng	koaneŋ 
+left: kaihi 
+at: su 
+in: daluŋ 
+inside: daluŋ 
+and: diŋaŋ 
+if: maqeng	maʔeŋ 

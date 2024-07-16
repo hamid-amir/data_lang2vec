@@ -1,0 +1,332 @@
+all: tout 
+every: tout 
+ash: sann 
+ashes: sann 
+bark: lapo piébwa 
+abdomen: bouden 
+belly: bouden 
+big: gran 
+bigness: gran 
+large: gran 
+bird: zwézo 
+bite: mod 
+black: nwè 
+blood: san 
+bone: zo 
+breast: fal	tete	tété 
+breasts: fal	tete	tété 
+cloud: niyaj 
+cold: fwèt 
+come: rivé	vini 
+come from: rivé	vini 
+be dead: mo	mò 
+dead: mo	mò 
+die: mo	mò 
+dog: Sien	chyen 
+drink: bw~e	bwè 
+dry: sek 
+ear: zorèy	zozey 
+earth: latè 
+ground: latè 
+land: latè 
+soil: latè 
+eat: manjé 
+egg: zé 
+eye: zié	zye 
+feather: plim 
+fire: dife	difé 
+fish: pwason	pw~ason 
+fly: volé 
+fly v.: volé 
+foot: pié 
+full: plen 
+give: ba 
+good: bon 
+green: vè 
+hair: chivé 
+hand: men 
+left hand: men 
+right: men 
+head: tet 
+hear: tand~e	tann 
+heart: tjè 
+horn: kon	konn 
+1 sg.: man	mwen	mw~en 
+I: man	mwen	mw~en 
+kill: tjwé 
+knee: Zunu	jounou 
+be knowledgeable: sav 
+know: sav 
+leaf: fey 
+liver: fwa 
+long: long 
+head louse: pou	pu 
+louse: pou	pu 
+male: nonm 
+man: moun	mun 
+many: anchay	anlo	anpil 
+much: anchay	anlo	anpil 
+multiple: anchay	anlo	anpil 
+several: anchay	anlo	anpil 
+moon: lalin 
+hill: monn	montay	mont~aNn 
+mountain: monn	montay	mont~aNn 
+mouth: djol 
+name: non 
+title: non 
+neck: kou 
+new: dènié	nef 
+night: lannuit 
+nighttime: lannuit 
+nose: ne	nen 
+not: pa 
+adulterous: an	jõn	on	yonn 
+one: an	jõn	on	yonn 
+single: an	jõn	on	yonn 
+that: sa 
+the: an	jõn	on	yonn 
+unprincipled: an	jõn	on	yonn 
+human: moun	mun 
+human being: moun	mun 
+person: moun	mun 
+rain: lapli 
+rainy weather: lapli 
+red: wouj 
+path: Simen	chimen 
+road: Simen	chimen 
+route: Simen	chimen 
+root: rasin 
+round: won 
+sand: sab 
+say: di 
+see: vwe	wè 
+seed: grenn 
+sit: sizé 
+hide: lapo	po 
+skin: lapo	po 
+sleep: dòmi 
+little: piti	ti 
+small: piti	ti 
+smallness: piti	ti 
+smoke: lafimen 
+star: zetwal	zétwel 
+rock: roX	roch 
+stone: roX	roch 
+sun: soley 
+swim: najé 
+tail: latjé 
+this: si 
+2 sg: ou 
+thou: ou 
+you: ou 
+tongue: laN	lang 
+tooth: dan 
+tree: piébwa	py~ebw~a 
+grind: de	dé 
+two: de	dé 
+go: maché 
+walk: maché 
+hot: cho 
+warm: cho 
+water: dlo 
+1 pl. inc.: nou	nu 
+we: nou	nu 
+we₁: nou	nu 
+what: kisa 
+white: blan 
+whiteness: blan 
+who: ki	ki moun 
+who?: ki	ki moun 
+female: fanm 
+woman: fanm 
+yellow: jonn 
+distant: lwen 
+far: lwen 
+dull: lou 
+heavy: lou 
+serious: lou 
+close: bò	pabò	toupré 
+near: bò	pabò	toupré 
+ner: bò	pabò	toupré 
+salt: sel 
+short: pa long	toupiti 
+snake: bet-long	sèpan 
+thin: fen	piti 
+wind: van 
+earthworm: vè 
+worm: vè 
+year: lanné 
+3 sg.: i	li 
+he: i	li 
+she: i	li 
+2 pl.: zot 
+ye: zot 
+you all: zot 
+3 pl.: yo 
+they: yo 
+here: isi 
+there: la 
+where: ki koté	oti 
+where?: ki koté	oti 
+when: ki lè	lè 
+when?: ki lè	lè 
+how: ki mannyè	kouman 
+how?: ki mannyè	kouman 
+some: yonndé 
+few: tibwen 
+other: lot 
+three: twa 
+four: kat 
+five: sen	senk	sẽk 
+broad: laj 
+wide: laj 
+wideness: laj 
+fat: gra 
+thick: épé 
+narrow: étwet 
+child: ti mamay 
+principal wife: fanm	madanm 
+wife: fanm	madanm 
+husband: mawi 
+his mother: manman 
+mother: manman 
+my mother: manman 
+father: papa 
+his father: papa 
+my father: papa 
+animal: bet 
+forest: fonbwa	granbwa 
+woods: fonbwa	granbwa 
+branch: baton 
+stick: baton 
+fruit: fwi 
+flower: flè 
+grass: zeb 
+cord: kod 
+rope: kod 
+flesh: viann 
+meat: viann 
+grease: gra 
+claw: zong 
+fingernail: zong 
+nail: zong 
+leg: janm 
+arm: lanmen 
+wing: zel 
+gut: zantray 
+guts: zantray 
+insides: zantray 
+intestine: zantray 
+intestines: zantray 
+back: do 
+suck: sisé 
+spit: kraché 
+vomit: vonmi 
+blow: souflé 
+breath: respiré 
+breathe: respiré 
+laugh: ri 
+laughter: ri 
+cogitate: sonjé 
+reflect: sonjé 
+think: sonjé 
+smell: pran lodè 
+sniff: pran lodè 
+afraid: pè 
+be afraid: pè 
+fear: pè 
+fright: pè 
+alive: viv 
+be alive: viv 
+life: viv 
+live: viv 
+living: viv 
+fight: goumen 
+hunt: chasé 
+beat: ba kou	ba tjok 
+hit: ba kou	ba tjok 
+strike: ba kou	ba tjok 
+cut: koupé 
+hack: koupé 
+cut open: fann 
+split: fann 
+pierce: pèsé 
+stab: pèsé 
+scratch: grafiyen	tjiré 
+dig: fouyé 
+lie: lonjé 
+lie down: lonjé 
+tell lies: lonjé 
+stand: doubout	lévé 
+turn: tounen 
+turn around: tounen 
+turn round: tounen 
+drop: tonbé 
+fall: tonbé 
+grasp: tjenbé 
+hold: tjenbé 
+hold in arm: tjenbé 
+squeeze: séré 
+wring: séré 
+rub: fwoté 
+wipe: suiyé 
+wash: lavé 
+wash clothes: lavé 
+pull: ralé 
+push: bouré 
+shove: bouré 
+throw: ladjé atè 
+bind: lianné 
+fasten: lianné 
+tie: lianné 
+tie up: lianné 
+sew: koud 
+count: konté 
+enumerate: konté 
+number: konté 
+tally: konté 
+sing: bay lavwa 
+have fun: jwé 
+play: jwé 
+float: floté 
+flow: koulé 
+freeze: glasé 
+swell: anflé 
+brook: lariviè 
+river: lariviè 
+stream: lariviè 
+lake: lak 
+ocean: lanmè 
+sea: lanmè 
+dust: pousiè	rakli 
+fog: bwouya 
+sky: siel 
+snow: laglas 
+ice: glas 
+blaze: brilé 
+burn: brilé 
+day: jou	lajounen 
+daylight: jou	lajounen 
+daytime: jou	lajounen 
+old: bon laj	vié 
+bad: mové 
+evil: mové 
+rot: pouri 
+rotten: pouri 
+dirty: sal 
+filthy: sal 
+soiled: sal 
+straight: dwet 
+sharp: filé 
+smooth: lis 
+damp: mouyé	plen dlo 
+wet: mouyé	plen dlo 
+correct: korek	vré 
+right side: dwet 
+left: goch 
+in: adan	an 
+inside: adan	an 
+with: épi 
+and: èk	é	épi 
+if: si 
+because: davré	padavré 

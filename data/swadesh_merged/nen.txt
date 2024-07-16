@@ -1,0 +1,305 @@
+all: nodei | ilekoden	ileoden 
+and: ka | ka	ne 
+animal: guaŋod 
+ashes: čekol | cekol 
+back: čō | co	durejo	thoŋa 
+bad: nia 
+bark: nenun 
+because: weno 
+belly: ete | e|te 
+bird: iaded | iaded	waia 
+bite: kuze | kukuc 
+black: ḍiḍi | dridri 
+blood: ḍa | dra	dran|n	dr~a	dr~an 
+blow: uti | hnan	uti 
+bone: dun 
+breast: mimi 
+breathe: n̥on̥o | nono 
+burn: θenon | denan[on] 
+child: morowe 
+cloud: yeʔawe | awè 
+cold: čeon | ce|on 
+come: pina | huebut	huete	pina 
+correct:  seseko 
+count: ieie | cinumera	ietican 
+cut: θa | ciecie 
+die: net | taNo	taŋo 
+dig: kin(i) | cere 
+dirty: eon | eon	rawa 
+dog: pailai 
+drink: kua 
+dry: papa | papaseg|on 
+dull: čabaŋ | ianuro | cabaŋ 
+dust: aerawa 
+earth: ḍo 
+ear: wabaiwa 
+eye: waegogo 
+fall:  -kapusi | ded[e] 
+far: iθua | heyo	thuaiai 
+father: čečen | cecen 
+fat (n.): dirič 
+fear: pareu | megigi 
+few: wakaredo 
+fingernail: newanin 
+fire: yabi | iei 
+fish: waʔie | wa7iE	waʔiè 
+five: sedoŋ | sedong 
+float: manid 
+flower: aŋasereie | eŋen 
+flow: la | cithail 
+fly (v.): dede 
+fog: kalekal 
+foot: wata 
+forest: wočeḍan | wocedran 
+four: eče | ece 
+fruit: aŋaore | wa|wen 
+full: punič 
+give: kano(n) 
+good: roi 
+grass: gewoč | erebu	taye 
+green: mečiwe | meciwe 
+guts: čereθan | cerethan 
+hair: direhawo | din 
+hand: nin | aranin	nin	wanin 
+head: hawo 
+hear: taeḍeŋi | dredreŋ	dr~edr~eN	taedrengi	taedr~eNi 
+heart: n̥or 
+heavy: nure | ianuro 
+he: bon 
+hit: čaʔataŋoni | riridi 
+horn: tutun 
+how: koiwan(e) | koiwan[e]	korion 
+husband: čam̥anien | cahmanien	theden 
+if: ma | ma	ŋei 
+I: inu 
+in: ri | hulo 
+kill: ataŋoni | penet 
+knee:  kared(i) 
+know: ule | carajewe	thuni	ule 
+lake: gučele | gu|cele 
+large: m̥a | hma	keben 
+laugh: n̥uma | numa 
+leaf: runen | dro	dr~o	runeaC	runeac 
+left: ŋoroṇi | amagnoroni	ŋorohni 
+leg: tan 
+lie: θaeti | guni 
+liver: guat | at	gu|at 
+live: roi 
+long: iweiai 
+louse: ote 
+man: ŋom(e) | Nom	Nome	ŋom[e] 
+many: ačala 
+meat: guia 
+moon: čekol | cekol 
+mother: m̥aien | hmani	nene 
+mountain: weč 
+mouth: yepeh | tubenengoc	yepeh 
+name: yelen | yel	yele 
+narrow: waʔami re zaŋan | nic[e] 
+near: m̥ūla | acen	hmūla 
+neck: gureθo | guretho 
+new: kabe 
+night: riḍi | ridr~i	ridrì 
+nose: gupied | gupied	pied 
+old: gumom̥a 
+one: sa 
+person: ŋom(e) | Nom	Nome	ŋom[e] 
+play: eleda 
+pull: uši 
+push: puze 
+rain: dua | el[e] 
+red: ḍičaḍiča | bene	dricadrica 
+right: nata | aranin	nin	wanin | amanata	nata 
+river: karačele 
+road: len | gu|relan	lene	relan 
+root: weresereie | wer|esereiè 
+rope: n̥awose | wa|cen 
+rotten: momoč | momoceʔil 
+round: waela 
+rub: tʰiri 
+salt: alase | alasè 
+sand: gunin 
+say: ie | gunin 
+sea: čele | cele 
+seed: čačawin 
+sew: yese | yethi	yeyethi 
+sharp: neičie(n) | neicie[n] 
+short: gukokod 
+sing: eran 
+sit: meneŋ | memeŋ	meneng 
+skin: nenun 
+sky: awe | awè 
+sleep: θaeti | nidreti	thaetì 
+small: waʔami 
+smell: bo(n) | siŋod 
+smoke: kali | ci|kal 
+smooth: kuarori 
+snake: une | unè 
+some: kosoten 
+spit: kadeu | kadeu[on] 
+split: kedi | ceges 
+stand: ser(e) | ser[e] 
+star: waǰekol | jekol 
+stick: guto | adraʔac 
+straight: netiti 
+suck: kuamimì | kua|mimi	kumon 
+sun: du 
+tail: wabun | toen 
+they: buič | buic 
+thin: ami | nerere 
+think: nanoa | tutuo[n] 
+thou: bo 
+thou: bun̥iǰ | bo 
+three: ten | tini 
+throw: čedon | cedon 
+tie: wose | thurul 
+tongue: čadaneŋoč | gu|tinen	tinen 
+tooth: yege 
+tree: sereie 
+turn: auleleni 
+two: rewe | rewE	rewe	rewè 
+vomit: niǰa | nija 
+warm: pho | ceun	po 
+wet: čaibi | caibì 
+what: ŋe 
+when: oḍael | hodrael	odrael 
+which: ŋeŋo 
+white: gada 
+who: la 
+why: se ŋe 
+wide: m̥arezaŋan | hma|rezaŋan 
+wife: m̥enuen | hmenuen	theden 
+wind: n̥ayeŋo | yeŋò 
+wing: kataʔad | waburuburun 
+woman: m̥enew(e) | hmenew[e] 
+worm: enid | meketeroè 
+wrong: giḍo 
+year: wakoko | kenereken 
+yellow: wineḍe | bene 
+every: ilekoden	ileoden 
+ash: cekol 
+abdomen: e|te 
+big: hma	keben 
+bigness: hma	keben 
+breasts: mimi 
+burn tr.: denan[on] 
+come from: huebut	huete	pina 
+be dead: taNo	taŋo 
+dead: taNo	taŋo 
+eat: iwa	kaka	kodraru	kān 
+egg: watitew	watitewe 
+feather: din 
+fly: ded	naejo	ruel 
+fly v.: ded	naejo	ruel 
+left hand: aranin	nin	wanin 
+1 sg.: inu 
+be knowledgeable: carajewe	thuni	ule 
+lie down: guni 
+head louse: ote 
+male: cahan 
+title: yel	yele 
+nighttime: ridr~i	ridrì 
+adulterous: sa 
+single: sa 
+that: komelei 
+the: sa 
+unprincipled: sa 
+human: Nom	Nome	ŋom[e] 
+human being: Nom	Nome	ŋom[e] 
+rainy weather: el[e] 
+path: gu|relan	lene	relan 
+route: gu|relan	lene	relan 
+see: Ciule	ciule	ule 
+hide: nenun 
+little: waʔami 
+smallness: waʔami 
+rock: ete 
+stone: ete 
+swim: al	se 
+this: ome 
+2 sg: bo 
+you: bo 
+grind: rewE	rewe	rewè 
+go: huè 
+walk: huè 
+hot: ceun	po 
+water: tin	tin[i]	tini 
+1 pl. inc.: ehnij	eje 
+we: ehnij	eje 
+we₁: ehnij	eje 
+whiteness: gada 
+who?: la 
+female: hmenew[e] 
+distant: heyo	thuaiai 
+serious: ianuro 
+close: acen	hmūla 
+ner: acen	hmūla 
+earthworm: meketeroè 
+2 pl.: buhnij 
+ye: buhnij 
+you all: buhnij 
+3 pl.: buic 
+where: il	o 
+where?: il	o 
+when?: hodrael	odrael 
+how?: koiwan[e]	korion 
+other: soten 
+broad: hma|rezaŋan 
+wideness: hma|rezaŋan 
+principal wife: hmenuen	theden 
+his mother: hmani	nene 
+my mother: hmani	nene 
+his father: cecen 
+my father: cecen 
+woods: wocedran 
+branch: adraʔac 
+cord: wa|cen 
+flesh: guia 
+fat: diric 
+grease: diric 
+gut: cerethan 
+insides: cerethan 
+intestine: cerethan 
+intestines: cerethan 
+breath: nono 
+laughter: numa 
+cogitate: tutuo[n] 
+reflect: tutuo[n] 
+sniff: siŋod 
+afraid: megigi 
+be afraid: megigi 
+fright: megigi 
+alive: roi 
+be alive: roi 
+life: roi 
+living: roi 
+hunt: tango ia 
+beat: riridi 
+strike: riridi 
+hack: ciecie 
+cut open: ceges 
+pierce: thiŋi 
+stab: thiŋi 
+scratch: keric 
+drop: ded[e] 
+grasp: punise 
+hold: punise 
+hold in arm: punise 
+squeeze: wisereiè 
+wring: wisereiè 
+bind: thurul 
+fasten: thurul 
+tie up: thurul 
+enumerate: cinumera	ietican 
+number: cinumera	ietican 
+tally: cinumera	ietican 
+ocean: cele 
+evil: nia 
+rot: momoceʔil 
+filthy: eon	rawa 
+soiled: eon	rawa 
+blunt: cabaŋ 
+damp: caibì 
+right side: amanata	nata 
+at: jewore	ri 
+inside: hulo 

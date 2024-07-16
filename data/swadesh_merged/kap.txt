@@ -1,0 +1,336 @@
+all: suḳo-nazu | къацIцIо	къацІцІо 
+ashes: jaƛo | йанлIо	тит 
+ashes: tit | йанлIо	тит 
+bark: Ļeʠa | беш	йицало	хъал 
+belly: õχ | онх 
+big: -\fcʠӧ | йукъо 
+bird: mihna | мигьна	мигьна-чІехъ 
+bite: gulal | сила гулал 
+black: ċodolo | цIодоло	цІодоло 
+blood: hẽ | гьен	гьеᴴ 
+bone: ƛӧrӓ | лIоьнваь	лІоьᴴваь 
+breast: nene | гъейо	нене 
+burn tr.: -eḳel | йекIелал 
+claw (nail: miλo 
+cloud: has-mus | гьас	гьас-мус 
+cold: ӓḉijo | йаьчIчIоь	йаьчІчІоь 
+come: -oʠ- | говал	йонкъал	йоᴴкъал 
+come: -õq- | говал	йонкъал	йоᴴкъал 
+die: -uʁ- | йугъал	йугъойо 
+dog: wo | во 
+drink: χuƛ- | хулIал	хулІал 
+dry: qoqoro | хъохъō	хъохъо̄	хъохъойо 
+earth: mizo | мизо	ракь	улка 
+ear: ӓʁӓ | аьᴴгъаь 
+eat: -\fcq- | йесал	йуьнхъаьл 
+egg: ḉemuċ | цIемуцI	цІемуцІ 
+eye: ħӓre | гьаьй 
+far: ċiχo | ата̄	цIихо	цІихо 
+fat n.: mӓhӓ | цоцо 
+feather: pudo | маьчIаь	маьчІаь 
+fire: ċo | цIо	цІо 
+fish: bisa | биса 
+fly v.: -oḳiċ- | гьавалкьа йогицІал	йогицIал 
+foot: χӓbӓ | гьало	хаьбаь 
+full: oċiro | гаьлъгъаьш	йоцIийо	йоцІийо	уьчІаьраьб 
+give: niƛ- | нилIал	нилІал 
+good: ḳeṭӧ | кIетIо	кІетІо 
+green: ničdijӧ | гьелІалъцоъос	ничдийо 
+hair: kera | кенйан	кеᴴйаᴴ	муьчI	муьчІ 
+hair: m\fcḉ | кенйан	кеᴴйаᴴ	муьчI	муьчІ 
+hand: koro | кō	ко̄	коро 
+head: ʠam | къаьм 
+heart: raḳo | йакIо	йакІо 
+hear: tuq- | тухъал 
+heavy: ӓʠijӧ | йаькъкъоь 
+horn: šelo | шело 
+I: do | до 
+kill: -iĻ- | йикьал 
+kill: -uʁol | йикьал 
+knee: aga | аᴴга	мицна 
+know: -iʠ- | йикъал 
+leaf: ƛibo | лIибо	лІибо 
+lie: -ako | йанко йенкьал	йутIал	йутІал | йоᴴтІолāл 
+liver: šebo | шебо 
+long: -iχalo | йихало 
+louse: naco | нацо 
+man: bixinči | аьдаьм	инсан	сукIо	сукІо 
+many: teli | дӣс	лади	оьллоь	тели 
+meat: χo | магъо	хо 
+moon: boco | боцо 
+mountain: bizo | бизо	къоьттоь	мāь	ма̄ьн 
+mountain: mӓ | бизо	къоьттоь	мāь	ма̄ьн 
+mouth: siḳo | сикIо	сикІо 
+name: caro | цāᴴ	ца̄н 
+near: hica | гьица	шеблаъ 
+neck: boλo | болъо 
+new: iċijo | ицIцIо	ицІцІо 
+night: niše | нише мех	нишеш мех 
+nose: mӓrӧ | мāь	ма̄ьн	маьро 
+not: -aʔ(a) 
+one: hõs | гьонс 
+person: suḳo | аьдаьм	инсан	сукIо	сукІо 
+rain: wodo | водо 
+red: ċudijo | цIуддо	цІуддо 
+road: hino | гьино 
+root: χemuχ | хемух 
+round: gerdijo | гейдийо	гомордийо 
+salt: cã | цан	цаᴴ 
+sand: miso | мисо 
+say: nis- | нисал | мисо 
+seed: ižo | инзо	иᴴзо 
+see: -ega:- | йегāл	йега̄л 
+short: -ašo | йаьншшоь	йаьᴴшшоь 
+skin: Rӓše | беш	хъаьлІоь 
+sleep: -uṭ- | йутІал	йуьча̄ьхаьл 
+small: iṭino | итIино	итІино 
+smoke: qo | готІ	хъо 
+snake: bekela | бекела 
+stand: -ečenoċ- | йецокьа йецал 
+star: ca | цан	цаᴴ 
+stone: Ļalo | кьало	шед 
+sun: boq | бохъ 
+tail: miʁ | мигъ 
+that: ho-go | гьонс 
+that: hu-gi | гьонс 
+thin: š\fcšijӧ | лIаьммоь	лІаьммоь	шуьшшоь 
+thin: ƛӓmmӧ | лIаьммоь	лІаьммоь	шуьшшоь 
+this: ho-do 
+this: hu-di 
+thou: mi | ми	миже 
+tongue: mic | миц 
+tooth: sila | сила 
+tree: χӧχӧ | хоьхоь 
+two: ʠona | къона 
+walk (go): -eĻ- 
+walk (go): -oʠ- 
+warm: iχijo | йиххо 
+water: λi | лъи 
+we: ile | иле 
+what: šijod | сийо 
+white: hӓldijӧ | гьаьлдийо 
+who: suḳo | лъо	сукIо 
+wind: zaƛo | залIо	залІо 
+woman: aqo | ахъо	ийо 
+worm: beṭela | бетIела	бетІела 
+year: ƛi | лIи	лІи 
+yellow: hӓḳӓrӧ | каьччоук	ук	уклиъис 
+every: къацIцIо	къацІцІо 
+ash: йанлIо	тит 
+abdomen: онх 
+bigness: йукъо 
+large: йукъо 
+breasts: гъейо	нене 
+burn: йекIелал 
+claw: милъо 
+nail: милъо 
+talon: милъо 
+come from: говал	йонкъал	йоᴴкъал 
+be dead: йугъал	йугъойо 
+dead: йугъал	йугъойо 
+ground: мизо	ракь	улка 
+land: мизо	ракь	улка 
+soil: мизо	ракь	улка 
+fat: цоцо 
+grease: цоцо 
+lubricant: цоцо 
+oil: цоцо 
+fly: гьавалкьа йогицІал	йогицIал 
+left hand: кō	ко̄	коро 
+right: кō	ко̄	коро 
+1 sg.: до 
+be knowledgeable: йикъал 
+lie down: йанко йенкьал	йутIал	йутІал 
+head louse: нацо 
+male: або	сукІо 
+much: дӣс	лади	оьллоь	тели 
+multiple: дӣс	лади	оьллоь	тели 
+several: дӣс	лади	оьллоь	тели 
+flesh: магъо	хо 
+hill: бизо	къоьттоь	мāь	ма̄ьн 
+title: цāᴴ	ца̄н 
+nighttime: нише мех	нишеш мех 
+adulterous: гьонс 
+single: гьонс 
+the: гьонс 
+unprincipled: гьонс 
+human: аьдаьм	инсан	сукIо	сукІо 
+human being: аьдаьм	инсан	сукIо	сукІо 
+rainy weather: водо 
+path: гьино 
+route: гьино 
+sit: къей йецал 
+hide: беш	хъаьлІоь 
+little: итIино	итІино 
+smallness: итIино	итІино 
+rock: кьало	шед 
+swim: лъи йагъал	энхе йагъал	эᴴхе йагъал	эᴴхекьалкьā мекьал 
+2 sg: ми	миже 
+you: ми	миже 
+grind: къона 
+go: йенкьал	йеᴴкьал	йеᴴкье-гийал 
+walk: йенкьал	йеᴴкьал	йеᴴкье-гийал 
+hot: йиххо 
+1 pl. inc.: иле 
+we₁: иле 
+whiteness: гьаьлдийо 
+who?: лъо	сукIо 
+female: ахъо	ийо 
+distant: ата̄	цIихо	цІихо 
+dull: йаькъкъоь 
+serious: йаькъкъоь 
+close: гьица	шеблаъ 
+ner: гьица	шеблаъ 
+earthworm: бетIела	бетІела 
+2 pl.: миже 
+ye: миже 
+you all: миже 
+3 pl.: гьогōл 
+they: гьогōл 
+where: нā	нāкьā 
+where?: нā	нāкьā 
+when: нито 
+when?: нито 
+how: нигъа 
+how?: нигъа 
+some: ласоди 
+few: даьгь	йоькькьаь	ӣна 
+three: лъана 
+four: оьᴴкъоьнаь 
+five: лъина 
+broad: къекъкъо 
+wide: къекъкъо 
+wideness: къекъкъо 
+thick: хетІтІо 
+narrow: хъуссо	цІатІтІо 
+child: къова	къора 
+principal wife: ахъо 
+wife: ахъо 
+husband: бетІергьан	нузо 
+his mother: ийо 
+mother: ийо 
+my mother: ийо 
+father: або 
+his father: або 
+my father: або 
+animal: гьаьймаьн 
+forest: ван 
+woods: ван 
+branch: аьле 
+stick: аьле 
+fruit: пихъ 
+flower: диъи 
+grass: бох 
+cord: кІигьмат 
+rope: кІигьмат 
+fingernail: милъо 
+leg: хаьбаь 
+wing: гьабо 
+gut: аᴴх-балІа 
+guts: аᴴх-балІа 
+insides: аᴴх-балІа 
+intestine: аᴴх-балІа 
+intestines: аᴴх-балІа 
+back: михъā 
+suck: хагъал	цолІлІал 
+spit: туьвāьл 
+vomit: бекикІдāл 
+blow: пуьлІаьл 
+breath: муьшоь багъал 
+breathe: муьшоь багъал 
+laugh: лъоᴴвāл 
+laughter: лъоᴴвāл 
+cogitate: ургъизи йахъал 
+reflect: ургъизи йахъал 
+think: ургъизи йахъал 
+smell: маьгь бикъелал 
+sniff: маьгь бикъелал 
+afraid: гьинкъи 
+be afraid: гьинкъи 
+fear: гьинкъи 
+fright: гьинкъи 
+alive: оьмроь	оьмроь бовал	чІагойаб 
+be alive: оьмроь	оьмроь бовал	чІагойаб 
+life: оьмроь	оьмроь бовал	чІагойаб 
+live: оьмроь	оьмроь бовал	чІагойаб 
+living: оьмроь	оьмроь бовал	чІагойаб 
+fight: бегъал 
+hunt: билъокьа йеᴴкьал 
+beat: баькьелал	зукІал 
+hit: баькьелал	зукІал 
+strike: баькьелал	зукІал 
+cut: йуьчІаьл 
+hack: йуьчІаьл 
+cut open: йишелал 
+split: йишелал 
+pierce: хаьлІаьл 
+stab: хаьлІаьл 
+dig: баьхаьл 
+tell lies: йоᴴтІолāл 
+turn: кІаьй йуьᴴхаьл	кІаьй йуьᴴхоьлаьл 
+turn around: кІаьй йуьᴴхаьл	кІаьй йуьᴴхоьлаьл 
+turn round: кІаьй йуьᴴхаьл	кІаьй йуьᴴхоьлаьл 
+drop: йекал 
+fall: йекал 
+grasp: йохал 
+hold: йохал 
+hold in arm: йохал 
+squeeze: тІуцал 
+wring: тІуцал 
+rub: йугъолал 
+wipe: йугъолал 
+wash: низāл 
+wash clothes: низāл 
+push: зис тохълал 
+shove: зис тохълал 
+throw: йикьал	тІутІал 
+bind: йиᴴцал 
+fasten: йиᴴцал 
+tie: йиᴴцал 
+tie up: йиᴴцал 
+sew: йаьᴴхъаьл 
+count: хъовал 
+enumerate: хъовал 
+number: хъовал 
+tally: хъовал 
+sing: кечІ илІал 
+have fun: кІисāл 
+play: кІисāл 
+float: эᴴхе йагъал 
+flow: гитІал 
+brook: йугьи	хай	эᴴхе 
+river: йугьи	хай	эᴴхе 
+stream: йугьи	хай	эᴴхе 
+lake: кІā	кІаьро 
+ocean: ралъад 
+sea: ралъад 
+dust: готІ	пах 
+fog: гьас	гьас-мус 
+sky: гьас 
+snow: оᴴз 
+ice: боло 
+blaze: йекІал 
+day: водо 
+daylight: водо 
+daytime: водо 
+bad: чикейо 
+evil: чикейо 
+rot: къокъō	къокъойо	цоцило 
+rotten: къокъō	къокъойо	цоцило 
+dirty: чикейо 
+filthy: чикейо 
+soiled: чикейо 
+straight: йаᴴкъойцІō	йаᴴкъойцІойо 
+sharp: ацІцІо 
+blunt: боьтІтІоь 
+smooth: кІакІало 
+damp: йиᴴъā	йиᴴъайо 
+wet: йиᴴъā	йиᴴъайо 
+correct: битІараб 
+right side: кІетІакьас 
+left: оᴴкьакьас 
+in: эᴴдо 
+inside: эᴴдо 
+and: -на 
+if: -къода	нагагь 
+because: судлІо нисода 

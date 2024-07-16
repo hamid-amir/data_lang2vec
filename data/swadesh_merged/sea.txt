@@ -1,0 +1,154 @@
+all: dic | diC 
+ashes: gŋhǝl | gNh3l 
+bark: ckɔ:p | Ckop 
+belly: kǝt | k3t 
+big: nto:j | nt~oy 
+bird: cɛ:pm 
+bite: kap 
+black: blʔak | bl7$ak 
+blood: bhi:pm | bh~ipm~ 
+bone: ӡʔa:kŋ | Z7~akN~ 
+breast: ntǝh | nt~3h 
+claw: cǝnro:s | C3nros 
+cloud: sagup 
+cold: sŋɛc | sNEC 
+come: bɛj | bEy 
+die: datn 
+dog: co:ʔ | Co7 
+drink: ŋu:t | Nut 
+dry: ho:c | hoC 
+ear: ntakŋ | ntakN 
+earth: te:ʔ | te7 
+eat: ca:ʔ | Ca7 
+egg: pŋlǝ:kŋ | pNl3kN~ 
+eye: mat 
+fat (n.): lʔu:s 
+feather: sntɔ:l | sntol 
+fire: ʔɔ:s | os 
+fish: ka:ʔ | ka7 
+fly (v.): hɛ:kŋ 
+foot: ӡukŋ | ZukN 
+full: tǝbe:k | t3bek 
+give: ʔɔ:k | ok 
+good: bɔ:r | bor 
+hair: sɔ:k | sok 
+hand: tǝkŋ | t3kN 
+head: ku:j | kuy 
+hear: gǝrte:k | g3rtek 
+heart: nu:s | nus 
+I: ʔɛй | E5 
+kill: pardat | p3rdat 
+knee: kuro:l | kurol 
+know: panɛj | panEy 
+leaf: sla:ʔ | sla7 
+lie: daʔ | da7 
+liver: ri:s | ris 
+long: ӡre:ʔ | Cr3kN 
+louse: cɛ:ʔ | CE7 
+man: kra:l | sn7~oy 
+many: ӡʔɔ:j | Z7~oy 
+meat: sǝc | sEC 
+moon: gcɛ:ʔ | gCE7 
+mountain: lo:tn | lot 
+mouth: mpa:kŋ | mp~akN 
+name: muh 
+neck: taŋǝn | taN3n 
+new: pa:j | pay 
+night: tǝpm | t3pm~ 
+nose: muh 
+not: pɛʔ | pE7 
+one: nanǝʔ | nan37	nano 
+person: sŋʔɔ̃:j | sn7~oy 
+rain: mani:ʔ | mani7 
+red: rŋa:й | rNa5 
+road: nu:ŋ | nuN 
+root: rʔe:s | r7~es 
+sand: pasir 
+say: pde:r | pder 
+seed: si:p | sip 
+see: nɛ:ŋ | nEN 
+sit: gǝ:j | g3y 
+skin: gtǝ:ʔ | gt37 
+sleep: bɛ:t | bEt 
+small: macɔ̃t | maCo*t 
+smoke: cu:l | Cul 
+stand: ӡiйӡǝk | Zi5Z3k 
+star: prlɔ:j | prloy 
+stone: batu:ʔ | %batu7	batu7 
+sun: mat ӡiis | matZis 
+sun: mat ӡi:s | matZis 
+swim: lɔ:j | loy 
+tail: snta:ʔ | snta7 
+that: ʔaӡeh | aZeh 
+this: ʔadɛh | adEh 
+thou: hɛ:ʔ | hE7 
+tongue: lnta:k | lntak 
+tooth: lmu:й | lmu5 
+tree: ӡhu:ʔ | Zh~u7 
+two: na:r | nar	nār 
+walk: ci:p | Cip 
+water: te:w | tew 
+we: ӡi:ʔ | Zi7 
+what: ma:h | mah 
+white: bjɛ:k | by~Ek 
+who: bo:ʔ | bo7 
+woman: krdo:r | krdor 
+yellow: pho:k | ph~ok 
+every: diC 
+ash: gNh3l 
+abdomen: k3t 
+bigness: nt~oy 
+large: nt~oy 
+breasts: nt~3h 
+nail: C3nros 
+talon: C3nros 
+come from: bEy 
+be dead: dat 
+dead: dat 
+die: dat 
+ground: te7 
+land: te7 
+soil: te7 
+fat: l7~us 
+fat n.: l7~us 
+grease: l7~us 
+lubricant: l7~us 
+oil: l7~us 
+fly: hEkN 
+fly v.: hEkN 
+left hand: t3kN 
+right: t3kN 
+1 sg.: E5 
+be knowledgeable: panEy 
+lie down: da7 
+head louse: CE7 
+male: kral 
+much: Z7~oy 
+multiple: Z7~oy 
+several: Z7~oy 
+flesh: sEC 
+hill: lot 
+title: muh 
+nighttime: t3pm~ 
+adulterous: nan37	nano 
+single: nan37	nano 
+the: nan37	nano 
+unprincipled: nan37	nano 
+human: sn7~oy 
+human being: sn7~oy 
+rainy weather: mani7 
+path: nuN 
+route: nuN 
+hide: gt37 
+little: maCo*t 
+smallness: maCo*t 
+rock: %batu7	batu7 
+2 sg: hE7 
+you: hE7 
+grind: nar	nār 
+go: Cip 
+1 pl. inc.: Zi7 
+we₁: Zi7 
+whiteness: by~Ek 
+who?: bo7 
+female: krdor 

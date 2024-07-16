@@ -1,0 +1,328 @@
+all: সব	সারা 
+every: সব	সারা 
+ash: ছাই 
+ashes: ছাই 
+bark: ছাল 
+abdomen: পেট 
+belly: পেট 
+big: বড় 
+bigness: বড় 
+large: বড় 
+bird: পাখি 
+bite: কামড়ানো 
+black: কালো 
+blood: রক্ত 
+bone: হাড়ী 
+breast: বুক 
+breasts: বুক 
+cloud: মেঘ 
+cold: ঠাণ্ডা 
+come: আসা 
+come from: আসা 
+be dead: মরা 
+dead: মরা 
+die: মরা 
+dog: কুকুর 
+drink: পান 
+dry: শুকনা 
+ear: কান 
+earth: মাটি 
+ground: মাটি 
+land: মাটি 
+soil: মাটি 
+eat: খাওয়া 
+egg: ডিম 
+eye: চোখ 
+feather: পর 
+fire: আগুন 
+fish: মাছ 
+fly: ওড়া 
+fly v.: ওড়া 
+foot: পা 
+full: ভরা 
+give: দেত্তয়া 
+good: ভালো 
+green: সবুজ 
+hair: চুল 
+head: মাথা 
+hear: শোনা 
+heart: মন	হৃদয় 
+horn: শিং 
+1 sg.: আমি 
+I: আমি 
+kill: মারা	মেরে ফেলা 
+knee: হাঁটু 
+be knowledgeable: জানা 
+know: জানা 
+leaf: পাতা 
+liver: কলজে 
+long: লম্বা 
+head louse: উঁকুন 
+louse: উঁকুন 
+male: পুরুষ 
+man: মানুষ	লোক 
+many: অনেক	বহু 
+much: অনেক	বহু 
+multiple: অনেক	বহু 
+several: অনেক	বহু 
+moon: চাঁদ 
+hill: পাহাড় 
+mountain: পাহাড় 
+mouth: মুখ 
+name: নাম 
+title: নাম 
+neck: গলা 
+new: নতুন 
+night: রাত	রাত্র 
+nighttime: রাত	রাত্র 
+nose: নাক 
+not: না	নি	নেই 
+adulterous: এক 
+one: এক 
+single: এক 
+that: এক 
+the: এক 
+unprincipled: এক 
+human: মানুষ	লোক 
+human being: মানুষ	লোক 
+person: মানুষ	লোক 
+rain: বৃষ্টি 
+rainy weather: বৃষ্টি 
+red: লাল 
+path: পথ	রাস্তা 
+road: পথ	রাস্তা 
+route: পথ	রাস্তা 
+root: শিকর 
+round: গোল 
+sand: বালি 
+say: বলা 
+see: দেখা 
+seed: বিচি 
+sit: বসা 
+hide: চামড়া 
+skin: চামড়া 
+sleep: ঘুমা 
+little: ছোট 
+small: ছোট 
+smallness: ছোট 
+smoke: ধুঁয়ো 
+star: তারা 
+rock: পাথর 
+stone: পাথর 
+sun: সূর্য 
+swim: সাঁতরানো 
+tail: লেজ 
+2 sg: আপনি	তুই	তুমি 
+thou: আপনি	তুই	তুমি 
+you: আপনি	তুই	তুমি 
+tongue: জিহবা	জীভ 
+tooth: দাঁত 
+tree: গাছ 
+grind: দুই 
+two: দুই 
+go: হাঁটা 
+walk: হাঁটা 
+hot: গরম 
+warm: গরম 
+water: জল	পানি 
+1 pl. inc.: আমরা 
+we: আমরা 
+we₁: আমরা 
+what: কী 
+white: সাদা 
+whiteness: সাদা 
+who: কে 
+who?: কে 
+female: মহিলা 
+woman: মহিলা 
+yellow: হলুদ 
+distant: দূর 
+far: দূর 
+dull: ভারী 
+heavy: ভারী 
+serious: ভারী 
+close: কাছে 
+near: কাছে 
+ner: কাছে 
+salt: নুন	লবন 
+short: বেঠে 
+snake: সাপ 
+thin: পাতলা 
+wind: বাতাস 
+earthworm: কৃমি 
+worm: কৃমি 
+year: বছর 
+3 sg.: সে 
+he: সে 
+she: সে 
+2 pl.: আপনারা	তোমরা	তোরা 
+ye: আপনারা	তোমরা	তোরা 
+you all: আপনারা	তোমরা	তোরা 
+3 pl.: তারা 
+they: তারা 
+here: এখান 
+there: ওখান 
+where: কৈ	কোথায় 
+where?: কৈ	কোথায় 
+when: কখন	কবে 
+when?: কখন	কবে 
+how: কেমন	কেমনে 
+how?: কেমন	কেমনে 
+some: কিছু 
+few: অল্প 
+other: অন্য 
+three: তিন 
+four: চার 
+five: পাঁচ 
+broad: চওরা 
+wide: চওরা 
+wideness: চওরা 
+fat: চর্বি 
+thick: মোটা 
+narrow: চিপা 
+child: বাচ্চা 
+principal wife: বউ 
+wife: বউ 
+husband: জামাই 
+his mother: আম্মা	মা 
+mother: আম্মা	মা 
+my mother: আম্মা	মা 
+father: আব্বা	বাবা 
+his father: আব্বা	বাবা 
+my father: আব্বা	বাবা 
+animal: জন্তু 
+forest: বন 
+woods: বন 
+branch: লাঠি 
+stick: লাঠি 
+fruit: ফল 
+flower: ফুল 
+grass: গাস 
+cord: দড়ী 
+rope: দড়ী 
+flesh: গোশ্ত	মাংস 
+meat: গোশ্ত	মাংস 
+grease: চর্বি 
+claw: নখ 
+fingernail: নখ 
+nail: নখ 
+leg: পা 
+arm: হাত 
+hand: হাত 
+wing: পাখা 
+gut: ভুড়ী 
+guts: ভুড়ী 
+insides: ভুড়ী 
+intestine: ভুড়ী 
+intestines: ভুড়ী 
+back: পীঠ 
+suck: চোষা 
+spit: ছ্যাপ	থুতু 
+vomit: বমি 
+blow: ফুঁ দেত্তয়া 
+breath: শ্বাস নেওয়া 
+breathe: শ্বাস নেওয়া 
+laugh: হাসা 
+laughter: হাসা 
+cogitate: ভাবা 
+reflect: ভাবা 
+think: ভাবা 
+smell: শোঁকা 
+sniff: শোঁকা 
+afraid: ডরা	ভয় করা 
+be afraid: ডরা	ভয় করা 
+fear: ডরা	ভয় করা 
+fright: ডরা	ভয় করা 
+alive: বাঁচা 
+be alive: বাঁচা 
+life: বাঁচা 
+live: বাঁচা 
+living: বাঁচা 
+fight: লড়া 
+hunt: মৃগয়া করা	সীকার করা 
+beat: মারা 
+hit: মারা 
+strike: মারা 
+cut: কাটা 
+hack: কাটা 
+cut open: ভাগ 
+split: ভাগ 
+scratch: খামচানো 
+dig: খোঁড়া 
+lie: শোয়া 
+lie down: শোয়া 
+tell lies: শোয়া 
+stand: দাঁড়ানো 
+turn: ঘোরা 
+turn around: ঘোরা 
+turn round: ঘোরা 
+drop: পড়া 
+fall: পড়া 
+grasp: ধরা 
+hold: ধরা 
+hold in arm: ধরা 
+squeeze: চেপ 
+wring: চেপ 
+rub: ঘষা 
+wipe: মোছা 
+wash: ধোয়া 
+wash clothes: ধোয়া 
+pull: টানা 
+push: ঠেলা 
+shove: ঠেলা 
+throw: ফেলা 
+bind: বাঁধা 
+fasten: বাঁধা 
+tie: বাঁধা 
+tie up: বাঁধা 
+sew: টাঁকা 
+count: গোনা 
+enumerate: গোনা 
+number: গোনা 
+tally: গোনা 
+sing: গাওয়া 
+have fun: খেলা 
+play: খেলা 
+float: ভাসা 
+flow: বহা 
+freeze: জমা 
+swell: ফাঁপা 
+brook: নদী 
+river: নদী 
+stream: নদী 
+lake: পুকুর 
+ocean: সমুদ্র 
+sea: সমুদ্র 
+dust: ধুলো 
+fog: কুয়াশা 
+sky: আকাশ 
+snow: বরফ 
+ice: বরফ 
+blaze: জলা	পোরা 
+burn: জলা	পোরা 
+day: দিন 
+daylight: দিন 
+daytime: দিন 
+old: পুরানো 
+bad: খারাপ 
+evil: খারাপ 
+rot: পচা 
+rotten: পচা 
+dirty: ময়লা 
+filthy: ময়লা 
+soiled: ময়লা 
+straight: সোজা 
+sharp: চোক্ষা 
+damp: ভেজা 
+wet: ভেজা 
+correct: ঠিক 
+right: ডান 
+right side: ডান 
+left: বাঁ 
+at: -এ 
+in: -এ 
+inside: -এ 
+with: -র সাথে	সঙ্গে 
+and: আর	এবং	ও 
+if: যদি 
+because: কারণ 

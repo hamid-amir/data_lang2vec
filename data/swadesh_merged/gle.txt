@@ -1,0 +1,343 @@
+all: gach | gach	gach uile	go léir	uile 
+all: uile | gach	gach uile	go léir	uile 
+and: agus 
+animal: ainmhí | ainmhidh	ainmhí	beithíoch 
+ashes: luaith | luaith	luath 
+at: ag | aig 
+back: droim | druim 
+bad: olc | do-	dona	droch-	olc 
+bark: coirt | coirt	rùsg	rúsc 
+because: mar | as siocair go	cionn is go	de bhrí go	mar	nó	oir	toisc go 
+belly: bolg | broinn	brù 
+big: mór | mòr	mór 
+bird: éan | eun	éan 
+bite: bain greim as | bìd 
+black: dubh 
+blood: fuil | cró	fiL	folracht	fuil	kro 
+blow: ag síobadh | sèid	séid 
+bone: cnámh | cnàimh	cnámh	knav 
+breast: cíoch | brol3x	cìoch	cíoch	kux 
+breathe: análaigh | anáil	tarraing anail	tarraing anáil 
+burn: dóigh | loisg 
+child: páiste | leanabh	leanbh	pàiste	páiste	tachrán 
+cloud: scamall | neul	néal	scamall	sgòth 
+cold: fuar 
+come: tar | tag	tar	thig	tig	ty~en3 
+correct: ceart | ceart	cóir 
+count: ag áireamh | comhair	cuntais	cùnnt	áirigh 
+cut: gearr | bearr	ciorraigh	gearr	geàrr	scor	snoigh 
+day: lá | là	lá 
+die: bás a fháil | bàsaich	bás	eg	faighim bás	i bas	marbh	éagaim 
+dig: tochail | bain	cladhaich	rómhair	tochail 
+dirty: salach 
+dog: madra, mada | cù	cú	gadhar	ku	madadh	madr3	madra 
+drink: ól | ol	slog	òl	óla 
+dry: tirim | tioram	tirim 
+dull: leadránach | trom | maol 
+dust: deanach | cré	deannach	smúit	stùr 
+ear: cluas | cluas	klu3s 
+earth: talamh | talamh	tír 
+earth: talamh (as in earth, ground) | talamh	tír 
+eat: ith | caith	ith 
+egg: ubh | ubh	ugh 
+eye: súil | rosc	rosk	suL	sùil	súil 
+fall: tit | titim	tuit 
+far: i bhfad | fada	i bhfad 
+father: athair 
+fear: eagla | eagla	faitcheas	gabh eagal	scanradh	uamhan 
+feather: cleite | cleite	eite	ite 
+few: cuid de/roinnt de | beag	beagan	beagán	tearc 
+fight: troid | comhraic	còmhraig	troid 
+fingernail: ionga | ionga	ìne 
+fire: tine | teine	tine	ty~i53 
+fish: iasc | i3sk	iasc	iasg 
+five: cúig | a cúig	còig	cúig 
+float:  snámhán | bheith ar snámh	bi a’ fleòdradh	snámh 
+flow:  ag líofa | rith	ruith	sileadh	sní 
+flower: bláth | blàth	bláth	plúr	pósae	scoth 
+fly (v.): eitil 
+fog: ceo | ceo	ceò 
+foot: cos | cas	cos	troigh 
+forest:  foraois, coill | coill	coille 
+four: ceathair | a ceathair	ceathair	ceithir 
+freeze: reoigh | reòdh 
+fruit: tortha | meas	toradh 
+full: lán | lan	làn	lán 
+give: tabhair | tabhair	tug 
+good: maith | deá-	maith	math	so- 
+grass: féar | feur	féar 
+green: glas, uaithne | glas	uaine 
+guts: putógaí | caolan	drólanna	inní	ionathar	putóga	stéigeacha 
+hair: gruaig | falt	folt	gruag	gruaig 
+hand: lámh | krov	lav	lámh | làmh 
+head: ceann | ceann	cloigeann 
+hear: clos | clois	cluin	cluinn	kli5	kloS 
+heart: croí | cridhe	croí 
+heavy: trom 
+here: anseo | an seo 
+he: sé 
+hit: buail 
+hold: beir | coimeád	coinnigh	cùm 
+horn: adharc | adharc	airk	beann	by~an 
+how: conas | cad é mar	ciamar	cionnas	conas	cén chaoi	cén dóigh 
+hunt: fiach | fiach	sealg	seilg 
+husband: fear chéile | céile	fear	fear chéile	fear-pòsda 
+ice: leac oighir | deigh	eigh	eighre	leac oighir	oighear 
+if: dá, má | dá	ma	má	nan 
+I: mé | mi	mise	my~e	mé 
+in: i | ann	isteach	istoigh 
+kill: maraigh | maraigh	marbh 
+knee: glúin | glu5	glùn	glún 
+know: eolas a bheith agat air; aithne a chuir air | fios	tha fios aig … 
+lake: loch | linn	loch 
+laugh: gáire | gàir	gáir	gáire a dhéanamh 
+leaf: duilleog | bileog	diLog	duilleag	duilleog 
+left: clé | clé	clì	tuath 
+leg: cos | cas	cos 
+lie: luí | bréag	laigh	éitheach 
+live: cónaí a bheith air | bi beò	mairim	táim beo 
+liver: ae | adha	ae	crua-ae	e	kru3e 
+long: fada 
+louse: míol | mial	mil	míol	sor 
+man: fear | di53	dini	duine	neach 
+many: a lán | a lán	iomaí	lia	mòran	mórán 
+meat: feoil | feoil	feòil 
+moon: gealach | gealach	ré	éasca 
+mother: máthair | màthair	máthair 
+mountain: cnoc | SLi3v	ard	beann	beinn	cnoc	sliabh	tulach 
+mountain: sliabh | SLi3v	ard	beann	beinn	cnoc	sliabh	tulach 
+mouth: béal | beul	béal	cab	clab	cár	draid	pus 
+name: ainm | a53my~	ainm 
+narrow: caol | caol	cumhang	cúng 
+near: in aice le/ in éineacht le | cóngarach	dlùth	faisg	fogas do	i bhfogas	i ndeas	i ngaobhar	i ngar	in aice 
+neck: muineál | bráid	muineal	muinéal	píobán	scrogall 
+new: nua | nu3	nua	nuadh	ùr	úr 
+night: oíche | ixy~3	oidhche	oíche 
+night:  oíche | ixy~3	oidhche	oíche 
+night: óíche | ixy~3	oidhche	oíche 
+nose: srón | gaosán	gisan	soc	sron	sròn	srón 
+not: ní | cha 
+old: sean 
+one: aon, amháin | aon	in 
+other: eile 
+person: duine | di53	dini	duine	neach 
+play: imirt, súgradh, seinm | cluich	imir	spraoi	súgradh 
+pull: tarraing 
+push: brú | brùth	brúigh	sáigh 
+rain: báisteach | báisteach	fearthainn	frasachd 
+red: deard | dearg	rua	ruadh 
+red: dearg | dearg	rua	ruadh 
+right: deas | krov	lav	lámh 
+river: abhainn/sruth | abhainn	sruth	sruthán 
+road: bóthar | kon3ry~	kosan	rathad 
+root: fréamh | freumh	fréamh	rúta 
+rope: rópa | corda	ròpa	rópa	téad 
+rotten:  lofa | bréan	lobhte	lofa	morgtha 
+round: timpeall | comhchruinn	cruinn 
+rub: cuimil | cuimil	slíob	slíoc	suath 
+salt: salann 
+sand: gaineamh | gaineamh	gainmheach 
+say: abair | abair	deir | gaineamh	gainmheach 
+scratch: scrabh,  scríob | sgròb 
+sea: muir; farraige | cuan	fairge	farraige	muir 
+seed: síol | sìol	síol 
+see: feic | aurk	chí	faic	feic	fy~eky~	tchí 
+sew: ag fuaigh 
+sharp: géar | geur	géar 
+short: gearr | gairid	gearr	goirid 
+sing: can; abair | can	seinn 
+sit: suí | suidh	suí 
+skin: craiceann | cneas	craiceann	kraky~3n	ky~5as	seithe 
+sky: spéar | adhar	neamh	speur	spéir 
+sleep: codail | bi ann do chadal	codail	codladh 
+small: beag 
+smell: boladh | bolaigh	boltanaigh	feuch fàileadh	smúr 
+smoke: deatach (n.), caith (v.) | ceò	deatach	toit 
+smooth: mín | mìn	mín	réidh 
+snake: nathair nimhe 
+snow: sneachta | sneachd	sneachta 
+some: roinnt de | inteacht	roinn	éigin 
+spit: smugairle | caith seile	tilg smugaid 
+split: scoilt | scoilt	scáin	sgoilt 
+squeeze: fáisc | fáisc	teann	teannaich 
+stab: sáith | goin	rop	sàth	sáigh 
+stand: seas 
+star: réalt | relt3	ri5	rionnag	réalta 
+stick: bata | bata	bioran	brainse	craobh	géag	maide 
+stone: cloch | carraig	clach	cloch	craig	klox 
+straight: díreach | dìreach	díreach 
+suck: diúl | diúlaim	siolpaim	sùigh	súim	súraic	tarraing 
+sun: griain | grian	gy~ry~i3n 
+sun: grian | grian	gy~ry~i3n 
+swim: snámh | snàmh	snámh 
+tail: eireaball | earball	eireaball	eithre 
+that: an... sin | an … sin	an … siud | aon	in 
+there: ansin | an sin	an siud 
+they: siad | iad	siad	’ad 
+thick: leathan | ramhar	tiubh	tiugh 
+thin: caol, tanaí | caol	tana	tanaí 
+think: smaoinigh | machtnaigh	meabhraigh	smaoinich	smaoinigh 
+this: an...seo | an … seo 
+thou: tú | hu	thu	thusa	thú	tu	tusa	tú 
+three: trí | a trí	trì	trí 
+throw: caith | caith	teilg	tilg 
+tie: ceangail (v.), carbhat (n.) | ceangail	naisc 
+tongue: teanga | teanga	ty~aNg3 
+tooth: fiacal | dy~ed	déad	fiacail	fy~i3k3L 
+tree: crann | bile	crann	craobh	kran 
+turn: cas | cas	iompú thart	iompú timpeall	till 
+two: dhá, a dó | a dó	da	dà	dó	xa 
+vomit: aiseag | brúcht	cuir amach	sceith	sgeith	táim ag aiseag	táim ag urlacan 
+walk: siúl | coisich	siúl 
+warm: te | alabhog	blàth	bogthe	brothallach	te 
+wash: ní | folc	ionnail	nigh 
+water: uisce | iSky~3	uisce	uisge 
+we: sinn, muid | Si5	midy~	sinn 
+wet: fliuch 
+what: cad, céard | cad	cad é	ciod	dè 
+when: cathain | cathain	cuin	cá huair	cén uair 
+where: cá, cén áit | càite	cá	cén áit 
+white: bán | bán	fionn	geal 
+who: cé | cé	cò 
+wide: leathan | leathan	leathann 
+wife: bean chéile | bean	bean chéile	bean-phòsda	céile 
+wind: gaoth 
+wing: sciathán | eite	eiteog	sciathán	sgiath 
+wipe: cuimil | suath 
+with: le 
+woman: bean 
+worm: cnuimh | cnuimh	cruimh	péist 
+year: bliain | bliadhna	bliain 
+yellow: buí | buidhe	buí 
+you: sibh (plural) | hu	thu	thusa	thú	tu	tusa	tú 
+every: gach	gach uile	go léir	uile 
+ash: luaith	luath 
+abdomen: broinn	brù 
+bigness: mòr	mór 
+large: mòr	mór 
+breasts: brol3x	cìoch	cíoch	kux 
+claw: crobh	crúb	ionga	ladhar	leadán	ordóg 
+nail: crobh	crúb	ionga	ladhar	leadán	ordóg 
+talon: crobh	crúb	ionga	ladhar	leadán	ordóg 
+come from: tag	tar	thig	tig	ty~en3 
+be dead: bàsaich	bás	eg	faighim bás	i bas	marbh	éagaim 
+dead: bàsaich	bás	eg	faighim bás	i bas	marbh	éagaim 
+ground: talamh	tír 
+land: talamh	tír 
+soil: talamh	tír 
+fly: eitil	itealaich 
+fly v.: eitil	itealaich 
+left hand: krov	lav	lámh 
+1 sg.: mi	mise	my~e	mé 
+be knowledgeable: fios	tha fios aig … 
+lie down: luí 
+head louse: mial	mil	míol	sor 
+male: fear 
+much: a lán	iomaí	lia	mòran	mórán 
+multiple: a lán	iomaí	lia	mòran	mórán 
+several: a lán	iomaí	lia	mòran	mórán 
+flesh: feoil 
+hill: SLi3v	ard	beann	beinn	cnoc	sliabh	tulach 
+title: a53my~	ainm 
+nighttime: ixy~3	oidhche	oíche 
+adulterous: aon	in 
+single: aon	in 
+the: aon	in 
+unprincipled: aon	in 
+human: di53	dini	duine	neach 
+human being: di53	dini	duine	neach 
+rainy weather: báisteach	fearthainn	frasachd 
+path: kon3ry~	kosan	rathad 
+route: kon3ry~	kosan	rathad 
+hide: cneas	craiceann	kraky~3n	ky~5as	seithe 
+little: beag 
+smallness: beag 
+rock: carraig	clach	cloch	craig	klox 
+2 sg: hu	thu	thusa	thú	tu	tusa	tú 
+grind: a dó	da	dà	dó	xa 
+go: coisich	siúl 
+hot: alabhog	blàth	bogthe	brothallach	te 
+1 pl. inc.: Si5	midy~	sinn 
+we₁: Si5	midy~	sinn 
+whiteness: bán	fionn	geal 
+who?: cé	cò 
+female: bean 
+distant: fada	i bhfad 
+serious: trom 
+close: cóngarach	dlùth	faisg	fogas do	i bhfogas	i ndeas	i ngaobhar	i ngar	in aice 
+ner: cóngarach	dlùth	faisg	fogas do	i bhfogas	i ndeas	i ngaobhar	i ngar	in aice 
+snake: nathair 
+earthworm: cnuimh	cruimh	péist 
+2 pl.: sibh 
+ye: sibh 
+you all: sibh 
+3 pl.: iad	siad	’ad 
+where?: càite	cá	cén áit 
+when?: cathain	cuin	cá huair	cén uair 
+how?: cad é mar	ciamar	cionnas	conas	cén chaoi	cén dóigh 
+broad: leathan	leathann 
+wideness: leathan	leathann 
+fat: blonag	geir	méathras	olar	saill 
+principal wife: bean	bean chéile	bean-phòsda	céile 
+his mother: màthair	máthair 
+my mother: màthair	máthair 
+his father: athair 
+my father: athair 
+woods: coill	coille 
+branch: bata	bioran	brainse	craobh	géag	maide 
+cord: corda	ròpa	rópa	téad 
+grease: blonag	geir	méathras	olar	saill 
+arm: làmh 
+gut: caolan	drólanna	inní	ionathar	putóga	stéigeacha 
+insides: caolan	drólanna	inní	ionathar	putóga	stéigeacha 
+intestine: caolan	drólanna	inní	ionathar	putóga	stéigeacha 
+intestines: caolan	drólanna	inní	ionathar	putóga	stéigeacha 
+breath: anáil	tarraing anail	tarraing anáil 
+laughter: gàir	gáir	gáire a dhéanamh 
+cogitate: machtnaigh	meabhraigh	smaoinich	smaoinigh 
+reflect: machtnaigh	meabhraigh	smaoinich	smaoinigh 
+sniff: bolaigh	boltanaigh	feuch fàileadh	smúr 
+afraid: eagla	faitcheas	gabh eagal	scanradh	uamhan 
+be afraid: eagla	faitcheas	gabh eagal	scanradh	uamhan 
+fright: eagla	faitcheas	gabh eagal	scanradh	uamhan 
+alive: bi beò	mairim	táim beo 
+be alive: bi beò	mairim	táim beo 
+life: bi beò	mairim	táim beo 
+living: bi beò	mairim	táim beo 
+beat: buail 
+strike: buail 
+hack: bearr	ciorraigh	gearr	geàrr	scor	snoigh 
+cut open: scoilt	scáin	sgoilt 
+pierce: goin	rop	sàth	sáigh 
+tell lies: bréag	laigh	éitheach 
+turn around: cas	iompú thart	iompú timpeall	till 
+turn round: cas	iompú thart	iompú timpeall	till 
+drop: titim	tuit 
+grasp: coimeád	coinnigh	cùm 
+hold in arm: coimeád	coinnigh	cùm 
+wring: fáisc	teann	teannaich 
+wash clothes: folc	ionnail	nigh 
+shove: brùth	brúigh	sáigh 
+bind: ceangail	naisc 
+fasten: ceangail	naisc 
+tie up: ceangail	naisc 
+sew: fuaigh 
+enumerate: comhair	cuntais	cùnnt	áirigh 
+number: comhair	cuntais	cùnnt	áirigh 
+tally: comhair	cuntais	cùnnt	áirigh 
+have fun: cluich	imir	spraoi	súgradh 
+swell: at 
+brook: abhainn	sruth	sruthán 
+stream: abhainn	sruth	sruthán 
+ocean: cuan	fairge	farraige	muir 
+blaze: loisg 
+daylight: là	lá 
+daytime: là	lá 
+evil: do-	dona	droch-	olc 
+rot: bréan	lobhte	lofa	morgtha 
+filthy: salach 
+soiled: salach 
+blunt: maol 
+damp: fliuch 
+right side: deas 
+inside: ann	isteach	istoigh 

@@ -1,0 +1,173 @@
+all: -onke 
+every: -onke 
+ash: uthuthu 
+ashes: uthuthu 
+bark: ixolo 
+abdomen: isi=su 
+belly: isi=su 
+big: -khulu 
+bigness: -khulu 
+large: -khulu 
+bird: in=taka 
+bite: =lum-a 
+black: -mnyama 
+blood: gazi	i=gazi 
+bone: ithambo	ith~ambo	th~ambo 
+breast: bele	isi=fuba	isifuba 
+breasts: bele	isi=fuba	isifuba 
+burn: -tshisa 
+burn tr.: -tshisa 
+claw: uzipho 
+nail: uzipho 
+talon: uzipho 
+cloud: ili=fu 
+cold: =band-a 
+come: =z-a	z	za 
+come from: =z-a	z	za 
+be dead: =bub-a	f	fa 
+dead: =bub-a	f	fa 
+die: =bub-a	f	fa 
+dog: inja	ja 
+drink: -sela	sEla	sel 
+dry: -omile 
+ear: dlebe	indL~EbE	indlebe 
+earth: umhlaba 
+ground: umhlaba 
+land: umhlaba 
+soil: umhlaba 
+eat: -tya 
+egg: iqanda 
+eye: iliso	so 
+fat: amafutha 
+fat n.: amafutha 
+grease: amafutha 
+lubricant: amafutha 
+oil: amafutha 
+feather: u=siba 
+fire: lilo	umlilo 
+fish: ifiSi	intL"anzi	intlanzi	tlanzi 
+fly: -bhabha 
+fly v.: -bhabha 
+foot: unyawo 
+full: =zɛlɛ	g!w$ElE	zele 
+give: =nik-a 
+good: -lungile 
+green: -luhlaza 
+hair: unwele 
+hand: andla	isandL~a	isandla 
+left hand: andla	isandL~a	isandla 
+right: andla	isandL~a	isandla 
+head: intloko 
+hear: =va	v	va 
+heart: intliziyo 
+horn: ph~ondo	uphondo 
+1 sg.: m-na	mna 
+I: m-na	mna 
+kill: =bulal-a 
+knee: dolo	idh~olo	idolo 
+be knowledgeable: =azi 
+know: =azi 
+leaf: g!abi	igqabi	iph~Eph~a 
+lie: =lal-a 
+lie down: =lal-a 
+liver: bindi	isi=bindi 
+long: -de 
+head louse: i=ntwala	ntwala 
+louse: i=ntwala	ntwala 
+male: in=dɔda 
+man: ntu	um=ntu	umnt"u 
+many: =ninzi 
+much: =ninzi 
+multiple: =ninzi 
+several: =ninzi 
+flesh: inyama 
+meat: inyama 
+moon: inyanga 
+hill: in=taba	int"aba	ntaba 
+mountain: in=taba	int"aba	ntaba 
+mouth: umlomo 
+name: gama	i=gama	igh~ama 
+title: gama	i=gama	igh~ama 
+neck: intamo 
+new: -tsha	C"a	Ca 
+night: suku	ubu=suku	ubusuk"u 
+nighttime: suku	ubu=suku	ubusuk"u 
+nose: imp"umlo	impumlo	pumlo 
+not: a- 
+adulterous: -nye	5e	nye	ny~E 
+one: -nye	5e	nye	ny~E 
+single: -nye	5e	nye	ny~E 
+that: =ɔ 
+the: -nye	5e	nye	ny~E 
+unprincipled: -nye	5e	nye	ny~E 
+human: ntu	um=ntu	umnt"u 
+human being: ntu	um=ntu	umnt"u 
+person: ntu	um=ntu	umnt"u 
+rain: im=vula 
+rainy weather: im=vula 
+red: =bomvu 
+path: dlela	indL~Ela	indlela 
+road: dlela	indL~Ela	indlela 
+route: dlela	indL~Ela	indlela 
+root: ingcambu 
+round: -ngqukuva	-sisazinge 
+sand: intlabathi 
+say: -thi 
+see: -bona	bon	bona 
+seed: im=bewu 
+sit: =ɬal-a 
+hide: lusu	ulu=su	ulusu 
+skin: lusu	ulu=su	ulusu 
+sleep: =lal-a 
+little: -ncinane 
+small: -ncinane 
+smallness: -ncinane 
+smoke: um=si 
+stand: =m-a 
+star: inkwenkwezi	kwenkwezi 
+rock: ilit"y~E	ilitye	tye 
+stone: ilit"y~E	ilitye	tye 
+sun: i=langa	ilaNga	laNa 
+swim: -qubha 
+tail: um=sila 
+this: lɔ 
+2 sg: wEna	wena 
+thou: wEna	wena 
+you: wEna	wena 
+tongue: lwimi	ulw=imi 
+tooth: izinyo	iziny~o	zi5o 
+tree: th~i	umthi	umth~i 
+grind: =bini	bini	mbini	ɓini 
+two: =bini	bini	mbini	ɓini 
+go: =y-a 
+walk: =y-a 
+hot: -shushu 
+warm: -shushu 
+water: ama=nzi	amanzi	nzi 
+1 pl. inc.: thina	th~ina 
+we: thina	th~ina 
+we₁: thina	th~ina 
+what: nto=ni 
+white: -mhlophe 
+whiteness: -mhlophe 
+who: uba=ni 
+who?: uba=ni 
+female: um=fazi 
+woman: um=fazi 
+yellow: -lubhelu 
+distant: -kude 
+far: -kude 
+dull: =nzima 
+heavy: =nzima 
+serious: =nzima 
+close: -kufuphi 
+near: -kufuphi 
+ner: -kufuphi 
+salt: ityuwa 
+short: -futshane 
+snake: inyoka 
+thin: -licwecwe 
+wind: u=mɔya 
+earthworm: um=sundulu 
+worm: um=sundulu 
+year: umnyaka 

@@ -1,0 +1,287 @@
+all: yigulu 
+ankle: naboɾeɾe 
+arm: inawu 
+ashes: wolorin 
+back: imuṇen 
+back: nilaiyi 
+bad: -abargba 
+bark: banŋa 
+belly: maḍan 
+big: ubod 
+bird: laiin 
+bite: -ladbi- 
+bitter: maŋunínan 
+black: yigabudban | yi-gabudban 
+blood: ibulul | i-bulul	ibulul 
+blow: adärainma 
+blow: bo ŋaiani 
+bone: wune 
+boy: walima 
+branch: inamu 
+breathe: gingin 
+brother: ŋaba-ŋa 
+brother: ŋuba-ŋa 
+burn: biba 
+burn: ŋabaŋbe 
+burn: n. gareŋma biba ŋabuŋbe 
+butterfly: mɛlɛ 
+cheek: iɟagal 
+chest: ilunɟa 
+chin: iɟagol 
+cloud: iŋol | i-ŋol 
+cold: ŋanɟerin 
+come: ŋaɲaŋan | Na5aNan	ŋaɲaŋan 
+correct: gaba(nenbi) 
+crocodile: dagaḷ 
+cut: -ɟärg 
+dark: gabud 
+daughter: geyu?-ŋa 
+day: dalgaŋ 
+day: ŋaninɟunune 
+die: bolgeɟ | Nogbiri	ŋogbiri 
+die: ŋogbiri | Nogbiri	ŋogbiri 
+die: ɲuna ŋawe(ŋbe) | Nogbiri	ŋogbiri 
+die: unegbari | Nogbiri	ŋogbiri 
+dig: ŋabiɟu 
+dirty: gaybúdban 
+dog: ɾuiyun | ruiyun	ɾuiyun 
+drink: ŋaŋun(be) | NaNunbe	ŋaŋun	ŋaŋunbe 
+dry: ubuibúban | ubuibúban 
+ear: igul̪a | i-gul̪a	iguLa 
+earth: belgin 
+eat: ŋaŋu(ŋbe) | ŋaŋu	ŋaŋuŋbe 
+egg: mawalam | waidbin 
+egg: waidbin 
+elbow: boḍeḍe 
+emu: ganaŋaɟan 
+eye: imum | i-mum	imum 
+eye: miɟi | i-mum	imum 
+face: iɟun 
+fall: -we- 
+father: bia - ŋa 
+fat (n.): wiḷi 
+fear: -yeríɟin 
+feather: malaban̪ 
+fight: aladbiyin 
+finger: ideŋg 
+finger: inara 
+fire: wuɟa | wuTa	wuɟa 
+fish: borunin 
+fly (n.): maḍgan 
+fly (v.): gaɟuri 
+fog: iŋol 
+foot: iɟeŋ 
+forehead: imir 
+forest: baŋa 
+forest: bun 
+full: ɟagaḍbiri | Tagadbiri	ɟagaḍbiri 
+full: ŋagwane | Tagadbiri	ɟagaḍbiri 
+girl: geyu-ŋạ 
+girl: walima 
+give: ŋanwon 
+good: wuman 
+grass: wodin 
+green: wūɟülínman | wūɟülínman 
+hair: iwaŋaɾa | iwaŋaɾa	malabaɲi 
+hair: malabaɲi | iwaŋaɾa	malabaɲi 
+hand: inamu | i-namu	inamu 
+head: ibam | i-bam 
+hear: ŋawaiɟbánan | NawaiTbanan	ŋawaiɟbánan 
+hear: ŋawaiyɟbánin | NawaiTbanan	ŋawaiɟbánan 
+heart: ḍuḷu | ḍuḷu 
+heavy: winoḍban | winoḍban 
+hit: ŋabun(be) 
+hold: debe ŋama 
+hole: debaminan gorgɛŋge 
+hole: lalurin 
+house: baiɟugu 
+hunt: ŋaɟaŋga 
+husband: maṇan-ŋa 
+I: ŋaiigi | Naigi	ŋaiigi 
+kangaroo: ɟunɟumurgu 
+kill: ŋabun 
+knee: goḍeḍe | godede	goḍeḍe 
+know: ŋaɲaŋandi 
+lake: laŋganin̄ 
+laugh: ŋagolaʔi (iŋbe)ʔri 
+leaf: ɲaɲalin̪ | 5a5ali4	ɲaɲalin̪ 
+left: iɟaɟugun 
+leg: imaɾ 
+lie: ŋagurbi 
+lightning: iŋuɾunan 
+lip: managan 
+live: ibi(aɟ.) 
+liver: duluŋ | duluN	duluŋ 
+long: baniŋgula 
+long: buyruygaywí | baniŋgula 
+louse: diḍin | didin 
+man: nolgin 
+many: igulu 
+meat: iŋandaiɟ 
+meat: laiiń | iŋandaiɟ 
+moon: ganŋalin 
+morning: igiwangul 
+morning: wawa ma gadarmabuŋgu 
+mosquito: galilin 
+mother: guya-ŋa 
+mountain: garin 
+mouth: iɟagu | i-ɟagu 
+name: ɲiŋi | 5iNi	ɲiŋi 
+nape: ilaiyi 
+navel: inɛbu guŋa 
+near: ɟeywéla | ɟeywéla 
+neck: ilaiyi 
+new: uyeli 
+night: niwa 
+not: yábay 
+old: gaɟiri 
+old: maḷuga 
+old: umulen 
+one: lege | lege	lègga 
+other: wirande 
+person: nolgin 
+play: ŋawelmi 
+rain: wian 
+rat: wómbuy 
+red: iwiliriman | i-wiliri-man 
+right: ubarbargun | i-namu	inamu 
+ripe: badi 
+river: dararaŋa 
+river: dararaŋga 
+river: yirgulun 
+road: iɟeŋ | iTeN 
+root: maḍamaḍa | maḍamaḍa 
+rope: daːman 
+rope: gɔradba 
+rotten: wayríŋun 
+round: mudu 
+rub: ŋaboṇmi 
+sand: marangin 
+say: ŋawolbi(ɟaragba) | marangin 
+scratch: ŋabalarmi 
+seed: imum | i-mum 
+see: ŋanan | Nanan	ŋanan 
+sharp: wuɟarmalalu 
+short: aɟon 
+shoulder: inebel 
+sing: -ŋe(ŋbe) 
+sister: gaɟaɟiri 
+sister: ŋamun-ŋa 
+sit: duba ŋaɟe 
+skin: ŋaŋma ŋame(ŋbe)iwalam | yuwalam 
+skin: yuwalam 
+sky: galiwira 
+sleep: (a)gurgba | agurgba 
+small: iŋaɟuman 
+smell: mogba ŋambu 
+smoke: ɟuyŋgúdba | ɟuyŋgúdba 
+smooth: umangara 
+snake: lilin 
+son: geyu-ŋa 
+stand: waidgaŋ ŋaɟi 
+star: galiwira 
+star: galiwira wudbin 
+stone: garin 
+straight: ɟambadbi 
+suck: -ɟaŋmi- 
+sun: ŋu̪run | Nurun	ŋu̪run 
+sweet: galban 
+sweet: goiin 
+swim: ŋabirimi | ŋabirimi	ŋabolegbe 
+swim: ŋabolegbe | ŋabirimi	ŋabolegbe 
+tail: mururumin 
+take: -mowo- 
+take: ŋagan(bi) 
+there: daṇiɲa 
+thigh: ibər 
+thin: gunɟuwaran 
+think: ŋawuɟbana 
+three: murgun 
+throat: iŋanme 
+throw: ŋa-bil(ari) 
+throw: ŋa-waḍba 
+thunder: maŋuɾunan 
+today: gaya 
+tomorrow: miwara 
+tongue: idelin̪ | i-delin̪	ideli4 
+tooth: lira 
+tree: laiin | lain 
+turn: garmalin 
+turn: wirinana ŋabu(u) 
+vomit: ŋaɾemala 
+walk: ŋadaramini | warawad ŋanɟa 
+walk: ŋanɟi(ŋbe) | warawad ŋanɟa 
+walk: warawad ŋanɟa 
+wallaby: balgiɟ 
+warm: ŋaban 
+wash: -bo?nmi- 
+wash: ŋabomi 
+wash: ŋawololgi 
+water: aduima | wian 
+water: wian 
+weep: ŋáḷuyn 
+what: yamanda? 
+when: yaŋulaŋ? bara 
+where: gudamin 
+white: wereg | wereg-wereg 
+who: iŋgia? 
+wife: ŋoyu-ŋa 
+wind: bulun 
+wing: inamu 
+woman: gaṇḍan | gaṇḍan 
+woman: maŋali | gaṇḍan 
+woman: wilyan | gaṇḍan 
+wood: bainga 
+wood: banban 
+wood: wuɟa 
+woomera: balurgu 
+yellow: yugorolin 
+yesterday: ŋuyuguyu 
+yes: yoː 
+every: yigulu 
+ash: wolorin 
+bigness: ubod 
+large: ubod 
+come from: Na5aNan	ŋaɲaŋan 
+be dead: Nogbiri	ŋogbiri 
+dead: Nogbiri	ŋogbiri 
+fly: gaɟuri 
+fly v.: gaɟuri 
+left hand: i-namu	inamu 
+1 sg.: Naigi	ŋaiigi 
+be knowledgeable: ŋaɲaŋandi 
+lie down: ŋagurbi 
+head louse: didin 
+male: nolgin 
+much: igulu 
+multiple: igulu 
+several: igulu 
+flesh: iŋandaiɟ 
+hill: garin 
+title: 5iNi	ɲiŋi 
+nighttime: niwa 
+nose: i-ɟun 
+adulterous: lege	lègga 
+single: lege	lègga 
+that: lege	lègga 
+the: lege	lègga 
+unprincipled: lege	lègga 
+human: nolgin 
+human being: nolgin 
+rainy weather: wian 
+path: iTeN 
+route: iTeN 
+hide: yuwalam 
+little: iŋaɟuman 
+smallness: iŋaɟuman 
+rock: garin 
+grind: quiàmin 
+two: quiàmin 
+go: warawad ŋanɟa 
+whiteness: wereg-wereg 
+who?: iŋgia? 
+female: gaṇḍan 
+dull: winoḍban 
+serious: winoḍban 
+close: ɟeywéla 
+ner: ɟeywéla 

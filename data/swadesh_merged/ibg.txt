@@ -1,0 +1,331 @@
+all: ngamin 
+every: ngamin 
+ash: avu 
+ashes: avu 
+abdomen: gutuʼ	san 
+belly: gutuʼ	san 
+big: dakal 
+bigness: dakal 
+large: dakal 
+bird: mamanu-c	mammanuʼ 
+bite: kagaʼ	maccaga-c 
+black: ngi-si-c	ngisi 
+blood: daga 
+bone: tu-llang	tulaN	tulang 
+breast: susu	susu- 
+breasts: susu	susu- 
+burn: mat-tuggi 
+burn tr.: mat-tuggi 
+cloud: kunam 
+cold: lammin	lumay	malam-min 
+come: umarani	umaranni	umay 
+come from: umarani	umaranni	umay 
+be dead: matay 
+dead: matay 
+die: matay 
+dog: kitu 
+drink: inum	uminum 
+dry: namaga 
+ear: taliNa	talinga 
+earth: davvun 
+ground: davvun 
+land: davvun 
+soil: davvun 
+eat: kuman 
+egg: illug	illuk 
+eye: mata 
+feather: duddu-c	dudduʼ 
+fire: a-fi	afi	afuy 
+fish: manangoʼ	sira 
+fly: kagak	maccagag 
+fly v.: kagak	maccagag 
+foot: takki 
+full: pannu 
+give: yawaʼ 
+good: mapia	mapya	masippoʼ 
+green: berde	verde 
+hair: vu-c	vuʼ 
+hand: lima 
+left hand: lima 
+right: lima 
+head: ulu	ulu-c 
+hear: ginna	magginna	magina 
+heart: futu 
+horn: tagguk 
+1 sg.: sakan	so-c	so7	soʼ 
+I: sakan	so-c	so7	soʼ 
+kill: mappatay	patay 
+knee: atuk 
+be knowledgeable: ammu	macammu-c 
+know: ammu	macammu-c 
+leaf: don 
+lie: magidda 
+lie down: magidda 
+liver: agal 
+long: apaddu	apiddu 
+head louse: kutu	lita 
+louse: kutu	lita 
+male: lalaki 
+man: tolay 
+many: aru 
+much: aru 
+multiple: aru 
+several: aru 
+moon: vulan 
+hill: vukik 
+mountain: vukik 
+mouth: simu-c	simuʼ 
+name: Nagan	ngagan 
+title: Nagan	ngagan 
+neck: caralong	tangngak 
+new: bagu 
+night: gabi 
+nighttime: gabi 
+nose: iguN	igung 
+not: ari 
+adulterous: itté	taday	tadday 
+one: itté	taday	tadday 
+single: itté	taday	tadday 
+that: yari	yatun	yori	yuri 
+the: itté	taday	tadday 
+unprincipled: itté	taday	tadday 
+human: tolay 
+human being: tolay 
+person: tolay 
+rain: uran 
+rainy weather: uran 
+red: uzzin 
+path: dalan 
+road: dalan 
+route: dalan 
+root: ga-mu-c	gamuʼ 
+sand: daga-c	dagaʼ 
+say: kagi	mac-cagui 
+see: innan	masiNan	massingan 
+seed: vullung 
+sit: magitubang	tubang 
+hide: tab-bi-c	tabbiʼ	tabi7 
+skin: tab-bi-c	tabbiʼ	tabi7 
+sleep: katuruk	mae-catrug 
+little: baddi	baddi-c 
+small: baddi	baddi-c 
+smallness: baddi	baddi-c 
+smoke: atu-c	atuʼ 
+star: bitun 
+rock: batu 
+stone: batu 
+sun: bilak 
+swim: mat-tañao	tafuk 
+tail: ifu-c	ifuʼ 
+this: yaw	yawe 
+2 sg: sikaw 
+thou: sikaw 
+you: sikaw 
+tongue: zila 
+tooth: Nipan	ngipan 
+tree: kayu 
+grind: duwa	duwá	dwa 
+two: duwa	duwá	dwa 
+go: lakak	mal-lacag 
+walk: lakak	mal-lacag 
+hot: patu 
+warm: patu 
+water: danum 
+1 pl. inc.: sikami	sitam	sitta	sittam 
+we: sikami	sitam	sitta	sittam 
+we₁: sikami	sitam	sitta	sittam 
+what: anni 
+white: fu-raw	furaw 
+whiteness: fu-raw	furaw 
+who: sinni 
+who?: sinni 
+female: babay 
+woman: babay 
+yellow: ngila 
+distant: arayyu 
+far: arayyu 
+dull: dammoʼ	madam-mo-c 
+heavy: dammoʼ	madam-mo-c 
+serious: dammoʼ	madam-mo-c 
+close: aranni 
+near: aranni 
+ner: aranni 
+salt: asin 
+short: alinno-c	alinnoʼ 
+snake: iraw 
+thin: eppiʼ	makabbal 
+wind: pad-dag	paddak 
+earthworm: caralang	karalang 
+worm: caralang	karalang 
+year: dagun	ragun 
+3 sg.: yayya 
+he: yayya 
+she: yayya 
+2 pl.: sikamu	sikaw 
+ye: sikamu	sikaw 
+you all: sikamu	sikaw 
+3 pl.: ira 
+they: ira 
+here: taw 
+there: tari	tatun	turi 
+where: sitaw 
+where?: sitaw 
+when: kanni	sonu anni 
+when?: kanni	sonu anni 
+how: kunasi	kunnasi 
+how?: kunasi	kunnasi 
+some: karuan 
+few: baddi 
+other: duma	karwan	tanakwan 
+three: tallu	tallú 
+four: appa-c	appa?	appaʼ	appáq 
+five: lima	limá 
+broad: alawa 
+wide: alawa 
+wideness: alawa 
+fat: manteca	taba 
+thick: kannak	makannag	nakannak 
+narrow: atazziʼ 
+child: anaʼ 
+principal wife: atawa 
+wife: atawa 
+husband: atawa 
+his mother: yena 
+mother: yena 
+my mother: yena 
+father: yama 
+his father: yama 
+my father: yama 
+animal: ayam 
+forest: kakayuan	kakayuwan 
+woods: kakayuan	kakayuwan 
+branch: billaʼ	panga 
+stick: billaʼ	panga 
+fruit: vunga 
+flower: lappao	lappaw 
+grass: kad-do-c	kaddoʼ 
+cord: galuʼ	lubig 
+rope: galuʼ	lubig 
+flesh: carne	karne	pattak 
+meat: carne	karne	pattak 
+grease: manteca	taba 
+claw: kuku 
+fingernail: kuku 
+nail: kuku 
+leg: takki 
+arm: lima 
+wing: pa-ya-c	payaʼ 
+gut: sinay 
+guts: sinay 
+insides: sinay 
+intestine: sinay 
+intestines: sinay 
+back: licug	likuk 
+suck: sussup	sús-súp-pán 
+spit: lusak	mal-lusak 
+vomit: maguta	uta 
+blow: mas-su-c	sup 
+breath: inangoʼ	maginango-c 
+breathe: inangoʼ	maginango-c 
+laugh: galoʼ	maggalo-c 
+laughter: galoʼ	maggalo-c 
+cogitate: mappanono-c	panonoʼ 
+reflect: mappanono-c	panonoʼ 
+think: mappanono-c	panonoʼ 
+smell: aguk	magaguc 
+sniff: aguk	magaguc 
+afraid: anassing	maganas-sing 
+be afraid: anassing	maganas-sing 
+fear: anassing	maganas-sing 
+fright: anassing	maganas-sing 
+alive: manolay	tolay 
+be alive: manolay	tolay 
+life: manolay	tolay 
+live: manolay	tolay 
+living: manolay	tolay 
+fight: dama 
+hunt: manga-nù-c 
+beat: kanna	mappalu-c 
+hit: kanna	mappalu-c 
+strike: kanna	mappalu-c 
+cut: kattu	macattag 
+hack: kattu	macattag 
+cut open: bakki	paggaddua 
+split: bakki	paggaddua 
+pierce: dudduk	madduddug 
+stab: dudduk	madduddug 
+scratch: kabbang	maccabbang 
+dig: kokkok	macc-co-cco-c 
+tell lies: idda 
+stand: taddak	tumaddag 
+turn: buelta 
+turn around: buelta 
+turn round: buelta 
+drop: madan-na	tagaʼ 
+fall: madan-na	tagaʼ 
+grasp: matammi-c	tammiʼ 
+hold: matammi-c	tammiʼ 
+hold in arm: matammi-c	tammiʼ 
+squeeze: mappazzi	paggal 
+wring: mappazzi	paggal 
+rub: gugguʼ 
+wipe: funaʼ 
+wash: baggao 
+wash clothes: baggao 
+pull: guggun 
+push: tubbaʼ 
+shove: tubbaʼ 
+throw: mattabo-c	tabboʼ 
+bind: galuʼ	maggalu-c 
+fasten: galuʼ	maggalu-c 
+tie: galuʼ	maggalu-c 
+tie up: galuʼ	maggalu-c 
+sew: dageʼ	maddague-c 
+count: bilang	mabbilang 
+enumerate: bilang	mabbilang 
+number: bilang	mabbilang 
+tally: bilang	mabbilang 
+sing: kansiyon 
+have fun: gayam 
+play: gayam 
+flow: agiʼ	magagi-c 
+freeze: taggaʼ	yelo 
+swell: lappak 
+brook: bannag 
+river: bannag 
+stream: bannag 
+ocean: bebay 
+sea: bebay 
+dust: gav-vu-e	gavuʼ 
+fog: fung-ngo-c 
+sky: langi-c	langiʼ 
+snow: niebe 
+ice: yelo 
+blaze: tuggi 
+day: aggaw 
+daylight: aggaw 
+daytime: aggaw 
+old: dana 
+bad: marakay	marake-c 
+evil: marakay	marake-c 
+rot: badyu	nabadyu	navanno	navonno 
+rotten: badyu	nabadyu	navanno	navonno 
+dirty: madapíng	marapíng	marit-ta	nadaping 
+filthy: madapíng	marapíng	marit-ta	nadaping 
+soiled: madapíng	marapíng	marit-ta	nadaping 
+straight: derecho 
+sharp: matarám	nataram 
+blunt: mangurál	nangural 
+smooth: nadaluʼ 
+damp: nabasa 
+wet: nabasa 
+correct: kuruk	ustu 
+right side: ziwanan 
+left: zimigi	zimigui 
+at: ta 
+in: ta	unag 
+inside: ta	unag 
+with: anna	kavulun	konsu 
+and: anna 
+if: nu 
+because: garay	nakwa ta 

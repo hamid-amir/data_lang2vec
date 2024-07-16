@@ -1,0 +1,338 @@
+all: bubba | bubba	bubɪnkʰ	bubɪnkʰⁱ 
+all: bubɪnkʰ(ʲ | bubba	bubɪnkʰ	bubɪnkʰⁱ 
+ashes: daːra | daːra	daːrá	dáːraː 
+bark: kɔnɛ | kana	kɔnɛ	šóːleː 
+belly: sæ\lay | salay	salé	sæʼlay 
+big: gaːn | gannaneː	gaːn	hamɛnɪŋkʰ	hamʔaneː 
+big: hamɛnɪŋkʰ | gannaneː	gaːn	hamɛnɪŋkʰ	hamʔaneː 
+bird: č\iːd\a | čʔiːdʔá	čʼiːdʼa 
+bite: gama | gam-	gama	gɛm 
+bite: gɛm | gam-	gama	gɛm 
+black: ko\leːx | koleː-ga	koʼleːx 
+blood: č\eːǯ | C"ej	C"eji	čʔeːǯi	čʼeːǯ 
+bone: miːč\a | miC"	miC"a	mičʔa	miːčʼa 
+breast: ununa 
+burn: buʊs | bukkʔ-	tʔuww- 
+child: k\ala | kʔala	kʼala 
+claw: t\uːnga | tʔunga	tʼuːnga 
+cloud: waːlɛ | dukani	dummanši	waːlɛ 
+cold: sɨ\gɨr | kabbeːdʔaː	sirgaː	sɨʼgɨr 
+come: aːm | am	aːm	inta	inta-	intay	intay- 
+die: rre | bakat	bakkat-	re	re-	rey	rey-	rre 
+dog: wʊːčo | waCo	waččo	woSa	woša	wuCo	wʊːčo 
+drink: d\ub\ʲ | Tub	Tubi	d"ug	d"uw	dʔug-	dʔuw-	dʼubʼⁱ 
+dry: suganeːh | suganeːh	suggan-eː-g 
+ear: d\aga | Tag	Taga	d"aga	dʔaga	dʼaga 
+eat: iːt | it-	iːt	kʔaːm- 
+egg: bubuːle | bilbileː	bilibileː	bubuːle 
+eye: ɪːlɛ | ilE	ila	illa	ɪːlɛ 
+father: aːbbo 
+fat (n.): č\oːm(m)a 
+fire: ǯiːra | jir	jira	ǯiːra 
+fish: k\urt\u\me | k"urt"umay	k"urt"ume	kʔurtʔummay	kʔurtʔumme	kʼurtʼuʼme 
+five: umutta 
+fly (n.): taːya 
+foot: lukka 
+four: φoːla | foola	foːla	ɸoːla 
+give: uːwʲ | uww-	uːww-	uːwⁱ 
+good: dɛːnsa | dansá	dɛːnsa 
+grass: bɛːššɑ | bašá	bɛːššɑ	kólbaː 
+hair: orda | muga	orda 
+hand: aːnk | aNa	anga	ank	aːnk 
+head: muːga | muga	muːga 
+hear: aːkɛbʲ | akEb	akEbi	akab	akkab-	aːkɛbⁱ 
+heart: wɔːdɛna | wodana	wɔːdɛna 
+he/she: isa˗kka 
+he/she: išeː 
+he/she: iseː 
+he/she: išeː˗kka 
+he/she: isi 
+he/she: iši 
+he/she: ˗tta 
+horn: buːda | buda	buːda	buːdá 
+house: mina 
+how: maːma | maːma	maːmma 
+husband: ana 
+I: ani | ani	e	eː 
+I: eː | ani	e	eː 
+I: iː˗ja | ani	e	eː 
+I: iː˗tta | ani	e	eː 
+kill: siː | siy-	siː	siː- 
+knee: ˗gilba | -gilba	gilba 
+know: beːx | beːh-	beːk-	beːx 
+leaf: mɛːna | bak"ala	bakʔala	d"aga	dʔaga	mEn	mEna	mɛːna 
+liver: aːffɛla | afEla	afala	affala	aːffɛla	tiro 
+live: yeɗ˗ | taydʔ-	yedʔ-	yeɗ- 
+long: harč\aneːh | harčʔaneːg	harčʼaneːh 
+louse: iːbba | iba 
+man: lame | d"ira	lam	lame	lami	lammi 
+many: laboːh | labo	laboːh 
+meat: maːla 
+moon: a\gʊːn˗čo | agun-čo	aʼgʊːn-čo 
+mother: aːye | ayye	aːye 
+mountain: urra | deto	ura	urra 
+mouth: af\fay | aféː	afʼfay 
+name: mɛ\k\a | mEk"a	mak"a	makʔa	mɛʼkʼa 
+neck: koːke | koːke	marmari 
+new: hareya | haraya	harea	hareya	haːreá 
+night: jedʲ | jedⁱ	yed	yedi 
+one: mičča | d"eki	dʔekki	miC	miCa	micca	mičča 
+other: hi\gaːx | higa	hiyyaː	hiʼgaːx 
+rain: čeːna | misi	čeːna	čʔeːna 
+red: duwaːx | duwaː	duwaːx 
+road: daːwa | dawa 
+root: hi\d\eːna | hiddi	hiʼdʼeːna 
+sand: maːnčo | biya	maːnčo 
+say: hayɛn | hayɛn	i-	iy- | biya	maːnčo 
+seed: sɛnye | saɲɲeː	sɛnye 
+see: illalʲ | aNul	ilal	ilali	ilaːl-	illalⁱ 
+sit: taydɛn | taydɛn	taydʔ- 
+skin: go\ga | goga	gogá	goʼga 
+sky: hiʔlaːle | hilʔaːlé	hiʔlaːle 
+sleep: goːx | dosk-	goh-	goːx 
+smoke: hɪlilʲ | hilila	hɪlilⁱ 
+snake: hamɛs | hamasi	hamɛs 
+stand: k\aːn | kʔaːdʔ-	kʼaːn 
+star: t\olɪːnde | bizik"o	t"olind~e	t"olinte	tʔoːlinteː	tʼolɪːnde 
+stone: d\aːha | Taha	d"aga	d"aha	dʔaga	dʔaha	dʼaːha 
+sun: t\aːbaːra | hin7~iCo	hinʔ-iččo	t"abara	tʼaːbaːra 
+swim: daːhɛnʲ | daːh-	daːh-adʔ-	daːhɛnⁱ 
+tail: d\eːge | dʔeːgeː	dʼeːge 
+that: kaːč | kaːč | d"eki	dʔekki	miC	miCa	micca	mičča 
+they: insina˗kka | isinu 
+they: isina˗tta | isinu 
+they: isinu 
+they: isnó | isinu 
+thin: k\ɛlʔanʔeh | kʔaʔaneː	kʼɛlʔanʔeh	silleː 
+this: kɛʔnih 
+this: ku | kɛʔnih 
+this: tu | kɛʔnih 
+thou: aši | Se	aS	aSi	aši	ašinu	še 
+thou: še | Se	aS	aSi	aši	ašinu	še 
+thou: si˗iya | Se	aS	aSi	aši	ašinu	še 
+thou: si˗tta | Se	aS	aSi	aši	ašinu	še 
+three: fadya | fadi	fadya	øɔːdi 
+three: øɔːdi | fadi	fadya	øɔːdi 
+tongue: ar\ræb | arEb	arab	araba	arráb	arʼræb 
+tooth: iːlka | ilka	irk"a	irkʔa	iːlka 
+tree: ha\k\a | hak"a 
+two: lamʷ lama | lam	lama	lamu	lamᵘ 
+walk: mɛrʲ | laːdʔ- 
+warm: oyd\a | oydʔan	oydʼa 
+wash: ɗik\ | dʔik-	ɗikʼ 
+water: wa | wa	waː 
+we: naːnu | nanu	nins 
+we: nin˗ka | nanu	nins 
+we: ninsi | nanu	nins 
+we: nin˗ta | nanu	nins 
+we: nɪːns | nanu	nins 
+wet: k\ɔč\eːh | kʔočʔe	kʔočʔeː-g	kʼɔčʼeːh	čʔabeː 
+what: mitaʔ | mitaʔ	miya 
+what: miya | mitaʔ	miya 
+when: haynu 
+where: haballa | habala	haballa 
+white: t\udaːh | tʔuda	tʔudaː	tʼudaːh 
+who: aːy\da | aye	ayye	aːyʼda 
+who: ay(y)e | aye	ayye	aːyʼda 
+woman: aːmmɛn | ama	aːmmɛn 
+you: šin˗ka | Se	aS	aSi	aši	ašinu	še | aš	aši	šinu	šɪns 
+you: šinsi | Se	aS	aSi	aši	ašinu	še | aš	aši	šinu	šɪns 
+you: šin˗ta | Se	aS	aSi	aši	ašinu	še | aš	aši	šinu	šɪns 
+you: šinu | Se	aS	aSi	aši	ašinu	še | aš	aši	šinu	šɪns 
+you: šɪns | Se	aS	aSi	aši	ašinu	še | aš	aši	šinu	šɪns 
+every: bubba	bubɪnkʰ	bubɪnkʰⁱ 
+ash: daːra	daːrá	dáːraː 
+abdomen: salay	salé	sæʼlay 
+bigness: gannaneː	gaːn	hamɛnɪŋkʰ	hamʔaneː 
+large: gannaneː	gaːn	hamɛnɪŋkʰ	hamʔaneː 
+breasts: ununa 
+nail: tʔunga	tʼuːnga 
+talon: tʔunga	tʼuːnga 
+come from: am	aːm	inta	inta-	intay	intay- 
+be dead: bakat	bakkat-	re	re-	rey	rey-	rre 
+dead: bakat	bakkat-	re	re-	rey	rey-	rre 
+feather: baːlle	baːléː 
+fly: burr-	diːb-adʔ- 
+fly v.: burr-	diːb-adʔ- 
+full: huma	huːma	huːmaː 
+green: mikʔ-aː 
+left hand: aNa	anga	ank	aːnk 
+right: aNa	anga	ank	aːnk 
+1 sg.: ani	e	eː 
+be knowledgeable: beːh-	beːk-	beːx 
+lie: hirk-adʔ-	irk-adʔ- 
+lie down: hirk-adʔ-	irk-adʔ- 
+head louse: iba 
+male: lame	lammi 
+much: labo	laboːh 
+multiple: labo	laboːh 
+several: labo	laboːh 
+hill: deto	ura	urra 
+title: mEk"a	mak"a	makʔa	mɛʼkʼa 
+nighttime: jedⁱ	yed	yedi 
+nose: guna	guːna	suna 
+adulterous: d"eki	dʔekki	miC	miCa	micca	mičča 
+single: d"eki	dʔekki	miC	miCa	micca	mičča 
+the: d"eki	dʔekki	miC	miCa	micca	mičča 
+unprincipled: d"eki	dʔekki	miC	miCa	micca	mičča 
+human: d"ira	lam	lame	lami	lammi 
+human being: d"ira	lam	lame	lami	lammi 
+person: d"ira	lam	lame	lami	lammi 
+rainy weather: misi	čeːna	čʔeːna 
+path: dawa 
+route: dawa 
+round: lal-aːnčo 
+hide: goga	gogá	goʼga 
+little: dogayneː-g	čʔinʔa 
+small: dogayneː-g	čʔinʔa 
+smallness: dogayneː-g	čʔinʔa 
+rock: Taha	d"aga	d"aha	dʔaga	dʔaha	dʼaːha 
+2 sg: Se	aS	aSi	aši	ašinu	še 
+grind: lam	lama	lamu	lamᵘ 
+go: laːdʔ- 
+hot: oydʔan	oydʼa 
+1 pl. inc.: nanu	nins 
+we₁: nanu	nins 
+whiteness: tʔuda	tʔudaː	tʼudaːh 
+who?: aye	ayye	aːyʼda 
+female: ama	aːmmɛn 
+yellow: bóːreː 
+distant: bayyá 
+far: bayyá 
+dull: kʔurkʔeː-dʔ- 
+heavy: kʔurkʔeː-dʔ- 
+serious: kʔurkʔeː-dʔ- 
+close: hoytʔ-inna 
+near: hoytʔ-inna 
+ner: hoytʔ-inna 
+salt: sigiddu 
+short: hoytʔaneː-g 
+wind: bubbé	kabbi 
+earthworm: darreːmo	hiska 
+worm: darreːmo	hiska 
+year: bara	beri 
+3 sg.: isi 
+he: isi 
+she: isi 
+2 pl.: aš	aši	šinu	šɪns 
+ye: aš	aši	šinu	šɪns 
+you all: aš	aši	šinu	šɪns 
+3 pl.: isinu 
+here: kumʔa 
+there: ogodu	umʔa	šini 
+where?: habala	haballa 
+when?: haynu 
+how?: maːma	maːmma 
+broad: balʔaneː-g 
+wide: balʔaneː-g 
+wideness: balʔaneː-g 
+narrow: čʔikkʔó 
+principal wife: ama 
+wife: ama 
+his mother: ayye	aːye 
+my mother: ayye	aːye 
+his father: aːbbo 
+my father: aːbbo 
+forest: hoːra 
+woods: hoːra 
+fruit: illa 
+flower: daːdde 
+cord: gaːǯi	suri 
+rope: gaːǯi	suri 
+flesh: maːla 
+fat: gaːkʔó	čʼoːma	čʼoːmma 
+grease: gaːkʔó	čʼoːma	čʼoːmma 
+fingernail: tʔunga 
+leg: lukka 
+wing: koːli 
+gut: rimam usi 
+guts: rimam usi 
+insides: rimam usi 
+intestine: rimam usi 
+intestines: rimam usi 
+back: gaːssi	goːro	goːroː 
+suck: unun-. tʔuntʔ- 
+spit: tuf- 
+vomit: huːs-adʔ- 
+blow: ufuf-	ufuːf- 
+breath: hoːl-baːs-adʔ- 
+breathe: hoːl-baːs-adʔ- 
+laugh: dʔakkʔal- 
+laughter: dʔakkʔal- 
+cogitate: hed-adʔ- 
+reflect: hed-adʔ- 
+think: hed-adʔ- 
+smell: suːn-saːf-adʔ-	čʔinčʔaːfpadʔ-	čʼinɛkɛ 
+sniff: suːn-saːf-adʔ-	čʔinčʔaːfpadʔ-	čʼinɛkɛ 
+afraid: naʔa	náːso 
+be afraid: naʔa	náːso 
+fear: naʔa	náːso 
+fright: naʔa	náːso 
+alive: taydʔ-	yedʔ-	yeɗ- 
+be alive: taydʔ-	yedʔ-	yeɗ- 
+life: taydʔ-	yedʔ-	yeɗ- 
+living: taydʔ-	yedʔ-	yeɗ- 
+fight: adʔ-	walli utt- 
+hunt: duːl-	duːll-	saːd- 
+beat: nakʔ- 
+hit: nakʔ- 
+strike: nakʔ- 
+cut: mur-	murmur- 
+hack: mur-	murmur- 
+cut open: bakʔ- 
+split: bakʔ- 
+scratch: hokʔoːkʔ- 
+dig: haːdʔ-	kʔot-	lays- 
+tell lies: labb-eːdʔ- 
+drop: hal-	kʔol- 
+fall: hal-	kʔol- 
+grasp: gagar- 
+hold: gagar- 
+hold in arm: gagar- 
+squeeze: dʔuːdʔ-	tʔitʔ- 
+wring: dʔuːdʔ-	tʔitʔ- 
+rub: haːsiy-	hir-š-	sukkum-	sukum- 
+wipe: haːsiy-	hir-š-	sukkum-	sukum- 
+wash clothes: dʔik-	ɗikʼ 
+throw: adʔadʔ-	kar- 
+bind: hidʔ- 
+fasten: hidʔ- 
+tie: hidʔ- 
+tie up: hidʔ- 
+sew: doːy-is- 
+count: dʔig- 
+enumerate: dʔig- 
+number: dʔig- 
+tally: dʔig- 
+sing: šibir- 
+have fun: tab-daʔ- 
+play: tab-daʔ- 
+float: daːd-	fololo i- 
+brook: eːlá	lagi 
+river: eːlá	lagi 
+stream: eːlá	lagi 
+dust: buhó 
+fog: tʔuːri	waːla 
+blaze: bukkʔ-	tʔuww- 
+day: lasa	orraː-tteː 
+daylight: lasa	orraː-tteː 
+daytime: lasa	orraː-tteː 
+bad: yerá	yeráː 
+evil: yerá	yeráː 
+rot: sama 
+rotten: sama 
+dirty: tʔur-aːw-	čʔuraːw- 
+filthy: tʔur-aːw-	čʔuraːw- 
+soiled: tʔur-aːw-	čʔuraːw- 
+straight: daːb	sirro 
+sharp: čʔari 
+blunt: čʔar dʔab- 
+smooth: saːneː-ga 
+damp: kʔočʔe	kʔočʔeː-g	kʼɔčʼeːh	čʔabeː 
+correct: addadduba 
+right side: mirg-itté 
+left: bita 
+in: -ddi	giddi 
+inside: -ddi	giddi 
+and: -yya 
+if: marru	marruna 

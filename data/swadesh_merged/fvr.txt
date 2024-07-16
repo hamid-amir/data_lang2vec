@@ -1,0 +1,586 @@
+all: basom | basom	koroŋa	kul	qoro 
+all: koroŋa | basom	koroŋa	kul	qoro 
+all: kul | basom	koroŋa	kul	qoro 
+all: qoro | basom	koroŋa	kul	qoro 
+and: na 
+animal: ǯutaŋ lɔtaŋa | ǯutaŋ lɔtaŋa 
+ankle: fuːl 
+arm: d˗ɔŋaŋ fara 
+arm: duru 
+arm: kurunta 
+arrow: sambe 
+ashes: di | di	diː 
+ashes: diː | di	diː 
+back: ɲama | duweinsur	sɔr 
+back: duweinsur | duweinsur	sɔr 
+back: kəriŋ | duweinsur	sɔr 
+back: sɔr | duweinsur	sɔr 
+bad: giti | giti	ǯiti 
+bad: ǯiti | giti	ǯiti 
+belly: di | d-iːtɔ	di	díɔ̀ 
+belly: díɔ̀ | d-iːtɔ	di	díɔ̀ 
+belly: d˗iːtɔ | d-iːtɔ	di	díɔ̀ 
+big: apa | apa	aɸa	àppa 
+big: àppa | apa	aɸa	àppa 
+big: aφa | apa	aɸa	àppa 
+bird: dia | d-ia	dia	duːle 
+bird: d˗ia | d-ia	dia	duːle 
+bird: duːle | d-ia	dia	duːle 
+bite: əsi ~ ɛsa | əsi	ɛsa 
+bite: tall˗ ~ ˗all˗ | əsi	ɛsa 
+bitter: fùyya 
+black: dikɔ 
+blood: kɛwa | kEwa	kɛwa 
+blow: k˗uwɛ˗si | k-uwɛ-si 
+blow: ufura | k-uwɛ-si 
+bone: d˗aːru | d-aːru	d-àːru	daru 
+bone: d˗àːru | d-aːru	d-àːru	daru 
+boy: kwei 
+boy: ǯurɛduŋɔ 
+branch: d˗ɛrgaŋ | d-ɛrgaŋ 
+breast: dio | dio	n-ansu	nansu 
+breast: n˗ansu | dio	n-ansu	nansu 
+brother: bain 
+brother: bara 
+brother: bura 
+brother: ditan de 
+brother: duon 
+burn: su˗ 
+burn: su˗ ~ ˗uy˗ 
+burn: ˗uw˗i 
+burn: uwɔ˗si 
+butterfly: obà 
+butterfly: ufa 
+calf: firi 
+cheek: fula 
+cheek: tɛrgil 
+chest: kura 
+child: kwe | kwe	kwɛ 
+child: kwɛ | kwe	kwɛ 
+child: taka | kwe	kwɛ 
+chin: aːsu 
+cloud: kui | kui	kutu 
+cloud: kutu | kui	kutu 
+cold: dili | dili	lula 
+cold: lula | dili	lula 
+come: ˗ɛl | -ɛl	-ɛl-	Ela 
+come: ˗ɛl˗ | -ɛl	-ɛl-	Ela 
+count: iːlɔ 
+crocodile: n˗əmu 
+cut: ˗andi | -and-i	-andi	bed- 
+cut: ˗and˗i | -and-i	-andi	bed- 
+cut: bed˗ | -and-i	-andi	bed- 
+cut: ˗owi˗ | -and-i	-andi	bed- 
+daughter: kwe niu 
+day: dule 
+die: us˗uŋ | kusa	us-uŋ	usuN	wai 
+dig: urr˗ | urt-ɔ 
+dig: urt˗ɔ | urt-ɔ 
+dog: asa | asa	uniɛ 
+dog: uniɛ | asa	uniɛ 
+drink: aba | aba	ba	kebi 
+dry: futɔ 
+dust: suru | suru	suːru	turil 
+dust: suːru | suru	suːru	turil 
+dust: turil | suru	suːru	turil 
+ear: d˗iːlɔ | d-iːlɔ	dilo	diːlɔ 
+ear: diːlɔ | d-iːlɔ	dilo	diːlɔ 
+ear: k˗ | d-iːlɔ	dilo	diːlɔ 
+earth: bəru | d-ulɔ	lo 
+earth: d˗ulɔ | d-ulɔ	lo 
+earth: lo | d-ulɔ	lo 
+earth: suru | d-ulɔ	lo 
+eat: ˗am | -am 
+egg: dirɔ | d-iːrɔ-ŋ	dirɔ	diurɔ	díroŋ	kirɔ 
+egg: díroŋ | d-iːrɔ-ŋ	dirɔ	diurɔ	díroŋ	kirɔ 
+egg: d˗iːrɔ˗ŋ | d-iːrɔ-ŋ	dirɔ	diurɔ	díroŋ	kirɔ 
+egg: diurɔ | d-iːrɔ-ŋ	dirɔ	diurɔ	díroŋ	kirɔ 
+egg: kirɔ | d-iːrɔ-ŋ	dirɔ	diurɔ	díroŋ	kirɔ 
+elbow: kiː 
+emu: sumɔ 
+eye: irim | kuli	kuːŋi	n-uːŋi	nuNi	nui	nuːŋi 
+eye: kuli | kuli	kuːŋi	n-uːŋi	nuNi	nui	nuːŋi 
+eye: kuːŋi | kuli	kuːŋi	n-uːŋi	nuNi	nui	nuːŋi 
+eye: nui | kuli	kuːŋi	n-uːŋi	nuNi	nui	nuːŋi 
+eye: n˗uːŋi | kuli	kuːŋi	n-uːŋi	nuNi	nui	nuːŋi 
+eye: nuːŋi | kuli	kuːŋi	n-uːŋi	nuNi	nui	nuːŋi 
+eye: n˗uːŋiŋ tuːm | kuli	kuːŋi	n-uːŋi	nuNi	nui	nuːŋi 
+fall: ˗auya | -auya 
+far: kara 
+father: aba | aba	baːba 
+father: baːba | aba	baːba 
+fat (n.): dáì 
+fat (n.): de 
+fat (n.): dɛi 
+fear: kɛlɛ 
+feather: n˗ansa˗ŋ | n-ansa-ŋ 
+few: ita 
+fight: er | er	kirul	kɛrɛ 
+fight: kirul ~ kɛrɛ | er	kirul	kɛrɛ 
+fingernail: kaːru 
+finger: tɔri 
+finger: tɔri apa 
+fire: udu | udu	utu	uːduː 
+fire: uːduː | udu	utu	uːduː 
+fire: utu | udu	utu	uːduː 
+fish: fuːn | fun	fuːn	pɸon 
+fish: pφon | fun	fuːn	pɸon 
+five: etc. | os	ɔz	ɔːs 
+five: os | os	ɔz	ɔːs 
+five: ɔːs | os	ɔz	ɔːs 
+five: ɔz | os	ɔz	ɔːs 
+fly (n.): daui 
+fly (n.): d˗awi 
+fog: ɲɔlɔ | umɔ	ɲɔlɔ 
+fog: umɔ | umɔ	ɲɔlɔ 
+foot: tar | tar	taːr	taːriŋ dətin 
+foot: taːr | tar	taːr	taːriŋ dətin 
+foot: taːriŋ dətin | tar	taːr	taːriŋ dətin 
+foot: taːriŋ diɔ | tar	taːr	taːriŋ dətin 
+foot: tiːn | tar	taːr	taːriŋ dətin 
+forehead: əri 
+forest: ǯuta | ǯuta 
+four: diɛŋ ɔŋal | ɔngal	ɔŋal 
+four: ɔngal | ɔngal	ɔŋal 
+four: ɔŋal | ɔngal	ɔŋal 
+full: aφa | aɸa	fis	fiːs 
+full: fiːs | aɸa	fis	fiːs 
+girl: kweinyu 
+girl: kwe niu 
+give: ˗ani | -ani	-ani- 
+give: ˗ani˗ | -ani	-ani- 
+good: gameili | gameili	tule	tulɛ 
+good: tule | gameili	tule	tulɛ 
+good: tulɛ | gameili	tule	tulɛ 
+grass: dai | dai	dàí 
+grass: dàí | dai	dàí 
+green: kirɔ | kirɔ	kirɔː 
+green: kirɔː | kirɔ	kirɔː 
+guts: d˗ | d-	d-urtɔŋ	k-urtɔŋa 
+guts: d˗urtɔŋ | d-	d-urtɔŋ	k-urtɔŋa 
+guts: k˗urtɔŋa | d-	d-urtɔŋ	k-urtɔŋa 
+hair: ɲilu | niːluː	nulu	ɲilu 
+hair: niːluː | niːluː	nulu	ɲilu 
+hair: nulu | niːluː	nulu	ɲilu 
+hand: doːŋa | doNa	doːŋa 
+hand: dɔŋa˗ŋ tawa | doNa	doːŋa 
+head: tabu | tabu	tebu	təbu	tʌ-bu 
+head: tʌ˗bu | tabu	tebu	təbu	tʌ-bu 
+head: tebu | tabu	tebu	təbu	tʌ-bu 
+head: təbu | tabu	tebu	təbu	tʌ-bu 
+hear: kel˗am | kElam	kel-am	kɛlam 
+hear: kɛlam | kElam	kel-am	kɛlam 
+heart: kilma 
+heavy: diro | diro	dirɔ 
+heavy: dirɔ | diro	dirɔ 
+here: ini 
+he/she: dɛŋ 
+he/she: d˗ɛŋ 
+he/she: i˗ 
+he/she: iyɛ 
+he/she: iyɛsi 
+hit: ˗əldi˗ | -ladi	-ɛtɛr- 
+hit: ˗ɛtɛr˗ | -ladi	-ɛtɛr- 
+hit: ˗ladi | -ladi	-ɛtɛr- 
+hold: ˗ey˗ | -ey-	ti-yɔ 
+hold: ti˗yɔ | -ey-	ti-yɔ 
+hole: lo 
+horn: d˗ɔlba | d-ɔlba	dolba	dɔːlba 
+horn: dɔːlba | d-ɔlba	dolba	dɔːlba 
+house: tɔŋ 
+house: tɔːŋ 
+how: ai 
+husband: duo | duo	duːo 
+husband: duːo | duo	duːo 
+I: a˗ | a-	ka	ke 
+I: duiŋ | a-	ka	ke 
+I: d˗wiːŋ | a-	ka	ke 
+if: aba | aba	ki 
+if: ki | aba	ki 
+I: gi | a-	ka	ke 
+I: ka | a-	ka	ke 
+I: kasi gi | a-	ka	ke 
+I: ke | a-	ka	ke 
+jaw: zɔŋgɔbi 
+kill: ˗aw˗i | -aw-i 
+knee: kuru | kuru	kúrú 
+knee: kúrú | kuru	kúrú 
+know: ˗alun | -alun	-alunsi	-aluŋ-si 
+know: ˗aluŋ˗si | -alun	-alunsi	-aluŋ-si 
+know: ˗alunsi | -alun	-alunsi	-aluŋ-si 
+lake: bau | ro 
+lake: ro 
+laugh: ˗ala˗si | -ala-si 
+leaf: kuruŋ d˗ɛlma˗ŋ | kuruN dElmaN	kuruŋ d-ɛlma-ŋ 
+left: gɔrɔ 
+leg: kurmɔ | kurmɔ	taːr 
+leg: taːr | kurmɔ	taːr 
+lie: ˗uŋu˗ | -uŋu- 
+lightning: kwi ulmula 
+lip: bundi 
+liver: nundaŋiŋ kwe | nundENiN kwe	nundaŋiŋ kwe 
+long: kura 
+long: taːra | kura 
+louse: d˗ɛrmi | nina 
+louse: k˗iːna | nina 
+louse: n˗iːna˗ŋ | nina 
+man: d˗e | duldi	duɛ 
+man: duiŋaba | duldi	duɛ 
+man: duo | duldi	duɛ 
+man: k˗eya | duldi	duɛ 
+man: kwa | duldi	duɛ 
+many: sɔŋa | sɔŋa	sɔːŋa 
+many: sɔːŋa | sɔŋa	sɔːŋa 
+meat: niːŋɔ | n-iːnɔ	niːŋɔ | n-iːnɔ	niːno 
+meat: niːno | n-iːnɔ	niːŋɔ | n-iːnɔ	niːno 
+meat: n˗iːnɔ | n-iːnɔ	niːŋɔ | n-iːnɔ	niːno 
+moon: dual | dual	duwal	duːan 
+moon: duːan | dual	duwal	duːan 
+moon: duwal | dual	duwal	duːan 
+mosquito: kia 
+mother: ama | ama	aya	iyu 
+mother: aya | ama	aya	iyu 
+mother: iyu | ama	aya	iyu 
+mother: liye | ama	aya	iyu 
+mountain: foːgo | foːgo	fugo	fuka	pugo 
+mountain: fuːgɔ | foːgo	fugo	fuka	pugo 
+mountain: fuka | foːgo	fugo	fuka	pugo 
+mountain: ŋɔrra | foːgo	fugo	fuka	pugo 
+mountain: pugo | foːgo	fugo	fuka	pugo 
+mouth: uːdɔ | utɔ	uːdɔ 
+mouth: utɔ | utɔ	uːdɔ 
+name: kario | kario	kona 
+name: kona | kario	kona 
+narrow: makɛ 
+near: dakɛ 
+neck: kui | kui	kwi 
+neck: kwi | kui	kwi 
+new: d˗iwɔ | d-iwɔ	diwo 
+night: lo lul | lo lul	lul	luːl 
+night: lul | lo lul	lul	luːl 
+night: luːl | lo lul	lul	luːl 
+nose: dɔrmi | d-ɔrmi	dormi	dɔːrmi 
+not: a ... ba | a … ba	a-ba 
+not: a˗ba | a … ba	a-ba 
+not: fagat | a … ba	a-ba 
+not: la | a … ba	a-ba 
+old: tɔi 
+one: dɪːg | dik	dɪːg	tok	tɔk 
+one: dik | dik	dɪːg	tok	tɔk 
+one: ɛwɛl | dik	dɪːg	tok	tɔk 
+one: tɔk | dik	dɪːg	tok	tɔk 
+other: kɛr 
+person: duɛ | duldi	duɛ 
+person: duldi | duldi	duɛ 
+pull: aŋgil˗ɔ 
+pull: ˗ɛll˗ɔ 
+push: ˗ɛrgi˗ 
+rain: ara | ara	kwi 
+rain: kui | ara	kwi 
+rain: kwi | ara	kwi 
+rain: riŋ˗ɔ | ara	kwi 
+rat: dudu 
+rat: d˗utu 
+red: fuka 
+right: suru | doNa	doːŋa | suru	súrú 
+right: súrú | doNa	doːŋa | suru	súrú 
+river: baːɲ | lolong	ro 
+river: lolong | lolong	ro 
+river: lolɔŋ | lolong	ro 
+river: ro | lolong	ro 
+road: dɔra | dura 
+road: d˗ura | dura 
+root: d˗iːyiŋ | d-iːyiŋ 
+rope: bot 
+rotten: maŋa 
+round: d˗ɔrol | d-ɔrol 
+salt: d˗ɛra | d-ɛra	k-ɛra	kerra	kɛrɛ 
+salt: k˗ɛra | d-ɛra	k-ɛra	kerra	kɛrɛ 
+salt: kɛrɛ | d-ɛra	k-ɛra	kerra	kɛrɛ 
+salt: kerra | d-ɛra	k-ɛra	kerra	kɛrɛ 
+sand: ŋaiɲ 
+say: aŋal˗si | -si | ŋaiɲ 
+say: irsiŋ˗ɔ | -si | ŋaiɲ 
+say: ˗si | -si | ŋaiɲ 
+say: uwa | -si | ŋaiɲ 
+say: uː˗wa˗si | -si | ŋaiɲ 
+scratch: irgiɲ˗ɔ | irgiɲ-ɔ 
+see: ˗agil | -agil	-əgil-	bgil	jbgil	kegila 
+seed: d˗ɔla˗ŋ | d-ɔla-ŋ 
+see: ˗əgil˗ | -agil	-əgil-	bgil	jbgil	kegila 
+sew: atig˗ɔ | awi 
+sew: awi 
+short: bute 
+shoulder: katab 
+sister: bara 
+sister: dada 
+sister: diten niu 
+sister: niu 
+sit: ˗au | -au	iŋ-ɔ	ɔːŋ 
+sit: iŋ˗ɔ | -au	iŋ-ɔ	ɔːŋ 
+sit: ɔːŋ | -au	iŋ-ɔ	ɔːŋ 
+skin: ay˗ɔ 
+skin: d˗ɛrma 
+sky: daulo | daulo	ǯauwil	ǯawil 
+sky: ǯauwil | daulo	ǯauwil	ǯawil 
+sky: ǯawil | daulo	ǯauwil	ǯawil 
+sleep: ˗uŋu | -uŋu 
+small: digi | digi	iti	itini 
+small: iti | digi	iti	itini 
+small: itini | digi	iti	itini 
+smell: imiŋ˗si | imiŋ-si 
+smoke: sul 
+smooth: biriɲa 
+snake: n˗uːm | n-uːm	nuːm 
+snake: nuːm | n-uːm	nuːm 
+snow: ɔraɲ 
+son: kwe de 
+sour: fuyɛ 
+sour: raɲa 
+spit: kirgɔ 
+spit: nomu 
+spit: ˗uluŋ˗ɔla 
+split: arr˗ɔ | arr-ɔ 
+split: kariŋɔ | arr-ɔ 
+star: oːri | oːri	uri	uːdɔ 
+star: uːdɔ | oːri	uri	uːdɔ 
+star: uri | oːri	uri	uːdɔ 
+stone: d˗ido | d-ido	d-iːtɔ	dito 
+stone: d˗iːtɔ | d-ido	d-iːtɔ	dito 
+stone: taru | d-ido	d-iːtɔ	dito 
+straight: wərig 
+sun: dule | dule	duːlɛ 
+sun: duːlɛ | dule	duːlɛ 
+sweet: nasu 
+sweet: naːsuŋ kəbi 
+swell: leya 
+tail: d˗əwi | d-əwi 
+take: ˗ai 
+take: ˗ei 
+take: ˗ull˗u 
+take: ǯabuŋ 
+that: ɛn | illa	ɛn	ɛŋɛ | dik	dɪːg	tok	tɔk 
+that: ɛŋɛ | illa	ɛn	ɛŋɛ | dik	dɪːg	tok	tɔk 
+that: illa | illa	ɛn	ɛŋɛ | dik	dɪːg	tok	tɔk 
+that: k˗illa | illa	ɛn	ɛŋɛ | dik	dɪːg	tok	tɔk 
+there: illa 
+they: d˗iɛŋ | iyɛŋ	k-	ŋk- 
+they: duaŋ | iyɛŋ	k-	ŋk- 
+they: iyɛŋ | iyɛŋ	k-	ŋk- 
+they: k˗ | iyɛŋ	k-	ŋk- 
+they: ŋk˗ | iyɛŋ	k-	ŋk- 
+they: yaŋa | iyɛŋ	k-	ŋk- 
+they: yaŋasi | iyɛŋ	k-	ŋk- 
+thigh: d˗iwil 
+thin: ɲɛtigɔ 
+think: ˗aba | -aba 
+this: idi | idi	in 
+this: in | idi	in 
+this: k˗in | idi	in 
+thou: b˗ | ji	ǯi	ǯi-	ǯ̬e- 
+thou: bi | ji	ǯi	ǯi-	ǯ̬e- 
+thou: biŋasi gi | ji	ǯi	ǯi-	ǯ̬e- 
+thou: diŋ | ji	ǯi	ǯi-	ǯ̬e- 
+thou: d˗iːŋ | ji	ǯi	ǯi-	ǯ̬e- 
+thou: diŋi | ji	ǯi	ǯi-	ǯ̬e- 
+thou: duɛŋ | ji	ǯi	ǯi-	ǯ̬e- 
+thou: d˗wiɛŋ | ji	ǯi	ǯi-	ǯ̬e- 
+thou: gi | ji	ǯi	ǯi-	ǯ̬e- 
+thou: gibiŋa | ji	ǯi	ǯi-	ǯ̬e- 
+thou: hai huakin | ji	ǯi	ǯi-	ǯ̬e- 
+thou: ǯ̬e˗ | ji	ǯi	ǯi-	ǯ̬e- 
+thou: ǯi | ji	ǯi	ǯi-	ǯ̬e- 
+thou: ǯi˗ | ji	ǯi	ǯi-	ǯ̬e- 
+thou: ǯisi gi | ji	ǯi	ǯi-	ǯ̬e- 
+three: diɛŋ iːs | iis	is	iːs 
+three: is | iis	is	iːs 
+three: iːs | iis	is	iːs 
+throat: gərəŋgərəŋ 
+throat: ɔlɔŋ 
+throw: a˗miŋi | a-miŋi 
+thunder: deil 
+thunder: deyil 
+thunder: kwi komala 
+tie: irgɔ 
+tie: ul˗ɔ | irgɔ 
+today: nato 
+today: natu 
+tomorrow: ɛlɛl 
+tomorrow: saːri 
+tongue: d˗aːli | d-aːli	dali	daːli 
+tongue: daːli | d-aːli	dali	daːli 
+tongue: kalinta | d-aːli	dali	daːli 
+tooth: aŋgiriŋ d˗agi | d-agi	dagi 
+tooth: dagi | d-agi	dagi 
+tooth: d˗agi | d-agi	dagi 
+tooth: k˗ | d-agi	dagi 
+tree: kuru 
+tree: kùrú | kuru 
+two: au | au	awu	gowu	gɔu	weu 
+two: awu | au	awu	gowu	gɔu	weu 
+two: gɔu | au	awu	gowu	gɔu	weu 
+two: gowu | au	awu	gowu	gɔu	weu 
+two: ker | au	awu	gowu	gɔu	weu 
+two: weu | au	awu	gowu	gɔu	weu 
+unripe: kole 
+vagina: sandi 
+vomit: ˗ɔlɔg˗ | -ɔlɔg- 
+walk: ˗ɛ | ilŋi 
+walk: ˗ɛ˗ | ilŋi 
+walk: ˗əki˗a | ilŋi 
+walk: ˗ekio | ilŋi 
+walk: ˗ɛŋ | ilŋi 
+walk: ilŋi 
+walk: ˗o | ilŋi 
+walk: ˗ɔ | ilŋi 
+warm: toka 
+warm: tɔkɛ | toka 
+wash: aliŋ˗ɔ | al-ɔ 
+wash: al˗ɔ | al-ɔ 
+water: kɔro | koro	kɔro	kɔ̀rɔ̀ 
+water: kɔ̀rɔ̀ | koro	kɔro	kɔ̀rɔ̀ 
+water: suːn | koro	kɔro	kɔ̀rɔ̀ 
+we: daiŋ | ki 
+we: d˗aiŋ | ki 
+weep: kan˗ǯɔm 
+we: gikiŋɛ 
+we: k˗ | ki 
+we: ki 
+we: ki˗ 
+we: kiŋasi gi 
+we: kuasona | ki 
+wet: ilim | wɛsɛ 
+wet: wɛsɛ 
+what: e | ka 
+what: ka 
+when: naːn 
+where: al 
+white: futa | futa	pɔta 
+white: pɔta | futa	pɔta 
+who: kiː 
+wide: kɔra˗i | kɔra-i	waːsiyɛ 
+wide: waːsiyɛ | kɔra-i	waːsiyɛ 
+wife: duena | duena	dwənia 
+wife: dwənia | duena	dwənia 
+wind: daulu | d-aulu	daulu 
+wind: d˗aulu | d-aulu	daulu 
+wing: n˗ansa˗ŋ | n-ansa-ŋ 
+with: ki 
+woman: duwoɲa | duwoɲa	ya kurɛ 
+woman: farn˗i | duwoɲa	ya kurɛ 
+woman: ya kurɛ | duwoɲa	ya kurɛ 
+wood: aːr 
+wood: bəri 
+year: ayɛ 
+yellow: fua | fua	fuwa 
+yellow: fuwa | fua	fuwa 
+yes: e 
+yesterday: kəni 
+every: basom	koroŋa	kul	qoro 
+ash: di	diː 
+abdomen: d-iːtɔ	di	díɔ̀ 
+bigness: apa	aɸa	àppa 
+large: apa	aɸa	àppa 
+breasts: dio	n-ansu	nansu 
+come from: -ɛl	-ɛl-	Ela 
+be dead: kusa	us-uŋ	usuN	wai 
+dead: kusa	us-uŋ	usuN	wai 
+ground: d-ulɔ	lo 
+land: d-ulɔ	lo 
+soil: d-ulɔ	lo 
+left hand: doNa	doːŋa 
+1 sg.: a-	ka	ke 
+be knowledgeable: -alun	-alunsi	-aluŋ-si 
+lie down: -uŋu- 
+head louse: nina 
+male: duiŋaba	duo 
+much: sɔŋa	sɔːŋa 
+multiple: sɔŋa	sɔːŋa 
+several: sɔŋa	sɔːŋa 
+flesh: n-iːnɔ	niːŋɔ 
+hill: foːgo	fugo	fuka	pugo 
+title: kario	kona 
+nighttime: lo lul	lul	luːl 
+adulterous: dik	dɪːg	tok	tɔk 
+single: dik	dɪːg	tok	tɔk 
+the: dik	dɪːg	tok	tɔk 
+unprincipled: dik	dɪːg	tok	tɔk 
+human: duldi	duɛ 
+human being: duldi	duɛ 
+rainy weather: ara	kwi 
+path: dura 
+route: dura 
+little: digi	iti	itini 
+smallness: digi	iti	itini 
+rock: d-ido	d-iːtɔ	dito 
+2 sg: ji	ǯi	ǯi-	ǯ̬e- 
+you: ji	ǯi	ǯi-	ǯ̬e- 
+grind: au	awu	gowu	gɔu	weu 
+go: ilŋi 
+hot: toka 
+1 pl. inc.: ki 
+we₁: ki 
+whiteness: futa	pɔta 
+who?: kiː 
+female: duwoɲa	ya kurɛ 
+distant: kara 
+dull: diro	dirɔ 
+serious: diro	dirɔ 
+close: dakɛ 
+ner: dakɛ 
+2 pl.: b-	bi	hai huakin 
+ye: b-	bi	hai huakin 
+you all: b-	bi	hai huakin 
+3 pl.: iyɛŋ	k-	ŋk- 
+where?: al 
+when?: naːn 
+how?: ai 
+broad: kɔra-i	waːsiyɛ 
+wideness: kɔra-i	waːsiyɛ 
+principal wife: duena	dwənia 
+his mother: ama	aya	iyu 
+my mother: ama	aya	iyu 
+his father: aba	baːba 
+my father: aba	baːba 
+woods: ǯuta 
+stick: d-ɛrgaŋ 
+cord: bot 
+fat: dáì	dɛi 
+grease: dáì	dɛi 
+claw: kaːru 
+nail: kaːru 
+gut: d-	d-urtɔŋ	k-urtɔŋa 
+insides: d-	d-urtɔŋ	k-urtɔŋa 
+intestine: d-	d-urtɔŋ	k-urtɔŋa 
+intestines: d-	d-urtɔŋ	k-urtɔŋa 
+laughter: -ala-si 
+cogitate: -aba 
+reflect: -aba 
+sniff: imiŋ-si 
+afraid: kɛlɛ 
+be afraid: kɛlɛ 
+fright: kɛlɛ 
+beat: -ladi	-ɛtɛr- 
+strike: -ladi	-ɛtɛr- 
+hack: -and-i	-andi	bed- 
+cut open: arr-ɔ 
+pierce: -owi- 
+stab: -owi- 
+drop: -auya 
+grasp: -ey-	ti-yɔ 
+hold in arm: -ey-	ti-yɔ 
+wash clothes: al-ɔ 
+bind: irgɔ 
+fasten: irgɔ 
+tie up: irgɔ 
+enumerate: iːlɔ 
+number: iːlɔ 
+tally: iːlɔ 
+brook: lolong	ro 
+stream: lolong	ro 
+daylight: dule 
+daytime: dule 
+evil: giti	ǯiti 
+rot: maŋa 
+damp: wɛsɛ 
+right side: suru	súrú 

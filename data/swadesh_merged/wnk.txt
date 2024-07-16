@@ -1,0 +1,262 @@
+all: dúka 
+every: dúka 
+ash: kotung 
+ashes: kotung 
+abdomen: kabu 
+belly: kabu 
+big: bakul 
+bigness: bakul 
+large: bakul 
+bird: mawurung 
+bite: kahi 
+black: meting 
+blood: ra	rá 
+bone: ri	rí 
+breast: huhu 
+breasts: huhu 
+burn: túnu 
+burn tr.: túnu 
+cloud: robang 
+cold: maringu 
+come: omiN	òming 
+come from: omiN	òming 
+be dead: mati 
+dead: mati 
+die: mati 
+dog: ahu 
+drink: inuN	inung 
+dry: kadoku 
+ear: kahilu	wokahílu 
+eat: angu 
+egg: tilu 
+eye: mata	wo-mata 
+feather: wolu 
+fire: api 
+fish: kaboku 
+fly: wurung 
+fly v.: wurung 
+good: kalong 
+green: moru 
+hair: logi 
+hand: lima 
+left hand: lima 
+right: lima 
+head: katiku 
+hear: raNu	ràngu 
+1 sg.: 5ouwa	nyouwa 
+I: 5ouwa	nyouwa 
+kill: hamati 
+be knowledgeable: pengu 
+know: pengu 
+leaf: rou 
+lie: matoru 
+lie down: matoru 
+liver: ati 
+long: malai 
+head louse: wutu	wútu 
+louse: wutu	wútu 
+male: moni 
+man: tou 
+moon: wúlang 
+mouth: aʼa 
+name: Nara	ngara 
+title: Nara	ngara 
+neck: koku 
+new: buaNu	buangu 
+night: riduN	rídung 
+nighttime: riduN	rídung 
+nose: iru	íru 
+adulterous: haNi	hangi 
+one: haNi	hangi 
+single: haNi	hangi 
+that: nou 
+the: haNi	hangi 
+unprincipled: haNi	hangi 
+human: tou 
+human being: tou 
+person: tou 
+rain: urang 
+rainy weather: urang 
+red: rara 
+path: laraNi	larangí 
+road: laraNi	larangí 
+route: laraNi	larangí 
+root: lolu 
+sand: kòrah 
+say: panewi 
+see: ita 
+sit: ngodu 
+hide: kalitu 
+skin: kalitu 
+sleep: yuda 
+little: mèra 
+small: mèra 
+smallness: mèra 
+smoke: awu 
+star: kapea 
+rock: watu 
+stone: watu 
+swim: ngani 
+tail: kaiku 
+this: nei 
+2 sg: ou 
+thou: ou 
+you: ou 
+tongue: lema	lèma 
+tooth: woNidu	wongidu 
+grind: duba	dúba 
+two: duba	dúba 
+go: halaku 
+walk: halaku 
+hot: wajal 
+warm: wajal 
+water: wei 
+1 pl. inc.: 5iema	iata	nyiema 
+we: 5iema	iata	nyiema 
+we₁: 5iema	iata	nyiema 
+what: ga	giara 
+white: kaka 
+whiteness: kaka 
+who: gera	giara 
+who?: gera	giara 
+female: wawini 
+woman: wawini 
+yellow: kunyi 
+distant: marou 
+far: marou 
+dull: botu 
+heavy: botu 
+serious: botu 
+close: marane 
+near: marane 
+ner: marane 
+salt: mahing 
+short: padak 
+snake: màdu 
+thin: manípih 
+wind: ngílu 
+earthworm: lila 
+worm: lila 
+year: doungu 
+2 pl.: nyemi 
+ye: nyemi 
+you all: nyemi 
+3 pl.: hàmu 
+they: hàmu 
+where: bi / be 
+where?: bi / be 
+when: pirang 
+when?: pirang 
+how: giki 
+how?: giki 
+other: heka 
+three: tilu 
+four: patu 
+five: lima 
+broad: luaro 
+wide: luaro 
+wideness: luaro 
+fat: kawahu 
+thick: makapal 
+narrow: hadànga 
+principal wife: arawei 
+wife: arawei 
+husband: lá 
+his mother: iena 
+mother: iena 
+my mother: iena 
+father: ama 
+his father: ama 
+my father: ama 
+forest: òmang 
+woods: òmang 
+fruit: wua 
+flower: wala 
+grass: rútu 
+cord: kalarung 
+rope: kalarung 
+flesh: rou 
+meat: rou 
+grease: kawahu 
+wing: kapa 
+gut: tanei 
+guts: tanei 
+insides: tanei 
+intestine: tanei 
+intestines: tanei 
+back: kadhenga 
+suck: haboʼu 
+spit: padonyi 
+vomit: muta 
+blow: pou 
+breath: hangahu 
+breathe: hangahu 
+laugh: malik 
+laughter: malik 
+cogitate: pangadang 
+reflect: pangadang 
+think: pangadang 
+smell: ngèdi 
+sniff: ngèdi 
+afraid: mangeat 
+be afraid: mangeat 
+fear: mangeat 
+fright: mangeat 
+alive: morik 
+be alive: morik 
+life: morik 
+live: morik 
+living: morik 
+hunt: kalola 
+beat: palu 
+hit: palu 
+strike: palu 
+cut: pogu 
+hack: pogu 
+cut open: bera 
+split: bera 
+scratch: kaja 
+dig: hàka 
+stand: dedi 
+drop: manaʼu 
+fall: manaʼu 
+grasp: hamanu 
+hold: hamanu 
+hold in arm: hamanu 
+squeeze: pahu 
+wring: pahu 
+throw: kabena 
+bind: pongu 
+fasten: pongu 
+tie: pongu 
+tie up: pongu 
+sew: kítu 
+count: yapu 
+enumerate: yapu 
+number: yapu 
+tally: yapu 
+flow: lai 
+lake: tàma 
+ocean: tahik 
+sea: tahik 
+dust: kubur 
+fog: habuang 
+sky: awang 
+bad: da kalong 
+evil: da kalong 
+rot: mohung 
+rotten: mohung 
+dirty: kamèting 
+filthy: kamèting 
+soiled: kamèting 
+sharp: tama 
+blunt: kadoʼo 
+damp: baha 
+wet: baha 
+right side: lawana 
+left: lalei 
+at: ta 
+in: ta rongu 
+inside: ta rongu 
+and: dàka 
+if: a	atau kanaka 

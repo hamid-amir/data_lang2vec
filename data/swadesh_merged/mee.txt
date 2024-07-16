@@ -1,0 +1,266 @@
+all: kaʼrolu 
+every: kaʼrolu 
+ash: kaʼḇau	ʼsausau 
+ashes: kaʼḇau	ʼsausau 
+abdomen: siana 
+belly: siana 
+big: bulau 
+bigness: bulau 
+large: bulau 
+bird: manu 
+bite: ʼkalatote 
+black: saisaiŋa 
+blood: toto	ʼtoto 
+bone: gi	ʼgina 
+breast: siu	ʼsiu|na 
+breasts: siu	ʼsiu|na 
+burn: ʼtun|e 
+burn tr.: ʼtun|e 
+cloud: mukmukua 
+cold: marusu 
+come: atu	ʼatu 
+come from: atu	ʼatu 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: gaube	gauḇe 
+drink: inu	ʼinu 
+dry: galgalaŋ 
+ear: loNa	loŋana 
+eat: ʼkani 
+egg: kaʼtona 
+eye: kana	mata	matana 
+feather: manu bulʼbuna 
+fire: sia	ʼsia 
+fish: lea	ʼlea 
+fly: ʼlolo 
+fly v.: ʼlolo 
+good: pe 
+green: ʼkɛr kɛraŋ 
+hair: gilina bulbuna 
+hand: kama	kaʼmana 
+left hand: kama	kaʼmana 
+right: kama	kaʼmana 
+head: ʼkun:a 
+hear: loN	loNo	loŋ	loŋo 
+1 sg.: iau 
+I: iau 
+kill: ʼsapune 
+be knowledgeable: ʼlomatana 
+know: ʼlomatana 
+leaf: lau 
+lie: keno 
+lie down: keno 
+liver: lo	ʼlona 
+long: gaʼḇili 
+head louse: kutu	ʼkutu 
+louse: kutu	ʼkutu 
+male: ʼapanuŋ 
+man: axau	ʼaǥau 
+moon: ʼin:a 
+mouth: ʼkɔna 
+name: gia	giana 
+title: gia	giana 
+neck: ʼgana 
+new: pau 
+night: rixo	ʼriǥo 
+nighttime: rixo	ʼriǥo 
+nose: isu	isu|rumakia 
+adulterous: kena	čakɛn 
+one: kena	čakɛn 
+single: kena	čakɛn 
+that: ʼiala 
+the: kena	čakɛn 
+unprincipled: kena	čakɛn 
+human: axau	ʼaǥau 
+human being: axau	ʼaǥau 
+person: axau	ʼaǥau 
+rain: kue 
+rainy weather: kue 
+red: ʼtɛnte 
+path: pamau	paʼmau 
+road: pamau	paʼmau 
+route: pamau	paʼmau 
+root: kuʼla|na 
+sand: ḇai 
+say: paŋamoloǥa 
+see: kele 
+sit: ʼtara 
+hide: patu	paʼtuna 
+skin: patu	paʼtuna 
+sleep: kenrau 
+little: sina 
+small: sina 
+smallness: sina 
+smoke: sia kaʼkaina 
+star: mata	ʼmata 
+rock: lol:o	lolo 
+stone: lol:o	lolo 
+swim: ui	ʼgoeŋa 
+tail: boʼrona 
+this: oʼlɛkia 
+2 sg: one 
+thou: one 
+you: one 
+tongue: tENEtENkia	tɛŋɛʼtɛŋkia 
+tooth: NiNi	ŋiŋina 
+grind: lua	čalu 
+two: lua	čalu 
+go: tɔ 
+walk: tɔ 
+hot: ʼmampo 
+warm: ʼmampo 
+water: me 
+1 pl. inc.: ita	maŋ 
+we: ita	maŋ 
+we₁: ita	maŋ 
+what: ʼtaru 
+white: kaḇoʼḇoŋa 
+whiteness: kaḇoʼḇoŋa 
+who: tai 
+who?: tai 
+female: ʼaḇali 
+woman: ʼaḇali 
+yellow: ʼŋaŋo 
+distant: ŋaʼtauǥa 
+far: ŋaʼtauǥa 
+dull: ʼmæna 
+heavy: ʼmæna 
+serious: ʼmæna 
+close: koʼkoro 
+near: koʼkoro 
+ner: koʼkoro 
+salt: poai 
+short: ʼmɔro 
+snake: mue 
+thin: luŋagina 
+wind: boḇole	iso 
+earthworm: ʼonte 
+worm: ʼonte 
+year: pɛsiŋmaʼtana 
+2 pl.: one 
+ye: one 
+you all: one 
+3 pl.: ri 
+they: ri 
+where: ka iɛtai 
+where?: ka iɛtai 
+when: ŋa pia 
+when?: ŋa pia 
+how: minalɛtei 
+how?: minalɛtei 
+other: paʼtoto 
+three: mologi	čamoluik 
+four: tugulu	čacugul 
+five: ilman 
+broad: oʼpana 
+wide: oʼpana 
+wideness: oʼpana 
+fat: monʼmona 
+thick: luŋa buʼlau 
+narrow: ʼpitu 
+principal wife: ʼnapeŋana 
+wife: ʼnapeŋana 
+husband: ʼnatale 
+his mother: nau 
+mother: nau 
+my mother: nau 
+father: papa 
+his father: papa 
+my father: papa 
+forest: ʼurapuna 
+woods: ʼurapuna 
+branch: beǥa kamana 
+stick: beǥa kamana 
+fruit: ʼkʌn:a 
+flower: luʼguna 
+grass: ʼpaili 
+cord: ualo 
+rope: ualo 
+flesh: marʼkali 
+meat: marʼkali 
+grease: monʼmona 
+wing: paʼpana 
+gut: ʼlalaŋana 
+guts: ʼlalaŋana 
+insides: ʼlalaŋana 
+intestine: ʼlalaŋana 
+intestines: ʼlalaŋana 
+back: ruʼmena 
+suck: ʼrume 
+spit: ʼripi 
+vomit: ʼmuta 
+blow: iso 
+breath: unala matue 
+breathe: unala matue 
+laugh: ʼmalili 
+laughter: ʼmalili 
+cogitate: loʼkʌn:ʌn:ʌ 
+reflect: loʼkʌn:ʌn:ʌ 
+think: loʼkʌn:ʌn:ʌ 
+smell: ʼsiuŋe 
+sniff: ʼsiuŋe 
+afraid: maʼtau 
+be afraid: maʼtau 
+fear: maʼtau 
+fright: maʼtau 
+alive: ʼmauli 
+be alive: ʼmauli 
+life: ʼmauli 
+live: ʼmauli 
+living: ʼmauli 
+hunt: ʼkelatɔ 
+beat: ʼbalia 
+hit: ʼbalia 
+strike: ʼbalia 
+cut: koḇue 
+hack: koḇue 
+cut open: lopale 
+split: lopale 
+pierce: ʼsule 
+stab: ʼsule 
+scratch: ʼkalkalia 
+dig: kili|a 
+stand: ʼmeisi 
+drop: ʼpupu 
+fall: ʼpupu 
+grasp: ʼkanruǥe 
+hold: ʼkanruǥe 
+hold in arm: ʼkanruǥe 
+squeeze: bibia 
+wring: bibia 
+throw: taʼmalkia 
+bind: ʼsame 
+fasten: ʼsame 
+tie: ʼsame 
+tie up: ʼsame 
+sew: ʼsai|a 
+count: ʼsisi 
+enumerate: ʼsisi 
+number: ʼsisi 
+tally: ʼsisi 
+flow: ʼlele 
+lake: me maʼtana 
+ocean: ʼpelau 
+sea: ʼpelau 
+dust: ʼgaḇu 
+fog: saʼu 
+sky: taḇa keʼrana 
+bad: ʼsoali 
+evil: ʼsoali 
+rot: ʼbona 
+rotten: ʼbona 
+dirty: ʼmuku 
+filthy: ʼmuku 
+soiled: ʼmuku 
+sharp: maʼtana 
+blunt: kumbakia 
+damp: ʼbeta 
+wet: ʼbeta 
+right side: kamanaeʼpe	kamanepe 
+left: kamanaeʼsoali 
+at: ŋa 
+in: ʼŋa|lo 
+inside: ʼŋa|lo 
+and: ḇa	ḇe 
+if: ŋaʼroma 

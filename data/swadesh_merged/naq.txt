@@ -1,0 +1,173 @@
+all: hoa 
+every: hoa 
+ash: tsaob 
+ashes: tsaob 
+bark: ǂammi 
+abdomen: !nāb 
+belly: !nāb 
+big: kai 
+bigness: kai 
+large: kai 
+bird: ani- 
+bite: ndā	nâ	nā 
+black: ǂnū 
+blood: !ao	!aub	ǀaob 
+bone: !X~o	!kob	ǂkhō- 
+breast: sam	sams	ǀǀkhaib	ǁkhaib 
+breasts: sam	sams	ǀǀkhaib	ǁkhaib 
+burn: dao 
+burn tr.: dao 
+claw: ǀǀgoros	ǁgoros 
+nail: ǀǀgoros	ǁgoros 
+talon: ǀǀgoros	ǁgoros 
+cloud: ǀnanus 
+cold: !khai 
+come: !X~i	!nuwu	ha	hā	si	ǀkhī 
+come from: !X~i	!nuwu	ha	hā	si	ǀkhī 
+be dead: !kawi	!kei !heire	!o	toa	ǀǀō	ǁō 
+dead: !kawi	!kei !heire	!o	toa	ǀǀō	ǁō 
+die: !kawi	!kei !heire	!o	toa	ǀǀō	ǁō 
+dog: ari	ari-	arib 
+drink: a	ā 
+dry: ǂnâsa 
+ear: !gais	g!~ae	ǂgaes 
+earth: !hū 
+ground: !hū 
+land: !hū 
+soil: !hū 
+eat: ǂû 
+egg: !upus 
+eye: mu	mu*s	mûs 
+fat: kau 
+fat n.: kau 
+grease: kau 
+lubricant: kau 
+oil: kau 
+feather: !ammi 
+fire: !ae	!ais	ǀaes 
+fish: !au	ǀǀaub	ǁaub 
+fly: ǀǀkhana	ǁkhana 
+fly v.: ǀǀkhana	ǁkhana 
+foot: ǂai- 
+full: !a*	!khouni	!oa	!oasa	ǀoasa 
+give: mā 
+good: !gâi 
+green: !am 
+hair: ǀûb 
+hand: !om	!omi	!ommi 
+left hand: !om	!omi	!ommi 
+right: !om	!omi	!ommi 
+head: dana- 
+hear: !nou*	!n~au	saro	ǀǀnâu	ǁnâu 
+heart: ǂgao- 
+horn: !na*	!nab	ǀǀnâb	ǁnâb 
+1 sg.: ta	tita	tìi̋-r	tìi̋-tà 
+I: ta	tita	tìi̋-r	tìi̋-tà 
+kill: !gam 
+knee: !goab	g!~oa	ǀǀgoas	ǁgoas 
+be knowledgeable: ǂan 
+know: ǂan 
+leaf: !gais	g!~ae	ǂgae- 
+lie: ǀǀgoe	ǁgoe 
+lie down: ǀǀgoe	ǁgoe 
+liver: a*i*b	no*ab	âi- 
+long: gaixu	gaxu 
+head louse: coa	uri	uri- 
+louse: coa	uri	uri- 
+male: aob 
+man: khoe-	khoii	kh~oe 
+many: ǂgui 
+much: ǂgui 
+multiple: ǂgui 
+several: ǂgui 
+flesh: ǀǀgani	ǁgani 
+meat: ǀǀgani	ǁgani 
+moon: ǀǀkhâb	ǁkhâb 
+hill: !homi	!h~om	!ui	!uib	ǀui- 
+mountain: !homi	!h~om	!ui	!uib	ǀui- 
+mouth: ams 
+name: !on	!ons	ǀons 
+title: !on	!ons	ǀons 
+neck: !aos 
+new: !asa	ǀasa 
+night: cuXu	cuxub	tsuxub 
+nighttime: cuXu	cuxub	tsuxub 
+nose: !guis	g!~ui	ǂguis 
+not: tama	tide 
+adulterous: !gui	g!~ui	ǀgui	ǀúí 
+one: !gui	g!~ui	ǀgui	ǀúí 
+single: !gui	g!~ui	ǀgui	ǀúí 
+that: ǀǀnā	ǁnā 
+the: !gui	g!~ui	ǀgui	ǀúí 
+unprincipled: !gui	g!~ui	ǀgui	ǀúí 
+human: khoe-	khoii	kh~oe 
+human being: khoe-	khoii	kh~oe 
+person: khoe-	khoii	kh~oe 
+rain: ǀapib 
+rainy weather: ǀapib 
+red: ǀapa	ǀawa 
+path: dao	daob 
+road: dao	daob 
+route: dao	daob 
+root: !nomab 
+round: !gupu	ǂgubu 
+sand: ǀgopa-	ǀgowa- 
+say: mî 
+see: !hou	ge	go	mu*	mû 
+seed: !khoms 
+sit: ǂnôa 
+hide: khob	kh~o	khōb 
+skin: khob	kh~o	khōb 
+sleep: ǀǀom	ǁom 
+little: ǂkhari 
+small: ǂkhari 
+smallness: ǂkhari 
+smoke: ǀanni 
+stand: mâ 
+star: !gamiros	!kani	g!~amiro	ǀgamiros 
+rock: !nos	!ui	!uis	ǀui- 
+stone: !nos	!ui	!uis	ǀui- 
+sun: !kanis	sore	sores 
+swim: tsâ 
+tail: ǂareb 
+this: nē 
+2 sg: c	du	s	sac	sadu	sas	sats 
+thou: c	du	s	sac	sadu	sas	sats 
+you: c	du	s	sac	sadu	sas	sats 
+tongue: nam	nami	nammi 
+tooth: !gu*b	g!~u*	ǀǀgûb	ǁgûb 
+tree: hai	haii	heib 
+grind: !gam	g!am	ǀgam	ǀám 
+two: !gam	g!am	ǀgam	ǀám 
+go: !gû 
+walk: !gû 
+hot: ǀgamsa 
+warm: ǀgamsa 
+water: !gami	g!am	ǀǀgammi	ǁgammi 
+1 pl. inc.: =e	=m	da	sada	sagye	sase	sida 
+we: =e	=m	da	sada	sagye	sase	sida 
+we₁: =e	=m	da	sada	sagye	sase	sida 
+what: tae	tare 
+white: !uri 
+whiteness: !uri 
+who: tai	tari 
+who?: tai	tari 
+female: taras 
+woman: taras 
+yellow: !huni 
+distant: !nū 
+far: !nū 
+dull: !gom 
+heavy: !gom 
+serious: !gom 
+close: ǀgū 
+near: ǀgū 
+ner: ǀgū 
+salt: ǂō- 
+short: !nubu 
+snake: ǀaob 
+thin: ǀui	ǀǀgā	ǁgā 
+wind: ǂoab 
+earthworm: ǂunib 
+worm: ǂunib 
+year: kurib 

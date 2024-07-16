@@ -1,0 +1,171 @@
+all: aoge	oagué 
+every: aoge	oagué 
+ash: aCi	ata	yachí 
+ashes: aCi	ata	yachí 
+bark: aalac	aoelag	halag 
+abdomen: acan 
+belly: acan 
+big: laten	latenc 
+bigness: laten	latenc 
+large: laten	latenc 
+bird: eteg	kata 
+bite: ag	atag	aːk- 
+black: aboraíc	aor	naoe 
+blood: aoig	nauiga 
+bone: ahaor	pink	ypiinc 
+breast: aCiC	n=oala 
+breasts: aCiC	n=oala 
+burn: aximagg-e 
+burn tr.: aximagg-e 
+claw: enaC 
+nail: enaC 
+talon: enaC 
+cold: ata	latác 
+come: aC	aneg	nauè 
+come from: aC	aneg	nauè 
+be dead: aham	egaC	i=iga 
+dead: aham	egaC	i=iga 
+die: aham	egaC	i=iga 
+dog: eteg	ne	neteinc 
+drink: a5am	et	nan˘àm	nan̆àm 
+dry: gr=oaxiueta	oah 
+ear: ketal	quetal 
+earth: ahir	alo	alóa 
+ground: ahir	alo	alóa 
+land: ahir	alo	alóa 
+soil: ahir	alo	alóa 
+eat: aeg	aharo	rkeñe 
+egg: elcaoté	kaoe 
+eye: n=atoete 
+fat: epag	n=epaga 
+fat n.: epag	n=epaga 
+grease: epag	n=epaga 
+lubricant: epag	n=epaga 
+oil: epag	n=epaga 
+feather: eteg	letegue 
+fire: kat	ncaátec 
+fish: noai	noaí 
+fly: aC	heét 
+fly v.: aC	heét 
+foot: aCaq	nachagec	pigao 
+full: graoapcachiqui 
+give: aC	an	aoe 
+good: aoap	ariai	ariaic 
+green: ikalk	pagé	pahe 
+hair: eoe	eteg	netéige 
+hand: apaken	apaquena 
+left hand: apaken	apaquena 
+right: apaken	apaquena 
+head: apa5ige	ema	lemaȓat 
+hear: oahipaC	oaqa 
+heart: aoel	eo	niitanata 
+horn: ahaC	lajate 
+1 sg.: ai-m 
+I: ai-m 
+kill: aham	ayukà	egaC 
+knee: eleokete	niliouquete 
+be knowledgeable: akaC	arai	yaraigé 
+know: akaC	arai	yaraigé 
+leaf: eteg	letegué 
+lie: ajani	ao	iri 
+lie down: ajani	ao	iri 
+liver: ank	laane 
+long: lareg	laréc 
+head louse: noapat	oapa 
+louse: noapat	oapa 
+male: ioale	yoalé 
+man: yoalé 
+many: aier	ait 
+much: aier	ait 
+multiple: aier	ait 
+several: aier	ait 
+flesh: elpagé	oaig	pahe 
+meat: elpagé	oaig	pahe 
+moon: erg	graoec	graoek 
+hill: ah	elach 
+mountain: ah	elach 
+mouth: aagát	ag 
+name: akala	egeik	naclataoé 
+title: akala	egeik	naclataoé 
+neck: cajate	kahate 
+new: aralaic 
+night: nehaol	nenegin	nenegui 
+nighttime: nehaol	nenegin	nenegui 
+nose: catanat	kat 
+not: Ci	ina	či 
+adulterous: -atara	iñitara 
+one: -atara	iñitara 
+single: -atara	iñitara 
+that: erajá 
+the: -atara	iñitara 
+unprincipled: -atara	iñitara 
+human: yoalé 
+human being: yoalé 
+person: yoalé 
+rain: aneg	ete	noagiquiga 
+rainy weather: aneg	ete	noagiquiga 
+red: aoig 
+path: aC	cataic 
+road: aC	cataic 
+route: aC	cataic 
+root: el=pana	hakam	pana 
+round: encachimichiguiñi 
+sand: lapaûgganga 
+say: =apek	akaC	arat 
+see: arogena	eon 
+seed: elpetá	peta 
+sit: a5a	a5i	nachicatañi 
+hide: elerk	halag 
+skin: elerk	halag 
+sleep: aC	ao	roatè 
+little: eneCi	lenechi 
+small: eneCi	lenechi 
+smallness: eneCi	lenechi 
+smoke: ehala	nejála 
+star: eeregye	erg 
+rock: ailig	ailîgat 
+stone: ailig	ailîgat 
+sun: empaiga	grahaolai	pae 
+swim: al	alaŋkača- 
+tail: keit	queit 
+this: enajá 
+2 sg: acami 
+thou: acami 
+you: acami 
+tongue: aCi	lachigat 
+tooth: ao	naoé 
+tree: loagí	oahi 
+grind: -aka	iñoaka 
+two: -aka	iñoaka 
+go: =ahik	aoa	apag 
+walk: =ahik	aoa	apag 
+hot: erpaé 
+warm: erpaé 
+water: enarap	enópe	ilik 
+1 pl. inc.: acam 
+we: acam 
+we₁: acam 
+what: ekn	hegm 
+white: alag	lalagaí 
+whiteness: alag	lalagaí 
+who: hegm	kah 
+who?: hegm	kah 
+female: oanerm	oanermá 
+woman: oanerm	oanermá 
+yellow: aoig	kai	yccaí 
+distant: ayaque 
+far: ayaque 
+dull: grejalí 
+heavy: grejalí 
+serious: grejalí 
+close: chiayaque 
+near: chiayaque 
+ner: chiayaque 
+salt: achiuiguéic 
+short: leregchi 
+snake: enenaic 
+thin: nejateta 
+wind: anamága 
+earthworm: leoanca 
+worm: leoanca 
+year: yñigá 

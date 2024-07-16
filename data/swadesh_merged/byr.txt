@@ -1,0 +1,155 @@
+all: yuya 
+arm: ata 
+ashes: kwaagïta | kwɑgəta 
+bark: (yï)kïlaaka | kəlɑka	yəkəlɑka 
+belly: munya/sïwalïka | munya	čəwaləka 
+big: naanga | nɑŋa 
+bird: yuta 
+bite: lïka da-\mwa\ | təka daʔ-	təka daʔ--mwaʔ 
+black: jïqïnya | ǯəqənya 
+blood: tawe 
+bone: yagïnya | yag35a	yag3nya	yagənya 
+breast: aa(ng)wïnya | amw~35a	aw3nya	čawənya	čaŋwənya 
+burn: yïdïwa 
+claw: parya 
+cloud: yïraaya | yərɑya 
+cold: lïku\ja | ləkuʔǯa 
+come: b-twa\ | b	b-əwaʔ	kajo 
+die: bai-mwa\ | bai	bai-mwaʔ	bal 
+dog: jïlïko | j3l3ka	ǯələka 
+drink: aalya n-ïwa\ | bw~iwag	n	ɑlya n-əwa 
+dry: yaalïka | yɑləka 
+ear: kadïka | kad3ka	kadəka 
+earth: kwaaka | kwɑka 
+eat: n-ïwa\ | n-əwaʔ 
+egg: (yu)kwaraka | kwaraka	yukwaraka 
+eye: tïnna | t3na	t3nna	tənna 
+fat (n.): sïgunya 
+feather: pïvya | pəβya 
+fire: sïka | d3ka	dəka 
+fish: jawïnya | jaw35a	jaw3nya	ǯawənya 
+fly (v.): pïlaku-wa\ 
+full: maanga yeku\nïwa\ | mɑŋa yekuʔn-əwaʔ	yeku7n 
+give: nyi-jaa-wa\ | nyə-ǯɑ-waʔ 
+good: tewaanya | tewɑnya 
+green: yïjuza | yəǯuža 
+hair: mïjata | məǯata 
+head: mïnyagïnya | mənyagənya 
+hear: kdïka wï\nïwa\ | kadəka wəʔn	kadəka wəʔn-waʔ	w37n	w3n 
+heart: pawe 
+horn: saanya | sa5a	sanya	čɑnya 
+I: nïmï(no) | n3m3	nəmə	nəməno 
+kill: tam-wa\ | tam-waʔ 
+knee: kwanna | kwanna	kw~adadaNa	laNw~ika 
+know: kunya yawï\mwa\ | kunya yawəʔ	kunya yawəʔ-mwaʔ 
+leaf: kïwata | k3wata	kəwata 
+leg: sïvïla 
+lie: war-ï\ | war-əʔ 
+liver: kale 
+long: saamïnya | čɑmənya 
+louse: yïle | y3le 
+man: kwala | a7mwe	aʔmwe 
+many: pïjaako | pəǯɑko 
+meat: mï(q)wïta 
+moon: langwe | laŋwe 
+mountain: mïgunya | m3gunya	mugu5a	məgunya 
+mouth: maanga | mɑŋa 
+name: yay (yavya) | yaya 
+neck: tïlïnna | tələnna 
+new: mudïka | gala	mud3ka	mudəka 
+night: sa(q)wïta | saw3ta	čaqwəta	čawəta 
+nose: sïnna | s3na	s3nna	čənna 
+not: ma- -ymiko | ma- … -y	miko 
+one: pïrï\(na) | da--’	p3r37	pərəʔ	pərəʔna 
+person: a\mwe | a7mwe	aʔmwe 
+rain: burïka | burəka 
+red: wayaaka | wayɑka 
+road: tuta 
+root: pwipula 
+round: tïqwaqunya | təqwaqunya 
+sand: weka 
+say: (yagaala)d-ïwa\ | weka 
+seed: wia 
+see: tïnna wanga-mwa\ | tənna waŋa	tənna waŋa-mwaʔ	waNan	wanga 
+sit: mwaalï\ | mwɑl-əʔ 
+skin: kïlaaka | k3laka	kəlɑka 
+sleep: se warï\ | se war-əʔ	war-əʔ 
+small: maalïka | mɑləka 
+smoke: jïto | ǯəta 
+stand: daa\mwa\ 
+star: sïlïngaamïnya | s3l3Nam35a	s3l3ngam3nya	čələŋɑmənya 
+stone: sïla | s3la	čəla 
+sun: nyïla | 53la	ny3la	nyəla 
+swim: lï\nïwa\ | ləʔn-əwaʔ 
+tail: suya | čuya 
+that: sa- | ča- 
+this: da- 
+thou: gïmï (no) | g3m3	gəmə	gəməno 
+tongue: taalïta | tal3ta	tɑləta 
+tooth: maanga | maNa	manga	mɑŋa 
+tree: ita | ita	y3ta 
+two: pïrïwaai(na) | da--waai	p3r3wai	pərəwɑi	pərəwɑina 
+walk: kaanya w-ïwa\ | kɑnya w	kɑnya w-əwaʔ	yamaryə	yamaryə-waʔ 
+walk: l-yamaryï-wa\ | kɑnya w	kɑnya w-əwaʔ	yamaryə	yamaryə-waʔ 
+warm: dïka 
+water: aalya | aLa	alya	aly~a	ɑlya 
+we (incl.): nemï(na) 
+what: baa(rïva\) | bɑ	bɑrəβaʔ 
+white: yaaka | yɑka 
+who: aalo | ɑlo 
+woman: bala 
+yellow: aawi\ja | ɑwiʔǯa 
+every: yuya 
+ash: kwɑgəta 
+abdomen: munya	čəwaləka 
+bigness: nɑŋa 
+large: nɑŋa 
+breasts: amw~35a	aw3nya	čawənya	čaŋwənya 
+nail: parya 
+talon: parya 
+come from: b	b-əwaʔ	kajo 
+be dead: bai	bai-mwaʔ	bal 
+dead: bai	bai-mwaʔ	bal 
+ground: kwɑka 
+land: kwɑka 
+soil: kwɑka 
+fly: pəlaku-waʔ 
+fly v.: pəlaku-waʔ 
+hand: ata 
+left hand: ata 
+right: ata 
+1 sg.: n3m3	nəmə	nəməno 
+be knowledgeable: kunya yawəʔ	kunya yawəʔ-mwaʔ 
+lie down: war-əʔ 
+head louse: y3le 
+male: kwala 
+much: pəǯɑko 
+multiple: pəǯɑko 
+several: pəǯɑko 
+hill: m3gunya	mugu5a	məgunya 
+title: yaya 
+nighttime: saw3ta	čaqwəta	čawəta 
+adulterous: da--’	p3r37	pərəʔ	pərəʔna 
+single: da--’	p3r37	pərəʔ	pərəʔna 
+the: da--’	p3r37	pərəʔ	pərəʔna 
+unprincipled: da--’	p3r37	pərəʔ	pərəʔna 
+human: a7mwe	aʔmwe 
+human being: a7mwe	aʔmwe 
+rainy weather: burəka 
+path: tuta 
+route: tuta 
+hide: k3laka	kəlɑka 
+little: mɑləka 
+smallness: mɑləka 
+rock: s3la	čəla 
+2 sg: g3m3	gəmə	gəməno 
+you: g3m3	gəmə	gəməno 
+grind: da--waai	p3r3wai	pərəwɑi	pərəwɑina 
+go: kɑnya w	kɑnya w-əwaʔ	yamaryə	yamaryə-waʔ 
+1 pl. inc.: nem3	nemə	neməno 
+we: nem3	nemə	neməno 
+we₁: nem3	nemə	neməno 
+whiteness: yɑka 
+who?: ɑlo 
+female: bala 
+salt: tyɑla 

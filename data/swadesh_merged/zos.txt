@@ -1,0 +1,144 @@
+all: mumu 
+every: mumu 
+ash: kuyam 
+ashes: kuyam 
+bark: naka 
+abdomen: cek 
+belly: cek 
+big: m3ha 
+bigness: m3ha 
+large: m3ha 
+bird: %paloma 
+bite: ky~3s	ky~ec 
+black: neki	y3k 
+blood: n3pin 
+bone: pak 
+claw: k3cus 
+nail: k3cus 
+talon: k3cus 
+cloud: ona 
+cold: pakak 
+come: min 
+come from: min 
+be dead: ka7 
+dead: ka7 
+die: ka7 
+dog: tuyi 
+drink: uhk 
+dry: k3niku 
+ear: tac3k 
+earth: nas 
+ground: nas 
+land: nas 
+soil: nas 
+eat: kut	vik 
+egg: poka 
+eye: vit3m 
+feather: p3k 
+fire: hukty~3k 
+fish: kokE 
+fly: sitit 
+fly v.: sitit 
+foot: koso 
+full: tacu	taskok3tu 
+give: Ci7 
+good: v3h	v3h3 
+green: cuci 
+hair: p3k	vay 
+hand: k37 
+left hand: k37 
+right: k37 
+head: kopak 
+hear: man 
+horn: vaha 
+1 sg.: 3c	3hci 
+I: 3c	3hci 
+kill: yaka7 
+knee: poki 
+be knowledgeable: ky~omus	my~us 
+know: ky~omus	my~us 
+leaf: ay 
+lie: vy~im3y 
+lie down: vy~im3y 
+liver: pat 
+long: p3hi 
+head louse: avat 
+louse: avat 
+male: mb3Nga7e	p3n 
+man: p3n 
+many: v3ti 
+much: v3ti 
+multiple: v3ti 
+several: v3ti 
+flesh: sis 
+meat: sis 
+moon: poya 
+hill: koc 
+mountain: koc 
+mouth: aNnaka 
+name: n3yi 
+title: n3yi 
+neck: 3s3	k3n3 
+new: homE 
+night: cu7 
+nighttime: cu7 
+nose: kin3 
+not: hinda 
+adulterous: tum3	tumi 
+one: tum3	tumi 
+single: tum3	tumi 
+that: hik 
+the: tum3	tumi 
+unprincipled: tum3	tumi 
+human: p3n 
+human being: p3n 
+person: p3n 
+rain: tuh 
+rainy weather: tuh 
+red: capas 
+path: tuN 
+road: tuN 
+route: tuN 
+root: vaci 
+round: pola	pomna 
+say: Cam 
+see: a7m	is 
+seed: puj 
+sit: poks 
+hide: naka 
+skin: naka 
+sleep: 3N 
+little: Ce7	Ciks 
+small: Ce7	Ciks 
+smallness: Ce7	Ciks 
+smoke: hoko 
+stand: ky~opten	yak ten 
+star: maca 
+rock: ca7 
+stone: ca7 
+sun: hama 
+swim: pun 
+tail: tuc 
+this: y3N 
+2 sg: mi	mic 
+thou: mi	mic 
+you: mi	mic 
+tongue: toc 
+tooth: t3c 
+tree: kuy 
+grind: mEckuy	meckuy 
+two: mEckuy	meckuy 
+go: tuNah	vit 
+walk: tuNah	vit 
+water: m37 
+1 pl. inc.: t3 
+we: t3 
+we₁: t3 
+what: ti	tiy3 
+white: popo 
+whiteness: popo 
+who: i	iy3 
+who?: i	iy3 
+female: yomo 
+woman: yomo 
+yellow: puc3 

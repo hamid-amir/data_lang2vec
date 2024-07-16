@@ -1,0 +1,146 @@
+all: mamos 
+every: mamos 
+ash: tolhambi 
+ashes: tolhambi 
+abdomen: lampi 
+belly: lampi 
+big: Cob 
+bigness: Cob 
+large: Cob 
+bird: fosi 
+bite: kabalikCi 
+black: loCi 
+blood: piCikCi 
+bone: foni 
+breast: owaCi 
+breasts: owaCi 
+claw: iyakosi 
+nail: iyakosi 
+talon: iyakosi 
+cloud: hosoti 
+cold: kapali 
+come: ont 
+come from: ont 
+be dead: il 
+dead: il 
+die: il 
+dog: ifi 
+drink: isk 
+dry: sokok 
+ear: hoCobi 
+earth: yakni 
+ground: yakni 
+land: yakni 
+soil: yakni 
+eat: imp 
+egg: onasi 
+eye: iti 
+fat: nihi 
+fat n.: nihi 
+grease: nihi 
+lubricant: nihi 
+oil: nihi 
+fire: iti 
+fish: LaLi 
+fly: yakal 
+fly v.: yakal 
+foot: iyi 
+full: labakni 
+give: ik 
+good: hiLi 
+green: honotbitalakCi 
+hair: tokisi 
+hand: ilbi 
+left hand: ilbi 
+right: ilbi 
+head: yosi 
+hear: hakl 
+heart: Conosbi 
+horn: lapi 
+1 sg.: ani 
+I: ani 
+kill: ilC 
+knee: toLpi 
+be knowledgeable: ataL 
+know: ataL 
+lie: talal 
+lie down: talal 
+liver: lopi 
+long: baCki 
+head louse: hiCaCi 
+louse: hiCaCi 
+male: nakni 
+man: yati 
+many: aConki 
+much: aConki 
+multiple: aConki 
+several: aConki 
+flesh: akni 
+meat: akni 
+mouth: iCi 
+name: hoCilki 
+title: hoCilki 
+neck: nokbi 
+new: himaCi 
+night: niLaki 
+nighttime: niLaki 
+nose: ibi 
+not: mati 
+adulterous: Lamin	‘lámin 
+one: Lamin	‘lámin 
+single: Lamin	‘lámin 
+that: ma 
+the: Lamin	‘lámin 
+unprincipled: Lamin	‘lámin 
+human: yati 
+human being: yati 
+person: yati 
+rain: okob 
+rainy weather: okob 
+red: kitisCi 
+path: hini 
+road: hini 
+route: hini 
+root: aski 
+round: poloCki 
+say: kaC 
+see: hiCa 
+seed: yiLi 
+sit: Cokol 
+hide: halbi 
+skin: halbi 
+sleep: noC 
+little: wink 
+small: wink 
+smallness: wink 
+smoke: oCkoCi 
+stand: lokoka 
+star: owaCiki 
+rock: tali 
+stone: tali 
+sun: hasi 
+swim: opak 
+tail: haCi 
+this: ya 
+2 sg: Cin 
+thou: Cin 
+you: Cin 
+tongue: Cokolasi 
+tooth: noti 
+tree: ahi 
+grind: toklan	tóklan 
+two: toklan	tóklan 
+go: CayaL 
+walk: CayaL 
+water: oki 
+1 pl. inc.: poni 
+we: poni 
+we₁: poni 
+what: naki 
+white: hatki 
+whiteness: hatki 
+who: noL 
+who?: noL 
+female: taki 
+woman: taki 
+yellow: lakni 

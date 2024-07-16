@@ -1,0 +1,266 @@
+all: paka 
+every: paka 
+ash: awu 
+ashes: awu 
+abdomen: kompo 
+belly: kompo 
+big: baŋke 
+bigness: baŋke 
+large: baŋke 
+bird: tonci 
+bite: mama 
+black: ma-eta 
+blood: da	daa 
+bone: wuku 
+breast: susu 
+breasts: susu 
+burn: mon-tapara 
+burn tr.: mon-tapara 
+cloud: limu 
+cold: ma-ranindi 
+come: ma7i	maʔi 
+come from: ma7i	maʔi 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: asu 
+drink: inu 
+dry: tuʔu 
+ear: taliNa	taliŋa 
+eat: maŋ-koni 
+egg: toyu 
+eye: mata 
+feather: wuyu 
+fire: apu 
+fish: bau 
+fly: mo-yoko 
+fly v.: mo-yoko 
+good: ma-dago 
+green: ma-laumbe 
+hair: wuyua 
+hand: pale 
+left hand: pale 
+right: pale 
+head: woʔo 
+hear: doNe	doŋe 
+1 sg.: aku 
+I: aku 
+kill: pate 
+be knowledgeable: inca[ni] 
+know: inca[ni] 
+leaf: ira 
+lie: ina 
+lie down: ina 
+liver: ate 
+long: ma-rate 
+head louse: tuku 
+louse: tuku 
+male: tuama 
+man: tau 
+moon: wuya 
+mouth: ŋuju 
+name: to7o	toʔo 
+title: to7o	toʔo 
+neck: taŋgude 
+new: da wo7u	da woʔu 
+night: weNi	weŋi 
+nighttime: weNi	weŋi 
+nose: eNo	eŋo 
+adulterous: isa	samba’a 
+one: isa	samba’a 
+single: isa	samba’a 
+that: s|etu 
+the: isa	samba’a 
+unprincipled: isa	samba’a 
+human: tau 
+human being: tau 
+person: tau 
+rain: uja 
+rainy weather: uja 
+red: ma-waa 
+path: Taya	jaya 
+road: Taya	jaya 
+route: Taya	jaya 
+root: kale 
+sand: bone 
+say: man-toʔo 
+see: maNk~ita	maŋ-kita 
+sit: tunda 
+hide: pela 
+skin: pela 
+sleep: ina 
+little: kodi 
+small: kodi 
+smallness: kodi 
+smoke: raŋ|asu 
+star: betu7u	betuʔu 
+rock: watu 
+stone: watu 
+swim: naŋu 
+tail: iku 
+this: seʔe/seʔi 
+2 sg: siko 
+thou: siko 
+you: siko 
+tongue: Tila	jila 
+tooth: Nisi	ŋisi 
+grind: radua	rua 
+two: radua	rua 
+go: linja 
+walk: linja 
+hot: ma-rameda	ma-ramu 
+warm: ma-rameda	ma-ramu 
+water: u3	uë 
+1 pl. inc.: kami	kita 
+we: kami	kita 
+we₁: kami	kita 
+what: nun-jaa 
+white: ma-buya 
+whiteness: ma-buya 
+who: i se|ma 
+who?: i se|ma 
+female: weʔa 
+woman: weʔa 
+yellow: ma-kuni 
+distant: lawa 
+far: lawa 
+dull: ma-tomo 
+heavy: ma-tomo 
+serious: ma-tomo 
+close: mosu 
+near: mosu 
+ner: mosu 
+salt: bure 
+short: ede 
+snake: ule 
+thin: ma-nipi 
+wind: ŋoyu 
+earthworm: tolodo 
+worm: tolodo 
+year: taʔu 
+2 pl.: komi 
+ye: komi 
+you all: komi 
+3 pl.: sira 
+they: sira 
+where: saa 
+where?: saa 
+when: im-pia 
+when?: im-pia 
+how: ma-kuja 
+how?: ma-kuja 
+other: ntani 
+three: tatogo	togo 
+four: aopo	opo	pata 
+five: alima 
+broad: kambi 
+wide: kambi 
+wideness: kambi 
+fat: boko 
+thick: baŋke 
+narrow: soki 
+principal wife: weʔa 
+wife: weʔa 
+husband: laŋkai 
+his mother: indo	ine 
+mother: indo	ine 
+my mother: indo	ine 
+father: papa 
+his father: papa 
+my father: papa 
+forest: wana yopo 
+woods: wana yopo 
+branch: raʔa 
+stick: raʔa 
+fruit: wua 
+flower: sese 
+grass: ewo 
+cord: wayaa 
+rope: wayaa 
+flesh: saŋa 
+meat: saŋa 
+grease: boko 
+wing: pani 
+gut: wayaa ntaʔi 
+guts: wayaa ntaʔi 
+insides: wayaa ntaʔi 
+intestine: wayaa ntaʔi 
+intestines: wayaa ntaʔi 
+back: taliku 
+suck: man-cusu	me-tomi 
+spit: me-ʔuëlu 
+vomit: me-lua 
+blow: me-wui 
+breath: wolo 
+breathe: wolo 
+laugh: gele 
+laughter: gele 
+cogitate: mo-nawa 
+reflect: mo-nawa 
+think: mo-nawa 
+smell: me-eŋa 
+sniff: me-eŋa 
+afraid: ma-eka 
+be afraid: ma-eka 
+fear: ma-eka 
+fright: ma-eka 
+alive: mata 
+be alive: mata 
+life: mata 
+live: mata 
+living: mata 
+hunt: maŋ-ela 
+beat: bómbali 
+hit: bómbali 
+strike: bómbali 
+cut: man-toto 
+hack: man-toto 
+cut open: ma-bala	ma-boka	wota 
+split: ma-bala	ma-boka	wota 
+pierce: mon-caku 
+stab: mon-caku 
+scratch: kao 
+dig: moŋ-kae 
+stand: karo 
+drop: ma-nawu 
+fall: ma-nawu 
+grasp: karamoso 
+hold: karamoso 
+hold in arm: karamoso 
+squeeze: maŋ-komo 
+wring: maŋ-komo 
+throw: ma-wunu 
+bind: kombi 
+fasten: kombi 
+tie: kombi 
+tie up: kombi 
+sew: mon-jau 
+count: iwa	mo-bila 
+enumerate: iwa	mo-bila 
+number: iwa	mo-bila 
+tally: iwa	mo-bila 
+flow: ili 
+lake: rano 
+ocean: tasi 
+sea: tasi 
+dust: awu 
+fog: limu 
+sky: yaŋi 
+bad: ma-jaʔa 
+evil: ma-jaʔa 
+rot: boŋko 
+rotten: boŋko 
+dirty: sapa 
+filthy: sapa 
+soiled: sapa 
+sharp: ma-taja 
+blunt: ma-kuyu 
+damp: wota 
+wet: wota 
+right side: kana 
+left: kaii 
+at: ri 
+in: ri ra 
+inside: ri ra 
+and: pai 
+if: ane 

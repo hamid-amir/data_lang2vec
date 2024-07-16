@@ -1,0 +1,332 @@
+all: секој	сите 
+every: секој	сите 
+ash: пепел 
+ashes: пепел 
+bark: кора 
+abdomen: стомак 
+belly: стомак 
+big: голем 
+bigness: голем 
+large: голем 
+bird: птица 
+bite: гриз	каса 
+black: црн 
+blood: крв 
+bone: коска 
+breast: града 
+breasts: града 
+cloud: облак 
+cold: ладен	студен 
+come: доаѓа 
+come from: доаѓа 
+be dead: умира 
+dead: умира 
+die: умира 
+dog: куче	пес 
+drink: пие 
+dry: сув 
+ear: уво 
+earth: земја 
+ground: земја 
+land: земја 
+soil: земја 
+eat: јаде 
+egg: јајце 
+eye: око 
+feather: перо 
+fire: оган 
+fish: риба 
+fly: лета 
+fly v.: лета 
+foot: стапало 
+full: полн 
+give: дава 
+good: добар 
+green: зелен 
+hair: влакно	коса 
+head: глава 
+hear: слуша 
+heart: срце 
+horn: рог 
+1 sg.: јас 
+I: јас 
+kill: убива 
+knee: колено 
+be knowledgeable: знае 
+know: знае 
+leaf: лист 
+liver: црн дроб	џигер 
+long: долг 
+head louse: вошка 
+louse: вошка 
+male: маж 
+man: човек 
+many: многу 
+much: многу 
+multiple: многу 
+several: многу 
+moon: месечина 
+hill: планина 
+mountain: планина 
+mouth: уста 
+name: име	титула 
+title: име	титула 
+neck: врат	шија 
+new: нов 
+night: ноќ 
+nighttime: ноќ 
+nose: нос 
+not: не 
+adulterous: еден 
+one: еден 
+single: еден 
+that: она	онаа	оние	оној	тоа 
+the: еден 
+unprincipled: еден 
+human: човек 
+human being: човек 
+person: човек 
+rain: дожд 
+rainy weather: дожд 
+red: црвен 
+path: пат 
+road: пат 
+route: пат 
+root: корен 
+round: кружен 
+sand: песок 
+say: вели	кажува 
+see: гледа 
+seed: семе 
+sit: седи 
+hide: кожа 
+skin: кожа 
+sleep: спие 
+little: мал 
+small: мал 
+smallness: мал 
+smoke: дим	чад 
+star: ѕвезда 
+rock: камен 
+stone: камен 
+sun: сонце 
+swim: плива 
+tail: опашка 
+this: ова	оваа	овие	овој 
+2 sg: ти 
+thou: ти 
+you: ти 
+tongue: јазик 
+tooth: заб 
+tree: дрво 
+grind: два 
+two: два 
+go: оди	шета 
+walk: оди	шета 
+hot: топол 
+warm: топол 
+water: вода 
+1 pl. inc.: ние 
+we: ние 
+we₁: ние 
+what: што 
+white: бел 
+whiteness: бел 
+who: кој 
+who?: кој 
+female: жена 
+woman: жена 
+yellow: жолт 
+distant: далечен 
+far: далечен 
+dull: тежок 
+heavy: тежок 
+serious: тежок 
+close: близок 
+near: близок 
+ner: близок 
+salt: сол 
+short: краток	кус 
+snake: змија 
+thin: тенок 
+wind: ветер 
+earthworm: црв 
+worm: црв 
+year: година 
+3 sg.: тој 
+he: тој 
+she: тој 
+2 pl.: вие 
+ye: вие 
+you all: вие 
+3 pl.: тие 
+they: тие 
+here: овде	тука 
+there: таму 
+where: каде 
+where?: каде 
+when: кога 
+when?: кога 
+how: како 
+how?: како 
+some: неколку 
+few: малку	неколку 
+other: друг	други 
+three: три 
+four: четири 
+five: пет 
+broad: широк 
+wide: широк 
+wideness: широк 
+fat: маст	сало 
+thick: густ	дебел 
+narrow: тесен 
+child: дете 
+principal wife: жена	сопруга 
+wife: жена	сопруга 
+husband: маж	сопруг 
+his mother: мајка 
+mother: мајка 
+my mother: мајка 
+father: татко 
+his father: татко 
+my father: татко 
+animal: животно 
+forest: шума 
+woods: шума 
+branch: прачка	стап 
+stick: прачка	стап 
+fruit: овошје	плод 
+flower: цвет 
+grass: трева 
+cord: коноп	јаже 
+rope: коноп	јаже 
+flesh: месо 
+meat: месо 
+grease: маст	сало 
+claw: нокт 
+fingernail: нокт 
+nail: нокт 
+leg: нога 
+arm: рака 
+hand: рака 
+wing: крило 
+gut: црева 
+guts: црева 
+insides: црева 
+intestine: црева 
+intestines: црева 
+back: грб 
+suck: цица 
+spit: плука 
+vomit: блуе	повраќа 
+blow: дува 
+breath: вдишува	дише 
+breathe: вдишува	дише 
+laugh: смее 
+laughter: смее 
+cogitate: мисли	помислува 
+reflect: мисли	помислува 
+think: мисли	помислува 
+smell: мириса	смрди 
+sniff: мириса	смрди 
+afraid: плаши 
+be afraid: плаши 
+fear: плаши 
+fright: плаши 
+alive: живее 
+be alive: живее 
+life: живее 
+live: живее 
+living: живее 
+fight: бие	бори 
+hunt: ловува 
+beat: удира	чука 
+hit: удира	чука 
+strike: удира	чука 
+cut: реже	сече 
+hack: реже	сече 
+cut open: поделува	расцепува 
+split: поделува	расцепува 
+pierce: убодува 
+stab: убодува 
+scratch: гребе	чеша 
+dig: копа 
+lie: леже 
+lie down: леже 
+tell lies: леже 
+stand: стои 
+turn: врти 
+turn around: врти 
+turn round: врти 
+drop: паѓа 
+fall: паѓа 
+grasp: држи 
+hold: држи 
+hold in arm: држи 
+squeeze: стиска 
+wring: стиска 
+rub: трие 
+wipe: брише 
+wash: мие 
+wash clothes: мие 
+pull: влече 
+push: бутка	турка 
+shove: бутка	турка 
+throw: фрла 
+bind: врзува 
+fasten: врзува 
+tie: врзува 
+tie up: врзува 
+sew: шие 
+count: брои	квантитет 
+enumerate: брои	квантитет 
+number: брои	квантитет 
+tally: брои	квантитет 
+sing: пее 
+have fun: игра 
+play: игра 
+float: плови 
+flow: тече 
+freeze: заледува	замрзнува 
+swell: набабрува	отекува 
+brook: река 
+river: река 
+stream: река 
+lake: езеро 
+ocean: море 
+sea: море 
+dust: прашина 
+fog: магла 
+sky: небо 
+snow: снег 
+ice: лед	мраз 
+blaze: гори 
+burn: гори 
+day: ден 
+daylight: ден 
+daytime: ден 
+old: стар 
+bad: лош 
+evil: лош 
+rot: гнил 
+rotten: гнил 
+dirty: валкан	нечист 
+filthy: валкан	нечист 
+soiled: валкан	нечист 
+straight: прав 
+sharp: остар 
+blunt: тап 
+smooth: мазен 
+damp: влажен	мокар 
+wet: влажен	мокар 
+correct: правилен	точен 
+right: десно 
+right side: десно 
+left: лево 
+at: до	кај	на 
+in: во 
+inside: во 
+with: со 
+if: ако 
+because: затоа што	зашто 

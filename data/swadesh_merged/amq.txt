@@ -1,0 +1,264 @@
+all: peseʼesi 
+every: peseʼesi 
+ash: hau maʼano 
+ashes: hau maʼano 
+abdomen: ehu 
+belly: ehu 
+big: ira 
+bigness: ira 
+large: ira 
+bird: manuwolo 
+bite: yoko 
+black: meʼeno 
+blood: lalalo 
+bone: riri 
+breast: susuro 
+breasts: susuro 
+burn: sunuro 
+burn tr.: sunuro 
+cold: pursiʼe 
+come: hoka 
+come from: hoka 
+be dead: ma7a	maʼa 
+dead: ma7a	maʼa 
+die: ma7a	maʼa 
+dog: asuro 
+drink: yunu 
+dry: mamala 
+ear: irina 
+eat: yane 
+egg: eʼero 
+eye: ma7a	maʼa 
+feather: huruno 
+fire: hauro 
+fish: iano 
+fly: sihu 
+fly v.: sihu 
+good: malopi 
+green: lalaalo 
+hair: uhuwo 
+hand: rima 
+left hand: rima 
+right: rima 
+head: uru 
+hear: pono	poono 
+1 sg.: au 
+I: au 
+kill: pamaʼa 
+be knowledgeable: kikia 
+know: kikia 
+leaf: launo 
+lie: huruhuruʼe 
+lie down: huruhuruʼe 
+liver: hu7uwa	huʼuwa 
+long: aka 
+head louse: u7uwo	uʼuwo 
+louse: u7uwo	uʼuwo 
+male: manawalo 
+man: mansia 
+moon: huraano 
+mouth: nusu 
+name: nala 
+title: nala 
+neck: oʼolo 
+new: hooro	horo	horu7iro	horuʼiro 
+night: omole7e	omoleʼe 
+nighttime: omole7e	omoleʼe 
+nose: iri 
+adulterous: mitair̃o	sane 
+one: mitair̃o	sane 
+single: mitair̃o	sane 
+that: me 
+the: mitair̃o	sane 
+unprincipled: mitair̃o	sane 
+human: mansia 
+human being: mansia 
+person: mansia 
+rain: sialo 
+rainy weather: sialo 
+red: kakauro 
+path: lalairalo 
+road: lalairalo 
+route: lalairalo 
+root: lamuʼiro 
+sand: ume siino 
+say: repaʼe 
+see: keru 
+sit: suwo 
+hide: huiro 
+skin: huiro 
+sleep: mʼuru 
+little: annaʼi 
+small: annaʼi 
+smallness: annaʼi 
+smoke: hau poʼiro 
+star: umaaro	umaro 
+rock: ha7uro	haʼuro 
+stone: ha7uro	haʼuro 
+swim: annanu 
+tail: aruʼiro 
+this: ne 
+2 sg: ale 
+thou: ale 
+you: ale 
+tongue: mei 
+tooth: niha7u	nihaʼu 
+grind: rua	r̃úa 
+two: rua	r̃úa 
+go: oi 
+walk: oi 
+hot: puʼuʼolo 
+warm: puʼuʼolo 
+water: aelo 
+1 pl. inc.: ama	eko 
+we: ama	eko 
+we₁: ama	eko 
+what: kaalo 
+white: puʼiro 
+whiteness: puʼiro 
+who: kei 
+who?: kei 
+female: pipinalo 
+woman: pipinalo 
+yellow: poposurolo 
+distant: lau 
+far: lau 
+dull: pira 
+heavy: pira 
+serious: pira 
+close: masu 
+near: masu 
+ner: masu 
+salt: asiolo 
+short: kokoru 
+snake: inyalo 
+thin: mdala 
+wind: anino 
+earthworm: hiau 
+worm: hiau 
+year: naalo 
+2 pl.: imi 
+ye: imi 
+you all: imi 
+3 pl.: siri 
+they: siri 
+where: se oi 
+where?: se oi 
+when: pou ayira 
+when?: pou ayira 
+how: komo 
+how?: komo 
+other: ameeno 
+three: oru	ʔóru 
+four: haʼa	ʔáʔa 
+five: rima 
+broad: ira 
+wide: ira 
+wideness: ira 
+fat: minairo 
+thick: huʼoro 
+narrow: keʼe 
+principal wife: ahinalo 
+wife: ahinalo 
+husband: manawalo 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+forest: esiolo 
+woods: esiolo 
+branch: ai kanano 
+stick: ai kanano 
+fruit: huuwano 
+flower: puteiro 
+grass: irihuʼuno 
+cord: aloʼolo 
+rope: aloʼolo 
+flesh: isiino 
+meat: isiino 
+grease: minairo 
+wing: ihiroono 
+gut: huʼuwa 
+guts: huʼuwa 
+insides: huʼuwa 
+intestine: huʼuwa 
+intestines: huʼuwa 
+back: riaʼe 
+suck: monoʼe 
+spit: tuhura 
+vomit: momoʼa 
+blow: huro 
+breath: napas 
+breathe: napas 
+laugh: moo 
+laughter: moo 
+cogitate: pikir 
+reflect: pikir 
+think: pikir 
+smell: suma 
+sniff: suma 
+afraid: mʼau 
+be afraid: mʼau 
+fear: mʼau 
+fright: mʼau 
+alive: mahai 
+be alive: mahai 
+life: mahai 
+live: mahai 
+living: mahai 
+hunt: kasare 
+beat: hiʼa 
+hit: hiʼa 
+strike: hiʼa 
+cut: koʼo 
+hack: koʼo 
+cut open: haʼa 
+split: haʼa 
+pierce: siha 
+stab: siha 
+scratch: yala 
+dig: ari 
+stand: olo 
+drop: mnahu 
+fall: mnahu 
+grasp: kakaʼe 
+hold: kakaʼe 
+hold in arm: kakaʼe 
+squeeze: molaʼe 
+wring: molaʼe 
+throw: lapeʼe 
+bind: hoʼolo 
+fasten: hoʼolo 
+tie: hoʼolo 
+tie up: hoʼolo 
+sew: kai 
+count: neheʼe 
+enumerate: neheʼe 
+number: neheʼe 
+tally: neheʼe 
+flow: hoono 
+lake: ihu 
+ocean: awaero 
+sea: awaero 
+dust: hau maʼano 
+fog: weweuʼo 
+sky: laɲolo 
+bad: ahia 
+evil: ahia 
+rot: peperi 
+rotten: peperi 
+dirty: tatai 
+filthy: tatai 
+soiled: tatai 
+sharp: meu 
+damp: popoʼa 
+wet: popoʼa 
+right side: au minalo 
+left: au papao 
+at: se 
+in: laloono 
+inside: laloono 
+and: le	ruaʼe 
+if: kalo 

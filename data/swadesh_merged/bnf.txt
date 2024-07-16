@@ -1,0 +1,271 @@
+all: ofila	yalik 
+every: ofila	yalik 
+ash: lav	yāf-tain 
+ashes: lav	yāf-tain 
+abdomen: -tian	fuʔa-n	toan 
+belly: -tian	fuʔa-n	toan 
+big: ayak	sisa 
+bigness: ayak	sisa 
+large: ayak	sisa 
+bird: miova	ohos 
+bite: kasat	kat 
+black: mametan	meta-meta-n 
+blood: -lawa	lasa	lawa 
+bone: -luin	lui	lusi 
+breast: -susin	susi	susi-n	susin 
+breasts: -susin	susi	susi-n	susin 
+burn: dun	lut	tuin 
+burn tr.: dun	lut	tuin 
+cloud: suhan	yofan 
+cold: basiniŋ	ba|ʔidik 
+come: sehit	slot 
+come from: sehit	slot 
+be dead: mata 
+dead: mata 
+die: mata 
+dog: yai	yasav	yasṿ 
+drink: inav	nimin	n|inṿ 
+dry: kamaren	mamala	rot 
+ear: talika	talikan	telike	telike-n	teliken lan 
+eat: ken	kān 
+egg: toli-n	tolin 
+eye: mata	mata-n	matan	matan tali 
+feather: fuli-n	vulin 
+fire: yaf	yafav	yafh~	yafṿ	yāf 
+fish: i7en	ian	ien	iʔen 
+fly: div	rihi 
+fly v.: div	rihi 
+full: bom 
+good: fia	kanuin 
+green: biri-biri	iǰo 
+hair: -ulin	uli-n laa-n 
+hand: -niman	fasa	fasa-n	fh~asan kun wa	nima 
+left hand: -niman	fasa	fasa-n	fh~asan kun wa	nima 
+right: -niman	fasa	fasa-n	fh~asan kun wa	nima 
+head: -unlin katin	uli-n 
+hear: a-loka	aloka	b|loka	loka 
+1 sg.: a	ya	ya so	yā 
+I: a	ya	ya so	yā 
+kill: huin	vunṿ 
+knee: tulan	tulan beben 
+be knowledgeable: batafenen	vane|ta 
+know: batafenen	vane|ta 
+leaf: ai lan	la	laa-n	lan 
+lie: burburiŋ	nimeh 
+lie down: burburiŋ	nimeh 
+liver: -yatan	dyahein	yahei	yahein yathen	yata	yath~e 
+long: otak 
+head louse: kuti	kutin	tenimen 
+louse: kuti	kutin	tenimen 
+male: mesana-n	muana 
+man: %mans~ia	mansia	otitui 
+moon: fulan	vulan 
+hill: boi 
+mountain: boi 
+mouth: ube-n	vivin	vudin 
+name: nala	nala-n	nalan 
+title: nala	nala-n	nalan 
+neck: -yonin	wonobaba-n 
+new: fh~osifh~osin	fos-fosi-n	fosfosi	vavoi 
+night: maenin	meset	messet 
+nighttime: maenin	meset	messet 
+nose: -ilin	ili	nini	nini-n	ninin 
+adulterous: a ain a	ja	sa	san	ʔaina 
+one: a ain a	ja	sa	san	ʔaina 
+single: a ain a	ja	sa	san	ʔaina 
+that: lin 
+the: a ain a	ja	sa	san	ʔaina 
+unprincipled: a ain a	ja	sa	san	ʔaina 
+human: %mans~ia	mansia	otitui 
+human being: %mans~ia	mansia	otitui 
+person: %mans~ia	mansia	otitui 
+rain: roti	ulan 
+rainy weather: roti	ulan 
+red: dadau	kala-kalat 
+path: lalon	lolan	lolon 
+road: lalon	lolan	lolon 
+route: lalon	lolan	lolon 
+root: ai waʔɑt	tami 
+sand: bes	yena 
+say: dula	fatan	lēn 
+see: a	b|a	ita	ʔita 
+sit: duwat	tuot 
+hide: -kurit	kurit	uhit 
+skin: -kurit	kurit	uhit 
+sleep: mtolṿ	nime 
+little: fofin yana	koŋon 
+small: fofin yana	koŋon 
+smallness: fofin yana	koŋon 
+smoke: numik	yāf kuba 
+star: eliovas	muna	toin 
+rock: fati	talin	vatav	vatṿ	vh~ati 
+stone: fati	talin	vatav	vatṿ	vh~ati 
+sun: fh~ulan bara 
+swim: ke-nani	nakụ 
+tail: efat	leken 
+this: iso	li 
+2 sg: ai	ai so	ana 
+thou: ai	ai so	ana 
+you: ai	ai so	ana 
+tongue: -melin	lehe	meli 
+tooth: -nifa[n]	nifa	nihe	nihe-n	nihen tali 
+tree: ai 
+grind: lua	ʔainlua 
+two: lua	ʔainlua 
+go: ko	lowo-lowot 
+walk: ko	lowo-lowot 
+hot: bafanat	bobit 
+warm: bafanat	bobit 
+water: wai	wai[is]	wais 
+1 pl. inc.: am	ame	ita	ita so	ʔame	ʔita 
+we: am	ame	ita	ita so	ʔame	ʔita 
+we₁: am	ame	ita	ita so	ʔame	ʔita 
+what: safa	yanafai 
+white: babutṿ	buti 
+whiteness: babutṿ	buti 
+who: ise|nso	se|na 
+who?: ise|nso	se|na 
+female: fine-n	vina 
+woman: fine-n	vina 
+yellow: isi inet	unin 
+distant: otak	wōtot 
+far: otak	wōtot 
+dull: biat	toni 
+heavy: biat	toni 
+serious: biat	toni 
+close: moaka	wetuwetik 
+near: moaka	wetuwetik 
+ner: moaka	wetuwetik 
+salt: tasik nōhin 
+short: wetuwetik 
+snake: bufin	ulei 
+thin: minifit 
+wind: j|akin	yakin 
+earthworm: faninen	urat 
+worm: faninen	urat 
+year: na:	nala 
+2 pl.: em	ʔimu 
+ye: em	ʔimu 
+you all: em	ʔimu 
+3 pl.: ile	sia 
+they: ile	sia 
+where: iata ua	matawaya 
+where?: iata ua	matawaya 
+when: bot fila	kala 
+when?: bot fila	kala 
+how: dawaya	yanafai 
+how?: dawaya	yanafai 
+other: mesēli-séwit	vilul 
+three: tol	toli	ʔaintoli 
+four: fet	fāt	ʔainfat 
+five: ʔainlima 
+broad: tiban	tihé 
+wide: tiban	tihé 
+wideness: tiban	tihé 
+fat: -iak	muos tantan 
+thick: vitól	yisé 
+narrow: kofa-kofat	robon 
+principal wife: sawan	sowe-n 
+wife: sawan	sowe-n 
+husband: sawan	sowe-n 
+his mother: ina ovi	inan 
+mother: ina ovi	inan 
+my mother: ina ovi	inan 
+father: baba	yama	yawan 
+his father: baba	yama	yawan 
+my father: baba	yama	yawan 
+forest: ai lalan	fanalān 
+woods: ai lalan	fanalān 
+branch: ai yakan	saka-n 
+stick: ai yakan	saka-n 
+fruit: ai vuan	fua 
+flower: ai futin	fusi-n	kuba-n 
+grass: fanuli	fofṿ 
+cord: fam-wasat	wawat 
+rope: fam-wasat	wawat 
+flesh: -isin	samar 
+meat: -isin	samar 
+grease: -iak	muos tantan 
+wing: umois	yeun 
+gut: -vituan	wale-n 
+guts: -vituan	wale-n 
+insides: -vituan	wale-n 
+intestine: -vituan	wale-n 
+intestines: -vituan	wale-n 
+back: -kotan	karan 
+suck: moit	sosa 
+spit: beba	fetōf 
+vomit: -lua	lua-k 
+blow: luti	nu: 
+breath: -mesi	minowa 
+breathe: -mesi	minowa 
+laugh: mli	wali 
+laughter: mli	wali 
+cogitate: [uha]uoho	fikir 
+reflect: [uha]uoho	fikir 
+think: [uha]uoho	fikir 
+smell: -bufmauk	mulit liʔet 
+sniff: -bufmauk	mulit liʔet 
+afraid: mi-toi	mtait 
+be afraid: mi-toi	mtait 
+fear: mi-toi	mtait 
+fright: mi-toi	mtait 
+alive: lihen	meka 
+be alive: lihen	meka 
+life: lihen	meka 
+live: lihen	meka 
+living: lihen	meka 
+hunt: fusa	vakavela 
+beat: biat	leit 
+hit: biat	leit 
+strike: biat	leit 
+cut: da:	tasa 
+hack: da:	tasa 
+cut open: bat	siet 
+split: bat	siet 
+pierce: devat	taha	toi 
+stab: devat	taha	toi 
+scratch: kwas	pala|kasa 
+dig: kalṿ 
+stand: kolan	ko|lan 
+drop: menahei	mnav 
+fall: menahei	mnav 
+grasp: doman	siet 
+hold: doman	siet 
+hold in arm: doman	siet 
+squeeze: foron	lefa 
+wring: foron	lefa 
+throw: dau	dutṿ	tōi 
+bind: nafit	tes 
+fasten: nafit	tes 
+tie: nafit	tes 
+tie up: nafit	tes 
+sew: bakasoma	tula 
+count: [rekiŋ]	woʔis 
+enumerate: [rekiŋ]	woʔis 
+number: [rekiŋ]	woʔis 
+tally: [rekiŋ]	woʔis 
+flow: bai	bait 
+lake: tifṿ 
+ocean: tasi	tasik 
+sea: tasi	tasik 
+dust: lav 
+fog: siwan 
+sky: lakit 
+bad: kaǰahatan 
+evil: kaǰahatan 
+rot: koban 
+rotten: koban 
+dirty: efieye	fofị fofị 
+filthy: efieye	fofị fofị 
+soiled: efieye	fofị fofị 
+sharp: kat	mōit 
+blunt: nona 
+damp: loba loban	marémen 
+wet: loba loban	marémen 
+right side: kamuin	leileit 
+left: avet	kobalit 
+at: vi 
+in: lala-n	vilala 
+inside: lala-n	vilala 
+and: dua 

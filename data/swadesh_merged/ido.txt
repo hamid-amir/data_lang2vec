@@ -1,0 +1,334 @@
+all: omna 
+every: omna 
+ash: cindro 
+ashes: cindro 
+bark: kortico 
+abdomen: ventro 
+belly: ventro 
+big: granda 
+bigness: granda 
+large: granda 
+bird: ucelo 
+bite: mordar 
+black: nigra 
+blood: sango 
+bone: osto 
+breast: mamo	sino 
+breasts: mamo	sino 
+cloud: nubo 
+cold: kolda 
+come: ven	venar 
+come from: ven	venar 
+be dead: mort	mortar 
+dead: mort	mortar 
+die: mort	mortar 
+dog: hundo 
+drink: drink	drinkar 
+dry: sika 
+ear: orelo 
+earth: tero 
+ground: tero 
+land: tero 
+soil: tero 
+eat: manjar 
+egg: ovo 
+eye: okulo 
+feather: plumo 
+fire: fairo 
+fish: fiSo	fisho 
+fly: flugar 
+fly v.: flugar 
+foot: pedo 
+full: plena 
+give: donar 
+good: bona 
+green: verda 
+hair: haro 
+hand: manuo 
+left hand: manuo 
+right: manuo 
+head: kapo 
+hear: aud	audar 
+heart: kordio 
+horn: korno 
+1 sg.: me 
+I: me 
+kill: mortigar 
+knee: genuo 
+be knowledgeable: savar 
+know: savar 
+leaf: folio 
+liver: hepato 
+long: longa 
+head louse: lauso 
+louse: lauso 
+male: viro 
+man: homo	persono 
+many: multe 
+much: multe 
+multiple: multe 
+several: multe 
+moon: luno 
+hill: monto 
+mountain: monto 
+mouth: boko 
+name: nomo 
+title: nomo 
+neck: kolo 
+new: nova 
+night: nokto 
+nighttime: nokto 
+nose: nazo 
+not: ne 
+adulterous: un 
+one: un 
+single: un 
+that: ita 
+the: un 
+unprincipled: un 
+human: homo	persono 
+human being: homo	persono 
+person: homo	persono 
+rain: pluvo 
+rainy weather: pluvo 
+red: reda 
+path: Ziro	strado	voyo 
+road: Ziro	strado	voyo 
+route: Ziro	strado	voyo 
+root: radiko 
+round: ronda 
+sand: sablo 
+say: dicar 
+see: vid	vidar 
+seed: semino 
+sit: sidar 
+hide: pelo 
+skin: pelo 
+sleep: dormar 
+little: mikra 
+small: mikra 
+smallness: mikra 
+smoke: fumuro 
+star: astro	stelo 
+rock: petro	stono 
+stone: petro	stono 
+sun: suno 
+swim: natar 
+tail: kaudo 
+this: ica 
+2 sg: tu 
+thou: tu 
+you: tu 
+tongue: lango 
+tooth: dento 
+tree: arboro 
+grind: du 
+two: du 
+go: marchar	promenar 
+walk: marchar	promenar 
+hot: varma 
+warm: varma 
+water: akvo	aquo 
+1 pl. inc.: ni 
+we: ni 
+we₁: ni 
+what: quo 
+white: blanka 
+whiteness: blanka 
+who: qua 
+who?: qua 
+female: muliero 
+woman: muliero 
+yellow: flava 
+distant: for 
+far: for 
+dull: pezoza 
+heavy: pezoza 
+serious: pezoza 
+close: proxim 
+near: proxim 
+ner: proxim 
+salt: salo 
+short: kurta 
+snake: serpento 
+thin: dina 
+wind: vento 
+earthworm: vermo 
+worm: vermo 
+year: yaro 
+3 sg.: ilu 
+he: ilu 
+she: ilu 
+2 pl.: vi 
+ye: vi 
+you all: vi 
+3 pl.: li 
+they: li 
+here: hike 
+there: ibe 
+where: ube 
+where?: ube 
+when: kande 
+when?: kande 
+how: quale 
+how?: quale 
+some: kelka 
+few: poka 
+other: altra 
+three: tri 
+four: quar 
+five: kin 
+broad: larja 
+wide: larja 
+wideness: larja 
+fat: graso 
+thick: dika 
+narrow: streta 
+child: infanto 
+principal wife: spozino 
+wife: spozino 
+husband: spozulo 
+his mother: matro 
+mother: matro 
+my mother: matro 
+father: patro 
+his father: patro 
+my father: patro 
+animal: animalo 
+forest: foresto 
+woods: foresto 
+branch: bastono 
+stick: bastono 
+fruit: frukto 
+flower: floro 
+grass: herbo 
+cord: kordo 
+rope: kordo 
+flesh: karno 
+meat: karno 
+grease: graso 
+claw: unglo 
+fingernail: unglo 
+nail: unglo 
+leg: gambo 
+arm: manuo 
+wing: alo 
+gut: intestini 
+guts: intestini 
+insides: intestini 
+intestine: intestini 
+intestines: intestini 
+back: dorso 
+suck: sugar 
+spit: sputar 
+vomit: vomar 
+blow: suflar 
+breath: respirar 
+breathe: respirar 
+laugh: ridar 
+laughter: ridar 
+cogitate: pensar 
+reflect: pensar 
+think: pensar 
+smell: flarar 
+sniff: flarar 
+afraid: timar 
+be afraid: timar 
+fear: timar 
+fright: timar 
+alive: vivar 
+be alive: vivar 
+life: vivar 
+live: vivar 
+living: vivar 
+fight: kombatar 
+hunt: chasar 
+beat: batar 
+hit: batar 
+strike: batar 
+cut: tondar 
+hack: tondar 
+cut open: dividar	fendi 
+split: dividar	fendi 
+pierce: pikar 
+stab: pikar 
+scratch: skrachar 
+dig: fodar 
+lie: jacar 
+lie down: jacar 
+tell lies: jacar 
+stand: stacar 
+turn: jirar 
+turn around: jirar 
+turn round: jirar 
+drop: falar 
+fall: falar 
+grasp: tenar 
+hold: tenar 
+hold in arm: tenar 
+squeeze: ekpresar 
+wring: ekpresar 
+rub: fricionar	frotar 
+wipe: vishar 
+wash: lavar 
+wash clothes: lavar 
+pull: tirar 
+push: pulsar 
+shove: pulsar 
+throw: jetar 
+bind: ligar 
+fasten: ligar 
+tie: ligar 
+tie up: ligar 
+sew: sutar 
+count: contar 
+enumerate: contar 
+number: contar 
+tally: contar 
+sing: kantar 
+have fun: ludar 
+play: ludar 
+float: flotacar 
+flow: fluar 
+freeze: frostar 
+swell: inflar 
+brook: rivero 
+river: rivero 
+stream: rivero 
+lake: lago 
+ocean: maro 
+sea: maro 
+dust: polvo 
+fog: nebulo 
+sky: cielo 
+snow: nivo 
+ice: glacio 
+blaze: brular 
+burn: brular 
+day: jorno 
+daylight: jorno 
+daytime: jorno 
+old: olda 
+bad: mala 
+evil: mala 
+rot: putrar 
+rotten: putrar 
+dirty: sordida 
+filthy: sordida 
+soiled: sordida 
+straight: rekta 
+sharp: akuta 
+blunt: obtuza 
+smooth: glata 
+damp: humida 
+wet: humida 
+correct: korekta 
+right side: dextra 
+left: sinistra 
+at: an 
+in: en 
+inside: en 
+with: kun 
+and: e	ed 
+if: se 
+because: pro 

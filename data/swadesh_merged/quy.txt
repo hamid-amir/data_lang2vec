@@ -1,0 +1,334 @@
+all: lliw	tukuy 
+every: lliw	tukuy 
+ash: uchpa 
+ashes: uchpa 
+bark: qara 
+abdomen: wiksa 
+belly: wiksa 
+big: hatun 
+bigness: hatun 
+large: hatun 
+bird: lluta 
+bite: kaniy 
+black: yana 
+blood: yawar 
+bone: toLo	tuLu	tullu 
+breast: 5o5o	5u5u	qasqu 
+breasts: 5o5o	5u5u	qasqu 
+cloud: puyu 
+cold: chiri 
+come: hamuy 
+come from: hamuy 
+be dead: wa5uy	wañuy 
+dead: wa5uy	wañuy 
+die: wa5uy	wañuy 
+dog: aLh~o	aLqo	allqu 
+drink: upuy	upyay	wenqoy	weqyay 
+dry: chaki 
+ear: riNri	rinri 
+earth: allpa 
+ground: allpa 
+land: allpa 
+soil: allpa 
+eat: mikhuy 
+egg: runtu 
+eye: 5awi	ñawi 
+feather: puru 
+fire: nina 
+fish: CaLua	CaLwa	challwa 
+fly: phaway 
+fly v.: phaway 
+foot: chaki 
+full: hunta	huntʼa 
+give: quy 
+good: kusa	sumaq 
+green: qumir 
+hair: chukcha 
+hand: maki 
+left hand: maki 
+right: maki 
+head: uma 
+hear: uyarikuy	uyariy 
+heart: sunqu 
+horn: waXra	waqra 
+1 sg.: 5oXa	5oqa	5uXa	ñuqa 
+I: 5oXa	5oqa	5uXa	ñuqa 
+kill: wañuchiy 
+knee: moXo	muXu	qunquri 
+be knowledgeable: yachay 
+know: yachay 
+leaf: LaXe	Laqe	laqi	rapi 
+liver: kipCaN	kipCan	kiwcha	kʼipchan 
+long: suni 
+head louse: usa 
+louse: usa 
+male: qhari 
+man: runa 
+many: achka 
+much: achka 
+multiple: achka 
+several: achka 
+moon: killa 
+hill: orXo	urXo	urqu 
+mountain: orXo	urXo	urqu 
+mouth: simi 
+name: suti	sutiy 
+title: suti	sutiy 
+neck: kunka 
+new: mosoX	mosoq	musuX	musuq 
+night: tuta 
+nighttime: tuta 
+nose: senqa	siNXa	sinqa 
+not: ama …chu	mana …chu 
+adulterous: huk 
+one: huk 
+single: huk 
+that: chay	haqay 
+the: huk 
+unprincipled: huk 
+human: runa 
+human being: runa 
+person: runa 
+rain: para 
+rainy weather: para 
+red: puka 
+path: 5a5	5an	ñan 
+road: 5a5	5an	ñan 
+route: 5a5	5an	ñan 
+root: sapi 
+round: muyu 
+sand: tʼiyu 
+say: niy 
+see: Xaway	qaway	rikuy 
+seed: muhu 
+sit: tiyakuy 
+hide: hara	qara 
+skin: hara	qara 
+sleep: puñuy 
+little: uchuy 
+small: uchuy 
+smallness: uchuy 
+smoke: qusñi 
+star: qoyLur	quyllur	tSask~a 
+rock: rumi 
+stone: rumi 
+sun: inti	int~i 
+swim: waytʼay 
+tail: chupa 
+this: kay 
+2 sg: Xam	kinkin	qam 
+thou: Xam	kinkin	qam 
+you: Xam	kinkin	qam 
+tongue: XaLu	qaLu	qallu 
+tooth: kiru 
+tree: saCa	sacha 
+grind: iskay 
+two: iskay 
+go: puriy 
+walk: puriy 
+hot: illi 
+warm: illi 
+water: unu	yaku 
+1 pl. inc.: 5uXanCik	5uhayku	noqanCik	ñuqanchik	ñuqayku 
+we: 5uXanCik	5uhayku	noqanCik	ñuqanchik	ñuqayku 
+we₁: 5uXanCik	5uhayku	noqanCik	ñuqanchik	ñuqayku 
+what: ima 
+white: yuraq 
+whiteness: yuraq 
+who: pi 
+who?: pi 
+female: warmi 
+woman: warmi 
+yellow: qillu 
+distant: karu 
+far: karu 
+dull: llasa 
+heavy: llasa 
+serious: llasa 
+close: sichpa 
+near: sichpa 
+ner: sichpa 
+salt: kachi 
+short: chutu	kuru 
+snake: amaru	katari	machʼaqway 
+thin: ñañu 
+wind: wayra 
+earthworm: kuru 
+worm: kuru 
+year: wata 
+3 sg.: pay 
+he: pay 
+she: pay 
+2 pl.: kinkinkuna	qamkuna 
+ye: kinkinkuna	qamkuna 
+you all: kinkinkuna	qamkuna 
+3 pl.: paykuna 
+they: paykuna 
+here: kaypi 
+there: chaypi 
+where: maypi 
+where?: maypi 
+when: maykap 
+when?: maykap 
+how: imayna 
+how?: imayna 
+some: imapis 
+few: aslla	tumpi 
+other: huk 
+three: kimsa 
+four: tawa 
+five: pichqa 
+broad: luqhu 
+wide: luqhu 
+wideness: luqhu 
+fat: wira 
+thick: raku 
+narrow: kʼichki 
+child: irqi 
+principal wife: warmi 
+wife: warmi 
+husband: qusa 
+his mother: mama 
+mother: mama 
+my mother: mama 
+father: tayta	yaya 
+his father: tayta	yaya 
+my father: tayta	yaya 
+animal: uywa 
+forest: sachakuna 
+woods: sachakuna 
+branch: kaspi 
+stick: kaspi 
+fruit: ruru 
+flower: tʼika 
+grass: qura 
+cord: waska 
+rope: waska 
+flesh: aycha 
+meat: aycha 
+grease: wira 
+claw: sillu 
+fingernail: sillu 
+nail: sillu 
+leg: chanka 
+arm: maki 
+wing: rapra 
+gut: chunchul 
+guts: chunchul 
+insides: chunchul 
+intestine: chunchul 
+intestines: chunchul 
+back: wasa 
+suck: chunqay 
+spit: tuqay 
+vomit: aqtuy 
+blow: phukuy	wayray 
+breath: samay 
+breathe: samay 
+laugh: asiy 
+laughter: asiy 
+cogitate: yuyay 
+reflect: yuyay 
+think: yuyay 
+smell: mutkiy 
+sniff: mutkiy 
+afraid: manchay 
+be afraid: manchay 
+fear: manchay 
+fright: manchay 
+alive: kawsay 
+be alive: kawsay 
+life: kawsay 
+live: kawsay 
+living: kawsay 
+fight: awqay 
+hunt: chakuy	kasachiy 
+beat: maqay 
+hit: maqay 
+strike: maqay 
+cut: kuchuy	pʼitiy 
+hack: kuchuy	pʼitiy 
+cut open: laray 
+split: laray 
+pierce: chusyay 
+stab: chusyay 
+scratch: aspiy 
+dig: allay 
+lie: sirikuy	waqtapay 
+lie down: sirikuy	waqtapay 
+tell lies: sirikuy	waqtapay 
+stand: sayariy 
+turn: muyuy 
+turn around: muyuy 
+turn round: muyuy 
+drop: urmay 
+fall: urmay 
+grasp: tiyaway 
+hold: tiyaway 
+hold in arm: tiyaway 
+squeeze: qapiy 
+wring: qapiy 
+rub: kituy 
+wipe: chakichiy 
+wash: maqchiy	taqsay 
+wash clothes: maqchiy	taqsay 
+pull: aysay 
+push: tanqay 
+shove: tanqay 
+throw: chamqay	wichuy 
+bind: watay 
+fasten: watay 
+tie: watay 
+tie up: watay 
+sew: siray 
+count: yupay 
+enumerate: yupay 
+number: yupay 
+tally: yupay 
+sing: takiy 
+have fun: pukllay 
+play: pukllay 
+float: tuytuy 
+flow: tinkukuy 
+freeze: qasay 
+swell: punkiy 
+brook: mayu 
+river: mayu 
+stream: mayu 
+lake: qucha 
+ocean: mama qucha 
+sea: mama qucha 
+dust: hallpʼa 
+fog: phuya 
+sky: hawa 
+snow: ritʼi 
+ice: qasa 
+blaze: rawray 
+burn: rawray 
+day: pʼunchaw 
+daylight: pʼunchaw 
+daytime: pʼunchaw 
+old: machu	tanta 
+bad: mana allin 
+evil: mana allin 
+rot: ismusqa 
+rotten: ismusqa 
+dirty: qanra 
+filthy: qanra 
+soiled: qanra 
+straight: chiqa 
+sharp: kachi 
+blunt: ruqu 
+smooth: lluspi 
+damp: huqʼu 
+wet: huqʼu 
+correct: chanin 
+right side: paña 
+left: lluqi 
+at: -pi 
+in: -pi 
+inside: -pi 
+with: -yuq 
+and: -wan 
+if: -pti-	manapiqa	sichus 
+because: -rayku 

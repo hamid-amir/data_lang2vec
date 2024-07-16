@@ -1,0 +1,306 @@
+all: kull 
+every: kull 
+ash: ḳeṭmā 
+ashes: ḳeṭmā 
+bark: ḳalptā 
+big: rab 
+bigness: rab 
+large: rab 
+bird: pāraχtā	ṣippārā 
+bite: nkat 
+black: mšaχχar	šχīr	ʔukkām ̃ ʔakkūm 
+blood: adma	dma	dmā	ʔadmā 
+bone: garma	garmā 
+breast: Xadia	daddā	tda	tdā	χadyā 
+breasts: Xadia	daddā	tda	tdā	χadyā 
+claw: ṭeprā 
+nail: ṭeprā 
+talon: ṭeprā 
+cloud: ʁnānā 
+cold: ʁrē	ḳarrīr	ḳarrīš	ṣnīn 
+come: eta	ʔetā 
+come from: eta	ʔetā 
+be dead: mit	mīt 
+dead: mit	mīt 
+die: mit	mīt 
+dog: kalba	kalbā 
+drink: eSti	ʔeštī 
+dry: yabbīš 
+ear: edna	udna	ʔednā ̃ ʔudnā 
+earth: ʔarʁā 
+ground: ʔarʁā 
+land: ʔarʁā 
+soil: ʔarʁā 
+eat: ʔkal 
+egg: bēʁtā 
+eye: Xaina	ʁaynā 
+feather: gelpānā	ʔebrā 
+fire: nura	nūrā 
+fish: nuna	nūnā 
+fly: praχ	ṭās 
+fly v.: praχ	ṭās 
+foot: reglā 
+full: mle	mlē 
+give: ntan	yhab 
+good: ṭāb 
+green: yarḳān	yrāḳ 
+hair: saʁrā 
+hand: ida	ydā ̃ ʔīdā 
+left hand: ida	ydā ̃ ʔīdā 
+right: ida	ydā ̃ ʔīdā 
+head: rēšā 
+hear: SmaX	šmaʁ 
+heart: lebbā 
+horn: karna	ḳarnā 
+1 sg.: -nā	ana	ena	ʔanā ̃ ʔenā 
+I: -nā	ana	ena	ʔanā ̃ ʔenā 
+kill: ḳṭal 
+knee: arkubta	burke	burkā	ʔarkubtā ̃ rkubtā 
+be knowledgeable: ydaʁ	χkam 
+know: ydaʁ	χkam 
+leaf: tarpa	ṭarpā 
+lie: dmok	gnā	mak	rbaʁ	škab 
+lie down: dmok	gnā	mak	rbaʁ	škab 
+liver: kabda	kabdā 
+long: ʔarrīk 
+head louse: kalma	kalmta	kalmtā	ḳalmā 
+louse: kalma	kalmta	kalmtā	ḳalmā 
+male: gabrā 
+man: barnaSa	barnāšā 
+flesh: besrā 
+meat: besrā 
+moon: sahrā	zihrā 
+hill: tura	ṭūrā 
+mountain: tura	ṭūrā 
+mouth: pūmā ̃ pmā 
+name: Sma	šmā 
+title: Sma	šmā 
+neck: ḳdālā 
+new: Xdat	χdat 
+night: lelia	lēlyā 
+nighttime: lelia	lēlyā 
+nose: appa	ʔappā 
+adulterous: Xad	ḥaḏ 
+one: Xad	ḥaḏ 
+single: Xad	ḥaḏ 
+that: Xad	ḥaḏ 
+the: Xad	ḥaḏ 
+unprincipled: Xad	ḥaḏ 
+human: barnaSa	barnāšā 
+human being: barnaSa	barnāšā 
+person: barnaSa	barnāšā 
+rain: meṭrā 
+rainy weather: meṭrā 
+red: smïḳ	summāḳ ̃ semmōḳ 
+path: Sbila	kebSa 
+road: Sbila	kebSa 
+route: Sbila	kebSa 
+root: ʁeḳḳārā 
+round: glīl ̃ ʁgīl 
+sand: χālā 
+say: ʔemar 
+see: Xw~a	Xza	χwā ̃ χmā	χzā 
+seed: bar-zarʁā	bazrā	zarʁōnā 
+sit: yteb 
+hide: maSka	maškā 
+skin: maSka	maškā 
+sleep: dmok	nām 
+little: zʁēr ̃ zʁōr 
+small: zʁēr ̃ zʁōr 
+smallness: zʁēr ̃ zʁōr 
+smoke: tennānā ̃ tannənā 
+star: kawkba	kawkbā 
+rock: abna	kepa	kēpā	ʔabnā 
+stone: abna	kepa	kēpā	ʔabnā 
+sun: semSa	s̄emšā 
+swim: sχā	šāṭ ̃ šʁaṭ 
+tail: dunbā	ʔlītā 
+2 sg: at	ʔat 
+thou: at	ʔat 
+you: at	ʔat 
+tongue: leSSana	leššānā 
+tooth: Senna	šennā 
+tree: ilana 
+grind: tren	trēn	tərên 
+two: tren	trēn	tərên 
+go: hallek 
+walk: hallek 
+hot: šrīb	šχen	ṣaχχīχ 
+warm: šrīb	šχen	ṣaχχīχ 
+water: maia	mayyā 
+1 pl. inc.: Xnan	anana 
+we: Xnan	anana 
+we₁: Xnan	anana 
+what: mā 
+white: χewwār 
+whiteness: χewwār 
+who: man 
+who?: man 
+female: ʔinttā ̃ ʔattā 
+woman: ʔinttā ̃ ʔattā 
+yellow: kurkmān	yarḳān	šʁōtānāy 
+distant: rχīḳ 
+far: rχīḳ 
+dull: yaḳḳīr 
+heavy: yaḳḳīr 
+serious: yaḳḳīr 
+close: qrīb	smīk 
+near: qrīb	smīk 
+ner: qrīb	smīk 
+salt: melχā 
+short: makkīk	māk 
+snake: χewyā 
+thin: ḳṭīn 
+wind: rūχā 
+earthworm: sāsā	tawlaʁtā 
+worm: sāsā	tawlaʁtā 
+year: šattā 
+2 pl.: -tōn	ʔattōn 
+ye: -tōn	ʔattōn 
+you all: -tōn	ʔattōn 
+where: ʔaykān ̃ hēkān 
+where?: ʔaykān ̃ hēkān 
+when: ʔemmat ̃ ʔēmātay 
+when?: ʔemmat ̃ ʔēmātay 
+few: bṣīr	dlīl	zʁōr ̃ zʁēr	ḳallīl 
+three: tlāt	təlāṯā 
+four: ʔarbaʁ	ʾarbəʿâ 
+five: χammeš	ḥamšâ 
+broad: ptē 
+wide: ptē 
+wideness: ptē 
+fat: mešχā	šammīnā 
+thick: ʁbē 
+narrow: ʁīḳ	ḳṭīn 
+child: dardḳā	yānōḳā 
+principal wife: ʔinttā ̃ ʔattā 
+wife: ʔinttā ̃ ʔattā 
+husband: baʁlā	gabrā 
+his mother: ʔemmā 
+mother: ʔemmā 
+my mother: ʔemmā 
+father: ʔabbā 
+his father: ʔabbā 
+my father: ʔabbā 
+animal: χaywtā 
+forest: ʁābā	χuršā 
+woods: ʁābā	χuršā 
+branch: sawktā	sawkā	ʁnāpā 
+stick: sawktā	sawkā	ʁnāpā 
+flower: parχā	perʁā	ʁupyā 
+grass: detʔā	ʁesbā	χṣīrtā 
+cord: gdīltā	ʔešlā	χablā 
+rope: gdīltā	ʔešlā	χablā 
+grease: mešχā	šammīnā 
+fingernail: ṭeprā 
+leg: krāʁā 
+gut: mʁayyā 
+guts: mʁayyā 
+insides: mʁayyā 
+intestine: mʁayyā 
+intestines: mʁayyā 
+back: gabbā 
+suck: maṣ	maṣmeṣ	mṣā 
+spit: raḳ 
+vomit: gsā	gʁam	gʁaṭ	ʔtīb 
+blow: npaχ	nšab	nšam	nšap 
+breath: npaš	nšam 
+breathe: npaš	nšam 
+laugh: gχak	χāk 
+laughter: gχak	χāk 
+cogitate: hgā	χšab 
+reflect: hgā	χšab 
+think: hgā	χšab 
+smell: ʔarīχ 
+sniff: ʔarīχ 
+afraid: deχltā 
+be afraid: deχltā 
+fear: deχltā 
+fright: deχltā 
+alive: χay	χayyīn 
+be alive: χay	χayyīn 
+life: χay	χayyīn 
+live: χay	χayyīn 
+living: χay	χayyīn 
+fight: garrī	ktaš	ʔagīχ 
+hunt: ṣād 
+beat: mχā 
+hit: mχā 
+strike: mχā 
+cut: ḳṭaʁ 
+hack: ḳṭaʁ 
+cut open: bzaʁ	pṣal	saddeḳ 
+split: bzaʁ	pṣal	saddeḳ 
+pierce: nḳab 
+stab: nḳab 
+dig: krā	nḳab	nḳar	χpar	χrat	χṭaṭ 
+tell lies: kaddeb	kdab 
+stand: ḳām 
+turn: tāb	χzar 
+turn around: tāb	χzar 
+turn round: tāb	χzar 
+drop: npal 
+fall: npal 
+grasp: ʔeχad 
+hold: ʔeχad 
+hold in arm: ʔeχad 
+squeeze: maṣṣī	mṣā 
+wring: maṣṣī	mṣā 
+rub: mraḳ	šāp 
+wipe: mraḳ	šāp 
+wash: sχā	ʔasseχ 
+wash clothes: sχā	ʔasseχ 
+push: dχap	dχaḳ	dχā 
+shove: dχap	dχaḳ	dχā 
+throw: rmā	zraḳ	ʔaddī 
+bind: kpat 
+fasten: kpat 
+tie: kpat 
+tie up: kpat 
+sew: χāṭ 
+count: mnā 
+enumerate: mnā 
+number: mnā 
+tally: mnā 
+sing: zammar	zmar	ʁnā 
+have fun: gaχχek	ʔaṣdī	ʔeštʁī 
+play: gaχχek	ʔaṣdī	ʔeštʁī 
+float: ṭāp 
+flow: dāb	ngad 
+brook: nahrā 
+river: nahrā 
+stream: nahrā 
+lake: yammā 
+ocean: yammā 
+sea: yammā 
+dust: ʁaprā 
+fog: ʁarplā 
+sky: šmayyā 
+snow: talgā 
+ice: glīdā 
+blaze: ʔetḳallï 
+burn: ʔetḳallï 
+day: yawmā 
+daylight: yawmā 
+daytime: yawmā 
+bad: bʔīš 
+evil: bʔīš 
+rot: msē	pāχōχ	taχχīχ 
+rotten: msē	pāχōχ	taχχīχ 
+dirty: blīl	msayyab	ṭpel 
+filthy: blīl	msayyab	ṭpel 
+soiled: blīl	msayyab	ṭpel 
+straight: trīṣ 
+sharp: χrīp 
+blunt: ḳhē 
+smooth: mrīḳ	špē	šʁē 
+damp: raṭṭīb 
+wet: raṭṭīb 
+correct: kēn	taḳḳīn	trīṣ	zaddiḳ 
+right side: yammīnā 
+left: smālā 
+in: gaw 
+inside: gaw 
+and: we- 
+if: ʔen 
+because: bad-	baglāl	bdīl	bgēn	d-	kloḳbel	meṭṭūl	miššūm 

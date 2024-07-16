@@ -1,0 +1,290 @@
+all: petee 
+every: petee 
+ash: bʊ-tɔ 
+ashes: bʊ-tɔ 
+bark: kɪ-kl̩ɔ 
+abdomen: ɪ-jam 
+belly: ɪ-jam 
+big: gbɛgbɛla 
+bigness: gbɛgbɛla 
+large: gbɛgbɛla 
+bird: ka-ʒwɛ 
+bite: nemi 
+black: tutu 
+blood: dʒosu	josu 
+bone: kɪ-xwa	xw~a 
+breast: kɪ-mʊ	mu 
+breasts: kɪ-mʊ	mu 
+claw: ã-wɔ̃flɔ̃ 
+nail: ã-wɔ̃flɔ̃ 
+talon: ã-wɔ̃flɔ̃ 
+cloud: ɔ-mʊnɔ 
+cold: jɔ 
+come: ba 
+come from: ba 
+be dead: ci	tsi 
+dead: ci	tsi 
+die: ci	tsi 
+dog: ka-kudzɔgɛ	kucogE 
+drink: Nw~i*	ŋwɪ̃ 
+dry: kpã 
+ear: baatɔ	bato 
+earth: ke-sukpa 
+ground: ke-sukpa 
+land: ke-sukpa 
+soil: ke-sukpa 
+eat: tã 
+egg: ki-dze 
+eye: kɪ-wɔ̃ɦũ	wo*hu* 
+fat: bʊ-bɔ 
+fat n.: bʊ-bɔ 
+grease: bʊ-bɔ 
+lubricant: bʊ-bɔ 
+oil: bʊ-bɔ 
+feather: bʊ-sɪ 
+fire: fu	ki-fu 
+fish: kp~a*	kɪ-kpã 
+fly: pɾuɖu 
+fly v.: pɾuɖu 
+foot: kɪ-tsɾɪta 
+full: Tuku	juku 
+give: kɔ 
+good: bɔ 
+green: wʊwɔ 
+hair: kɪ-tɔkputɪka 
+hand: hukp~o	ka-ɦʊkpɔ 
+left hand: hukp~o	ka-ɦʊkpɔ 
+right: hukp~o	ka-ɦʊkpɔ 
+head: kɪ-tɔkpu 
+hear: nu 
+heart: i-dʒi 
+horn: Sa	kɪ-ʃã 
+1 sg.: mi	mɪ 
+I: mi	mɪ 
+kill: ji 
+knee: ki-kwiisi	kw~isi 
+be knowledgeable: ɲi 
+know: ɲi 
+leaf: kɪ-wʊlakpa	wulakp~a 
+lie: ŋwʊsɔ 
+lie down: ŋwʊsɔ 
+liver: ki-te	te 
+long: dze 
+male: a-ɲɪ 
+man: a-nɔ	no 
+many: gelee 
+much: gelee 
+multiple: gelee 
+several: gelee 
+flesh: kɪ-dʒa 
+meat: kɪ-dʒa 
+moon: wele 
+hill: bu-tu	tu 
+mountain: bu-tu	tu 
+mouth: o-nugbu 
+name: 5i	ki-ɲi 
+title: 5i	ki-ɲi 
+neck: o-li 
+new: vuvo	vʊvɔ 
+night: e-liʃi	liSi 
+nighttime: e-liʃi	liSi 
+nose: kɪ-ntɔ	nt~o 
+adulterous: oli 
+one: oli 
+single: oli 
+that: aɲalɪ 
+the: oli 
+unprincipled: oli 
+human: a-nɔ	no 
+human being: a-nɔ	no 
+person: a-nɔ	no 
+rain: sɨbva 
+rainy weather: sɨbva 
+red: dzɪdza 
+path: co	ki-dzo 
+road: co	ki-dzo 
+route: co	ki-dzo 
+root: o-gu 
+round: kpeɾekpeɾe 
+say: ɖɔ 
+see: mu	mʊ 
+seed: e-ji 
+sit: za 
+hide: Supi	i-ʃuupi 
+skin: Supi	i-ʃuupi 
+sleep: dɔtɾa 
+little: bvliji 
+small: bvliji 
+smallness: bvliji 
+smoke: ɔ-ɲɔ 
+stand: lwetiti 
+star: kɪ-wʊ̃wɪ̃	wu*wi* 
+rock: kɪ-sɪ̈kpa	sikp~a 
+stone: kɪ-sɪ̈kpa	sikp~a 
+sun: ki-wi	wi 
+swim: de 
+tail: o-tse 
+this: aɲan 
+2 sg: wo	wɔ 
+thou: wo	wɔ 
+you: wo	wɔ 
+tongue: kɪ-nɪkɪ	niki 
+tooth: ki-le	le 
+tree: o-si	si 
+grind: bv~a	ɪ-bva 
+two: bv~a	ɪ-bva 
+go: bʊga 
+walk: bʊga 
+water: bu-ni	ni 
+1 pl. inc.: blo	blɔ 
+we: blo	blɔ 
+we₁: blo	blɔ 
+what: kide 
+white: fuli 
+whiteness: fuli 
+who: ani 
+who?: ani 
+female: a-dzɪ 
+woman: a-dzɪ 
+distant: o-dzekɔ 
+far: o-dzekɔ 
+dull: lupu 
+heavy: lupu 
+serious: lupu 
+close: tsobunɔ 
+near: tsobunɔ 
+ner: tsobunɔ 
+salt: bʊ-mwɪ 
+short: kpɪkpɔbɔ 
+snake: e-blidʒa 
+thin: plɪplɪ 
+wind: kɪ-lɛ 
+earthworm: o-dʒinidʒini 
+worm: o-dʒinidʒini 
+year: kɪ-gɔ 
+3 sg.: jɪ 
+he: jɪ 
+she: jɪ 
+2 pl.: w̃ʊ̃nɔ̃ 
+ye: w̃ʊ̃nɔ̃ 
+you all: w̃ʊ̃nɔ̃ 
+3 pl.: balɪ 
+they: balɪ 
+here: ɔkɪ̃ 
+there: kedekɔ 
+where: fakɔ 
+where?: fakɔ 
+when: kibedu̯ebe 
+when?: kibedu̯ebe 
+how: kɪlɪ 
+how?: kɪlɪ 
+few: kɪbɔɪ̯ 
+other: baɲɪ platɔ 
+three: ɪ-tã 
+four: ɪ̃-l̃ɪ̃ 
+five: i-ti 
+broad: nɪ 
+wide: nɪ 
+wideness: nɪ 
+thick: moʃwim 
+narrow: ʃwi 
+child: a-nɪvɔ 
+principal wife: e-dzini 
+wife: e-dzini 
+husband: e-ɲine 
+his mother: e-ni 
+mother: e-ni 
+my mother: e-ni 
+father: a-ka 
+his father: a-ka 
+my father: a-ka 
+fruit: e-juju 
+flower: e-fufu 
+grass: tua 
+cord: o-ɦwi 
+rope: o-ɦwi 
+leg: ɔ-tsɾɪ 
+wing: bu-glebe 
+gut: tɪwʊlɛ 
+guts: tɪwʊlɛ 
+insides: tɪwʊlɛ 
+intestine: tɪwʊlɛ 
+intestines: tɪwʊlɛ 
+back: ke-de 
+suck: mʊ 
+vomit: juku 
+blow: wulu 
+cogitate: bw-itɔkpum 
+reflect: bw-itɔkpum 
+think: bw-itɔkpum 
+smell: lũku 
+sniff: lũku 
+afraid: ki-fusisi 
+be afraid: ki-fusisi 
+fear: ki-fusisi 
+fright: ki-fusisi 
+alive: zaŋkpã 
+be alive: zaŋkpã 
+life: zaŋkpã 
+live: zaŋkpã 
+living: zaŋkpã 
+beat: uɦu 
+hit: uɦu 
+strike: uɦu 
+cut: bvwi 
+hack: bvwi 
+dig: tsu 
+drop: wɔlɪ 
+fall: wɔlɪ 
+grasp: ɲɪna 
+hold: ɲɪna 
+hold in arm: ɲɪna 
+squeeze: ka 
+wring: ka 
+rub: titi 
+wipe: titi 
+wash: pl̩u 
+wash clothes: pl̩u 
+pull: ɦe 
+push: ti 
+shove: ti 
+throw: ta 
+bind: tsa 
+fasten: tsa 
+tie: tsa 
+tie up: tsa 
+sew: ka-pa 
+sing: ʒa 
+flow: kpɪ̃ 
+swell: jeke 
+lake: ke-nikekpu 
+ocean: axwi 
+sea: axwi 
+dust: o-sumundudu 
+sky: o-ŋwise 
+blaze: tã 
+burn: tã 
+day: ki-wi 
+daylight: ki-wi 
+daytime: ki-wi 
+old: ʃe 
+bad: zi 
+evil: zi 
+rot: tʃɔmɔ 
+rotten: tʃɔmɔ 
+dirty: tutuɾu 
+filthy: tutuɾu 
+soiled: tutuɾu 
+straight: dʒudʒɔ 
+sharp: zanaʊ 
+blunt: tsi 
+smooth: kpɔlɔkpɔlɔ 
+damp: jɔ 
+wet: jɔ 
+right side: kɪŋam 
+left: kɪbɪtɪkpɛm 
+at: ɔba 
+in: kɪmɪn 
+inside: kɪmɪn 
+with: nɪ 
+if: o-nuge 

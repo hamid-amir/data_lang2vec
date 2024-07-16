@@ -1,0 +1,273 @@
+all: baribarie	kosibhari-bharihae 
+every: baribarie	kosibhari-bharihae 
+ash: ghabu 
+ashes: ghabu 
+abdomen: taghi 
+belly: taghi 
+big: nobala	nobhala 
+bigness: nobala	nobhala 
+large: nobala	nobhala 
+bird: manu-manu	manumanu 
+bite: aesia	fonā 
+black: ghito	noghighito 
+blood: rea 
+bone: buku 
+breast: titi 
+breasts: titi 
+burn: aetunu	ne|tunu 
+burn tr.: aetunu	ne|tunu 
+cloud: olu 
+cold: norindi 
+come: amai	mai	rato 
+come from: amai	mai	rato 
+be dead: amate	mate 
+dead: amate	mate 
+die: amate	mate 
+dog: dahu	d|ahu 
+drink: aforoghu	foraghu	foroxu 
+dry: nokele 
+ear: poNk~e	pongke	poŋke 
+eat: afumaa	fo|mā 
+egg: ghunteli 
+eye: mata 
+feather: vulu	wulu 
+fire: ifi 
+fish: kenta	kent~a 
+fly: ahoro	horo 
+fly v.: ahoro	horo 
+full: pono 
+good: netaa	netā 
+green: idho	nofeido 
+hair: vulu no fotu	wulu no fotu 
+hand: lima 
+left hand: lima 
+right: lima 
+head: fotu 
+hear: afetingke	feteŋke	fetiNk~e 
+horn: tand~u 
+1 sg.: inodi 
+I: inodi 
+kill: aepongko	fopoŋko 
+knee: tu 
+be knowledgeable: apandehaane	pandehao 
+know: apandehaane	pandehao 
+leaf: ro	roo	rō 
+lie: aendole 
+lie down: aendole 
+liver: ghate	ghete	lale 
+long: newanta 
+head louse: otu	ōtu 
+louse: otu	ōtu 
+male: moghane 
+man: mie	omie 
+moon: wula 
+hill: kababo 
+mountain: kababo 
+mouth: woba	wubha 
+name: nea	neya 
+title: nea	neya 
+neck: wughu 
+new: buxou	nobughou 
+night: alo	korondoha	korond~oha 
+nighttime: alo	korondoha	korond~oha 
+nose: ne	nee	nē 
+adulterous: ise	iseʔ	seise 
+one: ise	iseʔ	seise 
+single: ise	iseʔ	seise 
+that: a-itu	aitu 
+the: ise	iseʔ	seise 
+unprincipled: ise	iseʔ	seise 
+human: mie	omie 
+human being: mie	omie 
+person: mie	omie 
+rain: ghusa	ghuse 
+rainy weather: ghusa	ghuse 
+red: dea	nodedia 
+path: kakaha	kangkaha	sala 
+road: kakaha	kangkaha	sala 
+route: kakaha	kangkaha	sala 
+root: paraka	par|aka 
+sand: bhone	bone 
+say: abisara	apogau	bisara 
+see: aewora	aewura	nofoara	wora 
+sit: aengkora	neŋkora 
+hide: kuli 
+skin: kuli 
+sleep: aolodo	nolodo 
+little: norubu 
+small: norubu 
+smallness: norubu 
+smoke: ghumbo 
+star: kalipopo	kolipopo	ngkolipopo 
+rock: kontu	kont~u 
+stone: kontu	kont~u 
+sun: xoleo 
+swim: aleni	leni 
+tail: punda 
+this: a-ini	aini 
+2 sg: ihintu	ihint~u	ihitu 
+thou: ihintu	ihint~u	ihitu 
+you: ihintu	ihint~u	ihitu 
+tongue: lela 
+tooth: baNk~a	wangka	waŋka 
+tree: puxu 
+grind: dua	rudua 
+two: dua	rudua 
+go: akala	no|kala 
+walk: akala	no|kala 
+hot: nopana	no|pana 
+warm: nopana	no|pana 
+water: oe	oē 
+1 pl. inc.: insaidi	insaidīmu	ins~aidi	intaidi 
+we: insaidi	insaidīmu	ins~aidi	intaidi 
+we₁: insaidi	insaidīmu	ins~aidi	intaidi 
+what: ohae 
+white: nopute	pute 
+whiteness: nopute	pute 
+who: lahae	la|hae 
+who?: lahae	la|hae 
+female: robhine	ro|bine 
+woman: robhine	ro|bine 
+yellow: kuni	nokukuni 
+distant: kodoko	nokodoho	nokodohu 
+far: kodoko	nokodoho	nokodohu 
+dull: nobhie	no|bie 
+heavy: nobhie	no|bie 
+serious: nobhie	no|bie 
+close: nomaho 
+near: nomaho 
+ner: nomaho 
+salt: ghohia	gohia 
+short: nokubu	nongkubu	nopanda 
+snake: ghule 
+thin: nonifi 
+wind: kavea	kawea 
+earthworm: ghundeletu 
+worm: ghundeletu 
+year: taghu 
+2 pl.: ihintumu	ihintuumu 
+ye: ihintumu	ihintuumu 
+you all: ihintumu	ihintuumu 
+3 pl.: andoa 
+they: andoa 
+where: nahamai	nehamae	nehamai 
+where?: nahamai	nehamae	nehamai 
+when: indefie	inde|fie	ne|fie 
+when?: indefie	inde|fie	ne|fie 
+how: pedahai	pedahamai 
+how?: pedahai	pedahamai 
+other: sigaahano	sigahano 
+three: tolu 
+four: paa	paʔ 
+five: dima 
+broad: neware	noware 
+wide: neware	noware 
+wideness: neware	noware 
+fat: tabha 
+thick: nokapa 
+narrow: noseke 
+principal wife: anahi	mie no lambu	robine 
+wife: anahi	mie no lambu	robine 
+husband: mie no lambu	moghane 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama 
+his father: ama 
+my father: ama 
+forest: karumbu	katua 
+woods: karumbu	katua 
+branch: ragha 
+stick: ragha 
+fruit: bake	bhake 
+flower: kambea	vuna 
+grass: karopu	karuku 
+cord: kakoo	rabuta 
+rope: kakoo	rabuta 
+flesh: dagi	ihi 
+meat: dagi	ihi 
+grease: tabha 
+wing: pani 
+gut: ghule-ghule	ihi no taghi 
+guts: ghule-ghule	ihi no taghi 
+insides: ghule-ghule	ihi no taghi 
+intestine: ghule-ghule	ihi no taghi 
+intestines: ghule-ghule	ihi no taghi 
+back: towu 
+suck: aekomi	komi 
+spit: afoghoniu	feughi	foghoniu 
+vomit: atongka	toŋka 
+blow: nebuso	no|f|iu 
+breath: afenei	nofenei 
+breathe: afenei	nofenei 
+laugh: afu|taa	fo|ta 
+laughter: afu|taa	fo|ta 
+cogitate: aefekiri	fekiri 
+reflect: aefekiri	fekiri 
+think: aefekiri	fekiri 
+smell: aefewono	nofowono 
+sniff: aefewono	nofowono 
+afraid: aotehi	no|tehi 
+be afraid: aotehi	no|tehi 
+fear: aotehi	no|tehi 
+fright: aotehi	no|tehi 
+alive: adadi	dadi 
+be alive: adadi	dadi 
+life: adadi	dadi 
+live: adadi	dadi 
+living: adadi	dadi 
+hunt: ahulo	nofula	nokulo 
+beat: aewogha	fopepe	nesoda	nesuwu 
+hit: aewogha	fopepe	nesoda	nesuwu 
+strike: aewogha	fopepe	nesoda	nesuwu 
+cut: aebhera	nedodo 
+hack: aebhera	nedodo 
+cut open: aebhogha	nebogha 
+split: aebhogha	nebogha 
+pierce: aetobo	fotobo 
+stab: aetobo	fotobo 
+scratch: aekurumasi	nekurumasi 
+dig: ae|seli	ne|seli 
+stand: aere	noere	nontade 
+drop: nondafu	nondawu 
+fall: nondafu	nondawu 
+grasp: aeintara	neutara 
+hold: aeintara	neutara 
+hold in arm: aeintara	neutara 
+squeeze: ae|feo	ne|feo 
+wring: ae|feo	ne|feo 
+throw: aeghompa	bandu	ghompa 
+bind: aekooli	netapu 
+fasten: aekooli	netapu 
+tie: aekooli	netapu 
+tie up: aekooli	netapu 
+sew: aetampoli	netampoli 
+count: aefeapi	nelentu 
+enumerate: aefeapi	nelentu 
+number: aefeapi	nelentu 
+tally: aefeapi	nelentu 
+flow: nosolo 
+lake: katebho 
+ocean: tehi 
+sea: tehi 
+dust: harabu 
+fog: gawu 
+sky: lani 
+bad: habarubaru	nodaediu 
+evil: habarubaru	nodaediu 
+rot: noburu	no|buru 
+rotten: noburu	no|buru 
+dirty: noraku 
+filthy: noraku 
+soiled: noraku 
+sharp: noroko 
+blunt: noduko 
+damp: nomeme	nomoghu 
+wet: nomeme	nomoghu 
+right side: suana	s|wana 
+left: kema 
+at: ne	te	we 
+in: we lalo	welo 
+inside: we lalo	welo 
+and: bhe 
+if: ane 

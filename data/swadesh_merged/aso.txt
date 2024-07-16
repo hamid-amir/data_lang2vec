@@ -1,0 +1,321 @@
+all: mukiʔ 
+arm: ohovate 
+arm: ro\pe ohovate 
+arm: roʔpe ohovate 
+arrow: elese 
+arrow: eresa 
+ashes: lani 
+back: mehene 
+bad: goloso 
+bad: orosa 
+bark: galupo 
+belly: morute | morute	mulo	mulono 
+belly: mulo(no) | morute	mulo	mulono 
+big: namba | namba	nampa 
+big: nampa | namba	nampa 
+bird: nama 
+bite: (no)mbil(ive) | nombilive 
+black: gonombuʔ | gonombuʔ	onompu 
+black: onompu | gonombuʔ	onompu 
+blood: vanisa | vanisa	vanise 
+blood: vanise | vanisa	vanise 
+bone: amudzate | amucate	amudzate	amuzo 
+bone: amuzo | amucate	amudzate	amuzo 
+boy: gipe 
+breast: ami(ne) | ami	amine	aminte 
+breast: aminte | ami	amine	aminte 
+brother: akuna\ne 
+brother: akunaʔne 
+brother: uvo(loho) 
+brother: uwo\neho 
+brother: uwoʔneho 
+burn: l(ave) 
+cassowary: oroina 
+chest: rosopate 
+child: izipe 
+chin: ombuwo 
+claw: tolovo 
+cloud: limuso | limuso	rimusa 
+cloud: rimusa | limuso	rimusa 
+cloud: rimusá | limuso	rimusa 
+cold: hepeʔ (elave) 
+come: ano | ano	neave	nøave 
+come: (n)ø(ave) | ano	neave	nøave 
+day: nivengaʔ 
+die: fereka | hel	helave 
+die: hel(ave) | hel	helave 
+dog: gulo | gulo	gura 
+dog: gura | gulo	gura 
+drink: (no)n(ave) | nonave	nozo nosa 
+drink: nozo nosa | nonave	nozo nosa 
+dry: gokoʔ (lave) 
+ear: ga(la) | ga	gala	kate 
+ear: kate | ga	gala	kate 
+earth: mekesupa 
+earth: meké-supa | mekesupa 
+earth: misumbo | mekesupa 
+eat: (no)n(ave) | nonave	nozo 
+eat: nozo | nonave	nozo 
+egg: mulo 
+elbow: (ana) ombuvo 
+emu: oloni 
+emu: oroina 
+eye: (ve)le | le	vele	vete 
+eye: vete | le	vele	vete 
+fall: lemo ong(ave) 
+fall: veleheʔ (doʔmozi) 
+father: me(leho) 
+father: me\neho 
+father: meʔneho 
+fat (n.): avoza 
+fat (n.): gavozo 
+feather: zopovo 
+finger: mozovo 
+fire: oloʔ | olo7	oloʔ	ro7	roʔ 
+fire: ro\ | olo7	oloʔ	ro7	roʔ 
+fire: roʔ | olo7	oloʔ	ro7	roʔ 
+fish: alahaʔ | alaha7	alahaʔ 
+fly (v.): patelo (vave) 
+foot: gizate | gizate	gize	gizene 
+foot: gize(ne) | gizate	gize	gizene 
+forehead: golihi(le) 
+forehead: orofite 
+forest: zauka 
+full: vaiʔ (lave) | vai7 lave	vaiʔ 
+girl: alungo 
+girl: arukoma 
+give: (noni)m(ive) | nonimive 
+good: lamineʔ | lamineʔ	ramina 
+good: ramina | lamineʔ	ramina 
+green: zavile 
+hair: yoporate | yoporate	zopovo 
+hair: yopórate | yoporate	zopovo 
+hair: zopovo | yoporate	zopovo 
+hand: a(na) | a	ana	ante 
+hand: ante | a	ana	ante 
+head: gondo(lo) | gondo	gondolo	otote 
+head: otote | gondo	gondolo	otote 
+hear: gel(ave) | gel	gelave	gireno 
+hear: gireno | gel	gelave	gireno 
+heart: goʔmoho(lo) | goʔmoho	goʔmoholo 
+heavy: geni 
+he/she: a(za) 
+he/she: e(iʔ) 
+he/she: -i 
+hit: mbel(ave) 
+house: numuna 
+house: numuno 
+I: na(za) | na	naza	ne	neni7	neniʔ 
+I: ne(niʔ) | na	naza	ne	neni7	neniʔ 
+I: -u | na	naza	ne	neni7	neniʔ 
+kill: mbel(e helave) | mbel	mbele helave 
+knee: ombuvo(lo) | ombuvo	ombuvolo	opuvate 
+knee: opuvate | ombuvo	ombuvolo	opuvate 
+know: gel(e neive) | gel	gele neive 
+laugh: gize (ogave) 
+leaf: abida | abida	avile 
+leaf: avile | abida	avile 
+leg: gize(ne) 
+leg: hamunate 
+leg: hamunute 
+lie: ongo (neive) 
+lip: vete monopova 
+liver: gitihulu(no) | gitihulu	gitihuluno	henive 
+liver: henive | gitihulu	gitihuluno	henive 
+long: haʔna 
+louse: silime 
+man: ve | evene7	eveneʔ 
+many: mukiʔ | mukiʔ	vaiʔ 
+many: vaiʔ | mukiʔ	vaiʔ 
+meat: meʔmele 
+moon: ike\na | ikeʔna	ikeʔni 
+moon: ikeʔna | ikeʔna	ikeʔni 
+moon: ikeʔni | ikeʔna	ikeʔni 
+morning: nedengaʔ 
+morning: nenengaʔ 
+mother: ije\naho 
+mother: ize(leho) 
+mother: iǯeʔnaho 
+mountain: golo | golo	gora 
+mountain: gora | golo	gora 
+mouth: ve(le) | ve	vele	vetruru 
+mouth: veteruru | ve	vele	vetruru 
+mouth: vetruru | ve	vele	vetruru 
+name: gulive | gulive	gurine 
+name: gurine | gulive	gurine 
+neck: luvo(no) | luvo	luvono	rentete 
+neck: rentete | luvo	luvono	rentete 
+new: gosohoʔ | gosoho7	gosohoʔ 
+night: holukaʔ | holuka7	holukaʔ 
+nose: ote | go	golo	ote 
+not: -mi 
+not: oʔve | -mi 
+old: eleni 
+old: litehe 
+old: vani 
+one: hamoʔ | hamo7	hamoʔ 
+person: eveneʔ | evene7	eveneʔ 
+rain: goline | goline	orina 
+rain: orina | goline	orina 
+rain: oriná | goline	orina 
+rat: songoloni 
+red: guleheʔ | guleheʔ	urahe 
+red: urahe | guleheʔ	urahe 
+red: ura-he | guleheʔ	urahe 
+road: aka 
+road: a:ka | aka 
+road: aːka | aka 
+root: luhive 
+rope: meʔnona 
+round: vondo(vondo) | vondo	vondovondo 
+sand: gepe 
+say: l(ave) | l	lave 
+say: rokano | l	lave 
+seed: gihile | gihile	zuho	zuhoniteʔ 
+seed: zuho(niteʔ) | gihile	zuho	zuhoniteʔ 
+see: ningkeno | niNkeno	niŋkeno	noningive 
+see: niŋkeno | niNkeno	niŋkeno	noningive 
+see: (no)ning(ive) | niNkeno	niŋkeno	noningive 
+short: ariʔniba | ariʔniba	liʔnimbe 
+short: liʔnimbe | ariʔniba	liʔnimbe 
+shoulder: atapate 
+shoulder: gata(na) 
+sing: namaroku 
+sister: arune 
+sister: ate(laho) 
+sit: (mitoʔ ne)ø(ive) | mitono	mitoʔ neøive 
+sit: mitono | mitono	mitoʔ neøive 
+sit: nito\no | mitono	mitoʔ neøive 
+skin: okuʔ(no) | oku7no	okuʔ	okuʔno 
+sky: okuruma 
+sleep: ong(o neive) | ong	ongo neive 
+small: neraʔgoma | neraʔgoma	ngomo 
+small: neta\goma | neraʔgoma	ngomo 
+small: ngomo | neraʔgoma	ngomo 
+smoke: (so)kile | kile	sokile 
+snake: gosiheʔ | gosiheʔ	sataʔ 
+snake: sataʔ | gosiheʔ	sataʔ 
+spit: gutu (lave) 
+stand: ot(ave) 
+stand: oteno 
+star: sonohi | sonohi	sonohi7	sonohiʔ 
+star: sonohiʔ | sonohi	sonohi7	sonohiʔ 
+stick: amuta 
+stone: gefena | gefena	geheni 
+stone: geheni | gefena	geheni 
+sun: fo\i | fo7i	foʔi	ho7	hoʔ 
+sun: foʔi | fo7i	foʔi	ho7	hoʔ 
+sun: hoʔ | fo7i	foʔi	ho7	hoʔ 
+swim: gulaʔnese (noizive) 
+tail: avasuvo 
+take: guminaku 
+take: tokowodzo 
+that: ne(ne) | ne	nene	vole	volene 
+that: vole(ne) | ne	nene	vole	volene 
+they: -a 
+they: engiʔ 
+they: ingi(ne) 
+they two: -asi 
+thigh: fumaite 
+this: me(ne) | me	mene 
+thou: -an | ga	gaza	ge	ge7i	geʔi 
+thou: ga(za) | ga	gaza	ge	ge7i	geʔi 
+thou: ge(ʔi) | ga	gaza	ge	ge7i	geʔi 
+thou: lengiʔ | ga	gaza	ge	ge7i	geʔi 
+three: seto hamoʔ 
+throat: ruvante 
+tomorrow: aizeʔ 
+tongue: nahu(no) | nahu	nahuno	vete nahuna 
+tongue: vete nahuna | nahu	nahuno	vete nahuna 
+tooth: gavu(lo) | gavu	gavulo	vete amuZa	vete amuǯa 
+tooth: vete amuja | gavu	gavulo	vete amuZa	vete amuǯa 
+tooth: vete amuǯa | gavu	gavulo	vete amuZa	vete amuǯa 
+tree: dza | ca	za 
+tree: za | ca	za 
+two: sitaʔ | sita7	sitaʔ 
+walk: lotiʔ (noizive) | nomonive 
+walk: (no)mon(ive) | nomonive 
+walk: orurokovi | nomonive 
+walk: woozo | nomonive 
+walk: woːzo | nomonive 
+wallaby: lumbo 
+warm: oloʔ (lave) 
+water: nosa | nosa	noso 
+water: noso | nosa	noso 
+weep: vezaku 
+we: la(za) | laza	leli7 
+we: le(liʔ) | laza	leli7 
+wet: gehe(gehe) 
+we two: -usi 
+we: -un | laza	leli7 
+what: na(ndove) | na	nandove 
+when: na(ni)heʔ 
+where: zala 
+white: mokonoʔ 
+who: zaho 
+wind: hepeʔ 
+wing: holokeʔni 
+woman: vena | vena	veneʔ 
+woman: veneʔ | vena	veneʔ 
+wood: gavoso 
+wood: zalekeseni 
+yellow: gihungoʔ 
+yes: oː 
+yesterday: aizeʔ 
+yes: veː 
+you: -a | ga	gaza	ge	ge7i	geʔi 
+you two: -asi 
+every: mukiʔ 
+ash: lani 
+abdomen: morute	mulo	mulono 
+bigness: namba	nampa 
+large: namba	nampa 
+breasts: ami	amine	aminte 
+nail: tolovo 
+talon: tolovo 
+cold: hepeʔ 
+come from: ano	neave	nøave 
+be dead: hel	helave 
+dead: hel	helave 
+dry: gokoʔ 
+ground: mekesupa 
+land: mekesupa 
+soil: mekesupa 
+fly: patelo 
+fly v.: patelo 
+left hand: a	ana	ante 
+right: a	ana	ante 
+1 sg.: na	naza	ne	neni7	neniʔ 
+be knowledgeable: gel	gele neive 
+head louse: silime 
+male: ve 
+much: mukiʔ	vaiʔ 
+multiple: mukiʔ	vaiʔ 
+several: mukiʔ	vaiʔ 
+hill: golo	gora 
+title: gulive	gurine 
+nighttime: holuka7	holukaʔ 
+adulterous: hamo7	hamoʔ 
+single: hamo7	hamoʔ 
+the: hamo7	hamoʔ 
+unprincipled: hamo7	hamoʔ 
+human: evene7	eveneʔ 
+human being: evene7	eveneʔ 
+rainy weather: goline	orina 
+path: aka 
+route: aka 
+hide: oku7no	okuʔ	okuʔno 
+little: neraʔgoma	ngomo 
+smallness: neraʔgoma	ngomo 
+rock: gefena	geheni 
+swim: gulaʔnese 
+2 sg: ga	gaza	ge	ge7i	geʔi 
+grind: sita7	sitaʔ 
+go: nomonive 
+1 pl. inc.: laza	leli7 
+we₁: laza	leli7 
+whiteness: mokonoʔ 
+who?: zaho 
+female: vena	veneʔ 
+dull: geni 
+serious: geni 

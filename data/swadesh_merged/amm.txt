@@ -1,0 +1,538 @@
+all: kòmã:so | kɔmãːsɔ 
+all: kɔma͂ːsɔ | kɔmãːsɔ 
+and: woi 
+arm: nainʌ 
+arm: nainë 
+arrow: lamʌʔ 
+arrow: laːmɔ͂ 
+ashes: ta:lëfëmu˜ | tanʌɸamu	taːlʌɸʌmũ 
+ashes: taːlʌφʌmu͂ | tanʌɸamu	taːlʌɸʌmũ 
+ashes: tanëfamu | tanʌɸamu	taːlʌɸʌmũ 
+ashes: tanofomu | tanʌɸamu	taːlʌɸʌmũ 
+ashes: tanʌφamu | tanʌɸamu	taːlʌɸʌmũ 
+at: -so 
+back: namli 
+back: na͂ːmli 
+back: nãmli 
+bad: kayaʷ 
+bad: kayau 
+bad: këyau 
+bad: kʌyaːu 
+bark: ã-tònò˜ | ãː tɔnɔ̃ 
+bark: a͂ː tɔnɔ͂ | ãː tɔnɔ̃ 
+belly: nëm(ë)li\ | nəmliː	nʌmʌliʔ 
+belly: nəmliː | nəmliː	nʌmʌliʔ 
+belly: nʌmʌliʔ | nəmliː	nʌmʌliʔ 
+big: sèliaki\ | siːʌli	sɛliakiʔ 
+big: sɛliakiʔ | siːʌli	sɛliakiʔ 
+big: siëli | siːʌli	sɛliakiʔ 
+big: siːʌli | siːʌli	sɛliakiʔ 
+bird: o | o	oː 
+bird: oː | o	oː 
+bite: tuklɒː 
+bite: tuklâ (?) | tuklɒː 
+black: sëfi | səfiː	sʌlinamuʔ 
+black: səfiː | səfiː	sʌlinamuʔ 
+black: sëlinamu\ | səfiː	sʌlinamuʔ 
+black: sʌlinamuʔ | səfiː	sʌlinamuʔ 
+blood: na͂ːkɒ | naka	nako7	nakʌʔ	nãːkɒ 
+blood: nakʌʔ | naka	nako7	nakʌʔ	nãːkɒ 
+blood: nã:kâ (?â) | naka	nako7	nakʌʔ	nãːkɒ 
+blood: nakë\ | naka	nako7	nakʌʔ	nãːkɒ 
+bone: mi: | mi	miː	mĩː 
+bone: miː | mi	miː	mĩː 
+bone: mi͂ː | mi	miː	mĩː 
+boy: nãkëkëi 
+boy: na͂ːkʌkʌi 
+breast: nanʌ | nano	nanʌ	nãːnɔ̃ 
+breast: nanë | nano	nanʌ	nãːnɔ̃ 
+breast: nã:nõ | nano	nanʌ	nãːnɔ̃ 
+breast: na͂ːnɔ͂ | nano	nanʌ	nãːnɔ̃ 
+brother: ʔauwaʔ 
+brother: auwa\ 
+brother: ëu:wë 
+brother: ʌuːwʌ 
+burn: ta:mëmò:menò˜ 
+burn: taːmʌ͂mɔ͂ːme͂nɔ͂ 
+calf: fëto 
+calf: fʌto 
+cassowary: aipie 
+cassowary: eipiei 
+child: alu 
+child: a:lu ufa 
+child: aːlu uφaː 
+chin: ko 
+chin: kɔ 
+chin: kɔː 
+claw: iki | ikiː 
+claw: ikiː 
+cloud: kumaki | kumaki	kuːmãkiwɒːu 
+cloud: kumãki-wòu | kumaki	kuːmãkiwɒːu 
+cloud: kuːma͂kiwɒːu | kumaki	kuːmãkiwɒːu 
+cold: fulëmu˜ | ɸuːlʌmũ 
+cold: φuːlʌmu͂ | ɸuːlʌmũ 
+come: natuma | natuma	tumo	tətumɔ̃ː 
+come: tëtumò | natuma	tumo	tətumɔ̃ː 
+come: tətumɔ͂ː | natuma	tumo	tətumɔ̃ː 
+come: ?ti | natuma	tumo	tətumɔ̃ː 
+come: tumo | natuma	tumo	tətumɔ̃ː 
+crocodile: fëlëkai 
+crocodile: φʌləkaːi 
+crocodile: φʌlʌkaʲ 
+cut: (t)isiko 
+dance: tönã:mò˜ 
+day: upimë?sò 
+day: upiːmʌ͂sɔ 
+die: kalo | kalo	yaːu 
+die: yau | kalo	yaːu 
+die: yaːu | kalo	yaːu 
+dog: aluoʷ | aLuou	aluoᵘ	aluwau	ʌlɔwɔːu 
+dog: aluwou | aLuou	aluoᵘ	aluwau	ʌlɔwɔːu 
+dog: ëlòwòu | aLuou	aluoᵘ	aluwau	ʌlɔwɔːu 
+dog: ʌlɔwɔːu | aLuou	aluoᵘ	aluwau	ʌlɔwɔːu 
+drink: (iwò) tøsikò | iwɒː tɤsikɒː	siko	tɤsikɒː 
+drink: (iwɒː) tɤsikɒː | iwɒː tɤsikɒː	siko	tɤsikɒː 
+dry: fumu˜ | ɸumũː 
+dry: φumu͂ː | ɸumũː 
+ear: iɒː | 7ia	iyo	iɒː	ʔia 
+ear: ia | 7ia	iyo	iɒː	ʔia 
+ear: ʔia | 7ia	iyo	iɒː	ʔia 
+ear: iò | 7ia	iyo	iɒː	ʔia 
+earth: asi\ 
+earth: asiʔ 
+earth: ësi 
+earth: ʌsiː 
+eat: napëna | napʌna	tənɔ̃ː 
+eat: napʌna | napʌna	tənɔ̃ː 
+eat: (të)no | napʌna	tənɔ̃ː 
+eat: tənɔ͂ː | napʌna	tənɔ̃ː 
+egg: oi | oː iː	ʔui 
+egg: oː iː | oː iː	ʔui 
+egg: ui | oː iː	ʔui 
+egg: ʔui | oː iː	ʔui 
+elbow: nã:tëko 
+elbow: na͂ːtəko 
+elbow: natokʊ 
+elbow: na-toku 
+emu: ʔaipie 
+emu: eːipiei 
+eye: mëra | mlɒː	molo	mora	mʌra 
+eye: mlɒː | mlɒː	molo	mora	mʌra 
+eye: mlâ | mlɒː	molo	mora	mʌra 
+eye: mʌra | mlɒː	molo	mora	mʌra 
+fall: tësukunò:menò 
+fall: təsukunɔ͂ːme͂nɔ͂ 
+fall: usukuna 
+father: a:pëu 
+father: ʔapoʷ 
+father: apou\ 
+father: aːpʌu 
+fat (n.): kɔmɒ͂ː 
+fat (n.): kòmâ 
+feather: oː wiɒː 
+feather: o wiâ (â = ?) | oː wiɒː 
+finger: na͂ːimɔ͂ tuː 
+finger: nainëtu 
+finger: nainò tu 
+finger: nainʌtu 
+fire: taː | ta	tah	taː 
+fire: tah | ta	tah	taː 
+fish: la | La	la	laː 
+fish: laː | La	la	laː 
+five: tu:wei 
+five: tuːwei 
+fly (v.): tëfa:yënò˜ 
+fly (v.): təφaːyʌnɔ͂ 
+foot: fëto | fʌto	ɸunãː 
+foot: fʌto | fʌto	ɸunãː 
+foot: funã | fʌto	ɸunãː 
+foot: φuna͂ː | fʌto	ɸunãː 
+forehead: nènami 
+forehead: nëna:mi˜ 
+forehead: nɛnami 
+forehead: nə͂na͂ː mi͂ː 
+four: teita:ti 
+four: teitaːti 
+four: titëti 
+four: titʌti 
+full: kɔː sɒː 
+full: kò sâ | kɔː sɒː 
+girl: nə͂ni͂aːni͂kɒ 
+girl: nënia:nikâ 
+give: nëpa:menò | nʌ̃paːmẽnɔ̃ 
+give: nʌ͂paːme͂nɔ͂ | nʌ̃paːmẽnɔ̃ 
+good: itaːuni͂ʌmɔ͂ | itaːunĩʌmɔ̃	tonimʌʔ 
+good: itouni | itaːunĩʌmɔ̃	tonimʌʔ 
+good: tonimʌʔ | itaːunĩʌmɔ̃	tonimʌʔ 
+good: toni-më\ | itaːunĩʌmɔ̃	tonimʌʔ 
+good: waliyo | itaːunĩʌmɔ̃	tonimʌʔ 
+green: iwâwëlënä | iwɒː wʌlʌnãː 
+green: iwɒː wʌlʌna͂ː | iwɒː wʌlʌnãː 
+hair: kamu-sowa | kamu-sowa	kamũ-suɒ 
+hair: kamu͂-suɒ | kamu-sowa	kamũ-suɒ 
+hair: kamu-suâ | kamu-sowa	kamũ-suɒ 
+hand: nainʌ | naino	nainʌ	nãːinɔ̃ 
+hand: nainë | naino	nainʌ	nãːinɔ̃ 
+hand: nainò | naino	nainʌ	nãːinɔ̃ 
+hand: na͂ːinɔ͂ | naino	nainʌ	nãːinɔ̃ 
+head: kamu | kamu	kaːmũ 
+head: kaːmu͂ | kamu	kaːmũ 
+heart: mulu | mulu	mũluː 
+heart: mu͂luː | mulu	mũluː 
+hear: tukua:i | tukuaːi 
+hear: tukuaːi 
+heavy: muëli | mũʌliː 
+heavy: mu͂ʌliː | mũʌliː 
+he/she: -so 
+he/she: ta:(mò) 
+he/she: taː(mɔ͂) 
+he/she: ta-ni 
+he/she: -yo 
+hit: tifasia:imò˜ 
+hit: tiφasiaːimɔ͂ 
+hit: waso 
+house: nu(:) 
+house: nuː 
+house: nu͂ː 
+how: moloi 
+in: poi 
+I: ya | ya	yai	yaimɒ̃	yo 
+I: yai(mɒ͂) | ya	yai	yaimɒ̃	yo 
+I: yai(mo) | ya	yai	yaimɒ̃	yo 
+I: yo | ya	yai	yaimɒ̃	yo 
+jaw: ko 
+kill: tuklɒː 
+kill: tuklâ | tuklɒː 
+knee: a:li ka:mu | ELikamu	aːli kaːmũ	älɪkamu 
+knee: aːli kaːmu͂ | ELikamu	aːli kaːmũ	älɪkamu 
+knee: älikamu | ELikamu	aːli kaːmũ	älɪkamu 
+knee: älɪkamu | ELikamu	aːli kaːmũ	älɪkamu 
+know: sai | sʌiː 
+know: sëi | sʌiː 
+know: sʌiː 
+laugh: \ètè-sëla-ni 
+laugh: ʔɛtɛsʌlani 
+laugh: solo- 
+laugh: təsɤrɒː 
+leaf: iːwɒ | 7iwa	iːwɒ	ʔiwa 
+leaf: ʔiwa | 7iwa	iːwɒ	ʔiwa 
+leaf: íwa | 7iwa	iːwɒ	ʔiwa 
+leaf: :iwâ | 7iwa	iːwɒ	ʔiwa 
+leg: feëu 
+leg: fona 
+leg: φeʌu 
+lie: ulëlëli:tëtëi 
+lie: ulʌlʌliːtʌtʌi 
+liver: aluma | aLuma	aluma	ʌlumɔ̃ː 
+liver: ëlumò˜ | aLuma	aluma	ʌlumɔ̃ː 
+liver: ʌlumɔ͂ː | aLuma	aluma	ʌlumɔ̃ː 
+long: səpɒː 
+long: sëpâ | səpɒː 
+louse: ani | 7ani	ani 
+louse: ʔani | 7ani	ani 
+louse: ëni˜ | 7ani	ani 
+louse: ʌni͂ː | 7ani	ani 
+man: nëka | noka	nʌ̃kɒː 
+man: nʌ͂kɒː | noka	nʌ̃kɒː 
+man: nʌka | noka	nʌ̃kɒː 
+man: noko | noka	nʌ̃kɒː 
+many: paːunu͂ | paːunũ 
+meat: kara-nisimu 
+meat: karanisɪmu 
+meat: somu 
+meat: somu͂ː 
+moon: amú | ʌmũː 
+moon: ʌmu͂ː | ʌmũː 
+morning: sòmësëi 
+morning: sɔːmʌ͂sʌi 
+mosquito: wamʌ 
+mosquito: wamë 
+mosquito: wamò 
+mosquito: waːmɔ͂ 
+mother: ʔanaʲ 
+mother: \anai 
+mother: anëi 
+mother: aːnʌ͂i 
+mother: atino 
+mountain: yu | yu	yuː 
+mountain: yuː | yu	yuː 
+mouth: amli | amli	ko 
+mouth: ko | amli	ko 
+name: siëlò | siyaLa	siːʌlɔ 
+name: siːʌlɔ | siyaLa	siːʌlɔ 
+nape: tèna 
+nape: tɛna 
+near: aumoifa 
+neck: tenò˜ | tenɔ̃ː 
+neck: tenɔ͂ː | tenɔ̃ː 
+new: tënofa:lò | tonupoa	tʌnõɸaːlɔ	tʌnʊɸoa 
+new: tënufoa | tonupoa	tʌnõɸaːlɔ	tʌnʊɸoa 
+new: tʌno͂φaːlɔ | tonupoa	tʌnõɸaːlɔ	tʌnʊɸoa 
+new: tʌnʊφoa | tonupoa	tʌnõɸaːlɔ	tʌnʊɸoa 
+night: amlëki | 7omoLoki7	amlʌki	amoloki	ʔʌmʌlʌkiʔ 
+night: amlʌki | 7omoLoki7	amlʌki	amoloki	ʔʌmʌlʌkiʔ 
+night: amoloki | 7omoLoki7	amlʌki	amoloki	ʔʌmʌlʌkiʔ 
+night: \ëmëlëki\ | 7omoLoki7	amlʌki	amoloki	ʔʌmʌlʌkiʔ 
+night: ʔʌmʌlʌkiʔ | 7omoLoki7	amlʌki	amoloki	ʔʌmʌlʌkiʔ 
+nose: ámu | amu	aːmũ 
+not: muwoi | wei mũɛ 
+not: pa | wei mũɛ 
+not: wei mu˜è | wei mũɛ 
+not: wei mu͂ɛ | wei mũɛ 
+not: wiau | wei mũɛ 
+not: wiaːu | wei mũɛ 
+not: wufa\ | wei mũɛ 
+not: wʊφaʔ | wei mũɛ 
+old: nëkâ wai 
+old: nëni wai 
+old: nə͂ni͂ː wai 
+old: nʌkɒː wai 
+old: tëkumi 
+old: tuku mi 
+old: tukuː mi͂ː 
+old: wai 
+one: siasʌ | siaso	siasʌ	siya	siːʌsɔ 
+one: siːʌsɔ | siaso	siasʌ	siya	siːʌsɔ 
+one: siya(-së) | siaso	siasʌ	siya	siːʌsɔ 
+one: toku | siaso	siasʌ	siya	siːʌsɔ 
+person: nëkâ | noka	nʌ̃kɒː 
+person: nʌ͂kɒː | noka	nʌ̃kɒː 
+rain: sa(:) | saː 
+rain: saː 
+rat: ma:sëiyâ 
+rat: ma͂ːsʌiyɒ 
+red: nɤ͂kiyaːisɔ | nɤ̃kiyaːisɔ 
+red: nøkiya:isò | nɤ̃kiyaːisɔ 
+river: iwɒː 
+river: iwâ 
+road: mëla | moLa 
+road: mlɒː | moLa 
+road: mʌla | moLa 
+road: mlâ | moLa 
+road: molo | moLa 
+root: a-tëti | atʌti	tətiː	ãː tətiː 
+root: (ã) tëti | atʌti	tətiː	ãː tətiː 
+root: (a͂ː) tətiː | atʌti	tətiː	ãː tətiː 
+root: atʌti | atʌti	tətiː	ãː tətiː 
+round: liëya:liëumò | liʌyaːliʌumɔ̃ 
+round: liʌyaːliʌumɔ͂ | liʌyaːliʌumɔ̃ 
+salt: mamo 
+sand: up:ai | upaːi	upeⁱ 
+sand: upaːi | upaːi	upeⁱ 
+sand: upeʲ | upaːi	upeⁱ 
+sand: upei | upaːi	upeⁱ 
+say: ima͂ː trɔkuaːsʌ | imãː trɔkuaːsʌ 
+say: ima: tròkua:së | imãː trɔkuaːsʌ 
+say: imo | imãː trɔkuaːsʌ 
+seed: ã wa:mò | ãː waːmɔ̃ 
+seed: a͂ː waːmɔ͂ | ãː waːmɔ̃ 
+see: ko- | ki	tɤkeː 
+see: tɤkeː | ki	tɤkeː 
+see: tøke | ki	tɤkeː 
+short: faku 
+short: φaːku 
+shoulder: nëma 
+shoulder: nəma͂ː 
+shoulder: nʌma 
+sister: ʔinaʲ 
+sister: (\)inai 
+sister: ina͂ːi 
+sit: si-koni | teosaːkʌnaʔ	tiʌusiː 
+sit: teosaːkʌnaʔ | teosaːkʌnaʔ	tiʌusiː 
+sit: te-yosa:-këna\ | teosaːkʌnaʔ	tiʌusiː 
+sit: ti-ëusi | teosaːkʌnaʔ	tiʌusiː 
+sit: tiʌusiː | teosaːkʌnaʔ	tiʌusiː 
+sit: ti-yousi | teosaːkʌnaʔ	tiʌusiː 
+sit: you-sa | teosaːkʌnaʔ	tiʌusiː 
+skin: au | au	nɔ̃	tona	tɔ 
+skin: nɔ͂ | au	nɔ̃	tona	tɔ 
+skin: tɔ | au	nɔ̃	tona	tɔ 
+skin: tònò | au	nɔ̃	tona	tɔ 
+sleep: olëlëli:tëtëi | olʌlʌliː tʌtʌiː 
+sleep: olʌlʌliː tʌtʌiː 
+small: kaʷa | kaᵘɸa	kouɸaː 
+small: kaufa | kaᵘɸa	kouɸaː 
+small: koufa | kaᵘɸa	kouɸaː 
+small: kouφaː | kaᵘɸa	kouɸaː 
+smoke: tauku | tauku	taːuku 
+smoke: ta-uku | tauku	taːuku 
+smoke: taːuku | tauku	taːuku 
+snake: noa\ | noaʔ	nũɒː 
+snake: noaʔ | noaʔ	nũɒː 
+snake: nu͂ɒː | noaʔ	nũɒː 
+snake: nuâ | noaʔ	nũɒː 
+spit: ima͂ːmlɒ 
+stand: të-tëlau 
+stand: të-trau 
+stand: tətrau 
+stand: tola 
+stand: tolo 
+stand: tʌtʌlaʊ 
+stand: yo 
+star: amë-lëku\ | 7amoLoku7	aːmlʌko	ʔamʌlʌkʊʔ 
+star: a:m-lëko | 7amoLoku7	aːmlʌko	ʔamʌlʌkʊʔ 
+star: ʔamʌlʌkʊʔ | 7amoLoku7	aːmlʌko	ʔamʌlʌkʊʔ 
+star: aːmlʌko | 7amoLoku7	aːmlʌko	ʔamʌlʌkʊʔ 
+stick: a: tau 
+stone: tèmëki\ | tEmoki7	tomoki	tɛmʌkiʔ	tʌmʌ̃kiː 
+stone: tëmëki | tEmoki7	tomoki	tɛmʌkiʔ	tʌmʌ̃kiː 
+stone: tɛmʌkiʔ | tEmoki7	tomoki	tɛmʌkiʔ	tʌmʌ̃kiː 
+stone: tʌmʌ͂kiː | tEmoki7	tomoki	tɛmʌkiʔ	tʌmʌ̃kiː 
+sun: olɒː | olɒː	ulo 
+sun: olâ | olɒː	ulo 
+sun: ulo | olɒː	ulo 
+swim: (iwɒ) sɤna͂ːnɔ͂ | iwɒ sɤnãːnɔ̃	sɤnãːnɔ̃ 
+tail: apo | apo	ʌpoː 
+tail: ëpo | apo	ʌpoː 
+tail: ʌpoː | apo	ʌpoː 
+take: kau 
+take: kòme?sò 
+that: ënu | ʌnũː 
+that: no | ʌnũː 
+that: ʌnu͂ː | ʌnũː 
+they: -no 
+they: tëi(-mò) 
+they: tʌiː(mɔ͂) 
+they two: t-ëti(-mò) 
+they two: tʌtiː(mɔ͂) 
+this: ni | nĩː 
+this: ni͂ː | nĩː 
+thou: mʌ͂iː(mɔ͂) | na	nono	nɤ̃nãː	nɤ̃nãːmɔ̃ 
+thou: -ni | na	nono	nɤ̃nãː	nɤ̃nãːmɔ̃ 
+thou: nɤ͂na͂ː(mɔ͂) | na	nono	nɤ̃nãː	nɤ̃nãːmɔ̃ 
+thou: nona | na	nono	nɤ̃nãː	nɤ̃nãːmɔ̃ 
+thou: nona-ni | na	nono	nɤ̃nãː	nɤ̃nãːmɔ̃ 
+three: taʷe 
+three: tauwe 
+three: ta:uwei 
+three: taːuwei 
+today: lolai 
+tomorrow: amuwoi 
+tomorrow: ëmòisâ 
+tomorrow: ʌmɔ͂ːisɒ 
+tongue: isauna | isauna	isaːunɔ̃ 
+tongue: isa:unò | isauna	isaːunɔ̃ 
+tongue: isaːunɔ͂ | isauna	isaːunɔ̃ 
+tooth: (\)i: | 7i	i	iː	ʔiː 
+tooth: ʔiː | 7i	i	iː	ʔiː 
+tooth: iː | 7i	i	iː	ʔiː 
+tree: (\)a | 7a	a 
+tree: ʔa͂ | 7a	a 
+tree: a͂ː | 7a	a 
+tree: \ã | 7a	a 
+tree: ã\ | 7a	a 
+two: tiwe | ti	tiwe	tiwoi	tiːwei 
+two: ti-we(i) | ti	tiwe	tiwoi	tiːwei 
+two: tiːwei | ti	tiwe	tiwoi	tiːwei 
+two: ti-yo | ti	tiwe	tiwoi	tiːwei 
+walk: mano | təmãːi	yasai 
+walk: nu | təmãːi	yasai 
+walk: tëma:i | təmãːi	yasai 
+walk: təma͂ːi | təmãːi	yasai 
+walk: tuφuːmɔ0 | təmãːi	yasai 
+walk: yasai | təmãːi	yasai 
+wallaby: asinima 
+wallaby: ʔasinima 
+wallaby: tëpiò 
+wallaby: tʌpiɔː 
+warm: mò:menò 
+warm: mɔ͂ːme͂nɔ͂ 
+water: iwɒː | 7iwa	iwo	iwɒː	ʔiwa 
+water: ʔiwa | 7iwa	iwo	iwɒː	ʔiwa 
+water: \iwá | 7iwa	iwo	iwɒː	ʔiwa 
+water: iwâ | 7iwa	iwo	iwɒː	ʔiwa 
+water: iwo | 7iwa	iwo	iwɒː	ʔiwa 
+we (excl.): kʌiː(mɔ͂) 
+we: koi 
+we: moi | koi 
+wet: iwaːwei 
+wet: iwäwei 
+we two (excl.): kʌtiː(mɔ͂) 
+we two: k-ëti(-mò) 
+what: hani | hʌnĩː 
+what: hëni | hʌnĩː 
+what: hʌni͂ː | hʌnĩː 
+when: mëniwei 
+when: mʌ͂ni͂ːwei 
+where: mëi sâ 
+where: mʌ͂iː sɒː 
+white: fëmu | unãːkiyei	ɸʌmᵁ 
+white: unakiyei | unãːkiyei	ɸʌmᵁ 
+white: una͂ːkiyei | unãːkiyei	ɸʌmᵁ 
+white: φʌmʷ | unãːkiyei	ɸʌmᵁ 
+who: nɤ͂na͂ːno͂ na͂ːi | nɤ̃nãːnõ nãːi 
+who: nønanona:i | nɤ̃nãːnõ nãːi 
+wind: imënu\ | imʌnuʔ	iːmʌ̃nũ	muːlʌmũ 
+wind: imʌnuʔ | imʌnuʔ	iːmʌ̃nũ	muːlʌmũ 
+wind: iːmʌ͂nu͂ ~ muːlʌmu͂ | imʌnuʔ	iːmʌ̃nũ	muːlʌmũ 
+wind: mulëmu | imʌnuʔ	iːmʌ̃nũ	muːlʌmũ 
+wing: natëki 
+wing: na͂ːtəki 
+wing: natʌki 
+with: -yo 
+woman: mwi | mwi	nə̃nĩː	nʌkʌlala 
+woman: nëkëlala | mwi	nə̃nĩː	nʌkʌlala 
+woman: nëni | mwi	nə̃nĩː	nʌkʌlala 
+woman: nə͂ni͂ː | mwi	nə̃nĩː	nʌkʌlala 
+woman: nʌkʌlala | mwi	nə̃nĩː	nʌkʌlala 
+woman: noni | mwi	nə̃nĩː	nʌkʌlala 
+woman: nukonu | mwi	nə̃nĩː	nʌkʌlala 
+wood: aː taːu 
+yellow: sukua:lò | sukuaːlɔ 
+yellow: sukuaːlɔ 
+yesterday: fai 
+yesterday: φai 
+yesterday: φaːi 
+yes: (wa:) na 
+yes: (waː) na͂ː 
+you: mëi(-mò) | na	nono	nɤ̃nãː	nɤ̃nãːmɔ̃ 
+you two: m-ëti:(-mò) 
+you two: mʌ͂tiː(mɔ͂) 
+every: kɔmãːsɔ 
+ash: tanʌɸamu	taːlʌɸʌmũ 
+abdomen: nəmliː	nʌmʌliʔ 
+bigness: siːʌli	sɛliakiʔ 
+large: siːʌli	sɛliakiʔ 
+breasts: nano	nanʌ	nãːnɔ̃ 
+nail: ikiː 
+talon: ikiː 
+come from: natuma	tumo	tətumɔ̃ː 
+be dead: kalo	yaːu 
+dead: kalo	yaːu 
+fly: təɸaːyʌnɔ̃ 
+fly v.: təɸaːyʌnɔ̃ 
+left hand: naino	nainʌ	nãːinɔ̃ 
+right: naino	nainʌ	nãːinɔ̃ 
+1 sg.: ya	yai	yaimɒ̃	yo 
+be knowledgeable: sʌiː 
+head louse: 7ani	ani 
+male: nʌka	nʌ̃kɒː 
+much: paːunũ 
+multiple: paːunũ 
+several: paːunũ 
+hill: yu	yuː 
+title: siyaLa	siːʌlɔ 
+nighttime: 7omoLoki7	amlʌki	amoloki	ʔʌmʌlʌkiʔ 
+adulterous: siaso	siasʌ	siya	siːʌsɔ 
+single: siaso	siasʌ	siya	siːʌsɔ 
+the: siaso	siasʌ	siya	siːʌsɔ 
+unprincipled: siaso	siasʌ	siya	siːʌsɔ 
+human: noka	nʌ̃kɒː 
+human being: noka	nʌ̃kɒː 
+rainy weather: saː 
+path: moLa 
+route: moLa 
+hide: au	nɔ̃	tona	tɔ 
+little: kaᵘɸa	kouɸaː 
+smallness: kaᵘɸa	kouɸaː 
+rock: tEmoki7	tomoki	tɛmʌkiʔ	tʌmʌ̃kiː 
+2 sg: na	nono	nɤ̃nãː	nɤ̃nãːmɔ̃ 
+grind: ti	tiwe	tiwoi	tiːwei 
+go: təmãːi	yasai 
+1 pl. inc.: koi 
+we₁: koi 
+whiteness: unãːkiyei	ɸʌmᵁ 
+who?: nɤ̃nãːnõ nãːi 
+female: mwi	nə̃nĩː	nʌkʌlala 
+dull: mũʌliː 
+serious: mũʌliː 

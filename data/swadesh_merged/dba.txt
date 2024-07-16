@@ -1,0 +1,315 @@
+arm: ere 
+arm: memo 
+arm: m-emo 
+ashes: bunakak-o | bⁱrɛntɤɛ 
+ashes: tepa | bⁱrɛntɤɛ 
+belly: tor 
+bird: a | dɔrɔ	dɔrɔmɛʔ 
+bird: a~ | dɔrɔ	dɔrɔmɛʔ 
+bird: dorimo | dɔrɔ	dɔrɔmɛʔ 
+black: fuane | kipɔrɛ	kipɔːre 
+black: kipap | kipɔrɛ	kipɔːre 
+blood: aru | dondi	dɔndi	yi	yiː 
+blood: wa | dondi	dɔndi	yi	yiː 
+blood: wa~ | dondi	dɔndi	yi	yiː 
+bone: atoko | noorE	nɔrɛ	nɔːrɛ 
+bone: truŋ | noorE	nɔrɛ	nɔːrɛ 
+come: amo | nu	nuimaʔ 
+come: a-mo | nu	nuimaʔ 
+come: mona | nu	nuimaʔ 
+dog: dia | kurE	kurɛ	kᵘrɛmɛʔ 
+dog: meymo | kurE	kurɛ	kᵘrɛmɛʔ 
+dog: meymo- | kurE	kurɛ	kᵘrɛmɛʔ 
+drink: no | n5~E	nɲɛ	ⁱɛ 
+earth: ta | gwyɛ 
+earth: tano | gwyɛ 
+eat: ni- | dia	dⁱa	ɟiya 
+eat: no- | dia	dⁱa	ɟiya 
+egg: aguo | kũ	kʊ 
+egg: wu | kũ	kʊ 
+eye: di | SivE	siᵘɛ	šivɛ	ǯirĩ 
+eye: kabu | SivE	siᵘɛ	šivɛ	ǯirĩ 
+eye: ni | SivE	siᵘɛ	šivɛ	ǯirĩ 
+fingernail: asi | kwɔmi šɔgɛ 
+fingernail: erehui | kwɔmi šɔgɛ 
+fire: tua | birE	birɛ	bⁱrɛ 
+fire: weyko | birE	birɛ	bⁱrɛ 
+give: eremo | nando	nɑndoᵘɑⁱ 
+give: meyna | nando	nɑndoᵘɑⁱ 
+good: hobore | de	gɑ̃	gɑ̃ɔ̃ 
+good: yaro | de	gɑ̃	gɑ̃ɔ̃ 
+hair: asari | kuyu 
+hair: wir | kuyu 
+head: akaporo | dege	dɛgɛ 
+head: wehe | dege	dɛgɛ 
+head: we~he~ | dege	dɛgɛ 
+house: o~ 
+I: nani | mi	miᵘ	myǔ 
+I: na-ni | mi	miᵘ	myǔ 
+I: nengi | mi	miᵘ	myǔ 
+leg: debe | bwɛ 
+leg: kepo | bwɛ 
+louse: kono | sama 
+louse: no | sama 
+man: kwemo | yamba	yiwErE	yiwɛrɛ	ⁱuɛrɛ 
+man: norame | yamba	yiwErE	yiwɛrɛ	ⁱuɛrɛ 
+moon: huro | ywɛ	ɤⁱɛʔ 
+mouth: pa | nõ	nɔ 
+name: iruen | namani 
+name: nye | namani 
+night: babrite | yihu*	yihũ 
+night: rino | yihu*	yihũ 
+one: motoni | tiyE	tiyɛ	tiːɛ 
+one: mutu | tiyE	tiyɛ	tiːɛ 
+see: gunana | Sura	sɤɾa	šura 
+see: iahane | Sura	sɤɾa	šura 
+sit: nande | tiri 
+skin: agino | kiNg~E	kiŋgɛ 
+skin: gir | kiNg~E	kiŋgɛ 
+sleep: bauruni | do	ⁱɑ̃ᵘɑ̃do 
+stone: medapo | Simy~e	simⁱe	šimyɛ 
+stone: patyo | Simy~e	simⁱe	šimyɛ 
+sun: ti | nE	nɛ 
+sun: tigi | nE	nɛ 
+tail: busako | maːti	tĩ 
+tail: roha | maːti	tĩ 
+thou: adigi | aw	àw	ʔaʊ 
+thou: ani | aw	àw	ʔaʊ 
+thou: a-ni | aw	àw	ʔaʊ 
+thou: eregi | aw	àw	ʔaʊ 
+thou: eyni | aw	àw	ʔaʊ 
+tooth: epo | nasi	nasiN	nasiŋ 
+tooth: inam | nasi	nasiN	nasiŋ 
+tree: a | dw~a 
+tree: wi | dw~a 
+two: eiri | yindo	yind~o	yindɔ 
+two: irege | yindo	yind~o	yindɔ 
+water: hede | vy~E	ɤɩɛ	ʋyɛ 
+water: he~de | vy~E	ɤɩɛ	ʋyɛ 
+water: hode | vy~E	ɤɩɛ	ʋyɛ 
+water: sa | vy~E	ɤɩɛ	ʋyɛ 
+we: iaganoa | nnE 
+we: nanigi | nnE 
+wood: tua 
+you: ey-ni | aw	àw	ʔaʊ | ǎw 
+all: karu	nɛparɑ̃	pɛ̃ 
+every: karu	nɛparɑ̃	pɛ̃ 
+ash: bⁱrɛntɤɛ 
+bark: kwyɛ 
+big: barʊ̃	kaɲoro 
+bigness: barʊ̃	kaɲoro 
+large: barʊ̃	kaɲoro 
+bite: nɔrɛʔ	taŋwa 
+breast: py~E	ɸyɛ 
+breasts: py~E	ɸyɛ 
+cloud: poro	poroʔ 
+cold: dimmo 
+come from: nu	nuimaʔ 
+be dead: yaway	ⁱɑᵘɑⁱ 
+dead: yaway	ⁱɑᵘɑⁱ 
+die: yaway	ⁱɑᵘɑⁱ 
+ear: taNa	taŋa	taŋa-nɛ 
+ground: gwyɛ 
+land: gwyɛ 
+soil: gwyɛ 
+feather: kuyu 
+fish: No*	yiɛkoroŋnɔ	ŋɔ̃ 
+fly: dapiru	pindo 
+fly v.: dapiru	pindo 
+foot: bwɛ kumamɛ 
+full: dE*way	dɛ̃way 
+green: kuɟakara 
+hand: niNk~uri	niŋkuri 
+left hand: niNk~uri	niŋkuri 
+right: niNk~uri	niŋkuri 
+hear: no 
+heart: bikini	bmɛ 
+horn: sira 
+1 sg.: mi	miᵘ	myǔ 
+kill: ywùrá	ⁱüra 
+knee: buⁱɛ kukumɛ	bw~E kumamE	bwɛ kugumɛ 
+be knowledgeable: haːso	šurɛ 
+know: haːso	šurɛ 
+leaf: pu*yE	pũyɛ	pʷɑ̃iɛ̃ 
+liver: bimy~E	bimyɛ 
+long: bɛndɛ 
+head louse: sama 
+male: gwɔ̃	gᵘɔ̃ 
+many: kipɛːrɛ	pɛ̃ 
+much: kipɛːrɛ	pɛ̃ 
+multiple: kipɛːrɛ	pɛ̃ 
+several: kipɛːrɛ	pɛ̃ 
+hill: Simy~E 
+mountain: Simy~E 
+title: namani 
+neck: kwa	kʷa 
+nighttime: yihu*	yihũ 
+nose: Sumb~e	sumbe	šumbe 
+not: -be 
+adulterous: tiyE	tiyɛ	tiːɛ 
+single: tiyE	tiyɛ	tiːɛ 
+that: kewe 
+the: tiyE	tiyɛ	tiːɛ 
+unprincipled: tiyE	tiyɛ	tiːɛ 
+human: yamba	yiwErE	yiwɛrɛ	ⁱuɛrɛ 
+human being: yamba	yiwErE	yiwɛrɛ	ⁱuɛrɛ 
+person: yamba	yiwErE	yiwɛrɛ	ⁱuɛrɛ 
+rain: zɔŋ	ǯɔ̃ 
+rainy weather: zɔŋ	ǯɔ̃ 
+red: kibuⁱɛ	kubwyɛ 
+path: yEmb~E 
+road: yEmb~E 
+route: yEmb~E 
+root: dɤaiⁱi	yi 
+sand: niʼimɛ	ɲimɛ 
+say: diga	ŋkanɛ	ŋkaʔnɛ 
+seed: de	dɛʔ 
+hide: kiNg~E	kiŋgɛ 
+little: kiramɛ 
+small: kiramɛ 
+smallness: kiramɛ 
+smoke: birɛ-ɲɛ	yɛ 
+star: toromy~E	toromyɛ	tɤrɤɛmɛ 
+rock: Simy~e	simⁱe	šimyɛ 
+swim: ŋaniwɔrɛ aɤⁱɛgɔrɔ	ɟìná 
+this: ʔima 
+2 sg: aw	àw	ʔaʊ 
+tongue: na5ErE	naɲɛrɛ	nɑɲɛrɛ 
+grind: yindo	yind~o	yindɔ 
+go: kɔmɔrɔ	wɔrɛ	ŋʷɔʷɔrɛ 
+walk: kɔmɔrɔ	wɔrɛ	ŋʷɔʷɔrɛ 
+1 pl. inc.: nnE 
+we₁: nnE 
+what: nneši	ⁱa 
+white: kisimɑ̰	kišiwã 
+whiteness: kisimɑ̰	kišiwã 
+who: yya	ⁱã 
+who?: yya	ⁱã 
+female: ɲɛrɛ 
+woman: ɲɛrɛ 
+yellow: dwyɛmbũ 
+distant: dahakɛwɛ	ganaⁱundu 
+far: dahakɛwɛ	ganaⁱundu 
+dull: mɛre 
+heavy: mɛre 
+serious: mɛre 
+close: wɛrɛyɛrwɛ 
+near: wɛrɛyɛrwɛ 
+ner: wɛrɛyɛrwɛ 
+salt: gyɛŋɟɛ	gɛnyɛ	gɛnǯɛ 
+short: dogi	kurumɛ 
+snake: don kwɔ̃	don sɔndɔ	durumina	kɛrnɛkɛ	kɛrnɛkɛʔ	kɛrɛmɛ	mwarɛ	pɔsɛkɛrɛ 
+thin: biriwi 
+wind: pɛʋɛrɛ	pɛᵘɛrɛ 
+year: biŋ 
+2 pl.: ǎw 
+ye: ǎw 
+you all: ǎw 
+3 pl.: ndɛ	ni 
+they: ndɛ	ni 
+here: ima 
+there: keʋe 
+where: kote	kʷote 
+where?: kote	kʷote 
+when: nɛnɛ 
+when?: nɛnɛ 
+how: numindɔ 
+how?: numindɔ 
+few: kiramɛ 
+three: ketaro	tarɔ 
+four: kɛnɛ̃ɩ̃	nnɛ 
+five: kɛndundi	nundi 
+broad: wɛtɛŋɔ 
+wide: wɛtɛŋɔ 
+wideness: wɛtɛŋɔ 
+narrow: twoy 
+child: yaːmɛ	ⁱaːmeʔ 
+principal wife: pwyɛ 
+wife: pwyɛ 
+husband: akande 
+his mother: ĩa	ɲa 
+mother: ĩa	ɲa 
+my mother: ĩa	ɲa 
+father: bɔ	bɔ́ù 
+his father: bɔ	bɔ́ù 
+my father: bɔ	bɔ́ù 
+animal: yiriʋɛndɛ 
+forest: nna 
+woods: nna 
+branch: kɛmɛ 
+stick: kɛmɛ 
+grass: guɟɛ	gʊǯɛ 
+cord: boyɛ 
+rope: boyɛ 
+flesh: ŋoːŋ	ŋõ 
+meat: ŋoːŋ	ŋõ 
+claw: kwɔmi šɔgɛ 
+nail: kwɔmi šɔgɛ 
+wing: ko	soyɔn ko 
+gut: kuruwɛ 
+guts: kuruwɛ 
+insides: kuruwɛ 
+intestine: kuruwɛ 
+intestines: kuruwɛ 
+back: gi 
+suck: mɔnɟi 
+spit: tuyu 
+vomit: iɲɛ ndi 
+blow: piyu 
+breath: ɲu 
+breathe: ɲu 
+laugh: ma 
+laughter: ma 
+cogitate: miːni 
+reflect: miːni 
+think: miːni 
+smell: ɲu 
+sniff: ɲu 
+fight: kwere 
+hunt: šišɔgɔ 
+cut: dɔgɔ 
+hack: dɔgɔ 
+scratch: koyɔ 
+dig: kiːnu 
+lie: gyɛ 
+lie down: gyɛ 
+tell lies: gyɛ 
+drop: ciwɛ 
+fall: ciwɛ 
+grasp: taɣa 
+hold: taɣa 
+hold in arm: taɣa 
+rub: giɛra 
+wipe: giɛra 
+wash: kɛnɛm	sanam 
+wash clothes: kɛnɛm	sanam 
+throw: guyuru 
+bind: ba 
+fasten: ba 
+tie: ba 
+tie up: ba 
+sew: šio 
+count: ɲiwa 
+enumerate: ɲiwa 
+number: ɲiwa 
+tally: ɲiwa 
+sing: ɲwɛmɛ 
+have fun: saŋa 
+play: saŋa 
+brook: déù 
+river: déù 
+stream: déù 
+dust: kure 
+sky: dege	ŋgraⁿdo 
+blaze: daga 
+burn: daga 
+day: nnɛːhũ	nɛhũ 
+daylight: nnɛːhũ	nɛhũ 
+daytime: nnɛːhũ	nɛhũ 
+bad: begaũ	begɑ̰ 
+evil: begaũ	begɑ̰ 
+dirty: diŋgi 
+filthy: diŋgi 
+soiled: diŋgi 
+right side: siʋe 
+left: bara 

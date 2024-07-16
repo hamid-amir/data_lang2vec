@@ -1,0 +1,618 @@
+all: piaptufari | timinaʔ 
+all: piaptuφari | timinaʔ 
+all: timina\ | timinaʔ 
+all: timinaʔ 
+arm: no 
+arm: no͂ 
+arrow: pare 
+arrow: pareʔ 
+arrow: φarɛ 
+ashes: ifatìvafati | turao	turaoʔ 
+ashes: iφatɔvaφati | turao	turaoʔ 
+ashes: turao | turao	turaoʔ 
+ashes: turao(\) | turao	turaoʔ 
+ashes: turaoʔ | turao	turaoʔ 
+back: wibʌ 
+back: wibʌʔ 
+back: w-ibë(\) 
+back: w-ifë\ 
+back: wiφʌʔ 
+bad: buriäbu 
+bad: buriäbuʔ 
+bad: buriäbu(\) 
+bad: piaplu 
+bark: dädënë | dädʌnʌ 
+bark: dädʌnʌ | dädʌnʌ 
+bark: tarnʌʔ | dädʌnʌ 
+belly: ati | atiʔ	ʌlɛnʌ	ʌlɛnʌʔ 
+belly: ati(\) | atiʔ	ʌlɛnʌ	ʌlɛnʌʔ 
+belly: atiʔ | atiʔ	ʌlɛnʌ	ʌlɛnʌʔ 
+belly: ëlenë(\) | atiʔ	ʌlɛnʌ	ʌlɛnʌʔ 
+belly: ʌlɛnʌ | atiʔ	ʌlɛnʌ	ʌlɛnʌʔ 
+belly: ʌlɛnʌʔ | atiʔ	ʌlɛnʌ	ʌlɛnʌʔ 
+big: tëmërë këri(\) timrï-kiri | tʌmʌrʌ kʌri	tʌmʌrʌ kʌriʔ 
+big: tʌmʌrʌ kʌri | tʌmʌrʌ kʌri	tʌmʌrʌ kʌriʔ 
+big: tʌmʌrʌ kʌriʔ | tʌmʌrʌ kʌri	tʌmʌrʌ kʌriʔ 
+big: tɪmrɨkɪri | tʌmʌrʌ kʌri	tʌmʌrʌ kʌriʔ 
+bird: wënë | wʌnʌ 
+bird: wʌnʌ 
+bird: wʌnʌʰ 
+bite: tubëwere\ | tubʌwereʔ 
+bite: tubʌwereʔ 
+black: bëro | bʌro 
+black: bʌro 
+black: proʷu | bʌro 
+black: proutu | bʌro 
+blood: aʷ | ao	aɔ̃ 
+blood: aò˜ | ao	aɔ̃ 
+blood: aɔ͂ | ao	aɔ̃ 
+blood: au | ao	aɔ̃ 
+bone: aßuwibʌ | abiwibo	aβuwibʌ 
+bone: avuw-ibë | abiwibo	aβuwibʌ 
+bone: ifë | abiwibo	aβuwibʌ 
+bone: iφʌ | abiwibo	aβuwibʌ 
+boy: fëragi\ 
+boy: waè 
+boy: waɛ 
+boy: φʌragɪʔ 
+breast: na͂ | na	nã 
+breast: na͂ʔ | na	nã 
+breast: nã(\) | na	nã 
+brother: aba 
+brother: aba(\) 
+brother: abaʔ 
+brother: apa\ 
+brother: apaʔ 
+burn: ibëiyëmp 
+burn: ibʌiyʌmp 
+calf: tirimi 
+cassowary: wëuwë(\) 
+child: nèfrè-waè 
+child: nɛφrɛwaɛ 
+child: nimërö\ wäyä 
+child: nimʌrʌʔ wäyä 
+chin: ëkë-ibë(\) 
+chin: ɒkaʲaʔ 
+chin: ʌkʌibʌ 
+chin: ʌkʌibʌʔ 
+chin: oka-ifa\ 
+claw: okërinë\ | okʌrinʌʔ 
+claw: okʌrinʌʔ 
+cloud: bari bari | bari bari	bari bariʔ 
+cloud: bari bari(\) | bari bari	bari bariʔ 
+cloud: bari bariʔ | bari bari	bari bariʔ 
+cloud: bërwari | bari bari	bari bariʔ 
+cloud: bʌrwari | bari bari	bari bariʔ 
+cold: bibitaßo | bibitaβo 
+cold: bibitavo\ | bibitaβo 
+come: ariä | ariE	ariä	ariäʔ 
+come: ariäʔ | ariE	ariä	ariäʔ 
+come: ariä(\) | ariE	ariä	ariäʔ 
+come: nomriè\ | ariE	ariä	ariäʔ 
+come: nomriɛʔ | ariE	ariä	ariäʔ 
+dance: tëwë\ 
+day: tainë 
+day: taʲʌ ~ tainʌ 
+day: tëinë\ 
+day: tʌinʌʔ 
+die: kove idomp | kove idompʰ 
+die: kove idompʰ 
+die: nomilʊm | kove idompʰ 
+die: nomilum | kove idompʰ 
+dog: inari(\) | inori	inʌri 
+dog: inariʔ | inori	inʌri 
+dog: inëri | inori	inʌri 
+dog: inʌri | inori	inʌri 
+drink: ani-mëimè\ | animʌimɛʔ 
+drink: animʌimɛʔ 
+drink: nomrèm | animʌimɛʔ 
+drink: nomrɛm | animʌimɛʔ 
+dry: bëera\ | bʌeraʔ 
+dry: bʌeraʔ 
+ear: dinʌ | dino	dinʌ 
+ear: dina. linë\ | dino	dinʌ 
+ear: dinë | dino	dinʌ 
+ear: linʌʔ | dino	dinʌ 
+earth: to 
+earth: to(\) 
+earth: toʔ 
+eat: miniëren | miniʌren	muniʌren 
+eat: miniʌren | miniʌren	muniʌren 
+eat: muniëren | miniʌren	muniʌren 
+eat: muniʌren | miniʌren	muniʌren 
+eat: nomotirrèn | miniʌren	muniʌren 
+eat: nomotirrɛn | miniʌren	muniʌren 
+egg: ka\ | mʌiyʌ 
+egg: kaʔ | mʌiyʌ 
+egg: mëiyë | mʌiyʌ 
+egg: mʌiyʌ 
+elbow: ɛtɛʲʌ 
+elbow: ete-ifë 
+elbow: ɛtißa 
+elbow: ɛtißaʔ 
+elbow: èt-iva(\) 
+emu: wʌuwʌʔ 
+emu: wʌʊwʌ 
+emu: wɒʷʌʔ ~ waʷʌʔ 
+eye: dena | dena	denaʔ 
+eye: denaʔ | dena	denaʔ 
+eye: dena(\a) | dena	denaʔ 
+eye: tenʌ | dena	denaʔ 
+eye: tenë | dena	denaʔ 
+fall: yèmèm 
+fall: yɛmɛm 
+father: aʲa 
+father: aiya 
+father: aiya(\) 
+father: aiyaʔ 
+fat (n.): aʷɛʔ 
+fat (n.): aore 
+fat (n.): aurè\ 
+feather: wëna-tina\ | wʌnatinaʔ 
+feather: wʌnatinaʔ 
+feather: wonɛtɛnʌ | wʌnatinaʔ 
+feather: wonè-tènë | wʌnatinaʔ 
+finger: iyubënë(\) 
+finger: iyubʌnʌ 
+finger: iyubʌnʌʔ 
+finger: yufunë 
+finger: yuφunʌ 
+fire: eßa | eba	eβa	eβaʔ 
+fire: eßaʔ | eba	eβa	eβaʔ 
+fire: eva(\) | eba	eβa	eβaʔ 
+fire: iba\ | eba	eβa	eβaʔ 
+fire: ipa\ | eba	eβa	eβaʔ 
+fire: ipaʔ | eba	eβa	eβaʔ 
+fish: lapè\ | rabe	rabeʔ 
+fish: lapɛʔ | rabe	rabeʔ 
+fish: rabe | rabe	rabeʔ 
+fish: rabe(\) | rabe	rabeʔ 
+fish: rabeʔ | rabe	rabeʔ 
+five: yubʌnʌitiʔ 
+five: yuφnaɛti 
+fly (v.): mimëi 
+fly (v.): mimʌi 
+foot: borëtä | borʌtä	tirimi 
+foot: borʌtä | borʌtä	tirimi 
+foot: purʌʔ | borʌtä	tirimi 
+foot: purë\ | borʌtä	tirimi 
+foot: tirimi | borʌtä	tirimi 
+forehead: ɛnibʌ 
+forehead: ɛnibʌʔ 
+forehead: èn-ibë(\) 
+forehead: lènati 
+forehead: lɛnati 
+four: aɛtɛʔ 
+four: aite 
+four: aiteʔ 
+full: piäroʔ | piäroʔ 
+full: piäro\ | piäroʔ 
+girl: timato 
+girl: ti mätuäʔ 
+girl: ti mätuä\ 
+girl: tɨmato 
+give: montèrèn | muniʌren 
+give: montɛrɛn | muniʌren 
+give: muniëren | muniʌren 
+give: muniʌren 
+good: aʲaroʔ | wuräro	wuräroʔ 
+good: aifaro\ | wuräro	wuräroʔ 
+good: wuräro | wuräro	wuräroʔ 
+good: wuräroʔ | wuräro	wuräroʔ 
+good: wuräro(\) | wuräro	wuräroʔ 
+green: ebëinä\ | ebʌinäʔ 
+green: ebʌinäʔ | ebʌinäʔ 
+hair: erere | etete	eteteʔ 
+hair: etete | etete	eteteʔ 
+hair: etete(\) | etete	eteteʔ 
+hair: eteteʔ | etete	eteteʔ 
+hair: hètètè | etete	eteteʔ 
+hair: hɛtɛtɛ | etete	eteteʔ 
+hand: no(\) | no	nõ 
+hand: no͂ | no	nõ 
+hand: no͂ʔ | no	nõ 
+head: owuna | owuna	owunaʔ 
+head: owuna(\) | owuna	owunaʔ 
+head: owunaʔ | owuna	owunaʔ 
+head: pupuna | owuna	owunaʔ 
+head: pupuna͂ | owuna	owunaʔ 
+hear: moro eni mampʰ 
+hear: moro eni mamp.h | moro eni mampʰ 
+hear: nomirumtèfè | moro eni mampʰ 
+hear: nomɪrʊmtɛφɛ | moro eni mampʰ 
+heart: dati | dati	dɑtiʔ 
+heart: doti\ | dati	dɑtiʔ 
+heart: dɑtiʔ | dati	dɑtiʔ 
+heart: lati | dati	dɑtiʔ 
+heavy: yaʷʊm(p) | yaotʌbo 
+heavy: yaotʌbo 
+heavy: yaotëbo | yaotʌbo 
+heavy: yaurum(p) | yaotʌbo 
+he/she: ënëwi\ 
+he/she: nom(o\) 
+he/she: nomoʔ ~ nom 
+he/she: ʌnʌwiʔ 
+hit: mi wëyimëre 
+hit: mi wʌyimʌre 
+horn: noata\ | noataʔ 
+horn: noataʔ 
+house: te 
+house: te(\) 
+house: teʔ 
+house: tè 
+house: tɛ 
+I: mo | mõ 
+I: mo͂ | mõ 
+kill: bovomè\ | bovomɛʔ 
+kill: bovomɛʔ 
+knee: domanʌ | domano	domanʌ	domanʌʔ 
+knee: domanʌʔ | domano	domanʌ	domanʌʔ 
+knee: domanë(\) | domano	domanʌ	domanʌʔ 
+knee: lumnʌʔ | domano	domanʌ	domanʌʔ 
+knee: lumnë\ | domano	domanʌ	domanʌʔ 
+know: mandone\ | mandoneʔ 
+know: mandoneʔ 
+know: nomrondʊm | mandoneʔ 
+know: nomrondum | mandoneʔ 
+laugh: totoe 
+laugh: totoe(\) 
+laugh: totoeʔ 
+leaf: iri 
+leaf: iti | iri 
+leg: ipʌ 
+leg: ipë 
+leg: tirimi(\) 
+leg: tirimiʔ 
+lie: nëtëmëbie 
+lie: nɒmtarɛφi 
+lie: nomtarèfi 
+lie: nʌtʌmʌbie 
+liver: munʌ | muno	munʌ̃	munʌ̃ʔ 
+liver: munʌ͂ | muno	munʌ̃	munʌ̃ʔ 
+liver: munʌ͂ʔ | muno	munʌ̃	munʌ̃ʔ 
+liver: munë(\) | muno	munʌ̃	munʌ̃ʔ 
+long: ärimäʔ | ärimäʔ 
+long: ärimä\ | ärimäʔ 
+long: ermaikri | ärimäʔ 
+long: ermaʲri | ärimäʔ 
+long: puvi | ärimäʔ 
+louse: amo 
+louse: amo(\) 
+louse: amo͂ʔ 
+louse: oipnamo 
+louse: oʷnamo 
+man: nutu 
+man: nu tuʔ | nutu 
+man: nutu(\) 
+man: nutuʔ 
+many: löptau | tʌbutʌʔ 
+many: lʌptaʷ | tʌbutʌʔ 
+many: tʌbutʌʔ 
+many: tëbutë\ | tʌbutʌʔ 
+meat: monitaè 
+meat: monitaɛ 
+meat: muni 
+moon: ototo 
+moon: ototo(\) 
+moon: ototoʔ 
+morning: dimëpari\ 
+morning: dimʌpariʔ 
+morning: tèmofari 
+morning: tɛmoφari 
+mother: mè\ 
+mother: mɛ͂ 
+mother: mɛ͂ʔ 
+mountain: abo(\) | abo	aboʔ	abõ 
+mountain: abo͂ | abo	aboʔ	abõ 
+mountain: aboʔ | abo	aboʔ	abõ 
+mountain: abõ | abo	aboʔ	abõ 
+mountain: apo ~ apʊ | abo	aboʔ	abõ 
+mountain: apu | abo	aboʔ	abõ 
+mouth: bubu | buβuʔ	ʌtʌigʌ	ʌtʰəigʌʔ 
+mouth: bußuʔ | buβuʔ	ʌtʌigʌ	ʌtʰəigʌʔ 
+mouth: buvu\ | buβuʔ	ʌtʌigʌ	ʌtʰəigʌʔ 
+mouth: ëtë\ | buβuʔ	ʌtʌigʌ	ʌtʰəigʌʔ 
+mouth: ëtë-igë | buβuʔ	ʌtʌigʌ	ʌtʰəigʌʔ 
+mouth: ët.hë-igë\ | buβuʔ	ʌtʌigʌ	ʌtʰəigʌʔ 
+mouth: ʌtʌʔ | buβuʔ	ʌtʌigʌ	ʌtʰəigʌʔ 
+mouth: ʌtʰəigʌʔ | buβuʔ	ʌtʌigʌ	ʌtʰəigʌʔ 
+mouth: ʌtʌigʌ | buβuʔ	ʌtʌigʌ	ʌtʰəigʌʔ 
+name: pini 
+nape: onë-ibë 
+nape: onʌibʌ 
+neck: onë-ibë\ | onʌibʌʔ 
+neck: onʌibʌʔ 
+neck: wanaiwʌʔ | onʌibʌʔ 
+neck: wana-iwë\ | onʌibʌʔ 
+new: titiaʷ | titiyou	titiyʌu	titiyʌuʔ 
+new: titiau | titiyou	titiyʌu	titiyʌuʔ 
+new: titiyëu(\) | titiyou	titiyʌu	titiyʌuʔ 
+new: titiyʌu | titiyou	titiyʌu	titiyʌuʔ 
+new: titiyʌuʔ | titiyou	titiyʌu	titiyʌuʔ 
+night: de | de	deʔ 
+night: de(\) | de	deʔ 
+night: deʔ | de	deʔ 
+night: timʌ | de	deʔ 
+night: timë | de	deʔ 
+nose: wëti(\) | woti	wʌti	wʌtiʔ 
+nose: witi | woti	wʌti	wʌtiʔ 
+not: noko | tutɔo 
+not: noko(\) | tutɔo 
+not: nokoʔ | tutɔo 
+not: tutòo | tutɔo 
+not: tutɔo 
+old: nutu buriärɪʔ 
+old: nutu buriäri 
+old: nutu-friarè 
+old: nutuφriarɛ 
+old: tem 
+old: tɛm 
+old: tem , tèm 
+old: to-bëriäri\ 
+old: tobʌriärɪʔ 
+old: to-priarè 
+old: topriarɛ 
+one: otitu | otutu	otutuʔ 
+one: ototu | otutu	otutuʔ 
+one: otutu | otutu	otutuʔ 
+one: otutuʔ | otutu	otutuʔ 
+person: ërètu | nutu 
+person: ʌrɛtu | nutu 
+rain: ba͂nɪʔ | bani	baniʔ 
+rain: bani | bani	baniʔ 
+rain: bani(\) | bani	baniʔ 
+rain: baniʔ | bani	baniʔ 
+rat: ariam 
+rat: wëruwä\ 
+rat: wʌruwäʔ 
+red: toto\ | totoʔ 
+red: totoʔ 
+road: ti 
+road: t̪iʔ | ti 
+road: ti(\) 
+road: tiʔ 
+root: duwëndë(\) | duwʌndʌ	duwʌndʌʔ 
+root: duwʌndʌ | duwʌndʌ	duwʌndʌʔ 
+root: duwʌndʌʔ | duwʌndʌ	duwʌndʌʔ 
+root: \ra-è\ | duwʌndʌ	duwʌndʌʔ 
+root: ʔra-ɛʔ | duwʌndʌ	duwʌndʌʔ 
+round: wäroʔ | wäroʔ 
+round: wäro\ | wäroʔ 
+sand: \foriè\ | obariä	obariäʔ 
+sand: obariä | obariä	obariäʔ 
+sand: obariäʔ | obariä	obariäʔ 
+sand: obariä(\) | obariä	obariäʔ 
+sand: ʔφɒriɛʔ | obariä	obariäʔ 
+say: anedomo\ | anedomoʔ 
+say: anedomoʔ 
+say: nomrʊm | anedomoʔ 
+say: nomrum | anedomoʔ 
+seed: dati 
+seed: \tarfati | dati 
+seed: ʔtarφati | dati 
+see: nowaitèmlè | nuniwäyɛn 
+see: nowaitɛmlɛ | nuniwäyɛn 
+see: nuniwäyèn | nuniwäyɛn 
+see: nuniwäyɛn | nuniwäyɛn 
+short: tutʷaʲʔ 
+short: tuturo\ 
+short: tuturoʔ 
+short: tutwaiè\ 
+shoulder: bumënë(\) 
+shoulder: bumʌnʌ 
+shoulder: bumʌnʌʔ 
+shoulder: pumënë 
+shoulder: pumʌnʌ 
+sister: dowʌe 
+sister: dowʌeʔ 
+sister: dowëe(\) 
+sister: rʷɛʔ 
+sister: ruaè\ 
+sit: mimʌbä | mimʌbä 
+sit: mimëbä | mimʌbä 
+sit: nomrïfè\ | mimʌbä 
+sit: nomrɨφɛʔ | mimʌbä 
+skin: tati | tati	tatiʔ 
+skin: tat̪i | tati	tatiʔ 
+skin: tati(\) | tati	tatiʔ 
+skin: tatiʔ | tati	tatiʔ 
+sleep: nëmto mäibi\ | nʌmto mäibiʔ 
+sleep: nʌmto mäibiʔ | nʌmto mäibiʔ 
+small: nʌbʌreyä | nʌbʌreyä 
+small: nëbëreyä(\) | nʌbʌreyä 
+small: nèplè.èa tokefwèa | nʌbʌreyä 
+small: nɛplɛ\ɛa tokeφwɛa | nʌbʌreyä 
+smoke: ifa-titifi | titiβi	titiβiʔ 
+smoke: iφatitiφi | titiβi	titiβiʔ 
+smoke: titißi | titiβi	titiβiʔ 
+smoke: titißiʔ | titiβi	titiβiʔ 
+smoke: titivi(\) | titiβi	titiβiʔ 
+snake: nibëro(\) | nibʌro	nibʌroʔ 
+snake: nibʌro | nibʌro	nibʌroʔ 
+snake: nibʌroʔ | nibʌro	nibʌroʔ 
+snake: niforo\ | nibʌro	nibʌroʔ 
+snake: niφoroʔ | nibʌro	nibʌroʔ 
+spit: uniʔ 
+stand: amuram 
+stand: lèlèm 
+stand: lɛlɛm 
+star: \lifiapë\ | tetibi	tetiβi 
+star: ʔliφiapʌʔ | tetibi	tetiβi 
+star: tetißi | tetibi	tetiβi 
+star: tetivi | tetibi	tetiβi 
+stick: baruanë 
+stick: dinëo 
+stone: bitò | bito	bitɔ 
+stone: bitɔ | bito	bitɔ 
+stone: pito\ | bito	bitɔ 
+stone: pitoʔ | bito	bitɔ 
+sun: ni | nĩʔ 
+sun: ni(\) | nĩʔ 
+sun: ni͂ʔ | nĩʔ 
+swim: anibutimëm | anibutimʌm 
+swim: anibutimʌm 
+tail: araʲʌʔ | ʌrʌitʌ	ʌrʌitʌʔ 
+tail: araitë\ | ʌrʌitʌ	ʌrʌitʌʔ 
+tail: ërëitë(\) | ʌrʌitʌ	ʌrʌitʌʔ 
+tail: ʌrʌitʌ | ʌrʌitʌ	ʌrʌitʌʔ 
+tail: ʌrʌitʌʔ | ʌrʌitʌ	ʌrʌitʌʔ 
+take: ari manbëre 
+that: nʌwiʔ 
+they: tuwi timinʌ 
+they: tuwi timi-në 
+they two: ëteti-nënë 
+they two: initi-nanë 
+they two: ɨnɨtinanʌ 
+they two: ʌtetinʌnʌ 
+this: auwiʔ 
+thou: ami͂ | amo 
+thou: aminʌ tuwinʌ | amo 
+thou: amo 
+thou: amo(\) 
+thou: amo͂ʔ 
+three: hʷo͂nanaʔ 
+three: onënë 
+three: onʌnʌ 
+tomorrow: mani 
+tomorrow: mëini\ 
+tomorrow: mʌiniʔ 
+tongue: dëgërë | dogoro	dʌgʌrʌ 
+tongue: dëkëra | dogoro	dʌgʌrʌ 
+tongue: dʌgʌrʌ | dogoro	dʌgʌrʌ 
+tongue: lakrʌʔ | dogoro	dʌgʌrʌ 
+tongue: lakrë\ | dogoro	dʌgʌrʌ 
+tooth: ʊti | wuti	ʊti 
+tooth: uti | wuti	ʊti 
+tooth: witi | wuti	ʊti 
+tooth: wɪti | wuti	ʊti 
+tooth: wuti | wuti	ʊti 
+tree: nda 
+tree: nda(\) 
+tree: ndaʔ 
+tree: \ra | nda 
+tree: ʔra | nda 
+two: tinanʌʔ | tinono	tinʌnʌ	tinʌnʌʔ 
+two: tinënë | tinono	tinʌnʌ	tinʌnʌʔ 
+two: tinʌnʌ | tinono	tinʌnʌ	tinʌnʌʔ 
+two: tinʌnʌʔ | tinono	tinʌnʌ	tinʌnʌʔ 
+walk: atèrum | mʌimi	mʌimiʔ 
+walk: atɛrum | mʌimi	mʌimiʔ 
+walk: mëimi(\) | mʌimi	mʌimiʔ 
+walk: mʌimi | mʌimi	mʌimiʔ 
+walk: mʌimiʔ | mʌimi	mʌimiʔ 
+walk: umɛm | mʌimi	mʌimiʔ 
+wallaby: boe 
+wallaby: boe(\) 
+wallaby: boeʔ 
+wallaby: poʲ 
+wallaby: poi\ 
+warm: ëibëite\ 
+warm: əibʌiteʔ 
+water: ani | ani	aniʔ 
+water: \ani\ | ani	aniʔ 
+water: ʔaniʔ | ani	aniʔ 
+water: ani(\) | ani	aniʔ 
+water: aniʔ | ani	aniʔ 
+we (excl.): mi͂ 
+we (excl.): timinʌnʌ tuwinʌ 
+we: mi 
+wet: baruanʌʔ 
+wet: baruanë\ 
+we: timi-nënë tuwinë 
+we two (excl.): mi amina 
+we two (excl.): mitinanʌ 
+we two (incl.): amina 
+we two (incl.): am-ti-nanë 
+we two: mi amina 
+we two: mi-ti-nanë 
+what: ore 
+when: binëwinë 
+when: binʌwinʌ 
+where: wëreto 
+where: wʌreto 
+white: tibiëte(\) | tibiʌte	tibiʌteʔ 
+white: tibiʌte | tibiʌte	tibiʌteʔ 
+white: tibiʌteʔ | tibiʌte	tibiʌteʔ 
+white: tifyëtatu | tibiʌte	tibiʌteʔ 
+white: tiφyʌtatu | tibiʌte	tibiʌteʔ 
+who: mëre | mʌre 
+who: mʌre 
+wife: to͂ 
+wife: tõ 
+wind: përotu | pʌrotu	pʌrotuʔ 
+wind: pʌrotu | pʌrotu	pʌrotuʔ 
+wind: pʌrotuʔ | pʌrotu	pʌrotuʔ 
+wind: ʔta tʊkeʲu | pʌrotu	pʌrotuʔ 
+wind: \ta tukeifu | pʌrotu	pʌrotuʔ 
+wing: tomoʲʌ 
+wing: tomo-ifo 
+wing: tunuibʌ 
+wing: tunuibʌʔ 
+wing: tunu-ibë(\) 
+woman: to\ | tɔ 
+woman: tò | tɔ 
+woman: tɔ 
+woman: toʷ~ toʔ | tɔ 
+woman: tou | tɔ 
+wood: baruanʌ 
+wood: dinʌu 
+yellow: dubuwʌäʔ | dubuwʌäʔ 
+yellow: dubuwëä\ | dubuwʌäʔ 
+yellow: tototu | dubuwʌäʔ 
+yes: ebore 
+yesterday: dinëmo(\) 
+yesterday: dinʌmo 
+yesterday: dinʌmoʔ 
+yesterday: linumo\ 
+yesterday: linumoʔ 
+yes: woʷ 
+yes: wou 
+you: ami | amo 
+you: ami-në tuwinë | amo 
+you two: amina 
+you two: amtinanʌ 
+every: timinaʔ 
+ash: turao	turaoʔ 
+abdomen: atiʔ	ʌlɛnʌ	ʌlɛnʌʔ 
+bigness: tʌmʌrʌ kʌri	tʌmʌrʌ kʌriʔ 
+large: tʌmʌrʌ kʌri	tʌmʌrʌ kʌriʔ 
+breasts: na	nã 
+nail: okʌrinʌʔ 
+talon: okʌrinʌʔ 
+come from: ariE	ariä	ariäʔ 
+be dead: kove idompʰ 
+dead: kove idompʰ 
+fly: mimʌi 
+fly v.: mimʌi 
+left hand: no	nõ 
+right: no	nõ 
+1 sg.: mõ 
+be knowledgeable: mandoneʔ 
+head louse: amo 
+male: nu tuʔ	nutu 
+much: tʌbutʌʔ 
+multiple: tʌbutʌʔ 
+several: tʌbutʌʔ 
+hill: abo	aboʔ	abõ 
+nighttime: de	deʔ 
+adulterous: otutu	otutuʔ 
+single: otutu	otutuʔ 
+the: otutu	otutuʔ 
+unprincipled: otutu	otutuʔ 
+human: nutu 
+human being: nutu 
+rainy weather: bani	baniʔ 
+path: ti 
+route: ti 
+hide: tati	tatiʔ 
+little: nʌbʌreyä 
+smallness: nʌbʌreyä 
+rock: bito	bitɔ 
+2 sg: amo 
+grind: tinono	tinʌnʌ	tinʌnʌʔ 
+go: mʌimi	mʌimiʔ 
+whiteness: tibiʌte	tibiʌteʔ 
+who?: mʌre 
+female: tɔ 
+dull: yaotʌbo 
+serious: yaotʌbo 

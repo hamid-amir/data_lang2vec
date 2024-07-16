@@ -1,0 +1,304 @@
+all: eʼrehtum 
+every: eʼrehtum 
+ash: čim 
+ashes: čim 
+bark: šuʼpáʔ	ʼšoʔpaʔ 
+big: ʼdersi 
+bigness: ʼdersi 
+large: ʼdersi 
+bird: haihtʼki 
+bite: kaʼrauʼheʔ 
+black: c̷inʼkas	c̷inʼkatč 
+blood: Ch~aeS	češ 
+bone: hin 
+breast: eefe 
+breasts: eefe 
+claw: ʼpatki 
+nail: ʼpatki 
+talon: ʼpatki 
+cloud: erubuʼye 
+cold: heʼtis 
+come: aʼc̷ih	aʼyih	re*nCh$i* 
+come from: aʼc̷ih	aʼyih	re*nCh$i* 
+be dead: iʼhak	sae5i	sæʼɲi 
+dead: iʼhak	sae5i	sæʼɲi 
+die: iʼhak	sae5i	sæʼɲi 
+dog: aCae	ačʼyo 
+drink: tkʼyei	tye 
+dry: ʼc̷œɲe	ʼčaɲe 
+ear: reh	ʼčuiɲ 
+earth: ʼhak 
+ground: ʼhak 
+land: ʼhak 
+soil: ʼhak 
+eat: sakse-ʼha 
+egg: fen 
+eye: Ch~a*en	beh 
+feather: paiɲ 
+fire: ch~ih	ʼc̷ih 
+fish: taʼbedʸe	tya*b 
+fly: ʼɲai 
+fly v.: ʼɲai 
+foot: yœh 
+full: baen	ʼbun 
+give: sõʔmeʼye 
+good: hemdʼsi	ʼhem 
+green: šan-ʼdʸes 
+hair: ʼfin 
+hand: in	uɲ 
+left hand: in	uɲ 
+right: in	uɲ 
+head: xuʔʼno 
+hear: se7re	tčiʼkaksi 
+heart: ʼkohki 
+horn: daʼšœʔ 
+1 sg.: ya*e	yoʼẽ 
+I: ya*e	yoʼẽ 
+kill: iʼhai	iʼhak-si 
+knee: kaaš	kaš 
+be knowledgeable: tčiʼyæ 
+know: tčiʼyæ 
+leaf: ʼšan 
+lie: čudenʼyi 
+lie down: čudenʼyi 
+liver: naʼkač 
+long: motʼča-s	motʼča-tk 
+head louse: roro	ʼc̷ix 
+louse: roro	ʼc̷ix 
+male: ʼc̷oɲ 
+man: mint~yi7	tyi	ʼmointki 
+many: ʼtdai 
+much: ʼtdai 
+multiple: ʼtdai 
+several: ʼtdai 
+flesh: šœš 
+meat: šœš 
+moon: ʼiwa 
+hill: daerae7	mœʼkæ 
+mountain: daerae7	mœʼkæ 
+mouth: čõ 
+name: ti*7	tic̷	tih 
+title: ti*7	tic̷	tih 
+neck: beʼkaʔ	tœh 
+new: ma*ei7	ʼmaikit	ʼmaisis 
+night: c̷edʸẽʼdʸeʔ	yomo 
+nighttime: c̷edʸẽʼdʸeʔ	yomo 
+nose: ha*eih	ʼhoi 
+adulterous: hi*ri*s	irit 
+one: hi*ri*s	irit 
+single: hi*ri*s	irit 
+that: hi*ri*s	irit 
+the: hi*ri*s	irit 
+unprincipled: hi*ri*s	irit 
+human: mint~yi7	tyi	ʼmointki 
+human being: mint~yi7	tyi	ʼmointki 
+person: mint~yi7	tyi	ʼmointki 
+rain: aʼɲe 
+rainy weather: aʼɲe 
+red: heihʼnas	heihʼnatč 
+path: mahmi 
+road: mahmi 
+route: mahmi 
+root: iriʼbin 
+round: tiʔiʼbos 
+sand: haʼmaiɲ 
+say: heʼyaki 
+see: ka*re*	kaʼbe 
+seed: be	we 
+sit: bœʔʼdʸi 
+hide: šuʼpaʔ 
+skin: šuʼpaʔ 
+sleep: koʼši	kuʼši 
+little: miʼki-s	miʼki-tk 
+small: miʼki-s	miʼki-tk 
+smallness: miʼki-s	miʼki-tk 
+smoke: hiʔiʼsa 
+star: õrõʼtaʔ 
+rock: miy	ʼmix 
+stone: miy	ʼmix 
+sun: cin	ʼc̷œɲ 
+swim: ʼnaiki 
+tail: koʼdih	pih 
+2 sg: mi 
+thou: mi 
+you: mi 
+tongue: nem	ʼnem 
+tooth: muʼdʸin 
+tree: daerae7 
+grind: pa*era*e7	pana	pæʼræʔ 
+two: pa*era*e7	pana	pæʼræʔ 
+go: fueʼrih	miʼʔi 
+walk: fueʼrih	miʼʔi 
+hot: tčin 
+warm: tčin 
+water: o*h5i*7	uhʼɲi 
+1 pl. inc.: cin	ʼc̷uɲ 
+we: cin	ʼc̷uɲ 
+we₁: cin	ʼc̷uɲ 
+what: haʼtahyĩka 
+white: haiʔʼbas	haiʔʼbatč 
+whiteness: haiʔʼbas	haiʔʼbatč 
+who: tkiʼka 
+who?: tkiʼka 
+female: ʼpheɲ 
+woman: ʼpheɲ 
+yellow: kutči-ʼkutči-ʼdʸes 
+distant: ʼmutč 
+far: ʼmutč 
+dull: hauhʼki 
+heavy: hauhʼki 
+serious: hauhʼki 
+close: ʼtčeiʼỹaʔ 
+near: ʼtčeiʼỹaʔ 
+ner: ʼtčeiʼỹaʔ 
+salt: hiiʼko 
+short: miʼkias	ʼtaknis 
+snake: ʼnas 
+thin: oroiʼkos	oroiʼkoč 
+wind: kiʔʼma 
+earthworm: heʼsaʔ 
+worm: heʼsaʔ 
+year: yomoʼdʸeʔ 
+2 pl.: miʼʔin 
+ye: miʼʔin 
+you all: miʼʔin 
+3 pl.: moʼʔin	mœʼʔin 
+they: moʼʔin	mœʼʔin 
+where: haʼnaʔ 
+where?: haʼnaʔ 
+when: hundʼsiʔ 
+when?: hundʼsiʔ 
+how: ʼhoiɲka 
+how?: ʼhoiɲka 
+some: miʼki 
+few: miʼki 
+three: chibin	tčiʼbin 
+four: tsis	wahpenʼdʸeʔ 
+five: cánam	khaʼnam 
+broad: kaʼc̷is 
+wide: kaʼc̷is 
+wideness: kaʼc̷is 
+fat: ʼčœye 
+thick: maʼbet	mbaʼbet 
+narrow: sumkaɲ 
+child: miʼki-t 
+principal wife: heʼyeye	ʼpheɲ 
+wife: heʼyeye	ʼpheɲ 
+husband: wem-tʼye 
+his mother: ʼnonoʔ 
+mother: ʼnonoʔ 
+my mother: ʼnonoʔ 
+father: ʼata	ʼtata 
+his father: ʼata	ʼtata 
+my father: ʼata	ʼtata 
+animal: hebak-ʼdʸe 
+forest: deʼreʔ 
+woods: deʼreʔ 
+branch: daʼkaʔ 
+stick: daʼkaʔ 
+fruit: weš	ʼtatu 
+flower: haaʼme 
+grass: biʼruruʔ 
+cord: tĩʼdʸeʔ 
+rope: tĩʼdʸeʔ 
+grease: ʼčœye 
+fingernail: ʼpatki 
+leg: xœɲœk 
+wing: paʼwah 
+gut: woʼkoh 
+guts: woʼkoh 
+insides: woʼkoh 
+intestine: woʼkoh 
+intestines: woʼkoh 
+back: mœrehriʼka 
+suck: c̷iʔʼyi 
+spit: čopiʼyi 
+vomit: ʼčai 
+blow: puhʼye 
+breath: hœʼki	pœhʼyi 
+breathe: hœʼki	pœhʼyi 
+laugh: dʸiʼsi 
+laughter: dʸiʼsi 
+cogitate: ʼyihyi 
+reflect: ʼyihyi 
+think: ʼyihyi 
+smell: hœʔʼseʔ 
+sniff: hœʔʼseʔ 
+afraid: ʼnoiye-dʸeʔ 
+be afraid: ʼnoiye-dʸeʔ 
+fear: ʼnoiye-dʸeʔ 
+fright: ʼnoiye-dʸeʔ 
+alive: bœʼyi	c̷aaʼki 
+be alive: bœʼyi	c̷aaʼki 
+life: bœʼyi	c̷aaʼki 
+live: bœʼyi	c̷aaʼki 
+living: bœʼyi	c̷aaʼki 
+fight: yeʼwoti 
+hunt: dæʼræi 
+beat: ʼtœhɲe 
+hit: ʼtœhɲe 
+strike: ʼtœhɲe 
+cut: ʼtœc̷he 
+hack: ʼtœc̷he 
+cut open: čeeʼteʔ	ʼčetheʔ 
+split: čeeʼteʔ	ʼčetheʔ 
+pierce: ʼpotheʼte 
+stab: ʼpotheʼte 
+dig: fa-ʼdʸe 
+tell lies: weɲʼyei	weʼñei 
+stand: oroikohʼkõi 
+drop: hõʼčai 
+fall: hõʼčai 
+squeeze: ʼsumʔʼhe 
+wring: ʼsumʔʼhe 
+push: tak 
+shove: tak 
+throw: faʼraheʔ 
+bind: ʼsapheʔ 
+fasten: ʼsapheʔ 
+tie: ʼsapheʔ 
+tie up: ʼsapheʔ 
+sew: dʸiʼbaki 
+count: ʼc̷ik 
+enumerate: ʼc̷ik 
+number: ʼc̷ik 
+tally: ʼc̷ik 
+sing: hiʼmaki 
+have fun: ʼmahmai 
+play: ʼmahmai 
+float: woʼšiʔ 
+flow: čaʼĩ 
+brook: uhʼɲi 
+river: uhʼɲi 
+stream: uhʼɲi 
+dust: pœʼdai	ʼhak 
+fog: yikbaba-ʼdʸeʔ 
+sky: mãyeʼdʸeʔ 
+snow: yikbabaʼdʸeʔ 
+ice: c̷ãfʼwa 
+blaze: miiʼtiʔ 
+burn: miiʼtiʔ 
+day: mayẽʼdʸeʔ 
+daylight: mayẽʼdʸeʔ 
+daytime: mayẽʼdʸeʔ 
+bad: ham ʼhemdsi 
+evil: ham ʼhemdsi 
+rot: foʼkoi 
+rotten: foʼkoi 
+dirty: aʔʼtči 
+filthy: aʔʼtči 
+soiled: aʔʼtči 
+straight: ʼtčoi 
+sharp: moʼtaksi 
+blunt: mœʼnes 
+smooth: ʼtanes 
+damp: saʔʼmai	saʼma 
+wet: saʔʼmai	saʼma 
+correct: ʼkœc̷is 
+right side: ʼtak 
+left: ʼkim 
+in: okʼhaɲ 
+inside: okʼhaɲ 
+and: hũdʸeʼyaʔ 
+if: hwihʼya 
+because: kaʼkaiɲ 

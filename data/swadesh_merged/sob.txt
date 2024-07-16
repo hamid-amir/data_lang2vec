@@ -1,0 +1,140 @@
+all: dedwitse 
+every: dedwitse 
+ash: desa 
+ashes: desa 
+abdomen: moʔodi 
+belly: moʔodi 
+big: myori	wemio 
+bigness: myori	wemio 
+large: myori	wemio 
+bird: mani|netyo 
+bite: yatoʔ 
+black: fe-meno 
+blood: sida 
+bone: tiwo 
+breast: siso	sisu 
+breasts: siso	sisu 
+burn: eboʔoit 
+burn tr.: eboʔoit 
+cloud: meno 
+cold: sebre 
+come: e-ma	ma 
+come from: e-ma	ma 
+be dead: aper	per 
+dead: aper	per 
+die: aper	per 
+dog: nani 
+drink: a-mus	mus 
+dry: esaʔara 
+ear: tidi-m rau	tidim rau	tidimrau 
+eat: kin 
+egg: beno 
+eye: somarnam 
+feather: fido 
+fire: yafu 
+fish: ina 
+fly: epor 
+fly v.: epor 
+good: fia	fiamau 
+green: fe-meno 
+hair: dahu-m rau 
+hand: imi	imi-m 
+left hand: imi	imi-m 
+right: imi	imi-m 
+head: dabu 
+hear: a-fda	fda 
+1 sg.: ia|be	yau	yawase	yawasi 
+I: ia|be	yau	yawase	yawasi 
+kill: a-fun aper 
+be knowledgeable: imnas 
+know: imnas 
+leaf: rau 
+lie: moni 
+lie down: moni 
+liver: resne 
+long: meda 
+head louse: kute 
+louse: kute 
+male: temto 
+man: temto 
+moon: mado 
+mouth: warifno 
+name: asa	asa-m 
+title: asa	asa-m 
+neck: batem 
+new: fefou 
+night: meriou	pani 
+nighttime: meriou	pani 
+nose: su-m dari	sum dari	sumdari 
+adulterous: tes	tesese 
+one: tes	tesese 
+single: tes	tesese 
+that: denonoto 
+the: tes	tesese 
+unprincipled: tes	tesese 
+human: temto 
+human being: temto 
+person: temto 
+rain: mrofi	tano 
+rainy weather: mrofi	tano 
+red: fe-dara 
+path: rara 
+road: rara 
+route: rara 
+root: rapi 
+sand: wane 
+say: fator 
+see: a-rom	rom 
+sit: imarois 
+hide: wadi 
+skin: wadi 
+sleep: moni 
+little: benanatau 
+small: benanatau 
+smallness: benanatau 
+smoke: metarfe 
+star: betwe	betw~e 
+rock: fati 
+stone: fati 
+swim: a-yas 
+tail: iku 
+this: [se]satei	teit 
+2 sg: usimau	u|be 
+thou: usimau	u|be 
+you: usimau	u|be 
+tongue: madamtano	madamtaʔno 
+tooth: wometa 
+grind: daidu 
+two: daidu 
+go: awo 
+walk: awo 
+hot: mefna 
+warm: mefna 
+water: rani 
+1 pl. inc.: rer|be	usimse	usim|se 
+we: rer|be	usimse	usim|se 
+we₁: rer|be	usimse	usim|se 
+what: nisamba	nyo 
+white: fe-pamo 
+whiteness: fe-pamo 
+who: deisana 
+who?: deisana 
+female: mefne 
+woman: mefne 
+yellow: fe-yone 
+distant: de-nowoʔ 
+far: de-nowoʔ 
+dull: mafo 
+heavy: mafo 
+serious: mafo 
+close: raʔruse 
+near: raʔruse 
+ner: raʔruse 
+salt: maʔati 
+short: tibo 
+snake: mato 
+thin: mense 
+wind: maro 
+earthworm: memto 
+worm: memto 
+year: yaʔme 

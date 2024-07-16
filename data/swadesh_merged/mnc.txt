@@ -1,0 +1,334 @@
+all: eiten	gemu 
+every: eiten	gemu 
+ash: fulenggi 
+ashes: fulenggi 
+bark: notho 
+abdomen: hefeli 
+belly: hefeli 
+big: amba 
+bigness: amba 
+large: amba 
+bird: gasʼha 
+bite: saimbi 
+black: sahaliyan 
+blood: S3Ni	sENg~i	senggi 
+bone: giraNg~i	giraNi	giran	giranggi 
+breast: huhun	tuNg~En	tunggen	xuxun 
+breasts: huhun	tuNg~En	tunggen	xuxun 
+cloud: tugi 
+cold: šahūrun 
+come: gEnE	ji	jimbi 
+come from: gEnE	ji	jimbi 
+be dead: End~Ebu	ak3	buC3	bucembi 
+dead: End~Ebu	ak3	buC3	bucembi 
+die: End~Ebu	ak3	buC3	bucembi 
+dog: indahūn	indaxun	ind~ax3n	yEnd~ax3n 
+drink: omi	omimbi	ukiyE 
+dry: olhon 
+ear: San	šan 
+earth: na 
+ground: na 
+land: na 
+soil: na 
+eat: jembi 
+egg: umhan 
+eye: yasa 
+feather: dethe	funggala 
+fire: tua	tuwa 
+fish: 5maxa	nimaha	nimaxa 
+fly: deyembi 
+fly v.: deyembi 
+foot: bethe 
+full: jalu	jaluka	noho 
+give: bumbi 
+good: sain 
+green: niowanggiyan 
+hair: funiyehe 
+hand: gala 
+left hand: gala 
+right: gala 
+head: uju 
+hear: donji	donjimbi	donj~i 
+heart: niyaman 
+horn: uihe	uixE	wEixE 
+1 sg.: bi 
+I: bi 
+kill: wambi 
+knee: 5yak3n	niyak3n	tobgiya 
+be knowledgeable: sambi 
+know: sambi 
+leaf: abdaha	abdaxa 
+liver: fahūn	fax3n 
+long: golmin 
+head louse: bisi	cihe 
+louse: bisi	cihe 
+male: haha 
+man: bEyE	niyalma 
+many: geren	labdu 
+much: geren	labdu 
+multiple: geren	labdu 
+several: geren	labdu 
+moon: biya 
+hill: alin	dabagan 
+mountain: alin	dabagan 
+mouth: angga 
+name: g3bu	gEbu	gebu 
+title: g3bu	gEbu	gebu 
+neck: gen	monggon 
+new: eshun	iC3	iCE	ice 
+night: dEdun	dobori 
+nighttime: dEdun	dobori 
+nose: oforo 
+not: akū	waka 
+adulterous: 3mk3	3mk3n	EmkE	Emu	emu 
+one: 3mk3	3mk3n	EmkE	Emu	emu 
+single: 3mk3	3mk3n	EmkE	Emu	emu 
+that: tere 
+the: 3mk3	3mk3n	EmkE	Emu	emu 
+unprincipled: 3mk3	3mk3n	EmkE	Emu	emu 
+human: bEyE	niyalma 
+human being: bEyE	niyalma 
+person: bEyE	niyalma 
+rain: aga 
+rainy weather: aga 
+red: fulgiyan 
+path: doro	giya	jugun	jugūn 
+road: doro	giya	jugun	jugūn 
+route: doro	giya	jugun	jugūn 
+root: da	fulehe 
+round: muheliyen 
+sand: yonggan 
+say: gisurembi	hendumbi	sembi 
+see: sa	sabu	sabumbi	tuwa 
+seed: use 
+sit: tembi 
+hide: fEri	gun	suku	sukū 
+skin: fEri	gun	suku	sukū 
+sleep: amgambi	šaburambi 
+little: ajige 
+small: ajige 
+smallness: ajige 
+smoke: šanggiyan 
+star: usiha	usixa 
+rock: w3x3	wExE	wehe 
+stone: w3x3	wExE	wehe 
+sun: Sun	šun 
+swim: ebišembi	muke selbimbi 
+tail: uncehen 
+this: ere 
+2 sg: si 
+thou: si 
+you: si 
+tongue: ilENg~u	ilenggu 
+tooth: argan	w3ix3	wEixE	weihe 
+tree: hailan	mo	moo 
+grind: juw3	juwE	juwe	žuwe 
+two: juw3	juwE	juwe	žuwe 
+go: oksombi	yabumbi 
+walk: oksombi	yabumbi 
+hot: bulukan	halukan 
+warm: bulukan	halukan 
+water: muk3	mukE	muke 
+1 pl. inc.: bE	be	musE	muse 
+we: bE	be	musE	muse 
+we₁: bE	be	musE	muse 
+what: ai 
+white: šanyan 
+whiteness: šanyan 
+who: we 
+who?: we 
+female: hehe 
+woman: hehe 
+yellow: suwayan 
+distant: goro 
+far: goro 
+dull: ujen 
+heavy: ujen 
+serious: ujen 
+close: hamika	hanci 
+near: hamika	hanci 
+ner: hamika	hanci 
+salt: dabsun 
+short: fangkala	foholon 
+snake: meihe 
+thin: nekeliyen 
+wind: edun 
+earthworm: umiyaha 
+worm: umiyaha 
+year: aniya 
+3 sg.: i	tere 
+he: i	tere 
+she: i	tere 
+2 pl.: suwe 
+ye: suwe 
+you all: suwe 
+3 pl.: ce	tese 
+they: ce	tese 
+here: uba 
+there: tuba 
+where: aibide	yabade 
+where?: aibide	yabade 
+when: atanggi 
+when?: atanggi 
+how: absi	adarame 
+how?: absi	adarame 
+some: ememu	ududu 
+few: komso 
+other: gūwa 
+three: ilan 
+four: duin 
+five: sunja	sunža 
+broad: leli	letehun	onco 
+wide: leli	letehun	onco 
+wideness: leli	letehun	onco 
+fat: tarhūn 
+thick: jiramin 
+narrow: hafirahūn	isʼheliyen 
+child: jui 
+principal wife: sargan 
+wife: sargan 
+husband: eigen 
+his mother: eme	eniye 
+mother: eme	eniye 
+my mother: eme	eniye 
+father: ama 
+his father: ama 
+my father: ama 
+animal: aššara jaka	ergengge 
+forest: bujan	weji 
+woods: bujan	weji 
+branch: mukšan 
+stick: mukšan 
+fruit: tubihe 
+flower: ilha 
+grass: orho 
+cord: futa 
+rope: futa 
+flesh: yali 
+meat: yali 
+grease: tarhūn 
+claw: hitahūn 
+fingernail: hitahūn 
+nail: hitahūn 
+leg: bethe 
+arm: falanggū	gala 
+wing: asʼha 
+gut: duha 
+guts: duha 
+insides: duha 
+intestine: duha 
+intestines: duha 
+back: fisa 
+suck: gocimbi 
+spit: cifelembi 
+vomit: fuyakiyambi	jurumbi	oksimbi 
+blow: fulgiyembi 
+breath: ergen gaimbi 
+breathe: ergen gaimbi 
+laugh: injembi 
+laughter: injembi 
+cogitate: bodombi	gūnimbi 
+reflect: bodombi	gūnimbi 
+think: bodombi	gūnimbi 
+smell: wangkiyambi 
+sniff: wangkiyambi 
+afraid: gelembi	golombi	olhombi 
+be afraid: gelembi	golombi	olhombi 
+fear: gelembi	golombi	olhombi 
+fright: gelembi	golombi	olhombi 
+alive: banjimbi 
+be alive: banjimbi 
+life: banjimbi 
+live: banjimbi 
+living: banjimbi 
+fight: afambi 
+hunt: abalambi 
+beat: tantambi 
+hit: tantambi 
+strike: tantambi 
+cut: faitambi	furumbi 
+hack: faitambi	furumbi 
+cut open: delhebumbi	dendebumbi 
+split: delhebumbi	dendebumbi 
+pierce: gidalambi	huwesilembi	tokombi 
+stab: gidalambi	huwesilembi	tokombi 
+scratch: wasihalambi	wašambi 
+dig: fetembi 
+lie: dedumbi 
+lie down: dedumbi 
+tell lies: dedumbi 
+stand: ilimbi 
+turn: forgošombi 
+turn around: forgošombi 
+turn round: forgošombi 
+drop: tuhembi 
+fall: tuhembi 
+grasp: jafambi 
+hold: jafambi 
+hold in arm: jafambi 
+squeeze: hafitambi 
+wring: hafitambi 
+rub: monjimbi	monjirambi 
+wipe: fumbi	mabulambi 
+wash: obombi 
+wash clothes: obombi 
+pull: tatambi 
+push: anambi 
+shove: anambi 
+throw: maktambi	waliyabumbi 
+bind: huthumbi	hūwaitambi 
+fasten: huthumbi	hūwaitambi 
+tie: huthumbi	hūwaitambi 
+tie up: huthumbi	hūwaitambi 
+sew: ufimbi 
+count: tolombi 
+enumerate: tolombi 
+number: tolombi 
+tally: tolombi 
+sing: uculembi 
+have fun: efimbi 
+play: efimbi 
+float: dekdembi 
+flow: eyembi 
+freeze: gecembi	juhe jafambi 
+swell: aibimbi	dukdurembi 
+brook: bira	ula 
+river: bira	ula 
+stream: bira	ula 
+lake: noor	tenggin 
+ocean: mederi	namu 
+sea: mederi	namu 
+dust: buraki 
+fog: talman 
+sky: abka 
+snow: nimanggi 
+ice: juhe 
+blaze: deijimbi 
+burn: deijimbi 
+day: inenggi 
+daylight: inenggi 
+daytime: inenggi 
+old: fe	sakda 
+bad: ehe 
+evil: ehe 
+rot: ibtenehe	niyaha 
+rotten: ibtenehe	niyaha 
+dirty: langse	nantuhūn 
+filthy: langse	nantuhūn 
+soiled: langse	nantuhūn 
+straight: sijirhūn 
+sharp: dacun	šolonggo	šulihun 
+blunt: modo 
+smooth: bišun	necin 
+damp: derbehun	usihin 
+wet: derbehun	usihin 
+correct: acanaha	tob giyangga 
+right side: ici 
+left: hasʼhū 
+at: -de 
+in: dolo 
+inside: dolo 
+with: …i emgi	…i sasa 
+and: jai 
+if: aika	aikabade 
+because: adarame seci	…be dahame	…jalin	…turgunde 

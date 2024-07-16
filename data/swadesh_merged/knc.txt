@@ -1,0 +1,603 @@
+all: ŋâ(so) | Naso	ngâsô	sammá	sammáso	sámmá	ŋâ	ŋâso 
+all: sammá(so) | Naso	ngâsô	sammá	sammáso	sámmá	ŋâ	ŋâso 
+and: yé | -a	yé 
+animal: bayîm | bayîm	dábba	dábbà	kurúdi	lə̀mân 
+animal: dábba | bayîm	dábba	dábbà	kurúdi	lə̀mân 
+animal: kurúdi | bayîm	dábba	dábbà	kurúdi	lə̀mân 
+ankle: šîm ̌îbe 
+arm: bibí 
+arm: bibí čídíyabe 
+arm: bibí kəlâbe 
+arm: bibí woloram 
+arm: músko 
+arrow: kənyígə 
+ashes: bú | bug3	bú	búgə́ 
+back: káwu | ngáwò	ŋáwo 
+back: kóšé | ngáwò	ŋáwo 
+back: kuluwerám | ngáwò	ŋáwo 
+back: ŋáwo | ngáwò	ŋáwo 
+back: šíla ŋáwobe | ngáwò	ŋáwo 
+bad: díwi | díwi	kúttu	kúttù 
+bad: kúttu | díwi	kúttu	kúttù 
+bark: kaskaší | kaskaSi	kaskaší	kàskàshí 
+because: nanka | nanka	nàngàrò 
+belly: súró | timbi	timbí	tìmbí 
+belly: timbí | timbi	timbí	tìmbí 
+big: kúra | kura	kúra	kúrà 
+bird: ŋúdo | Nudo	ngúdò	ŋúdo 
+bite: gərə́kin | nand~o	nàndò	nándəkin	sənándin	timin ta	tímìn tà 
+bite: nánárŋin | nand~o	nàndò	nándəkin	sənándin	timin ta	tímìn tà 
+bite: nándəkin | nand~o	nàndò	nándəkin	sənándin	timin ta	tímìn tà 
+bite: sənándin | nand~o	nàndò	nándəkin	sənándin	timin ta	tímìn tà 
+bite: zərəgîn | nand~o	nàndò	nándəkin	sənándin	timin ta	tímìn tà 
+bitter: čîm 
+bitter: kúttu 
+black: sə́lə́m | s3l3m	sə́lə́m 
+blood: bû | bu	bû 
+blow: φuŋîn | fùtə́	ɸuŋîn 
+bone: šíla | Sila	shíllà	šíla 
+boy: táda 
+branch: yaktə́ram | də̀lám	yaktə́ram 
+breast: tə́gam | t3gam	tə́gam	tə́gàm 
+breast: tûlo | t3gam	tə́gam	tə́gàm 
+breathe: yinŋîn | yinŋîn	yìntə́ 
+breathe: yinté | yinŋîn	yìntə́ 
+brother: kərámi 
+brother: kərámi kwâŋâ 
+brother: yâana 
+brother: yaá ~ yayá 
+burn: gáŋin | mal	máltə́	sámbin	yámbukin 
+burn: sámbin | mal	máltə́	sámbin	yámbukin 
+burn: wárŋin | mal	máltə́	sámbin	yámbukin 
+burn: yámbukin | mal	máltə́	sámbin	yámbukin 
+butterfly: gawagawa 
+butterfly: máləm φátáφátá 
+calf: də́ŋəl 
+calf: šíyél 
+cheek: zəgáli 
+chest: ŋánǯi 
+child: dáptala | táda	tádà 
+child: kálawu | táda	tádà 
+child: kústa | táda	tádà 
+child: kútta | táda	tádà 
+child: táda | táda	tádà 
+chin: ŋumí 
+cloud: φówó | fowo	fówó	ɸówó 
+cold: ámusú | amusu	kákkù	kákua	ámusú	ámùsú 
+cold: kákua | amusu	kákkù	kákua	ámusú	ámùsú 
+come: ísəkin | iso	k3nd~io	ísò	ísəkin 
+correct: kálkál | kálkál	ŋə́la 
+correct: ŋə́la | kálkál	ŋə́la 
+count: isamŋîn | isamŋîn	komŋîn	kòmtə́ 
+count: komŋîn | isamŋîn	komŋîn	kòmtə́ 
+crocodile: kárám 
+cut: čiŋálŋin | kámtə́	kámŋin 
+cut: čoŋolŋîn | kámtə́	kámŋin 
+cut: kámŋin | kámtə́	kámŋin 
+cut: sálŋin | kámtə́	kámŋin 
+cut: súŋgin | kámtə́	kámŋin 
+cut: záŋin | kámtə́	kámŋin 
+dark: sələmtə 
+daughter: φéro 
+day: kǎusu | kǎusu	yîm 
+day: kâusu dáwu | kǎusu	yîm 
+day: kawú | kǎusu	yîm 
+day: kaǯírí | kǎusu	yîm 
+die: kə́rmu | no	nò	núkin 
+die: kúttu | no	nò	núkin 
+die: mówudu | no	nò	núkin 
+die: núkin | no	nò	núkin 
+die: núna | no	nò	núkin 
+dig: láŋin | láŋin	tàbtə́ 
+dig: rəmŋîn | láŋin	tàbtə́ 
+dirty: kadáwua | kadáwua	kàdágə̀ 
+dog: kə́ri | k3ri	kə́ri	kə́rì 
+drink: sâi | k3nja	njâ	sâi	yákin 
+drink: yákin | k3nja	njâ	sâi	yákin 
+dry: hárŋin | Namd3	ngámdə́	ŋâmdə 
+dry: ŋâmdə | Namd3	ngámdə́	ŋâmdə 
+dust: bə́rbər | bə́rbər	bə́rbə̀r 
+ear: sə́mo | s3mo	sə́mo	sə́mò 
+earth: čídí | Cidi	cídí	lárdə̀	čídí 
+earth: kattî | Cidi	cídí	lárdə̀	čídí 
+earth: lárdə | Cidi	cídí	lárdə̀	čídí 
+earth: sə́dí | Cidi	cídí	lárdə̀	čídí 
+eat: búkin | bu	bù	búkin	zə́win 
+eat: zə́win | bu	bù	búkin	zə́win 
+egg: káre | N3w3l	ngə́wə́l	ŋə́wúl 
+egg: kəntə́tə́ná | N3w3l	ngə́wə́l	ŋə́wúl 
+egg: ŋə́wúl | N3w3l	ngə́wə́l	ŋə́wúl 
+elbow: nǯúro 
+emu: kərgégə 
+eye: fə́rtə šîmbe | Sim	shîm	šîm 
+eye: kururám | Sim	shîm	šîm 
+eye: šîm | Sim	shîm	šîm 
+eye: φortó | Sim	shîm	šîm 
+face: φə́ska 
+fall: surîn | nzùrò	surîn	yurúkin 
+fall: yurúkin | nzùrò	surîn	yurúkin 
+far: číntə | cíndə̀	číntə 
+father: abbá | abbá	awá	babá	bawá	bàwá 
+father: babá | abbá	awá	babá	bawá	bàwá 
+father: (b)awá | abbá	awá	babá	bawá	bàwá 
+fat (n.): timbí 
+fear: ríŋin | rita	rìtà 
+fear: rita | rita	rìtà 
+feather: tíktígə | féfétò	kund~uli	kùndúlì	tíktígə 
+few: ganá | ganá	gàná 
+fight: gádəkin | gádəkin	lùwálà	zəgádin 
+fight: zəgádin | gádəkin	lùwálà	zəgádin 
+fingernail: kə́rgámi | fə́rgámì	kə́rgámi	ráwa	ráwamí	ɸə́rgámi 
+fingernail: ráwa(mí) | fə́rgámì	kə́rgámi	ráwa	ráwamí	ɸə́rgámi 
+fingernail: φə́rgámi | fə́rgámì	kə́rgámi	ráwa	ráwamí	ɸə́rgámi 
+finger: ŋulodó bəlân 
+finger: ŋulondó 
+fire: kánnú | kanu	kánnú 
+fire: kannu˗rám | kanu	kánnú 
+fire: kə́ri kánnúbe | kanu	kánnú 
+fire: φúko | kanu	kánnú 
+fire: φúwo(dí) | kanu	kánnú 
+fish: bə́nyi | b35i	bə́nyi	bə́nyì 
+five: úwu | ùgú	úwu 
+float: kámbéŋin | kámbétə́	kámbéŋin	mbátə́ 
+flower: kambîl | fə̀lé	kambîl	kàmbîl	kəmbəlî 
+flower: kəmbəlî | fə̀lé	kambîl	kàmbîl	kəmbəlî 
+flow: kasə́kin | kasə́kin	kàsò	səgašîn 
+flow: səgašîn | kasə́kin	kàsò	səgašîn 
+fly (n.): čigə 
+fly (v.): φarŋîn 
+fog: bantəgəné | bantəgəné	bàntə̀gə̀né 
+foot: gudugudú | Si	shî	šî 
+foot: šî | Si	shî	šî 
+foot: súróšîbe | Si	shî	šî 
+forehead: ŋûm 
+forest: karáː sə́lə́m | də̂r	karáː sə́lə́m	kàráà sə́lə́m 
+four: dégə́ | dégə́	dìyáù 
+freeze: kərŋîn | kərŋîn	kə̀rtə́ 
+fruit: nágə | táda	tádà kə̀skábè 
+fruit: táda | táda	tádà kə̀skábè 
+full: səmbəlîn | z3mb~3li	zə̀mbə̀lí 
+full: yimbəlíkin | z3mb~3li	zə̀mbə̀lí 
+girl: φéro 
+give: čîn | yio	yìò	yíkin	čîn 
+give: yíkin | yio	yìò	yíkin	čîn 
+good: ŋə́la | k3ji	kə̀jî	ŋə́la 
+grass: kaǯîm | kaǯîm	kàzêm 
+green: kəlî | k3li	kəlî	kə̀lî 
+guts: kalə̂m | kalə̂m	kàlə̂m	káre súróbe	súró 
+guts: káre súróbe | kalə̂m	kàlə̂m	káre súróbe	súró 
+guts: súró | kalə̂m	kàlə̂m	káre súróbe	súró 
+hair: bə́rámi | kund~uli	kundúli	kùndúlì 
+hair: kundúli | kund~uli	kundúli	kùndúlì 
+hair: kundúli φúwube | kund~uli	kundúli	kùndúlì 
+hair: tə́pši | kund~uli	kundúli	kùndúlì 
+hand: karádi | musko	músko	múskò 
+hand: kə̂m | musko	músko	múskò 
+hand: músko | musko	músko	múskò 
+hand: súró múskobe | musko	músko	múskò 
+hand: zəmbú | musko	músko	múskò 
+head: kəlâ | k3la	kəlâ	kə̀lâ 
+hear: faŋîn | fan	faŋîn	fàntə́ 
+heart: karə́gə | karwu	karə́gə	kárwù 
+heavy: kurwówu | kurwówu	kùrwówù 
+here: nâ ádən | nâ ádən	nâ ádə̀ 
+hit: bákčin | báktə́	báŋgin 
+hit: báŋgin | báktə́	báŋgin 
+hold: róŋin | gòtə̀	róŋin 
+hold: sə́tai | gòtə̀	róŋin 
+hold: tákin | gòtə̀	róŋin 
+hold: warŋin | gòtə̀	róŋin 
+hole: bəláː 
+hole: súwúli 
+horn: kaŋádi | kaNadi	kaŋádi	kàngádì 
+house: nǯîm 
+house: φáto 
+how: abígǎinyin | abígǎinyin	ndâ	àbígǎìnyìn 
+how: ndâ | abígǎinyin	ndâ	àbígǎìnyìn 
+hunt: baraŋin | baraŋin	bàrà 
+husband: kwâ | kwâ 
+ice: máφi | máfì	máɸi 
+jaw: ŋáido 
+kill: čeǯîn | nj~ezo	njèzò	yezə́kin	čeǯîn 
+kill: yezə́kin | nj~ezo	njèzò	yezə́kin	čeǯîn 
+knee: bulokbulokmáram | NurumNurum	ngùrúmngúrùm	ŋurumŋúrum 
+knee: búwo ŋurumŋúrumbe | NurumNurum	ngùrúmngúrùm	ŋurumŋúrum 
+knee: ŋurumŋúrum | NurumNurum	ngùrúmngúrùm	ŋurumŋúrum 
+know: noŋîn | no	noŋîn	nòtə́ 
+lake: kulúwu | kulúwu	kùlúwù	nǯî kúra 
+lake: nǯî kúra | kulúwu	kùlúwù	nǯî kúra 
+laugh: kasútu | kasútu	kàsúsù 
+leaf: kálú | kalu	kálú	lamb~u	lámbo	lámbù 
+leaf: lámbo | kalu	kálú	lamb~u	lámbo	lámbù 
+left: woφilá | woɸilá	wòìlá 
+leg: sî | shî	sî 
+lie: bə́nŋin | bo	boŋîn	bòtə́ | kattúwu-kámŋin	kárgí 
+lie: boŋîn | bo	boŋîn	bòtə́ | kattúwu-kámŋin	kárgí 
+lightning: fərel 
+lightning: rádə 
+lightning: wulak 
+lip: kâ čîbe 
+live: dəgákin | dəgákin	rôà 
+liver: dádámi | dádámi	dádámì	k3mat3n	kəmattán	kə̀máttə̀n 
+liver: kəmattán | dádámi	dádámì	k3mat3n	kəmattán	kə̀máttə̀n 
+live: rôa | dəgákin	rôà 
+long: dátəa | dat3a	dátə̀à	kuruwu	kurúwu	kùrúwù 
+long: kurúwu | dat3a	dátə̀à	kuruwu	kurúwu	kùrúwù 
+louse: kárí | k3N3s3	kə̀ngə́sə̀ 
+louse: kəŋə́sə | k3N3s3	kə̀ngə́sə̀ 
+man: bî | k-âm	kam	kâm 
+man: kâm | k-âm	kam	kâm 
+man: kôŋâ | k-âm	kam	kâm 
+man: kwâŋâ | k-âm	kam	kâm 
+many: kadá | N3wu	kadá	ngə́wù	tə́rə́m	ŋə́wu 
+many: ŋə́wu | N3wu	kadá	ngə́wù	tə́rə́m	ŋə́wu 
+many: tə́rə́m | N3wu	kadá	ngə́wù	tə́rə́m	ŋə́wu 
+meat: dâ | da	dâ 
+moon: kə́mbal | k3mb~al	k3nd~awu	kə̀ndáwù	kə́mbal	kə́mbàl 
+moon: kə́mbal dəríyáve | k3mb~al	k3nd~awu	kə̀ndáwù	kə́mbal	kə́mbàl 
+moon: kə́mbal kəntágə | k3mb~al	k3nd~awu	kə̀ndáwù	kə́mbal	kə́mbàl 
+morning: súwa 
+morning: φáǯer 
+mosquito: kantána 
+mother: yâ | yâ 
+mountain: kâu | k3ri	kau	kâu	kə̀rî 
+mountain: kərî | k3ri	kau	kâu	kə̀rî 
+mountain: tolî | k3ri	kau	kâu	kə̀rî 
+mouth: čî | Ci	cî	čî 
+name: sû | Cu	cû	sû 
+nape: daŋál 
+narrow: sársár | sársár	zə́gəsə ́	zə́kkà 
+narrow: zə́gəsə ́ | sársár	zə́gəsə ́	zə́kkà 
+navel: dawudí 
+near: karə́ŋən | karə́ŋən	kàrə̂n 
+neck: dáwú | dawu	dáwú 
+new: bəlîn | b3lin	bəlîn	bə̀lîn 
+new: ganá | b3lin	bəlîn	bə̀lîn 
+night: búné | b3n3	búné	bə́né 
+nose: súwúli kə́nzabe | k3nsa	kə́nza	kə́nzà 
+not: áʔa | ba	báwo	bâ	gə̀nyí 
+not: adabán | ba	báwo	bâ	gə̀nyí 
+not: bâ | ba	báwo	bâ	gə̀nyí 
+not: báwo | ba	báwo	bâ	gə̀nyí 
+old: čári 
+old: kəmúrso 
+one: fál | fal	fál	lásaḱ	lókkù	tilo	tiló	tìló 
+one: lásaḱ | fal	fál	lásaḱ	lókkù	tilo	tiló	tìló 
+one: tiló | fal	fál	lásaḱ	lókkù	tilo	tiló	tìló 
+other: gadé | gadé	gàdé 
+person: k˗âm | k-âm	kam	kâm 
+play: biskéŋin | biskéŋin	bìské 
+pull: gərásəŋin 
+pull: φínŋin 
+push: təmbálŋin | tə̀mbáltə́ 
+push: zúŋin | tə̀mbáltə́ 
+rain: nǯî | d3lag3	də̀lágə̀	nj~i samibe	njî sámìbè	nǯî 
+rat: ŋárə́ma 
+rat: ǯilwá 
+red: čim̂ | Cime	cìmé	kime	kimê	kìmé	čim̂ 
+red: kimê | Cime	cìmé	kime	kimê	kìmé	čim̂ 
+right: kəmburám | musko	músko	múskò | kəmburám	kə̀mbùrám 
+ripe: baφúna 
+river: kəmádúwu | bə́rə̀m	kəmádúwu	kə̀múdù	ngàdà 
+road: zuwumí | turwo 
+root: kárí | Si	fə́rtə̀	jar	jâr	kárí	zâr	ɸə́rtə 
+root: zâr | Si	fə́rtə̀	jar	jâr	kárí	zâr	ɸə́rtə 
+root: φə́rtə | Si	fə́rtə̀	jar	jâr	kárí	zâr	ɸə́rtə 
+rope: gərasán | jê	ǯê 
+rope: ǯê | jê	ǯê 
+rotten: mbəsəŋîn | mbəsəŋîn	mìstə́	nǯímŋin	ɸatîs 
+rotten: nǯímŋin | mbəsəŋîn	mìstə́	nǯímŋin	ɸatîs 
+rotten: φatîs | mbəsəŋîn	mìstə́	nǯímŋin	ɸatîs 
+round: korkorgáta | dukurkur	dúkúrkúr	korkorgáta	kw~ai mb~ok	kwáì mbók 
+rub: číŋin | cíntə́	kákáktə́	číŋin 
+salt: mándá | mándá 
+sand: čésa | césà	kattî	kàttî	čésa 
+sand: kattî | césà	kattî	kàttî	čésa 
+say: gulŋîn | gulta	gulŋîn	gùltə́	n3	nə̀	ŋin	šin | césà	kattî	kàttî	čésa 
+say: manaŋîn | gulta	gulŋîn	gùltə́	n3	nə̀	ŋin	šin | césà	kattî	kàttî	čésa 
+say: ŋin | gulta	gulŋîn	gùltə́	n3	nə̀	ŋin	šin | césà	kattî	kàttî	čésa 
+say: šin | gulta	gulŋîn	gùltə́	n3	nə̀	ŋin	šin | césà	kattî	kàttî	čésa 
+scratch: gámbukin | gàmbò	gámbukin	zəgámbin 
+scratch: kárámŋin | gàmbò	gámbukin	zəgámbin 
+scratch: zəgámbin | gàmbò	gámbukin	zəgámbin 
+sea: kazáa nǯîbe | báhàr	njî kúrà 
+sea: kulúwu | báhàr	njî kúrà 
+sea: nǯî bə́rəm | báhàr	njî kúrà 
+seed: kusúnyi | kusu5i	kusúnyi	kùsúnyì 
+see: rúkin | ro	rò	rúkin	súrin 
+see: súrin | ro	rò	rúkin	súrin 
+see: wúŋin | ro	rò	rúkin	súrin 
+sew: dutə́kin | dutə́kin	dùtò	sudutîn 
+sew: ndəraŋɪ̂n | dutə́kin	dùtò	sudutîn 
+sew: sudutîn | dutə́kin	dùtò	sudutîn 
+sharp: čónčón | cóncón	tímia	tímìà	čónčón	ɸaáta 
+sharp: tímia | cóncón	tímia	tímìà	čónčón	ɸaáta 
+sharp: φaáta | cóncón	tímia	tímìà	čónčón	ɸaáta 
+short: kaφúwu | kaɸúwu	kàfúwù	kòrí 
+short: korí | kaɸúwu	kàfúwù	kòrí 
+short: sâm | kaɸúwu	kàfúwù	kòrí 
+short: ǯâm | kaɸúwu	kàfúwù	kòrí 
+shoulder: kəmbə́látə 
+shoulder: ŋáwána 
+sing: kǎiya yéŋin | kàíyà yétə́	kǎiya yéŋin 
+sister: kərámi 
+sister: yaá 
+sister: yâana 
+sit: námŋin | nap	námŋin	náptə́ 
+skin: gáŋgin | karawi	karáwi	kattígə	kàráwì 
+skin: karáwi | karawi	karáwi	kattígə	kàráwì 
+skin: kattígə | karawi	karáwi	kattígə	kàráwì 
+skin: šilŋîn | karawi	karáwi	kattígə	kàráwì 
+sky: sámi | sàmî	sámi 
+sleep: lénŋin | let	lénŋin	léttə́ 
+small: ganá | gana	ganá	gàná	kori	kàbə́gə̀	kòrí 
+smell: bə́bə́nŋin | yìntà	yínŋin 
+smell: yínŋin | yìntà	yínŋin 
+smoke: kanǯê | kaNe	kanǯê	kàngê 
+smooth: sə́mə́l | súlsúl	sə́mə́l 
+smooth: súlsúl | súlsúl	sə́mə́l 
+snake: kádí | kádí 
+snow: máfi | máfi	máfì 
+snow: máφi | máfi	máfì 
+son: táda 
+sour: čamčam 
+spit: nǯúlúlu | njírə́ttə́	nǯíléle	tə̀fátə́	tə́fáŋin	tə́léle 
+spit: sasərâi | njírə́ttə́	nǯíléle	tə̀fátə́	tə́fáŋin	tə́léle 
+spit: tə́léle | njírə́ttə́	nǯíléle	tə̀fátə́	tə́fáŋin	tə́léle 
+spit: yasərákin | njírə́ttə́	nǯíléle	tə̀fátə́	tə́fáŋin	tə́léle 
+split: čeŋîn | fáltə́	čeŋîn	ɸálŋin 
+split: φálŋin | fáltə́	čeŋîn	ɸálŋin 
+squeeze: ranŋîn | ranŋîn	ràttə́ 
+stand: daŋîn | Cesa	daŋîn	dàtə́ 
+star: dalabə́lə́mma | Silowu	shílówù	šílléwu 
+star: šílléwu | Silowu	shílówù	šílléwu 
+star: šílléwu ŋawərea | Silowu	shílówù	šílléwu 
+stone: kâu | kau	kâu 
+straight: sák | cík	sák 
+suck: súsúnŋin | mə̀láttə́	súsúnŋin	yəmbò 
+suck: yimbúkin | mə̀láttə́	súsúnŋin	yəmbò 
+sun: kəŋâl | k3Nal	kəŋâl	kə́ngâl 
+sweet: kəmágən 
+swell: φúŋin 
+swim: kámbéŋin | kamb~e	kàmbétə́	kámbétə́	kámbéŋin	mb~a	mbáŋin 
+swim: mbáŋin | kamb~e	kàmbétə́	kámbétə́	kámbéŋin	mb~a	mbáŋin 
+tail: ŋawəre | Nawure	ngàwùrè	ŋawəre 
+take: góŋiin 
+take: ndalŋîn 
+take: zaləmŋîn 
+that: túdu | tudu	túdu	túdù | fal	fál	lásaḱ	lókkù	tilo	tiló	tìló 
+that: túnyi | tudu	túdu	túdù | fal	fál	lásaḱ	lókkù	tilo	tiló	tìló 
+there: nâ túdun | nâ túdun	nâ túdù 
+thick: gaǯak | gaǯak	gàjàjàk	gədədəp 
+thick: gədədəp | gaǯak	gàjàjàk	gədədəp 
+thick: tə́wər | gaǯak	gàjàjàk	gədədəp 
+thigh: dúnó 
+thin: hargáta | hargáta	njérérè	sérsér	tə́néne	tə́nénè	ɸelele 
+think: təmaŋîn | tàktə́	təmaŋîn 
+thin: tə́néne | hargáta	njérérè	sérsér	tə́néne	tə́nénè	ɸelele 
+thin: φelele | hargáta	njérérè	sérsér	tə́néne	tə́nénè	ɸelele 
+this: ádə | ad3	ádə	ádə̀ 
+this: ányi | ad3	ádə	ádə̀ 
+thorn: kalgî 
+three: yakkə́ | yakkə́	yaskə́	yàkkə́ 
+three: yaskə́ | yakkə́	yaskə́	yàkkə́ 
+throat: maləmrám 
+throat: ŋuwoltó 
+throw: gəmŋîn | gəmŋîn	gə̀btə́	tándəkin 
+throw: tándəkin | gəmŋîn	gə̀btə́	tándəkin 
+tie: nə́mŋin | kúrtútə́	nə́mŋin	ǯérəkin 
+tie: wíŋin | kúrtútə́	nə́mŋin	ǯérəkin 
+tie: ǯérəkin | kúrtútə́	nə́mŋin	ǯérəkin 
+today: kû 
+tomorrow: báli 
+tomorrow: waǯíya 
+tongue: tə́lam | t3lam	tə́lam	tə́làm 
+tooth: čamléléram | Seli	shélì	timi	tími	tímì 
+tooth: kúrwú | Seli	shélì	timi	tími	tímì 
+tooth: šéli | Seli	shélì	timi	tími	tímì 
+tooth: šéli kəmówunbe | Seli	shélì	timi	tími	tímì 
+tooth: tími | Seli	shélì	timi	tími	tímì 
+tree: kəská | k3ska 
+tree: ŋə́dəm | k3ska 
+turn: káláŋgin | káláktə́ 
+turn: kórkórŋin | káláktə́ 
+two: indí | indí	nd~i	ndí 
+vagina: bə́mbəm 
+vagina: kalân 
+vagina: kamurám 
+vagina: kəšiyanarám 
+vagina: φárgi 
+vagina: φerorám 
+vomit: káláŋgin | káláktə́	káláŋgin	kə̀móló fítə́	zoruŋîn	ɸíŋin 
+vomit: zoruŋîn | káláktə́	káláŋgin	kə̀móló fítə́	zoruŋîn	ɸíŋin 
+vomit: φíŋin | káláktə́	káláŋgin	kə̀móló fítə́	zoruŋîn	ɸíŋin 
+walk: kasə́kin | le	leŋîn	lètə́ 
+walk: leŋîn | le	leŋîn	lètə́ 
+warm: kánnúa | jə́mjə́m	zəmzəm 
+warm: kǎusu | jə́mjə́m	zəmzəm 
+warm: kǎusua | jə́mjə́m	zəmzəm 
+warm: zəmzəm | jə́mjə́m	zəmzəm 
+wash: túlŋin | túltə́ 
+water: báram | nj~i	njî	nǯî 
+water: nǯî | nj~i	njî	nǯî 
+weep: čírin 
+weep: šímálo 
+weep: yírəkin 
+wet: kəlî | kəlî	kə́lî 
+wet: kəlímbər | kəlî	kə́lî 
+what: abí | abi	abí	àbí 
+what: ˗bí | abi	abí	àbí 
+when: sa(m)bí | sabí	sambí	sàmbí 
+where: ndâ | ndárá	ndárân	ndâ 
+where: ndárá | ndárá	ndárân	ndâ 
+white: bûl | bul	bûl 
+who: ndú | nd~u	ndú 
+wide: φárák | fárán	ɸárák 
+wife: kámú | kámú 
+wind: kârwa | kasâm	kàrwâ	kârwa 
+wind: kasâm | kasâm	kàrwâ	kârwa 
+wing: φéφéto | féfétò	ɸéɸéto 
+wipe: činŋin | cìntà	činŋin 
+with: ˗alan 
+with: ˗n 
+woman: kámú | kamu	kámú 
+woman: kəšiyána | kamu	kámú 
+woman: kurkúri | kamu	kámú 
+wood: áar 
+wood: danál 
+wood: də́gəm 
+wood: kâ 
+wood: kəgə́ši 
+wood: kəská 
+wood: rerenó 
+worm: ku̪li | ku̪li	kùlí 
+year: kə́rwu | kə́rwu	saá	sàgá 
+year: saá | kə́rwu	saá	sàgá 
+yellow: kərnágə | Casa	càsá	kurnum	kúrnùm	kúrwum	kúrwùm	kərnágə 
+yellow: kúrwum | Casa	càsá	kurnum	kúrnùm	kúrwum	kúrwùm	kərnágə 
+yes: aâ 
+yesterday: bíska 
+every: Naso	ngâsô	sammá	sammáso	sámmá	ŋâ	ŋâso 
+ash: bug3	bú	búgə́ 
+abdomen: timbi	timbí	tìmbí 
+bigness: kura	kúra	kúrà 
+large: kura	kúra	kúrà 
+breasts: t3gam	tə́gam	tə́gàm 
+claw: f3rgan	fə́rgân 
+nail: f3rgan	fə́rgân 
+talon: f3rgan	fə́rgân 
+come from: iso	k3nd~io	ísò	ísəkin 
+be dead: no	nò	núkin 
+dead: no	nò	núkin 
+ground: Cidi	cídí	lárdə̀	čídí 
+land: Cidi	cídí	lárdə̀	čídí 
+soil: Cidi	cídí	lárdə̀	čídí 
+fat: kais3 
+fat n.: kais3 
+grease: kais3 
+lubricant: kais3 
+oil: kais3 
+fly: far	fàrtə́	ɸarŋîn 
+fly v.: far	fàrtə́	ɸarŋîn 
+left hand: musko	músko	múskò 
+1 sg.: wu	wú 
+I: wu	wú 
+be knowledgeable: no	noŋîn	nòtə́ 
+lie down: bo	boŋîn	bòtə́ 
+head louse: k3N3s3	kə̀ngə́sə̀ 
+male: kw~a	kwâ	kwângâ	kâm 
+much: N3wu	kadá	ngə́wù	tə́rə́m	ŋə́wu 
+multiple: N3wu	kadá	ngə́wù	tə́rə́m	ŋə́wu 
+several: N3wu	kadá	ngə́wù	tə́rə́m	ŋə́wu 
+flesh: da	dâ 
+hill: k3ri	kau	kâu	kə̀rî 
+title: Cu	cû	sû 
+nighttime: b3n3	búné	bə́né 
+adulterous: fal	fál	lásaḱ	lókkù	tilo	tiló	tìló 
+single: fal	fál	lásaḱ	lókkù	tilo	tiló	tìló 
+the: fal	fál	lásaḱ	lókkù	tilo	tiló	tìló 
+unprincipled: fal	fál	lásaḱ	lókkù	tilo	tiló	tìló 
+human: k-âm	kam	kâm 
+human being: k-âm	kam	kâm 
+rainy weather: d3lag3	də̀lágə̀	nj~i samibe	njî sámìbè	nǯî 
+path: turwo 
+route: turwo 
+hide: karawi	karáwi	kattígə	kàráwì 
+little: gana	ganá	gàná	kori	kàbə́gə̀	kòrí 
+smallness: gana	ganá	gàná	kori	kàbə́gə̀	kòrí 
+rock: kau	kâu 
+2 sg: 5i	nyí 
+thou: 5i	nyí 
+you: 5i	nyí 
+grind: indí	nd~i	ndí 
+go: le	leŋîn	lètə́ 
+hot: jə́mjə́m	zəmzəm 
+1 pl. inc.: and~i 
+we: and~i 
+we₁: and~i 
+whiteness: bul	bûl 
+who?: nd~u	ndú 
+female: kamu	kámú 
+distant: cíndə̀	číntə 
+dull: kurwówu	kùrwówù 
+serious: kurwówu	kùrwówù 
+close: karə́ŋən	kàrə̂n 
+ner: karə́ŋən	kàrə̂n 
+earthworm: ku̪li	kùlí 
+3 sg.: shí 
+he: shí 
+she: shí 
+2 pl.: nàndí 
+ye: nàndí 
+you all: nàndí 
+3 pl.: tàndí 
+they: tàndí 
+where?: ndárá	ndárân	ndâ 
+when?: sabí	sambí	sàmbí 
+how?: abígǎinyin	ndâ	àbígǎìnyìn 
+some: lágá 
+broad: fárán	ɸárák 
+wideness: fárán	ɸárák 
+principal wife: kámú 
+his mother: yâ 
+my mother: yâ 
+his father: abbá	awá	babá	bawá	bàwá 
+my father: abbá	awá	babá	bawá	bàwá 
+woods: də̂r	karáː sə́lə́m	kàráà sə́lə́m 
+stick: də̀lám	yaktə́ram 
+cord: jê	ǯê 
+gut: kalə̂m	kàlə̂m	káre súróbe	súró 
+insides: kalə̂m	kàlə̂m	káre súróbe	súró 
+intestine: kalə̂m	kàlə̂m	káre súróbe	súró 
+intestines: kalə̂m	kàlə̂m	káre súróbe	súró 
+breath: yinŋîn	yìntə́ 
+laughter: kasútu	kàsúsù 
+cogitate: tàktə́	təmaŋîn 
+reflect: tàktə́	təmaŋîn 
+sniff: yìntà	yínŋin 
+afraid: rita	rìtà 
+be afraid: rita	rìtà 
+fright: rita	rìtà 
+alive: dəgákin	rôà 
+be alive: dəgákin	rôà 
+life: dəgákin	rôà 
+living: dəgákin	rôà 
+beat: báktə́	báŋgin 
+strike: báktə́	báŋgin 
+hack: kámtə́	kámŋin 
+cut open: fáltə́	čeŋîn	ɸálŋin 
+pierce: zátə́	záŋin	čoŋolŋîn 
+stab: zátə́	záŋin	čoŋolŋîn 
+tell lies: kattúwu-kámŋin	kárgí 
+turn around: káláktə́ 
+turn round: káláktə́ 
+drop: nzùrò	surîn	yurúkin 
+grasp: gòtə̀	róŋin 
+hold in arm: gòtə̀	róŋin 
+wring: ranŋîn	ràttə́ 
+wash clothes: túltə́ 
+shove: tə̀mbáltə́ 
+bind: kúrtútə́	nə́mŋin	ǯérəkin 
+fasten: kúrtútə́	nə́mŋin	ǯérəkin 
+tie up: kúrtútə́	nə́mŋin	ǯérəkin 
+enumerate: isamŋîn	komŋîn	kòmtə́ 
+number: isamŋîn	komŋîn	kòmtə́ 
+tally: isamŋîn	komŋîn	kòmtə́ 
+have fun: biskéŋin	bìské 
+brook: bə́rə̀m	kəmádúwu	kə̀múdù	ngàdà 
+stream: bə́rə̀m	kəmádúwu	kə̀múdù	ngàdà 
+ocean: báhàr	njî kúrà 
+blaze: mal	máltə́	sámbin	yámbukin 
+daylight: kǎusu	yîm 
+daytime: kǎusu	yîm 
+evil: díwi	kúttu	kúttù 
+rot: mbəsəŋîn	mìstə́	nǯímŋin	ɸatîs 
+filthy: kadáwua	kàdágə̀ 
+soiled: kadáwua	kàdágə̀ 
+blunt: gòrdó	tímiba 
+damp: kəlî	kə́lî 
+right side: kəmburám	kə̀mbùrám 
+at: -làn 
+in: cúró 
+inside: cúró 
+if: yà 

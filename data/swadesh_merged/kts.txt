@@ -1,0 +1,143 @@
+all: kumun 
+every: kumun 
+ash: aipo	am kotep	amo birikop	birikop 
+ashes: aipo	am kotep	amo birikop	birikop 
+bark: ap kat	kat 
+abdomen: kambeyop 
+belly: kambeyop 
+big: tarep 
+bigness: tarep 
+large: tarep 
+bird: akumbi-on	on 
+bite: tomondon 
+black: miti kono	mitikpop	nitipoːp 
+blood: uam	umkan	yab	yam 
+bone: kondo	kond~o	kono 
+breast: itapa	mu	muk 
+breasts: itapa	mu	muk 
+cloud: wiːp	βip 
+cold: yuropoːp	yurup 
+come: mene	mene-	meneːn 
+come from: mene	mene-	meneːn 
+be dead: aim	ain	bopnon 
+dead: aim	ain	bopnon 
+die: aim	ain	bopnon 
+dog: anom	anon 
+drink: a5e	anyen	any~e	okkaminibkana	okkaminipkana 
+dry: etnonen	yeŋnoten 
+ear: kembe	kende	kendewa	kend~e	kene 
+earth: okat 
+ground: okat 
+land: okat 
+soil: okat 
+eat: anye-	anyen 
+egg: windi	wini 
+eye: ko5ob	kon-yop	konop	konyop	kony~ob	koːnyoptem 
+feather: on kimi 
+fire: amo	amoʔ	aβop 
+fish: on	ton	ʔon 
+foot: kondo 
+full: tarep	tiwan	totedon	yotede	yoʼotere 
+give: ka-	ko-	neːkarion 
+good: amun	tiwan 
+hair: ambigimo	ambo kimi	kotorok kimi 
+hand: ben	ben tabudu	ben tapuru	tiŋgi 
+left hand: ben	ben tabudu	ben tapuru	tiŋgi 
+right: ben	ben tabudu	ben tapuru	tiŋgi 
+head: kotorok	kotrok 
+hear: abada	amb~ede	amperen	apara 
+heart: embon 
+1 sg.: ne 
+I: ne 
+knee: kondo-tom	kondotom	kond~o tom	kond~otom 
+leaf: abo	ayekon	o	oʼo	oːt 
+liver: a5i	any~i 
+long: baŋgam	baŋkau	kitit 
+head louse: im 
+louse: im 
+male: kambatim	katuk 
+man: katuk 
+many: butaŋken	tumuŋ 
+much: butaŋken	tumuŋ 
+multiple: butaŋken	tumuŋ 
+several: butaŋken	tumuŋ 
+flesh: yom 
+meat: yom 
+moon: woʼot	woːt	βot 
+hill: am komb~on 
+mountain: am komb~on 
+mouth: moŋgot	moŋgoten	moŋgoːtem 
+name: a5iNk~o	anigo	aniko	aniŋgo	any~iNk~o 
+title: a5iNk~o	anigo	aniko	aniŋgo	any~iNk~o 
+neck: ketek	ketondo	mekono 
+new: kayumo	kiri	kudi	kuri 
+night: ambdom	amdom	amnom	mitik 
+nighttime: ambdom	amdom	amnom	mitik 
+nose: kidiN kond~o	kiniN kono	kiriN kondo	kiriŋ-kono	kitip	mutondo 
+adulterous: en	mim	mimmo	mimo	mimò	miomo 
+one: en	mim	mimmo	mimo	mimò	miomo 
+single: en	mim	mimmo	mimo	mimò	miomo 
+that: woŋko 
+the: en	mim	mimmo	mimo	mimò	miomo 
+unprincipled: en	mim	mimmo	mimo	mimò	miomo 
+human: katuk 
+human being: katuk 
+person: katuk 
+rain: am 
+rainy weather: am 
+red: yamu	yumu kono 
+path: kim 
+road: kim 
+route: kim 
+root: yumburum	yupurum 
+sand: kupuk	oɣep	yerep 
+say: tekme 
+see: teme	teme-	temen 
+seed: ayop 
+sit: tire	tire- 
+hide: abkad	kar	kat 
+skin: abkad	kar	kat 
+sleep: konyop pineŋge-	tunuk eŋgeʼe	äŋgemboron 
+little: benyap	beron 
+small: benyap	beron 
+smallness: benyap	beron 
+smoke: amip	amo-iʼip 
+star: atonkoh	mino	minot	minoʼo	nimtoŋ 
+rock: bot	mbot 
+stone: bot	mbot 
+sun: aton 
+tail: yimbi-kondo	yimbikondo	yipi kono 
+this: eyen 
+2 sg: eb	ep	kep	ko 
+thou: eb	ep	kep	ko 
+you: eb	ep	kep	ko 
+tongue: oN	oŋ 
+tooth: moNatem	niyi kondo	niyi kond~o	niŋgituk	niŋkambo 
+tree: ab	ap	at 
+grind: adob	arob	arop	aròb	erop	tve 
+two: adob	arob	arop	aròb	erop	tve 
+hot: nimin 
+warm: nimin 
+water: ok 
+1 pl. inc.: nub	nup 
+we: nub	nup 
+we₁: nub	nup 
+what: manan	mitewan 
+white: kukmo	kupni kono 
+whiteness: kukmo	kupni kono 
+who: kande	kewo 
+who?: kande	kewo 
+female: wonoŋ 
+woman: wonoŋ 
+yellow: kupni kono 
+distant: taman 
+far: taman 
+dull: kuːn 
+heavy: kuːn 
+serious: kuːn 
+close: tinan 
+near: tinan 
+ner: tinan 
+short: tuwan 
+snake: anyuk	nin 
+wind: up	uwarin 

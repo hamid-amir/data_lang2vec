@@ -1,0 +1,332 @@
+all: כל 
+every: כל 
+ash: אפר 
+ashes: אפר 
+bark: קלפה 
+abdomen: בטן 
+belly: בטן 
+big: גדול 
+bigness: גדול 
+large: גדול 
+bird: עוף	צפור 
+bite: נשך 
+black: שחורה	שחר 
+blood: דם 
+bone: עצם 
+breast: חזה 
+breasts: חזה 
+cloud: ענן 
+cold: קר 
+come: בא 
+come from: בא 
+be dead: מת 
+dead: מת 
+die: מת 
+dog: כלב 
+drink: שתה 
+dry: יבש 
+ear: אזן 
+earth: ארץ 
+ground: ארץ 
+land: ארץ 
+soil: ארץ 
+eat: אכל 
+egg: ביצה 
+eye: עין 
+feather: נוצה 
+fire: אש 
+fish: דג 
+fly: עף 
+fly v.: עף 
+foot: כף רגל 
+full: מלא 
+give: נתן 
+good: טוב 
+green: ירק 
+hair: שער 
+head: ראש 
+hear: שמע 
+heart: לב 
+horn: קרן 
+1 sg.: אני	אנכי 
+I: אני	אנכי 
+kill: הרג	קטל 
+knee: ברך 
+be knowledgeable: ידע 
+know: ידע 
+leaf: עלה 
+liver: כבד 
+head louse: כנה 
+louse: כנה 
+male: איש 
+man: אדם 
+many: הרבה 
+much: הרבה 
+multiple: הרבה 
+several: הרבה 
+moon: ירח 
+hill: הר 
+mountain: הר 
+mouth: פה 
+name: שם 
+title: שם 
+neck: צואר 
+new: חדש 
+night: לילה 
+nighttime: לילה 
+nose: אף 
+not: אל	לא 
+adulterous: א.י.נ.	אחד	אחת	אינס	אני	ה.א.פ.	חמישים 
+one: א.י.נ.	אחד	אחת	אינס	אני	ה.א.פ.	חמישים 
+single: א.י.נ.	אחד	אחת	אינס	אני	ה.א.פ.	חמישים 
+that: ההוא	ההיא 
+the: א.י.נ.	אחד	אחת	אינס	אני	ה.א.פ.	חמישים 
+unprincipled: א.י.נ.	אחד	אחת	אינס	אני	ה.א.פ.	חמישים 
+human: אדם 
+human being: אדם 
+person: אדם 
+rain: גשם	מטר 
+rainy weather: גשם	מטר 
+red: אדם	אדמה 
+path: דרך 
+road: דרך 
+route: דרך 
+root: שרש 
+round: עגל 
+sand: חול 
+say: אמר 
+see: ראה 
+seed: זרע 
+sit: ישב 
+hide: עור 
+skin: עור 
+sleep: ישן	נם 
+little: קטן 
+small: קטן 
+smallness: קטן 
+smoke: עשן 
+star: כוכב 
+rock: אבן 
+stone: אבן 
+sun: שמש 
+swim: שחה 
+tail: זנב 
+this: זאת	זה	זו 
+2 sg: את	אתה 
+thou: את	אתה 
+you: את	אתה 
+tongue: לשון 
+tooth: שן 
+tree: עץ 
+grind: ב.י.ס.	דו	דיאך	דיאקס	ירוה כפול	שנים	שתיים	שתים 
+two: ב.י.ס.	דו	דיאך	דיאקס	ירוה כפול	שנים	שתיים	שתים 
+go: הלך 
+walk: הלך 
+hot: חם 
+warm: חם 
+water: מים 
+1 pl. inc.: אנחנו 
+we: אנחנו 
+we₁: אנחנו 
+what: מה 
+white: לבן 
+whiteness: לבן 
+who: מי 
+who?: מי 
+female: אשה 
+woman: אשה 
+yellow: צהב 
+distant: רחוק 
+far: רחוק 
+dull: כבד 
+heavy: כבד 
+serious: כבד 
+close: קרוב 
+near: קרוב 
+ner: קרוב 
+salt: מלח 
+short: קצר 
+snake: נחש 
+thin: רזה 
+wind: רוח 
+earthworm: תולעת 
+worm: תולעת 
+year: שנה 
+3 sg.: הוא 
+he: הוא 
+she: הוא 
+2 pl.: אתם	אתן 
+ye: אתם	אתן 
+you all: אתם	אתן 
+3 pl.: הם	הן 
+they: הם	הן 
+here: הנה	פה 
+there: שם 
+where: איפה	אנה 
+where?: איפה	אנה 
+when: מתי 
+when?: מתי 
+how: איך 
+how?: איך 
+some: כמה 
+few: מעט 
+other: אחר	אחרות	אחרים	אחרת 
+three: דראי	שלוש	שלש	שלשה 
+four: אמפאט	ארבע	ארבעה	ארבעה X ארבעה	ארבעה מנועים	נקודה של ניקוי 
+five: חמש	חמשה	כינק	לימה	פאנף 
+broad: רחב 
+wide: רחב 
+wideness: רחב 
+fat: חלב 
+thick: עב 
+narrow: דק	צר 
+child: ילד 
+principal wife: אשה 
+wife: אשה 
+husband: בעל 
+his mother: אם 
+mother: אם 
+my mother: אם 
+father: אב 
+his father: אב 
+my father: אב 
+animal: חיה 
+forest: יער 
+woods: יער 
+branch: מקל 
+stick: מקל 
+fruit: פרי 
+flower: פרח 
+grass: דשא 
+cord: חבל 
+rope: חבל 
+flesh: בשר 
+meat: בשר 
+grease: חלב 
+claw: צפרן 
+fingernail: צפרן 
+nail: צפרן 
+leg: רגל 
+arm: יד 
+hand: יד 
+wing: כנף 
+gut: מעים 
+guts: מעים 
+insides: מעים 
+intestine: מעים 
+intestines: מעים 
+back: גב 
+suck: מצץ 
+spit: ירק 
+vomit: הקיא 
+blow: נפח 
+breath: נשם 
+breathe: נשם 
+laugh: צחק 
+laughter: צחק 
+cogitate: חשב 
+reflect: חשב 
+think: חשב 
+smell: הריח 
+sniff: הריח 
+afraid: ירא	פחד 
+be afraid: ירא	פחד 
+fear: ירא	פחד 
+fright: ירא	פחד 
+alive: חי 
+be alive: חי 
+life: חי 
+live: חי 
+living: חי 
+fight: רב 
+hunt: צד 
+beat: הכה 
+hit: הכה 
+strike: הכה 
+cut: חתך	כרת 
+hack: חתך	כרת 
+cut open: בקע	חלק	קרע 
+split: בקע	חלק	קרע 
+pierce: דקר 
+stab: דקר 
+scratch: שרט 
+dig: חפר 
+lie: שכב 
+lie down: שכב 
+tell lies: שכב 
+stand: עמד 
+turn: פנה 
+turn around: פנה 
+turn round: פנה 
+drop: נפל 
+fall: נפל 
+grasp: אחז 
+hold: אחז 
+hold in arm: אחז 
+squeeze: לחץ 
+wring: לחץ 
+rub: שפשף מרח 
+wipe: מחה נגב 
+wash: רחץ שטף 
+wash clothes: רחץ שטף 
+pull: משך 
+push: דחף 
+shove: דחף 
+throw: השליך	רמה 
+bind: קשר 
+fasten: קשר 
+tie: קשר 
+tie up: קשר 
+sew: תפר 
+count: מנה	ספר 
+enumerate: מנה	ספר 
+number: מנה	ספר 
+tally: מנה	ספר 
+sing: זמר	רן	שר 
+have fun: שחק 
+play: שחק 
+float: צף	שט 
+flow: זרם 
+freeze: קפא 
+swell: התנפח 
+brook: נהר 
+river: נהר 
+stream: נהר 
+lake: אגם 
+ocean: ים 
+sea: ים 
+dust: אבק 
+fog: ערפל 
+sky: שמים 
+snow: שלג 
+ice: קרח 
+blaze: בער 
+burn: בער 
+day: יום 
+daylight: יום 
+daytime: יום 
+old: ישן 
+bad: רע 
+evil: רע 
+rot: רקוב 
+rotten: רקוב 
+dirty: מלכלך 
+filthy: מלכלך 
+soiled: מלכלך 
+straight: ישר 
+sharp: חד 
+blunt: עמום 
+smooth: חלק 
+damp: רטב 
+wet: רטב 
+correct: נכון 
+right: ימין 
+right side: ימין 
+left: שמאל 
+at: ב־ 
+in: ב־ 
+inside: ב־ 
+with: את ב עם 
+and: ו־ 
+if: אם 
+because: בגלל	מפני 

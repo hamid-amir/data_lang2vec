@@ -65,8 +65,8 @@ def objective(trial, method: str):
         eta = trial.suggest_float('eta', 1e-8, 1.0, log=True)
         max_depth = trial.suggest_int('max_depth', 1, 15)
         min_child_weight = trial.suggest_int('min_child_weight', 1, 10)
-        subsample = trial.suggest_uniform('subsample', 0.1, 1.0)
-        colsample_bytree = trial.suggest_uniform('colsample_bytree', 0.1, 1.0)
+        subsample = trial.suggest_float('subsample', 0.1, 1.0)
+        colsample_bytree = trial.suggest_float('colsample_bytree', 0.1, 1.0)
         alpha = trial.suggest_float('alpha', 1e-8, 1.0, log=True)
         lambda_ = trial.suggest_float('lambda', 1e-8, 1.0, log=True)
         clf = XGBClassifier(
@@ -126,7 +126,7 @@ def hyperparameter_tuning(method: str, n_trails: int, save_dir: str = 'result'):
     results_json = json.dumps(results, indent=4)
 
     # Save JSON data to a file
-    with open(f'{save_dir}/optuna_study_results.json', 'w') as f:
+    with open(f'{save_dir}/optuna_study_results_{method}.json', 'w') as f:
         f.write(results_json)
 
     best_trial = study.best_trial

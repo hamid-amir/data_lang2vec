@@ -1,0 +1,133 @@
+all: die kindul 
+every: die kindul 
+ash: kokoh 
+ashes: kokoh 
+abdomen: a tinen 
+belly: a tinen 
+big: tamboh 
+bigness: tamboh 
+large: tamboh 
+bird: mon 
+bite: kalatie 
+black: maket 
+blood: a dalan	dala 
+bone: tio 
+breast: sus	yate	yaten 
+breasts: sus	yate	yaten 
+burn: so	zaktie 
+burn tr.: so	zaktie 
+cloud: lobalbal 
+cold: pong 
+come: yak 
+come from: yak 
+be dead: miat 
+dead: miat 
+die: miat 
+dog: pol 
+drink: yun 
+dry: mas 
+ear: atenan	tena 
+eat: yen 
+egg: kator 
+eye: a matan	mata 
+feather: lakuo 
+fire: ieh 
+fish: mazien 
+fly: lah 
+fly v.: lah 
+good: apet 
+green: makda 
+hair: alolokon 
+hand: a liman	lima	liman 
+left hand: a liman	lima	liman 
+right: a liman	lima	liman 
+head: akon 
+hear: lan 
+1 sg.: yo 
+I: yo 
+kill: sie 
+be knowledgeable: parketan 
+know: parketan 
+leaf: pekelolo 
+lie: wil 
+lie down: wil 
+liver: yet 
+long: kuon 
+head louse: ut 
+louse: ut 
+male: tamat 
+man: ziktun 
+moon: ulen 
+mouth: a nizuon 
+name: a iasian	iasia 
+title: a iasian	iasia 
+neck: a luan 
+new: or 
+night: lan 
+nighttime: lan 
+nose: a ision	isio 
+adulterous: a wo	amin	datol 
+one: a wo	amin	datol 
+single: a wo	amin	datol 
+that: imanok	imel 
+the: a wo	amin	datol 
+unprincipled: a wo	amin	datol 
+human: ziktun 
+human being: ziktun 
+person: ziktun 
+rain: wos 
+rainy weather: wos 
+red: dal 
+path: ne 
+road: ne 
+route: ne 
+root: boye 
+sand: kuen 
+say: weng 
+see: tiar 
+sit: kezte 
+hide: a kulien	kulie 
+skin: a kulien	kulie 
+sleep: melam	memelam 
+little: ialik 
+small: ialik 
+smallness: ialik 
+smoke: nos 
+star: kemkem 
+rock: ot 
+stone: ot 
+swim: susul 
+tail: bilkuon 
+this: ire 
+tongue: kalame	kalamen 
+tooth: tur	weniez 
+grind: a lakluo	alaklio 
+two: a lakluo	alaklio 
+go: ka 
+walk: ka 
+hot: soso 
+warm: soso 
+water: to 
+1 pl. inc.: da	datol	do	ge	getol	giet 
+we: da	datol	do	ge	getol	giet 
+we₁: da	datol	do	ge	getol	giet 
+what: sa 
+white: kapiz 
+whiteness: kapiz 
+who: se 
+who?: se 
+female: weien 
+woman: weien 
+yellow: gangane 
+distant: pang 
+far: pang 
+close: kulien 
+near: kulien 
+ner: kulien 
+salt: tes 
+short: pospos 
+snake: ze 
+wind: mol 
+earthworm: zeze 
+worm: zeze 
+year: lawir 

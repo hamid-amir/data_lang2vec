@@ -1,0 +1,320 @@
+all: -epp 
+every: -epp 
+ash: doːm 
+ashes: doːm 
+bark: xas 
+abdomen: biir	biːd	biːr 
+belly: biir	biːd	biːr 
+big: diːǯ	rég	réina	rəy 
+bigness: diːǯ	rég	réina	rəy 
+large: diːǯ	rég	réina	rəy 
+bird: picca	pičč	píːč	pɛ́ːrat 
+bite: maata	mätt 
+black: nyóːl	ñuul	ɲuːl 
+blood: d3m3	derat	dɛrɛt	dɛ́rat 
+bone: yax	yáx 
+breast: wíɛːn	wɛːn 
+breasts: wíɛːn	wɛːn 
+claw: wɛ 
+nail: wɛ 
+talon: wɛ 
+cloud: niːr	xiːn 
+cold: sedda	sɛdd	šɛ́da 
+come: 5ow	dikk	díkenaː-	ɲow	ɳəw 
+come from: 5ow	dikk	díkenaː-	ɲow	ɳəw 
+be dead: de	dɛː	dɛ́ː- 
+dead: de	dɛː	dɛ́ː- 
+die: de	dɛː	dɛ́ː- 
+dog: kái	káːči	xaT	xaj	xaǯ 
+drink: naan	nan	naːn	̞naːná 
+dry: wow	wóːu	wóːuna	wɔw 
+ear: nop3	noppa	nɔp	nɔpp	taban 
+earth: suːf 
+ground: suːf 
+land: suːf 
+soil: suːf 
+eat: edɛː	lekka	lɛkk 
+egg: nen	nɛn	nɛːn 
+eye: b3t	bet	bot	bət 
+feather: duŋg	duŋq 
+fire: safara	sɛ́faːra 
+fish: Tan	jën	čen	ǯən 
+fly: naːw 
+fly v.: naːw 
+foot: láxaːptaːnk	täŋk 
+full: fɛːs 
+give: ǯɔx 
+good: bax	baːx 
+green: werta	čoy 
+hair: karaw	kawar	kɔ́uar 
+hand: bíti-lɔ́hɔ	loxo	lɔxɔ 
+left hand: bíti-lɔ́hɔ	loxo	lɔxɔ 
+right: bíti-lɔ́hɔ	loxo	lɔxɔ 
+head: boopa	búɔb	bɔpp 
+hear: dega	degg	déːga- 
+heart: xol 
+horn: beǯǯen 
+1 sg.: -naːma	ma	ma-	man 
+I: -naːma	ma	ma-	man 
+kill: rɛy 
+knee: hoːm	om	oːm	óom 
+be knowledgeable: xam 
+know: xam 
+leaf: kɔːb	xɔb 
+lie: tədd	təral	tɛ́dɛː- 
+lie down: tədd	təral	tɛ́dɛː- 
+liver: rɛs 
+long: gudd 
+head louse: teen 
+louse: teen 
+male: goːr	góor 
+man: nit 
+many: bari	barɛ 
+much: bari	barɛ 
+multiple: bari	barɛ 
+several: bari	barɛ 
+flesh: soːx	suːx	yapp 
+meat: soːx	suːx	yapp 
+moon: weer	wɛːr 
+mouth: gemmiɲ	gémei 
+name: sant	sant~3	tur 
+title: sant	sant~3	tur 
+neck: baat	baːt	báːd	lɔːs 
+new: bɛːs	ndáu	yɛːs 
+night: guddi	gudi	gúdi 
+nighttime: guddi	gudi	gúdi 
+nose: bakan	baken	bakkan	bɔ́kan 
+not: úma 
+adulterous: ban5	benna	bɛnn	wíːan 
+one: ban5	benna	bɛnn	wíːan 
+single: ban5	benna	bɛnn	wíːan 
+that: kalɛ	lale	lele 
+the: ban5	benna	bɛnn	wíːan 
+unprincipled: ban5	benna	bɛnn	wíːan 
+human: nit 
+human being: nit 
+person: nit 
+rain: taw	tɔu 
+rainy weather: taw	tɔu 
+red: xonxa	xɔnq 
+path: yon 
+road: yon 
+route: yon 
+root: rɛːn 
+round: mərgəlu 
+sand: suuf	suːf	̞sálɛi 
+say: ni	nɛ	wax 
+see: gis	čés-	ǯis 
+seed: fɛpp 
+sit: dəǯ	toog	tɔːg	čɛkéː- 
+hide: dar	der	dɛr	sɛdíːd 
+skin: dar	der	dɛr	sɛdíːd 
+sleep: nɛlaw	tɛ́de-	yändoːr 
+little: ndaw	toːd	tuːti	tóːdna 
+small: ndaw	toːd	tuːti	tóːdna 
+smallness: ndaw	toːd	tuːti	tóːdna 
+smoke: saxar	saxaːr	sáxat 
+star: biddeːw	biddiːw 
+rock: doT	dóei	dɔǯ	xar	xeer	xɛːr 
+stone: doT	dóei	dɔǯ	xar	xeer	xɛːr 
+sun: Tent~3	naaj	čágat	ǯant 
+swim: feey	feːy 
+tail: gɛːn	laːr 
+this: kilɛ	lii 
+2 sg: nga	ya	yow	ŋga- 
+thou: nga	ya	yow	ŋga- 
+you: nga	ya	yow	ŋga- 
+tongue: laameñ	lami5	láːmei	lämmiɲ 
+tooth: b35	bei	boñ	bəɲ 
+tree: garab	garap 
+grind: 5ar	yaːr	ñaar	ɲaːr 
+two: 5ar	yaːr	ñaar	ɲaːr 
+go: dem	dɔx 
+walk: dem	dɔx 
+hot: täŋ 
+warm: täŋ 
+water: ndox	nd~ox	ndɔx	ndɔ́x 
+1 pl. inc.: nanu	nu	nun 
+we: nanu	nu	nun 
+we₁: nanu	nu	nun 
+what: lan	lau	li	lu 
+white: weex	wíːax	wɛːx 
+whiteness: weex	wíːax	wɛːx 
+who: kan	ki	ku 
+who?: kan	ki	ku 
+female: čígeːn	ǯigeːn 
+woman: čígeːn	ǯigeːn 
+yellow: puːr	sɔːn 
+distant: sori	sɔri	sɔrɛ 
+far: sori	sɔri	sɔrɛ 
+dull: diːs 
+heavy: diːs 
+serious: diːs 
+close: jege	ǯigɛ	ǯɛgɛ 
+near: jege	ǯigɛ	ǯɛgɛ 
+ner: jege	ǯigɛ	ǯɛgɛ 
+salt: sáxumaːd	xorom	xɔrɔm 
+short: gätt 
+snake: jaan	saa	čaːn	ǯaːn 
+thin: sɛw	tuːti 
+wind: ngɛlaw 
+earthworm: saan	sax	saːn 
+worm: saan	sax	saːn 
+year: at 
+3 sg.: mu 
+he: mu 
+she: mu 
+2 pl.: ngeen	yeːn	ŋgɛːn- 
+ye: ngeen	yeːn	ŋgɛːn- 
+you all: ngeen	yeːn	ŋgɛːn- 
+3 pl.: ñu	ɲu-	ɲɔːn 
+they: ñu	ɲu-	ɲɔːn 
+here: filɛ	fiː 
+there: fa	falɛ	fɛː 
+where: ana	fa	fan 
+where?: ana	fa	fan 
+when: kaɲ 
+when?: kaɲ 
+how: na	naka	nan 
+how?: na	naka	nan 
+few: tuːti 
+other: -ɛnɛːn 
+three: yatt	yaːt	ñetta	ɲɛtt 
+four: yárint	ñenent	ɲɛːnt 
+five: juróom	ǯuŕːm	ǯúdoːm 
+broad: yaː 
+wide: yaː 
+wideness: yaː 
+fat: diw 
+thick: dəll	tal 
+narrow: sɛw	xat 
+child: gunɛ	gɔnɛ	xale	xalɛ 
+principal wife: ǯabar	ǯibar 
+wife: ǯabar	ǯibar 
+husband: ǯəkkər 
+his mother: ndéi	ndɛy	yaay	yaːy 
+mother: ndéi	ndɛy	yaay	yaːy 
+my mother: ndéi	ndɛy	yaay	yaːy 
+father: baay	bai	baːy	päppa 
+his father: baay	bai	baːy	päppa 
+my father: baay	bai	baːy	päppa 
+animal: mala	yáp 
+forest: gɔtt	háːla	mändiŋ 
+woods: gɔtt	háːla	mändiŋ 
+branch: bänqaːs	čar 
+stick: bänqaːs	čar 
+fruit: dɔːm 
+flower: toːr-toːr 
+grass: nax	ɲax 
+cord: buːm 
+rope: buːm 
+grease: diw 
+fingernail: wíːe	wɛ 
+leg: tanka	táːŋk	täŋk	yɛːl 
+arm: loxo 
+wing: laːf 
+gut: butit	butiːt 
+guts: butit	butiːt 
+insides: butit	butiːt 
+intestine: butit	butiːt 
+intestines: butit	butiːt 
+back: gannaːw	ginnaw 
+suck: mačč 
+spit: tifli	tufli	təfli 
+vomit: tiːsu	wačču	woccu 
+blow: əf 
+breath: nɔkki	nɔpɛ́lɛku-	nɔyyi 
+breathe: nɔkki	nɔpɛ́lɛku-	nɔyyi 
+laugh: rɛː	rɛ́ː- 
+laughter: rɛː	rɛ́ː- 
+cogitate: dɛfɛ	fɔːg	xalaat	xalaːt 
+reflect: dɛfɛ	fɔːg	xalaat	xalaːt 
+think: dɛfɛ	fɔːg	xalaat	xalaːt 
+smell: foːn	yəg 
+sniff: foːn	yəg 
+afraid: ragal 
+be afraid: ragal 
+fear: ragal 
+fright: ragal 
+alive: dund 
+be alive: dund 
+life: dund 
+live: dund 
+living: dund 
+fight: xɛːx 
+hunt: róbba	rəbb 
+beat: doːr	täpp	wäkk 
+hit: doːr	täpp	wäkk 
+strike: doːr	täpp	wäkk 
+cut: dagg	dog 
+hack: dagg	dog 
+cut open: xar 
+split: xar 
+pierce: ǯam 
+stab: ǯam 
+scratch: xuri	xɔsi 
+dig: gas 
+tell lies: fɛn	nar	taanu	tedda 
+stand: taxaw 
+drop: dal	daːnu	dáːnu-	rɔt 
+fall: dal	daːnu	dáːnu-	rɔt 
+grasp: amɛ	teyɛ	yɔr	ǯäpp 
+hold: amɛ	teyɛ	yɔr	ǯäpp 
+hold in arm: amɛ	teyɛ	yɔr	ǯäpp 
+squeeze: daŋ	tar 
+wring: daŋ	tar 
+rub: bomb	ragg 
+wipe: fompa	fɔmp 
+wash: raxas 
+wash clothes: raxas 
+push: nalu	puːs	ǯaɲ 
+shove: nalu	puːs	ǯaɲ 
+throw: sänni	xalab 
+bind: fas	takk	yɛːw 
+fasten: fas	takk	yɛːw 
+tie: fas	takk	yɛːw 
+tie up: fas	takk	yɛːw 
+sew: ɲaw 
+count: seːfər	waɲɲ 
+enumerate: seːfər	waɲɲ 
+number: seːfər	waɲɲ 
+tally: seːfər	waɲɲ 
+sing: wɔy 
+have fun: fo	fɔ 
+play: fo	fɔ 
+float: təmb 
+flow: diːg	siːt	suːx	sɛn	xɛlli 
+brook: dɛx 
+river: dɛx 
+stream: dɛx 
+ocean: geej 
+sea: geej 
+dust: pənd	pəndax 
+fog: lay	läyyi 
+sky: asamaːn	haːčánna 
+ice: galaːs 
+blaze: lakk	täkk 
+burn: lakk	täkk 
+day: bes	bóčag 
+daylight: bes	bóčag 
+daytime: bes	bóčag 
+bad: bɔn	hai 
+evil: bɔn	hai 
+rot: nəb 
+rotten: nəb 
+dirty: saltɛ	tilim 
+filthy: saltɛ	tilim 
+soiled: saltɛ	tilim 
+straight: čúbna 
+sharp: dagg 
+blunt: day 
+damp: tooy	toːy	tɔːina	tɔ́ːi 
+wet: tooy	toːy	tɔːina	tɔ́ːi 
+correct: tɛmbɛ	ǯub 
+right side: ndɛǯoːr 
+left: čammɔːɲ 
+at: ci	si 
+in: ča biːr	či 
+inside: ča biːr	či 
+and: ak 
+because: ndaxtɛ 

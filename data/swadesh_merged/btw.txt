@@ -1,0 +1,266 @@
+all: hurot	tanan 
+every: hurot	tanan 
+ash: abo 
+ashes: abo 
+abdomen: tian 
+belly: tian 
+big: aslag	dakwa 
+bigness: aslag	dakwa 
+large: aslag	dakwa 
+bird: langgam	mamang 
+bite: asngab	banga 
+black: itum 
+blood: dugo 
+bone: bukog 
+breast: dughan	dugh~an	duxan 
+breasts: dughan	dugh~an	duxan 
+burn: sunog 
+burn tr.: sunog 
+cloud: panganod 
+cold: mahagkot 
+come: kansani 
+come from: kansani 
+be dead: patay 
+dead: patay 
+die: patay 
+dog: gadya	gady~a	ido 
+drink: moinum 
+dry: patayhon	tahay 
+ear: taliNa	talinga 
+eat: mokaon 
+egg: itlog 
+eye: mata 
+feather: balahibo 
+fire: kayo 
+fish: isda 
+fly: molupad 
+fly v.: molupad 
+good: madiaw 
+green: lunhaw 
+hair: buhok 
+hand: alima 
+left hand: alima 
+right: alima 
+head: oo 
+hear: moduNog	modungog 
+1 sg.: ako 
+I: ako 
+kill: mopatay 
+be knowledgeable: kasayud 
+know: kasayud 
+leaf: dahon 
+lie: hotlok 
+lie down: hotlok 
+liver: atay 
+long: mahaba 
+head louse: kuto	kuyamad 
+louse: kuto	kuyamad 
+male: usog 
+man: tao 
+moon: bulan	buwan 
+mouth: baba 
+name: Nan	ngan 
+title: Nan	ngan 
+neck: liug 
+new: bag-o	bago 
+night: dum	duum 
+nighttime: dum	duum 
+nose: iloN	ilong 
+adulterous: isa	qisá- 
+one: isa	qisá- 
+single: isa	qisá- 
+that: iyan 
+the: isa	qisá- 
+unprincipled: isa	qisá- 
+human: tao 
+human being: tao 
+person: tao 
+rain: uwan 
+rainy weather: uwan 
+red: puwa 
+path: daan	dan 
+road: daan	dan 
+route: daan	dan 
+root: gamot 
+sand: buhangin 
+say: laong 
+see: makita 
+sit: mo-ingkod 
+hide: panit 
+skin: panit 
+sleep: mokatuug 
+little: asido	mayutok	piyotay 
+small: asido	mayutok	piyotay 
+smallness: asido	mayutok	piyotay 
+smoke: ano-oo	aso 
+star: bituon 
+rock: bato 
+stone: bato 
+swim: molangoy 
+tail: ikog 
+this: ini 
+2 sg: ikaw 
+thou: ikaw 
+you: ikaw 
+tongue: dila 
+tooth: Nipon	ngipon 
+grind: duwa	duwá- 
+two: duwa	duwá- 
+go: mopanaw 
+walk: mopanaw 
+hot: anok	init	paso 
+warm: anok	init	paso 
+water: tubig 
+1 pl. inc.: kami	kita 
+we: kami	kita 
+we₁: kami	kita 
+what: ngan	ono 
+white: puti 
+whiteness: puti 
+who: sin-o 
+who?: sin-o 
+female: daga 
+woman: daga 
+yellow: daag 
+distant: hayo	lagyo	layo 
+far: hayo	lagyo	layo 
+dull: mabug-at 
+heavy: mabug-at 
+serious: mabug-at 
+close: daig	duol 
+near: daig	duol 
+ner: daig	duol 
+salt: asin 
+short: dakadaka	hayupo 
+snake: haas 
+thin: manipis 
+wind: hangin 
+earthworm: bitok	ood	ulod 
+worm: bitok	ood	ulod 
+year: tuig 
+2 pl.: kamo 
+ye: kamo 
+you all: kamo 
+3 pl.: nila	sila 
+they: nila	sila 
+where: diin 
+where?: diin 
+when: gun-o	kun-o 
+when?: gun-o	kun-o 
+how: inono	onhon 
+how?: inono	onhon 
+other: iban	uban 
+three: too	tulo	tuú- 
+four: qupát	upat 
+five: lima	limá- 
+broad: hawag	lakbang 
+wide: hawag	lakbang 
+wideness: hawag	lakbang 
+fat: supang 
+thick: baga 
+narrow: pi-ot	si-ot	sim-oo 
+principal wife: asawa 
+wife: asawa 
+husband: banah 
+his mother: inaa 
+mother: inaa 
+my mother: inaa 
+father: amaa 
+his father: amaa 
+my father: amaa 
+forest: gimba	guwangan 
+woods: gimba	guwangan 
+branch: sanga 
+stick: sanga 
+fruit: bunga 
+flower: bowak 
+grass: bagnot	sagbot 
+cord: lubid 
+rope: lubid 
+flesh: bawoy	buog 
+meat: bawoy	buog 
+grease: supang 
+wing: pagikpik 
+gut: tinai 
+guts: tinai 
+insides: tinai 
+intestine: tinai 
+intestines: tinai 
+back: likod 
+suck: supsop 
+spit: molowa 
+vomit: suka 
+blow: hoyop 
+breath: hungahok 
+breathe: hungahok 
+laugh: katawa 
+laughter: katawa 
+cogitate: maghonahona 
+reflect: maghonahona 
+think: maghonahona 
+smell: simhot 
+sniff: simhot 
+afraid: mabuga 
+be afraid: mabuga 
+fear: mabuga 
+fright: mabuga 
+alive: buhi 
+be alive: buhi 
+life: buhi 
+live: buhi 
+living: buhi 
+hunt: panganop 
+beat: dukdok	lapu 
+hit: dukdok	lapu 
+strike: dukdok	lapu 
+cut: higbat	utod 
+hack: higbat	utod 
+cut open: sipak 
+split: sipak 
+pierce: dogso	dogyat 
+stab: dogso	dogyat 
+scratch: gawot	kamas 
+dig: kadkad	lukad 
+stand: mo-tindog 
+drop: mahuog 
+fall: mahuog 
+grasp: kumkumon 
+hold: kumkumon 
+hold in arm: kumkumon 
+squeeze: piga	puga 
+wring: piga	puga 
+throw: etsa	tangas 
+bind: hikut 
+fasten: hikut 
+tie: hikut 
+tie up: hikut 
+sew: sursi	tahi 
+count: ihap 
+enumerate: ihap 
+number: ihap 
+tally: ihap 
+flow: agus agus	sug 
+lake: lam-anaw	lanaw 
+ocean: dagat 
+sea: dagat 
+dust: agbon 
+fog: gabon	hamog 
+sky: langit 
+bad: kaat	laat	maat 
+evil: kaat	laat	maat 
+rot: lapat	lata	tata 
+rotten: lapat	lata	tata 
+dirty: mangili 
+filthy: mangili 
+soiled: mangili 
+sharp: maha-it 
+blunt: ngawod 
+damp: basa 
+wet: basa 
+right side: tuo 
+left: kawaa 
+at: yadto 
+in: suod 
+inside: suod 
+and: kaamo	katsaong	patsaong 
+if: anda da	kon 

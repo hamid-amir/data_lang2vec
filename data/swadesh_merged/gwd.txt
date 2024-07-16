@@ -1,0 +1,635 @@
+all: gaʔaza | gaʔaza	kaʕasa	káʔasa	mulo 
+all: huːkaː˗ | gaʔaza	kaʕasa	káʔasa	mulo 
+all: kaʕasa | gaʔaza	kaʕasa	káʔasa	mulo 
+all: muːme | gaʔaza	kaʕasa	káʔasa	mulo 
+animal: ʕáːk˗e | áːke	ʔaake	ʕáːk-e 
+arm: ɦark˗ó 
+arrow: laːx˗e 
+ashes: bɛrko | bɛrko	kasʕaɗ-	tarʕo 
+ashes: kasʕaɗ˗ | bɛrko	kasʕaɗ-	tarʕo 
+ashes: tɛrʕo | bɛrko	kasʕaɗ-	tarʕo 
+ashes: tɛrʕ˗o | bɛrko	kasʕaɗ-	tarʕo 
+bad: maka | maka	makakko	máka 
+bark: qaq˗ | qoffol-o	qoffolo	qooqitte	qófolto	surre 
+bark: qoffol˗o | qoffol-o	qoffolo	qooqitte	qófolto	surre 
+bark: surre | qoffol-o	qoffolo	qooqitte	qófolto	surre 
+belly: karaʔ˗ | karʔɨto	karʕ-eččo	karʕeččo	karʕitto	karʕétto 
+belly: karaʔiče | karʔɨto	karʕ-eččo	karʕeččo	karʕitto	karʕétto 
+belly: karʕ˗eččo | karʔɨto	karʕ-eččo	karʕeččo	karʕitto	karʕétto 
+belly: karʔɨto | karʔɨto	karʕ-eččo	karʕeččo	karʕitto	karʕétto 
+big: ˗daʔama | -daʔama	ɗamma	ɗámma 
+big: dɛma | -daʔama	ɗamma	ɗámma 
+big: dɛmʔa | -daʔama	ɗamma	ɗámma 
+bird: aːgič | aːgite	áːke	áːkičče	ʔaake	ʕáːk-e 
+bird: aːgiče | aːgite	áːke	áːkičče	ʔaake	ʕáːk-e 
+bird: aːgite | aːgite	áːke	áːkičče	ʔaake	ʕáːk-e 
+bird: ʕáːk˗e | aːgite	áːke	áːkičče	ʔaake	ʕáːk-e 
+bite: a\qay | qaw	qaw-	qawai	qaww- 
+bite: qawai | qaw	qaw-	qawai	qaww- 
+bite: ʔuːqaw˗i | qaw	qaw-	qawai	qaww- 
+black: ˗gumʔ | kuma	kumma 
+black: ˗kuma | kuma	kumma 
+black: kumma | kuma	kumma 
+blood: č\eh˗te | ceeqte	k"ek"ite	kʔeqte	kʼekʼite	čʔaxté 
+blood: č\ehɪte | ceeqte	k"ek"ite	kʔeqte	kʼekʼite	čʔaxté 
+blood: k\ek\ite | ceeqte	k"ek"ite	kʔeqte	kʼekʼite	čʔaxté 
+blow: ururw˗ | ururw-	uʔuf-	ʔuffi 
+blow: uʔuf˗ | ururw-	uʔuf-	ʔuffi 
+bone: maqqe | mEx3de	maq-te	maqqe	maqte	meqte	mɛːɣɨde 
+bone: maq˗te | mEx3de	maq-te	maqqe	maqte	meqte	mɛːɣɨde 
+bone: mɛːɣɨde | mEx3de	maq-te	maqqe	maqte	meqte	mɛːɣɨde 
+bone: mɛq˗ate | mEx3de	maq-te	maqqe	maqte	meqte	mɛːɣɨde 
+bone: mik\ɛče | mEx3de	maq-te	maqqe	maqte	meqte	mɛːɣɨde 
+boy: kónʕ˗o 
+breast: adɛngo | adEngo	adämə	adɛngo	ʕaɗunko	ʕaɗúnko 
+breast: ʕaɗúnko | adEngo	adämə	adɛngo	ʕaɗunko	ʕaɗúnko 
+breast: æduːn˗ko | adEngo	adämə	adɛngo	ʕaɗunko	ʕaɗúnko 
+breast: ami\čoko | adEngo	adämə	adɛngo	ʕaɗunko	ʕaɗúnko 
+breathe: nassaɗ˗ | nassaɗ	nassaɗ- 
+brother: alaw˗xo 
+brother: ʕas˗ó 
+brother: qarun˗kó 
+burn: adɪliy | šaʔ	ɗil- 
+burn: ɗil˗ | šaʔ	ɗil- 
+burn: d\ili | šaʔ	ɗil- 
+burn: ˗dɨl˗ | šaʔ	ɗil- 
+cheek: aɗɗ˗e 
+chest: kerp˗e 
+chin: kaws˗o 
+claw: goʔe | goʔe	qoy-akko	qoyakko	ɠuʕakko | sonqe 
+claw: goʔɛ | goʔe	qoy-akko	qoyakko	ɠuʕakko | sonqe 
+claw: qɔʔɛ | goʔe	qoy-akko	qoyakko	ɠuʕakko | sonqe 
+claw: qoy˗akko | goʔe	qoy-akko	qoyakko	ɠuʕakko | sonqe 
+cloud: kúrpannité | kúrpannité	urrɛte	ʔurratte 
+cloud: urrɛče | kúrpannité	urrɛte	ʔurratte 
+cloud: urrɛč˗e | kúrpannité	urrɛte	ʔurratte 
+cloud: urrɛte | kúrpannité	urrɛte	ʔurratte 
+cold: o\šɛmgu | ošoːna	oʼšɛmgu	šalal 
+cold: ošoːna | ošoːna	oʼšɛmgu	šalal 
+cold: ošɔn˗ko | ošoːna	oʼšɛmgu	šalal 
+cold: šɛlɛlo | ošoːna	oʼšɛmgu	šalal 
+come: a\haːfi | ogayi	okay-	okay- xaf-	xaf-	ʔokaay 
+come: ogayi | ogayi	okay-	okay- xaf-	xaf-	ʔokaay 
+come: ˗ʔoka˗ | ogayi	okay-	okay- xaf-	xaf-	ʔokaay 
+come: okay˗ xaf˗ | ogayi	okay-	okay- xaf-	xaf-	ʔokaay 
+count: ɗix˗ | ɗiha	ɗix- 
+cut: ɗoč˗ | goɦ-	qaq	qoħ- 
+cut: goɦ˗ | goɦ-	qaq	qoħ- 
+daughter: šettéː 
+die: aːfɛri | fEri	far	far-	fɛri 
+die: ˗fɛr˗ | fEri	far	far-	fɛri 
+die: fɛri | fEri	far	far-	fɛri 
+dig: may˗ | qot- 
+dog: haːro | haro	haːro	xar-o	xaro 
+dog: hɛːr˗o | haro	haːro	xar-o	xaro 
+dog: xar˗o | haro	haːro	xar-o	xaro 
+dog: xɛro | haro	haːro	xar-o	xaro 
+drink: aʕoki | ugi	ʕuk	ʕuk- 
+drink: ugi | ugi	ʕuk	ʕuk- 
+drink: ˗\ʔuk˗ | ugi	ʕuk	ʕuk- 
+drink: ʕuk˗ | ugi	ʕuk	ʕuk- 
+dry: hahay˗ | xaha	xaʼhayi 
+dry: hahayi | xaha	xaʼhayi 
+dry: xa\hayi | xaha	xaʼhayi 
+dust: čullup˗akkó | tullufo	tullupakko	čullup-akkó	čullupakkó 
+ear: k\anče | qaame	qamte	qaːmté	qaːnté 
+ear: qamte | qaame	qamte	qaːmté	qaːnté 
+ear: qan˗ | qaame	qamte	qaːmté	qaːnté 
+earth: kapp˗é | piye 
+eat: ayiʔi | yiʔ-	yiʔa	yɪi 
+eat: ˗yiʔ˗ | yiʔ-	yiʔa	yɪi 
+eat: yɪi | yiʔ-	yiʔa	yɪi 
+eat: yiʔ˗ | yiʔ-	yiʔa	yɪi 
+egg: okaːhe | ukaːħe	ukaːɦ-e	uʼgahe	ʔukaahe 
+egg: u\gahe | ukaːħe	ukaːɦ-e	uʼgahe	ʔukaahe 
+egg: ukaːɦ˗e | ukaːħe	ukaːɦ-e	uʼgahe	ʔukaahe 
+egg: ukaːh˗ | ukaːħe	ukaːɦ-e	uʼgahe	ʔukaahe 
+elbow: ɗuxuk˗xó 
+eye: axaː˗ | axä	ix-té	ixté	yEx3te	yeɣɨte	ʔixte 
+eye: axaːče | axä	ix-té	ixté	yEx3te	yeɣɨte	ʔixte 
+eye: ix˗té | axä	ix-té	ixté	yEx3te	yeɣɨte	ʔixte 
+eye: yeɣɨte | axä	ix-té	ixté	yEx3te	yeɣɨte	ʔixte 
+face: miːnte 
+father: bapu | bapu	pappo	ʔappa 
+father: taːte | bapu	pappo	ʔappa 
+fat (n.): ħaydo 
+fat (n.): háyɗ˗o 
+fat (n.): haydu 
+fat (n.): u\tʰifi 
+fear: fuːr˗ | ɠaapko 
+feather: paːl˗e | hoolo	paːl-e	solaane 
+few: takkayya | takkaya	takkayya 
+fight: ille pogg˗ | ille pogg-	ille poqq-	paah	ʔille paah 
+finger: qup˗akkó 
+fire: heːč˗e | xEte	xatte	xačč-é	xaččé	xʼɛʼte 
+fire: hɛče | xEte	xatte	xačč-é	xaččé	xʼɛʼte 
+fire: xačč˗é | xEte	xatte	xačč-é	xaččé	xʼɛʼte 
+fire: x\ɛ\te | xEte	xatte	xačč-é	xaččé	xʼɛʼte 
+fish: hare | kurmuːtʼ-o	murkuːtʔo	murkuːtʼ-o	xaare	xare	xaːre 
+fish: kurmuːt\˗o | kurmuːtʼ-o	murkuːtʔo	murkuːtʼ-o	xaare	xare	xaːre 
+fish: murkuːt\˗o | kurmuːtʼ-o	murkuːtʔo	murkuːtʼ-o	xaare	xare	xaːre 
+fish: xaːre | kurmuːtʼ-o	murkuːtʔo	murkuːtʼ-o	xaare	xare	xaːre 
+fish: xaːr˗e | kurmuːtʼ-o	murkuːtʔo	murkuːtʼ-o	xaare	xare	xaːre 
+five: xúpin | xupin	xúpin 
+flower: pis˗kó | pis-kó	piskó	piso 
+flow: tuʕam˗ | tuqam	tuʕam- 
+fly (n.): hambo 
+fly (n.): in˗akkó 
+fly (n.): inɛ˗ 
+fly (n.): iːnɛko 
+fly (v.): xaʕ˗ 
+foot: čoː\hɪnko | luk-té	lukte	lukté	luxte 
+foot: luh˗ | luk-té	lukte	lukté	luxte 
+foot: luk˗té | luk-té	lukte	lukté	luxte 
+foot: luxte | luk-té	lukte	lukté	luxte 
+forehead: miːnte 
+four: salaɦ | salah	salaɦ	sálaħ 
+give: a\teːħi | dɛ-	teeh	teːħ-	teːɦ- 
+give: dɛ˗ | dɛ-	teeh	teːħ-	teːɦ- 
+give: teːɦ˗ | dɛ-	teeh	teːħ-	teːɦ- 
+give: ˗\teːh˗ | dɛ-	teeh	teːħ-	teːɦ- 
+good: ak\aya | heetʼa	heːza	ħéːsa	ħéːta	ɦeːsa 
+good: ɦeːsa | heetʼa	heːza	ħéːsa	ħéːta	ɦeːsa 
+good: heːza | heetʼa	heːza	ħéːsa	ħéːta	ɦeːsa 
+grass: ʕaš˗ko | axʼ-	ʕaš-ko	ʕaško	ʕaškó 
+grass: aːško | axʼ-	ʕaš-ko	ʕaško	ʕaškó 
+grass: ax\˗ | axʼ-	ʕaš-ko	ʕaško	ʕaškó 
+green: illaɦa | illaɦa	lahha 
+guts: marʕim˗e | marʕim-e	marʕime	marʕímme	merʕimme	xoppaččo 
+hair: gɛːso | gɛːso	katʼo	kás-o 
+hair: kás˗o | gɛːso	katʼo	kás-o 
+hair: paːx˗ | gɛːso	katʼo	kás-o 
+hair: xrrifoko | gɛːso	katʼo	kás-o 
+hand: ɦark˗ó | harqo	harɠo	ħarkó	ɦark-ó 
+hand: hær˗ | harqo	harɠo	ħarkó	ɦark-ó 
+hand: harqo | harqo	harɠo	ħarkó	ɦark-ó 
+hand: kanɛːte | harqo	harɠo	ħarkó	ɦark-ó 
+head: bahte | buʼkaːte	pukkaʕate	pukkaʕte 
+head: bu\kaːte | buʼkaːte	pukkaʕate	pukkaʕte 
+head: pax˗ | buʼkaːte	pukkaʕate	pukkaʕte 
+head: pukkaʕate | buʼkaːte	pukkaʕate	pukkaʕte 
+hear: a\baɣi | abaxi	apaq-	aʼbaɣi	ʔapaq 
+hear: apaq˗ | abaxi	apaq-	aʼbaɣi	ʔapaq 
+hear: k\ebak\i | abaxi	apaq-	aʼbaɣi	ʔapaq 
+hear: ˗qabaq˗ | abaxi	apaq-	aʼbaɣi	ʔapaq 
+heart: s\aʔgo | sataʕ-te	sataʕe	saʕako	saʕakó	sʼaʔgo 
+heart: sataʕ˗te | sataʕ-te	sataʕe	saʕako	saʕakó	sʼaʔgo 
+heart: sesaʕako | sataʕ-te	sataʕe	saʕako	saʕakó	sʼaʔgo 
+heart: sisɛʔ˗ | sataʕ-te	sataʕe	saʕako	saʕakó	sʼaʔgo 
+heavy: riʕiša | reʕiša	riʕiša 
+he/she: íse 
+he/she: úso 
+hit: šog˗ | šog-	šoq	šoq- 
+horn: gaːse | gase	gaːse	kaattakko	kaːs-ko	kaːsko 
+horn: kas˗ | gase	gaːse	kaattakko	kaːs-ko	kaːsko 
+horn: kaːs˗ko | gase	gaːse	kaattakko	kaːs-ko	kaːsko 
+horn: kaːso | gase	gaːse	kaattakko	kaːs-ko	kaːsko 
+house: man˗ne 
+house: mán˗o 
+how: malá | mala	malá 
+I: ano | ano	ánu	ʔano 
+jaw: kawkaww˗o 
+kill: aːpɛgi | bogi	pok-	poɠ 
+kill: bogi | bogi	pok-	poɠ 
+kill: ˗pog˗ | bogi	pok-	poɠ 
+kill: pok˗ | bogi	pok-	poɠ 
+knee: kilbayho | kilbayho	kilbayh~o	kilpaj-o	kilpayo	kilpáyo 
+knee: kilbəyo | kilbayho	kilbayh~o	kilpaj-o	kilpayo	kilpáyo 
+knee: kilpaj˗o | kilbayho	kilbayh~o	kilpaj-o	kilpayo	kilpáyo 
+know: aʔaːri | ar-	ara	ʔara 
+know: ˗ʔaːr˗ | ar-	ara	ʔara 
+know: ar˗ | ar-	ara	ʔara 
+know: ara | ar-	ara	ʔara 
+laugh: kiššaʕ˗ | kiššaʕ	kiššaʕ- 
+leaf: aix˗ate | axe	aːxe	aːxitté	miise	áːxičče 
+leaf: aːxe | axe	aːxe	aːxitté	miise	áːxičče 
+leaf: áːxičče | axe	aːxe	aːxitté	miise	áːxičče 
+leaf: haše | axe	aːxe	aːxitté	miise	áːxičče 
+left: ɦalaʕ˗akko | pihatte	ħalaʕakko	ɦalaʕ-akko 
+leg: luk˗té | luk-té	lukte	lukté 
+lie: šann˗ | raf	šann- | ʔayya šeek 
+lightning: yaːlaɗ˗ 
+lip: ɦiɓɓe 
+live: ʕakkaɗ˗ | nafsatte ʕak	ʕakkaɗ- 
+liver: či\r˗ | tire	tiri	čir-e	číre 
+liver: čire | tire	tiri	čir-e	číre 
+liver: čir˗e | tire	tiri	čir-e	číre 
+liver: tiri | tire	tiri	čir-e	číre 
+long: huːsigaʔb˗ | sigaːba	sikaapa	sikapa	síkáːpa 
+long: huːsikaba | sigaːba	sikaapa	sikapa	síkáːpa 
+long: sigaːba | sigaːba	sikaapa	sikapa	síkáːpa 
+long: sikapa | sigaːba	sikaapa	sikapa	síkáːpa 
+louse: isq˗ičče | isqi	ʔisqaye 
+louse: ˗itte | isqi	ʔisqaye 
+louse: ɪs\q˗ | isqi	ʔisqaye 
+louse: ɪsqɪ | isqi	ʔisqaye 
+louse: ɨs\qi˗ | isqi	ʔisqaye 
+man: č\iraku | qaw-xó	qawho	qawxó	qoho 
+man: k\owho | qaw-xó	qawho	qawxó	qoho 
+man: qawuh˗ | qaw-xó	qawho	qawxó	qoho 
+man: qɔːho | qaw-xó	qawho	qawxó	qoho 
+man: t\ir˗akko | qaw-xó	qawho	qawxó	qoho 
+man: t\ir˗akkó | qaw-xó	qawho	qawxó	qoho 
+many: heɗamma | heɗamma	hudʼaʔama	ɗamma 
+many: hud\aʔama | heɗamma	hudʼaʔama	ɗamma 
+many: hu\dɛmʔ˗ | heɗamma	hudʼaʔama	ɗamma 
+many: i\ki\ša | heɗamma	hudʼaʔama	ɗamma 
+meat: gurse | korse	sakanko	sakánko | gurse	korse	kórs-e	sakanko	sakánko	ħáyɗó 
+meat: kórs˗e | korse	sakanko	sakánko | gurse	korse	kórs-e	sakanko	sakánko	ħáyɗó 
+meat: kurs˗ | korse	sakanko	sakánko | gurse	korse	kórs-e	sakanko	sakánko	ħáyɗó 
+meat: kurse | korse	sakanko	sakánko | gurse	korse	kórs-e	sakanko	sakánko	ħáyɗó 
+moon: leʕayy˗o | leʔo	leʕayy-o	leʕayyo	leʕʕo 
+moon: leʔo | leʔo	leʕayy-o	leʕayyo	leʕʕo 
+moon: leːʔo | leʔo	leʕayy-o	leʕayyo	leʕʕo 
+moon: leːʔ˗o | leʔo	leʕayy-o	leʕayyo	leʕʕo 
+mother: jayy˗e | jayy-e	yaaye	yayye 
+mountain: gɛdo | gEdo	gɛdo	kutunko	qup-o	qupo	ɠupo 
+mountain: guːb˗ | gEdo	gɛdo	kutunko	qup-o	qupo	ɠupo 
+mountain: guːbo | gEdo	gɛdo	kutunko	qup-o	qupo	ɠupo 
+mountain: qup˗o | gEdo	gɛdo	kutunko	qup-o	qupo	ɠupo 
+mouth: bɛgo | bɛgo	pak-o	pako	páko 
+mouth: pak˗o | bɛgo	pak-o	pako	páko 
+mouth: pok˗ | bɛgo	pak-o	pako	páko 
+mouth: poko | bɛgo	pak-o	pako	páko 
+name: makɦ˗akkó | makahko	makaħakkó	makaħko	makɦ-akkó	mogago	mogaːgo 
+name: mɛ\kaːhko | makahko	makaħakkó	makaħko	makɦ-akkó	mogago	mogaːgo 
+name: mɛkaːh˗ko | makahko	makaħakkó	makaħko	makɦ-akkó	mogago	mogaːgo 
+name: mogaːgo | makahko	makaħakkó	makaħko	makɦ-akkó	mogago	mogaːgo 
+nape: ɦiss˗e 
+nape: išt˗é 
+narrow: tiːkkayya | muhe	tikkaya	tiːkkayya 
+neck: geʔeʔ | gomɛro	kóːmar-e	kóːmare	ʔamo	ʕamo 
+neck: gomɛro | gomɛro	kóːmar-e	kóːmare	ʔamo	ʕamo 
+neck: kóːmar˗e | gomɛro	kóːmar-e	kóːmare	ʔamo	ʕamo 
+new: qawčitto | qawtitto	qawčitto	qayte	qoto	qoyto 
+new: qow\čiːčo | qawtitto	qawčitto	qayte	qoto	qoyto 
+new: qow\tiːto | qawtitto	qawčitto	qayte	qoto	qoyto 
+new: qoyto | qawtitto	qawčitto	qayte	qoto	qoyto 
+night: awɪne | awine	awɪne	áwne	ʔawne 
+night: awɨne | awine	awɪne	áwne	ʔawne 
+night: awɨn˗e | awine	awɪne	áwne	ʔawne 
+old: keːš˗akkó 
+one: taʔako | %toko	toko	toʔon	toːtté	tóʔo 
+one: toko | %toko	toko	toʔon	toːtté	tóʔo 
+one: toʔon | %toko	toko	toʔon	toːtté	tóʔo 
+one: toːtté | %toko	toko	toʔon	toːtté	tóʔo 
+other: bi\laːko | biʼlaːko	huɓa	pil-akkó	pilakkó 
+other: pil˗akkó | biʼlaːko	huɓa	pil-akkó	pilakkó 
+other: pilaːko | biʼlaːko	huɓa	pil-akkó	pilakkó 
+person: qaw˗xó | qaw-xó	qawho	qawxó	qoho 
+play: ɦikkaɗ˗ | hikka	ħikkaɗ-	ɦikkaɗ- 
+pull: kiːk˗ 
+push: suqqur˗ | suqqur-	ɗuuk 
+rain: ɗip˗ | irráwo	ɨrʼrawo	ʔirrawo 
+rain: ɨr\rawo | irráwo	ɨrʼrawo	ʔirrawo 
+rain: ɪrrowo | irráwo	ɨrʼrawo	ʔirrawo 
+rain: ɨrrow˗o | irráwo	ɨrʼrawo	ʔirrawo 
+red: huːʔiːd\˗a | iɗa	iɗɗe	ʔida	ʔiɗɗa 
+red: ʔida | iɗa	iɗɗe	ʔida	ʔiɗɗa 
+red: ˗ʔid\a | iɗa	iɗɗe	ʔida	ʔiɗɗa 
+red: iɗa | iɗa	iɗɗe	ʔida	ʔiɗɗa 
+right: misikko | harqo	harɠo	ħarkó	ɦark-ó | misikko	miskitte	misíkko 
+road: nge | unge 
+road: paːno | unge 
+road: uːnk˗ | unge 
+root: hese | hitte	kitate	ħitte	ħísse	ɦiss-e 
+root: heːsi˗te | hitte	kitate	ħitte	ħísse	ɦiss-e 
+root: ɦiss˗e | hitte	kitate	ħitte	ħísse	ɦiss-e 
+root: kitate | hitte	kitate	ħitte	ħísse	ɦiss-e 
+rope: otor˗ó | otor-ó	otoró	suro	surr-e	surre	teepko 
+rope: surr˗e | otor-ó	otoró	suro	surr-e	surre	teepko 
+salt: soqiːs˗o | soqiːs-o	soqiːso	soqo	sóqo 
+sand: čaɦ˗akkó | tahakko	tahako	taħakkó	čaħakkó	čaɦ-akkó 
+sand: mičo | tahakko	tahako	taħakkó	čaħakkó	čaɦ-akkó 
+sand: piːliqi | tahakko	tahako	taħakkó	čaħakkó	čaɦ-akkó 
+sand: tahako | tahakko	tahako	taħakkó	čaħakkó	čaɦ-akkó 
+say: aː\p\ay | baːy	pay	pay- | tahakko	tahako	taħakkó	čaħakkó	čaɦ-akkó 
+say: baːy | baːy	pay	pay- | tahakko	tahako	taħakkó	čaħakkó	čaɦ-akkó 
+say: ˗\paː˗ | baːy	pay	pay- | tahakko	tahako	taħakkó	čaħakkó	čaɦ-akkó 
+say: pay˗ | baːy	pay	pay- | tahakko	tahako	taħakkó	čaħakkó	čaɦ-akkó 
+see: a\hiːʔi | Siya	hiʔ	xiʔ-	šiya 
+seed: poɗaɦɦo | poɗaho	poɗaħħo	poɗaɦɦo	sɛnye 
+seed: pɔɪh˗ | poɗaho	poɗaħħo	poɗaɦɦo	sɛnye 
+seed: pɔɪhe | poɗaho	poɗaħħo	poɗaɦɦo	sɛnye 
+seed: sɛnye | poɗaho	poɗaħħo	poɗaɦɦo	sɛnye 
+see: ˗hiːʔ˗ | Siya	hiʔ	xiʔ-	šiya 
+see: šiya | Siya	hiʔ	xiʔ-	šiya 
+see: xiʔ˗ | Siya	hiʔ	xiʔ-	šiya 
+sew: ̌šapp˗ | teel	šapp-	̌šapp- 
+sharp: qaru | foola	qaru 
+short: ɓak\aʔa | mahnaʔa	maxaːʔa	ɓakʔaʔa	ɓakʼaʔa 
+shoulder: xašito 
+sing: xirip˗ | qaallaɗ	xirip-	ħikkaɗ- 
+sister: aláw˗te 
+sister: ʕás˗e 
+sit: aʔakɛːd˗ | akadʼi	akkaɗ-	ʕakkaɗ 
+sit: akad\i | akadʼi	akkaɗ-	ʕakkaɗ 
+sit: ˗ʔakɛːd˗ | akadʼi	akkaɗ-	ʕakkaɗ 
+sit: akkaɗ˗ | akadʼi	akkaɗ-	ʕakkaɗ 
+skin: ʕi\la | 3lo	xaɓo	ɨːlo	ʕillo	ʕull-o 
+skin: ɨːlo | 3lo	xaɓo	ɨːlo	ʕillo	ʕull-o 
+skin: qoːlo | 3lo	xaɓo	ɨːlo	ʕillo	ʕull-o 
+skin: ʕull˗o | 3lo	xaɓo	ɨːlo	ʕillo	ʕull-o 
+sky: mónčo | muuntʼo	mónčo	móːnto 
+sleep: aː\čɛrkɛdiː | raf	raf-	rɛːfi 
+sleep: ˗\čɛrkɛd˗ | raf	raf-	rɛːfi 
+sleep: raf˗ | raf	raf-	rɛːfi 
+sleep: rɛːfi | raf	raf-	rɛːfi 
+small: ˗\dikiya | -ʼdikiya	takkaya	tikkasa 
+small: tiːkasa | -ʼdikiya	takkaya	tikkasa 
+small: tiːka˗sa | -ʼdikiya	takkaya	tikkasa 
+small: tikkasa | -ʼdikiya	takkaya	tikkasa 
+smoke: guːde | guːde	kuute	kuːte 
+smoke: kuː˗ | guːde	kuute	kuːte 
+smoke: kuːte | guːde	kuute	kuːte 
+snake: dɛw | dɛw	tawo	táww-o	táwwo 
+snake: táww˗o | dɛw	tawo	táww-o	táwwo 
+snake: tɛwɔ | dɛw	tawo	táww-o	táwwo 
+snake: tow˗ | dɛw	tawo	táww-o	táwwo 
+split: ɓakkas˗ | paqqas	ɓakkas- 
+squeeze: noːɗ˗ | noːɗ-	tʼiip 
+stand: a\šeːkari | šanni	šikkar-	šɪkari 
+stand: ˗\šakaːr˗ | šanni	šikkar-	šɪkari 
+stand: šikkar˗ | šanni	šikkar-	šɪkari 
+stand: šɪkari | šanni	šikkar-	šɪkari 
+star: hɨske | h3ske	huske	hɨske	ħiske	ɦisk-e 
+star: ħɪske | h3ske	huske	hɨske	ħiske	ɦisk-e 
+star: ɦisk˗e | h3ske	huske	hɨske	ħiske	ɦisk-e 
+star: wɛnč˗ | h3ske	huske	hɨske	ħiske	ɦisk-e 
+stone: aʷru˗ | awErko	awrukko	awrukkó	aːwɛrko	ʔikaħko 
+stone: aʷruko | awErko	awrukko	awrukkó	aːwɛrko	ʔikaħko 
+stone: aːwɛrko | awErko	awrukko	awrukkó	aːwɛrko	ʔikaħko 
+stone: awrukko | awErko	awrukko	awrukkó	aːwɛrko	ʔikaħko 
+suck: šurr˗ | šura	šurr- 
+sun: oqqax˗e | hallikko	kaliko	oqqax-e	oqqaħe	oqqáye	uqayE	uʼqayɛ 
+sun: uk\ayɛ | hallikko	kaliko	oqqax-e	oqqaħe	oqqáye	uqayE	uʼqayɛ 
+sun: u\qayɛ | hallikko	kaliko	oqqax-e	oqqaħe	oqqáye	uqayE	uʼqayɛ 
+sweet: sákm˗ 
+swim: č\ubay | -dʼaːgi	taaha 
+swim: ˗d\aːgi | -dʼaːgi	taaha 
+swim: ˗kučer | -dʼaːgi	taaha 
+tail: seːdo | seːdo	siito	siːt-o	síːtó 
+tail: sito | seːdo	siito	siːt-o	síːtó 
+tail: siːt˗o | seːdo	siito	siːt-o	síːtó 
+take: akk˗ 
+that: xissa | =sa | %toko	toko	toʔon	toːtté	tóʔo 
+that: xússa | =sa | %toko	toko	toʔon	toːtté	tóʔo 
+they: usunɗe | usunɗe	úsunɗe	ʔusunɗe 
+thin: ɦafačče | haafakko	hafaːko	ħafačče	ɦafačče 
+thin: hafaːko | haafakko	hafaːko	ħafačče	ɦafačče 
+thin: haːfɛko | haafakko	hafaːko	ħafačče	ɦafačče 
+thin: huhæ\fɛd\˗ | haafakko	hafaːko	ħafačče	ɦafačče 
+think: ɗix˗aɗ˗ | ɗix-aɗ-	ɗixaɗ-	ʔasaap 
+this: čísi | =si	huzih 
+this: huzi | =si	huzih 
+this: huzih | =si	huzih 
+this: xísi | =si	huzih 
+this: xúsi | =si	huzih 
+thou: ačo | ato	áto	áčo	ʔato 
+thou: ato | ato	áto	áčo	ʔato 
+three: iséɦ | iséħ	iséɦ	zeː	ʔizzah 
+three: sɛzɛh | iséħ	iséɦ	zeː	ʔizzah 
+three: zeː | iséħ	iséɦ	zeː	ʔizzah 
+three: ɪzɛːh | iséħ	iséɦ	zeː	ʔizzah 
+throw: x̩ččap˗ | hatap	xaččap-	x̩ččap- 
+thunder: qáwwaʕ˗akko 
+tie: šap˗ | sooq	šap- 
+today: kuyyu 
+tomorrow: qájna 
+tongue: aræbko | ErEbgo	arrap-qó	arrapkó	ɛrræbgo	ʔarraapko 
+tongue: arræb˗ | ErEbgo	arrap-qó	arrapkó	ɛrræbgo	ʔarraapko 
+tongue: arrap˗qó | ErEbgo	arrap-qó	arrapkó	ɛrræbgo	ʔarraapko 
+tongue: ɛrræbgo | ErEbgo	arrap-qó	arrapkó	ɛrræbgo	ʔarraapko 
+tooth: ɪ\gɔko | 3lge	ilg-é	ilqe	ɨlge	ʔilke 
+tooth: ilg˗é | 3lge	ilg-é	ilqe	ɨlge	ʔilke 
+tooth: ɨlge | 3lge	ilg-é	ilqe	ɨlge	ʔilke 
+tooth: ɨlɨgo˗ | 3lge	ilg-é	ilqe	ɨlge	ʔilke 
+tree: garko 
+tree: kaːr˗ | garko 
+tree: karko | garko 
+tree: karkó | garko 
+two: laːke | lake	lakki	laːke	lákki 
+two: lákki | lake	lakki	laːke	lákki 
+two: lɛːki | lake	lakki	laːke	lákki 
+two: lɛmeː | lake	lakki	laːke	lákki 
+vagina: šarp˗ákko 
+vomit: fač˗ | fat	fat-	fač- 
+vomit: fat˗ | fat	fat-	fač- 
+walk: a\ʔaːči | ʔašša 
+walk: ˗\aːč˗ | ʔašša 
+walk: aši | ʔašša 
+walk: ašš˗ | ʔašša 
+warm: foːl˗a | foːl-a	foːla	tɔra 
+warm: luːbɛsa | foːl-a	foːla	tɔra 
+warm: tɔra | foːl-a	foːla	tɔra 
+warm: ufoːl˗a | foːl-a	foːla	tɔra 
+wash: soɦ˗(aɗ˗) | soɦ-	soɦ-aɗ-	šoh	šoħ- 
+water: ʔande | andi	and~i	ʕanɗ-e	ʕanɗe	ʕánɗe 
+water: ʕanɗ˗e | andi	and~i	ʕanɗ-e	ʕanɗe	ʕánɗe 
+water: andi | andi	and~i	ʕanɗ-e	ʕanɗe	ʕánɗe 
+water: ʔandi˗ | andi	and~i	ʕanɗ-e	ʕanɗe	ʕánɗe 
+we: ine 
+we: ino | ine 
+we: iːno | ine 
+wet: a\šælɛla | kʔap-	kʼapa	lɛxa 
+wet: lɛxa | kʔap-	kʼapa	lɛxa 
+wet: u\šælɛl˗ | kʔap-	kʼapa	lɛxa 
+what: moʔo | moʔo	móʔo 
+what: móʔo | moʔo	móʔo 
+when: pará | para	pará 
+where: axa | axa	ʔaxa 
+white: ˗bɪʕa | biʔa	piʕa 
+white: biʔa | biʔa	piʕa 
+white: huːbɨʕ˗ | biʔa	piʕa 
+white: piʕa | biʔa	piʕa 
+who: yáɦa | yaha	yáɦa 
+who: yaha | yaha	yáɦa 
+who: yaħa | yaha	yáɦa 
+wind: urúːr˗e | urúːr-e	urúːre	ʔuruure 
+wing: xoːl˗akko | hoolo	xoːl-akko	xoːlakko 
+wipe: oːš˗ | oːš-	ʔooš 
+woman: ħɪ\skɛčo | hiske	nahaye	ħiskatto	ħiskaččo	ɦisk-aččo 
+woman: ɦisk˗aččo | hiske	nahaye	ħiskatto	ħiskaččo	ɦisk-aččo 
+woman: naʔhay˗ | hiske	nahaye	ħiskatto	ħiskaččo	ɦisk-aččo 
+woman: nahaye | hiske	nahaye	ħiskatto	ħiskaččo	ɦisk-aččo 
+wood: ul˗itte 
+year: per˗kó | peerko	per-kó	perkó 
+yesterday: keːra 
+you: hune | ato	áto	áčo	ʔato | hune	xúne 
+you: huno | ato	áto	áčo	ʔato | hune	xúne 
+you: inu | ato	áto	áčo	ʔato | hune	xúne 
+every: gaʔaza	kaʕasa	káʔasa	mulo 
+ash: bɛrko	kasʕaɗ-	tarʕo 
+abdomen: karʔɨto	karʕ-eččo	karʕeččo	karʕitto	karʕétto 
+bigness: -daʔama	ɗamma	ɗámma 
+large: -daʔama	ɗamma	ɗámma 
+breasts: adEngo	adämə	adɛngo	ʕaɗunko	ʕaɗúnko 
+nail: goʔe	qoy-akko	qoyakko	ɠuʕakko 
+talon: goʔe	qoy-akko	qoyakko	ɠuʕakko 
+come from: ogayi	okay-	okay- xaf-	xaf-	ʔokaay 
+be dead: fEri	far	far-	fɛri 
+dead: fEri	far	far-	fɛri 
+ground: piye 
+land: piye 
+soil: piye 
+fly: haʕ	xaʕ-	xeʔiɗ- 
+fly v.: haʕ	xaʕ-	xeʔiɗ- 
+full: hoqqaši	xoqomo 
+left hand: harqo	harɠo	ħarkó	ɦark-ó 
+1 sg.: ano	ánu	ʔano 
+be knowledgeable: ar-	ara	ʔara 
+lie down: raf	šann- 
+head louse: isqi	ʔisqaye 
+male: qawho	qɔːho	tʔirakkó	tʼir-akkó 
+much: heɗamma	hudʼaʔama	ɗamma 
+multiple: heɗamma	hudʼaʔama	ɗamma 
+several: heɗamma	hudʼaʔama	ɗamma 
+flesh: korse	sakanko	sakánko 
+hill: gEdo	gɛdo	kutunko	qup-o	qupo	ɠupo 
+title: makahko	makaħakkó	makaħko	makɦ-akkó	mogago	mogaːgo 
+nighttime: awine	awɪne	áwne	ʔawne 
+nose: sind~e	sinte	sinɗe	sɪnde	toːm-o 
+adulterous: %toko	toko	toʔon	toːtté	tóʔo 
+single: %toko	toko	toʔon	toːtté	tóʔo 
+the: %toko	toko	toʔon	toːtté	tóʔo 
+unprincipled: %toko	toko	toʔon	toːtté	tóʔo 
+human: qaw-xó	qawho	qawxó	qoho 
+human being: qaw-xó	qawho	qawxó	qoho 
+rainy weather: irráwo	ɨrʼrawo	ʔirrawo 
+path: unge 
+route: unge 
+round: ɗaananko 
+hide: 3lo	xaɓo	ɨːlo	ʕillo	ʕull-o 
+little: -ʼdikiya	takkaya	tikkasa 
+smallness: -ʼdikiya	takkaya	tikkasa 
+rock: awErko	awrukko	awrukkó	aːwɛrko	ʔikaħko 
+2 sg: ato	áto	áčo	ʔato 
+grind: lake	lakki	laːke	lákki 
+go: ʔašša 
+hot: foːl-a	foːla	tɔra 
+1 pl. inc.: ine 
+we₁: ine 
+whiteness: biʔa	piʕa 
+who?: yaha	yáɦa 
+female: hiske	nahaye	ħiskatto	ħiskaččo	ɦisk-aččo 
+yellow: ʔoypatto	ʕawletté 
+distant: kánɗaʕa	sikaapa 
+far: kánɗaʕa	sikaapa 
+dull: reʕiša	riʕiša 
+serious: reʕiša	riʕiša 
+close: itta	itʔa	ʔitʼa 
+near: itta	itʔa	ʔitʼa 
+ner: itta	itʔa	ʔitʼa 
+earthworm: soporqo 
+worm: soporqo 
+3 sg.: úso	ʔiso 
+he: úso	ʔiso 
+she: úso	ʔiso 
+2 pl.: hune	xúne 
+ye: hune	xúne 
+you all: hune	xúne 
+3 pl.: usunɗe	úsunɗe	ʔusunɗe 
+here: haysa 
+there: haysa 
+where?: axa	ʔaxa 
+when?: para	pará 
+how?: mala	malá 
+some: takkaya 
+broad: kartanna 
+wide: kartanna 
+wideness: kartanna 
+fat: haydu	háyɗ-o 
+thick: kartanna 
+child: miʔaye 
+principal wife: nahaye 
+wife: nahaye 
+husband: halho 
+his mother: jayy-e	yaaye	yayye 
+my mother: jayy-e	yaaye	yayye 
+his father: bapu	pappo	ʔappa 
+my father: bapu	pappo	ʔappa 
+forest: horro	manɗo	xórro 
+woods: horro	manɗo	xórro 
+branch: tʼaamme 
+stick: tʼaamme 
+fruit: ʔawšo 
+cord: otor-ó	otoró	suro	surr-e	surre	teepko 
+grease: haydu	háyɗ-o 
+fingernail: sonqe 
+gut: marʕim-e	marʕime	marʕímme	merʕimme	xoppaččo 
+insides: marʕim-e	marʕime	marʕímme	merʕimme	xoppaččo 
+intestine: marʕim-e	marʕime	marʕímme	merʕimme	xoppaččo 
+intestines: marʕim-e	marʕime	marʕímme	merʕimme	xoppaččo 
+back: konnatto	kónʕo 
+spit: tuf	tuf-	tuːfaɗ- 
+breath: nassaɗ	nassaɗ- 
+laughter: kiššaʕ	kiššaʕ- 
+cogitate: ɗix-aɗ-	ɗixaɗ-	ʔasaap 
+reflect: ɗix-aɗ-	ɗixaɗ-	ʔasaap 
+smell: ʔošoʕsaɗ 
+sniff: ʔošoʕsaɗ 
+afraid: ɠaapko 
+be afraid: ɠaapko 
+fright: ɠaapko 
+alive: nafsatte ʕak	ʕakkaɗ- 
+be alive: nafsatte ʕak	ʕakkaɗ- 
+life: nafsatte ʕak	ʕakkaɗ- 
+living: nafsatte ʕak	ʕakkaɗ- 
+hunt: qooš 
+beat: šog-	šoq	šoq- 
+strike: šog-	šoq	šoq- 
+hack: goɦ-	qaq	qoħ- 
+cut open: paqqas	ɓakkas- 
+pierce: ɗot	ɗot-	ɗoč- 
+stab: ɗot	ɗot-	ɗoč- 
+scratch: xaš	xoš- 
+tell lies: ʔayya šeek 
+turn: hol 
+turn around: hol 
+turn round: hol 
+drop: purʕ-	puʕ	ran- 
+fall: purʕ-	puʕ	ran- 
+grasp: ɠap 
+hold: ɠap 
+hold in arm: ɠap 
+wring: noːɗ-	tʼiip 
+rub: kuʕ 
+wash clothes: soɦ-	soɦ-aɗ-	šoh	šoħ- 
+shove: suqqur-	ɗuuk 
+bind: sooq	šap- 
+fasten: sooq	šap- 
+tie up: sooq	šap- 
+enumerate: ɗiha	ɗix- 
+number: ɗiha	ɗix- 
+tally: ɗiha	ɗix- 
+have fun: hikka	ħikkaɗ-	ɦikkaɗ- 
+brook: kolle	kollé	kólle 
+river: kolle	kollé	kólle 
+stream: kolle	kollé	kólle 
+lake: paso 
+fog: qayanqayo 
+snow: ʔaspitte 
+ice: ʔaspitte 
+blaze: šaʔ	ɗil- 
+day: kuyaʕko 
+daylight: kuyaʕko 
+daytime: kuyaʕko 
+evil: maka	makakko	máka 
+rot: ʔí=harkišami 
+rotten: ʔí=harkišami 
+dirty: ʔoskakkolakko 
+filthy: ʔoskakkolakko 
+soiled: ʔoskakkolakko 
+straight: keetaya 
+blunt: ye=leefamú 
+smooth: mutʼurtʼura 
+damp: kʔap-	kʼapa	lɛxa 
+correct: kitaaha 
+right side: misikko	miskitte	misíkko 
+at: =ma 
+in: kittatte 
+inside: kittatte 
+with: =tta 
+and: =pa 
+if: pará	payni 
+because: mekinnate 

@@ -1,0 +1,426 @@
+all: lahat | lahat	lahát 
+and: at 
+animal: hayop 
+animal: hāyop | hayop 
+ashes: abo | abo	abú 
+at: sa 
+back: likod | likod	likód 
+bad: masama | masama	masamáq 
+bad: samaʔ | masama	masamáq 
+bark: balat (naŋ kāhoy) | balat N puno	balat ng puno 
+because: dahil sa 
+because: sapagka-t | dahil 
+belly: tiyan | tiyan	tiyán 
+big: malaki | malaki	malakí 
+bird: ibon | ibon	ībon 
+bird: ībon | ibon	ībon 
+bite: kagat | kagat	kagatín	kumagat	kumugat 
+black: itim | itim	itím 
+blood: dugo | dugo	dugóq 
+blood: dugoʔ | dugo	dugóq 
+blow: hīhip | humipan	ihip	umihip	umíhip 
+bone: buto | buto	butó 
+breast: sūso | suso	susu	súsu 
+breathe: hiŋa | hinga	huminga	humiŋá 
+burn: silab | masunog	masúnog | sunogin 
+child: anak | anak	bata 
+child: bātaʔ | anak	bata 
+cloud: ulap | alapaap	alapap	ulap	úlap 
+cloud: ūlap | alapaap	alapap	ulap	úlap 
+cold: lamig | malamig	malamíg 
+cold: malamig | malamig	malamíg 
+come: hali | datiN	dating	datíŋ	pumunta 
+correct: tama | tama	tumpak 
+correct: tāmaʔ | tama	tumpak 
+count: bīlaŋ | bilang	magbilang	magbílaŋ 
+cut: hīwaʔ | pumutol	putol	putúlin 
+day: araw 
+die: matay | mamatay	patay	patáy 
+die: patay | mamatay	patay	patáy 
+dig: hūkay | hukay	maghukay	maghúkay	paramíhin 
+dirty: dumi | madumi	marumi 
+dog: aso | aso	áso 
+dog: āso | aso	áso 
+drink: inom | inom	uminom	uminóm 
+dry: tuyo | tumuyo	tuyo	tuyóq 
+dry: tuyoʔ | tumuyo	tuyo	tuyóq 
+dull: purol | bigát	mabigat | mapurol	mapuról	pudpod 
+dust: alikabok | abo	alikabok 
+ear: tenga | taiNa	tainga	taqiŋa	teNa	tenga 
+ear: tēŋa | taiNa	tainga	taqiŋa	teNa	tenga 
+earth: lupa 
+earth: lūpaʔ | lupa 
+eat: kain | kain	kumain	kumáin 
+egg: ilog | itlog	itlóg 
+egg: itlog | itlog	itlóg 
+empty: wala-ŋlaman 
+eye: mata | mata	matá 
+fall:  hulog | bumagsak	bumaksak	hulog	mahúlog 
+far: lāyuʔ | malayo	maláyoq 
+far: malayo | malayo	maláyoq 
+father: ama | ama	amá	itay	tatay 
+father: tatay | ama	amá	itay	tatay 
+fat (n.): taba 
+fat (n.): tabaʔ 
+fear: takot | matakot	takot	tákut 
+feather: balahibo | balahibo	búhoq 
+few: untiʔ | kaunti 
+fight: laban 
+fingernail: kuko 
+fire: apoy | apoy	apóy	sunog 
+fish: isda | isda	isdáq 
+fish: isdaʔ | isda	isdáq 
+five: lima | lima	limá	líma 
+float: lūtaŋ | lutang 
+flow: āgos | agos	daloy	dumaloy	umagos	umágos 
+flower: bulaklak | bulaklak	bulaklák 
+fly (v.): lipad 
+fog: ūlop | hamog	hamóg 
+foot: paa | pa	paa 
+foot: paʔa | pa	paa 
+forest: gūbat | gubat	gúbat	kakahuyan 
+four: apat | apat	ápat 
+four: āpat | apat	ápat 
+freeze: na + nigas | tigas	yelo 
+frog: palakaʔ 
+fruit: [prūtas] | bunga	buŋá	prutas 
+full: busog | puno 
+full: punoʔ 
+give: bigay 
+good: būti | mabuti	mabúti 
+good: mabuti | mabuti	mabúti 
+grass: damo | damo	damó 
+green: luntiɬ (-an) | berde	bérde	luntian 
+guts: bitūka | bituka	bitúka 
+hair: buhok | buhok	buhók 
+hand: kamay | kamay	kamáy 
+head: ulo | ulo	úlo 
+head: ūlo | ulo	úlo 
+hear: dinig | dinig	kinig	makinig	makiníg 
+heart: puso 
+heart: pūsoʔ | puso 
+heavy: bigat | bigát	mabigat 
+heavy: mabigat | bigát	mabigat 
+here: dito 
+here: d/r + ito | dito 
+he: siya 
+hit: pāloʔ | hampas	itápun	paluin	pumalo	tama 
+hold: hawak | hawak	hawakan	hawákan 
+horn: sūŋay | saNay	sungay 
+horn: ungoy | saNay	sungay 
+how: paano | paano	papaqáno 
+how: pa-ʔāno | paano	papaqáno 
+hunt: āso | mamaríl	mangaso 
+husband: asāwa | asawa	asawang lalake	asawang lalaki	asáwaŋ laláki 
+I: ako | ako	akó 
+ice: [yēlo] | yelo 
+if: kon | kung	kuŋ 
+if: kung | kung	kuŋ 
+in: lo?ob | [sa] loqób	loob	sa	sa loob 
+kill: patay | magpatáy	paslaN	paslang	patay	patayin	pumutay 
+kill: patay + -in | magpatáy	paslaN	paslang	patay	patayin	pumutay 
+knee: tūhod | tuhod 
+know: alam | alam	alamin	alám 
+know: ālam | alam	alamin	alám 
+lake: lānaw | lawa	láwaʔ 
+large: laki | malaki	malakí 
+laugh: tāwa | tawa	tumawa	tumáwa 
+leaf: dahon | dahon	dáhon 
+leaf: dāhon | dahon	dáhon 
+left: kaliwa | kaliwa	kaliwáq 
+left: kaliwa? | kaliwa	kaliwáq 
+leg: paʔa | binti 
+lie: higa? | higa	hilata	humiga	humigáq 
+live: buhay | buhay	búhay	mabuhay 
+liver: atay | atay	atáy 
+long: hābaʔ | mahaba	mahábaq 
+long: mahaba | mahaba	mahábaq 
+louse: kūto | kuto	kútu 
+man: lalaki | ta:o	tao 
+man: lalāki | ta:o	tao 
+many: marami 
+many: ma-rāmi | marami 
+meat: karne | karne	laman | karne	laman	lamán 
+meat: laman | karne	laman | karne	laman	lamán 
+moon: buwan | buwan	buwán 
+mother: ina | ina	inay	iná	nanay 
+mother: inay | ina	inay	iná	nanay 
+mountain: bundok 
+mouth: bibig | bibig	bibíg	buNaNa	bunganga 
+mouth: bulog | bibig	bibíg	buNaNa	bunganga 
+name: pangalan | Nalan	ngalan	paNalan	pangalan	paŋálan 
+name: paŋālan | Nalan	ngalan	paNalan	pangalan	paŋálan 
+narrow: kītid | makitid	makítid 
+near: lāpit | malapit	malápit 
+neck: leeg | leeg	leg	liqíg 
+neck: līʔig | leeg	leg	liqíg 
+new: bāgo | bago	bágo 
+new: bagong | bago	bágo 
+night: gabi | gabi	gabí 
+nose: ilong | iloN	ilong	ilóŋ 
+nose: iloŋ | iloN	ilong	ilóŋ 
+not: hindi 
+old: lūmaʔ | luma	matanda 
+old: matanda | luma	matanda 
+one: isa | isa	isá 
+other: iba | iba	ibá 
+person: tao | ta:o	tao 
+person: tāʔo | ta:o	tao 
+play: laro 
+play: laroʔ 
+pull: hīla | batak	hila 
+push: tūlak | tulak 
+rain: ulan | ulan	ulán 
+red: pula | pula	pulá 
+right: kānan | kamay	kamáy | kanan	kánan 
+right: kanin | kamay	kamáy | kanan	kánan 
+river: ilog 
+river: īlog | ilog 
+road: daan | daan	dan	daqán	kalsada	lansangan 
+road: daʔan | daan	dan	daqán	kalsada	lansangan 
+root: ugat | ugat	ugát 
+rope: lūbid | lubid	tali	táliq 
+rotten: bulok | bulok	mabáhoq	nangamoy 
+round: bīlog | bilog 
+round: mabilog 
+rub: pāhid | kaskas	kuskos 
+salt: asin | asin	asín 
+sand: buhāŋin | buhangin	pásig 
+say: sabi | mag-salita	magsalitáq	sabi	sabihin	sabíhin | buhangin	pásig 
+say: sābi | mag-salita	magsalitáq	sabi	sabihin	sabíhin | buhangin	pásig 
+scratch: kamot | kamot	kamutin	kamútin	kumamot 
+sea: dāgat | dagat	laot	láud 
+seed: buto | binhi	buto 
+see: kita | kita	makita	makíta	tiNin	tingin	tumingin	tumiŋín 
+sew: tahia | mag-tahi	magtahiq	tahi	tahiin 
+sharp: talim | matalas	matalim	matulis	talím 
+short: igsi | mababa	maikli	maiksi	maliit	pandak	pandák 
+short: pandak | mababa	maikli	maiksi	maliit	pandak	pandák 
+sing: āwit | awit 
+sit: opo? | tumirá	umupo	umupóq	upo 
+sit: upo | tumirá	umupo	umupóq	upo 
+sit: upô | tumirá	umupo	umupóq	upo 
+skin: balat | balat	balát 
+skin: bulat | balat	balát 
+sky: lāŋit | langit	láŋit 
+sleep: tulog | matulog	tulog	túlug 
+sleep: tūlog | matulog	tulog	túlug 
+small: liʔit | maliit	maliqít	malit	munti 
+small: maliit | maliit	maliqít	malit	munti 
+smell: amoy | amoy	amuyin	amuyín 
+smoke: upo | aso	humithít	usok 
+smoke: ūsok | aso	humithít	usok 
+smooth: kīnis | makinis 
+smooth: makinis 
+snake: āhas | ahas	áhas 
+snow: yebe | niyebe 
+some: ilan 
+spit: luraʔ | dumura	dura	lumuráq	luwa	sumuka 
+split: sibak | biyak	biyakin	biyakín	hati 
+squeeze: piga | pigain	pigaqín	pisil 
+stab: saksak | manaksak	saksak	saksakin	saksakín	sasakin 
+stand: layo? | tayo | buhaNin	tayo	tumayo	tumindíg 
+stand: tayo | buhaNin	tayo	tumayo	tumindíg 
+star: bituwin | bituin	bituqín 
+star: bitwin | bituin	bituqín 
+stick: tuŋkod | patpat	sanga	saŋá 
+stone: bato | bato	batu	batú 
+straight: matuwid 
+straight: tuwid 
+suck: sipsip | humígop	sipsip	sumipsip	sumisip	suso 
+sun: araw 
+sun: āraw | araw 
+swell: maga 
+swim: langoy | laNoy	langoy	lumangoy	lumangóy 
+tail: buntot | buntot	buntoto	buntót 
+that: iyan, iyon | iyan	iyon	iyón | isa	isá 
+that: iyon | iyan	iyon	iyón | isa	isá 
+there: d/r + oon | diyan	doon 
+they: sila | sila	silá 
+thick: kapal | makapal	makapál 
+think: isip | isip	isipin	mag-isip	magisip	magísip 
+think: somsomok | isip	isipin	mag-isip	magisip	magísip 
+thin: nipis | manipis	manipís 
+this: ito | ito	itó 
+thou: ikaw | ikaw	ka	kayo	kayó 
+thou: kayo | ikaw	ka	kayo	kayó 
+three: tatlo | tatlo	tatló 
+throw: hāgis | batohin	hagis	ibato	itápon	tapon 
+tie: tāliʔ | tali	talian	talíqan 
+tongue: dila | dila	dílaq 
+tongue: dīlaʔ | dila	dílaq 
+tooth: īpin | Nipin	ngipin	ŋípin 
+tooth: ngipin | Nipin	ngipin	ŋípin 
+tooth: ŋipin | Nipin	ngipin	ŋípin 
+tree: kāhoy | puno	punuNkahoy	punungkahoy 
+tree: puno | puno	punuNkahoy	punungkahoy 
+tree: punong kahoy | puno	punuNkahoy	punungkahoy 
+turn: baligtad | liko 
+two: dalawa | dalawa	dalawá 
+vomit: sūka | suka	sumuka	sumúka 
+walk: lakad | lakad	lumakad	lumákad	mag-lakad 
+warm: īnit | mainit	maqínit 
+wash: hugas | hugas	laba 
+water: tubig | tubig	túbig 
+we: kami, tayo | kami	kamí	tayo	táyo 
+we: tayo | kami	kamí	tayo	táyo 
+wet: basaʔ | basa	basáq 
+wet: mabasa | basa	basáq 
+what: ano | ano	anó 
+when: kailan | kailan	kaqilán 
+when: kaʔilan | kailan	kaqilán 
+where: saan | nasaan	saan	saqán 
+which: alin 
+white: puti | puti	putiq 
+white: putiʔ | puti	putiq 
+who: kanino | sino	síno 
+who: sīno | sino	síno 
+why: bākit 
+wide: lāpad | malapad	maluwag	malápad	malúwág 
+wife: asāwa | asawa	asawang babae	asáwaŋ babáqi	saswang babae 
+wind: hāŋin | hangin	háŋiŋ 
+wing: pakpak | pakpak	pakpák	papak 
+wipe: punas 
+with: kasama 
+woman: babae | babae	babáqi 
+woman: babāʔe/āle | babae	babáqi 
+worm: ūʔod | bulate	uod	uqód 
+wrong: maliʔ 
+year: anyo | taon	taqón 
+year: taʔon | taon	taqón 
+yellow: dilaw | dilaw	diláw 
+you: ikaw | ikaw	ka	kayo	kayó | ikaw	kayo	kayoŋ lahát 
+you: ikaw, ka | ikaw	ka	kayo	kayó | ikaw	kayo	kayoŋ lahát 
+every: lahat	lahát 
+ash: abo	abú 
+abdomen: tiyan	tiyán 
+bigness: malaki	malakí 
+breasts: suso	susu	súsu 
+burn tr.: masunog	masúnog 
+claw: kuko 
+nail: kuko 
+talon: kuko 
+come from: datiN	dating	datíŋ	pumunta 
+be dead: mamatay	patay	patáy 
+dead: mamatay	patay	patáy 
+ground: lupa 
+land: lupa 
+soil: lupa 
+fat: taba 
+fat n.: taba 
+grease: taba 
+lubricant: taba 
+oil: taba 
+fly: lipad	lumipad	lumipád 
+fly v.: lipad	lumipad	lumipád 
+left hand: kamay	kamáy 
+1 sg.: ako	akó 
+be knowledgeable: alam	alamin	alám 
+lie down: higa	hilata	humiga	humigáq 
+head louse: kuto	kútu 
+male: lalake	lalaki	laláki 
+much: marami 
+multiple: marami 
+several: marami 
+flesh: karne	laman 
+hill: bundok 
+title: Nalan	ngalan	paNalan	pangalan	paŋálan 
+nighttime: gabi	gabí 
+adulterous: isa	isá 
+single: isa	isá 
+the: isa	isá 
+unprincipled: isa	isá 
+human: ta:o	tao 
+human being: ta:o	tao 
+rainy weather: ulan	ulán 
+path: daan	dan	daqán	kalsada	lansangan 
+route: daan	dan	daqán	kalsada	lansangan 
+hide: balat	balát 
+little: maliit	maliqít	malit	munti 
+smallness: maliit	maliqít	malit	munti 
+rock: bato	batu	batú 
+2 sg: ikaw	ka	kayo	kayó 
+grind: dalawa	dalawá 
+go: lakad	lumakad	lumákad	mag-lakad 
+hot: mainit	maqínit 
+1 pl. inc.: kami	kamí	tayo	táyo 
+we₁: kami	kamí	tayo	táyo 
+whiteness: puti	putiq 
+who?: sino	síno 
+female: babae	babáqi 
+distant: malayo	maláyoq 
+serious: bigát	mabigat 
+close: malapit	malápit 
+ner: malapit	malápit 
+earthworm: bulate	uod	uqód 
+3 sg.: siya 
+she: siya 
+2 pl.: ikaw	kayo	kayoŋ lahát 
+ye: ikaw	kayo	kayoŋ lahát 
+you all: ikaw	kayo	kayoŋ lahát 
+3 pl.: sila	silá 
+where?: nasaan	saan	saqán 
+when?: kailan	kaqilán 
+how?: paano	papaqáno 
+broad: malapad	maluwag	malápad	malúwág 
+wideness: malapad	maluwag	malápad	malúwág 
+principal wife: asawa	asawang babae	asáwaŋ babáqi	saswang babae 
+his mother: ina	inay	iná	nanay 
+my mother: ina	inay	iná	nanay 
+his father: ama	amá	itay	tatay 
+my father: ama	amá	itay	tatay 
+woods: gubat	gúbat	kakahuyan 
+branch: patpat	sanga	saŋá 
+cord: lubid	tali	táliq 
+arm: kamay 
+gut: bituka	bitúka 
+insides: bituka	bitúka 
+intestine: bituka	bitúka 
+intestines: bituka	bitúka 
+breath: hinga	huminga	humiŋá 
+laughter: tawa	tumawa	tumáwa 
+cogitate: isip	isipin	mag-isip	magisip	magísip 
+reflect: isip	isipin	mag-isip	magisip	magísip 
+sniff: amoy	amuyin	amuyín 
+afraid: matakot	takot	tákut 
+be afraid: matakot	takot	tákut 
+fright: matakot	takot	tákut 
+alive: buhay	búhay	mabuhay 
+be alive: buhay	búhay	mabuhay 
+life: buhay	búhay	mabuhay 
+living: buhay	búhay	mabuhay 
+beat: hampas	itápun	paluin	pumalo	tama 
+strike: hampas	itápun	paluin	pumalo	tama 
+hack: pumutol	putol	putúlin 
+cut open: biyak	biyakin	biyakín	hati 
+pierce: manaksak	saksak	saksakin	saksakín	sasakin 
+tell lies: higa	hilata 
+turn around: liko 
+turn round: liko 
+drop: bumagsak	bumaksak	hulog	mahúlog 
+grasp: hawak	hawakan	hawákan 
+hold in arm: hawak	hawakan	hawákan 
+wring: pigain	pigaqín	pisil 
+wash clothes: hugas	laba 
+shove: tulak 
+bind: tali	talian	talíqan 
+fasten: tali	talian	talíqan 
+tie up: tali	talian	talíqan 
+enumerate: bilang	magbilang	magbílaŋ 
+number: bilang	magbilang	magbílaŋ 
+tally: bilang	magbilang	magbílaŋ 
+have fun: laro 
+brook: ilog 
+stream: ilog 
+ocean: dagat	laot	láud 
+blaze: sunogin 
+daylight: araw 
+daytime: araw 
+evil: masama	masamáq 
+rot: bulok	mabáhoq	nangamoy 
+filthy: madumi	marumi 
+soiled: madumi	marumi 
+blunt: mapurol	mapuról	pudpod 
+damp: basa	basáq 
+right side: kanan	kánan 
+inside: [sa] loqób	loob	sa	sa loob 

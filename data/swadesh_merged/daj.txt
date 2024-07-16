@@ -1,0 +1,420 @@
+all: ŋadəŋ 
+all: ŋaːdiŋ | ŋadəŋ 
+animal: orai 
+arm: ande 
+arm: (ŋas˗)ande 
+ashes: uskuče | uskuče 
+back: oŋ˗ | oŋe 
+back: oŋe 
+bad: labəːr | rabar 
+bad: rabar 
+bark: kabwindiče 
+belly: šəmeː | šəmeː 
+belly: šim˗ | šəmeː 
+big: klaŋ 
+bird: awade 
+bite: akas 
+bite: kasa | akas 
+black: ǯil | ǯil 
+black: ǯ\illa~ǯiəːli | ǯil 
+blood: tamake | tamake	tamaːke 
+blood: tamaːke | tamake	tamaːke 
+blow: uːsa 
+blow: usu | uːsa 
+bone: ŋaiwiče | NuyuTe	ŋayuče 
+bone: ŋayuče | NuyuTe	ŋayuče 
+boy: čecě 
+boy: prače 
+breast: ɲidiče | 5idige	ɲidige 
+breast: ɲidige | 5idige	ɲidige 
+breathe: uŋu | uːŋu 
+breathe: uːŋu 
+burn: toro 
+burn: tuɲ 
+child: čeče | čeče 
+child: prače | čeče 
+claw: ɲuruče | ɲuruče 
+cloud: madaldage | sidie 
+cloud: sidie 
+cold: krkə\ər | krkr 
+cold: krkr 
+come: ɓoǃ | bo	ɓò! 
+come: ɓòǃ | bo	ɓò! 
+correct: todeːn 
+count: aŋgane | ŋande 
+count: ŋande 
+cut: aštu | biri 
+cut: biri 
+cut: teme | biri 
+cut: ušta | biri 
+day: səŋge 
+die: ˗rsa | -rsa	3rsa 
+dig: aɓoːso 
+dirty: kindič | kindič 
+dog: iːse | is	iːse 
+drink: awuri 
+drink: wur 
+dry: kamas | kamaːs 
+dry: kamaːs 
+dust: kurkure | lagge 
+dust: lagge 
+earth: səke 
+earth: səkke 
+ear: unde | unde	und~e 
+ear: unute | unde	und~e 
+eat: asie 
+egg: olagiče 
+eye: oŋone | oNone	oŋone 
+fall: ˗deləŋ | təːləŋ 
+fall: təːləŋ 
+far: traːŋ 
+father: baba 
+father: me˗ | baba 
+fat (n.): mide 
+fat (n.): mwide 
+fear: ɲaga 
+feather: abahke | apake 
+feather: apake 
+few: čəke~siɲəŋ | siɲəŋ	čəke 
+few: pršoi | siɲəŋ	čəke 
+fight: poga 
+finger: ande ma siɲəɲ 
+fingernail: ɲuruče | ɲuruče 
+finger: pr˗ande 
+fire: maːse | mase	maːse 
+fish: asiče | asiTe	asiče 
+fish: askiče | asiTe	asiče 
+five: madak | mədək	mɛdɛk 
+five: mədək | mədək	mɛdɛk 
+float: awaɲ 
+float: wada | awaɲ 
+flow: borso 
+flow: ɓoːso | borso 
+flower: tudulusie 
+fly (n.): oŋorče 
+fly (n.): oŋoriče 
+fly (v.): oyo 
+foot: ere 
+foot: erne | ere 
+four: tešpe | tešpe 
+full: kəpəs 
+full: kəpəss 
+full: pis˗i | kəpəs 
+give: datta~tuwa | togi! 
+give: togiǃ | togi! 
+good: šagalda | šeːdi 
+good: šeːdi | šeːdi 
+grass: ɲariče | ɲariče 
+green: lašəra | rafar 
+green: rafar 
+guts: kaǯalboke | kočolboke 
+guts: kočolboke | kočolboke 
+hair: abahiče | apače 
+hair: apače | apače 
+hand: ande | ande	and~e 
+hand: (ŋas˗)ande | ande	and~e 
+head: əse 
+head: sə˗ | əse 
+hear: šue | aSu	šue 
+heart: koŋokse 
+heavy: tədər 
+heavy: todoŋa | tədər 
+he/she: aba 
+hit: auda 
+hit: awe | auda 
+hole: buːde 
+hole: ɓuːde 
+horn: yače | yaTe	yače 
+hunt: daːre 
+hunt: ŋgaige | daːre 
+I: aga 
+I: agə | aga 
+kill: abahe | paha 
+kill: paha 
+knee: šiŋde | SiNde	šiŋde 
+know: wurse 
+lake: luːgune 
+lake: palbale | luːgune 
+laugh: akuku 
+laugh: kugu | akuku 
+leaf: unde˗ette | unde-ette	undete 
+leaf: unu˗t˗ette | unde-ette	undete 
+left: ɲogole 
+leg: ere 
+leg: erne | ere 
+liver: muče | muTe	muče 
+long: loi 
+louse: taŋgariče | t3Ng~erTe 
+louse: təŋgariče | t3Ng~erTe 
+man: pabaŋe | kine 
+man: yohe | kine 
+many: wei 
+meat: iːye 
+moon: asmix | emšere 
+moon: emšere | emšere 
+mother: ɓo˗ | yaː 
+mother: yaː 
+mountain: čabre | Tabre	ŋaɲǯe 
+mountain: ŋaɲǯe | Tabre	ŋaɲǯe 
+mouth: əkke 
+mouth: ikke | əkke 
+name: aŋge | aNg~e	aŋge 
+narrow: kerekua | siɲəŋ 
+narrow: siɲəŋ 
+near: ɲətək 
+near: ɲitək | ɲətək 
+neck: ameče | aməče 
+neck: aməče | aməče 
+new: lašiəːr | taTiNa	taːǯəŋa 
+new: taːdʒiŋa | taTiNa	taːǯəŋa 
+new: taːǯəŋa | taTiNa	taːǯəŋa 
+night: ode˗ǯil | ode-ǯil	odeTil 
+night: woŋe | ode-ǯil	odeTil 
+old: klaida 
+one: nowane 
+person: ɓegeniče | kine 
+person: kine 
+play: cora 
+play: waɲe | cora 
+pull: mɓada 
+pull: mbai 
+push: asaǯ\e 
+push: iča 
+rain: kore 
+rain: korne | kore 
+rat: ɲəŋse 
+rat: ɲiŋse 
+red: pr 
+red: prra 
+right: ande˗siake | ande	and~e | morsolle 
+right: morsolle | ande	and~e 
+river: alale 
+river: čeloːŋgo | alale 
+road: soːge | soge 
+road: ˗sok | soge 
+rope: sitte 
+rotten: komoːsə | meɲ 
+rotten: meɲ 
+round: kleŋ 
+rub: mo 
+rub: mua | mo 
+salt: kologoče | kologoče 
+salt: ŋgəloke | kologoče 
+sand: čakčagaida | čəkčəgaide 
+sand: čəkčəgaide | čəkčəgaide 
+say: auǯei | auǯei	libi | čəkčəgaide 
+say: libi | auǯei	libi | čəkčəgaide 
+say: ŋada | auǯei	libi | čəkčəgaide 
+say: or | auǯei	libi | čəkčəgaide 
+scratch: ŋgor | ŋgoroɲ 
+scratch: ŋgoroɲ 
+seed: šəbeke | šəbeke 
+seed: šəbke | šəbeke 
+see: ɲe | 5e	ɲe 
+see: oːro | 5e	ɲe 
+sew: aːra 
+sew: are | aːra 
+sharp: wiː 
+sharp: wiya | wiː 
+short: tələŋ 
+short: tələŋa 
+sing: alaŋiče | laŋiči 
+sing: laŋiči | laŋiči 
+sit: uča | uču 
+sit: uču | uču 
+skin: ɗokande | morte 
+skin: morte 
+sky: kore 
+sky: korne | kore 
+sleep: səŋda 
+sleep: səŋga | səŋda 
+small: pršoi | siɲəŋ 
+small: siɲəŋ 
+smoke: ləge | ləgge 
+smoke: ləgge 
+smooth: parišpait | parišpait 
+smooth: pričprič | parišpait 
+snake: kohkane | kokane 
+snake: kokane 
+spit: aləke | čeda 
+split: ɗete | detta 
+split: detta 
+squeeze: amoso | moːso 
+squeeze: moːso 
+squeeze: šək | moːso 
+stand: iša | iša 
+star: ɲeče | 5eTe	ɲeče 
+star: ɲiɲiče | 5eTe	ɲeče 
+stone: čabre | Na5T~e	ŋaɲǯe 
+stone: ŋaɲǯe | Na5T~e	ŋaɲǯe 
+suck: ban | bana 
+suck: bana 
+sun: oroŋe | oroNe	oroŋe 
+sun: roːŋe | oroNe	oroŋe 
+sweet: təmohke 
+sweet: tomohe 
+swell: kəbeŋ 
+swell: kə˗bəŋ 
+swim: awaɲ 
+swim: wada | awaɲ 
+tail: iːbe 
+take: bagaǃ 
+take: bake 
+they: ana 
+thick: timič | timič 
+thick: timig | timič 
+thin: waːr 
+thou: igi 
+thou: iŋgi | igi 
+thou: oŋgo | igi 
+three: kodos 
+throw: aše | ǯebe 
+throw: ǯebe | ǯebe 
+tie: akse 
+tongue: ɲabre | 5abre	ɲabre 
+tooth: ɲarte | 53rte	ɲarte 
+tooth: ɲərte | 53rte	ɲarte 
+tree: ette | ete 
+turn: čeŋ 
+turn: lət 
+two: pəda | p3ka	pəda	pɛda 
+two: pədah | p3ka	pəda	pɛda 
+vomit: bəge | pəge 
+vomit: pəge 
+walk: awede 
+walk: borso 
+walk: ɓoːso 
+walk: wede 
+warm: tabi 
+warm: təbeːi 
+wash: aɗaye | daye 
+wash: daye 
+water: əŋge | 3Ng~e	əŋge 
+water: maːge | 3Ng~e	əŋge 
+we: aško~wisko | iSoNg~a 
+we: išoŋga | iSoNg~a 
+wet: ɲidak 
+wet: ɲidaːk | ɲidak 
+what: ɗira | dua 
+what: dua 
+when: pohki | poːki 
+when: poːki 
+where: mandida | mintia 
+where: mintia 
+white: paš | paš 
+who: məna 
+wind: megede 
+wind: megene | megede 
+wing: uduče | uduče 
+wing: udug | uduče 
+wipe: eːgere | saɲa 
+wipe: saɲa 
+woman: wəre 
+woman: wure | wəre 
+wood: čelaŋe 
+wood: čelaːŋe 
+worm: ohoče | ohoče 
+worm: uhuče | ohoče 
+year: senene 
+year: ǯene | senene 
+yellow: pušša 
+every: ŋadəŋ 
+ash: uskuče 
+abdomen: šəmeː 
+bigness: klaŋ 
+large: klaŋ 
+breasts: 5idige	ɲidige 
+nail: ɲuruče 
+talon: ɲuruče 
+come from: bo	ɓò! 
+be dead: -rsa	3rsa 
+dead: -rsa	3rsa 
+fly: oyo 
+fly v.: oyo 
+left hand: ande	and~e 
+1 sg.: aga 
+be knowledgeable: wurse 
+head louse: t3Ng~erTe 
+male: yohe 
+much: wei 
+multiple: wei 
+several: wei 
+hill: Tabre	ŋaɲǯe 
+title: aNg~e	aŋge 
+nighttime: ode-ǯil	odeTil 
+nose: mone 
+adulterous: nowane 
+single: nowane 
+that: nowane 
+the: nowane 
+unprincipled: nowane 
+human: kine 
+human being: kine 
+rainy weather: kore 
+path: soge 
+route: soge 
+hide: morte 
+little: siɲəŋ 
+smallness: siɲəŋ 
+rock: Na5T~e	ŋaɲǯe 
+2 sg: igi 
+you: igi 
+grind: p3ka	pəda	pɛda 
+1 pl. inc.: iSoNg~a 
+we₁: iSoNg~a 
+whiteness: paš 
+who?: məna 
+female: wəre 
+distant: traːŋ 
+dull: tədər 
+serious: tədər 
+close: ɲətək 
+ner: ɲətək 
+earthworm: ohoče 
+2 pl.: oŋgo 
+ye: oŋgo 
+you all: oŋgo 
+3 pl.: ana 
+where?: mintia 
+when?: poːki 
+fat: mide 
+his mother: yaː 
+my mother: yaː 
+his father: baba 
+my father: baba 
+cord: sitte 
+flesh: iːye 
+grease: mide 
+gut: kočolboke 
+insides: kočolboke 
+intestine: kočolboke 
+intestines: kočolboke 
+breath: uːŋu 
+laughter: akuku 
+smell: ŋoːso 
+sniff: ŋoːso 
+beat: auda 
+strike: auda 
+hack: biri 
+cut open: detta 
+pierce: aštu 
+stab: aštu 
+drop: təːləŋ 
+wring: moːso 
+wash clothes: daye 
+bind: akse 
+fasten: akse 
+tie up: akse 
+enumerate: ŋande 
+number: ŋande 
+tally: ŋande 
+have fun: cora 
+brook: alale 
+stream: alale 
+evil: rabar 
+rot: meɲ 
+filthy: kindič 
+soiled: kindič 
+blunt: dukum 
+damp: ɲidak 
+right side: morsolle 

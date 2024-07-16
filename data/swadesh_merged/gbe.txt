@@ -1,0 +1,361 @@
+all: lipɔφi awɛle uwɛ waʔalɛ | towarei	toʔowale 
+all: toʔowale | towarei	toʔowale 
+all: towarei | towarei	toʔowale 
+animal: lakaʲ 
+arrow: ɪnɛheʲ 
+arrow: yɛne 
+ashes: (yɛ) ʔi | yɛ yɛʔi	yɛʔi 
+ashes: (yɛ) yɛʔi | yɛ yɛʔi	yɛʔi 
+back: mɛki 
+back: moki 
+bad: koane pɛle 
+bad: koan pɛle 
+bark: (me) a | a	me a 
+bark: (me) ɛpeʲ | a	me a 
+belly: diho | hane 
+belly: hane 
+belly: pɔʔɔφi | hane 
+big: hɔʔɔʲ | towa 
+big: towa 
+bird: ape 
+bird: apɛ | ape 
+bite: aʷɛ | aᵘwɛ 
+bite: ani | aᵘwɛ 
+black: koposuawe | yɛleawe 
+black: yɛleawe 
+blood: mateʲ | matey nayo	mateⁱ	naⁱsɔ 
+blood: mateʲ naʲɔ | matey nayo	mateⁱ	naⁱsɔ 
+bone: pɛkɛli | pokola	pokolɛ 
+bone: pokolɛ | pokola	pokolɛ 
+boy: mane komo 
+boy: man(o)kom 
+breast: moʔu | mo7u	moʔu 
+breast: mɔʔu | mo7u	moʔu 
+brother: aluʔo 
+brother: yatoa 
+burn: (yɛ) liφo 
+burn: (yɛ) wɛli 
+child: mane lɔku 
+child: man loku 
+chin: aʲpoke 
+chin: apuɛli 
+claw: (ape) yokolu | ape yokolu	yokolu 
+claw: yokolu | ape yokolu	yokolu 
+cloud: niakɛle 
+cloud: nia kɛli | niakɛle 
+cold: naʔalaʲ | naʔalaⁱ 
+cold: nelɛʔaʲo | naʔalaⁱ 
+come: suyaʷa | suyaw~a	suyaᵘwa 
+come: yaʷo | suyaw~a	suyaᵘwa 
+crocodile: sinapi 
+day: nɪli φaʲ 
+day: no nɛlihaʲ 
+die: naʲɛ | naya	naⁱʔɛ 
+die: onɛʔe | naya	naⁱʔɛ 
+dog: yawi 
+drink: aseʲaʔe | maᵘwɛ	osei maw~a	ɔsei maᵘwɛ 
+drink: (ɔsei) maʷɛ | maᵘwɛ	osei maw~a	ɔsei maᵘwɛ 
+dry: ave | yɛli 
+dry: yɛli 
+ear: ope 
+ear: pɛni | ope 
+earth: mopɛli 
+earth: nepɛli | mopɛli 
+eat: maʷ | maᵘwɔ 
+eat: maʷɔ | maᵘwɔ 
+egg: (ape) naha | ape naha	naha 
+egg: apu wɛti | ape naha	naha 
+elbow: lɔti oʷo 
+elbow: lɔti pɔke 
+emu: (lakaʲ woloʷ 
+emu: (lakaʲ φapa 
+eye: ni | nina 
+eye: nina 
+eye: ni naφɛ | nina 
+fall: hawɛʔ ɔwe 
+fall: sɔl wihowɛ 
+far: no nuʔɛ 
+far: upaʲe | no nuʔɛ 
+father: asua 
+father: ilaʲ 
+fat (n.): waʷ 
+feather: (ape) o | ape o	o 
+feather: (apo) o | ape o	o 
+finger: nomalu 
+finger: nome 
+finger: nomɔlu 
+fire: yɛ | ya	yɛ 
+fish: ɛne | ane	ɛne 
+five: kele 
+five: kɛliʔe 
+fly (v.): ineneyɛ 
+fly (v.): ɪnɛhiu 
+foot: wali tɔli | wiku ahɛ 
+foot: wiku ahɛ 
+forehead: mahɛ 
+forehead: maφile 
+forest: mɔkɔlo 
+four: kɔlɔlu 
+four: kɔlɔluʔo 
+full: hi pile | ohose7e	ohoseʔe 
+full: ohoseʔe | ohose7e	ohoseʔe 
+girl: awɛlɛ man 
+girl: awɛne mane 
+give: sahaʷ | sɔnɔ 
+give: sɔnɔ 
+good: akoan | koane 
+good: koane 
+green: nolopaʲyaʷe | noreawe 
+green: noreawe 
+hair: (o) naφɛlo | nohõle	oᵘ nohõle 
+hair: (oʷ) noho͂le | nohõle	oᵘ nohõle 
+hand: lɔti | loti naha 
+hand: loti naha 
+head: ʔoʷ | oᵘ 
+head: oʷ | oᵘ 
+hear: ana owano | sowano 
+hear: sowano 
+heart: ɪnahɛ 
+heart: yɛnaφo | ɪnahɛ 
+heavy: hɛʔeyo | hoʔo yoʔeɔ 
+heavy: hoʔo yoʔeɔ 
+he/she: ɛle 
+he/she: le 
+hit: oφɔlu 
+hold: sane 
+house: wɔi 
+house: wɔʔi 
+I: an | ane 
+I: ane 
+kill: naiʲiyɛ | naiⁱhiyɛ 
+kill: onane ɛ | naiⁱhiyɛ 
+knee: luɛti | uati	uɛti 
+knee: uɛti | uati	uɛti 
+know: tɛtɛte aʲ | tote iyaʔɛ 
+know: tote iyaʔɛ 
+laugh: nɛsaʲyowa 
+laugh: ɪnsai 
+leaf: (me) o | me o	o 
+leg: wɔli 
+leg: wore 
+lie: mɛkiɛyɛ 
+lie: φɔaʲ 
+liver: waφe | wape	waɸe 
+long: aʲiʔɛ | aⁱniʔɛ 
+long: ai niʔi | aⁱniʔɛ 
+louse: (oʷ) nome | ow~ nome 
+louse: (o) nɔme | ow~ nome 
+man: lihi 
+man: lipofi | lihi 
+many: lipɔφi liɛliʔɛ toφuʔu | towarei	toʔowale 
+many: toʔowale | towarei	toʔowale 
+many: towarei | towarei	toʔowale 
+meat: (lakaʲ nɛme 
+meat: nɛm 
+moon: oʷe | oᵘhe 
+moon: paʔʲyaʷe | oᵘhe 
+morning: kapɛli paʲ 
+morning: no sɛlioko 
+mother: ma 
+mother: mɔ 
+mountain: oho ~ oxo | oho	oxo 
+mountain: wolowɛʔi | oho	oxo 
+mouth: aʲɛ | aⁱyɛ 
+mouth: ai | aⁱyɛ 
+name: wi | wi7a	wiʔɛ 
+name: wiʔɛ | wi7a	wiʔɛ 
+near: liale 
+neck: ilɔʔo 
+neck: loʔo | ilɔʔo 
+new: hagitɔφio | nole	nɔle 
+new: nɔle | nole	nɔle 
+night: no sɛlimeye | no salimeye	no sɛlimeye 
+night: paʲ meʲ | no salimeye	no sɛlimeye 
+not: naʷ | pɛle 
+not: pɛle 
+not: pi | pɛle 
+not: φau | pɛle 
+old: asɛpaʲ 
+old: eawon 
+old: ɛlipoφi 
+old: kɔlio 
+old: koreɔ 
+old: lihi ɛʲ 
+one: nome 
+one: tɔpakɛli | nome 
+rain: no 
+rat: (lakaʲ wamu 
+rat: wamo 
+red: mɛhiaʲawe | mɛhiaⁱyawe 
+red: mɛφi yaʷe | mɛhiaⁱyawe 
+river: asei e 
+river: ɔsei towa 
+road: pɛne | pane 
+road: yɔ yaʲ | pane 
+root: (me) mɛti | me mɛti	mɛti 
+root: (me) napi | me mɛti	mɛti 
+round: me o eoʲɔle | me o eoⁱwɔle 
+round: yaʔui aʲ | me o eoⁱwɔle 
+salt: saʲ | saⁱ 
+sand: ɛline 
+say: se 
+say: suɛʔe | se 
+seed: (me) ave | me naha	naha 
+seed: (me) naha | me naha	naha 
+see: mɛnaʷɔ | manaw~o	mɛnaᵘwɔ 
+see: oneʲ | manaw~o	mɛnaᵘwɔ 
+short: ɛφiaʷ 
+short: ohiaʷ 
+shoulder: ale 
+shoulder: yoko 
+sister: awɛn nomotɛ toa 
+sister: nomoto 
+sit: ɔwe | solowe 
+sit: solowe 
+skin: a 
+skin: ɛbaʲ 
+sleep: φoaʲe 
+small: hɔ ɔngomɛ | pɛseaʔane 
+small: hɔ wɛsɛʔi | pɛseaʔane 
+small: pɛseaʔane 
+smoke: (ye)sɛ | yaⁱse	yɛ yaⁱse 
+smoke: (yɛ) yaʲe | yaⁱse	yɛ yaⁱse 
+snake: maʲe | maⁱʔe 
+snake: mɛʔɛ | maⁱʔe 
+spit: samɛni 
+spit: yowoʔe 
+stand: ɛʲɛ 
+stand: mʌmɛ sɛʔin aʲowe 
+star: aʷehe | aw~ehe	aᵘwehe 
+star: yaʷtuaφe | aw~ehe	aᵘwehe 
+stone: paʔe | pa7e	paʔe 
+stone: paʔɛ | pa7e	paʔe 
+stone: yakiʔ | pa7e	paʔe 
+sun: yaʲ | yei 
+sun: yei 
+swim: asei oφihɛneʔi | oɸi nei hoʔo 
+swim: oφi nei hoʔo | oɸi nei hoʔo 
+tail: (yawi) apaʲɛni | apaⁱyɛni	yawi apaⁱyɛni 
+tail: (yawi) yɪni | apaⁱyɛni	yawi apaⁱyɛni 
+that: omose 
+that: si | omose 
+they: loho 
+they two: hɔʔi 
+they two: neoʔi 
+they: φɛn 
+think: sɛtote 
+think: setɔtɛ kɛti 
+this: sea selihi 
+this: tetɛte | sea selihi 
+thou: hene | hene	ne 
+thou: ne | hene	ne 
+thou: pofi toleʲ | hene	ne 
+thou: φɛne | hene	ne 
+three: hahalo 
+three: loʷɛli 
+tomorrow: wɛhɛ 
+tomorrow: wɔφaʲ 
+tongue: soluwɛ | soluwa	soluwɛ 
+tongue: sɔluwɛ | soluwa	soluwɛ 
+tooth: pina 
+tooth: pinaφo 
+tree: me 
+two: hɔʔi | nomolu	nomɔlu 
+two: nomɔlu | nomolu	nomɔlu 
+vomit: e 
+walk: aʲ | si 
+walk: iaʲ | si 
+walk: nʌla naʲɛ | si 
+walk: si 
+wallaby: (lakaʲ wasin 
+wallaby: pɛsi 
+warm: mɔleyo 
+warm: tomɛni 
+warm: yɔlɛme 
+water: asaə^ | osei 
+water: osei 
+we (excl.): noho 
+we (excl.): noφu 
+wet: no koloyɛ 
+wet: sɛliou 
+we two (excl.): natɛtape hɛsɛ 
+we two (excl.): nɛtahoʔi 
+what: ɛlɛ pi ɪnaφe | piʔɛne 
+what: piʔɛne 
+when: ne hɔle yelal 
+when: pi nɛφi 
+where: pi awaʲ 
+where: φu tei 
+white: wapoawe | wapuawe 
+white: wapuawe 
+who: ne hɔle neo 
+who: φulu ɛφɛ | ne hɔle neo 
+wind: hiale | hiale	noloha 
+wind: noloha | hiale	noloha 
+wind: no wiʔu | hiale	noloha 
+wing: (ape) amai 
+wing: (apo) maʲ 
+woman: awane 
+woman: awɛn | awane 
+woman: awɛnɛ | awane 
+wood: kau 
+wood: (me) ɪlipe 
+yellow: hɛte awe | oteawe 
+yellow: oteawe 
+yes: io 
+yesterday: wɛhɛ 
+yesterday: wɔφɛ 
+yes: yei 
+you two: haneoʔi 
+you two: φɛnɛhɔʔi 
+every: towarei	toʔowale 
+ash: yɛ yɛʔi	yɛʔi 
+abdomen: hane 
+bigness: towa 
+large: towa 
+breasts: mo7u	moʔu 
+nail: ape yokolu	yokolu 
+talon: ape yokolu	yokolu 
+come from: suyaw~a	suyaᵘwa 
+be dead: naya	naⁱʔɛ 
+dead: naya	naⁱʔɛ 
+ground: mopɛli 
+land: mopɛli 
+soil: mopɛli 
+fly: ineneyɛ 
+fly v.: ineneyɛ 
+left hand: loti naha 
+right: loti naha 
+1 sg.: ane 
+be knowledgeable: tote iyaʔɛ 
+head louse: ow~ nome 
+male: lihi 
+much: towarei	toʔowale 
+multiple: towarei	toʔowale 
+several: towarei	toʔowale 
+hill: oho	oxo 
+title: wi7a	wiʔɛ 
+nighttime: no salimeye	no sɛlimeye 
+nose: koki 
+adulterous: nome 
+single: nome 
+the: nome 
+unprincipled: nome 
+rainy weather: no 
+path: pane 
+route: pane 
+little: pɛseaʔane 
+smallness: pɛseaʔane 
+rock: pa7e	paʔe 
+2 sg: hene	ne 
+you: hene	ne 
+grind: nomolu	nomɔlu 
+go: si 
+whiteness: wapuawe 
+who?: ne hɔle neo 
+female: awane 
+distant: no nuʔɛ 
+dull: hoʔo yoʔeɔ 
+serious: hoʔo yoʔeɔ 
+close: liale 
+ner: liale 

@@ -1,0 +1,333 @@
+all: tou 
+every: tou 
+ash: ceniza 
+ashes: ceniza 
+bark: corteya 
+abdomen: banduyu	barriga 
+belly: banduyu	barriga 
+big: grande 
+bigness: grande 
+large: grande 
+bird: ave	páxaru 
+bite: morder 
+black: negru	prietu	ñegru 
+blood: saNgre	sangre 
+bone: güesu	uesu 
+breast: peCu	pechu 
+breasts: peCu	pechu 
+cloud: nube	ñube 
+cold: fríu 
+come: venir 
+come from: venir 
+be dead: morrer 
+dead: morrer 
+die: morrer 
+dog: perra	perru 
+drink: beber 
+dry: secu 
+ear: oreya 
+earth: tierra 
+ground: tierra 
+land: tierra 
+soil: tierra 
+eat: comer 
+egg: güevu 
+eye: güeyu	ueyu 
+feather: pluma 
+fire: fueu	llume 
+fish: peSe	pexe 
+fly: esñalar	volar 
+fly v.: esñalar	volar 
+foot: pie 
+full: Lena	Leno	Lenu	enllenu 
+give: dar 
+good: bonu 
+green: verde 
+hair: pelo	pelu 
+hand: mano 
+left hand: mano 
+right: mano 
+head: cabeza	tiesta 
+hear: oyer	sentir 
+heart: corazón 
+horn: cuernu	kuernu 
+1 sg.: yo 
+I: yo 
+kill: matar 
+knee: rodia	rodiya 
+be knowledgeable: saber 
+know: saber 
+leaf: fueya 
+liver: fégadu 
+long: llargu	llongu 
+head louse: pioyu 
+louse: pioyu 
+male: home 
+man: home	persona 
+many: munchos 
+much: munchos 
+multiple: munchos 
+several: munchos 
+moon: lluna 
+hill: monte 
+mountain: monte 
+mouth: boca 
+name: nome 
+title: nome 
+neck: pescuezu 
+new: nueva	nuevo	nuevu 
+night: nueCe	nueche 
+nighttime: nueCe	nueche 
+nose: nari8es	ñariz 
+not: non	nun 
+adulterous: un	una	uno 
+one: un	una	uno 
+single: un	una	uno 
+that: aquel	aquelli	esi 
+the: un	una	uno 
+unprincipled: un	una	uno 
+human: home	persona 
+human being: home	persona 
+person: home	persona 
+rain: agua	lloviu 
+rainy weather: agua	lloviu 
+red: bermeyu	colloráu 
+path: camín	kamin 
+road: camín	kamin 
+route: camín	kamin 
+root: raigón	raíz 
+round: redondu 
+sand: arena	sable 
+say: dicir 
+see: ver 
+seed: semiente 
+sit: sentase 
+hide: pelleyu	piel 
+skin: pelleyu	piel 
+sleep: dormir 
+little: pequeñu 
+small: pequeñu 
+smallness: pequeñu 
+smoke: fumu 
+star: estrella 
+rock: piedra 
+stone: piedra 
+sun: sol 
+swim: nadar	ñadar 
+tail: rabu 
+this: esti 
+2 sg: tu 
+thou: tu 
+you: tu 
+tongue: llingua	paladar 
+tooth: diente 
+tree: arbol	árbol 
+grind: dos 
+two: dos 
+go: andar 
+walk: andar 
+hot: caliente 
+warm: caliente 
+water: agua 
+1 pl. inc.: nos	nosotros	nós 
+we: nos	nosotros	nós 
+we₁: nos	nosotros	nós 
+what: qué 
+white: blancu 
+whiteness: blancu 
+who: quien 
+who?: quien 
+female: muyer 
+woman: muyer 
+yellow: mariellu 
+distant: lloñe 
+far: lloñe 
+dull: pesáu 
+heavy: pesáu 
+serious: pesáu 
+close: cerca 
+near: cerca 
+ner: cerca 
+salt: sal 
+short: curtiu 
+snake: culiebra 
+thin: delgáu 
+wind: aire	vientu 
+earthworm: cocu	guxán	viérbene 
+worm: cocu	guxán	viérbene 
+year: añu 
+3 sg.: elli	él 
+he: elli	él 
+she: elli	él 
+2 pl.: vosotros	vós 
+ye: vosotros	vós 
+you all: vosotros	vós 
+3 pl.: ellos 
+they: ellos 
+here: equí 
+there: ehí	ellí 
+where: aú	onde	u 
+where?: aú	onde	u 
+when: cuando 
+when?: cuando 
+how: como 
+how?: como 
+some: dalgún 
+few: pocu 
+other: otru 
+three: tres	trés 
+four: cuatro	cuatru 
+five: cinco	cincu 
+broad: anchu 
+wide: anchu 
+wideness: anchu 
+fat: grasa	untu 
+thick: gruesu 
+narrow: estrechu	estrenchu 
+child: guaḥe	neñu 
+principal wife: esposa	muyer 
+wife: esposa	muyer 
+husband: esposu	home	maríu 
+his mother: ma	madre 
+mother: ma	madre 
+my mother: ma	madre 
+father: padre	pá 
+his father: padre	pá 
+my father: padre	pá 
+animal: animal 
+forest: viesca 
+woods: viesca 
+branch: palu 
+stick: palu 
+fruit: frutu 
+flower: flor 
+grass: yerba 
+cord: cuerda 
+rope: cuerda 
+flesh: carne 
+meat: carne 
+grease: grasa	untu 
+claw: uña 
+fingernail: uña 
+nail: uña 
+leg: pierna 
+arm: mano 
+wing: ala 
+gut: coraes 
+guts: coraes 
+insides: coraes 
+intestine: coraes 
+intestines: coraes 
+back: llombu 
+suck: chupar 
+spit: cuspir 
+vomit: vomitar 
+blow: soplar 
+breath: alendar	respirar 
+breathe: alendar	respirar 
+laugh: rir 
+laughter: rir 
+cogitate: pensar 
+reflect: pensar 
+think: pensar 
+smell: arrecender	goler 
+sniff: arrecender	goler 
+afraid: amedranar	tener mieu 
+be afraid: amedranar	tener mieu 
+fear: amedranar	tener mieu 
+fright: amedranar	tener mieu 
+alive: vivir 
+be alive: vivir 
+life: vivir 
+live: vivir 
+living: vivir 
+fight: lluchar 
+hunt: cazar 
+beat: bater	golpiar 
+hit: bater	golpiar 
+strike: bater	golpiar 
+cut: cortar 
+hack: cortar 
+cut open: partir 
+split: partir 
+pierce: apuñalar 
+stab: apuñalar 
+scratch: esgatuñar	raspiar 
+dig: cavar 
+lie: echase 
+lie down: echase 
+tell lies: echase 
+stand: tar de pie 
+turn: voltiar 
+turn around: voltiar 
+turn round: voltiar 
+drop: cayer 
+fall: cayer 
+grasp: sofitar	sostener 
+hold: sofitar	sostener 
+hold in arm: sofitar	sostener 
+squeeze: apertar 
+wring: apertar 
+rub: esfregar 
+wipe: ensugar 
+wash: llavar 
+wash clothes: llavar 
+pull: tirar 
+push: emburriar 
+shove: emburriar 
+throw: llanzar 
+bind: atar 
+fasten: atar 
+tie: atar 
+tie up: atar 
+sew: coser 
+count: contar 
+enumerate: contar 
+number: contar 
+tally: contar 
+sing: cantar 
+have fun: xugar 
+play: xugar 
+float: flotar 
+flow: afluyir 
+freeze: xelar 
+swell: hinchir 
+brook: ríu 
+river: ríu 
+stream: ríu 
+lake: llagu 
+ocean: mar 
+sea: mar 
+dust: polvu	povisa 
+fog: borrina 
+sky: cielu 
+snow: nieve	ñeve 
+ice: xelu 
+blaze: quemar 
+burn: quemar 
+day: día 
+daylight: día 
+daytime: día 
+old: vieyu 
+bad: malu 
+evil: malu 
+rot: podre 
+rotten: podre 
+dirty: gochu 
+filthy: gochu 
+soiled: gochu 
+straight: rectu	reutu 
+sharp: afiláu 
+blunt: ciegu 
+smooth: suave 
+damp: húmedu	llentu 
+wet: húmedu	llentu 
+correct: correctu	correutu 
+right side: derecha	drecha 
+left: esquierda	izquierda 
+at: a	en	pa 
+in: en 
+inside: en 
+with: con 
+if: si 
+because: porque 

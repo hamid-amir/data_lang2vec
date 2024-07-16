@@ -1,0 +1,141 @@
+all: evu	tɑndeŋge 
+every: evu	tɑndeŋge 
+ash: poqaq	poqoq	pɔqɑq 
+ashes: poqaq	poqoq	pɔqɑq 
+bark: gəyna ŋgusu	ŋgusum 
+abdomen: ɣandàm	ˠɑndɑm 
+belly: ɣandàm	ˠɑndɑm 
+big: fiswàm	kɑndɑmba 
+bigness: fiswàm	kɑndɑmba 
+large: fiswàm	kɑndɑmba 
+bird: pipisi	pipisí	pipsi 
+bite: tag 
+black: kekes	poys 
+blood: kok	kowk	kòk 
+bone: bazag	bazäg 
+breast: savi	tot	toto 
+breasts: savi	tot	toto 
+cloud: ean papaɣa 
+cold: vɑtɑp 
+come: av	giavun 
+come from: av	giavun 
+be dead: ani	anim-pikya 
+dead: ani	anim-pikya 
+die: ani	anim-pikya 
+dog: gagho	gax	gaxo	gaɣ	gaɣo	gaɣò 
+drink: iz 
+ear: gia	già	gyä 
+earth: maŋgai	mɑŋgɑy 
+ground: maŋgai	mɑŋgɑy 
+land: maŋgai	mɑŋgɑy 
+soil: maŋgai	mɑŋgɑy 
+eat: log	log- 
+egg: gava 
+eye: bey	bi	boy	bɔy 
+feather: qɑvɑy	su 
+fire: geynam	te 
+fish: seva 
+fly: favun 
+fly v.: favun 
+foot: waɣaiap	waɣayap	zɛnda 
+full: tave 
+give: etawam	etowam 
+good: mboma	yaɣi-yaɣi 
+green: qaqavu 
+hair: izim	izimu	izumu	izìm 
+hand: pinggi	piŋgi	zɛnda 
+left hand: pinggi	piŋgi	zɛnda 
+right: pinggi	piŋgi	zɛnda 
+head: kawa 
+hear: ewag	éwag 
+heart: mbani	mukik 
+1 sg.: no 
+I: no 
+kill: la 
+knee: katuk 
+leaf: esaqo	esoqo	esɑqɔ	ésoqò 
+liver: mbani	mbanì 
+long: sekeɣapeg	sekéɣapeg 
+head louse: wuNg	wungg 
+louse: wuNg	wungg 
+male: aŋqana	matokosae	matɔkɔs-ae	ɑŋganea 
+man: anim 
+many: evù	mɑymba 
+much: evù	mɑymba 
+multiple: evù	mɑymba 
+several: evù	mɑymba 
+moon: doveak	dovéàk	dovɑyak	ɣaväk 
+hill: ndevea-ɣavazu	ndeveaghavazu 
+mountain: ndevea-ɣavazu	ndeveaghavazu 
+mouth: maŋkaŋka	maŋqaŋqa	mɑŋɢɑŋɢa 
+name: iz 
+title: iz 
+neck: konɛ	qɔnä	wanev 
+new: qandi	qɑndi 
+night: deve	dove	dovè 
+nighttime: deve	dove	dovè 
+nose: dozi	dozì	keso 
+adulterous: koapo	kwopu	kw~opu	kɔɑpɔ	kᵘopu 
+one: koapo	kwopu	kw~opu	kɔɑpɔ	kᵘopu 
+single: koapo	kwopu	kw~opu	kɔɑpɔ	kᵘopu 
+that: koapo	kwopu	kw~opu	kɔɑpɔ	kᵘopu 
+the: koapo	kwopu	kw~opu	kɔɑpɔ	kᵘopu 
+unprincipled: koapo	kwopu	kw~opu	kɔɑpɔ	kᵘopu 
+human: anim 
+human being: anim 
+person: anim 
+rain: ɣae	ɣaia	ɣaé	ˠae 
+rainy weather: ɣae	ɣaia	ɣaé	ˠae 
+red: baŋgas	bɑŋgɑs 
+path: toqotap 
+road: toqotap 
+route: toqotap 
+root: ŋgomɔ	ŋgum 
+sand: divind	ndivind	ndivínd 
+say: in	maŋkat in- 
+see: me	mé 
+sit: xom	ɣom 
+hide: Ngusum	nggusum	ŋgusum 
+skin: Ngusum	nggusum	ŋgusum 
+sleep: tena 
+little: qapelava	qapélàv 
+small: qapelava	qapélàv 
+smallness: qapelava	qapélàv 
+smoke: qaifa	qayfà	qɑyfa 
+star: duku	ghavak	xavak	ɣavak	ɣavàk 
+rock: mbeNga	mbengga	mbeŋga	mbéŋgà 
+stone: mbeNga	mbengga	mbeŋga	mbéŋgà 
+sun: qawa	qawwe	qawwè	qawɛ	qɑwɛ 
+swim: teaz 
+tail: ogo	oqo 
+this: ŋgane 
+2 sg: gho	xo	zo	ɣo	ˠo 
+thou: gho	xo	zo	ɣo	ˠo 
+you: gho	xo	zo	ɣo	ˠo 
+tongue: nasam	nasàm	nasäːme 
+tooth: pakas	pɑkɑs	se	sé 
+tree: geynam 
+grind: menas	menes	menɛs	ménas 
+two: menas	menes	menɛs	ménas 
+hot: tatas 
+warm: tatas 
+water: aoq	naya	nayà	xozax	ɑɔq	ɣozaɣ 
+1 pl. inc.: ni 
+we: ni 
+we₁: ni 
+white: papaɣá	papaˠa 
+whiteness: papaɣá	papaˠa 
+who: giakan-em 
+who?: giakan-em 
+female: matɔqɔs-ɛva	sevam 
+woman: matɔqɔs-ɛva	sevam 
+yellow: qaqavu 
+distant: avuɣamba 
+far: avuɣamba 
+close: avunin 
+near: avunin 
+ner: avunin 
+short: duvisagia	duvisigya 
+snake: suaɣapék	waza	wazà 
+thin: besoqop	ŋgosiː 
+wind: qɑmɑi	ɣozaɣ 

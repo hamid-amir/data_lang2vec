@@ -1,0 +1,482 @@
+all: wasehem 
+animal: niumbualoukin 
+arm: talopɛl 
+arrow: tuŋkul 
+ashes: (ɲi) sakɛp | nih sakep	sakep	sakɛp	ɲi sakɛp 
+ashes: (nih) sakep | nih sakep	sakep	sakɛp	ɲi sakɛp 
+back: tinget | tinget	tɪnket	tɪŋgɛt 
+back: tɪŋgɛt | tinget	tɪnket	tɪŋgɛt 
+back: tɪnket | tinget	tɪnket	tɪŋgɛt 
+bad: lak | lak	lok 
+bad: lok | lak	lok 
+bark: (lu) naikŋin | lu naiknin	lu naikŋin	naiknin	naikŋin 
+bark: (lu) naiknin | lu naiknin	lu naikŋin	naiknin	naikŋin 
+belly: ɲiŋko ɲimpil | ningoinimbil	ɲiŋko ɲimpil 
+belly: ningoinimbil | ningoinimbil	ɲiŋko ɲimpil 
+big: lagɪn | lagɪn	sanguh	saŋkuʰ 
+big: saŋkuʰ | lagɪn	sanguh	saŋkuʰ 
+big: sanguh | lagɪn	sanguh	saŋkuʰ 
+bird: nan 
+bite: aimbuk | aimbuk	alh 
+bite: alh | aimbuk	alh 
+black: siehel 
+blood: ɲiŋkop | 5iNkop	niNgop	niungop	nɪŋgop	ɲiŋkop 
+blood: ninggop | 5iNkop	niNgop	niungop	nɪŋgop	ɲiŋkop 
+blood: niungop | 5iNkop	niNgop	niungop	nɪŋgop	ɲiŋkop 
+blood: nɪŋgop | 5iNkop	niNgop	niungop	nɪŋgop	ɲiŋkop 
+blow: aiǯuhul | aiǯuhul 
+bone: lingäp | liNkap	ling3p	lingep	lingäp	lɪŋkɛp 
+bone: lingep | liNkap	ling3p	lingep	lingäp	lɪŋkɛp 
+bone: linggäp | liNkap	ling3p	lingep	lingäp	lɪŋkɛp 
+bone: lɪŋkɛp | liNkap	ling3p	lingep	lingäp	lɪŋkɛp 
+boy: wasu wučɛp 
+boy: was wuǯɛo 
+breast: ɲumʷp | 5umw~p	ɲumᵘap 
+brother: sukwʌn 
+brother: tatat 
+brother: tʌtʌt 
+burn: aiǯuk | ɲil mir mir 
+burn: ɲil mir mir 
+child: wasuh 
+chin: niungloh 
+chin: ɲuŋkolo 
+claw: na yɛhučiaŋ | na yɛhučiaŋ 
+cloud: simbohleŋkil | simbohleŋkil	sumbolhenkil 
+cloud: sumbolhenkil | simbohleŋkil	sumbolhenkil 
+cold: mateh | mateh	ɲumuim 
+cold: ɲumuim | mateh	ɲumuim 
+come: lak 
+count: whapelp 
+cut: aimbuk | antun 
+cut: antun 
+day: aawɪnxohak | awun 
+day: aun ɲuŋ kulikel | awun 
+day: awun 
+die: aulk 
+dig: alkeh 
+dirty: nianel 
+dog: ɲimboaŋ | 5imboaN	nimbwaN	niumpuang	nɪmbwaŋ	ɲimboaŋ 
+dog: niumpuang | 5imboaN	nimbwaN	niumpuang	nɪmbwaŋ	ɲimboaŋ 
+dog: nɪmbwaŋ | 5imboaN	nimbwaN	niumpuang	nɪmbwaŋ	ɲimboaŋ 
+drink: ayek | ayek	ieg simbep 
+drink: ieg simbep | ayek	ieg simbep 
+dry: kuŋkurar | kungrar	kuŋkurar 
+dry: kungrar | kungrar	kuŋkurar 
+dust: samulon 
+ear: taingip | taiNkip	taingip	taɪŋkip	toekip	tʌekip 
+ear: taɪŋkip | taiNkip	taingip	taɪŋkip	toekip	tʌekip 
+ear: tëekip | taiNkip	taingip	taɪŋkip	toekip	tʌekip 
+ear: tʌekip | taiNkip	taingip	taɪŋkip	toekip	tʌekip 
+earth: kətap | kɪtappʰ 
+earth: kitap | kɪtappʰ 
+earth: kitapp | kɪtappʰ 
+earth: kɪtappʰ 
+eat: aiyek | aiyek	ayɛk 
+eat: ayɛk | aiyek	ayɛk 
+egg: huiǯnim | huiǯnim	na hutɲim 
+egg: na hutɲim | huiǯnim	na hutɲim 
+elbow: tahukgum 
+elbow: tahukŋum 
+emu: simbien 
+eye: ɲambeo | 5ambeo	nambap	nambɛp	niambep	ɲambeo 
+eye: nambep | 5ambeo	nambap	nambɛp	niambep	ɲambeo 
+eye: nambɛp | 5ambeo	nambap	nambɛp	niambep	ɲambeo 
+eye: niambep | 5ambeo	nambap	nambɛp	niambep	ɲambeo 
+face: ɲambep 
+fall: kusaik 
+far: holel 
+father: yaiyai | yaiyai	yayai 
+father: yayai | yaiyai	yayai 
+fat (n.): sumbual 
+fat (n.): wusumbual 
+fear: kalkel matih 
+feather: nanɪ | nanih	nanɪ 
+feather: nanih | nanih	nanɪ 
+few: klep miting 
+fight: aipol 
+finger: tah tɔ 
+finger: tahtoh 
+finger: tah wiǯeng 
+finger: tamʌra mɛl 
+fire: ɲɪ | 5i	ni	nih	ɲi	ɲɪ 
+fire: ɲi | 5i	ni	nih	ɲi	ɲɪ 
+fire: ni | 5i	ni	nih	ɲi	ɲɪ 
+fire: nih | 5i	ni	nih	ɲi	ɲɪ 
+fish: yogknin | yogknin	yokNin	yokin	yokŋɪn	yokɪn 
+fish: yokɪn | yogknin	yokNin	yokin	yokŋɪn	yokɪn 
+fish: yokŋɪn | yogknin	yokNin	yokin	yokŋɪn	yokɪn 
+five: tahbu | tahbu	toh mbu	tohbu 
+five: tohbu | tahbu	toh mbu	tohbu 
+five: toh mbu | tahbu	toh mbu	tohbu 
+fly (v.): rihrir hamui 
+foot: yeʰ | yeʰ	yɛ nʌmbäp 
+foot: yɛ nʌmbäp | yeʰ	yɛ nʌmbäp 
+forehead: sumbʷ(ʰ) 
+forest: long ~ lung | long	lung 
+four: wiyep wiyep | wiyep wiyep	wiyɛpwiyɛp	wuiyep wuiyep 
+four: wiyɛpwiyɛp | wiyep wiyep	wiyɛpwiyɛp	wuiyep wuiyep 
+four: wuiyep wuiyep | wiyep wiyep	wiyɛpwiyɛp	wuiyep wuiyep 
+fruit: (ku) kop | kop	ku kop 
+full: kork | kork	kurk 
+full: kurk | kork	kurk 
+girl: asip matəkŋi 
+girl: wasu hasɪp 
+give: wakap | wakap	wanel 
+give: wanel | wakap	wanel 
+good: bʷik | bᵘaik	puaik	pwʌⁱk 
+good: puaik | bᵘaik	puaik	pwʌⁱk 
+good: pwʌʲ | bᵘaik	puaik	pwʌⁱk 
+grass: iwaɛʰ 
+green: nɪnɪnamel 
+hair: (yelk) uaih | uaih	wʌe	yelk uaih	yɛlk wʌe	yɛlk ɪwaɛʰ	ɪwaɛʰ 
+hair: (yɛlk) ɪwaɛʰ | uaih	wʌe	yelk uaih	yɛlk wʌe	yɛlk ɪwaɛʰ	ɪwaɛʰ 
+hair: (yɛlk) wʌe | uaih	wʌe	yelk uaih	yɛlk wʌe	yɛlk ɪwaɛʰ	ɪwaɛʰ 
+hair: yelk-wëe | uaih	wʌe	yelk uaih	yɛlk wʌe	yɛlk ɪwaɛʰ	ɪwaɛʰ 
+hand: kʌlam akmok | kolam akmok	kʌlam akmok	tah	tah~	taʰ 
+hand: taʰ | kolam akmok	kʌlam akmok	tah	tah~	taʰ 
+hand: tah | kolam akmok	kʌlam akmok	tah	tah~	taʰ 
+head: yelk | yelk	yɛlk	yɛlkʰ 
+head: yɛlk | yelk	yɛlk	yɛlkʰ 
+head: yɛlkʰ | yelk	yɛlk	yɛlkʰ 
+hear: aip | aip	yip 
+heart: simbelk miumpuaip | simbelk miumpuaip	sɪmbelk 
+heart: sɪmbelk | simbelk miumpuaip	sɪmbelk 
+hear: yip | aip	yip 
+heavy: mangitehel | mangitehel	maŋketehel 
+heavy: maŋketehel | mangitehel	maŋketehel 
+here: indi 
+he/she: ki 
+hit: al | al	yelh 
+hit: yelh | al	yelh 
+hold: tah pen 
+hole: upmua 
+horn: walieng | walieng	walyeN	walyeŋ 
+horn: walyeŋ | walieng	walyeN	walyeŋ 
+house: igkih 
+house: ikŋi 
+hunt: whatem 
+husband: mingan 
+I: ap 
+kill: alhdoh | alhdoh	yelh 
+kill: yelh | alhdoh	yelh 
+knee: yehukgum | yah~kNum	yehukgum	yɛkŋum	yɛʰkŋum 
+knee: yɛ(ʰ)kŋum | yah~kNum	yehukgum	yɛkŋum	yɛʰkŋum 
+know: aičel | aičel	ye 
+know: ye | aičel	ye 
+laugh: nangig | nangig	naŋkik 
+laugh: naŋkik | nangig	naŋkik 
+leaf: sup 
+leg: yeʰ | yeh	yeʰ	yɛ 
+leg: yɛ | yeh	yeʰ	yɛ 
+leg: yeh | yeh	yeʰ	yɛ 
+lie: aliknimbi | linimpih 
+lie: linimpih 
+liver: niumpuaip | 5umpaip	niumpuaip	sualop	ɲumpaɪp 
+liver: sualop | 5umpaip	niumpuaip	sualop	ɲumpaɪp 
+liver: ɲumpaɪp | 5umpaip	niumpuaip	sualop	ɲumpaɪp 
+long: pigel | pigel	pikek 
+long: pikek | pigel	pikek 
+louse: ɲumukŋun | 5umukNun 
+man: wasu | mahlipmiN	mehlipming	mɛhlipmiŋ 
+man: wuǯep | mahlipmiN	mehlipming	mɛhlipmiŋ 
+many: miting | miting	mɪtiŋ 
+many: mɪtiŋ | miting	mɪtiŋ 
+meat: wuč | wuč 
+moon: winip | winip	wunip	wᵘiɲip 
+moon: wʷɲip | winip	wunip	wᵘiɲip 
+moon: wunip | winip	wunip	wᵘiɲip 
+morning: nomulien 
+morning: nɔmulɪn 
+mother: ap | ap	mamam	maman	mandek 
+mother: mamam | ap	mamam	maman	mandek 
+mother: maman | ap	mamam	maman	mandek 
+mother: mandek | ap	mamam	maman	mandek 
+mountain: simbilh | simbil	simbilh	simbilh~	sɪmbilʰ	sɪmbɪl 
+mountain: sɪmbilʰ | simbil	simbilh	simbilh~	sɪmbilʰ	sɪmbɪl 
+mountain: sɪmbɪl | simbil	simbilh	simbilh~	sɪmbilʰ	sɪmbɪl 
+mouth: tukgum | tukgum	tukum	tukŋum 
+mouth: tukŋum | tukgum	tukum	tukŋum 
+mouth: tukum | tukgum	tukum	tukŋum 
+name: ɲal | 5al	nial	ɲal 
+name: nial | 5al	nial	ɲal 
+narrow: tulpum punel 
+near: kitnan 
+neck: wʷŋ | wong	wᵘɔŋ 
+neck: wong | wong	wᵘɔŋ 
+new: nʷmbʷŋ | nuimpuing	nw~mbw~N	nᵘimbᵘiŋ 
+new: nuimpuing | nuimpuing	nw~mbw~N	nᵘimbᵘiŋ 
+night: nom | nom	num 
+night: num | nom	num 
+nose: mip 
+not: klep 
+old: asehɲokel 
+old: asi nokɛl 
+old: mehɲokel 
+old: mɛ nokɛl 
+old: niokel 
+one: lɛk lɛʔč | lak la7C	liC	liZ	lič̪	liǯ	lɛk lɛʔč 
+one: lič̪ | lak la7C	liC	liZ	lič̪	liǯ	lɛk lɛʔč 
+one: liǯ | lak la7C	liC	liZ	lič̪	liǯ	lɛk lɛʔč 
+other: plel 
+person: mehlipming | mahlipmiN	mehlipming	mɛhlipmiŋ 
+person: mɛhlipmiŋ | mahlipmiN	mehlipming	mɛhlipmiŋ 
+play: milmin 
+pull: kisem 
+push: kunuimpul 
+rain: sɪmbolikŋi | sumbaluknɪ	sumboligkih	sɪmbolikŋi 
+rain: sumbaluknɪ | sumbaluknɪ	sumboligkih	sɪmbolikŋi 
+rain: sumboligkih | sumbaluknɪ	sumboligkih	sɪmbolikŋi 
+rat: simbil 
+rat: simbɪl 
+rat: wambilel 
+red: ɲiŋkopel | mɪŋgopɛl	ningopel	ɲiŋkopel 
+red: mɪŋgopɛl | mɪŋgopɛl	ningopel	ɲiŋkopel 
+red: ningopel | mɪŋgopɛl	ningopel	ɲiŋkopel 
+right: yangohegel | kolam akmok	kʌlam akmok	tah	tah~	taʰ 
+river: mih 
+road: yaŋkohok | yaNkohok	yangohog 
+road: yangohog | yaNkohok	yangohog 
+root: (luŋ)yəpo | luŋyəpo	niupoh	yəpo 
+root: niupoh | luŋyəpo	niupoh	yəpo 
+rope: muah 
+rotten: sumuamel 
+round: ainingempuel | ainingempuel	bimpayel 
+round: bimpayel | ainingempuel	bimpayel 
+rub: niuanem 
+salt: niop 
+sand: saʰ | saʰ	yegkisah 
+sand: yegkisah | saʰ	yegkisah 
+say: ati | ati	inǯang | saʰ	yegkisah 
+say: inǯang | ati	inǯang | saʰ	yegkisah 
+scratch: aiyir 
+sea: simbepniop 
+see: aičel | aiCel	aičel	iZel	iǯel 
+seed: (lu)kop | kop	lukop	lulu kop 
+seed: (lulu) kop | kop	lukop	lulu kop 
+see: iǯel | aiCel	aičel	iZel	iǯel 
+sew: inginem 
+sharp: naimpien 
+short: sikŋim 
+shoulder: malem 
+sing: ikisep 
+sister: ɲehakŋi 
+sit: wʷlp | wᵘalp	yelpkitap 
+sit: yelpkitap | wᵘalp	yelpkitap 
+skin: sinjhe | sinZa	sinyhe	sinǯeh	sinǯɛ	sul	sʊl 
+skin: sinǯɛ | sinZa	sinyhe	sinǯeh	sinǯɛ	sul	sʊl 
+skin: sinǯeh | sinZa	sinyhe	sinǯeh	sinǯɛ	sul	sʊl 
+skin: sʊl | sinZa	sinyhe	sinǯeh	sinǯɛ	sul	sʊl 
+sky: subɔs sumbʌŋ | subɔs sumbʌŋ	sumpolhiyengil 
+sky: sumpolhiyengil | subɔs sumbʌŋ	sumpolhiyengil 
+sleep: alinimbi | alinimbi	linimpih 
+sleep: linimpih | alinimbi	linimpih 
+small: likik | likik	pɪǯɪpiǯik 
+small: pɪǯɪpiǯik | likik	pɪǯɪpiǯik 
+smoke: (ɲi) suan | saiǯek	suan	sʌǯʌk	ɲi suan 
+smoke: saiǯek | saiǯek	suan	sʌǯʌk	ɲi suan 
+smoke: sʌǯʌk | saiǯek	suan	sʌǯʌk	ɲi suan 
+smooth: li(y)el | liel	liyel 
+snake: sɪko | sko	skoʰ	sukoh	sɪko 
+snake: sko(ʰ) | sko	skoʰ	sukoh	sɪko 
+snake: sukoh | sko	skoʰ	sukoh	sɪko 
+spit: katɛhɛrk 
+spit: tugkusakum 
+split: lingeh 
+squeeze: surim 
+stand: wak | wak	yekikip 
+stand: yekikip | wak	yekikip 
+star: čamasum | Camasum	inZamasum	inǯamasum	nZomasum	nǯʌmasum	čamasum 
+star: inǯamasum | Camasum	inZamasum	inǯamasum	nZomasum	nǯʌmasum	čamasum 
+star: nǯʌmasum | Camasum	inZamasum	inǯamasum	nZomasum	nǯʌmasum	čamasum 
+stone: yegkin | yegkin	yekNen	yekŋen	yokin	yʌkɪn 
+stone: yëkin | yegkin	yekNen	yekŋen	yokin	yʌkɪn 
+stone: yekŋen | yegkin	yekNen	yekŋen	yokin	yʌkɪn 
+stone: yʌkɪn | yegkin	yekNen	yekŋen	yokin	yʌkɪn 
+straight: pimpink 
+suck: kisem 
+sun: awun 
+swell: nalem 
+swim: auk mulaŋ | auk mulaŋ	piliyel piliyel 
+swim: piliyel piliyel | auk mulaŋ	piliyel piliyel 
+tail: mundom 
+that: kɪ | ki	kɪ | lak la7C	liC	liZ	lič̪	liǯ	lɛk lɛʔč 
+that: ki | ki	kɪ | lak la7C	liC	liZ	lič̪	liǯ	lɛk lɛʔč 
+there: lak undu | lak undu	undu 
+there: undu | lak undu	undu 
+they: tip 
+they two: tipuyep 
+think: nigimuaiyim 
+this: indi | indi	ⁱndi 
+this: ʲndi | indi	ⁱndi 
+thou: yik | yik	yip 
+thou: yip | yik	yip 
+three: uiep liǯ | uiep liǯ	wiyep pič	wiyɛblik 
+three: wiyɛblik | uiep liǯ	wiyep pič	wiyɛblik 
+three: wiyep pič | uiep liǯ	wiyep pič	wiyɛblik 
+throw: kihiy 
+tie: muaiǯip | muaiǯip 
+tomorrow: tahamiŋ 
+tongue: tugkum litni | tugkum litni	tukNu litni	tukŋu lɪtni 
+tongue: tukŋu lɪtni | tugkum litni	tukNu litni	tukŋu lɪtni 
+tooth: naip 
+tree: lung | luN 
+tree: luŋ | luN 
+turn: nimpiliem 
+two: wiyʌbɛl | wiyep	wiyobal	wiyʌbɛl	wuyep 
+two: wiyep | wiyep	wiyobal	wiyʌbɛl	wuyep 
+two: wuyep | wiyep	wiyobal	wiyʌbɛl	wuyep 
+vomit: niangil 
+walk: humui | munam	nam 
+walk: munam | munam	nam 
+walk: nam | munam	nam 
+walk: pilŋ pilŋ | munam	nam 
+wallaby: upmusum 
+warm: tingiliem 
+wash: kulkosimpep 
+water: simbep | simb3p	simbep	simbop	simpep	sɪmbʌp 
+water: simbëp | simb3p	simbep	simbop	simpep	sɪmbʌp 
+water: simpep | simb3p	simbep	simbop	simpep	sɪmbʌp 
+water: sɪmbʌp | simb3p	simbep	simbop	simpep	sɪmbʌp 
+we: an 
+we (excl.): antʲel 
+wet: matɛh | matɛh	ǯukul 
+we two (excl.): aɲep 
+wet: ǯukul | matɛh	ǯukul 
+what: čupmol | čupmol	ǯupmol 
+what: ǯupmol | čupmol	ǯupmol 
+when: tɛm čupmol | tem ǯupmol	tɛm čupmol 
+when: tem ǯupmol | tem ǯupmol	tɛm čupmol 
+where: alikyehlawel | alikyehlawel	lau 
+where: lau | alikyehlawel	lau 
+white: hurel | hurel	hurrɛl 
+white: hurrɛl | hurel	hurrɛl 
+who: mini 
+wide: punǯer punǯer | punǯer punǯer 
+wife: aseh 
+wind: yuhun 
+wing: (nan)yoh | nanyoh	naɲo	yoh 
+wing: naɲo | nanyoh	naɲo	yoh 
+wipe: saingil 
+woman: asip 
+wood: nap 
+wood: talk 
+worm: malǯnuwih | malǯnuwih 
+yellow: sotokel | ?sulpapohel	sotokel 
+yellow: sulpapohel | ?sulpapohel	sotokel 
+yesterday: kɛkɛmpik 
+you two: yipuyep 
+every: wasehem 
+ash: nih sakep	sakep	sakɛp	ɲi sakɛp 
+abdomen: ningoinimbil	ɲiŋko ɲimpil 
+bigness: lagɪn	sanguh	saŋkuʰ 
+large: lagɪn	sanguh	saŋkuʰ 
+breasts: 5umw~p	ɲumᵘap 
+nail: na yɛhučiaŋ 
+talon: na yɛhučiaŋ 
+come from: lak 
+be dead: aulk 
+dead: aulk 
+ground: kɪtappʰ 
+land: kɪtappʰ 
+soil: kɪtappʰ 
+fly: rihrir hamui 
+fly v.: rihrir hamui 
+left hand: kolam akmok	kʌlam akmok	tah	tah~	taʰ 
+1 sg.: ap 
+be knowledgeable: aičel	ye 
+lie down: linimpih 
+head louse: 5umukNun 
+male: wasu	wuǯep 
+much: miting	mɪtiŋ 
+multiple: miting	mɪtiŋ 
+several: miting	mɪtiŋ 
+hill: simbil	simbilh	simbilh~	sɪmbilʰ	sɪmbɪl 
+title: 5al	nial	ɲal 
+nighttime: nom	num 
+adulterous: lak la7C	liC	liZ	lič̪	liǯ	lɛk lɛʔč 
+single: lak la7C	liC	liZ	lič̪	liǯ	lɛk lɛʔč 
+the: lak la7C	liC	liZ	lič̪	liǯ	lɛk lɛʔč 
+unprincipled: lak la7C	liC	liZ	lič̪	liǯ	lɛk lɛʔč 
+human: mahlipmiN	mehlipming	mɛhlipmiŋ 
+human being: mahlipmiN	mehlipming	mɛhlipmiŋ 
+rainy weather: sumbaluknɪ	sumboligkih	sɪmbolikŋi 
+path: yaNkohok	yangohog 
+route: yaNkohok	yangohog 
+hide: sinZa	sinyhe	sinǯeh	sinǯɛ	sul	sʊl 
+little: likik	pɪǯɪpiǯik 
+smallness: likik	pɪǯɪpiǯik 
+rock: yegkin	yekNen	yekŋen	yokin	yʌkɪn 
+2 sg: yik	yip 
+you: yik	yip 
+grind: wiyep	wiyobal	wiyʌbɛl	wuyep 
+go: munam	nam 
+1 pl. inc.: an 
+we₁: an 
+whiteness: hurel	hurrɛl 
+who?: mini 
+female: asip 
+distant: holel 
+dull: mangitehel	maŋketehel 
+serious: mangitehel	maŋketehel 
+close: kitnan 
+ner: kitnan 
+earthworm: malǯnuwih 
+3 sg.: ki 
+he: ki 
+she: ki 
+2 pl.: yip 
+ye: yip 
+you all: yip 
+3 pl.: tip 
+where?: alikyehlawel	lau 
+when?: tem ǯupmol	tɛm čupmol 
+broad: punǯer punǯer 
+wideness: punǯer punǯer 
+principal wife: aseh 
+his mother: ap	mamam	maman	mandek 
+my mother: ap	mamam	maman	mandek 
+his father: yaiyai	yayai 
+my father: yaiyai	yayai 
+woods: long	lung 
+cord: muah 
+flesh: wuč 
+fat: wusumbual 
+grease: wusumbual 
+laughter: nangig	naŋkik 
+cogitate: nigimuaiyim 
+reflect: nigimuaiyim 
+smell: singrep 
+sniff: singrep 
+afraid: kalkel matih 
+be afraid: kalkel matih 
+fright: kalkel matih 
+beat: al	yelh 
+strike: al	yelh 
+hack: antun 
+cut open: lingeh 
+pierce: aimbuk 
+stab: aimbuk 
+drop: kusaik 
+grasp: tah pen 
+hold in arm: tah pen 
+wring: surim 
+wash clothes: kulkosimpep 
+bind: muaiǯip 
+fasten: muaiǯip 
+tie up: muaiǯip 
+enumerate: whapelp 
+number: whapelp 
+tally: whapelp 
+have fun: milmin 
+brook: mih 
+stream: mih 
+blaze: ɲil mir mir 
+daylight: awun 
+daytime: awun 
+evil: lak	lok 
+rot: sumuamel 
+filthy: nianel 
+soiled: nianel 
+blunt: suturh 
+damp: matɛh	ǯukul 
+right side: yangohegel 

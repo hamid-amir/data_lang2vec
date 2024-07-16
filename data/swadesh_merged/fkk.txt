@@ -1,0 +1,132 @@
+all: kíkyá 
+every: kíkyá 
+ash: kʔálò 
+ashes: kʔálò 
+bark: ɮàpàl 
+big: kàlíndə̀ŋ 
+bigness: kàlíndə̀ŋ 
+large: kàlíndə̀ŋ 
+bird: ʔyɩ́kʊ́ 
+bite: xárì 
+black: ŋ̀kʊ́rí 
+blood: mimi	mímí 
+bone: yiLu7	ʔyɩ́ɬʊ́ʔ 
+breast: u7w~a	ʔùʔwá 
+breasts: u7w~a	ʔùʔwá 
+cloud: xʊ́rrɓʊ́tʊ́kʊ́ 
+cold: drràɮàɮà 
+come: sku	skʊ́ 
+come from: sku	skʊ́ 
+be dead: wNk~i	wŋkì 
+dead: wNk~i	wŋkì 
+die: wNk~i	wŋkì 
+dog: kuri	kʊ́rì 
+drink: sa	saxu	sá	sáxú 
+ear: L3mu	ɬɨ́mʊ́ 
+earth: xàxə̂y 
+ground: xàxə̂y 
+land: xàxə̂y 
+soil: xàxə̂y 
+eat: zɨ̀m 
+egg: ɬtìɬtí 
+eye: nCi	ǹčí 
+fire: uxu	ʊ̀ɣû 
+fish: kurupu7	kʊ̀rʊ̀pʊ́ʔ 
+give: vèká 
+good: čə̂m	ǹdɨ́rí 
+green: pàkɔ̀ntʊ̀xʊ́ 
+hair: šìnči 
+head: ɣʊ̀nʊ̀ 
+hear: fatu7	fátʊ̀ʔ 
+heart: xàrí 
+horn: turumu7	tʊ̀rrʊ̀mʊ́ʔ 
+kill: tsé 
+knee: kumenS3n	kʊ́ménšɨ́n 
+be knowledgeable: šɩ̀tʊ́ʔ 
+know: šɩ̀tʊ́ʔ 
+leaf: Cikifu	čɩ̀kɩ̀fʊ́ 
+lie: xànʊ́ 
+lie down: xànʊ́ 
+long: ɬɩ́pʊ̀ʔ 
+head louse: taNudi 
+louse: taNudi 
+male: zâl 
+man: mdu	m̀dʊ́	wmdu	wm̀dʊ́ 
+many: bwə̀y	kwʊ̀lʊ́ʔ 
+much: bwə̀y	kwʊ̀lʊ́ʔ 
+multiple: bwə̀y	kwʊ̀lʊ́ʔ 
+several: bwə̀y	kwʊ̀lʊ́ʔ 
+flesh: ɬtì 
+meat: ɬtì 
+moon: tɨ́rí 
+hill: xum	ɣʊ̀m 
+mountain: xum	ɣʊ̀m 
+mouth: mí 
+name: L3m	L3mu	ɬɨ́m	ɬɨ́mʊ́ 
+title: L3m	L3mu	ɬɨ́m	ɬɨ́mʊ́ 
+neck: wʊ́rí 
+new: rifu	rɩ́fʊ 
+night: vule	vʊ́lè 
+nighttime: vule	vʊ́lè 
+nose: Sinu7	šɩ́nʊ́ʔ 
+adulterous: gutan	gʊ́tàn	tan3y	tánə́y 
+one: gutan	gʊ́tàn	tan3y	tánə́y 
+single: gutan	gʊ́tàn	tan3y	tánə́y 
+that: nìtá	nɩ̀ytà 
+the: gutan	gʊ́tàn	tan3y	tánə́y 
+unprincipled: gutan	gʊ́tàn	tan3y	tánə́y 
+human: mdu	m̀dʊ́	wmdu	wm̀dʊ́ 
+human being: mdu	m̀dʊ́	wmdu	wm̀dʊ́ 
+person: mdu	m̀dʊ́	wmdu	wm̀dʊ́ 
+red: dɨ̀zʊ̀ 
+path: kw~al	kw~alu 
+road: kw~al	kw~alu 
+route: kw~al	kw~alu 
+sand: xwʊnda 
+say: xwʊnda 
+see: nanu	nànʊ́ 
+seed: tsáŋwə́l 
+sit: nzónzʊ̀ʔ 
+hide: t"uwu	tʔʊ́wú 
+skin: t"uwu	tʔʊ́wú 
+sleep: ɩ̀nǯɩ̀xʊ̀ 
+little: ŋ̀gyɨ́xù 
+small: ŋ̀gyɨ́xù 
+smallness: ŋ̀gyɨ́xù 
+smoke: ʔɩ́ʔyɩ́nʊ́ʔ 
+star: sas3nukw~a	sàsɨ́nʊ́kwà 
+rock: piri	pɩ̀rí 
+stone: piri	pɩ̀rí 
+sun: v3Ci	vɨ̀čí 
+tail: wtɨ̀lɩ́ʔ 
+this: nɩ̀yá 
+tongue: Nx~anu7	ŋ̀ɣànʊ́ʔ 
+tooth: Le	ɬê 
+tree: fw~u7 
+grind: bw~uku7	ɓwʊ́kʊ́ʔ 
+two: bw~uku7	ɓwʊ́kʊ́ʔ 
+water: yam	yamu	yàm	yàmʊ́ 
+what: ʔʊ̀sɛ̀rrí 
+white: ɗáɮì 
+whiteness: ɗáɮì 
+who: ʔʊ̀ndɛ̀rí 
+who?: ʔʊ̀ndɛ̀rí 
+female: màlʊ̩kʊ́ 
+woman: màlʊ̩kʊ́ 
+yellow: pàwŋɣwʊ̀nú 
+distant: tsʔɨ̀kàl	tsʔɨ̀kàlʊ̀ 
+far: tsʔɨ̀kàl	tsʔɨ̀kàlʊ̀ 
+dull: gʊ̀gʊ́zʊ́ʔ 
+heavy: gʊ̀gʊ́zʊ́ʔ 
+serious: gʊ̀gʊ́zʊ́ʔ 
+close: xɨ́lʊ́kʊ́ 
+near: xɨ́lʊ́kʊ́ 
+ner: xɨ́lʊ́kʊ́ 
+salt: ʊ̀ɣwʊ́n	ʊ̀ɣwʊ́nʊ̀ 
+short: gwʊ́sʊ̀ʔ 
+snake: šɩ̀ší 
+thin: ɬáxʊ̀ 
+wind: sàfʊ́ʔ 
+earthworm: wčɩ̀ɮárr	wčɩ̀ɮárrʊ́ 
+worm: wčɩ̀ɮárr	wčɩ̀ɮárrʊ́ 
+year: ɣʊ̀l	ɣʊ̀lʊ̀ 

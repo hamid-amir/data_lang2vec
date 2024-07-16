@@ -1,0 +1,618 @@
+all: baːli 
+animal: morpiu 
+ankle: ɟamiṛ 
+ankle: worgi 
+arm: goḍu 
+arm: inkoruki mala 
+arm: korto 
+ashes: gumalai 
+back: murongada | murongada	orongadi	ŋɔrɔːŋgidi 
+back: ŋɔrɔːŋgidi | murongada	orongadi	ŋɔrɔːŋgidi 
+back: orongadi | murongada	orongadi	ŋɔrɔːŋgidi 
+bad: gunoːri | gunoːri	kunoora	murangornul 
+bad: kunoora | gunoːri	kunoora	murangornul 
+bad: murangornul | gunoːri	kunoora	murangornul 
+bark: illengungi | illengungi	roːlu m. 
+bark: roːlu | illengungi	roːlu m. 
+belly: mabulu 
+belly: maporlio 
+big: mirawara | mirawara	miruwara	murawardi 
+big: miruwara | mirawara	miruwara	murawardi 
+big: murawardi | mirawara	miruwara	murawardi 
+bird: moːbiyu 
+bite: irɛːmbi 
+bitter: Moṇḍa 
+black: guranaranbaŋgeŋi | guranaranbaŋgeŋi	kunbeltji	miorni 
+black: kunbeltji | guranaranbaŋgeŋi	kunbeltji	miorni 
+black: miorni | guranaranbaŋgeŋi	kunbeltji	miorni 
+blood: maneŋul | maneNul	maneŋul	maneŋul?	manungel 
+blood: manungel | maneNul	maneŋul	maneŋul?	manungel 
+blow: gɔrɔːmbaɟa 
+blow: goyaːnbaɟa | gɔrɔːmbaɟa 
+bone: benaːgara | benaːgara	benogra	binagara	bɛnaːgɛra 
+bone: bɛnaːgɛra | benaːgara	benogra	binagara	bɛnaːgɛra 
+bone: benogra | benaːgara	benogra	binagara	bɛnaːgɛra 
+boy: laidguruŋu 
+boy: noɣomulageri 
+branch: goːḍo | goːḍo	kordunu 
+branch: kordunu | goːḍo	kordunu 
+breast: korngu kundanda | goNgo	kroitji	kumulungkorngu	nurrubulorji 
+breast: kroitji | goNgo	kroitji	kumulungkorngu	nurrubulorji 
+breast: kumulungkorngu | goNgo	kroitji	kumulungkorngu	nurrubulorji 
+breast: nurrubulorji | goNgo	kroitji	kumulungkorngu	nurrubulorji 
+breathe: boalur | kerapuna 
+breathe: kerapuna 
+brother: baraŋa 
+brother: nalabiri 
+burn: burɛːniya | mianai 
+burn: mianai 
+burn: neya | mianai 
+butterfly: gaburabeːgabareːbi 
+butterfly: pukitpagu 
+calf: mukamaka 
+calf: yardbi 
+cheek: mata 
+chest: ŋadambir 
+chest: udamba 
+child: biaːlile | bialilla 
+child: bialilla 
+child: kurunga leri | bialilla 
+child: murunga buru | bialilla 
+chin: mːḍa 
+chin: pakada 
+cloud: dipopo ningorji | dipopo ningorji	galili	kula beri beri	kula kuli 
+cloud: galili | dipopo ningorji	galili	kula beri beri	kula kuli 
+cloud: kula beri beri | dipopo ningorji	galili	kula beri beri	kula kuli 
+cloud: kula kuli | dipopo ningorji	galili	kula beri beri	kula kuli 
+cold: murkoiyu | murkoiyu	nungortji	nuŋgɔːɟi 
+cold: nuŋgɔːɟi | murkoiyu	nungortji	nuŋgɔːɟi 
+cold: nungortji | murkoiyu	nungortji	nuŋgɔːɟi 
+come: argaiŋi | argaiŋi	gaya 
+correct: guŋaṇḍada | guŋaṇḍada 
+crocodile: eribinjori 
+crocodile: yirabunɟoːri 
+cut: gɔdɔːbɛra | gɔdɔːbɛra	kotabera	rurtobera 
+cut: kotabera | gɔdɔːbɛra	kotabera	rurtobera 
+cut: rurtobera | gɔdɔːbɛra	kotabera	rurtobera 
+dark: kormu 
+dark: maːdada 
+daughter: nɔːmbɛri 
+day: ɲɛːda | kobolpinjari	urbungobeinni	ɲɛːda 
+day: kobolpinjari | kobolpinjari	urbungobeinni	ɲɛːda 
+day: urbungobeinni | kobolpinjari	urbungobeinni	ɲɛːda 
+die: bagánawi | wara	wáriɟi 
+die: wáriɟi | wara	wáriɟi 
+die: wariɟi | wara	wáriɟi 
+die: wariji | wara	wáriɟi 
+dig: uŋguɟirme 
+dirty: naŋgarambaŋgɛːŋi | naŋgarambaŋgɛːŋi	poorne 
+dirty: poorne | naŋgarambaŋgɛːŋi	poorne 
+dog: gaɟu | gaTu	gaɟu	kadju	korona 
+dog: kadju | gaTu	gaɟu	kadju	korona 
+dog: korona | gaTu	gaɟu	kadju	korona 
+drink: gaɾu ɟawu | gaɾu ɟawu	kureuja 
+drink: kureuja | gaɾu ɟawu	kureuja 
+dry: gaid\bɛlágora | gaidʼbɛlágora 
+ear: gaːdi | gadi	gaːdi	kadi 
+ear: kadi | gadi	gaːdi	kadi 
+earth: majeli 
+earth: pulpurne 
+earth: walälu 
+eat: jau | jau	marenɟa 
+eat: marenɟa | jau	marenɟa 
+egg: iwaiji | iwaiji	waidiː 
+egg: waidiː | iwaiji	waidiː 
+egg: yiṛal | iwaiji	waidiː 
+elbow: ngiornburu 
+elbow: ɲoːmburu 
+emu: gabaṛɛːbi 
+emu: gabeɾɛːbi 
+emu: kopereipi 
+eye: bɔːro | bodo	bɔːro	bɔːrɔ	poro	wulaula	wurgedjinia 
+eye: bɔːrɔ | bodo	bɔːro	bɔːrɔ	poro	wulaula	wurgedjinia 
+eye: maraɣabarewi | bodo	bɔːro	bɔːrɔ	poro	wulaula	wurgedjinia 
+eye: melipir | bodo	bɔːro	bɔːrɔ	poro	wulaula	wurgedjinia 
+eye: mɛːnɟil | bodo	bɔːro	bɔːrɔ	poro	wulaula	wurgedjinia 
+eye: merebiro | bodo	bɔːro	bɔːrɔ	poro	wulaula	wurgedjinia 
+eye: poro | bodo	bɔːro	bɔːrɔ	poro	wulaula	wurgedjinia 
+eye: wulaula | bodo	bɔːro	bɔːrɔ	poro	wulaula	wurgedjinia 
+eye: wurgedjinia | bodo	bɔːro	bɔːrɔ	poro	wulaula	wurgedjinia 
+face: bɔrɔ 
+fall: gaɾeːnbimi | -ṛeːnbimi	gaɾeːnbimi 
+fall: -ṛeːnbimi | -ṛeːnbimi	gaɾeːnbimi 
+far: breikul 
+father: -baba 
+fat (n.): juri 
+fat (n.): miyruwara 
+fat (n.): paloma 
+fear: aramaramai | kumeri 
+fear: gumɛraŋa | kumeri 
+fear: guninɛnde-ɟawɛŋe | kumeri 
+fear: kumeri 
+feather: moːgan | morge	moːgan 
+feather: morge | morge	moːgan 
+few: ɲinmaläwile | ɲinmaläwile 
+fight: aragarida 
+finger: gubaɾi 
+finger: gwa\aːwile 
+finger: naijei 
+fingernail: kunalineli | kunalineli	kunununeli 
+fingernail: kunununeli | kunalineli	kunununeli 
+finger: ŋumaraːgiḍi 
+finger: umberaba kumilewila 
+fire: guɟäli | guTli	guɟäli	kutjali 
+fire: kutjali | guTli	guɟäli	kutjali 
+fish: nanjil | NanTil	nanjil	ŋanɟil 
+fish: ŋanɟil | NanTil	nanjil	ŋanɟil 
+flower: piruongo 
+fly (n.): ŋormul 
+fly (n.): ŋɔrmul 
+fly (v.): yɛŋa gaŋi 
+fog: tjorlul | tjorlul	ɟuɣɔḷɔḷ 
+fog: ɟuɣɔḷɔḷ | tjorlul	ɟuɣɔḷɔḷ 
+foot: gubaɾi | gubaɾi	kupari 
+foot: kungnandingbi | gubaɾi	kupari 
+foot: kupari | gubaɾi	kupari 
+foot: morliu | gubaɾi	kupari 
+forehead: iːdi 
+forehead: yedi 
+forest: gaːgur | gaːgur	kagur 
+forest: kagur | gaːgur	kagur 
+full: ɟabul | japul	ɟabul 
+full: japul | japul	ɟabul 
+full: maŋgalaːbi | japul	ɟabul 
+girl: ɟireːwan 
+girl: ɲuŋgɔːdon 
+give: brau | -wɔː	brau	wo 
+give: wo | -wɔː	brau	wo 
+give: -wɔː | -wɔː	brau	wo 
+good: ɲaːṇḍada | ngandiddo	ɲaːṇḍada 
+good: ngandiddo | ngandiddo	ɲaːṇḍada 
+grass: maporlbo | maporlbo	ngoinbu	noːinbu 
+grass: ngoinbu | maporlbo	ngoinbu	noːinbu 
+grass: noːinbu | maporlbo	ngoinbu	noːinbu 
+green: ɟiːɾil | nurum bungenyi	ɟiːɾil 
+green: nurum bungenyi | nurum bungenyi	ɟiːɾil 
+hair: garabiḷ | garabiḷ	krabbi 
+hair: krabbi | garabiḷ	krabbi 
+hair: kuperil | garabiḷ	krabbi 
+hair: ngoinbu | garabiḷ	krabbi 
+hair: unaperil | garabiḷ	krabbi 
+hair: wingorku | garabiḷ	krabbi 
+hand: naijei | NaTay	naijei	ŋaːɟai 
+hand: ŋaːɟai | NaTay	naijei	ŋaːɟai 
+head: nari | nari	reri	ŋaːɾi	ŋaːṛi 
+head: ŋaːɾi | nari	reri	ŋaːɾi	ŋaːṛi 
+head: ŋaːṛi | nari	reri	ŋaːɾi	ŋaːṛi 
+head: reri | nari	reri	ŋaːɾi	ŋaːṛi 
+heart: wanaːŋindi 
+hear: yireːŋawa | Nawa	yireːŋawa 
+hear: yirɛːŋiwa | Nawa	yireːŋawa 
+heavy: nuŋgoɾogoboːmi 
+here: ngari | ngari	ningari 
+here: ningari | ngari	ningari 
+he/she: naːɣuma 
+he/she: naːyuma 
+he/she: ngauuma 
+he/she: ngauu~ma 
+he/she: ngo 
+he/she: -no 
+he/she: -yu 
+hit: -(?)bo | -?bo	-bo 
+hold: kara | -ŋgere	kara 
+hold: -ŋgere | -ŋgere	kara 
+hole: ŋaɾoːl 
+house: gɔbɔnɟi 
+house: kobonja 
+hunt: areːya 
+husband: ŋɔnoːmɔgaːli 
+I: nai(inma) | Nayi	ngai	ngaia	ŋainma	ŋainme 
+I: -ŋa | Nayi	ngai	ngaia	ŋainma	ŋainme 
+I: ngai | Nayi	ngai	ngaia	ŋainma	ŋainme 
+I: ngaia | Nayi	ngai	ngaia	ŋainma	ŋainme 
+I: ngainma | Nayi	ngai	ngaia	ŋainma	ŋainme 
+I: ŋainma | Nayi	ngai	ngaia	ŋainma	ŋainme 
+I: ŋainme | Nayi	ngai	ngaia	ŋainma	ŋainme 
+kangaroo: baːgu 
+kangaroo: bargu 
+kangaroo: muranura 
+kangaroo: nabirrapurngein 
+kill: -baṛa | -baṛa 
+knee: mambɔːṛo | mamboro	mambɔːṛo 
+know: araɣadeːginɟi 
+lake: abaːlar | ?abaːlar 
+lake: meiri | ?abaːlar 
+laugh: gambĭṛe | gambĭṛe	kumbari 
+laugh: kumbari | gambĭṛe	kumbari 
+leaf: maːḷaḷ | maLaL	marlil	maːḷaḷ 
+leaf: marlil | maLaL	marlil	maːḷaḷ 
+left: wainyan 
+leg: ɟaːḷi | parda dige	ɟaːḷi 
+leg: parda dige | parda dige	ɟaːḷi 
+lie: areːyo | areːyo	tjikora	yori | gɔnabubiyɔmuŋi 
+lie: tjikora | areːyo	tjikora	yori | gɔnabubiyɔmuŋi 
+lie: yori | areːyo	tjikora	yori | gɔnabubiyɔmuŋi 
+lightning: malaɣabindi 
+lightning: pargu 
+lip: ɟaːbul 
+live: ŋɔrɔŋer argabinɟi 
+liver: alaṛar | Nagalarar	alaṛar 
+long: mumumumerwara | namburɛba	numberaba 
+long: namburɛba | namburɛba	numberaba 
+long: ŋɔyɔnɟido | namburɛba	numberaba 
+long: numberaba | namburɛba	numberaba 
+louse: radi 
+louse: raːdi | radi 
+man: ɟereiŋi | TiriNi	ɟereiŋi 
+man: parla | TiriNi	ɟereiŋi 
+man: ulanɟa | TiriNi	ɟereiŋi 
+many: bali | bali	balji	baːli	kobali	kudberi 
+many: baːli | bali	balji	baːli	kobali	kudberi 
+many: balji | bali	balji	baːli	kobali	kudberi 
+many: kobali | bali	balji	baːli	kobali	kudberi 
+many: kudberi | bali	balji	baːli	kobali	kudberi 
+meat: ɟaḷi | tjali	ɔrŋɔlwaiyuwa | ɟaḷi 
+meat: ɔrŋɔlwaiyuwa | tjali	ɔrŋɔlwaiyuwa | ɟaḷi 
+meat: tjali | tjali	ɔrŋɔlwaiyuwa | ɟaḷi 
+moon: maḍba | malpa	maḍba	mirrawarra-	nigeri- 
+moon: malpa | malpa	maḍba	mirrawarra-	nigeri- 
+moon: mirrawarra- | malpa	maḍba	mirrawarra-	nigeri- 
+moon: nigeri- | malpa	maḍba	mirrawarra-	nigeri- 
+morning: gɔːnmu 
+morning: goparinga 
+morning: injebarabu 
+morning: kurnmamada 
+mosquito: moːɲa 
+mosquito: moina 
+mosquito: mornia 
+mother: gɔiyu 
+mountain: geimbi | geinbi 
+mountain: geinbi 
+mountain: kulaganga | geinbi 
+mouth: ɟaːbul | japul	ɟaːbul 
+mouth: japul | japul	ɟaːbul 
+name: marämiṛ | maramir	marämiṛ	narama 
+name: narama | maramir	marämiṛ	narama 
+nape: muraranuma 
+nape: ŋaːṇmu 
+navel: gɔŋgir 
+near: jirongada | jirongada	ɟurŋgade 
+near: ɟurŋgade | jirongada	ɟurŋgade 
+neck: munganumo | munganumo	ŋäṇmu 
+neck: ŋäṇmu | munganumo	ŋäṇmu 
+new: nagɛːre | giri	nagɛːre	nigeri 
+new: nigeri | giri	nagɛːre	nigeri 
+night: madida | madada	madida 
+night: morlimurema | madada	madida 
+nose: mupairma | geeimi	geːni	gini	gɛːni 
+not: gɔiyu | kaiano	kaio	kaiu	koyoda 
+not: kaiano | kaiano	kaio	kaiu	koyoda 
+not: kaio | kaiano	kaio	kaiu	koyoda 
+not: kaiu | kaiano	kaio	kaiu	koyoda 
+not: koyoda | kaiano	kaio	kaiu	koyoda 
+old: baranga 
+old: baraŋguɲ 
+old: murabulbu 
+old: murora 
+old: namarabalba 
+one: nɔɣɔgadowa | noorkudua	nowogoda	noòrkudua	nɔɣɔgadowa 
+one: noorkudua | noorkudua	nowogoda	noòrkudua	nɔɣɔgadowa 
+one: wiorkudua | noorkudua	nowogoda	noòrkudua	nɔɣɔgadowa 
+other: ŋonɟigodo 
+person: ɟereiŋi | TiriNi	ɟereiŋi 
+play: yiraɣareːgi 
+rain: garagaiya | garagaiya	kuraàu	kuriaio 
+rain: kuraa~u | garagaiya	kuraàu	kuriaio 
+rain: kuriaio | garagaiya	kuraàu	kuriaio 
+rat: bɔinman 
+rat: daigu 
+rat: korlpa 
+rat: monorlpa 
+red: manaŋul | manaŋul	murela muremi 
+red: murela muremi | manaŋul	murela muremi 
+right: ɟimaḍbuno | NaTay	naijei	ŋaːɟai | tjimalpuna	ɟimaḍbuno 
+right: tjimalpuna | NaTay	naijei	ŋaːɟai | tjimalpuna	ɟimaḍbuno 
+ripe: naboːɾi 
+river: ɾabaːlar 
+river: tjukwura tjukwur | ɾabaːlar 
+road: gɔbɔlɔːgidi | gabalowadi 
+road: kuberloairda | gabalowadi 
+road: yori | gabalowadi 
+root: badiyu 
+rope: boːɾi 
+rotten: gunɔːro 
+round: daː 
+salt: kudjera 
+sand: maɟili 
+say: umbalaːbo | maɟili 
+scratch: irawɔnɔmɔ 
+sea: gamaraɣaɾewinɟinba 
+sea: tjideima 
+sea: yidemar 
+seed: bɔrɔɲu 
+see: goreːgara | -oreːgara	goreːgara	gorogara	unkoregora 
+see: koregota | -oreːgara	goreːgara	gorogara	unkoregora 
+see: -oreːgara | -oreːgara	goreːgara	gorogara	unkoregora 
+see: unkoregora | -oreːgara	goreːgara	gorogara	unkoregora 
+sharp: gaṛaːba | gaṛaːba 
+short: ɟägudu | ɟägudu 
+shoulder: areji 
+shoulder: mundambir 
+shoulder: rereː giɟi 
+sing: mambalarbo | mambalarbo	mubilabilla 
+sing: mubilabilla | mambalarbo	mubilabilla 
+sister: gɔŋɔ 
+sister: ɲingeredama 
+sit: arɛŋi | -eːŋi	arɛŋi 
+sit: -eːŋi | -eːŋi	arɛŋi 
+skin: dobera | gangir	gankir	kangir 
+skin: gangir | gangir	gankir	kangir 
+skin: kangir | gangir	gankir	kangir 
+sky: gangi | gangi	kulali 
+sky: kulali | gangi	kulali 
+sleep: areyo | areyo	oronga 
+sleep: oronga | areyo	oronga 
+small: malanila | malanila	yilaːwila 
+small: yilaːwila | malanila	yilaːwila 
+smell: yerembuɲa | tjori 
+smoke: kungairi | kungairi	uŋari 
+smoke: uŋari | kungairi	uŋari 
+smooth: marala | marala	yu 
+smooth: yu | marala	yu 
+snake: morpiu | morpiu	nabadaːɣo 
+snake: nabadaːɣo | morpiu	nabadaːɣo 
+son: ŋɔgɔmaːbade 
+son: ŋɔnɔŋɔmbereda 
+sour: kudjira 
+stand: arɛnɟama 
+star: yemeɛːbala | 5imebili	yemeɛːbala 
+star: yiŋgwalya | 5imebili	yemeɛːbala 
+stone: beindi | beindi	geimbi	peindi 
+stone: geimbi | beindi	geimbi	peindi 
+stone: peindi | beindi	geimbi	peindi 
+straight: ɟimaḍbun | jormilda	ɟimaḍbun 
+straight: jormilda | jormilda	ɟimaḍbun 
+suck: dayu gɔŋgɔ 
+sun: gobolbara | gabolbir	gobolbara	gɔbɔlbara	kobolpa 
+sun: gɔbɔlbara | gabolbir	gobolbara	gɔbɔlbara	kobolpa 
+sun: kobolpa | gabolbir	gobolbara	gɔbɔlbara	kobolpa 
+sweet: momo 
+swim: gadɛŋirɛ 
+tail: gaɟaːlŋa | gaɟaːlŋa	tjali 
+tail: tjali | gaɟaːlŋa	tjali 
+take: -ga- 
+take: -marɛːgaba 
+there: mana ~ muna | mana	muna 
+there: naŋgari | mana	muna 
+they: -nada 
+they: -namba 
+they: ŋoɣombima 
+they: nonuda 
+they: noɣoːdima 
+they: noordima 
+they: noormbu 
+they two: -ŋaɲɟa 
+they two: -ŋamana 
+they two: ŋoyoindima 
+they two: nomina 
+they two: noɣomanima 
+they two: noo~rminima 
+they two: noynoinjima 
+thigh: baːda 
+thigh: pada 
+think: araɣadɛːginɟi 
+thin: mukerawada 
+thou: -ɲa | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: -ɲada | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: -ɲamba | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: iɲadima | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: iɲambima | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: inada | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: inyadima | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: inyembima | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: ŋeiɲima | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: ngeinya | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: ngeinyima | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: ngeiny(im)a | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+thou: ngu | Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+throat: jubilinjubora 
+throat: maɣamamu 
+throat: muranamunga 
+throat: muranuma 
+throw: badaːɣaba | badaːɣaba	pudaruba 
+throw: pudaruba | badaːɣaba	pudaruba 
+thunder: mabɔːyir 
+thunder: popoi 
+today: bɔːduṛu 
+today: bordera 
+tomorrow: gɔːnmuluda 
+tomorrow: kormilda 
+tongue: nainjil | NanTil	nainjil	nanjil	ŋaːnɟil	ŋaːɲɟil 
+tongue: nanjil | NanTil	nainjil	nanjil	ŋaːnɟil	ŋaːɲɟil 
+tongue: ŋaːɲɟil | NanTil	nainjil	nanjil	ŋaːnɟil	ŋaːɲɟil 
+tongue: ŋaːnɟil | NanTil	nainjil	nanjil	ŋaːnɟil	ŋaːɲɟil 
+tooth: rere | rere	reri	riri 
+tooth: reri | rere	reri	riri 
+tree: ɟabaːru | Tubara 
+tree: jibara | Tubara 
+turn: orgoiɲimeːdi 
+turn: waɲɛgamɛːdi 
+two: gɛnɟida | germanda	germinda	gèrminda	gɛnɟida	gɛrmanada 
+two: genjida | germanda	germinda	gèrminda	gɛnɟida	gɛrmanada 
+two: gɛrmanada | germanda	germinda	gèrminda	gɛnɟida	gɛrmanada 
+two: germinda | germanda	germinda	gèrminda	gɛnɟida	gɛrmanada 
+vagina: kumara 
+vomit: baɾeguḍu | baɾeguḍu 
+walk: arɛːya 
+walk: balɛːbi | arɛːya 
+walk: palebi | arɛːya 
+walk: -ṛɛya | arɛːya 
+wallaby: baːgu 
+warm: gabɒlgbar | kubolpura 
+warm: ibilara | kubolpura 
+warm: kubolpura 
+wash: gaɾaɾɛːgai 
+wash: garareːɣai | gaɾaɾɛːgai 
+water: gaṛu | gadu	gaɾu	gaṛu	karu 
+water: gaɾu | gadu	gaɾu	gaṛu	karu 
+water: karu | gadu	gaɾu	gaṛu	karu 
+water: miṛi | gadu	gaɾu	gaṛu	karu 
+weep: areːwiɟi 
+weep: -waɟaɣi 
+weep: wairji 
+weep: warji 
+we: maneidima | Namba 
+we: maneimbama | Namba 
+we: munada | Namba 
+we: mune(ir)dima | Namba 
+we: muniyembima | Namba 
+we: -ŋida | Namba 
+we: -ŋimba | Namba 
+wet: nungeri 
+we two (incl.): manerima 
+we two (incl.): munera 
+we two (incl.): munerima 
+we two (incl.): -ŋamana 
+we two (incl.): -ŋiɲɟa 
+what: ameina | ameina	ŋumɛːna 
+what: ŋumɛːna | ameina	ŋumɛːna 
+when: yakuenmi | yakuenmi	yaŋgɛːma 
+when: yaŋgɛːma | yakuenmi	yaŋgɛːma 
+where: yana | yana	yana etc.	yaninga 
+where: yana etc. | yana	yana etc.	yaninga 
+where: yaninga | yana	yana etc.	yaninga 
+white: gabalabaːla | gabalabaːla	kupalapali	niorki 
+white: kupalapali | gabalabaːla	kupalapali	niorki 
+white: niorki | gabalabaːla	kupalapali	niorki 
+who: wara 
+wife: ɲuŋgoːdoa 
+wind: ɟɔrgu | tjuorgo	ɟɔrgu 
+wind: tjuorgo | tjuorgo	ɟɔrgu 
+wing: mɔːgan | mɔːgan	norkun 
+wing: norkun | mɔːgan	norkun 
+woman: ɟereiwin | ɟereiwin	ɟireːwan	ɟirɛːwan 
+woman: ɟireːwan | ɟereiwin	ɟireːwan	ɟirɛːwan 
+woman: ɟirɛːwan | ɟereiwin	ɟireːwan	ɟirɛːwan 
+woman: kumara | ɟereiwin	ɟireːwan	ɟirɛːwan 
+woman: ɲuŋgodo | ɟereiwin	ɟireːwan	ɟirɛːwan 
+wood: ɟabaːra 
+wood: jibara 
+wood: maːgaɟu 
+woomera: manbaṇba 
+woomera: paliarti 
+woomera: tjingangu 
+yellow: wanmalai | wanmalai	worgejia	yu 
+yellow: worgejia | wanmalai	worgejia	yu 
+yellow: yu | wanmalai	worgejia	yu 
+yes: owɔi 
+you two: iɲaɲɟima 
+you two: iɲaminama 
+you two: imana 
+you two: inyamina 
+you two: inyanja 
+you two: -ŋaɲɟa 
+you two: -ŋamana 
+every: baːli 
+ash: gumalai 
+bigness: mirawara	miruwara	murawardi 
+large: mirawara	miruwara	murawardi 
+breasts: goNgo	kroitji	kumulungkorngu	nurrubulorji 
+come from: argaiŋi	gaya 
+be dead: wara	wáriɟi 
+dead: wara	wáriɟi 
+fly: yɛŋa gaŋi 
+fly v.: yɛŋa gaŋi 
+left hand: NaTay	naijei	ŋaːɟai 
+1 sg.: Nayi	ngai	ngaia	ŋainma	ŋainme 
+lie down: areːyo	tjikora	yori 
+head louse: radi 
+male: ulanɟa	ɟereiŋi 
+much: bali	balji	baːli	kobali	kudberi 
+multiple: bali	balji	baːli	kobali	kudberi 
+several: bali	balji	baːli	kobali	kudberi 
+flesh: tjali	ɔrŋɔlwaiyuwa 
+hill: geinbi 
+title: maramir	marämiṛ	narama 
+nighttime: madada	madida 
+adulterous: noorkudua	nowogoda	noòrkudua	nɔɣɔgadowa 
+single: noorkudua	nowogoda	noòrkudua	nɔɣɔgadowa 
+that: noorkudua	nowogoda	noòrkudua	nɔɣɔgadowa 
+the: noorkudua	nowogoda	noòrkudua	nɔɣɔgadowa 
+unprincipled: noorkudua	nowogoda	noòrkudua	nɔɣɔgadowa 
+human: TiriNi	ɟereiŋi 
+human being: TiriNi	ɟereiŋi 
+rainy weather: garagaiya	kuraàu	kuriaio 
+path: gabalowadi 
+route: gabalowadi 
+hide: gangir	gankir	kangir 
+little: malanila	yilaːwila 
+smallness: malanila	yilaːwila 
+rock: beindi	geimbi	peindi 
+2 sg: Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+you: Ni5a	ngeinya	ngeinyima	ŋeiɲima 
+grind: germanda	germinda	gèrminda	gɛnɟida	gɛrmanada 
+go: arɛːya 
+hot: kubolpura 
+1 pl. inc.: Namba 
+we₁: Namba 
+whiteness: gabalabaːla	kupalapali	niorki 
+who?: wara 
+female: ɟereiwin	ɟireːwan	ɟirɛːwan 
+distant: breikul 
+dull: nuŋgoɾogoboːmi 
+serious: nuŋgoɾogoboːmi 
+close: jirongada	ɟurŋgade 
+ner: jirongada	ɟurŋgade 
+3 sg.: naːɣuma 
+he: naːɣuma 
+she: naːɣuma 
+where?: yana	yana etc.	yaninga 
+when?: yakuenmi	yaŋgɛːma 
+three: gèrminda noòrkudua 
+four: gèrminda germinda 
+five: yakadĭtji 
+principal wife: ɲuŋgoːdoa 
+his mother: gɔiyu 
+my mother: gɔiyu 
+his father: -baba 
+my father: -baba 
+woods: gaːgur	kagur 
+stick: goːḍo	kordunu 
+cord: boːɾi 
+fat: juri 
+grease: juri 
+claw: kunalineli	kunununeli 
+nail: kunalineli	kunununeli 
+spit: maräla	mumbadarabi 
+breath: kerapuna 
+laughter: gambĭṛe	kumbari 
+cogitate: araɣadɛːginɟi 
+reflect: araɣadɛːginɟi 
+sniff: tjori 
+afraid: kumeri 
+be afraid: kumeri 
+fright: kumeri 
+alive: ŋɔrɔŋer argabinɟi 
+be alive: ŋɔrɔŋer argabinɟi 
+life: ŋɔrɔŋer argabinɟi 
+living: ŋɔrɔŋer argabinɟi 
+beat: -?bo	-bo 
+strike: -?bo	-bo 
+hack: gɔdɔːbɛra	kotabera	rurtobera 
+tell lies: gɔnabubiyɔmuŋi 
+drop: -ṛeːnbimi	gaɾeːnbimi 
+grasp: -ŋgere	kara 
+hold in arm: -ŋgere	kara 
+wash clothes: gaɾaɾɛːgai 
+have fun: yiraɣareːgi 
+brook: ɾabaːlar 
+stream: ɾabaːlar 
+blaze: mianai 
+daylight: kobolpinjari	urbungobeinni	ɲɛːda 
+daytime: kobolpinjari	urbungobeinni	ɲɛːda 
+evil: gunoːri	kunoora	murangornul 
+rot: gunɔːro 
+filthy: naŋgarambaŋgɛːŋi	poorne 
+soiled: naŋgarambaŋgɛːŋi	poorne 
+damp: nungeri 
+right side: tjimalpuna	ɟimaḍbuno 

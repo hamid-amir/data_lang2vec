@@ -1,0 +1,308 @@
+all: hɨtɨtɨ-wə 
+every: hɨtɨtɨ-wə 
+ash: yupu uši 
+ashes: yupu uši 
+bark: pei sisi 
+big: pata 
+bigness: pata 
+large: pata 
+bird: yõõ pesi 
+bite: si wətɨ-ɨ 
+black: iši 
+blood: 3*y3*3*y3*p3	i*3	i*y3	ɨ̃yə̃-ɨ̃yə̃-pə 
+bone: pei ũ	u* 
+breast: ha*ka*mi	pei hãkãmi	sufu up 
+breasts: ha*ka*mi	pei hãkãmi	sufu up 
+claw: pei imisikɨ 
+nail: pei imisikɨ 
+talon: pei imisikɨ 
+cloud: ɨhɨraši 
+cold: si ahi 
+come: hapo	hu-ima-ɨ	huima 
+come from: hapo	hu-ima-ɨ	huima 
+be dead: noma	noma-ɨ 
+dead: noma	noma-ɨ 
+die: noma	noma-ɨ 
+dog: heim	hiima	hima 
+drink: ko	ko-aɨ	koa 
+dry: weheti-wə 
+ear: pei yɨmɨ-ka-kɨ	y3*m3ka	y3m3	y3m3ka 
+earth: mašitʰa 
+ground: mašitʰa 
+land: mašitʰa 
+soil: mašitʰa 
+eat: iya-ɨ	wa-ɨ 
+egg: natʰe 
+eye: mamo	pei mamo 
+feather: pei hekɨ 
+fire: koa wake	koa wakə	wak3 
+fish: yuri 
+fly: yə-ɨ 
+fly v.: yə-ɨ 
+foot: pei mamikɨ 
+full: p3t3 ihete	p3t3w3	pətɨ-wə 
+give: hipə-ɨ 
+good: totihita-wə 
+green: riyə 
+hair: pei hetʰãnãu 
+hand: im3k3	imik	pei imɨkɨ 
+left hand: im3k3	imik	pei imɨkɨ 
+right: im3k3	imik	pei imɨkɨ 
+head: pei he 
+hear: hi*ri	wa* hiri	wã hiri-aɨ 
+heart: pei koko pata 
+horn: pei yõrãkɨ	yo*ra*k3	yu*rak 
+1 sg.: kamiy3	ya 
+I: kamiy3	ya 
+kill: šə-ɨ 
+knee: mafeko	maheko	pei maheko 
+be knowledgeable: ta-ɨ 
+know: ta-ɨ 
+leaf: fena	ya* hena	yãã hena 
+lie: make-o	pra-o	pərɨ-o 
+lie down: make-o	pra-o	pərɨ-o 
+liver: a*moku	amok	pei ãmoku 
+long: rape 
+head louse: noma 
+louse: noma 
+male: wãrõ 
+man: ya*n3mam	ya*no*a*m3	ya*no*ma*m3	ya*nomam	yãnõmãmɨ 
+many: pruka 
+much: pruka 
+multiple: pruka 
+several: pruka 
+flesh: pei yãhi 
+meat: pei yãhi 
+moon: peripo 
+hill: hefu	hehu	mamak 
+mountain: hefu	hehu	mamak 
+mouth: pei kahikɨ 
+name: pei a wãhã	wa*f3	wa*ha* 
+title: pei a wãhã	wa*f3	wa*ha* 
+neck: pei orahi-tʰo 
+new: tute 
+night: m3t3t3	th3m t3t3	titi ha 
+nighttime: m3t3t3	th3m t3t3	titi ha 
+nose: fuSu	hu	pei hu 
+adulterous: mahon	moni	mori	tahiap3 
+one: mahon	moni	mori	tahiap3 
+single: mahon	moni	mori	tahiap3 
+that: mahon	moni	mori	tahiap3 
+the: mahon	moni	mori	tahiap3 
+unprincipled: mahon	moni	mori	tahiap3 
+human: ya*n3mam	ya*no*a*m3	ya*no*ma*m3	ya*nomam	yãnõmãmɨ 
+human being: ya*n3mam	ya*no*a*m3	ya*no*ma*m3	ya*nomam	yãnõmãmɨ 
+person: ya*n3mam	ya*no*a*m3	ya*no*ma*m3	ya*nomam	yãnõmãmɨ 
+rain: maa 
+rainy weather: maa 
+red: wakə 
+path: ma*yo*	piriyo	yoka 
+road: ma*yo*	piriyo	yoka 
+route: ma*yo*	piriyo	yoka 
+root: pei nasikɨ 
+round: koko	komore 
+sand: mrakatahu 
+say: ku-u 
+see: m3	mɨ-ɨ	ta 
+seed: pei mo 
+sit: ro-o 
+hide: pei si	si	sis 
+skin: pei si	si	sis 
+sleep: mi-õ 
+little: ihiru-pɨ 
+small: ihiru-pɨ 
+smallness: ihiru-pɨ 
+smoke: koa wakə ši 
+star: Sitikari	pirim a*fu	šitikari 
+rock: ma ma	maa ma	mama 
+stone: ma ma	maa ma	mama 
+sun: moth~oka	motokaSi	motʰoka 
+swim: karə-ɨ 
+tail: pei šina 
+2 sg: kaf3 wamak3	wa	wamak 
+thou: kaf3 wamak3	wa	wamak 
+you: kaf3 wamak3	wa	wamak 
+tongue: aka	pei aka 
+tooth: na	nak3	pei nakɨ 
+tree: futifi	hi hi 
+grind: horohop3	horohopɨ	porakap3	porakapi	porokabo 
+two: horohop3	horohopɨ	porakap3	porakapi	porokabo 
+go: hu-u 
+walk: hu-u 
+hot: yopri 
+warm: yopri 
+water: mau* u*	maup	maũ ũ 
+1 pl. inc.: kamiyamak	p3mak3	pə-makɨ 
+we: kamiyamak	p3mak3	pə-makɨ 
+we₁: kamiyamak	p3mak3	pə-makɨ 
+what: weti 
+white: au 
+whiteness: au 
+who: weti-nɨ 
+who?: weti-nɨ 
+female: suwə 
+woman: suwə 
+yellow: frãre 
+distant: prahai hamɨ 
+far: prahai hamɨ 
+dull: hute 
+heavy: hute 
+serious: hute 
+close: ahete ha 
+near: ahete ha 
+ner: ahete ha 
+salt: sayu 
+short: horoto-wə 
+snake: oru 
+thin: henasi	hepisi	wãisipɨ 
+wind: watori 
+earthworm: kõhõrõmɨ šikɨ 
+worm: kõhõrõmɨ šikɨ 
+2 pl.: wa-makɨ 
+ye: wa-makɨ 
+you all: wa-makɨ 
+3 pl.: pə	tʰə pə 
+they: pə	tʰə pə 
+where: weti hamɨ 
+where?: weti hamɨ 
+when: weti təhə 
+when?: weti təhə 
+how: weti naha 
+how?: weti naha 
+some: mori	porakapɨ	tahiapɨ	wãisipɨ 
+few: peherimi 
+three: prukatabo 
+broad: hauhu-wə 
+wide: hauhu-wə 
+wideness: hauhu-wə 
+fat: tapɨ-tapɨ 
+thick: prewə 
+narrow: makosi 
+child: ihiru 
+principal wife: suwə-pɨ-yə 
+wife: suwə-pɨ-yə 
+husband: heãrõ-yə 
+his mother: na-yə 
+mother: na-yə 
+my mother: na-yə 
+father: ha-yə 
+his father: ha-yə 
+my father: ha-yə 
+animal: yaro 
+forest: urihi 
+woods: urihi 
+branch: pei poko 
+stick: pei poko 
+fruit: himo-himo 
+flower: pei na 
+grass: moi-moi-ma 
+cord: tʰoku tʰakɨ 
+rope: tʰoku tʰakɨ 
+grease: tapɨ-tapɨ 
+fingernail: pei imisikɨ 
+leg: pei matʰa 
+wing: pei hako 
+gut: pei šikɨ 
+guts: pei šikɨ 
+insides: pei šikɨ 
+intestine: pei šikɨ 
+intestines: pei šikɨ 
+back: pei humapɨ 
+suck: wasusu-aɨ 
+spit: kahu upə kəyə-ɨ 
+vomit: kamiši yoru-u	suha-ɨ 
+blow: hora-ɨ 
+breath: here-here-mo-u 
+breathe: here-here-mo-u 
+laugh: nokã ɨkã-ɨ 
+laughter: nokã ɨkã-ɨ 
+cogitate: puhi ɨmɨkɨ-aɨ 
+reflect: puhi ɨmɨkɨ-aɨ 
+think: puhi ɨmɨkɨ-aɨ 
+smell: ni-ukuku-aɨ 
+sniff: ni-ukuku-aɨ 
+afraid: kiri 
+be afraid: kiri 
+fear: kiri 
+fright: kiri 
+alive: temɨ 
+be alive: temɨ 
+life: temɨ 
+live: temɨ 
+living: temɨ 
+fight: niya-you 
+hunt: rãmɨ hu-u 
+beat: šə-ɨ 
+hit: šə-ɨ 
+strike: šə-ɨ 
+cut: haheti-	hakaro-	hãni-	šeriri- 
+hack: haheti-	hakaro-	hãni-	šeriri- 
+cut open: po-aɨ 
+split: po-aɨ 
+pierce: tiwəhə-aɨ 
+stab: tiwəhə-aɨ 
+dig: tiyə-aɨ 
+tell lies: hore-mou 
+stand: upra-o 
+turn: humapɨ rə-prou	mɨ hatu-o	mɨ rakɨ-o 
+turn around: humapɨ rə-prou	mɨ hatu-o	mɨ rakɨ-o 
+turn round: humapɨ rə-prou	mɨ hatu-o	mɨ rakɨ-o 
+drop: ke-i 
+fall: ke-i 
+grasp: huwə-pou 
+hold: huwə-pou 
+hold in arm: huwə-pou 
+squeeze: ãhũhũ-ãɨ 
+wring: ãhũhũ-ãɨ 
+rub: hãhɨ̃-ãɨ 
+wipe: hãhɨ̃-ãɨ 
+wash: au-aɨ	yaru-u 
+wash clothes: au-aɨ	yaru-u 
+push: hiruru-aɨ 
+shove: hiruru-aɨ 
+throw: hoya-ɨ 
+bind: õkã-ãɨ 
+fasten: õkã-ãɨ 
+tie: õkã-ãɨ 
+tie up: õkã-ãɨ 
+sew: hehã-ãɨ 
+count: owə-ma-ɨ 
+enumerate: owə-ma-ɨ 
+number: owə-ma-ɨ 
+tally: owə-ma-ɨ 
+sing: ãmo-ãmo-u 
+have fun: iriamo-u 
+play: iriamo-u 
+float: pokə-ɨ 
+flow: karə-ɨ 
+brook: para u	poko u 
+river: para u	poko u 
+stream: para u	poko u 
+lake: wawə-wawə 
+dust: hekrã-hekrã 
+fog: ɨhɨraši 
+sky: hetu mɨsi 
+ice: preyura 
+blaze: iši-i 
+burn: iši-i 
+day: haru ha 
+daylight: haru ha 
+daytime: haru ha 
+bad: wãriti-wə 
+evil: wãriti-wə 
+rot: horepɨ	tare 
+rotten: horepɨ	tare 
+dirty: šami 
+filthy: šami 
+soiled: šami 
+straight: šariri-wə 
+sharp: namo 
+blunt: he kõhõ-wə 
+smooth: si kõpehe-wə 
+damp: here 
+wet: here 
+correct: šariri-wə 
+right side: timi poko 
+left: hai poko 
+in: hušõmi hamɨ 
+inside: hušõmi hamɨ 

@@ -1,0 +1,290 @@
+all: kenke 
+every: kenke 
+ash: ntɔ 
+ashes: ntɔ 
+bark: dikpǝ 
+abdomen: kafo 
+belly: kafo 
+big: amɔ 
+bigness: amɔ 
+large: amɔ 
+bird: ɔklɔbɛ 
+bite: nǝ 
+black: naa 
+blood: kotoN	kɔtɔ 
+bone: dikubi 
+breast: lɛmi 
+breasts: lɛmi 
+claw: sɛfiɔ̃ 
+nail: sɛfiɔ̃ 
+talon: sɛfiɔ̃ 
+cloud: lɛsɔmiloku 
+cold: e-yuǝ 
+come: buba	bǝ 
+come from: buba	bǝ 
+be dead: bukp~a	kpǝ 
+dead: bukp~a	kpǝ 
+die: bukp~a	kpǝ 
+dog: okpa	okp~a 
+drink: buna	nǝ 
+dry: kwe 
+ear: koto 
+earth: kasɔ 
+ground: kasɔ 
+land: kasɔ 
+soil: kasɔ 
+eat: di 
+egg: lɛfɔ 
+eye: dinami	dinǝmi 
+fat: nnuebi 
+fat n.: nnuebi 
+grease: nnuebi 
+lubricant: nnuebi 
+oil: nnuebi 
+feather: usǝ 
+fire: uta	utǝ 
+fish: lakp~a	lekpe 
+fly: funini 
+fly v.: funini 
+foot: lekpabuu 
+full: yisǝ 
+give: tǝ 
+good: a-leke 
+green: kwankwa 
+hair: ɔwɔni 
+hand: koni7	kɔnii 
+left hand: koni7	kɔnii 
+right: koni7	kɔnii 
+head: disi 
+hear: bono	nɔ 
+heart: utu 
+horn: likpe 
+1 sg.: ma	mɔ 
+I: ma	mɔ 
+kill: lo 
+knee: lekoNki	lekonki 
+be knowledgeable: te 
+know: te 
+leaf: lefanto 
+lie: labe kasɔ 
+lie down: labe kasɔ 
+liver: lɛkɔ 
+long: kulǝ 
+head louse: bukubi 
+louse: bukubi 
+male: osani 
+man: utidi 
+many: kpǝ 
+much: kpǝ 
+multiple: kpǝ 
+several: kpǝ 
+flesh: sinǝ 
+meat: sinǝ 
+moon: kɔfande 
+hill: kɔtini 
+mountain: kɔtini 
+mouth: kɛnyɛ 
+name: diye 
+title: diye 
+neck: simuǝ 
+new: afɔfɔ 
+night: kaCa	kǝtsyǝ 
+nighttime: kaCa	kǝtsyǝ 
+nose: laNo*	lɛnwɔ 
+adulterous: nnoé	noni	oNw~a	ɔ̀ŋẃέ 
+one: nnoé	noni	oNw~a	ɔ̀ŋẃέ 
+single: nnoé	noni	oNw~a	ɔ̀ŋẃέ 
+that: ǝmǝ 
+the: nnoé	noni	oNw~a	ɔ̀ŋẃέ 
+unprincipled: nnoé	noni	oNw~a	ɔ̀ŋẃέ 
+human: utidi 
+human being: utidi 
+person: utidi 
+rain: ɔsɔmi 
+rainy weather: ɔsɔmi 
+red: asɛɛ 
+path: kusu	kusu* 
+road: kusu	kusu* 
+route: kusu	kusu* 
+root: ote 
+round: kunklo 
+say: teyi 
+see: bu5a	nyǝ 
+seed: dibibi 
+sit: siǝ 
+hide: kukuǝ	kukw~a 
+skin: kukuǝ	kukw~a 
+sleep: labe selabe 
+little: afɛ 
+small: afɛ 
+smallness: afɛ 
+smoke: kuyuǝ 
+stand: nyǝ 
+star: sefanlebi 
+rock: leba	lebamb~i 
+stone: leba	lebamb~i 
+sun: kofe 
+swim: ke 
+tail: ukǝ 
+this: ǝmfo 
+2 sg: fa	fǝ 
+thou: fa	fǝ 
+you: fa	fǝ 
+tongue: odiakami 
+tooth: layi*	lɛnyii 
+tree: kuyi	kuyii 
+grind: inw~a	inwœ̀	nnoe 
+two: inw~a	inwœ̀	nnoe 
+go: yɛ 
+walk: yɛ 
+water: ntu 
+1 pl. inc.: bo	bu 
+we: bo	bu 
+we₁: bo	bu 
+what: be 
+white: flubia 
+whiteness: flubia 
+who: owe 
+who?: owe 
+female: usio 
+woman: usio 
+distant: tsyontsyo 
+far: tsyontsyo 
+dull: -kpeka dindi 
+heavy: -kpeka dindi 
+serious: -kpeka dindi 
+close: nfomǝ 
+near: nfomǝ 
+ner: nfomǝ 
+salt: mba 
+short: -yifo kitikpo 
+snake: owa 
+thin: afe 
+wind: ufiebi 
+earthworm: ɔyinkɔ 
+worm: ɔyinkɔ 
+year: lɛlɛɛ 
+3 sg.: wǝ 
+he: wǝ 
+she: wǝ 
+2 pl.: mi 
+ye: mi 
+you all: mi 
+3 pl.: mǝ 
+they: mǝ 
+here: mfo 
+there: ḿfó 
+where: lɛsieti 
+where?: lɛsieti 
+when: lemanfe 
+when?: lemanfe 
+how: tsyɛsika 
+how?: tsyɛsika 
+few: sɛkɛ 
+other: utsyuǝ ǝmǝ 
+three: ntsyǝ	ǹtše 
+four: nna	nnà 
+five: nnɔ	ǹnɔ 
+broad: ǝsǝnsǝ 
+wide: ǝsǝnsǝ 
+wideness: ǝsǝnsǝ 
+thick: amɔ 
+narrow: ama 
+child: dikpefi 
+principal wife: usiǝ 
+wife: usiǝ 
+husband: usǝ 
+his mother: ambe 
+mother: ambe 
+my mother: ambe 
+father: anto 
+his father: anto 
+my father: anto 
+fruit: diyibibi 
+flower: efukpokpo 
+grass: sefa 
+cord: ukuǝ 
+rope: ukuǝ 
+leg: kukpa 
+wing: opampa 
+gut: sifiǝ 
+guts: sifiǝ 
+insides: sifiǝ 
+intestine: sifiǝ 
+intestines: sifiǝ 
+back: kama 
+suck: fiɔ̃ 
+vomit: la 
+blow: yifǝ ofiebi 
+cogitate: bu disi 
+reflect: bu disi 
+think: bu disi 
+smell: yaanɔ 
+sniff: yaanɔ 
+afraid: sikpi 
+be afraid: sikpi 
+fear: sikpi 
+fright: sikpi 
+alive: kpe nkpǝ 
+be alive: kpe nkpǝ 
+life: kpe nkpǝ 
+live: kpe nkpǝ 
+living: kpe nkpǝ 
+beat: sɔ 
+hit: sɔ 
+strike: sɔ 
+cut: la 
+hack: la 
+dig: ku 
+drop: fankle 
+fall: fankle 
+grasp: muǝ 
+hold: muǝ 
+hold in arm: muǝ 
+squeeze: kǝ 
+wring: kǝ 
+rub: dikiti 
+wipe: dikiti 
+wash: flǝ 
+wash clothes: flǝ 
+pull: nǝ 
+push: kǝ 
+shove: kǝ 
+throw: to 
+bind: sɔ lekpo 
+fasten: sɔ lekpo 
+tie: sɔ lekpo 
+tie up: sɔ lekpo 
+sew: dinwǝ 
+sing: sǝ 
+flow: gbɔdi 
+swell: fɔ 
+lake: ditumukple 
+ocean: lekpo 
+sea: lekpo 
+dust: ntembu 
+sky: difule 
+ice: etubankli 
+blaze: tonsǝ 
+burn: tonsǝ 
+day: diyi 
+daylight: diyi 
+daytime: diyi 
+old: bobe 
+bad: a-bia 
+evil: a-bia 
+rot: bu 
+rotten: bu 
+dirty: a-na 
+filthy: a-na 
+soiled: a-na 
+straight: atsyɔ 
+sharp: kpeko be 
+blunt: kpǝ 
+smooth: tsyɔlɔ tsyɔlɔ 
+damp: bu 
+wet: bu 
+right side: lediani 
+left: dimeni 
+with: ku 
+if: lǝ 

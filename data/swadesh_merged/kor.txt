@@ -1,0 +1,273 @@
+all: 모두	모든 
+every: 모두	모든 
+bark: 나무껍질 
+big: 크다 
+bigness: 크다 
+large: 크다 
+bite: 물다 
+black: 검다	검정	까맣다 
+breast: 가슴 
+breasts: 가슴 
+cloud: 구름 
+cold: 차다	춥다 
+come: 오다 
+come from: 오다 
+be dead: 죽다 
+dead: 죽다 
+die: 죽다 
+drink: 마시다 
+dry: 마르다 
+eat: 먹다 
+feather: 깃털 
+fish: 물고기 
+fly: 날다 
+fly v.: 날다 
+full: 가득	부르다	차다 
+give: 주다 
+good: 좋다 
+green: 초록	푸르다 
+head: 머리 
+hear: 듣다 
+heart: 염통 
+1 sg.: 나	저 
+I: 나	저 
+kill: 죽이다 
+knee: 무릎 
+be knowledgeable: 알다 
+know: 알다 
+long: 길다 
+male: 남자	사나이	사내	수컷 
+man: 사람 
+many: 많은 
+much: 많은 
+multiple: 많은 
+several: 많은 
+hill: 메	산	언덕 
+mountain: 메	산	언덕 
+name: 이름 
+title: 이름 
+new: 새-	새롭다 
+not: -아니다	아니-	안- 
+adulterous: 요	일	하나	한- 
+one: 요	일	하나	한- 
+single: 요	일	하나	한- 
+that: 그-	저- 
+the: 요	일	하나	한- 
+unprincipled: 요	일	하나	한- 
+human: 사람 
+human being: 사람 
+person: 사람 
+red: 붉다	빨강 
+root: 뿌리 
+round: 둥글다 
+sand: 모래 
+say: 말하다 
+see: 보다 
+sit: 앉다 
+hide: 살갗 
+skin: 살갗 
+sleep: 자다 
+little: 작다 
+small: 작다 
+smallness: 작다 
+smoke: 내	연기 
+rock: 돌	바위 
+stone: 돌	바위 
+swim: 헤엄치다 
+tail: 꼬리 
+this: 이- 
+tree: 나무 
+grind: 두-	둘	량	양	이 
+two: 두-	둘	량	양	이 
+go: 걷다 
+walk: 걷다 
+hot: 따뜻하다 
+warm: 따뜻하다 
+1 pl. inc.: 우리	저희 
+we: 우리	저희 
+we₁: 우리	저희 
+what: 무엇 
+white: 희다 
+whiteness: 희다 
+who: 누구 
+who?: 누구 
+female: 계집	암컷	여자 
+woman: 계집	암컷	여자 
+yellow: 노랑	노랗다 
+distant: 멀다 
+far: 멀다 
+dull: 무겁다 
+heavy: 무겁다 
+serious: 무겁다 
+close: 가깝다 
+near: 가깝다 
+ner: 가깝다 
+salt: 소금 
+short: 짧다 
+thin: 얇다 
+wind: 바람 
+earthworm: 벌레 
+worm: 벌레 
+3 sg.: 그	그녀 
+he: 그	그녀 
+she: 그	그녀 
+2 pl.: 너희들 
+ye: 너희들 
+you: 너희들 
+you all: 너희들 
+3 pl.: 그녀들	그들 
+they: 그녀들	그들 
+here: 여기	이곳 
+there: 거기	그곳	저곳	저기 
+where: 어디 
+where?: 어디 
+when: 언제 
+when?: 언제 
+how: 어떻게 
+how?: 어떻게 
+some: 어떤 
+few: 조금 
+other: 다른 
+three: 삼	세-	셋	참 
+four: 네-	넷	사 
+five: 다섯	오 
+broad: 넓다 
+wide: 넓다 
+wideness: 넓다 
+fat: 기름 
+thick: 두껍다 
+narrow: 좁다 
+child: 아이	애	어린이 
+principal wife: 마누라	아내 
+wife: 마누라	아내 
+husband: 남편	사내 
+his mother: 어머니	엄마 
+mother: 어머니	엄마 
+my mother: 어머니	엄마 
+father: 아버지	아빠 
+his father: 아버지	아빠 
+my father: 아버지	아빠 
+animal: 짐승 
+branch: 막대기 
+stick: 막대기 
+fruit: 과일 
+grass: 잔디	풀 
+cord: 밧줄 
+rope: 밧줄 
+flesh: 고기	살 
+meat: 고기	살 
+grease: 기름 
+claw: 손톱 
+fingernail: 손톱 
+nail: 손톱 
+leg: 다리 
+wing: 날개 
+suck: 빨다 
+spit: 침뱉다 
+vomit: 게우다 
+blow: 불다 
+breath: 숨쉬다 
+breathe: 숨쉬다 
+laugh: 웃다 
+laughter: 웃다 
+cogitate: 생각하다 
+reflect: 생각하다 
+think: 생각하다 
+smell: 냄새 
+sniff: 냄새 
+afraid: 두려움	무서움 
+be afraid: 두려움	무서움 
+fear: 두려움	무서움 
+fright: 두려움	무서움 
+alive: 살다 
+be alive: 살다 
+life: 살다 
+live: 살다 
+living: 살다 
+fight: 싸우다 
+hunt: 사냥하다 
+beat: 때리다	치다 
+hit: 때리다	치다 
+strike: 때리다	치다 
+cut: 베다 
+hack: 베다 
+cut open: 갈라지다 
+split: 갈라지다 
+pierce: 찌르다 
+stab: 찌르다 
+scratch: 긁다	비비다 
+dig: 파다 
+lie: 눕다 
+lie down: 눕다 
+tell lies: 눕다 
+stand: 서다 
+turn: 돌다 
+turn around: 돌다 
+turn round: 돌다 
+drop: 떨어지다 
+fall: 떨어지다 
+grasp: 붙잡다	잡다 
+hold: 붙잡다	잡다 
+hold in arm: 붙잡다	잡다 
+squeeze: 짜다 
+wring: 짜다 
+rub: 문지르다 
+wipe: 닦다 
+wash: 빨다	씻다 
+wash clothes: 빨다	씻다 
+pull: 끌다 
+push: 밀다 
+shove: 밀다 
+throw: 던지다 
+bind: 매다 
+fasten: 매다 
+tie: 매다 
+tie up: 매다 
+sew: 꿰매다 
+count: 세다 
+enumerate: 세다 
+number: 세다 
+tally: 세다 
+sing: 노래하다	부르다 
+have fun: 놀다 
+play: 놀다 
+float: 뜨다 
+flow: 흐르다 
+freeze: 얼다 
+swell: 붓다 
+ocean: 바다 
+sea: 바다 
+dust: 먼지 
+fog: 안개 
+sky: 하늘 
+ice: 얼음 
+blaze: 타다 
+burn: 타다 
+day: 낮	하루 
+daylight: 낮	하루 
+daytime: 낮	하루 
+old: 옛-	오래되다 
+bad: 나쁘다 
+evil: 나쁘다 
+rot: 썩다 
+rotten: 썩다 
+dirty: 더럽다 
+filthy: 더럽다 
+soiled: 더럽다 
+straight: 곧다 
+sharp: 날카롭다	뽀족하다 
+blunt: 무디다 
+smooth: 부드럽다 
+damp: 젖다 
+wet: 젖다 
+correct: 맞다	바르다 
+right: 오른쪽 
+right side: 오른쪽 
+left: 왼쪽 
+at: -에서 
+in: -안에	-에 
+inside: -안에	-에 
+with: -와	-하고 
+and: 그리고 
+if: 만약--한다면	만약에 
+because: 때문에 

@@ -1,0 +1,145 @@
+all: wuri 
+ashes: bʊd\du | bʊdʼdu 
+bark: foʠɛ\tsa | foʠɛʼtsa 
+belly: gʷ | gᵘ 
+big: orde 
+bird: kə\fo | kəʼfo 
+bite: sɛts˗ | sɛts- 
+black: ka\rɛts | kaʼrɛts 
+blood: suːtsa | suca	suːtsa 
+bone: me\qeːts | meqec	meʼqeːts 
+breast: d\ant\tsa | Tanc~a	dʼantʼtsa 
+burn: t\su\g˗ 
+claw: t\su\gunts | tʼsuʼgunts 
+cloud: guːle 
+cold: məːč\e | məːčʼe 
+come: y˗ | y	y- 
+die: hay\k\˗ | hak"	hayʼkʼ- 
+dog: ka\na | kana	kaʼna 
+drink: uwiːya | uwiya	uwiːya 
+dry: mela 
+ear: haytse | hace	haytse 
+eat: m˗ | m- 
+egg: b\uːb\ulé | bʼuːbʼulé 
+eye: ayfe | afe	ayfe 
+father: a\dé 
+fat (n.): mɔd\ɔ 
+fire: ta\ma | tama	taʼma 
+fish: mol\lé | mole	molʼlé 
+fly (n.): uzuːnts\e 
+foot: to\ye | toʼye 
+give: ɪng˗ | ɪng- 
+good: loʔo 
+grass: maːta 
+hair: ɪski 
+hand: kuʔše | kuSe	kuʔše 
+head: hʔe 
+hear: šiː˗ | Su	šiː- 
+heart: wəzɛ\na | wəzɛʼna 
+horn: ka\č\eː | kaC"e	kaʼčʼeː 
+I: tanna | tana	tanna 
+kill: wəʔ\d˗ | wəʔʼd- 
+know: ɛ\r˗ | ɛʼr- 
+leaf: yɛː\če | yECe	yɛːʼče 
+liver: tɨri | t3ri	tri	tɨri 
+long: adu\ssu | aduʼssu 
+louse: č\uːče | C"uCe 
+man: as(a) | as	asa 
+many: dɛro 
+meat: ašo 
+moon: agɪne 
+mountain: zuː\ma | zuma	zuːʼma 
+mouth: duː\na | duːʼna 
+name: suːntsa | sunc~a	suːntsa 
+neck: k\oːde | kʼoːde 
+new: oː\rɛts | orEc	oːʼrɛts 
+night: gi\dɔts | gidoc	giʼdɔts 
+one: i\siːno | isino	iʼsiːno 
+other: ha\ra 
+rain: iyra 
+red: zoʔo 
+road: o\ge | oge 
+root: ts\ɛb\o | tsʼɛbʼo 
+sand: an\č\o | anʼčʼo 
+say: y˗ | y- 
+see: bɛ˗ | bE	bɛ- 
+seed: zɛrits 
+sit: u\t˗ | uʼt- 
+skin: gəl\ba | g3lba	gəlʼba 
+sleep: zi\naʔ | ziʼnaʔ 
+small: guːts 
+smoke: č\ua | čʼua 
+snake: šoš | šoš 
+stand: ɪ\k\˗ 
+star: ts\o\lɪnte | c"olint~e	tsʼoʼlɪnte 
+stone: šuːč | Suc	šuːč 
+sun: awaː | awa	awaː 
+swim: gɪ\l˗ | gɪʼl- 
+tail: goyna 
+thin: leʔe 
+this: haysa 
+thou: neːna | nena	neːna 
+three: heːdza 
+tongue: ɪn\ts\ɛr | inc"Er	ɪnʼtsʼɛr 
+tooth: ačə | ac	ac3	ačə 
+tree: ordɛ˗mɪts | mic 
+two: namʔa | nam7~a	namʔa 
+walk: b˗ | taŋgo 
+walk: taŋgo 
+warm: ɪlʔa 
+water: hats\e | hac"e	hatsʼe 
+we: nuːna | nuna 
+wet: ɨrts\a 
+what: a\wa | aʼwa 
+white: bɔʔɔts 
+who: oːni 
+woman: məč̌\əs | məč̌ʼəs 
+you: ɪntani | nena	neːna 
+every: wuri 
+ash: bʊdʼdu 
+abdomen: gᵘ 
+bigness: orde 
+large: orde 
+breasts: Tanc~a	dʼantʼtsa 
+nail: tʼsuʼgunts 
+talon: tʼsuʼgunts 
+come from: y	y- 
+be dead: hak"	hayʼkʼ- 
+dead: hak"	hayʼkʼ- 
+left hand: kuSe	kuʔše 
+right: kuSe	kuʔše 
+1 sg.: tana	tanna 
+be knowledgeable: ɛʼr- 
+head louse: C"uCe 
+male: as	asa 
+much: dɛro 
+multiple: dɛro 
+several: dɛro 
+hill: zuma	zuːʼma 
+title: sunc~a	suːntsa 
+nighttime: gidoc	giʼdɔts 
+nose: sidi	siːdi 
+adulterous: isino	iʼsiːno 
+single: isino	iʼsiːno 
+that: isino	iʼsiːno 
+the: isino	iʼsiːno 
+unprincipled: isino	iʼsiːno 
+human: as	asa 
+human being: as	asa 
+person: as	asa 
+rainy weather: iyra 
+path: oge 
+route: oge 
+hide: g3lba	gəlʼba 
+little: guːts 
+smallness: guːts 
+rock: Suc	šuːč 
+2 sg: nena	neːna 
+grind: nam7~a	namʔa 
+go: taŋgo 
+hot: ɪlʔa 
+1 pl. inc.: nuna 
+we₁: nuna 
+whiteness: bɔʔɔts 
+who?: oːni 
+female: məč̌ʼəs 

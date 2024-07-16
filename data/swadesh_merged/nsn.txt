@@ -1,0 +1,273 @@
+all: buna	te enina wakap	udel	wakap[a] 
+every: buna	te enina wakap	udel	wakap[a] 
+ash: kumahuan	taun 
+ashes: kumahuan	taun 
+abdomen: balan	pakpakona 
+belly: balan	pakpakona 
+big: ulek 
+bigness: ulek 
+large: ulek 
+bird: tetiau	tetiaw[a]	tetsiau 
+bite: et	etir 
+black: kurkurum	kurkurum[u] 
+blood: deuatiN	dewacin	dewatin	dewatiŋi 
+bone: hero	hiro	hiro-	hiron 
+breast: huhu	huhu-	huhun 
+breasts: huhu	huhu-	huhun 
+burn: luh	wa-luh 
+burn tr.: luh	wa-luh 
+cloud: langit	laŋit	mahar 
+cold: malahong	malahoŋ	mamau	mamawa	molomol 
+come: lame	lamlame	la|me 
+come from: lame	lamlame	la|me 
+be dead: mat	mate 
+dead: mat	mate 
+die: mat	mate 
+dog: lo 
+drink: inum 
+dry: kadak	papadak 
+ear: taliNa	talingan	taliŋa 
+eat: an[i]	en 
+egg: tagu	tagun	tagun[a] 
+eye: mata	mata-	matan 
+feather: lale	ulu- 
+fire: hue 
+fish: ian	ian/yan	ian[a] 
+fly: luluh 
+fly v.: luluh 
+full: uoun 
+good: uia	wia 
+green: bukbukir	pelek 
+hair: ulu	ulu-	ulun 
+hand: lima	lima-	liman 
+left hand: lima	lima-	liman 
+right: lima	lima-	liman 
+head: lu	lu-	lun 
+hear: loNor	longor	loŋor	loŋor[o] 
+horn: seir 
+1 sg.: iNgo	ingo	iŋgo	iŋo 
+I: iNgo	ingo	iŋgo	iŋo 
+kill: haluh pos	pos	uelpus 
+knee: uerunar keke 
+be knowledgeable: ate	tang iate 
+know: ate	tang iate 
+leaf: kaman douk	kamana	kamanan 
+lie: rikin	uatek 
+lie down: rikin	uatek 
+liver: kodan	kota	kotan	pakpako 
+long: barah 
+head louse: ut 
+louse: ut 
+male: bulot 
+man: tamat	tamata 
+moon: bialok 
+hill: siusan 
+mountain: siusan 
+mouth: wawa	wawa-	wawan 
+name: haNan	hangan	haŋa 
+title: haNan	hangan	haŋa 
+neck: uekuekon	wekweko-	wekwekon 
+new: timuh 
+night: bong	bouN	boŋ 
+nighttime: bong	bouN	boŋ 
+nose: Nusu	ngusun	ŋusu	ŋusu- 
+adulterous: kah	siok	siok[o]	sioko 
+one: kah	siok	siok[o]	sioko 
+single: kah	siok	siok[o]	sioko 
+that: gaat	gila	rotie 
+the: kah	siok	siok[o]	sioko 
+unprincipled: kah	siok	siok[o]	sioko 
+human: tamat	tamata 
+human being: tamat	tamata 
+person: tamat	tamata 
+rain: huan	huan[a]	uhan 
+rainy weather: huan	huan[a]	uhan 
+red: kubkubar 
+path: lel 
+road: lel 
+route: lel 
+root: wa	wan 
+sand: ion	ion/yon	i|on 
+say: kotow	kulo	men 
+see: baN	bang	baŋ	baŋa 
+sit: tabil	tabil[a] 
+hide: kapako	kapoko	kapoko-	kapokon 
+skin: kapako	kapoko	kapoko-	kapokon 
+sleep: hohow	hohow[o] 
+little: kit/kikitilik	kit[i]	lik 
+small: kit/kikitilik	kit[i]	lik 
+smallness: kit/kikitilik	kit[i]	lik 
+smoke: diku 
+star: pitapit	pitopit 
+rock: palau	palaw[a] 
+stone: palau	palaw[a] 
+sun: pisar 
+swim: huhu	waen 
+tail: wihi	wihing 
+this: gine	rone 
+2 sg: iNga	inga	iŋa	iŋga 
+thou: iNga	inga	iŋa	iŋga 
+you: iNga	inga	iŋa	iŋga 
+tongue: mia	mia-	mian 
+tooth: liuo	liwo	liwo-	liwon 
+tree: douk 
+grind: roriki	torik	torik[i]	toriki 
+two: roriki	torik	torik[i]	toriki 
+go: la	lala 
+walk: la	lala 
+hot: uelsuk	welsuk[u]	welwelsuk 
+warm: uelsuk	welsuk[u]	welwelsuk 
+water: kodom	kodom[o]	laur	wonun[a] 
+1 pl. inc.: iNgeig	ingem	ingom	iŋam	iŋeg	raeg	raem 
+we: iNgeig	ingem	ingom	iŋam	iŋeg	raeg	raem 
+we₁: iNgeig	ingem	ingom	iŋam	iŋeg	raeg	raem 
+what: ahaw | haw	hapa	hawa 
+white: gawgawil 
+whiteness: gawgawil 
+who: mae	mai 
+who?: mae	mai 
+female: kuah	kuah[a] 
+woman: kuah	kuah[a] 
+yellow: awiawel	iawiawel	yawyawel 
+distant: i rehe	irah	ireh 
+far: i rehe	irah	ireh 
+dull: duh	duhu 
+heavy: duh	duhu 
+serious: duh	duhu 
+close: gane hiae	wahuhut	wahuhut[u] 
+near: gane hiae	wahuhut	wahuhut[u] 
+ner: gane hiae	wahuhut	wahuhut[u] 
+salt: teh 
+short: puhin	puhin[a] 
+snake: soi 
+thin: belabel 
+wind: rom 
+earthworm: solet	sosoi 
+worm: solet	sosoi 
+year: iom	kirismas	krismas[i] 
+2 pl.: inga	iŋam	raom 
+ye: inga	iŋam	raom 
+you all: inga	iŋam	raom 
+3 pl.: gisin	gisin[o]	gisit	rasino 
+they: gisin	gisin[o]	gisit	rasino 
+where: ia 
+where?: ia 
+when: mangih	maŋiha 
+when?: mangih	maŋiha 
+how: hapa	hape	hope 
+how?: hapa	hape	hope 
+other: giameh	ginin	giomeher	gisamehe 
+three: towon	towon[o]	towono 
+four: towat[i]	towati	towet 
+five: tolima 
+broad: rabian	tahaŋ 
+wide: rabian	tahaŋ 
+wideness: rabian	tahaŋ 
+fat: hihian	hihianang	uleki- 
+thick: bulut[u]	obot 
+narrow: hehelen	kikisoŋ	kisoŋ 
+principal wife: hinot	kuah[a]	na kuah 
+wife: hinot	kuah[a]	na kuah 
+husband: bulot	na bulut	nabulot 
+his mother: ni	tina	tina- 
+mother: ni	tina	tina- 
+my mother: ni	tina	tina- 
+father: papa	tama	tama- 
+his father: papa	tama	tama- 
+my father: papa	tama	tama- 
+forest: lolon	tatangowon 
+woods: lolon	tatangowon 
+branch: ranan	raŋ 
+stick: ranan	raŋ 
+fruit: uauan	wawan 
+flower: kalaŋuh[u]	purpur 
+grass: garas	graras 
+cord: iawon	woh 
+rope: iawon	woh 
+flesh: maharang	sinsiŋin	siŋin 
+meat: maharang	sinsiŋin	siŋin 
+grease: hihian	hihianang	uleki- 
+wing: tetia|wan	titiawa	titsia|wan 
+gut: bala	todin 
+guts: bala	todin 
+insides: bala	todin 
+intestine: bala	todin 
+intestines: bala	todin 
+back: mudin 
+suck: noum	totop 
+spit: lou	low 
+vomit: lua	luah 
+blow: hag	u 
+breath: ung	uŋ	uŋa 
+breathe: ung	uŋ	uŋa 
+laugh: wanio	wanio- 
+laughter: wanio	wanio- 
+cogitate: naman	namana 
+reflect: naman	namana 
+think: naman	namana 
+smell: amuh 
+sniff: amuh 
+afraid: sokor	sokoro 
+be afraid: sokor	sokoro 
+fear: sokor	sokoro 
+fright: sokor	sokoro 
+alive: tabuar	tua	waŋol 
+be alive: tabuar	tua	waŋol 
+life: tabuar	tua	waŋol 
+live: tabuar	tua	waŋol 
+living: tabuar	tua	waŋol 
+hunt: bue	hihip 
+beat: atuŋ	haluh	posar 
+hit: atuŋ	haluh	posar 
+strike: atuŋ	haluh	posar 
+cut: pok	tokot 
+hack: pok	tokot 
+cut open: polaka	sasang	takpolak 
+split: polaka	sasang	takpolak 
+pierce: haka	sop 
+stab: haka	sop 
+scratch: hin	keh 
+dig: koh	tawi 
+stand: tur 
+drop: dud	pung	puŋ[a] 
+fall: dud	pung	puŋ[a] 
+grasp: kus 
+hold: kus 
+hold in arm: kus 
+squeeze: pos	tiŋia 
+wring: pos	tiŋia 
+throw: bak 
+bind: rokos	wenut 
+fasten: rokos	wenut 
+tie: rokos	wenut 
+tie up: rokos	wenut 
+sew: hairi	somap	susuki 
+count: ah 
+enumerate: ah 
+number: ah 
+tally: ah 
+flow: sosor 
+lake: kodom uleik	kodomo ulek	lobolob 
+ocean: laur	laur|teh	lor	teh 
+sea: laur	laur|teh	lor	teh 
+dust: mongmong	wau	wou 
+fog: bolboloh	luhuluh	malahoŋ 
+sky: langit	laŋit 
+bad: asa	sa 
+evil: asa	sa 
+rot: beng	beŋ 
+rotten: beng	beŋ 
+dirty: beŋ	dikdiku	muskurum	uh[o] 
+filthy: beŋ	dikdiku	muskurum	uh[o] 
+soiled: beŋ	dikdiku	muskurum	uh[o] 
+sharp: man	oman 
+blunt: kalebuk	tutukab	tutukaba 
+damp: bus 
+wet: bus 
+right side: kawiwih	makos[o]	pamua	pangmua 
+left: kais	lais	pangkais 
+at: gala	i 
+in: irolon	ium	lolon	lolon[a] 
+inside: irolon	ium	lolon	lolon[a] 
+and: doh	me 
+if: g-	get	gete 

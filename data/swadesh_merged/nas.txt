@@ -1,0 +1,530 @@
+all: okara | okada 
+all: ookada 
+and: ee\noko 
+arm: inka 
+arm: ŋkaŋ 
+arm: nkang 
+arm: taŋka 
+arm: tanka 
+arm: tanka\ 
+arrow: tumpari 
+ashes: tikan | tikan	tikaŋ 
+ashes: tikáng | tikan	tikaŋ 
+ashes: tikaŋ | tikan	tikaŋ 
+at: -koo 
+back: biːro 
+back: bíro 
+back: kopini 
+bad: odada 
+bad: odakaq 
+bad: orara 
+bark: dopa(\) | dopa7 
+belly: keːde 
+belly: kéde | keːde 
+belly: mau | keːde 
+belly: mintu | keːde 
+big: paŋkai | pankain	paŋkai 
+big: pankái | pankain	paŋkai 
+bird: baden | baden	bareŋ 
+bird: baréng | baden	bareŋ 
+bird: bareŋ | baden	bareŋ 
+bite: kakiantsi | kakiantsi	kampu7	tai 
+bite: kampu\ | kakiantsi	kampu7	tai 
+bite: tai | kakiantsi	kampu7	tai 
+bitter: iríring 
+bitter: iririŋ 
+black: mutaanu\ | mutanu7	tikatika 
+black: mutukau | mutanu7	tikatika 
+black: tikatika | mutanu7	tikatika 
+black: tikátika | mutanu7	tikatika 
+black: tsikatsikang | mutanu7	tikatika 
+blood: eden | eden	erɛŋ 
+blood: ereng | eden	erɛŋ 
+blood: erɛŋ | eden	erɛŋ 
+blow: du\ 
+blow: uːpuantsi 
+blow: uvíran-ansi 
+bone: ko | ko7	koː 
+bone: koː | ko7	koː 
+bone: koo\ | ko7	koː 
+boy: nema-ka 
+branch: kaumpe 
+breast: bu | bu	bu7 
+breast: bu-u | bu	bu7 
+breast: buu\ | bu	bu7 
+breathe: doman 
+breathe: domaːŋ 
+breathe: eanantsi 
+breathe: uampantsi 
+brother: barremanu 
+brother: bataːta 
+brother: -dama\nun 
+brother: mari 
+brother: -oodi 
+brother: -tada\ 
+brother: -tata 
+burn: kau\ 
+burn: pado\ 
+burn: paroantsi 
+burn: tai 
+burn: taiantsi 
+cheek: á 
+cheek: a o 
+chest: murukeu 
+chest: murúkeu 
+child: toto 
+child: toːto 
+chin: apesi 
+chin: apési 
+cloud: kabukabu | ka7mo7	kabukabu 
+cloud: kabúkabu | ka7mo7	kabukabu 
+cloud: komunge | ka7mo7	kabukabu 
+cloud: tupetupe | ka7mo7	kabukabu 
+cold: kamaːri | kamadi	kamaːri 
+cold: kamári | kamadi	kamaːri 
+cold: kámato | kamadi	kamaːri 
+come: moi | mo	moi 
+come: poai | mo	moi 
+count: deːruantsi 
+crocodile: pakia 
+crocodile: pakía 
+cut: toto 
+dance: bitu 
+dark: mutana 
+dark: mutaːna 
+dark: mutánga 
+daughter: (ba)urang 
+daughter: bauraŋ 
+daughter: norang 
+day: dong 
+day: doŋ 
+day: duaːki 
+day: duáki 
+day: kamunoo\ 
+die: moːntsi | moːntsi	o 
+dig: akaumpantsi 
+dig: keen 
+dig: neːkeantsi 
+dirty: kumi ponu 
+dog: mosi | mosi	moti7 
+drink: nai | nai	naiantsi 
+drink: naiantsi | nai	naiantsi 
+ear: dome | dome	dome7	puŋkaŋ 
+ear: dóme | dome	dome7	puŋkaŋ 
+ear: domong | dome	dome7	puŋkaŋ 
+ear: puŋkaŋ | dome	dome7	puŋkaŋ 
+ear: púnkang | dome	dome7	puŋkaŋ 
+earth: kánsi | kanti7 
+earth: kantsi | kanti7 
+earth: mento | kanti7 
+eat: ma\antsi | maʼantsi	taman 
+eat: tama | maʼantsi	taman 
+eat: tamaan | maʼantsi	taman 
+elbow: dukima 
+elbow: tukima 
+eye: ampanaːri | duta 
+eye: ampánari | duta 
+eye: duta 
+eye: dúta | duta 
+face: duta 
+face: dúta 
+face: odo\ 
+fall: pumari 
+far: itipo 
+far: it(s)ipo | itipo 
+father: bauma 
+father: ma 
+father: mma 
+fear: a-mo/do/bo-d- 
+fear: amorontsi 
+feather: kove | kobe7	kove 
+feather: kuku | kobe7	kove 
+finger: biréng 
+finger: bireŋ 
+finger: birɛŋ 
+finger: kakosi 
+fingernail: popo 
+fire: bento | nta	nta7 
+fire: beːnto | nta	nta7 
+fire: (i)nta | nta	nta7 
+fire: nta | nta	nta7 
+fire: urúng | nta	nta7 
+fire: uruŋ | nta	nta7 
+fish: távi | tabi7 
+five: panoko 
+flower: io 
+flower: ío 
+fly (v.): pureːrenantsi 
+fog: kamo 
+foot: kau | kau	kau7 
+foot: kopodoŋ | kau	kau7 
+foot: medoma | kau	kau7 
+foot: médoma | kau	kau7 
+forehead: oi 
+forest: iaba 
+forest: itaku 
+forest: poda\ 
+forest: pora 
+forest: porá 
+four: karenaumo 
+four: kareːnaumo 
+fruit: tina 
+fruit: tiná 
+full: maːntoantsi | manto7 
+girl: nerai-na 
+girl: nerai-na/nerai 
+give: auu | a	avontsi 
+give: avontsi | a	avontsi 
+good: tampada | tampa	tampara 
+good: tampara | tampa	tampara 
+grass: moinsi 
+grass: muínsi 
+grass: muintsi 
+green: kapika | ba7 pina7 odo7	kapika 
+green: kapíka | ba7 pina7 odo7	kapika 
+guts: mintu 
+hair: ipi | dapo	ipi 
+hair: ípi | dapo	ipi 
+hand: koːma | tanka7	taŋka	ŋkaŋ 
+hand: kóma | tanka7	taŋka	ŋkaŋ 
+hand: ŋkaŋ | tanka7	taŋka	ŋkaŋ 
+hand: nkang | tanka7	taŋka	ŋkaŋ 
+hand: tangka | tanka7	taŋka	ŋkaŋ 
+hand: taŋka | tanka7	taŋka	ŋkaŋ 
+head: bore | bode7	bore 
+head: bóre | bode7	bore 
+head: damákua | bode7	bore 
+hear: tara | tada	taːravantsi 
+hear: taːravantsi | tada	taːravantsi 
+heart: maina 
+heavy: maŋki 
+heavy: manki- | maŋki 
+here: emong 
+he/she: ani 
+he/she: aung 
+he/she: auŋ 
+he/she: ba- 
+he/she: bakana 
+hit: kare 
+hit: muda\ 
+hit: nipo\ 
+hit: tauu 
+hole: buuti 
+horn: kainta | kainta	kaintan 
+horn: káinta | kainta	kaintan 
+house: pava 
+house: páva 
+how: areke 
+husband: bau-ung 
+ice: peta 
+I: n- | nin	niŋ 
+I: ŋkana | nin	niŋ 
+I: ning | nin	niŋ 
+I: niŋ | nin	niŋ 
+kill: dupisi | dupisiantsi	ta 
+kill: dupisiantsi | dupisiantsi	ta 
+knee: ming | min	miŋ 
+knee: miŋ | min	miŋ 
+know: norú- | nodu7	noruantsi 
+know: noruantsi | nodu7	noruantsi 
+lake: oːantsi 
+laugh: beŋkenantsi 
+laugh: benke 
+leaf: baː | ba7	baː	pada7 
+leaf: bá(a) | ba7	baː	pada7 
+leaf: pada | ba7	baː	pada7 
+leaf: para | ba7	baː	pada7 
+leg: kau 
+lie: beng 
+lie: takeda\ 
+lightning: piping 
+lightning: pipiŋ 
+lip: beru 
+liver: mona | nonaŋ 
+liver: nonang | nonaŋ 
+liver: nonaŋ 
+long: itika | itika	itiken 
+long: it(s)íka | itika	itiken 
+louse: meumo | panti7 
+louse: pánsi | panti7 
+louse: pantsi | panti7 
+man: doŋkaːni | nanin	naŋiŋ 
+man: donkáni | nanin	naŋiŋ 
+man: naniŋ | nanin	naŋiŋ 
+many: mare | mau7 
+meat: biːo | bio7	biːo 
+meat: bío | bio7	biːo 
+moon: kaːra | kada	kaːra 
+moon: kára | kada	kaːra 
+morning: mata 
+mosquito: muitaka 
+mother: bauko 
+mother: (ba)uko 
+mother: ŋko 
+mother: nko 
+mountain: miːnani | mi	miːnani 
+mountain: mínani | mi	miːnani 
+mouth: kara | kadan	karaŋ	muriŋ 
+mouth: karáng | kadan	karaŋ	muriŋ 
+mouth: karaŋ | kadan	karaŋ	muriŋ 
+mouth: múring | kadan	karaŋ	muriŋ 
+mouth: muriŋ | kadan	karaŋ	muriŋ 
+name: miring | midin	miriŋ 
+name: miriŋ | midin	miriŋ 
+name: tampantsi | midin	miriŋ 
+navel: piokang 
+near: due 
+neck: kúru | kudu	kurukuru 
+neck: kurukuru | kudu	kurukuru 
+new: neraka | nedaka	neraka 
+new: neráka | nedaka	neraka 
+new: urena | nedaka	neraka 
+night: kamuːno | mun	muŋ 
+night: kamúno | mun	muŋ 
+night: kamunu | mun	muŋ 
+night: méumo | mun	muŋ 
+night: mung | mun	muŋ 
+night: muŋ | mun	muŋ 
+night: munga | mun	muŋ 
+nose: nuáng | nuan	nuaŋ 
+old: urika 
+old: uríka 
+one: naruŋ | na	na-	naruŋ 
+one: na-rung/na-ni | na	na-	naruŋ 
+person: naŋiŋ | nanin	naŋiŋ 
+person: náning/nantóng | nanin	naŋiŋ 
+rain: apo | apo	apo7 
+rain: apó | apo	apo7 
+rat: kukúba 
+rat: kutukai 
+rat: kutúkai 
+red: ereere | eden pina7 odo7	erereŋ 
+red: eréreng | eden pina7 odo7	erereŋ 
+red: erereŋ | eden pina7 odo7	erereŋ 
+river: dodoka 
+river: ntong 
+river: ntoŋ 
+river: púnta 
+road: taung 
+road: tauŋ | taun 
+root: kake | kaken	kaːkeŋ 
+root: kaːkeŋ | kaken	kaːkeŋ 
+rope: koːmpo 
+sand: piiti\ | pisi 
+sand: pisi 
+sand: písi | pisi 
+say: karó-nsi | a7	sioantsi	tan 
+say: karontsi | a7	sioantsi	tan 
+say: náu-ansi | a7	sioantsi	tan 
+say: sio-ansi | a7	sioantsi	tan 
+say: sioantsi | a7	sioantsi	tan 
+sea: boa 
+sea: pirúng 
+sea: piruŋ 
+seed: tsina | tinan 
+sew: bavantsi 
+sharp: dapáko 
+sharp: iriːnto 
+short: apuka 
+short: apúka | apuka 
+shoulder: tankove 
+shoulder: tankóve 
+shoulder: ukauma 
+sing: kená 
+sing: kenamari 
+sing: kena-mari 
+sister: bamari 
+sister: barramona 
+sister: mama 
+sister: mari 
+sit: mamuntsi | ba7nan	mamuntsi 
+skin: dopa | dopa	dopa7 
+skin: dópa(ng) | dopa	dopa7 
+sky: dona 
+sky: pánin 
+sky: paniŋ 
+sleep: asi | at	aːtuntsi 
+sleep: aːtuntsi | at	aːtuntsi 
+sleep: utu- | at	aːtuntsi 
+small: okina | oki7na	oki7nin	okina 
+small: okína | oki7na	oki7nin	okina 
+smoke: i 
+smoke: i(-i) 
+smooth: torori 
+snake: boru 
+snake: bóru | boru 
+son: bauring 
+son: bauriŋ 
+spit: koumari 
+spit: tutumpang 
+stand: donko | donkon 
+star: beːnto | bento7	beːnto 
+star: bénto | bento7	beːnto 
+stone: kapáng | kapan	kapaŋ 
+stone: kapaŋ | kapan	kapaŋ 
+straight: koːnto 
+suck: bésiansi 
+suck: poŋkui 
+sun: dua | dua	dua7 
+sun: duá | dua	dua7 
+swim: naːmpemari | kuntu7	naːmpemari 
+tail: báring | badin	bariŋ 
+tail: bariŋ | badin	bariŋ 
+tail: tutu | badin	bariŋ 
+take: bakia\antsi 
+take: moeai 
+that: te | aunka7	auntei7	te 
+that: tei | aunka7	auntei7	te 
+they: aing 
+they: aiŋ 
+they: bi- 
+they: biːkana 
+they two: anaːŋka 
+they two: ananka 
+they two: beːkana 
+think: onóu- 
+think: onouantsi 
+this: aiŋ | ani	aun	auŋ 
+this: auŋ | ani	aun	auŋ 
+thou: da | da	da7	de7 
+thou: da- | da	da7	de7 
+thou: dakana | da	da7	de7 
+thou: diː | da	da7	de7 
+thou: diːkana | da	da7	de7 
+three: benaumo 
+three: beːnaumo 
+throat: túnsi 
+throat: tuntsi 
+thunder: kuruŋkuruŋ 
+thunder: kurúnkuru(ng) 
+tie: dai 
+tie: ipiantsi 
+today: emóng 
+today: emoːŋ 
+tongue: mené-ng | menɛŋ 
+tongue: menɛŋ 
+tooth: tida 
+tooth: t(s)idá | tida 
+tree: koi 
+tree: kói 
+two: kenaːŋka | ke	ke-	kenanka	kenaːŋka 
+two: kenanka | ke	ke-	kenanka	kenaːŋka 
+unripe: mena 
+vagina: beno 
+vomit: kurinantsi 
+walk: kuaːmari 
+walk: maniai 
+walk: nanantsi 
+walk: nanu 
+warm: takataka 
+warm: takátaka | takataka 
+wash: duːmari 
+wash: duːpantsi 
+water: ntong | nton	ntoŋ 
+water: ntoŋ | nton	ntoŋ 
+water: punta | nton	ntoŋ 
+weep: biromari 
+weep: tadu 
+we (incl.): niː 
+we: ni | ne7	niː 
+we: ni- | ne7	niː 
+we: niːkana | ne7	niː 
+wet: tompa 
+we two (incl.): neː 
+we two (incl.): neːkana 
+we two: ne 
+what: ampi | ampi	ampin	ba 
+what: arera | ampi	ampin	ba 
+where: are 
+white: kakaːra | kakada	kakaːra 
+white: kakára | kakada	kakaːra 
+who: ba | bai	baː- 
+who: baː- | bai	baː- 
+wide: dapako 
+wife: ba-ang 
+wife: ba\aŋ 
+wind: dovi | pioŋ 
+wind: okora | pioŋ 
+wind: pióng | pioŋ 
+wind: pioŋ 
+wind: uana | pioŋ 
+wipe: piuːantsi 
+woman: manikuma 
+woman: maníku-ma | manikuma 
+woman: maniku-ma/maniku | manikuma 
+wood: dontsi 
+wood: koi 
+wood: koina-vo/koini 
+worm: boru 
+yellow: tomumnupina 
+yesterday: kemaki 
+you: di | da	da7	de7 
+you: di- | da	da7	de7 
+you two: de 
+you two: deː 
+you two: deːkana 
+every: okada 
+ash: tikan	tikaŋ 
+abdomen: keːde 
+bigness: pankain	paŋkai 
+large: pankain	paŋkai 
+breasts: bu	bu7 
+claw: popo 
+nail: popo 
+talon: popo 
+come from: mo	moi 
+be dead: moːntsi	o 
+dead: moːntsi	o 
+dry: tempan 
+ground: kanti7 
+land: kanti7 
+soil: kanti7 
+egg: tinka7 
+fat: menanka 
+fat n.: menanka 
+grease: menanka 
+lubricant: menanka 
+oil: menanka 
+fly: pudeden	pureːrenantsi 
+fly v.: pudeden	pureːrenantsi 
+left hand: tanka7	taŋka	ŋkaŋ 
+right: tanka7	taŋka	ŋkaŋ 
+1 sg.: nin	niŋ 
+be knowledgeable: nodu7	noruantsi 
+head louse: panti7 
+male: donkani	naniŋ 
+much: mau7 
+multiple: mau7 
+several: mau7 
+flesh: bio7	biːo 
+hill: mi	miːnani 
+title: midin	miriŋ 
+nighttime: mun	muŋ 
+not: adu 
+adulterous: na	na-	naruŋ 
+single: na	na-	naruŋ 
+the: na	na-	naruŋ 
+unprincipled: na	na-	naruŋ 
+human: nanin	naŋiŋ 
+human being: nanin	naŋiŋ 
+rainy weather: apo	apo7 
+path: taun 
+route: taun 
+hide: dopa	dopa7 
+little: oki7na	oki7nin	okina 
+smallness: oki7na	oki7nin	okina 
+rock: kapan	kapaŋ 
+2 sg: da	da7	de7 
+grind: ke	ke-	kenanka	kenaːŋka 
+hot: takataka 
+1 pl. inc.: ne7	niː 
+we₁: ne7	niː 
+whiteness: kakada	kakaːra 
+who?: bai	baː- 
+female: manikuma 
+distant: itipo 
+dull: maŋki 
+serious: maŋki 
+close: due 
+ner: due 
+earthworm: boru 

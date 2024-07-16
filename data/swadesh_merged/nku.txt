@@ -1,0 +1,144 @@
+all: fiw 
+every: fiw 
+ash: daːsʊgɔ	daːsʊw 
+ashes: daːsʊgɔ	daːsʊw 
+abdomen: lagaʼɔ̃	lagaʼʊ̃ 
+belly: lagaʼɔ̃	lagaʼʊ̃ 
+big: tɪrɪyɔ 
+bigness: tɪrɪyɔ 
+large: tɪrɪyɔ 
+bird: lĩbi	lĩbu 
+bite: dũ 
+black: biː 
+blood: to	tʊɔm 
+bone: xu	xuku	xunu 
+breast: go	ɲʊ̃gɔ 
+breasts: go	ɲʊ̃gɔ 
+claw: nʊtɪxɪ̃gɔ	nʊtɪxɪ̃w 
+nail: nʊtɪxɪ̃gɔ	nʊtɪxɪ̃w 
+talon: nʊtɪxɪ̃gɔ	nʊtɪxɪ̃w 
+cloud: gɔ̃tʊ 
+cold: togoni 
+come: yi 
+come from: yi 
+be dead: pi	pɪː 
+dead: pi	pɪː 
+die: pi	pɪː 
+dog: mamʋ	man	mana 
+drink: hẽ	ne 
+dry: xɪːlɛ 
+ear: te*n	tʰem	tʰẽgo 
+eat: xuwo 
+egg: fologo	folow 
+eye: hĩbigi	hĩbu	py~e 
+feather: filifi	filu 
+fire: da	daga	daw 
+fish: pu	pʊrɔ	pʋnɔ 
+fly: fero 
+fly v.: fero 
+foot: naʊnʊ	naʊ̃ko 
+full: kã 
+give: ham 
+good: kɛrɛ 
+hair: tɔfiligi	tɔfilu 
+hand: nu	nupaːkɔ	nupaːnu 
+left hand: nu	nupaːkɔ	nupaːnu 
+right: nu	nupaːkɔ	nupaːnu 
+head: ugu	uw 
+hear: ka*	kã 
+horn: bE*	ulugu	uluw 
+1 sg.: miyɛ	my~a 
+I: miyɛ	my~a 
+kill: ko 
+knee: tokp~u 
+be knowledgeable: gi 
+know: gi 
+leaf: gb~E	gɛ̃ː	gɪyɛgɛ 
+lie: dɪyɛ 
+lie down: dɪyɛ 
+liver: py~E* 
+long: sũ 
+male: yʊbɔ	ɲʊ̃ 
+man: 5o	yʊbɔ	ɲʊ̃ 
+many: poko 
+much: poko 
+multiple: poko 
+several: poko 
+moon: fɪgɛ	fɪ̃w 
+hill: gbʊkɔ	gbʊnɔ 
+mountain: gbʊkɔ	gbʊnɔ 
+mouth: nɔ̃	nɔ̃ɣɔ 
+name: yu	yɪkɔ	yɪnɔ 
+title: yu	yɪkɔ	yɪnɔ 
+new: bɛlɛtɪgɛ 
+night: dErE	dɪdɪyɛgɛ	dɪzɪyɛgɛ 
+nighttime: dErE	dɪdɪyɛgɛ	dɪzɪyɛgɛ 
+nose: mɪtɪyaga	mʊtɛ̃yɛ	sa* 
+not: ka 
+adulterous: ta*	taː 
+one: ta*	taː 
+single: ta*	taː 
+that: xʊwɔ 
+the: ta*	taː 
+unprincipled: ta*	taː 
+human: 5o	yʊbɔ	ɲʊ̃ 
+human being: 5o	yʊbɔ	ɲʊ̃ 
+person: 5o	yʊbɔ	ɲʊ̃ 
+rain: yɔkɔ 
+rainy weather: yɔkɔ 
+red: bãyɔ 
+path: bon 
+road: bon 
+route: bon 
+root: dɛgbaramʊw 
+round: xɪrɪxɪrɪ 
+sand: pɛrɛkɛ 
+say: dʊkɛ 
+see: hi	nɪ 
+sit: ɪsɪ 
+hide: to	tɔgɔ	tɔw	tɔɣɔ 
+skin: to	tɔgɔ	tɔw	tɔɣɔ 
+sleep: diyɛ 
+little: tɪrɪyɔ 
+small: tɪrɪyɔ 
+smallness: tɪrɪyɔ 
+smoke: dãʔyogo 
+star: paraw	paraygɛ	payi 
+rock: ni	niːki	niːni 
+stone: ni	niːki	niːni 
+sun: gb~ere	gɪdaga 
+tail: xɪluw	xɪlɪgɛ 
+this: xʊwɔ 
+2 sg: va 
+thou: va 
+you: va 
+tongue: delemu	delen	delẽgo 
+tooth: kagamʊ	kagan	kaʔãgɔ 
+tree: dy~E 
+grind: 5u	bɪla 
+two: 5u	bɪla 
+go: yaːlɛ 
+walk: yaːlɛ 
+water: yo	yɔkɔ 
+1 pl. inc.: by~a 
+we: by~a 
+we₁: by~a 
+what: bɛ 
+white: bulow 
+whiteness: bulow 
+who: ãla 
+who?: ãla 
+female: yɛrɛ	yɛːpɔ 
+woman: yɛrɛ	yɛːpɔ 
+distant: zɔw 
+far: zɔw 
+dull: pɪnɔ 
+heavy: pɪnɔ 
+serious: pɪnɔ 
+close: kanaga 
+near: kanaga 
+ner: kanaga 
+salt: laʔãgɔ	laːn 
+short: lũ 
+snake: xɪwɔ	xɪwɔw 
+year: hʊrkɔ	hʊrnɔ 

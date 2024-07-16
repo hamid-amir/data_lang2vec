@@ -1,0 +1,380 @@
+all: annee | అందరు	అన్నీ	మొత్తము 
+all: ella | అందరు	అన్నీ	మొత్తము 
+and: mariyu | మరియు 
+animal: jantuvu | జంతువు 
+ashes: boodida | బూడిద 
+ash: nigur̲u | బూడిద 
+at: vayipu | -వద్ద	-వైపు 
+back: venaka | వీపు	వెన్ను 
+bad: chedu | చెడ్డ 
+bark: morugu | బెరడు 
+belly: kadupu,potta | కడుపు	పొట్ట 
+belly: poṭṭa | కడుపు	పొట్ట 
+belly: potta,kadupu | కడుపు	పొట్ట 
+big: daṭṭamu | పెద్ద 
+big: pedda | పెద్ద 
+big: perugu | పెద్ద 
+bird: pitta | పక్షి	పిట్ట 
+bite: karuchu | కరచు	కొరుకు 
+black: kar- | కర్రి	నల్ల 
+black: nalupu,nalla | కర్రి	నల్ల 
+blood: netturu | నెత్తురు	రక్తము 
+blood: netturu,raktamu | నెత్తురు	రక్తము 
+blow: debba | ఊదు	వీచు 
+bone: emuka,bokka | ఎముక	బొక్క	బొమికె 
+breast: rommu | చన్ను	స్తనము 
+burn: eriyu | కాలు	మండు 
+burn: mandu,kaalu | కాలు	మండు 
+claw: gōru | గోరు 
+cloud: mabbu | మబ్బు 
+cloud: mogulu | మబ్బు 
+cold: ār̲u | చల్లని 
+cold: chali | చల్లని 
+come: vaccu | వచ్చు 
+die: caccu | చచ్చు 
+die: chaavu | చచ్చు 
+dog: kukka | కుక్క 
+drink: thaagu | తాగు 
+drink: ūṭu | తాగు 
+dry: endu | ఎండు	పొడి 
+ear: cevi | చెవి 
+ear: chevi | చెవి 
+earth: bhoomi,matti,mannu | నేల	మట్టి	మన్ను 
+earth: nēla | నేల	మట్టి	మన్ను 
+eat: thinu | తిను 
+eat: tinu | తిను 
+egg: gruḍḍu | గుడ్డు 
+egg: guddu | గుడ్డు 
+eye: kannu | కన్ను	నేత్రం 
+eye: kanu | కన్ను	నేత్రం 
+fat (n.): kovvu 
+feather: eeka | ఈక 
+fingernail: gooru | గోరు 
+fire: ciccu | నిప్పు	మంట 
+fire: kittu | నిప్పు	మంట 
+fire: manta | నిప్పు	మంట 
+fish: chepa | చేప 
+fish: kakka | చేప 
+fish: mīnu | చేప 
+fly: par̲acu | ఎగరవేయు	ఎగురు 
+fly (v.): eguru 
+foot: adugu | అడుగు	పాదము 
+foot: kālu | అడుగు	పాదము 
+full: ner̲a | నిండు 
+full: nindu | నిండు 
+give: iccu | ఇచ్చు 
+give: ivvu,ichchu | ఇచ్చు 
+good: manchi | మంచి 
+grease: kovvu | కొవ్వు 
+grease: krovvu | కొవ్వు 
+green: aaku pachchani | పచ్చ 
+green: pacca | పచ్చ 
+hair: vendruka,ventruka | జుట్టు	వెంట్రుకలు 
+hand: cēyi | చెయ్యి	చేయి 
+hand: cheyi | చెయ్యి	చేయి 
+head: tala | తల 
+head: thala | తల 
+hear: vinu | విను 
+horn: kommu | కొమ్ము 
+I: ēnu | నేను 
+I: nēnu | నేను 
+kill: kollu | చంపు 
+knee: maṇḍi | మోకాలు 
+know: er̲ūgu | ఎరుగు	తెలుసుకొను 
+leaf: āku | ఆకు 
+lie: keḍayu | పడుకొను 
+long: nīl- | పొడవైన 
+louse: pēnu | పేను 
+man: gaṇḍu | మనిషి 
+moon: nela | చందమామ	చంద్రుడు	నెలవేల్పు 
+mountain: mala | కొండ 
+mouth: vāyi | నోరు	మూతి 
+name: peru | పేరు 
+name: pēru | పేరు 
+near: aḍ- | దగ్గర 
+near: ḍāpu | దగ్గర 
+nose: mukku | ముక్కు 
+one: oṇḍu | ఒకటి 
+one: orima | ఒకటి 
+red: cem- | ఎర్ర 
+root: vēru | వేరు 
+salt: uppu | ఉప్పు 
+say: anu | చెప్పు | ఇసుక 
+seed: kuriḍī | విత్తనం 
+seed: vittu | విత్తనం 
+see: kān- | చూచు 
+see: kanu | చూచు 
+short: giḍḍa | పొట్టి 
+short: kur̲u- | పొట్టి 
+skin: tokka | చర్మము	తోలు 
+sleep: kala | కునుకు	తూగు	నిద్ర పోవు 
+small: cir̲u | చిన్న 
+smoke: poga | పొగ 
+snake: pāmu | పాము 
+snake: trācu | పాము 
+stand: nilucu | నిలబడు	నిలుచొను 
+star: cukka | చుక్క	తార	నక్షత్రం 
+stone: kallu | రాయి 
+sun: proddu | పొద్దు	సూర్యుడు 
+swim: īdu | ఈదు 
+tail: tōka | తోక 
+that: adi | అది | ఒకటి 
+thin: asi | పలుచని	సన్నని 
+this: ī- | ఇది 
+this: idi | ఇది 
+thou: nīvu | నీవు	నువ్వు 
+tongue: nālika | నాలుక 
+tooth: palu | పన్ను 
+tree: mānu | చెట్టు 
+tree: mrāku | చెట్టు 
+tree: mrānu | చెట్టు 
+two: iru- | రెండు 
+two: renca | రెండు 
+walk: ēgu | నడుచు 
+walk: naḍa | నడుచు 
+water: nīru | నీరు 
+we (excl.): ēmu 
+we (incl.): manamu 
+we: memu | మనము	మేము 
+what: ev- | ఏంటి	ఏమిటి 
+white: velu- | తెల్ల 
+who: evaḍu | ఎవరు 
+wind: gāli | గాలి 
+wind: karu-vali | గాలి 
+woman: āḷu | ఆడది	మహిళ	స్త్రీ 
+woman: āṭadi | ఆడది	మహిళ	స్త్రీ 
+worm: purugu | పురుగు 
+year: ēḍu | యేడాది	యేడు	సంవత్సరం 
+every: అందరు	అన్నీ	మొత్తము 
+abdomen: కడుపు	పొట్ట 
+bigness: పెద్ద 
+large: పెద్ద 
+breasts: చన్ను	స్తనము 
+come from: వచ్చు 
+be dead: చచ్చు 
+dead: చచ్చు 
+ground: నేల	మట్టి	మన్ను 
+land: నేల	మట్టి	మన్ను 
+soil: నేల	మట్టి	మన్ను 
+fly v.: ఎగరవేయు	ఎగురు 
+heart: గుండె 
+1 sg.: నేను 
+be knowledgeable: ఎరుగు	తెలుసుకొను 
+liver: కాలేయం 
+head louse: పేను 
+male: పురుషుడు	మగవాడు 
+many: చాలా 
+much: చాలా 
+multiple: చాలా 
+several: చాలా 
+hill: కొండ 
+title: పేరు 
+neck: కంఠం	మెడ 
+new: కొత్త 
+night: మాపు	రాత్రి	రేయి 
+nighttime: మాపు	రాత్రి	రేయి 
+not: కాదు	లేదు 
+adulterous: ఒకటి 
+single: ఒకటి 
+the: ఒకటి 
+unprincipled: ఒకటి 
+human: మనిషి 
+human being: మనిషి 
+person: మనిషి 
+rain: కురియు	వర్షించు 
+rainy weather: కురియు	వర్షించు 
+path: బాట 
+road: బాట 
+route: బాట 
+round: గుండ్రని 
+sand: ఇసుక 
+sit: కూర్చొను 
+hide: చర్మము	తోలు 
+little: చిన్న 
+smallness: చిన్న 
+rock: రాయి 
+2 sg: నీవు	నువ్వు 
+you: నీవు	నువ్వు 
+grind: రెండు 
+go: నడుచు 
+hot: వెచ్చని 
+warm: వెచ్చని 
+1 pl. inc.: మనము	మేము 
+we₁: మనము	మేము 
+whiteness: తెల్ల 
+who?: ఎవరు 
+female: ఆడది	మహిళ	స్త్రీ 
+yellow: పసుపు 
+distant: దూరం 
+far: దూరం 
+dull: బరువైన 
+heavy: బరువైన 
+serious: బరువైన 
+close: దగ్గర 
+ner: దగ్గర 
+earthworm: పురుగు 
+3 sg.: అతడు	అతను	వాడు	వారు 
+he: అతడు	అతను	వాడు	వారు 
+she: అతడు	అతను	వాడు	వారు 
+2 pl.: తమరు	మీరు 
+ye: తమరు	మీరు 
+you all: తమరు	మీరు 
+3 pl.: అవి	వాళ్ళు 
+they: అవి	వాళ్ళు 
+here: ఇక్కడ	ఇచ్చట ఈడ 
+there: అక్కడ	అచ్చట	ఆడ 
+where: ఎక్కడ	ఎచ్చట	ఏడ 
+where?: ఎక్కడ	ఎచ్చట	ఏడ 
+when: ఎప్పుడు 
+when?: ఎప్పుడు 
+how: ఎట్లా	ఎలా 
+how?: ఎట్లా	ఎలా 
+some: కొంత	కొందరు	కొన్ని 
+few: కొన్ని 
+other: ఇతర	వేరే 
+three: మూడు 
+four: నాలుగు 
+five: ఐదు 
+broad: వెడల్పైన 
+wide: వెడల్పైన 
+wideness: వెడల్పైన 
+fat: కొవ్వు 
+thick: మందమైన 
+narrow: ఇరుకైన	సన్నని 
+child: పిల్ల	పిల్లవాడు 
+principal wife: ఆలి	పెళ్ళాం	భార్య 
+wife: ఆలి	పెళ్ళాం	భార్య 
+husband: పెనిమిటి	భర్త	మొగుడు 
+his mother: అమ్మ	తల్లి 
+mother: అమ్మ	తల్లి 
+my mother: అమ్మ	తల్లి 
+father: తండ్రి	నాన్న 
+his father: తండ్రి	నాన్న 
+my father: తండ్రి	నాన్న 
+forest: అడవి 
+woods: అడవి 
+branch: కట్టె	కర్ర 
+stick: కట్టె	కర్ర 
+fruit: పండు	ఫలము 
+flower: పువ్వు	పుష్పము 
+grass: గడ్డి 
+cord: తాడు	మోకు 
+rope: తాడు	మోకు 
+flesh: మాంసం 
+meat: మాంసం 
+nail: గోరు 
+leg: కాలు 
+arm: చెయ్యి	చేయి 
+wing: రెక్క 
+gut: పేగులు 
+guts: పేగులు 
+insides: పేగులు 
+intestine: పేగులు 
+intestines: పేగులు 
+suck: చీకు 
+spit: ఉమ్ము 
+vomit: కక్కు 
+breath: ఊపిరి పీల్చు 
+breathe: ఊపిరి పీల్చు 
+laugh: నవ్వు 
+laughter: నవ్వు 
+cogitate: ఆలోచించు 
+reflect: ఆలోచించు 
+think: ఆలోచించు 
+smell: మూచ్చూచు	వాసన చూచు 
+sniff: మూచ్చూచు	వాసన చూచు 
+afraid: బెదురు	భయపడు 
+be afraid: బెదురు	భయపడు 
+fear: బెదురు	భయపడు 
+fright: బెదురు	భయపడు 
+alive: బతుకు 
+be alive: బతుకు 
+life: బతుకు 
+live: బతుకు 
+living: బతుకు 
+fight: పోరాడు 
+hunt: వేటాడు 
+beat: కొట్టు 
+hit: కొట్టు 
+strike: కొట్టు 
+cut: కోయు 
+hack: కోయు 
+cut open: చీల్చు 
+split: చీల్చు 
+pierce: పొడుచు 
+stab: పొడుచు 
+scratch: గీరు 
+dig: తవ్వు 
+lie down: పడుకొను 
+tell lies: పడుకొను 
+turn: తిప్పు	తిరుగు 
+turn around: తిప్పు	తిరుగు 
+turn round: తిప్పు	తిరుగు 
+drop: పడు 
+fall: పడు 
+grasp: పట్టుకొను 
+hold: పట్టుకొను 
+hold in arm: పట్టుకొను 
+squeeze: పిసుకు 
+wring: పిసుకు 
+rub: రుద్దు 
+wipe: తుడుచు 
+wash: కడుగు 
+wash clothes: కడుగు 
+pull: లాగు 
+push: తోయు	నెట్టు 
+shove: తోయు	నెట్టు 
+throw: విసురు 
+bind: కట్టు 
+fasten: కట్టు 
+tie: కట్టు 
+tie up: కట్టు 
+sew: కుట్టు 
+count: లెక్కించు 
+enumerate: లెక్కించు 
+number: లెక్కించు 
+tally: లెక్కించు 
+sing: పాడు 
+have fun: ఆడు 
+play: ఆడు 
+float: తేలు 
+flow: పారు 
+freeze: గడ్డకట్టు 
+swell: వాచు 
+brook: నది 
+river: నది 
+stream: నది 
+lake: సరస్సు 
+ocean: కడలి	సముద్రం 
+sea: కడలి	సముద్రం 
+dust: దుమ్ము 
+fog: పొగమంచు 
+sky: ఆకాశం	నింగి 
+snow: మంచు 
+ice: గడ్డమంచు 
+blaze: కాలు	మండు 
+day: పగలు 
+daylight: పగలు 
+daytime: పగలు 
+old: పాత 
+evil: చెడ్డ 
+rot: కుళ్ళిన	చెడిన 
+rotten: కుళ్ళిన	చెడిన 
+dirty: మురికైన 
+filthy: మురికైన 
+soiled: మురికైన 
+straight: నేరు 
+sharp: పదునైన 
+blunt: మొండి	మొద్దైన 
+smooth: నున్నని 
+damp: తడి 
+wet: తడి 
+correct: సరైన 
+right: కుడి 
+right side: కుడి 
+left: ఎడమ 
+in: -లో 
+inside: -లో 
+with: -తో 
+if: -ఇతే 
+because: -వల్ల	ఎందుకంటే 

@@ -1,0 +1,267 @@
+all: samena	saraʔa 
+every: samena	saraʔa 
+ash: kaluḇu 
+ashes: kaluḇu 
+abdomen: loko 
+belly: loko 
+big: naʔe 
+bigness: naʔe 
+large: naʔe 
+bird: nasi 
+bite: ngenge 
+black: meʔe 
+blood: ra7a	raʔa 
+bone: peke 
+breast: susu	tando	tand~o 
+breasts: susu	tando	tand~o 
+burn: kaʔa 
+burn tr.: kaʔa 
+cloud: riru 
+cold: ḇusi 
+come: mai 
+come from: mai 
+be dead: made 
+dead: made 
+die: made 
+dog: lako 
+drink: nono 
+dry: mango 
+ear: fiko 
+eat: ngaha 
+egg: dolu 
+eye: mada 
+feather: kere 
+fire: afi 
+fish: uta 
+fly: ngemo 
+fly v.: ngemo 
+good: taho 
+green: jao 
+hair: honggo 
+hand: rima 
+left hand: rima 
+right: rima 
+head: tuta 
+hear: kade7e	kadeʔe 
+1 sg.: lamada	nahu 
+I: lamada	nahu 
+kill: hade 
+be knowledgeable: loa	ḇade 
+know: loa	ḇade 
+leaf: ro7o	roʔo 
+lie: ndore 
+lie down: ndore 
+liver: ade 
+long: naru 
+head louse: hudu 
+louse: hudu 
+male: mone	rangga 
+man: dou 
+moon: wura 
+mouth: asa 
+name: Nara	ngara 
+title: Nara	ngara 
+neck: woʔo 
+new: bou	ḇou 
+night: aimaNadi	aimangaḏi 
+nighttime: aimaNadi	aimangaḏi 
+nose: ilu 
+adulterous: iCa	ica	sa 
+one: iCa	ica	sa 
+single: iCa	ica	sa 
+that: aka	ede 
+the: iCa	ica	sa 
+unprincipled: iCa	ica	sa 
+human: dou 
+human being: dou 
+person: dou 
+rain: ura 
+rainy weather: ura 
+red: kala 
+path: nC~ai	ncai 
+road: nC~ai	ncai 
+route: nC~ai	ncai 
+root: amu 
+sand: sarae 
+say: nggahi 
+see: ntande	nt~and~e	tio 
+sit: doho 
+hide: huri 
+skin: huri 
+sleep: maru 
+little: liko	toʔi 
+small: liko	toʔi 
+smallness: liko	toʔi 
+smoke: oḇu 
+star: ntara	nt~ara 
+rock: wadu 
+stone: wadu 
+swim: liwa 
+tail: keto 
+this: ake 
+2 sg: Ng~omi	ndaimu	nd~aihu	nggomi 
+thou: Ng~omi	ndaimu	nd~aihu	nggomi 
+you: Ng~omi	ndaimu	nd~aihu	nggomi 
+tongue: lera 
+tooth: woi 
+tree: haju 
+grind: dua	rua	ḏua 
+two: dua	rua	ḏua 
+go: lampa 
+walk: lampa 
+hot: pana 
+warm: pana 
+water: oi 
+1 pl. inc.: nami	ndaita	nd~aita 
+we: nami	ndaita	nd~aita 
+we₁: nami	ndaita	nd~aita 
+what: au 
+white: ḇura 
+whiteness: ḇura 
+who: cou 
+who?: cou 
+female: siwe 
+woman: siwe 
+yellow: monca 
+distant: doʔo 
+far: doʔo 
+dull: tani 
+heavy: tani 
+serious: tani 
+close: ḏeni 
+near: ḏeni 
+ner: ḏeni 
+salt: sia 
+short: pada	poro 
+snake: sawa 
+thin: nipi 
+wind: angi 
+earthworm: koli 
+worm: koli 
+year: mbaʔana 
+2 pl.: nggomi ḏoho 
+ye: nggomi ḏoho 
+you all: nggomi ḏoho 
+3 pl.: sia ḏoho 
+they: sia ḏoho 
+where: taḇe 
+where?: taḇe 
+when: ḇune ai 
+when?: ḇune ai 
+how: ḇune 
+how?: ḇune 
+other: laina 
+three: tolu	tělu 
+four: paq	upa 
+five: lima 
+broad: lembo	paja 
+wide: lembo	paja 
+wideness: lembo	paja 
+fat: apa 
+thick: teḇe 
+narrow: tuka 
+principal wife: wei 
+wife: wei 
+husband: rahi 
+his mother: ina 
+mother: ina 
+my mother: ina 
+father: ama	uba 
+his father: ama	uba 
+my father: ama	uba 
+forest: wuḇa 
+woods: wuḇa 
+branch: sanga 
+stick: sanga 
+fruit: wua haju 
+flower: bunga	wunta 
+grass: mpori 
+cord: ai 
+rope: ai 
+flesh: hiʔi 
+meat: hiʔi 
+grease: apa 
+wing: kalete 
+gut: isi loko 
+guts: isi loko 
+insides: isi loko 
+intestine: isi loko 
+intestines: isi loko 
+back: deri 
+suck: kamuci 
+spit: katufe 
+vomit: lohi 
+blow: ewu 
+breath: sasi nawa 
+breathe: sasi nawa 
+laugh: hari 
+laughter: hari 
+cogitate: fiki	kananu 
+reflect: fiki	kananu 
+think: fiki	kananu 
+smell: ngilu 
+sniff: ngilu 
+afraid: dahu 
+be afraid: dahu 
+fear: dahu 
+fright: dahu 
+alive: mori 
+be alive: mori 
+life: mori 
+live: mori 
+living: mori 
+hunt: nggalo 
+beat: nduku	ḇoe 
+hit: nduku	ḇoe 
+strike: nduku	ḇoe 
+cut: dompo	fati 
+hack: dompo	fati 
+cut open: biʔa	tela 
+split: biʔa	tela 
+pierce: tuḇa 
+stab: tuḇa 
+scratch: garo	kao 
+dig: ngari 
+stand: kiḏi 
+drop: maḇu 
+fall: maḇu 
+grasp: nenti	ḏama 
+hold: nenti	ḏama 
+hold in arm: nenti	ḏama 
+squeeze: pici	pua 
+wring: pici	pua 
+throw: leo	ḇale 
+bind: ḏiki 
+fasten: ḏiki 
+tie: ḏiki 
+tie up: ḏiki 
+sew: ndaʔu 
+count: reke 
+enumerate: reke 
+number: reke 
+tally: reke 
+flow: rai	tanggiru 
+lake: dano 
+ocean: moti 
+sea: moti 
+dust: kaluḇu 
+fog: apu 
+sky: langi 
+bad: daḇae 
+evil: daḇae 
+rot: mbai	mburu 
+rotten: mbai	mburu 
+dirty: sampu 
+filthy: sampu 
+soiled: sampu 
+sharp: geri	ngaha 
+blunt: dudu 
+damp: mbeca 
+wet: mbeca 
+right side: wana 
+left: kuʔi 
+at: aka	di	ta 
+in: taḏei 
+inside: taḏei 
+and: laḇo 
+if: nggara 

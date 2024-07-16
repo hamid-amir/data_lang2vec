@@ -1,0 +1,265 @@
+all: eŋgita	kakaku 
+every: eŋgita	kakaku 
+ash: puti 
+ashes: puti 
+abdomen: ku kutiana	kuku|tia-na 
+belly: ku kutiana	kuku|tia-na 
+big: lego	leŋgo 
+bigness: lego	leŋgo 
+large: lego	leŋgo 
+bird: ma 
+bite: arati-a	aratia 
+black: maketo 
+blood: dara	dara-na	darana 
+bone: jiri	jiri-na	jirina 
+breast: mi susuna	susu	susu-na 
+breasts: mi susuna	susu	susu-na 
+burn: tuni-na	tunia 
+burn tr.: tuni-na	tunia 
+cloud: balabala	balambala 
+cold: tuŋa 
+come: nemai	ne|mai 
+come from: nemai	ne|mai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: kapune 
+drink: unu 
+dry: apura	oura	pura 
+ear: mi tatariŋan(a)	tatariNa	tatariŋa-na 
+eat: ŋau 
+egg: katuru 
+eye: kojomata	kojo|mata-na	mi kojomatan(a) 
+feather: vura vuru	vuruvuru 
+fire: haNg~i	haŋgi	laŋi 
+fish: ia	iá 
+fly: rovo 
+fly v.: rovo 
+good: kalai 
+green: maŋemaŋeda	maŋemaŋenda 
+hair: mi vuruvuruna	vuruvuru-na 
+hand: mi rimana	rima	rima-na 
+left hand: mi rimana	rima	rima-na 
+right: mi rimana	rima	rima-na 
+head: kova-na	mi kovana 
+hear: roroN	roroŋ 
+1 sg.: au	eyau 
+I: au	eyau 
+kill: keda	kenda 
+be knowledgeable: talakirana	vadovadona 
+know: talakirana	vadovadona 
+leaf: paka poka ai	pakapaka 
+lie: muaŋge	pada 
+lie down: muaŋge	pada 
+liver: ate-na 
+long: kuara	kuára 
+head louse: raku 
+louse: raku 
+male: ka 
+man: mai	mane 
+moon: vura 
+mouth: mi ŋujuna	ŋuju-na 
+name: asa	asa-na	asan(a) 
+title: asa	asa-na	asan(a) 
+neck: konokono-na	mi konokonona 
+new: voru 
+night: kati 
+nighttime: kati 
+nose: pipinsun(a)	pipins~u	pipi|usu-na 
+adulterous: kes	kese	k|ese 
+one: kes	kese	k|ese 
+single: kes	kese	k|ese 
+that: ade cit	dekot	nikot 
+the: kes	kese	k|ese 
+unprincipled: kes	kese	k|ese 
+human: mai	mane 
+human being: mai	mane 
+person: mai	mane 
+rain: bata 
+rainy weather: bata 
+red: maeagi	meragi 
+path: rosara 
+road: rosara 
+route: rosara 
+root: bau-na	bauna mi ai 
+sand: ŋiriŋiri 
+say: kia	vakokoti 
+see: deNaria	dedeNa	dedeŋa	deŋaria 
+sit: magos	maŋgos	vandindir 
+hide: kurikuri	kurikuri-na	kurikurina 
+skin: kurikuri	kurikuri-na	kurikurina 
+sleep: muaŋe	muaŋge 
+little: lili 
+small: lili 
+smallness: lili 
+smoke: kinakovu 
+star: kamekame 
+rock: vunavatu	vuna|vatu 
+stone: vunavatu	vuna|vatu 
+swim: kakasi 
+tail: hotuhotuna	lotulotu-na 
+this: ade	de	ni 
+2 sg: evoi	voi 
+thou: evoi	voi 
+you: evoi	voi 
+tongue: karameŋ	karawieN	mi karawieŋ 
+tooth: mi rivona	rivo	rivo-na 
+grind: lua 
+two: lua 
+go: vasi 
+walk: vasi 
+hot: tinarapa 
+warm: tinarapa 
+water: da 
+1 pl. inc.: eNg~ita	eŋgai	eŋgita	gai	gita 
+we: eNg~ita	eŋgai	eŋgita	gai	gita 
+we₁: eNg~ita	eŋgai	eŋgita	gai	gita 
+what: mesa	misaʔ 
+white: punaji 
+whiteness: punaji 
+who: ese	eseʔ 
+who?: ese	eseʔ 
+female: vevine 
+woman: vevine 
+yellow: iŋoŋo	ŋoŋo 
+distant: apeke 
+far: apeke 
+dull: patu 
+heavy: patu 
+serious: patu 
+close: babare-	soi- 
+near: babare-	soi- 
+ner: babare-	soi- 
+salt: baratasi 
+short: potipoti 
+snake: joui	joŭi 
+thin: lili 
+wind: uviuvi 
+earthworm: kunukunu 
+worm: kunukunu 
+year: avarati 
+2 pl.: eŋgamuru	eŋgo	go 
+ye: eŋgamuru	eŋgo	go 
+you all: eŋgamuru	eŋgo	go 
+3 pl.: dia	endia	enduru 
+they: dia	endia	enduru 
+where: i-veʔ 
+where?: i-veʔ 
+when: si sa 
+when?: si sa 
+how: vaide 
+how?: vaide 
+other: edia	endía 
+three: toru	tɔru 
+four: vati 
+five: naparirima 
+broad: baralego	baraleŋgo	leŋgo 
+wide: baralego	baraleŋgo	leŋgo 
+wideness: baralego	baraleŋgo	leŋgo 
+fat: monaki 
+thick: lego 
+narrow: banalili	baralili 
+principal wife: kena vevien	kena vevine 
+wife: kena vevien	kena vevine 
+husband: kena hambati	kena labati 
+his mother: e kinana	kina-na 
+mother: e kinana	kina-na 
+my mother: e kinana	kina-na 
+father: e tamana	mi tamaŋgu	tama-na 
+his father: e tamana	mi tamaŋgu	tama-na 
+my father: e tamana	mi tamaŋgu	tama-na 
+forest: roniot 
+woods: roniot 
+branch: rakaraka	rakaraka ai 
+stick: rakaraka	rakaraka ai 
+fruit: pai 
+flower: purupuru 
+grass: utauta 
+cord: sua 
+rope: sua 
+flesh: pinaji	pináji 
+meat: pinaji	pináji 
+grease: monaki 
+wing: paruparu-na	paruparuna 
+gut: tinai-na	tinaina 
+guts: tinai-na	tinaina 
+insides: tinai-na	tinaina 
+intestine: tinai-na	tinaina 
+intestines: tinai-na	tinaina 
+back: vunataru-na	vunatarun 
+suck: nopi 
+spit: kinoju 
+vomit: muta muta	mutamuta 
+blow: uvi	uviuvi 
+breath: mase 
+breathe: mase 
+laugh: ŋiŋija	ŋiŋitsa 
+laughter: ŋiŋija	ŋiŋitsa 
+cogitate: vadovadona 
+reflect: vadovadona 
+think: vadovadona 
+smell: jikosinenana 
+sniff: jikosinenana 
+afraid: matovana 
+be afraid: matovana 
+fear: matovana 
+fright: matovana 
+alive: poro	to 
+be alive: poro	to 
+life: poro	to 
+live: poro	to 
+living: poro	to 
+hunt: mamana 
+beat: tutua 
+hit: tutua 
+strike: tutua 
+cut: tara	tava 
+hack: tara	tava 
+cut open: jepa	jeparia 
+split: jepa	jeparia 
+pierce: tara	tava 
+stab: tara	tava 
+scratch: gave 
+dig: evua 
+stand: dusi	turi 
+drop: kora 
+fall: kora 
+grasp: paro 
+hold: paro 
+hold in arm: paro 
+squeeze: polojan 
+wring: polojan 
+throw: tome 
+bind: rorojia 
+fasten: rorojia 
+tie: rorojia 
+tie up: rorojia 
+sew: jiki 
+count: ase 
+enumerate: ase 
+number: ase 
+tally: ase 
+flow: pup 
+lake: kapuji 
+ocean: rorau 
+sea: rorau 
+dust: puti 
+sky: raŋiti 
+bad: jaka 
+evil: jaka 
+rot: ovi 
+rotten: ovi 
+dirty: bita 
+filthy: bita 
+soiled: bita 
+sharp: va 
+blunt: ŋuri 
+damp: puluka 
+wet: puluka 
+right side: rimana suvu	suvu 
+left: keari	rimana keari 
+at: i	si 
+in: yaro- 
+inside: yaro- 
+and: ma 
+if: va 

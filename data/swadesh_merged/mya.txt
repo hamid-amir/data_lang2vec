@@ -1,0 +1,316 @@
+all: အားလုံး 
+every: အားလုံး 
+ash: ပြာ 
+ashes: ပြာ 
+bark: အခွံ 
+abdomen: ဗိုက် 
+belly: ဗိုက် 
+big: ကြီး	ကြီးမား 
+bigness: ကြီး	ကြီးမား 
+large: ကြီး	ကြီးမား 
+bird: ငှက် 
+bite: ကိုက် 
+black: နက်	မည်	မည် နက် 
+blood: သွေး 
+bone: ရိုး	အရိုး 
+breast: ရင်	ရင်ပတ်	ရင်ဘတ် 
+breasts: ရင်	ရင်ပတ်	ရင်ဘတ် 
+cloud: တိမ် 
+cold: ချမ်း	အေး 
+come: လာ 
+come from: လာ 
+be dead: ကွယ်လွန်	ဆုံး	သေ 
+dead: ကွယ်လွန်	ဆုံး	သေ 
+die: ကွယ်လွန်	ဆုံး	သေ 
+dog: ခွေး 
+drink: သောက် 
+dry: ခြောက် 
+ear: နား	နားရွက် 
+earth: မြေ 
+ground: မြေ 
+land: မြေ 
+soil: မြေ 
+eat: စား 
+eye: မျက်စိ	မျက်စေ့ 
+feather: အတောင် 
+fire: မီး 
+fish: ငါး 
+fly: ပျံ 
+fly v.: ပျံ 
+foot: ခြေ	ခြေထောက် 
+full: ပြည့် 
+give: ပေး 
+good: ကောင်း 
+green: စိမ်း 
+hair: ဆံ or ဆံပင်	အမွေး 
+head: ခေါင်း 
+hear: ကြား 
+heart: နှလုံး	အသည်းနှလုံး 
+horn: ချို	ဦးချို 
+kill: သတ်	သတ်ဖြတ် 
+knee: ဒူး	ဒူးခေါင်း 
+be knowledgeable: တတ်	သိ	သိ တတ်	သိရှိ 
+know: တတ်	သိ	သိ တတ်	သိရှိ 
+leaf: ရွက်	အရွက် 
+liver: အသည်း	အသည်း အူမကြီး	အူမကြီး 
+long: ရှည်	ရှည်မျော 
+head louse: သန်း 
+louse: သန်း 
+male: ယောက်ျား<sup id=cite_ref-9 class=reference>10< 
+man: လူ 
+many: များ	များကြီး 
+much: များ	များကြီး 
+multiple: များ	များကြီး 
+several: များ	များကြီး 
+hill: တောင် 
+mountain: တောင် 
+mouth: နှုတ်	ပါးစပ် 
+name: နာမည်	အမည် 
+title: နာမည်	အမည် 
+neck: လည်ပင်း 
+new: သစ် 
+nose: နှခေါင်း	နှာ	နှာခေါင်း 
+not: မ	မ…ဘူး 
+adulterous: တစ် 
+one: တစ် 
+single: တစ် 
+that: ထို	ဟို 
+the: တစ် 
+unprincipled: တစ် 
+human: လူ 
+human being: လူ 
+person: လူ 
+rain: မိုး 
+rainy weather: မိုး 
+red: နီ 
+path: လမ်း 
+road: လမ်း 
+route: လမ်း 
+root: မြစ်	အမြစ် 
+round: လုံး	ဝိုင်း 
+sand: သဲ 
+say: ဆို	ပြော	ဟူ 
+see: တွေ့	မြင် 
+seed: အစေ့ 
+sit: ထိုင် 
+hide: အရေ	အရေအခွံ 
+skin: အရေ	အရေအခွံ 
+sleep: အိပ် 
+little: နုပ်	သေး 
+small: နုပ်	သေး 
+smallness: နုပ်	သေး 
+smoke: အခိုး	အငွေ့ 
+star: ကြယ် 
+rock: ကျောက် 
+stone: ကျောက် 
+sun: နေ 
+swim: ကူး	ရေကူး 
+tail: အမှီး 
+this: ဒါ 
+2 sg: နင် 
+thou: နင် 
+you: နင် 
+tongue: လျှာ 
+tooth: သွား 
+tree: ပင်	သစ်ပင် 
+grind: နှစ် 
+two: နှစ် 
+go: လျှောက် 
+walk: လျှောက် 
+hot: နွေး	ပူ 
+warm: နွေး	ပူ 
+water: ရေ 
+1 pl. inc.: ငါတို့ 
+we: ငါတို့ 
+we₁: ငါတို့ 
+white: ဖြူ 
+whiteness: ဖြူ 
+female: မိန်းမ<sup id=cite_ref-8 class=reference>9< 
+woman: မိန်းမ<sup id=cite_ref-8 class=reference>9< 
+yellow: ဝါ 
+distant: ဝေး 
+far: ဝေး 
+dull: လေး	လေးလံ 
+heavy: လေး	လေးလံ 
+serious: လေး	လေးလံ 
+close: နီး 
+near: နီး 
+ner: နီး 
+salt: ဆား 
+short: တို	ပု 
+snake: မြွေ 
+thin: ကျဲ	ပါး 
+wind: လေ 
+earthworm: တီကောင်	သန်ကောင် 
+worm: တီကောင်	သန်ကောင် 
+year: နှစ် 
+3 sg.: သူ 
+he: သူ 
+she: သူ 
+2 pl.: နင်တို့ 
+ye: နင်တို့ 
+you all: နင်တို့ 
+3 pl.: သူတို့	သူများ 
+they: သူတို့	သူများ 
+there: ထိုမှာ	ဟိုမှာ 
+when: ဘယ်တုန်းက	ဘယ်တော့ 
+when?: ဘယ်တုန်းက	ဘယ်တော့ 
+some: အချို့ 
+few: နည်	နည်း 
+other: အခြား 
+three: သုံး 
+four: လေး 
+five: ငါး 
+broad: ကျယ်	ကျယ်ဝန်း 
+wide: ကျယ်	ကျယ်ဝန်း 
+wideness: ကျယ်	ကျယ်ဝန်း 
+fat: အဆီ 
+thick: ထူ	ပျစ် 
+narrow: ကျဉ်း	ကျဉ်းကျပ် 
+child: ကလေး 
+his mother: အမိ	အမေ 
+mother: အမိ	အမေ 
+my mother: အမိ	အမေ 
+father: အဖေ 
+his father: အဖေ 
+my father: အဖေ 
+animal: ကောင်	တိရစ္ဆာန် 
+forest: တော	သစ်တော 
+woods: တော	သစ်တော 
+branch: တုတ်	တံ 
+stick: တုတ်	တံ 
+fruit: သစ်သီး	အသီး 
+flower: ပန်း	အပွင့် 
+grass: မြက် 
+cord: ကြိုး	လွန် 
+rope: ကြိုး	လွန် 
+flesh: အသား 
+meat: အသား 
+grease: အဆီ 
+claw: လက်သည်း 
+fingernail: လက်သည်း 
+nail: လက်သည်း 
+leg: ခြေထောက်	အခြေ	အပေါင် 
+arm: လက် 
+hand: လက် 
+wing: တောင်ပံ	အတောင် 
+gut: အူ 
+guts: အူ 
+insides: အူ 
+intestine: အူ 
+intestines: အူ 
+back: ကျော 
+suck: စုပ် 
+spit: ထွေး 
+vomit: အန်	အော့ 
+blow: မှုတ် 
+breath: ရှူ	ရှူရှိုက် 
+breathe: ရှူ	ရှူရှိုက် 
+laugh: ရယ် 
+laughter: ရယ် 
+cogitate: စဉ်းစား	တွေး	ထင် 
+reflect: စဉ်းစား	တွေး	ထင် 
+think: စဉ်းစား	တွေး	ထင် 
+smell: နမ်း 
+sniff: နမ်း 
+afraid: ကြောက် 
+be afraid: ကြောက် 
+fear: ကြောက် 
+fright: ကြောက် 
+alive: နေ	ရှင်	အသက်ရှင် 
+be alive: နေ	ရှင်	အသက်ရှင် 
+life: နေ	ရှင်	အသက်ရှင် 
+live: နေ	ရှင်	အသက်ရှင် 
+living: နေ	ရှင်	အသက်ရှင် 
+fight: တိုက်	ရန်ဖြစ် 
+hunt: လိုက်	အမဲလိုက် 
+beat: ရိုက်	ရိုက် ချပုတ် 
+hit: ရိုက်	ရိုက် ချပုတ် 
+strike: ရိုက်	ရိုက် ချပုတ် 
+cut: ညှပ် 
+hack: ညှပ် 
+cut open: ခွဲ 
+split: ခွဲ 
+pierce: ထိုး 
+stab: ထိုး 
+scratch: ကုတ် 
+dig: တူး 
+lie: လျောင်း	လှဲ 
+lie down: လျောင်း	လှဲ 
+tell lies: လျောင်း	လှဲ 
+stand: ရပ် 
+turn: ချိုး	လှည့် 
+turn around: ချိုး	လှည့် 
+turn round: ချိုး	လှည့် 
+drop: ကျ 
+fall: ကျ 
+grasp: ကိုင် 
+hold: ကိုင် 
+hold in arm: ကိုင် 
+squeeze: ညှစ် 
+wring: ညှစ် 
+rub: ပွတ် 
+wipe: သုတ် 
+wash: စေး 
+wash clothes: စေး 
+pull: စွဲ 
+push: တွန်း 
+shove: တွန်း 
+throw: ပစ် 
+bind: ချည် 
+fasten: ချည် 
+tie: ချည် 
+tie up: ချည် 
+sew: ချုပ် 
+count: တွက်	ရေ 
+enumerate: တွက်	ရေ 
+number: တွက်	ရေ 
+tally: တွက်	ရေ 
+sing: ဆို 
+have fun: ကစား	ဆော့ 
+play: ကစား	ဆော့ 
+float: ပေါ်	မျော 
+flow: စီး 
+freeze: ခဲ 
+swell: ဖူး	ရောင် 
+brook: မြစ် 
+river: မြစ် 
+stream: မြစ် 
+lake: ကန်	အင်း 
+ocean: ပင်လယ်	အဏ္ဏဝါ 
+sea: ပင်လယ်	အဏ္ဏဝါ 
+dust: ဖုန် 
+fog: မြူ 
+sky: မိုး	အကာသ 
+snow: နှင်း	နှင်းခဲ 
+ice: ရေခဲ 
+blaze: ရှို့	လောင် 
+burn: ရှို့	လောင် 
+day: နေ့ 
+daylight: နေ့ 
+daytime: နေ့ 
+old: ဟောင်း	အို 
+bad: ဆိုး 
+evil: ဆိုး 
+rot: ပုပ် 
+rotten: ပုပ် 
+dirty: ညစ်ထည်း 
+filthy: ညစ်ထည်း 
+soiled: ညစ်ထည်း 
+straight: စင်း	ဖြောင့် 
+sharp: ချွန်	ချွန်ထက် 
+blunt: တုံး 
+smooth: ချော	မွတ် 
+damp: စို	ရွှဲ 
+wet: စို	ရွှဲ 
+correct: မှန် 
+right: ညာ 
+right side: ညာ 
+left: ဘယ် 
+at: မှာ	၌ 
+in: တွင်	တွင်း	ထဲ 
+inside: တွင်	တွင်း	ထဲ 
+with: နှင့်တကွ 
+and: နဲ့	နှင့် 
+if: အကယ်၍ 
+because: ကြောင့်	လို့ 

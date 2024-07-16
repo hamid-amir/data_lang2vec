@@ -1,0 +1,338 @@
+all: igaüks	koik	kõik	kəik 
+every: igaüks	koik	kõik	kəik 
+ash: tuhk	tuk 
+ashes: tuhk	tuk 
+bark: koor	kor	puukoor̃ 
+abdomen: kot	kõht	kőht	magu	vats 
+belly: kot	kõht	kőht	magu	vats 
+big: sur	suur	suur̃ 
+bigness: sur	suur	suur̃ 
+large: sur	suur	suur̃ 
+bird: lind 
+bite: hammusta	hammustama	purema 
+black: must 
+blood: veri	wer̃i 
+bone: kont	lu	luu 
+breast: rind	r̃ind 
+breasts: rind	r̃ind 
+claw: kus	küünis 
+nail: kus	küünis 
+talon: kus	küünis 
+cloud: pilv	pilw 
+cold: kulm	külm 
+come: tule	tulema 
+come from: tule	tulema 
+be dead: sure	surema	sur̃ema	sur̃nud 
+dead: sure	surema	sur̃ema	sur̃nud 
+die: sure	surema	sur̃ema	sur̃nud 
+dog: koer	koer̃	peni 
+drink: jo	jooma	yooma 
+dry: kuiv	kuiw 
+ear: korv	kõrv	kər̃w 
+earth: ma	maa	muld 
+ground: ma	maa	muld 
+land: ma	maa	muld 
+soil: ma	maa	muld 
+eat: so	sööma 
+egg: muna 
+eye: silm 
+fat: rasv 
+fat n.: rasv 
+grease: rasv 
+lubricant: rasv 
+oil: rasv 
+feather: sulg 
+fire: tuli 
+fish: kala 
+fly: lenda	lendama 
+fly v.: lenda	lendama 
+foot: jalalaba	jalg	labayalg	yalg 
+full: tais	täis	tæis 
+give: and	andma 
+good: hea 
+green: roheline	r̃oheline 
+hair: juksed	juuksed	juus	karv	yuuksed 
+hand: kasi	kæsi 
+left hand: kasi	kæsi 
+right: kasi	kæsi 
+head: pea 
+hear: kul	kuulma 
+heart: suda	süda 
+horn: %sarv	sarv	sar̃w 
+1 sg.: ma	mina 
+I: ma	mina 
+kill: tap	tapma 
+knee: %polv	põlv	pəlw 
+be knowledgeable: tead	teadma	tundma 
+know: tead	teadma	tundma 
+leaf: %let	leht 
+lie: lama	lamama	lebama 
+lie down: lama	lamama	lebama 
+liver: maks 
+long: pikk 
+head louse: tai	täi	tæi 
+louse: tai	täi	tæi 
+male: mees	mes 
+man: inimene 
+many: mitu	palju	paljud	palyu 
+much: mitu	palju	paljud	palyu 
+multiple: mitu	palju	paljud	palyu 
+several: mitu	palju	paljud	palyu 
+flesh: liha 
+meat: liha 
+moon: ku	kuu 
+hill: magi	mägi	mægi	voor	voore 
+mountain: magi	mägi	mægi	voor	voore 
+mouth: su	suu 
+name: %nimi	nimi 
+title: %nimi	nimi 
+neck: kael 
+new: us	uus	vastne 
+night: o	öö 
+nighttime: o	öö 
+nose: nina 
+not: ei	mitte 
+adulterous: uks	üks 
+one: uks	üks 
+single: uks	üks 
+that: to	too 
+the: uks	üks 
+unprincipled: uks	üks 
+human: inimene 
+human being: inimene 
+person: inimene 
+rain: sadama	sadu	vihm	vim	wihm 
+rainy weather: sadama	sadu	vihm	vim	wihm 
+red: punane 
+path: te	tee 
+road: te	tee 
+route: te	tee 
+root: jur	juur	yuur̃ 
+round: umar	ümar	ümmargune	ümmar̃gune 
+sand: liiv	liiw 
+say: sõnama	utle	ütlema 
+see: nage	nägema	nægema 
+seed: seeme	seme 
+sit: istu	istuma 
+hide: ihu	nahk	nak 
+skin: ihu	nahk	nak 
+sleep: maga	magama 
+little: vaike	väike	wæike 
+small: vaike	väike	wæike 
+smallness: vaike	väike	wæike 
+smoke: suic	suits 
+stand: seis 
+star: tat	täht	tæht 
+rock: kalyu	kivi	kiwi 
+stone: kalyu	kivi	kiwi 
+sun: paike	päike	pæike 
+swim: uju	ujuma	uyuma 
+tail: händ	saba 
+this: se	see 
+2 sg: sa	sina 
+thou: sa	sina 
+you: sa	sina 
+tongue: keel	kel 
+tooth: hammas	pii 
+tree: pu	puu 
+grind: kaks 
+two: kaks 
+go: kondi	käima	kæima	kõndima	kőndima	kəndima 
+walk: kondi	käima	kæima	kõndima	kőndima	kəndima 
+hot: lämbe	soe 
+warm: lämbe	soe 
+water: vesi	wesi 
+1 pl. inc.: me	meie 
+we: me	meie 
+we₁: me	meie 
+what: mida	mis 
+white: valge	walge 
+whiteness: valge	walge 
+who: kes 
+who?: kes 
+female: naine 
+woman: naine 
+yellow: kollane 
+distant: kauge	kaugel 
+far: kauge	kaugel 
+dull: raske	r̃aske 
+heavy: raske	r̃aske 
+serious: raske	r̃aske 
+close: lähedal	læhedal 
+near: lähedal	læhedal 
+ner: lähedal	læhedal 
+salt: sool 
+short: lühike 
+snake: madu	uss 
+thin: kəhn	peenike	õhuke 
+wind: tuul 
+earthworm: uss	vagel	wagel 
+worm: uss	vagel	wagel 
+year: aasta 
+3 sg.: ta	tema 
+he: ta	tema 
+she: ta	tema 
+2 pl.: te	teie 
+ye: te	teie 
+you all: te	teie 
+3 pl.: nad	nemad 
+they: nad	nemad 
+here: siin 
+there: seal 
+where: kus 
+where?: kus 
+when: kunas	millal 
+when?: kunas	millal 
+how: kuidas 
+how?: kuidas 
+some: mõned	mõni	məni	natuke 
+few: mõni	veidi	vähe	wæhe 
+other: muu	teine 
+three: kolm 
+four: neli 
+five: viis	wiis 
+broad: lai 
+wide: lai 
+wideness: lai 
+thick: jäme	paks 
+narrow: ahas	kitsas 
+child: laps 
+principal wife: abikaasa	naine 
+wife: abikaasa	naine 
+husband: abikaasa	mees 
+his mother: ema 
+mother: ema 
+my mother: ema 
+father: isa 
+his father: isa 
+my father: isa 
+animal: elajas	lojus	loom 
+forest: mets 
+woods: mets 
+branch: kepp	oks	pulk 
+stick: kepp	oks	pulk 
+fruit: puuvili	puuwili	vili 
+flower: lill	őis 
+grass: hein	muru	rohi	r̃ohi 
+cord: köis	nöör	nöör̃̈	pael 
+rope: köis	nöör	nöör̃̈	pael 
+fingernail: küüned	küüs 
+leg: jalg	säär	yalg 
+arm: käsi 
+wing: tiib 
+gut: sisikond	sooled	soolikad 
+guts: sisikond	sooled	soolikad 
+insides: sisikond	sooled	soolikad 
+intestine: sisikond	sooled	soolikad 
+intestines: sisikond	sooled	soolikad 
+back: selg 
+suck: imema	nutsima 
+spit: sülgama	sülitama 
+vomit: oksendama 
+blow: puhuma 
+breath: hingama	hingamine 
+breathe: hingama	hingamine 
+laugh: naerma	naer̃ma 
+laughter: naerma	naer̃ma 
+cogitate: mõtlema	mőtlema	mətlema 
+reflect: mõtlema	mőtlema	mətlema 
+think: mõtlema	mőtlema	mətlema 
+smell: haistma	haisu tundma	lõhnama	nuusutama 
+sniff: haistma	haisu tundma	lõhnama	nuusutama 
+afraid: hirmuma	hir̃m	kartma	kar̃tus	pelgama 
+be afraid: hirmuma	hir̃m	kartma	kar̃tus	pelgama 
+fear: hirmuma	hir̃m	kartma	kar̃tus	pelgama 
+fright: hirmuma	hir̃m	kartma	kar̃tus	pelgama 
+alive: elama	elaw	elu	elus 
+be alive: elama	elaw	elu	elus 
+life: elama	elaw	elu	elus 
+live: elama	elaw	elu	elus 
+living: elama	elaw	elu	elus 
+fight: kaklema	taplema	võitlema	vőitlema	wəitlema 
+hunt: jahtima	küttima 
+beat: lööma	peksma 
+hit: lööma	peksma 
+strike: lööma	peksma 
+cut: lõikama	ləikama 
+hack: lõikama	ləikama 
+cut open: lõhestama	lõhki ajama	ləhestama	ləhkuma	poolitama 
+split: lõhestama	lõhki ajama	ləhestama	ləhkuma	poolitama 
+pierce: læbi pistma	pistma	pussitama	suskama 
+stab: læbi pistma	pistma	pussitama	suskama 
+scratch: hõõruma	kraapima	kratsima	küünistama 
+dig: kaevama	kaewama 
+tell lies: lamama	lebama	lesima	waletama 
+turn: keerama	keer̃ama	keer̃utama	käänama	pöörama 
+turn around: keerama	keer̃ama	keer̃utama	käänama	pöörama 
+turn round: keerama	keer̃ama	keer̃utama	käänama	pöörama 
+drop: kukkuma	langema	pudenema	sadama 
+fall: kukkuma	langema	pudenema	sadama 
+grasp: hoidma	pidama 
+hold: hoidma	pidama 
+hold in arm: hoidma	pidama 
+squeeze: pigistama	pitsitama	pressima	suruma 
+wring: pigistama	pitsitama	pressima	suruma 
+rub: hõõruma	həər̃uma 
+wipe: pühkima 
+wash: pesema 
+wash clothes: pesema 
+pull: kiskuma	tõmbama	vedama 
+push: lükkama	tõukama	təukama 
+shove: lükkama	tõukama	təukama 
+throw: heitma	viskama	wiskama 
+bind: köitma	siduma 
+fasten: köitma	siduma 
+tie: köitma	siduma 
+tie up: köitma	siduma 
+sew: õmblema	əmblema 
+count: loendama	lugema 
+enumerate: loendama	lugema 
+number: loendama	lugema 
+tally: loendama	lugema 
+sing: laulma 
+have fun: mängima	mængima 
+play: mängima	mængima 
+float: hõljuma	ujuma	uyuma 
+flow: jooksma	voolama	woolama 
+freeze: jäätuma	külmuma 
+swell: paistetama	paisuma 
+brook: jõgi	oya	yəgi 
+river: jõgi	oya	yəgi 
+stream: jõgi	oya	yəgi 
+lake: järv	yær̃w 
+ocean: meri	mer̃i 
+sea: meri	mer̃i 
+dust: tolm 
+fog: udu 
+sky: taevas	taewas 
+snow: lumi 
+ice: jää	yææ 
+blaze: pole	põlema	pəlema 
+burn: pole	põlema	pəlema 
+day: päev	pæew 
+daylight: päev	pæew 
+daytime: päev	pæew 
+old: vana 
+bad: halb	paha 
+evil: halb	paha 
+rot: mäda	mädanenud	mædanenud 
+rotten: mäda	mädanenud	mædanenud 
+dirty: ligane	must	määrdunud	mæær̃dunud	räpane 
+filthy: ligane	must	määrdunud	mæær̃dunud	räpane 
+soiled: ligane	must	määrdunud	mæær̃dunud	räpane 
+straight: otse	sirge	sir̃ge 
+sharp: terav	ter̃aw 
+blunt: nüri	nür̃i	tömp 
+smooth: sile	tasane 
+damp: märg	mær̃g	niiske 
+wet: märg	mær̃g	niiske 
+correct: õige	őige	əige 
+right side: parem	par̃em 
+left: vasak	vasem	wasak 
+at: -l	juures	peal 
+in: -s	sees 
+inside: -s	sees 
+with: -ga	koos	ühes 
+and: ja	ning	ya 
+if: kui 
+because: seepärast et	selle pärast et	sellepær̃ast et	sest	sest et 

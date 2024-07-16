@@ -1,0 +1,136 @@
+all: gotoa	katoa 
+every: gotoa	katoa 
+ash: efu/efu 
+ashes: efu/efu 
+abdomen: alo/alo	manava 
+belly: alo/alo	manava 
+big: lahi 
+bigness: lahi 
+large: lahi 
+bird: manu	manu lele	manu/lele 
+bite: eti	ka/kati/ 
+black: uli 
+blood: toto 
+bone: %ivi	hui	ivi 
+breast: huhu 
+breasts: huhu 
+burn: tafu	tungi 
+burn tr.: tafu	tungi 
+cloud: ao/lagi 
+cold: makalili 
+come: aua/a 
+come from: aua/a 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: kuli	kulii 
+drink: inu 
+dry: maha	pakaka 
+ear: teliNa	teliŋa 
+eat: kai 
+eye: mata 
+feather: palaa 
+fire: afi 
+fish: ika 
+fly: lele 
+fly v.: lele 
+good: -melie 
+hair: fulu	lau ulu 
+hand: lima 
+left hand: lima 
+right: lima 
+head: ulu 
+hear: faanoŋo/noŋo	fanoNonoNo 
+1 sg.: -ku	au	kau 
+I: -ku	au	kau 
+kill: taa 
+be knowledgeable: ilo	iloa 
+know: ilo	iloa 
+leaf: au	lau 
+lie: takoto 
+lie down: takoto 
+liver: ate 
+long: loa 
+head louse: kutu	tuma 
+louse: kutu	tuma 
+male: taane 
+man: taNata	taŋata 
+moon: mahina 
+mouth: ŋutu 
+name: hiNa	higoa	hinga 
+title: hiNa	higoa	hinga 
+neck: faka/kia/	ka(a)/kia/	kakia	ua 
+new: foou	fou 
+night: po	poo	pouli- 
+nighttime: po	poo	pouli- 
+nose: ihu 
+adulterous: %taha	taha 
+one: %taha	taha 
+single: %taha	taha 
+that: ia 
+the: %taha	taha 
+unprincipled: %taha	taha 
+human: taNata	taŋata 
+human being: taNata	taŋata 
+person: taNata	taŋata 
+rain: uha 
+rainy weather: uha 
+red: kula 
+path: hala	kauhala 
+road: hala	kauhala 
+route: hala	kauhala 
+root: aka 
+sand: /one/one	one 
+say: /one/one	one 
+see: mata 
+sit: nofo 
+hide: kili 
+skin: kili 
+sleep: mohe 
+little: iki/iki	liki/liki	puku/puku 
+small: iki/iki	liki/liki	puku/puku 
+smallness: iki/iki	liki/liki	puku/puku 
+smoke: ahu 
+star: fetu	fetuu 
+rock: fatu/kalaa	maka	patu 
+stone: fatu/kalaa	maka	patu 
+swim: kakau	kau/kau	kou/kou 
+tail: hiku 
+2 sg: koe 
+thou: koe 
+you: koe 
+tongue: alelo	lelo 
+tooth: nifo 
+tree: lakau 
+grind: ua 
+two: ua 
+go: haele 
+walk: haele 
+hot: mafana 
+warm: mafana 
+water: vai 
+1 pl. inc.: maua	mautolu	taua	tautolu 
+we: maua	mautolu	taua	tautolu 
+we₁: maua	mautolu	taua	tautolu 
+what: haa 
+white: tea 
+whiteness: tea 
+who: hai 
+who?: hai 
+female: -fine	fifine 
+woman: -fine	fifine 
+distant: mamao 
+far: mamao 
+dull: mamafa 
+heavy: mamafa 
+serious: mamafa 
+close: tata 
+near: tata 
+ner: tata 
+short: puku/puku 
+snake: gata 
+thin: aleale 
+wind: havili	mataŋi 
+earthworm: kelemutu 
+worm: kelemutu 
+year: tau 

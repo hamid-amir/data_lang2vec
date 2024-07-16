@@ -1,0 +1,266 @@
+all: abisi 
+every: abisi 
+ash: af|tai 
+ashes: af|tai 
+abdomen: tian 
+belly: tian 
+big: na 
+bigness: na 
+large: na 
+bird: manuk 
+bite: -iki 
+black: metemeten 
+blood: nana	nanan 
+bone: riri	ririn 
+breast: susu	susum 
+breasts: susu	susum 
+burn: ndurin 
+burn tr.: ndurin 
+cloud: anim rano 
+cold: sindin 
+come: oma 
+come from: oma 
+be dead: mata	mata- 
+dead: mata	mata- 
+die: mata	mata- 
+dog: asu 
+drink: Nimu	ŋimu 
+dry: ŋelekan 
+ear: tilu	tilum 
+eat: mban 
+egg: tulur 
+eye: mata	matan 
+feather: fulun 
+fire: au 
+fish: ikan 
+fly: ndifu 
+fly v.: ndifu 
+good: naŋea	naŋeŋiano 
+green: kainanranoko 
+hair: fuk 
+hand: lima	liman 
+left hand: lima	liman 
+right: lima	liman 
+head: ulun 
+hear: motan 
+1 sg.: ak 
+I: ak 
+kill: mbokota 
+be knowledgeable: mbo kaiko 
+know: mbo kaiko 
+leaf: rano 
+lie: -turu mbolon 
+lie down: -turu mbolon 
+liver: nano	nano- 
+long: naw 
+head louse: kutu 
+louse: kutu 
+male: morana 
+man: %manC~ia	mančia 
+moon: fulan 
+mouth: suwom 
+name: nala	nalan 
+title: nala	nalan 
+neck: enun 
+new: feruno 
+night: monj~ia	monǰia 
+nighttime: monj~ia	monǰia 
+nose: milu	milun 
+adulterous: sa 
+one: sa 
+single: sa 
+that: ikou 
+the: sa 
+unprincipled: sa 
+human: %manC~ia	mančia 
+human being: %manC~ia	mančia 
+person: %manC~ia	mančia 
+rain: wien 
+rainy weather: wien 
+red: moro-moro 
+path: enen 
+road: enen 
+route: enen 
+root: wakato 
+sand: nui 
+say: lia 
+see: -ito	ito 
+sit: metet 
+hide: kilit 
+skin: kilit 
+sleep: -turu 
+little: doŋwro 
+small: doŋwro 
+smallness: doŋwro 
+smoke: foko 
+star: fotuon 
+rock: fatu 
+stone: fatu 
+swim: mamo	mbo lo lu 
+tail: keto 
+this: i: 
+2 sg: ka 
+thou: ka 
+you: ka 
+tongue: me	me|no 
+tooth: ni	ni|no 
+grind: ruo	ruʔ 
+two: ruo	ruʔ 
+go: mbo 
+walk: mbo 
+hot: wanato 
+warm: wanato 
+water: was 
+1 pl. inc.: kam	kito 
+we: kam	kito 
+we₁: kam	kito 
+what: an|sá 
+white: noinoitiŋo 
+whiteness: noinoitiŋo 
+who: se 
+who?: se 
+female: meifino 
+woman: meifino 
+yellow: kuni|liko 
+distant: nau 
+far: nau 
+dull: firato 
+heavy: firato 
+serious: firato 
+close: nunik 
+near: nunik 
+ner: nunik 
+salt: masin 
+short: noitik 
+snake: nia 
+thin: munit 
+wind: anin 
+earthworm: tambir luano 
+worm: tambir luano 
+year: taun 
+2 pl.: kim 
+ye: kim 
+you all: kim 
+3 pl.: si 
+they: si 
+where: mbe 
+where?: mbe 
+when: nefilo 
+when?: nefilo 
+how: ŋenbe 
+how?: ŋenbe 
+other: fasivi 
+three: telu 
+four: at	ʔat 
+five: límo 
+broad: lafaro 
+wide: lafaro 
+wideness: lafaro 
+fat: loloino 
+thick: karato 
+narrow: ndeteko 
+principal wife: taun meifino 
+wife: taun meifino 
+husband: taun morana 
+his mother: ina- 
+mother: ina- 
+my mother: ina- 
+father: ama- 
+his father: ama- 
+my father: ama- 
+forest: mur wasi 
+woods: mur wasi 
+branch: sanano 
+stick: sanano 
+fruit: fuan 
+flower: saur 
+grass: furun 
+cord: warot 
+rope: warot 
+flesh: isin 
+meat: isin 
+grease: loloino 
+wing: fono 
+gut: tain kambun 
+guts: tain kambun 
+insides: tain kambun 
+intestine: tain kambun 
+intestines: tain kambun 
+back: mirin 
+suck: mtol	ndusu	nusbuk 
+spit: mbifriru 
+vomit: luako 
+blow: mbufruko 
+breath: -ilik muwa- 
+breathe: -ilik muwa- 
+laugh: mbo|malik 
+laughter: mbo|malik 
+cogitate: mfikir 
+reflect: mfikir 
+think: mfikir 
+smell: mbokfau 
+sniff: mbokfau 
+afraid: mbotaku 
+be afraid: mbotaku 
+fear: mbotaku 
+fright: mbotaku 
+alive: munuli 
+be alive: munuli 
+life: munuli 
+live: munuli 
+living: munuli 
+hunt: raste 
+beat: ndukul 
+hit: ndukul 
+strike: ndukul 
+cut: mbutu 
+hack: mbutu 
+cut open: mbofkila 
+split: mbofkila 
+pierce: ndusuk 
+stab: ndusuk 
+scratch: mboskakir 
+dig: mbaero 
+stand: meliru 
+drop: monafu 
+fall: monafu 
+grasp: ndakan 
+hold: ndakan 
+hold in arm: ndakan 
+squeeze: ndembet 
+wring: ndembet 
+throw: ndutu 
+bind: lakot 
+fasten: lakot 
+tie: lakot 
+tie up: lakot 
+sew: mborait 
+count: neke 
+enumerate: neke 
+number: neke 
+tally: neke 
+flow: mondon 
+lake: kowal 
+ocean: nutelu	tasik 
+sea: nutelu	tasik 
+dust: ofin 
+fog: fut 
+sky: laŋit 
+bad: fisfiso 
+evil: fisfiso 
+rot: kombu 
+rotten: kombu 
+dirty: monǰon 
+filthy: monǰon 
+soiled: monǰon 
+sharp: mout 
+blunt: tutal 
+damp: ǰiŋan 
+wet: ǰiŋan 
+right side: fano ratu 
+left: fano fitar 
+at: wa 
+in: wararóm 
+inside: wararóm 
+and: ndofon 
+if: naku 

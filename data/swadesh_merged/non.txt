@@ -1,0 +1,292 @@
+all: all-r	allir	allr	hverr 
+every: all-r	allir	allr	hverr 
+ash: ask-a	aska 
+ashes: ask-a	aska 
+bark: bɔrk-r 
+abdomen: kvið-r 
+belly: kvið-r 
+big: mikill	stoːrr	stōrr 
+bigness: mikill	stoːrr	stōrr 
+large: mikill	stoːrr	stōrr 
+bird: fugl 
+bite: biːt-a	bīta 
+black: svart-r	svartr 
+blood: blo8	bloːð	blōð 
+bone: bEin	bein 
+breast: briNga	brjōst	bryoːst	bry~ost 
+breasts: briNga	brjōst	bryoːst	bry~ost 
+burn: brenn-a 
+burn tr.: brenn-a 
+claw: nagl 
+nail: nagl 
+talon: nagl 
+cloud: sküː	skȳ 
+cold: kal-d-r	kaldr 
+come: kom-a	koma 
+come from: kom-a	koma 
+be dead: dauði	dauðr	deiy-a	deya	deyja	dāinn	svelta 
+dead: dauði	dauðr	deiy-a	deya	deyja	dāinn	svelta 
+die: dauði	dauðr	deiy-a	deya	deyja	dāinn	svelta 
+dog: garmr	hund-r	hundr 
+drink: drEka	drekk-a	drekka 
+dry: θurr 
+ear: Eira	eir-a	eyra	hlust 
+earth: jorð	land	yɔrð 
+ground: jorð	land	yɔrð 
+land: jorð	land	yɔrð 
+soil: jorð	land	yɔrð 
+eat: et-a	eta 
+egg: egg 
+eye: auXa	aug-a	auga 
+fat: fit-a 
+fat n.: fit-a 
+grease: fit-a 
+lubricant: fit-a 
+oil: fit-a 
+feather: fjoðr	fyɔðr 
+fire: Eldr	eld-r	eldr	funi	fūrr 
+fish: fisk-r	fiskr 
+fly: fljūga	flyuːg-a 
+fly v.: fljūga	flyuːg-a 
+foot: foːt-r	fōtr 
+full: full-r	fullr	fulr 
+give: gef-a	gefa 
+good: goːð-r	gōðr 
+green: grön-n	grœnn 
+hair: haːr	hār	skopt 
+hand: hond	hɔnd	mund 
+left hand: hond	hɔnd	mund 
+right: hond	hɔnd	mund 
+head: haufuð	hofuð	hɔfuð 
+hear: hEira	heyr-a	heyra	høyra 
+heart: hjarta	hyart-a 
+horn: horn 
+1 sg.: Ek	ek	meː-	mi- 
+I: Ek	ek	meː-	mi- 
+kill: ban-a	deyða	drep-a	drepa	slā	vega 
+knee: kne	kneː	knē 
+be knowledgeable: kenna	kunna	vit-a	vita 
+know: kenna	kunna	vit-a	vita 
+leaf: bla8	blað	lauf	laufsblað 
+lie: ligg-ya	liggja 
+lie down: ligg-ya	liggja 
+liver: lifr 
+long: lang-r	langr 
+head louse: lus	luːs 
+louse: lus	luːs 
+male: gumi	karl	maðr 
+man: gumi	manesky~a	mað-r	maðr 
+many: mangir	marg-r	margir	mikill 
+much: mangir	marg-r	margir	mikill 
+multiple: mangir	marg-r	margir	mikill 
+several: mangir	marg-r	margir	mikill 
+flesh: hold	horund	kyɔt 
+meat: hold	horund	kyɔt 
+moon: māni	tungl 
+hill: bErg	fjall	fyall	fy~al 
+mountain: bErg	fjall	fyall	fy~al 
+mouth: munn-r	munnr	muð-r	mūðr 
+name: kal	naf-n	nafn 
+title: kal	naf-n	nafn 
+neck: hals	haːls	svīri 
+new: nir	nüː-r	nȳr 
+night: nat	noːtt	nōtt 
+nighttime: nat	noːtt	nōtt 
+nose: nEf	nas-ar	nasar	nef	nos 
+not: egi	ei	eigi 
+adulterous: Ein	ein-n	einn 
+one: Ein	ein-n	einn 
+single: Ein	ein-n	einn 
+that: hin-n 
+the: Ein	ein-n	einn 
+unprincipled: Ein	ein-n	einn 
+human: gumi	manesky~a	mað-r	maðr 
+human being: gumi	manesky~a	mað-r	maðr 
+person: gumi	manesky~a	mað-r	maðr 
+rain: regn 
+rainy weather: regn 
+red: rauð-r	rauðr	rjōðr 
+path: gata	stigr	veg-r 
+road: gata	stigr	veg-r 
+route: gata	stigr	veg-r 
+root: roːt	rōt 
+round: kring-l-oːtt-r	kringlōttr	sīvalr 
+sand: sand-r	sandr 
+say: kveð-a	kveða	seg-y-a	segja 
+see: sjā	syaː	sy~a 
+seed: fryoː	frɛː 
+sit: sit-y-a	sitja 
+hide: fEl	horund	hūð	hɔrund	skin	skin-n	skinn 
+skin: fEl	horund	hūð	hɔrund	skin	skin-n	skinn 
+sleep: sof-a	sofa	svefn 
+little: liːtil-l	lītill	smalr	smaː-r	smār 
+small: liːtil-l	lītill	smalr	smaː-r	smār 
+smallness: liːtil-l	lītill	smalr	smaː-r	smār 
+smoke: reyk-r	reykr 
+stand: stand-a 
+star: stjarna	styarn-a	sty~arna 
+rock: halr	stEin	stein-n	steinn 
+stone: halr	stEin	stein-n	steinn 
+sun: sol	soːl	suna	sunna	sōl 
+swim: svim-a	svimm-a	svimma	synda 
+tail: hali	rōfa	tagl 
+this: θe-ssi 
+2 sg: 8u	θuː 
+thou: 8u	θuː 
+you: 8u	θuː 
+tongue: tuNga	tung-a	tunga 
+tooth: ton	tonn	tɔnn 
+tree: ba8mr	trE	treː 
+grind: tvei-r	tveir	tw~Eir 
+two: tvei-r	tveir	tw~Eir 
+go: far-a	gang-a	ganga 
+walk: far-a	gang-a	ganga 
+hot: heit-r	varmr 
+warm: heit-r	varmr 
+water: vat-n	vatn	watn 
+1 pl. inc.: mer	oss	veː-r	wer 
+we: mer	oss	veː-r	wer 
+we₁: mer	oss	veː-r	wer 
+what: hva-t 
+white: hviːt-r	hvītr 
+whiteness: hviːt-r	hvītr 
+who: hver-r 
+who?: hver-r 
+female: kon-a	kona 
+woman: kon-a	kona 
+yellow: gul-r	gulr 
+distant: fjarri	fyarr-i	langt 
+far: fjarri	fyarr-i	langt 
+dull: hofugr	svārr	θung-r	θungr 
+heavy: hofugr	svārr	θung-r	θungr 
+serious: hofugr	svārr	θung-r	θungr 
+close: nœri	nɛː-r 
+near: nœri	nɛː-r 
+ner: nœri	nɛː-r 
+salt: salt 
+short: skam-r	skamm-r	skammr	stutt-r 
+snake: naðr	orm-r	ormr	snākr 
+thin: θunn-r	θunnr 
+wind: vind-r	vindr 
+earthworm: mað-k-r	maðkr	ormr 
+worm: mað-k-r	maðkr	ormr 
+year: aːr	ār 
+few: fāir	lītill 
+three: thrír 
+four: fjórir 
+five: fimm 
+broad: breiðr	vīðr 
+wide: breiðr	vīðr 
+wideness: breiðr	vīðr 
+thick: θykkr 
+narrow: ongr	θrongr 
+child: barn 
+principal wife: kona	kvān 
+wife: kona	kvān 
+husband: hūs-bōndi	maðr	verr 
+his mother: mōðir 
+mother: mōðir 
+my mother: mōðir 
+father: faðir 
+his father: faðir 
+my father: faðir 
+animal: dȳr 
+forest: mork	skōgr	viðr 
+woods: mork	skōgr	viðr 
+branch: grein	kvistr 
+stick: grein	kvistr 
+fruit: aldin 
+flower: blōm	blōmstr 
+grass: gras 
+cord: līna	reip	seil	simi	strengr	taug 
+rope: līna	reip	seil	simi	strengr	taug 
+fingernail: nagl 
+leg: bein	fōtleggr	fōtr	leggr 
+wing: vœ̄ngr 
+back: bak 
+suck: sūga 
+spit: hrœkja	spȳta 
+vomit: spȳja 
+blow: blāsa 
+breath: anda	andi	ond 
+breathe: anda	andi	ond 
+laugh: brosa	hlœ̄ja 
+laughter: brosa	hlœ̄ja 
+cogitate: hugsa	hyggja 
+reflect: hugsa	hyggja 
+think: hugsa	hyggja 
+smell: θefa	θefja ilma 
+sniff: θefa	θefja ilma 
+afraid: hrœzla	skelkr	ōgn	ōtti 
+be afraid: hrœzla	skelkr	ōgn	ōtti 
+fear: hrœzla	skelkr	ōgn	ōtti 
+fright: hrœzla	skelkr	ōgn	ōtti 
+alive: fjor	kvikr	lifa	lifandi	līf	līfs 
+be alive: fjor	kvikr	lifa	lifandi	līf	līfs 
+life: fjor	kvikr	lifa	lifandi	līf	līfs 
+live: fjor	kvikr	lifa	lifandi	līf	līfs 
+living: fjor	kvikr	lifa	lifandi	līf	līfs 
+fight: berjask	vega 
+beat: berja	drepa	ljōsta	slā 
+hit: berja	drepa	ljōsta	slā 
+strike: berja	drepa	ljōsta	slā 
+cut: hoggva	meita	skera	snīða	telgja 
+hack: hoggva	meita	skera	snīða	telgja 
+cut open: kljūfa 
+split: kljūfa 
+dig: grafa 
+tell lies: lygi	lygð 
+turn: rīða 
+turn around: rīða 
+turn round: rīða 
+drop: falla 
+fall: falla 
+grasp: hafa	halda 
+hold: hafa	halda 
+hold in arm: hafa	halda 
+rub: gnūa 
+wipe: gnūa 
+wash: vaska	θvā 
+wash clothes: vaska	θvā 
+push: skȳfa 
+shove: skȳfa 
+throw: kasta	verpa 
+bind: binda 
+fasten: binda 
+tie: binda 
+tie up: binda 
+sew: sauma	sȳja 
+sing: gala	syngva 
+have fun: leika 
+play: leika 
+float: fljōta 
+flow: fljōta	renna 
+brook: bekkr	lœkr	ā 
+river: bekkr	lœkr	ā 
+stream: bekkr	lœkr	ā 
+lake: vatn 
+ocean: haf	marr	sœr 
+sea: haf	marr	sœr 
+dust: dupt	dust 
+fog: θoka 
+sky: himinn 
+snow: snjār	snjōr	snœ̄r 
+ice: īss 
+blaze: brinna 
+day: dagr 
+daylight: dagr 
+daytime: dagr 
+bad: dāligr	vāndr	īllr 
+evil: dāligr	vāndr	īllr 
+dirty: saurigr	ūhreinn 
+filthy: saurigr	ūhreinn 
+soiled: saurigr	ūhreinn 
+straight: beinn	rakr	rēttr 
+sharp: hvass	skarpr 
+blunt: sljōr 
+smooth: slēttr 
+damp: vokr	vātr 
+wet: vokr	vātr 
+correct: rēttr 
+right side: hœgri 
+left: vinstri 

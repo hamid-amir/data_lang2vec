@@ -1,0 +1,338 @@
+all: duk	duka	dukà	dúkà	kowace	kowane 
+every: duk	duka	dukà	dúkà	kowace	kowane 
+ash: toka	tòokáa	tòːčeː 
+ashes: toka	tòokáa	tòːčeː 
+bark: b"awo	ɓawo	ɓawon itace	ɓaːwoː	ɓáawóo 
+abdomen: Tiki	ciki	cíkìi 
+belly: Tiki	ciki	cíkìi 
+big: babba	bàbbaː	bàbbá 
+bigness: babba	bàbbaː	bàbbá 
+large: babba	bàbbaː	bàbbá 
+bird: s"uns"u	sʼunsʼuː	tsuntsu	tsúntsúu 
+bite: Tije	Tiza	ciza	cizo	cìizáa	yaː čìːzaː 
+black: bak"i	bakʼiː	bakˀi	baƙi	báƙíi 
+blood: jini	jíníi	ǯiniː 
+bone: k"ashi	kashi	kʼàšiː	kˀashi	qaSi	ƙashi	ƙàshíi 
+breast: mama	màːmaː	nono	nóonòo	ƙirji 
+breasts: mama	màːmaː	nono	nóonòo	ƙirji 
+claw: akaifa	k"ambori	kˀambori	ákàifáa 
+nail: akaifa	k"ambori	kˀambori	ákàifáa 
+talon: akaifa	k"ambori	kˀambori	ákàifáa 
+cloud: gajimare	girgije	girgiǯèː	gàajìmàarée	hadari 
+cold: mai sanyi	mài sányíi	mài ɗáaríi	sanyi	saɲiː 
+come: taho	yaː zoː	zo	zóo 
+come from: taho	yaː zoː	zo	zóo 
+be dead: muti	mutu	mutuwa	mútù	yaː mutù 
+dead: muti	mutu	mutuwa	mútù	yaː mutù 
+die: muti	mutu	mutuwa	mútù	yaː mutù 
+dog: kare	karya	kàreː	kàrée 
+drink: Sa	sha	sháa	yaː šaː 
+dry: busasshe	maras laima	à bùushé 
+ear: kune	kunne	kûnneː	kûnnée 
+earth: doron kˀasa	k"asa	kasa	kʼasaː	ƙásáa 
+ground: doron kˀasa	k"asa	kasa	kʼasaː	ƙásáa 
+land: doron kˀasa	k"asa	kasa	kʼasaː	ƙásáa 
+soil: doron kˀasa	k"asa	kasa	kʼasaː	ƙásáa 
+eat: Ti	ci	cí	yaː či 
+egg: k"w~ai	kʼwai	kˀwai	ƙwai	ƙwái 
+eye: ido	idòː	ídòo 
+fat: maik"o 
+fat n.: maik"o 
+grease: maik"o 
+lubricant: maik"o 
+oil: maik"o 
+feather: gashi	gashin tsuntsu	gasu	gáashìi 
+fire: wuta	wutaː	wútáa 
+fish: kifi	kiːfiː	kíifíi 
+fly: tashi	táashì 
+fly v.: tashi	táashì 
+foot: k"afa	kˀafa	sau	ƙafa	ƙáfàa 
+full: Cika	Tikakke	a Tike	cika	cikakke	à cìké 
+give: ba	bai wa	bayar	báa	yaː baː šì 
+good: dà kyâu	kyau	mai kyau	mài dáaɗíi	mài kyâu	na kirki 
+green: kore	koːrèː	kóor̃èe	tsánwáa 
+hair: gashi	gasu	gaːšìː	gáashìi	suma 
+hand: hannu	hanu	hánnúu 
+left hand: hannu	hanu	hánnúu 
+right: hannu	hanu	hánnúu 
+head: kai	kâi 
+hear: ji	jí	yaː ǯi 
+heart: zuTiya	zuciya	zučìyaː	zúucìyáa 
+horn: k"aho	kaho	kàhoː	kˀaho	ƙaho	ƙàhóo 
+1 sg.: na	ni	níi 
+I: na	ni	níi 
+kill: kashe	káshèe	yaː kašèː 
+knee: gwiwa	gwiːwàː	gw~iwa	gwíwàa 
+be knowledgeable: sani	sánìi	yaː sanìː 
+know: sani	sánìi	yaː sanìː 
+leaf: ga5e	ganye	gaɲeː	gányée 
+lie: kwanta	kw~anta	kwántàa	yaː kwântaː	yi kwanciya 
+lie down: kwanta	kw~anta	kwántàa	yaː kwântaː	yi kwanciya 
+liver: hanta	hantàː	hántàa 
+long: dogo	doːdoː	mài tsáwóo	s"awo	s"ayi	tsawo 
+head louse: kwarkwa	kw~akw~ata	kw~arkw~ata	kwàlkwátàa	kˀwarkˀwata 
+louse: kwarkwa	kw~akw~ata	kw~arkw~ata	kwàlkwátàa	kˀwarkˀwata 
+male: miǯìː	mutum	namiji	námíjì 
+man: mutum	mutuniya	mùtûm	ɗan Adam 
+many: da yawa	dà yawàː	yawa	yáwàa 
+much: da yawa	dà yawàː	yawa	yáwàa 
+multiple: da yawa	dà yawàː	yawa	yáwàa 
+several: da yawa	dà yawàː	yawa	yáwàa 
+flesh: naːmàː	náamàa	s"oka	tsoka 
+meat: naːmàː	náamàa	s"oka	tsoka 
+moon: wata	watàː	wátàa 
+hill: babban dutse	babban s"auni	duC"e	duc̣i	dus"e	dusʼèː	dutse	dúutsèe	jigawa	tsauni	tsáunìi	túdùu 
+mountain: babban dutse	babban s"auni	duC"e	duc̣i	dus"e	dusʼèː	dutse	dúutsèe	jigawa	tsauni	tsáunìi	túdùu 
+mouth: baki	bàakíi	bàːkiː 
+name: suna	suːnaː	súunáa 
+title: suna	suːnaː	súunáa 
+neck: wuya	wuyàː	wúyàa 
+new: a	sabo	saːboː	sáabóo 
+night: dare	dareː	dárée 
+nighttime: dare	dareː	dárée 
+nose: hanTi	hanci	hančìː	háncìi	nanCi 
+not: ba ba	ba …	baːbù	bà.....bá 
+adulterous: d"aya	daya	ɗaya	ɗáyá 
+one: d"aya	daya	ɗaya	ɗáyá 
+single: d"aya	daya	ɗaya	ɗáyá 
+that: wanTan	wancan	wančàn	wáncàn 
+the: d"aya	daya	ɗaya	ɗáyá 
+unprincipled: d"aya	daya	ɗaya	ɗáyá 
+human: mutum	mutuniya	mùtûm	ɗan Adam 
+human being: mutum	mutuniya	mùtûm	ɗan Adam 
+person: mutum	mutuniya	mùtûm	ɗan Adam 
+rain: ruwa	ruwan sama	rúwán sámàa 
+rainy weather: ruwa	ruwan sama	rúwán sámàa 
+red: ja	jáa	ǯaː 
+path: ha5a	haniya	hanya	turba 
+road: ha5a	haniya	hanya	turba 
+route: ha5a	haniya	hanya	turba 
+root: jíijíyàa	saiwa	sâiwáa 
+round: da7ira	kewaya	kewayayye	kèewàyáyyée	mai daʼira	zagayayye	ƙwállóo 
+sand: rairayi	yashi	yàashíi	yàːšiː	ƙásáa 
+say: Te	ce	cêe	faɗa	furta	fáɗìi 
+see: gani	gáníi	yaː ganiː 
+seed: iri	irìː	írìi 
+sit: yaː zaunàː	zauna	záunàa 
+hide: fata	faːtàː	fáatàa 
+skin: fata	faːtàː	fáatàa 
+sleep: barci	barčiː	yi barTi	yi barci	yí bárcíi 
+little: k"arami	kʼàramiː	kˀarami	ƙarami	ƙàrámíi 
+small: k"arami	kʼàramiː	kˀarami	ƙarami	ƙàrámíi 
+smallness: k"arami	kʼàramiː	kˀarami	ƙarami	ƙàrámíi 
+smoke: hayak"i	hayakʔi	hayaƙi	hayaːkʼiː	háyáaûíi 
+stand: s"aya 
+star: a	tauraro	tàuraròː	tàuràaróo 
+rock: duc"e	dus"e	dusʼèː	dutse	dúutsèe 
+stone: duc"e	dus"e	dusʼèː	dutse	dúutsèe 
+sun: rana	raːnaː	ráanáa 
+swim: yi iyo	yi nink"aya	yí íyóo 
+tail: bindi	jela	wus"iya	wusʼiyàː	wutsiya	wútsíyàa 
+this: wannan	wannàn	wánnàn 
+2 sg: kai	ke	ki	kái	kée 
+thou: kai	ke	ki	kái	kée 
+you: kai	ke	ki	kái	kée 
+tongue: harSe	harshe	haršèː	hárshèe 
+tooth: hak"ori	hakori	hakʼoːriː	hakˀori	haƙori	hákóoríi 
+tree: %itaTe	bishiya	itaCe	itace 
+grind: %biyu	biyu	bíyú 
+two: %biyu	biyu	bíyú 
+go: tàfí	yi tafiya	yi tafiya a ƙas	yi yawo 
+walk: tàfí	yi tafiya	yi tafiya a ƙas	yi yawo 
+hot: mai ɗumi	mài ɗìmíi	ɗumi 
+warm: mai ɗumi	mài ɗìmíi	ɗumi 
+water: ruwa	ruwaː	rúwáa 
+1 pl. inc.: mu	múu	ni 
+we: mu	múu	ni 
+we₁: mu	múu	ni 
+what: me	mene ne	mèe	mèː 
+white: fari	fariː	fáríi 
+whiteness: fari	fariː	fáríi 
+who: wa	wane ne	wàa	wàː 
+who?: wa	wane ne	wàa	wàː 
+female: maTe	mace	màcè	màčè 
+woman: maTe	mace	màcè	màčè 
+yellow: rawaya	ruwan ɗorawa	ràawáyàa	ràːwayàː 
+distant: mai nisa	nesa	niːsa	níisá 
+far: mai nisa	nesa	niːsa	níisá 
+dull: mai nauyi	mài náuyíi	nauyi	nauyìː 
+heavy: mai nauyi	mài náuyíi	nauyi	nauyìː 
+serious: mai nauyi	mài náuyíi	nauyi	nauyìː 
+close: kusa	kusa da	kúsá 
+near: kusa	kusa da	kúsá 
+ner: kusa	kusa da	kúsá 
+salt: gishiri	giširiː	gíshíríi 
+short: gajere	gàjéerée	gàːǯeːreː 
+snake: maciji	mačìːǯiː	mácìijíi 
+thin: siriri	sìir̃íir̃ìi	sìːriːrìː 
+wind: guguwa	iska	iskàː	ískàa 
+earthworm: sʼuːsʼàː	tana	tsutsa	tsúutsàa 
+worm: sʼuːsʼàː	tana	tsutsa	tsúutsàa 
+year: shekara	shèekáràa	shèeƙáràa	šèːkaràː 
+3 sg.: shi	shíi 
+he: shi	shíi 
+she: shi	shíi 
+2 pl.: ku	kúu 
+ye: ku	kúu 
+you all: ku	kúu 
+3 pl.: su	súu 
+they: su	súu 
+here: nan	nân 
+there: can	cân	čân 
+where: ina	ìnaa	ìnaː 
+where?: ina	ìnaa	ìnaː 
+when: wane lokaci	yaushe	yàushè	yàušè 
+when?: wane lokaci	yaushe	yàushè	yàušè 
+how: yaya	yàayàa	yàːyàː 
+how?: yaya	yàayàa	yàːyàː 
+some: wani	wata	waɗansu	wású 
+few: kaɗan	kàɗán 
+other: dàbám	wancan 
+three: uku	ukù	úkù 
+four: huɗu	húɗú 
+five: biyar	bìyar	bìyár̃ 
+broad: faffaɗa	faɗi	faːdiː	mai faɗi	mài fáaɗíi 
+wide: faffaɗa	faɗi	faːdiː	mai faɗi	mài fáaɗíi 
+wideness: faffaɗa	faɗi	faːdiː	mai faɗi	mài fáaɗíi 
+thick: kauri	mai kauri	mài káuríi	ɓúɓɓúkéekèe 
+narrow: mai ƙunci	maras fāɗi	tsukakke	à màtsé 
+child: 'yáa	yarinya	yaro	ɗáa 
+principal wife: mata	màatáa 
+wife: mata	màatáa 
+husband: miji	míjìi 
+his mother: mahaifiya	uwa	uwaː	úwáa 
+mother: mahaifiya	uwa	uwaː	úwáa 
+my mother: mahaifiya	uwa	uwaː	úwáa 
+father: mahaifi	uba	ùbaː	ùbáa 
+his father: mahaifi	uba	ùbaː	ùbáa 
+my father: mahaifi	uba	ùbaː	ùbáa 
+animal: dabba	dábbàa	naman daji	naːmàn daːǯìː 
+forest: daji	dáajìi	jeji	kurmìː	kúrmíi	ƙungurmin daji 
+woods: daji	dáajìi	jeji	kurmìː	kúrmíi	ƙungurmin daji 
+branch: reshe	réeshèe	sanda 
+stick: reshe	réeshèe	sanda 
+fruit: ʼyaʼyan itace	ʼyár̃ ítàacée 
+flower: fure	fùrée 
+grass: ciyawa	cìyáawàa	čìyaːwàː 
+cord: igiya	igiyàː	ígíyàa 
+rope: igiya	igiyàː	ígíyàa 
+fingernail: farce	fárcèe 
+leg: kʼafàː	kˀafa	ƙafa	ƙáfàa 
+arm: hannu 
+wing: fiffike	fiffikèː	fíffíkèe 
+gut: hanji	hanǯiː	hánjíi 
+guts: hanji	hanǯiː	hánjíi 
+insides: hanji	hanǯiː	hánjíi 
+intestine: hanji	hanǯiː	hánjíi 
+intestines: hanji	hanǯiː	hánjíi 
+back: baya	báayáa 
+suck: láasàa	tsotsa	tsóotsàa 
+spit: tofa	tóofàa 
+vomit: yi amai	yí ámái 
+blow: busa	búusàa	hura	húuràa	kaɗa	yaː huːràː 
+breath: yi numfashi	yí númfáashíi 
+breathe: yi numfashi	yí númfáashíi 
+laugh: dariya	dàaríyáa	yi dariya 
+laughter: dariya	dàaríyáa	yi dariya 
+cogitate: tunani	yi tsammani	yí tùnàaníi 
+reflect: tunani	yi tsammani	yí tùnàaníi 
+think: tunani	yi tsammani	yí tùnàaníi 
+smell: jí	sansana	shinshina	yaː ǯi 
+sniff: jí	sansana	shinshina	yaː ǯi 
+afraid: tsoro	tsòoróo 
+be afraid: tsoro	tsòoróo 
+fear: tsoro	tsòoróo 
+fright: tsoro	tsòoróo 
+alive: dà râi	rai	rayuwa	yi rai 
+be alive: dà râi	rai	rayuwa	yi rai 
+life: dà râi	rai	rayuwa	yi rai 
+live: dà râi	rai	rayuwa	yi rai 
+living: dà râi	rai	rayuwa	yi rai 
+fight: yaːkʼìː	yi fada	yi faɗa	yi yaki	yí fáɗàa 
+hunt: farauta	fàrautàː	fàráutàa	yi farauta 
+beat: buga	búgàa	doka	duka	yaː bugàː 
+hit: buga	búgàa	doka	duka	yaː bugàː 
+strike: buga	búgàa	doka	duka	yaː bugàː 
+cut: yanka	yaː yankàː	yánkèe 
+hack: yanka	yaː yankàː	yánkèe 
+cut open: fáskàráa	fásàa	raba 
+split: fáskàráa	fásàa	raba 
+pierce: soka	sòokáa 
+stab: soka	sòokáa 
+scratch: karce	sóosàa 
+dig: farta	hakˀa	haƙa	háƙàa	kaftu	nome	rora	tona	tóonàa	yaː hakʼàː 
+tell lies: kwanta	kʼaryaː	yi kwanciya	yi kˀarya	yí ƙáryáa 
+turn: juya	karkata	wáiwàyáa 
+turn around: juya	karkata	wáiwàyáa 
+turn round: juya	karkata	wáiwàyáa 
+drop: faɗi	fáaɗì	yaː faːɗìː 
+fall: faɗi	fáaɗì	yaː faːɗìː 
+grasp: rikˀe	riƙe	ríƙèe	yaː rikʼèː 
+hold: rikˀe	riƙe	ríƙèe	yaː rikʼèː 
+hold in arm: rikˀe	riƙe	ríƙèe	yaː rikʼèː 
+squeeze: matsa	mátsàa	yaː masʼa 
+wring: matsa	mátsàa	yaː masʼa 
+rub: goga	goge	góogèe	sháafèe	yaː goːgèː 
+wipe: shafa	sháafèe 
+wash: wanke	wánkèe	yaː wankèː 
+wash clothes: wanke	wánkèe	yaː wankèː 
+pull: ja 
+push: tura	ture	túuràa 
+shove: tura	ture	túuràa 
+throw: jefa	jéefàa	yaː ǯeːfàː 
+bind: yaː ɗaurèː	ɗaura	ɗáurèe 
+fasten: yaː ɗaurèː	ɗaura	ɗáurèe 
+tie: yaː ɗaurèː	ɗaura	ɗáurèe 
+tie up: yaː ɗaurèː	ɗaura	ɗáurèe 
+sew: yaː ɗinkàː	ɗinka	ɗínkàa 
+count: kˀidaya	kˀirga	ƙidaya	ƙírgàa 
+enumerate: kˀidaya	kˀirga	ƙidaya	ƙírgàa 
+number: kˀidaya	kˀirga	ƙidaya	ƙírgàa 
+tally: kˀidaya	kˀirga	ƙidaya	ƙírgàa 
+sing: rera wakˀa	rera waƙa	réerà wáaƙàa 
+have fun: yi wasa	yí wàasáa 
+play: yi wasa	yí wàasáa 
+float: taso kan ruwa	yi iyo	yí líilòo 
+flow: gudana	kwàráarà	màláalà 
+freeze: daskara	dáaskàrée 
+swell: kumbura 
+brook: kogi	kòogíi	kòːgiː 
+river: kogi	kòogíi	kòːgiː 
+stream: kogi	kòogíi	kòːgiː 
+lake: tabki	tafki	tafkìː	táfkìi 
+ocean: báhàa	báhàr̃	teku	tèekú 
+sea: báhàa	báhàr̃	teku	tèekú 
+dust: kʼùraː	kˀura	ura	ƙurar ƙasa	ƙùuráa 
+fog: hazo	hazoː	házóo 
+sky: sama	samàː	sámà 
+snow: kˀankˀara	ƙanƙara	ƙànƙáráa 
+ice: ayas	ayis	galas	kˀankˀara	ƙànƙáráa 
+blaze: k"ona	kˀuna	yaː kʼoːnèː	ƙone	ƙóonèe 
+burn: k"ona	kˀuna	yaː kʼoːnèː	ƙone	ƙóonèe 
+day: rana	ráanáa	yini 
+daylight: rana	ráanáa	yini 
+daytime: rana	ráanáa	yini 
+old: tsoho 
+bad: bâa kyâu	maras kyau	mugu	muːgùː	múugùu 
+evil: bâa kyâu	maras kyau	mugu	muːgùː	múugùu 
+rot: ruɓaɓɓe	rúɓèe 
+rotten: ruɓaɓɓe	rúɓèe 
+dirty: datti	daudàː	dauɗa	mai dauɗa	mài dáuɗàa 
+filthy: datti	daudàː	dauɗa	mai dauɗa	mài dáuɗàa 
+soiled: datti	daudàː	dauɗa	mai dauɗa	mài dáuɗàa 
+straight: mikˀakˀkˀe	miƙaƙƙe	à mìiƙé 
+sharp: kaifi	mai kaifi	mài káifíi 
+blunt: dasashe	dáakùsáa	maras kaifi 
+smooth: laushi	mai santsi	mài sántsíi	santsi	sumul 
+damp: jikˀakˀkˀe	jiƙaƙƙe	mài láimàa 
+wet: jikˀakˀkˀe	jiƙaƙƙe	mài láimàa 
+correct: daidai	dáidái	madaidaici 
+right side: dama	daːma	dáamá 
+left: hagu	hágú 
+at: a	wurin	à 
+in: a	ciki	cikin	à cíkín	čikiː 
+inside: a	ciki	cikin	à cíkín	čikiː 
+with: da	dà 
+and: da	dà	kuma	kúmáa 
+if: idan	in	ín 
+because: don	saboda	sábòodà 

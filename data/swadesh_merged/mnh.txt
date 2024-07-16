@@ -1,0 +1,297 @@
+all: kɔ 
+every: kɔ 
+ash: vorowo 
+ashes: vorowo 
+bark: kɔtshu 
+abdomen: ɨvɨ 
+belly: ɨvɨ 
+big: egerœ 
+bigness: egerœ 
+large: egerœ 
+bird: yanu	yɔnu 
+bite: lo 
+black: bu	kporokoto 
+blood: Ng~uSi	indji 
+bone: Ngb$abi	ngbaʼbi 
+breast: oNg~o	ɔngɔ 
+breasts: oNg~o	ɔngɔ 
+claw: yangope 
+nail: yangope 
+talon: yangope 
+cloud: ondoro 
+cold: ɨzɨ 
+come: k3na	kugu	na	to ʼba 
+come from: k3na	kugu	na	to ʼba 
+be dead: kuCu	tshu 
+dead: kuCu	tshu 
+die: kuCu	tshu 
+dog: yavoro 
+drink: k3nj~o	ndjo 
+dry: ɔʼɔrɔ 
+ear: utu 
+earth: lɔshɔ	ɔshɔ 
+ground: lɔshɔ	ɔshɔ 
+land: lɔshɔ	ɔshɔ 
+soil: lɔshɔ	ɔshɔ 
+eat: zɨ 
+egg: oporo 
+eye: ala 
+feather: usu	usu yanu 
+fire: owo 
+fish: agTa Cala Ng~u	agya tshalangu	agyangu 
+fly: ru 
+fly v.: ru 
+foot: ada 
+full: kusu	pete 
+give: za 
+good: dœ ɔtshɔ nœ 
+green: ungu kako garanga 
+hair: sukumu 
+hand: kane	kanœ	kanœ gele	kuni 
+left hand: kane	kanœ	kanœ gele	kuni 
+right: kane	kanœ	kanœ gele	kuni 
+hear: dji	k3ji 
+heart: ulu 
+horn: 3d3	idi	ɨdɨ 
+1 sg.: 3m3 
+I: 3m3 
+knee: koda 
+leaf: kako	kako oyo 
+lie: lo 
+lie down: lo 
+liver: ebe	ulu 
+long: ɨngɨrɨ 
+head louse: aCo	atsho 
+louse: aCo	atsho 
+male: akɔ 
+man: uzu 
+many: ndjoro 
+much: ndjoro 
+multiple: ndjoro 
+several: ndjoro 
+moon: yapu 
+hill: kaga 
+mountain: kaga 
+mouth: ama 
+name: i7iri	ɨʼɨrɨ 
+title: i7iri	ɨʼɨrɨ 
+neck: ɨgɨ 
+new: tafo 
+night: abuCo	abutshɔ	butshɔ	dabutsho 
+nighttime: abuCo	abutshɔ	butshɔ	dabutsho 
+nose: Ng~awu	ngawu 
+adulterous: bale 
+one: bale 
+single: bale 
+that: shè neke ɓáʼé 
+the: bale 
+unprincipled: bale 
+human: uzu 
+human being: uzu 
+person: uzu 
+rain: yavuru 
+rainy weather: yavuru 
+red: fa odoro nœ	odoro 
+path: awa 
+road: awa 
+route: awa 
+root: eshe ɔyɔ 
+round: sœ tindivwɨrɨ	tindivwɨrɨ 
+sand: mindu 
+say: pa ʼo 
+see: kuwu	wu 
+seed: ngwarœ 
+sit: sœ gatɨ 
+hide: oko	ɔkɔ 
+skin: oko	ɔkɔ 
+sleep: lo olo 
+little: taasho	teasho	teesho	tshagbolo 
+small: taasho	teasho	teesho	tshagbolo 
+smallness: taasho	teasho	teesho	tshagbolo 
+smoke: ngawo 
+star: aNg~erepe	angerepe 
+rock: badja	tame 
+stone: badja	tame 
+sun: olo	ɔlɔ 
+swim: dɔ ungu 
+tail: damba 
+2 sg: 3b3 
+thou: 3b3 
+you: 3b3 
+tongue: tima 
+tooth: iZi	iji 
+tree: oyo	ɔyɔ 
+grind: biSa	bisha 
+two: biSa	bisha 
+go: na 
+walk: na 
+water: uNg~u	ungu 
+1 pl. inc.: a7a	az3 
+we: a7a	az3 
+we₁: a7a	az3 
+what: gaʼde 
+white: mbiwa	ta imbi œrœ	tukpa 
+whiteness: mbiwa	ta imbi œrœ	tukpa 
+who: eʼde 
+who?: eʼde 
+female: yashe 
+woman: yashe 
+yellow: wola 
+distant: zara 
+far: zara 
+dull: kɨkɨlɨ	lɨ 
+heavy: kɨkɨlɨ	lɨ 
+serious: kɨkɨlɨ	lɨ 
+close: ndo 
+near: ndo 
+ner: ndo 
+salt: ɨngbɨrɨ	ɨ̀ngbɨ̀rɨ̀ 
+short: ondo	sœ ondo nœ 
+snake: yakoro 
+thin: kurudja	unguru 
+wind: yugu 
+year: ungu 
+here: kpœke 
+there: ʼbaʼe 
+where: bata	ʼbata 
+where?: bata	ʼbata 
+when: olo gaʼde 
+when?: olo gaʼde 
+how: kotoo 
+how?: kotoo 
+some: anga nœ 
+few: taasho	teasho	teesho 
+three: votɔ 
+four: vana 
+five: minduu 
+broad: haga	ondo nœ 
+wide: haga	ondo nœ 
+wideness: haga	ondo nœ 
+fat: ojoro 
+thick: imi	mi	ɨmɨ 
+narrow: podjodjo 
+child: gbolo 
+principal wife: awo	ayondɔ 
+wife: awo	ayondɔ 
+husband: akɔ 
+his mother: ayi mœ	ayi nœ	ayi zœ	iya 
+mother: ayi mœ	ayi nœ	ayi zœ	iya 
+my mother: ayi mœ	ayi nœ	ayi zœ	iya 
+father: aba	aba mœ	aba nœ	aba zœ 
+his father: aba	aba mœ	aba nœ	aba zœ 
+my father: aba	aba mœ	aba nœ	aba zœ 
+animal: agya 
+forest: vedja 
+woods: vedja 
+branch: ganya 
+stick: ganya 
+fruit: ele ɔyɔ 
+flower: ndɔkɔ 
+grass: gusu 
+cord: uwu 
+rope: uwu 
+flesh: songba 
+meat: songba 
+grease: ojoro 
+fingernail: ngope	sungope 
+leg: ada 
+wing: ombo 
+gut: shœta 
+guts: shœta 
+insides: shœta 
+intestine: shœta 
+intestines: shœta 
+back: ovoro 
+suck: ndjoro 
+spit: yo ngushi 
+vomit: ndja 
+blow: ʼuru 
+laugh: mɔ ɔmɔ 
+laughter: mɔ ɔmɔ 
+cogitate: gbe dœ 
+reflect: gbe dœ 
+think: gbe dœ 
+smell: dji tshafu 
+sniff: dji tshafu 
+afraid: awa 
+be afraid: awa 
+fear: awa 
+fright: awa 
+alive: soro 
+be alive: soro 
+life: soro 
+live: soro 
+living: soro 
+fight: nga koshe 
+hunt: na oro agya 
+beat: i	ʼbi 
+hit: i	ʼbi 
+strike: i	ʼbi 
+cut open: ʼoro 
+split: ʼoro 
+pierce: su 
+stab: su 
+dig: dji 
+tell lies: pa wala	wala 
+stand: ka lafo 
+turn: fa	kə́fà tə̀ 
+turn around: fa	kə́fà tə̀ 
+turn round: fa	kə́fà tə̀ 
+drop: te 
+fall: te 
+grasp: tepa	za 
+hold: tepa	za 
+hold in arm: tepa	za 
+squeeze: ku 
+wring: ku 
+rub: kɔrɔnɔ 
+wipe: kɔrɔnɔ 
+wash: djitɔ loba 
+wash clothes: djitɔ loba 
+pull: gbota	gbotɔ 
+push: ku 
+shove: ku 
+throw: vwi 
+bind: ʼi	ʼi po 
+fasten: ʼi	ʼi po 
+tie: ʼi	ʼi po 
+tie up: ʼi	ʼi po 
+sew: i	ʼbi 
+count: dɨ 
+enumerate: dɨ 
+number: dɨ 
+tally: dɨ 
+sing: ʼbi itshi 
+have fun: du mɔlɔ 
+play: du mɔlɔ 
+float: ru tala-tala 
+flow: tara 
+swell: suku tœ 
+brook: yangangu 
+river: yangangu 
+stream: yangangu 
+lake: adanga 
+ocean: kota 
+sea: kota 
+dust: turusha	turushɔ 
+sky: tshalafo 
+blaze: ju	ta owo 
+burn: ju	ta owo 
+bad: ekpe 
+evil: ekpe 
+rot: fu	ufu 
+rotten: fu	ufu 
+dirty: uburu 
+filthy: uburu 
+soiled: uburu 
+straight: ka ndji	ndji 
+sharp: pɔtu	sœ tœ here-here 
+blunt: nduʼburuʼbu 
+smooth: zɨɨ 
+correct: gba 
+right side: kuni 
+left: gele 
+with: dœ	tœ 
+and: œdœ 
+if: œdœ 
+because: mbœrœ 

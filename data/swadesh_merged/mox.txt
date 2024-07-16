@@ -1,0 +1,267 @@
+all: yawu-	ʔowosi 
+every: yawu-	ʔowosi 
+ash: ʔalipapa 
+ashes: ʔalipapa 
+abdomen: gamo-	ʔumutuna 
+belly: gamo-	ʔumutuna 
+big: vidua 
+bigness: vidua 
+large: vidua 
+bird: manu 
+bite: ʔalas|ia 
+black: boboso-na	kwaukwau-na 
+blood: sulala	sulali	su|lala- 
+bone: lulu	lulu- 
+breast: susu	susu- 
+breasts: susu	susu- 
+burn: gabu 
+burn tr.: gabu 
+cloud: kwao	kwau	yaloa 
+cold: bwaloʔo	gugaʔu 
+come: mai 
+come from: mai 
+be dead: aliga	lusi	ʔaliga 
+dead: aliga	lusi	ʔaliga 
+die: aliga	lusi	ʔaliga 
+dog: kedewa 
+drink: numa 
+dry: lovesaya	sayasaya-na 
+ear: tena-	tenixa 
+eat: ʔai 
+egg: poʔu 
+eye: mata 
+feather: dagula 
+fire: aiwe	ʔaiwe 
+fish: ixana	iyana 
+fly: yewayewa 
+fly v.: yewayewa 
+full: agtatuna7i	kulafu 
+good: ʔaviʔavili 
+green: galiʔe-na 
+hair: deba- 
+hand: nima	nima- 
+left hand: nima	nima- 
+right: nima	nima- 
+head: ʔunuʔunu 
+hear: nowola	noxola	vinenexa 
+horn: dona 
+1 sg.: iya|ʔa	ya7a 
+I: iya|ʔa	ya7a 
+kill: wunu	ʔaumagaiya 
+knee: tuxatuxa 
+be knowledgeable: mwalatoni 
+know: mwalatoni 
+leaf: waena	yawai- 
+lie: ʔeno 
+lie down: ʔeno 
+liver: giwali busobuso	ʔateʔate 
+long: duduli-na 
+head louse: dobuʔe	utu 
+louse: dobuʔe	utu 
+male: meʔolotona 
+man: tomotau	tomo|tau 
+moon: waiʔena 
+hill: bw~anaga	oya 
+mountain: bw~anaga	oya 
+mouth: ʔawa 
+name: wawa 
+title: wawa 
+neck: maga- 
+new: vauvau	vauvau-na 
+night: boiboi	velovelovana 
+nighttime: boiboi	velovelovana 
+nose: budo	gabo	gabu- 
+adulterous: aidega	aigeda	ta‘amona	ʔaigedana 
+one: aidega	aigeda	ta‘amona	ʔaigedana 
+single: aidega	aigeda	ta‘amona	ʔaigedana 
+that: benaʔe	na|ina 
+the: aidega	aigeda	ta‘amona	ʔaigedana 
+unprincipled: aidega	aigeda	ta‘amona	ʔaigedana 
+human: tomotau	tomo|tau 
+human being: tomotau	tomo|tau 
+person: tomotau	tomo|tau 
+rain: ʔusana 
+rainy weather: ʔusana 
+red: bweyabweyali-na 
+path: eda	ʔeda 
+road: eda	ʔeda 
+route: eda	ʔeda 
+root: kwalama 
+sand: gelasa 
+say: wona[wona] 
+see: ita	vekova	ʔita 
+sit: towa 
+hide: pusa-	wafi	ʔwapi- 
+skin: pusa-	wafi	ʔwapi- 
+sleep: ʔeno 
+little: goyo-na 
+small: goyo-na 
+smallness: goyo-na 
+smoke: bwawa 
+star: wadima	ʔubwana 
+rock: dabo 
+stone: dabo 
+sun: baba7au	vala 
+swim: ʔayoʔayo 
+tail: yiwu- 
+this: baʔe 
+2 sg: o7a	omi7a 
+thou: o7a	omi7a 
+you: o7a	omi7a 
+tongue: mea	meya- 
+tooth: ala	sala- 
+tree: aiwe 
+grind: lua	magilafu	veluwena 
+two: lua	magilafu	veluwena 
+go: nao[nao] 
+walk: nao[nao] 
+hot: esitana	galalava 
+warm: esitana	galalava 
+water: go7ila	goʔila 
+1 pl. inc.: ima|ʔa	ita7a	ita|ʔa 
+we: ima|ʔa	ita7a	ita|ʔa 
+we₁: ima|ʔa	ita7a	ita|ʔa 
+what: tolaʔai 
+white: wadawada-na	waʔewaʔeʔe-na 
+whiteness: wadawada-na	waʔewaʔeʔe-na 
+who: toga 
+who?: toga 
+female: meyavine	vavine 
+woman: meyavine	vavine 
+yellow: yawoyawo-na 
+distant: luvai 
+far: luvai 
+dull: vita 
+heavy: vita 
+serious: vita 
+close: diʔwe-na 
+near: diʔwe-na 
+ner: diʔwe-na 
+salt: wola 
+short: kukupa-na 
+snake: mwata 
+thin: yalayala-na 
+wind: nuba	yagila 
+earthworm: dimwamwana 
+worm: dimwamwana 
+year: yaʔwala 
+2 pl.: omiʔa 
+ye: omiʔa 
+you all: omiʔa 
+3 pl.: tau|di 
+they: tau|di 
+where: maina	toʔasa[ya] 
+where?: maina	toʔasa[ya] 
+when: totuta 
+when?: totuta 
+how: toʔedega 
+how?: toʔedega 
+other: ebweu 
+three: toi	vetoi 
+four: luwa ta luwa	veyata 
+five: lasapwai 
+fat: bila- 
+thick: badobado-na 
+narrow: sisisi-na 
+principal wife: mwane- 
+wife: mwane- 
+husband: mwane- 
+his mother: sina- 
+mother: sina- 
+my mother: sina- 
+father: tama- 
+his father: tama- 
+my father: tama- 
+forest: mutaʔwa 
+woods: mutaʔwa 
+fruit: uwa- 
+flower: kaiwa-seni-na 
+grass: lomata	lowulowu 
+cord: malakwa 
+rope: malakwa 
+flesh: vesiʔo- 
+meat: vesiʔo- 
+grease: bila- 
+wing: pape- 
+gut: diya- 
+guts: diya- 
+insides: diya- 
+intestine: diya- 
+intestines: diya- 
+back: gwawu- 
+suck: ʔamwagu 
+spit: giligilisese	wewe 
+vomit: maiwa 
+blow: loliloli	muʔwe 
+breath: yawasi 
+breathe: yawasi 
+laugh: venama 
+laughter: venama 
+cogitate: nuanua- 
+reflect: nuanua- 
+think: nuanua- 
+smell: yaso-ya 
+sniff: yaso-ya 
+afraid: matauta 
+be afraid: matauta 
+fear: matauta 
+fright: matauta 
+alive: maʔiyawayawasi-na 
+be alive: maʔiyawayawasi-na 
+life: maʔiyawayawasi-na 
+live: maʔiyawayawasi-na 
+living: maʔiyawayawasi-na 
+beat: gumu	ʔau 
+hit: gumu	ʔau 
+strike: gumu	ʔau 
+cut: tala 
+hack: tala 
+cut open: diʔaya	ʔilawata 
+split: diʔaya	ʔilawata 
+pierce: ʔedawa 
+stab: ʔedawa 
+scratch: kalo 
+dig: tavi 
+stand: towolo 
+drop: sawuta 
+fall: sawuta 
+grasp: kapi 
+hold: kapi 
+hold in arm: kapi 
+squeeze: buyo 
+wring: buyo 
+throw: ula 
+bind: yowona 
+fasten: yowona 
+tie: yowona 
+tie up: yowona 
+sew: saila 
+count: saʔwa 
+enumerate: saʔwa 
+number: saʔwa 
+tally: saʔwa 
+flow: dau 
+lake: lawu 
+ocean: doga	wola 
+sea: doga	wola 
+dust: pwayavasu 
+fog: umauma 
+sky: masala 
+bad: lovesipa-na 
+evil: lovesipa-na 
+rot: dawuli-na	kola-na 
+rotten: dawuli-na	kola-na 
+dirty: bwawubwawu-na 
+filthy: bwawubwawu-na 
+soiled: bwawubwawu-na 
+sharp: soʔusoʔu-na 
+blunt: batukwa 
+damp: buta-na 
+wet: buta-na 
+right side: atai 
+left: keli 
+at: -ya 
+in: solana 
+inside: solana 
+and: be	ta 
+if: aba	eguma 

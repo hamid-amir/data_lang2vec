@@ -1,0 +1,329 @@
+all: همه 
+every: همه 
+ash: khåkestar 
+ashes: khåkestar 
+bark: پوست درخت 
+abdomen: شکم 
+belly: شکم 
+big: بزرگ 
+bigness: بزرگ 
+large: بزرگ 
+bird: پرنده 
+bite: گزیدن 
+black: siåh 
+blood: خون 
+bone: استخوان 
+breast: سینه 
+breasts: سینه 
+cloud: abr 
+cold: sard 
+come: آمدن 
+come from: آمدن 
+be dead: مردن 
+dead: مردن 
+die: مردن 
+dog: سگ 
+drink: نوشیدن 
+dry: khoshk 
+ear: گوش 
+earth: zamin 
+ground: zamin 
+land: zamin 
+soil: zamin 
+eat: خوردن 
+egg: تخم 
+eye: چشم 
+feather: پر 
+fire: âzar	åtash 
+fish: ماهی 
+fly: پریدن 
+fly v.: پریدن 
+foot: پا 
+full: por 
+give: dådan 
+good: khub 
+green: sabz 
+hair: مو 
+head: سر 
+hear: شنیدن 
+heart: دل 
+horn: شاخ 
+1 sg.: من 
+I: من 
+kill: کشتن 
+knee: زانو 
+be knowledgeable: دانستن 
+know: دانستن 
+leaf: برگ 
+liver: جگر 
+long: بلند 
+head louse: شپش 
+louse: شپش 
+male: مرد 
+man: انسان	نفر	کس 
+many: زیاد	چندین 
+much: زیاد	چندین 
+multiple: زیاد	چندین 
+several: زیاد	چندین 
+moon: måh 
+hill: kuh 
+mountain: kuh 
+mouth: دهن 
+name: esm	nåm 
+title: esm	nåm 
+neck: گردن 
+new: now 
+night: shab 
+nighttime: shab 
+nose: بینی	دماغ 
+not: نه 
+adulterous: یک 
+one: یک 
+single: یک 
+that: آن 
+the: یک 
+unprincipled: یک 
+human: انسان	نفر	کس 
+human being: انسان	نفر	کس 
+person: انسان	نفر	کس 
+rain: bårån 
+rainy weather: bårån 
+red: ghermez	sorkh 
+path: khiåbån	råh 
+road: khiåbån	råh 
+route: khiåbån	råh 
+root: ریشه 
+round: gerd 
+sand: måse 
+say: goftan 
+see: دیدن 
+seed: تخم	دانه 
+sit: neshastan 
+hide: پوست 
+skin: پوست 
+sleep: خوابیدن 
+little: کوچک 
+small: کوچک 
+smallness: کوچک 
+smoke: dud 
+star: setåre 
+rock: sang 
+stone: sang 
+sun: khorshid 
+swim: شنا کردن 
+tail: دم 
+this: این 
+2 sg: تو 
+thou: تو 
+you: تو 
+tongue: زبان 
+tooth: دندان 
+tree: درخت 
+grind: دو 
+two: دو 
+go: راه رفتن 
+walk: راه رفتن 
+hot: garm 
+warm: garm 
+water: åb 
+1 pl. inc.: ما 
+we: ما 
+we₁: ما 
+what: چی 
+white: sefid 
+whiteness: sefid 
+who: کی 
+who?: کی 
+female: زن 
+woman: زن 
+yellow: zard 
+distant: dur 
+far: dur 
+dull: سنگین 
+heavy: سنگین 
+serious: سنگین 
+close: nazdic 
+near: nazdic 
+ner: nazdic 
+salt: namak 
+short: کوتاه 
+snake: مار 
+thin: نازک 
+wind: båd 
+earthworm: کرم 
+worm: کرم 
+year: sål 
+3 sg.: او 
+he: او 
+she: او 
+2 pl.: شما 
+ye: شما 
+you all: شما 
+3 pl.: ایشان 
+they: ایشان 
+here: اینجا 
+there: آنجا 
+where: کجا 
+where?: کجا 
+when: کی 
+when?: کی 
+how: چطور 
+how?: چطور 
+some: برخی 
+few: اندک 
+other: دیگر 
+three: سه 
+four: چهار 
+five: پنج 
+broad: پهن 
+wide: پهن 
+wideness: پهن 
+fat: روغن	چربی 
+thick: کلفت 
+narrow: تنگ 
+child: بچه 
+principal wife: زن 
+wife: زن 
+husband: شوهر 
+his mother: مادر 
+mother: مادر 
+my mother: مادر 
+father: پدر 
+his father: پدر 
+my father: پدر 
+animal: جانور 
+forest: جنگل 
+woods: جنگل 
+branch: چماق 
+stick: چماق 
+fruit: میوه 
+flower: گل 
+grass: علف 
+cord: طناب 
+rope: طناب 
+flesh: گوشت 
+meat: گوشت 
+grease: روغن	چربی 
+claw: ناخن 
+fingernail: ناخن 
+nail: ناخن 
+leg: لنگ 
+arm: دست 
+hand: دست 
+wing: بال 
+gut: روده 
+guts: روده 
+insides: روده 
+intestine: روده 
+intestines: روده 
+back: پس	پشت 
+suck: مکیدن 
+spit: تف	دشنه 
+vomit: kai kardan قی کردن 
+blow: وزیدن 
+breath: دم زدن	نفس کشیدن 
+breathe: دم زدن	نفس کشیدن 
+laugh: خندیدن 
+laughter: خندیدن 
+cogitate: اندیشیدن 
+reflect: اندیشیدن 
+think: اندیشیدن 
+smell: buedan 
+sniff: buedan 
+afraid: ترسیدن 
+be afraid: ترسیدن 
+fear: ترسیدن 
+fright: ترسیدن 
+alive: زیستن 
+be alive: زیستن 
+life: زیستن 
+live: زیستن 
+living: زیستن 
+fight: جنگیدن 
+hunt: شکار کردن 
+beat: زدن 
+hit: زدن 
+strike: زدن 
+cut: بریدن 
+hack: بریدن 
+cut open: شکافتن 
+split: شکافتن 
+pierce: زخم زدن 
+stab: زخم زدن 
+scratch: خراشیدن 
+dig: حفر کردن 
+lie: deråz kishidan	khåbidan 
+lie down: deråz kishidan	khåbidan 
+tell lies: deråz kishidan	khåbidan 
+stand: istådan	på shodan 
+turn: gardidan 
+turn around: gardidan 
+turn round: gardidan 
+drop: oftådan 
+fall: oftådan 
+grasp: negah dashtan 
+hold: negah dashtan 
+hold in arm: negah dashtan 
+squeeze: feshordan 
+wring: feshordan 
+rub: sudan 
+wipe: zedudan 
+wash: shostan 
+wash clothes: shostan 
+pull: keshidan 
+push: feshar dådan 
+shove: feshar dådan 
+throw: part kardan 
+bind: gereh zadan 
+fasten: gereh zadan 
+tie: gereh zadan 
+tie up: gereh zadan 
+sew: dukhtan 
+count: shomardan 
+enumerate: shomardan 
+number: shomardan 
+tally: shomardan 
+sing: khåndan 
+have fun: båzi kardan 
+play: båzi kardan 
+float: ایستادن 
+freeze: yakh zadan 
+brook: rudkhåne 
+river: rudkhåne 
+stream: rudkhåne 
+lake: daryåche 
+ocean: daryå 
+sea: daryå 
+dust: gard o khåk 
+fog: meh 
+sky: åsemån 
+snow: barf 
+ice: yakh 
+blaze: sukhtan 
+burn: sukhtan 
+day: ruz 
+daylight: ruz 
+daytime: ruz 
+old: kohne 
+bad: bad 
+evil: bad 
+rot: puside 
+rotten: puside 
+dirty: cherkin 
+filthy: cherkin 
+soiled: cherkin 
+straight: råst 
+sharp: tiz 
+blunt: kond 
+smooth: hamvår 
+damp: tar 
+wet: tar 
+correct: dorost 
+right: råst 
+right side: råst 
+left: chap 
+at: dar 
+with: bå 
+and: va 
+if: agar 
+because: zirå 

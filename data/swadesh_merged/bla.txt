@@ -1,0 +1,145 @@
+all: kan	oxkan 
+every: kan	oxkan 
+ash: makskitsi 
+ashes: makskitsi 
+bark: otoksksi 
+abdomen: itsi 
+belly: itsi 
+big: sok 
+bigness: sok 
+large: sok 
+bird: piksi 
+bite: sikstaki 
+black: sik 
+blood: apan 
+bone: oxkin 
+breast: maokayis	monikis 
+breasts: maokayis	monikis 
+claw: awotanokitsis 
+nail: awotanokitsis 
+talon: awotanokitsis 
+cloud: soksistsiko 
+cold: stowapi 
+be dead: i7na	iponitsi 
+dead: i7na	iponitsi 
+die: i7na	iponitsi 
+dog: omita 
+drink: simato 
+ear: motokis	stoki 
+earth: ksako 
+ground: ksako 
+land: ksako 
+soil: ksako 
+eat: owat	oyi 
+egg: owa 
+eye: apini	moapsp 
+fat: imistsi	inikinan 
+fat n.: imistsi	inikinan 
+grease: imistsi	inikinan 
+lubricant: imistsi	inikinan 
+oil: imistsi	inikinan 
+fire: pakoyitsi	potan 
+fish: mami 
+fly: ipawani	ipota 
+fly v.: ipawani	ipota 
+foot: ika	mokat 
+full: otsik 
+give: omatskataki	oxkot 
+good: sok	yasi 
+green: komono	otsko 
+hair: ixkin	motokan 
+hand: ikinst	motsis 
+left hand: ikinst	motsis 
+right: ikinst	motsis 
+head: ixkin	motokan 
+hear: yotsimi 
+heart: moskitsipap 
+horn: motskinayi 
+1 sg.: nisto 
+I: nisto 
+kill: i7nit 
+knee: motoksis 
+be knowledgeable: sksini 
+know: sksini 
+leaf: nip 
+lie: istokitsi 
+lie down: istokitsi 
+liver: kinakin 
+long: ino	ipi 
+head louse: sknas 
+louse: sknas 
+male: nina 
+man: itapiyi	matapi 
+many: aka	waka 
+much: aka	waka 
+multiple: aka	waka 
+several: aka	waka 
+flesh: i7ksisako 
+meat: i7ksisako 
+moon: kisom 
+hill: mistak 
+mountain: mistak 
+mouth: mao	oyi 
+neck: mokokn 
+new: man 
+night: sipi 
+nighttime: sipi 
+nose: moksisis 
+not: sa 
+adulterous: nit	nitokska	ni’tókska 
+one: nit	nitokska	ni’tókska 
+single: nit	nitokska	ni’tókska 
+that: an	om 
+the: nit	nitokska	ni’tókska 
+unprincipled: nit	nitokska	ni’tókska 
+human: itapiyi	matapi 
+human being: itapiyi	matapi 
+person: itapiyi	matapi 
+rain: sota 
+rainy weather: sota 
+red: maok	mikotsi 
+path: mosoko 
+road: mosoko 
+route: mosoko 
+root: katsiksi 
+round: o7taki	oxkomsi 
+say: wanisto 
+see: ini	ino 
+seed: kininoko 
+sit: opi 
+hide: motokis 
+skin: motokis 
+sleep: yoka 
+little: i7nak	oxpok 
+small: i7nak	oxpok 
+smallness: i7nak	oxpok 
+stand: ipoipoyi 
+star: kakatosi 
+rock: oxkotok 
+stone: oxkotok 
+sun: kisom	natosi 
+swim: otsi 
+tail: mosoyis	otoyi 
+this: amo	ano 
+2 sg: kisto 
+thou: kisto 
+you: kisto 
+tongue: matsini 
+tooth: ikin	mopikin 
+tree: mistsis 
+grind: ist	natok	nááto’ka 
+two: ist	natok	nááto’ka 
+go: a7piksikayi	ikawo 
+walk: a7piksikayi	ikawo 
+water: aoki	ikim 
+1 pl. inc.: kistonon	nistonan 
+we: kistonon	nistonan 
+we₁: kistonon	nistonan 
+what: koyiwa	tsa 
+white: api	iksik 
+whiteness: api	iksik 
+who: taka 
+who?: taka 
+female: aki 
+woman: aki 
+yellow: otako 

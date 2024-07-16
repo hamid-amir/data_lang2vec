@@ -1,0 +1,264 @@
+all: neiŋur 
+every: neiŋur 
+ash: nalua 
+ashes: nalua 
+abdomen: opo 
+belly: opo 
+big: ambiŋe 
+bigness: ambiŋe 
+large: ambiŋe 
+bird: namon 
+bite: kalak 
+black: korkorŋe 
+blood: tepo	tepw3 
+bone: boboir3	bolboli	ḇolḇoli 
+breast: su	sua 
+breasts: su	sua 
+burn: ḇaḇa 
+burn tr.: ḇaḇa 
+cloud: naǥaǥao 
+cold: rôǥoŋe 
+come: imai	mai 
+come from: imai	mai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: nagaune	naxaone	naǥaone 
+drink: in 
+dry: ǥoli 
+ear: talNe	tolNa	tolŋa 
+eat: kan 
+egg: ŋalua 
+eye: aror3	ero 
+feather: [namon] louloua 
+fire: nariNa	nariŋa 
+fish: naia 
+fly: lou 
+fly v.: lou 
+full: ipuN 
+good: popue 
+green: ḇilḇiliaŋe 
+hair: [kuri] louloua 
+hand: bagia	baxe	ḇaǥe 
+left hand: bagia	baxe	ḇaǥe 
+right: bagia	baxe	ḇaǥe 
+head: kuri 
+hear: loNo	loŋo	uloNo 
+1 sg.: iau	yum 
+I: iau	yum 
+kill: pamateŋe 
+knee: narubw3 
+be knowledgeable: ôtai 
+know: ôtai 
+leaf: lolowa	louloua 
+lie: kono 
+lie down: kono 
+liver: atati	atatia 
+long: moloŋe 
+head louse: nagine	naxine	naǥine 
+louse: nagine	naxine	naǥine 
+male: natamta 
+man: nat3mt3mau	natamtamaol 
+moon: natop 
+hill: nalolo 
+mountain: nalolo 
+mouth: ao 
+name: Epasis	napasis 
+title: Epasis	napasis 
+neck: ǥoli 
+new: paua	pawa 
+night: boN	boŋ	naboN 
+nighttime: boN	boŋ	naboN 
+nose: band3	bani	ḇani 
+adulterous: kiabolem	tea	teia 
+one: kiabolem	tea	teia 
+single: kiabolem	tea	teia 
+that: elo 
+the: kiabolem	tea	teia 
+unprincipled: kiabolem	tea	teia 
+human: nat3mt3mau	natamtamaol 
+human being: nat3mt3mau	natamtamaol 
+person: nat3mt3mau	natamtamaol 
+rain: nasaḇa 
+rainy weather: nasaḇa 
+red: kilkiluaŋe 
+path: naroro	roro 
+road: naroro	roro 
+route: naroro	roro 
+root: oke 
+sand: namaǥa 
+say: ḇul 
+see: ileye	lei 
+sit: mate 
+hide: dind3	tini 
+skin: dind3	tini 
+sleep: kono 
+little: kaporia 
+small: kaporia 
+smallness: kaporia 
+smoke: ḇuŋe 
+star: naputom 
+rock: napot	napoth~ 
+stone: napot	napoth~ 
+sun: newaro 
+swim: uaǥɛn 
+tail: tewe	ḇoḇua 
+this: eko 
+2 sg: iom	iyau 
+thou: iom	iyau 
+you: iom	iyau 
+tongue: mai	maiy3 
+tooth: roNa	roNara	roŋa 
+tree: nai 
+grind: lua 
+two: lua 
+go: lala 
+walk: lala 
+hot: samamo ̂ŋelia 
+warm: samamo ̂ŋelia 
+water: nakh~o	nako 
+1 pl. inc.: iem	ita	yEm 
+we: iem	ita	yEm 
+we₁: iem	ita	yEm 
+what: nasae 
+white: seseŋe	ḇorḇoria 
+whiteness: seseŋe	ḇorḇoria 
+who: sei 
+who?: sei 
+female: neiue 
+woman: neiue 
+yellow: naŋoŋe 
+distant: aluai 
+far: aluai 
+dull: pataŋa 
+heavy: pataŋa 
+serious: pataŋa 
+close: touoi 
+near: touoi 
+ner: touoi 
+short: mokua 
+snake: namota 
+wind: namule 
+earthworm: naŋurip 
+worm: naŋurip 
+year: nalai 
+2 pl.: iami 
+ye: iami 
+you all: iami 
+3 pl.: ire 
+they: ire 
+where: siaŋ 
+where?: siaŋ 
+when: ŋia 
+when?: ŋia 
+how: eisae 
+how?: eisae 
+other: teiapou 
+three: tol 
+four: pange	paŋe 
+five: masa 
+principal wife: neiue 
+wife: neiue 
+husband: tamta 
+his mother: tna 
+mother: tna 
+my mother: tna 
+father: tama 
+his father: tama 
+my father: tama 
+forest: nairogol 
+woods: nairogol 
+branch: lake 
+stick: lake 
+fruit: anua 
+flower: nasisilŋa 
+grass: nagu 
+cord: naolo 
+rope: naolo 
+flesh: meramera 
+meat: meramera 
+fat: mo ̂ne 
+grease: mo ̂ne 
+wing: ḇoia 
+gut: mugalia 
+guts: mugalia 
+insides: mugalia 
+intestine: mugalia 
+intestines: mugalia 
+back: ǥunǥuni 
+suck: su 
+spit: pula 
+vomit: malalua 
+blow: soue 
+breath: alke 
+breathe: alke 
+laugh: ŋiŋ 
+laughter: ŋiŋ 
+cogitate: remo 
+reflect: remo 
+think: remo 
+smell: kunia	loŋo 
+sniff: kunia	loŋo 
+afraid: motou 
+be afraid: motou 
+fear: motou 
+fright: motou 
+alive: mamata 
+be alive: mamata 
+life: mamata 
+live: mamata 
+living: mamata 
+hunt: maŋmaŋe 
+beat: kanake 
+hit: kanake 
+strike: kanake 
+cut: nautut 
+hack: nautut 
+cut open: pale 
+split: pale 
+pierce: ǥale 
+stab: ǥale 
+scratch: kamokamoke 
+dig: kelke 
+stand: mari 
+drop: pos 
+fall: pos 
+grasp: kisike 
+hold: kisike 
+hold in arm: kisike 
+squeeze: pise	ḇiḇe 
+wring: pise	ḇiḇe 
+throw: ǥanaie 
+bind: koukouke 
+fasten: koukouke 
+tie: koukouke 
+tie up: koukouke 
+sew: seiseike 
+count: nine 
+enumerate: nine 
+number: nine 
+tally: nine 
+flow: lele 
+lake: naliu 
+ocean: natai 
+sea: natai 
+dust: muk 
+sky: naǥulḇo 
+bad: siaŋe 
+evil: siaŋe 
+rot: ḇue 
+rotten: ḇue 
+dirty: muru 
+filthy: muru 
+soiled: muru 
+sharp: mate 
+blunt: mate avo 
+damp: buse 
+wet: buse 
+right side: ôtai 
+left: ŋas 
+at: ŋŋe 
+in: lu 
+inside: lu 
+and: me 
+if: so 

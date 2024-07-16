@@ -1,0 +1,266 @@
+all: tou 
+every: tou 
+ash: ɛmba 
+ashes: ɛmba 
+abdomen: tia- 
+belly: tia- 
+big: ŋgɛte|na 
+bigness: ŋgɛte|na 
+large: ŋgɛte|na 
+bird: ɔlɔkɔ 
+bite: usua 
+black: tsinoko 
+blood: 5uka	njuka-	nj~uka 
+bone: susuri	susuri- 
+breast: CuCu	cucu- 
+breasts: CuCu	cucu- 
+burn: sulua 
+burn tr.: sulua 
+cloud: cokoro 
+cold: manombu	ŋgaumu 
+come: mae 
+come from: mae 
+be dead: lENg~u	lɛŋgu 
+dead: lENg~u	lɛŋgu 
+die: lENg~u	lɛŋgu 
+dog: cie	tsie 
+drink: mbei	mb~ei 
+dry: popa 
+ear: taliNi	taliŋi- 
+eat: vavae	ŋɔŋɔ 
+egg: vɔvɔto- 
+eye: mata	mata- 
+feather: kalu- 
+fire: ikucu	ikutsu 
+fish: ihana 
+fly: tsarava 
+fly v.: tsarava 
+good: lea|na 
+green: mbuma 
+hair: kalu 
+hand: lima	lima- 
+left hand: lima	lima- 
+right: lima	lima- 
+head: calivi- 
+hear: avoso	avɔso 
+1 sg.: raka 
+I: raka 
+kill: valɛŋgua 
+be knowledgeable: atɛn|ia 
+know: atɛn|ia 
+leaf: rokoroko 
+lie: ɛko 
+lie down: ɛko 
+liver: kola	kɔla- 
+long: hele 
+head louse: hutu 
+louse: hutu 
+male: tinoni 
+man: tinoni 
+moon: paleke 
+mouth: hunju- 
+name: kila	kila- 
+title: kila	kila- 
+neck: rua- 
+new: haNg~uru	haŋguru|na 
+night: ipu 
+nighttime: ipu 
+nose: isu	isu- 
+adulterous: meka 
+one: meka 
+single: meka 
+that: pio 
+the: meka 
+unprincipled: meka 
+human: tinoni 
+human being: tinoni 
+person: tinoni 
+rain: umbata 
+rainy weather: umbata 
+red: orava 
+path: huana 
+road: huana 
+route: huana 
+root: ndanadaha 
+sand: keoro 
+say: njaman|ia 
+see: omi 
+sit: ndoku 
+hide: korekore	kɔrekɔre- 
+skin: korekore	kɔrekɔre- 
+sleep: muca 
+little: tsatsa|na 
+small: tsatsa|na 
+smallness: tsatsa|na 
+smoke: rovu 
+star: ceru	tsēru 
+rock: indaka	ind~aka 
+stone: indaka	ind~aka 
+swim: cucuve 
+tail: ciku- 
+this: pia 
+2 sg: hoi 
+thou: hoi 
+you: hoi 
+tongue: mea	mea- 
+tooth: livo	livɔ- 
+grind: karua 
+two: karua 
+go: ɛne 
+walk: ɛne 
+hot: luluŋu	reka 
+warm: luluŋu	reka 
+water: kavo	kavɔ 
+1 pl. inc.: hami	hita 
+we: hami	hita 
+we₁: hami	hita 
+what: nasa 
+white: heva 
+whiteness: heva 
+who: e sei 
+who?: e sei 
+female: manemaneke 
+woman: manemaneke 
+yellow: meava 
+distant: seu 
+far: seu 
+dull: puha 
+heavy: puha 
+serious: puha 
+close: tata 
+near: tata 
+ner: tata 
+salt: karaka 
+short: kokutsu 
+snake: nɔki 
+thin: manovisi 
+wind: are 
+earthworm: nokinoki 
+worm: nokinoki 
+year: mburumburu 
+2 pl.: hakisa	hamu 
+ye: hakisa	hamu 
+you all: hakisa	hamu 
+3 pl.: ria 
+they: ria 
+where: pa vei 
+where?: pa vei 
+when: pana isa 
+when?: pana isa 
+how: vehua 
+how?: vehua 
+other: hokiti 
+three: hike 
+four: mande 
+five: lima 
+broad: eto	labe 
+wide: eto	labe 
+wideness: eto	labe 
+fat: ndeana- 
+thick: patuara 
+narrow: ŋirisi 
+principal wife: ororeke 
+wife: ororeke 
+husband: palabatu 
+his mother: tina- 
+mother: tina- 
+my mother: tina- 
+father: tama- 
+his father: tama- 
+my father: tama- 
+forest: ŋgoana 
+woods: ŋgoana 
+branch: raŋga 
+stick: raŋga 
+fruit: ure 
+flower: mburoŋo 
+grass: tsetseu 
+cord: andɔso	iku 
+rope: andɔso	iku 
+flesh: mbɔrambɔra- 
+meat: mbɔrambɔra- 
+grease: ndeana- 
+wing: cacarava- 
+gut: kuru- 
+guts: kuru- 
+insides: kuru- 
+intestine: kuru- 
+intestines: kuru- 
+back: kakandɔ- 
+suck: nonopo	totopo 
+spit: kamicu 
+vomit: muta 
+blow: ivua 
+breath: siŋo 
+breathe: siŋo 
+laugh: iraŋa 
+laughter: iraŋa 
+cogitate: mbalambala 
+reflect: mbalambala 
+think: mbalambala 
+smell: hina 
+sniff: hina 
+afraid: talokɛte 
+be afraid: talokɛte 
+fear: talokɛte 
+fright: talokɛte 
+alive: tona 
+be alive: tona 
+life: tona 
+live: tona 
+living: tona 
+hunt: ɛnetsie 
+beat: sɛkea 
+hit: sɛkea 
+strike: sɛkea 
+cut: kur|ia 
+hack: kur|ia 
+cut open: okat|ia 
+split: okat|ia 
+pierce: cova|ia 
+stab: cova|ia 
+scratch: pɛropɛro 
+dig: hɛli 
+stand: tiva 
+drop: uke 
+fall: uke 
+grasp: tiŋan|ia 
+hold: tiŋan|ia 
+hold in arm: tiŋan|ia 
+squeeze: potsoa 
+wring: potsoa 
+throw: hona tera 
+bind: pir|ia 
+fasten: pir|ia 
+tie: pir|ia 
+tie up: pir|ia 
+sew: pitipiti 
+count: ase 
+enumerate: ase 
+number: ase 
+tally: ase 
+flow: totolo 
+lake: kopi 
+ocean: indere karaka 
+sea: indere karaka 
+dust: kavuru 
+fog: ɤambu 
+sky: ɤaleɤaleanarane 
+bad: tsie|na 
+evil: tsie|na 
+rot: siona 
+rotten: siona 
+dirty: nindze 
+filthy: nindze 
+soiled: nindze 
+sharp: ŋatsu 
+blunt: pako 
+damp: mɔhu 
+wet: mɔhu 
+right side: matao 
+left: hɛnde 
+at: pa 
+in: pa korapa-na 
+inside: pa korapa-na 
+and: mani 
+if: mbambe 

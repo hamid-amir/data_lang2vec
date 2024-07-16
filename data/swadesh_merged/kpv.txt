@@ -1,0 +1,270 @@
+all: быд 
+every: быд 
+abdomen: кынöм 
+belly: кынöм 
+big: ыджыд 
+bigness: ыджыд 
+large: ыджыд 
+bird: лебач 
+bite: курчны 
+black: сьöд 
+blood: vir	вир 
+bone: l3	лы 
+breast: mor3s	морöс 
+breasts: mor3s	морöс 
+cloud: кымöр 
+cold: кöдзыд 
+come: lokn3	локны 
+come from: lokn3	локны 
+be dead: kuvn3	кувны 
+dead: kuvn3	кувны 
+die: kuvn3	кувны 
+dog: pon	пон 
+drink: %yun3	юны 
+dry: кос 
+ear: peL	pely~	пель 
+earth: мусяр 
+ground: мусяр 
+land: мусяр 
+soil: мусяр 
+eat: сёйны 
+egg: кольк 
+eye: sin	син 
+feather: гöн 
+fire: bi	би 
+fish: cy~eri	чери 
+fly: лэбавны 
+fly v.: лэбавны 
+foot: кок 
+full: тыр 
+give: сетны 
+good: бур 
+green: турун виж 
+hair: юрси 
+hand: ki 
+left hand: ki 
+right: ki 
+head: юр 
+hear: k3vn3	кывны 
+heart: сьöлöм 
+horn: %sy~ur	сюр 
+1 sg.: my~e	ме 
+I: my~e	ме 
+knee: p3cy~3s	пыдзöс 
+be knowledgeable: тöдны 
+know: тöдны 
+leaf: kor	кор 
+liver: mus	мус 
+long: кузь 
+head louse: той 
+louse: той 
+male: айлов 
+man: %mort	морт 
+many: уна 
+much: уна 
+multiple: уна 
+several: уна 
+moon: тöлысь 
+hill: g3ra	гöра 
+mountain: g3ra	гöра 
+mouth: вом 
+name: %nim	ним 
+title: %nim	ним 
+new: v3L	v3ly~	выль 
+night: voy	вой 
+nighttime: voy	вой 
+nose: n3r	ныр 
+not: абу	оз	эз 
+adulterous: 3ti	öти 
+one: 3ti	öти 
+single: 3ti	öти 
+that: 3ti	öти 
+the: 3ti	öти 
+unprincipled: 3ti	öти 
+human: %mort	морт 
+human being: %mort	морт 
+person: %mort	морт 
+rain: зэрны 
+rainy weather: зэрны 
+red: гöрд 
+path: tuy	туй 
+road: tuy	туй 
+route: tuy	туй 
+root: вуж 
+round: гӧгрӧс 
+sand: лы 
+say: шуны 
+see: acy~3n3	adcy~3n3	аддзыны 
+seed: кöйдыс 
+sit: пукавны 
+hide: ку 
+skin: ку 
+sleep: узьны 
+little: дзолыд 
+small: дзолыд 
+smallness: дзолыд 
+smoke: тшын 
+star: kocy~uv	кодзув 
+rock: iz	из 
+stone: iz	из 
+swim: уявны 
+tail: бöж 
+this: тайö 
+2 sg: te	тэ 
+thou: te	тэ 
+you: te	тэ 
+tongue: k3v	кыв 
+tooth: pi5	piny~	пинь 
+tree: pu	пу 
+grind: k3k	кык 
+two: k3k	кык 
+hot: шоныд 
+warm: шоныд 
+water: va	ва 
+1 pl. inc.: mi	ми 
+we: mi	ми 
+we₁: mi	ми 
+what: мый 
+white: еджыд 
+whiteness: еджыд 
+who: коді 
+who?: коді 
+female: ань 
+woman: ань 
+yellow: кольк виж 
+distant: ылын 
+far: ылын 
+dull: сьöкыд 
+heavy: сьöкыд 
+serious: сьöкыд 
+close: матын 
+near: матын 
+ner: матын 
+salt: сов 
+short: дзеныд 
+wind: тöв 
+earthworm: нидзув 
+worm: нидзув 
+year: во 
+3 sg.: сійö 
+he: сійö 
+she: сійö 
+2 pl.: ти 
+ye: ти 
+you all: ти 
+3 pl.: найö 
+they: найö 
+here: тані 
+there: сэні 
+where: кöні 
+where?: кöні 
+when: кор 
+when?: кор 
+how: кыдзи 
+how?: кыдзи 
+some: неуна 
+few: этша 
+other: мöд 
+three: куим 
+four: нёль 
+five: вит 
+fat: кыз 
+thick: кыз 
+child: челядь 
+principal wife: гöтыр 
+wife: гöтыр 
+husband: верöс 
+his mother: мам 
+mother: мам 
+my mother: мам 
+father: бать 
+his father: бать 
+my father: бать 
+animal: пемӧс 
+forest: вöр 
+woods: вöр 
+branch: байдек 
+stick: байдек 
+flower: дзоридз 
+grass: турун 
+cord: гез 
+rope: гез 
+flesh: яй 
+meat: яй 
+claw: гыж 
+fingernail: гыж 
+nail: гыж 
+leg: кок 
+arm: ки 
+wing: борд 
+laugh: серавны 
+laughter: серавны 
+cogitate: мöвпавны 
+reflect: мöвпавны 
+think: мöвпавны 
+afraid: полöм 
+be afraid: полöм 
+fear: полöм 
+fright: полöм 
+alive: овны 
+be alive: овны 
+life: овны 
+live: овны 
+living: овны 
+hunt: вöравны 
+cut: вундавны 
+hack: вундавны 
+lie: куйлыны 
+lie down: куйлыны 
+tell lies: куйлыны 
+stand: чеччавны 
+turn: бергавны 
+turn around: бергавны 
+turn round: бергавны 
+drop: усьны 
+fall: усьны 
+grasp: кутны 
+hold: кутны 
+hold in arm: кутны 
+wash: мыссьыны 
+wash clothes: мыссьыны 
+count: лыддьыны 
+enumerate: лыддьыны 
+number: лыддьыны 
+tally: лыддьыны 
+sing: сьывны 
+have fun: ворсыны 
+play: ворсыны 
+freeze: кынмыны 
+lake: ты 
+ocean: саридз 
+sea: саридз 
+dust: бус 
+sky: енэж 
+snow: лым 
+ice: йи 
+day: лун 
+daylight: лун 
+daytime: лун 
+old: важ 
+bad: лёк 
+evil: лёк 
+rot: сісь 
+rotten: сісь 
+dirty: няйт 
+filthy: няйт 
+soiled: няйт 
+straight: веськыд 
+sharp: ёсь 
+blunt: ныж 
+smooth: шыльыд 
+damp: уль 
+wet: уль 
+right side: веськыд 
+left: шуйга 
+in: -ын 
+inside: -ын 
+with: -кӧд	-ӧн 
+and: да 
+if: кӧ 
+because: вӧсна 

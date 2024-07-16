@@ -1,0 +1,677 @@
+all: dùm | dùm	hawaːn 
+all: duːm | dùm	hawaːn 
+all: hawaːn | dùm	hawaːn 
+animal: hawaːn 
+ankle: sišaː 
+arm: durra 
+arm: galma 
+arm: karak 
+arrow: nišaːb˗ek 
+ashes: artu˗k | àwún 
+ashes: àwún | àwún 
+ashes: ʌʔwuːn | àwún 
+back: dahr | dahr	deriŋ 
+back: dariŋg | dahr	deriŋ 
+back: deriŋ | dahr	deriŋ 
+back: dʌriŋ | dahr	deriŋ 
+bad: bíyɛ̀ | bíyɛ̀ 
+bark: ʌbîrî | girfɛ	trik 
+bark: girfɛ | girfɛ	trik 
+bark: trik | girfɛ	trik 
+because: nyɛ 
+belly: kiršɛ | tàbú-k 
+belly: nguːt | tàbú-k 
+belly: tàbú˗k | tàbú-k 
+belly: taːbuː˗k | tàbú-k 
+big: kuːlʌ̀˗k | kùllàk 
+big: kùllàk | kùllàk 
+bird: kɛ̀bbɛ́l | košik	kɛ̀bbɛ́l 
+bird: košik | košik	kɛ̀bbɛ́l 
+bird: kuːšîk | košik	kɛ̀bbɛ́l 
+bite: ɛ́s | ɛ́s 
+bite: kîsî | ɛ́s 
+bitter: laiːa 
+black: koko | koko	lù-lúy-ɔ̀k 
+black: lulîyók | koko	lù-lúy-ɔ̀k 
+black: lù˗lúy˗ɔ̀k | koko	lù-lúy-ɔ̀k 
+blood: arîː | ari	eri	ɛri 
+blood: ɛri | ari	eri	ɛri 
+blood: šedder | ari	eri	ɛri 
+blow: ful 
+blow: ful suŋ 
+bone: kanžik | ka5jik	kanžik 
+bone: kʌːʔʌːnǯîː | ka5jik	kanžik 
+boy: emba 
+boy: farfrok 
+branch: bíláː | bíláː	dilǯe	dilǯeh	kebelek	serdi-k 
+branch: dilǯe(h) | bíláː	dilǯe	dilǯeh	kebelek	serdi-k 
+branch: kebelek | bíláː	dilǯe	dilǯeh	kebelek	serdi-k 
+branch: serdi˗k | bíláː	dilǯe	dilǯeh	kebelek	serdi-k 
+breast: anguːn | aNg~un	anguːn	kusso 
+breast: kusso | aNg~un	anguːn	kusso 
+breast: kusu | aNg~un	anguːn	kusso 
+breast: ʌŋgùn | aNg~un	anguːn	kusso 
+breathe: ul | ? ul 
+brother: mir 
+brother: mir kolak 
+burn: fîː sùŋ | íːs 
+burn: íːs | íːs 
+butterfly: bermberdak 
+butterfly: sik 
+calf: momadana 
+calf: tármàl˗túː 
+calf: tarmbal 
+calf: žik 
+cheek: gambilanak 
+cheek: kongori˗k 
+cheek: konguri 
+chest: kusuk 
+child: kala | kalak 
+child: kalak 
+chin: koinak 
+claw: doǯay | doǯay	ŋíŋgírmísì-k 
+claw: ɲîmir˗gisik | doǯay	ŋíŋgírmísì-k 
+claw: ŋíŋgírmísì˗k | doǯay	ŋíŋgírmísì-k 
+cloud: abîy˗ɔk | abiy-ɔ̀k 
+cloud: abiy˗ɔ̀k | abiy-ɔ̀k 
+cold: kíràː | kíràː 
+cold: kirraː | kíràː 
+come: àr | akar	gari	àr	ɛ̀rakari 
+come: ɛ̀rakari | akar	gari	àr	ɛ̀rakari 
+come: gari | akar	gari	àr	ɛ̀rakari 
+come: kaːr | akar	gari	àr	ɛ̀rakari 
+correct: serr 
+count: aniui 
+crocodile: konǯi˗k 
+crocodile: temsa 
+cut: (d)atami | atami	datami 
+cut: taːtʌːmʌn | atami	datami 
+dark: dúŋgì 
+day: asar | dàlká	ingoŋgo 
+day: bar buŋgo | dàlká	ingoŋgo 
+day: dàlká | dàlká	ingoŋgo 
+day: dohor | dàlká	ingoŋgo 
+day: ingoŋgo | dàlká	ingoŋgo 
+day: wɔ́nǯɔ̀(ː) | dàlká	ingoŋgo 
+die: ei | afai	ei	li	ɔ́y 
+die: li | afai	ei	li	ɔ́y 
+die: ɔ́y | afai	ei	li	ɔ́y 
+die: t˗afay˗a | afai	ei	li	ɔ́y 
+die: two | afai	ei	li	ɔ́y 
+die: t˗wo | afai	ei	li	ɔ́y 
+die: úyòː | afai	ei	li	ɔ́y 
+die: yîː | afai	ei	li	ɔ́y 
+dig: íms | uːr 
+dig: uːr 
+dig: wɔrra | uːr 
+dirty: nʌndrek | muri tene	noner-ek 
+dirty: noner˗ek | muri tene	noner-ek 
+dog: gugre˗k | 5uk	niuk	nok 
+dog: niuk | 5uk	niuk	nok 
+dog: nok | 5uk	niuk	nok 
+dog: ɲuk | 5uk	niuk	nok 
+drink: aiŋi | aNg~	aiŋi	iN	laŋgi 
+drink: laŋgi | aNg~	aiŋi	iN	laŋgi 
+drink: yʌŋa | aNg~	aiŋi	iN	laŋgi 
+dry: nožir | nožir	trosuŋ 
+dry: nɔːǯîr | nožir	trosuŋ 
+dry: trosuŋ | nožir	trosuŋ 
+dry: wòǯ | nožir	trosuŋ 
+dust: gisɛŋgi | gisɛŋgi	kúndík 
+dust: kúndík | gisɛŋgi	kúndík 
+ear: ko˗ik | ko-ik	ko5i	koye	kóyé 
+ear: kóyé | ko-ik	ko5i	koye	kóyé 
+ear: kɔ̀yɛ | ko-ik	ko5i	koye	kóyé 
+earth: ard | bárr	fi 
+earth: barr | bárr	fi 
+earth: bárr | bárr	fi 
+earth: fi | bárr	fi 
+earth: gesingak | bárr	fi 
+earth: kîsiŋa | bárr	fi 
+eat: ɲáː | aŋi 
+eat: aŋi 
+egg: kademi˗k | kademi-k 
+egg: kedem˗mik | kademi-k 
+egg: sadaf | kademi-k 
+elbow: abi 
+elbow: bi 
+elbow: kariŋg˗ilik 
+elbow: siri(h) 
+emu: alin 
+eye: amnuŋgo | kapa-k	kapak	kasik 
+eye: anoŋgo˗k | kapa-k	kapak	kasik 
+eye: kapa˗k | kapa-k	kapak	kasik 
+eye: kasig˗na koik | kapa-k	kapak	kasik 
+eye: kasik | kapa-k	kapak	kasik 
+eye: kʌːsîk | kapa-k	kapak	kasik 
+eye: maig | kapa-k	kapak	kasik 
+eye: tiffi kassigeni | kapa-k	kapak	kasik 
+face: koː 
+face: yo 
+fall: (d)enguni | denguni	enguni	ongun 
+fall: ɔŋɔn | denguni	enguni	ongun 
+fall: ongun | denguni	enguni	ongun 
+far: ika | ika	lel-ek 
+far: illɛ˗gi | ika	lel-ek 
+far: lel˗ek | ika	lel-ek 
+far: lel˗tî | ika	lel-ek 
+father: ˗unuŋ | -unuŋ 
+fat (n.): ɲìsì˗k 
+fat (n.): ɲîz˗ik 
+fat (n.): ŋisik 
+fat (n.): wádàk 
+fear: sika ~ isik | isik	sika 
+fear: sík˗in | isik	sika 
+feather: tifiː 
+finger: kartongal˗ak 
+finger: kartuŋgol kolak 
+finger: kartungulak 
+finger: kuddumu˗k 
+fingernail: doǯay | doǯay	ŋíŋgírmísì-k 
+fingernail: ɲîmir˗gisik | doǯay	ŋíŋgírmísì-k 
+fingernail: ŋíŋgírmísì˗k | doǯay	ŋíŋgírmísì-k 
+finger: ǯer˗tuŋguli 
+fire: wàsí˗k | wasik	wàsí-k 
+fire: wʌsîk | wasik	wàsí-k 
+fish: buːt | buːt	ku5o	kuɲo 
+fish: kuɲo | buːt	ku5o	kuɲo 
+five: dur | tur	túùr 
+five: tur | tur	túùr 
+float: nǯún | ?nǯún 
+flower: kubu˗k | kubu-k 
+fly (n.): aɲiŋ 
+fly (v.): ber˗ire 
+fog: bar˗ti | bar-ti	guiok	taːye 
+fog: guiok | bar-ti	guiok	taːye 
+fog: taːye | bar-ti	guiok	taːye 
+foot: ageb | dakik	žak	ǯa-k 
+foot: dakik | dakik	žak	ǯa-k 
+foot: negam | dakik	žak	ǯa-k 
+foot: tiŋg | dakik	žak	ǯa-k 
+foot: žak | dakik	žak	ǯa-k 
+foot: ǯaː | dakik	žak	ǯa-k 
+foot: ǯa˗k | dakik	žak	ǯa-k 
+foot: ǯaː kolek | dakik	žak	ǯa-k 
+forehead: didi 
+forehead: nyo faǯer 
+forest: bit˗ʌk | kurkuro	kurkurok	ʌ̀sé 
+forest: kurkuro(k) | kurkuro	kurkurok	ʌ̀sé 
+forest: ʌ̀sé | kurkuro	kurkurok	ʌ̀sé 
+four: asal | asal	ʔàsàal 
+four: ʌsaːl | asal	ʔàsàal 
+fruit: kalak 
+full: fiŋ(g) | fiN	fiNg~	fiŋ	fiŋg 
+full: fiŋtɪ | fiN	fiNg~	fiŋ	fiŋg 
+girl: kala kakalak 
+girl: kàlàk kàkàlák 
+give: ʌndî | oŋioi	ŋioi	ɔ̀ny 
+give: (o)ŋioi | oŋioi	ŋioi	ɔ̀ny 
+give: ɔ̀ny | oŋioi	ŋioi	ɔ̀ny 
+good: kerek | kerek	nemerek 
+good: kereti | kerek	nemerek 
+good: nemerek | kerek	nemerek 
+grass: lua 
+green: drîdrîyʌk | ǯi-ǯiri-ak 
+green: ǯi˗ǯiri˗ak | ǯi-ǯiri-ak 
+guts: kuːŋik 
+hair: tîfî˗k | tifi-k 
+hair: tifi˗k | tifi-k 
+hand: adadaŋg | kar5u	kara	karak 
+hand: karai | kar5u	kara	karak 
+hand: karak | kar5u	kara	karak 
+hand: kʌrrá | kar5u	kara	karak 
+head: kiǯî | kiǯik 
+head: kiǯik | kiǯik 
+hear: anɛl | aneli 
+hear: aneli 
+heart: kùli˗k | kùli-k 
+heart: kullî | kùli-k 
+heavy: fala˗k | fala-k 
+heavy: falʌktɪ | fala-k 
+heavy: fʌhaːdî | fala-k 
+here: gun | gun	wagin 
+here: wagin | gun	wagin 
+he/she: tene 
+he/she: ti 
+hit: ɪdòròs(in) | gudumi	udumi	ùdùm	ɪdòròs	ɪdòròsin 
+hit: (g)udumi | gudumi	udumi	ùdùm	ɪdòròs	ɪdòròsin 
+hit: udduŋg | gudumi	udumi	ùdùm	ɪdòròs	ɪdòròsin 
+hit: udum | gudumi	udumi	ùdùm	ɪdòròs	ɪdòròsin 
+hit: ùdùm | gudumi	udumi	ùdùm	ɪdòròs	ɪdòròsin 
+hit: utul | gudumi	udumi	ùdùm	ɪdòròs	ɪdòròsin 
+hold: urfun 
+hole: laː 
+hole: okrumbulu 
+horn: hɔlbe s\ | hɔlbe	kami-k	kamik	kemik 
+horn: kami˗k | hɔlbe	kami-k	kamik	kemik 
+horn: kemî˗k | hɔlbe	kami-k	kamik	kemik 
+house: táŋ 
+house: tʌŋ 
+how: ɲɛː | nga 
+how: nga 
+husband: mašuk | mašuk 
+I: am 
+I: ambé 
+if: nú | nú 
+kill: lui | lui	uy 
+kill: uy | lui	uy 
+kill: wuya | lui	uy 
+knee: tuːmo | tumo	tumo-k	tumok 
+knee: tumo˗k | tumo	tumo-k	tumok 
+know: uːs | uːs	wàs 
+know: was | uːs	wàs 
+know: wàs | uːs	wàs 
+lake: birkɛ | birkɛ	tasu	tasuk 
+lake: tasu(k) | birkɛ	tasu	tasuk 
+lake: tasu˗k | birkɛ	tasu	tasuk 
+laugh: ask˗ir | ask-ir	sikir 
+laugh: sikir | ask-ir	sikir 
+leaf: koɲi | ko5i	koiek	kolek	koɲi 
+leaf: kolek | ko5i	koiek	kolek	koɲi 
+leaf: kɔ˗yɛ | ko5i	koiek	kolek	koɲi 
+left: bala 
+left: mbʌlla | bala 
+leg: tarumal | žak	ǯa-k 
+leg: žak | žak	ǯa-k 
+leg: ǯaː | žak	ǯa-k 
+leg: ǯa˗k | žak	ǯa-k 
+lie: èbìy | èbìy | ɔ̀ŋgɔ̀r 
+lightning: kikiyá 
+lightning: molda˗k 
+lip: kuse˗k 
+liver: mùɲí˗k | mu5ik	mùɲí-k 
+liver: muɲî˗k | mu5ik	mùɲí-k 
+long: lelek 
+louse: barguːt | meselek	meserek 
+louse: gingeri˗k | meselek	meserek 
+louse: mèsèlé˗k | meselek	meserek 
+louse: messerɛːk | meselek	meserek 
+louse: til˗tili | meselek	meserek 
+man: deker | kaN	kàŋ 
+man: kambak | kaN	kàŋ 
+man: mašuk | kaN	kàŋ 
+many: noli 
+many: nollid | noli 
+meat: ndubo | nyúːnú 
+meat: nuː | nyúːnú 
+meat: nyúːnú | nyúːnú 
+moon: aya | áyɛ̀k 
+moon: áyɛ̀k | áyɛ̀k 
+moon: eːek gedik | áyɛ̀k 
+moon: eːek kolak | áyɛ̀k 
+morning: daxas 
+morning: wɛ́réddèfaǯer 
+mosquito: agel˗ek 
+mother: ˗iŋ˗ | -iŋ- 
+mountain: kodo | kodo-k	kodok 
+mountain: kodo˗k | kodo-k	kodok 
+mouth: kana | kana	mokondok 
+mouth: kʌn˗a | kana	mokondok 
+mouth: mokondok | kana	mokondok 
+name: mîlî | miliz	mílí-í 
+name: mílí˗í | miliz	mílí-í 
+nape: domat 
+nape: kakadi˗k 
+narrow: ndrekelek 
+navel: dumo˗k 
+navel: surra 
+near: minǯi | minǯi 
+near: minǯîtî | minǯi 
+neck: bît˗ik | bìtì-k	s-aŋgala 
+neck: bìtì˗k | bìtì-k	s-aŋgala 
+neck: s˗aŋgala | bìtì-k	s-aŋgala 
+new: ɲendî | 5End~ik	gedik	nganolik	ɲɛndɪ-k 
+new: ɲɛndɪ˗k | 5End~ik	gedik	nganolik	ɲɛndɪ-k 
+new: nganolik | 5End~ik	gedik	nganolik	ɲɛndɪ-k 
+night: àndùkúr | ažurko	iSe	iše	kosonga 
+night: ažurko | ažurko	iSe	iše	kosonga 
+night: îše | ažurko	iSe	iše	kosonga 
+night: iše | ažurko	iSe	iše	kosonga 
+night: kosonga | ažurko	iSe	iše	kosonga 
+nose: laː boin˗na | bo5	boin	bɔ́ɲ 
+not: oːsi 
+old: aːǯuːz 
+old: kam kolak 
+old: kám˗kúltú 
+old: kulak 
+old: nyungu 
+one: tek | tar	teN	tek	tɛ̀ːn	tὲɛn 
+one: tɛ̀ːn | tar	teN	tek	tɛ̀ːn	tὲɛn 
+other: tek | tek	tò 
+other: tò | tek	tò 
+person: kàŋ | kaN	kàŋ 
+person: kʌmmašîk | kaN	kàŋ 
+play: aele 
+pull: tik 
+pull: (w)ùdùŋ 
+push: duk 
+rain: enǯi | inži tiriŋgi 
+rain: inži tiriŋgi | inži tiriŋgi 
+rat: furundul 
+rat: ǯik 
+rat: ǯîk 
+red: angiːnu | angiːnu	kù-kúyà-k 
+red: kù˗kúyà˗k | angiːnu	kù-kúyà-k 
+red: kukuyʌk | angiːnu	kù-kúyà-k 
+right: kolon | kar5u	kara	karak 
+right: kɔlɔn | kar5u	kara	karak | kolon 
+ripe: nemmuk 
+ripe: núŋúrɔ́k 
+ripe: yɔ̀m 
+river: bitak 
+river: ríǯìl | bitak 
+river: xoːr | bitak 
+road: liŋa | tarfu 
+road: lingak | tarfu 
+root: fou | fou	irik	sùɲí-k 
+root: irik | fou	irik	sùɲí-k 
+root: sùɲí˗k | fou	irik	sùɲí-k 
+root: suɲî˗k | fou	irik	sùɲí-k 
+rope: dokúno | dukuna 
+rope: dukuna 
+rotten: lulak 
+rotten: lulʌktɪ | lulak 
+rub: ay | ay	iya 
+rub: iya | ay	iya 
+rub: ʌy | ay	iya 
+salt: wuǯa | wúǯà-k 
+salt: wúǯà˗k | wúǯà-k 
+sand: alaːle | alaːle	ganun	gisiŋa 
+sand: ganun | alaːle	ganun	gisiŋa 
+sand: gisiŋa | alaːle	ganun	gisiŋa 
+say: aeri | alaːle	ganun	gisiŋa 
+scratch: uɲir 
+seed: ndamʌŋ | ndamʌŋ	ossur 
+seed: ossur | ndamʌŋ	ossur 
+see: oko 
+see: yɔk | oko 
+sew: sib˗aroŋgi | sib-aroŋgi 
+sew: sib ir | sib-aroŋgi 
+sharp: tiɲi 
+short: ndʌkkʌlʌk | ndrɛkel-ek 
+short: ndrɛkel˗ek | ndrɛkel-ek 
+shoulder: abi 
+shoulder: kɔrkɔr˗u 
+shoulder: korkoruk 
+sing: aswipe | aswipe	or-ire 
+sing: or˗ire | aswipe	or-ire 
+sister: ˗uk 
+sit: aɲɔŋg 
+sit: ɲɔŋgu | aɲɔŋg 
+skin: ata | jilid	koi-k 
+skin: kói | jilid	koi-k 
+skin: koi˗k | jilid	koi-k 
+sky: samaː 
+sleep: abiː | abiː	alarini	ariŋ	laringi 
+sleep: alarini | abiː	alarini	ariŋ	laringi 
+sleep: ariŋ | abiː	alarini	ariŋ	laringi 
+sleep: fîa yariŋa | abiː	alarini	ariŋ	laringi 
+sleep: laringi | abiː	alarini	ariŋ	laringi 
+small: ɲill˗ik | nyílì-k 
+small: nyílì˗k | nyílì-k 
+smell: siːl | šumma 
+smoke: kulda | kuldak 
+smoke: kuldak 
+smoke: kumkum | kuldak 
+snake: tar˗angag | tar-angag	tožomok	tɔ̀ǯɔ̂m 
+snake: tožomok | tar-angag	tožomok	tɔ̀ǯɔ̂m 
+snake: tɔ̀ǯɔ̂m | tar-angag	tožomok	tɔ̀ǯɔ̂m 
+snake: tʌǯoːm | tar-angag	tožomok	tɔ̀ǯɔ̂m 
+sour: kám(àk) 
+spit: čul | iseli	tuf 
+spit: iseli | iseli	tuf 
+spit: sakma | iseli	tuf 
+stand: ɲuŋgu 
+star: menuek | meniet	menuE	menuek 
+star: mîɲ˗ek | meniet	menuE	menuek 
+stone: kɔ́dɔ́˗k | kodok	kodrok	korok	kɔ́dɔ́-k 
+stone: kɔdɔ˗k | kodok	kodrok	korok	kɔ́dɔ́-k 
+stone: kod(r)ok | kodok	kodrok	korok	kɔ́dɔ́-k 
+straight: tàkké | sɛr	sɛrɛm	tàkké 
+sun: aɲik | a5ik	aɲik 
+sun: aɲîk | a5ik	aɲik 
+sweet: assal 
+sweet: kimiːn 
+sweet: mbidak 
+sweet: tigidda 
+swim: duldul | ? duldul 
+tail: àlúk | àlúk 
+tail: ɔllu˗k | àlúk 
+take: ɲaːm 
+take: ɛn 
+take: nyáːm 
+that: illek | tar	teN	tek	tɛ̀ːn	tὲɛn 
+that: illing | illek | tar	teN	tek	tɛ̀ːn	tὲɛn 
+there: ile | illeːgin 
+there: illeːgin 
+they: waŋg 
+they: wene | waŋg 
+thick: tutumo˗k 
+thigh: auaik 
+thigh: diaŋ 
+thin: furd˗ak | furd-ak	ninŋ-ʌk 
+think: àbàn | àbàn 
+thin: niniŋ˗ʌk | furd-ak	ninŋ-ʌk 
+thin: ninŋ˗ʌk | furd-ak	ninŋ-ʌk 
+this: wa˗k | wa-k 
+this: waŋg | wa-k 
+this: wʌk | wa-k 
+thorn: ašɛ 
+thou: kaŋg | mi	mè 
+thou: kene | mi	mè 
+thou: mè | mi	mè 
+thou: mi | mi	mè 
+thou: mî | mi	mè 
+thou: nen | mi	mè 
+three: kɔŋaːl | koŋgal	kòŋàal 
+three: koŋgal | koŋgal	kòŋàal 
+three: kuɲal | koŋgal	kòŋàal 
+throat: halguːm 
+throat: s˗aŋgala 
+throw: faːn | ažani	faːn	gažani	tagɪtɪr 
+throw: (g)ažani | ažani	faːn	gažani	tagɪtɪr 
+throw: tagɪtɪr | ažani	faːn	gažani	tagɪtɪr 
+thunder: durdak 
+tie: kuša˗k | kuša-k	uːš 
+tie: uːš | kuša-k	uːš 
+tie: uš(îš) | kuša-k	uːš 
+today: waŋyiŋ 
+tomorrow: sundar 
+tomorrow: sundʌrn 
+tongue: delmik | delmik	dimik 
+tongue: dilmî˗k | delmik	dimik 
+tooth: marga˗k | sati5i	satik	sàtí-k	sírnyìː 
+tooth: sàtí˗k | sati5i	satik	sàtí-k	sírnyìː 
+tooth: satík | sati5i	satik	sàtí-k	sírnyìː 
+tooth: sírnyìː | sati5i	satik	sàtí-k	sírnyìː 
+tooth: wuːši˗k | sati5i	satik	sàtí-k	sírnyìː 
+tree: gania | kuSak 
+tree: sùŋg˗ɔ̀k | kuSak 
+tree: suŋgo˗ok | kuSak 
+turn: wɔlɛt 
+turn: wɔllet 
+two: bari | mbar	mb~ar	mb~ir	mbàar 
+two: mbar | mbar	mb~ar	mb~ir	mbàar 
+two: mbar (mbir) | mbar	mb~ar	mb~ir	mbàar 
+vagina: buɲʌk 
+vagina: buɲɪk 
+vagina: farig 
+vagina: ganyak ~ guɲa 
+vagina: guɲak 
+vagina: guːɲ˗ak 
+vagina: guːmia 
+vomit: (i)nǯisi | ? okda	inǯisi	nǯisi 
+vomit: okda | ? okda	inǯisi	nǯisi 
+walk: aiei 
+walk: akai gagai | aiei 
+walk: kɔkɔ | aiei 
+walk: (l)atali | aiei 
+walk: wʌttʌll | aiei 
+warm: bɔŋo | bɔŋɔ	uŋya 
+warm: bɔŋɔ | bɔŋɔ	uŋya 
+warm: boːngok | bɔŋɔ	uŋya 
+warm: uŋya | bɔŋɔ	uŋya 
+wash: auki | auki	luki 
+wash: luki | auki	luki 
+water: gule˗k | a5j~i	aji	ingi 
+water: ingi | a5j~i	aji	ingi 
+water: ʌnǯî | a5j~i	aji	ingi 
+weep: ɲiːɲiː 
+weep: iolik 
+weep: ol 
+weep: oːli 
+we: maŋ | maN 
+we: maŋg | maN 
+we: mene | maN 
+we: mʌŋ | maN 
+wet: nowote | nuŋo 
+wet: nuŋo 
+what: ɲauri 
+what: ɲɛtî | ɲauri 
+what: ɲiek | ɲauri 
+when: ŋgɔtu | ngotu 
+when: ngotu 
+where: ŋgun | nguːn 
+where: nguːn 
+white: fà˗fár˗àk | fafartu	fà-fár-àk 
+white: fafartu | fafartu	fà-fár-àk 
+white: fʌfʌrʌk | fafartu	fà-fár-àk 
+who: ɲaliŋ | nyàː 
+who: nyàː | nyàː 
+wide: foŋgoi˗k | foŋgoi-k 
+wind: aulik 
+wind: olîːk | aulik 
+wing: kebel˗ǯeː | kebel-ǯeː 
+woman: moǯug | muːšoŋ	muːšoŋg 
+woman: muš˗ɔŋ | muːšoŋ	muːšoŋg 
+woman: muːšoŋ(g) | muːšoŋ	muːšoŋg 
+wood: čum 
+wood: ɪ̀dáː 
+wood: dalok 
+wood: dɔ̀lɔ̀˗k 
+wood: okona 
+wood: sùŋg˗ɔ̀k 
+wood: suŋgo˗ok 
+wood: unǯum 
+worm: tu(ː)n | tun	tuːn 
+year: kudria | kudria	sana 
+year: sana | kudria	sana 
+yellow: ʌ́sfʌ́r 
+yes: a 
+yes: oːi 
+yesterday: kondan ~ kondaŋ 
+yesterday: kundal 
+yesterday: kwɔndan 
+every: dùm	hawaːn 
+ash: àwún 
+abdomen: tàbú-k 
+bigness: kùllàk 
+large: kùllàk 
+breasts: aNg~un	anguːn	kusso 
+nail: doǯay	ŋíŋgírmísì-k 
+talon: doǯay	ŋíŋgírmísì-k 
+come from: akar	gari	àr	ɛ̀rakari 
+be dead: afai	ei	li	ɔ́y 
+dead: afai	ei	li	ɔ́y 
+ground: bárr	fi 
+land: bárr	fi 
+soil: bárr	fi 
+fly: ber-ire 
+fly v.: ber-ire 
+left hand: kar5u	kara	karak 
+1 sg.: am 
+be knowledgeable: uːs	wàs 
+lie down: èbìy 
+head louse: meselek	meserek 
+male: mašuk 
+much: noli 
+multiple: noli 
+several: noli 
+hill: kodo-k	kodok 
+title: miliz	mílí-í 
+nighttime: ažurko	iSe	iše	kosonga 
+adulterous: tar	teN	tek	tɛ̀ːn	tὲɛn 
+single: tar	teN	tek	tɛ̀ːn	tὲɛn 
+the: tar	teN	tek	tɛ̀ːn	tὲɛn 
+unprincipled: tar	teN	tek	tɛ̀ːn	tὲɛn 
+human: kaN	kàŋ 
+human being: kaN	kàŋ 
+rainy weather: inži tiriŋgi 
+path: tarfu 
+route: tarfu 
+hide: jilid	koi-k 
+little: nyílì-k 
+smallness: nyílì-k 
+rock: kodok	kodrok	korok	kɔ́dɔ́-k 
+2 sg: mi	mè 
+you: mi	mè 
+grind: mbar	mb~ar	mb~ir	mbàar 
+go: aiei 
+hot: bɔŋɔ	uŋya 
+1 pl. inc.: maN 
+we₁: maN 
+whiteness: fafartu	fà-fár-àk 
+who?: nyàː 
+female: muːšoŋ	muːšoŋg 
+distant: ika	lel-ek 
+dull: fala-k 
+serious: fala-k 
+close: minǯi 
+ner: minǯi 
+earthworm: tun	tuːn 
+2 pl.: kaŋg 
+ye: kaŋg 
+you all: kaŋg 
+3 pl.: waŋg 
+where?: nguːn 
+when?: ngotu 
+how?: nga 
+broad: foŋgoi-k 
+wideness: foŋgoi-k 
+his mother: -iŋ- 
+my mother: -iŋ- 
+his father: -unuŋ 
+my father: -unuŋ 
+woods: kurkuro	kurkurok	ʌ̀sé 
+stick: bíláː	dilǯe	dilǯeh	kebelek	serdi-k 
+cord: dukuna 
+flesh: nyúːnú 
+fat: ŋisik 
+grease: ŋisik 
+gut: kuːŋik 
+insides: kuːŋik 
+intestine: kuːŋik 
+intestines: kuːŋik 
+breath: ? ul 
+laughter: ask-ir	sikir 
+cogitate: àbàn 
+reflect: àbàn 
+sniff: šumma 
+afraid: isik	sika 
+be afraid: isik	sika 
+fright: isik	sika 
+beat: gudumi	udumi	ùdùm	ɪdòròs	ɪdòròsin 
+strike: gudumi	udumi	ùdùm	ɪdòròs	ɪdòròsin 
+hack: atami	datami 
+tell lies: ɔ̀ŋgɔ̀r 
+drop: denguni	enguni	ongun 
+wipe: ay	iya 
+wash clothes: auki	luki 
+bind: kuša-k	uːš 
+fasten: kuša-k	uːš 
+tie up: kuša-k	uːš 
+enumerate: aniui 
+number: aniui 
+tally: aniui 
+have fun: aele 
+brook: bitak 
+stream: bitak 
+blaze: íːs 
+daylight: dàlká	ingoŋgo 
+daytime: dàlká	ingoŋgo 
+evil: bíyɛ̀ 
+rot: lulak 
+filthy: muri tene	noner-ek 
+soiled: muri tene	noner-ek 
+damp: nuŋo 
+right side: kolon 

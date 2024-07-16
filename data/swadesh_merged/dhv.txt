@@ -1,0 +1,261 @@
+all: nöjei 
+every: nöjei 
+abdomen: akawaneinaea 
+belly: akawaneinaea 
+big: tru 
+bigness: tru 
+large: tru 
+bird: sine miñ	waco 
+bite: geth	hej	tratra 
+black: wetewet 
+blood: hapaeN	mada	madra 
+bone: 8un	jun 
+breast: imano	thi	xeñë 
+breasts: imano	thi	xeñë 
+burn: deuth	manith 
+burn tr.: deuth	manith 
+cloud: iaeŋ	iaw 
+cold: lepañ	nanazij 
+come: traqa 
+come from: traqa 
+be dead: eleleNa	mec[in] 
+dead: eleleNa	mec[in] 
+die: eleleNa	mec[in] 
+dog: %kuli	kuli	vailai 
+drink: i8	ij 
+dry: qaqacil	weliwel 
+ear: ineŋeñë	naNe5a	ñaŋeñyë 
+eat: xen 
+egg: wakuja 
+eye: alamek	ala|mek 
+feather: pen 
+fire: ani8a	anijë	eë 
+fly: sesë	wehñitrë 
+fly v.: sesë	wehñitrë 
+full: tipa 
+good: loi 
+green: hatr 
+hair: ihe	ipene|he 
+hand: wanakoim 
+left hand: wanakoim 
+right: wanakoim 
+head: he 
+hear: deŋ	samatin 
+1 sg.: eni	inieti	ŋö 
+I: eni	inieti	ŋö 
+kill: humuth	jahwa 
+knee: watiNeneTa 
+be knowledgeable: ate	waŋatemekuñin 
+know: ate	waŋatemekuñin 
+leaf: den	drön 
+liver: de	ide	idre 
+long: hoea 
+head louse: gem	ötë 
+louse: gem	ötë 
+male: trah|mañ 
+man: at	nöj 
+moon: melem	teu	trexöjie 
+mouth: ineqë	që	ula 
+name: e8en	ejen 
+title: e8en	ejen 
+neck: ñinawa 
+new: 5ipixe	hñipixe 
+night: 8id	jid 
+nighttime: 8id	jid 
+nose: hnafij	nafi8 
+adulterous: Tas	ca[s]	tras 
+one: Tas	ca[s]	tras 
+single: Tas	ca[s]	tras 
+that: Tas	ca[s]	tras 
+the: Tas	ca[s]	tras 
+unprincipled: Tas	ca[s]	tras 
+human: at	nöj 
+human being: at	nöj 
+person: at	nöj 
+rain: mani [ën] 
+rainy weather: mani [ën] 
+red: madra 
+path: go8e5	go|jeñ	sane 
+road: go8e5	go|jeñ	sane 
+route: go8e5	go|jeñ	sane 
+root: wan 
+sand: ŋöni 
+say: hape	qaja	ulatin 
+see: goeën	naeatin	waN	waŋ	öhn 
+sit: lapa 
+hide: ikupein	kupein	kupien 
+skin: ikupein	kupein	kupien 
+sleep: meköl 
+little: co	jifini 
+small: co	jifini 
+smallness: co	jifini 
+smoke: haj	so ne eë 
+star: wëtesij 
+rock: eta	etë	sine git 
+stone: eta	etë	sine git 
+sun: 8e 
+swim: aj 
+tail: punepunën 
+this: celë 
+2 sg: hmunë 
+thou: hmunë 
+you: hmunë 
+tongue: 8inem	thinem 
+tooth: i5e	ñö 
+grind: luete	luetre	lue|te 
+two: luete	luetre	lue|te 
+go: aehnatro 
+walk: aehnatro 
+hot: keu 
+warm: keu 
+water: medrixadra	tim 
+1 pl. inc.: ea5	eahun	eëshë	ñihunie 
+we: ea5	eahun	eëshë	ñihunie 
+we₁: ea5	eahun	eëshë	ñihunie 
+what: nemen 
+white: wië 
+whiteness: wië 
+who: dei 
+who?: dei 
+female: xeze 
+woman: xeze 
+yellow: hmed 
+distant: simesim 
+far: simesim 
+dull: hace pena 
+heavy: hace pena 
+serious: hace pena 
+close: alemi	easheñ 
+near: alemi	easheñ 
+ner: alemi	easheñ 
+salt: soot 
+short: hopat 
+snake: un 
+thin: hmelele 
+wind: eñ 
+earthworm: lali	trutrulu 
+worm: lali	trutrulu 
+year: macate 
+2 pl.: epun 
+ye: epun 
+you all: epun 
+3 pl.: aŋat 
+they: aŋat 
+where: e ka	tro ië 
+where?: e ka	tro ië 
+when: eu 
+when?: eu 
+how: nemen 
+how?: nemen 
+other: xapo 
+three: könitre	köni|te 
+four: eketre	eke|te 
+five: triipi	tripi 
+broad: ishaisha 
+wide: ishaisha 
+wideness: ishaisha 
+fat: gilis 
+thick: hme|kön 
+narrow: ilit 
+principal wife: föe 
+wife: föe 
+husband: tefën 
+his mother: thin 
+mother: thin 
+my mother: thin 
+father: kaka	kem 
+his father: kaka	kem 
+my father: kaka	kem 
+forest: hnaxulu 
+woods: hnaxulu 
+branch: umen 
+stick: umen 
+fruit: we|n 
+grass: haõ 
+cord: ho 
+rope: ho 
+flesh: ijön	kupein 
+meat: ijön	kupein 
+grease: gilis 
+wing: iapen 
+gut: ixel 
+guts: ixel 
+insides: ixel 
+intestine: ixel 
+intestines: ixel 
+back: hutrö	ju 
+suck: fuluth	guman 
+spit: hñijuën 
+vomit: nanatin	nuan 
+blow: hnahna	siej	uf 
+breath: mano 
+breathe: mano 
+laugh: qenehñima	saxaja 
+laughter: qenehñima	saxaja 
+cogitate: mekun 
+reflect: mekun 
+think: mekun 
+smell: punepunën 
+sniff: punepunën 
+afraid: pulitötëtin	xou[ën] 
+be afraid: pulitötëtin	xou[ën] 
+fear: pulitötëtin	xou[ën] 
+fright: pulitötëtin	xou[ën] 
+alive: sheweŋönie 
+be alive: sheweŋönie 
+life: sheweŋönie 
+live: sheweŋönie 
+living: sheweŋönie 
+hunt: köjë 
+beat: popoth	satimon	tha 
+hit: popoth	satimon	tha 
+strike: popoth	satimon	tha 
+cut: sha 
+hack: sha 
+cut open: aŋaŋan	weketh 
+split: aŋaŋan	weketh 
+pierce: thin	us 
+stab: thin	us 
+scratch: xoxo 
+dig: kuj	sin 
+stand: cil 
+drop: kei	malaxan 
+fall: kei	malaxan 
+grasp: göleti 
+hold: göleti 
+hold in arm: göleti 
+squeeze: hutra 
+wring: hutra 
+throw: hloth	kuiën	tij 
+bind: oth	wejecan 
+fasten: oth	wejecan 
+tie: oth	wejecan 
+tie up: oth	wejecan 
+sew: cai	can 
+count: e numeran 
+enumerate: e numeran 
+number: e numeran 
+tally: e numeran 
+flow: neni 
+lake: husapa 
+ocean: hna|gejë 
+sea: hna|gejë 
+dust: thotho	xaxau 
+sky: hneŋö|drai 
+bad: ŋazo 
+evil: ŋazo 
+rot: hñeqet 
+rotten: hñeqet 
+dirty: taidro 
+filthy: taidro 
+soiled: taidro 
+sharp: inenë 
+blunt: eon 
+damp: hmuhmu 
+wet: hmuhmu 
+right side: maca 
+left: wami 
+in: e kuhu	hnin	ŋöne 
+inside: e kuhu	hnin	ŋöne 
+and: me	ŋe 
+if: ma|ine 

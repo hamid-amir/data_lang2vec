@@ -1,0 +1,330 @@
+all: кожны	усе	усё 
+every: кожны	усе	усё 
+ash: попел 
+ashes: попел 
+bark: кара 
+abdomen: жывот 
+belly: жывот 
+big: вялікі 
+bigness: вялікі 
+large: вялікі 
+bird: птушка 
+bite: грызьці	кусаць 
+black: чорны 
+blood: кроў 
+bone: костка 
+breast: грудзі 
+breasts: грудзі 
+cloud: воблака	хмара 
+cold: сьцюдзёны	халодны 
+come: прыйсьці	прыходзіць 
+come from: прыйсьці	прыходзіць 
+be dead: паміраць 
+dead: паміраць 
+die: паміраць 
+dog: сабака 
+drink: піць 
+dry: сухі 
+ear: вуха 
+earth: зямля 
+ground: зямля 
+land: зямля 
+soil: зямля 
+eat: есьці 
+egg: яйка 
+eye: вока 
+feather: пяро 
+fire: агонь 
+fish: рыба 
+fly: лятаць	ляцець	лётаць 
+fly v.: лятаць	ляцець	лётаць 
+foot: ступня 
+full: поўны 
+give: даваць 
+good: добры 
+green: зялёны 
+hair: валасы 
+head: галава 
+hear: чуць 
+heart: сэрца 
+horn: рог 
+kill: забіваць 
+knee: калена 
+be knowledgeable: ведаць 
+know: ведаць 
+leaf: ліст 
+liver: печань 
+long: доўгі 
+head louse: вош 
+louse: вош 
+male: мужчына 
+man: чалавек 
+many: многа	шмат 
+much: многа	шмат 
+multiple: многа	шмат 
+several: многа	шмат 
+moon: месяц 
+hill: гара 
+mountain: гара 
+mouth: вусны	рот 
+name: назва	імя 
+title: назва	імя 
+neck: шыя 
+new: новы 
+night: ноч 
+nighttime: ноч 
+nose: нос 
+not: не 
+adulterous: адзін 
+one: адзін 
+single: адзін 
+that: гэны	той 
+the: адзін 
+unprincipled: адзін 
+human: чалавек 
+human being: чалавек 
+person: чалавек 
+rain: дождж 
+rainy weather: дождж 
+red: чырвоны 
+path: дарога	шлях 
+road: дарога	шлях 
+route: дарога	шлях 
+root: корань 
+round: круглы 
+sand: пясок 
+say: казаць	паведаць	сказаць 
+see: бачыць 
+seed: насеньне 
+sit: сядзець 
+hide: скура 
+skin: скура 
+sleep: спаць 
+little: маленькі 
+small: маленькі 
+smallness: маленькі 
+smoke: дым 
+star: зорка 
+rock: камень 
+stone: камень 
+sun: сонца 
+swim: плаваць	плыць 
+tail: хвост 
+this: гэта	гэтая	гэты 
+2 sg: ты 
+thou: ты 
+you: ты 
+tongue: язык 
+tooth: зуб 
+tree: дрэва 
+grind: два 
+two: два 
+go: хадзіць	ісьці 
+walk: хадзіць	ісьці 
+hot: цёплы 
+warm: цёплы 
+water: вада 
+1 pl. inc.: мы 
+we: мы 
+we₁: мы 
+what: што 
+white: белы 
+whiteness: белы 
+who: хто 
+who?: хто 
+female: жанчына 
+woman: жанчына 
+yellow: жоўты 
+distant: далёкі 
+far: далёкі 
+dull: цяжкі 
+heavy: цяжкі 
+serious: цяжкі 
+close: блізкі 
+near: блізкі 
+ner: блізкі 
+salt: соль 
+short: кароткі 
+snake: зьмяя 
+thin: тонкі 
+wind: вецер 
+earthworm: чарвяк 
+worm: чарвяк 
+year: год 
+3 sg.: ён 
+he: ён 
+she: ён 
+2 pl.: вы 
+ye: вы 
+you all: вы 
+3 pl.: яны 
+they: яны 
+here: тут 
+there: там 
+where: дзе 
+where?: дзе 
+when: калі 
+when?: калі 
+how: як 
+how?: як 
+some: некалькі 
+few: мала	няшмат 
+other: іншы 
+three: три	тры 
+four: чатыры 
+five: пяць 
+broad: шырокі 
+wide: шырокі 
+wideness: шырокі 
+fat: тлушч 
+thick: тоўсты 
+narrow: вузкі 
+child: дзіця 
+principal wife: жонка 
+wife: жонка 
+husband: муж 
+his mother: маці 
+mother: маці 
+my mother: маці 
+father: бацька 
+his father: бацька 
+my father: бацька 
+animal: жывёла	жывёліна	зьвер 
+forest: лес 
+woods: лес 
+branch: кій	палка 
+stick: кій	палка 
+fruit: садавіна 
+flower: кветка 
+grass: трава 
+cord: вяроўка	шнур 
+rope: вяроўка	шнур 
+flesh: мяса 
+meat: мяса 
+grease: тлушч 
+claw: пазногаць 
+fingernail: пазногаць 
+nail: пазногаць 
+leg: нага 
+arm: далонь	рука 
+hand: далонь	рука 
+wing: крыло 
+gut: вантробы 
+guts: вантробы 
+insides: вантробы 
+intestine: вантробы 
+intestines: вантробы 
+back: сьпіна 
+suck: смактаць	ссаць 
+spit: пляваць 
+vomit: ванітаваць 
+blow: дзьмуць 
+breath: дыхаць 
+breathe: дыхаць 
+laugh: сьмяяцца 
+laughter: сьмяяцца 
+cogitate: думаць 
+reflect: думаць 
+think: думаць 
+smell: нюхаць 
+sniff: нюхаць 
+afraid: баяцца 
+be afraid: баяцца 
+fear: баяцца 
+fright: баяцца 
+alive: жыць 
+be alive: жыць 
+life: жыць 
+live: жыць 
+living: жыць 
+fight: біцца	змагацца 
+hunt: паляваць 
+beat: ударыць 
+hit: ударыць 
+strike: ударыць 
+cut: рэзаць 
+hack: рэзаць 
+cut open: разьдзяляць 
+split: разьдзяляць 
+pierce: калоць 
+stab: калоць 
+scratch: драпаць 
+dig: капаць	рыць 
+lie: ляжаць 
+lie down: ляжаць 
+tell lies: ляжаць 
+stand: стаяць 
+turn: паварочвацца 
+turn around: паварочвацца 
+turn round: паварочвацца 
+drop: упасьці 
+fall: упасьці 
+grasp: трымаць 
+hold: трымаць 
+hold in arm: трымаць 
+squeeze: сьціскаць 
+wring: сьціскаць 
+rub: церці 
+wipe: выціраць 
+wash: мыць 
+wash clothes: мыць 
+pull: цягнуць 
+push: штурхаць 
+shove: штурхаць 
+throw: кідаць 
+bind: вязаць	зьвязваць 
+fasten: вязаць	зьвязваць 
+tie: вязаць	зьвязваць 
+tie up: вязаць	зьвязваць 
+sew: шыць 
+count: лік	лічыць 
+enumerate: лік	лічыць 
+number: лік	лічыць 
+tally: лік	лічыць 
+sing: сьпяваць 
+have fun: граць	гуляць 
+play: граць	гуляць 
+float: плысьці	плыць 
+flow: цячы 
+freeze: замерзнуць 
+swell: пухнуць 
+brook: рака 
+river: рака 
+stream: рака 
+lake: возера 
+ocean: мора 
+sea: мора 
+dust: пыл 
+fog: туман	імгла 
+sky: неба 
+snow: сьнег 
+ice: лёд 
+blaze: гарэць 
+burn: гарэць 
+day: дзень 
+daylight: дзень 
+daytime: дзень 
+old: стары 
+bad: благі	дрэнны	кепскі 
+evil: благі	дрэнны	кепскі 
+rot: гнілы 
+rotten: гнілы 
+dirty: брудны 
+filthy: брудны 
+soiled: брудны 
+straight: прамы	просты 
+sharp: востры 
+blunt: тупы 
+smooth: гладкі 
+damp: вільготны	мокры 
+wet: вільготны	мокры 
+correct: правільны	слушны 
+right: правы 
+right side: правы 
+left: левы 
+at: каля	ля	пры 
+in: у	ў 
+inside: у	ў 
+and: ды	і 
+if: калі 
+because: бо	таму што 

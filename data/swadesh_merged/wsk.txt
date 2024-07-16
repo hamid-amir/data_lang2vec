@@ -1,0 +1,421 @@
+all: ilimta 
+arm: kuting 
+arm: kutiŋ 
+arrow: suʌntʌ titu 
+ashes: kurrugu 
+ashes: kurugu | kurrugu 
+back: sisiru 
+back: susuru 
+bad: memek 
+bad: mɛmɛk 
+belly: nulis | tʌːgu 
+belly: të:gu | tʌːgu 
+belly: tʌːgu 
+big: bia 
+bird: ait | ait	inaŋinaŋ 
+bird: inanginang | ait	inaŋinaŋ 
+bird: inaŋinaŋ | ait	inaŋinaŋ 
+bite: -(k)usi- | -kusi-	-usi- 
+black: kaitam 
+blood: gue | guE	guɛ	kidi 
+blood: guɛ | guE	guɛ	kidi 
+blood: kidi | guE	guɛ	kidi 
+blow: itug- 
+bone: seil | sEil	sɛil 
+bone: sɛil | sEil	sɛil 
+boy: kʌːdi kulʌk 
+boy: kë:di kulëk 
+breast: amin 
+brother: baret 
+brother: bawa 
+brother: wadia 
+burn: kai- 
+butterfly: bululu 
+butterfly: siwo 
+calf: doleng ningo 
+calf: dolɛn niŋo 
+cassowary: kausër 
+chest: kokosa 
+child: ku:reang 
+child: kuːrreaŋ 
+chin: nodogen 
+chin: nodogɛn 
+chin: nogeren 
+chin: nogɛrrɛn 
+cloud: tëiti | tʌitʌ 
+cloud: tʌitʌ 
+cold: i:pi | iːpi 
+cold: iːpi 
+come: tei- | tei	tei- 
+crocodile: murukɛr 
+crocodile: ululu 
+cut: batë:gru- 
+cut: batʌːgru- 
+cut: pëgër- 
+cut: pʌgʌr- 
+dance: koala- 
+day: baiŋa niŋi 
+day: koamli 
+day: nainga ningi 
+die: kuɛ- | kuE	kuɛ- 
+dig: tungumu- 
+dig: tuŋumu- 
+dig: yi- 
+dirty: kë:rur 
+dirty: kʌːrrurr 
+dog: kausik 
+dry: marakam | marrakam 
+dry: marrakam 
+ear: dogowa 
+earth: ëli | ʌli 
+earth: ʌli 
+eat: lukum- | na- 
+eat: na- 
+egg: ningo | niŋo 
+egg: niŋo 
+elbow: poknong 
+elbow: poknoŋ 
+elbow: ponor 
+elbow: ponorr 
+emu: kausʌr 
+excrement: iwi 
+eye: motam 
+face: komamotam 
+face: koma motam 
+fall: dagulu- 
+fall: kau- 
+far: awar 
+father: ba 
+father: tata 
+fat (n.): minën 
+fat (n.): minʌm 
+fear: nguënga- 
+fear: ŋuʌŋa- 
+few: sangala 
+few: saŋala 
+fight: daŋrru- 
+fingernail: kore 
+fingernail: korrɛ 
+fire: tëma | t3ma	tʌma 
+fire: tʌma | t3ma	tʌma 
+fish: wël | w3l	wʌl 
+fish: wʌl | w3l	wʌl 
+fly (n.): kubuling 
+fly (n.): kubuliŋ 
+fly (v.): bungia- 
+fly (v.): buŋia- 
+fog: bur 
+fog: nuwi 
+forest: geaːrrum 
+forest: gea:rum 
+fruit: koëgi 
+fruit: koʌgi 
+full: kuring ara- lai- | kuriN ara lai	kuriŋ ara- lai- 
+full: kuriŋ ara- lai- | kuriN ara lai	kuriŋ ara- lai- 
+full: langi- | kuriN ara lai	kuriŋ ara- lai- 
+full: laŋi- | kuriN ara lai	kuriŋ ara- lai- 
+full: wate- | kuriN ara lai	kuriŋ ara- lai- 
+girl: imet kulëk 
+girl: imɛt kulʌk 
+give: -is- 
+give: -is-/-tu-/-r- 
+good: ningo | niŋo	yawara 
+good: niŋo | niŋo	yawara 
+good: yawara | niŋo	yawara 
+grass: ma:r 
+grass: sua 
+green: maramarak | marramarrak 
+green: marramarrak 
+guts: nulis 
+hair: mo:ne | moːnɛ 
+hair: moːnɛ 
+head: kiri | soːpuliŋ 
+head: so:puling | soːpuliŋ 
+head: soːpuliŋ 
+hear: -iki- | -iki-	iki 
+heart: manga | maŋa 
+heart: maŋa 
+heavy: i:kup | iːkup 
+heavy: iːkup 
+here: eweya 
+here: ɛwɛya 
+he/she: nu 
+he/she: nu- 
+he/she: ø- 
+hit: dangru- 
+hold: iluw- 
+house: këwam 
+house: kʌwam 
+how: ëvila 
+I: a- | ani 
+I: aga- | ani 
+I: ani 
+in: ningi 
+kill: moa- 
+knee: boknong | boknoN	boknoŋ	ponor 
+knee: boknoŋ | boknoN	boknoŋ	ponor 
+knee: ponor | boknoN	boknoŋ	ponor 
+laugh: gisi- 
+left: ngas 
+left: ŋas 
+leg: do:leng 
+leg: doːleŋ 
+leg: so:weng 
+leg: soːwɛŋ 
+lightning: pure bilikma- 
+lightning: purɛ bilikma- 
+liver: agemang | agemaN	agemaŋ 
+liver: agemaŋ | agemaN	agemaŋ 
+long: maya 
+louse: nanaku 
+man: anumang | kʌːdi 
+man: anumaŋ | kʌːdi 
+man: kʌːdi 
+man: kë:di | kʌːdi 
+many: kësik | kʌsik 
+many: kʌsik 
+meat: nu:ning 
+meat: nuːniŋ 
+moon: si:ge | siːgɛ 
+moon: siːgɛ 
+morning: (sor)kuriam 
+morning: tro:mala 
+morning: troːmala 
+mosquito: kasim 
+mother: ina 
+mother: nang 
+mother: naŋ 
+mountain: duruk 
+mouth: kodang | kodaŋ 
+mouth: kodaŋ 
+name: nip 
+nape: komang 
+nape: komaŋ 
+navel: kusinan 
+navel: kusugum 
+near: pengi | pɛni 
+near: pɛni 
+neck: dokotëk | dokotʌk 
+neck: dokotʌk 
+new: madak 
+night: tʷoːm | turom	tᵘroːm 
+night: turo:m | turom	tᵘroːm 
+nose: koamuru 
+not: me:na 
+not: mɛːna 
+old: aura 
+old: aurra 
+old: tuwun 
+one: suanta | itoketa	suanta	tikEnta	tikɛnta 
+one: tikenta | itoketa	suanta	tikEnta	tikɛnta 
+one: tikɛnta | itoketa	suanta	tikEnta	tikɛnta 
+pull: tëgi- 
+pull: tʌgi- 
+push: diruwu- 
+rain: tiwik 
+rat: dëgor 
+rat: dʌgorr 
+red: giëram | giʌrram 
+red: giʌrram 
+right: sengam | sopuliN 
+right: sɛŋam | sopuliN 
+ripe: yëpara 
+ripe: yʌparra 
+road: lëge | l3gE 
+road: lʌgɛ | l3gE 
+root: yëger | yʌgɛrr 
+root: yʌgɛrr 
+rope: wɔl 
+salt: gëgi | gʌgi 
+salt: gʌgi 
+sand: lëngi | samu nan	saun 
+sand: samu nan | samu nan	saun 
+sand: saun | samu nan	saun 
+say: -man- 
+say: munaka- | -man- 
+scratch: utëru- 
+scratch: utʌru- 
+sea: gëgi 
+sea: gʌgi 
+see: -arʲ- | -arⁱg-	ari	arig 
+see: -ari-g-/-ari- | -arⁱg-	ari	arig 
+see: loaga- | -arⁱg-	ari	arig 
+sharp: kisi- 
+sharp: kore 
+short: tukunang 
+shoulder: bibinang 
+shoulder: bibinaŋ 
+sing: wur iluw- 
+sister: koras 
+sister: koras gotek 
+sister: koras gotɛk 
+sit: dagi- 
+skin: goang | goaN	goaŋ 
+skin: goaŋ | goaN	goaŋ 
+sleep: ani- 
+small: gotek | gotɛk 
+small: gotɛk 
+smell: siring iki- 
+smoke: bu:r | buːrr 
+smoke: buːrr 
+snake: kasili | kasili	mot 
+snake: mot | kasili	mot 
+spit: kating 
+spit: katiŋ 
+spit: lakuna- 
+split: pëgër- 
+split: pʌgʌr- 
+stand: barasu- 
+stand: sangam- 
+stand: saŋam- 
+star: barës | bar3s	barrʌs 
+star: barrʌs | bar3s	barrʌs 
+stick: ma:kut 
+stone: mënga | m3Na	mʌŋa 
+stone: mʌŋa | m3Na	mʌŋa 
+straight: di:ram 
+straight: diːrram 
+sun: worem | wirEm	worrɛm 
+sun: worrɛm | wirEm	worrɛm 
+swell: laga- 
+tail: mo:m | moːm 
+tail: moːm 
+take: to- 
+that: owu 
+there: ourete 
+there: ourɛtɛ 
+they: nu-na 
+they: nu-na- 
+they: nu-nga- 
+they: nu-ŋa- 
+thigh: bugi 
+think: iki- 
+this: ewi | ɛwi 
+this: ɛwi 
+thou: nə-ŋa- | ni 
+thou: ni 
+thou: ni- 
+thou: (ni)ka- 
+thou: ni-na 
+thou: ni-na- 
+throat: pisi 
+throw: sapa- 
+thunder: pure nea- 
+thunder: purɛ nea- 
+tie: tëgi- 
+tie: tʌgi- 
+tomorrow: kurokse 
+tomorrow: kurokse awruk 
+tongue: koamili 
+tooth: kore | korE	korɛ 
+tooth: korɛ | korE	korɛ 
+tree: duap | t3m 
+tree: loan | t3m 
+tree: tëm | t3m 
+tree: tʌm | t3m 
+turn: gurrugu- 
+turn: gurugu- 
+two: ilë:gala | il3gala	ilʌːgala	itelala 
+two: ilʌːgala | il3gala	ilʌːgala	itelala 
+vagina: moale 
+vomit: kapi- 
+walk: ala- | ala-	nama- 
+walk: nama- | ala-	nama- 
+walk: pitak- | ala-	nama- 
+walk: tiŋa- | ala-	nama- 
+warm: kowar 
+wash: -aduw- 
+wash: gurru- 
+wash: guru- 
+water: zu 
+we: a-na | ana 
+we: a-na- | ana 
+weep: nia- 
+we: na-nga- | ana 
+we: na-ŋa- | ana 
+wet: gatʷara 
+wet: gatwara 
+wet: karago 
+wet: karrago 
+what: aßuk | aβuk	ʌnapɛ 
+what: avuk | aβuk	ʌnapɛ 
+what: ënape | aβuk	ʌnapɛ 
+what: ʌnapɛ | aβuk	ʌnapɛ 
+where: ëpalëk 
+where: ëprete 
+where: ʌpalʌk 
+where: ʌprɛtɛ 
+white: sirër | sirrʌrr 
+white: sirrʌrr 
+who: ëviri | ʌβiri 
+who: ʌßiri | ʌβiri 
+wind: mërir | mʌrrirr 
+wind: mʌrrirr 
+wing: lumël 
+wing: lumʌl 
+woman: i:met | iːmɛt 
+woman: iːmɛt 
+woman: pëgar | iːmɛt 
+woman: pʌgarr | iːmɛt 
+wood: biling 
+wood: biliŋ 
+wood: maːkut 
+yellow: gueyam | guɛyam 
+yellow: guɛyam 
+yes: ëw 
+yes: ow 
+yesterday: ekalako 
+yesterday: ɛkalako 
+yesterday: ulenkala 
+you: ni-na 
+you: ni-na- 
+you: nV-nga- | ni 
+every: ilimta 
+ash: kurrugu 
+abdomen: tʌːgu 
+bigness: bia 
+large: bia 
+breasts: amin 
+come from: tei	tei- 
+be dead: kuE	kuɛ- 
+dead: kuE	kuɛ- 
+ground: ʌli 
+land: ʌli 
+soil: ʌli 
+fly: buŋia- 
+fly v.: buŋia- 
+hand: sopuliN 
+left hand: sopuliN 
+1 sg.: ani 
+head louse: nanaku 
+male: kʌːdi 
+much: kʌsik 
+multiple: kʌsik 
+several: kʌsik 
+hill: duruk 
+title: nip 
+nighttime: turom	tᵘroːm 
+adulterous: itoketa	suanta	tikEnta	tikɛnta 
+single: itoketa	suanta	tikEnta	tikɛnta 
+the: itoketa	suanta	tikEnta	tikɛnta 
+unprincipled: itoketa	suanta	tikEnta	tikɛnta 
+rainy weather: tiwik 
+path: l3gE 
+route: l3gE 
+hide: goaN	goaŋ 
+little: gotɛk 
+smallness: gotɛk 
+rock: m3Na	mʌŋa 
+2 sg: ni 
+grind: il3gala	ilʌːgala	itelala 
+go: ala-	nama- 
+1 pl. inc.: ana 
+we₁: ana 
+whiteness: sirrʌrr 
+who?: ʌβiri 
+female: iːmɛt 
+distant: awar 
+dull: iːkup 
+serious: iːkup 
+close: pɛni 
+ner: pɛni 

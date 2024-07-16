@@ -1,0 +1,298 @@
+all: .an	han	tlaskˀuʔaan	ˀwáatluwaan 
+every: .an	han	tlaskˀuʔaan	ˀwáatluwaan 
+ash: ʡay-.it	ˁkaytʰ 
+ashes: ʡay-.it	ˁkaytʰ 
+bark: kiitʰ	qʼal	ḳˀuč 
+abdomen: tal 
+belly: tal 
+big: íˀwaan	ʔiw-.aːn	ʔiw-ʔwaːn 
+bigness: íˀwaan	ʔiw-.aːn	ʔiw-ʔwaːn 
+large: íˀwaan	ʔiw-.aːn	ʔiw-ʔwaːn 
+bird: aŋaaŋíi	ħitʔiːt	ħitʼiːt	ˁxitˀíitʰ 
+bite: qʼu	qʼut	ḳˀuskatʰ 
+black: hlˁkahl	ɬʡaɬ 
+blood: ʡay	ˁkáy 
+bone: skʰuc	skʰuč 
+breast: qʰan skʰuc	tlˀánuu 
+breasts: qʰan skʰuc	tlˀánuu 
+burn: ʡu 
+burn tr.: ʡu 
+claw: sƛʼa-kʼun 
+nail: sƛʼa-kʼun 
+talon: sƛʼa-kʼun 
+cloud: yaːn	yáan	yáanaŋaa	ḳʰwii 
+cold: tʰat-a	tʰatáa	xwíi 
+come: hawíitʰ	qʰaː 
+come from: hawíitʰ	qʰaː 
+be dead: -kˀutˀahl	kʼutʼaɬ	kˀutˀáal 
+dead: -kˀutˀahl	kʼutʼaɬ	kˀutˀáal 
+die: -kˀutˀahl	kʼutʼaɬ	kˀutˀáal 
+dog: ħa	ˁxa 
+drink: niːɬ	níihl	ˁkaníihl 
+dry: xil-a	xiláa 
+ear: kyuː	kyúu 
+earth: hlankwáay tlakáay	qʼwiː 
+ground: hlankwáay tlakáay	qʼwiː 
+land: hlankwáay tlakáay	qʼwiː 
+soil: hlankwáay tlakáay	qʼwiː 
+eat: -tˀáaŋ	hltanúu	táa	tʰaː 
+egg: qʰaw	ḳʰáw 
+eye: ħaŋ	ħaŋ.iː	ħaŋʔiː	ˁxáŋʔii 
+fat: ʡaːy 
+fat n.: ʡaːy 
+grease: ʡaːy 
+lubricant: ʡaːy 
+oil: ʡaːy 
+feather: hltʰánuu	tʼaːwan	tˀáaˀwun	ˁkínuu 
+fire: cʼaːnuː	čˀáanuu 
+fish: sqʼaɬ-aŋŋ	čʰíin	čʰíin xiláa 
+fly: xit	xitʰ 
+fly v.: xit	xitʰ 
+foot: stʼa	stʼaː	stˀáay 
+full: skˀisláa	stʼah	stˀah 
+give: =sƛa	i-sláa	istáa	kyáa	kíntaa 
+good: lʼaː 
+green: sʡinawaː	sʡinaːwkaː 
+hair: qʰac	ḳʰáč 
+hand: stláay	sƛʰa	sƛʰaː 
+left hand: stláay	sƛʰa	sƛʰaː 
+right: stláay	sƛʰa	sƛʰaː 
+head: qʰac	ḳʰač 
+hear: kut-aŋ	kutáŋ 
+heart: kʼuːk	kʼuːka	kˀúukʰ 
+horn: nasaːŋaː	nasáaŋaa 
+1 sg.: hl	hláa	tiː	tíi	tíinaa	ɬ	ɬa	ɬaː 
+I: hl	hláa	tiː	tíi	tíinaa	ɬ	ɬa	ɬaː 
+kill: -kˀutˀahl	tʰiya	tʰiyáa 
+knee: qʼuluː qʰac	ḳˀulúu ḳʰač 
+be knowledgeable: ʔunsat	ˁkán únsatʰ 
+know: ʔunsat	ˁkán únsatʰ 
+leaf: xil	xíl 
+lie: -ʔaa	-ʔaaw	=.u	=.u-ta	tluutáa	tíi íhlwutaa	tíitaa 
+lie down: -ʔaa	-ʔaaw	=.u	=.u-ta	tluutáa	tíi íhlwutaa	tíitaa 
+liver: tlˀakˀúl	ƛʼa-kʼul 
+long: caŋ	čáŋ 
+head louse: tʼamm 
+louse: tʼamm 
+male: íihlaŋaa	ʔiːɬaːŋ 
+man: naŋ	ˁxaatˀáa 
+many: ináŋ	qʰwaːn	ˁkakwíi 
+much: ináŋ	qʰwaːn	ˁkakwíi 
+multiple: ináŋ	qʰwaːn	ˁkakwíi 
+several: ináŋ	qʰwaːn	ˁkakwíi 
+flesh: kʰiʔíi	kʰya.a 
+meat: kʰiʔíi	kʰya.a 
+moon: qʰuŋ	ḳʰúŋ 
+hill: tlatˀawáay	tlatˀaʔáaw	ƛʰata.aːw 
+mountain: tlatˀawáay	tlatˀaʔáaw	ƛʰata.aːw 
+mouth: ħaɬ	ˁxahlʔíi 
+name: kʰiʔíi	kʰya.a	kʰyah	kʰyaʔáa 
+title: kʰiʔíi	kʰya.a	kʰyah	kʰyaʔáa 
+neck: ħil	ˁxíl 
+new: ʡaw-ƛʰah	ˁkáwtlaa 
+night: sánkyaa	ʡaːl 
+nighttime: sánkyaa	ʡaːl 
+nose: kún	kʰun	kʰunn 
+not: =.aŋ	=ʔaŋ	kam 
+adulterous: swaːn	swaːn-saŋ	sʡwaːn	sʡwaːn-saŋ 
+one: swaːn	swaːn-saŋ	sʡwaːn	sʡwaːn-saŋ 
+single: swaːn	swaːn-saŋ	sʡwaːn	sʡwaːn-saŋ 
+that: haw-ciː	huː-ciː 
+the: swaːn	swaːn-saŋ	sʡwaːn	sʡwaːn-saŋ 
+unprincipled: swaːn	swaːn-saŋ	sʡwaːn	sʡwaːn-saŋ 
+human: naŋ	ˁxaatˀáa 
+human being: naŋ	ˁxaatˀáa 
+person: naŋ	ˁxaatˀáa 
+rain: kwaʔáaw	tal	tál	čˀíikaa 
+rainy weather: kwaʔáaw	tal	tál	čˀíikaa 
+red: sʡit	sˁkitahltáa	sˁkitʰ 
+path: kʼyuː 
+road: kʼyuː 
+route: kʼyuː 
+root: hlíiŋ	skʰus-aːŋ-.u	ḳˀúl 
+round: -ŋaantaa	=cùːɬ-ta.aː	=cùːɬ-tiyaː 
+sand: tʰaːc	tʰaːs	tʰáas 
+say: suː	suː-ta	súu	súutaa 
+see: qʰi-ŋ	ḳʰíŋ 
+seed: maːɬ	maːɬa	ḳˀáŋkˀii 
+sit: -čʰuwaa	qʼaw	qʼaw-.a	ḳˀáw	ḳˀáwaa 
+hide: qʼal	ḳˀál 
+skin: qʼal	ḳˀál 
+sleep: qʼa	ḳʰaŋáa	ḳˀatíi	ḳˀátáa 
+little: ixačúu	kʼa-ʔaːn	čˀúučʰuu 
+small: ixačúu	kʼa-ʔaːn	čˀúučʰuu 
+smallness: ixačúu	kʼa-ʔaːn	čˀúučʰuu 
+smoke: ʡay-aːw	ˁkayáaw 
+stand: qyaː.-aŋ 
+star: kʼa.àyɬtʼaː	kʼaʔiɬtʼaː	kˀaayhltˀáa 
+rock: qʰwa.a	ḳʰwaa 
+stone: qʰwa.a	ḳʰwaa 
+sun: cùːyeː	čuuyáay 
+swim: ƛa=ka 
+tail: skʼyaː.u	skʼyaːw	skˀyáaw 
+this: ʔaː- 
+2 sg: taŋ	táa	táanaa (táaŋaa	táŋ 
+thou: taŋ	táa	táanaa (táaŋaa	táŋ 
+you: taŋ	táa	táanaa (táaŋaa	táŋ 
+tongue: tʼaːŋ-al	tˀáaŋal 
+tooth: cʼaŋ	čˀáŋ 
+tree: qʰiːt 
+grind: staŋ	stáŋ 
+two: staŋ	stáŋ 
+go: -taal	qʰaː	stʰáwčuu	ḳʰáa 
+walk: -taal	qʰaː	stʰáwčuu	ḳʰáa 
+hot: kʼin	kˀíinaa	stʰáw 
+warm: kʼin	kˀíinaa	stʰáw 
+water: čʰiyáa ˁxáw	ʡanƛ	ʡanƛa	ˁkantl	ˁkántl 
+1 pl. inc.: tʼalaŋ	tʼall	ʔiːƛʼ	ʔiːƛʼa 
+we: tʼalaŋ	tʼall	ʔiːƛʼ	ʔiːƛʼa 
+we₁: tʼalaŋ	tʼall	ʔiːƛʼ	ʔiːƛʼa 
+what: kuː-s	kuː-sta	kúus 
+white: ʡata	ˁkatáa	ˁkatʰkahl 
+whiteness: ʡata	ˁkatáa	ˁkatʰkahl 
+who: kiː-sta	kíist	kíitlˀtaas 
+who?: kiː-sta	kíist	kíitlˀtaas 
+female: ca-naː-s	čʰatáa	čʰáataa 
+woman: ca-naː-s	čʰatáa	čʰáataa 
+yellow: kʼan-ɬaɬ 
+distant: ʡakwiː 
+far: ʡakwiː 
+dull: qʰina	ḳʰináa 
+heavy: qʰina	ḳʰináa 
+serious: qʰina	ḳʰináa 
+close: ʔa=ʔaː-nan	ḳˀuhl 
+near: ʔa=ʔaː-nan	ḳˀuhl 
+ner: ʔa=ʔaː-nan	ḳˀuhl 
+salt: taŋ	tʰaŋŋ 
+short: kʼwa-.aːn	kʼwa-ʔaːn 
+snake: sak	saka 
+thin: staːya	stáayaa	tʼam	čˀíyaa	ƛʼa 
+wind: tačʰáaw	tʰa-caːw	tʰačuwáay čˀa 
+earthworm: sʡa.a	sʡaʡa	ḳˀáanuu 
+worm: sʡa.a	sʡaʡa	ḳˀáanuu 
+year: tʰat-a	tʰat-aː 
+2 pl.: taláŋ	tláaŋaa	tláŋ 
+ye: taláŋ	tláaŋaa	tláŋ 
+you all: taláŋ	tláaŋaa	tláŋ 
+where: tlˀáan 
+where?: tlˀáan 
+when: kíisantʰ	tluu	tlúu 
+when?: kíisantʰ	tluu	tlúu 
+how: sánuu 
+how?: sánuu 
+few: hlaŋáan 
+three: hlˁkúnahl 
+four: stʰánsaŋ 
+five: tléihl 
+thick: kaŋáa 
+child: kitʰ	naŋ ˁkaa xačúu 
+principal wife: čʰáa 
+wife: čʰáa 
+husband: tláal 
+his mother: aw 
+mother: aw 
+my mother: aw 
+father: hatáa	ˁkuŋ	ˁxáat 
+his father: hatáa	ˁkuŋ	ˁxáat 
+my father: hatáa	ˁkuŋ	ˁxáat 
+forest: atíitʰsii	atíičii	kíitaay ḳʰáahlii 
+woods: atíitʰsii	atíičii	kíitaay ḳʰáahlii 
+branch: hlkˀámaal 
+stick: hlkˀámaal 
+fruit: sˁkitluu	ˁkáan 
+grass: ḳˀán 
+cord: ḳʰwáay yaačˀáa 
+rope: ḳʰwáay yaačˀáa 
+fingernail: stlakʰún 
+leg: ḳˀulúu 
+wing: xyáay	čˀahlčˀaa xyáay 
+gut: stláan 
+guts: stláan 
+insides: stláan 
+intestine: stláan 
+intestines: stláan 
+back: čˀakˀíi 
+suck: tlˀán 
+spit: hltʰah	hlʔáan 
+vomit: tlakáŋ 
+blow: tʰačúu	xuskatʰ 
+breath: ˁkakánčaaw 
+breathe: ˁkakánčaaw 
+laugh: kˀah 
+laughter: kˀah 
+cogitate: kutˀanáŋ	kutˀkuŋ 
+reflect: kutˀanáŋ	kutˀkuŋ 
+think: kutˀanáŋ	kutˀkuŋ 
+afraid: hlˁkwáakaa 
+be afraid: hlˁkwáakaa 
+fear: hlˁkwáakaa 
+fright: hlˁkwáakaa 
+alive: stáŋ	ˁxíinaaŋ	ˁxíinaŋaa 
+be alive: stáŋ	ˁxíinaaŋ	ˁxíinaŋaa 
+life: stáŋ	ˁxíinaaŋ	ˁxíinaŋaa 
+live: stáŋ	ˁxíinaaŋ	ˁxíinaŋaa 
+living: stáŋ	ˁxíinaaŋ	ˁxíinaŋaa 
+fight: ˁkaayhltáa 
+hunt: ḳʰaačuu 
+beat: -skat	-taa	kˀat	sˁkaskat 
+hit: -skat	-taa	kˀat	sˁkaskat 
+strike: -skat	-taa	kˀat	sˁkaskat 
+cut: -yistaa	-ʔanaŋ	-ʔatʰ	ḳˀitˀat 
+hack: -yistaa	-ʔanaŋ	-ʔatʰ	ḳˀitˀat 
+cut open: -yistaa 
+split: -yistaa 
+pierce: kʰus 
+stab: kʰus 
+dig: hlˁkáy 
+tell lies: kʰihlkatáŋ 
+turn: stíihl 
+turn around: stíihl 
+turn round: stíihl 
+drop: -tahltaa	-taltaŋ	-čuuhltaa	-ʔwíi 
+fall: -tahltaa	-taltaŋ	-čuuhltaa	-ʔwíi 
+grasp: kičkatʰ 
+hold: kičkatʰ 
+hold in arm: kičkatʰ 
+rub: -náan 
+wipe: -náan 
+wash: tˀánskat 
+wash clothes: tˀánskat 
+push: -taltaŋ	-tlˀaa	-ˀwii	-ḳˀáa 
+shove: -taltaŋ	-tlˀaa	-ˀwii	-ḳˀáa 
+throw: -kʰwčʰaaŋ	-wistaa	kˀáatˀaa	táaŋ 
+bind: kʰyúu	čˀatˀas 
+fasten: kʰyúu	čˀatˀas 
+tie: kʰyúu	čˀatˀas 
+tie up: kʰyúu	čˀatˀas 
+sew: tlˀíi 
+sing: kˀačúu 
+have fun: náaŋ 
+play: náaŋ 
+brook: xyáaŋs	ˁkántl 
+river: xyáaŋs	ˁkántl 
+stream: xyáaŋs	ˁkántl 
+lake: súu 
+dust: sḳˀíl 
+fog: yáan 
+sky: yáan ḳʰaʔán 
+snow: tˀaʔáaw 
+ice: kˀačˀaláaŋ	ḳʰálkʰ 
+blaze: kˀúntlˀtaa 
+day: ˁkatʰkáa 
+daylight: ˁkatʰkáa 
+daytime: ˁkatʰkáa 
+bad: taˁkaŋáa 
+evil: taˁkaŋáa 
+rot: skatáanslaa	táaˁkaŋatʰ 
+rotten: skatáanslaa	táaˁkaŋatʰ 
+straight: yaʔáa 
+sharp: kˀi	tlˀakˀáa 
+blunt: wunáa 
+damp: tˀíihl 
+wet: tˀíihl 
+left: stlˀáanaa 
+in: aa	ii	ˁkáa	ḳʰáahlii 
+inside: aa	ii	ˁkáa	ḳʰáahlii 
+and: iskyaan	kyaan	kyáan 
+if: tluu	tlúu 
+because: eihl	ˁkatanáan 

@@ -1,0 +1,331 @@
+all: tukuy 
+every: tukuy 
+ash: uchufa 
+ashes: uchufa 
+bark: kiru kara 
+abdomen: wiksa 
+belly: wiksa 
+big: jatun 
+bigness: jatun 
+large: jatun 
+bird: pishku 
+bite: kanina 
+black: yana 
+blood: yawar 
+bone: tuLu	tuZu	tullu 
+breast: CuCu	chuchu 
+breasts: CuCu	chuchu 
+claw: sillu 
+nail: sillu 
+talon: sillu 
+cloud: fuyu 
+cold: chiri 
+come: Cayamuna	Samuna	shamuna 
+come from: Cayamuna	Samuna	shamuna 
+be dead: tukurina	wa5una	wañuna 
+dead: tukurina	wa5una	wañuna 
+die: tukurina	wa5una	wañuna 
+dog: alku	allku 
+drink: ufiana	ufyana	upiana 
+dry: chakishka 
+ear: rinri 
+earth: allpa 
+ground: allpa 
+land: allpa 
+soil: allpa 
+eat: mikuna 
+egg: lulun 
+eye: 5avi	5avi lulun	ñawi lulun 
+feather: alas 
+fire: nina 
+fish: Calwa	pihi	piji 
+fly: bulana 
+fly v.: bulana 
+foot: chaki 
+full: hunda	hundaSka	junda	xunda 
+give: kuna 
+good: ali 
+green: birdi 
+hair: akcha 
+hand: maki 
+left hand: maki 
+right: maki 
+head: uma 
+hear: uyana 
+heart: shungu 
+horn: %kaCu	kachu 
+1 sg.: 5uka	ya	ñuka 
+I: 5uka	ya	ñuka 
+kill: wañuchina 
+knee: kunguri 
+be knowledgeable: yachana 
+know: yachana 
+leaf: fanga 
+lie: sirina 
+lie down: sirina 
+liver: yana Sungu	yana shungu 
+long: suni 
+head louse: pilis	usa 
+louse: pilis	usa 
+male: kari 
+man: %hindi	%xinti	jinti	runa 
+many: achka 
+much: achka 
+multiple: achka 
+several: achka 
+flesh: aycha 
+meat: aycha 
+moon: killa 
+hill: %luma	urku 
+mountain: %luma	urku 
+mouth: shimi 
+name: Suti	shuti 
+title: Suti	shuti 
+neck: kunga 
+new: muSuh	muSux	mushuj 
+night: tuta 
+nighttime: tuta 
+nose: singa 
+not: -chu 
+adulterous: Suh	Sux	shuk 
+one: Suh	Sux	shuk 
+single: Suh	Sux	shuk 
+that: chay 
+the: Suh	Sux	shuk 
+unprincipled: Suh	Sux	shuk 
+human: %hindi	%xinti	jinti	runa 
+human being: %hindi	%xinti	jinti	runa 
+person: %hindi	%xinti	jinti	runa 
+rain: tamya 
+rainy weather: tamya 
+red: puka 
+path: 5an 
+road: 5an 
+route: 5an 
+root: sapi 
+round: muyundi 
+sand: tiyu 
+say: nina 
+see: rikuna 
+seed: muyu 
+sit: tiyarina 
+hide: ayCa kara	kara 
+skin: ayCa kara	kara 
+sleep: puñuna 
+little: uchilla 
+small: uchilla 
+smallness: uchilla 
+smoke: kushni 
+star: %istriZa	%luziru	luziru 
+rock: rumi 
+stone: rumi 
+sun: indi	inti 
+swim: wambuna 
+tail: chupa 
+this: kay 
+2 sg: kan 
+thou: kan 
+you: kan 
+tongue: haLu	jallu	xaZu 
+tooth: kiru 
+tree: kiru	yura 
+grind: iSkay	ishkay	iskay 
+two: iSkay	ishkay	iskay 
+go: purina 
+walk: purina 
+hot: kunuklla 
+warm: kunuklla 
+water: yaku 
+1 pl. inc.: 5ukan	5ukanCi 
+we: 5ukan	5ukanCi 
+we₁: 5ukan	5ukanCi 
+what: ima 
+white: yuraj 
+whiteness: yuraj 
+who: pi 
+who?: pi 
+female: warmi 
+woman: warmi 
+yellow: killu 
+distant: karu 
+far: karu 
+dull: llashaj 
+heavy: llashaj 
+serious: llashaj 
+close: kailllalla 
+near: kailllalla 
+ner: kailllalla 
+salt: kachi 
+short: uchilla 
+snake: kulibra 
+thin: ñañu 
+wind: wayra 
+earthworm: kuika 
+worm: kuika 
+year: wata 
+3 sg.: pay 
+he: pay 
+she: pay 
+2 pl.: kankuna 
+ye: kankuna 
+you all: kankuna 
+3 pl.: paykuna 
+they: paykuna 
+here: kaypi 
+there: chaypi 
+where: may 
+where?: may 
+when: ima pacha 
+when?: ima pacha 
+how: imashina 
+how?: imashina 
+some: wakin 
+few: asha 
+other: kayllalla 
+three: kimsa 
+four: chusku 
+five: pishka 
+broad: anchu 
+wide: anchu 
+wideness: anchu 
+fat: vira 
+thick: raku 
+narrow: kichiji 
+child: wawa 
+principal wife: warmi 
+wife: warmi 
+husband: kusa 
+his mother: mama 
+mother: mama 
+my mother: mama 
+father: tayta 
+his father: tayta 
+my father: tayta 
+animal: animal 
+forest: sacha 
+woods: sacha 
+branch: malki 
+stick: malki 
+fruit: muru 
+flower: sisa 
+grass: jiwa 
+cord: waska 
+rope: waska 
+grease: vira 
+fingernail: sillu 
+leg: changa 
+wing: alas 
+gut: chunchuli 
+guts: chunchuli 
+insides: chunchuli 
+intestine: chunchuli 
+intestines: chunchuli 
+back: washa 
+suck: chupana 
+spit: tukana 
+vomit: lanzana 
+blow: fukuna 
+breath: samay aysana 
+breathe: samay aysana 
+laugh: asina 
+laughter: asina 
+cogitate: yuyana 
+reflect: yuyana 
+think: yuyana 
+smell: mutijina 
+sniff: mutijina 
+afraid: manchay 
+be afraid: manchay 
+fear: manchay 
+fright: manchay 
+alive: kawsana 
+be alive: kawsana 
+life: kawsana 
+live: kawsana 
+living: kawsana 
+fight: makanajuna 
+hunt: japina 
+beat: takana 
+hit: takana 
+strike: takana 
+cut: kuchuna 
+hack: kuchuna 
+cut open: fakina 
+split: fakina 
+pierce: kuchilluna 
+stab: kuchilluna 
+scratch: aspina 
+dig: allana 
+tell lies: llullana 
+stand: shayarina 
+turn: tigrarina 
+turn around: tigrarina 
+turn round: tigrarina 
+drop: urmana 
+fall: urmana 
+grasp: japina 
+hold: japina 
+hold in arm: japina 
+squeeze: kapina 
+wring: kapina 
+rub: jakuna 
+wipe: chakichina 
+wash: maillana 
+wash clothes: maillana 
+push: tangana 
+shove: tangana 
+throw: shitana 
+bind: watana 
+fasten: watana 
+tie: watana 
+tie up: watana 
+sew: sirana 
+count: yupana 
+enumerate: yupana 
+number: yupana 
+tally: yupana 
+sing: takina 
+have fun: pugllana 
+play: pugllana 
+float: wambuna 
+flow: kallpana 
+freeze: rasuchina 
+brook: mayu 
+river: mayu 
+stream: mayu 
+lake: kucha 
+ocean: mama kucha 
+sea: mama kucha 
+dust: allpa jaku 
+fog: fuyu 
+sky: jawa pacha 
+snow: rasu 
+ice: rasu 
+blaze: rupana 
+burn: rupana 
+day: puncha 
+daylight: puncha 
+daytime: puncha 
+bad: millay 
+evil: millay 
+rot: ismushka 
+rotten: ismushka 
+dirty: mapa 
+filthy: mapa 
+soiled: mapa 
+straight: dirichu 
+sharp: filulla 
+blunt: llambu 
+smooth: amuklla 
+damp: shutushka 
+wet: shutushka 
+correct: ali 
+right side: ali ladu 
+left: lluki ladu 
+at: -pi 
+in: uku 
+inside: uku 
+with: -ta 
+and: -pash 
+if: -kpi 
+because: -manta 

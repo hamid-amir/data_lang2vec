@@ -1,0 +1,403 @@
+all: unun 
+arm: rebu- 
+arm: rɛbu- 
+arrow: igir 
+ashes: ir | ɪr 
+ashes: ɪr 
+back: fofolo- 
+back: kokoto- 
+bad: nau 
+bad: nub 
+belly: o- 
+belly: o- wëg 
+belly: o- wʌg 
+big: me:u | mɛːu 
+big: mɛːu 
+bird: ay 
+bite: ema- | ɛma- 
+bite: ɛma- 
+black: gugur | gugurr 
+black: gugurr 
+blood: momoka- | momoka	momoka- 
+blow: fuetu- 
+blow: fuɛtu- 
+bone: epay- | Epay	ɛpay- 
+bone: ɛpay- | Epay	ɛpay- 
+boy: na haun 
+breast: aumay 
+brother: apai 
+brother: apay 
+brother: reipa- 
+brother: reipa- nak 
+burn: maye- 
+burn: mayɛ- 
+butterfly: babarit 
+calf: madefu- 
+calf: madɛfu- 
+calf: use- 
+calf: usɛ- 
+cassowary: iwal 
+chest: mugu- 
+chest: toto- 
+child: na 
+chin: aka- 
+cloud: ʌːb 
+cloud: ë:b | ʌːb 
+cold: aipete | aipetɛ 
+cold: aipetɛ 
+come: vi- | vi	vi- 
+crocodile: wagay 
+crocodile: wgay 
+cut: ako- 
+dance: parei ira- 
+day: de:iv 
+day: dɛːiv 
+day: emaup 
+die: naume- | naumE	naumɛ- 
+die: naumɛ- | naumE	naumɛ- 
+dig: ari- 
+dig: itu- 
+dirty: tutufu 
+dog: pay 
+dry: maupm- 
+ear: tafu- | tafu	tafu- 
+earth: mon 
+eat: da- 
+eat: dav no- | da- 
+egg: musau 
+elbow: a:muk 
+elbow: aːmuk 
+emu: iwal 
+excrement: bi: 
+eye: ëmu- | 3mu	ʌmu- 
+eye: ʌmu- | 3mu	ʌmu- 
+face: ura(r)- 
+fall: ake- 
+fall: bete- 
+fall: bɛtɛ- 
+fall: o- 
+far: utwaif 
+father: memu- 
+fat (n.): munëw 
+fat (n.): munʌw 
+fear: iome- 
+fear: iomɛ- 
+few: oiroil 
+fight: atu- 
+finger: mamak 
+fingernail: siri 
+fingernail: sisi 
+fire: aim 
+fish: marik 
+fly (n.): pëfudow 
+fly (n.): pʌfudow 
+fly (n.): upepey 
+fly (n.): upɛpey 
+fly (v.): p.hiriretu- 
+fly (v.): phirirɛtu- 
+fog: fud 
+forehead: ura(r)- 
+forest: tufa 
+fruit: aug 
+full: ambe- | amb~E	ambɛ- 
+full: ambɛ- | amb~E	ambɛ- 
+full: wete- | amb~E	ambɛ- 
+full: wɛtɛ- | amb~E	ambɛ- 
+girl: ait haun 
+give: re- | rɛ- 
+give: rɛ- 
+good: ebor | loyma	nu	ɛbor 
+good: ɛbor | loyma	nu	ɛbor 
+good: ioyma | loyma	nu	ɛbor 
+good: loyma | loyma	nu	ɛbor 
+good: nu | loyma	nu	ɛbor 
+grass: inam 
+guts: o- wëg 
+guts: o- wʌg 
+hair: gosi | gosi	pagif 
+hair: pagif | gosi	pagif 
+head: ilo- 
+head: mukifu | ilo- 
+hear: do- | do	do- 
+heavy: u:nou | uːnou 
+heavy: uːnou 
+here: ena 
+here: ɛna 
+here: ke 
+he/she: -d- 
+he/she: -ək 
+he/she: -f 
+he/she: nuk 
+he/she: -ø 
+he/she: -ø- 
+he/she: -Vk 
+hit: atu- 
+hold: atu 
+house: imët 
+house: imʌt 
+how: ga:ni 
+I: -i | sak 
+in: dë:uru 
+I: -ø | sak 
+I: -r- | sak 
+I: sak 
+kill: be- | be-	tug ako- 
+kill: tug ako- | be-	tug ako- 
+knee: ë:muk | 3muk	ʌːmuk 
+knee: ʌːmuk | 3muk	ʌːmuk 
+laugh: ime- 
+laugh: imɛ- 
+left: anenai 
+leg: fa:- 
+leg: faː- 
+leg: katirʌ- 
+leg: katirë- 
+lightning: amur le- 
+liver: ulu a:uk- | ulu auk	ulu- aːuk 
+liver: ulu- aːuk | ulu auk	ulu- aːuk 
+long: wara 
+louse: mi 
+man: këv | sin 
+man: kʌv | sin 
+man: sin 
+many: kene:bi | kɛnɛːbi 
+many: kɛnɛːbi 
+meat: ufun 
+moon: parik 
+morning: abiride 
+morning: pi:r 
+morning: piːr 
+mosquito: imër 
+mosquito: imʌr 
+mother: ana- 
+mother: aw 
+mountain: atu | ath~u	atʰu 
+mountain: atʰu | ath~u	atʰu 
+mouth: ou- 
+name: wani- | wani	wani- 
+nape: du- 
+navel: iri- 
+near: ewo | tʰunamu	ɛwo 
+near: ɛwo | tʰunamu	ɛwo 
+near: tunamu | tʰunamu	ɛwo 
+near: tʰunamu | tʰunamu	ɛwo 
+neck: oran 
+new: yoimay 
+night: abuide | abuidE	abuidɛ	kakatu 
+night: abuidɛ | abuidE	abuidɛ	kakatu 
+night: kakatu | abuidE	abuidɛ	kakatu 
+nose: no- | no	no- 
+not: pi 
+old: mehur 
+old: mɛhur 
+old: sir 
+one: oiraf 
+pull: ere- 
+pull: ɛrɛ- 
+push: sunetu- 
+push: sunɛtu- 
+rain: gu 
+rat: okumar 
+red: momokau 
+right: nulipan 
+ripe: piu 
+road: i:m | im 
+road: iːm | im 
+root: si:k | siːk 
+root: siːk 
+rope: ol 
+salt: u: | uː 
+salt: uː 
+sand: igis 
+sand: ve:rum | igis 
+say: a- 
+say: rer me- | a- 
+say: rɛr mɛ- | a- 
+scratch: pakare- 
+scratch: pakarɛ- 
+sea: ma:s 
+sea: maːs 
+see: amukɛ- | ara	ara-	ita	ita- 
+see: ara- | ara	ara-	ita	ita- 
+see: ita- | ara	ara-	ita	ita- 
+sharp: a:g unou 
+sharp: aːg unou 
+sharp: mete- 
+short: kofi | kofi	pahu 
+short: pahu | kofi	pahu 
+shoulder: dotʌ- 
+shoulder: dotë- 
+shoulder: kapata- 
+sing: parei vetu- 
+sister: epi- në:g 
+sister: ɛpi- nʌːg 
+sister: orapa- 
+sit: pafute- | pafutɛ- 
+sit: pafutɛ- 
+skin: feru- | fEru	fɛru-	gara	gara- 
+skin: fɛru- | fEru	fɛru-	gara	gara- 
+skin: gara- | fEru	fɛru-	gara	gara- 
+sky: ʌːb 
+sky: ë:b 
+sleep: unug- 
+small: na:g | nʌːg 
+small: nʌːg 
+smell: afa mu- 
+smoke: au 
+snake: mat 
+spit: etare- 
+spit: së:ri- 
+spit: sʌːri- 
+split: otëre- 
+split: otʌrɛ- 
+stand: aye- 
+star: fay 
+stick: kobay 
+stone: men | mEn	mɛn 
+stone: mɛn | mEn	mɛn 
+straight: koror 
+straight: korɔr 
+sun: am 
+swell: ifutu- 
+tail: biti | fof	fofu 
+tail: fof(u) | fof	fofu 
+take: au- 
+there: onaiga 
+they: -agët 
+they: -agʌt 
+they: ëkuhun 
+they: ʌkuhun 
+they: -nak 
+they two: -ar 
+they two: ëtow 
+they: -vatu- 
+thigh: pia:ri- 
+thigh: piaːri- 
+think: tatume- 
+think: tatumɛ- 
+this: ehe | ɛhɛ 
+this: ɛhɛ 
+thou: -agʌt | nak 
+thou: ak | nak 
+thou: nak 
+thou: -nak 
+thou: -ø | nak 
+thou: -s- | nak 
+thou: -(u)n | nak 
+thou: -vatu- | nak 
+throat: oran dodol 
+throw: tëre- 
+throw: tʌrɛ- 
+thunder: weli be- 
+thunder: wɛli be- 
+tie: dide- 
+tie: didɛ- 
+tomorrow: da:ir 
+tomorrow: daːir 
+tomorrow: rai:r 
+tongue: perina- | pErina	pɛrina- 
+tongue: pɛrina- | pErina	pɛrina- 
+tooth: au- 
+tree: as 
+tree: guru | as 
+tree: muː | as 
+tree: tɛbin | as 
+turn: balisetu- 
+turn: balisɛtu- 
+two: a:rit | arit	aːrit 
+two: aːrit | arit	aːrit 
+vagina: bia- 
+vomit: pʰai- 
+walk: kura- | uku- 
+walk: uku- 
+wallaby: sugur 
+warm: durinou 
+wash: le la- 
+wash: lɛ la- 
+water: de | dE	dɛ 
+water: dɛ | dE	dɛ 
+weep: ba- 
+we: -(i)ek | ik 
+we: -(i)ɛk | ik 
+we: ik 
+we: -k- | ik 
+we: -ø- | ik 
+wet: deu 
+wet: dɛu 
+we two: iati 
+we two: -(i)et 
+we two: -tu- 
+what: ve\e | vɛʔɛ 
+what: vɛʔɛ 
+where: ate 
+where: atɛ 
+white: pi:u | piːu 
+white: piːu 
+who: ven | vɛn 
+who: vɛn 
+wind: olo 
+wing: alu 
+woman: ait 
+woman: ënak | ait 
+woman: ʌnak | ait 
+wood: kobay 
+wood: tutu 
+yellow: danou 
+yes: o 
+yesterday: eren 
+yesterday: tu 
+yesterday: tʰu 
+you: -agët | nak 
+you: ak | nak 
+you: -nak 
+you two: -ar 
+you two: ëti (?) 
+you: -vatu- | nak 
+every: unun 
+ash: ɪr 
+abdomen: o- 
+bigness: mɛːu 
+large: mɛːu 
+breasts: aumay 
+come from: vi	vi- 
+be dead: naumE	naumɛ- 
+dead: naumE	naumɛ- 
+ground: mon 
+land: mon 
+soil: mon 
+fly: phirirɛtu- 
+fly v.: phirirɛtu- 
+1 sg.: sak 
+head louse: mi 
+male: sin 
+much: kɛnɛːbi 
+multiple: kɛnɛːbi 
+several: kɛnɛːbi 
+hill: ath~u	atʰu 
+title: wani	wani- 
+nighttime: abuidE	abuidɛ	kakatu 
+adulterous: oiraf 
+single: oiraf 
+that: oiraf 
+the: oiraf 
+unprincipled: oiraf 
+rainy weather: gu 
+path: im 
+route: im 
+hide: fEru	fɛru-	gara	gara- 
+little: nʌːg 
+smallness: nʌːg 
+rock: mEn	mɛn 
+2 sg: nak 
+grind: arit	aːrit 
+go: uku- 
+1 pl. inc.: ik 
+we₁: ik 
+whiteness: piːu 
+who?: vɛn 
+female: ait 
+distant: utwaif 
+dull: uːnou 
+serious: uːnou 
+close: tʰunamu	ɛwo 
+ner: tʰunamu	ɛwo 

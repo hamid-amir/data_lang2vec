@@ -1,0 +1,131 @@
+all: katoa 
+every: katoa 
+ash: refu 
+ashes: refu 
+abdomen: aro/aro	kona	manava 
+belly: aro/aro	kona	manava 
+big: lasi 
+bigness: lasi 
+large: lasi 
+bird: manu 
+bite: kati	ngau	uti	uuti 
+black: uri 
+blood: toto 
+bone: ivi 
+breast: uu 
+breasts: uu 
+burn: tafu	tutu 
+burn tr.: tafu	tutu 
+cloud: ao 
+cold: makariri 
+come: au 
+come from: au 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: kuri 
+drink: inu 
+dry: maroo	masa 
+ear: tariNa	taringa 
+eat: kai 
+feather: furu 
+fire: afi 
+fish: ika 
+fly: rere 
+fly v.: rere 
+good: tau/rekareka/ 
+hair: furu	rauuru 
+hand: rima 
+left hand: rima 
+right: rima 
+head: poko/uru 
+hear: rogo 
+1 sg.: -ku	au	kau 
+I: -ku	au	kau 
+be knowledgeable: iloa	iroa	poto 
+know: iloa	iroa	poto 
+leaf: rau 
+lie: moe 
+lie down: moe 
+liver: ate 
+long: loa	roa 
+head louse: kutu 
+louse: kutu 
+male: taane 
+man: taNata	tangata 
+moon: marama 
+mouth: ngutu 
+name: igoa 
+title: igoa 
+neck: ua 
+new: fou 
+night: po	poo 
+nighttime: po	poo 
+nose: isu 
+adulterous: tasi 
+one: tasi 
+single: tasi 
+that: na 
+the: tasi 
+unprincipled: tasi 
+human: taNata	tangata 
+human being: taNata	tangata 
+person: taNata	tangata 
+rain: ua 
+rainy weather: ua 
+red: mea	mero 
+path: ara 
+road: ara 
+route: ara 
+sand: one 
+say: muna 
+see: kite	ma/mata/	mamata 
+sit: nofo 
+hide: kiri 
+skin: kiri 
+sleep: moe 
+little: faa/iti/	liki/liki	pukupuku	riki 
+small: faa/iti/	liki/liki	pukupuku	riki 
+smallness: faa/iti/	liki/liki	pukupuku	riki 
+smoke: au	au/siafi	ausiafi	kofu 
+star: fetu	fetuu 
+rock: fatu 
+stone: fatu 
+swim: ka(ka)u	kakau 
+this: nei 
+2 sg: kee	koe	korua 
+thou: kee	koe	korua 
+you: kee	koe	korua 
+tongue: %alelo	alelo 
+tooth: nifo 
+tree: rakau 
+grind: rua 
+two: rua 
+go: saere	taafau	tahao 
+walk: saere	taafau	tahao 
+hot: mafana 
+warm: mafana 
+water: vai 
+1 pl. inc.: tou 
+we: tou 
+we₁: tou 
+what: aa 
+white: kena	tea 
+whiteness: kena	tea 
+who: ai 
+who?: ai 
+female: fa/fine	fafine 
+woman: fa/fine	fafine 
+yellow: fero	senga 
+distant: mamao	mao 
+far: mamao	mao 
+dull: mafa 
+heavy: mafa 
+serious: mafa 
+close: piri 
+near: piri 
+ner: piri 
+short: pukupuku 
+thin: nifi/nifi 
+wind: matagi 
+year: tau 

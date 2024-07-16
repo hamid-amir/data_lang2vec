@@ -1,0 +1,337 @@
+all: dut 
+every: dut 
+ash: cinise 
+ashes: cinise 
+bark: scuarce	scusse 
+abdomen: panze 
+belly: panze 
+big: grant 
+bigness: grant 
+large: grant 
+bird: ucel 
+bite: muardi 
+black: neri 
+blood: saNk	sanc 
+bone: vues	vw~es 
+breast: pet 
+breasts: pet 
+burn: brusâ 
+burn tr.: brusâ 
+claw: ongule 
+nail: ongule 
+talon: ongule 
+cloud: nûl 
+cold: frêt 
+come: vi5ei	vignî 
+come from: vi5ei	vignî 
+be dead: murei	murî 
+dead: murei	murî 
+die: murei	murî 
+dog: CaN	cjan	ky~aN 
+drink: bevi 
+dry: sec	suiât	sut 
+ear: orele	oreli	vorele 
+earth: tiare	tiere 
+ground: tiare	tiere 
+land: tiare	tiere 
+soil: tiare	tiere 
+eat: mangjâ 
+egg: ûf 
+eye: voli 
+fat: gras 
+fat n.: gras 
+grease: gras 
+lubricant: gras 
+oil: gras 
+feather: plume 
+fire: fouk	fuk	fûc 
+fish: pes 
+fly: svolâ 
+fly v.: svolâ 
+foot: pît 
+full: plen 
+give: dâ 
+good: bon 
+green: vert 
+hair: cjavei	cjaveli 
+hand: man 
+left hand: man 
+right: man 
+head: cjâf 
+hear: sintei	sintî 
+heart: cûr 
+horn: cuar	kw~ar 
+1 sg.: jo	me	yo 
+I: jo	me	yo 
+kill: copâ 
+knee: jEnoli	zEnoli	zenoli 
+be knowledgeable: savê 
+know: savê 
+leaf: fuee	fw~eE 
+lie: jessi distirât 
+lie down: jessi distirât 
+liver: fiat	fiât	fy~at 
+long: lunc 
+head louse: pEdoli	pedoli 
+louse: pEdoli	pedoli 
+male: om 
+man: cristian	om	pErsoN	persone 
+many: tancj 
+much: tancj 
+multiple: tancj 
+several: tancj 
+flesh: cjar 
+meat: cjar 
+moon: lune 
+hill: mont	monta5E	montagne 
+mountain: mont	monta5E	montagne 
+mouth: bocje 
+name: non 
+title: non 
+neck: cuel 
+new: 5ouf	5uf	gnûf 
+night: 5ot	gnot 
+nighttime: 5ot	gnot 
+nose: nas	nâs 
+not: no 
+adulterous: uN	un	ũŋ 
+one: uN	un	ũŋ 
+single: uN	un	ũŋ 
+that: chel 
+the: uN	un	ũŋ 
+unprincipled: uN	un	ũŋ 
+human: cristian	om	pErsoN	persone 
+human being: cristian	om	pErsoN	persone 
+person: cristian	om	pErsoN	persone 
+rain: ploe	ploie 
+rainy weather: ploe	ploie 
+red: ros 
+path: stradE	strade 
+road: stradE	strade 
+route: stradE	strade 
+root: lidrîs 
+round: taront	tont 
+sand: savalon 
+say: dî 
+see: viodi	vy~odi 
+seed: samence	semence 
+sit: sintâsi	stâ sentât 
+hide: piel	py~el 
+skin: piel	py~el 
+sleep: durmî 
+little: piçul 
+small: piçul 
+smallness: piçul 
+smoke: fum 
+stand: stâ impins 
+star: stelE	stele 
+rock: clap	piere	py~erE 
+stone: clap	piere	py~erE 
+sun: soreli 
+swim: nadâ 
+tail: code 
+this: chest 
+2 sg: tu 
+thou: tu 
+you: tu 
+tongue: leNgE	lenghe 
+tooth: dint 
+tree: arbul 
+grind: doi	doy	dôs 
+two: doi	doy	dôs 
+go: cjaminâ	va 
+walk: cjaminâ	va 
+hot: cjalt 
+warm: cjalt 
+water: agE	aghe 
+1 pl. inc.: noaltris	nou	nô 
+we: noaltris	nou	nô 
+we₁: noaltris	nou	nô 
+what: ce 
+white: blanc 
+whiteness: blanc 
+who: cui 
+who?: cui 
+female: femine 
+woman: femine 
+yellow: zâl 
+distant: lontan 
+far: lontan 
+dull: pesant 
+heavy: pesant 
+serious: pesant 
+close: dongje 
+near: dongje 
+ner: dongje 
+salt: sâl 
+short: curt 
+snake: madrac	sarpint 
+thin: fin	sutîl 
+wind: aiar	arie	vint 
+earthworm: vier 
+worm: vier 
+year: an 
+3 sg.: lui 
+he: lui 
+she: lui 
+2 pl.: voaltris	vô 
+ye: voaltris	vô 
+you all: voaltris	vô 
+3 pl.: lôr 
+they: lôr 
+here: ca	chenti	chi	culì 
+there: culà	là 
+where: dulà 
+where?: dulà 
+when: cuant 
+when?: cuant 
+how: cemût 
+how?: cemût 
+some: cetancj	cualchi 
+few: pôc 
+other: altri 
+three: tre	trê 
+four: cuatri	kwàtri 
+five: cinc	čiŋk 
+broad: larc 
+wide: larc 
+wideness: larc 
+thick: grues	penç 
+narrow: stret 
+child: frut 
+principal wife: femine 
+wife: femine 
+husband: marît	om 
+his mother: mari 
+mother: mari 
+my mother: mari 
+father: pari 
+his father: pari 
+my father: pari 
+animal: animâl	nemâl 
+forest: bosc 
+woods: bosc 
+branch: baston	mace 
+stick: baston	mace 
+fruit: pome 
+flower: flôr	rose 
+grass: jerbe 
+cord: cuarde 
+rope: cuarde 
+fingernail: ongule 
+leg: gjambe 
+arm: man 
+wing: ale 
+gut: budiel	intestin 
+guts: budiel	intestin 
+insides: budiel	intestin 
+intestine: budiel	intestin 
+intestines: budiel	intestin 
+back: schene 
+suck: supâ 
+spit: spudâ 
+vomit: gomitâ 
+blow: soflâ 
+breath: respirâ 
+breathe: respirâ 
+laugh: ridi 
+laughter: ridi 
+cogitate: pensâ 
+reflect: pensâ 
+think: pensâ 
+smell: nasâ 
+sniff: nasâ 
+afraid: temi	temê 
+be afraid: temi	temê 
+fear: temi	temê 
+fright: temi	temê 
+alive: vivi 
+be alive: vivi 
+life: vivi 
+live: vivi 
+living: vivi 
+fight: lotâ 
+hunt: cjaçâ 
+beat: colpî 
+hit: colpî 
+strike: colpî 
+cut: taiâ 
+hack: taiâ 
+cut open: dividi 
+split: dividi 
+pierce: scurtissâ 
+stab: scurtissâ 
+scratch: sgrafâ	sgrifignâ 
+dig: sgarfâ	sgjavâ 
+tell lies: distirâsi 
+turn: voltâ	zirâ 
+turn around: voltâ	zirâ 
+turn round: voltâ	zirâ 
+drop: colâ 
+fall: colâ 
+grasp: tignî 
+hold: tignî 
+hold in arm: tignî 
+squeeze: struçâ 
+wring: struçâ 
+rub: russâ 
+wipe: suiâ 
+wash: lavâ	netâ 
+wash clothes: lavâ	netâ 
+pull: tirâ 
+push: sburtâ 
+shove: sburtâ 
+throw: butâ	lançâ 
+bind: leâ 
+fasten: leâ 
+tie: leâ 
+tie up: leâ 
+sew: cusî 
+count: contâ 
+enumerate: contâ 
+number: contâ 
+tally: contâ 
+sing: cjantâ 
+have fun: zuiâ 
+play: zuiâ 
+float: stâ sù	vongolâ 
+flow: scolâ 
+freeze: glaçâ 
+swell: sglonfâ 
+brook: flum 
+river: flum 
+stream: flum 
+lake: lâc 
+ocean: mâr 
+sea: mâr 
+dust: polvar 
+fog: fumate 
+sky: cîl 
+snow: nêf 
+ice: glaç 
+blaze: brusâ 
+day: dì	zornade 
+daylight: dì	zornade 
+daytime: dì	zornade 
+old: vecjo	vieli	vieri 
+bad: trist 
+evil: trist 
+rot: frait	vuast 
+rotten: frait	vuast 
+dirty: soç	sporc 
+filthy: soç	sporc 
+soiled: soç	sporc 
+straight: dret 
+sharp: guât	uçât 
+blunt: asiât 
+smooth: lis 
+damp: bagnât	umit 
+wet: bagnât	umit 
+correct: coret	just 
+right side: diestre	drete 
+left: çampe 
+in: in 
+inside: in 
+with: cun 
+if: se 
+because: parcè	parcè che 

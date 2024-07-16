@@ -1,0 +1,263 @@
+all: kpákpà 
+every: kpákpà 
+ash: tsukɔ̀ 
+ashes: tsukɔ̀ 
+bark: tɨ̋lɨ 
+abdomen: pì 
+belly: pì 
+big: kpè 
+bigness: kpè 
+large: kpè 
+bird: be̋ 
+bite: kə 
+black: bí 
+blood: vE*	və̃ʏ̈ 
+bone: fe	fè 
+breast: ki	kimE*	mɛ̃ʏ̈ʏ̈ 
+breasts: ki	kimE*	mɛ̃ʏ̈ʏ̈ 
+claw: ńcàfɛ̋ 
+nail: ńcàfɛ̋ 
+talon: ńcàfɛ̋ 
+cold: ɲɛ̃ʏ̈ tsũ 
+come: bE*	bə̀ 
+come from: bE*	bə̀ 
+be dead: wu 
+dead: wu 
+die: wu 
+dog: adw~a	àdwà 
+drink: mE*	mə̃ 
+dry: vɛ́vɛ́ 
+ear: te 
+earth: zapè 
+ground: zapè 
+land: zapè 
+soil: zapè 
+eat: šì 
+egg: tsɛ̃́ 
+eye: hi*bE	hɛ̃́bɛ̃ʏ̈ 
+feather: be̋bɔté 
+fire: CE*	čɛ̃́ 
+fish: kE*	kə 
+fly: fə 
+fly v.: fə 
+foot: wɛ̀ 
+full: gb~o	mə̃ʏ̈ 
+give: zé 
+good: lə̀ 
+hair: hwĩ́-pũ 
+hand: bo	bɔ 
+left hand: bo	bɔ 
+right: bo	bɔ 
+head: hwĩ́ 
+hear: tE*	tɛ̃ 
+heart: kitsa̋bà 
+horn: te	tè 
+1 sg.: mɛ̃	mɛ̃́ 
+I: mɛ̃	mɛ̃́ 
+kill: kũʏ̈ 
+knee: 5i*kp~E	aSwakp~E	hĩ́kpɛ̀ 
+be knowledgeable: lɔ 
+know: lɔ 
+leaf: pE te	zakwɛ́-té 
+lie: lâ lɔ 
+lie down: lâ lɔ 
+liver: bw~E*	vyɛ̃ʏ̈ 
+head louse: my~E* 
+louse: my~E* 
+male: sɛ̃ 
+man: tsâbí 
+many: bèbé 
+much: bèbé 
+multiple: bèbé 
+several: bèbé 
+flesh: gba 
+meat: gba 
+moon: pò 
+hill: kE* 
+mountain: kE* 
+mouth: mĩ́ 
+name: hĩ́	yapo 
+title: hĩ́	yapo 
+neck: bwɛ́ 
+new: popw~e	pɔ́pwɛ́ 
+night: bèše̋kẽbí 
+nighttime: bèše̋kẽbí 
+nose: Nw~a	ŋwã́ 
+adulterous: ekE*	ekã	kE*	kə̃́ 
+one: ekE*	ekã	kE*	kə̃́ 
+single: ekE*	ekã	kE*	kə̃́ 
+that: éyi̋ 
+the: ekE*	ekã	kE*	kə̃́ 
+unprincipled: ekE*	ekã	kE*	kə̃́ 
+human: tsâbí 
+human being: tsâbí 
+person: tsâbí 
+rain: zɨ̀ sə̃́ 
+rainy weather: zɨ̀ sə̃́ 
+red: nã́ 
+path: boso 
+road: boso 
+route: boso 
+root: nĩ́ 
+round: pípi̋ 
+sand: mwã́sɛ̋ 
+say: ǯű 
+see: hE*	hə̃ʏ̈ 
+seed: bɛ́ 
+sit: kpə̃ʏ̈ lɔ … zɔ́ 
+hide: kp~o	tɔ̀ 
+skin: kp~o	tɔ̀ 
+sleep: la 
+little: cɔ̋ 
+small: cɔ̋ 
+smallness: cɔ̋ 
+smoke: tsukwə̃ 
+star: cemp~u	zɨ̀-hɛ̃-pũ 
+rock: bo	kà-lɔ-bi 
+stone: bo	kà-lɔ-bi 
+sun: vinE*	vinɛ̃́ 
+swim: hə 
+tail: ǯwɨ̀ 
+this: éyi̋ 
+2 sg: bu 
+thou: bu 
+you: bu 
+tongue: nE*	nə̃́ 
+tooth: hi*	hĩ́ 
+tree: cakw~E 
+grind: emwĩ	kEmw~E*	mwə̃́ 
+two: emwĩ	kEmw~E*	mwə̃́ 
+go: nə̃ 
+walk: nə̃ 
+water: sE*	sə̃́ 
+what: ɲã́ 
+white: fí 
+whiteness: fí 
+who: ɲĩ́tsa 
+who?: ɲĩ́tsa 
+female: šimwɛ̃́ 
+woman: šimwɛ̃́ 
+distant: koko 
+far: koko 
+dull: ǯwə́ 
+heavy: ǯwə́ 
+serious: ǯwə́ 
+salt: ǯɛ̃ʏ̈ 
+snake: wo 
+wind: fə̀sə̃́ 
+earthworm: hrɔ̀ 
+worm: hrɔ̀ 
+year: gbə̃́bə́ 
+2 pl.: mṹ 
+ye: mṹ 
+you all: mṹ 
+3 pl.: bá 
+they: bá 
+here: ébɛ̀ 
+there: élá lɨ́ 
+where: hɨlɨ́ 
+where?: hɨlɨ́ 
+when: lə ò ɲɛ̃́ 
+when?: lə ò ɲɛ̃́ 
+few: cɔ̋ 
+other: fə 
+three: enhĩ	hã́ 
+four: egyi	ǯí 
+five: bə̃ʏ̈	ebo 
+broad: hɛ̀ 
+wide: hɛ̀ 
+wideness: hɛ̀ 
+fat: nã̂ 
+thick: kpìtì 
+narrow: mãmã̂ 
+child: bì 
+principal wife: ši 
+wife: ši 
+husband: kí 
+his mother: nɛ̃ 
+mother: nɛ̃ 
+my mother: nɛ̃ 
+father: yi 
+his father: yi 
+my father: yi 
+animal: nãnã̂ 
+fruit: zakwɛ́ byɔ̃ʏ̈ 
+flower: flɛ̂ 
+grass: pɛ́ 
+cord: bye 
+rope: bye 
+grease: nã̂ 
+fingernail: bɔtɨ̋ 
+leg: wɛ̀ 
+wing: bɔté 
+gut: la 
+guts: la 
+insides: la 
+intestine: la 
+intestines: la 
+back: kã́ː 
+vomit: šá 
+blow: fə̀ 
+breath: ɲɛ̃́ pũ 
+breathe: ɲɛ̃́ pũ 
+laugh: mũ ɲã́ 
+laughter: mũ ɲã́ 
+cogitate: šì àkṹda 
+reflect: šì àkṹda 
+think: šì àkṹda 
+smell: tɛ̃ pyɛ̃ 
+sniff: tɛ̃ pyɛ̃ 
+cut: kɔ̂ 
+hack: kɔ̂ 
+dig: bɔ̀	frì 
+tell lies: čí tə̃́ 
+stand: ɲɛ̃̂ fũ 
+drop: tɨ 
+fall: tɨ 
+grasp: pṹ 
+hold: pṹ 
+hold in arm: pṹ 
+squeeze: mã̂ 
+wring: mã̂ 
+wash: fwɨ̂ 
+wash clothes: fwɨ̂ 
+wipe: tə̃tə̃ʏ̈ 
+push: vì 
+shove: vì 
+bind: čɛ̃́ 
+fasten: čɛ̃́ 
+tie: čɛ̃́ 
+tie up: čɛ̃́ 
+sew: ǯuɨ̋ 
+count: kə 
+enumerate: kə 
+number: kə 
+tally: kə 
+sing: kɔ̂ nẽ́ 
+float: fə 
+flow: gbṹ 
+brook: sɔ́ 
+river: sɔ́ 
+stream: sɔ́ 
+dust: fɔ̀̀mũ 
+fog: bwè 
+blaze: fɔ 
+burn: fɔ 
+day: kégbà 
+daylight: kégbà 
+daytime: kégbà 
+bad: pùtàː 
+evil: pùtàː 
+rot: pṹ 
+rotten: pṹ 
+dirty: bí 
+filthy: bí 
+soiled: bí 
+sharp: hù hɛ̃	kɔ hɛ̃ 
+smooth: fyɛ̃́fyɛ̃́ 
+right side: bɔgbã 
+left: hĩʏ̈bɔ̀ 
+in: pìá 
+inside: pìá 
+and: lé … àmṹ 
+if: éyí 

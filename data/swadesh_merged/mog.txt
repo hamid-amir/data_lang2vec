@@ -1,0 +1,266 @@
+all: komintan 
+every: komintan 
+ash: abu 
+ashes: abu 
+abdomen: sian 
+belly: sian 
+big: mo-loben 
+bigness: mo-loben 
+large: mo-loben 
+bird: lagapan 
+bite: baŋit 
+black: mo-rondiʔ	mo-yondiʔ 
+blood: dugu7	duguʔ 
+bone: tulaN	tulan	tulaŋ 
+breast: [t]eteʔ	ete7	tete7 
+breasts: [t]eteʔ	ete7	tete7 
+burn: dapuŋ 
+burn tr.: dapuŋ 
+cloud: lokutoi 
+cold: mo-belek 
+come: [m]agiʔ	agi7	magi7 
+come from: [m]agiʔ	agi7	magi7 
+be dead: matoi 
+dead: matoi 
+die: matoi 
+dog: uNk~u7	uŋkuʔ 
+drink: inum	moŋ-inum 
+dry: mo-bokag 
+ear: boNolan	boŋolan 
+eat: kaan 
+egg: natu 
+eye: mata 
+feather: bubul 
+fire: tulu7	tuluʔ 
+fish: toya7	toyaʔ 
+fly: l-um-ayug 
+fly v.: l-um-ayug 
+good: mo-pia	mo-pira 
+green: mo-lunow 
+hair: buok 
+hand: lima 
+left hand: lima 
+right: lima 
+head: ulu 
+hear: doNog	moko-doŋog 
+1 sg.: akuoi 
+I: akuoi 
+kill: patoi 
+be knowledgeable: mo-taau 
+know: mo-taau 
+leaf: daun 
+lie: siug 
+lie down: siug 
+liver: sidalom 
+long: mo-laŋgoʔ 
+head louse: kutu 
+louse: kutu 
+male: lolaki 
+man: intau	int~au 
+moon: bulan 
+mouth: bibig 
+name: taNoi	taŋoi 
+title: taNoi	taŋoi 
+neck: sindun 
+new: bagu	mo-bagu 
+night: gobi	gobii 
+nighttime: gobi	gobii 
+nose: NiruN	NiuN	ŋiruŋ	ŋiuŋ 
+adulterous: intaʔ	int~a7	tobatu 
+one: intaʔ	int~a7	tobatu 
+single: intaʔ	int~a7	tobatu 
+that: tua 
+the: intaʔ	int~a7	tobatu 
+unprincipled: intaʔ	int~a7	tobatu 
+human: intau	int~au 
+human being: intau	int~au 
+person: intau	int~au 
+rain: uyan 
+rainy weather: uyan 
+red: mo-pura	mo-puya 
+path: dalan 
+road: dalan 
+route: dalan 
+root: uakat 
+sand: buŋaion 
+say: uman 
+see: moŋ-ontoŋ	ont~oN 
+sit: lituʔ 
+hide: kuli7	kulit	kuliʔ 
+skin: kuli7	kulit	kuliʔ 
+sleep: mo-siug 
+little: mo-ïntok 
+small: mo-ïntok 
+smallness: mo-ïntok 
+smoke: oyok 
+star: tundi	tund~i 
+rock: batu 
+stone: batu 
+swim: laŋui 
+tail: iput 
+this: naa 
+2 sg: ikow 
+thou: ikow 
+you: ikow 
+tongue: dila7	dilaʔ 
+tooth: Nipon	bagaN	bagaŋ	ŋipon 
+grind: deewa	deyowa	dua	dɛowa 
+two: deewa	deyowa	dua	dɛowa 
+go: bayaʔ 
+walk: bayaʔ 
+hot: mo-patuʔ 
+warm: mo-patuʔ 
+water: tubig 
+1 pl. inc.: kami	kita 
+we: kami	kita 
+we₁: kami	kita 
+what: onda	onu 
+white: mo-pusiʔ 
+whiteness: mo-pusiʔ 
+who: ine 
+who?: ine 
+female: bobai 
+woman: bobai 
+yellow: mo-darag	mo-dayag 
+distant: mo-raruʔ	mo-yayuʔ 
+far: mo-raruʔ	mo-yayuʔ 
+dull: mo-bogat 
+heavy: mo-bogat 
+serious: mo-bogat 
+close: ampil 
+near: ampil 
+ner: ampil 
+salt: simuton 
+short: mo-kogoŋ 
+snake: ulag 
+thin: mo-nipit 
+wind: tompot 
+earthworm: oluasi 
+worm: oluasi 
+year: taoŋ 
+2 pl.: moïkow 
+ye: moïkow 
+you all: moïkow 
+3 pl.: mosia 
+they: mosia 
+where: onda 
+where?: onda 
+when: toonu 
+when?: toonu 
+how: naanda 
+how?: naanda 
+other: ibanya 
+three: tolu 
+four: opat 
+five: lima 
+broad: mo-ruŋag 
+wide: mo-ruŋag 
+wideness: mo-ruŋag 
+fat: loŋoʔ 
+thick: mo-bunod 
+narrow: mo-rupit 
+principal wife: buloi 
+wife: buloi 
+husband: buloi 
+his mother: inaʔ 
+mother: inaʔ 
+my mother: inaʔ 
+father: amaʔ 
+his father: amaʔ 
+my father: amaʔ 
+forest: kayuon 
+woods: kayuon 
+branch: taŋa 
+stick: taŋa 
+fruit: buŋai 
+flower: buŋan 
+grass: bonok 
+cord: alit	ulaŋ 
+rope: alit	ulaŋ 
+flesh: tapuʔ 
+meat: tapuʔ 
+grease: loŋoʔ 
+wing: kolikip 
+gut: kompoŋ 
+guts: kompoŋ 
+insides: kompoŋ 
+intestine: kompoŋ 
+intestines: kompoŋ 
+back: likud 
+suck: t-um-otop 
+spit: mon-duyaʔ 
+vomit: moto-tukaʔ 
+blow: mog-irup 
+breath: mo-gina 
+breathe: mo-gina 
+laugh: kosiŋ 
+laughter: kosiŋ 
+cogitate: mog-ontob 
+reflect: mog-ontob 
+think: mog-ontob 
+smell: toŋut 
+sniff: toŋut 
+afraid: mo-ondok 
+be afraid: mo-ondok 
+fear: mo-ondok 
+fright: mo-ondok 
+alive: mo-biag 
+be alive: mo-biag 
+life: mo-biag 
+live: mo-biag 
+living: mo-biag 
+hunt: mog-alow 
+beat: paŋkul 
+hit: paŋkul 
+strike: paŋkul 
+cut: mo-nagaʔ 
+hack: mo-nagaʔ 
+cut open: botak 
+split: botak 
+pierce: tumbal 
+stab: tumbal 
+scratch: mo-kukud 
+dig: mo-kali 
+stand: sindog 
+drop: duduʔ 
+fall: duduʔ 
+grasp: domok 
+hold: domok 
+hold in arm: domok 
+squeeze: mo-gorod 
+wring: mo-gorod 
+throw: arab 
+bind: mog-asaŋ 
+fasten: mog-asaŋ 
+tie: mog-asaŋ 
+tie up: mog-asaŋ 
+sew: mog-dagum 
+count: moŋ-iap 
+enumerate: moŋ-iap 
+number: moŋ-iap 
+tally: moŋ-iap 
+flow: mo-ïlig 
+lake: danow 
+ocean: dagat 
+sea: dagat 
+dust: ginabui	lobud 
+fog: tapuot 
+sky: laŋit 
+bad: mo-raat	mo-yaat 
+evil: mo-raat	mo-yaat 
+rot: mo-buruk	mo-buyuk 
+rotten: mo-buruk	mo-buyuk 
+dirty: mo-romuʔ	mo-yomuʔ 
+filthy: mo-romuʔ	mo-yomuʔ 
+soiled: mo-romuʔ	mo-yomuʔ 
+sharp: ma-lanit 
+blunt: barotag 
+damp: mo-bobat 
+wet: mo-bobat 
+right side: koloanan 
+left: koloïgi 
+at: ko 
+in: ko 
+inside: ko 
+and: bo	yo 
+if: a|ka 

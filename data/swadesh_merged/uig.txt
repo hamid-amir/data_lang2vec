@@ -1,0 +1,320 @@
+all: barche	hemmisi	pütün 
+every: barche	hemmisi	pütün 
+ash: kül 
+ashes: kül 
+bark: qowzaq 
+abdomen: qorsaq 
+belly: qorsaq 
+big: büyük	chong	yoghan	zor 
+bigness: büyük	chong	yoghan	zor 
+large: büyük	chong	yoghan	zor 
+bird: qush 
+bite: chishlimek 
+black: qara	siya reng 
+blood: qan 
+bone: söngek 
+breast: emchek 
+breasts: emchek 
+cloud: bulut 
+cold: soghuq 
+come: kelmek 
+come from: kelmek 
+be dead: ölmek 
+dead: ölmek 
+die: ölmek 
+dog: it 
+drink: ichmek 
+dry: quruq 
+ear: qulaq 
+earth: topa 
+ground: topa 
+land: topa 
+soil: topa 
+eat: yimek 
+egg: tuxum 
+eye: köz 
+feather: pey 
+fire: ot 
+fish: béliq 
+fly: uchmaq 
+fly v.: uchmaq 
+foot: ayaq 
+full: toluq 
+give: bermek 
+good: yaxshi 
+green: yéshil 
+hair: chach	qil	tük 
+head: bash	kalla 
+hear: anglimaq 
+heart: yürek 
+horn: münggüz 
+1 sg.: men 
+I: men 
+kill: öltürmek 
+knee: tiz 
+be knowledgeable: bilmek 
+know: bilmek 
+leaf: yopurmaq 
+liver: béghir	jiger 
+long: uzun 
+head louse: pit 
+louse: pit 
+male: er	erkek 
+man: insan	kishi 
+many: köp 
+much: köp 
+multiple: köp 
+several: köp 
+moon: ay 
+hill: tagh 
+mountain: tagh 
+mouth: aghiz 
+neck: boyun 
+new: yéngi 
+night: kech	tün 
+nighttime: kech	tün 
+nose: burun 
+not: emes 
+adulterous: 4 -بېنزېن ترىئول	bir	بىرەرسى 
+one: 4 -بېنزېن ترىئول	bir	بىرەرسى 
+single: 4 -بېنزېن ترىئول	bir	بىرەرسى 
+that: shu	u 
+the: 4 -بېنزېن ترىئول	bir	بىرەرسى 
+unprincipled: 4 -بېنزېن ترىئول	bir	بىرەرسى 
+human: insan	kishi 
+human being: insan	kishi 
+person: insan	kishi 
+rain: yamghur 
+rainy weather: yamghur 
+red: qizil 
+path: yol 
+road: yol 
+route: yol 
+root: yiltiz 
+round: domlaq	yumilaq 
+sand: qum 
+say: démek	éytmaq 
+see: körmek 
+seed: uruq 
+sit: oltarmaq 
+hide: tére 
+skin: tére 
+sleep: uxlimaq 
+little: kichik 
+small: kichik 
+smallness: kichik 
+smoke: tütün 
+star: yultuz 
+rock: tash 
+stone: tash 
+sun: kün 
+swim: üzmek 
+tail: quyruq 
+this: bu 
+2 sg: sen 
+thou: sen 
+you: sen 
+tongue: til 
+tooth: chish 
+tree: derex	yaghach 
+grind: 4 -بېنزېن ترىئول	iki	ئىككى 
+two: 4 -بېنزېن ترىئول	iki	ئىككى 
+go: barmaq	yürmek 
+walk: barmaq	yürmek 
+hot: ilman 
+warm: ilman 
+water: su 
+1 pl. inc.: biz 
+we: biz 
+we₁: biz 
+what: nime 
+white: aq 
+whiteness: aq 
+who: kim 
+who?: kim 
+female: ayal	ayol 
+woman: ayal	ayol 
+yellow: sériq 
+distant: yiraq 
+far: yiraq 
+dull: éghir 
+heavy: éghir 
+serious: éghir 
+close: yéqin 
+near: yéqin 
+ner: yéqin 
+salt: tuz 
+short: qisqa 
+snake: yilan 
+thin: inchik	ingichka 
+wind: selkin	shamal 
+earthworm: qurut 
+worm: qurut 
+year: yil 
+2 pl.: siz 
+ye: siz 
+you all: siz 
+3 pl.: ular 
+they: ular 
+here: bu yerde	mana 
+there: u yerde 
+where: nede	qeyerde 
+where?: nede	qeyerde 
+when: khaqan	qachan 
+when?: khaqan	qachan 
+how: qandaq 
+how?: qandaq 
+some: azrakh	bir qanche 
+few: az 
+other: bashqa	özge 
+three: üch	ئۈچ	ئۈچىنچى	كۆپ	نۇرغۇن 
+four: tört	تۆت 
+five: besh	بەش 
+broad: keng 
+wide: keng 
+wideness: keng 
+fat: may	yagh 
+thick: qélin 
+narrow: tar 
+child: bola 
+principal wife: xotin	xotun 
+wife: xotin	xotun 
+husband: er 
+his mother: ana 
+mother: ana 
+my mother: ana 
+father: ata	ota 
+his father: ata	ota 
+my father: ata	ota 
+animal: haywan	janliq 
+forest: ormanliq 
+woods: ormanliq 
+branch: choxmaq	soyla	tayaq 
+stick: choxmaq	soyla	tayaq 
+fruit: méwe 
+flower: chichek	gül 
+grass: chöp	ot 
+cord: arqan 
+rope: arqan 
+flesh: et	gösh 
+meat: et	gösh 
+grease: may	yagh 
+claw: tirnaq 
+fingernail: tirnaq 
+nail: tirnaq 
+leg: put 
+arm: qol 
+hand: qol 
+wing: qanat 
+gut: üchey 
+guts: üchey 
+insides: üchey 
+intestine: üchey 
+intestines: üchey 
+back: arqa	dümbe 
+suck: emmek 
+spit: tükürmek 
+vomit: qusmak 
+blow: esmek 
+breath: nepes alamaq 
+breathe: nepes alamaq 
+laugh: külmek 
+laughter: külmek 
+cogitate: oylimaq	pikir qilmaq 
+reflect: oylimaq	pikir qilmaq 
+think: oylimaq	pikir qilmaq 
+smell: purimaq 
+sniff: purimaq 
+afraid: qorqmaq 
+be afraid: qorqmaq 
+fear: qorqmaq 
+fright: qorqmaq 
+alive: yashimaq 
+be alive: yashimaq 
+life: yashimaq 
+live: yashimaq 
+living: yashimaq 
+fight: soqushmaq	urushmaq 
+hunt: owlimaq 
+beat: urmaq 
+hit: urmaq 
+strike: urmaq 
+cut: kesmek 
+hack: kesmek 
+cut open: yarmaq 
+split: yarmaq 
+pierce: pichaqlimaq	sanjimaq	tiqmaq 
+stab: pichaqlimaq	sanjimaq	tiqmaq 
+scratch: tirnaqlimaq 
+dig: kolimaq	qazmaq 
+lie: yatmaq 
+lie down: yatmaq 
+tell lies: yatmaq 
+stand: turmaq 
+turn: burimaq 
+turn around: burimaq 
+turn round: burimaq 
+drop: chüshmek	jiqilmaq 
+fall: chüshmek	jiqilmaq 
+grasp: tutmaq 
+hold: tutmaq 
+hold in arm: tutmaq 
+squeeze: qismaq	siqmaq 
+wring: qismaq	siqmaq 
+rub: sürkimek	ugulumaq 
+wipe: sürtmek	éritmaq 
+wash: juymaq 
+wash clothes: juymaq 
+pull: tartmaq 
+push: ishtermek 
+shove: ishtermek 
+throw: atmaq	tashlimaq 
+bind: baghlimaq 
+fasten: baghlimaq 
+tie: baghlimaq 
+tie up: baghlimaq 
+sew: tikmek 
+count: sanimaq 
+enumerate: sanimaq 
+number: sanimaq 
+tally: sanimaq 
+sing: naxsha étmaq	sayrimaq 
+have fun: oynimaq 
+play: oynimaq 
+float: lepildimek	leylimek	üzmek 
+flow: aqmaq 
+freeze: tonglimaq 
+swell: qaparmaq 
+brook: deriya 
+river: deriya 
+stream: deriya 
+lake: köl 
+ocean: déngiz 
+sea: déngiz 
+fog: tuman 
+sky: asman	kök 
+snow: qar 
+ice: muz 
+blaze: köymek	yanmaq 
+burn: köymek	yanmaq 
+day: kün 
+daylight: kün 
+daytime: kün 
+old: eski	qeri 
+bad: yaman 
+evil: yaman 
+rot: chirigen	chürük 
+rotten: chirigen	chürük 
+dirty: kir	paskina 
+filthy: kir	paskina 
+soiled: kir	paskina 
+straight: tüz	udul 
+sharp: ittik	keskin	ökür 
+blunt: ötmes 
+smooth: siliq	tékis 
+damp: höl	nem 
+wet: höl	nem 
+correct: toghra 
+right: ong 
+right side: ong 
+left: sol 

@@ -1,0 +1,721 @@
+all: munda | munda	pra pra 
+all: pala pala | munda	pra pra 
+all: pra pra | munda	pra pra 
+and: kaukl 
+and: kaukñ 
+arm: oŋo 
+arm: oŋoie 
+arrow: kimbiri 
+arrow: ye 
+arrow: yere 
+arrow: yere(-kimbre) 
+ashes: iŋum | iŋum	yegum	yuŋgum 
+ashes: yegum | iŋum	yegum	yuŋgum 
+ashes: yunggum | iŋum	yegum	yuŋgum 
+ashes: yuŋgum | iŋum	yegum	yuŋgum 
+back: mogo 
+back: mogo-na 
+back: moku 
+back: mumbie 
+bad: kinde 
+bad: kindi 
+bark: endi ganggi | endi gaŋgi 
+bark: endi gaŋgi 
+belly: debilomgo | deno	goŋau-mo 
+belly: dembiglko | deno	goŋau-mo 
+belly: deno | deno	goŋau-mo 
+belly: goŋau-mo | deno	goŋau-mo 
+big: kande | kande	pondo 
+big: ponde | kande	pondo 
+big: pondo | kande	pondo 
+bird: koa | koa	kua 
+bird: kua | koa	kua 
+bird: nima | koa	kua 
+bite: kal- | kal-	suŋgua 
+bite: kale- | kal-	suŋgua 
+bite: sunggua | kal-	suŋgua 
+bite: suŋgua | kal-	suŋgua 
+black: kama | kama	kaːma 
+black: ka:ma | kama	kaːma 
+black: kaːma | kama	kaːma 
+blood: bolomai | bormai	boromai	borumai	borɔmai	mayam 
+blood: boromai | bormai	boromai	borumai	borɔmai	mayam 
+blood: borɔmai | bormai	boromai	borumai	borɔmai	mayam 
+blood: borumai | bormai	boromai	borumai	borɔmai	mayam 
+blood: mayam | bormai	boromai	borumai	borɔmai	mayam 
+blow: pundusunggua 
+blow: pundusuŋgua 
+bone: yambiro | iomb~ura	yambiro	yombu-ra	yombugl	yombuglo	yombura 
+bone: yombei | iomb~ura	yambiro	yombu-ra	yombugl	yombuglo	yombura 
+bone: yombugl | iomb~ura	yambiro	yombu-ra	yombugl	yombuglo	yombura 
+bone: yombuglo | iomb~ura	yambiro	yombu-ra	yombugl	yombuglo	yombura 
+bone: yombura | iomb~ura	yambiro	yombu-ra	yombugl	yombuglo	yombura 
+bone: yombu-ra | iomb~ura	yambiro	yombu-ra	yombugl	yombuglo	yombura 
+bone: yómbu-ra | iomb~ura	yambiro	yombu-ra	yombugl	yombuglo	yombura 
+boy: gage 
+boy: gale 
+boy: kumugl 
+boy: kumukl 
+boy: kumukñ 
+boy: kumuluː 
+branch: indowe 
+branch: yoŋagle 
+breast: ame- | amu	amu-na	amuno 
+breast: amena | amu	amu-na	amuno 
+breast: amu | amu	amu-na	amuno 
+breast: amu-na | amu	amu-na	amuno 
+breast: amuno | amu	amu-na	amuno 
+breast: amu-no | amu	amu-na	amuno 
+brother: ánggera 
+brother: aŋgera 
+brother: anggira 
+brother: aŋgira 
+brother: anggra 
+brother: aŋigle 
+brother: aŋile 
+burn: do- 
+burn: donu- 
+burn: gaklh.kwa 
+burn: gakñkwa 
+burn: gaxka 
+butterfly: kuime kaime 
+butterfly: kume kaime 
+butterfly: kwimekaime 
+calf: kagl paragle yombuglo 
+calf: kale palatie yombei 
+cassowary: ni:me 
+cheek: pauna 
+child: yagn gage 
+claw: winagle | winagɬe 
+claw: winagñe | winagɬe 
+cloud: kamen koa | kamen koa	kamkua 
+cloud: kamkua | kamen koa	kamkua 
+cold: bi | bi	ir	iri ŋgoxkwa 
+cold: ir | bi	ir	iri ŋgoxkwa 
+cold: iri nggoxkwa | bi	ir	iri ŋgoxkwa 
+cold: iri ŋgoxkwa | bi	ir	iri ŋgoxkwa 
+come: onggua | oŋgua	u*gw~a	u-	uŋua 
+come: oŋgua | oŋgua	u*gw~a	u-	uŋua 
+come: u- | oŋgua	u*gw~a	u-	uŋua 
+come: uŋua | oŋgua	u*gw~a	u-	uŋua 
+come: uono- | oŋgua	u*gw~a	u-	uŋua 
+cut: bo- 
+cut: bo-xka 
+cut: keglu 
+cut: kegñu 
+dance: aiken 
+dark: mim 
+daughter: ambuglo 
+daughter: ombuei 
+day: andesuŋgua 
+day: ene 
+day: eŋe 
+day: engge 
+day: eŋge 
+die: goklh.kua | goLkw~a	gol-	goɬkua 
+die: gol- | goLkw~a	gol-	goɬkua 
+die: golu- | goLkw~a	gol-	goɬkua 
+die: goñkua | goLkw~a	gol-	goɬkua 
+dirty: bi 
+dog: a | aL	agi	agl	akɬ	atn 
+dog: agi | aL	agi	agl	akɬ	atn 
+dog: agl | aL	agi	agl	akɬ	atn 
+dog: aklh | aL	agi	agl	akɬ	atn 
+dog: akñ | aL	agi	agl	akɬ	atn 
+dog: al | aL	agi	agl	akɬ	atn 
+dog: atn | aL	agi	agl	akɬ	atn 
+drink: neunggua | neuŋgua	nigl neiŋga	nigl no-	no*gw~a 
+drink: neuŋgua | neuŋgua	nigl neiŋga	nigl no-	no*gw~a 
+drink: nigl neiŋga | neuŋgua	nigl neiŋga	nigl no-	no*gw~a 
+drink: nigl neingga (ø | neuŋgua	nigl neiŋga	nigl no-	no*gw~a 
+drink: nigl no- | neuŋgua	nigl neiŋga	nigl no-	no*gw~a 
+drink: nu nono- | neuŋgua	nigl neiŋga	nigl no-	no*gw~a 
+dry: gigle nalu- | gigle nalu-	kuganduŋgua 
+dry: gile nendu- | gigle nalu-	kuganduŋgua 
+dry: kugandunggua | gigle nalu-	kuganduŋgua 
+dry: kuganduŋgua | gigle nalu-	kuganduŋgua 
+ear: kina | kina	kina-na	kinana	kunano 
+ear: kinabe | kina	kina-na	kinana	kunano 
+ear: kina-na | kina	kina-na	kinana	kunano 
+ear: kina-(na) | kina	kina-na	kinana	kunano 
+ear: kunano | kina	kina-na	kinana	kunano 
+ear: kuna-no | kina	kina-na	kinana	kunano 
+earth: magan 
+earth: makan | magan 
+earth: moglombo | magan 
+earth: mokumbo | magan 
+eat: nei- | nei-	neinga	neuŋgua	no- 
+eat: neinga | nei-	neinga	neuŋgua	no- 
+eat: nei-ngga | nei-	neinga	neuŋgua	no- 
+eat: neunggua | nei-	neinga	neuŋgua	no- 
+eat: neuŋgua | nei-	neinga	neuŋgua	no- 
+eat: no- | nei-	neinga	neuŋgua	no- 
+eat: nono- | nei-	neinga	neuŋgua	no- 
+egg: (koa) muglo | koa muglo	mogo	muglo	mugɬo	nuglo 
+egg: muglo | koa muglo	mogo	muglo	mugɬo	nuglo 
+egg: mugño | koa muglo	mogo	muglo	mugɬo	nuglo 
+egg: (nima) muglo | koa muglo	mogo	muglo	mugɬo	nuglo 
+egg: nuglo | koa muglo	mogo	muglo	mugɬo	nuglo 
+emu: nime 
+emu: niːme 
+eye: gumutino | gumutino	o*gmuLo	oŋgomutna	oŋomit-na	oŋomuglo 
+eye: onggomutna | gumutino	o*gmuLo	oŋgomutna	oŋomit-na	oŋomuglo 
+eye: oŋgomutna | gumutino	o*gmuLo	oŋgomutna	oŋomit-na	oŋomuglo 
+eye: oŋolome | gumutino	o*gmuLo	oŋgomutna	oŋomit-na	oŋomuglo 
+eye: oŋomit-na | gumutino	o*gmuLo	oŋgomutna	oŋomit-na	oŋomuglo 
+eye: oŋomuglo | gumutino	o*gmuLo	oŋgomutna	oŋomit-na	oŋomuglo 
+face: gimai 
+face: guma 
+face: gumana 
+face: gúmana 
+far: elige | elke 
+far: elke 
+father: nem 
+father: nina 
+father: nino 
+fat (n.): vamm 
+fat (n.): wam 
+fear: kandin golu- 
+fear: kondukl.nggokl 
+fear: kondukñŋgokñ 
+fear: kundugl gol- 
+fear: kundugl pirika 
+fear: kundux pirika 
+feather: iŋgo | iŋgo	iŋo	koa iŋo 
+feather: ingo | iŋgo	iŋo	koa iŋo 
+feather: (koa) iŋo | iŋgo	iŋo	koa iŋo 
+feather: (nima) enie | iŋgo	iŋo	koa iŋo 
+finger: Monggo 
+finger: moŋgo 
+fingernail: gire 
+finger: oŋoie moŋo 
+finger: oŋo moŋo 
+fire: baugl | baugl	do*gw~a	doŋga	ende	ende ndoŋgwa 
+fire: dongga | baugl	do*gw~a	doŋga	ende	ende ndoŋgwa 
+fire: doŋga | baugl	do*gw~a	doŋga	ende	ende ndoŋgwa 
+fire: ende | baugl	do*gw~a	doŋga	ende	ende ndoŋgwa 
+fire: ende ndonggwa | baugl	do*gw~a	doŋga	ende	ende ndoŋgwa 
+fire: ende ndoŋgwa | baugl	do*gw~a	doŋga	ende	ende ndoŋgwa 
+fire: indi | baugl	do*gw~a	doŋga	ende	ende ndoŋgwa 
+fire: iŋumule | baugl	do*gw~a	doŋga	ende	ende ndoŋgwa 
+fire: iŋumulu | baugl	do*gw~a	doŋga	ende	ende ndoŋgwa 
+fish: bagle | bagɬe	buLo baLe	buglo bagle 
+fish: bagñe | bagɬe	buLo baLe	buglo bagle 
+fish: buglo bagle | bagɬe	buLo baLe	buglo bagle 
+flower: kuie 
+flower: tara kuie 
+fly (n.): diun 
+fly (n.): diune 
+fly (n.): goŋgomba 
+fly (n.): indi 
+fly (v.): endonggua 
+fly (v.): endoŋgua 
+foot: kagl | kagl	kat-na	kati	katino 
+foot: kagl beye | kagl	kat-na	kati	katino 
+foot: kagl sura | kagl	kat-na	kati	katino 
+foot: kale | kagl	kat-na	kati	katino 
+foot: kale bei | kagl	kat-na	kati	katino 
+foot: kalie | kagl	kat-na	kati	katino 
+foot: kalie suo | kagl	kat-na	kati	katino 
+foot: katino | kagl	kat-na	kati	katino 
+foot: kati-no | kagl	kat-na	kati	katino 
+foot: kat-na | kagl	kat-na	kati	katino 
+forehead: bile mambe 
+forehead: bire mambuglo 
+forest: endile 
+forest: indopan 
+four: suo suo 
+four: suo wa suo 
+four: tue wa tuwa 
+fruit: amukñ 
+fruit: monggo 
+fruit: moŋgo 
+fruit: moŋo 
+full: kausunggua | kau su*gw~a	kausuŋgua 
+full: kausuŋgua | kau su*gw~a	kausuŋgua 
+full: kaw | kau su*gw~a	kausuŋgua 
+girl: ambai 
+girl: amunga 
+give: teingga | teiŋga	teuŋgua	to- 
+give: teiŋga | teiŋga	teuŋgua	to- 
+give: teunggua | teiŋga	teuŋgua	to- 
+give: teuŋgua | teiŋga	teuŋgua	to- 
+give: to- | teiŋga	teuŋgua	to- 
+give: tono- | teiŋga	teuŋgua	to- 
+good: wagai 
+grass: kugl 
+grass: kukl 
+grass: kukñ 
+grass: kulu 
+green: kama | kama	morunduŋwa	murundu 
+green: molunandeŋua | kama	morunduŋwa	murundu 
+green: morunduŋwa | kama	morunduŋwa	murundu 
+green: murundu | kama	morunduŋwa	murundu 
+guts: de kaie 
+guts: dem kane 
+guts: dena 
+hair: (bile) enie | bire iŋo	iŋguno	iŋo	yungo	yuŋo 
+hair: (bire) iŋo | bire iŋo	iŋguno	iŋo	yungo	yuŋo 
+hair: inggu-no | bire iŋo	iŋguno	iŋo	yungo	yuŋo 
+hair: iŋguno | bire iŋo	iŋguno	iŋo	yungo	yuŋo 
+hair: yungo | bire iŋo	iŋguno	iŋo	yungo	yuŋo 
+hair: yun.go | bire iŋo	iŋguno	iŋo	yungo	yuŋo 
+hair: yuŋo | bire iŋo	iŋguno	iŋo	yungo	yuŋo 
+hand: onggo-na | o*guna	ogu	oŋgo-na	oŋguno	oŋo	oŋu-na 
+hand: oŋgo-na | o*guna	ogu	oŋgo-na	oŋguno	oŋo	oŋu-na 
+hand: onggu-no | o*guna	ogu	oŋgo-na	oŋguno	oŋo	oŋu-na 
+hand: oŋguno | o*guna	ogu	oŋgo-na	oŋguno	oŋo	oŋu-na 
+hand: oŋo | o*guna	ogu	oŋgo-na	oŋguno	oŋo	oŋu-na 
+hand: oŋoie | o*guna	ogu	oŋgo-na	oŋguno	oŋo	oŋu-na 
+hand: oŋu-na | o*guna	ogu	oŋgo-na	oŋguno	oŋo	oŋu-na 
+head: bile | bire	bit-na	bɪtɪno 
+head: bire | bire	bit-na	bɪtɪno 
+head: biti-no | bire	bit-na	bɪtɪno 
+head: bit-na | bire	bit-na	bɪtɪno 
+head: bɪtɪno | bire	bit-na	bɪtɪno 
+hear: pilu- | pirika	pru-	pru-kua	prukw~a	purukua 
+hear: pirika | pirika	pru-	pru-kua	prukw~a	purukua 
+hear: piríka | pirika	pru-	pru-kua	prukw~a	purukua 
+hear: pru- | pirika	pru-	pru-kua	prukw~a	purukua 
+hear: pru-kua | pirika	pru-	pru-kua	prukw~a	purukua 
+hear: purukua | pirika	pru-	pru-kua	prukw~a	purukua 
+heart: kilu moŋo | kilu mogo	kilu moŋo	kilu po mol-	munduno 
+heart: kilu po mol- | kilu mogo	kilu moŋo	kilu po mol-	munduno 
+heart: munduno | kilu mogo	kilu moŋo	kilu po mol-	munduno 
+heart: siŋe po molu- | kilu mogo	kilu moŋo	kilu po mol-	munduno 
+heavy: yobugñare | yobugɬare 
+here: edla 
+here: mala 
+he/she: ye 
+he/she: yewe 
+he/she: yile 
+hit: bol- 
+hit: bolu- 
+hit: sunggua 
+hit: suŋgua 
+hole: maugl 
+hole: maukl 
+hole: maukñ 
+hole: mogu 
+house: inggukl 
+house: iŋgukñ 
+house: iŋu 
+house: yungu 
+house: yun.gu 
+husband: kiye 
+husband: wie 
+husband: wiye 
+husband: wuie 
+I: na 
+in: bangge 
+kangaroo: kambu bagime 
+kangaroo: noga balime 
+kill: singgokl.kua | sɪŋgokɬkua 
+kill: sɪŋgokñkua | sɪŋgokɬkua 
+knee: gogino | goLko	gogino	kagl golko 
+knee: gogi-no | goLko	gogino	kagl golko 
+knee: kagl golko | goLko	gogino	kagl golko 
+knee: kale golumge | goLko	gogino	kagl golko 
+know: na piríka | pirika	pru-	purukua 
+know: pilu- | pirika	pru-	purukua 
+know: pirika | pirika	pru-	purukua 
+know: pru- | pirika	pru-	purukua 
+know: purukua | pirika	pru-	purukua 
+laugh: gaugl eru- 
+laugh: owe denu- 
+leaf: yage | yaundo	yaund~o 
+leaf: yaundo | yaundo	yaund~o 
+leaf: yowe | yaundo	yaund~o 
+leg: kagl 
+leg: kale 
+leg: kalie 
+leg: kati 
+leg: kat-na 
+lie: paiingga | paiʼiŋga 
+lie: pai\iŋga | paiʼiŋga 
+lie: ukl paiunggua | paiʼiŋga 
+lie: ukñ paiuŋgua | paiʼiŋga 
+lightning: kamen tai 
+lightning: kamu ta 
+live: koro moxka 
+live: mol- 
+live: molu- 
+liver: goŋau-mo | goŋau-mo	munduo kama	mund~una	muŋgo 
+liver: mundu kama | goŋau-mo	munduo kama	mund~una	muŋgo 
+liver: munduo kama | goŋau-mo	munduo kama	mund~una	muŋgo 
+liver: munggo | goŋau-mo	munduo kama	mund~una	muŋgo 
+liver: muŋgo | goŋau-mo	munduo kama	mund~una	muŋgo 
+long: kande | olto 
+long: ol.lh.to | olto 
+long: olto 
+long: olundo | olto 
+louse: niman | numan 
+louse: níman | numan 
+louse: nime | numan 
+louse: numan 
+louse: tolendi | numan 
+louse: tolssi | numan 
+man: yagl | tege	yomba	yomb~a 
+man: yakl | tege	yomba	yomb~a 
+man: yakñ | tege	yomba	yomb~a 
+many: mere 
+man: yomba | tege	yomba	yomb~a 
+meat: mie | mie	miya 
+meat: minde | mie	miya 
+meat: miya | mie	miya 
+moon: ba | ba	mba 
+moon: mba | ba	mba 
+morning: taŋenma mogl 
+morning: taŋenma mol 
+morning: tanggima kana 
+morning: taŋgima kana 
+mosquito: oruglo 
+mosquito: orulo 
+mother: mam 
+mother: mana 
+mountain: (magan) muglo | magan mugɬo	muLo	muglo	mulo 
+mountain: magan mugño | magan mugɬo	muLo	muglo	mulo 
+mountain: muglo | magan mugɬo	muLo	muglo	mulo 
+mountain: mulo | magan mugɬo	muLo	muglo	mulo 
+mouth: dilai | dira	dira-na	dira-ne	dirano	sigin 
+mouth: dira | dira	dira-na	dira-ne	dirano	sigin 
+mouth: dira-na | dira	dira-na	dira-ne	dirano	sigin 
+mouth: dira-ne | dira	dira-na	dira-ne	dirano	sigin 
+mouth: dirano | dira	dira-na	dira-ne	dirano	sigin 
+mouth: dira-no | dira	dira-na	dira-ne	dirano	sigin 
+name: kaŋgin | ka*gina	kaŋgi-na	kaŋgin	kaŋi-ne 
+name: kanggi-n(a) | ka*gina	kaŋgi-na	kaŋgin	kaŋi-ne 
+name: kaŋgi-na | ka*gina	kaŋgi-na	kaŋgin	kaŋi-ne 
+name: kaŋi-ne | ka*gina	kaŋgi-na	kaŋgin	kaŋi-ne 
+near: mambi | maŋgitˑe	maŋigl 
+near: manggigle | maŋgitˑe	maŋigl 
+near: maŋgitòe | maŋgitˑe	maŋigl 
+near: maŋigl | maŋgitˑe	maŋigl 
+neck: nuguno 
+neck: nugu-no | nuguno 
+new: erime | erime	kor	koro 
+new: kolo | erime	kor	koro 
+new: koro | erime	kor	koro 
+night: ande benggwa | anduweri	endeweri	end~iwer	mim eru- 
+night: ande beŋgwa | anduweri	endeweri	end~iwer	mim eru- 
+night: anduweri | anduweri	endeweri	end~iwer	mim eru- 
+night: endeweri | anduweri	endeweri	end~iwer	mim eru- 
+night: mim denu- | anduweri	endeweri	end~iwer	mim eru- 
+night: mim eru- | anduweri	endeweri	end~iwer	mim eru- 
+nose: guma(-no) | guma	guma-ne	gumana	gumano 
+not: taman 
+not: tman | taman 
+old: kindagl 
+old: kindakl 
+old: kindale 
+old: mambuno 
+one: sildao | suara	suařa	suwara	ta	tsuara 
+one: suara | suara	suařa	suwara	ta	tsuara 
+one: ta | suara	suařa	suwara	ta	tsuara 
+one: tsuara | suara	suařa	suwara	ta	tsuara 
+person: tege | tege	yomba	yomb~a 
+person: yomba | tege	yomba	yomb~a 
+rain: kamen sunggwa | kamen suŋgwa	kamen suŋua	kamun 
+rain: kamen suŋgwa | kamen suŋgwa	kamen suŋua	kamun 
+rain: kamen suŋua | kamen suŋgwa	kamen suŋua	kamun 
+rain: kamun | kamen suŋgwa	kamen suŋua	kamun 
+rat: dua 
+rat: inau 
+red: bale | bogl	gogl	gokɬ 
+red: bogl | bogl	gogl	gokɬ 
+red: gogl | bogl	gogl	gokɬ 
+red: gokl | bogl	gogl	gokɬ 
+red: gokñ | bogl	gogl	gokɬ 
+road: konbo 
+road: konmbo | konbo 
+road: konobo | konbo 
+road: konumbo | konbo 
+road: kon(um)bo | konbo 
+root: dombe | duglo	dugɬuo 
+root: duglo | duglo	dugɬuo 
+root: dugl(u)o | duglo	dugɬuo 
+root: dugñuo | duglo	dugɬuo 
+rope: ka:n 
+rope: kaːn 
+rope: kun 
+rope: yaga 
+rope: yerewam 
+rope: yiruane 
+round: memgo | memgo	meŋgu 
+round: menggu | memgo	meŋgu 
+round: meŋgu | memgo	meŋgu 
+salt: kowo | mundi 
+salt: mundi 
+sand: ogupu 
+say: dinu- | du-	kateuŋgua	ndi-ŋga 
+say: du- | du-	kateuŋgua	ndi-ŋga 
+say: kandi | du-	kateuŋgua	ndi-ŋga 
+say: kate-unggua | du-	kateuŋgua	ndi-ŋga 
+say: kateuŋgua | du-	kateuŋgua	ndi-ŋga 
+say: ndi-ngga | du-	kateuŋgua	ndi-ŋga 
+say: ndi-ŋga | du-	kateuŋgua	ndi-ŋga 
+seed: amukl | mogo	moŋo	muŋgo 
+seed: moŋo | mogo	moŋo	muŋgo 
+seed: munggo | mogo	moŋo	muŋgo 
+seed: muŋgo | mogo	moŋo	muŋgo 
+see: kan- | kan-	kaniŋga	kanu-	kanungw$a	kanuŋgua 
+see: kan-ingga | kan-	kaniŋga	kanu-	kanungw$a	kanuŋgua 
+see: kaniŋga | kan-	kaniŋga	kanu-	kanungw$a	kanuŋgua 
+see: kanu- | kan-	kaniŋga	kanu-	kanungw$a	kanuŋgua 
+see: kanunggua | kan-	kaniŋga	kanu-	kanungw$a	kanuŋgua 
+see: kanuŋgua | kan-	kaniŋga	kanu-	kanungw$a	kanuŋgua 
+sharp: mugo no- 
+sharp: mulo nono- 
+short: sumbuie | suŋunagl 
+short: suŋunagl 
+sister: ambara 
+sister: ámbara 
+sister: ambauglo 
+sister: ambaulo 
+sister: ambirino 
+sister: ambiri-no 
+sit: amendingga | amendiŋga	mokɬkua 
+sit: amendiŋga | amendiŋga	mokɬkua 
+sit: mokl.kua | amendiŋga	mokɬkua 
+sit: mokñkua | amendiŋga	mokɬkua 
+skin: gaŋe | gaŋgino	gaŋie	na*g~ina	naŋgie	naŋie 
+skin: ganggi-no | gaŋgino	gaŋie	na*g~ina	naŋgie	naŋie 
+skin: gaŋgino | gaŋgino	gaŋie	na*g~ina	naŋgie	naŋie 
+skin: gaŋie | gaŋgino	gaŋie	na*g~ina	naŋgie	naŋie 
+skin: nanggie | gaŋgino	gaŋie	na*g~ina	naŋgie	naŋie 
+skin: naŋgie | gaŋgino	gaŋie	na*g~ina	naŋgie	naŋie 
+skin: naŋie | gaŋgino	gaŋie	na*g~ina	naŋgie	naŋie 
+sky: kamen 
+sky: kamu 
+sky: kamun 
+sleep: uglh paiunggua | ugɬ paiuŋgua 
+sleep: ugñ paiuŋgua | ugɬ paiuŋgua 
+small: kembele | kembera	kembere	kembre	kemgere	uru 
+small: kembera | kembera	kembere	kembre	kemgere	uru 
+small: kembere | kembera	kembere	kembre	kemgere	uru 
+small: kembre | kembera	kembere	kembre	kemgere	uru 
+small: kemgere | kembera	kembere	kembre	kemgere	uru 
+small: uru | kembera	kembere	kembre	kemgere	uru 
+smell: kumbuno 
+smell: kumuno 
+smoke: ende inge | ende inge	iŋge 
+smoke: (ende) ingge | ende inge	iŋge 
+smoke: iŋge | ende inge	iŋge 
+smoke: iŋu dinbi | ende inge	iŋge 
+smoke: iŋu dinenbi | ende inge	iŋge 
+smooth: windan denu- 
+smooth: windan du- 
+snake: togi | togi	togoi	toki 
+snake: togoi | togi	togoi	toki 
+snake: tog(o)i | togi	togoi	toki 
+snake: toki | togi	togoi	toki 
+snake: tomoi | togi	togoi	toki 
+snow: aragl moŋo 
+snow: aral moŋo 
+snow: ninbugl 
+snow: numbulu 
+son: gaŋe 
+son: wam 
+spit: nu su- 
+spit: su sunu- 
+split: ekiri 
+stand: andiklh.kua 
+stand: andikñkua 
+stand: andixka 
+star: ku:gl | kuL kuri	kukɬ	kuːgl 
+star: kuːgl | kuL kuri	kukɬ	kuːgl 
+star: kuːgl kuri | kuL kuri	kukɬ	kuːgl 
+star: kukl | kuL kuri	kukɬ	kuːgl 
+star: kukñ | kuL kuri	kukɬ	kuːgl 
+star: kulu | kuL kuri	kukɬ	kuːgl 
+star: kulu kole | kuL kuri	kukɬ	kuːgl 
+stone: kobuglo | kobuglo	kombuglo	kombugɬo	komb~uLo 
+stone: kombuglo | kobuglo	kombuglo	kombugɬo	komb~uLo 
+stone: kombugño | kobuglo	kombuglo	kombugɬo	komb~uLo 
+stone: kombulo | kobuglo	kombuglo	kombugɬo	komb~uLo 
+stone: komubulu | kobuglo	kombuglo	kombugɬo	komb~uLo 
+straight: dimende 
+straight: dimendi 
+sun: ande | ande	and~e 
+sun: ande-sunggua | ande	and~e 
+swim: atineonggua | atineoŋgua 
+swim: atineoŋgua 
+tail: yagle | yagle	yagɬe 
+tail: yagñe | yagle	yagɬe 
+tail: yande | yagle	yagɬe 
+take: inu- 
+take: iu- 
+that: i | i	inda 
+that: inda | i	inda 
+there: igl 
+there: iro 
+there: suglo 
+there: sugño 
+they two: ye 
+they two: ye čuo 
+they: ye 
+thick: ponde 
+thick: pondo 
+thigh: bigie 
+thigh: bimie 
+this: i 
+thou: ene 
+thou: ni | ene 
+three: suata 
+three: suo ta 
+three: tsuo ta 
+three: tue wa tawa 
+throat: nuŋu-na 
+thunder: kamen guru 
+thunder: kamu gulu 
+today: ereme 
+today: erime 
+today: kendi 
+tomorrow: barma 
+tomorrow: taŋenma 
+tomorrow: tonggima 
+tomorrow: toŋgima 
+tongue: dilambe | dirambena	dirambie	dirambino	dramb~ina 
+tongue: dirambena | dirambena	dirambie	dirambino	dramb~ina 
+tongue: dirámbe-na | dirambena	dirambie	dirambino	dramb~ina 
+tongue: dirambie | dirambena	dirambie	dirambino	dramb~ina 
+tongue: dirambino | dirambena	dirambie	dirambino	dramb~ina 
+tongue: dirambi-no | dirambena	dirambie	dirambino	dramb~ina 
+tooth: siŋe | mogo	si*gina	sigin mogo	siŋguno	siŋie	tsiŋga-na 
+tooth: singgu-no | mogo	si*gina	sigin mogo	siŋguno	siŋie	tsiŋga-na 
+tooth: siŋguno | mogo	si*gina	sigin mogo	siŋguno	siŋie	tsiŋga-na 
+tooth: siŋie | mogo	si*gina	sigin mogo	siŋguno	siŋie	tsiŋga-na 
+tooth: tsiŋga-na | mogo	si*gina	sigin mogo	siŋguno	siŋie	tsiŋga-na 
+tooth: tsinggi-na | mogo	si*gina	sigin mogo	siŋguno	siŋie	tsiŋga-na 
+tree: ende | end~i 
+tree: endi | end~i 
+tree: inde | end~i 
+turn: wage denu- 
+turn: wagu- 
+two: suo | suo	suwo	tsuo 
+two: tsuo | suo	suwo	tsuo 
+two: tue | suo	suwo	tsuo 
+vagina: sumbuno 
+walk: kombounggua | konbouŋgua 
+walk: konbouŋgua 
+walk: onggua | konbouŋgua 
+walk: oŋgua | konbouŋgua 
+walk: po | konbouŋgua 
+walk: po! | konbouŋgua 
+walk: wani-ngga | konbouŋgua 
+wallaby: kambu 
+warm: piraglendi | piragɬendi 
+warm: piragñendi | piragɬendi 
+wash: nikl pani 
+wash: nikñ pani 
+water: nigl | niL	nigl	nikɬ 
+water: nikl | niL	nigl	nikɬ 
+water: nikñ | niL	nigl	nikɬ 
+water: nu | niL	nigl	nikɬ 
+weep: agleindingga 
+weep: agleindiŋga 
+weep: kai eru- 
+weep: kaierukua 
+weep: kimbi denu- 
+weep: on.gumuglo nuglo 
+weep: ongumuglo nuglo 
+we: no 
+we: nono 
+wet: kutunggua 
+wet: kutuŋgua 
+we two (incl.): no 
+we two (incl.): no čuo 
+what: nali | siragl	sirakɬ	tsiragl 
+what: siragl | siragl	sirakɬ	tsiragl 
+what: sirakl | siragl	sirakɬ	tsiragl 
+what: sirakñ | siragl	sirakɬ	tsiragl 
+what: tsiragl | siragl	sirakɬ	tsiragl 
+what: tsirágl | siragl	sirakɬ	tsiragl 
+when: aunake 
+where: aglo 
+white: kiruo | kiruo	kruo	kruwo 
+white: kruo | kiruo	kruo	kruwo 
+white: kruwo | kiruo	kruo	kruwo 
+white: kuluo | kiruo	kruo	kruwo 
+who: indaowa | ira 
+who: ira 
+wife: embena 
+wife: embie 
+wind: goli | ire	iri 
+wind: ire | ire	iri 
+wind: iri | ire	iri 
+woman: ambai | ambai	ambu 
+woman: ambu | ambai	ambu 
+wood: buglo 
+wood: buluman 
+wood: edi 
+yellow: dindunggua | dinduŋgua	kilen 
+yellow: dinduŋgua | dinduŋgua	kilen 
+yellow: kilen | dinduŋgua	kilen 
+yellow: kilien | dinduŋgua	kilen 
+yes: oʔo 
+yesterday: ediwe 
+yesterday: elemandi 
+yesterday: endere 
+yesterday: endewende 
+you two: ene 
+you two: ene čuo 
+every: munda	pra pra 
+ash: iŋum	yegum	yuŋgum 
+abdomen: deno	goŋau-mo 
+bigness: kande	pondo 
+large: kande	pondo 
+breasts: amu	amu-na	amuno 
+nail: winagɬe 
+talon: winagɬe 
+come from: oŋgua	u*gw~a	u-	uŋua 
+be dead: goLkw~a	gol-	goɬkua 
+dead: goLkw~a	gol-	goɬkua 
+ground: magan 
+land: magan 
+soil: magan 
+fly: endoŋgua 
+fly v.: endoŋgua 
+left hand: o*guna	ogu	oŋgo-na	oŋguno	oŋo	oŋu-na 
+right: o*guna	ogu	oŋgo-na	oŋguno	oŋo	oŋu-na 
+horn: bre yo*gaLe 
+1 sg.: na 
+be knowledgeable: pirika	pru-	purukua 
+lie down: paiʼiŋga 
+head louse: numan 
+male: yagl	yakɬ	yomba 
+much: mere 
+multiple: mere 
+several: mere 
+flesh: mie	miya 
+hill: magan mugɬo	muLo	muglo	mulo 
+title: ka*gina	kaŋgi-na	kaŋgin	kaŋi-ne 
+nighttime: anduweri	endeweri	end~iwer	mim eru- 
+adulterous: suara	suařa	suwara	ta	tsuara 
+single: suara	suařa	suwara	ta	tsuara 
+the: suara	suařa	suwara	ta	tsuara 
+unprincipled: suara	suařa	suwara	ta	tsuara 
+human: tege	yomba	yomb~a 
+human being: tege	yomba	yomb~a 
+rainy weather: kamen suŋgwa	kamen suŋua	kamun 
+path: konbo 
+route: konbo 
+hide: gaŋgino	gaŋie	na*g~ina	naŋgie	naŋie 
+little: kembera	kembere	kembre	kemgere	uru 
+smallness: kembera	kembere	kembre	kemgere	uru 
+rock: kobuglo	kombuglo	kombugɬo	komb~uLo 
+2 sg: ene 
+you: ene 
+grind: suo	suwo	tsuo 
+go: konbouŋgua 
+hot: piragɬendi 
+1 pl. inc.: no 
+we₁: no 
+whiteness: kiruo	kruo	kruwo 
+who?: ira 
+female: ambai	ambu 
+distant: elke 
+dull: yobugɬare 
+serious: yobugɬare 
+close: maŋgitˑe	maŋigl 
+ner: maŋgitˑe	maŋigl 

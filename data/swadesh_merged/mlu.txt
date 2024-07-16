@@ -1,0 +1,266 @@
+all: teʔefau 
+every: teʔefau 
+ash: fuʔa 
+ashes: fuʔa 
+abdomen: rake 
+belly: rake 
+big: baʔita 
+bigness: baʔita 
+large: baʔita 
+bird: manu 
+bite: ʔala 
+black: mboomboraʔa 
+blood: amb~u	ʔambu 
+bone: oNg~i	ʔoŋgi 
+breast: susu 
+breasts: susu 
+burn: naʔarea 
+burn tr.: naʔarea 
+cloud: daɵa 
+cold: ŋgwaŋgwarila 
+come: lae mai 
+come from: lae mai 
+be dead: mae 
+dead: mae 
+die: mae 
+dog: kui 
+drink: ku7u	kuʔu 
+dry: raaraŋeʔa 
+ear: aaliŋa	aliNa 
+eat: faŋa 
+egg: ɵaaluʔi 
+eye: ma	maa 
+feather: iifu 
+fire: eera	era 
+fish: i7a	iʔa 
+fly: lofo 
+fly v.: lofo 
+good: leʔa 
+green: marakwa 
+hair: iifu 
+hand: amb~a	ʔamba 
+left hand: amb~a	ʔamba 
+right: amb~a	ʔamba 
+head: gwau 
+hear: roNo	roŋo 
+1 sg.: nau 
+I: nau 
+kill: ɵauŋia 
+be knowledgeable: ɵaitaʔomana 
+know: ɵaitaʔomana 
+leaf: reena	rena 
+lie: teo 
+lie down: teo 
+liver: fau	ɵae|fau 
+long: tekwa 
+head louse: u	ʔuu 
+louse: u	ʔuu 
+male: wane 
+man: iimole	imole 
+moon: mandami 
+mouth: foko 
+name: iata	ɵata 
+title: iata	ɵata 
+neck: lua 
+new: faalu	falu 
+night: rondo	rond~o 
+nighttime: rondo	rond~o 
+nose: gwal|usu	usu 
+adulterous: eeta	eta	ɛta 
+one: eeta	eta	ɛta 
+single: eeta	eta	ɛta 
+that: labaa	ʔena 
+the: eeta	eta	ɛta 
+unprincipled: eeta	eta	ɛta 
+human: iimole	imole 
+human being: iimole	imole 
+person: iimole	imole 
+rain: dani 
+rainy weather: dani 
+red: meemenaʔa 
+path: tala 
+road: tala 
+route: tala 
+root: laila 
+sand: ɔɔne 
+say: soreʔa 
+see: rikia 
+sit: ʔono 
+hide: puNa	puŋa 
+skin: puNa	puŋa 
+sleep: biiŋa 
+little: faʔekwa 
+small: faʔekwa 
+smallness: faʔekwa 
+smoke: ɵasu 
+star: bubulu 
+rock: fau 
+stone: fau 
+swim: siisiu 
+tail: kiikiʔu 
+this: neʔe 
+2 sg: oe	ʔoe 
+thou: oe	ʔoe 
+you: oe	ʔoe 
+tongue: mea 
+tooth: lifo 
+grind: rua 
+two: rua 
+go: lae 
+walk: lae 
+hot: ʔaaʔako 
+warm: ʔaaʔako 
+water: kafo 
+1 pl. inc.: kamiliʔa	kulu 
+we: kamiliʔa	kulu 
+we₁: kamiliʔa	kulu 
+what: taa 
+white: kwaakwaoʔa 
+whiteness: kwaakwaoʔa 
+who: tei 
+who?: tei 
+female: kini 
+woman: kini 
+yellow: kookoaʔa 
+distant: daa 
+far: daa 
+dull: kuluʔa 
+heavy: kuluʔa 
+serious: kuluʔa 
+close: karaŋi 
+near: karaŋi 
+ner: karaŋi 
+salt: ʔamali 
+short: kuukuru 
+snake: loi 
+thin: gaaŋgaroʔa 
+wind: ɵauɵau 
+earthworm: mwaa/waa 
+worm: mwaa/waa 
+year: ŋali 
+2 pl.: kamaluʔa 
+ye: kamaluʔa 
+you all: kamaluʔa 
+3 pl.: kera 
+they: kera 
+where: fei 
+where?: fei 
+when: kanda taa 
+when?: kanda taa 
+how: fania 
+how?: fania 
+other: ruana 
+three: ulu 
+four: fai 
+five: lima 
+broad: reerembaʔa 
+wide: reerembaʔa 
+wideness: reerembaʔa 
+fat: niiniu 
+thick: buloʔa 
+narrow: sisi|kofi 
+principal wife: kukeʔe 
+wife: kukeʔe 
+husband: aaraʔi 
+his mother: ɵa|ina 
+mother: ɵa|ina 
+my mother: ɵa|ina 
+father: maka 
+his father: maka 
+my father: maka 
+forest: masuʔu 
+woods: masuʔu 
+branch: ɵaarana 
+stick: ɵaarana 
+fruit: foana 
+flower: taŋgana 
+grass: lolo 
+cord: ʔoko 
+rope: ʔoko 
+flesh: siina 
+meat: siina 
+grease: niiniu 
+wing: ʔaʔambara 
+gut: ooŋga 
+guts: ooŋga 
+insides: ooŋga 
+intestine: ooŋga 
+intestines: ooŋga 
+back: suli 
+suck: notofia 
+spit: nisu 
+vomit: moa 
+blow: ʔufu 
+breath: ʔasimaŋo 
+breathe: ʔasimaŋo 
+laugh: mwaela	waela 
+laughter: mwaela	waela 
+cogitate: manata 
+reflect: manata 
+think: manata 
+smell: makwa	toʔana 
+sniff: makwa	toʔana 
+afraid: maʔu 
+be afraid: maʔu 
+fear: maʔu 
+fright: maʔu 
+alive: maruki 
+be alive: maruki 
+life: maruki 
+live: maruki 
+living: maruki 
+hunt: toʔi 
+beat: kumua 
+hit: kumua 
+strike: kumua 
+cut: kasia 
+hack: kasia 
+cut open: kwaʔea 
+split: kwaʔea 
+pierce: lambua 
+stab: lambua 
+scratch: kamea 
+dig: ʔili 
+stand: takwe 
+drop: ʔasia 
+fall: ʔasia 
+grasp: raʔua 
+hold: raʔua 
+hold in arm: raʔua 
+squeeze: ŋiloa 
+wring: ŋiloa 
+throw: ʔuu 
+bind: kania 
+fasten: kania 
+tie: kania 
+tie up: kania 
+sew: raʔoa 
+count: teʔemaʔi 
+enumerate: teʔemaʔi 
+number: teʔemaʔi 
+tally: teʔemaʔi 
+flow: iiŋgwa 
+lake: rondo 
+ocean: ʔamali 
+sea: ʔamali 
+dust: naan|afu 
+fog: daɵasusu 
+sky: ɵalo 
+bad: taʔaa 
+evil: taʔaa 
+rot: fura 
+rotten: fura 
+dirty: biliʔa 
+filthy: biliʔa 
+soiled: biliʔa 
+sharp: ŋari 
+blunt: foo 
+damp: ŋgwiŋa 
+wet: ŋgwiŋa 
+right side: aʔola 
+left: mauli 
+at: ʔisana 
+in: ʔilaa 
+inside: ʔilaa 
+and: maa 
+if: ma|sa 

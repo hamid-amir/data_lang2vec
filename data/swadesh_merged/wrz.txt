@@ -1,0 +1,419 @@
+ankle: ann-gro 
+ankle: annmo 
+arm: ajinn 
+arm: ann-goronng 
+arm: murnuk 
+back: ngolo | an-gibe	an-kipar	gibet-	ngolo 
+bad: allwarra | -waru	allwarra	giɟak	wairing	yoyo	ɟamiɲ-m-aḷ 
+bad: wairing | -waru	allwarra	giɟak	wairing	yoyo	ɟamiɲ-m-aḷ 
+bad: yoyo | -waru	allwarra	giɟak	wairing	yoyo	ɟamiɲ-m-aḷ 
+belly: anndoyi | an-miɲ	ann-doyi	margill	ngoldɛg 
+belly: maːda | an-miɲ	ann-doyi	margill	ngoldɛg 
+belly: margill | an-miɲ	ann-doyi	margill	ngoldɛg 
+belly: ngoldɛg | an-miɲ	ann-doyi	margill	ngoldɛg 
+bird: jardok | jardok	ɟaḍuk 
+blood: gulminn | gulminn	gurac	kuraT	kuraj	kurak 
+blood: kuraj | gulminn	gurac	kuraT	kuraj	kurak 
+blood: kurak | gulminn	gurac	kuraT	kuraj	kurak 
+bone: annmau | an-mu	ann-mau	mu	un-moa 
+bone: unmoa | an-mu	ann-mau	mu	un-moa 
+boy: allil 
+boy: ambut 
+boy: auwirra 
+boy: darragit 
+boy: megulgul 
+breast: d\utut | TuTuT	dʼutut	gawn	ying	ɟuɟuc 
+breast: gawn | TuTuT	dʼutut	gawn	ying	ɟuɟuc 
+breast: ying | TuTuT	dʼutut	gawn	ying	ɟuɟuc 
+brother: boppa 
+brother: unbuba 
+calf: annbuin 
+calf: ann-gorro 
+cold: allal | -laḷ	allal 
+crocodile: bira 
+crocodile: dɛgul 
+crocodile: genult 
+crocodile: maimakko 
+die: bajum | Tu	ɟu-m 
+die: nulgmeung | Tu	ɟu-m 
+dog: ng\iri | Niri	ngʼiri	wɛruk	yiri	ŋiri 
+dog: wɛruk | Niri	ngʼiri	wɛruk	yiri	ŋiri 
+dog: yiri | Niri	ngʼiri	wɛruk	yiri	ŋiri 
+drink: mabel | bi-ḷ	mabel	pi 
+ear: ann-gonnem | an-ganim	ann-gonnem	dalpi	kanim 
+ear: dalpi | an-ganim	ann-gonnem	dalpi	kanim 
+earth: quill | yuil	yul- 
+earth: yuil | yuil	yul- 
+elbow: annkonmo 
+emu: morin 
+eye: anndum | an-dum	ann-dum	mibull	tum	undum 
+eye: anndumonndi | an-dum	ann-dum	mibull	tum	undum 
+eye: marluk | an-dum	ann-dum	mibull	tum	undum 
+eye: mibull | an-dum	ann-dum	mibull	tum	undum 
+eye: undum | an-dum	ann-dum	mibull	tum	undum 
+father: awarrago | a-yuway	awarrago	bibi	bipi	pipi	tchardba 
+father: bibi | a-yuway	awarrago	bibi	bipi	pipi	tchardba 
+father: tchardba | a-yuway	awarrago	bibi	bipi	pipi	tchardba 
+finger: adalpi 
+fingernail: unbillum | an-nabat-bidiɲ	unbillum 
+fire: verk | verk	wak	weirk	wek	wurk	wuruk 
+fire: weirk | verk	wak	weirk	wek	wurk	wuruk 
+fire: wuruk | verk	wak	weirk	wek	wurk	wuruk 
+fish: jelako | Tipak	jelako	mardigal	ɟibak 
+fish: mardigal | Tipak	jelako	mardigal	ɟibak 
+fly (n.): morok 
+fly (n.): ngɛla 
+foot: amul | amul	an-ŋube	an-ŋupar	ann-goba	undjora	ŋubat- 
+foot: ann-goba | amul	an-ŋube	an-ŋupar	ann-goba	undjora	ŋubat- 
+foot: undjora | amul	an-ŋube	an-ŋupar	ann-goba	undjora	ŋubat- 
+forehead: annwalma 
+girl: anmodalpa 
+girl: pfotatta 
+girl: ulwɛn 
+good: ammokwao | -muku	ammokwao	amoku	nglɛgamura 
+good: amoku | -muku	ammokwao	amoku	nglɛgamura 
+good: nglɛgamura | -muku	ammokwao	amoku	nglɛgamura 
+grass: jetpum | jetpum	ɟitbam 
+hair: annmar | annmar	bɛmjuruk	mannmar	mida	miɟa 
+hair: bɛmjuruk | annmar	bɛmjuruk	mannmar	mida	miɟa 
+hair: mannmar | annmar	bɛmjuruk	mannmar	mida	miɟa 
+hair: mida | annmar	bɛmjuruk	mannmar	mida	miɟa 
+hair: tolmida | annmar	bɛmjuruk	mannmar	mida	miɟa 
+hand: abill | abill	an-napar	an-nebe	ann-moa	annnabi	bɛrɛk	nabat-	napa 
+hand: annmoa | abill	an-napar	an-nebe	ann-moa	annnabi	bɛrɛk	nabat-	napa 
+hand: annnabi | abill	an-napar	an-nebe	ann-moa	annnabi	bɛrɛk	nabat-	napa 
+hand: bɛrɛk | abill	an-napar	an-nebe	ann-moa	annnabi	bɛrɛk	nabat-	napa 
+head: annbon | an-bam	annbon	immbun	mengalap 
+head: immbun | an-bam	annbon	immbun	mengalap 
+head: mengalap | an-bam	annbon	immbun	mengalap 
+house: maiwa 
+I: arraman | 5ak	arraman	at-	niak	ŋek 
+I: niak | 5ak	arraman	at-	niak	ŋek 
+jaw: adamkill 
+jaw: anndomkok 
+kangaroo: kupa 
+kangaroo: kupu 
+kangaroo: taning 
+knee: umbɛrt | an-baṭ	pat	umbɛrt 
+lake: nglanga | an-luŋga 
+lake: unbull | an-luŋga 
+laugh: gommenn-gommenn | gommenn-gommenn	gundi-wo-y	gundi-yi-ɲ	yeaumun 
+laugh: yeaumun | gommenn-gommenn	gundi-wo-y	gundi-yi-ɲ	yeaumun 
+leg: ungarra | an-gara	ungarra 
+lightning: bulum 
+lip: ngɛlk 
+lip: unnduli 
+man: bumbiligo | a-waray	al-waray	nalmok 
+man: deinmulva | a-waray	al-waray	nalmok 
+man: dulrgwin | a-waray	al-waray	nalmok 
+man: kingulpoya | a-waray	al-waray	nalmok 
+many: abugamu | -gubam	abugamu 
+moon: deat | deat	gaɹ̣aŋ	karrong	kommil	korung 
+moon: karrong | deat	gaɹ̣aŋ	karrong	kommil	korung 
+moon: kommil | deat	gaɹ̣aŋ	karrong	kommil	korung 
+moon: korung | deat	gaɹ̣aŋ	karrong	kommil	korung 
+morning: lauri lauriwa 
+morning: meril mulknewing 
+morning: ungulɛra 
+mosquito: beundo 
+mosquito: kimmiel 
+mosquito: nael 
+mother: bulbil | al-tumi	al-tumin	al-walin	bulbil	bulbul	innarrago	kɛrung	waraŋ	warra 
+mother: innarrago | al-tumi	al-tumin	al-walin	bulbil	bulbul	innarrago	kɛrung	waraŋ	warra 
+mother: kɛrung | al-tumi	al-tumin	al-walin	bulbil	bulbul	innarrago	kɛrung	waraŋ	warra 
+mother: warra | al-tumi	al-tumin	al-walin	bulbil	bulbul	innarrago	kɛrung	waraŋ	warra 
+mountain: bɛran ngire 
+mountain: garaui | bɛran ngire 
+mountain: giri | bɛran ngire 
+mouth: unnyulk | an-ɟili	unn-yulk 
+name: naban | 5i	an-nyi	naban	yemin-gi 
+name: yemin-gi | 5i	an-nyi	naban	yemin-gi 
+navel: annlannjerruk 
+night: gullaruk | 5ikpa	gullaruk	ŋik-ba 
+night: jorkmilwa | 5ikpa	gullaruk	ŋik-ba 
+not: awulla | amala 
+not: kwaella | amala 
+not: wado | amala 
+not: wagge | amala 
+not: waggi | amala 
+old: dattpulla 
+old: imbillalgi 
+old: tholba-tholba 
+one: enjeri | Tari5	an-ceriŋ	en-jeri	enjèrri	u-derinn	ɟeriɲ 
+one: uderinn | Tari5	an-ceriŋ	en-jeri	enjèrri	u-derinn	ɟeriɲ 
+person: nalmok | a-waray	al-waray	nalmok 
+rain: palmur | palmur	wik	wɛɛk 
+rain: wɛɛk | palmur	wik	wɛɛk 
+rain: wik | palmur	wik	wɛɛk 
+river: ngugmɛri | ngugmɛri	unboa 
+river: porpalian | ngugmɛri	unboa 
+river: unboa | ngugmɛri	unboa 
+root: undort | an-dek-bam-bul	an-duṭ	undort 
+salt: abolongu | abolongu	ɟaɲbalk 
+sand: your | yok	your 
+say: mattgo-inge | ɟi-yi | yok	your 
+sea: tjainbulk 
+shoulder: abelma 
+shoulder: annmonukk 
+sister: dinda 
+sister: mulginn 
+sit: anninni | anninni	ni	pfaddminninni 
+sit: pfaddminninni | anninni	ni	pfaddminninni 
+sky: unban | an-baṇ	bamŋul	unban 
+sleep: areiyi | areiyi	dumgiga	maiyi	maiyuol	yu-ŋ 
+sleep: maiyi | areiyi	dumgiga	maiyi	maiyuol	yu-ŋ 
+sleep: maiyuol | areiyi	dumgiga	maiyi	maiyuol	yu-ŋ 
+smoke: undumugma | undumugma	wal	wal-biyam 
+snake: bann | bann	baonobaon	belam	belem	bellum	gunda	moballago 
+snake: baonobaon | bann	baonobaon	belam	belem	bellum	gunda	moballago 
+snake: bellum | bann	baonobaon	belam	belem	bellum	gunda	moballago 
+snake: gunda | bann	baonobaon	belam	belem	bellum	gunda	moballago 
+snake: moballago | bann	baonobaon	belam	belem	bellum	gunda	moballago 
+spit: gulaba | ɟukbaṭ-m-aḷ 
+star: mullibi | giŋiɲɟak	kiNi5Tak	mullibi 
+stone: keri | giri	keri	kiri	pɛɛt 
+stone: pɛɛt | giri	keri	kiri	pɛɛt 
+sun: giguil | giguil	mawarrik	meril	miral 
+sun: mawarrik | giguil	mawarrik	meril	miral 
+sun: meril | giguil	mawarrik	meril	miral 
+sun: miral | giguil	mawarrik	meril	miral 
+swim: marbirrami | marbirrami	marrimmar	nyip-m-aḷ 
+swim: marrimmar | marbirrami	marrimmar	nyip-m-aḷ 
+thigh: abell 
+thigh: anndarato 
+thigh: annmullok 
+thou: moan | Nu5	an-	moan	moann	ŋuɲ 
+thou: moann | Nu5	an-	moan	moann	ŋuɲ 
+three: garank enjerri | garank enjerri	garànkenjeri	giraŋ-a-ɟeriɲ 
+throw: laggin | laggin	wut-m-aḷ 
+thunder: duridmin 
+thunder: koddaduridma 
+thunder: yukur 
+today: wenluk 
+today: wunlak 
+tomorrow: loriwar 
+tongue: unnjenn | Tan	an-ɟen	daŋʔ-m-aḷ	unnjenn 
+tooth: aliddma | aliddma	an-letma	ayimmerrikk	latma	nglaimor 
+tooth: ayimmerrikk | aliddma	an-letma	ayimmerrikk	latma	nglaimor 
+tooth: nglaimor | aliddma	an-letma	ayimmerrikk	latma	nglaimor 
+tree: laianth | yumpal 
+two: geranklul | garànklul	geranklul	giraŋlul	giraŋʔlul	karaNlul	pila-wila 
+vagina: ual 
+walk: main | main	wiriɲʔ-m-aḷ	yaŋ	yiark 
+walk: yak | main	wiriɲʔ-m-aḷ	yaŋ	yiark 
+walk: yiark | main	wiriɲʔ-m-aḷ	yaŋ	yiark 
+water: ungaitkatja | an-bul-	ungaitkatja	unpunyero	wik	yik 
+water: unpunyero | an-bul-	ungaitkatja	unpunyero	wik	yik 
+water: wik | an-bul-	ungaitkatja	unpunyero	wik	yik 
+water: yik | an-bul-	ungaitkatja	unpunyero	wik	yik 
+weep: dollumun 
+weep: ra-i 
+what: abbon | abbon	abo-in	ŋinyaŋ 
+what: abo-in | abbon	abo-in	ŋinyaŋ 
+where: umbulla bajim | amba	ambala	umbulla bajim 
+wind: ma-itj | ma-itj	mac 
+woman: allamanduba | al-gulbe	al-maṇduba	al-maṇṭupar	al-tumoŋ	alla-manduba 
+woomera: dirik 
+woomera: don 
+woomera: girikk 
+yesterday: gagern 
+yesterday: gogain 
+ash: gaḍul	lora 
+ashes: gaḍul	lora 
+bark: ma-bu-m 
+abdomen: an-miɲ	ann-doyi	margill	ngoldɛg 
+big: -muḍek 
+bigness: -muḍek 
+large: -muḍek 
+bite: be 
+black: -guɟik 
+breasts: TuTuT	dʼutut	gawn	ying	ɟuɟuc 
+cloud: bamŋul 
+come: Tim	ɟim 
+come from: Tim	ɟim 
+be dead: Tu	ɟu-m 
+dead: Tu	ɟu-m 
+dry: -dilmi 
+ground: yuil	yul- 
+land: yuil	yul- 
+soil: yuil	yul- 
+eat: ɟa-ḷ 
+egg: an-gundu 
+feather: an-bun 
+fly: yaŋ 
+fly v.: yaŋ 
+full: guɟili	ŋurak-ɟi-ɲ 
+give: wo-y 
+left hand: abill	an-napar	an-nebe	ann-moa	annnabi	bɛrɛk	nabat-	napa 
+right: abill	an-napar	an-nebe	ann-moa	annnabi	bɛrɛk	nabat-	napa 
+hear: Na	ŋa-m 
+heart: an-doy 
+1 sg.: 5ak	arraman	at-	niak	ŋek 
+kill: bu-m 
+be knowledgeable: mic-na-y	ŋa-m 
+know: mic-na-y	ŋa-m 
+leaf: an-maɹ̣a	mala	malamala	mara 
+liver: Ti	an-ɟi 
+long: -buɹ̣uyu 
+head louse: lal 
+louse: lal 
+male: al	bumbiligo	deinmulva	dulrgwin	kingulpoya	nal	ŋ	ṇal 
+much: -gubam	abugamu 
+multiple: -gubam	abugamu 
+several: -gubam	abugamu 
+flesh: an-yel 
+meat: an-yel 
+hill: bɛran ngire 
+title: 5i	an-nyi	naban	yemin-gi 
+new: -geŋ	kaN 
+nighttime: 5ikpa	gullaruk	ŋik-ba 
+nose: agginngelk	an-gi	ann-ji	gamul	ki 
+adulterous: Tari5	an-ceriŋ	en-jeri	enjèrri	u-derinn	ɟeriɲ 
+single: Tari5	an-ceriŋ	en-jeri	enjèrri	u-derinn	ɟeriɲ 
+that: gaɟi 
+the: Tari5	an-ceriŋ	en-jeri	enjèrri	u-derinn	ɟeriɲ 
+unprincipled: Tari5	an-ceriŋ	en-jeri	enjèrri	u-derinn	ɟeriɲ 
+human: a-waray	al-waray	nalmok 
+human being: a-waray	al-waray	nalmok 
+rainy weather: palmur	wik	wɛɛk 
+red: -bitbit	loywa 
+see: na	na-y 
+hide: an-wik	wik 
+skin: an-wik	wik 
+little: -wak	-wiḷaŋ 
+small: -wak	-wiḷaŋ 
+smallness: -wak	-wiḷaŋ 
+rock: giri	keri	kiri	pɛɛt 
+tail: an-laɲ 
+2 sg: Nu5	an-	moan	moann	ŋuɲ 
+you: Nu5	an-	moan	moann	ŋuɲ 
+grind: garànklul	geranklul	giraŋlul	giraŋʔlul	karaNlul	pila-wila 
+go: main	wiriɲʔ-m-aḷ	yaŋ	yiark 
+1 pl. inc.: i-	yapa	yebe 
+we: i-	yapa	yebe 
+we₁: i-	yapa	yebe 
+white: -duɹ̣k	bulk 
+whiteness: -duɹ̣k	bulk 
+who: abiŋ	ebiŋ 
+who?: abiŋ	ebiŋ 
+female: al-gulbe	al-maṇduba	al-maṇṭupar	al-tumoŋ	alla-manduba 
+distant: yarba	yerba 
+far: yarba	yerba 
+dull: -gun-gun 
+heavy: -gun-gun 
+serious: -gun-gun 
+close: letbal 
+near: letbal 
+ner: letbal 
+short: -ɟacbik 
+thin: -mu-dalkba 
+earthworm: ɟonŋol 
+worm: ɟonŋol 
+year: ɟibiɲ 
+3 sg.: a-gaḷa	ø- 
+he: a-gaḷa	ø- 
+she: a-gaḷa	ø- 
+2 pl.: a-	nigiriŋ 
+ye: a-	nigiriŋ 
+you all: a-	nigiriŋ 
+3 pl.: ba-	bigiriŋ 
+they: ba-	bigiriŋ 
+here: aŋi 
+there: ana	ŋana 
+where?: amba	ambala	umbulla bajim 
+when: amba-wayin 
+when?: amba-wayin 
+how: yiliɲ 
+how?: yiliɲ 
+few: giraŋ-giraŋ 
+other: -ɟeriɲba 
+four: yeligiraŋlul 
+five: -nabat-ɟeriɲ 
+child: mamam	wari 
+principal wife: al-kel	kel 
+wife: al-kel	kel 
+husband: kakkak	nal 
+his mother: al-tumi	al-tumin	al-walin	bulbil	bulbul	innarrago	kɛrung	waraŋ	warra 
+my mother: al-tumi	al-tumin	al-walin	bulbil	bulbul	innarrago	kɛrung	waraŋ	warra 
+his father: a-yuway	awarrago	bibi	bipi	pipi	tchardba 
+my father: a-yuway	awarrago	bibi	bipi	pipi	tchardba 
+animal: waŋ 
+forest: maɹ̣e 
+woods: maɹ̣e 
+flower: an-bit	ɟaɲbit 
+cord: an-bik 
+rope: an-bik 
+fat: an-li 
+grease: an-li 
+claw: an-nabat-bidiɲ	unbillum 
+nail: an-nabat-bidiɲ	unbillum 
+wing: balmuk 
+gut: an-doy	an-ŋuk 
+guts: an-doy	an-ŋuk 
+insides: an-doy	an-ŋuk 
+intestine: an-doy	an-ŋuk 
+intestines: an-doy	an-ŋuk 
+suck: biŋʔ-m-aḷ 
+vomit: gik-m-aḷ 
+blow: biʔ-m-aḷ 
+breath: ŋiɹ̣ʔ-m-aḷ 
+breathe: ŋiɹ̣ʔ-m-aḷ 
+laughter: gommenn-gommenn	gundi-wo-y	gundi-yi-ɲ	yeaumun 
+cogitate: ŋa-m	ɟuŋuɟ- 
+reflect: ŋa-m	ɟuŋuɟ- 
+think: ŋa-m	ɟuŋuɟ- 
+smell: bil-mi 
+sniff: bil-mi 
+afraid: mulci 
+be afraid: mulci 
+fear: mulci 
+fright: mulci 
+fight: bu-m 
+hunt: buk-ga-ŋi 
+beat: bu-m 
+hit: bu-m 
+strike: bu-m 
+cut: daɲʔ-mi 
+hack: daɲʔ-mi 
+pierce: ɟap-m-aḷ 
+stab: ɟap-m-aḷ 
+scratch: deret-bu-m	dirip-bu-m 
+dig: baṇ-ga-ŋgi 
+lie: yak-wo-y 
+lie down: yak-wo-y 
+tell lies: yak-wo-y 
+stand: gulu-ɟ-aŋ 
+drop: li-ɲ 
+fall: li-ɲ 
+grasp: gat-b-aḷ 
+hold: gat-b-aḷ 
+hold in arm: gat-b-aḷ 
+squeeze: biɟip-m-aḷ 
+wring: biɟip-m-aḷ 
+rub: balawa-m 
+wipe: maɹ̣aʔ-m-aḷ 
+wash: wuḷek-m-aḷ 
+wash clothes: wuḷek-m-aḷ 
+bind: guw-aḷ 
+fasten: guw-aḷ 
+tie: guw-aḷ 
+tie up: guw-aḷ 
+sew: lit-bu-m 
+sing: nana-m-aḷ 
+have fun: gaɹ̣ayʔ-bu-m 
+play: gaɹ̣ayʔ-bu-m 
+float: dal-ga-ŋi 
+flow: ɟululu-m-aḷ 
+brook: ngugmɛri	unboa 
+stream: ngugmɛri	unboa 
+dust: lora 
+fog: bimek 
+evil: -waru	allwarra	giɟak	wairing	yoyo	ɟamiɲ-m-aḷ 
+rot: -biyak	ɟonbok 
+rotten: -biyak	ɟonbok 
+straight: -ɟakmi 
+sharp: -dan-muk 
+damp: -guc-guc 
+wet: -guc-guc 
+right side: -gunmuk 
+left: -biɲgu 

@@ -1,0 +1,441 @@
+all: uni\a | uniʔa 
+all: uniʔa 
+arm: ebe- 
+arm: ɛbɛ- 
+arrow: ikil 
+ashes: aiaba | aiaba	aw	oris 
+ashes: alaba | aiaba	aw	oris 
+ashes: aw | aiaba	aw	oris 
+ashes: oris | aiaba	aw	oris 
+back: kokoto- 
+back: pio\ta- 
+bad: mu\pe 
+bad: muʔpɛ 
+belly: vavi- 
+belly: vov- | vavi- 
+big: be:n | bɛːn 
+big: bɛːn 
+bird: ai 
+bird: hai 
+bird: man | ai 
+bite: i\- | iʔ-	kai- 
+bite: iʔ- | iʔ-	kai- 
+bite: kai- | iʔ-	kai- 
+bite: kal- | iʔ-	kai- 
+black: olis\ai | olisʔai	utu 
+black: olisʔai | olisʔai	utu 
+black: utu | olisʔai	utu 
+blood: roka- | loga7	roka- 
+blow: fute- 
+blow: futɛ- 
+bone: fehili- | fehil	fɛhili-	teful 
+bone: fɛhili- | fehil	fɛhili-	teful 
+boy: mer haun 
+boy: mɛr haun 
+breast: hu: | hu tapa7	huː 
+breast: huː | hu tapa7	huː 
+brother: apa 
+brother: oti- matu 
+brother: oti- na\ëk 
+brother: oti- naʔʌk 
+burn: nam- 
+butterfly: paparit 
+calf: matefu- 
+calf: matɛfu- 
+calf: use- 
+calf: usɛ- 
+cassowary: ehir 
+chest: muku- 
+child: mer 
+child: mɛr 
+chin: aka- 
+chin: hipe- 
+chin: hipɛ- 
+cloud: haß | haβ	tain 
+cloud: hav | haβ	tain 
+cloud: tain | haβ	tain 
+cold: aipe | aipɛ 
+cold: aipɛ 
+come: fah- | fah-	fehe7 
+crocodile: vëke 
+crocodile: vʌkɛ 
+cut: ak- 
+dance: sek tu\- 
+day: ie\ 
+day: lehiu 
+day: lɛhiu 
+die: arme- | alme7	armɛ- 
+die: armɛ- | alme7	armɛ- 
+dig: feru- 
+dig: fɛru- 
+dig: hu\- 
+dig: huʔ- 
+dig: rer- 
+dig: rɛr- 
+dirty: kekehin 
+dog: pai | gw~ai	pao 
+dog: pao | gw~ai	pao 
+dry: sahawa 
+ear: tahi- | dahu	tahi- 
+earth: mir | miːr 
+earth: miːr 
+eat: le- | lɛ- 
+eat: lɛ- 
+eat: no- | lɛ- 
+egg: musa 
+elbow: hu\ur 
+elbow: shuʔur 
+emu: ɛhir 
+excrement: pi 
+eye: am | am	amug 
+eye: am- | am	amug 
+face: i- 
+face: ora- 
+fall: bet- 
+fall: fut- 
+fall: o- 
+far: a\anën | aʔanʌn 
+far: aʔanʌn 
+father: meme- 
+father: mɛmɛ- 
+fat (n.): munëhu- 
+fat (n.): munʌhu- 
+fear: umuni- 
+few: kanif 
+fight: fʌn mɛ- 
+finger: mamëk 
+finger: mamʌk 
+fingernail: si 
+fire: rai | lai	rai 
+fish: to:l | a7	tɔːl 
+fish: tɔːl | a7	tɔːl 
+fly (n.): pahur 
+fly (v.): harrur0rɛ- 
+fly (v.): harure- 
+fog: fu:d 
+fog: fuːd 
+forehead: i- 
+forehead: ora- 
+forest: pasiß 
+forest: pasiv 
+fruit: i: 
+fruit: iː 
+full: arepe- | arɛpɛ-	ihio7 
+full: arɛpɛ- | arɛpɛ-	ihio7 
+full: wet- | arɛpɛ-	ihio7 
+full: wɛt- | arɛpɛ-	ihio7 
+girl: ait haun 
+give: ø- 
+good: mu\pahin | muʔpahin 
+good: muʔpahin 
+grass: inam 
+green: at\iba | atʔiba 
+green: atʔiba 
+guts: vov- 
+hair: paki 
+head: hirou- | hirou-	kati- 
+head: iloufu- | hirou-	kati- 
+head: kati- | hirou-	kati- 
+hear: to- | dame7	to- 
+heart: uru- 
+heavy: ulume:n | ulumɛːn 
+heavy: ulumɛːn 
+here: heg 
+here: hɛg 
+here: \për 
+here: pil 
+he/she: -(ə)k 
+he/she: -f 
+he/she: -n 
+he/she: -ø 
+he/she: -ø- 
+he/she: -u 
+he/she: u\pa 
+he/she: uʔpa 
+he/she: -ut- 
+he/she: -(V)k 
+hit: fën me- 
+hold: fël- 
+hold: fʌl- 
+house: do 
+how: këni 
+I: -i | isa 
+I: isa 
+I: -it- | isa 
+in: famën 
+kill: be- | bɛ- 
+kill: bɛ- 
+knee: katira- | katela7	katira- 
+laugh: ahële- 
+laugh: ahʌlɛ- 
+left: hanɛnɛ 
+left: hanenei 
+leg: rai- 
+lightning: peri fiay- 
+lightning: pɛri fiay- 
+liver: kema- | gemag	kema- 
+long: e\era | ʔɛʔɛra 
+long: ʔɛʔɛra 
+louse: mi | musumus 
+man: dana 
+many: mati\a | matiʔa 
+many: matiʔa 
+meat: ufun 
+moon: raker | rakɛr 
+moon: rakɛr 
+morning: etow 
+morning: ɛtʰow 
+morning: ohëko 
+morning: ohʌko 
+mosquito: ihimar 
+mosquito: ʔihimar 
+mother: ani- 
+mother: au 
+mountain: efok | aluh	fohiɛn	ɛfok	ʌtu 
+mountain: ɛfok | aluh	fohiɛn	ɛfok	ʌtu 
+mountain: ëtu | aluh	fohiɛn	ɛfok	ʌtu 
+mountain: fohien | aluh	fohiɛn	ɛfok	ʌtu 
+mountain: fohiɛn | aluh	fohiɛn	ɛfok	ʌtu 
+mountain: ʌtu | aluh	fohiɛn	ɛfok	ʌtu 
+mouth: o- 
+name: leni- | lɛni-	weni 
+name: lɛni- | lɛni-	weni 
+nape: tu- 
+navel: hiri- 
+near: ona\be | onaʔbɛ	utuban 
+near: onaʔbɛ | onaʔbɛ	utuban 
+near: utuban | onaʔbɛ	utuban 
+neck: pe- tur | pɛ- tur 
+neck: pɛ- tur 
+new: bilde | bildɛ	gw~ilde7 
+new: bildɛ | bildɛ	gw~ilde7 
+night: kakatu\ey | kakatuʔey	wi 
+night: kakatuʔey | kakatuʔey	wi 
+nose: mete- | medeu	mɛtɛ- 
+not: pe 
+not: ʔpɛ 
+old: toya 
+old: werote 
+old: wɛrotɛ 
+one: osah | osah	osahi 
+pull: dite- 
+pull: ditʰɛ- 
+push: sunde- 
+push: sundɛ- 
+rain: wʌ 
+rain: wë | wʌ 
+rat: ko\i 
+rat: koʔi 
+red: rok\ai | rokʔai 
+red: rokʔai 
+right: murife | eben 
+right: murifɛ | eben 
+ripe: piu 
+road: hi 
+root: fefe | fɛfɛ 
+root: fɛfɛ 
+rope: ɔl 
+salt: hi 
+sand: asab | iːkis 
+sand: i:kis | iːkis 
+sand: iːkis 
+say: le mët- | ma-	mat- 
+say: lɛ mʌt- | ma-	mat- 
+say: ma(t)- | ma-	mat- 
+scratch: nahinti\- 
+scratch: nahintiʔ- 
+sea: ma\as 
+sea: maʔas 
+see: mehi- | fege7	me7ie7	mɛhi-	of- 
+see: mɛhi- | fege7	me7ie7	mɛhi-	of- 
+see: of- | fege7	me7ie7	mɛhi-	of- 
+sharp: a\i\a 
+sharp: aʔiʔa 
+sharp: met- 
+short: kofi | kofi	tutu 
+short: tutu | kofi	tutu 
+shoulder: kapara- 
+sing: sek sir- 
+sister: epina- matu 
+sister: ɛpina- matu 
+sister: epi(na)- na\ëk 
+sister: ɛpi(na)- naʔʌk 
+sit: pir- 
+skin: kanau- | gana7	kanau- 
+sleep: huni- 
+small: na\ëk | naʔʌk 
+small: naʔʌk 
+smell: uhuli me- 
+smoke: ahu 
+snake: man sononi | man sononi	mʌn 
+snake: mën | man sononi	mʌn 
+snake: mʌn | man sononi	mʌn 
+spit: ɛtarɛ- 
+spit: o\osa- 
+spit: oʔosa- 
+spit: sahara- 
+split: pasir- 
+stand: ay- 
+stand: tʰaw- 
+stand: taw- 
+star: marape | malagw~ai	marapɛ	sulugw~ai	surufay 
+star: marapɛ | malagw~ai	marapɛ	sulugw~ai	surufay 
+star: surufay | malagw~ai	marapɛ	sulugw~ai	surufay 
+stick: su 
+stone: men | men	mɛn 
+stone: mɛn | men	mɛn 
+straight: tutuh 
+sun: ëm | am	ʌm 
+sun: ʌm | am	ʌm 
+swell: tʰaʔu- 
+tail: fohuk 
+tail: piti | fohuk 
+take: o- 
+that: ho 
+there: ho\a 
+there: hoʔa 
+there: hokono 
+they: -a(ka) 
+they: -at- 
+they: hoa-ke 
+they: hoa-kɛ 
+they two: -ar- 
+they two: -ara 
+they two: hoa-re 
+thigh: tu\ulu- 
+thigh: tuʔulu- 
+think: iste- 
+think: istɛ- 
+this: heba | hɛba 
+this: hɛba 
+thou: -a(ka) | ina 
+thou: a-kɛ | ina 
+thou: -at- | ina 
+thou: -(i)n | ina 
+thou: ina 
+thou: -is- | ina 
+thou: -ø | ina 
+throat: pe 
+throat: pɛ 
+throat: totor 
+throat: totɔr 
+throw: dahur- 
+thunder: peri pe- 
+thunder: pɛri pɛ- 
+tie: dite- 
+tie: ditɛ- 
+tomorrow: elota 
+tomorrow: ubota 
+tongue: peria- | belia7	pɛria- 
+tongue: pɛria- | belia7	pɛria- 
+tooth: ai- | a7i	ai- 
+tree: nʌ | na 
+tree: në | na 
+tree: um | na 
+turn: falit- 
+two: eris | elis	ɛris 
+two: ɛris | elis	ɛris 
+vagina: mina- 
+vomit: furʌt- 
+walk: guʔur- | ob- 
+walk: nu | ob- 
+walk: ob- 
+walk: va- | ob- 
+wallaby: utame 
+warm: tain\a 
+warm: tainʔa 
+wash: wa ro- 
+water: wʌ | wa	wʌ 
+water: wë | wa	wʌ 
+weep: për- 
+weep: ʔpʌr- 
+we: -ik- | ige 
+we: -ike | ige 
+we: i-ke | ige 
+we: -ikɛ | ige 
+we: i-kɛ | ige 
+wet: le hu\ai 
+wet: lɛ huʔai 
+we two: -ir- 
+we two: -ire 
+we two: i-re 
+what: el\ai | ɛlʔai 
+what: ɛlʔai 
+where: hag 
+white: senene | sɛnɛnɛ	yʌlsi 
+white: sɛnɛnɛ | sɛnɛnɛ	yʌlsi 
+white: yëlsi | sɛnɛnɛ	yʌlsi 
+white: yʌlsi | sɛnɛnɛ	yʌlsi 
+who: i:n | iːn 
+who: iːn 
+wind: papan 
+wing: hark 
+wing: haruk 
+woman: aik | ait 
+woman: ait 
+wood: si\ëk 
+wood: siʔʌk 
+wood: su 
+yellow: lën\a | lʌnʔa 
+yellow: lʌnʔa 
+yes: ʌ 
+yes: ë 
+yesterday: haun 
+yesterday: um 
+you: -a(ka) | ina 
+you: a-ke | ina 
+you: -at- | ina 
+you two: -ar- 
+you two: -ara 
+you two: a-re 
+every: uniʔa 
+ash: aiaba	aw	oris 
+abdomen: vavi- 
+bigness: bɛːn 
+large: bɛːn 
+breasts: hu tapa7	huː 
+come from: fah-	fehe7 
+be dead: alme7	armɛ- 
+dead: alme7	armɛ- 
+drink: le7 
+ground: miːr 
+land: miːr 
+soil: miːr 
+fly: harrur̰rɛ- 
+fly v.: harrur̰rɛ- 
+hand: eben 
+left hand: eben 
+1 sg.: isa 
+leaf: baga7 
+head louse: musumus 
+male: dana 
+much: matiʔa 
+multiple: matiʔa 
+several: matiʔa 
+hill: aluh	fohiɛn	ɛfok	ʌtu 
+title: lɛni-	weni 
+nighttime: kakatuʔey	wi 
+adulterous: osah	osahi 
+single: osah	osahi 
+the: osah	osahi 
+unprincipled: osah	osahi 
+rainy weather: wʌ 
+path: hi 
+route: hi 
+hide: gana7	kanau- 
+little: naʔʌk 
+smallness: naʔʌk 
+rock: men	mɛn 
+2 sg: ina 
+grind: elis	ɛris 
+go: ob- 
+1 pl. inc.: ige 
+we₁: ige 
+whiteness: sɛnɛnɛ	yʌlsi 
+who?: iːn 
+female: ait 
+distant: aʔanʌn 
+dull: ulumɛːn 
+serious: ulumɛːn 
+close: onaʔbɛ	utuban 
+ner: onaʔbɛ	utuban 

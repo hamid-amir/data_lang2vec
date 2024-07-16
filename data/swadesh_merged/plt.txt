@@ -1,0 +1,336 @@
+all: ny … rehetra	rehétra	rèhetra 
+every: ny … rehetra	rehétra	rèhetra 
+ash: avenona	lavènona	lavénona 
+ashes: avenona	lavènona	lavénona 
+bark: hodi-kazo	hodikàzo 
+abdomen: kibo	kìbo	kíbo 
+belly: kibo	kìbo	kíbo 
+big: bè	lehibe	lehibé 
+bigness: bè	lehibe	lehibé 
+large: bè	lehibe	lehibé 
+bird: vorona	vòrona	vórona 
+bite: man-aikitra	manaikitra	manàikitra 
+black: mainty	maìnty	má-inty 
+blood: ra	rá 
+bone: taolana	tàolana	táolana 
+breast: nòno	nóno	tratra 
+breasts: nòno	nóno	tratra 
+burn: man-dóro 
+burn tr.: man-dóro 
+claw: hòho 
+nail: hòho 
+talon: hòho 
+cloud: rahona	ràhona	ráhona 
+cold: hatsìaka	ma-ngatsíaka	mangatsiaka	mangatsìaka	nàra 
+come: avy	tamy	tonga	tònga	tónga	ávy 
+come from: avy	tamy	tonga	tònga	tónga	ávy 
+be dead: maty	màty	máty 
+dead: maty	màty	máty 
+die: maty	màty	máty 
+dog: alika	alíka	amboa	ambóa	ambùa	àlika 
+drink: mi-sótro	misotro	misòtro 
+dry: maina	màina	máina 
+ear: sofina	sòfina	tadìny	tadíny 
+earth: tany	tàny 
+ground: tany	tàny 
+land: tany	tàny 
+soil: tany	tàny 
+eat: h-óm-ana	hòmana	mihinana	mihìnana 
+egg: atody	atòdy	atódy 
+eye: maso	màso	máso 
+feather: penina	volom-borona	volombòrona	vólo 
+fire: afo	àfo	áfo 
+fish: haza-n-dráno	hazan-drano	hazandràno	laoko	trondro	tròndro 
+fly: ma-nídina	manidina	manìdina 
+fly v.: ma-nídina	manidina	manìdina 
+foot: tongotra	tòngotra 
+full: feno	fèno 
+give: manome	manòme 
+good: tsara	tsàra	tsára 
+green: ma-itso	maitso	maìtso 
+hair: bolo	vòlo	vólo 
+hand: tànana	tánana 
+left hand: tànana	tánana 
+right: tànana	tánana 
+head: loha	lòha	lóha 
+hear: maeno	maharè	man-dré[ni]	mandrè 
+heart: fo 
+horn: tandroka	tàndroka 
+1 sg.: aho	iz[áho]	izàho	àho 
+I: aho	iz[áho]	izàho	àho 
+kill: ma-móno	mahefaty	mamono	mamòno 
+knee: lohalika	lohàlika 
+be knowledgeable: maha-lála	mahafantatra	mahafàntatra	mahalàla 
+know: maha-lála	mahafantatra	mahafàntatra	mahalàla 
+leaf: ravina	ràvina	rávina 
+lie: m-ándry	màndry 
+lie down: m-ándry	màndry 
+liver: aty	àty	áty 
+long: lava	làva	láva 
+head louse: hao	hào	háo 
+louse: hao	hào	háo 
+male: lehilahy	láhy 
+man: olombelona	òlona	ólona 
+many: betsaka	bètsaka 
+much: betsaka	bètsaka 
+multiple: betsaka	bètsaka 
+several: betsaka	bètsaka 
+flesh: nòfo 
+meat: nòfo 
+moon: volana	vòlana	vólana 
+hill: tondrombohitra	vòhitra 
+mountain: tondrombohitra	vòhitra 
+mouth: vava	vàva	váva 
+name: anarana	anàrana	anárana 
+title: anarana	anàrana	anárana 
+neck: tenda	vozona	vòzona	vózona 
+new: vaovao	váo 
+night: alina	àlina	álina 
+nighttime: alina	àlina	álina 
+nose: orona	òrona	órona 
+not: tsy 
+adulterous: iray	irày	ísa 
+one: iray	irày	ísa 
+single: iray	irày	ísa 
+that: irèo	irètsy	its`y	izany	izats`y	izào	ány	áo	ìo 
+the: iray	irày	ísa 
+unprincipled: iray	irày	ísa 
+human: olombelona	òlona	ólona 
+human being: olombelona	òlona	ólona 
+person: olombelona	òlona	ólona 
+rain: orana	òrana 
+rainy weather: orana	òrana 
+red: mena	mèna	ména 
+path: lalana	lálana 
+road: lalana	lálana 
+route: lalana	lálana 
+root: faka	fototra	fàka	fáka	fòtotra 
+round: boribory	boribòry 
+sand: fasika	fàsika	fásika 
+say: mi-tény	milaza	milàza	miteny 
+see: ma-híta	mahita	mahìta 
+seed: voa	vòa 
+sit: ma-metraka	mipetraka	mipètraka 
+hide: hoditra	hòditra	hóditra 
+skin: hoditra	hòditra	hóditra 
+sleep: ma-tóry	matory	matòry	màndry 
+little: kely	kèly	kély 
+small: kely	kèly	kély 
+smallness: kely	kèly	kély 
+smoke: setroka	sètroka	sétroka 
+star: kintana	kìntana	kíntana 
+rock: vato	vàto	váto 
+stone: vato	vàto	váto 
+sun: masaondra	masonàndro 
+swim: l-om-áno	milomano	milomàno 
+tail: rambo	ràmbo	rámbo 
+this: ity	izat`y	áty 
+2 sg: hianáo	ialàhy	ianao	ianào	itèna 
+thou: hianáo	ialàhy	ianao	ianào	itèna 
+you: hianáo	ialàhy	ianao	ianào	itèna 
+tongue: lela	lèla	léla 
+tooth: nify	nìfy	nífy 
+tree: hazo 
+grind: roa	ròa	róa 
+two: roa	ròa	róa 
+go: mamìndra	man-déha	mandeha	mandèha 
+walk: mamìndra	man-déha	mandeha	mandèha 
+hot: ma-fàna	ma-fána	mafana 
+warm: ma-fàna	ma-fána	mafana 
+water: rano	ràno	ráno 
+1 pl. inc.: isika	isìka	isíka	izahay	izaháy 
+we: isika	isìka	isíka	izahay	izaháy 
+we₁: isika	isìka	isíka	izahay	izaháy 
+what: inona	ìnona	ínona 
+white: fotsy	fòtsy	fótsy 
+whiteness: fotsy	fòtsy	fótsy 
+who: iza	izáy	ìza 
+who?: iza	izáy	ìza 
+female: vehivavy	vehivàvy	vávy 
+woman: vehivavy	vehivàvy	vávy 
+yellow: mavo	vòny	vóny 
+distant: lavitra	làvitra	lávitra 
+far: lavitra	làvitra	lávitra 
+dull: ma-vésatra	mavesatra	mavèsatra 
+heavy: ma-vésatra	mavesatra	mavèsatra 
+serious: ma-vésatra	mavesatra	mavèsatra 
+close: akaiky	akàiky	akéky 
+near: akaiky	akàiky	akéky 
+ner: akaiky	akàiky	akéky 
+salt: sira	sìra	síra 
+short: fohy	fòhy	fóhy 
+snake: bibilava	bibilàva	bibiláva 
+thin: ma-nífy	mahia	manify	manìfy 
+wind: rivotra	rìvotra	rívotra 
+earthworm: kankana	kànkana	kánkana	òlitra 
+worm: kankana	kànkana	kánkana	òlitra 
+year: taona	tàona	táona 
+3 sg.: izy	ìzy 
+he: izy	ìzy 
+she: izy	ìzy 
+2 pl.: hianaréo	ianareo	ianarèo 
+ye: hianaréo	ianareo	ianarèo 
+you all: hianaréo	ianareo	ianarèo 
+3 pl.: isy ireo	ìzy	ìzy irèo	ízy 
+they: isy ireo	ìzy	ìzy irèo	ízy 
+here: at`y	et`y	eto	àto	èto 
+there: ao	ats`y	ets`y	ào	èo 
+where: aiza	àiza	áiza 
+where?: aiza	àiza	áiza 
+when: oviana	ovìana	ovíana	rahoviana 
+when?: oviana	ovìana	ovíana	rahoviana 
+how: ahòana	ahóana	akòry	manahoana 
+how?: ahòana	ahóana	akòry	manahoana 
+some: sasàny	vitsivitsy	vitsivìtsy	vìtsy 
+few: kely	vìtsy 
+other: hafa	hàfa	háfa 
+three: telo	télo 
+four: efatra	èfatra	éfatra 
+five: dimy	dìmy 
+broad: ma-lálaka	malalaka	malàlaka 
+wide: ma-lálaka	malalaka	malàlaka 
+wideness: ma-lálaka	malalaka	malàlaka 
+fat: ma-távy	mènaka	taviny 
+thick: ma-tévina	matevina	matèvina 
+narrow: tery	tèry	èty	éty 
+child: zaza	zàza 
+principal wife: vady	vàdy	vády 
+wife: vady	vàdy	vády 
+husband: vady	vàdy	vády 
+his mother: reny	rèny	rény 
+mother: reny	rèny	rény 
+my mother: reny	rèny	rény 
+father: ray	ráy 
+his father: ray	ráy 
+my father: ray	ráy 
+animal: biby	bìby 
+forest: ala	àla	ála 
+woods: ala	àla	ála 
+branch: kibay	ràntsana	ráhaka	tehina 
+stick: kibay	ràntsana	ráhaka	tehina 
+fruit: voankazo	voankàzo	vòa	vóa 
+flower: voninkazo	vòny	vóny 
+grass: ahitra	bozaka	àhitra	áhitra 
+cord: tady	tàdy	tády 
+rope: tady	tàdy	tády 
+grease: ma-távy	mènaka	taviny 
+fingernail: hoho	hòho 
+leg: ranjo	rànjo 
+arm: tanana 
+wing: elatra	èlatra	élatra 
+gut: tsinay	tsináy	tsìnay 
+guts: tsinay	tsináy	tsìnay 
+insides: tsinay	tsináy	tsìnay 
+intestine: tsinay	tsináy	tsìnay 
+intestines: tsinay	tsináy	tsìnay 
+back: lamosina	lamòsina	lamósina 
+suck: mi-tséntsitra	mifiaka	minòno 
+spit: man-dróra	mandrehoka	mandròra 
+vomit: madoa	man-dóa	mandòa 
+blow: mi-tsóka	mitsoka	mitsìoka 
+breath: mi-fóka	miaina	misefo	miàina 
+breathe: mi-fóka	miaina	misefo	miàina 
+laugh: hehy	héhy	mihomèhy	tokelaka 
+laughter: hehy	héhy	mihomèhy	tokelaka 
+cogitate: mi-hévitra	mieritreritra	mieritrèritra	mihèvitra	misàina 
+reflect: mi-hévitra	mieritreritra	mieritrèritra	mihèvitra	misàina 
+think: mi-hévitra	mieritreritra	mieritrèritra	mihèvitra	misàina 
+smell: manambolo	manambòlo	mi-tróka 
+sniff: manambolo	manambòlo	mi-tróka 
+afraid: mataotra	tàhotra	táhotra 
+be afraid: mataotra	tàhotra	táhotra 
+fear: mataotra	tàhotra	táhotra 
+fright: mataotra	tàhotra	táhotra 
+alive: mi-áina	velona	vèlona 
+be alive: mi-áina	velona	vèlona 
+life: mi-áina	velona	vèlona 
+live: mi-áina	velona	vèlona 
+living: mi-áina	velona	vèlona 
+fight: miady	miàdy 
+hunt: mi-háza	mihaza	mihàza 
+beat: ma-mély	mamèly	mikapoka	mikàpoka 
+hit: ma-mély	mamèly	mikapoka	mikàpoka 
+strike: ma-mély	mamèly	mikapoka	mikàpoka 
+cut: ma-nápaka	mandidy	mandìdy 
+hack: ma-nápaka	mandidy	mandìdy 
+cut open: ma-máky	mamaki	manàtaka 
+split: ma-máky	mamaki	manàtaka 
+pierce: man-dóaka	mantsatoka-antsy 
+stab: man-dóaka	mantsatoka-antsy 
+scratch: mi-háotra	mihàotra	mikaoka	mikiki 
+dig: mandavaka	mi-hády	mihady	mihàdy 
+tell lies: mandàinga	mivelatra 
+stand: mi-tsángana	mifoha	mijòro	mitsangana	mitsàngana 
+turn: mihodina	mihòdina	mitòdika 
+turn around: mihodina	mihòdina	mitòdika 
+turn round: mihodina	mihòdina	mitòdika 
+drop: lávo	mianjera	mianjèra	mihìntsana 
+fall: lávo	mianjera	mianjèra	mihìntsana 
+grasp: mi-házona	mi-tána	mihàzona	mitantana	mitàna 
+hold: mi-házona	mi-tána	mihàzona	mitantana	mitàna 
+hold in arm: mi-házona	mi-tána	mihàzona	mitantana	mitàna 
+squeeze: ma-mía	mamìa	mamòritra	mandray	manèry 
+wring: ma-mía	mamìa	mamòritra	mandray	manèry 
+rub: mamàoka	manakasoka 
+wipe: mamafa	mamàoka 
+wash: manasa	manàsa 
+wash clothes: manasa	manàsa 
+pull: mitifitra 
+push: manosika	manòsika 
+shove: manosika	manòsika 
+throw: manoraka	mi-tóraka	mitòraka 
+bind: mamatotra	mamehy	mamàtotra	mi-féhy 
+fasten: mamatotra	mamehy	mamàtotra	mi-féhy 
+tie: mamatotra	mamehy	mamàtotra	mi-féhy 
+tie up: mamatotra	mamehy	mamàtotra	mi-féhy 
+sew: man-jáitra	manjaitra	manjàitra 
+count: mamisa	man-ísa	manìsa 
+enumerate: mamisa	man-ísa	manìsa 
+number: mamisa	man-ísa	manìsa 
+tally: mamisa	man-ísa	manìsa 
+sing: mihara	mihìra	mikalo 
+have fun: milalau	milalào 
+play: milalau	milalào 
+float: mitsinkafona	mitsinkàfona 
+flow: mangorìana	mi-válana	mikoriana 
+freeze: mamanàla	mandry 
+swell: mibontsina 
+brook: renirano	reniràno	òny 
+river: renirano	reniràno	òny 
+stream: renirano	reniràno	òny 
+lake: farihy	farìhy	faríhy	kamory 
+ocean: ranomasina	ranomàsina	ranomásina	riaka 
+sea: ranomasina	ranomàsina	ranomásina	riaka 
+dust: vovoka	vòvoka	vóvoka 
+fog: zavona	zàvona	závona 
+sky: lanitra	lànitra	lánitra 
+snow: lanezy	orampànala	ranomandry 
+ice: ranomandry	ranomàndry 
+blaze: may	mirèhitra 
+day: andro	àndro 
+daylight: andro	àndro 
+daytime: andro	àndro 
+old: hantitra	onta 
+bad: ratsy	ràtsy	rátsy 
+evil: ratsy	ràtsy	rátsy 
+rot: bobongolo	dródroka	lo 
+rotten: bobongolo	dródroka	lo 
+dirty: ma-lóto	maloto	malòto 
+filthy: ma-lóto	maloto	malòto 
+soiled: ma-lóto	maloto	malòto 
+straight: mahitsy	mahìtsy	tsòtra 
+sharp: maranitra	marànitra	pílopílo 
+blunt: dòmbo	dómbo 
+smooth: ma-làma	malama 
+damp: kótsa	lèna	mando 
+wet: kótsa	lèna	mando 
+correct: ma-hìtsy	mendrika	màrina 
+right side: havanana	havànana	havánana 
+left: havia	havìa	havía 
+at: aN-	izy	ámy 
+in: anaty	anàty	anáty 
+inside: anaty	anàty	anáty 
+with: amin’ny	mìsy	àman’...	àmin’... 
+and: ary	dìa	ka	sy	àry 
+if: raha	ràha	ráha 
+because: satria	satrìa 

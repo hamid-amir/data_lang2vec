@@ -1,0 +1,267 @@
+all: iya ŋasɛŋ 
+every: iya ŋasɛŋ 
+ash: awu 
+ashes: awu 
+abdomen: battaŋ 
+belly: battaŋ 
+big: lompo 
+bigness: lompo 
+large: lompo 
+bird: jaŋanɟaŋaŋ 
+bite: aŋŋokko 
+black: lɛʔlɛŋ 
+blood: TEra7	ceraq	cɛraʔ	rara	tera 
+bone: buku 
+breast: susu 
+breasts: susu 
+burn: antunu 
+burn tr.: antunu 
+cloud: rammaŋ 
+cold: diŋiŋ 
+come: battu	batu 
+come from: battu	batu 
+be dead: matE	matɛ 
+dead: matE	matɛ 
+die: matE	matɛ 
+dog: asu	koNk~oN	koŋkoŋ 
+drink: NinuN	aŋŋinuŋ	inuN	iruq 
+dry: kalotoraʔ 
+ear: toli 
+eat: aŋŋanrɛ 
+egg: bayâo 
+eye: mata 
+feather: bulu 
+fire: api	pEpE7	pepeq	pɛpɛʔ 
+fish: bale	jukɛʔ	yukE7 
+fly: anribba 
+fly v.: anribba 
+full: bassoroq	hassoroq	panno 
+good: bajiʔ 
+green: moncoy bulo 
+hair: uʔ 
+hand: lima 
+left hand: lima 
+right: lima 
+hear: allaŋŋɛrɛʔ	laNErE7	saqriN 
+horn: tanruq 
+1 sg.: inakE	inakkɛ 
+I: inakE	inakkɛ 
+kill: ambuno 
+knee: kulantuq 
+be knowledgeable: issɛŋ 
+know: issɛŋ 
+leaf: lEko7	lɛkoʔ	rauN 
+liver: atE	ate	ati	atɛ 
+long: laʔbu 
+head louse: gantuma	kutu 
+louse: gantuma	kutu 
+male: buraʔne 
+man: tau 
+moon: bulaŋ 
+hill: bukku	tanette 
+mountain: bukku	tanette 
+mouth: bawa 
+name: areN	areŋ 
+title: areN	areŋ 
+new: bEru	beru	bɛru 
+night: baNNi	baNi	baŋŋi	pattaN 
+nighttime: baNNi	baNi	baŋŋi	pattaN 
+nose: kamuruN	kaʔmuruŋ 
+adulterous: sElrE	sere	sɛlrɛ 
+one: sElrE	sere	sɛlrɛ 
+single: sElrE	sere	sɛlrɛ 
+that: antu 
+the: sElrE	sere	sɛlrɛ 
+unprincipled: sElrE	sere	sɛlrɛ 
+human: tau 
+human being: tau 
+person: tau 
+rain: bosi 
+rainy weather: bosi 
+red: ɛla 
+path: agaN	agaŋ	lalaN 
+road: agaN	agaŋ	lalaN 
+route: agaN	agaŋ	lalaN 
+root: akaʔ 
+sand: kassiʔ 
+say: aŋkana 
+see: Tini7	acciniʔ 
+sit: ammempo 
+hide: balulaN	bukku lɛŋ	buku lEN	kuliq 
+skin: balulaN	bukku lɛŋ	buku lEN	kuliq 
+sleep: attinro 
+little: caʔdi 
+small: caʔdi 
+smallness: caʔdi 
+smoke: rumbu 
+star: bintoeN	bintoɛŋ	bint~oEN 
+rock: batu 
+stone: batu 
+sun: allo 
+swim: aʔlaŋɛ 
+tail: iŋkoŋ 
+this: annɛ 
+2 sg: ikau	kau 
+thou: ikau	kau 
+you: ikau	kau 
+tongue: lila 
+tooth: gigi 
+grind: rua	ruwa 
+two: rua	ruwa 
+go: aʔlampa 
+walk: aʔlampa 
+hot: bambaŋ 
+warm: bambaŋ 
+water: ere	jɛlnɛʔ	yElnE7 
+1 pl. inc.: ikatE	ikatte	ikattɛ 
+we: ikatE	ikatte	ikattɛ 
+we₁: ikatE	ikatte	ikattɛ 
+what: apa 
+white: kɛboʔ 
+whiteness: kɛboʔ 
+who: inai 
+who?: inai 
+female: bainɛ 
+woman: bainɛ 
+yellow: kuŋ̃iʔ 
+distant: bɛlla 
+far: bɛlla 
+dull: battalaʔ 
+heavy: battalaʔ 
+serious: battalaʔ 
+close: ammani 
+near: ammani 
+ner: ammani 
+salt: cɛʔla 
+short: bodo 
+snake: ularaʔ 
+thin: nipisiʔ 
+wind: aŋiŋ 
+earthworm: gallaŋgallaŋ 
+worm: gallaŋgallaŋ 
+year: tauŋ 
+2 pl.: ikau ŋasɛŋ 
+ye: ikau ŋasɛŋ 
+you all: ikau ŋasɛŋ 
+3 pl.: iya ŋasɛŋ 
+they: iya ŋasɛŋ 
+where: kɛmàɛ 
+where?: kɛmàɛ 
+when: siapanna 
+when?: siapanna 
+how: antekamma 
+how?: antekamma 
+other: maraɛŋ 
+three: tallu 
+four: appa	appaʔ 
+five: lima 
+broad: luaraʔ 
+wide: luaraʔ 
+wideness: luaraʔ 
+fat: jamɛʔjamɛʔ 
+thick: kapalaʔ 
+narrow: ecereʔ 
+principal wife: baine 
+wife: baine 
+husband: buraʔnɛ 
+his mother: ammaʔ 
+mother: ammaʔ 
+my mother: ammaʔ 
+father: maŋgɛ 
+his father: maŋgɛ 
+my father: maŋgɛ 
+forest: romaŋ 
+woods: romaŋ 
+branch: taŋkɛ 
+stick: taŋkɛ 
+fruit: rapporappo 
+flower: buŋa 
+grass: rukuʔ 
+cord: otɛrɛʔ 
+rope: otɛrɛʔ 
+flesh: assi 
+meat: assi 
+grease: jamɛʔjamɛʔ 
+wing: kaññiʔ 
+gut: parruʔ 
+guts: parruʔ 
+insides: parruʔ 
+intestine: parruʔ 
+intestines: parruʔ 
+back: doŋkoʔ 
+suck: aŋisoʔ 
+spit: appiʔru 
+vomit: laŋŋɛ 
+blow: annuiʔ 
+breath: aʔmaiʔ 
+breathe: aʔmaiʔ 
+laugh: ammakkalaʔ 
+laughter: ammakkalaʔ 
+cogitate: ammikkiriʔ 
+reflect: ammikkiriʔ 
+think: ammikkiriʔ 
+smell: ambau 
+sniff: ambau 
+afraid: mallaʔ 
+be afraid: mallaʔ 
+fear: mallaʔ 
+fright: mallaʔ 
+alive: tallasaʔ 
+be alive: tallasaʔ 
+life: tallasaʔ 
+live: tallasaʔ 
+living: tallasaʔ 
+hunt: aŋŋdoaŋ 
+beat: annunruŋ 
+hit: annunruŋ 
+strike: annunruŋ 
+cut: ammoloŋ 
+hack: ammoloŋ 
+cut open: ammuɛ 
+split: ammuɛ 
+pierce: annoboʔ 
+stab: annoboʔ 
+scratch: aŋkaŋkaŋ 
+dig: aŋŋɛkɛ 
+stand: ammenteŋ 
+drop: tuʔguruʔ 
+fall: tuʔguruʔ 
+grasp: anniggalaʔ 
+hold: anniggalaʔ 
+hold in arm: anniggalaʔ 
+squeeze: ammacco 
+wring: ammacco 
+throw: aññambila 
+bind: aññikkoʔ 
+fasten: aññikkoʔ 
+tie: aññikkoʔ 
+tie up: aññikkoʔ 
+sew: anjaiʔ 
+count: aŋŋituŋ 
+enumerate: aŋŋituŋ 
+number: aŋŋituŋ 
+tally: aŋŋituŋ 
+flow: assoloŋ 
+lake: balan 
+ocean: tamparaŋ 
+sea: tamparaŋ 
+dust: awu 
+sky: laŋiʔ 
+bad: kodi 
+evil: kodi 
+rot: bottoʔ 
+rotten: bottoʔ 
+dirty: raʔmasaʔ 
+filthy: raʔmasaʔ 
+soiled: raʔmasaʔ 
+sharp: taraŋ 
+blunt: pokkoloʔ 
+damp: basa 
+wet: basa 
+right side: kamaŋ 
+left: kairi 
+at: ri 
+in: ilalaŋ 
+inside: ilalaŋ 
+and: na 
+if: punna 

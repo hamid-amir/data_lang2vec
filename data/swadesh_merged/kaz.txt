@@ -1,0 +1,333 @@
+all: барлық	бүкiл	бәрi 
+every: барлық	бүкiл	бәрi 
+ash: күл 
+ashes: күл 
+bark: қабық 
+abdomen: іш	қарын 
+belly: іш	қарын 
+big: зор	үлкен 
+bigness: зор	үлкен 
+large: зор	үлкен 
+bird: құс 
+bite: тiстеу 
+black: қара 
+blood: қан 
+bone: сүйек 
+breast: кеуде	көкiрек	көкірек	төс 
+breasts: кеуде	көкiрек	көкірек	төс 
+cloud: бұлт 
+cold: суық 
+come: келу 
+come from: келу 
+be dead: өлу 
+dead: өлу 
+die: өлу 
+dog: ит 
+drink: iшу 
+dry: құрғақ 
+ear: құлақ 
+earth: топырақ 
+ground: топырақ 
+land: топырақ 
+soil: топырақ 
+eat: жеу 
+egg: жұмыртқа	тұқым 
+eye: көз 
+feather: жүн	қауырсын 
+fire: от 
+fish: балық 
+fly: ұшу 
+fly v.: ұшу 
+foot: аяқ	табан 
+full: толы 
+give: беру 
+good: жақсы 
+green: жасыл 
+hair: түк	шаш	қыл 
+head: бас 
+hear: есту 
+heart: жүрек 
+horn: мүйiз 
+1 sg.: мен 
+I: мен 
+kill: өлтiру 
+knee: тiзе 
+be knowledgeable: бiлу 
+know: бiлу 
+leaf: жапырақ 
+liver: бауыр 
+long: ұзын 
+head louse: бит 
+louse: бит 
+male: ер	еркек	кек 
+man: адам	кiсi 
+many: көп 
+much: көп 
+multiple: көп 
+several: көп 
+moon: ай 
+hill: тау 
+mountain: тау 
+mouth: ауыз 
+name: ат	есiм 
+title: ат	есiм 
+neck: мойын 
+new: жаңа 
+night: түн 
+nighttime: түн 
+nose: мұрын 
+not: емес 
+adulterous: бiр	бір 
+one: бiр	бір 
+single: бiр	бір 
+that: анау	сол 
+the: бiр	бір 
+unprincipled: бiр	бір 
+human: адам	кiсi 
+human being: адам	кiсi 
+person: адам	кiсi 
+rain: жауын	жаңбыр 
+rainy weather: жауын	жаңбыр 
+red: қызыл 
+path: жол 
+road: жол 
+route: жол 
+root: тамыр 
+round: домалақ	дөңгелек	жұмыр 
+sand: құм 
+say: айту	деу 
+see: көру 
+seed: тұқым	ұрық 
+sit: отыру 
+hide: терi 
+skin: терi 
+sleep: ұйықтау 
+little: кішкене	кішкентай	кіші 
+small: кішкене	кішкентай	кіші 
+smallness: кішкене	кішкентай	кіші 
+smoke: түтiн 
+star: жұлдыз 
+rock: тас 
+stone: тас 
+sun: күн 
+swim: жүзу 
+tail: құйрық 
+this: бұл 
+2 sg: сен 
+thou: сен 
+you: сен 
+tongue: тiл 
+tooth: тiс 
+tree: ағаш 
+grind: екi	екі 
+two: екi	екі 
+go: бару	жүру 
+walk: бару	жүру 
+hot: жылы 
+warm: жылы 
+water: су 
+1 pl. inc.: бiз 
+we: бiз 
+we₁: бiз 
+what: не	немене 
+white: ақ 
+whiteness: ақ 
+who: кiм 
+who?: кiм 
+female: қатын	әйел 
+woman: қатын	әйел 
+yellow: сары 
+distant: алыс	ұзақ 
+far: алыс	ұзақ 
+dull: ауыр 
+heavy: ауыр 
+serious: ауыр 
+close: жақын 
+near: жақын 
+ner: жақын 
+salt: тұз 
+short: қысқа 
+snake: жылан 
+thin: жiңiшке	нәзiк 
+wind: жел 
+earthworm: құрт 
+worm: құрт 
+year: жыл 
+3 sg.: ол 
+he: ол 
+she: ол 
+2 pl.: сiз	сендер 
+ye: сiз	сендер 
+you all: сiз	сендер 
+3 pl.: олар 
+they: олар 
+here: бұл жерде	мұнда	осында 
+there: анда	онда	сол жерде 
+where: қайда 
+where?: қайда 
+when: қашан 
+when?: қашан 
+how: қалай 
+how?: қалай 
+some: бiрнеше 
+few: аз 
+other: басқа 
+three: үш 
+four: төрт 
+five: бес 
+broad: кең 
+wide: кең 
+wideness: кең 
+fat: май 
+thick: толық	қалың 
+narrow: тар 
+child: бала 
+principal wife: қатын	әйел 
+wife: қатын	әйел 
+husband: ер	күйеу 
+his mother: ана 
+mother: ана 
+my mother: ана 
+father: ата	әке 
+his father: ата	әке 
+my father: ата	әке 
+animal: жануар	хайуан 
+forest: орман	тоғай 
+woods: орман	тоғай 
+branch: бұтақ	таяқ 
+stick: бұтақ	таяқ 
+fruit: жемiс 
+flower: гүл	шешек 
+grass: от	шөп 
+cord: арқан	бау	жiп 
+rope: арқан	бау	жiп 
+flesh: ет 
+meat: ет 
+grease: май 
+claw: тырнақ 
+fingernail: тырнақ 
+nail: тырнақ 
+leg: аяқ	бұт 
+arm: қол 
+hand: қол 
+wing: қанат 
+gut: iшек 
+guts: iшек 
+insides: iшек 
+intestine: iшек 
+intestines: iшек 
+back: арқа 
+suck: ему	сору 
+spit: түкiру 
+vomit: құсу 
+blow: үрлеу	үру 
+breath: дем алу 
+breathe: дем алу 
+laugh: күлу 
+laughter: күлу 
+cogitate: ойлау 
+reflect: ойлау 
+think: ойлау 
+smell: иiскеу 
+sniff: иiскеу 
+afraid: қорқу 
+be afraid: қорқу 
+fear: қорқу 
+fright: қорқу 
+alive: жасау 
+be alive: жасау 
+life: жасау 
+live: жасау 
+living: жасау 
+fight: соғысу	ұрысу 
+hunt: аулау 
+beat: соғу	ұру 
+hit: соғу	ұру 
+strike: соғу	ұру 
+cut: кесу 
+hack: кесу 
+cut open: бөлу	жару 
+split: бөлу	жару 
+pierce: сұғу	шаншу	қадау 
+stab: сұғу	шаншу	қадау 
+scratch: тырнау 
+dig: қазу 
+lie: жату 
+lie down: жату 
+tell lies: жату 
+stand: тұру 
+turn: айналу	бұру	бұрылу 
+turn around: айналу	бұру	бұрылу 
+turn round: айналу	бұру	бұрылу 
+drop: жауу	жығылу	түсу	құлау 
+fall: жауу	жығылу	түсу	құлау 
+grasp: тұту	ұстау 
+hold: тұту	ұстау 
+hold in arm: тұту	ұстау 
+squeeze: қысу	қысуу 
+wring: қысу	қысуу 
+rub: ысқылау 
+wipe: сүрту 
+wash: жуу 
+wash clothes: жуу 
+pull: тарту 
+push: басу?	итеру	түрту 
+shove: басу?	итеру	түрту 
+throw: тастау 
+bind: байлау 
+fasten: байлау 
+tie: байлау 
+tie up: байлау 
+sew: тiгу 
+count: есептеу	санау 
+enumerate: есептеу	санау 
+number: есептеу	санау 
+tally: есептеу	санау 
+sing: жырлау	ән айту 
+have fun: ойнау 
+play: ойнау 
+float: жүзу 
+flow: ағу 
+freeze: тоңу	үсу 
+swell: iсiну	iсiп-кебу	iсу 
+brook: дария	өзен 
+river: дария	өзен 
+stream: дария	өзен 
+lake: көл 
+ocean: теңiз 
+sea: теңiз 
+dust: тозан	тозаң	шаң 
+fog: тұман 
+sky: аспан	көк 
+snow: қар 
+ice: мұз 
+blaze: жану 
+burn: жану 
+day: күн 
+daylight: күн 
+daytime: күн 
+old: ескi	кәрі	көне	қарт 
+bad: жаман	нашар 
+evil: жаман	нашар 
+rot: шiрiк 
+rotten: шiрiк 
+dirty: батпақты	кiр 
+filthy: батпақты	кiр 
+soiled: батпақты	кiр 
+straight: тура	түзу 
+sharp: жiтi	өткiр 
+blunt: доғал	дөкір	өтпеc	өтпес 
+smooth: жатық	тегiс 
+damp: дымқыл	ылғал 
+wet: дымқыл	ылғал 
+correct: дұрыс	тура 
+right: оң 
+right side: оң 
+left: сол 
+at: -да	-де	астында	үстінде 
+in: -да	-де	iшiнде 
+inside: -да	-де	iшiнде 
+with: -мен	-менен	менен 
+and: -да	-де	және 
+if: -са	-се	егер 
+because: себебі	өйткенi 

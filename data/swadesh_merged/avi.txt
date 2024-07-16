@@ -1,0 +1,255 @@
+all: búlè 
+every: búlè 
+ash: ɛ́zɔ̃́ 
+ashes: ɛ́zɔ̃́ 
+bark: ɛ́vã́ 
+abdomen: égbútú 
+belly: égbútú 
+big: ɛ̀wá 
+bigness: ɛ̀wá 
+large: ɛ̀wá 
+bird: nã́ɟóɓá 
+bite: ka … ɲrã́ 
+black: byo 
+blood: EvEn	ɛ́vɛ̃́ 
+bone: éwú 
+breast: EbulEzu	nɛ́ɲɛ̃ʏ̈ 
+breasts: EbulEzu	nɛ́ɲɛ̃ʏ̈ 
+claw: àcúfwã́ 
+nail: àcúfwã́ 
+talon: àcúfwã́ 
+cold: frɔ	vɔ 
+come: ba 
+come from: ba 
+dog: ETE	ɛ̀tyɛ́ 
+drink: 5o	ɲɔ̃ 
+dry: wru 
+ear: EZEba	ɛ̀zyɛ́ɓá 
+earth: ɛ́sá 
+ground: ɛ́sá 
+land: ɛ́sá 
+soil: ɛ́sá 
+eat: zi 
+egg: ɛ́wrɔ́ɓá 
+eye: ENoba	ɛ̀ŋʷɔ́ɓá 
+feather: ètú 
+fire: ɛ́yá 
+fish: EsEn	ɛ́sɛ̃́ 
+fly: zû 
+fly v.: zû 
+foot: ɛ́nɛ̃́ɓá 
+full: si 
+give: nã 
+good: bɥrɔ̃	drɔ 
+hair: èŋú 
+hand: Ebon lowlE	ɛ̀bɔ̃́ 
+left hand: Ebon lowlE	ɛ̀bɔ̃́ 
+right: Ebon lowlE	ɛ̀bɔ̃́ 
+head: èŋrúɓá 
+hear: sɛ 
+heart: ɛ́bʷrɛ́ 
+horn: è́tró 
+1 sg.: m	ámɛ̃́ 
+I: m	ámɛ̃́ 
+kill: gbi 
+knee: EnENuluba	ɛ́nɛ̃́-ŋrùɓá 
+be knowledgeable: ɲi 
+know: ɲi 
+leaf: lEflE	lɛ́frɛ̀ 
+lie: sre … lè 
+lie down: sre … lè 
+liver: EbulE	édyésìɓà-bʷrɛ̀ 
+male: ɓásã́mbá 
+man: ɛ̀cɥrã́ 
+many: gbɔ̃ʏ̈ʊ̃́ 
+much: gbɔ̃ʏ̈ʊ̃́ 
+multiple: gbɔ̃ʏ̈ʊ̃́ 
+several: gbɔ̃ʏ̈ʊ̃́ 
+flesh: ɛ́ɲã́ 
+meat: ɛ́ɲã́ 
+moon: ɛ́tɛ́ 
+hill: ekp~o 
+mountain: ekp~o 
+mouth: ɛ́nɔ̃́ 
+name: èɲí 
+title: èɲí 
+neck: áwɔ̀ɓà 
+new: fofo	ɛ̀fɔ́ 
+night: edomlin	édómrĩʏ̈ 
+nighttime: edomlin	édómrĩʏ̈ 
+nose: ENuni	éŋrːĩ́ 
+adulterous: Eton	etõ	ɛ́tɔ̃́ 
+one: Eton	etõ	ɛ́tɔ̃́ 
+single: Eton	etõ	ɛ́tɔ̃́ 
+that: lé	lɛ́ 
+the: Eton	etõ	ɛ́tɔ̃́ 
+unprincipled: Eton	etõ	ɛ́tɔ̃́ 
+human: ɛ̀cɥrã́ 
+human being: ɛ̀cɥrã́ 
+person: ɛ̀cɥrã́ 
+rain: ɛ̀sɔ̃́ 
+rainy weather: ɛ̀sɔ̃́ 
+red: gbɛ̃ 
+path: eSi	esi 
+road: eSi	esi 
+route: eSi	esi 
+root: ɛ́ɲráɓà 
+round: ɣriɣri 
+sand: ɛ́sá-ɲã́ 
+say: lɔ 
+see: kɔ 
+seed: ábá 
+sit: sa … lɛ̀ 
+hide: èfrú 
+skin: èfrú 
+sleep: sre ŋʷlĩ́ 
+little: ɛ́ɓâpɪ́ 
+small: ɛ́ɓâpɪ́ 
+smallness: ɛ́ɓâpɪ́ 
+smoke: ɛ́ɲáwrːĩʏ̈ 
+star: àyràwá 
+rock: lEsEn	lɛ́sɛ̃ʏ̈-bà 
+stone: lEsEn	lɛ́sɛ̃ʏ̈-bà 
+sun: bisi	ɓísì 
+swim: wa … sɔ̃́ 
+tail: lézyé 
+this: níní 
+2 sg: a	áɣɛ́ 
+thou: a	áɣɛ́ 
+you: a	áɣɛ́ 
+tongue: azraba	ázráɓà 
+tooth: E5ra	ɛ́ɲrã́ 
+tree: eziba	eziwa 
+grind: a5o	ayõ	áɲɔ̃́ 
+two: a5o	ayõ	áɲɔ̃́ 
+go: ɲa … sí 
+walk: ɲa … sí 
+water: Eson	ɛ̀sɔ̃́ 
+what: lǎ-tɔ̃́ 
+white: vɔ̃ 
+whiteness: vɔ̃ 
+who: ɛ́tɔ̃́ 
+who?: ɛ́tɔ̃́ 
+female: ɓásá 
+woman: ɓásá 
+distant: kàkàŋã́ 
+far: kàkàŋã́ 
+dull: ɟro 
+heavy: ɟro 
+serious: ɟro 
+salt: ɛ́sã́ 
+snake: ɛ̀ɲã́ŋã́ 
+wind: évrívãʏ̈ 
+earthworm: ɛ́gɔ́nɪ̀ 
+worm: ɛ́gɔ́nɪ̀ 
+year: ɛ̀vráw̃ũʏ̈ 
+2 pl.: ã́wã́ 
+ye: ã́wã́ 
+you all: ã́wã́ 
+3 pl.: ɲɔ̃́ 
+they: ɲɔ̃́ 
+here: ázɛ̃́ 
+there: lávrɛ̃́ 
+where: kɪ́kà 
+where?: kɪ́kà 
+when: éyú-tɔ̃́ 
+when?: éyú-tɔ̃́ 
+few: ɛ́ɟã́ 
+other: ɛ̀ɟrá 
+three: anzã	ã́zã́ 
+four: anã	ànã́ 
+five: anyu	àɲú 
+broad: tra 
+wide: tra 
+wideness: tra 
+fat: nã́ɲṹ 
+thick: gbùdù	ɛ̀dà 
+narrow: vi 
+child: ɛ̀bá 
+principal wife: sì 
+wife: sì 
+husband: wʊ̀ 
+his mother: mãʏ̈ 
+mother: mãʏ̈ 
+my mother: mãʏ̈ 
+father: sà 
+his father: sà 
+my father: sà 
+animal: ɛ̀ɲã́ 
+fruit: èzí-bá 
+grass: pìtí 
+cord: ɛ́vɛ́ɓà 
+rope: ɛ́vɛ́ɓà 
+grease: nã́ɲṹ 
+fingernail: àcúfuã́ 
+leg: ɛ́nɛ̃́ɓà 
+wing: èbútù 
+gut: écóɓà 
+guts: écóɓà 
+insides: écóɓà 
+intestine: écóɓà 
+intestines: écóɓà 
+back: èwúzù 
+vomit: gɛ 
+blow: bɛ̃ 
+breath: fʷrːĩ 
+breathe: fʷrːĩ 
+laugh: mɛ̃ 
+laughter: mɛ̃ 
+cogitate: gugu 
+reflect: gugu 
+think: gugu 
+smell: sɛ wrú 
+sniff: sɛ wrú 
+cut: bri 
+hack: bri 
+dig: kwɨ̋ 
+tell lies: sɔ̃ … zrá-yɔ̀ 
+stand: drɛ 
+drop: zya lɛ̀ 
+fall: zya lɛ̀ 
+grasp: ɲɔ̃ zwa 
+hold: ɲɔ̃ zwa 
+hold in arm: ɲɔ̃ zwa 
+squeeze: mwã … nɛ̃ʏ̈ 
+wring: mwã … nɛ̃ʏ̈ 
+wash: kpro 
+wash clothes: kpro 
+wipe: vyrã 
+push: wo 
+shove: wo 
+bind: kpra 
+fasten: kpra 
+tie: kpra 
+tie up: kpra 
+sew: bla 
+count: sã 
+enumerate: sã 
+number: sã 
+tally: sã 
+sing: ɟi nɔ̃́ 
+float: wro 
+flow: gba … lɛ̀ 
+brook: ɛ̀sɔ̃́-bɛ́ 
+river: ɛ̀sɔ̃́-bɛ́ 
+stream: ɛ̀sɔ̃́-bɛ́ 
+dust: ɛ́zɔ̃́ 
+fog: ɛ́ɟwã́ 
+blaze: wrɔ 
+burn: wrɔ 
+day: éyú 
+daylight: éyú 
+daytime: éyú 
+rot: ɲɛ̃ 
+rotten: ɲɛ̃ 
+dirty: byo 
+filthy: byo 
+soiled: byo 
+sharp: sɛ 
+smooth: trɔ̌trɔ́ 
+right side: ɛ̀dyá 
+left: ɛ̀frɔ̃́ 
+in: émí-m̀ 
+inside: émí-m̀ 
+and: mã́ 
+if: èyì 

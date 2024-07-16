@@ -1,0 +1,313 @@
+all: āl	ɛvrɩ 
+every: āl	ɛvrɩ 
+ash: ašɩz	sɩnda 
+ashes: ašɩz	sɩnda 
+bark: bāk 
+big: bɩg	lāǰ 
+bigness: bɩg	lāǰ 
+large: bɩg	lāǰ 
+bird: bɔd	bərd	bɛrd 
+bite: baɩt 
+black: blak 
+blood: blod	blɔd 
+bone: buon	bʊɔn 
+breast: brɛs 
+breasts: brɛs 
+claw: klā 
+nail: klā 
+talon: klā 
+cloud: klod 
+cold: kʊɔl 
+come: kom	kɔm 
+come from: kom	kɔm 
+be dead: ded	dɛd 
+dead: ded	dɛd 
+die: ded	dɛd 
+dog: dag	dāg 
+drink: drɩŋk	jriNk 
+dry: draɩ 
+ear: iez	ɛɩz 
+earth: lan	ɛrt 
+ground: lan	ɛrt 
+land: lan	ɛrt 
+soil: lan	ɛrt 
+eat: it	nɩam 
+egg: ɛg 
+eye: aɩ	yEi 
+feather: fɛda 
+fire: fEiyE	faya 
+fish: fiS	fɩš 
+fly: flaɩ 
+fly v.: flaɩ 
+foot: fʊt 
+full: fʊl 
+give: gi	gɩv 
+good: gʊd 
+green: grin 
+hair: ɛɩr 
+hand: an	hEn 
+left hand: an	hEn 
+right: an	hEn 
+head: ɛd 
+hear: yer	ɛɩr 
+heart: āt 
+horn: ān 
+1 sg.: aɩ	mi	mɩ 
+I: aɩ	mi	mɩ 
+kill: kɩl 
+knee: ni 
+be knowledgeable: nʊɔ 
+know: nʊɔ 
+leaf: lif 
+lie: lɛɩ-dɔn 
+lie down: lɛɩ-dɔn 
+liver: libE	lɩva 
+long: laŋ 
+head louse: lEis	laɩs 
+louse: lEis	laɩs 
+male: man 
+man: pɛrsn	smEdi	yuman	yuman bin 
+many: mɔč	plɛnti 
+much: mɔč	plɛnti 
+multiple: mɔč	plɛnti 
+several: mɔč	plɛnti 
+flesh: flɛš 
+meat: flɛš 
+moon: mun 
+hill: moNtn	mɔutɩn	ɩl 
+mountain: moNtn	mɔutɩn	ɩl 
+mouth: mɔʊt 
+name: niem	nɛɩm 
+title: niem	nɛɩm 
+neck: nɛk 
+new: 5u	nɩu 
+night: nEit	naɩt 
+nighttime: nEit	naɩt 
+nose: nuoz	nʊɔz 
+adulterous: wEn	wan 
+one: wEn	wan 
+single: wEn	wan 
+that: wEn	wan 
+the: wEn	wan 
+unprincipled: wEn	wan 
+human: pɛrsn	smEdi	yuman	yuman bin 
+human being: pɛrsn	smEdi	yuman	yuman bin 
+person: pɛrsn	smEdi	yuman	yuman bin 
+rain: rɛɩn 
+rainy weather: rɛɩn 
+red: rɛd 
+path: ruod 
+road: ruod 
+route: ruod 
+root: rut 
+round: rɔʊn 
+sand: san 
+say: sɛ 
+see: si 
+seed: sid 
+sit: sɩ-	sɩt 
+hide: kin	kɩn 
+skin: kin	kɩn 
+sleep: slip 
+little: lɩkl	smāl	sʊmal 
+small: lɩkl	smāl	sʊmal 
+smallness: lɩkl	smāl	sʊmal 
+smoke: smʊɔk 
+star: stār	ta 
+rock: rak	rak-stʊn	stʊɔn	tuon 
+stone: rak	rak-stʊn	stʊɔn	tuon 
+sun: son	sɔn 
+swim: swɩm 
+tail: tɛɩl 
+2 sg: yu	yʊ 
+thou: yu	yʊ 
+you: yu	yʊ 
+tongue: toN	tɔŋ 
+tooth: tit 
+tree: Ti 
+grind: tu	tuu 
+two: tu	tuu 
+go: wāk 
+walk: wāk 
+hot: wām 
+warm: wām 
+water: watE	wāta 
+1 pl. inc.: wi	wɩ 
+we: wi	wɩ 
+we₁: wi	wɩ 
+what: wɔt 
+white: waɩt 
+whiteness: waɩt 
+female: uman 
+woman: uman 
+yellow: yɛlo	yɩlaʊ 
+distant: fā 
+far: fā 
+dull: ɛvɩ 
+heavy: ɛvɩ 
+serious: ɛvɩ 
+close: nɛɩr 
+near: nɛɩr 
+ner: nɛɩr 
+salt: salt	sālt 
+short: šāt 
+snake: snɛɩk 
+thin: tɩn 
+wind: wɩn 
+earthworm: wɔm	wɔrɔm	wərm 
+worm: wɔm	wɔrɔm	wərm 
+year: ɛɩr 
+2 pl.: yu	yʊ	ʊnʊ 
+ye: yu	yʊ	ʊnʊ 
+you all: yu	yʊ	ʊnʊ 
+3 pl.: dɛm 
+they: dɛm 
+where: wɛ 
+where?: wɛ 
+when: wɛn 
+when?: wɛn 
+some: sɔm 
+few: fɩu	lɩkl 
+three: chii	chrii	tri 
+four: fuo	fʊɔ 
+five: faiv	faɩv 
+broad: brād	waɩd 
+wide: brād	waɩd 
+wideness: brād	waɩd 
+fat: fat	gris 
+thick: tɩk 
+narrow: narɔ 
+child: čaɩl 
+principal wife: waɩf 
+wife: waɩf 
+husband: ɔzban 
+his mother: madā	māda 
+mother: madā	māda 
+my mother: madā	māda 
+father: fadā	fāda 
+his father: fadā	fāda 
+my father: fadā	fāda 
+animal: anɩmal 
+forest: buš	farɩs	wudz 
+woods: buš	farɩs	wudz 
+branch: branč 
+stick: branč 
+fruit: frut 
+flower: flɔwa 
+grass: grās 
+cord: kād	rʊɔp 
+rope: kād	rʊɔp 
+grease: fat	gris 
+fingernail: fɩŋga-nɛɩl 
+leg: fʊt	lɛg 
+wing: wɩŋ 
+gut: gɔts	traɩp	ɩntɛstaɩn 
+guts: gɔts	traɩp	ɩntɛstaɩn 
+insides: gɔts	traɩp	ɩntɛstaɩn 
+intestine: gɔts	traɩp	ɩntɛstaɩn 
+intestines: gɔts	traɩp	ɩntɛstaɩn 
+back: bak 
+suck: sɔk 
+spit: spɩt 
+vomit: pɩʊk	trʊɔ-ɔp	vamɩt 
+blow: blʊɔ 
+breath: brid 
+breathe: brid 
+laugh: lāf 
+laughter: lāf 
+cogitate: tɩŋk 
+reflect: tɩŋk 
+think: tɩŋk 
+smell: smɛl 
+sniff: smɛl 
+afraid: fraɩt	fɛɩr 
+be afraid: fraɩt	fɛɩr 
+fear: fraɩt	fɛɩr 
+fright: fraɩt	fɛɩr 
+alive: laɩf	lɩ	əlaɩv 
+be alive: laɩf	lɩ	əlaɩv 
+life: laɩf	lɩ	əlaɩv 
+live: laɩf	lɩ	əlaɩv 
+living: laɩf	lɩ	əlaɩv 
+fight: faɩt 
+hunt: ɔnt 
+beat: bit	staɩk	ɩt 
+hit: bit	staɩk	ɩt 
+strike: bit	staɩk	ɩt 
+cut: kɔt 
+hack: kɔt 
+cut open: splɩt 
+split: splɩt 
+pierce: stab 
+stab: stab 
+dig: dɩg 
+tell lies: laɩ	tɛl laɩ 
+stand: tan- 
+turn: tɔn rɔŋ	tərn rɔʊn 
+turn around: tɔn rɔŋ	tərn rɔʊn 
+turn round: tɔn rɔŋ	tərn rɔʊn 
+drop: fāl 
+fall: fāl 
+grasp: ʊɔl 
+hold: ʊɔl 
+hold in arm: ʊɔl 
+squeeze: kwiz	rɩŋ 
+wring: kwiz	rɩŋ 
+rub: rɔb	waɩp 
+wipe: rɔb	waɩp 
+wash: waš 
+wash clothes: waš 
+push: pʊš	šʊb 
+shove: pʊš	šʊb 
+throw: daš	flɩŋ	trʊɔ	tās 
+bind: baɩn	taɩ 
+fasten: baɩn	taɩ 
+tie: baɩn	taɩ 
+tie up: baɩn	taɩ 
+sew: sʊɔ 
+count: kont 
+enumerate: kont 
+number: kont 
+tally: kont 
+sing: sɩŋ 
+have fun: plɛɩ 
+play: plɛɩ 
+float: flʊɔt 
+flow: flʊɔ 
+brook: bruk	riba	riva	strim 
+river: bruk	riba	riva	strim 
+stream: bruk	riba	riva	strim 
+lake: lɛɩk 
+ocean: si 
+sea: si 
+dust: das 
+fog: fag 
+sky: skaɩ 
+snow: snʊɔ 
+ice: aɩs 
+blaze: bɔn	bərn 
+burn: bɔn	bərn 
+day: dɛɩ 
+daylight: dɛɩ 
+daytime: dɛɩ 
+bad: bad 
+evil: bad 
+rot: ratɩn	spʷaɩl 
+rotten: ratɩn	spʷaɩl 
+dirty: dɔtɩ	dərtɩ	saɩl 
+filthy: dɔtɩ	dərtɩ	saɩl 
+soiled: dɔtɩ	dərtɩ	saɩl 
+straight: trɛɩt 
+sharp: šāp 
+blunt: blɔnt	dɔl 
+smooth: smud 
+damp: damp	wɛt 
+wet: damp	wɛt 
+correct: karɛk	raɩt 
+right side: raɩt 
+left: lɛf 
+in: ɩn-saɩd 
+inside: ɩn-saɩd 
+and: an 
+if: ɩf 
+because: bɩkɔzn 

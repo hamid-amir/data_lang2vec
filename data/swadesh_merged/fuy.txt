@@ -1,0 +1,645 @@
+ankle: segikanan 
+ankle: sog-u-kodabe 
+ankle: sog\ u\ kodabe 
+ankle: sukukassi 
+arm: bodo(le) 
+arm: ia 
+arm: iaara-mis\ombe 
+arm: ianata fande 
+arm: iara mišiombe 
+arm: iare-tafande 
+arm: ya 
+arrow: fode 
+arrow: fod-u-komome 
+ashes: foye | foye	hoi 
+ashes: hoi | foye	hoi 
+ashes: houa | foye	hoi 
+back: bane 
+back: bano 
+bad: ko 
+bad: koena 
+bad: ko(ye) 
+belly: habe | habe	hombo	obo	ombo	ombole 
+belly: habera | habe	hombo	obo	ombo	ombole 
+belly: hombo | habe	hombo	obo	ombo	ombole 
+belly: obo | habe	hombo	obo	ombo	ombole 
+belly: ombo(le) | habe	hombo	obo	ombo	ombole 
+big: baibe | baibe	mataka 
+big: eminogi | baibe	mataka 
+big: mataka | baibe	mataka 
+bird: membe | membe	neba	nebe	nembe 
+bird: neba | membe	neba	nebe	nembe 
+bird: nebe | membe	neba	nebe	nembe 
+bird: nemba | membe	neba	nebe	nembe 
+bird: nembe | membe	neba	nebe	nembe 
+bird: tubureda | membe	neba	nebe	nembe 
+bite: angale | aŋale 
+bite: aŋale 
+bite: itede | aŋale 
+bitter: beekoi 
+bitter: beːkoi 
+black: duba | duba	dube 
+black: dube | duba	dube 
+blood: tana | tana	tanale 
+blood: tana(le) | tana	tanale 
+blood: tanara | tana	tanale 
+bone: fude | fude	ufudi 
+bone: kunia | fude	ufudi 
+bone: ufudi | fude	ufudi 
+boy: isoko 
+boy: me 
+branch: bodo(le) 
+branch: gobe 
+branch: uga 
+breast: duda | duda	ouba 
+breast: ouba | duda	ouba 
+breast: ouba\ ul\ unge | duda	ouba 
+breast: ouba-ul-uŋe | duda	ouba 
+brother: ena(ne) 
+butterfly: kaneke 
+butterfly: keneke 
+butterfly: maiabinava 
+calf: fande 
+calf: furo 
+calf: mise 
+cheek: hanan 
+cheek: omenge 
+cheek: omeŋe 
+chest: bononga 
+chest: bonoŋa 
+chest: kavale 
+chest: konode 
+chest: kononda 
+child: ame(le) 
+child: amuri 
+child: ayame(le) 
+child: ese 
+child: isa 
+child: isia 
+child: isoko 
+child: me 
+child: mele 
+child: me(le) 
+chin: ana 
+claw: bodo | bodo	fodo	fodole	koko 
+claw: fodo(le) | bodo	fodo	fodole	koko 
+claw: koko | bodo	fodo	fodole	koko 
+cloud: unu(me) | unu	unume 
+cold: dudura | dudure	yuyuma 
+cold: dudure | dudure	yuyuma 
+cold: yuyuma | dudure	yuyuma 
+come: hinga | cia	hiŋa	tsia	yeterun 
+come: hiŋa | cia	hiŋa	tsia	yeterun 
+come: iso | cia	hiŋa	tsia	yeterun 
+come: tsia | cia	hiŋa	tsia	yeterun 
+come: yeterun | cia	hiŋa	tsia	yeterun 
+crocodile: fua 
+crocodile: fuai 
+cut: ememe 
+dark: budubodegu 
+dark: gerenama 
+dark: gerenema 
+dark: tu(be) 
+day: ev-ul-aveve 
+day: ev\ ul\ aveve 
+day: evurima 
+die: usa | usaNege	usaga	usaŋege 
+die: usaga | usaNege	usaga	usaŋege 
+die: usangege | usaNege	usaga	usaŋege 
+die: usaŋege | usaNege	usaga	usaŋege 
+dig: mudi 
+dig: tsie 
+dog: fu | fu	ho	hoa	hu	oi	oie 
+dog: ho | fu	ho	hoa	hu	oi	oie 
+dog: hoa | fu	ho	hoa	hu	oi	oie 
+dog: hu | fu	ho	hoa	hu	oi	oie 
+dog: oi(e) | fu	ho	hoa	hu	oi	oie 
+drink: eu naida | eu naida	nene 
+drink: eu\ naida | eu naida	nene 
+drink: nene | eu naida	nene 
+ear: gadero | gadero	gaderu	gadoro	i	yaNolome	yaŋolo	yaŋolome 
+ear: gaderu | gadero	gaderu	gadoro	i	yaNolome	yaŋolo	yaŋolome 
+ear: gadolo | gadero	gaderu	gadoro	i	yaNolome	yaŋolo	yaŋolome 
+ear: gadoro | gadero	gaderu	gadoro	i	yaNolome	yaŋolo	yaŋolome 
+ear: i | gadero	gaderu	gadoro	i	yaNolome	yaŋolo	yaŋolome 
+earth: bu | bu	fa	hoa 
+earth: bu(le) | bu	fa	hoa 
+earth: fa | bu	fa	hoa 
+earth: fa(la) | bu	fa	hoa 
+earth: fa(le) | bu	fa	hoa 
+earth: hoa | bu	fa	hoa 
+ear: yangola(me) | gadero	gaderu	gadoro	i	yaNolome	yaŋolo	yaŋolome 
+ear: yaŋolo(me) | gadero	gaderu	gadoro	i	yaNolome	yaŋolo	yaŋolome 
+eat: adako naida | adako naida	iaruma	nene 
+eat: adako\ naida | adako naida	iaruma	nene 
+eat: iaruma | adako naida	iaruma	nene 
+eat: nene | adako naida	iaruma	nene 
+egg: hoboro | obo	ombo	ombole 
+egg: obo | obo	ombo	ombole 
+egg: ombo(le) | obo	ombo	ombole 
+elbow: bodol-u-kodabe 
+elbow: bodol\ u\ kodabe 
+elbow: hikanan 
+elbow: hukunan 
+elbow: iara-kasi 
+elbow: iara kassi 
+elbow: ya koba 
+elbow: ya\ koba 
+emu: vasa 
+eye: e | e	i	ima	ime	iŋ	yago 
+eye: emurese | e	i	ima	ime	iŋ	yago 
+eye: ima | e	i	ima	ime	iŋ	yago 
+eye: i(-ma) | e	i	ima	ime	iŋ	yago 
+eye: i(me) | e	i	ima	ime	iŋ	yago 
+eye: indamane | e	i	ima	ime	iŋ	yago 
+eye: i(ng) | e	i	ima	ime	iŋ	yago 
+eye: i(ŋ) | e	i	ima	ime	iŋ	yago 
+eye: ingob\ u\ male | e	i	ima	ime	iŋ	yago 
+eye: iŋob-u-male | e	i	ima	ime	iŋ	yago 
+eye: ing\ ode | e	i	ima	ime	iŋ	yago 
+eye: iŋ ode | e	i	ima	ime	iŋ	yago 
+eye: ing\ uba | e	i	ima	ime	iŋ	yago 
+eye: iŋ uba | e	i	ima	ime	iŋ	yago 
+eye: yago | e	i	ima	ime	iŋ	yago 
+face: hodu 
+face: mede 
+face: yodoge 
+far: busara | busara	gisa	gisale 
+far: gisa(le) | busara	gisa	gisale 
+father: ba 
+father: babe 
+father: ba(be) 
+father: bane 
+fear: undede 
+feather: fala(le) | ma	male	pame	wasa 
+feather: ma(le) | ma	male	pame	wasa 
+feather: nibuma | ma	male	pame	wasa 
+feather: pame | ma	male	pame	wasa 
+feather: vasa | ma	male	pame	wasa 
+feather: wasa | ma	male	pame	wasa 
+finger: bodol\ u\ feneme 
+finger: bodol-u-gobe 
+finger: bodol\ u\ gobe 
+finger: bodol-u-mame 
+finger: bodol\ u\ mame 
+finger: bodol\ u\ talave 
+finger: hugube 
+finger: hu-gube 
+finger: hu-tarofe 
+finger: iaru-ma 
+fingernail: bodong 
+fingernail: bodoŋ 
+fingernail: fodo(le) 
+fingernail: iakundube 
+fingernail: koko 
+finger: naria 
+finger: sukugube 
+finger: taruma 
+finger: yaro goba 
+finger: yaro\ goba 
+fire: oke | oke	oki	okia	okide	uki 
+fire: okia | oke	oki	okia	okide	uki 
+fire: oki (de) | oke	oki	okia	okide	uki 
+fire: uki | oke	oki	okia	okide	uki 
+fish: garume | ?unuma	garume	garuŋ 
+fish: garung | ?unuma	garume	garuŋ 
+fish: garuŋ | ?unuma	garume	garuŋ 
+fish: mada | ?unuma	garume	garuŋ 
+fish: unuma | ?unuma	garume	garuŋ 
+fish: unuma (?) | ?unuma	garume	garuŋ 
+five: umindana 
+flower: oyande 
+flower: sive 
+flower: unida 
+fly (n.): sigarum 
+fly (n.): sigurum 
+fly (n.): suguru 
+fly (n.): sungulu(me) 
+fly (n.): suŋulu(me) 
+fly (v.): iyei 
+fog: hunu 
+fog: unu(me) 
+foot: hu tobo | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: hu\ tobo | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: so(ge) | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: sogo | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: sog-u-tobo | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: sog\ u\ tobo | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: suga | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: suge | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: sukutobo | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: suku(-tobu) | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: -tobu | so	soge	sogo	suga	suge	sukutobo	yovali 
+foot: yovali | so	soge	sogo	suga	suge	sukutobo	yovali 
+forehead: anone 
+forehead: ingobe 
+forehead: iŋ-obe 
+forehead: mede 
+forehead: mida 
+forest: bu 
+forest: mavane 
+forest: siu(le) 
+forest: tsiu(le) 
+four: iuara-tuiara 
+fruit: dede 
+fruit: iudede 
+girl: ame(le) 
+girl: amuri 
+girl: amurioiori 
+girl: amurisiori 
+girl: hami 
+give: g\eihete | ide	indi 
+give: ide | ide	indi 
+give: indi | ide	indi 
+good: ifa(ne) 
+good: ifi 
+good: namana 
+grass: tsu(le) 
+guts: gige 
+guts: taride 
+hair: alome | alome	ha 
+hair: ha | alome	ha 
+hair: makoko | alome	ha 
+hair: ma(le) | alome	ha 
+hand: bodo(le) | bodo	bodole	ia	tara	yaro uba 
+hand: bodol-u-tobo | bodo	bodole	ia	tara	yaro uba 
+hand: bodol\ u\-tobo | bodo	bodole	ia	tara	yaro uba 
+hand: ia | bodo	bodole	ia	tara	yaro uba 
+hand: ia(ra) | bodo	bodole	ia	tara	yaro uba 
+hand: iara-tobo | bodo	bodole	ia	tara	yaro uba 
+hand: iaruse | bodo	bodole	ia	tara	yaro uba 
+hand: ia-tobo | bodo	bodole	ia	tara	yaro uba 
+hand: ia\tobo | bodo	bodole	ia	tara	yaro uba 
+hand: tara | bodo	bodole	ia	tara	yaro uba 
+hand: -tobo | bodo	bodole	ia	tara	yaro uba 
+hand: ya | bodo	bodole	ia	tara	yaro uba 
+hand: yaratobo | bodo	bodole	ia	tara	yaro uba 
+hand: yaro uba | bodo	bodole	ia	tara	yaro uba 
+hand: yaro\ uba | bodo	bodole	ia	tara	yaro uba 
+head: ade(de) | ade	adede	ha	hondu 
+head: giginafe | ade	adede	ha	hondu 
+head: ha | ade	adede	ha	hondu 
+head: hoa | ade	adede	ha	hondu 
+head: hondu | ade	adede	ha	hondu 
+hear: alele 
+here: a(le) 
+he/she: derudaga 
+he/she: u 
+he/she: ula(ne) 
+he/she: u(ne) 
+he/she: u(-ni) 
+hole: olo 
+house: e 
+house: e(m) 
+house: ema 
+house: e(me) 
+house: emo(ne) 
+husband: a(ne) 
+husband: harea 
+I: na | na	nahu	nanio 
+I: nahu | na	nahu	nanio 
+I: na-ni | na	nahu	nanio 
+I: nanio | na	nahu	nanio 
+I: na-nio | na	nahu	nanio 
+I: nau | na	nahu	nanio 
+I: naula(ne) | na	nahu	nanio 
+kill: adede | adede	ememe 
+kill: ememe | adede	ememe 
+knee: amia | amia	amiaŋ 
+knee: amiang | amia	amiaŋ 
+knee: amiaŋ | amia	amiaŋ 
+know: tsitsiva 
+leaf: idu | idu	itu	tu	tule	utu 
+leaf: idu-rutu | idu	itu	tu	tule	utu 
+leaf: itu | idu	itu	tu	tule	utu 
+leaf: tu(le) | idu	itu	tu	tule	utu 
+leaf: utu | idu	itu	tu	tule	utu 
+leg: inako 
+leg: keniame 
+leg: suku misuombe 
+leg: suku-misuombe 
+leg: yovali 
+lip: uau (?) 
+lip: uba 
+lip: ude 
+lip: udu 
+live: asi 
+live: asihera 
+live: asilando 
+liver: dube | dube	hade 
+liver: hade | dube	hade 
+long: busa | busa	sesada 
+long: sesada | busa	sesada 
+louse: hi | iye 
+louse: i(ye) | iye 
+louse: kasin | iye 
+louse: yo(le) | iye 
+man: a | a	ane	inugu 
+man: a(ne) | a	ane	inugu 
+man: avoge | a	ane	inugu 
+man: inuga | a	ane	inugu 
+man: inugu | a	ane	inugu 
+many: haruf | haruf	tale	taluvi 
+many: harui | haruf	tale	taluvi 
+many: tale | haruf	tale	taluvi 
+many: taluvi | haruf	tale	taluvi 
+many: tauvi | haruf	tale	taluvi 
+meat: hude | misa	mise 
+meat: misa | misa	mise 
+meat: mise | misa	mise 
+moon: hama | hama	hoːaːna	one 
+moon: hoana | hama	hoːaːna	one 
+moon: hoːaːna | hama	hoːaːna	one 
+moon: one | hama	hoːaːna	one 
+morning: heitere 
+morning: heitsirine bisiri 
+morning: tutsi 
+mosquito: igogesa 
+mosquito: maingogo 
+mosquito: maiŋogo 
+mother: mah\ 
+mother: ma(me) 
+mother: uma 
+mountain: bunga | kume 
+mountain: buŋa | kume 
+mountain: kume 
+mountain: kumo | kume 
+mouth: adinu | adinu	ambode	gobaŋ	ude 
+mouth: ambode | adinu	ambode	gobaŋ	ude 
+mouth: gobang | adinu	ambode	gobaŋ	ude 
+mouth: gobaŋ | adinu	ambode	gobaŋ	ude 
+mouth: ude | adinu	ambode	gobaŋ	ude 
+name: i(-ve) | ive 
+name: i(ve) | ive 
+nape: indu 
+navel: habera 
+navel: koboro 
+navel: kombolu 
+navel: kumburu 
+near: kugume | kugume	kuguraga 
+near: kuguraga | kugume	kuguraga 
+neck: fida | gurube 
+neck: gurube 
+night: putuperere | tu	tube 
+night: tu(be) | tu	tube 
+nose: hunge | huŋe	uNe	unuga	uŋa	uŋe 
+nose: unga | huŋe	uNe	unuga	uŋa	uŋe 
+nose: unge | huŋe	uNe	unuga	uŋa	uŋe 
+nose: ung\ ul\ olo | huŋe	uNe	unuga	uŋa	uŋe 
+nose: uŋ-ul-olo | huŋe	uNe	unuga	uŋa	uŋe 
+nose: unuga | huŋe	uNe	unuga	uŋa	uŋe 
+nose: urorong | huŋe	uNe	unuga	uŋa	uŋe 
+nose: uroroŋ | huŋe	uNe	unuga	uŋa	uŋe 
+not: huano 
+not: mi 
+not: ua(ne) 
+not: whano 
+one: fidana | fida	fidana	fidane 
+rain: iangose | iaŋose	iaŋuše	yagose	yaŋose 
+rain: iaŋose | iaŋose	iaŋuše	yagose	yaŋose 
+rain: iaŋuše | iaŋose	iaŋuše	yagose	yaŋose 
+rain: iangushe | iaŋose	iaŋuše	yagose	yaŋose 
+rain: yagosa | iaŋose	iaŋuše	yagose	yaŋose 
+rain: yagose | iaŋose	iaŋuše	yagose	yaŋose 
+rain: yangose | iaŋose	iaŋuše	yagose	yaŋose 
+rain: yaŋose | iaŋose	iaŋuše	yagose	yaŋose 
+rat: giliminde 
+rat: sui 
+red: boratu | ilalama 
+red: ilalama 
+red: polatu | ilalama 
+river: iu 
+river: yu(ve) 
+road: ara | enambe 
+road: enaba | enambe 
+road: enambe 
+road: enambo | enambe 
+road: foida | enambe 
+root: iysu | iysu	okusili 
+root: okusi | iysu	okusili 
+root: okusili | iysu	okusili 
+rope: konange 
+rope: konaŋe 
+rope: yu 
+salt: ama | ama	amane	hanamo 
+salt: ama(ne) | ama	amane	hanamo 
+salt: hanamo | ama	amane	hanamo 
+sand: sanga(ve) | saŋa	saŋave	soːaːna 
+sand: saŋa(ve) | saŋa	saŋave	soːaːna 
+sand: soana | saŋa	saŋave	soːaːna 
+sand: soːaːna | saŋa	saŋave	soːaːna 
+say: ave(te) | saŋa	saŋave	soːaːna 
+scratch: fifiete 
+scratch: sisilimi 
+sea: isa 
+sea: ise 
+sea: kavara 
+see: ariri 
+see: eage | ariri 
+short: ono(ve) | ono	onove 
+shoulder: kosa 
+shoulder: matange 
+shoulder: mataŋe 
+sister: eta(de) 
+sit: tegid ande 
+sit: tegid\ ande | tegid ande 
+skin: hode | hode	neŋere	ode 
+skin: nengere | hode	neŋere	ode 
+skin: neŋere | hode	neŋere	ode 
+skin: ode | hode	neŋere	ode 
+sky: asolo(ne) 
+sky: asoro 
+sleep: imaritade | imaritade	imurida 
+sleep: imauride | imaritade	imurida 
+sleep: imurida | imaritade	imurida 
+small: aka(ne) | aka	akane	ami-aga	kisi	kisibaga 
+small: ami-aga | aka	akane	ami-aga	kisi	kisibaga 
+small: ami\aga | aka	akane	ami-aga	kisi	kisibaga 
+small: kisi | aka	akane	ami-aga	kisi	kisibaga 
+small: kisi-aka(ne) | aka	akane	ami-aga	kisi	kisibaga 
+small: kisibaga | aka	akane	ami-aga	kisi	kisibaga 
+smell: tovogi 
+smoke: ishio | iso	isone	isoŋ	isoːaː	išiona 
+smoke: ishiona | iso	isone	isoŋ	isoːaː	išiona 
+smoke: išiona | iso	isone	isoŋ	isoːaː	išiona 
+smoke: isoa | iso	isone	isoŋ	isoːaː	išiona 
+smoke: isoːaː | iso	isone	isoŋ	isoːaː	išiona 
+smoke: iso(ne) | iso	isone	isoŋ	isoːaː	išiona 
+smoke: isong | iso	isone	isoŋ	isoːaː	išiona 
+smoke: isoŋ | iso	isone	isoŋ	isoːaː	išiona 
+snake: hemai | hemai	tsivili 
+snake: tsivili | hemai	tsivili 
+son: ese 
+spit: sabe 
+spit: sabete 
+split: itu(ili) 
+stand: yu 
+star: alile | alile	duba	harira 
+star: duba | alile	duba	harira 
+star: hama-dofee | alile	duba	harira 
+star: harira | alile	duba	harira 
+stone: bute | bute	butia	io 
+stone: butia | bute	butia	io 
+stone: io | bute	butia	io 
+sun: eurima | eve	evurima	ewu	ewuri	uerima 
+sun: eve | eve	evurima	ewu	ewuri	uerima 
+sun: evurima | eve	evurima	ewu	ewuri	uerima 
+sun: ewu(ri) | eve	evurima	ewu	ewuri	uerima 
+sun: uerima | eve	evurima	ewu	ewuri	uerima 
+sweet: bebena 
+that: -vala 
+there: va(le) 
+they: apagodago 
+they: ha-ru 
+they: mu 
+they: mula(ne) 
+they: tu(-ni) 
+they two: tu 
+they two: tula(le) 
+thick: kakava(ne) 
+thigh: muda 
+thigh: mude 
+thin: fafale | fafale	garibe 
+thin: garibe | fafale	garibe 
+this: -ana 
+thou: nu | nu	nunni 
+thou: nula(ne) | nu	nunni 
+thou: nuni | nu	nunni 
+thou: nunni | nu	nunni 
+thou: sasana | nu	nunni 
+thou: yi | nu	nunni 
+thou: yula(ne) | nu	nunni 
+three: iuara minda 
+three: iuara-minda 
+throat: aroro 
+throat: hiudu 
+throat: kalolo 
+today: akuro 
+today: audati 
+tomorrow: aiti 
+tomorrow: heitsiri 
+tongue: asese | asese	asiesa	asisino	usese 
+tongue: asiesa | asese	asiesa	asisino	usese 
+tongue: asisino | asese	asiesa	asisino	usese 
+tongue: tsimi(-li) | asese	asiesa	asisino	usese 
+tongue: usese | asese	asiesa	asisino	usese 
+tooth: ado | ado	ato	atole	atu	usi 
+tooth: ato(le) | ado	ato	atole	atu	usi 
+tooth: atu | ado	ato	atole	atu	usi 
+tooth: sise | ado	ato	atole	atu	usi 
+tooth: tsiba | ado	ato	atole	atu	usi 
+tooth: usi | ado	ato	atole	atu	usi 
+tooth: usi(le) | ado	ato	atole	atu	usi 
+tree: i | iye 
+tree: i(ye) | iye 
+two: iuara | gegeto	iuara 
+walk: gege 
+walk: hego 
+walk: henga 
+walk: heŋa 
+walk: inga 
+walk: iŋa 
+walk: savisavinga 
+warm: giginafe 
+warm: giginafi 
+warm: oloa 
+warm: olola 
+wash: umbubi 
+water: eu(wa) | eu	euwa	iu	yu	yuve 
+water: iu | eu	euwa	iu	yu	yuve 
+water: iu(-ni) | eu	euwa	iu	yu	yuve 
+water: yu | eu	euwa	iu	yu	yuve 
+water: yu(ve) | eu	euwa	iu	yu	yuve 
+we: di 
+we: di(-ni) 
+we: diula(ne) 
+weep: andavel-ete 
+weep: andavel\ete 
+weep: availi 
+weep: availili 
+we (incl.): agego 
+we two (incl.): da 
+we two (incl.): daula(ne) 
+what: anda(le) | anda	andale 
+when: aida 
+where: do(le) 
+white: foa | foa	fofoye	kogola 
+white: fofoye | foa	fofoye	kogola 
+white: kogola | foa	fofoye	kogola 
+who: da(le) | da	dale 
+wife: amu(le) 
+wind: gubu(a) | gubu	gubule	gubura 
+wind: gubu(le) | gubu	gubule	gubura 
+wind: gubu(ra) | gubu	gubule	gubura 
+wing: geoge 
+wing: pilulupe 
+wipe: ivo(ri) 
+woman: amu | amu	amule	amuri	mamo 
+woman: amu(le) | amu	amule	amuri	mamo 
+woman: amuri | amu	amule	amuri	mamo 
+woman: mamo | amu	amule	amuri	mamo 
+wood: i 
+wood: okiaga 
+wood: ora 
+wrist: bodol\ u\ gurube 
+wrist: ia\ u\ gidiba 
+yellow: yangogona | yarem	yaŋogona 
+yellow: yaŋogona | yarem	yaŋogona 
+yellow: yango(-ne) | yarem	yaŋogona 
+yellow: yarem | yarem	yaŋogona 
+yes: e 
+yes: keteno 
+yesterday: arima 
+you: inavaniga | nu	nunni 
+you two: ya 
+you two: yaula(ne) 
+you: yi(-ni) | nu	nunni 
+ash: foye	hoi 
+abdomen: habe	hombo	obo	ombo	ombole 
+bigness: baibe	mataka 
+large: baibe	mataka 
+breasts: duda	ouba 
+nail: bodo	fodo	fodole	koko 
+talon: bodo	fodo	fodole	koko 
+come from: cia	hiŋa	tsia	yeterun 
+be dead: usaNege	usaga	usaŋege 
+dead: usaNege	usaga	usaŋege 
+ground: bu	fa	hoa 
+land: bu	fa	hoa 
+soil: bu	fa	hoa 
+fly: iyei 
+fly v.: iyei 
+left hand: bodo	bodole	ia	tara	yaro uba 
+right: bodo	bodole	ia	tara	yaro uba 
+1 sg.: na	nahu	nanio 
+be knowledgeable: tsitsiva 
+head louse: iye 
+male: a	ane	inugu 
+much: haruf	tale	taluvi 
+multiple: haruf	tale	taluvi 
+several: haruf	tale	taluvi 
+flesh: misa	mise 
+hill: kume 
+title: ive 
+nighttime: tu	tube 
+adulterous: fida	fidana	fidane 
+single: fida	fidana	fidane 
+the: fida	fidana	fidane 
+unprincipled: fida	fidana	fidane 
+rainy weather: iaŋose	iaŋuše	yagose	yaŋose 
+path: enambe 
+route: enambe 
+hide: hode	neŋere	ode 
+little: aka	akane	ami-aga	kisi	kisibaga 
+smallness: aka	akane	ami-aga	kisi	kisibaga 
+rock: bute	butia	io 
+2 sg: nu	nunni 
+grind: gegeto	iuara 
+1 pl. inc.: di 
+we₁: di 
+whiteness: foa	fofoye	kogola 
+who?: da	dale 
+female: amu	amule	amuri	mamo 
+distant: busara	gisa	gisale 
+close: kugume	kuguraga 
+ner: kugume	kuguraga 

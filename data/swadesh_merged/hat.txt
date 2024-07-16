@@ -1,0 +1,372 @@
+all: tu | tout 
+all: tut | tout 
+arm: bra | men 
+ashes: sãn | sann 
+at: a 
+back: do 
+bad: move 
+bark: lapo bwa | kòs	po 
+belly: vãt | vant 
+big: grã | gran 
+bird: zwazo 
+bird: zwezo | zwazo 
+bite: môde | mòde 
+black: nwa 
+blood: sã | sa*	san 
+blow: sufle | soufle 
+bone: zo 
+breast: tete | se*	sen	tete 
+burn: bule | boule 
+child: pitit | pitit	timoun 
+cloud: nwaj | nyaj 
+cold: fwêt | frèt 
+come: viin | vini 
+correct: korêk | kòrèk 
+cut: kupe | koupe 
+dark: sõm 
+day: ju | jou 
+die: muri | mouri	muri 
+dig: fuye | fouye 
+dirty: sal 
+dog: sje | Se*	chen 
+down: ã-ba 
+down: ba 
+drink: bwê | bw~E	bwè 
+dry: sjesj | sèk 
+earth: (la)tê | latè 
+ear: zorêy | zorEy	zòrèy 
+eat: mãje | manje 
+egg: ze 
+eye: je | je	zy~e 
+fall: tõbe | tonbe 
+far: lwẽ | lwen 
+father: papa 
+fat (n.): grês 
+fear: pê | pè 
+feather: plim 
+fingernail: grif | zong 
+fire: dife 
+fish: pwasõ | pwason	pw~aso* 
+fish: pwesõ | pwason	pw~aso* 
+five: sẽk | senk 
+flower: flê | flè 
+flow: kule | koule 
+fly (v.): vole 
+foot: pie | pye 
+four: kat 
+fruit: fwi 
+full: plẽ | ple*	plen 
+give: ba | bay 
+give: bay 
+good: bõ | bon 
+grass: zêb | zèb 
+green: vêt | vèt 
+guts: trip | zantray 
+hair: sjive | cheve 
+hand: mẽ | me* | men 
+head: têt | tèt 
+hear: tãde | ta*de	tande 
+heart: kê | kè 
+heart: tsjê | kè 
+heavy: lu | lou 
+he: li 
+here: isit 
+hit: bay ku | frape 
+hit: frape 
+hold: kẽbe | kenbe 
+horn: kôn | ko*	kòn 
+how?: kõmã | kijan	kòman 
+how?: kũmã | kijan	kòman 
+husband: mari 
+if: si 
+I: m | mwen	mw~e* 
+I: mwẽ | mwen	mw~e* 
+in: lã | anndan	nan 
+in: nã | anndan	nan 
+kill: tuye | touye 
+knee: jenu | Zenu	jenou 
+know: kõnẽ | konnen 
+leaf: fêy | fEy	fèy 
+lie: kusje | blayi	kouche 
+liver: fwa | fwa	fw~a 
+long: lõ(g) 
+louse: pu | pou	pu 
+man: nõm | moun	mu* 
+many: ã pil | anpil 
+meat: sjê | vyann 
+moon: lalin 
+mother: mãmã | manman 
+mountain: môn | mo*	mo*tay	montay	mòn 
+mouth: busj | bouch 
+name: nõ | no*	non 
+narrow: etwat | jennen 
+navel: lõbwi 
+near: pre | toupre 
+neck: gagãn | kou 
+neck: kolêt | kou 
+neck: ku | kou 
+new: nef | nEf	nouvo	nuvo	nèf 
+new: nuvo | nEf	nouvo	nuvo	nèf 
+night: (la)nwit | lannuit	lanuit 
+nose: nẽ | ne*	nen 
+not: p | pa 
+not: pa 
+old: vie | aje	vye 
+one: yõn | en	yon	youn	yu* 
+other: lôt | lòt 
+other: zôt | lòt 
+person: mun | moun	mu* 
+pierce: pẽse | pike 
+rain: (la)pli | lapli 
+red: ruj | wouj 
+ripe: fêk 
+ripe: mi 
+river: lariviê | rivyè 
+road: siemẽ | Seme*	chemen	rut	wout 
+root: rasin 
+rotten: puri | pouri 
+round: rõ | won 
+rub: frote | fwote 
+salt: sêl | sèl 
+sand: sab 
+say: di | sab 
+seed: grẽn | grenn 
+see: wê | wE	wè 
+sew: kud | koud 
+sharp: file | file	koupe 
+short: kut | kout 
+sing: sjãte | chante 
+sit: sita | chita 
+sit: sjita | chita 
+sit: sjɪ̃ta | chita 
+sit: sɪ̃ta | chita 
+skin: lapo 
+sky: lesiêl | syèl 
+sleep: dômi | dòmi 
+small: piti 
+smell: sãti | santi 
+smoke: lafimê | lafimen 
+smooth: egal | lis 
+smooth: poli | lis 
+snake: sêpã | koulèv 
+spit: krasja | krache 
+split: fãn | separe 
+squeeze: sere 
+stab: tsjoke | pike 
+stand: kãpe | kanpe	leve 
+star: zetwal | etw~al	zetwal 
+stone: piê | roS	wòch 
+stone: rosj | roS	wòch 
+straight: dwat 
+suck: suse | souse 
+sun: solêy | solEy	solèy 
+swell: gõfle | anfle 
+swim: naje 
+tail: ke 
+tail: tye | ke 
+that: sila | en	yon	youn	yu* 
+there: la 
+they: yo 
+thick: epe | epè	pwès 
+think: pãse | panse 
+think: sjõje | panse 
+thin: mẽs | fen 
+this: sa 
+thou: u 
+three: twa 
+throw: voye | jete	voye 
+tie: mare 
+tongue: lãg | la*g	laN	lang 
+tooth: dã | da*	dan 
+tree: pie bwa | pyebwa	py~ebw~a 
+two: de 
+up: ã-lê 
+up: ã-ro 
+vomit: vomi 
+walk: masje | mache 
+warm: sjo | cho 
+wash: lave 
+water: dlo 
+water: dlyo | dlo 
+we: nu | nou	nu 
+wet: muye | mouye 
+what: ki sa | kisa 
+when?: kã | kilè 
+where?: ki kote 
+white: blãsj | blan 
+who: ki mun | kilès 
+wind: vã | van 
+wing: zêl | zèl 
+with: ak- | ak	avèk 
+with: ke | ak	avèk 
+with: zvê(k) | ak	avèk 
+woman: fãm | fanm 
+worm: vê | vè 
+year: ã | ane	lane 
+year: ane | ane	lane 
+yellow: jôn | jòn 
+ye: nu | nou	ou 
+every: tout 
+ash: sann 
+abdomen: vant 
+bigness: gran 
+large: gran 
+breasts: se*	sen	tete 
+come from: vini 
+be dead: mouri	muri 
+dead: mouri	muri 
+ground: latè 
+land: latè 
+soil: latè 
+fly: vole 
+fly v.: vole 
+left hand: me* 
+right: me* 
+1 sg.: mwen	mw~e* 
+be knowledgeable: konnen 
+long: long 
+head louse: pou	pu 
+male: nonm 
+much: anpil 
+multiple: anpil 
+several: anpil 
+hill: mo*	mo*tay	montay	mòn 
+title: no*	non 
+nighttime: lannuit	lanuit 
+adulterous: en	yon	youn	yu* 
+single: en	yon	youn	yu* 
+the: en	yon	youn	yu* 
+unprincipled: en	yon	youn	yu* 
+human: moun	mu* 
+human being: moun	mu* 
+rainy weather: lapli 
+path: Seme*	chemen	rut	wout 
+route: Seme*	chemen	rut	wout 
+hide: po 
+skin: po 
+little: piti 
+smallness: piti 
+rock: roS	wòch 
+2 sg: ou 
+thou: ou 
+you: ou 
+grind: de 
+go: mache 
+hot: cho 
+1 pl. inc.: nou	nu 
+we₁: nou	nu 
+whiteness: blan 
+who?: kilès 
+female: fanm 
+distant: lwen 
+dull: lou 
+serious: lou 
+close: toupre 
+ner: toupre 
+earthworm: vè 
+3 sg.: li 
+she: li 
+2 pl.: nou	ou 
+you all: nou	ou 
+3 pl.: yo 
+where: ki kote 
+when: kilè 
+how: kijan	kòman 
+some: kèk 
+few: enpe	tikal	tikras 
+broad: laj 
+wide: laj 
+wideness: laj 
+fat: grès 
+principal wife: madanm 
+wife: madanm 
+his mother: manman 
+my mother: manman 
+his father: papa 
+my father: papa 
+animal: zannimo 
+forest: forè 
+woods: forè 
+branch: baton 
+stick: baton 
+cord: kòd 
+rope: kòd 
+flesh: vyann 
+grease: grès 
+claw: zong 
+nail: zong 
+leg: janm	pye 
+gut: zantray 
+insides: zantray 
+intestine: zantray 
+intestines: zantray 
+breath: respire 
+breathe: respire 
+laugh: ri 
+laughter: ri 
+cogitate: panse 
+reflect: panse 
+sniff: santi 
+afraid: pè 
+be afraid: pè 
+fright: pè 
+alive: viv 
+be alive: viv 
+life: viv 
+live: viv 
+living: viv 
+fight: batay	goumen 
+hunt: chase 
+beat: frape 
+strike: frape 
+hack: koupe 
+cut open: separe 
+scratch: grate 
+lie down: blayi	kouche 
+tell lies: blayi	kouche 
+turn: vire 
+turn around: vire 
+turn round: vire 
+drop: tonbe 
+grasp: kenbe 
+hold in arm: kenbe 
+wring: sere 
+wipe: siye 
+wash clothes: lave 
+pull: tire 
+push: pouse 
+shove: pouse 
+bind: mare 
+fasten: mare 
+tie up: mare 
+count: konte 
+enumerate: konte 
+number: konte 
+tally: konte 
+have fun: jwe 
+play: jwe 
+float: flote 
+freeze: glase 
+brook: rivyè 
+stream: rivyè 
+lake: lak 
+ocean: lanmè 
+sea: lanmè 
+dust: pousyè 
+fog: bwouya 
+snow: lanèj	nèj 
+ice: glas 
+blaze: boule 
+daylight: jou 
+daytime: jou 
+evil: move 
+rot: pouri 
+filthy: sal 
+soiled: sal 
+blunt: defile	febli 
+damp: mouye 
+right side: adwat	dwat 
+left: agòch	gòch 
+inside: anndan	nan 
+and: ak	e	epi 
+because: akòz	paske	poutèt 

@@ -1,0 +1,259 @@
+ash: batmorsoa 
+ashes: batmorsoa 
+abdomen: tia 
+belly: tia 
+big: toronna 
+bigness: toronna 
+large: toronna 
+bird: manno 
+bite: at 
+black: boŋboŋtub 
+blood: dai	ndr$ae 
+bone: sui 
+breast: susu 
+breasts: susu 
+burn: sului 
+burn tr.: sului 
+cloud: lobolobo 
+cold: maril 
+come: sa|ma	sioma	sio|ma 
+come from: sa|ma	sioma	sio|ma 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: mb~es	pes 
+drink: Ng~oNg~o	gogo 
+dry: goru 
+ear: boro	mb~oro 
+eat: anian 
+egg: slei 
+eye: mata 
+feather: vul 
+fire: amb~u	moriabu 
+fish: manci	matsi 
+fly: sale 
+fly v.: sale 
+good: mamasa 
+green: barobaro 
+hair: manai|vul 
+hand: lima	lma 
+left hand: lima	lma 
+right: lima	lma 
+head: bat 
+hear: roNoin	roŋoin 
+1 sg.: inau	innau 
+I: inau	innau 
+kill: pti	raswum 
+knee: mb~au 
+be knowledgeable: tau|vin 
+know: tau|vin 
+leaf: manairau	manai|rau 
+liver: mabe	mape 
+long: barap 
+head louse: ut 
+louse: ut 
+male: taudu 
+man: tese 
+moon: vla 
+hill: mb~atbut 
+mountain: mb~atbut 
+mouth: tsiŋo 
+name: ese 
+title: ese 
+neck: dolo 
+new: buabun	vavun 
+night: boŋ	mb~oN 
+nighttime: boŋ	mb~oN 
+nose: nalsu	ŋasu 
+adulterous: esa	ese 
+one: esa	ese 
+single: esa	ese 
+that: ani-	gata- 
+the: esa	ese 
+unprincipled: esa	ese 
+human: tese 
+human being: tese 
+person: tese 
+rain: usa 
+rainy weather: usa 
+red: kara 
+path: sal	sala 
+road: sal	sala 
+route: sal	sala 
+root: ora 
+sand: bonaivus 
+say: varavara 
+see: taron	terion 
+sit: tada 
+hide: uru	urur 
+skin: uru	urur 
+sleep: malabo 
+little: takir 
+small: takir 
+smallness: takir 
+smoke: asu 
+star: bit	vit 
+rock: sule 
+stone: sule 
+sun: mataimasa 
+swim: gar 
+tail: vidi 
+this: get-	na- 
+2 sg: iNg~o	iŋo 
+thou: iNg~o	iŋo 
+you: iNg~o	iŋo 
+tongue: meme 
+tooth: udu	undr$u 
+grind: rua	ruwa 
+two: rua	ruwa 
+go: aliali	ruruwai 
+walk: aliali	ruruwai 
+water: bei	mb~ei 
+1 pl. inc.: ide	indr$e	iŋammau 
+we: ide	indr$e	iŋammau 
+we₁: ide	indr$e	iŋammau 
+what: sava 
+white: vso 
+whiteness: vso 
+who: isavau	ise 
+who?: isavau	ise 
+female: lepne 
+woman: lepne 
+yellow: majinna 
+distant: leva 
+far: leva 
+dull: buŋa 
+heavy: buŋa 
+serious: buŋa 
+close: tevui 
+near: tevui 
+ner: tevui 
+salt: manai|solo 
+short: but 
+snake: marta 
+thin: seiseina 
+wind: sisil 
+year: tauon 
+2 pl.: iŋammi 
+ye: iŋammi 
+you all: iŋammi 
+3 pl.: ire 
+they: ire 
+where: avea 
+where?: avea 
+when: annaŋsa	nansa 
+when?: annaŋsa	nansa 
+how: paleiniave 
+how?: paleiniave 
+other: nono 
+three: tolu 
+four: vat	βat 
+five: lima 
+broad: seiseina 
+wide: seiseina 
+wideness: seiseina 
+fat: maŋis 
+thick: bloblono 
+narrow: takir 
+principal wife: lepne 
+wife: lepne 
+husband: taudu 
+his mother: rabui 
+mother: rabui 
+my mother: rabui 
+father: tama 
+his father: tama 
+my father: tama 
+forest: laduluau 
+woods: laduluau 
+fruit: vona 
+flower: vsuiyau 
+grass: balis 
+cord: vuiyas 
+rope: vuiyas 
+flesh: masau	viso 
+meat: masau	viso 
+grease: maŋis 
+wing: rara 
+gut: tali 
+guts: tali 
+insides: tali 
+intestine: tali 
+intestines: tali 
+back: tau 
+suck: taim 
+spit: loto 
+vomit: lua 
+blow: sis 
+breath: maŋamaŋa 
+breathe: maŋamaŋa 
+laugh: uru 
+laughter: uru 
+cogitate: domdom 
+reflect: domdom 
+think: domdom 
+smell: bonai	ŋuru 
+sniff: bonai	ŋuru 
+afraid: matau 
+be afraid: matau 
+fear: matau 
+fright: matau 
+alive: tabei 
+be alive: tabei 
+life: tabei 
+live: tabei 
+living: tabei 
+hunt: jurpes 
+beat: abot 
+hit: abot 
+strike: abot 
+cut: tevei 
+hack: tevei 
+cut open: poso 
+split: poso 
+pierce: oti	tui 
+stab: oti	tui 
+scratch: garum 
+dig: el 
+stand: turu 
+drop: jop 
+fall: jop 
+grasp: gau 
+hold: gau 
+hold in arm: gau 
+squeeze: viris 
+wring: viris 
+throw: blei 
+bind: pes 
+fasten: pes 
+tie: pes 
+tie up: pes 
+sew: tulatula	tulu 
+count: ep 
+enumerate: ep 
+number: ep 
+tally: ep 
+flow: vravra 
+lake: lamma	paloai	tubu 
+ocean: tas 
+sea: tas 
+dust: manai|fsoa	vusivusi 
+fog: lobolobo 
+sky: laŋot 
+bad: logologo 
+evil: logologo 
+rot: nut 
+rotten: nut 
+dirty: manai|ja 
+filthy: manai|ja 
+soiled: manai|ja 
+sharp: mat 
+damp: menmedin 
+wet: menmedin 
+right side: adiadi 
+left: marau 
+at: la 
+in: laloloi 
+inside: laloloi 
+and: peseri 
+if: vai 

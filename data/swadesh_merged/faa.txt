@@ -1,0 +1,452 @@
+all: abonakaiya | su 
+all: eu | su 
+all: su 
+arm: hokanu 
+arm: hokono 
+arm: kari 
+arm: koto 
+arm: nòkanu 
+arm: nɔkanu 
+arrow: sakare 
+arrow: tare 
+ashes: kanaku | katema	ko 
+ashes: katema | katema	ko 
+ashes: ko | katema	ko 
+back: mati 
+bad: watiki-(sa) 
+bark: ira kau 
+bark: irë... | ira kau 
+bark: irə kau | ira kau 
+bark: irï kau | ira kau 
+bark: irʌ kau | ira kau 
+belly: fako | katukunu 
+belly: haripa | katukunu 
+belly: himu | katukunu 
+belly: katukunu 
+big: kaia | kara 
+big: kaiya | kara 
+big: kai(y)a | kara 
+big: kara 
+bird: mena 
+bird: minai | mena 
+bite: amano alure 
+bite: nisie | amano alure 
+black: kimusa | pikirisa 
+black: pikirisa 
+blood: kakusa | yapi 
+blood: yapi 
+blow: fo- 
+blow: φo- 
+bone: kiki 
+breast: hoko 
+breast: hotu | hoko 
+breast: hɔtu | hoko 
+brother: hame 
+brother: mamania 
+burn: lufiane 
+cassowary: sikina 
+cassowary: yasi 
+cheek: pare 
+child: mano 
+chin: akae 
+chin: akai fatu 
+claw: kipi sikini | kitafene 
+claw: kitafene 
+cloud: aku | pakae 
+cloud: pakae 
+cold: inu | inusa 
+cold: inusa 
+come: apere | apere	pera 
+come: pe- | apere	pera 
+come: piä | apere	pera 
+come: piä | apere	pera 
+come: piae | apere	pera 
+cut: wara 
+dark: pikirisa 
+day: fae 
+day: samapu 
+die: akure 
+die: i kuabu | akure 
+die: ku- | akure 
+dog: kasa 
+drink: anene | anene	nena 
+drink: hi nesi | anene	nena 
+drink: hi͂ nesi | anene	nena 
+dry: moriapo | parosa 
+dry: noriapo | parosa 
+dry: parosa 
+ear: senaki 
+ear: sinaeki | senaki 
+ear: sinäki | senaki 
+ear: sinäki | senaki 
+earth: ha͂uaka | hauwaka 
+earth: hãuaka | hauwaka 
+earth: hauwaka 
+earth: hãuwaka | hauwaka 
+eat: anene | anene	na 
+eat: na | anene	na 
+eat: na/ne- | anene	na 
+eat: nesi | anene	na 
+egg: hai | mena hai 
+egg: mena hai 
+egg: (mena) hãinh | mena hai 
+elbow: hokono-koma 
+elbow: -koma 
+emu: sikina 
+emu: yasi 
+eye: hi͂ | hi*	hĩ 
+eye: hinh | hi*	hĩ 
+father: ata 
+father: emea 
+fat (n.): sawe 
+fat (n.): sawi 
+fat (n.): wu 
+feather: iti | mena iti 
+feather: mena iti 
+feather: ooba foon (?) | mena iti 
+fingernail: kitafene 
+finger: sigini 
+finger: sikini 
+fire: dufi | dufi	ira lufi 
+fire: ira lufi | dufi	ira lufi 
+fire: irə kipu | dufi	ira lufi 
+fire: irë-kupi | dufi	ira lufi 
+fire: irï kipu | dufi	ira lufi 
+fire: irʌkupi | dufi	ira lufi 
+fire: katema | dufi	ira lufi 
+fish: poka | pokoa	pokwa	pu 
+fish: pɔka | pokoa	pokwa	pu 
+fish: pokwa | pokoa	pokwa	pu 
+fly (n.): kofo 
+fly (n.): koφo 
+fly (v.): apura 
+fly (v.): apure 
+fly (v.): minaipu͂ 
+fly (v.): minai punh 
+foot: korakɛ 
+forehead: wamo 
+forehead: wamu 
+full: komalu | komalu	komarususua 
+full: komurusai | komalu	komarususua 
+full: kɔmurussai | komalu	komarususua 
+give: akare 
+give: maka- | akare 
+give: makasie | akare 
+good: bisai | kotesa 
+good: kotesa 
+green: hisukusa 
+green: saisaisa | hisukusa 
+guts: fako 
+hair: iti | iti	uni iti 
+hair: unahaie iti | iti	uni iti 
+hair: unahai iti | iti	uni iti 
+hair: (uni) iti | iti	uni iti 
+hair: uni iti | iti	uni iti 
+hand: hokono 
+head: unahaie | wamo 
+head: uni | wamo 
+head: wamo 
+hear: kai abu | kaira	kairaka 
+hear: kairaka | kaira	kairaka 
+heart: himu 
+heavy: umi- | umi-	umisa 
+heavy: umisa | umi-	umisa 
+here: o 
+he/she: e 
+he/she: e/epo/ipi 
+he/she: ipi ~ epo 
+he/she: o 
+hit: alure 
+hit: ru- 
+hold: maka are 
+hole: koparu 
+horn: ausiriki 
+horn: meri | ausiriki 
+house: ape 
+husband: emia 
+I: ano ~ nomo | ano	nomo 
+I: ano/nomo/ni | ano	nomo 
+I: anuni | ano	nomo 
+jaw: akai fatu 
+jaw: fakatu 
+jaw: hoko 
+kill: alure 
+knee: kakuna 
+knee: kokuna | kakuna 
+knee: kukunai | kakuna 
+know: kairaka 
+lake: he͂ kumi 
+lake: henh kumi 
+laugh: takuane 
+leaf: ima-yao | ira ku*	ku	kũ 
+leaf: ira gu | ira ku*	ku	kũ 
+leaf: irë gu | ira ku*	ku	kũ 
+leaf: irʌ gu | ira ku*	ku	kũ 
+leaf: ku | ira ku*	ku	kũ 
+leaf: ku͂ | ira ku*	ku	kũ 
+leg: kòfai 
+leg: kɔfai 
+leg: korake 
+lie: aware 
+lie: wari kinabu | aware 
+lip: akai kiri 
+liver: kasiako | kasoko	kosoko 
+liver: kasoko | kasoko	kosoko 
+liver: kosoko | kasoko	kosoko 
+long: horopo 
+louse: tetare 
+louse: yapani 
+man: abano | aporo 
+man: abanɔ | aporo 
+man: aporo 
+many: kaiya | mukisa 
+many: mukisa 
+meat: maia 
+meat: maiya 
+meat: maiyu 
+moon: heke | heke	oko 
+moon: hiki | heke	oko 
+moon: hɪki | heke	oko 
+moon: oko | heke	oko 
+mother: ama 
+mountain: uli | akai	uli 
+mountain: uri | akai	uli 
+mouth: akae | akae	akay 
+mouth: akai | akae	akay 
+mouth: akai kiri | akae	akay 
+mouth: akay | akae	akay 
+name: iyanu | yano 
+name: yano 
+navel: himu tipu 
+neck: fufu | mawi 
+neck: koropiri | mawi 
+neck: kɔrɔpiri | mawi 
+neck: mane | mawi 
+neck: mawi 
+new: kawe 
+new: kawi | kawe 
+new: ma͂no | kawe 
+new: mãno | kawe 
+night: ereamo 
+night: iya idi | ereamo 
+nose: sape 
+nose: sapusuma | sape 
+not: fa | wai 
+not: wae | wai 
+not: wai 
+one: fana | hakasa	meno 
+one: hakasa | hakasa	meno 
+one: meno | hakasa	meno 
+one: nakasa | hakasa	meno 
+one: φana | hakasa	meno 
+other: meta 
+person: aporo 
+rain: iya | yao 
+rain: yao 
+rat: φakita 
+red: piti | susa 
+red: susa 
+ripe: su 
+road: ikia kara 
+road: ikia (kara) 
+road: iyakarapabu | ikia 
+road: iyakar apabu | ikia 
+root: irʌbikinu | pikinu 
+root: irë-... | pikinu 
+root: irə bikinu | pikinu 
+root: irï-bikinu | pikinu 
+root: pikinu 
+rope: memetere 
+rotten: tore-(sa) 
+round: hai | mamusa 
+round: ha͂i͂ | mamusa 
+round: mamusa 
+sand: sakipu | sakipu	tekima 
+sand: sorari | sakipu	tekima 
+sand: tekima | sakipu	tekima 
+say: some | sakipu	tekima 
+say: someraka | sakipu	tekima 
+say: some-raka | sakipu	tekima 
+say: sumisie | sakipu	tekima 
+see: ase- | asera	asere 
+see: asere | asera	asere 
+see: asiabu | asera	asere 
+seed: ira hai 
+seed: sunh yahai | ira hai 
+seed: su͂ yahai | ira hai 
+shoulder: kinu 
+sing: kesa- 
+sister: ainu 
+sister: apu 
+sit: akaiye 
+sit: asikayä | akaiye 
+sit: asikayä | akaiye 
+sit: asikayae | akaiye 
+skin: kau | kau	rorofa 
+sleep: aware 
+sleep: wara kabu | aware 
+small: mãno | wakasema 
+small: pabu | wakasema 
+small: wakasema 
+smoke: fofo | ira musu 
+smoke: (ira) musu | ira musu 
+smoke: ira musu 
+smoke: irë musu | ira musu 
+smoke: irə musu | ira musu 
+smoke: irï musu | ira musu 
+smoke: irʌ musu | ira musu 
+spit: torofae 
+spit: toroφae 
+spit: totofae 
+spit: yikoko ane 
+stand: ale 
+stand: reke 
+stand: reke- 
+stand: tahisi 
+stand: të… 
+stand: tʌhisi 
+star: iya putini | makata	ti makata	ti*makata 
+star: makata | makata	ti makata	ti*makata 
+stone: eke 
+stone: enh.kenh | eke 
+stone: iki | eke 
+stone: ɪki | eke 
+sun: iya ~ maiya | ma* i*ya*	maiya	maĩya 
+sun: iya/ma(i)ya | ma* i*ya*	maiya	maĩya 
+sun: maiya | ma* i*ya*	maiya	maĩya 
+sun: mai͂ya | ma* i*ya*	maiya	maĩya 
+swim: alore 
+swim: tabusie | alore 
+tail: kasa kinu | keno 
+tail: keno 
+take: hakima 
+take: mo 
+that: ane 
+that: …nani | ane 
+that: wari nani | ane 
+that: wari nari | ane 
+they: i/ipu/namina 
+they two: tati ~ tetapo 
+they two: teta/tetapo/tati 
+they: yi ~ ipu 
+thigh: pau 
+this: nani | one 
+this: one 
+thorn: keta 
+thou: nanima | ne	nomo	re 
+thou: ne ~ nomo | ne	nomo	re 
+thou: ne/nomo/ni | ne	nomo	re 
+thou: ni | ne	nomo	re 
+thou: re | ne	nomo	re 
+three: isia 
+thunder: kikiri 
+tongue: airu | alu	aru 
+tongue: alu | alu	aru 
+tongue: aru | alu	aru 
+tooth: akai | mere 
+tooth: mere 
+tree: ira 
+turn: maparitae- 
+two: teta 
+two: tita | teta 
+walk: kimisi | korakare 
+walk: korakare 
+walk: korakoare | korakare 
+walk: pu | korakare 
+walk: pusie | korakare 
+warm: inasa | sisipusa 
+warm: sisibu | sisipusa 
+warm: sisipu | sisipusa 
+warm: sisipusa 
+water: fofo | fofo	he*	hẽ 
+water: he͂ | fofo	he*	hẽ 
+water: henh | fofo	he*	hẽ 
+water: hi͂ | fofo	he*	hẽ 
+water: hinh | fofo	he*	hẽ 
+weep: hiripu- 
+we (incl.): su 
+we (incl.): tati 
+we: isina ~ isu | isu	tati 
+we: isu/isiapo/isina | isu	tati 
+we: su | isu	tati 
+we two: eto/etapo/iti 
+we two (incl.): etapo 
+we two (incl.): iti ~ eto 
+what: yakabare | yakapa 
+what: yakapa 
+when: masinaka 
+white: pakaesa 
+white: pakae-(sa) | pakaesa 
+white: saufia | pakaesa 
+who: epa 
+who: epare 
+wind: atifo | kupa	ɸoɸo 
+wind: fofo | kupa	ɸoɸo 
+wind: kupa | kupa	ɸoɸo 
+wind: φoφo | kupa	ɸoɸo 
+wing: auwa 
+wing: noriapo 
+wing: nɔriapɔ 
+woman: hinamo 
+woman: hinamu | hinamo 
+yellow: kiamesa 
+yellow: kiame(-sa) | kiamesa 
+yellow: saririsa | kiamesa 
+yes: ao 
+yesterday: lao 
+you: re/repo/namina | ne	nomo	re 
+you two: ne 
+you two: teto/tetapo/titi 
+you two: titi ~ teto 
+every: su 
+ash: katema	ko 
+abdomen: katukunu 
+bigness: kara 
+large: kara 
+breasts: hoko 
+nail: kitafene 
+talon: kitafene 
+come from: apere	pera 
+be dead: akure 
+dead: akure 
+ground: hauwaka 
+land: hauwaka 
+soil: hauwaka 
+fly: apura 
+fly v.: apura 
+left hand: hokono 
+right: hokono 
+1 sg.: ano	nomo 
+be knowledgeable: kairaka 
+lie down: aware 
+male: aporo 
+much: mukisa 
+multiple: mukisa 
+several: mukisa 
+hill: akai	uli 
+title: yano 
+nighttime: ereamo 
+adulterous: hakasa	meno 
+single: hakasa	meno 
+the: hakasa	meno 
+unprincipled: hakasa	meno 
+human: aporo 
+human being: aporo 
+rainy weather: yao 
+path: ikia 
+route: ikia 
+hide: kau	rorofa 
+little: wakasema 
+smallness: wakasema 
+rock: eke 
+2 sg: ne	nomo	re 
+grind: teta 
+go: korakare 
+hot: sisipusa 
+1 pl. inc.: isu	tati 
+we₁: isu	tati 
+whiteness: pakaesa 
+who?: epa 
+female: hinamo 
+dull: umi-	umisa 
+serious: umi-	umisa 

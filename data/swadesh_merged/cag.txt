@@ -1,0 +1,317 @@
+all: ɬakawa	ɬakomʔa 
+every: ɬakawa	ɬakomʔa 
+ash: šnomax 
+ashes: šnomax 
+bark: -ɔxeče 
+big: kaxu	ux 
+bigness: kaxu	ux 
+large: kaxu	ux 
+bird: ɔxɔklɔ 
+bite: -xuʔx 
+black: yakut 
+blood: -woyey	voi 
+bone: -nuʔ	kanu	nu7 
+breast: -axte	ax~te 
+breasts: -axte	ax~te 
+claw: -pɔʔkɔt 
+nail: -pɔʔkɔt 
+talon: -pɔʔkɔt 
+cloud: wɔsei	wɔseʔ 
+cold: kˀuy-ši	taxun 
+come: -nam	-nač	naC 
+come from: -nam	-nač	naC 
+be dead: -nɔx	-waf	vaf 
+dead: -nɔx	-waf	vaf 
+die: -nɔx	-waf	vaf 
+dog: nu	nuʔu 
+drink: -yɔʔ	yo7 
+dry: klaxɔx 
+ear: -kfeʔ	kfe7 
+earth: koc̷xaʔt	naɬu 
+ground: koc̷xaʔt	naɬu 
+land: koc̷xaʔt	naɬu 
+soil: koc̷xaʔt	naɬu 
+eat: -tc̷akkun	-tux	-yɔʔ-xi 
+egg: ɬ-šaykˀu 
+eye: -tɔsex 
+feather: -af 
+fire: itox	itɔx	vitox 
+fish: saxeč	vun 
+fly: -fɔʔyɔ 
+fly v.: -fɔʔyɔ 
+foot: -foʔ 
+full: ixo	tapoʔx 
+give: -tis	-xut 
+good: is 
+green: nipeway-ši	ɬeti-tˀaklɔk 
+hair: -saʔš	-yeʔ-s 
+hand: -pɔʔkɔt	pokot 
+left hand: -pɔʔkɔt	pokot 
+right: -pɔʔkɔt	pokot 
+head: -šatič 
+hear: -peʔya	peya	ty~peiCai 
+heart: -ɬiʔwte 
+horn: -kˀuʔ 
+1 sg.: yi	yi-ʼwaača 
+I: yi	yi-ʼwaača 
+kill: -klɔn 
+knee: -kxuʔs	kx~us 
+be knowledgeable: -tɔʔ-y-a 
+know: -tɔʔ-y-a 
+leaf: kasaS	ɬ-saʔš 
+lie: -wate	xoʔ-xaʔne 
+lie down: -wate	xoʔ-xaʔne 
+liver: -akɔxɬɔk	akoLok 
+long: pitex 
+head louse: aCivo	ɬa-woke 
+louse: aCivo	ɬa-woke 
+male: niwakle 
+man: -ɬeč	-ʼwaʔča	nivaLe	niwakle 
+many: aklox	c̷asɔ	ux 
+much: aklox	c̷asɔ	ux 
+multiple: aklox	c̷asɔ	ux 
+several: aklox	c̷asɔ	ux 
+flesh: -sxaʔn 
+meat: -sxaʔn 
+moon: xiweʔkla 
+hill: ute-yuk	uteyuk 
+mountain: ute-yuk	uteyuk 
+mouth: -aši 
+name: -ey 
+title: -ey 
+neck: -woʔ 
+new: ničˀa 
+night: tuɬ	xonSaxaLai 
+nighttime: tuɬ	xonSaxaLai 
+nose: -naʔš	naS 
+adulterous: huéshla	veLa 
+one: huéshla	veLa 
+single: huéshla	veLa 
+that: huéshla	veLa 
+the: huéshla	veLa 
+unprincipled: huéshla	veLa 
+human: -ɬeč	-ʼwaʔča	nivaLe	niwakle 
+human being: -ɬeč	-ʼwaʔča	nivaLe	niwakle 
+person: -ɬeč	-ʼwaʔča	nivaLe	niwakle 
+rain: tčanu 
+rainy weather: tčanu 
+red: yuk 
+path: LuiyiS	noyiS 
+road: LuiyiS	noyiS 
+route: LuiyiS	noyiS 
+root: ɬ-fetas 
+round: čama 
+sand: xosɔx 
+say: -tˀeš 
+see: -ʔwan	van 
+seed: -tɔsex	katɔsxey 
+sit: -ɔʔw-xaʔne 
+hide: -ɔx	k"ovox	oxeCe 
+skin: -ɔx	k"ovox	oxeCe 
+sleep: -mɔʔ 
+little: tikˀin 
+small: tikˀin 
+smallness: tikˀin 
+smoke: ɬ-axut 
+star: katis	katiʔs 
+rock: utex 
+stone: utex 
+sun: xumkuLai	xunkuklaʔy 
+swim: -ɔʔk-apeʔ	yič-ʔapee 
+tail: -kˀɔʔs 
+2 sg: a-ʼwaača 
+thou: a-ʼwaača 
+you: a-ʼwaača 
+tongue: -čˀakleč	C"aLeC	yiLai 
+tooth: -c̷ewte	cevte 
+tree: akx~iyuk 
+grind: napu	napuʔ	näpú 
+two: napu	napuʔ	näpú 
+go: -tˀɔs	-wakleč 
+walk: -tˀɔs	-wakleč 
+hot: kus-ši-kleʔ	kxop-xi 
+warm: kus-ši-kleʔ	kxop-xi 
+water: inɔʔt	oxok 
+1 pl. inc.: kas	kas-ʼwaača 
+we: kas	kas-ʼwaača 
+we₁: kas	kas-ʼwaača 
+what: še 
+white: klim 
+whiteness: klim 
+who: šepa-pu 
+who?: šepa-pu 
+female: niwak-če 
+woman: niwak-če 
+yellow: koxi yax 
+distant: tox	tox-ey 
+far: tox	tox-ey 
+dull: kaklek 
+heavy: kaklek 
+serious: kaklek 
+close: šaɬa 
+near: šaɬa 
+ner: šaɬa 
+salt: naʔpku-tax 
+short: tukˀa 
+snake: tos 
+thin: klasim	ɬamis 
+wind: ɬawiʔm 
+earthworm: tin-woʔ 
+worm: tin-woʔ 
+year: yinkɔʔp 
+2 pl.: a-ʼwaača-eɬ 
+ye: a-ʼwaača-eɬ 
+you all: a-ʼwaača-eɬ 
+3 pl.: ɬa-waača 
+they: ɬa-waača 
+where: pɔʔne	ta yi-šiʔ 
+where?: pɔʔne	ta yi-šiʔ 
+when: ta tˀeɬeš 
+when?: ta tˀeɬeš 
+how: eʔana	ta ɬ-xunaš 
+how?: eʔana	ta ɬ-xunaš 
+some: napuʔ 
+few: napu	tikˀin 
+three: puʔxaʔna	pú-shana 
+four: it-chat-cúch	yičatxuɬ 
+five: huéshla-noétj	weʔɬa-nɔxeš 
+broad: fkˀac̷ax	xukˀa 
+wide: fkˀac̷ax	xukˀa 
+wideness: fkˀac̷ax	xukˀa 
+fat: ɬ-ɔtxei	ɬa-peʔ-nɔk 
+thick: ux-kˀe 
+narrow: c̷uy-čˀe 
+child: taɔklax 
+principal wife: -čˀakfa 
+wife: -čˀakfa 
+husband: -čˀakfa 
+his mother: -mimi 
+mother: -mimi 
+my mother: -mimi 
+father: -tata 
+his father: -tata 
+my father: -tata 
+animal: yakkisit 
+forest: itˀa 
+woods: itˀa 
+branch: -tˀoyča	tɔɬeʔx	ɬ-ɔse 
+stick: -tˀoyča	tɔɬeʔx	ɬ-ɔse 
+fruit: -aʔ 
+flower: ɬ-ɔwo 
+grass: itxatax	tˀaklɔʔk 
+cord: -niyɔk	-wankˀ-ɔkfa-xat 
+rope: -niyɔk	-wankˀ-ɔkfa-xat 
+grease: ɬ-ɔtxei	ɬa-peʔ-nɔk 
+fingernail: -pasče ɬa-pˀoʔt 
+leg: -kaklɔʔ 
+wing: -af 
+gut: -waʔk 
+guts: -waʔk 
+insides: -waʔk 
+intestine: -waʔk 
+intestines: -waʔk 
+back: -ɔyiʔš 
+suck: -fin-čˀe	-fin-šam 
+spit: -tˀačˀiy 
+vomit: -tˀakue-šaʔne 
+blow: fuyu 
+breath: -ta-yaɬ-i	-yaɬ 
+breathe: -ta-yaɬ-i	-yaɬ 
+laugh: -asčay 
+laughter: -asčay 
+cogitate: -ayčawaɬʔin	-ɬeklɔx-eš 
+reflect: -ayčawaɬʔin	-ɬeklɔx-eš 
+think: -ayčawaɬʔin	-ɬeklɔx-eš 
+smell: -nsic̷ˀaʔ 
+sniff: -nsic̷ˀaʔ 
+afraid: -xoway	-xoway-i 
+be afraid: -xoway	-xoway-i 
+fear: -xoway	-xoway-i 
+fright: -xoway	-xoway-i 
+alive: -manɬa	-manɬa-ʔin 
+be alive: -manɬa	-manɬa-ʔin 
+life: -manɬa	-manɬa-ʔin 
+live: -manɬa	-manɬa-ʔin 
+living: -manɬa	-manɬa-ʔin 
+fight: -klɔn	-šan 
+hunt: -tkˀɔʔyte	-woʔy 
+beat: -pɔkɔx 
+hit: -pɔkɔx 
+strike: -pɔkɔx 
+cut: -tˀowos 
+hack: -tˀowos 
+cut open: -kˀas-at 
+split: -kˀas-at 
+pierce: -c̷efex 
+stab: -c̷efex 
+dig: -tiʔš 
+tell lies: -ɔʔɬxɔn	kuc̷ˀaax 
+stand: -wac̷ewat 
+turn: -čˀiyapop 
+turn around: -čˀiyapop 
+turn round: -čˀiyapop 
+drop: -at	nkɔʔt-šaʔne 
+fall: -at	nkɔʔt-šaʔne 
+grasp: -nčaʔx-šaʔne	-tˀakum-kˀoya 
+hold: -nčaʔx-šaʔne	-tˀakum-kˀoya 
+hold in arm: -nčaʔx-šaʔne	-tˀakum-kˀoya 
+squeeze: -ikxut	-kɔʔtˀat 
+wring: -ikxut	-kɔʔtˀat 
+rub: -eklɔs 
+wipe: -eklɔs 
+wash: -kleʔš 
+wash clothes: -kleʔš 
+push: -tˀuʔ 
+shove: -tˀuʔ 
+throw: -uʔ 
+bind: -ɔkfaʔ 
+fasten: -ɔkfaʔ 
+tie: -ɔkfaʔ 
+tie up: -ɔkfaʔ 
+sew: -aštiɬ	c̷epxaɬ 
+count: -c̷xuʔɬ 
+enumerate: -c̷xuʔɬ 
+number: -c̷xuʔɬ 
+tally: -c̷xuʔɬ 
+sing: -iši	-tˀeyšey	tišxan 
+have fun: -tklɔʔy 
+play: -tklɔʔy 
+float: yič-ʔapee 
+flow: -tˀic̷xey 
+brook: towɔk	ɬɔxɔyiš 
+river: towɔk	ɬɔxɔyiš 
+stream: towɔk	ɬɔxɔyiš 
+lake: faš ayiš	ɬkačiʔ 
+ocean: ɬkac̷ˀi towkoyc̷a 
+sea: ɬkac̷ˀi towkoyc̷a 
+dust: kˀim	kˀok 
+fog: šnakxay 
+sky: wɔʔs 
+snow: yekleše 
+ice: yekleši 
+blaze: -xa-yapˀaɬxan	yi-wutun 
+burn: -xa-yapˀaɬxan	yi-wutun 
+day: naɬu 
+daylight: naɬu 
+daytime: naɬu 
+bad: n-is-a	sas 
+evil: n-is-a	sas 
+rot: ɬok-xi 
+rotten: ɬok-xi 
+dirty: sac̷ˀaʔs	sas	šekley 
+filthy: sac̷ˀaʔs	sas	šekley 
+soiled: sac̷ˀaʔs	sas	šekley 
+straight: yi-c̷ɔtˀax 
+sharp: -akɔʔx	iklas-ši 
+blunt: n-iklas-ši	ni n-eklɔs-ši	tˀuk-xi 
+smooth: kaɬip	klamam-ši	klatˀeʔ 
+damp: takˀoʔp	waʔai	yinɔʔt ɬaxut 
+wet: takˀoʔp	waʔai	yinɔʔt ɬaxut 
+correct: yiwoy-eš-čˀe 
+right side: -fayiš 
+left: -čˀamiyiš 
+in: ɔkfi	ɔkxi 
+inside: ɔkfi	ɔkxi 
+and: pa	xataxeš	či 
+if: ka 
+because: eʔm ti	ɬayaʔš ti 

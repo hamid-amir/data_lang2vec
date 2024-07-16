@@ -1,0 +1,274 @@
+all: laveve 
+every: laveve 
+ash: gabulo	ǥabulo 
+ashes: gabulo	ǥabulo 
+abdomen: magali 
+belly: magali 
+big: kapou 
+bigness: kapou 
+large: kapou 
+bird: manu 
+bite: warihara 
+black: galo	ǥalo 
+blood: topo 
+bone: toNa	toŋa 
+breast: dudu	ḏuḏu 
+breasts: dudu	ḏuḏu 
+burn: kalakala 
+burn tr.: kalakala 
+cloud: mariaba 
+cold: magaratia 
+come: mai 
+come from: mai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: kaua 
+drink: ginu	ǥinu 
+dry: baba	koNa	koŋa 
+ear: taliNa	taliŋa 
+earth: garigari	vulavulo 
+ground: garigari	vulavulo 
+land: garigari	vulavulo 
+soil: garigari	vulavulo 
+eat: gani	ǥani 
+egg: koru 
+eye: mata 
+fat: pudupudu 
+fat n.: pudupudu 
+grease: pudupudu 
+lubricant: pudupudu 
+oil: pudupudu 
+feather: kora kora	vovoi-na	vovoina 
+fire: baritunu	garogo	ǥarogo 
+fish: giga	ǥiǥa 
+fly: bebe 
+fly v.: bebe 
+foot: kabe 
+good: kemi 
+green: kobokoboa 
+hair: vulu 
+hand: lima 
+left hand: lima 
+right: lima 
+head: baka 
+hear: loNo	loŋo 
+1 sg.: gau	ǥau 
+I: gau	ǥau 
+kill: gubi	ǥubi 
+be knowledgeable: lala 
+know: lala 
+leaf: raurau 
+lie: lama 
+lie down: lama 
+liver: Nepe	ŋepe 
+long: malaku 
+head louse: gutu	ǥutu 
+louse: gutu	ǥutu 
+male: tamogane	tamoǥane 
+man: kaka	tinoni 
+flesh: midana 
+meat: midana 
+moon: liNabo	liŋabo 
+mouth: gava	ǥava 
+name: gida	ǥiḏa 
+title: gida	ǥiḏa 
+neck: logo	loǥo 
+new: vagoru	vaǥoru 
+night: mariNo	mariŋo 
+nighttime: mariNo	mariŋo 
+nose: gidu	ǥiḏu 
+not: beu 
+adulterous: katiku	kaziu 
+one: katiku	kaziu 
+single: katiku	kaziu 
+that: kena	kuari 
+the: katiku	kaziu 
+unprincipled: katiku	kaziu 
+human: kaka	tinoni 
+human being: kaka	tinoni 
+person: kaka	tinoni 
+rain: guda	ǥuḏa 
+rainy weather: guda	ǥuḏa 
+red: baritunutunua	ŋereŋereǥa 
+path: dala 
+road: dala 
+route: dala 
+root: voraka 
+sand: maga maga 
+say: tania 
+see: gada	ǥada 
+sit: mia 
+hide: guli	livu	ǥuli 
+skin: guli	livu	ǥuli 
+sleep: Noro	ŋoro 
+little: kote 
+small: kote 
+smallness: kote 
+smoke: gadu	ǥaḏu 
+stand: madi 
+star: vitovito 
+rock: kendo 
+stone: kendo 
+swim: gudu	ǥuḏu 
+tail: liko 
+this: kua 
+2 sg: go	ǥo 
+thou: go	ǥo 
+you: go	ǥo 
+tongue: lave 
+tooth: gade	ǥaḏe 
+grind: kirua	rua 
+two: kirua	rua 
+go: vana 
+walk: vana 
+hot: kurupalia 
+warm: kurupalia 
+water: naru 
+1 pl. inc.: bolu	gita	ǥita	ḇolu 
+we: bolu	gita	ǥita	ḇolu 
+we₁: bolu	gita	ǥita	ḇolu 
+what: nadia	naḏia 
+white: kavukavua 
+whiteness: kavukavua 
+who: adei	aḏei 
+who?: adei	aḏei 
+female: tavine 
+woman: tavine 
+yellow: gaNogaNoa	ǥaŋoǥaŋoa 
+distant: ḏau 
+far: ḏau 
+dull: bize 
+heavy: bize 
+serious: bize 
+close: ǥiripi- 
+near: ǥiripi- 
+ner: ǥiripi- 
+salt: maḏihu 
+short: boto 
+snake: matabunu 
+wind: kavili 
+earthworm: matamata 
+worm: matamata 
+year: krismas 
+2 pl.: miu 
+ye: miu 
+you all: miu 
+3 pl.: dia 
+they: dia 
+where: nive 
+where?: nive 
+when: ŋiḏa 
+when?: ŋiḏa 
+how: ḏiǥaʔ 
+how?: ḏiǥaʔ 
+other: kakamotu 
+three: kitolu	tolu 
+four: kivata	wata 
+five: kilima	lima 
+broad: kapoupone 
+wide: kapoupone 
+wideness: kapoupone 
+narrow: galakote 
+principal wife: gena 
+wife: gena 
+husband: gena 
+his mother: titina-na 
+mother: titina-na 
+my mother: titina-na 
+father: tama-na 
+his father: tama-na 
+my father: tama-na 
+forest: muŋomuŋo 
+woods: muŋomuŋo 
+branch: daŋa-na 
+stick: daŋa-na 
+fruit: ǥara-na 
+flower: [palaua] 
+grass: raburabu 
+cord: mota 
+rope: mota 
+wing: banita 
+gut: magali-	parokapai 
+guts: magali-	parokapai 
+insides: magali-	parokapai 
+intestine: magali-	parokapai 
+intestines: magali-	parokapai 
+back: ǥama- 
+suck: ḏuḏu 
+spit: livoroka 
+vomit: lua 
+blow: kavili 
+breath: ǥivu 
+breathe: ǥivu 
+laugh: noŋo 
+laughter: noŋo 
+cogitate: lohoi 
+reflect: lohoi 
+think: lohoi 
+smell: ḏuŋia 
+sniff: ḏuŋia 
+afraid: ǥatewawani 
+be afraid: ǥatewawani 
+fear: ǥatewawani 
+fright: ǥatewawani 
+alive: maǥuri 
+be alive: maǥuri 
+life: maǥuri 
+live: maǥuri 
+living: maǥuri 
+hunt: paŋo 
+beat: tutuǥia	waritutu 
+hit: tutuǥia	waritutu 
+strike: tutuǥia	waritutu 
+cut: dopia 
+hack: dopia 
+cut open: ǥutuwalagia 
+split: ǥutuwalagia 
+pierce: pandea 
+stab: pandea 
+scratch: koria 
+dig: ǥovi 
+drop: dua	poke 
+fall: dua	poke 
+grasp: paǥoria 
+hold: paǥoria 
+hold in arm: paǥoria 
+squeeze: bebeǥia 
+wring: bebeǥia 
+throw: voḏo 
+bind: vutuǥia 
+fasten: vutuǥia 
+tie: vutuǥia 
+tie up: vutuǥia 
+sew: turia 
+count: ǥaḏenia 
+enumerate: ǥaḏenia 
+number: ǥaḏenia 
+tally: ǥaḏenia 
+flow: maliki 
+lake: patihutu 
+ocean: daḏi 
+sea: daḏi 
+dust: ǥabulo 
+fog: ǥabuǥabu 
+sky: mariaba 
+blaze: kalakala 
+bad: ḏaha 
+evil: ḏaha 
+rot: mapu 
+rotten: mapu 
+dirty: molumolua 
+filthy: molumolua 
+soiled: molumolua 
+sharp: mataŋa 
+blunt: malugu 
+damp: puripuria 
+wet: puripuria 
+right side: maroro 
+left: mauri 
+at: na	ni 
+in: polok- 
+inside: polok- 
+and: kamana 
+if: ta 

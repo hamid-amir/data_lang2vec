@@ -1,0 +1,438 @@
+all: har | лерилкъи	лерирра	либилла 
+all: lebil | лерилкъи	лерирра	либилла 
+ashes: palda | палда 
+ashes: χ:Iwas:a | палда 
+bark: ʕaInḳa | кам	кам галгала 
+bark: žer | кам	кам галгала 
+belly: kani | кони 
+belly: ḳulṭa | кони 
+big: χalal | халаси 
+big: χ:walaze | халаси 
+bird: arcan | арсан	арцан	арцандехІ 
+bird: čakwa | арсан	арцан	арцандехІ 
+bird: iχIliʠIan | арсан	арцан	арцандехІ 
+bite: ʠacbilkes | кьацІикІес	кьацикес 
+bite: -u(r)ḳ- | кьацІикІес	кьацикес 
+black: ċat:arze | цІудара 
+black: ċudara | цІудара 
+blood: ba:I | х1и	хІи 
+blood: ħi | х1и	хІи 
+bone: derg | лига 
+bone: liga | лига 
+breast: hap:a | мамри	михъири 
+breast: mam-ri | мамри	михъири 
+burn tr.: iges 
+burn tr.: -ik:w- 
+claw (nail: meka 
+claw (nail: nika 
+cloud: dirix | гъагул 
+cloud: q:ire | гъагул 
+cold: baIrʕibsi | бугІярси 
+cold: -uχ:anze | бугІярси 
+come: vašes | вак1ис	вашес	садвашес 
+come: -Vḳ- | вак1ис	вашес	садвашес 
+die: -Vbḳ- | вебкІес	вебкІибси	ибк1ис	таманиэс 
+die: vebḳes | вебкІес	вебкІибси	ибк1ис	таманиэс 
+dog: χIa | хя 
+dog: χIwa | хя 
+drink: užes | бержес	ужес	ужис 
+drink: -V(r)č:- | бержес	ужес	ужис 
+dry: berubsi | берубси 
+dry: -erʁubze | берубси 
+ear: la:I | лех1и	лихІи 
+ear: liħi | лех1и	лихІи 
+earth: ʕaInži | улка 
+earth: ʕanč:ija | улка 
+earth: vanza | улка 
+eat: ukes | укес 
+eat: -V(r)kw- | укес 
+egg: duqu | гидгари 
+egg: gidgari | гидгари 
+eye: ħuli | х1ули	хІули 
+eye: ʕule | х1ули	хІули 
+far: barχ-le | гьарахъли 
+far: haraq-si | гьарахъли 
+fat n.: ħaIli 
+fat n.: χIule 
+feather: paIħaIla | пухІяла	пях1ул 
+feather: p:aze | пухІяла	пях1ул 
+fire: ċa | цІа 
+fish: baliq | балихъ	бялихъ 
+fish: ḳas: | балихъ	бялихъ 
+fly v.: -iχ:I- | арсис	урцес 
+fly v.: urces | арсис	урцес 
+foot: ʠaIš | бек1-кьяш	бекІ кьяш 
+foot: nik:a | бек1-кьяш	бекІ кьяш 
+full: biċibsi | бицІибси 
+full: -iċibze | бицІибси 
+give: -i(lej)k:- | бедлугес	лугес	лугьис 
+give: luges | бедлугес	лугес	лугьис 
+good: aħsi | гІяхІси 
+good: aχI-ze | гІяхІси 
+green: šiniša | шиниша 
+green: š:inišze | шиниша 
+hair: derz | гъез	гъиз 
+hair: ʁez | гъез	гъиз 
+hand: naIq: | бекІ някъ | накъ 
+hand: naq:I | бекІ някъ | накъ 
+head: beḳ | бек1	бекІ 
+hear: ḉa-Vʠ- | бикьес	иргъис 
+hear: irʁes | бикьес	иргъис 
+heart: urḉe | урк1и	уркІи 
+heart: urḳi | урк1и	уркІи 
+heavy: d-eḳ-si | дек1си	декІси	зугьал 
+heavy: -eḳwze | дек1си	декІси	зугьал 
+horn: mukeki | кях1ес	мукеки 
+horn: qe | кях1ес	мукеки 
+I: du | ду	ну 
+I: nu | ду	ну 
+kill: kawšes | каршес	хьавшис 
+kill: -Vlχ:w- | каршес	хьавшис 
+knee: ʠuʠa | кьукьа 
+know: bales | балес	валис 
+know: ha-a(r)χ-/-uχ- | балес	валис 
+leaf: ḳap:ara | к1апи	кІапІи 
+leaf: ḳapi | к1апи	кІапІи 
+lie: kalxes | калхьес | къянба угьес	х1айсис 
+lie: sah-Vlg- | калхьес | къянба угьес	х1айсис 
+liver: dilaḳ | дулекІ	дулик1 
+liver: duleḳ | дулекІ	дулик1 
+long: buqIaIna | бухъяна	г1иркъал	гІеркъаси 
+long: buqIunize | бухъяна	г1иркъал	гІеркъаси 
+louse: ner | нер	ниръ 
+louse: nez | нер	ниръ 
+man: adme | адам	инсан	сай вегІдеш	чирандеш 
+man: murul | адам	инсан	сай вегІдеш	чирандеш 
+many: biʕḳaj | дахъал 
+many: daqal | дахъал 
+meat: diʔ | кьаркьала	чарх | диъ 
+meat: dig | кьаркьала	чарх | диъ 
+moon: bac | баз	бац 
+moon: bac: | баз	бац 
+mountain: dabura | дубура	муза 
+mountain: dubura | дубура	муза 
+mountain: muza | дубура	муза 
+mouth: muħli | дуби	мух1ли	мухІли 
+mouth: mu:Ile | дуби	мух1ли	мухІли 
+name: u 
+name: zu 
+near: ʁamle | мякьлаб 
+near: ʁam-si | мякьлаб 
+neck: qaIb | хъоб	хъяб 
+neck: sus | хъоб	хъяб 
+new: ċize | сагаси 
+new: sagasi | сагаси 
+night: duč:e | дуги 
+night: dugi | дуги 
+nose: q:aInq: | къанкъ	къянкъ 
+nose: q:Iuq:I | къанкъ	къянкъ 
+not: ħe | ах1ин 
+one: ca | ца 
+person: adam | адам	инсан	сай вегІдеш	чирандеш 
+rain: dusre | заб	марка 
+rain: marka | заб	марка 
+red: ʕaṭinze | хІунтІена 
+red: ħunṭena | хІунтІена 
+road: huni 
+road: x:une 
+root: maIʠ | мякь	хІячи 
+root: marq:wa | мякь	хІячи 
+round: gulgulze | журуга 
+round: žuruga | журуга 
+salt: c:e | зе 
+salt: ze | зе 
+sand: q:um | гъум 
+sand: ʁum | гъум 
+say: bures | бурес	эс | гъум 
+say: es | бурес	эс | гъум 
+say: -u(r)ḳ- | бурес	эс | гъум 
+see: baIħ- | чебиэс	шибаис 
+see: čebiʔes | чебиэс	шибаис 
+seed: he | гьви	гье 
+seed: q:ama | гьви	гье 
+short: kuṭze | къант1а	къантІа 
+short: q:anṭa | къант1а	къантІа 
+sit: čerk-irg- | кайэс	хьайис 
+sit: kaj(r)es | кайэс	хьайис 
+skin: guli | гули	кабц	кам 
+skin: žer | гули	кабц	кам 
+sleep: ke-V(l)s:- | усес	усис 
+sleep: uses | усес	усис 
+small: niḳaze | биштІаси	биштал 
+small: višṭal | биштІаси	биштал 
+smoke: gav | гав 
+smoke: jergwa | гав 
+snake: ḉiḉala | чІичІала	чич1ала 
+snake: maIlʕun | чІичІала	чич1ала 
+stand: ka-Vrc:- | т1ашхьайзис	тІашилзес 
+stand: ṭašilzes | т1ашхьайзис	тІашилзес 
+star: urʔi | зубари	уръи 
+star: zure | зубари	уръи 
+stone: q:arq:a | къаркъа	шури 
+sun: bare | барх1и	берхІи 
+sun: berħi | барх1и	берхІи 
+swim: kurṭiḳes | коч1дякьис	куртІикІес 
+tail: ḉime | к1ими	къуйрукъ 
+tail: q:ujruq: | к1ими	къуйрукъ 
+that: it | гьихкIубил | ца 
+that: taʕ | гьихкIубил | ца 
+thin: b-uḳula | букІулси	гъорц1а	назикси	чІяртІа 
+thin: uḳulize | букІулси	гъорц1а	назикси	чІяртІа 
+this: i: | гьиш 
+this: il | гьиш 
+this: iš | гьиш 
+thou: ħu | xIу	хІу	хІуша 
+thou: ʕu | xIу	хІу	хІуша 
+tongue: lezmi | лезми	мез 
+tongue: mec: | лезми	мез 
+tooth: cula | цула 
+tree: galga | галга	галги 
+tree: t:alt:e | галга	галги 
+two: ḉwal | к1ель	кІел 
+two: ḳel | к1ель	кІел 
+walk (go): -a(r)g- 
+walk (go): wašes 
+warm: ħaImḳze | ванаси 
+warm: vana-si | ванаси 
+water: šin | шин 
+we: nus:a | нуша 
+we: nuša | нуша 
+what: ce | се	си 
+what: se | се	си 
+white: ċuba | цІуба 
+white: ċubze | цІуба 
+who: ča | ча	чи 
+who: či | ча	чи 
+wind: buḳume | дягІ 
+wind: daIʕ | дягІ 
+woman: xade | х1унул адам	хьунул адам 
+woman: xunul | х1унул адам	хьунул адам 
+worm: milaq:Iw | миликъ	милякъ 
+worm: miliq: | миликъ	милякъ 
+year: dus | дус 
+year: dus: | дус 
+yellow: buquṭa | бухъутІа 
+yellow: buquze | бухъутІа 
+every: лерилкъи	лерирра	либилла 
+ash: палда 
+abdomen: кони 
+bigness: халаси 
+large: халаси 
+breasts: мамри	михъири 
+claw: кьяшла ника 
+nail: кьяшла ника 
+talon: кьяшла ника 
+come from: вак1ис	вашес	садвашес 
+be dead: вебкІес	вебкІибси	ибк1ис	таманиэс 
+dead: вебкІес	вебкІибси	ибк1ис	таманиэс 
+ground: улка 
+land: улка 
+soil: улка 
+fly: арсис	урцес 
+left hand: бекІ някъ 
+right: бекІ някъ 
+1 sg.: ду	ну 
+be knowledgeable: балес	валис 
+lie down: калхьес 
+head louse: нер	ниръ 
+male: амарсар	гІяхІгъабза	мургьул адам	мурул адам 
+much: дахъал 
+multiple: дахъал 
+several: дахъал 
+flesh: кьаркьала	чарх 
+hill: дубура	муза 
+nighttime: дуги 
+adulterous: ца 
+single: ца 
+the: ца 
+unprincipled: ца 
+human: адам	инсан	сай вегІдеш	чирандеш 
+human being: адам	инсан	сай вегІдеш	чирандеш 
+rainy weather: заб	марка 
+hide: гули	кабц	кам 
+little: биштІаси	биштал 
+smallness: биштІаси	биштал 
+rock: къаркъа	шури 
+2 sg: xIу	хІу	хІуша 
+you: xIу	хІу	хІуша 
+grind: к1ель	кІел 
+go: вашес	вашис 
+walk: вашес	вашис 
+hot: ванаси 
+1 pl. inc.: нуша 
+we₁: нуша 
+whiteness: цІуба 
+who?: ча	чи 
+female: х1унул адам	хьунул адам 
+distant: гьарахъли 
+dull: дек1си	декІси	зугьал 
+serious: дек1си	декІси	зугьал 
+close: мякьлаб 
+ner: мякьлаб 
+earthworm: миликъ	милякъ 
+3 sg.: гьих 
+he: гьих 
+she: гьих 
+2 pl.: хIуша	хІуша 
+ye: хIуша	хІуша 
+you all: хIуша	хІуша 
+3 pl.: гIихти	итди 
+they: гIихти	итди 
+here: гьишкIуб 
+there: ихаб 
+where: каниб	чинаб 
+where?: каниб	чинаб 
+when: мурт	сикъе 
+when?: мурт	сикъе 
+how: сен	сион 
+how?: сен	сион 
+some: ца-чумал	чумал 
+few: камли	камти 
+other: итилти 
+three: х1ябал	хІябал 
+four: авал	авъол 
+five: шел 
+broad: бягІуси	вяг1ул 
+wide: бягІуси	вяг1ул 
+wideness: бягІуси	вяг1ул 
+fat: гІявадеш	х1оли	хІяли 
+thick: бабза	бузил	буршул	буршуси	ц1ирх1ил 
+narrow: гъярцІа	кьакьал	кьакьаси 
+child: виштІал	дярх1а	марзла дурхІя	хъяша 
+principal wife: х1унул	хьунул 
+wife: х1унул	хьунул 
+husband: амарсар	мургьул	мурул 
+his mother: аба	адай	неш 
+mother: аба	адай	неш 
+my mother: аба	адай	неш 
+father: ада	ази	дудеш 
+his father: ада	ази	дудеш 
+my father: ада	ази	дудеш 
+animal: жанивар	миц1ираг	мицІираг	хІяйван 
+forest: вац1а	вацІа 
+woods: вац1а	вацІа 
+branch: дирх1а	кьяли	мурч1 
+stick: дирх1а	кьяли	мурч1 
+fruit: ц1ед	цІедеш 
+flower: вава 
+grass: кьар 
+cord: гьая	дигьни	ч1иъ 
+rope: гьая	дигьни	ч1иъ 
+grease: гІявадеш	х1оли	хІяли 
+fingernail: ника	нико 
+leg: кьяш 
+arm: накъ 
+wing: дукала	духьала 
+gut: дарг	къукъа 
+guts: дарг	къукъа 
+insides: дарг	къукъа 
+intestine: дарг	къукъа 
+intestines: дарг	къукъа 
+back: къакъ 
+suck: бухъес	супІбирес	ч1апбакьис 
+spit: ту	ту дахъас	туикІес	тукІани	шутри 
+vomit: гьавулхъес	рабчикІес	уркІи далкьес 
+blow: уфик1ес	уфикІес 
+breath: гьигьикІес	гьигьикІни	гьигьикис 
+breathe: гьигьикІес	гьигьикІни	гьигьикис 
+laugh: дук1арикис	дукаркІес 
+laughter: дук1арикис	дукаркІес 
+cogitate: пикриик1ис	пикриикІес 
+reflect: пикриик1ис	пикриикІес 
+think: пикриик1ис	пикриикІес 
+smell: сунтІикІес	сунтик1ис 
+sniff: сунтІикІес	сунтик1ис 
+afraid: урухк1ес	урухкІни 
+be afraid: урухк1ес	урухкІни 
+fear: урухк1ес	урухкІни 
+fright: урухк1ес	урухкІни 
+alive: гІямру	мицІирси	х1арис	хІериэс 
+be alive: гІямру	мицІирси	х1арис	хІериэс 
+life: гІямру	мицІирси	х1арис	хІериэс 
+live: гІямру	мицІирси	х1арис	хІериэс 
+living: гІямру	мицІирси	х1арис	хІериэс 
+fight: вирхІес	ургъес	ургъис 
+hunt: г1яирвашис	гІяяр вашес 
+beat: бахъас	вирхъес 
+hit: бахъас	вирхъес 
+strike: бахъас	вирхъес 
+cut: балъиес	калэс 
+hack: балъиес	калэс 
+cut open: бурт1ес	бут1надбирес	кІибайбарес 
+split: бурт1ес	бут1надбирес	кІибайбарес 
+pierce: бурхІес	кердес	хъяч1эс 
+stab: бурхІес	кердес	хъяч1эс 
+scratch: хъабшикес 
+dig: кІантІбикІес	укъис 
+tell lies: къянба угьес	х1айсис 
+turn: ласухъес 
+turn around: ласухъес 
+turn round: ласухъес 
+drop: кабиркес	хьайхьис 
+fall: кабиркес	хьайхьис 
+grasp: буцили бихІес	буцис 
+hold: буцили бихІес	буцис 
+hold in arm: буцили бихІес	буцис 
+squeeze: г1инихьис	гІянчІбирес 
+wring: г1инихьис	гІянчІбирес 
+rub: бушкес	суркик1ис 
+wipe: бушкес 
+wash: дирцес	ицес 
+wash clothes: дирцес	ицес 
+pull: зузбакьис 
+push: гакикес	къужбирес 
+shove: гакикес	къужбирес 
+throw: лайбак1ис	лайбикІес 
+bind: бигьис	билгьес 
+fasten: бигьис	билгьес 
+tie: бигьис	билгьес 
+tie up: бигьис	билгьес 
+sew: бирбес	ибес 
+count: дуйгІес	луес	умцес 
+enumerate: дуйгІес	луес	умцес 
+number: дуйгІес	луес	умцес 
+tally: дуйгІес	луес	умцес 
+sing: далайикІес	далайикес 
+have fun: х1азтайкьис	хІязлииркьес 
+play: х1азтайкьис	хІязлииркьес 
+float: чухбик1ис	шинна чевкад куртІикІес 
+flow: дураарбукьес	чухлидашес 
+freeze: барг1яс 
+swell: бимдес 
+brook: варачан	хІеркІ	чяхІи 
+river: варачан	хІеркІ	чяхІи 
+stream: варачан	хІеркІ	чяхІи 
+lake: кІав	шара 
+ocean: урхьу 
+sea: урхьу 
+dust: пухІ 
+fog: дирихь 
+sky: зак 
+snow: дяхІи 
+ice: миъ	миълахъ 
+blaze: игес	улкес 
+burn: игес	улкес 
+day: бархІи 
+daylight: бархІи 
+daytime: бархІи 
+bad: вайси 
+evil: вайси 
+rot: берхІибси 
+rotten: берхІибси 
+dirty: бясунси	жяргаси 
+filthy: бясунси	жяргаси 
+soiled: бясунси	жяргаси 
+straight: бархьси 
+sharp: бугаси	къизаси 
+blunt: къатавси	кьутІаси 
+smooth: гъалагси	лугІянси 
+damp: шинкІаси хІябцси 
+wet: шинкІаси хІябцси 
+correct: бархьси 
+right side: балуй шали 
+left: алгъай шали 
+in: бухІнаб 
+inside: бухІнаб 
+and: -ра	ва 
+if: рахли	эгер 
+because: сенахІ енну	сенкІун 

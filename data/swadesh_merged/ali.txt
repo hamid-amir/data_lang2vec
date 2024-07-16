@@ -1,0 +1,403 @@
+all: garem gorem | garɛm gorɛm 
+all: garɛm gorɛm 
+arm: bene 
+arrow: sila 
+ashes: wam 
+back: teganaim 
+back: tɛganaim 
+bad: pi:em 
+bad: piːɛm 
+belly: më:gim moregiaba | tauya 
+belly: mʌːgim morɛgiaba | tauya 
+belly: tauya 
+big: zoin 
+bird: ku:ta | kuːta 
+bird: kuːta 
+bite: gul- 
+black: uliling | uliliŋ 
+black: uliliŋ 
+blood: kese | kEsE	kɛsɛ 
+blood: kɛsɛ | kEsE	kɛsɛ 
+blow: piam- 
+bone: koareng | koarEN	koarɛŋ 
+bone: koarɛŋ | koarEN	koarɛŋ 
+boy: simeng 
+boy: simɛŋ 
+breast: amun 
+brother: awëta 
+brother: awʌta 
+brother: emang 
+brother: ɛmaŋ 
+burn: ëkë- 
+burn: ʌkʌ- 
+butterfly: uëwasësër 
+butterfly: uʌwasʌsʌr 
+calf: param nuaga 
+cassowary: mewa 
+chest: apa 
+child: kokin 
+chin: semutagwa 
+chin: sɛmutagwa 
+cloud: mɛki | mɛki	mɛkitɛl 
+cloud: meki(-tel) | mɛki	mɛkitɛl 
+cloud: mɛkitɛl | mɛki	mɛkitɛl 
+cold: ughum(em) | uɾɣum	uɾɣumɛm 
+cold: uɾɣum(ɛm) | uɾɣum	uɾɣumɛm 
+come: opo- | opo	opo- 
+crocodile: ammail 
+cut: ikurëk- 
+cut: ikurʌk- 
+cut: kiku- 
+dance: samuk- 
+day: onimonin 
+die: um- | um	um- 
+dig: tumun ak- 
+dig: tumuner- 
+dig: tumunɛr- 
+dig: wag- 
+dirty: mikënung 
+dirty: mikʌnuŋ 
+dog: sika 
+dry: tawarëp | tawarʌp 
+dry: tawarʌp 
+earth: me:ki | mɛːki 
+earth: mɛːki 
+ear: zuar 
+eat: gurukum-(\) | ni- 
+eat: ni- 
+egg: ikwara 
+elbow: benegeta 
+emu: mɛwa 
+excrement: i:vi 
+eye: momo | momo	mɔmo 
+eye: mɔmo | momo	mɔmo 
+face: mukwain 
+fall: ikoku- 
+fall: kiku- 
+far: uege | ulɛgɛ 
+far: ulɛgɛ 
+father: memia 
+father: mɛmia 
+fat (n.): sirang 
+fat (n.): siraŋ 
+fear: teregël- 
+fear: tɛrɛgʌl- 
+few: gesiges 
+few: tuniokim 
+fight: orɛ iz- 
+finger: kumem 
+fingernail: këlia 
+fingernail: kʌlia 
+fire: o:re | orE	ɔːrɛ 
+fire: ɔːrɛ | orE	ɔːrɛ 
+fish: kë:ruk(u) | k3ruku	kʌːruk	kʌːruku 
+fish: kʌːruk(u) | k3ruku	kʌːruk	kʌːruku 
+fly (n.): ketepul 
+fly (n.): kɛtɛpul 
+fly (v.): peluël- 
+fly (v.): pɛluʌl- 
+fog: kamo 
+forest: gë:sin 
+forest: gʌːsin 
+fruit: buluka 
+full: si:kwa- | sikw~a	siːkwa- 
+full: siːkwa- | sikw~a	siːkwa- 
+full: unu- | sikw~a	siːkwa- 
+girl: wapir 
+girl: wapirr 
+good: mbiam 
+grass: upuku 
+green: kërakun | kʌrakun 
+green: kʌrakun 
+guts: më:gim moregiaba 
+guts: mʌːgim morɛgiaba 
+hair: sawar 
+head: gagëly | gagʌly 
+head: gagʌly 
+head: musin | gagʌly 
+hear: igi- | igi	igi- 
+heart: gamë:gu | gamʌːgu 
+heart: gamʌːgu 
+heavy: pi:ni | piːni 
+heavy: piːni 
+here: enga:tela 
+here: ɛŋaːtɛla 
+he/she: o- 
+he/she: o-ngu 
+he/she: o-ŋu 
+hit: ore iz- 
+hold: bepa- 
+hold: bɛpa- 
+house: mone 
+house: mɔnɛ 
+how: deu vasim 
+I: e- | ENi	ɛ-ŋi 
+I: ɛ- | ENi	ɛ-ŋi 
+I: e-ng | ENi	ɛ-ŋi 
+I: ɛ-ŋ | ENi	ɛ-ŋi 
+I: e-ngi | ENi	ɛ-ŋi 
+I: ɛ-ŋi | ENi	ɛ-ŋi 
+in: yë:s 
+kill: ari- 
+knee: ge:ta | geta	geːta 
+knee: geːta | geta	geːta 
+laugh: sakak- 
+left: këkëkës 
+left: kʌkʌkʌs 
+leg: balaim 
+lightning: kwag- 
+lightning: meki miririmu- 
+liver: kias 
+long: salasim 
+louse: gunu 
+man: marema | uːma 
+man: marɛma | uːma 
+man: u:ma | uːma 
+man: uːma 
+many: tunipem | tunipɛm 
+many: tunipɛm 
+meat: igubu 
+moon: naway 
+morning: bula:miki 
+morning: bulaːmiki 
+morning: meki kuaghika 
+morning: mɛki kuaɣika 
+mosquito: kasin 
+mother: nënia 
+mother: nʌnia 
+mountain: ku:lang | kulaN	kuːlaŋ 
+mountain: kuːlaŋ | kulaN	kuːlaŋ 
+mouth: nanagitem | nanagitɛm 
+mouth: nanagitɛm 
+name: unim 
+nape: ketëkwa 
+nape: ketʌkwa 
+navel: ɛːtɛmʌ 
+navel: e:temë 
+near: mikika 
+neck: ke:tagwa | kɛːtagwa 
+neck: kɛːtagwa 
+new: kei:tap | kei	keiːtap	tap 
+new: keiːtap | kei	keiːtap	tap 
+night: ete:kuli | etEkuli	etɛːkuli 
+night: etɛːkuli | etEkuli	etɛːkuli 
+nose: meta(n.glik) | mEta	mEtanglik	mɛta	mɛtanglik 
+not: o:kim 
+not: oːkim 
+old: guandam 
+old: penim 
+old: sangaim 
+old: saŋaim 
+old: sangan 
+old: saŋan 
+one: gesikëka | gEsik3ka	gɛsikʌkʌ 
+one: gɛsikʌkʌ | gEsik3ka	gɛsikʌkʌ 
+pull: bebes- 
+pull: bɛbɛs- 
+push: itupiam- 
+push: otupiam- 
+rat: geleng 
+rat: wɛta 
+red: amago 
+right: biamasik | gag3ly~ 
+ripe: amaɣa 
+ripe: amaghu 
+road: i:ma | ima 
+road: iːma | ima 
+root: rirem | rirrɛm 
+root: rirrɛm 
+rope: suai 
+salt: wel | wɛl 
+salt: wɛl 
+sand: sele | sɛlɛ 
+sand: sɛlɛ 
+sand: sipëkim | sɛlɛ 
+say: em- | ɛm-	ɛr- 
+say: ɛm- | ɛm-	ɛr- 
+say: er- | ɛm-	ɛr- 
+say: ɛr- | ɛm-	ɛr- 
+say: kɛßɛm- | ɛm-	ɛr- 
+say: kevem- | ɛm-	ɛr- 
+scratch: siramu- 
+sea: wel 
+sea: wɛl 
+see: -gi | -gi	gi 
+see: gi- | -gi	gi 
+see: kuraŋʌl- | -gi	gi 
+sharp: bus- 
+sharp: ngënëgasim 
+short: takwap 
+shoulder: tetëter 
+shoulder: tɛtʌtɛr 
+sing: kawër- 
+sister: engumanak 
+sister: eŋumanak 
+sister: engu manak gunaya 
+sister: eŋu manak gunaya 
+sit: tongo- | toŋo- 
+sit: toŋo- 
+skin: mura 
+sky: mek ter(e) 
+sky: mɛk tɛr(ɛ) 
+sleep: gekwa-in- 
+small: gunaya 
+smell: ugusin-iam- 
+smoke: itu 
+snake: gewa | gɛwa 
+snake: gɛwa 
+spit: kɛtumu- 
+spit: mu:ku 
+spit: muːku 
+split: garaka- 
+split: tapuramu 
+stand: zelabago(si)- 
+stand: zelamu- 
+star: boy 
+stick: tukum 
+stone: be:ring | bEriN	bɛːriŋ	sEpuruka	sɛpurruka 
+stone: bɛːriŋ | bEriN	bɛːriŋ	sEpuruka	sɛpurruka 
+stone: sɛpurruka | bEriN	bɛːriŋ	sEpuruka	sɛpurruka 
+stone: sepuruka | bEriN	bɛːriŋ	sEpuruka	sɛpurruka 
+straight: kukuma 
+sun: nua 
+swell: zeramu- 
+swell: zɛramu- 
+tail: arukem | arukɛm 
+tail: arukɛm 
+tail: ibatakum | arukɛm 
+take: i- 
+there: ikisigiʌ 
+there: ikisigië 
+they: eteg 
+they: ɛtɛg 
+they: ote- 
+they: otɛ- 
+they: ote-ngi 
+they: otɛ-ŋi 
+thigh: duwel 
+thigh: duwɛl 
+think: zuërëk- 
+think: zuʌrʌk- 
+this: ɛŋʌ 
+this: engë | ɛŋʌ 
+thou: ani- | nENi	nɛ-ŋi 
+thou: ani-g | nENi	nɛ-ŋi 
+thou: ani-ŋi | nENi	nɛ-ŋi 
+thou: ne- | nENi	nɛ-ŋi 
+thou: nɛ- | nENi	nɛ-ŋi 
+thou: ne-ng | nENi	nɛ-ŋi 
+thou: nɛ-ŋ | nENi	nɛ-ŋi 
+thou: ne-ngi | nENi	nɛ-ŋi 
+thou: nɛ-ŋi | nENi	nɛ-ŋi 
+throat: agup 
+throw: kwazigëmu- 
+throw: kwazigʌmu- 
+thunder: ëtub walai- 
+thunder: ʌtub walai- 
+tie: bebez- 
+tie: bɛbɛz- 
+tomorrow: bu:lam 
+tomorrow: buːlam 
+tomorrow: e:rin 
+tongue: taprekem | taprekEm	taprekɛm 
+tongue: taprekɛm | taprekEm	taprekɛm 
+tooth: nganag | Nanag	ŋanag 
+tooth: ŋanag | Nanag	ŋanag 
+tree: kanaim | N3mu 
+tree: ngëmu | N3mu 
+tree: ŋʌmu | N3mu 
+tree: taukʷa | N3mu 
+turn: aikaram- 
+two: elekapa | ElEkapa	ɛlɛkapa 
+two: ɛlɛkapa | ElEkapa	ɛlɛkapa 
+vagina: ko:sa 
+vagina: koːsa 
+vomit: miŋil- 
+walk: iz- 
+walk: kwʌlim- | iz- 
+wallaby: ma gap 
+warm: ore 
+warm: ɔrɛ 
+wash: agis- 
+wash: agis-aku 
+water: ë:gï | 3g3	ʌːgə 
+water: ʌːgə | 3g3	ʌːgə 
+weep: ereng- 
+weep: ɛrɛŋ- 
+we: ini- | iniNi 
+we: ini-g | iniNi 
+we: ini-ngi | iniNi 
+we: ini-ŋi | iniNi 
+what: mama 
+where: de:na 
+where: dɛːna 
+white: kias 
+who: yau 
+wind: ugum 
+wing: angarim 
+wing: aŋarim 
+woman: irewuka | kɛman 
+woman: irɛwuka | kɛman 
+woman: keman | kɛman 
+woman: kɛman 
+wood: tawkwa(p) 
+wood: tukum 
+yellow: kogëp | kogʌp 
+yellow: kogʌp 
+yesterday: eringyemin 
+yesterday: ete:ke 
+yesterday: ɛtɛːke 
+yes: woi 
+yes: wɔi 
+you: ani- | nENi	nɛ-ŋi 
+you: ani-g | nENi	nɛ-ŋi 
+you: ani-ngi | nENi	nɛ-ŋi 
+every: garɛm gorɛm 
+ash: wam 
+abdomen: tauya 
+bigness: zoin 
+large: zoin 
+breasts: amun 
+come from: opo	opo- 
+be dead: um	um- 
+dead: um	um- 
+ground: mɛːki 
+land: mɛːki 
+soil: mɛːki 
+fly: pɛluʌl- 
+fly v.: pɛluʌl- 
+hand: gag3ly~ 
+left hand: gag3ly~ 
+1 sg.: ENi	ɛ-ŋi 
+head louse: gunu 
+male: uːma 
+much: tunipɛm 
+multiple: tunipɛm 
+several: tunipɛm 
+hill: kulaN	kuːlaŋ 
+title: unim 
+nighttime: etEkuli	etɛːkuli 
+adulterous: gEsik3ka	gɛsikʌkʌ 
+single: gEsik3ka	gɛsikʌkʌ 
+that: gEsik3ka	gɛsikʌkʌ 
+the: gEsik3ka	gɛsikʌkʌ 
+unprincipled: gEsik3ka	gɛsikʌkʌ 
+path: ima 
+route: ima 
+hide: mura 
+little: gunaya 
+smallness: gunaya 
+rock: bEriN	bɛːriŋ	sEpuruka	sɛpurruka 
+2 sg: nENi	nɛ-ŋi 
+grind: ElEkapa	ɛlɛkapa 
+go: iz- 
+1 pl. inc.: iniNi 
+we₁: iniNi 
+whiteness: kias 
+who?: yau 
+female: kɛman 
+distant: ulɛgɛ 
+dull: piːni 
+serious: piːni 
+close: mikika 
+ner: mikika 

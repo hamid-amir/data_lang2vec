@@ -1,0 +1,338 @@
+all: ikkatrs	ikviens	visi	viss 
+every: ikkatrs	ikviens	visi	viss 
+ash: pelni 
+ashes: pelni 
+bark: miza	tāss 
+abdomen: veders	vēders 
+belly: veders	vēders 
+big: liels 
+bigness: liels 
+large: liels 
+bird: putns 
+bite: kos	kost 
+black: melns 
+blood: asinis	asins 
+bone: kauls 
+breast: kruc	krūtis	krūts 
+breasts: kruc	krūtis	krūts 
+claw: nags 
+nail: nags 
+talon: nags 
+cloud: makonis	mākonis	padebeši 
+cold: auksc	auksts	salts 
+come: nak	nākt 
+come from: nak	nākt 
+be dead: mir	miris	mirt	mirusi 
+dead: mir	miris	mirt	mirusi 
+die: mir	miris	mirt	mirusi 
+dog: suns 
+drink: cer	dzert 
+dry: sauss 
+ear: auss 
+earth: augsne	zeme 
+ground: augsne	zeme 
+land: augsne	zeme 
+soil: augsne	zeme 
+eat: es	ēst 
+egg: ola 
+eye: acs 
+fat: tauki 
+fat n.: tauki 
+grease: tauki 
+lubricant: tauki 
+oil: tauki 
+feather: spalva 
+fire: uguns 
+fish: zivs 
+fly: lido	lidot 
+fly v.: lido	lidot 
+foot: kāja	peda	pēda 
+full: pilns 
+give: do	dot 
+good: labs 
+green: zaLS	zal̩š	zaļš 
+hair: mac	mati	mats 
+hand: roka 
+left hand: roka 
+right: roka 
+head: galva 
+hear: cirde	dzirdēt 
+heart: sirds 
+horn: rags 
+1 sg.: es 
+I: es 
+kill: galināt	nogalina	nogalināt	nonāvēt 
+knee: celis	cel̩gals 
+be knowledgeable: zina	zināt 
+know: zina	zināt 
+leaf: lapa 
+lie: atrasties	gule	gulēt 
+lie down: atrasties	gule	gulēt 
+liver: aknas 
+long: garS	garš	ilgs 
+head louse: uc	uts 
+louse: uc	uts 
+male: virietes	vīrietis 
+man: cilveks	cilvēks 
+many: dauc	daudz 
+much: dauc	daudz 
+multiple: dauc	daudz 
+several: dauc	daudz 
+flesh: gaLa	miesa 
+meat: gaLa	miesa 
+moon: meness	mēness 
+hill: kalns	pakalns 
+mountain: kalns	pakalns 
+mouth: mute 
+name: nosaukums	vards	vārds 
+title: nosaukums	vards	vārds 
+neck: kakls 
+new: jauns	yauns 
+night: nakc	nakts 
+nighttime: nakc	nakts 
+nose: deguns 
+not: ne	nē 
+adulterous: viens	viêns 
+one: viens	viêns 
+single: viens	viêns 
+that: tas 
+the: viens	viêns 
+unprincipled: viens	viêns 
+human: cilveks	cilvēks 
+human being: cilveks	cilvēks 
+person: cilveks	cilvēks 
+rain: lietus 
+rainy weather: lietus 
+red: ruds	sarkans 
+path: ceLS	ceļš 
+road: ceLS	ceļš 
+route: ceLS	ceļš 
+root: sakne 
+round: apaLS	apal̩š	apaļš	aplis 
+sand: smiltis	smilts 
+say: saci	sacīt	teik	teikt 
+see: manīt	rece	redzēt 
+seed: sekla	sēkla 
+sit: sede	ses	sēdēt	sēsties 
+hide: ada	āda 
+skin: ada	āda 
+sleep: duse	dusēt	gule	gulēt	čučēt 
+little: marzs	mazs 
+small: marzs	mazs 
+smallness: marzs	mazs 
+smoke: dumi	dūmi 
+stand: sta	stave 
+star: zvaigzne 
+rock: akmens	klints 
+stone: akmens	klints 
+sun: saule 
+swim: pelde	peldēt 
+tail: aste 
+this: Sis	šis 
+2 sg: tu	yus 
+thou: tu	yus 
+you: tu	yus 
+tongue: mele	mēle 
+tooth: zobs 
+tree: koks 
+grind: divi 
+two: divi 
+go: ie	iet	staigāt 
+walk: ie	iet	staigāt 
+hot: silts 
+warm: silts 
+water: udens	ūdens 
+1 pl. inc.: mes	mēs 
+we: mes	mēs 
+we₁: mes	mēs 
+what: kas 
+white: balc	balts 
+whiteness: balc	balts 
+who: kas	kurS	kurš 
+who?: kas	kurS	kurš 
+female: sieviete 
+woman: sieviete 
+yellow: celtens	dzeltens 
+distant: tāls	tālu 
+far: tāls	tālu 
+dull: smags 
+heavy: smags 
+serious: smags 
+close: blakus	tuvs	tuvu 
+near: blakus	tuvs	tuvu 
+ner: blakus	tuvs	tuvu 
+salt: sāls 
+short: īss 
+snake: čūska 
+thin: plāns	tievs 
+wind: vējš 
+earthworm: tārps 
+worm: tārps 
+year: gads 
+3 sg.: viņš 
+he: viņš 
+she: viņš 
+2 pl.: jūs 
+ye: jūs 
+you all: jūs 
+3 pl.: tie	tās	vin̩as	vin̩i	viņi 
+they: tie	tās	vin̩as	vin̩i	viņi 
+here: šeit 
+there: tur 
+where: kur 
+where?: kur 
+when: kad 
+when?: kad 
+how: kā 
+how?: kā 
+some: dažas	daži	kautcik	nedaudz 
+few: maz	nedaudz	nedaudzi 
+other: cits 
+three: trî̀s	trīs 
+four: četri 
+five: pieci	pìeci 
+broad: plats	plašs 
+wide: plats	plašs 
+wideness: plats	plašs 
+thick: biezs	resns 
+narrow: šaurs 
+child: bērns 
+principal wife: sieva 
+wife: sieva 
+husband: vīrs 
+his mother: māte 
+mother: māte 
+my mother: māte 
+father: tēvs 
+his father: tēvs 
+my father: tēvs 
+animal: dzīvnieks	zvērs 
+forest: mežs 
+woods: mežs 
+branch: nūja	zars	žagars 
+stick: nūja	zars	žagars 
+fruit: auglis 
+flower: puk̩e	puķe	zieds 
+grass: zāle 
+cord: aukla	striķis	virve 
+rope: aukla	striķis	virve 
+fingernail: nags 
+leg: kāja 
+arm: roka 
+wing: spārns 
+gut: iekšas	zarnas 
+guts: iekšas	zarnas 
+insides: iekšas	zarnas 
+intestine: iekšas	zarnas 
+intestines: iekšas	zarnas 
+back: mugura 
+suck: sūkt	sūkāt	zīst 
+spit: spl̩aut	spļaut 
+vomit: vemt 
+blow: pūst 
+breath: elpa	elpot 
+breathe: elpa	elpot 
+laugh: smieties 
+laughter: smieties 
+cogitate: domāt 
+reflect: domāt 
+think: domāt 
+smell: ost	ostīt	saost 
+sniff: ost	ostīt	saost 
+afraid: baidīties	bailes	bīties 
+be afraid: baidīties	bailes	bīties 
+fear: baidīties	bailes	bīties 
+fright: baidīties	bailes	bīties 
+alive: dzīve	dzīvot	dzīvs	dzīvība 
+be alive: dzīve	dzīvot	dzīvs	dzīvība 
+life: dzīve	dzīvot	dzīvs	dzīvība 
+live: dzīve	dzīvot	dzīvs	dzīvība 
+living: dzīve	dzīvot	dzīvs	dzīvība 
+fight: cīnīties 
+hunt: medīt 
+beat: sadot	sist 
+hit: sadot	sist 
+strike: sadot	sist 
+cut: cirpt	cirst	griezt	griezti 
+hack: cirpt	cirst	griezt	griezti 
+cut open: sadalīt	saskaldīt	sašk̩elt	šķelt 
+split: sadalīt	saskaldīt	sašk̩elt	šķelt 
+pierce: durt 
+stab: durt 
+scratch: skrāpēt 
+dig: rakt 
+tell lies: gulties	gulēt	meli	melot 
+turn: apgriezties	griezt	gāzt 
+turn around: apgriezties	griezt	gāzt 
+turn round: apgriezties	griezt	gāzt 
+drop: krist	kristies 
+fall: krist	kristies 
+grasp: turēt 
+hold: turēt 
+hold in arm: turēt 
+squeeze: izgriezt	izspiest	spiest	žmiegt 
+wring: izgriezt	izspiest	spiest	žmiegt 
+rub: berzt	slaucīt	trīt 
+wipe: slaucīt 
+wash: mazgāt 
+wash clothes: mazgāt 
+pull: raut	vilkt 
+push: grūst	stumt 
+shove: grūst	stumt 
+throw: mest	sviest 
+bind: sasiet	siet 
+fasten: sasiet	siet 
+tie: sasiet	siet 
+tie up: sasiet	siet 
+sew: šūt 
+count: skaitīt 
+enumerate: skaitīt 
+number: skaitīt 
+tally: skaitīt 
+sing: dziedāt 
+have fun: rotal̩āties	spēlēt	spēlēties 
+play: rotal̩āties	spēlēt	spēlēties 
+float: peldēt	pludināt 
+flow: tecēt 
+freeze: salt 
+swell: piebriest	uztūkt 
+brook: straume	upe 
+river: straume	upe 
+stream: straume	upe 
+lake: ezers 
+ocean: jūra 
+sea: jūra 
+dust: putekl̩i	putekļi 
+fog: migla 
+sky: debesis	debess 
+snow: sniegs 
+ice: ledus 
+blaze: deg	degt 
+burn: deg	degt 
+day: diena 
+daylight: diena 
+daytime: diena 
+old: sens	vecs 
+bad: slikts	ļauns 
+evil: slikts	ļauns 
+rot: bojāts	sapuvis	satrunējis	vecs 
+rotten: bojāts	sapuvis	satrunējis	vecs 
+dirty: netīrs 
+filthy: netīrs 
+soiled: netīrs 
+straight: taisns	tiešs 
+sharp: ass 
+blunt: neass	truls 
+smooth: gluds 
+damp: mitrs	slapjš 
+wet: mitrs	slapjš 
+correct: pareizs	taisnīgs 
+right side: labais	pa labi 
+left: kreisais	kreisā puse 
+at: pie 
+in: iekš	iekšā 
+inside: iekš	iekšā 
+with: ar 
+and: un 
+if: ja 
+because: jo	tāpēc	tāpēc ka 

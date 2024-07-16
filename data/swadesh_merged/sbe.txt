@@ -1,0 +1,263 @@
+all: maudoi 
+every: maudoi 
+ash: gawala	kahusa 
+ashes: gawala	kahusa 
+abdomen: boga 
+belly: boga 
+big: laki 
+bigness: laki 
+large: laki 
+bird: manuwa 
+bite: kalasi	kapulau 
+black: duba 
+blood: kwasina	kw~asina 
+bone: siyada 
+breast: susu 
+breasts: susu 
+burn: kala 
+burn tr.: kala 
+cloud: yalohi 
+cold: gwaugwau 
+come: lao ma	lao-ma 
+come from: lao ma	lao-ma 
+be dead: mate	mwaloi	mw~aloi 
+dead: mate	mwaloi	mw~aloi 
+die: mate	mwaloi	mw~aloi 
+dog: kedewa	tutu	wanohe 
+drink: numa 
+dry: a. pitali 
+ear: beya 
+eat: heyawasi	kai	namnam 
+egg: pou 
+eye: mata 
+feather: kulasi	tagola 
+fire: kaiwa 
+fish: loge	yama 
+fly: loi 
+fly v.: loi 
+good: namwa 
+green: kalakalawa 
+hair: kulu 
+hand: nima 
+left hand: nima 
+right: nima 
+head: kulu 
+hear: lapui 
+1 sg.: yau 
+I: yau 
+kill: unui 
+be knowledgeable: kata 
+know: kata 
+leaf: lugu 
+lie: keno 
+lie down: keno 
+liver: kate 
+long: loha 
+head louse: tuma 
+louse: tuma 
+male: tau 
+man: tamowai 
+moon: waikena 
+mouth: kawa	mwaka 
+name: hesa 
+title: hesa 
+neck: lomaloma 
+new: hauhau 
+night: boni 
+nighttime: boni 
+nose: isu 
+adulterous: hotabe	kesega 
+one: hotabe	kesega 
+single: hotabe	kesega 
+that: (te)meta	(te)nem 
+the: hotabe	kesega 
+unprincipled: hotabe	kesega 
+human: tamowai 
+human being: tamowai 
+person: tamowai 
+rain: nabu 
+rainy weather: nabu 
+red: pululu 
+path: kamwasa	kamw~asa	keda 
+road: kamwasa	kamw~asa	keda 
+route: kamwasa	kamw~asa	keda 
+root: lam	wuwu 
+sand: lekawa	nagali 
+say: hedede	wane 
+see: kaikewa	kita 
+sit: tuli 
+hide: dahi	opi 
+skin: dahi	opi 
+sleep: keno 
+little: gagili	habulu 
+small: gagili	habulu 
+smallness: gagili	habulu 
+smoke: kasu. mwasiyou 
+star: kipwala	kipw~ala 
+rock: weku 
+stone: weku 
+swim: tuba 
+tail: giyu 
+this: (te)ina 
+2 sg: kowa 
+thou: kowa 
+you: kowa 
+tongue: memena 
+tooth: kawa	mwaka	mw~aka 
+grind: labui	tomesaʔga 
+two: labui	tomesaʔga 
+go: lao	yona 
+walk: lao	yona 
+hot: gigibwali 
+warm: gigibwali 
+water: waila 
+1 pl. inc.: kai	kita 
+we: kai	kita 
+we₁: kai	kita 
+what: saha 
+white: posi 
+whiteness: posi 
+who: kaiteya 
+who?: kaiteya 
+female: sine 
+woman: sine 
+yellow: yogeyoge 
+distant: keda-loha 
+far: keda-loha 
+dull: polohe 
+heavy: polohe 
+serious: polohe 
+close: keda-kubwa 
+near: keda-kubwa 
+ner: keda-kubwa 
+salt: kalita 
+short: kubwa 
+snake: mwata 
+thin: yaloyalo 
+wind: mana	yaumai 
+earthworm: mwatamwata 
+worm: mwatamwata 
+year: bolimai 
+2 pl.: komiyu 
+ye: komiyu 
+you all: komiyu 
+3 pl.: siya 
+they: siya 
+where: hae-di	hae-na 
+where?: hae-di	hae-na 
+when: kaiuya 
+when?: kaiuya 
+how: dohagi 
+how?: dohagi 
+other: hesau 
+three: haeyona	heʔdubaʔdu 
+four: bahẽga-	hasi 
+five: haligigi	sĩkoʔneʔga 
+broad: (tadada?)	magaga 
+wide: (tadada?)	magaga 
+wideness: (tadada?)	magaga 
+fat: momo 
+thick: potopoto 
+narrow: giligili 
+principal wife: mwane 
+wife: mwane 
+husband: mwane 
+his mother: sina 
+mother: sina 
+my mother: sina 
+father: tama 
+his father: tama 
+my father: tama 
+forest: nukula 
+woods: nukula 
+branch: laga 
+stick: laga 
+fruit: kaniyo 
+flower: latu. liyasi	pasa	wane 
+grass: lagau 
+cord: maina 
+rope: maina 
+flesh: buluma	yau? 
+meat: buluma	yau? 
+grease: momo 
+wing: pepe 
+gut: sinae 
+guts: sinae 
+insides: sinae 
+intestine: sinae 
+intestines: sinae 
+back: dagela 
+suck: mumusi 
+spit: kaiso 
+vomit: maliwai 
+blow: lotalu	towa	yuhi 
+breath: yawasi 
+breathe: yawasi 
+laugh: maluhi 
+laughter: maluhi 
+cogitate: nuwatu 
+reflect: nuwatu 
+think: nuwatu 
+smell: pane 
+sniff: pane 
+afraid: matausi 
+be afraid: matausi 
+fear: matausi 
+fright: matausi 
+alive: mauli 
+be alive: mauli 
+life: mauli 
+live: mauli 
+living: mauli 
+hunt: halo 
+beat: koi 
+hit: koi 
+strike: koi 
+cut: boli 
+hack: boli 
+cut open: igali 
+split: igali 
+pierce: sikwa 
+stab: sikwa 
+scratch: gamoli	yasai 
+dig: giyali	keli	sala	tudai 
+stand: tolo 
+drop: beku 
+fall: beku 
+grasp: kabi 
+hold: kabi 
+hold in arm: kabi 
+squeeze: tam 
+wring: tam 
+throw: tu 
+bind: pai 
+fasten: pai 
+tie: pai 
+tie up: pai 
+sew: bodi 
+count: hasili 
+enumerate: hasili 
+number: hasili 
+tally: hasili 
+flow: didi 
+lake: waila 
+ocean: gabwa	kalita 
+sea: gabwa	kalita 
+fog: madagau 
+sky: yada 
+bad: yababa 
+evil: yababa 
+dirty: bida 
+filthy: bida 
+soiled: bida 
+sharp: mata 
+blunt: putu 
+damp: duwabwa 
+wet: duwabwa 
+right side: kahakahatu 
+left: seuseuli 
+at: e-di	e-na	udiyedi	unai 
+in: luwa 
+inside: luwa 
+and: na	yo 
+if: aga	ena	taga 

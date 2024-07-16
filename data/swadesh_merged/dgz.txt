@@ -1,0 +1,353 @@
+all: iravi ~ iragi | iragi	iravi 
+animal: man 
+ankle: airanip 
+arm: avin 
+arm: nani-ua 
+arm: nani-wa 
+ashes: gom | atagin	gom	pom 
+ashes: pom | atagin	gom	pom 
+back: gari 
+bad: koe 
+belly: bagu | bagua 
+big: bawar | aita	bawar	baware	dokanama 
+bird: neni | neni	nenip	nenipu	nepip	orap 
+bird: nenip | neni	nenip	nenipu	nepip	orap 
+bird: nepip | neni	nenip	nenipu	nepip	orap 
+bite: adum | adum	aria 
+bitter: sisi 
+black: pumpuni 
+blow: upun 
+bone: kaima | kaima	kaimewa 
+boy: tamaru 
+branch: onep 
+brother: goani 
+brother: nao 
+brother: tas 
+burn: yagik 
+child: orup 
+child: otun 
+cold: amun uon | amun uon	irot 
+cold: irot | amun uon	irot 
+come: onam- | onak	onam-	onia 
+count: batnak 
+dark: pumpuni 
+day: augaya 
+day: marek wand-en-i 
+day: oam 
+die: bo- | bo	bo-	buia 
+die: bop | bo	bo-	buia 
+die: wakauam | bo	bo-	buia 
+dig: tu- 
+dirty: bigip 
+dog: eao | aeo	eao	eau	eʼau	okoi	okoiʼi	paireni 
+dog: okoi | aeo	eao	eau	eʼau	okoi	okoiʼi	paireni 
+dog: okoi\i | aeo	eao	eau	eʼau	okoi	okoiʼi	paireni 
+drink: na- | darine	kaum naia	na- 
+dry: oaewa | darakaen	oaewa 
+dust: atagin 
+ear: daline-va | dadina-naua	dadina-nuwa	daline-va	daline-wa	darine	darine-a	darinewa	daringa-ga	darira-nuaa 
+ear: daline-wa | dadina-naua	dadina-nuwa	daline-va	daline-wa	darine	darine-a	darinewa	daringa-ga	darira-nuaa 
+ear: darine | dadina-naua	dadina-nuwa	daline-va	daline-wa	darine	darine-a	darinewa	daringa-ga	darira-nuaa 
+ear: darine-a | dadina-naua	dadina-nuwa	daline-va	daline-wa	darine	darine-a	darinewa	daringa-ga	darira-nuaa 
+earth: pia | pia	piup 
+earth: piup | pia	piup 
+eat: na | na	naia 
+eye: eame-va | eame-va	iama makiwa	iama-nua	iamana-wa	yam	yama	yamagau-wa	yamanmage-wa	yamewa 
+eye: iamana-wa | eame-va	iama makiwa	iama-nua	iamana-wa	yam	yama	yamagau-wa	yamanmage-wa	yamewa 
+eye: yama | eame-va	iama makiwa	iama-nua	iamana-wa	yam	yama	yamagau-wa	yamanmage-wa	yamewa 
+face: gine namu 
+face: gini-namua 
+fall: geamo 
+fall: gear- 
+far: wandap 
+father: ambei 
+father: amboi 
+father: mama 
+fear: tap 
+feather: gume | gume	gumewa	nenip gumewa 
+fire: merawa | merawa	oma	omaiame	omaiamia 
+fire: oma | merawa	oma	omaiame	omaiamia 
+fish: meo | aro	gauai	mangotsi	meo	neʼo 
+fish: ne\o | aro	gauai	mangotsi	meo	neʼo 
+five: nani-iamu 
+five: nanin-eamu 
+five: nanin-emene 
+flower: rarema 
+foot: ame-gwane-va | amangune-wa	amanuwa	ame-gwane-va	ame-va	ameva	aminau-wa	erangurea	pusi	pusiwa 
+foot: ameva | amangune-wa	amanuwa	ame-gwane-va	ame-va	ameva	aminau-wa	erangurea	pusi	pusiwa 
+foot: ame-va | amangune-wa	amanuwa	ame-gwane-va	ame-va	ameva	aminau-wa	erangurea	pusi	pusiwa 
+foot: pusi | amangune-wa	amanuwa	ame-gwane-va	ame-va	ameva	aminau-wa	erangurea	pusi	pusiwa 
+four: degede 
+four: de-ge-de 
+four: de-gi-de 
+four: degi-degi 
+fruit: tave 
+full: e- | no dotouen 
+give: wan | nenia	wan 
+good: aipak | aipak	kakae 
+good: kakae | aipak	kakae 
+hand: nanagwania | maninamo	nanagwania	nani-gane-va	naniguri-wa	nanimare-va	nanimbagua	nanip	naniwa	nnai 
+hand: nani-gane-va | maninamo	nanagwania	nani-gane-va	naniguri-wa	nanimare-va	nanimbagua	nanip	naniwa	nnai 
+hand: nnai | maninamo	nanagwania	nani-gane-va	naniguri-wa	nanimare-va	nanimbagua	nanip	naniwa	nnai 
+head: ianup | ianup	iap	iwa 
+head: iap | ianup	iap	iwa 
+hear: anu | anu	anuia 
+heavy: itani 
+here: mapa 
+he/she: -e 
+he/she: me 
+he/she: mega 
+he/she: megava 
+he/she: me-gava 
+hit: to 
+hold: nase- 
+hole: awan 
+hole: urat 
+horn: don | don	man kaimewa 
+house: ima 
+house: pa 
+how: anen(en) 
+husband: meima 
+I: -na | ne	nei 
+I: ne | ne	nei 
+I: nega | ne	nei 
+I: negava | ne	nei 
+I: ne-gava | ne	nei 
+I: nei | ne	nei 
+kill: gur- | gur-	toia 
+know: tambu- | anuia	tambu- 
+lake: awan 
+laugh: top 
+leaf: bage | bae	baewa	bage 
+leg: agua 
+leg: am 
+leg: ame-wa 
+liver: goana | goana	gwanewa 
+long: nonoŋga | nononga	nonoŋga 
+man: apan | oaenapan	orup	otua 
+man: apani | oaenapan	orup	otua 
+many: aruga 
+moon: silagam | kiraga	silagam	siraga	siragam	tilagam	tiragam 
+moon: siragam | kiraga	silagam	siraga	siragam	tilagam	tiragam 
+moon: tilagam | kiraga	silagam	siraga	siragam	tilagam	tiragam 
+morning: mumaget 
+morning: wan se-n 
+mother: anani 
+mother: ina 
+mother: ina-n 
+mother: inani 
+mountain: nikaema | tunup 
+mountain: togana | tunup 
+mountain: tunup 
+mouth: no- | no-	noa 
+name: yau | yau	yaua 
+near: maina 
+new: ewake | ewake	ewakewa 
+night: mum 
+not: ae | uon	ya 
+not: uon | uon	ya 
+not: ya | uon	ya 
+one: da | da	daiton	deiton	deson	negena-ǯiagewan	neito	neivi 
+one: da ~ daiton | da	daiton	deiton	deson	negena-ǯiagewan	neito	neivi 
+one: deson | da	daiton	deiton	deson	negena-ǯiagewan	neito	neivi 
+one: neito | da	daiton	deiton	deson	negena-ǯiagewan	neito	neivi 
+other: yamu 
+person: orup | oaenapan	orup	otua 
+person: otua | oaenapan	orup	otua 
+play: kae 
+pull: buna 
+pull: warup 
+rain: ugi | noagira	ugi	ugin	uwin 
+rain: ugin | noagira	ugi	ugin	uwin 
+rat: nonaŋkae 
+red: dendeni 
+ripe: boa 
+road: negi-kamutu | nain 
+road: neigin | nain 
+road: nevin | nain 
+road: pu | nain 
+root: i | i	visiwa 
+rope: damik 
+salt: siuran 
+say: wa | wa	waia 
+sea: puiman 
+seed: make | make	makewa 
+see: yaŋgut | yavia	yawa	yawa- 
+see: yawa- | yavia	yawa	yawa- 
+sharp: wani 
+short: bobou 
+shoulder: one 
+sister: domar 
+sister: goani 
+sister: tas 
+skin: grtav- | epi	epiwa	wapi 
+skin: wapi | epi	epiwa	wapi 
+sky: kiman 
+sleep: in | aup inia	in 
+small: otu | otu	otu koentu 
+smoke: dagin 
+snake: mokare 
+son: otu 
+spit: giton 
+split: wadum 
+stand: yon 
+stone: goat | agim	akim	goat	guat	gwat	kwate 
+stone: guat | agim	akim	goat	guat	gwat	kwate 
+stone: kwate | agim	akim	goat	guat	gwat	kwate 
+straight: tamam 
+suck: mitnage- 
+sun: marek | maik	mare	marek	mareka	oam	wam	wan	waʼam 
+sun: oam | maik	mare	marek	mareka	oam	wam	wan	waʼam 
+sun: wa\am | maik	mare	marek	mareka	oam	wam	wan	waʼam 
+sun: wam | maik	mare	marek	mareka	oam	wam	wan	waʼam 
+sun: wan | maik	mare	marek	mareka	oam	wam	wan	waʼam 
+swim: dup | dere aia	dup 
+tail: veri | veri	veriwa 
+take: up 
+take: wat 
+they: -e 
+they: mu 
+they: -mu 
+they: muga 
+they: mugava 
+they: mu-gava 
+thigh: aguna 
+think: anu 
+this: ma 
+thou: e | ge	gea 
+thou: ega | ge	gea 
+thou: -ga | ge	gea 
+thou: ge | ge	gea 
+thou: gea | ge	gea 
+thou: gega | ge	gea 
+thou: gegegava | ge	gea 
+thou: gigava | ge	gea 
+thou: gi-gava | ge	gea 
+thou: he | ge	gea 
+thou: -ya | ge	gea 
+three: eampo 
+three: iampo 
+three: yampo 
+throw: uase- 
+tie: pan- 
+tie: tau- 
+today: endi 
+tomorrow: iman 
+tongue: merip | merip	meriwa 
+tooth: nodone | dona-naua	dona-nua	no donewa	no-k don-e	noagau-wa	nodone	nogania	nokanea	nokemia 
+tooth: nokanea | dona-naua	dona-nua	no donewa	no-k don-e	noagau-wa	nodone	nogania	nokanea	nokemia 
+tooth: no-k don-e | dona-naua	dona-nua	no donewa	no-k don-e	noagau-wa	nodone	nogania	nokanea	nokemia 
+tooth: nokemia | dona-naua	dona-nua	no donewa	no-k don-e	noagau-wa	nodone	nogania	nokanea	nokemia 
+tree: anop 
+tree: gamop | anop 
+tree: oma | anop 
+two: de | de	dea	deiri	dere 
+two: dea | de	dea	deiri	dere 
+two: de ~ dere | de	dea	deiri	dere 
+vomit: merip 
+walk: ae | ap	wan 
+walk: ap | ap	wan 
+warm: amun uon 
+wash: bigi 
+wash: dup 
+water: kaum | goe	goi	kaum	kom	koum	mea 
+water: kom | goe	goi	kaum	kom	koum	mea 
+water: koum | goe	goi	kaum	kom	koum	mea 
+water: mea | goe	goi	kaum	kom	koum	mea 
+weep: irip 
+we: nu 
+we: -nu 
+we: nuga 
+we: nunugava 
+we: nunu-gava 
+what: dim | dim	dim da 
+when: ani ~ andi 
+where: amba 
+who: da 
+wife: oaen- 
+woman: aen | aen	oaen	waen	waien	wain	waiʼin 
+woman: oaen | aen	oaen	waen	waien	wain	waiʼin 
+woman: wai\in | aen	oaen	waen	waien	wain	waiʼin 
+wood: gaut 
+wood: gerok 
+wood: oma 
+worm: komasi 
+year: en 
+yesterday: wata 
+you: gege-gava | ge	gea 
+you: he | ge	gea 
+every: iragi	iravi 
+ash: atagin	gom	pom 
+bark: etua	oma etua 
+abdomen: bagua 
+bigness: aita	bawar	baware	dokanama 
+large: aita	bawar	baware	dokanama 
+blood: denip	deniwa 
+breast: amewa 
+breasts: amewa 
+claw: indigewa 
+nail: indigewa 
+talon: indigewa 
+cloud: irikup 
+come from: onak	onam-	onia 
+be dead: bo	bo-	buia 
+dead: bo	bo-	buia 
+ground: pia	piup 
+land: pia	piup 
+soil: pia	piup 
+egg: bagua 
+fly: bup wa aia 
+fly v.: bup wa aia 
+green: pumpuni 
+hair: gum	gumewa 
+left hand: maninamo	nanagwania	nani-gane-va	naniguri-wa	nanimare-va	nanimbagua	nanip	naniwa	nnai 
+right: maninamo	nanagwania	nani-gane-va	naniguri-wa	nanimare-va	nanimbagua	nanip	naniwa	nnai 
+heart: bumagewa 
+1 sg.: ne	nei 
+knee: omaniwa 
+be knowledgeable: anuia	tambu- 
+male: apa	apan	apan-tavea	apani	aurufa 
+much: aruga 
+multiple: aruga 
+several: aruga 
+hill: tunup 
+title: yau	yaua 
+neck: megewa 
+nighttime: mum 
+nose: ginewa 
+adulterous: da	daiton	deiton	deson	negena-ǯiagewan	neito	neivi 
+single: da	daiton	deiton	deson	negena-ǯiagewan	neito	neivi 
+that: ame 
+the: da	daiton	deiton	deson	negena-ǯiagewan	neito	neivi 
+unprincipled: da	daiton	deiton	deson	negena-ǯiagewan	neito	neivi 
+human: oaenapan	orup	otua 
+human being: oaenapan	orup	otua 
+rainy weather: noagira	ugi	ugin	uwin 
+path: nain 
+route: nain 
+round: ikukuk 
+sand: gerat 
+sit: wandia 
+hide: epi	epiwa	wapi 
+little: otu	otu koentu 
+smallness: otu	otu koentu 
+star: buanae 
+rock: agim	akim	goat	guat	gwat	kwate 
+2 sg: ge	gea 
+grind: de	dea	deiri	dere 
+go: ap	wan 
+hot: amun uon 
+1 pl. inc.: nu 
+we₁: nu 
+white: pomponu 
+whiteness: pomponu 
+who?: da 
+female: aen	oaen	waen	waien	wain	waiʼin 
+yellow: yananagaet 
+distant: wandap 
+dull: itani 
+serious: itani 
+close: maina 
+ner: maina 
+wind: taik 
+earthworm: komasi 

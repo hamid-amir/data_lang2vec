@@ -1,0 +1,216 @@
+all:  tuno\r | tunor 
+ashes:  tan 
+bark: pat 
+big: nohta | nota 
+bird: mut 
+bite:  ac\uhxop | ak"uhSop 
+black:  negru  u\t | %negru u7t 
+blood:  ch\ich\ | C"iC" 
+blow:  uyuhta 
+bone:  b\ac | bak 
+breast:  uchu\ | uCu7 
+burn:  pur 
+child:  sitz/ihch\oc 
+cloud:  tocar | tokar 
+cold: insis 
+come: yo\p | yop 
+cut: xur 
+day:  ahq\uin 
+die:  cham | Cam 
+dig:  impahni 
+dog:  tz\i\ | c"i7 
+drink:  ch\i | C"i 
+dry:  taquin | takin 
+dust:  pococ 
+ear:  chiquin | Cikin 
+earth:  rum 
+eat:  we\ | we7 
+egg:  cu\m | kum 
+eye:  naq\uiu\t | nak"iut 
+fall:  c\ax 
+far:  naht 
+fat (n.):  ch\ichmar 
+fear:  ap\a\cta 
+feather:  tzutz | cuc 
+fingernail:  or  uyoc 
+fire:  c\ahc | k"ak 
+fish:  chay | Cay 
+five:  inmohy 
+fly (v.):  top 
+fog:  mayuhy 
+foot:  oc | ok 
+four:  chan 
+fruit:  uyutir 
+full:  b\ut\ur | but"ur 
+give:  ahc\ | ahk" 
+good:  imb\utzop | imbucop 
+green:  yaxax | yaSaS 
+hair:  tzutz | cuc 
+hand:  c\ap \ | k"ap 
+head:  hor 
+hear:  oyp\ica | oyp"ika 
+heart:  alma | %alma 
+heavy:  mb\ar 
+here:  tara 
+hit:  tz\ohy 
+horn:  cachu | %kaCu 
+how?:  tuc\a 
+husband:  noxip 
+I:  en 
+kill:  chamse | Camse 
+knee: pix | piS 
+know:  na\t | nat 
+lake:  eha\ 
+laugh:  tze\n 
+leaf:  uyopor 
+left:  utz\ehc\ap 
+lie:  ch\a | C"a 
+liver:  xemem | Semem 
+long:  innaht | innat 
+louse:  u\ch | u7C 
+man:  winic | winikop 
+meat:  we\r | wer 
+moon: uh 
+mountain:  wίtzir | wicir 
+mouth:  ti\ | ti7 
+name:  uc\ab\a | uk"aba 
+near:  nuťur 
+neck:  nuc | nuk 
+new:  tapop 
+night:  acb\are | akbare 
+nose:  ni\ | ni7 
+one: in | in	inté 
+other:  inmohr 
+person:  winicop | winikop 
+pull:  nquerehb\a 
+rain: haha\r | hahar 
+red:  chacchacop | CakCakop 
+right:  wach\ c\ab\ | k"ap 
+river:  xucur 
+road:  b\i\r | bir 
+root:  wi\r | wir 
+rope:  ch\a\n 
+rope:  succhih 
+rotten:  oq\uem 
+round:  gororoh 
+sand: hi\ 
+say: a\r | a7r 
+seed:  hinah 
+see:  wira 
+sing:  c\aywi 
+sit: turu 
+skin: pat 
+sleep: way 
+smell:  chuchu\ co\c 
+smoke:  b\utz | buc 
+stab:  inxeq\ue 
+stand:  wa\r | war 
+star:  e\c | e7k 
+stone: cha\ | tun 
+stone:  tun 
+suck:  catz\upi 
+sun:  q\uin | k"in 
+swell:  asampa 
+swim: nuhx | nuS 
+tail:  neh 
+that:  yaja\ | yaxa7 
+there:  yaha\ 
+thick: pim 
+thin:  jay 
+this:  ira 
+thou:  et | et	noS 
+tongue:  a\c | a7k 
+tooth: cha\m | eh 
+tooth: eh 
+tree:  te\ | te7 
+two:  cha\ | Ca7	čaté 
+walk:  axanop | aSanop 
+warm:  inq\uin 
+wash:  poc 
+wash:  pohch\ 
+water:  ha\ | ha7 
+we:  oŋ | oN 
+wet: cuxur 
+what:  tuc\a | tuk"a 
+when?:  tuc\a dia 
+where?:  tia\ 
+white:  sacsac | saksak 
+who:  chi | Ci 
+wife:  wixca\r 
+woman:  ihch\oc | iSik 
+woman: \ixic | iSik 
+year: hap 
+yellow:  c\an | k"an 
+ye:  no\x 
+every: tunor 
+ash: tan 
+ashes: tan 
+abdomen: nak 
+belly: nak 
+bigness: nota 
+large: nota 
+breasts: uCu7 
+claw: or uyok 
+nail: or uyok 
+talon: or uyok 
+come from: yop 
+be dead: Cam 
+dead: Cam 
+earth: rum 
+ground: rum 
+land: rum 
+soil: rum 
+fat: C"iCmar 
+fat n.: C"iCmar 
+grease: C"iCmar 
+lubricant: C"iCmar 
+oil: C"iCmar 
+fly: top 
+fly v.: top 
+left hand: k"ap 
+head: hor 
+1 sg.: en 
+I: en 
+be knowledgeable: nat 
+leaf: uyopor 
+lie down: C"a 
+head louse: u7C 
+male: winik 
+many: imp"on 
+much: imp"on 
+multiple: imp"on 
+several: imp"on 
+flesh: wer 
+hill: wicir 
+title: uk"aba 
+new: tapop 
+nighttime: akbare 
+not: ma7Ci 
+adulterous: in	inté 
+single: in	inté 
+the: in	inté 
+unprincipled: in	inté 
+human: winikop 
+human being: winikop 
+rainy weather: hahar 
+path: bir 
+route: bir 
+round: gororoh 
+see: wira 
+seed: hinah 
+hide: pat 
+little: CuCu7 ko7e 
+small: CuCu7 ko7e 
+smallness: CuCu7 ko7e 
+rock: tun 
+tail: neh 
+this: ira 
+2 sg: et	noS 
+you: et	noS 
+grind: Ca7	čaté 
+go: aSanop 
+1 pl. inc.: oN 
+we₁: oN 
+whiteness: saksak 
+who?: Ci 
+female: iSik 

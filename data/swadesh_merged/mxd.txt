@@ -1,0 +1,263 @@
+all: tabuang 
+every: tabuang 
+ash: əwa 
+ashes: əwa 
+abdomen: soh 
+belly: soh 
+big: pwun 
+bigness: pwun 
+large: pwun 
+bird: mnuk 
+bite: əntəp 
+black: məldung 
+blood: l37a	ləʼa 
+bone: tL~uaN	tluang	tuaN	tuang 
+breast: wi7	wiʼ 
+breasts: wi7	wiʼ 
+burn: əntung 
+burn tr.: əntung 
+cloud: boʼ həwun 
+cold: blaʼ 
+come: hay 
+come from: hay 
+be dead: l3was	ləwas 
+dead: l3was	ləwas 
+die: l3was	ləwas 
+dog: tL~uN	tlung 
+drink: m3k	mək 
+dry: kəhwang 
+ear: k3l53	kəlnyə|n 
+eat: huʼ	mun 
+egg: tloh 
+eye: mta	mta|n 
+feather: blu|n 
+fire: 3poE	əpoɛ 
+fish: tuk 
+fly: mléang 
+fly v.: mléang 
+good: kas 
+green: mənghom 
+hair: wok 
+hand: gw~E	gwɛ 
+left hand: gw~E	gwɛ 
+right: gw~E	gwɛ 
+head: duʼ 
+hear: N3jiN	ngəhjing 
+1 sg.: ku	kuy 
+I: ku	kuy 
+kill: mətaɛ 
+be knowledgeable: ptɛng 
+know: ptɛng 
+leaf: h3tin	hətin	suN	sung 
+lie: ngəlaʼ 
+lie down: ngəlaʼ 
+liver: h3taE	hətaɛ 
+long: kəjah 
+head louse: t3	tə 
+louse: t3	tə 
+male: ləkaɛ 
+man: s3wun	səwʊn 
+moon: wəllun 
+mouth: guang waʼ 
+name: N3lan	ngəlan 
+title: N3lan	ngəlan 
+neck: kəlnan 
+new: m3liN	məhling 
+night: maEd3m	maɛdəm 
+nighttime: maEd3m	maɛdəm 
+nose: guaN luN	guang lung 
+adulterous: siah 
+one: siah 
+single: siah 
+that: tu|y 
+the: siah 
+unprincipled: siah 
+human: s3wun	səwʊn 
+human being: s3wun	səwʊn 
+person: s3wun	səwʊn 
+rain: siən 
+rainy weather: siən 
+red: məlhɛang 
+path: lah 
+road: lah 
+route: lah 
+root: akai kayu	wəkɛat 
+sand: bəlngin 
+say: ənsiə 
+see: 3nli7	ənliʼ 
+sit: ngo 
+hide: laes	laés 
+skin: laes	laés 
+sleep: ənduʼ 
+little: soʼ 
+small: soʼ 
+smallness: soʼ 
+smoke: so|n 
+star: tunt~37	tuntəʼ 
+rock: w3ta	wətà 
+stone: w3ta	wətà 
+swim: ənjoʼ 
+tail: kih 
+this: nɛ 
+2 sg: ky~7	kyʼ 
+thou: ky~7	kyʼ 
+you: ky~7	kyʼ 
+tongue: tL~a7	tlaʼ 
+tooth: kw~3	kwə 
+grind: l3g37	ləgəʼ 
+two: l3g37	ləgəʼ 
+go: əmnɛa 
+walk: əmnɛa 
+hot: əmnas 
+warm: əmnas 
+water: haNuy	hanguy 
+1 pl. inc.: may	tam 
+we: may	tam 
+we₁: may	tam 
+what: nən 
+white: məklung 
+whiteness: məklung 
+who: hɛʼ 
+who?: hɛʼ 
+female: lədoh 
+woman: lədoh 
+yellow: məngsɛa 
+distant: dluʼ 
+far: dluʼ 
+dull: bəhat 
+heavy: bəhat 
+serious: bəhat 
+close: jəʼan 
+near: jəʼan 
+ner: jəʼan 
+salt: həjəʼ 
+short: əmdyaʼ 
+snake: pəʼ 
+thin: pis 
+wind: wəhɛə 
+earthworm: kəslang 
+worm: kəslang 
+year: təʼon 
+2 pl.: tium tabuang 
+ye: tium tabuang 
+you all: tium tabuang 
+3 pl.: sah 
+they: sah 
+where: təmaw	təmà 
+where?: təmaw	təmà 
+when: nəma 
+when?: nəma 
+how: yitmaw 
+how?: yitmaw 
+other: əlap 
+three: ətla 
+four: paét 
+broad: bléang 
+wide: bléang 
+wideness: bléang 
+fat: ləniʼ 
+thick: təmang 
+narrow: məʼmuk 
+principal wife: səgwən 
+wife: səgwən 
+husband: səgwən 
+his mother: nyə|n 
+mother: nyə|n 
+my mother: nyə|n 
+father: mà|n 
+his father: mà|n 
+my father: mà|n 
+forest: las 
+woods: las 
+fruit: guak 
+flower: sliəp 
+grass: laa 
+cord: tləɛ	təlon 
+rope: tləɛ	təlon 
+flesh: sɛ|n 
+meat: sɛ|n 
+grease: ləniʼ 
+wing: kəpit 
+gut: wət kuən 
+guts: wət kuən 
+insides: wət kuən 
+intestine: wət kuən 
+intestines: wət kuən 
+back: kəjun məl 
+suck: ənjik 
+spit: nəploaʼ 
+vomit: əntuaʼ 
+blow: nəp 
+breath: ngəs ngiang 
+breathe: ngəs ngiang 
+laugh: kəloʼ 
+laughter: kəloʼ 
+cogitate: nəmuak 
+reflect: nəmuak 
+think: nəmuak 
+smell: mbu 
+sniff: mbu 
+afraid: pkut 
+be afraid: pkut 
+fear: pkut 
+fright: pkut 
+alive: blom 
+be alive: blom 
+life: blom 
+live: blom 
+living: blom 
+hunt: lɛng tlung 
+beat: əntong 
+hit: əntong 
+strike: əntong 
+cut: əndung 
+hack: əndung 
+cut open: əntaʼ 
+split: əntaʼ 
+pierce: əntoh 
+stab: əntoh 
+scratch: ngəjəb 
+dig: ənkiɛt 
+stand: nəkjang 
+drop: təʼɛak 
+fall: təʼɛak 
+grasp: əngkam 
+hold: əngkam 
+hold in arm: əngkam 
+squeeze: ngəpis 
+wring: ngəpis 
+throw: ənsiəl 
+bind: ngəpas 
+fasten: ngəpas 
+tie: ngəpas 
+tie up: ngəpas 
+sew: nəhut 
+count: ənsə 
+enumerate: ənsə 
+number: ənsə 
+tally: ənsə 
+flow: əmnul 
+lake: pkung 
+ocean: lwaut 
+sea: lwaut 
+dust: nyɛ 
+fog: məng bop 
+sky: ləngɛt 
+bad: ak 
+evil: ak 
+rot: mbu tup	mləm 
+rotten: mbu tup	mləm 
+dirty: məlmah 
+filthy: məlmah 
+soiled: məlmah 
+sharp: nəʼat 
+blunt: kəʼok 
+damp: wəsàʼ 
+wet: wəsàʼ 
+right side: məʼa 
+left: luy 
+at: la 
+in: lamaɛ 
+inside: lamaɛ 
+and: wan 
+if: bang 

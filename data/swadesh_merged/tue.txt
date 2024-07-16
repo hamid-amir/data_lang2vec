@@ -1,0 +1,307 @@
+all: dĩʼĩ-peti-re 
+every: dĩʼĩ-peti-re 
+ash: dũʼã 
+ashes: dũʼã 
+bark: kase-ʼro 
+big: pai- 
+bigness: pai- 
+large: pai- 
+bird: bĩdĩ-bãʼkɨ̃ 
+bite: baʼka 
+black: yĩʼĩ 
+blood: di	ʼdii 
+bone: ko*7a*	ko*a*	kõʼã 
+breast: o*7pe*a*	o*pe*a*	õʼpẽã 
+breasts: o*7pe*a*	o*pe*a*	õʼpẽã 
+claw: wãbõ-ʼse-ro 
+nail: wãbõ-ʼse-ro 
+talon: wãbõ-ʼse-ro 
+cloud: ũbẽ-bɨrɨʼa 
+cold: yɨsɨʼa 
+come: ati	aʼti 
+come from: ati	aʼti 
+be dead: di7a	diaho*a*	diʼa 
+dead: di7a	diaho*a*	diʼa 
+die: di7a	diaho*a*	diʼa 
+dog: diayi	ʼdiayi 
+drink: si*7di*	si*di*	sĩʼdĩ 
+dry: boʼpo 
+ear: ka*bo*7pero	ka*bo*pero	kãbõʼpe-ro 
+earth: yeʼpa 
+ground: yeʼpa 
+land: yeʼpa 
+soil: yeʼpa 
+eat: yaʼa 
+egg: diʼye 
+eye: ka7pea	kapea	kaʼpea 
+feather: ʼpoa 
+fire: pe7kabe*	pekabe*	peʼka-bẽ 
+fish: wai	waʼi	waʼi-wɨ̃ 
+fly: wɨʼɨ 
+fly v.: wɨʼɨ 
+foot: dɨʼpo 
+full: dada	daʼda	yapi 
+give: tiʼko 
+good: ãʼyũ 
+green: sɨ̃ʼbẽ 
+hair: ʼpoa 
+hand: pa*ba*	wa*bo*pa*ba*	wãʼbõ-pãbã 
+left hand: pa*ba*	wa*bo*pa*ba*	wãʼbõ-pãbã 
+right: pa*ba*	wa*bo*pa*ba*	wãʼbõ-pãbã 
+head: duʼpu 
+hear: t37o	t3o	tɨʼo 
+heart: yeʼe-ri-pũdã 
+horn: kapesaro	kapeʼsa-ro 
+1 sg.: y373	yɨʼɨ 
+I: y373	yɨʼɨ 
+kill: sĩʼã 
+knee: yi*ka*kobea	yĩʼkã-kobea 
+be knowledgeable: bãʼsĩ 
+know: bãʼsĩ 
+leaf: 7pu*	pu*	ʼpũũ 
+lie: kõʼã 
+lie down: kõʼã 
+liver: je*be*di7ti	ye*be*tuti	yẽbẽ-diʼti 
+long: yoʼa 
+head louse: kia	kiaw3*	ʼkia	ʼkia-wɨ̃ 
+louse: kia	kiaw3*	ʼkia	ʼkia-wɨ̃ 
+male: ɨ̃ʼbɨ̃ 
+man: baso7k3	basoka	basoʼkɨ 
+many: pai-ʼro	paʼɨ	peʼe 
+much: pai-ʼro	paʼɨ	peʼe 
+multiple: pai-ʼro	paʼɨ	peʼe 
+several: pai-ʼro	paʼɨ	peʼe 
+flesh: dii-ʼro 
+meat: dii-ʼro 
+moon: bũʼĩpũ 
+hill: 3*ta*g3*	buro	ɨ̃tã-ʼgɨ̃ 
+mountain: 3*ta*g3*	buro	ɨ̃tã-ʼgɨ̃ 
+mouth: ɨʼse-ro 
+name: wa*7be*	wa*be*	wãʼbẽ 
+title: wa*7be*	wa*be*	wãʼbẽ 
+neck: wãbɨ̃dɨ̃ʼkõ 
+new: ba*7ba*	ba*ba*	bãʼbã 
+night: ja*7bi*	ya*bi*	yãʼbĩ 
+nighttime: ja*7bi*	ya*bi*	yãʼbĩ 
+nose: e*7ke*a*	e*ke*a*	ẽʼkẽã 
+adulterous: si7ka	sika	si’ká- 
+one: si7ka	sika	si’ká- 
+single: si7ka	sika	si’ká- 
+that: si7ka	sika	si’ká- 
+the: si7ka	sika	si’ká- 
+unprincipled: si7ka	sika	si’ká- 
+human: baso7k3	basoka	basoʼkɨ 
+human being: baso7k3	basoka	basoʼkɨ 
+person: baso7k3	basoka	basoʼkɨ 
+rain: oʼko 
+rainy weather: oʼko 
+red: sõʼã 
+path: ba*	ba*7a* 
+road: ba*	ba*7a* 
+route: ba*	ba*7a* 
+root: dɨ̃ʼkõ 
+sand: diʼta-tupari 
+say: hĩʼĩ 
+see: i*7ya*	i*ya*	ĩʼyã 
+seed: -pe 
+sit: duʼi 
+hide: kase-ʼro	kasero 
+skin: kase-ʼro	kasero 
+sleep: kãʼdĩ 
+little: ʼpee-gã 
+small: ʼpee-gã 
+smallness: ʼpee-gã 
+smoke: peʼka-bẽ-õbẽ 
+star: yo*ko*7a*	yo*ko*a*w3*	yõkõã-ʼwɨ̃	yõkõʼã 
+rock: 3*7ta*	3*ta*	ɨ̃ʼtã 
+stone: 3*7ta*	3*ta*	ɨ̃ʼtã 
+sun: b3reko ba*k3* bu*i*p3	bũʼĩpũ 
+swim: ʼbaa 
+tail: pĩʼkõõ 
+2 sg: b3*	b3*73*	b3*a*	bɨ̃ʼɨ̃ 
+thou: b3*	b3*73*	b3*a*	bɨ̃ʼɨ̃ 
+you: b3*	b3*73*	b3*a*	bɨ̃ʼɨ̃ 
+tongue: ye*7be*ro*	ye*be*ro*	yẽʼbẽ-rõ 
+tooth: u7pi	upiga	uʼpi 
+tree: yuk3g3 
+grind: p3a	pɨa- 
+two: p3a	pɨa- 
+go: ʼwaa-dẽtõ 
+walk: ʼwaa-dẽtõ 
+hot: asi-buʼsu 
+warm: asi-buʼsu 
+water: o7ko	oko	oʼko 
+1 pl. inc.: 3*sa*	ba*7ri*	ba*ri*	bãʼrĩ 
+we: 3*sa*	ba*7ri*	ba*ri*	bãʼrĩ 
+we₁: 3*sa*	ba*7ri*	ba*ri*	bãʼrĩ 
+what: yẽʼẽ 
+white: buʼti 
+whiteness: buʼti 
+who: dõʼã 
+who?: dõʼã 
+female: dũbĩʼõ 
+woman: dũbĩʼõ 
+yellow: sõʼã 
+distant: yoʼa-ro 
+far: yoʼa-ro 
+dull: dɨ̃ʼkɨ̃ 
+heavy: dɨ̃ʼkɨ̃ 
+serious: dɨ̃ʼkɨ̃ 
+close: pɨʼto-gã 
+near: pɨʼto-gã 
+ner: pɨʼto-gã 
+salt: ʼbõã 
+short: ɨ̃bɨ̃-ʼẽ 
+snake: ãʼyã 
+thin: esebẽʼdĩ 
+wind: wĩʼdõ 
+earthworm: ãũãʼwɨ̃	ãũʼã 
+worm: ãũãʼwɨ̃	ãũʼã 
+year: kɨ̃ʼbã 
+2 pl.: ʼbɨ̃ã 
+ye: ʼbɨ̃ã 
+you all: ʼbɨ̃ã 
+3 pl.: ʼkɨ̃ã 
+they: ʼkɨ̃ã 
+where: dõʼõ 
+where?: dõʼõ 
+when: deʼe-bi-ri 
+when?: deʼe-bi-ri 
+how: deʼe-ro 
+how?: deʼe-ro 
+some: sĩʼkãyẽ	sĩʼkẽ 
+few: ʼpeero 
+three: itiʼa-	iti’á- 
+four: baʼpari	ba’pári 
+five: siʼka-bõ-hẽ-yẽ-	siʼka-bõ-kẽ-yẽ-	si’ká-bõhẽjẽ- 
+broad: eʼsa 
+wide: eʼsa 
+wideness: eʼsa 
+fat: ɨʼse 
+thick: esebeʼti 
+narrow: eʼsa-e 
+child: wĩʼbã-gõ	wĩʼbã-gɨ̃ 
+principal wife: dɨ̃ʼbõ 
+wife: dɨ̃ʼbõ 
+husband: bãʼdɨ̃ 
+his mother: paʼko 
+mother: paʼko 
+my mother: paʼko 
+father: paʼkɨ 
+his father: paʼkɨ 
+my father: paʼkɨ 
+animal: ʼwaikɨ 
+forest: bãʼkãdɨ̃kɨ̃ 
+woods: bãʼkãdɨ̃kɨ̃ 
+branch: dɨʼpɨ 
+stick: dɨʼpɨ 
+fruit: dɨʼka 
+flower: koʼo-ro 
+grass: ʼtaa 
+cord: pũũ-gɨ̃-dɨʼpo 
+rope: pũũ-gɨ̃-dɨʼpo 
+grease: ɨʼse 
+fingernail: wãbõ-ʼse-ro 
+leg: yĩʼkã 
+wing: ʼkee-dɨpɨ	ʼwɨɨ-ro 
+gut: kɨta-bĩʼsĩ 
+guts: kɨta-bĩʼsĩ 
+insides: kɨta-bĩʼsĩ 
+intestine: kɨta-bĩʼsĩ 
+intestines: kɨta-bĩʼsĩ 
+back: sukuʼbi-ro 
+suck: ũʼpũ 
+spit: eo-	ɨseʼko 
+vomit: ɨʼsoti 
+blow: wĩʼĩpũ 
+breath: yeʼe-ri-sã 
+breathe: yeʼe-ri-sã 
+laugh: buʼi 
+laughter: buʼi 
+cogitate: wãʼkũ 
+reflect: wãʼkũ 
+think: wãʼkũ 
+smell: wĩʼdĩ 
+sniff: wĩʼdĩ 
+afraid: kuʼi 
+be afraid: kuʼi 
+fear: kuʼi 
+fright: kuʼi 
+alive: dĩʼĩ 
+be alive: dĩʼĩ 
+life: dĩʼĩ 
+live: dĩʼĩ 
+living: dĩʼĩ 
+fight: kãbẽ-ʼrĩ-kẽ 
+hunt: ʼwaikɨ-ra sĩã 
+beat: ʼpaa 
+hit: ʼpaa 
+strike: ʼpaa 
+cut: ʼpaa-ta 
+hack: ʼpaa-ta 
+cut open: beʼe 
+split: beʼe 
+pierce: saʼde 
+stab: saʼde 
+dig: koʼa 
+tell lies: hĩʼĩ-dito 
+stand: dũʼkũ 
+turn: soʼdea 
+turn around: soʼdea 
+turn round: soʼdea 
+drop: yãʼã 
+fall: yãʼã 
+squeeze: wãyĩʼã 
+wring: wãyĩʼã 
+rub: tuu-sãʼkẽ 
+wipe: tuu-sãʼkẽ 
+wash: koʼse 
+wash clothes: koʼse 
+push: tuu-ʼdẽ-ko 
+shove: tuu-ʼdẽ-ko 
+throw: ʼdee 
+bind: siʼa 
+fasten: siʼa 
+tie: siʼa 
+tie up: siʼa 
+sew: heʼe 
+count: keʼo 
+enumerate: keʼo 
+number: keʼo 
+tally: keʼo 
+sing: baʼsa 
+have fun: aʼpe 
+play: aʼpe 
+float: paʼsa 
+flow: õʼbãyu 
+brook: ʼdia 
+river: ʼdia 
+stream: ʼdia 
+lake: oʼpa-taro 
+ocean: ʼdia pai-ʼri-bã 
+sea: ʼdia pai-ʼri-bã 
+dust: diʼta-bãdã 
+sky: ɨ̃bɨ̃-ʼãse 
+blaze: hɨ̃ʼɨ̃ 
+burn: hɨ̃ʼɨ̃ 
+day: ʼbɨreko	ʼbɨriko	ʼbɨrɨko 
+daylight: ʼbɨreko	ʼbɨriko	ʼbɨrɨko 
+daytime: ʼbɨreko	ʼbɨriko	ʼbɨrɨko 
+bad: yãʼyã 
+evil: yãʼyã 
+rot: ʼboa 
+rotten: ʼboa 
+dirty: hũĩrĩ-ʼpi 
+filthy: hũĩrĩ-ʼpi 
+soiled: hũĩrĩ-ʼpi 
+straight: diabãʼkɨ̃ 
+sharp: asiʼyoa 
+blunt: uʼdu 
+smooth: siʼpi 
+damp: oko-kɨʼti 
+wet: oko-kɨʼti 
+correct: diabãʼkɨ̃ 
+right side: diabãʼkɨ̃ 
+left: aʼkudĩyã 
+in: poʼpea 
+inside: poʼpea 

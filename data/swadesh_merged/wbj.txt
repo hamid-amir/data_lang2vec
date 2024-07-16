@@ -1,0 +1,233 @@
+all: tlome 
+animal: maka 
+arm: daba 
+arrow: fayu 
+ashes: ʕura 
+bark: qafaʔi 
+belly: gura\a | guraʔa 
+belly: guraʔa 
+big: dadir 
+bird: tsiraʕi 
+bite: kiħ˗ | kiħ- 
+bite: tluw˗ | kiħ- 
+bitter: qarut 
+black: boʕ 
+blood: tseːre | tsere	tseːre 
+blow: faħ 
+bone: fara 
+branch: elemi 
+breast: isaʔamu | isa7amu	isaʔamu 
+breathe: himpis 
+brother: niŋor ha\ay 
+burn: daʕ˗ 
+burn: ohis˗ 
+cheek: ʕuntla 
+chest: da\ʕabi 
+child: hati 
+child: holimo 
+chin: gamfara 
+claw: čarafu | čarafu 
+cloud: tlafi 
+cold: tsaqwa 
+come: xaw˗ | xaw	xaw- 
+count: far˗ 
+cut: tlaːq 
+day: balalu 
+day: lele\a 
+die: gwa˗ | gwa	gwa- 
+dig: fol˗ 
+dog: gweħera | gweXera	gweħera 
+drink: kitaħ˗ | kitaX	kitaħ- 
+dry: xalaʔ 
+dust: tsatsa\i 
+ear: e\a | e7a	eʼa 
+earth: tipa 
+earth: tluːfa 
+eat: gagiːm˗ | gagiːm- 
+egg: qana\i | qanaʼi 
+eye: ila 
+fall: huː˗ 
+far: sige 
+father: taâta 
+fat (n.): du\ʕi 
+feather: haya 
+fight: dif˗ 
+finger: diːntsa 
+fingernail: tsarafu 
+fire: aɬa | aLa	aɬa 
+fish: daraħasu | daraXasu	daraħasu 
+five: koʔan 
+fly (v.): ts̰ʔot˗ 
+fog: tlonga 
+foot: gobina | jaʔe 
+foot: jaʔe 
+forehead: paːnda 
+four: teigaɦ 
+full: hatsiːs˗ | hatsis 
+girl: segemeːri 
+give: hariːs˗ | hariːs- 
+good: boʕot 
+grass: tsokono 
+hair: qubu 
+hand: daba 
+hand: kunday | daba 
+head: saga 
+hear: axas˗ | axas	axas- 
+heart: muna 
+he/she: in 
+he/she: ós 
+hole: hohonda 
+horn: xarimo 
+house: do\o 
+hunt: ɬakat˗ 
+husband: ɦawate 
+I: ana | ana	i 
+I: i | ana	i 
+jaw: tlanqarimo 
+kill: gaːs˗ | gaːs- 
+knee: gurunguda 
+know: xuw˗ | xuw- 
+lake: tlawi 
+laugh: qeːs(as)iːm˗ 
+leaf: loʕi | loXi	loʕi 
+left: basa 
+leg: yaːʔe 
+lie: qat˗ | qat- 
+lightning: mankaʔari 
+liver: da\aye | da7aye	daʼaye 
+long: tler 
+louse: itino 
+man: ħawata | heru	heːru 
+many: na 
+meat: fuʔumi 
+moon: ɬehey 
+mother: iyo 
+mountain: danda 
+mountain: daːnda | danda 
+mouth: aːfa 
+name: ûma | uma	ûma 
+navel: murungu 
+near: tsayu 
+neck: isa 
+new: ʕab | Xab	ʕab 
+night: amasi 
+one: wak 
+person: heːru | heru	heːru 
+rain: tlubey 
+river: wa\ʕamu 
+road: amo 
+root: deʕaramo 
+rope: weːli 
+rotten: gubit 
+rub: xiɬ˗ 
+salt: dabi 
+sand: sehenay 
+say: gimbus˗ | gimbus- 
+see: ar˗ | ar	ar- 
+seed: dahasi 
+sew: hirim˗ 
+shoulder: kwaɦu 
+sing: raʔ˗ 
+sit: ibiːt˗ | ibiːt- 
+skin: ɬaqwa | Laqwa	ɬaqwa 
+sleep: guʔut | guʔut	qaːt- 
+sleep: qaːt˗ | guʔut	qaːt- 
+small: nina 
+smoke: quʔu 
+snake: deːsu 
+spit: tsabaq 
+stand: qarit˗ 
+star: titsa\i | titsa7i	titsaʼi 
+stone: tlaː\ʕa | tla7Xa	tlaːʼʕa 
+suck: tsuntsunq˗ 
+sun: lalaʔa | lala7a	lalaʔa	lele7a	leleʼa 
+sun: lele\a | lala7a	lalaʔa	lele7a	leleʼa 
+sweet: dinu 
+swell: ɬumf˗ 
+tail: ɦayso 
+that: qo 
+they: iŋa 
+they: oín 
+this: ˗ti 
+this: ˗wi 
+thou: ki | ki	ku 
+thou: ku | ki	ku 
+three: tam 
+throw: kwaɦ˗ 
+today: tleːmit 
+tomorrow: matlego 
+tongue: tsufara 
+tooth: siɦino | sihino	siɦino 
+tree: xa\imo | xa7imo 
+two: tsar 
+vomit: waʕ˗ 
+walk: ha\ut˗ | xotsim 
+walk: lakit | xotsim 
+walk: ta\ʕat˗ | xotsim 
+walk: xotsim 
+wash: ħunts 
+water: ma\ay | ma7ay	maʼay 
+we: daːnda | danda	or 
+weep: ɦiɦira 
+we: óːr | danda	or 
+what: mi 
+white: abaːkw 
+who: miya 
+wife: ƒare 
+wind: tsaːqwa 
+woman: ɦare 
+year: kwari 
+yesterday: isaʕi 
+you: ˗ | ki	ku 
+you: kungura | ki	ku 
+every: tlome 
+ash: ʕura 
+abdomen: guraʔa 
+bigness: dadir 
+large: dadir 
+breasts: isa7amu	isaʔamu 
+nail: čarafu 
+talon: čarafu 
+come from: xaw	xaw- 
+be dead: gwa	gwa- 
+dead: gwa	gwa- 
+fly: ts̰ʔot- 
+fly v.: ts̰ʔot- 
+left hand: daba 
+right: daba 
+1 sg.: ana	i 
+be knowledgeable: xuw- 
+lie down: qat- 
+head louse: itino 
+male: ħawata 
+much: na 
+multiple: na 
+several: na 
+hill: danda 
+title: uma	ûma 
+nighttime: amasi 
+nose: urungi 
+adulterous: wak 
+single: wak 
+the: wak 
+unprincipled: wak 
+human: heru	heːru 
+human being: heru	heːru 
+rainy weather: tlubey 
+path: amo 
+route: amo 
+hide: Laqwa	ɬaqwa 
+little: nina 
+smallness: nina 
+rock: tla7Xa	tlaːʼʕa 
+2 sg: ki	ku 
+grind: tsar 
+go: xotsim 
+1 pl. inc.: danda	or 
+we₁: danda	or 
+whiteness: abaːkw 
+who?: miya 
+female: ɦare 
+distant: sige 
+close: tsayu 
+ner: tsayu 

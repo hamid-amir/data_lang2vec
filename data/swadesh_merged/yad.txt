@@ -1,0 +1,316 @@
+all: tĩtãhũ 
+every: tĩtãhũ 
+ash: pupu-huru 
+ashes: pupu-huru 
+bark: -hay	hiway 
+big: -ki	hãmu- 
+bigness: -ki	hãmu- 
+large: -ki	hãmu- 
+bird: hĩway	wiče 
+bite: sũmutuy	sũy 
+black: wadaku-	wanuku- 
+blood: nda	nda-hã	ndaha*	nuda	nund~a 
+bone: -du	cand~u	ndu 
+breast: cand~utuy	hi*tya*	hĩtyã	ndutuy 
+breasts: cand~utuy	hi*tya*	hĩtyã	ndutuy 
+claw: hasumuday 
+nail: hasumuday 
+talon: hasumuday 
+cloud: nuwači 
+cold: kanuwũ-	sudo- 
+come: cu*ni*	hni	xniy 
+come from: cu*ni*	hni	xniy 
+be dead: cand~3iy	di	di5u	ditya	diɲu	ndi 
+dead: cand~3iy	di	di5u	ditya	diɲu	ndi 
+die: cand~3iy	di	di5u	ditya	diɲu	ndi 
+dog: ni*mby$i	nibi	nimbi 
+drink: ca*hatu	hatu	xatu 
+dry: pũy	ridye	sisã 
+ear: -hay	-hĩ	catuwa*y	hay	hi*	tuwa*y	tuwãy	xay 
+earth: -ko	muki	muko 
+ground: -ko	muki	muko 
+land: -ko	muki	muko 
+soil: -ko	muki	muko 
+eat: himyi	hmi 
+egg: -hũ	hiwada 
+eye: can3*ci	hnũtyã	hu*nu*tya*	ni*sityadi	nĩsityadi	xnu*tya 
+feather: -mũ hasi 
+fire: h3nd~ay	hiday	kiwarya	xinday 
+fish: kiwa*	kiwã 
+fly: hĩ	ratye 
+fly v.: hĩ	ratye 
+foot: numutu 
+full: miryanu	panu*ho	panuho 
+give: sãy 
+good: sami-	samĩ	wase- 
+green: hatya-	wasunũ- 
+hair: -hasi	ra- diway 
+hand: cahomu*tu	sa-homutu	sahomutu	xomutu 
+left hand: cahomu*tu	sa-homutu	sahomutu	xomutu 
+right: cahomu*tu	sa-homutu	sahomutu	xomutu 
+head: hnõ 
+hear: catuwa*cy~u	tuwa*Cu	tuwãču 
+heart: -hači	hnũtyã 
+horn: -wũ	catu*yuwu*	tũyuro	tũyuwũ 
+1 sg.: day	ray 
+I: day	ray 
+kill: hway	hũway	munu 
+knee: ca*nd~aci	hadasi 
+be knowledgeable: datya 
+know: datya 
+leaf: -wĩ	na*w3*	nawi*	nawĩ	wi* 
+lie: tiryõ 
+lie down: tiryõ 
+liver: cu*watu	hu*watu	hwatu	hũwatu	suka*tyu 
+long: -ki	hãmukã- 
+head louse: ndundni*	rudn~3*	runi 
+louse: ndundni*	rudn~3*	runi 
+male: wanu 
+man: ni*hy~amw~3*	nihja*mi*	nihyãmĩ	nixya*mi 
+many: -hu	haryi	rahu 
+much: -hu	haryi	rahu 
+multiple: -hu	haryi	rahu 
+several: -hu	haryi	rahu 
+flesh: sawi 
+meat: sawi 
+moon: hanimyurĩ	harimyunĩ 
+hill: musi	musiki 
+mountain: musi	musiki 
+mouth: hũ	hũto 
+name: ci*ty~a	hi*tya	hĩtya	xi*tya 
+title: ci*ty~a	hi*tya	hĩtya	xi*tya 
+neck: hũtunuwũ 
+new: ju*j	wadi	wadi-	wand~3ra 
+night: nupora	nuu*pora 
+nighttime: nupora	nuu*pora 
+nose: canr~uci	nru*	nuru*	nurũ 
+adulterous: tarak3	taraki	tikilo 
+one: tarak3	taraki	tikilo 
+single: tarak3	taraki	tikilo 
+that: tarak3	taraki	tikilo 
+the: tarak3	taraki	tikilo 
+unprincipled: tarak3	taraki	tikilo 
+human: ni*hy~amw~3*	nihja*mi*	nihyãmĩ	nixya*mi 
+human being: ni*hy~amw~3*	nihja*mi*	nihyãmĩ	nixya*mi 
+person: ni*hy~amw~3*	nihja*mi*	nihyãmĩ	nixya*mi 
+rain: rũmura 
+rainy weather: rũmura 
+red: runay-	warada- 
+path: ma*ntya	mantya	nu* 
+road: ma*ntya	mantya	nu* 
+route: ma*ntya	mantya	nu* 
+root: hũnuti	nuti	nutihyũ 
+round: watatõ	waturi- 
+sand: -tĩ	tĩčã 
+say: htay 
+see: cu*nu*y	di	hu*nu*y	hũnũy	xnu*y 
+seed: -si	-tadi 
+sit: kuru	mãsa 
+hide: -hay	cahay	hasi*hay	hasĩ-hay	hay	xay 
+skin: -hay	cahay	hasi*hay	hasĩ-hay	hay	xay 
+sleep: mãy 
+little: -de	pasi-	wamiri- 
+small: -de	pasi-	wamiri- 
+smallness: -de	pasi-	wamiri- 
+smoke: nuwači 
+star: darCi	dariCi	dariči	darči	hu*dariCi	hũdariči	ndariCiy	nu*nd~aicy~ 
+rock: -nu	awiCu*	nu	rawiCu*	rawicy~u*	rawičũ 
+stone: -nu	awiCu*	nu	rawiCu*	rawicy~u*	rawičũ 
+sun: hiny~i*	hiɲĩ	hɲi 
+swim: nũni 
+tail: mũsiy 
+2 sg: hi	hiy	xi 
+thou: hi	hiy	xi 
+you: hi	hiy	xi 
+tongue: cand~acy~i	daCi	dači	nikexanda 
+tooth: -ho	caha*nd~a	ha*da	ho	hãda	xa*nda 
+tree: n3*nu* 
+grind: -hũy	andaxu*y	darahu*y	darahũy	hu*y	na*rahu*y	nanohui 
+two: -hũy	andaxu*y	darahu*y	darahũy	hu*y	na*rahu*y	nanohui 
+go: rupi	wũtayã 
+walk: rupi	wũtayã 
+hot: wanõ- 
+warm: wanõ- 
+water: ha*	hã	xa 
+1 pl. inc.: na*y	nu*y	wu*y	wu5i	wũy 
+we: na*y	nu*y	wu*y	wu5i	wũy 
+we₁: na*y	nu*y	wu*y	wu5i	wũy 
+what: nũtyara	tã 
+white: haparu-	pupa-	waparu- 
+whiteness: haparu-	pupa-	waparu- 
+who: čĩ 
+who?: čĩ 
+female: watura 
+woman: watura 
+yellow: wasunũdi 
+distant: ripya 
+far: ripya 
+dull: hinra wadačũ	saransara 
+heavy: hinra wadačũ	saransara 
+serious: hinra wadačũ	saransara 
+close: di	nũhi 
+near: di	nũhi 
+ner: di	nũhi 
+salt: tiwyi 
+short: hapu-	wapu- 
+snake: kodi 
+thin: miriyũ-	muryiyũ-	wata- 
+wind: mutyanay	ričo 
+earthworm: toto	čapinu 
+worm: toto	čapinu 
+year: nihyã	wata 
+2 pl.: hirye 
+ye: hirye 
+you all: hirye 
+3 pl.: ra-	ri 
+they: ra-	ri 
+where: nũti	te 
+where?: nũti	te 
+when: nũtyeriwye 
+when?: nũtyeriwye 
+how: nũtyuramusi 
+how?: nũtyuramusi 
+some: derĩ	tara 
+few: -de	-derĩ	pasi- 
+three: mumoi	mumurĩ 
+four: daryahũyu	nairukuiniu 
+five: tadahyo	tenaka 
+broad: -kõ	hãmu- 
+wide: -kõ	hãmu- 
+wideness: -kõ	hãmu- 
+fat: nĩdi 
+thick: watanu 
+narrow: pasi- 
+child: dera 
+principal wife: watura 
+wife: watura 
+husband: wanu 
+his mother: -toda	hnõda 
+mother: -toda	hnõda 
+my mother: -toda	hnõda 
+father: hãy	tatya 
+his father: hãy	tatya 
+my father: hãy	tatya 
+animal: hawãda 
+forest: to 
+woods: to 
+branch: hi	ti 
+stick: hi	ti 
+fruit: -bi	-ho	-si 
+flower: -bi 
+grass: -so	wačuy 
+cord: -hũ 
+rope: -hũ 
+grease: nĩdi 
+fingernail: -ho	hasumuday 
+leg: duse	muda 
+wing: -hay nipyã 
+gut: -si	sikidi 
+guts: -si	sikidi 
+insides: -si	sikidi 
+intestine: -si	sikidi 
+intestines: -si	sikidi 
+back: rudi	runu 
+suck: riɲi	tiriy	turiy 
+spit: hũri	hũto-či	toči 
+vomit: hiyani	kotyanũy	yani 
+blow: du	duhã	duwuyẽ	rudi 
+breath: nãrye	tiheyã 
+breathe: nãrye	tiheyã 
+laugh: todi 
+laughter: todi 
+cogitate: hačipiyãhada	hũtay 
+reflect: hačipiyãhada	hũtay 
+think: hačipiyãhada	hũtay 
+smell: hiri	hũsi 
+sniff: hiri	hũsi 
+afraid: hnuteda	suwũyada 
+be afraid: hnuteda	suwũyada 
+fear: hnuteda	suwũyada 
+fright: hnuteda	suwũyada 
+alive: hnũyada	wičasãda	wičãda 
+be alive: hnũyada	wičasãda	wičãda 
+life: hnũyada	wičasãda	wičãda 
+live: hnũyada	wičasãda	wičãda 
+living: hnũyada	wičasãda	wičãda 
+fight: hũway	tapũy 
+hunt: dapuy	du 
+beat: hũwatyi	hũway 
+hit: hũwatyi	hũway 
+strike: hũwatyi	hũway 
+cut: harũy	hũnsi 
+hack: harũy	hũnsi 
+cut open: ruwe	ruwe-nuy 
+split: ruwe	ruwe-nuy 
+pierce: hĩčiti 
+stab: hĩčiti 
+dig: dapunu	hũmi 
+tell lies: kiwũy	kiwũyada 
+stand: rani 
+turn: hanumitya	hanumitye 
+turn around: hanumitya	hanumitye 
+turn round: hanumitya	hanumitye 
+drop: hũpatye	hũy	nõtay 
+fall: hũpatye	hũy	nõtay 
+grasp: hũri 
+hold: hũri 
+hold in arm: hũri 
+squeeze: mũči	ruyunu 
+wring: mũči	ruyunu 
+rub: hmyunu	hĩwa	minu	pũy 
+wipe: hmyunu	hĩwa	minu	pũy 
+wash: hasa	sa	suta 
+wash clothes: hasa	sa	suta 
+push: hatya 
+shove: hatya 
+throw: hatya 
+bind: -puču 
+fasten: -puču 
+tie: -puču 
+tie up: -puču 
+sew: kuruču	sini	suni 
+count: saranu	suranu 
+enumerate: saranu	suranu 
+number: saranu	suranu 
+tally: saranu	suranu 
+sing: murãy 
+have fun: tiyĩsa	tĩsa 
+play: tiyĩsa	tĩsa 
+float: pupãyã 
+flow: si 
+brook: -mũ	hadayamũ	siɲu 
+river: -mũ	hadayamũ	siɲu 
+stream: -mũ	hadayamũ	siɲu 
+lake: -tõ	hmityõ	hmutyõ 
+ocean: hãmu-nãwa	nãwa 
+sea: hãmu-nãwa	nãwa 
+dust: huru 
+fog: rahirahũrya	rakiruwũrya 
+sky: hariču	nãway	widawi 
+ice: sudodi 
+blaze: nũyã	ra- hũkiway	sa- rupay 
+burn: nũyã	ra- hũkiway	sa- rupay 
+day: hnda	hũda	runda 
+daylight: hnda	hũda	runda 
+daytime: hnda	hũda	runda 
+bad: ne sami-	nikyarãy- 
+evil: ne sami-	nikyarãy- 
+rot: pu-ɲu	purya 
+rotten: pu-ɲu	purya 
+dirty: kansi-	mĩ- 
+filthy: kansi-	mĩ- 
+soiled: kansi-	mĩ- 
+straight: wase- 
+sharp: himyura	mõtara 
+blunt: mõtadi	ne hmyunusara	ne mõtara 
+smooth: wasidya 
+damp: paroni	paruy	pupo 
+wet: paroni	paruy	pupo 
+correct: wase- 
+right side: ntityuday 
+left: mĩday 
+in: musi	nube	wimu 
+inside: musi	nube	wimu 
+and: -nti	harye 
+if: -ti 
+because: daryahũ	tapi 

@@ -1,0 +1,181 @@
+all: siahuela 
+arm: mai 
+ashes: ahurae 
+bark: kora uru 
+belly: ére | ére 
+belly: ére 
+big: (mila)riapo | milariapo	riapo 
+big: milariapo/piroriapo | milariapo	riapo 
+bird: ori 
+bite: mulamori 
+black: maea uruka 
+black: maea uruke | maea uruka 
+blood: opu 
+bone: uki 
+breast: amae 
+burn: a hai 
+claw: mai haro 
+claw: mora haro | mai haro 
+cloud: mea oro 
+cold: hoholia 
+come: heke 
+day: meahilaea 
+die: opi 
+dog: aße | ave	aβe 
+dog: ave | ave	aβe 
+drink: ma lera 
+dry: koroka 
+ear: oßoko | ovoko	oβoko 
+ear: ovoko | ovoko	oβoko 
+earth: mea 
+eat: lera 
+egg: ori hae 
+eye: ohae 
+fat (n.): meaße 
+fat (n.): meave 
+feather: ori koro 
+fire: a 
+fish: ekaka 
+fly (v.): ßißila 
+fly (v.): vivila 
+full: ape furira | ape furira	ape ɸurira 
+full: ape φurira | ape furira	ape ɸurira 
+girl: mori 
+give: iara 
+good: lapoari 
+green: maea keiruka 
+hair: haro koro 
+head: haro 
+hear: iapa 
+heart: haupe 
+horn: kea 
+I: ora 
+kill: hai 
+knee: mora ari 
+know: ore lei 
+leaf: korakoro 
+leg: mora 
+lie: uaßa | uaβa 
+lie: uava | uaβa 
+liver: iki 
+long: haiapo 
+louse: karula 
+man: ßilala | haela 
+man: vilaia | haela 
+many: siahuela 
+meat: maea-hari 
+moon: kapare 
+mountain: raepa 
+mouth: ape 
+name: lare 
+neck: karaße | karaβe 
+neck: karave | karaβe 
+new: áre | are	áre 
+new: áre | are	áre 
+night: eloa 
+nose: paku 
+not: kari | kari	le 
+not: le | kari	le 
+one: haipori 
+person: haela 
+rain: lai 
+rat: airi 
+red: maea oßoka | maea oβoka 
+red: maea ovoka | maea oβoka 
+road: okiharo 
+root: makere 
+round: maea helori 
+sand: mea kekere | mea kekere	miri hororo 
+sand: miri hororo | mea kekere	miri hororo 
+say: oharo maea | mea kekere	miri hororo 
+seed: kora mere 
+see: ohae eaßa | ohae eava	ohae eaβa 
+see: ohae eave | ohae eava	ohae eaβa 
+sit: aßa | aβa 
+sit: ava | aβa 
+skin: maea uru 
+sleep: ißuku uaßa | iβuku uaβa 
+sleep: ivuku uava | iβuku uaβa 
+small: ekako 
+smoke: oßokohela | oβokohela 
+smoke: ovokohela | oβokohela 
+stand: uroi 
+star: kou 
+stone: haße | have	haβe 
+stone: have | have	haβe 
+sun: hare 
+swim: ma ßeßeße | ma βeβeβe 
+swim: ma veveve | ma βeβeβe 
+tail: auwe 
+that: lahea 
+this: mahea 
+thou: a 
+tomorrow: opoa hare 
+tongue: halela 
+tooth: kao 
+tree: kora 
+two: helaukai 
+walk: mora mea 
+wallaby: haiaru 
+warm: ahea 
+water: ma 
+we (incl.): eleiloila 
+what: le 
+white: maea helaka 
+who: leia 
+woman: ußa | uβa 
+woman: uva | uβa 
+yellow: maea keiruka 
+yes: ehe 
+yesterday: hailele hare 
+every: siahuela 
+ash: ahurae 
+abdomen: ére 
+bigness: milariapo	riapo 
+large: milariapo	riapo 
+breasts: amae 
+nail: mai haro 
+talon: mai haro 
+come from: heke 
+be dead: opi 
+dead: opi 
+ground: mea 
+land: mea 
+soil: mea 
+fly: βiβila 
+fly v.: βiβila 
+hand: mai 
+left hand: mai 
+right: mai 
+1 sg.: ora 
+be knowledgeable: ore lei 
+lie down: uaβa 
+head louse: karula 
+male: βilala 
+much: siahuela 
+multiple: siahuela 
+several: siahuela 
+hill: raepa 
+title: lare 
+nighttime: eloa 
+adulterous: haipori 
+single: haipori 
+the: haipori 
+unprincipled: haipori 
+human: haela 
+human being: haela 
+rainy weather: lai 
+path: okiharo 
+route: okiharo 
+hide: maea uru 
+little: ekako 
+smallness: ekako 
+rock: have	haβe 
+grind: helaukai 
+go: mora mea 
+1 pl. inc.: eleiloila 
+we: eleiloila 
+we₁: eleiloila 
+whiteness: maea helaka 
+who?: leia 
+female: uβa 

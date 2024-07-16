@@ -1,0 +1,139 @@
+all: katoa 
+every: katoa 
+ash: lehu 
+ashes: lehu 
+abdomen: manava	ngapula 
+belly: manava	ngapula 
+big: thuabe 
+bigness: thuabe 
+large: thuabe 
+bird: manumanu 
+bite: esia	ngalia	usia 
+black: uli 
+blood: toto 
+bone: ivi 
+breast: hatahata 
+breasts: hatahata 
+burn: khaa	ula 
+burn tr.: khaa	ula 
+cloud: meluao 
+cold: maliki 
+come: au 
+come from: au 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: kuli	kulii 
+drink: inu	inumea	inumia 
+dry: mangoa	mathuu 
+ear: taliNa	talinga 
+eat: kai 
+egg: hatu kio 
+eye: mata 
+feather: hulu 
+fire: keu 
+fish: ika 
+fly: lele 
+fly v.: lele 
+good: lavoi 
+hair: laulu 
+hand: lima 
+left hand: lima 
+right: lima 
+head: pihoulu 
+hear: loNo	longo 
+1 sg.: au	iau 
+I: au	iau 
+kill: taia	tamatea 
+be knowledgeable: ilo	iloa 
+know: ilo	iloa 
+leaf: lau 
+lie: takoto 
+lie down: takoto 
+liver: ate 
+long: loa 
+head louse: kutu 
+louse: kutu 
+male: mhe	tangata 
+man: tai 
+moon: akahu 
+mouth: ngutu 
+name: iNoa	ingoa 
+title: iNoa	ingoa 
+neck: ua 
+new: hou 
+night: po	poo 
+nighttime: po	poo 
+nose: iu	poNaiu	pongaiu 
+adulterous: kotahi	tahi	tai	tasi 
+one: kotahi	tahi	tai	tasi 
+single: kotahi	tahi	tai	tasi 
+that: na	tena 
+the: kotahi	tahi	tai	tasi 
+unprincipled: kotahi	tahi	tai	tasi 
+human: tai 
+human being: tai 
+person: tai 
+rain: ua 
+rainy weather: ua 
+red: mea 
+path: ala 
+road: ala 
+route: ala 
+root: aka 
+sand: one 
+say: tukua 
+see: kutea 
+sit: noho 
+hide: kilihino	paku 
+skin: kilihino	paku 
+sleep: moe 
+little: kiko	likiliki 
+small: kiko	likiliki 
+smallness: kiko	likiliki 
+smoke: kohu 
+star: hetu	hetuu 
+rock: hatu 
+stone: hatu 
+swim: kau 
+tail: pole 
+this: ne	tene 
+2 sg: koe 
+thou: koe 
+you: koe 
+tongue: alelo 
+tooth: niho 
+tree: lakau 
+grind: lua	rua 
+two: lua	rua 
+go: hehoaki	kau 
+walk: hehoaki	kau 
+hot: mahana 
+warm: mahana 
+water: vai 
+1 pl. inc.: matou	mhatou	mhaua	thatou	thaua	th~atou 
+we: matou	mhatou	mhaua	thatou	thaua	th~atou 
+we₁: matou	mhatou	mhaua	thatou	thaua	th~atou 
+what: aa 
+white: thea 
+whiteness: thea 
+who: ai 
+who?: ai 
+female: hahine	hana 
+woman: hahine	hana 
+yellow: helo 
+distant: mao 
+far: mao 
+dull: maha 
+heavy: maha 
+serious: maha 
+close: leuethaki 
+near: leuethaki 
+ner: leuethaki 
+short: popoto 
+snake: ngata 
+thin: manihi 
+wind: matangi 
+earthworm: peipe 
+worm: peipe 
+year: ngatae 

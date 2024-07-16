@@ -1,0 +1,450 @@
+all: ne\ene\e 
+arm: tana 
+arm: tana matonu 
+ashes: aɟaka 
+ashes: ayaka 
+back: ili 
+bad: mahune 
+bad: sala 
+belly: aku caú | aku-puhu 
+belly: aku pupu | aku-puhu 
+belly: atu | aku-puhu 
+big: bo\al | láficare 
+big: boʔal | láficare 
+big: lafai | láficare 
+bird: (oto)asa | aca	olo 
+bird: (oto) asa | aca	olo 
+bite: karare | isake 
+bite: kise | isake 
+bite: tia | isake 
+bite: wisu | isake 
+black: a | lakuvare 
+black: lakuvare 
+black: lauare | lakuvare 
+black: lauare ~ lauara | lakuvare 
+blood: -ve | vehe 
+blood: we | vehe 
+bone: opo | hafa 
+branch: ketele 
+branch: taran 
+branch: wetik 
+breast: ami tapunu | ami-tapunu	amitapunu 
+breast: atu | ami-tapunu	amitapunu 
+breast: susu | ami-tapunu	amitapunu 
+brother: ka(ka) 
+brother: noko kaka 
+burn: ara-pa | alahu ceve 
+burn: isa | alahu ceve 
+chest: atu 
+child: kina 
+child: modo 
+child: moko 
+claw: eru 
+claw: keles 
+claw: laki 
+cloud: mo:ku | mouku 
+cold: elewe | éleve 
+come: mara | ma7u	maʔu 
+come: mau | ma7u	maʔu 
+come: ma\u | ma7u	maʔu 
+come: maʔu | ma7u	maʔu 
+cut: atare 
+cut: lay(e) 
+cut: uare 
+cut: utu 
+cut: wuwur 
+dance: tilue 
+dark: elua 
+daughter: moco tapunu 
+day: ara 
+day: mua haru 
+die: umu 
+dig: kaure 
+dirty: hara-hara 
+dog: ífaru | iparu 
+dog: ihar(a) | iparu 
+dog: ipáro | iparu 
+dog: íparu | iparu 
+drink: tutu | nava	una 
+dry: (ha)tate | hére	lapise	sasake	titile 
+dry: retlene | hére	lapise	sasake	titile 
+dry: titlene | hére	lapise	sasake	titile 
+earth: miki 
+earth: mua 
+earth: mua ca\u vele 
+earth: no 
+earth: rupa 
+earth: uma 
+ear: valikasa | valiku 
+ear: wali | valiku 
+eat: mace 
+eat: mede | mace 
+eat: nawa | mace 
+eat: nawa ~ nauwa | mace 
+eat: una | mace 
+egg: udu | ucu 
+elbow: moil 
+elbow: tana valiku 
+excrement: atu 
+excrement: hara-hara 
+excrement: iri 
+eye: ina | ina	n-ina	nina 
+eye: ina-moco | ina	n-ina	nina 
+eye: ina-wati | ina	n-ina	nina 
+fall: alu 
+fall: aracane 
+fall: ipa 
+fall: tapa 
+far: yewaye | co 
+far: yoni\ (?) | co 
+father: ha 
+father: palu 
+fat (n.): mina 
+fat (n.): mut(u)ke 
+fat (n.): wuru 
+fear: kikre 
+fear: mene 
+finger: kupa 
+fingernail: keles 
+fire: ada | aCa	aca 
+fire: laire | aCa	aca 
+fish: ahi | api 
+fish: api 
+five: limé 
+five: limi 
+flower: cipi 
+flower: ihi 
+fly (n.): nailo amu 
+fly (n.): uhur 
+fly (v.): uhur 
+forehead: cipi 
+forehead: inakadan 
+forest: irim(i) 
+forest: oto 
+four: faté 
+four: pat(a) 
+fruit: mana 
+give: ina 
+good: ɟaːni | rau 
+good: lolo | rau 
+good: ro: | rau 
+good: roː | rau 
+good: yani | rau 
+good: yawon(i) | rau 
+grass: poye 
+green: u\ule | uʔureke 
+green: u\ureke | uʔureke 
+guts: atu 
+hair: ca\u le\u | caʔu-leʔu 
+hair: lia | caʔu-leʔu 
+hair: wata | caʔu-leʔu 
+hand: tana 
+head: ca\u tapunu | caʔu 
+head: dau | caʔu 
+heart: isa 
+heart: lar 
+heart: uantapul 
+hear: ware | vari 
+heavy: hone | ciʔire	mature 
+heavy: tu(u)re | ciʔire	mature 
+here: ina(\a) 
+he/she: i 
+he/she: i- 
+he/she: tava 
+he/she: ue(-ta) 
+hit: ala 
+hit: ali 
+hit: dadare 
+hit: hon 
+hit: uda 
+hit: wewese 
+hold: pale 
+hole: narunu 
+hole: wera\a 
+hole: were 
+horn: uru 
+house: le 
+husband: elehu 
+husband: nami(rai) 
+I: a | ana 
+I: an- | ana 
+I: ana 
+I: ani | ana 
+I: ani(ro) | ana 
+I: an-ri | ana 
+I: an-ta | ana 
+I: an-te | ana 
+I: an(u) | ana 
+I: anut(u) | ana 
+kill: uda | uca 
+knee: culo 
+knee: moil 
+know: epu | navare 
+lake: lori lafai 
+laugh: kataye 
+laugh: (ke)kele 
+leaf: asa 
+leaf: asah 
+leaf: asah/atasia 
+leaf: hira | asa 
+left: welia 
+leg: fatu kava 
+lie: here 
+lie: rutne 
+lie: yete 
+live: lause 
+long: lokide muit(e) | loeloe	veluvelu 
+long: lowai | loeloe	veluvelu 
+louse: amin | haminu 
+louse: aminu | haminu 
+louse: dede | haminu 
+louse: lawa | haminu 
+man: maáro | ma7aru	maʔaru 
+man: nami | ma7aru	maʔaru 
+man: yalu | ma7aru	maʔaru 
+many: kapare 
+many: lot 
+meat: leura 
+moon: uru 
+morning: nope 
+mosquito: nikinu 
+mother: na 
+mother: nalu 
+mountain: apa 
+mountain: daran 
+mountain: uma 
+mouth: ohoh(o) | oʔo 
+mouth: o\o | oʔo 
+name: neene | nai 
+navel: ulu 
+near: haruk | efe	hici	ita	karu	mini	taru 
+near: ita(a) | efe	hici	ita	karu	mini	taru 
+neck: mani | mani-kete 
+new: miri 
+night: dedem | kounu 
+night: wanat | kounu 
+nose: mini | miniku 
+nose: muni-kain | miniku 
+nose: muruana | miniku 
+not: (u)he 
+old: irim(i) 
+old: kadune 
+one: (a)un(i) | ukani	úkani 
+one: uani | ukani	úkani 
+one: ukani | ukani	úkani 
+one: u\wane | ukani	úkani 
+person: maro | ma7aru	maʔaru 
+pull: seile 
+push: turitimu 
+rain: aia | aja 
+rain: aya | aja 
+rat: ura 
+red: memraka | mimireke 
+red: mimirék | mimireke 
+red: mimiri | mimireke 
+right: tenen | tana 
+ripe: morose 
+road: iar | i7a	iʔa 
+root: ara | larinu 
+root: ilarina | larinu 
+rope: taru 
+rotten: hoho 
+rotten: kahare 
+sand: ini | iniku 
+say: na | taʔa 
+say: ne | taʔa 
+sea: lor 
+sea: tahi 
+sea: tai 
+see: aci | aCi	aci	ha7a	haʔa	toto 
+see: asi | aCi	aci	ha7a	haʔa	toto 
+seed: tapu 
+seed: winu 
+see: watae | aCi	aci	ha7a	haʔa	toto 
+shoulder: papua 
+sing: leule 
+sing: rusunu 
+sister: leren(e) 
+sister: lerenu 
+sit: (i)mire | ícuare	ímire 
+sit: (i)mirɛ | ícuare	ímire 
+sit: rua | ícuare	ímire 
+skin: pau | vele 
+skin: wele | vele 
+skin: yawale | vele 
+sky: le:n 
+sleep: taya | taja 
+sleep: yaure | taja 
+sleep: yeete | taja 
+sleep: yeːte | taja 
+small: doli | kaʔukisa 
+small: kiikilai | kaʔukisa 
+small: kiːkilai | kaʔukisa 
+small: moko | kaʔukisa 
+smell: amsoru 
+smell: mue(e) 
+smoke: boto | aca-tapinu 
+smoke: omoun | aca-tapinu 
+smoke: ta\u | aca-tapinu 
+snake: nana | hapa 
+son: moco 
+sour: a\aye 
+stand: nate 
+star: ihi | ipinaka 
+stick: durlia 
+stick: kete 
+stick: tanare 
+stone: here | mataru 
+sun: vaco 
+sun: wadu 
+sweet: ma\ate 
+sweet: pane 
+swim: na\aye | palise 
+tail: ulapua | ulafuka 
+take: kamate 
+take: kaure 
+take: name 
+take: o\oca 
+there: nara 
+they: tava(ro) 
+they: waye 
+they: waye- 
+thigh: patu 
+thin: lakate | rinike	sare 
+thorn: uku 
+thou: a(-te) | a	à 
+thou: e:- | a	à 
+thou: e:(-ri) | a	à 
+thou: e-ro | a	à 
+three: itue 
+three: utué 
+three: utu(-ene) 
+throat: na\a 
+throw: hutrau 
+throw: lene 
+tie: dule 
+tie: hante 
+tomorrow: nahai 
+tomorrow: nope 
+tongue: uhul | ililu	ipilu 
+tooth: ma\ir | vahinu 
+tooth: vahino | vahinu 
+tooth: wain | vahinu 
+tree: ada 
+tree: ada ~ ara ~ ete 
+tree: ara 
+tree: em 
+tree: ere 
+tree: ete 
+two: ece | ece	iafu	écafu 
+two: ei | ece	iafu	écafu 
+two: \ei | ece	iafu	écafu 
+two: ey(-ene) | ece	iafu	écafu 
+vagina: aru 
+vagina: holo 
+walk: la\a | laʔa 
+walk: lare | laʔa 
+walk: mara | laʔa 
+walk: rane | laʔa 
+walk: wale | laʔa 
+warm: manasi | timine 
+wash: hale 
+wash: here 
+wash: korose 
+wash: musa 
+wash: nusa 
+wash: wau 
+water: ira 
+we: ap- | afa	ina 
+weep: ina-waya 
+weep: oore 
+weep: saure 
+we: in- | afa	ina 
+we (incl.): afi(ro) 
+we (incl.): ap-ri 
+we (incl.): ap-te 
+we (incl.): apu-t(u) 
+we: ini(ro) | afa	ina 
+we: in-ri | afa	ina 
+we: in-ta | afa	ina 
+we: in-te | afa	ina 
+we: inu-t(u) | afa	ina 
+what: ina 
+when: tun 
+white: hitin(e) | pitine 
+white: pitine 
+who: uman(i) | umani 
+wind: a\am(a) | pari 
+wind: hari | pari 
+wind: pari 
+wing: amiri 
+woman: panar | tupuru 
+woman: tuhurai | tupuru 
+woman: tuhur(u) | tupuru 
+woman: tukur(ai) | tupuru 
+woman: tupure | tupuru 
+wood: ada 
+wood: ada ~ ara ~ ete 
+wood: ete 
+yellow: arau | karase 
+yellow: korace | karase 
+yesterday: rahinua 
+yesterday: woini 
+you: i:- | a	à 
+you: i:-ri | a	à 
+you: i(ro) | a	à 
+you: i:(-te) | a	à 
+you: i:-tu | a	à 
+abdomen: aku-puhu 
+bigness: láficare 
+large: láficare 
+breasts: ami-tapunu	amitapunu 
+burn tr.: alahu ceve 
+come from: ma7u	maʔu 
+be dead: umu 
+dead: umu 
+feather: leʔu 
+fly: ipile 
+fly v.: ipile 
+left hand: tana 
+1 sg.: ana 
+be knowledgeable: navare 
+liver: ari 
+head louse: haminu 
+male: nami 
+title: nai 
+nighttime: kounu 
+adulterous: ukani	úkani 
+single: ukani	úkani 
+that: iviʔit	iʔit 
+the: ukani	úkani 
+unprincipled: ukani	úkani 
+human: ma7aru	maʔaru 
+human being: ma7aru	maʔaru 
+rainy weather: aja 
+path: i7a	iʔa 
+route: i7a	iʔa 
+hide: vele 
+little: kaʔukisa 
+smallness: kaʔukisa 
+rock: mataru 
+this: en 
+2 sg: a	à 
+grind: ece	iafu	écafu 
+go: laʔa 
+hot: timine 
+1 pl. inc.: afa	ina 
+we₁: afa	ina 
+whiteness: pitine 
+who?: umani 
+female: tupuru 
+distant: co 
+dull: ciʔire	mature 
+serious: ciʔire	mature 
+close: efe	hici	ita	karu	mini	taru 
+ner: efe	hici	ita	karu	mini	taru 
+salt: asiru 
+short: kava 
+earthworm: ifi 
+worm: ifi 
+year: aja-ira 

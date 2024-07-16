@@ -1,0 +1,297 @@
+all: tʰáŋ mót 
+every: tʰáŋ mót 
+ash: tʰāo 
+ashes: tʰāo 
+bark: kȁːp	pɨ̏aːk 
+abdomen: pʰōːn 
+belly: pʰōːn 
+big: ɲāy 
+bigness: ɲāy 
+large: ɲāy 
+bird: nōk 
+bite: kát 
+black: dam 
+blood: lɨ̑aːt	ph~Et 
+bone: ká dȕːk	lEk 
+breast: mi	nóm 
+breasts: mi	nóm 
+cloud: mȇːk 
+cold: năːo 
+come: mE	máː 
+come from: mE	máː 
+be dead: tai	tàːy 
+dead: tai	tàːy 
+die: tai	tàːy 
+dog: Nw~E	măː 
+drink: dɨ̄ːm	wum 
+dry: hɛ̏ːŋ 
+ear: hǔː	kh~E 
+earth: din 
+ground: din 
+land: din 
+soil: din 
+eat: kìn 
+egg: kʰāy 
+eye: tE	tàː 
+feather: kʰŏn 
+fire: fáy	pui 
+fish: pE	paː 
+fly: bìn 
+fly v.: bìn 
+foot: tiːn 
+full: tem	tʰȕaːn 
+good: dìː 
+green: kʰĭaːw 
+hair: pʰŏm 
+hand: my~E 
+left hand: my~E 
+right: my~E 
+head: hǔa 
+hear: fáŋ	soN kh~E	th~iN	ɲín 
+heart: cay 
+horn: kʰăo 
+1 sg.: kʰɔ̏ːy	yEu 
+I: kʰɔ̏ːy	yEu 
+kill: kʰȁː 
+knee: kʰāo 
+be knowledgeable: hûː 
+know: hûː 
+leaf: bay	pE 
+liver: tap	táp 
+head louse: hăo	mén	tEu 
+louse: hăo	mén	tEu 
+male: sáːy 
+man: pʰȕː kʰón 
+moon: can 
+hill: pʰúː 
+mountain: pʰúː 
+mouth: pȁːk 
+name: kw~En	sɨ̄ː 
+title: kw~En	sɨ̄ː 
+neck: kʰɔ́ː 
+new: mai	māy 
+night: kaːŋkʰɨ́ːn	tEn 
+nighttime: kaːŋkʰɨ́ːn	tEn 
+nose: daŋ	maN 
+adulterous: nɨ̄ŋ	ʔi˥˥ 
+one: nɨ̄ŋ	ʔi˥˥ 
+single: nɨ̄ŋ	ʔi˥˥ 
+that: nȃn 
+the: nɨ̄ŋ	ʔi˥˥ 
+unprincipled: nɨ̄ŋ	ʔi˥˥ 
+human: pʰȕː kʰón 
+human being: pʰȕː kʰón 
+person: pʰȕː kʰón 
+rain: fŏn 
+rainy weather: fŏn 
+red: dɛːŋ 
+path: khw$3n	tʰáːŋ 
+road: khw$3n	tʰáːŋ 
+route: khw$3n	tʰáːŋ 
+root: hȃːk 
+round: kom	món 
+sand: sáːy 
+say: pʰûːt	wāː 
+see: hěn	naN	nu 
+seed: mēt 
+sit: nāŋ 
+hide: %pi	năŋ 
+skin: %pi	năŋ 
+sleep: nɔ́ːn 
+little: dék	nɔ̑ːy 
+small: dék	nɔ̑ːy 
+smallness: dék	nɔ̑ːy 
+smoke: kʰwán 
+star: daːo	s3t 
+rock: hĭm	hĭn	py~E 
+stone: hĭm	hĭn	py~E 
+sun: dɛ̏ːt 
+swim: lɔ́ːy	wȁːy 
+tail: hăːŋ 
+this: nīː 
+2 sg: cȃo	mɨ́ŋ 
+thou: cȃo	mɨ́ŋ 
+you: cȃo	mɨ́ŋ 
+tongue: lȋːn	mE 
+tooth: kʰɛ̏ːw	py~aN 
+tree: mâi	tȏn 
+grind: ja˨˩˨	sɔ̌ːŋ	yE 
+two: ja˨˩˨	sɔ̌ːŋ	yE 
+go: də̀ːn 
+walk: də̀ːn 
+hot: ūn 
+warm: ūn 
+water: nam	nȃm 
+1 pl. inc.: tEu	tuː kʰȁː 
+we: tEu	tuː kʰȁː 
+we₁: tEu	tuː kʰȁː 
+white: kʰăːo 
+whiteness: kʰăːo 
+female: náːŋ	ɲíŋ 
+woman: náːŋ	ɲíŋ 
+yellow: lɨ̆aːŋ 
+distant: kay 
+far: kay 
+dull: nák 
+heavy: nák 
+serious: nák 
+close: kȃy 
+near: kȃy 
+ner: kȃy 
+salt: kɨaː 
+short: cân	cí 
+snake: ŋúː 
+thin: baːŋ 
+wind: lóm 
+earthworm: nɔ̆ːn 
+worm: nɔ̆ːn 
+year: piː 
+3 sg.: kʰăo 
+he: kʰăo 
+she: kʰăo 
+2 pl.: kʰɨ̆aː 
+ye: kʰɨ̆aː 
+you all: kʰɨ̆aː 
+3 pl.: kʰăo 
+they: kʰăo 
+other: ʔɨ̄ːn 
+three: sam˧˥	săːm 
+four: si˦˥˧	sīː 
+five: hȁː	ŋo˧˩ 
+broad: kwȃːŋ 
+wide: kwȃːŋ 
+wideness: kwȃːŋ 
+fat: mán 
+thick: năː 
+narrow: kʰɛ̑ːp 
+child: dék	lȗːk 
+principal wife: míaː 
+wife: míaː 
+husband: pʰŭaː 
+his mother: mɛ̄ː 
+mother: mɛ̄ː 
+my mother: mɛ̄ː 
+father: pʰɔ̄ː 
+his father: pʰɔ̄ː 
+my father: pʰɔ̄ː 
+animal: sát 
+forest: doŋ	pāː 
+woods: doŋ	pāː 
+fruit: mȁːk 
+flower: dɔ̏ːk 
+grass: ɲȁː 
+cord: săːy	sɨ̑aːk 
+rope: săːy	sɨ̑aːk 
+flesh: nɨ̑aː 
+meat: nɨ̑aː 
+grease: mán 
+claw: lēp 
+fingernail: lēp 
+nail: lēp 
+leg: kʰăː 
+arm: mɨ́ 
+wing: pȉːk 
+gut: sȁi 
+guts: sȁi 
+insides: sȁi 
+intestine: sȁi 
+intestines: sȁi 
+back: lăŋ 
+suck: dȕːt 
+spit: kʰáːy	tʰōm 
+vomit: hȃːk 
+blow: pʰāt 
+breath: hăːy cay 
+breathe: hăːy cay 
+laugh: hǔa 
+laughter: hǔa 
+cogitate: kʰɨ̄t 
+reflect: kʰɨ̄t 
+think: kʰɨ̄t 
+smell: dòm 
+sniff: dòm 
+afraid: kùa 
+be afraid: kùa 
+fear: kùa 
+fright: kùa 
+alive: yūː 
+be alive: yūː 
+life: yūː 
+live: yūː 
+living: yūː 
+hunt: lāː 
+beat: tìː 
+hit: tìː 
+strike: tìː 
+cut: tát 
+hack: tát 
+cut open: tɛ̏ːk 
+split: tɛ̏ːk 
+pierce: sȉap	tʰɛ́ːŋ 
+stab: sȉap	tʰɛ́ːŋ 
+scratch: kàu 
+dig: kʰút 
+lie: nɔ́ːn 
+lie down: nɔ́ːn 
+tell lies: nɔ́ːn 
+stand: yɨ̀ːn 
+turn: hǎn 
+turn around: hǎn 
+turn round: hǎn 
+drop: tók 
+fall: tók 
+grasp: ʔûm 
+hold: ʔûm 
+hold in arm: ʔûm 
+squeeze: kʰân 
+wring: kʰân 
+throw: kwɛ̄ːŋ 
+bind: pʰȕːk 
+fasten: pʰȕːk 
+tie: pʰȕːk 
+tie up: pʰȕːk 
+sew: ɲíp 
+count: nāp 
+enumerate: nāp 
+number: nāp 
+tally: nāp 
+flow: lǎi 
+swell: nóː 
+brook: mɛ̄ː nȃm 
+river: mɛ̄ː nȃm 
+stream: mɛ̄ː nȃm 
+lake: tʰā léː 
+ocean: tʰā léː 
+sea: tʰā léː 
+dust: fūn 
+fog: mɔ̏ːk 
+sky: fȃː 
+snow: hímā 
+ice: nȃmkɔ̑ːn 
+blaze: pʰăo 
+burn: pʰăo 
+day: kaːŋwán 
+daylight: kaːŋwán 
+daytime: kaːŋwán 
+old: kɛ̄ː	tʰȁo 
+bad: hȃːy	sūaː 
+evil: hȃːy	sūaː 
+rot: nāo 
+rotten: nāo 
+dirty: pɨ̑aːn 
+filthy: pɨ̑aːn 
+soiled: pɨ̑aːn 
+straight: koŋ	sɨ̄ː 
+sharp: kʰóm	lɛ̆ːm 
+blunt: mȕm	tûː 
+smooth: lāmún 
+damp: piȁːk 
+wet: piȁːk 
+correct: mɛ̄ːn	tʰɨ̏ːk 
+right side: kʰwăː 
+left: sȃːy 
+at: tʰīː 
+in: nái 
+inside: nái 
+and: lɛ̄ʔ 
+if: tʰȁː 

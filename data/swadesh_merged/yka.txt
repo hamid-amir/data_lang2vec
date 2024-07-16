@@ -1,0 +1,264 @@
+all: kemon	tibuʔuk 
+every: kemon	tibuʔuk 
+ash: abu 
+ashes: abu 
+abdomen: betteŋ 
+belly: betteŋ 
+big: haje 
+bigness: haje 
+large: haje 
+bird: manuk-manuk 
+bite: kekkeb 
+black: ittem 
+blood: laha7	lahaʔ 
+bone: tolaN	tolaŋ 
+breast: susu 
+breasts: susu 
+burn: eggas 
+burn tr.: eggas 
+cloud: gabun 
+cold: haggut 
+come: pitu 
+come from: pitu 
+be dead: -matey	matey 
+dead: -matey	matey 
+die: -matey	matey 
+dog: asu 
+drink: inum 
+dry: gaŋu	tohoʔ 
+ear: tayiNe	tayiŋe 
+eat: kakan	maŋan 
+egg: pugad 
+eye: mata 
+feather: bulu 
+fire: ebbut	ebut 
+fish: kena	kenna 
+fly: layaŋ 
+fly v.: layaŋ 
+good: hap	hatul	untul 
+green: gadduŋ 
+hair: buu kook 
+hand: %taNan	taŋan 
+left hand: %taNan	taŋan 
+right: %taNan	taŋan 
+head: kok 
+hear: -takale	takale 
+1 sg.: aku 
+I: aku 
+kill: bonoʔ 
+be knowledgeable: taʔo 
+know: taʔo 
+leaf: dawen 
+lie: pabak 
+lie down: pabak 
+liver: bua7	buaʔ 
+long: tahaʔ 
+head louse: kutu 
+louse: kutu 
+male: lella 
+man: a7a	aʔa 
+moon: bulan 
+mouth: behe 
+name: alen 
+title: alen 
+neck: kelloŋ 
+new: ba7ahu	baʔahu 
+night: saNem	saŋem 
+nighttime: saNem	saŋem 
+nose: uN	uŋ 
+adulterous: dembuaq	isa7	issaʔ 
+one: dembuaq	isa7	issaʔ 
+single: dembuaq	isa7	issaʔ 
+that: ian	ituʔ 
+the: dembuaq	isa7	issaʔ 
+unprincipled: dembuaq	isa7	issaʔ 
+human: a7a	aʔa 
+human being: a7a	aʔa 
+person: a7a	aʔa 
+rain: ulan 
+rainy weather: ulan 
+red: peyat 
+path: lalan 
+road: lalan 
+route: lalan 
+root: gamut 
+sand: umus 
+say: paʔin 
+see: kite 
+sit: tiŋkoʔ 
+hide: kuit 
+skin: kuit 
+sleep: tuli 
+little: dikiʔ 
+small: dikiʔ 
+smallness: dikiʔ 
+smoke: umbu 
+star: bitu7un	bituʔun 
+rock: batu 
+stone: batu 
+swim: laŋi 
+tail: eŋko 
+this: ini|n 
+2 sg: ka7u	kaʔu 
+thou: ka7u	kaʔu 
+you: ka7u	kaʔu 
+tongue: dela7	dellaʔ 
+tooth: impen	imp~en 
+grind: due	duwe 
+two: due	duwe 
+go: leŋŋan 
+walk: leŋŋan 
+hot: panas 
+warm: panas 
+water: bohe7	boheʔ 
+1 pl. inc.: kami	kita 
+we: kami	kita 
+we₁: kami	kita 
+what: ine 
+white: poteʔ 
+whiteness: poteʔ 
+who: sine 
+who?: sine 
+female: dende 
+woman: dende 
+yellow: binaniŋ 
+distant: tala 
+far: tala 
+dull: bohat 
+heavy: bohat 
+serious: bohat 
+close: tapit 
+near: tapit 
+ner: tapit 
+salt: asin 
+short: pandak 
+snake: sawe 
+thin: nipis 
+wind: beliu 
+earthworm: olet 
+worm: olet 
+year: tuhun 
+2 pl.: kaʔam 
+ye: kaʔam 
+you all: kaʔam 
+3 pl.: sie 
+they: sie 
+where: antag	iŋge 
+where?: antag	iŋge 
+when: sumian 
+when?: sumian 
+how: saʔiŋge 
+how?: saʔiŋge 
+other: seddi [li] 
+three: tellu 
+four: ampat 
+five: lime 
+broad: lajab	luha 
+wide: lajab	luha 
+wideness: lajab	luha 
+fat: lemmek 
+thick: subuk 
+narrow: kiput 
+principal wife: anda 
+wife: anda 
+husband: ella 
+his mother: saʔi 
+mother: saʔi 
+my mother: saʔi 
+father: sama 
+his father: sama 
+my father: sama 
+forest: gulaŋan 
+woods: gulaŋan 
+branch: paŋey 
+stick: paŋey 
+fruit: buaʔ 
+flower: sumpiŋ 
+grass: belili 
+cord: lubid 
+rope: lubid 
+flesh: isi 
+meat: isi 
+grease: lemmek 
+wing: peppik 
+gut: tinaʔi 
+guts: tinaʔi 
+insides: tinaʔi 
+intestine: tinaʔi 
+intestines: tinaʔi 
+back: bukut 
+suck: sessep 
+spit: luraʔ 
+vomit: utaʔ 
+blow: tihup 
+breath: mag-napas 
+breathe: mag-napas 
+laugh: saye 
+laughter: saye 
+cogitate: kimmat	pikil 
+reflect: kimmat	pikil 
+think: kimmat	pikil 
+smell: hamut 
+sniff: hamut 
+afraid: tinalew 
+be afraid: tinalew 
+fear: tinalew 
+fright: tinalew 
+alive: ellum 
+be alive: ellum 
+life: ellum 
+live: ellum 
+living: ellum 
+hunt: panhut 
+beat: pogpog	teuaʔ 
+hit: pogpog	teuaʔ 
+strike: pogpog	teuaʔ 
+cut: mag-poloŋ 
+hack: mag-poloŋ 
+cut open: kepak 
+split: kepak 
+pierce: binonoʔ 
+stab: binonoʔ 
+scratch: kukut 
+dig: kalih 
+stand: teŋge 
+drop: laboʔ 
+fall: laboʔ 
+grasp: kinaputan 
+hold: kinaputan 
+hold in arm: kinaputan 
+squeeze: tabid 
+wring: tabid 
+throw: tibag 
+bind: iŋket 
+fasten: iŋket 
+tie: iŋket 
+tie up: iŋket 
+sew: laʔit 
+count: ituŋ 
+enumerate: ituŋ 
+number: ituŋ 
+tally: ituŋ 
+flow: selluy 
+ocean: tahik 
+sea: tahik 
+dust: begumbun 
+sky: laŋit 
+bad: laʔat 
+evil: laʔat 
+rot: buhuk 
+rotten: buhuk 
+dirty: lege	lemmiʔ 
+filthy: lege	lemmiʔ 
+soiled: lege	lemmiʔ 
+sharp: talem 
+blunt: tampul 
+damp: basseʔ 
+wet: basseʔ 
+right side: kanawan 
+left: bibaŋ 
+at: di	si 
+in: di-alem 
+inside: di-alem 
+and: duk 
+if: baŋ 

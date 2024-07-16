@@ -1,0 +1,344 @@
+all: todo 
+and: e 
+animal: animal 
+ashes: cinzas 
+at: en 
+back: atrás | costas	lombo 
+bad: malo 
+bark: cortiza | casca	cortiza	tona 
+because: porque 
+belly: bandullo | barriga 
+big: grande 
+bird: paxaro | ave	paxaro 
+bite: trabar | morder 
+black: negro 
+blood: sangue | saNge	sangue 
+blow: soprar 
+bone: óso | oso	óso 
+breast: peito | pEito	peito 
+breathe: rspirar | respirar 
+burn: arder | queimar 
+child: neno 
+cloud: nube 
+cold: frío 
+come: vir | bir	vir 
+correct: corrixir | correcto 
+count: contar 
+cut: cortar 
+day: día 
+die: morrer | morer	morrer 
+dig: cavar 
+dirty: sucio | lixoso 
+dog: can | can	kan 
+drink: beber 
+dry: seco 
+dull: parvo | pesado | cego 
+dull: romo | pesado | cego 
+dust: po 
+ear: orella | orELa	orella 
+earth: terra 
+eat: comer 
+egg: ovo 
+eye: ollo | oLo	ollo 
+fall: caer 
+far: lonxe 
+father: pai 
+fat (n.): graxa 
+fear: medo | temer 
+feather: pluma 
+few: pouco 
+fight: loitar 
+fingernail: unlla | uña 
+fire: lume 
+fish: peixe | pEiSe	peixe 
+five: cinco 
+float: aboiar | flotar 
+flower: flor 
+flow: fluir | fluír 
+fly (v.): voar 
+fog: néboa 
+foot: pé 
+forest: fraga | bosque	monte 
+four: catro 
+freeze: conxelar | conxelar	xear 
+fruit: froita | froita	froito 
+full: cheo | Ceo	cheo 
+give: dar 
+good: bo 
+grass: herba 
+green: verde 
+hair: pelo 
+hand: man 
+head: cabeza 
+hear: oír | oir	oír 
+heart: corazón 
+heavy: pesado 
+he: el 
+here: aquí 
+hit: bater 
+hold: soster | soster	termar 
+horn: corno | corno	korno 
+how: cómo | como 
+hunt: cazar 
+husband: marido | esposo	home	marido 
+ice: xeo 
+I: eu 
+if: se 
+in: en 
+kill: matar 
+knee: xeonllo | SeonLo	xeonllo 
+know: saber 
+lake: lago 
+laugh: rir 
+leaf: folla | foLa	folla 
+left: esquerda 
+leg: perna 
+lie: mentir | estar deitado 
+liver: fígado | figado	fígado 
+live: vivir 
+long: longo 
+louse: carracho | pioLo	piollo 
+man: home | home	ome 
+many: moitos 
+meat: carne 
+moon: lúa 
+mother: nai | mai	nai 
+mountain: montaña | monta5a	monte 
+mouth: boca 
+name: nome 
+narrow: estreito 
+near: preto 
+neck: pescozo 
+new: novo | nobo	novo 
+night: noite 
+nose: nariz | nari8	nariz 
+not: non 
+old: vello 
+one: un 
+other: outro 
+person: persoa | home	ome 
+play: xogar 
+pull: tirar 
+push: empuxar 
+rain: choiva | chuvia 
+rain: chuvia 
+red: vermello 
+right: dereita | man 
+river: río 
+road: estrada | Estrada	estrada 
+root: raíz 
+rope: corda 
+rotten: podre 
+round: redondo 
+rub: frotar | fretar 
+salt: sal 
+sand: area 
+say: dicir | area 
+scratch: raiar | rabuñar 
+scratch: rascar | rabuñar 
+sea: mar 
+seed: semente 
+see: ver | ber	ver 
+sew: coser 
+sew: zurzir | coser 
+sharp: agudo | afiado 
+short: curto 
+sing: cantar 
+sit: sentar 
+skin: pel | pEl	pel 
+sky: ceo 
+sleep: durmir 
+small: pequeno 
+smell: recender | cheirar 
+smoke: fume 
+smooth: suave 
+snake: serpe | cobra	serpe 
+snow: neve 
+some: algún 
+spit: cuspir 
+split: partir 
+squeeze: aplastar | apertar 
+stab: apuñalar 
+stand: estar | estar de pé 
+star: estrela | Estrela	estrela 
+stick: pau | pau	vara 
+stone: pedra | pEdra	pedra 
+straight: dereito | recto 
+suck: chupar 
+sun: sol 
+swell: inflar | inchar 
+swim: nadar 
+tail: rabo 
+that: ese | un 
+there: alí 
+they: eles 
+thick: groso 
+thin: fino | delgado	fraco 
+think: pensar 
+this: este 
+thou: ti 
+thou: tu | ti 
+thou: vostede | ti 
+three: tres 
+throw: a través de | tirar 
+tie: atar 
+tongue: lingua | liNgw~a	lingua 
+tooth: dente | dEnte	dente 
+tree: árbore | arbore	árbore 
+turn: volver | virar 
+two: dous | dous	dúas 
+vomit: trousar | vomitar 
+walk: andar | andar	camiñar 
+warm: morno | quente 
+wash: lavar 
+water: auga 
+we: nós | nos	nós 
+wet: húmido 
+what: qué | que 
+when: cándo | cando 
+where: ónde | onde	ú 
+white: branco 
+who: quén | quen 
+wide: ancho | largo 
+wife: esposa | esposa	muller 
+wind: vento 
+wing: á 
+wipe: limpar 
+with: con 
+woman: muller 
+worm: verme | miñoca	verme 
+year: ano 
+yellow: amarelo 
+you: vós | ti 
+every: todo 
+ash: cinza 
+ashes: cinza 
+abdomen: barriga 
+bigness: grande 
+large: grande 
+breasts: pEito	peito 
+come from: bir	vir 
+be dead: morer	morrer 
+dead: morer	morrer 
+ground: terra 
+land: terra 
+soil: terra 
+fly: voar 
+fly v.: voar 
+left hand: man 
+1 sg.: eu 
+be knowledgeable: saber 
+head louse: pioLo	piollo 
+male: home 
+much: moitos 
+multiple: moitos 
+several: moitos 
+hill: monta5a	monte 
+title: nome 
+nighttime: noite 
+adulterous: un 
+single: un 
+the: un 
+unprincipled: un 
+human: home	ome 
+human being: home	ome 
+rainy weather: chuvia 
+path: Estrada	estrada 
+route: Estrada	estrada 
+hide: pEl	pel 
+little: pequeno 
+smallness: pequeno 
+rock: pEdra	pedra 
+2 sg: ti 
+grind: dous	dúas 
+go: andar	camiñar 
+hot: quente 
+1 pl. inc.: nos	nós 
+we₁: nos	nós 
+whiteness: branco 
+who?: quen 
+female: muller 
+distant: lonxe 
+serious: pesado 
+close: preto 
+ner: preto 
+earthworm: miñoca	verme 
+3 sg.: el 
+she: el 
+2 pl.: vós 
+ye: vós 
+you all: vós 
+3 pl.: eles 
+where?: onde	ú 
+when?: cando 
+how?: como 
+broad: largo 
+wideness: largo 
+fat: graxa 
+principal wife: esposa	muller 
+his mother: mai	nai 
+my mother: mai	nai 
+his father: pai 
+my father: pai 
+woods: bosque	monte 
+branch: pau	vara 
+cord: corda 
+flesh: carne 
+grease: graxa 
+claw: uña 
+nail: uña 
+arm: man 
+gut: tripas 
+guts: tripas 
+insides: tripas 
+intestine: tripas 
+intestines: tripas 
+breath: respirar 
+laughter: rir 
+cogitate: pensar 
+reflect: pensar 
+sniff: cheirar 
+afraid: temer 
+be afraid: temer 
+fright: temer 
+alive: vivir 
+be alive: vivir 
+life: vivir 
+living: vivir 
+beat: bater 
+strike: bater 
+hack: cortar 
+cut open: partir 
+pierce: apuñalar 
+lie down: estar deitado 
+tell lies: estar deitado 
+turn around: virar 
+turn round: virar 
+drop: caer 
+grasp: soster	termar 
+hold in arm: soster	termar 
+wring: apertar 
+wash clothes: lavar 
+push: puxar 
+shove: puxar 
+bind: atar 
+fasten: atar 
+tie up: atar 
+enumerate: contar 
+number: contar 
+tally: contar 
+have fun: xogar 
+brook: río 
+stream: río 
+ocean: mar 
+blaze: queimar 
+daylight: día 
+daytime: día 
+evil: malo 
+rot: podre 
+filthy: lixoso 
+soiled: lixoso 
+blunt: cego 
+damp: húmido 
+right side: dereita 
+inside: en 

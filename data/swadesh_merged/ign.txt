@@ -1,0 +1,290 @@
+all: -mutu 
+every: -mutu 
+ash: c̷imapa 
+ashes: c̷imapa 
+bark: ʼtaumama	ʼtaumama-ki 
+big: ičape	ičape-puʔi 
+bigness: ičape	ičape-puʔi 
+large: ičape	ičape-puʔi 
+bird: ʼkayure 
+bite: -nihuraka	-nika 
+black: tikisa 
+blood: -ʼiti-ne	iti	itine 
+bone: hiape	yape 
+cloud: ʼukahi 
+cold: tikasaraʔi 
+come: -kaʔepaipa	-ʼiteka	iteka	ka7epaipa 
+come from: -kaʔepaipa	-ʼiteka	iteka	ka7epaipa 
+be dead: -ʼepena	epena 
+dead: -ʼepena	epena 
+die: -ʼepena	epena 
+dog: tamuku 
+drink: -era	era 
+dry: -ʼahaʔa	-ʼahihika 
+ear: -čaka	Caka 
+earth: apakeʔe	ʼmatehi 
+ground: apakeʔe	ʼmatehi 
+land: apakeʔe	ʼmatehi 
+soil: apakeʔe	ʼmatehi 
+eat: -nika 
+egg: tasaruʔa	warayuʔa 
+eye: -ʼukiʔa	uki7a 
+feather: tahiyaʔa 
+fire: -yuku-ne	yuku	yukune 
+fish: hima 
+fly: -ara 
+fly v.: -ara 
+foot: -ʼi-wape 
+full: -ʼinika-ča	inikaCa 
+give: -ʼiharaka 
+good: -uri	tiuri 
+green: were 
+hair: -čuti-maka 
+hand: -waʔu	wa7u 
+left hand: -waʔu	wa7u 
+right: -waʔu	wa7u 
+head: -čuti 
+hear: -sama	sama 
+heart: -samure 
+horn: tahi7u	tahiʔu 
+1 sg.: nuti	ʼnu-ti 
+I: nuti	ʼnu-ti 
+kill: -kapa	-kapa-reka 
+knee: -puyu	puyu 
+be knowledgeable: -eča	-ʼimati	-ʼimatiaka 
+know: -eča	-ʼimati	-ʼimatiaka 
+leaf: tapakahi 
+lie: -ʼiweka 
+lie down: -ʼiweka 
+liver: -ʼupana	upana 
+long: tiʼuki	ʼtaupaʔiwa 
+head louse: -iɲe	i5e	i5eti	iɲe-ti 
+louse: -iɲe	i5e	i5eti	iɲe-ti 
+male: ahaira	ačane 
+man: aCane	aCaneana	ačane	ačane-ana 
+many: kamuri	mawera 
+much: kamuri	mawera 
+multiple: kamuri	mawera 
+several: kamuri	mawera 
+flesh: -eče 
+meat: -eče 
+moon: kahe 
+hill: mari	masi7i	masiʔi 
+mountain: mari	masi7i	masiʔi 
+mouth: -haka 
+name: -ʼihare	-ʼiharu	ihare	iharu 
+title: -ʼihare	-ʼiharu	ihare	iharu 
+neck: -pikenu 
+new: arairu 
+night: yati 
+nighttime: yati 
+nose: -siri	siri 
+adulterous: etaki	etana	étana 
+one: etaki	etana	étana 
+single: etaki	etana	étana 
+that: etaki	etana	étana 
+the: etaki	etana	étana 
+unprincipled: etaki	etana	étana 
+human: aCane	aCaneana	ačane	ačane-ana 
+human being: aCane	aCaneana	ačane	ačane-ana 
+person: aCane	aCaneana	ačane	ačane-ana 
+rain: takiwa-rama 
+rainy weather: takiwa-rama 
+red: tic̷i 
+path: aCene	isawikureka 
+road: aCene	isawikureka 
+route: aCene	isawikureka 
+root: tapare 
+round: amairiki 
+sand: tawaparu 
+say: -kaʔe	-metaka	-ʼiča 
+see: -ʼimaʔa	ima7a 
+seed: -ʼewaraki	-ʼewaru	taki 
+sit: -ʼehaka 
+hide: -ʼumama	paruma	umama 
+skin: -ʼumama	paruma	umama 
+sleep: -ʼimaka 
+little: ičipiču 
+small: ičipiču 
+smallness: ičipiču 
+smoke: kihare 
+star: harairiki 
+rock: mari	mariha7i	ʼmari-haʔi 
+stone: mari	mariha7i	ʼmari-haʔi 
+sun: saCe	sače 
+swim: -ʼawareka 
+tail: ʼtaihiki 
+2 sg: piti	ʼpi-ti 
+thou: piti	ʼpi-ti 
+you: piti	ʼpi-ti 
+tongue: -nene	nene 
+tooth: -aʔe	a7e 
+tree: yukuki 
+grind: apiki	apina	apipe 
+two: apiki	apina	apipe 
+go: -paika	-pairirika 
+walk: -paika	-pairirika 
+hot: ʼtihurarama	ʼtihure 
+warm: ʼtihurarama	ʼtihure 
+water: une 
+1 pl. inc.: witi 
+we: witi 
+we₁: witi 
+what: ʼtahaʔa 
+white: tihapu 
+whiteness: tihapu 
+who: ʼnahaʔa 
+who?: ʼnahaʔa 
+female: esena 
+woman: esena 
+yellow: enaʔame	tiyakaka 
+distant: tiʼupaʔi 
+far: tiʼupaʔi 
+dull: tihitakare 
+heavy: tihitakare 
+serious: tihitakare 
+salt: -ʼičewe-ra	ičewe 
+short: ʼčutupi 
+snake: epačepare	pačepare 
+thin: ec̷enaru 
+wind: ʼtekatikawa 
+earthworm: učepi 
+worm: učepi 
+year: aɲu	pa 
+2 pl.: ʼe-ti	ʼetiana 
+ye: ʼe-ti	ʼetiana 
+you all: ʼe-ti	ʼetiana 
+3 pl.: ʼe-na 
+they: ʼe-na 
+where: ʼtawiʔa	ʼtawiʔapuka 
+where?: ʼtawiʔa	ʼtawiʔapuka 
+when: ʼtahamuʔu 
+when?: ʼtahamuʔu 
+few: apaesa	ʼanimuri 
+three: mapaki	mapana	mapapi 
+four: cuátru	ki	ʔi 
+five: cíncu	ʼsinku 
+broad: ičape	ičapeme 
+wide: ičape	ičapeme 
+wideness: ičape	ičapeme 
+fat: -sinanewa	-ʼuhewa 
+thick: ičapepi	tiʼmitutu 
+narrow: ʼanikučiča	ʼaničiča 
+child: amuya 
+principal wife: -yena	ʼyena-re 
+wife: -yena	ʼyena-re 
+husband: -ima	-ima-re 
+his mother: -ʼena	meme 
+mother: -ʼena	meme 
+my mother: -ʼena	meme 
+father: -iya	tikačiča	ʼiyare 
+his father: -iya	tikačiča	ʼiyare 
+my father: -iya	tikačiča	ʼiyare 
+animal: ʼsarare 
+forest: simena 
+woods: simena 
+branch: tatawa 
+stick: tatawa 
+fruit: taʔi 
+flower: flure 
+grass: iharehi	muihi 
+cord: enure 
+rope: enure 
+grease: -sinanewa	-ʼuhewa 
+claw: -hipaɲa 
+fingernail: -hipaɲa 
+nail: -hipaɲa 
+leg: -paike 
+wing: tapawa 
+gut: -turupi 
+guts: -turupi 
+insides: -turupi 
+intestine: -turupi 
+intestines: -turupi 
+back: -keku	-čepa 
+suck: -čučuka 
+spit: -ʼatuture	-ʼatutuʼika 
+vomit: -ʼaʔika	ʼaʔiruʔa 
+blow: -ʼačahuka 
+breath: -tumewa	-ʼamiča 
+breathe: -tumewa	-ʼamiča 
+laugh: -ʼekawa 
+laughter: -ʼekawa 
+cogitate: -panereka 
+reflect: -panereka 
+think: -panereka 
+smell: -hiuka	-hiukaʔaka 
+sniff: -hiuka	-hiukaʔaka 
+afraid: -pika	ʼtiɲeʔiča 
+be afraid: -pika	ʼtiɲeʔiča 
+fear: -pika	ʼtiɲeʔiča 
+fright: -pika	ʼtiɲeʔiča 
+alive: -ʼitaresira 
+be alive: -ʼitaresira 
+life: -ʼitaresira 
+live: -ʼitaresira 
+living: -ʼitaresira 
+fight: -ʼeʔakaka	-ʼeʔarareka 
+hunt: -pairirika 
+beat: -ʼeʔameka 
+hit: -ʼeʔameka 
+strike: -ʼeʔameka 
+cut: -ʼečuka 
+hack: -ʼečuka 
+cut open: -ʼeheka	-ʼehereka 
+split: -ʼeheka	-ʼehereka 
+pierce: -ʼečatikureka 
+stab: -ʼečatikureka 
+dig: -seka	-sekakureka 
+tell lies: -wayuaka	-ʼepiyara 
+turn: -ʼewiuruka 
+turn around: -ʼewiuruka 
+turn round: -ʼewiuruka 
+drop: -ʼakipaikawa 
+fall: -ʼakipaikawa 
+squeeze: -kapitihika 
+wring: -kapitihika 
+rub: -ʼapaturuaka 
+wipe: -ʼapaturuaka 
+wash: -kasipa 
+wash clothes: -kasipa 
+push: -ʼapahueka	-ʼapahuka 
+shove: -ʼapahueka	-ʼapahuka 
+bind: -ʼitiaka	-ʼitiareka 
+fasten: -ʼitiaka	-ʼitiareka 
+tie: -ʼitiaka	-ʼitiareka 
+tie up: -ʼitiaka	-ʼitiareka 
+sew: -paririka 
+sing: -hira 
+have fun: -kawiharu	-ʼuc̷eru 
+play: -kawiharu	-ʼuc̷eru 
+brook: kahakure 
+river: kahakure 
+stream: kahakure 
+lake: ʼkakiure 
+dust: tiripupaʔi 
+fog: iyaru 
+sky: anuma 
+blaze: -muru 
+burn: -muru 
+day: sače 
+daylight: sače 
+daytime: sače 
+bad: ʼwainarahikene 
+evil: ʼwainarahikene 
+rot: -ka-muyu-ka	-muyu 
+rotten: -ka-muyu-ka	-muyu 
+dirty: tičipeʔa	ʼmaeperahi 
+filthy: tičipeʔa	ʼmaeperahi 
+soiled: tičipeʔa	ʼmaeperahi 
+straight: tatupiru	titupina 
+sharp: tikasiriʔi 
+smooth: timahu 
+damp: -nanahi 
+wet: -nanahi 
+correct: tatupiru 
+left: sapa 
+in: amaʔe	te tahuʔe 
+inside: amaʔe	te tahuʔe 
+if: te 
+because: apaesa	pasa	taiča 

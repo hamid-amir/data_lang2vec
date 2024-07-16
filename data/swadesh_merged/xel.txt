@@ -1,0 +1,346 @@
+all: moːɗi 
+all: wiriːdi | moːɗi 
+ashes: tɔːdɔ 
+back: ɔːyə 
+bad: wəya 
+bark: kəfɔllo | səba 
+bark: səba 
+because: əssababai 
+belly: ɛle 
+belly: ɛlle | ɛle 
+big: amadenə 
+big: yaːmədɛlʲ | amadenə 
+bird: mɛɟe˗ | mɛɟe- 
+bird: mɪɟɛ ~ mɪɟʔe | mɛɟe- 
+bite: siːɓ˗əze | siːɓ-əze 
+bite: siːb˗i | siːɓ-əze 
+black: eːrɔ | ɔrrɔ	ɔyyɔwa 
+black: ɔrɔwa | ɔrrɔ	ɔyyɔwa 
+black: ɔrrɔ ~ ɔyyɔwa | ɔrrɔ	ɔyyɔwa 
+blood: gyeːba 
+blood: gyeːfa | gyeːba 
+blow: piːŋ 
+bone: əmma | ora-	əmma 
+bone: gaːmuː˗ŋga | ora-	əmma 
+bone: ora˗ | ora-	əmma 
+boy: ɲeːla 
+breast: aːbbi | əwiːdi	əwiːdɪ 
+breast: əwiːdi ~ əwiːdɪ | əwiːdi	əwiːdɪ 
+breathe: sɔːʔi 
+brother: ɲeːdɛ˗na 
+burn: aːrrebe 
+burn: ɔ˗ɲɛm 
+claw: mʊsʊ 
+claw: mɪsɛ | mʊsʊ 
+cloud: aːguːyu 
+cloud: rrəŋgu | aːguːyu 
+cold: eːɟɪ | əɟi 
+cold: əɟi 
+come: laːgo | laːŋ	ɔya 
+come: laːŋ | laːŋ	ɔya 
+come: ɔya | laːŋ	ɔya 
+cut: arbi 
+cut: weː˗e 
+cut: wei 
+die: duːrri | tui	tʊːri 
+die: tiːwa | tui	tʊːri 
+die: tʊːri | tui	tʊːri 
+die: tui | tui	tʊːri 
+dig: kəlləⁿ 
+dirty: wasxan 
+dog: kəlɪ 
+dog: kɛlɪ | kəlɪ 
+drink: mɪdi | məɗ-ea 
+drink: məɗ˗ea | məɗ-ea 
+dry: kɛːgɛbe | kekɛbe	kyekyɛbe 
+dry: kekɛbe ~ kyekyɛbe | kekɛbe	kyekyɛbe 
+ear: siːdi 
+ear: si˗zi ~ ɪn˗zi | siːdi 
+earth: kɔyɔ 
+eat: ɲəm 
+eat: ɲiːmʲ | ɲəm 
+egg: am(m)ɔi | əndi 
+egg: əndi 
+elbow: tɔʔɔlɔ 
+eye: ɛːdi 
+eye: iːn˗eːrə | ɛːdi 
+face: kədraːmu 
+fall: bʊdia 
+fall: pʊdia 
+far: yʊːŋ 
+fat (n.): aɲo 
+fat (n.): kəba 
+fear: lɛːɟəm 
+fear: ləwdi 
+feather: pɔːdo | pɔtɔ 
+feather: pɔtɔ 
+few: kɛɗɛɲɛle 
+fire: ma 
+fire: maʔa 
+fish: uː 
+fish: uː\de 
+five: ɔssʊmə 
+fly (n.): ɛːɟ˗e 
+fly (n.): gɛɟe 
+fly (v.): piri 
+foot: lʊ | ludɪ	ludɪŋərane 
+foot: ludɪ(ŋərane) | ludɪ	ludɪŋərane 
+forest: ˗ŋine 
+forest: tilɔːseːli 
+four: ləlɔs ~ lɔlɔzə 
+full: tuːdu ~ duːdu | duːdu	tuːdu 
+girl: abɛra 
+give: aːnsi 
+give: bi | aːnsi 
+good: waːr | wəːdi 
+good: wəːdi 
+grass: ɔːsɔ 
+grass: ɔssɔ 
+green: eːkeːrə | -ɟeriyə 
+green: ˗ɟeriyə | -ɟeriyə 
+guts: ɲəwəlida 
+hair: ɟʔəŋge | ɔɲə 
+hair: ɔɲə 
+hand: cɔrɔ ~ sɔrɔ | cɔye 
+hand: cɔye 
+head: ɔla 
+head: ɔːla | ɔla 
+hear: assini | ʊssine 
+hear: ʊssine 
+heart: iːyo | iyɔ 
+heart: iyɔ 
+heavy: liɟə ~ lidyə | lidyə	liɟə 
+here: ta 
+hit: ɛddɪbi 
+hit: əddɪbi 
+horn: gʊsuːli | kʊsʊl-tə 
+horn: kʊsʊl˗tə | kʊsʊl-tə 
+house: gama 
+house: kɛːme 
+how: kyɛŋ 
+I: əŋ 
+I: ɪŋgi | əŋ 
+kill: bɔːsi | bɔːzi	pɔːzi 
+kill: pɔːzi ~ bɔːzi | bɔːzi	pɔːzi 
+knee: kʊsʊ 
+knee: kʊsu | kʊsʊ 
+know: aːr | aːr	kʷɔyə	əːy 
+know: kɔːrmi | aːr	kʷɔyə	əːy 
+know: kʷɔyə ~ əːy | aːr	kʷɔyə	əːy 
+laugh: ɲeːdən 
+leaf: kəbəro | kəca siːti 
+leaf: kəca siːti 
+left: ˗kənbiyə 
+live: beːbea 
+live: əːbbi 
+liver: teː | teːte 
+liver: teːte 
+long: ɔlʊʔu 
+long: uːluwe | ɔlʊʔu 
+louse: aɲi 
+louse: əːɲə 
+man: amɔlɔra | aːmɔl-i 
+man: amoːlorɔŋ | aːmɔl-i 
+many: leʔa 
+many: leːʔa ~ liaʔ | leʔa 
+meat: kɔːkɔ 
+meat: ɔʔɔ 
+moon: aqa | aʔʊwa 
+moon: aʔʊwa 
+mountain: bela 
+mountain: beːla ~ bɛla | bela 
+mouth: ʊdu 
+name: ɪŋgi | siːgə 
+name: siːgə 
+near: leːŋ 
+neck: ŋaːlu 
+new: aːyara | ayaya 
+new: ayaya 
+night: ɔːrɔ | ɔrrɔ	ɔyyɔwa 
+night: ɔrrɔ ~ ɔyyɔwa | ɔrrɔ	ɔyyɔwa 
+not: mɔsi 
+old: gadiːm 
+old: uːllə 
+one: loːdi | lōdi	lɔːdi 
+one: lɔːdi | lōdi	lɔːdi 
+other: maːnɛ 
+person: amiːlu | aːmɔl-i 
+person: aːmɔl˗i | aːmɔl-i 
+person: ba | aːmɔl-i 
+person: fa | aːmɔl-i 
+pull: ɔːi ~ tiːbaːŋa 
+push: kaʔaːsi 
+rain: guːɟe | guɟə	kuɟə 
+rain: guɟə | guɟə	kuɟə 
+rain: kuɟə | guɟə	kuɟə 
+rat: ti˗a 
+red: bura | tɔyəŋ 
+red: tɔyəŋ 
+right: ˗ɗə\ga | cɔye 
+river: pɔ 
+river: teːli 
+road: aːma 
+root: addawa | adʼdəwa 
+root: ad\dəwa | adʼdəwa 
+rope: kʊl˗ʊa 
+rotten: buːdi 
+rub: abbɛɟe 
+salt: kaːko 
+sand: cɛːŋa ~ ky˗cɛːŋa | cɛːŋa	ky-cɛːŋa 
+sand: kɛrɛŋ(g)a | cɛːŋa	ky-cɛːŋa 
+say: ʊlli | wanza	ʊlli 
+say: ɪlli | wanza	ʊlli 
+say: wanza | wanza	ʊlli 
+scratch: ɗyeɗyɛne 
+see: aːr˗ | aːr-	əːy 
+see: aːri | aːr-	əːy 
+seed: aɟɟɛnɛ | teːrəb 
+seed: teːrəb 
+see: əːy | aːr-	əːy 
+sew: muːdi ~ moːde 
+sharp: pʊrrɔ 
+short: ɓʊdullu 
+shoulder: ɛl˗bɔr 
+sister: mɔːne 
+sister: mɔːyɛ 
+sit: aːbbɪzi | ɛbbɛʼsi	ʔɛbbɛʼsi 
+sit: (ʔ)ɛbbɛ\si | ɛbbɛʼsi	ʔɛbbɛʼsi 
+skin: kɔkɔːne 
+skin: səːba | kɔkɔːne 
+sky: yəmbʊm ~ yʊmbʊm 
+sleep: ɗɛːɗɗɛse 
+sleep: ɗeːsi | ɗɛːɗɗɛse 
+small: eːgiə | giːa 
+small: giːa 
+smoke: bʊru | pʊyu 
+smoke: pʊyu 
+smooth: tɔːdi 
+snake: maːla 
+spit: aːbbesia 
+spit: təʔal 
+squeeze: ɗɛmɪsiyə 
+stand: aːmmi 
+stand: kʷəʔi 
+star: maceːra | maːɟu-wa	maːɟu-weya 
+star: maːɟu˗w(ey)a | maːɟu-wa	maːɟu-weya 
+stone: bela 
+stone: beːla ~ bɛla | bela 
+straight: adiːl 
+sun: ɓiːdi 
+sweet: kɛydi 
+swell: ɛssəi 
+swim: pɔŋgui | uːmaŋ 
+swim: uːmaŋ 
+tail: pɔi 
+tail: pʊri | pɔi 
+take: tiːbəⁿ ~ t\iːɓa 
+that: ˗i(gai) | -i	-igai 
+that: ʔiʔi | -i	-igai 
+there: tiː 
+thin: ɓəɗɔyə | ɓɔdʊlu	ɓəɗɔyə 
+thin: ɓɔdʊlu | ɓɔdʊlu	ɓəɗɔyə 
+thin: ɗeːɗe | ɓɔdʊlu	ɓəɗɔyə 
+think: fəkkərəŋ 
+this: ˗eʔ | -eʔ	ɛgəi 
+this: ɛgəi | -eʔ	ɛgəi 
+this: ˗ʔi | -eʔ	ɛgəi 
+thorn: kiːʔi 
+thou: in 
+thou: ɪni | in 
+thou: uː | in 
+thou: uːsu | in 
+three: eːdɛ 
+three: əːdə 
+throw: pʊrsi 
+tie: mɔːe 
+tomorrow: assaba 
+tongue: kəla 
+tooth: ɲi˗di | ɲiː-di 
+tooth: ɲiː˗di | ɲiː-di 
+tree: kəca 
+turn: ɟiŋidən 
+turn: ŋaːbi 
+two: wadi | waːdi	wāti 
+two: waːdi | waːdi	wāti 
+vagina: ŋaːy˗ə 
+walk: ɓa ~ ɓi 
+walk: ɓəi 
+walk: ɓeːri ~ bɛria 
+warm: lua 
+warm: luːi | lua 
+water: kiː | kiʔi 
+water: kiʔi 
+weep: geːʔɟɛne 
+we: əy 
+we: iːɟe 
+wet: aɓɓu\ɟɛnəm 
+wet: t\ɛt\ai 
+what: ɲi ~ nani | nani	ɲi 
+what: ɲine | nani	ɲi 
+when: ɲuːre 
+when: ʊyu 
+where: intə 
+where: ɪnda 
+white: bɔ 
+white: eːbo | bɔ 
+who: ka˗ | na-ŋai 
+who: na˗ŋai | na-ŋai 
+who: ŋai | na-ŋai 
+wind: ɔːbɔ 
+woman: amelɛːmɛn | amɔlɔʔɪŋ 
+woman: amɔlɔʔɪŋ 
+woman: baː˗imi | amɔlɔʔɪŋ 
+woman: faː˗miŋ | amɔlɔʔɪŋ 
+wood: kɔdi˗a 
+year: ɛssəna 
+yellow: beːbɛ | kɛriyə 
+yellow: kɛriyə 
+yesterday: mɔːɟəŋ 
+yes: wəlle ~ wiːli 
+every: moːɗi 
+ash: tɔːdɔ 
+abdomen: ɛle 
+bigness: amadenə 
+large: amadenə 
+breasts: əwiːdi	əwiːdɪ 
+nail: mʊsʊ 
+talon: mʊsʊ 
+come from: laːŋ	ɔya 
+be dead: tui	tʊːri 
+dead: tui	tʊːri 
+fly: piri 
+fly v.: piri 
+left hand: cɔye 
+1 sg.: əŋ 
+be knowledgeable: aːr	kʷɔyə	əːy 
+male: amɔlɔra 
+much: leʔa 
+multiple: leʔa 
+several: leʔa 
+hill: bela 
+title: siːgə 
+nighttime: ɔrrɔ	ɔyyɔwa 
+nose: ʊ-muːdi 
+adulterous: lōdi	lɔːdi 
+single: lōdi	lɔːdi 
+the: lōdi	lɔːdi 
+unprincipled: lōdi	lɔːdi 
+human: aːmɔl-i 
+human being: aːmɔl-i 
+rainy weather: guɟə	kuɟə 
+hide: kɔkɔːne 
+little: giːa 
+smallness: giːa 
+rock: bela 
+2 sg: in 
+you: in 
+grind: waːdi	wāti 
+hot: lua 
+whiteness: bɔ 
+who?: na-ŋai 
+female: amɔlɔʔɪŋ 
+distant: yʊːŋ 
+dull: lidyə	liɟə 
+serious: lidyə	liɟə 
+close: leːŋ 
+ner: leːŋ 

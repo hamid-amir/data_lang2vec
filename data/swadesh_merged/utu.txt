@@ -1,0 +1,409 @@
+all: ite | itɛ 
+all: itɛ 
+arm: zevu- 
+arm: zɛvu- 
+arrow: agur 
+ashes: iëg | lʌg	maup	paːb 
+ashes: lʌg | lʌg	maup	paːb 
+ashes: maup | lʌg	maup	paːb 
+ashes: pa:b | lʌg	maup	paːb 
+ashes: paːb | lʌg	maup	paːb 
+back: ehu- 
+back: ɛhu- 
+back: sume- 
+back: sumɛ- 
+bad: na: 
+bad: naː 
+belly: o- 
+belly: si- | o- 
+big: mena | mɛna 
+big: mɛna 
+bird: a:y | aːy 
+bird: aːy 
+bite: em- | ɛm- 
+bite: ɛm- 
+black: maup 
+blood: ti- | ti	ti- 
+blow: omët- 
+blow: omʌt- 
+bone: epe- | EpE	ɛpɛ- 
+bone: ɛpɛ- | EpE	ɛpɛ- 
+boy: danën porup 
+boy: nanʌn porup 
+breast: awa 
+brother: oinëka 
+brother: oinʌka 
+brother: omu- 
+brother: ou- 
+burn: matar- 
+butterfly: bivorip 
+calf: usi- 
+cassowary: iwar 
+chest: gema- 
+chest: gɛma- 
+child: nʌ 
+child: në 
+chin: age- 
+chin: agɛ- 
+cloud: ewam | ɛwam 
+cloud: ɛwam 
+cold: ufëg | ufʌg 
+cold: ufʌg 
+come: sin- | sin	sin- 
+crocodile: wa:ga 
+crocodile: waːga 
+cut: ʔo- 
+cut: o- 
+cut: tug- 
+dance: avi ra- 
+day: aruto 
+day: tohu 
+die: nam- | nam	nam- 
+dig: ar- 
+dig: fom- 
+dirty: dusin 
+dog: pay 
+dry: arara(wa) | arara	ararawa 
+ear: dau- | dau	dau- 
+earth: ep | ɛp 
+earth: ɛp 
+eat: wag- | zaun- 
+eat: zaun- 
+egg: muna:n | munaːn 
+egg: munaːn 
+elbow: gusisi 
+emu: iwar 
+excrement: si 
+eye: amu- | amu	amu- 
+face: ure- 
+face: urɛ- 
+fall: o- 
+fall: ohar- 
+far: epme | ɛpmɛ 
+far: ɛpmɛ 
+father: aya 
+father: memu- 
+father: mɛmu- 
+fat (n.): nagu 
+fear: wato- 
+few: osagosag 
+fight: mami- 
+finger: mipanup 
+fingernail: poasin 
+fingernail: ʔpoasin 
+fire: enap | Enap	ɛnap 
+fire: ɛnap | Enap	ɛnap 
+fish: enuk | Enuk	gar3r	garrʌrr	ɛnuk 
+fish: ɛnuk | Enuk	gar3r	garrʌrr	ɛnuk 
+fish: garër | Enuk	gar3r	garrʌrr	ɛnuk 
+fish: garrʌrr | Enuk	gar3r	garrʌrr	ɛnuk 
+fly (n.): painda 
+fly (v.): ug- 
+fog: fur 
+forehead: ure- 
+forest: seik 
+forest: sɛik 
+fruit: auk 
+full: ambzo- | ambzo-	amb~zo 
+full: vet- | ambzo-	amb~zo 
+full: vɛt- | ambzo-	amb~zo 
+girl: meha magun 
+girl: mɛha magun 
+give: nɛ- 
+give: ø-/ne- | nɛ- 
+good: borup 
+grass: imer 
+green: ezok | ɛzok 
+green: ɛzok 
+guts: si- 
+hair: urug 
+head: mogop n | tɛvu- 
+head: tevu- | tɛvu- 
+head: tɛvu- 
+hear: do- | do	do- 
+heavy: una 
+here: ge 
+here: ne 
+here: nɛ 
+he/she: -ag 
+he/she: -k 
+he/she: -n 
+he/she: nuk 
+he/she: -ø 
+he/she: -ø- 
+he/she: -r- 
+hit: mami- 
+hold: ët- 
+hold: ʌt- 
+house: za 
+how: alipok 
+I: -i | sEk	sɛk 
+in: rip 
+I: -ø | sEk	sɛk 
+I: sek | sEk	sɛk 
+I: sɛk | sEk	sɛk 
+I: -zer- | sEk	sɛk 
+I: -zɛr- | sEk	sɛk 
+kill: kwo- 
+knee: gete- | gEtE	gɛtɛ- 
+knee: gɛtɛ- | gEtE	gɛtɛ- 
+laugh: im- 
+left: namba 
+leg: fa- 
+lightning: ep bir- 
+lightning: ɛp bir- 
+liver: gemu- | gEmu	gɛmu- 
+liver: gɛmu- | gEmu	gɛmu- 
+long: duru:g | duruːg 
+long: duruːg 
+louse: mi 
+man: dan 
+man: dana 
+man: gon | dan 
+many: kwait 
+meat: un 
+moon: nava 
+morning: evirum 
+morning: ɛvirum 
+morning: priëri 
+morning: priʌri 
+mosquito: ipi 
+mother: awa 
+mother: nu- 
+mountain: ererum | ErErum	iː	ɛrɛrum 
+mountain: ɛrɛrum | ErErum	iː	ɛrɛrum 
+mountain: i: | ErErum	iː	ɛrɛrum 
+mountain: iː | ErErum	iː	ɛrɛrum 
+mouth: ove- | ovɛ- 
+mouth: ovɛ- 
+name: vani- | vani	vani- 
+nape: doëri- 
+nape: doʌri- 
+navel: yu- 
+near: turi 
+neck: fa- ër | fa- ʌr 
+neck: fa- ʌr 
+new: ezog | Ezog	ɛzog 
+new: ɛzog | Ezog	ɛzog 
+night: evosom | Evosom	ɛvosom 
+night: ɛvosom | Evosom	ɛvosom 
+nose: nome- | nomE	nomɛ- 
+not: kwituk 
+not: pi 
+old: egermëla 
+old: ɛgɛrmʌla 
+old: mehur 
+old: mɛhur 
+one: oisak 
+pull: dato- 
+push: ameno- 
+rain: va 
+rat: parum 
+red: epër | ɛpʌr 
+red: ɛpʌr 
+right: dupa 
+ripe: epër 
+ripe: ɛpʌr 
+road: irimen | irimEn 
+road: irimɛn | irimEn 
+root: si:k | siːk 
+root: siːk 
+rope: oːr 
+salt: u: | uː 
+salt: uː 
+sand: bahur | mai 
+sand: mai 
+say: a- + "give | a- nɛ- 
+say: an- | a- nɛ- 
+say: a- nɛ- 
+say: m- | a- nɛ- 
+scratch: pag- 
+sea: siman 
+see: ave- | avE	avɛ- 
+see: avɛ- | avE	avɛ- 
+see: ok- | avE	avɛ- 
+sharp: aug 
+sharp: fas- 
+short: omëtu | omʌtu 
+short: omʌtu 
+shoulder: uze- 
+shoulder: uzɛ- 
+sing: avi ver- 
+sister: apa- 
+sister: mëgu- 
+sister: mʌgu- 
+sister: totu- 
+sit: ati- 
+skin: fe- | fE	fɛ-	gara 
+skin: fɛ- | fE	fɛ-	gara 
+skin: gara | fE	fɛ-	gara 
+sky: fulip 
+sleep: nog- 
+small: nanëk | nanʌk 
+small: nanʌk 
+smell: uf- 
+smoke: mupʌ 
+smoke: mupë | mupʌ 
+snake: su 
+spit: dɛr- 
+spit: ozen 
+spit: ozɛn 
+split: patetar- 
+split: patɛtar- 
+stand: aiz- 
+star: fasir 
+stick: en tuta 
+stone: i: | iː 
+stone: iː 
+straight: feferai 
+straight: fɛfɛral 
+sun: us 
+swell: iwir- 
+tail: bo:n | boːn 
+tail: boːn 
+tail: sipuk- uruk | boːn 
+take: aw- 
+that: une | unɛ 
+that: unɛ 
+there: nendaum 
+there: nɛndaum 
+there: undaum 
+they: -(er)ar- 
+they: -(ɛr)ar- 
+they: esa 
+they: ɛsa 
+they: -nagar 
+they two: era 
+they two: -(et)at- 
+they two: -navat 
+thigh: gomu- 
+think: da m- 
+this: ne | nɛ 
+this: nɛ 
+thou: ɛk | nEk	nɛk 
+thou: -(ɛr)ar- | nEk	nɛk 
+thou: -es- | nEk	nɛk 
+thou: -ɛs- | nEk	nɛk 
+thou: -nagar | nEk	nɛk 
+thou: nek | nEk	nɛk 
+thou: nɛk | nEk	nɛk 
+thou: -(u)n | nEk	nɛk 
+throat: fa- ër 
+throat: fa- ʌr 
+throw: er- 
+throw: ɛr- 
+thunder: ep o- 
+thunder: ɛp o- 
+tie: tat- 
+tomorrow: i:r 
+tomorrow: iːr 
+tomorrow: sipok 
+tongue: nimë:ru- | nim3ru	nimʌːru- 
+tongue: nimʌːru- | nim3ru	nimʌːru- 
+tooth: au- 
+tree: en | 3n 
+tree: ɛn | 3n 
+tree: muː | 3n 
+tree: tawaːk | 3n 
+turn: pavas- 
+turn: peror- 
+turn: pɛror- 
+two: bretek | brEtEk	brɛtɛk 
+two: brɛtɛk | brEtEk	brɛtɛk 
+vagina: fu- 
+vomit: pʰa- 
+walk: dar- | ug- 
+walk: ug- 
+wallaby: onda 
+warm: imë:g 
+warm: imʌːg 
+wash: ze za- 
+water: ze 
+weep: kwa- 
+we: ik 
+we: -izek | ik 
+we: -izɛk | ik 
+we two: i: 
+we two: -izet 
+we two: -zet 
+wet: ze:n 
+wet: zɛːn 
+we: -zeg- | ik 
+we: -zɛg- | ik 
+what: ari 
+where: ori 
+white: ië:g | iʌːg 
+white: iʌːg 
+who: veni | vɛni 
+who: vɛni 
+wind: oza 
+wing: a:ru 
+wing: aːru 
+woman: anëg | mɛha 
+woman: anʌg | mɛha 
+woman: meha | mɛha 
+woman: mɛha 
+wood: ɛn tuta 
+wood: tu 
+yellow: asinëg | asinʌg 
+yellow: asinʌg 
+yesterday: tu 
+yesterday: zou 
+yes: zho 
+yes: žo 
+you: ek | nEk	nɛk 
+you: -(er)ar- | nEk	nɛk 
+you: -nagar | nEk	nɛk 
+you two: -ar 
+you two: -(et)at-a-r 
+you two: ev 
+you two: -nar 
+you two: -navat 
+you two: -(u)nët 
+every: itɛ 
+ash: lʌg	maup	paːb 
+abdomen: o- 
+bigness: mɛna 
+large: mɛna 
+breasts: awa 
+come from: sin	sin- 
+be dead: nam	nam- 
+dead: nam	nam- 
+ground: ɛp 
+land: ɛp 
+soil: ɛp 
+fly: ug- 
+fly v.: ug- 
+1 sg.: sEk	sɛk 
+head louse: mi 
+male: dan 
+much: kwait 
+multiple: kwait 
+several: kwait 
+hill: ErErum	iː	ɛrɛrum 
+title: vani	vani- 
+nighttime: Evosom	ɛvosom 
+adulterous: oisak 
+single: oisak 
+the: oisak 
+unprincipled: oisak 
+rainy weather: va 
+path: irimEn 
+route: irimEn 
+hide: fE	fɛ-	gara 
+little: nanʌk 
+smallness: nanʌk 
+rock: iː 
+2 sg: nEk	nɛk 
+grind: brEtEk	brɛtɛk 
+go: ug- 
+1 pl. inc.: ik 
+we₁: ik 
+whiteness: iʌːg 
+who?: vɛni 
+female: mɛha 
+distant: ɛpmɛ 
+dull: una 
+serious: una 
+close: turi 
+ner: turi 

@@ -1,0 +1,138 @@
+all: paks 
+every: paks 
+ash: Lkaka 
+ashes: Lkaka 
+abdomen: pan 
+belly: pan 
+big: lanka* 
+bigness: lanka* 
+large: lanka* 
+bird: spun 
+bite: Ska 
+black: ci*ce*qe 
+blood: qaLni 
+bone: lukut 
+breast: cikit 
+breasts: cikit 
+cloud: pukLni 
+cold: lonqni	qa*wiwi 
+come: min 
+come from: min 
+be dead: niy 
+dead: niy 
+die: niy 
+dog: CiCi 
+drink: qota 
+dry: skawawa 
+ear: taqan 
+earth: ti*yat 
+ground: ti*yat 
+land: ti*yat 
+soil: ti*yat 
+eat: wa 
+egg: qaLwat 
+eye: laqastapu 
+feather: Ci*Sit 
+fire: Lkuyat 
+fish: skiti 
+fly: qos 
+fly v.: qos 
+foot: tantun 
+full: camay 
+give: maski* 
+good: Lan 
+hair: akCi*Sit 
+hand: makan 
+left hand: makan 
+right: makan 
+head: aqSaqa 
+hear: qaSmata 
+heart: naku* 
+horn: aqaloqot 
+1 sg.: akit	kit 
+I: akit	kit 
+kill: maqni 
+knee: coqos 
+be knowledgeable: ka*ci 
+know: ka*ci 
+leaf: paLma 
+lie: ma	max 
+lie down: ma	max 
+long: Lman 
+male: Ci*Sku 
+man: %kristiano 
+many: uwa 
+much: uwa 
+multiple: uwa 
+several: uwa 
+flesh: liwa 
+meat: liwa 
+moon: papa 
+hill: sipih 
+mountain: sipih 
+mouth: kiLni 
+name: takuwini	tapakuwit 
+title: takuwini	tapakuwit 
+neck: piSni 
+new: sasti 
+night: cisni 
+nighttime: cisni 
+nose: kinkan 
+not: ni 
+adulterous: tum 
+one: tum 
+single: tum 
+that: ta*ma 
+the: tum 
+unprincipled: tum 
+human: %kristiano 
+human being: %kristiano 
+person: %kristiano 
+rain: sin 
+rainy weather: sin 
+red: cu*co*qo 
+path: tihi 
+road: tihi 
+route: tihi 
+root: tanqaSeq 
+say: wan 
+see: ukSiLa 
+seed: taLci* 
+sit: wix 
+hide: Suwa 
+skin: Suwa 
+sleep: Lata 
+little: akcu 
+small: akcu 
+smallness: akcu 
+smoke: xini 
+stand: ya	yax 
+star: staku 
+rock: CiwiS 
+stone: CiwiS 
+sun: CiCini 
+swim: Siwatnan 
+tail: staxan 
+this: e7e	uma 
+2 sg: wiS 
+thou: wiS 
+you: wiS 
+tongue: simaqat 
+tooth: tacan 
+tree: kiwi 
+grind: tiy 
+two: tiy 
+go: Lawan 
+walk: Lawan 
+water: CuCut 
+1 pl. inc.: akin	akinin 
+we: akin	akinin 
+we₁: akin	akinin 
+what: tuku 
+white: snapapa 
+whiteness: snapapa 
+who: tiku 
+who?: tiku 
+female: puskat 
+woman: puskat 
+yellow: Lmukuku 

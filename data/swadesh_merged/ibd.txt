@@ -1,0 +1,443 @@
+all: girg 
+and: ɟaṇamin ṛuguṛugu | il 
+and: il 
+ankle: wiːla 
+arm: mawur 
+arm: maːwur 
+arm: windi 
+ashes: wil\ŋogog | wilŋugug	wilʼŋogog 
+ashes: wilŋugug | wilŋugug	wilʼŋogog 
+back: anŋirwara 
+bad: waliwi 
+bark: waluːru 
+belly: angalal 
+belly: galal 
+big: buraŋ 
+bird: galagalag 
+bite: -banbu- | -banbu-	-manbu- 
+bite: -manbu- | -banbu-	-manbu- 
+bitter: yagbudari 
+black: buŋuɲɟi | burgunɟi?	buŋuɲɟi 
+black: burgunɟi | burgunɟi?	buŋuɲɟi 
+blood: maniŋul | maniNul	maniŋul 
+blow: -agbi 
+blow: ṛudan̪ | -agbi 
+bone: gilir | gilir	kiLirk 
+boy: ariɟumalan 
+boy: laid\guruŋu 
+branch: alir 
+breathe: aŋaga wirŋag | aŋaga wirŋag	wuɲälu 
+breathe: wuɲälu | aŋaga wirŋag	wuɲälu 
+brother: ŋunbid\ 
+brother: wolgu 
+burn: abanuriwun | abanuriwun	ɟawuɲan 
+burn: ɟawuɲan | abanuriwun	ɟawuɲan 
+burn: ganalagbariru | abanuriwun	ɟawuɲan 
+butterfly: aragarag 
+cheek: wanɟaŋ 
+chest: -ambuŋag 
+child: gubaṛiyu | warawulaɲ 
+child: warawulaɲ 
+chin: angar 
+chin: -rar 
+cloud: gunu 
+cold: ŋuḍu | -ruyirug	ŋuḍu 
+cold: -ruyirug | -ruyirug	ŋuḍu 
+come: -ara | -ara	ara	ɟawingan 
+come: ɟawingan | -ara	ara	ɟawingan 
+correct: buruliː- 
+crocodile: miduaiaid\ 
+crocodile: miɟnaiaɟ 
+cut: -ɹalgu- | ŋarabanandalgbu 
+cut: ŋarabanandalgbu 
+dark: numiwa 
+daughter: -bulaŋ riɟu- malan 
+day: daiɟaːrg 
+day: yanunbara | daiɟaːrg 
+die: aŋbainmarŋaḷg | -maɟu	baTu 
+die: baɟuŋan | -maɟu	baTu 
+die: -maɟu | -maɟu	baTu 
+dig: aŋbanayawuṇ | aŋbana-yawu-ṇ 
+dirty: algunɟi 
+dog: nagi | nagi	naki 
+drink: aŋban | -da	La	aŋban 
+drink: -ba | -da	La	aŋban 
+drink: -da | -da	La	aŋban 
+dry: bildi 
+ear: galaɟar | galaɟar	kalaTar 
+earth: gunag 
+eat: aban | -ra	aban 
+eat: -ba | -ra	aban 
+eat: -ra | -ra	aban 
+egg: gulaɟug 
+egg: yuṇgu | gulaɟug 
+elbow: waːṛi 
+emu: gangur 
+eye: yaɾa umbunuri | yar	yara	yaṛa 
+eye: yar | yar	yara	yaṛa 
+eye: yaṛa | yar	yara	yaṛa 
+fall: ɲaŋaḍbuni | ɲaŋaḍbuni 
+father: buɲi | -madaṛwin	buɲi 
+father: -madaṛwin | -madaṛwin	buɲi 
+fat (n.): murgan̪ 
+fat (n.): ŋurgaid\ 
+fear: ɟamuḍbi 
+fear: -ɟamuḍbin 
+fear: -muḍbin 
+feather: imaɟag 
+few: araŋud 
+fight: liri(n) | liri	lirin 
+finger: aŋbirgaḷg 
+fire: guɟäli | guɟäli	kuTali 
+fish: yaːb | yab	yaːb 
+five: gurgamaɟunu | gurgamadjunu	gurgamaɟunu 
+flower: gandiɟawa 
+fly (n.): molg 
+fly (n.): moḷg 
+fly (v.): yawara yilŋud 
+fog: guŋan̪ 
+foot: -gub | -gub	-guli 
+foot: -guli | -gub	-guli 
+forehead: -mudbalmili 
+forest: waṛin | waṛin 
+four: ŋargarg il(da) ŋargarg | ŋargarg il ŋargarg	ŋargarg ilda ŋargarg 
+full: aŋgulaŋ mambal 
+full: mambal 
+girl: ariɟumalanŋunbul\ 
+girl: marawurɟi 
+girl: warawinɟi 
+give: -ugu- 
+good: buruli 
+grass: miḷag | miḷag 
+green: gilgil 
+hair: gabu | -waːl 
+hair: -waːl 
+hand: anbirgal | anbirgal	birkalk 
+head: -baɣal | -bagal	-baɣal 
+head: -bagal | -bagal	-baɣal 
+hear: ɟalidba | -liɟba-	-liɟban	alidba 
+hear: -liɟba- | -liɟba-	-liɟban	alidba 
+hear: -liɟban | -liɟba-	-liɟban	alidba 
+heart: mugamuga 
+heavy: ṛagbi | ṛagbi 
+here: gani 
+he/she: ɟanad 
+he/she: ɟumuŋ 
+hit: -wu- 
+hold: yabaŋ 
+hole: gandaiɟigi 
+house: gurambalg 
+house: gurambaḷg 
+how: ŋandiyigbin 
+hunt: ɟara 
+husband: -magan̪ 
+if: da 
+I: ŋa- | Nabi	ŋabi 
+I: ŋabi | Nabi	ŋabi 
+I: ŋaduŋ | Nabi	ŋabi 
+kangaroo: yilbui 
+kangaroo: yilbuwi 
+kill: abanarwun | -ɹalgu-	abanar-wu-n 
+kill: -ɹalgu- | -ɹalgu-	abanar-wu-n 
+knee: amidburyugu | amidburyugu	midburyuwu 
+know: aŋburun | -buruwun 
+know: -buruwun 
+lake: awur 
+laugh: -(n)biɟan | -biɟan	-nbiɟan	ŋambiɟan 
+laugh: ŋambiɟan | -biɟan	-nbiɟan	ŋambiɟan 
+leaf: maläl | maLar	maläl 
+left: ŋaṛud\ | ŋaṛudʼ 
+leg: -ɟiradal | -ladi	-ɟiradal 
+leg: -ladi | -ladi	-ɟiradal 
+lie: anbaran | awarigba 
+lightning: galalwal 
+lip: -ragbirid\ 
+liver: ŋalgid\ | NalXij	ŋalgidʼ 
+live: wanaŋgad | wa-naŋgad 
+long: bilbaɲan 
+long: wulaːrud | bilbaɲan 
+louse: gurbuŋ | kurkbuN 
+man: wargbi | wargbi	warkbi 
+many: wiŋalmu 
+meat: -giɟalg | -giɟalg	ɟiradad 
+meat: ɟiradad | -giɟalg	ɟiradad 
+moon: guɹ̣ana | guɹ̣ana	guṛana 
+moon: guṛana | guɹ̣ana	guṛana 
+morning: gubur 
+morning: guluwulur 
+morning: wubur 
+mosquito: mundud\ 
+mother: gamu 
+mountain: anbirg | anbirg	anbirk 
+mountain: walaia | anbirg	anbirk 
+mouth: -ɹagbiriɟ | -ɹagbiriɟ	ṛagbiṛidʼ 
+mouth: ṛagbiṛid\ | -ɹagbiriɟ	ṛagbiṛidʼ 
+name: nid | -unad	-unaɟ	kunaT	nid 
+name: -unad ~ -unaɟ | -unad	-unaɟ	kunaT	nid 
+nape: -buŋguriu 
+navel: minuŋ 
+near: wanɟi 
+neck: buŋuguriyu | buŋuguriyu	muŋuriu 
+neck: muŋuriu | buŋuguriyu	muŋuriu 
+new: -liɟumaran | wuruwuru	wurwur 
+new: wuruwuru | wuruwuru	wurwur 
+not: galu | gaul	yina 
+not: gaul | gaul	yina 
+not: yina | gaul	yina 
+old: balgbaragan 
+old: baligbaragan 
+one: waḍad | warad	waḍad 
+one: warad | warad	waḍad 
+other: badba 
+person: wargbi | wargbi	warkbi 
+play: aŋaliŋalba 
+push: -ɹaŋa- 
+rain: walmad 
+rat: milumbi 
+red: maniŋul | maniŋul	maniŋulmaniŋul 
+red: maniŋulmaniŋul | maniŋul	maniŋulmaniŋul 
+right: wulinuli | anbirgal	birkalk 
+ripe: wurud 
+river: dadbiː 
+river: dadbiːɣi 
+road: walal | alan 
+root: milwigan̪ 
+rope: alwuru 
+rotten: wuɟanin 
+round: gurgbulŋagan 
+rub: ŋanbudurulg 
+sand: gunag 
+say: aŋananŋinga | -bi- | gunag 
+say: -bi- | gunag 
+scratch: -aḍigi- | -aḍigi- 
+sea: lälga 
+sea: maṛŋala 
+see: -ḍaya- | -eya-	-ḍaya-	ayan 
+seed: gilir 
+see: -eya- | -eya-	-ḍaya-	ayan 
+sharp: gudbiɟag | gud-biɟag 
+short: lurbud\ | lurbudʼ 
+shoulder: galaɲun 
+shoulder: -mular 
+sing: ɟamiran | -aniran	ɟamiran 
+sing: -aniran | -aniran	ɟamiran 
+sister: wolgu 
+sit: -wani- 
+skin: aɟalgbinbun | aŋuli	kuLXi 
+skin: aŋuli | aŋuli	kuLXi 
+sky: yurŋud 
+sleep: ŋurid\ | ŋuridʼ 
+small: anɟumaḍan | anɟumaḍan	ligimaɹan 
+small: ligimaɹan | anɟumaḍan	ligimaɹan 
+smell: -udgiɾa- 
+smoke: guŋain | guŋain	guŋan̪ 
+smoke: guŋan̪ | guŋain	guŋan̪ 
+smooth: binbugbuɟ 
+snake: ambiɟ | ambidʼ	ambiɟ 
+snake: ambid\ | ambidʼ	ambiɟ 
+son: abayaṛwin 
+stand: -di | -di	-li- 
+stand: -li- | -di	-li- 
+star: garamaḍ | garamaḍ	karamad 
+star: yambarbar | garamaḍ	karamad 
+stone: waṛyad | waryad	waɹyad	waṛyad 
+stone: waɹyad | waryad	waɹyad	waṛyad 
+straight: guṛaŋanin | guṛaŋanin 
+suck: abandabun 
+sun: muwaɹ̣ | ma5iT	muwan	muwaɹ̣	muwaṛ 
+sun: muwaṛ | ma5iT	muwan	muwaɹ̣	muwaṛ 
+sweet: gaːgul 
+swim: ŋaraːgan 
+tail: wowid\ | wowidʼ 
+take: abilimain 
+take: ɟara wuluŋgud\ 
+take: -ba- 
+take: -ma- 
+that: baɹagi | warad	waḍad 
+that: baga | baɹagi | warad	waḍad 
+that: baraga | baɹagi | warad	waḍad 
+that: ɹigi | baɹagi | warad	waḍad 
+there: baṛagbaṛa | gana 
+there: gana 
+they: a- | wanad 
+they two: ɟanad 
+they two: ø- 
+they: wanad 
+they: wimuŋ | wanad 
+thigh: -ilir 
+thin: baḷgbaḷgban | baḷgbaḷgban 
+think: -burubu- 
+this: baga | ɹuga 
+this: ɹuga 
+thou: an- | nuwuri	nuyi 
+thou: gur- | nuwuri	nuyi 
+thou: nuwuŋ | nuwuri	nuyi 
+thou: nuwuri | nuwuri	nuyi 
+thou: nuwuruŋ | nuwuri	nuyi 
+thou: nuyi | nuwuri	nuyi 
+thou: nyui | nuwuri	nuyi 
+three: ŋargarg il(da) warad | ŋargarg il warad	ŋargarg ilda warad 
+throat: maɟar 
+throw: -adbirun | -adbirun	-ga- 
+throw: -ga- | -adbirun	-ga- 
+thunder: maralaiɟana 
+today: gai\irg 
+today: gayirg 
+tomorrow: gubur 
+tomorrow: malain 
+tongue: garalg | -laralg	garalg	karalk 
+tongue: -laralg | -laralg	garalg	karalk 
+tooth: anɟigi | -iɣi	TiXi	anɟigi 
+tooth: -iɣi | -iɣi	TiXi	anɟigi 
+tree: aliːr | aLir 
+tree: balguan | aLir 
+turn: -amilgburŋan 
+turn: naŋuɲulaŋ 
+two: ŋargaŋ | Narkark	ŋargarg	ŋargaŋ 
+two: ŋargarg | Narkark	ŋargarg	ŋargaŋ 
+vomit: ɟaladuran 
+walk: ɟaɣa | bagbaŋ 
+walk: -ara | bagbaŋ 
+walk: ɟara maŋawila | bagbaŋ 
+walk: bagbaŋ 
+wallaby: yilbui 
+warm: -(l)gandaga 
+warm: maːyun̪ 
+wash: ɟawindu | yanawinbu 
+wash: yanawinbu 
+water: aḍbaṛag | ubaT	wobaidʼ	wobaɟ 
+water: gurwala | ubaT	wobaidʼ	wobaɟ 
+water: wobaɟ | ubaT	wobaidʼ	wobaɟ 
+water: wobaid\ | ubaT	wobaidʼ	wobaɟ 
+weep: -wararga- 
+weep: -warargan 
+we (excl.): ŋari 
+we (excl.): ŋari- ŋar- 
+we (excl.): ŋaruŋ 
+we (incl.): ar- 
+we (incl.): ŋarwuri 
+we (incl.): ŋarwuruŋ 
+what: biɹigunaɟ | biɹigunaɟ	brigunaidʼ 
+what: brigunaid\ | biɹigunaɟ	brigunaidʼ 
+when: ŋandili | ŋandili	ŋindidi 
+when: ŋindidi | ŋandili	ŋindidi 
+where: ŋanduga 
+white: bidbaran 
+who: magunaid\ | magunaidʼ	maɹugunaɟ 
+who: maɹugunaɟ | magunaidʼ	maɹugunaɟ 
+wife: abugan 
+wind: maḷu | maḷu 
+wing: imaɟag bawur 
+woman: wanɟuɟ | woraidʼba	woraiɟba	wuruwaɟa 
+woman: woraiɟba | woraidʼba	woraiɟba	wuruwaɟa 
+woman: woraid\ba | woraidʼba	woraiɟba	wuruwaɟa 
+woman: wuruwaɟa | woraidʼba	woraiɟba	wuruwaɟa 
+wood: baiɟuŋan 
+wood: guɟälin 
+woomera: dagamun 
+woomera: gurugurug 
+yellow: aḍamumuŋgunaḍamumuŋgun | aḍamumuŋgunaḍamumuŋgun	aḍamuŋgun 
+yellow: aḍamuŋgun | aḍamumuŋgunaḍamumuŋgun	aḍamuŋgun 
+yes: nuyi 
+yesterday: naŋuɟ 
+every: girg 
+ash: wilŋugug	wilʼŋogog 
+bigness: buraŋ 
+large: buraŋ 
+breast: amburyak 
+breasts: amburyak 
+come from: -ara	ara	ɟawingan 
+be dead: -maɟu	baTu 
+dead: -maɟu	baTu 
+fly: yawara yilŋud 
+fly v.: yawara yilŋud 
+left hand: anbirgal	birkalk 
+horn: kalaTar 
+1 sg.: Nabi	ŋabi 
+be knowledgeable: -buruwun 
+lie down: anbaran 
+head louse: kurkbuN 
+male: wargbi 
+much: wiŋalmu 
+multiple: wiŋalmu 
+several: wiŋalmu 
+flesh: -giɟalg	ɟiradad 
+hill: anbirg	anbirk 
+title: -unad	-unaɟ	kunaT	nid 
+night: numiwaN 
+nighttime: numiwaN 
+nose: -inmul	-mul	Tinmul 
+adulterous: warad	waḍad 
+single: warad	waḍad 
+the: warad	waḍad 
+unprincipled: warad	waḍad 
+human: wargbi	warkbi 
+human being: wargbi	warkbi 
+rainy weather: walmad 
+path: alan 
+route: alan 
+hide: aŋuli	kuLXi 
+little: anɟumaḍan	ligimaɹan 
+smallness: anɟumaḍan	ligimaɹan 
+rock: waryad	waɹyad	waṛyad 
+2 sg: nuwuri	nuyi 
+you: nuwuri	nuyi 
+grind: Narkark	ŋargarg	ŋargaŋ 
+go: bagbaŋ 
+1 pl. inc.: Naruri	ŋarwuri 
+we: Naruri	ŋarwuri 
+we₁: Naruri	ŋarwuri 
+whiteness: bidbaran 
+who?: magunaidʼ	maɹugunaɟ 
+female: woraidʼba	woraiɟba	wuruwaɟa 
+dull: ṛagbi 
+serious: ṛagbi 
+close: wanɟi 
+ner: wanɟi 
+2 pl.: nuwuri 
+ye: nuwuri 
+you all: nuwuri 
+3 pl.: wanad 
+where?: ŋanduga 
+when?: ŋandili	ŋindidi 
+how?: ŋandiyigbin 
+principal wife: abugan 
+his mother: gamu 
+my mother: gamu 
+his father: -madaṛwin	buɲi 
+my father: -madaṛwin	buɲi 
+woods: waṛin 
+stick: alir 
+cord: alwuru 
+spit: alaraiɟoŋ	iɲiḷg 
+breath: aŋaga wirŋag	wuɲälu 
+laughter: -biɟan	-nbiɟan	ŋambiɟan 
+cogitate: -burubu- 
+reflect: -burubu- 
+alive: wa-naŋgad 
+be alive: wa-naŋgad 
+life: wa-naŋgad 
+living: wa-naŋgad 
+beat: -wu- 
+strike: -wu- 
+hack: ŋarabanandalgbu 
+pierce: -ɹalgu- 
+stab: -ɹalgu- 
+tell lies: awarigba 
+drop: ɲaŋaḍbuni 
+grasp: yabaŋ 
+hold in arm: yabaŋ 
+wipe: ŋanbudurulg 
+wash clothes: yanawinbu 
+have fun: aŋaliŋalba 
+brook: dadbiː 
+stream: dadbiː 
+blaze: abanuriwun	ɟawuɲan 
+daylight: daiɟaːrg 
+daytime: daiɟaːrg 
+evil: waliwi 
+rot: wuɟanin 
+filthy: algunɟi 
+soiled: algunɟi 
+blunt: budburundi 
+right side: wulinuli 

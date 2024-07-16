@@ -1,0 +1,266 @@
+all: katuluh 
+every: katuluh 
+ash: ewuŋ 
+ashes: ewuŋ 
+abdomen: wuntuŋ 
+belly: wuntuŋ 
+big: hanteʔ 
+bigness: hanteʔ 
+large: hanteʔ 
+bird: wuruŋ 
+bite: ŋikit 
+black: maʔintem 
+blood: ira7	iraʔ 
+bone: taʔulaŋ	tu7ulaN 
+breast: dada7	dubdob 
+breasts: dada7	dubdob 
+burn: nutuŋ 
+burn tr.: nutuŋ 
+cloud: rakun 
+cold: marisak 
+come: habi7	hawiʔ 
+come from: habi7	hawiʔ 
+be dead: matEi	matey 
+dead: matEi	matey 
+die: matEi	matey 
+dog: ant|ahuʔ	duyu7 
+drink: minum	ŋoʔot 
+dry: kariŋ 
+ear: silu7	siluʔ 
+eat: kuman 
+egg: ateluy 
+eye: matE	mate 
+feather: wulu 
+fire: apui	apuy 
+fish: kEnah	kenah 
+fly: s-um-idiŋ 
+fly v.: s-um-idiŋ 
+good: maʔeh 
+green: kakuriŋ 
+hair: wulu 
+hand: %taNan	taŋan 
+left hand: %taNan	taŋan 
+right: %taNan	taŋan 
+head: uluʔ 
+hear: karENEi	ñandriŋey 
+1 sg.: aku 
+I: aku 
+kill: manuʔ 
+knee: ulukatuk 
+be knowledgeable: karasa 
+know: karasa 
+leaf: daun	rawen 
+lie: mankadiŋ 
+lie down: mankadiŋ 
+liver: atEi	atey 
+long: amaw 
+head louse: kutu 
+louse: kutu 
+male: upu 
+man: ulun 
+hill: gunuN 
+mountain: gunuN 
+mouth: aru|wawaʔ 
+name: aran	ŋaran 
+title: aran	ŋaran 
+neck: diuŋ 
+new: ba7u	baʔu 
+night: kamalEm	kamalem 
+nighttime: kamalEm	kamalem 
+nose: uruN	uruŋ 
+adulterous: isa7	isaʔ	isa’ 
+one: isa7	isaʔ	isa’ 
+single: isa7	isaʔ	isa’ 
+that: iruʔ 
+the: isa7	isaʔ	isa’ 
+unprincipled: isa7	isaʔ	isa’ 
+human: ulun 
+human being: ulun 
+person: ulun 
+rain: uran 
+rainy weather: uran 
+red: mariaŋ 
+path: lalan 
+road: lalan 
+route: lalan 
+root: wakat 
+sand: karasik 
+say: ŋeaw 
+see: nant~au	ŋiniʔ 
+sit: maharuŋ 
+hide: kudit 
+skin: kudit 
+sleep: manreʔ 
+little: halus 
+small: halus 
+smallness: halus 
+smoke: atuk 
+star: bint~aN	wawahiaŋ 
+rock: batu	watu 
+stone: batu	watu 
+sun: matEanrau 
+swim: katamah 
+tail: ukuy 
+this: iti 
+2 sg: ha5u7	hañuʔ 
+thou: ha5u7	hañuʔ 
+you: ha5u7	hañuʔ 
+tongue: lEla7	lelaʔ 
+tooth: dipEn	dipen 
+tree: kakau 
+grind: ruEh	rueh	ruɛh 
+two: ruEh	rueh	ruɛh 
+go: takia 
+walk: takia 
+hot: malaiŋ 
+warm: malaiŋ 
+water: ranu7	ranuʔ 
+1 pl. inc.: kita	takam 
+we: kita	takam 
+we₁: kita	takam 
+what: inun 
+white: mahilak 
+whiteness: mahilak 
+who: hieʔ 
+who?: hieʔ 
+female: wawey 
+woman: wawey 
+yellow: madintaŋ 
+distant: kawit 
+far: kawit 
+dull: maweʔat 
+heavy: maweʔat 
+serious: maweʔat 
+close: riʔet 
+near: riʔet 
+ner: riʔet 
+salt: raŋi 
+short: imeʔ 
+snake: anipe 
+thin: mariris 
+wind: riwut 
+earthworm: saʔasiŋ 
+worm: saʔasiŋ 
+year: taʔun 
+2 pl.: naun 
+ye: naun 
+you all: naun 
+3 pl.: here 
+they: here 
+where: haŋawe 
+where?: haŋawe 
+when: hantekawe 
+when?: hantekawe 
+how: kalaʔawe 
+how?: kalaʔawe 
+other: lain 
+three: telo	tɛlo 
+four: epat	ɛpat 
+five: dime	dimɛ 
+broad: hanteʔ 
+wide: hanteʔ 
+wideness: hanteʔ 
+fat: taweʔ 
+thick: makapan 
+narrow: hipit 
+principal wife: matue wawey 
+wife: matue wawey 
+husband: matue upu 
+his mother: ineh 
+mother: ineh 
+my mother: ineh 
+father: amah 
+his father: amah 
+my father: amah 
+forest: jumpun 
+woods: jumpun 
+fruit: wuaʔ 
+flower: wuŋe 
+grass: rikut 
+cord: tadi 
+rope: tadi 
+flesh: lunek 
+meat: lunek 
+grease: taweʔ 
+wing: elat 
+gut: sanaʔi 
+guts: sanaʔi 
+insides: sanaʔi 
+intestine: sanaʔi 
+intestines: sanaʔi 
+back: puŋuŋ 
+suck: umuʔ 
+spit: i|rura 
+vomit: nuaʔ 
+blow: ñiwut 
+breath: mi-hewuk 
+breathe: mi-hewuk 
+laugh: kakihiʔ 
+laughter: kakihiʔ 
+cogitate: bafikir 
+reflect: bafikir 
+think: bafikir 
+smell: ñiuk 
+sniff: ñiuk 
+afraid: aŋheʔey 
+be afraid: aŋheʔey 
+fear: aŋheʔey 
+fright: aŋheʔey 
+alive: belum 
+be alive: belum 
+life: belum 
+live: belum 
+living: belum 
+hunt: mukaʔ 
+beat: nampar 
+hit: nampar 
+strike: nampar 
+cut: netik 
+hack: netik 
+cut open: nuhiʔ 
+split: nuhiʔ 
+pierce: ñuduk 
+stab: ñuduk 
+scratch: ikukut 
+dig: ŋadi 
+stand: minri 
+drop: lawuʔ 
+fall: lawuʔ 
+grasp: negey 
+hold: negey 
+hold in arm: negey 
+throw: nawut 
+bind: nuruk 
+fasten: nuruk 
+tie: nuruk 
+tie up: nuruk 
+sew: ikamit 
+count: nan-reken 
+enumerate: nan-reken 
+number: nan-reken 
+tally: nan-reken 
+flow: mareh 
+lake: danaw 
+ocean: tahik 
+sea: tahik 
+dust: ewuŋ 
+fog: amun 
+sky: laŋit 
+bad: murun 
+evil: murun 
+rot: buruk 
+rotten: buruk 
+dirty: murun 
+filthy: murun 
+soiled: murun 
+sharp: kumat 
+blunt: palelep 
+damp: wehuʔ 
+wet: wehuʔ 
+right side: kawan 
+left: kawiʔ 
+at: haŋ 
+in: hawuaŋ 
+inside: hawuaŋ 
+and: anriʔ 
+if: amun 

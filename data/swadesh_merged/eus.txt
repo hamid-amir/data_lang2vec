@@ -1,0 +1,342 @@
+all: dena | den	guzti	guztiak	guztiz	oro 
+and: eta 
+animal: pizti | abere	animalia 
+ashes: errauts | errauc	errauts	hauc	hauts 
+at: -n | -an	-ean	-etan	-n 
+back: bizkar 
+bad: txar 
+because: -gatik | -elako	bait-	… eta 
+belly: sabel | sabel	tripa 
+big: haundi | handi	haundi 
+bird: txori | Cori	txori 
+black: beltz | belc	beltz 
+blood: odol 
+bone: hezur 
+breast: bular | bular	diti 
+breathe: harnasa hartu | arnas egin 
+burn: erre | erre	sumin 
+child: ume | haur	sein	ume 
+cloud: hodei 
+cold: hotz | hoc	hotz	odolgabe 
+come: etorri 
+correct: zuzen 
+count: zenbatu | kondatu	kopuru	zenbatu 
+cut: moztu 
+day: egun 
+die: hil | azkenarnas	hil 
+dirty: zikin 
+dog: txakur | Cakur	txakur	zakur 
+drink: edan 
+dry: lehor | ihar	lehor 
+dust: hauts 
+ear: belarri 
+earth: lur | lur	lurbira 
+eat: jan | jan	yanari 
+egg: arraultz | arraulca	arrautza 
+eye: begi | be	begi 
+fall: erori | erori	jausi 
+far: urrun 
+father: aita 
+fat (n.): koipe 
+fear: beldur | beldur izan 
+feather: luma 
+few: gutxi 
+fight: borroka | borrokatu 
+fire: su | su	sute 
+fish: arrain | arrain	arranca 
+five: bost 
+flower: lore | lili	lore 
+fly (v.): hegan 
+foot: oin | hanka	oin 
+forest: baso | baso	oihan 
+four: lau 
+freeze: izoztu 
+fruit: fruitu | fruitu	igali	zitu 
+full: bete | beterik	beteta 
+give: eman | eman	oihuka 
+good: on | on	zinco 
+grass: belar | bedar	belar 
+green: berde | berde	orlegi 
+guts: tripa | heste	tripa 
+hair: ile | ilage	ile 
+hand: esku | bosteko	esku 
+head: buru | buru	kasko 
+hear: entzun | adi	encun	entzun 
+heart: bihotz | bihoc	bihotz	bihoz 
+heavy: astun 
+he: hura | bera	hura 
+here: hemen | hemen	hon- 
+hit: jo 
+hold: eduki 
+horn: adar | adar	turutu 
+how: nola 
+hunt: ehiz | ehizatu 
+husband: senar 
+ice: izotz 
+if: ba | ba- 
+I: ni | neuk	ni	nik 
+in: -n | -an	-ean	-etan	-n 
+kill: hil egin | erahil	hilarazi	sarraski 
+know: jakin | ezagu	jakin	yakin 
+laugh: barre | barre egin 
+leaf: orri | hosto	orri 
+left: ezker 
+leg: hanka | hanka	zango 
+lie: gezur | ecan | etzan	etzanda egon 
+live: bizi | bizi izan 
+liver: gibel 
+long: luze 
+man: gizon | gizaki	lagun	pertsona 
+many: asko | asko	hamaikoCo 
+meat: haragi | haragi	okela 
+moon: hilargia 
+mother: ama 
+mountain: mendi 
+mouth: aho | aho	mutur 
+name: izen | deitura	izen	izenburu 
+near: hurbil 
+neck: lepo | idun	lepo 
+new: berri 
+night: gau | arrac	gau 
+nose: sudur | mutur	sudur 
+not: ez 
+old: zahar 
+one: bat 
+other: beste 
+person: gizaki | gizaki	lagun	pertsona 
+play: jolastu | jokatu 
+rain: euri 
+red: gorri 
+river: hibai 
+road: bide | basabide	bide	bideSka 
+root: erro | erreboil	erro	sustrai 
+rope: soka 
+rotten: ustel 
+round: borobil | biribil	totolo 
+salt: gatz 
+sand: hondar | hare	hondar 
+say: esan | erran	esan	minco izan | hare	hondar 
+sea: itsaso 
+see: ikusi 
+sew: josi 
+sharp: zorrotz 
+short: motz | labur	motz 
+sing: kantatu | abestu 
+sit: eseri | eseri	eserita egon	mahaiera	yarri 
+skin: larru | azal	larru	minc 
+sky: zeru | ortzi	zeru 
+sleep: lo | lo	lo egin	lotan 
+small: txiki | Ciki	Sehe	txiki 
+smoke: ke | ke	pipaldi 
+smooth: lehun | leun 
+snake: suge 
+snow: elur | edur	elur 
+some: batzu | batzuk	zenbait 
+stand: zutik | tinte	zutik | harea	hondar	zutik egon	zutitu 
+star: izar | astro	izar 
+stone: harri | haic	harri 
+straight: zuzen 
+sun: eguzki | eguzki	eki	iguzki 
+swim: igeri | igeri egin	igerika 
+that: hori | hori	hura | bat 
+there: hor | han	hor 
+they: haiek 
+think: pentsatu 
+this: hau | hau	hauSe	honek 
+thou: hi | hi	hik	zu	zuek 
+three: hiru 
+throw: botatu | bota	jaurti 
+tie: lotu 
+tongue: mihia | hizkunca	mihi 
+tooth: hortz | hagin	horc	hortz 
+tree: arbol | arbola	zuhaic	zuhaitz 
+two: bi | bi	biga 
+walk: ibili | bide	ibili 
+warm: bero 
+wash: ikuzi | garbitu	ikuzi	xahutu 
+water: ur 
+we: gu | gu	guk 
+wet: busti | busti	heze 
+what: zer | zein	zer 
+when: noiz 
+where: non 
+white: zuri 
+who: nor | nor	norcuk	nork 
+wide: zabal 
+wife: andere | emazte 
+wind: haize 
+wing: hegala | hego 
+with: -rekin | -arekin	-ekin 
+woman: emakume | andre	emakume 
+worm: har 
+year: urte 
+yellow: ori | hori 
+you: zuek | hi	hik	zu	zuek 
+every: den	guzti	guztiak	guztiz	oro 
+ash: errauc	errauts	hauc	hauts 
+bark: azal 
+abdomen: sabel	tripa 
+bigness: handi	haundi 
+large: handi	haundi 
+bite: haginka	hozka	kosk egin 
+breasts: bular	diti 
+claw: azkazal	hacazal 
+nail: azkazal	hacazal 
+talon: azkazal	hacazal 
+come from: etorri 
+be dead: azkenarnas	hil 
+dead: azkenarnas	hil 
+ground: lur	lurbira 
+land: lur	lurbira 
+soil: lur	lurbira 
+fat: gancu	gurin 
+fat n.: gancu	gurin 
+grease: gancu	gurin 
+lubricant: gancu	gurin 
+oil: gancu	gurin 
+fly: hegan	hegaz	hegaz egin 
+fly v.: hegan	hegaz	hegaz egin 
+left hand: bosteko	esku 
+right: bosteko	esku 
+1 sg.: neuk	ni	nik 
+knee: belaun 
+be knowledgeable: ezagu	jakin	yakin 
+lie down: ecan 
+head louse: zorri 
+louse: zorri 
+male: gizaseme	gizon 
+much: asko	hamaikoCo 
+multiple: asko	hamaikoCo 
+several: asko	hamaikoCo 
+flesh: haragi	okela 
+moon: ilargi 
+hill: mendi 
+title: deitura	izen	izenburu 
+nighttime: arrac	gau 
+adulterous: bat 
+single: bat 
+the: bat 
+unprincipled: bat 
+human: gizaki	lagun	pertsona 
+human being: gizaki	lagun	pertsona 
+rainy weather: euri 
+path: basabide	bide	bideSka 
+route: basabide	bide	bideSka 
+seed: ale	bihi	hazi 
+hide: azal	larru	minc 
+little: Ciki	Sehe	txiki 
+smallness: Ciki	Sehe	txiki 
+rock: haic	harri 
+tail: buztan	isac 
+2 sg: hi	hik	zu	zuek 
+grind: bi	biga 
+go: bide	ibili 
+hot: bero 
+1 pl. inc.: gu	guk 
+we₁: gu	guk 
+whiteness: zuri 
+who?: nor	norcuk	nork 
+female: andre	emakume 
+distant: urrun 
+dull: astun 
+serious: astun 
+close: hurbil 
+ner: hurbil 
+thin: argal 
+earthworm: har 
+3 sg.: bera	hura 
+she: bera	hura 
+2 pl.: zuek 
+ye: zuek 
+you all: zuek 
+3 pl.: haiek 
+where?: non 
+when?: noiz 
+how?: nola 
+broad: zabal 
+wideness: zabal 
+thick: gizen	lodi	potolo 
+narrow: estu	mehar 
+principal wife: emazte 
+his mother: ama 
+my mother: ama 
+his father: aita 
+my father: aita 
+woods: baso	oihan 
+branch: makila 
+stick: makila 
+cord: soka 
+fingernail: azazkal 
+arm: esku 
+gut: heste	tripa 
+insides: heste	tripa 
+intestine: heste	tripa 
+intestines: heste	tripa 
+suck: xurgatu 
+spit: txistu egin 
+vomit: goitikatu 
+blow: putz egin 
+breath: arnas egin 
+laughter: barre egin 
+cogitate: pentsatu 
+reflect: pentsatu 
+smell: usaindu 
+sniff: usaindu 
+afraid: beldur izan 
+be afraid: beldur izan 
+fright: beldur izan 
+alive: bizi izan 
+be alive: bizi izan 
+life: bizi izan 
+living: bizi izan 
+beat: jo 
+strike: jo 
+hack: moztu 
+cut open: pitzatu 
+split: pitzatu 
+pierce: sastatu 
+stab: sastatu 
+scratch: urratu 
+dig: aitzurtu 
+tell lies: etzan	etzanda egon 
+turn: biratu 
+turn around: biratu 
+turn round: biratu 
+drop: erori	jausi 
+grasp: eduki 
+hold in arm: eduki 
+squeeze: estutu 
+wring: estutu 
+rub: igurtzi 
+wipe: lehortu	xukatu 
+wash clothes: garbitu	ikuzi	xahutu 
+pull: erakarri 
+push: bultzatu 
+shove: bultzatu 
+bind: lotu 
+fasten: lotu 
+tie up: lotu 
+enumerate: kondatu	kopuru	zenbatu 
+number: kondatu	kopuru	zenbatu 
+tally: kondatu	kopuru	zenbatu 
+have fun: jokatu 
+float: igerikatu 
+flow: isuri 
+swell: hanpatu	puztu 
+brook: ibai 
+river: ibai 
+stream: ibai 
+lake: aintzira	zingira 
+ocean: itsaso 
+fog: laino 
+blaze: erre	sumin 
+daylight: egun 
+daytime: egun 
+evil: txar 
+rot: ustel 
+filthy: zikin 
+soiled: zikin 
+blunt: kamuts 
+damp: busti	heze 
+right side: eskuin 
+inside: -an	-ean	-etan	-n 

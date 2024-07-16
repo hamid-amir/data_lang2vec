@@ -1,0 +1,171 @@
+all: nímwá-ò 
+every: nímwá-ò 
+ash: mù=tòkò 
+ashes: mù=tòkò 
+bark: ǯì=kòmbǒmbò 
+abdomen: ǯì=vùmò 
+belly: ǯì=vùmò 
+big: =nênè 
+bigness: =nênè 
+large: =nênè 
+bird: kà=yònì 
+bite: kù=hûmà 
+black: kù=šipà 
+blood: keth~a	mukedh~a	mù=kèðà 
+bone: Sifupa	fupa	šì=fûpà 
+breast: bele	jibele	kà=hùmpò 
+breasts: bele	jibele	kà=hùmpò 
+burn: kù=báŋìðà 
+burn tr.: kù=báŋìðà 
+claw: ǯì=ɲâɾà 
+nail: ǯì=ɲâɾà 
+talon: ǯì=ɲâɾà 
+cloud: ǯì=kùmbì 
+cold: kù=kòmbòɾà 
+come: ihda	kw=ìðà	kwith~a 
+come from: ihda	kw=ìðà	kwith~a 
+be dead: fwa	kû=fwà 
+dead: fwa	kû=fwà 
+die: fwa	kû=fwà 
+dog: kawa	kǎ=wà	tuwa	wa 
+drink: kǔ=nwà	nwa 
+dry: kù=yûmà 
+ear: jitwi	tu	ǯǐ=tù 
+earth: n=dǒbà 
+ground: n=dǒbà 
+land: n=dǒbà 
+soil: n=dǒbà 
+eat: kǔ=ǯà 
+egg: ǯì=ŋì 
+eye: ho	jiho	ǯî=hò 
+fat: mǎ=ðì 
+fat n.: mǎ=ðì 
+grease: mǎ=ðì 
+lubricant: mǎ=ðì 
+oil: mǎ=ðì 
+feather: ǯì=hâkò 
+fire: munjilo	munj~ilo	mù=nǯìɾò 
+fish: inCi	nT~i	ǯǐn=čì 
+fly: kù=mbúɾùɾùkà 
+fly v.: kù=mbúɾùɾùkà 
+foot: ɾì=wùɾù 
+full: kin8~ala	kun8~ala	kù=nðàɾà	kù=ínðàɾà 
+give: kù=pânà 
+good: =wáhè 
+hair: ɾù=hǔkì 
+hand: boko	jiboko	ǯi=bôkò 
+left hand: boko	jiboko	ǯi=bôkò 
+right: boko	jiboko	ǯi=bôkò 
+head: mǔ=twè 
+hear: kù=yûvwà	yuvwa 
+heart: mù=tîmà 
+horn: SeNo	ruSeNu	ǯì=šêŋò 
+1 sg.: ami	àmí 
+I: ami	àmí 
+kill: kù=pùnùnà	kù=ðìhà 
+knee: jinuNo	nung~o	ǯì=nùŋò 
+be knowledgeable: kù=ǯímùkà 
+know: kù=ǯímùkà 
+leaf: bi8i	jibidh~i	ǯì=bîðì 
+lie: kù=ɾâɾà 
+lie down: kù=ɾâɾà 
+liver: jihuji	lend~a	ǯí=ɾèndá 
+long: =tâǯì 
+head louse: ina	na	y=ǐnà 
+louse: ina	na	y=ǐnà 
+male: mù=ɾûmè 
+man: muntu	mù=ntù	nt~u 
+many: =îŋì 
+much: =îŋì 
+multiple: =îŋì 
+several: =îŋì 
+flesh: ɲ=àmà 
+meat: ɲ=àmà 
+moon: =ŋòndà 
+hill: kè=nà	na 
+mountain: kè=nà	na 
+mouth: kà=nwà 
+name: 8ina	jidh~ina	ǯì=ðînà 
+title: 8ina	jidh~ina	ǯì=ðînà 
+neck: mù=kòšì 
+new: =pyà	py~a 
+night: uSiku	ù=šîkù 
+nighttime: uSiku	ù=šîkù 
+nose: 8ulu	muduru	mù=ðûɾù 
+not: kàǯìhá 
+adulterous: -mʊ	=mó	mo 
+one: -mʊ	=mó	mo 
+single: -mʊ	=mó	mo 
+that: =ò 
+the: -mʊ	=mó	mo 
+unprincipled: -mʊ	=mó	mo 
+human: muntu	mù=ntù	nt~u 
+human being: muntu	mù=ntù	nt~u 
+person: muntu	mù=ntù	nt~u 
+rain: mv=ûɾà 
+rainy weather: mv=ûɾà 
+red: kù=fúbìɾà 
+path: mù=kwàkwà	n8~ila	nd~hila 
+road: mù=kwàkwà	n8~ila	nd~hila 
+route: mù=kwàkwà	n8~ila	nd~hila 
+root: mù=pîšì 
+round: kú=ŋà nðíŋùɾǔkè 
+sand: ǯì=hékèɾěɾà 
+say: k=wàmbà	kwàmbà 
+see: kù=mônà	mona 
+seed: m=bûtò	n=ǯánǯà 
+sit: kù=kàɾà	kù=kónkòmòna 
+hide: kond~e	mwai	šì=kòndè 
+skin: kond~e	mwai	šì=kòndè 
+sleep: kù=ɾâɾà 
+little: ̌=šè 
+small: ̌=šè 
+smallness: ̌=šè 
+smoke: w=íšè 
+stand: kú=mànà 
+star: 5e5e	bu5e5e	ɲéɲè	ɾù=ɲéɲè 
+rock: lima5a	ma5a	ǯì=mǎɲà 
+stone: lima5a	ma5a	ǯì=mǎɲà 
+sun: mutena	mwana	mù=tênà 
+swim: kù=yôwà 
+tail: mù=šîɾà 
+this: =è 
+2 sg: obe	òbé 
+thou: obe	òbé 
+you: obe	òbé 
+tongue: imi	lulimi	ɾù=ɾîmì 
+tooth: jiyewe	yewe	yì=yèwè 
+tree: mutondo	mù=tôntò	tont~o 
+grind: -bidi	=bǐǯì	biji 
+two: -bidi	=bǐǯì	biji 
+go: kǔ=yà 
+walk: kǔ=yà 
+hot: kù=tùkùmà 
+warm: kù=tùkùmà 
+water: =mèma	mema 
+1 pl. inc.: etu	ètú 
+we: etu	ètú 
+we₁: etu	ètú 
+what: bǐhì 
+white: kù=tùbà 
+whiteness: kù=tùbà 
+who: yànì 
+who?: yànì 
+female: mù=kâðì 
+woman: mù=kâðì 
+distant: k=wàkùtâǯì 
+far: k=wàkùtâǯì 
+dull: =ɾěmù 
+heavy: =ɾěmù 
+serious: =ɾěmù 
+close: hàhêpì 
+near: hàhêpì 
+ner: hàhêpì 
+salt: mù=šéɾè 
+short: =îpì 
+snake: =yôkà	ǯì=yôkà 
+thin: kù=yôndà 
+wind: m=pêpò 
+earthworm: n=kàbò 
+worm: n=kàbò 
+year: mw=âkà 

@@ -1,0 +1,311 @@
+all: bane | náko 
+and: ao | ma	áo 
+animal: te man 
+ashes: mannaŋ | mannang 
+back: teakū | áku 
+bad: buakaka | be	buréti	buákaka	tabobe 
+bark: kunin te kai 
+because: pʷa 
+belly: te abein | bíroto 
+bird: te man ni kiba | man	mæn 
+bite: tenā | ténaa 
+black: rorō | bʼáta	kun	roró 
+blood: terarā | koraki	rara 
+blow: uka | uka	wái 
+bone: terī | reka	ri	rin 
+breast: te mmamma | bw~abw~a	bʼaábʼaa	mama	úbʼa 
+breathe: ike 
+burn: kabueka | kabueka	kabuóka 
+child: te ataei 
+cloud: te naŋ | nang 
+cold: mʷaitoro | mariri	mæ/riri 
+come: roko | karina	ke	ki	rokona	róko 
+correct: eti 
+count: wareka | wáre 
+cut: korea | kórokai 
+die: mate | mate	mauna 
+dig: kena | kéna 
+dirty: barekareka | baitoto	bakanana	baáreka	korowawa 
+dog: te [kamea] | kamea	kíri 
+drink: mōi | mói	nima	teme 
+dry: mʷau | bataka	kamʼáua	mʼáu	taka 
+dull: rotu | rawata	tinebu | kábubu 
+dust: te bubu | búbu 
+ear: te taniŋa | taniNa	taninga	tæ/ninga 
+earth: te aba 
+empty: akeakanoana 
+eye: te mata | mata	mæ/ta 
+fall: peu | bʼáka 
+far: rāroa | kino	kírarewa	kíraroa	raróa 
+father: te tama | táma 
+fat (n.): te nenea 
+fear: māku | makina	maákina 
+few: teutana 
+fingernail: te uki ni bai 
+fire: ahaŋ | ái 
+fish: te ika | ika	íka 
+five: nimaua | nimaua	nimáua 
+float: beibeti 
+flow: bʷaro | ranga	raánga 
+flower: teuē | marewe	ue 
+fly (v.): kiba 
+fog: te mābubu | mabubu	marabu	maábubu 
+foot: te wae 
+forest: te buakoni kai | buákoakónikai 
+four: aua | aua	áua 
+frog: te [biraoki] 
+fruit: te uā ni kai | uaa 
+full: on | intibua	kebo 
+give: aŋan 
+good: raoiroi | kan	raoi	reréi	ráoirói	wau 
+grass: te  uteute | utéute 
+green: māwawa | mawáwa 
+guts: ta kanoan | kanoa n nano 
+hair: iran atū | íra n átu 
+hand: tebai | bai	bái 
+head: te atū | átu 
+hear: oŋo | oNo	óngo 
+heart: te buro 
+heavy: rawāwata | rawata	tinebu 
+he: ŋaia 
+hit: orea | bo	óro 
+horn: te koro | bu 
+how: kaŋā | kanga 
+hunt: kāea | katebe man 
+husband: te bū | bu	kainaba 
+if: ŋkana | ngkána 
+I: ŋŋai | Nai	i	n	ngái 
+in: inanon | i	n	nano	ni 
+kill: kamatea | (ka-)márua	kamæ/tea	tiri(-nga) 
+knee: te bubua ni wae | bubuaniwai	tabanou ne wai 
+know: atā | atá 
+lake: te nama | nama	reeke 
+large: abʷābʷaki | búbura	kora 
+laugh: ŋare | ngáre 
+leaf: tebā | ba	banikai 
+left: maiŋ | máing 
+leg: te wae 
+lie: wene | wéne 
+live: maiu | máiu 
+liver: te ato | ato	áto 
+long: anānau | anánau	anáu 
+louse: te uti | usi	úti 
+man: te mmʷāne | aomata 
+many: mʷaiti 
+meat: te iriko | íriko 
+moon: namʷaina | namakáina 
+mother: te tina | tína 
+mountain: [te mauŋaj | mauNa 
+mouth: te wī | wi 
+name: tr ara 
+narrow: uaiki | réme	wáriki 
+near: kān | aikan	kan 
+neck: te roroa | roróa 
+new: [bōu] | bou	menai	menaái	ngkáinaba 
+night: te boŋ | boN	bong	tairiki 
+nose: te bʷairi | bw~airi	bʼáiri 
+old: ikawai 
+one: teuana | teuana	teuána 
+person: te aomata 
+play: takākaro 
+pull: aita 
+push: waŋa 
+rain: te karau | kárau 
+red: uraura | uráura 
+right: atai | bai	bái | átai 
+river: te karaŋa 
+road: te kawai | kawai	káwai	taneiai 
+root: te wakā | waka	wákaa 
+rope: terō | mae 
+rotten: mka | mka	mʼæ/ka	toto 
+round: mronron 
+rub: tārā 
+salt: tetāri | taoro 
+sand: te bike | bíke 
+say: [taku] | atónga	táku | bíke 
+sea: tāri | tari	taári 
+seed: te korā 
+sew: itua | itua	itutu	itutua 
+sharp: kakaŋi | kakang	mariro	namta 
+short: kīmototo | kimótoto 
+sing: anene 
+sit: tekateka | tékateka 
+skin: te kun | kun	nana 
+sky: karawa | kárawa 
+sleep: matũ | matu	mwe	mæ/tu 
+small: uarereke | kakárako	kárako	tiko 
+smell: aroka | aroki	neneboi 
+smoke: te bubu | búbu	marabu 
+smooth: aoraoi 
+snake: te naeta | náeta 
+some: teutana 
+spit: bʷāware | baáware 
+split: bʷenā | aea	bwena	bʼénæ 
+stab: ewara 
+stand: tei | teirake 
+star: te itoi | aratasi	awanei	ítoi 
+stick: teoko | mʼánga 
+straight: eti 
+suck: temeka | nam 
+sun: tāi | tai 
+tail: te buki | búki 
+they: ŋaīa | a	ngaia 
+thick: mmaten | maten	mæ/ten 
+think: kʌḷmæn- | iango 
+thin: mmani | bwére	manni	mæ/ni 
+thou: ŋkamī | Nkoe	ko	ngkóe 
+thou: ŋkoe | Nkoe	ko	ngkóe 
+three: teniua | tenua	tenúa 
+throw: karea | kárea 
+tie: kataia | bae	kabáea 
+tongue: te newe | newe	néwe 
+tooth: te wĩ | wi 
+turn: kab{w}arāka 
+two: uoua | uoua	uóua 
+vomit: mumuta | múmuta 
+warm: bue | kabue 
+we: ŋaira | ngáira	si	ti 
+wet: mʷaimʷai | aoi	maimai	maki	mæ/ra 
+what: terā | ra	tera 
+when: nniŋai | n tai ra	níngai 
+which: te...rā 
+white: mʷaiηaiηa | mái	máina 
+who: antai 
+why: aera 
+wide: rababa | wárebwe 
+wife: te bū | bu	kainaba 
+wind: te aŋ | ang 
+wing: te bai | bái 
+woman: te aine | áine 
+worm: mʷata | ino	mʼáta	íbo 
+wrong: aki eti 
+year: teririki | riríki 
+yellow: bā bobo | méamea 
+every: náko 
+ash: mannang 
+abdomen: bíroto 
+big: búbura	kora 
+bigness: búbura	kora 
+breasts: bw~abw~a	bʼaábʼaa	mama	úbʼa 
+burn tr.: kabueka	kabuóka 
+come from: karina	ke	ki	rokona	róko 
+be dead: mate	mauna 
+dead: mate	mauna 
+eat: kana	kang	matamu	ámʼarake 
+egg: bunatoi	bunæ/toi 
+feather: buráe ni man 
+fly: kíba 
+fly v.: kíba 
+left hand: bai	bái 
+1 sg.: Nai	i	n	ngái 
+be knowledgeable: atá 
+lie down: wéne 
+head louse: usi	úti 
+male: mane	mʼaáne 
+hill: mauNa 
+name: ara 
+title: ara 
+nighttime: boN	bong	tairiki 
+adulterous: teuana	teuána 
+single: teuana	teuána 
+that: ae	áre	árei 
+the: teuana	teuána 
+unprincipled: teuana	teuána 
+human: aomata 
+human being: aomata 
+person: aomata 
+rainy weather: kárau 
+path: kawai	káwai	taneiai 
+route: kawai	káwai	taneiai 
+see: kina	nora	nóra 
+hide: kun	nana 
+little: kakárako	kárako	tiko 
+smallness: kakárako	kárako	tiko 
+rock: ati 
+stone: ati 
+swim: uáua 
+this: áei 
+2 sg: Nkoe	ko	ngkóe 
+you: Nkoe	ko	ngkóe 
+tree: kai 
+grind: uoua	uóua 
+go: butæ	karae	nuwae	nákonako 
+walk: butæ	karae	nuwae	nákonako 
+hot: kabue 
+water: mam	mæm	ran	ræn 
+1 pl. inc.: ngáira	si	ti 
+we₁: ngáira	si	ti 
+whiteness: mái	máina 
+who?: antai 
+female: áine 
+distant: kino	kírarewa	kíraroa	raróa 
+serious: rawata	tinebu 
+close: aikan	kan 
+ner: aikan	kan 
+earthworm: ino	mʼáta	íbo 
+2 pl.: kam	ngkámi 
+ye: kam	ngkámi 
+you all: kam	ngkámi 
+3 pl.: a	ngaia 
+where: gna	i:/a	ia 
+where?: gna	i:/a	ia 
+when?: n tai ra	níngai 
+how?: kanga 
+broad: wárebwe 
+wideness: wárebwe 
+fat: nénea 
+principal wife: bu	kainaba 
+his mother: tína 
+my mother: tína 
+his father: táma 
+my father: táma 
+woods: buákoakónikai 
+branch: mʼánga 
+cord: mae 
+flesh: íriko 
+grease: nénea 
+gut: kanoa n nano 
+insides: kanoa n nano 
+intestine: kanoa n nano 
+intestines: kanoa n nano 
+breath: ike 
+laughter: ngáre 
+cogitate: iango 
+reflect: iango 
+sniff: aroki	neneboi 
+afraid: makina	maákina 
+be afraid: makina	maákina 
+fright: makina	maákina 
+alive: máiu 
+be alive: máiu 
+life: máiu 
+living: máiu 
+beat: bo	óro 
+strike: bo	óro 
+hack: kórokai 
+cut open: aea	bwena	bʼénæ 
+pierce: ewa 
+stab: ewa 
+scratch: ngóa 
+drop: bʼáka 
+grasp: tau 
+hold: tau 
+hold in arm: tau 
+squeeze: ong 
+wring: ong 
+bind: bae	kabáea 
+fasten: bae	kabáea 
+tie up: bae	kabáea 
+enumerate: wáre 
+number: wáre 
+tally: wáre 
+ocean: tari	taári 
+evil: be	buréti	buákaka	tabobe 
+rot: mka	mʼæ/ka	toto 
+filthy: baitoto	bakanana	baáreka	korowawa 
+soiled: baitoto	bakanana	baáreka	korowawa 
+blunt: kábubu 
+damp: aoi	maimai	maki	mæ/ra 
+right side: átai 
+at: i	n	ni 
+inside: i	n	nano	ni 

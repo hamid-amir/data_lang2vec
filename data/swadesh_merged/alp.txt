@@ -1,0 +1,266 @@
+all: pusue 
+every: pusue 
+ash: lopone	mlopone 
+ashes: lopone	mlopone 
+abdomen: apu	tia βui 
+belly: apu	tia βui 
+big: ela	elake 
+bigness: ela	elake 
+large: ela	elake 
+bird: manu	manue 
+bite: loto	ʼete 
+black: metene 
+blood: lalakwe	lalakw~e	lalaʼwe 
+bone: luli	luli- 
+breast: susu 
+breasts: susu 
+burn: busa	ʼotue 
+burn tr.: busa	ʼotue 
+cloud: moputi	oute 
+cold: miri	mlidi	mutine 
+come: luake	luaʼe 
+come from: luake	luaʼe 
+be dead: mata 
+dead: mata 
+die: mata 
+dog: asu 
+drink: kinu	ʼinu 
+dry: mala	mutule	nseʼi	seki 
+ear: tine loi	tlina 
+eat: kane	ʼane 
+egg: telu-	telui 
+eye: mata 
+feather: bulu 
+fire: auwe 
+fish: iane 
+fly: dibu	ribu 
+fly v.: dibu	ribu 
+good: mise	misete 
+green: malae	mamatane 
+hair: bua	ulu 
+hand: bala	bala- 
+left hand: bala	bala- 
+right: bala	bala- 
+head: ulu	ulu βuai 
+hear: lene 
+1 sg.: au 
+I: au 
+kill: bunu 
+be knowledgeable: rekwa	teʼwa 
+know: rekwa	teʼwa 
+leaf: loin	loini 
+lie: ataʼobue	atele	hataʼamae 
+lie down: ataʼobue	atele	hataʼamae 
+liver: ata	lale	molini 
+long: naluke	nanuʼwe 
+head louse: utu 
+louse: utu 
+male: makwái	moʼwai 
+man: tamata 
+moon: bulan	bulane 
+mouth: bidu	biru- 
+name: nane 
+title: nane 
+neck: mokane	moʼane 
+new: beluke	beluʼwe 
+night: mailene	ʼpetu 
+nighttime: mailene	ʼpetu 
+nose: inu	inu- 
+adulterous: esa 
+one: esa 
+single: esa 
+that: emero	mere 
+the: esa 
+unprincipled: esa 
+human: tamata 
+human being: tamata 
+person: tamata 
+rain: ulane 
+rainy weather: ulane 
+red: lalakwe	lalaʼwe 
+path: lalane 
+road: lalane 
+route: lalane 
+root: lamuiti	lamuti 
+sand: tapele	ume 
+say: beteke	beteʼe	hombe 
+see: mese	selu 
+sit: due	rue 
+hide: usa	usa-	usai 
+skin: usa	usa-	usai 
+sleep: ntulu	tulu 
+little: tone 
+small: tone 
+smallness: tone 
+smoke: au ʼweini	kweini 
+star: male	ʼmale 
+rock: batu 
+stone: batu 
+swim: nasa 
+tail: alu-	alui 
+this: emere	meje 
+2 sg: ale 
+thou: ale 
+you: ale 
+tongue: mei	mei-	meine 
+tooth: nie	nise 
+grind: lua 
+two: lua 
+go: solo	ʼeu 
+walk: solo	ʼeu 
+hot: memu	musu	musute 
+warm: memu	musu	musute 
+water: kwele	kw~ele	ʼwele 
+1 pl. inc.: ami	ite 
+we: ami	ite 
+we₁: ami	ite 
+what: saisa	sare 
+white: putile 
+whiteness: putile 
+who: side	sire 
+who?: side	sire 
+female: bina 
+woman: bina 
+yellow: porole 
+distant: lauke	lauʼwe 
+far: lauke	lauʼwe 
+dull: blulute	bulute	ʼbibi 
+heavy: blulute	bulute	ʼbibi 
+serious: blulute	bulute	ʼbibi 
+close: tea	teane 
+near: tea	teane 
+ner: tea	teane 
+salt: tasie 
+short: doʼone	rokone 
+snake: neneha	niaʼwe 
+thin: minite	mlite 
+wind: balate	maʼmale	sanute 
+earthworm: tilatine)	βiale 
+worm: tilatine)	βiale 
+year: musune 
+2 pl.: imi 
+ye: imi 
+you all: imi 
+3 pl.: sie 
+they: sie 
+where: eteka	etia 
+where?: eteka	etia 
+when: petu ila 
+when?: petu ila 
+how: leka	mula 
+how?: leka	mula 
+other: lomai	makete	maʼete 
+three: telu 
+four: ata 
+five: lima 
+broad: ntibati	sihai 
+wide: ntibati	sihai 
+wideness: ntibati	sihai 
+fat: minati 
+thick: ptelule	telu- 
+narrow: hʼete	kapete 
+principal wife: bina 
+wife: bina 
+husband: makwái	moʼwai 
+his mother: ina	ina- 
+mother: ina	ina- 
+my mother: ina	ina- 
+father: ama	ama- 
+his father: ama	ama- 
+my father: ama	ama- 
+forest: melate	mosole 
+woods: melate	mosole 
+branch: ai batai	ai sanai	sana- 
+stick: ai batai	ai sanai	sana- 
+fruit: bua-	buai 
+flower: buna	ure- 
+grass: putune	tapuane	ʼwahʼnalu 
+cord: mekute	meʼute 
+rope: mekute	meʼute 
+flesh: aʼlaline	tinai 
+meat: aʼlaline	tinai 
+grease: minati 
+wing: bala ʼibiti	kihoi 
+gut: tai	usi- 
+guts: tai	usi- 
+insides: tai	usi- 
+intestine: tai	usi- 
+intestines: tai	usi- 
+back: muli	ʼwata ulu 
+suck: hmoso	soso 
+spit: blutu	toe 
+vomit: loa 
+blow: hbue	βue 
+breath: lihi nakwa	nasi 
+breathe: lihi nakwa	nasi 
+laugh: mali 
+laughter: mali 
+cogitate: leheʼe	neheʼe	nenəte	noa 
+reflect: leheʼe	neheʼe	nenəte	noa 
+think: leheʼe	neheʼe	nenəte	noa 
+smell: ata	unuʼe 
+sniff: ata	unuʼe 
+afraid: dila	rila- 
+be afraid: dila	rila- 
+fear: dila	rila- 
+fright: dila	rila- 
+alive: mahai	ʼwana 
+be alive: mahai	ʼwana 
+life: mahai	ʼwana 
+live: mahai	ʼwana 
+living: mahai	ʼwana 
+hunt: aʼlali	usere 
+beat: deru	loso	teta 
+hit: deru	loso	teta 
+strike: deru	loso	teta 
+cut: dube	repa 
+hack: dube	repa 
+cut open: barie	bidiʼe	tetae 
+split: barie	bidiʼe	tetae 
+pierce: daba	sipa	susuʼe 
+stab: daba	sipa	susuʼe 
+scratch: klasi	ʼlasi 
+dig: kali	ʼalie 
+stand: kele	ʼele 
+drop: leʼa	pleʼae	tetu 
+fall: leʼa	pleʼae	tetu 
+grasp: kerike	lalaʼe 
+hold: kerike	lalaʼe 
+hold in arm: kerike	lalaʼe 
+squeeze: busie	lotae	ʼmoseʼe 
+wring: busie	lotae	ʼmoseʼe 
+throw: barie	raβa 
+bind: eta	leleʼe	loe	lohoʼe	suli 
+fasten: eta	leleʼe	loe	lohoʼe	suli 
+tie: eta	leleʼe	loe	lohoʼe	suli 
+tie up: eta	leleʼe	loe	lohoʼe	suli 
+sew: boli	sipa 
+count: neheʼe	nuake 
+enumerate: neheʼe	nuake 
+number: neheʼe	nuake 
+tally: neheʼe	nuake 
+flow: bele	darue	rala 
+lake: tibu 
+ocean: meita	meite 
+sea: meita	meite 
+dust: lopone	tapele kweini 
+fog: bubute	βuβute 
+sky: lanite 
+bad: kahiane	ʼtolone 
+evil: kahiane	ʼtolone 
+rot: pulue	pulute	ʼopue 
+rotten: pulue	pulute	ʼopue 
+dirty: mlopo	mopone 
+filthy: mlopo	mopone 
+soiled: mlopo	mopone 
+sharp: tinale	ʼelete 
+blunt: ngʼoʼole	nsupele	supele 
+damp: bosi	mbosi 
+wet: bosi	mbosi 
+right side: makonale	maʼwanale 
+left: mapale 
+at: epai	mei 
+in: lalei	pailala 
+inside: lalei	pailala 
+and: kai	ʼai 
+if: kalo	maha be(he) 

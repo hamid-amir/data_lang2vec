@@ -1,0 +1,160 @@
+all: tu₅ 
+every: tu₅ 
+ash: ka₃=sʰa₃ 
+ashes: ka₃=sʰa₃ 
+abdomen: ka₃=ƛəŋ₁ 
+belly: ka₃=ƛəŋ₁ 
+big: laŋ₈ 
+bigness: laŋ₈ 
+large: laŋ₈ 
+bird: naŋ₆ 
+bite: tɔ₈ 
+black: ƛuŋ₁ 
+blood: nch$3n	ncʰəŋ₃ 
+bone: ka8ona	ka₁=θʰɔŋ₃ 
+breast: fa₃=mpi̯au₆	kon 
+breasts: fa₃=mpi̯au₆	kon 
+burn: ʈa₃ 
+burn tr.: ʈa₃ 
+claw: kwa₅-pe₄ 
+nail: kwa₅-pe₄ 
+talon: kwa₅-pe₄ 
+cloud: ka₃=hu₃ 
+cold: θəŋ₄ 
+come: lo	lɔ₄	to	tɔ₂ 
+come from: lo	lɔ₄	to	tɔ₂ 
+be dead: to 
+dead: to 
+die: to 
+dog: tle	ƛe₃ 
+drink: h3u	hu₇ 
+dry: ŋkʰen₃ 
+ear: kanc~ea	mpi̯e₂ 
+earth: ka₃=te₁ 
+ground: ka₃=te₁ 
+land: ka₃=te₁ 
+soil: ka₃=te₁ 
+eat: nɔŋ₂ 
+egg: ki̯e₅ 
+eye: kh~i mon	kʰi₃=mɔŋ₆ 
+fire: katu	to₄ 
+fish: mpi̯e₄	nc~e 
+fly: ʑəŋ₅ 
+fly v.: ʑəŋ₅ 
+foot: lau₁ 
+full: Ten	puŋ₃ 
+good: ɣaŋ₅ 
+green: mpi̯u₂ 
+hair: ƛa₁-fa₃ 
+hand: pe₄	tape 
+left hand: pe₄	tape 
+right: pe₄	tape 
+head: fa₃ 
+hear: T3n	ɕəŋ₅ 
+heart: pi₃=so₁ 
+horn: Tun	ki̯uŋ₁ 
+1 sg.: Tun	ɕuŋ₃ 
+I: Tun	ɕuŋ₃ 
+kill: tɔ₅ 
+knee: fa₃=ɕa₆	kuNaTo 
+be knowledgeable: pa₁ 
+know: pa₁ 
+leaf: nt~Lan	nƛaŋ₂ 
+liver: mpi̯au₆	nT~au 
+long: nte₃ 
+head louse: katuna	ka₁=tuŋ₃ 
+louse: katuna	ka₁=tuŋ₃ 
+male: po₃=ɕəŋ₆ 
+man: no₂	nu 
+many: ntau₅ 
+much: ntau₅ 
+multiple: ntau₅ 
+several: ntau₅ 
+flesh: ŋka₂ 
+meat: ŋka₂ 
+moon: po₃=ɬo₅ 
+hill: 8au	θau₂a 
+mountain: 8au	θau₂a 
+mouth: nɕu₂ 
+name: mpe₅	mp~e83 
+title: mpe₅	mp~e83 
+neck: kuŋ₁=ƛəŋ₁ 
+new: Tin	sʰiŋ₁ 
+night: nt~onmun 
+nighttime: nt~onmun 
+nose: kʰi₃=mpi̯au₆	pinc~au 
+not: ma₂ 
+adulterous: i	i₁ 
+one: i	i₁ 
+single: i	i₁ 
+that: kau₂	uŋ₁ 
+the: i	i₁ 
+unprincipled: i	i₁ 
+human: no₂	nu 
+human being: no₂	nu 
+person: no₂	nu 
+rain: aŋ₁=nɔŋ₆ 
+rainy weather: aŋ₁=nɔŋ₆ 
+red: ləŋ₁ 
+path: Te	ki̯e₃ 
+road: Te	ki̯e₃ 
+route: Te	ki̯e₃ 
+root: ka₃=ɕɔŋ₂ 
+round: θu₆=luŋ₁ 
+say: tɯ₂ 
+see: nk~on	nt~a	pɔ₈ 
+seed: n̥aŋ₁ 
+sit: ɲi₁ 
+hide: katlau	ka₃=ƛau₅ 
+skin: katlau	ka₃=ƛau₅ 
+sleep: pau₅ 
+little: vi₃ 
+small: vi₃ 
+smallness: vi₃ 
+smoke: ka₃=pɔŋ₅-to₄ 
+stand: sʰo₃ 
+star: takuna	ɕe₁=kuŋ₁ 
+rock: faxe	fa₃=ɣe₁ 
+stone: faxe	fa₃=ɣe₁ 
+sun: minh~on	po₃=n̥ɔŋ₁ 
+tail: tau₃ 
+this: nɔŋ₃ 
+2 sg: kau	kau₂ 
+thou: kau	kau₂ 
+you: kau	kau₂ 
+tongue: kant~la	nƛa₈ 
+tooth: famh~in	fa₃=m̥iŋ₃ 
+tree: ntaŋ₅ 
+grind: au	au₁ 
+two: au	au₁ 
+go: muŋ₄ 
+walk: muŋ₄ 
+hot: ʆo₃ 
+warm: ʆo₃ 
+water: an	aŋ₁ 
+1 pl. inc.: pe	pe₁ 
+we: pe	pe₁ 
+we₁: pe	pe₁ 
+white: ƛo₁ 
+whiteness: ƛo₁ 
+who: po₃=tau₆ 
+who?: po₃=tau₆ 
+female: po₃=mpʰa₇ 
+woman: po₃=mpʰa₇ 
+yellow: kwen₂ 
+distant: kwe₁ 
+far: kwe₁ 
+dull: ɲ̥ɔŋ₃ 
+heavy: ɲ̥ɔŋ₃ 
+serious: ɲ̥ɔŋ₃ 
+close: ɣe₅ 
+near: ɣe₅ 
+ner: ɣe₅ 
+salt: nce₃ 
+short: luŋ₃ 
+snake: nəŋ₁ 
+thin: sʰaŋ₁ 
+wind: ka₃=ɕi₅ 
+earthworm: ka₁=ɕɔŋ₁ 
+worm: ka₁=ɕɔŋ₁ 
+year: saŋ₅ 

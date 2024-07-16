@@ -1,0 +1,565 @@
+all: bɛ 
+and: di | di	o	rɛ 
+and: o | di	o	rɛ 
+and: rɛ | di	o	rɛ 
+and: sɔ | di	o	rɛ 
+animal: ɔ́sɛːm | u-sɛm	úsɛːm	ɔ́sɛːm 
+animal: u˗sɛm | u-sɛm	úsɛːm	ɔ́sɛːm 
+animal: úsɛːm | u-sɛm	úsɛːm	ɔ́sɛːm 
+ankle: ɔ˗kɔčir wɑ ɑ˗ni 
+arm: kě˗tsaː 
+arm: ɑ˗loŋk 
+arrow: á˗soːr 
+arrow: kə˗tar 
+arrow: ɑ˗séno 
+ashes: r˗os | r-os 
+back: kə˗mut | kə-mut 
+bad: lès | -ləs	lès 
+bad: ˗ləs | -ləs	lès 
+bark: fóki | fóki 
+because: pəkɑšifɛ | pəkɑšifɛ 
+belly: k\ɑmɑkəmtɑ | k-or	k-oːr 
+belly: k˗or | k-or	k-oːr 
+belly: k˗oːr | k-or	k-oːr 
+big: bána | bána	bɑnɑ 
+big: bɑnɑ | bána	bɑnɑ 
+bird: a˗bámp | a-bámp	ɑm-bɑmp 
+bird: ɑm˗bɑmp | a-bámp	ɑm-bɑmp 
+bite: ŋɑŋ 
+bite: t̪ɔm | ŋɑŋ 
+bitter: róŋkɑt 
+black: bi 
+blood: máčiːr | m3tir	máčiːr	mɑ-tir	mɑ-čir 
+blood: mɑ˗čir | m3tir	máčiːr	mɑ-tir	mɑ-čir 
+blood: mɑ˗tir | m3tir	máčiːr	mɑ-tir	mɑ-čir 
+blow: fɛ́tlɑ | fɛ́tlɑ	kul	pəti 
+blow: kul | fɛ́tlɑ	kul	pəti 
+blow: pəti | fɛ́tlɑ	kul	pəti 
+bone: k˗èbant | bonth~	k-èbant	kə-bɑnt 
+bone: kə˗bɑnt | bonth~	k-èbant	kə-bɑnt 
+boy: ɑm˗bɔi 
+boy: wáhɛːturúni 
+branch: kɑ˗rɑ | kɑ-rɑ 
+breast: kɑ˗lɔnt | asa	r-ása 
+breast: r˗ása | asa	r-ása 
+breathe: góːsèm | góːsèm	ŋesəm 
+breathe: ŋesəm | góːsèm	ŋesəm 
+brother: u˗wɔnt̪ 
+brother: wóːantubáki 
+brother: wóːantufɛ́t 
+burn: fəei 
+burn: tɔi | fəei 
+butterfly: a˗tatka 
+calf: kə˗lɑgbo 
+calf: ɑ˗luk 
+cheek: ɑ˗kos 
+chest: aː˗kěbèt 
+chest: ɑ˗kəpət̪ 
+child: ˗ɑn | -ɑn 
+chin: ɑ˗bɑkət 
+claw: a˗sant̪ək | a-sant̪ək | sántàk	ɑ-sɑntrək	ɑn-tək 
+cloud: ɑ˗bunt | ɑ-bunt 
+cold: t̪ɑŋk | tsáŋk	t̪ɑŋk 
+cold: tsáŋk | tsáŋk	t̪ɑŋk 
+come: dér | -eːr	der	dér 
+come: ˗eːr | -eːr	der	dér 
+correct: t̪a˗lomp | t̪a-lomp 
+count: lɔm | lɔm	yirkɛ 
+count: yirkɛ | lɔm	yirkɛ 
+crocodile: a˗kúi 
+cut: gbək 
+cut: rɑt | gbək 
+dark: bi 
+daughter: bɛ́rɑ 
+daughter: wɑn 
+daughter: wóːan bɛ́ra 
+day: ɑŋ rei | rɑ-sɔk	rɔ́-yaːŋ 
+day: rɔ́˗yaːŋ | rɑ-sɔk	rɔ́-yaːŋ 
+day: rɑ˗sɔk | rɑ-sɔk	rɔ́-yaːŋ 
+die: fi | fi	fíː	k3fi 
+die: fíː | fi	fíː	k3fi 
+die: ra˗fi | fi	fíː	k3fi 
+dig: bɛ́nɛ | bɛs 
+dig: bɛs 
+dig: mɑŋk | bɛs 
+dirty: nɔ́kɔ | nɔ́kɔ 
+dog: á˗dzèn | t3n	á-dzèn	æ-tən	ɑ-t̪ən 
+dog: æ˗tən | t3n	á-dzèn	æ-tən	ɑ-t̪ən 
+dog: ɑ˗t̪ən | t3n	á-dzèn	æ-tən	ɑ-t̪ən 
+drink: mun | mun	mún 
+drink: mún | mun	mún 
+dry: wos | wos	wóːsi 
+dry: wóːsi | wos	wóːsi 
+dust: ɛ˗tɔf | ɛ-tɔf 
+ear: álèns | l3ns	álèns	ɑ-ləns 
+ear: ɑ˗ləns | l3ns	álèns	ɑ-ləns 
+earth: an˗tɔf 
+eat: di | di	dí 
+eat: dí | di	dí 
+egg: rɑ˗mɛs | rɑ-mɛs	rɔ́-mɛːs 
+egg: rɔ́˗mɛːs | rɑ-mɛs	rɔ́-mɛːs 
+elbow: kè˗gbɔ́ːnt 
+elbow: ra˗gbɔlkɔnt̪ 
+eye: ra˗fɔr | for	ra-fɔr	rá-fɔːr 
+eye: rá˗fɔːr | for	ra-fɔr	rá-fɔːr 
+eye: ɑ˗yin | for	ra-fɔr	rá-fɔːr 
+face: d˗er 
+face: d˗eːr 
+fall: fúmpo | fumpɔ	fúmpo 
+fall: fumpɔ | fumpɔ	fúmpo 
+far: ɔ˗bɔ́li | ɔ-bɔ́li 
+father: kas | kas	pa	ɔ-kas 
+father: ɔ˗kas | kas	pa	ɔ-kas 
+father: pa | kas	pa	ɔ-kas 
+fat (n.): m˗ɑ́ro 
+fear: nesa | rənes 
+fear: rənes 
+feather: k˗úpɑ | k-úpɑ 
+few: t̪ɑn 
+fight: čim | čim 
+finger: ázèl 
+finger: ázèl akátok 
+fingernail: ɑn˗tək | sántàk	ɑ-sɑntrək	ɑn-tək 
+fingernail: sántàk | sántàk	ɑ-sɑntrək	ɑn-tək 
+fingernail: ɑ˗sɑntrək | sántàk	ɑ-sɑntrək	ɑn-tək 
+finger: ɑŋ˗səl 
+finger: ɔ˗kɔ́čir 
+finger: ɑ˗səl ɑ˗bɑnɑ 
+finger: ɑ˗səl ɑ˗k\ət̪ək 
+fire: nánt | n-ɑnt	naNt	nánt 
+fire: n˗ɑnt | n-ɑnt	naNt	nánt 
+fish: k˗ěloːp | k-lop	k-ěloːp	lop 
+fish: k˗lop | k-lop	k-ěloːp	lop 
+five: tɑmɑt̪ | tàmath	tɑmɑt̪	tɔ́mat 
+five: tɔ́mat | tàmath	tɑmɑt̪	tɔ́mat 
+float: foi | foi	rɑf 
+float: rɑf | foi	rɑf 
+flower: ɑ˗lɛ́ŋi | ɑ-lɛ́ŋi 
+flow: kɔt | kɔt	tor 
+flow: tor | kɔt	tor 
+fly (n.): ɑ˗t̪ot̪ 
+fly (v.): fɑl 
+fly (v.): fɑlir 
+fog: kə˗bi | kə-bi 
+foot: aní | aní	k-ɑt̪ək 
+foot: aníroːráta | aní	k-ɑt̪ək 
+foot: k˗ɑt̪ək | aní	k-ɑt̪ək 
+foot: rabětka | aní	k-ɑt̪ək 
+foot: rɑ bətkɑ | aní	k-ɑt̪ək 
+forehead: á˗buŋ 
+forehead: ɑ˗buŋ 
+forest: á˗kant | á-kant	ɑŋ-gbɔŋkɔ 
+forest: ɑŋ˗gbɔŋkɔ | á-kant	ɑŋ-gbɔŋkɔ 
+four: páːnlɛ | p-àŋlὲ	páːnlɛ	pə-ɑŋlɛ 
+four: pə˗ɑŋlɛ | p-àŋlὲ	páːnlɛ	pə-ɑŋlɛ 
+fruit: ɑ˗kɔmi | ɑ-kɔmi 
+full: lɑ | lɑː 
+full: lɑː 
+full: lɑsər | lɑː 
+girl: wáhɛːtbɛ́ra 
+girl: wɑhɛt bɛrɑ 
+give: sɔŋ 
+good: fino | fino	fíːno 
+good: fíːno | fino	fíːno 
+grass: k\ereŋ | kʼereŋ 
+green: ŋéseŋ | ŋéseŋ 
+guts: r˗úmpɑ | r-úmpɑ 
+hair: r˗afóːn | r-afóːn	rɑ-fon 
+hair: rɑ˗fon | r-afóːn	rɑ-fon 
+hand: atálaŋ | kedzáːrumut	kɑ-tɑ	ta 
+hand: ɑ˗boftɑr | kedzáːrumut	kɑ-tɑ	ta 
+hand: kedzáːrumut | kedzáːrumut	kɑ-tɑ	ta 
+hand: kɑ˗tɑ | kedzáːrumut	kɑ-tɑ	ta 
+head: ra˗búmp | r-bomp	ra-búmp	tiəma 
+head: r˗bomp | r-bomp	ra-búmp	tiəma 
+head: tiəma | r-bomp	ra-búmp	tiəma 
+hear: təl | tal	tsěl	təl	t̪əl 
+hear: t̪əl | tal	tsěl	təl	t̪əl 
+heart: kə˗but | kə-but 
+hear: tsěl | tal	tsěl	təl	t̪əl 
+heavy: lel 
+here: ɑŋɔ | re	ɑŋɔ 
+here: re | re	ɑŋɔ 
+he/she: kɔ 
+he/she: kɔnɔ 
+he/she: ɔ˗ 
+he/she: ˗ɔŋ 
+hit: nɑp 
+hole: ɑ˗feŋk 
+horn: kə˗lɛn | kə-lɛn 
+house: á˗seːt 
+house: set̪ 
+how: to 
+hunt: kapra sókɑnɛ trɑ | kapra sókɑnɛ trɑ 
+husband: u˗wos | u-wos 
+ice: m\ɑnt̪ mɑ˗dirɑ | mʼɑnt̪ mɑ-dirɑ 
+if: bepi 
+I: i˗ | i-	iː	mina	minɛ 
+I: iː | i-	iː	mina	minɛ 
+I: ˗kami | i-	iː	mina	minɛ 
+I: kɑ mi | i-	iː	mina	minɛ 
+I: mi | i-	iː	mina	minɛ 
+I: minɛ | i-	iː	mina	minɛ 
+in: kɑ | kɑ	ro 
+in: ro | kɑ	ro 
+jaw: ɑ˗gbekəm 
+kill: dif 
+knee: rá˗wu | rá-wu	rɑ-wu 
+knee: rɑ˗wu | rá-wu	rɑ-wu 
+know: tara 
+lake: ɑ˗bɔ́ŋkɑ | ɑ-bɔ́ŋkɑ 
+laugh: sel | sel	séːl 
+laugh: séːl | sel	séːl 
+leaf: a˗bɔ́ːpr | a-bɔ́ːpr	bop	ɑ-bɔpər 
+leaf: ɑ˗bɔpər | a-bɔ́ːpr	bop	ɑ-bɔpər 
+left: mero 
+leg: ˗atək | -atək	kátèk	ɑ-ləŋk 
+leg: kátèk | -atək	kátèk	ɑ-ləŋk 
+leg: ɑ˗ləŋk | -atək	kátèk	ɑ-ləŋk 
+lie: fəŋt̪ɑ | fúnta	fəŋt̪ɑ 
+lie: fúnta | fúnta	fəŋt̪ɑ 
+lip: kə˗səŋ 
+liver: m˗im | m-im	mim 
+live: yi 
+long: bɔli 
+long: bɔli kɑ˗sɑ́ŋɑ 
+louse: k˗ɑr | kar 
+louse: kɑr k˗ɑ˗t̪ən | kar 
+man: rúni | w-uni	wuni	ɑfəm 
+man: wandúni | w-uni	wuni	ɑfəm 
+man: w˗úni | w-uni	wuni	ɑfəm 
+many: gbɑ́ti | gbɑ́ti	lɑi 
+many: lɑi | gbɑ́ti	lɑi 
+meat: (m)ɑ˗der | mɑ-der	ɑ-der | úsɛːm	ɔ-sɛm	ɔ́sɛːm 
+meat: ɔ˗sɛm | mɑ-der	ɑ-der | úsɛːm	ɔ-sɛm	ɔ́sɛːm 
+meat: ɔ́sɛːm | mɑ-der	ɑ-der | úsɛːm	ɔ-sɛm	ɔ́sɛːm 
+meat: úsɛːm | mɑ-der	ɑ-der | úsɛːm	ɔ-sɛm	ɔ́sɛːm 
+moon: ŋof 
+moon: ŋóːf | ŋof 
+moon: ŋoːf afú | ŋof 
+mosquito: á˗mis 
+mother: kára | kára	u-kɑrɑ 
+mother: u˗kɑrɑ | kára	u-kɑrɑ 
+mountain: a˗roŋ | a-roŋ 
+mountain: kɑ˗čeŋ | a-roŋ 
+mouth: kěšèŋ | kěšèŋ	kə-səŋ 
+mouth: kə˗səŋ | kěšèŋ	kə-səŋ 
+name: ŋes | 5es	ŋes 
+nape: kə˗lɛp 
+narrow: tiŋkɑnɛ 
+navel: k˗èbóːnt 
+navel: kə˗bont 
+near: ɔ˗fɑči | ɔ-fɑči 
+neck: kí˗lim | kí-lim	kɑ-lim 
+neck: kɑ˗lim | kí-lim	kɑ-lim 
+new: fɛt | fu 
+new: fu 
+night: ɔːbí | foy	rɑ-t̪ɑt̪ɑk	tatak	ɔːbí 
+night: rɑ˗t̪ɑt̪ɑk | foy	rɑ-t̪ɑt̪ɑk	tatak	ɔːbí 
+nose: ɑ˗kul | a-sot̪	asóːt	sot 
+not: hɛ | hɛ	t̪ɑ 
+not: t̪ɑ | hɛ	t̪ɑ 
+old: bákiː 
+old: bɑ́ki 
+one: pəin | -in	pin	pín	pəin 
+one: pín | -in	pin	pín	pəin 
+other: lɔm 
+person: ɑfəm | w-uni	wuni	ɑfəm 
+person: w˗uni | w-uni	wuni	ɑfəm 
+play: wol | wol	wóːl 
+play: wóːl | wol	wóːl 
+pull: liŋ 
+push: t̪ɔŋ 
+rain: k\ɔm | k-ɔːm	kʼɔm 
+rain: k˗ɔːm | k-ɔːm	kʼɔm 
+rain: k\ɔm kɔ tut | k-ɔːm	kʼɔm 
+rat: w˗er 
+rat: w˗eːr 
+rat: w\er u˗lɔl 
+red: yim 
+right: ˗diŋ | kedzáːrumut	kɑ-tɑ	ta | -diŋ 
+river: rɑ˗boŋ | rɑ-boŋ 
+road: r˗ɔŋ 
+root: a˗téŋk | a-téŋk	tuši 
+root: tuši | a-téŋk	tuši 
+rope: r˗abéŋa | r-abéŋa	rɑ-beŋɑ 
+rope: rɑ˗beŋɑ | r-abéŋa	rɑ-beŋɑ 
+rotten: tei 
+round: ˗lólok | -lólok 
+rub: sop 
+salt: mɛr | m-ɛr	mɛr 
+salt: m˗ɛr | m-ɛr	mɛr 
+sand: kě˗sent | kě-sent	sənt 
+sand: sənt | kě-sent	sənt 
+say: fɔf | pɑ | kě-sent	sənt 
+say: fɔ́ːf | pɑ | kě-sent	sənt 
+say: pɑ | kě-sent	sənt 
+scratch: kɔ́sɑ | kɑpəs	kɔ́sɑ	ŋɑt 
+scratch: kɑpəs | kɑpəs	kɔ́sɑ	ŋɑt 
+scratch: ŋɑt | kɑpəs	kɔ́sɑ	ŋɑt 
+seed: ɛ˗seənt̪ | mɑ-čer	ɛ-seənt̪ 
+seed: mɑ˗čer | mɑ-čer	ɛ-seənt̪ 
+see: nɛ̀ŋk | n3Nk	nənk	nɛ̀ŋk 
+see: nənk | n3Nk	nənk	nɛ̀ŋk 
+sew: sontʰ 
+sharp: wɔŋi 
+short: gbut 
+shoulder: akɛ̌ŋkěla 
+shoulder: ɑ˗kəŋklɑ 
+sing: leŋ 
+sister: u˗wɔnt̪ u˗bɛra 
+sister: wóːant ubɛ́raːfɛt 
+sister: wóːantubɛ́raubaki 
+sit: yirɑ | yirɑ	yíːra 
+sit: yíːra | yirɑ	yíːra 
+skin: adɛ́r | adɛ́r	ɑ-rékɑ 
+skin: ɑ˗rékɑ | adɛ́r	ɑ-rékɑ 
+skin: ɑ˗rekɑ | adɛ́r	ɑ-rékɑ 
+sky: ariːánna | ariːánna	kə-rənt̪ 
+sky: kə˗rənt̪ | ariːánna	kə-rənt̪ 
+sleep: díːra | díːra	kə-dírɑ	ma-re 
+sleep: kə˗dírɑ | díːra	kə-dírɑ	ma-re 
+sleep: ma˗re | díːra	kə-dírɑ	ma-re 
+small: lɔl | lɔl	lɔːl 
+small: lɔːl | lɔl	lɔːl 
+smoke: k\imɑ | kiːma	kʼimɑ 
+smoke: kiːma | kiːma	kʼimɑ 
+smooth: tənəp 
+snake: á˗boːk | á-boːk	ɑ-bɔk 
+snake: ɑ˗bɔk | á-boːk	ɑ-bɔk 
+snow: k˗ɔm kɛ˗díra | k-ɔm kɛ-díra 
+snow: k˗ɔs | k-ɔm kɛ-díra 
+son: w\ɑn u˗rúni 
+son: wóan rúːni 
+sour: yeryer 
+spit: ɛ˗nil | tuf 
+spit: sɔr | tuf 
+split: gbai 
+squeeze: wɛk | wɛk	wɛtɑ 
+squeeze: wɛtɑ | wɛk	wɛtɑ 
+stand: təmɑ 
+star: k˗os | k-os	kos 
+stone: asáːr | asáːr	sar	ɑ-sɑr 
+stone: ɑ˗sɑr | asáːr	sar	ɑ-sɑr 
+straight: lóːmpi | lomp	lompi	lóːmpi	t̪oloŋ 
+straight: lomp(i) | lomp	lompi	lóːmpi	t̪oloŋ 
+straight: t̪oloŋ | lomp	lompi	lóːmpi	t̪oloŋ 
+suck: bɛt̪ 
+sun: ɑr˗ét̪ | r-eːt	ret	ɑr-ét̪ 
+sun: r˗eːt | r-eːt	ret	ɑr-ét̪ 
+sweet: rɑ˗mɑi 
+sweet: rɔmái 
+swell: boiɑ 
+swim: ŋɑnt̪əŋ 
+tail: kə˗lenɑ | kə-lenɑ 
+take: gbási 
+take: yokɑ 
+take: yóːka 
+they: aŋ˗ | aŋ-	ŋa 
+they: ɑŋ | aŋ-	ŋa 
+they: ŋa | aŋ-	ŋa 
+thick: ləči | lət̪i	ləči 
+thick: lət̪i | lət̪i	ləči 
+thigh: á˗laŋk 
+thigh: ɑ˗ləŋk 
+thin: čempi | pɛpəl	čempi 
+think: lɑnɛ 
+thin: pɛpəl | pɛpəl	čempi 
+thou: ɲ˗ | am	munɔ	ɲ- 
+thou: munɔ | am	munɔ	ɲ- 
+three: pěsaːs | -sàs	pěsaːs	pə-sɑs 
+three: pə˗sɑs | -sàs	pěsaːs	pə-sɑs 
+throat: a˗bolo 
+throat: a˗búlo 
+throat: koŋkɛ́bɛːt 
+throw: ləmər 
+thunder: r\eŋ 
+tie: kot̪ 
+today: téːnɔŋ 
+today: t̪onɔŋ 
+tomorrow: ninaŋ 
+tomorrow: níːnaŋ 
+tongue: rá˗meːr | mer	rá-meːr	rɑ-mer 
+tongue: rɑ˗mer | mer	rá-meːr	rɑ-mer 
+tooth: rá˗seːk | rá-seːk	rɑ-šek	sek 
+tooth: rɑ˗šek | rá-seːk	rɑ-šek	sek 
+tree: ŋě˗nt | Nint 
+tree: ŋ˗ənt̪ | Nint 
+turn: ɔ˗kɑrɔ˗ənɑ 
+turn: ɔ˗nutnɛ 
+two: pěraŋ | -rəŋ	p3r3N	pěraŋ	pə-rəŋ 
+two: pə˗rəŋ | -rəŋ	p3r3N	pěraŋ	pə-rəŋ 
+vagina: mɑ˗bɛ́rɑ 
+vagina: rɑ˗bɔk 
+vagina: ɑ˗t̪ɑmpi 
+vomit: ŋɑnt̪ 
+walk: gbukɛ | kɔt	na 
+walk: gbúːkɛ | kɔt	na 
+walk: kɔ | kɔt	na 
+walk: ˗kɔ́ | kɔt	na 
+walk: ˗kónɛ | kɔt	na 
+walk: kɔnɛ | kɔt	na 
+walk: kɔt | kɔt	na 
+walk: na | kɔt	na 
+warm: fɔi won 
+warm: won 
+warm: woːn | won 
+wash: búko | búko	yak 
+wash: yak | búko	yak 
+water: mánt | maNt	mánt	n-aŋt 
+water: n˗aŋt | maNt	mánt	n-aŋt 
+weep: bɔk 
+weep: kulo 
+weep: kúlɔ 
+weep: n˗ɑnt̪ər 
+we: s˗ | sa 
+we: sa 
+we: su | sa 
+wet: krɑŋk | krɑŋk	tsáŋk 
+wet: tsáŋk | krɑŋk	tsáŋk 
+what: ko 
+when: t̪et̪e 
+where: ˗a | -a	deke	reke 
+where: deke | -a	deke	reke 
+where: reke | -a	deke	reke 
+white: féːra | -fəra	féːra 
+white: ˗fəra | -fəra	féːra 
+who: kanɛ 
+wide: bɑnɑ 
+wife: ɔ˗rɑni | ɔ-rɑni 
+wind: a˗fef | a-fef 
+wing: ɑ˗kufnɑ | ɑ-kufnɑ 
+wipe: nɑši | nɑši 
+with: rɑ 
+with: yi 
+woman: bɛ́rɑ | wuni-bom	wúnibom 
+woman: wúnibom | wuni-bom	wúnibom 
+woman: wuni˗bom | wuni-bom	wúnibom 
+wood: ak˗əŋt 
+wood: k˗ənt̪ 
+worm: ɑ˗bílo | ɑ-bílo 
+year: kɑ˗ren | kɑ-ren 
+yellow: yim 
+yesterday: dis 
+yesterday: diz 
+you: n˗ | am	munɔ	ɲ- | n-	na 
+you: na | am	munɔ	ɲ- | n-	na 
+you: nu | am	munɔ	ɲ- | n-	na 
+every: bɛ 
+ash: r-os 
+abdomen: k-or	k-oːr 
+bigness: bána	bɑnɑ 
+large: bána	bɑnɑ 
+breasts: asa	r-ása 
+nail: a-sant̪ək 
+talon: a-sant̪ək 
+come from: -eːr	der	dér 
+be dead: fi	fíː	k3fi 
+dead: fi	fíː	k3fi 
+fly: fɑl	fɑlir 
+fly v.: fɑl	fɑlir 
+left hand: kedzáːrumut	kɑ-tɑ	ta 
+1 sg.: i-	iː	mina	minɛ 
+be knowledgeable: tara 
+lie down: fúnta	fəŋt̪ɑ 
+head louse: kar 
+male: w-úni	wandúni 
+much: gbɑ́ti	lɑi 
+multiple: gbɑ́ti	lɑi 
+several: gbɑ́ti	lɑi 
+flesh: mɑ-der	ɑ-der 
+hill: a-roŋ 
+title: 5es	ŋes 
+nighttime: foy	rɑ-t̪ɑt̪ɑk	tatak	ɔːbí 
+adulterous: -in	pin	pín	pəin 
+single: -in	pin	pín	pəin 
+that: -in	pin	pín	pəin 
+the: -in	pin	pín	pəin 
+unprincipled: -in	pin	pín	pəin 
+human: w-uni	wuni	ɑfəm 
+human being: w-uni	wuni	ɑfəm 
+rainy weather: k-ɔːm	kʼɔm 
+hide: adɛ́r	ɑ-rékɑ 
+little: lɔl	lɔːl 
+smallness: lɔl	lɔːl 
+rock: asáːr	sar	ɑ-sɑr 
+2 sg: am	munɔ	ɲ- 
+grind: -rəŋ	p3r3N	pěraŋ	pə-rəŋ 
+go: kɔt	na 
+hot: won 
+1 pl. inc.: sa 
+we₁: sa 
+whiteness: -fəra	féːra 
+who?: kanɛ 
+female: wuni-bom	wúnibom 
+distant: ɔ-bɔ́li 
+dull: lel 
+serious: lel 
+close: ɔ-fɑči 
+ner: ɔ-fɑči 
+earthworm: ɑ-bílo 
+2 pl.: n-	na 
+ye: n-	na 
+you all: n-	na 
+3 pl.: aŋ-	ŋa 
+where?: -a	deke	reke 
+when?: t̪et̪e 
+how?: to 
+broad: bɑnɑ 
+wideness: bɑnɑ 
+fat: m-ɑ́ro 
+principal wife: ɔ-rɑni 
+his mother: kára	u-kɑrɑ 
+my mother: kára	u-kɑrɑ 
+his father: kas	pa	ɔ-kas 
+my father: kas	pa	ɔ-kas 
+woods: á-kant	ɑŋ-gbɔŋkɔ 
+stick: kɑ-rɑ 
+cord: r-abéŋa	rɑ-beŋɑ 
+grease: m-ɑ́ro 
+gut: r-úmpɑ 
+insides: r-úmpɑ 
+intestine: r-úmpɑ 
+intestines: r-úmpɑ 
+breath: góːsèm	ŋesəm 
+laughter: sel	séːl 
+cogitate: lɑnɛ 
+reflect: lɑnɛ 
+smell: muməl 
+sniff: muməl 
+afraid: rənes 
+be afraid: rənes 
+fright: rənes 
+alive: yi 
+be alive: yi 
+life: yi 
+living: yi 
+beat: nɑp 
+strike: nɑp 
+hack: gbək 
+cut open: gbai 
+pierce: rɑt 
+stab: rɑt 
+drop: fumpɔ	fúmpo 
+wring: wɛk	wɛtɑ 
+wash clothes: búko	yak 
+bind: kot̪ 
+fasten: kot̪ 
+tie up: kot̪ 
+enumerate: lɔm	yirkɛ 
+number: lɔm	yirkɛ 
+tally: lɔm	yirkɛ 
+have fun: wol	wóːl 
+brook: rɑ-boŋ 
+stream: rɑ-boŋ 
+blaze: fəei 
+daylight: rɑ-sɔk	rɔ́-yaːŋ 
+daytime: rɑ-sɔk	rɔ́-yaːŋ 
+evil: -ləs	lès 
+rot: tei 
+filthy: nɔ́kɔ 
+soiled: nɔ́kɔ 
+blunt: bɔŋ	gbəmət̪ 
+damp: krɑŋk	tsáŋk 
+right side: -diŋ 
+inside: kɑ	ro 

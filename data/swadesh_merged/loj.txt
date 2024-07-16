@@ -1,0 +1,147 @@
+all: tamina 
+every: tamina 
+ash: posuNop	posuŋ|op 
+ashes: posuNop	posuŋ|op 
+abdomen: tia	tia- 
+belly: tia	tia- 
+big: meneNan	meneŋan 
+bigness: meneNan	meneŋan 
+large: meneNan	meneŋan 
+bird: monmon 
+bite: arisap 
+black: karan 
+blood: turi	turi- 
+bone: peteri	peteri- 
+breast: susu	susu- 
+breasts: susu	susu- 
+burn: suli 
+burn tr.: suli 
+cold: roroun 
+come: me 
+come from: me 
+be dead: mat 
+dead: mat 
+die: mat 
+dog: mwi	mw~i 
+drink: im 
+dry: posa 
+ear: teliNa	teliŋa 
+earth: pw~anat 
+ground: pw~anat 
+land: pw~anat 
+soil: pw~anat 
+eat: Nan	ŋan 
+egg: rou-n	roun 
+eye: mara	mara- 
+fat: neneman 
+fat n.: neneman 
+grease: neneman 
+lubricant: neneman 
+oil: neneman 
+feather: lumu-n monmon	lumun	monmon 
+fire: mon 
+fish: nik 
+fly: op 
+fly v.: op 
+foot: pw~eleki 
+good: ian 
+green: arawin 
+hair: lumu	lumu- 
+hand: mina	mina- 
+left hand: mina	mina- 
+right: mina	mina- 
+head: ara	ara- 
+hear: roN	roŋ 
+1 sg.: Na	ŋa 
+I: Na	ŋa 
+kill: op mat 
+be knowledgeable: pasek 
+know: pasek 
+leaf: rei-n	rein 
+lie: in 
+lie down: in 
+liver: kari	kari- 
+long: elewen 
+head louse: kut 
+louse: kut 
+male: mween	mw~en 
+man: ramat 
+flesh: kani 
+meat: kani 
+moon: pul 
+mouth: kolo	kolo- 
+name: Nara	ŋara- 
+title: Nara	ŋara- 
+neck: porNa	porŋa- 
+new: papaeun 
+night: keli/peŋ	kelipeN 
+nighttime: keli/peŋ	kelipeN 
+nose: pursu	pur|su- 
+not: puin 
+adulterous: sip 
+one: sip 
+single: sip 
+that: sip 
+the: sip 
+unprincipled: sip 
+human: ramat 
+human being: ramat 
+person: ramat 
+rain: paN	paŋ 
+rainy weather: paN	paŋ 
+red: ramraman 
+path: sal 
+road: sal 
+route: sal 
+root: aku-n	akun 
+sand: kone 
+say: nesek 
+see: niN	niŋ 
+sit: tuk 
+hide: kuna	kuna- 
+skin: kuna	kuna- 
+sleep: metir 
+little: kapwiri	kapw~iri	kikirin 
+small: kapwiri	kapw~iri	kikirin 
+smallness: kapwiri	kapw~iri	kikirin 
+smoke: kosu 
+stand: tolul 
+star: rere 
+rock: rey 
+stone: rey 
+swim: kea 
+tail: penreu	penreu- 
+this: tapo 
+tongue: karmi	karmi- 
+tooth: lia	lia- 
+grind: ruep 
+two: ruep 
+go: wawa 
+walk: wawa 
+hot: ŋaraan 
+warm: ŋaraan 
+water: wei 
+1 pl. inc.: e-	ta	ta- 
+we: e-	ta	ta- 
+we₁: e-	ta	ta- 
+what: sa 
+white: koroun 
+whiteness: koroun 
+who: sie 
+who?: sie 
+female: pein 
+woman: pein 
+yellow: monti 
+distant: awot 
+far: awot 
+dull: [kun]kunun 
+heavy: [kun]kunun 
+serious: [kun]kunun 
+close: kasoŋ 
+near: kasoŋ 
+ner: kasoŋ 
+short: tourun 
+snake: kolponu 
+thin: rakelin 
+wind: aur 
+year: sasan 

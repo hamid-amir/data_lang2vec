@@ -1,0 +1,233 @@
+all: pea 
+arm: yono 
+ashes: kuku | kùku 
+ashes: ku~ku | kùku 
+back: mukiti 
+bad: po̪ko 
+bark: tabe 
+belly: tepe | tepe	wedo 
+belly: wedo | tepe	wedo 
+big: tubea | tubeà 
+big: tubea~ | tubeà 
+bird: ini | inì	ʔini 
+bird: ini~ | inì	ʔini 
+bite: taniko 
+black: lienea | lianea	lienea 
+blood: kamate 
+bone: tono | tono	tʰono 
+boy: ali mati 
+breast: adu 
+brother: wamene 
+burn: nako 
+chin: pakunu 
+claw: ogo 
+cloud: wedo | tono	wedo 
+cold: kakale toko | kakale toko	ɸanɛganea	ʔue ɸanɛganea 
+come: noko | noko	noko*	nokò 
+come: noko~ | noko	noko*	nokò 
+dark: lieneá 
+die: tuko | tuko	túko 
+die: túko | tuko	túko 
+dog: tue 
+drink: ue nako 
+dry: kau~ toko | kaù toko 
+dry: kau toko | kaù toko 
+ear: kabidi | kabidi	kaβɪnti 
+earth: itono 
+earth: itonó 
+eat: nako~ | nakò	nara	one ne nako 
+eat: one ne nako | nakò	nara	one ne nako 
+egg: mu | mũ 
+egg: mu͂ | mũ 
+eye: lene | lene	renne 
+fat (n.): ai 
+fat (n.): a͂i͂ 
+feather: pine | pine	ʔini ɸine 
+fire: toe | toe	tʰowɛ 
+fish: mou | mo*u*	mou	mõũ 
+fish: mo͂u͂ | mo*u*	mou	mõũ 
+fly (v.): pukanea yako 
+foot: kawa~ | kawà 
+forehead: pono 
+full: kapeteko 
+give: meteko | meteko	oneme no meteko 
+give: oneme no meteko | meteko	oneme no meteko 
+good: epeteko | epe tèko 
+good: epe te~ko | epe tèko 
+green: kanutanea | kanu tanea 
+green: kanu tanea 
+hair: pine | pine	píne 
+hair: píne | pine	píne 
+hand: yono 
+head: tobou 
+heart: mugili 
+hear: yateko | yateko	yateko*	yatekò 
+hear: yateko~ | yateko	yateko*	yatekò 
+heavy: kedá toko | kedá toko 
+he/she: one 
+he/she: one~ 
+hit: witiko 
+hold: moto~ko 
+horn: kime 
+house: yapu~ 
+I: no 
+kill: witiko 
+knee: wadini | wadini	wandɪnni 
+know: wene toko 
+laugh: yáu toko 
+leaf: tata | tata	tʰara 
+leg: kawa 
+leg: kawa~ 
+lie: pitiko | pitíko 
+lie: pitíko | pitíko 
+liver: kolotíni | kolotini	kolotono	kolotíni 
+liver: kolotono | kolotini	kolotono	kolotíni 
+long: ludu | ludu	rundu	yomo rundu 
+louse: nomo | nomo	nomo* 
+louse: nomo~ | nomo	nomo* 
+man: ali 
+many: kaia | kãĩa 
+many: ka͂i͂a | kãĩa 
+meat: melepu 
+meat: melépu 
+moon: tokene | tokene	tʰogɛne 
+mountain: tono | tono	tʰoːno	t̪ono 
+mountain: t̪ono | tono	tʰoːno	t̪ono 
+mouth: kabunu | kabunu	kaːmbunu 
+name: ibini | ibini	ibíni 
+name: ibíni | ibini	ibíni 
+neck: kabe | kabè	kʰambe 
+neck: kabe~ | kabè	kʰambe 
+new: pene | pene	péne 
+new: péne | pene	péne 
+night: likonou | likonou	likonu	tarigo 
+night: likonu | likonou	likonu	tarigo 
+nose: timini 
+not: mená | mená	mo- 
+not: mo- | mená	mo- 
+one: odene 
+person: ali 
+rain: ta | ta	tʰa 
+red: kienea | kienea	kiyɛnea 
+road: ka 
+root: teke | teke	ɸo ironoge 
+round: lupi 
+sand: kibi 
+say: wa oko | kibi 
+say: we oko | kibi 
+seed: lene 
+see: eneko | eneko	one eneko 
+see: one eneko | eneko	one eneko 
+shoulder: wagéne 
+sister: anaí 
+sit: meko | mego	mekó 
+sit: mekó | mego	mekó 
+skin: kepene | kepene	kɛbɛnɛ	yogele 
+skin: yogele | kepene	kɛbɛnɛ	yogele 
+sleep: atu pitiko 
+small: natea 
+smoke: lodo | lodo	ṛonro 
+spit: totona óko 
+stand: kako 
+star: tagoi | tagoi	taŋgowi 
+stone: kue | kue	kué 
+stone: kué | kue	kué 
+sun: lou | lou	loú	rou 
+sun: loú | lou	loú	rou 
+swim: ue yonoto piko | ue yonoto piko	ʔuatuabego 
+tail: adapini 
+that: eni 
+they: kini 
+they two: kita 
+they two: kita~ 
+thigh: mana 
+this: i 
+thou: kíwi | kiwi	ne	nè 
+thou: ne | kiwi	ne	nè 
+thou: ne~ | kiwi	ne	nè 
+tongue: keke | keke	keké	kʰekʰe 
+tongue: keké | keke	keké	kʰekʰe 
+tooth: kime 
+tree: yomo | yomo	yomo* 
+tree: yomo~ | yomo	yomo* 
+two: takuta | ta hutà	takuta 
+walk: yako 
+walk: yakó 
+warm: poto toko 
+water: ue | ue	ue*	uè	ʔue 
+water: ue~ | ue	ue*	uè	ʔue 
+we (incl.): toto 
+we: toto 
+we two (incl.): tota 
+we two (incl.): tota~ 
+we two: toto 
+what: ede | ede	edele 
+what: edele | ede	edele 
+when: manipeté 
+white: áke tanea | aːkɪtanea	áke tanea 
+white: ake tanea | aːkɪtanea	áke tanea 
+who: teyo | teyó 
+who: teyó | teyó 
+woman: atoa | atòa	ʔarua 
+woman: ato~a | atòa	ʔarua 
+yellow: kakai | kakai pagènea	ʔambubaŋganea 
+yellow: kakai page~nea | kakai pagènea	ʔambubaŋganea 
+yesterday: abela 
+you: kiwi | kiwi	ne	nè 
+you two: kita 
+you two: kita~ 
+every: pea 
+ash: kùku 
+abdomen: tepe	wedo 
+bigness: tubeà 
+large: tubeà 
+breasts: adu 
+nail: ogo 
+talon: ogo 
+come from: noko	noko*	nokò 
+be dead: tuko	túko 
+dead: tuko	túko 
+ground: itono 
+land: itono 
+soil: itono 
+fly: pukanea yako 
+fly v.: pukanea yako 
+left hand: yono 
+right: yono 
+1 sg.: no 
+be knowledgeable: wene toko 
+lie down: pitíko 
+head louse: nomo	nomo* 
+male: ali	ʔaḷi 
+much: kãĩa 
+multiple: kãĩa 
+several: kãĩa 
+hill: tono	tʰoːno	t̪ono 
+title: ibini	ibíni 
+nighttime: likonou	likonu	tarigo 
+adulterous: odene 
+single: odene 
+the: odene 
+unprincipled: odene 
+human: ali 
+human being: ali 
+rainy weather: ta	tʰa 
+path: ka 
+route: ka 
+hide: kepene	kɛbɛnɛ	yogele 
+little: natea 
+smallness: natea 
+rock: kue	kué 
+2 sg: kiwi	ne	nè 
+grind: ta hutà	takuta 
+go: yako 
+1 pl. inc.: toto 
+we₁: toto 
+whiteness: aːkɪtanea	áke tanea 
+who?: teyó 
+female: atòa	ʔarua 
+dull: kedá toko 
+serious: kedá toko 
+short: tɪŋgonea	yomo tɪŋgonea 
+thin: erɛnɛ denarea	yomo erɛnɛ denarea 
+wind: ɸubrɛŋge 

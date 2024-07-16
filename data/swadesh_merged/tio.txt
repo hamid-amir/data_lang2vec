@@ -1,0 +1,266 @@
+all: kavara-rara 
+every: kavara-rara 
+ash: kavoto 
+ashes: kavoto 
+abdomen: koma 
+belly: koma 
+big: beera	bero 
+bigness: beera	bero 
+large: beera	bero 
+bird: naovana 
+bite: koto 
+black: paru 
+blood: revasin 
+bone: sino 
+breast: huhu	koko	kookoo 
+breasts: huhu	koko	kookoo 
+burn: asi 
+burn tr.: asi 
+cloud: ununu	ununuu 
+cold: tovuhu 
+come: noma 
+come from: noma 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: kahi 
+drink: gaga 
+dry: paran	rakaraka 
+ear: taina	tainana 
+eat: ani 
+egg: rupi 
+eye: mata	matana 
+feather: paka 
+fire: sura	suraa 
+fish: ia	iana 
+fly: naovo 
+fly v.: naovo 
+good: mata	mataa 
+green: perepere 
+hair: vunu	vunuu 
+hand: kuri	kurina 
+left hand: kuri	kurina 
+right: kuri	kurina 
+head: kaho	kahoo 
+hear: baitono 
+1 sg.: ea	eana 
+I: ea	eana 
+kill: asun 
+be knowledgeable: hata	hatanata	kona	konakona 
+know: hata	hatanata	kona	konakona 
+leaf: paka naono 
+lie: butoto 
+lie down: butoto 
+liver: ate 
+long: bebeahu 
+head louse: usu 
+louse: usu 
+male: abana	otei 
+man: aba 
+moon: sivao 
+mouth: rivona 
+name: he	hena 
+title: he	hena 
+neck: gogona	gogoona 
+new: von	voon 
+night: boni 
+nighttime: boni 
+nose: ihu	ihuna 
+adulterous: peha 
+one: peha 
+single: peha 
+that: eovoi	oi	oioi 
+the: peha 
+unprincipled: peha 
+human: aba 
+human being: aba 
+person: aba 
+rain: huan 
+rainy weather: huan 
+red: goguravi 
+path: hana	hanana 
+road: hana	hanana 
+route: hana	hanana 
+root: ana 
+sand: kakamuru	kasuana 
+say: sue 
+see: tara 
+sit: hio 
+hide: kapa 
+skin: kapa 
+sleep: goroho 
+little: ruta	rutaa 
+small: ruta	rutaa 
+smallness: ruta	rutaa 
+smoke: aho 
+star: pitopito 
+rock: vasu 
+stone: vasu 
+swim: ruvu 
+tail: vihi 
+this: ei	eie	evei 
+2 sg: e	ena 
+thou: e	ena 
+you: e	ena 
+tongue: mea	meana 
+tooth: nihi 
+grind: buaka	buaku 
+two: buaka	buaku 
+go: pita 
+walk: pita 
+hot: hihiva va sihun 
+warm: hihiva va sihun 
+water: rue	ruene 
+1 pl. inc.: eam	eara 
+we: eam	eara 
+we₁: eam	eara 
+what: taba|e 
+white: kakavo	kakavoo 
+whiteness: kakavo	kakavoo 
+who: tei|e 
+who?: tei|e 
+female: mon	moon 
+woman: mon	moon 
+yellow: kasi kasire 
+distant: vavura [bebeahn] 
+far: vavura [bebeahn] 
+dull: ponisi 
+heavy: ponisi 
+serious: ponisi 
+close: vahusu 
+near: vahusu 
+ner: vahusu 
+salt: tahii 
+short: kakato 
+snake: kuru	kuruu 
+thin: apa apa 
+wind: iravata 
+earthworm: kaakani	kakani 
+worm: kaakani	kakani 
+year: vinu 
+2 pl.: ean 
+ye: ean 
+you all: ean 
+3 pl.: eori 
+they: eori 
+where: have 
+where?: have 
+when: tobo nihi 
+when?: tobo nihi 
+how: eisau	have 
+how?: eisau	have 
+other: meho 
+three: kukan 
+four: dorana 
+five: taonim 
+broad: banata	tatabonata 
+wide: banata	tatabonata 
+wideness: banata	tatabonata 
+fat: mona	monaa 
+thick: ponoto 
+narrow: kopisi 
+principal wife: mutana otei 
+wife: mutana otei 
+husband: mutana moon 
+his mother: ia	sinana 
+mother: ia	sinana 
+my mother: ia	sinana 
+father: tamana	teetee	tetee 
+his father: tamana	teetee	tetee 
+my father: tamana	teetee	tetee 
+forest: rasu	rasuu 
+woods: rasu	rasuu 
+branch: va karapi 
+stick: va karapi 
+fruit: vua 
+flower: purupuru 
+grass: garas	gigiruva	rasu 
+cord: kanono	kara	urisi 
+rope: kanono	kara	urisi 
+flesh: beno 
+meat: beno 
+grease: mona	monaa 
+wing: pakapaka 
+gut: hiapa 
+guts: hiapa 
+insides: hiapa 
+intestine: hiapa 
+intestines: hiapa 
+back: tobnuna	tonuna 
+suck: hirupaʔ 
+spit: dovi 
+vomit: bura	buraa 
+blow: kuu	naovo	piuvu 
+breath: va vuriha 
+breathe: va vuriha 
+laugh: haesi 
+laughter: haesi 
+cogitate: opehe 
+reflect: opehe 
+think: opehe 
+smell: avuhu	hirupa 
+sniff: avuhu	hirupa 
+afraid: naabu	nabu 
+be afraid: naabu	nabu 
+fear: naabu	nabu 
+fright: naabu	nabu 
+alive: tootoo	toto 
+be alive: tootoo	toto 
+life: tootoo	toto 
+live: tootoo	toto 
+living: tootoo	toto 
+hunt: hiipi	va hipi 
+beat: navuhu 
+hit: navuhu 
+strike: navuhu 
+cut: mosi 
+hack: mosi 
+cut open: siri 
+split: siri 
+pierce: tahi 
+stab: tahi 
+scratch: kare 
+dig: kasi 
+stand: sun 
+drop: ku	kuu 
+fall: ku	kuu 
+grasp: ato 
+hold: ato 
+hold in arm: ato 
+squeeze: posi 
+wring: posi 
+throw: busu	tasu 
+bind: vakisi 
+fasten: vakisi 
+tie: vakisi 
+tie up: vakisi 
+sew: kunakuna 
+count: ahe 
+enumerate: ahe 
+number: ahe 
+tally: ahe 
+flow: oro 
+lake: kopua	namana 
+ocean: tahi	tahii 
+sea: tahi	tahii 
+dust: avu 
+fog: ununu	ununuu 
+sky: suviri 
+bad: ora	oraa 
+evil: ora	oraa 
+rot: koava 
+rotten: koava 
+dirty: paru 
+filthy: paru 
+soiled: paru 
+sharp: kakaniva 
+blunt: kekebusu	kekesum 
+damp: purihi 
+wet: purihi 
+right side: matau 
+left: keruka 
+at: tea	teo 
+in: komana 
+inside: komana 
+and: bara 
+if: evehe 

@@ -1,0 +1,322 @@
+all: kumuinCi	ʼkuʼmuinči	ʼmilʸai 
+every: kumuinCi	ʼkuʼmuinči	ʼmilʸai 
+ash: 5ipe	ʼhuʔ-pe	ʼɲii-pe 
+ashes: 5ipe	ʼhuʔ-pe	ʼɲii-pe 
+bark: kika	ʼči-ʼkika 
+abdomen: ahka 
+belly: ahka 
+big: awa	ʼʔaa-	ʼʔaa-wa 
+bigness: awa	ʼʔaa-	ʼʔaa-wa 
+large: awa	ʼʔaa-	ʼʔaa-wa 
+bird: piSku	ʼpiču	ʼpišku 
+bite: fi	ʼhai-nu	ʼΦi-nu 
+black: pababa	ʼpaʼba-ba 
+blood: asa	ʼasa 
+bone: taku	ʼtaku 
+breast: CuCu	ʼču-ču 
+breasts: CuCu	ʼču-ču 
+claw: ty~aki	ʼtʸa-ki 
+nail: ty~aki	ʼtʸa-ki 
+talon: ty~aki	ʼtʸa-ki 
+cloud: ʼɲi-ʼwihča 
+cold: iSa	ʼʔiša 
+come: ha	ʼha-nu 
+come from: ha	ʼha-nu 
+be dead: pe	ʼpe-mu	ʼpe-nu 
+dead: pe	ʼpe-mu	ʼpe-nu 
+die: pe	ʼpe-mu	ʼpe-nu 
+dog: kuCa	ʼkuča 
+drink: kuS	ʼkuš-nu 
+dry: ehke	ʼehke	ʼehʼke-nu 
+ear: puNgui	pungi 
+earth: tu 
+ground: tu 
+land: tu 
+soil: tu 
+eat: fi	ʼΦi-nu 
+egg: napipu	ʼna-ʼpi-pu 
+eye: kapuka	ʼka-ʼpuka 
+fat: muly~i 
+fat n.: muly~i 
+grease: muly~i 
+lubricant: muly~i 
+oil: muly~i 
+feather: haCi	hu	ʼhaʔči 
+fire: 5i	ɲi 
+fish: aly~a	ʼalʸa	ʼpi ʼalʸa 
+fly: he	ʼhe-ʼke-nu	ʼheʔ-nu 
+fly v.: he	ʼhe-ʼke-nu	ʼheʔ-nu 
+foot: nepa	ʼneepa 
+full: ty~uwahu	ʼtʸuwa	ʼyalʸu 
+give: ku	ʼku-nu 
+good: ura	ʼuwa	ʼʔura 
+green: luSkatata	ʼluškaʼtata 
+hair: aCuhua	aʼčuwa 
+hand: ty~apa	ʼtʸaapa 
+left hand: ty~apa	ʼtʸaapa 
+right: ty~apa	ʼtʸaapa 
+head: miSpuka	ʼmiš-ʼpuka	ʼmišu 
+hear: me	ʼmee-nu 
+heart: tenuka	ʼten-ʼbuka 
+horn: %kaCu	ʼkaču 
+1 sg.: i	ʼi-ya 
+I: i	ʼi-ya 
+kill: tu	ʼtuʔ-nu	ʼtuʼte-nu 
+knee: nenbulu	ʼne-nʼbulu 
+be knowledgeable: mi	ʼkee-mi-ʼha-nu	ʼmi-nu	ʼmi-ʼha-nu 
+know: mi	ʼkee-mi-ʼha-nu	ʼmi-nu	ʼmi-ʼha-nu 
+leaf: haki	ʼhaki 
+lie: cu	ʼc̷u-nu 
+lie down: cu	ʼc̷u-nu 
+liver: ahpa	ʼahpa	ʼbasu 
+long: abare	ʼaa-ʼbare	ʼbare 
+head louse: mu 
+louse: mu 
+male: lʸu-pu	unbe ruka 
+man: CaCaily~a	ʼčači 
+many: purehu	ʼpuʼra-hu	ʼpuʼre-hu	ʼpuʼreʔ 
+much: purehu	ʼpuʼra-hu	ʼpuʼre-hu	ʼpuʼreʔ 
+multiple: purehu	ʼpuʼra-hu	ʼpuʼre-hu	ʼpuʼreʔ 
+several: purehu	ʼpuʼra-hu	ʼpuʼre-hu	ʼpuʼreʔ 
+flesh: aly~a	ʼalʸa 
+meat: aly~a	ʼalʸa 
+moon: kepe pata	ʼke-pe ʼpahta	ʼpahta 
+hill: feSa	ly~ubaba	ʼkuyi	ʼlun-ʼguyi 
+mountain: feSa	ly~ubaba	ʼkuyi	ʼlun-ʼguyi 
+mouth: fipaki	ʼΦi-ʔ-ʼpa-ki 
+name: mumu	ʼmu-mu 
+title: mumu	ʼmu-mu 
+neck: kutu	ʼkutu 
+new: kasa	ʼkasa 
+night: kepe	ʼke-pe 
+nighttime: kepe	ʼke-pe 
+nose: kikapa	ʼkih-ʼkapa 
+not: m7m 
+adulterous: main 
+one: main 
+single: main 
+that: hunca 
+the: main 
+unprincipled: main 
+human: CaCaily~a	ʼčači 
+human being: CaCaily~a	ʼčači 
+person: CaCaily~a	ʼčači 
+rain: Suwa	šu-pi	ʼšuwa 
+rainy weather: Suwa	šu-pi	ʼšuwa 
+red: uNgalala	ʼlʸuʼba-ba	ʼungaʼlala 
+path: mi5u 
+road: mi5u 
+route: mi5u 
+root: telele	ʼteʼlele 
+round: dapukaka	ʼdaʔ-puʼka-ka	ʼdaʔtiʼriri 
+sand: ʼɲii-pe 
+say: cand~i	ʼc̷an-ʼdi-nu	ʼti-nu 
+see: ke	ʼkee-nu	ʼkee-ʼke-nu 
+seed: 5i	ɲi	ʼpuka 
+sit: cu	ʼču-nu	ʼču-ʼdi-nu 
+hide: kika	ʼkika 
+skin: kika	ʼkika 
+sleep: kas	ʼkas-nu	ʼkaʼsu-nu 
+little: a5u5u	ʼaɲ̃uɲu	ʼkaaʔ-aʼtʸutʸu 
+small: a5u5u	ʼaɲ̃uɲu	ʼkaaʔ-aʼtʸutʸu 
+smallness: a5u5u	ʼaɲ̃uɲu	ʼkaaʔ-aʼtʸutʸu 
+smoke: 5iviCa	ʼɲi-ʼwihča 
+stand: uyu 
+star: makara	ʼmaʼkara 
+rock: skupuka	ʼlanbaki	ʼšu-ʼpuka 
+stone: skupuka	ʼlanbaki	ʼšu-ʼpuka 
+sun: pata	ʼpahta 
+swim: piSuiNgue	ʼpi-šuin-ʼge-nu 
+tail: nepele	ʼne-ʼpele 
+this: enca 
+2 sg: 5u	5uly~a	ɲu-ʔ 
+thou: 5u	5uly~a	ɲu-ʔ 
+you: 5u	5uly~a	ɲu-ʔ 
+tongue: ihka	ʼɲihka 
+tooth: teku	ʼtehku 
+tree: Ci 
+grind: pallu	paly~u	ʼpalʸu 
+two: pallu	paly~u	ʼpalʸu 
+go: ne	ʼne-nu 
+walk: ne	ʼne-nu 
+hot: ʼhayu lu	ʼlu-čaʼpii 
+warm: ʼhayu lu	ʼlu-čaʼpii 
+water: pi 
+1 pl. inc.: lala 
+we: lala 
+we₁: lala 
+what: tin	tʸee	ʼti-n	ʼtih-ʼtu-n 
+white: fibaba	ʼΦiʼba-ba 
+whiteness: fibaba	ʼΦiʼba-ba 
+who: mun	ʼmu-n	ʼmuh-ʼtu-n 
+who?: mun	ʼmu-n	ʼmuh-ʼtu-n 
+female: Sinbu	šinbu	ʼsu-pu 
+woman: Sinbu	šinbu	ʼsu-pu 
+yellow: lakily~ily~i	ʼlahkiʼlʸilʸi 
+distant: ʼbaa-ša	ʼbare 
+far: ʼbaa-ša	ʼbare 
+dull: ʼadʸu 
+heavy: ʼadʸu 
+serious: ʼadʸu 
+close: ʼkale 
+near: ʼkale 
+ner: ʼkale 
+salt: ʼtʸayu 
+short: ʼda-pe	ʼda-ʼpepe	ʼmuču 
+snake: ʼpiɲi 
+thin: ʼluʔʼmimi	ʼpinʼgiki 
+wind: ʼiʼšuwa	ʼiʼšuya 
+earthworm: ʼtu-ʼpiɲi 
+worm: ʼtu-ʼpiɲi 
+year: ʼaɲu 
+2 pl.: ʼɲu-lʸa 
+ye: ʼɲu-lʸa 
+you all: ʼɲu-lʸa 
+3 pl.: ʼya-ʼla-ʔ 
+they: ʼya-ʼla-ʔ 
+where: ʼnunba	ʼnuʼka-a 
+where?: ʼnunba	ʼnuʼka-a 
+when: ʼnaa-ma 
+when?: ʼnaa-ma 
+how: ʼna-ih-tu	ʼnaaʔ-ʼih-tu	ʼneh-ʼt-aa 
+how?: ʼna-ih-tu	ʼnaaʔ-ʼih-tu	ʼneh-ʼt-aa 
+some: ʼman-c̷a	ʼti-i-ʼɲu-ba	ʼtʸe-e-ba 
+few: ʼhayu	ʼmiʼkaka 
+three: pema	ʼpema 
+four: sucu	ʼtaa-ʼpalʸu 
+five: manda	ʼman-da 
+broad: ʼaa-ʼbungu	ʼbungu 
+wide: ʼaa-ʼbungu	ʼbungu 
+wideness: ʼaa-ʼbungu	ʼbungu 
+thick: ʼaa-ʼbebe	ʼbebe 
+narrow: ʼkaa-ʼbungu	ʼpinʼgiki 
+child: na	ʼkaa-na 
+principal wife: yaʔ šimbu	yaʔ šinbu 
+wife: yaʔ šimbu	yaʔ šinbu 
+husband: ʼyaʔ ʼruku 
+his mother: ʼama	ʼmama 
+mother: ʼama	ʼmama 
+my mother: ʼama	ʼmama 
+father: ʼapa	ʼyaʔ ʼpa 
+his father: ʼapa	ʼyaʔ ʼpa 
+my father: ʼapa	ʼyaʔ ʼpa 
+animal: ʼaʼniʼmaa 
+forest: ʼheen-ʼbala	ʼhele 
+woods: ʼheen-ʼbala	ʼhele 
+branch: ʼali	ʼʔalʸi 
+stick: ʼali	ʼʔalʸi 
+fruit: ʼpuka 
+flower: ʼlʸu-lʸu 
+grass: ʼiš-ʼtape	ʼtape 
+cord: ʼkabu-ʼčuwa 
+rope: ʼkabu-ʼčuwa 
+fingernail: ʼtʸa-ki 
+leg: ʼneepa 
+wing: ʼhaʔči 
+gut: ʼpe-ʼšilʸi 
+guts: ʼpe-ʼšilʸi 
+insides: ʼpe-ʼšilʸi 
+intestine: ʼpe-ʼšilʸi 
+intestines: ʼpe-ʼšilʸi 
+back: ʼbeenʼbušu	ʼbehči 
+suck: ʼmiš-nu 
+spit: ʼinbi-ʼke-nu 
+vomit: ʼkača-ʼke-nu	ʼkaš-ʼke-nu 
+blow: ʼhui-nu	ʼhui-ʼpu-nu 
+breath: ʼiš-nu 
+breathe: ʼiš-nu 
+laugh: ʼuu-ʼka-nu 
+laughter: ʼuu-ʼka-nu 
+cogitate: -ʼge-nu 
+reflect: -ʼge-nu 
+think: -ʼge-nu 
+smell: ʼiš-ʼka-nu 
+sniff: ʼiš-ʼka-nu 
+afraid: ʼhee-	ʼhee-ʼten-nu 
+be afraid: ʼhee-	ʼhee-ʼten-nu 
+fear: ʼhee-	ʼhee-ʼten-nu 
+fright: ʼhee-	ʼhee-ʼten-nu 
+alive: ʼču-mi	ʼču-ndu	ʼču-nu 
+be alive: ʼču-mi	ʼču-ndu	ʼču-nu 
+life: ʼču-mi	ʼču-ndu	ʼču-nu 
+live: ʼču-mi	ʼču-ndu	ʼču-nu 
+living: ʼču-mi	ʼču-ndu	ʼču-nu 
+fight: ʼwin-ʼge-nu 
+hunt: ʼheen-ʼdala ʼhi-nu 
+beat: ʼwii-nu	ʼwiʼlʸi-nu 
+hit: ʼwii-nu	ʼwiʼlʸi-nu 
+strike: ʼwii-nu	ʼwiʼlʸi-nu 
+cut: ʼwan-nu	ʼwane-ʼke-nu 
+hack: ʼwan-nu	ʼwane-ʼke-nu 
+cut open: ʼpaa-nu	ʼčii-nu 
+split: ʼpaa-nu	ʼčii-nu 
+pierce: ʼΦaʼtaa-ʼpu-nu 
+stab: ʼΦaʼtaa-ʼpu-nu 
+dig: ʼtu-ʼhuu-ʼke-nu	ʼwiš-nu 
+tell lies: ʼanbu-ʼti-nu 
+turn: ʼya-ʼte-nu 
+turn around: ʼya-ʼte-nu 
+turn round: ʼya-ʼte-nu 
+drop: ʼc̷u-ʼhi-nu	ʼpahʼtʸa-nu 
+fall: ʼc̷u-ʼhi-nu	ʼpahʼtʸa-nu 
+grasp: ʼta-ʼna-nu 
+hold: ʼta-ʼna-nu 
+hold in arm: ʼta-ʼna-nu 
+squeeze: ʼčui-nu	ʼčuʼyi-nu 
+wring: ʼčui-nu	ʼčuʼyi-nu 
+rub: ʼman-ʼgih-nu	ʼɲiiʼši-nu 
+wipe: ʼman-ʼgih-nu	ʼɲiiʼši-nu 
+wash: ʼman-bi-ʼc̷aa-nu	ʼpi-ʼc̷aa-nu 
+wash clothes: ʼman-bi-ʼc̷aa-nu	ʼpi-ʼc̷aa-nu 
+push: ʼtʸui-ʼee-nu	ʼtʸuʼlee-nu- 
+shove: ʼtʸui-ʼee-nu	ʼtʸuʼlee-nu- 
+throw: ʼtʸaʔ-ʼke-nu 
+bind: ʼtee-nu	ʼteʼle-nu	ʼwii-ʼke-nu 
+fasten: ʼtee-nu	ʼteʼle-nu	ʼwii-ʼke-nu 
+tie: ʼtee-nu	ʼteʼle-nu	ʼwii-ʼke-nu 
+tie up: ʼtee-nu	ʼteʼle-nu	ʼwii-ʼke-nu 
+sew: ʼpun-nu 
+count: ʼmiʔ-nu 
+enumerate: ʼmiʔ-nu 
+number: ʼmiʔ-nu 
+tally: ʼmiʔ-nu 
+sing: ʼbeesa	ʼbeesan-ʼge-nu 
+have fun: ʼai-ʼke-nu 
+play: ʼai-ʼke-nu 
+float: ʼu-ʼna-	ʼun-nu 
+brook: pi	ʼpi-ʼhula 
+river: pi	ʼpi-ʼhula 
+stream: pi	ʼpi-ʼhula 
+lake: ʼpusu 
+ocean: ʼlaʼmaa	ʼΦera 
+sea: ʼlaʼmaa	ʼΦera 
+dust: ʼuh-ʼtu-pe 
+fog: ʼwaa-ɲi-ʼwihča 
+sky: ʼselu 
+snow: ʼiša ʼlʸuh-pe 
+ice: ʼiš-ʼpuka	ʼiša-ʼpuka 
+blaze: ly~uwa	ʼhu-pe-nu	ʼi-ʼka-nu 
+burn: ly~uwa	ʼhu-pe-nu	ʼi-ʼka-nu 
+day: ʼma-lu 
+daylight: ʼma-lu 
+daytime: ʼma-lu 
+bad: ʼΦaasu 
+evil: ʼΦaasu 
+rot: ʼpete	ʼpeʔ-nu 
+rotten: ʼpete	ʼpeʔ-nu 
+dirty: -nu	tu ʼmaʼyii	ʼaʼtata- 
+filthy: -nu	tu ʼmaʼyii	ʼaʼtata- 
+soiled: -nu	tu ʼmaʼyii	ʼaʼtata- 
+straight: ʼdeeču 
+sharp: da-	ʼtʸa-ya	ʼtʸai-ʼke-nu 
+blunt: ʼda-htu 
+damp: ʼah-ta	ʼah-ʼke-nu	ʼah-ʼta-nu 
+wet: ʼah-ta	ʼah-ʼke-nu	ʼah-ʼta-nu 
+correct: ʼuwa	ʼšili	ʼʔura 
+right side: ʼuʼran-dʸa 
+left: ʼhala	ʼhaʼla-tʸa	ʼhaʼla-ša 
+in: -bi	-nu	ʼhuʼru-ša 
+inside: -bi	-nu	ʼhuʼru-ša 
+and: -ba	-ban	bain 
+if: -ʼšu ʼhun-ʼc̷a-ya 
+because: ʼmitʸa 

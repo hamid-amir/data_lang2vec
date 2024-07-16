@@ -1,0 +1,352 @@
+all: ellām | எல்லாம் 
+ashes: sāmbal | சாம்பல் 
+ash: nīr̲u | சாம்பல் 
+bark: pattai | பட்டை 
+big: peru | பெரிய 
+big: taṭa | பெரிய 
+bite: kaccu | கடி 
+black: karu | கருப்பு 
+blood: neyttōr | குருதி 
+bone: enbu | எலும்பு 
+breast: mār | மார்பு 
+burn: eri- | எரி 
+claw: ukir | நகம் 
+cloud: mukil | மேகம் 
+cold: ār̲u | குளிர்ச்சி 
+come: varu | வா 
+die: cā | சா 
+dog: nāy | நாய் 
+drink: uṇ | குடி 
+dry: uṇ- | உலர்ந்த 
+ear: cevi | காது 
+earth: ñālam | மண் 
+eat: tin̲ | உண் 
+egg: muṭṭai | முட்டை 
+eye: kaṇ | கண் 
+feather: tū | இறகு 
+fire: kiccu | தீ 
+fire: thee | தீ 
+fish: kayal | மீன் 
+fish: mīn̲ | மீன் 
+fly: par̲a | பற 
+foot: kāl | அடி	பாதம் 
+full: nir̲ai | முழு 
+give: ī | தா 
+good: nal | நல்ல 
+grease: kožu | கொழுப்பு 
+green: paca | பச்சை 
+hand: kai | கை 
+head: talai | தலை 
+hear: kēḷ | கேள் 
+heart: neñchu | ithayam	உள்ளம் 
+hear: vin̲ā | கேள் 
+horn: kompu | கொம்பு 
+I: nān̲ | நான் 
+I: yān̲ | நான் 
+kill: kol | கொல் 
+knee: maṇṭi | மூட்டு 
+know: ar̲i | அறி 
+leaf: ilai | இலை 
+lie: kiṭa | கிட 
+long: nīḷ | நீளமான 
+louse: pēn̲ | பேன் 
+man: āḷ | மனிதன் 
+man: kaṇṭan̲ | மனிதன் 
+meat: ū | கறி 
+moon: nilavu | நிலா 
+mountain: malai | மலை 
+mountain: Ongal | மலை 
+mouth: vāy | வாய் 
+name: peyar | பெயர் 
+near: aṭu | அருகில்	கிட்ட 
+neck: kaluttu | கழுத்து 
+new: putu | புது 
+night: naḷ | இரவு 
+nose: mūkku | மூக்கு 
+not: al- | இல்லை 
+one: on̲r̲u | ஒன்று 
+one: oru | ஒன்று 
+red: ce-y- | சிவப்பு 
+root: vēr | வேர் 
+salt: uppu | உப்பு 
+sand: manal | மணல் 
+say: en̲ | சொல் | மணல் 
+seed: koṭṭai | விதை 
+seed: vittu | விதை 
+see: kāṇ | காண் 
+short: kur̲u | குட்டை 
+short: kuṭṭ- | குட்டை 
+skin: tōl | தோல் 
+sleep: kan̲ā | தூங்கு 
+sleep: tuñcu | தூங்கு 
+small: cir̲u | சின்ன 
+smoke: pukai | புகை 
+snake: aravu | நாகம்	பாம்பு 
+snake: pāmpu | நாகம்	பாம்பு 
+stand: nil | நில் 
+star: meen | விண்மீன் 
+stone: kal | கல் 
+sun: ñāyir̲u | ஞாயிறு 
+sun: požutu | ஞாயிறு 
+swim: nīntu | நீந்து 
+tail: tōkai | வால் 
+that: a | அது | ஒன்று 
+thin: ācu | ஒல்லி 
+this: i | இது 
+thou: nī | நீ 
+tongue: nā | நாக்கு 
+tooth: pal | பல் 
+tree: maram | மரம் 
+two: iraṇṭu | இரண்டு 
+two: iru | இரண்டு 
+walk: ēku | நட 
+walk: naṭa | நட 
+water: nīr | நீர் 
+we (excl.): yām 
+we (incl.): nām 
+we: nām | நாங்கள்	நாம் 
+what: yā | என்ன 
+white: veḷ | வெள்ளை 
+white: veṇ | வெள்ளை 
+who: ēvan̲ | யார் 
+who: yāvan̲ | யார் 
+wind: kāl | காற்று 
+wind: vaḷi | காற்று 
+woman: āṭṭi | பெண் 
+worm: pužu | புழு 
+year: yāṇṭu | ஆண்டு 
+every: எல்லாம் 
+abdomen: தொந்தி 
+belly: தொந்தி 
+bigness: பெரிய 
+large: பெரிய 
+bird: பறவை 
+breasts: மார்பு 
+come from: வா 
+be dead: சா 
+dead: சா 
+ground: மண் 
+land: மண் 
+soil: மண் 
+fly v.: பற 
+hair: முடி 
+1 sg.: நான் 
+be knowledgeable: அறி 
+liver: ஈரல் 
+head louse: பேன் 
+male: ஆண் 
+many: பல 
+much: பல 
+multiple: பல 
+several: பல 
+hill: மலை 
+title: பெயர் 
+nighttime: இரவு 
+adulterous: ஒன்று 
+single: ஒன்று 
+the: ஒன்று 
+unprincipled: ஒன்று 
+human: மனிதன் 
+human being: மனிதன் 
+person: மனிதன் 
+rain: பொழி 
+rainy weather: பொழி 
+path: சாலை 
+road: சாலை 
+route: சாலை 
+round: உருண்ட 
+sit: உட்கார் 
+hide: தோல் 
+little: சின்ன 
+smallness: சின்ன 
+rock: கல் 
+2 sg: நீ 
+you: நீ 
+grind: இரண்டு 
+go: நட 
+hot: வெதுவெதுப்பு 
+warm: வெதுவெதுப்பு 
+1 pl. inc.: நாங்கள்	நாம் 
+we₁: நாங்கள்	நாம் 
+whiteness: வெள்ளை 
+who?: யார் 
+female: பெண் 
+yellow: மஞ்சள் 
+distant: தொலைவு 
+far: தொலைவு 
+dull: கணம் 
+heavy: கணம் 
+serious: கணம் 
+close: அருகில்	கிட்ட 
+ner: அருகில்	கிட்ட 
+earthworm: புழு 
+3 sg.: அவன் 
+he: அவன் 
+she: அவன் 
+2 pl.: நீங்கள் 
+ye: நீங்கள் 
+you all: நீங்கள் 
+3 pl.: அவர்கள் 
+they: அவர்கள் 
+here: இங்கே 
+there: அங்கே 
+where: எங்கே 
+where?: எங்கே 
+when: எப்பொழுது 
+when?: எப்பொழுது 
+how: எப்படி 
+how?: எப்படி 
+some: சில 
+few: கொஞ்சம் 
+other: மற்ற 
+three: மூன்று 
+four: நான்கு 
+five: ஐந்து 
+broad: அகலமான 
+wide: அகலமான 
+wideness: அகலமான 
+fat: கொழுப்பு 
+thick: தடித்த 
+narrow: குறுகிய 
+child: குழந்தை	பிள்ளை 
+principal wife: மனைவி 
+wife: மனைவி 
+husband: கணவன் 
+his mother: அம்மா 
+mother: அம்மா 
+my mother: அம்மா 
+father: அப்பா	தந்தை 
+his father: அப்பா	தந்தை 
+my father: அப்பா	தந்தை 
+animal: மிருகம்	விலங்கு 
+forest: காடு 
+woods: காடு 
+branch: குச்சி 
+stick: குச்சி 
+fruit: பழம் 
+flower: பூ	மலர் 
+grass: புல் 
+cord: கயிறு 
+rope: கயிறு 
+flesh: கறி 
+fingernail: நகம் 
+nail: நகம் 
+leg: கால் 
+arm: கை 
+wing: இறக்கை 
+gut: குடல் 
+guts: குடல் 
+insides: குடல் 
+intestine: குடல் 
+intestines: குடல் 
+back: முதுகு 
+suck: உறிஞ்சு 
+spit: துப்பு 
+vomit: கக்கு 
+blow: ஊது 
+breath: மூச்சுவிடு 
+breathe: மூச்சுவிடு 
+laugh: சிரி 
+laughter: சிரி 
+cogitate: நினை 
+reflect: நினை 
+think: நினை 
+smell: நுகர் 
+sniff: நுகர் 
+afraid: அஞ்சு 
+be afraid: அஞ்சு 
+fear: அஞ்சு 
+fright: அஞ்சு 
+alive: வாழ் 
+be alive: வாழ் 
+life: வாழ் 
+live: வாழ் 
+living: வாழ் 
+fight: சண்டைப் போடு 
+hunt: வேட்டையாடு 
+beat: அடி	தாக்கு 
+hit: அடி	தாக்கு 
+strike: அடி	தாக்கு 
+cut: வெட்டு 
+hack: வெட்டு 
+cut open: பிள 
+split: பிள 
+pierce: குத்து 
+stab: குத்து 
+scratch: சொரி 
+dig: தோண்டு 
+lie down: கிட 
+tell lies: கிட 
+turn: திரும்பு 
+turn around: திரும்பு 
+turn round: திரும்பு 
+drop: விழு 
+fall: விழு 
+grasp: கொள்	பிடி 
+hold: கொள்	பிடி 
+hold in arm: கொள்	பிடி 
+squeeze: கசக்கு 
+wring: கசக்கு 
+rub: தேய் 
+wipe: துடை 
+wash: கழுவு 
+wash clothes: கழுவு 
+pull: இழு 
+push: தள்ளு 
+shove: தள்ளு 
+throw: வீசு 
+bind: கட்டு 
+fasten: கட்டு 
+tie: கட்டு 
+tie up: கட்டு 
+sew: தை 
+count: எண் 
+enumerate: எண் 
+number: எண் 
+tally: எண் 
+sing: பாடு 
+have fun: விளையாடு 
+play: விளையாடு 
+float: மித 
+flow: ஒழுகு 
+freeze: உறை 
+swell: வீங்கு 
+brook: ஆறு 
+river: ஆறு 
+stream: ஆறு 
+lake: எரி 
+ocean: கடல் 
+sea: கடல் 
+dust: தூசி	புழுதி 
+fog: பனி 
+sky: வானம் 
+snow: பனி 
+ice: பனிக்கட்டி 
+blaze: எரி 
+day: பகல் 
+daylight: பகல் 
+daytime: பகல் 
+old: பழைய 
+bad: கெட்ட 
+evil: கெட்ட 
+rot: அழுகிய 
+rotten: அழுகிய 
+dirty: அழுக்கான 
+filthy: அழுக்கான 
+soiled: அழுக்கான 
+straight: நேர் 
+sharp: கூர்மை 
+blunt: மழுங்கிய 
+smooth: வழுவழுப்பு 
+damp: ஈரமான 
+wet: ஈரமான 
+correct: சரி 
+right: வலது 
+right side: வலது 
+left: இடது 
+at: -இல் 
+in: -இல் 
+inside: -இல் 
+with: -உடன்	-ஓடு 
+and: -உம்	மற்றும்	மேலும் 
+because: ஏனென்றால் 

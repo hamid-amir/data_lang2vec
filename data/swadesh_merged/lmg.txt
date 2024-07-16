@@ -1,0 +1,262 @@
+all: ambíp 
+every: ambíp 
+ash: ur̃úp 
+ashes: ur̃úp 
+abdomen: peléi 
+belly: peléi 
+big: alaŋwaté 
+bigness: alaŋwaté 
+large: alaŋwaté 
+bird: munúk 
+bite: ŋené 
+black: makúḷ	owór̃ 
+blood: morou	moróu 
+bone: kakai	kakái 
+breast: meyla	usu	usú 
+breasts: meyla	usu	usú 
+burn: kluk 
+burn tr.: kluk 
+cloud: ḡawḡáw 
+cold: wiβr̃ís 
+come: mo 
+come from: mo 
+be dead: ure*i	ur̃én 
+dead: ure*i	ur̃én 
+die: ure*i	ur̃én 
+dog: owli	owléy 
+drink: in 
+dry: kakr̃ák 
+ear: wey 
+eat: ŋen 
+egg: tutnó 
+eye: ant 
+feather: kolowná 
+fire: ay 
+fish: oNw~a	oŋwá 
+fly: kly 
+fly v.: kly 
+good: itáu 
+green: eβír̃ 
+hair: kolouná 
+hand: melsi	melsé	melsék	melép	meylá	milpí	milpú	mulgu	mulǵu 
+left hand: melsi	melsé	melsék	melép	meylá	milpí	milpú	mulgu	mulǵu 
+right: melsi	melsé	melsék	melép	meylá	milpí	milpú	mulgu	mulǵu 
+head: apúŋu	br̃uné 
+hear: b|r̃oŋón	ro*Non 
+1 sg.: Na	ŋa 
+I: Na	ŋa 
+kill: paḡamé 
+be knowledgeable: sáβe 
+know: sáβe 
+leaf: kolowna	kolowná 
+lie: kotók 
+lie down: kotók 
+liver: womso	womsó 
+long: maḷkát 
+head louse: utu	utú 
+louse: utu	utú 
+male: tow 
+man: odukpuda	odúkpudá 
+moon: sáyko 
+mouth: ap	auná	aḡú 
+name: ani 
+title: ani 
+neck: kóroi	áugu 
+new: taNan	taŋán 
+night: opmos	opmós 
+nighttime: opmos	opmós 
+nose: dorokoN	dorokóŋ	nondro	nondró 
+adulterous: -isaʔ	isa	isa|walá	wala 
+one: -isaʔ	isa	isa|walá	wala 
+single: -isaʔ	isa	isa|walá	wala 
+that: aŋán 
+the: -isaʔ	isa	isa|walá	wala 
+unprincipled: -isaʔ	isa	isa|walá	wala 
+human: odukpuda	odúkpudá 
+human being: odukpuda	odúkpudá 
+person: odukpuda	odúkpudá 
+rain: er̃éy 
+rainy weather: er̃éy 
+red: dimór̃ 
+path: sukuna	sukuná 
+road: sukuna	sukuná 
+route: sukuna	sukuná 
+root: gitnó 
+sand: maḡáp 
+say: kanés 
+see: re*ik	r̃ik 
+sit: kaimá 
+hide: tarai	tarái 
+skin: tarai	tarái 
+sleep: makádu 
+little: sadí 
+small: sadí 
+smallness: sadí 
+smoke: aysú 
+star: axiximo	aḡiḡimó 
+rock: taNo	táŋo 
+stone: taNo	táŋo 
+swim: βur̃iá 
+tail: gitó 
+this: aŋán 
+2 sg: om 
+thou: om 
+you: om 
+tongue: wewleine	wewleiné 
+tooth: aLukakai	aḡúkakái 
+grind: -akap	akap	aḳáp 
+two: -akap	akap	aḳáp 
+go: nes 
+walk: nes 
+hot: iŋíḷ 
+warm: iŋíḷ 
+water: uri	urí 
+1 pl. inc.: mi	ta 
+we: mi	ta 
+we₁: mi	ta 
+what: saŋaná 
+white: amáḷ 
+whiteness: amáḷ 
+who: iḡiná 
+who?: iḡiná 
+female: elím 
+woman: elím 
+yellow: ḡauḷ 
+distant: tar̃ailúk 
+far: tar̃ailúk 
+dull: kaḍú 
+heavy: kaḍú 
+serious: kaḍú 
+close: ir̃ít	soḡók 
+near: ir̃ít	soḡók 
+ner: ir̃ít	soḡók 
+salt: sidík	ḡálo 
+short: ekét 
+snake: amát 
+thin: dawaḷwáḷ 
+wind: uwé 
+earthworm: titlákanḍíḷ 
+worm: titlákanḍíḷ 
+year: eréy 
+2 pl.: mu 
+ye: mu 
+you all: mu 
+3 pl.: ti 
+they: ti 
+where: káino 
+where?: káino 
+when: naisinó 
+when?: naisinó 
+how: náŋno 
+how?: náŋno 
+other: ailúk 
+three: -iƚtu	itlú 
+four: -apanal	apanáḷ 
+five: -elmɛ	elmé 
+fat: dikŋén	kamár 
+thick: wotóm 
+principal wife: towisapú 
+wife: towisapú 
+husband: elímisopagát 
+his mother: apunamé 
+mother: apunamé 
+my mother: apunamé 
+father: patiwów 
+his father: patiwów 
+my father: patiwów 
+forest: omó̝ŋ	wʊwlá 
+woods: omó̝ŋ	wʊwlá 
+branch: meylá 
+stick: meylá 
+fruit: kineyné 
+flower: kor̃kor̃yái 
+grass: garás 
+cord: imlé 
+rope: imlé 
+flesh: ukúr̃ 
+meat: ukúr̃ 
+grease: dikŋén	kamár 
+wing: pená 
+gut: mugulú 
+guts: mugulú 
+insides: mugulú 
+intestine: mugulú 
+intestines: mugulú 
+back: tou 
+suck: ínusú 
+spit: démsok 
+vomit: buḡiók 
+blow: ip 
+breath: wiŋós 
+breathe: wiŋós 
+laugh: dewél 
+laughter: dewél 
+cogitate: sáβe 
+reflect: sáβe 
+think: sáβe 
+smell: kuné 
+sniff: kuné 
+afraid: lim 
+be afraid: lim 
+fear: lim 
+fright: lim 
+alive: ma 
+be alive: ma 
+life: ma 
+live: ma 
+living: ma 
+hunt: sau 
+beat: mluké 
+hit: mluké 
+strike: mluké 
+cut: ir̃ipé 
+hack: ir̃ipé 
+cut open: wak 
+split: wak 
+pierce: gr̃aié 
+stab: gr̃aié 
+scratch: ne 
+dig: yasé 
+stand: naŋkar̃tír̃ 
+drop: noplók 
+fall: noplók 
+grasp: gišyé 
+hold: gišyé 
+hold in arm: gišyé 
+squeeze: por̃é 
+wring: por̃é 
+throw: ir̃ié 
+bind: powé 
+fasten: powé 
+tie: powé 
+tie up: powé 
+sew: sisir̃é 
+count: titík 
+enumerate: titík 
+number: titík 
+tally: titík 
+flow: soŋ 
+lake: ilowóḷ 
+ocean: musén 
+sea: musén 
+dust: obr̃úp 
+fog: ḡawp 
+sky: sir̃wá 
+bad: sowlú 
+evil: sowlú 
+rot: imyá 
+rotten: imyá 
+dirty: musé 
+filthy: musé 
+soiled: musé 
+sharp: auná 
+blunt: aunapút 
+damp: iplík 
+wet: iplík 
+right side: udúŋ 
+left: galá 
+at: pe 
+in: antó 
+inside: antó 
+and: ma 
+if: pe 

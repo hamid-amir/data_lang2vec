@@ -1,0 +1,841 @@
+all: seiad usausa | seiad usausa	wuwuru 
+all: teriade | seiad usausa	wuwuru 
+all: wuwuru | seiad usausa	wuwuru 
+and: aieni | [e]o	aieni	di	ele	nogo 
+and: ele | [e]o	aieni	di	ele	nogo 
+ankle: au suruna 
+ankle: au tokitoki 
+arm: bika 
+arm: gabana 
+arm: ima 
+arrow: gara 
+arrow: kaupiseri 
+arrow: keboro 
+arrow: vegarai 
+ashes: gutuma | kau	konunu	ku 
+ashes: konunu | kau	konunu	ku 
+ashes: ku | kau	konunu	ku 
+back: aier | deniabo	doe 
+back: doe | deniabo	doe 
+back: tuikita | deniabo	doe 
+bad: oreore 
+bark: (ana) opi | ana opi	ʔopi 
+bark: ana opi | ana opi	ʔopi 
+bark: ʔopi | ana opi	ʔopi 
+belly: abanaba | amara	beni	noga 
+belly: amara | amara	beni	noga 
+belly: beni | amara	beni	noga 
+belly: bo\ona | amara	beni	noga 
+belly: dinae | amara	beni	noga 
+belly: noga | amara	beni	noga 
+big: ogoda | ogoda	ogota 
+big: ogota | ogoda	ogota 
+big: okwi mugi | ogoda	ogota 
+bird: manu 
+bite: apuapu | apuapu	ʔapuʔapu 
+bite: ʔapuʔapu | apuapu	ʔapuʔapu 
+bite: apuro pu robo | apuapu	ʔapuʔapu 
+bite: aputera | apuapu	ʔapuʔapu 
+bite: naunau | apuapu	ʔapuʔapu 
+black: dubaduba | dubaduba	dupadupa 
+black: dupadupa | dubaduba	dupadupa 
+black: mebumebu | dubaduba	dupadupa 
+blood: lala | lala	rara 
+blood: lala ~ lara | lala	rara 
+blood: lara | lala	rara 
+blood: nara | lala	rara 
+blood: rara | lala	rara 
+blow: wuwuri | bouai	wuwuri 
+bone: kisa | kisa	kita	tara 
+bone: kisa ~ kita | kisa	kita	tara 
+bone: kita | kisa	kita	tara 
+bone: tara | kisa	kita	tara 
+boy: ooiva 
+boy: tamaru 
+branch: daga | daga	dana	taʼana 
+branch: dana | daga	dana	taʼana 
+branch: ta\ana | daga	dana	taʼana 
+breast: ama | ama	hama	saga 
+breast: saga | ama	hama	saga 
+breathe: baebae | mau uriuri 
+breathe: baepae | mau uriuri 
+breathe: nena | mau uriuri 
+brother: dari 
+brother: maramara 
+brother: nabu 
+brother: napu 
+brother: tari 
+brother: wuini (egi) 
+burn: euva\adiau | asiasi	gabugabu 
+burn: gabugabu | asiasi	gabugabu 
+burn: gabušeau | asiasi	gabugabu 
+butterfly: bebe 
+calf: aniba 
+calf: au-bila 
+cheek: eia 
+chest: beri 
+chest: lari 
+chest: saga 
+chest: sagasaga 
+child: araʔa | araʔa	ʔoeva 
+child: maremegi | araʔa	ʔoeva 
+child: mar-emegi | araʔa	ʔoeva 
+child: ʔoeva | araʔa	ʔoeva 
+child: oeva maramara | araʔa	ʔoeva 
+child: vagigiri | araʔa	ʔoeva 
+chin: are limu\u 
+chin: arena 
+claw: didi | ima tovele	tovele 
+claw: goma maːia | didi | ima tovele	tovele 
+claw: turi | didi | ima tovele	tovele 
+cloud: au | au	nogara 
+cloud: nogara | au	nogara 
+cold: memeʔa | memea	memeʔa	nagunagura	nagura	nakura 
+cold: nagura | memea	memeʔa	nagunagura	nagura	nakura 
+cold: nakura | memea	memeʔa	nagunagura	nagura	nakura 
+come: aieni | ai	ai-	aienine aiau	alai 
+come: aienine aiau | ai	ai-	aienine aiau	alai 
+come: ainoa | ai	ai-	aienine aiau	alai 
+come: aita | ai	ai-	aienine aiau	alai 
+come: alai | ai	ai-	aienine aiau	alai 
+crocodile: uaea 
+crocodile: vaia 
+crocodile: wama 
+cut: leʔaleʔa | lealea	pelepele	pomupomu	ʔoi lobo 
+cut: ʔoi lobo | lealea	pelepele	pomupomu	ʔoi lobo 
+cut: pelepele | lealea	pelepele	pomupomu	ʔoi lobo 
+cut: pomupomu | lealea	pelepele	pomupomu	ʔoi lobo 
+cut: torasiau | lealea	pelepele	pomupomu	ʔoi lobo 
+dark: galu 
+daughter: torea 
+day: lavi | nina	samu	wau 
+day: nina | nina	samu	wau 
+day: nina adae | nina	samu	wau 
+day: nina asai | nina	samu	wau 
+day: nina vadaeke besa | nina	samu	wau 
+day: nina vataesi onaea | nina	samu	wau 
+day: samu | nina	samu	wau 
+day: wau | nina	samu	wau 
+die: bau 
+die: urugutu | bau 
+dig: goragora | bonobono	goragora	lavilavi 
+dig: guri | bonobono	goragora	lavilavi 
+dig: guriguri | bonobono	goragora	lavilavi 
+dig: lavilavi | bonobono	goragora	lavilavi 
+dig: raviravi bonataia | bonobono	goragora	lavilavi 
+dig: raviravi-bonataia | bonobono	goragora	lavilavi 
+dirty: gidagida | milomilo	miro 
+dirty: miro | milomilo	miro 
+dog: dari | dari	gari	waai	wai	waʔai	waʼai 
+dog: gari | dari	gari	waai	wai	waʔai	waʼai 
+dog: otu | dari	gari	waai	wai	waʔai	waʼai 
+dog: sari | dari	gari	waai	wai	waʔai	waʼai 
+dog: veai | dari	gari	waai	wai	waʔai	waʼai 
+dog: wa\ai | dari	gari	waai	wai	waʔai	waʼai 
+dog: waʔai | dari	gari	waai	wai	waʔai	waʼai 
+drink: dorodoro | idi	isiʼisi	tepatepa-ri	tepatepari	ʔiʔa 
+drink: ʔiʔa | idi	isiʼisi	tepatepa-ri	tepatepari	ʔiʔa 
+drink: idi | idi	isiʼisi	tepatepa-ri	tepatepari	ʔiʔa 
+drink: isi\isi | idi	isiʼisi	tepatepa-ri	tepatepari	ʔiʔa 
+drink: sisi | idi	isiʼisi	tepatepa-ri	tepatepari	ʔiʔa 
+dry: uraura | wurawura 
+dry: wurawura 
+ear: obe | obe	ope	opi	ʔope 
+ear: ope | obe	ope	opi	ʔope 
+ear: ʔope | obe	ope	opi	ʔope 
+ear: opi | obe	ope	opi	ʔope 
+earth: ʔarima | gidagida	ʔarima 
+earth: dagaorava | gidagida	ʔarima 
+earth: gidagida | gidagida	ʔarima 
+earth: one | gidagida	ʔarima 
+earth: oni | gidagida	ʔarima 
+eat: ʔiʔa | isiisi	isiʼisi	iti	ʔiʔa 
+eat: isi\isi | isiisi	isiʼisi	iti	ʔiʔa 
+eat: isisi | isiisi	isiʼisi	iti	ʔiʔa 
+eat: iti | isiisi	isiʼisi	iti	ʔiʔa 
+egg: muru | muruu	muruʔu	muruʼu 
+egg: muru aua | muruu	muruʔu	muruʼu 
+egg: muru mauru | muruu	muruʔu	muruʼu 
+egg: muruu | muruu	muruʔu	muruʼu 
+egg: muru\u | muruu	muruʔu	muruʼu 
+egg: muruʔu | muruu	muruʔu	muruʼu 
+egg: muru unana | muruu	muruʔu	muruʼu 
+elbow: aboma 
+elbow: ʔeʔuta 
+elbow: gegeta 
+elbow: gegeto 
+elbow: igusu 
+elbow: igutu 
+emu: guia 
+emu: gula 
+eye: gaga | ini 
+eye: gogosa) | ini 
+eye: ini 
+eye: ini-gaga 
+eye: ini-gogu 
+eye: ini (isana 
+eye: ini (isana, gogosa) 
+eye: ini-mura 
+eye: ini obina 
+eye: ini-opi 
+eye: ini=papa 
+face: auraro 
+face: idana 
+face: isana 
+face: itana 
+fall: biu | biu	biubiu	gagagari	gudu	poopoo 
+fall: gudu | biu	biubiu	gagagari	gudu	poopoo 
+fall: oiguruta | biu	biubiu	gagagari	gudu	poopoo 
+far: adabau | adabau	adapau	pakalau 
+far: adabaudi | adabau	adapau	pakalau 
+far: adapau | adabau	adapau	pakalau 
+father: abai | abai	abaiʼi 
+father: abai\i | abai	abaiʼi 
+father: apai | abai	abaiʼi 
+fat (n.): mona 
+fear: daguru | daguru	taguru 
+fear: dobi | daguru	taguru 
+fear: dobi(-kana) | daguru	taguru 
+fear: dobi(kani) | daguru	taguru 
+fear: taguru | daguru	taguru 
+feather: limuʔu | limuʔu	papa	uru 
+feather: manu papa | limuʔu	papa	uru 
+feather: manu-papa | limuʔu	papa	uru 
+feather: papa | limuʔu	papa	uru 
+feather: uru | limuʔu	papa	uru 
+fight: banaga | epara	verua 
+fight: epara | epara	verua 
+fight: verua | epara	verua 
+finger: au-taga 
+finger: ima duri 
+finger: ima-duri 
+finger: ima duʔuri 
+finger: ima-tokitoki 
+fingernail: ima-toeri | ima tovele	tovele 
+fingernail: (ima) tovele | ima tovele	tovele 
+finger: suuri 
+finger: su\uri 
+fire: badau | badau	eu	eʼu 
+fire: eu | badau	eu	eʼu 
+fire: e\u | badau	eu	eʼu 
+fish: orebe | orebe	orepe	oribi	ʔorebe 
+fish: ʔorebe | orebe	orepe	oribi	ʔorebe 
+fish: orepe | orebe	orepe	oribi	ʔorebe 
+fish: oribi | orebe	orepe	oribi	ʔorebe 
+five: ima | ima	ima ʔomu	imaʔomu 
+five: ima(ʔomu) | ima	ima ʔomu	imaʔomu 
+float: ʔarusi 
+flower: ana lora | ana lora	popori	suoro 
+flower: ana-lora | ana lora	popori	suoro 
+flower: lora | ana lora	popori	suoro 
+fly (n.): lamaga 
+fly (n.): levota 
+fly (n.): nagama 
+fly (n.): namaga ~ nagama 
+fly (v.): levolevo 
+fog: au | au	goai 
+fog: goai | au	goai 
+foot: au | au	au paba	auʔpapa	ʔau 
+foot: ʔau | au	au paba	auʔpapa	ʔau 
+foot: audoi | au	au paba	auʔpapa	ʔau 
+foot: au-doi | au	au paba	auʔpapa	ʔau 
+foot: auduri | au	au paba	auʔpapa	ʔau 
+foot: au-duri | au	au paba	auʔpapa	ʔau 
+foot: au paba | au	au paba	auʔpapa	ʔau 
+foot: au(-paba) | au	au paba	auʔpapa	ʔau 
+foot: au\papa | au	au paba	auʔpapa	ʔau 
+foot: auʔpapa | au	au paba	auʔpapa	ʔau 
+foot: (ʔau) saga | au	au paba	auʔpapa	ʔau 
+foot: au-taga | au	au paba	auʔpapa	ʔau 
+foot: umauma | au	au paba	auʔpapa	ʔau 
+forehead: oara 
+forehead: ovara 
+forehead: ʔowara 
+forest: rarausu | larausu	rarausu 
+forest: rarautu | larausu	rarausu 
+four: sourai | sourai	taure	tourai 
+four: taurai | sourai	taure	tourai 
+four: tourai | sourai	taure	tourai 
+fruit: lora 
+full: ʔapu | goubuʔebuʔe	ʔapu 
+full: goubuʔebuʔe | goubuʔebuʔe	ʔapu 
+full: kausa | goubuʔebuʔe	ʔapu 
+girl: avita 
+girl: torea 
+give: evasi | mini- 
+give: mini | mini- 
+give: mini- 
+give: miniau | mini- 
+good: ebeoba | ebeoba	eboebo	epoepo	wonai 
+good: eboebo | ebeoba	eboebo	epoepo	wonai 
+good: enadeo | ebeoba	eboebo	epoepo	wonai 
+good: epoepo | ebeoba	eboebo	epoepo	wonai 
+grass: buriburi | napuna 
+grass: napuna 
+green: dubaduba | dubaduba	gabagabani	goragorara	korakorara 
+green: gabagabani | dubaduba	gabagabani	goragorara	korakorara 
+green: goragorara | dubaduba	gabagabani	goragorara	korakorara 
+green: korakorara | dubaduba	gabagabani	goragorara	korakorara 
+green: mokairiri | dubaduba	gabagabani	goragorara	korakorara 
+green: papa | dubaduba	gabagabani	goragorara	korakorara 
+guts: tinai | sinae 
+hair: idi | limuu	uru	ʔuru 
+hair: limiʔu | limuu	uru	ʔuru 
+hair: limu | limuu	uru	ʔuru 
+hair: limuʔu | limuu	uru	ʔuru 
+hair: rimu | limuu	uru	ʔuru 
+hair: uru | limuu	uru	ʔuru 
+hair: ʔuru | limuu	uru	ʔuru 
+hand: ima | ima	ima paba 
+hand: ima paba | ima	ima paba 
+hand: ima-paba | ima	ima paba 
+hand: (ima) saga | ima	ima paba 
+hand: ima-taka | ima	ima paba 
+head: moru | moru	uru 
+hear: naninani | nani nani	naninani	sagunai 
+hear: nani nani | nani nani	naninani	sagunai 
+hear: sagunai | nani nani	naninani	sagunai 
+heart: arame | arame	goigoibo 
+heart: goigoibo | arame	goigoibo 
+heart: nua | arame	goigoibo 
+heart: roruna | arame	goigoibo 
+heavy: pailo | pailo	urumu 
+heavy: urumu | pailo	urumu 
+here: evano | evano	evari 
+here: evari | evano	evari 
+here: uni ~ oni | evano	evari 
+he/she: adege 
+he/she: adegi 
+he/she: ateg 
+he/she: ena 
+he/she: noa 
+hit: keakea 
+hold: ausari | aukisa	ausari	ʔevaʔeva 
+hold: ʔevaʔeva | aukisa	ausari	ʔevaʔeva 
+hole: poti 
+house: huru 
+house: uru 
+how: aboua | abo ua	aboua 
+husband: avesa | egi	eme	ena avesa 
+husband: egi | egi	eme	ena avesa 
+husband: ena avesa | egi	eme	ena avesa 
+I: ia | ia	ina 
+I: ina | ia	ina 
+I: vinegi | ia	ina 
+jaw: arena 
+jaw: harena 
+kangaroo: mani 
+kangaroo: mari 
+kill: maia | maiau	maibau	maimai 
+kill: maiau | maiau	maibau	maimai 
+kill: maibau | maiau	maibau	maimai 
+kill: maimai | maiau	maibau	maimai 
+kill: ota-pau | maiau	maibau	maimai 
+knee: turuna 
+know: vegarai | ribariba	vegarai 
+lake: dou | dou	laʔi 
+laugh: soro | soro	toru	torutoru 
+laugh: toru | soro	toru	torutoru 
+laugh: torutoru | soro	toru	torutoru 
+leaf: anabeka | bega 
+leaf: ana-beka | bega 
+leaf: bega 
+left: ʔebe | ebe	epe aura	ʔebe 
+left: epe aura | ebe	epe aura	ʔebe 
+leg: au | au	ʔau 
+leg: ʔau | au	ʔau 
+lie: uiui 
+lie: ʔuiʔui | uiui 
+lie: vivi | uiui 
+lie: vui | uiui 
+lip: bibita 
+lip: noga pipita 
+lip: noga-pipita 
+live: mauri | aua|uri	mauri 
+liver: alame | arame 
+liver: arame 
+long: aeata | lauroro	taeva 
+long: laugona | lauroro	taeva 
+long: lauroro | lauroro	taeva 
+long: raurata | lauroro	taeva 
+long: taeva | lauroro	taeva 
+louse: noga | tuma 
+louse: tuma 
+man: arabae | emegi 
+man: arabai | emegi 
+man: egi | emegi 
+man: emegi 
+man: emige | emegi 
+man: era | emegi 
+many: seriada 
+many: teriade | seriada 
+many: togoda | seriada 
+meat: sauna | anai 
+moon: dovele | doveari	dovele	doveri	tovere 
+moon: doveri | doveari	dovele	doveri	tovere 
+moon: dowere | doveari	dovele	doveri	tovere 
+moon: tovere | doveari	dovele	doveri	tovere 
+morning: biga 
+morning: nina aioi 
+mosquito: nemo 
+mother: adei | adei	adi 
+mother: adi | adei	adi 
+mother: atei | adei	adi 
+mountain: kekena | oro 
+mountain: oro 
+mouth: naga iti\iti | naga itiʼiti	noga 
+mouth: naga-itiiti | naga itiʼiti	noga 
+mouth: noga | naga itiʼiti	noga 
+name: enomu | enomu	omu 
+name: maunua | enomu	omu 
+name: omu | enomu	omu 
+nape: geduna 
+nape: outa 
+narrow: ʔavuʔavuvu | ariari	ororo	otepa	ʔavuʔavuvu 
+narrow: ororo | ariari	ororo	otepa	ʔavuʔavuvu 
+narrow: otepa | ariari	ororo	otepa	ʔavuʔavuvu 
+navel: gagado 
+navel: igege 
+navel: inibo 
+near: dadabaui | tebina 
+near: tebina 
+neck: gutani | gutani	kusani 
+neck: kutani | gutani	kusani 
+new: gadara 
+night: galu | garu 
+night: garu 
+night: lavi | garu 
+nose: duruma | durumu	noga 
+nose: duruma poti | durumu	noga 
+nose: durumu | durumu	noga 
+not: da 
+not: kokoa | da 
+not: kokoi | da 
+old: baeau 
+old: baeau avesa 
+old: baeau egi 
+old: boae 
+old: poaete 
+one: ombua | ome	omu	omupua	ʔomu 
+one: omu | ome	omu	omupua	ʔomu 
+one: ʔomu | ome	omu	omupua	ʔomu 
+one: omupua | ome	omu	omupua	ʔomu 
+play: lele 
+pull: deudeu 
+push: bibibibi 
+rain: bailo | bailo	duba	guba 
+rain: duba | bailo	duba	guba 
+rain: guba | bailo	duba	guba 
+rat: oure 
+rat: pure 
+red: lalalala | lalalala	laralara 
+red: lala-lala | lalalala	laralara 
+red: lara-lala | lalalala	laralara 
+red: laralara | lalalala	laralara 
+right: iada aura | ima	ima paba | iada aura	iata	ʔiata	ʔiʔata 
+right: ʔiata | ima	ima paba | iada aura	iata	ʔiata	ʔiʔata 
+right: ʔiʔata | ima	ima paba | iada aura	iata	ʔiata	ʔiʔata 
+ripe: magari 
+ripe: nanau 
+ripe: vagiri 
+river: ʔaʔama | bomu	guina	ʔaʔama 
+river: bomu | bomu	guina	ʔaʔama 
+river: guina | bomu	guina	ʔaʔama 
+river: guina dagota | bomu	guina	ʔaʔama 
+river: gwina | bomu	guina	ʔaʔama 
+river: oria | bomu	guina	ʔaʔama 
+road: laea 
+road: raia | laea 
+root: tai | miri	tai 
+rope: goga | konau	maina	ora	oraora	oraoragauma 
+rope: konau | konau	maina	ora	oraora	oraoragauma 
+rope: maina | konau	maina	ora	oraora	oraoragauma 
+rope: ora | konau	maina	ora	oraora	oraoragauma 
+rope: oraora | konau	maina	ora	oraora	oraoragauma 
+rope: oraoragauma | konau	maina	ora	oraora	oraoragauma 
+rope: oro | konau	maina	ora	oraora	oraoragauma 
+rotten: morumoru | moru	oreore 
+rotten: oreore | moru	oreore 
+round: taro kikirota 
+salt: damena | damena	sari	ʔiʔiga 
+salt: ʔiʔiga | damena	sari	ʔiʔiga 
+salt: sari | damena	sari	ʔiʔiga 
+salt: tari | damena	sari	ʔiʔiga 
+salt: tarigua | damena	sari	ʔiʔiga 
+sand: ʔane.a | one	sarina	ʔane.a	ʔone 
+sand: one | one	sarina	ʔane.a	ʔone 
+sand: ʔone | one	sarina	ʔane.a	ʔone 
+sand: sarina | one	sarina	ʔane.a	ʔone 
+say: osi | osi	osiosi | one	sarina	ʔane.a	ʔone 
+say: osiosi | osi	osiosi | one	sarina	ʔane.a	ʔone 
+say: riba | osi	osiosi | one	sarina	ʔane.a	ʔone 
+scratch: akoko | akoko	gagaoro	gaguri 
+scratch: auaure | akoko	gagaoro	gaguri 
+scratch: gagaoro | akoko	gagaoro	gaguri 
+scratch: gaguri | akoko	gagaoro	gaguri 
+scratch: lili | akoko	gagaoro	gaguri 
+sea: loa 
+sea: tari | lo 
+sea: tari-gua | lo 
+seed: ana gona 
+seed: loro | ana gona 
+see: era\aː | erieri	ioio 
+see: eriepi | erieri	ioio 
+see: erieri | erieri	ioio 
+see: iririka | erieri	ioio 
+sew: surisuri 
+sew: tautau | surisuri 
+sharp: ʔani | ani	ʔani 
+short: tupa 
+shoulder: gabi 
+shoulder: gabia 
+shoulder: larolaro 
+shoulder: levaleva 
+sing: madi 
+sister: nabu 
+sister: napu 
+sister: wuini 
+sit: auri | auri	auri gudu 
+sit: auri gudu | auri	auri gudu 
+skin: nini | obi	opi	ʔopi 
+skin: obi | obi	opi	ʔopi 
+skin: ofi | obi	opi	ʔopi 
+skin: ʔopi | obi	opi	ʔopi 
+skin: ubuna | obi	opi	ʔopi 
+sky: guba | nogara 
+sky: guba-ogada | nogara 
+sky: nogara 
+sky: nokara | nogara 
+sleep: garu | uiui	ʔuiʔui 
+sleep: uiui | uiui	ʔuiʔui 
+sleep: ʔuiʔui | uiui	ʔuiʔui 
+small: gigiri | dimudimu	gigidi	gigiri	kiwonai	maramara 
+small: ginovoi | dimudimu	gigidi	gigiri	kiwonai	maramara 
+small: kinavoi | dimudimu	gigidi	gigiri	kiwonai	maramara 
+small: kiwonai | dimudimu	gigidi	gigiri	kiwonai	maramara 
+small: oviatu | dimudimu	gigidi	gigiri	kiwonai	maramara 
+smell: bonana | mudumudu	naninani	naninovo 
+smoke: bausu | bausu	bautu	pautu 
+smoke: bauta | bausu	bautu	pautu 
+smoke: pautu | bausu	bautu	pautu 
+snake: mio 
+snake: miu | mio 
+snake: orimu | mio 
+son: abei 
+son: oeva 
+spit: arima | arimu	arimu-ai	tiʔi 
+spit: arimu | arimu	arimu-ai	tiʔi 
+spit: bura | arimu	arimu-ai	tiʔi 
+spit: oko | arimu	arimu-ai	tiʔi 
+spit: oko (seisei) | arimu	arimu-ai	tiʔi 
+spit: tovere | arimu	arimu-ai	tiʔi 
+stand: idara | idaida	ida|ra 
+star: idiu | idiu	ligoni	visiu	vitiu 
+star: ligoni | idiu	ligoni	visiu	vitiu 
+star: visiu | idiu	ligoni	visiu	vitiu 
+stone: goibo | budi	goibo	gomagomana	gomana	korau	kwaipo	nabua 
+stone: gomana | budi	goibo	gomagomana	gomana	korau	kwaipo	nabua 
+stone: korau | budi	goibo	gomagomana	gomana	korau	kwaipo	nabua 
+stone: kwaipo | budi	goibo	gomagomana	gomana	korau	kwaipo	nabua 
+straight: ʔoroʔoroni 
+straight: tirilaulau | ʔoroʔoroni 
+suck: ama dururita | amosi-	dorodoro 
+sun: nina 
+swell: boboga 
+swim: lolololo | lolololo	lolorolo	loroloro	rolorolo 
+swim: lolorolo | lolololo	lolorolo	loroloro	rolorolo 
+swim: luru | lolololo	lolorolo	loroloro	rolorolo 
+tail: basuna | basuna	batuna	doru	nari 
+tail: batuna | basuna	batuna	doru	nari 
+tail: doru | basuna	batuna	doru	nari 
+tail: ki | basuna	batuna	doru	nari 
+tail: munu | basuna	batuna	doru	nari 
+tail: orebeki | basuna	batuna	doru	nari 
+take: ʔevaʔeva 
+take: oma 
+take: ʔoma 
+take: omokari 
+that: ada | ada	atano	ne | ome	omu	omupua	ʔomu 
+that: atano | ada	atano	ne | ome	omu	omupua	ʔomu 
+that: ne | ada	atano	ne | ome	omu	omupua	ʔomu 
+there: adade | atate	neno 
+there: adano | atate	neno 
+there: arara | atate	neno 
+there: atate | atate	neno 
+there: neno | atate	neno 
+they: iaina | iaina	oma	omoa	omomona 
+they: omadai-omana | iaina	oma	omoa	omomona 
+they: omana | iaina	oma	omoa	omomona 
+they: omoa | iaina	oma	omoa	omomona 
+they two: omadai 
+they two: omadai-omana 
+they two: omana 
+they: utogoda | iaina	oma	omoa	omomona 
+they: utogoda (?) | iaina	oma	omoa	omomona 
+thick: iduna 
+thigh: munu 
+thigh: obe 
+thigh: ʔobe 
+thin: ariari | ariari	ogiogi 
+think: dunati | dunati	suna	sunaavini 
+think: suna | dunati	suna	sunaavini 
+this: eva 
+thorn: sini 
+thou: aea | ga	gana 
+thou: aea\ana | ga	gana 
+thou: aeaːna | ga	gana 
+thou: ana | ga	gana 
+thou: denegi | ga	gana 
+thou: ga | ga	gana 
+thou: gan | ga	gana 
+thou: gana | ga	gana 
+thou: ivegi | ga	gana 
+three: aisei | aisei	aiseri	asiri 
+three: aiseri | aisei	aiseri	asiri 
+three: aišeri | aisei	aiseri	asiri 
+throat: unari 
+throw: odaoda | odaoda	oviovi 
+throw: odati | odaoda	oviovi 
+throw: oviovi | odaoda	oviovi 
+thunder: goru 
+tie: badibadi 
+tie: uwatai | badibadi 
+today: evaeva 
+today: eva samu 
+tomorrow: isou 
+tomorrow: itou 
+tongue: kopa | goba 
+tooth: kagina | gagina	ma	maa	maʔa	maʼa 
+tooth: ma | gagina	ma	maa	maʔa	maʼa 
+tooth: maa | gagina	ma	maa	maʔa	maʼa 
+tooth: ma\a | gagina	ma	maa	maʔa	maʼa 
+tooth: maʔa | gagina	ma	maa	maʔa	maʼa 
+tree: ana 
+tree: bo 
+tree: gabana 
+tree: gubara 
+tree: tutu 
+turn: ebelesi 
+turn: girigiriai 
+two: ava | ava	ʔava 
+two: ʔava | ava	ʔava 
+two: awa | ava	ʔava 
+vomit: gobi | gobagoba	gobi 
+vomit: gobi (ariari) | gobagoba	gobi 
+walk: babai | baebae	baepae 
+walk: baebae | baebae	baepae 
+walk: baepae | baebae	baepae 
+walk: loai | baebae	baepae 
+walk: loulou | baebae	baepae 
+walk: onieta | baebae	baepae 
+walk: onioni | baebae	baepae 
+walk: yiyau | baebae	baepae 
+wallaby: mani 
+warm: odaoda | odaoda	otaota	viribau 
+warm: otaota | odaoda	otaota	viribau 
+warm: vavana | odaoda	otaota	viribau 
+wash: opuopu | opuopu	owoti 
+wash: owoti | opuopu	owoti 
+wash: utouto | opuopu	owoti 
+water: ʔaʔama | a7ama	aʔaʔma	aʼama	iaʼaama	mami	ʔaʔama 
+water: a\ama | a7ama	aʔaʔma	aʼama	iaʼaama	mami	ʔaʔama 
+water: ama | a7ama	aʔaʔma	aʼama	iaʼaama	mami	ʔaʔama 
+water: mami | a7ama	aʔaʔma	aʼama	iaʼaama	mami	ʔaʔama 
+we: adei 
+weep: ini 
+weep: ini a\ama 
+weep: ini-a\ama 
+weep: ini ei 
+we: gea 
+we: gea-gena 
+we: gena 
+we: guna 
+we (incl.): geagena 
+we (incl.): gena 
+we: kea 
+we: kekena (?) 
+wet: nuda 
+wet: nuda nuda 
+we two: enicheri 
+we two: guadai 
+we two (incl.): eničeri 
+we two (incl.): guadai 
+we two (incl.): guna 
+what: aboua | aboua	diada	dida 
+what: diada | aboua	diada	dida 
+what: dida | aboua	diada	dida 
+what: didada | aboua	diada	dida 
+when: abo samude | abo samu	abo samude	dia uanade 
+when: dia uanade | abo samu	abo samude	dia uanade 
+where: abode | abo de	abode 
+where: abudea | abo de	abode 
+white: ʔemeʔeme | eme eme	emeeme	kakakaka	ʔemeʔeme 
+white: eme eme | eme eme	emeeme	kakakaka	ʔemeʔeme 
+white: goia | eme eme	emeeme	kakakaka	ʔemeʔeme 
+white: kakakaka | eme eme	emeeme	kakakaka	ʔemeʔeme 
+who: au 
+who: aunai 
+wide: badada | babada	badada	bamubamu	bedibedi	dobuna	tatapa 
+wide: bamubamu | babada	badada	bamubamu	bedibedi	dobuna	tatapa 
+wife: aueta | avesa	aveta	ena avesa 
+wife: avesa | avesa	aveta	ena avesa 
+wife: ena avesa | avesa	aveta	ena avesa 
+wind: ani 
+wind: aru aru | ani 
+wing: aena | aena	papa 
+wing: lealea | aena	papa 
+wing: papa | aena	papa 
+woman: ause | aueta	avesa	aveta 
+woman: avesa | aueta	avesa	aveta 
+woman: aveta | aueta	avesa	aveta 
+woman: sina | aueta	avesa	aveta 
+wood: ana 
+wood: teu 
+year: lioro | lioro	rioro 
+year: rioro | lioro	rioro 
+yellow: gobugobura | gobugobura	gobula	kedikedi 
+yellow: kedikedi | gobugobura	gobula	kedikedi 
+yellow: kwabu kwabura | gobugobura	gobula	kedikedi 
+yesterday: ilova 
+yesterday: ilovo 
+yesterday: ilowo 
+you: aea | ga	gana | aea	aia	aiana 
+you: aea-ana | ga	gana | aea	aia	aiana 
+you: aea-dai-ana | ga	gana | aea	aia	aiana 
+you two: aeadai 
+you two: aea-dai 
+you two: aeadai-ana 
+you two: ana 
+every: seiad usausa	wuwuru 
+ash: kau	konunu	ku 
+abdomen: amara	beni	noga 
+bigness: ogoda	ogota 
+large: ogoda	ogota 
+breasts: ama	hama	saga 
+burn tr.: asiasi	gabugabu 
+nail: didi 
+talon: didi 
+come from: ai	ai-	aienine aiau	alai 
+be dead: bau 
+dead: bau 
+ground: gidagida	ʔarima 
+land: gidagida	ʔarima 
+soil: gidagida	ʔarima 
+fly: levolevo 
+fly v.: levolevo 
+left hand: ima	ima paba 
+1 sg.: ia	ina 
+be knowledgeable: ribariba	vegarai 
+lie down: uiui 
+head louse: tuma 
+male: egi	emegi	emige 
+much: seriada 
+multiple: seriada 
+several: seriada 
+flesh: sauna 
+hill: oro 
+title: enomu	omu 
+nighttime: garu 
+adulterous: ome	omu	omupua	ʔomu 
+single: ome	omu	omupua	ʔomu 
+the: ome	omu	omupua	ʔomu 
+unprincipled: ome	omu	omupua	ʔomu 
+human: emegi 
+human being: emegi 
+person: emegi 
+rainy weather: bailo	duba	guba 
+path: laea 
+route: laea 
+hide: obi	opi	ʔopi 
+little: dimudimu	gigidi	gigiri	kiwonai	maramara 
+smallness: dimudimu	gigidi	gigiri	kiwonai	maramara 
+rock: budi	goibo	gomagomana	gomana	korau	kwaipo	nabua 
+2 sg: ga	gana 
+grind: ava	ʔava 
+go: baebae	baepae 
+hot: odaoda	otaota	viribau 
+whiteness: eme eme	emeeme	kakakaka	ʔemeʔeme 
+who?: au 
+female: aueta	avesa	aveta 
+distant: adabau	adapau	pakalau 
+dull: pailo	urumu 
+serious: pailo	urumu 
+close: tebina 
+ner: tebina 
+earthworm: minu	nikoi 
+worm: minu	nikoi 
+2 pl.: aea	aia	aiana 
+ye: aea	aia	aiana 
+you all: aea	aia	aiana 
+3 pl.: iaina	oma	omoa	omomona 
+where?: abo de	abode 
+when?: abo samu	abo samude	dia uanade 
+how?: abo ua	aboua 
+other: enere 
+broad: babada	badada	bamubamu	bedibedi	dobuna	tatapa 
+wideness: babada	badada	bamubamu	bedibedi	dobuna	tatapa 
+fat: mona 
+principal wife: avesa	aveta	ena avesa 
+his mother: adei	adi 
+my mother: adei	adi 
+his father: abai	abaiʼi 
+my father: abai	abaiʼi 
+woods: larausu	rarausu 
+stick: daga	dana	taʼana 
+cord: konau	maina	ora	oraora	oraoragauma 
+grease: mona 
+gut: sinae 
+insides: sinae 
+intestine: sinae 
+intestines: sinae 
+breath: mau uriuri 
+laughter: soro	toru	torutoru 
+cogitate: dunati	suna	sunaavini 
+reflect: dunati	suna	sunaavini 
+sniff: mudumudu	naninani	naninovo 
+afraid: daguru	taguru 
+be afraid: daguru	taguru 
+fright: daguru	taguru 
+alive: aua|uri	mauri 
+be alive: aua|uri	mauri 
+life: aua|uri	mauri 
+living: aua|uri	mauri 
+hunt: apana	laiva 
+beat: keakea 
+strike: keakea 
+hack: lealea	pelepele	pomupomu	ʔoi lobo 
+cut open: navanava 
+split: navanava 
+drop: biu	biubiu	gagagari	gudu	poopoo 
+grasp: aukisa	ausari	ʔevaʔeva 
+hold in arm: aukisa	ausari	ʔevaʔeva 
+squeeze: gigigigii	iʔiʔiʔiʔ	marumaru 
+wring: gigigigii	iʔiʔiʔiʔ	marumaru 
+wash clothes: opuopu	owoti 
+bind: badibadi 
+fasten: badibadi 
+tie up: badibadi 
+count: gimugimu	omiomi 
+enumerate: gimugimu	omiomi 
+number: gimugimu	omiomi 
+tally: gimugimu	omiomi 
+have fun: lele 
+flow: aruaru 
+brook: bomu	guina	ʔaʔama 
+stream: bomu	guina	ʔaʔama 
+ocean: lo 
+dust: veve 
+blaze: gabugabu 
+daylight: nina	samu	wau 
+daytime: nina	samu	wau 
+evil: oreore 
+rot: moru	oreore 
+filthy: milomilo	miro 
+soiled: milomilo	miro 
+blunt: bou	boubou	uba	ubauba 
+damp: nuda 
+right side: iada aura	iata	ʔiata	ʔiʔata 
+at: de 
+in: ausu 
+inside: ausu 
+if: de 

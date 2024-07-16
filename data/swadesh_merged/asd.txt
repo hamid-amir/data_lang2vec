@@ -1,0 +1,386 @@
+all: hugun 
+arm: hade- 
+arm: hadɛ- 
+arm: wabi 
+arrow: pigo 
+ashes: busai | busai	koibɛ 
+ashes: koibe | busai	koibɛ 
+ashes: koibɛ | busai	koibɛ 
+back: godi 
+bad: idiʌbu 
+bad: idiëbu 
+belly: kamo | sebei 
+belly: sebei 
+big: sik 
+bird: yene | yɛnɛ 
+bird: yɛnɛ 
+bite: hou- 
+black: fiabidi 
+blood: baidig 
+blow: hur- 
+bone: usuru- | usuru	usuru- 
+boy: humëri 
+boy: humʌri 
+breast: au- 
+brother: ai 
+brother: nunu 
+burn: fi- 
+burn: φi- 
+butterfly: papëu 
+butterfly: papʌu 
+calf: uguru 
+cassowary: gwaime 
+chest: konu- 
+child: numëmb 
+child: numʌmb 
+child: oro 
+chin: megeni 
+chin: mɛgɛni 
+cloud: hoßu | hoβu 
+cloud: hovu | hoβu 
+cold: troru- 
+come: hir- | hir	hir- 
+crocodile: yamei 
+cut: (hi)ber- 
+cut: (hi)bɛr- 
+cut: hodon- 
+cut: hoton- 
+day: sa youbu 
+die: hum- | hum	hum- 
+dig: her- 
+dig: hɛr- 
+dig: kri- 
+dirty: idiabu 
+dirty: idianu 
+dog: kesamu | kEsamu	kɛsamu 
+dog: kɛsamu | kEsamu	kɛsamu 
+dry: hogën- | hogʌn- 
+dry: hogʌn- 
+ear: hagu- | hagu	hagu- 
+earth: heme | hɛmɛ 
+earth: hɛmɛ 
+eat: n- 
+egg: sire | sirɛ 
+egg: sirɛ 
+elbow: wau- 
+emu: gwaimɛ 
+excrement: sipi 
+eye: amu- | amu	amu- 
+face: mo: 
+face: moː 
+fall: ber- 
+fall: habug- 
+far: sasege 
+father: babio 
+father: babu- 
+fat (n.): dkëda 
+fat (n.): kəda 
+fear: heiri- 
+fight: sɛg- 
+finger: maunumu 
+fingernail: sɛnɛnam 
+fingernail: senenëm 
+fire: hamun | hEgEni	hɛgɛni 
+fire: hegeni | hEgEni	hɛgɛni 
+fire: hɛgɛni | hEgEni	hɛgɛni 
+fish: felu | fElu	fɛlu 
+fish: fɛlu | fElu	fɛlu 
+fly (n.): guguri 
+fly (v.): pred- 
+fly (v.): prɛd- 
+fog: peyu 
+forehead: mo: 
+forest: saum 
+fruit: sere-num 
+full: kobu- | koyE	koyɛ- 
+full: koye- | koyE	koyɛ- 
+full: koyɛ- | koyE	koyɛ- 
+girl: hendëri turumu 
+girl: hɛndʌri turumu 
+give: is- 
+give: le-/is-/lu- 
+good: nogunën | nogunʌn 
+good: nogunʌn 
+grass: eri 
+green: amdarumu 
+guts: kamo 
+hair: wei 
+hair: wei- 
+head: hudei- 
+head: nurunu | hudei- 
+hear: saw is(io)- | saw is-	saw isio	saw islo- 
+hear: saw is(lo)- | saw is-	saw isio	saw islo- 
+heart: igam bubudo- 
+heavy: hemili- | hɛmili- 
+heavy: hɛmili- 
+here: awai 
+here: si 
+he/she: egei 
+he/she: -n 
+he/she: -nəmu 
+he/she: nen 
+he/she: nen- 
+he/she: nɛn- 
+he/she: nɛnɛ 
+he/she: -nVmu 
+he/she: -ø- 
+he/she: -r- 
+hit: seg- 
+hold: hidog- 
+house: wedi 
+house: wɛdi 
+how: genau 
+ice: sɛrɛ-num 
+I: i 
+I: i- 
+in: horubo 
+I: -ø 
+I: -y- 
+kill: pua hum- 
+knee: wau- | wau	wau- 
+laugh: teg- 
+laugh: tɛg- 
+left: nenai 
+left: nɛnai 
+leg: hei 
+lightning: fiain- 
+lightning: φiain- 
+liver: kame- | kamE	kamɛ- 
+liver: kamɛ- | kamE	kamɛ- 
+long: uniene | uniɛnɛ 
+long: uniɛnɛ 
+louse: ini 
+man: awʌ | hamɛdɛ 
+man: awë | hamɛdɛ 
+man: hamede | hamɛdɛ 
+man: hamɛdɛ 
+many: heye | heyɛ 
+many: heyɛ 
+meat: dou- 
+moon: asi 
+morning: sa biay 
+morning: sa biër 
+morning: sa biʌr 
+mosquito: kenagi 
+mosquito: kɛnagi 
+mother: mau- 
+mountain: hemorunmu | hEmorunmu	hɛmorunmu 
+mountain: hɛmorunmu | hEmorunmu	hɛmorunmu 
+mouth: lom- 
+name: weni | wEni	wɛni 
+name: wɛni | wEni	wɛni 
+nape: dumëgu- 
+nape: dumʌgu- 
+navel: sunu- 
+near: hagrau 
+neck: bayak 
+new: fuay | puay	ɸuay 
+new: φuay | puay	ɸuay 
+night: sa inabu 
+nose: mo: | mo	moː 
+not: pa 
+not: φa 
+old: reinumu 
+old: rɛinumu 
+old: sonim 
+one: adine 
+pull: irau- 
+push: sinoru- 
+rain: sa dibe | sa dibɛ 
+rain: sa dibɛ 
+rat: usʌb 
+rat: usëb 
+red: amunana 
+right: sigi 
+ripe: oronum 
+road: heime 
+root: kene-num | kɛnɛ-num 
+root: kɛnɛ-num 
+rope: hadini 
+salt: se | sɛ 
+salt: sɛ 
+sand: osneri | osnɛri 
+sand: osnɛri 
+sand: su | osnɛri 
+say: sauru ru- | wɛ- 
+say: wɛ- 
+say: we-/wo- | wɛ- 
+scratch: kri- 
+sea: su 
+see: ya- | ya	ya- 
+sharp: fed- 
+sharp: namu-(n) 
+sharp: nemu-(n) 
+short: ogmadinʲ | ogmadinⁱ 
+short: ogmadini | ogmadinⁱ 
+shoulder: haneri 
+shoulder: hanɛri 
+sing: sëb rair- 
+sister: nëgi 
+sister: nʌgi 
+sit: bu- 
+skin: mede | medE	medɛ	meit3ron	meitʌron 
+skin: medɛ | medE	medɛ	meit3ron	meitʌron 
+skin: meitëron | medE	medɛ	meit3ron	meitʌron 
+skin: meitʌron | medE	medɛ	meit3ron	meitʌron 
+sky: samëlu 
+sky: samʌlu 
+sleep: hen- | hɛn- 
+sleep: hɛn- 
+small: paitau 
+smell: digru- 
+smoke: hebere | hɛbɛrɛ 
+smoke: hɛbɛrɛ 
+snake: dog 
+spit: heisou- 
+spit: seo 
+stand: bi- 
+stand: pi- 
+stand: sair- 
+star: kunebi | kunebi	panege 
+star: panege | kunebi	panege 
+stick: bus 
+stone: waulo 
+straight: nogunën 
+straight: nogunʌn 
+sun: gage 
+swell: yubi- 
+tail: duru | suru 
+tail: sibduru | suru 
+tail: sib-duru | suru 
+tail: suru 
+take: hipog- 
+that: hegei | hegei	ungei 
+that: ungei | hegei	ungei 
+that: unggei | hegei	ungei 
+there: ungei 
+there: un.gei 
+they: -nəg- 
+they: nen- 
+they: nɛn- 
+they: nene 
+they: nɛnɛ 
+they: -nVg- 
+they: -ø 
+thigh: mosou 
+think: usu- 
+this: awai 
+thou: -n- | nE	nɛ 
+thou: ne | nE	nɛ 
+thou: ne- | nE	nɛ 
+thou: nɛ | nE	nɛ 
+thou: nɛ- | nE	nɛ 
+thou: -nəg- | nE	nɛ 
+thou: ney- | nE	nɛ 
+thou: nɛyɛ | nE	nɛ 
+thou: -ø | nE	nɛ 
+thou: tɛnɛ | nE	nɛ 
+throat: pesanmu 
+throat: pesanum 
+throw: ud- 
+thunder: samëlu pair- 
+thunder: samʌlu pair- 
+tie: irau- 
+tomorrow: ayu 
+tomorrow: idodiet 
+tomorrow: idodiɛt 
+tongue: yabtalu 
+tooth: wai 
+tree: ëre | 3rE 
+tree: hugu-num | 3rE 
+tree: lu-num | 3rE 
+tree: ʌrɛ | 3rE 
+two: aire | airE	airɛ 
+two: airɛ | airE	airɛ 
+vagina: simi 
+walk: kʌ- | lei- 
+walk: kë- | lei- 
+walk: lei- 
+walk: φuidɛrɛ m(u)- | lei- 
+wallaby: kopiau 
+warm: baigiamën 
+warm: baigiamʌn 
+wash: os- 
+wash: oso- 
+water: ya 
+weep: firi- 
+weep: φiri- 
+we: -ø | sEnE 
+we: -səg- | sEnE 
+we: sen- | sEnE 
+we: sɛn- | sEnE 
+we: sene | sEnE 
+we: sɛnɛ | sEnE 
+we: -sVg- | sEnE 
+wet: osai- 
+what: namie 
+where: amye 
+white: kobonab | kobonab	nakogonan 
+white: nakogonan | kobonab	nakogonan 
+who: mi: | miː 
+who: miː 
+wind: nobi 
+wing: pʌ 
+wing: pë 
+woman: hendëri | hɛndʌri 
+woman: hɛndʌri 
+woman: mau | hɛndʌri 
+wood: bage-num 
+wood: bagɛ-num 
+wood: bus 
+yellow: kogaire 
+yes: oe 
+yes: oɛ 
+yesterday: ayu 
+yesterday: somo 
+you: ney- | nE	nɛ 
+you: neye | nE	nɛ 
+you: -nVg- | nE	nɛ 
+you: -ø | nE	nɛ 
+you: tene | nE	nɛ 
+every: hugun 
+ash: busai	koibɛ 
+abdomen: sebei 
+bigness: sik 
+large: sik 
+breasts: au- 
+come from: hir	hir- 
+be dead: hum	hum- 
+dead: hum	hum- 
+ground: hɛmɛ 
+land: hɛmɛ 
+soil: hɛmɛ 
+fly: prɛd- 
+fly v.: prɛd- 
+head louse: ini 
+male: hamɛdɛ 
+much: heyɛ 
+multiple: heyɛ 
+several: heyɛ 
+hill: hEmorunmu	hɛmorunmu 
+title: wEni	wɛni 
+nighttime: sa inabu 
+adulterous: adine 
+single: adine 
+the: adine 
+unprincipled: adine 
+rainy weather: sa dibɛ 
+path: heime 
+route: heime 
+hide: medE	medɛ	meit3ron	meitʌron 
+little: paitau 
+smallness: paitau 
+rock: waulo 
+2 sg: nE	nɛ 
+grind: airE	airɛ 
+go: lei- 
+1 pl. inc.: sEnE 
+we₁: sEnE 
+whiteness: kobonab	nakogonan 
+who?: miː 
+female: hɛndʌri 
+distant: sasege 
+dull: hɛmili- 
+serious: hɛmili- 
+close: hagrau 
+ner: hagrau 

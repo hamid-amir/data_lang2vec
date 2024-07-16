@@ -1,0 +1,286 @@
+all: nesia | nesia	nesina 
+animal: egi 
+arm: age 
+arm: eni 
+arm: wana 
+back: dubena 
+big: daira | daira	dera	derarabo	derawere	dɛraβɛre 
+big: dera | daira	dera	derarabo	derawere	dɛraβɛre 
+bird: ada | ada	gasira 
+bird: adau | ada	gasira 
+bird: gasira | ada	gasira 
+boy: amara 
+brother: dabue 
+brother: datae 
+brother: kaka 
+brother: yabue 
+burn: ya- 
+come: a- | a-	ar	ara	far 
+count: yawi- 
+cut: yana- 
+dark: dumu 
+daughter: aruma 
+day: yawi 
+dig: dau- 
+dog: kua | kua	kw~a	kw~asiri	ua 
+dog: ua | kua	kw~a	kw~asiri	ua 
+dog: wa\ai | kua	kw~a	kw~asiri	ua 
+ear: ome | ome	omi 
+ear: omi | ome	omi 
+eat: i- | i-	it	pukufakavasu	yanae 
+egg: baka | babaka	baka 
+eye: diti | diti	natei	nati	nawata 
+eye: nawata | diti	natei	nati	nawata 
+eye: niapa (avara) | diti	natei	nati	nawata 
+face: ibo 
+face: nate 
+father: baba 
+father: babai 
+father: babaki 
+father: damama 
+fear: iyara- 
+fight: ura- 
+fire: iyo | ina	safo	sapa 
+fire: safo | ina	safo	sapa 
+fire: sapa | ina	safo	sapa 
+fish: eliegi | arai	aǯabe	eliegi	eriegi	erio egi	niboa	ogo egi 
+fish: eriegi | arai	aǯabe	eliegi	eriegi	erio egi	niboa	ogo egi 
+fish: erio egi | arai	aǯabe	eliegi	eriegi	erio egi	niboa	ogo egi 
+fish: nasa | arai	aǯabe	eliegi	eriegi	erio egi	niboa	ogo egi 
+foot: aina fafa | bovi dama	buri 
+foot: bovi dama | bovi dama	buri 
+foot: buri | bovi dama	buri 
+forest: nauwa 
+forest: oi 
+four: agibunuba 
+give: ma- | ma-	mat	matatan 
+good: kobere | kobere	kobererau	kotofurau	kotoɸu	kʰotoɸurau	ráu 
+good: kotoφu | kobere	kobererau	kotofurau	kotoɸu	kʰotoɸurau	ráu 
+good: ráu | kobere	kobererau	kotofurau	kotoɸu	kʰotoɸurau	ráu 
+hand: aga-papa | aga-papa	age	fafa 
+hand: age | aga-papa	age	fafa 
+head: koφiri | fouma	kofiri	koɸiri 
+hear: nau- | nau-	naune	naut 
+heart: neno | dinama	neno 
+heavy: urumu 
+he/she: ada 
+he/she: dawa 
+hit: u- 
+hole: eba 
+house: mari 
+house: su 
+house: sua 
+how: anene 
+husband: awera 
+I: iva | ma	na 
+I: ma | ma	na 
+I: na | ma	na 
+laugh: yo- 
+leg: buri 
+leg: soφu 
+long: yaφa | yafararabo	yafawere	yaɸa	ɪauɸaβɛre 
+man: amara | eme	uwára 
+man: eme | eme	uwára 
+man: emi | eme	uwára 
+many: taima | faiyawere	taima	ɸeɸera 
+many: φeφera | faiyawere	taima	ɸeɸera 
+meat: dama 
+moon: deba\a | marabe	marabi	sakara	sakra 
+moon: marabi | marabe	marabi	sakara	sakra 
+moon: sakra | marabe	marabi	sakara	sakra 
+mother: amai 
+mother: baia 
+mother: bai\ai 
+mother: baya 
+mother: danua 
+mountain: maidani | maidani	maidəni 
+name: iφu | ifu	iɸu 
+near: su 
+night: dumu | dumu	dumuro 
+not: da | me 
+not: me 
+one: demurai | danorai	demurai	demure	dimuri	moi 
+one: dimuri | danorai	demurai	demure	dimuri	moi 
+one: miau | danorai	demurai	demure	dimuri	moi 
+one: moi | danorai	demurai	demure	dimuri	moi 
+person: eme | eme	uwára 
+person: uwára | eme	uwára 
+pull: you- 
+push: you- 
+rain: obi 
+rain: uri | obi 
+road: daba | daba	darei 
+road: eda | daba	darei 
+root: ini | ana ini	ini	inini 
+rope: nama 
+say: we- | wa 
+see: e- | e-	elatane	er 
+short: φuya | ɸuaratu	ɸuya 
+sit: yau- | yau-	yaub	yaubinu	yaur 
+skin: oφe | ofe	oɸe 
+sleep: ai- | ai-	nauta ain 
+small: otowa | kawiri	kikiratu	otowa	rátu 
+small: rátu | kawiri	kikiratu	otowa	rátu 
+snake: towima | tabai	towima	tɔβi 
+stone: begiro | gebiro	gembiro	gɛbiro	oma 
+stone: gebiro | gebiro	gembiro	gɛbiro	oma 
+stone: gembiro | gebiro	gembiro	gɛbiro	oma 
+stone: oma | gebiro	gembiro	gɛbiro	oma 
+sun: koai | eraka	ewaka	koai	koua	kowa 
+sun: kowa | eraka	ewaka	koai	koua	kowa 
+sun: veaga | eraka	ewaka	koai	koua	kowa 
+tail: toroma | toroma	tɔroma	ǯɔgono 
+take: mu- 
+that: etei 
+they: ema 
+they two: ya 
+think: imu- 
+this: ewa | ewa	i 
+this: i | ewa	i 
+thorn: sini 
+thou: a | ?aboaten	a	teamara 
+thou: aboaten | ?aboaten	a	teamara 
+thou: aboaten (?) | ?aboaten	a	teamara 
+thou: ya | ?aboaten	a	teamara 
+three: laragun 
+three: larogun 
+three: rarogonu 
+three: yaimi 
+throw: sa- 
+today: awona 
+tomorrow: waidumu 
+tooth: nio | nio	niʼo 
+tooth: ni\o | nio	niʼo 
+tree: ána | ana oma 
+two: larela | daleva	larela	larera	rarera	sadei 
+two: larera | daleva	larela	larera	rarera	sadei 
+two: sadei | daleva	larela	larera	rarera	sadei 
+two: yaiyai | daleva	larela	larera	rarera	sadei 
+walk: an- | an	ina-	inar	kekɛra mana su 
+walk: durami | an	ina-	inar	kekɛra mana su 
+walk: ina- | an	ina-	inar	kekɛra mana su 
+wallaby: mabara 
+water: e\a\a | edo	erio	irio	ogo	ogó 
+water: edo | edo	erio	irio	ogo	ogó 
+water: erio | edo	erio	irio	ogo	ogó 
+water: irio | edo	erio	irio	ogo	ogó 
+water: ogó | edo	erio	irio	ogo	ogó 
+we two (incl.): wa 
+we: ya 
+what: ane | abono	ane 
+when: abododo 
+white: kori(kori) | ina	inawere	inaβɛre	kori	korikori 
+who: aná | ana	aná 
+wife: aweta 
+with: -ma 
+woman: aruma | aveta	aveta-pu	aweta	awetabo 
+woman: aveta-pu | aveta	aveta-pu	aweta	awetabo 
+woman: aweta | aveta	aveta-pu	aweta	awetabo 
+woman: wari | aveta	aveta-pu	aweta	awetabo 
+wood: ina 
+wood: isu 
+yesterday: arena 
+you two: ya 
+every: nesia	nesina 
+ash: bubu	kunua 
+ashes: bubu	kunua 
+bark: ana ofe 
+bigness: daira	dera	derarabo	derawere	dɛraβɛre 
+large: daira	dera	derarabo	derawere	dɛraβɛre 
+bite: asinu	niyomatatane 
+black: dubakino	dubawaru	ðubauβaro 
+blood: iwa	onono 
+bone: tai	unubu 
+breast: ama 
+breasts: ama 
+claw: gaga 
+nail: gaga 
+talon: gaga 
+cloud: goso 
+cold: ibuβɛre	iwu	ɔperiutasu 
+come from: a-	ar	ara	far 
+be dead: uit 
+dead: uit 
+die: uit 
+drink: isinu	ogo it 
+dry: aweita	rarara 
+earth: nasini	sakai 
+ground: nasini	sakai 
+land: nasini	sakai 
+soil: nasini	sakai 
+fat: aru	kewea 
+fat n.: aru	kewea 
+grease: aru	kewea 
+lubricant: aru	kewea 
+oil: aru	kewea 
+feather: tota	tɔta 
+fly: fafafa ue an	urɛroɸara anasu 
+fly v.: fafafa ue an	urɛroɸara anasu 
+full: beda	ibinu	wate farinu 
+green: orawo 
+hair: fouma	iji 
+left hand: aga-papa	age	fafa 
+right: aga-papa	age	fafa 
+horn: yawera 
+1 sg.: ma	na 
+knee: yajigo 
+be knowledgeable: iwata 
+know: iwata 
+leaf: tata 
+lie: ain 
+lie down: ain 
+liver: uba 
+head louse: reiba	ua 
+louse: reiba	ua 
+male: amara	eme	emi 
+much: faiyawere	taima	ɸeɸera 
+multiple: faiyawere	taima	ɸeɸera 
+several: faiyawere	taima	ɸeɸera 
+flesh: dama 
+hill: maidani	maidəni 
+mouth: bebetu 
+title: ifu	iɸu 
+neck: ubiri	uduna 
+new: lɛka	reka	rɛkarau 
+nighttime: dumu	dumuro 
+nose: ibo 
+adulterous: danorai	demurai	demure	dimuri	moi 
+single: danorai	demurai	demure	dimuri	moi 
+the: danorai	demurai	demure	dimuri	moi 
+unprincipled: danorai	demurai	demure	dimuri	moi 
+human: eme	uwára 
+human being: eme	uwára 
+rainy weather: obi 
+red: iwafisirewe	kukui	kukw~iwere 
+path: daba	darei 
+route: daba	darei 
+round: fugomu 
+sand: magua 
+seed: ana taii	tai	taii 
+hide: ofe	oɸe 
+little: kawiri	kikiratu	otowa	rátu 
+smallness: kawiri	kikiratu	otowa	rátu 
+smoke: gibori 
+stand: inaibinu 
+star: kodara	muina 
+rock: gebiro	gembiro	gɛbiro	oma 
+swim: wanabasi ut // ororo ue inar	wanabasua 
+2 sg: ?aboaten	a	teamara 
+you: ?aboaten	a	teamara 
+tongue: awiwi	meana 
+grind: daleva	larela	larera	rarera	sadei 
+go: an	ina-	inar	kekɛra mana su 
+1 pl. inc.: ya 
+we₁: ya 
+whiteness: ina	inawere	inaβɛre	kori	korikori 
+who?: ana	aná 
+female: aveta	aveta-pu	aweta	awetabo 
+yellow: bora	iauβɛre	yao	yau 
+dull: urumu 
+serious: urumu 
+close: su 
+ner: su 
+thin: iaɸaβɛre	ǯagaruβɛre 
+wind: oiau 
+earthworm: dɔfe 
+worm: dɔfe 

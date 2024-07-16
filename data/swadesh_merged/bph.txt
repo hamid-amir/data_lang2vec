@@ -1,0 +1,305 @@
+all: тІолгу 
+every: тІолгу 
+ash: кьей 
+ashes: кьей 
+bark: хъал 
+big: бечІуха 
+bigness: бечІуха 
+large: бечІуха 
+bird: шикиб 
+bite: къамди 
+black: бечІер 
+blood: hiri	гьири 
+bone: ratL"ir	ракьил 
+breast: niXi	кака 
+breasts: niXi	кака 
+claw: гьуму 
+nail: гьуму 
+talon: гьуму 
+cloud: гьира 
+cold: сам 
+come: hErXi	hi*Xuy	гьингъуй 
+come from: hErXi	hi*Xuy	гьингъуй 
+be dead: i7i	вии	виов 
+dead: i7i	вии	виов 
+die: i7i	вии	виов 
+dog: Xw~ay	хай 
+drink: Xudi	худи 
+dry: бекъу 
+ear: hant"uk"a	гьантІукІа 
+earth: пачалихъ	унщи 
+ground: пачалихъ	унщи 
+land: пачалихъ	унщи 
+soil: пачалихъ	унщи 
+eat: гъамди	инкуй 
+egg: кІаркІану 
+eye: hay	гьай 
+feather: по 
+fire: c"ay	цІай 
+fish: qXw$a*y	хъвай 
+fly: бурди 
+fly v.: бурди 
+foot: цІекІа 
+full: hibc"ibu	гьибцІаб 
+give: икки 
+good: гванзи 
+green: ачу 
+hair: баса 
+hand: rE7a	къванкІара 
+left hand: rE7a	къванкІара 
+right: rE7a	къванкІара 
+head: гъвани 
+hear: a*hi	агьи 
+heart: ракІва 
+horn: k"amu	кІаму 
+1 sg.: dEn	dEni	ден 
+I: dEn	dEni	ден 
+kill: кІкІванди 
+knee: nakw~a	nuku	нуку 
+be knowledgeable: бегъи 
+know: бегъи 
+leaf: Xali	гІаш 
+lie: варахи 
+lie down: варахи 
+liver: rEhin	rEhitL~a	регьилъа 
+long: бехила 
+head louse: nac"i	нацІи 
+louse: nac"i	нацІи 
+male: кунтІекІа 
+man: %adam	адам 
+many: кьонихи 
+much: кьонихи 
+multiple: кьонихи 
+several: кьонихи 
+flesh: къаркъала 
+meat: къаркъала 
+moon: пурцІу 
+hill: tL"udi	беле	рекъа 
+mountain: tL"udi	беле	рекъа 
+mouth: гъели 
+name: c"Eri	цІери 
+title: c"Eri	цІери 
+neck: гару 
+new: c"i*w	цІив 
+night: rEha	регьа 
+nighttime: rEha	регьа 
+nose: mi7ar	миар 
+adulterous: cEb 
+one: cEb 
+single: cEb 
+that: cEb 
+the: cEb 
+unprincipled: cEb 
+human: %adam	адам 
+human being: %adam	адам 
+person: %adam	адам 
+rain: цІцІай 
+rainy weather: цІцІай 
+red: ирхха 
+root: гьикьиб 
+round: гургинаб 
+sand: сира 
+say: гьикьи 
+see: haXi	гьагъи 
+seed: хъизан 
+sit: гьачІахи вукІи 
+hide: qX~al	хъал	цІуку 
+skin: qX~al	хъал	цІуку 
+sleep: гъунду вагьи 
+little: зукІкІу 
+small: зукІкІу 
+smallness: зукІкІу 
+smoke: цури 
+star: c"ay	цІва 
+rock: hi*c"a	гьинцІа	кьуди 
+stone: hi*c"a	гьинцІа	кьуди 
+sun: mi*hi	мигьи 
+swim: квачІи чІабди 
+tail: мигъа 
+2 sg: min	mini	бишти	мин 
+thou: min	mini	бишти	мин 
+you: min	mini	бишти	мин 
+tongue: mic"i	мицІи 
+tooth: salu	салу 
+tree: ruSa 
+grind: k"Edas	кІеда 
+two: k"Edas	кІеда 
+go: релъаха рагьи 
+walk: релъаха рагьи 
+hot: анса 
+warm: анса 
+water: LEn	LEni	лъени 
+1 pl. inc.: biSdi	biSti	ищи 
+we: biSdi	biSti	ищи 
+we₁: biSdi	biSti	ищи 
+white: гьацІаха 
+whiteness: гьацІаха 
+female: йешикІа 
+woman: йешикІа 
+yellow: чаку 
+distant: чІиду 
+far: чІиду 
+dull: гьакІуба 
+heavy: гьакІуба 
+serious: гьакІуба 
+close: бекьару 
+near: бекьару 
+ner: бекьару 
+salt: цІай 
+short: бечекІи 
+snake: берка 
+thin: беэра 
+wind: мучу 
+earthworm: хІапара 
+worm: хІапара 
+year: реши 
+2 pl.: бишти 
+ye: бишти 
+you all: бишти 
+3 pl.: гол 
+they: гол 
+some: чамула 
+few: асар 
+three: гьабуда 
+four: бугъуда 
+five: иштуда 
+broad: гъаби 
+wide: гъаби 
+wideness: гъаби 
+fat: лъирлъи 
+thick: чара 
+narrow: чІидир 
+child: зукІкІу макІи 
+principal wife: гьаркІкІи 
+wife: гьаркІкІи 
+husband: кІунтІа 
+his mother: ила 
+mother: ила 
+my mother: ила 
+father: има 
+his father: има 
+my father: има 
+animal: хІайванде 
+forest: рухьу 
+woods: рухьу 
+branch: гьала 
+stick: гьала 
+fruit: бехъи 
+flower: гигина 
+grass: гьунчІа 
+cord: нашар 
+rope: нашар 
+grease: лъирлъи 
+fingernail: гьуму 
+leg: регъил	цІекІа 
+wing: квачІи 
+gut: бакьи 
+guts: бакьи 
+insides: бакьи 
+intestine: бакьи 
+intestines: бакьи 
+back: мигъул 
+suck: цІунди 
+spit: тата	туди 
+vomit: кІаркІада рагьи 
+blow: пуди 
+breath: хІухьел	хІухьел ганди 
+breathe: хІухьел	хІухьел ганди 
+laugh: векІкІа вагьи 
+laughter: векІкІа вагьи 
+cogitate: ургъи 
+reflect: ургъи 
+think: ургъи 
+smell: шай шунди 
+sniff: шай шунди 
+afraid: гьибдир 
+be afraid: гьибдир 
+fear: гьибдир 
+fright: гьибдир 
+alive: гІумру	гІумру игьи	чІагойав 
+be alive: гІумру	гІумру игьи	чІагойав 
+life: гІумру	гІумру игьи	чІагойав 
+live: гІумру	гІумру игьи	чІагойав 
+living: гІумру	гІумру игьи	чІагойав 
+fight: вехъуй 
+hunt: чан игьи 
+beat: чІабди 
+hit: чІабди 
+strike: чІабди 
+cut: букъи 
+hack: букъи 
+cut open: гъурди 
+split: гъурди 
+pierce: къиндай 
+stab: къиндай 
+dig: хварди 
+tell lies: гьебеси маси 
+stand: гьирчІу вигъи 
+turn: сарди 
+turn around: сарди 
+turn round: сарди 
+drop: букки 
+fall: букки 
+grasp: бикки 
+hold: бикки 
+hold in arm: бикки 
+squeeze: цІурди 
+wring: цІурди 
+rub: цІинкІай 
+wipe: цІинкІай 
+wash: мучи 
+wash clothes: мучи 
+push: биси 
+shove: биси 
+throw: билай 
+bind: маши 
+fasten: маши 
+tie: маши 
+tie up: маши 
+sew: макІкІуй 
+count: мицІи 
+enumerate: мицІи 
+number: мицІи 
+tally: мицІи 
+sing: кІечІи маси 
+have fun: вагьи 
+play: вагьи 
+float: квачІи чІабди 
+flow: чвахади 
+brook: инса	инхи 
+river: инса	инхи 
+stream: инса	инхи 
+lake: игьур	регьа 
+ocean: регьа 
+sea: регьа 
+dust: дада 
+fog: гьира 
+sky: решин 
+snow: анзи 
+ice: зари 
+blaze: рикуй 
+burn: рикуй 
+day: зив 
+daylight: зив 
+daytime: зив 
+bad: суров 
+evil: суров 
+rot: тамдаб 
+rotten: тамдаб 
+dirty: хъупи 
+filthy: хъупи 
+soiled: хъупи 
+straight: битІи 
+sharp: багьихаб	цІункІи 
+blunt: багьихичІаб 
+smooth: битІи 
+damp: аржа 
+wet: аржа 
+correct: битІи 
+right side: битІи рахъи 
+left: чІила рахъи 
+in: гьину 
+inside: гьину 
+and: эха 
+if: гьала букІала 
+because: эпила букІе 

@@ -1,0 +1,304 @@
+all: al	alle	iegelīch	ietweder	ietwelīch 
+every: al	alle	iegelīch	ietweder	ietwelīch 
+ash: asche 
+ashes: asche 
+bark: rinde 
+big: grōz	michel 
+bigness: grōz	michel 
+large: grōz	michel 
+bird: vogel 
+bite: bīzen 
+black: swarz 
+blood: bluot 
+bone: bein 
+breast: brust	tute 
+breasts: brust	tute 
+claw: klā 
+nail: klā 
+talon: klā 
+cloud: wolken 
+cold: kalt 
+come: komen 
+come from: komen 
+be dead: sterben	touwen	tōt 
+dead: sterben	touwen	tōt 
+die: sterben	touwen	tōt 
+dog: hunt 
+drink: trinken 
+dry: dürre	trucken 
+ear: ōr 
+earth: erde	lant 
+ground: erde	lant 
+land: erde	lant 
+soil: erde	lant 
+eat: ezzen 
+egg: ei 
+eye: ouge 
+feather: vedere 
+fire: viur 
+fish: visch 
+fly: vliegen 
+fly v.: vliegen 
+foot: vuoz 
+full: vol 
+give: geben 
+good: guot 
+green: grüene 
+hair: hār	schopf	vahs 
+hand: hant 
+left hand: hant 
+right: hant 
+head: houbet	kopf 
+hear: hœren 
+heart: herze 
+horn: horn 
+1 sg.: ich 
+I: ich 
+kill: slān	sterben	tœten 
+knee: knie 
+be knowledgeable: bekennen	erkennen	künnen	wissen 
+know: bekennen	erkennen	künnen	wissen 
+leaf: blat	loup 
+lie: ligen 
+lie down: ligen 
+liver: lebere 
+long: lanc 
+head louse: lūs 
+louse: lūs 
+male: man 
+man: mensch 
+many: manege	vil 
+much: manege	vil 
+multiple: manege	vil 
+several: manege	vil 
+flesh: vleisch 
+meat: vleisch 
+moon: māne 
+hill: berg	bühel	houc	hübel 
+mountain: berg	bühel	houc	hübel 
+mouth: munt 
+name: name 
+title: name 
+neck: hals	krage 
+new: niu 
+night: naht 
+nighttime: naht 
+nose: nase 
+adulterous: ein 
+one: ein 
+single: ein 
+that: ein 
+the: ein 
+unprincipled: ein 
+human: mensch 
+human being: mensch 
+person: mensch 
+rain: regen 
+rainy weather: regen 
+red: rōt 
+root: wurzel 
+round: runt	sinwel 
+sand: sant 
+say: queden	sagen 
+see: sehen 
+seed: sāme	sāt 
+sit: sitzen 
+hide: hūt	vel 
+skin: hūt	vel 
+sleep: slāfen 
+little: klein	lützel	smal	smæhe 
+small: klein	lützel	smal	smæhe 
+smallness: klein	lützel	smal	smæhe 
+smoke: dampf	rouch 
+star: sterne 
+rock: leie	stein 
+stone: leie	stein 
+sun: sunne 
+swim: swimmen 
+tail: sterz	swanz	zagel 
+2 sg: du 
+thou: du 
+you: du 
+tongue: zunge 
+tooth: zan 
+grind: zwei	zwēne 
+two: zwei	zwēne 
+go: gān	wandeln 
+walk: gān	wandeln 
+hot: warm 
+warm: warm 
+water: wazzer 
+1 pl. inc.: wir alle 
+we: wir alle 
+we₁: wir alle 
+white: wīz 
+whiteness: wīz 
+female: wīp 
+woman: wīp 
+yellow: gel 
+distant: ver 
+far: ver 
+dull: swære 
+heavy: swære 
+serious: swære 
+close: nā	nāhe 
+near: nā	nāhe 
+ner: nā	nāhe 
+salt: salz 
+short: kurz 
+snake: slange	wurm 
+thin: dünne 
+wind: wint 
+earthworm: wurm 
+worm: wurm 
+year: jār 
+2 pl.: ir 
+ye: ir 
+you all: ir 
+3 pl.: si 
+they: si 
+some: sum	sumelīch 
+few: lūtzel	wēnec 
+three: driu	drīe 
+four: vier 
+five: fünf 
+broad: breit	wīt 
+wide: breit	wīt 
+wideness: breit	wīt 
+fat: smalz	smer	veizete 
+thick: dicke 
+narrow: enge	smal 
+child: kint 
+principal wife: gemahele	kone	wīp 
+wife: gemahele	kone	wīp 
+husband: gemahele	man 
+his mother: muoter 
+mother: muoter 
+my mother: muoter 
+father: vater 
+his father: vater 
+my father: vater 
+animal: tier 
+forest: holz	vorst	wald 
+woods: holz	vorst	wald 
+branch: ast	zelch	zwī	zwīc 
+stick: ast	zelch	zwī	zwīc 
+fruit: obez 
+flower: bluome 
+grass: gras 
+cord: līne	reif	seil	snuor	stranc	stric 
+rope: līne	reif	seil	snuor	stranc	stric 
+grease: smalz	smer	veizete 
+fingernail: nagel 
+leg: bein 
+wing: vlügel 
+gut: geweide	inædere 
+guts: geweide	inædere 
+insides: geweide	inædere 
+intestine: geweide	inædere 
+intestines: geweide	inædere 
+back: rücke 
+suck: dīen	sūgen 
+spit: spīwen 
+vomit: kotzen	spīwen	ūzspīwen 
+blow: blāsen	wæjen 
+breath: ātem	ātemen 
+breathe: ātem	ātemen 
+laugh: lachen 
+laughter: lachen 
+cogitate: denken	hügen 
+reflect: denken	hügen 
+think: denken	hügen 
+smell: riechen	smecken 
+sniff: riechen	smecken 
+afraid: ege	schrecke	vorht 
+be afraid: ege	schrecke	vorht 
+fear: ege	schrecke	vorht 
+fright: ege	schrecke	vorht 
+alive: leben	lebende	lebendic	līp	quec 
+be alive: leben	lebende	lebendic	līp	quec 
+life: leben	lebende	lebendic	līp	quec 
+live: leben	lebende	lebendic	līp	quec 
+living: leben	lebende	lebendic	līp	quec 
+fight: treffen	vehten	wīgen 
+hunt: jagen 
+beat: bern	bliuwen	bōzen	slān 
+hit: bern	bliuwen	bōzen	slān 
+strike: bern	bliuwen	bōzen	slān 
+cut: meizen	snīden 
+hack: meizen	snīden 
+cut open: spalten 
+split: spalten 
+pierce: stechen 
+stab: stechen 
+dig: graben	telben 
+tell lies: liegen	lüge	lügene 
+stand: stān 
+turn: dræjen	rīden 
+turn around: dræjen	rīden 
+turn round: dræjen	rīden 
+drop: vallen 
+fall: vallen 
+grasp: halten	hān 
+hold: halten	hān 
+hold in arm: halten	hān 
+squeeze: ringen	wringen 
+wring: ringen	wringen 
+rub: gnīten	rīben	vicken 
+wipe: gnīten	rīben	vicken 
+wash: twahen	waschen 
+wash clothes: twahen	waschen 
+push: schieben 
+shove: schieben 
+throw: werfen 
+bind: binden 
+fasten: binden 
+tie: binden 
+tie up: binden 
+sew: næjen	siuwen 
+count: zeln 
+enumerate: zeln 
+number: zeln 
+tally: zeln 
+sing: singen 
+have fun: spiln 
+play: spiln 
+float: sweben	vliezen 
+flow: rinnen	vliezen 
+brook: bach	strōm	vluz 
+river: bach	strōm	vluz 
+stream: bach	strōm	vluz 
+lake: sē 
+ocean: mer	salzsē 
+sea: mer	salzsē 
+dust: stoup 
+fog: nebel 
+sky: himel 
+snow: snē 
+ice: īs 
+blaze: brinnen 
+burn: brinnen 
+day: tac 
+daylight: tac 
+daytime: tac 
+bad: bœse	übel 
+evil: bœse	übel 
+rot: vūl 
+rotten: vūl 
+dirty: horwec	unreine	unsūber 
+filthy: horwec	unreine	unsūber 
+soiled: horwec	unreine	unsūber 
+straight: gereht	reht 
+sharp: scharpf	was 
+blunt: slē	stumpf 
+smooth: eben	glat	sleht 
+damp: naz	viuhte 
+wet: naz	viuhte 
+correct: gereht	reht 
+right side: reht	zese 
+left: lerz	linc	winster 
+in: inne 
+inside: inne 
+and: unde 
+if: obe 
+because: danne	wande 

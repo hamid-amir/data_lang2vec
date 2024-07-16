@@ -1,0 +1,269 @@
+all: elin	laŋun	qɨlin 
+every: elin	laŋun	qɨlin 
+ash: ibmuk	qibmuk 
+ashes: ibmuk	qibmuk 
+abdomen: getek	gɨtɨk 
+belly: getek	gɨtɨk 
+big: dekeleq	dɨkɨlɨq 
+bigness: dekeleq	dɨkɨlɨq 
+large: dekeleq	dɨkɨlɨq 
+bird: tagbis 
+bite: kaǥat 
+black: item	qitɨm 
+blood: l3N3sa	leNesa	leŋesa	lɨngɨsa 
+bone: tulan 
+breast: kuming	susu 
+breasts: kuming	susu 
+burn: binsul 
+burn tr.: binsul 
+cloud: gapun 
+cold: genew	gɨnɨw 
+come: hendini	hend~ini 
+come from: hendini	hend~ini 
+be dead: minatey	minatiy 
+dead: minatey	minatiy 
+die: minatey	minatiy 
+dog: asu	qasu 
+drink: inum	qinum 
+dry: kagkag	maza 
+ear: t3liNa	teliNa	teliŋa	tɨlinga 
+eat: kaqan 
+egg: impis	qimpis 
+eye: mata 
+feather: bulvul	lawi 
+fire: hapuy 
+fish: pa7it	paqit 
+fly: layang	layaŋ 
+fly v.: layang	layaŋ 
+full: p3nu7 
+good: qupiya	upiya 
+green: ilem	qilɨm 
+hair: bulvul 
+hand: b3lad	bɨlad 
+left hand: b3lad	bɨlad 
+right: b3lad	bɨlad 
+head: qulu	ulu 
+hear: din3g	dineg	dinɨg 
+1 sg.: ak	si7ak	siqak 
+I: ak	si7ak	siqak 
+kill: himatey	hɨmatɨy 
+knee: bu73l 
+be knowledgeable: kilala	tendek 
+know: kilala	tendek 
+leaf: dahun 
+lie: hizeǥaq 
+lie down: hizeǥaq 
+liver: at3y	atey	qatɨy 
+long: layat 
+head louse: kutu7	kutuq 
+louse: kutu7	kutuq 
+male: meqama	mɨqama 
+man: 3t3w	etew	qɨtɨw 
+moon: bulan 
+hill: buntud 
+mountain: buntud 
+mouth: baqbaq 
+name: Nazan	ngazan	ŋazan 
+title: Nazan	ngazan	ŋazan 
+neck: liqeg	liqɨg 
+new: b3gu	bexu	beǥu	bɨǥu 
+night: dukil3m	dukilem	dukilɨm 
+nighttime: dukil3m	dukilem	dukilɨm 
+nose: izuN	izuŋ	qizung 
+adulterous: s3v3ha	seveha	sɨvɨha	sɨvɨka 
+one: s3v3ha	seveha	sɨvɨha	sɨvɨka 
+single: s3v3ha	seveha	sɨvɨha	sɨvɨka 
+that: heqeuaq	heqeyan 
+the: s3v3ha	seveha	sɨvɨha	sɨvɨka 
+unprincipled: s3v3ha	seveha	sɨvɨha	sɨvɨka 
+human: 3t3w	etew	qɨtɨw 
+human being: 3t3w	etew	qɨtɨw 
+person: 3t3w	etew	qɨtɨw 
+rain: quzan	uzan 
+rainy weather: quzan	uzan 
+red: riǥeq	riǥɨq 
+path: dalan 
+road: dalan 
+route: dalan 
+root: dalid 
+sand: pantad 
+say: kagi	kaǥi 
+see: aha7	ahaq	qahaq 
+sit: pinuqu 
+hide: lundis	lund~is 
+skin: lundis	lund~is 
+sleep: lipezeŋ	lipɨzɨng 
+little: deqisek	dɨqisɨk 
+small: deqisek	dɨqisɨk 
+smallness: deqisek	dɨqisɨk 
+smoke: evel	qɨvɨl 
+star: bitu73n	bitu7en	bituqen	bituqɨn 
+rock: batu 
+stone: batu 
+swim: languy	laŋuy 
+tail: ikug	qikug 
+this: heqini 
+2 sg: kew	sik3w	sikew 
+thou: kew	sik3w	sikew 
+you: kew	sik3w	sikew 
+tongue: dila7	dilaq 
+tooth: Nip3n	Nipen	ngipin	ŋipen 
+tree: kuyu 
+grind: d3zuwa	dezuwa	dɨzuwa 
+two: d3zuwa	dezuwa	dɨzuwa 
+go: hipanew	hipanɨw 
+walk: hipanew	hipanɨw 
+hot: init	qinit 
+warm: init	qinit 
+water: wahig 
+1 pl. inc.: kitew	sikami	sikit3w	sikitew 
+we: kitew	sikami	sikit3w	sikitew 
+we₁: kitew	sikami	sikit3w	sikitew 
+what: heŋkey	hɨngkɨy 
+white: putiq 
+whiteness: putiq 
+who: henteqi	hɨntɨqi 
+who?: henteqi	hɨntɨqi 
+female: bahi 
+woman: bahi 
+yellow: kelawag	kɨlawag 
+distant: diyuq 
+far: diyuq 
+dull: beǥat	bɨǥat 
+heavy: beǥat	bɨǥat 
+serious: beǥat	bɨǥat 
+close: quvɨy	rani	uvey 
+near: quvɨy	rani	uvey 
+ner: quvɨy	rani	uvey 
+salt: timus 
+short: bavaq	diqisik 
+snake: qulɨd	uled 
+thin: nipis 
+wind: keramag	kɨramag 
+earthworm: liwati 
+worm: liwati 
+year: tuqig 
+2 pl.: sikiyu 
+ye: sikiyu 
+you all: sikiyu 
+3 pl.: sikandan 
+they: sikandan 
+where: hendeqi	hɨndɨqi 
+where?: hendeqi	hɨndɨqi 
+when: heqin	keqenu	kɨqɨnu 
+when?: heqin	keqenu	kɨqɨnu 
+how: menu	pira 
+how?: menu	pira 
+other: selakew	seveha	sɨvɨha 
+three: tetelu	tɨtɨlu 
+four: heqepat	hɨqɨpat	hɨʔɨpat 
+five: lɨlima 
+broad: luqag 
+wide: luqag 
+wideness: luqag 
+fat: taveq	taviq 
+thick: kepal	kɨpal 
+narrow: liǥet	liǥɨt 
+principal wife: esawa	qɨsawa 
+wife: esawa	qɨsawa 
+husband: esawa	qɨsawa 
+his mother: ineq	iney	qinɨy 
+mother: ineq	iney	qinɨy 
+my mother: ineq	iney	qinɨy 
+father: amaq	amey	qamɨy 
+his father: amaq	amey	qamɨy 
+my father: amaq	amey	qamɨy 
+forest: ketelunan	kɨtɨlunan 
+woods: ketelunan	kɨtɨlunan 
+branch: subpaŋ 
+stick: subpaŋ 
+fruit: beǥas	bɨgas 
+flower: bulak	kevukad	kɨvukad 
+grass: sagbet 
+cord: pisiq	tali 
+rope: pisiq	tali 
+flesh: usa 
+meat: usa 
+grease: taveq	taviq 
+wing: pakpak 
+gut: bituka 
+guts: bituka 
+insides: bituka 
+intestine: bituka 
+intestines: bituka 
+back: peka	pɨka 
+suck: supsup 
+spit: ileb	qilɨb 
+vomit: qutaq	utaq 
+blow: hiyup 
+breath: gehinawa 
+breathe: gehinawa 
+laugh: eŋit	qɨngit 
+laughter: eŋit	qɨngit 
+cogitate: isip 
+reflect: isip 
+think: isip 
+smell: hazek	hazɨk 
+sniff: hazek	hazɨk 
+afraid: handek	handɨk 
+be afraid: handek	handɨk 
+fear: handek	handɨk 
+fright: handek	handɨk 
+alive: uyag 
+be alive: uyag 
+life: uyag 
+live: uyag 
+living: uyag 
+hunt: anup	qanup 
+beat: pukpuk 
+hit: pukpuk 
+strike: pukpuk 
+cut: getas	karad 
+hack: getas	karad 
+cut open: gurey 
+split: gurey 
+pierce: sundaŋ	tɨmpaling 
+stab: sundaŋ	tɨmpaling 
+scratch: digis	kutkut 
+dig: banbang	baŋbaŋ	kalut 
+stand: bitindɨg	hitindeg 
+drop: qulug	ulug 
+fall: qulug	ulug 
+grasp: kemkem	kɨmkɨm 
+hold: kemkem	kɨmkɨm 
+hold in arm: kemkem	kɨmkɨm 
+squeeze: kemes	kemuq	kɨmɨs 
+wring: kemes	kemuq	kɨmɨs 
+throw: timbag 
+bind: hiket	hikɨt 
+fasten: hiket	hikɨt 
+tie: hiket	hikɨt 
+tie up: hiket	hikɨt 
+sew: tahi	tahiʼ 
+count: bilang	bilaŋ 
+enumerate: bilang	bilaŋ 
+number: bilang	bilaŋ 
+tally: bilang	bilaŋ 
+lake: ranew	ranɨw 
+ocean: daǥat 
+sea: daǥat 
+dust: eliyavuk	qɨliyavuk 
+sky: langit	laŋit 
+bad: daqat 
+evil: daqat 
+rot: redak	rɨdak 
+rotten: redak	rɨdak 
+dirty: remerik 
+filthy: remerik 
+soiled: remerik 
+sharp: garang	garaŋ 
+blunt: dumpel	dumpɨl 
+damp: hames	hamɨs 
+wet: hames	hamɨs 
+right side: kewanen	kɨwanɨn 
+left: givang	givaŋ 
+at: di	duqen 
+in: seled 
+inside: seled 
+and: wey 
+if: emun	ke	qɨmum 

@@ -1,0 +1,151 @@
+all: nana 
+every: nana 
+ash: hi8efo 
+ashes: hi8efo 
+bark: igorau 
+abdomen: hebe	hebeku 
+belly: hebe	hebeku 
+big: aiZue 
+bigness: aiZue 
+large: aiZue 
+bird: ofokui5o 
+bite: auni 
+black: hitu 
+blood: %duE	due 
+bone: ikuru 
+breast: monou 
+breasts: monou 
+claw: onobeko 
+nail: onobeko 
+talon: onobeko 
+cloud: uiZue 
+cold: ro8i 
+come: bi 
+come from: bi 
+be dead: tui 
+dead: tui 
+die: tui 
+dog: huko 
+drink: hiro	hirode 
+dry: 8afe 
+ear: hEpo	hefo 
+earth: enue 
+ground: enue 
+land: enue 
+soil: enue 
+eat: ru 
+egg: hugu 
+eye: uihu 
+fat: fare 
+fat n.: fare 
+grease: fare 
+lubricant: fare 
+oil: fare 
+feather: iforo 
+fire: irai 
+fish: Camu	Zukuau	jukuau 
+fly: fe 
+fly v.: fe 
+foot: euba 
+full: oruide 
+give: feka 
+good: 5uera 
+green: modo 
+hair: ufoturau 
+hand: onou 
+left hand: onou 
+right: onou 
+head: ufoku 
+hear: kaka 
+heart: komeku 
+horn: 8ikau 
+1 sg.: kuE	kue 
+I: kuE	kue 
+kill: meine 
+knee: kai5uku 
+be knowledgeable: ono 
+know: ono 
+leaf: rabE	rabe 
+lie: bui 
+lie down: bui 
+liver: banoi 
+long: are 
+head louse: uboma 
+louse: uboma 
+male: uima 
+man: komunu 
+many: aiZo	aiZora 
+much: aiZo	aiZora 
+multiple: aiZo	aiZora 
+several: aiZo	aiZora 
+flesh: Zukuai	ue8u 
+meat: Zukuai	ue8u 
+moon: fui 
+hill: iferu	kaifonedu 
+mountain: iferu	kaifonedu 
+mouth: fue 
+name: mamEku	mameku 
+title: mamEku	mameku 
+neck: kumohu 
+new: komuE	komue 
+night: mauuo	nau 
+nighttime: mauuo	nau 
+nose: dofo	dopo 
+not: 5e	dama ite 
+adulterous: da	daa 
+one: da	daa 
+single: da	daa 
+that: baie 
+the: da	daa 
+unprincipled: da	daa 
+human: komunu 
+human being: komunu 
+person: komunu 
+rain: noku 
+rainy weather: noku 
+red: hiau 
+path: duro	durofe	io 
+road: duro	durofe	io 
+route: duro	durofe	io 
+root: hainao 
+round: ibogu	iruNo 
+say: dau 
+see: Erii	eroi	kuo 
+seed: ihu 
+sit: ana raui 
+hide: igorau	igourau 
+skin: igorau	igourau 
+sleep: unu 
+little: due	hiu 
+small: due	hiu 
+smallness: due	hiu 
+smoke: uiZue 
+stand: naidai 
+star: ukudu 
+rock: nofuku	nopuku 
+stone: nofuku	nopuku 
+sun: hitoma 
+tail: oda 
+this: bie 
+2 sg: o	omou	omukou 
+thou: o	omou	omukou 
+you: o	omou	omukou 
+tongue: iufe	iupE 
+tooth: i8ido 
+tree: amena 
+grind: mEna	mena	ména 
+two: mEna	mena	ména 
+go: maka 
+walk: maka 
+water: haunoi 
+1 pl. inc.: kau	kauNau	koko 
+we: kau	kauNau	koko 
+we₁: kau	kauNau	koko 
+what: munuka 
+white: u8e 
+whiteness: u8e 
+who: bu 
+who?: bu 
+female: ruNo 
+woman: ruNo 
+yellow: bora 

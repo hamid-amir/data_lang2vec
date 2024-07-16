@@ -1,0 +1,254 @@
+all: kʰúmbrɛ̃ʏ̈ 
+every: kʰúmbrɛ̃ʏ̈ 
+ash: ɛ̃́tɛ̃́-ntʰù 
+ashes: ɛ̃́tɛ̃́-ntʰù 
+bark: ɛ̃́pʰrɔ̀ 
+abdomen: áláɓɛ̀ 
+belly: áláɓɛ̀ 
+big: bãʏ̈ 
+bigness: bãʏ̈ 
+large: bãʏ̈ 
+bird: kɔ̀cɛ̃ʏ̈ 
+bite: nã 
+black: ɓrɔ̀ 
+blood: ɛ̃́ká 
+bone: ɛ̃́cʰwè 
+breast: ɛ̃́ɲɛ̃ʏ̈ 
+breasts: ɛ̃́ɲɛ̃ʏ̈ 
+claw: ɛ̃́kʰúkʰwrɛ̀ 
+nail: ɛ̃́kʰúkʰwrɛ̀ 
+talon: ɛ̃́kʰúkʰwrɛ̀ 
+cloud: mɔ̃ʏ̈gùmɔ̃́gú 
+cold: nwrɛ̃ʏ̈	pɔ́ 
+come: ɓá 
+come from: ɓá 
+dog: gbà 
+drink: nã́ 
+dry: wɛ́ 
+ear: ɛ̃́ɟɛ̀ 
+earth: áyítá-tʰé 
+ground: áyítá-tʰé 
+land: áyítá-tʰé 
+soil: áyítá-tʰé 
+eat: ɗí 
+egg: ɛ̃́mwé 
+eye: ɛ̃́mɛ́ɓí 
+feather: ɛ̃́ɲɔ̃́gbrɛ̀ 
+fire: átɛ̃ʏ̈ 
+fish: ácɔ̃ʏ̈ 
+fly: fè 
+fly v.: fè 
+foot: ɛ̃́tà 
+full: sí 
+give: sè 
+good: ɲṍ 
+hair: ɛ̃́hɛ̃́ɲrò 
+hand: ɛ̃́gbàtʰé 
+left hand: ɛ̃́gbàtʰé 
+right: ɛ̃́gbàtʰé 
+head: ɛ̃́hɛ̃́-pʰè 
+hear: yé 
+heart: ɛ̃́tʰɛ̃́ 
+horn: ɛ̃́mè 
+1 sg.: mɛ̃ʏ̈ 
+I: mɛ̃ʏ̈ 
+kill: ŋwɛ̃́ 
+knee: ɛ̃́tráhɛ̃́ 
+be knowledgeable: ɲɛ̃́ 
+know: ɲɛ̃́ 
+leaf: ɛ̃́bì 
+lie: lá lé 
+lie down: lá lé 
+liver: áɓwè 
+male: sɛ̀ 
+man: lèpʰãʏ̈ 
+many: ɓúdú 
+much: ɓúdú 
+multiple: ɓúdú 
+several: ɓúdú 
+flesh: ɛ̃́nã́-mí 
+meat: ɛ̃́nã́-mí 
+moon: pɛ̀ 
+mouth: ɛ̃́mɛ̃́ 
+name: ɛ̃́hɛ̃́ 
+title: ɛ̃́hɛ̃́ 
+neck: áɓwà 
+new: pɔ́pɔ́ 
+night: ɛ̃́mrécì 
+nighttime: ɛ̃́mrécì 
+nose: ɛ̃́fɔ̃́ 
+adulterous: be	brɛ̃ʏ̈	bɛ̃ʏ̈ 
+one: be	brɛ̃ʏ̈	bɛ̃ʏ̈ 
+single: be	brɛ̃ʏ̈	bɛ̃ʏ̈ 
+that: lókɔ̃ʏ̈ 
+the: be	brɛ̃ʏ̈	bɛ̃ʏ̈ 
+unprincipled: be	brɛ̃ʏ̈	bɛ̃ʏ̈ 
+human: lèpʰãʏ̈ 
+human being: lèpʰãʏ̈ 
+person: lèpʰãʏ̈ 
+rain: ɲãʏ̈kãʏ̈-dù 
+rainy weather: ɲãʏ̈kãʏ̈-dù 
+red: nãʏ̈nãʏ̈ 
+root: ɛ̃́mɛ́lù 
+round: ɛ̃́gbɔ̀ 
+sand: ɛ̃́tʰù 
+say: krãʏ̈mãʏ̈	tɔ̀ 
+see: wú 
+seed: áɓá 
+sit: cʰé-tʰé 
+hide: áhrɔ́	ɛ̃́mpʰrɔ̀ 
+skin: áhrɔ́	ɛ̃́mpʰrɔ̀ 
+sleep: lá ná 
+little: ɓrì 
+small: ɓrì 
+smallness: ɓrì 
+smoke: ɛ̃́tɛ̃́-gbrãʏ̈ 
+star: pɛ́-mwè 
+rock: àɓú-ɓrì 
+stone: àɓú-ɓrì 
+sun: ɛ̃́ɲókà 
+swim: wɔ́ dù 
+tail: átʰágɔ̃ʏ̈ 
+this: lókɔ̃ʏ̈ 
+2 sg: hɛ̀ 
+thou: hɛ̀ 
+you: hɛ̀ 
+tongue: álɛ́ 
+tooth: ɛ̃́nɔ́ 
+grind: mõ	mɔ̃ʏ̈ 
+two: mõ	mɔ̃ʏ̈ 
+go: nɛ̃ʏ̈ sì 
+walk: nɛ̃ʏ̈ sì 
+water: ɛ̃́dù 
+what: bí 
+white: pʰópʰò 
+whiteness: pʰópʰò 
+who: àɓɛ̃ʏ̈ 
+who?: àɓɛ̃ʏ̈ 
+female: ɓyè 
+woman: ɓyè 
+distant: síkʰɔ̃ʏ̈ 
+far: síkʰɔ̃ʏ̈ 
+dull: ɗwàɔlʊ́lʊ́ 
+heavy: ɗwàɔlʊ́lʊ́ 
+serious: ɗwàɔlʊ́lʊ́ 
+salt: ɛ̃́nyè 
+snake: dù 
+wind: ápʰɛ́pʰrɛ̀ 
+earthworm: tʰɔ̃ʏ̈mwè 
+worm: tʰɔ̃ʏ̈mwè 
+year: ápá 
+2 pl.: hɔ̃́ 
+ye: hɔ̃́ 
+you all: hɔ̃́ 
+3 pl.: wò 
+they: wò 
+here: krɛ̃ʏ̈ 
+there: lónè 
+where: bã̺ 
+where?: bã̺ 
+when: cí-bɛ̃ʏ̈ 
+when?: cí-bɛ̃ʏ̈ 
+few: kpɛ́bɛ̃ʏ̈ 
+other: nã́kʰɛ 
+three: gbadya	ɓwàɗyá 
+four: bodi	ɓwèɗí 
+five: mwãʏ̈nã́	nwanã 
+broad: pʰrà 
+wide: pʰrà 
+wideness: pʰrà 
+fat: ɛ̃́nã́-nɔ̃ʏ̈ 
+thick: ɓrɛ̀ 
+narrow: ɓrì 
+child: yípɔ̀ 
+principal wife: ɓyà 
+wife: ɓyà 
+husband: ɛ̃ʏ̈cà 
+his mother: ɛ̃ʏ̈mãʏ̈ 
+mother: ɛ̃ʏ̈mãʏ̈ 
+my mother: ɛ̃ʏ̈mãʏ̈ 
+father: ɛ̃ʏ̈tʰè 
+his father: ɛ̃ʏ̈tʰè 
+my father: ɛ̃ʏ̈tʰè 
+animal: brãʏ̈ 
+fruit: ɛ̃́ɲá-mí 
+flower: frɛ́ 
+grass: ɛ́bì 
+cord: áɓɛ́ 
+rope: áɓɛ́ 
+grease: ɛ̃́nã́-nɔ̃ʏ̈ 
+fingernail: ɛ̃́kʰúkʰwrɛ̀ 
+leg: ɛ̃́tà 
+wing: ɛ̃́pʰrɛ́-mɔ̃ʏ̈ 
+gut: ɛ̃́náɓrɛ̀ 
+guts: ɛ̃́náɓrɛ̀ 
+insides: ɛ̃́náɓrɛ̀ 
+intestine: ɛ̃́náɓrɛ̀ 
+intestines: ɛ̃́náɓrɛ̀ 
+back: ákʰókʰò 
+vomit: kɔ́ 
+blow: pʰú 
+breath: fì gùpʰrɛ̀ 
+breathe: fì gùpʰrɛ̀ 
+laugh: pʰí ɗyà 
+laughter: pʰí ɗyà 
+cogitate: ɓu ɛ̃́hɛ̃́pé 
+reflect: ɓu ɛ̃́hɛ̃́pé 
+think: ɓu ɛ̃́hɛ̃́pé 
+smell: yé ápʰã́ 
+sniff: yé ápʰã́ 
+cut: ɟãʏ̈ 
+hack: ɟãʏ̈ 
+dig: fú 
+tell lies: ɗí tãʏ̈ 
+stand: yà tʰò 
+drop: fɔ́ 
+fall: fɔ́ 
+grasp: ɓò pʰɛ̀ 
+hold: ɓò pʰɛ̀ 
+hold in arm: ɓò pʰɛ̀ 
+squeeze: mwãʏ̈ ɗí 
+wring: mwãʏ̈ ɗí 
+wash: cʰó 
+wash clothes: cʰó 
+wipe: pʰù 
+push: dà	tʰù 
+shove: dà	tʰù 
+bind: mwãʏ̈-ɗí 
+fasten: mwãʏ̈-ɗí 
+tie: mwãʏ̈-ɗí 
+tie up: mwãʏ̈-ɗí 
+sew: grɛ̀ 
+count: kã́ 
+enumerate: kã́ 
+number: kã́ 
+tally: kã́ 
+sing: kó 
+float: gbɔ̀kɔ̀ 
+flow: byè 
+brook: ádù-ɓɛ̀ 
+river: ádù-ɓɛ̀ 
+stream: ádù-ɓɛ̀ 
+dust: ɛ̃́núɗù 
+fog: áɓókʰãʏ̈ 
+blaze: há tɛ̃ʏ̈ 
+burn: há tɛ̃ʏ̈ 
+day: ɛ̃́crɔ̃́ 
+daylight: ɛ̃́crɔ̃́ 
+daytime: ɛ̃́crɔ̃́ 
+bad: ɲãʏ̈ 
+evil: ɲãʏ̈ 
+rot: bɔ̃ʏ̈ 
+rotten: bɔ̃ʏ̈ 
+dirty: ɓyè 
+filthy: ɓyè 
+soiled: ɓyè 
+sharp: sɛ́ 
+blunt: tʰú 
+smooth: tʰrɛ́tʰrɛ̀ 
+right side: áɗyé-mɔ̃ʏ̈ 
+left: ɛ̃́mrã́kʰù 
+in: -hròmɛ̃ʏ̈	-mɛ̃ʏ̈ 
+inside: -hròmɛ̃ʏ̈	-mɛ̃ʏ̈ 
+and: lé ɔ̃́mɔ̃ʏ̈ 
+if: kʰɛ̃́ 

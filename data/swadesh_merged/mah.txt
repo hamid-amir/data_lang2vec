@@ -1,0 +1,309 @@
+all: aolep 
+and: imɯ | im	yem	yim 
+animal: menninmɔuṛ 
+ashes: melkʷaṛaṛ | (wi)-pahaj	melkwaarar 
+back: ælikin | jakwir	āliki- 
+bad: nana 
+bark: kilwʌr 
+because: pˠe 
+belly: cε | (law)-jiye	(law)-jéy	je	jiye-	jéy	wibwe-	wébw 
+bird: pˠao | bao 
+bite: kic | ki-jiy	kik	kki-j	kkij 
+black: ditэpш | dawal	ditōb 
+blood: ra | da	dah	ddah 
+blow: pæl | uuk	wiwik	wiwiki-(y) 
+bone: ri | di	diy	diyi	diyi- 
+breast: ninnin | ittūt	titit	tittit	yitit	yitti-	yittit 
+breathe: menono 
+burn: tile | ttil 
+child: acṛi 
+cloud: kʌrɒ | kedaw	kōdo 
+cold: mшəḷɔ | (pi)-yaw	(pi)-yawyéw	méd	mōļo/ṃōleo 
+come: atok 
+correct: ceccet 
+count: pˠini | bénbén	bōnbōn	wate-k	watwat 
+cut: pˠukʷe | jay	jekjek	jepak 
+die: mεc | mej	mi	méj 
+dig: kɨpˠic | kōb	tiwij(iy)	ttéw 
+dirty: pˠiltɔnɔn | ttoon 
+dog: kiru | kidu 
+drink: irāk | idaak	inim	li-me-	limE	ni-me-	nimE 
+dry: ceccat | jejjat 
+dull: pˠicil | ddew	ddo | bwijil	kkébw 
+dust: bɨŋal | būŋal 
+ear: lɒcilŋi | (law-)jilŋ(iy)	jilN	lo|jilŋi 
+earth: laḷ 
+empty: pʷaṛ 
+eye: mæc | mEja	maj	meja-	māj 
+fall: moru | buŋ 
+far: lēlle | leelle	ttew-(ļakw) 
+father: ceman | jema- 
+fat (n.): [kɨrīc] 
+fear: kɔṛ | mi-jak	mijak 
+few: cet 
+fingernail: akki 
+fire: kapi | kijeek 
+fish: єk | ek	yapil 
+five: ḷalεm | lalim 
+float: ppɛc 
+flow: eɒ̄l | eooļ	heļ 
+flower: ut 
+fly (v.): pik 
+fog: tapˠ | tab 
+foot: ne 
+forest: pˠuḷʌn maṛ | buļōn mar 
+four: emæn | -yaŋ	emen	emān 
+frog: [pˠiṛɒk] 
+fruit: kʷʌІe | kwōle	wiwah 
+full: pˠapˠ 
+give: le- 
+good: mm{ɯ}an | ṃṃan 
+grass: wɨcɔ̄c | wūjooj 
+green: maṛoṛo | -mahrew	kūriin	mahrewrew 
+guts: nano | mwajŋal	ṃajŋal 
+hair: kōḷ | kooļ 
+hand: pæ | pEyi	pay	peyi-	pā 
+head: pшaṛ | pet 
+hear: ṛoŋ | reNw~	reŋw	roŋ 
+heart: menono 
+heavy: rro | ddew	ddo 
+he: ε 
+hit: itāk | ṃanṃan 
+horn: rɔ̄n 
+how: εkəckan | ia 
+hunt: pukot 
+husband: kunʷān | paleye-	pālee-	riyi 
+if: ŋe | eļaŋŋe 
+I: ŋa | Nah	ŋa	ŋah 
+in: i-lowa | (i)-lew	(i)-lewah	ilo 
+kill: [mˠʌṛʌІk] | ṃanṃan 
+knee: pˠukʷε 
+know: celæ | (j)-ahjéy	jeļā	kiley 
+large: ḷap | ļap	ļapļap	ļļap 
+laugh: llєckakkak | kajji-réyréy	lelejkakkak	réyréy 
+leaf: pˠələk | bōlōk 
+left: anmīŋ | (han)-miyiŋ	anbwijban 
+leg: ne 
+lie: p{ɯ}ap{ɯ}u | eļļok 
+live: mɔuṛ | mour	méwir 
+liver: ac | aj	yaj 
+long: aetok | aetok	leyelley 
+louse: kic | kij 
+man: mmʷān | armej	harmi	harméj 
+many: kupˠɔṛpˠɔṛ 
+meat: kanniək | kanniōk	yitekw 
+moon: alləŋ | allōŋ 
+mother: cinen | jine- 
+mountain: toḷ 
+mouth: loŋi 
+name: at | yat	āt 
+narrow: airik | ainiŋ 
+near: epāk | (yi)-tirwi-	epaak	tirwi- 
+neck: kʌṇʷa | (ken)wa(ha)-	kōnwa 
+new: kǽl | kāāl 
+night: pʷɔŋ | boŋ	bw~iw	bwéŋw 
+nose: bmi | boti	bwawat(iy)	bw~awat 
+old: ṛɨtto 
+one: cuon | ji	ji-(wen)	juon 
+person: armεc | armej	harmi	harméj 
+play: kkuṛε 
+pull: aike 
+push: cipeḷḷɒk 
+rain: wət | wit	witey	wét	wōt 
+red: pˠɨṛɨṛɨ | būrōrō 
+right: anmōṇʷ | pEyi	pay	peyi-	pā | anbwijmaroŋ 
+river: [ṛεpˠa] 
+road: iaḷ | iaļ	yiyaL	yiyaļ	yiyyaļ 
+root: okaṛ | okar	wekar 
+rope: to | jaljél	to 
+rotten: mˠoṛ | kōt 
+round: rɔulul 
+rub: iṛI 
+salt: [cɒ̄ḷ] | jooļ 
+sand: p{ш}ok | bok	piyépéy	ppéy 
+say: pˠa | ba	bwah | bok	piyépéy	ppéy 
+sea: lɒcεt | lojet	lometo	me-tew 
+seed: kʷʌІe 
+sew: kĩc | keke 
+sharp: kkaŋ 
+short: karu | kadu 
+sing: al 
+sit: cicet | jijet 
+skin: kii | kil 
+sky: laŋ 
+sleep: mæcuṛ | majirw	mājur 
+small: rik | (wi)-ddik	dik	niŋ 
+smell: pˠin | (ya)-teŋw	kōnāmnām 
+smoke: pˠāt | (bwa)-hathat	atiti	baat 
+smooth: metal 
+snake: cerpænit | jabōn 
+some: cet 
+spit: kaplo | iadatōltōl 
+split: kacaṛ | bwel-ŋak	bōrrā 
+stab: ʌṛʌc | bwiār 
+stand: cuṛək | jiw-(tak)	ju|tak 
+star: icu | iju	yijiw 
+stick: cokonʷ | ra	rah 
+straight: ceccet 
+suck: ninnini 
+sun: aḷ 
+tail: ḷokʷan | ļokwa- 
+they: εṛ | er	re-	yer	yér 
+thick: micεl | mi-jel	mi-jeljel	mijel 
+think: ḷɒkceṇʷ | maŋ	ļōmņak 
+thin: mæni | ma-niy	māni 
+thou: kɔmˠ + komˠṛo | eok	kwe-	kwey	kw~E 
+thou: yɔk | eok	kwe-	kwey	kw~E 
+three: cilu | jili-	jili-w	jilu 
+throw: kar | kad	kadey	kadkad 
+tie: lukʷʌc | kōbobo	pawpéw	yawyéw 
+tongue: lo | lEw	lEwE	lew	lewe-	lo 
+tooth: ŋi | Niy	ŋi	ŋiy 
+tree: kɛn 
+turn: certak 
+two: ṛuo | riwE	riwe-	ruo 
+vomit: mmˠɔc | mwmwéj	mōṃōj 
+warm: pˠil | māāņāņ 
+wet: mˠɔḷɒwi | ņok 
+what: ta-εt | ta	tah 
+when: ŋe | ŋaya-t	ŋe 
+which: ta 
+white: mɔuc | mouj 
+who: me | wōn 
+why: pˠe 
+wide: repakpak | de-(pakpak)	depakpak 
+wind: aŋ | aŋ	haŋ 
+wing: pæ | p̄a 
+woman: kʌṛæ-liε | kōrā	liye- 
+worm: mˠackaræl | ṃajkadāl 
+wrong: pˠəd 
+year: [īʌ] | iiō 
+yellow: [iaḷɔ]+mǣṛ | ialo	yiyaļéw 
+every: aolep 
+ash: (wi)-pahaj	melkwaarar 
+abdomen: (law)-jiye	(law)-jéy	je	jiye-	jéy	wibwe-	wébw 
+big: ļap	ļapļap	ļļap 
+bigness: ļap	ļapļap	ļļap 
+breasts: ittūt	titit	tittit	yitit	yitti-	yittit 
+burn tr.: ttil 
+come from: atok 
+be dead: mej	mi	méj 
+dead: mej	mi	méj 
+eat: kaikai	kaŋ	mweŋay 
+egg: lep 
+feather: kooļ 
+fly: kā- 
+fly v.: kā- 
+left hand: pEyi	pay	peyi-	pā 
+1 sg.: Nah	ŋa	ŋah 
+be knowledgeable: (j)-ahjéy	jeļā	kiley 
+lie down: eļļok 
+head louse: kij 
+male: mwmwahan	ṃṃaan 
+title: yat	āt 
+nighttime: boŋ	bw~iw	bwéŋw 
+adulterous: ji	ji-(wen)	juon 
+single: ji	ji-(wen)	juon 
+that: eņ/eŋņe	yeņ 
+the: ji	ji-(wen)	juon 
+unprincipled: ji	ji-(wen)	juon 
+human: armej	harmi	harméj 
+human being: armej	harmi	harméj 
+rainy weather: wit	witey	wét	wōt 
+path: iaļ	yiyaL	yiyaļ	yiyyaļ 
+route: iaļ	yiyaL	yiyaļ	yiyyaļ 
+see: lEw	lale	lew-(ey)	llew 
+hide: kil 
+little: (wi)-ddik	dik	niŋ 
+smallness: (wi)-ddik	dik	niŋ 
+rock: dekā	haji	hajji-(kad) 
+stone: dekā	haji	hajji-(kad) 
+swim: aō	haheh 
+this: iiō/in	yéy 
+2 sg: eok	kwe-	kwey	kw~E 
+you: eok	kwe-	kwey	kw~E 
+grind: riwE	riwe-	ruo 
+go: etetal	yetal 
+walk: etetal	yetal 
+hot: māāņāņ 
+water: dan	dandan	dand~an	dān 
+1 pl. inc.: kém	kémw	kōj	kōm 
+we: kém	kémw	kōj	kōm 
+we₁: kém	kémw	kōj	kōm 
+whiteness: mouj 
+who?: wōn 
+female: kōrā	liye- 
+distant: leelle	ttew-(ļakw) 
+serious: ddew	ddo 
+close: (yi)-tirwi-	epaak	tirwi- 
+ner: (yi)-tirwi-	epaak	tirwi- 
+earthworm: ṃajkadāl 
+2 pl.: kemiy	koṃ	kwémw 
+ye: kemiy	koṃ	kwémw 
+you all: kemiy	koṃ	kwémw 
+3 pl.: er	re-	yer	yér 
+where: ewi	yiʼyah 
+where?: ewi	yiʼyah 
+when?: ŋaya-t	ŋe 
+how?: ia 
+other: bar jet 
+broad: de-(pakpak)	depakpak 
+wideness: de-(pakpak)	depakpak 
+fat: kūriij 
+principal wife: paleye-	pālee-	riyi 
+wife: paleye-	pālee-	riyi 
+his mother: jine- 
+my mother: jine- 
+his father: jema- 
+my father: jema- 
+woods: buļōn mar 
+branch: ra	rah 
+cord: jaljél	to 
+flesh: kanniōk	yitekw 
+grease: kūriij 
+gut: mwajŋal	ṃajŋal 
+insides: mwajŋal	ṃajŋal 
+intestine: mwajŋal	ṃajŋal 
+intestines: mwajŋal	ṃajŋal 
+suck: ninnin 
+breath: menono 
+laughter: kajji-réyréy	lelejkakkak	réyréy 
+cogitate: maŋ	ļōmņak 
+reflect: maŋ	ļōmņak 
+sniff: (ya)-teŋw	kōnāmnām 
+afraid: mi-jak	mijak 
+be afraid: mi-jak	mijak 
+fright: mi-jak	mijak 
+alive: mour	méwir 
+be alive: mour	méwir 
+life: mour	méwir 
+living: mour	méwir 
+beat: ṃanṃan 
+strike: ṃanṃan 
+hack: jay	jekjek	jepak 
+cut open: bwel-ŋak	bōrrā 
+pierce: bwiār 
+scratch: jukkwe	kar 
+drop: buŋ 
+grasp: kukuul 
+hold: kukuul 
+hold in arm: kukuul 
+squeeze: kkeeņ[e] 
+wring: kkeeņ[e] 
+bind: kōbobo	pawpéw	yawyéw 
+fasten: kōbobo	pawpéw	yawyéw 
+tie up: kōbobo	pawpéw	yawyéw 
+enumerate: bénbén	bōnbōn	wate-k	watwat 
+number: bénbén	bōnbōn	wate-k	watwat 
+tally: bénbén	bōnbōn	wate-k	watwat 
+lake: ļam 
+ocean: lojet	lometo	me-tew 
+evil: nana 
+rot: kōt 
+filthy: ttoon 
+soiled: ttoon 
+blunt: bwijil	kkébw 
+damp: ņok 
+right side: anbwijmaroŋ 
+at: i	yi-	yiy 
+inside: (i)-lew	(i)-lewah	ilo 

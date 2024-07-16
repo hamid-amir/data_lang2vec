@@ -1,0 +1,274 @@
+all: yupun 
+every: yupun 
+ash: somot	somot̯ 
+ashes: somot	somot̯ 
+bark: deifta	nak"da 
+abdomen: oxet 
+belly: oxet 
+big: daii	iye 
+bigness: daii	iye 
+large: daii	iye 
+bird: hura7i	kodetl	uraʔi 
+bite: make	tako-n 
+black: dat"	dat̯	tsi-dat̯ 
+blood: du 
+bone: daš 
+breast: di-olem 
+breasts: di-olem 
+claw: pifi	piʔ=fi 
+nail: pifi	piʔ=fi 
+talon: pifi	piʔ=fi 
+cloud: k"awixu	naneʔde 
+cold: tsixuʔtsa	uxca 
+come: kaS3 
+come from: kaS3 
+be dead: fakdic	fakdits-e 
+dead: fakdic	fakdits-e 
+die: fakdic	fakdits-e 
+dog: kasoro 
+drink: sone 
+dry: tsʔa tak	uatɨta 
+ear: fapt3	faptɨ 
+earth: tenene	tenexne	trumai ilaka 
+ground: tenene	tenexne	trumai ilaka 
+land: tenene	tenexne	trumai ilaka 
+soil: tenene	tenexne	trumai ilaka 
+eat: ma 
+egg: taf	t̯af 
+eye: xon 
+feather: Lep	kodetɬ šap 
+fire: so 
+fish: k"ate	kaʔte	kʔate 
+fly: piuda	piuda-n 
+fly v.: piuda	piuda-n 
+foot: i	pic7	pitsʔ 
+full: xol 
+give: -kɨtɨ	k3t3 
+good: ae	deta	erohen	tsi-pom 
+green: ayu 
+hair: kud	kuš 
+hand: k"ad	kat 
+left hand: k"ad	kat 
+right: k"ad	kat 
+head: kut	kuta 
+hear: faca	fatsʔa 
+heart: hotʔaput 
+1 sg.: ha	hai	hai-ts	haic 
+I: ha	hai	hai-ts	haic 
+kill: -fa	disi-n	fa	ofa-n	ʔfa 
+knee: dako 
+be knowledgeable: hup	xup 
+know: hup	xup 
+leaf: ik"ada	sida	siʔda 
+lie: cula	tsula 
+lie down: cula	tsula 
+liver: atsi	aʔtsi 
+long: atuk	atuk iii 
+head louse: asih 
+louse: asih 
+male: kiki 
+man: iau 
+many: ad3	adɨ	p3x	paine	pɨx 
+much: ad3	adɨ	p3x	paine	pɨx 
+multiple: ad3	adɨ	p3x	paine	pɨx 
+several: ad3	adɨ	p3x	paine	pɨx 
+flesh: lat 
+meat: lat 
+moon: atetl-pak 
+mouth: xop 
+name: ku	taak 
+title: ku	taak 
+neck: hot	mud 
+new: xodae 
+night: San	šanixnis 
+nighttime: San	šanixnis 
+nose: lax	laša 
+not: anuk	tak 
+adulterous: mihin 
+one: mihin 
+single: mihin 
+that: kanaLeL	kanek 
+the: mihin 
+unprincipled: mihin 
+human: iau 
+human being: iau 
+person: iau 
+rain: k"awixu	kʔauixu	kʔauixukla 
+rainy weather: k"awixu	kʔauixu	kʔauixukla 
+red: homat"	tsi-omat̯ 
+path: ciuel 
+road: ciuel 
+route: ciuel 
+root: oke	sati	ɨuɨr maksi 
+round: tsixoʔmama	tsiʔxumama 
+sand: ulat̯ 
+say: ami 
+see: huca	xuʔtsa 
+seed: tɨl 
+sit: ahaci	ahaʔtsi 
+hide: p3t	pɨt	pɨt̯ 
+skin: p3t	pɨt	pɨt̯ 
+sleep: -iotl	o-otl-	oL 
+little: kod	kot	pat 
+small: kod	kot	pat 
+smallness: kod	kot	pat 
+smoke: soxden 
+stand: lakida 
+star: asi	asih	atsinau 
+rock: itak 
+stone: itak 
+sun: ateLa	atetla 
+swim: laf 
+tail: asix 
+this: nidaLeL	nidek 
+2 sg: hi	hik 
+thou: hi	hik 
+you: hi	hik 
+tongue: ano 
+tooth: iSa	iša 
+tree: 3w3r 
+grind: huS	uuš 
+two: huS	uuš 
+go: kaS3	kaašɨ	kaʔšɨ-kiua 
+walk: kaS3	kaašɨ	kaʔšɨ-kiua 
+hot: apiʔsi 
+warm: apiʔsi 
+water: misu 
+1 pl. inc.: ha wanek 
+we: ha wanek 
+we₁: ha wanek 
+what: cifan	han	hele=in 
+white: tore	tsi-tore 
+whiteness: tore	tsi-tore 
+who: te 
+who?: te 
+female: di 
+woman: di 
+yellow: naxu	tsi-aiixu 
+distant: fuik-tak 
+far: fuik-tak 
+dull: tsidatox 
+heavy: tsidatox 
+serious: tsidatox 
+close: fuik	fuik-man 
+near: fuik	fuik-man 
+ner: fuik	fuik-man 
+salt: iakɨr tsido 
+short: toxox 
+snake: kodešɨš 
+thin: torek-ta 
+wind: sud	sut 
+2 pl.: hi-uan 
+ye: hi-uan 
+you all: hi-uan 
+3 pl.: uan 
+they: uan 
+where: ham 
+where?: ham 
+when: hele=tsis 
+when?: hele=tsis 
+how: hele-am-nuk 
+how?: hele-am-nuk 
+three: uštaxme	uštaxme [3ǀ4] 
+four: uštaxme 
+five: nekatkelan 
+broad: mata-e 
+wide: mata-e 
+wideness: mata-e 
+fat: tsʔa 
+thick: iie	ɨrɨra 
+narrow: ɨtkatla 
+child: di=noxo	kik=noxo 
+principal wife: -deʔtsi 
+wife: -deʔtsi 
+husband: -eše 
+his mother: -atle 
+mother: -atle 
+my mother: -atle 
+father: -ao 
+his father: -ao 
+my father: -ao 
+animal: aton	kodetɬ 
+forest: aneneote	auat	kuiaie 
+woods: aneneote	auat	kuiaie 
+fruit: deat	deiat 
+grass: kuian	kutat 
+cord: sauken 
+rope: sauken 
+grease: tsʔa 
+fingernail: fi 
+leg: dak	dat 
+wing: etlep 
+gut: fax 
+guts: fax 
+insides: fax 
+intestine: fax 
+intestines: fax 
+back: natu 
+suck: xom	xopla 
+spit: tʔuske 
+vomit: pepen 
+blow: laf 
+breath: an fafla 
+breathe: an fafla 
+laugh: tɬat 
+laughter: tɬat 
+cogitate: fax-la 
+reflect: fax-la 
+think: fax-la 
+afraid: ɨtɨ 
+be afraid: ɨtɨ 
+fear: ɨtɨ 
+fright: ɨtɨ 
+fight: uaxudi 
+hunt: e=lax-kaua-n 
+cut: naha	šɨ 
+hack: naha	šɨ 
+dig: xot̯ken	xot̯ken-e 
+tell lies: lat̯	lat̯-ka 
+drop: uapta 
+fall: uapta 
+squeeze: dima-n 
+wring: dima-n 
+rub: kɨtɨ kɨtɨu 
+wipe: kɨtɨ kɨtɨu 
+wash: -xoxan-e 
+wash clothes: -xoxan-e 
+push: tɨrɨrɨu 
+shove: tɨrɨrɨu 
+bind: sauken 
+fasten: sauken 
+tie: sauken 
+tie up: sauken 
+sew: maska 
+sing: ual 
+have fun: dain-e 
+play: dain-e 
+flow: misu tururu 
+brook: atel=xu 
+river: atel=xu 
+stream: atel=xu 
+lake: xu 
+fog: soxden len 
+sky: naneʔne	naʔnene 
+blaze: cisi	otne 
+burn: cisi	otne 
+day: kuiatan-e 
+daylight: kuiatan-e 
+daytime: kuiatan-e 
+bad: ae-tak	faxden falen 
+evil: ae-tak	faxden falen 
+rot: xeʔne xeʔne 
+rotten: xeʔne xeʔne 
+dirty: enɨ enɨ 
+filthy: enɨ enɨ 
+soiled: enɨ enɨ 
+straight: tsʔax 
+smooth: kuš tsʔax-ka 
+damp: tsi-xexere 
+wet: tsi-xexere 
+correct: tsʔax 
+right side: kiʔta šɨ-k 
+left: teponik 
+in: faxo-n 
+inside: faxo-n 

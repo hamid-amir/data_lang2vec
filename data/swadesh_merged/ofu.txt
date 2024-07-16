@@ -1,0 +1,159 @@
+all: fie-fie 
+every: fie-fie 
+ash: ǹ=tûŋ 
+ashes: ǹ=tûŋ 
+bark: è=kpǝ́ɣá	è=kpə́ɣá 
+abdomen: ò=là 
+belly: ò=là 
+bird: è=súsuɔ́g 
+bite: gǝ́ŋ	gə́ŋ 
+black: é=ɲǝ́ɣǝ̀	é=ɲə́ɣə̀ 
+blood: l3N	à=lʋ́ŋ 
+bone: k3b	è=kǝ́b	è=kə́b 
+breast: biEn	ŋ̀=gǝ̌ŋ	ŋ̀=gə̌ŋ 
+breasts: biEn	ŋ̀=gǝ̌ŋ	ŋ̀=gə̌ŋ 
+burn: fí 
+burn tr.: fí 
+claw: ŋḿ=kpá=màːrà 
+nail: ŋḿ=kpá=màːrà 
+talon: ŋḿ=kpá=màːrà 
+cold: ǹ=luɔ̀g 
+come: ba	bá 
+come from: ba	bá 
+be dead: kp~o	kpɔ́ 
+dead: kp~o	kpɔ́ 
+die: kp~o	kpɔ́ 
+dog: wuo	ŋm̀=wuɔ̂ 
+drink: wuo	wuɔ́ 
+dry: yúm 
+ear: t3N	ò=tʋ̂ŋ 
+earth: à=tuɔ́	à=tútuɔ̄ 
+ground: à=tuɔ́	à=tútuɔ̄ 
+land: à=tuɔ́	à=tútuɔ̄ 
+soil: à=tuɔ́	à=tútuɔ̄ 
+eat: yiɛ́ 
+egg: è=zí 
+eye: m3r	è=mǝ̂r	è=mə̂r 
+fat: à=fuɔ̂m 
+fat n.: à=fuɔ̂m 
+grease: à=fuɔ̂m 
+lubricant: à=fuɔ̂m 
+oil: à=fuɔ̂m 
+feather: è=fʋ̌r 
+fire: g3n	ŋ̀=gʋ̂n 
+fish: 5am	ɲyama-lep 
+fly: fúːβǝ̀	fúːβə̀ 
+fly v.: fúːβǝ̀	fúːβə̀ 
+foot: è=sàn 
+give: ka 
+good: è=tíŋà 
+hair: è=lû 
+hand: buo	ò=buɔ̂ 
+left hand: buo	ò=buɔ̂ 
+right: buo	ò=buɔ̂ 
+head: è=sî 
+hear: yuog	yuɔ́g 
+heart: è=tím 
+horn: t3Na	ǹ=tǝ́ŋá	ǹ=tə́ŋá 
+1 sg.: me 
+I: me 
+kill: yún 
+knee: d3N	è=dʋ̂ŋ 
+be knowledgeable: gbiɛ́rǝ̀	gbiɛ́rə̀ 
+know: gbiɛ́rǝ̀	gbiɛ́rə̀ 
+leaf: 5an3	é=ɲánǝ́	é=ɲánə́ 
+lie: nuɔ́ŋǝ̄	nuɔ́ŋə̄ 
+lie down: nuɔ́ŋǝ̄	nuɔ́ŋə̄ 
+liver: miEr	è=miɛ̂r 
+long: é=dàbá-ndà 
+head louse: ban3	ḿ=báːnǝ̀	ḿ=báːnə̀ 
+louse: ban3	ḿ=báːnǝ̀	ḿ=báːnə̀ 
+male: ǹyɛ̀n=lúm 
+man: niE	ǹ=niɛ̀ 
+many: ákpáŋà 
+much: ákpáŋà 
+multiple: ákpáŋà 
+several: ákpáŋà 
+flesh: ɲ̀=ɲàm 
+meat: ɲ̀=ɲàm 
+moon: m̀=mĩ̀ɛ̃̌ 
+hill: g3n	è=gʋ̌n 
+mountain: g3n	è=gʋ̌n 
+mouth: í=ɲyô 
+name: biN	m̀=bìŋ 
+title: biN	m̀=bìŋ 
+neck: è=miɛ̀n 
+new: ɛ́=fiɛ̀ 
+night: et3N	è=tǝ́ŋ=à=tù	è=tə́ŋ=à=tù 
+nighttime: et3N	è=tǝ́ŋ=à=tù	è=tə́ŋ=à=tù 
+nose: m3n	m̀=mʋ̂n 
+adulterous: zizi	zízî 
+one: zizi	zízî 
+single: zizi	zízî 
+that: zizi	zízî 
+the: zizi	zízî 
+unprincipled: zizi	zízî 
+human: niE	ǹ=niɛ̀ 
+human being: niE	ǹ=niɛ̀ 
+person: niE	ǹ=niɛ̀ 
+rain: a=lʌp 
+rainy weather: a=lʌp 
+red: é=bíːná 
+path: ba	m̀ː=bá 
+road: ba	m̀ː=bá 
+route: ba	m̀ː=bá 
+root: ǹ=duɔ̌g 
+round: é=kárɛ̀-nkā 
+sand: è=sísíè 
+say: e=dak 
+see: 53N	ɲǝ́ŋ	ɲə́ŋ 
+seed: m̀=muɔ̀g 
+sit: zuɔ̀n 
+hide: gugu	ŋ̀=gùgù 
+skin: gugu	ŋ̀=gùgù 
+sleep: lán 
+smoke: é=tìtìɣǝ́	é=tìtìɣə́ 
+stand: yíːmǝ̀	yíːmə̀ 
+star: è=dùrándù 
+rock: tan	è=tán 
+stone: tan	è=tán 
+sun: ń=zùn	ń=ʒùn 
+swim: yuɔ́g 
+tail: ɲ̀=sîn 
+2 sg: wo 
+thou: wo 
+you: wo 
+tongue: lib3	é=líːβǝ̀	é=líːβə̀ 
+tooth: m3n	è=mǝ̂n	è=mə̂n 
+tree: ti	è=tí 
+grind: ban	á-βân	á=βân 
+two: ban	á-βân	á=βân 
+go: sɨŋ 
+walk: sɨŋ 
+hot: ì=fup 
+warm: ì=fup 
+water: l3b	à=lǝ́b	à=lə́b 
+1 pl. inc.: war 
+we: war 
+we₁: war 
+what: ǯyɛn	ǯɛn 
+white: e=bara-bara 
+whiteness: e=bara-bara 
+who: duo 
+who?: duo 
+female: niɛ̀ŋ=kán 
+woman: niɛ̀ŋ=kán 
+yellow: ò=guɔ̀ɣ-óguɔ̀g 
+dull: è=lùb-lúb 
+heavy: è=lùb-lúb 
+serious: è=lùb-lúb 
+close: báβà 
+near: báβà 
+ner: báβà 
+salt: à=kǝ̂ŋ	à=kə̂ŋ 
+short: è=kíkǝ̀m	è=kíkə̀m 
+snake: ɲ́=ɲuɔ̂ 
+wind: ɱ̀=fiɛ̂b 
+earthworm: ɲ́=suɔ́ŋǝ̄	ɲ́=suɔ́ŋə̄ 
+worm: ɲ́=suɔ́ŋǝ̄	ɲ́=suɔ́ŋə̄ 
+year: ǹ=lâ 

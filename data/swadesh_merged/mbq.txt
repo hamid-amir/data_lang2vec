@@ -1,0 +1,258 @@
+all: seseka 
+every: seseka 
+ash: i-isan 
+ashes: i-isan 
+abdomen: tina 
+belly: tina 
+big: nombo 
+bigness: nombo 
+large: nombo 
+bird: fi-i 
+bite: kw|arafe 
+black: gab-bubi 
+blood: ta	taa 
+bone: tukakii	tukakki 
+breast: susi	susii 
+breasts: susi	susii 
+burn: kwaratti 
+burn tr.: kwaratti 
+cloud: forogii 
+cold: kororo 
+come: ku|ra	rai 
+come from: ku|ra	rai 
+be dead: ku|mati	mati 
+dead: ku|mati	mati 
+die: ku|mati	mati 
+dog: taru	yawo 
+drink: kuN	k|un 
+dry: kumamasi	mamasa 
+ear: kariya	ka|riyan 
+eat: kw|an 
+egg: mu-unju 
+eye: mata 
+feather: bubu 
+fire: iriri	wo	wor 
+fish: mana 
+fly: kurufi 
+fly v.: kurufi 
+full: kavare rauku 
+good: boresi	tauban 
+hair: kesaa 
+hand: fake	wosoi 
+left hand: fake	wosoi 
+right: fake	wosoi 
+head: jii 
+hear: ku|ruwa	ruwa 
+horn: tato 
+kill: ku|nawusii 
+knee: tu 
+be knowledgeable: kasan 
+know: kasan 
+leaf: fara	faraa 
+lie: ku|to 
+lie down: ku|to 
+liver: kate 
+head louse: tuN	tun 
+louse: tuN	tun 
+male: tamatii 
+man: sauki tamati	saukitamati 
+moon: tabun 
+hill: woyaN 
+mountain: woyaN 
+mouth: kava 
+name: asa	asaŋ 
+title: asa	asaŋ 
+neck: iko 
+new: wauN	waun 
+night: foiN	foin 
+nighttime: foiN	foin 
+nose: gugu tii	isu 
+adulterous: sese	sesei 
+one: sese	sesei 
+single: sese	sesei 
+that: nen-na 
+the: sese	sesei 
+unprincipled: sese	sesei 
+human: sauki tamati	saukitamati 
+human being: sauki tamati	saukitamati 
+person: sauki tamati	saukitamati 
+rain: borun 
+rainy weather: borun 
+red: mu-u 
+path: darei	yet ta	yeta 
+road: darei	yet ta	yeta 
+route: darei	yet ta	yeta 
+root: ritii 
+sand: magu 
+say: kw|efii 
+see: kite	kw|ittii 
+sit: ku|toki 
+hide: andor	funa 
+skin: andor	funa 
+sleep: ku|matu 
+little: ra-ati 
+small: ra-ati 
+smallness: ra-ati 
+smoke: kasu-u 
+star: damana 
+rock: kamora	kimati 
+stone: kamora	kimati 
+sun: ya 
+swim: ku|ye 
+tail: foyan 
+this: in-na 
+tongue: me	me|ŋ 
+tooth: nuwa 
+tree: ka 
+grind: sandei	sandie 
+two: sandei	sandie 
+go: ko 
+walk: ko 
+hot: sa korokoka	sa veriveri ka 
+warm: sa korokoka	sa veriveri ka 
+water: yuN	yun 
+1 pl. inc.: aN	an	en 
+we: aN	an	en 
+we₁: aN	an	en 
+what: avai-ni 
+white: fwe 
+whiteness: fwe 
+who: sera-ye 
+who?: sera-ye 
+female: saukii 
+woman: saukii 
+yellow: gabo 
+distant: kaika 
+far: kaika 
+dull: va vatta 
+heavy: va vatta 
+serious: va vatta 
+close: sa kaika 
+near: sa kaika 
+ner: sa kaika 
+salt: tassa 
+short: tufa 
+snake: moti 
+thin: sa fotunaka 
+wind: yawu 
+earthworm: rivo 
+worm: rivo 
+year: ya 
+2 pl.: en 
+ye: en 
+you: en 
+you all: en 
+3 pl.: ei 
+they: ei 
+where: man	manke 
+where?: man	manke 
+when: isa|fe 
+when?: isa|fe 
+how: ava su 
+how?: ava su 
+other: tauni 
+three: sinati 
+four: fusese 
+five: faketi tarosi 
+broad: marafa 
+wide: marafa 
+wideness: marafa 
+fat: gor 
+thick: fotuna 
+narrow: sokun	yangiri 
+principal wife: saukii 
+wife: saukii 
+husband: fafii 
+his mother: yau 
+mother: yau 
+my mother: yau 
+father: yabi 
+his father: yabi 
+my father: yabi 
+forest: buran 
+woods: buran 
+branch: jafara 
+stick: jafara 
+fruit: kora 
+flower: bera na 
+grass: rei 
+cord: siya 
+rope: siya 
+flesh: viso 
+meat: viso 
+grease: gor 
+wing: fefe 
+gut: yain 
+guts: yain 
+insides: yain 
+intestine: yain 
+intestines: yain 
+suck: ku|sosonsii 
+spit: kw|asufe 
+vomit: ku|sasaa 
+blow: ivuruseŋ	ku|vuruseŋ 
+breath: yan kokko 
+breathe: yan kokko 
+laugh: kw|iro 
+laughter: kw|iro 
+cogitate: ku|mon 
+reflect: ku|mon 
+think: ku|mon 
+smell: ku|yon 
+sniff: ku|yon 
+afraid: kw|ayawa 
+be afraid: kw|ayawa 
+fear: kw|ayawa 
+fright: kw|ayawa 
+beat: ku|tarawusii 
+hit: ku|tarawusii 
+strike: ku|tarawusii 
+cut: kw|aiton 
+hack: kw|aiton 
+cut open: kokesessi 
+split: kokesessi 
+pierce: kok kosii 
+stab: kok kosii 
+scratch: kwari 
+dig: kw|iyas-sii 
+stand: ku|ramara 
+drop: kufe 
+fall: kufe 
+grasp: ku|gii 
+hold: ku|gii 
+hold in arm: ku|gii 
+squeeze: kw|irun 
+wring: kw|irun 
+throw: kufen	kuta 
+bind: ku|roli 
+fasten: ku|roli 
+tie: ku|roli 
+tie up: ku|roli 
+sew: ku|yayonsii 
+count: koyavi 
+enumerate: koyavi 
+number: koyavi 
+tally: koyavi 
+lake: kaubi 
+ocean: tassa 
+sea: tassa 
+dust: fonjii 
+fog: i-iso 
+sky: tod-di 
+bad: si-i 
+evil: si-i 
+rot: jemeya 
+rotten: jemeya 
+dirty: gaitii 
+filthy: gaitii 
+soiled: gaitii 
+sharp: mata 
+blunt: samata ka	tutu 
+damp: [radu]ra-adu 
+wet: [radu]ra-adu 
+right side: faya 
+left: kausi 
+in: tere	terere 
+inside: tere	terere 
+and: nate 
+if: ate 

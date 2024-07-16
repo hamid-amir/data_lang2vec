@@ -1,0 +1,402 @@
+all: pragi 
+arrow: bere 
+arrow: ere 
+arrow: kimi kubwiǯa 
+ashes: kwinua | kwinua	werona 
+ashes: werona | kwinua	werona 
+back: migi- 
+back: migi-nya 
+bad: mbriki 
+bad: yoiye 
+bark: tarawa(ra) | tarawa	tarawara 
+belly: mu-ne | mu-ne	mura 
+belly: mura | mu-ne	mura 
+big: namba | namba	nambaiyo	nambaiyu 
+big: nambaiyo | namba	nambaiyo	nambaiyu 
+big: nambaiyu | namba	nambaiyo	nambaiyu 
+bird: nakai 
+bite: -gotu- 
+black: gaminangga | gaminaŋga	ngemenanga	ŋemamunaŋa 
+black: gaminaŋga | gaminaŋga	ngemenanga	ŋemamunaŋa 
+black: ŋemamunaŋa | gaminaŋga	ngemenanga	ŋemamunaŋa 
+black: ngemenanga | gaminaŋga	ngemenanga	ŋemamunaŋa 
+blood: mamia | mamia	mamia- 
+blood: mamia- | mamia	mamia- 
+bone: yami- | yami	yami-	yamia 
+bone: yamia | yami	yami-	yamia 
+boy: movo 
+breast: ami | ami	ami-	ami-ne	amine 
+breast: ami- | ami	ami-	ami-ne	amine 
+breast: ami-ne | ami	ami-	ami-ne	amine 
+brother: aiane 
+brother: aya- 
+burn: kia 
+burn: tai 
+cassowary: oroina 
+child: move-ne 
+child: movori 
+chin: magi- 
+claw: kogo(ra) | kogo	kogora 
+cloud: tumi 
+cold: dandarangai | dandarangai	ndandaranga- 
+cold: dandaran.gai | dandarangai	ndandaranga- 
+cold: ndandaranga- | dandarangai	ndandaranga- 
+come: a- | a	a-	an-o	ano	pa- 
+come: an-o | a	a-	an-o	ano	pa- 
+come: pa- | a	a-	an-o	ano	pa- 
+cut: bi- 
+cut: bi-u 
+day: ivunai 
+day: prota(ng)go 
+day: prota(ŋ)go 
+die: pri- | pri	pri- 
+dog: mavi 
+drink: na- | na	na-	nogo nyu 
+drink: nogo nyu | na	na-	nogo nyu 
+dry: kagarari 
+ear: ka- | ka	ka-	ka-ne	kane 
+ear: ka-ne | ka	ka-	ka-ne	kane 
+earth: mikai 
+eat: n- | n-	na-	nyu 
+eat: na- | n-	na-	nyu 
+eat: n-ai | n-	na-	nyu 
+eat: nyu | n-	na-	nyu 
+egg: mura | mura	tumuraŋgo 
+egg: tumuranggo | mura	tumuraŋgo 
+egg: tumuraŋgo | mura	tumuraŋgo 
+elbow: (ya-) poma 
+emu: kembo 
+emu: orina 
+emu: oroina 
+eye: vei-ne | vei-ne	veine	vi-ne	vine	wi- 
+eye: vi-ne | vei-ne	veine	vi-ne	vine	wi- 
+eye: wi- (eza) | vei-ne	veine	vi-ne	vine	wi- 
+face: wena komuna 
+face: wena kómuna 
+fall: timi- 
+father: nomoa 
+father: -omo-wo 
+fat (n.): kagai wami 
+fat (n.): kagaya- 
+fear: kori kuru 
+fear: kori (kurú) 
+feather: yogo(ra) | yogo	yogora 
+finger: moyo(wo) 
+fire: tuva 
+fish: bure | bure	mbure	mburembare 
+fish: mbure(mbare) | bure	mbure	mburembare 
+flower: ijoguwa 
+flower: iǯoguwa 
+fly (n.): debenya 
+fly (v.): agara- 
+foot: giana | giana	kia- 
+foot: kia- | giana	kia- 
+forehead: puga- 
+fruit: ijoja 
+fruit: iǯoǯa 
+full: vaitai 
+girl: erikevi 
+girl: orukevi 
+girl: orukevi kenggwa 
+give: emi | -imi	emi 
+give: -imi | -imi	emi 
+give: kakumu | -imi	emi 
+good: mogeri | mogeri	mogori 
+good: mogori | mogeri	mogori 
+green: ndengendengru 
+guts: mune 
+hair: yogo | yogo	yogo-ia	yogura 
+hair: yogo-ia | yogo	yogo-ia	yogura 
+hair: yogura | yogo	yogo-ia	yogura 
+hand: ya- | ya	ya-	ya-ne	yane 
+hand: yane | ya	ya-	ya-ne	yane 
+hand: ya-ne | ya	ya-	ya-ne	yane 
+head: koi- | koi-	koi-ne	koina 
+head: koina | koi-	koi-ne	koina 
+head: koi-ne | koi-	koi-ne	koina 
+hear: -egeri | -egeri	egeri	kru	kuru 
+hear: kru | -egeri	egeri	kru	kuru 
+hear: kuru | -egeri	egeri	kru	kuru 
+hear: kurú | -egeri	egeri	kru	kuru 
+heart: kwia- ganua 
+heavy: kanuara- 
+here: nikera 
+here: pama 
+he/she: -a 
+he/she: -(a)i 
+he/she: -na 
+he/she: ø- 
+he/she: -wa 
+he/she: ya 
+he/she: -ya 
+he/she: yai 
+he/she: ya(i) 
+hit: mbrinua 
+hit: tuvi- 
+house: nom 
+house: nomu 
+husband: kamu-ne 
+I: n- | n	na 
+I: na | n	na 
+I: -ne | n	na 
+I: -u | n	na 
+kill: mbrene pri- 
+knee: kolma- | kolma	kolma- 
+know: kiri | kiri	kuru 
+know: kuru | kiri	kuru 
+know: na kurú | kiri	kuru 
+laugh: kwiga 
+leaf: kuruma | kuruma	yogo 
+leaf: yogo | kuruma	yogo 
+leg: kia- 
+leg: kia-ne 
+lie: mina | mirina 
+lie: mirina 
+lie: viki- | mirina 
+liver: kavu gra | kavu gra	mu-ne	mune 
+liver: mu-ne | kavu gra	mu-ne	mune 
+live: wominyu 
+long: kabeo | kabeo	kavaia	kavaya	vanevane 
+long: kavaia | kabeo	kavaia	kavaya	vanevane 
+long: kavaya | kabeo	kavaia	kavaya	vanevane 
+long: vanevane | kabeo	kavaia	kavaya	vanevane 
+louse: tinima | tinima	tinime 
+louse: tinime | tinima	tinime 
+louse: tínime | tinima	tinime 
+man: vana | vei	vombia 
+man: vei | vei	vombia 
+man: vombia | vei	vombia 
+many: aragai | aragai	mbombrene 
+many: mbombrene | aragai	mbombrene 
+meat: misa | mitsa 
+meat: mitsa 
+moon: kotsi | kotsi	kozi 
+moon: kozi | kotsi	kozi 
+morning: mim kurari 
+mother: -iowo 
+mountain: kikova | kikova	omenakara	omona 
+mountain: omenakara | kikova	omenakara	omona 
+mountain: omenákara | kikova	omenakara	omona 
+mountain: omona | kikova	omenakara	omona 
+mouth: apa-na | apa-na	apo- kanowa	apo-ne 
+mouth: apo- kanowa | apa-na	apo- kanowa	apo-ne 
+mouth: apo-ne | apa-na	apo- kanowa	apo-ne 
+name: kuri- | kuri	kuri-	kuri-a	kuria	kuria-ne 
+name: kuri-a | kuri	kuri-	kuri-a	kuria	kuria-ne 
+name: kuria-ne | kuri	kuri-	kuri-a	kuria	kuria-ne 
+neck: nisa 
+new: wuo 
+night: nonggwa imbari | noNgwa imbari	nonggwa imbari	noŋgwa imbari	nungwai namba 
+night: noŋgwa imbari | noNgwa imbari	nonggwa imbari	noŋgwa imbari	nungwai namba 
+night: nungwai namba | noNgwa imbari	nonggwa imbari	noŋgwa imbari	nungwai namba 
+night: po konokravi | noNgwa imbari	nonggwa imbari	noŋgwa imbari	nungwai namba 
+night: po kono-kravi | noNgwa imbari	nonggwa imbari	noŋgwa imbari	nungwai namba 
+nose: komu | komu	komu-ne	kumo- 
+not: oːha | omoy 
+not: omoy 
+not: omoy ame 
+old: (ana) kindari 
+old: kaiza 
+old: kindari 
+old: (vei) kindari 
+one: karama | karama	karami	ma	mapro	mápro 
+one: karami | karama	karami	ma	mapro	mápro 
+one: ma(pro) | karama	karami	ma	mapro	mápro 
+rain: koti | koti	kotsi 
+rain: kotsi | koti	kotsi 
+rat: mito 
+rat: mitsi 
+red: goro | goro	kana	ŋorona 
+red: kana | goro	kana	ŋorona 
+red: ŋorona | goro	kana	ŋorona 
+road: kanua 
+road: kánua | kanua 
+root: arua | arua	tovaya 
+root: tovaya | arua	tovaya 
+rope: muke 
+rope: nara 
+round: boma 
+sand: visu 
+say: eri | -tono -imi	eri 
+say: ti- | -tono -imi	eri 
+say: -tono -imi | -tono -imi	eri 
+seed: isa 
+see: kwa | kwa	kwa-	kw~a	uga 
+see: kwa- | kwa	kwa-	kw~a	uga 
+see: -uga- | kwa	kwa-	kw~a	uga 
+short: tumakeme 
+shoulder: bokia- 
+sister: apo- 
+sister: nidyawo 
+sister: niǯawo 
+sit: tobuyu | tobuyu	tuv- 
+sit: tuv- | tobuyu	tuv- 
+skin: tarava- | tarava	tarava-	tarawa 
+skin: tarawa | tarava	tarava-	tarawa 
+sleep: viki(ngwa) | viki	vikingwa 
+small: kenggua | kengua	keŋgua	keŋua 
+small: keŋgua | kengua	keŋgua	keŋua 
+small: kengua | kengua	keŋgua	keŋua 
+small: keŋua | kengua	keŋgua	keŋua 
+smoke: ikuwe | ikuwe	mura 
+smoke: íkuwe | ikuwe	mura 
+smoke: mura | ikuwe	mura 
+snake: tomoi 
+spit: kogoma- 
+stand: oro 
+stand: orowiyu 
+star: mbei | mbei	yoroi	yorori 
+star: yoroi | mbei	yoroi	yorori 
+star: yorori | mbei	yoroi	yorori 
+stone: owo 
+sun: po 
+swim: kuruma karawi- 
+tail: ayawa 
+that: neǯa | neǯa	ni	niza 
+that: ni(za) | neǯa	ni	niza 
+there: nikera 
+they: -a 
+they: in- 
+they: -(n)di 
+they: -ri 
+they: -ti 
+they: tini(ng)- 
+they two: -ar 
+they two: ya(i) oroi 
+they two: ya oroi 
+they: ya 
+they: yai 
+they: ya(i) 
+this: ni 
+thou: -an | en	k	ka 
+thou: k- | en	k	ka 
+thou: ka | en	k	ka 
+thou: -ka | en	k	ka 
+thou: -(ng)ga | en	k	ka 
+thou: ta | en	k	ka 
+three: kineisa 
+three: orogomago 
+throat: niza-ne 
+today: iviva 
+tomorrow: migizango 
+tomorrow: negiǯango 
+tongue: navu- | navu	navu-	navune 
+tongue: navune | navu	navu-	navune 
+tooth: va(iza) | va	vaiza	waneya	waneǯa 
+tooth: waneja | va	vaiza	waneya	waneǯa 
+tooth: waneǯa | va	vaiza	waneya	waneǯa 
+tree: ija | iya	iyo 
+tree: ijo | iya	iyo 
+tree: izo | iya	iyo 
+tree: iǯa | iya	iyo 
+tree: iǯo | iya	iyo 
+two: karamakigiye | karamakigiye	ogondrari	ori	oroi	orori 
+two: ogondrari | karamakigiye	ogondrari	ori	oroi	orori 
+two: (or)ori | karamakigiye	ogondrari	ori	oroi	orori 
+walk: puguti- | vi- 
+walk: vi- 
+walk: vo | vi- 
+walk: vo! | vi- 
+walk: wana-i | vi- 
+wallaby: panandi 
+warm: tonone 
+water: nogoi 
+weep: wenya nogai 
+weep: yüvina 
+weep: yɨvina 
+we: -(n)de | t	tari 
+we: -re | t	tari 
+we: t- | t	tari 
+we: tari | t	tari 
+we: ta(ri) | t	tari 
+we: -te | t	tari 
+wet: nogayaʔi 
+we two (incl.): ta(ri) oroi 
+we two (incl.): tari oroi 
+we two: -ur 
+we: -un | t	tari 
+what: nanani | nanani	nanawima 
+what: nanawima | nanani	nanawima 
+when: namuru(konowa) 
+where: nerea 
+where: nere(kura) 
+white: kruwa | kruwa	kurua 
+white: kurua | kruwa	kurua 
+white: kuruwa | kruwa	kurua 
+who: koi | koi	kowe 
+who: kowe | koi	kowe 
+wife: kaunu-ne 
+wind: gomurai | gomurai	ngomorai 
+wind: gómurai | gomurai	ngomorai 
+wind: ngomorai | gomurai	ngomorai 
+wing: kogiena 
+woman: ana | ana	anambia 
+woman: anambia | ana	anambia 
+wood: muturu 
+wood: warange 
+yellow: kwitava 
+yes: oʔo 
+yesterday: noŋguare 
+yesterday: nonogoi 
+yesterday: nuŋgwayari 
+you: -a | en	k	ka 
+you: -(n)di | en	k	ka 
+you: -ri | en	k	ka 
+you: ta | en	k	ka 
+you: -ti | en	k	ka 
+you: tin- | en	k	ka 
+you: tini(ng)- | en	k	ka 
+you two: -ar 
+you two: ka oroi 
+you two: ta(ri)oroi 
+every: pragi 
+ash: kwinua	werona 
+abdomen: mu-ne	mura 
+bigness: namba	nambaiyo	nambaiyu 
+large: namba	nambaiyo	nambaiyu 
+breasts: ami	ami-	ami-ne	amine 
+nail: kogo	kogora 
+talon: kogo	kogora 
+come from: a	a-	an-o	ano	pa- 
+be dead: pri	pri- 
+dead: pri	pri- 
+ground: mikai 
+land: mikai 
+soil: mikai 
+fly: agara- 
+fly v.: agara- 
+left hand: ya	ya-	ya-ne	yane 
+right: ya	ya-	ya-ne	yane 
+1 sg.: n	na 
+be knowledgeable: kiri	kuru 
+lie down: mirina 
+head louse: tinima	tinime 
+male: vei	vombia 
+much: aragai	mbombrene 
+multiple: aragai	mbombrene 
+several: aragai	mbombrene 
+flesh: mitsa 
+hill: kikova	omenakara	omona 
+title: kuri	kuri-	kuri-a	kuria	kuria-ne 
+nighttime: noNgwa imbari	nonggwa imbari	noŋgwa imbari	nungwai namba 
+adulterous: karama	karami	ma	mapro	mápro 
+single: karama	karami	ma	mapro	mápro 
+the: karama	karami	ma	mapro	mápro 
+unprincipled: karama	karami	ma	mapro	mápro 
+rainy weather: koti	kotsi 
+path: kanua 
+route: kanua 
+hide: tarava	tarava-	tarawa 
+little: kengua	keŋgua	keŋua 
+smallness: kengua	keŋgua	keŋua 
+rock: owo 
+2 sg: en	k	ka 
+grind: karamakigiye	ogondrari	ori	oroi	orori 
+go: vi- 
+1 pl. inc.: t	tari 
+we₁: t	tari 
+whiteness: kruwa	kurua 
+who?: koi	kowe 
+female: ana	anambia 
+dull: kanuara- 
+serious: kanuara- 

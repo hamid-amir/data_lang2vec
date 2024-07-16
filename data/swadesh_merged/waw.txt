@@ -1,0 +1,293 @@
+all: ahnoro 
+every: ahnoro 
+ash: wemronho	wermonho 
+ashes: wemronho	wermonho 
+bark: weewe Φičho 
+big: Φorin	Φorinme 
+bigness: Φorin	Φorinme 
+large: Φorin	Φorinme 
+bird: torowo 
+bite: eska-kɨ 
+black: či-čwi-ye 
+blood: kamSuku	kamšuku 
+bone: o-yočho-∅	yoCho 
+breast: manat3	∅-manatɨ-rɨ 
+breasts: manat3	∅-manatɨ-rɨ 
+claw: ∅-amo-šošo-n 
+nail: ∅-amo-šošo-n 
+talon: ∅-amo-šošo-n 
+cloud: kaaΦu smun 
+cold: t-wot-me 
+come: k-mok-∅	mok	moku 
+come from: k-mok-∅	mok	moku 
+be dead: t-wayh-so	waih	wayh 
+dead: t-wayh-so	waih	wayh 
+die: t-wayh-so	waih	wayh 
+dog: Sapari	cawari	šaΦari 
+drink: er3	erɨ-hra	wer3 
+dry: turΦe 
+ear: o-Φana-rɨ	pana 
+earth: roowo 
+ground: roowo 
+land: roowo 
+soil: roowo 
+eat: aΦu-hra	tono-hra 
+egg: yuhme 
+eye: ew	oy-ew-ru 
+feather: yɨ-hΦo-či 
+fire: wehto 
+fish: ootɨ	ot	ot3 
+fly: ari-m-ra 
+fly v.: ari-m-ra 
+foot: o-hta-rɨ 
+full: čoΦoyi 
+give: tɨm-ko 
+good: kir̃waɲhe 
+green: tu-škukuyu-re 
+hair: o-hΦo-či 
+hand: amo	oy-amo-rɨ 
+left hand: amo	oy-amo-rɨ 
+right: amo	oy-amo-rɨ 
+head: o-htɨΦɨ-rɨ 
+hear: 5ent~a	enta	w-enta-∅ 
+heart: čoro 
+horn: wasuru	∅-meretɨ-rɨ 
+1 sg.: ow3	owi	owɨ 
+I: ow3	owi	owɨ 
+kill: ∅-wayh-ka-kɨ 
+knee: msokomu	oy-osokm-ru 
+be knowledgeable: w-eeɲa-sɨ 
+know: w-eeɲa-sɨ 
+leaf: ya	yar3	∅-yaa-rɨ 
+lie: etɨ-raΦo-ko 
+lie down: etɨ-raΦo-ko 
+liver: ere	oy-ere-rɨ 
+long: ehyatkaw	kaw 
+head louse: oyomo 
+louse: oyomo 
+male: kɨɨrɨ 
+man: tooto	toto 
+many: mer̃Φora 
+much: mer̃Φora 
+multiple: mer̃Φora 
+several: mer̃Φora 
+flesh: yu-Φu-n 
+meat: yu-Φu-n 
+moon: nuuɲi 
+hill: 3pi*	matɨwɨ-n	ɨɨΦɨ 
+mountain: 3pi*	matɨwɨ-n	ɨɨΦɨ 
+mouth: o-mta-rɨ 
+name: osot3	oy-osotɨ 
+title: osot3	oy-osotɨ 
+neck: o-Φɨmɨ-rɨ 
+new: yaSan	yašan 
+night: kosope 
+nighttime: kosope 
+nose: ewna	owna	oy-ewna-rɨ 
+adulterous: Cew5e	tioni 
+one: Cew5e	tioni 
+single: Cew5e	tioni 
+that: Cew5e	tioni 
+the: Cew5e	tioni 
+unprincipled: Cew5e	tioni 
+human: tooto	toto 
+human being: tooto	toto 
+person: tooto	toto 
+rain: tuuna 
+rainy weather: tuuna 
+red: ču-ču-re 
+path: esama 
+road: esama 
+route: esama 
+root: yi-miči-n 
+round: t-amno-ɲe 
+sand: ašawa 
+say: kas-ko 
+see: en3	enɨ-hra 
+seed: yathɨrɨ 
+sit: erema-kɨ 
+hide: hC3p3	o-hčɨΦɨ-rɨ	p3p3t3	piCho	Φičho 
+skin: hC3p3	o-hčɨΦɨ-rɨ	p3p3t3	piCho	Φičho 
+sleep: yɨ-wɨnkɨ-ra 
+little: wahra	wahray 
+small: wahra	wahray 
+smallness: wahra	wahray 
+smoke: yɨ-sɨn 
+star: Sirko	sereko	šir̃ko 
+rock: tooΦu	top	topu 
+stone: tooΦu	top	topu 
+sun: kaamo	kam3 
+swim: Φere-na-sɨ 
+tail: ∅-matkɨ-rɨ 
+2 sg: amoro 
+thou: amoro 
+you: amoro 
+tongue: 5u	5uru	∅-ɲu-ru 
+tooth: o-yo-rɨ	yo	yor3 
+tree: wewe 
+grind: asak3	asaki 
+two: asak3	asaki 
+go: etar̃-ko 
+walk: etar̃-ko 
+water: tuna	tuuna 
+1 pl. inc.: amna	k3w3	k3wyam	kɨwyam	kɨɨwɨ 
+we: amna	k3w3	k3wyam	kɨwyam	kɨɨwɨ 
+we₁: amna	k3w3	k3wyam	kɨwyam	kɨɨwɨ 
+what: ahče 
+white: tu-mut-we 
+whiteness: tu-mut-we 
+who: onoke 
+who?: onoke 
+female: woošam 
+woman: woošam 
+yellow: tɨ-šewe-ke 
+distant: meye	mooše 
+far: meye	mooše 
+dull: n-awsɨ-na-sɨ 
+heavy: n-awsɨ-na-sɨ 
+serious: n-awsɨ-na-sɨ 
+close: meye-hra 
+near: meye-hra 
+ner: meye-hra 
+salt: yɨmɨtɨ 
+short: kaw-ra 
+snake: okoyi 
+thin: pana-pe 
+wind: očowo 
+earthworm: kar̃wa 
+worm: kar̃wa 
+year: čimɲiΦu 
+2 pl.: amyamro 
+ye: amyamro 
+you all: amyamro 
+3 pl.: mošam	ɲešamro 
+they: mošam	ɲešamro 
+where: ahto 
+where?: ahto 
+when: ahče-maw 
+when?: ahče-maw 
+how: ahče wa 
+how?: ahče wa 
+few: asakɨ makɨ 
+three: soroau 
+broad: t-amta-ke 
+wide: t-amta-ke 
+wideness: t-amta-ke 
+fat: katɨ 
+thick: yahčo-me 
+narrow: akwe-ra 
+child: rikomo 
+principal wife: yi-Φi-či 
+wife: yi-Φi-či 
+husband: aa-ɲo 
+his mother: noro yon	yɨ-son 
+mother: noro yon	yɨ-son 
+my mother: noro yon	yɨ-son 
+father: aa-mo	yɨɨm 
+his father: aa-mo	yɨɨm 
+my father: aa-mo	yɨɨm 
+animal: o-yoku-∅ 
+forest: čomota 
+woods: čomota 
+branch: ∅-Φerem-ru 
+stick: ∅-Φerem-ru 
+fruit: o-nah-rɨ 
+flower: ∅-eΦermutu-n 
+grass: čuuΦu 
+cord: ruuΦu 
+rope: ruuΦu 
+grease: katɨ 
+fingernail: oy-amo-šošo-n 
+wing: ∅-aΦo-rɨ 
+gut: ∅-weškiriri-n 
+guts: ∅-weškiriri-n 
+insides: ∅-weškiriri-n 
+intestine: ∅-weškiriri-n 
+intestines: ∅-weškiriri-n 
+back: ∅-maši-rɨ 
+spit: kučΦi kasko 
+vomit: wenarɨ 
+blow: Φuu kas-ko 
+breath: oy-aΦeΦe-n 
+breathe: oy-aΦeΦe-n 
+laugh: ewre-ra 
+laughter: ewre-ra 
+alive: wayΦɨ-ra 
+be alive: wayΦɨ-ra 
+life: wayΦɨ-ra 
+live: wayΦɨ-ra 
+living: wayΦɨ-ra 
+fight: et-ar̃ma-ra 
+hunt: k-es-etak-e-sɨ 
+beat: w-etaΦa-∅ 
+hit: w-etaΦa-∅ 
+strike: w-etaΦa-∅ 
+cut: wɨ-hkoto-∅ 
+hack: wɨ-hkoto-∅ 
+cut open: wɨ-raka-∅ 
+split: wɨ-raka-∅ 
+pierce: ∅-Φaraška-∅ 
+stab: ∅-Φaraška-∅ 
+dig: ahto-ko 
+tell lies: ∅-čemaro-n-wa-∅ 
+stand: Φiiri awom-ko 
+turn: aknama-kɨ 
+turn around: aknama-kɨ 
+turn round: aknama-kɨ 
+drop: eΦɨrka-ra 
+fall: eΦɨrka-ra 
+squeeze: w-atmunk-o 
+wring: w-atmunk-o 
+rub: seke-seke kas-ko 
+wipe: seke-seke kas-ko 
+wash: ∅-koroka-∅ 
+wash clothes: ∅-koroka-∅ 
+push: maška-kɨ 
+shove: maška-kɨ 
+throw: ar̃ma-kɨ 
+bind: wi-mi-u 
+fasten: wi-mi-u 
+tie: wi-mi-u 
+tie up: wi-mi-u 
+sew: atΦo-ra 
+count: yu-kukno-ma-kɨ 
+enumerate: yu-kukno-ma-kɨ 
+number: yu-kukno-ma-kɨ 
+tally: yu-kukno-ma-kɨ 
+sing: e-wano-ma-kɨ 
+have fun: es-emaɲiΦɨ-ra 
+play: es-emaɲiΦɨ-ra 
+float: Φuru-Φuru-Φe nasɨ 
+flow: nɨ-hč-e-sɨ 
+brook: eeΦu	tuuna yeΦu 
+river: eeΦu	tuuna yeΦu 
+stream: eeΦu	tuuna yeΦu 
+lake: ɲikitho 
+ocean: tuuna ymo 
+sea: tuuna ymo 
+fog: kaweresɨ 
+sky: kaaΦu 
+blaze: ečakɨ-ra 
+burn: ečakɨ-ra 
+day: enmarɨ 
+daylight: enmarɨ 
+daytime: enmarɨ 
+bad: kičičme 
+evil: kičičme 
+rot: t-mata-ši 
+rotten: t-mata-ši 
+dirty: tu-smu-y 
+filthy: tu-smu-y 
+soiled: tu-smu-y 
+straight: pataw	čeče-pe 
+sharp: t-Φot-ke 
+smooth: t-memese 
+damp: tukre 
+wet: tukre 
+correct: t-akɨh-so 
+right side: kar̃me 
+left: Φowame 
+in: ero yaw 
+inside: ero yaw 
+and: marha 
+if: tan aw-eši-taw 

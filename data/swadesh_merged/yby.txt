@@ -1,0 +1,326 @@
+all: muki | muki	vavuleko 
+all: vavuleko | muki	vavuleko 
+arm: hopa ohorovate 
+arm: ohovate 
+arrow: ile 
+ashes: lada 
+back: emesa(la) 
+bad: nosami 
+bad: nosa(mibo) 
+bark: esuva 
+belly: morute | morute	ohuma	ohumala 
+belly: ohuma(la) | morute	ohuma	ohumala 
+big: napa 
+bird: nama 
+bite: koh(iye) | koh	kohiye	ud	udaze 
+bite: ud(aze) | koh	kohiye	ud	udaze 
+black: lubuha | lubuha	lubuhanesa 
+black: lubuhanesa | lubuha	lubuhanesa 
+black: lubuhánesa | lubuha	lubuhanesa 
+blood: olada(la) | olada	oladala	orada 
+blood: orada | olada	oladala	orada 
+blood: órada | olada	oladala	orada 
+bone: abuha(la) | abuha	abuhala	abuhavate 
+bone: abuhavate | abuha	abuhala	abuhavate 
+bone: abuhávate | abuha	abuhala	abuhavate 
+boy: ipa 
+boy: orumo rasorasi 
+breast: amida(la) | amida	amidala	amidate 
+breast: amidate | amida	amidala	amidate 
+brother: unane 
+brother: ya(la) 
+brother: yane 
+burn: l(iye) 
+cassowary: oroda 
+chest: ohu\mate 
+chest: ohuʔmate 
+child: aida 
+chin: imila 
+claw: ova 
+cloud: limu | limu	rimuʔ 
+cloud: rimuʔ | limu	rimuʔ 
+cloud: simu\ | limu	rimuʔ 
+cold: eha | eha	lasi 
+cold: lasi | eha	lasi 
+come: ano | ano	nis	nisiye 
+come: nis(iye) | ano	nis	nisiye 
+day: ludaka 
+die: hel(iye) | hel	heliye 
+die: herekai | hel	heliye 
+dog: ula | ula	ura 
+dog: ura | ula	ura 
+drink: (no)n(aiye) | nonaiye	nozo numa no 
+drink: nozo numa no | nonaiye	nozo numa no 
+dry: opati(bo) | opati	opatibo 
+ear: ata(la) | ata	atala	lata 
+ear: lata | ata	atala	lata 
+earth: mika 
+eat: n(aiye) | n	naiye	woko no 
+eat: woko no | n	naiye	woko no 
+egg: omuda(la) | omuda	omudala 
+elbow: (ade) bo(la) 
+emu: oloda 
+emu: oroda 
+eye: lomuda | lomuda	omuda	omudala 
+eye: omuda(la) | lomuda	omuda	omudala 
+fall: lemo ǯ(iye) 
+father: aho(la) 
+father: ahone 
+fat (n.): auva(la) 
+fat (n.): ava(lava) 
+fat (n.): avora 
+feather: yopa(la) | yopa	yopala 
+finger: olopa(va) 
+finger: umava 
+fire: dzo\ | Zo	co7	dzoʔ	ǯo 
+fire: dzoʔ | Zo	co7	dzoʔ	ǯo 
+fire: ǯo | Zo	co7	dzoʔ	ǯo 
+fish: lahava 
+fly (v.): ololoko v(iye) 
+foot: i(la) | i	ila	lite 
+foot: lite | i	ila	lite 
+forehead: etipate 
+forehead: otipa(la) 
+forest: yauka 
+full: vaito(ne) | vaito	vaitone 
+girl: olu 
+girl: o\rudasora 
+girl: oʔrudasora 
+give: (ni)m(iye) | nimiye 
+good: dotalibo | dotalibo	dovaloko	dzanisasa 
+good: dovaloko | dotalibo	dovaloko	dzanisasa 
+good: dzanisasa | dotalibo	dovaloko	dzanisasa 
+green: makililivago | makililivago	ohugo 
+green: ohugo | makililivago	ohugo 
+hair: yopa(la) | yopa	yopala	yopate 
+hair: yopate | yopa	yopala	yopate 
+hair: yopáte | yopa	yopala	yopate 
+hand: ade(la) | ade	adela	lade 
+hand: lade | ade	adela	lade 
+head: latate | latate	mado	madona 
+head: mado(na) | latate	mado	madona 
+hear: el(iye) | el	eliye	ereminoe 
+hear: ereminoe | el	eliye	ereminoe 
+heart: oboha(la) | oboha	obohala 
+heavy: eda 
+he/she: emo 
+he/she: e(mo) 
+hit: koh(aiye) 
+horn: sipiya 
+house: numuda 
+I: nemo | ne	nemo	u 
+I: ne(mo) | ne	nemo	u 
+I: -u | ne	nemo	u 
+kill: ko(ha heliye) | ko	koha heliye 
+knee: ibo(la) | ibo	ibola	ribura 
+knee: ribura | ibo	ibola	ribura 
+know: ele(na) | ele	elena 
+laugh: iya (iye) 
+laugh: iǯa (iye) 
+leaf: aila | aila	ya ira 
+leaf: ya ira | aila	ya ira 
+leg: i(la) 
+leg: rimidavate 
+lie: ud(aiye) 
+lip: lepate 
+liver: sili(na) | sili	silina 
+long: hana 
+louse: nama 
+man: ve | vevena	weina 
+many: muki | muki	wawuleko 
+many: wawuleko | muki	wawuleko 
+meat: mida(va) 
+meat: ǯa 
+moon: ukada 
+morning: nekeva 
+mother: do(la) 
+mother: done 
+mountain: bola | bola	veufa 
+mountain: veufa | bola	veufa 
+mountain: véufa | bola	veufa 
+mouth: epa(la) | epa	epala	leparura 
+mouth: leparura | epa	epala	leparura 
+name: ri | ri	uli	uliva 
+name: uli(va) | ri	uli	uliva 
+neck: eno(la) | eno	enola	ninumate 
+neck: ninumate | eno	enola	ninumate 
+new: ohatama 
+night: lubuka 
+nose: lokepa | lokepa	okepa	okepala 
+not: -am 
+not: minam(iye) | -am 
+not: oʔe | -am 
+not: savaye | -am 
+old: asihava 
+old: (mena) iloho 
+old: (ve) hamola 
+old: (ve) iloho 
+one: mako(ko) | mako	makoko 
+person: vevena | vevena	weina 
+person: weina | vevena	weina 
+rain: go | go	goː	o 
+rain: go: | go	goː	o 
+rain: goː | go	goː	o 
+rain: o | go	goː	o 
+rat: ukela 
+red: laho | laho	rahonesa 
+red: rahonesa | laho	rahonesa 
+red: rahónesa | laho	rahonesa 
+road: anu 
+root: luhava 
+rope: maunda 
+round: lubola 
+sand: ake 
+say: garukaji | l	liye 
+say: garukaǯi | l	liye 
+say: l(iye) | l	liye 
+seed: (ya) ihila | ihila	yuha 
+seed: yuha | ihila	yuha 
+see: mud(aiye) | mud	mudaiye	mudaminoe 
+see: mudaminoe | mud	mudaiye	mudaminoe 
+short: minava | minava	minavasi 
+short: minavasi | minava	minavasi 
+shoulder: atanate 
+shoulder: atánate 
+shoulder: ele(la) 
+sing: namaretiye 
+sister: ato(la) 
+sister: orune 
+sit: (mikalo n)ø(e) | mikalo nøe	minenaŋgore 
+sit: minenaŋgore | mikalo nøe	minenaŋgore 
+skin: upa(la) | upa	upala 
+sky: okuruma 
+sleep: ud(aiye) | ud	udaiye 
+small: lasola | lasola	sainilasora 
+small: sainilasora | lasola	sainilasora 
+smoke: (ǯo)kila | kila	ǯokila 
+snake: oleteha 
+spit: otu (iye) 
+stand: cinone 
+stand: činone 
+stand: sin(aiye) 
+star: sonohi 
+stick: amuda 
+stone: ehada | ehada	ihata 
+stone: ihata | ehada	ihata 
+sun: ho | ho	hoː 
+sun: ho: | ho	hoː 
+sun: hoː | ho	hoː 
+swim: asoda (ǯiye) 
+tail: aisa(va) | aisa	aisava 
+take: erekuwo 
+take: ukerenoe 
+that: tobaiyane | tobaiyane	yola	yolaya 
+that: yola(ya) | tobaiyane	yola	yolaya 
+they: -a 
+they: edimo 
+they: edi(mo) 
+they two: -ai 
+they two: edi(mo) love 
+they two: rove 
+thigh: uhate 
+this: ma(ya) | ma	maya 
+thou: -an | e	edimo	emo	ge	gemo 
+thou: edi(mo) | e	edimo	emo	ge	gemo 
+thou: e(mo) | e	edimo	emo	ge	gemo 
+thou: gemo | e	edimo	emo	ge	gemo 
+thou: ge(mo) | e	edimo	emo	ge	gemo 
+thou: lerimo | e	edimo	emo	ge	gemo 
+three: loveki makoki 
+throat: enote 
+tomorrow: aiyo 
+tongue: reporuma | reporuma	uluma 
+tongue: uluma | reporuma	uluma 
+tooth: elava | elava	rodavate 
+tooth: rodavate | elava	rodavate 
+tooth: rodávate | elava	rodavate 
+tree: ya 
+two: love 
+walk: lolosa (ǯiye) | mon	moniye 
+walk: mon(iye) | mon	moniye 
+walk: wo | mon	moniye 
+wallaby: oponi 
+warm: mumusi 
+water: no 
+weep: vijemanamoro 
+weep: viǯemanamoro 
+we: lemo | lemo	un 
+we: le(mo) | lemo	un 
+wet: eha (ǯene) 
+we two (incl.): lemo 
+we two (incl.): le(mo) love 
+we two: -u 
+we: -un | lemo	un 
+what: nena(ye) | nena	nenaye 
+when: nena hekoi 
+when: nena yupe(mae) 
+where: nakaha(lokae) 
+white: iyopa | iyopa	ukulo 
+white: ukulo | iyopa	ukulo 
+who: eka(himae) | eka	ekahimae 
+wind: lasi | lasi	sasi	yasi 
+wind: sasi | lasi	sasi	yasi 
+wind: yasi | lasi	sasi	yasi 
+wing: lasi 
+wing: okana(va) 
+woman: mena 
+wood: oiǯo 
+yellow: sihuka 
+yes: oː 
+yesterday: aiyo 
+you: -a | e	edimo	emo	ge	gemo 
+you two: -ai 
+you two: edi(mo) love 
+you two: lemote 
+every: muki	vavuleko 
+ash: lada 
+abdomen: morute	ohuma	ohumala 
+bigness: napa 
+large: napa 
+breasts: amida	amidala	amidate 
+nail: ova 
+talon: ova 
+come from: ano	nis	nisiye 
+be dead: hel	heliye 
+dead: hel	heliye 
+ground: mika 
+land: mika 
+soil: mika 
+fly: ololoko v	ololoko viye 
+fly v.: ololoko v	ololoko viye 
+left hand: ade	adela	lade 
+right: ade	adela	lade 
+1 sg.: ne	nemo	u 
+be knowledgeable: ele	elena 
+head louse: nama 
+male: ve 
+much: muki	wawuleko 
+multiple: muki	wawuleko 
+several: muki	wawuleko 
+hill: bola	veufa 
+title: ri	uli	uliva 
+nighttime: lubuka 
+adulterous: mako	makoko 
+single: mako	makoko 
+the: mako	makoko 
+unprincipled: mako	makoko 
+human: vevena	weina 
+human being: vevena	weina 
+rainy weather: go	goː	o 
+path: anu 
+route: anu 
+hide: upa	upala 
+little: lasola	sainilasora 
+smallness: lasola	sainilasora 
+rock: ehada	ihata 
+swim: asoda 
+2 sg: e	edimo	emo	ge	gemo 
+grind: love 
+go: mon	moniye 
+1 pl. inc.: lemo	un 
+we₁: lemo	un 
+whiteness: iyopa	ukulo 
+who?: eka	ekahimae 
+female: mena 
+dull: eda 
+serious: eda 

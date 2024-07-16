@@ -1,0 +1,339 @@
+all: all	every 
+every: all	every 
+ash: ash	ashes 
+ashes: ash	ashes 
+bark: bark 
+abdomen: abdomen	belly 
+belly: abdomen	belly 
+big: big	bigness	large 
+bigness: big	bigness	large 
+large: big	bigness	large 
+bird: bird 
+bite: bite 
+black: black 
+blood: blood 
+bone: bone 
+breast: breast	breasts 
+breasts: breast	breasts 
+burn: burn	burn tr. 
+burn tr.: burn	burn tr. 
+claw: claw	nail	talon 
+nail: claw	nail	talon 
+talon: claw	nail	talon 
+cloud: cloud 
+cold: cold 
+come: come	come from 
+come from: come	come from 
+be dead: be dead	dead	die 
+dead: be dead	dead	die 
+die: be dead	dead	die 
+dog: dog 
+drink: drink 
+dry: dry 
+ear: ear 
+earth: earth	ground	land	soil 
+ground: earth	ground	land	soil 
+land: earth	ground	land	soil 
+soil: earth	ground	land	soil 
+eat: eat 
+egg: egg 
+eye: eye 
+fat: fat	fat n.	grease	lubricant	oil 
+fat n.: fat	fat n.	grease	lubricant	oil 
+grease: fat	fat n.	grease	lubricant	oil 
+lubricant: fat	fat n.	grease	lubricant	oil 
+oil: fat	fat n.	grease	lubricant	oil 
+feather: feather 
+fire: fire 
+fish: fish 
+fly: fly	fly v. 
+fly v.: fly	fly v. 
+foot: foot 
+full: full 
+give: give 
+good: good 
+green: green 
+hair: hair 
+hand: hand	left hand	right 
+left hand: hand	left hand	right 
+right: hand	left hand	right 
+head: head 
+hear: hear 
+heart: heart 
+horn: horn 
+1 sg.: 1 sg.	I 
+I: 1 sg.	I 
+kill: kill 
+knee: knee 
+be knowledgeable: be knowledgeable	know 
+know: be knowledgeable	know 
+leaf: leaf 
+lie: lie	lie down 
+lie down: lie	lie down 
+liver: liver 
+long: long 
+head louse: head louse	louse 
+louse: head louse	louse 
+male: male	man 
+man: human	human being	man	person 
+many: many	much	multiple	several 
+much: many	much	multiple	several 
+multiple: many	much	multiple	several 
+several: many	much	multiple	several 
+flesh: flesh	meat 
+meat: flesh	meat 
+moon: moon 
+hill: hill	mountain 
+mountain: hill	mountain 
+mouth: mouth 
+name: name	title 
+title: name	title 
+neck: neck 
+new: new 
+night: night	nighttime 
+nighttime: night	nighttime 
+nose: nose 
+not: not 
+adulterous: adulterous	one	single	that	the	unprincipled 
+one: adulterous	one	single	that	the	unprincipled 
+single: adulterous	one	single	that	the	unprincipled 
+that: that 
+the: adulterous	one	single	that	the	unprincipled 
+unprincipled: adulterous	one	single	that	the	unprincipled 
+human: human	human being	man	person 
+human being: human	human being	man	person 
+person: human	human being	man	person 
+rain: rain	rainy weather 
+rainy weather: rain	rainy weather 
+red: red 
+path: path	road	route 
+road: path	road	route 
+route: path	road	route 
+root: root 
+round: round 
+sand: sand	say 
+say: say 
+see: see 
+seed: seed 
+sit: sit 
+hide: hide	skin 
+skin: hide	skin 
+sleep: sleep 
+little: little	small	smallness 
+small: little	small	smallness 
+smallness: little	small	smallness 
+smoke: smoke 
+stand: stand 
+star: star 
+rock: rock	stone 
+stone: rock	stone 
+sun: sun 
+swim: swim 
+tail: tail 
+this: this 
+2 sg: 2 sg	thou	you 
+thou: 2 sg	thou	you 
+you: 2 sg	thou	you 
+tongue: tongue 
+tooth: tooth 
+tree: tree 
+grind: grind	two 
+two: grind	two 
+go: go	walk 
+walk: go	walk 
+hot: hot	warm 
+warm: hot	warm 
+water: water 
+1 pl. inc.: 1 pl. inc.	we	we₁ 
+we: 1 pl. inc.	we	we₁ 
+we₁: 1 pl. inc.	we	we₁ 
+what: what 
+white: white	whiteness 
+whiteness: white	whiteness 
+who: who	who? 
+who?: who	who? 
+female: female	woman 
+woman: female	woman 
+yellow: yellow 
+distant: distant	far 
+far: distant	far 
+dull: dull	heavy	serious 
+heavy: dull	heavy	serious 
+serious: dull	heavy	serious 
+close: close	near	ner 
+near: close	near	ner 
+ner: close	near	ner 
+salt: salt 
+short: short 
+snake: snake 
+thin: thin 
+wind: wind 
+earthworm: earthworm	worm 
+worm: earthworm	worm 
+year: year 
+3 sg.: 3 sg.	he	she 
+he: 3 sg.	he	she 
+she: 3 sg.	he	she 
+2 pl.: 2 pl.	ye	you	you all 
+ye: 2 pl.	ye	you	you all 
+you all: 2 pl.	ye	you	you all 
+3 pl.: 3 pl.	they 
+they: 3 pl.	they 
+here: here 
+there: there 
+where: where	where? 
+where?: where	where? 
+when: when	when? 
+when?: when	when? 
+how: how	how? 
+how?: how	how? 
+some: some 
+few: few	little 
+other: other 
+three: three 
+four: four 
+five: five 
+broad: broad	wide	wideness 
+wide: broad	wide	wideness 
+wideness: broad	wide	wideness 
+thick: fat	thick 
+narrow: narrow 
+child: child 
+principal wife: principal wife	wife 
+wife: principal wife	wife 
+husband: husband 
+his mother: his mother	mother	my mother 
+mother: his mother	mother	my mother 
+my mother: his mother	mother	my mother 
+father: father	his father	my father 
+his father: father	his father	my father 
+my father: father	his father	my father 
+animal: animal 
+forest: forest	woods 
+woods: forest	woods 
+branch: branch	stick 
+stick: branch	stick 
+fruit: fruit 
+flower: flower 
+grass: grass 
+cord: cord	rope 
+rope: cord	rope 
+fingernail: claw	fingernail	nail 
+leg: leg 
+arm: arm	hand 
+wing: wing 
+gut: gut	guts	insides	intestine	intestines 
+guts: gut	guts	insides	intestine	intestines 
+insides: gut	guts	insides	intestine	intestines 
+intestine: gut	guts	insides	intestine	intestines 
+intestines: gut	guts	insides	intestine	intestines 
+back: back 
+suck: suck 
+spit: spit 
+vomit: vomit 
+blow: blow 
+breath: breath	breathe 
+breathe: breath	breathe 
+laugh: laugh	laughter 
+laughter: laugh	laughter 
+cogitate: cogitate	reflect	think 
+reflect: cogitate	reflect	think 
+think: cogitate	reflect	think 
+smell: smell	sniff 
+sniff: smell	sniff 
+afraid: afraid	be afraid	fear	fright 
+be afraid: afraid	be afraid	fear	fright 
+fear: afraid	be afraid	fear	fright 
+fright: afraid	be afraid	fear	fright 
+alive: alive	be alive	life	live	living 
+be alive: alive	be alive	life	live	living 
+life: alive	be alive	life	live	living 
+live: alive	be alive	life	live	living 
+living: alive	be alive	life	live	living 
+fight: fight 
+hunt: hunt 
+beat: beat	hit	strike 
+hit: beat	hit	strike 
+strike: beat	hit	strike 
+cut: cut	hack 
+hack: cut	hack 
+cut open: cut open	split 
+split: cut open	split 
+pierce: pierce	stab 
+stab: pierce	stab 
+scratch: scratch 
+dig: dig 
+tell lies: lie	lie down	tell lies 
+turn: turn	turn around	turn round 
+turn around: turn	turn around	turn round 
+turn round: turn	turn around	turn round 
+drop: drop	fall 
+fall: drop	fall 
+grasp: grasp	hold	hold in arm 
+hold: grasp	hold	hold in arm 
+hold in arm: grasp	hold	hold in arm 
+squeeze: squeeze	wring 
+wring: squeeze	wring 
+rub: rub	wipe 
+wipe: wipe 
+wash: wash	wash clothes 
+wash clothes: wash	wash clothes 
+pull: pull 
+push: push	shove 
+shove: push	shove 
+throw: throw 
+bind: bind	fasten	tie	tie up 
+fasten: bind	fasten	tie	tie up 
+tie: bind	fasten	tie	tie up 
+tie up: bind	fasten	tie	tie up 
+sew: sew 
+count: count	enumerate	number	tally 
+enumerate: count	enumerate	number	tally 
+number: count	enumerate	number	tally 
+tally: count	enumerate	number	tally 
+sing: sing 
+have fun: have fun	play 
+play: have fun	play 
+float: float 
+flow: flow 
+freeze: freeze 
+swell: swell 
+brook: brook	river	stream 
+river: brook	river	stream 
+stream: brook	river	stream 
+lake: lake 
+ocean: ocean	sea 
+sea: ocean	sea 
+dust: dust 
+fog: fog 
+sky: sky 
+snow: snow 
+ice: ice 
+blaze: blaze	burn 
+day: day	daylight	daytime 
+daylight: day	daylight	daytime 
+daytime: day	daylight	daytime 
+old: old 
+bad: bad	evil 
+evil: bad	evil 
+rot: rot	rotten 
+rotten: rot	rotten 
+dirty: dirty	filthy	soiled 
+filthy: dirty	filthy	soiled 
+soiled: dirty	filthy	soiled 
+straight: straight 
+sharp: sharp 
+blunt: blunt	dull 
+smooth: smooth 
+damp: damp	wet 
+wet: damp	wet 
+correct: correct	right 
+right side: right	right side 
+left: left 
+at: at 
+in: in	inside 
+inside: in	inside 
+with: with 
+and: and 
+if: if 
+because: because 

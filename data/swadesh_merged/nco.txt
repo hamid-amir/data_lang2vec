@@ -1,0 +1,362 @@
+all: okopo | okopo	okopoʔ 
+all: okopoʔ | okopo	okopoʔ 
+and: maka 
+animal: pe:kopo 
+arrow: bah 
+arrow: toka 
+ashes: sɪpu | sɪpu	sɪpuh 
+ashes: sɪpuh | sɪpu	sɪpuh 
+back: biro 
+back: namu-uko 
+bad: olen 
+bad: orɛŋ 
+bark: kabu (koɪnakonala) | kabu	kambʊh 
+bark: kambʊh | kabu	kambʊh 
+belly: kɛbo 
+big: pagem | panna	paŋgɛŋ 
+big: paŋgɛŋ | panna	paŋgɛŋ 
+big: panna | panna	paŋgɛŋ 
+bird: ßarɛŋkɛ | walegɛ	βarɛŋkɛ 
+bird: walegɛ | walegɛ	βarɛŋkɛ 
+bite: kaking 
+black: mʊːnɪʔ | munɪ	mʊːnɪʔ 
+black: munɪ | munɪ	mʊːnɪʔ 
+blood: ɛle | ɛle	ɛrɛ 
+blood: ɛrɛ | ɛle	ɛrɛ 
+bone: kona | kona	koʔnaʔ 
+bone: koʔnaʔ | kona	koʔnaʔ 
+boy: nugan 
+boy: ßaikarah 
+breast: masɪva | masɪva	nonoʔ 
+breast: nonoʔ | masɪva	nonoʔ 
+brother: bʷataːtɑ 
+brother: watata 
+burn: ßaritoʔ urumbariɛʔ 
+burn: ulubalɪ 
+child: ɛʔ 
+child: wolɪ waɪkɛsɪ 
+chin: apɛs 
+chin: apɪs 
+claw: magɛ | magɛ	maŋgɛʔ 
+claw: maŋgɛʔ | magɛ	maŋgɛʔ 
+cloud: kamo | kamo	kamoʔ 
+cloud: kamoʔ | kamo	kamoʔ 
+cold: kamalɪ | kamalɪ	kamaːri 
+cold: kamaːri | kamalɪ	kamaːri 
+come: poɪ | poh	poɪ 
+come: poh | poh	poɪ 
+day: mʊdɛkinaʔ 
+day: mubekina 
+die: ßoparanna ŋgaßara | wop-alɪ	βoparanna ŋgaβara 
+die: wop-alɪ | wop-alɪ	βoparanna ŋgaβara 
+dirty: kumi 
+dog: mosɪka | mosɪka	mosɪkah 
+dog: mosɪkah | mosɪka	mosɪkah 
+drink: nai-alɪ | nai-alɪ	naiara 
+drink: naiara | nai-alɪ	naiara 
+dry: kaposɪʔ | kaposɪʔ	oalaɪ 
+dry: oalaɪ | kaposɪʔ	oalaɪ 
+ear: i ~ oŋ | i	lon	oŋ 
+ear: lon | i	lon	oŋ 
+earth: mɛsɪ 
+earth: mɛsɪʔ 
+eat: wau ala | wau ala	wau aramai 
+eat: wau aramai | wau ala	wau aramai 
+egg: kaka | kak	kaka	kaːka 
+egg: kak ~ kaːka | kak	kaka	kaːka 
+elbow: kapata 
+elbow: nogoroma 
+emu: walegɛ 
+eye: uta | uta	wutah 
+eye: wutah | uta	wutah 
+fall: lula-alɪ 
+fall: puʔari 
+far: isipo 
+father: bʷomah 
+father: mma 
+father: woma 
+fat (n.): sisi 
+fat (n.): tsɪsiʔ 
+feather: koßɛtaʔ | kovɛta	koβɛtaʔ 
+feather: kovɛta | kovɛta	koβɛtaʔ 
+few: waikala 
+finger: paŋgariŋgɛ 
+fire: waritoʔ | waritoʔ	waɪto 
+fire: waɪto | waritoʔ	waɪto 
+fish: kalegɛ | kalegɛ	karɛngɛ 
+fish: karɛngɛ | kalegɛ	karɛngɛ 
+five: panoko 
+five: paʔnokoʔ 
+fly (v.): amarui 
+fly (v.): pulenɪ 
+foot: pɛnaʔ | penan	pɛnaʔ 
+foot: penan | penan	pɛnaʔ 
+forehead: oi 
+forehead: wolɛ 
+four: kalekago 
+four: karɛkaŋgoʔ 
+full: kɛsɪʔ | kɛsɪʔ	mardom 
+full: mardom | kɛsɪʔ	mardom 
+girl: mani kuma 
+girl: nɛraiʔna 
+give: amai | amai	nɪ amɪ 
+give: nɪ amɪ | amai	nɪ amɪ 
+good: tabɛn | tabɛn	tambɛm 
+good: tambɛm | tabɛn	tambɛm 
+green: kirɛʔ | kirɛʔ	ɣɪlɪn 
+green: ɣɪlɪn | kirɛʔ	ɣɪlɪn 
+hair: lapo 
+hand: kapata | kapata	uŋgah 
+hand: uŋgah | kapata	uŋgah 
+head: borɛʔ | borɛʔ	volɛ 
+head: volɛ | borɛʔ	volɛ 
+hear: talavɪ | talavɪ	tarabʷui	taraumai 
+hear: tarabʷui | talavɪ	tarabʷui	taraumai 
+hear: taraumai | talavɪ	tarabʷui	taraumai 
+heart: masiva | masiva	masiwa 
+heart: masiwa | masiva	masiwa 
+heavy: asɪla | asɪla	asɪraʔ 
+heavy: asɪraʔ | asɪla	asɪraʔ 
+he/she: tɛ 
+he/she: wakam 
+hit: banakitabʷi 
+hit: nan-alɪ 
+hit: naŋarih 
+horn: kaida 
+house: pauah 
+house: pava 
+how: arewa 
+husband: ing 
+I: nɪ 
+kill: taßui | tauko	taβui 
+kill: tauko | tauko	taβui 
+knee: mɪ | mi	mɪ 
+knee: mi | mi	mɪ 
+know: anapɪ-ɛ | anapɪ-ɛ	taripuyä 
+know: taripuyä | anapɪ-ɛ	taripuyä 
+laugh: nɛgɛnɪ 
+laugh: nɪgɛnuh 
+leaf: paba | paba	pandaʔ 
+leaf: pandaʔ | paba	pandaʔ 
+leg: peban 
+leg: pɛnaʔ 
+lie: asɪ palɪ 
+lie: ßɛrywariä 
+liver: nunah | nunah	upɪta 
+liver: upɪta | nunah	upɪta 
+long: ɪsɪkalo | ɪskarah	ɪsɪkalo 
+long: ɪskarah | ɪskarah	ɪsɪkalo 
+louse: pasɪ 
+man: nugam ~ nuŋgaŋ | nadoh	nanmɛ 
+man: nugan | nadoh	nanmɛ 
+many: pagago | pagago	paŋganoh 
+many: paŋganoh | pagago	paŋganoh 
+meat: ßio 
+meat: vio 
+moon: pɛgɪa | pɛgɪa	pɛːŋgiaʔ 
+moon: pɛːŋgiaʔ | pɛgɪa	pɛːŋgiaʔ 
+morning: taneno 
+morning: tanɛʔnoʔ 
+mother: bʷokɔ 
+mother: n.go 
+mother: woko 
+mountain: mɛtɛ | mɛtɛ	mɛtɛʔ 
+mountain: mɛtɛʔ | mɛtɛ	mɛtɛʔ 
+mouth: nua | nua	nuah 
+mouth: nuah | nua	nuah 
+name: mɪ | mɪ	mɪrɪ 
+name: mɪrɪ | mɪ	mɪrɪ 
+neck: kʊruh | kulu	kʊruh 
+neck: kulu | kulu	kʊruh 
+new: nelakala | nelakala	nerakara 
+new: nerakara | nelakala	nerakara 
+night: mʊːna | mule	mʊːna 
+night: mule | mule	mʊːna 
+nose: keng | visivisi	βisɪβɪs 
+not: -lea | -waruh	malaka 
+not: malaka | -waruh	malaka 
+not: marakʰa | -waruh	malaka 
+not: -waruh | -waruh	malaka 
+old: kalasɪ 
+old: paga 
+old: paŋgara 
+old: paŋgatɛʔ 
+old: urikara 
+one: namoʔ | namoʔ	nau 
+one: nau | namoʔ	nau 
+person: nadoh | nadoh	nanmɛ 
+person: nanmɛ | nadoh	nanmɛ 
+rain: apo | apo	tua 
+rain: dua | apo	tua 
+rain: tua | apo	tua 
+rat: koso 
+rat: kosoːʔ 
+red: ʊrʊŋgasɪʔ | ulugasɪ	ʊrʊŋgasɪʔ 
+red: ulugasɪ | ulugasɪ	ʊrʊŋgasɪʔ 
+right: mene | kapata	uŋgah 
+road: paŋgaukaʰ 
+road: tolulu 
+road: toruru 
+root: koßoh | koβoh	pulɪpulɪa 
+root: pulɪpulɪa | koβoh	pulɪpulɪa 
+round: kamoa | kamoa	kamom 
+round: kamom | kamoa	kamom 
+round: maːmakarɪŋ | kamoa	kamom 
+sand: pisiʔmaːʔ | pisiʔmaːʔ	pɪsɪma 
+sand: pɪsɪma | pisiʔmaːʔ	pɪsɪma 
+say: apɪ | apɪ	karisaʔo	karumai 
+say: karisaʔo | apɪ	karisaʔo	karumai 
+say: karumai | apɪ	karisaʔo	karumai 
+scratch: iki 
+seed: kamalɪ | kamalɪ	kamariʔ koiʔβoːri 
+seed: kamariʔ koiʔßoːri | kamalɪ	kamariʔ koiʔβoːri 
+see: obo-alɪ | obo-alɪ	oβwɪy 
+see: oßwɪy | obo-alɪ	oβwɪy 
+sharp: irigas 
+short: mapʊkarah 
+short: mapukɛta 
+shoulder: ukama 
+shoulder: ukamaʔ 
+sister: bʷaraʔmadaʔ 
+sister: wamama 
+sit: mamɪ | mamuyä	mamɪ 
+sit: mamuyä | mamuyä	mamɪ 
+skin: kabu | kabu	kambʊh 
+skin: kambʊh | kabu	kambʊh 
+sky: pan 
+sleep: asɪ | asiyäʔ	asɪ 
+sleep: asiyäʔ | asiyäʔ	asɪ 
+small: bʷaikɛ | bʷaikɛ	waikɛsɪ 
+small: waikɛsɪ | bʷaikɛ	waikɛsɪ 
+small: waikis, waikisi | bʷaikɛ	waikɛsɪ 
+smoke: e | e	ih 
+smoke: ih | e	ih 
+snake: bʷakiroh | bʷakiroh	visa 
+snake: visa | bʷakiroh	visa 
+spit: kuŋguraʔ ŋgaßarih 
+spit: oponɪ 
+stand: lamb-alɪ 
+stand: rambariä 
+star: sɪlɪbɛ | sɪlɪbɛ	sɪrimbɛʔ 
+star: sɪrimbɛʔ | sɪlɪbɛ	sɪrimbɛʔ 
+stone: kobɛlɛ | kobɛlɛ	komporɛʔ 
+stone: komporɛʔ | kobɛlɛ	komporɛʔ 
+stone: siraʔ | kobɛlɛ	komporɛʔ 
+sun: takɛ 
+swim: alu-alɪ | alu-alɪ	aruara 
+swim: aruara | alu-alɪ	aruara 
+tail: ßarih | waɪ	βarih 
+tail: tutuʔ | waɪ	βarih 
+tail: waɪ | waɪ	βarih 
+that: oŋgaʔ | oŋgaʔ	tɛ 
+that: tɛ | oŋgaʔ	tɛ 
+they: okopoʔ 
+they: tevo 
+they two: tɛi 
+they two: tɛvo 
+this: o | o	oh 
+this: oh | o	oh 
+thou: la | la	laʔ 
+thou: laʔ | la	laʔ 
+thou: riː | la	laʔ 
+thou: tɛvo | la	laʔ 
+three: bɛkaŋgoʔ 
+three: wɛkago 
+tomorrow: akolo 
+tomorrow: akoroːh 
+tongue: mɛnɛ | mɛnɛ	mɛnɛh 
+tongue: mɛnɛh | mɛnɛ	mɛnɛh 
+tooth: karißɛ | kariβɛ	kavɛ 
+tooth: kavɛ | kariβɛ	kavɛ 
+tree: koinaʔ 
+tree: koɪna 
+two: kɛmokɑ | kɛmokɑ	kɛuka 
+two: kɛuka | kɛmokɑ	kɛuka 
+walk: kulapalɪ | nabɛka-alɪ	nambaiʔara 
+walk: kurapariä | nabɛka-alɪ	nambaiʔara 
+walk: nabɛka-alɪ | nabɛka-alɪ	nambaiʔara 
+walk: nambaiʔara | nabɛka-alɪ	nambaiʔara 
+wallaby: walobɪ 
+warm: takataka 
+warm: takʌtʌkʌ 
+water: bu 
+we (excl.): nɪ 
+we (excl.): niː laʔlopah 
+we: nii 
+wet: sabʷasɪʔ 
+wet: sambukaɪʔ 
+wet: taɣomo 
+we two (excl.): nɛʔ laʔlopah 
+we two (excl.): nɪnga 
+what: amɪ | ami	amɪ 
+what: ami | ami	amɪ 
+when: aiʔnaŋ 
+when: aɪnan 
+where: ale 
+where: arɛ 
+white: kakata | kakata	kaːkataʔ 
+white: kaːkataʔ | kakata	kaːkataʔ 
+who: bʷaːʔ | bʷaːʔ	wa 
+who: wa | bʷaːʔ	wa 
+wife: iina 
+wind: loßih | lovɪ	loβih 
+wind: lovɪ | lovɪ	loβih 
+wing: nan-na 
+wing: nanʔnaʔ 
+with: noun+nga or anga 
+woman: manikuma 
+wood: banaʔ 
+wood: losɪkan 
+worm: kilili 
+year: mai 
+yellow: ɪalo | ?ɪalo	loriko 
+yellow: loriko | ?ɪalo	loriko 
+yes: eu 
+yes: ɛuʔ 
+yesterday: anka 
+yesterday: kɛʔmaːkɪʔ 
+you two: langa 
+you two: lɛ 
+every: okopo	okopoʔ 
+ash: sɪpu	sɪpuh 
+abdomen: kɛbo 
+bigness: panna	paŋgɛŋ 
+large: panna	paŋgɛŋ 
+breasts: masɪva	nonoʔ 
+nail: magɛ	maŋgɛʔ 
+talon: magɛ	maŋgɛʔ 
+come from: poh	poɪ 
+be dead: wop-alɪ	βoparanna ŋgaβara 
+dead: wop-alɪ	βoparanna ŋgaβara 
+fly: amarui	pulenɪ 
+fly v.: amarui	pulenɪ 
+left hand: kapata	uŋgah 
+1 sg.: nɪ 
+be knowledgeable: anapɪ-ɛ	taripuyä 
+male: nugam	nugan	nuŋgaŋ 
+much: pagago	paŋganoh 
+multiple: pagago	paŋganoh 
+several: pagago	paŋganoh 
+hill: mɛtɛ	mɛtɛʔ 
+title: mɪ	mɪrɪ 
+nighttime: mule	mʊːna 
+adulterous: namoʔ	nau 
+single: namoʔ	nau 
+the: namoʔ	nau 
+unprincipled: namoʔ	nau 
+human: nadoh	nanmɛ 
+human being: nadoh	nanmɛ 
+rainy weather: apo	tua 
+hide: kabu	kambʊh 
+little: bʷaikɛ	waikɛsɪ 
+smallness: bʷaikɛ	waikɛsɪ 
+rock: kobɛlɛ	komporɛʔ 
+2 sg: la	laʔ 
+you: la	laʔ 
+grind: kɛmokɑ	kɛuka 
+go: nabɛka-alɪ	nambaiʔara 
+whiteness: kakata	kaːkataʔ 
+who?: bʷaːʔ	wa 
+female: manikuma 
+dull: asɪla	asɪraʔ 
+serious: asɪla	asɪraʔ 

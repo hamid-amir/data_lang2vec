@@ -1,0 +1,333 @@
+all: katoa 
+every: katoa 
+ash: lefu 
+ashes: lefu 
+bark: paʻkili 
+abdomen: alo	kona	koopuu	manava	tinae 
+belly: alo	kona	koopuu	manava	tinae 
+big: fuaefa	lahi	lasi	lau/efa/	nui 
+bigness: fuaefa	lahi	lasi	lau/efa/	nui 
+large: fuaefa	lahi	lasi	lau/efa/	nui 
+bird: manu lele	manueva	manulele 
+black: uli 
+blood: toto 
+bone: ivi 
+breast: fatafata	u	uu	ū 
+breasts: fatafata	u	uu	ū 
+burn: tutu	tuugina 
+burn tr.: tutu	tuugina 
+cloud: kaumana 
+cold: makalili	moko/tia	ʻmoko 
+come: auʻmai	hau	oʻmai	sau	vau	ʻmai 
+come from: auʻmai	hau	oʻmai	sau	vau	ʻmai 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: kuli	kulii	kulī 
+drink: inu 
+dry: maloo	malō 
+ear: taliNa	taliga 
+earth: kele	lalolagi	laukele 
+ground: kele	lalolagi	laukele 
+land: kele	lalolagi	laukele 
+soil: kele	lalolagi	laukele 
+eat: kai 
+egg: fua 
+eye: mata 
+feather: fulu	fulufulu 
+fire: afi 
+fish: ika 
+fly: eva	kopa	lele 
+fly v.: eva	kopa	lele 
+foot: vae 
+full: fonu	mākona	ʻfonu 
+give: ave	tuku 
+good: ʻlei 
+green: kulīni	lanulauniu	moto	usi 
+hair: fulu	fulu/fulu	fulufulu	lauulu 
+hand: lima 
+left hand: lima 
+right: lima 
+head: piho	ulu 
+hear: fakalogo	fakalogologo	laNona	lagona	logo 
+heart: fatu	loto 
+horn: sau	suki	tui 
+1 sg.: -ku	aku	au	kau	kita 
+I: -ku	aku	au	kau	kita 
+kill: tāmate 
+knee: tuli vae	tulivae 
+be knowledgeable: iloa	kkafi	matau 
+know: iloa	kkafi	matau 
+leaf: lau 
+liver: ate 
+long: loa 
+head louse: kutu 
+louse: kutu 
+male: taane	tagata 
+man: tagata	tino 
+many: uke 
+much: uke 
+multiple: uke 
+several: uke 
+moon: masina	māsina 
+hill: mauNa	mauga 
+mountain: mauNa	mauga 
+mouth: gutu 
+name: iNoa	igoa 
+title: iNoa	igoa 
+neck: kaakii	ua	uà 
+new: foou	fou	fōu 
+night: po	poo	poouli	pō 
+nighttime: po	poo	poouli	pō 
+nose: ihu	isu 
+not: sē 
+adulterous: tahi	tasi 
+one: tahi	tasi 
+single: tahi	tasi 
+that: tēlā	tēnā 
+the: tahi	tasi 
+unprincipled: tahi	tasi 
+human: tagata	tino 
+human being: tagata	tino 
+person: tagata	tino 
+rain: ua	uāga	vaiua 
+rainy weather: ua	uāga	vaiua 
+red: kula	mea/mea/	mmelo	ʻkula 
+path: ala	ala/tuu	auala 
+road: ala	ala/tuu	auala 
+route: ala	ala/tuu	auala 
+root: aka 
+round: pukupuku 
+sand: fuu	one 
+say: fai	muna 
+see: lavea	matea 
+seed: fuaga	tega 
+sit: nofo	nofo ki lalo	sagasaga	sagasaga ki lalo 
+hide: kili	laukili	pakili	paʻkili 
+skin: kili	laukili	pakili	paʻkili 
+sleep: moe 
+little: fōliki	liki	pukupuku 
+small: fōliki	liki	pukupuku 
+smallness: fōliki	liki	pukupuku 
+smoke: au	ausaga 
+star: fetu	fetuu	fetū 
+rock: fatu 
+stone: fatu 
+sun: la	lā 
+swim: kakau	ʻkau 
+tail: felo	velo 
+this: tēnei 
+2 sg: ke	kita	koe 
+thou: ke	kita	koe 
+you: ke	kita	koe 
+tongue: alelo	laulaufaiva 
+tooth: nifo 
+tree: lakau	lākau 
+grind: lua 
+two: lua 
+go: saale	sāsāle 
+walk: saale	sāsāle 
+hot: ma/fana	māfanafana	ʻvela 
+warm: ma/fana	māfanafana	ʻvela 
+water: tai	vai 
+1 pl. inc.: maa	matou	mātou	māua	t/tou/	tātou	tāua 
+we: maa	matou	mātou	māua	t/tou/	tātou	tāua 
+we₁: maa	matou	mātou	māua	t/tou/	tātou	tāua 
+what: aa	ā 
+white: tea	ʻkena 
+whiteness: tea	ʻkena 
+who: ai	ko oi 
+who?: ai	ko oi 
+female: -fine	fafine 
+woman: -fine	fafine 
+yellow: fe/felo	hega/hega	ʻsega 
+distant: mama`o	ʻmao 
+far: mama`o	ʻmao 
+dull: mamafa	ʻmafa 
+heavy: mamafa	ʻmafa 
+serious: mamafa	ʻmafa 
+close: pili 
+near: pili 
+ner: pili 
+salt: miti	māsima 
+short: pukupuku	toetoe 
+snake: gata 
+thin: manifi	pakapaka	pakā 
+wind: matagi 
+earthworm: anufe	ilo	kalamuta	kalemutu	kelemutu 
+worm: anufe	ilo	kalamuta	kalemutu	kelemutu 
+year: tau/naga	tausaga 
+3 sg.: ia 
+he: ia 
+she: ia 
+2 pl.: ke	koe	koulua	koutou 
+ye: ke	koe	koulua	koutou 
+you all: ke	koe	koulua	koutou 
+3 pl.: lātou	lāua 
+they: lātou	lāua 
+here: konei 
+there: kolā	konā 
+where: fea	kofea	tēfea 
+where?: fea	kofea	tēfea 
+when: aafea	anafea	māfea 
+when?: aafea	anafea	māfea 
+how: feefea	peefea	peehea	peehee	pēfea 
+how?: feefea	peefea	peehea	peehee	pēfea 
+some: nīsi 
+few: mō	mū	nāi	sē uke 
+other: nīsi	suā 
+three: tolu 
+four: faa	fā 
+five: lima 
+broad: lafalafa	lauefa 
+wide: lafalafa	lauefa 
+wideness: lafalafa	lauefa 
+fat: gako	hinu 
+thick: maatolu	mātolu	ūsi	ʻpoto 
+narrow: lau/liki	lauliki 
+child: tamaliki 
+principal wife: ama	āvaga 
+wife: ama	āvaga 
+husband: aavaga	āvaga 
+his mother: maatua	mātua	mātua fafine 
+mother: maatua	mātua	mātua fafine 
+my mother: maatua	mātua	mātua fafine 
+father: mātua tagata	tama/na	tamana 
+his father: mātua tagata	tama/na	tamana 
+my father: mātua tagata	tama/na	tamana 
+animal: manu 
+forest: togālākau	ulu	vao 
+woods: togālākau	ulu	vao 
+branch: aakau	laalaa	lākau 
+stick: aakau	laalaa	lākau 
+fruit: fua	fuaga 
+flower: pua	pula	pulalākau	tiale 
+grass: mauku	mouku 
+cord: kolokolo	lōpu	maea 
+rope: kolokolo	lōpu	maea 
+flesh: kanofi	meafasi	ʻkano 
+meat: kanofi	meafasi	ʻkano 
+grease: gako	hinu 
+claw: maʻnia 
+fingernail: maʻnia 
+nail: maʻnia 
+leg: vae 
+arm: lima 
+wing: kapakau	pakau 
+gut: gaakau	gākau	tinae	vava 
+guts: gaakau	gākau	tinae	vava 
+insides: gaakau	gākau	tinae	vava 
+intestine: gaakau	gākau	tinae	vava 
+intestines: gaakau	gākau	tinae	vava 
+back: tua 
+suck: miti	mitimiti	ʻmiti 
+spit: anu	puaki	pōki 
+vomit: lua 
+blow: agi	puhi	ʻpusi 
+breath: maanava	mānava 
+breathe: maanava	mānava 
+laugh: kata 
+laughter: kata 
+cogitate: mafaufau	manatu 
+reflect: mafaufau	manatu 
+think: mafaufau	manatu 
+smell: hohoŋi	manogi	ʻsogi 
+sniff: hohoŋi	manogi	ʻsogi 
+afraid: mataku 
+be afraid: mataku 
+fear: mataku 
+fright: mataku 
+alive: ola 
+be alive: ola 
+life: ola 
+live: ola 
+living: ola 
+fight: faitaua	tau	taua 
+hunt: pukemanu	tu/tuli	tulimanu 
+beat: fusu	paa	patu	taa	tuki	tā	ʻkini	ʻpā 
+hit: fusu	paa	patu	taa	tuki	tā	ʻkini	ʻpā 
+strike: fusu	paa	patu	taa	tuki	tā	ʻkini	ʻpā 
+cut: he/hele/	ihi	motu	selesele	talai	tipitipi	ʻkati	ʻsele	ʻtipi 
+hack: he/hele/	ihi	motu	selesele	talai	tipitipi	ʻkati	ʻsele	ʻtipi 
+cut open: isiisi	ma/faa	īsi 
+split: isiisi	ma/faa	īsi 
+pierce: ho/hoka/	huki	ʻsuki 
+stab: ho/hoka/	huki	ʻsuki 
+scratch: alati	lati	ʻkali 
+dig: keli	kenu	sua 
+lie: takato 
+lie down: takato 
+tell lies: takato 
+stand: tuu	tū 
+turn: aga	fakapiko	ʻfuli 
+turn around: aga	fakapiko	ʻfuli 
+turn round: aga	fakapiko	ʻfuli 
+drop: higa	siga	too	tō 
+fall: higa	siga	too	tō 
+grasp: puke	tago	taofi 
+hold: puke	tago	taofi 
+hold in arm: puke	tago	taofi 
+squeeze: kukumi	lomi	tau	ʻkaku	ʻkumi 
+wring: kukumi	lomi	tau	ʻkaku	ʻkumi 
+rub: milimili	solosolo	ʻmili	ʻsolo 
+wipe: solosolo	ʻsolo 
+wash: fakakoukou	fulu	ʻmulu 
+wash clothes: fakakoukou	fulu	ʻmulu 
+pull: futi	toso 
+push: tule	usu 
+shove: tule	usu 
+throw: lafo	pei	tupe 
+bind: fa/fau	fusi	lii/lii	noa	ʻsai 
+fasten: fa/fau	fusi	lii/lii	noa	ʻsai 
+tie: fa/fau	fusi	lii/lii	noa	ʻsai 
+tie up: fa/fau	fusi	lii/lii	noa	ʻsai 
+sew: suisui	tui	tuitui	ʻsui	ʻtui 
+count: lau	tau 
+enumerate: lau	tau 
+number: lau	tau 
+tally: lau	tau 
+sing: usu 
+have fun: tāfao 
+play: tāfao 
+float: lagalaga	lāga 
+flow: tafe 
+freeze: fakaʻmoko 
+swell: kiatolo	ʻfete 
+brook: vaitafe 
+river: vaitafe 
+stream: vaitafe 
+lake: namo	vai	vaitūloto 
+ocean: moana	tai	vaha	vasa 
+sea: moana	tai	vaha	vasa 
+dust: pa/efu/	ʻpefu 
+fog: asu	asuasu 
+sky: lagi 
+snow: kiona 
+ice: aisa	poloka 
+blaze: ʻkā 
+day: ao	aso 
+daylight: ao	aso 
+daytime: ao	aso 
+old: matua 
+bad: māsei 
+evil: māsei 
+rot: popo	ʻpala	ʻpala māsei 
+rotten: popo	ʻpala	ʻpala māsei 
+dirty: lailai	palapala 
+filthy: lailai	palapala 
+soiled: lailai	palapala 
+straight: ʻtonu	ʻtonu kisi 
+sharp: kai	ʻkai 
+blunt: ʻtuka 
+smooth: molemole 
+damp: hihiu	si(s)iu	ʻsiu 
+wet: hihiu	si(s)iu	ʻsiu 
+correct: fakatonu	sao	tonu	tonu kisikisi 
+right side: fakaatamai	matau 
+left: fakamaui	maui 
+in: i	i loto 
+inside: i	i loto 
+with: fakatasi mo 
+and: kae	ma	maa	mo 
+if: kāfai	manafai	me/ehe mea	māfai 
+because: auā	i te mea	ona ko 

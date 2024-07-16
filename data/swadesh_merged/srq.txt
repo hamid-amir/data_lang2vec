@@ -1,0 +1,281 @@
+all: ha 
+every: ha 
+ash: ekusubu	tata-ba 
+ashes: ekusubu	tata-ba 
+bark: eeke	ehe	eya 
+big: ekʷasu	eri̯ša 
+bigness: ekʷasu	eri̯ša 
+large: ekʷasu	eri̯ša 
+bird: ŋireĩ̯ 
+bite: ši̯u 
+black: eišõ	eroʼnei̯	sone 
+blood: eruki	ruki 
+bone: ekʸaŋe	ky~aNe 
+breast: ekiã	kia* 
+breasts: ekiã	kia* 
+cloud: ibeišĩ 
+cold: serui 
+come: Nae*	tu	ŋaẽ 
+come from: Nae*	tu	ŋaẽ 
+be dead: eraake	mano 
+dead: eraake	mano 
+die: eraake	mano 
+dog: 5akw~a	5ao5ao	ɲakʷa	ɲao-ɲao 
+drink: iu	mei 
+dry: ei̯ru	esi̯i̯	etuba	eči̯mama 
+ear: eisa	isa 
+earth: erekʷa	ibi 
+ground: erekʷa	ibi 
+land: erekʷa	ibi 
+soil: erekʷa	ibi 
+eat: kʸaru	u 
+egg: eči̯a 
+eye: eresa	resa 
+feather: eheo	erake 
+fire: erata	tata 
+fish: hira	hi̯ra	sira	si̯ra 
+fly: mebe 
+fly v.: mebe 
+foot: ei 
+give: mee	moeta 
+good: eturã 
+green: erubi 
+hair: ea	era 
+hand: eo 
+left hand: eo 
+right: eo 
+head: eãkĩ 
+hear: Nanu	eisakw~a	eisakʷa	ɲanu 
+heart: ečĩ̯ã 
+horn: eramašĩ̯	ramaSi* 
+1 sg.: se 
+I: se 
+kill: i̯kia	mutiã 
+knee: Ni*a*	eŋĩã 
+be knowledgeable: i̯kʷa 
+know: i̯kʷa 
+leaf: ero	iraro 
+liver: eya	ya 
+long: eoko 
+head louse: eki	ki 
+louse: eki	ki 
+male: erãkʷẽ 
+man: aba mo	emo	mia 
+many: eata 
+much: eata 
+multiple: eata 
+several: eata 
+moon: ɲasi 
+hill: ibi ato	ibi ibate 
+mountain: ibi ato	ibi ibate 
+mouth: ečuru 
+name: ere 
+title: ere 
+neck: eati	eato	eaču	ečosoi 
+new: eaki	eyasu 
+night: isa	itonaru 
+nighttime: isa	itonaru 
+nose: ẽã 
+adulterous: komi	mi 
+one: komi	mi 
+single: komi	mi 
+that: komi	mi 
+the: komi	mi 
+unprincipled: komi	mi 
+human: aba mo	emo	mia 
+human being: aba mo	emo	mia 
+person: aba mo	emo	mia 
+rain: ama	ɲaaki 
+rainy weather: ama	ɲaaki 
+red: ei̯reĩ̯ 
+path: 5ena	eiCa 
+road: 5ena	eiCa 
+route: 5ena	eiCa 
+root: erao 
+round: eitee	ečere 
+sand: i̯ta ki̯i̯šĩ̯ 
+say: hue	i̯ 
+see: mae	mae erese	tea 
+seed: eaĩ̯	i̯eĩ̯	yeĩ̯ 
+sit: ŋoi 
+hide: ei̯	ei̯re	ire 
+skin: ei̯	ei̯re	ire 
+sleep: uke 
+little: ekʷake	eɲetẽ	eɲohõ 
+small: ekʷake	eɲetẽ	eɲohõ 
+smallness: ekʷake	eɲetẽ	eɲohõ 
+smoke: tata-šĩ 
+star: Nasi tata	ɲasi tata 
+rock: hita	hi̯ta	i̯ta	sita	si̯ta 
+stone: hita	hi̯ta	i̯ta	sita	si̯ta 
+sun: tena 
+swim: ita 
+tail: eʼrokoi̯ 
+2 sg: ne 
+thou: ne 
+you: ne 
+tongue: eekõ	ko* 
+tooth: erẽĩ̯	re*i* 
+tree: ira 
+grind: 5eremo	yeremo	ɲeremo 
+two: 5eremo	yeremo	ɲeremo 
+go: ŋata 
+walk: ŋata 
+hot: eribebe 
+warm: eribebe 
+water: ama	i 
+1 pl. inc.: nane 
+we: nane 
+we₁: nane 
+what: ma	mae 
+white: ešĩ 
+whiteness: ešĩ 
+who: aba 
+who?: aba 
+female: erẽĩ	kuɲa 
+woman: erẽĩ	kuɲa 
+yellow: ečo	eču 
+distant: i̯šo	mũmiri 
+far: i̯šo	mũmiri 
+dull: eusi 
+heavy: eusi 
+serious: eusi 
+close: aɨčɨ	ehii	rɨɨ̃ 
+near: aɨčɨ	ehii	rɨɨ̃ 
+ner: aɨčɨ	ehii	rɨɨ̃ 
+salt: emikesa 
+short: eakʷa	ehua 
+snake: mei̯	mei̯ kʷaču 
+thin: eanamea	eitere	ei̯re	emi̯rĩ̯ 
+wind: ki̯ri̯ri̯ã 
+earthworm: erosei̯	mae rosei̯	mi̯rara 
+worm: erosei̯	mae rosei̯	mi̯rara 
+year: tena 
+2 pl.: hẽ 
+ye: hẽ 
+you all: hẽ 
+3 pl.: ae	ukĩ̯	ũkĩ̯ 
+they: ae	ukĩ̯	ũkĩ̯ 
+where: mã	mãŋe 
+where?: mã	mãŋe 
+when: manose 
+when?: manose 
+how: maɲi̯ 
+how?: maɲi̯ 
+some: emo 
+few: erukʷa	ko mi̯i̯ 
+three: yeremono	ɲeremo 
+broad: eitee	eʼɨkoɨ 
+wide: eitee	eʼɨkoɨ 
+wideness: eitee	eʼɨkoɨ 
+fat: ekira	i̯eĩ̯kira	mae kira 
+thick: ɲãnã 
+narrow: ečumumi	eʼɨkoɨ čɨã 
+child: ei̯tãkeĩ	ekiã	kiã 
+principal wife: ememi	enĩnĩsi	kuɲa 
+wife: ememi	enĩnĩsi	kuɲa 
+husband: eru 
+his mother: esi	tãĩ 
+mother: esi	tãĩ 
+my mother: esi	tãĩ 
+father: e-ru	paba	ŋu 
+his father: e-ru	paba	ŋu 
+my father: e-ru	paba	ŋu 
+forest: kiaa rĩ̯	ɲana 
+woods: kiaa rĩ̯	ɲana 
+branch: erãkʸã	ira rãkʸã	niike 
+stick: erãkʸã	ira rãkʸã	niike 
+fruit: ea 
+flower: euti 
+grass: ira ruri	kʸata 
+cord: esã	kisasã	naasã 
+rope: esã	kisasã	naasã 
+flesh: eroo	soo 
+meat: eroo	soo 
+grease: ekira	i̯eĩ̯kira	mae kira 
+claw: eaĩ	eo ãĩ 
+fingernail: eaĩ	eo ãĩ 
+nail: eaĩ	eo ãĩ 
+leg: ekʷi	etimã 
+wing: eheo 
+gut: eči̯i̯ke 
+guts: eči̯i̯ke 
+insides: eči̯i̯ke 
+intestine: eči̯i̯ke 
+intestines: eči̯i̯ke 
+back: ekite 
+suck: kiamu	siite 
+spit: ereni	ɲinimu 
+vomit: ɲemo	ɲomo 
+blow: i̯ču 
+breath: iabu 
+breathe: iabu 
+laugh: hi̯kʸa	i̯kʸa 
+laughter: hi̯kʸa	i̯kʸa 
+cogitate: nua 
+reflect: nua 
+think: nua 
+afraid: esikiče 
+be afraid: esikiče 
+fear: esikiče 
+fright: esikiče 
+alive: ereko	siki 
+be alive: ereko	siki 
+life: ereko	siki 
+live: ereko	siki 
+living: ereko	siki 
+fight: ukʷa ɲi̯ese	ɲi̯maaɲa aɲa 
+hunt: mae rekia	ŋata ŋata 
+beat: iruã nua	kurukʷa	ukʷa 
+hit: iruã nua	kurukʷa	ukʷa 
+strike: iruã nua	kurukʷa	ukʷa 
+cut: kʸišĩ̯	ɲisia	ɲui̯ 
+hack: kʸišĩ̯	ɲisia	ɲui̯ 
+cut open: momo	ɲisia 
+split: momo	ɲisia 
+dig: si̯bi̯koi̯	tia 
+stand: huã	ɲumui	ɲuruã 
+turn: eba	ɲatičere 
+turn around: eba	ɲatičere 
+turn round: eba	ɲatičere 
+drop: põ ɨ	ukɨ	ŋoɨ 
+fall: põ ɨ	ukɨ	ŋoɨ 
+rub: i̯si̯	kiti 
+wipe: i̯si̯	kiti 
+wash: i̯rei̯ 
+wash clothes: i̯rei̯ 
+push: emãɲã 
+shove: emãɲã 
+throw: momo	ɲučã 
+bind: musã	ɲukʷa 
+fasten: musã	ɲukʷa 
+tie: musã	ɲukʷa 
+tie up: musã	ɲukʷa 
+sew: eya eya 
+sing: ɨraseɨ 
+float: mebi̯	ubu 
+brook: amã 
+river: amã 
+stream: amã 
+lake: ama ni̯ša 
+dust: ekui̯i̯	etuba 
+fog: si̯mo 
+sky: ibei 
+blaze: seni	ɲuuta 
+burn: seni	ɲuuta 
+day: tena	ɲaašĩ̯ 
+daylight: tena	ɲaašĩ̯ 
+daytime: tena	ɲaašĩ̯ 
+rot: eai̯	emano	ereĩ 
+rotten: eai̯	emano	ereĩ 
+dirty: eronei̯	etubi	eʼkia 
+filthy: eronei̯	etubi	eʼkia 
+soiled: eronei̯	etubi	eʼkia 
+straight: eri̯i̯me	ečaareã	ečiabiã 
+sharp: erĩ̯me 
+damp: emia hi	eya 
+wet: emia hi	eya 
+in: hie	rie	ye 
+inside: hie	rie	ye 
+if: moi̯	mose 
+because: tare	ɲebe 

@@ -1,0 +1,333 @@
+all: buohkat	buot	visot	yuohke 
+every: buohkat	buot	visot	yuohke 
+ash: gutnɑ 
+ashes: gutnɑ 
+bark: gɑr̃r̃ɑ	osttu 
+abdomen: čoavji 
+belly: čoavji 
+big: stuoris	stuor̃ɑt 
+bigness: stuoris	stuor̃ɑt 
+large: stuoris	stuor̃ɑt 
+bird: loddi 
+bite: gaskit	suoksat 
+black: čahppɑt	čáhppat 
+blood: varra	voro	vɑr̃r̃ɑ 
+bone: dakti	dákti 
+breast: Ciji	čižži	čiǰǰi 
+breasts: Ciji	čižži	čiǰǰi 
+claw: gɑd͜zd͜zɑ 
+nail: gɑd͜zd͜zɑ 
+talon: gɑd͜zd͜zɑ 
+cloud: balva	bɑlvɑ 
+cold: galmmas	gɑlmmɑs 
+come: beoso	boahtit	boti	boɑhtit 
+come from: beoso	boahtit	boti	boɑhtit 
+be dead: jápmit	yapmi	yapmit	yapmɑn 
+dead: jápmit	yapmi	yapmit	yapmɑn 
+die: jápmit	yapmi	yapmit	yapmɑn 
+dog: beana	beono	beɑnɑ 
+drink: %yuko	juhkat	yuhkɑt 
+dry: goiki	goikkis 
+ear: beallji	beoLi	beoly~i	beɑllyi 
+earth: eanan	eɑnɑ 
+ground: eanan	eɑnɑ 
+land: eanan	eɑnɑ 
+soil: eanan	eɑnɑ 
+eat: borrat	bor̃r̃ɑt 
+egg: monni 
+eye: Colbmi	čalbmi	čɑlbmi 
+feather: dolgi 
+fire: dolla	dollɑ	dolo 
+fish: guoli	guolli 
+fly: girdit	gir̃dit 
+fly v.: girdit	gir̃dit 
+foot: juolgi	yuolgi 
+full: dievo	dievva	dievvɑ 
+give: addit	ɑddit 
+good: buorre	buor̃r̃e 
+green: ruoná	r̃uonɑs 
+hair: vuokta	vuoktɑ	vuovttat 
+hand: giehtɑ	gieto 
+left hand: giehtɑ	gieto 
+right: giehtɑ	gieto 
+head: oaivi	oɑivi 
+hear: gullat	gullɑt	gulo 
+heart: vaibmu	váibmu 
+horn: čoarvi	čoɑr̃vi 
+1 sg.: mun 
+I: mun 
+kill: goddit 
+knee: Cibi	čibbi 
+be knowledgeable: diehtit 
+know: diehtit 
+leaf: %losto	lasta	lɑstɑ 
+lie: veɑllat 
+lie down: veɑllat 
+liver: vuoivos	vuoivvas	vuoivvɑs 
+long: guhkki 
+head louse: dihkki	diki 
+louse: dihkki	diki 
+male: almmái	olmmai 
+man: %olmoS	heoggo	olmmoš 
+many: maŋgɑ	máŋga	ollu 
+much: maŋgɑ	máŋga	ollu 
+multiple: maŋgɑ	máŋga	ollu 
+several: maŋgɑ	máŋga	ollu 
+flesh: oɑǰǰi 
+meat: oɑǰǰi 
+moon: mannu	mánnu 
+hill: var̃r̃i	várri 
+mountain: var̃r̃i	várri 
+mouth: njálbmi	ɲalbmi 
+name: %nama	namma	nɑmmɑ 
+title: %nama	namma	nɑmmɑ 
+neck: čeabet	čeɑbet 
+new: o8o	oðɑs	ođas	voros 
+night: idja	idy~o	idyɑ 
+nighttime: idja	idy~o	idyɑ 
+nose: 5uni	njunni	ny~uni	ɲunni 
+not: ii 
+adulterous: okta	okto 
+one: okta	okto 
+single: okta	okto 
+that: diet	duo 
+the: okta	okto 
+unprincipled: okta	okto 
+human: %olmoS	heoggo	olmmoš 
+human being: %olmoS	heoggo	olmmoš 
+person: %olmoS	heoggo	olmmoš 
+rain: arvit	ɑr̃vi 
+rainy weather: arvit	ɑr̃vi 
+red: ruoksat	r̃uoksɑt 
+path: geaidnu	geoidnu	luodo 
+road: geaidnu	geoidnu	luodo 
+route: geaidnu	geoidnu	luodo 
+root: ruohtas	r̃uohtɑs 
+round: jorbbas	yor̃bɑt 
+sand: sattu	sáttu 
+say: cealkit	dadjat	dɑdyɑt	lohkat 
+see: %oidni	oaidnit	oɑidnit 
+seed: siepmɑn 
+sit: čohkkat	čohkkát 
+hide: liiki	nahkki	náhki 
+skin: liiki	nahkki	náhki 
+sleep: oađđit	oɑððit 
+little: smávis	uhcci	unni 
+small: smávis	uhcci	unni 
+smallness: smávis	uhcci	unni 
+smoke: suovva	suovvɑ 
+star: nasti	násti 
+rock: bakti	geađgi	geo8gi	geɑðgi 
+stone: bakti	geađgi	geo8gi	geɑðgi 
+sun: beaivi	beaivváš	beoivaS	beɑivi	beɑivvaš 
+swim: vuodjat	vuodyɑt 
+tail: seaibi	seɑibi 
+this: dát 
+2 sg: don 
+thou: don 
+you: don 
+tongue: gielo	njuovčča	ɲuovččɑ 
+tooth: batni	bátni 
+tree: muoro	muorra 
+grind: guokte 
+two: guokte 
+go: vad͜zd͜zit	vázzit 
+walk: vad͜zd͜zit	vázzit 
+hot: báhkas	liekkɑs 
+warm: báhkas	liekkɑs 
+water: Caci	čahc̷i	čáhci 
+1 pl. inc.: mi	mii	moai 
+we: mi	mii	moai 
+we₁: mi	mii	moai 
+what: mii 
+white: vielgat	vielgɑt 
+whiteness: vielgat	vielgɑt 
+who: gii 
+who?: gii 
+female: nisu 
+woman: nisu 
+yellow: fiskat	fiskɑt 
+distant: guhkkin 
+far: guhkkin 
+dull: lossat	lossɑt 
+heavy: lossat	lossɑt 
+serious: lossat	lossɑt 
+close: lahka	lɑhkɑ 
+near: lahka	lɑhkɑ 
+ner: lahka	lɑhkɑ 
+salt: salti	sálti 
+short: oanehaš	oɑnehɑš 
+snake: gearpmaš	geɑr̃pmɑš 
+thin: ruoinnas	ɑsehɑš 
+wind: biegga	bieggɑ 
+earthworm: mahtu	máhtu 
+worm: mahtu	máhtu 
+year: jahki	yɑhki 
+3 sg.: son 
+he: son 
+she: son 
+2 pl.: dii	doai	doɑi 
+ye: dii	doai	doɑi 
+you all: dii	doai	doɑi 
+3 pl.: sii	soai	soɑi 
+they: sii	soai	soɑi 
+here: dáppe	dás 
+there: dieppe	doppe	duoppe 
+where: gos 
+where?: gos 
+when: go	goas 
+when?: go	goas 
+how: man	mo	mot	movt 
+how?: man	mo	mot	movt 
+some: muhtin	muhtumat 
+few: unnan	veha 
+other: eará 
+three: golbma	golbmɑ 
+four: njeallje	ɲeɑllye 
+five: vihtta	vihttɑ 
+broad: viiddis 
+wide: viiddis 
+wideness: viiddis 
+fat: buoidi 
+thick: gɑssɑt 
+narrow: bɑski 
+child: manna	mánná 
+principal wife: ahkka	eamit 
+wife: ahkka	eamit 
+husband: boɑdɲi	isit 
+his mother: eadni	eɑdni 
+mother: eadni	eɑdni 
+my mother: eadni	eɑdni 
+father: ahčči	áhčči 
+his father: ahčči	áhčči 
+my father: ahčči	áhčči 
+animal: ealli	eɑlli 
+forest: meahcci	vuovdi 
+woods: meahcci	vuovdi 
+branch: oaksi	oɑksi 
+stick: oaksi	oɑksi 
+fruit: šaddu	šattoš	šɑddu 
+flower: lieðði	rássi 
+grass: r̃assi	suoidni 
+cord: baddi	báddi 
+rope: baddi	báddi 
+grease: buoidi 
+fingernail: gazza	gɑd͜zd͜zɑ 
+leg: juolgi	yuolgi 
+arm: giehta 
+wing: soadji	soɑdya 
+gut: siskiluš	čoalli 
+guts: siskiluš	čoalli 
+insides: siskiluš	čoalli 
+intestine: siskiluš	čoalli 
+intestines: siskiluš	čoalli 
+back: seɑlgi	čielgi 
+suck: njammat	ɲɑmmɑt 
+spit: čolgɑt 
+vomit: vuovssat	vuovssɑdit 
+blow: bieggɑt	bosadit 
+breath: vuoigŋat	vuoigŋɑ	vuoigŋɑt 
+breathe: vuoigŋat	vuoigŋɑ	vuoigŋɑt 
+laugh: boagustit	čɑibmɑt 
+laughter: boagustit	čɑibmɑt 
+cogitate: jurddašit	yur̃ddɑšit 
+reflect: jurddašit	yur̃ddɑšit 
+think: jurddašit	yur̃ddɑšit 
+smell: hɑksit 
+sniff: hɑksit 
+afraid: ballat	bɑllu	hir̃bmɑ 
+be afraid: ballat	bɑllu	hir̃bmɑ 
+fear: ballat	bɑllu	hir̃bmɑ 
+fright: ballat	bɑllu	hir̃bmɑ 
+alive: eɑlli	eɑllin	eɑllit	orrut 
+be alive: eɑlli	eɑllin	eɑllit	orrut 
+life: eɑlli	eɑllin	eɑllit	orrut 
+live: eɑlli	eɑllin	eɑllit	orrut 
+living: eɑlli	eɑllin	eɑllit	orrut 
+fight: doɑr̃r̃ut	riidalit 
+hunt: bivdit	meɑhc̷astit 
+beat: huškut 
+hit: huškut 
+strike: huškut 
+cut: čuohppat	čuohppɑt 
+hack: čuohppat	čuohppɑt 
+cut open: luoddut 
+split: luoddut 
+pierce: r̃uovdadit 
+stab: r̃uovdadit 
+dig: goaivut	goɑivut 
+tell lies: gielastit	gielistit	goarjadit	livvadit	veallát 
+stand: čuožžut	čuoǰǰut 
+turn: jorggihit	yor̃ggihit 
+turn around: jorggihit	yor̃ggihit 
+turn round: jorggihit	yor̃ggihit 
+drop: gahččat	gɑhččɑt 
+fall: gahččat	gɑhččɑt 
+grasp: doallat	doɑllɑt 
+hold: doallat	doɑllɑt 
+hold in arm: doallat	doɑllɑt 
+squeeze: botɲɑt 
+wring: botɲɑt 
+rub: r̃uvvet 
+wipe: r̃uvvet 
+wash: bassat	bɑssɑt 
+wash clothes: bassat	bɑssɑt 
+pull: geassit 
+push: hoigat	sahčɑt 
+shove: hoigat	sahčɑt 
+throw: balkestit	bálkestit 
+bind: čatnat	čɑtnɑt 
+fasten: čatnat	čɑtnɑt 
+tie: čatnat	čɑtnɑt 
+tie up: čatnat	čɑtnɑt 
+sew: goarrut	goɑr̃r̃ut 
+count: lohkɑt	rehkenastit 
+enumerate: lohkɑt	rehkenastit 
+number: lohkɑt	rehkenastit 
+tally: lohkɑt	rehkenastit 
+sing: lavlut	lávlut 
+have fun: stoahkat	stoɑhkɑt 
+play: stoahkat	stoɑhkɑt 
+float: r̃ievdɑt 
+flow: golgɑt 
+freeze: jiekŋut 
+brook: ayɑ	johka	yohkɑ 
+river: ayɑ	johka	yohkɑ 
+stream: ayɑ	johka	yohkɑ 
+lake: jávri	yavr̃i 
+ocean: mearra	meɑr̃r̃ɑ 
+sea: mearra	meɑr̃r̃ɑ 
+dust: gɑvyɑ 
+fog: mierka	mier̃ka 
+sky: albmi	ɑlbmi 
+snow: muohta	muohtɑ 
+ice: jiekŋa	yiekŋɑ 
+blaze: buollit 
+burn: buollit 
+day: beaivi	beɑivi 
+daylight: beaivi	beɑivi 
+daytime: beaivi	beɑivi 
+old: boaris 
+bad: heittot	heɑdyu 
+evil: heittot	heɑdyu 
+rot: mieskkɑs 
+rotten: mieskkɑs 
+dirty: duolvvas	duolvvɑs 
+filthy: duolvvas	duolvvɑs 
+soiled: duolvvas	duolvvɑs 
+straight: ɲuolgɑt 
+sharp: bastil	bɑstil 
+blunt: dulppɑs 
+smooth: duolba	livttis 
+damp: lavttɑs	njuoskkes	ɲuoskkɑs 
+wet: lavttɑs	njuoskkes	ɲuoskkɑs 
+correct: riekta	r̃iektɑt 
+right side: olgeš 
+left: gurut	gur̃ut 
+at: -s 
+in: -s	siste 
+inside: -s	siste 
+with: mielde 
+and: ja	yɑ 
+if: juos	jus	yuos 
+because: dihte	dɑinnɑ go	geažil 

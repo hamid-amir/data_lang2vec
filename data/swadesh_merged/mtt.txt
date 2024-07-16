@@ -1,0 +1,271 @@
+all: gese	nol 
+every: gese	nol 
+ash: tarowo	tuwus 
+ashes: tarowo	tuwus 
+abdomen: toqai 
+belly: toqai 
+big: lava	poa 
+bigness: lava	poa 
+large: lava	poa 
+bird: manu 
+bite: ŋau	ŋit 
+black: siliga 
+blood: nara 
+bone: sur[iu]	suri 
+breast: sus[iu]	susu 
+breasts: sus[iu]	susu 
+burn: siŋ 
+burn tr.: siŋ 
+cloud: maligo 
+cold: mamarir 
+come: ba ma	vano ma 
+come from: ba ma	vano ma 
+be dead: mate 
+dead: mate 
+die: mate 
+dog: kurut 
+drink: ima	un 
+dry: mamasa	raŋo 
+ear: kpw$oro	qoroi 
+eat: gan[a] 
+egg: toliu 
+eye: mata	matai 
+feather: ul[ui] 
+fire: ab	av 
+fish: iga	ixa 
+fly: gawa	rowo 
+fly v.: gawa	rowo 
+good: wia 
+green: gesagesaga	turturuga 
+hair: ului 
+hand: pane	panei 
+left hand: pane	panei 
+right: pane	panei 
+head: qatiu 
+hear: roNotax	roŋo|tag 
+1 sg.: [i]nau	inau 
+I: [i]nau	inau 
+kill: vus mate 
+knee: kpw$au 
+be knowledgeable: gilala 
+know: gilala 
+leaf: naui	no 
+lie: risa 
+lie down: risa 
+liver: bara	varai 
+long: tole 
+head louse: wut 
+louse: wut 
+male: ata 
+man: ta-nun	tanun 
+moon: vula 
+hill: tauwe 
+mountain: tauwe 
+mouth: valai 
+name: sasa	sasai 
+title: sasa	sasai 
+neck: nenei 
+new: garaqa	xarakpw$a 
+night: kpw$oN	qoŋ 
+nighttime: kpw$oN	qoŋ 
+nose: manu	manui 
+adulterous: tuwale 
+one: tuwale 
+single: tuwale 
+that: ilone	ine 
+the: tuwale 
+unprincipled: tuwale 
+human: ta-nun	tanun 
+human being: ta-nun	tanun 
+person: ta-nun	tanun 
+rain: wena 
+rainy weather: wena 
+red: memea	soroga 
+path: mate-sala	sala 
+road: mate-sala	sala 
+route: mate-sala	sala 
+root: gariu 
+sand: one 
+say: vava	vet 
+see: ilo 
+sit: pute 
+hide: bini	vinitiu 
+skin: bini	vinitiu 
+sleep: matur 
+little: mantagai 
+small: mantagai 
+smallness: mantagai 
+smoke: as[u] 
+star: bisiu	vitu 
+rock: bat	vat 
+stone: bat	vat 
+sun: loa 
+swim: gagao	garu 
+tail: goloi 
+this: ike	iloke 
+2 sg: [i]niko	iniko 
+thou: [i]niko	iniko 
+you: [i]niko	iniko 
+tongue: garamwea|i	xaramea 
+tooth: liwo	liwoi 
+tree: tanx~ae 
+grind: ni-rua	rua 
+two: ni-rua	rua 
+go: van[o] 
+walk: van[o] 
+hot: titin	titkeliga 
+warm: titin	titkeliga 
+water: pei 
+1 pl. inc.: [i]kamam	[i]nina	inina 
+we: [i]kamam	[i]nina	inina 
+we₁: [i]kamam	[i]nina	inina 
+what: sava 
+white: aqaga	wowoga 
+whiteness: aqaga	wowoga 
+who: [i]sei 
+who?: [i]sei 
+female: vavine 
+woman: vavine 
+yellow: aŋoaŋo	pepega 
+distant: aras	sau 
+far: aras	sau 
+dull: mava 
+heavy: mava 
+serious: mava 
+close: peteŋ	rivtag	wenwen 
+near: peteŋ	rivtag	wenwen 
+ner: peteŋ	rivtag	wenwen 
+salt: nawo 
+short: qatutui 
+snake: mwata 
+thin: mavinvin 
+wind: laŋ 
+earthworm: sulate 
+worm: sulate 
+year: tau 
+2 pl.: [i] kamiu 
+ye: [i] kamiu 
+you all: [i] kamiu 
+3 pl.: [i] neira 
+they: [i] neira 
+where: vea 
+where?: vea 
+when: [a]ŋaisa 
+when?: [a]ŋaisa 
+how: gasavai	gasei	tamwavea 
+how?: gasavai	gasei	tamwavea 
+other: tuara 
+three: ni-tol	tole 
+four: ni-βat	vat 
+five: lima	taβe-lima 
+broad: tawela 
+wide: tawela 
+wideness: tawela 
+fat: garake 
+thick: matoltol 
+narrow: kokota 
+principal wife: rasoai 
+wife: rasoai 
+husband: rasoai 
+his mother: veve 
+mother: veve 
+my mother: veve 
+father: mama	tamai 
+his father: mama	tamai 
+my father: mama	tamai 
+forest: mwot	uta 
+woods: mwot	uta 
+branch: waŋarai 
+stick: waŋarai 
+fruit: woai 
+flower: tawaga|siu 
+grass: valis 
+cord: tali 
+rope: tali 
+flesh: visogoi 
+meat: visogoi 
+grease: garake 
+wing: panei 
+gut: tinai 
+guts: tinai 
+insides: tinai 
+intestine: tinai 
+intestines: tinai 
+back: kulai	tagir 
+suck: sis	sus 
+spit: anus 
+vomit: lua 
+blow: sawu	uw 
+breath: mapsag 
+breathe: mapsag 
+laugh: mwarae 
+laughter: mwarae 
+cogitate: nonom 
+reflect: nonom 
+think: nonom 
+smell: soman 
+sniff: soman 
+afraid: gogolo 
+be afraid: gogolo 
+fear: gogolo 
+fright: gogolo 
+alive: es 
+be alive: es 
+life: es 
+live: es 
+living: es 
+hunt: ganagana 
+beat: tut	vus 
+hit: tut	vus 
+strike: tut	vus 
+cut: tara 
+hack: tara 
+cut open: [gara]wora 
+split: [gara]wora 
+pierce: as	sar 
+stab: as	sar 
+scratch: gagata	karu 
+dig: gil	nur 
+stand: tira	tur 
+drop: mwas[u] 
+fall: mwas[u] 
+grasp: taur 
+hold: taur 
+hold in arm: taur 
+squeeze: gavir	totos 
+wring: gavir	totos 
+throw: vivir 
+bind: vil 
+fasten: vil 
+tie: vil 
+tie up: vil 
+sew: susur 
+count: liwun 
+enumerate: liwun 
+number: liwun 
+tally: liwun 
+flow: sale	wera 
+lake: pei lava 
+ocean: lama	nawo 
+sea: lama	nawo 
+dust: wuwua 
+fog: marav 
+sky: tuka 
+bad: malkeke	tatas 
+evil: malkeke	tatas 
+rot: naru 
+rotten: naru 
+dirty: lepa	pulua 
+filthy: lepa	pulua 
+soiled: lepa	pulua 
+sharp: tup 
+blunt: qatwono 
+damp: nima 
+wet: nima 
+right side: matua 
+left: galao 
+at: apegalo	apemaragai 
+in: a-lo	i-lo	loloi 
+inside: a-lo	i-lo	loloi 
+and: ta	wa 
+if: menigiu 

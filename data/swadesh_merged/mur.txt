@@ -1,0 +1,333 @@
+all: d\oːko | dʼoːko	ɗòː-k 
+animal: kɛlɛgé 
+animal: kɛlɛkí 
+arm: ɛɓa 
+arm: ɛɓæːti 
+arrow: ðalač 
+ashes: buːr | buːr	bùr 
+back: ɓowič\ 
+bad: gɛrðɛ́ 
+bark: mɛlɛːk | mɛlɛːk	ɓɔ̀lɔ́ː-k 
+belly: keːŋ | keːŋ	kɛ́ːŋ 
+big: adɪgɪrr | adɪgɪrr	ápːè	ǎpì 
+big: (č)ǎpì | adɪgɪrr	ápːè	ǎpì 
+bird: kibalɛtʲ | kibalɛtʲ	kíɓálːì-č 
+bite: adaːk | adaːk	ɗaki	ɗák 
+bite: ɗaki | adaːk	ɗaki	ɗák 
+black: kɔːli | kólì	kɔːli	očoli 
+black: očoli | kólì	kɔːli	očoli 
+blood: biːyeː | biye	biːyeː	ɓiyê	ɓíyè 
+blood: ɓiyê | biye	biːyeː	ɓiyê	ɓíyè 
+blow: kaɓó 
+blow: toɓo 
+bone: amɛ́ | amɛn	amɛ́	roEty~	rɔɛːtʲ	ámːɛ́ː-n 
+bone: amɛn | amɛn	amɛ́	roEty~	rɔɛːtʲ	ámːɛ́ː-n 
+bone: rɔɛːtʲ | amɛn	amɛ́	roEty~	rɔɛːtʲ	ámːɛ́ː-n 
+breast: kéðìn | ke8	keðìt	keːθ	kéðìn	ðind-eti 
+breast: keðìt | ke8	keðìt	keːθ	kéðìn	ðind-eti 
+breast: keːθ | ke8	keðìt	keːθ	kéðìn	ðind-eti 
+brother: alaɲit 
+brother: gɔtɔni 
+brother: vadɛ 
+brother: vat 
+burn: avaːt | toð 
+burn: kotâ | toð 
+burn: owat | toð 
+chest: eyɔ̀ 
+child: dɔl 
+child: ɗoleč 
+chin: nyemurèt 
+claw: fəleyit | fəleyit	válːá-ìt 
+cloud: diːð | diːð	ɗìːð-oč	ɗíðwá	ɗîðɔ̀ 
+cloud: ɗîðɔ̀ | diːð	ɗìːð-oč	ɗíðwá	ɗîðɔ̀ 
+cloud: ɗíðwá | diːð	ɗìːð-oč	ɗíðwá	ɗîðɔ̀ 
+cold: alal | alal	lɛǯʲu	á=làl 
+cold: lɛǯʲu | alal	lɛǯʲu	á=làl 
+come: iǯɛ | =k=u	ijE	iǯɛ	kakun	íǯː-à 
+come: kakun | =k=u	ijE	iǯɛ	kakun	íǯː-à 
+count: agil 
+count: kakɛ̂p 
+cut: atɛt 
+daughter: ɗoleciŋàč 
+day: iː 
+day: kɔr 
+die: aðai | aday	aday-	aðai	ɗáːk 
+die: aday˗ | aday	aday-	aðai	ɗáːk 
+dig: kaɗáːlòč 
+dog: orðé | oros	orðé	ɔroθ	ɔrrɔs	ʋ́rʋ̀ð 
+dog: ɔroθ | oros	orðé	ɔroθ	ɔrrɔs	ʋ́rʋ̀ð 
+dog: ɔrrɔs | oros	orðé	ɔroθ	ɔrrɔs	ʋ́rʋ̀ð 
+drink: awuɗi | awuɗi	wuTe	wude	wɷdʼe	wʋ́t 
+drink: wd\e | awuɗi	wuTe	wude	wɷdʼe	wʋ́t 
+dry: ɔdɔy | à=ɗɔ́ː-y	ɔdɔy 
+dust: tɔdɔ 
+ear: itàt | it3t	itàt	iːtət	í-tːàt 
+ear: iːtət | it3t	itàt	iːtət	í-tːàt 
+earth: tɔɗɔwar | lóː-č 
+eat: ɗaki | dʼawɔ	kaɗui	ɗaki	ɗák 
+eat: d\awɔ | dʼawɔ	kaɗui	ɗaki	ɗák 
+eat: kaɗui | dʼawɔ	kaɗui	ɗaki	ɗák 
+egg: bro | buro	bɷro	ɓʋ́ːrɔ̀ 
+egg: buro | buro	bɷro	ɓʋ́ːrɔ̀ 
+elbow: lubuli 
+eye: kɪbereːč | kibereC	kɛ́βɛ̀rɛ̀	kɪbereːč 
+face: ŋum 
+fall: itya 
+fall: iya 
+father: b\ab\aː 
+father: ɓate 
+fat (n.): nɔ́rrɔ̀č 
+fat (n.): wtʲi 
+fear: koŋolɪ̂ 
+fight: karwónà 
+finger: komolit 
+fingernail: falak 
+fire: goː | go	goː	gu	ɠó 
+fire: gu | go	goː	gu	ɠó 
+fish: kulu | k=úlúɠ-ìt	kulu	kulugit 
+fish: kulugit | k=úlúɠ-ìt	kulu	kulugit 
+five: tur 
+fly (n.): kiroŋit 
+fly (v.): okúl 
+foot: ðɔː | ðoč	ðòː-č	ðɔː 
+foot: ðoč | ðoč	ðòː-č	ðɔː 
+forest: kilyač 
+four: weč 
+girl: agul 
+girl: ɗolečiŋàːč 
+give: ɛnyɛk | nya	nyandà	à=ɲèː-k	ɛnyɛk 
+give: nya(ndà) | nya	nyandà	à=ɲèː-k	ɛnyɛk 
+good: abn | abɷn	aɓún	à=bːón 
+good: aɓún | abɷn	aɓún	à=bːón 
+grass: arteːn 
+grass: ðari 
+green: čolak | čolak	ɕola-i 
+guts: koloktɛ̀ 
+guts: kolotɛ̀č 
+hair: em | em	ima	ímà 
+hair: ima | em	ima	ímà 
+hand: aːðeːtʲ | aðin	aːðeːtʲ	em	áðːì-t 
+hand: aðin | aðin	aːðeːtʲ	em	áðːì-t 
+head: (h)ɔː | hɔː	óti	ɔː	ɔ̀ː 
+head: ɔː | hɔː	óti	ɔː	ɔ̀ː 
+head: óti | hɔː	óti	ɔː	ɔ̀ː 
+hear: ðeːɔ | 8eo	kɛðɪ	kɛðɪwɔ̀	zìk	ðeːɔ 
+hear: kɛðɪ(wɔ̀) | 8eo	kɛðɪ	kɛðɪwɔ̀	zìk	ðeːɔ 
+heart: ðinið | nyinɪs	zíníð	ðinið 
+heart: nyinɪs | nyinɪs	zíníð	ðinið 
+he/she: čení 
+he/she: čigin 
+he/she: (ɛčó) 
+he/she: gi 
+he/she: nya 
+horn: ɔtɔn | oton	ótːò-n	ɔtɔn 
+house: čieð 
+husband: etčimaːči 
+I: aneːt | anet	aneːt	nánà	à-n-ɛ̀ːtːà 
+I: anet(a) | anet	aneːt	nánà	à-n-ɛ̀ːtːà 
+I: čan | anet	aneːt	nánà	à-n-ɛ̀ːtːà 
+I: nánà | anet	aneːt	nánà	à-n-ɛ̀ːtːà 
+kill: eruk | eruk	kətʰ	rʋ́k 
+kill: kətʰ | eruk	kətʰ	rʋ́k 
+knee: kɔðɔŋ | ko8oN	kɔðɔŋ	kʋ́ðːʋ̀ŋ 
+know: kaːga | kaːga	ɠáː 
+laugh: karar 
+leaf: itəːt˗ | it3t	itəːt-	ɓólóyí-tòt 
+left: či kaŋetit 
+lie: kataŋu | kataŋu	oŋ	oŋ-ɔŋ 
+liver: nyɔː | 5o	nyɔː	ɲɔ́ː 
+long: wːn | wúːn	wɷːn 
+louse: rrɔyeč | royeC	ìɲì-tːàt 
+man: eːtʲ | ety~	éːt 
+many: mɛleː | mɛleː	mɛ̀ːlɛ̀ 
+meat: idiŋ | íɗìŋ 
+moon: nyeːlɔkɔ | nyeːlɔkɔ	ɲéːlò-k 
+mother: yai 
+mountain: beʲ | be	bey	beʲ	ɓɛ̀ 
+mountain: bɛ | be	bey	beʲ	ɓɛ̀ 
+mouth: ɔtɔkɔ | ɔtɔkɔ	ʋ́tːʋ̀-k 
+name: ðaːr | 8ar	záːr	ðaːr 
+neck: alem | alem	inya	íɲːà 
+neck: inya | alem	inya	íɲːà 
+new: čɔlak | Colak	čɔlak	čʋ́lá-k 
+night: baːl | balin	baːl	bʼaliːn	ɓáːl-ìn 
+night: b\aliːn | balin	baːl	bʼaliːn	ɓáːl-ìn 
+one: adoi | adoi	codoi	áɗó-ì	čoɗóì 
+one: čoɗóì | adoi	codoi	áɗó-ì	čoɗóì 
+other: uːma 
+rain: təmʷ támà | támà	támːù	təmᵘ 
+rat: muɗêč 
+red: meri | meri	meriːk	mɛ́rɩ́-k 
+red: meriːk | meri	meriːk	mɛ́rɩ́-k 
+right: čaði | aðin	aːðeːtʲ	em	áðːì-t 
+river: lel 
+road: gɔːl | gol	ɠɔ́ːl 
+root: agɛrnat | agɛrnat	áɠɛ́r-náːt 
+salt: kado | kado	mɩ́lɛ̀ 
+sand: kaðaːč | kaðaːč	káðáː-č 
+say: ðɔð | ðɔːs	ɗʋ́w-à 
+say: ðɔːs | ðɔːs	ɗʋ́w-à 
+see: ačin | Cy~in	ačin	ečina	čɩ́n	čɪn 
+see: čɪn | Cy~in	ačin	ečina	čɩ́n	čɪn 
+seed: ləbiːtot | ləbiːtot	ɗòːwò-č 
+see: ečina | Cy~in	ačin	ečina	čɩ́n	čɪn 
+shoulder: lodom 
+sister: nɔːni 
+sit: afo | afo	ave avu	á-vú 
+sit: ave avu | afo	ave avu	á-vú 
+skin: rtšyɪːn | ruCy~in	ručeːn	rùčːè-n	rɷtšyɪːn 
+skin: ručeːn | ruCy~in	ručeːn	rùčːè-n	rɷtšyɪːn 
+sleep: ɔŋ | taŋu	táŋː-ù	ɔŋ 
+sleep: taŋu | taŋu	táŋː-ù	ɔŋ 
+small: kɪdɪtʲ | kideč	kí=ɗìč	kɪdɪtʲ	miliɲ 
+small: kideč | kideč	kí=ɗìč	kɪdɪtʲ	miliɲ 
+small: miliɲ | kideč	kí=ɗìč	kɪdɪtʲ	miliɲ 
+smoke: brrɛt | burɛ-t	bɷrrɛt 
+snake: kowat | kowat	kʋ́wáː-t	pʼaːpʼu 
+snake: p\aːp\u | kowat	kʋ́wáː-t	pʼaːpʼu 
+son: lɔgoð 
+spit: kerití 
+split: pai 
+stand: abil | ɓíl 
+stand: katiŋa | ɓíl 
+stand: tɪŋa | ɓíl 
+star: mɔɲaɲitoːt | mo5a5itot	moɲaːtɔt	mòɲà-tːòt	mɔɲaɲitoːt 
+star: moɲaːtɔt | mo5a5itot	moɲaːtɔt	mòɲà-tːòt	mɔɲaɲitoːt 
+stone: beːy | bey	beːy	ɓɛ́ː 
+suck: roit 
+suck: rɔk 
+sun: iː | i	iː	kɔr	íː 
+sun: kɔr | i	iː	kɔr	íː 
+sweet: leteč 
+swim: b\aːyiðɔ | bʼaːyiðɔ	tírì 
+tail: kul | kul	kúːl 
+take: ɗúm 
+that: čo | ničo	čo	ɕi	́ ɛču 
+that: čógó | ničo	čo	ɕi	́ ɛču 
+that: ́ ɛču | ničo	čo	ɕi	́ ɛču 
+that: ničo | ničo	čo	ɕi	́ ɛču 
+they: čígêč 
+they: negɪ 
+thin: arabɔk | arabɔk	rɛːrɛ 
+this: čegi | ničo	čení	čóː 
+this: čení | ničo	čení	čóː 
+this: ničo | ničo	čení	čóː 
+thou: čigun | inet	ineːt	nínà	ìŋ=é-tːà 
+thou: čúgùn | inet	ineːt	nínà	ìŋ=é-tːà 
+thou: igeːt | inet	ineːt	nínà	ìŋ=é-tːà 
+thou: igêt | inet	ineːt	nínà	ìŋ=é-tːà 
+thou: ineːt | inet	ineːt	nínà	ìŋ=é-tːà 
+thou: inét | inet	ineːt	nínà	ìŋ=é-tːà 
+thou: niga | inet	ineːt	nínà	ìŋ=é-tːà 
+thou: nínà | inet	ineːt	nínà	ìŋ=é-tːà 
+three: (h)iyu 
+three: iːyu 
+tomorrow: tiŋerê 
+tongue: (h)aːt | at	aːt	hat	haːt	áːt 
+tooth: nɪgɪtaːt | nigitat	nɪgɪtaːt	ɲìɠì-táːt 
+tree: kɛtʲ | kEty~	kɛ́ː-t 
+two: ram | r3m3	ram	rrəmɔ	rámːá 
+two: rrəmɔ | r3m3	ram	rrəmɔ	rámːá 
+walk: ako | tɔ́ː 
+walk: bɪtɔː | tɔ́ː 
+walk: kakûn | tɔ́ː 
+walk: owa | tɔ́ː 
+walk: to | tɔ́ː 
+warm: abrr | abɷrr	à=ɓúr 
+warm: abur | abɷrr	à=ɓúr 
+wash: atɔɲ 
+water: mam | mam	máːm 
+we: ageːt | aget	à-g-étːà 
+we: agêt | aget	à-g-étːà 
+we: čígáǯàk | aget	à-g-étːà 
+weep: lu 
+we: naga(ro) | aget	à-g-étːà 
+wet: čəkčəy 
+wet: čɔkčɔi 
+what: getaːtθ | getaːtθ	nya	náː 
+what: nya | getaːtθ	nya	náː 
+white: ɔvɔr | vɔrr	vɔ́ːr	ɔvɔr 
+white: vɔrr | vɔrr	vɔ́ːr	ɔvɔr 
+who: ŋɛnɛn | ŋɛnɛn	ŋɛ̀n 
+woman: ŋaː | ŋa	ŋaː 
+wood: arima 
+wood: nyadɔrɛč 
+yesterday: ɓalawáθ 
+every: dʼoːko	ɗòː-k 
+ash: buːr	bùr 
+abdomen: keːŋ	kɛ́ːŋ 
+bigness: adɪgɪrr	ápːè	ǎpì 
+large: adɪgɪrr	ápːè	ǎpì 
+breasts: ke8	keðìt	keːθ	kéðìn	ðind-eti 
+burn tr.: toð 
+nail: fəleyit	válːá-ìt 
+talon: fəleyit	válːá-ìt 
+come from: =k=u	ijE	iǯɛ	kakun	íǯː-à 
+be dead: aday	aday-	aðai	ɗáːk 
+dead: aday	aday-	aðai	ɗáːk 
+ground: lóː-č 
+land: lóː-č 
+soil: lóː-č 
+fat: more-ɕ 
+fat n.: more-ɕ 
+grease: more-ɕ 
+lubricant: more-ɕ 
+oil: more-ɕ 
+feather: ròbé-č 
+fly: kul	okúl 
+fly v.: kul	okúl 
+full: à=ɓíð 
+left hand: aðin	aːðeːtʲ	em	áðːì-t 
+1 sg.: anet	aneːt	nánà	à-n-ɛ̀ːtːà 
+be knowledgeable: kaːga	ɠáː 
+lie down: kataŋu	oŋ	oŋ-ɔŋ 
+head louse: royeC	ìɲì-tːàt 
+male: eːtʲ	éːt 
+much: mɛleː	mɛ̀ːlɛ̀ 
+multiple: mɛleː	mɛ̀ːlɛ̀ 
+several: mɛleː	mɛ̀ːlɛ̀ 
+flesh: íɗìŋ 
+hill: be	bey	beʲ	ɓɛ̀ 
+title: 8ar	záːr	ðaːr 
+nighttime: balin	baːl	bʼaliːn	ɓáːl-ìn 
+nose: oNeC	oŋeːč	ʋ́ŋɛ̀-č 
+not: alaŋ	laŋ 
+adulterous: adoi	codoi	áɗó-ì	čoɗóì 
+single: adoi	codoi	áɗó-ì	čoɗóì 
+the: adoi	codoi	áɗó-ì	čoɗóì 
+unprincipled: adoi	codoi	áɗó-ì	čoɗóì 
+human: ety~	éːt 
+human being: ety~	éːt 
+person: ety~	éːt 
+rainy weather: támà	támːù	təmᵘ 
+path: gol	ɠɔ́ːl 
+route: gol	ɠɔ́ːl 
+round: gudgud 
+hide: ruCy~in	ručeːn	rùčːè-n	rɷtšyɪːn 
+little: kideč	kí=ɗìč	kɪdɪtʲ	miliɲ 
+smallness: kideč	kí=ɗìč	kɪdɪtʲ	miliɲ 
+rock: bey	beːy	ɓɛ́ː 
+2 sg: inet	ineːt	nínà	ìŋ=é-tːà 
+you: inet	ineːt	nínà	ìŋ=é-tːà 
+grind: r3m3	ram	rrəmɔ	rámːá 
+go: tɔ́ː 
+hot: abɷrr	à=ɓúr 
+1 pl. inc.: aget	à-g-étːà 
+we₁: aget	à-g-étːà 
+whiteness: vɔrr	vɔ́ːr	ɔvɔr 
+who?: ŋɛnɛn	ŋɛ̀n 
+female: ŋa	ŋaː 
+yellow: maːn 
+distant: dew-a 
+far: dew-a 
+dull: à=ɗìŋɗíŋ 
+heavy: à=ɗìŋɗíŋ 
+serious: à=ɗìŋɗíŋ 
+close: aʓɔn 
+near: aʓɔn 
+ner: aʓɔn 
+short: kú=tːùr 
+wind: ŋɔ́ːt 
+earthworm: baɲ-oɕ 
+worm: baɲ-oɕ 
+year: irik-it 

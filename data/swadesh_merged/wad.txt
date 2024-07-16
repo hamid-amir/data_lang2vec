@@ -1,0 +1,139 @@
+all: sipar	wura 
+every: sipar	wura 
+ash: w|abu 
+ashes: w|abu 
+abdomen: sane 
+belly: sane 
+big: baba 
+bigness: baba 
+large: baba 
+bird: aya 
+bite: karip 
+black: meta[n] 
+blood: ria	ria[t]	riat 
+bone: sina 
+breast: susu 
+breasts: susu 
+burn: kair 
+burn tr.: kair 
+cloud: arepa 
+cold: anuanum	rewas	riesa 
+come: ma	ra|ma 
+come from: ma	ra|ma 
+be dead: boru 
+dead: boru 
+die: boru 
+dog: wona 
+drink: unu	unu[m]	unum 
+dry: masa	parar	sinaya 
+ear: taradir 
+eat: an[pi] 
+egg: ponor[i] 
+eye: re 
+feather: tu[m] 
+fire: adia 
+fish: dia	dia[n]	dian 
+fly: sapop 
+fly v.: sapop 
+good: aten	besyen 
+green: kake 
+hair: runandau 
+hand: vara 
+left hand: vara 
+right: vara 
+head: ru 
+hear: -diawa	diawa 
+1 sg.: yau 
+I: yau 
+kill: mun 
+be knowledgeable: rina 
+know: rina 
+leaf: rau 
+lie: bata 
+lie down: bata 
+liver: ate	ate|ni 
+long: aroi 
+head louse: [r]utu	rutu	utu 
+louse: [r]utu	rutu	utu 
+male: mua[n] 
+man: siniontu	siniont~u 
+moon: sembai 
+mouth: sore 
+name: sano 
+title: sano 
+neck: rau 
+new: vavoru 
+night: diru 
+nighttime: diru 
+nose: suo 
+adulterous: esa	siri 
+one: esa	siri 
+single: esa	siri 
+that: nina	yana 
+the: esa	siri 
+unprincipled: esa	siri 
+human: siniontu	siniont~u 
+human being: siniontu	siniont~u 
+person: siniontu	siniont~u 
+rain: rama 
+rainy weather: rama 
+red: mirai	urar 
+path: ran 
+road: ran 
+route: ran 
+root: war 
+sand: rubua[n] 
+say: oyo	topan 
+see: sayor	ser	ser[a] 
+sit: masoi 
+hide: rawa 
+skin: rawa 
+sleep: ena 
+little: katu 
+small: katu 
+smallness: katu 
+smoke: tup	woyow 
+star: siverere 
+rock: rovuki 
+stone: rovuki 
+swim: as 
+tail: kapupui 
+this: nini	yani 
+2 sg: au 
+thou: au 
+you: au 
+tongue: tapara 
+tooth: dire 
+grind: monu	muandu	muand~u 
+two: monu	muandu	muand~u 
+go: ra 
+walk: ra 
+hot: mas	omar[a] 
+warm: mas	omar[a] 
+water: maria 
+1 pl. inc.: am|at	ta	ta|ta 
+we: am|at	ta	ta|ta 
+we₁: am|at	ta	ta|ta 
+what: vito 
+white: busa[r] 
+whiteness: busa[r] 
+who: tei 
+who?: tei 
+female: babi	vavi[n] 
+woman: babi	vavi[n] 
+yellow: niŋgua[i] 
+distant: woroi 
+far: woroi 
+dull: marabat 
+heavy: marabat 
+serious: marabat 
+close: ariasi 
+near: ariasi 
+ner: ariasi 
+salt: sasi-tarai 
+short: tanam 
+snake: korow	tawai 
+thin: minis 
+wind: wana 
+earthworm: kasibui 
+worm: kasibui 

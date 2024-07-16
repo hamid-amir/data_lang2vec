@@ -1,0 +1,134 @@
+all: miɛnni 
+every: miɛnni 
+ash: túnʔɔ́	túɔnrɔ̄	túɔɲɔ́ 
+ashes: túnʔɔ́	túɔnrɔ̄	túɔɲɔ́ 
+abdomen: liyɛ 
+belly: liyɛ 
+big: kpáʔà 
+bigness: kpáʔà 
+large: kpáʔà 
+bird: sinyápīgɛ̄lɛ̀	sínyápīlè 
+bite: nɔ 
+black: wuɔ	wūʔɔ̄lɔ̄ 
+blood: sīsíɛ̃́ 
+bone: kācégè	kācéyè 
+breast: yīrīgɛ̄lɛ̀	yīrīlē 
+breasts: yīrīgɛ̄lɛ̀	yīrīlē 
+claw: kã̄miyī-ye	kã̄miyīŋgē 
+nail: kã̄miyī-ye	kã̄miyīŋgē 
+talon: kã̄miyī-ye	kã̄miyīŋgē 
+cloud: kāsādúbɔ́gɔ̄	kāsādúbɔ́yɔ̄ 
+cold: ni ɲinɛ̀	ɲīgɛ̀ 
+come: pan	pen 
+come from: pan	pen 
+be dead: kuʼu 
+dead: kuʼu 
+die: kuʼu 
+dog: pónmúnò	pún 
+drink: gbuɔ	gbuʼun 
+dry: wàʔà là nì	wàʔà wà wì 
+ear: ŋ̀gbóolɪ̀	ŋ̀gbúʔùlò 
+eat: ka	li 
+egg: cɛ̄ngɛ̄lɛ́	cɛ̄nnɛ̄ 
+eye: ɲāpilē	ɲāpìgɛ̄lɛ̄ 
+feather: -re	geʼesi-ye	gēʼēsīìgè 
+fire: hásūn-yɔ̀	kàsūn 
+fish: fúɔ́	fúɔ́lɔ́ 
+fly: finni 
+fly v.: finni 
+foot: yēdàáfɔ́būyō	yēdáafɔ́būgɔ̄ 
+full: ɲĩ̄ 
+give: kɛn 
+good: tɛ̀nwɛ̀ 
+hair: sīré	sīyé 
+hand: kādaālā	kādāʔālā 
+left hand: kādaālā	kādāʔālā 
+right: kādaālā	kādāʔālā 
+head: yūgò	yūyò 
+hear: luru	luʔu 
+horn: ɲɛ̄gɛ̄lɛ̄	ɲɛ̄nɛ̄ 
+1 sg.: mi 
+I: mi 
+kill: gbu 
+be knowledgeable: cɛ̃ 
+know: cɛ̃ 
+leaf: wágá	wáyɛ́ 
+lie: sĩnɛ 
+lie down: sĩnɛ 
+male: nɛgu ɔ	nɛguɔlɔ 
+man: siɛ̃	siɛ̄nɛ 
+many: niʔɛgɛ 
+much: niʔɛgɛ 
+multiple: niʔɛgɛ 
+several: niʔɛgɛ 
+moon: yɛyɛ	yɛ́gɛ́ 
+hill: -rō	ɲágūrūgō	ɲágūrūyō 
+mountain: -rō	ɲágūrūgō	ɲágūrūyō 
+mouth: ɲuɔ	ɲūɔ-rɔ	ɲūɔ-yɔ 
+name: miɛyɛ	miʔɛ 
+title: miɛyɛ	miʔɛ 
+new: fɔ́nwɔ̃	kifɔ́ngɔ̃ 
+night: pilíyē	pi̪lígē 
+nighttime: pilíyē	pi̪lígē 
+nose: fĩnáānā	fĩ̄náʔànā 
+not: fali	we 
+adulterous: nīgbē 
+one: nīgbē 
+single: nīgbē 
+that: gaʼa ge 
+the: nīgbē 
+unprincipled: nīgbē 
+human: siɛ̃	siɛ̄nɛ 
+human being: siɛ̃	siɛ̄nɛ 
+person: siɛ̃	siɛ̄nɛ 
+rain: kasa ra	kasa ya	kāsáʔà 
+rainy weather: kasa ra	kasa ya	kāsáʔà 
+red: ɲiɛwɛ wi	ɲíʔɛ̄ 
+root: nígē	níyɛ̄ 
+round: kòrūrō 
+sand: dírámìʔɛ̀ 
+say: yoʼo	ɲuʼu 
+see: ɲaʔa	ɲaʼa 
+sit: tɛnni 
+hide: sɛ̄n gɛ̀	sɛ̄n-yɛ̀ 
+skin: sɛ̄n gɛ̀	sɛ̄n-yɛ̀ 
+sleep: ŋwɔni 
+little: cīɛlɛ̄ 
+small: cīɛlɛ̄ 
+smallness: cīɛlɛ̄ 
+smoke: wírígé	wíríré	wíríyé 
+star: -rɔ	ŋwuɔ́nɔ́	ŋwúʔɔ́nɔ́ 
+rock: hadɛ̃nible	kàdɛ̃ʏ̈nìbīrē	kádɛ̃ʏ̈nìbìlɛ̄ 
+stone: hadɛ̃nible	kàdɛ̃ʏ̈nìbīrē	kádɛ̃ʏ̈nìbìlɛ̄ 
+sun: cɛ́ngɛ́ 
+tail: -rɛ	nɛ̄gɛ̀	nɛ̄yɛ̄ 
+this: gaʼa ge 
+2 sg: mo 
+thou: mo 
+you: mo 
+tongue: ɲīgɛ̄lɛ̀	ɲīnɛ̄ 
+tooth: gãʔànà	gāãʏ̈nà 
+grind: sɪ̀n 
+two: sɪ̀n 
+go: tã́arí	tã́ʔã́ 
+walk: tã́arí	tã́ʔã́ 
+water: lúʔɔ̄ 
+what: gaʼa 
+white: fígè	fíyè 
+whiteness: fígè	fíyè 
+who: ŋwaʼa 
+who?: ŋwaʼa 
+female: cɛ́lìwà 
+woman: cɛ́lìwà 
+distant: liʔi 
+far: liʔi 
+dull: sílūbūwō	sɪ́lūbūgō 
+heavy: sílūbūwō	sɪ́lūbūgō 
+serious: sílūbūwō	sɪ́lūbūgō 
+close: taʼanni 
+near: taʼanni 
+ner: taʼanni 
+salt: yāsūʔɔ̄gɔ̄ 
+short: werile ni	wèrìgè gi 
+snake: wɔ́búgɔ̄	wɔ́būyɔ 
+year: yiɛ̄lɛ̄	yīʔɛ̄lɛ́ 

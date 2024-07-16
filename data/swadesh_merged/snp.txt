@@ -1,0 +1,352 @@
+all: muki 
+arrow: ide 
+arrow: ile 
+arrow: ire 
+ashes: laina 
+back: me(ya) 
+bad: kembiri 
+bad: nosama 
+bad: nosa(maiye) 
+bad: nosamie 
+bark: atuwa 
+belly: mulu(na) | mulu	muluna	muru-na	sebe	si	siya 
+belly: muru-na | mulu	muluna	muru-na	sebe	si	siya 
+belly: sebe | mulu	muluna	muru-na	sebe	si	siya 
+belly: si(ya) | mulu	muluna	muru-na	sebe	si	siya 
+big: namba | namba	namɸa 
+big: namφa | namba	namɸa 
+bird: kua | kua	nema 
+bird: nema | kua	nema 
+bite: adala of(aiye) | adala of	adala ofaiye	n	naiye 
+bite: n(aiye) | adala of	adala ofaiye	n	naiye 
+black: lumu | lumu	rumu	rumuɸa 
+black: rumu | lumu	rumu	rumuɸa 
+black: rumuφa | lumu	rumu	rumuɸa 
+blood: vani | vani	wanu 
+blood: wanu | vani	wanu 
+bone: amwaka | amwaka	auma	aumwa 
+bone: auma | amwaka	auma	aumwa 
+boy: kipa 
+boy: kiφa 
+boy: nomiripa 
+breast: ami-na | ami	ami-na	amina	aminte 
+breast: ami(na) | ami	ami-na	amina	aminte 
+brother: kunaraφo 
+brother: makapa 
+brother: ya(lafo) 
+brother: yaraφo 
+burn: l(iye) 
+cassowary: orona 
+chest: iki 
+child: namuna 
+child: niφa 
+chin: maina 
+claw: kowa 
+cloud: hosina | hosina	limu	rimu 
+cloud: limu | hosina	limu	rimu 
+cloud: rimu | hosina	limu	rimu 
+cold: (liye) epe 
+come: ano | ano	enaiye	enaŋgore	ø	øaiye 
+come: enanggore | ano	enaiye	enaŋgore	ø	øaiye 
+come: enaŋgore | ano	enaiye	enaŋgore	ø	øaiye 
+come: ø(aiye) | ano	enaiye	enaŋgore	ø	øaiye 
+daughter: oruruafo 
+day: lunanga 
+die: fol(aiye) | fol	folaiye	foraiye 
+die: forei | fol	folaiye	foraiye 
+dog: kula | kula	kura	kuʔra 
+dog: kura | kula	kura	kuʔra 
+dog: ku\ra | kula	kura	kuʔra 
+dog: kuʔra | kula	kura	kuʔra 
+drink: n(aiye) | n	naiye	nenai 
+drink: nenai | n	naiye	nenai 
+dry: ngend(iye) | ngend	ngendiye 
+ear: kaka | hate	ka	ka-ne	kaka	kala 
+ear: ka(la) | hate	ka	ka-ne	kaka	kala 
+ear: ka-ne | hate	ka	ka-ne	kaka	kala 
+earth: mika 
+earth: mika- 
+eat: n(aiye) | n	naiye	nowe	nó- 
+eat: nó- | n	naiye	nowe	nó- 
+eat: nowe | n	naiye	nowe	nó- 
+egg: mula 
+elbow: (ana) umola 
+emu: olona 
+emu: orona 
+eye: omu(na) | omu	omun-e	omuna	omunte	omuŋga 
+eye: omun-e | omu	omun-e	omuna	omunte	omuŋga 
+eye: ómunga | omu	omun-e	omuna	omunte	omuŋga 
+eye: omuŋga | omu	omun-e	omuna	omunte	omuŋga 
+fall: olumo wi(yaiye) 
+father: me(lafo) 
+father: vano 
+fat (n.): kawa-ne 
+fat (n.): ndunuma 
+feather: yowa(la) | yowa	yowala 
+finger: an- 
+finger: menuwa 
+fire: yo 
+fish: laefa | feni	laefa	ɸeni 
+fish: φeni | feni	laefa	ɸeni 
+fly (v.): bul(iye) 
+foot: kiangga | kiaŋga	kiya	kiyana 
+foot: kiaŋga | kiaŋga	kiya	kiyana 
+foot: kiya(na) | kiaŋga	kiya	kiyana 
+forehead: onomba(la) 
+full: fait(iye) | fait	faitiye	kura 
+girl: momiri 
+girl: nomili 
+girl: nomiri 
+girl: noḿlí 
+give: om(aiye) | om	omaiye 
+good: doro | doro	lalo	raro 
+good: lalo | doro	lalo	raro 
+good: raro | doro	lalo	raro 
+green: yailako 
+hair: yowa(la) | yowa	yowala	yowara 
+hair: yowara | yowa	yowala	yowara 
+hand: a(na) | a	an-a	ana	ante	oŋgamwa 
+hand: an-a | a	an-a	ana	ante	oŋgamwa 
+hand: onggamwa | a	an-a	ana	ante	oŋgamwa 
+hand: oŋgamwa | a	an-a	ana	ante	oŋgamwa 
+head: ate(la) | ate	atela	atera	mane	mane-na	manena	manuŋga 
+head: atera | ate	atela	atera	mane	mane-na	manena	manuŋga 
+head: mane-na | ate	atela	atera	mane	mane-na	manena	manuŋga 
+head: mane(na) | ate	atela	atera	mane	mane-na	manena	manuŋga 
+head: manungga | ate	atela	atera	mane	mane-na	manena	manuŋga 
+head: manuŋga | ate	atela	atera	mane	mane-na	manena	manuŋga 
+hear: horo | horaiye	horo	kol	kolaiye 
+hear: kol(aiye) | horaiye	horo	kol	kolaiye 
+heart: komo(la) | komo	komola 
+heavy: keina (iye) 
+he/she: ai 
+he/she: a(mo) 
+he/she: ámo 
+he/she: -ra 
+hit: of(aiye) 
+hold: olú- 
+horn: kauwa 
+house: nomuna 
+house: numuna 
+house: numu(na) 
+how: nentinentito 
+I: na(mo) | na	namo	námo 
+I: námo | na	namo	námo 
+I: -ne | na	namo	námo 
+kill: ofo (folaiye) 
+knee: umo(la) | hiante omura	kiante omura	umo	umola 
+know: ey(aiye) | ey	eyaiye	k	kaiye 
+know: k(aiye) | ey	eyaiye	k	kaiye 
+laugh: kiya (iye) 
+leaf: aila | aila	aira	ya aira	yaire 
+leaf: ya aira | aila	aira	ya aira	yaire 
+leg: kia-ne 
+leg: kiya(na) 
+lie: on(aiye) 
+liver: mulu(na) | mulu	muluna	muru-na	murute 
+liver: muru-na | mulu	muluna	muru-na	murute 
+long: fana | fana	ɸanaɸana 
+long: φanaφana | fana	ɸanaɸana 
+louse: nema | ruta	rutu 
+man: ve | wenena 
+man: we | wenena 
+many: muki | muki	so 
+many: so (liye) | muki	so 
+meat: emila 
+meat: keßa 
+moon: ikana 
+morning: lenda 
+morning: renta 
+mother: moyo 
+mother: o(lafo) 
+mountain: kora | kora	mowa 
+mountain: mowa | kora	mowa 
+mouth: veka | veka	we	we-ne	wela 
+mouth: we(la) | veka	we	we-ne	wela 
+mouth: we-ne | veka	we	we-ne	wela 
+name: kamughúrika | kamuɣurika	kuli	kuliya	kuria 
+name: kamuɣurika | kamuɣurika	kuli	kuliya	kuria 
+name: kuli(ya) | kamuɣurika	kuli	kuliya	kuria 
+name: kuria | kamuɣurika	kuli	kuliya	kuria 
+neck: kenomba(la) | kenomba	kenombala 
+new: hoßawa | hova	hoβawa	kofawa 
+new: kofawa | hova	hoβawa	kofawa 
+night: luwaila 
+nose: koka | hora	hote	ko	ko-ne	koka	kola 
+not: -am 
+not: eʔe | -am 
+old: kiriφo 
+old: lila 
+old: (we) kilofo 
+old: (wena) kilofo 
+one: lawo(ko) | karama	lawo	lawoko	rako 
+person: wenena 
+rain: ko 
+rat: kunembe 
+red: kisi | kisi	lafa	rafa	raɸa 
+red: lafa | kisi	lafa	rafa	raɸa 
+red: rafa | kisi	lafa	rafa	raɸa 
+red: raφa | kisi	lafa	rafa	raɸa 
+road: kani | kanu 
+road: kanu 
+root: lufawa 
+round: fouma 
+sand: ake 
+say: l(iye) | l	liye 
+seed: ufa 
+see: ey(aiye) | ey	eyaiye	haiye	heaiye	k	kaiye	kó- 
+see: k(aiye) | ey	eyaiye	haiye	heaiye	k	kaiye	kó- 
+see: kó- | ey	eyaiye	haiye	heaiye	k	kaiye	kó- 
+short: lina 
+shoulder: aki(ya) 
+sister: ate(lafo) 
+sit: amend(iye) | amend	amendiye 
+sit: minenánggore | amend	amendiye 
+skin: atuwa | atuwa	ukante 
+sky: kokuruma 
+sleep: on(aiye) | on	onaiye 
+small: kefo | kefo	kefora	keβora	neta 
+small: kefora | kefo	kefora	keβora	neta 
+small: kéfora | kefo	kefora	keβora	neta 
+small: keßora | kefo	kefora	keβora	neta 
+small: neta | kefo	kefora	keβora	neta 
+smoke: (yo)kila | kila	yokila 
+snake: koiyofa 
+spit: komu (kilaiye) 
+stand: ditonune 
+stand: ditónune 
+stand: neind(aiye) 
+star: rondona | okuru	rondona	ukere	ukulu 
+star: ukulu | okuru	rondona	ukere	ukulu 
+stone: kifana | kifana	kiɸana 
+stone: kiφana | kifana	kiɸana 
+sun: fo | fo	foː	ɸo 
+sun: fo: | fo	foː	ɸo 
+sun: foː | fo	foː	ɸo 
+sun: φo | fo	foː	ɸo 
+sweet: ßimona noara 
+swim: (nolulau) w(iye) | nolulau wiye 
+tail: afowa | afowa	aɸowa 
+tail: aφowa | afowa	aɸowa 
+that: airo | ya	yowa 
+that: ya | ya	yowa 
+that: yowa | ya	yowa 
+they: a(mo) 
+they: -im 
+they two: a(mo)  lele 
+this: ama | -wa	ama 
+this: -wa | -wa	ama 
+thou: ina(te) | ka	kamo 
+thou: -ka | ka	kamo 
+thou: kamo | ka	kamo 
+thou: ka(mo) | ka	kamo 
+thou: kere | ka	kamo 
+thou: lina(te) | ka	kamo 
+three: lelei lawoki 
+throat: kenumfa-ne 
+tomorrow: melo 
+tomorrow: renta 
+tongue: kuluma | kuluma	kuruma 
+tooth: auma | auma	rekamwa	wera	wera aumwa 
+tooth: rekamwa | auma	rekamwa	wera	wera aumwa 
+tooth: wera | auma	rekamwa	wera	wera aumwa 
+tree: ya 
+two: lele | lele	ogondari	rere	rerekare 
+two: rere | lele	ogondari	rere	rerekare 
+walk: moin(aiye) | moin	moinaiye 
+walk: olul(iye) | moin	moinaiye 
+walk: onuratone | moin	moinaiye 
+walk: ú | moin	moinaiye 
+walk: wo | moin	moinaiye 
+wallaby: koboni 
+warm: kalakala (liye) 
+water: no 
+weep: hußu 
+weep: rufione 
+we (excl.): kamo 
+we (excl.): kamoka 
+we (incl.): kamoki 
+we (incl.): namoki 
+we: la(mo) | kamoki	namo	namoki 
+wet: akoko (liye) 
+we two (incl.): la(mo) lele 
+what: nena(neta] | nena	nenaneta	nenata 
+what: nenata | nena	nenaneta	nenata 
+when: nenafeko 
+when: nena kamena 
+where: enga 
+where: enka 
+white: fekel(iye) | fekel	fekeliye	kiomba	kiyoba	oloto	renu 
+white: kiomba | fekel	fekeliye	kiomba	kiyoba	oloto	renu 
+white: kiyoba | fekel	fekeliye	kiomba	kiyoba	oloto	renu 
+white: oloto | fekel	fekeliye	kiomba	kiyoba	oloto	renu 
+white: renu | fekel	fekeliye	kiomba	kiyoba	oloto	renu 
+who: kema 
+wife: oronairoßo 
+wind: epe 
+wing: oka(na) 
+with: -te 
+woman: nomiri | nomiri	wena 
+woman: wena | nomiri	wena 
+wood: oiyo 
+wood: ya 
+yellow: komulenge 
+yes: o 
+yesterday: melo 
+you two: ina(te) lele 
+you two: lina(te) lele 
+every: muki 
+ash: laina 
+abdomen: mulu	muluna	muru-na	sebe	si	siya 
+bigness: namba	namɸa 
+large: namba	namɸa 
+breasts: ami	ami-na	amina	aminte 
+nail: kowa 
+talon: kowa 
+cold: epe 
+come from: ano	enaiye	enaŋgore	ø	øaiye 
+be dead: fol	folaiye	foraiye 
+dead: fol	folaiye	foraiye 
+ground: mika 
+land: mika 
+soil: mika 
+fly: bul	buliye 
+fly v.: bul	buliye 
+left hand: a	an-a	ana	ante	oŋgamwa 
+right: a	an-a	ana	ante	oŋgamwa 
+1 sg.: na	namo	námo 
+kill: ofo 
+be knowledgeable: ey	eyaiye	k	kaiye 
+head louse: ruta	rutu 
+male: ve	we 
+much: muki	so 
+multiple: muki	so 
+several: muki	so 
+hill: kora	mowa 
+title: kamuɣurika	kuli	kuliya	kuria 
+nighttime: luwaila 
+adulterous: karama	lawo	lawoko	rako 
+single: karama	lawo	lawoko	rako 
+the: karama	lawo	lawoko	rako 
+unprincipled: karama	lawo	lawoko	rako 
+human: wenena 
+human being: wenena 
+rainy weather: ko 
+path: kanu 
+route: kanu 
+hide: atuwa	ukante 
+little: kefo	kefora	keβora	neta 
+smallness: kefo	kefora	keβora	neta 
+rock: kifana	kiɸana 
+2 sg: ka	kamo 
+you: ka	kamo 
+grind: lele	ogondari	rere	rerekare 
+go: moin	moinaiye 
+1 pl. inc.: kamoki	namo	namoki 
+we₁: kamoki	namo	namoki 
+whiteness: fekel	fekeliye	kiomba	kiyoba	oloto	renu 
+who?: kema 
+female: nomiri	wena 
+dull: keina 
+heavy: keina 
+serious: keina 

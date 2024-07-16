@@ -1,0 +1,345 @@
+all: alla | alla	allt	var	varje 
+and: och 
+animal: djur 
+ashes: aska 
+at: vid | hos	vid 
+bad: dålig | dålig	elak	ond 
+bark: bark 
+belly: mage 
+big: stor 
+bird: fågel 
+bite: bita 
+black: svart 
+blood: blod | blod	bl~ud 
+blow: blåsa 
+bone: ben 
+breast: bröst | brEst	bröst 
+breathe: andas | andas	ande-dräkt 
+burn: brinna 
+child: barn 
+cloud: moln | moln	sky 
+cold: kall 
+come: komma | komE	komma 
+count: räkna 
+cut: skära | hugga	klippa	skära 
+day: dag 
+die: dö | de	dö	död 
+dig: gräva 
+dirty: smutsig | oren	smutsig 
+dog: hund | h3nd~	hund 
+drink: dricka | dricka	drikE 
+dry: torr 
+dull: tråkig | tung | slö	trubbig 
+dust: damm | damm	stoft 
+ear: öra | 3rE	öra 
+earth: jord | jord	land 
+eat: äta 
+egg: ägg 
+eye: öga | 3gE	öga 
+father: far | fader	far	pappa 
+fat (n.): fett 
+fear: frukta | frukta	fruktan	rädas	rädsla	skräck 
+feather: fjäder 
+few: få | få	inte mycket	inte många	litet 
+fingernail: nagel 
+fire: eld 
+fish: fisk 
+five: fem 
+float: flyta 
+flower: blomma | blomma	blomster 
+fly (v.): flyga 
+fog: dimma | dimma	töcken 
+foot: fot 
+forest: skog 
+four: fyra 
+freeze: frysa 
+fruit: frukt 
+full: full | f3l	full 
+give: ge | ge	giva 
+good: god | bra	god	snäll 
+grass: gräs 
+green: grön 
+hair: hår 
+hand: hand | hEnd~	hand 
+head: huvud 
+hear: höra | hurE	höra 
+heart: hjärta 
+heavy: tung 
+he: han 
+here: här 
+hit: slå 
+hold: hålla 
+horn: horn | horn	hun 
+how: hur 
+hunt: jaga 
+husband: make | make	man	äkta man 
+ice: is 
+if: om 
+I: jag | jag	yog 
+in: i | i	in	in-om	in-åt	innan-för	inne i 
+kill: döda | dräpa	döda 
+knee: knä | knE	knä 
+know: veta | känna	veta 
+lake: sjö | in-sjö	sjö 
+laugh: skratta | le	skratta 
+leaf: löv | blad	lev	löf	löv 
+left: vänster 
+leg: ben 
+lie: ligga | ligga	lögn 
+live: leva | leva	levande	liv 
+liver: lever | lev3r	lever 
+long: lång 
+louse: lus 
+man: man | mEniSxE	menniska	människa 
+many: många | mycket	många 
+meat: kött 
+moon: måne 
+mother: mor | mamma	moder	mor 
+mountain: berg | backe	berg	fjäll	kulle 
+mouth: mun 
+name: namn | nEmn	namn 
+narrow: trång | smal	trång 
+near: nära 
+neck: hals | hals	nacke 
+neck: nacke | hals	nacke 
+new: ny | ni	ny 
+night: natt | nEt	natt 
+nose: näsa | nEsE	näsa 
+not: inte | ej	inte 
+old: gammal 
+one: en | en	et	ett 
+one: ett | en	et	ett 
+other: annan | annan	annat 
+person: människa | mEniSxE	menniska	människa 
+person: person | mEniSxE	menniska	människa 
+play: leka | leka	spela 
+pull: dra 
+push: trycka | knuffa	knuffa på	skjuta	skjuta på	stöta	stöta till	trycka 
+rain: regn 
+red: röd 
+right: höger | hEnd~	hand 
+road: väg | stig	väg 
+root: rot 
+rope: rep | lina	rep	snöre	tåg 
+rotten: rutten | murken	rutten	skämɑ 
+round: rund 
+salt: salt 
+sand: sand 
+say: säga | sand 
+seed: frö 
+see: se 
+sharp: skarp | skarp	vass 
+short: kort 
+sing: sjunga 
+sit: sitta 
+skin: hud | Sx~in	hud	hudar	skinn 
+skin: skinn | Sx~in	hud	hudar	skinn 
+sky: himmel | himmel	sky 
+sleep: sova | sova	sömn 
+small: liten | liten	små 
+smoke: rök 
+snake: orm | orm	snok 
+snow: snö 
+spit: spotta 
+split: dela | dela	klyva	splittra 
+stand: stå 
+star: stjärna | Sx~EnE	stjärna 
+stone: sten | klippa	sten 
+sun: sol | sol	sul 
+swim: bada | simma 
+swim: simma 
+tail: svans 
+that: det där | en	et	ett 
+there: där 
+they: de 
+thick: tjock 
+think: tänka 
+thin: smal | tunn 
+this: den/det här 
+this: det här 
+thou: du 
+thou: ni | du 
+three: tre 
+throw: kasta 
+tongue: tunga | t3NE	tunga 
+tooth: tand | tEnd~	tand 
+tree: träd | trEd	träd 
+turn: vända | sno	svänga	vrida 
+two: två | tv~o	två 
+vomit: spy | kräkas	spy 
+walk: gå 
+warm: varm 
+wash: tvätta | tvätta	vaska 
+water: vatten | vEt3n	vatten 
+wet: våt | blöt	fuktig	våt 
+we: vi 
+what: vad 
+when: när 
+where: var 
+white: vit | hvit	vit 
+who: vem 
+wide: vid | bred	vid 
+wife: fru | fru	hustru	maka 
+wind: vind 
+wing: vinge 
+with: med 
+woman: kvinna 
+worm: mask 
+year: år 
+yellow: gul 
+you: du/ni 
+every: alla	allt	var	varje 
+ash: aska 
+abdomen: mage 
+bigness: stor 
+large: stor 
+breasts: brEst	bröst 
+claw: klo	klösa	riva 
+nail: klo	klösa	riva 
+talon: klo	klösa	riva 
+come from: komE	komma 
+be dead: de	dö	död 
+dead: de	dö	död 
+ground: jord	land 
+land: jord	land 
+soil: jord	land 
+fly: flyga 
+fly v.: flyga 
+left hand: hEnd~	hand 
+1 sg.: jag	yog 
+be knowledgeable: känna	veta 
+lie down: ligga 
+head louse: lus 
+male: man 
+much: mycket	många 
+multiple: mycket	många 
+several: mycket	många 
+flesh: kött 
+hill: backe	berg	fjäll	kulle 
+title: nEmn	namn 
+nighttime: nEt	natt 
+adulterous: en	et	ett 
+single: en	et	ett 
+the: en	et	ett 
+unprincipled: en	et	ett 
+human: mEniSxE	menniska	människa 
+human being: mEniSxE	menniska	människa 
+rainy weather: regn 
+path: stig	väg 
+route: stig	väg 
+hide: Sx~in	hud	hudar	skinn 
+little: liten	små 
+smallness: liten	små 
+rock: klippa	sten 
+2 sg: du 
+you: du 
+grind: tv~o	två 
+go: gå 
+hot: varm 
+1 pl. inc.: vi 
+we₁: vi 
+whiteness: hvit	vit 
+who?: vem 
+female: kvinna 
+distant: fjärran	långt bort	långt borta 
+far: fjärran	långt bort	långt borta 
+serious: tung 
+close: nära 
+ner: nära 
+earthworm: mask 
+3 sg.: han 
+she: han 
+2 pl.: ni 
+ye: ni 
+you all: ni 
+3 pl.: de 
+where?: var 
+when?: när 
+how?: hur 
+some: en del	någorlunda	några	vissa 
+broad: bred	vid 
+wideness: bred	vid 
+fat: -fett	fett	ister	smörj-fett	smörja	talg 
+principal wife: fru	hustru	maka 
+his mother: mamma	moder	mor 
+my mother: mamma	moder	mor 
+his father: fader	far	pappa 
+my father: fader	far	pappa 
+woods: skog 
+branch: gren	kvist	pinne 
+stick: gren	kvist	pinne 
+cord: lina	rep	snöre	tåg 
+grease: -fett	fett	ister	smörj-fett	smörja	talg 
+arm: hand 
+gut: darm	inälvor 
+guts: darm	inälvor 
+insides: darm	inälvor 
+intestine: darm	inälvor 
+intestines: darm	inälvor 
+back: rygg 
+suck: dia	suga 
+breath: andas	ande-dräkt 
+laughter: le	skratta 
+cogitate: tänka 
+reflect: tänka 
+smell: lukta	lukta på	nosa på 
+sniff: lukta	lukta på	nosa på 
+afraid: frukta	fruktan	rädas	rädsla	skräck 
+be afraid: frukta	fruktan	rädas	rädsla	skräck 
+fright: frukta	fruktan	rädas	rädsla	skräck 
+alive: leva	levande	liv 
+be alive: leva	levande	liv 
+life: leva	levande	liv 
+living: leva	levande	liv 
+fight: fäkta	kämpa	slåss	strida 
+beat: slå 
+strike: slå 
+hack: hugga	klippa	skära 
+cut open: dela	klyva	splittra 
+pierce: sticka	stöta 
+stab: sticka	stöta 
+scratch: klia 
+tell lies: ligga	lögn 
+turn around: sno	svänga	vrida 
+turn round: sno	svänga	vrida 
+drop: falla 
+fall: falla 
+grasp: hålla 
+hold in arm: hålla 
+squeeze: klämma	krama	pressa	trycka 
+wring: klämma	krama	pressa	trycka 
+rub: gnida 
+wipe: rensa 
+wash clothes: tvätta	vaska 
+shove: knuffa	knuffa på	skjuta	skjuta på	stöta	stöta till	trycka 
+bind: binda	knyta 
+fasten: binda	knyta 
+tie: binda	knyta 
+tie up: binda	knyta 
+sew: sy	sömma 
+enumerate: räkna 
+number: räkna 
+tally: räkna 
+have fun: leka	spela 
+flow: flyta	rinna 
+swell: svälla 
+brook: bäck	flod	ström	älv	å 
+river: bäck	flod	ström	älv	å 
+stream: bäck	flod	ström	älv	å 
+ocean: hav	sjö 
+sea: hav	sjö 
+blaze: brinna 
+daylight: dag 
+daytime: dag 
+evil: dålig	elak	ond 
+rot: murken	rutten	skämɑ 
+filthy: oren	smutsig 
+soiled: oren	smutsig 
+straight: rak	rät 
+blunt: slö	trubbig 
+smooth: glatt	jämn	len	slät 
+damp: blöt	fuktig	våt 
+correct: riktig	rätt 
+right side: höger 
+inside: i	in	in-om	in-åt	innan-för	inne i 
+because: där-för att	eftersom	emedan	på grund av	ty 

@@ -1,0 +1,145 @@
+all: muki 
+every: muki 
+ash: laʔnefaʔ 
+ashes: laʔnefaʔ 
+bark: akafuʔna 
+abdomen: aripa	ripa 
+belly: aripa	ripa 
+big: ala 
+bigness: ala 
+large: ala 
+bird: nama 
+bite: nehaeye 
+black: anupa	hanike 
+blood: kola	kolane 
+bone: ayamufa	yamufa 
+breast: amine	aʔmi	aʔmine	nu	nune 
+breasts: amine	aʔmi	aʔmine	nu	nune 
+claw: aginago	ginago 
+nail: aginago	ginago 
+talon: aginago	ginago 
+cloud: hapo	hapona	hiya	hiyane	sa	sana 
+cold: yasi 
+come: ne7eie	neʔøie 
+come from: ne7eie	neʔøie 
+be dead: nefalie 
+dead: nefalie 
+die: nefalie 
+dog: kala 
+drink: nenie 
+dry: hau 
+ear: agesa	gesa 
+eat: neʔne 
+egg: amuna 
+eye: aulega	ulega 
+feather: aiyolegefa	iyolegefa 
+fire: ata	leve 
+fish: faiyane	noyame 
+fly: haleno 
+fly v.: haleno 
+foot: aiya	iya 
+full: havate 
+give: neʔnamie 
+good: alagepa	kanaline 
+green: aekifatiliya	yosa hai	yosa haiʔna 
+hair: aiyolegefa	iyolegefa 
+hand: ayana 
+left hand: ayana 
+right: ayana 
+head: agenopa	genopa 
+hear: ne7afie	nehavie 
+heart: ayamopa	tumotia 
+horn: avena 
+1 sg.: na	nagaya 
+I: na	nagaya 
+kill: amag	amagino kite	he	hegeno falie 
+knee: alegeya	aleya	aleʔya	legeʔya	leʔya 
+be knowledgeable: nehavie 
+know: nehavie 
+leaf: haeya	haeʔya	haiʔna 
+liver: hau	haune 
+long: ayaʔaya	yatala 
+head louse: nama 
+louse: nama 
+male: ve	vie 
+man: kano	vaya	vayana 
+many: kasago	muki 
+much: kasago	muki 
+multiple: kasago	muki 
+several: kasago	muki 
+moon: ika	ikana	kae	kaeye 
+hill: agoya	agoʔya	goʔya 
+mountain: agoya	agoʔya	goʔya 
+mouth: avaya	vaya 
+name: agi	agi7a	agiʔa 
+title: agi	agi7a	agiʔa 
+neck: agunupa	goʔya	gunupa 
+new: meni	sofae	yaufae 
+night: hani7ina	haniʔina	kegena 
+nighttime: hani7ina	haniʔina	kegena 
+nose: agoʔya	goʔya 
+not: o- 
+adulterous: mago	magoke	nago	nagoke 
+one: mago	magoke	nago	nagoke 
+single: mago	magoke	nago	nagoke 
+that: atu 
+the: mago	magoke	nago	nagoke 
+unprincipled: mago	magoke	nago	nagoke 
+human: kano	vaya	vayana 
+human being: kano	vaya	vayana 
+person: kano	vaya	vayana 
+rain: ko	kona 
+rainy weather: ko	kona 
+red: haesa	kola	kolana 
+path: kana 
+road: kana 
+route: kana 
+root: hafuʔya 
+round: kagi	kagikagi	tufo	tufona	vego	vegovego 
+sand: kaipa 
+say: nehie 
+see: ne7agie	neʔagie 
+seed: alaga	avi	avina 
+sit: fi	fito mainie	mai	maiye 
+hide: agufa	gufa 
+skin: agufa	gufa 
+sleep: havae	nehavae 
+little: aese	osi 
+small: aese	osi 
+smallness: aese	osi 
+smoke: halina 
+star: kaefi	kaʔnefi	sanafi 
+rock: yafa	yafana 
+stone: yafa	yafana 
+sun: yege 
+swim: nagosa 
+tail: aigoʔya 
+this: ina	ma 
+2 sg: ka	kagaya	lapaka 
+thou: ka	kagaya	lapaka 
+you: ka	kagaya	lapaka 
+tongue: agenefuna	avefuna	avefuʔna 
+tooth: avena 
+tree: yafa	yosa 
+grind: tole 
+two: tole 
+go: neʔvie	vai 
+walk: neʔvie	vai 
+water: ani	anine	ti	tina 
+1 pl. inc.: tagaya 
+we: tagaya 
+we₁: tagaya 
+what: yaʔyane 
+white: efa	kalono 
+whiteness: efa	kalono 
+who: laʔae	nalaʔe	taʔae 
+who?: laʔae	nalaʔe	taʔae 
+female: a	ana 
+woman: a	ana 
+yellow: kanaleti	kileʔyane	uyaʔalene 
+dull: kana 
+heavy: kana 
+serious: kana 
+short: aupa 
+snake: nagaloyave	osifaʔve 
+wind: yasi 

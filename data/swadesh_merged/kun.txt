@@ -1,0 +1,314 @@
+all: bubiá	tumma 
+every: bubiá	tumma 
+ash: aynà	haena 
+ashes: aynà	haena 
+bark: amboŋa	aɲafeta	fofongolà 
+abdomen: kaːsa 
+belly: kaːsa 
+big: aːnda 
+bigness: aːnda 
+large: aːnda 
+bird: eta	šurka 
+bite: iɲiɳike	ɪ-niː-ke 
+black: humma	tirota	umma	ummida 
+blood: kokoba	kɔːkɔba 
+bone: sanga 
+breast: kuta	kuʼta	suguda 
+breasts: kuta	kuʼta	suguda 
+claw: ikinà-konkorà	iʼkina 
+nail: ikinà-konkorà	iʼkina 
+talon: ikinà-konkorà	iʼkina 
+cloud: dallamà	damanà	daːlamá 
+cold: giggida	mɔla 
+come: aowa	koke	naosse	yoke 
+come from: aowa	koke	naosse	yoke 
+be dead: -ču-	Cu	ibalke 
+dead: -ču-	Cu	ibalke 
+die: -ču-	Cu	ibalke 
+dog: ta	tayà 
+drink: -nɔː-	inoke	no 
+dry: alaʼbaː 
+ear: ukuna	uʼkuna 
+earth: lagà 
+ground: lagà 
+land: lagà 
+soil: lagà 
+eat: inke	iːŋ-	ufùlake 
+egg: koikina	kɔkɔːnya 
+eye: wa	waː 
+feather: dalabà	fefenà	tukufà 
+fire: toma	toːmá 
+fish: isa	liːʼsa 
+fly: fititisse 
+fly v.: fititisse 
+foot: mindà	mɪnʼdata- 
+full: waːda 
+give: -šɔː-	išoke 
+good: lùša	maːyʼda 
+green: dirga	gigga	girga 
+hair: -kiːma	anà 
+hand: kona	kɔːna 
+left hand: kona	kɔːna 
+right: kona	kɔːna 
+head: ana-sanga 
+hear: -ʼtiː-	itikke	kotikke	ti 
+heart: uːrfa 
+horn: gila	gira	giːʼla 
+1 sg.: aba	abi 
+I: aba	abi 
+kill: -ʼya- 
+knee: kokità	končiča	tugà 
+be knowledgeable: -ʼtaː-	itakke	šibabosse 
+know: -ʼtaː-	itakke	šibabosse 
+leaf: durfa	duːrfa	kalawà 
+lie: niŋisse 
+lie down: niŋisse 
+liver: desa	deːʼsa 
+long: gellina	gerina	geːra 
+head louse: tila 
+louse: tila 
+male: ka	koa 
+man: adà	aynia	ka	nafusà 
+many: arte 
+much: arte 
+multiple: arte 
+several: arte 
+flesh: ɲa 
+meat: ɲa 
+moon: teːra 
+hill: ala	aya	aːʼyá 
+mountain: ala	aya	aːʼyá 
+mouth: uːʼda 
+name: kida	kiːda 
+title: kida	kiːda 
+neck: mena	seːʼra 
+new: addissa	tama	táːmà 
+night: awada	aʼwaːda	badeba 
+nighttime: awada	aʼwaːda	badeba 
+nose: babuɲà	bobuna	bɔbuʼna 
+not: ímme	ímmi 
+adulterous: Ela	ɛlla	’éllà 
+one: Ela	ɛlla	’éllà 
+single: Ela	ɛlla	’éllà 
+that: ma 
+the: Ela	ɛlla	’éllà 
+unprincipled: Ela	ɛlla	’éllà 
+human: adà	aynia	ka	nafusà 
+human being: adà	aynia	ka	nafusà 
+person: adà	aynia	ka	nafusà 
+rain: amarà	aurà	iŋuːra 
+rainy weather: amarà	aurà	iŋuːra 
+red: biːba 
+path: tabila 
+road: tabila 
+route: tabila 
+root: boːba 
+round: gogomà	tungulà 
+sand: šɪːša 
+say: -dɛ-	udake 
+see: -ʼtiː-	intike	ti 
+seed: oǯà	ɛlʼlɛga 
+sit: -ʼgɔːs-	gosse	kafata	kura 
+hide: agala	agaːʼla 
+skin: agala	agaːʼla 
+sleep: -ʼtɔːs- 
+little: dammɛda 
+small: dammɛda 
+smallness: dammɛda 
+smoke: dulluda	duːda	fukuleda 
+star: Sund~a	šuːnda 
+rock: dâka	talla	ugw~a	uːgʷa 
+stone: dâka	talla	ugw~a	uːgʷa 
+sun: kura	uiʼya 
+swim: -wiːs-	awisse 
+tail: šiːma 
+this: -eːna	í-na 
+2 sg: Ena	ɛnʼna 
+thou: Ena	ɛnʼna 
+you: Ena	ɛnʼna 
+tongue: Nela	ŋeːla	ɲela 
+tooth: ma	maː 
+tree: ela 
+grind: bare	baːre	’bárè 
+two: bare	baːre	’bárè 
+go: awesse	gasse 
+walk: awesse	gasse 
+hot: toʼkuːma 
+warm: toʼkuːma 
+water: biya 
+1 pl. inc.: ame 
+we: ame 
+we₁: ame 
+what: ayšino	ma 
+white: arʼra 
+whiteness: arʼra 
+who: naːno 
+who?: naːno 
+female: dɛːrka 
+woman: dɛːrka 
+yellow: fakalà	ledda	surma 
+distant: gella	geːra 
+far: gella	geːra 
+dull: taggimà 
+heavy: taggimà 
+serious: taggimà 
+close: eteta	kurba	oloːla 
+near: eteta	kurba	oloːla 
+ner: eteta	kurba	oloːla 
+salt: kunda	sis 
+short: eteːta	olola	tungula 
+snake: anibarà	argiǯǯa	dɛrʼma 
+thin: erkaka	hɛːrma	naniŋa	šiŋa 
+wind: sawita	šimala 
+earthworm: bia 
+worm: bia 
+year: amata	galla	igida	sanata 
+2 pl.: eme	ime 
+ye: eme	ime 
+you all: eme	ime 
+3 pl.: ime	iːme 
+they: ime	iːme 
+here: á-la	á-ta 
+there: ó-la	ó-ta 
+where: aykà	inkà 
+where?: aykà	inkà 
+when: aykaddino 
+when?: aykaddino 
+how: endè	kalla	kokala 
+how?: endè	kalla	kokala 
+other: heːlɛla 
+three: saːte	sàt’te 
+four: sallé	sàllè 
+five: kussúme	kùs’sùmè 
+broad: sasinà	saːs-a 
+wide: sasinà	saːs-a 
+wideness: sasinà	saːs-a 
+fat: anʼya 
+thick: anda	turuda	šangara 
+narrow: tingira	titima 
+child: kiša	sola 
+principal wife: də̀rka 
+wife: də̀rka 
+husband: abiša	darkina 
+his mother: iniŋa	naː 
+mother: iniŋa	naː 
+my mother: iniŋa	naː 
+father: -ʼwaː 
+his father: -ʼwaː 
+my father: -ʼwaː 
+animal: adda-sosonà 
+forest: tara 
+woods: tara 
+branch: ŋeŋešà 
+stick: ŋeŋešà 
+fruit: elegà	ikkà	omà	oǯà 
+flower: buba 
+grass: sena-girga	seːna 
+cord: kira 
+rope: kira 
+grease: anʼya 
+fingernail: ikima	ikina	ičina 
+leg: bankà	mindà 
+wing: fefenà 
+gut: ardà	buǯǯa 
+guts: ardà	buǯǯa 
+insides: ardà	buǯǯa 
+intestine: ardà	buǯǯa 
+intestines: ardà	buǯǯa 
+back: badà 
+suck: nusse	šafisse	šunisse 
+spit: fikisse	tifosse 
+vomit: koutake	ûtake 
+blow: fugusse	fusse	fuːda 
+breath: sahacasse	šunisse 
+breathe: sahacasse	šunisse 
+laugh: ammà-kekesse	ǯi	ǯiǯi 
+laughter: ammà-kekesse	ǯi	ǯiǯi 
+cogitate: lawasse 
+reflect: lawasse 
+think: lawasse 
+afraid: beba	kaylà 
+be afraid: beba	kaylà 
+fear: beba	kaylà 
+fright: beba	kaylà 
+alive: nabirosse	oyniosse 
+be alive: nabirosse	oyniosse 
+life: nabirosse	oyniosse 
+live: nabirosse	oyniosse 
+living: nabirosse	oyniosse 
+fight: masa-kibàčike 
+hunt: koyšake 
+beat: yake	yaː 
+hit: yake	yaː 
+strike: yake	yaː 
+cut: dakasse	iminikike	irike	wi 
+hack: dakasse	iminikike	irike	wi 
+cut open: fak	fašo	ifakke 
+split: fak	fašo	ifakke 
+pierce: kanǯarosse	le 
+stab: kanǯarosse	le 
+scratch: iskeretike	kayrisse 
+dig: èsake 
+tell lies: awanosse	iŋèrake 
+stand: -laːʼkaː	s-susa-lakasse 
+drop: dungasse	dusse	kofètake 
+fall: dungasse	dusse	kofètake 
+grasp: goŋesse	ibinke 
+hold: goŋesse	ibinke 
+hold in arm: goŋesse	ibinke 
+squeeze: imake	mimi	šakisse 
+wring: imake	mimi	šakisse 
+rub: luggusse 
+wipe: nadifosse	tisse 
+wash: sakisse	šakisse 
+wash clothes: sakisse	šakisse 
+push: dorosse	ièisse 
+shove: dorosse	ièisse 
+throw: fa	fasse 
+bind: illike	li 
+fasten: illike	li 
+tie: illike	li 
+tie up: illike	li 
+sew: itirke 
+count: kela	yekèlake 
+enumerate: kela	yekèlake 
+number: kela	yekèlake 
+tally: kela	yekèlake 
+sing: na	ènake 
+have fun: diriòlake	igìrake 
+play: diriòlake	igìrake 
+flow: eheresse	kelesse	orosse 
+freeze: agegelà-kutuke 
+brook: subà 
+river: subà 
+stream: subà 
+lake: daba-anda	iŋa	sila 
+dust: buːŋa 
+fog: abayà 
+sky: kuya-badda	ŋóra 
+ice: agegelà 
+blaze: masse	tomà-inke itokke 
+burn: masse	tomà-inke itokke 
+day: leleda 
+daylight: leleda 
+daytime: leleda 
+bad: bay-a	keluma 
+evil: bay-a	keluma 
+rot: konokončina 
+rotten: konokončina 
+dirty: funča	šinina 
+filthy: funča	šinina 
+soiled: funča	šinina 
+straight: ašura 
+sharp: ibàsake	uyasse 
+blunt: gudufa	kogišà	sakkodinà 
+smooth: fuluffulumà	kolillimà 
+damp: anaida	diːrga 
+wet: anaida	diːrga 
+correct: adila	alala	talala 
+right side: tókona 
+left: kabuda	kamasida	serga 
+in: la 
+inside: la 
+and: -te 
+because: aykedi 

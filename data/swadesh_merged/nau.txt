@@ -1,0 +1,133 @@
+all: memak 
+every: memak 
+ash: emaraŋata 
+ashes: emaraŋata 
+abdomen: ijen 
+belly: ijen 
+big: ouwak 
+bigness: ouwak 
+large: ouwak 
+bird: imin ȯeta 
+bite: kamwit 
+black: etaŋaŋ 
+blood: e|ra	ra 
+bone: ro	rȯ|n 
+breast: barran 
+breasts: barran 
+burn: ȯŋ 
+burn tr.: ȯŋ 
+cloud: denaŋ	weron 
+cold: [egara]mwamwe 
+come: tuko	tůkȯ	ȯrre 
+come from: tuko	tůkȯ	ȯrre 
+be dead: e|ma	ma 
+dead: e|ma	ma 
+die: e|ma	ma 
+dog: robar 
+drink: eren	nim 
+dry: emȯg 
+ear: ijuNe	ijůŋe|n 
+eat: ijeiji	ȯn 
+egg: epaitdomo 
+eye: e|me	me 
+feather: ewewet imin ȯeta 
+fire: ae	oE	åe 
+fish: iu	iů 
+fly: eŋam	ȯeta 
+fly v.: eŋam	ȯeta 
+good: omo 
+hair: iret-itůb 
+hand: be	reret ebe 
+left hand: be	reret ebe 
+right: be	reret ebe 
+hear: kaiot	kaiȯt 
+1 sg.: a	aNa	aŋa 
+I: a	aNa	aŋa 
+kill: abi 
+be knowledgeable: ititsiet 
+know: ititsiet 
+leaf: ret emin ero	ret emin erȯ 
+liver: a	aå|n 
+long: eraquė 
+head louse: iwi	wui 
+louse: iwi	wui 
+male: e|man 
+man: eName	eŋame 
+moon: maraman 
+mouth: aanaquan	mwin 
+name: eg 
+title: eg 
+neck: iteren 
+new: etaimeduw 
+night: bum	e|bům 
+nighttime: bum	e|bům 
+nose: bodin 
+adulterous: aikwen	a|iquen	i7en 
+one: aikwen	a|iquen	i7en 
+single: aikwen	a|iquen	i7en 
+that: bita 
+the: aikwen	a|iquen	i7en 
+unprincipled: aikwen	a|iquen	i7en 
+human: eName	eŋame 
+human being: eName	eŋame 
+person: eName	eŋame 
+rain: weron 
+rainy weather: weron 
+red: ȯmwirara 
+path: dena	eme|dena 
+road: dena	eme|dena 
+route: dena	eme|dena 
+root: awaran 
+sand: eraůrȯ 
+say: ůge 
+see: at 
+sit: megeda 
+hide: witsin 
+skin: witsin 
+sleep: mijimij 
+little: oniŋ 
+small: oniŋ 
+smallness: oniŋ 
+smoke: badedi	tsiw 
+star: edetaN	edetaŋ 
+rock: e|pe	pe 
+stone: e|pe	pe 
+swim: åw 
+this: bitune	nune 
+2 sg: auwe	wo 
+thou: auwe	wo 
+you: auwe	wo 
+tongue: eo 
+tooth: imwi 
+grind: aro	a|ro	ro 
+two: aro	a|ro	ro 
+go: důgidugo 
+walk: důgidugo 
+hot: enemoŋ	kinijow 
+warm: enemoŋ	kinijow 
+water: bok	e|bȯk 
+1 pl. inc.: adei	amei 
+we: adei	amei 
+we₁: adei	amei 
+what: ekeken 
+white: bərəbər 
+whiteness: bərəbər 
+who: ijegen 
+who?: ijegen 
+female: ån 
+woman: ån 
+yellow: ebabobo 
+dull: eroe 
+heavy: eroe 
+serious: eroe 
+close: eturen 
+near: eturen 
+ner: eturen 
+salt: ebaratjited 
+short: ebo 
+snake: emwe 
+thin: gerȯger 
+wind: eŋin 
+earthworm: emwe 
+worm: emwe 
+year: eobweni 

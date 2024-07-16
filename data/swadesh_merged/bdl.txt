@@ -1,0 +1,266 @@
+all: mémon 
+every: mémon 
+ash: abu 
+ashes: abu 
+abdomen: betah 
+belly: betah 
+big: bagal 
+bigness: bagal 
+large: bagal 
+bird: buroh 
+bite: ngéket 
+black: lohon 
+blood: laha	laha7 
+bone: bakas 
+breast: bittah	susu 
+breasts: bittah	susu 
+burn: tunu 
+burn tr.: tunu 
+cloud: tai sangai 
+cold: jareni 
+come: tEkE	teke	tikk3 
+come from: tEkE	teke	tikk3 
+be dead: matai	matay 
+dead: matai	matay 
+die: matai	matay 
+dog: asu 
+drink: NinoN	Ninun	nginun 
+dry: toho 
+ear: taliNE	talinge 
+eat: nginta 
+egg: antelo 
+eye: mat3	matE	mate 
+feather: bulu 
+fire: api 
+fish: daya	dayah 
+fly: luméyah 
+fly v.: luméyah 
+good: malaso 
+green: nyuloh 
+hair: bulu tikolo 
+hand: liNNaN	taNan	tangan 
+left hand: liNNaN	taNan	tangan 
+right: liNNaN	taNan	tangan 
+head: tikolo 
+hear: kale	kalé	makale 
+1 sg.: aku 
+I: aku 
+kill: bono 
+be knowledgeable: katonan 
+know: katonan 
+leaf: daun 
+lie: paléa 
+lie down: paléa 
+liver: atai	atay 
+long: taha 
+head louse: kutu	kutu tikolo7 
+louse: kutu	kutu tikolo7 
+male: lele 
+man: aha	manusia 
+moon: bulan 
+mouth: boa 
+name: araN	aran 
+title: araN	aran 
+neck: keloh 
+new: ba7u	bau 
+night: saNaN	saNan	sangan 
+nighttime: saNaN	saNan	sangan 
+nose: uroh 
+adulterous: da kayu	dakau7	isaa 
+one: da kayu	dakau7	isaa 
+single: da kayu	dakau7	isaa 
+that: iru 
+the: da kayu	dakau7	isaa 
+unprincipled: da kayu	dakau7	isaa 
+human: aha	manusia 
+human being: aha	manusia 
+person: aha	manusia 
+rain: uran 
+rainy weather: uran 
+red: mire 
+path: lalaN	lalan 
+road: lalaN	lalan 
+route: lalaN	lalan 
+root: uragat 
+sand: gusoh 
+say: susuran 
+see: Nit37	indat	ind~at 
+sit: ningkolo 
+hide: kuli7	kulik 
+skin: kuli7	kulik 
+sleep: tidor 
+little: diki 
+small: diki 
+smallness: diki 
+smoke: umbu 
+star: mamau	mawmaw 
+rock: batu 
+stone: batu 
+swim: rumangi 
+tail: ingko 
+this: itu 
+2 sg: kau 
+thou: kau 
+you: kau 
+tongue: dEla	dela	della7 
+tooth: gigi 
+grind: du3	due	duwa	ore	oré 
+two: du3	due	duwa	ore	oré 
+go: tumalan 
+walk: tumalan 
+hot: panas 
+warm: panas 
+water: boe	boe7	boé 
+1 pl. inc.: kit3 memoN	kitE	kite 
+we: kit3 memoN	kitE	kite 
+we₁: kit3 memoN	kitE	kite 
+what: ai 
+white: potéh 
+whiteness: potéh 
+who: sai 
+who?: sai 
+female: dende 
+woman: dende 
+yellow: kunéh 
+distant: téo 
+far: téo 
+dull: berat 
+heavy: berat 
+serious: berat 
+close: tuku 
+near: tuku 
+ner: tuku 
+salt: garan 
+short: pendak 
+snake: soe 
+thin: nipis 
+wind: sangai 
+earthworm: panas	ulat 
+worm: panas	ulat 
+year: taun 
+2 pl.: kite 
+ye: kite 
+you all: kite 
+3 pl.: kahan 
+they: kahan 
+where: menjé 
+where?: menjé 
+when: sumeran 
+when?: sumeran 
+how: batenjé 
+how?: batenjé 
+other: sandiri 
+three: telu	təllu 
+four: mpat	papat 
+five: lima	lime 
+broad: lambu 
+wide: lambu 
+wideness: lambu 
+fat: menak 
+thick: reban 
+narrow: kiput 
+principal wife: ende 
+wife: ende 
+husband: ele 
+his mother: emma 
+mother: emma 
+my mother: emma 
+father: uwa 
+his father: uwa 
+my father: uwa 
+forest: romah 
+woods: romah 
+branch: engas 
+stick: engas 
+fruit: bua 
+flower: bunge 
+grass: papadah 
+cord: ingkat 
+rope: ingkat 
+flesh: isi 
+meat: isi 
+grease: menak 
+wing: kapé 
+gut: isi betah 
+guts: isi betah 
+insides: isi betah 
+intestine: isi betah 
+intestines: isi betah 
+back: bukut 
+suck: kokomot 
+spit: ruja 
+vomit: nguta 
+blow: tiut 
+breath: nansah 
+breathe: nansah 
+laugh: ngakak 
+laughter: ngakak 
+cogitate: mikir 
+reflect: mikir 
+think: mikir 
+smell: uroh 
+sniff: uroh 
+afraid: talau 
+be afraid: talau 
+fear: talau 
+fright: talau 
+alive: elun 
+be alive: elun 
+life: elun 
+live: elun 
+living: elun 
+hunt: ngalébu 
+beat: palu 
+hit: palu 
+strike: palu 
+cut: apu 
+hack: apu 
+cut open: pasilekat 
+split: pasilekat 
+pierce: suraman 
+stab: suraman 
+scratch: nguraut 
+dig: kali 
+stand: nenggé 
+drop: lagga 
+fall: lagga 
+grasp: nagah 
+hold: nagah 
+hold in arm: nagah 
+squeeze: pera 
+wring: pera 
+throw: niba 
+bind: samboh 
+fasten: samboh 
+tie: samboh 
+tie up: samboh 
+sew: ngarait 
+count: milah 
+enumerate: milah 
+number: milah 
+tally: milah 
+flow: pasuru 
+lake: lebangan 
+ocean: dilau 
+sea: dilau 
+dust: abu 
+fog: ambun 
+sky: langit 
+bad: rahat 
+evil: rahat 
+rot: buco 
+rotten: buco 
+dirty: marumus 
+filthy: marumus 
+soiled: marumus 
+sharp: taran 
+blunt: tompol 
+damp: basé 
+wet: basé 
+right side: kanan 
+left: kidal 
+at: ma 
+in: ma dialan 
+inside: ma dialan 
+and: du 
+if: lamun 

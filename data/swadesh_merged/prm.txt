@@ -1,0 +1,232 @@
+all: auopa 
+arm: iri 
+ashes: omori | omori	ʔuḷoki 
+ashes: ʔuḷoki | omori	ʔuḷoki 
+bark: kubi maporo 
+belly: bauri | bauri	bʌkuri 
+belly: bʌkuri | bauri	bʌkuri 
+big: bɛʲtɛṛo | bɛⁱ tɛṛo	iwari 
+big: iwari | bɛⁱ tɛṛo	iwari 
+bird: barikere | barikere kumo	kumí 
+bird: barikere kumo | barikere kumo	kumí 
+bird: kumí | barikere kumo	kumí 
+bite: mabi | mabi	βɛⁱ kɛro 
+bite: ßɛʲkɛro | mabi	βɛⁱ kɛro 
+black: epui 
+blood: paru 
+bone: wei 
+breast: ʔɛʲ | ei	ʔɛⁱ 
+breast: ei | ei	ʔɛⁱ 
+burn: patiwo 
+claw: tupiri 
+cloud: bari eporo | bari eporo	ʔuwobi 
+cloud: ʔuwobi | bari eporo	ʔuwobi 
+cold: kunami 
+come: poʷ | pou	poᵘ 
+come: pou | pou	poᵘ 
+day: bari 
+die: mariraboro 
+dog: kabui kumi | kabui kumi	kumi 
+dog: kavui kumi | kabui kumi	kumi 
+dog: kumi | kabui kumi	kumi 
+drink: ubi ko 
+dry: amei 
+ear: aboi | eboi	oboki 
+ear: eboi | eboi	oboki 
+ear: oboki | eboi	oboki 
+earth: ei 
+eat: ʔi ʔi ko | ko	ʔi ʔi ko 
+eat: ko | ko	ʔi ʔi ko 
+eat: ko- | ko	ʔi ʔi ko 
+egg: mui | mui	muru 
+egg: muru | mui	muru 
+eye: ipiri | ipiri	ɪpiri 
+eye: ɪpiri | ipiri	ɪpiri 
+fat (n.): maḷi 
+fat (n.): mari 
+feather: kumi pauma 
+fire: ʔɛlɛʲ | elei	ʔɛlɛⁱ 
+fire: elei | elei	ʔɛlɛⁱ 
+fish: koribi 
+fly (v.): bai bure 
+foot: kʌkʌpu 
+forehead: pai-kara 
+full: kumurabu 
+give: apa wau | apa wau	koβo 
+give: koßo | apa wau	koβo 
+good: oparo 
+green: ßiburo | βiburo 
+green: viburo | βiburo 
+hair: kikɪmi kulo | kikɪmi kulo	kimi kuro 
+hair: kimi kuro | kikɪmi kulo	kimi kuro 
+hand: ʔili 
+head: kikimʌ | kikimʌ	kimi 
+head: kimi | kikimʌ	kimi 
+hear: pio 
+heart: pumi 
+he/she: da 
+he/she: d̪o 
+horn: kebari 
+I: amo | amo	ãmo 
+I: a͂mo | amo	ãmo 
+kill: do okoa 
+knee: muri | muri	muri kʌla 
+knee: muri kʌla | muri	muri kʌla 
+know: da umoba 
+leaf: ʔolʌ | kubi ʔolʌ	ori	ʔolʌ 
+leaf: ori | kubi ʔolʌ	ori	ʔolʌ 
+leg: kapui 
+lie: ei neika 
+liver: imakari 
+long: teteri 
+louse: nei 
+louse: pʌt̪i 
+man: moʲ | kari 
+man: moi | kari 
+man: moida | kari 
+many: koipau 
+meat: bobi 
+meat: nori 
+moon: ʔɛri t̪ɛro | umeri	ʔɛri t̪ɛro 
+moon: umeri | umeri	ʔɛri t̪ɛro 
+mountain: aburi 
+mouth: ara mui | ara mui	dʌpori	pori 
+mouth: ara wui | ara mui	dʌpori	pori 
+mouth: (dʌ)pori | ara mui	dʌpori	pori 
+name: aru 
+neck: abei | abei	ʌbɛⁱ kɛro 
+neck: ʌbɛʲkɛro | abei	ʌbɛⁱ kɛro 
+new: mapi oriora | mapi oriora	mui 
+new: mui | mapi oriora	mui 
+night: bui 
+nose: urubi 
+not: waiba 
+one: wakoa | wakoa	wʌkʷʌ 
+one: wʌkʷʌ | wakoa	wʌkʷʌ 
+person: kari 
+rain: dei | dei	neⁱ 
+rain: neʲ | dei	neⁱ 
+red: puri 
+road: meri 
+road: meṛi 
+root: kubi apa | kubi apa	kubi ʌpʌ	ʌpʌ 
+root: ʌpʌ | kubi apa	kubi ʌpʌ	ʌpʌ 
+round: korori | korori	muro 
+round: muro | korori	muro 
+sand: peiri 
+say: uru | peiri 
+seed: kei 
+see: eire | eire	ʔikierɛ 
+see: ʔikierɛ | eire	ʔikierɛ 
+sit: ibitimaro | ibitimaro	ʔimʌl ro 
+sit: ʔimʌl ro | ibitimaro	ʔimʌl ro 
+skin: kʌmi | kʌmi	mapori 
+skin: mapori | kʌmi	mapori 
+sleep: ʔid̪o | i	idoa	ʔid̪o 
+sleep: i (doa) | i	idoa	ʔid̪o 
+sleep: i(doa) | i	idoa	ʔid̪o 
+small: eteaurimi | eteaurimi	mʌⁱpʌ t̪ɛro pɛⁱ yawao 
+small: mʌʲʌ t̪ɛro pɛʲyawao | eteaurimi	mʌⁱpʌ t̪ɛro pɛⁱ yawao 
+smoke: uobi | uobi	wobi 
+smoke: wobi | uobi	wobi 
+stand: bai 
+stand: ʔɛt̪ɛbʌʲ 
+star: ʔoʷʷɛiri | oiri	ʔoᵘkʷɛiri 
+star: oiri | oiri	ʔoᵘkʷɛiri 
+stone: aburi upo | aburi upo	kumʌpi 
+stone: kumʌpi | aburi upo	kumʌpi 
+sun: eri | eri	ʔiβʌt̪iro 
+sun: ʔißʌt̪iro | eri	ʔiβʌt̪iro 
+swim: ei (doa) | ei	eidoa 
+swim: ei(doa) | ei	eidoa 
+tail: kumi duro 
+tail: kumi durp | kumi duro 
+that: da 
+they: abo͂ 
+they: abõ 
+they two: abokai 
+they two: abuakai 
+this: ida 
+thou: a | do 
+thou: do 
+tomorrow: ope 
+tomorrow: pemera 
+tongue: bei | bei	bɛḷi 
+tongue: bɛḷi | bei	bɛḷi 
+tooth: koropi 
+tree: kubi 
+two: ʔʌbirʌʲ | buakei	ʔʌbirʌⁱ 
+two: buakei | buakei	ʔʌbirʌⁱ 
+walk: oe | d̪o pɛ	oe	pɛ 
+walk: pe- | d̪o pɛ	oe	pɛ 
+walk: pɛ | d̪o pɛ	oe	pɛ 
+walk: po | d̪o pɛ	oe	pɛ 
+warm: ukari 
+water: ubi | ubi	ʔubi 
+water: ʔubi | ubi	ʔubi 
+we: amõ 
+we (incl.): amo 
+we (incl.): amo͂ 
+we two: amai 
+we two: amokai 
+we two (incl.): amai 
+we two (incl.): amokai 
+what: nei 
+white: banouni 
+who: daweiro 
+woman: ʔɛd̪i | eri	ʔɛd̪i 
+woman: eri | eri	ʔɛd̪i 
+yellow: ekeribare 
+yesterday: ope 
+yesterday: peiba 
+you: a | do 
+you two: aiakai 
+you two: aikai 
+you two: akai 
+every: auopa 
+ash: omori	ʔuḷoki 
+abdomen: bauri	bʌkuri 
+bigness: bɛⁱ tɛṛo	iwari 
+large: bɛⁱ tɛṛo	iwari 
+breasts: ei	ʔɛⁱ 
+nail: tupiri 
+talon: tupiri 
+come from: pou	poᵘ 
+be dead: mariraboro 
+dead: mariraboro 
+ground: ei 
+land: ei 
+soil: ei 
+fly: bai bure 
+fly v.: bai bure 
+left hand: ʔili 
+right: ʔili 
+1 sg.: amo	ãmo 
+be knowledgeable: da umoba 
+lie down: ei neika 
+male: moi	moⁱ 
+much: koipau 
+multiple: koipau 
+several: koipau 
+hill: aburi 
+title: aru 
+nighttime: bui 
+adulterous: wakoa	wʌkʷʌ 
+single: wakoa	wʌkʷʌ 
+the: wakoa	wʌkʷʌ 
+unprincipled: wakoa	wʌkʷʌ 
+human: kari 
+human being: kari 
+rainy weather: dei	neⁱ 
+hide: kʌmi	mapori 
+little: eteaurimi	mʌⁱpʌ t̪ɛro pɛⁱ yawao 
+smallness: eteaurimi	mʌⁱpʌ t̪ɛro pɛⁱ yawao 
+rock: aburi upo	kumʌpi 
+2 sg: do 
+grind: buakei	ʔʌbirʌⁱ 
+go: d̪o pɛ	oe	pɛ 
+1 pl. inc.: amõ 
+we₁: amõ 
+whiteness: banouni 
+who?: daweiro 
+female: eri	ʔɛd̪i 

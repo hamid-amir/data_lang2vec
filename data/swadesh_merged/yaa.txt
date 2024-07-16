@@ -1,0 +1,314 @@
+all: kɨyo-kõi 
+every: kɨyo-kõi 
+ash: čii mapo 
+ashes: čii mapo 
+bark: iβi βiči 
+big: -βa	ɨβapa 
+bigness: -βa	ɨβapa 
+large: -βa	ɨβapa 
+bird: pɨi-ya 
+bite: kɨyo-kĩ 
+black: βiso 
+blood: ibi	imi 
+bone: Sau	ṣ̌ao 
+breast: Suba	čočo	ṣ̌oma 
+breasts: Suba	čočo	ṣ̌oma 
+claw: mi-c̷is čai 
+nail: mi-c̷is čai 
+talon: mi-c̷is čai 
+cloud: kõi 
+cold: mac̷i 
+come: o-kĩ 
+come from: o-kĩ 
+be dead: da	nai 
+dead: da	nai 
+die: da	nai 
+dog: paSta	paṣ̌ta 
+drink: aya	aya-kĩ 
+dry: mɨto 
+ear: paCu	pačo 
+earth: mai 
+ground: mai 
+land: mai 
+soil: mai 
+eat: pi-kĩ 
+egg: too 
+eye: h3ru	βɨ-ro 
+feather: pɨi 
+fire: Ci	čii 
+fish: yuba	βoɨ 
+fly: yoya-kĩ 
+fly v.: yoya-kĩ 
+foot: taɨ 
+full: huspia	βospia 
+give: inã-kĩ 
+good: šara 
+green: nana 
+hair: βoo 
+hand: m3k3n	mɨ̃kɨ 
+left hand: m3k3n	mɨ̃kɨ 
+right: m3k3n	mɨ̃kɨ 
+head: mapo 
+hear: dika	nika-kĩ 
+heart: oĩti 
+horn: maSu	mãṣ̌o 
+1 sg.: 3n	ɨa	ɨ̃ 
+I: 3n	ɨa	ɨ̃ 
+kill: rɨtɨ-kĩ 
+knee: latu7u	ratoko 
+be knowledgeable: tãpi-kĩ 
+know: tãpi-kĩ 
+leaf: iwi p3i	pɨi 
+lie: raka-kĩ	rata-kĩ 
+lie down: raka-kĩ	rata-kĩ 
+liver: taka 
+long: čainipa 
+head louse: ia 
+louse: ia 
+male: noko βɨnɨ 
+man: yora 
+many: ičapa	kaya-kõi 
+much: ičapa	kaya-kõi 
+multiple: ičapa	kaya-kõi 
+several: ičapa	kaya-kõi 
+flesh: nami 
+meat: nami 
+moon: oṣ̌ɨ 
+hill: bakiS	mãči kɨya 
+mountain: bakiS	mãči kɨya 
+mouth: aṣ̌βa 
+name: ad3	anɨ 
+title: ad3	anɨ 
+neck: tɨṣ̌o 
+new: b3da	βɨna 
+night: mã yamɨ-a	yab3	βakiš 
+nighttime: mã yamɨ-a	yab3	βakiš 
+nose: r3Cuku	rɨ-čoko 
+adulterous: huísti	wisti 
+one: huísti	wisti 
+single: huísti	wisti 
+that: huísti	wisti 
+the: huísti	wisti 
+unprincipled: huísti	wisti 
+human: yora 
+human being: yora 
+person: yora 
+rain: oi 
+rainy weather: oi 
+red: õši 
+path: baitapia 
+road: baitapia 
+route: baitapia 
+root: tapo 
+round: tokoro 
+sand: maši 
+say: yoi-kĩ 
+see: u*wi*	õi-kĩ 
+seed: ɨṣ̌ɨ 
+sit: c̷ao-kĩ 
+hide: hiCi	βiči 
+skin: hiCi	βiči 
+sleep: oṣ̌a-kĩ 
+little: pišta 
+small: pišta 
+smallness: pišta 
+smoke: kõi 
+star: iStip3ru	išti βɨro	βiši 
+rock: makɨṣ̌	tokiri	tu7iri 
+stone: makɨṣ̌	tokiri	tu7iri 
+sun: Sidi	ṣ̌ini 
+swim: topiti aki 
+tail: tɨnɨ 
+2 sg: mia	min	mĩ 
+thou: mia	min	mĩ 
+you: mia	min	mĩ 
+tongue: ada	ana 
+tooth: baCa	piti 
+tree: iwi 
+grind: rawi	rháhui	rãβɨ 
+two: rawi	rháhui	rãβɨ 
+go: tãɨ ka-kĩ 
+walk: tãɨ ka-kĩ 
+water: upaS	βaka 
+1 pl. inc.: nu 
+we: nu 
+we₁: nu 
+what: aβaa...-mɨ̃ 
+white: oṣ̌o 
+whiteness: oṣ̌o 
+who: c̷oa...-mɨ̃ 
+who?: c̷oa...-mɨ̃ 
+female: kɨro 
+woman: kɨro 
+yellow: čaṣ̌ta 
+distant: čai 
+far: čai 
+dull: ɨβɨ 
+heavy: ɨβɨ 
+serious: ɨβɨ 
+close: čai-mašta 
+near: čai-mašta 
+ner: čai-mašta 
+salt: taši 
+short: tiṣ̌o-pišta 
+snake: rono 
+thin: kaβa-šara	βɨṣ̌ta 
+wind: nɨβɨ 
+earthworm: nõi 
+worm: nõi 
+year: ṣ̌ini-a 
+2 pl.: mato	mã 
+ye: mato	mã 
+you all: mato	mã 
+3 pl.: ato	atõ 
+they: ato	atõ 
+where: βaki...-mɨ̃ 
+where?: βaki...-mɨ̃ 
+when: aβɨtĩa...-mɨ̃ 
+when?: aβɨtĩa...-mɨ̃ 
+how: aβɨska...-mɨ̃ 
+how?: aβɨska...-mɨ̃ 
+some: atiri 
+few: ičapa-ma	pišta 
+three: mapo	tiris 
+four: koatoro 
+five: sĩkko 
+broad: aṣ̌βa	pɨta	ãṣ̌βa-ta-βa 
+wide: aṣ̌βa	pɨta	ãṣ̌βa-ta-βa 
+wideness: aṣ̌βa	pɨta	ãṣ̌βa-ta-βa 
+fat: ṣ̌ini 
+thick: nami	nami ṣ̌ini 
+narrow: ãc̷õ 
+child: βakɨ 
+principal wife: ãβi 
+wife: ãβi 
+husband: βɨnɨ 
+his mother: ɨβa 
+mother: ɨβa 
+my mother: ɨβa 
+father: ɨpa 
+his father: ɨpa 
+my father: ɨpa 
+animal: yõinã 
+forest: nii 
+woods: nii 
+branch: põya 
+stick: põya 
+fruit: βimi 
+flower: čaro 
+grass: βasi 
+cord: niši 
+rope: niši 
+grease: ṣ̌ini 
+fingernail: mi-c̷is 
+leg: kiši čičia 
+wing: pɨ-ta 
+gut: poko 
+guts: poko 
+insides: poko 
+intestine: poko 
+intestines: poko 
+back: piči 
+suck: koko-kĩ 
+spit: mɨčo-kĩ 
+vomit: anã-kĩ	anãpakɨ-kĩ 
+blow: ṣ̌õa-kĩ 
+breath: ṣ̌ãka ikĩ 
+breathe: ṣ̌ãka ikĩ 
+laugh: õsa-kĩ	βic̷a-kĩ 
+laughter: õsa-kĩ	βic̷a-kĩ 
+cogitate: šinã-kĩ 
+reflect: šinã-kĩ 
+think: šinã-kĩ 
+smell: ṣ̌ɨtɨ a-ki 
+sniff: ṣ̌ɨtɨ a-ki 
+afraid: mɨsɨ-kĩ	ratɨ-kĩ 
+be afraid: mɨsɨ-kĩ	ratɨ-kĩ 
+fear: mɨsɨ-kĩ	ratɨ-kĩ 
+fright: mɨsɨ-kĩ	ratɨ-kĩ 
+alive: iki	nia 
+be alive: iki	nia 
+life: iki	nia 
+live: iki	nia 
+living: iki	nia 
+fight: mɨ̃nã-kĩ	sɨtɨnã-kĩ 
+hunt: mɨ̃pɨnã-kĩ 
+beat: koša-kĩ	sɨtɨ-kĩ 
+hit: koša-kĩ	sɨtɨ-kĩ 
+strike: koša-kĩ	sɨtɨ-kĩ 
+cut: ṣ̌atɨ-kĩ 
+hack: ṣ̌atɨ-kĩ 
+cut open: kaškɨ-kĩ	toṣ̌a-kĩ 
+split: kaškɨ-kĩ	toṣ̌a-kĩ 
+pierce: čači-kĩ 
+stab: čači-kĩ 
+dig: põki-kĩ 
+tell lies: čanĩ-kĩ 
+stand: taɨ ni-kĩ 
+turn: βɨso-akɨ-kaβa-kĩ	βɨso-kĩ 
+turn around: βɨso-akɨ-kaβa-kĩ	βɨso-kĩ 
+turn round: βɨso-akɨ-kaβa-kĩ	βɨso-kĩ 
+drop: pakɨ-kĩ 
+fall: pakɨ-kĩ 
+grasp: c̷oma-kĩ 
+hold: c̷oma-kĩ 
+hold in arm: c̷oma-kĩ 
+squeeze: c̷inĩ-kĩ	rɨyo-kĩ 
+wring: c̷inĩ-kĩ	rɨyo-kĩ 
+rub: rɨyo rɨyo akĩ	tɨrɨ akĩ 
+wipe: rɨyo rɨyo akĩ	tɨrɨ akĩ 
+wash: pãc̷a-kĩ	čoka-kĩ 
+wash clothes: pãc̷a-kĩ	čoka-kĩ 
+push: pic̷iki-kĩ	pɨṣ̌o-kĩ 
+shove: pic̷iki-kĩ	pɨṣ̌o-kĩ 
+throw: c̷aka-kĩ 
+bind: nɨṣ̌a-kĩ 
+fasten: nɨṣ̌a-kĩ 
+tie: nɨṣ̌a-kĩ 
+tie up: nɨṣ̌a-kĩ 
+sew: kiši βa-kĩ 
+count: tana-kĩ 
+enumerate: tana-kĩ 
+number: tana-kĩ 
+tally: tana-kĩ 
+sing: βanãi-kĩ 
+have fun: kaṣ̌ɨ-kĩ 
+play: kaṣ̌ɨ-kĩ 
+float: nono-kĩ 
+flow: βaka βɨ-kĩ 
+brook: aṣ̌ka	βaka	ṣ̌ɨṣ̌a 
+river: aṣ̌ka	βaka	ṣ̌ɨṣ̌a 
+stream: aṣ̌ka	βaka	ṣ̌ɨṣ̌a 
+lake: ĩa 
+ocean: βaka-βã 
+sea: βaka-βã 
+dust: mapo 
+fog: čaka pakɨi 
+sky: nai 
+ice: oi nami 
+blaze: ṣ̌oisakĩ 
+burn: ṣ̌oisakĩ 
+day: pɨna 
+daylight: pɨna 
+daytime: pɨna 
+bad: čaka 
+evil: čaka 
+rot: payoko-mɨ-a 
+rotten: payoko-mɨ-a 
+dirty: čošta 
+filthy: čošta 
+soiled: čošta 
+straight: mɨ̃stɨkõi 
+sharp: iškia 
+blunt: mãta 
+smooth: yɨ̃βa 
+damp: mɨča 
+wet: mɨča 
+correct: nãskara 
+right side: kayakai ãori 
+left: mĩškiori 
+in: okɨ-mɨ̃ra 
+inside: okɨ-mɨ̃ra 
+and: -nõ	yaβi 
+if: -βia 
+because: mãi 

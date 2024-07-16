@@ -1,0 +1,337 @@
+all: mayma	maɨma	opa	opavave	pa	ɲavõ 
+every: mayma	maɨma	opa	opavave	pa	ɲavõ 
+ash: kusugue	kusugw~e	tanimbu	taniᵐbu 
+ashes: kusugue	kusugw~e	tanimbu	taniᵐbu 
+bark: ape	pire 
+abdomen: ty~e 
+belly: ty~e 
+big: erado	guasu	gw~asu	tuicha	tuiča	ɣʷasu 
+bigness: erado	guasu	gw~asu	tuicha	tuiča	ɣʷasu 
+large: erado	guasu	gw~asu	tuicha	tuiča	ɣʷasu 
+bird: guyra	ɣʷɨra 
+bite: juruka	su7u	suʔu	suʼu 
+black: hu*	hũ	ũ 
+blood: t-uɣʷɨ	tuguy 
+bone: ka*	kangue	kangw$e	kãᵑɣʷe 
+breast: káma	py~ti7a	tapy~pa7u*	ʼkama 
+breasts: káma	py~ti7a	tapy~pa7u*	ʼkama 
+claw: py~ape*	py~sape*	pɨapẽ	pɨsapẽ 
+nail: py~ape*	py~sape*	pɨapẽ	pɨsapẽ 
+talon: py~ape*	py~sape*	pɨapẽ	pɨsapẽ 
+cloud: arai 
+cold: h-oʼʔɨsã	r-oʔɨ	roy	roʼy	ti*pa7a* 
+come: hua7i*	ju	ǰu 
+come from: hua7i*	ju	ǰu 
+be dead: ang~aky~i	jejuka	mano 
+dead: ang~aky~i	jejuka	mano 
+die: ang~aky~i	jejuka	mano 
+dog: jagua	jagw~a	ǰaɣʷa 
+drink: -ʼu	sy~ry~ku	u	ɨ-ʔu 
+dry: ka*	kã	yip 
+ear: nambi	namb~i	naᵐbi 
+earth: yvy	ɨvɨ-ape 
+ground: yvy	ɨvɨ-ape 
+land: yvy	ɨvɨ-ape 
+soil: yvy	ɨvɨ-ape 
+eat: -ʼu	5emb~oapy~te	jepy~ajoko	karu	u 
+egg: rupi7a	rɨɣʷasu-rupiʔa	t-upiʔa	tupi7a	tupiʼa 
+eye: hesa	resa	t-esa	tesa	tesa tesa 
+fat: ky~ra 
+fat n.: ky~ra 
+grease: ky~ra 
+lubricant: ky~ra 
+oil: ky~ra 
+feather: t-aɣʷe	tague	tagw~e 
+fire: ata	jehapy~	jekai	t-ata 
+fish: pira 
+fly: tutu	veve 
+fly v.: tutu	veve 
+foot: mby$	py	pɨ	tety~ma 
+full: Sovi	enyhẽ	heny~he	henɨhẽ 
+give: jopoi	kw~apy~ti*	meʔẽ	meʼẽ 
+good: maraᵑgatu	porã	pupu	pɨʔa-porã 
+green: aky~	hovy~	hovɨ	saʼyky 
+hair: aka*ragw~e	ava	t-aɣʷe	áva 
+hand: avatisoka	po	po arajere 
+left hand: avatisoka	po	po arajere 
+right: avatisoka	po	po arajere 
+head: aka*	akã	ruviSa 
+hear: endu	h-eⁿdu	hend~u 
+heart: karaku	koraso*	pɨʔa	ñeʼã	ɲeʔã 
+horn: akã-ratĩ	jepoka	t-atĩ	tati*	turu 
+1 sg.: Se	che	če 
+I: Se	che	če 
+kill: juka	porojuka	ǰuka 
+knee: penara*	penarã	reny~my~7a*	t-enɨpɨʔã 
+be knowledgeable: kuaa	kw~a 
+know: kuaa	kw~a 
+leaf: togue	togw~e	toɣʷe 
+lie: ɲeno 
+lie down: ɲeno 
+liver: pyʼakue	ᵐbɨʔa 
+long: puku	vuku 
+head louse: ky	kɨ 
+louse: ky	kɨ 
+male: ava	karai	kuimbaʼe	kuiᵐbaʔe 
+man: ava	tekove	ʼmava 
+many: -ita	eta heta	h-eta	kw~era	ngw$era	reta 
+much: -ita	eta heta	h-eta	kw~era	ngw$era	reta 
+multiple: -ita	eta heta	h-eta	kw~era	ngw$era	reta 
+several: -ita	eta heta	h-eta	kw~era	ngw$era	reta 
+flesh: so7o	t-oʔo 
+meat: so7o	t-oʔo 
+moon: jasy	jasy~	ǰasɨ 
+hill: yvyty	yvyty~	ɨvɨ-tɨ 
+mountain: yvyty	yvyty~	ɨvɨ-tɨ 
+mouth: juru	ǰuru 
+name: rera	tera	éra	ʼt-era 
+title: rera	tera	éra	ʼt-era 
+neck: ajura	ajúra	atua	aʼǰura 
+new: ang~etegw~a	pyahu	pɨahu 
+night: pyhare	py~hare	pɨhare 
+nighttime: pyhare	py~hare	pɨhare 
+nose: apy~ngw$a	apɨᵑgʷa	ti*	tĩ 
+not: ani	ani …	nd….i	nd…iri 
+adulterous: mava	petei*	peteĩ 
+one: mava	petei*	peteĩ 
+single: mava	petei*	peteĩ 
+that: aipo	ako	pe 
+the: mava	petei*	peteĩ 
+unprincipled: mava	petei*	peteĩ 
+human: ava	tekove	ʼmava 
+human being: ava	tekove	ʼmava 
+person: ava	tekove	ʼmava 
+rain: ama 
+rainy weather: ama 
+red: pytã	pɨtã 
+path: ape	gw~ataha	tape 
+road: ape	gw~ataha	tape 
+route: ape	gw~ataha	tape 
+root: h-apo	t-apo	tapo	ypy~ 
+round: apu7a	apuʔa	apuʼa	ky~rapu 
+sand: yvykuʼi	ɨvɨ-kuʔi 
+say: -e	e	i	ǰe 
+see: echa	h-eča	heSa 
+seed: t-aʔɨ̃i	taʼỹi 
+sit: guapy	mb~ogw~apy~	ɣʷapɨ 
+hide: ape	pire 
+skin: ape	pire 
+sleep: ke 
+little: Su7i	hesa7i	michĩ	mičĩ 
+small: Su7i	hesa7i	michĩ	mičĩ 
+smallness: Su7i	hesa7i	michĩ	mičĩ 
+smoke: t-ataʼtĩ	tatati*	tatatĩ	timbo	timb~o	tiᵐbo 
+star: jasy~rata	mby$ja	mbyja	ᵐbɨǰa 
+rock: ita 
+stone: ita 
+sun: kuarahy	kuarahɨ	kw~arahy~ 
+swim: jepokw~ita	yta	yta kw~evo	ɨta 
+tail: rugw~ai	t-uɣʷai	tuguái	tugw~ai 
+this: ko 
+2 sg: nde	ne	pee*	ⁿde 
+thou: nde	ne	pee*	ⁿde 
+you: nde	ne	pee*	ⁿde 
+tongue: ku*	kũ 
+tooth: ra*i	t-ãi	ta*i	tãi 
+tree: mata	yvyra	yvy~ra 
+grind: moko*i	mokõi 
+two: moko*i	mokõi 
+go: guata	gw~ata	iko	ɣʷata 
+walk: guata	gw~ata	iko	ɣʷata 
+hot: haku	haku-vɨ 
+warm: haku	haku-vɨ 
+water: y	ɨ 
+1 pl. inc.: 5and~e	ore	ñande	ɲaⁿde 
+we: 5and~e	ore	ñande	ɲaⁿde 
+we₁: 5and~e	ore	ñande	ɲaⁿde 
+what: he	mbaʼépa	mb~a7e poSy~	ᵐbaʼʔepa 
+white: morotĩ 
+whiteness: morotĩ 
+who: ava tava	mava	mávapa	ʼmavapa 
+who?: ava tava	mava	mávapa	ʼmavapa 
+female: ku5a	kuña	kuɲa	remb~ireko 
+woman: ku5a	kuña	kuɲa	remb~ireko 
+yellow: hesayju	saʔɨ-ǰu	saʼyju	ǰu 
+distant: mombyry	moᵐbɨrɨ 
+far: mombyry	moᵐbɨrɨ 
+dull: pohýi	poʼhɨi 
+heavy: pohýi	poʼhɨi 
+serious: pohýi	poʼhɨi 
+close: aɣʷĩ	âguĩ 
+near: aɣʷĩ	âguĩ 
+ner: aɣʷĩ	âguĩ 
+salt: juky	ǰukɨ 
+short: mbyky	ᵐbɨkɨ 
+snake: mbói	ʼᵐboi 
+thin: pererĩ	poʔi 
+wind: yvytu	ɨvɨtu 
+earthworm: sevoʔi	taso 
+worm: sevoʔi	taso 
+year: ara-ǰere	ary	arɨ	roʔɨ 
+3 sg.: haʼe	i 
+he: haʼe	i 
+she: haʼe	i 
+2 pl.: pe	peẽ 
+ye: pe	peẽ 
+you all: pe	peẽ 
+3 pl.: haʔe-ʼkuera	haʼekuéra	hikúai 
+they: haʔe-ʼkuera	haʼekuéra	hikúai 
+here: koʼápe 
+there: upépe 
+where: mamópa	moõ 
+where?: mamópa	moõ 
+when: arakaʔe	arakaʼépa 
+when?: arakaʔe	arakaʼépa 
+how: mbaʼéichapa	ᵐbaʼʔeiča 
+how?: mbaʼéichapa	ᵐbaʼʔeiča 
+some: mbovy	ᵐbaʔe 
+few: mbovy	mičĩ	ᵐbovɨ 
+other: ambue 
+three: mbohapy	ᵐbohapɨ 
+four: irundy	iruⁿdɨ 
+five: po	sinko 
+broad: pe	pɨ	pɨ-ɣʷasu 
+wide: pe	pɨ	pɨ-ɣʷasu 
+wideness: pe	pɨ	pɨ-ɣʷasu 
+thick: anaᵐbusu	kyra	poɣʷasu 
+narrow: poʔi	poʼi	pɨkaʔi 
+child: mitã	mitãʼi 
+principal wife: t-eᵐbireko	tembireko 
+wife: t-eᵐbireko	tembireko 
+husband: ména	ʼmena 
+his mother: sy	sɨ 
+mother: sy	sɨ 
+my mother: sy	sɨ 
+father: ru	túa	túva	ʼtuva 
+his father: ru	túa	túva	ʼtuva 
+my father: ru	túa	túva	ʼtuva 
+animal: mymba	t-ɨᵐba	tymba 
+forest: kaʔa-ɣʷɨ	kaʼaguy 
+woods: kaʔa-ɣʷɨ	kaʼaguy 
+branch: pokoka	rakã	t-akã	ɨvɨra-rakã 
+stick: pokoka	rakã	t-akã	ɨvɨra-rakã 
+fruit: a	yva	ɨva 
+flower: yvoty	ɨvotɨ 
+grass: kapiʔipe	kaʼa	ñana	ɲana 
+cord: sã	tukuᵐbo 
+rope: sã	tukuᵐbo 
+fingernail: pyapẽ	pɨapẽ	pɨsãpe 
+leg: hetyma	retyma	t-etɨma	tetyma 
+arm: po 
+wing: pepo 
+gut: pyʼakue	t-ɨe	t-ɨekue 
+guts: pyʼakue	t-ɨe	t-ɨekue 
+insides: pyʼakue	t-ɨe	t-ɨekue 
+intestine: pyʼakue	t-ɨe	t-ɨekue 
+intestines: pyʼakue	t-ɨe	t-ɨekue 
+back: ape	atukupe 
+suck: kaᵐbu	pyte	pɨte 
+spit: ndyvu	ⁿdivu 
+vomit: gueleʼe	ɣʷeʔẽ 
+blow: peju	peǰu 
+breath: pytuhẽ	pɨtu	pɨtu-hẽ 
+breathe: pytuhẽ	pɨtu	pɨtu-hẽ 
+laugh: puka 
+laughter: puka 
+cogitate: akãŋeta	moʔã	moʼã	ǰesareko 
+reflect: akãŋeta	moʔã	moʼã	ǰesareko 
+think: akãŋeta	moʔã	moʼã	ǰesareko 
+smell: aⁿdu	h-etũ	hetũ 
+sniff: aⁿdu	h-etũ	hetũ 
+afraid: kyhyje	kɨhɨǰe	pɨʔa-mirĩ 
+be afraid: kyhyje	kɨhɨǰe	pɨʔa-mirĩ 
+fear: kyhyje	kɨhɨǰe	pɨʔa-mirĩ 
+fright: kyhyje	kɨhɨǰe	pɨʔa-mirĩ 
+alive: ko	kove	t-ekove 
+be alive: ko	kove	t-ekove 
+life: ko	kove	t-ekove 
+live: ko	kove	t-ekove 
+living: ko	kove	t-ekove 
+fight: ñorairõ	ɲorairõ 
+hunt: mariska	t-ɨᵐba-api	ɣʷɨraʔapi 
+beat: japete	ᵐbota 
+hit: japete	ᵐbota 
+strike: japete	ᵐbota 
+cut: kytỹ	kɨtĩ 
+hack: kytỹ	kɨtĩ 
+cut open: ǰoka	ᵐbo-vo 
+split: ǰoka	ᵐbo-vo 
+pierce: kutu 
+stab: kutu 
+scratch: karãi 
+dig: joʼo	ǰoʔo	ᵐboʔ-ɨvɨ-kua 
+tell lies: ty	ǰapu 
+stand: moɲeᵐboʔɨ	puʔã	puʼã	yvyku7i	ɲeᵐboʔɨ 
+turn: pyryrỹi	ǰere	ᵐbo-ǰere 
+turn around: pyryrỹi	ǰere	ᵐbo-ǰere 
+turn round: pyryrỹi	ǰere	ᵐbo-ǰere 
+drop: -ʼa	a 
+fall: -ʼa	a 
+grasp: pɨhɨ	reko 
+hold: pɨhɨ	reko 
+hold in arm: pɨhɨ	reko 
+squeeze: jopy	ǰopɨ 
+wring: jopy	ǰopɨ 
+rub: kyty	kɨtɨ	pičɨ 
+wipe: kyʼaʼo 
+wash: johéi	ǰoʼhei 
+wash clothes: johéi	ǰoʼhei 
+pull: nohẽ 
+push: muaña	muaɲa	mɨaɲa 
+shove: muaña	muaɲa	mɨaɲa 
+throw: itɨ	moᵐbo	ty 
+bind: mosã	ñapytĩ	ɲapɨtĩ 
+fasten: mosã	ñapytĩ	ɲapɨtĩ 
+tie: mosã	ñapytĩ	ɲapɨtĩ 
+tie up: mosã	ñapytĩ	ɲapɨtĩ 
+sew: mbovyvy	ᵐbovɨvɨ 
+count: papa 
+enumerate: papa 
+number: papa 
+tally: papa 
+sing: purahéi	puraʼhei 
+have fun: mo-saraᵐbi	ñembosarái	ɲeᵐbosaʼrai 
+play: mo-saraᵐbi	ñembosarái	ɲeᵐbosaʼrai 
+float: vevýi	veʼvui 
+flow: syry	sɨrɨ 
+freeze: Hoʼysâ	Roʼysâ	Toʼysâ 
+brook: ysyry	ɨ-sɨrɨ 
+river: ysyry	ɨ-sɨrɨ 
+stream: ysyry	ɨ-sɨrɨ 
+lake: ypa	ɨpa	ɨreⁿda 
+ocean: para 
+sea: para 
+dust: yvytimbo	ɨvɨ-tiᵐbo 
+fog: araipɨtu	t-ata-tina	tatatína 
+sky: yvága	ɨʼvaɣa 
+snow: amaŋuʔiroʔɨ	yrypyʼa	ɨrɨpɨʔa 
+ice: yrypyʼa	ɨ-rɨpɨʔa	ɨatã 
+blaze: h-eⁿdɨ	hovere	kai	kái 
+burn: h-eⁿdɨ	hovere	kai	kái 
+day: ára	ʼara 
+daylight: ára	ʼara 
+daytime: ára	ʼara 
+old: tuja 
+bad: aɲa	vai	ɲaɲa 
+evil: aɲa	vai	ɲaɲa 
+rot: ituǰu	tuju	tuǰu 
+rotten: ituǰu	tuju	tuǰu 
+dirty: kyʼa	kɨʔa 
+filthy: kyʼa	kɨʔa 
+soiled: kyʼa	kɨʔa 
+straight: ikareʔɨ̃va	ɨvi 
+sharp: haimbe	haiᵐbe 
+blunt: haiŋa	hakuaʔɨ̃va 
+smooth: sỹi	ʼsɨ̃i 
+damp: akɨ̃	hykue	hɨkue 
+wet: akɨ̃	hykue	hɨkue 
+correct: h-eko-katu	h-eko-porã	hekopete	oĩporã	porâ 
+right side: akatúape	akaʼtua 
+left: asu	asúpe 
+at: -pe 
+in: -pe	kotɨʼpɨpe	pýpe	pɨpe 
+inside: -pe	kotɨʼpɨpe	pýpe	pɨpe 
+with: ndi	ndie	ndive 
+and: ha 
+if: ramo	rõ	… rõ 
+because: ajeve	ɣʷi 

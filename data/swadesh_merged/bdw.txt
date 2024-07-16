@@ -1,0 +1,395 @@
+all: bionambak | bionambak	nanaye	taɣüa 
+all: nanaye | bionambak	nanaye	taɣüa 
+all: taghüa | bionambak	nanaye	taɣüa 
+arm: kamen 
+ashes: poːn | poun	poŋ	poːn 
+ashes: pong | poun	poŋ	poːn 
+ashes: poon | poun	poŋ	poːn 
+ashes: poun | poun	poŋ	poːn 
+back: ebes 
+back: ebis 
+bad: kukuwait 
+bad: kukwed 
+bark: adokpa | adokpa	adoqaq 
+bark: adoqaq | adokpa	adoqaq 
+belly: tikanbun | tikanbun	tukumban	umbun 
+belly: tukumban | tikanbun	tukumban	umbun 
+belly: umbun | tikanbun	tukumban	umbun 
+big: uinta | uinta	wida 
+big: wida | uinta	wida 
+big: yaye | uinta	wida 
+bird: paruaru | paru-baru	paruaru	parubaru	paruburu 
+bird: parubaru | paru-baru	paruaru	parubaru	paruburu 
+bird: paru-baru | paru-baru	paruaru	parubaru	paruburu 
+bird: paruburu | paru-baru	paruaru	parubaru	paruburu 
+bitter: minjhir 
+bitter: mintië 
+black: sëne | snekt	səne	sənek 
+black: sënek | snekt	səne	sənek 
+black: sənek | snekt	səne	sənek 
+black: snekt | snekt	səne	sənek 
+blood: atpadin | atpadin	kot	uyak	wiek	wiək 
+blood: kot | atpadin	kot	uyak	wiek	wiək 
+blood: uyak | atpadin	kot	uyak	wiek	wiək 
+blood: wiek | atpadin	kot	uyak	wiek	wiək 
+blood: wiëk | atpadin	kot	uyak	wiek	wiək 
+bone: ntoxa | ntoxa	ntoxar	togar	tokar 
+bone: ntoxar | ntoxa	ntoxar	togar	tokar 
+bone: togar | ntoxa	ntoxar	togar	tokar 
+bone: tokar | ntoxa	ntoxar	togar	tokar 
+branch: saxoq 
+branch: tanggan 
+breast: son 
+brother: ane 
+brother: ano 
+burn: reb 
+butterfly: banaï 
+butterfly: panabona 
+calf: kuet-un 
+cheek: kpaho 
+cheek: kwago 
+chest: ad-padi 
+chest: at-padin 
+child: ajut-kawait.. 
+child: meja 
+chin: dumu 
+chin: ndamu 
+cloud: komah | komah	koməq 
+cloud: komëq | komah	koməq 
+cold: kboun | kboun	kopoŋ 
+cold: kopong | kboun	kopoŋ 
+come: kawe | kawe	kawet́	tambrik	tumbrik 
+come: kawet! | kawe	kawet́	tambrik	tumbrik 
+come: tambrik | kawe	kawet́	tambrik	tumbrik 
+come: tumbrik | kawe	kawet́	tambrik	tumbrik 
+crocodile: satio 
+day: amahwa 
+day: undukiskana 
+dog: yamba | yamba	yambar 
+dog: yambar | yamba	yambar 
+drink: kriyanewa | kriyanewa	nawa	noa 
+drink: nawa | kriyanewa	nawa	noa 
+drink: noa | kriyanewa	nawa	noa 
+dry: nggworo | tiakï	ŋgworo 
+dry: tiakï | tiakï	ŋgworo 
+ear: kuyer | kuyer	kweː	kwir-pak 
+ear: kwee | kuyer	kweː	kwir-pak 
+ear: kwir-pak | kuyer	kweː	kwir-pak 
+earth: suë | suor 
+earth: suor 
+earth: s(u)or | suor 
+eat: nawa | nawa	noa	nowa	taitiaŋandit 
+eat: noa | nawa	noa	nowa	taitiaŋandit 
+eat: nowa | nawa	noa	nowa	taitiaŋandit 
+eat: taitiangandit | nawa	noa	nowa	taitiaŋandit 
+egg: no | no	un 
+egg: un | no	un 
+elbow: kamen-tuguan 
+elbow: kuman-tunggon 
+excrement: tiët 
+eye: kiep | ki-ep	kiep	kiyeb 
+eye: ki-ep | ki-ep	kiep	kiyeb 
+eye: kiyeb | ki-ep	kiep	kiyeb 
+face: kimi 
+far: amos 
+father: eynda 
+fat (n.): jajier 
+feather: kendi.et | kendi.et	keŋgiyet	kieŋgyit 
+feather: kenggiyet | kendi.et	keŋgiyet	kieŋgyit 
+feather: kienggyit | kendi.et	keŋgiyet	kieŋgyit 
+finger: kamen-kworkwor 
+finger: kamen-poor 
+finger: kweit-kworkwor 
+fingernail: kamen pag 
+fingernail: pa 
+fingernail: pag 
+finger: pur 
+fire: yambu (?ghambu) | yambu	yambur	yambut 
+fire: yambur | yambu	yambur	yambut 
+fire: yambut | yambu	yambur	yambut 
+fish: sey | sey	sui	zei 
+fish: sui | sey	sui	zei 
+fish: zei | sey	sui	zei 
+five: kutumbu 
+five: tumbu 
+fly (n.): betbedu 
+fly (n.): manggana 
+fly (n.): mëngganut 
+fly (v.): koru 
+fly (v.): poro 
+foot: kuet | kuet	kweit	kweit-praːm 
+foot: kweit(-praam) | kuet	kweit	kweit-praːm 
+forehead: keimiep 
+forehead: kipkanggis 
+forest: amanchi 
+forest: tigem 
+four: kurianggra 
+four: verangrak 
+fruit: kais 
+fruit: mdajs (?) 
+give: (andu)tawano | nuwye	tawano 
+give: nuwye | nuwye	tawano 
+good: iteniep | iteniep	tikiniet	tiŋinip 
+good: tikiniet | iteniep	tikiniet	tiŋinip 
+good: tinginip | iteniep	tikiniet	tiŋinip 
+good: tiŋinip | iteniep	tikiniet	tiŋinip 
+green: ramramës | ramraməs 
+guts: umbun-tar 
+hair: kanda-tawe | kanda-tawe	kentiet	tawe 
+hair: kentiet | kanda-tawe	kentiet	tawe 
+hair: kinggiyet | kanda-tawe	kentiet	tawe 
+hair: tawe | kanda-tawe	kentiet	tawe 
+hand: kame | kame	kamen	kamen-prem 
+hand: kamen | kame	kamen	kamen-prem 
+hand: kamen-prem | kame	kamen	kamen-prem 
+head: këmëna (?) | kenda-wame	kendo-wame	kəməna	kəndo-wame 
+head: kenda-wame | kenda-wame	kendo-wame	kəməna	kəndo-wame 
+head: kendo-wame | kenda-wame	kendo-wame	kəməna	kəndo-wame 
+head: këndo-wame | kenda-wame	kendo-wame	kəməna	kəndo-wame 
+hear: homonet | homonet	kəməna 
+hear: këmëna | homonet	kəməna 
+heavy: tangge | taŋge	taŋgie 
+heavy: tanggie | taŋge	taŋgie 
+heel: kuet 
+here: datmo 
+here: yonen 
+he/she: unggea 
+hole: puruk 
+house: imeaq 
+house: umiak 
+how: tanib 
+I: andu | andu	antu 
+I: antu | andu	antu 
+I: ta- | andu	antu 
+knee: kuet-tengon | kuet-teŋon	kwei-tuŋuan 
+knee: kwei-tunguan | kuet-teŋon	kwei-tuŋuan 
+leaf: awian-towe | awian-towe	tawer	toe 
+leaf: tawer | awian-towe	tawer	toe 
+leaf: toe | awian-towe	tawer	toe 
+leg: kueit 
+lightning: vongtos 
+lightning: wonggorop 
+lip: si-kapin 
+lip: sing-kapi 
+live: agichacha 
+live: kuas 
+louse: mim 
+louse: min 
+man: nambiker | kendian 
+man: namia | kendian 
+man: wet-namia | kendian 
+many: tayok | tayok	tayüa 
+many: tayüa | tayok	tayüa 
+meat: kue 
+meat: tambuk 
+moon: kaabas | kawas	kaːbas	kwas 
+moon: kawas | kawas	kaːbas	kwas 
+moon: kwas | kawas	kaːbas	kwas 
+morning: kweykwe 
+morning: kwiskwait 
+mosquito: kekibon 
+mosquito: këkibun 
+mosquito: kikiwun 
+mother: ney 
+mountain: tiri 
+mouth: si(e)n | sien	sin 
+mouth: sin | sien	sin 
+name: nie | nie	niye 
+name: niye | nie	niye 
+navel: urumbu 
+near: susuni 
+neck: mahara | mahara	waheŋsiǯet	waŋgiet 
+neck: wahengsijet | mahara	waheŋsiǯet	waŋgiet 
+neck: wanggiet | mahara	waheŋsiǯet	waŋgiet 
+new: timbirik | yaŋgai	yaŋgren 
+new: yanggai | yaŋgai	yaŋgren 
+new: yanggren | yaŋgai	yaŋgren 
+night: dëngdüong | dyendyuŋ	dǯudǯu	dəŋdüoŋ 
+night: djudju | dyendyuŋ	dǯudǯu	dəŋdüoŋ 
+night: dyendyung | dyendyuŋ	dǯudǯu	dəŋdüoŋ 
+night: dyendyuŋ | dyendyuŋ	dǯudǯu	dəŋdüoŋ 
+nose: manggobur | maŋgobur	maŋubor	naŋkobua 
+nose: mangubor | maŋgobur	maŋubor	naŋkobua 
+nose: nangkobua | maŋgobur	maŋubor	naŋkobua 
+old: kedauq 
+old: tamangbarangue 
+old: tidau 
+one: huyegono | huyegono	kujegono	ogono	ogwono 
+one: ogono | huyegono	kujegono	ogono	ogwono 
+one: ogwono | huyegono	kujegono	ogono	ogwono 
+person: kendian 
+rain: chari | tiari	čhari 
+rain: tiari | tiari	čhari 
+rat: korobe 
+rat: korowat 
+red: rarema 
+right: kwe | kame	kamen	kamen-prem 
+ripe: hiak 
+river: kue 
+river: weja 
+road: ues 
+road: wes 
+root: (adok-)pur | adok-pur	pu	pur 
+root: pu | adok-pur	pu	pur 
+rope: vari 
+rotten: wona 
+sand: sëmen | semeŋ	səmen	səmeŋ 
+sand: semeng | semeŋ	səmen	səmeŋ 
+sand: sëmeng | semeŋ	səmen	səmeŋ 
+say: mak-paro! | semeŋ	səmen	səmeŋ 
+say: pore! | semeŋ	səmen	səmeŋ 
+sea: koep 
+seed: kais | kais	kays 
+seed: kays | kais	kays 
+see: maharot | maharot	naharadet	naharot 
+see: naharadet | maharot	naharadet	naharot 
+see: naharot | maharot	naharadet	naharot 
+short: togop 
+shoulder: karem 
+sing: mareskeif! 
+sister: ane 
+sister: ano 
+sit: mahena | mahena	mehen	mehena 
+sit: mehen | mahena	mehen	mehena 
+sit: mehena | mahena	mehen	mehena 
+skin: pag | pa	pag	pak 
+skin: pak | pa	pag	pak 
+skin: pa(k) | pa	pag	pak 
+sky: vong 
+sky: wong 
+sleep: garu- | garu-	ŋgaru 
+sleep: nggaru | garu-	ŋgaru 
+small: kamea | kamea	kameya 
+small: kameya | kamea	kameya 
+smoke: bararoi | bararoi	terere 
+smoke: terere | bararoi	terere 
+snake: kus 
+sour: sinere 
+spit: tëkabus 
+spit: tikawus 
+stand: nandara\ 
+stand: nendëra 
+star: kest | kest	kiskis 
+star: kiskis | kest	kiskis 
+stone: wa | wa	war	waːr 
+stone: waar | wa	war	waːr 
+stone: war | wa	war	waːr 
+sun: kamimi | kamimi	kamini	tamini 
+sun: kamini | kamimi	kamini	tamini 
+sun: tamini | kamimi	kamini	tamini 
+sweet: kuhi 
+sweet: pien 
+swim: kërë-neruk | kərə-neruk	naroup	noruk 
+swim: naroup | kərə-neruk	naroup	noruk 
+swim: noruk | kərə-neruk	naroup	noruk 
+tail: ow | ow	wor 
+tail: wor | ow	wor 
+that: gesingga | gesiŋga 
+there: wadnggar 
+they: kindian... 
+they: kuyukintian 
+thigh: chuon 
+thigh: ndanbrenggis 
+this: desmo 
+thou: kuyu | tau 
+thou: tau 
+three: aundik 
+three: aundir 
+three: kw-undik 
+thunder: buëngërep 
+thunder: kwamenitas 
+today: undukismo 
+today: wondihismo 
+tomorrow: irik 
+tongue: nggabe | siŋgambir	ŋgabe	ɲabe 
+tongue: nyabe | siŋgambir	ŋgabe	ɲabe 
+tongue: singgambir | siŋgambir	ŋgabe	ɲabe 
+tooth: sin-ta | sin-ta	sin-tap 
+tooth: sin-tap | sin-ta	sin-tap 
+tooth: sin-ta(p) | sin-ta	sin-tap 
+tree: adok 
+tree: ado-kwiria 
+tree: jharer 
+tree: kentiët 
+two: kwa-reik | -rik	kwa-reik	kwareik	wi-rik	wirik 
+two: -rik | -rik	kwa-reik	kwareik	wi-rik	wirik 
+two: wirik | -rik	kwa-reik	kwareik	wi-rik	wirik 
+two: wi-rik | -rik	kwa-reik	kwareik	wi-rik	wirik 
+walk: ues | ues	wegat́ 
+walk: ues! | ues	wegat́ 
+walk: wegat! | ues	wegat́ 
+walk: weget! | ues	wegat́ 
+warm: sep 
+water: gelya | gelya	kirya 
+water: kirya | gelya	kirya 
+weep: kinisros 
+weep: madara 
+weep: uampi 
+weep: wambi.è 
+wet: pakï 
+we two (incl.): kuyu-wa-rik 
+we two: undu-wa-rik 
+we: undu 
+we: untu 
+what: nana 
+white: buong | buoŋ	bwomt 
+white: bwomt | buoŋ	bwomt 
+who: ntaey 
+wind: maron | maron	meron	moron 
+wind: meron | maron	meron	moron 
+wind: moron | maron	meron	moron 
+wing: kamen 
+wing: paruwor-kaman 
+woman: tempua | tempua	tumbuhor	we-tembota 
+woman: tumbuhor | tempua	tumbuhor	we-tembota 
+woman: we-tembota | tempua	tumbuhor	we-tembota 
+wood: adoq 
+yellow: bugï-ma 
+yesterday: kwamen 
+yesterday: uamen 
+you: kuyu | tau 
+you two: kuyu-wuriknya 
+every: bionambak	nanaye	taɣüa 
+ash: poun	poŋ	poːn 
+abdomen: tikanbun	tukumban	umbun 
+bigness: uinta	wida 
+large: uinta	wida 
+breasts: son 
+come from: kawe	kawet́	tambrik	tumbrik 
+ground: suor 
+land: suor 
+soil: suor 
+fly: koru	poro 
+fly v.: koru	poro 
+left hand: kame	kamen	kamen-prem 
+1 sg.: andu	antu 
+male: nambiker	namia	wet-namia 
+much: tayok	tayüa 
+multiple: tayok	tayüa 
+several: tayok	tayüa 
+hill: tiri 
+title: nie	niye 
+nighttime: dyendyuŋ	dǯudǯu	dəŋdüoŋ 
+adulterous: huyegono	kujegono	ogono	ogwono 
+single: huyegono	kujegono	ogono	ogwono 
+the: huyegono	kujegono	ogono	ogwono 
+unprincipled: huyegono	kujegono	ogono	ogwono 
+human: kendian 
+human being: kendian 
+rainy weather: tiari	čhari 
+hide: pa	pag	pak 
+little: kamea	kameya 
+smallness: kamea	kameya 
+rock: wa	war	waːr 
+2 sg: tau 
+grind: -rik	kwa-reik	kwareik	wi-rik	wirik 
+go: ues	wegat́ 
+hot: sep 
+whiteness: buoŋ	bwomt 
+who?: ntaey 
+female: tempua	tumbuhor	we-tembota 
+distant: amos 
+dull: taŋge	taŋgie 
+serious: taŋge	taŋgie 
+close: susuni 
+ner: susuni 

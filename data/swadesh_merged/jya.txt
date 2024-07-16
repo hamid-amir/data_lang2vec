@@ -1,0 +1,270 @@
+all: kɤ sɯ fse 
+every: kɤ sɯ fse 
+ash: smɯ ʁrɤt 
+ashes: smɯ ʁrɤt 
+abdomen: tɯ xtu 
+belly: tɯ xtu 
+big: wxti 
+bigness: wxti 
+large: wxti 
+bird: pɣa 
+bite: nɤ sŋɯt 
+black: ɲaʁ 
+blood: Si	toSi	tɤ se 
+bone: Sa r3	Sar3	ɕɤ rɯ 
+breast: %nu	t3nu	torokh~orkh~or	tɯ nɯ 
+breasts: %nu	t3nu	torokh~orkh~or	tɯ nɯ 
+burn: nɯt 
+burn tr.: nɯt 
+cloud: zdɯm 
+cold: ɣɤ ndʐo 
+come: kopo	po	ɣi 
+come from: kopo	po	ɣi 
+be dead: Si	koSi	si 
+dead: Si	koSi	si 
+die: Si	koSi	si 
+dog: kh~3 no	kh~3no	khɯna 
+drink: komot	mot	tshi 
+dry: zbaʁ 
+ear: %rno	t3rno	tɯ rna 
+eat: ndza 
+egg: tɤ ŋgɯm 
+eye: m5ok	t3m5ok	tɯ mɲaʁ 
+feather: tɤ muj 
+fire: mCik	smi	t3mC3t 
+fish: Cu yo	pS3uyo	qa ɟy 
+fly: nɯ qa mbɯ mbjom 
+fly v.: nɯ qa mbɯ mbjom 
+full: k3m5ot	m5ok 
+good: pe 
+green: a rŋi 
+hair: tɯ rme 
+hand: tayak	tɯ jaʁ	yok 
+left hand: tayak	tɯ jaʁ	yok 
+right: tayak	tɯ jaʁ	yok 
+head: tɯ ku 
+hear: kor3Nno	msom	mtshɤm 
+horn: ru	t3ru 
+1 sg.: No	aʑo 
+I: No	aʑo 
+kill: sat 
+knee: mNo	t3mNo 
+be knowledgeable: sɯs 
+know: sɯs 
+leaf: iwak	taiwak	tɤ jwaʁ 
+lie: rŋgɯ 
+lie down: rŋgɯ 
+liver: ph~Su	t3pSu	tɯ mtshi 
+long: zri 
+head louse: sor	zrɯɣ 
+louse: sor	zrɯɣ 
+male: tɤ tɕɯ 
+man: rmi	t3rmi	tɯ rme 
+moon: sla 
+hill: towot	wot 
+mountain: towot	wot 
+mouth: tɯ kɯr 
+name: rme	t3rmE	t3rme	tɤ rmi 
+title: rme	t3rmE	t3rme	tɤ rmi 
+neck: tɯ mke 
+new: S3k	k3S3k	ɕɤɣ 
+night: mor	s3wor	tɤ rʑaʁ 
+nighttime: mor	s3wor	tɤ rʑaʁ 
+nose: Sno	t3Sno	tɯ ɕna 
+adulterous: ci	k3tEk	k3tek	tek 
+one: ci	k3tEk	k3tek	tek 
+single: ci	k3tEk	k3tek	tek 
+that: nɯ 
+the: ci	k3tEk	k3tek	tek 
+unprincipled: ci	k3tEk	k3tek	tek 
+human: rmi	t3rmi	tɯ rme 
+human being: rmi	t3rmi	tɯ rme 
+person: rmi	t3rmi	tɯ rme 
+rain: tɕhɤr naʁ 
+rainy weather: tɕhɤr naʁ 
+red: ɣɯ rni 
+path: C3lo	c3 lo	tʂu 
+road: C3lo	c3 lo	tʂu 
+route: C3lo	c3 lo	tʂu 
+root: tɤ zrɤm 
+sand: qa mbɯt 
+say: ti 
+see: %mto	koro	mto 
+sit: amdzu 
+hide: Nci	t3nc~i	tɯ ndʐi 
+skin: Nci	t3nc~i	tɯ ndʐi 
+sleep: nɯ ʑɯβ 
+little: xtɕi 
+small: xtɕi 
+smallness: xtɕi 
+smoke: tɤ khɯ 
+star: c3u ri	c3uri	ʑŋgri 
+rock: Ty~3l3k	Z73 l3k	rdɤ staʁ 
+stone: Ty~3l3k	Z73 l3k	rdɤ staʁ 
+sun: k3yom	yom 
+swim: nɤ ndʑaʁ laʁ 
+tail: tɤ jme 
+this: ki 
+2 sg: no	nɤʑo 
+thou: no	nɤʑo 
+you: no	nɤʑo 
+tongue: Sme	t3SmE	t3Sme	tɯ mdʑu 
+tooth: swo	t3sw~o	tɯ ɕɣa 
+tree: S3k ph~u	S3ph~u 
+grind: %nes	k3nEs	k3nes	ʁnɯs	ʁnɯz 
+two: %nes	k3nEs	k3nes	ʁnɯs	ʁnɯz 
+go: ŋke 
+walk: ŋke 
+hot: mpja 
+warm: mpja 
+water: Ci	t3Ci	tɯ ci 
+1 pl. inc.: N3 5e	N35E	N35e	iʑo 
+we: N3 5e	N35E	N35e	iʑo 
+we₁: N3 5e	N35E	N35e	iʑo 
+what: tɕhi 
+white: ɣrum 
+whiteness: ɣrum 
+who: ɕu 
+who?: ɕu 
+female: tɯ me 
+woman: tɯ me 
+yellow: qa rŋe 
+distant: arqhi 
+far: arqhi 
+dull: rʑi 
+heavy: rʑi 
+serious: rʑi 
+close: armbat 
+near: armbat 
+ner: armbat 
+salt: tsha 
+short: xtɯt 
+snake: qa pri 
+thin: mba 
+wind: qa le 
+earthworm: qa ndʐe 
+worm: qa ndʐe 
+year: tɯ xpa 
+2 pl.: nɯʑo 
+ye: nɯʑo 
+you all: nɯʑo 
+3 pl.: ʑara 
+they: ʑara 
+where: ŋo tɕu 
+where?: ŋo tɕu 
+when: thɤj tɕu 
+when?: thɤj tɕu 
+how: tɕhi ndʐa 
+how?: tɕhi ndʐa 
+other: kɯ maʁ 
+three: χsɯm 
+four: kɯ βde	kɯβde 
+five: kɯ mŋu	kɯmŋu 
+broad: jom 
+wide: jom 
+wideness: jom 
+fat: tɤ tʂɤm 
+thick: jaʁ 
+narrow: ŋgɤr 
+principal wife: tɯ rʑaβ 
+wife: tɯ rʑaβ 
+husband: tɯ nmaʁ 
+his mother: tɯ mu 
+mother: tɯ mu 
+my mother: tɯ mu 
+father: tɯ wa 
+his father: tɯ wa 
+my father: tɯ wa 
+forest: sɯ ŋgɯ 
+woods: sɯ ŋgɯ 
+branch: si rtaʁ 
+stick: si rtaʁ 
+fruit: sɯ mat 
+flower: mɯn toʁ 
+grass: sɯ jno 
+cord: tɯ mbri 
+rope: tɯ mbri 
+flesh: tɤ mthɯm 
+meat: tɤ mthɯm 
+grease: tɤ tʂɤm 
+wing: tɤ ʁar 
+gut: tɯ pu 
+guts: tɯ pu 
+insides: tɯ pu 
+intestine: tɯ pu 
+intestines: tɯ pu 
+back: tɯ mgɯr 
+suck: nɯ nɯ 
+vomit: aqioʁ 
+blow: mɯt 
+breath: tɯ sŋɯro 
+breathe: tɯ sŋɯro 
+laugh: nɤ re 
+laughter: nɤ re 
+cogitate: sɯso 
+reflect: sɯso 
+think: sɯso 
+smell: nɤ mnɤm 
+sniff: nɤ mnɤm 
+afraid: mu 
+be afraid: mu 
+fear: mu 
+fright: mu 
+alive: sɯ su 
+be alive: sɯ su 
+life: sɯ su 
+live: sɯ su 
+living: sɯ su 
+hunt: ɣɤ rʁaʁ 
+beat: ʁndɯ 
+hit: ʁndɯ 
+strike: ʁndɯ 
+cut: phaʁ 
+hack: phaʁ 
+cut open: amboʁ 
+split: amboʁ 
+pierce: sɤ tsa 
+stab: sɤ tsa 
+scratch: qhrɯt 
+dig: lɣa 
+stand: ndzur 
+drop: ŋgra 
+fall: ŋgra 
+grasp: ndo 
+hold: ndo 
+hold in arm: ndo 
+squeeze: ftsɯr 
+wring: ftsɯr 
+throw: lɤt 
+bind: βraʁ 
+fasten: βraʁ 
+tie: βraʁ 
+tie up: βraʁ 
+sew: tʂɯβ 
+count: rtsi 
+enumerate: rtsi 
+number: rtsi 
+tally: rtsi 
+flow: jit 
+lake: mtshu 
+ocean: rɟa mtshu 
+sea: rɟa mtshu 
+dust: rdɯl 
+fog: zdɯm 
+sky: tɯ mɯ 
+bad: ŋɤn 
+evil: ŋɤn 
+rot: tsɣi 
+rotten: tsɣi 
+dirty: ɴqhi 
+filthy: ɴqhi 
+soiled: ɴqhi 
+sharp: mtɕoʁ 
+damp: aci 
+wet: aci 
+right side: χcha pɕoʁ 
+left: ʁe pɕoʁ 
+in: tɕu 
+inside: tɕu 
+and: cho 
+if: tɕhi 

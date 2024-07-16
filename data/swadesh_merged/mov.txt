@@ -1,0 +1,172 @@
+all: pay 
+every: pay 
+ash: hamʔuːʎ 
+ashes: hamʔuːʎ 
+bark: čaθ=kʷil 
+abdomen: iː=to 
+belly: iː=to 
+big: va=tay-m	va=ʎ=tay-m 
+bigness: va=tay-m	va=ʎ=tay-m 
+large: va=tay-m	va=ʎ=tay-m 
+bird: ʔič=a=yer	ʔič=i=yer 
+bite: ča=kʸoː-k 
+black: ɲaː=ʔiːʎ- 
+blood: 5ahw~at	ny~EhwEt	ɲ=a=hʷat 
+bone: 5asak	ny~EsEk	ɲ=a=s=ak 
+breast: iː=wa	ny~EmE 
+breasts: iː=wa	ny~EmE 
+burn: ta=poːm-m 
+burn tr.: ta=poːm-m 
+claw: iː=saʎ=kuʎo=ho 
+nail: iː=saʎ=kuʎo=ho 
+talon: iː=saʎ=kuʎo=ho 
+cloud: ʔiː=kʷe 
+cold: ha=čuːr-k 
+come: i=ðiː-k	idi	ivE	ki8ik	kiyu 
+come from: i=ðiː-k	idi	ivE	ki8ik	kiyu 
+be dead: i=puy-k	ipuy	ipuye 
+dead: i=puy-k	ipuy	ipuye 
+die: i=puy-k	ipuy	ipuye 
+dog: ahat	hat-čoq	hatCoq	hatch~oq 
+drink: i8im	i=θiː-m	ith~i 
+dry: i=roː-v-k 
+ear: i=smaʎk	ismEly~k	smaly~k 
+earth: ʔa=mat 
+ground: ʔa=mat 
+land: ʔa=mat 
+soil: ʔa=mat 
+eat: ʔič=a=ma-m	ʔič=a=maː-m 
+egg: i=θ=ʔaw 
+eye: i8o	ido	idosEk	iː=ðo 
+fat: ʔamu=say 
+fat n.: ʔamu=say 
+grease: ʔamu=say 
+lubricant: ʔamu=say 
+oil: ʔamu=say 
+feather: si=viːʎ 
+fire: E7Ew	a7aw	ʔa=ʔaw 
+fish: Ech~i	aCi	ʔa=čiː 
+fly: i=yer-k 
+fly v.: i=yer-k 
+foot: iː=me 
+full: Eto	tEpes	ta=peːs-m	tam7ork 
+give: aay-m	ay-m 
+good: ʔa=hot-k	ʔa=hoːt-k 
+green: ha=va=suː-k 
+hair: i=ʔe	ɲ=i=ʔe 
+hand: isEly~	isal	iː=saʎ 
+left hand: isEly~	isal	iː=saʎ 
+right: isEly~	isal	iː=saʎ 
+head: čuksa	čuska 
+hear: E7Ev	a=ʔav-k	ha7avak 
+heart: iː=wa 
+horn: ikw~e	iː=kʷe	kikw~e 
+1 sg.: iny~ech~	ʔiɲe-č 
+I: iny~ech~	ʔiɲe-č 
+kill: ta=puy-m 
+knee: himemipuk	imemipuk	iːmem=i=puk 
+be knowledgeable: suːpaw-m 
+know: suːpaw-m 
+leaf: hEmEly~	hamaly~	hamaʎ 
+lie: i=ðik-k 
+lie down: i=ðik-k 
+liver: Civu8i	ch~Evuth~i	ča=vuθiː 
+long: ʔa=kʸuːʎ-m 
+head louse: ny~i7ily~	ɲ=i=ʔiːʎ 
+louse: ny~i7ily~	ɲ=i=ʔiːʎ 
+male: ʔiː=pa 
+man: ipa	p=iː=pa	pi7pE	pi=ʔ=pa	pi=ʔi=pa 
+many: ʔa=paʎ-m 
+much: ʔa=paʎ-m 
+multiple: ʔa=paʎ-m 
+several: ʔa=paʎ-m 
+flesh: kiːkʷay	kʷiːkʷay 
+meat: kiːkʷay	kʷiːkʷay 
+moon: haʎ=ʔa 
+hill: Evi	ʔa=viː 
+mountain: Evi	ʔa=viː 
+mouth: iː=ya 
+name: himuly~	i=muːʎ	imuly~ 
+title: himuly~	i=muːʎ	imuly~ 
+neck: maʎaqe 
+new: ma=piːθ-	mapith~	wE7ipEy 
+night: ti5am	tiny~Em	tiː=ɲam- 
+nighttime: ti5am	tiny~Em	tiː=ɲam- 
+nose: ihu	iː=hu 
+not: =mot- 
+adulterous: asent~ik	seto	ʔa=sent-k	ʔasent 
+one: asent~ik	seto	ʔa=sent-k	ʔasent 
+single: asent~ik	seto	ʔa=sent-k	ʔasent 
+that: hova-č 
+the: asent~ik	seto	ʔa=sent-k	ʔasent 
+unprincipled: asent~ik	seto	ʔa=sent-k	ʔasent 
+human: ipa	p=iː=pa	pi7pE	pi=ʔ=pa	pi=ʔi=pa 
+human being: ipa	p=iː=pa	pi7pE	pi=ʔ=pa	pi=ʔi=pa 
+person: ipa	p=iː=pa	pi7pE	pi=ʔ=pa	pi=ʔi=pa 
+rain: ku-vʔaw	ku=vʔaw 
+rainy weather: ku-vʔaw	ku=vʔaw 
+red: ʔa=hʷat-m	ʔa=hʷaːt-m 
+path: Ev7uny~e	avu5eh	ʔav=ʔuɲe 
+road: Ev7uny~e	avu5eh	ʔav=ʔuɲe 
+route: Ev7uny~e	avu5eh	ʔav=ʔuɲe 
+root: sama	ʔič=sama 
+round: yena=yen- 
+sand: saʎʔay	ʔamat=saʎʔay 
+say: i-m 
+see: i=yuː-k	iyu	kiyuk 
+seed: i=ðiːč 
+sit: i=va-k 
+hide: aly~oq	imEt	čaθ=kʷil 
+skin: aly~oq	imEt	čaθ=kʷil 
+sleep: i=sma-m 
+little: i=čʔaw-k 
+small: i=čʔaw-k 
+smallness: i=čʔaw-k 
+smoke: ʔa=hʷaː 
+stand: i=vʔaw-m 
+star: Em7use	hEmuse	hamase	hamuse 
+rock: avi	ʔa=viː 
+stone: avi	ʔa=viː 
+sun: Eny~E	a5a	ʔa=ɲa 
+swim: ʔahaʎ=a=ʔoːp-k 
+tail: iː=ʔar 
+this: viða-č 
+2 sg: many~ch~	maɲ-č 
+thou: many~ch~	maɲ-č 
+you: many~ch~	maɲ-č 
+tongue: ipEly~	ipal	iː=paʎ 
+tooth: i8o	ido	ido7ich~EmEny~	iː=ðoː 
+grind: hEvik	havik	havik-k 
+two: hEvik	havik	havik-k 
+go: i=ye-m-k 
+walk: i=ye-m-k 
+hot: i=piʎ-k	i=piːʎ-k 
+warm: i=piʎ-k	i=piːʎ-k 
+water: EhE	EhEvir	aha	ʔa=ha 
+1 pl. inc.: iny~ech~vch~	ʔiɲeː-čv-č 
+we: iny~ech~vch~	ʔiɲeː-čv-č 
+we₁: iny~ech~vch~	ʔiɲeː-čv-č 
+what: kuːč 
+white: ɲa=ma=sav- 
+whiteness: ɲa=ma=sav- 
+who: maka-č 
+who?: maka-č 
+female: θiɲa=ʔaːk 
+woman: θiɲa=ʔaːk 
+yellow: ʔa=qʷaːθ-m	ʔa=qʷaθ-m 
+distant: ʔa=miːč-k 
+far: ʔa=miːč-k 
+dull: i=neːh-	i=neːθ- 
+heavy: i=neːh-	i=neːθ- 
+serious: i=neːh-	i=neːθ- 
+close: i=pan-m 
+near: i=pan-m 
+ner: i=pan-m 
+salt: ʔaθ=ʔiː 
+short: wena=wen- 
+snake: ʔa=ve 
+thin: ʔuːhʔaːr-k 
+wind: mat=ha	mata=ha 
+earthworm: i=ʔˈiːʎ-va 
+worm: i=ʔˈiːʎ-va 
+year: hoðe	huːðe 

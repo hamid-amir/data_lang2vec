@@ -1,0 +1,528 @@
+all: gbɯ́ | gbí	gbə́	gbɯ́ 
+all: gbə́ | gbí	gbə́	gbɯ́ 
+all: gbí | gbí	gbə́	gbɯ́ 
+and: ni 
+animal: íwis | vis	íwis	ŋ-vis 
+animal: (ŋ˗)vis | vis	íwis	ŋ-vis 
+arm: píːa 
+arm: píːa˗ónuːɣɛ 
+arm: (ti˗)píà 
+arrow: kɛ 
+ashes: púlte | púlte 
+back: kʰɔk 
+bad: gbáŋ | gbáŋ	way	woi	wo˞ri	wɔy 
+bad: way | gbáŋ	way	woi	wo˞ri	wɔy 
+bad: woi | gbáŋ	way	woi	wo˞ri	wɔy 
+bad: wo˞ri | gbáŋ	way	woi	wo˞ri	wɔy 
+bad: wɔy | gbáŋ	way	woi	wo˞ri	wɔy 
+bark: kɔ́k | kɔ́k 
+because: ha͂́ːlʷɔ | hã́ːlʷɔ 
+belly: kun | kun	kʼùn	ti-kʼùn 
+belly: pút u bùm | kun	kʼùn	ti-kʼùn 
+belly: tʰĕm | kun	kʼùn	ti-kʼùn 
+belly: (ti˗)k\ùn | kun	kʼùn	ti-kʼùn 
+big: bóːmu | bóːmu	bùm 
+big: bùm | bóːmu	bùm 
+bird: íwe | si-vé	vé	íwe 
+bird: (si˗)vé | si-vé	vé	íwe 
+bite: čámák | kʰɤ́l 
+bite: kʰɤ́l | kʰɤ́l 
+bite: sóm | kʰɤ́l 
+bitter: lọ̀l 
+black: pík | pìtʰ	pík	ti	tʼi 
+black: pìtʰ | pìtʰ	pík	ti	tʼi 
+black: ti | pìtʰ	pík	ti	tʼi 
+black: t\i | pìtʰ	pík	ti	tʼi 
+blood: ŋ́koːaŋ | Nk~oN	ŋkɔ̀ŋ	ŋ́koːaŋ 
+blood: ŋkɔ̀ŋ | Nk~oN	ŋkɔ̀ŋ	ŋ́koːaŋ 
+blow: fɔ́s | fɔ́s 
+bone: pak | pak	pák 
+bone: pák | pak	pák 
+boy: pumɔ́ 
+boy: trámoːdɛ 
+branch: píà tɔk | píà tɔk 
+breast: ḿmo | mɔ	ḿmo 
+breast: mɔ | mɔ	ḿmo 
+breast: mɔ́ tuk | mɔ	ḿmo 
+breathe: hɔ̀l | hɔ̀l	wɔːl 
+breathe: hɔ̀lɔ́ŋ | hɔ̀l	wɔːl 
+breathe: wɔːl | hɔ̀l	wɔːl 
+brother: kumna 
+brother: pɛ́ntre mbɛ́ndɛ 
+brother: pɛ́ntre mpúmoːlɛ 
+butterfly: čagíːtá 
+calf: bə̀l 
+calf: ndùkʰ 
+cheek: nté 
+chest: iːkét 
+chest: kèːt 
+child: čantʰ | tá	čantʰ 
+child: tá | tá	čantʰ 
+chin: čɛ́kɛ́m 
+cloud: tʰọk˗á˗tʰọk | tʰọk-á-tʰọk 
+cold: bɔs | bɔs	bɔ̀s 
+cold: bɔ̀s | bɔs	bɔ̀s 
+come: hún | hun	hún	móːɛ 
+come: móːɛ | hun	hún	móːɛ 
+correct: eé | eé	kɛ̀lɛ̀ŋ 
+correct: kɛ̀lɛ̀ŋ | eé	kɛ̀lɛ̀ŋ 
+crocodile: iːkí 
+cut: bátʰ | bátʰ	kátʰ	káθ 
+cut: kátʰ | bátʰ	kátʰ	káθ 
+cut: káθ | bátʰ	kátʰ	káθ 
+dark: pí 
+dark: ríri 
+daughter: wanta (ma) 
+daughter: wóa͂ːlɛ 
+day: họ̀ɛ | lipal	m-pàl	pàl	yíːpal 
+day: lipal | lipal	m-pàl	pàl	yíːpal 
+day: (m˗)pàl | lipal	m-pàl	pàl	yíːpal 
+day: yíːpal | lipal	m-pàl	pàl	yíːpal 
+die: wu | wu	wú 
+die: wú | wu	wú 
+dig: bọy | bọy 
+dirty: gbɛ̀t 
+dog: tumɔ̀ | 8umoa	tumɔ̀	túmuːɛ 
+dog: túmuːɛ | 8umoa	tumɔ̀	túmuːɛ 
+drink: kúl | kul	kúl	kúlu 
+drink: kúlu | kul	kúl	kúlu 
+dry: gbéːta | gbéːta	sɛ̀k 
+dry: sɛ̀k | gbéːta	sɛ̀k 
+dust: gbum 
+ear: nu͂́ɪ́ | nu*i	nui	nṹɪ́ 
+ear: nui | nu*i	nui	nṹɪ́ 
+earth: lɛ 
+eat: čó | nǯé	sɔm	čó 
+eat: nǯé | nǯé	sɔm	čó 
+eat: sɔm | nǯé	sɔm	čó 
+egg: d˗épel | d-épel	pɤl 
+egg: pɤl | d-épel	pɤl 
+elbow: (č\˗)núk 
+elbow: nuːŋ 
+eye: kupɔ̀ | hol	hɔ́l	ti-hɔ́l	túhɔːl 
+eye: (ti˗)hɔ́l | hol	hɔ́l	ti-hɔ́l	túhɔːl 
+eye: túhɔːl | hol	hɔ́l	ti-hɔ́l	túhɔːl 
+face: tɔ̀lɛ 
+face: tuhɔ́lɛː 
+fall: dúgɔ | dúgɔ	dúk 
+fall: dúk | dúgɔ	dúk 
+far: livíl | livíl	polọ́ŋ 
+far: polọ́ŋ | livíl	polọ́ŋ 
+father: bàː | baːm	bàː 
+father: baːm | baːm	bàː 
+feather: (n˗)čæ | n-čæ	čæ 
+fight: čo͂̀ | čõʏ̈ 
+fingernail: (n˗) rɔntmà | n- rɔntmà	rɔntmà	šɛ́ndaŋ 
+fingernail: šɛ́ndaŋ | n- rɔntmà	rɔntmà	šɛ́ndaŋ 
+finger: púkàn 
+finger: séwɛm 
+finger: (si˗)sú 
+finger: (si˗) vɛ̀m 
+finger: su 
+finger: zu 
+fire: di˗čɛ́ːm | di-čɛ́ːm	li-ǯam	liTam	ǯam 
+fire: (li˗)ǯam | di-čɛ́ːm	li-ǯam	liTam	ǯam 
+fish: iːyú | iːyú	yu	yù 
+fish: yù | iːyú	yu	yù 
+five: mɛn | mɛn	mɛ̀n 
+five: mɛ̀n | mɛn	mɛ̀n 
+float: čʲáŋ | fuluŋ	čʲáŋ 
+float: fuluŋ | fuluŋ	čʲáŋ 
+flower: ial 
+flow: sɔ́ːs | sɔ́ːs 
+fly (n.): (m˗)pɯ̀ŋ 
+fly (n.): pɪ̀ŋ 
+fly (v.): híl 
+fly (v.): yíl 
+foot: bɛ́˗čok | bə̀ŋ	bɛ̀ŋ	bɛ́-čok	ti-bɛ̀ŋ 
+foot: bɛ́ndɔ | bə̀ŋ	bɛ̀ŋ	bɛ́-čok	ti-bɛ̀ŋ 
+foot: bə̀ŋ | bə̀ŋ	bɛ̀ŋ	bɛ́-čok	ti-bɛ̀ŋ 
+foot: bindàŋ | bə̀ŋ	bɛ̀ŋ	bɛ́-čok	ti-bɛ̀ŋ 
+foot: iːbínteŋa | bə̀ŋ	bɛ̀ŋ	bɛ́-čok	ti-bɛ̀ŋ 
+foot: (ti˗)bɛ̀ŋ | bə̀ŋ	bɛ̀ŋ	bɛ́-čok	ti-bɛ̀ŋ 
+forehead: muk 
+forehead: múk 
+forest: gbóŋkɔ | gbóŋkɔ	gbɔŋkɔ̀	ti- gbɔŋkɔ̀	toː 
+forest: (ti˗) gbɔŋkɔ̀ | gbóŋkɔ	gbɔŋkɔ̀	ti- gbɔŋkɔ̀	toː 
+forest: toː | gbóŋkɔ	gbɔŋkɔ̀	ti- gbɔŋkɔ̀	toː 
+four: hiɔ̀l | hiɔ̀l	hyɔl	niɔ́ːl 
+four: niɔ́ːl | hiɔ̀l	hyɔl	niɔ́ːl 
+fruit: gbə́maŋ | gbə́maŋ	nǯé 
+fruit: nǯé | gbə́maŋ	nǯé 
+full: páyǐ | pɛ̀y 
+full: pɛ̀y 
+girl: wanta (ma) 
+girl: wóːandálɛ 
+give: ká | ká 
+good: kálaŋ | kálaŋ 
+grass: ipulùk | ipulùk 
+green: bútúl | bútúl 
+guts: (m˗)pút | m-pút	pút 
+hair: (i˗)díŋ | díŋ	i-díŋ	íːzemɛn 
+hair: íːzemɛn | díŋ	i-díŋ	íːzemɛn 
+hand: píaːǯok | pia	píaːǯok	píà	ti- píà 
+hand: šúiː | pia	píaːǯok	píà	ti- píà 
+hand: (ti˗) píà | pia	píaːǯok	píà	ti- píà 
+head: bol | bol	bọ́l	ti-bọ́l 
+head: (ti˗)bọ́l | bol	bọ́l	ti-bọ́l 
+hear: té | 8e	teːlá	té 
+hear: teːlá | 8e	teːlá	té 
+heart: gbɔl 
+heavy: dìs | dìs 
+here: kà | kà	kàki	kàki tìki 
+here: kàki | kà	kàki	kàki tìki 
+here: kàki tìki | kà	kàki	kàki tìki 
+he/she: wɔ̀ 
+he/she: wɔ̀na 
+he/she: wɔ̀yɛ 
+hit: fɔs 
+hole: lǔɛ̀ 
+hole: lwɛ̀ 
+house: kil 
+house: (ti˗) ki͂̀l 
+hunt: pùe nɔ́ | pùe nɔ́ 
+husband: (a˗) pɔ̀ | a- pɔ̀	pɔ̀ 
+I: à | yang~	yang~ ya	yà	yàŋyà	yá	yáː	yãŋ	à 
+if: lɛ | lɛ	si 
+if: si | lɛ	si 
+I: ˗i | yang~	yang~ ya	yà	yàŋyà	yá	yáː	yãŋ	à 
+in: áɪ̌ | kùnɛ	áɪ̌ 
+in: kùnɛ | kùnɛ	áɪ̌ 
+I: yà | yang~	yang~ ya	yà	yàŋyà	yá	yáː	yãŋ	à 
+I: yá(ː) | yang~	yang~ ya	yà	yàŋyà	yá	yáː	yãŋ	à 
+I: ya͂ŋ | yang~	yang~ ya	yà	yàŋyà	yá	yáː	yãŋ	à 
+I: yàŋyà | yang~	yang~ ya	yà	yàŋyà	yá	yáː	yãŋ	à 
+kill: díː | díː	ǯí 
+kill: ǯí | díː	ǯí 
+knee: iːdóŋk | i- lọŋk	iːdóŋk	iːlɔ́ŋk	lonk	lọŋk 
+knee: (i˗) lọŋk | i- lọŋk	iːdóŋk	iːlɔ́ŋk	lonk	lọŋk 
+knee: iːlɔ́ŋk | i- lọŋk	iːdóŋk	iːlɔ́ŋk	lonk	lọŋk 
+know: šì | šì 
+laugh: mam | mam	mám 
+laugh: mám | mam	mám 
+leaf: ɔm | pú	pɔ́m	ti- pɔ́m	ɔm 
+leaf: pú | pú	pɔ́m	ti- pɔ́m	ɔm 
+leaf: (ti˗) pɔ́m | pú	pɔ́m	ti- pɔ́m	ɔm 
+left: mín | mín 
+leg: te˗bɛ́ŋ | bɛŋ	te-bɛ́ŋ	ti- bɛŋ 
+leg: (ti˗) bɛŋ | bɛŋ	te-bɛ́ŋ	ti- bɛŋ 
+lie: hín | hín	hínɛ 
+lie: hínɛ | hín	hínɛ 
+lightning: màlànmàlàn 
+lightning: mya͂́mya͂́mì 
+live: čælí | cé	cí	čælí	čɛli 
+live: cé | cé	cí	čælí	čɛli 
+live: čɛli | cé	cí	čælí	čɛli 
+live: cí | cé	cí	čælí	čɛli 
+liver: yɛ́l | yɛ́l 
+long: víl | víl 
+louse: (i˗) laː 
+louse: (i˗)laː 
+man: làŋgbá | nɔ 
+man: nopuːɣan | nɔ 
+man: pùkan | nɔ 
+man: tʰàmɔ̀ púkan | nɔ 
+many: gbə́ː | gbə́ː 
+meat: íwis | nǯal	ǯal | íwis 
+meat: nǯal | nǯal	ǯal | íwis 
+meat: ǯal | nǯal	ǯal | íwis 
+moon: iːpa͂́saːna | pàːŋ 
+moon: pàːŋ | pàːŋ 
+moon: yiːpaŋ | pàːŋ 
+mosquito: iːhúl 
+mother: yăː | yem	yăː 
+mother: yem | yem	yăː 
+mountain: rɔŋ 
+mountain: (ti˗) búŋ | rɔŋ 
+mouth: nyɛ́ŋ | nyɛ́ŋ	sùm 
+mouth: sùm | nyɛ́ŋ	sùm 
+name: (i˗) líl | i- líl	ilel	líl 
+narrow: tʰọ̀̀n | tʰọ̀̀n	t̪ùn 
+narrow: t̪ùn | tʰọ̀̀n	t̪ùn 
+navel: púk 
+navel: (si˗) púk 
+near: tʰɛ̀nt | tə̀ntʰ	tʰɛ̀nt 
+near: tə̀ntʰ | tə̀ntʰ	tʰɛ̀nt 
+neck: bóeːleŋ | bóeːleŋ	t̪imɤk 
+neck: t̪imɤk | bóeːleŋ	t̪imɤk 
+new: sána | sanà	sána 
+new: sanà | sanà	sána 
+new: tá púkan | sanà	sána 
+night: čɔl | Tol	čɔl	čɔ̀ːl 
+night: čɔ̀ːl | Tol	čɔl	čɔ̀ːl 
+nose: mín kunɛ̀ | min	mín	si- mín 
+not: čén˗ | ma bɛ́	čén- 
+not: ma bɛ́ | ma bɛ́	čén- 
+old: bɛn 
+old: bɛ̀n 
+one: bul 
+other: (a˗) tʰìláŋ | a- tʰìláŋ	tʰìláŋ 
+person: nɔ 
+play: sen | sen	sìː	wóseŋ 
+play: sìː | sen	sìː	wóseŋ 
+play: wóseŋ | sen	sìː	wóseŋ 
+pull: nan 
+push: vunt̪ 
+rain: hóɛ | lìl	yiːpuó	yiːpɔ́ 
+rain: hwɛ́ | lìl	yiːpuó	yiːpɔ́ 
+rain: lìl | lìl	yiːpuó	yiːpɔ́ 
+rain: pɔ | lìl	yiːpuó	yiːpɔ́ 
+rain: yiːpɔ́ | lìl	yiːpuó	yiːpɔ́ 
+rain: yiːpuó | lìl	yiːpuó	yiːpɔ́ 
+rat: bɛl 
+rat: (si˗) bɛ́l 
+red: ša͂̀ | šãʏ̈ 
+right: nǯọk | pia	píaːǯok	píà	ti- píà | nǯọk 
+river: (ti˗) hál | hál	ti- hál 
+road: na 
+road: (ti˗) náy 
+root: ntéŋk | ntéŋk	t̪ɪn 
+root: t̪ɪn | ntéŋk	t̪ɪn 
+rope: baŋk | baŋk	bàŋg	bàŋk	m- bàŋg 
+rope: bàŋk | baŋk	bàŋg	bàŋk	m- bàŋg 
+rope: (m˗) bàŋg | baŋk	bàŋg	bàŋk	m- bàŋg 
+rotten: pút̪ul | pút̪ul 
+round: kʰɤ́kɽ́ | kʰɤ́kɽ́ 
+rub: bàk | bàk 
+salt: ehíːal | ehíːal	hyɛ̀l 
+salt: hyɛ̀l | ehíːal	hyɛ̀l 
+sand: (i˗) súŋ | i- súŋ	iːsuŋ	suːŋ	súŋ 
+sand: iːsuŋ | i- súŋ	iːsuŋ	suːŋ	súŋ 
+sand: suːŋ | i- súŋ	iːsuŋ	suːŋ	súŋ 
+say: hɔ̀ | i- súŋ	iːsuŋ	suːŋ	súŋ 
+say: hɔ́ | hɔ̀ | i- súŋ	iːsuŋ	suːŋ	súŋ 
+scratch: kɛ́pí | kɛ́pí 
+see: ké | ke	ké	kə́ː	kʰə́ː 
+see: kʰə́ː | ke	ké	kə́ː	kʰə́ː 
+see: kə́ː | ke	ké	kə́ː	kʰə́ː 
+sharp: lɔ̀y 
+short: kʰít | kʰít 
+shoulder: pɛ 
+shoulder: pɛ̀pɛ̀ 
+sister: wànté 
+sister: wóaːntre mbɛ́ndɛ 
+sister: wóaːntre mpúmoːle 
+sit: čàːl | čiːála	čàːl 
+sit: čiːála | čiːála	čàːl 
+skin: kɔ | ko	kɔː	ǯál 
+skin: kɔː | ko	kɔː	ǯál 
+skin: ǯál | ko	kɔː	ǯál 
+sky: atòk | atòk	hoːɛ́lɔ 
+sky: hoːɛ́lɔ | atòk	hoːɛ́lɔ 
+sleep: lól | lól	lɔl 
+sleep: lɔl | lól	lɔl 
+small: čoːn | t̪ùn	t̪ọ̀n	čoːn 
+small: t̪ọ̀n | t̪ùn	t̪ọ̀n	čoːn 
+small: t̪ùn | t̪ùn	t̪ọ̀n	čoːn 
+smoke: iːgbémi | gbìmí	igbìmí	iːgbémi 
+smoke: (i)gbìmí | gbìmí	igbìmí	iːgbémi 
+snake: ̞kɛr | kʰə̀	si- kʰə̀	̞kɛr 
+snake: (si˗) kʰə̀ | kʰə̀	si- kʰə̀	̞kɛr 
+son: tsámoːlɛ 
+spit: (i˗) lát̪ | tu 
+spit: tɔsun | tu 
+spit: tɔ́suŋ | tu 
+squeeze: wɔk 
+stand: sɛm 
+star: (n˗) lí | lí	n- lí 
+stone: pe | pe	pé	ti- pé 
+stone: (ti˗) pé | pe	pé	ti- pé 
+straight: t̪ɯ̀ŋ t̪ɯ̀ŋ | tríntrin	t̪ɯ̀ŋ t̪ɯ̀ŋ 
+straight: tríntrin | tríntrin	t̪ɯ̀ŋ t̪ɯ̀ŋ 
+suck: t̪ɔ́t | t̪ɔ́t 
+sun: depál | depál	lipal	m- pal	pal 
+sun: lipal | depál	lipal	m- pal	pal 
+sun: (m˗) pal | depál	lipal	m- pal	pal 
+sweet: dɔ́suːlɛ 
+swim: sakɪl 
+tail: lóm | lóm 
+take: kóyɛ 
+take: kùy 
+take: kwĕ 
+that: vɛ̀ | bul 
+there: kà | kà	lɔ̀	lɔ̀n 
+there: lɔ̀ | kà	lɔ̀	lɔ̀n 
+there: lɔ̀n | kà	lɔ̀	lɔ̀n 
+they: ha͂́ː | hã́ː	i	ma	t̪a 
+they: i | hã́ː	i	ma	t̪a 
+they: ma | hã́ː	i	ma	t̪a 
+they: t̪a | hã́ː	i	ma	t̪a 
+thigh: láːdaŋ 
+thigh: látaŋ 
+think: lóːni | lóːni 
+thou: băm | hom	hom mo a	mɔ̀	nɔ̀m	nɛ́n 
+thou: mɔ̀ | hom	hom mo a	mɔ̀	nɔ̀m	nɛ́n 
+thou: nɛ́n | hom	hom mo a	mɔ̀	nɔ̀m	nɛ́n 
+thou: nɔ̀m | hom	hom mo a	mɔ̀	nɔ̀m	nɛ́n 
+three: ɽa | ra	ræ	ɽa 
+three: ra | ra	ræ	ɽa 
+throat: bolo 
+throat: bóːlo 
+throat: gbúlù 
+throat: t̪imɤk 
+throat: t̪ɤ́mɤ́k 
+throat: tsímek 
+throw: poŋ 
+thunder: nie͂miə́ ho͂̀ kútinì 
+tie: pant̪ 
+today: nánde 
+today: nànt̪éː 
+tomorrow: gbəŋ 
+tomorrow: gbɛ́ŋ 
+tongue: leméːleŋ | (ti-	leméːleŋ	li-) mɛ̀líŋ	limiliN	miliNdi	ti- 
+tongue: (ti˗, li˗) mɛ̀líŋ | (ti-	leméːleŋ	li-) mɛ̀líŋ	limiliN	miliNdi	ti- 
+tooth: (n˗) čaŋ | TaN	n- čaŋ	nǯiáŋ	čaŋ 
+tooth: nǯiáŋ | TaN	n- čaŋ	nǯiáŋ	čaŋ 
+tree: (n˗) tɔ̀k | 8ok 
+tree: ntɔ́ːk | 8ok 
+two: t̪ɪ̀ŋ | tiN	triŋ	tɪŋ	t̪ɪ̀ŋ 
+two: triŋ | tiN	triŋ	tɪŋ	t̪ɪ̀ŋ 
+vagina: bɔ̀bɔ 
+vagina: t̪ɔ́m 
+vagina: yìn 
+vomit: kʰús | kʰús 
+walk: gbé | gbé 
+walk: gbíɣɛːni | gbé 
+walk: gbɤ̀kɤnʲ | gbé 
+walk: hó˗ | gbé 
+walk: kóni | gbé 
+warm: tuk 
+warm: túk | tuk 
+wash: tɔk 
+wash: tɔní | tɔk 
+water: man | man	mɛ́n 
+water: mɛ́n | man	mɛ́n 
+weep: mám 
+weep: tʰàŋ 
+weep: tráŋ 
+we: hi͂́ | yin 
+we: í | yin 
+wet: bɔs | bɔs	hɔs 
+wet: hɔs | bɔs	hɔs 
+we: yí | yin 
+what: ndɔ 
+when: yɛ 
+where: ndɔ 
+white: dint | dint	dìntɛ 
+white: dìntɛ | dint	dìntɛ 
+who: hìna | hìna 
+wide: rátí | rátí 
+wife: lá | lá 
+wind: hə̀ŋ 
+wing: (ti˗) kàpa | kàpa	ti- kàpa 
+with: ká 
+woman: nòma | nòma	nóma 
+woman: nóma | nòma	nóma 
+wood: (n˗) tɔ̀k 
+worm: pʰulà | pʰulà 
+year: (ti-) nɛ́n | nɛ́n	ti- nɛ́n 
+yellow: yɛlɔ̀ 
+yesterday: čéːnčá 
+yesterday: čénča 
+you: hán | hom	hom mo a	mɔ̀	nɔ̀m	nɛ́n | hán	hãn 
+you: ha͂n | hom	hom mo a	mɔ̀	nɔ̀m	nɛ́n | hán	hãn 
+every: gbí	gbə́	gbɯ́ 
+ash: púlte 
+abdomen: kun	kʼùn	ti-kʼùn 
+bigness: bóːmu	bùm 
+large: bóːmu	bùm 
+breasts: mɔ	ḿmo 
+come from: hun	hún	móːɛ 
+be dead: wu	wú 
+dead: wu	wú 
+fly: híl	yíl 
+fly v.: híl	yíl 
+left hand: pia	píaːǯok	píà	ti- píà 
+1 sg.: yang~	yang~ ya	yà	yàŋyà	yá	yáː	yãŋ	à 
+be knowledgeable: šì 
+lie down: hín	hínɛ 
+male: làŋgbá	nopuːɣan	tʰàmɔ̀ púkan 
+much: gbə́ː 
+multiple: gbə́ː 
+several: gbə́ː 
+flesh: nǯal	ǯal 
+hill: rɔŋ 
+title: i- líl	ilel	líl 
+nighttime: Tol	čɔl	čɔ̀ːl 
+adulterous: bul 
+single: bul 
+the: bul 
+unprincipled: bul 
+human: nɔ 
+human being: nɔ 
+rainy weather: lìl	yiːpuó	yiːpɔ́ 
+path: na 
+route: na 
+hide: ko	kɔː	ǯál 
+little: t̪ùn	t̪ọ̀n	čoːn 
+smallness: t̪ùn	t̪ọ̀n	čoːn 
+rock: pe	pé	ti- pé 
+2 sg: hom	hom mo a	mɔ̀	nɔ̀m	nɛ́n 
+grind: tiN	triŋ	tɪŋ	t̪ɪ̀ŋ 
+go: gbé 
+hot: tuk 
+1 pl. inc.: yin 
+we₁: yin 
+whiteness: dint	dìntɛ 
+who?: hìna 
+female: nòma	nóma 
+distant: livíl	polọ́ŋ 
+dull: dìs 
+serious: dìs 
+close: tə̀ntʰ	tʰɛ̀nt 
+ner: tə̀ntʰ	tʰɛ̀nt 
+earthworm: pʰulà 
+2 pl.: hán	hãn 
+ye: hán	hãn 
+you all: hán	hãn 
+3 pl.: hã́ː	i	ma	t̪a 
+where?: ndɔ 
+when?: yɛ 
+broad: rátí 
+wideness: rátí 
+principal wife: lá 
+his mother: yem	yăː 
+my mother: yem	yăː 
+his father: baːm	bàː 
+my father: baːm	bàː 
+woods: gbóŋkɔ	gbɔŋkɔ̀	ti- gbɔŋkɔ̀	toː 
+stick: píà tɔk 
+cord: baŋk	bàŋg	bàŋk	m- bàŋg 
+claw: n- rɔntmà	rɔntmà	šɛ́ndaŋ 
+nail: n- rɔntmà	rɔntmà	šɛ́ndaŋ 
+gut: m-pút	pút 
+insides: m-pút	pút 
+intestine: m-pút	pút 
+intestines: m-pút	pút 
+breath: hɔ̀l	wɔːl 
+laughter: mam	mám 
+cogitate: lóːni 
+reflect: lóːni 
+smell: gbɔ̀s 
+sniff: gbɔ̀s 
+alive: cé	cí	čælí	čɛli 
+be alive: cé	cí	čælí	čɛli 
+life: cé	cí	čælí	čɛli 
+living: cé	cí	čælí	čɛli 
+beat: fɔs 
+strike: fɔs 
+hack: bátʰ	kátʰ	káθ 
+drop: dúgɔ	dúk 
+wring: wɔk 
+wipe: bàk 
+wash clothes: tɔk 
+bind: pant̪ 
+fasten: pant̪ 
+tie up: pant̪ 
+have fun: sen	sìː	wóseŋ 
+brook: hál	ti- hál 
+stream: hál	ti- hál 
+daylight: lipal	m-pàl	pàl	yíːpal 
+daytime: lipal	m-pàl	pàl	yíːpal 
+evil: gbáŋ	way	woi	wo˞ri	wɔy 
+rot: pút̪ul 
+filthy: gbɛ̀t 
+soiled: gbɛ̀t 
+damp: bɔs	hɔs 
+right side: nǯọk 
+inside: kùnɛ	áɪ̌ 

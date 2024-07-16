@@ -1,0 +1,276 @@
+all: hadumik 
+every: hadumik 
+ash: tapin 
+ashes: tapin 
+abdomen: tutu 
+belly: tutu 
+big: loal	loál 
+bigness: loal	loál 
+large: loal	loál 
+bird: manik 
+bite: pakat 
+black: kidkuda 
+blood: git 
+bone: moma	momu 
+breast: pipidu	susu 
+breasts: pipidu	susu 
+burn: slai 
+burn tr.: slai 
+cloud: malukut 
+cold: makufin 
+come: wom 
+come from: wom 
+be dead: mot 
+dead: mot 
+die: mot 
+dog: yo 
+drink: imin 
+dry: aweik	gamos	gamós 
+ear: tiNe	tiNena	tinge	tingena 
+earth: gigyat 
+ground: gigyat 
+land: gigyat 
+soil: gigyat 
+eat: fon 
+egg: toli 
+eye: mto 
+fat: gaji 
+fat n.: gaji 
+grease: gaji 
+lubricant: gaji 
+oil: gaji 
+feather: loNku	longku-longku 
+fire: lutan 
+fish: ian 
+fly: opa 
+fly v.: opa 
+foot: we 
+good: fia 
+green: biru 
+hair: kikle	kiklena	kiklé 
+hand: komu 
+left hand: komu 
+right: komu 
+head: poi 
+hear: loNa	longa 
+1 sg.: yak 
+I: yak 
+kill: pun 
+be knowledgeable: unak 
+know: unak 
+leaf: loNku	longku 
+lie: mtuli 
+lie down: mtuli 
+liver: yocu 
+long: mloNa	mlonga 
+head louse: kut 
+louse: kut 
+male: maon	maón 
+man: manusia 
+flesh: wontu 
+meat: wontu 
+moon: pait 
+mouth: sumu 
+name: fsona 
+title: fsona 
+neck: koku 
+new: pou 
+night: bakomu 
+nighttime: bakomu 
+nose: usnu 
+not: tes 
+adulterous: pso	so 
+one: pso	so 
+single: pso	so 
+that: taja	tajia	tijá 
+the: pso	so 
+unprincipled: pso	so 
+human: manusia 
+human being: manusia 
+person: manusia 
+rain: ulan 
+rainy weather: ulan 
+red: malaka	mikoat 
+path: lolan 
+road: lolan 
+route: lolan 
+root: wolu 
+sand: minyana 
+say: bi	bing 
+see: am 
+sit: bol 
+hide: kulit 
+skin: kulit 
+sleep: melas 
+little: wai 
+small: wai 
+smallness: wai 
+smoke: nyas 
+stand: wosal 
+star: batol	batól 
+rock: lai 
+stone: lai 
+swim: koai 
+tail: walu 
+this: tajini 
+2 sg: au	meu 
+thou: au	meu 
+you: au	meu 
+tongue: mimou 
+tooth: afo	afó	fafo	fafó 
+grind: lu	plu 
+two: lu	plu 
+go: han 
+walk: han 
+hot: psan 
+warm: psan 
+water: waya 
+1 pl. inc.: am	ame	kit 
+we: am	ame	kit 
+we₁: am	ame	kit 
+what: pui	puí 
+white: bulaN	bulang 
+whiteness: bulaN	bulang 
+who: mei 
+who?: mei 
+female: mapin	mapín 
+woman: mapin	mapín 
+yellow: madimal 
+distant: lou 
+far: lou 
+dull: batona 
+heavy: batona 
+serious: batona 
+close: dekin 
+near: dekin 
+ner: dekin 
+salt: gasi	myasing 
+short: gapópai	katobat	poli-poli 
+snake: bau 
+thin: manifis 
+wind: moda 
+earthworm: galét 
+worm: galét 
+year: pariama	taun 
+2 pl.: meu 
+ye: meu 
+you all: meu 
+3 pl.: si 
+they: si 
+where: paló	paló li 
+where?: paló	paló li 
+when: hafisak 
+when?: hafisak 
+how: hapuí	pei hapuí 
+how?: hapuí	pei hapuí 
+other: goli	lomu	maleu 
+three: ptol	tol 
+four: fot	pfot 
+five: lim 
+broad: lawilua	loas 
+wide: lawilua	loas 
+wideness: lawilua	loas 
+thick: kamudi 
+narrow: nakota 
+principal wife: kawán 
+wife: kawán 
+husband: lagai 
+his mother: mamu 
+mother: mamu 
+my mother: mamu 
+father: bapa 
+his father: bapa 
+my father: bapa 
+forest: dom 
+woods: dom 
+branch: kakolu 
+stick: kakolu 
+fruit: bobu 
+flower: bungan	sai 
+grass: bibisá 
+cord: kapiloan 
+rope: kapiloan 
+wing: faku 
+gut: gale-gale 
+guts: gale-gale 
+insides: gale-gale 
+intestine: gale-gale 
+intestines: gale-gale 
+back: bawai	bayau	buai 
+suck: pis 
+spit: badidíf 
+vomit: awá 
+blow: ufu 
+breath: manou 
+breathe: manou 
+laugh: mlif 
+laughter: mlif 
+cogitate: bafikir 
+reflect: bafikir 
+think: bafikir 
+smell: fotan 
+sniff: fotan 
+afraid: kiak	kiwak 
+be afraid: kiak	kiwak 
+fear: kiak	kiwak 
+fright: kiak	kiwak 
+alive: fifia 
+be alive: fifia 
+life: fifia 
+live: fifia 
+living: fifia 
+hunt: hangkik yo 
+beat: bolam 
+hit: bolam 
+strike: bolam 
+cut: tipal 
+hack: tipal 
+cut open: sagal 
+split: sagal 
+pierce: tapa 
+stab: tapa 
+scratch: agág 
+dig: ólai 
+drop: mtat 
+fall: mtat 
+grasp: gotal 
+hold: gotal 
+hold in arm: gotal 
+squeeze: ofal 
+wring: ofal 
+throw: abilat 
+bind: soat 
+fasten: soat 
+tie: soat 
+tie up: soat 
+sew: badidíng 
+count: hayofan 
+enumerate: hayofan 
+number: hayofan 
+tally: hayofan 
+flow: gasi 
+lake: talaga 
+ocean: wolat 
+sea: wolat 
+dust: yipyáp 
+fog: mayas 
+sky: langit 
+blaze: slai 
+bad: lekat 
+evil: lekat 
+rot: lekat	puík 
+rotten: lekat	puík 
+dirty: lila 
+filthy: lila 
+soiled: lila 
+sharp: magamin 
+blunt: kapudung	tasusil 
+damp: baloám 
+wet: baloám 
+right side: awoyan 
+left: abalit 
+at: li 
+in: li	liló 
+inside: li	liló 
+and: de 
+if: co	coba 

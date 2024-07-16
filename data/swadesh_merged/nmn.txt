@@ -1,0 +1,309 @@
+all: kōo kàʼã	kōː kàʔã̀ 
+every: kōo kàʼã	kōː kàʔã̀ 
+ash: ǂgòa	ǂ̰òa	ɡǂòa 
+ashes: ǂgòa	ǂ̰òa	ɡǂòa 
+bark: gú-le	gúle	tsāhbi 
+abdomen: !hūma	!ʰūma	ǁnàm sàʼã 
+belly: !hūma	!ʰūma	ǁnàm sàʼã 
+big: !xa-	!xaV	ǁáli 
+bigness: !xa-	!xaV	ǁáli 
+large: !xa-	!xaV	ǁáli 
+bird: ǀgūhʼu	ǀ̰ūʰʔu	ɡǀūʰʔu 
+bite: síʔi	síʼi 
+black: ǂáʔɲa	ǂáʼɲa 
+blood: !na̰a	!na̰m	n!~a	ǃ̃à̰ː	ǃ̃â̰m 
+bone: !a*	ǂàã	ǂã̀ː	ǂã̂ː 
+breast: !u	gǂqhèẽ	ǁ̰úː	ɡǀǀúː 
+breasts: !u	gǂqhèẽ	ǁ̰úː	ɡǀǀúː 
+burn: ʘʼáː 
+burn tr.: ʘʼáː 
+claw: ǀǀqû-le	ǁqû-le	ǁ̰àʔm	ɡǀǀàʔm 
+nail: ǀǀqû-le	ǁqû-le	ǁ̰àʔm	ɡǀǀàʔm 
+talon: ǀǀqû-le	ǁqû-le	ǁ̰àʔm	ɡǀǀàʔm 
+cloud: !qhàa gǀqhūã	!qʰàː=ǀ̰qʰũ̄ã̄ 
+cold: ǀǀã̂ʔũ	ǁã̂ʔũ 
+come: si	sîi	sîː	sīi 
+come from: si	sîi	sîː	sīi 
+be dead: !"a	ǀʼâa	ǀʼâː 
+dead: !"a	ǀʼâa	ǀʼâː 
+die: !"a	ǀʼâa	ǀʼâː 
+dog: gǂxūi	q!h$ai	ǂqhài	ǂqʰài 
+drink: kx~aha*	kxã̄ːʰ	kxʼāhã 
+dry: ǀǀṵ́a	ǀʼòː	ǁqáa	ǁṵ́a	ǂgàm 
+ear: n!~uha*	ǂnùhã	ǂ̃ũ̀ãʰ	ǂ̃ũ̄ãʰ 
+earth: ǂkxûm	ǂkxʼûm 
+ground: ǂkxûm	ǂkxʼûm 
+land: ǂkxûm	ǂkxʼûm 
+soil: ǂkxûm	ǂkxʼûm 
+eat: ʔã̂ː	ʼâã 
+egg: ǂgúã	ǂ̰ṹã́	ɡǂṹã́ 
+eye: !"ui*	!ʼûĩ	!ʼũ̂ĩ	!ʼũ̄ĩ 
+fat: sã̰̀ː 
+fat n.: sã̰̀ː 
+grease: sã̰̀ː 
+lubricant: sã̰̀ː 
+oil: sã̰̀ː 
+feather: gǀqhūã	ǀ̰qʰũ̀ã	ǀ̰qʰũ̂ã	ɡǀqʰũ̀ã	ɡǀqʰũ̂ã 
+fire: !"a*	ǀʼàã	ǀʼã̀ː 
+fly: dza̰hĩ	ʒã̰̄ĩ̄ʰ 
+fly v.: dza̰hĩ	ʒã̰̄ĩ̄ʰ 
+foot: ǂnùũ	ǂ̃ũ̀ː	ǂ̃ũ̄ː 
+full: !gùhm	!um	ǀʼōla	ǃ̰ùʰm 
+give: !qháã	!qʰã́ː 
+good: qã́ĩ 
+green: ǀga̰hi	ǀ̰ā̰iʰ	ɡǀā̰iʰ 
+hair: gǀqhùã	ǀqhùã	ǀqʰũ̀ã	ǀ̰qʰũ̀ã	ǀ̰qʰũ̂ã	ɡǀqʰũ̀ã	ɡǀqʰũ̂ã 
+hand: !"xa	ǀkxàː	ǀkxāː 
+left hand: !"xa	ǀkxàː	ǀkxāː 
+right: !"xa	ǀkxàː	ǀkxāː 
+head: ǀnàn	ǀ̃àn	ǀ̃ān 
+hear: ta*	ta̰ã	tã̰́ː 
+heart: ǀqʼàn	ǀqʼān 
+horn: !ae*	ǀǀã̄ẽ̄	ǁã̄ẽ̄	ǁāẽ 
+1 sg.: n	n̄	n̄ dē	n̄ʼn̄ 
+I: n	n̄	n̄ dē	n̄ʼn̄ 
+kill: qâi 
+knee: !x~u* n!~an	gǁxúũ ǀnàn	ǁ̰xṹː-ǀ̃àn	ɡǀǀxṹː-ɳǀàn 
+be knowledgeable: ǀgûmã	ǀ̰ûmã	ɡǀûmã 
+know: ǀgûmã	ǀ̰ûmã	ɡǀûmã 
+leaf: !ana	ǀgāna	ǀ̰āna	ɡǀāna 
+lie: tûː 
+lie down: tûː 
+liver: n!~am	ǁnàm	ǁ̃àm	ǁ̃ām 
+long: !ʼám 
+head louse: gǁkxʼóni	n!~u*	ɳʘṵ̃́ː	ʘnó̰õ	ʘ̃ṵ̃́ː 
+louse: gǁkxʼóni	n!~u*	ɳʘṵ̃́ː	ʘnó̰õ	ʘ̃ṵ̃́ː 
+male: tâa a̰a	tâː=à̰ː 
+man: ta	tâa	tâː 
+many: !xaBV	!xaV	ǀǀáli	ǁáli 
+much: !xaBV	!xaV	ǀǀáli	ǁáli 
+multiple: !xaBV	!xaV	ǀǀáli	ǁáli 
+several: !xaBV	!xaV	ǀǀáli	ǁáli 
+flesh: ʘàye 
+meat: ʘàye 
+moon: !qhàn	!qʰàn 
+hill: !um	!ùʰm 
+mountain: !um	!ùʰm 
+mouth: ǂûe 
+name: !au*	ǀàũ	ǀã̀ũ	ǀã̄ũ 
+title: !au*	ǀàũ	ǀã̀ũ	ǀã̄ũ 
+neck: ǂkxã̀ũ̀	ǂkxã̄ũ̄	ǂkxʼàõ 
+new: q!~u	ǀǀqṵV	ǁqṵV 
+night: n!~ue	ǀnṵe	ǀ̃ṵ́e	ɳǀṵ́e 
+nighttime: n!~ue	ǀnṵe	ǀ̃ṵ́e	ɳǀṵ́e 
+nose: n!~una	ǀnùhɲa	ǀ̃ùʰɲa	ǀ̃ūʰɲa 
+not: ǀǀqʰúa	ǁqhúa	ǁqʰúa	ǁʼàa 
+adulterous: !"ua*	ǂʼûã	ǂʼũ̂ã	ǂ’ûã 
+one: !"ua*	ǂʼûã	ǂʼũ̂ã	ǂ’ûã 
+single: !"ua*	ǂʼûã	ǂʼũ̂ã	ǂ’ûã 
+that: tVjà kV	tVʔV	tVʼV BV kV	tVʼV BVʼV	tVʼVV-sà kV	tVʼVVjà	tàʼa BV kV 
+the: !"ua*	ǂʼûã	ǂʼũ̂ã	ǂ’ûã 
+unprincipled: !"ua*	ǂʼûã	ǂʼũ̂ã	ǂ’ûã 
+human: ta	tâa	tâː 
+human being: ta	tâa	tâː 
+person: ta	tâa	tâː 
+rain: !kxôe	!kxʼôe 
+rainy weather: !kxôe	!kxʼôe 
+red: ǀāhɲa	ǀāʰɲa 
+path: dao	dào	ǂólo 
+road: dao	dào	ǂólo 
+route: dao	dào	ǂólo 
+root: !kxái	gǀkxʼābu 
+round: ʔǂnúʔm ǀʼẽ̂ː	ʼ!náʼõ ǀʼêẽ	ʼǂnúʼm ǀʼêẽ 
+sand: ǂkxûm	ǂkxʼûm 
+say: tám	téʼẽ	tẽ́ʔẽ 
+see: n!~a*	ǀnâã	ǀ̃ã̂	ɳǀã̂ 
+seed: sâʼã	sã̂ʔã 
+sit: cʰûː	tshûu 
+hide: tum	tṵm	tṵ̀m 
+skin: tum	tṵm	tṵ̀m 
+sleep: ʘân 
+little: ǀʼûi 
+small: ǀʼûi 
+smallness: ǀʼûi 
+smoke: ckxâye 
+stand: ǀǀʰũ̂ː	ǁʰũ̂ː 
+star: !ona	ǀǀōna	ǁōna 
+rock: n!~ule	ǀnūle	ǀ̃ū-le	ɳǀū-le 
+stone: n!~ule	ǀnūle	ǀ̃ū-le	ɳǀū-le 
+sun: !"an	ǀǀʼân	ǁʼân 
+tail: ǀàũ	ǀã̀ũ	ǀã̄ũ 
+this: tVVʼVV	tVʔVː	tVʼV	tVʼVV	tVːʔV	tánʔǹ	ʼVV 
+2 sg: ah	āh	āhʼā	āʰ 
+thou: ah	āh	āhʼā	āʰ 
+you: ah	āh	āhʼā	āʰ 
+tongue: n!"an	ʔǀnà̰n	ʼǀna̰n 
+tooth: q!h$a*	ǁqhàã	ǁqʰã̀ː	ǁqʰã̄ː 
+tree: n!"aye	ʔʘnàye	ʼʘnàje 
+grind: n!~um	ǂnûm	ǂ̃ûm	ɳǂûm 
+two: n!~um	ǂnûm	ǂ̃ûm	ɳǂûm 
+go: !nàã	sâː 
+walk: !nàã	sâː 
+hot: kûbi 
+warm: kûbi 
+water: !qhàa	!qʰàː	q!h$a 
+1 pl. inc.: ih	isi	ī=sî	īh	īhʼī	īsî	īʰ	ǂnáĩ 
+we: ih	isi	ī=sî	īh	īhʼī	īsî	īʰ	ǂnáĩ 
+we₁: ih	isi	ī=sî	īh	īhʼī	īsî	īʰ	ǂnáĩ 
+what: èh	ǀV … èʰ 
+white: !núɲa	ǃ̃úɲa 
+whiteness: !núɲa	ǃ̃úɲa 
+who: èh	ǀV … èʰ 
+who?: èh	ǀV … èʰ 
+female: tâa qáe	tâː=qáe 
+woman: tâa qáe	tâː=qáe 
+yellow: gǂqhúi	ǂ̰qʰúi	ɡǂqʰúi 
+distant: ta̰i	tá̰i 
+far: ta̰i	tá̰i 
+dull: ǁnáu	ǁ̃áu	ɳǀǀáu 
+heavy: ǁnáu	ǁ̃áu	ɳǀǀáu 
+serious: ǁnáu	ǁ̃áu	ɳǀǀáu 
+close: ǁgâʼle	ǁ̰âʔle	ɡǀǀâʔle 
+near: ǁgâʼle	ǁ̰âʔle	ɡǀǀâʔle 
+ner: ǁgâʼle	ǁ̰âʔle	ɡǀǀâʔle 
+salt: qáʔɲa	qáʼna 
+short: ǂʼāba 
+snake: síʔi-sà	síʼi-sà 
+thin: dza̰i	ʒá̰ba-tá 
+wind: ǂqhùe	ǂqʰùe 
+earthworm: !ɢṵã	!ɢṵ̃̄ã 
+worm: !ɢṵã	!ɢṵ̃̄ã 
+year: kúli 
+3 sg.: ãh	ãhʼã	èh	èhʼè 
+he: ãh	ãhʼã	èh	èhʼè 
+she: ãh	ãhʼã	èh	èhʼè 
+2 pl.: ūh	ūhʼū	ǂnûmʼū 
+ye: ūh	ūhʼū	ǂnûmʼū 
+you all: ūh	ūhʼū	ǂnûmʼū 
+3 pl.: ùh	ùhʼù 
+they: ùh	ùhʼù 
+here: táʼã 
+there: !nâʼm	!âõ	g!xàã	tV-jà	tVʼV-sà	tVʼVV-jà	tVʼVV-sà kV	téʼe-jà	téʼe-sà	têʼàã	ǀáʼn-sà	ǀèʼẽ sà	ǀʼéẽ	ʼáu-jà	ʼńn 
+where: tâ	āhʼã 
+where?: tâ	āhʼã 
+when: kí dào tí āhʼã kì 
+when?: kí dào tí āhʼã kì 
+how: āhʼā	āhʼāu ʼàhn-sà 
+how?: āhʼā	āhʼāu ʼàhn-sà 
+few: ǀʼûi 
+other: tVʼV 
+three: kâ ||âe	ǁâe 
+broad: tshào	ǀgáhʼla 
+wide: tshào	ǀgáhʼla 
+wideness: tshào	ǀgáhʼla 
+thick: ǂúnu 
+narrow: ʘqhúʼu 
+child: ʘqa̰a	ʘàa 
+principal wife: tâa qáe	ʼǀnàn 
+wife: tâa qáe	ʼǀnàn 
+husband: tâa a̰a	ʼǀnàn 
+his mother: qáe 
+mother: qáe 
+my mother: qáe 
+father: a̰a 
+his father: a̰a 
+my father: a̰a 
+animal: ʘàje ʘʼâni 
+branch: ǁnáa 
+stick: ǁnáa 
+fruit: ǀnàn 
+flower: ɢ!qhùm 
+grass: ǁkxʼâã 
+leg: ǂqhàla 
+arm: ǀkxʼàa 
+wing: ǁɢa̰hma 
+back: ǂhái 
+suck: ǁʼûbe 
+spit: ǁqa̰bi 
+vomit: qhóla 
+blow: dzáʼu 
+breath: ǁqhôʼã 
+breathe: ǁqhôʼã 
+laugh: kxʼái 
+laughter: kxʼái 
+cogitate: !nòho	ǂʼán-sí 
+reflect: !nòho	ǂʼán-sí 
+think: !nòho	ǂʼán-sí 
+smell: ǀnúm 
+sniff: ǀnúm 
+afraid: ʼ!nûhi 
+be afraid: ʼ!nûhi 
+fear: ʼ!nûhi 
+fright: ʼ!nûhi 
+alive: !núm 
+be alive: !núm 
+life: !núm 
+live: !núm 
+living: !núm 
+fight: g!qhái 
+hunt: !qāhe 
+beat: ǁkxʼūm 
+hit: ǁkxʼūm 
+strike: ǁkxʼūm 
+cut: !ào 
+hack: !ào 
+cut open: ǂqhále 
+split: ǂqhále 
+pierce: ʼǁnūhm 
+stab: ʼǁnūhm 
+scratch: !nāhu 
+dig: qàla 
+tell lies: tûu 
+turn: !qʼâle 
+turn around: !qʼâle 
+turn round: !qʼâle 
+drop: !qhúu 
+fall: !qhúu 
+grasp: ǀùa 
+hold: ǀùa 
+hold in arm: ǀùa 
+squeeze: ǁgūu	ǂgūu 
+wring: ǁgūu	ǂgūu 
+rub: ǀqàa 
+wipe: ǀna̰m 
+wash: tṵhle 
+wash clothes: tṵhle 
+pull: ǁa̰ha 
+push: ṵhm 
+shove: ṵhm 
+throw: !gàhm 
+bind: ʼǁnāhã 
+fasten: ʼǁnāhã 
+tie: ʼǁnāhã 
+tie up: ʼǁnāhã 
+sing: ǁnāe 
+have fun: ǀnāhm 
+play: ǀnāhm 
+flow: !nò̰ni	!sṵni 
+swell: ǁúhʼbu 
+brook: !náu ʼǀnṵm 
+river: !náu ʼǀnṵm 
+stream: !náu ʼǀnṵm 
+dust: ǂqhóʼli 
+fog: ǀnōhũ kâ ǀòho kú	ʼ!nōhʼli 
+sky: kùu ǂèe 
+ice: ǁqa̰ã 
+blaze: ǁnāha 
+day: ǁʼân 
+daylight: ǁʼân 
+daytime: ǁʼân 
+old: !húũ 
+bad: ǂxóĩ-sì 
+evil: ǂxóĩ-sì 
+rot: gǂkxʼōã 
+rotten: gǂkxʼōã 
+dirty: ǁqʼâa 
+filthy: ǁqʼâa 
+soiled: ǁqʼâa 
+straight: !āã 
+sharp: !qáũ 
+smooth: nôli 
+damp: !qhàa	tsʼkxʼàni 
+wet: !qhàa	tsʼkxʼàni 
+at: ǀnàa 
+in: tshôe 
+inside: tshôe 
+with: ǂʼá	ʼàhn 
+and: ǁnâi	ǂʼá	ʼàhn 
+if: ǀîi 
+because: BV 

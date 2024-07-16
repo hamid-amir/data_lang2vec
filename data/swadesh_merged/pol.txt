@@ -1,0 +1,348 @@
+all: wszystko | każdy	wszyscy	wszystek	wszystko 
+and: i 
+animal: zwierzę 
+ashes: popiół 
+at: przy | przy	u 
+back: plecy | grzbiet	plecy 
+bad: zły | okropny	zły 
+bark: kora 
+because: ponieważ | bo	ponieważ 
+belly: brzuch 
+big: duży | duży	olbrzymi	wielki 
+big: wielki | duży	olbrzymi	wielki 
+bird: ptak 
+bite: gryźć | gryźć	kąsać 
+black: czarny 
+blood: krew | krEf	krew 
+blow: dmuchać | dmuchać	dąć	wiać 
+bone: kość | koSC	kość 
+breast: pierś | piErS	pierś 
+breathe: oddychać | dech	dychać	oddech	oddychać 
+burn: palić się | palić	spalać 
+child: dziecko | dzieciątko	dziecię	dziecko 
+cloud: chmura | chmura	obłok 
+cold: zimno | chłodny	zimny 
+come: przychodzić | pZ3b3C	przychodzić	przyjść 
+correct: poprawny | poprawny	prawidłowy	prawy	właściwy 
+count: liczyć | liczba	liczyć 
+cut: ciąć | ciąć	krajać	rąbać	rżnąć	siec 
+day: dzień 
+die: umierać | umiEraC	umierać	umrzeć 
+dig: kopać | kopać	ryć 
+dirty: brudny 
+dog: pies | piEs	pies	szczenię 
+drink: pić | piC	pić 
+dry: suchy 
+dull: tępy | ciężki 
+dust: kurz | kurz	proch	pył 
+earth: ziemia | ląd	ziemia 
+ear: ucho | ucho	uxo 
+eat: jeść 
+egg: jajko | jajko	jajo 
+eye: oko 
+fall: spadać | padać	paść	upadać 
+far: daleko | daleki	daleko 
+father: ojciec 
+fat (n.): tłuszcz 
+fear: bać się | bać się	bojaźń	strach	trwoga 
+feather: pióro | piórko	pióro 
+few: mało | mało	niewiele	trochę 
+fight: walczyć | bić się	walczyć 
+fingernail: paznokieć 
+fire: ogień | ogiE5	ogień 
+fish: ryba | r3ba	ryba 
+five: pięc | pięć 
+float: pływać | płynąć	pływać	unosić się 
+flower: kwiat 
+flow: płynąć | przepływać	płynąć	pływać 
+fly (v.): latać 
+fog: mgła 
+foot: stopa 
+forest: las | bór	knieja	las	puszcza 
+four: cztery 
+freeze: marznąć | zamarzać	zamarznąć 
+fruit: owoc 
+full: pełny | całkowity	pEwn3	pełny 
+give: dawać | dawać	dać 
+good: dobry | dobry	dobrzy 
+grass: trawa 
+green: zielony 
+guts: wnętrzności | jelita	kiszki	wnętrzności 
+hair: włosy | włos	włosy 
+hand: ręka | rE*ka	ręka | dłoń	ręka 
+head: głowa 
+hear: słyszeć | sw3SEC	słuchać	słyszeć 
+heart: serce 
+heavy: ciężki 
+he: on 
+here: tu | tu	tutaj 
+hit: uderzać | bić	razić	uderzyć 
+hold: trzymać 
+horn: róg | ruk	róg 
+how: jak 
+hunt: polować | polować	łowić	łów 
+husband: mąż | małżonek	mąż 
+ice: lód 
+if: czy | jeśli	jeżeli 
+if: gdy | jeśli	jeżeli 
+if: jeśli | jeśli	jeżeli 
+I: ja | ja	ya 
+in: w | w	w środku	we	wewnątrz 
+kill: zabić | uśmiercić	zabić 
+knee: kolano 
+know: wiedzieć | wiedzieć	wiedziéć	znać 
+lake: jezioro 
+laugh: śmiać się 
+leaf: liść | liSC	liść 
+left: lewo | lewy 
+leg: noga 
+lie: kłamać | leżeć | kłamstwo	leżeć 
+lie: leżeć | kłamstwo	leżeć 
+liver: wątroba | vo*troba	wątroba 
+live: żyć | żyjący	żywy	żyć 
+long: długi 
+louse: pchła | vES	wesz 
+man: męszczyzna | CwoviEk	człowiek	istota ludzka	osoba 
+man: mezczyzna | CwoviEk	człowiek	istota ludzka	osoba 
+man: mężczyzna | CwoviEk	człowiek	istota ludzka	osoba 
+many: du?o | dużo	mnóstwo	wiele 
+many: dużo | dużo	mnóstwo	wiele 
+meat: ciało | mięso 
+meat: mięso 
+moon: księżyc | księżyc	miesiąc 
+mother: matka 
+mountain: góra | gura	góra	pagórek	wzgórek 
+mouth: buzia | gęba	usta 
+mouth: usta | gęba	usta 
+name: imię | imiE	imię	nazwa	nazwisko	tytuł 
+narrow: wąski | ciasny	wąski 
+near: blisko | bliski	blisko 
+neck: szyja | kark	szyja 
+new: nowy | nov3	nowy 
+night: noc 
+nose: nos 
+not: nie 
+old: stary 
+one: jeden | jeden	yEdEn 
+other: inny 
+person: osoba | CwoviEk	człowiek	istota ludzka	osoba 
+play: grać | grać	gulać 
+pull: ciągnąć 
+push: pchać | pchać	pchnąć	sunąć 
+rain: deszcz | deszcz	ulewa 
+red: czerwony 
+right: prawo | rE*ka	ręka | prawy 
+river: rzeka | potok	ruczaj	rzeka	strumyk 
+road: droga | SCEZka	droga 
+root: korzeń 
+rope: lina | lina	powróz	sznur 
+rotten: zgniły | zepsuty	zgniły 
+round: okrągły 
+rub: wycierać | trzeć	wcierać 
+salt: sól 
+sand: piasek 
+say: mówić | mówić	powiedzieć	rzec | piasek 
+scratch: drapać 
+sea: morze 
+seed: ziarno | nasienie	nasiono	siemię	ziarno 
+see: widzieć | vijEC	widzieć	zobaczyć 
+sew: szyć 
+sharp: ostry 
+short: krótki | krótki	niski 
+sing: śpiewać 
+sit: siedzieć | siadać	siedzieć 
+skin: skóra | skura	skóra 
+skin: skura | skura	skóra 
+sky: niebo | firmament	niebo	nieboskłon 
+sleep: spać | sen	spanie	spać 
+small: mały | mały	niewielki 
+smell: czuć | pachnieć	wąchać 
+smoke: dym 
+smooth: gładki 
+snake: wąż | wąż	żmija 
+snow: śnieg 
+some: trochę | kilka	niektóre	niewiele	trochę 
+spit: pluć 
+split: pęknięcie | rozdzielić	rozszczepiać	łupać 
+stab: wbijać | dźgnąć	pchnąć 
+stand: stać 
+star: gwiazda | gviazda	gwiazda 
+stick: gałąź | gałąź	patyk	pałka	pręt 
+stone: kamień | kamiE5	kamień	opoka	skała 
+straight: prosty 
+suck: ssać 
+sun: słońce | swo5cE	słońce 
+swell: rosnąć | puchnąć 
+swim: pływać | płynąć	pływać 
+tail: ogon | chwost	ogon 
+that: tamto | tamta	tamten	tamto | jeden	yEdEn 
+there: tam 
+they: oni | one	oni 
+thick: gruby | gruby	tłusty 
+thin: cienki 
+think: myśleć 
+this: to | ta	ten	to 
+thou: ty | t3	ty 
+three: trzy 
+throw: rzucać | ciskać	cisnąć	rzucać	rzucić 
+tie: przywiązywać | krawat	wiązać 
+tongue: język | język	mova	yE*z3k 
+tooth: ząb | zo*p	ząb 
+tree: drzewo | dZEvo	drzewo 
+two: dwa | dva	dwa 
+vomit: wymiotować | rzygać	womitować	wymiotować	zwracać 
+walk: chodzić | chodzić	iść 
+walk: iść | chodzić	iść 
+warm: ciepło | ciepły 
+wash: myć | myć	prać 
+water: woda | voda	woda 
+we: my | m3	my	nam 
+wet: mokry | mokry	wilgotny 
+what: co 
+when: kiedy | gdy	kiedy 
+where: gdzie 
+white: biały 
+who: kto 
+wide: szeroki 
+wife: żona | małżonka	żona 
+wind: wiatr 
+wing: skrzydło 
+wipe: wycierać 
+with: z | z	ze 
+woman: kobieta 
+worm: robak | czerw	robak 
+year: rok 
+yellow: żółty 
+you: wy | t3	ty 
+every: każdy	wszyscy	wszystek	wszystko 
+ash: popiół 
+abdomen: brzuch 
+bigness: duży	olbrzymi	wielki 
+large: duży	olbrzymi	wielki 
+breasts: piErS	pierś 
+claw: pazur 
+nail: pazur 
+talon: pazur 
+come from: pZ3b3C	przychodzić	przyjść 
+be dead: umiEraC	umierać	umrzeć 
+dead: umiEraC	umierać	umrzeć 
+ground: ląd	ziemia 
+land: ląd	ziemia 
+soil: ląd	ziemia 
+fly: latać	lecieć 
+fly v.: latać	lecieć 
+left hand: rE*ka	ręka 
+1 sg.: ja	ya 
+be knowledgeable: wiedzieć	wiedziéć	znać 
+lie down: leżeć 
+head louse: vES	wesz 
+male: mąż	mężczyzna 
+much: dużo	mnóstwo	wiele 
+multiple: dużo	mnóstwo	wiele 
+several: dużo	mnóstwo	wiele 
+flesh: mięso 
+hill: gura	góra	pagórek	wzgórek 
+title: imiE	imię	nazwa	nazwisko	tytuł 
+nighttime: noc 
+adulterous: jeden	yEdEn 
+single: jeden	yEdEn 
+the: jeden	yEdEn 
+unprincipled: jeden	yEdEn 
+human: CwoviEk	człowiek	istota ludzka	osoba 
+human being: CwoviEk	człowiek	istota ludzka	osoba 
+rainy weather: deszcz	ulewa 
+path: SCEZka	droga 
+route: SCEZka	droga 
+hide: skura	skóra 
+little: mały	niewielki 
+smallness: mały	niewielki 
+rock: kamiE5	kamień	opoka	skała 
+2 sg: t3	ty 
+grind: dva	dwa 
+go: chodzić	iść 
+hot: ciepły 
+1 pl. inc.: m3	my	nam 
+we₁: m3	my	nam 
+whiteness: biały 
+who?: kto 
+female: kobieta 
+distant: daleki	daleko 
+serious: ciężki 
+close: bliski	blisko 
+ner: bliski	blisko 
+earthworm: czerw	robak 
+3 sg.: on 
+she: on 
+2 pl.: wy 
+ye: wy 
+you all: wy 
+3 pl.: one	oni 
+where?: gdzie 
+when?: gdy	kiedy 
+how?: jak 
+broad: szeroki 
+wideness: szeroki 
+fat: sadło	smar	tłuszcz 
+principal wife: małżonka	żona 
+his mother: matka 
+my mother: matka 
+his father: ojciec 
+my father: ojciec 
+woods: bór	knieja	las	puszcza 
+branch: gałąź	patyk	pałka	pręt 
+cord: lina	powróz	sznur 
+grease: sadło	smar	tłuszcz 
+arm: dłoń	ręka 
+gut: jelita	kiszki	wnętrzności 
+insides: jelita	kiszki	wnętrzności 
+intestine: jelita	kiszki	wnętrzności 
+intestines: jelita	kiszki	wnętrzności 
+breath: dech	dychać	oddech	oddychać 
+laughter: śmiać się 
+cogitate: myśleć 
+reflect: myśleć 
+sniff: pachnieć	wąchać 
+afraid: bać się	bojaźń	strach	trwoga 
+be afraid: bać się	bojaźń	strach	trwoga 
+fright: bać się	bojaźń	strach	trwoga 
+alive: żyjący	żywy	żyć 
+be alive: żyjący	żywy	żyć 
+life: żyjący	żywy	żyć 
+living: żyjący	żywy	żyć 
+beat: bić	razić	uderzyć 
+strike: bić	razić	uderzyć 
+hack: ciąć	krajać	rąbać	rżnąć	siec 
+cut open: rozdzielić	rozszczepiać	łupać 
+pierce: dźgnąć	pchnąć 
+tell lies: kłamstwo	leżeć 
+turn: kręcić się	obracać	obracać się 
+turn around: kręcić się	obracać	obracać się 
+turn round: kręcić się	obracać	obracać się 
+drop: padać	paść	upadać 
+grasp: trzymać 
+hold in arm: trzymać 
+squeeze: zgniatać	ściskać	ścisnąć 
+wring: zgniatać	ściskać	ścisnąć 
+wash clothes: myć	prać 
+shove: pchać	pchnąć	sunąć 
+bind: krawat	wiązać 
+fasten: krawat	wiązać 
+tie up: krawat	wiązać 
+enumerate: liczba	liczyć 
+number: liczba	liczyć 
+tally: liczba	liczyć 
+have fun: grać	gulać 
+brook: potok	ruczaj	rzeka	strumyk 
+stream: potok	ruczaj	rzeka	strumyk 
+ocean: morze 
+blaze: palić	spalać 
+daylight: dzień 
+daytime: dzień 
+evil: okropny	zły 
+rot: zepsuty	zgniły 
+filthy: brudny 
+soiled: brudny 
+blunt: tępy 
+damp: mokry	wilgotny 
+right side: prawy 
+inside: w	w środku	we	wewnątrz 

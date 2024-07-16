@@ -1,0 +1,287 @@
+all: šam 
+every: šam 
+ash: topakon 
+ashes: topakon 
+bark: tapari 
+big: horon	hwaraʔ 
+bigness: horon	hwaraʔ 
+large: horon	hwaraʔ 
+bird: me 
+bite: kio 
+black: mišem 
+blood: kiCi7	kišiʔ 
+bone: ara	arašiʔ 
+breast: karaCi	karašišiʔ 
+breasts: karaCi	karašišiʔ 
+claw: šikinain 
+nail: šikinain 
+talon: šikinain 
+cloud: tayain nanawin 
+cold: kapinʔ	šio 
+come: maki7	makiʔ 
+come from: maki7	makiʔ 
+be dead: konoʔ	mi7 pin	miʔ pin 
+dead: konoʔ	mi7 pin	miʔ pin 
+die: konoʔ	mi7 pin	miʔ pin 
+dog: oromiyak 
+drink: tok	tototok 
+dry: kawainʔ 
+ear: tara	tara-yišiʔ 
+earth: makanʔ 
+ground: makanʔ 
+land: makanʔ 
+soil: makanʔ 
+eat: kakakaoʔ	kaoʔ 
+egg: arayein 
+eye: tok	tokošiʔ 
+feather: tenenein 
+fire: Ce	še 
+fish: hwam	hw~am 
+fly: takiʔ	toin 
+fly v.: takiʔ	toin 
+foot: kašimašiʔ 
+full: maʔam	moin	moinʔ	moromoinʔ 
+give: miʔ 
+good: awi 
+green: tb̃um 
+hair: tenenein	tenenešiʔ 
+hand: mi	mišiʔ	umʔ 
+left hand: mi	mišiʔ	umʔ 
+right: mi	mišiʔ	umʔ 
+head: winašiʔ 
+hear: tarayu 
+heart: šimišiʔ 
+horn: piCinain 
+1 sg.: wata7	wataʔ 
+I: wata7	wataʔ 
+kill: paʔ 
+knee: karamašiʔ	ta 
+be knowledgeable: kerek	kerek pinʔ	tašiʔ 
+know: kerek	kerek pinʔ	tašiʔ 
+leaf: tan	tenenein 
+lie: teremʔ	tokoʔ 
+lie down: teremʔ	tokoʔ 
+liver: tarawana	tarawanašiʔ 
+long: matam 
+head louse: io7	ioʔ 
+louse: io7	ioʔ 
+male: taramaʔ 
+man: wariʔ 
+many: iriʔ miyo	miya 
+much: iriʔ miyo	miya 
+multiple: iriʔ miyo	miya 
+several: iriʔ miyo	miya 
+flesh: kwerešiʔ 
+meat: kwerešiʔ 
+moon: panawoʔ 
+hill: pakun 
+mountain: pakun 
+mouth: kapiyašiʔ 
+name: wiCiCi7	wišišiʔ 
+title: wiCiCi7	wišišiʔ 
+neck: paramašiʔ 
+new: Cokori	šokori 
+night: Cim	šim 
+nighttime: Cim	šim 
+nose: weret	werešiʔ 
+adulterous: Cika7 pe	Cika7 to	monin 
+one: Cika7 pe	Cika7 to	monin 
+single: Cika7 pe	Cika7 to	monin 
+that: Cika7 pe	Cika7 to	monin 
+the: Cika7 pe	Cika7 to	monin 
+unprincipled: Cika7 pe	Cika7 to	monin 
+human: wariʔ 
+human being: wariʔ 
+person: wariʔ 
+rain: šowiʔ 
+rainy weather: šowiʔ 
+red: pakaʔ 
+path: wana 
+road: wana 
+route: wana 
+root: kašimain 
+round: monoʔo 
+sand: namayi 
+say: tomiʔ šoʔ 
+see: kerek 
+seed: tokwi 
+sit: šaoʔ pe	šaoʔ to 
+hide: tapari	taparišiʔ 
+skin: tapari	taparišiʔ 
+sleep: piʔam 
+little: wiyimain 
+small: wiyimain 
+smallness: wiyimain 
+smoke: tainʔ 
+star: piyo7	piyoʔ 
+rock: pakun 
+stone: pakun 
+sun: Cina	šina 
+swim: panʔ kam	panʔ karakam 
+tail: kahwerein 
+2 sg: wum 
+thou: wum 
+you: wum 
+tongue: petehwet nešiʔ	petehw~et 
+tooth: CiCi	šišiʔ 
+tree: pana 
+grind: nicacá	tuku karakan 
+two: nicacá	tuku karakan 
+go: šurušut	šut 
+walk: šurušut	šut 
+hot: nonoe	šain 
+warm: nonoe	šain 
+water: kom 
+1 pl. inc.: wari7	wariʔ 
+we: wari7	wariʔ 
+we₁: wari7	wariʔ 
+white: towoʔ 
+whiteness: towoʔ 
+female: narimaʔ 
+woman: narimaʔ 
+yellow: košik 
+distant: pira 
+far: pira 
+dull: taʔ man	teʔ man	šite 
+heavy: taʔ man	teʔ man	šite 
+serious: taʔ man	teʔ man	šite 
+salt: sal 
+short: wiyimain 
+snake: emʔ 
+thin: šašiʔ 
+wind: hotowa 
+earthworm: meteʔ 
+worm: meteʔ 
+year: kawašiʔ 
+2 pl.: wahuʔ 
+ye: wahuʔ 
+you all: wahuʔ 
+3 pl.: karam maʔ 
+they: karam maʔ 
+some: arakaʔ 
+few: parek 
+three: nicacá 
+four: équemetêt 
+broad: kote ne kimain 
+wide: kote ne kimain 
+wideness: kote ne kimain 
+fat: homain 
+thick: kwere 
+child: piyeʔ 
+principal wife: mana 
+wife: mana 
+husband: taši 
+his mother: naʔ 
+mother: naʔ 
+my mother: naʔ 
+father: te 
+his father: te 
+my father: te 
+animal: karawa 
+forest: nahwarak 
+woods: nahwarak 
+fruit: memem	winain 
+flower: piwain	wiyein 
+grass: tononoin 
+cord: makon 
+rope: makon 
+grease: homain 
+leg: kokošiʔ	pišiyašiʔ 
+wing: tapaši 
+gut: monošiʔ 
+guts: monošiʔ 
+insides: monošiʔ 
+intestine: monošiʔ 
+intestines: monošiʔ 
+back: warašiʔ 
+suck: šak	šok 
+spit: hupaʔ 
+vomit: weʔ 
+blow: hu	hukoʔ 
+breath: wereme 
+breathe: wereme 
+laugh: katamʔ	tatamʔ 
+laughter: katamʔ	tatamʔ 
+cogitate: koromikat 
+reflect: koromikat 
+think: koromikat 
+afraid: yinʔ 
+be afraid: yinʔ 
+fear: yinʔ 
+fright: yinʔ 
+alive: eʔ 
+be alive: eʔ 
+life: eʔ 
+live: eʔ 
+living: eʔ 
+fight: mišita 
+hunt: yiʔam 
+beat: toʔ 
+hit: toʔ 
+strike: toʔ 
+cut: nakamʔ	nakarkamʔ	ta	wak	wawak 
+hack: nakamʔ	nakarkamʔ	ta	wak	wawak 
+cut open: toʔ pahorohot	toʔ pahot 
+split: toʔ pahorohot	toʔ pahot 
+pierce: šukunʔ 
+stab: šukunʔ 
+dig: še	šikeʔ 
+stand: tekiʔ pe	tekiʔ to 
+turn: yami 
+turn around: yami 
+turn round: yami 
+drop: kamaraʔ	panʔ 
+fall: kamaraʔ	panʔ 
+grasp: kep 
+hold: kep 
+hold in arm: kep 
+squeeze: humʔ 
+wring: humʔ 
+rub: šik 
+wipe: šik 
+wash: hohok	toʔ 
+wash clothes: hohok	toʔ 
+push: yök 
+shove: yök 
+throw: wišikaoʔ	šin 
+bind: tuku 
+fasten: tuku 
+tie: tuku 
+tie up: tuku 
+sew: ok 
+count: piyimʔ 
+enumerate: piyimʔ 
+number: piyimʔ 
+tally: piyimʔ 
+sing: kom 
+have fun: warayu 
+play: warayu 
+float: ho	horoho 
+flow: weo	weweweo 
+brook: kom 
+river: kom 
+stream: kom 
+lake: šuteremʔ 
+ocean: kote ne kom 
+sea: kote ne kom 
+dust: tainʔ 
+fog: murukukuʔ 
+sky: nanawin 
+ice: šio šio 
+day: šek 
+daylight: šek 
+daytime: šek 
+bad: kayi 
+evil: kayi 
+rot: šowuru 
+rotten: šowuru 
+dirty: mišem 
+filthy: mišem 
+soiled: mišem 
+sharp: šaʔ 
+smooth: topišik 
+damp: šoʔ 
+wet: šoʔ 
+correct: šoʔ 
+right side: irikwerešiʔ 
+left: parayišiʔ 

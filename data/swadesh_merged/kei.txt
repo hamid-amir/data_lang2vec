@@ -1,0 +1,265 @@
+all: besá: 
+every: besá: 
+ash: ten|aβun 
+ashes: ten|aβun 
+abdomen: oβóŋ 
+belly: oβóŋ 
+big: hilaʔa 
+bigness: hilaʔa 
+large: hilaʔa 
+bird: man iwar 
+bite: kik 
+black: ŋamétan 
+blood: lara	laraŋ 
+bone: liri	liriŋ 
+breast: sus	sus:	susav	susṿ 
+breasts: sus	sus:	susav	susṿ 
+burn: āβun 
+burn tr.: āβun 
+cloud: mutan 
+cold: brinin	ŋaridin 
+come: ma	n-ma 
+come from: ma	n-ma 
+be dead: mat 
+dead: mat 
+die: mat 
+dog: yaha 
+drink: en	t|en 
+dry: [na]kmár 
+ear: aru 
+eat: ta|ʔan 
+egg: man tolur 
+eye: mata	mataŋ 
+feather: βuluŋ 
+fire: yafav	yafṿ 
+fish: bu7ut	βuʔut 
+fly: ṇʔór 
+fly v.: ṇʔór 
+good: laloʔo 
+green: babír 
+hair: muru 
+hand: lima	limaŋ 
+left hand: lima	limaŋ 
+right: lima	limaŋ 
+head: uluŋ 
+hear: denar 
+1 sg.: ya7a	yaʔa 
+I: ya7a	yaʔa 
+kill: fedan 
+be knowledgeable: [u]ká 
+know: [u]ká 
+leaf: roan 
+lie: falo tetaŋ 
+lie down: falo tetaŋ 
+liver: yata	yataŋ 
+long: baloat 
+head louse: utav	utṿ 
+louse: utav	utṿ 
+male: bararán 
+man: umat 
+moon: βulan 
+mouth: ŋor 
+name: mema	memaŋ 
+title: mema	memaŋ 
+neck: relaŋ 
+new: bat	βa:t 
+night: dedan 
+nighttime: dedan 
+nose: nuru	nuruŋ 
+adulterous: nsa	ʔaén 
+one: nsa	ʔaén 
+single: nsa	ʔaén 
+that: ihé: 
+the: nsa	ʔaén 
+unprincipled: nsa	ʔaén 
+human: umat 
+human being: umat 
+person: umat 
+rain: doʔot 
+rainy weather: doʔot 
+red: βaβúl 
+path: ba 
+road: ba 
+route: ba 
+root: waʔar 
+sand: ŋur 
+say: [t]nar 
+see: li7ik	liʔik 
+sit: duk 
+hide: ili	ili-n 
+skin: ili	ili-n 
+sleep: tub 
+little: kót 
+small: kót 
+smallness: kót 
+smoke: mahan 
+star: nar 
+rock: bat	βat 
+stone: bat	βat 
+swim: s|nan 
+tail: kukur 
+this: yíʔi 
+2 sg: [mu]o[m]	muom	o 
+thou: [mu]o[m]	muom	o 
+you: [mu]o[m]	muom	o 
+tongue: e7ar	eʔar 
+tooth: nifa	nifaŋ 
+grind: ndr$u	ndru	řu 
+two: ndr$u	ndru	řu 
+go: mti 
+walk: mti 
+hot: ŋane 
+warm: ŋane 
+water: wear 
+1 pl. inc.: am	it 
+we: am	it 
+we₁: am	it 
+what: hafka	hafkehe 
+white: ŋaŋiar 
+whiteness: ŋaŋiar 
+who: hen be 
+who?: hen be 
+female: βaβat 
+woman: βaβat 
+yellow: tatóm 
+distant: raro 
+far: raro 
+dull: aleman 
+heavy: aleman 
+serious: aleman 
+close: sasír 
+near: sasír 
+ner: sasír 
+short: ket 
+snake: nifṿ 
+thin: manifin 
+wind: ne:tṿ	néetṿ 
+earthworm: nolun 
+worm: nolun 
+year: ta:n	ya:t 
+2 pl.: im 
+ye: im 
+you all: im 
+3 pl.: hir 
+they: hir 
+where: odan be 
+where?: odan be 
+when: haran be 
+when?: haran be 
+how: fel be 
+how?: fel be 
+other: liʔan	mhaliŋ 
+three: tel	t̪ɛl 
+four: fa:ak	fa:k 
+five: lim 
+broad: ŋalabar 
+wide: ŋalabar 
+wideness: ŋalabar 
+fat: minan 
+thick: maʔafa 
+narrow: kakotan	nafdéʔen	ṇʔirar 
+principal wife: hoaŋ 
+wife: hoaŋ 
+husband: hoaŋ 
+his mother: r|ena|ŋ 
+mother: r|ena|ŋ 
+my mother: r|ena|ŋ 
+father: y|ama|ŋ 
+his father: y|ama|ŋ 
+my father: y|ama|ŋ 
+forest: ya:t 
+woods: ya:t 
+branch: ra:n 
+stick: ra:n 
+fruit: βuan 
+flower: fu:n 
+grass: nifar 
+cord: warat 
+rope: warat 
+flesh: ihin 
+meat: ihin 
+grease: minan 
+wing: halan 
+gut: tineaŋ 
+guts: tineaŋ 
+insides: tineaŋ 
+intestine: tineaŋ 
+intestines: tineaŋ 
+back: tetaŋ 
+suck: bu:k	toʔ 
+spit: ftuk 
+vomit: dolaŋ 
+blow: frek 
+breath: el na:m 
+breathe: el na:m 
+laugh: malit 
+laughter: malit 
+cogitate: fikir 
+reflect: fikir 
+think: fikir 
+smell: humak 
+sniff: humak 
+afraid: bobar 
+be afraid: bobar 
+fear: bobar 
+fright: bobar 
+alive: βat 
+be alive: βat 
+life: βat 
+live: βat 
+living: βat 
+hunt: steʔe 
+beat: baku 
+hit: baku 
+strike: baku 
+cut: hafat 
+hack: hafat 
+cut open: kakṿ 
+split: kakṿ 
+pierce: haʔa 
+stab: haʔa 
+scratch: ker 
+dig: kal	kear 
+stand: dir[ṿ] 
+drop: lek 
+fall: lek 
+grasp: ker 
+hold: ker 
+hold in arm: ker 
+squeeze: katam 
+wring: katam 
+throw: teβṿ 
+bind: keat 
+fasten: keat 
+tie: keat 
+tie up: keat 
+sew: fhoar 
+count: waŋ 
+enumerate: waŋ 
+number: waŋ 
+tally: waŋ 
+flow: sβakṿ 
+lake: tofor 
+ocean: tahat 
+sea: tahat 
+dust: haruβṿ 
+fog: laloβṿ 
+sky: lanit 
+bad: natmean 
+evil: natmean 
+rot: βuβun 
+rotten: βuβun 
+dirty: ŋurá 
+filthy: ŋurá 
+soiled: ŋurá 
+sharp: dadenek	namneram 
+blunt: matbohon 
+damp: [na]k boan 
+wet: [na]k boan 
+right side: mel 
+left: balit 
+at: naʔa	tub 
+in: [naʼa]ralan	ihe: 
+inside: [naʼa]ralan	ihe: 
+and: hoβ 
+if: fel 

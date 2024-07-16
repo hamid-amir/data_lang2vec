@@ -1,0 +1,326 @@
+all: kukum | kukum	kuːkum 
+all: kuːkum | kukum	kuːkum 
+ashes: pikin | pikin	pikɪn	pʼikʼin 
+ashes: p\ik\in | pikin	pikɪn	pʼikʼin 
+ashes: pikɪn | pikin	pikɪn	pʼikʼin 
+back: k\was\ 
+bad: ˗k\ɔš 
+bark: gɔnk˗ | gɔnk-	šungul 
+bark: šungul | gɔnk-	šungul 
+belly: tat | tat	taːt 
+belly: taːt | tat	taːt 
+big: alagɛčer | alagɛčer	gašar	haːnɛʔko 
+big: gašar | alagɛčer	gašar	haːnɛʔko 
+big: haːnɛʔko | alagɛčer	gašar	haːnɛʔko 
+bird: bit | bit	haːya 
+bird: haːya | bit	haːya 
+bite: sùntzà | susũs	sùntzà 
+bite: susu͂s | susũs	sùntzà 
+black: ašwalaʔ | -tɔːtɔ	ašwalaʔ 
+black: ˗tɔːtɔ | -tɔːtɔ	ašwalaʔ 
+blood: s\aːb ~ s\aːm | c"ab	s"am	sʼaːb	sʼaːm	tsʼam	tsʼaːb 
+blood: ts\aːb | c"ab	s"am	sʼaːb	sʼaːm	tsʼam	tsʼaːb 
+blood: ts\am | c"ab	s"am	sʼaːb	sʼaːm	tsʼam	tsʼaːb 
+blow: p\i˗ 
+bone: siː | si	siː 
+breast: s\ub | c"ob	s"up"	sup	sʼub	tsʼoːb 
+breast: sup | c"ob	s"up"	sup	sʼub	tsʼoːb 
+breast: ts\oːb | c"ob	s"up"	sup	sʼub	tsʼoːb 
+breathe: šinži 
+brother: wər˗kwa 
+burn: s\aː 
+burn: t\aːnt\at\ant 
+claw: k\ʊːmp | kʼunsgɪbi	kʼʊːmp 
+claw: k\unsgɪbi | kʼunsgɪbi	kʼʊːmp 
+cloud: ɔ͂ːku | uːku	uːkuʔ	ɔ̃ːku 
+cloud: uːku | uːku	uːkuʔ	ɔ̃ːku 
+cloud: uːkuʔ | uːku	uːkuʔ	ɔ̃ːku 
+cold: tsup | tsup	tsʼuːp 
+cold: ts\uːp | tsup	tsʼuːp 
+come: hɔː | -hoyoʔ	ho	hoyo	hɔː	hɔ̃yõ	yõ 
+come: ˗hoyoʔ | -hoyoʔ	ho	hoyo	hɔː	hɔ̃yõ	yõ 
+come: hɔ͂yo͂ | -hoyoʔ	ho	hoyo	hɔː	hɔ̃yõ	yõ 
+come: yo͂ | -hoyoʔ	ho	hoyo	hɔː	hɔ̃yõ	yõ 
+cut: ˗k\ut 
+die: ˗tisiːʔ | -tisiːʔ	c"ic"i7	s"i	tsʼitsʼiːʔ 
+die: ts\its\iːʔ | -tisiːʔ	c"ic"i7	s"i	tsʼitsʼiːʔ 
+dig: aša 
+dog: kana | kana	kaːna 
+dog: kaːna | kana	kaːna 
+drink: t\obat\oːb | -tutop	t"obat"ob	t"op"	tʼobatʼoːb 
+drink: ˗tutop | -tutop	t"obat"ob	t"op"	tʼobatʼoːb 
+dry: ˗kukʊts | -kukʊts 
+ear: s\e | c"E	s"eye	sʼe	tsʼeːʔ	tsʼɛː 
+earth: yəs 
+ear: ts\eːʔ | c"E	s"eye	sʼe	tsʼeːʔ	tsʼɛː 
+ear: ts\ɛː | c"E	s"eye	sʼe	tsʼeːʔ	tsʼɛː 
+eat: šaː | šaː	šaːša	šiš 
+eat: šaːša | šaː	šaːša	šiš 
+eat: šiš | šaː	šaːša	šiš 
+egg: simbʷ | simbwoŋa	simbʷ	tsʼɪmbwaːŋa 
+egg: simbwoŋa | simbwoŋa	simbʷ	tsʼɪmbwaːŋa 
+egg: ts\ɪmbwaːŋa | simbwoŋa	simbʷ	tsʼɪmbwaːŋa 
+eye: ziː | zi	ziː 
+fall: p\iʔ 
+far: šul | šul 
+father: baː\ba 
+father: babaʔ 
+fat (n.): aldidaʔ 
+fat (n.): da 
+fat (n.): daː 
+fear: kukwakwa 
+fire: ant\ | ant"	ant~	ant~E	antʼ	aːntɛ 
+fire: aːntɛ | ant"	ant~	ant~E	antʼ	aːntɛ 
+fish: waːs\ | wac"	was"s"	waːsʼ	waːtsʼ 
+fish: waːts\ | wac"	was"s"	waːsʼ	waːtsʼ 
+five: kum˗but 
+fly (n.): kɔːnzo 
+foot: sɔnk | sont	sɔnk	sɔːntʰ 
+foot: sont | sont	sɔnk	sɔːntʰ 
+foot: sɔːntʰ | sont	sɔnk	sɔːntʰ 
+full: iːli | ili	iːli 
+give: teːyati | teːyati	ti 
+give: ti | teːyati	ti 
+good: digaʔ | digaʔ	nɔːkɔ 
+good: nɔːkɔ | digaʔ	nɔːkɔ 
+grass: šu 
+grass: šušu 
+grass: šušuːšu 
+green: sile˗ | sile- 
+hair: baːk˗ | bal-	baːk- 
+hair: bal˗ | bal-	baːk- 
+hair: (m)bal˗ | bal-	baːk- 
+hand: bɛt\ | bit"	biːt	bɛtʼ	bɪt	mit	miːt 
+hand: bɪt | bit"	biːt	bɛtʼ	bɪt	mit	miːt 
+hand: (m)biːt | bit"	biːt	bɛtʼ	bɪt	mit	miːt 
+hand: miːt | bit"	biːt	bɛtʼ	bɪt	mit	miːt 
+head: kup | kup	uːb 
+head: uːb | kup	uːb 
+hear: k\eb˗ | k"ep	kEpEkEp	kɛpɛːkɛp	kʼeb- 
+hear: kɛpɛːkɛp | k"ep	kEpEkEp	kɛpɛːkɛp	kʼeb- 
+heart: iŋgi | iŋgi	upɪːŋi 
+heart: upɪːŋi | iŋgi	upɪːŋi 
+heavy: aːsil 
+here: haːni 
+hit: šəb˗ 
+horn: kwaːp | kwaːp	kw~ap	kw~ap" 
+I: gaʔ | ga	ga-	ga7	gaʔ 
+I: ga˗ | ga	ga-	ga7	gaʔ 
+kill: k\óš | kʊšakʊš	kʼóš 
+kill: kʊšakʊš | kʊšakʊš	kʼóš 
+knee: duːgi | dugi	dugul	dugull	duːgi 
+knee: dugul | dugi	dugul	dugull	duːgi 
+know: ala˗ | ala-	allaʔ	ayaːya 
+know: allaʔ | ala-	allaʔ	ayaːya 
+know: ayaːya | ala-	allaʔ	ayaːya 
+leaf: ts\e˗ | c"e	tsʼe-	yəgəts 
+leaf: yəgəts | c"e	tsʼe-	yəgəts 
+left: goli 
+liver: tɔːtɔ | toto	tuta	tɔːtɔ 
+liver: tuta | toto	tuta	tɔːtɔ 
+long: du | -duʔ	-tuː	du 
+long: ˗duʔ | -duʔ	-tuː	du 
+long: ˗tuː | -duʔ	-tuː	du 
+louse: so˗ənsoʔ | s"owanz~o 
+louse: s\ɔns\ɔ | s"owanz~o 
+man: sit 
+man: siːt | sit 
+man: uyai | sit 
+many: atorum | atorum	naːla	nyaːzɪnkʷɔ 
+many: naːla | atorum	naːla	nyaːzɪnkʷɔ 
+many: nyaːzɪnkʷɔ | atorum	naːla	nyaːzɪnkʷɔ 
+meat: sʊm 
+meat: sum 
+moon: tsawan | tsawan	tsʼeːwan 
+moon: ts\eːwan | tsawan	tsʼeːwan 
+mountain: kɔː | ko	koarkini	kɔː 
+mountain: koarkini | ko	koarkini	kɔː 
+mouth: t\ɔwaː | tʼwa	tʼwaʔ	tʼɔwaː 
+mouth: t\wa | tʼwa	tʼwaʔ	tʼɔwaː 
+mouth: t\waʔ | tʼwa	tʼwaʔ	tʼɔwaː 
+name: tuːi | sonk"	tui	tuːi	tuːl 
+name: tuːl | sonk"	tui	tuːi	tuːl 
+near: kisəko 
+neck: kuːš | kuːš	pil	pʼil 
+neck: pil | kuːš	pil	pʼil 
+neck: p\il ~ pil | kuːš	pil	pʼil 
+new: adidiš | -diš	-ʼdɪddiš	adidiš	didiS	didiSS 
+new: ˗\dɪddiš | -diš	-ʼdɪddiš	adidiš	didiS	didiSS 
+new: ˗diš | -diš	-ʼdɪddiš	adidiš	didiS	didiSS 
+night: kalgušunu | anz~ugun	kalgušunu	sugun	sukun	suːkʊn 
+night: sugun | anz~ugun	kalgušunu	sugun	sukun	suːkʊn 
+night: suːkʊn | anz~ugun	kalgušunu	sugun	sukun	suːkʊn 
+old: ˗k\oš 
+one: aseni | aseni	asiyene	seːndo	sond~o	sɔːndo	ʔāʼśέn 
+one: seːndo | aseni	asiyene	seːndo	sond~o	sɔːndo	ʔāʼśέn 
+one: sɔːndo | aseni	asiyene	seːndo	sond~o	sɔːndo	ʔāʼśέn 
+other: a\k\aːsa 
+person: sit 
+pull: šu˗ 
+push: tuš˗ 
+rain: šu | yins	šu	šuː 
+rain: šuː | yins	šu	šuː 
+rain: yins | yins	šu	šuː 
+rat: s\i˗ 
+red: al˗k\əš | -kʼəš	-kʼɛːš	al-kʼəš 
+red: ˗k\ɛːš | -kʼəš	-kʼɛːš	al-kʼəš 
+red: ˗k\əš | -kʼəš	-kʼɛːš	al-kʼəš 
+right: k\aːna | bit"	biːt	bɛtʼ	bɪt	mit	miːt 
+road: aŋa | aNa 
+road: pwo˗ | aNa 
+road: pwo\aːŋa | aNa 
+root: s\an | sʼan	tsʼɔːn- 
+root: ts\ɔːn˗ | sʼan	tsʼɔːn- 
+rope: šudul 
+salt: t\əš | tʼəš 
+sand: fulfuš | fulfuš	wɔŋats 
+sand: wɔŋats | fulfuš	wɔŋats 
+say: tər˗ | tutʼwaʔ	tər-	tʼwaːtʼwa 
+say: tut\waʔ | tutʼwaʔ	tər-	tʼwaːtʼwa 
+say: t\waːt\wa | tutʼwaʔ	tər-	tʼwaːtʼwa 
+scratch: k\uns˗ 
+seed: ziː˗ | ziː- 
+see: šiː | Si	SiyaSe7	šiyašeʔ	šiši	šiː 
+see: šiši | Si	SiyaSe7	šiyašeʔ	šiši	šiː 
+see: šiyašeʔ | Si	SiyaSe7	šiyašeʔ	šiši	šiː 
+sew: ʔus 
+sharp: ši˗ 
+short: ˗gut | -gut 
+sit: ˗zal | -zal	ziːʼzɛ 
+sit: ziː\zɛ | -zal	ziːʼzɛ 
+skin: gɔŋgo | goNg~o	gong~o	gwaŋkʼoʔ	gɔŋgo 
+skin: gwaŋk\oʔ | goNg~o	gong~o	gwaŋkʼoʔ	gɔŋgo 
+sky: ˗wus 
+sleep: iis | iis	iʼʔiš 
+sleep: i\ʔiš | iis	iʼʔiš 
+small: waːlkɪn | warkini	waːlkɪn 
+small: warkini | warkini	waːlkɪn 
+smoke: siːŋg | sink	siːŋg 
+smoke: sink | sink	siːŋg 
+snake: bʷaːša | bwoašaʔ	bʷaːša 
+snake: bwoašaʔ | bwoašaʔ	bʷaːša 
+stand: ˗twus 
+stand: ˗zuguʔ 
+stand: zɪzuːgu 
+star: biːza | bizE	bizin	biːza	biːzɛ 
+star: biːzɛ | bizE	bizin	biːza	biːzɛ 
+star: bizin | bizE	bizin	biːza	biːzɛ 
+stone: p\idil | p"idill	pidin	pindil	pʼidil	pʼidɪn 
+stone: p\idɪn | p"idill	pidin	pindil	pʼidil	pʼidɪn 
+stone: pindil | p"idill	pidin	pindil	pʼidil	pʼidɪn 
+sun: kaːla | kala	kaya	kaːla	kaːlaʔ	kaːya 
+sun: kaːlaʔ | kala	kaya	kaːla	kaːlaʔ	kaːya 
+sun: kaːya | kala	kaya	kaːla	kaːlaʔ	kaːya 
+sweet: s(w)al 
+swim: faŋk\ | -kisiíya	faŋkʼ	paŋ	pʷaːngnɪʔi 
+swim: ˗kisiíya | -kisiíya	faŋkʼ	paŋ	pʷaːngnɪʔi 
+swim: paŋ | -kisiíya	faŋkʼ	paŋ	pʷaːngnɪʔi 
+swim: pʷaːngnɪʔi | -kisiíya	faŋkʼ	paŋ	pʷaːngnɪʔi 
+tail: ɔːngʔ | uːŋu	ɔːngʔ 
+tail: uːŋu | uːŋu	ɔːngʔ 
+take: kab 
+that: yani 
+there: haːni 
+think: gwɔm˗ 
+thin: zɪːnziʔ 
+this: ai | ai	u- -e 
+this: u˗ ˗e | ai	u- -e 
+thou: ik | ik	ɪk- 
+thou: ɪk˗ | ik	ɪk- 
+thou: ɔm | ik	ɪk- 
+three: twaːsɛ 
+three: twazan 
+throw: kɔl˗ 
+tie: t\uš 
+tie: tuš 
+tongue: takal | t"akall	t"ake7	takal	tʼakeʔ	tʼakʼal 
+tongue: t\ak\al | t"akall	t"ake7	takal	tʼakeʔ	tʼakʼal 
+tongue: t\akeʔ | t"akall	t"ake7	takal	tʼakeʔ	tʼakʼal 
+tooth: šiʔ | Si	Si7	šiʔ	šiːʔ 
+tooth: šiːʔ | Si	Si7	šiʔ	šiːʔ 
+tree: swaːla | swala	sw~aya 
+tree: swaːya | swala	sw~aya 
+turn: šaːl 
+two: siːya | siya	siːya	swiːya	sw~iya	ʼsíjá 
+two: swiːya | siya	siːya	swiːya	sw~iya	ʼsíjá 
+vagina: pet 
+walk: gɔs˗ 
+walk: gusə 
+walk: hu͂ho͂ 
+walk: huːhɔː 
+warm: ˗toš | -toš	-tɔːš 
+warm: ˗tɔːš | -toš	-tɔːš 
+water: iyaʔ | iya7	iyaʔ	iyya	iyəʔ	iːʼyyaʔ 
+water: iyəʔ | iya7	iyaʔ	iyya	iyəʔ	iːʼyyaʔ 
+water: iː\yyaʔ | iya7	iyaʔ	iyya	iyəʔ	iːʼyyaʔ 
+weep: ku˗ 
+we (excl.): mini 
+we: maʔ | ma	mini 
+we: miːni | ma	mini 
+wet: ˗iːši 
+wet: s\iaːk\a 
+what: biː | biː	ubiː 
+what: ubiː | biː	ubiː 
+when: gyasbi 
+where: ala˗biːna 
+white: aserrɛ | aserrɛ	sere	seːleʔ 
+white: seːleʔ | aserrɛ	sere	seːleʔ 
+white: sere | aserrɛ	sere	seːleʔ 
+who: ʊːddi | ekúkaraʔ	udi	ʊːddi 
+who: ekúkaraʔ | ekúkaraʔ	udi	ʊːddi 
+who: udi | ekúkaraʔ	udi	ʊːddi 
+woman: kiː\kʲaːta | kikyata	kiːʼkʲaːta	kíkiáta 
+woman: kíkiáta | kikyata	kiːʼkʲaːta	kíkiáta 
+woman: kikyata | kikyata	kiːʼkʲaːta	kíkiáta 
+year: naːta 
+yes: ɛ͂ːʔ 
+every: kukum	kuːkum 
+ash: pikin	pikɪn	pʼikʼin 
+abdomen: tat	taːt 
+bigness: alagɛčer	gašar	haːnɛʔko 
+large: alagɛčer	gašar	haːnɛʔko 
+breasts: c"ob	s"up"	sup	sʼub	tsʼoːb 
+nail: kʼunsgɪbi	kʼʊːmp 
+talon: kʼunsgɪbi	kʼʊːmp 
+come from: -hoyoʔ	ho	hoyo	hɔː	hɔ̃yõ	yõ 
+be dead: -tisiːʔ	c"ic"i7	s"i	tsʼitsʼiːʔ 
+dead: -tisiːʔ	c"ic"i7	s"i	tsʼitsʼiːʔ 
+left hand: bit"	biːt	bɛtʼ	bɪt	mit	miːt 
+1 sg.: ga	ga-	ga7	gaʔ 
+be knowledgeable: ala-	allaʔ	ayaːya 
+head louse: s"owanz~o 
+male: sit	siːt	uyai 
+much: atorum	naːla	nyaːzɪnkʷɔ 
+multiple: atorum	naːla	nyaːzɪnkʷɔ 
+several: atorum	naːla	nyaːzɪnkʷɔ 
+hill: ko	koarkini	kɔː 
+title: sonk"	tui	tuːi	tuːl 
+nighttime: anz~ugun	kalgušunu	sugun	sukun	suːkʊn 
+nose: SunS~	sunS	sʊːňs	šuš	šũš 
+adulterous: aseni	asiyene	seːndo	sond~o	sɔːndo	ʔāʼśέn 
+single: aseni	asiyene	seːndo	sond~o	sɔːndo	ʔāʼśέn 
+the: aseni	asiyene	seːndo	sond~o	sɔːndo	ʔāʼśέn 
+unprincipled: aseni	asiyene	seːndo	sond~o	sɔːndo	ʔāʼśέn 
+human: sit 
+human being: sit 
+rainy weather: yins	šu	šuː 
+path: aNa 
+route: aNa 
+hide: goNg~o	gong~o	gwaŋkʼoʔ	gɔŋgo 
+little: warkini	waːlkɪn 
+smallness: warkini	waːlkɪn 
+rock: p"idill	pidin	pindil	pʼidil	pʼidɪn 
+2 sg: ik	ɪk- 
+you: ik	ɪk- 
+grind: siya	siːya	swiːya	sw~iya	ʼsíjá 
+hot: -toš	-tɔːš 
+1 pl. inc.: ma	mini 
+we₁: ma	mini 
+whiteness: aserrɛ	sere	seːleʔ 
+who?: ekúkaraʔ	udi	ʊːddi 
+female: kikyata	kiːʼkʲaːta	kíkiáta 
+distant: šul 
+dull: aːsil 
+serious: aːsil 
+close: kisəko 
+ner: kisəko 

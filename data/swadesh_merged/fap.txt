@@ -1,0 +1,180 @@
+all: tuh 
+animal: žintaŋ 
+ashes: žɛtʰ | žɛtʰ 
+bark: hop 
+belly: lɔə 
+bird: yaq 
+bite: ɗɔp 
+black: suːl 
+blood: ɲif | 5if	ɲif 
+blow: fulil 
+bone: yox 
+breast: ɓip | alal	b"ip	ɓip 
+burn: tam 
+child: kukɔʲ 
+cloud: yol 
+cold: soəːs 
+come: ʔacʰ | ach~	ʔacʰ 
+count: kin 
+die: xul 
+dig: xacç 
+dog: ɓox | b"ox	b"ux	ɓox 
+drink: han | han	xan 
+dry: suh 
+dust: pəndaʔ 
+ear: nuf 
+earth: feʲa | feⁱfa 
+eat: ɲam 
+egg: wax 
+eye: ʔil | il	ʔil 
+fall: kʲn 
+father: cçacç 
+fat (n.): fəžuːm 
+fear: ɗafas 
+feather: lam 
+fingernail: cçigilan 
+fire: kiːə | ki	ki3	kiːə 
+fish: ɟʝen | Ten	Turun	ɟʝen 
+five: ʔip 
+fly (v.): pun 
+foot: qɔt 
+four: ʔini 
+full: lif | lif	un 
+give: žɛt | žɛt 
+good: baːx 
+guts: lil 
+hair: fɛn 
+hand: yaʔ | ya7	yaʔ 
+head: ʔaf 
+hear: kelɔx | kel	kelox	kelɔx 
+heart: kɛɲ 
+hit: lap 
+horn: žicʰ | Zich~	xiT	žicʰ 
+house: faːm 
+husband: yal 
+kill: hap 
+knee: yi | S"ix	yi 
+know: žuh | žuh 
+laugh: yɛn 
+leaf: saf 
+lie: fanɔx 
+liver: kɛɲ | ka5	kɛɲ 
+long: ʔotʰ 
+louse: ɗiɲ | d"i5 
+man: yal | b"oye	ow~	ʔɔᵘʔ 
+many: cçaːq 
+moon: cʲn | cⁱɪn 
+mountain: tagoʔ | tago7	tagoʔ 
+mouth: ɓuq 
+name: tʰiː | th~i	tʰiː 
+navel: kɔsin 
+neck: lum 
+new: has | has	xas 
+night: ʔɛlɛk | alak	elek	ʔɛlɛk 
+one: žinoʔ | Zino7	yʊ̈nɔ	žinoʔ 
+person: ʔɔʷ | b"oye	ow~	ʔɔᵘʔ 
+play: heːʲoʔ 
+pull: nɔːqʰ 
+push: žɛɲ 
+rain: tɔp 
+red: lʊːəm 
+river: xulup 
+road: waːl | wal 
+root: nil 
+rope: nih 
+round: ndɛrɛŋ 
+salt: mɪraː 
+sand: feʲ | feⁱ 
+say: wan 
+scratch: xɔcçɔx 
+seed: tisɔx 
+see: ʔɔtʰ | od"	oth~	ʔɔtʰ 
+short: lux 
+sing: yɛk 
+sit: xʌm 
+skin: hʊnfan | hunfan	hʊnfan	lib 
+sky: fan 
+sleep: neʔ 
+small: yɪn 
+smoke: dukə 
+snake: ǯɪnfeʲ | ǯɪnfeⁱ 
+spit: ɓɔf 
+split: ɓɛs 
+squeeze: poəc 
+stand: kɔlɔx 
+star: xol | xol	xul 
+stone: laʔ | la7	laʔ 
+suck: ɓap 
+sun: naʔ | na7	naʔ 
+swell: lɔtʰ 
+swim: feːži | feːži 
+tail: luq 
+take: lɔx 
+three: ʔežɛʔ 
+throw: hɛŋ 
+tongue: pɛrɛm | param	pɛrɛm 
+tooth: sis 
+tree: kilik 
+two: ʔanaʔ | ana	ana7	ʔanaʔ 
+vomit: bɔtʰ 
+walk: til 
+warm: tam 
+wash: ɓɔːx 
+wash: hɔs 
+water: molop | molop	mulub 
+what: daži | daži 
+white: naːʔ 
+who: ɗiwa 
+wife: ɓɛlɛp 
+wind: purus 
+wing: pap 
+woman: ɓɛlɛp 
+wood: soqɔɲ 
+year: kiːl 
+every: tuh 
+ash: žɛtʰ 
+abdomen: lɔə 
+breasts: alal	b"ip	ɓip 
+come from: ach~	ʔacʰ 
+be dead: xul 
+dead: xul 
+ground: feⁱfa 
+land: feⁱfa 
+soil: feⁱfa 
+fly: pun 
+fly v.: pun 
+left hand: ya7	yaʔ 
+right: ya7	yaʔ 
+be knowledgeable: žuh 
+head louse: d"i5 
+male: yal 
+much: cçaːq 
+multiple: cçaːq 
+several: cçaːq 
+hill: tago7	tagoʔ 
+title: th~i	tʰiː 
+nighttime: alak	elek	ʔɛlɛk 
+nose: ɲiɲ 
+adulterous: Zino7	yʊ̈nɔ	žinoʔ 
+single: Zino7	yʊ̈nɔ	žinoʔ 
+that: Zino7	yʊ̈nɔ	žinoʔ 
+the: Zino7	yʊ̈nɔ	žinoʔ 
+unprincipled: Zino7	yʊ̈nɔ	žinoʔ 
+human: b"oye	ow~	ʔɔᵘʔ 
+human being: b"oye	ow~	ʔɔᵘʔ 
+rainy weather: tɔp 
+path: wal 
+route: wal 
+hide: hunfan	hʊnfan	lib 
+little: yɪn 
+smallness: yɪn 
+rock: la7	laʔ 
+grind: ana	ana7	ʔanaʔ 
+go: til 
+hot: tam 
+1 pl. inc.: yen 
+we: yen 
+we₁: yen 
+whiteness: naːʔ 
+who?: ɗiwa 
+female: ɓɛlɛp 

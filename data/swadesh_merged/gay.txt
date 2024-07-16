@@ -1,0 +1,265 @@
+all: bén 
+every: bén 
+ash: wau	əbəm 
+ashes: wau	əbəm 
+abdomen: tukə 
+belly: tukə 
+big: kul 
+bigness: kul 
+large: kul 
+bird: manuk 
+bite: muŋét 
+black: itəm 
+blood: rayoh	rayɔh 
+bone: tul3n	tulən 
+breast: susu 
+breasts: susu 
+burn: munyiut 
+burn tr.: munyiut 
+cloud: mun 
+cold: bəŋi	səjuk 
+come: di	déh 
+come from: di	déh 
+be dead: mati	matɪ 
+dead: mati	matɪ 
+die: mati	matɪ 
+dog: asu 
+drink: minum 
+dry: kəriŋ 
+ear: k3miriN	kəmiriŋ 
+eat: maŋan 
+egg: tènaruh 
+eye: mata 
+feather: jaŋut 
+fire: rara 
+fish: gule	gulé	ik3n	ikən 
+fly: tabur	terbaŋ 
+fly v.: tabur	terbaŋ 
+good: bik	jərɔh 
+green: ijo 
+hair: uk	wuk 
+hand: pumu 
+left hand: pumu 
+right: pumu 
+head: ulu 
+hear: mum3Ne	muməŋé 
+1 sg.: aku 
+I: aku 
+kill: mununuh 
+be knowledgeable: bətih 
+know: bətih 
+leaf: dun	uluN	uluŋ 
+lie: malaŋ 
+lie down: malaŋ 
+liver: ate	até 
+long: naru 
+head louse: kutu 
+louse: kutu 
+male: rawan 
+man: j3ma	jəma 
+moon: ulən 
+mouth: awah 
+name: g3ral	gəral 
+title: g3ral	gəral 
+neck: rɔŋɔk 
+new: ayu	b3n	bən 
+night: klam 
+nighttime: klam 
+nose: iuN	iuŋ 
+adulterous: sa	sal	sara 
+one: sa	sal	sara 
+single: sa	sal	sara 
+that: a	ɔya 
+the: sa	sal	sara 
+unprincipled: sa	sal	sara 
+human: j3ma	jəma 
+human being: j3ma	jəma 
+person: j3ma	jəma 
+rain: urən 
+rainy weather: urən 
+red: ilaŋ 
+path: d3 ne	də nè 
+road: d3 ne	də nè 
+route: d3 ne	də nè 
+root: uyɔt 
+sand: pasir 
+say: bəcərak	muliŋ 
+see: muniah	munion	munérah	munéŋɔn 
+sit: kunul 
+hide: kulit 
+skin: kulit 
+sleep: nomé 
+little: kucak 
+small: kucak 
+smallness: kucak 
+smoke: asap 
+star: bintaŋ	bint~aN 
+rock: atu 
+stone: atu 
+swim: munawé 
+tail: uki 
+this: ini 
+2 sg: kam	ko	kɔ 
+thou: kam	ko	kɔ 
+you: kam	ko	kɔ 
+tongue: diah	délah 
+tooth: ipon	ipɔn 
+grind: du3	duə	roa	rɔa 
+two: du3	duə	roa	rɔa 
+go: muralan 
+walk: muralan 
+hot: pɔrak 
+warm: pɔrak 
+water: w3ih	wih	wəih 
+1 pl. inc.: kami	kit3	kitə 
+we: kami	kit3	kitə 
+we₁: kami	kit3	kitə 
+what: sana 
+white: putih 
+whiteness: putih 
+who: sa	sah	sahɔn 
+who?: sa	sah	sahɔn 
+female: banan 
+woman: banan 
+yellow: kuniŋ 
+distant: gip	jarak 
+far: gip	jarak 
+dull: bərat 
+heavy: bərat 
+serious: bərat 
+close: dəkat 
+near: dəkat 
+ner: dəkat 
+salt: pɔa 
+short: kɔnɔt 
+snake: lipé 
+thin: nipis 
+wind: kuyu 
+earthworm: kétɔl 
+worm: kétɔl 
+year: tun 
+2 pl.: kam béwénné 
+ye: kam béwénné 
+you all: kam béwénné 
+3 pl.: pakéa 
+they: pakéa 
+where: i si	i sih 
+where?: i si	i sih 
+when: səlɔ 
+when?: səlɔ 
+how: kunə 
+how?: kunə 
+other: lén 
+three: tigə	tulu 
+four: opat	ɔpat	əmpat 
+five: limö 
+broad: kɔlak 
+wide: kɔlak 
+wideness: kɔlak 
+fat: ləmak 
+thick: təbəl 
+narrow: pédét 
+principal wife: banan	tɔn umah 
+wife: banan	tɔn umah 
+husband: bəi	tɔn umah 
+his mother: inə 
+mother: inə 
+my mother: inə 
+father: ama	tuən 
+his father: ama	tuən 
+my father: ama	tuən 
+forest: utən 
+woods: utən 
+branch: cabaŋ 
+stick: cabaŋ 
+fruit: uah-uahən 
+flower: buŋə	tajuk 
+grass: kərpé 
+cord: tali 
+rope: tali 
+flesh: dəŋkɪ	usi 
+meat: dəŋkɪ	usi 
+grease: ləmak 
+wing: kəpék 
+gut: tətukə 
+guts: tətukə 
+insides: tətukə 
+intestine: tətukə 
+intestines: tətukə 
+back: kuduk	paŋkiŋ 
+suck: munyiluk 
+spit: munilih	nilih 
+vomit: pəlɔah 
+blow: bərəmus 
+breath: bəkəsah 
+breathe: bəkəsah 
+laugh: kədik 
+laughter: kədik 
+cogitate: bəpikir 
+reflect: bəpikir 
+think: bəpikir 
+smell: munyum 
+sniff: munyum 
+afraid: tərih 
+be afraid: tərih 
+fear: tərih 
+fright: tərih 
+alive: murip 
+be alive: murip 
+life: murip 
+live: murip 
+living: murip 
+hunt: muŋaro 
+beat: mudərə 
+hit: mudərə 
+strike: mudərə 
+cut: muŋərat 
+hack: muŋərat 
+cut open: mubəlah 
+split: mubəlah 
+pierce: munənik 
+stab: munənik 
+scratch: maŋayo	mugarut 
+dig: muŋuruk 
+stand: jənyɔŋ	səsuk 
+drop: mutuh 
+fall: mutuh 
+grasp: munamat 
+hold: munamat 
+hold in arm: munamat 
+squeeze: mumərah 
+wring: mumərah 
+throw: mugəraluŋən 
+bind: munikɔt 
+fasten: munikɔt 
+tie: munikɔt 
+tie up: munikɔt 
+sew: mujit 
+count: munétɔŋ 
+enumerate: munétɔŋ 
+number: munétɔŋ 
+tally: munétɔŋ 
+flow: mujaril 
+lake: lut kucak 
+ocean: lut kɔlak 
+sea: lut kɔlak 
+dust: dul	wu 
+fog: kədut 
+sky: laŋit 
+bad: jahat 
+evil: jahat 
+rot: buruk 
+rotten: buruk 
+dirty: kɔték 
+filthy: kɔték 
+soiled: kɔték 
+sharp: təjəm 
+blunt: tumpul 
+damp: basah 
+wet: basah 
+right side: kuwən 
+left: kiri 
+in: [i] wan	[i] was 
+inside: [i] wan	[i] was 
+and: urum 
+if: i|kə 

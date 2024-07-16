@@ -1,0 +1,374 @@
+all: aince | aincɛ 
+all: aincɛ 
+arm: wëmpi 
+arm: wʌmpi 
+ashes: usukai 
+back: yump 
+bad: oro 
+bad: ɔro 
+belly: kʰuŋk 
+belly: kungk gëm | kʰuŋk 
+belly: kʰuŋk gʌm 
+belly: kungl | kʰuŋk 
+big: singke | siŋkɛ 
+big: siŋkɛ 
+bird: yen | yɛn 
+bird: yɛn 
+bite: kegi- 
+black: huik 
+blood: këgai | k3gai	kəgai 
+blood: kəgai | k3gai	kəgai 
+blow: fu- 
+blow: φu- 
+bone: kesʲe | kesige	kesⁱge 
+bone: kesige | kesige	kesⁱge 
+boy: kumër 
+boy: kʰumʌr 
+breast: ë:mu | 3mu	ʌːmu 
+breast: ʌːmu | 3mu	ʌːmu 
+brother: -ɲeni 
+brother: -ñeni 
+brother: -nga- 
+brother: -ŋai 
+butterfly: kaino 
+butterfly: kʰaino 
+butterfly: kegebru 
+butterfly: kɛgɛbru 
+calf: kungk 
+calf: kuŋk 
+cassowary: undugu 
+chest: mengkwëbra 
+chest: mɛnkwʌbra 
+child: ment 
+child: mɛnt 
+child: nounte 
+child: nountɛ 
+chin: pëngge 
+chin: pʰəŋgɛ 
+cloud: koß | koβ 
+cloud: kov | koβ 
+cold: augai | augai	yʌŋarʌŋi- 
+cold: yënarëngi- | augai	yʌŋarʌŋi- 
+cold: yʌŋarʌŋi- | augai	yʌŋarʌŋi- 
+come: kar- | kar	kar- 
+crocodile: krigriʌ 
+crocodile: krigrië 
+cut: fai- 
+cut: φai- 
+day: yëiyi 
+day: yʌiyi 
+die: kumo- | kumo	kumo- 
+dig: fe- 
+dig: φɛ- 
+dog: baita 
+dry: kəsəsʌ- 
+dry: kïsïsë- | kəsəsʌ- 
+ear: kë:nggu | kh~3Ngu	kʰʌːŋgu 
+ear: kʰʌːŋgu | kh~3Ngu	kʰʌːŋgu 
+earth: kußɛŋk | kuβɛŋk 
+earth: kuvengk | kuβɛŋk 
+eat: ni- 
+egg: srʌ 
+egg: srë | srʌ 
+elbow: abiye 
+elbow: abiyɛ 
+emu: undugu 
+excrement: simp 
+eye: angkëm | aNk3m	aŋkʌm 
+eye: aŋkʌm | aNk3m	aŋkʌm 
+face: fie 
+fall: fëg- 
+fall: ndong- 
+fall: ndoŋ- 
+far: sʌndai 
+father: bapa 
+fat (n.): kandʌ 
+fat (n.): kïndë 
+few: nane 
+fight: pʌb- 
+fingernail: fëngkri 
+fingernail: fʌŋkri 
+finger: nungu 
+finger: nuŋu 
+fire: fie 
+fire: yimïnam | fie 
+fish: cumë:ke | Tum3kE	cumʌːkɛ 
+fish: cumʌːkɛ | Tum3kE	cumʌːkɛ 
+fly (n.): gunëngki 
+fly (n.): gunʌŋki 
+fly (v.): friri- 
+fly (v.): φriri- 
+fog: bəgan 
+fog: bïgan 
+forehead: fie 
+forest: ë:rnau 
+forest: ʌːrrnau 
+fruit: ss.rë 
+full: ngiurok- | Niurok	ŋiurok- 
+full: ŋiurok- | Niurok	ŋiurok- 
+girl: pusër 
+girl: pusʌr 
+give: ø- 
+good: igeb | igɛb 
+good: igɛb 
+grass: erke 
+guts: kungk gëm 
+guts: kʰuŋk gʌm 
+hair: kugum 
+head: ndëngë | wai 
+head: wai 
+heart: gëm | gʌm 
+heart: gʌm 
+hear: wes- | wEs	wɛs- 
+hear: wɛs- | wEs	wɛs- 
+heavy: kemri- 
+here: ge:ri 
+he/she: no- 
+he/she: nu 
+he/she: -nu 
+he/she: nu- 
+he/she: -ø- 
+he/she: -t- 
+hit: pëb- 
+hold: bai- 
+house: wende 
+house: wɛndɛ 
+ice: §rʌ 
+I: -səŋ- | yi 
+I: -sVng- | yi 
+I: ye- | yi 
+I: yi 
+I: yi- 
+kill: num pʌb- 
+kill: num pëb- | num pʌb- 
+knee: ëvie | 3bie	ʌβie 
+knee: ʌßie | 3bie	ʌβie 
+laugh: të:ruga- 
+laugh: tʰʌːruga- 
+left: nyun 
+left: ɲun 
+leg: kebi 
+liver: ŋgʌcewu | Ng3Tewu	ŋgʌcewu 
+liver: nggëcewu | Ng3Tewu	ŋgʌcewu 
+long: urong | urɔŋ 
+long: urɔŋ 
+louse: miye | miyE 
+louse: miyɛ | miyE 
+man: nuŋʌb | tɔmɛnt 
+man: nungëb | tɔmɛnt 
+man: toment | tɔmɛnt 
+man: tɔmɛnt 
+many: pësing | pʌsiŋ 
+many: pʌsiŋ 
+meat: tʌb 
+meat: tëb 
+moon: ŋairru 
+moon: ngairu | ŋairru 
+morning: sum se 
+morning: sum tɛ 
+morning: yampirga 
+mosquito: kunu 
+mother: -aw 
+mountain: pumu 
+mouth: cɨgosʌk 
+mouth: cïgosëk | cɨgosʌk 
+name: weɲi | we5i	weɲi 
+name: wenyi | we5i	weɲi 
+nape: du:k 
+nape: duːk 
+navel: sun 
+near: kɛrmbi 
+neck: pogob 
+new: ɔßə | ob3	ɔβə 
+new: ovï | ob3	ɔβə 
+night: ngaringkiam | NariNkiam	ŋariŋkiam 
+night: ŋariŋkiam | NariNkiam	ŋariŋkiam 
+nose: tumo | th~umo	tʰumo 
+not: gatau 
+old: kəregʌm 
+old: kk.ëregëm 
+old: wëganau 
+old: wʌganau 
+one: ë:ndogo | 3nd~ogo	ʌːndogo 
+one: ʌːndogo | 3nd~ogo	ʌːndogo 
+rain: yʌ 
+rain: yë | yʌ 
+rat: jhum 
+rat: ǯum 
+red: këgai | kəgai 
+red: kəgai 
+right: nungai 
+right: nuŋai 
+road: begre | bEgrE 
+road: bɛgrrɛ | bEgrE 
+root: gebne 
+rope: kureb 
+salt: sigie | sigiɛ 
+salt: sigiɛ 
+sand: siriri 
+say: indi- | wɛ- 
+say: we- | wɛ- 
+say: wɛ- 
+sea: sigiyeya 
+see: ʌːt- | wari	wari- 
+see: wari- | wari	wari- 
+short: ënggëte | ʌŋgəte 
+short: ʌŋgəte 
+shoulder: tugu 
+shoulder: tʰugu 
+sister: -nënugo 
+sister: -nʌnugo 
+sit: bəsigi- 
+sit: bïsigi- | bəsigi- 
+skin: ger | gEr	gɛrr 
+skin: gɛrr | gEr	gɛrr 
+sleep: kiɲi- 
+sleep: kinyi- | kiɲi- 
+small: kutik | kutik	orondo 
+small: orondo | kutik	orondo 
+smoke: mbaga 
+snake: nyëre | ɲʌrɛ 
+snake: ɲʌrɛ 
+spit: kutoːga- 
+spit: səbʌ 
+spit: sïbë 
+stand: bitiŋgi- 
+stand: bitingi 
+stand: pëtingi- 
+star: §ro | Sro	sureb	ʂro 
+star: ss.ro | Sro	sureb	ʂro 
+star: sureb | Sro	sureb	ʂro 
+stick: dik 
+stone: cʌbia | T3bia	cʌbia 
+stone: cëbia | T3bia	cʌbia 
+straight: §row 
+straight: ss.row 
+sun: sebie | sebiE	sebiɛ 
+sun: sebiɛ | sebiE	sebiɛ 
+tail: dur | durr 
+tail: durr 
+take: tʰʌ- 
+take: të- 
+that: monggu | moŋgu 
+that: moŋgu 
+they: -nangg- 
+they: -naŋg- 
+they: nën- 
+they: nëne 
+they: nʌn- 
+they: nʌne 
+thigh: n.gëkna 
+thigh: ngʌkna 
+this: nggu | ŋgu 
+this: ŋgu 
+thou: nʌ | nE	nɛ 
+thou: na- | nE	nɛ 
+thou: ne | nE	nɛ 
+thou: në- | nE	nɛ 
+thou: nɛ | nE	nɛ 
+thou: -tang- | nE	nɛ 
+thou: -taŋ- | nE	nɛ 
+thou: -taŋg- | nE	nɛ 
+thou: tʌn- | nE	nɛ 
+thou: tʌne | nE	nɛ 
+tie: pëtiti- 
+tie: pʌtiti- 
+tomorrow: tsembio 
+tomorrow: wëso 
+tomorrow: wʌso 
+tongue: kʰɛɲɛ | kh~E5E	kʰɛɲɛ 
+tongue: kenye | kh~E5E	kʰɛɲɛ 
+tooth: meg 
+tree: ë:r | 3r 
+tree: ʌːŋkɛ | 3r 
+tree: ʌːrr | 3r 
+tree: tʰugu | 3r 
+two: ërki | 3rki	ʌrrki 
+two: ʌrrki | 3rki	ʌrrki 
+vagina: simi 
+walk: kënë- 
+walk: kʌnʌ- 
+walk: ŋɛski- 
+wallaby: kaimer 
+wallaby: kʰaimɛr 
+warm: fiekt- 
+warm: φiekt- 
+wash: fsi- 
+water: yʌ | y3	yʌ 
+water: yë | y3	yʌ 
+weep: ŋägi 
+weep: ngägi 
+we: sin- | sine 
+we: sine 
+we: -singg- | sine 
+we: -siŋg- | sine 
+wet: yë tau- 
+wet: yʌ tau- 
+what: məŋkɛm 
+what: mïngkem | məŋkɛm 
+where: ene 
+where: ɛnɛ 
+white: fenggiëm | ɸɛŋgiʌm 
+white: φɛŋgiʌm | ɸɛŋgiʌm 
+who: mi 
+wind: sogai 
+wing: bana 
+woman: nungogem | nuŋogɛm 
+woman: nuŋogɛm 
+woman: nungu | nuŋogɛm 
+woman: nuŋu | nuŋogɛm 
+wood: dik 
+yellow: ngiso | ŋiso 
+yellow: ŋiso 
+yes: e 
+yesterday: kuye 
+yesterday: sumu 
+you: tangg- | nE	nɛ 
+you: tën- | nE	nɛ 
+you: tëne | nE	nɛ 
+every: aincɛ 
+ash: usukai 
+abdomen: kʰuŋk 
+bigness: siŋkɛ 
+large: siŋkɛ 
+breasts: 3mu	ʌːmu 
+come from: kar	kar- 
+be dead: kumo	kumo- 
+dead: kumo	kumo- 
+ground: kuβɛŋk 
+land: kuβɛŋk 
+soil: kuβɛŋk 
+fly: ɸriri- 
+fly v.: ɸriri- 
+1 sg.: yi 
+head louse: miyE 
+male: tɔmɛnt 
+much: pʌsiŋ 
+multiple: pʌsiŋ 
+several: pʌsiŋ 
+hill: pumu 
+title: we5i	weɲi 
+nighttime: NariNkiam	ŋariŋkiam 
+adulterous: 3nd~ogo	ʌːndogo 
+single: 3nd~ogo	ʌːndogo 
+the: 3nd~ogo	ʌːndogo 
+unprincipled: 3nd~ogo	ʌːndogo 
+rainy weather: yʌ 
+path: bEgrE 
+route: bEgrE 
+hide: gEr	gɛrr 
+little: kutik	orondo 
+smallness: kutik	orondo 
+rock: T3bia	cʌbia 
+2 sg: nE	nɛ 
+grind: 3rki	ʌrrki 
+1 pl. inc.: sine 
+we₁: sine 
+whiteness: ɸɛŋgiʌm 
+who?: mi 
+female: nuŋogɛm 
+distant: sʌndai 
+dull: kemri- 
+serious: kemri- 
+close: kɛrmbi 
+ner: kɛrmbi 

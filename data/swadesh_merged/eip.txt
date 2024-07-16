@@ -1,0 +1,388 @@
+all: ni | ni	nidya	nirya 
+all: nirya | ni	nidya	nirya 
+and: babye 
+arm: tek 
+arm: toubne 
+arrow: mal 
+ashes: akuma | akuma	ato 
+ashes: akumá | akuma	ato 
+ashes: sidike | akuma	ato 
+back: balye 
+bad: malye 
+bark: bol | bol	yo-bol 
+bark: (yo-)bol | bol	yo-bol 
+because: ate 
+belly: mun | mun	teleb 
+big: ßik | weik	wik	βik 
+big: wik | weik	wik	βik 
+bird: ma | maga	maka	make 
+bird: mak | maga	maka	make 
+bird: maka | maga	maka	make 
+bird: make | maga	maka	make 
+bite: karuknab 
+bitter: minmin 
+black: meriin | merin-bite	mirin 
+black: merin-bite | merin-bite	mirin 
+blood: ining | eneng	eniN	iniN	iniŋ	iyabe 
+blood: iniŋ | eneng	eniN	iniN	iniŋ	iyabe 
+bone: yok | yok	yoke 
+bone: yoke | yok	yoke 
+boy: mape 
+breast: mum | moum	mum	taram 
+breast: taram | moum	mum	taram 
+breathe: isin 
+brother: do 
+burn: dab- 
+burn: fab- 
+burn: seknab 
+calf: biryok 
+cassowary: kwit 
+cheek: katum 
+chest: taram 
+child: me 
+claw: si | sii kankanya 
+claw: sii kankaya | sii kankanya 
+cloud: doa 
+cold: arukna | arokna	arukna	ekib 
+cold: aruukna | arokna	arukna	ekib 
+cold: ekib | arokna	arukna	ekib 
+come: yan- | yan	yan- 
+count: nuk- 
+cut: luk- 
+cut: lumol- 
+cut: sek- 
+cut: sub- 
+dark: kunuk- 
+dark: merin 
+day: leb- 
+day: sintam 
+day: sum 
+die: deib- | debna	deibik	dib	dib- 
+die: deibuk | debna	deibik	dib	dib- 
+die: dib- | debna	deibik	dib	dib- 
+dig: yongo-b- 
+dog: kam | gam	kam	kame 
+dog: kame | gam	kam	kame 
+dry: asim | asim	dou	elim	mekla 
+dry: dou | asim	dou	elim	mekla 
+dry: elim | asim	dou	elim	mekla 
+dust: butbuta 
+ear: amol | amer	amol	ʔamol 
+ear: ʔamol | amer	amol	ʔamol 
+earth: tokwe 
+eat: di-b- | debna	dib- 
+eat: dib- | debna	dib- 
+egg: do | duk	maga dok 
+egg: duk | duk	maga dok 
+elbow: fin 
+emu: kwitma 
+eye: asing | asiN	asiŋ	asɪng 
+eye: asiŋ | asiN	asiŋ	asɪng 
+eye: asiŋ-bam | asiN	asiŋ	asɪng 
+eye: asiŋ-bam-fotoŋ | asiN	asiŋ	asɪng 
+face: urasin 
+fall: sak- 
+far: fere 
+father: eli 
+father: elii 
+fat (n.): kobe 
+fat (n.): meta 
+fear: elel 
+feather: fotoŋ 
+fight: ol- 
+finger: dumwe 
+finger: famwe 
+fire: ukwe | ukwa	ukwe 
+fire: uukwe | ukwa	ukwe 
+flower: keta 
+flow: libliba- 
+fly (n.): bume 
+fly (v.): fol bil 
+fly (v.): kweb- 
+foot: yan | yan	yan tatang 
+forehead: asok 
+forest: bay 
+forest: baytam 
+four: dumwe 
+freeze: baybuk 
+fruit: duk 
+fruit: win 
+full: lang dible | dokub	laŋ dible	laŋdebla 
+full: laŋ dible | dokub	laŋ dible	laŋdebla 
+give: areb- | areb-	arebna 
+give: bob- | areb-	arebna 
+good: teleb 
+grass: maneŋ 
+green: imbik maka 
+guts: dei 
+guts: deisuruk 
+hair: fotong | fotong	fotoŋ 
+hair: fotoŋ | fotong	fotoŋ 
+hand: taruk | taruk	taruk tatang	taruk tataŋ 
+hand: taruk (tatang) | taruk	taruk tatang	taruk tataŋ 
+hand: taruk tataŋ | taruk	taruk tatang	taruk tataŋ 
+head: kiisok | kisok 
+head: kisok 
+hear: gekeb- | gekeb	geken-	kekebna 
+hear: geken | gekeb	geken-	kekebna 
+hear: geken- | gekeb	geken-	kekebna 
+hear: kekena | gekeb	geken-	kekebna 
+heart: talema 
+heavy: ikin | igin	ikin 
+here: anye 
+here: atam 
+here: a-(tam) 
+he/she: el 
+hit: marab- 
+hit: ob- 
+hold: tale-b/l 
+house: aik 
+house: aike 
+husband: lakanye 
+I: na | na	nara 
+kill: ob- | dibobna	oblyam 
+kill: oblyam | dibobna	oblyam 
+knee: koam | koam	kotam	kutam 
+knee: kutam | koam	kotam	kutam 
+know: bik- 
+know: kele | bik- 
+know: walewal | bik- 
+lake: kwen 
+laugh: akwe 
+leaf: bok | bok	su	sua	sue	yobok 
+leaf: sua | bok	su	sua	sue	yobok 
+leg: keil 
+lightning: beßea 
+lightning: liman 
+lip: bame 
+live: mab- 
+live: mal- 
+liver: boukwe | boukwe	yaica 
+liver: yaica | boukwe	yaica 
+long: fera | fera	ǯaŋ 
+louse: amnye 
+man: niinye | ninye 
+man: ninye 
+man: sal | ninye 
+many: wik 
+meat: toubne | tob 
+meat: tub | tob 
+moon: wala | wala	wale 
+moon: wale | wala	wale 
+morning: berek 
+mosquito: intuma 
+mountain: motokwe | metokosin	motikwe	motokwe 
+mountain: mo-tokwe | metokosin	motikwe	motokwe 
+name: si 
+name: sii 
+name: sisib- 
+navel: num 
+near: dam 
+neck: amak | amak	kum	ngang	ŋaŋ 
+neck: kum | amak	kum	ngang	ŋaŋ 
+neck: ŋaŋ | amak	kum	ngang	ŋaŋ 
+new: winirjuk | arumcuk	ekab	ekil	winiryuk 
+new: winiryuk | arumcuk	ekab	ekil	winiryuk 
+night: lukunyan 
+night: luukenyan | lukunyan 
+nose: uu | u	uyal	ɯ 
+not: gum 
+old: wise 
+one: ton | ton	tonok 
+one: tonok | ton	tonok 
+one: yum | ton	tonok 
+person: -nang | ninye 
+person: niinye | ninye 
+person: ninye 
+rain: mok 
+rat: ayam 
+rat: koude 
+red: bi | bi	bia 
+red: bii | bi	bia 
+ripe: eng 
+ripe: eŋ 
+ripe: imbik 
+ripe: wisib 
+river: mek 
+road: biisiik | bise 
+road: bisik | bise 
+root: ateng | ateŋ	yateŋ 
+root: ateŋ | ateŋ	yateŋ 
+root: yateŋ | ateŋ	yateŋ 
+rope: tape 
+rope: tʰapʷe 
+rub: lu- 
+salt: karam 
+sand: (mek) dala | dala	mek dala	winiŋa 
+sand: (mek) wininga | dala	mek dala	winiŋa 
+sand: (mek) winiŋa | dala	mek dala	winiŋa 
+say: le- | winyab- 
+say: le-b | winyab- 
+say: winya-b- | winyab- 
+say: winyab- 
+scratch: lik- 
+seed: duk | dok	duk	yukwe 
+see: dí- | dibrel	dibren	dibren-	eib	eibna	elil 
+see: dibren- | dibrel	dibren	dibren-	eib	eibna	elil 
+see: diib- | dibrel	dibren	dibren-	eib	eibna	elil 
+seed: wine | dok	duk	yukwe 
+seed: yukwe | dok	duk	yukwe 
+short: bumaŋ | bumaŋ	dam 
+short: dam | bumaŋ	dam 
+shoulder: molakya 
+shoulder: takunya 
+shoulder: ta-kunya 
+sing: dite 
+sister: dokul 
+sister: makal 
+sit: buk- | buk-	buk-na 
+skin: bol | bol	bola	kala	kona	tek 
+skin: kona | bol	bola	kala	kona	tek 
+sky: iim 
+sky: im 
+sleep: mab- | ma-b- 
+sleep: ma-b/l- | ma-b- 
+small: metek 
+smell: tong 
+smell: toŋ 
+smoke: dipʷe | tulum 
+smoke: tulum 
+snake: kßatema | gwatema	kβatema 
+spit: maka 
+split: dak- 
+split: fak- 
+stand: tek- 
+star: kurye | gurya	kurya	kurye 
+stone: gil | gerik	gil	kedige	keil	kerik 
+stone: kedige | gerik	gil	kedige	keil	kerik 
+stone: kerik | gerik	gil	kedige	keil	kerik 
+stone: kot | gerik	gil	kedige	keil	kerik 
+sun: keteŋ | keteng	keteŋ	ketiN	ketiŋe 
+sun: ketinge | keteng	keteŋ	ketiN	ketiŋe 
+sun: ketiŋe | keteng	keteŋ	ketiN	ketiŋe 
+tail: amwe | amma	amwe 
+take: dob- 
+take: do-b/l- 
+there: ei- 
+there: or- 
+there: ora 
+there: u- 
+they: sik 
+thick: bukam 
+thigh: keil 
+think: kanye tenibren- 
+think: teneb- 
+thou: an | an	anda 
+thou: aŋun | an	anda 
+three: winilye 
+throw: donok 
+thunder: liman 
+tie: tab- 
+today: arub 
+tomorrow: ambosum 
+tomorrow: ambosúm 
+tongue: sii tang | si-taŋ 
+tongue: si-taŋ 
+tooth: si | si	si noN	sidoɪc 
+tooth: sii | si	si noN	sidoɪc 
+tooth: yaŋ | si	si noN	sidoɪc 
+tree: yo 
+tree: yɔ | yo 
+turn: tamub- 
+two: betinye | betenya	betinye 
+unripe: imbik maka 
+vagina: kßate 
+walk: ba-n- | yanya ben 
+walk: bi- | yanya ben 
+walk: bi-n- | yanya ben 
+walk: mede- | yanya ben 
+warm: bope | bope	tin 
+warm: boupe | bope	tin 
+warm: tin | bope	tin 
+water: furu | mek 
+water: mek 
+weep: eŋen- 
+we: nun | nun	nunda 
+wet: mule 
+what: yate | yate	yate-ro 
+what: yate(ro) | yate	yate-ro 
+when: ora 
+where: dan- 
+where: dantam 
+white: ko | kaita	ko	kurun 
+white: kurun | kaita	ko	kurun 
+who: yate anya 
+wind: kum | gom	kum 
+wipe: kilil- 
+woman: kil | gelabwa	kil	kilape 
+woman: kilape | gelabwa	kil	kilape 
+woman: kil(-ape) | gelabwa	kil	kilape 
+wood: kame 
+wood: yo 
+worm: kuluma | guluma	kuluma 
+yellow: bidi 
+yesterday: ambosum 
+yesterday: ambosúm 
+you: angun | an	anda 
+every: ni	nidya	nirya 
+ash: akuma	ato 
+abdomen: mun	teleb 
+bigness: weik	wik	βik 
+large: weik	wik	βik 
+breasts: moum	mum	taram 
+nail: sii kankanya 
+talon: sii kankanya 
+come from: yan	yan- 
+be dead: debna	deibik	dib	dib- 
+dead: debna	deibik	dib	dib- 
+drink: dib	mabna 
+ground: tokwe 
+land: tokwe 
+soil: tokwe 
+fish: akodya 
+fly: kweb- 
+fly v.: kweb- 
+left hand: taruk	taruk tatang	taruk tataŋ 
+right: taruk	taruk tatang	taruk tataŋ 
+1 sg.: na	nara 
+be knowledgeable: bik- 
+head louse: amnye 
+male: ninye	sal 
+much: wik 
+multiple: wik 
+several: wik 
+flesh: tob 
+hill: metokosin	motikwe	motokwe 
+title: si 
+nighttime: lukunyan 
+adulterous: ton	tonok 
+single: ton	tonok 
+that: ton	tonok 
+the: ton	tonok 
+unprincipled: ton	tonok 
+human: ninye 
+human being: ninye 
+rainy weather: mok 
+path: bise 
+route: bise 
+round: gwanobla 
+hide: bol	bola	kala	kona	tek 
+little: metek 
+smallness: metek 
+rock: gerik	gil	kedige	keil	kerik 
+swim: gekna 
+2 sg: an	anda 
+grind: betenya	betinye 
+go: yanya ben 
+hot: bope	tin 
+1 pl. inc.: nun	nunda 
+we₁: nun	nunda 
+whiteness: kaita	ko	kurun 
+who?: yate anya 
+female: gelabwa	kil	kilape 
+distant: fere 
+dull: igin	ikin 
+serious: igin	ikin 
+close: dam 
+ner: dam 
+earthworm: guluma	kuluma 

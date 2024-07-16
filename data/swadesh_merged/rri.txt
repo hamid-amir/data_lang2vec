@@ -1,0 +1,266 @@
+all: tab 
+every: tab 
+ash: koʔjio	luj 
+ashes: koʔjio	luj 
+abdomen: sope 
+belly: sope 
+big: laʔvue 
+bigness: laʔvue 
+large: laʔvue 
+bird: roroʔ 
+bite: kabal 
+black: pitó 
+blood: madak 
+bone: puda 
+breast: sus 
+breasts: sus 
+burn: suib 
+burn tr.: suib 
+cloud: tuab 
+cold: lulum 
+come: me 
+come from: me 
+be dead: li 
+dead: li 
+die: li 
+dog: bi	bék 
+drink: zik 
+dry: kadal 
+ear: gel 
+eat: gek 
+egg: niqa 
+eye: mat 
+feather: só 
+fire: no7	nóʔ 
+fish: piat 
+fly: bur 
+fly v.: bur 
+good: cici pa 
+green: tutu 
+hair: vuruŋ 
+hand: kers	kors	körs 
+left hand: kers	kors	körs 
+right: kers	kors	körs 
+head: kujuk 
+hear: gato 
+1 sg.: ra 
+I: ra 
+kill: vi vél 
+be knowledgeable: vesen 
+know: vesen 
+leaf: vuruNe ve	vuruŋ-e ve 
+lie: kekel 
+lie down: kekel 
+liver: tuten	tutuen 
+long: ŋó 
+head louse: vuC	vuT	vuc 
+louse: vuC	vuT	vuc 
+male: lek 
+man: bues 
+moon: ziniqa 
+mouth: juap 
+name: zitiN	zitiŋ- 
+title: zitiN	zitiŋ- 
+neck: kukun 
+new: varu	varuqa	varu|qa 
+night: kuse 
+nighttime: kuse 
+nose: NiNir	ŋiŋir 
+adulterous: kik 
+one: kik 
+single: kik 
+that: ten	zen 
+the: kik 
+unprincipled: kik 
+human: bues 
+human being: bues 
+person: bues 
+rain: miqur 
+rainy weather: miqur 
+red: misar 
+path: zikan 
+road: zikan 
+route: zikan 
+root: lébéc-e ve 
+sand: karkuin 
+say: cin	nonod 
+see: dur 
+sit: cuŋun 
+hide: kapat	kapt 
+skin: kapat	kapt 
+sleep: kaʔmisa 
+little: doŋ 
+small: doŋ 
+smallness: doŋ 
+smoke: konok 
+star: para7at	paraʔat 
+rock: kaCura	kaTura	kacura 
+stone: kaCura	kaTura	kacura 
+swim: bór 
+tail: kurpel 
+this: zet 
+2 sg: ger 
+thou: ger 
+you: ger 
+tongue: luem 
+tooth: keki	kekér 
+grind: ki	kér	kɛr 
+two: ki	kér	kɛr 
+go: zo 
+walk: zo 
+hot: zila 
+warm: zila 
+water: biC	biT	bic 
+1 pl. inc.: rém	zita 
+we: rém	zita 
+we₁: rém	zita 
+what: ava 
+white: sel 
+whiteness: sel 
+who: ade 
+who?: ade 
+female: quel 
+woman: quel 
+yellow: nuab 
+distant: vuaʔvuaʔ 
+far: vuaʔvuaʔ 
+dull: niqat 
+heavy: niqat 
+serious: niqat 
+close: mómó 
+near: mómó 
+ner: mómó 
+salt: méc 
+short: wusak 
+snake: duel 
+thin: puruk 
+wind: sóʔr	sóʔór	vuvusel 
+earthworm: duduel	ru 
+worm: duduel	ru 
+year: ge 
+2 pl.: ram 
+ye: ram 
+you all: ram 
+3 pl.: zar 
+they: zar 
+where: be 
+where?: be 
+when: be sad 
+when?: be sad 
+how: be 
+how?: be 
+other: vek 
+three: pisa 
+four: véc	vɛts 
+five: lima 
+broad: tiapar 
+wide: tiapar 
+wideness: tiapar 
+fat: sol 
+thick: tutuab 
+narrow: vuedoŋ 
+principal wife: quel 
+wife: quel 
+husband: lek 
+his mother: kan- 
+mother: kan- 
+my mother: kan- 
+father: laʔa mam	tamu- 
+his father: laʔa mam	tamu- 
+my father: laʔa mam	tamu- 
+forest: siniqa 
+woods: siniqa 
+branch: paqar-e ve 
+stick: paqar-e ve 
+fruit: vure 
+flower: vuvure 
+grass: sisiu 
+cord: suiŋ 
+rope: suiŋ 
+flesh: tazisar 
+meat: tazisar 
+grease: sol 
+wing: babalóʔór 
+gut: sal 
+guts: sal 
+insides: sal 
+intestine: sal 
+intestines: sal 
+back: kököm 
+suck: zik 
+spit: susui 
+vomit: lua 
+blow: puqo	vusil 
+breath: ŋurip 
+breathe: ŋurip 
+laugh: kér 
+laughter: kér 
+cogitate: non 
+reflect: non 
+think: non 
+smell: nipik 
+sniff: nipik 
+afraid: zes 
+be afraid: zes 
+fear: zes 
+fright: zes 
+alive: mab tu 
+be alive: mab tu 
+life: mab tu 
+live: mab tu 
+living: mab tu 
+hunt: surap 
+beat: ve	vi 
+hit: ve	vi 
+strike: ve	vi 
+cut: kuvic 
+hack: kuvic 
+cut open: lipit zisik 
+split: lipit zisik 
+pierce: juk	püq 
+stab: juk	püq 
+scratch: kikirak 
+dig: par 
+stand: der 
+drop: jua 
+fall: jua 
+grasp: kaʔrukuc 
+hold: kaʔrukuc 
+hold in arm: kaʔrukuc 
+squeeze: liqis	puris 
+wring: liqis	puris 
+throw: va-nin	van 
+bind: qol 
+fasten: qol 
+tie: qol 
+tie up: qol 
+sew: sira 
+count: qan 
+enumerate: qan 
+number: qan 
+tally: qan 
+flow: lolor 
+lake: duŋ 
+ocean: méc 
+sea: méc 
+dust: rór 
+fog: kósk 
+sky: rén 
+bad: saʔat 
+evil: saʔat 
+rot: suar 
+rotten: suar 
+dirty: pitó 
+filthy: pitó 
+soiled: pitó 
+sharp: gagariso 
+blunt: qupat 
+damp: muquc 
+wet: muquc 
+right side: za 
+left: mür 
+at: ta	takue 
+in: lobor 
+inside: lobor 
+and: tuk 
+if: sad 

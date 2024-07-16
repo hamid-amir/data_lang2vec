@@ -1,0 +1,407 @@
+all: modobeme 
+arm: tuipi 
+arm: tu makomu 
+arm: tu-makomu 
+arm: tuwo 
+arrow: arasu 
+arrow: tere 
+ashes: tonobere 
+back: gimiri 
+back: gimitopa 
+back: gimitopu 
+bad: isabe 
+bark: tamakere 
+belly: dopi 
+belly: tuboru | dopi 
+big: eredea 
+bird: wawogo | wogoburo	wowogo 
+bird: wogoburo | wogoburo	wowogo 
+bird: wowogo | wogoburo	wowogo 
+bite: atakoba | atakoba	katakoba 
+bite: katakoba | atakoba	katakoba 
+bite: (k)atakoba | atakoba	katakoba 
+bitter: goroke 
+black: ibikere | ibikere	kirikiriyo 
+black: kirikiriyo | ibikere	kirikiriyo 
+black: kirikiriyó | ibikere	kirikiriyo 
+blood: karima 
+bone: soro 
+boy: koridubu 
+boy: kosio 
+branch: katomo 
+breast: amo 
+brother: namu dubu 
+brother: namu-dubu 
+brother: niadubu 
+brother: nia dubu 
+butterfly: tametame 
+chest: bodoro 
+child: kubabame 
+child: kukabome 
+chin: kumadi 
+cloud: amuke | amuke	tema 
+cloud: bubu | amuke	tema 
+cloud: tema | amuke	tema 
+cold: diriwo | diriwo	diwo 
+cold: diwo | diriwo	diwo 
+come: kaguro | kaguro	oguro	oguru 
+come: oguro | kaguro	oguro	oguru 
+come: oguro ~ oguru | kaguro	oguro	oguru 
+come: oguru | kaguro	oguro	oguru 
+crocodile: sibaro 
+cut: kadadigo 
+dance: amaro 
+dark: duwo 
+day: adimo 
+day: amakakapu 
+day: sariki 
+die: isiaro | isiaro	puisiaro 
+die: puisiaro | isiaro	puisiaro 
+die: (pu)isiaro | isiaro	puisiaro 
+dig: kadakuruti 
+dirty: sokona 
+dog: viko | viko	wiko 
+dog: wiko | viko	wiko 
+drink: kadio | kadio	odio 
+drink: odio | kadio	odio 
+dry: koroke | koroke	korokere 
+dry: korokere | koroke	korokere 
+dry: koroke(re) | koroke	korokere 
+ear: sepate 
+earth: sopukere 
+earth: sopu-kere | sopukere 
+eat: eruwo | eruwo	iriho	kadaruwo 
+eat: iriho | eruwo	iriho	kadaruwo 
+eat: kadaruwo | eruwo	iriho	kadaruwo 
+eat: kairiwo | eruwo	iriho	kadaruwo 
+eat: oruwo | eruwo	iriho	kadaruwo 
+egg: kikopu 
+elbow: tu-kaki-popo 
+elbow: tu kaki popu 
+emu: diware 
+excrement: nekere 
+eye: damari kopu | damari kopu	idimai kopu 
+eye: idimai kopu | damari kopu	idimai kopu 
+face: sosoro 
+fall: pirotoborita 
+far: musopu 
+father: abea 
+fat (n.): gadi 
+fat (n.): kasawo 
+fat (n.): sikitopi 
+fear: tore 
+feather: posa 
+finger: eredegikopu 
+finger: igikopu 
+fire: kera 
+fish: aremina | aremina	giro	kauokopu 
+fish: giro | aremina	giro	kauokopu 
+fish: kauokopu | aremina	giro	kauokopu 
+fly (n.): gura 
+fly (v.): aiparuba 
+fly (v.): aruba 
+foot: kebokopu | sakira	sakiro 
+foot: sakipota | sakira	sakiro 
+foot: sakira | sakira	sakiro 
+foot: sakiro | sakira	sakiro 
+forehead: wakiri 
+fruit: kikopu 
+full: topukorosuwo | topu korosuwo 
+full: topu korosuwo 
+girl: besere 
+give: kaututuraro | kaututuraro	ututuraro 
+give: (ka)ututuraro | kaututuraro	ututuraro 
+give: ututuraro | kaututuraro	ututuraro 
+good: aragoro 
+good: ragore | aragoro 
+grass: sidikopu 
+hair: hepu-muso | hepu-muso	kepu muso	muho 
+hair: (kepu) muso | hepu-muso	kepu muso	muho 
+hair: kepu muso | hepu-muso	kepu muso	muho 
+hair: muho | hepu-muso	kepu muso	muho 
+hand: tu 
+hand: tu pota 
+head: kepuru 
+hear: kadorowi 
+hear: orowi 
+heart: igikopu | igikopu	nikopu 
+heart: nikopu | igikopu	nikopu 
+heavy: mikibo 
+heel: kebokopu 
+here: kunuwatopu 
+he/she: nuabu 
+he/she: nuwabu 
+he/she: nuwabu namopu 
+hit: kadaidirita 
+hold: kowagobirutl 
+house: moto 
+how: dabaro 
+hunt: pomoro 
+I: mo 
+I: mo namopu 
+jaw: magatakere 
+jaw: magata-kere 
+kill: aigirita | aigirita	kadaigirita 
+kill: kadaigirita | aigirita	kadaigirita 
+kill: (kad-)aigirita | aigirita	kadaigirita 
+knee: popu kepuru 
+know: umoropu 
+know: umoro-pu | umoropu 
+laugh: wari 
+leaf: pasa 
+left: petu 
+leg: sakiro 
+lie: (kad-)uuta | kaduʼuta	uːta 
+lie: kadu\uta | kaduʼuta	uːta 
+lie: uːta | kaduʼuta	uːta 
+lightning: mauripeda 
+lip: ipusu 
+live: keapapu 
+liver: biu 
+long: tutukere 
+louse: nimo 
+man: dubu 
+many: saikipu | saikipu	sirio 
+many: sirio | saikipu	sirio 
+meat: sigitopi 
+meat: sigitopu | sigitopi 
+meat: sikitopi | sigitopi 
+moon: sogomi 
+moon: sogomí | sogomi 
+morning: waurito 
+mother: maramu 
+mountain: podo | podo	wamo 
+mountain: wamo | podo	wamo 
+mouth: mubasoro 
+name: masira | masira	masiro 
+name: masira ~ masiro | masira	masiro 
+name: masiro | masira	masiro 
+navel: upuo 
+neck: makokomu | makomu	turuturuo 
+neck: makomu | makomu	turuturuo 
+neck: turuturuo | makomu	turuturuo 
+new: korio 
+night: adimo | duwo	duwopu 
+night: duwo | duwo	duwopu 
+night: duwopu | duwo	duwopu 
+night: duwo(-pu) | duwo	duwopu 
+nose: sarogu | sarugo	saᵘrugo	wodi 
+nose: saurugo | sarugo	saᵘrugo	wodi 
+not: buai | pual 
+not: puai | pual 
+not: pual 
+one: kasepu | kasepu	kasepuro 
+one: kasepuro | kasepu	kasepuro 
+one: kasepu(ro) | kasepu	kasepuro 
+play: kadokio 
+play: poniko 
+pull: kadamudoro 
+rain: wisare 
+rat: aituwa 
+rat: nituwa 
+red: kaikama | kaikama	kaimakarimu 
+red: kaikamá | kaikama	kaimakarimu 
+red: kaimakarimu | kaikama	kaimakarimu 
+red: kaima-karimu | kaikama	kaimakarimu 
+right: tumodi 
+ripe: gumi 
+river: gowo 
+road: gabo 
+root: sipi 
+rope: karai 
+rope: sanawodoburo 
+rub: kadadiri 
+salt: karakara 
+salt: kara-kara | karakara 
+sand: nori | nori	wio 
+sand: wio | nori	wio 
+say: arogo | kadarogo 
+say: kadarogo 
+sea: komokobo 
+seed: kikopo | kikopo	miserepu 
+seed: kikopu | kikopo	miserepu 
+seed: miserepu | kikopo	miserepu 
+see: kakaramadio | ogoromadiro	okaramadio 
+see: kakaromadio | ogoromadiro	okaramadio 
+see: ogoromadiro | ogoromadiro	okaramadio 
+see: okaramadio | ogoromadiro	okaramadio 
+short: komukere 
+shoulder: bena 
+sing: haware 
+sister: mabia 
+sister: mabia-aworobo 
+sit: kamitoti | kamitoti	omitoti	omototi 
+sit: omitoti | kamitoti	omitoti	omototi 
+sit: omototi | kamitoti	omitoti	omototi 
+skin: tamakere 
+skin: tama-kere | tamakere 
+sky: amekere 
+sky: aromoipi 
+sleep: ku\o | kuwo	kuʔo 
+sleep: kuʔo | kuwo	kuʔo 
+sleep: kuwo | kuwo	kuʔo 
+small: sanabu | sanabu	sanaburo 
+small: sanaburo | sanabu	sanaburo 
+small: sanabu(ro) | sanabu	sanaburo 
+smell: kadibarati 
+smell: nibo 
+smoke: tema 
+snake: karuwo 
+sour: kakaro 
+spit: wusu 
+stand: katobota 
+stand: otobota 
+star: suri 
+stone: nokoro-kapi | nokorokopi 
+stone: nokorokopi 
+stone: nokoro-kopi | nokorokopi 
+straight: karawasemi 
+sun: sariki | sariki	seki 
+sun: seki | sariki	seki 
+sweet: topo-topo 
+swim: airimadio | airimadio	kadairimadio	woka 
+swim: kadairimadio | airimadio	kadairimadio	woka 
+swim: (kad-)airimadio | airimadio	kadairimadio	woka 
+swim: woka | airimadio	kadairimadio	woka 
+tail: waputio 
+take: kaimira 
+take: kamira 
+take: kamirai 
+take: piroito 
+take: pomira 
+that: gadinamoro 
+there: gobeie 
+there: nuopuga 
+they: nuwababi 
+they: nuwababigo namopu 
+they two: nutere 
+thigh: kasomu 
+think: kameogodio 
+think: kameugidio 
+thin: takotako 
+thin: tako-tako | takotako 
+this: gadinamo | gadinamo	howopo	nuopu 
+this: howopo | gadinamo	howopo	nuopu 
+this: nuopu | gadinamo	howopo	nuopu 
+thou: ara | ara	arapu	oro 
+thou: arapu | ara	arapu	oro 
+thou: ara(-pu) | ara	arapu	oro 
+thou: nigo | ara	arapu	oro 
+thou: nigo namoup | ara	arapu	oro 
+thou: nigopu | ara	arapu	oro 
+thou: oro | ara	arapu	oro 
+thou: oro namopu | ara	arapu	oro 
+throat: turuturuo 
+throat: turu-turuo 
+tie: kabiriwo 
+tie: kaburiwo 
+today: kodisaiki 
+today: kodi-saiki 
+tomorrow: dutu 
+tongue: wotopere | wotopere	wototorope 
+tongue: wototorope | wotopere	wototorope 
+tooth: ibupoka | ibupoka	kiowa 
+tooth: ibupoka/kiowa | ibupoka	kiowa 
+tooth: kiowa | ibupoka	kiowa 
+tree: kota 
+two: netoaroterepu | netoaroterepu	netoworotere 
+two: netoarotere-pu | netoaroterepu	netoworotere 
+two: netoworotere | netoaroterepu	netoworotere 
+vomit: mamaru 
+walk: adiro | adiro	kadiro 
+walk: kadaogu | adiro	kadiro 
+walk: kada-ogu | adiro	kadiro 
+walk: kadiro | adiro	kadiro 
+walk: (k)adiro | adiro	kadiro 
+walk: kadokiu | adiro	kadiro 
+walk: ponogu | adiro	kadiro 
+walk: pon-ogu | adiro	kadiro 
+wallaby: usaro 
+warm: tiakea 
+wash: kaduka 
+wash: koukoruti 
+wash: koukuruti 
+water: kobo 
+weep: idobi 
+we (incl.): nimo 
+we: nimo namopu 
+we: nimopu 
+we: nimo-pu 
+wet: kobokobo 
+wet: kobo-kobo 
+we two (incl.): nimotere 
+we two: nimotere 
+what: dabanamora | dabanamora	dabaro	dava 
+what: dabanamoro | dabanamora	dabaro	dava 
+what: dabaro | dabanamora	dabaro	dava 
+what: dava | dabanamora	dabaro	dava 
+where: totonua 
+where: totoro 
+white: kaiakaia 
+white: kaia-kaia | kaiakaia 
+who: oraturo | oraturo	oturo 
+who: o(ra)turo | oraturo	oturo 
+who: oturo | oraturo	oturo 
+wife: wobopu 
+wind: gawia 
+woman: wobo | wobo	wobopu	worobo 
+woman: wobopu | wobo	wobopu	worobo 
+woman: wobo(pu) | wobo	wobopu	worobo 
+woman: worobo | wobo	wobopu	worobo 
+yellow: agoago 
+yellow: ago-ago | agoago 
+yesterday: dutu 
+you: nigo-pu | ara	arapu	oro 
+you two: nigotere 
+you two: nigo-tere 
+every: modobeme 
+ash: tonobere 
+abdomen: dopi 
+bigness: eredea 
+large: eredea 
+breasts: amo 
+come from: kaguro	oguro	oguru 
+be dead: isiaro	puisiaro 
+dead: isiaro	puisiaro 
+ground: sopukere 
+land: sopukere 
+soil: sopukere 
+fly: aiparuba	aruba 
+fly v.: aiparuba	aruba 
+left hand: tu 
+right: tu 
+1 sg.: mo 
+be knowledgeable: umoropu 
+lie down: kaduʼuta	uːta 
+head louse: nimo 
+male: dubu 
+much: saikipu	sirio 
+multiple: saikipu	sirio 
+several: saikipu	sirio 
+flesh: sigitopi 
+hill: podo	wamo 
+title: masira	masiro 
+nighttime: duwo	duwopu 
+adulterous: kasepu	kasepuro 
+single: kasepu	kasepuro 
+the: kasepu	kasepuro 
+unprincipled: kasepu	kasepuro 
+rainy weather: wisare 
+path: gabo 
+route: gabo 
+hide: tamakere 
+little: sanabu	sanaburo 
+smallness: sanabu	sanaburo 
+rock: nokorokopi 
+2 sg: ara	arapu	oro 
+grind: netoaroterepu	netoworotere 
+go: adiro	kadiro 
+1 pl. inc.: nimo 
+we: nimo 
+we₁: nimo 
+whiteness: kaiakaia 
+who?: oraturo	oturo 
+female: wobo	wobopu	worobo 
+distant: musopu 
+dull: mikibo 
+serious: mikibo 

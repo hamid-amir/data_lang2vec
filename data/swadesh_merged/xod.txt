@@ -1,0 +1,190 @@
+arm: n-obora 
+arm: obora 
+ashes: udebi | u-debi	udebi 
+ashes: u-debi | u-debi	udebi 
+belly: kotena | akotena	kotena 
+big: tinani | tinani	tinania 
+bird: kaneni | kaneni	kanenu	kanenumo	kenenu 
+bird: kanenu | kaneni	kanenu	kanenumo	kenenu 
+black: kibitia | kibita	kibitia 
+blood: apato | amata	apata	apato 
+bone: toka | kota	toka 
+breast: didu 
+burn: bube- 
+butterfly: mokakaro 
+cloud: amana | amana	amana-kate 
+cold: tigatigai | lobokobaia	tiga-tigai	tigatigai	tigatigaya 
+cold: tiga-tigai | lobokobaia	tiga-tigai	tigatigai	tigatigaya 
+come: mo- | ma-kabe	mo	mo-	mo-e	moe 
+come: moe | ma-kabe	mo	mo-	mo-e	moe 
+die: dimea 
+drink: u- | u	u- 
+dry: karakarakia | karakarakia	melea	welea	werea 
+dry: werea | karakarakia	melea	welea	werea 
+ear: nakera | e-kelo	e-kola	na-kera	nakera 
+ear: na-kera | e-kelo	e-kola	na-kera	nakera 
+earth: kaburo | robo 
+earth: kerekaya | robo 
+earth: robo 
+eat: ni- 
+egg: uku | uku	uku-mo 
+eye: n-amago | amaga	emago	n-amago	namago 
+fingernail: oboleniku 
+fingernail: yekepo 
+fire: ineta | ineta	mukupi 
+fire: mukupi | ineta	mukupi 
+fish: koinamine | koinamine	kunamini 
+fly (n.): kalarenu 
+fly (v.): ye- 
+foot: notora | notora	otola	otora 
+foot: otora | notora	otola	otora 
+fruit: ebuki 
+give: mabe | hamema	mabe	mbe	mebe	nabe 
+give: mbe | hamema	mabe	mbe	mebe	nabe 
+good: nigei | nigei	nigeia 
+hair: atúnu | atunu	atúnu	n-atunu 
+hair: n-atunu | atunu	atúnu	n-atunu 
+hand: n-obora | n-obora	nobora	obola	obora 
+hand: obora | n-obora	nobora	obola	obora 
+head: akaba | akaba	n-akaba 
+head: n-akaba | akaba	n-akaba 
+I: neiga | ne-iga	neiga 
+I: ne-iga | ne-iga	neiga 
+knee: nomiani | nomiani	obenika	omi	omiani	opania	opianu 
+knee: omiani | nomiani	obenika	omi	omiani	opania	opianu 
+leaf: nonia | nonia	otika	otikai 
+leaf: otika | nonia	otika	otikai 
+leaf: otikai | nonia	otika	otikai 
+leg: n-otora 
+leg: otora 
+long: ekaboi | ekaboi	ekaboia 
+louse: kono 
+man: nabini | alotunia	nabini	nabinia	orotoeni 
+man: orotoeni | alotunia	nabini	nabinia	orotoeni 
+many: tumunia | tumunia	udumia 
+many: udumia | tumunia	udumia 
+meat: babuki 
+moon: puruno | puluno	puruno 
+mosquito: kibino 
+mountain: tirio | tilio	tirio 
+mouth: yatado | etado	otato	yatado 
+name: anaia | anaia	nanai 
+name: nanai | anaia	nanai 
+new: boiti | boiti	boitia	boituma 
+night: ititi | ititi	patieleo	patierea 
+night: patierea | ititi	patieleo	patierea 
+nose: adara | adara	eyala	yadara 
+one: onati | onati	onatia 
+rain: manino | manino	ulagaya 
+red: katuba | katuba	mukulia	mukuri 
+red: mukuri | katuba	mukulia	mukuri 
+road: amia 
+root: ogato | ogato	ogatu	udaraya	ududara 
+root: ududara | ogato	ogatu	udaraya	ududara 
+sand: kebara | kanebaka	kebara	mutao	rebini 
+sand: rebini | kanebaka	kebara	mutao	rebini 
+see: ete- | ete	ete-	ete-pe 
+see: ete-pe | ete	ete-	ete-pe 
+sit: amu- | amu-	amube 
+sit: amube | amu-	amube 
+skin: akai | aginan-akai	akai	akis	iagina 
+skin: akis | aginan-akai	akai	akis	iagina 
+sleep: ina- | ina-	nai-	naipe 
+sleep: nai- | ina-	nai-	naipe 
+sleep: naipe | ina-	nai-	naipe 
+small: tokuni | takonia	tokuni 
+smoke: kukubi 
+snake: kamano | gedo	kamano	tamedidi 
+snake: tamedidi | gedo	kamano	tamedidi 
+stand: ide- 
+star: turubi | tulubia	turubi 
+stone: ureko | uleku	ureko 
+sun: egedi | egedi	itaine	itane	tainela 
+sun: itaine | egedi	itaine	itane	tainela 
+swim: debe- | ayae	debe- 
+tail: eru(k)ai | eruai	erukai 
+thou: aiga | ai-ga	aiga 
+thou: ai-ga | ai-ga	aiga 
+thou: edi | ai-ga	aiga 
+three: aria 
+throat: notata 
+throat: n-otata 
+tongue: nenini | enini	n-enini	nenini 
+tongue: n-enini | enini	n-enini	nenini 
+tooth: eresinu | eletinu	eresinu	n-eresinu	neresinu 
+tooth: n-eresinu | eletinu	eresinu	n-eresinu	neresinu 
+tree: etamei | etamei	kemini 
+tree: kemini | etamei	kemini 
+two: ogia 
+walk: notoa- | neta-nela	notoa-	otoalabe	ototae 
+warm: uderea | udelea	uderae	uderea 
+water: taya | taia	taya 
+weep: nare- 
+we (excl.): nidi 
+we: i-di | i-ga	iga 
+we (incl.): iga 
+we (incl.): i-ga 
+we: nidi | i-ga	iga 
+we: ni-di | i-ga	iga 
+what: igaumo 
+white: awura | awura	kabia 
+white: kabia | awura	kabia 
+who: nimanara | imanala	nimanara 
+wind: roboroboi | loboloboya	roboroboi 
+woman: rawao | lawao-mo	rawao 
+you: e-di | ai-ga	aiga 
+you: ei-ga | ai-ga	aiga 
+ash: u-debi	udebi 
+abdomen: akotena	kotena 
+bigness: tinani	tinania 
+large: tinani	tinania 
+breasts: didu 
+come from: ma-kabe	mo	mo-	mo-e	moe 
+be dead: dimea 
+dead: dimea 
+ground: robo 
+land: robo 
+soil: robo 
+feather: kalalo-kaneno 
+fly: diae	iao	ye- 
+fly v.: diae	iao	ye- 
+green: ididilia 
+left hand: n-obora	nobora	obola	obora 
+right: n-obora	nobora	obola	obora 
+hear: tobo-	tobu 
+1 sg.: ne-iga	neiga 
+head louse: kono 
+male: alotunia	nabini	nabinia	orotoeni 
+much: tumunia	udumia 
+multiple: tumunia	udumia 
+several: tumunia	udumia 
+flesh: babuki 
+hill: tilio	tirio 
+title: anaia	nanai 
+neck: otata 
+nighttime: ititi	patieleo	patierea 
+adulterous: onati	onatia 
+single: onati	onatia 
+that: mago 
+the: onati	onatia 
+unprincipled: onati	onatia 
+rainy weather: manino	ulagaya 
+path: amia 
+route: amia 
+say: kanebaka	kebara	mutao	rebini 
+seed: benai	bunai 
+hide: aginan-akai	akai	akis	iagina 
+little: takonia	tokuni 
+smallness: takonia	tokuni 
+rock: uleku	ureko 
+this: momo	nia 
+2 sg: ai-ga	aiga 
+grind: ogia 
+go: neta-nela	notoa-	otoalabe	ototae 
+hot: udelea	uderae	uderea 
+1 pl. inc.: i-ga	iga 
+we₁: i-ga	iga 
+whiteness: awura	kabia 
+who?: imanala	nimanara 
+female: lawao-mo	rawao 
+yellow: kuni-kuniela 
