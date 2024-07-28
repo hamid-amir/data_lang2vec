@@ -6,6 +6,7 @@ v1_hamidreza.ipynb
 questions.txt
 *swp
 feats*.pickle
+miltale*.pickle
 .vscode
 .venv
 result

@@ -3,7 +3,6 @@ import pickle
 import os
 import sys
 sys.path.append(os.getcwd())
-import scripts.myutils as myutils
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from typing import Dict, List, Literal
 
@@ -11,7 +10,8 @@ from typing import Dict, List, Literal
 
 
 def extract_from_pos(pos_tags_path: str, 
-                     vectorizer: Literal['countVectorizer', 'TfidfVectorizer'] = 'countVectorizer') -> pickle:
+                     vectorizer: Literal['countVectorizer', 'TfidfVectorizer'] = 'countVectorizer',
+                     filter_threshold: int = None) -> pickle:
     def extract(input_file, output_file):
         if os.name == 'nt':
             with open(input_file, 'r', encoding='latin1') as infile, open(output_file, 'w', encoding='latin1') as outfile:
@@ -25,16 +25,28 @@ def extract_from_pos(pos_tags_path: str,
                     parts = line.strip().split('\t')
                     if len(parts) > 1:
                         outfile.write(parts[1] + '\n')
-    
-    output_path = os.path.join(os.path.dirname(pos_tags_path), "extracted_pos")
+
+    if filter_threshold:
+        pos_scores_files = []
+        with open('9.posScores.out', 'r') as file:
+            for line in file:
+                pos_scores_files.append(line.strip())
+        good_pos_files = [file.split('/')[-1] for file in pos_scores_files if float(file.split()[0]) > int(filter_threshold)]
+        output_path = os.path.join(os.path.dirname(pos_tags_path), "extracted_pos_filtered")
+    else:
+        output_path = os.path.join(os.path.dirname(pos_tags_path), "extracted_pos")
     if not os.path.exists(output_path):
         os.makedirs(output_path)
 
     for lang_file in os.listdir(pos_tags_path):
-        if lang_file not in os.listdir(output_path):
-            extract(os.path.join(pos_tags_path, lang_file), os.path.join(output_path, lang_file))
+        if filter_threshold:
+            if lang_file not in os.listdir(output_path) and lang_file[:-8] in good_pos_files:
+                extract(os.path.join(pos_tags_path, lang_file), os.path.join(output_path, lang_file))
+        else:
+            if lang_file not in os.listdir(output_path):
+                extract(os.path.join(pos_tags_path, lang_file), os.path.join(output_path, lang_file))
 
-    langs = [lang_file.split('.')[0] for lang_file in os.listdir(pos_tags_path)]
+    langs = [pos_file.split('.')[0] for pos_file in os.listdir(output_path)]
     paths = [os.path.join(output_path, pos_file) for pos_file in os.listdir(output_path)]
     # langs = [lang_file.split('.')[0] for lang_file in os.listdir(pos_tags_path)]
     # paths = [os.path.join(pos_tags_path, pos_file) for pos_file in os.listdir(pos_tags_path)]
@@ -89,11 +101,15 @@ def extract_from_raw(miltale_path: str,
 
 if __name__ == '__main__':
     if sys.argv[1] == 'raw_text':
-        extract_from_raw(miltale_path='data_miltale/MILTALE-CLEAN/', vectorizer='countVectorizer')
+        extract_from_raw(miltale_path='data_miltale/MILTALE-CLEAN/', 
+                         vectorizer='countVectorizer')
     elif sys.argv[1] == 'pos_tags':
-        extract_from_pos(pos_tags_path='data_miltale/pos_tags/MILTALE-CLEAN', vectorizer='countVectorizer')
-
-
+            extract_from_pos(pos_tags_path='data_miltale/pos_tags/MILTALE-CLEAN', 
+                             vectorizer='countVectorizer')
+    elif sys.argv[1] == 'pos_tags_filtered':
+            extract_from_pos(pos_tags_path='data_miltale/pos_tags/MILTALE-CLEAN', 
+                             vectorizer='countVectorizer', 
+                             filter_threshold=sys.argv[2])
 
 
 
