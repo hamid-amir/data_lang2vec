@@ -33,7 +33,16 @@ c = 1
 for target_feature in target_features:
     with open(f'{save_dir}/optuna_study_results_method_{method}_target_feature_{target_feature}.json') as f:
         d = json.load(f)
+        d_with_miltale_data = [i for i in d if i['params']['miltale_data']]
+        d_without_miltale_data = [i for i in d if not i['params']['miltale_data']]
+        assert len(d_with_miltale_data) + len(d_without_miltale_data) == len(d)
         best_trial = max(d, key=lambda x:x['value'])
         if best_trial['params']['miltale_data']:
-            print(f'{c}: {target_feature}')
+            best_trial_with_miltale_data = max(d_with_miltale_data, key=lambda x:x['value'])
+            best_trial_without_miltale_data = max(d_without_miltale_data, key=lambda x:x['value'])
+
+            assert best_trial_with_miltale_data['value'] == best_trial['value']
+            assert best_trial_without_miltale_data['value'] <= best_trial['value']
+            
+            print(f"{c}: {target_feature} - {best_trial_with_miltale_data['value']} - {best_trial_without_miltale_data['value']}")
             c += 1
