@@ -286,7 +286,7 @@ def getModel(name):
     return ''
 
 
-def extract_features(classifier: Literal['find_missing', 'find_value'], n_components:int = 10, miltate_n_components: int = 10, dimension_reduction_method: str = 'pca', n: int = None, remove_features: list = [], miltale_data: bool = False, job_number=0):
+def extract_features(classifier: Literal['find_missing', 'find_value'], n_components:int = 10, miltate_n_components: int = 10, dimension_reduction_method: str = 'pca', n: int = None, remove_features: list = [], miltale_data: bool = False, job_number=0, use_filtered=True):
     '''
     the main structure is that we get for each cell in the lang2vec matrix
     (language +feature) a gold value (in y), and a list of features describing
@@ -358,7 +358,10 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
             raise
     
     if miltale_data:
-        miltale_langs, miltale_X_sparse = pickle.load(open('miltale_extracted_feats.pickle', 'rb'))
+        if use_filtered:
+            miltale_langs, miltale_X_sparse = pickle.load(open('miltale_extracted_feats.pickle', 'rb'))
+        else:
+            miltale_langs, miltale_X_sparse = pickle.load(open('miltale_extracted_feats_unfiltered.pickle', 'rb'))
         miltale_X = miltale_X_sparse.toarray()
         miltale_pca = PCA(n_components=miltate_n_components)
         miltale_X = miltale_pca.fit_transform(miltale_X)

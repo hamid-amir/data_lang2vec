@@ -9,6 +9,6 @@ feats*.pickle
 miltale*.pickle
 .vscode
 .venv
-result
+result*
 swadesh data
 panlex_swadesh

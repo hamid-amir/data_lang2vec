@@ -70,8 +70,12 @@ def extract_from_pos(pos_tags_path: str,
 
     X = vec.fit_transform(paths)
 
-    with open('miltale_extracted_feats.pickle', 'wb') as f:
-        pickle.dump([langs, X], f)
+    if filter_threshold:
+        with open('miltale_extracted_feats.pickle', 'wb') as f:
+            pickle.dump([langs, X], f)
+    else:
+        with open('miltale_extracted_feats_unfiltered.pickle', 'wb') as f:
+                    pickle.dump([langs, X], f)
 
 
 
