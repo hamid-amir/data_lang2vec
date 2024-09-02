@@ -22,6 +22,7 @@ for target_feature in myutils.target_features:
         knn = knn_results[target_feature]
         merge_values.append(max(knn, best_trial['value']))
         best_trial['knn'] = knn
+        best_trial['feature_name'] = target_feature
         results.append(best_trial)
         if knn > best_trial['value']:
             print(target_feature)

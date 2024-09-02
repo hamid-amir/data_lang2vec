@@ -9,33 +9,6 @@ from tqdm import tqdm
 import scripts.myutils as myutils
 from find_missing.utils import cross_validation
 
-# features = [
-#     # 'lang_id',
-#     'feat_id',
-#     # 'geo_lat',
-#     # 'geo_long',
-#     'lang_group',
-#     'aes_status',
-#     'wiki_size',
-#     'num_speakers',
-#     'lang_fam',
-#     'scripts',
-#     'feat_name',
-#     # 'phylogency'
-#     # 'inventory_average',
-#     # 'phonology_average',
-# ]
-
-# myutils.extract_features(
-#     'find_value',
-#     n_components=100,
-#     miltate_n_components=0,
-#     # n=100,
-#     remove_features=features,
-#     miltale_data=False,
-#     job_number=0,
-#     use_filtered=False
-# )
 
 X, Y, names, all_feat_names = pickle.load(open('feats-full_find_value_mil_0.pickle', 'rb'))
 

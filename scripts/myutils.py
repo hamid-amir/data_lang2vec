@@ -358,6 +358,9 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     if 'phonology_average' not in remove_features:
         phonology_matrix = get_feature_vector(langs=langs, feature_name='phonology_average')
 
+    if 'geo' not in remove_features:
+        geo_matrix = get_feature_vector(langs=langs, feature_name='geo')
+
     if n_components != 0 and 'phylogency' not in remove_features:
         # load pylogency matrix 
         phyl_matrix_sparse = pickle.load(open('phyl-matrix-sparse.pickle', 'rb'))
@@ -387,6 +390,8 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     x = {'lang_id': [], 'feat_id': [], 'geo_lat': [], 'geo_long': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
     x = {key: [] for key in x.keys() if key not in remove_features}
 
+    if 'geo' not in remove_features:
+        x.update({f'geo{i}':[] for i in range(geo_matrix.shape[1])})
     if 'phonology_average' not in remove_features:
         x.update({f'phonology_average{i}':[] for i in range(phonology_matrix.shape[1])})
     if 'inventory_average' not in remove_features:
@@ -402,6 +407,8 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
         print('create x(features) for the find_value classifier:')
 
     for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
+        if 'geo' not in remove_features:
+            geo_l2v = geo_matrix[langIdx]
         if 'inventory_average' not in remove_features:
             inventory = inventory_matrix[langIdx]
         if 'phonology_average' not in remove_features:
@@ -439,6 +446,10 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
                 x['geo_lat'].append(geo[0])
             if 'geo_long' not in remove_features:
                 x['geo_long'].append(geo[1])
+
+            if 'geo' not in remove_features:
+                for i in range(geo_matrix.shape[1]):
+                    x[f'geo{i}'].append(geo_l2v[i])
 
             if 'phonology_average' not in remove_features:
                 for i in range(phonology_matrix.shape[1]):
@@ -521,6 +532,9 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     if 'phonology_average' not in remove_features:
         phonology_average_trans = [(f'phonology_average{i}', MinMaxScaler(), [f'phonology_average{i}']) for i in range(phonology_matrix.shape[1])]
         column_trans_list += phonology_average_trans
+    if 'geo' not in remove_features:
+        geo_trans = [(f'geo{i}', MinMaxScaler(), [f'geo{i}']) for i in range(geo_matrix.shape[1])]
+        column_trans_list += geo_trans
     if miltale_data:
         miltale_trans = [(f'miltale{i}', MinMaxScaler(), [f'miltale{i}']) for i in range(len(miltale_X[0]))]
         column_trans_list += miltale_trans
