@@ -38,7 +38,7 @@ elif sys.argv[1] == 'dt':
     print('Training decision tree')
 elif sys.argv[1] == 'knn':
     from sklearn.neighbors import KNeighborsClassifier
-    clf = KNeighborsClassifier(n_neighbors=5)
+    clf = KNeighborsClassifier(n_neighbors=10)
     print('Training KNN')
 elif sys.argv[1] == 'nb':
     from sklearn.naive_bayes import GaussianNB

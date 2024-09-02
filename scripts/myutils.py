@@ -11,6 +11,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
 from sklearn.decomposition import PCA, TruncatedSVD
+from scipy.sparse import csr_matrix
 
 
 lms = ['bert-base-multilingual-cased', 'cardiffnlp/twitter-xlm-roberta-base', 'microsoft/infoxlm-large', 'microsoft/mdeberta-v3-base', 'studio-ousia/mluke-large', 'xlm-roberta-large', 'facebook/xlm-roberta-xl', 'Twitter/twhin-bert-large' ]  
@@ -286,6 +287,16 @@ def getModel(name):
     return ''
 
 
+def get_feature_vector(langs: list, feature_name: str):
+    matrix = np.zeros((len(langs),len(l2v.get_features('eng', feature_name, header=True)['CODE'])))
+    for i, lang in tqdm(enumerate(langs)):
+        langvec = l2v.get_features(lang, feature_name, header=True)[lang]
+        langvec = [-100.0 if x=='--' else x for x in langvec]
+        matrix[i] = langvec
+
+    return matrix
+
+
 def extract_features(classifier: Literal['find_missing', 'find_value'], n_components:int = 10, miltate_n_components: int = 10, dimension_reduction_method: str = 'pca', n: int = None, remove_features: list = [], miltale_data: bool = False, job_number=0, use_filtered=True):
     '''
     the main structure is that we get for each cell in the lang2vec matrix
@@ -341,6 +352,11 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
         print(f'classifier must be either "find_missing" or "find_value" NOT {classifier}')
         exit(1)       
 
+    if 'inventory_average' not in remove_features:
+        inventory_matrix = get_feature_vector(langs=langs, feature_name='inventory_average')
+
+    if 'phonology_average' not in remove_features:
+        phonology_matrix = get_feature_vector(langs=langs, feature_name='phonology_average')
 
     if n_components != 0 and 'phylogency' not in remove_features:
         # load pylogency matrix 
@@ -370,6 +386,11 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     # Create features
     x = {'lang_id': [], 'feat_id': [], 'geo_lat': [], 'geo_long': [], 'lang_group': [], 'aes_status': [], 'wiki_size': [], 'num_speakers': [], 'lang_fam': [], 'scripts': [], 'feat_name': []}
     x = {key: [] for key in x.keys() if key not in remove_features}
+
+    if 'phonology_average' not in remove_features:
+        x.update({f'phonology_average{i}':[] for i in range(phonology_matrix.shape[1])})
+    if 'inventory_average' not in remove_features:
+        x.update({f'inventory_average{i}':[] for i in range(inventory_matrix.shape[1])})
     if n_components != 0 and 'phylogency' not in remove_features:
         x.update({f'phylogency{i}':[] for i in range(n_components)})
     if miltale_data:
@@ -381,6 +402,10 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
         print('create x(features) for the find_value classifier:')
 
     for langIdx, lang in tqdm(enumerate(langs), total=len(langs)):
+        if 'inventory_average' not in remove_features:
+            inventory = inventory_matrix[langIdx]
+        if 'phonology_average' not in remove_features:
+            phonology = phonology_matrix[langIdx]
         if n_components != 0 and 'phylogency' not in remove_features:
             phyl = phyl_matrix_pca[langIdx]
         if miltale_data:
@@ -414,6 +439,14 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
                 x['geo_lat'].append(geo[0])
             if 'geo_long' not in remove_features:
                 x['geo_long'].append(geo[1])
+
+            if 'phonology_average' not in remove_features:
+                for i in range(phonology_matrix.shape[1]):
+                    x[f'phonology_average{i}'].append(phonology[i])
+
+            if 'inventory_average' not in remove_features:
+                for i in range(inventory_matrix.shape[1]):
+                    x[f'inventory_average{i}'].append(inventory[i])
 
             if n_components != 0 and 'phylogency' not in remove_features:
                 # Pylogency feature from lang2vec
@@ -482,6 +515,12 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     if 'phylogency' not in remove_features:
         phylogency_trans = [(f'phylogency{i}', MinMaxScaler(), [f'phylogency{i}']) for i in range(n_components)]
         column_trans_list += phylogency_trans
+    if 'inventory_average' not in remove_features:
+        inventory_average_trans = [(f'inventory_average{i}', MinMaxScaler(), [f'inventory_average{i}']) for i in range(inventory_matrix.shape[1])]
+        column_trans_list += inventory_average_trans
+    if 'phonology_average' not in remove_features:
+        phonology_average_trans = [(f'phonology_average{i}', MinMaxScaler(), [f'phonology_average{i}']) for i in range(phonology_matrix.shape[1])]
+        column_trans_list += phonology_average_trans
     if miltale_data:
         miltale_trans = [(f'miltale{i}', MinMaxScaler(), [f'miltale{i}']) for i in range(len(miltale_X[0]))]
         column_trans_list += miltale_trans
