@@ -32,4 +32,4 @@ with open(f'result/knn_comparison.json', 'w') as f:
 
 print(f'avg knn: {sum(knn_results.values()) / len(knn_results)}')
 print(f'avg rf: {sum(rf_values) / len(rf_values)}')
-print(f'avg rf: {sum(merge_values) / len(merge_values)}')
+print(f'merge rf: {sum(merge_values) / len(merge_values)}')
