@@ -589,7 +589,8 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     # with open(f'feats_{classifier}.pickle', 'wb') as f:
     #     pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
 
-    with open(f'feats-full_{classifier}_mil_{job_number}.pickle', 'wb') as f:
+    file_name = 'feats-full_find-missing.pickle' if classifier=='find_missing' else f'feats-full_find_value_mil_{job_number}.pickle'
+    with open(file_name, 'wb') as f:
         pickle.dump([x, y, names, all_feat_names], f)
 
 

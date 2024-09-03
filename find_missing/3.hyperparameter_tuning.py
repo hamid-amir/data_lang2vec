@@ -12,29 +12,28 @@ from find_missing.utils import cross_validation, get_clf
 
 
 def get_param_grid(method: str):
-    match method:
-        case 'svm':
-            return {
-                'C': [0.001, 0.01, 0.1, 1, 10, 100, 1000],
-                'kernel': ['linear', 'poly', 'rbf', 'sigmoid'],
-                'degree': [1, 2, 3, 5, 10],
-                'gamma': ['scale', 'auto'],
-            }
-        case 'rf':
-            return {
-                'max_depth': [None, 3, 5, 10, 50, 100],
-                'min_samples_split': [2, 5, 10, 50, 100],
-                'criterion' : ["gini", "entropy", "log_loss"],
-                'class_weight' : [None, "balanced", "balanced_subsample"],
-                'n_estimators': [50, 100, 200, 500]
-            }
-        case 'logres':
-            return {
-                'penalty' : ['l1', 'l2', 'elasticnet'],
-                'tol': [1e-5, 1e-4, 1e-3, 1e-2, 1e-1],
-                'C': [0.001, 0.01, 0.1, 1, 10, 20],
-                'solver' : ['lbfgs', 'liblinear', 'newton-cg', 'newton-cholesky', 'sag', 'saga'],
-            }
+    if method == 'svm':
+        return {
+            'C': [0.001, 0.01, 0.1, 1, 10, 100, 1000],
+            'kernel': ['linear', 'poly', 'rbf', 'sigmoid'],
+            'degree': [1, 2, 3, 5, 10],
+            'gamma': ['scale', 'auto'],
+        }
+    elif method == 'rf':
+        return {
+            'max_depth': [None, 3, 5, 10, 50, 100],
+            'min_samples_split': [2, 5, 10, 50, 100],
+            'criterion' : ["gini", "entropy", "log_loss"],
+            'class_weight' : [None, "balanced", "balanced_subsample"],
+            'n_estimators': [50, 100, 200, 500]
+        }
+    elif method == 'logres':
+        return {
+            'penalty' : ['l1', 'l2', 'elasticnet'],
+            'tol': [1e-5, 1e-4, 1e-3, 1e-2, 1e-1],
+            'C': [0.001, 0.01, 0.1, 1, 10, 20],
+            'solver' : ['lbfgs', 'liblinear', 'newton-cg', 'newton-cholesky', 'sag', 'saga'],
+        }
 
 
 def hypperparameter_tunning():
