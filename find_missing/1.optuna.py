@@ -3,17 +3,18 @@ import time
 import sys
 import os
 import json
-
 import optuna
 import matplotlib.pyplot as plt
 from sklearn.model_selection import cross_val_score
 from sklearn.svm import SVC
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.linear_model import LogisticRegression
-
 sys.path.append(os.getcwd())
 import scripts.myutils as myutils
 from find_missing.utils import cross_validation, get_clf
+
 
 
 def objective(trial, method: str):
@@ -22,14 +23,14 @@ def objective(trial, method: str):
     remove_features = [feature for feature, selected in zip(features, remove_features) if selected]
     if len(remove_features) == len(features):
         remove_features = []
-
-    print(remove_features)
     n_components = trial.suggest_int('n_components', 10, 100)
+
+    # construct dataset using 300 langs, based on these settings
     myutils.extract_features('find_missing', n_components=n_components, n=300, remove_features=remove_features)
     x, y, names, all_feat_names = pickle.load(open('feats-full_find_missing.pickle', 'rb'))
 
-    if method == 'svm':
-        C = trial.suggest_loguniform('C', 1e-4, 1e3)
+    if method == 'svm':  # It's too time-consuming and therefore not practical. (Not recommended)
+        C = trial.suggest_float('C', 1e-4, 1e3, log=True)
         kernel = trial.suggest_categorical('kernel', ['linear', 'poly', 'rbf', 'sigmoid'])
         degree = trial.suggest_int('degree', 1, 10)
         gamma = trial.suggest_categorical('gamma', ['scale', 'auto'])
@@ -44,10 +45,29 @@ def objective(trial, method: str):
                                      criterion=criterion, class_weight=class_weight, n_estimators=n_estimators)
     elif method == 'logres':
         penalty = trial.suggest_categorical('penalty', ['l1', 'l2', 'elasticnet'])
-        tol = trial.suggest_loguniform('tol', 1e-5, 1e-1)
-        C = trial.suggest_loguniform('C', 1e-4, 1e3)
+        tol = trial.suggest_float('tol', 1e-5, 1e-1, log=True)
+        C = trial.suggest_float('C', 1e-4, 1e3, log=True)
         solver = trial.suggest_categorical('solver', ['lbfgs', 'liblinear', 'newton-cg', 'newton-cholesky', 'sag', 'saga'])
         clf = LogisticRegression(penalty=penalty, tol=tol, C=C, solver=solver)
+
+    elif method == 'knn':
+        n_neighbors = trial.suggest_int('n_neighbors', 1, 50)
+        weights = trial.suggest_categorical('weights', ['uniform', 'distance'])
+        p = trial.suggest_int('p', 1, 2) 
+        clf = KNeighborsClassifier(n_neighbors=n_neighbors, weights=weights, p=p)
+    
+    elif method == 'gbc':  # Gradient Boosting Classifier
+        learning_rate = trial.suggest_float('learning_rate', 0.01, 1.0, log=True)
+        n_estimators = trial.suggest_int('n_estimators', 50, 500)
+        max_depth = trial.suggest_int('max_depth', 1, 20)
+        min_samples_split = trial.suggest_int('min_samples_split', 2, 20)
+        clf = GradientBoostingClassifier(learning_rate=learning_rate, n_estimators=n_estimators, max_depth=max_depth, min_samples_split=min_samples_split)
+
+    elif method == 'dt':  # decision_tree classifier
+        max_depth = trial.suggest_int('max_depth', 1, 50)
+        min_samples_split = trial.suggest_int('min_samples_split', 2, 20)
+        criterion = trial.suggest_categorical('criterion', ['gini', 'entropy', 'log_loss'])
+        clf = DecisionTreeClassifier(max_depth=max_depth, min_samples_split=min_samples_split, criterion=criterion)
 
     try:
         result = cross_validation(clf, x, y)
@@ -83,7 +103,7 @@ def hyperparameter_tuning(method: str, n_trails: int, save_dir: str = 'result'):
     results_json = json.dumps(results, indent=4)
 
     # Save JSON data to a file
-    with open(f'{save_dir}/optuna_study_results.json', 'w') as f:
+    with open(f'{save_dir}/optuna_study_results_{method}.json', 'w') as f:
         f.write(results_json)
 
     best_trial = study.best_trial

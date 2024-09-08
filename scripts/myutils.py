@@ -589,12 +589,13 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     # with open(f'feats_{classifier}.pickle', 'wb') as f:
     #     pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
 
-    file_name = 'feats-full_find-missing.pickle' if classifier=='find_missing' else f'feats-full_find_value_mil_{job_number}.pickle'
+    file_name = 'feats-full_find_missing.pickle' if classifier=='find_missing' else f'feats-full_find_value_mil_{job_number}.pickle'
     with open(file_name, 'wb') as f:
         pickle.dump([x, y, names, all_feat_names], f)
 
 
 
+# syntax_wals+phonology_wals
 target_features = [
     'S_DEMONSTRATIVE_WORD_BEFORE_NOUN', 'S_INDEFINITE_AFFIX', 'S_SEX_MARK', 'S_VOS', 'S_OBJECT_BEFORE_VERB',
     'S_OBJECT_AFTER_VERB', 'S_NEGATIVE_WORD_AFTER_OBJECT', 'S_NUMCLASS_MARK', 'P_UVULAR_STOPS', 'P_CLICKS',
