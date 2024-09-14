@@ -1,10 +1,10 @@
+# This script is used to find out if using miltale data and filtering it is useful for finding the best hyperparameters for the classifiers
+
 import sys
 import os
 sys.path.append(os.getcwd())
-
 import json
 import pandas as pd
-
 import scripts.myutils as myutils
 
 
@@ -20,7 +20,7 @@ result = {
     'unfiltered_without_miltale_data': list(),
 }
 for target_feature in myutils.target_features:
-    file_path = f'{save_dir}/result_unfiltered/optuna_study_results_method_{method}_target_feature_{target_feature}.json'
+    file_path = f'{save_dir}/unfiltered/optuna_study_results_method_{method}_target_feature_{target_feature}.json'
     if not os.path.isfile(file_path):
         continue
     with open(file_path) as f1:
@@ -36,7 +36,7 @@ for target_feature in myutils.target_features:
             assert unfiltered_best_trial_with_miltale_data['value'] == unfiltered_best_trial['value']
             assert unfiltered_best_trial_without_miltale_data['value'] <= unfiltered_best_trial['value']
             
-            with open(f'{save_dir}/result/optuna_study_results_method_{method}_target_feature_{target_feature}.json') as f:
+            with open(f'{save_dir}/optuna_study_results_method_{method}_target_feature_{target_feature}.json') as f:
                 d = json.load(f)
                 d_with_miltale_data = [i for i in d if i['params']['miltale_data']]
                 d_without_miltale_data = [i for i in d if not i['params']['miltale_data']]
@@ -56,4 +56,4 @@ for target_feature in myutils.target_features:
                     result['unfiltered_without_miltale_data'].append(unfiltered_best_trial_without_miltale_data['value'])
 
 result = pd.DataFrame(result)
-result.to_csv(f'{save_dir}/result.csv')
+result.to_csv(f'{save_dir}/useful_miltale.csv')
