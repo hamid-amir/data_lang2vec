@@ -26,7 +26,7 @@ def objective(trial, method: str):
     n_components = trial.suggest_int('n_components', 10, 100)
 
     # construct dataset using 300 langs, based on these settings
-    myutils.extract_features('find_missing', n_components=n_components, n=300, remove_features=remove_features)
+    myutils.extract_features(classifier='find_missing', n_components=n_components, n=300, remove_features=remove_features)
     x, y, names, all_feat_names = pickle.load(open('feats-full_find_missing.pickle', 'rb'))
 
     if method == 'svm':  # It's too time-consuming and therefore not practical. (Not recommended)
@@ -56,14 +56,14 @@ def objective(trial, method: str):
         p = trial.suggest_int('p', 1, 2) 
         clf = KNeighborsClassifier(n_neighbors=n_neighbors, weights=weights, p=p)
     
-    elif method == 'gbc':  # Gradient Boosting Classifier
+    elif method == 'gbc':  # Takes a long time (but seems to have better performance) so we used only 10 iters for it
         learning_rate = trial.suggest_float('learning_rate', 0.01, 1.0, log=True)
         n_estimators = trial.suggest_int('n_estimators', 50, 500)
         max_depth = trial.suggest_int('max_depth', 1, 20)
         min_samples_split = trial.suggest_int('min_samples_split', 2, 20)
         clf = GradientBoostingClassifier(learning_rate=learning_rate, n_estimators=n_estimators, max_depth=max_depth, min_samples_split=min_samples_split)
 
-    elif method == 'dt':  # decision_tree classifier
+    elif method == 'dt': 
         max_depth = trial.suggest_int('max_depth', 1, 50)
         min_samples_split = trial.suggest_int('min_samples_split', 2, 20)
         criterion = trial.suggest_categorical('criterion', ['gini', 'entropy', 'log_loss'])
@@ -115,5 +115,7 @@ def hyperparameter_tuning(method: str, n_trails: int, save_dir: str = 'result'):
 
 if __name__ == '__main__':
     method = sys.argv[1]
-    n_trials = int(sys.argv[2])
+    n_trials = int(sys.argv[2])   # used 10 iters for gbc and 100 iters for other classifiers
+    # settings = {'rf': 100, 'logres': 100, 'knn': 100, 'gbc': 10, 'dt': 100}
+    # for method, n_trials in settings.items():
     hyperparameter_tuning(method, n_trials)

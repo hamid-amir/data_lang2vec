@@ -45,7 +45,7 @@ def main(save_dir: str = 'result'):
 
             # construct dataset using all langs, based on the best settings for the classifier 
             myutils.extract_features(
-                'find_missing',
+                classifier='find_missing',
                 n_components=best['params']['n_components'],
                 remove_features=remove_features,
             )
@@ -90,8 +90,36 @@ def main(save_dir: str = 'result'):
                                         n_jobs=28, 
                                         max_iter=500)
                 if best_method == 'logres': best_clf = clf
-                print(f"Training best find_missing classifier which is a Logistic Regression with penalty={best['params']['penalty']}, "
-                    f"tol={best['params']['tol']}, C={best['params']['C']}, solver={best['params']['solver']}")
+                print(f"Training best Logistic Regression on all langs using penalty={best['params']['penalty']}, "
+                      f"tol={best['params']['tol']}, C={best['params']['C']}, solver={best['params']['solver']}")
+                
+            elif method == 'knn':
+                from sklearn.neighbors import KNeighborsClassifier
+                clf = KNeighborsClassifier(n_neighbors=best['params']['n_neighbors'], 
+                                           weights=best['params']['weights'], 
+                                           p=best['params']['p'])
+                if best_method == 'knn': best_clf = clf
+                print(f"Training best KNN on all langs using n_neighbors={best['params']['n_neighbors']}, "
+                      f"weights={best['params']['weights']}, p={best['params']['p']}")
+                
+            elif method == 'gbc':
+                from sklearn.ensemble import GradientBoostingClassifier
+                clf = GradientBoostingClassifier(learning_rate=best['params']['learning_rate'], 
+                                                 n_estimators=best['params']['n_estimators'], 
+                                                 max_depth=best['params']['max_depth'], 
+                                                 min_samples_split=best['params']['min_samples_split'])
+                if best_method == 'gbc': best_clf = clf
+                print(f"Training best Gradient Boosting on all langs using learning_rate={best['params']['learning_rate']}, "
+                      f"n_estimators={best['params']['n_estimators']}, max_depth={best['params']['max_depth']}, min_samples_split={best['params']['min_samples_split']}")
+
+            elif method == 'dt':
+                from sklearn.tree import DecisionTreeClassifier
+                clf = DecisionTreeClassifier(max_depth=best['params']['max_depth'], 
+                                             min_samples_split=best['params']['min_samples_split'], 
+                                             criterion=best['params']['criterion'])
+                if best_method == 'dt': best_clf = clf
+                print(f"Training best Decsion Tree on all langs using max_depth={best['params']['max_depth']}, "
+                      f"min_samples_split={best['params']['min_samples_split']}, criterion={best['params']['criterion']}")             
 
 
             # PART 1: Report the best f1 score of each classifier
@@ -101,7 +129,7 @@ def main(save_dir: str = 'result'):
 
 
     # PART2: Make predictions based on the best classifier among all of them to extract most probable missing features
-    print(f'-----> Using the best classifier which is {best_method} to do the predictions and extract most probable missing features...')
+    print(f'Using the best classifier which is {best_method} to do the predictions and extract most probable missing features...')
     # K-fold Cross-validation and prediction: k=5
     pred_y = cross_val_predict(best_clf, x, y, method='predict_proba', cv=5).tolist()
 
@@ -128,6 +156,7 @@ def main(save_dir: str = 'result'):
 
     # Save the sorted data
     pickle.dump(final_data, open('final_data.pickle', 'wb'))
+    print('Done!')
 
 
 

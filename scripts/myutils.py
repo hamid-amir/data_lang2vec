@@ -370,7 +370,7 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
         # Another idea for dimension reduction: look at this  plt.plot(np.sum(phyl_matrix, axis=0))
         if dimension_reduction_method == 'pca':
             pca = PCA(n_components=n_components)  # Reduce to 100 dimensions
-            phyl_matrix_pca = pca.fit_transform(phyl_matrix)
+            phyl_matrix = pca.fit_transform(phyl_matrix)
         elif dimension_reduction_method == 'svd':
             raise
         elif dimension_reduction_method == 't-sne':
@@ -414,7 +414,7 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
         if 'phonology_average' not in remove_features:
             phonology = phonology_matrix[langIdx]
         if n_components != 0 and 'phylogency' not in remove_features:
-            phyl = phyl_matrix_pca[langIdx]
+            phyl = phyl_matrix[langIdx]
         if miltale_data:
             if lang not in miltale_langs:
                 continue
@@ -589,7 +589,7 @@ def extract_features(classifier: Literal['find_missing', 'find_value'], n_compon
     # with open(f'feats_{classifier}.pickle', 'wb') as f:
     #     pickle.dump([train_x, train_y, train_names, dev_x, dev_y, dev_names, all_feat_names], f)
 
-    file_name = 'feats-full_find_missing.pickle' if classifier=='find_missing' else f'feats-full_find_value_mil_{job_number}.pickle'
+    file_name = 'feats-full_find_missing.pickle' if classifier=='find_missing' else f'feats-full_find_value_{job_number}.pickle'
     with open(file_name, 'wb') as f:
         pickle.dump([x, y, names, all_feat_names], f)
 
