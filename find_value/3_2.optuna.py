@@ -32,7 +32,7 @@ def load_data(use_filtered: bool):
     return miltale_X, max_feats
 
 
-def objective(trial, method: str, target_feature: str, max_feats: int, use_filtered: bool):
+def objective(trial, method: str, n_langs: int, target_feature: str, max_feats: int, use_filtered: bool):
     features = ['lang_id', 'feat_id', 'geo_lat', 'geo_long', 'lang_group', 'aes_status', 'wiki_size', 'num_speakers', 'lang_fam', 'scripts', 'feat_name', 'phylogency']
     remove_features = [trial.suggest_categorical(feature, [True, False]) for feature in features]
     remove_features = [feature for feature, selected in zip(features, remove_features) if selected]
@@ -40,20 +40,21 @@ def objective(trial, method: str, target_feature: str, max_feats: int, use_filte
     if len(remove_features) == len(features):
         remove_features = []
 
-    print(remove_features)
     n_components = trial.suggest_int('n_components', 10, 100)
     miltate_n_components = trial.suggest_int('miltate_n_components', 10, max_feats)
+    if n_langs == -1: n_langs = None
     myutils.extract_features(
         'find_value',
         n_components=n_components,
         miltate_n_components=miltate_n_components,
+        n=n_langs,
         remove_features=remove_features,
         miltale_data=miltale_data,
         job_number=2,
         use_filtered=use_filtered
     )
 
-    X, Y, names, all_feat_names = pickle.load(open('feats-full_find_value_mil_2.pickle', 'rb'))
+    X, Y, names, all_feat_names = pickle.load(open('feats-full_find_value_2.pickle', 'rb'))
 
     new_X, new_Y = list(), list()
     for i, name in enumerate(names):
@@ -115,11 +116,11 @@ def objective(trial, method: str, target_feature: str, max_feats: int, use_filte
         return 0
 
     
-def hyperparameter_tuning(method: str, n_trials: int, target_feature: str, max_feats: int, save_dir: str = 'result', use_filtered: bool = True):
+def hyperparameter_tuning(method: str, n_trials: int, n_langs: int,target_feature: str, max_feats: int, save_dir: str = 'result', use_filtered: bool = True):
     start_time = time.time()
 
     study = optuna.create_study(direction='maximize')
-    study.optimize(lambda trial: objective(trial, method, target_feature, max_feats, use_filtered), n_trials=n_trials)
+    study.optimize(lambda trial: objective(trial, method, n_langs, target_feature, max_feats, use_filtered), n_trials=n_trials)
 
     optuna.visualization.matplotlib.plot_optimization_history(study)
 
@@ -144,7 +145,8 @@ def hyperparameter_tuning(method: str, n_trials: int, target_feature: str, max_f
     results_json = json.dumps(results, indent=4)
 
     # Save JSON data to a file
-    with open(f'{save_dir}/optuna_study_results_method_{method}_target_feature_{target_feature}.json', 'w') as f:
+    file_name = f'{save_dir}/optuna_study_results_method_{method}_target_feature_{target_feature}.json' if n_langs == -1 else f'{save_dir}/optuna_study_results_method_{method}_target_feature_{target_feature}_{n_langs}.json'
+    with open(file_name, 'w') as f:
         f.write(results_json)
 
     best_trial = study.best_trial
@@ -158,15 +160,16 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Hyperparameter tuning for different classifiers.')
     parser.add_argument('--method', type=str, required=True, choices=['svm', 'rf', 'logres', 'xgb', 'dt'],
                         help='The classification method to use.')
+    parser.add_argument('--n_langs', type=int, required=True, help='Number of languages to extract data from them and create dataset. Use -1 for using all langs.')
     parser.add_argument('--n_trials', type=int, required=True, help='Number of trials for Optuna.')
     parser.add_argument('--use_filtered', action='store_true', help='Use filtered data if set; otherwise, use unfiltered data.')
     
     args = parser.parse_args()
-    
+
     # Load data based on whether filtering is enabled
     miltale_X, max_feats = load_data(args.use_filtered)
     target_features = myutils.target_features[40:60]
 
     for target_feature in tqdm(target_features):
         save_dir = 'result' if args.use_filtered else 'result/unfiltered'
-        hyperparameter_tuning(args.method, args.n_trials, target_feature, max_feats, save_dir=save_dir, use_filtered=args.use_filtered)
+        hyperparameter_tuning(args.method, args.n_trials, args.n_langs ,target_feature, max_feats, save_dir=save_dir, use_filtered=args.use_filtered)
