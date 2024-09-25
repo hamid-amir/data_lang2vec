@@ -16,20 +16,22 @@ for dataset in os.listdir(ud_dir):
             test_paths_old.append(test)
 
 pos_data = {}
-for line in open('swadesh data/all-pos.txt'):
+for line in open('data/swadesh_merged/all.pos'):
     tok = line.strip().split('\t')
     pos_data[tok[0]] = tok[1]
 
 def lang_data(lang):
-    if not os.path.isfile('swadesh data/data/' + lang + '.txt'):
+    if not os.path.isfile('data/swadesh_merged/' + lang + '.txt'):
         return {}
     data = {}
-    for line in open('swadesh data/data/' + lang + '.txt'):
+    for line in open('data/swadesh_merged/' + lang + '.txt'):
         tok = line.strip().split(': ')
         if len(tok) != 2:
             continue
+        tok[1] = tok[1].replace('\t', ', ').replace(' | ', ', ')
         for word in tok[1].split(', '):
-            data[word] = pos_data[tok[0]]
+            if tok[0] in pos_data:
+                data[word] = pos_data[tok[0]]
     return data
 
 
@@ -143,3 +145,4 @@ for test_path in test_paths_new:
     outFile.write('\t'.join([str(x) for x in [test_path, score, pos_counts, avg_conf, per_unks, len_subwords, len_words, swadesh_overlap, swadesh_correct]]) + '\n')
     print(lang, swadesh_overlap, swadesh_correct)
 outFile.close()
+

@@ -117,7 +117,7 @@ for line in open('data/iso-639-3.tab'):
 #name = 'UD2.14-pos' + lm.replace('/', '_') + '.' + str(diverse) + '.' + str(smoothing)
 #model_path = myutils.getModel(name)
 
-#done = set([line.split('\t')[0] for line in open('9.out')])
+done = set([line.split('\t')[0] for line in open('9.out')])
 
 outFile = open('9.out', 'w')
 for test_path in os.listdir(miltale_dir):
