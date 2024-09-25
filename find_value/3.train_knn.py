@@ -48,20 +48,24 @@ results = dict()
 results_pm = dict()
 
 for target_feature in tqdm(myutils.target_features):
+# for target_feature in ['S_VOX', 'S_OBLIQUE_AFTER_VERB', 'P_COMPLEX_ONSETS', 'P_NASALS', 'S_SUBJECT_BEFORE_VERB']:
     feature_X, feature_Y = list(), list()
     feature_X_pm, feature_Y_pm = list(), list()
     X_test, Y_test = list(), list()
+    langs, langs_test = list(), list()
     for i, name in enumerate(names):
         lang, feat = name.split('|')[0], name.split('|')[1]
         if feat == target_feature:
             feature_X.append(X[i])
             feature_Y.append(Y[i])
+            langs.append(lang)
         if feat == target_feature and (lang, feat) not in probable_missings_langs_feats:
             feature_X_pm.append(X[i])
             feature_Y_pm.append(Y[i])
         if feat == target_feature and (lang, feat) in probable_missings_langs_feats:
             X_test.append(X[i])
             Y_test.append(Y[i])
+            langs_test.append(lang)
 
 
     from sklearn.neighbors import KNeighborsClassifier
@@ -69,14 +73,50 @@ for target_feature in tqdm(myutils.target_features):
 
     # First eval : k-fold cross validation using all present values: k=10 according to the original lang2vec paper
     result = cross_validation(clf, feature_X, feature_Y, print_result=False, cv=min(10, len(feature_X)))
-    results[target_feature] = result['f1']
+    results[target_feature] = {
+        'f1': result['f1'],
+        'predictions': [] 
+    }
+    for i, (true, pred) in enumerate(zip(feature_Y, result['pred_y'])):
+        results[target_feature]['predictions'].append({
+            'is_correct': 'correct' if true == pred else 'incorrect',
+            'true_label': true,
+            'predicted_label': pred,
+            'language': langs[i],
+            'lang_geo': myutils.getGeo(langs[i]),
+            'lang_group': myutils.getGroup(langs[i]),
+            'lang_aes': myutils.getAES(langs[i]),
+            'lang_wikiSize': myutils.getWikiSize(langs[i]),
+            'lang_speakers': myutils.get_aspj_speakers(langs[i]),
+            'lang_fam': myutils.get_fam(langs[i]),
+            'lang_scripts': list(myutils.getScripts(langs[i])),
+        })
+
 
     # Second eval : probable missings validation
     if len(X_test) > 0:
         clf.fit(feature_X_pm, feature_Y_pm)
         y_pred = clf.predict(X_test)
         f1 = 100*f1_score(Y_test, y_pred, pos_label=0)
-        results_pm[target_feature] = f1
+        results_pm[target_feature] = {
+            'f1': f1,
+            'predictions': []  
+        }
+
+        for i, (true, pred) in enumerate(zip(Y_test, y_pred)):
+            results_pm[target_feature]['predictions'].append({
+                'is_correct': 'correct' if true == pred else 'incorrect',
+                'true_label': true,
+                'predicted_label': pred,
+                'language': langs_test[i],
+                'lang_geo': myutils.getGeo(langs_test[i]),
+                'lang_group': myutils.getGroup(langs_test[i]),
+                'lang_aes': myutils.getAES(langs_test[i]),
+                'lang_wikiSize': myutils.getWikiSize(langs_test[i]),
+                'lang_speakers': myutils.get_aspj_speakers(langs_test[i]),
+                'lang_fam': myutils.get_fam(langs_test[i]),
+                'lang_scripts': list(myutils.getScripts(langs_test[i])),
+            })
 
 
 

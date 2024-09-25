@@ -62,6 +62,7 @@ def cross_validation(clf: ClassifierMixin, x: list, y: list, cv: int = 5, print_
         print('seconds: {:.2f}'.format(seconds))
 
     return {
+        'pred_y': pred_y,
         'base_acc': base_acc,
         'model_acc': model_acc,
         'f1': f1,
